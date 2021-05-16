@@ -5,5 +5,5 @@
     layout: "page"
     comments: true
     search: true
-    sidebar: kannada_sidebar
-    unicode_script: kannada
+    sidebar: bhAShAntara_sidebar
+    unicode_script: devanagari
