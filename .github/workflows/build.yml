@@ -33,7 +33,7 @@ jobs:
       run: |
         set -o xtrace
         echo "=====${{ steps.changed-files.outputs.all}}======"
-        echo "===== --depth 1 below would not work https://github.com/vvasuki/bhAShAntaram/runs/2680782667 . ======"
+        echo "===== --depth 1 below would not work https://github.com/vishvAsa/bhAShAntaram/runs/2680782667 . ======"
         git submodule update --init --recursive
         git submodule update --remote --merge --recursive
     - name: Setup Hugo

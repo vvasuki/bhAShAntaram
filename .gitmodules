@@ -1,6 +1,6 @@
 [submodule "content"]
 	path = content
-	url = https://github.com/vvasuki/bhAShAntaram.git
+	url = https://github.com/vishvAsa/bhAShAntaram.git
 	branch = content
 [submodule "themes/sanskrit-documentation-theme-hugo"]
 	path = themes/sanskrit-documentation-theme-hugo
