@@ -2,12 +2,13 @@
 title = "adam dārayavauš"
 +++
 
+## पाठः
 baga vazraka auramazdā,  
 hya+++(=य)+++ imām būmim adā+++(त्)+++,  
 hya avam asmānam+++(=अश्मानम् → मेघवन्तम् आकाशम्)+++ adā,  
 hya martiyam adā,  
-hya šiyātim+++(=तिष्टिम्)+++ adā martiyahyā,  
-hya **dārayavaum** xšāyaθiyam akunauš,  
+hya šiyātim+++(=→तुष्टिम्)+++ adā martiyahyā,  
+hya **dārayavaum**+++(=धारावाहकं)+++ xšāyaθiyam akunauš,  
 aivam parūvnām+++(=पुरूणाम्)+++ xšāyaθiyam,  
 aivam parūvnām framātāram+++(=प्रमातारम्)+++.  
 
@@ -17,4 +18,7 @@ xšāyaθiya dahyūnām+++(=दस्यूनां →भूमीनाम्
 xšāyaθiya ahyāyā būmiyā vazrakāyā,  
 dūraiapiy vištāspahyā+++(=विष्टाश्वस्य)+++ puça+++(=पुत्रः)+++  
 haxā-manišiya+++(=अच्छमनुष्य →Achaemenid)+++ pārsa+++(=पारसीकः)+++,  
-pārsahyā puça, ariya ariya-ciça 
+pārsahyā puça, ariya ariya-ciça+++(=चित्र)+++ 
+
+## परिचयः
+- Darius Naqsh-e Rustam inscription a = DNa inscription 
