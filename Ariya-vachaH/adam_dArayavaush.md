@@ -17,8 +17,8 @@ xšāyaθiya xšāyaθiyānām,
 xšāyaθiya dahyūnām+++(=दस्यूनां →भूमीनाम्)+++ vispa-zanānām,  
 xšāyaθiya ahyāyā būmiyā vazrakāyā,  
 dūraiapiy vištāspahyā+++(=विष्टाश्वस्य)+++ puça+++(=पुत्रः)+++  
-haxā-manišiya+++(=अच्छमनुष्य →Achaemenid)+++ pārsa+++(=पारसीकः)+++,  
-pārsahyā puça, ariya ariya-ciça+++(=चित्र)+++ 
+haxā-manišiya+++(=साक्ष्य-मनुष्य →Achaemenid)+++ pārsa+++(=पारसीकः)+++,  
+pārsahyā puça+++(=पुत्रः)+++, ariya ariya-ciça+++(=चित्र)+++ 
 
 ## परिचयः
 - Darius Naqsh-e Rustam inscription a = DNa inscription 
