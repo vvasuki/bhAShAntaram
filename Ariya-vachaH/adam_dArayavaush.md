@@ -17,8 +17,9 @@ xšāyaθiya xšāyaθiyānām,
 xšāyaθiya dahyūnām+++(=दस्यूनां →भूमीनाम्)+++ vispa-zanānām,  
 xšāyaθiya ahyāyā būmiyā vazrakāyā,  
 dūraiapiy vištāspahyā+++(=विष्टाश्वस्य)+++ puça+++(=पुत्रः)+++  
-haxā-manišiya+++(=साक्ष्य-मनुष्य →Achaemenid)+++ pārsa+++(=पारसीकः)+++,  
-pārsahyā puça+++(=पुत्रः)+++, ariya ariya-ciça+++(=चित्र)+++
+haxā-manišiya+++(=सखा-मनुष्य →Achaemenid)+++  
+pārsa+++(=पारसीकः)+++, pārsahyā puça+++(=पुत्रः)+++, 
+ariya, ariya-ciça+++(=चित्र)+++
 
 ϑātiy+++(=कथयति)+++ Dārayavauš xšāyaϑiya -  
 vašnā+++(=वशेन)+++ Aura-mazdāhā - imā dahyāva+++(=दस्यवो → देशाः)+++ tyā adam agarbāyam  apa-taram hacā Pārsā, adamšām patiyaxšayaiy manā bājim abaraha
