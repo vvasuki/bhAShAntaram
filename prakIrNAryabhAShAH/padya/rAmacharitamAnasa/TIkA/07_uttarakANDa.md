@@ -5540,7 +5540,7 @@ unicode_script = "devanagari"
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
 .org/download/rAmcharitmAnas-AIR/EPI-408.mp3"></div>
 
-## 129.2
+## 129.2 छन्द
 छन्द  
 पाई न केहिं गति पतित पावन राम भजि सुनु सठ मना।  
 गनिका अजामिल ब्याध गीध गजादि खल तारे घना॥  

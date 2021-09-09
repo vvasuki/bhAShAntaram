@@ -31,7 +31,7 @@ unicode_script = "devanagari"
 .org/download/rAmcharitmAnas-AIR/EPI-132.mp3"></div>
 
 
-## 000.1 दोहा
+## 000.2 दोहा
 दोहा  
 श्री गुरु चरन सरोज रज निज मनु मुकुरु सुधारि।  
 बरनउँ रघुबर बिमल जसु जो दायकु फल चारि॥  

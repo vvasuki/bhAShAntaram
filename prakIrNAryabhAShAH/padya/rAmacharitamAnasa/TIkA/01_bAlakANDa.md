@@ -8,6 +8,7 @@ unicode_script = "devanagari"
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
 .org/download/rAmcharitmAnas-AIR/EPI-001.mp3"></div>
 
+श्लोक  
 वर्णानामर्थसङ्घानां रसानां छन्दसामपि।  
 मङ्गलानां च कर्त्तारौ वन्दे वाणीविनायकौ॥1॥  
 
