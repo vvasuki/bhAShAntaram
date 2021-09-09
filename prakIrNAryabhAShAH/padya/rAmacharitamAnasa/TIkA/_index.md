@@ -1,5 +1,5 @@
 +++
-title = "+रामचरितमानस-टीका"
+title = "+टीका"
 unicode_script = "devanagari"
 
 +++
