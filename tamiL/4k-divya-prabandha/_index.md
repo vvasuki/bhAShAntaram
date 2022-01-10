@@ -1,5 +1,7 @@
 +++
-title = "+ ೪೦೦೦ ದಿವ್ಯಪ್ರಬನ್ಧಮ್"
+title = "+ ४००० दिव्यप्रबन्धम्"
 +++
 
-ಮೂಲಮ್ - [PM](https://www.projectmadurai.org/pmworks.html) ।
+मूलम् - [PM](https://www.projectmadurai.org/pmworks.html) ।
+
+- पाशुरम् = पाट् + सुरम्+++(=सुरियुविकॆ)+++
