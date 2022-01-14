@@ -27,6 +27,21 @@ title = "०२ तिरुप्-पावै"
 </details>
 
 
+<details><summary>English</summary>
+
+This is a song which is a prelude to Thiruppavai and is generally termed as thaniyan or that which stands separately..
+
+Andal from the swan filled Puduvai,  
+Sang she, in her sweet voice,  
+Several enchanting sweet odes,  
+For being sung during,  
+The worship and adulation of Pavai.  
+They are but  a garland to him,  
+From her who wore them first,  
+Before presenting them to Him.  
+
+</details>
+
 
 ————-
 
@@ -50,6 +65,28 @@ title = "०२ तिरुप्-पावै"
 कृष्णः पद्मायताक्षो दिशति च करणान्यस्मदभ्यर्थितानि ॥ १॥
 </details>
 
+<details><summary>English</summary>
+
+Oh, people of this world,  
+Be pleased to hear of those penances,  
+That we daily do for the worship of Pavai,  
+We will sing of those holy feet,  
+Of Him who sleeps in the ocean of milk5,  
+We will not take the very tasty ghee,  
+We will avoid the health giving milk,  
+We will daily bathe before the dawn,  
+We will not wear any collyrium6 to the eye,  
+We will not tie flowers in our hair,  
+We will not do Any act  that is banned,  
+We will not talk ill of any to any one else,  
+We will give alms and do charity,  
+As much as we can,  
+And do all those acts to make others free of sorrow,  
+And worship our Goddess Pavai.
+</details>
+
+
+
 ## ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
 वैयत्तु वाऴ्वीर्गाळ् नामुं नं पावैक्कु,  
 शॆय्युं किरिशैगळ् केळीरो, पाऱ्‌कडलुळ्  
@@ -69,6 +106,27 @@ title = "०२ तिरुप्-पावै"
 नास्माभिर् विमुखीभिर् अर्थिनिवहे भाव्यं, प्रसूनाञ्जने  
 धार्ये नैव, कुपुस्तकादि-पठनं त्याज्यं ह्य् अकृत्यं तथा ॥ २॥
 </details>
+
+<details><summary>English</summary>
+
+If we sing the praise of Him,  
+Who grew big and measured the world7,  
+And worship our Goddess Pavai ,  
+Then would there be at least three rains a month,  
+And the red paddy plants would grow big,  
+And in their fields would the fish swim and play ,  
+And the spotted bees  after sipping honey,  
+To their hearts content ,  
+Would sleep in the flower themselves   
+After having their fill,  
+And the cows with big udder   
+Would fill milk pots to the brim,  
+And healthy cows and never diminishing wealth,  
+Would fill the country,  
+And all this I assure  by worship of our Goddess Pavai.
+</details>
+
+
 
 ## ०३ फलं - ओङ्गि युलगळन्द
 ओङ्गि युलगळन्द उत्तमन् पेर् पाडि,  
@@ -90,6 +148,26 @@ title = "०२ तिरुप्-पावै"
 देवो वर्षति मासि मासि च जनाः नित्यश्रियं प्राप्नुयुः ॥ ३॥
 </details>
 
+<details><summary>English</summary>
+
+Please obey our wishes,  
+Oh rain God who comes from the sea,  
+Enter the sea, please, and bring water to your fill,  
+And with zest and sound take it up,  
+And like the  God of the deluge become black,  
+And shine like the holy wheel in the hands ,  
+Of The God Padmanabha8 who has powerful biceps,  
+And make booming pleasing sounds,  
+Like the right spiraled conch,  
+And rain with out stop like the arrow storm,  
+From Saranga the bow of Vishnu and descend on us,  
+To make this world happy,  
+And to help us take bath in  month of  Margahzhi,  
+And worship our goddess Pavai.
+</details>
+
+
+
 ## ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
 आऴिमऴै क्कण्णा ऒन्ऱु नी कैकरवेल्,  
 आऴियुळ् पुक्कु मुगन्दु कॊडार्तेऱि,  
@@ -110,6 +188,29 @@ title = "०२ तिरुप्-पावै"
 स्नात्वा तत्र समाप्य सुव्रतम् इदं तुष्टा भवामो वयम् ॥ ४॥
 </details>
 
+<details><summary>English</summary>
+
+To Him the enchanter of all,  
+To Him the son of Mathura9 in the north,  
+To Him who played and frolicked,  
+In the shores of  holy Yamuna10,  
+To Him who is the ornamental lamp,  
+Of the family of cow herds,  
+And to the Damodhara11 who made ,  
+His mothers womb holy,  
+We came after a holy bath,  
+And  offered pure flowers at his feet,  
+And  sang with our mouth,  
+And brought the thoughts of him in our mind,  
+And we were sure,  
+That all our mistakes of the past,  
+And all that we will do in future,  
+Will vanish as ashes in fire,  
+Oh, Goddess Pavai.
+</details>
+
+
+
 ## ०५ नामस्मरण-प्रभावः - मायनै मन्नु
 मायनै मन्नु वडमदुरै मैन्दनै,  
 तूय पॆरुनीर् यमुनै त्तुऱैवनै,  
@@ -129,6 +230,23 @@ title = "०२ तिरुप्-पावै"
 तं देवं मनसा स्मरेम वचसा सङ्कीर्तयामो यदि  
 ह्य् अग्नौ तूलम्+++(=वर्तिका)+++ इवाखिलं कृतम् अघं नश्येद् भविष्यच् च नः ॥ ५॥
 </details>
+
+<details><summary>English</summary>
+
+Did you not hear  alternate  twittering birds making  loud noises,  
+Did you not hear the loud sound of white conch,  
+From the temple of the king of  Garuda12,  
+Oh , girls please wake up,  
+Let us hear the holy sounds of  “Hari13, Hari”.  
+From the savants and sages,  
+Calling him who drank the poisonous milk from the ghost14,  
+Him who kicked and killed the ogre of the cart15,  
+And him who sleeps on the great serpent Adi Sesha  
+So that it goes through our mind,  
+And make our mind cool, Oh, Goddess Pavai.
+</details>
+
+
 
 ## ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
 पुळ्ळुं शिलम्बिन काण् पुळ्ळरैयन् कोयिलिल्,  
@@ -151,6 +269,23 @@ title = "०२ तिरुप्-पावै"
 
 </details>
 
+<details><summary>English</summary>
+
+Did you not hear  alternate  twittering birds making  loud noises,  
+Did you not hear the loud sound of white conch,  
+From the temple of the king of  Garuda12,  
+Oh , girls please wake up,  
+Let us hear the holy sounds of  “Hari13, Hari”.  
+From the savants and sages,  
+Calling him who drank the poisonous milk from the ghost14,  
+Him who kicked and killed the ogre of the cart15,  
+And him who sleeps on the great serpent Adi Sesha  
+So that it goes through our mind,  
+And make our mind cool, Oh, Goddess Pavai.
+</details>
+
+
+
 ## ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
 कीशु कीशॆन्ऱॆङ्गुं आनैच्चात्तन्,  
 कलन्दु पेशिन पेच्चरवं केट्टिलैयो पेय् प्पॆण्णे,  
@@ -170,6 +305,30 @@ title = "०२ तिरुप्-पावै"
 यन् मथ्नन्ति दधीह तेन जनितान् शब्दांश् च यत् केशवं  
 ब्रूमस् तद्-भवती न किं निशमयत्य् उत्तिष्ठ बाले शुभे ॥ ७॥
 </details>
+
+<details><summary>English</summary>
+
+Did you not hear , Oh slow witted girl,  
+The  twittering sound of black birds of the morn,  
+Which sounds like a talk between them,  
+Did you not hear the tingling sound ,  
+When the big and small coin like pendants,  
+Rub against each other,  
+Did you not hear the  sound of  vigouros pull,  
+Of the  curd churner being pulled,  
+By the flower bedecked cow herdesses,  
+Did you not hear the sound of  twirling curd,  
+When churned using  the mixer,  
+Oh, leader among girls,  
+How can you sleep,  
+When they sing the names sweetly.  
+Of Narayana16 and Kesava17,  
+Oh, She who   is sparkling,  
+Be pleased to open the door,  
+And worship our goddess Pavai.
+</details>
+
+
 
 ## ०८ गोपीप्रतीक्षा - कीळ्वानम्
 कीऴ्+++(=पूर्व)+++वानं+++(=खं)+++ वॆळ्ळ्+++(=बॆळ्ळ्)+++ ऎन्ऱु, ऎरुमै शिऱु+++(=किरु)+++-वीडु+++(=बिडुवु)+++,  
@@ -191,6 +350,29 @@ title = "०२ तिरुप्-पावै"
 प्राप्ताः स्मस् त्वां हि नेतुं +++(बाले)+++, बक-मुख-शमनं कृष्णम् उच्चैः स्तुवन्त्यः ॥ ८॥
 </details>
 
+<details><summary>English</summary>
+
+The eastern sky has become white,  
+The buffalos are free to walk and graze,  
+The remaining lasses , have stopped from going,  
+All those who wanted to go,  
+And have come to  call you,  
+Oh girl filled with happiness,  
+Please wake up.  
+Let us all sing and get gifts,  
+From Him who has killed the horse like ogre18,  
+By pulling apart his mouth,  
+From Him who killed the wrestlers19 ,  
+Sent to kill him,  
+From the Narayana, who is first among the Gods,  
+And prostrate before him..  
+Please hear what we tell.  
+And decide for yourself,  
+And worship our Goddess Pavai
+</details>
+
+
+
 ## ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
 तूमणिमाडत्तु च्चुट्रुं विळक्कॆरिय,  
 तूपं कमऴ त्तुयिलणै मेल् कण्वळरुम्,  
@@ -210,6 +392,27 @@ title = "०२ तिरुप्-पावै"
 मूका किं बधिरालसा तव सुता स्वापाभिचारं गता  
 किं वा कीर्तय मायिनं हरिम् इमां क्षिप्रं त्वम् उत्थापय ॥ ९॥
 </details>
+
+<details><summary>English</summary>
+
+Oh my uncle’s daughter , who sleeps ,  
+In the  soft cotton bed,  
+In the pearl filled Villa,  
+Well lit from all sides,  
+And full of the smoke of incense,  
+Please open the ornamental door.  
+Oh aunt, why don’t  you wake her up,  
+Is your daughter dumb or deaf ,  
+Or down right lazy,  
+Or she  is in trance of deep pleasurable sleep,  
+Let us all call him the great enchanter,  
+Madhavan20 and he who lives in Vaikunta21,  
+By several of His names,  
+And get benefited ,  
+And worship the Goddess Pavai.
+</details>
+
+
 
 ## १० निद्रास्पर्धा - नोट्रु स्वर्गम्
 नोट्रुच् चुवर्क्कं+++(=स्वर्गम्)+++ पुगुगिन्ऱ अम्मनाय्,  
@@ -231,6 +434,30 @@ title = "०२ तिरुप्-पावै"
 येन त्वं स्वपिषीदृशं बहु-विधं सम्बोध्यमाना मुहुः ॥ १०॥
 </details>
 
+<details><summary>English</summary>
+
+Oh lady fine , who has entered the heaven,  
+Due to penance done  in last birth,  
+Won’t you reply,please  
+Won’t you open the door,please  
+If we pray the God Narayana,  
+Having with him the scented garland,  
+Made of holy basil,  
+He would give us gifts , many,  
+He  is the same who is holy in times ancient,  
+Sent Kumbhakarna22 to his death ,  
+After beating him in the field of war.  
+Did that ogre give you his sleep,  
+Before he went off from here,  
+Oh  lass who is very lazy,  
+Oh lass, who is like pretty jewels,  
+Wake up from your sleep, well,  
+And open the door.  
+And worship the Goddess Pavai.
+</details>
+
+
+
 ## ११ - कट्रुक्कऱवै
 
 कट्रुक्कऱवै क्कणङ्गळ् पलकऱन्दु,  
@@ -241,6 +468,29 @@ title = "०२ तिरुप्-पावै"
 मुट्रं पुगुन्दु मुगिल् वण्णन् पेर् पाड,  
 शिट्रादे पेशादे शॆल्व प्पॆण्डाट्टि,  
 नी ऎट्रुक्कुऱङ्गुं पॊरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ११ ॥
+
+<details><summary>English</summary>
+
+Oh daughter of the cattle baron,  
+Who milks herds of cows,  
+And wages war on enemies  
+And makes his enemies loose their strength,  
+Oh Golden tendril,  
+Oh lass who has the mount of venus,  
+Like the hood of the snake,  
+Wake up and come,  
+When your flock of friends,  
+Have come to your courtyard,  
+And sing of Krishna ,  
+Who has the colour of the cloud,  
+Oh rich , rich lady,  
+How can you neither move nor talk,  
+And lie in deep trance,  
+And not worship our Goddess pavai.
+
+</details>
+
+
 
 ## १२  - कनैत्तिळं
 कनैत्तिळं कट्रॆरुमै कन्ऱुक्किऱङ्गि,  
@@ -262,6 +512,29 @@ title = "०२ तिरुप्-पावै"
 वृन्दैः संस्तुत-रावणारि-विभवं श्रुत्वापि नोद्बुध्यसे ॥ १२॥
 </details>
 
+<details><summary>English</summary>
+
+Hey, sister of  the  rich one , who owned,  
+The mooing  she buffalow with a calf ,  
+Which  took pity on the calf,  
+And gave out plenty,  
+Of milk to it through its udder,  
+And made his courtyard slushy with milk,  
+We are assembled in thine yard,  
+In the dripping fog,  
+And sing about Him,  
+Who killed in anger the king of  Southern Lanka23,  
+And who is very dear one,  
+But open your mouth, you don’t..  
+Atleast wake up now,  
+Why this very deep slumber,  
+For people of all houses around,  
+Have already become alert  
+And are ready to worship our Goddess Pavai...
+</details>
+
+
+
 ## १३  - पुळ्ळिन् वाय्
 पुळ्ळिन् वाय् कीण्डानै प्पॊल्ला वरक्कनै  
 क्किळ्ळि क्कळैन्दानै क्कीर्तिमै पाडिप्पोय्,  
@@ -281,6 +554,28 @@ title = "०२ तिरुप्-पावै"
 शुक्रः प्रादुरभूद् बृहस्पतिर् अगाद् अस्तं द्विजाश् चोत्थिताः  
 बाले त्व् ईदृश-काल एव शयिता स्नानं ह्य् अकृत्वा शुभे ॥ १३॥
 </details>
+
+<details><summary>English</summary>
+
+The lasses have reached,  
+The place of prayer for Pavai,  
+Singing the  fame of our Lord.  
+Who killed the ogre who came like a stork.24  
+And who cut off the heads of the bad ogre25,  
+One by one.  
+The venus has risen in the morn,  
+The Jupiter has vanished from the sky,  
+The birds are making lot of sound,  
+Of beautiful one with wide eyes red as a flower.  
+Without taking bath by dipping again and again,  
+In ice cold water,  
+Would you prefer to sleep.  
+Oh lass, On this holy day,  
+Do not stay aside,  
+And come to bathe with us.  
+And worship our Goddess Pavai.
+</details>
+
 
 
 ## १४  - उङ्गळ् पुऴैक्कडै
@@ -303,6 +598,29 @@ title = "०२ तिरुप्-पावै"
 उक्तिः किं तव नैव लज्जयति तत् - प्रोत्थाय कृष्णं भज ॥ १४॥
 </details>
 
+<details><summary>English</summary>
+
+In the pond in the backyard of  your house.  
+The lily in the ponds have opened,  
+The night flowers have closed,  
+The white toothed  sages,  
+Who wear clothes as  red as,  
+The powder of brick,  
+Are going to their temples.  
+To sound the conch.  
+You who promised to wake us up,  
+Please wake up,  
+Are you not ashamed,   
+You chatter box,  
+Let us all sing about the lotus eyed one,  
+Who has a holy conch and wheel26,  
+In his hands,  
+And worship our Goddess Pavai.
+
+</details>
+
+
+
 ## १५  - ऎल्ले! इळङ्किळिये
 ऎल्ले! इळङ्किळिये इन्नमुऱङ्गुदियो,  
 शिल्लॆन्ऱऴैयेन्मिन् नङ्गैमीर् पोदरुगिन्ऱेन्,  
@@ -322,6 +640,23 @@ title = "०२ तिरुप्-पावै"
 किं सर्वाः समुपागमन् ? ननु तथा सङ्ख्याय जानीहि तत्  
 त्वं तं मायिनम् उग्र-शत्रु-शमनं कृष्णं सखायं स्मर ॥ १५॥
 </details>
+
+<details><summary>English</summary>
+
+“Hey, little bird, Are you still sleeping?27”  
+“Don’t disturb my sleep , Lasses, I will just come”.  
+“You are good in your speech, We know what you mean.”  
+“You be good, but leave me alone”  
+“Come quickly, why is it different for you?”  
+“Have every one gone?”  
+“Gone, think they have gone”  
+“Please wake up and sing,  
+Of he who killed the big elephant28,  
+Of him who can remove enmity from enemies,  
+And of him who is the holy enchanter,  
+And worship our Goddess Pavai.”
+</details>
+
 
 
 ## १६  - नायगनाय् निन्ऱ
@@ -344,6 +679,24 @@ title = "०२ तिरुप्-पावै"
 आप्ताः सेवितुम् एव तं मणिमयं तस्मात् कवाटं नुद ॥ १६॥
 </details>
 
+<details><summary>English</summary>
+
+Hey , He who guards the palace of Nanda Gopa29,  
+Hey, who gauards the ornamental door with flags,  
+Please be kind to open  the door with bells,  
+For yesterday  the enchanter  Kannan30,  
+Has promised to give  beating drums,  
+To us the girls from the  houses of cow herds.  
+We have come after purification,  
+To wake Him up with song,  
+So do not talk of this and that, Hey dear man,  
+And open the door with closed latches,  
+So that we can worship our Goddess Pavai.
+
+</details>
+
+
+
 ## १७   - अम्बरमे तण्णीरे
 अम्बरमे तण्णीरे शोऱे अऱं शॆय्युम्,  
 ऎम्बॆरुमान् नन्दगोपाला ऎऴुन्दिराय्,  
@@ -362,6 +715,23 @@ title = "०२ तिरुप्-पावै"
 स्वामिन्य् उत्तम-वंशजे शुभ-गुणे निद्रं यशोदे त्यज ।  
 व्याप्य व्योम पद-त्रयेण तु जगन्-मातः प्रबुध्यस्व हे  
 विष्णो त्वं बल-भद्र कृष्ण-सहितश् चोत्तिष्ठ कृष्ण-प्रिय ॥ १७॥
+</details>
+
+<details><summary>English</summary>
+
+Hey Nandagopa , who does good deeds and charity,  
+Who gives water, cloth and food to others,  
+Pleas wake up.  
+Our lady Yasodha, who is the light of the homes of cow herds,  
+She who is dear to all the ladies,  
+Please wake up.  
+Hey ,Krishna who is the  king of  Gods,  
+Who went up tearing th sky.  
+Please wake up, and do not sleep.
+
+Hey Baladeva31, who wears pure golden anklets,  
+Please wake up along with your brother,  
+So we can worship our Goddess Pavai.
 </details>
 
 
@@ -386,6 +756,25 @@ title = "०२ तिरुप्-पावै"
 भूषा-शिञ्जित-मञ्जु-पाणि-कमलेनोद्घाटय स्वार्गलम् ॥ १८॥
 </details>
 
+<details><summary>English</summary>
+
+Hey , Who is the fair daughter in law,  
+Of Nanda gopa , who has several elephants,  
+And who is a great hero who never ran away from his enemies,  
+Hey Lady Nappinnai32,who has hair surrounded by holy scent,  
+Please be kind to open the door.  
+The cocks are everywhere waking us up,  
+The koels flock on the jasmine Pandals,  
+And coo so that we all wake up,  
+Hey Lady who happily plays ball,  
+To help us sing your Lords fame,  
+With your hands with tingling bangles,  
+Please open the door with happiness,  
+So that we can worship our Goddess Pavai.
+</details>
+
+
+
 ## १९  - कुत्तु विळक्कॆरिय
 कुत्तु विळक्कॆरिय क्कोट्टुक्काल् कट्टिल् मेल्,  
 मॆत्तॆन्ऱ पञ्चशयनत्तिन् मेलेऱि,  
@@ -405,6 +794,24 @@ title = "०२ तिरुप्-पावै"
 देवि त्वं न किलेच्छसि स्वशयनात् कान्तं कदा ऽप्य् उत्थितं  
 त्वं चेन् न क्षण-विप्रयोग-सहना तत्त्वं न तन् नो दया ॥ १९॥
 </details>
+
+<details><summary>English</summary>
+
+In the light of the oil lamp,  
+On the ornamental four legged ivory  cot,  
+On the soft bed filled with cotton,  
+Reclining on the busts of Nappinnai ,  
+You sleep, Oh he who has a flower like heart,  
+Please open your mouth .  
+She who has , wide black eyes with collyrium.  
+We know that you will never allow him to wake up,  
+For you can never bear to be away from Him,  
+This is not that good,  
+And cannot be accepted by us.  
+Please allow us to worship our Goddess Pavai.
+</details>
+
+
 
 ## २०  - मुप्पत्तु मूवर्
 मुप्पत्तु मूवर् अमरर्कु मुन् शॆन्ऱु+++(=सेरि)+++,  
@@ -426,6 +833,28 @@ title = "०२ तिरुप्-पावै"
 कृष्णं चान्यद् अपेक्षितं च करणं दत्वा व्रतं कारय ॥ २०॥
 </details>
 
+<details><summary>English</summary>
+
+Please wake up Oh, Lord,  
+Who removed sorrow and fear,  
+From the thirty three sections of  Devas33,  
+Even before they approached you,  
+Oh Lord, Who is glittering like gold,  
+Oh Lord, who has inimitable valour,  
+Please wake up,  
+Oh Lady Nappinnai,  
+Who has desirable busts like golden pots.  
+Who has little red mouth,  
+And who has thin narrow hips,  
+Please wake up, Oh Goddess of wealth.  
+Please give mirror and fan,  
+Just now to your consort,  
+And allow us to take bath,  
+And thus worship our Goddess Pavai.
+</details>
+
+
+
 ## २१ नन्दसुतः श्रीमान् बलवान् - एट्र कलङ्गळ्
 एट्र+++(=ऎटकिसिद)+++ कलङ्गळ्+++(=पात्रॆगळ्)+++ ऎदिर् पॊङ्गि मीद्+++(=मेलॆ)+++ अळिप्प,  
 माट्रादे+++(=परिवर्तनं विना)+++ पाल् शॊरियुं+++(=स्रावयितुं)+++ वळ्ळल्+++(=धाराल)+++ पॆरुं पशुक्कळ्  
@@ -444,6 +873,24 @@ title = "०२ तिरुप्-पावै"
 स्वामी धेनु-गणस्य योऽति-महतो गोपस्य तस्यात्मज ।  
 दीनास् त्यक्त-पराक्रमारि-सदृशास् त्वत्-पाद-पद्मान्तिकं  
 प्राप्ताः स्मः श्रित-पालनोद्यत जगद्-दीप प्रबुध्यस्व भो ॥ २१॥
+</details>
+
+<details><summary>English</summary>
+
+Oh son of him,  
+Who owned several cows,  
+Which gave so much milk,  
+That always the milking vessel got overflowed,  
+Please wake up.  
+Oh Lord, who is full of mercy,  
+Oh Lord, who is better than the best,  
+Oh lord, who is the light that began the world,  
+Please wake up.  
+Like your flock of defeated enemies,  
+Falling at your feet in surrender,  
+We came praising you,  
+So that we get fame,  
+And worship our Goddess Pavai.
 </details>
 
 
@@ -467,6 +914,24 @@ title = "०२ तिरुप्-पावै"
 अक्षिभ्याम् उदितार्क-चन्द्र-सदृश-त्विड्भ्यां मनाक् चेद् भवान्  
 अस्मान् पश्यति नष्ट-पाप-निचयाः स्याम प्रहृष्टा वयम् ॥ २२॥
 </details>
+
+
+<details><summary>English</summary>
+
+Like all the famous kings  
+Of the wide World, that is pretty,  
+Have crowded near your cot,  
+After surrendering their ego,  
+We also have come near.  
+Will not the sight ,  
+Of your red eyes which is like the lotus  
+Fall little by little on us?  
+If you see us using those eyes,  
+Which are like sun and the moon,  
+All the curse on us will vanish,  
+And we can worship our Goddess Pavai
+</details>
+
 
 
 <details><summary>नेपाली (ढकाल-चूडामणि-शास्त्री)</summary>
@@ -495,6 +960,7 @@ title = "०२ तिरुप्-पावै"
 कृपा ईश्वरको भेटी सप्रिन्छन् शत्रु ती सब ।।२२।।  
 </details>
 
+
 ## २३ सिंहः - मारिमलै
 मारि+++(←वारि)+++-मलै मुऴैञ्जिल्+++(=गुहॆयुळ्)+++ मन्निक्+++(=अडगि)+++ किडन्द्+++(=मलगि)+++ उऱङ्गुम्+++(=निद्रिसुव)+++,  
 शीरिय+++(=श्रेष्ठ)+++ शिङ्गम्+++(=संहम्)+++ अऱिवुट्रुत् ती+++(=अङ्गार)+++ विऴ्-इत्तु+++(=नेत्रम् उन्मील्य)+++,  
@@ -516,9 +982,26 @@ title = "०२ तिरुप्-पावै"
 
 </details>
 
+
+<details><summary>English</summary>
+
+Like the majestic lion wakes up with ire,  
+From the mountain cave in the rainy season,  
+Looks with fiery sight,  
+And with deep angry sweat from all the hairs,  
+Turns up its head with awe,  
+And comes out  making lots of din,  
+Hey Lord , who is the colour of the blue lotus,  
+Come from your temple to here,  
+And sit on the majestic royal throne,  
+And hear with compassion,  
+For why we have come here,  
+And help us to worship our Goddess Pavai.
+</details>
+
 ## २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
 अन्ऱु+++(=अन्दु)+++ इव्व्+++(=ई)+++ उलगम् अळन्दाय् अडि पोट्रि,  
-शॆन्ऱ्+++(=शेन्दि)+++ अङ्गुत् तॆन्न्+++(=सुन्दर)+++ इलङ्गै+++(=लङ्कै)+++ शॆट्र्+++(=शत्रु)+++ आय् तिऱल्+++(=स्थिरल्)+++ पोट्रि,  
+शॆन्ऱ्+++(=शेन्दि)+++ अङ्गुत् तॆन्न्+++(=दक्षिण)+++ इलङ्गै+++(=लङ्कै)+++ शॆट्र्+++(=शत्रु)+++ आय् तिऱल्+++(=स्थिरल्)+++ पोट्रि,  
 पॊन्ऱच्+++(=नाशनस्य)+++ चगडम्+++(=शकटम्)+++ उदैत्त्+++(=ऒद्दवन्)+++ आय् पुगऴ्+++(=हॊगळ्)+++ पोट्रि,  
 कन्ऱु+++(=करुवन्नु)+++ कुणिल्+++(=sling)+++ आ वॆऱिन्द्+++(=ऎसेदु)+++ आय् कऴल्+++(=पादकङ्कण)+++ पोट्रि,  
 कुन्ऱु+++(=पर्वतं)+++ कुडैय्+++(=कॊडॆय्)+++ आय् ऎडुत्त् आय् गुणं पोट्रि,  
@@ -535,6 +1018,21 @@ title = "०२ तिरुप्-पावै"
 तं गोवर्धन-पर्वतं कृतवतश् छत्रं गुणास् ते जयन्त्व्  
 एतं त्वां शरणं गता वयम् अहो लब्धुं व्रतस्योचितम् ॥ २४॥
 </details>
+
+<details><summary>English</summary>
+
+We worship your feet which measured the world then,  
+We worship your fame of  winning over the king of Southern Lanka,  
+We worship thine valour in breaking the ogre who came like a cart,  
+We worship thy strength which threw the calf on the tree,  
+We worship thine goodness in making the mountain as an umbrella34,  
+And we worship the great spear in your hand which led to your victory,  
+We have come hear to sing always for ever your praises,  
+And get as gift the drums to sing,  
+And worship our Goddess Pavai.
+</details>
+
+
 
 ## २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
 ऒरुत्ति+++(=ऒत्ति)+++ मगन् आय्प् पिऱन्दु, ओर् इरविल्+++(=इरळिल्)+++  
@@ -556,6 +1054,24 @@ title = "०२ तिरुप्-पावै"
 प्राप्ताः स्मः पटहादिकं बहुविधं दत्वा व्रतं कारय ॥ २५॥
 </details>
 
+<details><summary>English</summary>
+
+Being born to woman,  
+And in the same night in hiding .  
+You became  the son of another,  
+But this he could not tolerate,  
+And wanted to cause more harm to you,  
+And you great one , became ,  
+The fire in the stomach of that Kamsa35,  
+We have come here with desire for a drum,  
+And if you give the drum to us,  
+We would sing about thine great fame and wealth,  
+And would end our sorrows and become happy,  
+And worship our Goddess Pavai.  
+</details>
+
+
+
 ## २६ शङ्खादि-परिकराः -  माले मणिवण्णा
 माले+++(=आश्रित-वत्सल)+++ ! +++(इन्द्रनील-)+++मणि-वण्णा ! मार्गऴि+++(=मार्गशिर)+++ नीर् आडुवान्+++(=आडलु)+++,  
 मेलैयार् शॆय्वनगळ्+++(=माडुवुदरल्लि)+++ वेण्डुवन+++(=बेकादवन)+++ केट्टियेल्+++(=केटाले)+++ -  
@@ -575,6 +1091,25 @@ title = "०२ तिरुप्-पावै"
 अत्युच्च-ध्वजम् आवितानम् अखिलं चान्यद्+धरे श्रीपते  
 देहि त्वं वटपत्रतल्प जलदश्याम प्रभो सादरम् ॥ २६॥
 </details>
+
+<details><summary>English</summary>
+
+Oh lord Vishnu , Oh lord who is like the blue sapphire,  
+If you ask us what we need ,  
+In your great grace  and great deeds,  
+For our holy bath of Marghazhi,  
+We will ask for very many conches  
+Like the milk white conch of yours called Pancha Janya,  
+Very many big drums  whose sound can be heard everywhere,  
+Several  musicians of fame to sing “Pallandu36”  
+Several beautiful pretty lamps,  
+Several flags and cloths to make tents,  
+Oh , He who sleeps on a banyan  leaf at time of deluge,  
+Please give us them all,  
+So that we worship our Goddess Pavai.  
+</details>
+
+
 
 ## २७ गानात् पुष्कलो भोगः -  कूडारै वेल्लुम् सीर्
 कूडारै+++(=शत्रुगळै)+++ वॆल्लुं+++(=गॆल्लुं)+++ शीर्+++(=श्री)+++ गोविन्दा, उन्-तन्नै+++(=निन्नन्नु)+++  
@@ -596,6 +1131,26 @@ title = "०२ तिरुप्-पावै"
 स्वाद्व्-अन्नं घृत-दुग्ध-पूर-भरितं भोक्ष्यामहे च त्वया ॥ २७॥
 </details>
 
+<details><summary>English</summary>
+
+Hey Lord Govinda, who is known for victory over enemies,  
+After singing you we will get drums and many gifts,  
+And after being praised by all the people,  
+Wear we will the golden flower on our hair,  
+Wear we will golden bracelets,  
+Wear we will golden ear studs,  
+Wear we would then  the golden flowers on the ear,  
+Wear we will ornaments on the legs,  
+Wear we will pretty new dresses,  
+Eat we will rice mixed with milk,  
+Covering the rice fully with ghee,  
+And with the ghee dripping from our forehands,  
+We will be  together and be  happy,  
+And worship our Goddess Pavai.  
+</details>
+
+
+
 ## २८ अपराध-क्षमा - कऱवैगळ् पिन्
 कऱवैगळ्+++(=गावः)+++ पिन् शॆन्ऱु, कानं+++(=काननं)+++ शेर्न्द् उण्+बोम्+++(=उणृ-पोलॆ)+++,  
 अऱिव् ऒन्ऱुम् इल्लादव् आय्क्+++(=गोपाल)+++ कुलत्तु उन्-तन्नै  
@@ -615,6 +1170,23 @@ title = "०२ तिरुप्-पावै"
 अस्माभिः प्रिय कृष्ण गोप-तनयेत्य् आहूयमानो ऽसकृत्  
 मन्युं मा कुरु चास्मद्-इष्टम् अखिलं सद्यः प्रयच्छ प्रभो ॥ २८॥
 </details>
+
+<details><summary>English</summary>
+
+Belonging to the ignorant family of cow herds,  
+Drive we would the cattle to the forest,  
+And there we would all eat together,  
+But We are blessed that you are one of us..  
+Oh Govinda who does not have any short comings.  
+None can ever break the ties that we have with you,Oh Lord,  
+We are but ignorant girls, who do not know the world,  
+And in ignorance and love  we have called you by name.  
+So please be  not be angry on us,  
+And please give us drums, Oh Lord,  
+So that we can worship our Goddess Pavai.  
+</details>
+
+
 
 ## २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिट्रं शिऱु
 
@@ -637,15 +1209,33 @@ title = "०२ तिरुप्-पावै"
 कैङ्कर्यं करवाम तेऽङ्घ्रि-कमले कुर्या दयां नस् तथा ॥ २९॥
 </details>
 
+<details><summary>English</summary>
+
+Please hear why, In this very early dawn, We have come to worship, Your golden holy feet.  
+Please hear  why,  
+In this very early dawn,  
+We have come to worship,  
+Your golden holy feet.  
+You were born in our family of cow herds,  
+And we are but there to obey your every wish,  
+And not come to get only the drums from you,Oh Govinda.  
+For ever and for several umpteen births,  
+We would be only related to you,  
+And we would be thine slaves,  
+And so please remove all our other desires,  
+And help us to worship Goddess Pavai.  
+</details>
+
+
 
 ## ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
-वङ्गक्+++(=महानौ)+++-कडल् कडैन्द माधवनै केशवनै,  
+वङ्गक्+++(=महा-नौ)+++-कडल् कडैन्द माधवनै केशवनै,  
 तिङ्गळ्+++(=चन्द्र)+++-तिरु-मुगत्तुच्+++(=मुखत्तु)+++ चॆय्+++(=शे=श्रेष्ठ)+++ इऴैयार्+++(=आभरणनानि)+++ शॆन्ऱ् इऱैंजि+++(=स्तुतिसि)+++,  
 अङ्गप् पऱै+++(=इष्टार्थं)+++ कॊण्ड वाट्रै+++(=विषयं)+++, अणि+++(=सु)+++-पुदुवै+++(=श्रीविल्लिपुत्तूर् इत्यस्य)+++  
 पैङ्+++(=सु)+++-गमलत् तण्+++(=तम्प्)+++ तॆरियल्+++(=मालाः)+++ पट्टर्+++(=भट्टर्)+++ पिरान्+++(=जात)+++ गोदै शॊन्न,  
 शङ्गत्+++(=सङ्गत्)+++ तमिऴ्-मालै मुप्पदुं तप्पामे,  
 इङ्गु इप् परिश् उऱैप्पार्+++(=हेळुववरु)+++ ईर्-इरण्डु माल्+++(=महा)+++-वरैत्+++(=पर्वत)+++-तोळ्,  
-शॆङ्-गन् तिरु-मुगत्तुच् चॆल्वत्+++(=श्रीयुत)+++ तिरु+++(=श्री)+++-मालाल्+++(=पतितः)+++,  
+शॆङ्-गन् तिरु-मुगत्तुच् चॆल्वत्+++(=श्रीयुत)+++ तिरु+++(=श्री)+++-मालाल्+++(=पति-तः)+++,  
 ऎङ्गुं तिरुव् अरुळ् पॆट्रु+++(=पडॆदु)+++ इन्ब्+++(=आनन्दम्)+++ उऱुवर्+++(=उळ्ळुवर्)+++ ऎम् बावाय् ॥ ३० ॥
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
@@ -656,6 +1246,24 @@ title = "०२ तिरुप्-पावै"
 प्राप्ता यत्-पटहादिकं, कृतिम् इमां गोदाख्य-देव्या कृताम् ।  
 त्रिंशद्-द्राविड-पद्य-गुम्फन-मयीं ये वा पठन्त्य् आदरात्  
 पद्माकान्त-दयाम् अवाप्य भुवि ते नित्यं सुखं प्राप्नुयुः ॥ ३०॥
+</details>
+
+<details><summary>English</summary>
+
+He who sings with out error,  
+The thirty odes in sweet tamil,  
+Of the story of how the rich ladies ,  
+With faces like moon,  
+Who worshipped and requested,  
+The Madhava who is also Lord Kesava,   
+Who churned the ocean of milk,  
+For getting a drum to worship Goddess Pavai,  
+As sung by Kodhai who is the dear daughter,  
+Of  Vishnu Chitta the bhattar,  
+From the beautiful city of Puduvai,  
+Will  be happy and get the grace,  
+Of our Lord Vishnu  with merciful pretty eyes.  
+And four mountain like shoulders, for ever  
 </details>
 
 
@@ -775,5 +1383,17 @@ title = "०२ तिरुप्-पावै"
 
 श्रीगोदादेव्यै नमः ।
 
+</details>
+
+<details><summary>English</summary>
+Saint Andal also known as Nachiar and also as Kodhai  was the daughter of Vishnu Chitta alias Nammazhwar of Srivilliputtur. She is one of the most important saints of Sri Vaishnavism. At an early age she well in love with Lord Krishna  and because she used to wear the garlands meant for the deity before it is worn by  the God, she was also called Chudi Kodutha Chudar Kodi. People believed that she was an avathara (incarnation)  of Bhooma Devi. At the end of her life she left her ethereal body and mingled with her Lord.  
+
+Her most important poetic work is Thiruppavai. This extols the virtues of Lord Krishna and requests him for help and guidance  in the worship of  Goddess Pavai. The worship of this Goddess was very common in Tamil Nadu since ancient times. The worship was done by unmarried girls. They all used to take bath in the rivers daily early in the dawn, in the month of Margazhi(December-January) and worship the goddess by dance and music and observe very strict penance during the day.This it was believed would get them good husbands and would lead to a very happy married life. On each day one of the hymns are being sung during this month even today.  
+
+Her poetic works reveal her Nayaki-Nayaka bhava (Heroine-Hero feeling) and absolute surrender to the God. Surrender being the bed rock principle on which Sri Vaishnavism rested , she was revered very much. Her sentiments expressed in her pasurams(poems to God) found an immediate echo in the common man’s mind. Sri Ramanuja who was possibly the greatest saint –philosopher of Sri Vaishnavism , extolled her Bhakthi and sang all the thirty Thiruppavai pasurams every day. Because of that he was called Thiruppavai Azhwar. Also there is a practice to this day among Sri Vaishnavas that during the Poojas of God in any of their temples the last two stanzas of Thiruppavai are sung . It is also interesting to know that these two stanzas are also recited in Tamil during coronation of the kings of Thailand (Rama dynasty).+++(5)+++  
+
+ There are very many translations and commentaries available in English of Thiruppavai. But As far as I am aware no one has attempted to translate it in to English verse. By doing so, it has not been possible to include some mystical connotations of these verses .
+
+Each Pasuram(ode to Gods) of Thiruppavai is generally named by the first few words of the poem.
 </details>
 
