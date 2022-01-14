@@ -19,6 +19,12 @@ title = "०२ तिरुप्-पावै"
 वेङ्गड-वऱ्‌क्+++(=वेङ्कटेश्वरर्क्)+++ ऎन्नै विदि+++(=वेदय)+++, यॆन्ऱ इम्+++(=ई)+++ माट्रम्+++(=मातन्नु)+++  
 नान् कडवा+++(=मीरद)+++ वण्णमे+++(=वर्णमे →रीतिये)+++ नल्कु+++(=दयिसु)+++.
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 या स्वयं भट्टनाथस्य  
@@ -58,6 +64,13 @@ Before presenting them to Him.
 कार्+++(=करि[मेघ])+++-मेनिच्+++(=देह-कान्तिय्)+++, चॆङ्-गण्, कदिर्+++(=सूर्य)+++ मतियम्+++(=चन्द्र)+++ +बोल् मुगत्-तान्+++(=मुखदवन्)+++,  
 नारायणने नमक्के पऱै+++(=इष्टार्थं)+++ तरुवान्+++(=तरुत्तानॆ)+++,  
 पार्-ओर्+++(=भूमिस्थानां)+++ पुगऴप्+++(=हॊगळ)+++ पडिन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १ ॥
+
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=nHuaq5N3FAQ" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -110,6 +123,12 @@ In a way that the whole world sings about.
 ऐयमुं पिच्चैयुमान्दनैयुं कैकाट्टि,  
 उय्युमाऱॆण्णि उगन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=h-lvlJ0GQOw" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 व्रतापेक्षित-नियमान् आह काचिद् गोपिका - वैयत्तु वाळ्वीर्काळ् - इति  
@@ -158,6 +177,12 @@ And worship our Goddess Pavai.
 क्कुडं निऱैक्कुं वळ्ळल् पॆरुं पशुक्कळ्,  
 नीङ्गाद शॆल्वं निऱैन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ३ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=LhbTtXM0VhU" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 व्रतानुष्ठानस्य फलं ब्रूते - ओङ्गि उलगलन्द - इति ।  
@@ -204,6 +229,12 @@ And all this I assure  by worship of our Goddess Pavai.
 वाऴ वुलकिनिल् पॆय्दिडाय्, नाङ्गळुं  
 मार्कऴि नीराड मगिऴ्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ४ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=U2rENDjNyZc" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 गोप्यः वर्षकर्तारं पर्जन्यदेवं प्रार्थयन्ते - आळि मळैक्कण्णा - इति ।  
@@ -249,6 +280,13 @@ And worship our goddess Pavai.
 वायिनाल् पाडि मनत्तिनाल् शिन्दिक्क,  
 पोय पिऴैयुं पुगुदरुवा निन्ऱनवुम्,  
 तीयिनिल् तूशागुं शॆप्पेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ५ ॥
+
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=DxA_Uv9q1mg" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -300,6 +338,12 @@ Oh, Goddess Pavai.
 मॆळ्ळवॆऴुन्दु अरियॆन्ऱ पेररवम्,  
 उळ्ळं पुगुन्दु कुळिर्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ६ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=GL9Z-ujkvG0" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 काचिद्गोपिका अपराम् उद्बोधयति - पुळ्ळुं सिलम्पिन काण् - इति ।  
@@ -345,6 +389,12 @@ And make our mind cool, Oh, Goddess Pavai.
 नायग प्पॆण्पिळ्ळाय् नारायणन् मूर्ति,  
 केशवनै प्पाडवुं नी केट्टे किडत्तियो,  
 देशमुडैयाय् तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ७ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=hcB47hRlLw0" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -397,6 +447,12 @@ And worship our goddess Pavai.
 देवादिदेवनै शॆन्ऱु नां शेवित्ताल्+++(=सेविसिदरॆ [नमनदिन्द])+++,  
 आव् आव् ऎन्ऱार् आय्न्द् अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ८ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=3h3Fb8GyEi4" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 एका अपरां प्रबोधयति - कीळ्वानम् - इति ।  
@@ -446,6 +502,12 @@ And worship our Goddess Pavai
 मामायन् मादवन् वैकुन्दन् ऎन्ऱॆन्ऱु,  
 नामं पलवुं नविन्ऱेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ९ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=qMFvS_iY7VI" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 गोपिकास्वन्यतमा अपरां गोपिकां उद्बोधयति - तूमणि माटत्तु - इति ।
@@ -494,13 +556,19 @@ And worship the Goddess Pavai.
 आट्र वनन्दलुडैयाय् अरुङ्गलमे,  
 तेट्रमाय् वन्दु तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १० ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=beXhCV6ycj4" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 गोपिकाम् एकां अपरा प्रबोधयति - नोट्रु स्वर्गम् - इति ।  
 
 अस्माकं पटह-प्रदेन+++(=??)+++ तुलसी-युङ्-मौलिना शार्ङ्गिणा  
-ध्वस्तो रावण-सोदरः स विजितो निद्रा-परीक्षा-विधौ ।  
-चिह्नं स्वीय-पराजयस्य महतीं निद्राम् अदात् किं नु ते  
+ध्वस्तो रावण-सोदरः, स विजितो निद्रा-परीक्षा-विधौ ।  
+चिह्नं स्वीय-पराजयस्य महतीं निद्राम् अदात् किं नु ते +++(निद्रालो!)+++  
 येन त्वं स्वपिषीदृशं बहु-विधं सम्बोध्यमाना मुहुः ॥ १०॥
 </details>
 
@@ -544,6 +612,22 @@ And worship the Goddess Pavai.
 शिट्रादे पेशादे शॆल्व प्पॆण्डाट्टि,  
 नी ऎट्रुक्कुऱङ्गुं पॊरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ११ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=n0dvN9sSGVY" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
+<details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
+
+गाढ-निद्रा-सुखम् अनुभवन्तीं अन्यां गोपीं उत्थापयति - कट्रुक्करवै - इति ।
+
+सम्पन्नस्य च शत्रु-नाशन-विधौ दीक्षा-जुषः पुत्रिके  
+वल्मीकाग्र-फणा-धर-प्रविलसन्-मध्ये मयूरी-निभे ।  
+सख्यस् ते समुपागता जल-धर-च्छायं भजन्त्यो हरिं  
+नोत्तिष्ठस्य् अपि मूक-भाव-सहिता किं मन्यसे निद्रया ॥ ११॥
+</details>
+
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh daughter of the cattle baron,  
@@ -579,6 +663,12 @@ And not worship our Goddess pavai.
 मनत्तुक्किनियानै प्पाडवुं नी वाय् तिऱवाय्,  
 इनित्तानॆऴुन्दिराय् ईदॆन्न पेरुऱक्कम्,  
 अनैत्तिल्लत्तारु मऱिन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १२ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=qfJ8CCDHrbE" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -629,9 +719,15 @@ And are ready to worship our Goddess Pavai...
 पळ्ळिक्किडत्तियो पावाय्! नी नन्नाळाल्,  
 कळ्ळं तविर्न्दु कलन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १३ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=RKCYx8sGRRQ" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
-एकां गोपिकां प्रबोधयति - पुऌन् वाय् - इति ।  
+एकां गोपिकां प्रबोधयति - पुळ्ळिन् वाय् - इति ।  
 
 विष्णुं घोरबकास्य-दारकम् अमुं रक्षः-शिरश्-छेदिनं  
 गायन्त्यः प्रतिपेदिरे व्रत-भुवं सर्वाश् च गोपाङ्गनाः ।  
@@ -677,6 +773,12 @@ And worship our Goddess Pavai.
 नङ्गाय् ऎऴुन्दिराय् नाणादाय् नावुडैयाय्,  
 शङ्गॊडु शक्करमेन्दुं तडक्कैयन्,  
 पङ्गयक्कण्णानै प्पाडेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १४ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=E8NSJbrgr0A" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -725,6 +827,12 @@ And worship our Goddess Pavai.
 वल्लानै कॊन्ऱानै माट्रारै माट्रऴिक्क  
 वल्लानै, मायानै पाडेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १५ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=0TAZQqDZstA" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 अपरां गोपिकामुत्थापयति - एल्ले इळङ्किळिये - इति ।  
@@ -769,6 +877,12 @@ And worship our Goddess Pavai.”
 वायाल् मुन्नमुन्नं माट्रादे अम्मा, नी  
 नेय निलैक्कदवं नीक्केल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १६ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=JMTUbFBGlEA" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 एतावता सर्वाः उद्बुध्य सम्प्रति नन्दगोपस्य गृहद्वारम् आगतवत्यः, प्रथमं दौवारिकं याचन्ते - नायकनाय् निन्ड्र - इति ।  
@@ -811,6 +925,12 @@ So that we can worship our Goddess Pavai.
 उम्बर् कोमाने! उऱङ्गादॆऴुन्दिराय्,  
 शॆं पॊऱ्‌कऴलडि च्चॆल्वा बलदेवा,  
 उम्बियुं नीयुमुऱङ्गेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १७ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=wJKyobpiUsM" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -856,6 +976,12 @@ So we can worship our Goddess Pavai.
 शॆन्दामरै क्कैयाल् शीरार् वळैयॊळिप्प,  
 वन्दु तिऱवाय् मगिऴ्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १८ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=3Fz2yQtLf_s" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 पुरुष-कार-भूतां नीलाम् उद्बोधयन्ति - उन्दु मदकळिट्ट्रन् - इति ।  
@@ -900,6 +1026,12 @@ So that we can worship our Goddess Pavai.
 ऎत्तनैयेलुं पिरिवाट्र गिल्लैयाल्,  
 तत्तुवमन्ऱु तगवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १९ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=wTLI2Yktekg" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 नीलादेवीं पुरस्कृत्य कृष्ण-परमात्मानम् उत्थापयन्ति - कुत्तु विळक्केरिय - इति ।  
@@ -940,6 +1072,12 @@ Please allow us to worship our Goddess Pavai.
 नप्+++(=नल्)+++-पिन्नै+++(=[वयसा] हिन्दिन)+++ नङ्गाय्+++(=नम् पूजायाम् + गै स्त्रियां)+++ तिरुवे+++(=श्रीये)+++ तुयिल्+++(=तूकत्तिन्)+++ ऎऴ् आय्,  
 उक्कमुं+++(=व्यजनं)+++ तट्टॊळियुं+++(=आदर्शं)+++ तन्द् उन् मण्-आळनै+++(=विवाह-पतिं)+++,  
 इप्पोदे यॆम्मै नीर् आट्टेल्+++(=आडिसलु)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २० ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=FVCpj75q7wM" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -988,6 +1126,12 @@ And thus worship our Goddess Pavai.
 आट्रादु+++(=विकल्प-बाहुल्यं विना)+++ वन्दु उन्न् अडि पणियुम्+++(=नीचम्)+++ आ पोले,  
 पोट्रियां+++(=नमस्कारेण)+++ वन्दों पुगऴ्न्देल्+++(=हॊगळिदरे)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २१ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=JR5UV0E_Avw" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 कृष्णपरमात्मानं गोपिकाः प्रबोधयन्ति - एट्ट्र कलङ्गळ् - इति ।  
@@ -1030,6 +1174,12 @@ And worship our Goddess Pavai.
 तिङ्गळुम्+++(=चन्द्रनुम्)+++ आदित्तियनुम् ऎऴुन्दाऱ्+++(=उदय)+++-‌पोल्,  
 अं+++(=आ)+++-गण् इरण्डुं कॊण्डु ऎङ्गळ् मेल् नोक्कुदियेल्+++(=नोडिदरॆ)+++,  
 ऎङ्गळ् मेल् शापम् इऴिन्द्+एल्+++(=इळिदरॆ)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २२ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=D-KcyMGuB-Y" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -1100,6 +1250,12 @@ And we can worship our Goddess Pavai
 शीरिय+++(=श्रेष्ठ)+++ शिङ्गाशनत्त् इरुन्दु, यां+++(=वयं)+++ वन्द  
 कारियम् आराय्न्द्+++(=तिळिदु)+++ अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २३ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=hUCPu-w9RtA" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 गोपाङ्गनाः कृष्णपरमात्माने स्वागमनं निवेदयन्ति - मारिमलै मुळैञ्चिल् - इति ।  
@@ -1141,6 +1297,12 @@ And help us to worship our Goddess Pavai.
 ऎन्ऱ् ऎन्ऱुन् शेवगमेय्+++(=[युद्ध]सेवकताम्)+++ एत्तिप्+++(=हॊगळि)+++ पऱै+++(=इष्टार्थं)+++ कॊळ्वान्+++(=कोळ्ळलु)+++,  
 इन्ऱु+++(=इन्दु)+++ यां+++(=वयं)+++ वन्दोम् इरन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २४ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=kEwg5YZ2w1U" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 भगवतः कृष्णस्य दृष्टिदोषपरिहाराय व्रजस्त्रियः मङ्गलानि प्रार्थयन्ते -अन्ड्रु इव्वुलगमळन्दाय् - इति ।  
@@ -1180,6 +1342,12 @@ And worship our Goddess Pavai.
 अरुत्तित्तु+++(=अर्थयितुम्)+++ वन्दों पऱै+++(=इष्टार्थं)+++ तरुदिय्+++(=तरुवन्तॆ)+++ आगिल्,  
 तिरुत्+++(=श्रीक्)+++-तक्क शॆल्वमुं+++(=सम्पत्तिं)+++ शेवगमुं+++(=[युद्ध]सेवकताम्)+++ यां पाडि,  
 वरुत्तमुं+++(=पीडां)+++ तीर्न्दु मगिऴ्न्देल्+++(=हर्षिसिदरॆ)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २५ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=gysjCu2No7Y" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -1223,6 +1391,12 @@ And worship our Goddess Pavai.
 शालप्+++(=हल)+++ पॆरुं पऱैये+++(=हरॆयन्नु= drum)+++, पल्लाण्ड्+++(→मङ्गलगीतविशेष)+++ इशैप्पारे+++(=गायकान्)+++,  
 कोल विळक्के, कॊडिये+++(=ध्वजमे)+++, वितानमे,  
 आलिन्+++(=आलद)+++ इलैयाय्+++(=ऎलॆयवने)+++ अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २६ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=TNadpl6QAus" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -1269,6 +1443,12 @@ So that we worship our Goddess Pavai.
 मूड+++(=मुळुगुवष्टु)+++ नॆय् पॆय्दु+++(=हुय्दु)+++, मुऴङ्-गै+++(=मॊळ-कै)+++ वऴिवार+++(=वऴिय् इक्रप्डि)+++,  
 कूडिय् +++(खादित्वा)+++ इरुन्दु कुळिर्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २७ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=AX3GGb7zhTc" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 गोपस्त्रियः व्रतमनुष्ठाय तज्जनितं हर्षम् आविष्कुर्वन्ति - कूडारै वेल्लुम् सीर् - इति ।  
@@ -1309,8 +1489,14 @@ And worship our Goddess Pavai.
 कुऱै ऒन्ऱुम् इल्लाद गोविन्दा, उन्-तन्नोडु  
 उऱवेल्+++(=सम्बन्धं)+++ नमक्कु इङ्ग् ऒऴिक्क+++(=नाशिसल्)+++ ऒऴियादु+++(=ऒलियदु)+++,  
 अऱियाद पिळ्ळैगळों, अन्बिनाल्+++(=प्रेम्णा)+++ उन्-तन्नै  
-शिऱु+++(=किरु)+++-पेर् अऴैत्-तनवुं+++(=करॆद-मात्रक्के)+++ शीऱिय्+++(=कोपम्)+++ अरुळादे  
+शिऱु+++(=किरु)+++-पेर्+++(=नामानि)+++ अऴैत्-तनवुं+++(=करॆद-मात्रक्के)+++ शीऱिय्+++(=कोपम्)+++ अरुळादे  
 इऱैवा+++(=सर्वेश)+++! नी ताराय्+++(←तारो)+++ पऱैय्+++(=इष्टार्थं)+++ एल्+++(=चेत्)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २८ ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=Z3h1BoJMwDo" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
@@ -1353,6 +1539,12 @@ So that we can worship our Goddess Pavai.
 उट्रोम्+++(=सम्बद्धास् स्मः)+++ एय् +++(=एव)+++ आवों, उनक्के नां आट्+++(←आळ्)+++ चॆय्वोम्,  
 मट्रै+++(=अन्य)+++ नं कामङ्गळ् माट्र्+++(=विनिमितं)+++ एल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २९ ॥
 
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=xTfF_82e_1Y" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
 एतावता ऐहिक-सुखानि सम्प्रार्थ्य, सम्प्रति स्वाभिलषितम् आमुष्मिक-सुखं याचन्ते - छिट्रञ्चिरुकाले - इति ।  
@@ -1394,6 +1586,12 @@ And help us to worship Goddess Pavai.
 इङ्गु इप् परिश् उऱैप्पार्+++(=हेळुववरु)+++ ईर्-इरण्डु माल्+++(=महा)+++-वरैत्+++(=पर्वत)+++-तोळ्,  
 शॆङ्-गन् तिरु-मुगत्तुच् चॆल्वत्+++(=श्रीयुत)+++ तिरु+++(=श्री)+++-मालाल्+++(=पति-तः)+++,  
 ऎङ्गुं तिरुव् अरुळ् पॆट्रु+++(=पडॆदु)+++ इन्ब्+++(=आनन्दम्)+++ उऱुवर्+++(=उळ्ळुवर्)+++ ऎम् बावाय् ॥ ३० ॥
+
+<details><summary>अभिनयः</summary>
+
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=g4oSE0vQdmA" caption="ऐश्वर्या-नृत्यम्"></div>
+
+</details>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः</summary>
 
