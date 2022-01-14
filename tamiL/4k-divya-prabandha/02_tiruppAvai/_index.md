@@ -1,5 +1,6 @@
 +++
 title = "०२ तिरुप्-पावै"
+
 +++
 
 ## ०० कविनुतिः, प्रतिज्ञा
@@ -47,7 +48,7 @@ Before presenting them to Him.
 
 ## ०१ गोपालसिंहः - मार्गऴित्-तिङ्गळ्
 
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3" caption="vibhA - 01 - Margazhitingal - nATa"></div>
 
 मार्गऴित्+++(=मार्गशीर्ष)+++ तिङ्गळ् मदि+++(→चन्द्र)+++ निऱैन्द+++(=नॆरिन्द)+++ नन्-नाळाल् ,  
 नीराडप् पोदुवीर्+++(=होगुववरु)+++ पोदुमिनो+++(=होगोण)+++ नेर्-इऴैयीर्+++(=स्व्-आभरणाः)+++ ,  
@@ -98,7 +99,7 @@ In a way that the whole world sings about.
 
 
 ## ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3" caption="vibhA - 02 - Vaiyattu Vazhveergal - gauLa"></div>
 
 वैयत्तु वाऴ्वीर्गाळ् नामुं नं पावैक्कु,  
 शॆय्युं किरिशैगळ् केळीरो, पाऱ्‌कडलुळ्  
@@ -145,7 +146,7 @@ And worship our Goddess Pavai.
 
 
 ## ०३ फलं - ओङ्गि युलगळन्द
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3" caption="vibhA - 03 - Ongi Ulagalanda - Arabhi"></div>
 
 
 ओङ्गि युलगळन्द उत्तमन् पेर् पाडि,  
@@ -191,7 +192,7 @@ And all this I assure  by worship of our Goddess Pavai.
 
 
 ## ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3" caption="vibhA - 04 - Aazhi Mazhai - varALi"></div>
 
 
 आऴिमऴै क्कण्णा ऒन्ऱु नी कैकरवेल्,  
@@ -237,7 +238,7 @@ And worship our goddess Pavai.
 
 
 ## ०५ नामस्मरण-प्रभावः - मायनै मन्नु
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3" caption="vibhA - 05 - Maayanai Mannu - shrI"></div>
 
 
 मायनै मन्नु वडमदुरै मैन्दनै,  
@@ -287,7 +288,7 @@ Oh, Goddess Pavai.
 
 
 ## ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3" caption="vibhA - 06 - Pullum - shankarAbharaNam"></div>
 
 
 पुळ्ळुं शिलम्बिन काण् पुळ्ळरैयन् कोयिलिल्,  
@@ -333,7 +334,7 @@ And make our mind cool, Oh, Goddess Pavai.
 
 
 ## ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3" caption="vibhA - 07 - Keesu - Bhairavi"></div>
 
 
 कीशु कीशॆन्ऱॆङ्गुं आनैच्चात्तन्,  
@@ -384,7 +385,7 @@ And worship our goddess Pavai.
 
 
 ## ०८ गोपीप्रतीक्षा - कीळ्वानम्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3" caption="vibhA - 08 - Keezhvaanam - dhanyAsi"></div>
 
 
 कीऴ्+++(=पूर्व)+++वानं+++(=खं)+++ वॆळ्ळ्+++(=बॆळ्ळ्)+++ ऎन्ऱु, ऎरुमै शिऱु+++(=किरु)+++-वीडु+++(=बिडुवु)+++,  
@@ -433,7 +434,7 @@ And worship our Goddess Pavai
 
 
 ## ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3" caption="vibhA - 09 - Thoomani - hamir kalyANi"></div>
 
 
 तूमणिमाडत्तु च्चुट्रुं विळक्कॆरिय,  
@@ -481,7 +482,7 @@ And worship the Goddess Pavai.
 
 
 ## १० निद्रास्पर्धा - नोट्रु स्वर्गम्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3" caption="vibhA - 10 - Nottruchuvarkam - thODi"></div>
 
 
 नोट्रुच् चुवर्क्कं+++(=स्वर्गम्)+++ पुगुगिन्ऱ अम्मनाय्,  
@@ -530,7 +531,7 @@ And worship the Goddess Pavai.
 
 
 ## ११ - कट्रुक्कऱवै
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3" caption="vibhA - 11 - Katrukkaravai Kanangal - husEni"></div>
 
 
 
@@ -567,7 +568,7 @@ And not worship our Goddess pavai.
 
 
 ## १२  - कनैत्तिळं
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3" caption="vibhA - 12 - Kanaittilam Katrerumai - kedAragauLa"></div>
 
 
 कनैत्तिळं कट्रॆरुमै कन्ऱुक्किऱङ्गि,  
@@ -616,7 +617,7 @@ And are ready to worship our Goddess Pavai...
 
 
 ## १३  - पुळ्ळिन् वाय्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3" caption="vibhA - 13 - Pullinvaai Keendanai - aTHANA"></div>
 
 
 पुळ्ळिन् वाय् कीण्डानै प्पॊल्ला वरक्कनै  
@@ -665,7 +666,7 @@ And worship our Goddess Pavai.
 
 
 ## १४  - उङ्गळ् पुऴैक्कडै
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3" caption="vibhA - 14 - Ungal Puzhakkadai - Ananda bhairavi"></div>
 
 
 उङ्गळ् पुऴैक्कडै त्तोट्टत्तु वावियुळ्,  
@@ -712,7 +713,7 @@ And worship our Goddess Pavai.
 
 
 ## १५  - ऎल्ले! इळङ्किळिये
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3" caption="vibhA - 15 - Elle Elang Kiliye - begaDA"></div>
 
 
 ऎल्ले! इळङ्किळिये इन्नमुऱङ्गुदियो,  
@@ -756,7 +757,7 @@ And worship our Goddess Pavai.”
 
 
 ## १६  - नायगनाय् निन्ऱ
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3" caption="vibhA - 16 - Nayagannai Nindra - mOhanam"></div>
 
 
 नायगनाय् निन्ऱ नन्दगोपनुडैय  
@@ -799,7 +800,7 @@ So that we can worship our Goddess Pavai.
 
 
 ## १७   - अम्बरमे तण्णीरे
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3" caption="vibhA - 17 - Ambarame Thaneere - kalyANi"></div>
 
 
 अम्बरमे तण्णीरे शोऱे अऱं शॆय्युम्,  
@@ -843,7 +844,7 @@ So we can worship our Goddess Pavai.
 
 
 ## १८  - उन्दु मद
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3" caption="vibhA - 18 - UndhuMadhagalittran - sAvEri"></div>
 
 
 उन्दु मद गळिट्रनोडाद तोळ्वलियन्,  
@@ -887,7 +888,7 @@ So that we can worship our Goddess Pavai.
 
 
 ## १९  - कुत्तु विळक्कॆरिय
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3" caption="vibhA - 19 - KuttuVilakkeriya - sahAnA"></div>
 
 
 कुत्तु विळक्कॆरिय क्कोट्टुक्काल् कट्टिल् मेल्,  
@@ -928,7 +929,7 @@ Please allow us to worship our Goddess Pavai.
 
 
 ## २०  - मुप्पत्तु मूवर्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3" caption="vibhA - 20 - Muppatthumoovar - senchuruTTi"></div>
 
 
 मुप्पत्तु मूवर् अमरर्कु मुन् शॆन्ऱु+++(=सेरि)+++,  
@@ -975,7 +976,7 @@ And thus worship our Goddess Pavai.
 
 
 ## २१ नन्दसुतः श्रीमान् बलवान् - एट्र कलङ्गळ्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3" caption="vibhA - 21 - EtraKalangal - nAdanAmakriya"></div>
 
 
 एट्र+++(=ऎटकिसिद)+++ कलङ्गळ्+++(=पात्रॆगळ्)+++ ऎदिर् पॊङ्गि मीद्+++(=मेलॆ)+++ अळिप्प,  
@@ -1018,7 +1019,7 @@ And worship our Goddess Pavai.
 
 
 ## २२ राजभिर् अहङ्कारत्यागः - अङ्गण् मा
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3" caption="vibhA - 22 - AnganNma - Yamuna KalyaNi"></div>
 
 
 अङ्+++(=अन्द)+++-गण् मा+++(=महा)+++ ञालत्त्+++(=वॆश्वत्त्त्)+++ अरशर्+++(=अरसर्)+++, अभिमान-  
@@ -1087,7 +1088,7 @@ And we can worship our Goddess Pavai
 
 
 ## २३ सिंहः - मारिमलै
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3" caption="vibhA - 23 - Maarimalai - Bilahari"></div>
 
 
 मारि+++(←वारि)+++-मलै मुऴैञ्जिल्+++(=गुहॆयुळ्)+++ मन्निक्+++(=अडगि)+++ किडन्द्+++(=मलगि)+++ उऱङ्गुम्+++(=निद्रिसुव)+++,  
@@ -1128,7 +1129,7 @@ And help us to worship our Goddess Pavai.
 </details>
 
 ## २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3" caption="vibhA - 24 - Andrivvulagam - Sindhubhairavi"></div>
 
 
 अन्ऱु+++(=अन्दु)+++ इव्व्+++(=ई)+++ उलगम् अळन्दाय् अडि पोट्रि,  
@@ -1168,7 +1169,7 @@ And worship our Goddess Pavai.
 
 
 ## २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3" caption="vibhA - 25 - Oruthi Maganai - Behaag"></div>
 
 
 ऒरुत्ति+++(=ऒत्ति)+++ मगन् आय्प् पिऱन्दु, ओर् इरविल्+++(=इरळिल्)+++  
@@ -1211,7 +1212,7 @@ And worship our Goddess Pavai.
 
 
 ## २६ शङ्खादि-परिकराः -  माले मणिवण्णा
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3" caption="vibhA - 26 - Maale Manivanna - Kuntala VaraLi"></div>
 
 
 माले+++(=आश्रित-वत्सल)+++ ! +++(इन्द्रनील-)+++मणि-वण्णा ! मार्गऴि+++(=मार्गशिर)+++ नीर् आडुवान्+++(=आडलु)+++,  
@@ -1256,7 +1257,7 @@ So that we worship our Goddess Pavai.
 
 
 ## २७ गानात् पुष्कलो भोगः -  कूडारै वेल्लुम् सीर्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3" caption="vibhA - 27 - Koodaraivellum - Poorvi KalyaNi"></div>
 
 
 कूडारै+++(=शत्रुगळै)+++ वॆल्लुं+++(=गॆल्लुं)+++ शीर्+++(=श्री)+++ गोविन्दा, उन्-तन्नै+++(=निन्नन्नु)+++  
@@ -1299,7 +1300,7 @@ And worship our Goddess Pavai.
 
 
 ## २८ अपराध-क्षमा - कऱवैगळ् पिन्
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3" caption="vibhA - 28 - Karavaigalpin - Kamboji"></div>
 
 
 कऱवैगळ्+++(=गावः)+++ पिन् शॆन्ऱु, कानं+++(=काननं)+++ शेर्न्द् उण्+बोम्+++(=उणृ-पोलॆ)+++,  
@@ -1339,7 +1340,7 @@ So that we can worship our Goddess Pavai.
 
 
 ## २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिट्रं शिऱु
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3" caption="vibhA - 29 - Chitram Chirukaale - Madhyamaavati"></div>
 
 
 
@@ -1382,7 +1383,7 @@ And help us to worship Goddess Pavai.
 
 
 ## ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
-<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3" caption=""></div>
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3" caption="vibhA - 30 - Vangakkadal kadainda - suruTTi"></div>
 
 
 वङ्गक्+++(=महा-नौ)+++-कडल् कडैन्द माधवनै केशवनै,  
