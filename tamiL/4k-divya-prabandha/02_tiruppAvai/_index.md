@@ -27,7 +27,7 @@ title = "०२ तिरुप्-पावै"
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 This is a song which is a prelude to Thiruppavai and is generally termed as thaniyan or that which stands separately..
 
@@ -65,7 +65,7 @@ Before presenting them to Him.
 कृष्णः पद्मायताक्षो दिशति च करणान्यस्मदभ्यर्थितानि ॥ १॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 In this month of Marghazhi[^prr1],  
 On this day filled with the light of moon,  
@@ -114,7 +114,7 @@ In a way that the whole world sings about.
 धार्ये नैव, कुपुस्तकादि-पठनं त्याज्यं ह्य् अकृत्यं तथा ॥ २॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh, people of this world,  
 Be pleased to hear of those penances,  
@@ -159,7 +159,7 @@ And worship our Goddess Pavai.
 देवो वर्षति मासि मासि च जनाः नित्यश्रियं प्राप्नुयुः ॥ ३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 If we sing the praise of Him,  
 Who grew big and measured the world[^prr7],  
@@ -202,7 +202,7 @@ And all this I assure  by worship of our Goddess Pavai.
 स्नात्वा तत्र समाप्य सुव्रतम् इदं तुष्टा भवामो वयम् ॥ ४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Please obey our wishes,  
 Oh rain God who comes from the sea,  
@@ -245,7 +245,7 @@ And worship our goddess Pavai.
 ह्य् अग्नौ तूलम्+++(=वर्तिका)+++ इवाखिलं कृतम् अघं नश्येद् भविष्यच् च नः ॥ ५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 To Him the enchanter of all,  
 To Him the son of Mathura[^prr9] in the north,  
@@ -293,7 +293,7 @@ Oh, Goddess Pavai.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Did you not hear  alternate  twittering birds making  loud noises,  
 Did you not hear the loud sound of white conch,  
@@ -335,7 +335,7 @@ And make our mind cool, Oh, Goddess Pavai.
 ब्रूमस् तद्-भवती न किं निशमयत्य् उत्तिष्ठ बाले शुभे ॥ ७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Did you not hear , Oh slow witted girl,  
 The  twittering sound of black birds of the morn,  
@@ -383,7 +383,7 @@ And worship our goddess Pavai.
 प्राप्ताः स्मस् त्वां हि नेतुं +++(बाले)+++, बक-मुख-शमनं कृष्णम् उच्चैः स्तुवन्त्यः ॥ ८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 The eastern sky has become white,  
 The buffalos are free to walk and graze,  
@@ -429,7 +429,7 @@ And worship our Goddess Pavai
 किं वा कीर्तय मायिनं हरिम् इमां क्षिप्रं त्वम् उत्थापय ॥ ९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh my uncle’s daughter , who sleeps ,  
 In the  soft cotton bed,  
@@ -474,7 +474,7 @@ And worship the Goddess Pavai.
 येन त्वं स्वपिषीदृशं बहु-विधं सम्बोध्यमाना मुहुः ॥ १०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh lady fine , who has entered the heaven,  
 Due to penance done  in last birth,  
@@ -511,7 +511,7 @@ And worship the Goddess Pavai.
 शिट्रादे पेशादे शॆल्व प्पॆण्डाट्टि,  
 नी ऎट्रुक्कुऱङ्गुं पॊरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ११ ॥
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh daughter of the cattle baron,  
 Who milks herds of cows,  
@@ -554,7 +554,7 @@ And not worship our Goddess pavai.
 वृन्दैः संस्तुत-रावणारि-विभवं श्रुत्वापि नोद्बुध्यसे ॥ १२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Hey, sister of  the  rich one , who owned,  
 The mooing  she buffalow with a calf ,  
@@ -600,7 +600,7 @@ And are ready to worship our Goddess Pavai...
 बाले त्व् ईदृश-काल एव शयिता स्नानं ह्य् अकृत्वा शुभे ॥ १३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 The lasses have reached,  
 The place of prayer for Pavai,  
@@ -646,7 +646,7 @@ And worship our Goddess Pavai.
 उक्तिः किं तव नैव लज्जयति तत् - प्रोत्थाय कृष्णं भज ॥ १४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 In the pond in the backyard of  your house.  
 The lily in the ponds have opened,  
@@ -690,7 +690,7 @@ And worship our Goddess Pavai.
 त्वं तं मायिनम् उग्र-शत्रु-शमनं कृष्णं सखायं स्मर ॥ १५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 “Hey, little bird, Are you still sleeping?[^27]”  
 “Don’t disturb my sleep , Lasses, I will just come”.  
@@ -731,7 +731,7 @@ And worship our Goddess Pavai.”
 आप्ताः सेवितुम् एव तं मणिमयं तस्मात् कवाटं नुद ॥ १६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Hey , He who guards the palace of Nanda Gopa[^prr29],  
 Hey, who gauards the ornamental door with flags,  
@@ -771,7 +771,7 @@ So that we can worship our Goddess Pavai.
 विष्णो त्वं बल-भद्र कृष्ण-सहितश् चोत्तिष्ठ कृष्ण-प्रिय ॥ १७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Hey Nandagopa , who does good deeds and charity,  
 Who gives water, cloth and food to others,  
@@ -812,7 +812,7 @@ So we can worship our Goddess Pavai.
 भूषा-शिञ्जित-मञ्जु-पाणि-कमलेनोद्घाटय स्वार्गलम् ॥ १८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Hey , Who is the fair daughter in law,  
 Of Nanda gopa , who has several elephants,  
@@ -853,7 +853,7 @@ So that we can worship our Goddess Pavai.
 त्वं चेन् न क्षण-विप्रयोग-सहना तत्त्वं न तन् नो दया ॥ १९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 In the light of the oil lamp,  
 On the ornamental four legged ivory  cot,  
@@ -891,7 +891,7 @@ Please allow us to worship our Goddess Pavai.
 कृष्णं चान्यद् अपेक्षितं च करणं दत्वा व्रतं कारय ॥ २०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Please wake up Oh, Lord,  
 Who removed sorrow and fear,  
@@ -935,7 +935,7 @@ And thus worship our Goddess Pavai.
 प्राप्ताः स्मः श्रित-पालनोद्यत जगद्-दीप प्रबुध्यस्व भो ॥ २१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh son of him,  
 Who owned several cows,  
@@ -976,7 +976,7 @@ And worship our Goddess Pavai.
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Like all the famous kings  
 Of the wide World, that is pretty,  
@@ -1043,7 +1043,7 @@ And we can worship our Goddess Pavai
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Like the majestic lion wakes up with ire,  
 From the mountain cave in the rainy season,  
@@ -1079,7 +1079,7 @@ And help us to worship our Goddess Pavai.
 एतं त्वां शरणं गता वयम् अहो लब्धुं व्रतस्योचितम् ॥ २४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 We worship your feet which measured the world then,  
 We worship your fame of  winning over the king of Southern Lanka,  
@@ -1116,7 +1116,7 @@ And worship our Goddess Pavai.
 प्राप्ताः स्मः पटहादिकं बहुविधं दत्वा व्रतं कारय ॥ २५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Being born to woman,  
 And in the same night in hiding .  
@@ -1156,7 +1156,7 @@ And worship our Goddess Pavai.
 देहि त्वं वटपत्रतल्प जलदश्याम प्रभो सादरम् ॥ २६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh lord Vishnu , Oh lord who is like the blue sapphire,  
 If you ask us what we need ,  
@@ -1198,7 +1198,7 @@ So that we worship our Goddess Pavai.
 स्वाद्व्-अन्नं घृत-दुग्ध-पूर-भरितं भोक्ष्यामहे च त्वया ॥ २७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Hey Lord Govinda, who is known for victory over enemies,  
 After singing you we will get drums and many gifts,  
@@ -1238,7 +1238,7 @@ And worship our Goddess Pavai.
 मन्युं मा कुरु चास्मद्-इष्टम् अखिलं सद्यः प्रयच्छ प्रभो ॥ २८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Belonging to the ignorant family of cow herds,  
 Drive we would the cattle to the forest,  
@@ -1276,7 +1276,7 @@ So that we can worship our Goddess Pavai.
 कैङ्कर्यं करवाम तेऽङ्घ्रि-कमले कुर्या दयां नस् तथा ॥ २९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 Please hear why, In this very early dawn, We have come to worship, Your golden holy feet.  
 Please hear  why,  
@@ -1315,7 +1315,7 @@ And help us to worship Goddess Pavai.
 पद्माकान्त-दयाम् अवाप्य भुवि ते नित्यं सुखं प्राप्नुयुः ॥ ३०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Free Verse </summary>
 
 He who sings with out error,  
 The thirty odes in sweet tamil,  
@@ -1452,7 +1452,7 @@ And four mountain like shoulders, for ever
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>P.R.Ramachander English Intro</summary>
 Saint Andal also known as Nachiar and also as Kodhai  was the daughter of Vishnu Chitta alias Nammazhwar of Srivilliputtur. She is one of the most important saints of Sri Vaishnavism. At an early age she well in love with Lord Krishna  and because she used to wear the garlands meant for the deity before it is worn by  the God, she was also called Chudi Kodutha Chudar Kodi. People believed that she was an avathara (incarnation)  of Bhooma Devi. At the end of her life she left her ethereal body and mingled with her Lord.  
 
 Her most important poetic work is Thiruppavai. This extols the virtues of Lord Krishna and requests him for help and guidance  in the worship of  Goddess Pavai. The worship of this Goddess was very common in Tamil Nadu since ancient times. The worship was done by unmarried girls. They all used to take bath in the rivers daily early in the dawn, in the month of Margazhi(December-January) and worship the goddess by dance and music and observe very strict penance during the day.This it was believed would get them good husbands and would lead to a very happy married life. On each day one of the hymns are being sung during this month even today.  
