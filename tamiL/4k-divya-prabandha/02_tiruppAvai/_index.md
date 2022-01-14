@@ -45,7 +45,10 @@ Before presenting them to Him.
 
 ————-
 
-## ०१ गोपालसिंह - मार्गऴित्-तिङ्गळ्
+## ०१ गोपालसिंहः - मार्गऴित्-तिङ्गळ्
+
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3" caption=""></div>
+
 मार्गऴित्+++(=मार्गशीर्ष)+++ तिङ्गळ् मदि+++(→चन्द्र)+++ निऱैन्द+++(=नॆरिन्द)+++ नन्-नाळाल् ,  
 नीराडप् पोदुवीर्+++(=होगुववरु)+++ पोदुमिनो+++(=होगोण)+++ नेर्-इऴैयीर्+++(=स्व्-आभरणाः)+++ ,  
 शीर्+++(=श्री)+++ मल्गुम्+++(=वृद्धिं)+++ आय्+++(=गो)+++-पाडि+++(=ग्राम)+++ शॆल्वच्+++(=सुन्दर)+++ चिऱु+++(=किरु)+++-मीर्गाळ्+++(=बालिकाः)+++ ,  
@@ -95,6 +98,8 @@ In a way that the whole world sings about.
 
 
 ## ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3" caption=""></div>
+
 वैयत्तु वाऴ्वीर्गाळ् नामुं नं पावैक्कु,  
 शॆय्युं किरिशैगळ् केळीरो, पाऱ्‌कडलुळ्  
 पैय त्तुयिन्ऱ परम नडिपाडि,  
@@ -140,6 +145,9 @@ And worship our Goddess Pavai.
 
 
 ## ०३ फलं - ओङ्गि युलगळन्द
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3" caption=""></div>
+
+
 ओङ्गि युलगळन्द उत्तमन् पेर् पाडि,  
 नाङ्गळ् नं पावैक्कुच्चाट्रि नीराडिनाल्,  
 तीङ्गिन्ऱि नाडॆल्लां तिङ्गळ् मुम्मारि पॆय्दु,  
@@ -183,6 +191,9 @@ And all this I assure  by worship of our Goddess Pavai.
 
 
 ## ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3" caption=""></div>
+
+
 आऴिमऴै क्कण्णा ऒन्ऱु नी कैकरवेल्,  
 आऴियुळ् पुक्कु मुगन्दु कॊडार्तेऱि,  
 ऊऴि मुदल्वनुरुवम्बोल् मॆय् कऱुत्तु,  
@@ -226,6 +237,9 @@ And worship our goddess Pavai.
 
 
 ## ०५ नामस्मरण-प्रभावः - मायनै मन्नु
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3" caption=""></div>
+
+
 मायनै मन्नु वडमदुरै मैन्दनै,  
 तूय पॆरुनीर् यमुनै त्तुऱैवनै,  
 आयर् कुलत्तिनिल् तोन्ऱुं अणि विळक्कै,  
@@ -273,6 +287,9 @@ Oh, Goddess Pavai.
 
 
 ## ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3" caption=""></div>
+
+
 पुळ्ळुं शिलम्बिन काण् पुळ्ळरैयन् कोयिलिल्,  
 वॆळ्ळै विळिशङ्गिन् पेररवं केट्टिलैयो ?  
 पिळ्ळाय् ऎऴुन्दिराय् पेय् मुलै नंजुण्डु,  
@@ -316,6 +333,9 @@ And make our mind cool, Oh, Goddess Pavai.
 
 
 ## ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3" caption=""></div>
+
+
 कीशु कीशॆन्ऱॆङ्गुं आनैच्चात्तन्,  
 कलन्दु पेशिन पेच्चरवं केट्टिलैयो पेय् प्पॆण्णे,  
 काशुं पिऱप्पुं कलकलप्प कैपेर्तु,  
@@ -364,6 +384,9 @@ And worship our goddess Pavai.
 
 
 ## ०८ गोपीप्रतीक्षा - कीळ्वानम्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3" caption=""></div>
+
+
 कीऴ्+++(=पूर्व)+++वानं+++(=खं)+++ वॆळ्ळ्+++(=बॆळ्ळ्)+++ ऎन्ऱु, ऎरुमै शिऱु+++(=किरु)+++-वीडु+++(=बिडुवु)+++,  
 मेय्वान् परन्दन+++(=करडिवॆ)+++ काण्, मिक्क्-उळ्ळ पिळ्ळैगळुम्+++(=बालिकाः)+++  
 पोवान् पोगिन्ऱारैप्+++(=होगुत्तिर्परन्नु)+++ पोगामल् कात्तु+++(=तडॆदु)+++,  
@@ -410,6 +433,9 @@ And worship our Goddess Pavai
 
 
 ## ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3" caption=""></div>
+
+
 तूमणिमाडत्तु च्चुट्रुं विळक्कॆरिय,  
 तूपं कमऴ त्तुयिलणै मेल् कण्वळरुम्,  
 मामान् मगळे मणिक्कदवं ताळ् तिऱवाय्,  
@@ -455,6 +481,9 @@ And worship the Goddess Pavai.
 
 
 ## १० निद्रास्पर्धा - नोट्रु स्वर्गम्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3" caption=""></div>
+
+
 नोट्रुच् चुवर्क्कं+++(=स्वर्गम्)+++ पुगुगिन्ऱ अम्मनाय्,  
 माट्रमुं तारारो वाशल् तिऱवादार्,  
 नाट्रत् तुऴाय् मुडि नारायणन्, नम्माल्  
@@ -501,6 +530,9 @@ And worship the Goddess Pavai.
 
 
 ## ११ - कट्रुक्कऱवै
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3" caption=""></div>
+
+
 
 कट्रुक्कऱवै क्कणङ्गळ् पलकऱन्दु,  
 शॆट्रार् तिऱलऴिय च्चॆन्ऱु शॆरुच्चॆय्युम्,  
@@ -535,6 +567,9 @@ And not worship our Goddess pavai.
 
 
 ## १२  - कनैत्तिळं
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3" caption=""></div>
+
+
 कनैत्तिळं कट्रॆरुमै कन्ऱुक्किऱङ्गि,  
 निनैत्तु मुलै वऴिये निन्ऱु पाल् शोर,  
 ननैत्तिल्लं शेऱाक्कुं नऱ्‌चॆल्वन् तङ्गाय्,  
@@ -581,6 +616,9 @@ And are ready to worship our Goddess Pavai...
 
 
 ## १३  - पुळ्ळिन् वाय्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3" caption=""></div>
+
+
 पुळ्ळिन् वाय् कीण्डानै प्पॊल्ला वरक्कनै  
 क्किळ्ळि क्कळैन्दानै क्कीर्तिमै पाडिप्पोय्,  
 पिळ्ळैगळॆल्लारुं पावैक्कळंबुक्कार्,  
@@ -627,6 +665,9 @@ And worship our Goddess Pavai.
 
 
 ## १४  - उङ्गळ् पुऴैक्कडै
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3" caption=""></div>
+
+
 उङ्गळ् पुऴैक्कडै त्तोट्टत्तु वावियुळ्,  
 शॆङ्गऴु नीर् वाय् नॆगिऴ्न्दु अम्बल् वाय् कूम्बिन काण्,  
 शॆङ्गल् पॊडि क्कूऱै वॆण्बल् तवत्तवर्,  
@@ -671,6 +712,9 @@ And worship our Goddess Pavai.
 
 
 ## १५  - ऎल्ले! इळङ्किळिये
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3" caption=""></div>
+
+
 ऎल्ले! इळङ्किळिये इन्नमुऱङ्गुदियो,  
 शिल्लॆन्ऱऴैयेन्मिन् नङ्गैमीर् पोदरुगिन्ऱेन्,  
 वल्लै उन् कट्टुरैगळ् पण्डे युन् वायऱिदुम्,  
@@ -712,6 +756,9 @@ And worship our Goddess Pavai.”
 
 
 ## १६  - नायगनाय् निन्ऱ
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3" caption=""></div>
+
+
 नायगनाय् निन्ऱ नन्दगोपनुडैय  
 कोयिल् काप्पाने, कॊडित्तोन्ऱुं तोरण  
 वायिल् काप्पाने, मणिक्कदवं ताळ् तिऱवाय्,  
@@ -752,6 +799,9 @@ So that we can worship our Goddess Pavai.
 
 
 ## १७   - अम्बरमे तण्णीरे
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3" caption=""></div>
+
+
 अम्बरमे तण्णीरे शोऱे अऱं शॆय्युम्,  
 ऎम्बॆरुमान् नन्दगोपाला ऎऴुन्दिराय्,  
 कॊम्बनार्क्कॆल्लां कॊळुन्दे कुल विळक्के,  
@@ -793,6 +843,9 @@ So we can worship our Goddess Pavai.
 
 
 ## १८  - उन्दु मद
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3" caption=""></div>
+
+
 उन्दु मद गळिट्रनोडाद तोळ्वलियन्,  
 नन्दगोपालन् मरुमगळे! नप्पिन्नाय्!,  
 गन्दं कमऴुं कुऴली कडैतिऱवाय्,  
@@ -834,6 +887,9 @@ So that we can worship our Goddess Pavai.
 
 
 ## १९  - कुत्तु विळक्कॆरिय
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3" caption=""></div>
+
+
 कुत्तु विळक्कॆरिय क्कोट्टुक्काल् कट्टिल् मेल्,  
 मॆत्तॆन्ऱ पञ्चशयनत्तिन् मेलेऱि,  
 कॊत्तलर् पूङ्गुऴल् नप्पिन्नै कॊङ्गैमेल्,  
@@ -872,6 +928,9 @@ Please allow us to worship our Goddess Pavai.
 
 
 ## २०  - मुप्पत्तु मूवर्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3" caption=""></div>
+
+
 मुप्पत्तु मूवर् अमरर्कु मुन् शॆन्ऱु+++(=सेरि)+++,  
 कप्पं+++(=कम्पं)+++ तविर्कुं+++(=नीगिसुव)+++ कलिये+++(=वीरने)+++ तुयिल्+++(=तूकत्तिन्)+++ ऎऴ् आय्,  
 शॆप्पम्+++(←सॆप्पम्=वाचं)+++ उडैय्+++(=उळ्ळुव)+++ आय्, तिऱल्+++(=स्थिरल्)+++ उडैय् आय्, शॆट्रार्कु+++(=शत्रुभ्यः)+++  
@@ -916,6 +975,9 @@ And thus worship our Goddess Pavai.
 
 
 ## २१ नन्दसुतः श्रीमान् बलवान् - एट्र कलङ्गळ्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3" caption=""></div>
+
+
 एट्र+++(=ऎटकिसिद)+++ कलङ्गळ्+++(=पात्रॆगळ्)+++ ऎदिर् पॊङ्गि मीद्+++(=मेलॆ)+++ अळिप्प,  
 माट्रादे+++(=परिवर्तनं विना)+++ पाल् शॊरियुं+++(=स्रावयितुं)+++ वळ्ळल्+++(=धाराल)+++ पॆरुं पशुक्कळ्  
 आट्रप्+++(=आढ्यतां)+++ पडैत्तान् +++(नन्दगोपन्)+++ मगने अऱिवुऱाय्+++(=अरिवु-पडॆदु)+++,  
@@ -956,6 +1018,9 @@ And worship our Goddess Pavai.
 
 
 ## २२ राजभिर् अहङ्कारत्यागः - अङ्गण् मा
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3" caption=""></div>
+
+
 अङ्+++(=अन्द)+++-गण् मा+++(=महा)+++ ञालत्त्+++(=वॆश्वत्त्त्)+++ अरशर्+++(=अरसर्)+++, अभिमान-  
 भङ्गमाय् वन्दु निन् पळ्ळिक्+++(=शयन)+++-कट्टिऱ्‌+++(=खट्वा)+++-कीऴे  
 सङ्गम् इरुप्पार् पोल् वन्दु, तलैप् पॆय्दोम्+++(=हुय्दिद्देवॆ)+++,  
@@ -1022,6 +1087,9 @@ And we can worship our Goddess Pavai
 
 
 ## २३ सिंहः - मारिमलै
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3" caption=""></div>
+
+
 मारि+++(←वारि)+++-मलै मुऴैञ्जिल्+++(=गुहॆयुळ्)+++ मन्निक्+++(=अडगि)+++ किडन्द्+++(=मलगि)+++ उऱङ्गुम्+++(=निद्रिसुव)+++,  
 शीरिय+++(=श्रेष्ठ)+++ शिङ्गम्+++(=संहम्)+++ अऱिवुट्रुत् ती+++(=अङ्गार)+++ विऴ्-इत्तु+++(=नेत्रम् उन्मील्य)+++,  
 वेरि+++(=सुगन्धि)+++ मयिर्प् पॊङ्गव् ऎप्पाडुं+++(=ऎल्लॆडॆ)+++ पेर्न्दु+++(=हॊगि)+++ उदऱि+++(=ऒदरि)+++,  
@@ -1060,6 +1128,9 @@ And help us to worship our Goddess Pavai.
 </details>
 
 ## २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3" caption=""></div>
+
+
 अन्ऱु+++(=अन्दु)+++ इव्व्+++(=ई)+++ उलगम् अळन्दाय् अडि पोट्रि,  
 शॆन्ऱ्+++(=शेन्दि)+++ अङ्गुत् तॆन्न्+++(=दक्षिण)+++ इलङ्गै+++(=लङ्कै)+++ शॆट्र्+++(=शत्रु)+++ आय् तिऱल्+++(=स्थिरल्)+++ पोट्रि,  
 पॊन्ऱच्+++(=नाशनस्य)+++ चगडम्+++(=शकटम्)+++ उदैत्त्+++(=ऒद्दवन्)+++ आय् पुगऴ्+++(=हॊगळ्)+++ पोट्रि,  
@@ -1097,6 +1168,9 @@ And worship our Goddess Pavai.
 
 
 ## २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3" caption=""></div>
+
+
 ऒरुत्ति+++(=ऒत्ति)+++ मगन् आय्प् पिऱन्दु, ओर् इरविल्+++(=इरळिल्)+++  
 ऒरुत्ति मगनाय् ऒळित्तु+++(=गुप्त्वा)+++ वळर+++(=बॆळियलु)+++,  
 तरिक्किलान्+++(=तडॆयलार)+++ आगित्तान् तीङ्गु+++(=दुष्टतां)+++ निनैन्द+++(=ऒडॆद)+++,  
@@ -1137,6 +1211,9 @@ And worship our Goddess Pavai.
 
 
 ## २६ शङ्खादि-परिकराः -  माले मणिवण्णा
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3" caption=""></div>
+
+
 माले+++(=आश्रित-वत्सल)+++ ! +++(इन्द्रनील-)+++मणि-वण्णा ! मार्गऴि+++(=मार्गशिर)+++ नीर् आडुवान्+++(=आडलु)+++,  
 मेलैयार् शॆय्वनगळ्+++(=माडुवुदरल्लि)+++ वेण्डुवन+++(=बेकादवन)+++ केट्टियेल्+++(=केटाले)+++ -  
 ञालत्तैय्+++(=भूमिय्)+++ ऎल्लां नडुङ्ग+++(=नडुगिसुव)+++ मुरल्वन+++(=गर्जिसुव)+++  
@@ -1179,6 +1256,9 @@ So that we worship our Goddess Pavai.
 
 
 ## २७ गानात् पुष्कलो भोगः -  कूडारै वेल्लुम् सीर्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3" caption=""></div>
+
+
 कूडारै+++(=शत्रुगळै)+++ वॆल्लुं+++(=गॆल्लुं)+++ शीर्+++(=श्री)+++ गोविन्दा, उन्-तन्नै+++(=निन्नन्नु)+++  
 पाडि पऱै+++(=इष्टार्थ)+++ कॊण्डु यां पॆऱु सम्मानम्,  
 नाडु+++(=नाड)+++ पुगळुं+++(=हॊगळं)+++, परिशिनाल्+++(=बहुमानैः)+++ नन्ऱाग+++(=नन्नायि)+++,  
@@ -1219,6 +1299,9 @@ And worship our Goddess Pavai.
 
 
 ## २८ अपराध-क्षमा - कऱवैगळ् पिन्
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3" caption=""></div>
+
+
 कऱवैगळ्+++(=गावः)+++ पिन् शॆन्ऱु, कानं+++(=काननं)+++ शेर्न्द् उण्+बोम्+++(=उणृ-पोलॆ)+++,  
 अऱिव् ऒन्ऱुम् इल्लादव् आय्क्+++(=गोपाल)+++ कुलत्तु उन्-तन्नै  
 पिऱवि+++(=जन्मव्)+++ पॆरुन्द् अनैप् पुण्णियुं याम् उडैयोम्,  
@@ -1256,8 +1339,11 @@ So that we can worship our Goddess Pavai.
 
 
 ## २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिट्रं शिऱु
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3" caption=""></div>
 
-शिट्रं शिऱु काले+++(=??)+++ वन्द् उन्नै शेवित्तु+++(=सेवित्वा नमनेन)+++, उन्  
+
+
+शिट्रं+++(=अल्पं)+++-शिऱु+++(=किरु)+++-काले वन्द् उन्नै शेवित्तु+++(=सेवित्वा नमनेन)+++, उन्  
 पो-ट्रामरै+++(= पोन्=सु + तामरै=तावरॆ)+++ अडिये पोट्रुं+++(=स्तुतिसुव)+++ पॊरुळ्+++(=तत्त्वं)+++ केळाय्,  
 पॆट्रं+++(=गाः)+++ मेय्त्त् उण्णुं कुलत्तिल् पिऱन्दु, नी  
 कुट्रेवल्+++(=दास्यं)+++ ऎङ्गळै कॊळ्ळामल् पोगादु,  
@@ -1296,6 +1382,9 @@ And help us to worship Goddess Pavai.
 
 
 ## ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
+<div class="audeoEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3" caption=""></div>
+
+
 वङ्गक्+++(=महा-नौ)+++-कडल् कडैन्द माधवनै केशवनै,  
 तिङ्गळ्+++(=चन्द्र)+++-तिरु-मुगत्तुच्+++(=मुखत्तु)+++ चॆय्+++(=शे=श्रेष्ठ)+++ इऴैयार्+++(=आभरणनानि)+++ शॆन्ऱ् इऱैंजि+++(=स्तुतिसि)+++,  
 अङ्गप् पऱै+++(=इष्टार्थं)+++ कॊण्ड वाट्रै+++(=विषयं)+++, अणि+++(=सु)+++-पुदुवै+++(=श्रीविल्लिपुत्तूर् इत्यस्य)+++  
