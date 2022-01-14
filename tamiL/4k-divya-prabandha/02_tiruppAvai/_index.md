@@ -67,22 +67,29 @@ Before presenting them to Him.
 
 <details><summary>English</summary>
 
-Oh, people of this world,  
-Be pleased to hear of those penances,  
-That we daily do for the worship of Pavai,  
-We will sing of those holy feet,  
-Of Him who sleeps in the ocean of milk5,  
-We will not take the very tasty ghee,  
-We will avoid the health giving milk,  
-We will daily bathe before the dawn,  
-We will not wear any collyrium6 to the eye,  
-We will not tie flowers in our hair,  
-We will not do Any act  that is banned,  
-We will not talk ill of any to any one else,  
-We will give alms and do charity,  
-As much as we can,  
-And do all those acts to make others free of sorrow,  
-And worship our Goddess Pavai.
+In this month of Marghazhi[^prr1],  
+On this day filled with the light of moon,  
+Come for bathing,  
+Oh ladies who are richly dressed,  
+And Oh ladies in rich homes of cowherds,  
+For he with the sharp spear,  
+He who kills his enemies without mercy,  
+He who is the son of Nanda gopa[^prr2],  
+He who is the darling son of Yasodha[^prr3],  
+Who wore scented flower garlands,  
+He who is a lion cub,  
+He who is pretty in black colour,  
+He who has small red eyes,  
+He who has a face like the well-lit moon,  
+And He, who is our Lord Narayana[^prr4],  
+Is going to give us big drums,  
+So that we bathe and worship Our Goddess Pavai,  
+In a way that the whole world sings about.  
+
+[^prr1]: The early winter Tamil month generally between 15th December to 15th January.
+[^prr2]: The Foster father of Lord Krishna
+[^prr3]: The foster mother of Lord Krishna
+[^prr4]: Another name for God Vishnu
 </details>
 
 
@@ -109,21 +116,25 @@ And worship our Goddess Pavai.
 
 <details><summary>English</summary>
 
-If we sing the praise of Him,  
-Who grew big and measured the world7,  
-And worship our Goddess Pavai ,  
-Then would there be at least three rains a month,  
-And the red paddy plants would grow big,  
-And in their fields would the fish swim and play ,  
-And the spotted bees  after sipping honey,  
-To their hearts content ,  
-Would sleep in the flower themselves   
-After having their fill,  
-And the cows with big udder   
-Would fill milk pots to the brim,  
-And healthy cows and never diminishing wealth,  
-Would fill the country,  
-And all this I assure  by worship of our Goddess Pavai.
+Oh, people of this world,  
+Be pleased to hear of those penances,  
+That we daily do for the worship of Pavai,  
+We will sing of those holy feet,  
+Of Him who sleeps in the ocean of milk[^prr5],  
+We will not take the very tasty ghee,  
+We will avoid the health giving milk,  
+We will daily bathe before the dawn,  
+We will not wear any collyrium[^prr6] to the eye,  
+We will not tie flowers in our hair,  
+We will not do Any act  that is banned,  
+We will not talk ill of any to any one else,  
+We will give alms and do charity,  
+As much as we can,  
+And do all those acts to make others free of sorrow,  
+And worship our Goddess Pavai.
+
+[^prr5]: Lord Vishnu is believed to sleep on his Serpant bed floating in the holy ocean of milk.
+[^prr6]: Black lamp soot worn in the eyes by ladies in India.
 </details>
 
 
@@ -150,20 +161,23 @@ And all this I assure  by worship of our Goddess Pavai.
 
 <details><summary>English</summary>
 
-Please obey our wishes,  
-Oh rain God who comes from the sea,  
-Enter the sea, please, and bring water to your fill,  
-And with zest and sound take it up,  
-And like the  God of the deluge become black,  
-And shine like the holy wheel in the hands ,  
-Of The God Padmanabha8 who has powerful biceps,  
-And make booming pleasing sounds,  
-Like the right spiraled conch,  
-And rain with out stop like the arrow storm,  
-From Saranga the bow of Vishnu and descend on us,  
-To make this world happy,  
-And to help us take bath in  month of  Margahzhi,  
-And worship our goddess Pavai.
+If we sing the praise of Him,  
+Who grew big and measured the world[^prr7],  
+And worship our Goddess Pavai ,  
+Then would there be at least three rains a month,  
+And the red paddy plants would grow big,  
+And in their fields would the fish swim and play ,  
+And the spotted bees  after sipping honey,  
+To their hearts content ,  
+Would sleep in the flower themselves   
+After having their fill,  
+And the cows with big udder   
+Would fill milk pots to the brim,  
+And healthy cows and never diminishing wealth,  
+Would fill the country,  
+And all this I assure  by worship of our Goddess Pavai.
+
+[^prr7]: Lord Narayana in Vamana Avatara measured the three worlds.
 </details>
 
 
@@ -190,23 +204,23 @@ And worship our goddess Pavai.
 
 <details><summary>English</summary>
 
-To Him the enchanter of all,  
-To Him the son of Mathura9 in the north,  
-To Him who played and frolicked,  
-In the shores of  holy Yamuna10,  
-To Him who is the ornamental lamp,  
-Of the family of cow herds,  
-And to the Damodhara11 who made ,  
-His mothers womb holy,  
-We came after a holy bath,  
-And  offered pure flowers at his feet,  
-And  sang with our mouth,  
-And brought the thoughts of him in our mind,  
-And we were sure,  
-That all our mistakes of the past,  
-And all that we will do in future,  
-Will vanish as ashes in fire,  
-Oh, Goddess Pavai.
+Please obey our wishes,  
+Oh rain God who comes from the sea,  
+Enter the sea, please, and bring water to your fill,  
+And with zest and sound take it up,  
+And like the  God of the deluge become black,  
+And shine like the holy wheel in the hands ,  
+Of The God Padmanabha[^prr8] who has powerful biceps,  
+And make booming pleasing sounds,  
+Like the right spiraled conch,  
+And rain with out stop like the arrow storm,  
+From Saranga the bow of Vishnu and descend on us,  
+To make this world happy,  
+And to help us take bath in  month of  Margahzhi,  
+And worship our goddess Pavai.
+
+[^prr8]: Lord Vishnu had a lotus grown out of his belly on which sat Lord Brahma. Hence he is called Padmanabha
+
 </details>
 
 
@@ -233,17 +247,27 @@ Oh, Goddess Pavai.
 
 <details><summary>English</summary>
 
-Did you not hear  alternate  twittering birds making  loud noises,  
-Did you not hear the loud sound of white conch,  
-From the temple of the king of  Garuda12,  
-Oh , girls please wake up,  
-Let us hear the holy sounds of  “Hari13, Hari”.  
-From the savants and sages,  
-Calling him who drank the poisonous milk from the ghost14,  
-Him who kicked and killed the ogre of the cart15,  
-And him who sleeps on the great serpent Adi Sesha  
-So that it goes through our mind,  
-And make our mind cool, Oh, Goddess Pavai.
+To Him the enchanter of all,  
+To Him the son of Mathura[^prr9] in the north,  
+To Him who played and frolicked,  
+In the shores of  holy Yamuna[^prr10],  
+To Him who is the ornamental lamp,  
+Of the family of cow herds,  
+And to the Damodhara[^prr11] who made ,  
+His mothers womb holy,  
+We came after a holy bath,  
+And  offered pure flowers at his feet,  
+And  sang with our mouth,  
+And brought the thoughts of him in our mind,  
+And we were sure,  
+That all our mistakes of the past,  
+And all that we will do in future,  
+Will vanish as ashes in fire,  
+Oh, Goddess Pavai.
+
+[^prr9]: City of Mathura near Agra
+[^prr10]: Holy River which is a tributary of Ganges
+[^prr11]: He who has been tied by his mother in the belly.
 </details>
 
 
@@ -273,15 +297,20 @@ And make our mind cool, Oh, Goddess Pavai.
 
 Did you not hear  alternate  twittering birds making  loud noises,  
 Did you not hear the loud sound of white conch,  
-From the temple of the king of  Garuda12,  
+From the temple of the king of  Garuda[^prr12],  
 Oh , girls please wake up,  
-Let us hear the holy sounds of  “Hari13, Hari”.  
+Let us hear the holy sounds of  “Hari[^prr13], Hari”.  
 From the savants and sages,  
-Calling him who drank the poisonous milk from the ghost14,  
-Him who kicked and killed the ogre of the cart15,  
+Calling him who drank the poisonous milk from the ghost[^prr14],  
+Him who kicked and killed the ogre of the cart[^prr15],  
 And him who sleeps on the great serpent Adi Sesha  
 So that it goes through our mind,  
 And make our mind cool, Oh, Goddess Pavai.
+
+[^prr12]: Lord  Vishnu who rides on Garuda(The barahmini kite)
+[^prr13]: Another name of Lord Vishnu
+[^prr14]: Lord Krishna killed Ogress Poothaa who tried to kill him poisonous milk
+[^prr15]: Lord Krisna killed an ogre called Shakatasura who appeared in the form of cart
 </details>
 
 
@@ -322,10 +351,14 @@ When churned using  the mixer,
 Oh, leader among girls,  
 How can you sleep,  
 When they sing the names sweetly.  
-Of Narayana16 and Kesava17,  
+Of Narayana[^prr16] and Kesava[^prr17],  
 Oh, She who   is sparkling,  
 Be pleased to open the door,  
 And worship our goddess Pavai.
+
+[^prr16]: Another name of Lord Vishnu
+[^prr17]: Yet another name of Lord Vishnu
+
 </details>
 
 
@@ -360,15 +393,18 @@ And have come to  call you,
 Oh girl filled with happiness,  
 Please wake up.  
 Let us all sing and get gifts,  
-From Him who has killed the horse like ogre18,  
+From Him who has killed the horse like ogre[^prr18],  
 By pulling apart his mouth,  
-From Him who killed the wrestlers19 ,  
+From Him who killed the wrestlers[^prr19] ,  
 Sent to kill him,  
 From the Narayana, who is first among the Gods,  
 And prostrate before him..  
 Please hear what we tell.  
 And decide for yourself,  
 And worship our Goddess Pavai
+
+[^prr18]: The Asura called Kesi who came in the form of horse.
+[^prr19]: Kamsa set upon Krishna two wresters known as Chanura and Mushtika to kill him and he killed them.
 </details>
 
 
@@ -406,10 +442,14 @@ Is your daughter dumb or deaf ,
 Or down right lazy,  
 Or she  is in trance of deep pleasurable sleep,  
 Let us all call him the great enchanter,  
-Madhavan20 and he who lives in Vaikunta21,  
+Madhavan[^prr20] and he who lives in Vaikunta[^prr21],  
 By several of His names,  
 And get benefited ,  
 And worship the Goddess Pavai.
+
+[^prr20]: Another name of Vishnu
+[^prr21]: Abode of Lord Vishnu
+
 </details>
 
 
@@ -445,7 +485,7 @@ Having with him the scented garland,
 Made of holy basil,  
 He would give us gifts , many,  
 He  is the same who is holy in times ancient,  
-Sent Kumbhakarna22 to his death ,  
+Sent Kumbhakarna[^prr22] to his death ,  
 After beating him in the field of war.  
 Did that ogre give you his sleep,  
 Before he went off from here,  
@@ -454,6 +494,8 @@ Oh lass, who is like pretty jewels,
 Wake up from your sleep, well,  
 And open the door.  
 And worship the Goddess Pavai.
+
+[^prr22]: Ravana’s brother who was killed by Lord Rama who used to sleep continuously for six months in a year
 </details>
 
 
@@ -523,7 +565,7 @@ And made his courtyard slushy with milk,
 We are assembled in thine yard,  
 In the dripping fog,  
 And sing about Him,  
-Who killed in anger the king of  Southern Lanka23,  
+Who killed in anger the king of  Southern Lanka[^prr23],  
 And who is very dear one,  
 But open your mouth, you don’t..  
 Atleast wake up now,  
@@ -531,6 +573,9 @@ Why this very deep slumber,
 For people of all houses around,  
 Have already become alert  
 And are ready to worship our Goddess Pavai...
+
+[^prr23]: Ravana was the king of Lanka.He was killed by Lord Rama
+
 </details>
 
 
@@ -560,8 +605,8 @@ And are ready to worship our Goddess Pavai...
 The lasses have reached,  
 The place of prayer for Pavai,  
 Singing the  fame of our Lord.  
-Who killed the ogre who came like a stork.24  
-And who cut off the heads of the bad ogre25,  
+Who killed the ogre who came like a stork.[^prr24]  
+And who cut off the heads of the bad ogre[^prr25],  
 One by one.  
 The venus has risen in the morn,  
 The Jupiter has vanished from the sky,  
@@ -574,6 +619,9 @@ Oh lass, On this holy day,
 Do not stay aside,  
 And come to bathe with us.  
 And worship our Goddess Pavai.
+
+[^prr24]: A Rakshasa called Bhakasura
+[^prr25]: Indicates the cutting of ten heads of ravana
 </details>
 
 
@@ -613,10 +661,11 @@ Please wake up,
 Are you not ashamed,   
 You chatter box,  
 Let us all sing about the lotus eyed one,  
-Who has a holy conch and wheel26,  
+Who has a holy conch and wheel[^prr26],  
 In his hands,  
 And worship our Goddess Pavai.
 
+[^prr26]: Lord Vishnu has a Shankha and Sri Chakra in his hands
 </details>
 
 
@@ -643,7 +692,7 @@ And worship our Goddess Pavai.
 
 <details><summary>English</summary>
 
-“Hey, little bird, Are you still sleeping?27”  
+“Hey, little bird, Are you still sleeping?[^27]”  
 “Don’t disturb my sleep , Lasses, I will just come”.  
 “You are good in your speech, We know what you mean.”  
 “You be good, but leave me alone”  
@@ -651,10 +700,13 @@ And worship our Goddess Pavai.
 “Have every one gone?”  
 “Gone, think they have gone”  
 “Please wake up and sing,  
-Of he who killed the big elephant28,  
+Of he who killed the big elephant[^prr28],  
 Of him who can remove enmity from enemies,  
 And of him who is the holy enchanter,  
 And worship our Goddess Pavai.”
+
+[^prr27]: Verse in the form of question and answers from friends and she who is sleeping
+[^prr28]: Kuvalaya pIDa the elephant with four tusks was sent to kill Lord Krishna and he killed it.
 </details>
 
 
@@ -681,10 +733,10 @@ And worship our Goddess Pavai.”
 
 <details><summary>English</summary>
 
-Hey , He who guards the palace of Nanda Gopa29,  
+Hey , He who guards the palace of Nanda Gopa[^prr29],  
 Hey, who gauards the ornamental door with flags,  
 Please be kind to open  the door with bells,  
-For yesterday  the enchanter  Kannan30,  
+For yesterday  the enchanter  Kannan[^prr30],  
 Has promised to give  beating drums,  
 To us the girls from the  houses of cow herds.  
 We have come after purification,  
@@ -693,6 +745,8 @@ So do not talk of this and that, Hey dear man,
 And open the door with closed latches,  
 So that we can worship our Goddess Pavai.
 
+[^prr29]: Nanda Gopa , the foster father of Lord Krishna
+[^prr30]: Meaning Darling child but indicates lord Krishna
 </details>
 
 
@@ -729,9 +783,11 @@ Hey ,Krishna who is the  king of  Gods,
 Who went up tearing th sky.  
 Please wake up, and do not sleep.
 
-Hey Baladeva31, who wears pure golden anklets,  
+Hey Baladeva[^prr31], who wears pure golden anklets,  
 Please wake up along with your brother,  
 So we can worship our Goddess Pavai.
+
+[^prr31]: The elder brother of Lord Krishna
 </details>
 
 
@@ -761,7 +817,7 @@ So we can worship our Goddess Pavai.
 Hey , Who is the fair daughter in law,  
 Of Nanda gopa , who has several elephants,  
 And who is a great hero who never ran away from his enemies,  
-Hey Lady Nappinnai32,who has hair surrounded by holy scent,  
+Hey Lady Nappinnai[^prr32],who has hair surrounded by holy scent,  
 Please be kind to open the door.  
 The cocks are everywhere waking us up,  
 The koels flock on the jasmine Pandals,  
@@ -771,6 +827,8 @@ To help us sing your Lords fame,
 With your hands with tingling bangles,  
 Please open the door with happiness,  
 So that we can worship our Goddess Pavai.
+
+[^prr32]: Darling wife of Lord Krishna identified as Nila Devi
 </details>
 
 
@@ -837,7 +895,7 @@ Please allow us to worship our Goddess Pavai.
 
 Please wake up Oh, Lord,  
 Who removed sorrow and fear,  
-From the thirty three sections of  Devas33,  
+From the thirty three sections of  Devas[^prr33],  
 Even before they approached you,  
 Oh Lord, Who is glittering like gold,  
 Oh Lord, who has inimitable valour,  
@@ -851,6 +909,8 @@ Please give mirror and fan,
 Just now to your consort,  
 And allow us to take bath,  
 And thus worship our Goddess Pavai.
+
+[^prr33]: Eight Vasus, Eleven Rudras, Twelve Adhiyas, and two agni each with a clan of 10 million devas
 </details>
 
 
@@ -1025,11 +1085,13 @@ We worship your feet which measured the world then,
 We worship your fame of  winning over the king of Southern Lanka,  
 We worship thine valour in breaking the ogre who came like a cart,  
 We worship thy strength which threw the calf on the tree,  
-We worship thine goodness in making the mountain as an umbrella34,  
+We worship thine goodness in making the mountain as an umbrella[^prr34],  
 And we worship the great spear in your hand which led to your victory,  
 We have come hear to sing always for ever your praises,  
 And get as gift the drums to sing,  
 And worship our Goddess Pavai.
+
+[^prr34]: Once when Indra made rain trouble the cowherds, Krishna raised the Govardhana mountain and held it as an umbrella
 </details>
 
 
@@ -1062,12 +1124,14 @@ You became  the son of another,
 But this he could not tolerate,  
 And wanted to cause more harm to you,  
 And you great one , became ,  
-The fire in the stomach of that Kamsa35,  
+The fire in the stomach of that Kamsa[^prr35],  
 We have come here with desire for a drum,  
 And if you give the drum to us,  
 We would sing about thine great fame and wealth,  
 And would end our sorrows and become happy,  
 And worship our Goddess Pavai.  
+
+[^prr35]: Uncle of Krishna who wanted to kill him but was killed by him in the end
 </details>
 
 
@@ -1101,12 +1165,15 @@ For our holy bath of Marghazhi,
 We will ask for very many conches  
 Like the milk white conch of yours called Pancha Janya,  
 Very many big drums  whose sound can be heard everywhere,  
-Several  musicians of fame to sing “Pallandu36”  
+Several  musicians of fame to sing “Pallandu[^prr36]”  
 Several beautiful pretty lamps,  
 Several flags and cloths to make tents,  
 Oh , He who sleeps on a banyan  leaf at time of deluge,  
 Please give us them all,  
 So that we worship our Goddess Pavai.  
+
+[^prr36]: Invocation praying he live for ever
+
 </details>
 
 
