@@ -23,6 +23,7 @@ unicode_script = "devanagari"
 - तिन्हहि
 
 ### ५
+- मोहि ते
 
 ### ६
 - रजनी के
