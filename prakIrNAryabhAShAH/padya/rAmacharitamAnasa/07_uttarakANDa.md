@@ -4,10 +4,9 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-353.mp3"></div>
-
 ## 000
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-353.mp3"></div>
 
 ### 01 श्लोक
 केकीकण्ठाभनीलं सुरवरविलसद्विप्रपादाब्जचिह्नं  
@@ -174,10 +173,9 @@ unicode_script = "devanagari"
 अतएव मेरे हृदय में ऐसा पक्का भरोसा है कि श्री रामजी अवश्य मिलेङ्गे, (क्योङ्कि) मुझे शकुन बडे शुभ हो रहे हैं, किन्तु अवधि बीत जाने पर यदि मेरे प्राण रह गए तो जगत्‌ में मेरे समान नीच कौन होगा? ॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-354.mp3"></div>
-
 ## 001
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-354.mp3"></div>
 
 ### 01 दोहा
 राम बिरह सागर महँ भरत मगन मन होत।  
@@ -383,9 +381,10 @@ unicode_script = "devanagari"
 फिर भरतजी के चरणों में सिर नवाकर हनुमान्‌जी तुरन्त ही श्री रामजी के पास (लौट) गए और जाकर उन्होन्ने सब कुशल कही। तब प्रभु हर्षित होकर विमान पर चढकर चले॥2॥  
 </details>
 
+### 03 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-355.mp3"></div>
 
-### 03 चौपाई
 हरषि भरत कोसलपुर आए। समाचार सब गुरहि सुनाए॥  
 पुनि मन्दिर महँ बात जनाई। आवत नगर कुसल रघुराई॥1॥  
 
@@ -599,9 +598,10 @@ unicode_script = "devanagari"
 विमान से उतरकर प्रभु ने पुष्पक विमान से कहा कि तुम अब कुबेर के पास जाओ। श्री रामचन्द्रजी की प्रेरणा से वह चला, उसे (अपने स्वामी के पास जाने का) हर्ष है और प्रभु श्री रामचन्द्रजी से अलग होने का अत्यन्त दुःख भी॥2॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-356.mp3"></div>
 
-### 02 चौपाई
 आए भरत सङ्ग सब लोगा। कृस तन श्रीरघुबीर बियोगा॥  
 बामदेव बसिष्ट मुनिनायक। देखे प्रभु महि धरि धनु सायक॥1॥  
 
@@ -844,9 +844,10 @@ unicode_script = "devanagari"
 लक्ष्मणजी भी सब माताओं से मिलकर और आशीर्वाद पाकर हर्षित हुए। वे कैकेयीजी से बार-बार मिले, परन्तु उनके मन का क्षोभ (रोष) नहीं जाता॥2॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-357.mp3"></div>
 
-### 02 चौपाई
 सासुन्ह सबनि मिली बैदेही । चरनन्हि लाग हरषु अति तेही॥  
 देहिं असीस बूझि कुसलाता। होइ अचल तुम्हार अहिवाता॥1॥  
 
@@ -1103,10 +1104,9 @@ unicode_script = "devanagari"
 परन्तु वे भी यह चरित्र देखकर ठगे से रह जाते हैं (स्तम्भित हो रहते हैं)। (शिवजी कहते हैं-) हे उमा! तब भला मनुष्य उनके गुणों को कैसे कह सकते हैं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-358.mp3"></div>
-
 ## 009
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-358.mp3"></div>
 
 ### 01 दोहा
 नारि कुमुदिनीं अवध सर रघुपति बिरह दिनेस।  

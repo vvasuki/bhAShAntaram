@@ -4,10 +4,9 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-241.mp3"></div>
-
 ## 00
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-241.mp3"></div>
 
 ### 01 श्लोक
 मूलं धर्मतरोर्विवेकजलधेः पूर्णेन्दुमानन्ददं  
@@ -124,10 +123,9 @@ unicode_script = "devanagari"
 वह मूढ, मन्दबुद्धि कारण से (भगवान के बल की परीक्षा करने के लिए) बना हुआ कौआ सीताजी के चरणों में चोञ्च मारकर भागा। जब रक्त बह चला, तब श्री रघुनाथजी ने जाना और धनुष पर सीङ्क (सरकण्डे) का बाण सन्धान किया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-242.mp3"></div>
-
 ## 01
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-242.mp3"></div>
 
 ### 01 दोहा
 अति कृपाल रघुनायक सदा दीन पर नेह।  
@@ -348,9 +346,10 @@ unicode_script = "devanagari"
 प्रभु आसन पर विराजमान हैं। नेत्र भरकर उनकी शोभा देखकर परम प्रवीण मुनि श्रेष्ठ हाथ जोडकर स्तुति करने लगे॥3॥  
 </details>
 
+### 02 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-243.mp3"></div>
 
-### 02 छन्द
 नमामि भक्त वत्सलं। कृपालु शील कोमलं॥  
 भजामि ते पदाम्बुजं। अकामिनां स्वधामदं॥1॥  
 
@@ -539,9 +538,10 @@ unicode_script = "devanagari"
 मुनि ने (इस प्रकार) विनती करके और फिर सिर नवाकर, हाथ जोडकर कहा- हे नाथ! मेरी बुद्धि आपके चरण कमलों को कभी न छोडे॥4॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-244.mp3"></div>
 
-### 02 चौपाई
 अनुसुइया के पद गहि सीता। मिली बहोरि सुसील बिनीता॥  
 रिषिपतिनी मन सुख अधिकाई। आसिष देइ निकट बैठाई॥1॥  
 
@@ -789,9 +789,10 @@ unicode_script = "devanagari"
 मैं किस प्रकार कहूँ कि हे स्वामी! आप अब जाइए? हे नाथ! आप अन्तर्यामी हैं, आप ही कहिए। ऐसा कहकर धीर मुनि प्रभु को देखने लगे। मुनि के नेत्रों से (प्रेमाश्रुओं का) जल बह रहा है और शरीर पुलकित है॥5॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-245.mp3"></div>
 
-### 03 छन्द
 तन पुलक निर्भर प्रेम पूरन नयन मुख पङ्कज दिए।  
 मन ग्यान गुन गोतीत प्रभु मैं दीख जप तप का किए॥  
 जप जोग धर्म समूह तें नर भगति अनुपम पावई।  
@@ -1070,10 +1071,9 @@ unicode_script = "devanagari"
 (मुनियों ने कहा) हे स्वामी! आप सर्वदर्शी (सर्वज्ञ) और अन्तर्यामी (सबके हृदय की जानने वाले) हैं। जानते हुए भी (अनजान की तरह) हमसे कैसे पूछ रहे हैं? राक्षसों के दलों ने सब मुनियों को खा डाला है। (ये सब उन्हीं की हड्डियों के ढेर हैं)। यह सुनते ही श्री रघुवीर के नेत्रों में जल छा गया (उनकी आँखों में करुणा के आँसू भर आए)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-246.mp3"></div>
-
 ## 09
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-246.mp3"></div>
 
 ### 01 दोहा
 निसिचर हीन करउँ महि भुज उठाइ पन कीन्ह।  
@@ -1283,9 +1283,10 @@ unicode_script = "devanagari"
 तब मुनि ने हृदय में धीरज धरकर बार-बार चरणों को स्पर्श किया। फिर प्रभु को अपने आश्रम में लाकर अनेक प्रकार से उनकी पूजा की॥10॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-247.mp3"></div>
 
-### 02 चौपाई
 कह मुनि प्रभु सुनु बिनती मोरी। अस्तुति करौं कवन बिधि तोरी॥  
 महिमा अमित मोरि मति थोरी। रबि सन्मुख खद्योत अँजोरी॥1॥  
 
@@ -1500,9 +1501,10 @@ unicode_script = "devanagari"
 हे प्रभो! हे श्री रामजी! छोटे भाई लक्ष्मणजी और सीताजी सहित धनुष-बाणधारी आप निष्काम (स्थिर) होकर मेरे हृदय रूपी आकाश में चन्द्रमा की भाँति सदा निवास कीजिए॥11॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-248.mp3"></div>
 
-### 02 चौपाई
 एवमस्तु करि रमानिवासा। हरषि चले कुम्भज रिषि पासा॥  
 बहुत दिवस गुर दरसनु पाएँ। भए मोहि एहिं आश्रम आएँ॥1॥  
 
@@ -1750,10 +1752,9 @@ unicode_script = "devanagari"
 हे रघुकुल के स्वामी! आप सब मुनियों पर दया करके वहीं निवास कीजिए। मुनि की आज्ञा पाकर श्री रामचन्द्रजी वहाँ से चल दिए और शीघ्र ही पञ्चवटी के निकट पहुँच गए॥9॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-249.mp3"></div>
-
 ## 13
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-249.mp3"></div>
 
 ### 01 दोहा
 गीधराज सै भेण्ट भइ बहु बिधि प्रीति बढाइ।  
@@ -2024,10 +2025,9 @@ unicode_script = "devanagari"
 मेरा गुण गाते समय जिसका शरीर पुलकित हो जाए, वाणी गदगद हो जाए और नेत्रों से (प्रेमाश्रुओं का) जल बहने लगे और काम, मद और दम्भ आदि जिसमें न हों, हे भाई! मैं सदा उसके वश में रहता हूँ॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-250.mp3"></div>
-
 ## 16
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-250.mp3"></div>
 
 ### 01 दोहा
 बचन कर्म मन मोरि गति भजनु करहिं निःकाम।  
@@ -2209,9 +2209,10 @@ unicode_script = "devanagari"
 लक्ष्मणजी ने बडी फुर्ती से उसको बिना नाक-कान की कर दिया। मानो उसके हाथ रावण को चुनौती दी हो!॥17॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-251.mp3"></div>
 
-### 02 चौपाई
 नाक कान बिनु भइ बिकरारा। जनु स्रव सैल गेरु कै धारा॥  
 खर दूषन पहिं गइ बिलपाता। धिग धिग तव पौरुष बल भ्राता॥1॥  
 
@@ -2509,9 +2510,10 @@ unicode_script = "devanagari"
 श्री रघुवीरजी ने उनके हथियारों को तिल के समान (टुकडे-टुकडे) करके काट डाला। फिर धनुष को कान तक तानकर अपने तीर छोडे॥2॥  
 </details>
 
+### 02 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-252.mp3"></div>
 
-### 02 छन्द
 तब चले बान कराल। फुङ्करत जनु बहु ब्याल॥  
 कोपेउ समर श्रीराम। चले बिसिख निसित निकाम॥1॥  
 

@@ -7,9 +7,10 @@ unicode_script = "devanagari"
 
 ## 000 मङ्गलम्
 
+### 01 श्लोक वन्दनानि
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-001.mp3"></div>
 
-### 01 श्लोक वन्दनानि
 #### देववन्दनम्
 वर्णानाम् अर्थसङ्घानां  
 रसानां छन्दसामपि।  
@@ -128,9 +129,10 @@ unicode_script = "devanagari"
 अनेक पुराण, वेद और (तन्त्र) शास्त्र से सम्मत तथा जो रामायण में वर्णित है और कुछ अन्यत्र से भी उपलब्ध श्री रघुनाथजी की कथा को तुलसीदास अपने अन्तःकरण के सुख के लिए अत्यन्त मनोहर भाषा रचना में विस्तृत करता है॥7॥  
 </details>
 
+### 02 सोरठा वन्दनानि
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-002.mp3"></div>
 
-### 02 सोरठा वन्दनानि
 #### देववन्दनम्
 जो सुमिरत सिधि होइ  
 गन-नायक-करिबर-बदन।  
@@ -424,9 +426,9 @@ unicode_script = "devanagari"
 वह तीर्थराज अलौकिक और अकथनीय है एवं तत्काल फल देने वाला है, उसका प्रभाव प्रत्यक्ष है॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-003.mp3"></div>
-
 ## 002 वन्दनानि
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-003.mp3"></div>
 
 ### 01 दोहा साधूनां प्रयाग-रूपकम्
 सुनि समुझहिं जन मुदित-मन  
@@ -676,9 +678,10 @@ unicode_script = "devanagari"
 दुष्टों की यह रीति है कि वे उदासीन, शत्रु अथवा मित्र, किसी का भी हित सुनकर जलते हैं। यह जानकर दोनों हाथ जोडकर यह जन प्रेमपूर्वक उनसे विनय करता है॥4॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-004.mp3"></div>
 
-### 02 चौपाई
 मैं अपनी दिसि कीन्ह निहोरा। तिन्ह निज ओर न लाउब भोरा॥  
 बायस पलिअहिं अति अनुरागा। होहिं निरामिष कबहुँ कि कागा॥1॥  
 
@@ -1087,10 +1090,9 @@ unicode_script = "devanagari"
 हे भाई! जगत में तालाबों और नदियों के समान मनुष्य ही अधिक हैं, जो जल पाकर अपनी ही बाढ से बढते हैं (अर्थात्‌ अपनी ही उन्नति से प्रसन्न होते हैं)। समुद्र सा तो कोई एक बिरला ही सज्जन होता है, जो चन्द्रमा को पूर्ण देखकर (दूसरों का उत्कर्ष देखकर) उमड पडता है॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-006.mp3"></div>
-
 ## 008
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-006.mp3"></div>
 
 ### 01 दोहा
 भाग छोट अभिलाषु बड करउँ एक बिस्वास।  
