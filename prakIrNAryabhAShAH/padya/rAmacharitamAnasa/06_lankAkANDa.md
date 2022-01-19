@@ -4,10 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-301.mp3"></div>
-
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-301.mp3"></div>
 
 ## 000
 
@@ -186,9 +183,7 @@ unicode_script = "devanagari"
  विकट वानरों के समूह (आप) दौड जाइए और वृक्षों तथा पर्वतों के समूहों को उखाड लाइए। यह सुनकर वानर और भालू हूह (हुँकार) करके और श्री रघुनाथजी के प्रताप समूह की (अथवा प्रताप के पुञ्ज श्री रामजी की) जय पुकारते हुए चले॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-302.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-302.mp3"></div>
 
 ## 001
 
@@ -455,9 +450,7 @@ unicode_script = "devanagari"
  प्रभु श्री रामचन्द्रजी की आज्ञा पाकर सेना चली। वानर सेना की विपुलता (अत्यधिक सङ्ख्या) को कौन कह सकता है?॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-303.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-303.mp3"></div>
 
 ## 004
 
@@ -725,9 +718,7 @@ unicode_script = "devanagari"
  वही कोसलाधीश श्री रघुनाथजी आप पर दया करने आए हैं। हे प्रियतम! यदि आप मेरी सीख मान लेङ्गे, तो आपका अत्यन्त पवित्र और सुन्दर यश तीनों लोकों में फैल जाएगा॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-304.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-304.mp3"></div>
 
 ## 007
 
@@ -934,11 +925,7 @@ unicode_script = "devanagari"
  यदि वे स्त्री पाकर लौट जाएँ, तब तो (व्यर्थ) झगडा न बढाइये। नहीं तो (यदि न फिरें तो) हे तात! सम्मुख युद्धभूमि में उनसे हठपूर्वक (डटकर) मार-काट कीजिए॥9॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-305.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-305.mp3"></div>
 
 ### 02 चौपाई
 यह मत जौं मानहु प्रभु मोरा। उभय प्रकार सुजसु जग तोरा॥  
@@ -1198,9 +1185,7 @@ unicode_script = "devanagari"
  प्रभु श्री रामजी ने कहा- विष चन्द्रमा का बहुत प्यारा भाई है, इसी से उसने विष को अपने हृदय में स्थान दे रखा है। विषयुक्त अपने किरण समूह को फैलाकर वह वियोगी नर-नारियों को जलाता रहता है॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-306.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-306.mp3"></div>
 
 ## 012
 
@@ -1476,9 +1461,7 @@ unicode_script = "devanagari"
  अठारह प्रकार की असङ्ख्य वनस्पतियाँ जिनकी रोमावली हैं, पर्वत अस्थियाँ हैं, नदियाँ नसों का जाल है, समुद्र पेट है और नरक जिनकी नीचे की इन्द्रियाँ हैं। इस प्रकार प्रभु विश्वमय हैं, अधिक कल्पना (ऊहापोह) क्या की जाए?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-307.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-307.mp3"></div>
 
 ## 015
 

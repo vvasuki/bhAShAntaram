@@ -4,10 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-131.mp3"></div>
-
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-131.mp3"></div>
 
 ## 000
 
@@ -59,10 +56,7 @@ unicode_script = "devanagari"
 नीले कमल के समान श्याम और कोमल जिनके अङ्ग हैं, श्री सीताजी जिनके वाम भाग में विराजमान हैं और जिनके हाथों में (क्रमशः) अमोघ बाण और सुन्दर धनुष है, उन रघुवंश के स्वामी श्री रामचन्द्रजी को मैं नमस्कार करता हूँ॥3॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-132.mp3"></div>
-
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-132.mp3"></div>
 
 ### 02 दोहा
 श्री गुरु चरन सरोज रज निज मनु मुकुरु सुधारि।  
@@ -300,9 +294,7 @@ unicode_script = "devanagari"
 अब मेरे मन में एक ही अभिलाषा है। हे नाथ! वह भी आप ही के अनुग्रह से पूरी होगी। राजा का सहज प्रेम देखकर मुनि ने प्रसन्न होकर कहा- नरेश! आज्ञा दीजिए (कहिए, क्या अभिलाषा है?)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-133.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-133.mp3"></div>
 
 ## 003
 
@@ -543,9 +535,7 @@ unicode_script = "devanagari"
 सुन्दर मणियों के मनोहर चौक पुरवाओ और बाजार को तुरन्त सजाने के लिए कह दो। श्री गणेशजी, गुरु और कुलदेवता की पूजा करो और भूदेव ब्राह्मणों की सब प्रकार से सेवा करो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-134.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-134.mp3"></div>
 
 ## 006
 
@@ -786,9 +776,7 @@ unicode_script = "devanagari"
 परन्तु प्रभु (आप) ने प्रभुता छोडकर (स्वयं यहाँ पधारकर) जो स्नेह किया, इससे आज यह घर पवित्र हो गया! हे गोसाईं! (अब) जो आज्ञा हो, मैं वही करूँ। स्वामी की सेवा में ही सेवक का लाभ है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-135.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-135.mp3"></div>
 
 ## 009
 
@@ -1030,9 +1018,7 @@ unicode_script = "devanagari"
 परन्तु आगे के काम का विचार करके (श्री रामजी के वन जाने से राक्षसों का वध होगा, जिससे सारा जगत सुखी हो जाएगा) चतुर कवि (श्री रामजी के वनवास के चरित्रों का वर्णन करने के लिए) मेरी चाह (कामना) करेङ्गे। ऐसा विचार कर सरस्वती हृदय में हर्षित होकर दशरथजी की पुरी अयोध्या में आईं, मानो दुःसह दुःख देने वाली कोई ग्रहदशा आई हो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-136.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-136.mp3"></div>
 
 ## 012
 

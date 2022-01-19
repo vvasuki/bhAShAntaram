@@ -6,8 +6,7 @@ unicode_script: devanagari
 
 #### सत्सङ्गः
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-003.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-003.mp3"></div>
 
 दोहा  
 सुनि समुझहिं जन मुदित-मन  
@@ -74,8 +73,8 @@ unicode_script: devanagari
 बिनती करइ सप्रीति॥4॥  
 
 #### सद्-असद्-भेदः
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-004.mp3"></div>
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-004.mp3"></div>
 
 चौपाई  
 
@@ -137,8 +136,7 @@ unicode_script: devanagari
 +++(अन्ते)+++ किएहुँ कुबेषु साधु सनमानू। जिमि जग +++(मेँ)+++ जामवन्त हनुमानू॥  
 हानि कुसङ्ग, सुसङ्गति लाहू+++(भ)+++। लोकहुँ बेद बिदित सब काहू+++(=किसीको)+++॥4॥ +++(4)+++ 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-005.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-005.mp3"></div>
 
 ##### सङ्गप्रभावः
 गगन चढ़इ रज पवन-प्रसङ्गा। कीचहिं+++(=कीचड़ मेँ)+++ मिलइ नीच जल-सङ्गा॥  
@@ -196,8 +194,7 @@ unicode_script: devanagari
 जग बहु नर सर+++(ः)+++ सरि+++(त्)+++ सम भाई। जे निज-बाढ़ि बढ़हि जल पाई॥  
 सज्जन स+++(सु)+++कृत-सिन्धु सम कोई। देखि पूर बिधु+++(=विधु)+++ बाढ़इ जोई॥7॥+++(५)+++  
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-006.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-006.mp3"></div>
 
 दोहा  
 +++(मेरा)+++ भाग छोट अभिलाषु बड़  
@@ -272,10 +269,7 @@ unicode_script: devanagari
 गिरा+++(रः)+++ ग्राम्य सिय-राम-जस  
 गावहिं सुनहिं सुजा+++(ज्ञा)+++न ॥10 ख॥  
 
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-007.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-007.mp3"></div>
 
 चौपाई  
 
@@ -325,8 +319,7 @@ unicode_script: devanagari
 नेति नेति कहि जासु +++(राम मेँ)+++ गुन  
 करहिं निरन्तर गान॥12॥  
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-008.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-008.mp3"></div>
 
 चौपाई  
 सब जानत प्रभु-प्रभुता सोई। तदपि कहें बिनु रहा न कोई॥  
@@ -377,9 +370,7 @@ unicode_script: devanagari
 बालबिनय सुनि सुरुचि लखि  
 मो पर होहु कृपाल॥14 ग॥  
 
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-009.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-009.mp3"></div>
 
 बन्दउँ मुनि-पद-कञ्जु  
 रामायन जेहिं निरमयउ।  
@@ -444,9 +435,7 @@ unicode_script: devanagari
 बिछुरत+++(=विच्छेदित)+++ दीनदयाल +++(राम)+++  
 प्रिय-तनु तृन इव परिहरेउ॥16॥  
 
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-010.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-010.mp3"></div>
 
 चौपाई  
 
@@ -507,8 +496,7 @@ unicode_script: devanagari
 हरषे हेतु हेरि+++(=देखकर)+++ हर +++(रामजपसक्त-प्रसन्न-पार्वती-)+++ही+++(=हृदय)+++ को। किय +++(स्व)+++भूषन तिय+++(=स्त्री)+++-भूषन-ती+++(=स्त्री)+++ को॥  
 नाम-प्रभाउ जान सिव नीको+++(=निक्त)+++। कालकूट फलु दीन्ह अमी+++(=अमृत)+++ को+++(=का)+++॥4॥  
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-011.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-011.mp3"></div>
 
 दोहा  
 बरषा-रितु रघुपति-भगति  
@@ -570,8 +558,7 @@ unicode_script: devanagari
 चहू+++(=४)+++ चतुर कहुँ नाम अ+++(आ)+++धारा। ग्यानी प्रभुहि बिसेषि-पिआरा॥  
 चहुँ जुग, चहुँ श्रुति +++(भी)+++ नाम-प्रभाऊ। कलि बिसेषि नहिं आन उपाऊ॥4॥  
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-012.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-012.mp3"></div>
 
 दोहा  
 सकल-कामना-हीन जे  
@@ -639,10 +626,7 @@ unicode_script: devanagari
 
 +++(मासपारायण, पहला विश्राम)+++
 
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-013.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-013.mp3"></div>
 
 चौपाई  
 नाम-प्रसाद +++(से)+++ सम्भु अबिनासी। साजु+++(=सज्ज)+++-अमङ्गल +++(किन्तु)+++ मङ्गल-रासी॥  

@@ -4,11 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-353.mp3"></div>
-
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-353.mp3"></div>
 
 ## 000
 
@@ -178,9 +174,7 @@ unicode_script = "devanagari"
 अतएव मेरे हृदय में ऐसा पक्का भरोसा है कि श्री रामजी अवश्य मिलेङ्गे, (क्योङ्कि) मुझे शकुन बडे शुभ हो रहे हैं, किन्तु अवधि बीत जाने पर यदि मेरे प्राण रह गए तो जगत्‌ में मेरे समान नीच कौन होगा? ॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-354.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-354.mp3"></div>
 
 ## 001
 
@@ -389,11 +383,7 @@ unicode_script = "devanagari"
 फिर भरतजी के चरणों में सिर नवाकर हनुमान्‌जी तुरन्त ही श्री रामजी के पास (लौट) गए और जाकर उन्होन्ने सब कुशल कही। तब प्रभु हर्षित होकर विमान पर चढकर चले॥2॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-355.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-355.mp3"></div>
 
 ### 03 चौपाई
 हरषि भरत कोसलपुर आए। समाचार सब गुरहि सुनाए॥  
@@ -609,11 +599,7 @@ unicode_script = "devanagari"
 विमान से उतरकर प्रभु ने पुष्पक विमान से कहा कि तुम अब कुबेर के पास जाओ। श्री रामचन्द्रजी की प्रेरणा से वह चला, उसे (अपने स्वामी के पास जाने का) हर्ष है और प्रभु श्री रामचन्द्रजी से अलग होने का अत्यन्त दुःख भी॥2॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-356.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-356.mp3"></div>
 
 ### 02 चौपाई
 आए भरत सङ्ग सब लोगा। कृस तन श्रीरघुबीर बियोगा॥  
@@ -858,11 +844,7 @@ unicode_script = "devanagari"
 लक्ष्मणजी भी सब माताओं से मिलकर और आशीर्वाद पाकर हर्षित हुए। वे कैकेयीजी से बार-बार मिले, परन्तु उनके मन का क्षोभ (रोष) नहीं जाता॥2॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-357.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-357.mp3"></div>
 
 ### 02 चौपाई
 सासुन्ह सबनि मिली बैदेही । चरनन्हि लाग हरषु अति तेही॥  
@@ -1121,9 +1103,7 @@ unicode_script = "devanagari"
 परन्तु वे भी यह चरित्र देखकर ठगे से रह जाते हैं (स्तम्भित हो रहते हैं)। (शिवजी कहते हैं-) हे उमा! तब भला मनुष्य उनके गुणों को कैसे कह सकते हैं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-358.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-358.mp3"></div>
 
 ## 009
 
@@ -1395,8 +1375,7 @@ unicode_script = "devanagari"
 श्री जानकीजी के सहित रघुनाथजी को देखकर मुनियों का समुदाय अत्यन्त ही हर्षित हुआ। तब ब्राह्मणों ने वेदमन्त्रों का उच्चारण किया। आकाश में देवता और मुनि 'जय, हो, जय हो' ऐसी पुकार करने लगे॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-359.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-359.mp3"></div>
 
 प्रथम तिलक बसिष्ट मुनि कीन्हा। पुनि सब बिप्रन्ह आयसु दीन्हा॥  
 सुत बिलोकि हरषीं महतारी। बार बार आरती उतारी॥3॥  

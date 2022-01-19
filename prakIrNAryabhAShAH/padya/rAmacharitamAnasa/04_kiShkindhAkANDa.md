@@ -4,11 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-265.mp3"></div>
-
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-265.mp3"></div>
 
 ## 00
 
@@ -156,9 +152,7 @@ unicode_script = "devanagari"
 मन को हरण करने वाले आपके सुन्दर, कोमल अङ्ग हैं और आप वन के दुःसह धूप और वायु को सह रहे हैं क्या आप ब्रह्मा, विष्णु, महेश- इन तीन देवताओं में से कोई हैं या आप दोनों नर और नारायण हैं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-266.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-266.mp3"></div>
 
 ## 01
 
@@ -413,9 +407,7 @@ unicode_script = "devanagari"
 सुग्रीव चरणों में मस्तक नवाकर आदर सहित मिले। श्री रघुनाथजी भी छोटे भाई सहित उनसे गले लगकर मिले। सुग्रीव मन में इस प्रकार सोच रहे हैं कि हे विधाता! क्या ये मुझसे प्रीति करेङ्गे?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-267.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-267.mp3"></div>
 
 ## 04
 
@@ -639,11 +631,7 @@ unicode_script = "devanagari"
 (उन्होन्ने कहा-) हे सुग्रीव! सुनो, मैं एक ही बाण से बालि को मार डालूँगा। ब्रह्मा और रुद्र की शरण में जाने पर भी उसके प्राण न बचेङ्गे॥6॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-268.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-268.mp3"></div>
 
 ### 02 चौपाई
 जे न मित्र दुख होहिं दुखारी। तिन्हहि बिलोकत पातक भारी॥  
@@ -852,9 +840,7 @@ unicode_script = "devanagari"
 वे कोसलाधीश दशरथजी के पुत्र राम और लक्ष्मण सङ्ग्राम में काल को भी जीत सकते हैं॥15॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-269.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-269.mp3"></div>
 
 ## 07
 
@@ -1095,9 +1081,7 @@ unicode_script = "devanagari"
 वह श्री रामजी स्वयं मेरे नेत्रों के सामने आ गए हैं। हे प्रभो! ऐसा संयोग क्या फिर कभी बन पडेगा॥3॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-270.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-270.mp3"></div>
 
 ### 03 छन्द
 सो नयन गोचर जासु गुन नित नेति कहि श्रुति गावहीं।  
@@ -1344,11 +1328,7 @@ unicode_script = "devanagari"
 देवताओं ने पहले से ही उस पर्वत की एक गुफा को सुन्दर बना (सजा) रखा था। उन्होन्ने सोच रखा था कि कृपा की खान श्री रामजी कुछ दिन यहाँ आकर निवास करेङ्गे॥12॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-271.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-271.mp3"></div>
 
 ### 02 चौपाई
 सुन्दर बन कुसुमित अति सोभा। गुञ्जत मधुप निकर मधु लोभा॥  
@@ -1597,9 +1577,7 @@ unicode_script = "devanagari"
 पृथ्वी अनेक तरह के जीवों से भरी हुई उसी तरह शोभायमान है, जैसे सुराज्य पाकर प्रजा की वृद्धि होती है। जहाँ-तहाँ अनेक पथिक थककर ठहरे हुए हैं, जैसे ज्ञान उत्पन्न होने पर इन्द्रियाँ (शिथिल होकर विषयों की ओर जाना छोड देती हैं)॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-272.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-272.mp3"></div>
 
 ## 15
 
@@ -1869,9 +1847,7 @@ unicode_script = "devanagari"
 ज्ञानी मुनि जिन्होन्ने श्री रघुनाथजी के चरणों में प्रीति मान ली है (जोड ली है), वे ही इस चरित्र (लीला रहस्य) को जानते हैं। लक्ष्मणजी ने जब प्रभु को क्रोधयुक्त जाना, तब उन्होन्ने धनुष चढाकर बाण हाथ में ले लिए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-273.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-273.mp3"></div>
 
 ## 18
 
@@ -2126,9 +2102,7 @@ unicode_script = "devanagari"
 तब श्री रघुनाथजी मुस्कुराकर बोले- हे भाई! तुम मुझे भरत के समान प्यारे हो। अब मन लगाकर वही उपाय करो जिस उपाय से सीता की खबर मिले॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-274.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-274.mp3"></div>
 
 ## 21
 
@@ -2350,11 +2324,7 @@ unicode_script = "devanagari"
 सब वानर वन, नदी, तालाब, पर्वत और पर्वतों की कन्दराओं में खोजते हुए चले जा रहे हैं। मन श्री रामजी के कार्य में लवलीन है। शरीर तक का प्रेम (ममत्व) भूल गया है॥23॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-275.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-275.mp3"></div>
 
 ### 02 चौपाई
 कतहुँ होइ निसिचर सैं भेटा। प्रान लेहिं एक एक चपेटा॥  
@@ -2615,9 +2585,7 @@ unicode_script = "devanagari"
 हम सब सेवक अत्यन्त बडभागी हैं, जो निरन्तर सगुण ब्रह्म (श्री रामजी) में प्रीति रखते हैं॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-276.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-276.mp3"></div>
 
 ## 26
 
@@ -2853,11 +2821,7 @@ unicode_script = "devanagari"
 मैं उन्हें देख रहा हूँ, तुम नहीं देख सकते, क्योङ्कि गीध की दृष्टि अपार होती है (बहुत दूर तक जाती है)। क्या करूँ? मैं बूढा हो गया, नहीं तो तुम्हारी कुछ तो सहायता अवश्य करता॥28॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-277.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-277.mp3"></div>
 
 ### 02 चौपाई
 जो नाघइ सत जोजन सागर। करइ सो राम काज मति आगर॥  

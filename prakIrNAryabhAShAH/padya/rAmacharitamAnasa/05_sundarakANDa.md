@@ -9,8 +9,8 @@ unicode_script = "devanagari"
 
 
 ### 01 छन्द
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-278.mp3"></div>
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-278.mp3"></div>
 
 शान्तं शाश्वतमप्रमेयमनघं निर्वाणशान्तिप्रदं  
 ब्रह्माशम्भुफणीन्द्रसेव्यमनिशं वेदान्तवेद्यं विभुम्‌।  
@@ -138,9 +138,7 @@ unicode_script = "devanagari"
 समुद्र ने उन्हें श्री रघुनाथजी का दूत समझकर मैनाक पर्वत से कहा कि हे मैनाक! तू इनकी थकावट दूर करने वाला हो (अर्थात्‌ अपने ऊपर इन्हें विश्राम दे)॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-279.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-279.mp3"></div>
 
 ## 01
 
@@ -354,9 +352,7 @@ unicode_script = "devanagari"
 वह अत्यन्त ऊँचा है, उसके चारों ओर समुद्र है। सोने के परकोटे (चहारदीवारी) का परम प्रकाश हो रहा है॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-280.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-280.mp3"></div>
 
 ### 03 छन्द
 कनक कोट बिचित्र मनि कृत सुन्दरायतना घना।  
@@ -595,11 +591,7 @@ unicode_script = "devanagari"
 वह महल श्री रामजी के आयुध (धनुष-बाण) के चिह्नों से अङ्कित था, उसकी शोभा वर्णन नहीं की जा सकती। वहाँ नवीन-नवीन तुलसी के वृक्ष-समूहों को देखकर कपिराज श्री हनुमान्‌जी हर्षित हुए॥5॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-281.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-281.mp3"></div>
 
 ### 02 चौपाई
 लङ्का निसिचर निकर निवासा। इहाँ कहाँ सज्जन कर बासा॥  
@@ -838,11 +830,7 @@ unicode_script = "devanagari"
 श्री जानकीजी नेत्रों को अपने चरणों में लगाए हुए हैं (नीचे की ओर देख रही हैं) और मन श्री रामजी के चरण कमलों में लीन है। जानकीजी को दीन (दुःखी) देखकर पवनपुत्र हनुमान्‌जी बहुत ही दुःखी हुए॥8॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-282.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-282.mp3"></div>
 
 ### 02 चौपाई
 तरु पल्लव महँ रहा लुकाई। करइ बिचार करौं का भाई॥  
@@ -1092,9 +1080,7 @@ unicode_script = "devanagari"
 मैं पुकारकर (निश्चय के साथ) कहती हूँ कि यह स्वप्न चार (कुछ ही) दिनों बाद सत्य होकर रहेगा। उसके वचन सुनकर वे सब राक्षसियाँ डर गईं और जानकीजी के चरणों पर गिर पडीं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-283.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-283.mp3"></div>
 
 ## 11
 
@@ -1330,11 +1316,7 @@ unicode_script = "devanagari"
 हनुमान्‌जी के प्रेमयक्त वचन सुनकर सीताजी के मन में विश्वास उत्पन्न हो गया, उन्होन्ने जान लिया कि यह मन, वचन और कर्म से कृपासागर श्री रघुनाथजी का दास है॥13॥  
 </details>
 
-
-
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-284.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-284.mp3"></div>
 
 ### 02 चौपाई
 हरिजन जानि प्रीति अति गाढी। सजल नयन पुलकावलि बाढी॥  
@@ -1595,9 +1577,7 @@ unicode_script = "devanagari"
 तब (उसे देखकर) सीताजी के मन में विश्वास हुआ। हनुमान्‌जी ने फिर छोटा रूप धारण कर लिया॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-285.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-285.mp3"></div>
 
 ## 16
 
@@ -1864,9 +1844,7 @@ unicode_script = "devanagari"
 फिर उठकर उसने बहुत माया रची, परन्तु पवन के पुत्र उससे जीते नहीं जाते॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-286.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-286.mp3"></div>
 
 ## 19
 
@@ -2135,9 +2113,7 @@ unicode_script = "devanagari"
 जो देवता, राक्षस और समस्त चराचर को खा जाता है, वह काल भी जिनके डर से अत्यन्त डरता है, उनसे कदापि वैर न करो और मेरे कहने से जानकीजी को दे दो॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-287.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-287.mp3"></div>
 
 ## 22
 
@@ -2401,9 +2377,7 @@ unicode_script = "devanagari"
 बन्धन से निकलकर वे सोने की अटारियों पर जा चढे। उनको देखकर राक्षसों की स्त्रियाँ भयभीत हो गईं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-288.mp3"></div>
-
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-288.mp3"></div>
 
 ## 25
 
