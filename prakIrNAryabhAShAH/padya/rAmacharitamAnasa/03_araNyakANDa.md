@@ -6,9 +6,10 @@ unicode_script = "devanagari"
 
 ## 00
 
+### 01 श्लोक
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-241.mp3"></div>
 
-### 01 श्लोक
 मूलं धर्मतरोर्विवेकजलधेः पूर्णेन्दुमानन्ददं  
 वैराग्याम्बुजभास्करं ह्यघघनध्वान्तापहं तापहम्‌।  
 मोहाम्भोधरपूगपाटनविधौ स्वःसम्भवं शङ्करं  
@@ -125,9 +126,10 @@ unicode_script = "devanagari"
 
 ## 01
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-242.mp3"></div>
 
-### 01 दोहा
 अति कृपाल रघुनायक सदा दीन पर नेह।  
 ता सन आइ कीन्ह छलु मूरख अवगुन गेह॥1॥  
 
@@ -1073,9 +1075,10 @@ unicode_script = "devanagari"
 
 ## 09
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-246.mp3"></div>
 
-### 01 दोहा
 निसिचर हीन करउँ महि भुज उठाइ पन कीन्ह।  
 सकल मुनिन्ह के आश्रमन्हि जाइ जाइ सुख दीन्ह॥9॥  
 
@@ -1754,9 +1757,10 @@ unicode_script = "devanagari"
 
 ## 13
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-249.mp3"></div>
 
-### 01 दोहा
 गीधराज सै भेण्ट भइ बहु बिधि प्रीति बढाइ।  
 गोदावरी निकट प्रभु रहे परन गृह छाइ॥13॥  
 
@@ -2027,9 +2031,10 @@ unicode_script = "devanagari"
 
 ## 16
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-250.mp3"></div>
 
-### 01 दोहा
 बचन कर्म मन मोरि गति भजनु करहिं निःकाम।  
 तिन्ह के हृदय कमल महुँ करउँ सदा बिश्राम॥16॥  
 
@@ -3024,12 +3029,10 @@ unicode_script = "devanagari"
 लक्ष्मणजी जब कन्द-मूल-फल लेने के लिए वन में गए, तब (अकेले में) कृपा और सुख के समूह श्री रामचन्द्रजी हँसकर जानकीजी से बोले-॥23॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-254.mp3"></div>
 
-
-### 02 चौपाई
 सुनहु प्रिया ब्रत रुचिर सुसीला। मैं कछु करबि ललित नरलीला॥  
 तुम्ह पावक महुँ करहु निवासा। जौ लगि करौं निसाचर नासा॥1॥  
 
@@ -3289,12 +3292,10 @@ unicode_script = "devanagari"
  धनुष-बाण धारण किए मेरे पीछे-पीछे पृथ्वी पर (पकडने के लिए) दौडते हुए प्रभु को मैं फिर-फिरकर देखूँगा। मेरे समान धन्य दूसरा कोई नहीं है॥26॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-255.mp3"></div>
 
-
-### 02 चौपाई
 तेहि बननिकट दसानन गयऊ। तब मारीच कपटमृग भयऊ॥  
 अति बिचित्र कछु बरनि न जाई। कनक देह मनि रचित बनाई॥1॥  
 
@@ -4250,12 +4251,10 @@ unicode_script = "devanagari"
  मन, वचन और कर्म से कपट छोडकर जो भूदेव ब्राह्मणों की सेवा करता है, मुझ समेत ब्रह्मा, शिव आदि सब देवता उसके वश हो जाते हैं॥33॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-259.mp3"></div>
 
-
-### 02 चौपाई
 सापत ताडत परुष कहन्ता। बिप्र पूज्य अस गावहिं सन्ता॥  
 पूजिअ बिप्र सील गुन हीना। सूद्र न गुन गन ग्यान प्रबीना॥1॥  
 
@@ -4680,12 +4679,10 @@ unicode_script = "devanagari"
  परन्तु जब उसका दूत यह देख गया कि मैं भाई के साथ हूँ (अकेला नहीं हूँ), तब उसकी बात सुनकर कामदेव ने मानो सेना को रोककर डेरा डाल दिया है॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-261.mp3"></div>
 
-
-### 02 चौपाई
 बिटप बिसाल लता अरुझानी। बिबिध बितान दिए जनु तानी॥  
 कदलि ताल बर धुजा पताका। देखि न मोह धीर मन जाका॥1॥  
 
@@ -4899,12 +4896,10 @@ unicode_script = "devanagari"
  उस सरोवर के अत्यन्त अथाह जल में सब मछलियाँ सदा एकरस (एक समान) सुखी रहती हैं। जैसे धर्मशील पुरुषों के सब दिन सुखपूर्वक बीतते हैं॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-262.mp3"></div>
 
-
-### 02 चौपाई
 बिकसे सरसिज नाना रङ्गा। मधुर मुखर गुञ्जत बहु भृङ्गा॥  
 बोलत जलकुक्कुट कलहंसा। प्रभु बिलोकि जनु करत प्रसंसा॥1॥  
 
@@ -5160,13 +5155,12 @@ unicode_script = "devanagari"
  यद्यपि प्रभु के अनेकों नाम हैं और वेद कहते हैं कि वे सब एक से एक बढकर हैं, तो भी हे नाथ! रामनाम सब नामों से बढकर हो और पाप रूपी पक्षियों के समूह के लिए यह वधिक के समान हो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-263.mp3"></div>
-
-
 ## 42
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-263.mp3"></div>
+
 राका रजनी भगति तव राम नाम सोइ सोम।  
 अपर नाम उडगन बिमल बसहुँ भगत उर ब्योम॥1॥  
 
@@ -5371,12 +5365,10 @@ unicode_script = "devanagari"
  युवती स्त्री अवगुणों की मूल, पीडा देने वाली और सब दुःखों की खान है, इसलिए हे मुनि! मैन्ने जी में ऐसा जानकर तुमको विवाह करने से रोका था॥44॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-264.mp3"></div>
 
-
-### 02 चौपाई
 सुनि रघुपति के बचन सुहाए। मुनि तन पुलक नयन भरि आए॥  
 कहहु कवन प्रभु कै असि रीती। सेवक पर ममता अरु प्रीती॥1॥  
 

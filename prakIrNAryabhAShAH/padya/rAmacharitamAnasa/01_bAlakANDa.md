@@ -1406,10 +1406,10 @@ unicode_script = "devanagari"
 श्यामा गो काली होने पर भी उसका दूध उज्ज्वल और बहुत गुणकारी होता है। यही समझकर सब लोग उसे पीते हैं। इसी तरह गँवारू भाषा में होने पर भी श्री सीतारामजी के यश को बुद्धिमान लोग बडे चाव से गाते और सुनते हैं॥2॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-007.mp3"></div>
 
-
-### 02 चौपाई
 मनि मानिक मुकुता छबि जैसी। अहि गिरि गज सिर सोह न तैसी॥  
 नृप किरीट तरुनी तनु पाई। लहहिं सकल सोभा अधिकाई॥1॥  
 
@@ -1607,10 +1607,10 @@ unicode_script = "devanagari"
 सरस्वतीजी, शेषजी, शिवजी, ब्रह्माजी, शास्त्र, वेद और पुराण- ये सब 'नेति-नेति' कहकर (पार नहीं पाकर 'ऐसा नहीं', ऐसा नहीं कहते हुए) सदा जिनका गुणगान किया करते हैं॥12॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-008.mp3"></div>
 
-
-### 02 चौपाई
 सब जानत प्रभु प्रभुता सोई। तदपि कहें बिनु रहा न कोई॥  
 तहाँ बेद अस कारन राखा। भजन प्रभाउ भाँति बहु भाषा॥1॥  
 
@@ -1836,10 +1836,10 @@ unicode_script = "devanagari"
 कवि और पण्डितगण! आप जो रामचरित्र रूपी मानसरोवर के सुन्दर हंस हैं, मुझ बालक की विनती सुनकर और सुन्दर रुचि देखकर मुझ पर कृपा करें॥3॥
 </details>
 
+### 02 सोरठा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-009.mp3"></div>
 
-
-### 02 सोरठा
 बन्दउँ मुनि पद कञ्जु रामायन जेहिं निरमयउ।  
 सखर सुकोमल मञ्जु दोष रहित दूषन सहित॥4॥  
 
@@ -2061,10 +2061,10 @@ unicode_script = "devanagari"
 मैं अवध के राजा श्री दशरथजी की वन्दना करता हूँ, जिनका श्री रामजी के चरणों में सच्चा प्रेम था, जिन्होन्ने दीनदयालु प्रभु के बिछुडते ही अपने प्यारे शरीर को मामूली तिनके की तरह त्याग दिया॥16॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-010.mp3"></div>
 
-
-### 02 चौपाई
 प्रनवउँ परिजन सहित बिदेहू। जाहि राम पद गूढ सनेहू॥  
 जोग भोग महँ राखेउ गोई। राम बिलोकत प्रगटेउ सोई॥1॥  
 
@@ -2310,12 +2310,12 @@ unicode_script = "devanagari"
 नाम के प्रति पार्वतीजी के हृदय की ऐसी प्रीति देखकर श्री शिवजी हर्षित हो गए और उन्होन्ने स्त्रियों में भूषण रूप (पतिव्रताओं में शिरोमणि) पार्वतीजी को अपना भूषण बना लिया। (अर्थात्‌ उन्हें अपने अङ्ग में धारण करके अर्धाङ्गिनी बना लिया)। नाम के प्रभाव को श्री शिवजी भलीभाँति जानते हैं, जिस (प्रभाव) के कारण कालकूट जहर ने उनको अमृत का फल दिया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-011.mp3"></div>
-
 ## 019
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-011.mp3"></div>
+
 बरषा रितु रघुपति भगति तुलसी सालि सुदास।  
 राम नाम बर बरन जुग सावन भादव मास॥19॥  
 
@@ -2553,12 +2553,12 @@ unicode_script = "devanagari"
 चारों ही चतुर भक्तों को नाम का ही आधार है, इनमें ज्ञानी भक्त प्रभु को विशेष रूप से प्रिय हैं। यों तो चारों युगों में और चारों ही वेदों में नाम का प्रभाव है, परन्तु कलियुग में विशेष रूप से है। इसमें तो (नाम को छोडकर) दूसरा कोई उपाय ही नहीं है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-012.mp3"></div>
-
 ## 022
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-012.mp3"></div>
+
 सकल कामना हीन जे राम भगति रस लीन।  
 नाम सुप्रेम पियूष ह्रद तिन्हहुँ किए मन मीन॥22॥  
 
@@ -2785,10 +2785,10 @@ unicode_script = "devanagari"
 
 मासपारायण, पहला विश्राम  
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-013.mp3"></div>
 
-
-### 02 चौपाई
 नाम प्रसाद सम्भु अबिनासी। साजु अमङ्गल मङ्गल रासी॥  
 सुक सनकादि सिद्ध मुनि जोगी। नाम प्रसाद ब्रह्मसुख भोगी॥1॥  
 
@@ -3033,12 +3033,12 @@ unicode_script = "devanagari"
 श्री रामजी तो विशुद्ध प्रेम से ही रीझते हैं, पर जगत में मुझसे बढकर मूर्ख और मलिन बुद्धि और कौन होगा?॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-014.mp3"></div>
-
 ## 028
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-014.mp3"></div>
+
 सठ सेवक की प्रीति रुचि रखिहहिं राम कृपालु।  
 उपल किए जलजान जेहिं सचिव सुमति कपि भालु॥1॥  
 
@@ -3271,10 +3271,10 @@ unicode_script = "devanagari"
 श्री रामजी की गूढ कथा के वक्ता (कहने वाले) और श्रोता (सुनने वाले) दोनों ज्ञान के खजाने (पूरे ज्ञानी) होते हैं। मैं कलियुग के पापों से ग्रसा हुआ महामूढ जड जीव भला उसको कैसे समझ सकता था?॥2॥  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-015.mp3"></div>
 
-
-### 02 चौपाई
 तदपि कही गुर बारहिं बारा। समुझि परी कछु मति अनुसारा॥  
 भाषाबद्ध करबि मैं सोई। मोरें मन प्रबोध जेहिं होई॥1॥  
 
@@ -3496,12 +3496,12 @@ unicode_script = "devanagari"
 सम्पूर्ण पुण्यों के फल महान भोगों के समान हैं। जगत का छलरहित (यथार्थ) हित करने में साधु-सन्तों के समान हैं। सेवकों के मन रूपी मानसरोवर के लिए हंस के समान और पवित्र करने में गङ्गाजी की तरङ्गमालाओं के समान हैं॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-016.mp3"></div>
-
 ## 032
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-016.mp3"></div>
+
 कुपथ कुतरक कुचालि कलि कपट दम्भ पाषण्ड।  
 दहन राम गुन ग्राम जिमि इन्धन अनल प्रचण्ड॥1॥  
 
@@ -3680,11 +3680,10 @@ unicode_script = "devanagari"
 सज्जनों के बहुत से समूह उस दिन श्री सरयूजी के पवित्र जल में स्नान करते हैं और हृदय में सुन्दर श्याम शरीर श्री रघुनाथजी का ध्यान करके उनके नाम का जप करते हैं॥34॥  
 </details>
 
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-017.mp3"></div>
 
-
-### 02 चौपाई
 दरस परस मज्जन अरु पाना। हरइ पाप कह बेद पुराना॥  
 नदी पुनीत अमित महिमा अति। कहि न सकइ सारदा बिमल मति॥1॥  
 

@@ -6,9 +6,10 @@ unicode_script = "devanagari"
 
 ## 00
 
+### 01 श्लोक
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-265.mp3"></div>
 
-### 01 श्लोक
 कुन्देन्दीवरसुन्दरावतिबलौ विज्ञानधामावुभौ  
 शोभाढ्यौ वरधन्विनौ श्रुतिनुतौ गोविप्रवृन्दप्रियौ।  
 मायामानुषरूपिणौ रघुवरौ सद्धर्मवर्मौ हितौ  
@@ -153,9 +154,10 @@ unicode_script = "devanagari"
 
 ## 01
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-266.mp3"></div>
 
-### 01 दोहा
 जग कारन तारन भव भञ्जन धरनी भार।  
 की तुम्ह अखिल भुवन पति लीन्ह मनुज अवतार॥1॥  
 
@@ -407,9 +409,10 @@ unicode_script = "devanagari"
 
 ## 04
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-267.mp3"></div>
 
-### 01 दोहा
 तब हनुमन्त उभय दिसि की सब कथा सुनाइ।  
 पावक साखी देइ करि जोरी प्रीति दृढाइ॥4॥  
 
@@ -840,9 +843,10 @@ unicode_script = "devanagari"
 
 ## 07
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-269.mp3"></div>
 
-### 01 दोहा
 कह बाली सुनु भीरु प्रिय समदरसी रघुनाथ।  
 जौं कदाचि मोहि मारहिं तौ पुनि होउँ सनाथ॥7॥  
 
@@ -1578,9 +1582,10 @@ unicode_script = "devanagari"
 
 ## 15
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-272.mp3"></div>
 
-### 01 दोहा
 कबहुँ प्रबल बह मारुत जहँ तहँ मेघ बिलाहिं।  
 जिमि कपूत के उपजें कुल सद्धर्म नसाहिं॥1॥  
 
@@ -1847,9 +1852,10 @@ unicode_script = "devanagari"
 
 ## 18
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-273.mp3"></div>
 
-### 01 दोहा
 तब अनुजहि समुझावा रघुपति करुना सींव।  
 भय देखाइ लै आवहु तात सखा सुग्रीव॥18॥  
 
@@ -2101,9 +2107,10 @@ unicode_script = "devanagari"
 
 ## 21
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-274.mp3"></div>
 
-### 01 दोहा
 एहि बिधि होत बतकही आए बानर जूथ।  
 नाना बरन सकल दिसि देखिअ कीस बरूथ॥21॥  
 
@@ -2584,9 +2591,10 @@ unicode_script = "devanagari"
 
 ## 26
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-276.mp3"></div>
 
-### 01 दोहा
 निज इच्छाँ प्रभु अवतरइ सुर मह गो द्विज लागि।  
 सगुन उपासक सङ्ग तहँ रहहिं मोच्छ सब त्यागि॥26॥  
 

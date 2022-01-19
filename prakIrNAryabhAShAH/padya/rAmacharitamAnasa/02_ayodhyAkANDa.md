@@ -6,9 +6,10 @@ unicode_script = "devanagari"
 
 ## 000
 
+### 01 श्लोक
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-131.mp3"></div>
 
-### 01 श्लोक
 यस्याङ्के च विभाति भूधरसुता देवापगा मस्तके  
 भाले बालविधुर्गले च गरलं यस्योरसि व्यालराट्।  
 सोऽयं भूतिविभूषणः सुरवरः सर्वाधिपः सर्वदा  
@@ -296,9 +297,10 @@ unicode_script = "devanagari"
 
 ## 003
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-133.mp3"></div>
 
-### 01 दोहा
 राजन राउर नामु जसु सब अभिमत दातार।  
 फल अनुगामी महिप मनि मन अभिलाषु तुम्हार॥3॥  
 
@@ -536,9 +538,10 @@ unicode_script = "devanagari"
 
 ## 006
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-134.mp3"></div>
 
-### 01 दोहा
 ध्वज पताक तोरन कलस सजहु तुरग रथ नाग।  
 सिर धरि मुनिबर बचन सबु निज निज काजहिं लाग॥6॥  
 
@@ -776,9 +779,10 @@ unicode_script = "devanagari"
 
 ## 009
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-135.mp3"></div>
 
-### 01 दोहा
 सुनि सनेह साने बचन मुनि रघुबरहि प्रसंस।  
 राम कस न तुम्ह कहहु अस हंस बंस अवतंस॥9॥  
 
@@ -1017,9 +1021,10 @@ unicode_script = "devanagari"
 
 ## 012
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-136.mp3"></div>
 
-### 01 दोहा
 नामु मन्थरा मन्दमति चेरी कैकइ केरि।  
 अजस पेटारी ताहि करि गई गिरा मति फेरि॥12॥  
 
@@ -1257,13 +1262,12 @@ unicode_script = "devanagari"
 जो विधाता कृपा करके जन्म दें तो (यह भी दें कि) श्री रामचन्द्र पुत्र और सीता बहू हों। श्री राम मुझे प्राणों से भी अधिक प्रिय हैं। उनके तिलक से (उनके तिलक की बात सुनकर) तुझे क्षोभ कैसा?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-137.mp3"></div>
-
-
 ## 015
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-137.mp3"></div>
+
 भरत सपथ तोहि सत्य कहु परिहरि कपट दुराउ।  
 हरष समय बिसमउ करसि कारन मोहि सुनाउ॥15॥  
 
@@ -1501,13 +1505,12 @@ unicode_script = "devanagari"
 राम को तिलक हो, यह कुल (रघुकुल) के उचित ही है और यह बात सभी को सुहाती है और मुझे तो बहुत ही अच्छी लगती है, परन्तु मुझे तो आगे की बात विचारकर डर लगता है। दैव उलटकर इसका फल उसी (कौसल्या) को दे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-138.mp3"></div>
-
-
 ## 018
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-138.mp3"></div>
+
 रचि पचि कोटिक कुटिलपन कीन्हेसि कपट प्रबोधु।  
 कहिसि कथा सत सवति कै जेहि बिधि बाढ बिरोधु॥18॥  
 
@@ -1742,13 +1745,12 @@ unicode_script = "devanagari"
 मैन्ने ज्योतिषियों से पूछा, तो उन्होन्ने रेखा खीञ्चकर (गणित करके अथवा निश्चयपूर्वक) कहा कि भरत राजा होङ्गे, यह सत्य बात है। हे भामिनि! तुम करो तो उपाय मैं बताऊँ। राजा तुम्हारी सेवा के वश में हैं ही॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-139.mp3"></div>
-
-
 ## 021
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-139.mp3"></div>
+
 परउँ कूप तुअ बचन पर सकउँ पूत पति त्यागि।  
 कहसि मोर दुखु देखि बड कस न करब हित लागि॥21॥  
 
@@ -1986,13 +1988,12 @@ unicode_script = "devanagari"
 नगर में सबकी ऐसी ही अभिलाषा है, परन्तु कैकेयी के हृदय में बडी जलन हो रही है। कुसङ्गति पाकर कौन नष्ट नहीं होता। नीच के मत के अनुसार चलने से चतुराई नहीं रह जाती॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-140.mp3"></div>
-
-
 ## 024
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-140.mp3"></div>
+
 साँझ समय सानन्द नृपु गयउ कैकई गेहँ।  
 गवनु निठुरता निकट किय जनु धरि देह सनेहँ॥24॥  
 
@@ -2251,13 +2252,12 @@ unicode_script = "devanagari"
 यद्यपि राजा नीति में निपुण हैं, परन्तु त्रियाचरित्र अथाह समुद्र है। फिर वह कपटयुक्त प्रेम बढाकर (ऊपर से प्रेम दिखाकर) नेत्र और मुँह मोडकर हँसती हुई बोली-॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-141.mp3"></div>
-
-
 ## 027
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-141.mp3"></div>
+
 मागु मागु पै कहहु पिय कबहुँ न देहु न लेहु।  
 देन कहेहु बरदान दुइ तेउ पावत सन्देहु॥27॥  
 
@@ -2509,13 +2509,12 @@ unicode_script = "devanagari"
 राजा शिबि, दधीचि और बलि ने जो कुछ कहा, शरीर और धन त्यागकर भी उन्होन्ने अपने वचन की प्रतिज्ञा को निबाहा। कैकेयी बहुत ही कडुवे वचन कह रही है, मानो जले पर नमक छिडक रही हो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-142.mp3"></div>
-
-
 ## 030
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-142.mp3"></div>
+
 धरम धुरन्धर धीर धरि नयन उघारे रायँ।  
 सिरु धुनि लीन्हि उसास असि मारेसि मोहि कुठायँ॥30॥  
 
@@ -2752,13 +2751,12 @@ unicode_script = "devanagari"
 राम साधु हैं, आप सयाने साधु हैं और राम की माता भी भली है, मैन्ने सबको पहचान लिया है। कौसल्या ने मेरा जैसा भला चाहा है, मैं भी साका करके (याद रखने योग्य) उन्हें वैसा ही फल दूँगी॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-143.mp3"></div>
-
-
 ## 033
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-143.mp3"></div>
+
 होत प्रात मुनिबेष धरि जौं न रामु बन जाहिं।  
 मोर मरनु राउर अजस नृप समुझिअ मन माहिं॥33॥  
 
@@ -2996,13 +2994,12 @@ unicode_script = "devanagari"
 मैं हाथ जोडकर कहता हूँ कि जब तक मैं जीता रहूँ, तब तक फिर कुछ न कहना (अर्थात मुझसे न बोलना)। अरी अभागिनी! फिर तू अन्त में पछताएगी जो तू नहारू (ताँत) के लिए गाय को मार रही है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-144.mp3"></div>
-
-
 ## 036
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-144.mp3"></div>
+
 परेउ राउ कहि कोटि बिधि काहे करसि निदानु।  
 कपट सयानि न कहति कछु जागति मनहुँ मसानु॥36॥  
 
@@ -3240,13 +3237,12 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी के मुख को देखकर और राजा की आज्ञा सुनाकर वे रघुकुल के दीपक श्री रामचन्द्रजी को (अपने साथ) लिवा चले। श्री रामचन्द्रजी मन्त्री के साथ बुरी तरह से (बिना किसी लवाजमे के) जा रहे हैं, यह देखकर लोग जहाँ-तहाँ विषाद कर रहे हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-145.mp3"></div>
-
-
 ## 039
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-145.mp3"></div>
+
 जाइ दीख रघुबंसमनि नरपति निपट कुसाजु।  
 सहमि परेउ लखि सिङ्घिनिहि मनहुँ बृद्ध गजराजु॥39॥  
 
@@ -3483,13 +3479,12 @@ unicode_script = "devanagari"
 क्योङ्कि महाराज तो बडे ही धीर और गुणों के अथाह समुद्र हैं। अवश्य ही मुझसे कोई बडा अपराध हो गया है, जिसके कारण महाराज मुझसे कुछ नहीं कहते। तुम्हें मेरी सौगन्ध है, माता! तुम सच-सच कहो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-146.mp3"></div>
-
-
 ## 042
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-146.mp3"></div>
+
 सहज सकल रघुबर बचन कुमति कुटिल करि जान।  
 चलइ जोङ्क जल बक्रगति जद्यपि सलिलु समान॥42॥  
 
@@ -3727,13 +3722,12 @@ unicode_script = "devanagari"
 इस अत्यन्त तुच्छ बात के लिए आपने इतना दुःख पाया। मुझे किसी ने पहले कहकर यह बात नहीं जनाई। स्वामी (आप) को इस दशा में देखकर मैन्ने माता से पूछा। उनसे सारा प्रसङ्ग सुनकर मेरे सब अङ्ग शीतल हो गए (मुझे बडी प्रसन्नता हुई)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-147.mp3"></div>
-
-
 ## 045
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-147.mp3"></div>
+
 मङ्गल समय सनेह बस सोच परिहरिअ तात।  
 आयसु देइअ हरषि हियँ कहि पुलके प्रभु गात॥45॥  
 
@@ -3971,13 +3965,12 @@ unicode_script = "devanagari"
 कोई हाथों से कान मूँदकर और जीभ को दाँतों तले दबाकर कहते हैं कि यह बात झूठ है, ऐसी बात कहने से तुम्हारे पुण्य नष्ट हो जाएँगे। भरतजी को तो श्री रामचन्द्रजी प्राणों के समान प्यारे हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-148.mp3"></div>
-
-
 ## 048
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-148.mp3"></div>
+
 चन्दु चवै बरु अनल कन सुधा होइ बिषतूल।  
 सपनेहुँ कबहुँ न करहिं किछु भरतु राम प्रतिकूल॥48॥  
 
@@ -4235,13 +4228,12 @@ unicode_script = "devanagari"
 सभी पुरुष और स्त्रियाँ अत्यन्त विषाद के वश हो रहे हैं। स्वामी श्री रामचन्द्रजी माता कौसल्या के पास गए। उनका मुख प्रसन्न है और चित्त में चौगुना चाव (उत्साह) है। यह सोच मिट गया है कि राजा कहीं रख न लें। (श्री रामजी को राजतिलक की बात सुनकर विषाद हुआ था कि सब भाइयों को छोडकर बडे भाई मुझको ही राजतिलक क्यों होता है। अब माता कैकेयी की आज्ञा और पिता की मौन सम्मति पाकर वह सोच मिट गया।)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-149.mp3"></div>
-
-
 ## 051
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-149.mp3"></div>
+
 नव गयन्दु रघुबीर मनु राजु अलान समान।  
 छूट जानि बन गवनु सुनि उर अनन्दु अधिकान॥51॥  
 
@@ -4479,13 +4471,12 @@ unicode_script = "devanagari"
 राज्य देने के लिए उन्होन्ने ही शुभ दिन शोधवाया था। फिर अब किस अपराध से वन जाने को कहा? हे तात! मुझे इसका कारण सुनाओ! सूर्यवंश (रूपी वन) को जलाने के लिए अग्नि कौन हो गया?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-150.mp3"></div>
-
-
 ## 054
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-150.mp3"></div>
+
 निरखि राम रुख सचिवसुत कारनु कहेउ बुझाइ।  
 सुनि प्रसङ्गु रहि मूक जिमि दसा बरनि नहिं जाइ॥54॥  
 
@@ -4723,13 +4714,12 @@ unicode_script = "devanagari"
 हृदय में भयानक दुःसह सन्ताप छा गया। उस समय के बहुविध विलाप का वर्णन नहीं किया जा सकता। श्री रामचन्द्रजी ने माता को उठाकर हृदय से लगा लिया और फिर कोमल वचन कहकर उन्हें समझाया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-151.mp3"></div>
-
-
 ## 057
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-151.mp3"></div>
+
 समाचार तेहि समय सुनि सीय उठी अकुलाइ।  
 जाइ सासु पद कमल जुग बन्दि बैठि सिरु नाइ॥57॥  
 
@@ -4994,10 +4984,10 @@ unicode_script = "devanagari"
 मासपारायण, चौदहवाँ विश्राम  
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-152.mp3"></div>
 
-
-### 02 चौपाई
 मातु समीप कहत सकुचाहीं। बोले समउ समुझि मन माहीं॥  
 राजकुमारि सिखावनु सुनहू। आन भाँति जियँ जनि कछु गुनहू॥1॥  
 
@@ -5216,13 +5206,12 @@ unicode_script = "devanagari"
 नवीन आम के वन में विहार करने वाली कोयल क्या करील के जङ्गल में शोभा पाती है? हे चन्द्रमुखी! हृदय में ऐसा विचारकर तुम घर ही पर रहो। वन में बडा कष्ट है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-153.mp3"></div>
-
-
 ## 063
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-153.mp3"></div>
+
 सहज सुहृद गुर स्वामि सिख जो न करइ सिर मानि।  
 सो पछिताइ अघाइ उर अवसि होइ हित हानि॥63॥  
 
@@ -5458,13 +5447,12 @@ unicode_script = "devanagari"
 ऐसा जी में जानकर, हे सुजान शिरोमणि! आप मुझे साथ ले लीजिए, यहाँ न छोडिए। हे स्वामी! मैं अधिक क्या विनती करूँ? आप करुणामय हैं और सबके हृदय के अन्दर की जानने वाले हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-154.mp3"></div>
-
-
 ## 066
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-154.mp3"></div>
+
 राखिअ अवध जो अवधि लगि रहत न जनिअहिं प्रान।  
 दीनबन्धु सुन्दर सुखद सील सनेह निधान॥66॥  
 
@@ -5702,13 +5690,12 @@ unicode_script = "devanagari"
 उन्होन्ने सीताजी को बार-बार हृदय से लगाया और धीरज धरकर शिक्षा दी और आशीर्वाद दिया कि जब तक गङ्गाजी और यमुनाजी में जल की धारा बहे, तब तक तुम्हारा सुहाग अचल रहे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-155.mp3"></div>
-
-
 ## 069
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-155.mp3"></div>
+
 सीतहि सासु आसीस सिख दीन्हि अनेक प्रकार।  
 चली नाइ पद पदुम सिरु अति हित बारहिं बार॥69॥  
 
@@ -5945,13 +5932,12 @@ unicode_script = "devanagari"
 धर्म और नीति का उपदेश तो उसको करना चाहिए, जिसे कीर्ति, विभूति (ऐश्वर्य) या सद्गति प्यारी हो, किन्तु जो मन, वचन और कर्म से चरणों में ही प्रेम रखता हो, हे कृपासिन्धु! क्या वह भी त्यागने के योग्य है?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-156a.mp3"></div>
-
-
 ## 072
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-156a.mp3"></div>
+
 करुनासिन्धु सुबन्धु के सुनि मृदु बचन बिनीत।  
 समुझाए उर लाइ प्रभु जानि सनेहँ सभीत॥72॥  
 
@@ -6189,10 +6175,10 @@ unicode_script = "devanagari"
 तुमको वन में सब प्रकार से आराम है, जिसके साथ श्री रामजी और सीताजी रूप पिता-माता हैं। हे पुत्र! तुम वही करना जिससे श्री रामचन्द्रजी वन में क्लेश न पावें, मेरा यही उपदेश है॥4॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-157a.mp3"></div>
 
-
-### 03 छन्द
 उपदेसु यहु जेहिं तात तुम्हरे राम सिय सुख पावहीं।  
 पितु मातु प्रिय परिवार पुर सुख सुरति बन बिसरावहीं॥  
 तुलसी प्रभुहि सिख देइ आयसु दीन्ह पुनि आसिष दई।  
@@ -6454,13 +6440,12 @@ unicode_script = "devanagari"
 मन्त्री सुमन्त्रजी की पत्नी और गुरु वशिष्ठजी की स्त्री अरुन्धतीजी तथा और भी चतुर स्त्रियाँ स्नेह के साथ कोमल वाणी से कहती हैं कि तुमको तो (राजा ने) वनवास दिया नहीं है, इसलिए जो ससुर, गुरु और सास कहें, तुम तो वही करो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-158a.mp3"></div>
-
-
 ## 078
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-158a.mp3"></div>
+
 सिख सीतलि हित मधुर मृदु सुनि सीतहि न सोहानि।  
 सरद चन्द चन्दिनि लगत जनु चकई अकुलानि॥78॥  
 
@@ -6697,13 +6682,12 @@ unicode_script = "devanagari"
 इससे अधिक बलवती और कौन सी व्यथा होगी, जिस दुःख को पाकर प्राण शरीर को छोडेङ्गे। फिर धीरज धरकर राजा ने कहा- हे सखा! तुम रथ लेकर श्री राम के साथ जाओ॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-159.mp3"></div>
-
-
 ## 081
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-159.mp3"></div>
+
 सुठि सुकुमार कुमार दोउ जनकसुता सुकुमारि।  
 रथ चढाइ देखराइ बनु फिरेहु गएँ दिन चारि॥81॥  
 
@@ -6941,13 +6925,12 @@ unicode_script = "devanagari"
 ऐसा विचार दृढ करके देवताओं को भी दुर्लभ सुखों से पूर्ण घरों को छोडकर सब श्री रामचन्द्रजी के साथ चले पडे। जिनको श्री रामजी के चरणकमल प्यारे हैं, उन्हें क्या कभी विषय भोग वश में कर सकते हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-160.mp3"></div>
-
-
 ## 084
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-160.mp3"></div>
+
 बालक बृद्ध बिहाइ गृहँ लगे लोग सब साथ।  
 तमसा तीर निवासु किय प्रथम दिवस रघुनाथ॥84॥  
 
@@ -7185,13 +7168,12 @@ unicode_script = "devanagari"
 इसके बाद सबने स्नान किया, जिससे मार्ग का सारा श्रम (थकावट) दूर हो गया और पवित्र जल पीते ही मन प्रसन्न हो गया। जिनके स्मरण मात्र से (बार-बार जन्म ने और मरने का) महान श्रम मिट जाता है, उनको 'श्रम' होना- यह केवल लौकिक व्यवहार (नरलीला) है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-161.mp3"></div>
-
-
 ## 087
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-161.mp3"></div>
+
 सुद्ध सच्चिदानन्दमय कन्द भानुकुल केतु।  
 चरितकरत नर अनुहरत संसृति सागर सेतु॥87॥  
 
@@ -7429,13 +7411,12 @@ unicode_script = "devanagari"
 महाराज दशरथजी का महल तो स्वभाव से ही सुन्दर है, इन्द्रभवन भी जिसकी समानता नहीं पा सकता। उसमें सुन्दर मणियों के रचे चौबारे (छत के ऊपर बँगले) हैं, जिन्हें मानो रति के पति कामदेव ने अपने ही हाथों सजाकर बनाया है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-162.mp3"></div>
-
-
 ## 090
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-162.mp3"></div>
+
 सुचि सुबिचित्र सुभोगमय सुमन सुगन्ध सुबास।  
 पलँग मञ्जु मनि दीप जहँ सब बिधि सकल सुपास॥90॥  
 
@@ -7700,12 +7681,10 @@ unicode_script = "devanagari"
 मासपारायण, पन्द्रहवाँ विश्राम  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-163.mp3"></div>
 
-
-### 02 चौपाई
 सखा समुझि अस परिहरि मोहू। सिय रघुबीर चरन रत होहू॥  
 कहत राम गुन भा भिनुसारा। जागे जग मङ्गल सुखदारा॥1॥  
 
@@ -7944,13 +7923,10 @@ unicode_script = "devanagari"
 सीता के मायके (पिता के घर) और ससुराल में सब सुख हैं। जब तक यह विपत्ति दूर नहीं होती, तब तक वे जब जहाँ जी चाहें, वहीं सुख से रहेङ्गी॥96॥  
 </details>
 
-
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-164.mp3"></div>
 
-
-### 02 चौपाई
 बिनती भूप कीन्ह जेहि भाँती। आरति प्रीति न सो कहि जाती॥  
 पितु सँदेसु सुनि कृपानिधाना। सियहि दीन्ह सिख कोटि बिधाना॥1॥  
 
@@ -8189,13 +8165,10 @@ unicode_script = "devanagari"
 सुमन्त्र ने रथ को हाँका, घोडे श्री रामचन्द्रजी की ओर देख-देखकर हिनहिनाते हैं। यह देखकर निषाद लोग विषाद के वश होकर सिर धुन-धुनकर (पीट-पीटकर) पछताते हैं॥99॥  
 </details>
 
-
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-165.mp3"></div>
 
-
-### 02 चौपाई
 जासु बियोग बिकल पसु ऐसें। प्रजा मातु पितु जिइहहिं कैसें॥  
 बरबस राम सुमन्त्रु पठाए। सुरसरि तीर आपु तब आए॥1॥  
 
@@ -8434,13 +8407,12 @@ unicode_script = "devanagari"
 हे नाथ! हे दीनदयाल! आपकी कृपा से अब मुझे कुछ नहीं चाहिए। लौटती बार आप मुझे जो कुछ देङ्गे, वह प्रसाद मैं सिर चढाकर लूँगा॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-166.mp3"></div>
-
-
 ## 102
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-166.mp3"></div>
+
 बहुत कीन्ह प्रभु लखन सियँ नहिं कछु केवटु लेइ।  
 बिदा कीन्ह करुनायतन भगति बिमल बरु देइ॥102॥  
 
@@ -8678,13 +8650,12 @@ unicode_script = "devanagari"
 ((गङ्गा, यमुना और सरस्वती का) सङ्गम ही उसका अत्यन्त सुशोभित सिंहासन है। अक्षयवट छत्र है, जो मुनियों के भी मन को मोहित कर लेता है। यमुनाजी और गङ्गाजी की तरङ्गें उसके (श्याम और श्वेत) चँवर हैं, जिनको देखकर ही दुःख और दरिद्रता नष्ट हो जाती है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-167.mp3"></div>
-
-
 ## 105
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-167.mp3"></div>
+
 सेवहिं सुकृती साधु सुचि पावहिं सब मनकाम।  
 बन्दी बेद पुरान गन कहहिं बिमल गुन ग्राम॥105॥  
 
@@ -8922,13 +8893,12 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी ने सब किसी को प्रणाम किया। नेत्रों का लाभ पाकर सब आनन्दित हो गए और परम सुख पाकर आशीर्वाद देने लगे। श्री रामजी के सौन्दर्य की सराहना करते हुए वे लौटे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-168.mp3"></div>
-
-
 ## 108
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-168.mp3"></div>
+
 राम कीन्ह बिश्राम निसि प्रात प्रयाग नहाइ।  
 चले सहितसिय लखन जन मुदित मुनिहि सिरु नाइ॥108॥  
 
@@ -9165,13 +9135,12 @@ unicode_script = "devanagari"
 (इधर गाँव की स्त्रियाँ कह रही हैं) हे सखी! कहो तो, वे माता-पिता कैसे हैं, जिन्होन्ने ऐसे (सुन्दर सुकुमार) बालकों को वन में भेज दिया है। श्री रामजी, लक्ष्मणजी और सीताजी के रूप को देखकर सब स्त्री-पुरुष स्नेह से व्याकुल हो जाते हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-169.mp3"></div>
-
-
 ## 111
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-169.mp3"></div>
+
 तब रघुबीर अनेक बिधि सखहि सिखावनु दीन्ह॥  
 राम रजायसु सीस धरि भवन गवनु तेइँ कीन्ह॥111॥  
 
@@ -9409,13 +9378,12 @@ unicode_script = "devanagari"
 कोई श्री रामचन्द्रजी को देखकर ऐसे अनुराग में भर गए हैं कि वे उन्हें देखते हुए उनके साथ लगे चले जा रहे हैं। कोई नेत्र मार्ग से उनकी छबि को हृदय में लाकर शरीर, मन और श्रेष्ठ वाणी से शिथिल हो जाते हैं (अर्थात्‌ उनके शरीर, मन और वाणी का व्यवहार बन्द हो जाता है)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-170.mp3"></div>
-
-
 ## 114
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-170.mp3"></div>
+
 एक देखि बट छाँह भलि डासि मृदुल तृन पात।  
 कहहिं गवाँइअ छिनुकु श्रमु गवनब अबहिङ्कि प्रात॥114॥  
 
@@ -9656,13 +9624,12 @@ unicode_script = "devanagari"
 खञ्जन पक्षी के से सुन्दर नेत्रों को तिरछा करके सीताजी ने इशारे से उन्हें कहा कि ये (श्री रामचन्द्रजी) मेरे पति हैं। यह जानकर गाँव की सब युवती स्त्रियाँ इस प्रकार आनन्दित हुईं, मानो कङ्गालों ने धन की राशियाँ लूट ली हों॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-171.mp3"></div>
-
-
 ## 117
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-171.mp3"></div>
+
 अति सप्रेम सिय पाँय परि बहुबिधि देहिं असीस।  
 सदा सोहागिनि होहु तुम्ह जब लगि महि अहि सीस॥117॥  
 
@@ -9900,13 +9867,12 @@ unicode_script = "devanagari"
 कोई एक कहते हैं- हम बहुत नहीं जानते। हाँ, अपने को परम धन्य अवश्य मानते हैं (जो इनके दर्शन कर रहे हैं) और हमारी समझ में वे भी बडे पुण्यवान हैं, जिन्होन्ने इनको देखा है, जो देख रहे हैं और जो देखेङ्गे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-172.mp3"></div>
-
-
 ## 120
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-172.mp3"></div>
+
 एहि बिधि कहि कहि बचन प्रिय लेहिं नयन भरि नीर।  
 किमि चलिहहिं मारग अगम सुठि सुकुमार सरीर॥120॥  
 
@@ -10143,13 +10109,12 @@ unicode_script = "devanagari"
 श्री रामजी, लक्ष्मणजी और सीताजी की सुन्दर प्रीति वाणी का विषय नहीं है (अर्थात अनिर्वचनीय है), अतः वह कैसे कही जा सकती है? पक्षी और पशु भी उस छबि को देखकर (प्रेमानन्द में) मग्न हो जाते हैं। पथिक रूप श्री रामचन्द्रजी ने उनके भी चित्त चुरा लिए हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-173.mp3"></div>
-
-
 ## 123
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-173.mp3"></div>
+
 जिन्ह जिन्ह देखे पथिक प्रिय सिय समेत दोउ भाइ।  
 भव मगु अगमु अनन्दु तेइ बिनु श्रम रहे सिराइ॥123॥  
 
@@ -10387,10 +10352,10 @@ unicode_script = "devanagari"
 श्री रामजी की सहज ही सरल वाणी सुनकर ज्ञानी मुनि वाल्मीकि बोले- धन्य! धन्य! हे रघुकुल के ध्वजास्वरूप! आप ऐसा क्यों न कहेङ्गे? आप सदैव वेद की मर्यादा का पालन (रक्षण) करते हैं॥4॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-174.mp3"></div>
 
-
-### 03 छन्द
 श्रुति सेतु पालक राम तुम्ह जगदीस माया जानकी।  
 जो सृजति जगु पालति हरति रुख पाइ कृपानिधान की॥  
 जो सहससीसु अहीसु महिधरु लखनु सचराचर धनी।  
@@ -10652,13 +10617,12 @@ unicode_script = "devanagari"
 जो अनेक प्रकार से तर्पण और हवन करते हैं तथा ब्राह्मणों को भोजन कराकर बहुत दान देते हैं तथा जो गुरु को हृदय में आपसे भी अधिक (बडा) जानकर सर्वभाव से सम्मान करके उनकी सेवा करते हैं,॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-175.mp3"></div>
-
-
 ## 129
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-175.mp3"></div>
+
 सबु करि मागहिं एक फलु राम चरन रति होउ।  
 तिन्ह कें मन मन्दिर बसहु सिय रघुनन्दन दोउ॥129॥  
 
@@ -10895,13 +10859,12 @@ unicode_script = "devanagari"
 अत्रि आदि बहुत से श्रेष्ठ मुनि वहाँ निवास करते हैं, जो योग, जप और तप करते हुए शरीर को कसते हैं। हे रामजी! चलिए, सबके परिश्रम को सफल कीजिए और पर्वत श्रेष्ठ चित्रकूट को भी गौरव दीजिए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-176.mp3"></div>
-
-
 ## 132
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-176.mp3"></div>
+
 चित्रकूट महिमा अमित कही महामुनि गाइ।  
 आइ नहाए सरित बर सिय समेत दोउ भाइ॥132॥  
 
@@ -11141,13 +11104,12 @@ unicode_script = "devanagari"
 श्री रामजी ने उन सबको प्रेम में मग्न जाना और प्रिय वचन कहकर सबका सम्मान किया। वे बार-बार प्रभु श्री रामचन्द्रजी को जोहार करते हुए हाथ जोडकर विनीत वचन कहते हैं-॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-177.mp3"></div>
-
-
 ## 135
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-177.mp3"></div>
+
 अब हम नाथ सनाथ सब भए देखि प्रभु पाय।  
 भाग हमारें आगमनु राउर कोसलराय॥135॥  
 
@@ -11385,13 +11347,12 @@ unicode_script = "devanagari"
 और हिमालय आदि जितने पर्वत हैं, सभी चित्रकूट का यश गाते हैं। विन्ध्याचल बडा आनन्दित है, उसके मन में सुख समाता नहीं, क्योङ्कि उसने बिना परिश्रम ही बहुत बडी बडाई पा ली है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-178.mp3"></div>
-
-
 ## 138
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-178.mp3"></div>
+
 चित्रकूट के बिहग मृग बेलि बिटप तृन जाति।  
 पुन्य पुञ्ज सब धन्य अस कहहिं देव दिन राति॥138॥  
 
@@ -11628,13 +11589,12 @@ unicode_script = "devanagari"
 तब धीर, कृपालु और भक्तों के हृदयों को शीतल करने के लिए चन्दन रूप रघुकुल को आनन्दित करने वाले श्री रामचन्द्रजी प्यारी पत्नी और भाई लक्ष्मण की दशा देखकर कुछ पवित्र कथाएँ कहने लगते हैं, जिन्हें सुनकर लक्ष्मणजी और सीताजी सुख प्राप्त करते हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-178.mp3"></div>
-
-
 ## 141
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-178.mp3"></div>
+
 रामु लखन सीता सहित सोहत परन निकेत।  
 जिमि बासव बस अमरपुर सची जयन्त समेत॥141॥  
 
@@ -11872,13 +11832,12 @@ unicode_script = "devanagari"
 सुमन्त्र हाथ मल-मलकर और सिर पीट-पीटकर पछताते हैं। मानो कोई कञ्जूस धन का खजाना खो बैठा हो। वे इस प्रकार चले मानो कोई बडा योद्धा वीर का बाना पहनकर और उत्तम शूरवीर कहलाकर युद्ध से भाग चला हो!॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-180.mp3"></div>
-
-
 ## 144
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-180.mp3"></div>
+
 बिप्र बिबेकी बेदबिद सम्मत साधु सुजाति।  
 जिमि धोखें मदपान कर सचिव सोच तेहि भाँति॥144॥  
 
@@ -12116,13 +12075,12 @@ unicode_script = "devanagari"
 रथ को पहचानकर और घोडों को व्याकुल देखकर उनके शरीर ऐसे गले जा रहे हैं (क्षीण हो रहे हैं) जैसे घाम में ओले! नगर के स्त्री-पुरुष कैसे व्याकुल हैं, जैसे जल के घटने पर मछलियाँ (व्याकुल होती हैं)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-181.mp3"></div>
-
-
 ## 147
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-181.mp3"></div>
+
 सचिव आगमनु सुनत सबु बिकल भयउ रनिवासु।  
 भवनु भयङ्करु लाग तेहि मानहुँ प्रेत निवासु॥147॥  
 
@@ -12360,13 +12318,12 @@ unicode_script = "devanagari"
 मूर्ख लोग सुख में हर्षित होते और दुःख में रोते हैं, पर धीर पुरुष अपने मन में दोनों को समान समझते हैं। हे सबके हितकारी (रक्षक)! आप विवेक विचारकर धीरज धरिए और शोक का परित्याग कीजिए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-182.mp3"></div>
-
-
 ## 150
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-182.mp3"></div>
+
 प्रथम बासु तमसा भयउ दूसर सुरसरि तीर।  
 न्हाइ रहे जलपानु करि सिय समेत दोउ बीर॥150॥  
 
@@ -12624,13 +12581,12 @@ unicode_script = "devanagari"
 सब रानियाँ विलाप करके रो रही हैं। उस महान विपत्ति का कैसे वर्णन किया जाए? उस समय के विलाप को सुनकर दुःख को भी दुःख लगा और धीरज का भी धीरज भाग गया!॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-183.mp3"></div>
-
-
 ## 153
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-183.mp3"></div>
+
 भयउ कोलाहलु अवध अति सुनि नृप राउर सोरु।  
 बिपुल बिहग बन परेउ निसि मानहुँ कुलिस कठोरु॥153॥  
 
@@ -12868,13 +12824,12 @@ unicode_script = "devanagari"
 सब कैकेयी को गालियाँ देते हैं, जिसने संसार भर को बिना नेत्रों का (अन्धा) कर दिया! इस प्रकार विलाप करते रात बीत गई। प्रातःकाल सब बडे-बडे ज्ञानी मुनि आए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-184.mp3"></div>
-
-
 ## 156
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-184.mp3"></div>
+
 तब बसिष्ठ मुनि समय सम कहि अनेक इतिहास।  
 सोक नेवारेउ सबहि कर निज बिग्यान प्रकास॥156॥  
 
@@ -13111,13 +13066,12 @@ unicode_script = "devanagari"
 भरतजी ने सब कुशल कह सुनाई। फिर अपने कुल की कुशल-क्षेम पूछी। (भरतजी ने कहा-) कहो, पिताजी कहाँ हैं? मेरी सब माताएँ कहाँ हैं? सीताजी और मेरे प्यारे भाई राम-लक्ष्मण कहाँ हैं?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-185.mp3"></div>
-
-
 ## 159
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-185.mp3"></div>
+
 सुनि सुत बचन सनेहमय कपट नीर भरि नैन।  
 भरत श्रवन मन सूल सम पापिनि बोली बैन॥159॥  
 
@@ -13348,13 +13302,12 @@ unicode_script = "devanagari"
 वे श्री रामजी भी तुझे अहित हो गए (वैरी लगे)! तू कौन है? मुझे सच-सच कह! तू जो है, सो है, अब मुँह में स्याही पोतकर (मुँह काला करके) उठकर मेरी आँखों की ओट में जा बैठ॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-186.mp3"></div>
-
-
 ## 162
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-186.mp3"></div>
+
 राम बिरोधी हृदय तें प्रगट कीन्ह बिधि मोहि।  
 मो समान को पातकी बादि कहउँ कछु तोहि॥162॥  
 
@@ -13592,13 +13545,12 @@ unicode_script = "devanagari"
 हे तात! किसी को दोष मत दो। विधाता मेरे िलए सब प्रकार से उलटा हो गया है, जो इतने दुःख पर भी मुझे जिला रहा है। अब भी कौन जानता है, उसे क्या भा रहा है?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-187.mp3"></div>
-
-
 ## 165
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-187.mp3"></div>
+
 पितु आयस भूषन बसन तात तजे रघुबीर।  
 बिसमउ हरषु न हृदयँ कछु पहिरे बलकल चीर॥165॥  
 
@@ -13836,13 +13788,12 @@ unicode_script = "devanagari"
 जो वेद मार्ग को छोडकर वाम (वेद प्रतिकूल) मार्ग पर चलते हैं, जो ठग हैं और वेष बनाकर जगत को छलते हैं, हे माता! यदि मैं इस भेद को जानता भी होऊँ तो शङ्करजी मुझे उन लोगों की गति दें॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-188.mp3"></div>
-
-
 ## 168
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-188.mp3"></div>
+
 मातु भरत के बचन सुनि साँचे सरल सुभायँ।  
 कहति राम प्रिय तात तुम्ह सदा बचन मन कायँ॥168॥  
 
@@ -14079,13 +14030,12 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी के गुण, शील और स्वभाव का वर्णन करते-करते तो मुनिराज के नेत्रों में जल भर आया और वे शरीर से पुलकित हो गए। फिर लक्ष्मणजी और सीताजी के प्रेम की बडाई करते हुए ज्ञानी मुनि शोक और स्नेह में मग्न हो गए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-189.mp3"></div>
-
-
 ## 171
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-189.mp3"></div>
+
 सुनहु भरत भावी प्रबल बिलखि कहेउ मुनिनाथ।  
 हानि लाभु जीवनु मरनु जसु अपजसु बिधि हाथ॥171॥  
 
@@ -14341,13 +14291,10 @@ unicode_script = "devanagari"
 जो अनुचित और उचित का विचार छोडकर पिता के वचनों का पालन करते हैं, वे (यहाँ) सुख और सुयश के पात्र होकर अन्त में इन्द्रपुरी (स्वर्ग) में निवास करते हैं॥174॥  
 </details>
 
-
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-190.mp3"></div>
 
-
-### 02 चौपाई
 अवसि नरेस बचन फुर करहू। पालहु प्रजा सोकु परिहरहू॥  
 सुरपुर नृपु पाइहि परितोषू। तुम्ह कहुँ सुकृतु सुजसु नहिं दोषू॥1॥  
 
@@ -14571,13 +14518,12 @@ unicode_script = "devanagari"
 अब आप लोग मेरी विनती सुन लीजिए और मेरी योग्यता के अनुसार मुझे शिक्षा दीजिए। मैं उत्तर दे रहा हूँ, यह अपराध क्षमा कीजिए। साधु पुरुष दुःखी मनुष्य के दोष-गुणों को नहीं गिनते।  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-191.mp3"></div>
-
-
 ## 177
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-191.mp3"></div>
+
 पितु सुरपुर सिय रामु बन करन कहहु मोहि राजु।  
 एहि तें जानहु मोर हित कै आपन बड काजु॥177॥  
 
@@ -14785,13 +14731,12 @@ unicode_script = "devanagari"
 कैकयी के पेट से जगत्‌ में जन्म लेकर यह मेरे लिए कुछ भी अनुचित नहीं है। मेरी सब बात तो विधाता ने ही बना दी है। (फिर) उसमें प्रजा और पञ्च (आप लोग) क्यों सहायता कर रहे हैं?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-192.mp3"></div>
-
-
 ## 180
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-192.mp3"></div>
+
 ग्रह ग्रहीत पुनि बात बस तेहि पुनि बीछी मार।  
 तेहि पिआइअ बारुनी कहहु काह उपचार॥180॥  
 
@@ -14968,13 +14913,12 @@ unicode_script = "devanagari"
 आप पञ्च (सब) लोग भी इसी में मेरा कल्याण मानकर सुन्दर वाणी से आज्ञा और आशीर्वाद दीजिए, जिसमें मेरी विनती सुनकर और मुझे अपना दास जानकर श्री रामचन्द्रजी राजधानी को लौट आवें॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-193.mp3"></div>
-
-
 ## 183
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-193.mp3"></div>
+
 जद्यपि जनमु कुमातु तें मैं सठु सदा सदोस।  
 आपन जानि न त्यागिहहिं मोहि रघुबीर भरोस॥183॥  
 
@@ -15133,13 +15077,12 @@ unicode_script = "devanagari"
 भरतजी ने उनको सब भेद समझाकर फिर उत्तम धर्म बतलाया और जो जिस योग्य था, उसे उसी काम पर नियुक्त कर दिया। सब व्यवस्था करके, रक्षकों को रखकर भरतजी राम माता कौसल्याजी के पास गए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-194.mp3"></div>
-
-
 ## 186
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-194.mp3"></div>
+
 आरत जननी जानि सब भरत सनेह सुजान।  
 कहेउ बनावन पालकीं सजन सुखासन जान॥186॥  
 
@@ -15287,13 +15230,12 @@ unicode_script = "devanagari"
 सम्पूर्ण देवता और दैत्य वीर जुट जाएँ, तो भी श्री रामजी को रण में जीतने वाला कोई नहीं है। भरत जो ऐसा कर रहे हैं, इसमें आश्चर्य ही क्या है? विष की बेलें अमृतफल कभी नहीं फलतीं!॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-195.mp3"></div>
-
-
 ## 189
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-195.mp3"></div>
+
 अस बिचारि गुहँ ग्याति सन कहेउ सजग सब होहु।  
 हथवाँसहु बोरहु तरनि कीजिअ घाटारोहु॥189॥  
 
@@ -15440,13 +15382,12 @@ unicode_script = "devanagari"
 यह सुनकर निषादराज गुहने कहा- बूढा ठीक कह रहा है। जल्दी में (बिना विचारे) कोई काम करके मूर्ख लोग पछताते हैं। भरतजी का शील स्वभाव बिना समझे और बिना जाने युद्ध करने में हित की बहुत बडी हानि है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-196.mp3"></div>
-
-
 ## 192
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-196.mp3"></div>
+
 गहहु घाट भट समिटि सब लेउँ मरम मिलि जाइ।  
 बूझि मित्र अरि मध्य गति तस तब करिहउँ आइ॥192॥  
 
@@ -15594,13 +15535,12 @@ unicode_script = "devanagari"
 हे प्रभो! कुशल के मूल आपके चरण कमलों के दर्शन कर मैन्ने तीनों कालों में अपना कुशल जान लिया। अब आपके परम अनुग्रह से करोडों कुलों (पीढियों) सहित मेरा मङ्गल (कल्याण) हो गया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-197.mp3"></div>
-
-
 ## 195
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-197.mp3"></div>
+
 समुझि मोरि करतूति कुलु प्रभु महिमा जियँ जोइ।  
 जो न भजइ रघुबीर पद जग बिधि बञ्चित सोइ॥195॥  
 
@@ -15838,13 +15778,12 @@ unicode_script = "devanagari"
 जहाँ सीताजी, श्री रामजी और लक्ष्मण रात को सोए थे। ऐसा कहते ही उनके नेत्रों के कोयों में (प्रेमाश्रुओं का) जल भर आया। भरतजी के वचन सुनकर निषाद को बडा विषाद हुआ। वह तुरन्त ही उन्हें वहाँ ले गया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-198.mp3"></div>
-
-
 ## 198
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-198.mp3"></div>
+
 जहँ सिंसुपा पुनीत तर रघुबर किय बिश्रामु।  
 अति सनेहँ सादर भरत कीन्हेउ दण्ड प्रनामु॥198॥  
 
@@ -16081,10 +16020,10 @@ unicode_script = "devanagari"
 यह सुनकर निषादराज प्रेमपूर्वक समझाने लगा- हे नाथ! आप व्यर्थ विषाद किसलिए करते हैं? श्री रामचन्द्रजी आपको प्यारे हैं और आप श्री रामचन्द्रजी को प्यारे हैं। यही निचोड (निश्चित सिद्धान्त) है, दोष तो प्रतिकूल विधाता को है॥4॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-199.mp3"></div>
 
-
-### 03 छन्द
 बिधि बाम की करनी कठिन जेहिं मातु कीन्ही बावरी।  
 तेहि राति पुनि पुनि करहिं प्रभु सादर सरहना रावरी॥  
 तुलसी न तुम्ह सो राम प्रीतमु कहतु हौं सौंहे किएँ।  
@@ -16358,13 +16297,12 @@ unicode_script = "devanagari"
 मैं अपना धर्म (न माँगने का क्षत्रिय धर्म) त्यागकर आप से भीख माँगता हूँ। आर्त्त मनुष्य कौन सा कुकर्म नहीं करता? ऐसा हृदय में जानकर सुजान उत्तम दानी जगत्‌ में माँगने वाले की वाणी को सफल किया करते हैं (अर्थात्‌ वह जो माँगता है, सो दे देते हैं)॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-200.mp3"></div>
-
-
 ## 204
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-200.mp3"></div>
+
 अरथ न धरम न काम रुचि गति न चहउँ निरबान।  
 जनम-जनम रति राम पद यह बरदानु न आन॥204॥  
 
@@ -16602,13 +16540,12 @@ unicode_script = "devanagari"
 उसमें भी तुम्हारा कोई तनिक सा भी अपराध कहे, तो वह अधम, अज्ञानी और असाधु है। यदि तुम राज्य करते तो भी तुम्हें दोष न होता। सुनकर श्री रामचन्द्रजी को भी सन्तोष ही होता॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-201.mp3"></div>
-
-
 ## 207
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-201.mp3"></div>
+
 अब अति कीन्हेहु भरत भल तुम्हहि उचित मत एहु।  
 सकल सुमङ्गल मूल जग रघुबर चरन सनेहु॥207॥  
 
@@ -16846,11 +16783,9 @@ unicode_script = "devanagari"
 भरद्वाज मुनि के वचन सुनकर सभासद् हर्षित हो गए। 'साधु-साधु' कहकर सराहना करते हुए देवताओं ने फूल बरसाए। आकाश में और प्रयागराज में 'धन्य, धन्य' की ध्वनि सुन-सुनकर भरतजी प्रेम में मग्न हो रहे हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-202.mp3"></div>
-
-
 ## 210
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-202.mp3"></div>
 
 ### 01 दोहा
 पुलक गात हियँ रामु सिय सजल सरोरुह नैन।  
@@ -17089,11 +17024,9 @@ unicode_script = "devanagari"
 मुनि को चिन्ता हुई कि हमने बहुत बडे मेहमान को न्योता है। अब जैसा देवता हो, वैसी ही उसकी पूजा भी होनी चाहिए। यह सुनकर ऋद्धियाँ और अणिमादि सिद्धियाँ आ गईं (और बोलीं-) हे गोसाईं! जो आपकी आज्ञा हो सो हम करें॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-203.mp3"></div>
-
-
 ## 213
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-203.mp3"></div>
 
 ### 01 दोहा
 राम बिरह ब्याकुल भरतु सानुज सहित समाज।  
@@ -17335,11 +17268,9 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी के ठहरने की जगहों और वृक्षों को देखकर उनके हृदय में प्रेम रोके नहीं रुकता। भरतजी की यह दशा देखकर देवता फूल बरसाने लगे। पृथ्वी कोमल हो गई और मार्ग मङ्गल का मूल बन गया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-204.mp3"></div>
-
-
 ## 216
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-204.mp3"></div>
 
 ### 01 दोहा
 किएँ जाहिं छाया जलद सुखद बहइ बर बात।  
@@ -17577,11 +17508,9 @@ unicode_script = "devanagari"
 श्री रामजी सदा अपने सेवकों (भक्तों) की रुचि रखते आए हैं। वेद, पुराण, साधु और देवता इसके साक्षी हैं। ऐसा हृदय में जानकर कुटिलता छोड दो और भरतजी के चरणों में सुन्दर प्रीति करो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-205.mp3"></div>
-
-
 ## 219
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-205.mp3"></div>
 
 ### 01 दोहा
 राम भगत परहित निरत पर दुख दुखी दयाल।  

@@ -6,9 +6,10 @@ unicode_script = "devanagari"
 
 ## 000
 
+### 01 श्लोक
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-301.mp3"></div>
 
-### 01 श्लोक
 रामं कामारिसेव्यं भवभयहरणं कालमत्तेभसिंहं  
 योगीन्द्रं ज्ञानगम्यं गुणनिधिमजितं निर्गुणं निर्विकारम्‌।  
 मायातीतं सुरेशं खलवधनिरतं ब्रह्मवृन्दैकदेवं  
@@ -184,9 +185,10 @@ unicode_script = "devanagari"
 
 ## 001
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-302.mp3"></div>
 
-### 01 दोहा
 अति उतङ्ग गिरि पादप लीलहिं लेहिं उठाइ।  
 आनि देहिं नल नीलहि रचहिं ते सेतु बनाइ॥1॥  
 
@@ -450,9 +452,10 @@ unicode_script = "devanagari"
 
 ## 004
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-303.mp3"></div>
 
-### 01 दोहा
 सेतुबन्ध भइ भीर अति कपि नभ पन्थ उडाहिं।  
 अपर जलचरन्हि ऊपर चढि चढि पारहि जाहिं॥4॥  
 
@@ -717,9 +720,10 @@ unicode_script = "devanagari"
 
 ## 007
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-304.mp3"></div>
 
-### 01 दोहा
 अस कहि नयन नीर भरि गहि पद कम्पित गात।  
 नाथ भजहु रघुनाथहि अचल होइ अहिवात॥7॥  
 
@@ -1184,9 +1188,10 @@ unicode_script = "devanagari"
 
 ## 012
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-306.mp3"></div>
 
-### 01 दोहा
 कह हनुमन्त सुनहु प्रभु ससि तुम्हार प्रिय दास।  
 तव मूरति बिधु उर बसति सोइ स्यामता अभास॥1॥  
 
@@ -1459,9 +1464,10 @@ unicode_script = "devanagari"
 
 ## 015
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-307.mp3"></div>
 
-### 01 दोहा
 अहङ्कार सिव बुद्धि अज मन ससि चित्त महान।  
 मनुज बास सचराचर रूप राम भगवान॥1॥  
 
@@ -1683,12 +1689,10 @@ unicode_script = "devanagari"
 स्वामी सब कार्य अपने-आप सिद्ध हैं, यह तो प्रभु ने मुझ को आदर दिया है (जो मुझे अपने कार्य पर भेज रहे हैं)। ऐसा विचार कर युवराज अङ्गद का हृदय हर्षित और शरीर पुलकित हो गया॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-308.mp3"></div>
 
-
-### 02 चौपाई
 बन्दि चरन उर धरि प्रभुताई। अङ्गद चलेउ सबहि सिरु नाई॥  
 प्रभु प्रताप उर सहज असङ्का। रन बाँकुरा बालिसुत बङ्का॥1॥  
 
@@ -1941,11 +1945,10 @@ unicode_script = "devanagari"
  और 'हे शरणागत के पालन करने वाले रघुवंश शिरोमणि श्री रामजी! मेरी रक्षा कीजिए, रक्षा कीजिए।' (इस प्रकार आर्त प्रार्थना करो।) आर्त पुकार सुनते ही प्रभु तुमको निर्भय कर देङ्गे॥20॥  
 </details>
 
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-309.mp3"></div>
 
-
-### 02 चौपाई
 रे कपिपोत बोलु सम्भारी। मूढ न जानेहि मोहि सुरारी॥  
 कहु निज नाम जनक कर भाई। केहि नातें मानिऐ मिताई॥1॥  
 
@@ -2206,13 +2209,12 @@ unicode_script = "devanagari"
  हे रावण! जिसको तुमने बहुत बडा योद्धा कहकर सराहा है, वह तो सुग्रीव का एक छोटा सा दौडकर चलने वाला हरकारा है। वह बहुत चलता है, वीर नहीं है। उसको तो हमने (केवल) खबर लेने के लिए भेजा था॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-310.mp3"></div>
-
-
 ## 023
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-310.mp3"></div>
+
 सत्य नगरु कपि जारेउ बिनु प्रभु आयसु पाइ।  
 फिरि न गयउ सुग्रीव पहिं तेहिं भय रहा लुकाइ॥1॥  
 
@@ -2434,12 +2436,10 @@ unicode_script = "devanagari"
  एक रावण की बात कहने में तो मुझे बडा सङ्कोच हो रहा है- वह (बहुत दिनों तक) बालि की काँख में रहा था। इनमें से तुम कौन से रावण हो? खीझना छोडकर सच-सच बताओ॥24॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-311.mp3"></div>
 
-
-### 02 चौपाई
 सुनु सठ सोइ रावन बलसीला। हरगिरि जान जासु भुज लीला॥  
 जान उमापति जासु सुराई। पूजेउँ जेहि सिर सुमन चढाई॥1॥  
 
@@ -2678,12 +2678,10 @@ unicode_script = "devanagari"
  (वह बोला- अरे मूर्ख!) कुम्भकर्ण- ऐसा मेरा भाई है, इन्द्र का शत्रु सुप्रसिद्ध मेघनाद मेरा पुत्र है! और मेरा पराक्रम तो तूने सुना ही नहीं कि मैन्ने सम्पूर्ण जड-चेतन जगत्‌ को जीत लिया है!॥27॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-312.mp3"></div>
 
-
-### 02 चौपाई
 सठ साखामृग जोरि सहाई। बाँधा सिन्धु इहइ प्रभुताई॥  
 नाघहिं खग अनेक बारीसा। सूर न होहिं ते सुनु सब कीसा॥1॥  
 
@@ -2916,13 +2914,12 @@ unicode_script = "devanagari"
  तू राक्षसों का राजा और बडा अभिमानी है, परन्तु मैं तो श्री रघुनाथजी के सेवक (सुग्रीव) का दूत (सेवक का भी सेवक) हूँ। यदि मैं श्री रामजी के अपमान से न डरूँ तो तेरे देखते-देखते ऐसा तमाशा करूँ कि-॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-313.mp3"></div>
-
-
 ## 030
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-313.mp3"></div>
+
 तोहि पटकि महि सेन हति चौपट करि तव गाउँ।  
 तव जुबतिन्ह समेत सठ जनकसुतहि लै जाउँ॥30॥  
 
@@ -3140,12 +3137,10 @@ unicode_script = "devanagari"
  वहाँ (सभा में) क्रोधयुक्त रावण सबसे क्रोधित होकर कहने लगा कि- बन्दर को पकड लो और पकडकर मार डालो। अङ्गद यह सुनकर मुस्कुराने लगे॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-314.mp3"></div>
 
-
-### 02 चौपाई
 एहि बधि बेगि सुभट सब धावहु। खाहु भालु कपि जहँ जहँ पावहु॥  
 मर्कटहीन करहु महि जाई। जिअत धरहु तापस द्वौ भाई॥1॥  
 
@@ -3385,12 +3380,10 @@ unicode_script = "devanagari"
 जैसे करोडों विघ्न आने पर भी सन्त का मन नीति को नहीं छोडता, वैसे ही वानर (अङ्गद) का चरण पृथ्वी को नहीं छोडता। यह देखकर शत्रु (रावण) का मद दूर हो गया!॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-315.mp3"></div>
 
-
-### 02 चौपाई
 कपि बल देखि सकल हियँ हारे। उठा आपु कपि कें परचारे॥  
 गहत चरन कह बालिकुमारा। मम पद गहें न तोर उबारा॥1॥  
 
@@ -3622,13 +3615,12 @@ unicode_script = "devanagari"
  शूर्पणखा की दशा तो आपने देख ही ली। तो भी आपके हृदय में (उनसे लडने की बात सोचते) विशेष (कुछ भी) लज्जा नहीं आती!॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-316.mp3"></div>
-
-
 ## 036
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-316.mp3"></div>
+
 बधि बिराध खर दूषनहि लीलाँ हत्यो कबन्ध।  
 बालि एक सर मार्‌यो तेहि जानहु दसकन्ध॥36॥  
 
@@ -3833,12 +3825,10 @@ unicode_script = "devanagari"
  अङ्गद की परम चतुरता (पूर्ण उक्ति) कानों से सुनकर उदार श्री रामचन्द्रजी हँसने लगे। फिर बालि पुत्र ने किले के (लङ्का के) सब समाचार कहे॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-317.mp3"></div>
 
-
-### 02 चौपाई
 रिपु के समाचार जब पाए। राम सचिव सब निकट बोलाए॥  
 लङ्का बाँके चारि दुआरा। केहि बिधि लागिअ करहु बिचारा॥1॥  
 
@@ -4084,10 +4074,10 @@ unicode_script = "devanagari"
  उधर रावण की और इधर श्री रामजी की दुहाई बोली जा रही है। 'जय' 'जय' 'जय' की ध्वनि होते ही लडाई छिड गई। राक्षस पहाडों के ढेर के ढेर शिखरों को फेङ्कते हैं। वानर कूदकर उन्हें पकड लेते हैं और वापस उन्हीं की ओर चलाते हैं॥4॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-318.mp3"></div>
 
-
-### 03 छन्द
 धरि कुधर खण्ड प्रचण्ड मर्कट भालु गढ पर डारहीं।  
 झपटहिं चरन गहि पटकि महि भजि चलत बहुरि पचारहीं॥  
 अति तरल तरुन प्रताप तरपहिं तमकि गढ चढि चढि गए।  
@@ -4363,13 +4353,12 @@ unicode_script = "devanagari"
 वे गर्जकर शत्रु की सेना के बीच में कूद पडे और अपने भारी भुजबल से उसका मर्दन करने लगे। किसी की लात से और किसी की थप्पड से खबर लेते हैं (और कहते हैं कि) तुम श्री रामजी को नहीं भजते, उसका यह फल लो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-319.mp3"></div>
-
-
 ## 044
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-319.mp3"></div>
+
 एक एक सों मर्दहिं तोरि चलावहिं मुण्ड।  
 रावन आगें परहिं ते जनु फूटहिं दधि कुण्ड॥44॥  
 
@@ -4633,13 +4622,12 @@ unicode_script = "devanagari"
  भागते हुए राक्षस योद्धाओं को वानर और भालू पकडकर पृथ्वी पर दे मारते हैं और अद्भुत (आश्चर्यजनक) करनी करते हैं (युद्धकौशल दिखलाते हैं)। पैर पकडकर उन्हें समुद्र में डाल देते हैं। वहाँ मगर, साँप और मच्छ उन्हें पकड-पकडकर खा डालते हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-320.mp3"></div>
-
-
 ## 047
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-320.mp3"></div>
+
 कछु मारे कछु घायल कछु गढ चढे पराइ।  
 गर्जहिं भालु बलीमुख रिपु दल बल बिचलाइ॥47॥  
 
@@ -4870,12 +4858,10 @@ unicode_script = "devanagari"
  मेघनाद ने कानों से ऐसा सुना कि वानरों ने आकर फिर किले को घेर लिया है। तब वह वीर किले से उतरा और डङ्का बजाकर उनके सामने चला॥49॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-321.mp3"></div>
 
-
-### 02 चौपाई
 कहँ कोसलाधीस द्वौ भ्राता। धन्वी सकल लोत बिख्याता॥  
 कहँ नल नील दुबिद सुग्रीवा। अङ्गद हनूमन्त बल सींवा॥1॥  
 
@@ -5093,13 +5079,12 @@ unicode_script = "devanagari"
  तब श्री रामजी ने एक ही बाण से सारी माया काट डाली, जैसे सूर्य अन्धकार के समूह को हर लेता है। तदनन्तर उन्होन्ने कृपाभरी दृष्टि से वानर-भालुओं की ओर देखा, (जिससे) वे ऐसे प्रबल हो गए कि रण में रोकने पर भी नहीं रुकते थे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-322.mp3"></div>
-
-
 ## 052
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-322.mp3"></div>
+
 आयसु मागि राम पहिं अङ्गदादि कपि साथ।  
 लछिमन चले क्रुद्ध होइ बान सरासन हाथ॥52॥  
 
@@ -5337,13 +5322,12 @@ unicode_script = "devanagari"
  जाम्बवान्‌ ने कहा- लङ्का में सुषेण वैद्य रहता है, उसे लाने के लिए किसको भेजा जाए? हनुमान्‌जी छोटा रूप धरकर गए और सुषेण को उसके घर समेत तुरन्त ही उठा लाए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-323.mp3"></div>
-
-
 ## 055
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-323.mp3"></div>
+
 राम पदारबिन्द सिर नायउ आइ सुषेन।  
 कहा नाम गिरि औषधी जाहु पवनसुत लेन ॥55॥  
 
@@ -5581,13 +5565,12 @@ unicode_script = "devanagari"
  उन्होन्ने पर्वत को देखा, पर औषध न पहचान सके। तब हनुमान्‌जी ने एकदम से पर्वत को ही उखाड लिया। पर्वत लेकर हनुमान्‌जी रात ही में आकाश मार्ग से दौड चले और अयोध्यापुरी के ऊपर पहुँच गए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-324.mp3"></div>
-
-
 ## 058
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-324.mp3"></div>
+
 देखा भरत बिसाल अति निसिचर मन अनुमानि।  
 बिनु फर सायक मारेउ चाप श्रवन लगि तानि॥58॥  
 
@@ -6021,15 +6004,12 @@ unicode_script = "devanagari"
 दुर्मुख, देवशत्रु (देवान्तक), मनुष्य भक्षक (नरान्तक), भारी योद्धा अतिकाय और अकम्पन तथा महोदर आदि दूसरे सभी रणधीर वीर रणभूमि में मारे गए॥6॥  
 </details>
 
+## 062
 
+### 01 दोहा
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-326.mp3"></div>
 
-
-## 062
-
-
-### 01 दोहा
 सुनि दसकन्धर बचन तब कुम्भकरन बिलखान।  
 जगदम्बा हरि आनि अब सठ चाहत कल्यान॥62॥  
 
@@ -6218,12 +6198,10 @@ unicode_script = "devanagari"
 मन, वचन और कर्म से कपट छोडकर रणधीर श्री रामजी का भजन करना। हे भाई! मैं काल (मृत्यु) के वश हो गया हूँ, मुझे अपना-पराया नहीं सूझता, इसलिए अब तुम जाओ॥64॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-327.mp3"></div>
 
-
-### 02 चौपाई
 बन्धु बचन सुनि चला बिभीषन। आयउ जहँ त्रैलोक बिभूषन॥  
 नाथ भूधराकार सरीरा। कुम्भकरन आवत रनधीरा॥1॥  
 
@@ -6470,13 +6448,12 @@ unicode_script = "devanagari"
  कुम्भकर्ण ने वानर सेना को तितर-बितर कर दिया। यह सुनकर राक्षस सेना भी दौडी। श्री रामचन्द्रजी ने देखा कि अपनी सेना व्याकुल है और शत्रु की नाना प्रकार की सेना आ गई है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-328.mp3"></div>
-
-
 ## 067
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-328.mp3"></div>
+
 सुनु सुग्रीव बिभीषन अनुज सँभारेहु सैन।  
 मैं देखउँ खल बल दलहि बोले राजिवनैन॥67॥  
 
@@ -6742,13 +6719,12 @@ unicode_script = "devanagari"
 भुजाओं के कट जाने पर वह दुष्ट कैसी शोभा पाने लगा, जैसे बिना पङ्ख का मन्दराचल पहाड हो। उसने उग्र दृष्टि से प्रभु को देखा। मानो तीनों लोकों को निगल जाना चाहता हो॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-329.mp3"></div>
-
-
 ## 070
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-329.mp3"></div>
+
 करि चिक्कार घोर अति धावा बदनु पसारि।  
 गगन सिद्ध सुर त्रासित हा हा हेति पुकारि॥70॥  
 
@@ -6999,12 +6975,10 @@ unicode_script = "devanagari"
 मेघनाद उसी (पूर्वोक्त) मायामय रथ पर चढकर आकाश में चला गया और अट्टहास करके गरजा, जिससे वानरों की सेना में भय छा गया॥72॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-330.mp3"></div>
 
-
-### 02 चौपाई
 सक्ति सूल तरवारि कृपाना। अस्त्र सस्त्र कुलिसायुध नाना॥  
 डारइ परसु परिघ पाषाना। लागेउ बृष्टि करै बहु बाना॥1॥  
 
@@ -7230,12 +7204,10 @@ unicode_script = "devanagari"
  पर्वत, वृक्ष, पत्थर और नख धारण किए वानर क्रोधित होकर दौडे। निशाचर विशेष व्याकुल होकर भाग चले और भागकर किले पर चढ गए॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-331.mp3"></div>
 
-
-### 02 चौपाई
 मेघनाद कै मुरछा जागी। पितहि बिलोकि लाज अति लागी॥  
 तुरत गयउ गिरिबर कन्दरा। करौं अजय मख अस मन धरा॥1॥  
 
@@ -7471,13 +7443,12 @@ unicode_script = "devanagari"
  कोसलपति श्री रामजी के प्रताप का स्मरण करके लक्ष्मणजी ने वीरोचित दर्प करके बाण का सन्धान किया। बाण छोडते ही उसकी छाती के बीच में लगा। मरते समय उसने सब कपट त्याग दिया॥8॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-332.mp3"></div>
-
-
 ## 076
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-332.mp3"></div>
+
 रामानुज कहँ रामु कहँ अस कहि छाँडेसि प्रान।  
 धन्य धन्य तव जननी कह अङ्गद हनुमान॥76॥  
 
@@ -7689,12 +7660,10 @@ unicode_script = "devanagari"
  जो जीवों के द्रोह में रत है, मोह के बस हो रहा है, रामविमुख है और कामासक्त है, उसको क्या कभी स्वप्न में भी सम्पत्ति, शुभ शकुन और चित्त की शान्ति हो सकती है?॥78॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-333.mp3"></div>
 
-
-### 02 चौपाई
 चलेउ निसाचर कटकु अपारा। चतुरङ्गिनी अनी बहु धारा॥  
 बिबिधि भाँति बाहन रथ जाना। बिपुल बरन पताक ध्वज नाना॥1॥  
 
@@ -7919,13 +7888,12 @@ unicode_script = "devanagari"
  हे सखे! ऐसा धर्ममय रथ जिसके हो उसके लिए जीतने को कहीं शत्रु ही नहीं है॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-334.mp3"></div>
-
-
 ## 080
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-334.mp3"></div>
+
 महा अजय संसार रिपु जीति सकइ सो बीर।  
 जाकें अस रथ होइ दृढ सुनहु सखा मतिधीर॥1॥  
 
@@ -8189,12 +8157,10 @@ unicode_script = "devanagari"
  अपनी सेना को व्याकुल देखकर कमर में तरकस कसकर और हाथ में धनुष लेकर श्री रघुनाथजी के चरणों पर मस्तक नवाकर लक्ष्मणजी क्रोधित होकर चले॥82॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-335.mp3"></div>
 
-
-### 02 चौपाई
 रे खल का मारसि कपि भालू। मोहि बिलोकु तोर मैं कालू॥  
 खोजत रहेउँ तोहि सुतघाती। आजु निपाति जुडावउँ छाती॥1॥  
 
@@ -8455,10 +8421,10 @@ unicode_script = "devanagari"
  (उन्होन्ने कहा-) अरे ओ निर्लज्ज! रणभूमि से घर भाग आया और यहाँ आकर बगुले का सा ध्यान लगाकर बैठा है? ऐसा कहकर अङ्गद ने लात मारी। पर उसने इनकी ओर देखा भी नहीं, उस दुष्ट का मन स्वार्थ में अनुरक्त था॥4॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-336.mp3"></div>
 
-
-### 03 छन्द
 नहिं चितव जब करि कोप कपि गहि दसन लातन्ह मारहीं।  
 धरि केस नारि निकारि बाहेर तेऽतिदीन पुकारहीं॥  
 तब उठेउ क्रुद्ध कृतान्त सम गहि चरन बानर डारई।  
@@ -8732,12 +8698,10 @@ unicode_script = "devanagari"
  वीर पृथ्वी पर इस तरह गिर रहे हैं, मानो नदी-किनारे के वृक्ष ढह रहे हों। बहुत सी मज्जा बह रही है, वही फेन है। डरपोक जहाँ इसे देखकर डरते हैं, वहाँ उत्तम योद्धाओं के मन में सुख होता है॥87॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-337.mp3"></div>
 
-
-### 02 चौपाई
 मज्जहिं भूत पिसाच बेताला। प्रमथ महा झोटिङ्ग कराला॥  
 काक कङ्क लै भुजा उडाहीं। एक ते छीनि एक लै खाहीं॥1॥  
 
@@ -8951,12 +8915,10 @@ unicode_script = "devanagari"
 फिर श्री रामजी सबकी ओर देखकर गम्भीर वचन बोले- हे वीरों! तुम सब बहुत ही थक गए हो, इसलिए अब (मेरा और रावण का) द्वन्द्व युद्ध देखो॥89॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-338.mp3"></div>
 
-
-### 02 चौपाई
 अस कहि रथ रघुनाथ चलावा। बिप्र चरन पङ्कज सिरु नावा॥  
 तब लङ्केस क्रोध उर छावा। गर्जत तर्जत सम्मुख धावा॥1॥  
 
@@ -9169,12 +9131,10 @@ unicode_script = "devanagari"
  धनुष को कान तक तानकर श्री रामचन्द्रजी ने भयानक बाण छोडे। श्री रामजी के बाण समूह ऐसे चले मानो सर्प लहलहाते (लहराते) हुए जा रहे हों॥91॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-339.mp3"></div>
 
-
-### 02 चौपाई
 चले बान सपच्छ जनु उरगा। प्रथमहिं हतेउ सारथी तुरगा॥  
 रथ बिभञ्जि हति केतु पताका। गर्जा अति अन्तर बल थाका॥1॥  
 
@@ -9416,12 +9376,10 @@ unicode_script = "devanagari"
  फिर रावण ने क्रोधित होकर प्रचण्ड शक्ति छोडी। वह विभीषण के सामने ऐसी चली जैसे काल (यमराज) का दण्ड हो॥93॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-340.mp3"></div>
 
-
-### 02 चौपाई
 आवत देखि सक्ति अति घोरा। प्रनतारति भञ्जन पन मोरा॥  
 तुरत बिभीषन पाछें मेला। सन्मुख राम सहेउ सोइ सेला॥1॥  
 
@@ -9682,10 +9640,10 @@ unicode_script = "devanagari"
 एक ही रावण ने सब देवताओं को जीत लिया था, अब तो बहुत से रावण हो गए हैं। इससे अब पहाड की गुफाओं का आश्रय लो (अर्थात्‌ उनमें छिप रहो)। वहाँ ब्रह्मा, शम्भु और ज्ञानी मुनि ही डटे रहे, जिन्होन्ने प्रभु की कुछ महिमा जानी थी॥4॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-341.mp3"></div>
 
-
-### 03 छन्द
 जाना प्रताप ते रहे निर्भय कपिन्ह रिपु माने फुरे।  
 चले बिचलि मर्कट भालु सकल कृपाल पाहि भयातुरे॥  
 हनुमन्त अङ्गद नील नल अतिबल लरत रन बाँकुरे।  
@@ -9948,10 +9906,10 @@ unicode_script = "devanagari"
 जाम्बवान्‌ ने अपने दल का विध्वंस देखकर क्रोध करके रावण की छाती में लात मारी॥8॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-342.mp3"></div>
 
-
-### 03 छन्द
 उर लात घात प्रचण्ड लागत बिकल रथ ते महि परा।  
 गहि भालु बीसहुँ कर मनहुँ कमलन्हि बसे निसि मधुकरा॥  
 मुरुछित बिलोकि बहोरि पद हति भालुपति प्रभु पहिं गयो॥  
@@ -10221,10 +10179,10 @@ unicode_script = "devanagari"
  वे भारी योद्धा जहाँ-तहाँ से पर्वत और वृक्ष उखाडकर (क्रोध से) दाँत कटकटाकर दौडे॥6॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-343.mp3"></div>
 
-
-### 03 छन्द
 धाए जो मर्कट बिकट भालु कराल कर भूधर धरा।  
 अति कोप करहिं प्रहार मारत भजि चले रजनीचरा॥  
 बिचलाइ दल बलवन्त कीसन्ह घेरि पुनि रावनु लियो।  
@@ -10567,12 +10525,10 @@ unicode_script = "devanagari"
  कानों तक धनुष को खीञ्चकर श्री रघुनाथजी ने इकतीस बाण छोडे। वे श्री रामचन्द्रजी के बाण ऐसे चले मानो कालसर्प हों॥102॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-344.mp3"></div>
 
-
-### 02 चौपाई
 सायक एक नाभि सर सोषा। अपर लगे भुज सिर करि रोषा॥  
 लै सिर बाहु चले नाराचा। सिर भुज हीन रुण्ड महि नाचा॥1॥  
 
@@ -10815,10 +10771,10 @@ unicode_script = "devanagari"
  हे पति! काल के पूर्ण वश में होने से तुमने (किसी का) कहना नहीं माना और चराचर के नाथ परमात्मा को मनुष्य करके जाना॥7॥  
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-345.mp3"></div>
 
-
-### 03 छन्द
 जान्यो मनुज करि दनुज कानन दहन पावक हरि स्वयं।  
 जेहि नमत सिव ब्रह्मादि सुर पिय भजेहु नहिं करुनामयं॥  
 आजन्म ते परद्रोह रत पापौघमय तव तनु अयं।  
@@ -11030,12 +10986,10 @@ unicode_script = "devanagari"
  प्रभु के वचन कानों से सुनकर वानर समूह तृप्त नहीं होते। वे सब बार-बार सिर नवाते हैं और चरणकमलों को पकडते हैं॥106॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-346.mp3"></div>
 
-
-### 02 चौपाई
 पुनि प्रभु बोलि लियउ हनुमाना। लङ्का जाहु कहेउ भगवाना॥  
 समाचार जानकिहि सुनावहु। तासु कुसल लै तुम्ह चलि आवहु॥1॥  
 
@@ -11256,12 +11210,10 @@ unicode_script = "devanagari"
 इसी कारण करुणा के भण्डार श्री रामजी ने लीला से कुछ कडे वचन कहे, जिन्हे सुनकर सब राक्षसियाँ विषाद करने लगीं॥108॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-347.mp3"></div>
 
-
-### 02 चौपाई
 प्रभु के बचन सीस धरि सीता। बोली मन क्रम बचन पुनीता॥  
 लछिमन होहु धरम के नेगी। पावक प्रगट करहु तुम्ह बेगी॥1॥  
 
@@ -11500,11 +11452,10 @@ unicode_script = "devanagari"
 विनती करके देवता और सिद्ध सब जहाँ के तहाँ हाथ जोडे खडे रहे। तब अत्यन्त प्रेम से पुलकित शरीर होकर ब्रह्माजी स्तुति करने लगे-- ॥110॥  
 </details>
 
+### 02 छन्द
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-348.mp3"></div>
 
-
-### 02 छन्द
 जय राम सदा सुख धाम हरे। रघुनायक सायक चाप धरे॥  
 भव बारन दारन सिंह प्रभो। गुन सागर नागर नाथ बिभो॥1॥  
 
@@ -11740,14 +11691,12 @@ unicode_script = "devanagari"
 (मायारहित सच्चिदानन्दमय स्वरूपभूत दिव्यगुणयुक्त) सगुण स्वरूप की उपासना करने वाले भक्त इस प्रकार मोक्ष लेते भी नहीं। उनको श्रीरामजी अपनी भक्ति देते हैं। प्रभु को (इष्टबुद्धि से) बार-बार प्रणाम करके दशरथजी हर्षित होकर देवलोक को चले गए॥4॥  
 </details>
 
+## 112
+
+### 01 दोहा
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-349.mp3"></div>
 
-
-## 112
-
-
-### 01 दोहा
 अनुज जानकी सहित प्रभु कुसल कोसलाधीस।  
 सोभा देखि हरषि मन अस्तुति कर सुर ईस॥112॥  
 
@@ -12027,10 +11976,10 @@ unicode_script = "devanagari"
 और परम प्रेम से दोनों हाथ जोडकर, कमल के समान नेत्रों में जल भरकर, पुलकित शरीर और गद्गद् वाणी से त्रिपुरारी शिवजी विनती करने लगे - ॥2॥  
 </details>
 
+### 02 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-350.mp3"></div>
 
-
-### 02 छन्द
 मामभिरक्षय रघुकुल नायक। धृत बर चाप रुचिर कर सायक॥  
 मोह महा घन पटल प्रभञ्जन। संसय बिपिन अनल सुर रञ्जन॥1॥  
 
@@ -12293,13 +12242,12 @@ unicode_script = "devanagari"
 जिसके मन को जो अच्छा लगता है, वह वही ले लेता है। मणियों को मुँह में लेकर वानर फिर उन्हें खाने की चीज न समझकर उगल देते हैं। यह तमाशा देखकर परम विनोदी और कृपा के धाम श्री रामजी, सीताजी और लक्ष्मणजी सहित हँसने लगे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-351.mp3"></div>
-
-
 ## 117
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-351.mp3"></div>
+
 मुनि जेहि ध्यान न पावहिं नेति नेति कह बेद।  
 कृपासिन्धु सोइ कपिन्ह सन करत अनेक बिनोद॥1॥  
 
@@ -12572,12 +12520,10 @@ unicode_script = "devanagari"
 वन में जहाँ-तहाँ करुणा सागर श्री रामचन्द्रजी ने निवास और विश्राम किया था, वे सब स्थान प्रभु ने जानकीजी को दिखलाए और सबके नाम बतलाए॥2॥  
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-352.mp3"></div>
 
-
-### 02 चौपाई
 तुरत बिमान तहाँ चलि आवा। दण्डक बन जहँ परम सुहावा॥  
 कुम्भजादि मुनिनायक नाना। गए रामु सब कें अस्थाना॥1॥  
 
