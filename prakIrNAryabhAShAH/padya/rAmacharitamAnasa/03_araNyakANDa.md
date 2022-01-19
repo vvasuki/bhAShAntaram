@@ -3026,8 +3026,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-254.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-254.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3292,8 +3291,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-255.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-255.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3532,8 +3530,7 @@ unicode_script = "devanagari"
  रावण ने अनेकों प्रकार की सुहावनी कथाएँ रचकर सीताजी को राजनीति, भय और प्रेम दिखलाया। सीताजी ने कहा- हे यति गोसाईं! सुनो, तुमने तो दुष्ट की तरह वचन कहे॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-256.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-256.mp3"></div>
 
 तब रावन निज रूप देखावा। भई सभय जब नाम सुनावा॥  
 कह सीता धरि धीरजु गाढा। आइ गयउ प्रभु रहु खल ठाढा॥7॥  
@@ -3742,8 +3739,7 @@ unicode_script = "devanagari"
  तब खिसियाए हुए रावण ने क्रोधयुक्त होकर अत्यन्त भयानक कटार निकाली और उससे जटायु के पङ्ख काट डाले। पक्षी (जटायु) श्री रामजी की अद्भुत लीला का स्मरण करके पृथ्वी पर गिर पडा॥11॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-257.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-257.mp3"></div>
 
 सीतहि जान चढाइ बहोरी। चला उताइल त्रास न थोरी॥  
 करति बिलाप जाति नभ सीता। ब्याध बिबस जनु मृगी सभीता॥12॥  
@@ -3995,8 +3991,7 @@ unicode_script = "devanagari"
  हे गोसाईं! वह उन्हें लेकर दक्षिण दिशा को गया है। सीताजी कुररी (कुर्ज) की तरह अत्यन्त विलाप कर रही थीं। हे प्रभो! आपके दर्शनों के लिए ही प्राण रोक रखे थे। हे कृपानिधान! अब ये चलना ही चाहते हैं॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-258.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-258.mp3"></div>
 
 राम कहा तनु राखहु ताता। मुख मुसुकाइ कही तेहिं बाता॥  
 जाकर नाम मरत मुख आवा। अधमउ मुकुत होइ श्रुति गावा॥3॥  
@@ -4257,8 +4252,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-259.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-259.mp3"></div>
 
 
 ### 02 चौपाई
@@ -4480,8 +4474,7 @@ unicode_script = "devanagari"
  नवीं भक्ति है सरलता और सबके साथ कपटरहित बर्ताव करना, हृदय में मेरा भरोसा रखना और किसी भी अवस्था में हर्ष और दैन्य (विषाद) का न होना। इन नवों में से जिनके एक भी होती है, वह स्त्री-पुरुष, जड-चेतन कोई भी हो-॥3॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-260.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-260.mp3"></div>
 
 सोइ अतिसय प्रिय भामिनि मोरें। सकल प्रकार भगति दृढ तोरें॥  
 जोगि बृन्द दुरलभ गति जोई। तो कहुँ आजु सुलभ भइ सोई॥4॥  
@@ -4689,8 +4682,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-261.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-261.mp3"></div>
 
 
 ### 02 चौपाई
@@ -4909,8 +4901,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-262.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-262.mp3"></div>
 
 
 ### 02 चौपाई
@@ -5169,8 +5160,7 @@ unicode_script = "devanagari"
  यद्यपि प्रभु के अनेकों नाम हैं और वेद कहते हैं कि वे सब एक से एक बढकर हैं, तो भी हे नाथ! रामनाम सब नामों से बढकर हो और पाप रूपी पक्षियों के समूह के लिए यह वधिक के समान हो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-263.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-263.mp3"></div>
 
 
 ## 42
@@ -5383,8 +5373,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-264.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-264.mp3"></div>
 
 
 ### 02 चौपाई

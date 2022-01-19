@@ -1685,8 +1685,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-308.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-308.mp3"></div>
 
 
 ### 02 चौपाई
@@ -1943,8 +1942,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-309.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-309.mp3"></div>
 
 
 ### 02 चौपाई
@@ -2208,8 +2206,7 @@ unicode_script = "devanagari"
  हे रावण! जिसको तुमने बहुत बडा योद्धा कहकर सराहा है, वह तो सुग्रीव का एक छोटा सा दौडकर चलने वाला हरकारा है। वह बहुत चलता है, वीर नहीं है। उसको तो हमने (केवल) खबर लेने के लिए भेजा था॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-310.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-310.mp3"></div>
 
 
 ## 023
@@ -2439,8 +2436,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-311.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-311.mp3"></div>
 
 
 ### 02 चौपाई
@@ -2684,8 +2680,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-312.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-312.mp3"></div>
 
 
 ### 02 चौपाई
@@ -2921,8 +2916,7 @@ unicode_script = "devanagari"
  तू राक्षसों का राजा और बडा अभिमानी है, परन्तु मैं तो श्री रघुनाथजी के सेवक (सुग्रीव) का दूत (सेवक का भी सेवक) हूँ। यदि मैं श्री रामजी के अपमान से न डरूँ तो तेरे देखते-देखते ऐसा तमाशा करूँ कि-॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-313.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-313.mp3"></div>
 
 
 ## 030
@@ -3148,8 +3142,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-314.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-314.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3394,8 +3387,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-315.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-315.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3630,8 +3622,7 @@ unicode_script = "devanagari"
  शूर्पणखा की दशा तो आपने देख ही ली। तो भी आपके हृदय में (उनसे लडने की बात सोचते) विशेष (कुछ भी) लज्जा नहीं आती!॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-316.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-316.mp3"></div>
 
 
 ## 036
@@ -3844,8 +3835,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-317.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-317.mp3"></div>
 
 
 ### 02 चौपाई
@@ -4094,8 +4084,7 @@ unicode_script = "devanagari"
  उधर रावण की और इधर श्री रामजी की दुहाई बोली जा रही है। 'जय' 'जय' 'जय' की ध्वनि होते ही लडाई छिड गई। राक्षस पहाडों के ढेर के ढेर शिखरों को फेङ्कते हैं। वानर कूदकर उन्हें पकड लेते हैं और वापस उन्हीं की ओर चलाते हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-318.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-318.mp3"></div>
 
 
 ### 03 छन्द
@@ -4374,8 +4363,7 @@ unicode_script = "devanagari"
 वे गर्जकर शत्रु की सेना के बीच में कूद पडे और अपने भारी भुजबल से उसका मर्दन करने लगे। किसी की लात से और किसी की थप्पड से खबर लेते हैं (और कहते हैं कि) तुम श्री रामजी को नहीं भजते, उसका यह फल लो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-319.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-319.mp3"></div>
 
 
 ## 044
@@ -4645,8 +4633,7 @@ unicode_script = "devanagari"
  भागते हुए राक्षस योद्धाओं को वानर और भालू पकडकर पृथ्वी पर दे मारते हैं और अद्भुत (आश्चर्यजनक) करनी करते हैं (युद्धकौशल दिखलाते हैं)। पैर पकडकर उन्हें समुद्र में डाल देते हैं। वहाँ मगर, साँप और मच्छ उन्हें पकड-पकडकर खा डालते हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-320.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-320.mp3"></div>
 
 
 ## 047
@@ -4885,8 +4872,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-321.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-321.mp3"></div>
 
 
 ### 02 चौपाई
@@ -5107,8 +5093,7 @@ unicode_script = "devanagari"
  तब श्री रामजी ने एक ही बाण से सारी माया काट डाली, जैसे सूर्य अन्धकार के समूह को हर लेता है। तदनन्तर उन्होन्ने कृपाभरी दृष्टि से वानर-भालुओं की ओर देखा, (जिससे) वे ऐसे प्रबल हो गए कि रण में रोकने पर भी नहीं रुकते थे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-322.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-322.mp3"></div>
 
 
 ## 052
@@ -5352,8 +5337,7 @@ unicode_script = "devanagari"
  जाम्बवान्‌ ने कहा- लङ्का में सुषेण वैद्य रहता है, उसे लाने के लिए किसको भेजा जाए? हनुमान्‌जी छोटा रूप धरकर गए और सुषेण को उसके घर समेत तुरन्त ही उठा लाए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-323.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-323.mp3"></div>
 
 
 ## 055
@@ -5597,8 +5581,7 @@ unicode_script = "devanagari"
  उन्होन्ने पर्वत को देखा, पर औषध न पहचान सके। तब हनुमान्‌जी ने एकदम से पर्वत को ही उखाड लिया। पर्वत लेकर हनुमान्‌जी रात ही में आकाश मार्ग से दौड चले और अयोध्यापुरी के ऊपर पहुँच गए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-324.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-324.mp3"></div>
 
 
 ## 058
@@ -5855,8 +5838,7 @@ unicode_script = "devanagari"
 पुत्र, धन, स्त्री, घर और परिवार- ये जगत्‌ में बार-बार होते और जाते हैं, परन्तु जगत्‌ में सहोदर भाई बार-बार नहीं मिलता। हृदय में ऐसा विचार कर हे तात! जागो॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-325.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-325.mp3"></div>
 
 जथा पङ्ख बिनु खग अति दीना। मनि बिनु फनि करिबर कर हीना॥  
 अस मम जिवन बन्धु बिनु तोही। जौं जड दैव जिआवै मोही॥5॥  
@@ -6041,8 +6023,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-326.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-326.mp3"></div>
 
 
 ## 062
@@ -6239,8 +6220,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-327.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-327.mp3"></div>
 
 
 ### 02 चौपाई
@@ -6490,8 +6470,7 @@ unicode_script = "devanagari"
  कुम्भकर्ण ने वानर सेना को तितर-बितर कर दिया। यह सुनकर राक्षस सेना भी दौडी। श्री रामचन्द्रजी ने देखा कि अपनी सेना व्याकुल है और शत्रु की नाना प्रकार की सेना आ गई है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-328.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-328.mp3"></div>
 
 
 ## 067
@@ -6763,8 +6742,7 @@ unicode_script = "devanagari"
 भुजाओं के कट जाने पर वह दुष्ट कैसी शोभा पाने लगा, जैसे बिना पङ्ख का मन्दराचल पहाड हो। उसने उग्र दृष्टि से प्रभु को देखा। मानो तीनों लोकों को निगल जाना चाहता हो॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-329.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-329.mp3"></div>
 
 
 ## 070
@@ -7023,8 +7001,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-330.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-330.mp3"></div>
 
 
 ### 02 चौपाई
@@ -7255,8 +7232,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-331.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-331.mp3"></div>
 
 
 ### 02 चौपाई
@@ -7495,8 +7471,7 @@ unicode_script = "devanagari"
  कोसलपति श्री रामजी के प्रताप का स्मरण करके लक्ष्मणजी ने वीरोचित दर्प करके बाण का सन्धान किया। बाण छोडते ही उसकी छाती के बीच में लगा। मरते समय उसने सब कपट त्याग दिया॥8॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-332.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-332.mp3"></div>
 
 
 ## 076
@@ -7716,8 +7691,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-333.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-333.mp3"></div>
 
 
 ### 02 चौपाई
@@ -7945,8 +7919,7 @@ unicode_script = "devanagari"
  हे सखे! ऐसा धर्ममय रथ जिसके हो उसके लिए जीतने को कहीं शत्रु ही नहीं है॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-334.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-334.mp3"></div>
 
 
 ## 080
@@ -8218,8 +8191,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-335.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-335.mp3"></div>
 
 
 ### 02 चौपाई
@@ -8483,8 +8455,7 @@ unicode_script = "devanagari"
  (उन्होन्ने कहा-) अरे ओ निर्लज्ज! रणभूमि से घर भाग आया और यहाँ आकर बगुले का सा ध्यान लगाकर बैठा है? ऐसा कहकर अङ्गद ने लात मारी। पर उसने इनकी ओर देखा भी नहीं, उस दुष्ट का मन स्वार्थ में अनुरक्त था॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-336.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-336.mp3"></div>
 
 
 ### 03 छन्द
@@ -8763,8 +8734,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-337.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-337.mp3"></div>
 
 
 ### 02 चौपाई
@@ -8983,8 +8953,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-338.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-338.mp3"></div>
 
 
 ### 02 चौपाई
@@ -9202,8 +9171,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-339.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-339.mp3"></div>
 
 
 ### 02 चौपाई
@@ -9450,8 +9418,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-340.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-340.mp3"></div>
 
 
 ### 02 चौपाई
@@ -9715,8 +9682,7 @@ unicode_script = "devanagari"
 एक ही रावण ने सब देवताओं को जीत लिया था, अब तो बहुत से रावण हो गए हैं। इससे अब पहाड की गुफाओं का आश्रय लो (अर्थात्‌ उनमें छिप रहो)। वहाँ ब्रह्मा, शम्भु और ज्ञानी मुनि ही डटे रहे, जिन्होन्ने प्रभु की कुछ महिमा जानी थी॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-341.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-341.mp3"></div>
 
 
 ### 03 छन्द
@@ -9777,8 +9743,7 @@ unicode_script = "devanagari"
 प्रभु ने क्षणभर में सब माया काट डाली। जैसे सूर्य के उदय होते ही अन्धकार की राशि फट जाती है (नष्ट हो जाती है)। अब एक ही रावण को देखकर देवता हर्षित हुए और उन्होन्ने लौटकर प्रभु पर बहुत से पुष्प बरसाए॥1॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-341a.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-341a.mp3"></div>
 
 भुज उठाइ रघुपति कपि फेरे। फिरे एक एकन्ह तब टेरे॥  
 प्रभु बलु पाइ भालु कपि धाए। तरल तमकि सञ्जुग महि आए॥2॥  
@@ -9983,8 +9948,7 @@ unicode_script = "devanagari"
 जाम्बवान्‌ ने अपने दल का विध्वंस देखकर क्रोध करके रावण की छाती में लात मारी॥8॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-342.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-342.mp3"></div>
 
 
 ### 03 छन्द
@@ -10257,8 +10221,7 @@ unicode_script = "devanagari"
  वे भारी योद्धा जहाँ-तहाँ से पर्वत और वृक्ष उखाडकर (क्रोध से) दाँत कटकटाकर दौडे॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-343.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-343.mp3"></div>
 
 
 ### 03 छन्द
@@ -10606,8 +10569,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-344.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-344.mp3"></div>
 
 
 ### 02 चौपाई
@@ -10853,8 +10815,7 @@ unicode_script = "devanagari"
  हे पति! काल के पूर्ण वश में होने से तुमने (किसी का) कहना नहीं माना और चराचर के नाथ परमात्मा को मनुष्य करके जाना॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-345.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-345.mp3"></div>
 
 
 ### 03 छन्द
@@ -11071,8 +11032,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-346.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-346.mp3"></div>
 
 
 ### 02 चौपाई
@@ -11298,8 +11258,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-347.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-347.mp3"></div>
 
 
 ### 02 चौपाई
@@ -11542,8 +11501,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-348.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-348.mp3"></div>
 
 
 ### 02 छन्द
@@ -11783,8 +11741,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-349.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-349.mp3"></div>
 
 
 ## 112
@@ -12070,8 +12027,7 @@ unicode_script = "devanagari"
 और परम प्रेम से दोनों हाथ जोडकर, कमल के समान नेत्रों में जल भरकर, पुलकित शरीर और गद्गद् वाणी से त्रिपुरारी शिवजी विनती करने लगे - ॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-350.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-350.mp3"></div>
 
 
 ### 02 छन्द
@@ -12337,8 +12293,7 @@ unicode_script = "devanagari"
 जिसके मन को जो अच्छा लगता है, वह वही ले लेता है। मणियों को मुँह में लेकर वानर फिर उन्हें खाने की चीज न समझकर उगल देते हैं। यह तमाशा देखकर परम विनोदी और कृपा के धाम श्री रामजी, सीताजी और लक्ष्मणजी सहित हँसने लगे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-351.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-351.mp3"></div>
 
 
 ## 117
@@ -12619,8 +12574,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-352.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-352.mp3"></div>
 
 
 ### 02 चौपाई

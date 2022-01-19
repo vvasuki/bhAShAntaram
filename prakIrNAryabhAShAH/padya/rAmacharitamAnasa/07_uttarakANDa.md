@@ -1603,8 +1603,7 @@ unicode_script = "devanagari"
 ब्रह्म अजन्मा है, अद्वैत है, केवल अनुभव से ही जाना जाता है और मन से परे है- (जो इस प्रकार कहकर उस) ब्रह्म का ध्यान करते हैं, वे ऐसा कहा करें और जाना करें, किन्तु हे नाथ! हम तो नित्य आपका सगुण यश ही गाते हैं। हे करुणा के धाम प्रभो! हे सद्गुणों की खान! हे देव! हम यह वर माँगते हैं कि मन, वचन और कर्म से विकारों को त्यागकर आपके चरणों में ही प्रेम करें॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-360.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-360.mp3"></div>
 
 
 ## 013
@@ -1891,8 +1890,7 @@ unicode_script = "devanagari"
 श्री रामजी के चरणकमलों में- जिन्हें श्री शिवजी, मुनिगण और ब्रह्माजी भी नमस्कार करते हैं, सबकी नित्य नवीन प्रीति है। भिक्षुकों को बहुत प्रकार के वस्त्राभूषण पहनाए गए और ब्राह्मणों ने नाना प्रकार के दान पाए॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-361.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-361.mp3"></div>
 
 
 ## 015
@@ -2150,8 +2148,7 @@ unicode_script = "devanagari"
 मैं घर की सब नीची से नीची सेवा करूँगा और आपके चरणकमलों को देख-देखकर भवसागर से तर जाऊँगा। ऐसा कहकर वे श्री रामजी के चरणों में गिर पडे (और बोले-) हे प्रभो! मेरी रक्षा कीजिए। हे नाथ! अब यह न कहिए कि तू घर जा॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-362.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-362.mp3"></div>
 
 
 ## 018
@@ -2391,8 +2388,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-363.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-363.mp3"></div>
 
 
 ### 02 चौपाई
@@ -2628,8 +2624,7 @@ unicode_script = "devanagari"
 समुद्र अपनी मर्यादा में रहते हैं। वे लहरों द्वारा किनारों पर रत्न डाल देते हैं, जिन्हें मनुष्य पा जाते हैं। सब तालाब कमलों से परिपूर्ण हैं। दसों दिशाओं के विभाग (अर्थात्‌ सभी प्रदेश) अत्यन्त प्रसन्न हैं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-364.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-364.mp3"></div>
 
 
 ## 023
@@ -2907,8 +2902,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-365.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-365.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3172,8 +3166,7 @@ unicode_script = "devanagari"
 नगर की शोभा तो कुछ कही नहीं जाती। नगर के बाहर भी परम सुन्दरता है। श्री अयोध्यापुरी के दर्शन करते ही सम्पूर्ण पाप भाग जाते हैं। (वहाँ) वन, उपवन, बावलिया और तालाब सुशोभित हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-366.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-366.mp3"></div>
 
 
 ### 03 छन्द
@@ -3451,8 +3444,7 @@ unicode_script = "devanagari"
 (शिवजी कहते हैं-) हे भवानी! सनकादि मुनि वहाँ गए थे (वहीं से चले आ रहे थे) जहाँ ज्ञानी मुनिश्रेष्ठ श्री अगस्त्यजी रहते थे। श्रेष्ठ मुनि ने श्री रामजी की बहुत सी कथाएँ वर्णन की थीं, जो ज्ञान उत्पन्न करने में उसी प्रकार समर्थ हैं, जैसे अरणि लकडी से अग्नि उत्पन्न होती है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-367.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-367.mp3"></div>
 
 
 ## 032
@@ -3708,8 +3700,7 @@ unicode_script = "devanagari"
 आप तरन-तारन (स्वयं तरे हुए और दूसरों को तारने वाले) तथा सब दोषों को हरने वाले हैं। तीनों लोकों के विभूषण आप ही तुलसीदास के स्वामी हैं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-368.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-368.mp3"></div>
 
 
 ## 035
@@ -3953,8 +3944,7 @@ unicode_script = "devanagari"
 हे तात! ये सब लक्षण जिसके हृदय में बसते हों, उसको सदा सच्चा सन्त जानना। जो शम (मन के निग्रह), दम (इन्द्रियों के निग्रह), नियम और नीति से कभी विचलित नहीं होते और मुख से कभी कठोर वचन नहीं बोलते,॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-369.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-369.mp3"></div>
 
 
 ## 038
@@ -4198,8 +4188,7 @@ unicode_script = "devanagari"
 इसी से वे शुभ और अशुभ फल देने वाले कर्मों को त्यागकर देवता, मनुष्य और मुनियों के नायक मुझको भजते हैं। (इस प्रकार) मैन्ने सन्तों और असन्तों के गुण कहे। जिन लोगों ने इन गुणों को समझ रखा है, वे जन्म-मरण के चक्कर में नहीं पडते॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-370.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-370.mp3"></div>
 
 
 ## 041
@@ -4443,8 +4432,7 @@ unicode_script = "devanagari"
 यह मनुष्य का शरीर भवसागर (से तारने) के लिए बेडा (जहाज) है। मेरी कृपा ही अनुकूल वायु है। सद्गुरु इस मजबूत जहाज के कर्णधार (खेने वाले) हैं। इस प्रकार दुर्लभ (कठिनता से मिलने वाले) साधन सुलभ होकर (भगवत्कृपा से सहज ही) उसे प्राप्त हो गए हैं,॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-371.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-371.mp3"></div>
 
 
 ## 044
@@ -4688,8 +4676,7 @@ unicode_script = "devanagari"
 सबके प्रेम रस में सने हुए वचन सुनकर श्री रघुनाथजी हृदय में हर्षित हुए। फिर आज्ञा पाकर सब प्रभु की सुन्दर बातचीत का वर्णन करते हुए अपने-अपने घर गए॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-372.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-372.mp3"></div>
 
 
 ## 047
@@ -4935,8 +4922,7 @@ unicode_script = "devanagari"
 उस समय पवनपुत्र हनुमान्‌जी पवन (पङ्खा) करने लगे। उनका शरीर पुलकित हो गया और नेत्रों में (प्रेमाश्रुओं का) जल भर आया। (शिवजी कहने लगे-) हे गिरिजे! हनुमान्‌जी के समान न तो कोई बडभागी है और न कोई श्री रामजी के चरणों का प्रेमी ही है, जिनके प्रेम और सेवा की (स्वयं) प्रभु ने अपने श्रीमुख से बार-बार बडाई की है॥4-5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-373.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-373.mp3"></div>
 
 
 ## 050
@@ -5217,8 +5203,7 @@ unicode_script = "devanagari"
 हे नाथ! आपने श्री रामचरित्र मानस का गान किया, उसे सुनकर मैन्ने अपार सुख पाया। आपने जो यह कहा कि यह सुन्दर कथा काकभुशुण्डिजी ने गरुडजी से कही थी-॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-374.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-374.mp3"></div>
 
 
 ## 053
@@ -5488,8 +5473,7 @@ unicode_script = "devanagari"
 उन शिखरों में एक-एक पर बरगद, पीपल, पाकर और आम का एक-एक विशाल वृक्ष है। पर्वत के ऊपर एक सुन्दर तालाब शोभित है, जिसकी मणियों की सीढियाँ देखकर मन मोहित हो जाता है॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-375.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-375.mp3"></div>
 
 
 ## 056
@@ -5747,8 +5731,7 @@ unicode_script = "devanagari"
 हे गरुड! आपके हृदय में बडा भारी मोह उत्पन्न हो गया है। यह मेरे समझाने से तुरन्त नहीं मिटेगा। अतः हे पक्षीराज! आप ब्रह्माजी के पास जाइए और वहाँ जिस काम के लिए आदेश मिले, वही कीजिएगा॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-376.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-376.mp3"></div>
 
 
 ## 059
@@ -6003,8 +5986,7 @@ unicode_script = "devanagari"
 फिर कुछ इस कारण भी मैन्ने उसको अपने पास नहीं रखा कि पक्षी पक्षी की ही बोली समझते हैं। हे भवानी! प्रभु की माया (बडी ही) बलवती है, ऐसा कौन ज्ञानी है, जिसे वह न मोह ले?॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-377.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-377.mp3"></div>
 
 
 ## 062
@@ -6288,8 +6270,7 @@ unicode_script = "devanagari"
 फिर श्री रघुनाथजी ने उनको बहुत प्रकार से समझाया, जिससे वे खडाऊँ लेकर अयोध्यापुरी लौट आए, यह सब कथा कही। भरतजी की नन्दीग्राम में रहने की रीति, इन्द्रपुत्र जयन्त की नीच करनी और फिर प्रभु श्री रामचन्द्रजी और अत्रिजी का मिलाप वर्णन किया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-378.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-378.mp3"></div>
 
 
 ## 065
@@ -6561,8 +6542,7 @@ unicode_script = "devanagari"
 भुशुण्डिजी ने वह सब कथा कही जो हे भवानी! मैन्ने तुमसे कही। सारी रामकथा सुनकर गरुडजी मन में बहुत उत्साहित (आनन्दित) होकर वचन कहने लगे-॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-379.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-379.mp3"></div>
 
 
 ## 068
@@ -6819,8 +6799,7 @@ unicode_script = "devanagari"
 मत्सर (डाह) ने किसको कलङ्क नहीं लगाया? शोक रूपी पवन ने किसे नहीं हिला दिया? चिन्ता रूपी साँपिन ने किसे नहीं खा लिया? जगत में ऐसा कौन है, जिसे माया न व्यापी हो?॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-380.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-380.mp3"></div>
 
 कीट मनोरथ दारु सरीरा। जेहि न लाग घुन को अस धीरा॥  
 सुत बित लोक ईषना तीनी। केहि कै मति इन्ह कृत न मलीनी॥3॥  
@@ -7088,8 +7067,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-381.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-381.mp3"></div>
 
 
 ### 02 चौपाई
@@ -7337,8 +7315,7 @@ unicode_script = "devanagari"
 (तलवे में) वज्रादि (वज्र, अङ्कुश, ध्वजा और कमल) के चार सुन्दर चिह्न हैं, चरणों में मधुर शब्द करने वाले सुन्दर नूपुर हैं, मणियों, रत्नों से जडी हुई सोने की बनी हुई सुन्दर करधनी का शब्द सुहावना लग रहा है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-382.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-382.mp3"></div>
 
 
 ## 076
@@ -7565,8 +7542,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-383.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-383.mp3"></div>
 
 
 ### 02 चौपाई
@@ -7815,8 +7791,7 @@ unicode_script = "devanagari"
 हे तात! सुनिए, दशरथजी, कौसल्याजी और भरतजी आदि भाई भी भिन्न-भिन्न रूपों के थे। मैं प्रत्येक ब्रह्माण्ड में रामावतार और उनकी अपार बाल लीलाएँ देखता फिरता॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-384.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-384.mp3"></div>
 
 
 ## 081
@@ -8102,8 +8077,7 @@ unicode_script = "devanagari"
 हे प्रभो! यदि आप प्रसन्न होकर मुझे वर देते हैं और मुझ पर कृपा और स्नेह करते हैं, तो हे स्वामी! मैं अपना मनभाया वर माँगता हूँ। आप उदार हैं और हृदय के भीतर की जानने वाले हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-385.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-385.mp3"></div>
 
 
 ## 084
@@ -8330,8 +8304,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-386.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-386.mp3"></div>
 
 
 ### 02 चौपाई
@@ -8584,8 +8557,7 @@ unicode_script = "devanagari"
 प्रभुता जाने बिना उन पर विश्वास नहीं जमता, विश्वास के बिना प्रीति नहीं होती और प्रीति बिना भक्ति वैसे ही दृढ नहीं होती जैसे हे पक्षीराज! जल की चिकनाई ठहरती नहीं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-387.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-387.mp3"></div>
 
 
 ## 089
@@ -8873,8 +8845,7 @@ unicode_script = "devanagari"
 वे अरबों कुबेरों के समान धनवान्‌ और करोडों मायाओं के समान सृष्टि के खजाने हैं। बोझ उठाने में वे अरबों शेषों के समान हैं। (अधिक क्या) जगदीश्वर प्रभु श्री रामजी (सभी बातों में) सीमारहित और उपमारहित हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-388.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-388.mp3"></div>
 
 
 ### 03 छन्द
@@ -9128,8 +9099,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-389.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-389.mp3"></div>
 
 
 ### 03 चौपाई
@@ -9393,8 +9363,7 @@ unicode_script = "devanagari"
 अवध का प्रभाव जीव तभी जानता है, जब हाथ में धनुष धारण करने वाले श्री रामजी उसके हृदय में निवास करते हैं। हे गरुडजी! वह कलिकाल बडा कठिन था। उसमें सभी नर-नारी पापपरायण (पापों में लिप्त) थे॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-390.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-390.mp3"></div>
 
 
 ## 097
@@ -9624,8 +9593,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-391.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-391.mp3"></div>
 
 
 ### 02 चौपाई
@@ -9913,8 +9881,7 @@ unicode_script = "devanagari"
 इन्द्रियों का दमन, दान, दया और समझदारी किसी में नहीं रही। मूर्खता और दूसरों को ठगना, यह बहुत अधिक बढ गया। स्त्री-पुरुष सभी शरीर के ही पालन-पोषण में लगे रहते हैं। जो पराई निन्दा करने वाले हैं, जगत्‌ में वे ही फैले हैं॥5॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-392.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-392.mp3"></div>
 
 
 ## 102
@@ -10200,8 +10167,7 @@ unicode_script = "devanagari"
 उन ब्राह्मण श्रेष्ठ ने मुझको शिवजी का मन्त्र दिया और अनेकों प्रकार के शुभ उपदेश किए। मैं शिवजी के मन्दिर में जाकर मन्त्र जपता। मेरे हृदय में दम्भ और अहङ्कार बढ गया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-393.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-393.mp3"></div>
 
 
 ## 105
@@ -10451,8 +10417,7 @@ unicode_script = "devanagari"
 अरे पापी! तू गुरु के सामने अजगर की भाँति बैठा रहा। रे दुष्ट! तेरी बुद्धि पाप से ढँक गई है, (अतः) तू सर्प हो जा और अरे अधम से भी अधम! इस अधोगति (सर्प की नीची योनि) को पाकर किसी बडे भारी पेड के खोखले में जाकर रह॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-394.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-394.mp3"></div>
 
 
 ## 107
@@ -10711,8 +10676,7 @@ unicode_script = "devanagari"
 यद्यपि इसने भयानक पाप किया है और मैन्ने भी इसे क्रोध करके शाप दिया है, तो भी तुम्हारी साधुता देखकर मैं इस पर विशेष कृपा करूँगा॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-395.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-395.mp3"></div>
 
 छमासील जे पर उपकारी। ते द्विज मोहि प्रिय जथा खरारी॥  
 मोर श्राप द्विज ब्यर्थ न जाइहि। जन्म सहस अवस्य यह पाइहि॥3॥  
@@ -10949,8 +10913,7 @@ unicode_script = "devanagari"
 हे गरुडजी ! उनसे मैं श्री रामजी के गुणों की कथाएँ पूछता। वे कहते और मैं हर्षित होकर सुनता। इस प्रकार मैं सदा-सर्वदा श्री हरि के गुणानुवाद सुनता फिरता। शिवजी की कृपा से मेरी सर्वत्र अबाधित गति थी (अर्थात्‌ मैं जहाँ चाहता वहीं जा सकता था)॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-396.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-396.mp3"></div>
 
 छूटी त्रिबिधि ईषना गाढी। एक लालसा उर अति बाढी॥  
 राम चरन बारिज जब देखौं। तब निज जन्म सफल करि लेखौं॥7॥  
@@ -11194,8 +11157,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-397.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-397.mp3"></div>
 
 
 ### 02 चौपाई
@@ -11434,8 +11396,7 @@ unicode_script = "devanagari"
 हे तात! यह सुन्दर और गुप्त रामचरित मानस मैन्ने शिवजी की कृपा से पाया था। तुम्हें श्री रामजी का 'निज भक्त' जाना, इसी से मैन्ने तुमसे सब चरित्र विस्तार के साथ कहा॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-398.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-398.mp3"></div>
 
 राम भगति जिन्ह कें उर नाहीं। कबहुँ न तात कहिअ तिन्ह पाहीं॥  
 मुनि मोहि बिबिधि भाँति समुझावा। मैं सप्रेम मुनि पद सिरु नावा॥7॥  
@@ -11657,8 +11618,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-399.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-399.mp3"></div>
 
 
 ### 02 चौपाई
@@ -11908,8 +11868,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-400.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-400.mp3"></div>
 
 
 ### 02 चौपाई
@@ -12151,8 +12110,7 @@ unicode_script = "devanagari"
 हे भाई! वह बहुत सी ऋद्धि-सिद्धियों को भेजती है, जो आकर बुद्धि को लोभ दिखाती हैं और वे ऋद्धि-सिद्धियाँ कल (कला), बल और छल करके समीप जाती और आँचल की वायु से उस ज्ञान रूपी दीपक को बुझा देती हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-401.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-401.mp3"></div>
 
 होइ बुद्धि जौं परम सयानी। तिन्ह तन चितव न अनहित जानी॥  
 जौं तेहि बिघ्न बुद्धि नहिं बाधी। तौ बहोरि सुर करहिं उपाधी॥5॥  
@@ -12386,8 +12344,7 @@ unicode_script = "devanagari"
 वह दिन-रात (अपने आप ही) परम प्रकाश रूप रहता है। उसको दीपक, घी और बत्ती कुछ भी नहीं चाहिए। (इस प्रकार मणि का एक तो स्वाभाविक प्रकाश रहता है) फिर मोह रूपी दरिद्रता समीप नहीं आती (क्योङ्कि मणि स्वयं धनरूप है) और (तीसरे) लोभ रूपी हवा उस मणिमय दीप को बुझा नहीं सकती (क्योङ्कि मणि स्वयं प्रकाश रूप है, वह किसी दूसरे की सहायता से प्रकाश नहीं करती)॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-402.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-402.mp3"></div>
 
 प्रबल अबिद्या तम मिटि जाई। हारहिं सकल सलभ समुदाई॥  
 खल कामादि निकट नहिं जाहीं। बसइ भगति जाके उर माहीं॥3॥  
@@ -12621,8 +12578,7 @@ unicode_script = "devanagari"
 ऐसे मनुष्य शरीर को धारण (प्राप्त) करके भी जो लोग श्री हरि का भजन नहीं करते और नीच से भी नीच विषयों में अनुरक्त रहते हैं, वे पारसमणि को हाथ से फेङ्क देते हैं और बदले में काँच के टुकडे ले लेते हैं॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-403.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-403.mp3"></div>
 
 नहिं दरिद्र सम दुख जग माहीं। सन्त मिलन सम सुख जग नाहीं॥  
 पर उपकार बचन मन काया। सन्त सहज सुभाउ खगराया॥7॥  
@@ -12835,8 +12791,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-404.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-404.mp3"></div>
 
 
 ### 02 चौपाई
@@ -13031,8 +12986,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-405.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-405.mp3"></div>
 
 
 ### 03 चौपाई
@@ -13254,8 +13208,7 @@ unicode_script = "devanagari"
 मोह रूपी समुद्र में डूबते हुए मेरे लिए आप जहाज हुए। हे नाथ! आपने मुझे बहुत प्रकार के सुख दिए (परम सुखी कर दिया)। मुझसे इसका प्रत्युपकार (उपकार के बदले में उपकार) नहीं हो सकता। मैं तो आपके चरणों की बार-बार वन्दना ही करता हूँ॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-406.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-406.mp3"></div>
 
 पूरन काम राम अनुरागी। तुम्ह सम तात न कोउ बडभागी॥  
 सन्त बिटप सरिता गिरि धरनी। पर हित हेतु सबन्ह कै करनी॥3॥  
@@ -13477,8 +13430,7 @@ unicode_script = "devanagari"
 
 (धन की तीन गतियाँ होती हैं- दान, भोग और नाश। दान उत्तम है, भोग मध्यम है और नाश नीच गति है। जो पुरुष न देता है, न भोगता है, उसके धन की तीसरी गति होती है।)  
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-407.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-407.mp3"></div>
 
 
 ## 127
@@ -13722,8 +13674,7 @@ unicode_script = "devanagari"
 पतितों को पवित्र करना जिनका महान्‌ (प्रसिद्ध) बाना है, ऐसा कवि, वेद, सन्त और पुराण गाते हैं- रेमन! कुटिलता त्याग कर उन्हीं को भज। श्री राम को भजने से किसने परम गति नहीं पाई?॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-408.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-408.mp3"></div>
 
 
 ### 03 छन्द

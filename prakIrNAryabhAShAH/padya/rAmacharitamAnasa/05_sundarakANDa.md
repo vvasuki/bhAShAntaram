@@ -2625,8 +2625,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-289.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-289.mp3"></div>
 
 
 ## 28
@@ -2879,8 +2878,7 @@ unicode_script = "devanagari"
 ः-  (हनुमानजी ने कहा कि) हे दीनदयाल! सीता की विपत्ति ऐसी भारी है कि उसको न कहना ही अच्छा है॥5॥   
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-290.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-290.mp3"></div>
 
 
 ## 31
@@ -3127,8 +3125,7 @@ unicode_script = "devanagari"
 ः- अब विलम्ब क्यों कर रहे हैं अब  तुरन्त वानरोंको आज्ञा दीजिए। इस कौतुकको देखकर (भगवान की यह लीला) देवताओं ने आकाश से बहुतसे फूल बरसाये और फिर वे आनन्दित होकर अपने अपने लोक को चल दिये॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-291.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-291.mp3"></div>
 
 
 ## 34
@@ -3379,8 +3376,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-292.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-292.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3653,8 +3649,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-293.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-293.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3910,8 +3905,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-294.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-294.mp3"></div>
 
 
 ### 02 चौपाई
@@ -4167,8 +4161,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-295.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-295.mp3"></div>
 
 
 ### 02 चौपाई
@@ -4412,8 +4405,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-296.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-296.mp3"></div>
 
 
 ### 02 चौपाई
@@ -4661,8 +4653,7 @@ unicode_script = "devanagari"
 उन्होन्ने पहले सिर नवाकर प्रणाम किया। फिर किनारे पर कुश बिछाकर बैठ गए। इधर ज्यों ही विभीषणजी प्रभु के पास आए थे, त्यों ही रावण ने उनके पीछे दूत भेजे थे॥51॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-297.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-297.mp3"></div>
 
 
 ## 51
@@ -4906,8 +4897,7 @@ unicode_script = "devanagari"
 जिसने नगर को जलाया और आपके पुत्र अक्षय कुमार को मारा, उसका बल तो सब वानरों में थोडा है। असङ्ख्य नामों वाले बडे ही कठोर और भयङ्कर योद्धा हैं। उनमें असङ्ख्य हाथियों का बल है और वे बडे ही विशाल हैं॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-298.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-298.mp3"></div>
 
 
 ## 54
@@ -5120,8 +5110,7 @@ unicode_script = "devanagari"
 
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-299.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-299.mp3"></div>
 
 
 ### 02 चौपाई
@@ -5311,8 +5300,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-300.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-300.mp3"></div>
 
 
 ### 02 चौपाई

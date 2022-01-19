@@ -428,9 +428,10 @@ unicode_script = "devanagari"
 
 ## 002 वन्दनानि
 
+### 01 दोहा साधूनां प्रयाग-रूपकम्
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-003.mp3"></div>
 
-### 01 दोहा साधूनां प्रयाग-रूपकम्
 सुनि समुझहिं जन मुदित-मन  
 मज्जहिं अति-अनुराग।  
 लहहिं चारि+++(४)+++-फल अछत+++(=अक्षत)+++-तनु  
@@ -1140,9 +1141,10 @@ unicode_script = "devanagari"
 
 ## 008
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-006.mp3"></div>
 
-### 01 दोहा
 भाग छोट अभिलाषु बड करउँ एक बिस्वास।  
 पैहहिं सुख सुनि सुजन सब खल करिहहिं उपहास॥8॥  
 
@@ -1404,8 +1406,7 @@ unicode_script = "devanagari"
 श्यामा गो काली होने पर भी उसका दूध उज्ज्वल और बहुत गुणकारी होता है। यही समझकर सब लोग उसे पीते हैं। इसी तरह गँवारू भाषा में होने पर भी श्री सीतारामजी के यश को बुद्धिमान लोग बडे चाव से गाते और सुनते हैं॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-007.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-007.mp3"></div>
 
 
 ### 02 चौपाई
@@ -1606,8 +1607,7 @@ unicode_script = "devanagari"
 सरस्वतीजी, शेषजी, शिवजी, ब्रह्माजी, शास्त्र, वेद और पुराण- ये सब 'नेति-नेति' कहकर (पार नहीं पाकर 'ऐसा नहीं', ऐसा नहीं कहते हुए) सदा जिनका गुणगान किया करते हैं॥12॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-008.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-008.mp3"></div>
 
 
 ### 02 चौपाई
@@ -1836,8 +1836,7 @@ unicode_script = "devanagari"
 कवि और पण्डितगण! आप जो रामचरित्र रूपी मानसरोवर के सुन्दर हंस हैं, मुझ बालक की विनती सुनकर और सुन्दर रुचि देखकर मुझ पर कृपा करें॥3॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-009.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-009.mp3"></div>
 
 
 ### 02 सोरठा
@@ -2062,8 +2061,7 @@ unicode_script = "devanagari"
 मैं अवध के राजा श्री दशरथजी की वन्दना करता हूँ, जिनका श्री रामजी के चरणों में सच्चा प्रेम था, जिन्होन्ने दीनदयालु प्रभु के बिछुडते ही अपने प्यारे शरीर को मामूली तिनके की तरह त्याग दिया॥16॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-010.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-010.mp3"></div>
 
 
 ### 02 चौपाई
@@ -2312,8 +2310,7 @@ unicode_script = "devanagari"
 नाम के प्रति पार्वतीजी के हृदय की ऐसी प्रीति देखकर श्री शिवजी हर्षित हो गए और उन्होन्ने स्त्रियों में भूषण रूप (पतिव्रताओं में शिरोमणि) पार्वतीजी को अपना भूषण बना लिया। (अर्थात्‌ उन्हें अपने अङ्ग में धारण करके अर्धाङ्गिनी बना लिया)। नाम के प्रभाव को श्री शिवजी भलीभाँति जानते हैं, जिस (प्रभाव) के कारण कालकूट जहर ने उनको अमृत का फल दिया॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-011.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-011.mp3"></div>
 
 ## 019
 
@@ -2556,8 +2553,7 @@ unicode_script = "devanagari"
 चारों ही चतुर भक्तों को नाम का ही आधार है, इनमें ज्ञानी भक्त प्रभु को विशेष रूप से प्रिय हैं। यों तो चारों युगों में और चारों ही वेदों में नाम का प्रभाव है, परन्तु कलियुग में विशेष रूप से है। इसमें तो (नाम को छोडकर) दूसरा कोई उपाय ही नहीं है॥4॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-012.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-012.mp3"></div>
 
 ## 022
 
@@ -2789,8 +2785,7 @@ unicode_script = "devanagari"
 
 मासपारायण, पहला विश्राम  
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-013.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-013.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3038,8 +3033,7 @@ unicode_script = "devanagari"
 श्री रामजी तो विशुद्ध प्रेम से ही रीझते हैं, पर जगत में मुझसे बढकर मूर्ख और मलिन बुद्धि और कौन होगा?॥6॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-014.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-014.mp3"></div>
 
 ## 028
 
@@ -3277,8 +3271,7 @@ unicode_script = "devanagari"
 श्री रामजी की गूढ कथा के वक्ता (कहने वाले) और श्रोता (सुनने वाले) दोनों ज्ञान के खजाने (पूरे ज्ञानी) होते हैं। मैं कलियुग के पापों से ग्रसा हुआ महामूढ जड जीव भला उसको कैसे समझ सकता था?॥2॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-015.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-015.mp3"></div>
 
 
 ### 02 चौपाई
@@ -3503,8 +3496,7 @@ unicode_script = "devanagari"
 सम्पूर्ण पुण्यों के फल महान भोगों के समान हैं। जगत का छलरहित (यथार्थ) हित करने में साधु-सन्तों के समान हैं। सेवकों के मन रूपी मानसरोवर के लिए हंस के समान और पवित्र करने में गङ्गाजी की तरङ्गमालाओं के समान हैं॥7॥  
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-016.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-016.mp3"></div>
 
 ## 032
 
@@ -3689,8 +3681,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
-.org/download/rAmcharitmAnas-AIR/EPI-017.mp3"></div>
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-017.mp3"></div>
 
 
 ### 02 चौपाई
