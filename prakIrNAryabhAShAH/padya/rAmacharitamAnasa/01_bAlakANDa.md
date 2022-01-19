@@ -861,12 +861,14 @@ unicode_script = "devanagari"
 
 
 
-## 006
+## 006 सद्-असद्-विवेकः
 
 
-### 01 दोहा
-जड चेतन गुन दोषमय बिस्व कीन्ह करतार।  
-सन्त हंस गुन गहहिं पय परिहरि बारि बिकार॥6॥  
+### 01 दोहा सद्-असद्-विवेकः
+जड़-चेतन-गुन-दोषमय  
+बिस्व कीन्ह करतार।  
+सन्त हंस-गुन गहहिं पय  
+परिहरि बारि-बिकार॥6॥+++(र४)+++
 
 <details><summary>मूल</summary>
 
@@ -2786,11 +2788,6 @@ unicode_script = "devanagari"
 
 
 मासपारायण, पहला विश्राम  
-
-<details><summary>मूल</summary>
-
-मासपारायण, पहला विश्राम  
-</details>
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
 .org/download/rAmcharitmAnas-AIR/EPI-013.mp3"></div>
