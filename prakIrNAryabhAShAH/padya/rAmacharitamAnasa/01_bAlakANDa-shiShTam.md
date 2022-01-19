@@ -18116,9 +18116,10 @@ unicode_script = "devanagari"
 
 ## 253
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-093.mp3"></div>
 
-### 01 दोहा
 तोरौं छत्रक दण्ड जिमि तव प्रताप बल नाथ।  
 जौं न करौं प्रभु पद सपथ कर न धरौं धनु भाथ॥253॥
 
@@ -18358,9 +18359,10 @@ unicode_script = "devanagari"
 
 ## 256
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-094.mp3"></div>
 
-### 01 दोहा
 मन्त्र परम लघु जासु बस बिधि हरि हर सुर सर्ब।  
 महामत्त गजराज कहुँ बस कर अङ्कुस खर्ब॥256॥
 
@@ -18600,9 +18602,10 @@ unicode_script = "devanagari"
 
 ## 259
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-095.mp3"></div>
 
-### 01 दोहा
 लखन लखेउ रघुबंसमनि ताकेउ हर कोदण्डु।  
 पुलकि गात बोले बचन चरन चापि ब्रह्माण्डु॥259॥
 
@@ -18863,9 +18866,10 @@ unicode_script = "devanagari"
 
 ## 262
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-096.mp3"></div>
 
-### 01 दोहा
 बन्दी मागध सूतगन बिरुद बदहिं मतिधीर।  
 करहिं निछावरि लोग सब हय गय धन मनि चीर॥262॥
 
@@ -19105,9 +19109,10 @@ unicode_script = "devanagari"
 
 ## 265
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-097.mp3"></div>
 
-### 01 दोहा
 गौतम तिय गति सुरति करि नहिं परसति पग पानि।  
 मन बिहसे रघुबंसमनि प्रीति अलौकिक जानि॥265॥
 
@@ -19347,9 +19352,10 @@ unicode_script = "devanagari"
 
 ## 268
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-098.mp3"></div>
 
-### 01 दोहा
 सान्त बेषु करनी कठिन बरनि न जाइ सरूप।  
 धरि मुनितनु जनु बीर रसु आयउ जहँ सब भूप॥268॥
 
@@ -19590,9 +19596,10 @@ unicode_script = "devanagari"
 
 ## 271
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-099.mp3"></div>
 
-### 01 दोहा
 रे नृप बालक काल बस बोलत तोहि न सँभार।  
 धनुही सम तिपुरारि धनु बिदित सकल संसार॥271॥
 
@@ -19832,9 +19839,10 @@ unicode_script = "devanagari"
 
 ## 274
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-100.mp3"></div>
 
-### 01 दोहा
 सूर समर करनी करहिं कहि न जनावहिं आपु।  
 बिद्यमान रन पाइ रिपु कायर कथहिं प्रतापु॥274॥
 
@@ -20074,9 +20082,10 @@ unicode_script = "devanagari"
 
 ## 277
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-101.mp3"></div>
 
-### 01 दोहा
 लखन कहेउ हँसि सुनहु मुनि क्रोधु पाप कर मूल।  
 जेहि बस जन अनुचित करहिं चरहिं बिस्व प्रतिकूल॥277॥
 
@@ -20316,9 +20325,10 @@ unicode_script = "devanagari"
 
 ## 280
 
+### 01 दोहा
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-102.mp3"></div>
 
-### 01 दोहा
 परसुरामु तब राम प्रति बोले उर अति क्रोधु।  
 सम्भु सरासनु तोरि सठ करसि हमार प्रबोधु॥280॥
 
@@ -20551,12 +20561,12 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी ने कहा- हे मुनि! विचारकर बोलिए। आपका क्रोध बहुत बडा है और मेरी भूल बहुत छोटी है। पुराना धनुष था, छूते ही टूट गया। मैं किस कारण अभिमान करूँ?॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-103.mp3"></div>
-
 ## 283
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-103.mp3"></div>
+
 जौं हम निदरहिं बिप्र बदि सत्य सुनहु भृगुनाथ।  
 तौ अस को जग सुभटु जेहि भय बस नावहिं माथ॥283॥
 
@@ -20794,12 +20804,12 @@ unicode_script = "devanagari"
 मुनि ने कहा- हे चतुर नरेश ! सुनो यों तो विवाह धनुष के अधीन था, धनुष के टूटते ही विवाह हो गया। देवता, मनुष्य और नाग सब किसी को यह मालूम है॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-104.mp3"></div>
-
 ## 286
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-104.mp3"></div>
+
 तदपि जाइ तुम्ह करहु अब जथा बंस ब्यवहारु।  
 बूझि बिप्र कुलबृद्ध गुर बेद बिदित आचारु॥286॥
 
@@ -21035,12 +21045,12 @@ unicode_script = "devanagari"
 उस समय जिसने तिरहुत को देखा, उसे चौदह भुवन तुच्छ जान पडे। जनकपुर में नीच के घर भी उस समय जो सम्पदा सुशोभित थी, उसे देखकर इन्द्र भी मोहित हो जाता था॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-105.mp3"></div>
-
 ## 289
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-105.mp3"></div>
+
 बसइ नगर जेहिं लच्छि करि कपट नारि बर बेषु।  
 तेहि पुर कै सोभा कहत सकुचहिं सारद सेषु॥289॥
 
@@ -21278,12 +21288,12 @@ unicode_script = "devanagari"
 बाणासुर, जो सुमेरु को भी उठा सकता था, वह भी हृदय में हारकर परिक्रमा करके चला गया और जिसने खेल से ही कैलास को उठा लिया था, वह रावण भी उस सभा में पराजय को प्राप्त हुआ॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-106.mp3"></div>
-
 ## 292
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-106.mp3"></div>
+
 तहाँ राम रघुबंसमनि सुनिअ महा महिपाल।  
 भञ्जेउ चाप प्रयास बिनु जिमि गज पङ्कज नाल॥292॥
 
@@ -21521,12 +21531,12 @@ unicode_script = "devanagari"
 'यह सब मुनि की कृपा है' ऐसा कहकर वे बाहर चले आए। तब रानियों ने ब्राह्मणों को बुलाया और आनन्द सहित उन्हें दान दिए। श्रेष्ठ ब्राह्मण आशीर्वाद देते हुए चले॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-107.mp3"></div>
-
 ## 295
 
-
 ### 01 सोरठा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-107.mp3"></div>
+
 जाचक लिए हँकारि दीन्हि निछावरि कोटि बिधि।  
 चिरु जीवहुँ सुत चारि चक्रबर्ति दसरत्थ के॥295॥
 
@@ -21764,12 +21774,12 @@ unicode_script = "devanagari"
 उन सब घोडों पर भरतजी के समान अवस्था वाले सब छैल-छबीले राजकुमार सवार हुए। वे सभी सुन्दर हैं और सब आभूषण धारण किए हुए हैं। उनके हाथों में बाण और धनुष हैं तथा कमर में भारी तरकस बँधे हैं॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-108.mp3"></div>
-
 ## 298
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-108.mp3"></div>
+
 छरे छबीले छयल सब सूर सुजान नबीन।  
 जुग पदचर असवार प्रति जे असिकला प्रबीन॥298॥
 
@@ -22007,12 +22017,12 @@ unicode_script = "devanagari"
 दोनों सुन्दर रथ वे राजा दशरथ के पास ले आए, जिनकी सुन्दरता का वर्णन सरस्वती से भी नहीं हो सकता। एक रथ पर राजसी सामान सजाया गया और दूसरा जो तेज का पुञ्ज और अत्यन्त ही शोभायमान था,॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-109.mp3"></div>
-
 ## 301
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-109.mp3"></div>
+
 तेहिं रथ रुचिर बसिष्ठ कहुँ हरषि चढाई नरेसु।  
 आपु चढेउ स्यन्दन सुमिरि हर गुर गौरि गनेसु॥301॥
 
@@ -22278,10 +22288,10 @@ unicode_script = "devanagari"
 मासपारायण दसवाँ विश्राम
 </details>
 
+### 02 चौपाई
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-110.mp3"></div>
 
-
-### 02 चौपाई
 कनक कलस भरि कोपर थारा। भाजन ललित अनेक प्रकारा॥  
 भरे सुधा सम सब पकवाने। नाना भाँति न जाहिं बखाने॥1॥
 
@@ -22520,12 +22530,10 @@ unicode_script = "devanagari"
 जब राजा दशरथजी ने पुत्रों सहित मुनि को आते देखा, तब वे हर्षित होकर उठे और सुख के समुद्र में थाह सी लेते हुए चले॥307॥
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-111.mp3"></div>
 
-
-### 02 चौपाई
 मुनिहि दण्डवत कीन्ह महीसा। बार बार पद रज धरि सीसा॥  
 कौसिक राउ लिए उर लाई। कहि असीस पूछी कुसलाई॥1॥
 
@@ -22741,12 +22749,12 @@ unicode_script = "devanagari"
 कोयल के समान मधुर बोलने वाली स्त्रियाँ आपस में कहती हैं कि हे सुन्दर नेत्रों वाली! इस विवाह में बडा लाभ है। बडे भाग्य से विधाता ने सब बात बना दी है, ये दोनों भाई हमारे नेत्रों के अतिथि हुआ करेङ्गे॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-112.mp3"></div>
-
 ## 310
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-112.mp3"></div>
+
 बारहिं बार सनेह बस जनक बोलाउब सीय।  
 लेन आइहहिं बन्धु दोउ कोटि काम कमनीय॥310॥
 
@@ -23005,12 +23013,12 @@ unicode_script = "devanagari"
 (उन्होन्ने जाकर विनती की-) समय हो गया, अब पधारिए। यह सुनते ही नगाडों पर चोट पडी। गुरु वशिष्ठजी से पूछकर और कुल की सब रीतियों को करके राजा दशरथजी मुनियों और साधुओं के समाज को साथ लेकर चले॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-113.mp3"></div>
-
 ## 313
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-113.mp3"></div>
+
 भाग्य बिभव अवधेस कर देखि देव ब्रह्मादि।  
 लगे सराहन सहस मुख जानि जनम निज बादि॥313॥
 
@@ -23248,10 +23256,10 @@ unicode_script = "devanagari"
 जिस घोडे पर श्री रामजी विराजमान हैं, उसकी (तेज) चाल देखकर गरुड भी लजा जाते हैं, उसका वर्णन नहीं हो सकता, वह सब प्रकार से सुन्दर है। मानो कामदेव ने ही घोडे का वेष धारण कर लिया हो॥4॥
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-114.mp3"></div>
 
-
-### 03 छन्द
 जनु बाजि बेषु बनाइ मनसिजु राम हित अति सोहई।  
 आपनें बय बल रूप गुन गति सकल भुवन बिमोहई॥  
 जगमगत जीनु जराव जोति सुमोति मनि मानिक लगे।  
@@ -23493,11 +23501,10 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी का वर वेश देखकर सीताजी की माता सुनयनाजी के मन में जो सुख हुआ, उसे हजारों सरस्वती और शेषजी सौ कल्पों में भी नहीं कह सकते (अथवा लाखों सरस्वती और शेष लाखों कल्पों में भी नहीं कह सकते)॥318॥
 </details>
 
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-115.mp3"></div>
 
-
-### 02 चौपाई
 नयन नीरु हटि मङ्गल जानी। परिछनि करहिं मुदित मन रानी॥  
 बेद बिहित अरु कुल आचारू। कीन्ह भली बिधि सब ब्यवहारू॥1॥
 
@@ -23758,10 +23765,10 @@ unicode_script = "devanagari"
 वे कपट से ब्राह्मणों का सुन्दर वेश बनाए बहुत ही सुख पाते हुए सब लीला देख रहे थे। जनकजी ने उनको देवताओं के समान जानकर उनका पूजन किया और बिना पहिचाने भी उन्हें सुन्दर आसन दिए॥4॥
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-116.mp3"></div>
 
-
-### 03 छन्द
 पहिचान को केहि जान सबहि अपान सुधि भोरी भई।  
 आनन्द कन्दु बिलोकि दूलहु उभय दिसि आनँदमई॥  
 सुर लखे राम सुजान पूजे मानसिक आसन दए।  
@@ -24022,12 +24029,10 @@ unicode_script = "devanagari"
 हवन के समय अग्निदेव शरीर धारण करके बडे ही सुख से आहुति ग्रहण करते हैं और सारे वेद ब्राह्मण वेष धरकर विवाह की विधियाँ बताए देते हैं॥323॥
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-117.mp3"></div>
 
-
-### 02 चौपाई
 जनक पाटमहिषी जग जानी। सीय मातु किमि जाइ बखानी॥  
 सुजसु सुकृत सुख सुन्दरताई। सब समेटि बिधि रची बनाई॥1॥
 
@@ -24254,10 +24259,10 @@ unicode_script = "devanagari"
 मानो कमल को लाल पराग से अच्छी तरह भरकर अमृत के लोभ से साँप चन्द्रमा को भूषित कर रहा है। (यहाँ श्री राम के हाथ को कमल की, सेन्दूर को पराग की, श्री राम की श्याम भुजा को साँप की और सीताजी के मुख को चन्द्रमा की उपमा दी गई है।) फिर वशिष्ठजी ने आज्ञा दी, तब दूलह और दुलहिन एक आसन पर बैठे॥5॥
 </details>
 
+### 03 छन्द
+
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-118.mp3"></div>
 
-
-### 03 छन्द
 बैठे बरासन रामु जानकि मुदित मन दसरथु भए।  
 तनु पुलक पुनि पुनि देखि अपनें सुकृत सुरतरु पल नए॥  
 भरि भुवन रहा उछाहु राम बिबाहु भा सबहीं कहा।  
@@ -24514,11 +24519,10 @@ unicode_script = "devanagari"
 मासपारायण, ग्यारहवाँ विश्राम
 </details>
 
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-119.mp3"></div>
 
-
-### 02 चौपाई
 स्याम सरीरु सुभायँ सुहावन। सोभा कोटि मनोज लजावन॥  
 जावक जुत पद कमल सुहाए। मुनि मन मधुप रहत जिन्ह छाए॥1॥
 
@@ -24745,12 +24749,12 @@ unicode_script = "devanagari"
 राजा जनकजी ने सभी को उचित आसन दिए और सब परसने वालों को बुला लिया। आदर के साथ पत्तलें पडने लगीं, जो मणियों के पत्तों से सोने की कील लगाकर बनाई गई थीं॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-120.mp3"></div>
-
 ## 328
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-120.mp3"></div>
+
 सूपोदन सुरभी सरपि सुन्दर स्वादु पुनीत।  
 छन महुँ सब कें परुसि गे चतुर सुआर बिनीत॥328॥
 
@@ -24988,12 +24992,12 @@ unicode_script = "devanagari"
 वे सब गुणानुवाद गाते और 'सूर्यकुल के स्वामी की जय हो, जय हो, जय हो' कहते हुए चले। इस प्रकार श्री रामचन्द्रजी के विवाह का उत्सव हुआ, जिन्हें सहस्र मुख हैं, वे शेषजी भी उसका वर्णन नहीं कर सकते॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-121.mp3"></div>
-
 ## 331
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-121.mp3"></div>
+
 बार बार कौसिक चरन सीसु नाइ कह राउ।  
 यह सबु सुखु मुनिराज तव कृपा कटाच्छ पसाउ॥331॥
 
@@ -25231,12 +25235,12 @@ unicode_script = "devanagari"
 आदर के साथ सब पुत्रियों को (स्त्रियों के धर्म) समझाकर रानियों ने बार-बार उन्हें हृदय से लगाया। माताएँ फिर-फिर भेण्टती और कहती हैं कि ब्रह्मा ने स्त्री जाति को क्यों रचा॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-122.mp3"></div>
-
 ## 334
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-122.mp3"></div>
+
 तेहि अवसर भाइन्ह सहित रामु भानु कुल केतु।  
 चले जनक मन्दिर मुदित बिदा करावन हेतु॥334॥
 
@@ -25495,12 +25499,12 @@ unicode_script = "devanagari"
 पुत्रियों को पहुँचाती हैं, फिर लौटकर मिलती हैं। परस्पर में कुछ थोडी प्रीति नहीं बढी (अर्थात बहुत प्रीति बढी)। बार-बार मिलती हुई माताओं को सखियों ने अलग कर दिया। जैसे हाल की ब्यायी हुई गाय को कोई उसके बालक बछडे (या बछिया) से अलग कर दे॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-123.mp3"></div>
-
 ## 337
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-123.mp3"></div>
+
 प्रेमबिबस नर नारि सब सखिन्ह सहित रनिवासु।  
 मानहुँ कीन्ह बिदेहपुर करुनाँ बिरहँ निवासु॥337॥
 
@@ -25657,12 +25661,12 @@ unicode_script = "devanagari"
 उनके चरण कमलों की धूलि सिर पर रखकर और आशीर्वाद पाकर राजा प्रसन्न हुए। गणेश जी का स्मरण कर के यात्रा की, नाना प्रकार के मङ्गल के मूल सगुन हुए॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-124.mp3"></div>
-
 ## 339
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-124.mp3"></div>
+
 सुर प्रसून बरषहि हरषि करहिं अपछरा गान।
 चले अवधपति अवधपुर मुदित बजाइ निसान॥३३९॥
 
@@ -25982,12 +25986,12 @@ unicode_script = "devanagari"
 डङ्का बजाकर बारात चली। छोटे-बडे सभी समुदाय प्रसन्न हैं। (रास्ते के) गाँव के स्त्री-पुरुष श्री रामचन्द्रजी को देखकर नेत्रों का फल पाकर सुखी होते हैं॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-125.mp3"></div>
-
 ## 343
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-125.mp3"></div>
+
 बीच बीच बर बास करि मग लोगन्ह सुख देत।  
 अवध समीप पुनीत दिन पहुँची आइ जनेत॥343॥
 
@@ -26225,12 +26229,12 @@ unicode_script = "devanagari"
 शकुन की सुगन्धित वस्तुएँ बखानी नहीं जा सकतीं। सब रानियाँ सम्पूर्ण मङ्गल साज सज रही हैं। बहुत प्रकार की आरती बनाकर वे आनन्दित हुईं सुन्दर मङ्गलगान कर रही हैं॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-126.mp3"></div>
-
 ## 346
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-126.mp3"></div>
+
 कनक थार भरि मङ्गलन्हि कमल करन्हि लिएँ मात।  
 चलीं मुदित परिछनि करन पुलक पल्लवित गात॥346॥
 
@@ -26468,12 +26472,12 @@ unicode_script = "devanagari"
 चारों मनोहर जोडियों को देखकर सरस्वती ने सारी उपमाओं को खोज डाला, पर कोई उपमा देते नहीं बनी, क्योङ्कि उन्हें सभी बिलकुल तुच्छ जान पडीं। तब हारकर वे भी श्री रामजी के रूप में अनुरक्त होकर एकटक देखती रह गईं॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-127.mp3"></div>
-
 ## 349
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-127.mp3"></div>
+
 निगम नीति कुल रीति करि अरघ पाँवडे देत।  
 बधुन्ह सहित सुत परिछि सब चलीं लवाइ निकेत॥349॥
 
@@ -26725,12 +26729,12 @@ unicode_script = "devanagari"
 उन्हें महल के भीतर ठहरने को उत्तम स्थान दिया, जिसमें राजा और सब रनिवास उनका मन जोहता रहे (अर्थात जिसमें राजा और महल की सारी रानियाँ स्वयं उनकी इच्छानुसार उनके आराम की ओर दृष्टि रख सकें) फिर राजा ने गुरु वशिष्ठजी के चरणकमलों की पूजा और विनती की। उनके हृदय में कम प्रीति न थी (अर्थात बहुत प्रीति थी)॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-128.mp3"></div>
-
 ## 352
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-128.mp3"></div>
+
 बधुन्ह समेत कुमार सब रानिन्ह सहित महीसु।  
 पुनि पुनि बन्दत गुर चरन देत असीस मुनीसु॥352॥
 
@@ -26968,12 +26972,12 @@ unicode_script = "devanagari"
 राजा ने सबका सब प्रकार से सम्मान करके, कोमल वचन कहकर रानियों को बुलाया और कहा- बहुएँ अभी बच्ची हैं, पराए घर आई हैं। इनको इस तरह से रखना जैसे नेत्रों को पलकें रखती हैं (जैसे पलकें नेत्रों की सब प्रकार से रक्षा करती हैं और उन्हें सुख पहुँचाती हैं, वैसे ही इनको सुख पहुँचाना)॥4॥
 </details>
 
-<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-129.mp3"></div>
-
 ## 355
 
-
 ### 01 दोहा
+
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-129.mp3"></div>
+
 लरिका श्रमित उनीद बस सयन करावहु जाइ।  
 अस कहि गे बिश्रामगृहँ राम चरन चितु लाइ॥355॥
 
@@ -27239,12 +27243,10 @@ unicode_script = "devanagari"
 नवाह्नपारायण, तीसरा विश्राम
 </details>
 
-
+### 02 चौपाई
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-130.mp3"></div>
 
-
-### 02 चौपाई
 भूप बिलोकि लिए उर लाई। बैठे हरषि रजायसु पाई॥  
 देखि रामु सब सभा जुडानी। लोचन लाभ अवधि अनुमानी॥1॥
 
