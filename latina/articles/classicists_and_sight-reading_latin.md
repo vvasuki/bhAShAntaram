@@ -106,9 +106,5 @@ Nor can it happen if learners are simply told that high reading proficiency is a
 If anyone reading this is interested in learning to read Latin as a normal language, then I strongly recommend Hans Ørberg's [Lingua Latina Per Se Illustrata](https://www.amazon.com/gp/product/1585104205/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0) series. It's perfect for either self-study or classroom use, and I've seen it do wonders to help struggling learners. Above all else, it helps you learn _to think about Latin in Latin_. It's the only Latin textbook I know of that actually helps you avoid transverbalization (the habit of mentally translating everything you read.)
 
 
-
-
-
-
 [ A.Z. Foreman ](https://www.blogger.com/profile/07178150009150360184 "author profile")
 
