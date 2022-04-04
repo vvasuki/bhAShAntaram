@@ -9,14 +9,17 @@ Velut+++(=like)+++ luna
 Statu variabilis  
 Semper crescis+++(=growing)+++  
 Aut+++(=or)+++ decrescis+++(=decreasing)+++  
+
 Vita detestabilis  
-Nunc obdurat  
+Nunc+++(=first)+++ obdurat+++(=oprresses)+++  
 Et tunc curat  
 Ludo mentis aciem,  
-Egestatem,  
-Potestatem  
-Dissolvit ut glaciem.  
-Sors immanis  
+
+Egestatem+++(=poverty)+++,  
+Potestatem+++(=power)+++  
+Dissolvit ut glaciem+++(=ice)+++.  
+
+Sors immanis+++(=immense)+++  
 Et inanis,  
 Rota tu volubilis  
 Status malus  
