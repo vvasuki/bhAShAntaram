@@ -7,11 +7,12 @@ title = "Fortuna imperatrix"
 O Fortuna  
 Velut+++(=like)+++ luna  
 Statu variabilis  
+
 Semper crescis+++(=growing)+++  
 Aut+++(=or)+++ decrescis+++(=decreasing)+++  
-
 Vita detestabilis  
-Nunc+++(=first)+++ obdurat+++(=oprresses)+++  
+
+Nunc+++(=first)+++ obdurat+++(=opresses)+++  
 Et tunc curat  
 Ludo mentis aciem,  
 
@@ -19,27 +20,34 @@ Egestatem+++(=poverty)+++,
 Potestatem+++(=power)+++  
 Dissolvit ut glaciem+++(=ice)+++.  
 
-Sors immanis+++(=immense)+++  
+Sors+++(=fate)+++ immanis+++(=immense)+++  
 Et inanis,  
 Rota tu volubilis  
+
 Status malus  
-Vana salus  
+Vana+++(=vain)+++ salus+++(=well-being)+++  
 Semper dissolubilis  
-Obumbrata  
-Et velata  
-Michi quoque niteris  
+
+Ob-umbrata+++(=shadowed)+++  
+Et velata+++(=veiled)+++  
+Michi quoque niteris+++(=plague)+++  
+
 Nunc per ludum  
 Dorsum nudum  
-Fero tui sceleris.  
-Sors salutis  
+Fero+++(=ferry)+++ tui+++(=your)+++ sceleris+++(=villainy)+++.  
+
+Sors+++(=fate)+++ salutis+++(=in health)+++  
 Et virtutis  
 Michi nunc contraria,  
+
 Est affectus  
 Et defectus  
-Semper in angaria.  
-Hac in hora  
-Sine mora  
-Corde pulsum tangite  
-Quod per sortem  
-Sternit fortem  
-Mecum omnes plangite  
+Semper in angaria+++(=servitude)+++.  
+
+Hac+++(=ergo)+++ in hora  
+Sine mora+++(=delay)+++  
+Corde pulsum tangite+++(=pluck)+++  
+
+Quod per sortem+++(=fate)+++  
+Sternit+++(=strikes down)+++ fortem  
+Mecum omnes plangite+++(=weep)+++  
