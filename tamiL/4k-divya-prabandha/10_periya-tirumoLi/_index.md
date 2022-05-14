@@ -1,4 +1,4 @@
 +++
-title = "१० पॆरिय-तिरुमोळि"
+title = "+१० पॆरिय-तिरुमोळि"
 unicode_script = "devanagari"
 +++
