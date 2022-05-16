@@ -1,9 +1,10 @@
 +++
 title = "garaNi-shrInivAsa exegesis"
 +++
+Sources: garaNi-rAdhAkRShNa.
 
 ## About garaNi-shrInivAsa
-### English Intro by garaNi-rAdhAkRShNa
+### English Intro
 Garani Sreenivasan 1907 - 1985
 
 On the eleventh mile, in the north eastern direction from Madhugiri in the Tumkur district of Karnataka, India, there is a small hamlet by name Garani. In this hamlet lived the grand parents and parents of Garani Sreenivasan. His father Goplachar was a lower division clerk in the  office of the land records. They belonged to the Iyengar Brahmin family of Shatamarshana Gotra and followed the Swayam Acharaya Purusha system.  Gopalachar’s wife was Venkatalakshamma who was the sole daughter of the chief priest of the famous Melukote temple.
@@ -17,7 +18,7 @@ He was a  prolific speaker and a very good writer.  He knew all the south Indian
 Although he was known as an English teacher, he used to write in Kannada, a local language and translated many works from Telugu, Tamil and Sanskrit.
 
 
-### kannaDa intro (garaNi-rAdhAkRShNa)
+### kannaDa intro
 ಗರಣಿ ಶ್ರೀನಿವಾಸನ್ 1907-1985
 
 ತುಮುಕೂರು ಜಿಲ್ಲೆಯ ಮಧುಗಿರಿಗೆ ಈಶಾನ್ಯದಲ್ಲಿ ಹನ್ನೊಂದನೆಯ ಮೈಲಿ ಕಲ್ಲಿನ ಬಳಿಯ ಗ್ರಾಮ, ಗರಣಿ. ಈ ಗ್ರಾಮವು ಹೊಳವನಹಳ್ಳಿ ಮತ್ತು ಪಾವಗಡಗಳಿಗೆ ಸಮೀಪದಲ್ಲಿ ಇರುವ ಒಂದು ಸಣ್ಣ ಗ್ರಾಮ.ಇಲ್ಲಿ ಇವರ ಮುತ್ತಾತಂದಿರು ಜೋಡಿದಾರರಾಗಿದ್ದರು. ಸ್ವಯಮಾಚಾರ್ಯ ಕುಲಕ್ಕೆ ಸೇರಿದ ಇವರ ತಂದೆ ಗೋಪಾಲಾಚಾರ್ಯರು ಶಠಮರ್ಷಣ ಗೋತ್ರದವರು. ಇವರು ತಾಲ್ಲೂಕು ಕಛೇರಿಯಲ್ಲಿ ಕೆಳದರ್ಜೆಯ ಗುಮಾಸ್ತನಿಂದ ಶಿರಸ್ತೇದಾರ್ ಪದವಿಯವರೆಗೆ ಬಡ್ತಿಯನ್ನು ಪಡೆದು ನಿವೃತ್ತಿಯನ್ನು ಹೊಂದಿದರು.
