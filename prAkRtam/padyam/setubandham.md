@@ -71,6 +71,7 @@ The poet starts with an invocation to Viṣṇu, the slayer of Madhu:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णमह अवड्ढिअतुङ्गं अवसारिअवित्थ‍अं अणोणागहिरम् ।  
@@ -94,6 +95,7 @@ The poet refers to the slaying of the demon Hiraṇyakaśipu by Narasimha:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दणुएन्दरुहिरलग्गे जस्स फुरन्ते णहप्पहाविच्छड्डे ।  
@@ -115,6 +117,7 @@ The poet refers to the exploit of Kṛṣṇa killing a demon in the form of a b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पीणत्तणदुग्गेज्झां जस्स भुआ‍अन्तणिट्ठुरपरिग्गहिअम् ।  
@@ -138,6 +141,7 @@ This verse refers to Kṛṣṇa bringing Pārijāta tree to please his consort 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओआहिअमहिवेढो जेण परूढगुणमूलतद्धत्थामो ।  
@@ -160,6 +164,7 @@ The poet pays his obeisance to Śiva:
 
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णमह अ जस्स फुडरवं कण्ठच्छाआघडन्तणाणग्गिसिहम् ।  
@@ -181,6 +186,7 @@ Now is a reference to Śiva as Ardhanārīśvara.
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेव‍इ जस्स सविडिअं बलिउं मह‍इ पुलाआ‍इअत्थण‍अलसम् ।  
@@ -202,6 +208,7 @@ Describes the boisterous laughter of Śiva:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अस्स विलग्गन्ति णहं फुडपडिसद्दा दिसाअलपडिक्खलिआ ।  
@@ -221,6 +228,7 @@ Describes the boisterous laughter of Śiva:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णट्टारम्भक्खुहिआ जस्स भडब्भन्तमच्छपह‍अजलर‍आ ।  
@@ -242,6 +250,7 @@ Speaks of the difficulty of work undertaken:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अहिणवरा‍आरद्धा चुक्कक्खलि‍एषु जिहडि‍अपरिट्ठवि‍आ ।  
@@ -263,6 +272,7 @@ Talks of benefits of good literary work:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 परिवड्ढ‍इ विण्णाणं संभाविज्ज‍इ जसो विढप्पन्ति गुणा ।  
@@ -282,6 +292,7 @@ Is there any consequence which is not rendered attractive by proper narration of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इच्छाइ व धणरिद्धी जोव्वणलद्ध इव आहिआ‍इअ सिरी ।  
@@ -301,6 +312,7 @@ It is with difficulty that well crafted verses get associated with lofty meaning
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं तिअसवन्दिमोक्खं समत्थतेल्लोक्कहिअ‍असल्लुद्धरणम् ।  
@@ -320,6 +332,7 @@ Listen now to the famous story of slaying of Rāvaṇa, which enabled the releas
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह पडिवण्णविरोहे रहववम्महसरेण माणब्भहिये ।  
@@ -327,6 +340,7 @@ Listen now to the famous story of slaying of Rāvaṇa, which enabled the releas
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ववसाअरैपओसो रोसग‍इन्ददिढसिङ्खलापडिबन्धो ।  
@@ -349,6 +363,7 @@ Having had an adversary (in Rāma), when the Goddess of royal wealth residing in
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गमिआ कलम्बवा‍आ दिट्टं मेहन्ध‍आरिअं ग‍अण‍अलम् ।  
@@ -370,6 +385,7 @@ A description of autumn faced by Rāma follows:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो हरि व‍इजसवन्थो राहवजीवस्स पढमहत्थालम्बो ।  
@@ -389,6 +405,7 @@ Then came autumn, which acted as a path to Sugrīva’s fame, a first hand of su
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 र‍इअरकेसरणिवहं धवलब्भदलसहस्सपरिगवम् ।  
@@ -408,6 +425,7 @@ The sky looks resplendent like the lotus flower from which Brahma emanated and w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दिणमणिमोहप्फुरिअं गलिअं घणलच्छिर‍अणरसणादामम् ।  
@@ -427,6 +445,7 @@ The rainbow looks like the sparkling rays of day-gem (Sun), a fallen-off waist b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धु‍अमेहमहु‍अरावो घणसमाआ‍अड्ढिओण‍अविमुक्काओ ।  
@@ -446,6 +465,7 @@ It looks as if the directions have returned to their original places like branch
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अहिणवणिद्धालो‍आ उद्देसासारदीसमाणजललवा ।  
@@ -465,6 +485,7 @@ Days display a slightly dry lustre; sights are new and friendly; there are water
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सुहसंमाणिअणिद्दो वरकालुङ्खिअसमुद्ददिण्णुकण्ठो ।  
@@ -484,6 +505,7 @@ Viṣṇu, the slayer of Madhu, got up after having been served by Lakṣmī who
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सोह‍इ विसुद्धकिरणो ग‍अणसमुद्दम्मि र‍अणिवेलालग्गो ।  
@@ -503,6 +525,7 @@ The sky is like an ocean where darkness of night acts as the seashore, the stars
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सत्तच्छाणञ् गन्धो लग्ग‍इ हिअए खल‍इ कलम्बामो‍ओ ।  
@@ -522,6 +545,7 @@ The fragrance of Saptaparṇa trees is pleasant (being seasonal); the smell of K
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पीणप‍ओहरलग्गं दिसाणञ् पवसन्तजल‍असम‍अवि‍इण्णम् ।  
@@ -541,6 +565,7 @@ The rainbow attached to the heavy clouds formed while the rainy season departs a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पज्जत्तसलिलधो‍ए दूरालोक्कन्तणिम्मले ग‍अण‍अले ।  
@@ -557,6 +582,7 @@ The rainbow attached to the heavy clouds formed while the rainy season departs a
 
 In the sky which had been thoroughly cleaned by the rain waters and which looked spotlessly clean as far as the eyes could see, the Moon’s orb bereft of the (cover) of clouds appears to be nearby.
 
+_________
 <details open><summary>मूलम्</summary>
 
 चिर‍आलपडिणि‍उत्तं दिसासु घोलन्तकुमु‍अर‍अवेल्लवि‍अम् ।  
@@ -576,6 +602,7 @@ Returning after a long time, a bevy of swans is circling around, smeared by the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चन्दा‍अवधवला‍ओ फुरन्तदि‍असर‍अणन्तरि‍असोहा‍ओ ।  
@@ -595,6 +622,7 @@ Autumnal nights which are white with moonlight and which become obscured by dazz
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भमररु‍अदिण्णसण्णं घणरोहविमुक्कदिण‍अर‍अरालिट्टम् ।  
@@ -614,6 +642,7 @@ The lotus with its stalk hidden in water which has been signalled by the sounds 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मम्महधणुणिग्घोसो कमलवणक्खलि‍अलच्छिणे‍उरसद्दो ।  
@@ -633,6 +662,7 @@ The cackle of swans at night in the lakes appears like the twang of the bow of L
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खुडिडप्प‍इ‍अमुणालं दहूण पि‍अं व सिढिलवल‍अं णलिणिम् ।  
@@ -652,6 +682,7 @@ Lotus fibres have been cut and removed in the lake in the manner a lady is troub
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पज्जत्तकमलगन्धो महुतण्णा‍ओसरन्तणवकुमु‍अर‍ओ ।  
@@ -671,6 +702,7 @@ The wind, replete with the fragrance of lotuses and fresh sweet and damp pollen 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कण्ट‍इ‍अणूमि‍अङ्गी धो‍अत्थो‍ओसरन्तमुद्धसहावा ।  
@@ -690,6 +722,7 @@ The lotus-plant does not retract the lotus kissed by the rays of the Sun, while 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 परिघोलन्तक्खलि‍अं सत्तच्छ‍अकुसुमधवलरेणुक्ख‍‍इ‍अम् ।  
@@ -709,6 +742,7 @@ Swarm of bees fanned by the ears of the elephant throws up the slushy ichor whic
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इ‍अ पहसि‍अकुमु‍असरे भडिमुहपङ्क‍अविरुद्धचन्दालो‍ए ।  
@@ -722,6 +756,7 @@ Swarm of bees fanned by the ears of the elephant throws up the slushy ichor whic
 जातायां स्फुरत्तारायां लक्ष्मीस्वयंग्राहनवप्रदोषे शरदि ॥
 </details>
 
+_________
 <details open><summary>मूलम्</summary>
 
 छिज्ज‍इ झिण्णावि तणू अट्टि‍अवाहं पुणो परुण्णं व मुहम् ।  
@@ -737,6 +772,7 @@ Swarm of bees fanned by the ears of the elephant throws up the slushy ichor whic
 
 Thus in the early autumn evening when Goddess Lakṣmī voluntarily chooses her abode, the lakes looked as if they were laughing with blooming white water lilies. There was moonlight inimical to the lotus faces of soldiers’ wives and stars twinkled. Rāma’s withered body shrunk further. His face with constrained tears looked as if he had wept again. Hanumān who was away for long who was the only strand of hope for Rāma could not be seen.
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि अ जहासत्थि‍अणिव्वत्ति‍अकज्जणिव्वलन्तच्छा‍अम् ।  
@@ -756,6 +792,7 @@ Then (suddenly) Rāma sees Hanumān, son of Wind God, who was the embodiment as 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पढमं वि‍अ मारु‍इणा हरिसभरिज्जन्तलो‍अणेण मुहेण ।  
@@ -775,6 +812,7 @@ Right at the beginning Hanumān conveyed the well being of Sītā only through h
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दिट्ट त्ति ण सद्दहि‍अं झीण त्ति सबाहमन्थरं णीससिअम् ।  
@@ -794,6 +832,7 @@ When Hanumān said “ (Sītā was) seen”, Rāma did not believe. When he said
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चिन्ताह‍अप्पहं मिव तं च करे खे‍अणिसहं च णिसण्णम् ।  
@@ -813,6 +852,7 @@ Hanumān brings with him the crest-jewel of Sītā, which looked soiled due to i
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सो कर‍अलञ्जलिग‍ओ वाहत्थवापह‍ओसिहन्तम‍ऊहो ।  
@@ -832,6 +872,7 @@ When the eyes of Rāma looked at the gem which was in the hollow of Hanumān’s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सो अ‍इ अ णं रहुव‍ई विरलङ्गुलिगलि‍अकिरणधाराव‍अरम् ।  
@@ -851,6 +892,7 @@ Taking the gem, whose rays were leaking away through his fingers, near his face 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं दह‍आहिण्णाणं जम्मि वि अङ्गम्मि राहवेण  ण णिमि‍अम् ।  
@@ -870,6 +912,7 @@ Even those limbs of Rāma which did not come into contact with the gem experienc
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बाहम‍इलं पि तो से दहमुहचिन्ताविजृम्भमाणामरिसम् ।  
@@ -889,6 +932,7 @@ His (Rāma’s) face indicating the anger generated by the thought about Rāva�
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो से चिरमज्झत्थे कुवि‍अक‍अन्तभुम‍आल‍आपडिरूए ।  
@@ -908,6 +952,7 @@ His gaze fell with the weight of the impending duty (of killing Rāvaṇa) as it
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खणमूलाबद्धा‍ए णिव्वण्णन्तमसिणं समारूढा‍ए ।  
@@ -927,6 +972,7 @@ The bow, which had not been bent looked as if it had been stringed by Rāma’s 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सुग्गीवस्स हि‍अ‍अं राहवसुक‍अपडिमो‍अणासत्तण्हम् ।  
@@ -946,6 +992,7 @@ Even Sugrīva (along with Rāma) eager to repay the good deed done by Rāma took
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चिन्ति‍अलद्धत्तं मिव बुम‍आविक्खेवसू‍इ‍आमरिसरसम् ।  
@@ -965,6 +1012,7 @@ Rāma’s mind was intent on travel to laṅkā. The (impending) travel was to h
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सोह व्व लक्खणमुहं वणमालव्व वि‍अडं हरिव‍इस्स उरम् ।  
@@ -984,6 +1032,7 @@ Rāma’s eyes fell on Lakṣmaṇa to Sugrīva, Hanumān and then the army. The
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 संखोहि‍अमहिवे‍ढो तो सो क‍इसेण्णविलुलि‍अवणाहो‍ओ ।  
@@ -1003,6 +1052,7 @@ The surrounding ground was disturbed; the expanse of the forest was trampled by 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चलि‍अं च वाणरवलं चलि‍ए तम्मि चलकेसरसडुज्जो‍अम् ।  
@@ -1022,6 +1072,7 @@ When Rāma started, the army of monkeys also started with their coppery manes sh
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेराअरणिपज्जलि‍ओ तो सो रोसपवणाह‍उद्ध‍अमुहलो ।  
@@ -1041,6 +1092,7 @@ The entire monkey population followed the path of Rāma. They looked like the fo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वच्च‌इ अ चडुलकेसरसटोज्ज्वलालोकवानरपरिक्षिप्तः ।  
@@ -1060,6 +1112,7 @@ When Rāma proceeded surrounded by monkeys whose brilliant coppery manes created
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 घोलन्ति णिम्मला‍ओ फुरन्तदि‍अस‍अरपा‍अहि‍अरू‍आओ ।  
@@ -1079,6 +1132,7 @@ The directions which (in reality) looked clear and where forms were clearly disc
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आलो‍ए‍इ अ विज्झं धनुसंठाणस्स साअरस्स भरसहम् ।  
@@ -1098,6 +1152,7 @@ Rāma looks at the Vindhya Mountain which was capable of withstanding the stress
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मसिणि‍असिहरुच्छङ्गो विहु‍अणि‍अम्बवणपा‍अडि‍अतु‍ङ्ग‍अडो ।  
@@ -1117,6 +1172,7 @@ The peaks of the mountain were smoothed by the monkeys (by their playful activit
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पत्ता अ सीभरा‍ह‍अधा‍उसिला‍अलणिसण्णरा‍इ‍अजल‍अम् ।  
@@ -1136,6 +1192,7 @@ They reached Sahya Mountain, where radiant clouds stayed on colourful metallic o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बोलन्ति अ पेच्छन्ता पडिमासंकन्तधवलघणसंघा‍ए ।  
@@ -1155,6 +1212,7 @@ They crossed rivers seeing in them reflections of groups of white clouds which l
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तडपब्भारभरन्ता दलन्तपा‍आलगलि‍अजलप‍इरिक्का ।  
@@ -1174,6 +1232,7 @@ The streams of great rivers made turbid by water gushing from underground due to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलहरणिद्दा‍अन्तं पा‍अवगहणेसु सिसिरणिदा‍अन्तम् ।  
@@ -1193,6 +1252,7 @@ The monkeys covered by the juice of sandalwood trees broken and shaken (by them)
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चन्दनपा‍अणलग्गे खुडि‍उव्वेलि‍अल‍आपरिमलच्छाए ।  
@@ -1212,6 +1272,7 @@ They saw the sloughs of serpents stuck which indicated the manner of serpents’
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सेवन्ति तीरवड्ढि‍अणि‍अ‍अभरोव्वत्तचन्दणल‍आलिद्धे ।  
@@ -1231,6 +1292,7 @@ The monkeys savour the waters of mountain streams into which the sandalwood cree
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो तरुणसिप्पिसंपुडदरदावि‍अजलणिहित्तमुत्ताव‍अरम् ।  
@@ -1252,6 +1314,7 @@ The next three verses describe the sea shore as adjectival clauses.
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वि‍असिअतमालणीलं पुणो पुणो चलतरङ्गपरिमट्ठम् ।  
@@ -1271,6 +1334,7 @@ The shores looked like the ichor flow of the elephant-like ocean, dark in colour
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 फेणविसमङ्गरा‍अं विद्दुमदन्तव्वणणि‍अमुद्दच्छा‍अम् ।  
@@ -1290,6 +1354,7 @@ The shore looked like a lady carrying the scent of (her lover) in the form of oc
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सिप्पि‍उडम‍उलि‍अच्छि ल‍आहरब्भन्तरेसु परिवड्ढन्तम् ।  
@@ -1331,6 +1396,7 @@ Thus comes to an end the first canto in the great epic called, “The killing of
 
 द्वितीय आश्वासकः (Canto-2)
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह पेच्छा रहुतणओ चडुलं दोसस‍अदुक्खबोलेअव्वम् ।  
@@ -1350,6 +1416,7 @@ Rāma, scion of Raghu looks at the unsteady ocean which needs to be crossed afte
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ग‍अणस्स‍अ पडिबिम्बं धरणी‌अ व णिग्गमं दिशाण व णिल‍अम् ।  
@@ -1369,6 +1436,7 @@ The ocean looked like the reflection of the sky, like the gateway of land, like 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भमिरुब्भडकल्लोलं थोरकराहदिसामुहोत्थ‍असलिलम् ।  
@@ -1383,6 +1451,7 @@ The ocean looked like the reflection of the sky, like the gateway of land, like 
 
 He sees the ocean being agitated by the Moon with a deer in its care. The ocean was consequently swirling with exalted waves with waters spread in all directions struck by the rays of the Moon as if agitated by an elephant having a permanent state of excitement. (Reference to the deer is to the mark on the Moon which looks like a deer.)
 
+_________
 <details open><summary>मूलम्</summary>
 
 अप्फुण्णविद्दुमवणे गुप्पन्तपडित्थिरे सलिलकल्लोले ।  
@@ -1402,6 +1471,7 @@ The ocean’s waves covered the red coral reefs with the surroundings agitated a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मुहलघणविप्प‍इण्णं जतणिवहं भरि‍अस‍अलणहमहिविवरम् ।  
@@ -1422,6 +1492,7 @@ The ocean, like a king enjoying his fame emanating from himself, was drinking th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जोह्ला‍ए व्व मि‍अङ्कं कित्ती‍अ व सु‍उरिसं पहा‍ए व्व रविम् ।  
@@ -1441,6 +1512,7 @@ The ocean continued to be associated with wealth (lustre) despite being continuo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कालन्तरजी‍अहरं ग‍ओणि‍अत्तन्तपवणर‍अघट्टिज्जन्तम् ।  
@@ -1460,6 +1532,7 @@ The ocean was carrying within itself the sub-oceanic fire of the shape of a hors
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धु‍अवणरा‍इकर‍अलं मल‍अमहिन्दत्थणोरसोल्लणसुहि‍अम् ।  
@@ -1479,6 +1552,7 @@ As the oceanic waves lap against the seashore embracing and moving away, the Ear
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ठाणे वि ठि‍इपहुत्तं पल‍ए महिमण्डलम्मि वि अमा‍अन्तम् ।  
@@ -1498,6 +1572,7 @@ While at normal times ocean stayed within its bounds it would flood the whole Ea
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्तं अहिरामं सुव्वन्तं पि अवि‍इह्णसोअव्वगुणम् ।  
@@ -1519,6 +1594,7 @@ Often Prākṛt’s Chāyā in Sanskrit  is not unique. In this verse two altern
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उक्ख‍अदुमं व सेलं हिमह‍अकमला‍अरं व लच्छिविमुक्कम् ।  
@@ -1550,6 +1626,7 @@ The ocean appeared like a mountain with trees uprooted (on account of Pārijāta
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिप्फण्णसुहालो‍अं विमलजलब्भन्तरट्ठिअं वहमाणम् ।  
@@ -1571,6 +1648,7 @@ The Vaḍavā fire under the ocean is described:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 महणासा‍अविमुक्कं उच्छित्ताम‍अविसङ्खलाणलणिवहम् ।  
@@ -1590,6 +1668,7 @@ The flames of Vaḍavā fire, disturbed by the rising ambrosia, appear to be the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धीरं व जलसमूहं तिमिणिवहं मिव सपक्खपव्व‍अलोअम् ।  
@@ -1609,6 +1688,7 @@ The ocean carries with it hundreds of finest qualities as if they are gems; it c
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पा‍आलोअरगहिरे महिप‍इरिक्कविअडे णहणिरालम्बे ।  
@@ -1630,6 +1710,7 @@ The back waters of rivers as they join the ocean are described:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अहिलीअ परमुहीहिं छिविओसरिएहिञ् अणुस‍अविलोलाहि ।  
@@ -1651,6 +1732,7 @@ The munificence of ocean is described:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जीअगरुईहि अज्ज वि इच्छापज्जत्तसुहरसाहि म‍एन्तम् ।  
@@ -1670,6 +1752,7 @@ The ocean was making the whole world intoxicated by ( its munificence) in the fo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चडुलं पि पि‍ईअ थिरं तिअसिक्खित्तर‍अणं पि सारब्भहिअम् ।  
@@ -1689,6 +1772,7 @@ The ocean is steady and does not transgress its limits although continuously agi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पज्जत्तरअणगब्भे णह‍अरुपह्वत्थचन्द‍अरपारोहे ।  
@@ -1708,6 +1792,7 @@ The ocean has, out of fear for Indra, hidden within it mountains full of gems wi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 परिअब्भिअं उवग‍ए बोलीणम्मिअ णिअत्तचडुलसहावम् ।  
@@ -1727,6 +1812,7 @@ The ocean has, out of fear for Indra, hidden within it mountains full of gems wi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दरफुडिअसिप्पिसंपुडपलोट्टसङ्घमुहभरिअमुत्ताणिअरम् ।  
@@ -1748,6 +1834,7 @@ The pearls which were held at the mouth of the conch shells which in turn rolled
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मरग‍अमणिप्पहाह‍अहरि‍आऽअन्तजरढप्पवालकिसल‍अम् ।  
@@ -1767,6 +1854,7 @@ The old sprouts of corals were looking green because of the presence of emeralds
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मणिवाल‍अं तीरल‍आहरप्पहोहासि‍अरम्मणिवाल‍अम् ।  
@@ -1808,6 +1896,7 @@ The ocean was getting disturbed by the rays of the Moon; it was in tumult due to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णि‍अ‍अविसाणलप‍अवि‍अमुत्ताणि‍अरपरिघोलमाणविसहरम् ।  
@@ -1829,6 +1918,7 @@ A description of the back flow of rivers joining the ocean:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सरिसंकुलं महुमहवल्लहा‍इ लच्छी‍अ सारसरिसं कुलम् ।  
@@ -1867,6 +1957,7 @@ The ocean having kissed thousands of rivers was aware of the pleasures of enjoyi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कसणमणिच्छा‍आरसेरज्जन्तोवरिपरिप्पवन्तप्फेणम् ।  
@@ -1886,6 +1977,7 @@ The floating foam above had the colours of dark gems (as the transparent foam to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 स‍अरङ्ग‍अं विद्दुमपल्लवप्पहाघोलिरसास‍अरङ्घ‍अम् ।  
@@ -1905,6 +1997,7 @@ The waves of the ocean had revolving red tint due to the lustre of the red colou
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मुत्ताल‍अं ति‍असविण्णजीवि‍असुहाम‍अजम्मुत्ताल‍अम् ।  
@@ -1943,6 +2036,7 @@ The boulders in the ocean had a green color due the moss that had grown over a l
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 असुरोवडणविहट्टि‍अजलविवरिट्ठि‍अरसा‍अलुम्हाणिवहम् ।  
@@ -1981,6 +2075,7 @@ This ocean is respected as the originator of ambrosia; it is dark like sky as if
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पवणुग्गाहिअजललवणिवहपहम्मन्तमुहलतीरलवणम् ।  
@@ -2000,6 +2095,7 @@ The forests on the shores were whining as the water particles carried by the win
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मन्दरमेहक्खोहिअससिकलहंसपरिमुक्कसलिलुच्छङ्गम् ।  
@@ -2019,6 +2115,7 @@ The swan-like Moon rises out of the waters of the ocean due to the disturbance c
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पुण्णणइसोत्तसंणिहजलमज्झमुणिज्जमाणचलतिमिणिवहम् ।  
@@ -2038,6 +2135,7 @@ Shoals of fish in the ocean could be surmised by the currents induced by their m
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो जग्गाडि‍अमूलो पव‍अबलक्कन्तमहि‍अलुद्धुच्छलिओ ।  
@@ -2059,6 +2157,7 @@ Rāma looks at the ocean:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कालन्तरपरिहुत्तं दट्ठूण वि अप्पणो महीअहिस‍अणम् ।  
@@ -2080,6 +2179,7 @@ Lakṣmaṇa looks at the ocean:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ईसिजलपेसि‍अच्छं विहसन्तवि‍इण्णपव‍अव‍इसंलावम् ।  
@@ -2101,6 +2201,7 @@ Sugrīva looks at the ocean:
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हरिसणिराउण्णामि‍अपीण‍अरालोअपा‍अडोवरिभा‍अम् ।  
@@ -2120,6 +2221,7 @@ While Sugrīva, the chief of monkeys looks at the ocean, ~~as~~ the upper part o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गरुडेण व जलणणिहं समुद्दलङ्घणमणेण वाणरव‍इणा ।  
@@ -2139,6 +2241,7 @@ Sugrīva, the chief of monkeys who was thinking of crossing the ocean looked at 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सा‍अरदंसणहित्था अक्खित्तोसरि‍अवेवमाणसरीरा ।  
@@ -2158,6 +2261,7 @@ The monkeys assembled there with their bodies shaking after jumping up and retra
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पेच्छन्ताण समुद्दं चडुलो वि अ‍उच्चविम्ह‍अरसत्थिमि‍ओ ।  
@@ -2177,6 +2281,7 @@ The gaze of monkeys which although naturally unsteady had become steady on accou
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उ‍अहिं अलङ्घणिज्जं दट्ठूण ग‍आग‍अं च मारु‍अतण‍अम् ।  
@@ -2196,6 +2301,7 @@ Having observed Hanumān crossing and recrossing the ocean, which could not be (
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो ताण ह‍अच्छा‍अं णिच्चललो‍अणसिहं प‍उत्थप‍आवम् ।  
@@ -2215,6 +2321,7 @@ The natural unsteadiness of the monkeys disappeared having felt powerless and lu
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कह वि टवेन्ति पवङ्गा समुद्ददंसणविसा‍अविमुहिज्जन्तम् ।  
@@ -2253,6 +2360,7 @@ Thus ends the second canto of the great epic, “The killing of the ten-headed D
 
 तृतीयः आश्वासकः (Canto-3)
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो ते क‍इमाअङ्गे रूढविसाअम‍अभाविओमीलन्ते ।  
@@ -2260,6 +2368,7 @@ Thus ends the second canto of the great epic, “The killing of the ten-headed D
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आहास‍इ सुग्गीवो णि‍अ‍अरवाहि फुडणिन्तजसणिग्घोसम् ।  
@@ -2282,6 +2391,7 @@ Sugrīva speaks to the great monkeys, words which are heavy with the essence of 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धरणिधरणे भु‍अ च्चि‍अ महणम्मि सुरासुरा ख‍अम्मि समुद्दा ।  
@@ -2301,6 +2411,7 @@ Just as his shoulders were of help to Viṣṇu, slayer of Madhu at the time of 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मा सास‍असोडीरं कह वि णि‍अन्तसञ्मुहसंठविअप‍अम् ।  
@@ -2320,6 +2431,7 @@ You should not sully the fame which will bring about permanent pride and which h
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रक्खसवसदुव्वोज्झो कज्जारम्भो समुद्दलङ्घणगरुओ ।  
@@ -2339,6 +2451,7 @@ Rāma, the chief of Raghu clan, has already decided in his mind how the difficul
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तुम्ह च्चि‍अ एस भरो आणामेत्थप्फलो पहुत्तणसद्दो ।  
@@ -2358,6 +2471,7 @@ The responsibility of accomplishing this task rests squarely on you, Rāma’s r
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तरिउं णिअहु णवर इमं वेलावणव‍उलकुसुमवासिअसुरहिम् ।  
@@ -2377,6 +2491,7 @@ You are not only capable of crossing this ocean but also capable of drinking it 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चिर‍आलकङ्खि‍आणं धुआवमाणणिअलुण्णमन्तमुहाणम् ।  
@@ -2396,6 +2511,7 @@ This is the opportunity anticipated for a long time for the release from the bon
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ते विरला सप्पुरिसा जे अभणन्ता घडेन्ति कज्जालावे ।  
@@ -2415,6 +2531,7 @@ Those good people are rare who carry out the works without being told. There are
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खिण्णं चावम्मि करं चिरकालुक्कण्ठिअं अमरिसम्मिमणम् ।  
@@ -2434,6 +2551,7 @@ With his bow in the grieving hand and with a mind angered by the pangs of long t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओवग्ग‍उ तुम्ह जसो दहव‍अणप‍आवपत्थिवपरिग्गहि‍अम् ।  
@@ -2453,6 +2571,7 @@ Let your fame ravish the ladies in the form of directions who have their harem i
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जं साहसं ण कीर‍इ तं द*अमाणेण जीवि‍अं किर द‍इअम् ।  
@@ -2472,6 +2591,7 @@ If a person who is the object of pity does not valorously fight, it is because h
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किं व ण आणह एअं कज्जं परिपेलवं पि जह परिणामे ।  
@@ -2491,6 +2611,7 @@ What do you know of the travails that one suffers at the end of a job even thoug
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहडन्तं पि समत्था ववसा‍अं पुरिसदुग्गमं णेन्ति वहम् ।  
@@ -2510,6 +2631,7 @@ In the manner the Sun drives the single wheel through the sky of obstacles, capa
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 क‍अकज्जे तालसमे अ‍इरा पेच्छह भु‍ए अणुत्तालसमे ।  
@@ -2529,6 +2651,7 @@ You shall soon look at your shoulders resembling Tāla trees, whose radiance (of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 संखोहि‍अम‍अरहरो संभन्तुव्वत्तदिदुरक्खसलो‍ओ ।  
@@ -2548,6 +2671,7 @@ Hanumān, who created commotion in the ocean, the abode of crocodiles (while jum
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अव्वोच्छिण्णपसरिओ अहिअं उद्धा‍इ फुरि‍असूरच्छाओ ।  
@@ -2567,6 +2691,7 @@ The enthusiasm of good soldiers which grows unhindered and causes the sparkling 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 माणेण परिट्ठवि‍आ कुलपरिवाडिवडिआ अणोण‍अपुव्वा ।  
@@ -2586,6 +2711,7 @@ The reputation established with dignity and associated with the heritage and nev
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 परिवड्ढन्तुच्छाहो विअलि‍अरणमच्छरेहिञ् अप्पत्तगुणो ।  
@@ -2605,6 +2731,7 @@ Being called a soldier, which denotes having increasing enthusiasm, having quali
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आहि‍असमरा‍अमणा वसणम्मि अ उच्छवे अ समरा‍अमणा ।  
@@ -2624,6 +2751,7 @@ Brave persons who are dedicated to the impending war, who have a balanced mind b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ववसा‍असप्पिपासा कह ते हत्थट्ठि‍अं ण पाहेन्ति जसम् ।  
@@ -2643,6 +2771,7 @@ How will they not enjoy the fame at hand when they are thirsty after working and
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सीहा सहन्ति बन्धं उक्ख‍अदाढा चिरं धरेन्ति विसहरा ।  
@@ -2662,6 +2791,7 @@ Lions suffer being caught; poisonous snakes bear their fangs being pulled out; b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अक‍अत्थपडिणिअत्ता कह सञ्मुहालो‍अमेत्तपडिसंक्कन्तम् ।  
@@ -2681,6 +2811,7 @@ If you return home without accomplishing your objective, how will you look at yo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिज्जन्ति चिरप‍अत्ता समुद्दगहिरा व पडिपहं ण‍इसोत्ता ।  
@@ -2700,6 +2831,7 @@ River streams flowing for long and having oceanic depth can be reversed; but per
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जो लङ्घिज्ज‍इ र‍इणा जो वि खविज्ज‍इ ख‍आणलेण वि बहुसो ।  
@@ -2719,6 +2851,7 @@ How can the ocean, which has suffered humiliation as the Sun crosses it and the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चिन्तिज्ज‍उ दाव इमं कुलववएसक्खमं वहन्ताण जसम् ।  
@@ -2738,6 +2871,7 @@ Think over this: For you who carry the fame associated with your heritage, betwe
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किरणासणिं रहुसुए सुहस्स किर णासणिं विमुद्य मा दा ।  
@@ -2757,6 +2891,7 @@ Let not the autumnal clouds in the form of the Moon throw the thunderbolt in the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बन्धवणेहब्भहिओ हो‍इ परो वि विणएण सेविज्जन्ता ।  
@@ -2776,6 +2911,7 @@ Even an enemy served by humility becomes dearer than a loved relative. What to s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अ‍इरपरूढ व्व ल‍आ समरुच्छाहे उदुम्मि व विलम्बन्ते ।  
@@ -2795,6 +2931,7 @@ While your enthusiasm for war gets delayed, my royal lustre does not even now fr
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 केच्चिरमेत्तं व ठि‍ई एअ विसंवा‍इआ ण मोच्छिहि रामम् ।  
@@ -2814,6 +2951,7 @@ For how long will Rāma’s fortitude be not affected by your inaction, (althoug
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 स‍अलुज्जोइवसुहे समत्थजि‍अलोवित्थरन्तप‍आवे ।  
@@ -2833,6 +2971,7 @@ The shadow of sadness does not stay for long in a virtuous person, whose fame sh
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सप्पुरिसपा‍अडवहं पढमं जं राहवेण अम्हासु क‍अम् ।  
@@ -2852,6 +2991,7 @@ Even if we do our duty (of rescuing Sītā) it may or may not equal the help ren
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 राहवपत्थिज्जन्तो उद्धो दीसिह‍इ केच्चिरं व दहमुद्दो ।  
@@ -2871,6 +3011,7 @@ How long will Rāvaṇa, the ten-headed will be seen to be tall when he is being
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बाला‍अवं व एत्तं धुअ‍अम्बाला‍अवंसुणिवहच्छाअम् ।  
@@ -2890,6 +3031,7 @@ The demons who roam around during nights are not fit to see the army of monkeys 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गुरुअम्मि वि पडिवक्खे होन्ति भडा अहिअवारिअप्पडिऊला ।  
@@ -2909,6 +3051,7 @@ The soldiers become more antagonistic towards the enemy greater his formidabilit
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विसमम्मि वि अविसण्णो धारेइ धुरं धुरंधरो च्चिअ णवरम् ।  
@@ -2928,6 +3071,7 @@ It is only a capable person who can take the responsibility without demur while 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मुक्कसलिला जलहरा अहिणवदिण्णफला अ पा‍अवणिवहा ।  
@@ -2947,6 +3091,7 @@ Clouds which have poured rain, groups of trees which have given fruits and shoul
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दप्पं ण सहन्ति भु‍आ पहरणकज्जसुलहा धरेन्ति महिहरा ।  
@@ -2966,6 +3111,7 @@ Your shoulders do not tolerate conceitedness. Mountains which can easily be dest
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धीरं परिरक्खन्ता गरु‍अं पि बरं धरेन्ति णवर सु‍उरिसा ।  
@@ -2985,6 +3131,7 @@ Only good persons bear the heavy burden reserving their bravery. The Sun’s ray
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 का‍अरपडिमुक्कधुरं जिणन्ति पत्थाणलङ्घिअग्गक्खन्धा ।  
@@ -3004,6 +3151,7 @@ Good people (leaders) who forge ahead at the front of the army first win over th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अण्णेन्ति मङ्गला‍इं अल्लिअ‍इ सिरी जसो पवड्ड‍इ पुरओ ।  
@@ -3023,6 +3171,7 @@ When a good person (Rāma), full of enthusiasm for battling, proceeds to vanquis
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वच्चन्ता अ‍इभूमिं कड्ढिअसुहडासिवत्तवन्थावडिआ ।  
@@ -3042,6 +3191,7 @@ Enmities which have attained their zenith and which move along the edges of swor
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ता सोअ‍इ रहुतणओ ताव अ सोआ वि हत्थपहृत्थमुही ।  
@@ -3061,6 +3211,7 @@ Rāma, scion of Raghu will grieve, Sītā will rest her face in her hands (due t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अण्णो अण्णस्स मणो तुम्ह ण आणे अणाहिओ मह अप्पा ।  
@@ -3156,6 +3307,7 @@ Let not people bemoan that Sītā is sad like a lotus affected by winter. While 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 क‍इआ णु विरहविर‍इअदोव्वल्लपसाहणुज्झिआहरणाइम् ।  
@@ -3163,6 +3315,7 @@ Let not people bemoan that Sītā is sad like a lotus affected by winter. While 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पिहुलणिअम्ब‍अलक्खलि‍असिढिलवल‍अविव‍इण्णबाहुल‍आइम् ।  
@@ -3185,6 +3338,7 @@ Let not people bemoan that Sītā is sad like a lotus affected by winter. While 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ जाहे भण्णन्तं ण चल‍इ चिन्ताभरोसिअन्तसरीरम् ।  
@@ -3192,6 +3346,7 @@ Let not people bemoan that Sītā is sad like a lotus affected by winter. While 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो फुडसद्दुद्धा‍इअअणदवभरिअगिरिकंदरा‍आरमुहो ।  
@@ -3214,6 +3369,7 @@ Even when the army of monkeys heavy with worries is being told thus by Sugrīva,
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ अत्थिरसामत्थे अण्णस्स वि परिआणम्मि को आसङ्घो ।  
@@ -3233,6 +3389,7 @@ If (my) supporters display weakness where is the question of support from someon
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अवहोआसम्मि महं हत्थ‍अलाह‍अदलन्तपत्थिअसलिलो ।  
@@ -3252,6 +3409,7 @@ As the ocean parts into two when I thrash the water with my palms, even before t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अहिआणं तोसिहरे धरिअं मल‍अगिरिणो हसन्तो सिहरे ।  
@@ -3271,6 +3429,7 @@ I shall smilingly carry for a hundred yojanas (my) army which is stationed at th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 समुहमिलिएक्कमेके को इर आसण्णसंस‍अम्मि सहाओ ।  
@@ -3290,6 +3449,7 @@ Who is going to help when adversity faces (me), one on one? So long as I do not 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह व महण्णवहुत्तं पत्थन्तस्स ग‍अणं महं ण वहुत्तम् ।  
@@ -3309,6 +3469,7 @@ Or, sky is nothing big for me who is facing the ocean; like a man who is at peac
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिसुढिज्जन्तभुअंगं मा मुज्झह मह सरोसचलणक्कन्तम् ।  
@@ -3328,6 +3489,7 @@ Do not get disheartened. Let the ocean move towards the depression of the Earth 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओ जमलक्खम्भेहिं व धरिएण भुएहञ् मह महोअहिमज्झे ।  
@@ -3347,6 +3509,7 @@ Or, let the army of monkeys cross over the ocean on the Vindhya Mountain ranges 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विवला‍अन्तभुअंगं उव्वत्तिअजल‍अरं विहिण्णमहिहरम् ।  
@@ -3366,6 +3529,7 @@ All of you look out. By blowing my breath I shall make the waters of the ocean b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मज्झवक्खुडिउम्मूलिअभुआभमा‍इअविमुक्कसेसद्धन्तम् ।  
@@ -3385,6 +3549,7 @@ I shall make the ocean from one end of Suvela to the other end of Malaya a plain
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह व सुवेलालग्गं पेच्छ‍इ अज्जेअ भग्गरक्खसविडवम् ।  
@@ -3404,6 +3569,7 @@ Or, all of you look out. I shall pull out the entire Laṅkā as if it were a cr
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओ भग्गरक्खसदुमं णिह‍अदसाणणम‍इन्दसुहसंचारम् ।  
@@ -3444,6 +3610,7 @@ Thus ends the third canto of the great epic, “killing of the ten-headed” wri
 
 चतुर्थ आश्वासकः (Canto-4)
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह पडमव‍अणणिहुअं पच्छा उम्ह‍इअलज्झिअं क‍इसेण्णम् ।  
@@ -3463,6 +3630,7 @@ The army of monkeys which was inactive at first on the introductory words of Sug
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि अ क‍इहिअ‍आइं धुअन्ध‍आरविअडाइञ् गमणुच्छाहो ।  
@@ -3482,6 +3650,7 @@ Afterwards, a unique enthusiasm to move ~~singly~~ stuck to the hearts of the mo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो दप्पमुहपसाओ आढत्तो ताण हिअ‍अहसिउज्जो‍ओ ।  
@@ -3501,6 +3670,7 @@ Then a sense of joy, as a light emanating from the smiling hearts accompanied by
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बहलुद्ध‍अधा‍उर‍अं रिसहेण धुआंज्झराह‍अकओल‍अलम् ।  
@@ -3520,6 +3690,7 @@ A monkey by name Rṛṣabha smashed a peak of a hill on his shoulder blade by p
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पुल‍उब्भेआलम्बं णीलो परिपुस‍इ विसमकसणच्छा‍अम् ।  
@@ -3539,6 +3710,7 @@ Nīla (commander of the army of monkeys) wipes his chest which is reddish due to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहडन्तोट्ठ‍उडदलं फुरन्तदन्त‍अरबहलकेसरव‍अरम् ।  
@@ -3558,6 +3730,7 @@ Kumuda (another monkey) smiled (blossomed like the petals of a blue lotus) as th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहडन्तधरणिबन्धो उह‍अभुअक्खेवमुहलवेविरविडवो ।  
@@ -3577,6 +3750,7 @@ Mainda (another monkey) shook the sandal wood tree on the seashore, by which act
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दिप्पन्तदुरालोआ दिविअस्स सधूमसिहिसिहावत्तणिहा ।  
@@ -3596,6 +3770,7 @@ The looks of Dvivida (another monkey) which had similarity with smoky flame of f
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सरहो वि दरिमुहग्ग‍अपडिसद्दप्फुडिअमल‍अ‍अ डपब्भारम् ।  
@@ -3615,6 +3790,7 @@ Sharabha (another monkey) made a loud sound which after getting echoed in the ca
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अरुणा‍अम्बच्छा‍ए तक्खणमेत्तपडिबुद्धपङ्क‍असोहे ।  
@@ -3634,6 +3810,7 @@ Anger manifested itself on Nishadha’s face which had a coppery-red colour and 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विअडाहरन्तरालं क‍अं सुसेणस्स रोसहसिएण फुडम् ।  
@@ -3653,6 +3830,7 @@ Suṣeṇa laughed with anger, with the interior of the mouth behind the lower l
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हरिसपरिअम्भिएण अ अद्धुल्लसिअर‍इबिम्ब‍अम्बच्छविणा ।  
@@ -3672,6 +3850,7 @@ Aṅgada, son of Vālī, became visible ready to face his duties like the day an
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णेच्छ‍इ णिव्वूढभरो लहुअं दप्पुद्ध‍अत्तणं पवणसुओ ।  
@@ -3691,6 +3870,7 @@ Hanumān, son of the wind- God, having accomplished his task does not relish any
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिब्भच्छिओअहिरवं पुडिआहरणिव्वडन्तदाढाहीरम् ।  
@@ -3710,6 +3890,7 @@ Sugrīva laughs threatening the roar of the ocean with his sparkling lower lip r
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि सुमित्तातणओ आसङ्घन्तो गुरुस्स णिअ‍अं च बलम् ।  
@@ -3729,6 +3910,7 @@ Lakṣmaṇa, son of Sumitrā, having taken into account his and his elder broth
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रहुणाहस्स‍ वि दिट्ठी वाणरव‍इणो फुरन्तविद्दुम‍अम्बम् ।  
@@ -3751,6 +3933,7 @@ Rāma’s gaze moved to the face of Sugrīva, which was reddish like a sparkling
 तो व‍अपरिणामोण‍अभुम‍आवलिरुब्भमाणदिट्ठिच्छेहो ।  
 आसण्णधवलमिहिआपरिक्खलन्तोसहिप्पहो व्व महिहरो ।। ४-१७ ॥
 
+_________
 <details open><summary>मूलम्</summary>
 
 करवारिअक‍इलो‍ओ सुग्गीववि‍इण्णभासुरच्छिच्छेहो ।  
@@ -3758,6 +3941,7 @@ Rāma’s gaze moved to the face of Sugrīva, which was reddish like a sparkling
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जम्प‍इ रिच्छाहिव‍ई उण्णामेऊण महिअलद्धन्तणिहम् ।  
@@ -3783,6 +3967,7 @@ Then Jāmbavān, Chief of bears, speaks thrusting forward his chest, which was a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सग्गं अपारिजा‍अं कोत्थुहलच्छिरहिअं महुमहस्स उरम् ।  
@@ -3802,6 +3987,7 @@ I remember (the time), before the churning of the ocean when there was no Pārij
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 महुमहहत्थम्मि मए णक्खुक्खुडिअसरसं महासुरहिअ‍अम् ।  
@@ -3821,6 +4007,7 @@ When Lord Narasimha held in his hand the bloody heart of Hiraṇyakaśipu after 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं च हिरण्णक्खस्स वि सुमिरामि महावराहदाढाभिण्णम् ।  
@@ -3840,6 +4027,7 @@ I remember the chest of Hiraṇyākṣa, cut asunder by the canine teeth of the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धीरं हर‍इ विसा‍ओ विण‍अं जोव्वणमओ अणङ्गो लज्जम् ।  
@@ -3859,6 +4047,7 @@ Grief comes in the way of fearlessness; the intoxication of youth kills humility
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अणुहूअमुणेअव्व विहडिअविसमक्खरे वि सम्पडिअत्थे ।  
@@ -3878,6 +4067,7 @@ Do not make fun of the words of the elderly. Although they may be unclear due to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तुज्झ भुआसु णिसण्णो हरिसत्थो पव्वलो सुराण वि समरे ।  
@@ -3897,6 +4087,7 @@ The group of monkeys whose burden is on your shoulders is stronger than the Sura
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किं उण दुप्परिअल्ला मज्जा‍आ‍इक्कमुप्पहवलिज्जन्ता ।  
@@ -3916,6 +4107,7 @@ What ~~to say~~ can we say of discussions on activity, which are suffering from 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पच्चक्खा हि परोक्खं कह वि तुलग्गघडिआहि आगमसुद्धम् ।  
@@ -3935,6 +4127,7 @@ My knowledge which is pure due to being based on scriptures and which is stable 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जं साहेन्ति समत्था समसारपरक्कमा ण तं णिव्वडिआ ।  
@@ -3954,6 +4147,7 @@ Whatever equal strength and valour can achieve together cannot be achieved if th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओवग्ग‍इ अहिमाणं पडिवक्खस्स वि ण तारिसं देइ भ‍अम् ।  
@@ -3973,6 +4167,7 @@ Enthusiasm applied under inappropriate circumstances goes against one's pride an
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णेअ तुमे मोत्तव्वं सुहू वि तुरिएण धीर पत्थिव चरिअम् ।  
@@ -3992,6 +4187,7 @@ O brave Sugrīva! By being hasty, you would be going against the proper conduct 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किं अ‍इराएण इमा अमग्गसमरसुहचिन्तिअकहाहि क‍आ ।  
@@ -4011,6 +4207,7 @@ Goddess of Victory may get disinterested in you if you display your vanity throu
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मा रज्जह रहस च्चिअ चन्दस्स वि दाव कुमुअवणणिप्फण्णो ।  
@@ -4030,6 +4227,7 @@ Do not indulge solely in haste. The fame of Moon arising solely out of its benef
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किं अप्पणा परिअणो परस्स ओ परिअणेण दे पडिवक्खो ।  
@@ -4049,6 +4247,7 @@ Should one personally attack the followers of the opponent or should one’s fol
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हणुमन्ता‍इसएणं हणुमन्तमुहाण वाणराण अ व‍इणा ।  
@@ -4068,6 +4267,7 @@ O brave one! Do you, being the leader of chief monkeys like Hanumān, have to ac
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कह तम्मि वि लाइज्ज‍इ जम्मि अ‍इण्णप्फला अदूरपसरिआ ।  
@@ -4082,6 +4282,7 @@ O brave one! Do you, being the leader of chief monkeys like Hanumān, have to ac
 
 How can an order be given to a person by whom a job entrusted (earlier) did not yield far reaching results? A creeper seeks another tree again if the tree which it had entwined falls down.
 
+_________
 <details open><summary>मूलम्</summary>
 
 हन्तुं विमग्गमाणो हन्तुं तुरिअस्स अप्पणा दहव‍अणम् ।  
@@ -4101,6 +4302,7 @@ O Chief of monkeys! In your desire to do something to please Rāma why do you wa
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ णिअमिअसुग्गीवो रामन्तेण वलिओ पिआमहतण‍ओ ।  
@@ -4120,6 +4322,7 @@ Having thus restrained Sugrīva, Jāmbavān son of Brahma moved away from Rāma�
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जप्प‍इ अ किरणपम्हलफुरन्तदन्तप्पहाणिहाओत्थ‍इअम् ।  
@@ -4139,6 +4342,7 @@ Jāmbavān speaks to Rāma while his face, bent low with humility, is illuminate
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रक्खिज्ज‍इ तेल्लोक्कं पल‍असमुद्दविहुरा धरिज्ज‍इ वसुहा ।  
@@ -4158,6 +4362,7 @@ You are the protector of the three worlds. You bear the burden of this Earth at 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धणुवावारस्स रणे कुविअक‍अन्तणिमिसन्तरणिहस्स तुहम् ।  
@@ -4177,6 +4382,7 @@ As you destroy the enemies within a blink of your getting angry, there is no nee
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिब्बुब्भ‍इ पल‍अभरो तीर‍इ वलवामुहाणलो वि विसहिउम् ।  
@@ -4196,6 +4402,7 @@ The courage endowed to the ocean by Rāma (as Viṣṇu) enables the ocean to wi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो पा‍अडदोव्वल्लं पम्हट्ठपिआप‍ओहरफरिससुहम् ।  
@@ -4203,6 +4410,7 @@ The courage endowed to the ocean by Rāma (as Viṣṇu) enables the ocean to wi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उअहिस्स जसेण जसं धीरं धीरेण गरुअ‍आ‍इ गरुअ‍अम् ।  
@@ -4225,6 +4433,7 @@ Then Rāma, who outperformed the ocean in matters of fame, courage, heaviness, s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दुत्तारम्मि समुद्दे क‍इलोए विमुहिए ममम्मि विसण्णे ।  
@@ -4240,6 +4449,7 @@ Then Rāma, who outperformed the ocean in matters of fame, courage, heaviness, s
 
 “O Chief of the monkeys! While the monkeys are dismayed about the un-negotiable ocean and I am feeling dejected, the responsibility of crossing the ocean, although quite difficult to carry out, falls on you.
 
+_________
 <details open><summary>मूलम्</summary>
 
 धीराहि सारगरुअं अलङ्घणिज्जाहि सास‍असमुज्जोअम् ।  
@@ -4261,6 +4471,7 @@ Words as weighty as that of an ocean and which bring permanent fame have dazzled
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जत्थ परमत्थगरुआ ण होन्ति तुम्हारिसा थिरववट्ठम्भा ।  
@@ -4280,6 +4491,7 @@ The responsibility of accomplishing a job gets weakened in the absence of people
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पडिवत्तिमेत्तसारं कज्जं थोआवसेसिअं मारुइणा ।  
@@ -4299,6 +4511,7 @@ With Hanumān having accomplished the essential job of locating Sītā leaving a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ता सव्वे च्चिअ सम‍अं दुत्तारं पि हणुमन्तसुहवोलीणम् ।  
@@ -4318,6 +4531,7 @@ Let us all together request the ocean, the abode of crocodiles, which (in the pa
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह णिक्कारणगहिअं मए वि अब्भत्थिओ ण मोच्छिहि धीरम् ।  
@@ -4337,6 +4551,7 @@ If the ocean does not overcome its unjustified courage (in not acceding to my re
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जत्थ महं पडिउत्थो वसिहि‍इ अण्णस्स कह तहिं चिअ रोसो ।  
@@ -4356,6 +4571,7 @@ How can someone else’s anger dwell on a thing where my anger has dwelt? When a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ताव अ सहसुप्पण्णा णवा‍अवालिद्धकसणमिहिआ‍अम्बा ।  
@@ -4375,6 +4591,7 @@ In the meantime, shadow-like forms of rākṣasas suddenly started to appear wit
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो गमणवेअमारुअमुहलपडद्धन्तणहणिरा‍इअजलए ।  
@@ -4397,6 +4614,7 @@ Then they saw rākṣasas who had cut asunder the clouds by their garments which
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो णह‍अलावडन्त पल‍उप्पा‍अ व्व णिसिअरे अहिलेउम् ।  
@@ -4416,6 +4634,7 @@ The army of monkeys moved lifting mountain peaks as if the Earth itself had move
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओसुम्मन्तजलहरं विसमट्ठिअक‍इबलवलन्तालोअम् ।  
@@ -4435,6 +4654,7 @@ With clouds being felled down while the monkeys ~~placed~~ which were situated a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि अ लङ्कादिट्ठो दिट्ठसहाओ विहीसणो मारुइणा ।  
@@ -4454,6 +4674,7 @@ Then Hanumān who had seen Vibhīṣaṇa in Laṅkā and whose nature he was aw
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चलणोण‍अणिहुअस्स अ माणेण व कर‍अलेण से रहुव‍इणा ।  
@@ -4473,6 +4694,7 @@ While Rāma lifted by his palm the head of Vibhīṣaṇa who had bowed to his f
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ववसिअणिवेइअत्थो सो मारुइलद्धपच्च‍आगाहरिसम् ।  
@@ -4492,6 +4714,7 @@ Vibhīṣaṇa, after having been informed of the purpose of Rāma’s endeavour
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो जम्पइ रहुतणओ सम‍अं दससु दिसामुहेसु किरन्तो ।  
@@ -4511,6 +4734,7 @@ Then Rāma speaks spreading the radiance of his teeth in all the ten directions 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ठाणं दवग्गिभीआ वणम्मि वणहत्थिणि व्व परिमग्गन्ती ।  
@@ -4530,6 +4754,7 @@ Look, Goddess of royalty- Rājyalakṣmī- after having tasted the comforts does
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णज्ज‍इ विहीसण तुहं सोम्मसहावपरिवड्ढिअं विण्णाणम् ।  
@@ -4549,6 +4774,7 @@ O Vibhīṣaṇa! I find your wisdom nurtured by your gentle nature unaffected b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सुद्धसहावेण फुडं फुरन्तपज्जत्तगुणमहूहेण तुमे ।  
@@ -4570,6 +4796,7 @@ The family of Rākṣasas has been clearly enriched by your shining qualities ju
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कह इर सकज्जकुसला कज्जग‍इं म‍इगुणेहि अवलम्बन्ता ।  
@@ -4589,6 +4816,7 @@ How can good people who are experts in their duties, who make the progress of wo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 लद्धासा‍एण चिरं सुरबन्दिपरिग्गहे णिसारव‍इणा ।  
@@ -4608,6 +4836,7 @@ Sītā has been brought to the abode of rākṣasas by the chief of rākṣasas 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 फिडिआ  सुरसंखोहा बन्दिअणक्कन्दिअं ग‍अं परिणामम् ।  
@@ -4627,6 +4856,7 @@ The torment experienced by Suras is going away; the cries of the imprisoned wome
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह णहणेसु पहरिसं कण्णेसु पवङ्घवड्ढिअं ज‍असद्दम् ।  
@@ -4670,6 +4900,7 @@ Thus ends the fourth canto of the great epic, “Killing of the ten-headed” wr
 
 पञ्चम आश्वासकः (Canto-5)
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह जलणिहिम्मि अहिअं म‍अणे अ मिअङ्कदंसणविअम्भन्ते ।  
@@ -4689,6 +4920,7 @@ As the ocean along with the cupid expanded with the sighting of the Moon, even n
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उइअमिअङ्कं च णहं णिअमट्ठिअराहवं च सा‍अरपुलिणम् ।  
@@ -4708,6 +4940,7 @@ The sky where the Moon has risen and the sands of the seashore where Rāma is pe
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो से विओअसुलहा णिअमविइण्णहिअ‍अक्खिवणसोडीरा ।  
@@ -4727,6 +4960,7 @@ The distractions caused by sorrow  which come easily to the love-afflicted and w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 काहि‍इ पिअं समुद्दो गलिहि‍इ चन्दा‍अवो समप्पिहि‍इ णिसा ।  
@@ -4746,6 +4980,7 @@ Will the ocean do what I wish for? Will the heat of moonlight reduce? Will the n
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिन्द‍इ मिअङ्ककिरणे खिज्ज‍इ कुसुमा‍उहे जुडच्छ‍इ र‍अणिम् ।  
@@ -4765,6 +5000,7 @@ Will the ocean do what I wish for? Will the heat of moonlight reduce? Will the n
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 एत्तो वस‍इत्ति दिसा एणं सा णूण णिन्द‍इ त्ति मिअङ्को ।  
@@ -4784,6 +5020,7 @@ To Rāma the south direction becomes adorable as her (Sītā’s) place of livin
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धीरेण णिसा‍आमा हिअएण समं अणिट्ठिआ उवएसा ।  
@@ -4803,6 +5040,7 @@ His courage diminishes along with the hours of the night; his heart gets weakene
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धीरेत्ति संठविज्ज‍इ मुच्छिज्ज‍इ म‍अणपेलवेत्ति गणेन्तो ।  
@@ -4822,6 +5060,7 @@ He feels courageous in the hope that she is courageous; he swoons thinking that 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उब्भडहरिणकलङ्को मल‍अल‍आपपल्लवुव्वमन्तम‍ऊहो ।  
@@ -4841,6 +5080,7 @@ He found only the exalted deer-marked Moon to be pleasant as it had surrendered 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जह जह णिसा समप्प‍इ तह तह वेविरतरङ्गपडिमावडिअम् ।  
@@ -4860,6 +5100,7 @@ As the night comes to a close, the reflected Moon in the ocean trembles as if it
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि अ मल‍अगुहामुहभरिउव्वरिअफुडणीहरन्तपडिरवम् ।  
@@ -4879,6 +5120,7 @@ Then the roar of the waters of the ocean reverberating in the caves of the Malay
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हंस‍उलसद्दमुहलं उग्घाडिज्जन्तदसदिसावित्थारम् ।  
@@ -4898,6 +5140,7 @@ The morning revealed itself spreading in all directions like the sand banks of t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह गमिअणिसासम‍अं गम्भीरत्तणदढट्टिअम्मि समुद्दे ।  
@@ -4917,6 +5160,7 @@ With the night receding while the ocean continued to be steady and deep, anger s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो से तमालणीलं णिडालवट्टं पलोट्टसेअ‍अजलल‍अम् ।  
@@ -4936,6 +5180,7 @@ Then the eyebrows stuck skewed on the steady and broad forehead of Rāma which w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह जणिअभिउडिभङ्गं जा‍अं धणुहुत्तवलिअलोअणजुअलम् ।  
@@ -4955,6 +5200,7 @@ Rāma with his eyebrows screwed up and his face shaking due to anger and his loc
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पण‍अपडिभङ्घविमणो थोअत्थोअपडिवड्ढिआमरिसरसो ।  
@@ -4974,6 +5220,7 @@ Feeling disappointed with the refusal of the ocean to extend friendship and stea
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो साहसणिम्माणं अमित्तदीसन्तलच्छिसंकेअहरम् ।  
@@ -4993,6 +5240,7 @@ Then Rāma holds the bow which promotes daring, which is looked upon by the enem
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अक्कन्डधणुभरोणाधरणिअलत्थलपलोट्टजलपब्भारो ।  
@@ -5012,6 +5260,7 @@ The ocean became suspicious (of Rāma’s impending act) evidenced by the mass o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धूमा‍इ धूमकलुसे जल‍इ जलन्तारुहन्तजीआबन्धे ।  
@@ -5031,6 +5280,7 @@ The bow which had become dark due to smoke and whose top was roaring and whose s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भिज्ज‍इ महि त्ति व फुडं णत्थि समुद्दो त्ति दारुणं व प‍इण्णम् ।  
@@ -5052,6 +5302,7 @@ The bow was loosened (from its resting place) by Rāma after clearly weighing th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो चिरविओ‍अतणुओ स‍इ बाहोसट्ठम‍उअजीआघा‍ओ ।  
@@ -5071,6 +5322,7 @@ His left shoulder which had become thin due to long separation and whose point o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह वामभुअप्फालणपडिरवपडिउण्णदसदिसवित्थारम् ।  
@@ -5090,6 +5342,7 @@ The universe which was reverberating in all ten directions with the echoes of th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गेण्ह‍इ अ सो अणा‍अरपरम्मुहपसारिअग्गहत्थावडिअम् ।  
@@ -5111,6 +5364,7 @@ The universe which was reverberating in all ten directions with the echoes of th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो संधन्तेण सरं रसन्तरोलुग्गभिउडिभङ्गेण चिरम् ।  
@@ -5130,6 +5384,7 @@ After fixing the arrow to the bow, Rāma with his eye brows contorted due to cha
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह कड्ढिउं प‍उत्तो णिक्कम्पणिरा‍अदिट्ठिसच्चविअसरम् ।  
@@ -5149,6 +5404,7 @@ Rāma whose sight was fixed unwaveringly on the arrow began to stretch the bow w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सरमुहविसमप्फलिआ णमन्तधनुकोडिविप्फुरन्तच्छाया ।  
@@ -5168,6 +5424,7 @@ Rāma whose sight was fixed unwaveringly on the arrow began to stretch the bow w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 फुडजीआरवमुहलंतज्जेइ व बाणमुहजलन्तग्गिसिहम् ।  
@@ -5187,6 +5444,7 @@ The bow stretched up to the ear looked as if it was yawning after waking up to d
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खहिअ‍अलसिट्ठसारो मुहणिद्धाविअपसारिउक्काणिवहो ।  
@@ -5206,6 +5464,7 @@ It can be known that the arrow has fallen into the ocean just by the fact that t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धुअविज्जुपिङ्गला‍इं सरमुहणिग्गिण्णहुअवहपलित्ता‍इम् ।  
@@ -5225,6 +5484,7 @@ The groups of clouds in the (four) directions which burst into view with reddish
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो मुहरहसा‍अड्ढिअधणुवट्ठप्फुलिअबहलधूमुप्पीडम् ।  
@@ -5244,6 +5504,7 @@ Then (Rāma) launches the arrow, from the tip of which, fire emanates shaming th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सो जलिऊण णह‍अले सलिलद्धत्थमिअहुअवहाअम्बमुहो ।  
@@ -5263,6 +5524,7 @@ The arrow, with its tip slightly coppery due to the fire as it partially dropped
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ग‍अणे विज्जुणिहा‍ओ ख‍अन्तकालाणलो समुद्दुच्छङ्गे ।  
@@ -5282,6 +5544,7 @@ Rāma’s arrow as it falls acts like a lightning strike in the sky, like the fi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तस्स अ मग्गालग्गा अ‍इन्ति णिद्धूमजलण‍अम्बच्छाया ।  
@@ -5301,6 +5564,7 @@ Smokeless coppery sparks which got generated in its path due to the force of the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि अ सर्णिब्भिण्णो बल‍आमुहविहुअकेसरसडुग्घाओ ।  
@@ -5320,6 +5584,7 @@ Then the ocean hit by the arrow burst forth with a roar like a fearless sleeping
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दूराइद्धणिअत्ते समुहाग‍अबहलसरणिहा‍अक्खुडिए ।  
@@ -5339,6 +5604,7 @@ The sky seemed to be split asunder by the sheet of oceanic water that rose high 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 र‍अणा‍अरपरभाए मज्झच्छिण्णम्मि बाणघा‍उक्खित्ते ।  
@@ -5358,6 +5624,7 @@ With the distant part of the ocean having been cut in the centre and raised by t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भिण्णगिरिधा‍उअम्बा विसमच्छिण्णप्पवन्तमहिहरवक्खा ।  
@@ -5377,6 +5644,7 @@ Spaces of the ocean the depth of which extended up to the nether world were in t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आ‍अम्बरविअराह‍अदरविहडिअधवलकमलम‍उलच्छा‍अम् ।  
@@ -5396,6 +5664,7 @@ Many conch shells were split open by the arrow which, with their white innards u
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बेवन्ति विहुअमच्छा सरघा‍उक्खुडिअम‍अरदाढाधवला ।  
@@ -5415,6 +5684,7 @@ Waters of the ocean which are white due to the broken teeth of aquatic animals s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 फुट्टन्तविद्दुमवणं संखोहुव्वत्तणिन्तर‍अणम‍ऊहम् ।  
@@ -5434,6 +5704,7 @@ Waters of the ocean are roiling; they splash against the shores; coral reefs are
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलपव्वाडिअमुक्का खणमेत्त‍त्थ‍इअपा‍अडिअवित्थारा ।  
@@ -5453,6 +5724,7 @@ Whirlpools which are carried away (due to the force of the arrow’s onslaught) 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बलमाणुव्वत्तन्तो एक्कं चिर‍आलपीडिअं सिडिलेन्तो ।  
@@ -5472,6 +5744,7 @@ The ocean is so agitated that it looks like replacing the bottom half resting on
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सरवेअगलत्थल्लिअसुवेलरुब्भन्तसा‍अरद्धत्थ‍इअम् ।  
@@ -5491,6 +5764,7 @@ The sky looks as if half of it has been cut off with the southern direction havi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आ‍इवराहेण वि जे अद्दिट्ठा मन्दरेण वि अणालिद्धा ।  
@@ -5510,6 +5784,7 @@ Fearful ocean spaces which had not been seen by the primordial boar and which ha
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 एकेक्कम्मि वलन्तो बाणप्पहरविवरे णिहणिरालम्बे ।  
@@ -5529,6 +5804,7 @@ The ocean is falling into each one of the voids which are created by the arrow-s
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति दिट्ठमहणा पुट्ठिपडिट्ठिअपलोट्टमन्दरसिहरा ।  
@@ -5548,6 +5824,7 @@ Large fish (whales) which are seen to churn (the ocean), on the backs of which M
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उक्खित्तमहावत्ता दरदट्ठविवण्णविद्दुमर‍अक्ख‍उरा ।  
@@ -5567,6 +5844,7 @@ The paths of exhalation of great serpents which are a little muddy due to the du
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेव‍इ पेम्मणिअलिअं सरसंदट्ठधणिओवऊहणसुहिअम् ।  
@@ -5586,6 +5864,7 @@ Pairs of serpents full of mutual love are seen quivering feeling pleasure at the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मोडिअविद्दुमविडवा धावन्ति जलम्मि मणिणिहंसणणिसिआ ।  
@@ -5605,6 +5884,7 @@ The arrows of Rāma getting sharpened by colliding with gems and stuck by heavy 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विसवेवो व्व पसरिओ जं जं अहिलेइ बहलधूमुप्पीडो ।  
@@ -5624,6 +5904,7 @@ The thick smoke (caused by striking of Rāma’s arrow) spreading speedily like 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खुहिअसमुद्दुप्प‍इआ बाणुक्कित्तपडिएक्कवित्थ‍अवक्खा ।  
@@ -5643,6 +5924,7 @@ Mountains which jumped out of the agitated ocean with one of their spread wings 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 छिण्णविव‍इण्णभोआ कण्डपडिट्ठविअजीविआग‍अरोसा ।  
@@ -5662,6 +5944,7 @@ Serpents breath their last with their hoods cut asunder and scattered all over (
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आऊरेइ रसन्तो उक्खडिअभुअंगभोअपब्भाराइं ।  
@@ -5681,6 +5964,7 @@ Fire (emanating from Rāma’s arrows) roars as it fills up the void caused by d
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भिण्णुव्वूढजल‍अरा दरदिण्णमहातरंगगिरिअडघा‍आ ।  
@@ -5700,6 +5984,7 @@ Large waves which splash against mountains on the shores are caused by the bludg
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जालालोअविमुहिअं सलिलतरङ्गपरिसक्कणपरिक्खलिअम् ।  
@@ -5719,6 +6004,7 @@ Shoals of fish leave the coral trees getting stupefied by the flames and displac
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उव्वत्तोअरधवला दरणिग्ग‍अडड्ढजमलजीहाणिवहा ।  
@@ -5738,6 +6024,7 @@ Serpents which have turned turtle (due to the impact of Rāma’s arrows) showin
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति दरुत्तिण्णा हुआसणुत्तत्तवा‍अम‍अनीसन्दा ।  
@@ -5757,6 +6044,7 @@ Sea-elephants whose ichor flows have dried up due to the heat of the fire (due t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 घोल‍इ घ‍ओणीअत्तं विसमट्ठिअमणिसिला‍आलपलोट्टन्तम् ।  
@@ -5776,6 +6064,7 @@ Conch shells perturbed by the decreasing levels of water and eager to move to th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मुक्कसमुद्दुच्छङ्गा पक्खक्खेवेहिञ् संभमसमुप्प‍इआ ।  
@@ -5795,6 +6084,7 @@ Mountains (having wings) which have flown up due to the commotion and have deser
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहलुव्वत्तभुअंगा छिण्णमहासुरसिरुप्प‍अणगम्भीरा ।  
@@ -5814,6 +6104,7 @@ Mountains (having wings) which have flown up due to the commotion and have deser
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बाणनिहा‍उच्छित्ता हुअवहजालाह‍उप्पवन्तप्फेणा ।  
@@ -5833,6 +6124,7 @@ Waves which have risen as a consequence of the striking of Rāma’s arrows  and
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिव्वूढविसत्थ‍व‍आ भोआ‍अड्ढणगलन्तगमणुच्छाहा ।  
@@ -5852,6 +6144,7 @@ Snakes with their poison glands thrust out which have been thrown up by the huge
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेवन्ति णिण्ण‍आणं सरणिवहच्छिण्णसङ्खविहडिअवल‍आ ।  
@@ -5871,6 +6164,7 @@ As the waves in the rivers tremble (due to the force of the arrows) it looks as 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हुअवहभरिअणिअम्बा जल‍अरसंदट्टवक्ख‍उडपब्भाराः ।  
@@ -5890,6 +6184,7 @@ Mountains in the ocean with their ridges burnt by fires (caused by the arrows) j
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जल‍इ जलन्तजल‍अरं भम‍इ भमन्तमणिविद्दुमल‍आजालम् ।  
@@ -5909,6 +6204,7 @@ The ocean looks burning as the marine-creatures burn; it looks whirling along wi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आवत्तविवरभमिरो मल‍अमणिसिला‍अलक्खलिअसंचारो ।  
@@ -5927,6 +6223,7 @@ The fire (caused by Rāma’s arrows) revolves in the depressions of whirlpools;
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रहसपलित्तुच्छलिओ जे च्चिअ पडिवेइ मल‍अवणवित्थारे ।  
@@ -5946,6 +6243,7 @@ The expanses of Malaya forest which get kindled by the swift arrows again get sm
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उत्थम्भिअम‍अरहरो म‍अरवसामिसविसङ्खलसिहाणिवहो ।  
@@ -5965,6 +6263,7 @@ The fire (caused by the arrows) has raised the ocean; fire in turn is uncontroll
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलणुत्थङ्घिअमूला वाणुक्खित्तपडिअत्तपणिसुब्भन्ता ।  
@@ -5984,6 +6283,7 @@ Gushing volume of water thrown up by the (heat) of fire sent up further by the a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धूमा‍इ जल‍इ विहड‍इ ठाणं सिढिलेइ मल‍इ मल‍उच्छङ्गम् ।  
@@ -6000,6 +6300,7 @@ Gushing volume of water thrown up by the (heat) of fire sent up further by the a
 
 The ocean fumes, then burns, loosens its position and presses against the slopes of Malaya Mountain; it however does not transcend its dignity as a first mark of its courage.
 
+_________
 <details open><summary>मूलम्</summary>
 
 भुव‍इन्दलो‍अणाणं फुट्टन्ताण अ तिमीण साअरमज्झे ।  
@@ -6019,6 +6320,7 @@ The sound of fish and the sound of the eyes of kingly serpents exploding in the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मुहपञ्जिअग्गिणिवहा धूमसिहाणिहणिरा‍अ‍अड्ढिअसलिला ।  
@@ -6038,6 +6340,7 @@ Streams of rivers thrown up (by the fire of arrows) with their fronts fired-up a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अट्टन्तसलिलणिवहो धोअत्थोअपडिमुक्कपुलिणुच्छङ्गो ।  
@@ -6057,6 +6360,7 @@ It looks as if the ocean, waters of which are drying up and which is leaving the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलणणिवहम्मि सलिलं साणलणिवहुच्छलन्तसलिलम्मि णहम् ।  
@@ -6076,6 +6380,7 @@ Water vanishes in the clusters of fire; the sky vanishes in the water raised by 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सिहिणा प‍अविज्जन्ते आ‍अट्टन्तम्मि वित्थ‍ए जलणिवहे ।  
@@ -6095,6 +6400,7 @@ The waves of the ocean become tardy like the movement of the Sun during summer a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिव्वडिअधूमणिवहो उद्धाइअमरग‍अप्पहामिलिअसिहो ।  
@@ -6114,6 +6420,7 @@ Fire revolves in the vast expanse of the ocean with its plume looking like the l
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जल‍इ वलवाणलो विअ फुट्ट‍इ सेलो व्व रामबाणाहिह‍ओ ।  
@@ -6133,6 +6440,7 @@ The ocean agitated by the assault of Rāma’s arrows burns like Vaḍavā fire,
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 होइ थिमिअम्मि थिमिओ वल‍इ वलन्तम्मि विहड‍इ विसंघडिए ।  
@@ -6152,6 +6460,7 @@ Fire becomes calm when the waters of the ocean calm down; revolves where water i
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रामसराणलप‍अविअझिज्जन्तो‍अहिवित्ततडविच्छेआ ।  
@@ -6171,6 +6480,7 @@ Chains of islands look raised and enlarged due to water getting dried up, showin
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ दाविअपा‍आलं जलणसिहावट्टमाणजलसंघा‍अम् ।  
@@ -6190,6 +6500,7 @@ Thus Rāma destroys the ocean revealing the netherworld, with mass of water gett
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलपब्भारपलोट्टिअभमन्तसङ्ख‍उलविहलमुक्ककन्दम् ।  
@@ -6209,6 +6520,7 @@ The conch-shell creatures in the ocean were crying in agony rolling on the seash
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 झिज्जन्तजलालोइअकिरणमुणिज्जन्तर‍अणपव्व‍असिहरम् ।  
@@ -6228,6 +6540,7 @@ With the water level receding, the peaks of gem-laden peaks of submerged mountai
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 साणलसरणिद्दारिअसकेसरुज्जलिअसीहम‍अरवक्खन्धम् ।  
@@ -6247,6 +6560,7 @@ The shoulders of sea-lions with their manes got burnt by the fire-laden arrows (
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धुअपव्व‍असिहरपडन्तमणिसिलाभग्गविद्दुमल‍आवेढम् ।  
@@ -6266,6 +6580,7 @@ The coral mass was broken by the gemstones falling from the peaks of mountains (
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रुन्दावत्तपहोलिरवेलावडिएक्कमेक्कभिण्णमहिहरम् ।  
@@ -6285,6 +6600,7 @@ The mighty waves (caused by the arrows) swirled the oceanic mountains which brok
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पक्खपरिरक्खणुट्ठिअसरणिवहाह‍अदिसाप‍इण्णमहिहरम् ।  
@@ -6304,6 +6620,7 @@ Submerged mountains flew up trying to avoid their wings being cut (by Rāma’s 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हुअवहपडित्तगोविअणिअण‍अणुम्हाविअण्ठुलमहग्गाहम् ।  
@@ -6343,6 +6660,7 @@ Large crocodiles affected by the fire were getting confused closing their eyes t
 
 षष्ठ आश्वासकः (Canto-6)
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह णिग्गओ जलन्तं दरडड्ढमहाभुअंगपा‍अवणिवहम् ।  
@@ -6362,6 +6680,7 @@ The ocean (in human form) looking like the Earth-bearing elephant came out leavi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मन्दरदडपरिमट्ठं पल‍अविअम्भिअवराहदाढुल्लिहिअम् ।  
@@ -6381,6 +6700,7 @@ The chest of Ocean-god, which had been firmly rubbed by the Mandara Mountain (at
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गम्भीरवणाहोए दीहे देहसरिसे भुए वहमाणो ।  
@@ -6400,6 +6720,7 @@ The two shoulders of the Ocean-god were long and broad just like his body and ha
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 लहुइअकोत्थुअविरहं मन्दरगिरिमहणसंभमे वि अमुक्कम् ।  
@@ -6419,6 +6740,7 @@ He wore a single string shining necklace which he did not take off even at the t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गरुअं उव्वहमाणो हत्थप्फसपडिसिद्धवणवेअल्लम् ।  
@@ -6440,6 +6762,7 @@ The left shoulder was heavy and the wound on it was being soothed by the touch o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आलीणो व रहुव‍इं णिअ‍अच्छाआणुलित्तमल‍अमणिसिलम् ।  
@@ -6459,6 +6782,7 @@ The Ocean-god neared tree-like Rāma whose lustre(shadow) had enveloped the gem-
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सरघा‍अरुहिरकुसुमो तिवह‍अवल्लीपिणद्धमणिर‍अणफलो ।  
@@ -6478,6 +6802,7 @@ He fell at the feet of Rāma like a tree felled by a strong gale with the blood 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पच्छा‍अ हित्थहिअ‍आ जत्तो च्चिअ णिग्ग‍आ विवह्लत्थमुद्दी ।  
@@ -6497,6 +6822,7 @@ Gaṅgā fell fearfully at the lotus-like red-tinged feet of Rāma, incarnation 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह म‍उअं पि भरसहं जम्प‍इ थोअं पि अत्थसारब्भहिअम् ।  
@@ -6516,6 +6842,7 @@ The Ocean-god speaks softly yet gravely, in a few words yet full of meaning, wit
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दुत्तारत्तणगरुइं थिरधीरपरिग्गहं तुमे च्चिअ ठविअम् ।  
@@ -6535,6 +6862,7 @@ I have somehow displeased you, thinking that it is to your liking only by being 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विअसन्तर‍अक्ख‍उरं म‍अरन्दरसुद्धुमा‍अमुहलमहुअरम् ।  
@@ -6556,6 +6884,7 @@ The season (spring) gives to trees blooming flowers which are dusty due to the p
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किं पम्हट्ट म्हि अहं तुह चलणुप्पण्णतिवह‍आपडिउण्णम् ।  
@@ -6575,6 +6904,7 @@ Have I forgotten that I, who was dried up at the time of the Great Annihilation 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चलणेहिञ् महुविरोहे दाढाघा‍एहिञ् धरणिवेढुद्धरणे ।  
@@ -6594,6 +6924,7 @@ I was stamped upon by your feet at the time of confrontation with Madhu demon an
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिअ‍आवत्थाहि वि मे एअं धीरेण विप्पिअं धीर क‍अम् ।  
@@ -6613,6 +6944,7 @@ What I did with courage because of my nature resulted in it being unpalatable to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 एअं तुह एआरिससुरकज्जसहस्सखेअवीसामसहम् ।  
@@ -6632,6 +6964,7 @@ Please protect this mass of water which is capable of offering solace to the dis
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अपरिट्ठिअमूल‍अलं जत्तो गम्म‍इ तहिं दलन्तमहिअलम् ।  
@@ -6651,6 +6984,7 @@ Even if the water is destroyed, the netherworld (which supports the ocean) is di
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं कालस्स णिसम्म‍उ कह वि दरुक्कित्तदसमकण्ठक्खलिअम् ।  
@@ -6670,6 +7004,7 @@ With the building of a bridge accomplished, let the foot of the God of death res
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह ज‍अदुप्परिअल्ले दहमुहकुविएण पव‍अ‍इपच्चक्खम् ।  
@@ -6677,6 +7012,7 @@ With the building of a bridge accomplished, let the foot of the God of death res
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पवाअहिव‍इवि‍इण्णा रामाणन्ती पवंगमेसु विलग्गा ।  
@@ -6699,6 +7035,7 @@ Rāma angered by Rāvaṇa calmed down the uncrossable ocean by restraining it t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो हरिसपढमतुलिए चलिआ फुट्टन्तपम्हविसमूससिए ।  
@@ -6718,6 +7055,7 @@ Then the monkeys started moving tossing their manes first lifted up by joy and t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पव‍अक्खोहिअमहिअलधुअमलपडन्तसिहरमुक्ककल‍अलो ।  
@@ -6737,6 +7075,7 @@ The ocean became turbulent as a result of the peaks of Malaya Mountain falling i
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कम्प‍इ महेन्दसेलो हरिसंखोहेण दल‍इ मेइणिवेढम् ।  
@@ -6756,6 +7095,7 @@ Due to the commotion of monkeys Mahendra Mountain shakes and the Earth breaks; o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो संचालिअसेलं कह वि तुलग्गेण समघडन्तकम्पम् ।  
@@ -6775,6 +7115,7 @@ Then the army of monkeys, with soil stuck in their nails, jumped up together as 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उप्प‍अणोण‍अमहिअलण‍इमुहपडिसोत्तपत्थिओ सलिलणिही ।  
@@ -6794,6 +7135,7 @@ As the monkeys jump up, the Earth gets depressed as a result of which the ocean 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 फुरमाण‍अलणपिङ्गलणिरन्तरुप्प‍इअपव‍अ(बल)पेल्लिज्जन्तो ।  
@@ -6813,6 +7155,7 @@ The parts of the sky where monkeys which have the colour of shining fire jump up
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीस‍इ दूरुप्प‍इअं उअहिम्मि अहोमुहोसरन्तच्छा‍अम् ।  
@@ -6832,6 +7175,7 @@ As the army of monkeys jumped up to a great height, its shadow(reflection) in th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अदिट्टदिसाणिवहं जा‍अं पव‍अबलसंणिरुद्धालोअम् ।  
@@ -6851,6 +7195,7 @@ The sky became dark and directions became unrecognizable even during the morning
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओव‍इआ अ सरहसं तंसट्ठिअपुट्ठिणीसरन्तरविअरा ।  
@@ -6870,6 +7215,7 @@ The monkeys with (reflected) sunrays emanating from their backs  landed with for
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेओव‍इआण अ सिं जा‍अं दलिअमहिसंधिबन्धणमुक्कम् ।  
@@ -6889,6 +7235,7 @@ The mountains got dislocated from the Earth and were somehow being held firm by 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आढत्ता अ तुलेउं उरपडिअविसट्टगण्डखेलद्धन्ते ।  
@@ -6908,6 +7255,7 @@ As the monkeys started balancing the (boulders of) mountains on their chests, th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वच्छुत्तङ्घिअकडवा तो ते कड‍अपडिअट्टलिअवच्छ‍अडा ।  
@@ -6927,6 +7275,7 @@ When the monkeys raised the ridges of mountains with their chests, the ridges of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पव‍अभुअणोल्लिआणिअमहिहरपडिपेल्लणोण‍उण्णाविसमा ।  
@@ -6946,6 +7295,7 @@ As the monkeys pushed the rocks with their shoulders and brought them (near the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विसहिअवज्जप्पहरा उक्खम्भन्ति ख‍अमारुअपडिक्खम्भा ।  
@@ -6965,6 +7315,7 @@ Mountains which had borne the striking of Indra’s bolt, which were capable of 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलओवट्ठविमुक्का अणन्तरोइण्णसर‍अवन्थावडिआ ।  
@@ -6984,6 +7335,7 @@ Rained upon in rainy season and then exposed to the autumn, the mountains lifted
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहुणन्ति विहुव्वन्ता वलेन्ति सेला पवंगमवलिज्जन्ता ।  
@@ -7003,6 +7355,7 @@ The mountains shaken by the monkeys shake the ground; turned by the monkeys turn
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दलिअमहिवेढसिढिला मूलालग्गभुअ‍इन्दकड्ढिज्जन्ता ।  
@@ -7022,6 +7375,7 @@ Heavy mountains with their bonding to the ground loosened by the pull (exerted b
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवपल्लवसच्छा‍आ जलओअरसिसिरमारुअवि‍इज्जन्ता ।  
@@ -7041,6 +7395,7 @@ The trees of the Malaya Mountain having the lustre of new shoots and fanned by t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कम्पिज्जन्तधराहरसिहरसमा‍इड्ढजलधररवोद्विग्ना ।  
@@ -7060,6 +7415,7 @@ A female swan sitting on a lotus (in a pond) trembles not knowing the whereabout
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पवओवऊढकड्ढिअसेलब्भन्तरभमन्तविसमक्खलिआ ।  
@@ -7079,6 +7435,7 @@ Streams of rivers roar having been obstructed by the wide chests of monkeys whil
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अद्धुक्खित्तपसिढिले अद्धवहभुअंगकड्ढिअद्धत्थमिए ।  
@@ -7098,6 +7455,7 @@ The monkeys pull out mountains which come loose after being pulled partially whi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उव्वेल्ल‍इ व णिरा‍अं पासल्लन्तेसु सिहरपडिमुच्चन्तम् ।  
@@ -7117,6 +7475,7 @@ The sky becomes bright in places vacated by the peaks of mountains while they ar
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उम्मूलेन्ति पवंगा भुअसिहरारुहणणिच्चलपरिग्गहिए ।  
@@ -7138,6 +7497,7 @@ The monkeys pull up the mountains raising and holding them firm on shoulders whi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हरिभुजकड्डिअमुक्का भुअङ्गदढवेढणावलम्बणधरिआ ।  
@@ -7157,6 +7517,7 @@ Sandal wood trees which are firmly gripped by the serpents coiled around them be
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पडिसम‍इ णहणिबद्धो चिरेण भरिअब्भणा‍अगम्भीर‍अरो ।  
@@ -7176,6 +7537,7 @@ The reverberations in the sky of the sound of mountains breaking up are heard de
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पासल्लन्ति महिहरा जत्तोहुत्ता पवंगमभुअक्खित्ता ।  
@@ -7195,6 +7557,7 @@ In whichever direction the mountains, lifted up by the monkeys slope, the stream
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति पव‍अवलिआ आवत्तेसु व महोअहिस्स वलन्ता ।  
@@ -7214,6 +7577,7 @@ Mountains which are being spun(rotated) by the monkeys in the ocean come togethe
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 म‍अरन्दगरुअवक्खं पासोअल्लन्तवणलआविच्छूढम् ।  
@@ -7252,6 +7616,7 @@ With the waters of (mountain)streams jerked up, the lotus clusters in them which
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दढसंदाणिअमूला  वलन्ति वाणरभुआलम्बिअसिहरा ।  
@@ -7271,6 +7636,7 @@ Mountains, firmly cut asunder (by the monkeys) at their roots and whose peaks ar
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सरिआ सरन्तपवहा अण्णोण्णमहाण‍इप्पवह पह्लत्था ।  
@@ -7290,6 +7656,7 @@ The streams of rivers, with their waters getting muddied due to the agitation, g
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कड्ढिज्जन्ति समन्ता बिसमुव्वत्तन्तधवलकसणच्छाया ।  
@@ -7309,6 +7676,7 @@ Large snakes which are a mixture of black and white, which are being dragged all
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गल‍इ सरसं पि कुसुमं वा‍इ अणालिद्धबन्धणं पि किसल‍अम् ।  
@@ -7347,6 +7715,7 @@ In whichever direction entire mountains are pulled up, in that direction the gro
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 एकेक्केण अ सेलं कर‍अलजुअलधरिअं तुलन्तेण क‍अम् ।  
@@ -7366,6 +7735,7 @@ While monkeys pulled up mountains, one in each hand balancing both, half of the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सेलणिअम्बालग्गा पविरलण‍इमग्गपा‍अडतडच्छेआ ।  
@@ -7404,6 +7774,7 @@ Mountains move along with their caves; herds of elephants get separated half way
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पा‍अवसिहरुत्तिण्णो मल‍अवणपवित्तपवणर‍अवित्थरिओ ।  
@@ -7423,6 +7794,7 @@ Pollen of flowers, rising from the canopy of trees and spread by the speed of th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 कड्ढिममूलणिरन्तररसा‍अलिक्खित्तसलिलककद्दमघडिआ ।  
@@ -7461,6 +7833,7 @@ The peaks brought from the Mahendra Mountain have reached the skies; splintered 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सिहराण भुअसिरेहिं कड‍आण अ माविअं उरेहि पमाणम् ।  
@@ -7480,6 +7853,7 @@ The shoulder blades of monkeys were comparable to the peaks; their chests were c
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पडिसन्तकण्ण‍आलं ओवत्तमुहं पसाअरिओलुग्गकरम् ।  
@@ -7519,6 +7893,7 @@ Trees have been pulverized along with the crushed mountains and are strewn on th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 टुट्टन्ता वि ससद्दं पव‍अभुअक्खेवमूलवलिअद्धन्ता ।  
@@ -7538,6 +7913,7 @@ Snakes whose hoods look like goads due to the weight of the mountains are not aw
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दरदाविअपा‍आलं दर‍उक्खित्तविहलोसरन्तभुअंगम् ।  
@@ -7577,6 +7953,7 @@ When the mountains are getting agitated, shoals of fish with long eyes part from
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अद्धेअद्धप्फुडिआ अद्धेअद्धकद‍उक्ख६असिलावेढा ।  
@@ -7598,6 +7975,7 @@ Parts of peaks of mountains crushed by the monkeys while they try to balance on 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जस्स सिहरं विवज्ज‍इ पडिअं फुडिओ अ जो धरिज्ज‍इ सेलो ।  
@@ -7636,6 +8014,7 @@ Having been separated from the male leader of the herd, female elephants shed te
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सेलुद्धरणाअरोसिअभुअ‍इन्दणिरा‍अ‍अप्फणणिसम्मन्ती ।  
@@ -7655,6 +8034,7 @@ Resting on the raised hood of the Śeṣa snake as the mountains are being pulle
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 संचालिअणिकम्पा भुआणिहा‍अविसमुक्ख‍अविलावेडा ।  
@@ -7674,6 +8054,7 @@ Mountains which were shaken, although once unshakeable, and whose rocky surround
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उण्णामिअं मिव णहं दूरं ओसारिआ विव दिसाहोआ ।  
@@ -7693,6 +8074,7 @@ While the monkeys up-rooted the mountains, it looked as if, in the process, they
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीस‍इ क‍इणवहुक्ख‍अधराहरट्ठाणगहिरविवरुत्तिण्णो ।  
@@ -7712,6 +8094,7 @@ In the craters created by the up-rooting of mountains the lustre of the gems on 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 केलासरिट्ठसारं गरुअं पि भुआबलं णिसा‍अरव‍इणो ।  
@@ -7731,6 +8114,7 @@ With each one of the monkeys lifting a mountain in one hand, they belittled the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उक्ख‍अगिरिविवरोव‍इअदिण‍अराअवमिलन्ततमसंघातम् ।  
@@ -7750,6 +8134,7 @@ The netherworld became dusty and grey and sparsely dark as the Sun’s rays fell
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पवएहि अ णिरवेक्खं क‍ओ करन्तेहि गिरिसवासुद्धरणम् ।  
@@ -7769,6 +8154,7 @@ By up-rooting the Kailāsa Mountain, the abode of Śiva, carelessly, which other
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 होन्ति गरुआ वि लहुआ पवंगभुअसिहरणिमिअवित्थ‍अमूला ।  
@@ -7788,6 +8174,7 @@ Even the heavy mountains being lifted at the roots by the monkeys on their hands
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह वेपण पवंगा स‍अलं आ‍अड्ढिऊण महिहरणिवहम् ।  
@@ -7807,6 +8194,7 @@ Having gathered the mountains on their arms, monkeys jumped up with sounds of en
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 चडुलेहि णिप्प‍अप्पा उप्प‍इअव्वलहुएहि वित्थ‍अगरुआ ।  
@@ -7826,6 +8214,7 @@ Immobile mountains with heavy spreads were lifted up the sky in a concerted sing
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पव‍अक्कन्तविमुक्कं विसमुद्धप्फुडिअपत्थिअणिअत्तन्तम् ।  
@@ -7845,6 +8234,7 @@ The hollows created by the lifting of the mountains got filled up by the pieces 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हीरन्तमहिहराहिं म‍ईहि भ‍अहित्थपत्थिअणिअत्तन्तम् ।  
@@ -7866,6 +8256,7 @@ Forests on the mountains being lifted look beautiful with the frightened deer go
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उम्मूलिआण खुडिआ उक्खिप्पन्ताण उज्जुअं ओसरिआ ।  
@@ -7885,6 +8276,7 @@ River streams followed the fate of mountains; while mountains were being up-root
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उम्मुहसारङ्गहणं अप्फुन्द‍इ मलिअमेहसारं ग‍अणम् ।  
@@ -7904,6 +8296,7 @@ A group of mountains, where deer are looking up and in the caves of which birds 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अंसट्टविअमहिहरा उब्भिअदाहिणकरावलम्बिअसिहरा ।  
@@ -7923,6 +8316,7 @@ Monkeys return to the ocean holding the mountain peaks in their extended right a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पत्थाणच्चिअ पढमं भुअमेत्तपहाविआण जं ण पहुत्तम् ।  
@@ -7942,6 +8336,7 @@ The sky was not large enough to hold the monkeys with their broad shoulders at t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वह‍इ पवंगमलो‍ओ समतुलिउक्खित्तमिलिअमूलद्धन्ते ।  
@@ -7961,6 +8356,7 @@ While the monkeys carry mountains balancing the peaks and the slopes, mouths of 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिव्वण्णेऊण चिरं पव‍आ बोलेन्ति महिहरभरक्कन्ता ।  
@@ -7980,6 +8376,7 @@ Monkeys burdened by the weight of mountains (they are carrying) cross the ocean-
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खणसंधिअमेह‍अडा वेउक्खिप्पन्तगिरिणिरा‍अट्ठविआ ।  
@@ -7999,6 +8396,7 @@ River streams which emanate from mountains being carried and which are getting l
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सेलेसु सेलतुङ्गा णह‍अलमिलिएसु मिलिअदन्तप्फलिआ ।  
@@ -8018,6 +8416,7 @@ Elephants in the mountain-forests with their tusks stuck in the sky-stuck mounta
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेविरप‍ओहराणं दिसाण गिरिविवरदिट्ठतणुमज्झाणम् ।  
@@ -8037,6 +8436,7 @@ The faces of directional quarters, which have clouds (breasts) trembling and who
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पव‍आ कर‍अलधरिए णहमुहणिब्भिण्णवेवमाणविसहरे ।  
@@ -8056,6 +8456,7 @@ Monkeys who are carrying the mountains in one hand set right and stabilize the m
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णह‍अलवेअपहाविअपवंगहीरन्तसेलसिहरक्खलिआ ।  
@@ -8075,6 +8476,7 @@ The streams of large rivers which get spilled in the sky from the peaks of mount
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेउक्ख‍अदुमणिवहे तडपब्भारणिहणिव्वलन्तजलहरे ।  
@@ -8094,6 +8496,7 @@ The monkeys carry mountains in which trees get up-rooted due to the speed, where
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धाव‍इ वेअपहाविअपवंगहीरन्तसेलसिहरन्तरिओ ।  
@@ -8113,6 +8516,7 @@ Plains of the Malaya mountains, which are in between peaks being carried by the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आलोइआ ण दिट्ठा सच्चविआ ण गहिआ समोव‍इएहिम् ।  
@@ -8132,6 +8536,7 @@ Mountains which were seen from a distance were not noticed by the monkeys while 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भग्गदुमभङ्गभरिओ उक्खित्तविसट्टपडिअमहिहरविसमो ।  
@@ -8151,6 +8556,7 @@ The path of the monkeys on the ocean containing the broken trees and fallen moun
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेएण गहिअसेलं वेलाबोलेन्तपडिणिअत्तोव‍इअम् ।  
@@ -8189,6 +8595,7 @@ Thus ends the sixth canto in the great epic, “Killing of the ten-headed” wri
 
 सप्तम आश्वासकः (Canto-7)
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह ते विक्कमणहिसं दहव‍अणप‍आवलङ्घणग्गक्लन्धम् ।  
@@ -8208,6 +8615,7 @@ Then they began constructing the bridge which acted as a whet-stone for their pr
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णवरि अ महिअलधरिआ मुक्का उअहिम्मि बाणरेहि महिहरा ।  
@@ -8227,6 +8635,7 @@ Then the mountains which had been placed on the ground were dropped into the oce
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिवडन्तम्मि ण दिट्ठो दूरोव‍इअम्मि कम्पिओ गिरिणिवहे ।  
@@ -8248,6 +8657,7 @@ When the group of mountains fell into the ocean, the ocean could not be seen; wh
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिह‍उव्वत्तजल‍अरं कड्ढिअकाणणभमन्तभमिरुच्छङ्गम् ।  
@@ -8267,6 +8677,7 @@ The water of the ocean which splashed the shores first became turbid with the mo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सलिलत्थमिअमहिहरो पुणो विअद्दिट्ठमिलिअगिरिसंघाओ ।  
@@ -8286,6 +8697,7 @@ Splashing waters obscured the sight of falling mountains. But the sight of mount
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जणिअं पडिवक्कभ‍अं तुलिआ सेना धुओ क‍ईहि समुद्दो ।  
@@ -8305,6 +8717,7 @@ The monkeys have balanced the mountains (on their shoulders while throwing them)
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जो दीस‍इ धरणिहरो णज्ज‍इ एएण वज्झ‍इ त्ति समुद्दो ।  
@@ -8324,6 +8737,7 @@ One surmises that  a bridge is being made on the ocean when one sees a mountain 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 स‍अलमहिवेढविअडो सिहरसहस्सपडिरुद्धर‍इरहमग्गो ।  
@@ -8343,6 +8757,7 @@ The mountain which is big enough to wrap around  the Earth and which obstructs w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पव्व‍असिहरुच्छित्तं धाव‍इ जं जं जलं णहङ्गणहुत्तम् ।  
@@ -8362,6 +8777,7 @@ The water drops flying off to the sky splashed by the falling mountains look lik
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वाअणरवेआ‍इद्धा पिहुलवलन्तणिअ‍अओज्झरपरिक्खित्ता ।  
@@ -8381,6 +8797,7 @@ Flung by the monkeys with force, mountains with their streams revolving around t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खणमेलिआपविद्धो सिहरन्तरणित्तवाणरलो‍ओ ।  
@@ -8400,6 +8817,7 @@ Even before a mountain falls into the ocean, another one thrown hits it in mid-a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीहा वलन्तविअडा रसन्ति उवहिम्मि मारुअभरिज्जन्ता ।  
@@ -8419,6 +8837,7 @@ The paths of mountains thrown away with force in the ocean are deep like the bow
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उक्खित्तविमुक्का‍इं णहम्मि एक्केक्कमावडणभिण्णा‍इम् ।  
@@ -8438,6 +8857,7 @@ Thousands of mountains which are lifted up the sky and dropped one by one and ge
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भिण्णसिला‍अलसिहरा णिअ‍अदुमोसरिअकुसुमर‍अधूसरिआ ।  
@@ -8457,6 +8877,7 @@ Rocks coloured grey due to the pollens of the flowers falling from their trees f
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिम्मलसलिलब्भन्तरविहत्तदीसन्तविसमग‍इसंचारा ।  
@@ -8476,6 +8897,7 @@ Mountains vanish into the ocean slowly while monkeys stand motionless looking at
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 फेणकुसुमन्तरुत्तिण्णकेसरा‍आरवेविरम‍ऊहाई ।  
@@ -8495,6 +8917,7 @@ The gems whose trembling rays are like filaments at the centre of flower-like fo
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहुण‍इ वेलं व महिं भिन्द‍इ सम‍अं व धरणिधरसंघा‍अम् ।  
@@ -8514,6 +8937,7 @@ The ocean vibrates the Earth like it does the waters near the shore; it breaks t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पह्लत्थन्ति वलन्ता चलविडवन्तरणिअत्ततरुपारोहा ।  
@@ -8535,6 +8959,7 @@ Mountains turned upside down wander around; the new shoots of the trees hang dow
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अट्ठिअवडन्तमहिहरदूरट्ठिअजलर‍अन्ध‍आरत्थमिए ।  
@@ -8554,6 +8979,7 @@ It is only the sound of the disturbed ocean which indicates that the mountains a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दरधोअकेसरसडा पा‍आलुम्हगिरिधावुकद्दमिअमुहा ।  
@@ -8573,6 +8999,7 @@ While the monkeys get back in haste after throwing the mountains into the ocean,
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विल‍अन्तोज्झरलहुआ पवणविहुव्वन्तपा‍अवुद्धप‍इण्णा ।  
@@ -8592,6 +9019,7 @@ Mountains released from above by the monkeys having become light on account of t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अत्थमिअसेलमग्गा भिण्णणिअत्तन्तसलिलपुञ्जितकुसुमाः ।  
@@ -8625,6 +9053,7 @@ Wild buffaloes which have fallen out of half-submerged mountain peaks swirl in a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भिण्णमिलिअं पि भिज्ज‍इ पुणो वि एक्कक्कमावलोअणसुहिअम् ।  
@@ -8644,6 +9073,7 @@ Anxious herds of deer carried away by the waves created by the plunging mountain
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दाढाविभिण्णकुम्भा करिम‍अराण थिरहत्थकड्ढिज्जन्ता ।  
@@ -8665,6 +9095,7 @@ Lions roar in the ocean while sea-crocodiles snatch away the bloody gem-laden he
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उव्वत्तिअकरिम‍अरा पडन्ति पडिअगिरिसंभमुब्भडरोसा ।  
@@ -8686,6 +9117,7 @@ Elephants, angry for having fallen out of mountains fall into the ocean turning 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहुलपवालकिसल‍अं सेलदरत्थमिअदरिमुहवलन्तीहिम् ।  
@@ -8705,6 +9137,7 @@ The waves capable of wrapping around, wander around the trees like forest creepe
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गिरिणिवहेहि रसन्तं उक्खम्मन्तेहि णिवडिएहि अ सम‍अम् ।  
@@ -8724,6 +9157,7 @@ The netherworld is getting exposed continuously by the groups of mountains which
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेआविद्धवलन्ता मुहलवलन्तोज्झरावलिपरिक्खित्ता ।  
@@ -8743,6 +9177,7 @@ Mountains fall into the ocean spinning with the roaring streams wrapping around 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 एकक्कमावडन्ता णिअ‍अभुअक्खेवभिण्णसेलद्धन्ता ।  
@@ -8762,6 +9197,7 @@ Groups of monkeys move one by one flapping their manes covered by water that has
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीस‍इ वारंवारं गिरिघाडक्खित्तसलिलरेइअभरिअम् ।  
@@ -8781,6 +9217,7 @@ The cavernous netherworld which is getting repeatedly emptied and filled due to 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 संखोहभिण्णमहिअलगलिअजलोलुग्गपङ्क‍अवणुच्छङ्गा ।  
@@ -8800,6 +9237,7 @@ Mountains in which lotus forests have gone dry due to the water having been drai
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रस‍इ गिरिघा‍अभिण्णो तीरं लङ्घेइ वल‍इ विसमक्खलिओ ।  
@@ -8819,6 +9257,7 @@ The ocean split by the fall of mountains roars, extends beyond its borders, turn
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उक्ख‍अणिसुद्धसेलो संस‍इअसमुद्दघोरमुक्कक्कन्दो ।  
@@ -8838,6 +9277,7 @@ Even the commencement of a way to reach Laṅkā is difficult what with mountain
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेउक्खलिउद्धा‍इअणहभमिरफुरन्तकञ्चणसिलावेढम् ।  
@@ -8857,6 +9297,7 @@ The network of mountains surrounded by sparkling golden rocks which are spinning
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वड्ढ‍इ पव‍अकल‍अलो वल‍इ वलन्तवल‍आमुहो सलिलणिही ।  
@@ -8876,6 +9317,7 @@ The murmuring noise of the monkeys increases; the ocean with its Vaḍavā fire 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दूराइद्धणिअत्ता मोदिअमलिअहरिअन्दणम‍इज्झन्ता ।  
@@ -8895,6 +9337,7 @@ The fish from the great rivers which are returning to the stream after having be
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आसीविसमणिअम्बा पह्लत्थन्ति विहडन्तविसमणिअम्बा ।  
@@ -8914,6 +9357,7 @@ Mountains which are green in colour around groups of trees and have a tinge of r
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धरिअं वेओवत्तं गिरिघाउच्छित्तपाणिअम्मि समुद्दे ।  
@@ -8933,6 +9377,7 @@ The Śeṣa serpent somehow managed to bear the weight of the slopes of mountain
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वज्जभ‍अं धरणिहरा आ‍इवराहखुरपेल्लणाइञ् वसुम‍ई ।  
@@ -8972,6 +9417,7 @@ The ocean, which is nurturing the green bowers made of sandal trees of Malaya an
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलवट्ठत्थमिएसु अ उद्धा‍इ गिरीसु मलिअविद्दुम‍अम्बो ।  
@@ -9012,6 +9458,7 @@ The waters of the ocean roar as they get twisted in the hollows of the mountain.
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 गिरिणिव्वलिअपडन्ता उद्ध‍अजलमूलमिलिअपत्तलविडवा ।  
@@ -9052,6 +9499,7 @@ The monkeys angered by the sensuous acts of Rāvaṇa move very fast in the sky.
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पवणभरन्तदरिमुहं पवणसुअक्कन्तविहलिअसिलावेढम् ।  
@@ -9091,6 +9539,7 @@ Why does not the mountain’s peak break into many pieces when it falls into the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 लक्खिज्झन्ति समुद्दे गिरिघा‍उव्वत्तम‍अरविसमुक्कित्ता ।  
@@ -9129,6 +9578,7 @@ Siddha people leave their bowers out of fear with their  lower lips wet due to t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भम‍इ समुक्खित्तकरं ग‍अव‍इवारिअपवित्तपक्कग्गाहम् ।  
@@ -9167,6 +9617,7 @@ As soon as Rāma casts his eyes on the rivers which are shaken by the winds crea
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दरडड्डविद्दुमवणा उद्धावन्ति सिहिकज्जलिअसङ्ख‍उला ।  
@@ -9186,6 +9637,7 @@ Streams of water come up which have half-burnt corals and conch shells blackened
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भीअणिसण्णजल‍अरं पलोट्टणिअ‍अभरभिण्णवक्खमहिहरम् ।  
@@ -9205,6 +9657,7 @@ Ocean waters have given way displaying the netherworld where marine animals are 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खुहिअसमुद्दाहिमुहा तंसट्टिअमहिहरोसरन्तक्खलिआ ।  
@@ -9224,6 +9677,7 @@ Great elephants, which have slipped out of mountains kept aside for being thrown
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ण वि तह पव‍आविद्धा विअडणिअम्बगरुआ रसा‍अलमूलम् ।  
@@ -9243,6 +9697,7 @@ The mountains reach the netherworld not so much due to their being thrown by the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उत्थङ्गिअदुमणिवहा गिरिघा‍उव्वत्तमुच्छिअमहामच्छा ।  
@@ -9262,6 +9717,7 @@ Waves of the ocean break against the mountains on the shore and prop up the tree
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अद्धत्थमिअविसण्ठुलग‍अजूहारूढसिहरविहलस्स णहम् ।  
@@ -9281,6 +9737,7 @@ A divine couple agitated by a herd of elephants which has come up to the peak of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धरिआ भुएहि सेला सेलेहि दुमा दुमेहि घणसंघा‍आ ।  
@@ -9336,6 +9793,7 @@ Hit by the falling mountains, precious gems spread over large areas inside the o
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रस‍इ रसा‍अलं दल‍इ मेइणी णिसुब्भन्ति जल‍अणिवहा परी‍इ ग‍अणङ्गणे कविअणो ओसुब्भन्ति महिहरा महिहराहिहओ सा‍अरो वि सुइरं धलम्मि घ्फ्ल‍इ अमुक्कविअणो ।  
@@ -9374,6 +9832,7 @@ A plume full of pollen of flowers indicates the presence of forests which are ev
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वह‍इ पवंगमलोओ पहुप्प‍इ णहङ्घणं पडिच्छ‍इ उअही ।  
@@ -9393,6 +9852,7 @@ The monkeys carry the load; the sky provides space for the load; the ocean offer
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ खोएन्ति पवंगा थोअविरा‍अगिरिपङ्कणिव्वुअमहिसम् ।  
@@ -9412,6 +9872,7 @@ The extent of agitation caused in the ocean by the monkeys is such that the buff
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वणग‍अगन्धारोसिअजम्भा‍अन्तपडिउद्धकेशरिम‍अरम् ।  
@@ -9431,6 +9892,7 @@ Sea-lions wake up yawning and stretching the limbs angered by the smell of rutti
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अत्था‍अन्तवणत्थलिपरिणामॊलुग्गपण्डुवत्तत्थ‍इअम् ।  
@@ -9450,6 +9912,7 @@ The dry leaves of trees that had partially sunk under the water covered the surf
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धरणिहरभारवेल्लिअपल्लवदलमुद्धवेल्लिअल‍आजालम् ।  
@@ -9469,6 +9932,7 @@ A mass of creepers floated on the ocean undulating due to the weight of the sink
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आवत्तभमिरमहिहरसिहरोज्झरसीहरन्ध‍आरिअग‍अणम् ।  
@@ -9488,6 +9952,7 @@ The sky was overcast as it were, due to the spray of streams on the peaks of mou
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आवत्तमण्डलोअरवलन्तसेलकड‍अप्पहामिज्जन्तम् ।  
@@ -9507,6 +9972,7 @@ The ocean was getting twisted by the rotating mountain ridges which got caught i
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अव्वोच्छिण्णविसज्जिअणिअन्तरा‍आममिलिअपव्व‍अपडिओ ।  
@@ -9526,6 +9992,7 @@ The bridge which apparently looks like having been made in the sky with mountain
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो घेप्पिउं प‍उत्ता थोअत्थोअं परिस्समेण पवंगा ।  
@@ -9562,6 +10029,7 @@ Thus ends the seventh canto in the great epic, “Killing of the ten-headed” w
 
 अष्टम आश्वासकः(Canto-8)
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ जाहे णिवडन्ता सिहरोज्झरधोअसुरविमाणध‍अवडा ।  
@@ -9581,6 +10049,7 @@ When thus, even the mountains which were so high that the streams at their peaks
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ताहे णिसुद्धसेसा वेवन्तुव्वत्तकरलोसरिअ‍अडा ।  
@@ -9596,6 +10065,7 @@ When thus, even the mountains which were so high that the streams at their peaks
 
 -then the monkeys placed the rest of the mountains (which had not been thrown into the ocean) on the shores only. The slopes of mountains whose heaviness was momentarily felt by them slipped out of their trembling hands.
 
+_________
 <details open><summary>मूलम्</summary>
 
 गिरिसंखोहविमुक्का झीणा अप्पत्तपढमगमणोआसा ।  
@@ -9615,6 +10085,7 @@ Waves of the ocean freed from the disturbance caused by the mountains became wea
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भिण्णघडन्तावत्तो आवत्तन्तरभमन्तभिण्णमहिहरो ।  
@@ -9634,6 +10105,7 @@ Waves break and again assemble; broken mountains rotate between waves; the ocean
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वोच्छिज्झन्तकल‍अलं जहोइअट्ठाणदरप‍अत्तावत्तम् ।  
@@ -9653,6 +10125,7 @@ The ocean recovers its calmness after momentarily losing it (while disturbed due
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मोत्ताघडन्तकुसुमं सममरगभवत्तभङ्गभरिआवत्तम् ।  
@@ -9672,6 +10145,7 @@ Waters of the ocean become calm; flowers (of fallen trees) mix with pearls; wave
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीस‍इ समोसिअन्ती खणणिव्वलिउत्तरन्तविलुलिअकुसुमा ।  
@@ -9691,6 +10165,7 @@ On the shores of the ocean are seen the outlines of muddy ores (of sinking mount
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बणग‍अगन्धुत्तिण्णा पुणो णिअत्तन्ति आ‍अवाह‍अविहला ।  
@@ -9710,6 +10185,7 @@ The sea-elephants which came up seeking the smell of forest elephants were exhau
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दुमभङ्गकलुसिआइं कसा‍अरसभिण्णपण्डुरप्फेना‍इं ।  
@@ -9729,6 +10205,7 @@ The mouths of rivers which had become turbid due to the broken trees (floating) 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खुहिओअहिविच्छूडा महिन्दकडएसु मल‍अभित्तिच्छेआ ।  
@@ -9748,6 +10225,7 @@ Thrown up due to the disturbed ocean, parts of slopes of Malaya Mountain got ent
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति विअडधवला थिमिअणिअत्तन्तजलतरङ्गिअवट्टा ।  
@@ -9767,6 +10245,7 @@ Paths made of sand which are zig-zag and white and which have the impressions of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खोहेन्ति खुहिअणिहुअं उअहिं णहबन्धपडिणि‍अत्तोव‍इआ ।  
@@ -9786,6 +10265,7 @@ Jets of water which had been thrown up due to the mountains being dumped into th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह णलवि‍इण्ण‍अणो जम्प‍इ विहडन्तमणिसिलासणवट्ठो ।  
@@ -9805,6 +10285,7 @@ Sugrīva, king of monkeys, seated on a slab of precious stone which was breaking
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खविओ वाणरलोओ दूरट्ठिअविरलपव्व‍अं महिवेढम् ।  
@@ -9824,6 +10305,7 @@ The monkey clan is decreasing; mountains remaining on the Earth are few and far 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 म‍इरा मुद्धमिअङ्को अम‍अं लच्छी सकोत्थुहं दुमर‍अणम् ।  
@@ -9843,6 +10325,7 @@ Liquor, the innocent Moon, ambrosia, Goddess Lakṣmī, the gem among trees alon
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 धूमा‍अन्ति बिअ से अज्ज वि पा‍आलदेहदूरालग्गा ।  
@@ -9862,6 +10345,7 @@ The arrows of Rāma look like emitting smoke even now, stuck deep into the body 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं बन्धसु धीर तुमं सेउं अज्जेअ जाव दूरन्तरिआ ।  
@@ -9881,6 +10365,7 @@ O brave one, therefore today only build the bridge such that the presently dista
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो पव‍अबलाहि फुडं विण्णाणासङ्घणिव्वलन्तच्छाओ ।  
@@ -9900,6 +10385,7 @@ Then Nala who looked distinguished from other monkeys because of his special kno
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भण्ण‍इ पवंगपुर‍ओ रहुणाहस्स अ पवंगव‍इ वीसत्थम् ।  
@@ -9919,6 +10405,7 @@ He speaks in front of the monkeys in such a manner that makes Rāma and Sugrīva
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खविओ पव्व‍अणिवहो दलिअञ् व रसा‍अलं धुवो व्व समुद्दो ।  
@@ -9938,6 +10425,7 @@ Let groups of mountains be destroyed, let the netherworld be dug up, let the oce
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं पेक्खसु महिविअलं महिवट्टम्मि व महं महोअहिवट्ठे।  
@@ -9957,6 +10445,7 @@ You will see the bridge coming up in the middle of the ocean, broad like the Ear
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 किं उत्तर‍उ णिरन्तरघडन्तधरणिहरसंकमेण समुद्दम् ।  
@@ -9976,6 +10465,7 @@ Should the army of monkeys cross the ocean over mountains continuously brought t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तंपेच्छह मल‍ओ च्चिअ पत्थन्तो पडिग‍अं ग‍ओ व्व सुवेलम् ।  
@@ -9995,6 +10485,7 @@ Let Malaya Mountain, restrained by (my) strong shoulders challenge Suvela mounta
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओ विरएमि णह‍अले तुरिअपहाविअपवंगसंचरणसहम् ।  
@@ -10014,6 +10505,7 @@ Or shall I construct in the sky a bridge which is made up of serially laid mount
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ओ सा‍अरो अरब्भन्तराणिओवरिपरिट्ठविअणिप्फन्दा ।  
@@ -10033,6 +10525,7 @@ Or should the mountains inside the ocean be lifted up and aligned motionless wit
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तं मह मग्गलग्गा विर‍एह जहाणिओअमुक्कम्हिहरा ।  
@@ -10052,6 +10545,7 @@ Now then, O monkeys, construct the bridge laying the mountains as per (my) comma
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ णलव‍अणहरिसिअं गलिअपरिस्समणिरा‍अमुक्ककल‍अलम् ।  
@@ -10071,6 +10565,7 @@ The army of monkeys moved, feeling happy after hearing Nala, and feeling relieve
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह णेण सुहप्फरिसे पिउणो सलिलम्मि मज्झिऊण सणिअमम् ।  
@@ -10090,6 +10585,7 @@ After ritually bathing in the ocean which was pleasant to touch and then bowing 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तो क‍अणधा‍उअम्बो सपल्लवासोअविडवभरिअदरिमुहो ।  
@@ -10109,6 +10605,7 @@ Nala at first placed in the ocean a mountain which had a golden hue and which ha
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 तह पडमं विअ मुक्को वेला‍अडसंटिओ णलेण महिहरो ।  
@@ -10128,6 +10625,7 @@ Right at the beginning itself, Nala threw a mountain (into the ocean) in such a 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भमिओ अ तह धराहरपहरुच्छित्तसलिलो णहम्मि समुद्दो ।  
@@ -10147,6 +10645,7 @@ The waters of the ocean which got scattered due to the throwing of the mountain 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जलतण्णा‍अघडन्ता अविभाविज्जन्तवडणमग्गोआसा ।  
@@ -10166,6 +10665,7 @@ The mountains (so thrown) although severely jolted by the agitated ocean, cling 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पडिवहपत्थिअसलिला वेला‍अडपडिअहमहिहरसमक्कान्ता ।  
@@ -10185,6 +10685,7 @@ The inlet routes of rivers (flowing into the ocean) blocked by the fallen mounta
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिवडन्ति तुङ्घसिहरा पवलविमुक्का अहोमुहा वि णलवहे ।  
@@ -10204,6 +10705,7 @@ Mountains which were having tall peaks and which were heavy at the bottom fall i
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विहुणेन्ति विहुव्वन्ता करिअम‍अरमुहा‍इ थिरणिहित्तणहमुहा ।  
@@ -10218,6 +10720,7 @@ Mountains which were having tall peaks and which were heavy at the bottom fall i
 </details> \
 Lions violently shaken (by the sea-crocodiles) shake the faces of the sea-crocodiles with their paws firmly placed near their faces. Their manes fly around the humps of the  sea-crocodiles which they have gripped firmly.
 
+_________
 <details open><summary>मूलम्</summary>
 
 पडिग‍अगन्धपसारिअकरिम‍अरच्छिण्णगलिअकरपब्भारे ।  
@@ -10237,6 +10740,7 @@ The forest elephants  which stretched their trunks attracted by the scent of the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दरघडिअसेउबन्धा उप्प‍इऊण पव‍आ समुद्दुप्प‍इए ।  
@@ -10256,6 +10760,7 @@ When the bridge work had progressed a little, the monkeys jumped up and tried to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 बन्धर णलो वि तक्खणविसमुच्छलिअचलकेसरसडुग्घाओ ।  
@@ -10275,6 +10780,7 @@ Nala also takes part in the construction of the  bridge with his hips bent, hand
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जं बहुपव्व‍अजणिअं विच्छूढसमुद्दपा‍अडं महिविवरम् ।  
@@ -10294,6 +10800,7 @@ One mountain very large in area fills up the abyss created by several mountains.
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सा‍अरलद्धत्थाहं णिमेन्ति जं जं धराहरं क‍इणिवहा ।  
@@ -10313,6 +10820,7 @@ Nala binds the bridge  forward, stepping on the mountains dropped into the ocean
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सम‍अं पव‍अविमुक्के सेउवहम्मि सम‍अं अभा‍अपडन्ते ।  
@@ -10332,6 +10840,7 @@ As soon as the mountains thrown by the monkeys reach a wrong place, Nala manages
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अवलम्ब‍इ णलघडिए अभा‍अवलिआणिए घडेइ महिहरे ।  
@@ -10351,6 +10860,7 @@ As the ocean holds the misplaced mountains joined by Nala it swells along with t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जं जं आणेइ गिरिं रहिरहचक्कपरिमट्टसिहरं हणुमा ।  
@@ -10370,6 +10880,7 @@ Whichever mountain whose peak was rubbed by the wheels of the Sun was brought by
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वित्थ‍असरकमलसिरे सेले दरघडिअसेउसंकमलसिरे ।  
@@ -10389,6 +10900,7 @@ The under-ocean mountains, immersed in the service of the ocean and which have t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेला‍अडसंबद्धा गओणिअत्तन्तजलर‍अविहुव्वन्ती ।  
@@ -10408,6 +10920,7 @@ Rows of trees attached to the shores which are being swung by the advancing and 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दन्तेसु वलिअलग्गा खोहुप्पित्थग‍असंपहारुक्खित्ता ।  
@@ -10427,6 +10940,7 @@ Serpents thrown up by the onslaught of angry elephants are bent and stuck in the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पव्व‍अवडना‍इद्धो जो चिअ उअहिस्स पडिणित्त‍इ पडमम् ।  
@@ -10446,6 +10960,7 @@ The ocean-wave caused by the striking of the falling mountain itself flattens th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 खुहिअसमुद्दस्थमिआ खुडेन्ति अक्खुडिअम‍अजलॊज्झरपसरा ।  
@@ -10465,6 +10980,7 @@ The elephants which are partially submerged in water due to the agitation of the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 र‍अणच्छविविमल‍अरा फलरसभरिअदरभिण्णमरग‍अणिवहा ।  
@@ -10484,6 +11000,7 @@ Waves which have the hue of gems and which contain slightly broken emeralds get 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 घडमाणेहि अ सम‍अं झिज्ज‍इ सेलेहि जेत्तिअं चिअ उअही ।  
@@ -10503,6 +11020,7 @@ As soon as the level of the ocean gets reduced while the mountains are being arr
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उद्धप्फुडिअण‍इमुहा णीअ‍अट्ठाणसिढिलोसरन्तमहिहरा ।  
@@ -10522,6 +11040,7 @@ It looks as if the agitations of the Earth are causing the sky to get agitated. 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अद्धुट्ठिअसेउवहं होइ खणं अद्धदिण्णहरिहिअ‍असुहम् ।  
@@ -10541,6 +11060,7 @@ With a half of the bridge coming up there is partial joy among the monkeys; the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 णिम्माओ त्ति मुणिज्ज‍इ दूरा‍इद्धम्मि सा‍अरे सेतुवहो ।  
@@ -10560,6 +11080,7 @@ When the water of the ocean recedes, it looks as if the bridge is constructed; w
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अवि पूर‍इ पा‍आलं ण अ कुविअदिसाग‍इन्दगमणविहा‍आ ।  
@@ -10579,6 +11100,7 @@ The mountains are filling up the nether world; but the footprints of the Great B
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जा‍अं महिहरमहिअं धातुअडक्खलणसरसपल्लवरा‍अम् ।  
@@ -10594,6 +11116,7 @@ The mountains are filling up the nether world; but the footprints of the Great B
 
 It looks as if the ocean churned up by the mountains is producing liquor with the sprout-like redness of ores in the shore slipping into the ocean and with broken trees forming an astringent concoction.
 
+_________
 <details open><summary>मूलम्</summary>
 
 संचालेइ समुद्दो जह जह विरलट्ठिअं धराहरणिवहम् ।  
@@ -10613,6 +11136,7 @@ As the ocean moves the loosely placed series of mountains, the bridge gets const
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पड‍इ णु णह‍अलघडिओ कड्डिज्ज‍इ णु मल‍आहि चिरणिम्माओ ।  
@@ -10632,6 +11156,7 @@ Does the bridge (path built by Nala) fall from the heavens? Is it being pulled a
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 ग‍अणम्मि उअहिसलिलं सलिलविमुक्के रसाअलम्मि णह‍अलम् ।  
@@ -10651,6 +11176,7 @@ Waters of the ocean are seen in the sky; The sky is seen in the netherworld bere
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वेलालाणणीअलिओ रसिऊण रसाअलट्ठिअं पि समुद्दो ।  
@@ -10670,6 +11196,7 @@ The ocean bound to the shore moves the bridge which is firmly placed on the bott
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पेल्लिज्जन्ति दढ‍अरं जह जह पवएहि खुहिअजलतण्णाआ ।  
@@ -10708,6 +11235,7 @@ As the mountains slip into the ocean prodded by the monkeys, gems (of the ocean)
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 भर‍इ व दूरा‍इद्धो धुव्व‍इ व पडन्तधरणिहरकहमिओ ।  
@@ -10746,6 +11274,7 @@ Sea-crocodiles which reside in the disturbed oceanic waters and which are being 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उत्थद्धिअदुमणिवहा सुइरं परिमलिअसेउवहपासहा ।  
@@ -10784,6 +11313,7 @@ People and animals look at Nala and the ocean with fearful eyes afraid that the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 इअ स‍अलमहिअलुक्ख‍अमहिहरसंघा‍अणिम्मिअमहारम्भम् ।  
@@ -10803,6 +11333,7 @@ The bridge is a great work of construction built out of mountains pulled out fro
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विसमोसरिअसिला‍अलदढघा‍उक्खित्तमच्छपच्छिमभा‍अम् ।  
@@ -10822,6 +11353,7 @@ Rocks which have slipped out of the bridge have cut the tails of fish; Snakes wh
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सेलुम्मूलणसंभमगहिअप्फिलिअगअमग्गथाइअसीहम् ।  
@@ -10841,6 +11373,7 @@ Lions are running after elephants which had been caught but escaped during the c
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पासल्लपडिअवणग‍अरुद्धमहोज्झरदुहापहाविअसलिलम् ।  
@@ -10860,6 +11393,7 @@ An elephant which has fallen down on a side obstructs the flow of a river and th
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वी‍ईपडिऊलाह‍अथोउव्वेल्लिअदुमावलम्बन्तल‍अम् ।  
@@ -10879,6 +11413,7 @@ Creepers hang down from trees which have been slightly shaken by the waves dashi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 वित्थर‍इ सेउबन्धो विहुव्व‍इ धराहराह‍ओ सलिलणिही ।  
@@ -10898,6 +11433,7 @@ The bridge is getting extended; the ocean shakes struck by the mountains; having
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति भिण्णसलिले समुद्दमज्झम्मि सेउबन्धक्कन्ता ।  
@@ -10917,6 +11453,7 @@ With the ocean getting bifurcated  (due to the bridge) the oceanic mountains whi
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 महिहरपहरक्खोहिअसलिलपरिक्ख‍अविरा‍अमूलमहिहरम् ।  
@@ -10936,6 +11473,7 @@ The mountains (already part) of the bridge which  are disturbed by the agitated 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जह जह अच्चासण्णो उअहि जेऊण होई सेउवहवरो ।  
@@ -10955,6 +11493,7 @@ As the bridge reaches completion winning over the ocean, the water in yet to be 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 महिहरपहरुच्छित्ता उअरिं सेउस्स जे पडन्ति खलन्ता ।  
@@ -10974,6 +11513,7 @@ Water streams which burst out thrown up by the striking mountains fall over the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 देइ समत्तच्छा‍अं दरमिलिअसुवेलमहिहरत‍उद्धन्तो ।  
@@ -10993,6 +11533,7 @@ With a large number of fish occupying the remaining space of water (between the 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जाहे सेउणिबद्धं धुण‍इ णलो विसमसंठिअमहासेलम् ।  
@@ -11012,6 +11553,7 @@ After Nala shakes a mountain unevenly placed in the construction of the bridge, 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 लहुइअपेसणहरिसिअक‍इणिवहणिसुद्धसेलपहरवलन्तो ।  
@@ -11031,6 +11573,7 @@ The ocean which was undulating due to the striking mountains thrown by the monke
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जह जह णिम्माविज्ज‍इ वाणरवसहेहि सेउसंकमसिहरम् ।  
@@ -11050,6 +11593,7 @@ As the tower of the landing part of the bridge gets constructed by the monkeys R
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पा‍आलमिलिअमूलो अव्वोच्छिण्णपसरन्तसरिआसोत्तो ।  
@@ -11069,6 +11613,7 @@ Suvela Mountain which stood where it was with its roots going deep and with rive
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मल‍उच्छङ्घएण वि रहुव‍इपासट्ठिएण बाणरव‍इणा ।  
@@ -11088,6 +11633,7 @@ Sugrīva, the chief of monkeys who was standing beside Rāma on the slopes of Ma
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 आरम्भन्ते स‍अलो तिहा‍अविसमो दरुट्ट्ःइअम्मि णलवहे ।  
@@ -11107,6 +11653,7 @@ When the construction of the bridge was just begun the ocean which was one whole
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मल‍उच्छङ्घप‍उत्तो चलन्तवाणरभरोणओ सेउवहो ।  
@@ -11126,6 +11673,7 @@ The bridge starting from the slopes of Malaya got depressed due to the weight of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीस‍इ सेउमहावहदोहा‍इअपुव्वपच्छिमदिसाभा‍अम् ।  
@@ -11145,6 +11693,7 @@ It looks as if the bridge has divided the sky into two parts with the sides lowe
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 मल‍असुवेलालग्गो पडिट्ठिओ णिहणिहम्मि सागरसलिले ।  
@@ -11164,6 +11713,7 @@ The bridge attached to Malaya and Suvela Mountains (at the two ends) over the sk
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीस‍इ पवणविहुव्वन्ताअ‍अरोअरपरिट्ठिअमहासिहरो ।  
@@ -11183,6 +11733,7 @@ The bridge consisting of huge mountain peaks in the waters which are being blown
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अर‍ई थोरूसासा णिहाणासो विवण्णदा दौवल्लम् ।  
@@ -11204,6 +11755,7 @@ While the mountain was under construction, (signs such as) disinterestedness, he
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह थोरतुङ्घविअडो णेउं णिहणं सबन्धवं दहव‍अणम् ।  
@@ -11223,6 +11775,7 @@ The bridge which bisected the ocean looked like an extended heavy, tall and mons
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 विसमेण प‍अ‍इविसमं महिहरगरुएण समरसाहसगरुअम् ।  
@@ -11242,6 +11795,7 @@ The heart of Rāvaṇa which was by nature hard and which was unrelenting due to
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति खुहिअसा‍अरसलिलोल्लिअकुसुमणिवहलग्गमहुअरा ।  
@@ -11261,6 +11815,7 @@ Swarms of bees attached to the flowers wetted by the agitated ocean  are seen on
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 थिमिओअहिसच्छाया कत्थ वि दीसन्ति महिहरन्तरवडिआ ।  
@@ -11280,6 +11835,7 @@ At places on the bridge where white marble portions resembling a calm ocean are 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 हिमपडनौत्थ‍इआ‍इं घडिआ‍इं वि णलवहम्मि णज्जन्ति फुडम् ।  
@@ -11299,6 +11855,7 @@ The peaks of Himālaya and Malaya used for the bridge can be clearly made out as
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जा‍आ फुडवित्थारा गओणिअत्तन्तजलर‍अविहुव्वन्ता ।  
@@ -11318,6 +11875,7 @@ The paths of the tides of the ocean which are undulating due to the ebb and flow
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सेला‍इञ्छणपडिआ सलिलोल्लिअगरुअकेसरभरक्कन्ता ।  
@@ -11337,6 +11895,7 @@ Lions which have fallen off from shifted mountains and which are burdened by the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पुव्वावरोअहिग‍आ दहुं पुव्वावरोअहिसमुप्पणा ।  
@@ -11356,6 +11915,7 @@ Marine-creatures born in Eastern and Western parts of the ocean which then trave
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 दीसन्ति धा‍उअम्बा मारुअविहुअधवलोज्झरपडद्धन्ता ।  
@@ -11375,6 +11935,7 @@ The two mountains (Malaya and Suvela) with tall peaks at the two ends look like 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 अह णिम्मिअसेउवहं सेउवहब्भहिअथलप‍इण्णमहिहरम् ।  
@@ -11394,6 +11955,7 @@ With the bridge having been built, the army of monkeys moved on; there were moun
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पेच्छन्ति अ वोलन्ता संकमदोहा‍इअक्खविअवित्थारम् ।  
@@ -11413,6 +11975,7 @@ Monkeys moving on the bridge see that the ocean has dwindled in its extent becau
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सङ्ख‍उलधवलकमले फुडमरग‍अहरिअवत्तभङ्गणिहाए ।  
@@ -11420,6 +11983,7 @@ Monkeys moving on the bridge see that the ocean has dwindled in its extent becau
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 संचर‍इ वाणरबलं णिम‍इ विसट्टन्तमहिहरो सेउवहो ।  
@@ -11442,6 +12006,7 @@ On the bridge joining the two shores, lotuses look white due to the proximity of
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 संचालेइ णिअम्बं धारेइ उअरि तरङ्गकरपब्भारम् ।  
@@ -11461,6 +12026,7 @@ In the manner a wild elephant held on to a pole holds the pole at the top and sh
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 उत्तिण्णा अ पवङ्गा सेलभरुव्वहणजणिअसेअतुसारा ।  
@@ -11480,6 +12046,7 @@ Having crossed the ocean, the monkeys  who are cold with sweat produced as a res
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 पत्ता अ दहमुहाणिअणन्दणवणपा‍अवोइअवणुद्देसम् ।  
@@ -11499,6 +12066,7 @@ The monkeys reached the slopes of Suvela which was a fit place for planting of t
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 सोऊण समुत्तिण्णं उअहिमविद्दविअविक्कमं क‍इसेण्णम् ।  
@@ -11518,6 +12086,7 @@ People of Laṅkā were ready to carry out the unsteady orders of Rāvaṇa afte
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जाव अ महोअहिअडे आवासग्गहणवावडम् क‍इसेण्णम् ।  
@@ -11537,6 +12106,7 @@ As soon as the army of monkeys spread itself on the ~~(Northern)~~ shores of the
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 रामस्स रावणस्स अ लोआलोअन्तरालसरिसामण्णे ।  
@@ -11556,6 +12126,7 @@ While the valours of Rāma and Rāvaṇa were separated by the fort of Laṅkā 
 </details>
 
 
+_________
 <details open><summary>मूलम्</summary>
 
 जा‍आ लच्छीअ समं सोहा महिअस्स सामरस्स पसण्णा ।  
