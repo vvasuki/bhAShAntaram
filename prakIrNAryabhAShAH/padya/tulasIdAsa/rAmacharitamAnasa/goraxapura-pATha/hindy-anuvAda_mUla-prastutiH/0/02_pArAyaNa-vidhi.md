@@ -12,7 +12,7 @@ title = "०२ पारायण-विधि"
 ## अथ आवाहनमन्त्रः
 
 
-<details><summary>मूल (श्लोक)</summary>
+<details open><summary>मूल (श्लोक)</summary>
 
 तुलसीक नमस्तुभ्यमिहागच्छ शुचिव्रत।  
 नैर्ऋत्य उपविश्येदं पूजनं प्रतिगृह्यताम्॥ १॥  
@@ -48,13 +48,13 @@ title = "०२ पारायण-विधि"
 इत्यावाहनम्
 
 ## पूजा
-<details><summary>मूल (श्लोक)</summary>
+<details open><summary>मूल (श्लोक)</summary>
 
 सुवर्णरचितं राम दिव्यास्तरणशोभितम्।  
 आसनं हि मया दत्तं गृहाण मणिचित्रितम्॥ ११॥
 </details>
 
-<details><summary>मूलम् (समाप्तिः)</summary>
+<details open><summary>मूलम् (समाप्तिः)</summary>
 
 इति षोडशोपचारैः पूजयेत्
 </details>
@@ -67,7 +67,7 @@ title = "०२ पारायण-विधि"
 ## अथ आचमनम्
 
 
-<details><summary>मूल (श्लोक)</summary>
+<details open><summary>मूल (श्लोक)</summary>
 
 श्रीसीतारामाभ्यां नमः। श्रीरामचन्द्राय नमः।  
 श्रीरामभद्राय नमः।  
@@ -78,7 +78,7 @@ title = "०२ पारायण-विधि"
 ## अथ करन्यासः
 
 
-<details><summary>मूल (श्लोक)</summary>
+<details open><summary>मूल (श्लोक)</summary>
 
 जग मंगल गुनग्राम राम के।  
 दानि मुकुति धन धरम धाम के॥  
@@ -100,7 +100,7 @@ title = "०२ पारायण-विधि"
 करतलकरपृष्ठाभ्यां नमः।
 </details>
 
-<details><summary>मूलम् (समाप्तिः)</summary>
+<details open><summary>मूलम् (समाप्तिः)</summary>
 
 इति करन्यासः
 </details>
@@ -108,7 +108,7 @@ title = "०२ पारायण-विधि"
 ## अथ हृदयादिन्यासः
 
 
-<details><summary>मूल (श्लोक)</summary>
+<details open><summary>मूल (श्लोक)</summary>
 
 जग मंगल गुनग्राम राम के।  
 दानि मुकुति धन धरम धाम के॥  
@@ -130,7 +130,7 @@ title = "०२ पारायण-विधि"
 अस्त्राय फट्।
 </details>
 
-<details><summary>मूलम् (समाप्तिः)</summary>
+<details open><summary>मूलम् (समाप्तिः)</summary>
 
 इति हृदयादिन्यासः
 </details>
@@ -138,7 +138,7 @@ title = "०२ पारायण-विधि"
 ## अथ ध्यानम्
 
 
-<details><summary>मूल (श्लोक)</summary>
+<details open><summary>मूल (श्लोक)</summary>
 
 मामवलोकय पंकज लोचन।  
 कृपा बिलोकनि सोच बिमोचन॥  
@@ -160,7 +160,7 @@ title = "०२ पारायण-विधि"
 तुलसिदास प्रभु पाहि प्रनत जन॥
 </details>
 
-<details><summary>मूलम् (समाप्तिः)</summary>
+<details open><summary>मूलम् (समाप्तिः)</summary>
 
 इति ध्यानम्
 </details>
