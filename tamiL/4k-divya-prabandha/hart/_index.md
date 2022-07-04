@@ -8351,7 +8351,7 @@ In tamil script, unicode/utf-8 format
 
 
 ## 10. Periya Thirumozhi, Thirumangai Azhvar (pāsurams 948 -2031)
-1. Praise of the name of the lord ‘Nārāyaṇā’
+### 01. Praise of the name of the lord ‘Nārāyaṇā’
 
 948. I was born with sorrow.
      I withered and suffered in life.
@@ -8447,7 +8447,7 @@ In tamil script, unicode/utf-8 format
      Say the name “Nārāyaṇa” and he will remove the results of your karma.
 ----------
 
-2. Thirupprithi (Joshi mutt -in North India)
+### 02. Thirupprithi (Joshi mutt -in North India)
 
 958. The god of Thirumāvallam
      who bent his bow and killed the Rākshasas in Lanka
@@ -8542,7 +8542,7 @@ In tamil script, unicode/utf-8 format
      the results of their bad karma will not come to them.
 ---------
 
-3. Thiruvadari (Badhrinath - in North India)
+### 03. Thiruvadari (Badhrinath - in North India)
 
 968. When you become old,
      you will need to walk holding a stick.
@@ -8650,7 +8650,7 @@ In tamil script, unicode/utf-8 format
      except heaven where they will enter and rule.
 ----------
 
-4. Thiruvadariyāchiramam ( North India)
+### 04. Thiruvadariyāchiramam ( North India)
 
 978. The lord who took the form of a boar, split open the earth
      and brought the earth goddess from the underworld,
@@ -8737,7 +8737,7 @@ In tamil script, unicode/utf-8 format
      under a royal umbrella and become gods in the sky.
 -----------
 
-5. Sāḷakkirāmam (in Nepal)
+### 05. Sāḷakkirāmam (in Nepal)
 
 988. O heart! With only his bow and arrows as his help,
      he crossed the forests where deer, elephants and horses wandered,
@@ -8831,7 +8831,7 @@ In tamil script, unicode/utf-8 format
      or just babble these Tamil pāsurams again and again.
 ----------
 
-6. Naimeesāraṇyam (North India)
+### 06. Naimeesāraṇyam (North India)
 
 998. Before in my life, I wanted only to enjoy
      the small foreheads, round arms, beautiful breasts
@@ -8943,7 +8943,7 @@ In tamil script, unicode/utf-8 format
       under a white umbrella and become gods.
 -----------
 
-7. Singavelkundram (Akobilam in north India)
+### 07. Singavelkundram (Akobilam in north India)
 
 1008. Our god who became angry at Hiraṇyan,
       went to him as a man-lion
@@ -9027,7 +9027,7 @@ In tamil script, unicode/utf-8 format
       at his feet and worship him.
 -----------
 
-8. Thiruvenkaṭam
+### 08. Thiruvenkaṭam
    All the Divyadesams from this Pāsuram are in South India
 
 1018. Our ancient, lotus-eyed god
@@ -9124,7 +9124,7 @@ In tamil script, unicode/utf-8 format
       and then go to heaven and rule there.
 ----------
 
-9. Thiruvenkaṭam
+### 09. Thiruvenkaṭam
 
 1028. I thought that my mother, father, wife
       and relatives were important.
@@ -9225,7 +9225,7 @@ In tamil script, unicode/utf-8 format
       they will experience no results of their karma.
 --------
 
-10. Thiruvenkaṭam
+### 10. Thiruvenkaṭam
 
 1038. O lord, you who crossed the ocean
       and fought and killed the king of Lanka surrounded by oceans
@@ -9294,7 +9294,7 @@ In tamil script, unicode/utf-8 format
       they will become gods in heaven.
 --------
 
-11. Thiruvenkaṭam
+### 11. Thiruvenkaṭam
 
 1048. O heart, our father, worshiped by the sages in their hearts,
       who took the form of a bachelor dwarf,
@@ -9377,7 +9377,7 @@ In tamil script, unicode/utf-8 format
       they will reach the world in the sky.
 ------------
 
-12. Thiruyevvuḷ
+### 12. Thiruyevvuḷ
 
 1058. When the Rākshasa king of Lanka came as a sage
       in orange clothes and took Sita the wife of Rama to Lanka,
@@ -9458,7 +9458,7 @@ In tamil script, unicode/utf-8 format
       This is a promise.
 ---------
 
-13. Thiruvallikkeṇi
+### 13. Thiruvallikkeṇi
 
 1068. The lord fought and killed Kamsan, the wrestlers
       and the elephant Kuvalayabeeḍam and its mahout,
@@ -9548,7 +9548,7 @@ In tamil script, unicode/utf-8 format
       they will reach the world of the gods in the sky and rule there happily.
 -----------
 
-14. Thiruneermalai
+### 14. Thiruneermalai
 
 1078. Our lord who stays with Lakshmi
       and the cowherd’s daughter Nappinnai, loving them,
@@ -9634,7 +9634,7 @@ In tamil script, unicode/utf-8 format
       surrounded with large oceans under a royal umbrella and reach heaven.
 ---------
 
-15. Thirukkaḍalmallai
+### 15. Thirukkaḍalmallai
 
 1088. In Kaḍalmallai Thalasayanam I saw the lord, strong as a bull,
       sweet as the nectar from the milky ocean,
@@ -9726,7 +9726,7 @@ In tamil script, unicode/utf-8 format
       they will not have the results of their karma.
 ----------
 
-16. Thirukkaḍalmallai
+### 16. Thirukkaḍalmallai
 
 1098. I will not spend even the time it takes to blink
       thinking of those who do not think of my god
@@ -9808,7 +9808,7 @@ In tamil script, unicode/utf-8 format
       they will become kings of kings.
 ------------
 
-17. Thiruviḍavendai
+### 17. Thiruviḍavendai
 
 1108. Her mother says,
       “Even though my daughter with a lovely face
@@ -9925,7 +9925,7 @@ In tamil script, unicode/utf-8 format
       they will be released from their old karma.
 -------------
 
-18. Thiruvaṭṭapuyaharam
+### 18. Thiruvaṭṭapuyaharam
 
 1118. She asked her neighbors,
       “The sound of worship of the people in the three worlds
@@ -10024,7 +10024,7 @@ In tamil script, unicode/utf-8 format
       they will go to Vaikuṇṭam.
 --------
 
-19. Kachi Thirupparameswara Viṇṇaharam
+### 19. Kachi Thirupparameswara Viṇṇaharam
 
 1128. The sacred place of our god
       who is the meaning of all words, taste, sound, and smell
@@ -10112,7 +10112,7 @@ In tamil script, unicode/utf-8 format
       by the grace of Lakshmi.
 ------------
 
-20. Thirukkovalur PERUMAL
+### 20. Thirukkovalur PERUMAL
 
 1138. The dear lord swallowed all the mountains where clouds float,
       the seven oceans, the sky, the earth and all things,
@@ -10222,7 +10222,7 @@ In tamil script, unicode/utf-8 format
       and will be able to see the omnipresent one.
 -----------
 
-21. Thiruvayindirapuram
+### 21. Thiruvayindirapuram
 
 1148. The god who rests on the dark ocean
       on Adisesha took the form of a boar
@@ -10320,7 +10320,7 @@ In tamil script, unicode/utf-8 format
       the results of their bad karma will disappear.
 ---------
 
-22. Thillaichitrakuḍam
+### 22. Thillaichitrakuḍam
 
 1158. O devotees, if you want to rule the world of the gods,
       you do not have to starve and suffer and do tapas
@@ -10415,7 +10415,7 @@ In tamil script, unicode/utf-8 format
       and they will live for many ages.
 -----------
 
-23. Thillaichitrakuḍam
+### 23. Thillaichitrakuḍam
 
 1168. The lord danced on a pot,
       went between two marudam trees and killed the Asurans,
@@ -10499,7 +10499,7 @@ In tamil script, unicode/utf-8 format
       they will not experience the results of their bad karma.
 ---------
 
-24. Seerkāzi Shrirāmaviṇṇaharam
+### 24. Seerkāzi Shrirāmaviṇṇaharam
 
 1178. The lord who went to Mahabali’s sacrifice as a dwarf,
       took three feet of land from the king,
@@ -10609,7 +10609,7 @@ In tamil script, unicode/utf-8 format
       as learned as Nānmuhan himself who stays on a lotus.
 ----------
 
-25. Thiruvāli
+### 25. Thiruvāli
 
 1188. I am your slave and you came and entered my thoughts.
       You are sweet to my mind and I worship you.
@@ -10688,7 +10688,7 @@ In tamil script, unicode/utf-8 format
       and sing them and teach them to others, they will go to heaven in the sky.
 ---------
 
-26. Thiruvāli
+### 26. Thiruvāli
 
 1198. O little bee with dots on your body,
       you stay with your mate without leaving her
@@ -10776,7 +10776,7 @@ In tamil script, unicode/utf-8 format
       they will not experience the results of their bad karma.
 ----------
 
-27. Thiruvāli.
+### 27. Thiruvāli.
 
 1208. Her mother says,
       “Is he a thief? I don’t know who he is.
@@ -10870,7 +10870,7 @@ In tamil script, unicode/utf-8 format
       they will reach heaven and be with the gods.
 ------------
 
-28. Thirumaṇimāḍakkovil. Nāngur
+### 28. Thirumaṇimāḍakkovil. Nāngur
 
 1218. The gods come from the sky and worship the lord saying,
       “You are everlasting light. No one can measure your power.
@@ -10976,7 +10976,7 @@ In tamil script, unicode/utf-8 format
       and they will rule the world and enjoy their lives.
 ------------
 
-29. Thiruvaikuṇḍaviṇṇagaram - Nāngai.
+### 29. Thiruvaikuṇḍaviṇṇagaram - Nāngai.
 
 1228. The dark lord colored like a rain-giving cloud,
       strong as a bull, who split open the wide chest of the evil Asuran Hiraṇyan,
@@ -11088,7 +11088,7 @@ In tamil script, unicode/utf-8 format
       they will rule this world and the sky.
 -----------
 
-30. Arimeyaviṇṇagaram
+### 30. Arimeyaviṇṇagaram
 
 1238. Our lord with shining Lakshmi and the earth goddess at his sides
       who takes away the bad karma of his devotees and gives them his grace
@@ -11208,7 +11208,7 @@ In tamil script, unicode/utf-8 format
       and become the gods in the sky.
 --------
 
-31. Thiruthevanārthohai. Nāngai.
+### 31. Thiruthevanārthohai. Nāngai.
 
 1248. Our lord Madhavan stays in Thiruthevanārthohai
       on the southern bank of the Maṇṇai river
@@ -11283,7 +11283,7 @@ In tamil script, unicode/utf-8 format
       they will reach lovely Vaikuṇḍam and stay with the gods.
 ------------
 
-32. Thiruvaṇpurushothamam -Nāngai.
+### 32. Thiruvaṇpurushothamam -Nāngai.
 
 1258. Our lord as Rama, who made a bridge over the ocean,
       went to Lanka, fought with the Rākshasa Rāvaṇa,'
@@ -11362,7 +11362,7 @@ In tamil script, unicode/utf-8 format
       and go to heaven and stay with the gods.
 -----------
 
-33. Thiruchempponseykoyil. - Nāngai
+### 33. Thiruchempponseykoyil. - Nāngai
 
 1268. I saw and bowed to the generous cloud-colored god
       who, worshiped and praised by the people of the world,
@@ -11443,7 +11443,7 @@ In tamil script, unicode/utf-8 format
       and go to heaven and stay there happily.
 -----------
 
-34. Thiruthetriyampalam. Nāngai
+### 34. Thiruthetriyampalam. Nāngai
 
 1278. See, as Kaṇṇan, the lovely-eyed Thirumāl
       who destroyed the shining crowns of his enemies,
@@ -11548,7 +11548,7 @@ In tamil script, unicode/utf-8 format
       and go to the highest sky and shine as gods.
 -----------
 
-35. Thirumaṇikkuḍam - Nāngai.
+### 35. Thirumaṇikkuḍam - Nāngai.
 
 1288. Our father who took away the suffering
       of the long-trunked elephant Gajendra
@@ -11627,7 +11627,7 @@ In tamil script, unicode/utf-8 format
       where the sun and moon move.
 -----------
 
-36. Thirukkāvalandaṇbādi
+### 36. Thirukkāvalandaṇbādi
 
 1298. O Kaṇṇā, you measured the earth and the sky
       with your feet at the sacrifice of king Mahabali.
@@ -11709,7 +11709,7 @@ In tamil script, unicode/utf-8 format
       and be shaded by royal umbrellas as kings bow to them.
 -------------
 
-37. Thiruveḷḷakkuḷam -Nāngur
+### 37. Thiruveḷḷakkuḷam -Nāngur
 
 1308. You, the highest one
       with a divine body that is dark as the wide ocean
@@ -11773,7 +11773,7 @@ In tamil script, unicode/utf-8 format
       they will go to heaven and be with gods.
 -----------
 
-38. Thiruppārthanpaḷḷi. Nāngai
+### 38. Thiruppārthanpaḷḷi. Nāngai
     A worried mother!
 
 1318. My daughter says, “He is Kaṇṇan, the king
@@ -11861,7 +11861,7 @@ In tamil script, unicode/utf-8 format
       they will go to divine Vaikuṇḍam and live happily.
 ------------
 
-39. Thiruvindalur
+### 39. Thiruvindalur
 
 1328. We, your slaves and servants,
       worship you, our father who stay in Indalur.
@@ -11933,7 +11933,7 @@ In tamil script, unicode/utf-8 format
       they will become the god of the gods in the sky.
 -----------
 
-40. Thiruveḷḷiyanguḍi
+### 40. Thiruveḷḷiyanguḍi
 
 1338. Our dear lord who ate the butter that the cowherd women gave him,
       slept on a banyan leaf at the end of the eon,
@@ -12018,7 +12018,7 @@ In tamil script, unicode/utf-8 format
       they will rule this world surrounded with the roaring oceans.
 -----------
 
-41. Thirupuḷḷambudanguḍi
+### 41. Thirupuḷḷambudanguḍi
 
 1348. The lord who is a dancer, my ruler
       and the ruler of the whole world, is hard for anyone to know.
@@ -12110,7 +12110,7 @@ In tamil script, unicode/utf-8 format
       they will have no trouble in their lives.
 ------------
 
-42. Thirukkuḍalur
+### 42. Thirukkuḍalur
 
 1358. Kudalur where beautiful girls
       with fingers as lovely as kāndal buds
@@ -12171,7 +12171,7 @@ In tamil script, unicode/utf-8 format
       the results of their karma will not come to them.
 -----------
 
-43. Thiruveḷḷaṛai
+### 43. Thiruveḷḷaṛai
 
 1368. O divine lord who came as Parasuraman carrying a mazhu
       and conquered many kings for twenty-seven generations,
@@ -12258,7 +12258,7 @@ In tamil script, unicode/utf-8 format
       they will become the kings of the gods.
 -----------
 
-44. Thennarangam
+### 44. Thennarangam
 
 1378. Our father, the father of the gods
       who created Nānmuhan on his navel
@@ -12335,7 +12335,7 @@ In tamil script, unicode/utf-8 format
       they will rule the world and go to heaven and rule it.
 -------------
 
-45. Thiruvarangam
+### 45. Thiruvarangam
 
 1388. Her mother says,
       “My daughter never used to worry about anything.
@@ -12451,7 +12451,7 @@ In tamil script, unicode/utf-8 format
       and go and live in the golden world of heaven.
 -----------
 
-46. Thennarangam
+### 46. Thennarangam
 
 1398. In Thennarangam surrounded by the beautiful ocean
       I saw the lord who is as strong as an elephant,
@@ -12531,7 +12531,7 @@ In tamil script, unicode/utf-8 format
       the results of their bad karma will not come to them.
 ----------
 
-47. Thiruvarangam
+### 47. Thiruvarangam
 
 1408. Our dear lord who is the ancient four Vedas, the sacrifice,
       question, answer and the meaning of all,
@@ -12613,7 +12613,7 @@ In tamil script, unicode/utf-8 format
       If devotees learn and sing these songs,their bad karma will disappear.
 ---------
 
-48. Thiruvarangam
+### 48. Thiruvarangam
 
 1418. You did not consider that the boatman Guhan
       was poor and low-caste, or that he was not your relative,
@@ -12724,7 +12724,7 @@ In tamil script, unicode/utf-8 format
       If you learn and recite these ten pāsurams, your sins will go away.
 --------
 
-49. Thenthirupperur
+### 49. Thenthirupperur
 
 1428. The dark colored lord
       who carries a shining discus and a conch in his hands,
@@ -12805,7 +12805,7 @@ In tamil script, unicode/utf-8 format
       they will go to the high sky.
 ---------
 
-50. Thirunandipuraviṇṇagaram PERUMAL
+### 50. Thirunandipuraviṇṇagaram PERUMAL
 
 1438. Our lord is the faultless earth, fire, wind, water, and the high sky,
       our faultless mind, sleep and moksha.
@@ -12892,7 +12892,7 @@ and where the king Nandi served him.
       all their bad karma will disappear.
 --------
 
-51. Thiruvinnagaram
+### 51. Thiruvinnagaram
 
 1448. O lord, you are my ruler!
       I came and worshiped you
@@ -12985,7 +12985,7 @@ and where the king Nandi served him.
       they will reach the feet of the lord Vāmanan.
 ----------
 
-52. Thiruviṇṇagaram
+### 52. Thiruviṇṇagaram
 
 1458. Before I wanted wealth
       and the pleasures that the five senses gave.
@@ -13087,7 +13087,7 @@ and where the king Nandi served him.
       and go to the world of the victorious gods.
 ----------
 
-53. Thiruviṇṇagar
+### 53. Thiruviṇṇagar
 
 1468. I will not lose the divine pleasures
       that I receive from you.
@@ -13167,7 +13167,7 @@ and where the king Nandi served him.
       no troubles will come to them in their lives.
 ------------
 
-54. Thirunaṛaiyur
+### 54. Thirunaṛaiyur
 
 1478. When you grow old you won’t be able to see
       and your eyes will be filled with mucus.
@@ -13267,7 +13267,7 @@ and where the king Nandi served him.
       they will become kings of the gods in the sky.
 -----------
 
-55. Thirunaṛaiyur
+### 55. Thirunaṛaiyur
 
 1488. The lord, the divine light
       who carries a discus in his right hand
@@ -13348,7 +13348,7 @@ and where the king Nandi served him.
       Thirumāl will save them and be their help.
 ----------
 
-56. Thirunaṛaiyur - Maṇimāḍakkovil
+### 56. Thirunaṛaiyur - Maṇimāḍakkovil
 
 1498. O devotees, you join the divine feet
       of him who swallowed the sky, the vast earth, the eight directions,
@@ -13452,7 +13452,7 @@ and where the king Nandi served him.
       and truly they will have the fortune of being the guests of the gods.
 -----------
 
-57. Thirunaṛaiyur
+### 57. Thirunaṛaiyur
 
 1508. The Nambi who shot arrows from his cruel bow
       and cut off the arms and heads of the Rākshasas in Lanka
@@ -13549,7 +13549,7 @@ and where the king Nandi served him.
       They will rule this world, go to heaven and be worshiped by the gods.
 -------
 
-58. Thirunaṛaiyur
+### 58. Thirunaṛaiyur
 
 1518. Our Thirumāl took the form of a bachelor wearing a deerskin on his chest,
       went to king Mahābali, asked for three feet of land
@@ -13619,7 +13619,7 @@ and where the king Nandi served him.
       they will become gods among the gods in the golden world of heaven.
 -----------
 
-59. Thirunaṛaiyur
+### 59. Thirunaṛaiyur
 
 1528. O heart, go and reach the feet of the divine one
       who took away the trouble of Shiva
@@ -13699,7 +13699,7 @@ and where the king Nandi served him.
       they will go to the sky and live with gods.
 ------------
 
-60. Thirunaṛaiyur
+### 60. Thirunaṛaiyur
 
 1538. Our Nambi who rests on Adisesha on the ocean in Kuḍandai
       took the form of a boar and split open the earth
@@ -13776,7 +13776,7 @@ and where the king Nandi served him.
       all their bad karma will be removed.
 ----------
 
-61. Thirunaṛaiyur
+### 61. Thirunaṛaiyur
 
 1548. Like a young calf that craves its mother’s milk
       I call you unceasingly.
@@ -13852,7 +13852,7 @@ and where the king Nandi served him.
       you will go to heaven and your troubles will disappear.
 -----------
 
-62. Thirunaṛaiyur
+### 62. Thirunaṛaiyur
 
 1558. When I praise you saying,
       “You took the form of a swan and a boar.
@@ -13933,7 +13933,7 @@ and where the king Nandi served him.
       they will go to heaven and stay there happily forever.
 ------
 
-63. Thirunaraiyur
+### 63. Thirunaraiyur
 
 1568. The learned ones praise him in their minds always saying,
       “He killed the cruel-eyed Rakshasas with his heroic bow.”
@@ -14029,7 +14029,7 @@ and where the king Nandi served him.
       and the results of your karma will go away.
 --------
 
-64. Thiruthaṇcherai
+### 64. Thiruthaṇcherai
 
 1578. Your devotees praise you saying,
       “O king of the gods!
@@ -14123,7 +14123,7 @@ and where the king Nandi served him.
       and worship his pure golden feet.
 ----------
 
-65. Thiruvazhundur
+### 65. Thiruvazhundur
 
 1588. When his father Vasudevan was imprisoned by Kamsan,
       Kaṇṇan broke the chains that bound his feet
@@ -14203,7 +14203,7 @@ and where the king Nandi served him.
       and the alli flowers are bright like their faces.
 ----------
 
-66. Thiruvazhundur
+### 66. Thiruvazhundur
 
 1598. The lord who took the form of a man-lion
       and split open the chest of the Asuran Hiraṇyan,
@@ -14281,7 +14281,7 @@ and where the king Nandi served him.
       they will go to the world of the sky and rule there.
 ---------
 
-67. Thiruvazhundur
+### 67. Thiruvazhundur
 
 1608. You, our lovely Kaṇṇan, the wealth of all wealth,
       carry a strong shining discus
@@ -14377,7 +14377,7 @@ and where the king Nandi served him.
       under a precious white royal umbrella.
 -----------
 
-68. Thiruvazhundur
+### 68. Thiruvazhundur
 
 1618. The Māyon who rests on Adisesha on the wide ocean
       rolling with waves,
@@ -14483,7 +14483,7 @@ and where the king Nandi served him.
       surrounded by the sounding oceans.
 -----------
 
-69. Thiruchirupuliyur
+### 69. Thiruchirupuliyur
 
 1628. O devotees!
       Think of removing evil thoughts from your mind
@@ -14565,7 +14565,7 @@ and where the king Nandi served him.
       the results of their karma will be removed.
 ------------
 
-70. Thirukkaṇṇamangai
+### 70. Thirukkaṇṇamangai
     (Bhakthavatsala Perumal & Abhisekhavalli)
 
 1638. I searched for him and in Thirukaṇṇamangai
@@ -14668,7 +14668,7 @@ and where the king Nandi served him.
       these pāsurams of Kaliyan and understand them.
 -------------
 
-71. Thirukaṇṇapuram
+### 71. Thirukaṇṇapuram
 
 1648. My daughter’s breasts have become pale.
       She is in love with the ocean-colored god and she says,
@@ -14761,7 +14761,7 @@ and where the king Nandi served him.
       where the Karpaga tree blooms and stay there as famous kings.
 ---------
 
-72. Thirukkaṇṇapuram
+### 72. Thirukkaṇṇapuram
 
 1658. Her mother says,
       "O faultless god of the gods
@@ -14836,7 +14836,7 @@ and where the king Nandi served him.
       they will live long with fame on this earth surrounded with oceans.
 ------------
 
-73. Thirukkaṇṇapuram
+### 73. Thirukkaṇṇapuram
 
 She says,
 “My bangles grew loose and fell from my arms because of him
@@ -14931,9 +14931,9 @@ precious corals and creepers and leave them on the banks.”
       their bad karma will have no results.
 --------
 
-74. Thirukkaṇṇapuram
+### 74. Thirukkaṇṇapuram
 
-l678. She says,
+1678. She says,
 “ O kol bee, come and blow on the pollen
 of the beautiful fragrant thulasi garland
 in the hair of the god of the gods in the sky
@@ -15018,7 +15018,7 @@ where the whole world come and worships him.”
       and sing the pāsurams of Kaliyan.
 -----------
 
-75. Thirukkaṇṇapuram
+### 75. Thirukkaṇṇapuram
 
 1688. She says,
       “My heart went to the lord
@@ -15118,7 +15118,7 @@ where the whole world come and worships him.”
       and stay with the gods.
 ---------------
 
-76. Thirukkaṇṇapuram
+### 76. Thirukkaṇṇapuram
 
 1698. O devotees, I have found a way to be saved.
       Our divine strong-shouldered lord became angry,
@@ -15210,7 +15210,7 @@ where the whole world come and worships him.”
       they will rule this large world as the gods praise them.
 -------------
 
-77. Thirukkaṇṇapuram
+### 77. Thirukkaṇṇapuram
 
 1708. He with a wide mountain-like chest
       who killed seven bulls to marry beautiful Nappinnai
@@ -15280,7 +15280,7 @@ where the whole world come and worships him.”
       they will have no trouble in their lives.
 ---------
 
-78. Thirukkaṇṇapuram
+### 78. Thirukkaṇṇapuram
 
 1718. The cool lotus-eyed Kaṇṇan, the cowherd
       took the form of a strong fish and saved the world from the storm
@@ -15359,7 +15359,7 @@ where the whole world come and worships him.”
       they will not have the results of their karma.
 ------------
 
-79. Thirukkaṇṇapuram
+### 79. Thirukkaṇṇapuram
 
 1728. The dark cloud-colored lord
       who saved the long-trunked Gajendra from the crocodile,
@@ -15431,7 +15431,7 @@ where the whole world come and worships him.”
       and make the earth flourish.
 ----------------
 
-80. Thirukkaṇṇapuram
+### 80. Thirukkaṇṇapuram
 
 1738. You are the beloved of the beautiful Lakshmi
       on a lovely lotus swarming with bees.
@@ -15506,7 +15506,7 @@ where the whole world come and worships him.”
       We know that surely.
 ------------
 
-81. Thirukkaṇṇangudi
+### 81. Thirukkaṇṇangudi
 
 1748. The dark ocean-colored god with a conch in his hand
       and rests on shining Adisesha on the wide ocean rolling with waves
@@ -15609,7 +15609,7 @@ where the whole world come and worships him.”
       they will have no troubles in their lives.
 -----------
 
-82. Thirupullāni
+### 82. Thirupullāni
 
 1758. She says,
       “O friend,
@@ -15710,7 +15710,7 @@ where the whole world come and worships him.”
       and go to the world of the gods and stay there happily.
 -------------
 
-83. Thiruppullāṇi
+### 83. Thiruppullāṇi
 
 1768. She says,
       “O heart, you suffer with your love \ for him.
@@ -15805,7 +15805,7 @@ where the whole world come and worships him.”
       they will go to Vaikuṇṭam.
 --------
 
-84. Thiruppullāṇii
+### 84. Thiruppullāṇii
 
 1778. She says,
       “ The sorrowful calling of the andril bird
@@ -15886,7 +15886,7 @@ where the whole world come and worships him.”
       they will rule this earth as kings and also rule the sky.
 --------------
 
-85. Thirukkuṛunguḍi
+### 85. Thirukkuṛunguḍi
 
 1788. She says,
       “The white crescent moon,
@@ -15990,7 +15990,7 @@ where the whole world come and worships him.”
       Take me to Thirukkuṛunguḍi where he stays and leave me.”
 ------------
 
-86. Thirukkuṛunguḍi
+### 86. Thirukkuṛunguḍi
 
 1798. The good-natured god who has with him Shiva
       wearing a garland of skulls and a tiger skin around his waist
@@ -16067,7 +16067,7 @@ where the whole world come and worships him.”
       their karma will disappear.
 ------------
 
-87. Thirumāvallavāzh
+### 87. Thirumāvallavāzh
 
 1808. O heart, if you are suffering with your family,
       your father, mother, children and others,
@@ -16152,7 +16152,7 @@ where the whole world come and worships him.”
       they will become kings, ruling and enjoying this wide world.
 -----------
 
-88. Thirumālirunjolai
+### 88. Thirumālirunjolai
 
 1818. O ignorant heart,
       I would tell you something wonderful.
@@ -16245,7 +16245,7 @@ where the whole world come and worships him.”
       they will rule this world surrounded by the sounding oceans.
 -------------
 
-89. Thirumalirunjolai
+### 89. Thirumalirunjolai
 
 1828. Her mother says,
       “He, the highest of the three gods
@@ -16335,7 +16335,7 @@ where the whole world come and worships him.”
       they will not experience any fruits of their karma.
 ----------
 
-90. Thirukkoṭṭiyur
+### 90. Thirukkoṭṭiyur
 
 1838. Our dear god, our king, chief of the gods in the sky,
       who stays in the minds of the devotees who praise him
@@ -16419,7 +16419,7 @@ where the whole world come and worships him.”
       and praise Neḍumāl, they will go to heaven.
 ------------
 
-91. Praise of eighteen Thiruppathis
+### 91. Praise of eighteen Thiruppathis
 
 1848. He is my relative and my dear life,
       my precious wealth and the lord who gives me moksha.
@@ -16488,7 +16488,7 @@ where the whole world come and worships him.”
       they will not have any trouble in their lives and they will rule the world.
 ------------
 
-92. Thaḍampongat tam pongo
+### 92. Thaḍampongat tam pongo
     The Rākshasas sing, dance and praise Rama
 
 1858. “Our king was not compassionate and did evil things.
@@ -16586,7 +16586,7 @@ where the whole world come and worships him.”
       Let us sing, “Thadam pongaththam pongo!”
 ----------
 
-93. Kuzhamaṇi thuram - The Rākshasas sing and dance
+### 93. Kuzhamaṇi thuram - The Rākshasas sing and dance
 
 1868. “We praise the divine name of Rama.
       O Nampi, we bow to you, O Sugriva, we worship you.
@@ -16664,7 +16664,7 @@ where the whole world come and worships him.”
       Sing these ten pāsurams and dance.
 -------------
 
-94. Yashoda calls Kaṇṇan to come and drink milk
+### 94. Yashoda calls Kaṇṇan to come and drink milk
 
 1878. Run and come happily as fragrant flowers
       fall from your beautiful hair
@@ -16746,7 +16746,7 @@ where the whole world come and worships him.”
       they will go to heaven and be with the gods.
 ------------
 
-95. Cowherdesses ask Kaṇṇan to clap his hands
+### 95. Cowherdesses ask Kaṇṇan to clap his hands
 
 1888. When you ate the butter that Yashoda the cowherdess
       with hair adorned with beautiful flowers churned and kept,
@@ -16828,7 +16828,7 @@ where the whole world come and worships him.”
       You have a broad chest. Clap your hands!
 ------
 
-96. The cowherd women tied Kaṇṇan with a rope when he stole butter.
+### 96. The cowherd women tied Kaṇṇan with a rope when he stole butter.
 
 1898. Is there a māyam like this?
       The lord Nārāyaṇan came to the earth as a man
@@ -16937,7 +16937,7 @@ where the whole world come and worships him.”
       They will reach the heaven that is above even the world of the gods.
 -------------
 
-97. Churning yogurt
+### 97. Churning yogurt
 
 1908. Yashoda says,
       “Our cowherd clan is respected by all.
@@ -17089,7 +17089,7 @@ where the whole world come and worships him.”
       they will have no troubles in life.
 ------------
 
-98. Iduvenno, Iduvenno
+### 98. Iduvenno, Iduvenno
 
 1922. A cowherd girl says to Kaṇṇan,
       “You didn’t come on the day you said you would to see me,
@@ -17166,7 +17166,7 @@ where the whole world come and worships him.”
       they will have no sorrow in their lives.
 -------------
 
-99. Her mother śays
+### 99. Her mother śays
 
 1932. Her mother says,
       “You, the heroic lord, burnt Lanka
@@ -17280,7 +17280,7 @@ where the whole world come and worships him.”
       their devotion and wealth will increase.
 ----------
 
-100. Messengers
+### 100. Messengers
 
 1942. She says,
       “O red pothu bird!
@@ -17353,7 +17353,7 @@ where the whole world come and worships him.”
       Sing, O devotees.
 ------------
 
-101. The Breeze
+### 101. The Breeze
 
 1952. She says,
       “Our divine god protected the cows and cowherds
@@ -17434,7 +17434,7 @@ where the whole world come and worships him.”
       they will have no trouble in life.
 --------------
 
-102. She says
+### 102. She says
 
 1962. She says,
       “The lord who carried Govardhana mountain as an umbrella
@@ -17513,7 +17513,7 @@ where the whole world come and worships him.”
       they will not experience the results of their karma in this world.
 ------------
 
-103. She says.
+### 103. She says.
 
 1972. She says,
       “He drove a shining chariot in the Bharatha war
@@ -17578,7 +17578,7 @@ where the whole world come and worships him.”
       without any troubles in this world.
 -----------
 
-104.
+### 104.
 1982. When the world was inundated by a terrible flood
       and the waves of the ocean rose
       and the water flowed everywhere
@@ -17660,7 +17660,7 @@ where the whole world come and worships him.”
       they will go to the world of the gods and rule there.
 -----------
 
-105. Thiruchāzhal
+### 105. Thiruchāzhal
 
 1992. O friend, see, he went on a path filled with stones
       and lived in the forest with his wife Vaidehi with soft doe like eyes..
@@ -17732,7 +17732,7 @@ where the whole world come and worships him.”
       he is in the heart of the poet Kaliyan. Sāzhale.
 ------------
 
-106. The end of the eon
+### 106. The end of the eon
 
 2002. At the end of the eon,
       he swallowed all the gods’ worlds
@@ -17822,7 +17822,7 @@ where the whole world come and worships him.”
       receive the grace of Lakshmi on the lotus, and shine.
 ------------
 
-107. Thenāli
+### 107. Thenāli
 
 2012. The dear lord whose chest is adorned with jewels
       shines like a golden hill and rides on the bird Garuḍa.
@@ -17893,7 +17893,7 @@ where the whole world come and worships him.”
       all the results of their bad karma will go away.
 ----------
 
-108. Bhakthi. Born again
+### 108. Bhakthi. Born again
 
 2022. O Nambi, you are smell, taste, touch and sound.
       When I complain that you have not given me your grace,
@@ -18123,11 +18123,12 @@ where the whole world come and worships him.”
 ## 12. Thiruneḍunthāṇḍagam - Thirumangaiyāzhvār (2052 – 2081)
 
 This book is divided into three parts.
+
 1. Praise of the god .
 2. A mother speak about her daughter who loves Kaṇṇan.
 3. The daughter who loves Kaṇṇan talks about her love with her friend.
 
-Praising god
+### Praising god
 
 2052. Shining like lightning, he is the four Vedas,
       the light of a lamp, the rising crescent moon,
@@ -18289,9 +18290,7 @@ A worrying mother!
       When my daughter sings the praise of Thirumāl
       her parrot listens and sings with her.
       She is happy that she taught her beautiful parrot the praise of the lord
-      and she says ‘I taught you the praise of the lord and I am happy to hear that from you. ’ ------------
-
-She folds her hands and worships him.”
+      and she says ‘I taught you the praise of the lord and I am happy to hear that from you. ’ ------------ She folds her hands and worships him.”
 
 2066. “My daughter says,
       ‘He, mighty as an elephant,
