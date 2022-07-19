@@ -1,6 +1,7 @@
 [[data]]
 "Sl no" = 1
-"Name of the prabandham" = 'Periazhvar Thirumozhi'
+"id" = "periy-ALHvAr-tirumoLHi"
+"pop_romanization" = 'Periazhvar Thirumozhi'
 "Starting from" = 1
 "Ending with" = 473
 "Number of pasurams" = 473
@@ -8,7 +9,8 @@
 
 [[data]]
 "Sl no" = 2
-"Name of the prabandham" = 'Thiruppavai'
+"id" = "tirup-pAvai"
+"pop_romanization" = 'Thiruppavai'
 "Starting from" = 474
 "Ending with" = 503
 "Number of pasurams" = 30
@@ -16,7 +18,8 @@
 
 [[data]]
 "Sl no" = 3
-"Name of the prabandham" = 'Nachiar Tirumozhi'
+"id" = 'nAchiyAr-tirumoLHi'
+"pop_romanization" = 'Nachiar Tirumozhi'
 "Starting from" = 504
 "Ending with" = 646
 "Number of pasurams" = 143
@@ -24,7 +27,8 @@
 
 [[data]]
 "Sl no" = 4
-"Name of the prabandham" = 'Perumal Thirumozhi'
+"id" = 'perumAL-tirumoLHi'
+"pop_romanization" = 'Perumal Thirumozhi'
 "Starting from" = 647
 "Ending with" = 751
 "Number of pasurams" = 105
@@ -32,7 +36,8 @@
 
 [[data]]
 "Sl no" = 5
-"Name of the prabandham" = 'Thiruchchanda Viruththam'
+"id" = 'Thiruchchanda Viruththam'
+"pop_romanization" = 'Thiruchchanda Viruththam'
 "Starting from" = 752
 "Ending with" = 871
 "Number of pasurams" = 120
@@ -40,7 +45,8 @@
 
 [[data]]
 "Sl no" = 6
-"Name of the prabandham" = 'Thirumalai'
+"id" = 'tiru-mAlai'
+"pop_romanization" = 'Thirumalai'
 "Starting from" = 872
 "Ending with" = 916
 "Number of pasurams" = 45
@@ -48,7 +54,8 @@
 
 [[data]]
 "Sl no" = 7
-"Name of the prabandham" = 'Thiruppalliyezhuchchi'
+"id" = 'tirup-palli-yeLHuchchi'
+"pop_romanization" = 'Thiruppalliyezhuchchi'
 "Starting from" = 917
 "Ending with" = 926
 "Number of pasurams" = 10
@@ -56,7 +63,8 @@
 
 [[data]]
 "Sl no" = 8
-"Name of the prabandham" = 'Amalanadhi piran'
+"id" = 'Amalanadhi piran'
+"pop_romanization" = 'Amalanadhi piran'
 "Starting from" = 927
 "Ending with" = 936
 "Number of pasurams" = 10
@@ -64,7 +72,8 @@
 
 [[data]]
 "Sl no" = 9
-"Name of the prabandham" = 'Kanni Nun Siruththambu'
+"id" = 'Kanni Nun Siruththambu'
+"pop_romanization" = 'Kanni Nun Siruththambu'
 "Starting from" = 937
 "Ending with" = 947
 "Number of pasurams" = 11
@@ -72,7 +81,8 @@
 
 [[data]]
 "Sl no" = 10
-"Name of the prabandham" = 'Peria Thirumozhi'
+"id" = 'Peria Thirumozhi'
+"pop_romanization" = 'Peria Thirumozhi'
 "Starting from" = 948
 "Ending with" = 2031
 "Number of pasurams" = 1084
@@ -80,7 +90,8 @@
 
 [[data]]
 "Sl no" = 11
-"Name of the prabandham" = 'Kurun Thandagam'
+"id" = 'Kurun Thandagam'
+"pop_romanization" = 'Kurun Thandagam'
 "Starting from" = 2032
 "Ending with" = 2051
 "Number of pasurams" = 20
@@ -88,7 +99,8 @@
 
 [[data]]
 "Sl no" = 12
-"Name of the prabandham" = 'Nedum Thandagam'
+"id" = 'Nedum Thandagam'
+"pop_romanization" = 'Nedum Thandagam'
 "Starting from" = 2052
 "Ending with" = 2081
 "Number of pasurams" = 30
@@ -96,7 +108,8 @@
 
 [[data]]
 "Sl no" = 13
-"Name of the prabandham" = 'Mudhal Thiruvandhadhi'
+"id" = 'Mudhal Thiruvandhadhi'
+"pop_romanization" = 'Mudhal Thiruvandhadhi'
 "Starting from" = 2082
 "Ending with" = 2181
 "Number of pasurams" = 100
@@ -104,7 +117,8 @@
 
 [[data]]
 "Sl no" = 14
-"Name of the prabandham" = 'Irandam Thiruvandhadhi'
+"id" = 'Irandam Thiruvandhadhi'
+"pop_romanization" = 'Irandam Thiruvandhadhi'
 "Starting from" = 2182
 "Ending with" = 2281
 "Number of pasurams" = 100
@@ -112,7 +126,8 @@
 
 [[data]]
 "Sl no" = 15
-"Name of the prabandham" = 'Moonram Thiruvandhadhi'
+"id" = 'Moonram Thiruvandhadhi'
+"pop_romanization" = 'Moonram Thiruvandhadhi'
 "Starting from" = 2282
 "Ending with" = 2381
 "Number of pasurams" = 100
@@ -120,7 +135,8 @@
 
 [[data]]
 "Sl no" = 16
-"Name of the prabandham" = 'Naanmugan Thiruvandhadhi'
+"id" = 'Naanmugan Thiruvandhadhi'
+"pop_romanization" = 'Naanmugan Thiruvandhadhi'
 "Starting from" = 2382
 "Ending with" = 2477
 "Number of pasurams" = 96
@@ -128,7 +144,8 @@
 
 [[data]]
 "Sl no" = 17
-"Name of the prabandham" = 'Thiruviruththam'
+"id" = 'Thiruviruththam'
+"pop_romanization" = 'Thiruviruththam'
 "Starting from" = 2478
 "Ending with" = 2577
 "Number of pasurams" = 100
@@ -136,7 +153,8 @@
 
 [[data]]
 "Sl no" = 18
-"Name of the prabandham" = 'Thiruvasiriyam'
+"id" = 'Thiruvasiriyam'
+"pop_romanization" = 'Thiruvasiriyam'
 "Starting from" = 2578
 "Ending with" = 2584
 "Number of pasurams" = 7
@@ -144,7 +162,8 @@
 
 [[data]]
 "Sl no" = 19
-"Name of the prabandham" = 'Peria Thiruvandhadhi'
+"id" = 'Peria Thiruvandhadhi'
+"pop_romanization" = 'Peria Thiruvandhadhi'
 "Starting from" = 2585
 "Ending with" = 2671
 "Number of pasurams" = 87
@@ -152,7 +171,8 @@
 
 [[data]]
 "Sl no" = 20
-"Name of the prabandham" = 'Thiruvezhukkurrirukkai'
+"id" = 'Thiruvezhukkurrirukkai'
+"pop_romanization" = 'Thiruvezhukkurrirukkai'
 "Starting from" = 2672
 "Ending with" = 2672
 "Number of pasurams" = 1
@@ -160,7 +180,8 @@
 
 [[data]]
 "Sl no" = 21
-"Name of the prabandham" = 'Siriya Thirumadal'
+"id" = 'Siriya Thirumadal'
+"pop_romanization" = 'Siriya Thirumadal'
 "Starting from" = 2673
 "Ending with" = 2712
 "Number of pasurams" = 40
@@ -168,7 +189,8 @@
 
 [[data]]
 "Sl no" = 22
-"Name of the prabandham" = 'Peria Thirumadal'
+"id" = 'Peria Thirumadal'
+"pop_romanization" = 'Peria Thirumadal'
 "Starting from" = 2713
 "Ending with" = 2790
 "Number of pasurams" = 78
@@ -176,7 +198,8 @@
 
 [[data]]
 "Sl no" = 23
-"Name of the prabandham" = 'Thiruvay Mozhi'
+"id" = 'Thiruvay Mozhi'
+"pop_romanization" = 'Thiruvay Mozhi'
 "Starting from" = 2791
 "Ending with" = 3892
 "Number of pasurams" = 1102
@@ -184,7 +207,8 @@
 
 [[data]]
 "Sl no" = 24
-"Name of the prabandham" = 'Ramanuja Nootrandhadi'
+"id" = 'Ramanuja Nootrandhadi'
+"pop_romanization" = 'Ramanuja Nootrandhadi'
 "Starting from" = 3893
 "Ending with" = 4000
 "Number of pasurams" = 108
