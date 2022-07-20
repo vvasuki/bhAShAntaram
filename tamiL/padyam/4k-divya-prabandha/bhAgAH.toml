@@ -1,11 +1,11 @@
 [[data]]
 "Sl no" = 1
-"id" = "periy-ALHvAr-tirumoLHi"
+"id" = "periy-ALHvAr-tirumOLHi"
 "pop_romanization" = 'Periazhvar Thirumozhi'
 "Starting from" = 1
 "Ending with" = 473
 "Number of pasurams" = 473
-"Sung by" = 'Periyalvar'
+"Sung by" = 'periy-ALHvAr'
 
 [[data]]
 "Sl no" = 2
@@ -14,11 +14,11 @@
 "Starting from" = 474
 "Ending with" = 503
 "Number of pasurams" = 30
-"Sung by" = 'Aandaal'
+"Sung by" = 'ANDAL'
 
 [[data]]
 "Sl no" = 3
-"id" = 'nAchiyAr-tirumoLHi'
+"id" = 'nAchiyAr-tirumOLHi'
 "pop_romanization" = 'Nachiar Tirumozhi'
 "Starting from" = 504
 "Ending with" = 646
@@ -27,7 +27,7 @@
 
 [[data]]
 "Sl no" = 4
-"id" = 'perumAL-tirumoLHi'
+"id" = 'perumAL-tirumOLHi'
 "pop_romanization" = 'Perumal Thirumozhi'
 "Starting from" = 647
 "Ending with" = 751
@@ -63,7 +63,7 @@
 
 [[data]]
 "Sl no" = 8
-"id" = 'Amalanadhi piran'
+"id" = 'amalanAdi-birAn'
 "pop_romanization" = 'Amalanadhi piran'
 "Starting from" = 927
 "Ending with" = 936
@@ -72,7 +72,7 @@
 
 [[data]]
 "Sl no" = 9
-"id" = 'Kanni Nun Siruththambu'
+"id" = 'kaNNi-nuN-siRuttAmbu'
 "pop_romanization" = 'Kanni Nun Siruththambu'
 "Starting from" = 937
 "Ending with" = 947
@@ -81,7 +81,7 @@
 
 [[data]]
 "Sl no" = 10
-"id" = 'Peria Thirumozhi'
+"id" = 'periya-tirumOLHi'
 "pop_romanization" = 'Peria Thirumozhi'
 "Starting from" = 948
 "Ending with" = 2031
@@ -90,7 +90,7 @@
 
 [[data]]
 "Sl no" = 11
-"id" = 'Kurun Thandagam'
+"id" = 'tiruk-kurun-dANDagam'
 "pop_romanization" = 'Kurun Thandagam'
 "Starting from" = 2032
 "Ending with" = 2051
@@ -99,7 +99,7 @@
 
 [[data]]
 "Sl no" = 12
-"id" = 'Nedum Thandagam'
+"id" = 'tiru-neDun-dANDagam'
 "pop_romanization" = 'Nedum Thandagam'
 "Starting from" = 2052
 "Ending with" = 2081
@@ -108,7 +108,7 @@
 
 [[data]]
 "Sl no" = 13
-"id" = 'Mudhal Thiruvandhadhi'
+"id" = 'mudal_tiru-vandAdi'
 "pop_romanization" = 'Mudhal Thiruvandhadhi'
 "Starting from" = 2082
 "Ending with" = 2181
@@ -117,7 +117,7 @@
 
 [[data]]
 "Sl no" = 14
-"id" = 'Irandam Thiruvandhadhi'
+"id" = 'iraNDAm_tiru-vandAdi'
 "pop_romanization" = 'Irandam Thiruvandhadhi'
 "Starting from" = 2182
 "Ending with" = 2281
@@ -126,7 +126,7 @@
 
 [[data]]
 "Sl no" = 15
-"id" = 'Moonram Thiruvandhadhi'
+"id" = 'mUNDrAm_tiru-vandAdi'
 "pop_romanization" = 'Moonram Thiruvandhadhi'
 "Starting from" = 2282
 "Ending with" = 2381
@@ -135,7 +135,7 @@
 
 [[data]]
 "Sl no" = 16
-"id" = 'Naanmugan Thiruvandhadhi'
+"id" = 'nAnmugan-tiru-vandAdi'
 "pop_romanization" = 'Naanmugan Thiruvandhadhi'
 "Starting from" = 2382
 "Ending with" = 2477
@@ -144,7 +144,7 @@
 
 [[data]]
 "Sl no" = 17
-"id" = 'Thiruviruththam'
+"id" = 'tiru-viruttam'
 "pop_romanization" = 'Thiruviruththam'
 "Starting from" = 2478
 "Ending with" = 2577
@@ -153,7 +153,7 @@
 
 [[data]]
 "Sl no" = 18
-"id" = 'Thiruvasiriyam'
+"id" = 'tiru-vAsiriyam'
 "pop_romanization" = 'Thiruvasiriyam'
 "Starting from" = 2578
 "Ending with" = 2584
@@ -162,7 +162,7 @@
 
 [[data]]
 "Sl no" = 19
-"id" = 'Peria Thiruvandhadhi'
+"id" = 'periya-tiru-vandAdi'
 "pop_romanization" = 'Peria Thiruvandhadhi'
 "Starting from" = 2585
 "Ending with" = 2671
@@ -171,7 +171,7 @@
 
 [[data]]
 "Sl no" = 20
-"id" = 'Thiruvezhukkurrirukkai'
+"id" = 'tiru-veLHukkUTrirukkai'
 "pop_romanization" = 'Thiruvezhukkurrirukkai'
 "Starting from" = 2672
 "Ending with" = 2672
@@ -180,7 +180,7 @@
 
 [[data]]
 "Sl no" = 21
-"id" = 'Siriya Thirumadal'
+"id" = 'siRiya-tiru-maDal'
 "pop_romanization" = 'Siriya Thirumadal'
 "Starting from" = 2673
 "Ending with" = 2712
@@ -189,7 +189,7 @@
 
 [[data]]
 "Sl no" = 22
-"id" = 'Peria Thirumadal'
+"id" = 'periya-tiru-maDal'
 "pop_romanization" = 'Peria Thirumadal'
 "Starting from" = 2713
 "Ending with" = 2790
@@ -198,7 +198,7 @@
 
 [[data]]
 "Sl no" = 23
-"id" = 'Thiruvay Mozhi'
+"id" = 'tiru-vAymoLHi'
 "pop_romanization" = 'Thiruvay Mozhi'
 "Starting from" = 2791
 "Ending with" = 3892
@@ -207,7 +207,7 @@
 
 [[data]]
 "Sl no" = 24
-"id" = 'Ramanuja Nootrandhadi'
+"id" = 'irAmAnuja-nUTrandAdi'
 "pop_romanization" = 'Ramanuja Nootrandhadi'
 "Starting from" = 3893
 "Ending with" = 4000
