@@ -14,7 +14,7 @@ unicode_script = "devanagari"
 - घोषवतां अभिज्ञानम्
   - पदमध्ये कचटतपाः गजडदबायन्ते।
     - नैवं यद्य् अनुनासिक-भिन्न-व्यञ्जन-पराः।
-- पदादौ स्वरमध्ये च चकारः सकारायते द्राविडदेशे।  
+- पदादौ स्वर-मध्ये च चकारः सकारायते द्राविडदेशे।  
   - "Ch>s is a later development which is generally attributed to vnagar era as an influence of telugu on tamil spoken (in TN). SL tamil also has less use of s comparatively." इति रविलोचनः।
   - श्रीवैष्णवपरिभाषायां नैवम् - बहुत्र तु शकारायते - पेशु इति यथा। अन्ये केचिच् "चोल्ल" इत्येव वदन्ति। 
 - क्षकारः ट्चकारायते। 
