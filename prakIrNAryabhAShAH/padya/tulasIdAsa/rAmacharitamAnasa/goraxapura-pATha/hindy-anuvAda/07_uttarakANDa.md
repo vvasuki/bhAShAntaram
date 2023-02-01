@@ -12,10 +12,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 केकीकण्ठाभनीलं सुरवरविलसद्विप्रपादाब्जचिह्नं  
 शोभाढ्यं पीतवस्त्रं सरसिजनयनं सर्वदा सुप्रसन्नम्‌।  
 पाणौ नाराचचापं कपिनिकरयुतं बन्धुना सेव्यमानं।  
 नौमीड्यं जानकीशं रघुवरमनिशं पुष्पकारूढरामम्‌॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -33,8 +36,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोसलेन्द्रपदकन्जमञ्जुलौ कोमलावजमहेशवन्दितौ।  
 जानकीकरसरोजलालितौ चिन्तकस्य मनभृङ्गसङ्गिनौ॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -50,8 +56,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कुन्दइन्दुदरगौरसुन्दरं अम्बिकापतिमभीष्टसिद्धिदम्‌।  
 कारुणीककलकन्जलोचनं नौमि शङ्करमनङ्गमोचनम्‌॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -70,8 +79,11 @@ unicode_script = "devanagari"
 ### 02 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रहा एक दिन अवधि कर अति आरत पुर लोग।  
 जहँ तहँ सोचहिं नारि नर कृस तन राम बियोग॥1॥ 
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -87,8 +99,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सगुन होहिं सुन्दर सकल मन प्रसन्न सब केर।  
 प्रभु आगवन जनाव जनु नगर रम्य चहुँ फेर॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -104,8 +119,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कौसल्यादि मातु सब मन अनन्द अस होइ।  
 आयउ प्रभु श्री अनुज जुत कहन चहत अब कोइ॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -121,8 +139,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरत नयन भुज दच्छिन फरकत बारहिं बार।  
 जानि सगुन मन हरष अति लागे करन बिचार॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -141,8 +162,11 @@ unicode_script = "devanagari"
 ### 03 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रहेउ एक दिन अवधि अधारा। समुझत मन दुख भयउ अपारा॥  
 कारन कवन नाथ नहिं आयउ। जानि कुटिल किधौं मोहि बिसरायउ॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -158,8 +182,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अहह धन्य लछिमन बडभागी। राम पदारबिन्दु अनुरागी॥  
 कपटी कुटिल मोहि प्रभु चीन्हा। ताते नाथ सङ्ग नहिं लीन्हा॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -175,8 +202,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जौं करनी समुझै प्रभु मोरी। नहिं निस्तार कलप सत कोरी॥  
 जन अवगुन प्रभु मान न काऊ। दीन बन्धु अति मृदुल सुभाऊ॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -192,8 +222,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोरे जियँ भरोस दृढ सोई। मिलिहहिं राम सगुन सुभ होई॥  
 बीतें अवधि रहहिं जौं प्राना। अधम कवन जग मोहि समाना॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -215,8 +248,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम बिरह सागर महँ भरत मगन मन होत।  
 बिप्र रूप धरि पवनसुत आइ गयउ जनु पोत॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -232,8 +268,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बैठे देखि कुसासन जटा मुकुट कृस गात॥  
 राम राम रघुपति जपत स्रवत नयन जलजात॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -254,8 +293,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखत हनूमान अति हरषेउ। पुलक गात लोचन जल बरषेउ॥  
 मन महँ बहुत भाँति सुख मानी। बोलेउ श्रवन सुधा सम बानी॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -271,8 +313,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जासु बिरहँ सोचहु दिन राती। रटहु निरन्तर गुन गन पाँती॥  
 रघुकुल तिलक सुजन सुखदाता। आयउ कुसल देव मुनि त्राता॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -288,8 +333,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रिपु रन जीति सुजस सुर गावत। सीता सहित अनुज प्रभु आवत॥  
 सुनत बचन बिसरे सब दूखा। तृषावन्त जिमि पाइ पियूषा॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -305,8 +353,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 को तुम्ह तात कहाँ ते आए। मोहि परम प्रिय बचन सुनाए॥  
 मारुत सुत मैं कपि हनुमाना। नामु मोर सुनु कृपानिधाना॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -322,8 +373,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दीनबन्धु रघुपति कर किङ्कर। सुनत भरत भेण्टेउ उठि सादर॥  
 मिलत प्रेम नहिं हृदयँ समाता। नयन स्रवतजल पुलकित गाता॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -339,8 +393,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कपि तव दरस सकल दुख बीते। मिले आजुमोहि राम पिरीते॥  
 बार बार बूझी कुसलाता। तो कहुँ देउँ काह सुन भ्राता॥6॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -356,8 +413,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि सन्देस सरिस जग माहीं। करि बिचार देखेउँ कछु नाहीं॥  
 नाहिन तात उरिन मैं तोही। अब प्रभु चरित सुनावहु मोही॥7॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -373,8 +433,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब हनुमन्त नाइ पद माथा। कहे सकल रघुपति गुन गाथा॥  
 कहु कपि कबहुँ कृपाल गोसाईं। सुमिरहिं मोहि दास की नाईं॥8॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -393,10 +456,13 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज दास ज्यों रघुबंसभूषन कबहुँ मम सुमिरन कर्‌यो।  
 सुनि भरत बचन बिनीत अति कपि पुलकि तन चरनन्हि पर्‌यो॥  
 रघुबीर निज मुख जासु गुन गन कहत अग जग नाथ जो।  
 काहे न होइ बिनीत परम पुनीत सदगुन सिन्धु सो॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -420,8 +486,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम प्रान प्रिय नाथ तुम्ह सत्य बचन मम तात।  
 पुनि पुनि मिलत भरत सुनि हरष न हृदयँ समात॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -440,8 +509,11 @@ unicode_script = "devanagari"
 ### 02 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरत चरन सिरु नाइ तुरित गयउ कपि राम पहिं।  
 कही कुसल सब जाइ हरषि चलेउ प्रभु जान चढि॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -461,8 +533,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरषि भरत कोसलपुर आए। समाचार सब गुरहि सुनाए॥  
 पुनि मन्दिर महँ बात जनाई। आवत नगर कुसल रघुराई॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -478,8 +553,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनत सकल जननीं उठि धाईं। कहि प्रभु कुसल भरत समुझाईं॥  
 समाचार पुरबासिन्ह पाए। नर अरु नारि हरषि सब धाए॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -495,8 +573,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दधि दुर्बा रोचन फल फूला। नव तुलसी दल मङ्गल मूला॥  
 भरि भरि हेम थार भामिनी। गावत चलिं सिन्धुरगामिनी॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -512,8 +593,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे जैसेहिं तैसेहिं उठि धावहिं। बाल बृद्ध कहँ सङ्ग न लावहिं॥  
 एक एकन्ह कहँ बूझहिं भाई। तुम्ह देखे दयाल रघुराई॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -529,8 +613,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अवधपुरी प्रभु आवत जानी। भई सकल सोभा कै खानी॥  
 बहइ सुहावन त्रिबिध समीरा। भइ सरजू अति निर्मल नीरा॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -552,8 +639,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरषित गुर परिजन अनुज भूसुर बृन्द समेत।  
 चले भरत मन प्रेम अति सन्मुख कृपानिकेत॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -569,8 +659,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बहुतक चढीं अटारिन्ह निरखहिं गगन बिमान।  
 देखि मधुर सुर हरषित करहिं सुमङ्गल गान॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -586,8 +679,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राका ससि रघुपति पुर सिन्धु देखि हरषान।  
 बढ्‌यो कोलाहल करत जनु नारि तरङ्ग समान॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -608,8 +704,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इहाँ भानुकुल कमल दिवाकर। कपिन्ह देखावत नगर मनोहर॥  
 सुनु कपीस अङ्गद लङ्केसा। पावन पुरी रुचिर यह देसा॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -625,8 +724,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जद्यपि सब बैकुण्ठ बखाना। बेद पुरान बिदित जगु जाना॥  
 अवधपुरी सम प्रिय नहिं सोऊ। यह प्रसङ्ग जानइ कोउ कोऊ॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -642,8 +744,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जन्मभूमि मम पुरी सुहावनि। उत्तर दिसि बह सरजू पावनि॥  
 जा मज्जन ते बिनहिं प्रयासा। मम समीप नर पावहिं बासा॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -659,8 +764,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अति प्रिय मोहि इहाँ के बासी। मम धामदा पुरी सुख रासी॥  
 हरषे सब कपि सुनि प्रभु बानी। धन्य अवध जो राम बखानी॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -682,8 +790,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आवत देखि लोग सब कृपासिन्धु भगवान।  
 नगर निकट प्रभु प्रेरेउ उतरेउ भूमि बिमान॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -699,8 +810,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उतरि कहेउ प्रभु पुष्पकहि तुम्ह कुबेर पहिं जाहु।  
 प्रेरित राम चलेउ सो हरषु बिरहु अति ताहु॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -720,8 +834,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आए भरत सङ्ग सब लोगा। कृस तन श्रीरघुबीर बियोगा॥  
 बामदेव बसिष्ट मुनिनायक। देखे प्रभु महि धरि धनु सायक॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -737,8 +854,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धाइ धरे गुर चरन सरोरुह। अनुज सहित अति पुलक तनोरुह॥  
 भेण्टि कुसल बूझी मुनिराया। हमरें कुसल तुम्हारिहिं दाया॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -754,8 +874,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सकल द्विजन्ह मिलि नायउ माथा। धर्म धुरन्धर रघुकुलनाथा॥  
 गहे भरत पुनि प्रभु पद पङ्कज। नमत जिन्हहि सुर मुनि सङ्कर अज॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -771,8 +894,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परे भूमि नहिं उठत उठाए। बर करि कृपासिन्धु उर लाए॥  
 स्यामल गात रोम भए ठाढे। नव राजीव नयन जल बाढे॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -791,10 +917,13 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राजीव लोचन स्रवत जल तन ललित पुलकावलि बनी।  
 अति प्रेम हृदयँ लगाइ अनुजहि मिले प्रभु त्रिभुअन धनी॥  
 प्रभु मिलत अनुजहि सोह मो पहिं जाति नहिं उपमा कही।  
 जनु प्रेम अरु सिङ्गार तनु धरि मिले बर सुषमा लही॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -812,10 +941,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बूझत कृपानिधि कुसल भरतहि बचन बेगि न आवई॥  
 सुनु सिवा सो सुख बचन मन ते भिन्न जान जो पावई॥  
 अब कुसल कौसलनाथ आरत जानि जन दरसन दियो।  
 बूडत बिरह बारीस कृपानिधान मोहि कर गहि लियो॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -839,8 +971,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि प्रभु हरषि सत्रुहन भेण्टे हृदयँ लगाइ।  
 लछिमन भरत मिले तब परम प्रेम दोउ भाइ॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -860,8 +995,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरतानुज लछिमन पुनि भेण्टे। दुसह बिरह सम्भव दुख मेटे॥  
 सीता चरन भरत सिरु नावा। अनुज समेत परम सुख पावा॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -877,8 +1015,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु बिलोकि हरषे पुरबासी। जनित बियोग बिपति सब नासी॥  
 प्रेमातुर सब लोग निहारी। कौतुक कीन्ह कृपाल खरारी॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -894,8 +1035,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अमित रूप प्रगटे तेहि काला। जथाजोग मिले सबहि कृपाला॥  
 कृपादृष्टि रघुबीर बिलोकी। किए सकल नर नारि बिसोकी॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -911,8 +1055,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 छन महिं सबहि मिले भगवाना। उमा मरम यह काहुँ न जाना॥  
 एहि बिधि सबहि सुखी करि रामा। आगें चले सील गुन धामा॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -928,7 +1075,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कौसल्यादि मातु सब धाई। निरखि बच्छ जनु धेनु लवाई॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -946,10 +1096,13 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जनु धेनु बालक बच्छ तजि गृहँ चरन बन परबस गईं।  
 दिन अन्त पुर रुख स्रवत थन हुङ्कार करि धावत भईं॥  
 अति प्रेम प्रभु सब मातु भेटीं बचन मृदु बहुबिधि कहे।  
 गइ बिषम बिपति बियोगभव तिन्ह हरष सुख अगनित लहे॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -973,8 +1126,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भेण्टेउ तनय सुमित्राँ राम चरन रति जानि।  
 रामहि मिलत कैकई हृदयँ बहुत सकुचानि॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -990,8 +1146,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लछिमन सब मातन्ह मिलि हरषे आसिष पाइ।  
 कैकइ कहँ पुनि पुनि मिले मन कर छोभु न जाइ॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1011,8 +1170,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सासुन्ह सबनि मिली बैदेही । चरनन्हि लाग हरषु अति तेही॥  
 देहिं असीस बूझि कुसलाता। होइ अचल तुम्हार अहिवाता॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1028,8 +1190,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब रघुपति मुख कमल बिलोकहिं। मङ्गल जानि नयन जल रोकहिं॥  
 कनक थार आरती उतारहिं। बार बार प्रभु गात निहारहिं॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1045,8 +1210,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाना भाँति निछावरि करहीं। परमानन्द हरष उर भरहीं॥  
 कौसल्या पुनि पुनि रघुबीरहि। चितवति कृपासिन्धु रनधीरहि॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1062,8 +1230,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हृदयँ बिचारति बारहिं बारा। कवन भाँति लङ्कापति मारा॥  
 अति सुकुमार जुगल मेरे बारे। निसिचर सुभट महाबल भारे॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1085,8 +1256,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लछिमन अरु सीता सहित प्रभुहि बिलोकति मातु।  
 परमानन्द मगन मन पुनि पुनि पुलकित गातु॥7॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1107,8 +1281,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लङ्कापति कपीस नल नीला। जामवन्त अङ्गद सुभसीला॥  
 हनुमदादि सब बानर बीरा। धरे मनोहर मनुज सरीरा॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1124,8 +1301,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरत सनेह सील ब्रत नेमा। सादर सब बरनहिं अति प्रेमा॥  
 देखि नगरबासिन्ह कै रीती। सकल सराहहिं प्रभु पद प्रीती॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1141,8 +1321,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि रघुपति सब सखा बोलाए। मुनि पद लागहु सकल सिखाए॥  
 गुर बसिष्ट कुलपूज्य हमारे। इन्ह की कृपाँ दनुज रन मारे॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1158,8 +1341,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए सब सखा सुनहु मुनि मेरे। भए समर सागर कहँ बेरे॥  
 मम हित लागि जन्म इन्ह हारे। भरतहु ते मोहि अधिक पिआरे॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1175,7 +1361,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि प्रभु बचन मगन सब भए। निमिष निमिष उपजत सुख नए॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1196,8 +1385,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कौसल्या के चरनन्हि पुनि तिन्ह नायउ माथ।  
 आसिष दीन्हे हरषि तुम्ह प्रिय मम जिमि रघुनाथ॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1213,8 +1405,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुमन बृष्टि नभ सङ्कुल भवन चले सुखकन्द।  
 चढी अटारिन्ह देखहिं नगर नारि नर बृन्द॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1235,8 +1430,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कञ्चन कलस बिचित्र सँवारे। सबहिं धरे सजि निज निज द्वारे॥  
 बन्दनवार पताका केतू। सबन्हि बनाए मङ्गल हेतू॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1252,8 +1450,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बीथीं सकल सुगन्ध सिञ्चाई। गजमनि रचि बहु चौक पुराईं।  
 नाना भाँति सुमङ्गल साजे। हरषि नगर निसान बहु बाजे॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1269,8 +1470,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जहँ तहँ नारि निछावरि करहीं। देहिं असीस हरष उर भरहीं॥  
 कञ्चन थार आरतीं नाना। जुबतीं सजें करहिं सुभ गाना॥3॥   
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1286,8 +1490,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करहिं आरती आरतिहर कें। रघुकुल कमल बिपिन दिनकर कें॥  
 पुर सोभा सम्पति कल्याना। निगम सेष सारदा बखाना॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1303,7 +1510,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेउ यह चरित देखि ठगि रहहीं। उमा तासु गुन नर किमि कहहीं॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1324,8 +1534,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नारि कुमुदिनीं अवध सर रघुपति बिरह दिनेस।  
 अस्त भएँ बिगसत भईं निरखि राम राकेस॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1341,8 +1554,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 होहिं सगुन सुभ बिबिधि बिधि बाजहिं गगन निसान।  
 पुर नर नारि सनाथ करि भवन चले भगवान॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1363,8 +1579,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु जानी कैकई लजानी। प्रथम तासु गृह गए भवानी॥  
 ताहि प्रबोधि बहुत सुख दीन्हा। पुनि निज भवन गवन हरि कीन्हा॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1380,8 +1599,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कृपासिन्धु जब मन्दिर गए। पुर नर नारि सुखी सब भए॥  
 गुर बसिष्ट द्विज लिए बुलाई। आजु सुघरी सुदिन समुदाई॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1397,8 +1619,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब द्विज देहु हरषि अनुसासन। रामचन्द्र बैठहिं सिङ्घासन॥  
 मुनि बसिष्ट के बचन सुहाए। सुनत सकल बिप्रन्ह अति भाए॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1414,8 +1639,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहहिं बचन मृदु बिप्र अनेका। जग अभिराम राम अभिषेका॥  
 अब मुनिबर बिलम्ब नहिं कीजै। महाराज कहँ तिलक करीजै॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1437,8 +1665,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब मुनि कहेउ सुमन्त्र सन सुनत चलेउ हरषाइ।  
 रथ अनेक बहु बाजि गज तुरत सँवारे जाइ॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1454,8 +1685,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जहँ तहँ धावन पठइ पुनि मङ्गल द्रब्य मगाइ।  
 हरष समेत बसिष्ट पद पुनि सिरु नायउ आइ॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1494,8 +1728,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनत बचन जहँ तहँ जन धाए। सुग्रीवादि तुरत अन्हवाए॥  
 पुनि करुनानिधि भरतु हँकारे। निज कर राम जटा निरुआरे॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1511,8 +1748,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अन्हवाए प्रभु तीनिउ भाई। भगत बछल कृपाल रघुराई॥  
 भरत भाग्य प्रभु कोमलताई। सेष कोटि सत सकहिं न गाई॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1528,8 +1768,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि निज जटा राम बिबराए। गुर अनुसासन मागि नहाए॥  
 करि मज्जन प्रभु भूषन साजे। अङ्ग अनङ्ग देखि सत लाजे॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1551,8 +1794,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सासुन्ह सादर जानकिहि मज्जन तुरत कराइ।  
 दिब्य बसन बर भूषन अँग अँग सजे बनाइ॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1568,8 +1814,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम बाम दिसि सोभति रमा रूप गुन खानि।  
 देखि मातु सब हरषीं जन्म सुफल निज जानि॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1585,8 +1834,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगेस तेहि अवसर ब्रह्मा सिव मुनि बृन्द।  
 चढि बिमान आए सब सुर देखन सुखकन्द॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1607,8 +1859,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु बिलोकि मुनि मन अनुरागा। तुरत दिब्य सिङ्घासन मागा॥  
 रबि सम तेज सो बरनि न जाई। बैठे राम द्विजन्ह सिरु नाई॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1624,8 +1879,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जनकसुता समेत रघुराई। पेखि प्रहरषे मुनि समुदाई॥  
 बेद मन्त्र तब द्विजन्ह उचारे। नभ सुर मुनि जय जयति पुकारे॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1643,8 +1901,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रथम तिलक बसिष्ट मुनि कीन्हा। पुनि सब बिप्रन्ह आयसु दीन्हा॥  
 सुत बिलोकि हरषीं महतारी। बार बार आरती उतारी॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1660,8 +1921,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिप्रन्ह दान बिबिधि बिधि दीन्हे। जाचक सकल अजाचक कीन्हे॥  
 सिङ्घासन पर त्रिभुअन साईं। देखि सुरन्ह दुन्दुभीं बजाईं॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1680,10 +1944,13 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नभ दुन्दुभीं बाजहिं बिपुल गन्धर्ब किन्नर गावहीं।  
 नाचहिं अपछरा बृन्द परमानन्द सुर मुनि पावहीं॥  
 भरतादि अनुज बिभीषनाङ्गद हनुमदादि समेत ते।  
 गहें छत्र चामर ब्यजन धनु असिचर्म सक्ति बिराजते॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1701,10 +1968,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्री सहित दिनकर बंस भूषन काम बहु छबि सोहई।  
 नव अम्बुधर बर गात अम्बर पीत सुर मन मोहई॥  
 मुकुटाङ्गदादि बिचित्र भूषन अङ्ग अङ्गन्हि प्रति सजे।  
 अम्भोज नयन बिसाल उर भुज धन्य नर निरखन्ति जे॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1728,8 +1998,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 वह सोभा समाज सुख कहत न बनइ खगेस।  
 बरनहिं सारद सेष श्रुति सो रस जान महेस॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1745,8 +2018,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भिन्न भिन्न अस्तुति करि गए सुर निज निज धाम।  
 बन्दी बेष बेद तब आए जहँ श्रीराम॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1762,8 +2038,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु सर्बग्य कीन्ह अति आदर कृपानिधान।  
 लखेउ न काहूँ मरम कछु लगे करन गुन गान॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1782,10 +2061,13 @@ unicode_script = "devanagari"
 ### 02 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जय सगुन निर्गुन रूप रूप अनूप भूप सिरोमने।  
 दसकन्धरादि प्रचण्ड निसिचर प्रबल खल भुज बल हने॥  
 अवतार नर संसार भार बिभञ्जि दारुन दुख दहे।  
 जय प्रनतपाल दयाल प्रभु सञ्जुक्त सक्ति नमामहे॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1803,10 +2085,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तव बिषम माया बस सुरासुर नाग नर अग जग हरे।  
 भव पन्थ भ्रमत अमित दिवस निसि काल कर्म गुननि भरे॥  
 जे नाथ करि करुना बिलोकि त्रिबिधि दुख ते निर्बहे।  
 भव खेद छेदन दच्छ हम कहुँ रच्छ राम नमामहे॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1824,10 +2109,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे ग्यान मान बिमत्त तव भव हरनि भक्ति न आदरी।  
 ते पाइ सुर दुर्लभ पदादपि परत हम देखत हरी॥  
 बिस्वास करि सब आस परिहरि दास तव जे होइ रहे।  
 जपि नाम तव बिनु श्रम तरहिं भव नाथ सो समरामहे॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1845,10 +2133,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे चरन सिव अज पूज्य रज सुभ परसि मुनिपतिनी तरी।  
 नख निर्गता मुनि बन्दिता त्रैलोक पावनि सुरसरी॥  
 ध्वज कुलिस अङ्कुस कञ्ज जुत बन फिरत कण्टक किन लहे।  
 पद कञ्ज द्वन्द मुकुन्द राम रमेस नित्य भजामहे॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1866,10 +2157,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अब्यक्तमूलमनादि तरु त्वच चारि निगमागम भने।  
 षट कन्ध साखा पञ्च बीस अनेक पर्न सुमन घने॥  
 फल जुगल बिधि कटु मधुर बेलि अकेलि जेहि आश्रित रहे।  
 पल्लवत फूलत नवल नित संसार बिटप नमामहे॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1887,10 +2181,13 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे ब्रह्म अजमद्वैतमनुभवगम्य मनपर ध्यावहीं।  
 ते कहहुँ जानहुँ नाथ हम तव सगुन जस नित गावहीं॥  
 करुनायतन प्रभु सदगुनाकर देव यह बर मागहीं।  
 मन बचन कर्म बिकार तजि तव चरन हम अनुरागहीं॥6॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1914,8 +2211,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब के देखत बेदन्ह बिनती कीन्हि उदार।  
 अन्तर्धान भए पुनि गए ब्रह्म आगार॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1931,8 +2231,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बैनतेय सुनु सम्भु तब आए जहँ रघुबीर।  
 बिनय करत गदगद गिरा पूरित पुलक सरीर॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1951,8 +2254,11 @@ unicode_script = "devanagari"
 ### 02 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जय राम रमारमनं समनं। भवताप भयाकुल पाहि जनं॥  
 अवधेस सुरेस रमेस बिभो। सरनागत मागत पाहि प्रभो॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1968,8 +2274,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दससीस बिनासन बीस भुजा। कृत दूरि महा महि भूरि रुजा॥  
 रजनीचर बृन्द पतङ्ग रहे। सर पावक तेज प्रचण्ड दहे॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1985,8 +2294,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 महि मण्डल मण्डन चारुतरं। धृत सायक चाप निषङ्ग बरं।  
 मद मोह महा ममता रजनी। तम पुञ्ज दिवाकर तेज अनी॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2002,8 +2314,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मनजात किरात निपात किए। मृग लोग कुभोग सरेन हिए॥  
 हति नाथ अनाथनि पाहि हरे। बिषया बन पावँर भूलि परे॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2019,8 +2334,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बहु रोग बियोगन्हि लोग हए। भवदङ्घ्रि निरादर के फल ए॥  
 भव सिन्धु अगाध परे नर ते। पद पङ्कज प्रेम न जे करते॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2036,8 +2354,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अति दीन मलीन दुखी नितहीं। जिन्ह कें पद पङ्कज प्रीति नहीं॥  
 अवलम्ब भवन्त कथा जिन्ह कें। प्रिय सन्त अनन्त सदा तिन्ह कें॥6॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2053,8 +2374,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नहिं राग न लोभ न मान सदा। तिन्ह कें सम बैभव वा बिपदा॥  
 एहि ते तव सेवक होत मुदा। मुनि त्यागत जोग भरोस सदा॥7॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2070,8 +2394,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करि प्रेम निरन्तर नेम लिएँ। पद पङ्कज सेवत सुद्ध हिएँ॥  
 सम मानि निरादर आदरही। सब सन्तु सुखी बिचरन्ति मही॥8॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2087,8 +2414,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मुनि मानस पङ्कज भृङ्ग भजे। रघुबीर महा रनधीर अजे॥  
 तव नाम जपामि नमामि हरी। भव रोग महागद मान अरी॥9॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2104,8 +2434,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गुन सील कृपा परमायतनं। प्रनमामि निरन्तर श्रीरमनं॥  
 रघुनन्द निकन्दय द्वन्द्वघनं। महिपाल बिलोकय दीन जनं॥10॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2127,8 +2460,11 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बार बार बर मागउँ हरषि देहु श्रीरङ्ग।  
 पद सरोज अनपायनी भगति सदा सतसङ्ग॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2144,8 +2480,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बरनि उमापति राम गुन हरषि गए कैलास।  
 तब प्रभु कपिन्ह दिवाए सब बिधि सुखप्रद बास॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2166,8 +2505,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगपति यह कथा पावनी। त्रिबिध ताप भव भय दावनी॥  
 महाराज कर सुभ अभिषेका। सुनत लहहिं नर बिरति बिबेका॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2183,8 +2525,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे सकाम नर सुनहिं जे गावहिं। सुख सम्पति नाना बिधि पावहिं॥  
 सुर दुर्लभ सुख करि जग माहीं। अन्तकाल रघुपति पुर जाहीं॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2200,8 +2545,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहिं बिमुक्त बिरत अरु बिषई। लहहिं भगति गति सम्पति नई॥  
 खगपति राम कथा मैं बरनी। स्वमति बिलास त्रास दुख हरनी॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2217,8 +2565,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिरति बिबेक भगति दृढ करनी। मोह नदी कहँ सुन्दर तरनी॥  
 नित नव मङ्गल कौसलपुरी। हरषित रहहिं लोग सब कुरी॥4॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2234,8 +2585,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नित नइ प्रीति राम पद पङ्कज। सब कें जिन्हहि नमत सिव मुनि अज॥  
 मङ्गल बहु प्रकार पहिराए। द्विजन्ह दान नाना बिधि पाए॥5॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2257,8 +2611,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्मानन्द मगन कपि सब कें प्रभु पद प्रीति।  
 जात न जाने दिवस तिन्ह गए मास षट बीति॥15॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2279,8 +2636,11 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिसरे गृह सपनेहुँ सुधि नाहीं। जिमि परद्रोह सन्त मन माहीं॥  
 तब रघुपति सब सखा बोलाए। आइ सबन्हि सादर सिरु नाए॥1॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2296,8 +2656,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परम प्रीति समीप बैठारे। भगत सुखद मृदु बचन उचारे॥  
 तुम्ह अति कीन्हि मोरि सेवकाई। मुख पर केहि बिधि करौं बडाई॥2॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2313,8 +2676,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताते मोहि तुम्ह अति प्रिय लागे। मम हित लागि भवन सुख त्यागे॥  
 अनुज राज सम्पति बैदेही। देह गेह परिवार सनेही॥3॥  
+</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2328,8 +2694,11 @@ unicode_script = "devanagari"
 मेरे हित के लिए तुम लोगों ने घरों को तथा सब प्रकार के सुखों को त्याग दिया। इससे तुम मुझे अत्यन्त ही प्रिय लग रहे हो। छोटे भाई, राज्य, सम्पत्ति, जानकी, अपना शरीर, घर, कुटुम्ब और मित्र-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब मम प्रिय नहिं तुम्हहि समाना। मृषा न कहउँ मोर यह बाना॥  
 सब कें प्रिय सेवक यह नीती। मोरें अधिक दास पर प्रीती॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2348,8 +2717,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अब गृह जाहु सखा सब भजेहु मोहि दृढ नेम।  
 सदा सर्बगत सर्बहित जानि करेहु अति प्रेम॥16॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2367,8 +2739,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि प्रभु बचन मगन सब भए। को हम कहाँ बिसरि तन गए॥  
 एकटक रहे जोरि कर आगे। सकहिं न कछु कहि अति अनुरागे॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2381,8 +2756,11 @@ unicode_script = "devanagari"
 प्रभु के वचन सुनकर सब के सब प्रेममग्न हो गए। हम कौन हैं और कहाँ हैं? यह देह की सुध भी भूल गई। वे प्रभु के सामने हाथ जोडकर टकटकी लगाए देखते ही रह गए। अत्यन्त प्रेम के कारण कुछ कह नहीं सकते॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परम प्रेम तिन्ह कर प्रभु देखा। कहा बिबिधि बिधि ग्यान बिसेषा॥  
 प्रभु सन्मुख कछु कहन न पारहिं। पुनि पुनि चरन सरोज निहारहिं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2395,8 +2773,11 @@ unicode_script = "devanagari"
 प्रभु ने उनका अत्यन्त प्रेम देखा, (तब) उन्हें अनेकों प्रकार से विशेष ज्ञान का उपदेश दिया। प्रभु के सम्मुख वे कुछ कह नहीं सकते। बार-बार प्रभु के चरणकमलों को देखते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब प्रभु भूषन बसन मगाए। नाना रङ्ग अनूप सुहाए॥  
 सुग्रीवहि प्रथमहिं पहिराए। बसन भरत निज हाथ बनाए॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2409,8 +2790,11 @@ unicode_script = "devanagari"
 तब प्रभु ने अनेक रङ्गों के अनुपम और सुन्दर गहने-कपडे मँगवाए। सबसे पहले भरतजी ने अपने हाथ से सँवारकर सुग्रीव को वस्त्राभूषण पहनाए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु प्रेरित लछिमन पहिराए। लङ्कापति रघुपति मन भाए॥  
 अङ्गद बैठ रहा नहिं डोला। प्रीति देखि प्रभु ताहि न बोला॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2429,8 +2813,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जामवन्त नीलादि सब पहिराए रघुनाथ।  
 हियँ धरि राम रूप सब चले नाइ पद माथ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2443,8 +2830,11 @@ unicode_script = "devanagari"
 जाम्बवान्‌ और नील आदि सबको श्री रघुनाथजी ने स्वयं भूषण-वस्त्र पहनाए। वे सब अपने हृदयों में श्री रामचन्द्रजी के रूप को धारण करके उनके चरणों में मस्तक नवाकर चले॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब अङ्गद उठि नाइ सिरु सजल नयन कर जोरि।  
 अति बिनीत बोलेउ बचन मनहुँ प्रेम रसबोरि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2462,8 +2852,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु सर्बग्य कृपा सुख सिन्धो। दीन दयाकर आरत बन्धो॥  
 मरती बेर नाथ मोहि बाली। गयउ तुम्हारेहि कोञ्छें घाली॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2476,8 +2869,11 @@ unicode_script = "devanagari"
 हे सर्वज्ञ! हे कृपा और सुख के समुद्र! हे दीनों पर दया करने वाले! हे आर्तों के बन्धु! सुनिए! हे नाथ! मरते समय मेरा पिता बालि मुझे आपकी ही गोद में डाल गया था॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 असरन सरन बिरदु सम्भारी। मोहि जनि तजहु भगत हितकारी॥  
 मोरें तुम्ह प्रभु गुर पितु माता। जाउँ कहाँ तजि पद जलजाता॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2490,8 +2886,11 @@ unicode_script = "devanagari"
 अतः हे भक्तों के हितकारी! अपना अशरण-शरण विरद (बाना) याद करके मुझे त्यागिए नहीं। मेरे तो स्वामी, गुरु, पिता और माता सब कुछ आप ही हैं। आपके चरणकमलों को छोडकर मैं कहाँ जाऊँ?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्हहि बिचारि कहहु नरनाहा। प्रभु तजि भवन काज मम काहा॥  
 बालक ग्यान बुद्धि बल हीना। राखहु सरन नाथ जन दीना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2504,8 +2903,11 @@ unicode_script = "devanagari"
 हे महाराज! आप ही विचारकर कहिए, प्रभु (आप) को छोडकर घर में मेरा क्या काम है? हे नाथ! इस ज्ञान, बुद्धि और बल से हीन बालक तथा दीन सेवक को शरण में रखिए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नीचि टहल गृह कै सब करिहउँ। पद पङ्कज बिलोकि भव तरिहउँ॥  
 अस कहि चरन परेउ प्रभु पाही। अब जनि नाथ कहहु गृह जाही॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2524,8 +2926,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-362.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अङ्गद बचन बिनीत सुनि रघुपति करुना सींव।  
 प्रभु उठाइ उर लायउ सजल नयन राजीव॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2538,8 +2943,11 @@ unicode_script = "devanagari"
 अङ्गद के विनम्र वचन सुनकर करुणा की सीमा प्रभु श्री रघुनाथजी ने उनको उठाकर हृदय से लगा लिया। प्रभु के नेत्र कमलों में (प्रेमाश्रुओं का) जल भर आया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज उर माल बसन मनि बालितनय पहिराइ।  
 बिदा कीन्हि भगवान तब बहु प्रकार समुझाइ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2557,8 +2965,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरत अनुज सौमित्रि समेता। पठवन चले भगत कृत चेता॥  
 अङ्गद हृदयँ प्रेम नहिं थोरा। फिरि फिरि चितव राम कीं ओरा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2571,8 +2982,11 @@ unicode_script = "devanagari"
 भक्त की करनी को याद करके भरतजी छोटे भाई शत्रुघ्नजी और लक्ष्मणजी सहित उनको पहुँचाने चले। अङ्गद के हृदय में थोडा प्रेम नहीं है (अर्थात्‌ बहुत अधिक प्रेम है)। वे फिर-फिरकर श्री रामजी की ओर देखते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बार बार कर दण्ड प्रनामा। मन अस रहन कहहिं मोहि रामा॥  
 राम बिलोकनि बोलनि चलनी। सुमिरि सुमिरि सोचत हँसि मिलनी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2585,8 +2999,11 @@ unicode_script = "devanagari"
 और बार-बार दण्डवत प्रणाम करते हैं। मन में ऐसा आता है कि श्री रामजी मुझे रहने को कह दें। वे श्री रामजी के देखने की, बोलने की, चलने की तथा हँसकर मिलने की रीति को याद कर-करके सोचते हैं (दुःखी होते हैं)॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु रुख देखि बिनय बहु भाषी। चलेउ हृदयँ पद पङ्कज राखी॥  
 अति आदर सब कपि पहुँचाए। भाइन्ह सहित भरत पुनि आए॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2599,8 +3016,11 @@ unicode_script = "devanagari"
 किन्तु प्रभु का रुख देखकर, बहुत से विनय वचन कहकर तथा हृदय में चरणकमलों को रखकर वे चले। अत्यन्त आदर के साथ सब वानरों को पहुँचाकर भाइयों सहित भरतजी लौट आए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब सुग्रीव चरन गहि नाना। भाँति बिनय कीन्हे हनुमाना॥  
 दिन दस करि रघुपति पद सेवा। पुनि तव चरन देखिहउँ देवा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2613,8 +3033,11 @@ unicode_script = "devanagari"
 तब हनुमान्‌जी ने सुग्रीव के चरण पकडकर अनेक प्रकार से विनती की और कहा- हे देव! दस (कुछ) दिन श्री रघुनाथजी की चरणसेवा करके फिर मैं आकर आपके चरणों के दर्शन करूँगा॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुन्य पुञ्ज तुम्ह पवनकुमारा। सेवहु जाइ कृपा आगारा॥  
 अस कहि कपि सब चले तुरन्ता। अङ्गद कहइ सुनहु हनुमन्ता॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2633,8 +3056,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहेहु दण्डवत प्रभु सैं तुम्हहि कहउँ कर जोरि।  
 बार बार रघुनायकहि सुरति कराएहु मोरि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2647,8 +3073,11 @@ unicode_script = "devanagari"
 मैं तुमसे हाथ जोडकर कहता हूँ, प्रभु से मेरी दण्डवत्‌ कहना और श्री रघुनाथजी को बार-बार मेरी याद कराते रहना॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस कहि चलेउ बालिसुत फिरि आयउ हनुमन्त।  
 तासु प्रीति प्रभु सन कही मगन भए भगवन्त॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2661,8 +3090,11 @@ unicode_script = "devanagari"
 ऐसा कहकर बालिपुत्र अङ्गद चले, तब हनुमान्‌जी लौट आए और आकर प्रभु से उनका प्रेम वर्णन किया। उसे सुनकर भगवान्‌ प्रेममग्न हो गए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कुलिसहु चाहि कठोर अति कोमल कुसुमहु चाहि।  
 चित्त खगेस राम कर समुझि परइ कहु काहि॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2680,8 +3112,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि कृपाल लियो बोलि निषादा। दीन्हे भूषन बसन प्रसादा॥  
 जाहु भवन मम सुमिरन करेहू। मन क्रम बचन धर्म अनुसरेहू॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2694,8 +3129,11 @@ unicode_script = "devanagari"
 फिर कृपालु श्री रामजी ने निषादराज को बुला लिया और उसे भूषण, वस्त्र प्रसाद में दिए (फिर कहा-) अब तुम भी घर जाओ, वहाँ मेरा स्मरण करते रहना और मन, वचन तथा कर्म से धर्म के अनुसार चलना॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्ह मम सखा भरत सम भ्राता। सदा रहेहु पुर आवत जाता॥  
 बचन सुनत उपजा सुख भारी। परेउ चरन भरि लोचन बारी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2708,8 +3146,11 @@ unicode_script = "devanagari"
 तुम मेरे मित्र हो और भरत के समान भाई हो। अयोध्या में सदा आते-जाते रहना। यह वचन सुनते ही उसको भारी सुख उत्पन्न हुआ। नेत्रों में (आनन्द और प्रेम के आँसुओं का) जल भरकर वह चरणों में गिर पडा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चरन नलिन उर धरि गृह आवा। प्रभु सुभाउ परिजनन्हि सुनावा॥  
 रघुपति चरित देखि पुरबासी। पुनि पुनि कहहिं धन्य सुखरासी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2722,8 +3163,11 @@ unicode_script = "devanagari"
 फिर भगवान्‌ के चरणकमलों को हृदय में रखकर वह घर आया और आकर अपने कुटुम्बियों को उसने प्रभु का स्वभाव सुनाया। श्री रघुनाथजी का यह चरित्र देखकर अवधपुरवासी बार-बार कहते हैं कि सुख की राशि श्री रामचन्द्रजी धन्य हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम राज बैठें त्रैलोका। हरषित भए गए सब सोका॥  
 बयरु न कर काहू सन कोई। राम प्रताप बिषमता खोई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2742,8 +3186,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बरनाश्रम निज निज धरम निरत बेद पथ लोग।  
 चलहिं सदा पावहिं सुखहि नहिं भय सोक न रोग॥20॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2760,8 +3207,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-363.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दैहिक दैविक भौतिक तापा। राम राज नहिं काहुहि ब्यापा॥  
 सब नर करहिं परस्पर प्रीती। चलहिं स्वधर्म निरत श्रुति नीती॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2774,8 +3224,11 @@ unicode_script = "devanagari"
 'रामराज्य' में दैहिक, दैविक और भौतिक ताप किसी को नहीं व्यापते। सब मनुष्य परस्पर प्रेम करते हैं और वेदों में बताई हुई नीति (मर्यादा) में तत्पर रहकर अपने-अपने धर्म का पालन करते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चारिउ चरन धर्म जग माहीं। पूरि रहा सपनेहुँ अघ नाहीं॥  
 राम भगति रत नर अरु नारी। सकल परम गति के अधिकारी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2788,8 +3241,11 @@ unicode_script = "devanagari"
 धर्म अपने चारों चरणों (सत्य, शौच, दया और दान) से जगत्‌ में परिपूर्ण हो रहा है, स्वप्न में भी कहीं पाप नहीं है। पुरुष और स्त्री सभी रामभक्ति के परायण हैं और सभी परम गति (मोक्ष) के अधिकारी हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अल्पमृत्यु नहिं कवनिउ पीरा। सब सुन्दर सब बिरुज सरीरा॥  
 नहिं दरिद्र कोउ दुखी न दीना। नहिं कोउ अबुध न लच्छन हीना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2802,8 +3258,11 @@ unicode_script = "devanagari"
 छोटी अवस्था में मृत्यु नहीं होती, न किसी को कोई पीडा होती है। सभी के शरीर सुन्दर और निरोग हैं। न कोई दरिद्र है, न दुःखी है और न दीन ही है। न कोई मूर्ख है और न शुभ लक्षणों से हीन ही है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब निर्दम्भ धर्मरत पुनी। नर अरु नारि चतुर सब गुनी॥  
 सब गुनग्य पण्डित सब ग्यानी। सब कृतग्य नहिं कपट सयानी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2822,8 +3281,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम राज नभगेस सुनु सचराचर जग माहिं।  
 काल कर्म सुभाव गुन कृत दुख काहुहि नाहिं॥21॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2841,8 +3303,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भूमि सप्त सागर मेखला। एक भूप रघुपति कोसला॥  
 भुअन अनेक रोम प्रति जासू। यह प्रभुता कछु बहुत न तासू॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2855,8 +3320,11 @@ unicode_script = "devanagari"
 अयोध्या में श्री रघुनाथजी सात समुद्रों की मेखला (करधनी) वाली पृथ्वी के एक मात्र राजा हैं। जिनके एक-एक रोम में अनेकों ब्रह्माण्ड हैं, उनके लिए सात द्वीपों की यह प्रभुता कुछ अधिक नहीं है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो महिमा समुझत प्रभु केरी। यह बरनत हीनता घनेरी॥  
 सोउ महिमा खगेस जिन्ह जानी॥ फिरि एहिं चरित तिन्हहुँ रति मानी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2869,8 +3337,11 @@ unicode_script = "devanagari"
 बल्कि प्रभु की उस महिमा को समझ लेने पर तो यह कहने में (कि वे सात समुद्रों से घिरी हुई सप्त द्वीपमयी पृथ्वी के एकच्छत्र सम्राट हैं) उनकी बडी हीनता होती है, परन्तु हे गरुडजी! जिन्होन्ने वह महिमा जान भी ली है, वे भी फिर इस लीला में बडा प्रेम मानते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोउ जाने कर फल यह लीला। कहहिं महा मुनिबर दमसीला॥  
 राम राज कर सुख सम्पदा। बरनि न सकइ फनीस सारदा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2883,8 +3354,11 @@ unicode_script = "devanagari"
 क्योङ्कि उस महिमा को भी जानने का फल यह लीला (इस लीला का अनुभव) ही है, इन्द्रियों का दमन करने वाले श्रेष्ठ महामुनि ऐसा कहते हैं। रामराज्य की सुख सम्पत्ति का वर्णन शेषजी और सरस्वतीजी भी नहीं कर सकते॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब उदार सब पर उपकारी। बिप्र चरन सेवक नर नारी॥  
 एकनारि ब्रत रत सब झारी। ते मन बच क्रम पति हितकारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2903,8 +3377,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दण्ड जतिन्ह कर भेद जहँ नर्तक नृत्य समाज।  
 जीतहु मनहि सुनिअ अस रामचन्द्र कें राज॥22॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2922,8 +3399,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 फूलहिं फरहिं सदा तरु कानन। रहहिं एक सँग गज पञ्चानन॥  
 खग मृग सहज बयरु बिसराई। सबन्हि परस्पर प्रीति बढाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2936,8 +3416,11 @@ unicode_script = "devanagari"
 वनों में वृक्ष सदा फूलते और फलते हैं। हाथी और सिंह (वैर भूलकर) एक साथ रहते हैं। पक्षी और पशु सभी ने स्वाभाविक वैर भुलाकर आपस में प्रेम बढा लिया है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कूजहिं खग मृग नाना बृन्दा। अभय चरहिं बन करहिं अनन्दा॥  
 सीतल सुरभि पवन बह मन्दा। गुञ्जत अलि लै चलि मकरन्दा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2950,8 +3433,11 @@ unicode_script = "devanagari"
 पक्षी कूजते (मीठी बोली बोलते) हैं, भाँति-भाँति के पशुओं के समूह वन में निर्भय विचरते और आनन्द करते हैं। शीतल, मन्द, सुगन्धित पवन चलता रहता है। भौंरे पुष्पों का रस लेकर चलते हुए गुञ्जार करते जाते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लता बिटप मागें मधु चवहीं। मनभावतो धेनु पय स्रवहीं॥  
 ससि सम्पन्न सदा रह धरनी। त्रेताँ भइ कृतजुग कै करनी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2964,8 +3450,11 @@ unicode_script = "devanagari"
 बेलें और वृक्ष माँगने से ही मधु (मकरन्द) टपका देते हैं। गायें मनचाहा दूध देती हैं। धरती सदा खेती से भरी रहती है। त्रेता में सत्ययुग की करनी (स्थिति) हो गई॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रगटीं गिरिन्ह बिबिधि मनि खानी। जगदातमा भूप जग जानी॥  
 सरिता सकल बहहिं बर बारी। सीतल अमल स्वाद सुखकारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2978,8 +3467,11 @@ unicode_script = "devanagari"
 समस्त जगत्‌ के आत्मा भगवान्‌ को जगत्‌ का राजा जानकर पर्वतों ने अनेक प्रकार की मणियों की खानें प्रकट कर दीं। सब नदियाँ श्रेष्ठ, शीतल, निर्मल और सुखप्रद स्वादिष्ट जल बहाने लगीं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सागर निज मरजादाँ रहहीं। डारहिं रत्न तटन्हि नर लहहीं॥  
 सरसिज सङ्कुल सकल तडागा। अति प्रसन्न दस दिसा बिभागा॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -2998,8 +3490,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-364.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिधु महि पूर मयूखन्हि रबि तप जेतनेहि काज।  
 मागें बारिद देहिं जल रामचन्द्र कें राज॥23॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3017,8 +3512,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोटिन्ह बाजिमेध प्रभु कीन्हे। दान अनेक द्विजन्ह कहँ दीन्हे॥  
 श्रुति पथ पालक धर्म धुरन्धर। गुनातीत अरु भोग पुरन्दर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3031,8 +3529,11 @@ unicode_script = "devanagari"
 प्रभु श्री रामजी ने करोडों अश्वमेध यज्ञ किए और ब्राह्मणों को अनेकों दान दिए। श्री रामचन्द्रजी वेदमार्ग के पालने वाले, धर्म की धुरी को धारण करने वाले, (प्रकृतिजन्य सत्व, रज और तम) तीनों गुणों से अतीत और भोगों (ऐश्वर्य) में इन्द्र के समान हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पति अनुकूल सदा रह सीता। सोभा खानि सुसील बिनीता॥  
 जानति कृपासिन्धु प्रभुताई॥ सेवति चरन कमल मन लाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3045,8 +3546,11 @@ unicode_script = "devanagari"
 शोभा की खान, सुशील और विनम्र सीताजी सदा पति के अनुकूल रहती हैं। वे कृपासागर श्री रामजी की प्रभुता (महिमा) को जानती हैं और मन लगाकर उनके चरणकमलों की सेवा करती हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जद्यपि गृहँ सेवक सेवकिनी। बिपुल सदा सेवा बिधि गुनी॥  
 निज कर गृह परिचरजा करई। रामचन्द्र आयसु अनुसरई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3059,8 +3563,11 @@ unicode_script = "devanagari"
 यद्यपि घर में बहुत से (अपार) दास और दासियाँ हैं और वे सभी सेवा की विधि में कुशल हैं, तथापि (स्वामी की सेवा का महत्व जानने वाली) श्री सीताजी घर की सब सेवा अपने ही हाथों से करती हैं और श्री रामचन्द्रजी की आज्ञा का अनुसरण करती हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहि बिधि कृपासिन्धु सुख मानइ। सोइ कर श्री सेवा बिधि जानइ॥  
 कौसल्यादि सासु गृह माहीं। सेवइ सबन्हि मान मद नाहीं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3073,7 +3580,10 @@ unicode_script = "devanagari"
 कृपासागर श्री रामचन्द्रजी जिस प्रकार से सुख मानते हैं, श्री जी वही करती हैं, क्योङ्कि वे सेवा की विधि को जानने वाली हैं। घर में कौसल्या आदि सभी सासुओं की सीताजी सेवा करती हैं, उन्हें किसी बात का अभिमान और मद नहीं है॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उमा रमा ब्रह्मादि बन्दिता। जगदम्बा सन्ततमनिन्दिता॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3091,8 +3601,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जासु कृपा कटाच्छु सुर चाहत चितव न सोइ।  
 राम पदारबिन्द रति करति सुभावहि खोइ॥24॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3110,8 +3623,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सेवहिं सानकूल सब भाई। राम चरन रति अति अधिकाई॥  
 प्रभु मुख कमल बिलोकत रहहीं। कबहुँ कृपाल हमहि कछु कहहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3124,8 +3640,11 @@ unicode_script = "devanagari"
 सब भाई अनुकूल रहकर उनकी सेवा करते हैं। श्री रामजी के चरणों में उनकी अत्यन्त अधिक प्रीति है। वे सदा प्रभु का मुखारविन्द ही देखते रहते हैं कि कृपालु श्री रामजी कभी हमें कुछ सेवा करने को कहें॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम करहिं भ्रातन्ह पर प्रीती। नाना भाँति सिखावहिं नीती॥  
 हरषित रहहिं नगर के लोगा। करहिं सकल सुर दुर्लभ भोगा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3138,8 +3657,11 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी भी भाइयों पर प्रेम करते हैं और उन्हें नाना प्रकार की नीतियाँ सिखलाते हैं। नगर के लोग हर्षित रहते हैं और सब प्रकार के देवदुर्लभ (देवताओं को भी कठिनता से प्राप्त होने योग्य) भोग भोगते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अहनिसि बिधिहि मनावत रहहीं। श्री रघुबीर चरन रति चहहीं॥  
 दुइ सुत सुन्दर सीताँ जाए। लव कुस बेद पुरानन्ह गाए॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3152,8 +3674,11 @@ unicode_script = "devanagari"
 वे दिन-रात ब्रह्माजी को मनाते रहते हैं और (उनसे) श्री रघुवीर के चरणों में प्रीति चाहते हैं। सीताजी के लव और कुश ये दो पुत्र उत्पन्न हुए, जिनका वेद-पुराणों ने वर्णन किया है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दोउ बिजई बिनई गुन मन्दिर। हरि प्रतिबिम्ब मनहुँ अति सुन्दर॥  
 दुइ दुइ सुत सब भ्रातन्ह केरे। भए रूप गुन सील घनेरे॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3172,8 +3697,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यान गिरा गोतीत अज माया मन गुन पार।  
 सोइ सच्चिदानन्द घन कर नर चरित उदार॥25॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3191,8 +3719,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रातकाल सरऊ करि मज्जन। बैठहिं सभाँ सङ्ग द्विज सज्जन॥  
 बेद पुरान बसिष्ट बखानहिं। सुनहिं राम जद्यपि सब जानहिं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3205,8 +3736,11 @@ unicode_script = "devanagari"
 प्रातःकाल सरयूजी में स्नान करके ब्राह्मणों और सज्जनों के साथ सभा में बैठते हैं। वशिष्ठजी वेद और पुराणों की कथाएँ वर्णन करते हैं और श्री रामजी सुनते हैं, यद्यपि वे सब जानते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अनुजन्ह सञ्जुत भोजन करहीं। देखि सकल जननीं सुख भरहीं॥  
 भरत सत्रुहन दोनउ भाई। सहित पवनसुत उपबन जाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3219,8 +3753,11 @@ unicode_script = "devanagari"
 वे भाइयों को साथ लेकर भोजन करते हैं। उन्हें देखकर सभी माताएँ आनन्द से भर जाती हैं। भरतजी और शत्रुघ्नजी दोनों भाई हनुमान्‌जी सहित उपवनों में जाकर,॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बूझहिं बैठि राम गुन गाहा। कह हनुमान सुमति अवगाहा॥  
 सुनत बिमल गुन अति सुख पावहिं। बहुरि बहुरि करि बिनय कहावहिं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3233,8 +3770,11 @@ unicode_script = "devanagari"
 वहाँ बैठकर श्री रामजी के गुणों की कथाएँ पूछते हैं और हनुमान्‌जी अपनी सुन्दर बुद्धि से उन गुणों में गोता लगाकर उनका वर्णन करते हैं। श्री रामचन्द्रजी के निर्मल गुणों को सुनकर दोनों भाई अत्यन्त सुख पाते हैं और विनय करके बार-बार कहलवाते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब कें गृह गृह होहिं पुराना। राम चरित पावन बिधि नाना॥  
 नर अरु नारि राम गुन गानहिं। करहिं दिवस निसि जात न जानहिं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3253,8 +3793,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अवधपुरी बासिन्ह कर सुख सम्पदा समाज।  
 सहस सेष नहिं कहि सकहिं जहँ नृप राम बिराज॥26॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3271,8 +3814,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-365.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नारदादि सनकादि मुनीसा। दरसन लागि कोसलाधीसा॥  
 दिन प्रति सकल अजोध्या आवहिं। देखि नगरु बिरागु बिसरावहिं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3285,8 +3831,11 @@ unicode_script = "devanagari"
 नारद आदि और सनक आदि मुनीश्वर सब कोसलराज श्री रामजी के दर्शन के लिए प्रतिदिन अयोध्या आते हैं और उस (दिव्य) नगर को देखकर वैराग्य भुला देते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जातरूप मनि रचित अटारीं। नाना रङ्ग रुचिर गच ढारीं॥  
 पुर चहुँ पास कोट अति सुन्दर। रचे कँगूरा रङ्ग रङ्ग बर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3299,8 +3848,11 @@ unicode_script = "devanagari"
 (दिव्य) स्वर्ण और रत्नों से बनी हुई अटारियाँ हैं। उनमें (मणि-रत्नों की) अनेक रङ्गों की सुन्दर ढली हुई फर्शें हैं। नगर के चारों ओर अत्यन्त सुन्दर परकोटा बना है, जिस पर सुन्दर रङ्ग-बिरङ्गे कँगूरे बने हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नव ग्रह निकर अनीक बनाई। जनु घेरी अमरावति आई॥  
 लमहि बहु रङ्ग रचित गच काँचा। जो बिलोकि मुनिबर मन नाचा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3313,8 +3865,11 @@ unicode_script = "devanagari"
 मानो नवग्रहों ने बडी भारी सेना बनाकर अमरावती को आकर घेर लिया हो। पृथ्वी (सडकों) पर अनेकों रङ्गों के (दिव्य) काँचों (रत्नों) की गच बनाई (ढाली) गई है, जिसे देखकर श्रेष्ठ मुनियों के भी मन नाच उठते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धवल धाम ऊपर नभ चुम्बत। कलस मनहुँ रबि ससि दुति निन्दत॥  
 बहु मनि रचित झरोखा भ्राजहिं। गृह गृह प्रति मनि दीप बिराजहिं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3330,10 +3885,13 @@ unicode_script = "devanagari"
 
 
 ### 03 छन्द
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मनि दीप राजहिं भवन भ्राजहिं देहरीं बिद्रुम रची।  
 मनि खम्भ भीति बिरञ्चि बिरची कनक मनि मरकत खची॥  
 सुन्दर मनोहर मन्दिरायत अजिर रुचिर फटिक रचे।  
 प्रति द्वार द्वार कपाट पुरट बनाइ बहु बज्रन्हि खचे॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3354,8 +3912,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चारु चित्रसाला गृह गृह प्रति लिखे बनाइ।  
 राम चरित जे निरख मुनि ते मन लेहिं चोराइ॥27॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3373,8 +3934,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुमन बाटिका सबहिं लगाईं। बिबिध भाँति करि जतन बनाईं॥  
 लता ललित बहु जाति सुहाईं। फूलहिं सदा बसन्त कि नाईं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3387,8 +3951,11 @@ unicode_script = "devanagari"
 सभी लोगों ने भिन्न-भिन्न प्रकार की पुष्पों की वाटिकाएँ यत्न करके लगा रखी हैं, जिनमें बहुत जातियों की सुन्दर और ललित लताएँ सदा वसन्त की तरह फूलती रहती हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गुञ्जत मधुकर मुखर मनोहर। मारुत त्रिबिधि सदा बह सुन्दर।  
 नाना खग बालकन्हि जिआए। बोलत मधुर उडात सुहाए॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3401,8 +3968,11 @@ unicode_script = "devanagari"
 भौंरे मनोहर स्वर से गुञ्जार करते हैं। सदा तीनों प्रकार की सुन्दर वायु बहती रहती है। बालकों ने बहुत से पक्षी पाल रखे हैं, जो मधुर बोली बोलते हैं और उडने में सुन्दर लगते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोर हंस सारस पारावत। भवननि पर सोभा अति पावत॥  
 जहँ तहँ देखहिं निज परिछाहीं। बहु बिधि कूजहिं नृत्य कराहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3415,8 +3985,11 @@ unicode_script = "devanagari"
 मोर, हंस, सारस और कबूतर घरों के ऊपर बडी ही शोभा पाते हैं। वे पक्षी (मणियों की दीवारों में और छत में) जहाँ-तहाँ अपनी परछाईं देखकर (वहाँ दूसरे पक्षी समझकर) बहुत प्रकार से मधुर बोली बोलते और नृत्य करते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुक सारिका पढावहिं बालक। कहहु राम रघुपति जनपालक॥  
 राज दुआर सकल बिधि चारू। बीथीं चौहट रुचिर बजारू॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3432,10 +4005,13 @@ unicode_script = "devanagari"
 
 
 ### 03 छन्द
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बाजार रुचिर न बनइ बरनत बस्तु बिनु गथ पाइए।  
 जहँ भूप रमानिवास तहँ की सम्पदा किमि गाइए॥  
 बैठे बजाज सराफ बनिक अनेक मनहुँ कुबेर ते।  
 सब सुखी सब सच्चरि सुन्दर नारि नर सिसु जरठ जे॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3456,8 +4032,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उत्तर दिसि सरजू बह निर्मल जल गम्भीर।  
 बाँधे घाट मनोहर स्वल्प पङ्क नहिं तीर॥28॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3475,8 +4054,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दूरि फराक रुचिर सो घाटा। जहँ जल पिअहिं बाजि गज ठाटा॥  
 पनिघट परम मनोहर नाना। तहाँ न पुरुष करहिं अस्नाना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3489,8 +4071,11 @@ unicode_script = "devanagari"
 अलग कुछ दूरी पर वह सुन्दर घाट है, जहाँ घोडों और हाथियों के ठट्ट के ठट्ट जल पिया करते हैं। पानी भरने के लिए बहुत से (जनाने) घाट हैं, जो बडे ही मनोहर हैं। वहाँ पुरुष स्नान नहीं करते॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राजघाट सब बिधि सुन्दर बर। मज्जहिं तहाँ बरन चारिउ नर॥  
 तीर तीर देवन्ह के मन्दिर। चहुँ दिसि तिन्ह के उपबन सुन्दर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3503,8 +4088,11 @@ unicode_script = "devanagari"
 राजघाट सब प्रकार से सुन्दर और श्रेष्ठ है, जहाँ चारों वर्णों के पुरुष स्नान करते हैं। सरयूजी के किनारे-किनारे देवताओं के मन्दिर हैं, जिनके चारों ओर सुन्दर उपवन (बगीचे) हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहुँ कहुँ सरिता तीर उदासी। बसहिं ग्यान रत मुनि सन्न्यासी॥  
 तीर तीर तुलसिका सुहाई। बृन्द बृन्द बहु मुनिन्ह लगाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3517,8 +4105,11 @@ unicode_script = "devanagari"
 नदी के किनारे कहीं-कहीं विरक्त और ज्ञानपरायण मुनि और सन्न्यासी निवास करते हैं। सरयूजी के किनारे-किनारे सुन्दर तुलसीजी के झुण्ड के झुण्ड बहुत से पेड मुनियों ने लगा रखे हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुर सोभा कछु बरनि न जाई। बाहेर नगर परम रुचिराई॥  
 देखत पुरी अखिल अघ भागा। बन उपबन बापिका तडागा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3535,10 +4126,13 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-366.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बापीं तडाग अनूप कूप मनोहरायत सोहहीं।  
 सोपान सुन्दर नीर निर्मल देखि सुर मुनि मोहहीं॥  
 बहु रङ्ग कञ्ज अनेक खग कूजहिं मधुप गुञ्जारहीं।  
 आराम रम्य पिकादि खग रव जनु पथिक हङ्कारहीं॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3559,8 +4153,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रमानाथ जहँ राजा सो पुर बरनि कि जाइ।  
 अनिमादिक सुख सम्पदा रहीं अवध सब छाइ॥29॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3578,8 +4175,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जहँ तहँ नर रघुपति गुन गावहिं। बैठि परसपर इहइ सिखावहिं॥  
 भजहु प्रनत प्रतिपालक रामहि। सोभा सील रूप गुन धामहि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3592,8 +4192,11 @@ unicode_script = "devanagari"
 लोग जहाँ-तहाँ श्री रघुनाथजी के गुण गाते हैं और बैठकर एक-दूसरे को यही सीख देते हैं कि शरणागत का पालन करने वाले श्री रामजी को भजो, शोभा, शील, रूप और गुणों के धाम श्री रघुनाथजी को भजो॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जलज बिलोचन स्यामल गातहि। पलक नयन इव सेवक त्रातहि॥  
 धृत सर रुचिर चाप तूनीरहि। सन्त कञ्ज बन रबि रनधीरहि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3606,8 +4209,11 @@ unicode_script = "devanagari"
 कमलनयन और साँवले शरीर वाले को भजो। पलक जिस प्रकार नेत्रों की रक्षा करती हैं उसी प्रकार अपने सेवकों की रक्षा करने वाले को भजो। सुन्दर बाण, धनुष और तरकस धारण करने वाले को भजो। सन्त रूपी कमलवन के (खिलाने के) सूर्य रूप रणधीर श्री रामजी को भजो॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काल कराल ब्याल खगराजहि। नमत राम अकाम ममता जहि॥  
 लोभ मोह मृगजूथ किरातहि। मनसिज करि हरि जन सुखदातहि॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3620,8 +4226,11 @@ unicode_script = "devanagari"
 कालरूपी भयानक सर्प के भक्षण करने वाले श्री राम रूप गरुडजी को भजो। निष्कामभाव से प्रणाम करते ही ममता का नाश कर देने वाले श्री रामजी को भजो। लोभ-मोह रूपी हरिनों के समूह के नाश करने वाले श्री राम किरात को भजो। कामदेव रूपी हाथी के लिए सिंह रूप तथा सेवकों को सुख देने वाले श्री राम को भजो॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 संसय सोक निबिड तम भानुहि। दनुज गहन घन दहन कृसानुहि॥  
 जनकसुता समेत रघुबीरहि। कस न भजहु भञ्जन भव भीरहि॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3634,8 +4243,11 @@ unicode_script = "devanagari"
 संशय और शोक रूपी घने अन्धकार का नाश करने वाले श्री राम रूप सूर्य को भजो। राक्षस रूपी घने वन को जलाने वाले श्री राम रूप अग्नि को भजो। जन्म-मृत्यु के भय को नाश करने वाले श्री जानकी समेत श्री रघुवीर को क्यों नहीं भजते?॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बहु बासना मसक हिम रासिहि। सदा एकरस अज अबिनासिहि॥  
 मुनि रञ्जन भञ्जन महि भारहि। तुलसिदास के प्रभुहि उदारहि॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3654,8 +4266,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि बिधि नगर नारि नर करहिं राम गुन गान।  
 सानुकूल सब पर रहहिं सन्तत कृपानिधान॥30॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3672,8 +4287,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जब ते राम प्रताप खगेसा। उदित भयउ अति प्रबल दिनेसा॥  
 पूरि प्रकास रहेउ तिहुँ लोका। बहुतेन्ह सुख बहुतन मन सोका॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3686,8 +4304,11 @@ unicode_script = "devanagari"
 (काकभुशुण्डिजी कहते हैं-) हे पक्षीराज गरुडजी! जब से रामप्रताप रूपी अत्यन्त प्रचण्ड सूर्य उदित हुआ, तब से तीनों लोकों में पूर्ण प्रकाश भर गया है। इससे बहुतों को सुख और बहुतों के मन में शोक हुआ॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जिन्हहि सोक ते कहउँ बखानी। प्रथम अबिद्या निसा नसानी॥  
 अघ उलूक जहँ तहाँ लुकाने। काम क्रोध कैरव सकुचाने॥2॥   
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3700,8 +4321,11 @@ unicode_script = "devanagari"
 जिन-जिन को शोक हुआ, उन्हें मैं बखानकर कहता हूँ (सर्वत्र प्रकाश छा जाने से) पहले तो अविद्या रूपी रात्रि नष्ट हो गई। पाप रूपी उल्लू जहाँ-तहाँ छिप गए और काम-क्रोध रूपी कुमुद मुँद गए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिबिध कर्म गुन काल सुभाउ। ए चकोर सुख लहहिं न काऊ॥  
 मत्सर मान मोह मद चोरा। इन्ह कर हुनर न कवनिहुँ ओरा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3714,8 +4338,11 @@ unicode_script = "devanagari"
 भाँति-भाँति के (बन्धनकारक) कर्म, गुण, काल और स्वभाव- ये चकोर हैं, जो (रामप्रताप रूपी सूर्य के प्रकाश में) कभी सुख नहीं पाते। मत्सर (डाह), मान, मोह और मद रूपी जो चोर हैं, उनका हुनर (कला) भी किसी ओर नहीं चल पाता॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धरम तडाग ग्यान बिग्याना। ए पङ्कज बिकसे बिधि नाना॥  
 सुख सन्तोष बिराग बिबेका। बिगत सोक ए कोक अनेका॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3734,8 +4361,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यह प्रताप रबि जाकें उर जब करइ प्रकास।  
 पछिले बाढहिं प्रथम जे कहे ते पावहिं नास॥31॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3753,8 +4383,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भ्रातन्ह सहित रामु एक बारा। सङ्ग परम प्रिय पवनकुमारा॥  
 सुन्दर उपबन देखन गए। सब तरु कुसुमित पल्लव नए॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3767,8 +4400,11 @@ unicode_script = "devanagari"
 एक बार भाइयों सहित श्री रामचन्द्रजी परम प्रिय हनुमान्‌जी को साथ लेकर सुन्दर उपवन देखने गए। वहाँ के सब वृक्ष फूले हुए और नए पत्तों से युक्त थे॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जानि समय सनकादिक आए। तेज पुञ्ज गुन सील सुहाए॥  
 ब्रह्मानन्द सदा लयलीना। देखत बालक बहुकालीना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3781,8 +4417,11 @@ unicode_script = "devanagari"
 सुअवसर जानकर सनकादि मुनि आए, जो तेज के पुञ्ज, सुन्दर गुण और शील से युक्त तथा सदा ब्रह्मानन्द में लवलीन रहते हैं। देखने में तो वे बालक लगते हैं, परन्तु हैं बहुत समय के॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रूप धरें जनु चारिउ बेदा। समदरसी मुनि बिगत बिभेदा॥  
 आसा बसन ब्यसन यह तिन्हहीं। रघुपति चरित होइ तहँ सुनहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3795,8 +4434,11 @@ unicode_script = "devanagari"
 मानो चारों वेद ही बालक रूप धारण किए हों। वे मुनि समदर्शी और भेदरहित हैं। दिशाएँ ही उनके वस्त्र हैं। उनके एक ही व्यसन है कि जहाँ श्री रघुनाथजी की चरित्र कथा होती है वहाँ जाकर वे उसे अवश्य सुनते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तहाँ रहे सनकादि भवानी। जहँ घटसम्भव मुनिबर ग्यानी॥  
 राम कथा मुनिबर बहु बरनी। ग्यान जोनि पावक जिमि अरनी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3815,8 +4457,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-367.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखि राम मुनि आवत हरषि दण्डवत कीन्ह।  
 स्वागत पूँछि पीत पट प्रभु बैठन कहँ दीन्ह॥32॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3834,8 +4479,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कीन्ह दण्डवत तीनिउँ भाई। सहित पवनसुत सुख अधिकाई॥  
 मुनि रघुपति छबि अतुल बिलोकी। भए मगन मन सके न रोकी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3848,8 +4496,11 @@ unicode_script = "devanagari"
 फिर हनुमान्‌जी सहित तीनों भाइयों ने दण्डवत्‌ की, सबको बडा सुख हुआ। मुनि श्री रघुनाथजी की अतुलनीय छबि देखकर उसी में मग्न हो गए। वे मन को रोक न सके॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्यामल गात सरोरुह लोचन। सुन्दरता मन्दिर भव मोचन॥  
 एकटक रहे निमेष न लावहिं। प्रभु कर जोरें सीस नवावहिं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3862,8 +4513,11 @@ unicode_script = "devanagari"
 वे जन्म-मृत्यु (के चक्र) से छुडाने वाले, श्याम शरीर, कमलनयन, सुन्दरता के धाम श्री रामजी को टकटकी लगाए देखते ही रह गए, पलक नहीं मारते और प्रभु हाथ जोडे सिर नवा रहे हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तिन्ह कै दसा देखि रघुबीरा। स्रवत नयन जल पुलक सरीरा॥  
 कर गहि प्रभु मुनिबर बैठारे। परम मनोहर बचन उचारे॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3876,8 +4530,11 @@ unicode_script = "devanagari"
 उनकी (प्रेम विह्लल) दशा देखकर (उन्हीं की भाँति) श्री रघुनाथजी के नेत्रों से भी (प्रेमाश्रुओं का) जल बहने लगा और शरीर पुलकित हो गया। दतनन्तर प्रभु ने हाथ पकडकर श्रेष्ठ मुनियों को बैठाया और परम मनोहर वचन कहे-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आजु धन्य मैं सुनहु मुनीसा। तुम्हरें दरस जाहिं अघ खीसा॥  
 बडे भाग पाइब सतसङ्गा। बिनहिं प्रयास होहिं भव भङ्गा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3896,8 +4553,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त सङ्ग अपबर्ग कर कामी भव कर पन्थ।  
 कहहिं सन्त कबि कोबिद श्रुति पुरान सदग्रन्थ॥33॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3915,8 +4575,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि प्रभु बचन हरषि मुनि चारी। पुलकित तन अस्तुति अनुसारी॥  
 जय भगवन्त अनन्त अनामय। अनघ अनेक एक करुनामय॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3929,8 +4592,11 @@ unicode_script = "devanagari"
 प्रभु के वचन सुनकर चारों मुनि हर्षित होकर, पुलकित शरीर से स्तुति करने लगे- हे भगवन्‌! आपकी जय हो। आप अन्तरहित, विकाररहित, पापरहित, अनेक (सब रूपों में प्रकट), एक (अद्वितीय) और करुणामय हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जय निर्गुन जय जय गुन सागर। सुख मन्दिर सुन्दर अति नागर॥  
 जय इन्दिरा रमन जय भूधर। अनुपम अज अनादि सोभाकर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3943,8 +4609,11 @@ unicode_script = "devanagari"
 हे निर्गुण! आपकी जय हो। हे गुण के समुद्र! आपकी जय हो, जय हो। आप सुख के धाम, (अत्यन्त) सुन्दर और अति चतुर हैं। हे लक्ष्मीपति! आपकी जय हो। हे पृथ्वी के धारण करने वाले! आपकी जय हो। आप उपमारहित, अजन्मे, अनादि और शोभा की खान हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यान निधान अमान मानप्रद। पावन सुजस पुरान बेद बद॥  
 तग्य कृतग्य अग्यता भञ्जन। नाम अनेक अनाम निरञ्जन॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3957,8 +4626,11 @@ unicode_script = "devanagari"
 आप ज्ञान के भण्डार, (स्वयं) मानरहित और (दूसरों को) मान देने वाले हैं। वेद और पुराण आपका पावन सुन्दर यश गाते हैं। आप तत्त्व के जानने वाले, की हुई सेवा को मानने वाले और अज्ञान का नाश करने वाले हैं। हे निरञ्जन (मायारहित)! आपके अनेकों (अनन्त) नाम हैं और कोई नाम नहीं है (अर्थात्‌ आप सब नामों के परे हैं)॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सर्ब सर्बगत सर्ब उरालय। बससि सदा हम कहुँ परिपालय  
 द्वन्द बिपति भव फन्द बिभञ्जय। हृदि बसि राम काम मद गञ्जय॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3977,8 +4649,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परमानन्द कृपायतन मन परिपूरन काम।  
 प्रेम भगति अनपायनी देहु हमहि श्रीराम॥34॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -3996,8 +4671,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देहु भगति रघुपति अति पावनि। त्रिबिधि ताप भव दाप नसावनि॥  
 प्रनत काम सुरधेनु कलपतरु। होइ प्रसन्न दीजै प्रभु यह बरु॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4010,8 +4688,11 @@ unicode_script = "devanagari"
 हे रघुनाथजी! आप हमें अपनी अत्यन्त पवित्र करने वाली और तीनों प्रकार के तापों और जन्म-मरण के क्लेशों का नाश करने वाली भक्ति दीजिए। हे शरणागतों की कामना पूर्ण करने के लिए कामधेनु और कल्पवृक्ष रूप प्रभो! प्रसन्न होकर हमें यही वर दीजिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव बारिधि कुम्भज रघुनायक। सेवत सुलभ सकल सुख दायक॥  
 मन सम्भव दारुन दुख दारय। दीनबन्धु समता बिस्तारय॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4024,8 +4705,11 @@ unicode_script = "devanagari"
 हे रघुनाथजी! आप जन्म-मृत्यु रूप समुद्र को सोखने के लिए अगस्त्य मुनि के समान हैं। आप सेवा करने में सुलभ हैं तथा सब सुखों के देने वाले हैं। हे दीनबन्धो! मन से उत्पन्न दारुण दुःखों का नाश कीजिए और (हम में) समदृष्टि का विस्तार कीजिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आस त्रास इरिषाद निवारक। बिनय बिबेक बिरति बिस्तारक॥  
 भूप मौलि मनि मण्डन धरनी। देहि भगति संसृति सरि तरनी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4038,8 +4722,11 @@ unicode_script = "devanagari"
 आप (विषयों की) आशा, भय और ईर्षा आदि के निवारण करने वाले हैं तथा विनय, विवेक और वैराग्य के विस्तार करने वाले हैं। हे राजाओं के शिरोमणि एवं पृथ्वी के भूषण श्री रामजी! संसृति (जन्म-मृत्यु के प्रवाह) रूपी नदी के लिए नौका रूप अपनी भक्ति प्रदान कीजिए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मुनि मन मानस हंस निरन्तर। चरन कमल बन्दित अज सङ्कर॥  
 रघुकुल केतु सेतु श्रुति रच्छक। काल करम सुभाउ गुन भच्छक॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4052,7 +4739,10 @@ unicode_script = "devanagari"
 हे मुनियों के मन रूपी मानसरोवर में निरन्तर निवास करने वाले हंस! आपके चरणकमल ब्रह्माजी और शिवजी के द्वारा वन्दित हैं। आप रघुकुल के केतु, वेदमर्यादा के रक्षक और काल, कर्म, स्वभाव तथा गुण (रूप बन्धनों) के भक्षक (नाशक) हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तारन तरन हरन सब दूषन। तुलसिदास प्रभु त्रिभुवन भूषन॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4070,8 +4760,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-368.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बार-बार अस्तुति करि प्रेम सहित सिरु नाइ।  
 ब्रह्म भवन सनकादि गे अति अभीष्ट बर पाइ॥35॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4089,8 +4782,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सनकादिक बिधि लोक सिधाए। भ्रातन्ह राम चरन सिर नाए॥  
 पूछत प्रभुहि सकल सकुचाहीं। चितवहिं सब मारुतसुत पाहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4103,8 +4799,11 @@ unicode_script = "devanagari"
 सनकादि मुनि ब्रह्मलोक को चले गए। तब भाइयों ने श्री रामजी के चरणों में सिर नवाया। सब भाई प्रभु से पूछते सकुचाते हैं। (इसलिए) सब हनुमान्‌जी की ओर देख रहे हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनी चहहिं प्रभु मुख कै बानी। जो सुनि होइ सकल भ्रम हानी॥  
 अन्तरजामी प्रभु सभ जाना। बूझत कहहु काह हनुमाना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4117,8 +4816,11 @@ unicode_script = "devanagari"
 वे प्रभु के श्रीमुख की वाणी सुनना चाहते हैं, जिसे सुनकर सारे भ्रमों का नाश हो जाता है। अन्तरयामी प्रभु सब जान गए और पूछने लगे- कहो हनुमान्‌! क्या बात है?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जोरि पानि कह तब हनुमन्ता। सुनहु दीनदयाल भगवन्ता॥  
 नाथ भरत कछु पूँछन चहहीं। प्रस्न करत मन सकुचत अहहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4131,8 +4833,11 @@ unicode_script = "devanagari"
 तब हनुमान्‌जी हाथ जोडकर बोले- हे दीनदयालु भगवान्‌! सुनिए। हे नाथ! भरतजी कुछ पूछना चाहते हैं, पर प्रश्न करते मन में सकुचा रहे हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्ह जानहु कपि मोर सुभाऊ। भरतहि मोहि कछु अन्तर काऊ॥  
 सुनि प्रभु बचन भरत गहे चरना। सुनहु नाथ प्रनतारति हरना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4151,8 +4856,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ न मोहि सन्देह कछु सपनेहुँ सोक न मोह।  
 केवल कृपा तुम्हारिहि कृपानन्द सन्दोह॥36॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4170,8 +4878,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करउँ कृपानिधि एक ढिठाई। मैं सेवक तुम्ह जन सुखदाई॥  
 सन्तन्ह कै महिमा रघुराई। बहु बिधि बेद पुरानन्ह गाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4184,8 +4895,11 @@ unicode_script = "devanagari"
 तथापि हे कृपानिधान! मैं आप से एक धृष्टता करता हूँ। मैं सेवक हूँ और आप सेवक को सुख देने वाले हैं (इससे मेरी दृष्टता को क्षमा कीजिए और मेरे प्रश्न का उत्तर देकर सुख दीजिए)। हे रघुनाथजी वेद-पुराणों ने सन्तों की महिमा बहुत प्रकार से गाई है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्रीमुख तुम्ह पुनि कीन्हि बडाई। तिन्ह पर प्रभुहि प्रीति अधिकाई॥  
 सुना चहउँ प्रभु तिन्ह कर लच्छन। कृपासिन्धु गुन ग्यान बिचच्छन॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4198,8 +4912,11 @@ unicode_script = "devanagari"
 आपने भी अपने श्रीमुख से उनकी बडाई की है और उन पर प्रभु (आप) का प्रेम भी बहुत है। हे प्रभो! मैं उनके लक्षण सुनना चाहता हूँ। आप कृपा के समुद्र हैं और गुण तथा ज्ञान में अत्यन्त निपुण हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त असन्त भेद बिलगाई। प्रनतपाल मोहि कहहु बुझाई॥  
 सन्तन्ह के लच्छन सुनु भ्राता। अगनित श्रुति पुरान बिख्याता॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4212,8 +4929,11 @@ unicode_script = "devanagari"
 हे शरणागत का पालन करने वाले! सन्त और असन्त के भेद अलग-अलग करके मुझको समझाकर कहिए। (श्री रामजी ने कहा-) हे भाई! सन्तों के लक्षण (गुण) असङ्ख्य हैं, जो वेद और पुराणों में प्रसिद्ध हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त असन्तन्हि कै असि करनी। जिमि कुठार चन्दन आचरनी॥  
 काटइ परसु मलय सुनु भाई। निज गुन देइ सुगन्ध बसाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4232,8 +4952,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताते सुर सीसन्ह चढत जग बल्लभ श्रीखण्ड।  
 अनल दाहि पीटत घनहिं परसु बदन यह दण्ड॥37॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4251,8 +4974,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिषय अलम्पट सील गुनाकर। पर दुख दुख सुख सुख देखे पर॥  
 सम अभूतरिपु बिमद बिरागी। लोभामरष हरष भय त्यागी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4265,8 +4991,11 @@ unicode_script = "devanagari"
 सन्त विषयों में लम्पट (लिप्त) नहीं होते, शील और सद्गुणों की खान होते हैं, उन्हें पराया दुःख देखकर दुःख और सुख देखकर सुख होता है। वे (सबमें, सर्वत्र, सब समय) समता रखते हैं, उनके मन कोई उनका शत्रु नहीं है। वे मद से रहित और वैराग्यवान्‌ होते हैं तथा लोभ, क्रोध, हर्ष और भय का त्याग किए हुए रहते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोमलचित दीनन्ह पर दाया। मन बच क्रम मम भगति अमाया॥  
 सबहि मानप्रद आपु अमानी। भरत प्रान सम मम ते प्रानी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4279,8 +5008,11 @@ unicode_script = "devanagari"
 उनका चित्त बडा कोमल होता है। वे दीनों पर दया करते हैं तथा मन, वचन और कर्म से मेरी निष्कपट (विशुद्ध) भक्ति करते हैं। सबको सम्मान देते हैं, पर स्वयं मानरहित होते हैं। हे भरत! वे प्राणी (सन्तजन) मेरे प्राणों के समान हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिगत काम मम नाम परायन। सान्ति बिरति बिनती मुदितायन॥  
 सीतलता सरलता मयत्री। द्विज पद प्रीति धर्म जनयत्री॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4293,8 +5025,11 @@ unicode_script = "devanagari"
 उनको कोई कामना नहीं होती। वे मेरे नाम के परायण होते है। शान्ति, वैराग्य, विनय और प्रसन्नता के घर होते हैं। उनमें शीलता, सरलता, सबके प्रति मित्र भाव और ब्राह्मण के चरणों में प्रीति होती है, जो धर्मों को उत्पन्न करने वाली है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ए सब लच्छन बसहिं जासु उर। जानेहु तात सन्त सन्तत फुर॥  
 सम दम नियम नीति नहिं डोलहिं। परुष बचन कबहूँ नहिं बोलहिं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4313,8 +5048,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-369.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निन्दा अस्तुति उभय सम ममता मम पद कञ्ज।  
 ते सज्जन मम प्रानप्रिय गुन मन्दिर सुख पुञ्ज॥38॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4332,8 +5070,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहु असन्तन्ह केर सुभाऊ। भूलेहुँ सङ्गति करिअ न काऊ॥  
 तिन्ह कर सङ्ग सदा दुखदाई। जिमि कपिलहि घालइ हरहाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4346,8 +5087,11 @@ unicode_script = "devanagari"
 अब असन्तों दुष्टों का स्वभाव सुनो, कभी भूलकर भी उनकी सङ्गति नहीं करनी चाहिए। उनका सङ्ग सदा दुःख देने वाला होता है। जैसे हरहाई (बुरी जाति की) गाय कपिला (सीधी और दुधार) गाय को अपने सङ्ग से नष्ट कर डालती है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 खलन्ह हृदयँ अति ताप बिसेषी। जरहिं सदा पर सम्पति देखी॥  
 जहँ कहुँ निन्दा सुनहिं पराई। हरषहिं मनहुँ परी निधि पाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4360,8 +5104,11 @@ unicode_script = "devanagari"
 बदुष्टों के हृदय में बहुत अधिक सन्ताप रहता है। वे पराई सम्पत्ति (सुख) देखकर सदा जलते रहते हैं। वे जहाँ कहीं दूसरे की निन्दा सुन पाते हैं, वहाँ ऐसे हर्षित होते हैं मानो रास्ते में पडी निधि (खजाना) पा ली हो॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काम क्रोध मद लोभ परायन। निर्दय कपटी कुटिल मलायन॥  
 बयरु अकारन सब काहू सों। जो कर हित अनहित ताहू सों॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4374,8 +5121,11 @@ unicode_script = "devanagari"
 वे काम, क्रोध, मद और लोभ के परायण तथा निर्दयी, कपटी, कुटिल और पापों के घर होते हैं। वे बिना ही कारण सब किसी से वैर किया करते हैं। जो भलाई करता है उसके साथ बुराई भी करते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 झूठइ लेना झूठइ देना। झूठइ भोजन झूठ चबेना।  
 बोलहिं मधुर बचन जिमि मोरा। खाइ महा अहि हृदय कठोरा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4394,8 +5144,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पर द्रोही पर दार रत पर धन पर अपबाद।  
 ते नर पाँवर पापमय देह धरें मनुजाद॥39॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4413,8 +5166,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लोभइ ओढन लोभइ डासन। सिस्नोदर पर जमपुर त्रास न॥  
 काहू की जौं सुनहिं बडाई। स्वास लेहिं जनु जूडी आई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4427,8 +5183,11 @@ unicode_script = "devanagari"
 लोभ ही उनका ओढना और लोभ ही बिछौना होता है (अर्थात्‌ लोभ ही से वे सदा घिरे हुए रहते हैं)। वे पशुओं के समान आहार और मैथुन के ही परायण होते हैं, उन्हें यमपुर का भय नहीं लगता। यदि किसी की बडाई सुन पाते हैं, तो वे ऐसी (दुःखभरी) साँस लेते हैं मानों उन्हें जूडी आ गई हो॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जब काहू कै देखहिं बिपती। सुखी भए मानहुँ जग नृपती॥  
 स्वारथ रत परिवार बिरोधी। लम्पट काम लोभ अति क्रोधी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4441,8 +5200,11 @@ unicode_script = "devanagari"
 और जब किसी की विपत्ति देखते हैं, तब ऐसे सुखी होते हैं मानो जगत्‌भर के राजा हो गए हों। वे स्वार्थपरायण, परिवार वालों के विरोधी, काम और लोभ के कारण लम्पट और अत्यन्त क्रोधी होते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मातु पिता गुर बिप्र न मानहिं। आपु गए अरु घालहिं आनहिं॥  
 करहिं मोह बस द्रोह परावा। सन्त सङ्ग हरि कथा न भावा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4455,8 +5217,11 @@ unicode_script = "devanagari"
 वे माता, पिता, गुरु और ब्राह्मण किसी को नहीं मानते। आप तो नष्ट हुए ही रहते हैं, (साथ ही अपने सङ्ग से) दूसरों को भी नष्ट करते हैं। मोहवश दूसरों से द्रोह करते हैं। उन्हें न सन्तों का सङ्ग अच्छा लगता है, न भगवान्‌ की कथा ही सुहाती है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अवगुन सिन्धु मन्दमति कामी। बेद बिदूषक परधन स्वामी॥  
 बिप्र द्रोह पर द्रोह बिसेषा। दम्भ कपट जियँ धरें सुबेषा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4475,8 +5240,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऐसे अधम मनुज खल कृतजुग त्रेताँ नाहिं।  
 द्वापर कछुक बृन्द बहु होइहहिं कलिजुग माहिं॥40॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4494,8 +5262,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पर हित सरिस धर्म नहिं भाई। पर पीडा सम नहिं अधमाई॥  
 निर्नय सकल पुरान बेद कर। कहेउँ तात जानहिं कोबिद नर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4508,8 +5279,11 @@ unicode_script = "devanagari"
 हे भाई! दूसरों की भलाई के समान कोई धर्म नहीं है और दूसरों को दुःख पहुँचाने के समान कोई नीचता (पाप) नहीं है। हे तात! समस्त पुराणों और वेदों का यह निर्णय (निश्चित सिद्धान्त) मैन्ने तुमसे कहा है, इस बात को पण्डित लोग जानते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नर सरीर धरि जे पर पीरा। करहिं ते सहहिं महा भव भीरा॥  
 लकरहिं मोह बस नर अघ नाना। स्वारथ रत परलोक नसाना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4522,8 +5296,11 @@ unicode_script = "devanagari"
 मनुष्य का शरीर धारण करके जो लोग दूसरों को दुःख पहुँचाते हैं, उनको जन्म-मृत्यु के महान्‌ सङ्कट सहने पडते हैं। मनुष्य मोहवश स्वार्थपरायण होकर अनेकों पाप करते हैं, इसी से उनका परलोक नष्ट हुआ रहता है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कालरूप तिन्ह कहँ मैं भ्राता। सुभ अरु असुभ कर्म फलदाता॥  
 अस बिचारि जे परम सयाने। भजहिं मोहि संसृत दुख जाने॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4536,8 +5313,11 @@ unicode_script = "devanagari"
 हे भाई! मैं उनके लिए कालरूप (भयङ्कर) हूँ और उनके अच्छे और बुरे कर्मों का (यथायोग्य) फल देने वाला हूँ! ऐसा विचार कर जो लोग परम चतुर हैं वे संसार (के प्रवाह) को दुःख रूप जानकर मुझे ही भजते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्यागहिं कर्म सुभासुभ दायक। भजहिं मोहि सुर नर मुनि नायक॥  
 सन्त असन्तन्ह के गुन भाषे। ते न परहिं भव जिन्ह लखि राखे॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4556,8 +5336,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-370.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहु तात माया कृत गुन अरु दोष अनेक।  
 गुन यह उभय न देखिअहिं देखिअ सो अबिबेक॥41॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4575,8 +5358,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्रीमुख बचन सुनत सब भाई। हरषे प्रेम न हृदयँ समाई॥  
 करहिं बिनय अति बारहिं बारा। हनूमान हियँ हरष अपारा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4589,8 +5375,11 @@ unicode_script = "devanagari"
 भगवान के श्रीमुख से ये वचन सुनकर सब भाई हर्षित हो गए। प्रेम उनके हृदयों में समाता नहीं। वे बार-बार बडी विनती करते हैं। विशेषकर हनुमान्‌जी के हृदय में अपार हर्ष है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि रघुपति निज मन्दिर गए। एहि बिधि चरित करत नित नए॥  
 बार बार नारद मुनि आवहिं। चरित पुनीत राम के गावहिं॥2॥   
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4603,8 +5392,11 @@ unicode_script = "devanagari"
 तदनन्तर श्री रामचन्द्रजी अपने महल को गए। इस प्रकार वे नित्य नई लीला करते हैं। नारद मुनि अयोध्या में बार-बार आते हैं और आकर श्री रामजी के पवित्र चरित्र गाते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नित नव चरित देखि मुनि जाहीं। ब्रह्मलोक सब कथा कहाहीं॥  
 सुनि बिरञ्चि अतिसय सुख मानहिं। पुनि पुनि तात करहु गुन गानहिं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4617,8 +5409,11 @@ unicode_script = "devanagari"
 मुनि यहाँ से नित्य नए-नए चरित्र देखकर जाते हैं और ब्रह्मलोक में जाकर सब कथा कहते हैं। ब्रह्माजी सुनकर अत्यन्त सुख मानते हैं (और कहते हैं-) हे तात! बार-बार श्री रामजी के गुणों का गान करो॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सनकादिक नारदहि सराहहिं। जद्यपि ब्रह्म निरत मुनि आहहिं॥  
 सुनि गुन गान समाधि बिसारी। सादर सुनहिं परम अधिकारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4637,8 +5432,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जीवनमुक्त ब्रह्मपर चरित सुनहिं तजि ध्यान।  
 जे हरि कथाँ न करहिं रति तिन्ह के हिय पाषान॥42॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4656,8 +5454,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक बार रघुनाथ बोलाए। गुर द्विज पुरबासी सब आए॥  
 बैठे गुर मुनि अरु द्विज सज्जन। बोले बचन भगत भव भञ्जन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4670,8 +5471,11 @@ unicode_script = "devanagari"
 एक बार श्री रघुनाथजी के बुलाए हुए गुरु वशिष्ठजी, ब्राह्मण और अन्य सब नगर निवासी सभा में आए। जब गुरु, मुनि, ब्राह्मण तथा अन्य सब सज्जन यथायोग्य बैठ गए, तब भक्तों के जन्म-मरण को मिटाने वाले श्री रामजी वचन बोले-॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहु सकल पुरजन मम बानी। कहउँ न कछु ममता उर आनी॥  
 नहिं अनीति नहिं कछु प्रभुताई। सुनहु करहु जो तुम्हहि सोहाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4684,8 +5488,11 @@ unicode_script = "devanagari"
 हे समस्त नगर निवासियों! मेरी बात सुनिए। यह बात मैं हृदय में कुछ ममता लाकर नहीं कहता हूँ। न अनीति की बात कहता हूँ और न इसमें कुछ प्रभुता ही है, इसलिए (सङ्कोच और भय छोडकर, ध्यान देकर) मेरी बातों को सुन लो और (फिर) यदि तुम्हें अच्छी लगे, तो उसके अनुसार करो!॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ सेवक प्रियतम मम सोई। मम अनुसासन मानै जोई॥  
 जौं अनीति कछु भाषौं भाई। तौ मोहि बरजहु भय बिसराई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4698,8 +5505,11 @@ unicode_script = "devanagari"
 वही मेरा सेवक है और वही प्रियतम है, जो मेरी आज्ञा माने। हे भाई! यदि मैं कुछ अनीति की बात कहूँ तो भय भुलाकर (बेखटके) मुझे रोक देना॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बडें भाग मानुष तनु पावा। सुर दुर्लभ सब ग्रन्थन्हि गावा॥  
 साधन धाम मोच्छ कर द्वारा। पाइ न जेहिं परलोक सँवारा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4718,8 +5528,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो परत्र दुख पावइ सिर धुनि धुनि पछिताई।  
 सो परत्र दुख पावइ सिर धुनि धुनि पछिताई॥43॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4737,8 +5550,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि तन कर फल बिषय न भाई। स्वर्गउ स्वल्प अन्त दुखदाई॥  
 नर तनु पाइ बिषयँ मन देहीं। पलटि सुधा ते सठ बिष लेहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4751,8 +5567,11 @@ unicode_script = "devanagari"
 हे भाई! इस शरीर के प्राप्त होने का फल विषयभोग नहीं है (इस जगत्‌ के भोगों की तो बात ही क्या) स्वर्ग का भोग भी बहुत थोडा है और अन्त में दुःख देने वाला है। अतः जो लोग मनुष्य शरीर पाकर विषयों में मन लगा देते हैं, वे मूर्ख अमृत को बदलकर विष ले लेते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताहि कबहुँ भल कहइ न कोई। गुञ्जा ग्रहइ परस मनि खोई॥  
 आकर चारि लच्छ चौरासी। जोनि भ्रमत यह जिव अबिनासी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4765,8 +5584,11 @@ unicode_script = "devanagari"
 जो पारसमणि को खोकर बदले में घुँघची ले लेता है, उसको कभी कोई भला (बुद्धिमान) नहीं कहता। यह अविनाशी जीव (अण्डज, स्वेदज, जरायुज और उद्भिज्ज) चार खानों और चौरासी लाख योनियों में चक्कर लगाता रहता है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 फिरत सदा माया कर प्रेरा। काल कर्म सुभाव गुन घेरा॥  
 कबहुँक करि करुना नर देही। देत ईस बिनु हेतु सनेही॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4779,8 +5601,11 @@ unicode_script = "devanagari"
 माया की प्रेरणा से काल, कर्म, स्वभाव और गुण से घिरा हुआ (इनके वश में हुआ) यह सदा भटकता रहता है। बिना ही कारण स्नेह करने वाले ईश्वर कभी विरले ही दया करके इसे मनुष्य का शरीर देते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नर तनु भव बारिधि कहुँ बेरो। सन्मुख मरुत अनुग्रह मेरो॥  
 करनधार सदगुर दृढ नावा। दुर्लभ साज सुलभ करि पावा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4799,8 +5624,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-371.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जो न तरै भव सागर नर समाज अस पाइ।  
 सो कृत निन्दक मन्दमति आत्माहन गति जाइ॥44॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4818,8 +5646,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जौं परलोक इहाँ सुख चहहू। सुनि मम बचन हृदयँ दृढ गहहू॥  
 सुलभ सुखद मारग यह भाई। भगति मोरि पुरान श्रुति गाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4832,8 +5663,11 @@ unicode_script = "devanagari"
 यदि परलोक में और यहाँ दोनों जगह सुख चाहते हो, तो मेरे वचन सुनकर उन्हें हृदय में दृढता से पकड रखो। हे भाई! यह मेरी भक्ति का मार्ग सुलभ और सुखदायक है, पुराणों और वेदों ने इसे गाया है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यान अगम प्रत्यूह अनेका। साधन कठिन न मन कहुँ टेका॥  
 करत कष्ट बहु पावइ कोऊ। भक्ति हीन मोहि प्रिय नहिं सोऊ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4846,8 +5680,11 @@ unicode_script = "devanagari"
 ज्ञान अगम (दुर्गम) है (और) उसकी प्राप्ति में अनेकों विघ्न हैं। उसका साधन कठिन है और उसमें मन के लिए कोई आधार नहीं है। बहुत कष्ट करने पर कोई उसे पा भी लेता है, तो वह भी भक्तिरहित होने से मुझको प्रिय नहीं होता॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भक्ति सुतन्त्र सकल सुख खानी। बिनु सतसङ्ग न पावहिं प्रानी॥  
 पुन्य पुञ्ज बिनु मिलहिं न सन्ता। सतसङ्गति संसृति कर अन्ता॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4860,8 +5697,11 @@ unicode_script = "devanagari"
 भक्ति स्वतन्त्र है और सब सुखों की खान है, परन्तु सत्सङ्ग (सन्तों के सङ्ग) के बिना प्राणी इसे नहीं पा सकते और पुण्य समूह के बिना सन्त नहीं मिलते। सत्सङ्गति ही संसृति (जन्म-मरण के चक्र) का अन्त करती है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुन्य एक जग महुँ नहिं दूजा। मन क्रम बचन बिप्र पद पूजा॥  
 सानुकूल तेहि पर मुनि देवा। जो तजि कपटु करइ द्विज सेवा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4880,8 +5720,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 औरउ एक गुपुत मत सबहि कहउँ कर जोरि।  
 सङ्कर भजन बिना नर भगति न पावइ मोरि॥45॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4899,8 +5742,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहहु भगति पथ कवन प्रयासा। जोग न मख जप तप उपवासा।  
 सरल सुभाव न मन कुटिलाई। जथा लाभ सन्तोष सदाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4913,8 +5759,11 @@ unicode_script = "devanagari"
 कहो तो, भक्ति मार्ग में कौन-सा परिश्रम है? इसमें न योग की आवश्यकता है, न यज्ञ, जप, तप और उपवास की! (यहाँ इतना ही आवश्यक है कि) सरल स्वभाव हो, मन में कुटिलता न हो और जो कुछ मिले उसी में सदा सन्तोष रखे॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोर दास कहाइ नर आसा। करइ तौ कहहु कहा बिस्वासा॥  
 बहुत कहउँ का कथा बढाई। एहि आचरन बस्य मैं भाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4927,8 +5776,11 @@ unicode_script = "devanagari"
 मेरा दास कहलाकर यदि कोई मनुष्यों की आशा करता है, तो तुम्हीं कहो, उसका क्या विश्वास है? (अर्थात्‌ उसकी मुझ पर आस्था बहुत ही निर्बल है।) बहुत बात बढाकर क्या हूँ? हे भाइयों! मैं तो इसी आचरण के वश में हूँ॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बैर न बिग्रह आस न त्रासा। सुखमय ताहि सदा सब आसा॥  
 अनारम्भ अनिकेत अमानी। अनघ अरोष दच्छ बिग्यानी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4941,8 +5793,11 @@ unicode_script = "devanagari"
 न किसी से वैर करे, न लडाई-झगडा करे, न आशा रखे, न भय ही करे। उसके लिए सभी दिशाएँ सदा सुखमयी हैं। जो कोई भी आरम्भ (फल की इच्छा से कर्म) नहीं करता, जिसका कोई अपना घर नहीं है (जिसकी घर में ममता नहीं है), जो मानहीन, पापहीन और क्रोधहीन है, जो (भक्ति करने में) निपुण और विज्ञानवान्‌ है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रीति सदा सज्जन संसर्गा। तृन सम बिषय स्वर्ग अपबर्गा॥  
 भगति पच्छ हठ नहिं सठताई। दुष्ट तर्क सब दूरि बहाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4961,8 +5816,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मम गुन ग्राम नाम रत गत ममता मद मोह।  
 ता कर सुख सोइ जानइ परानन्द सन्दोह॥46॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4980,8 +5838,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनत सुधा सम बचन राम के । गहे सबनि पद कृपाधाम के॥  
 जननि जनक गुर बन्धु हमारे। कृपा निधान प्रान ते प्यारे॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -4994,8 +5855,11 @@ unicode_script = "devanagari"
 श्रीरामचन्द्रजी के अमृत के समान वचन सुनकर सबने कृपाधाम के चरण पकड लिए (और कहा-) हे कृपानिधान! आप हमारे माता, पिता, गुरु, भाई सब कुछ हैं और प्राणों से भी अधिक प्रिय हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तनु धनु धाम राम हितकारी। सब बिधि तुम्ह प्रनतारति हारी॥  
 असि सिख तुम्ह बिनु देइ न कोऊ। मातु पिता स्वारथ रत ओऊ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5008,8 +5872,11 @@ unicode_script = "devanagari"
 और हे शरणागत के दुःख हरने वाले रामजी! आप ही हमारे शरीर, धन, घर-द्वार और सभी प्रकार से हित करने वाले हैं। ऐसी शिक्षा आपके अतिरिक्त कोई नहीं दे सकता। माता-पिता (हितैषी हैं और शिक्षा भी देते हैं) परन्तु वे भी स्वार्थपरायण हैं (इसलिए ऐसी परम हितकारी शिक्षा नहीं देते)॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हेतु रहित जग जुग उपकारी। तुम्ह तुम्हार सेवक असुरारी॥  
 स्वारथ मीत सकल जग माहीं। सपनेहुँ प्रभु परमारथ नाहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5022,8 +5889,11 @@ unicode_script = "devanagari"
 हे असुरों के शत्रु! जगत्‌ में बिना हेतु के (निःस्वार्थ) उपकार करने वाले तो दो ही हैं- एक आप, दूसरे आपके सेवक। जगत्‌ में (शेष) सभी स्वार्थ के मित्र हैं। हे प्रभो! उनमें स्वप्न में भी परमार्थ का भाव नहीं है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब के बचन प्रेम रस साने। सुनि रघुनाथ हृदयँ हरषाने॥  
 निज निज गृह गए आयसु पाई। बरनत प्रभु बतकही सुहाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5042,8 +5912,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-372.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उमा अवधबासी नर नारि कृतारथ रूप।  
 ब्रह्म सच्चिदानन्द घन रघुनायक जहँ भूप॥47॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5061,8 +5934,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक बार बसिष्ट मुनि आए। जहाँ राम सुखधाम सुहाए॥  
 अति आदर रघुनायक कीन्हा। पद पखारि पादोदक लीन्हा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5075,8 +5951,11 @@ unicode_script = "devanagari"
 एक बार मुनि वशिष्ठजी वहाँ आए जहाँ सुन्दर सुख के धाम श्री रामजी थे। श्री रघुनाथजी ने उनका बहुत ही आदर-सत्कार किया और उनके चरण धोकर चरणामृत लिया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम सुनहु मुनि कह कर जोरी। कृपासिन्धु बिनती कछु मोरी॥  
 देखि देखि आचरन तुम्हारा। होत मोह मम हृदयँ अपारा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5089,8 +5968,11 @@ unicode_script = "devanagari"
 मुनि ने हाथ जोडकर कहा- हे कृपासागर श्री रामजी! मेरी कुछ विनती सुनिए! आपके आचरणों (मनुष्योचित चरित्रों) को देख-देखकर मेरे हृदय में अपार मोह (भ्रम) होता है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 महिमा अमिति बेद नहिं जाना। मैं केहि भाँति कहउँ भगवाना॥  
 उपरोहित्य कर्म अति मन्दा। बेद पुरान सुमृति कर निन्दा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5103,8 +5985,11 @@ unicode_script = "devanagari"
 हे भगवन्‌! आपकी महिमा की सीमा नहीं है, उसे वेद भी नहीं जानते। फिर मैं किस प्रकार कह सकता हूँ? पुरोहिती का कर्म (पेशा) बहुत ही नीचा है। वेद, पुराण और स्मृति सभी इसकी निन्दा करते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जब न लेउँ मैं तब बिधि मोही। कहा लाभ आगें सुत तोही॥  
 परमातमा ब्रह्म नर रूपा। होइहि रघुकुल भूषन भूपा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5123,8 +6008,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब मैं हृदयँ बिचारा जोग जग्य ब्रत दान।  
 जा कुहँ करिअ सो पैहउँ धर्म न एहि सम आन॥48॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5142,8 +6030,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जप तप नियम जोग निज धर्मा। श्रुति सम्भव नाना सुभ कर्मा॥  
 ग्यान दया दम तीरथ मज्जन। जहँ लगि धर्म कहत श्रुति सज्जन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5156,8 +6047,11 @@ unicode_script = "devanagari"
 जप, तप, नियम, योग, अपने-अपने (वर्णाश्रम के) धर्म, श्रुतियों से उत्पन्न (वेदविहित) बहुत से शुभ कर्म, ज्ञान, दया, दम (इन्द्रियनिग्रह), तीर्थस्नान आदि जहाँ तक वेद और सन्तजनों ने धर्म कहे हैं (उनके करने का)-॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आगम निगम पुरान अनेका। पढे सुने कर फल प्रभु एका॥  
 तव पद पङ्कज प्रीति निरन्तर। सब साधन कर यह फल सुन्दर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5170,8 +6064,11 @@ unicode_script = "devanagari"
 (तथा) हे प्रभो! अनेक तन्त्र, वेद और पुराणों के पढने और सुनने का सर्वोत्तम फल एक ही है और सब साधनों का भी यही एक सुन्दर फल है कि आपके चरणकमलों में सदा-सर्वदा प्रेम हो॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 छूटइ मल कि मलहि के धोएँ। घृत कि पाव कोइ बारि बिलोएँ॥  
 प्रेम भगति जल बिनु रघुराई। अभिअन्तर मल कबहुँ न जाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5184,8 +6081,11 @@ unicode_script = "devanagari"
 मैल से धोने से क्या मैल छूटता है? जल के मथने से क्या कोई घी पा सकता है? (उसी प्रकार) हे रघुनाथजी! प्रेमभक्ति रूपी (निर्मल) जल के बिना अन्तःकरण का मल कभी नहीं जाता॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ सर्बग्य तग्य सोइ पण्डित। सोइ गुन गृह बिग्यान अखण्डित॥  
 दच्छ सकल लच्छन जुत सोई। जाकें पद सरोज रति होई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5204,8 +6104,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ एक बर मागउँ राम कृपा करि देहु।  
 जन्म जन्म प्रभु पद कमल कबहुँ घटै जनि नेहु॥49॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5223,8 +6126,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस कहि मुनि बसिष्ट गृह आए। कृपासिन्धु के मन अति भाए॥  
 हनूमान भरतादिक भ्राता। सङ्ग लिए सेवक सुखदाता॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5237,8 +6143,11 @@ unicode_script = "devanagari"
 ऐसा कहकर मुनि वशिष्ठजी घर आए। वे कृपासागर श्री रामजी के मन को बहुत ही अच्छे लगे। तदनन्तर सेवकों को सुख देने वाले श्री रामजी ने हनुमान्‌जी तथा भरतजी आदि भाइयों को साथ लिया,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि कृपाल पुर बाहेर गए। गज रथ तुरग मगावत भए॥  
 देखि कृपा करि सकल सराहे। दिए उचित जिन्ह जिन्ह तेइ चाहे॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5251,8 +6160,11 @@ unicode_script = "devanagari"
 और फिर कृपालु श्री रामजी नगर के बाहर गए और वहाँ उन्होन्ने हाथी, रथ और घोडे मँगवाए। उन्हें देखकर कृपा करके प्रभु ने सबकी सराहना की और उनको जिस-जिसने चाहा, उस-उसको उचित जानकर दिया॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरन सकल श्रम प्रभु श्रम पाई। गए जहाँ सीतल अवँराई॥  
 भरत दीन्ह निज बसन डसाई। बैठे प्रभु सेवहिं सब भाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5265,9 +6177,12 @@ unicode_script = "devanagari"
 संसार के सभी श्रमों को हरने वाले प्रभु ने (हाथी, घोडे आदि बँटने में) श्रम का अनुभव किया और (श्रम मिटाने को) वहाँ गए जहाँ शीतल अमराई (आमों का बगीचा) थी। वहाँ भरतजी ने अपना वस्त्र बिछा दिया। प्रभु उस पर बैठ गए और सब भाई उनकी सेवा करने लगे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मारुतसुत तब मारुत करई। पुलक बपुष लोचन जल भरई॥  
 हनूमान सम नहिं बडभागी। नहिं कोउ राम चरन अनुरागी॥4॥  
 गिरिजा जासु प्रीति सेवकाई। बार बार प्रभु निज मुख गाई॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5287,8 +6202,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-373.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहिं अवसर मुनि नारद आए करतल बीन।  
 गावन लगे राम कल कीरति सदा नबीन॥50॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5305,8 +6223,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मामवलोकय पङ्कज लोचन। कृपा बिलोकनि सोच बिमोचन॥  
 नील तामरस स्याम काम अरि। हृदय कञ्ज मकरन्द मधुप हरि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5319,8 +6240,11 @@ unicode_script = "devanagari"
 कृपापूर्वक देख लेने मात्र से शोक के छुडाने वाले हे कमलनयन! मेरी ओर देखिए (मुझ पर भी कृपादृष्टि कीजिए) हे हरि! आप नीलकमल के समान श्यामवर्ण और कामदेव के शत्रु महादेवजी के हृदय कमल के मकरन्द (प्रेम रस) के पान करने वाले भ्रमर हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जातुधान बरूथ बल भञ्जन। मुनि सज्जन रञ्जन अघ गञ्जन॥  
 भूसुर ससि नव बृन्द बलाहक। असरन सरन दीन जन गाहक॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5333,8 +6257,11 @@ unicode_script = "devanagari"
 आप राक्षसों की सेना के बल को तोडने वाले हैं। मुनियों और सन्तजनों को आनन्द देने वाले और पापों का नाश करने वाले हैं। ब्राह्मण रूपी खेती के लिए आप नए मेघसमूह हैं और शरणहीनों को शरण देने वाले तथा दीन जनों को अपने आश्रय में ग्रहण करने वाले हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भुज बल बिपुल भार महि खण्डित। खर दूषन बिराध बध पण्डित॥  
 रावनारि सुखरूप भूपबर। जय दसरथ कुल कुमुद सुधाकर॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5347,8 +6274,11 @@ unicode_script = "devanagari"
 अपने बाहुबल से पृथ्वी के बडे भारी बोझ को नष्ट करने वाले, खर दूषण और विराध के वध करने में कुशल, रावण के शत्रु, आनन्दस्वरूप, राजाओं में श्रेष्ठ और दशरथ के कुल रूपी कुमुदिनी के चन्द्रमा श्री रामजी! आपकी जय हो॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुजस पुरान बिदित निगमागम। गावत सुर मुनि सन्त समागम॥  
 कारुनीक ब्यलीक मद खण्डन। सब बिधि कुसल कोसला मण्डन॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5361,7 +6291,10 @@ unicode_script = "devanagari"
 आपका सुन्दर यश पुराणों, वेदों में और तन्त्रादि शास्त्रों में प्रकट है! देवता, मुनि और सन्तों के समुदाय उसे गाते हैं। आप करुणा करने वाले और झूठे मद का नाश करने वाले, सब प्रकार से कुशल (निपुण) श्री अयोध्याजी के भूषण ही हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलि मल मथन नाम ममताहन। तुलसिदास प्रभु पाहि प्रनत जन॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5379,8 +6312,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रेम सहित मुनि नारद बरनि राम गुन ग्राम।  
 सोभासिन्धु हृदयँ धरि गए जहाँ बिधि धाम॥51॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5398,8 +6334,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गिरिजा सुनहु बिसद यह कथा। मैं सब कही मोरि मति जथा॥  
 राम चरित सत कोटि अपारा। श्रुति सारदा न बरनै पारा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5412,8 +6351,11 @@ unicode_script = "devanagari"
 (शिवजी कहते हैं-) हे गिरिजे! सुनो, मैन्ने यह उज्ज्वल कथा, जैसी मेरी बुद्धि थी, वैसी पूरी कह डाली। श्री रामजी के चरित्र सौ करोड (अथवा) अपार हैं। श्रुति और शारदा भी उनका वर्णन नहीं कर सकते॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम अनन्त अनन्त गुनानी। जन्म कर्म अनन्त नामानी॥  
 जल सीकर महि रज गनि जाहीं। रघुपति चरित न बरनि सिराहीं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5426,8 +6368,11 @@ unicode_script = "devanagari"
 भगवान्‌ श्री राम अनन्त हैं, उनके गुण अनन्त हैं, जन्म, कर्म और नाम भी अनन्त हैं। जल की बूँदें और पृथ्वी के रजकण चाहे गिने जा सकते हों, पर श्री रघुनाथजी के चरित्र वर्णन करने से नहीं चूकते॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिमल कथा हरि पद दायनी। भगति होइ सुनि अनपायनी॥  
 उमा कहिउँ सब कथा सुहाई। जो भुसुण्डि खगपतिहि सुनाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5440,8 +6385,11 @@ unicode_script = "devanagari"
 यह पवित्र कथा भगवान्‌ के परम पद को देने वाली है। इसके सुनने से अविचल भक्ति प्राप्त होती है। हे उमा! मैन्ने वह सब सुन्दर कथा कही जो काकभुशुण्डिजी ने गरुडजी को सुनाई थी॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कछुक राम गुन कहेउँ बखानी। अब का कहौं सो कहहु भवानी॥  
 सुनि सुभ कथा उमा हरषानी। बोली अति बिनीत मृदु बानी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5454,7 +6402,10 @@ unicode_script = "devanagari"
 मैन्ने श्री रामजी के कुछ थोडे से गुण बखान कर कहे हैं। हे भवानी! सो कहो, अब और क्या कहूँ? श्री रामजी की मङ्गलमयी कथा सुनकर पार्वतीजी हर्षित हुईं और अत्यन्त विनम्र तथा कोमल वाणी बोलीं-॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धन्य धन्य मैं धन्य पुरारी। सुनेउँ राम गुन भव भय हारी॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5472,8 +6423,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्हरी कृपाँ कृपायतन अब कृतकृत्य न मोह।  
 जानेउँ राम प्रताप प्रभु चिदानन्द सन्दोह॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5486,8 +6440,11 @@ unicode_script = "devanagari"
 हे कृपाधाम। अब आपकी कृपा से मैं कृतकृत्य हो गई। अब मुझे मोह नहीं रह गया। हे प्रभु! मैं सच्चिदानन्दघन प्रभु श्री रामजी के प्रताप को जान गई॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ तवानन ससि स्रवत कथा सुधा रघुबीर।  
 श्रवन पुटन्हि मन पान करि नहिं अघात मतिधीर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5505,8 +6462,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम चरित जे सुनत अघाहीं। रस बिसेष जाना तिन्ह नाहीं॥  
 जीवनमुक्त महामुनि जेऊ। हरि गुन सुनहिं निरन्तर तेऊ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5519,8 +6479,11 @@ unicode_script = "devanagari"
 श्री रामजी के चरित्र सुनते-सुनते जो तृप्त हो जाते हैं (बस कर देते हैं), उन्होन्ने तो उसका विशेष रस जाना ही नहीं। जो जीवन्मुक्त महामुनि हैं, वे भी भगवान्‌ के गुण निरन्तर सुनते रहते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव सागर चह पार जो पावा। राम कथा ता कहँ दृढ नावा॥  
 बिषइन्ह कहँ पुनि हरि गुन ग्रामा। श्रवन सुखद अरु मन अभिरामा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5533,8 +6496,11 @@ unicode_script = "devanagari"
 जो संसार रूपी सागर का पार पाना चाहता है, उसके लिए तो श्री रामजी की कथा दृढ नौका के समान है। श्री हरि के गुणसमूह तो विषयी लोगों के लिए भी कानों को सुख देने वाले और मन को आनन्द देने वाले हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्रवनवन्त अस को जग माहीं। जाहि न रघुपति चरित सोहाहीं॥  
 ते जड जीव निजात्मक घाती। जिन्हहि न रघुपति कथा सोहाती॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5547,8 +6513,11 @@ unicode_script = "devanagari"
 जगत्‌ में कान वाला ऐसा कौन है, जिसे श्री रघुनाथजी के चरित्र न सुहाते हों। जिन्हें श्री रघुनाथजी की कथा नहीं सुहाती, वे मूर्ख जीव तो अपनी आत्मा की हत्या करने वाले हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरिचरित्र मानस तुम्ह गावा। सुनि मैं नाथ अमिति सुख पावा॥  
 तुम्ह जो कही यह कथा सुहाई। कागभुशण्डि गरुड प्रति गाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5567,8 +6536,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-374.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिरति ग्यान बिग्यान दृढ राम चरन अति नेह।  
 बायस तन रघुपति भगति मोहि परम सन्देह॥53॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5586,8 +6558,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नर सहस्र महँ सुनहु पुरारी। कोउ एक होई धर्म ब्रतधारी॥  
 धर्मसील कोटिक महँ कोई। बिषय बिमुख बिराग रत होई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5600,8 +6575,11 @@ unicode_script = "devanagari"
 हे त्रिपुरारि! सुनिए, हजारों मनुष्यों में कोई एक धर्म के व्रत का धारण करने वाला होता है और करोडों धर्मात्माओं में कोई एक विषय से विमुख (विषयों का त्यागी) और वैराग्य परायण होता है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोटि बिरक्त मध्य श्रुति कहई। सम्यक ग्यान सकृत कोउ लहई॥  
 ग्यानवन्त कोटिक महँ कोऊ। जीवनमुक्त सकृत जग सोऊ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5614,8 +6592,11 @@ unicode_script = "devanagari"
 श्रुति कहती है कि करोडों विरक्तों में कोई एक ही सम्यक्‌ (यथार्थ) ज्ञान को प्राप्त करता है और करोडों ज्ञानियों में कोई एक ही जीवन मुक्त होता है। जगत्‌ में कोई विरला ही ऐसा (जीवन मुक्त) होगा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तिन्ह सहस्र महुँ सबसुख खानी। दुर्लभ ब्रह्म लीन बिग्यानी॥  
 धर्मसील बिरक्त अरु ग्यानी। जीवनमुक्त ब्रह्मपर प्रानी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5628,8 +6609,11 @@ unicode_script = "devanagari"
 हजारों जीवन मुक्तों में भी सब सुखों की खान, ब्रह्म में लीन विज्ञानवान्‌ पुरुष और भी दुर्लभ है। धर्मात्मा, वैराग्यवान्‌, ज्ञानी, जीवन मुक्त और ब्रह्मलीन-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सत ते सो दुर्लभ सुरराया। राम भगति रत गत मद माया॥  
 सो हरिभगति काग किमि पाई। बिस्वनाथ मोहि कहहु बुझाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5648,8 +6632,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम परायन ग्यान रत गुनागार मति धीर।  
 नाथ कहहु केहि कारन पायउ काक सरीर॥54॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5667,8 +6654,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यह प्रभु चरित पवित्र सुहावा। कहहु कृपाल काग कहँ पावा॥  
 तुम्ह केहि भाँति सुना मदनारी। कहहु मोहि अति कौतुक भारी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5681,8 +6671,11 @@ unicode_script = "devanagari"
 हे कृपालु! बताइए, उस कौए ने प्रभु का यह पवित्र और सुन्दर चरित्र कहाँ पाया? और हे कामदेव के शत्रु! यह भी बताइए, आपने इसे किस प्रकार सुना? मुझे बडा भारी कौतूहल हो रहा है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गरुड महाग्यानी गुन रासी। हरि सेवक अति निकट निवासी।  
 तेहिं केहि हेतु काग सन जाई। सुनी कथा मुनि निकर बिहाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5695,8 +6688,11 @@ unicode_script = "devanagari"
 गरुडजी तो महान्‌ ज्ञानी, सद्गुणों की राशि, श्री हरि के सेवक और उनके अत्यन्त निकट रहने वाले (उनके वाहन ही) हैं। उन्होन्ने मुनियों के समूह को छोडकर, कौए से जाकर हरिकथा किस कारण सुनी?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहहु कवन बिधि भा सम्बादा। दोउ हरिभगत काग उरगादा॥  
 गौरि गिरा सुनि सरल सुहाई। बोले सिव सादर सुख पाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5709,8 +6705,11 @@ unicode_script = "devanagari"
 कहिए, काकभुशुण्डि और गरुड इन दोनों हरिभक्तों की बातचीत किस प्रकार हुई? पार्वतीजी की सरल, सुन्दर वाणी सुनकर शिवजी सुख पाकर आदर के साथ बोले-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धन्य सती पावन मति तोरी। रघुपति चरन प्रीति नहिं थोरी॥  
 सुनहु परम पुनीत इतिहासा। जो सुनि सकल लोक भ्रम नासा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5723,7 +6722,10 @@ unicode_script = "devanagari"
 हे सती! तुम धन्य हो, तुम्हारी बुद्धि अत्यन्त पवित्र है। श्री रघुनाथजी के चरणों में तुम्हारा कम प्रेम नहीं है। (अत्यधिक प्रेम है)। अब वह परम पवित्र इतिहास सुनो, जिसे सुनने से सारे लोक के भ्रम का नाश हो जाता है॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उपजइ राम चरन बिस्वासा। भव निधि तर नर बिनहिं प्रयासा॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5741,8 +6743,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऐसिअ प्रस्न बिहङ्गपति कीन्हि काग सन जाइ।  
 सो सब सादर कहिहउँ सुनहु उमा मन लाई॥55॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5760,8 +6765,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मैं जिमि कथा सुनी भव मोचनि। सो प्रसङ्ग सुनु सुमुखि सुलोचनि॥  
 प्रथम दच्छ गृह तव अवतारा। सती नाम तब रहा तुम्हारा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5774,8 +6782,11 @@ unicode_script = "devanagari"
 मैन्ने जिस प्रकार वह भव (जन्म-मृत्यु) से छुडाने वाली कथा सुनी, हे सुमुखी! हे सुलोचनी! वह प्रसङ्ग सुनो। पहले तुम्हारा अवतार दक्ष के घर हुआ था। तब तुम्हारा नाम सती था॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दच्छ जग्य तव भा अपमाना। तुम्ह अति क्रोध तजे तब प्राना॥  
 मम अनुचरन्ह कीन्ह मख भङ्गा। जानहु तुम्ह सो सकल प्रसङ्गा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5788,8 +6799,11 @@ unicode_script = "devanagari"
 दक्ष के यज्ञ में तुम्हारा अपमान हुआ। तब तुमने अत्यन्त क्रोध करके प्राण त्याग दिए थे और फिर मेरे सेवकों ने यज्ञ विध्वंस कर दिया था। वह सारा प्रसङ्ग तुम जानती ही हो॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब अति सोच भयउ मन मोरें। दुखी भयउँ बियोग प्रिय तोरें॥  
 सुन्दर बन गिरि सरित तडागा। कौतुक देखत फिरउँ बेरागा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5802,8 +6816,11 @@ unicode_script = "devanagari"
 तब मेरे मन में बडा सोच हुआ और हे प्रिये! मैं तुम्हारे वियोग से दुःखी हो गया। मैं विरक्त भाव से सुन्दर वन, पर्वत, नदी और तालाबों का कौतुक (दृश्य) देखता फिरता था॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गिरि सुमेर उत्तर दिसि दूरी। नील सैल एक सुन्दर भूरी॥  
 तासु कनकमय सिखर सुहाए। चारि चारु मोरे मन भाए॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5816,8 +6833,11 @@ unicode_script = "devanagari"
 सुमेरु पर्वत की उत्तर दिशा में और भी दूर, एक बहुत ही सुन्दर नील पर्वत है। उसके सुन्दर स्वर्णमय शिखर हैं, (उनमें से) चार सुन्दर शिखर मेरे मन को बहुत ही अच्छे लगे॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तिन्ह पर एक एक बिटप बिसाला। बट पीपर पाकरी रसाला॥  
 सैलोपरि सर सुन्दर सोहा। मनि सोपान देखि मन मोहा॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5836,8 +6856,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-375.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सीतल अमल मधुर जल जलज बिपुल बहुरङ्ग।  
 कूजत कल रव हंस गन गुञ्जत मञ्जुल भृङ्ग॥56॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5855,8 +6878,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहिं गिरि रुचिर बसइ खग सोई। तासु नास कल्पान्त न होई॥  
 माया कृत गुन दोष अनेका। मोह मनोज आदि अबिबेका॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5869,8 +6895,11 @@ unicode_script = "devanagari"
 उस सुन्दर पर्वत पर वही पक्षी (काकभुशुण्डि) बसता है। उसका नाश कल्प के अन्त में भी नहीं होता। मायारचित अनेकों गुण-दोष, मोह, काम आदि अविवेक,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रहे ब्यापि समस्त जग माहीं। तेहि गिरि निकट कबहुँ नहिं जाहीं॥  
 तहँ बसि हरिहि भजइ जिमि कागा। सो सुनु उमा सहित अनुरागा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5883,8 +6912,11 @@ unicode_script = "devanagari"
 जो सारे जगत्‌ में छा रहे हैं, उस पर्वत के पास भी कभी नहीं फटकते। वहाँ बसकर जिस प्रकार वह काग हरि को भजता है, हे उमा! उसे प्रेम सहित सुनो॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पीपर तरु तर ध्यान सो धरई। जाप जग्य पाकरि तर करई॥  
 अँब छाँह कर मानस पूजा। तजि हरि भजनु काजु नहिं दूजा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5897,8 +6929,11 @@ unicode_script = "devanagari"
 वह पीपल के वृक्ष के नीछे ध्यान धरता है। पाकर के नीचे जपयज्ञ करता है। आम की छाया में मानसिक पूजा करता है। श्री हरि के भजन को छोडकर उसे दूसरा कोई काम नहीं है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बर तर कह हरि कथा प्रसङ्गा। आवहिं सुनहिं अनेक बिहङ्गा॥  
 राम चरित बिचित्र बिधि नाना। प्रेम सहित कर सादर गाना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5911,8 +6946,11 @@ unicode_script = "devanagari"
 बरगद के नीचे वह श्री हरि की कथाओं के प्रसङ्ग कहता है। वहाँ अनेकों पक्षी आते और कथा सुनते हैं। वह विचित्र रामचरित्र को अनेकों प्रकार से प्रेम सहित आदरपूर्वक गान करता है॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहिं सकल मति बिमल मराला। बसहिं निरन्तर जे तेहिं ताला॥  
 जब मैं जाइ सो कौतुक देखा। उर उपजा आनन्द बिसेषा॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5931,8 +6969,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब कछु काल मराल तनु धरि तहँ कीन्ह निवास।  
 सादर सुनि रघुपति गुन पुनि आयउँ कैलास॥57॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5950,8 +6991,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गिरिजा कहेउँ सो सब इतिहासा। मैं जेहि समय गयउँ खग पासा॥  
 अब सो कथा सुनहु जेहि हेतु। गयउ काग पहिं खग कुल केतू॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5964,8 +7008,11 @@ unicode_script = "devanagari"
 हे गिरिजे! मैन्ने वह सब इतिहास कहा कि जिस समय मैं काकभुशुण्डि के पास गया था। अब वह कथा सुनो जिस कारण से पक्षी कुल के ध्वजा गरुडजी उस काग के पास गए थे॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जब रघुनाथ कीन्हि रन क्रीडा। समुझत चरित होति मोहि ब्रीडा॥  
 इन्द्रजीत कर आपु बँधायो। तब नारद मुनि गरुड पठायो॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5978,8 +7025,11 @@ unicode_script = "devanagari"
 जब श्री रघुनाथजी ने ऐसी रणलीला की जिस लीला का स्मरण करने से मुझे लज्जा होती है- मेघनाद के हाथों अपने को बँधा लिया, तब नारद मुनि ने गरुड को भेजा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बन्धन काटि गयो उरगादा। उपजा हृदयँ प्रचण्ड बिषादा॥  
 प्रभु बन्धन समुझत बहु भाँती। करत बिचार उरग आराती॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -5992,8 +7042,11 @@ unicode_script = "devanagari"
 सर्पों के भक्षक गरुडजी बन्धन काटकर गए, तब उनके हृदय में बडा भारी विषाद उत्पन्न हुआ। प्रभु के बन्धन को स्मरण करके सर्पों के शत्रु गरुडजी बहुत प्रकार से विचार करने लगे-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्यापक ब्रह्म बिरज बागीसा। माया मोह पार परमीसा॥  
 सो अवतार सुनेउँ जग माहीं। देखेउँ सो प्रभाव कछु नाहीं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6012,8 +7065,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव बन्धन ते छूटहिं नर जपि जा कर नाम।  
 खर्ब निसाचर बाँधेउ नागपास सोइ राम॥58॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6031,8 +7087,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाना भाँति मनहिं समुझावा। प्रगट न ग्यान हृदयँ भ्रम छावा॥  
 खेद खिन्न मन तर्क बढाई। भयउ मोहबस तुम्हरिहिं नाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6045,8 +7104,11 @@ unicode_script = "devanagari"
 गरुडजी ने अनेकों प्रकार से अपने मन को समझाया। पर उन्हें ज्ञान नहीं हुआ, हृदय में भ्रम और भी अधिक छा गया। (सन्देहजनित) दुःख से दुःखी होकर, मन में कुतर्क बढाकर वे तुम्हारी ही भाँति मोहवश हो गए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्याकुल गयउ देवरिषि पाहीं। कहेसि जो संसय निज मन माहीं॥  
 सुनि नारदहि लागि अति दाया। सुनु खग प्रबल राम कै माया॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6059,8 +7121,11 @@ unicode_script = "devanagari"
 व्याकुल होकर वे देवर्षि नारदजी के पास गए और मन में जो सन्देह था, वह उनसे कहा। उसे सुनकर नारद को अत्यन्त दया आई। (उन्होन्ने कहा-) हे गरुड! सुनिए! श्री रामजी की माया बडी ही बलवती है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जो ग्यानिन्ह कर चित अपहरई। बरिआईं बिमोह मन करई॥  
 जेहिं बहु बार नचावा मोही। सोइ ब्यापी बिहङ्गपति तोही॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6073,8 +7138,11 @@ unicode_script = "devanagari"
 जो ज्ञानियों के चित्त को भी भली भाँति हरण कर लेती है और उनके मन में जबर्दस्ती बडा भारी मोह उत्पन्न कर देती है तथा जिसने मुझको भी बहुत बार नचाया है, हे पक्षीराज! वही माया आपको भी व्याप गई है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 महामोह उपजा उर तोरें। मिटिहि न बेगि कहें खग मोरें॥  
 चतुरानन पहिं जाहु खगेसा। सोइ करेहु जेहि होई निदेसा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6093,8 +7161,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-376.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस कहि चले देवरिषि करत राम गुन गान।  
 हरि माया बल बरनत पुनि पुनि परम सुजान॥59॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6112,8 +7183,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब खगपति बिरञ्चि पहिं गयऊ। निज सन्देह सुनावत भयऊ॥  
 सुनि बिरञ्चि रामहि सिरु नावा। समुझि प्रताप प्रेम अति छावा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6126,7 +7200,10 @@ unicode_script = "devanagari"
 तब पक्षीराज गरुड ब्रह्माजी के पास गए और अपना सन्देह उन्हें कह सुनाया। उसे सुनकर ब्रह्माजी ने श्री रामचन्द्रजी को सिर नवाया और उनके प्रताप को समझकर उनके मन में अत्यन्त प्रेम छा गया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरि माया कर अमिति प्रभावा। बिपुल बार जेहिं मोहि नचावा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6138,8 +7215,11 @@ unicode_script = "devanagari"
 ब्रह्माजी मन में विचार करने लगे कि कवि, कोविद और ज्ञानी सभी माया के वश हैं। भगवान्‌ की माया का प्रभाव असीम है, जिसने मुझ तक को अनेकों बार नचाया है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अग जगमय जग मम उपराजा। नहिं आचरज मोह खगराजा॥  
 तब बोले बिधि गिरा सुहाई। जान महेस राम प्रभुताई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6152,8 +7232,11 @@ unicode_script = "devanagari"
 यह सारा चराचर जगत्‌ तो मेरा रचा हुआ है। जब मैं ही मायावश नाचने लगता हूँ, तब गरुड को मोह होना कोई आश्चर्य (की बात) नहीं है। तदनन्तर ब्रह्माजी सुन्दर वाणी बोले- श्री रामजी की महिमा को महादेवजी जानते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बैनतेय सङ्कर पहिं जाहू। तात अनत पूछहु जनि काहू॥  
 तहँ होइहि तव संसय हानी। चलेउ बिहङ्ग सुनत बिधि बानी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6172,8 +7255,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परमातुर बिहङ्गपति आयउ तब मो पास।  
 जात रहेउँ कुबेर गृह रहिहु उमा कैलास॥60॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6190,8 +7276,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहिं मम पद सादर सिरु नावा। पुनि आपन सन्देह सुनावा॥  
 सुनि ता करि बिनती मृदु बानी। प्रेम सहित मैं कहेउँ भवानी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6204,8 +7293,11 @@ unicode_script = "devanagari"
 गरुड ने आदरपूर्वक मेरे चरणों में सिर नवाया और फिर मुझको अपना सन्देह सुनाया। हे भवानी! उनकी विनती और कोमल वाणी सुनकर मैन्ने प्रेमसहित उनसे कहा-॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मिलेहु गरुड मारग महँ मोही। कवन भाँति समुझावौं तोही॥  
 तबहिं होइ सब संसय भङ्गा। जब बहु काल करिअ सतसङ्गा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6218,8 +7310,11 @@ unicode_script = "devanagari"
 हे गरुड! तुम मुझे रास्ते में मिले हो। राह चलते मैं तुम्हे किस प्रकार समझाऊँ? सब सन्देहों का तो तभी नाश हो जब दीर्घ काल तक सत्सङ्ग किया जाए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनिअ तहाँ हरिकथा सुहाई। नाना भाँति मुनिन्ह जो गाई॥  
 जेहि महुँ आदि मध्य अवसाना। प्रभु प्रतिपाद्य राम भगवाना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6232,8 +7327,11 @@ unicode_script = "devanagari"
 और वहाँ (सत्सङ्ग में) सुन्दर हरिकथा सुनी जाए जिसे मुनियों ने अनेकों प्रकार से गाया है और जिसके आदि, मध्य और अन्त में भगवान्‌ श्री रामचन्द्रजी ही प्रतिपाद्य प्रभु हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नित हरि कथा होत जहँ भाई। पठवउँ तहाँ सुनहु तुम्ह जाई॥  
 जाइहि सुनत सकल सन्देहा। राम चरन होइहि अति नेहा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6252,8 +7350,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु सतसङ्ग न हरि कथा तेहि बिनु मोह न भाग।  
 मोह गएँ बिनु राम पद होइ न दृढ अनुराग॥61॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6271,8 +7372,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मिलहिं न रघुपति बिनु अनुरागा। किएँ जोग तप ग्यान बिरागा॥  
 उत्तर दिसि सुन्दर गिरि नीला। तहँ रह काकभुसुण्डि सुसीला॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6285,8 +7389,11 @@ unicode_script = "devanagari"
 बिना प्रेम के केवल योग, तप, ज्ञान और वैराग्यादि के करने से श्री रघुनाथजी नहीं मिलते। (अतएव तुम सत्सङ्ग के लिए वहाँ जाओ जहाँ) उत्तर दिशा में एक सुन्दर नील पर्वत है। वहाँ परम सुशील काकभुशुण्डिजी रहते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम भगति पथ परम प्रबीना। ग्यानी गुन गृह बहु कालीना॥  
 राम कथा सो कहइ निरन्तर। सादर सुनहिं बिबिध बिहङ्गबर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6299,8 +7406,11 @@ unicode_script = "devanagari"
 वे रामभक्ति के मार्ग में परम प्रवीण हैं, ज्ञानी हैं, गुणों के धाम हैं और बहुत काल के हैं। वे निरन्तर श्री रामचन्द्रजी की कथा कहते रहते हैं, जिसे भाँति-भाँति के श्रेष्ठ पक्षी आदर सहित सुनते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जाइ सुनहु तहँ हरि गुन भूरी। होइहि मोह जनित दुख दूरी॥  
 मैं जब तेहि सब कहा बुझाई। चलेउ हरषि मम पद सिरु नाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6313,8 +7423,11 @@ unicode_script = "devanagari"
 वहाँ जाकर श्री हरि के गुण समूहों को सुनो। उनके सुनने से मोह से उत्पन्न तुम्हारा दुःख दूर हो जाएगा। मैन्ने उसे जब सब समझाकर कहा, तब वह मेरे चरणों में सिर नवाकर हर्षित होकर चला गया॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताते उमा न मैं समुझावा। रघुपति कृपाँ मरमु मैं पावा॥  
 होइहि कीन्ह कबहुँ अभिमाना। सो खोवै चह कृपानिधाना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6327,8 +7440,11 @@ unicode_script = "devanagari"
 हे उमा! मैन्ने उसको इसीलिए नहीं समझाया कि मैं श्री रघुनाथजी की कृपा से उसका मर्म (भेद) पा गया था। उसने कभी अभिमान किया होगा, जिसको कृपानिधान श्री रामजी नष्ट करना चाहते हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कछु तेहि ते पुनि मैं नहिं राखा। समुझइ खग खगही कै भाषा॥  
 प्रभु माया बलवन्त भवानी। जाहि न मोह कवन अस ग्यानी॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6347,8 +7463,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-377.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यानी भगत सिरोमनि त्रिभुवनपति कर जान।  
 ताहि मोह माया नर पावँर करहिं गुमान॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6361,8 +7480,11 @@ unicode_script = "devanagari"
 जो ज्ञानियों में और भक्तों में शिरोमणि हैं एवं त्रिभुवनपति भगवान्‌ के वाहन हैं, उन गरुड को भी माया ने मोह लिया। फिर भी नीच मनुष्य मूर्खतावश घमण्ड किया करते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सिव बिरञ्चि कहुँ मोहइ को है बपुरा आन।  
 अस जियँ जानि भजहिं मुनि माया पति भगवान॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6380,8 +7502,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गयउ गरुड जहँ बसइ भुसुण्डा। मति अकुण्ठ हरि भगति अखण्डा॥  
 देखि सैल प्रसन्न मन भयउ। माया मोह सोच सब गयऊ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6394,8 +7519,11 @@ unicode_script = "devanagari"
 गरुडजी वहाँ गए जहाँ निर्बाध बुद्धि और पूर्ण भक्ति वाले काकभुशुण्डि बसते थे। उस पर्वत को देखकर उनका मन प्रसन्न हो गया और (उसके दर्शन से ही) सब माया, मोह तथा सोच जाता रहा॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करि तडाग मज्जन जलपाना। बट तर गयउ हृदयँ हरषाना॥  
 बृद्ध बृद्ध बिहङ्ग तहँ आए। सुनै राम के चरित सुहाए॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6408,8 +7536,11 @@ unicode_script = "devanagari"
 तालाब में स्नान और जलपान करके वे प्रसन्नचित्त से वटवृक्ष के नीचे गए। वहाँ श्री रामजी के सुन्दर चरित्र सुनने के लिए बूढे-बूढे पक्षी आए हुए थे॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कथा अरम्भ करै सोइ चाहा। तेही समय गयउ खगनाहा॥  
 आवत देखि सकल खगराजा। हरषेउ बायस सहित समाजा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6422,8 +7553,11 @@ unicode_script = "devanagari"
 भुशुण्डिजी कथा आरम्भ करना ही चाहते थे कि उसी समय पक्षीराज गरुडजी वहाँ जा पहुँचे। पक्षियों के राजा गरुडजी को आते देखकर काकभुशुण्डिजी सहित सारा पक्षी समाज हर्षित हुआ॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अति आदर खगपति कर कीन्हा। स्वागत पूछि सुआसन दीन्हा॥  
 करि पूजा समेत अनुरागा। मधुर बचन तब बोलेउ कागा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6442,8 +7576,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ कृतारथ भयउँ मैं तव दरसन खगराज।  
 आयसु देहु सो करौं अब प्रभु आयहु केहि काज॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6456,8 +7593,11 @@ unicode_script = "devanagari"
 हे नाथ ! हे पक्षीराज ! आपके दर्शन से मैं कृतार्थ हो गया। आप जो आज्ञा दें मैं अब वही करूँ। हे प्रभो ! आप किस कार्य के लिए आए हैं ?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सदा कृतारथ रूप तुम्ह कह मृदु बचन खगेस।॥  
 जेहि कै अस्तुति सादर निज मुख कीन्ह महेस॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6475,8 +7615,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहु तात जेहि कारन आयउँ। सो सब भयउ दरस तव पायउँ॥  
 देखि परम पावन तव आश्रम। गयउ मोह संसय नाना भ्रम॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6489,8 +7632,11 @@ unicode_script = "devanagari"
 हे तात! सुनिए, मैं जिस कारण से आया था, वह सब कार्य तो यहाँ आते ही पूरा हो गया। फिर आपके दर्शन भी प्राप्त हो गए। आपका परम पवित्र आश्रम देखकर ही मेरा मोह सन्देह और अनेक प्रकार के भ्रम सब जाते रहे॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अब श्रीराम कथा अति पावनि। सदा सुखद दुख पुञ्ज नसावनि॥  
 सादर तात सुनावहु मोही। बार बार बिनवउँ प्रभु तोही॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6503,8 +7649,11 @@ unicode_script = "devanagari"
 अब हे तात! आप मुझे श्री रामजी की अत्यन्त पवित्र करने वाली, सदा सुख देने वाली और दुःख समूह का नाश करने वाली कथा सादर सहित सुनाएँ। हे प्रभो! मैं बार-बार आप से यही विनती करता हूँ॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनत गरुड कै गिरा बिनीता। सरल सुप्रेम सुखद सुपुनीता॥  
 भयउ तास मन परम उछाहा। लाग कहै रघुपति गुन गाहा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6517,8 +7666,11 @@ unicode_script = "devanagari"
 गरुडजी की विनम्र, सरल, सुन्दर प्रेमयुक्त, सुप्रद और अत्यन्त पवित्र वाणी सुनते ही भुशण्डिजी के मन में परम उत्साह हुआ और वे श्री रघुनाथजी के गुणों की कथा कहने लगे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रथमहिं अति अनुराग भवानी। रामचरित सर कहेसि बखानी॥  
 पुनि नारद कर मोह अपारा। कहेसि बहुरि रावन अवतारा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6531,7 +7683,10 @@ unicode_script = "devanagari"
 हे भवानी! पहले तो उन्होन्ने बडे ही प्रेम से रामचरित मानस सरोवर का रूपक समझाकर कहा। फिर नारदजी का अपार मोह और फिर रावण का अवतार कहा॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु अवतार कथा पुनि गाई। तब सिसु चरित कहेसि मन लाई॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6549,8 +7704,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बालचरित कहि बिबिधि बिधि मन महँ परम उछाह।  
 रिषि आगवन कहेसि पुनि श्रीरघुबीर बिबाह॥64॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6568,8 +7726,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बहुरि राम अभिषेक प्रसङ्गा। पुनि नृप बचन राज रस भङ्गा॥  
 पुरबासिन्ह कर बिरह बिषादा। कहेसि राम लछिमन सम्बादा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6582,8 +7743,11 @@ unicode_script = "devanagari"
 फिर श्री रामजी के राज्याभिषेक का प्रसङ्ग फिर राजा दशरथजी के वचन से राजरस (राज्याभिषेक के आनन्द) में भङ्ग पडना, फिर नगर निवासियों का विरह, विषाद और श्री राम-लक्ष्मण का संवाद (बातचीत) कहा॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिपिन गवन केवट अनुरागा। सुरसरि उतरि निवास प्रयागा॥  
 बालमीक प्रभु मिलन बखाना। चित्रकूट जिमि बसे भगवाना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6596,8 +7760,11 @@ unicode_script = "devanagari"
 श्री राम का वनगमन, केवट का प्रेम, गङ्गाजी से पार उतरकर प्रयाग में निवास, वाल्मीकिजी और प्रभु श्री रामजी का मिलन और जैसे भगवान्‌ चित्रकूट में बसे, वह सब कहा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सचिवागवन नगर नृप मरना। भरतागवन प्रेम बहु बरना॥  
 करि नृप क्रिया सङ्ग पुरबासी। भरत गए जहाँ प्रभु सुख रासी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6610,8 +7777,11 @@ unicode_script = "devanagari"
 फिर मन्त्री सुमन्त्रजी का नगर में लौटना, राजा दशरथजी का मरण, भरतजी का (ननिहाल से) अयोध्या में आना और उनके प्रेम का बहुत वर्णन किया। राजा की अन्त्येष्टि क्रिया करके नगर निवासियों को साथ लेकर भरतजी वहाँ गए जहाँ सुख की राशि प्रभु श्री रामचन्द्रजी थे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि रघुपति बहु बिधि समुझाए। लै पादुका अवधपुर आए॥  
 भरत रहनि सुरपति सुत करनी। प्रभु अरु अत्रि भेण्ट पुनि बरनी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6630,8 +7800,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-378.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहि बिराध बध जेहि बिधि देह तजी सरभङ्ग।  
 बरनि सुतीछन प्रीति पुनि प्रभ अगस्ति सतसङ्ग॥65॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6649,8 +7822,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहि दण्डक बन पावनताई। गीध मइत्री पुनि तेहिं गाई॥  
 पुनि प्रभु पञ्चबटीं कृत बासा। भञ्जी सकल मुनिन्ह की त्रासा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6663,8 +7839,11 @@ unicode_script = "devanagari"
 दण्डकवन का पवित्र करना कहकर फिर भुशुण्डिजी ने गृध्रराज के साथ मित्रता का वर्णन किया। फिर जिस प्रकार प्रभु ने पञ्चवटी में निवास किया और सब मुनियों के भय का नाश किया,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि लछिमन उपदेस अनूपा। सूपनखा जिमि कीन्हि कुरूपा॥  
 खर दूषन बध बहुरि बखाना। जिमि सब मरमु दसानन जाना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6677,8 +7856,11 @@ unicode_script = "devanagari"
 और फिर जैसे लक्ष्मणजी को अनुपम उपदेश दिया और शूर्पणखा को कुरूप किया, वह सब वर्णन किया। फिर खर-दूषण वध और जिस प्रकार रावण ने सब समाचार जाना, वह बखानकर कहा,॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दसकन्धर मारीच बतकही। जेहि बिधि भई सो सब तेहिं कही॥  
 पुनि माया सीता कर हरना। श्रीरघुबीर बिरह कछु बरना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6691,8 +7873,11 @@ unicode_script = "devanagari"
 तथा जिस प्रकार रावण और मारीच की बातचीत हुई, वह सब उन्होन्ने कही। फिर माया सीता का हरण और श्री रघुवीर के विरह का कुछ वर्णन किया॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि प्रभु गीध क्रिया जिमि कीन्हीं। बधि कबन्ध सबरिहि गति दीन्ही॥  
 बहुरि बिरह बरनत रघुबीरा। जेहि बिधि गए सरोबर तीरा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6711,8 +7896,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु नारद सम्बाद कहि मारुति मिलन प्रसङ्ग।  
 पुनि सुग्रीव मिताई बालि प्रान कर भङ्ग॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6725,8 +7913,11 @@ unicode_script = "devanagari"
 प्रभु और नारदजी का संवाद और मारुति के मिलने का प्रसङ्ग कहकर फिर सुग्रीव से मित्रता और बालि के प्राणनाश का वर्णन किया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कपिहि तिलक करि प्रभु कृत सैल प्रबरषन बास।  
 बरनन बर्षा सरद अरु राम रोष कपि त्रास॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6744,8 +7935,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहि बिधि कपिपति कीस पठाए। सीता खोज सकल दिदि धाए॥  
 बिबर प्रबेस कीन्ह जेहि भाँति। कपिन्ह बहोरि मिला सम्पाती॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6758,8 +7952,11 @@ unicode_script = "devanagari"
 जिस प्रकार वानरराज सुग्रीव ने वानरों को भेजा और वे सीताजी की खोज में जिस प्रकार सब दिशाओं में गए, जिस प्रकार उन्होन्ने बिल में प्रवेश किया और फिर जैसे वानरों को सम्पाती मिला, वह कथा कही॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि सब कथा समीरकुमारा। नाघत भयउ पयोधि अपारा॥  
 लङ्काँ कपि प्रबेस जिमि कीन्हा। पुनि सीतहि धीरजु जिमि दीन्हा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6772,8 +7969,11 @@ unicode_script = "devanagari"
 सम्पाती से सब कथा सुनकर पवनपुत्र हनुमान्‌जी जिस तरह अपार समुद्र को लाँघ गए, फिर हनुमान्‌जी ने जैसे लङ्का में प्रवेश किया और फिर जैसे सीताजी को धीरज दिया, सो सब कहा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बन उजारि रावनहि प्रबोधी। पुर दहि नाघेउ बहुरि पयोधी॥  
 आए कपि सब जहँ रघुराई। बैदेही की कुसल सुनाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6786,8 +7986,11 @@ unicode_script = "devanagari"
 अशोक वन को उजाडकर, रावण को समझाकर, लङ्कापुरी को जलाकर फिर जैसे उन्होन्ने समुद्र को लाँघा और जिस प्रकार सब वानर वहाँ आए जहाँ श्री रघुनाथजी थे और आकर श्री जानकीजी की कुशल सुनाई,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सेन समेति जथा रघुबीरा। उतरे जाइ बारिनिधि तीरा॥  
 मिला बिभीषन जेहि बिधि आई। सागर निग्रह कथा सुनाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6806,8 +8009,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सेतु बाँधि कपि सेन जिमि उतरी सागर पार।  
 गयउ बसीठी बीरबर जेहि बिधि बालिकुमार॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6820,8 +8026,11 @@ unicode_script = "devanagari"
 पुल बाँधकर जिस प्रकार वानरों की सेना समुद्र के पार उतरी और जिस प्रकार वीर श्रेष्ठ बालिपुत्र अङ्गद दूत बनकर गए वह सब कहा॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निसिचर कीस लराई बरनिसि बिबिध प्रकार।  
 कुम्भकरन घननाद कर बल पौरुष सङ्घार॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6839,8 +8048,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निसिचर निकर मरन बिधि नाना। रघुपति रावन समर बखाना॥  
 रावन बध मन्दोदरि सोका। राज बिभीषन देव असोका॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6853,8 +8065,11 @@ unicode_script = "devanagari"
 नाना प्रकार के राक्षस समूहों के मरण तथा श्री रघुनाथजी और रावण के अनेक प्रकार के युद्ध का वर्णन किया। रावण वध, मन्दोदरी का शोक, विभीषण का राज्याभिषेक और देवताओं का शोकरहित होना कहकर,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सीता रघुपति मिलन बहोरी। सुरन्ह कीन्हि अस्तुति कर जोरी॥  
 पुनि पुष्पक चढि कपिन्ह समेता। अवध चले प्रभु कृपा निकेता॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6867,8 +8082,11 @@ unicode_script = "devanagari"
 फिर सीताजी और श्री रघुनाथजी का मिलाप कहा। जिस प्रकार देवताओं ने हाथ जोडकर स्तुति की और फिर जैसे वानरों समेत पुष्पक विमान पर चढकर कृपाधाम प्रभु अवधपुरी को चले, वह कहा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहि बिधि राम नगर निज आए। बायस बिसद चरित सब गाए॥  
 कहेसि बहोरि राम अभिषेका। पुर बरनत नृपनीति अनेका॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6881,8 +8099,11 @@ unicode_script = "devanagari"
 जिस प्रकार श्री रामचन्द्रजी अपने नगर (अयोध्या) में आए, वे सब उज्ज्वल चरित्र काकभुशुण्डिजी ने विस्तारपूर्वक वर्णन किए। फिर उन्होन्ने श्री रामजी का राज्याभिषेक कहा। (शिवजी कहते हैं-) अयोध्यापुरी का और अनेक प्रकार की राजनीति का वर्णन करते हुए-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कथा समस्त भुसुण्ड बखानी। जो मैं तुम्ह सन कही भवानी॥  
 सुनि सब राम कथा खगनाहा। कहत बचन मन परम उछाहा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6901,8 +8122,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-379.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गयउ मोर सन्देह सुनेउँ सकल रघुपति चरित।  
 भयउ राम पद नेह तव प्रसाद बायस तिलक॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6915,8 +8139,11 @@ unicode_script = "devanagari"
 श्री रघुनाथजी के सब चरित्र मैन्ने सुने, जिससे मेरा सन्देह जाता रहा। हे काकशिरोमणि! आपके अनुग्रह से श्री रामजी के चरणों में मेरा प्रेम हो गया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोहि भयउ अति मोह प्रभु बन्धन रन महुँ निरखि।  
 चिदानन्द सन्दोह राम बिकल कारन कवन॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6934,8 +8161,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखि चरित अति नर अनुसारी। भयउ हृदयँ मम संसय भारी॥  
 सोई भ्रम अब हित करि मैं माना। कीन्ह अनुग्रह कृपानिधाना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6948,8 +8178,11 @@ unicode_script = "devanagari"
 बिलकुल ही लौकिक मनुष्यों का सा चरित्र देखकर मेरे हृदय में भारी सन्देह हो गया। मैं अब उस भ्रम (सन्देह) को अपने लिए हित करके समझता हूँ। कृपानिधान ने मुझ पर यह बडा अनुग्रह किया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जो अति आतप ब्याकुल होई। तरु छाया सुख जानइ सोई॥  
 जौं नहिं होत मोह अति मोही। मिलतेउँ तात कवन बिधि तोही॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6962,8 +8195,11 @@ unicode_script = "devanagari"
 जो धूप से अत्यन्त व्याकुल होता है, वही वृक्ष की छाया का सुख जानता है। हे तात! यदि मुझे अत्यन्त मोह न होता तो मैं आपसे किस प्रकार मिलता?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनतेउँ किमि हरि कथा सुहाई। अति बिचित्र बहु बिधि तुम्ह गाई॥  
 निगमागम पुरान मत एहा। कहहिं सिद्ध मुनि नहिं सन्देहा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6976,8 +8212,11 @@ unicode_script = "devanagari"
 और कैसे अत्यन्त विचित्र यह सुन्दर हरिकथा सुनता, जो आपने बहुत प्रकार से गाई है? वेद, शास्त्र और पुराणों का यही मत है, सिद्ध और मुनि भी यही कहते हैं, इसमें सन्देह नहीं कि-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त बिसुद्ध मिलहिं परि तेही। चितवहिं राम कृपा करि जेही॥  
 राम कपाँ तव दरसन भयऊ। तव प्रसाद सब संसय गयऊ॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -6996,8 +8235,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि बिहङ्गपति बानी सहित बिनय अनुराग।  
 पुलक गात लोचन सजल मन हरषेउ अति काग॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7010,8 +8252,11 @@ unicode_script = "devanagari"
 पक्षीराज गरुडजी की विनय और प्रेमयुक्त वाणी सुनकर काकभुशुण्डिजी का शरीर पुलकित हो गया, उनके नेत्रों में जल भर आया और वे मन में अत्यन्त हर्षित हुए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्रोता सुमति सुसील सुचि कथा रसिक हरि दास।  
 पाइ उमा अति गोप्यमपि सज्जन करहिं प्रकास॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7029,8 +8274,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बोलेउ काकभुसुण्ड बहोरी। नभग नाथ पर प्रीति न थोरी॥  
 सब बिधि नाथ पूज्य तुम्ह मेरे। कृपापात्र रघुनायक केरे॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7043,8 +8291,11 @@ unicode_script = "devanagari"
 काकभुशुण्डिजी ने फिर कहा- पक्षीराज पर उनका प्रेम कम न था (अर्थात्‌ बहुत था)- हे नाथ! आप सब प्रकार से मेरे पूज्य हैं और श्री रघुनाथजी के कृपापात्र हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्हहि न संसय मोह न माया। मो पर नाथ कीन्हि तुम्ह दाया॥  
 पठइ मोह मिस खगपति तोही। रघुपति दीन्हि बडाई मोही॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7057,8 +8308,11 @@ unicode_script = "devanagari"
 आपको न सन्देह है और न मोह अथवा माया ही है। हे नाथ! आपने तो मुझ पर दया की है। हे पक्षीराज! मोह के बहाने श्री रघुनाथजी ने आपको यहाँ भेजकर मुझे बडाई दी है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्ह निज मोह कही खग साईं। सो नहिं कछु आचरज गोसाईं॥  
 नारद भव बिरञ्चि सनकादी। जे मुनिनायक आतमबादी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7071,8 +8325,11 @@ unicode_script = "devanagari"
 हे पक्षियों के स्वामी! आपने अपना मोह कहा, सो हे गोसाईं! यह कुछ आश्चर्य नहीं है। नारदजी, शिवजी, ब्रह्माजी और सनकादि जो आत्मतत्त्व के मर्मज्ञ और उसका उपदेश करने वाले श्रेष्ठ मुनि हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोह न अन्ध कीन्ह केहि केही। को जग काम नचाव नजेही॥  
 तृस्नाँ केहि न कीन्ह बौराहा। केहि कर हृदय क्रोध नहिं दाहा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7091,8 +8348,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यानी तापस सूर कबि कोबिद गुन आगार।  
 केहि कै लोभ बिडम्बना कीन्हि न एहिं संसार॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7105,8 +8365,11 @@ unicode_script = "devanagari"
 इस संसार में ऐसा कौन ज्ञानी, तपस्वी, शूरवीर, कवि, विद्वान और गुणों का धाम है, जिसकी लोभ ने विडम्बना (मिट्टी पलीद) न की हो॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्री मद बक्र न कीन्ह केहि प्रभुता बधिर न काहि।  
 मृगलोचनि के नैन सर को अस लाग न जाहि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7123,8 +8386,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गुन कृत सन्यपात नहिं केही। कोउ न मान मद तजेउ निबेही॥  
 जोबन ज्वर केहि नहिं बलकावा। ममता केहि कर जस न नसावा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7137,8 +8403,11 @@ unicode_script = "devanagari"
 (रज, तम आदि) गुणों का किया हुआ सन्निपात किसे नहीं हुआ? ऐसा कोई नहीं है जिसे मान और मद ने अछूता छोडा हो। यौवन के ज्वर ने किसे आपे से बाहर नहीं किया? ममता ने किस के यश का नाश नहीं किया?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मच्छर काहि कलङ्क न लावा। काहि न सोक समीर डोलावा॥  
 चिन्ता साँपिनि को नहिं खाया। को जग जाहि न ब्यापी माया॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7153,8 +8422,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-380.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कीट मनोरथ दारु सरीरा। जेहि न लाग घुन को अस धीरा॥  
 सुत बित लोक ईषना तीनी। केहि कै मति इन्ह कृत न मलीनी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7167,8 +8439,11 @@ unicode_script = "devanagari"
 मनोरथ क्रीडा है, शरीर लकडी है। ऐसा धैर्यवान्‌ कौन है, जिसके शरीर में यह कीडा न लगा हो? पुत्र की, धन की और लोक प्रतिष्ठा की, इन तीन प्रबल इच्छाओं ने किसकी बुद्धि को मलिन नहीं कर दिया (बिगाड नहीं दिया)?॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यह सब माया कर परिवारा। प्रबल अमिति को बरनै पारा॥  
 सुत बित लोक ईषना तीनी। केहि कै मति इन्ह कृत न मलीनी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7187,8 +8462,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्यापि रहेउ संसार महुँ माया कटक प्रचण्ड।  
 सेनापति कामादि भट दम्भ कपट पाषण्ड॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7201,8 +8479,11 @@ unicode_script = "devanagari"
 माया की प्रचण्ड सेना संसार भर में छाई हुई है। कामादि (काम, क्रोध और लोभ) उसके सेनापति हैं और दम्भ, कपट और पाखण्ड योद्धा हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो दासी रघुबीर कै समुझें मिथ्या सोपि।  
 छूट न राम कृपा बिनु नाथ कहउँ पद रोपि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7220,8 +8501,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जो माया सब जगहि नचावा। जासु चरित लखि काहुँ न पावा॥  
 सोइ प्रभु भ्रू बिलास खगराजा। नाच नटी इव सहित समाजा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7234,8 +8518,11 @@ unicode_script = "devanagari"
 जो माया सारे जगत्‌ को नचाती है और जिसका चरित्र (करनी) किसी ने नहीं लख पाया, हे खगराज गरुडजी! वही माया प्रभु श्री रामचन्द्रजी की भृकुटी के इशारे पर अपने समाज (परिवार) सहित नटी की तरह नाचती है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ सच्चिदानन्द घन रामा। अज बिग्यान रूप बल धामा॥  
 ब्यापक ब्याप्य अखण्ड अनन्ता। अकिल अमोघसक्ति भगवन्ता॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7248,8 +8535,11 @@ unicode_script = "devanagari"
 श्री रामजी वही सच्चिदानन्दघन हैं जो अजन्मे, विज्ञानस्वरूप, रूप और बल के धाम, सर्वव्यापक एवं व्याप्य (सर्वरूप), अखण्ड, अनन्त, सम्पूर्ण, अमोघशक्ति (जिसकी शक्ति कभी व्यर्थ नहीं होती) और छह ऐश्वर्यों से युक्त भगवान्‌ हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अगुन अदभ्र गिरा गोतीता। सबदरसी अनवद्य अजीता॥  
 निर्मम निराकार निरमोहा। नित्य निरञ्जन सुख सन्दोहा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7262,8 +8552,11 @@ unicode_script = "devanagari"
 वे निर्गुण (माया के गुणों से रहित), महान्‌, वाणी और इन्द्रियों से परे, सब कुछ देखने वाले, निर्दोष, अजेय, ममतारहित, निराकार (मायिक आकार से रहित), मोहरहित, नित्य, मायारहित, सुख की राशि,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रकृति पार प्रभु सब उर बासी। ब्रह्म निरीह बिरज अबिनासी॥  
 इहाँ मोह कर कारन नाहीं। रबि सन्मुख तम कबहुँ कि जाहीं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7282,8 +8575,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगत हेतु भगवान प्रभु राम धरेउ तनु भूप।  
 किए चरित पावन परम प्राकृत नर अनुरूप॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7296,8 +8592,11 @@ unicode_script = "devanagari"
 भगवान्‌ प्रभु श्री रामचन्द्रजी ने भक्तों के लिए राजा का शरीर धराण किया और साधारण मनुष्यों के से अनेकों परम पावन चरित्र किए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जथा अनेक बेष धरि नृत्य करइ नट कोइ।  
 सोइ सोइ भाव देखावइ आपुन होइ न सोइ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7315,8 +8614,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 असि रघुपति लीला उरगारी। दनुज बिमोहनि जन सुखकारी॥  
 जे मति मलिन बिषय बस कामी। प्रभु पर मोह धरहिं इमि स्वामी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7329,8 +8631,11 @@ unicode_script = "devanagari"
 हे गरुडजी! ऐसी ही श्री रघुनाथजी की यह लीला है, जो राक्षसों को विशेष मोहित करने वाली और भक्तों को सुख देने वाली है। हे स्वामी! जो मनुष्य मलिन बुद्धि, विषयों के वश और कामी हैं, वे ही प्रभु पर इस प्रकार मोह का आरोप करते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नयन दोष जा कहँ जब होई। पीत बरन ससि कहुँ कह सोई॥  
 जब जेहि दिसि भ्रम होई खगेसा। सो कह पच्छिम उयउ दिनेसा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7343,8 +8648,11 @@ unicode_script = "devanagari"
 जब जिसको (कवँल आदि) नेत्र दोष होता है, तब वह चन्द्रमा को पीले रङ्ग का कहता है। हे पक्षीराज! जब जिसे दिशाभ्रम होता है, तब वह कहता है कि सूर्य पश्चिम में उदय हुआ है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नौकारूढ चलत जग देखा। अचल मोह बस आपुहि लेखा॥  
 बालक भ्रमहिं न भ्रमहिं गृहादी। कहहिं परस्पर मिथ्याबादी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7357,8 +8665,11 @@ unicode_script = "devanagari"
 नौका पर चढा हुआ मनुष्य जगत को चलता हुआ देखता है और मोहवश अपने को अचल समझता है। बालक घूमते (चक्राकार दौडते) हैं, घर आदि नहीं घूमते। पर वे आपस में एक-दूसरे को झूठा कहते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरि बिषइक अस मोह बिहङ्गा। सपनेहुँ नहिं अग्यान प्रसङ्गा॥  
 माया बस मतिमन्द अभागी। हृदयँ जमनिका बहुबिधि लागी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7371,7 +8682,10 @@ unicode_script = "devanagari"
 हे गरुडजी! श्री हरि के विषय में मोह की कल्पना भी ऐसी ही है, भगवान्‌ में तो स्वप्न में भी अज्ञान का प्रसङ्ग (अवसर) नहीं है, किन्तु जो माया के वश, मन्दबुद्धि और भाग्यहीन हैं और जिनके हृदय पर अनेकों प्रकार के परदे पडे हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते सठ हठ बस संसय करहीं। निज अग्यान राम पर धरहीं॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7389,8 +8703,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काम क्रोध मद लोभ रत गृहासक्त दुखरूप।  
 ते किमि जानहिं रघुपतिहि मूढ परे तम कूप॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7403,8 +8720,11 @@ unicode_script = "devanagari"
 जो काम, क्रोध, मद और लोभ में रत हैं और दुःख रूप घर में आसक्त हैं, वे श्री रघुनाथजी को कैसे जान सकते हैं? वे मूर्ख तो अन्धकार रूपी कुएँ में पडे हुए हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निर्गुन रूप सुलभ अति सगुन जान नहिं कोई।  
 सुगम अगम नाना चरित सुनि मुनि मन भ्रम होई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7421,8 +8741,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-381.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगेस रघुपति प्रभुताई। कहउँ जथामति कथा सुहाई॥  
 जेहि बिधि मोह भयउ प्रभु मोही। सोउ सब कथा सुनावउँ तोही॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7435,8 +8758,11 @@ unicode_script = "devanagari"
 हे पक्षीराज गरुडजी! श्री रघुनाथजी की प्रभुता सुनिए। मैं अपनी बुद्धि के अनुसार वह सुहावनी कथा कहता हूँ। हे प्रभो! मुझे जिस प्रकार मोह हुआ, वह सब कथा भी आपको सुनाता हूँ॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम कृपा भाजन तुम्ह ताता। हरि गुन प्रीति मोहि सुखदाता॥  
 ताते नहिं कछु तुम्हहि दुरावउँ। परम रहस्य मनोहर गावउँ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7449,8 +8775,11 @@ unicode_script = "devanagari"
 हे तात! आप श्री रामजी के कृपा पात्र हैं। श्री हरि के गुणों में आपकी प्रीति है, इसीलिए आप मुझे सुख देने वाले हैं। इसी से मैं आप से कुछ भी नहीं छिपाता और अत्यन्त रहस्य की बातें आपको गाकर सुनाता हूँ॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहु राम कर सहज सुभाऊ। जन अभिमान न राखहिं काऊ॥  
 संसृत मूल सूलप्रद नाना। सकल सोक दायक अभिमाना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7463,8 +8792,11 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी का सहज स्वभाव सुनिए। वे भक्त में अभिमान कभी नहीं रहने देते, क्योङ्कि अभिमान जन्म-मरण रूप संसार का मूल है और अनेक प्रकार के क्लेशों तथा समस्त शोकों का देने वाला है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताते करहिं कृपानिधि दूरी। सेवक पर ममता अति भूरी॥  
 जिमि सिसु तन ब्रन होई गोसाईं। मातु चिराव कठिन की नाईं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7483,8 +8815,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जदपि प्रथम दुख पावइ रोवइ बाल अधीर।  
 ब्याधि नास हित जननी गनति न सो सिसु पीर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7497,8 +8832,11 @@ unicode_script = "devanagari"
 यद्यपि बच्चा पहले (फोडा चिराते समय) दुःख पाता है और अधीर होकर रोता है, तो भी रोग के नाश के लिए माता बच्चे की उस पीडा को कुछ भी नहीं गिनती (उसकी परवाह नहीं करती और फोडे को चिरवा ही डालती है)॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तिमि रघुपति निज दास कर हरहिं मान हित लागि।  
 तुलसिदास ऐसे प्रभुहि कस न भजहु भ्रम त्यागि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7516,8 +8854,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम कृपा आपनि जडताई। कहउँ खगेस सुनहु मन लाई॥  
 जब जब राम मनुज तनु धरहीं। भक्त हेतु लीला बहु करहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7530,8 +8871,11 @@ unicode_script = "devanagari"
 हे हे गरुडजी! श्री रामजी की कृपा और अपनी जडता (मूर्खता) की बात कहता हूँ, मन लगाकर सुनिए। जब-जब श्री रामचन्द्रजी मनुष्य शरीर धारण करते हैं और भक्तों के लिए बहुत सी लीलाएँ करते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब तब अवधपुरी मैं जाऊँ। बालचरित बिलोकि हरषाऊँ॥  
 जन्म महोत्सव देखउँ जाई। बरष पाँच तहँ रहउँ लोभाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7544,8 +8888,11 @@ unicode_script = "devanagari"
 तब-तब मैं अयोध्यापुरी जाता हूँ और उनकी बाल लीला देखकर हर्षित होता हूँ। वहाँ जाकर मैं जन्म महोत्सव देखता हूँ और (भगवान्‌ की शिशु लीला में) लुभाकर पाँच वर्ष तक वहीं रहता हूँ॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इष्टदेव मम बालक रामा। सोभा बपुष कोटि सत कामा॥  
 निज प्रभु बदन निहारि निहारी। लोचन सुफल करउँ उरगारी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7558,7 +8905,10 @@ unicode_script = "devanagari"
 बालक रूप श्री रामचन्द्रजी मेरे इष्टदेव हैं, जिनके शरीर में अरबों कामदेवों की शोभा है। हे गरुडजी! अपने प्रभु का मुख देख-देखकर मैं नेत्रों को सफल करता हूँ॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लघु बायस बपु धरि हरि सङ्गा। देखउँ बालचरित बहु रङ्गा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7576,8 +8926,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लरिकाईं जहँ जहँ फिरहिं तहँ तहँ सङ्ग उडाउँ।  
 जूठनि परइ अजिर महँ सो उठाई करि खाउँ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7590,8 +8943,11 @@ unicode_script = "devanagari"
 लडकपन में वे जहाँ-जहाँ फिरते हैं, वहाँ-वहाँ मैं साथ-साथ उडता हूँ और आँगन में उनकी जो जूठन पडती है, वही उठाकर खाता हूँ॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक बार अतिसय सब चरित किए रघुबीर।  
 सुमिरत प्रभु लीला सोइ पुलकित भयउ सरीर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7609,8 +8965,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहइ भसुण्ड सुनहु खगनायक। राम चरित सेवक सुखदायक॥  
 नृप मन्दिर सुन्दर सब भाँती। खचित कनक मनि नाना जाती॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7623,8 +8982,11 @@ unicode_script = "devanagari"
 भुशुण्डिजी कहने लगे- हे पक्षीराज! सुनिए, श्री रामजी का चरित्र सेवकों को सुख देने वाला है। (अयोध्या का) राजमहल सब प्रकार से सुन्दर है। सोने के महल में नाना प्रकार के रत्न जडे हुए हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बरनि न जाइ रुचिर अँगनाई। जहँ खेलहिं नित चारिउ भाई॥  
 बाल बिनोद करत रघुराई। बिचरत अजिर जननि सुखदाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7637,8 +8999,11 @@ unicode_script = "devanagari"
 सुन्दर आँगन का वर्णन नहीं किया जा सकता, जहाँ चारों भाई नित्य खेलते हैं। माता को सुख देने वाले बालविनोद करते हुए श्री रघुनाथजी आँगन में विचर रहे हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मरकत मृदुल कलेवर स्यामा। अङ्ग अङ्ग प्रति छबि बहु कामा॥  
 नव राजीव अरुन मृदु चरना। पदज रुचिर नख ससि दुति हरना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7651,8 +9016,11 @@ unicode_script = "devanagari"
 मरकत मणि के समान हरिताभ श्याम और कोमल शरीर है। अङ्ग-अङ्ग में बहुत से कामदेवों की शोभा छाई हुई है। नवीन (लाल) कमल के समान लाल-लाल कोमल चरण हैं। सुन्दर अँगुलियाँ हैं और नख अपनी ज्योति से चन्द्रमा की कान्ति को हरने वाले हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ललित अङ्क कुलिसादिक चारी। नूपुर चारु मधुर रवकारी॥  
 चारु पुरट मनि रचित बनाई। कटि किङ्किनि कल मुखर सुहाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7671,8 +9039,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-382.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रेखा त्रय सुन्दर उदर नाभी रुचिर गँभीर।  
 उर आयत भ्राजत बिबिधि बाल बिभूषन चीर॥76॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7690,8 +9061,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अरुन पानि नख करज मनोहर। बाहु बिसाल बिभूषन सुन्दर॥  
 कन्ध बाल केहरि दर ग्रीवा। चारु चिबुक आनन छबि सींवा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7704,8 +9078,11 @@ unicode_script = "devanagari"
 लाल-लाल हथेलियाँ, नख और अँगुलियाँ मन को हरने वाले हैं और विशाल भुजाओं पर सुन्दर आभूषण हैं। बालसिंह (सिंह के बच्चे) के से कन्धे और शङ्ख के समान (तीन रेखाओं से युक्त) गला है। सुन्दर ठुड्डी है और मुख तो छवि की सीमा ही है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलबल बचन अधर अरुनारे। दुइ दुइ दसन बिसद बर बारे॥  
 ललित कपोल मनोहर नासा। सकल सुखद ससि कर सम हासा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7718,8 +9095,11 @@ unicode_script = "devanagari"
 कलबल (तोतले) वचन हैं, लाल-लाल होठ हैं। उज्ज्वल, सुन्दर और छोटी-छोटी (ऊपर और नीचे) दो-दो दन्तुलियाँ हैं। सुन्दर गाल, मनोहर नासिका और सब सुखों को देने वाली चन्द्रमा की (अथवा सुख देने वाली समस्त कलाओं से पूर्ण चन्द्रमा की) किरणों के समान मधुर मुस्कान है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नील कञ्ज लोचन भव मोचन। भ्राजत भाल तिलक गोरोचन॥  
 बिकट भृकुटि सम श्रवन सुहाए। कुञ्चित कच मेचक छबि छाए॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7732,8 +9112,11 @@ unicode_script = "devanagari"
 नीले कमल के समान नेत्र जन्म-मृत्यु (के बन्धन) से छुडाने वाले हैं। ललाट पर गोरोचन का तिलक सुशोभित है। भौंहें टेढी हैं, कान सम और सुन्दर हैं, काले और घुँघराले केशों की छबि छा रही है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पीत झीनि झगुली तन सोही। किलकनि चितवनि भावति मोही॥  
 रूप रासि नृप अजिर बिहारी। नाचहिं निज प्रतिबिम्ब निहारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7746,8 +9129,11 @@ unicode_script = "devanagari"
 पीली और महीन झँगुली शरीर पर शोभा दे रही है। उनकी किलकारी और चितवन मुझे बहुत ही प्रिय लगती है। राजा दशरथजी के आँगन में विहार करने वाले रूप की राशि श्री रामचन्द्रजी अपनी परछाहीं देखकर नाचते हैं,॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोहि सन करहिं बिबिधि बिधि क्रीडा। बरनत मोहि होति अति ब्रीडा॥  
 किलकत मोहि धरन जब धावहिं। चलउँ भागि तब पूप देखावहिं॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7766,8 +9152,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आवत निकट हँसहिं प्रभु भाजत रुदन कराहिं।  
 जाऊँ समीप गहन पद फिरि फिरि चितइ पराहिं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7780,8 +9169,11 @@ unicode_script = "devanagari"
 मेरे निकट आने पर प्रभु हँसते हैं और भाग जाने पर रोते हैं और जब मैं उनका चरण स्पर्श करने के लिए पास जाता हूँ, तब वे पीछे फिर-फिरकर मेरी ओर देखते हुए भाग जाते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्राकृत सिसु इव लीला देखि भयउ मोहि मोह।  
 कवन चरित्र करत प्रभु चिदानन्द सन्दोह॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7799,8 +9191,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एतना मन आनत खगराया। रघुपति प्रेरित ब्यापी माया॥  
 सो माया न दुखद मोहि काहीं। आन जीव इव संसृत नाहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7813,8 +9208,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! मन में इतनी (शङ्का) लाते ही श्री रघुनाथजी के द्वारा प्रेरित माया मुझ पर छा गई, परन्तु वह माया न तो मुझे दुःख देने वाली हुई और न दूसरे जीवों की भाँति संसार में डालने वाली हुई॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ इहाँ कछु कारन आना। सुनहु सो सावधान हरिजाना॥  
 ग्यान अखण्ड एक सीताबर। माया बस्य जीव सचराचर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7827,8 +9225,11 @@ unicode_script = "devanagari"
 हे नाथ! यहाँ कुछ दूसरा ही कारण है। हे भगवान्‌ के वाहन गरुडजी! उसे सावधान होकर सुनिए। एक सीतापति श्री रामजी ही अखण्ड मानवस्वरूप हैं और जड-चेतन सभी जीव माया के वश हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जौं सब कें रह ज्ञान एकरस। ईस्वर जीवहि भेद कहहु कस॥  
 माया बस्य जीव अभिमानी। ईस बस्य माया गुन खानी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7841,8 +9242,11 @@ unicode_script = "devanagari"
 यदि जीवों को एकरस (अखण्ड) ज्ञान रहे, तो कहिए, फिर ईश्वर और जीव में भेद ही कैसा? अभिमानी जीव माया के वश है और वह (सत्त्व, रज, तम इन) तीनों गुणों की खान माया ईश्वर के वश में है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परबस जीव स्वबस भगवन्ता। जीव अनेक एक श्रीकन्ता॥  
 मुधा भेद जद्यपि कृत माया। बिनु हरि जाइ न कोटि उपाया॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7861,8 +9265,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रामचन्द्र के भजन बिनु जो चह पद निर्बान।  
 ग्यानवन्त अपि सो नर पसु बिनु पूँछ बिषान॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7875,8 +9282,11 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी के भजन बिना जो मोक्ष पद चाहता है, वह मनुष्य ज्ञानवान्‌ होने पर भी बिना पूँछ और सीङ्ग का पशु है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राकापति षोडस उअहिं तारागन समुदाइ।  
 सकल गिरिन्ह दव लाइअ बिनु रबि राति न जाइ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7893,8 +9303,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-383.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ऐसेहिं हरि बिनु भजन खगेसा। मिटइ न जीवन्ह केर कलेसा॥  
 हरि सेवकहि न ब्याप अबिद्या। प्रभु प्रेरित ब्यापइ तेहि बिद्या॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7907,8 +9320,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! इसी प्रकार श्री हरि के भजन बिना जीवों का क्लेश नहीं मिटता। श्री हरि के सेवक को अविद्या नहीं व्यापती। प्रभु की प्रेरणा से उसे विद्या व्यापती है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताते नास न होइ दास कर। भेद भगति बाढइ बिहङ्गबर॥  
 भ्रम तें चकित राम मोहि देखा। बिहँसे सो सुनु चरित बिसेषा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7921,8 +9337,11 @@ unicode_script = "devanagari"
 हे पक्षीश्रेष्ठ! इससे दास का नाश नहीं होता और भेद भक्ति बढती है। श्री रामजी ने मुझे जब भ्रम से चकित देखा, तब वे हँसे। वह विशेष चरित्र सुनिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहि कौतुक कर मरमु न काहूँ। जाना अनुज न मातु पिताहूँ॥  
 जानु पानि धाए मोहि धरना। स्यामल गात अरुन कर चरना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7935,8 +9354,11 @@ unicode_script = "devanagari"
 उस खेल का मर्म किसी ने नहीं जाना, न छोटे भाइयों ने और न माता-पिता ने ही। वे श्याम शरीर और लाल-लाल हथेली और चरणतल वाले बाल रूप श्री रामजी घुटने और हाथों के बल मुझे पकडने को दौडे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब मैं भागि चलेउँ उरगारी। राम गहन कहँ भुजा पसारी॥  
 जिमि जिमि दूरि उडाउँ अकासा। तहँ भुज हरि देखउँ निज पासा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7955,8 +9377,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्मलोक लगि गयउँ मैं चितयउँ पाछ उडात।  
 जुग अङ्गुल कर बीच सब राम भुजहि मोहि तात॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7969,8 +9394,11 @@ unicode_script = "devanagari"
 मैं ब्रह्मलोक तक गया और जब उडते हुए मैन्ने पीछे की ओर देखा, तो हे तात! श्री रामजी की भुजा में और मुझमें केवल दो ही अङ्गुल का बीच था॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सप्ताबरन भेद करि जहाँ लगें गति मोरि।  
 गयउँ तहाँ प्रभु भुज निरखि ब्याकुल भयउँ बहोरि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -7988,8 +9416,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मूदेउँ नयन त्रसित जब भयउँ। पुनि चितवत कोसलपुर गयऊँ॥  
 मोहि बिलोकि राम मुसुकाहीं। बिहँसत तुरत गयउँ मुख माहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8002,8 +9433,11 @@ unicode_script = "devanagari"
 जब मैं भयभीत हो गया, तब मैन्ने आँखें मूँद लीं। फिर आँखें खोलकर देखते ही अवधपुरी में पहुँच गया। मुझे देखकर श्री रामजी मुस्कुराने लगे। उनके हँसते ही मैं तुरन्त उनके मुख में चला गया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उदर माझ सुनु अण्डज राया। देखउँ बहु ब्रह्माण्ड निकाया॥  
 अति बिचित्र तहँ लोक अनेका। रचना अधिक एक ते एका॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8016,8 +9450,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! सुनिए, मैन्ने उनके पेट में बहुत से ब्रह्माण्डों के समूह देखे। वहाँ (उन ब्रह्माण्डों में) अनेकों विचित्र लोक थे, जिनकी रचना एक से एक की बढकर थी॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोटिन्ह चतुरानन गौरीसा। अगनित उडगन रबि रजनीसा॥  
 अगनित लोकपाल जम काला। अगनित भूधर भूमि बिसाला॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8030,8 +9467,11 @@ unicode_script = "devanagari"
 करोडों ब्रह्माजी और शिवजी, अनगिनत तारागण, सूर्य और चन्द्रमा, अनगिनत लोकपाल, यम और काल, अनगिनत विशाल पर्वत और भूमि,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सागर सरि सर बिपिन अपारा। नाना भाँति सृष्टि बिस्तारा॥।  
 सुर मुनि सिद्ध नाग नर किन्नर। चारि प्रकार जीव सचराचर॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8050,8 +9490,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जो नहिं देखा नहिं सुना जो मनहूँ न समाइ।  
 सो सब अद्भुत देखेउँ बरनि कवनि बिधि जाइ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8064,8 +9507,11 @@ unicode_script = "devanagari"
 जो कभी न देखा था, न सुना था और जो मन में भी नहीं समा सकता था (अर्थात जिसकी कल्पना भी नहीं की जा सकती थी), वही सब अद्भुत सृष्टि मैन्ने देखी। तब उसका किस प्रकार वर्णन किया जाए!॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक एक ब्रह्माण्ड महुँ रहउँ बरष सत एक।  
 एहि बिधि देखत फिरउँ मैं अण्ड कटाह अनेक॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8082,8 +9528,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लोक लोक प्रति भिन्न बिधाता। भिन्न बिष्नु सिव मनु दिसित्राता॥  
 नर गन्धर्ब भूत बेताला। किन्नर निसिचर पसु खग ब्याला॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8096,8 +9545,11 @@ unicode_script = "devanagari"
 प्रत्येक लोक में भिन्न-भिन्न ब्रह्मा, भिन्न-भिन्न विष्णु, शिव, मनु, दिक्पाल, मनुष्य, गन्धर्व, भूत, वैताल, किन्नर, राक्षस, पशु, पक्षी, सर्प,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देव दनुज गन नाना जाती। सकल जीव तहँ आनहि भाँती॥  
 महि सरि सागर सर गिरि नाना। सब प्रपञ्च तहँ आनइ आना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8110,8 +9562,11 @@ unicode_script = "devanagari"
 तथा नाना जाति के देवता एवं दैत्यगण थे। सभी जीव वहाँ दूसरे ही प्रकार के थे। अनेक पृथ्वी, नदी, समुद्र, तालाब, पर्वत तथा सब सृष्टि वहाँ दूसरे ही दूसरी प्रकार की थी॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अण्डकोस प्रति प्रति निज रूपा। दाखेउँ जिनस अनेक अनूपा॥  
 अवधपुरी प्रति भुवन निनारी। सरजू भिन्न भिन्न नर नारी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8124,8 +9579,11 @@ unicode_script = "devanagari"
 प्रत्येक ब्रह्माण्ड में मैन्ने अपना रूप देखा तथा अनेकों अनुपम वस्तुएँ देखीं। प्रत्येक भुवन में न्यारी ही अवधपुरी, भिन्न ही सरयूजी और भिन्न प्रकार के ही नर-नारी थे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दसरथ कौसल्या सुनु ताता। बिबिध रूप भरतादिक भ्राता॥  
 प्रति ब्रह्माण्ड राम अवतारा। देखउँ बालबिनोद अपारा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8144,8 +9602,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-384.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भिन्न भिन्न मैं दीख सबु अति बिचित्र हरिजान।  
 अगनित भुवन फिरेउँ प्रभु राम न देखेउँ आन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8158,8 +9619,11 @@ unicode_script = "devanagari"
 हे हरिवाहन! मैन्ने सभी कुछ भिन्न-भिन्न और अत्यन्त विचित्र देखा। मैं अनगिनत ब्रह्माण्डों में फिरा, पर प्रभु श्री रामचन्द्रजी को मैन्ने दूसरी तरह का नहीं देखा॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ सिसुपन सोइ सोभा सोइ कृपाल रघुबीर।  
 भुवन भुवन देखत फिरउँ प्रेरित मोह समीर॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8177,8 +9641,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भ्रमत मोहि ब्रह्माण्ड अनेका। बीते मनहुँ कल्प सत एका॥  
 फिरत फिरत निज आश्रम आयउँ। तहँ पुनि रहि कछु काल गवाँयउँ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8191,8 +9658,11 @@ unicode_script = "devanagari"
 अनेक ब्रह्माण्डों में भटकते मुझे मानो एक सौ कल्प बीत गए। फिरता-फिरता मैं अपने आश्रम में आया और कुछ काल वहाँ रहकर बिताया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज प्रभु जन्म अवध सुनि पायउँ। निर्भर प्रेम हरषि उठि धायउँ॥  
 देखउँ जन्म महोत्सव जाई। जेहि बिधि प्रथम कहा मैं गाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8205,8 +9675,11 @@ unicode_script = "devanagari"
 फिर जब अपने प्रभु का अवधपुरी में जन्म (अवतार) सुन पाया, तब प्रेम से परिपूर्ण होकर मैं हर्षपूर्वक उठ दौडा। जाकर मैन्ने जन्म महोत्सव देखा, जिस प्रकार मैं पहले वर्णन कर चुका हूँ॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम उदर देखेउँ जग नाना। देखत बनइ न जाइ बखाना॥  
 तहँ पुनि देखेउँ राम सुजाना। माया पति कृपाल भगवाना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8219,8 +9692,11 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी के पेट में मैन्ने बहुत से जगत्‌ देखे, जो देखते ही बनते थे, वर्णन नहीं किए जा सकते। वहाँ फिर मैन्ने सुजान माया के स्वामी कृपालु भगवान्‌ श्री राम को देखा॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करउँ बिचार बहोरि बहोरी। मोह कलिल ब्यापित मति मोरी॥  
 उभय घरी महँ मैं सब देखा। भयउँ भ्रमित मन मोह बिसेषा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8239,8 +9715,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखि कृपाल बिकल मोहि बिहँसे तब रघुबीर।  
 बिहँसतहीं मुख बाहेर आयउँ सुनु मतिधीर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8253,8 +9732,11 @@ unicode_script = "devanagari"
 मुझे व्याकुल देखकर तब कृपालु श्री रघुवीर हँस दिए। हे धीर बुद्धि गरुडजी! सुनिए, उनके हँसते ही मैं मुँह से बाहर आ गया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ लरिकाई मो सन करन लगे पुनि राम।  
 कोटि भाँति समुझावउँ मनु न लहइ बिश्राम॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8272,8 +9754,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखि चरित यह सो प्रभुताई। समुझत देह दसा बिसराई॥  
 धरनि परेउँ मुख आव न बाता। त्राहि त्राहि आरत जन त्राता॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8286,8 +9771,11 @@ unicode_script = "devanagari"
 यह (बाल) चरित्र देखकर और पेट के अन्दर (देखी हुई) उस प्रभुता का स्मरण कर मैं शरीर की सुध भूल गया और हे आर्तजनों के रक्षक! रक्षा कीजिए, रक्षा कीजिए, पुकारता हुआ पृथ्वी पर गिर पडा। मुख से बात नहीं निकलती थी!॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रेमाकुल प्रभु मोहि बिलोकी। निज माया प्रभुता तब रोकी॥  
 कर सरोज प्रभु मम सिर धरेऊ। दीनदयाल सकल दुख हरेऊ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8300,8 +9788,11 @@ unicode_script = "devanagari"
 तदनन्तर प्रभु ने मुझे प्रेमविह्वल देखकर अपनी माया की प्रभुता (प्रभाव) को रोक लिया। प्रभु ने अपना करकमल मेरे सिर पर रखा। दीनदयालु ने मेरा सम्पूर्ण दुःख हर लिया॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कीन्ह राम मोहि बिगत बिमोहा। सेवक सुखद कृपा सन्दोहा॥  
 प्रभुता प्रथम बिचारि बिचारी। मन महँ होइ हरष अति भारी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8314,8 +9805,11 @@ unicode_script = "devanagari"
 सेवकों को सुख देने वाले, कृपा के समूह (कृपामय) श्री रामजी ने मुझे मोह से सर्वथा रहित कर दिया। उनकी पहले वाली प्रभुता को विचार-विचारकर (याद कर-करके) मेरे मन में बडा भारी हर्ष हुआ॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगत बछलता प्रभु कै देखी। उपजी मम उर प्रीति बिसेषी॥  
 सजल नयन पुलकित कर जोरी। कीन्हिउँ बहु बिधि बिनय बहोरी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8334,8 +9828,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि सप्रेम मम बानी देखि दीन निज दास।  
 बचन सुखद गम्भीर मृदु बोले रमानिवास॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8348,8 +9845,11 @@ unicode_script = "devanagari"
 मेरी प्रेमयुक्त वाणी सुनकर और अपने दास को दीन देखकर रमानिवास श्री रामजी सुखदायक, गम्भीर और कोमल वचन बोले-॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काकभसुण्डि मागु बर अति प्रसन्न मोहि जानि।  
 अनिमादिक सिधि अपर रिधि मोच्छ सकल सुख खानि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8367,8 +9867,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यान बिबेक बिरति बिग्याना। मुनि दुर्लभ गुन जे जग नाना॥  
 आजु देउँ सब संसय नाहीं। मागु जो तोहि भाव मन माहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8381,8 +9884,11 @@ unicode_script = "devanagari"
 ज्ञान, विवेक, वैराग्य, विज्ञान, (तत्त्वज्ञान) और वे अनेकों गुण जो जगत्‌ में मुनियों के लिए भी दुर्लभ हैं, ये सब मैं आज तुझे दूँगा, इसमें सन्देह नहीं। जो तेरे मन भावे, सो माँग ले॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि प्रभु बचन अधिक अनुरागेउँ। मन अनुमान करन तब लागेउँ॥  
 प्रभु कह देन सकल सुख सही। भगति आपनी देन न कही॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8395,8 +9901,11 @@ unicode_script = "devanagari"
 प्रभु के वचन सुनकर मैं बहुत ही प्रेम में भर गया। तब मन में अनुमान करने लगा कि प्रभु ने सब सुखों के देने की बात कही, यह तो सत्य है, पर अपनी भक्ति देने की बात नहीं कही॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगति हीन गुन सब सुख ऐसे। लवन बिना बहु बिञ्जन जैसे॥  
 भजन हीन सुख कवने काजा। अस बिचारि बोलेउँ खगराजा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8409,8 +9918,11 @@ unicode_script = "devanagari"
 भक्ति से रहित सब गुण और सब सुख वैसे ही (फीके) हैं जैसे नमक के बिना बहुत प्रकार के भोजन के पदार्थ। भजन से रहित सुख किस काम के? हे पक्षीराज! ऐसा विचार कर मैं बोला-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जौं प्रभु होइ प्रसन्न बर देहू। मो पर करहु कृपा अरु नेहू॥  
 मन भावत बर मागउँ स्वामी। तुम्ह उदार उर अन्तरजामी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8429,8 +9941,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-385.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अबिरल भगति बिसुद्ध तव श्रुति पुरान जो गाव।  
 जेहि खोजत जोगीस मुनि प्रभु प्रसाद कोउ पाव॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8443,8 +9958,11 @@ unicode_script = "devanagari"
 आपकी जिस अविरल (प्रगाढ) एवं विशुद्ध (अनन्य निष्काम) भक्ति को श्रुति और पुराण गाते हैं, जिसे योगीश्वर मुनि खोजते हैं और प्रभु की कृपा से कोई विरला ही जिसे पाता है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगत कल्पतरू प्रनत हित कृपा सिन्धु सुखधाम।  
 सोइ निज भगति मोहि प्रभु देहु दया करि राम॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8462,8 +9980,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एवमस्तु कहि रघुकुलनायक। बोले बचन परम सुखदायक॥  
 सुनु बायस तैं सहज सयाना। काहे न मागसि अस बरदाना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8476,8 +9997,11 @@ unicode_script = "devanagari"
 'एवमस्तु' (ऐसा ही हो) कहकर रघुवंश के स्वामी परम सुख देने वाले वचन बोले- हे काक! सुन, तू स्वभाव से ही बुद्धिमान्‌ है। ऐसा वरदान कैसे न माँगता?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब सुख खानि भगति तैं मागी। नहिं जग कोउ तोहि सम बडभागी॥  
 जो मुनि कोटि जतन नहिं लहहीं। जे जप जोग अनल तन दहहीं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8490,8 +10014,11 @@ unicode_script = "devanagari"
 तूने सब सुखों की खान भक्ति माँग ली, जगत्‌ में तेरे समान बडभागी कोई नहीं है। वे मुनि जो जप और योग की अग्नि से शरीर जलाते रहते हैं, करोडों यत्न करके भी जिसको (जिस भक्ति को) नहीं पाते॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रीझेउँ देखि तोरि चतुराई। मागेहु भगति मोहि अति भाई॥  
 सुनु बिहङ्ग प्रसाद अब मोरें। सब सुभ गुन बसिहहिं उर तोरें॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8504,8 +10031,11 @@ unicode_script = "devanagari"
 वही भक्ति तूने माँगी। तेरी चतुरता देखकर मैं रीझ गया। यह चतुरता मुझे बहुत ही अच्छी लगी। हे पक्षी! सुन, मेरी कृपा से अब समस्त शुभ गुण तेरे हृदय में बसेङ्गे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगति ग्यान बिग्यान बिरागा। जोग चरित्र रहस्य बिभागा॥  
 जानब तैं सबही कर भेदा। मम प्रसाद नहिं साधन खेदा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8524,8 +10054,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 माया सम्भव भ्रम सब अब न ब्यापिहहिं तोहि।  
 जानेसु ब्रह्म अनादि अज अगुन गुनाकर मोहि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8538,8 +10071,11 @@ unicode_script = "devanagari"
 माया से उत्पन्न सब भ्रम अब तुझको नहीं व्यापेङ्गे। मुझे अनादि, अजन्मा, अगुण (प्रकृति के गुणों से रहित) और (गुणातीत दिव्य) गुणों की खान ब्रह्म जानना॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोहि भगत प्रिय सन्तत अस बिचारि सुनु काग।  
 कायँ बचन मन मम पद करेसु अचल अनुराग॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8557,8 +10093,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अब सुनु परम बिमल मम बानी। सत्य सुगम निगमादि बखानी॥  
 निज सिद्धान्त सुनावउँ तोही। सुनु मन धरु सब तजि भजु मोही॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8571,8 +10110,11 @@ unicode_script = "devanagari"
 अब मेरी सत्य, सुगम, वेदादि के द्वारा वर्णित परम निर्मल वाणी सुन। मैं तुझको यह 'निज सिद्धान्त' सुनाता हूँ। सुनकर मन में धारण कर और सब तजकर मेरा भजन कर॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बमम माया सम्भव संसारा। जीव चराचर बिबिधि प्रकारा॥  
 सब मम प्रिय सब मम उपजाए। सब ते अधिक मनुज मोहि भाए॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8585,8 +10127,11 @@ unicode_script = "devanagari"
 यह सारा संसार मेरी माया से उत्पन्न है। (इसमें) अनेकों प्रकार के चराचर जीव हैं। वे सभी मुझे प्रिय हैं, क्योङ्कि सभी मेरे उत्पन्न किए हुए हैं। (किन्तु) मनुष्य मुझको सबसे अधिक अच्छे लगते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तिन्ह महँ द्विज द्विज महँ श्रुतिधारी। तिन्ह महुँ निगम धरम अनुसारी॥  
 तिन्ह महँ प्रिय बिरक्त पुनि ग्यानी। ग्यानिहु ते अति प्रिय बिग्यानी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8599,8 +10144,11 @@ unicode_script = "devanagari"
 उन मनुष्यों में द्विज, द्विजों में भी वेदों को (कण्ठ में) धारण करने वाले, उनमें भी वेदोक्त धर्म पर चलने वाले, उनमें भी विरक्त (वैराग्यवान्‌) मुझे प्रिय हैं। वैराग्यवानों में फिर ज्ञानी और ज्ञानियों से भी अत्यन्त प्रिय विज्ञानी हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तिन्ह ते पुनि मोहि प्रिय निज दासा। जेहि गति मोरि न दूसरि आसा॥  
 पुनि पुनि सत्य कहउँ तोहि पाहीं। मोहि सेवक सम प्रिय कोउ नाहीं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8613,8 +10161,11 @@ unicode_script = "devanagari"
 विज्ञानियों से भी प्रिय मुझे अपना दास है, जिसे मेरी ही गति (आश्रय) है, कोई दूसरी आशा नहीं है। मैं तुझसे बार-बार सत्य ('निज सिद्धान्त') कहता हूँ कि मुझे अपने सेवक के समान प्रिय कोई भी नहीं है॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगति हीन बिरञ्चि किन होई। सब जीवहु सम प्रिय मोहि सोई॥  
 भगतिवन्त अति नीचउ प्रानी। मोहि प्रानप्रिय असि मम बानी॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8633,8 +10184,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुचि सुसील सेवक सुमति प्रिय कहु काहि न लाग।  
 श्रुति पुरान कह नीति असि सावधान सुनु काग॥86॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8651,8 +10205,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-386.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक पिता के बिपुल कुमारा। होहिं पृथक गुन सील अचारा॥  
 कोउ पण्डित कोउ तापस ग्याता। कोउ धनवन्त सूर कोउ दाता॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8665,8 +10222,11 @@ unicode_script = "devanagari"
 एक पिता के बहुत से पुत्र पृथक-पृथक्‌ गुण, स्वभाव और आचरण वाले होते हैं। कोई पण्डित होता है, कोई तपस्वी, कोई ज्ञानी, कोई धनी, कोई शूरवीर, कोई दानी,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोउ सर्बग्य धर्मरत कोई। सब पर पितहि प्रीति सम होई॥  
 कोउ पितु भगत बचन मन कर्मा। सपनेहुँ जान न दूसर धर्मा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8679,8 +10239,11 @@ unicode_script = "devanagari"
 कोई सर्वज्ञ और कोई धर्मपरायण होता है। पिता का प्रेम इन सभी पर समान होता है, परन्तु इनमें से यदि कोई मन, वचन और कर्म से पिता का ही भक्त होता है, स्वप्न में भी दूसरा धर्म नहीं जानता,॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो सुत प्रिय पितु प्रान समाना। जद्यपि सो सब भाँति अयाना॥  
 एहि बिधि जीव चराचर जेते। त्रिजग देव नर असुर समेते॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8693,8 +10256,11 @@ unicode_script = "devanagari"
 वह पुत्र पिता को प्राणों के समान प्रिय होता है, यद्यपि (चाहे) वह सब प्रकार से अज्ञान (मूर्ख) ही हो। इस प्रकार तिर्यक्‌ (पशु-पक्षी), देव, मनुष्य और असुरों समेत जितने भी चेतन और जड जीव हैं,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अखिल बिस्व यह मोर उपाया। सब पर मोहि बराबरि दाया॥  
 तिन्ह महँ जो परिहरि मद माया। भजै मोहि मन बच अरु काया॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8713,8 +10279,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुरुष नपुंसक नारि वा जीव चराचर कोइ।  
 सर्ब भाव भज कपट तजि मोहि परम प्रिय सोइ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8730,8 +10299,11 @@ unicode_script = "devanagari"
 
 
 ### 02 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सत्य कहउँ खग तोहि सुचि सेवक मम प्रानप्रिय।  
 अस बिचारि भजु मोहि परिहरि आस भरोस सब॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8749,8 +10321,11 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कबहूँ काल न ब्यापिहि तोही। सुमिरेसु भजेसु निरन्तर मोही॥  
 प्रभु बचनामृत सुनि न अघाऊँ। तनु पुलकित मन अति हरषाऊँ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8763,8 +10338,11 @@ unicode_script = "devanagari"
 तुझे काल कभी नहीं व्यापेगा। निरन्तर मेरा स्मरण और भजन करते रहना। प्रभु के वचनामृत सुनकर मैं तृप्त नहीं होता था। मेरा शरीर पुलकित था और मन में मैं अत्यन्त ही हर्षित हो रहा था॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो सुख जानइ मन अरु काना। नहिं रसना पहिं जाइ बखाना॥  
 प्रभु सोभा सुख जानहिं नयना। कहि किम सकहिं तिन्हहि नहिं बयना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8777,8 +10355,11 @@ unicode_script = "devanagari"
 वह सुख मन और कान ही जानते हैं। जीभ से उसका बखान नहीं किया जा सकता। प्रभु की शोभा का वह सुख नेत्र ही जानते हैं। पर वे कह कैसे सकते हैं। उनके वाणी तो है नहीं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बहु बिधि मोहि प्रबोधि सुख देई। लगे करन सिसु कौतुक तेई॥  
 सजल नयन कछु मुख करि रूखा। चितई मातु लागी अति भूखा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8791,8 +10372,11 @@ unicode_script = "devanagari"
 मुझे बहुत प्रकार से भलीभाँति समझकर और सुख देकर प्रभु फिर वही बालकों के खेल करने लगे। नेत्रों में जल भरकर और मुख को कुछ रूखा (सा) बनाकर उन्होन्ने माता की ओर देखा- (और मुखाकृति तथा चितवन से माता को समझा दिया कि) बहुत भूख लगी है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखि मातु आतुर उठि धाई। कहि मृदु बचन लिए उर लाई॥  
 गोद राखि कराव पय पाना। रघुपति चरित ललित कर गाना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8811,8 +10395,11 @@ unicode_script = "devanagari"
 
 
 ### 01 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहि सुख लाग पुरारि असुभ बेष कृत सिव सुखद।  
 अवधपुरी नर नारि तेहि सुख महुँ सन्तत मगन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8825,8 +10412,11 @@ unicode_script = "devanagari"
 जिस सुख के लिए (सबको) सुख देने वाले कल्याण रूप त्रिपुरारि शिवजी ने अशुभ वेष धारण किया, उस सुख में अवधपुरी के नर-नारी निरन्तर निमग्न रहते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोई सुख लवलेस जिन्ह बारक सपनेहुँ लहेउ।  
 ते नहिं गनहिं खगेस ब्रह्मसुखहि सज्जन सुमति॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8844,8 +10434,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मैं पुनि अवध रहेउँ कछु काला। देखेउँ बालबिनोद रसाला॥  
 राम प्रसाद भगति बर पायउँ। प्रभु पद बन्दि निजाश्रम आयउँ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8858,8 +10451,11 @@ unicode_script = "devanagari"
 मैं और कुछ समय तक अवधपुरी में रहा और मैन्ने श्री रामजी की रसीली बाल लीलाएँ देखीं। श्री रामजी की कृपा से मैन्ने भक्ति का वरदान पाया। तदनन्तर प्रभु के चरणों की वन्दना करके मैं अपने आश्रम पर लौट आया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब ते मोहि न ब्यापी माया। जब ते रघुनायक अपनाया॥  
 यह सब गुप्त चरित मैं गावा। हरि मायाँ जिमि मोहि नचावा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8872,8 +10468,11 @@ unicode_script = "devanagari"
 इस प्रकार जब से श्री रघुनाथजी ने मुझको अपनाया, तब से मुझे माया कभी नहीं व्यापी। श्री हरि की माया ने मुझे जैसे नचाया, वह सब गुप्त चरित्र मैन्ने कहा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज अनुभव अब कहउँ खगेसा। बिनु हरि भजन न जाहिं कलेसा॥  
 राम कृपा बिनु सुनु खगराई। जानि न जाइ राम प्रभुताई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8886,8 +10485,11 @@ unicode_script = "devanagari"
 हे पक्षीराज गरुड! अब मैं आपसे अपना निजी अनुभव कहता हूँ। (वह यह है कि) भगवान्‌ के भजन बिना क्लेश दूर नहीं होते। हे पक्षीराज! सुनिए, श्री रामजी की कृपा बिना श्री रामजी की प्रभुता नहीं जानी जाती,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जानें बिनु न होइ परतीती। बिनु परतीति होइ नहिं प्रीती॥  
 प्रीति बिना नहिं भगति दिढाई। जिमि खगपति जल कै चिकनाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8906,8 +10508,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-387.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु गुर होइ कि ग्यान ग्यान कि होइ बिराग बिनु।  
 गावहिं बेद पुरान सुख कि लहिअ हरि भगति बिनु॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8920,8 +10525,11 @@ unicode_script = "devanagari"
 गुरु के बिना कहीं ज्ञान हो सकता है? अथवा वैराग्य के बिना कहीं ज्ञान हो सकता है? इसी तरह वेद और पुराण कहते हैं कि श्री हरि की भक्ति के बिना क्या सुख मिल सकता है?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कोउ बिश्राम कि पाव तात सहज सन्तोष बिनु।  
 चलै कि जल बिनु नाव कोटि जतन पचि पचि मरिअ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8939,8 +10547,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु सन्तोष न काम नसाहीं। काम अछत सुख सपनेहुँ नाहीं॥  
 राम भजन बिनु मिटहिं कि कामा। थल बिहीन तरु कबहुँ कि जामा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8953,8 +10564,11 @@ unicode_script = "devanagari"
 सन्तोष के बिना कामना का नाश नहीं होता और कामनाओं के रहते स्वप्न में भी सुख नहीं हो सकता और श्री राम के भजन बिना कामनाएँ कहीं मिट सकती हैं? बिना धरती के भी कहीं पेड उग सकता है?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु बिग्यान कि समता आवइ। कोउ अवकास कि नभ बिनु पावइ॥  
 श्रद्धा बिना धर्म नहिं होई। बिनु महि गन्ध कि पावइ कोई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8967,8 +10581,11 @@ unicode_script = "devanagari"
 विज्ञान (तत्त्वज्ञान) के बिना क्या समभाव आ सकता है? आकाश के बिना क्या कोई अवकाश (पोल) पा सकता है? श्रद्धा के बिना धर्म (का आचरण) नहीं होता। क्या पृथ्वी तत्त्व के बिना कोई गन्ध पा सकता है?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु तप तेज कि कर बिस्तारा। जल बिनु रस कि होइ संसारा॥  
 सील कि मिल बिनु बुध सेवकाई। जिमि बिनु तेज न रूप गोसाँई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -8981,8 +10598,11 @@ unicode_script = "devanagari"
 तप के बिना क्या तेज फैल सकता है? जल-तत्त्व के बिना संसार में क्या रस हो सकता है? पण्डितजनों की सेवा बिना क्या शील (सदाचार) प्राप्त हो सकता है? हे गोसाईं! जैसे बिना तेज (अग्नि-तत्त्व) के रूप नहीं मिलता॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज सुख बिनु मन होइ कि थीरा। परस कि होइ बिहीन समीरा॥  
 कवनिउ सिद्धि कि बिनु बिस्वासा। बिनु हरि भजन न भव भय नासा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9001,8 +10621,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु बिस्वास भगति नहिं तेहि बिनु द्रवहिं न रामु।  
 राम कृपा बिनु सपनेहुँ जीव न लह बिश्रामु॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9018,8 +10641,11 @@ unicode_script = "devanagari"
 
 
 ### 02 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस बिचारि मतिधीर तजि कुतर्क संसय सकल।  
 भजहु राम रघुबीर करुनाकर सुन्दर सुखद॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9036,8 +10662,11 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज मति सरिस नाथ मैं गाई। प्रभु प्रताप महिमा खगराई॥  
 कहेउँ न कछु करि जुगुति बिसेषी। यह सब मैं निज नयनन्हि देखी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9050,8 +10679,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! हे नाथ! मैन्ने अपनी बुद्धि के अनुसार प्रभु के प्रताप और महिमा का गान किया। मैन्ने इसमें कोई बात युक्ति से बढाकर नहीं कही है। यह सब अपनी आँखों देखी कही है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 महिमा नाम रूप गुन गाथा। सकल अमित अनन्त रघुनाथा॥  
 निज निज मति मुनि हरि गुन गावहिं। निगम सेष सिव पार न पावहिं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9064,8 +10696,11 @@ unicode_script = "devanagari"
 श्री रघुनाथजी की महिमा, नाम, रूप और गुणों की कथा सभी अपार एवं अनन्त हैं तथा श्री रघुनाथजी स्वयं भी अनन्त हैं। मुनिगण अपनी-अपनी बुद्धि के अनुसार श्री हरि के गुण गाते हैं। वेद, शेष और शिवजी भी उनका पार नहीं पाते॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्हहि आदि खग मसक प्रजन्ता। नभ उडाहिं नहिं पावहिं अन्ता॥  
 तिमि रघुपति महिमा अवगाहा। तात कबहुँ कोउ पाव कि थाहा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9078,8 +10713,11 @@ unicode_script = "devanagari"
 आप से लेकर मच्छरपर्यन्त सभी छोटे-बडे जीव आकाश में उडते हैं, किन्तु आकाश का अन्त कोई नहीं पाता। इसी प्रकार हे तात! श्री रघुनाजी की महिमा भी अथाह है। क्या कभी कोई उसकी थाह पा सकता है?॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रामु काम सत कोटि सुभग तन। दुर्गा कोटि अमित अरि मर्दन॥  
 सक्र कोटि सत सरिस बिलासा। नभ सत कोटि अमित अवकासा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9098,8 +10736,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मरुत कोटि सत बिपुल बल रबि सत कोटि प्रकास।  
 ससि सत कोटि सुसीतल समन सकल भव त्रास॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9112,8 +10753,11 @@ unicode_script = "devanagari"
  अरबों पवन के समान उनमें महान्‌ बल है और अरबों सूर्यों के समान प्रकाश है। अरबों चन्द्रमाओं के समान वे शीतल और संसार के समस्त भयों का नाश करने वाले हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काल कोटि सत सरिस अति दुस्तर दुर्ग दुरन्त।  
 धूमकेतु सत कोटि सम दुराधरष भगवन्त॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9131,8 +10775,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु अगाध सत कोटि पताला। समन कोटि सत सरिस कराला॥  
 तीरथ अमित कोटि सम पावन। नाम अखिल अघ पूग नसावन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9145,8 +10792,11 @@ unicode_script = "devanagari"
 अरबों पातालों के समान प्रभु अथाह हैं। अरबों यमराजों के समान भयानक हैं। अनन्तकोटि तीर्थों के समान वे पवित्र करने वाले हैं। उनका नाम सम्पूर्ण पापसमूह का नाश करने वाला है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हिमगिरि कोटि अचल रघुबीरा। सिन्धु कोटि सत सम गम्भीरा॥  
 कामधेनु सत कोटि समाना। सकल काम दायक भगवाना॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9159,8 +10809,11 @@ unicode_script = "devanagari"
 श्री रघुवीर करोडों हिमालयों के समान अचल (स्थिर) हैं और अरबों समुद्रों के समान गहरे हैं। भगवान्‌ अरबों कामधेनुओं के समान सब कामनाओं (इच्छित पदार्थों) के देने वाले हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सारद कोटि अमित चतुराई। बिधि सत कोटि सृष्टि निपुनाई॥  
 बिष्नु कोटि सम पालन कर्ता। रुद्र कोटि सत सम संहर्ता॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9173,8 +10826,11 @@ unicode_script = "devanagari"
 उनमें अनन्तकोटि सरस्वतियों के समान चतुरता है। अरबों ब्रह्माओं के समान सृष्टि रचना की निपुणता है। वे करोडों विष्णुओं के समान पालन करने वाले और अरबों रुद्रों के समान संहार करने वाले हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धनद कोटि सत सम धनवाना। माया कोटि प्रपञ्च निधाना॥  
 भार धरन सत कोटि अहीसा। निरवधि निरुपम प्रभु जगदीसा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9191,10 +10847,13 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-388.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निरुपम न उपमा आन राम समान रामु निगम कहै।  
 जिमि कोटि सत खद्योत सम रबि कहत अति लघुता लहै॥  
 एहि भाँति निज निज मति बिलास मुनीस हरिहि बखानहीं।  
 प्रभु भाव गाहक अति कृपाल सप्रेम सुनि सुख मानहीं॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9215,8 +10874,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रामु अमित गुन सागर थाह कि पावइ कोइ।  
 सन्तन्ह सन जस किछु सुनेउँ तुम्हहि सुनायउँ सोइ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9232,8 +10894,11 @@ unicode_script = "devanagari"
 
 
 ### 02 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भाव बस्य भगवान सुख निधान करुना भवन।  
 तजि ममता मद मान भजिअ सदा सीता रवन॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9251,8 +10916,11 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि भुसुण्डि के बचन सुहाए। हरषित खगपति पङ्ख फुलाए॥  
 नयन नीर मन अति हरषाना। श्रीरघुपति प्रताप उर आना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9265,8 +10933,11 @@ unicode_script = "devanagari"
 भुशुण्डिजी के सुन्दर वचन सुनकर पक्षीराज ने हर्षित होकर अपने पङ्ख फुला लिए। उनके नेत्रों में (प्रेमानन्द के आँसुओं का) जल आ गया और मन अत्यन्त हर्षित हो गया। उन्होन्ने श्री रघुनाथजी का प्रताप हृदय में धारण किया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पाछिल मोह समुझि पछिताना। ब्रह्म अनादि मनुज करि माना॥  
 पुनि पुनि काग चरन सिरु नावा। जानि राम सम प्रेम बढावा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9279,8 +10950,11 @@ unicode_script = "devanagari"
 वे अपने पिछले मोह को समझकर (याद करके) पछताने लगे कि मैन्ने अनादि ब्रह्म को मनुष्य करके माना। गरुडजी ने बार-बार काकभुशुण्डिजी के चरणों पर सिर नवाया और उन्हें श्री रामजी के ही समान जानकर प्रेम बढाया॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गुर बिनु भव निध तरइ न कोई। जौं बिरञ्चि सङ्कर सम होई॥  
 संसय सर्प ग्रसेउ मोहि ताता। दुखद लहरि कुतर्क बहु ब्राता॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9293,8 +10967,11 @@ unicode_script = "devanagari"
 गुरु के बिना कोई भवसागर नहीं तर सकता, चाहे वह ब्रह्माजी और शङ्करजी के समान ही क्यों न हो। (गरुडजी ने कहा-) हे तात! मुझे सन्देह रूपी सर्प ने डस लिया था और (साँप के डसने पर जैसे विष चढने से लहरें आती हैं वैसे ही) बहुत सी कुतर्क रूपी दुःख देने वाली लहरें आ रही थीं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तव सरूप गारुडि रघुनायक। मोहि जिआयउ जन सुखदायक॥  
 तव प्रसाद मम मोह नसाना। राम रहस्य अनूपम जाना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9313,8 +10990,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताहि प्रसंसि बिबिधि बिधि सीस नाइ कर जोरि।  
 बचन बिनीत सप्रेम मृदु बोलेउ गरुड बहोरि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9327,8 +11007,11 @@ unicode_script = "devanagari"
 उनकी (भुशुण्डिजी की) बहुत प्रकार से प्रशंसा करके, सिर नवाकर और हाथ जोडकर फिर गरुडजी प्रेमपूर्वक विनम्र और कोमल वचन बोले-॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु अपने अबिबेक ते बूझउँ स्वामी तोहि।  
 कृपासिन्धु सादर कहहु जानि दास निज मोहि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9346,8 +11029,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्ह सर्बग्य तग्य तम पारा। सुमति सुसील सरल आचारा॥  
 ग्यान बिरति बिग्यान निवासा। रघुनायक के तुम्ह प्रिय दासा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9360,8 +11046,11 @@ unicode_script = "devanagari"
 आप सब कुछ जानने वाले हैं, तत्त्व के ज्ञाता हैं, अन्धकार (माया) से परे, उत्तम बुद्धि से युक्त, सुशील, सरल आचरण वाले, ज्ञान, वैराग्य और विज्ञान के धाम और श्री रघुनाथजी के प्रिय दास हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कारन कवन देह यह पाई। तात सकल मोहि कहहु बुझाई॥  
 राम चरित सुर सुन्दर स्वामी। पायहु कहाँ कहहु नभगामी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9374,8 +11063,11 @@ unicode_script = "devanagari"
 आपने यह काक शरीर किस कारण से पाया? हे तात! सब समझाकर मुझसे कहिए। हे स्वामी! हे आकाशगामी! यह सुन्दर रामचरित मानस आपने कहाँ पाया, सो कहिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ सुना मैं अस सिव पाहीं। महा प्रलयहुँ नास तव नाहीं॥  
 मुधा बचन नहिं ईस्वर कहई। सोउ मोरें मन संसय अहई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9388,8 +11080,11 @@ unicode_script = "devanagari"
 हे नाथ! मैन्ने शिवजी से ऐसा सुना है कि महाप्रलय में भी आपका नाश नहीं होता और ईश्वर (शिवजी) कभी मिथ्या वचन कहते नहीं। वह भी मेरे मन में सन्देह है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अग जग जीव नाग नर देवा। नाथ सकल जगु काल कलेवा॥  
 अण्ड कटाह अमित लय कारी। कालु सदा दुरतिक्रम भारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9408,8 +11103,11 @@ unicode_script = "devanagari"
 
 
 ### 01 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुम्हहि न ब्यापत काल अति कराल कारन कवन।  
 मोहि सो कहहु कृपाल ग्यान प्रभाव कि जोग बल॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9425,8 +11123,11 @@ unicode_script = "devanagari"
 
 
 ### 02 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु तव आश्रम आएँ मोर मोह भ्रम भाग।  
 कारन कवन सो नाथ सब कहहु सहित अनुराग॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9443,8 +11144,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-389.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गरुड गिरा सुनि हरषेउ कागा। बोलेउ उमा परम अनुरागा॥  
 धन्य धन्य तव मति उरगारी। प्रस्न तुम्हारि मोहि अति प्यारी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9457,8 +11161,11 @@ unicode_script = "devanagari"
 हे उमा! गरुडजी की वाणी सुनकर काकभुशुण्डिजी हर्षित हुए और परम प्रेम से बोले- हे सर्पों के शत्रु! आपकी बुद्धि धन्य है धन्य है! आपके प्रश्न मुझे बहुत ही प्यारे लगे॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि तव प्रश्न सप्रेम सुहाई। बहुत जनम कै सुधि मोहि आई॥  
 सब निज कथा कहउँ मैं गाई। तात सुनहु सादर मन लाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9471,8 +11178,11 @@ unicode_script = "devanagari"
 आपके प्रेमयुक्त सुन्दर प्रश्न सुनकर मुझे अपने बहुत जन्मों की याद आ गई। मैं अपनी सब कथा विस्तार से कहता हूँ। हे तात! आदर सहित मन लगाकर सुनिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जप तप मख सम दम ब्रत दाना। बिरति बिबेक जोग बिग्याना॥  
 सब कर फल रघुपति पद प्रेमा। तेहि बिनु कोउ न पावइ छेमा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9485,8 +11195,11 @@ unicode_script = "devanagari"
 अनेक जप, तप, यज्ञ, शम (मन को रोकना), दम (इन्द्रियों को रोकना), व्रत, दान, वैराग्य, विवेक, योग, विज्ञान आदि सबका फल श्री रघुनाथजी के चरणों में प्रेम होना है। इसके बिना कोई कल्याण नहीं पा सकता॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहिं तन राम भगति मैं पाई। ताते मोहि ममता अधिकाई॥  
 जेहि तें कछु निज स्वारथ होई। तेहि पर ममता कर सब कोई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9505,8 +11218,11 @@ unicode_script = "devanagari"
 
 
 ### 01 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पन्नगारि असि नीति श्रुति सम्मत सज्जन कहहिं।  
 अति नीचहु सन प्रीति करिअ जानि निज परम हित॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9519,8 +11235,11 @@ unicode_script = "devanagari"
 हे गरुडजी! वेदों में मानी हुई ऐसी नीति है और सज्जन भी कहते हैं कि अपना परम हित जानकर अत्यन्त नीच से भी प्रेम करना चाहिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पाट कीट तें होइ तेहि तें पाटम्बर रुचिर।  
 कृमि पालइ सबु कोइ परम अपावन प्रान सम॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9538,8 +11257,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्वारथ साँच जीव कहुँ एहा। मन क्रम बचन राम पद नेहा॥  
 सोइ पावन सोइ सुभग सरीरा। जो तनु पाइ भजिअ रघुबीरा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9552,8 +11274,11 @@ unicode_script = "devanagari"
 जीव के लिए सच्चा स्वार्थ यही है कि मन, वचन और कर्म से श्री रामजी के चरणों में प्रेम हो। वही शरीर पवित्र और सुन्दर है जिस शरीर को पाकर श्री रघुवीर का भजन किया जाए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम बिमुख लहि बिधि सम देही। कबि कोबिद न प्रसंसहिं तेही॥  
 राम भगति एहिं तन उर जामी। ताते मोहि परम प्रिय स्वामी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9566,8 +11291,11 @@ unicode_script = "devanagari"
 जो श्री रामजी के विमुख है वह यदि ब्रह्माजी के समान शरीर पा जाए तो भी कवि और पण्डित उसकी प्रशंसा नहीं करते। इसी शरीर से मेरे हृदय में रामभक्ति उत्पन्न हुई। इसी से हे स्वामी यह मुझे परम प्रिय है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तजउँ न तन निज इच्छा मरना। तन बिनु बेद भजन नहिं बरना॥  
 प्रथम मोहँ मोहि बहुत बिगोवा। राम बिमुख सुख कबहुँ न सोवा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9580,8 +11308,11 @@ unicode_script = "devanagari"
 मेरा मरण अपनी इच्छा पर है, परन्तु फिर भी मैं यह शरीर नहीं छोडता, क्योङ्कि वेदों ने वर्णन किया है कि शरीर के बिना भजन नहीं होता। पहले मोह ने मेरी बडी दुर्दशा की। श्री रामजी के विमुख होकर मैं कभी सुख से नहीं सोया॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाना जनम कर्म पुनि नाना। किए जोग जप तप मख दाना॥  
 कवन जोनि जनमेउँ जहँ नाहीं। मैं खगेस भ्रमि भ्रमि जग माहीं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9594,8 +11325,11 @@ unicode_script = "devanagari"
 अनेकों जन्मों में मैन्ने अनेकों प्रकार के योग, जप, तप, यज्ञ और दान आदि कर्म किए। हे गरुडजी! जगत्‌ में ऐसी कौन योनि है, जिसमें मैन्ने (बार-बार) घूम-फिरकर जन्म न लिया हो॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखेउँ करि सब करम गोसाईं। सुखी न भयउँ अबहिं की नाईं॥  
 सुधि मोहि नाथ जन्म बहु केरी। सिव प्रसाद मति मोहँ न घेरी॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9614,8 +11348,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रथम जन्म के चरित अब कहउँ सुनहु बिहगेस।  
 सुनि प्रभु पद रति उपजइ जातें मिटहिं कलेस॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9628,8 +11365,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! सुनिए, अब मैं अपने प्रथम जन्म के चरित्र कहता हूँ, जिन्हें सुनकर प्रभु के चरणों में प्रीति उत्पन्न होती है, जिससे सब क्लेश मिट जाते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पूरुब कल्प एक प्रभु जुग कलिजुग मल मूल।  
 नर अरु नारि अधर्म रत सकल निगम प्रतिकूल॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9647,8 +11387,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहिं कलिजुग कोसलपुर जाई। जन्मत भयउँ सूद्र तनु पाई॥  
 सिव सेवक मन क्रम अरु बानी। आन देव निन्दक अभिमानी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9661,8 +11404,11 @@ unicode_script = "devanagari"
 उस कलियुग में मैं अयोध्यापुरी में जाकर शूद्र का शरीर पाकर जन्मा। मैं मन, वचन और कर्म से शिवजी का सेवक और दूसरे देवताओं की निन्दा करने वाला अभिमानी था॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धन मद मत्त परम बाचाला। उग्रबुद्धि उर दम्भ बिसाला॥  
 जदपि रहेउँ रघुपति रजधानी। तदपि न कछु महिमा तब जानी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9675,8 +11421,11 @@ unicode_script = "devanagari"
 मैं धन के मद से मतवाला, बहुत ही बकवादी और उग्रबुद्धि वाला था, मेरे हृदय में बडा भारी दम्भ था। यद्यपि मैं श्री रघुनाथजी की राजधानी में रहता था, तथापि मैन्ने उस समय उसकी महिमा कुछ भी नहीं जानी॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अब जाना मैं अवध प्रभावा। निगमागम पुरान अस गावा॥  
 कवनेहुँ जन्म अवध बस जोई। राम परायन सो परि होई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9689,8 +11438,11 @@ unicode_script = "devanagari"
 अब मैन्ने अवध का प्रभाव जाना। वेद, शास्त्र और पुराणों ने ऐसा गाया है कि किसी भी जन्म में जो कोई भी अयोध्या में बस जाता है, वह अवश्य ही श्री रामजी के परायण हो जाएगा॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अवध प्रभाव जान तब प्रानी। जब उर बसहिं रामु धनुपानी॥  
 सो कलिकाल कठिन उरगारी। पाप परायन सब नर नारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9709,8 +11461,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-390.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलिमल ग्रसे धर्म सब लुप्त भए सदग्रन्थ।  
 दम्भिन्ह निज मति कल्पि करि प्रगट किए बहु पन्थ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9723,8 +11478,11 @@ unicode_script = "devanagari"
 कलियुग के पापों ने सब धर्मों को ग्रस लिया, सद्ग्रन्थ लुप्त हो गए, दम्भियों ने अपनी बुद्धि से कल्पना कर-करके बहुत से पन्थ प्रकट कर दिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भए लोग सब मोहबस लोभ ग्रसे सुभ कर्म।  
 सुनु हरिजान ग्यान निधि कहउँ कछुक कलिधर्म॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9742,8 +11500,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बरन धर्म नहिं आश्रम चारी। श्रुति बिरोध रत सब नर नारी।  
 द्विज श्रुति बेचक भूप प्रजासन। कोउ नहिं मान निगम अनुसासन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9756,8 +11517,11 @@ unicode_script = "devanagari"
 कलियुग में न वर्णधर्म रहता है, न चारों आश्रम रहते हैं। सब पुरुष-स्त्री वेद के विरोध में लगे रहते हैं। ब्राह्मण वेदों के बेचने वाले और राजा प्रजा को खा डालने वाले होते हैं। वेद की आज्ञा कोई नहीं मानता॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मारग सोइ जा कहुँ जोइ भावा। पण्डित सोइ जो गाल बजावा॥  
 मिथ्यारम्भ दम्भ रत जोई। ता कहुँ सन्त कहइ सब कोई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9770,8 +11534,11 @@ unicode_script = "devanagari"
 जिसको जो अच्छा लग जाए, वही मार्ग है। जो डीङ्ग मारता है, वही पण्डित है। जो मिथ्या आरम्भ करता (आडम्बर रचता) है और जो दम्भ में रत है, उसी को सब कोई सन्त कहते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ सयान जो परधन हारी। जो कर दम्भ सो बड आचारी॥  
 जो कह झूँठ मसखरी जाना। कलिजुग सोइ गुनवन्त बखाना॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9784,8 +11551,11 @@ unicode_script = "devanagari"
 जो (जिस किसी प्रकार से) दूसरे का धन हरण कर ले, वही बुद्धिमान है। जो दम्भ करता है, वही बडा आचारी है। जो झूठ बोलता है और हँसी-दिल्लगी करना जानता है, कलियुग में वही गुणवान कहा जाता है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निराचार जो श्रुति पथ त्यागी। कलिजुग सोइ ग्यानी सो बिरागी॥  
 जाकें नख अरु जटा बिसाला। सोइ तापस प्रसिद्ध कलिकाला॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9804,8 +11574,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 असुभ बेष भूषन धरें भच्छाभच्छ जे खाहिं।  
 तेइ जोगी तेइ सिद्ध नर पूज्य ते कलिजुग माहिं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9821,8 +11594,11 @@ unicode_script = "devanagari"
 
 
 ### 02 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे अपकारी चार तिन्ह कर गौरव मान्य तेइ।  
 मन क्रम बचन लबार तेइ बकता कलिकाल महुँ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9840,8 +11616,11 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नारि बिबस नर सकल गोसाईं। नाचहिं नट मर्कट की नाईं॥  
 सूद्र द्विजन्ह उपदेसहिं ग्याना। मेल जनेऊ लेहिं कुदाना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9854,8 +11633,11 @@ unicode_script = "devanagari"
 हे गोसाईं! सभी मनुष्य स्त्रियों के विशेष वश में हैं और बाजीगर के बन्दर की तरह (उनके नचाए) नाचते हैं। ब्राह्मणों को शूद्र ज्ञानोपदेश करते हैं और गले में जनेऊ डालकर कुत्सित दान लेते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब नर काम लोभ रत क्रोधी। देव बिप्र श्रुति सन्त बिरोधी॥  
 गुन मन्दिर सुन्दर पति त्यागी। भजहिं नारि पर पुरुष अभागी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9868,8 +11650,11 @@ unicode_script = "devanagari"
 सभी पुरुष काम और लोभ में तत्पर और क्रोधी होते हैं। देवता, ब्राह्मण, वेद और सन्तों के विरोधी होते हैं। अभागिनी स्त्रियाँ गुणों के धाम सुन्दर पति को छोडकर पर पुरुष का सेवन करती हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सौभागिनीं बिभूषन हीना। बिधवन्ह के सिङ्गार नबीना॥  
 गुर सिष बधिर अन्ध का लेखा। एक न सुनइ एक नहिं देखा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9882,8 +11667,11 @@ unicode_script = "devanagari"
 सुहागिनी स्त्रियाँ तो आभूषणों से रहित होती हैं, पर विधवाओं के नित्य नए श्रृङ्गार होते हैं। शिष्य और गुरु में बहरे और अन्धे का सा हिसाब होता है। एक (शिष्य) गुरु के उपदेश को सुनता नहीं, एक (गुरु) देखता नहीं (उसे ज्ञानदृष्टि) प्राप्त नहीं है)॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरइ सिष्य धन सोक न हरई। सो गुर घोर नरक महुँ परई॥  
 मातु पिता बालकन्हि बोलावहिं। उदर भरै सोइ धर्म सिखावहिं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9902,8 +11690,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म ग्यान बिनु नारि नर कहहिं न दूसरि बात।  
 कौडी लागि लोभ बस करहिं बिप्र गुर घात॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9916,8 +11707,13 @@ unicode_script = "devanagari"
 स्त्री-पुरुष ब्रह्मज्ञान के सिवा दूसरी बात नहीं करते, पर वे लोभवश कौडियों (बहुत थोडे लाभ) के लिए ब्राह्मण और गुरु की हत्या कर डालते हैं॥1॥  
 </details>
 
-बादहिं सूद्र द्विजन्ह सन हम तुम्ह ते कछु घाटि।  
-जानइ ब्रह्म सो बिप्रबर आँखि देखावहिं डाटि॥2॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बादहिं सूद्र द्विजन्ह सन  
+हम तुम्ह ते कछु घाटि।  
+"जानइ ब्रह्म सो बिप्रबर"  
+आँखि देखावहिं डाटि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9934,8 +11730,13 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-391.mp3"></div>
 
-पर त्रिय लम्पट कपट सयाने। मोह द्रोह ममता लपटाने॥  
-तेइ अभेदबादी ग्यानी नर। देखा मैं चरित्र कलिजुग कर॥1॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर त्रिय लम्पट, कपट-सयाने।  
+मोह द्रोह ममता-लपटाने॥  
+तेइ अभेदबादी ग्यानी नर।  
+देखा मैं चरित्र कलिजुग कर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9945,16 +11746,22 @@ unicode_script = "devanagari"
 
 <details><summary>भावार्थ</summary>
 
-जो पराई स्त्री में आसक्त, कपट करने में चतुर और मोह, द्रोह और ममता में लिपटे हुए हैं, वे ही मनुष्य अभेदवादी (ब्रह्म और जीव को एक बताने वाले) ज्ञानी हैं। मैन्ने उस कलियुग का यह चरित्र देखा॥1॥  
+जो पराई स्त्री में आसक्त, कपट करने में चतुर और मोह, द्रोह और ममता में लिपटे हुए हैं, 
+वे ही मनुष्य अभेदवादी (ब्रह्म और जीव को एक बताने वाले) ज्ञानी हैं। मैन्ने उस कलियुग का यह चरित्र देखा॥1॥  
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपु गए अरु तिन्हहू घालहिं। जे कहुँ सत मारग प्रतिपालहिं॥  
 कल्प कल्प भरि एक एक नरका। परहिं जे दूषहिं श्रुति करि तरका॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
-आपु गए अरु तिन्हहू घालहिं। जे कहुँ सत मारग प्रतिपालहिं॥  
-कल्प कल्प भरि एक एक नरका। परहिं जे दूषहिं श्रुति करि तरका॥2॥  
+आपु गए, अरु तिन्हहू घालहिं+++(=गलयति)+++।  
+जे कहुँ सत मारग प्रतिपालहिं॥  
+कल्प कल्प भरि एक एक नरका।  
+परहिं, जे दूषहिं श्रुति+++(को)+++ करि तरका॥2॥  
 </details>
 
 <details><summary>भावार्थ</summary>
@@ -9962,8 +11769,11 @@ unicode_script = "devanagari"
 वे स्वयं तो नष्ट हुए ही रहते हैं, जो कहीं सन्मार्ग का प्रतिपालन करते हैं, उनको भी वे नष्ट कर देते हैं। जो तर्क करके वेद की निन्दा करते हैं, वे लोग कल्प-कल्पभर एक-एक नरक में पडे रहते हैं॥2॥  
 </details>
 
-जे बरनाधम तेलि कुम्हारा। स्वपच किरात कोल कलवारा।  
-पनारि मुई गृह सम्पति नासी। मूड मुडाइ होहिं सन्न्यासी॥3॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जे बरनाधम तेलि कुम्हारा। स्वपच किरात कोल कलवारा+++(=मदिराकृत्)+++।  
+पनारि+++(=परनारी)+++ मुई+++(=मरी)+++, गृह सम्पति नासी। मूड मुडाइ होहिं सन्न्यासी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9973,11 +11783,17 @@ unicode_script = "devanagari"
 
 <details><summary>भावार्थ</summary>
 
-तेली, कुम्हार, चाण्डाल, भील, कोल और कलवार आदि जो वर्ण में नीचे हैं, स्त्री के मरने पर अथवा घर की सम्पत्ति नष्ट हो जाने पर सिर मुँडाकर सन्न्यासी हो जाते हैं॥3॥  
+तेली, कुम्हार, चाण्डाल, भील, कोल और कलवार आदि जो वर्ण में नीचे हैं,  
+स्त्री के मरने पर  
+अथवा घर की सम्पत्ति नष्ट हो जाने पर  
+सिर मुँडाकर सन्न्यासी हो जाते हैं॥3॥  
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते बिप्रन्ह सन आपु पुजावहिं। उभय लोक निज हाथ नसावहिं॥  
 बिप्र निरच्छर लोलुप कामी। निराचार सठ बृषली स्वामी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -9990,8 +11806,11 @@ unicode_script = "devanagari"
 वे अपने को ब्राह्मणों से पुजवाते हैं और अपने ही हाथों दोनों लोक नष्ट करते हैं। ब्राह्मण अपढ, लोभी, कामी, आचारहीन, मूर्ख और नीची जाति की व्यभिचारिणी स्त्रियों के स्वामी होते हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सूद्र करहिं जप तप ब्रत नाना। बैठि बरासन कहहिं पुराना॥  
 सब नर कल्पित करहिं अचारा। जाइ न बरनि अनीति अपारा॥5॥।  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10010,8 +11829,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भए बरन सङ्कर कलि भिन्नसेतु सब लोग।  
 करहिं पाप पावहिं दुख भय रुज सोक बियोग॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10024,8 +11846,11 @@ unicode_script = "devanagari"
 कलियुग में सब लोग वर्णसङ्कर और मर्यादा से च्युत हो गए। वे पाप करते हैं और (उनके फलस्वरूप) दुःख, भय, रोग, शोक और (प्रिय वस्तु का) वियोग पाते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 श्रुति सम्मत हरि भक्ति पथ सञ्जुत बिरति बिबेक।  
 तेहिं न चलहिं नर मोह बस कल्पहिं पन्थ अनेक॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10041,8 +11866,11 @@ unicode_script = "devanagari"
 
 
 ### 02 छन्द
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बहु दाम सँवारहिं धाम जती। बिषया हरि लीन्हि न रहि बिरती॥  
 तपसी धनवन्त दरिद्र गृही। कलि कौतुक तात न जात कही॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10055,8 +11883,11 @@ unicode_script = "devanagari"
 सन्न्यासी बहुत धन लगाकर घर सजाते हैं। उनमें वैराग्य नहीं रहा, उसे विषयों ने हर लिया। तपस्वी धनवान हो गए और गृहस्थ दरिद्र। हे तात! कलियुग की लीला कुछ कही नहीं जाती॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कुलवन्ति निकारहिं नारि सती। गृह आनहिं चेरि निबेरि गती॥  
 सुत मानहिं मातु पिता तब लौं। अबलानन दीख नहीं जब लौं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10069,8 +11900,11 @@ unicode_script = "devanagari"
 कुलवती और सती स्त्री को पुरुष घर से निकाल देते हैं और अच्छी चाल को छोडकर घर में दासी को ला रखते हैं। पुत्र अपने माता-पिता को तभी तक मानते हैं, जब तक स्त्री का मुँह नहीं दिखाई पडता॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ससुरारि पिआरि लगी जब तें। रिपुरूप कुटुम्ब भए तब तें॥  
 नृप पाप परायन धर्म नहीं। करि दण्ड बिडम्ब प्रजा नितहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10083,8 +11917,11 @@ unicode_script = "devanagari"
 जब से ससुराल प्यारी लगने लगी, तब से कुटुम्बी शत्रु रूप हो गए। राजा लोग पाप परायण हो गए, उनमें धर्म नहीं रहा। वे प्रजा को नित्य ही (बिना अपराध) दण्ड देकर उसकी विडम्बना (दुर्दशा) किया करते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धनवन्त कुलीन मलीन अपी। द्विज चिन्ह जनेउ उघार तपी॥  
 नहिं मान पुरान न बेदहि जो। हरि सेवक सन्त सही कलि सो॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10097,8 +11934,11 @@ unicode_script = "devanagari"
 धनी लोग मलिन (नीच जाति के) होने पर भी कुलीन माने जाते हैं। द्विज का चिह्न जनेऊ मात्र रह गया और नङ्गे बदन रहना तपस्वी का। जो वेदों और पुराणों को नहीं मानते, कलियुग में वे ही हरिभक्त और सच्चे सन्त कहलाते हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कबि बृन्द उदार दुनी न सुनी। गुन दूषक ब्रात न कोपि गुनी॥  
 कलि बारहिं बार दुकाल परै। बिनु अन्न दुखी सब लोग मरै॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10117,8 +11957,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगेस कलि कपट हठ दम्भ द्वेष पाषण्ड।  
 मान मोह मारादि मद ब्यापि रहे ब्रह्मण्ड॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10131,8 +11974,11 @@ unicode_script = "devanagari"
 हे पक्षीराज गरुडजी! सुनिए कलियुग में कपट, हठ (दुराग्रह), दम्भ, द्वेष, पाखण्ड, मान, मोह और काम आदि (अर्थात्‌ काम, क्रोध और लोभ) और मद ब्रह्माण्डभर में व्याप्त हो गए (छा गए)॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तामस धर्म करिहिं नर जप तप ब्रत मख दान।  
 देव न बरषहिं धरनी बए न जामहिं धान॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10148,8 +11994,11 @@ unicode_script = "devanagari"
 
 
 ### 02 छन्द
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अबला कच भूषन भूरि छुधा। धनहीन दुखी ममता बहुधा॥  
 सुख चाहहिं मूढ न धर्म रता। मति थोरि कठोरि न कोमलता॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10162,8 +12011,11 @@ unicode_script = "devanagari"
 स्त्रियों के बाल ही भूषण हैं (उनके शरीर पर कोई आभूषण नहीं रह गया) और उनको भूख बहुत लगती है (अर्थात्‌ वे सदा अतृप्त ही रहती हैं)। वे धनहीन और बहुत प्रकार की ममता होने के कारण दुःखी रहती हैं। वे मूर्ख सुख चाहती हैं, पर धर्म में उनका प्रेम नहीं है। बुद्धि थोडी है और कठोर है, उनमें कोमलता नहीं है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नर पीडित रोग न भोग कहीं। अभिमान बिरोध अकारनहीं॥  
 लघु जीवन सम्बदु पञ्च दसा। कलपान्त न नास गुमानु असा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10176,8 +12028,11 @@ unicode_script = "devanagari"
 मनुष्य रोगों से पीडित हैं, भोग (सुख) कहीं नहीं है। बिना ही कारण अभिमान और विरोध करते हैं। दस-पाँच वर्ष का थोडा सा जीवन है, परन्तु घमण्ड ऐसा है मानो कल्पान्त (प्रलय) होने पर भी उनका नाश नहीं होगा॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलिकाल बिहाल किए मनुजा। नहिं मानत क्वौ अनुजा तनुजा॥  
 नहिं तोष बिचार न सीतलता। सब जाति कुजाति भए मगता॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10190,8 +12045,11 @@ unicode_script = "devanagari"
 कलिकाल ने मनुष्य को बेहाल (अस्त-व्यस्त) कर डाला। कोई बहिन-बेटी का भी विचार नहीं करता। (लोगों में) न सन्तोष है, न विवेक है और न शीतलता है। जाति, कुजाति सभी लोग भीख माँगने वाले हो गए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इरिषा परुषाच्छर लोलुपता। भरि पूरि रही समता बिगता॥  
 सब लोग बियोग बिसोक हए। बरनाश्रम धर्म अचार गए॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10204,8 +12062,11 @@ unicode_script = "devanagari"
 ईर्षा (डाह), कडुवे वचन और लालच भरपूर हो रहे हैं, समता चली गई। सब लोग वियोग और विशेष शोक से मरे पडे हैं। वर्णाश्रम धर्म के आचरण नष्ट हो गए॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 दम दान दया नहिं जानपनी। जडता परबञ्चनताति घनी॥  
 तनु पोषक नारि नरा सगरे। परनिन्दक जे जग मो बगरे॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10224,8 +12085,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-392.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु ब्यालारि काल कलि मल अवगुन आगार।  
 गुनउ बहुत कलिजुग कर बिनु प्रयास निस्तार॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10238,8 +12102,11 @@ unicode_script = "devanagari"
 हे सर्पों के शत्रु गरुडजी! सुनिए, कलिकाल पाप और अवगुणों का घर है, किन्तु कलियुग में एक गुण भी बडा है कि उसमें बिना ही परिश्रम भवबन्धन से छुटकारा मिल जाता है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कृतजुग त्रेताँ द्वापर पूजा मख अरु जोग।  
 जो गति होइ सो कलि हरि नाम ते पावहिं लोग॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10257,8 +12124,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कृतजुग सब जोगी बिग्यानी। करि हरि ध्यान तरहिं भव प्रानी॥  
 त्रेताँ बिबिध जग्य नर करहीं। प्रभुहि समर्पि कर्म भव तरहीं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10271,8 +12141,11 @@ unicode_script = "devanagari"
 सत्ययुग में सब योगी और विज्ञानी होते हैं। हरि का ध्यान करके सब प्राणी भवसागर से तर जाते हैं। त्रेता में मनुष्य अनेक प्रकार के यज्ञ करते हैं और सब कर्मों को प्रभु को समर्पण करके भवसागर से पार हो जाते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 द्वापर करि रघुपति पद पूजा। नर भव तरहिं उपाय न दूजा॥  
 कलिजुग केवल हरि गुन गाहा। गावत नर पावहिं भव थाहा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10285,8 +12158,11 @@ unicode_script = "devanagari"
 द्वापर में श्री रघुनाथजी के चरणों की पूजा करके मनुष्य संसार से तर जाते हैं, दूसरा कोई उपाय नहीं है और कलियुग में तो केवल श्री हरि की गुणगाथाओं का गान करने से ही मनुष्य भवसागर की थाह पा जाते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलिजुग जोग न जग्य न ग्याना। एक अधार राम गुन गाना॥  
 सब भरोस तजि जो भज रामहि। प्रेम समेत गाव गुन ग्रामहि॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10299,8 +12175,11 @@ unicode_script = "devanagari"
 कलियुग में न तो योग और यज्ञ है और न ज्ञान ही है। श्री रामजी का गुणगान ही एकमात्र आधार है। अतएव सारे भरोसे त्यागकर जो श्री रामजी को भजता है और प्रेमसहित उनके गुणसमूहों को गाता है,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ भव तर कछु संसय नाहीं। नाम प्रताप प्रगट कलि माहीं॥  
 कलि कर एक पुनीत प्रतापा। मानस पुन्य होहिं नहिं पापा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10319,8 +12198,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलिजुग सम जुग आन नहिं जौं नर कर बिस्वास।  
 गाइ राम गुन गन बिमल भव तर बिनहिं प्रयास॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10333,8 +12215,11 @@ unicode_script = "devanagari"
 यदि मनुष्य विश्वास करे, तो कलियुग के समान दूसरा युग नहीं है, (क्योङ्कि) इस युग में श्री रामजी के निर्मल गुणसमूहों को गा-गाकर मनुष्य बिना ही परिश्रम संसार (रूपी समुद्र) से तर जाता है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रगट चारि पद धर्म के कलि महुँ एक प्रधान।  
 जेन केन बिधि दीन्हें दान करइ कल्यान॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10352,8 +12237,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नित जुग धर्म होहिं सब केरे। हृदयँ राम माया के प्रेरे॥  
 सुद्ध सत्व समता बिग्याना। कृत प्रभाव प्रसन्न मन जाना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10366,8 +12254,11 @@ unicode_script = "devanagari"
 श्री रामजी की माया से प्रेरित होकर सबके हृदयों में सभी युगों के धर्म नित्य होते रहते हैं। शुद्ध सत्त्वगुण, समता, विज्ञान और मन का प्रसन्न होना, इसे सत्ययुग का प्रभाव जानें॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सत्व बहुत रज कछु रति कर्मा। सब बिधि सुख त्रेता कर धर्मा॥  
 बहु रज स्वल्प सत्व कछु तामस। द्वापर धर्म हरष भय मानस॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10380,8 +12271,11 @@ unicode_script = "devanagari"
 सत्त्वगुण अधिक हो, कुछ रजोगुण हो, कर्मों में प्रीति हो, सब प्रकार से सुख हो, यह त्रेता का धर्म है। रजोगुण बहुत हो, सत्त्वगुण बहुत ही थोडा हो, कुछ तमोगुण हो, मन में हर्ष और भय हो, यह द्वापर का धर्म है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तामस बहुत रजोगुन थोरा। कलि प्रभाव बिरोध चहुँ ओरा॥  
 बुध जुग धर्म जानि मन माहीं। तजि अधर्म रति धर्म कराहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10394,8 +12288,11 @@ unicode_script = "devanagari"
 तमोगुण बहुत हो, रजोगुण थोडा हो, चारों ओर वैर-विरोध हो, यह कलियुग का प्रभाव है। पण्डित लोग युगों के धर्म को मन में ज्ञान (पहचान) कर, अधर्म छोडकर धर्म में प्रीति करते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काल धर्म नहिं ब्यापहिं ताही। रघुपति चरन प्रीति अति जाही॥  
 नट कृत बिकट कपट खगराया। नट सेवकहि न ब्यापइ माया॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10414,8 +12311,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरि माया कृत दोष गुन बिनु हरि भजन न जाहिं।  
 भजिअ राम तजि काम सब अस बिचारि मन माहिं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10428,8 +12328,11 @@ unicode_script = "devanagari"
 श्री हरि की माया के द्वारा रचे हुए दोष और गुण श्री हरि के भजन बिना नहीं जाते। मन में ऐसा विचार कर, सब कामनाओं को छोडकर (निष्काम भाव से) श्री रामजी का भजन करना चाहिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहिं कलिकाल बरष बहु बसेउँ अवध बिहगेस।  
 परेउ दुकाल बिपति बस तब मैं गयउँ बिदेस॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10447,8 +12350,22 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
-गयउँ उजेनी सुनु उरगारी। दीन मलीन दरिद्र दुखारी॥  
-गएँ काल कछु सम्पति पाई। तहँ पुनि करउँ सम्भु सेवकाई॥1॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गयउँ उजेनी, सुनु उरगारी।  
+दीन मलीन दरिद्र दुखारी॥  
+गएँ काल कछु, सम्पति पाई।  
+तहँ पुनि करउँ सम्भु सेवकाई॥1॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+गयउँ उजेनी, सुनु उरगारी।  
+दीन मलीन दरिद्र दुखारी॥  
+गएँ काल कछु, सम्पति पाई।  
+तहँ पुनि करउँ सम्भु सेवकाई॥1॥  
+
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10461,8 +12378,13 @@ unicode_script = "devanagari"
 हे सर्पों के शत्रु गरुडजी! सुनिए, मैं दीन, मलिन (उदास), दरिद्र और दुःखी होकर उज्जैन गया। कुछ काल बीतने पर कुछ सम्पत्ति पाकर फिर मैं वहीं भगवान्‌ शङ्कर की आराधना करने लगा॥1॥  
 </details>
 
-बिप्र एक बैदिक सिव पूजा। करइ सदा तेहि काजु न दूजा॥  
-परम साधु परमारथ बिन्दक। सम्भु उपासक नहिं हरि निन्दक॥2॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बिप्र एक बैदिक सिव पूजा।  
+करइ सदा तेहि काजु न दूजा॥  
+परम साधु परमारथ बिन्दक।  
+सम्भु उपासक नहिं हरि निन्दक॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10475,8 +12397,11 @@ unicode_script = "devanagari"
 एक ब्राह्मण वेदविधि से सदा शिवजी की पूजा करते, उन्हें दूसरा कोई काम न था। वे परम साधु और परमार्थ के ज्ञाता थे, वे शम्भु के उपासक थे, पर श्री हरि की निन्दा करने वाले न थे॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहि सेवउँ मैं कपट समेता। द्विज दयाल अति नीति निकेता॥  
 बाहिज नम्र देखि मोहि साईं। बिप्र पढाव पुत्र की नाईं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10489,8 +12414,11 @@ unicode_script = "devanagari"
 मैं कपटपूर्वक उनकी सेवा करता। ब्राह्मण बडे ही दयालु और नीति के घर थे। हे स्वामी! बाहर से नम्र देखकर ब्राह्मण मुझे पुत्र की भाँति मानकर पढाते थे॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सम्भु मन्त्र मोहि द्विजबर दीन्हा। सुभ उपदेस बिबिधि बिधि कीन्हा॥  
 जपउँ मन्त्र सिव मन्दिर जाई। हृदयँ दम्भ अहमिति अधिकाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10509,8 +12437,13 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-393.mp3"></div>
 
-मैं खल मल सङ्कुल मति नीच जाति बस मोह।  
-हरि जन द्विज देखें जरउँ करउँ बिष्नु कर द्रोह॥1॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मैं खल मल सङ्कुल मति  
+नीच जाति बस मोह।  
+हरि जन द्विज देखें जरउँ  
+करउँ बिष्नु कर द्रोह॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10520,14 +12453,21 @@ unicode_script = "devanagari"
 
 <details><summary>भावार्थ</summary>
 
-मैं दुष्ट, नीच जाति और पापमयी मलिन बुद्धि वाला मोहवश श्री हरि के भक्तों और द्विजों को देखते ही जल उठता और विष्णु भगवान्‌ से द्रोह करता था॥1॥  
+मैं दुष्ट, नीच जाति और पापमयी मलिन बुद्धि वाला  
+मोहवश श्री हरि के भक्तों और द्विजों को देखते ही जल उठता  
+और विष्णु भगवान्‌ से द्रोह करता था॥1॥  
 </details>
 
 
 
 ### 02 सोरठा
-गुर नित मोहि प्रबोध दुखित देखि आचरन मम।  
-मोहि उपजइ अति क्रोध दम्भिहि नीति कि भावई॥2॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुर नित मोहि प्रबोध,  
+दुखित देखि आचरन मम।  
+मोहि उपजइ अति क्रोध,  
+दम्भिहि नीति कि भावई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10545,8 +12485,13 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
-एक बार गुर लीन्ह बोलाई। मोहि नीति बहु भाँति सिखाई॥  
-सिव सेवा कर फल सुत सोई। अबिरल भगति राम पद होई॥1॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक बार गुर लीन्ह बोलाई।  
+मोहि नीति बहु भाँति सिखाई॥  
+सिव सेवा कर, फल सुत सोई।  
+अबिरल भगति राम पद होई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10559,8 +12504,13 @@ unicode_script = "devanagari"
 एक बार गुरुजी ने मुझे बुला लिया और बहुत प्रकार से (परमार्थ) नीति की शिक्षा दी कि हे पुत्र! शिवजी की सेवा का फल यही है कि श्री रामजी के चरणों में प्रगाढ भक्ति हो॥1॥  
 </details>
 
-रामहि भजहिं तात सिव धाता। नर पावँर कै केतिक बाता॥  
-जासु चरन अज सिव अनुरागी। तासु द्रोहँ सुख चहसि अभागी॥2॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रामहि भजहिं तात सिव धाता।  
+नर पावँर+++(=पामर)+++ कै केतिक बाता॥  
+जासु चरन अज, सिव अनुरागी।  
+तासु द्रोहँ सुख चहसि अभागी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10570,11 +12520,19 @@ unicode_script = "devanagari"
 
 <details><summary>भावार्थ</summary>
 
-हे तात! शिवजी और ब्रह्माजी भी श्री रामजी को भजते हैं (फिर) नीच मनुष्य की तो बात ही कितनी है? ब्रह्माजी और शिवजी जिनके चरणों के प्रेमी हैं, अरे अभागे! उनसे द्रोह करके तू सुख चाहता है?॥2॥  
+हे तात! शिवजी और ब्रह्माजी भी श्री रामजी को भजते हैं  
+(फिर) नीच मनुष्य की तो बात ही कितनी है?  
+ब्रह्माजी और शिवजी जिनके चरणों के प्रेमी हैं, अरे अभागे!  
+उनसे द्रोह करके तू सुख चाहता है?॥2॥  
 </details>
 
-हर कहुँ हरि सेवक गुर कहेऊ। सुनि खगनाथ हृदय मम दहेऊ॥  
-अधम जाति मैं बिद्या पाएँ। भयउँ जथा अहि दूध पिआएँ॥3॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हर कहुँ "हरि सेवक", गुर कहेऊ।  
+सुनि खगनाथ हृदय मम दहेऊ॥  
+अधम जाति मैं बिद्या पाएँ।  
+भयउँ जथा अहि दूध पिआएँ॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10587,8 +12545,11 @@ unicode_script = "devanagari"
 गुरुजी ने शिवजी को हरि का सेवक कहा। यह सुनकर हे पक्षीराज! मेरा हृदय जल उठा। नीच जाति का मैं विद्या पाकर ऐसा हो गया जैसे दूध पिलाने से साँप॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मानी कुटिल कुभाग्य कुजाती। गुर कर द्रोह करउँ दिनु राती॥  
 अति दयाल गुर स्वल्प न क्रोधा। पुनि पुनि मोहि सिखाव सुबोधा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10601,8 +12562,11 @@ unicode_script = "devanagari"
 अभिमानी, कुटिल, दुर्भाग्य और कुजाति मैं दिन-रात गुरुजी से द्रोह करता। गुरुजी अत्यन्त दयालु थे, उनको थोडा सा भी क्रोध नहीं आता। (मेरे द्रोह करने पर भी) वे बार-बार मुझे उत्तम ज्ञान की ही शिक्षा देते थे॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहि ते नीच बडाई पावा। सो प्रथमहिं हति ताहि नसावा॥  
 धूम अनल सम्भव सुनु भाई। तेहि बुझाव घन पदवी पाई॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10615,8 +12579,11 @@ unicode_script = "devanagari"
 नीच मनुष्य जिससे बडाई पाता है, वह सबसे पहले उसी को मारकर उसी का नाश करता है। हे भाई! सुनिए, आग से उत्पन्न हुआ धुआँ मेघ की पदवी पाकर उसी अग्नि को बुझा देता है॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रज मग परी निरादर रहई। सब कर पद प्रहार नित सहई॥  
 मरुत उडाव प्रथम तेहि भरई। पुनि नृप नयन किरीटन्हि परई॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10629,8 +12596,11 @@ unicode_script = "devanagari"
 धूल रास्ते में निरादर से पडी रहती है और सदा सब (राह चलने वालों) की लातों की मार सहती है। पर जब पवन उसे उडाता (ऊँचा उठाता) है, तो सबसे पहले वह उसी (पवन) को भर देती है और फिर राजाओं के नेत्रों और किरीटों (मुकुटों) पर पडती है॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगपति अस समुझि प्रसङ्गा। बुध नहिं करहिं अधम कर सङ्गा॥  
 कबि कोबिद गावहिं असि नीति। खल सन कलह न भल नहिं प्रीति॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10643,8 +12613,11 @@ unicode_script = "devanagari"
 हे पक्षीराज गरुडजी! सुनिए, ऐसी बात समझकर बुद्धिमान, लोग अधम (नीच) का सङ्ग नहीं करते। कवि और पण्डित ऐसी नीति कहते हैं कि दुष्ट से न कलह ही अच्छा है, न प्रेम ही॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उदासीन नित रहिअ गोसाईं। खल परिहरिअ स्वान की नाईं॥  
 मैं खल हृदयँ कपट कुटिलाई। गुर हित कहइ न मोहि सोहाई॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10663,8 +12636,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक बार हर मन्दिर जपत रहेउँ सिव नाम।  
 गुर आयउ अभिमान तें उठि नहिं कीन्ह प्रनाम॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10677,8 +12653,11 @@ unicode_script = "devanagari"
 एक दिन मैं शिवजी के मन्दिर में शिवनाम जप रहा था। उसी समय गुरुजी वहाँ आए, पर अभिमान के मारे मैन्ने उठकर उनको प्रणाम नहीं किया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो दयाल नहिं कहेउ कछु उर न रोष लवलेस।  
 अति अघ गुर अपमानता सहि नहिं सके महेस॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10696,8 +12675,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मन्दिर माझ भई नभबानी। रे हतभाग्य अग्य अभिमानी॥  
 जद्यपि तव गुर के नहिं क्रोधा। अति कृपाल चित सम्यक बोधा॥1  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10710,8 +12692,11 @@ unicode_script = "devanagari"
 मन्दिर में आकाशवाणी हुई कि अरे हतभाग्य! मूर्ख! अभिमानी! यद्यपि तेरे गुरु को क्रोध नहीं है, वे अत्यन्त कृपालु चित्त के हैं और उन्हें (पूर्ण तथा) यथार्थ ज्ञान है,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तदपि साप सठ दैहउँ तोही। नीति बिरोध सोहाइ न मोही॥  
 जौं नहिं दण्ड करौं खल तोरा। भ्रष्ट होइ श्रुतिमारग मोरा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10724,8 +12709,11 @@ unicode_script = "devanagari"
 तो भी हे मूर्ख! तुझको मैं शाप दूँगा, (क्योङ्कि) नीति का विरोध मुझे अच्छा नहीं लगता। अरे दुष्ट! यदि मैं तुझे दण्ड न दूँ, तो मेरा वेदमार्ग ही भ्रष्ट हो जाए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे सठ गुर सन इरिषा करहीं। रौरव नरक कोटि जुग परहीं॥  
 त्रिजग जोनि पुनि धरहिं सरीरा। अयुत जन्म भरि पावहिं पीरा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10738,8 +12726,11 @@ unicode_script = "devanagari"
 जो मूर्ख गुरु से ईर्षा करते हैं, वे करोडों युगों तक रौरव नरक में पडे रहते हैं। फिर (वहाँ से निकलकर) वे तिर्यक्‌ (पशु, पक्षी आदि) योनियों में शरीर धारण करते हैं और दस हजार जन्मों तक दुःख पाते रहते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बैठि रहेसि अजगर इव पापी। सर्प होहि खल मल मति ब्यापी॥  
 महा बिटप कोटर महुँ जाई। रहु अधमाधम अधगति पाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10758,8 +12749,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-394.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हाहाकार कीन्ह गुर दारुन सुनि सिव साप।  
 कम्पित मोहि बिलोकि अति उर उपजा परिताप॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10772,8 +12766,11 @@ unicode_script = "devanagari"
 शिवजी का भयानक शाप सुनकर गुरुजी ने हाहाकार किया। मुझे काँपता हुआ देखकर उनके हृदय में बडा सन्ताप उत्पन्न हुआ॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करि दण्डवत सप्रेम द्विज सिव सन्मुख कर जोरि।  
 बिनय करत गदगद स्वर समुझि घोर गति मोरि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10789,8 +12786,11 @@ unicode_script = "devanagari"
 
 
 ### 02 छन्द
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नमामीशमीशान निर्वाणरूपं। विभुं व्यापकं ब्रह्म वेदस्वरूपं॥  
 निजं निर्गुणं निर्विकल्पं निरीहं। चिदाकाशमाकाशवासं भजेऽहं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10803,8 +12803,11 @@ unicode_script = "devanagari"
 हे मोक्षस्वरूप, विभु, व्यापक, ब्रह्म और वेदस्वरूप, ईशान दिशा के ईश्वर तथा सबके स्वामी श्री शिवजी मैं आपको नमस्कार करता हूँ। निजस्वरूप में स्थित (अर्थात्‌ मायादिरहित), (मायिक) गुणों से रहित, भेदरहित, इच्छारहित, चेतन आकाश रूप एवं आकाश को ही वस्त्र रूप में धारण करने वाले दिगम्बर (अथवा आकाश को भी आच्छादित करने वाले) आपको मैं भजता हूँ॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निराकारमोङ्कारमूलं तुरीयं। गिरा ग्यान गोतीतमीशं गिरीशं॥  
 करालं महाकाल कालं कृपालं। गुणागार संसारपारं नतोऽहं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10817,8 +12820,11 @@ unicode_script = "devanagari"
 निराकार, ओङ्कार के मूल, तुरीय (तीनों गुणों से अतीत), वाणी, ज्ञान और इन्द्रियों से परे, कैलासपति, विकराल, महाकाल के भी काल, कृपालु, गुणों के धाम, संसार से परे आप परमेश्वर को मैं नमस्कार करता हूँ॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुषाराद्रि सङ्काश गौरं गभीरं। मनोभूत कोटि प्रभा श्रीशरीरं॥  
 स्फुरन्मौलि कल्लोलिनी चारु गङ्गा। लसद्भालबालेन्दु कण्ठे भुजङ्गा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10831,8 +12837,11 @@ unicode_script = "devanagari"
 जो हिमाचल के समान गौरवर्ण तथा गम्भीर हैं, जिनके शरीर में करोडों कामदेवों की ज्योति एवं शोभा है, जिनके सिर पर सुन्दर नदी गङ्गाजी विराजमान हैं, जिनके ललाट पर द्वितीया का चन्द्रमा और गले में सर्प सुशोभित है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चलत्कुण्डलं भ्रू सुनेत्रं विशालं। प्रसन्नाननं नीलकण्ठं दयालं॥  
 मृगाधीशचर्माम्बरं मुण्डमालं । प्रियं शङ्करं सर्वनाथं भजामि॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10845,8 +12854,11 @@ unicode_script = "devanagari"
 जिनके कानों में कुण्डल हिल रहे हैं, सुन्दर भ्रुकुटी और विशाल नेत्र हैं, जो प्रसन्नमुख, नीलकण्ठ और दयालु हैं, सिंह चर्म का वस्त्र धारण किए और मुण्डमाला पहने हैं, उन सबके प्यारे और सबके नाथ (कल्याण करने वाले) श्री शङ्करजी को मैं भजता हूँ॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रचण्डं प्रकृष्टं प्रगल्भं परेशं। अखण्डं अजं भानुकोटिप्रकाशं॥  
 त्रयः शूल निर्मूलनं शूलपाणिं। भजेऽहं भवानीपतिं भावगम्यं॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10859,8 +12871,11 @@ unicode_script = "devanagari"
 प्रचण्ड (रुद्ररूप), श्रेष्ठ, तेजस्वी, परमेश्वर, अखण्ड, अजन्मे, करोडों सूर्यों के समान प्रकाश वाले, तीनों प्रकार के शूलों (दुःखों) को निर्मूल करने वाले, हाथ में त्रिशूल धारण किए, भाव (प्रेम) के द्वारा प्राप्त होने वाले भवानी के पति श्री शङ्करजी को मैं भजता हूँ॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कलातीत कल्याण कल्पान्तकारी। सदा सज्जनानन्ददाता पुरारी॥  
 चिदानन्द सन्दोह मोहापहारी। प्रसीद प्रसीद प्रभो मन्मथारी॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10873,8 +12888,11 @@ unicode_script = "devanagari"
 कलाओं से परे, कल्याणस्वरूप, कल्प का अन्त (प्रलय) करने वाले, सज्जनों को सदा आनन्द देने वाले, त्रिपुर के शत्रु, सच्चिदानन्दघन, मोह को हरने वाले, मन को मथ डालने वाले कामदेव के शत्रु, हे प्रभो! प्रसन्न होइए, प्रसन्न होइए॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 न यावद् उमानाथ पादारविन्दं। भजन्तीह लोके परे वा नराणां॥  
 न तावत्सुखं शान्ति सन्तापनाशं। प्रसीद प्रभो सर्वभूताधिवासं॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10887,8 +12905,11 @@ unicode_script = "devanagari"
 जब तक पार्वती के पति आपके चरणकमलों को मनुष्य नहीं भजते, तब तक उन्हें न तो इहलोक और परलोक में सुख-शान्ति मिलती है और न उनके तापों का नाश होता है। अतः हे समस्त जीवों के अन्दर (हृदय में) निवास करने वाले हे प्रभो! प्रसन्न होइए॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 न जानामि योगं जपं नैव पूजां। नतोऽहं सदा सर्वदा शम्भु तुभ्यं॥  
 जरा जन्म दुःखोद्य तातप्यमानं॥ प्रभो पाहि आपन्नमामीश शम्भो॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10901,8 +12922,11 @@ unicode_script = "devanagari"
 मैं न तो योग जानता हूँ, न जप और न पूजा ही। हे शम्भो! मैं तो सदा-सर्वदा आपको ही नमस्कार करता हूँ। हे प्रभो! बुढापा तथा जन्म (मृत्यु) के दुःख समूहों से जलते हुए मुझ दुःखी की दुःख से रक्षा कीजिए। हे ईश्वर! हे शम्भो! मैं आपको नमस्कार करता हूँ॥8॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रुद्राष्टकमिदं प्रोक्तं विप्रेण हरतोषये।  
 ये पठन्ति नरा भक्त्या तेषां शम्भुः प्रसीदति॥9॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10921,8 +12945,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि बिनती सर्बग्य सिव देखि बिप्र अनुरागु।  
 पुनि मन्दिर नभबानी भइ द्विजबर बर मागु॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10935,8 +12962,11 @@ unicode_script = "devanagari"
 सर्वज्ञ शिवजी ने विनती सुनी और ब्राह्मण का प्रेम देखा। तब मन्दिर में आकाशवाणी हुई कि हे द्विजश्रेष्ठ! वर माँगो॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जौं प्रसन्न प्रभो मो पर नाथ दीन पर नेहु।  
 निज पद भगति देइ प्रभु पुनि दूसर बर देहु॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10949,8 +12979,11 @@ unicode_script = "devanagari"
 (ब्राह्मण ने कहा-) हे प्रभो! यदि आप मुझ पर प्रसन्न हैं और हे नाथ! यदि इस दीन पर आपका स्नेह है, तो पहले अपने चरणों की भक्ति देकर फिर दूसरा वर दीजिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तव माया बस जीव जड सन्तत फिरइ भुलान।  
 तेहि पर क्रोध न करिअ प्रभु कृपासिन्धु भगवान॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10963,8 +12996,11 @@ unicode_script = "devanagari"
 हे प्रभो! यह अज्ञानी जीव आपकी माया के वश होकर निरन्तर भूला फिरता है। हे कृपा के समुद्र भगवान्‌! उस पर क्रोध न कीजिए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सङ्कर दीनदयाल अब एहि पर होहु कृपाल।  
 साप अनुग्रह होइ जेहिं नाथ थोरेहीं काल॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10982,8 +13018,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि कर होइ परम कल्याना। सोइ करहु अब कृपानिधाना॥  
 बिप्र गिरा सुनि परहित सानी। एवमस्तु इति भइ नभबानी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -10996,8 +13035,11 @@ unicode_script = "devanagari"
 हे कृपानिधान! अब वही कीजिए, जिससे इसका परम कल्याण हो। दूसरे के हित से सनी हुई ब्राह्मण की वाणी सुनकर फिर आकाशवाणी हुई- 'एवमस्तु' (ऐसा ही हो)॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जदपि कीन्ह एहिं दारुन पापा। मैं पुनि दीन्हि कोप करि सापा॥  
 तदपि तुम्हारि साधुता देखी। करिहउँ एहि पर कृपा बिसेषी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11012,8 +13054,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-395.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 छमासील जे पर उपकारी। ते द्विज मोहि प्रिय जथा खरारी॥  
 मोर श्राप द्विज ब्यर्थ न जाइहि। जन्म सहस अवस्य यह पाइहि॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11026,8 +13071,11 @@ unicode_script = "devanagari"
 हे द्विज! जो क्षमाशील एवं परोपकारी होते हैं, वे मुझे वैसे ही प्रिय हैं जैसे खरारि श्री रामचन्द्रजी। हे द्विज! मेरा शाप व्यर्थ नहीं जाएगा। यह हजार जन्म अवश्य पाएगा॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जनमत मरत दुसह दुख होई। एहि स्वल्पउ नहिं ब्यापिहि सोई॥  
 कवनेउँ जन्म मिटिहि नहिं ग्याना। सुनहि सूद्र मम बचन प्रवाना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11040,8 +13088,11 @@ unicode_script = "devanagari"
 परन्तु जन्मने और मरने में जो दुःसह दुःख होता है, इसको वह दुःख जरा भी न व्यापेगा और किसी भी जन्म में इसका ज्ञान नहीं मिटेगा। हे शूद्र! मेरा प्रामाणिक (सत्य) वचन सुन॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रघुपति पुरीं जन्म तव भयऊ। पुनि मैं मम सेवाँ मन दयऊ॥  
 पुरी प्रभाव अनुग्रह मोरें। राम भगति उपजिहि उर तोरें॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11054,8 +13105,11 @@ unicode_script = "devanagari"
 (प्रथम तो) तेरा जन्म श्री रघुनाथजी की पुरी में हुआ। फिर तूने मेरी सेवा में मन लगाया। पुरी के प्रभाव और मेरी कृपा से तेरे हृदय में रामभक्ति उत्पन्न होगी॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु मम बचन सत्य अब भाई। हरितोषन ब्रत द्विज सेवकाई॥  
 अब जनि करहि बिप्र अपमाना। जानेसु सन्त अनन्त समाना॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11068,8 +13122,11 @@ unicode_script = "devanagari"
 हे भाई! अब मेरा सत्य वचन सुन। द्विजों की सेवा ही भगवान्‌ को प्रसन्न करने वाला व्रत है। अब कभी ब्राह्मण का अपमान न करना। सन्तों को अनन्त श्री भगवान्‌ ही के समान जानना॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इन्द्र कुलिस मम सूल बिसाला। कालदण्ड हरि चक्र कराला॥  
 जो इन्ह कर मारा नहिं मरई। बिप्र द्रोह पावक सो जरई॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11082,8 +13139,11 @@ unicode_script = "devanagari"
 इन्द्र के वज्र, मेरे विशाल त्रिशूल, काल के दण्ड और श्री हरि के विकराल चक्र के मारे भी जो नहीं मरता, वह भी विप्रद्रोह रूपी अग्नि से भस्म हो जाता है॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस बिबेक राखेहु मन माहीं। तुम्ह कहँ जग दुर्लभ कछु नाहीं॥  
 औरउ एक आसिषा मोरी। अप्रतिहत गति होइहि तोरी॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11102,8 +13162,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि सिव बचन हरषि गुर एवमस्तु इति भाषि।  
 मोहि प्रबोधि गयउ गृह सम्भु चरन उर राखि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11116,8 +13179,11 @@ unicode_script = "devanagari"
 (आकाशवाणी के द्वारा) शिवजी के वचन सुनकर गुरुजी हर्षित होकर 'ऐसा ही हो' यह कहकर मुझे बहुत समझाकर और शिवजी के चरणों को हृदय में रखकर अपने घर गए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रेरित काल बिन्धि गिरि जाइ भयउँ मैं ब्याल।  
 पुनि प्रयास बिनु सो तनु तजेउँ गएँ कछु काल॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11130,8 +13196,11 @@ unicode_script = "devanagari"
 काल की प्रेरणा से मैं विन्ध्याचल में जाकर सर्प हुआ। फिर कुछ काल बीतने पर बिना ही परिश्रम (कष्ट) के मैन्ने वह शरीर त्याग दिया।109 (ख)॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जोइ तनु धरउँ तजउँ पुनि अनायास हरिजान।  
 जिमि नूतन पट पहिरइ नर परिहरइ पुरान॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11144,8 +13213,11 @@ unicode_script = "devanagari"
 हे हरिवाहन! मैं जो भी शरीर धारण करता, उसे बिना ही परिश्रम वैसे ही सुखपूर्वक त्याग देता था, जैसे मनुष्य पुराना वस्त्र त्याग देता है और नया पहिन लेता है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सिवँ राखी श्रुति नीति अरु मैं नहिं पावा क्लेस।  
 एहि बिधि धरेउँ बिबिधि तनु ग्यान न गयउ खगेस॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11163,8 +13235,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त्रिजग देव नर जोइ तनु धरउँ। तहँ तहँ राम भजन अनुसरऊँ॥  
 एक सूल मोहि बिसर न काऊ। गुर कर कोमल सील सुभाऊ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11177,8 +13252,11 @@ unicode_script = "devanagari"
 तिर्यक्‌ योनि (पशु-पक्षी), देवता या मनुष्य का, जो भी शरीर धारण करता, वहाँ-वहाँ (उस-उस शरीर में) मैं श्री रामजी का भजन जारी रखता। (इस प्रकार मैं सुखी हो गया), परन्तु एक शूल मुझे बना रहा। गुरुजी का कोमल, सुशील स्वभाव मुझे कभी नहीं भूलता (अर्थात्‌ मैन्ने ऐसे कोमल स्वभाव दयालु गुरु का अपमान किया, यह दुःख मुझे सदा बना रहा)॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चरम देह द्विज कै मैं पाई। सुर दुर्लभ पुरान श्रुति गाई॥  
 खेलउँ तहूँ बालकन्ह मीला। करउँ सकल रघुनायक लीला॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11191,8 +13269,11 @@ unicode_script = "devanagari"
 मैन्ने अन्तिम शरीर ब्राह्मण का पाया, जिसे पुराण और वेद देवताओं को भी दुर्लभ बताते हैं। मैं वहाँ (ब्राह्मण शरीर में) भी बालकों में मिलकर खेलता तो श्री रघुनाथजी की ही सब लीलाएँ किया करता॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रौढ भएँ मोहि पिता पढावा। समझउँ सुनउँ गुनउँ नहिं भावा॥  
 मन ते सकल बासना भागी। केवल राम चरन लय लागी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11205,8 +13286,11 @@ unicode_script = "devanagari"
 सयाना होने पर पिताजी मुझे पढाने लगे। मैं समझता, सुनता और विचारता, पर मुझे पढना अच्छा नहीं लगता था। मेरे मन से सारी वासनाएँ भाग गईं। केवल श्री रामजी के चरणों में लव लग गई॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहु खगेस अस कवन अभागी। खरी सेव सुरधेनुहि त्यागी॥  
 प्रेम मगन मोहि कछु न सोहाई। हारेउ पिता पढाइ पढाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11219,8 +13303,11 @@ unicode_script = "devanagari"
 हे गरुडजी! कहिए, ऐसा कौन अभागा होगा जो कामधेनु को छोडकर गदही की सेवा करेगा? प्रेम में मग्न रहने के कारण मुझे कुछ भी नहीं सुहाता। पिताजी पढा-पढाकर हार गए॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भय कालबस जब पितु माता। मैं बन गयउँ भजन जनत्राता॥  
 जहँ जहँ बिपिन मुनीस्वर पावउँ। आश्रम जाइ जाइ सिरु नावउँ॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11233,8 +13320,11 @@ unicode_script = "devanagari"
 जब पिता-माता कालवश हो गए (मर गए), तब मैं भक्तों की रक्षा करने वाले श्री रामजी का भजन करने के लिए वन में चला गया। वन में जहाँ-जहाँ मुनीश्वरों के आश्रम पाता, वहाँ-वहाँ जा-जाकर उन्हें सिर नवाता॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बूझउँ तिन्हहि राम गुन गाहा। कहहिं सुनउँ हरषित खगनाहा॥  
 सुनत फिरउँ हरि गुन अनुबादा। अब्याहत गति सम्भु प्रसादा॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11249,8 +13339,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-396.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 छूटी त्रिबिधि ईषना गाढी। एक लालसा उर अति बाढी॥  
 राम चरन बारिज जब देखौं। तब निज जन्म सफल करि लेखौं॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11263,8 +13356,11 @@ unicode_script = "devanagari"
 मेरी तीनों प्रकार की (पुत्र की, धन की और मान की) गहरी प्रबल वासनाएँ छूट गईं और हृदय में एक यही लालसा अत्यन्त बढ गई कि जब श्री रामजी के चरणकमलों के दर्शन करूँ तब अपना जन्म सफल हुआ समझूँ॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहि पूँछउँ सोइ मुनि अस कहई। ईस्वर सर्ब भूतमय अहई॥  
 निर्गुन मत नहिं मोहि सोहाई। सगुन ब्रह्म रति उर अधिकाई॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11283,8 +13379,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गुर के बचन सुरति करि राम चरन मनु लाग।  
 रघुपति जस गावत फिरउँ छन छन नव अनुराग॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11297,8 +13396,11 @@ unicode_script = "devanagari"
 गुरुजी के वचनों का स्मरण करके मेरा मन श्री रामजी के चरणों में लग गया। मैं क्षण-क्षण नया-नया प्रेम प्राप्त करता हुआ श्री रघुनाथजी का यश गाता फिरता था॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मेरु सिखर बट छायाँ मुनि लोमस आसीन।  
 देखि चरन सिरु नायउँ बचन कहेउँ अति दीन॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11311,8 +13413,11 @@ unicode_script = "devanagari"
 सुमेरु पर्वत के शिखर पर बड की छाया में लोमश मुनि बैठे थे। उन्हें देखकर मैन्ने उनके चरणों में सिर नवाया और अत्यन्त दीन वचन कहे॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि मम बचन बिनीत मृदु मुनि कृपाल खगराज।  
 मोहि सादर पूँछत भए द्विज आयहु केहि काज॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11325,8 +13430,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! मेरे अत्यन्त नम्र और कोमल वचन सुनकर कृपालु मुनि मुझसे आदर के साथ पूछने लगे- हे ब्राह्मण! आप किस कार्य से यहाँ आए हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब मैं कहा कृपानिधि तुम्ह सर्बग्य सुजान।  
 सगुन ब्रह्म अवराधन मोहि कहहु भगवान॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11343,8 +13451,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब मुनीस रघुपति गुन गाथा। कहे कछुक सादर खगनाथा॥  
 ब्रह्मग्यान रत मुनि बिग्यानी। मोहि परम अधिकारी जानी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11357,8 +13468,11 @@ unicode_script = "devanagari"
 तब हे पक्षीराज! मुनीश्वर ने श्री रघुनाथजी के गुणों की कुछ कथाएँ आदर सहित कहीं। फिर वे ब्रह्मज्ञान परायण विज्ञानवान्‌ मुनि मुझे परम अधिकारी जानकर-॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 लागे करन ब्रह्म उपदेसा। अज अद्वैत अगुन हृदयेसा॥  
 अकल अनीह अनाम अरूपा। अनुभव गम्य अखण्ड अनूपा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11371,8 +13485,11 @@ unicode_script = "devanagari"
 ब्रह्म का उपदेश करने लगे कि वह अजन्मा है, अद्वैत है, निर्गुण है और हृदय का स्वामी (अन्तर्यामी) है। उसे कोई बुद्धि के द्वारा माप नहीं सकता, वह इच्छारहित, नामरहित, रूपरहित, अनुभव से जानने योग्य, अखण्ड और उपमारहित है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मन गोतीत अमल अबिनासी। निर्बिकार निरवधि सुख रासी॥  
 सो तैं ताहि तोहि नहिं भेदा। बारि बीचि इव गावहिं बेदा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11385,8 +13502,11 @@ unicode_script = "devanagari"
 वह मन और इन्द्रियों से परे, निर्मल, विनाशरहित, निर्विकार, सीमारहित और सुख की राशि है। वेद ऐसा गाते हैं कि वही तू है, (तत्वमसि), जल और जल की लहर की भाँति उसमें और तुझमें कोई भेद नहीं है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिबिधि भाँति मोहि मुनि समुझावा। निर्गुन मत मम हृदयँ न आवा॥  
 पुनि मैं कहेउँ नाइ पद सीसा। सगुन उपासन कहहु मुनीसा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11399,8 +13519,11 @@ unicode_script = "devanagari"
 मुनि ने मुझे अनेकों प्रकार से समझाया, पर निर्गुण मत मेरे हृदय में नहीं बैठा। मैन्ने फिर मुनि के चरणों में सिर नवाकर कहा- हे मुनीश्वर! मुझे सगुण ब्रह्म की उपासना कहिए॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम भगति जल मम मन मीना। किमि बिलगाइ मुनीस प्रबीना॥  
 सोइ उपदेस कहहु करि दाया। निज नयनन्हि देखौं रघुराया॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11413,8 +13536,11 @@ unicode_script = "devanagari"
 मेरा मन रामभक्ति रूपी जल में मछली हो रहा है (उसी में रम रहा है)। हे चतुर मुनीश्वर ऐसी दशा में वह उससे अलग कैसे हो सकता है? आप दया करके मुझे वही उपदेश (उपाय) कहिए जिससे मैं श्री रघुनाथजी को अपनी आँखों से देख सकूँ॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भरि लोचन बिलोकि अवधेसा। तब सुनिहउँ निर्गुन उपदेसा॥  
 मुनि पुनि कहि हरिकथा अनूपा। खण्डि सगुन मत अगुन निरूपा॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11427,8 +13553,11 @@ unicode_script = "devanagari"
 (पहले) नेत्र भरकर श्री अयोध्यानाथ को देखकर, तब निर्गुण का उपदेश सुनूँगा। मुनि ने फिर अनुपम हरिकथा कहकर, सगुण मत का खण्डन करके निर्गुण का निरूपण किया॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब मैं निर्गुन मत कर दूरी। सगुन निरूपउँ करि हठ भूरी॥  
 उत्तर प्रतिउत्तर मैं कीन्हा। मुनि तन भए क्रोध के चीन्हा॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11441,8 +13570,11 @@ unicode_script = "devanagari"
 तब मैं निर्गुण मत को हटाकर (काटकर) बहुत हठ करके सगुण का निरूपण करने लगा। मैन्ने उत्तर-प्रत्युत्तर किया, इससे मुनि के शरीर में क्रोध के चिह्न उत्पन्न हो गए॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु प्रभु बहुत अवग्या किएँ। उपज क्रोध ग्यानिन्ह के हिएँ॥  
 अति सङ्घरषन जौं कर कोई। अनल प्रगट चन्दन ते होई॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11461,8 +13593,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बारम्बार सकोप मुनि करइ निरूपन ग्यान।  
 मैं अपनें मन बैठ तब करउँ बिबिधि अनुमान॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11475,8 +13610,11 @@ unicode_script = "devanagari"
 मुनि बार-बार क्रोध सहित ज्ञान का निरूपण करने लगे। तब मैं बैठा-बैठा अपने मन में अनेकों प्रकार के अनुमान करने लगा॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 क्रोध कि द्वैतबुद्धि बिनु द्वैत कि बिनु अग्यान।  
 मायाबस परिछिन्न जड जीव कि ईस समान॥2॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11493,8 +13631,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-397.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कबहुँ कि दुःख सब कर हित ताकें। तेहि कि दरिद्र परस मनि जाकें॥  
 परद्रोही की होहिं निसङ्का। कामी पुनि कि रहहिं अकलङ्का॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11507,8 +13648,11 @@ unicode_script = "devanagari"
 सबका हित चाहने से क्या कभी दुःख हो सकता है? जिसके पास पारसमणि है, उसके पास क्या दरिद्रता रह सकती है? दूसरे से द्रोह करने वाले क्या निर्भय हो सकते हैं और कामी क्या कलङ्करहित (बेदाग) रह सकते हैं?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बंस कि रह द्विज अनहित कीन्हें। कर्म की होहिं स्वरूपहि चीन्हें॥  
 काहू सुमति कि खल सँग जामी। सुभ गति पाव कि परत्रिय गामी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11521,8 +13665,11 @@ unicode_script = "devanagari"
 ब्राह्मण का बुरा करने से क्या वंश रह सकता है? स्वरूप की पहिचान (आत्मज्ञान) होने पर क्या (आसक्तिपूर्वक) कर्म हो सकते हैं? दुष्टों के सङ्ग से क्या किसी के सुबुद्धि उत्पन्न हुई है? परस्त्रीगामी क्या उत्तम गति पा सकता है?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भव कि परहिं परमात्मा बिन्दक। सुखी कि होहिं कबहुँ हरिनिन्दक॥  
 राजु कि रहइ नीति बिनु जानें। अघ कि रहहिं हरिचरित बखानें॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11535,8 +13682,11 @@ unicode_script = "devanagari"
 परमात्मा को जानने वाले कहीं जन्म-मरण (के चक्कर) में पड सकते हैं? भगवान्‌ की निन्दा करने वाले कभी सुखी हो सकते हैं? नीति बिना जाने क्या राज्य रह सकता है? श्री हरि के चरित्र वर्णन करने पर क्या पाप रह सकते हैं?॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पावन जस कि पुन्य बिनु होई। बिनु अघ अजस कि पावइ कोई॥  
 लाभु कि किछु हरि भगति समाना। जेहि गावहिं श्रुति सन्त पुराना॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11549,8 +13699,11 @@ unicode_script = "devanagari"
 बिना पुण्य के क्या पवित्र यश (प्राप्त) हो सकता है? बिना पाप के भी क्या कोई अपयश पा सकता है? जिसकी महिमा वेद, सन्त और पुराण गाते हैं और उस हरि भक्ति के समान क्या कोई दूसरा लाभ भी है?॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हानि कि जग एहि सम किछु भाई। भजिअ न रामहि नर तनु पाई॥  
 अघ कि पिसुनता सम कछु आना। धर्म कि दया सरिस हरिजाना॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11563,8 +13716,11 @@ unicode_script = "devanagari"
 हे भाई! जगत्‌ में क्या इसके समान दूसरी भी कोई हानि है कि मनुष्य का शरीर पाकर भी श्री रामजी का भजन न किया जाए? चुगलखोरी के समान क्या कोई दूसरा पाप है? और हे गरुडजी! दया के समान क्या कोई दूसरा धर्म है?॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि बिधि अमिति जुगुति मन गुनऊँ। मुनि उपदेस न सादर सुनउँ॥  
 पुनि पुनि सगुन पच्छ मैं रोपा। तब मुनि बोलेउ बचन सकोपा॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11577,8 +13733,11 @@ unicode_script = "devanagari"
 इस प्रकार मैं अनगिनत युक्तियाँ मन में विचारता था और आदर के साथ मुनि का उपदेश नहीं सुनता था। जब मैन्ने बार-बार सगुण का पक्ष स्थापित किया, तब मुनि क्रोधयुक्त वचन बोले- ॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मूढ परम सिख देउँ न मानसि। उत्तर प्रतिउत्तर बहु आनसि॥  
 सत्य बचन बिस्वास न करही। बायस इव सबही ते डरही॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11591,8 +13750,11 @@ unicode_script = "devanagari"
 अरे मूढ! मैं तुझे सर्वोत्तम शिक्षा देता हूँ, तो भी तू उसे नहीं मानता और बहुत से उत्तर-प्रत्युत्तर (दलीलें) लाकर रखता है। मेरे सत्य वचन पर विश्वास नहीं करता। कौए की भाँति सभी से डरता है॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सठ स्वपच्छ तव हृदयँ बिसाला। सपदि होहि पच्छी चण्डाला॥  
 लीन्ह श्राप मैं सीस चढाई। नहिं कछु भय न दीनता आई॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11611,8 +13773,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तुरत भयउँ मैं काग तब पुनि मुनि पद सिरु नाइ।  
 सुमिरि राम रघुबंस मनि हरषित चलेउँ उडाइ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11625,8 +13790,11 @@ unicode_script = "devanagari"
 तब मैं तुरन्त ही कौआ हो गया। फिर मुनि के चरणों में सिर नवाकर और रघुकुल शिरोमणि श्री रामजी का स्मरण करके मैं हर्षित होकर उड चला॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उमा जे राम चरन रत बिगत काम मद क्रोध।  
 निज प्रभुमय देखहिं जगत केहि सन करहिं बिरोध॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11644,8 +13812,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगेस नहिं कछु रिषि दूषन। उर प्रेरक रघुबंस बिभूषन॥  
 कृपासिन्धु मुनि मति करि भोरी। लीन्ही प्रेम परिच्छा मोरी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11658,8 +13829,11 @@ unicode_script = "devanagari"
 (काकभुशुण्डिजी ने कहा-) हे पक्षीराज गरुडजी! सुनिए, इसमें ऋषि का कुछ भी दोष नहीं था। रघुवंश के विभूषण श्री रामजी ही सबके हृदय में प्रेरणा करने वाले हैं। कृपा सागर प्रभु ने मुनि की बुद्धि को भोली करके (भुलावा देकर) मेरे प्रेम की परीक्षा ली॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मन बच क्रम मोहि निज जन जाना। मुनि मति पुनि फेरी भगवाना॥  
 रिषि मम महत सीलता देखी। राम चरन बिस्वास बिसेषी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11672,8 +13846,11 @@ unicode_script = "devanagari"
 मन, वचन और कर्म से जब प्रभु ने मुझे अपना दास जान लिया, तब भगवान्‌ ने मुनि की बुद्धि फिर पलट दी। ऋषि ने मेरा महान्‌ पुरुषों का सा स्वभाव (धैर्य, अक्रोध, विनय आदि) और श्री रामजी के चरणों में विशेष विश्वास देखा,॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अति बिसमय पुनि पुनि पछिताई। सादर मुनि मोहि लीन्ह बोलाई॥  
 मम परितोष बिबिधि बिधि कीन्हा। हरषित राममन्त्र तब दीन्हा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11686,8 +13863,11 @@ unicode_script = "devanagari"
 तब मुनि ने बहुत दुःख के साथ बार-बार पछताकर मुझे आदरपूर्वक बुला लिया। उन्होन्ने अनेकों प्रकार से मेरा सन्तोष किया और तब हर्षित होकर मुझे राममन्त्र दिया॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बालकरूप राम कर ध्याना। कहेउ मोहि मुनि कृपानिधाना॥  
 सुन्दर सुखद मोहि अति भावा। सो प्रथमहिं मैं तुम्हहि सुनावा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11700,8 +13880,11 @@ unicode_script = "devanagari"
 कृपानिधान मुनि ने मुझे बालक रूप श्री रामजी का ध्यान (ध्यान की विधि) बतलाया। सुन्दर और सुख देने वाला यह ध्यान मुझे बहुत ही अच्छा लगा। वह ध्यान मैं आपको पहले ही सुना चुका हूँ॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मुनि मोहि कछुक काल तहँ राखा। रामचरितमानस तब भाषा॥  
 सादर मोहि यह कथा सुनाई। पुनि बोले मुनि गिरा सुहाई॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11714,8 +13897,11 @@ unicode_script = "devanagari"
 मुनि ने कुछ समय तक मुझको वहाँ (अपने पास) रखा। तब उन्होन्ने रामचरित मानस वर्णन किया। आदरपूर्वक मुझे यह कथा सुनाकर फिर मुनि मुझसे सुन्दर वाणी बोले-॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रामचरित सर गुप्त सुहावा। सम्भु प्रसाद तात मैं पावा॥  
 तोहि निज भगत राम कर जानी। ताते मैं सब कहेउँ बखानी॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11730,8 +13916,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-398.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम भगति जिन्ह कें उर नाहीं। कबहुँ न तात कहिअ तिन्ह पाहीं॥  
 मुनि मोहि बिबिधि भाँति समुझावा। मैं सप्रेम मुनि पद सिरु नावा॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11744,8 +13933,11 @@ unicode_script = "devanagari"
 हे तात! जिनके हृदय में श्री रामजी की भक्ति नहीं है, उनके सामने इसे कभी भी नहीं कहना चाहिए। मुनि ने मुझे बहुत प्रकार से समझाया। तब मैन्ने प्रेम के साथ मुनि के चरणों में सिर नवाया॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 निज कर कमल परसि मम सीसा। हरषित आसिष दीन्ह मुनीसा॥  
 राम भगति अबिरल उर तोरें। बसिहि सदा प्रसाद अब मोरें॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11764,8 +13956,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सदा राम प्रिय होहु तुम्ह सुभ गुन भवन अमान।  
 कामरूप इच्छामरन ग्यान बिराग निधान॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11778,8 +13973,11 @@ unicode_script = "devanagari"
 तुम सदा श्री रामजी को प्रिय होओ और कल्याण रूप गुणों के धाम, मानरहित, इच्छानुसार रूप धारण करने में समर्थ, इच्छा मृत्यु (जिसकी शरीर छोडने की इच्छा करने पर ही मृत्यु हो, बिना इच्छा के मृत्यु न हो) एवं ज्ञान और वैराग्य के भण्डार होओ॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जेहिं आश्रम तुम्ह बसब पुनि सुमिरत श्रीभगवन्त।  
 ब्यापिहि तहँ न अबिद्या जोजन एक प्रजन्त॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11797,8 +13995,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 काल कर्म गुन दोष सुभाऊ। कछु दुख तुम्हहि न ब्यापिहि काऊ॥  
 राम रहस्य ललित बिधि नाना। गुप्त प्रगट इतिहास पुराना॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11811,8 +14012,11 @@ unicode_script = "devanagari"
 काल, कर्म, गुण, दोष और स्वभाव से उत्पन्न कुछ भी दुःख तुमको कभी नहीं व्यापेगा। अनेकों प्रकार के सुन्दर श्री रामजी के रहस्य (गुप्त मर्म के चरित्र और गुण), जो इतिहास और पुराणों में गुप्त और प्रकट हैं। (वर्णित और लक्षित हैं)॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिनु श्रम तुम्ह जानब सब सोऊ। नित नव नेह राम पद होऊ॥  
 जो इच्छा करिहहु मन माहीं। हरि प्रसाद कछु दुर्लभ नाहीं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11825,8 +14029,11 @@ unicode_script = "devanagari"
 तुम उन सबको भी बिना ही परिश्रम जान जाओगे। श्री रामजी के चरणों में तुम्हारा नित्य नया प्रेम हो। अपने मन में तुम जो कुछ इच्छा करोगे, श्री हरि की कृपा से उसकी पूर्ति कुछ भी दुर्लभ नहीं होगी॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि मुनि आसिष सुनु मतिधीरा। ब्रह्मगिरा भइ गगन गँभीरा॥  
 एवमस्तु तव बच मुनि ग्यानी। यह मम भगत कर्म मन बानी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11839,8 +14046,11 @@ unicode_script = "devanagari"
 हे धीरबुद्धि गरुडजी! सुनिए, मुनि का आशीर्वाद सुनकर आकाश में गम्भीर ब्रह्मवाणी हुई कि हे ज्ञानी मुनि! तुम्हारा वचन ऐसा ही (सत्य) हो। यह कर्म, मन और वचन से मेरा भक्त है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि नभगिरा हरष मोहि भयऊ। प्रेम मगन सब संसय गयऊ॥  
 करि बिनती मुनि आयसु पाई। पद सरोज पुनि पुनि सिरु नाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11853,8 +14063,11 @@ unicode_script = "devanagari"
 आकाशवाणी सुनकर मुझे बडा हर्ष हुआ। मैं प्रेम में मग्न हो गया और मेरा सब सन्देह जाता रहा। तदनन्तर मुनि की विनती करके, आज्ञा पाकर और उनके चरणकमलों में बार-बार सिर नवाकर- ॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हरष सहित एहिं आश्रम आयउँ। प्रभु प्रसाद दुर्लभ बर पायउँ॥  
 इहाँ बसत मोहि सुनु खग ईसा। बीते कलप सात अरु बीसा॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11867,8 +14080,11 @@ unicode_script = "devanagari"
 मैं हर्ष सहित इस आश्रम में आया। प्रभु श्री रामजी की कृपा से मैन्ने दुर्लभ वर पा लिया। हे पक्षीराज! मुझे यहाँ निवास करते सत्ताईस कल्प बीत गए॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 करउँ सदा रघुपति गुन गाना। सादर सुनहिं बिहङ्ग सुजाना॥  
 जब जब अवधपुरीं रघुबीरा। धरहिं भगत हित मनुज सरीरा॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11881,8 +14097,11 @@ unicode_script = "devanagari"
 मैं यहाँ सदा श्री रघुनाथजी के गुणों का गान किया करता हूँ और चतुर पक्षी उसे आदरपूर्वक सुनते हैं। अयोध्यापुरी में जब-जब श्री रघुवीर भक्तों के (हित के) लिए मनुष्य शरीर धारण करते हैं,॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब तब जाइ राम पुर रहऊँ। सिसुलीला बिलोकि सुख लहऊँ॥  
 पुनि उर राखि राम सिसुरूपा। निज आश्रम आवउँ खगभूपा॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11895,8 +14114,11 @@ unicode_script = "devanagari"
 तब-तब मैं जाकर श्री रामजी की नगरी में रहता हूँ और प्रभु की शिशुलीला देखकर सुख प्राप्त करता हूँ। फिर हे पक्षीराज! श्री रामजी के शिशु रूप को हृदय में रखकर मैं अपने आश्रम में आ जाता हूँ॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कथा सकल मैं तुम्हहि सुनाई। काग देहि जेहिं कारन पाई॥  
 कहिउँ तात सब प्रस्न तुम्हारी। राम भगति महिमा अति भारी॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11915,8 +14137,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ताते यह तन मोहि प्रिय भयउ राम पद नेह।  
 निज प्रभु दरसन पायउँ गए सकल सन्देह॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11932,8 +14157,11 @@ unicode_script = "devanagari"
 
 मासपारायण, उनतीसवाँ विश्राम  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगति पच्छ हठ करि रहेउँ दीन्हि महारिषि साप।  
 मुनि दुर्लभ बर पायउँ देखहु भजन प्रताप॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11952,8 +14180,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-399.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जे असि भगति जानि परिहरहीं। केवल ग्यान हेतु श्रम करहीं॥  
 ते जड कामधेनु गृहँ त्यागी। खोजत आकु फिरहिं पय लागी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11966,8 +14197,11 @@ unicode_script = "devanagari"
 जो भक्ति की ऐसी महिमा जानकर भी उसे छोड देते हैं और केवल ज्ञान के लिए श्रम (साधन) करते हैं, वे मूर्ख घर पर खडी हुई कामधेनु को छोडकर दूध के लिए मदार के पेड को खोजते फिरते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनु खगेस हरि भगति बिहाई। जे सुख चाहहिं आन उपाई॥  
 ते सठ महासिन्धु बिनु तरनी। पैरि पार चाहहिं जड करनी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11980,8 +14214,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! सुनिए, जो लोग श्री हरि की भक्ति को छोडकर दूसरे उपायों से सुख चाहते हैं, वे मूर्ख और जड करनी वाले (अभागे) बिना ही जहाज के तैरकर महासमुद्र के पार जाना चाहते हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि भसुण्डि के बचन भवानी। बोलेउ गरुड हरषि मृदु बानी॥  
 तव प्रसाद प्रभु मम उर माहीं। संसय सोक मोह भ्रम नाहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -11994,8 +14231,11 @@ unicode_script = "devanagari"
 (शिवजी कहते हैं-) हे भवानी! भुशुण्डिजी के वचन सुनकर गरुडजी हर्षित होकर कोमल वाणी से बोले- हे प्रभो! आपके प्रसाद से मेरे हृदय में अब सन्देह, शोक, मोह और कुछ भी नहीं रह गया॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनेउँ पुनीत राम गुन ग्रामा। तुम्हरी कृपाँ लहेउँ बिश्रामा॥  
 एक बात प्रभु पूँछउँ तोही। कहहु बुझाइ कृपानिधि मोही॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12008,8 +14248,11 @@ unicode_script = "devanagari"
 मैन्ने आपकी कृपा से श्री रामचन्द्रजी के पवित्र गुण समूहों को सुना और शान्ति प्राप्त की। हे प्रभो! अब मैं आपसे एक बात और पूछता हूँ। हे कृपासागर! मुझे समझाकर कहिए॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहहिं सन्त मुनि बेद पुराना। नहिं कछु दुर्लभ ग्यान समाना॥  
 सोइ मुनि तुम्ह सन कहेउ गोसाईं। नहिं आदरेहु भगति की नाईं॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12022,8 +14265,11 @@ unicode_script = "devanagari"
 सन्त मुनि, वेद और पुराण यह कहते हैं कि ज्ञान के समान दुर्लभ कुछ भी नहीं है। हे गोसाईं! वही ज्ञान मुनि ने आपसे कहा, परन्तु आपने भक्ति के समान उसका आदर नहीं किया॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यानहि भगतिहि अन्तर केता। सकल कहहु प्रभु कृपा निकेता॥  
 सुनि उरगारि बचन सुख माना। सादर बोलेउ काग सुजाना॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12036,8 +14282,11 @@ unicode_script = "devanagari"
 हे कृपा के धाम! हे प्रभो! ज्ञान और भक्ति में कितना अन्तर है? यह सब मुझसे कहिए। गरुडजी के वचन सुनकर सुजान काकभुशुण्डिजी ने सुख माना और आदर के साथ कहा-॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगतिहि ग्यानहि नहिं कछु भेदा। उभय हरहिं भव सम्भव खेदा॥  
 नाथ मुनीस कहहिं कछु अन्तर। सावधान सोउ सुनु बिहङ्गबर॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12050,8 +14299,11 @@ unicode_script = "devanagari"
 भक्ति और ज्ञान में कुछ भी भेद नहीं है। दोनों ही संसार से उत्पन्न क्लेशों को हर लेते हैं। हे नाथ! मुनीश्वर इनमें कुछ अन्तर बतलाते हैं। हे पक्षीश्रेष्ठ! उसे सावधान होकर सुनिए॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यान बिराग जोग बिग्याना। ए सब पुरुष सुनहु हरिजाना॥  
 पुरुष प्रताप प्रबल सब भाँती। अबला अबल सहज जड जाती॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12070,8 +14322,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुरुष त्यागि सक नारिहि जो बिरक्त मति धीर।  
 न तु कामी बिषयाबस बिमुख जो पद रघुबीर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12087,8 +14342,11 @@ unicode_script = "devanagari"
 
 
 ### 02 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोउ मुनि ग्याननिधान मृगनयनी बिधु मुख निरखि।  
 बिबस होइ हरिजान नारि बिष्नु माया प्रगट॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12106,8 +14364,11 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इहाँ न पच्छपात कछु राखउँ। बेद पुरान सन्त मत भाषउँ॥  
 मोह न नारि नारि कें रूपा। पन्नगारि यह रीति अनूपा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12120,8 +14381,11 @@ unicode_script = "devanagari"
 यहाँ मैं कुछ पक्षपात नहीं रखता। वेद, पुराण और सन्तों का मत (सिद्धान्त) ही कहता हूँ। हे गरुडजी! यह अनुपम (विलक्षण) रीति है कि एक स्त्री के रूप पर दूसरी स्त्री मोहित नहीं होती॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 माया भगति सुनहु तुम्ह दोऊ। नारि बर्ग जानइ सब कोऊ॥  
 पुनि रघुबीरहि भगति पिआरी। माया खलु नर्तकी बिचारी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12134,8 +14398,11 @@ unicode_script = "devanagari"
 आप सुनिए, माया और भक्ति- ये दोनों ही स्त्री वर्ग की हैं, यह सब कोई जानते हैं। फिर श्री रघुवीर को भक्ति प्यारी है। माया बेचारी तो निश्चय ही नाचने वाली (नटिनी मात्र) है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भगतिहि सानुकूल रघुराया। ताते तेहि डरपति अति माया॥  
 राम भगति निरुपम निरुपाधी। बसइ जासु उर सदा अबाधी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12148,8 +14415,11 @@ unicode_script = "devanagari"
 श्री रघुनाथजी भक्ति के विशेष अनुकूल रहते हैं। इसी से माया उससे अत्यन्त डरती रहती है। जिसके हृदय में उपमारहित और उपाधिरहित (विशुद्ध) रामभक्ति सदा बिना किसी बाधा (रोक-टोक) के बसती है,॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेहि बिलोकि माया सकुचाई। करि न सकइ कछु निज प्रभुताई॥  
 अस बिचारि जे मुनि बिग्यानी। जाचहिं भगति सकल सुख खानी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12168,8 +14438,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यह रहस्य रघुनाथ कर बेगि न जानइ कोइ।  
 जो जानइ रघुपति कृपाँ सपनेहुँ मोह न होइ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12182,8 +14455,11 @@ unicode_script = "devanagari"
 श्री रघुनाथजी का यह रहस्य (गुप्त मर्म) जल्दी कोई भी नहीं जान पाता। श्री रघुनाथजी की कृपा से जो इसे जान जाता है, उसे स्वप्न में भी मोह नहीं होता॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 औरउ ग्यान भगति कर भेद सुनहु सुप्रबीन।  
 जो सुनि होइ राम पद प्रीति सदा अबिछीन॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12200,8 +14476,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-400.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनहु तात यह अकथ कहानी। समुझत बनइ न जाइ बखानी॥  
 ईस्वर अंस जीव अबिनासी। चेतन अमल सहज सुख रासी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12214,8 +14493,11 @@ unicode_script = "devanagari"
 हे तात! यह अकथनीय कहानी (वार्ता) सुनिए। यह समझते ही बनती है, कही नहीं जा सकती। जीव ईश्वर का अंश है। (अतएव) वह अविनाशी, चेतन, निर्मल और स्वभाव से ही सुख की राशि है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो मायाबस भयउ गोसाईं। बँध्यो कीर मरकट की नाईं॥  
 जड चेतनहि ग्रन्थि परि गई। जदपि मृषा छूटत कठिनई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12228,8 +14510,11 @@ unicode_script = "devanagari"
 हे गोसाईं ! वह माया के वशीभूत होकर तोते और वानर की भाँति अपने आप ही बँध गया। इस प्रकार जड और चेतन में ग्रन्थि (गाँठ) पड गई। यद्यपि वह ग्रन्थि मिथ्या ही है, तथापि उसके छूटने में कठिनता है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब ते जीव भयउ संसारी। छूट न ग्रन्थि न होइ सुखारी॥  
 श्रुति पुरान बहु कहेउ उपाई। छूट न अधिक अधिक अरुझाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12242,8 +14527,11 @@ unicode_script = "devanagari"
 तभी से जीव संसारी (जन्मने-मरने वाला) हो गया। अब न तो गाँठ छूटती है और न वह सुखी होता है। वेदों और पुराणों ने बहुत से उपाय बतलाए हैं, पर वह (ग्रन्थि) छूटती नहीं वरन अधिकाधिक उलझती ही जाती है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जीव हृदयँ तम मोह बिसेषी। ग्रन्थि छूट किमि परइ न देखी॥  
 अस सञ्जोग ईस जब करई। तबहुँ कदाचित सो निरुअरई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12256,8 +14544,11 @@ unicode_script = "devanagari"
 जीव के हृदय में अज्ञान रूपी अन्धकार विशेष रूप से छा रहा है, इससे गाँठ देख ही नहीं पडती, छूटे तो कैसे? जब कभी ईश्वर ऐसा संयोग (जैसा आगे कहा जाता है) उपस्थित कर देते हैं तब भी कदाचित्‌ ही वह (ग्रन्थि) छूट पाती है॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सात्विक श्रद्धा धेनु सुहाई। जौं हरि कृपाँ हृदयँ बस आई॥  
 जप तप ब्रत जम नियम अपारा। जे श्रुति कह सुभ धर्म अचारा॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12270,8 +14561,11 @@ unicode_script = "devanagari"
 श्री हरि की कृपा से यदि सात्विकी श्रद्धा रूपी सुन्दर गो हृदय रूपी घर में आकर बस जाए, असङ्ख्य जप, तप व्रत यम और नियमादि शुभ धर्म और आचार (आचरण), जो श्रुतियों ने कहे हैं,॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेइ तृन हरित चरै जब गाई। भाव बच्छ सिसु पाइ पेन्हाई॥  
 नोइ निबृत्ति पात्र बिस्वासा। निर्मल मन अहीर निज दासा॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12284,8 +14578,11 @@ unicode_script = "devanagari"
 उन्हीं (धर्माचार रूपी) हरे तृणों (घास) को जब वह गो चरे और आस्तिक भाव रूपी छोटे बछडे को पाकर वह पेन्हावे। निवृत्ति (सांसारिक विषयों से और प्रपञ्च से हटना) नोई (गो के दुहते समय पिछले पैर बाँधने की रस्सी) है, विश्वास (दूध दुहने का) बरतन है, निर्मल (निष्पाप) मन जो स्वयं अपना दास है। (अपने वश में है), दुहने वाला अहीर है॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परम धर्ममय पय दुहि भाई। अवटै अनल अकाम बनाई॥  
 तोष मरुत तब छमाँ जुडावै। धृति सम जावनु देइ जमावै॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12298,8 +14595,11 @@ unicode_script = "devanagari"
 हे भाई, इस प्रकार (धर्माचार में प्रवृत्त सात्विकी श्रद्धा रूपी गो से भाव, निवृत्ति और वश में किए हुए निर्मल मन की सहायता से) परम धर्ममय दूध दुहकर उसे निष्काम भाव रूपी अग्नि पर भली-भाँति औटावें। फिर क्षमा और सन्तोष रूपी हवा से उसे ठण्डा करें और धैर्य तथा शम (मन का निग्रह) रूपी जामन देकर उसे जमावें॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मुदिताँ मथै बिचार मथानी। दम अधार रजु सत्य सुबानी॥  
 तब मथि काढि लेइ नवनीता। बिमल बिराग सुभग सुपुनीता॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12318,8 +14618,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जोग अगिनि करि प्रगट तब कर्म सुभासुभ लाइ।  
 बुद्धि सिरावै ग्यान घृत ममता मल जरि जाइ॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12332,8 +14635,11 @@ unicode_script = "devanagari"
 तब योग रूपी अग्नि प्रकट करके उसमें समस्त शुभाशुभ कर्म रूपी ईन्धन लगा दें (सब कर्मों को योग रूपी अग्नि में भस्म कर दें)। जब (वैराग्य रूपी मक्खन का) ममता रूपी मल, जल जाए, तब (बचे हुए) ज्ञान रूपी घी को (निश्चयात्मिका) बुद्धि से ठण्डा करें॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब बिग्यानरूपिनी बुद्धि बिसद घृत पाइ।  
 चित्त दिआ भरि धरै दृढ समता दिअटि बनाइ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12346,8 +14652,11 @@ unicode_script = "devanagari"
 तब विज्ञान रूपिणी बुद्धि उस (ज्ञान रूपी) निर्मल घी को पाकर उससे चित्त रूपी दीए को भरकर, समता की दीवट बनाकर, उस पर उसे दृढतापूर्वक (जमाकर) रखें॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तीनि अवस्था तीनि गुन तेहि कपास तें काढि।  
 तूल तुरीय सँवारि पुनि बाती करै सुगाढि॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12363,8 +14672,11 @@ unicode_script = "devanagari"
 
 
 ### 02 सोरठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि बिधि लेसै दीप तेज रासि बिग्यानमय।  
 जातहिं जासु समीप जरहिं मदादिक सलभ सब॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12382,8 +14694,11 @@ unicode_script = "devanagari"
 
 
 ### 03 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोहमस्मि इति बृत्ति अखण्डा। दीप सिखा सोइ परम प्रचण्डा॥  
 आतम अनुभव सुख सुप्रकासा। तब भव मूल भेद भ्रम नासा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12396,8 +14711,11 @@ unicode_script = "devanagari"
 'सोऽहमस्मि' (वह ब्रह्म मैं हूँ) यह जो अखण्ड (तैलधारावत्‌ कभी न टूटने वाली) वृत्ति है, वही (उस ज्ञानदीपक की) परम प्रचण्ड दीपशिखा (लौ) है। (इस प्रकार) जब आत्मानुभव के सुख का सुन्दर प्रकाश फैलता है, तब संसार के मूल भेद रूपी भ्रम का नाश हो जाता है,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रबल अबिद्या कर परिवारा। मोह आदि तब मिटइ अपारा॥  
 तब सोइ बुद्धि पाइ उँजिआरा। उर गृहँ बैठि ग्रन्थि निरुआरा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12410,8 +14728,11 @@ unicode_script = "devanagari"
  और महान्‌ बलवती अविद्या के परिवार मोह आदि का अपार अन्धकार मिट जाता है। तब वही (विज्ञानरूपिणी) बुद्धि (आत्मानुभव रूप) प्रकाश को पाकर हृदय रूपी घर में बैठकर उस जड चेतन की गाँठ को खोलती है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 छोरन ग्रन्थि पाव जौं सोई। तब यह जीव कृतारथ होई॥  
 छोरत ग्रन्थ जानि खगराया। बिघ्न नेक करइ तब माया॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12424,8 +14745,11 @@ unicode_script = "devanagari"
 यदि वह (विज्ञान रूपिणी बुद्धि) उस गाँठ को खोलने पावे, तब यह जीव कृतार्थ हो, परन्तु हे पक्षीराज गरुडजी! गाँठ खोलते हुए जानकर माया फिर अनेकों विघ्न करती है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रिद्धि-सिद्धि प्रेरइ बहु भाई। बुद्धिहि लोभ दिखावहिं आई॥  
 कल बल छल करि जाहिं समीपा। अञ्चल बात बुझावहिं दीपा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12440,8 +14764,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-401.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 होइ बुद्धि जौं परम सयानी। तिन्ह तन चितव न अनहित जानी॥  
 जौं तेहि बिघ्न बुद्धि नहिं बाधी। तौ बहोरि सुर करहिं उपाधी॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12454,8 +14781,11 @@ unicode_script = "devanagari"
 यदि बुद्धि बहुत ही सयानी हुई, तो वह उन (ऋद्धि-सिद्धियों) को अहितकर (हानिकर) समझकर उनकी ओर ताकती नहीं। इस प्रकार यदि माया के विघ्नों से बुद्धि को बाधा न हुई, तो फिर देवता उपाधि (विघ्न) करते हैं॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इन्द्री द्वार झरोखा नाना। तहँ तहँ सुर बैठे करि थाना॥  
 आवत देखहिं बिषय बयारी। ते हठि देहिं कपाट उघारी॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12468,8 +14798,11 @@ unicode_script = "devanagari"
 इन्द्रियों के द्वार हृदय रूपी घर के अनेकों झरोखे हैं। वहाँ-वहाँ (प्रत्येक झरोखे पर) देवता थाना किए (अड्डा जमाकर) बैठे हैं। ज्यों ही वे विषय रूपी हवा को आते देखते हैं, त्यों ही हठपूर्वक किवाड खोल देते हैं॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जब सो प्रभञ्जन उर गृहँ जाई। तबहिं दीप बिग्यान बुझाई॥  
 ग्रन्थि न छूटि मिटा सो प्रकासा। बुद्धि बिकल भइ बिषय बतासा॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12482,8 +14815,11 @@ unicode_script = "devanagari"
 सज्यों ही वह तेज हवा हृदय रूपी घर में जाती है, त्यों ही वह विज्ञान रूपी दीपक बुझ जाता है। गाँठ भी नहीं छूटी और वह (आत्मानुभव रूप) प्रकाश भी मिट गया। विषय रूपी हवा से बुद्धि व्याकुल हो गई (सारा किया-कराया चौपट हो गया)॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इन्द्रिन्ह सुरन्ह न ग्यान सोहाई। बिषय भोग पर प्रीति सदाई॥  
 बिषय समीर बुद्धि कत भोरी। तेहि बिधि दीप को बार बहोरी॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12502,8 +14838,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तब फिरि जीव बिबिधि बिधि पावइ संसृति क्लेस।  
 हरि माया अति दुस्तर तरि न जाइ बिहगेस॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12516,8 +14855,11 @@ unicode_script = "devanagari"
 (इस प्रकार ज्ञान दीपक के बुझ जाने पर) तब फिर जीव अनेकों प्रकार से संसृति (जन्म-मरणादि) के क्लेश पाता है। हे पक्षीराज! हरि की माया अत्यन्त दुस्तर है, वह सहज ही में तरी नहीं जा सकती॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहत कठिन समुझत कठिन साधत कठिन बिबेक।  
 होइ घुनाच्छर न्याय जौं पुनि प्रत्यूह अनेक॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12535,8 +14877,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ग्यान पन्थ कृपान कै धारा। परत खगेस होइ नहिं बारा॥  
 जो निर्बिघ्न पन्थ निर्बहई। सो कैवल्य परम पद लहई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12549,8 +14894,11 @@ unicode_script = "devanagari"
 ज्ञान का मार्ग कृपाण (दोधारी तलवार) की धार के समान है। हे पक्षीराज! इस मार्ग से गिरते देर नहीं लगती। जो इस मार्ग को निर्विघ्न निबाह ले जाता है, वही कैवल्य (मोक्ष) रूप परमपद को प्राप्त करता है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अति दुर्लभ कैवल्य परम पद। सन्त पुरान निगम आगम बद॥  
 राम भजत सोइ मुकुति गोसाईं। अनइच्छित आवइ बरिआईं॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12563,8 +14911,11 @@ unicode_script = "devanagari"
 सन्त, पुराण, वेद और (तन्त्र आदि) शास्त्र (सब) यह कहते हैं कि कैवल्य रूप परमपद अत्यन्त दुर्लभ है, किन्तु हे गोसाईं! वही (अत्यन्त दुर्लभ) मुक्ति श्री रामजी को भजने से बिना इच्छा किए भी जबर्दस्ती आ जाती है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जिमि थल बिनु जल रहि न सकाई। कोटि भाँति कोउ करै उपाई॥  
 तथा मोच्छ सुख सुनु खगराई। रहि न सकइ हरि भगति बिहाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12577,8 +14928,11 @@ unicode_script = "devanagari"
 जैसे स्थल के बिना जल नहीं रह सकता, चाहे कोई करोडों प्रकार के उपाय क्यों न करे। वैसे ही, हे पक्षीराज! सुनिए, मोक्षसुख भी श्री हरि की भक्ति को छोडकर नहीं रह सकता॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस बिचारि हरि भगत सयाने। मुक्ति निरादर भगति लुभाने॥  
 भगति करत बिनु जतन प्रयासा। संसृति मूल अबिद्या नासा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12591,8 +14945,11 @@ unicode_script = "devanagari"
 ऐसा विचार कर बुद्धिमान्‌ हरि भक्त भक्ति पर लुभाए रहकर मुक्ति का तिरस्कार कर देते हैं। भक्ति करने से संसृति (जन्म-मृत्यु रूप संसार) की जड अविद्या बिना ही यन्त्र और परिश्रम के (अपने आप) वैसे ही नष्ट हो जाती है,॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भोजन करिअ तृपिति हित लागी। जिमि सो असन पचवै जठरागी॥  
 असि हरि भगति सुगम सुखदाई। को अस मूढ न जाहि सोहाई॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12611,8 +14968,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सेवक सेब्य भाव बिनु भव न तरिअ उरगारि।  
 भजहु राम पद पङ्कज अस सिद्धान्त बिचारि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12625,8 +14985,11 @@ unicode_script = "devanagari"
 हे सर्पों के शत्रु गरुडजी! मैं सेवक हूँ और भगवान्‌ मेरे सेव्य (स्वामी) हैं, इस भाव के बिना संसार रूपी समुद्र से तरना नहीं हो सकता। ऐसा सिद्धान्त विचारकर श्री रामचन्द्रजी के चरण कमलों का भजन कीजिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जो चेतन कहँ जड करइ जडहि करइ चैतन्य।  
 अस समर्थ रघुनायकहि भजहिं जीव ते धन्य॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12644,8 +15007,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहेउँ ग्यान सिद्धान्त बुझाई। सुनहु भगति मनि कै प्रभुताई॥  
 राम भगति चिन्तामनि सुन्दर। बसइ गरुड जाके उर अन्तर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12658,8 +15024,11 @@ unicode_script = "devanagari"
 मैन्ने ज्ञान का सिद्धान्त समझाकर कहा। अब भक्ति रूपी मणि की प्रभुता (महिमा) सुनिए। श्री रामजी की भक्ति सुन्दर चिन्तामणि है। हे गरुडजी! यह जिसके हृदय के अन्दर बसती है,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 परम प्रकास रूप दिन राती। नहिं कछु चहिअ दिआ घृत बाती॥  
 मोह दरिद्र निकट नहिं आवा। लोभ बात नहिं ताहि बुझावा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12674,8 +15043,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-402.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रबल अबिद्या तम मिटि जाई। हारहिं सकल सलभ समुदाई॥  
 खल कामादि निकट नहिं जाहीं। बसइ भगति जाके उर माहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12688,8 +15060,11 @@ unicode_script = "devanagari"
 (उसके प्रकाश से) अविद्या का प्रबल अन्धकार मिट जाता है। मदादि पतङ्गों का सारा समूह हार जाता है। जिसके हृदय में भक्ति बसती है, काम, क्रोध और लोभ आदि दुष्ट तो उसके पास भी नहीं जाते॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गरल सुधासम अरि हित होई। तेहि मनि बिनु सुख पाव न कोई॥  
 दब्यापहिं मानस रोग न भारी। जिन्ह के बस सब जीव दुखारी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12702,8 +15077,11 @@ unicode_script = "devanagari"
 उसके लिए विष अमृत के समान और शत्रु मित्र हो जाता है। उस मणि के बिना कोई सुख नहीं पाता। बडे-बडे मानस रोग, जिनके वश होकर सब जीव दुःखी हो रहे हैं, उसको नहीं व्यापते॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम भगति मनि उर बस जाकें। दुख लवलेस न सपनेहुँ ताकें॥  
 चतुर सिरोमनि तेइ जग माहीं। जे मनि लागि सुजतन कराहीं॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12716,8 +15094,11 @@ unicode_script = "devanagari"
 श्री रामभक्ति रूपी मणि जिसके हृदय में बसती है, उसे स्वप्न में भी लेशमात्र दुःख नहीं होता। जगत में वे ही मनुष्य चतुरों के शिरोमणि हैं जो उस भक्ति रूपी मणि के लिए भली-भाँति यत्न करते हैं॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो मनि जदपि प्रगट जग अहई। राम कृपा बिनु नहिं कोउ लहई॥  
 सुगम उपाय पाइबे केरे। नर हतभाग्य देहिं भटभेरे॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12730,8 +15111,11 @@ unicode_script = "devanagari"
 यद्यपि वह मणि जगत्‌ में प्रकट (प्रत्यक्ष) है, पर बिना श्री रामजी की कृपा के उसे कोई पा नहीं सकता। उसके पाने के उपाय भी सुगम ही हैं, पर अभागे मनुष्य उन्हें ठुकरा देते हैं॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पावन पर्बत बेद पुराना। राम कथा रुचिराकर नाना॥  
 मर्मी सज्जन सुमति कुदारी। ग्यान बिराग नयन उरगारी॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12744,8 +15128,11 @@ unicode_script = "devanagari"
 वेद-पुराण पवित्र पर्वत हैं। श्री रामजी की नाना प्रकार की कथाएँ उन पर्वतों में सुन्दर खानें हैं। सन्त पुरुष (उनकी इन खानों के रहस्य को जानने वाले) मर्मी हैं और सुन्दर बुद्धि (खोदने वाली) कुदाल है। हे गरुडजी! ज्ञान और वैराग्य ये दो उनके नेत्र हैं॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भाव सहित खोजइ जो प्रानी। पाव भगति मनि सब सुख खानी॥  
 मोरें मन प्रभु अस बिस्वासा। राम ते अधिक राम कर दासा॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12758,8 +15145,11 @@ unicode_script = "devanagari"
 जो प्राणी उसे प्रेम के साथ खोजता है, वह सब सुखों की खान इस भक्ति रूपी मणि को पा जाता है। हे प्रभो! मेरे मन में तो ऐसा विश्वास है कि श्री रामजी के दास श्री रामजी से भी बढकर हैं॥8॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम सिन्धु घन सज्जन धीरा। चन्दन तरु हरि सन्त समीरा॥  
 सब कर फल हरि भगति सुहाई। सो बिनु सन्त न काहूँ पाई॥9॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12772,7 +15162,10 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी समुद्र हैं तो धीर सन्त पुरुष मेघ हैं। श्री हरि चन्दन के वृक्ष हैं तो सन्त पवन हैं। सब साधनों का फल सुन्दर हरि भक्ति ही है। उसे सन्त के बिना किसी ने नहीं पाया॥9॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस बिचारि जोइ कर सतसङ्गा। राम भगति तेहि सुलभ बिहङ्गा॥10॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12790,8 +15183,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्रह्म पयोनिधि मन्दर ग्यान सन्त सुर आहिं।  
 कथा सुधा मथि काढहिं भगति मधुरता जाहिं॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12804,8 +15200,11 @@ unicode_script = "devanagari"
 ब्रह्म (वेद) समुद्र है, ज्ञान मन्दराचल है और सन्त देवता हैं, जो उस समुद्र को मथकर कथा रूपी अमृत निकालते हैं, जिसमें भक्ति रूपी मधुरता बसी रहती है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिरति चर्म असि ग्यान मद लोभ मोह रिपु मारि।  
 जय पाइअ सो हरि भगति देखु खगेस बिचारि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12822,8 +15221,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुनि सप्रेम बोलेउ खगराऊ। जौं कृपाल मोहि ऊपर भाऊ॥।  
 नाथ मोहि निज सेवक जानी। सप्त प्रस्न मम कहहु बखानी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12836,8 +15238,11 @@ unicode_script = "devanagari"
 पक्षीराज गरुडजी फिर प्रेम सहित बोले- हे कृपालु! यदि मुझ पर आपका प्रेम है, तो हे नाथ! मुझे अपना सेवक जानकर मेरे सात प्रश्नों के उत्तर बखान कर कहिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रथमहिं कहहु नाथ मतिधीरा। सब ते दुर्लभ कवन सरीरा॥  
 बड दुख कवन कवन सुख भारी। सोउ सञ्छेपहिं कहहु बिचारी॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12850,8 +15255,11 @@ unicode_script = "devanagari"
 हे नाथ! हे धीर बुद्धि! पहले तो यह बताइए कि सबसे दुर्लभ कौन सा शरीर है फिर सबसे बडा दुःख कौन है और सबसे बडा सुख कौन है, यह भी विचार कर सङ्क्षेप में ही कहिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त असन्त मरम तुम्ह जानहु। तिन्ह कर सहज सुभाव बखानहु॥  
 कवन पुन्य श्रुति बिदित बिसाला। कहहु कवन अघ परम कराला॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12864,8 +15272,11 @@ unicode_script = "devanagari"
 सन्त और असन्त का मर्म (भेद) आप जानते हैं, उनके सहज स्वभाव का वर्णन कीजिए। फिर कहिए कि श्रुतियों में प्रसिद्ध सबसे महान्‌ पुण्य कौन सा है और सबसे महान्‌ भयङ्कर पाप कौन है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मानस रोग कहहु समुझाई। तुम्ह सर्बग्य कृपा अधिकाई॥  
 तात सुनहु सादर अति प्रीती। मैं सञ्छेप कहउँ यह नीती॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12878,8 +15289,11 @@ unicode_script = "devanagari"
 फिर मानस रोगों को समझाकर कहिए। आप सर्वज्ञ हैं और मुझ पर आपकी कृपा भी बहुत है। (काकभुशुण्डिजी ने कहा-) हे तात अत्यन्त आदर और प्रेम के साथ सुनिए। मैं यह नीति सङ्क्षेप से कहता हूँ॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नर तन सम नहिं कवनिउ देही। जीव चराचर जाचत तेही॥  
 नरक स्वर्ग अपबर्ग निसेनी। ग्यान बिराग भगति सुभ देनी॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12892,8 +15306,11 @@ unicode_script = "devanagari"
 मनुष्य शरीर के समान कोई शरीर नहीं है। चर-अचर सभी जीव उसकी याचना करते हैं। वह मनुष्य शरीर नरक, स्वर्ग और मोक्ष की सीढी है तथा कल्याणकारी ज्ञान, वैराग्य और भक्ति को देने वाला है॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो तनु धरि हरि भजहिं न जे नर। होहिं बिषय रत मन्द मन्द तर॥  
 काँच किरिच बदलें ते लेहीं। कर ते डारि परस मनि देहीं॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12908,8 +15325,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-403.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नहिं दरिद्र सम दुख जग माहीं। सन्त मिलन सम सुख जग नाहीं॥  
 पर उपकार बचन मन काया। सन्त सहज सुभाउ खगराया॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12922,8 +15342,11 @@ unicode_script = "devanagari"
 जगत्‌ में दरिद्रता के समान दुःख नहीं है तथा सन्तों के मिलने के समान जगत्‌ में सुख नहीं है। और हे पक्षीराज! मन, वचन और शरीर से परोपकार करना, यह सन्तों का सहज स्वभाव है॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त सहहिं दुख पर हित लागी। पर दुख हेतु असन्त अभागी॥  
 भूर्ज तरू सम सन्त कृपाला। पर हित निति सह बिपति बिसाला॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12936,8 +15359,11 @@ unicode_script = "devanagari"
 सन्त दूसरों की भलाई के लिए दुःख सहते हैं और अभागे असन्त दूसरों को दुःख पहुँचाने के लिए। कृपालु सन्त भोज के वृक्ष के समान दूसरों के हित के लिए भारी विपत्ति सहते हैं (अपनी खाल तक उधडवा लेते हैं)॥8॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन इव खल पर बन्धन करई। खाल कढाई बिपति सहि मरई॥  
 खल बिनु स्वारथ पर अपकारी। अहि मूषक इव सुनु उरगारी॥9॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12950,8 +15376,11 @@ unicode_script = "devanagari"
 किन्तु दुष्ट लोग सन की भाँति दूसरों को बाँधते हैं और (उन्हें बाँधने के लिए) अपनी खाल खिञ्चवाकर विपत्ति सहकर मर जाते हैं। हे सर्पों के शत्रु गरुडजी! सुनिए, दुष्ट बिना किसी स्वार्थ के साँप और चूहे के समान अकारण ही दूसरों का अपकार करते हैं॥9॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पर सम्पदा बिनासि नसाहीं। जिमि ससि हति हिम उपल बिलाहीं॥  
 दुष्ट उदय जग आरति हेतू। जथा प्रसिद्ध अधम ग्रह केतू॥10॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12964,8 +15393,11 @@ unicode_script = "devanagari"
 वे पराई सम्पत्ति का नाश करके स्वयं नष्ट हो जाते हैं, जैसे खेती का नाश करके ओले नष्ट हो जाते हैं। दुष्ट का अभ्युदय (उन्नति) प्रसिद्ध अधम ग्रह केतु के उदय की भाँति जगत के दुःख के लिए ही होता है॥10॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त उदय सन्तत सुखकारी। बिस्व सुखद जिमि इन्दु तमारी॥  
 परम धर्म श्रुति बिदित अहिंसा। पर निन्दा सम अघ न गरीसा॥11॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12978,8 +15410,11 @@ unicode_script = "devanagari"
 और सन्तों का अभ्युदय सदा ही सुखकर होता है, जैसे चन्द्रमा और सूर्य का उदय विश्व भर के लिए सुखदायक है। वेदों में अहिंसा को परम धर्म माना है और परनिन्दा के समान भारी पाप नहीं है॥11॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हर गुर निन्दक दादुर होई। जन्म सहस्र पाव तन सोई॥  
 द्विज निन्दक बहु नरक भोग करि। जग जनमइ बायस सरीर धरि॥12॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -12992,8 +15427,11 @@ unicode_script = "devanagari"
 शङ्करजी और गुरु की निन्दा करने वाला मनुष्य (अगले जन्म में) मेण्ढक होता है और वह हजार जन्म तक वही मेण्ढक का शरीर पाता है। ब्राह्मणों की निन्दा करने वाला व्यक्ति बहुत से नरक भोगकर फिर जगत्‌ में कौए का शरीर धारण करके जन्म लेता है॥12॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुर श्रुति निन्दक जे अभिमानी। रौरव नरक परहिं ते प्रानी॥  
 होहिं उलूक सन्त निन्दा रत। मोह निसा प्रिय ग्यान भानु गत॥13॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13006,8 +15444,11 @@ unicode_script = "devanagari"
 जो अभिमानी जीव देवताओं और वेदों की निन्दा करते हैं, वे रौरव नरक में पडते हैं। सन्तों की निन्दा में लगे हुए लोग उल्लू होते हैं, जिन्हें मोह रूपी रात्रि प्रिय होती है और ज्ञान रूपी सूर्य जिनके लिए बीत गया (अस्त हो गया) रहता है॥13॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब कै निन्दा जे जड करहीं। ते चमगादुर होइ अवतरहीं॥  
 सुनहु तात अब मानस रोगा। जिन्ह ते दुख पावहिं सब लोगा॥14॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13020,8 +15461,11 @@ unicode_script = "devanagari"
 जो मूर्ख मनुष्य सब की निन्दा करते हैं, वे चमगादड होकर जन्म लेते हैं। हे तात! अब मानस रोग सुनिए, जिनसे सब लोग दुःख पाया करते हैं॥14॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोह सकल ब्याधिन्ह कर मूला। तिन्ह ते पुनि उपजहिं बहु सूला॥  
 काम बात कफ लोभ अपारा। क्रोध पित्त नित छाती जारा॥15॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13034,8 +15478,11 @@ unicode_script = "devanagari"
 सब रोगों की जड मोह (अज्ञान) है। उन व्याधियों से फिर और बहुत से शूल उत्पन्न होते हैं। काम वात है, लोभ अपार (बढा हुआ) कफ है और क्रोध पित्त है जो सदा छाती जलाता रहता है॥15॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रीति करहिं जौं तीनिउ भाई। उपजइ सन्यपात दुखदाई॥  
 बिषय मनोरथ दुर्गम नाना। ते सब सूल नाम को जाना॥16॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13048,8 +15495,11 @@ unicode_script = "devanagari"
 यदि कहीं ये तीनों भाई (वात, पित्त और कफ) प्रीति कर लें (मिल जाएँ), तो दुःखदायक सन्निपात रोग उत्पन्न होता है। कठिनता से प्राप्त (पूर्ण) होने वाले जो विषयों के मनोरथ हैं, वे ही सब शूल (कष्टदायक रोग) हैं, उनके नाम कौन जानता है (अर्थात्‌ वे अपार हैं)॥16॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ममता दादु कण्डु इरषाई। हरष बिषाद गरह बहुताई॥  
 पर सुख देखि जरनि सोइ छई। कुष्ट दुष्टता मन कुटिलई॥17॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13062,8 +15512,11 @@ unicode_script = "devanagari"
 ममता दाद है, ईर्षा (डाह) खुजली है, हर्ष-विषाद गले के रोगों की अधिकता है (गलगण्ड, कण्ठमाला या घेघा आदि रोग हैं), पराए सुख को देखकर जो जलन होती है, वही क्षयी है। दुष्टता और मन की कुटिलता ही कोढ है॥17॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अहङ्कार अति दुखद डमरुआ। दम्भ कपट मद मान नेहरुआ॥  
 तृस्ना उदरबृद्धि अति भारी। त्रिबिधि ईषना तरुन तिजारी॥18॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13089,8 +15542,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एक ब्याधि बस नर मरहिं ए असाधि बहु ब्याधि।  
 पीडहिं सन्तत जीव कहुँ सो किमि लहै समाधि॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13103,8 +15559,11 @@ unicode_script = "devanagari"
 एक ही रोग के वश होकर मनुष्य मर जाते हैं, फिर ये तो बहुत से असाध्य रोग हैं। ये जीव को निरन्तर कष्ट देते रहते हैं, ऐसी दशा में वह समाधि (शान्ति) को कैसे प्राप्त करे?॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नेम धर्म आचार तप ग्यान जग्य जप दान।  
 भेषज पुनि कोटिन्ह नहिं रोग जाहिं हरिजान॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13121,8 +15580,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-404.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि बिधि सकल जीव जग रोगी। सोक हरष भय प्रीति बियोगी॥  
 मानस रोग कछुक मैं गाए। हहिं सब कें लखि बिरलेन्ह पाए॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13135,8 +15597,11 @@ unicode_script = "devanagari"
 इस प्रकार जगत्‌ में समस्त जीव रोगी हैं, जो शोक, हर्ष, भय, प्रीति और वियोग के दुःख से और भी दुःखी हो रहे हैं। मैन्ने ये थोडे से मानस रोग कहे हैं। ये हैं तो सबको, परन्तु इन्हें जान पाए हैं कोई विरले ही॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जाने ते छीजहिं कछु पापी। नास न पावहिं जन परितापी॥  
 बिषय कुपथ्य पाइ अङ्कुरे। मुनिहु हृदयँ का नर बापुरे॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13149,8 +15614,11 @@ unicode_script = "devanagari"
 प्राणियों को जलाने वाले ये पापी (रोग) जान लिए जाने से कुछ क्षीण अवश्य हो जाते हैं, परन्तु नाश को नहीं प्राप्त होते। विषय रूप कुपथ्य पाकर ये मुनियों के हृदय में भी अङ्कुरित हो उठते हैं, तब बेचारे साधारण मनुष्य तो क्या चीज हैं॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम कृपाँ नासहिं सब रोगा। जौं एहि भाँति बनै सञ्जोगा॥  
 सदगुर बैद बचन बिस्वासा। सञ्जम यह न बिषय कै आसा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13163,8 +15631,11 @@ unicode_script = "devanagari"
 यदि श्री रामजी की कृपा से इस प्रकार का संयोग बन जाए तो ये सब रोग नष्ट हो जाएँ। सद्गुरु रूपी वैद्य के वचन में विश्वास हो। विषयों की आशा न करे, यही संयम (परहेज) हो॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रघुपति भगति सजीवन मूरी। अनूपान श्रद्धा मति पूरी॥  
 एहि बिधि भलेहिं सो रोग नसाहीं। नाहिं त जतन कोटि नहिं जाहीं॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13177,8 +15648,11 @@ unicode_script = "devanagari"
 श्री रघुनाथजी की भक्ति सञ्जीवनी जडी है। श्रद्धा से पूर्ण बुद्धि ही अनुपान (दवा के साथ लिया जाने वाला मधु आदि) है। इस प्रकार का संयोग हो तो वे रोग भले ही नष्ट हो जाएँ, नहीं तो करोडों प्रयत्नों से भी नहीं जाते॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जानिअ तब मन बिरुज गोसाँई। जब उर बल बिराग अधिकाई॥  
 सुमति छुधा बाढइ नित नई। बिषय आस दुर्बलता गई॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13191,8 +15665,11 @@ unicode_script = "devanagari"
 हे गोसाईं! मन को निरोग हुआ तब जानना चाहिए, जब हृदय में वैराग्य का बल बढ जाए, उत्तम बुद्धि रूपी भूख नित नई बढती रहे और विषयों की आशा रूपी दुर्बलता मिट जाए॥5॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बिमल ग्यान जल जब सो नहाई। तब रह राम भगति उर छाई॥  
 सिव अज सुक सनकादिक नारद। जे मुनि ब्रह्म बिचार बिसारद॥6॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13205,8 +15682,11 @@ unicode_script = "devanagari"
 इस प्रकार सब रोगों से छूटकर जब मनुष्य निर्मल ज्ञान रूपी जल में स्नान कर लेता है, तब उसके हृदय में राम भक्ति छा रहती है। शिवजी, ब्रह्माजी, शुकदेवजी, सनकादि और नारद आदि ब्रह्मविचार में परम निपुण जो मुनि हैं,॥6॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सब कर मत खगनायक एहा। करिअ राम पद पङ्कज नेहा॥  
 श्रुति पुरान सब ग्रन्थ कहाहीं। रघुपति भगति बिना सुख नाहीं॥7॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13219,8 +15699,11 @@ unicode_script = "devanagari"
 हे पक्षीराज! उन सबका मत यही है कि श्री रामजी के चरणकमलों में प्रेम करना चाहिए। श्रुति, पुराण और सभी ग्रन्थ कहते हैं कि श्री रघुनाथजी की भक्ति के बिना सुख नहीं है॥7॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कमठ पीठ जामहिं बरु बारा। बन्ध्या सुत बरु काहुहि मारा॥  
 फूलहिं नभ बरु बहुबिधि फूला। जीव न लह सुख हरि प्रतिकूला॥8॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13233,8 +15716,11 @@ unicode_script = "devanagari"
 कछुए की पीठ पर भले ही बाल उग आवें, बाँझ का पुत्र भले ही किसी को मार डाले, आकाश में भले ही अनेकों प्रकार के फूल खिल उठें, परन्तु श्री हरि से विमुख होकर जीव सुख नहीं प्राप्त कर सकता॥8॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तृषा जाइ बरु मृगजल पाना। बरु जामहिं सस सीस बिषाना॥  
 अन्धकारु बरु रबिहि नसावै। राम बिमुख न जीव सुख पावै॥9॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13247,7 +15733,10 @@ unicode_script = "devanagari"
 मृगतृष्णा के जल को पीने से भले ही प्यास बुझ जाए, खरगोश के सिर पर भले ही सीङ्ग निकल आवे, अन्धकार भले ही सूर्य का नाश कर दे, परन्तु श्री राम से विमुख होकर जीव सुख नहीं पा सकता॥9॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 हिम ते अनल प्रगट बरु होई। बिमुख राम सुख पाव न कोई॥10॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13265,8 +15754,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 बारि मथें घृत होइ बरु सिकता ते बरु तेल।  
 बिनु हरि भजन न तव तरिअ यह सिद्धान्त अपेल॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13279,8 +15771,11 @@ unicode_script = "devanagari"
 जल को मथने से भले ही घी उत्पन्न हो जाए और बालू (को पेरने) से भले ही तेल निकल आवे, परन्तु श्री हरि के भजन बिना संसार रूपी समुद्र से नहीं तरा जा सकता, यह सिद्धान्त अटल है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मसकहि करइ बिरञ्चि प्रभु अजहि मसक ते हीन।  
 अस बिचारि तजि संसय रामहि भजहिं प्रबीन॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13296,8 +15791,11 @@ unicode_script = "devanagari"
 
 
 ### 02 श्लोक
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विनिश्चितं वदामि ते न अन्यथा वचांसि मे।  
 हरिं नरा भजन्ति येऽतिदुस्तरं तरन्ति ते॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13314,8 +15812,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-405.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहेउँ नाथ हरि चरित अनूपा। ब्यास समास स्वमति अनुरूपा॥  
 श्रुति सिद्धान्त इहइ उरगारी। राम भजिअ सब काज बिसारी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13328,8 +15829,11 @@ unicode_script = "devanagari"
 हे नाथ! मैन्ने श्री हरि का अनुपम चरित्र अपनी बुद्धि के अनुसार कहीं विस्तार से और कहीं सङ्क्षेप से कहा। हे सर्पों के शत्रु गरुडजी ! श्रुतियों का यही सिद्धान्त है कि सब काम भुलाकर (छोडकर) श्री रामजी का भजन करना चाहिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 प्रभु रघुपति तजि सेइअ काही। मोहि से सठ पर ममता जाही॥  
 तुम्ह बिग्यानरूप नहिं मोहा। नाथ कीन्हि मो पर अति छोहा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13342,8 +15846,11 @@ unicode_script = "devanagari"
 प्रभु श्री रघुनाथजी को छोडकर और किसका सेवन (भजन) किया जाए, जिनका मुझ जैसे मूर्ख पर भी ममत्व (स्नेह) है। हे नाथ! आप विज्ञान रूप हैं, आपको मोह नहीं है। आपने तो मुझ पर बडी कृपा की है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पूँछिहु राम कथा अति पावनि। सुक सनकादि सम्भु मन भावनि॥  
 सत सङ्गति दुर्लभ संसारा। निमिष दण्ड भरि एकउ बारा॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13356,8 +15863,11 @@ unicode_script = "devanagari"
 जो आपने मुझ से शुकदेवजी, सनकादि और शिवजी के मन को प्रिय लगने वाली अति पवित्र रामकथा पूछी। संसार में घडी भर का अथवा पल भर का एक बार का भी सत्सङ्ग दुर्लभ है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 देखु गरुड निज हृदयँ बिचारी। मैं रघुबीर भजन अधिकारी॥  
 सकुनाधम सब भाँति अपावन। प्रभु मोहि कीन्ह बिदित जग पावन॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13376,8 +15886,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आजु धन्य मैं धन्य अति जद्यपि सब बिधि हीन।  
 निज जन जानि राम मोहि सन्त समागम दीन॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13390,8 +15903,11 @@ unicode_script = "devanagari"
 यद्यपि मैं सब प्रकार से हीन (नीच) हूँ, तो भी आज मैं धन्य हूँ, अत्यन्त धन्य हूँ, जो श्री रामजी ने मुझे अपना 'निज जन' जानकर सन्त समागम दिया (आपसे मेरी भेण्ट कराई)॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाथ जथामति भाषेउँ राखेउँ नहिं कछु गोइ।  
 चरित सिन्धु रघुनायक थाह कि पावइ कोइ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13409,8 +15925,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुमिरि राम के गुन गन नाना। पुनि पुनि हरष भुसुण्डि सुजाना॥  
 महिमा निगम नेत करि गाई। अतुलित बल प्रताप प्रभुताई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13423,8 +15942,11 @@ unicode_script = "devanagari"
 श्री रामचन्द्रजी के बहुत से गुण समूहों का स्मरण कर-करके सुजान भुशुण्डिजी बार-बार हर्षित हो रहे हैं। जिनकी महिमा वेदों ने 'नेति-नेति' कहकर गाई है, जिनका बल, प्रताप और प्रभुत्व (सामर्थ्य) अतुलनीय है,॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सिव अज पूज्य चरन रघुराई। मो पर कृपा परम मृदुलाई॥  
 अस सुभाउ कहुँ सुनउँ न देखउँ। केहि खगेस रघुपति सम लेखउँ॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13437,8 +15959,11 @@ unicode_script = "devanagari"
 जिन श्री रघुनाथजी के चरण शिवजी और ब्रह्माजी के द्वारा पूज्य हैं, उनकी मुझ पर कृपा होनी उनकी परम कोमलता है। किसी का ऐसा स्वभाव कहीं न सुनता हूँ, न देखता हूँ। अतः हे पक्षीराज गरुडजी! मैं श्री रघुनाथजी के समान किसे गिनूँ (समझूँ)?॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 साधक सिद्ध बिमुक्त उदासी। कबि कोबिद कृतग्य सन्न्यासी॥  
 जोगी सूर सुतापस ग्यानी। धर्म निरत पण्डित बिग्यानी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13451,8 +15976,11 @@ unicode_script = "devanagari"
 साधक, सिद्ध, जीवनमुक्त, उदासीन (विरक्त), कवि, विद्वान, कर्म (रहस्य) के ज्ञाता, सन्न्यासी, योगी, शूरवीर, बडे तपस्वी, ज्ञानी, धर्मपरायण, पण्डित और विज्ञानी-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तरहिं न बिनु सेएँ मम स्वामी। राम नमामि नमामि नमामी॥  
 सरन गएँ मो से अघ रासी। होहिं सुद्ध नमामि अबिनासी॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13471,8 +15999,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जासु नाम भव भेषज हरन घोर त्रय सूल  
 सो कृपाल मोहि तो पर सदा रहउ अनुकूल॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13485,8 +16016,11 @@ unicode_script = "devanagari"
 जिनका नाम जन्म-मरण रूपी रोग की (अव्यर्थ) औषध और तीनों भयङ्कर पीडाओं (आधिदैविक, आधिभौतिक और आध्यात्मिक दुःखों) को हरने वाला है, वे कृपालु श्री रामजी मुझ पर और आप पर सदा प्रसन्न रहें॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि भुसुण्डि के बचन सुभ देखि राम पद नेह।  
 बोलेउ प्रेम सहित गिरा गरुड बिगत सन्देह॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13504,8 +16038,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मैं कृतकृत्य भयउँ तव बानी। सुनि रघुबीर भगति रस सानी॥  
 राम चरन नूतन रत भई। माया जनित बिपति सब गई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13518,8 +16055,11 @@ unicode_script = "devanagari"
 श्री रघुवीर के भक्ति रस में सनी हुई आपकी वाणी सुनकर मैं कृतकृत्य हो गया। श्री रामजी के चरणों में मेरी नवीन प्रीति हो गई और माया से उत्पन्न सारी विपत्ति चली गई॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मोह जलधि बोहित तुम्ह भए। मो कहँ नाथ बिबिध सुख दए॥  
 मो पहिं होइ न प्रति उपकारा। बन्दउँ तव पद बारहिं बारा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13534,8 +16074,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-406.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पूरन काम राम अनुरागी। तुम्ह सम तात न कोउ बडभागी॥  
 सन्त बिटप सरिता गिरि धरनी। पर हित हेतु सबन्ह कै करनी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13548,8 +16091,11 @@ unicode_script = "devanagari"
 आप पूर्णकाम हैं और श्री रामजी के प्रेमी हैं। हे तात! आपके समान कोई बडभागी नहीं है। सन्त, वृक्ष, नदी, पर्वत और पृथ्वी- इन सबकी क्रिया पराए हित के लिए ही होती है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सन्त हृदय नवनीत समाना। कहा कबिन्ह परि कहै न जाना॥  
 निज परिताप द्रवइ नवनीता। पर सुख द्रवहिं सन्त सुपुनीता॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13562,8 +16108,11 @@ unicode_script = "devanagari"
 सन्तों का हृदय मक्खन के समान होता है, ऐसा कवियों ने कहा है, परन्तु उन्होन्ने (असली बात) कहना नहीं जाना, क्योङ्कि मक्खन तो अपने को ताप मिलने से पिघलता है और परम पवित्र सन्त दूसरों के दुःख से पिघल जाते हैं॥4॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जीवन जन्म सफल मम भयऊ। तव प्रसाद संसय सब गयऊ॥  
 जानेहु सदा मोहि निज किङ्कर। पुनि पुनि उमा कहइ बिहङ्गबर॥5॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13582,8 +16131,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तासु चरन सिरु नाइ करि प्रेम सहित मतिधीर।  
 गयउ गरुड बैकुण्ठ तब हृदयँ राखि रघुबीर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13596,8 +16148,11 @@ unicode_script = "devanagari"
 उन (भुशुण्डिजी) के चरणों में प्रेमसहित सिर नवाकर और हृदय में श्री रघुवीर को धारण करके धीरबुद्धि गरुडजी तब वैकुण्ठ को चले गए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गिरिजा सन्त समागम सम न लाभ कछु आन।  
 बिनु हरि कृपा न होइ सो गावहिं बेद पुरान॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13615,8 +16170,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कहेउँ परम पुनीत इतिहासा। सुनत श्रवन छूटहिं भव पासा॥  
 प्रनत कल्पतरु करुना पुञ्जा। उपजइ प्रीति राम पद कञ्जा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13629,8 +16187,11 @@ unicode_script = "devanagari"
 मैन्ने यह परम पवित्र इतिहास कहा, जिसे कानों से सुनते ही भवपाश (संसार के बन्धन) छूट जाते हैं और शरणागतों को (उनके इच्छानुसार फल देने वाले) कल्पवृक्ष तथा दया के समूह श्री रामजी के चरणकमलों में प्रेम उत्पन्न होता है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मन क्रम बचन जनित अघ जाई। सुनहिं जे कथा श्रवन मन लाई॥  
 तीर्थाटन साधन समुदाई। जोग बिराग ग्यान निपुनाई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13643,8 +16204,11 @@ unicode_script = "devanagari"
 जो कान और मन लगाकर इस कथा को सुनते हैं, उनके मन, वचन और कर्म (शरीर) से उत्पन्न सब पाप नष्ट हो जाते हैं। तीर्थ यात्रा आदि बहुत से साधन, योग, वैराग्य और ज्ञान में निपुणता,॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नाना कर्म धर्म ब्रत दाना। सञ्जम दम जप तप मख नाना॥  
 भूत दया द्विज गुर सेवकाई। बिद्या बिनय बिबेक बडाई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13657,8 +16221,11 @@ unicode_script = "devanagari"
 अनेकों प्रकार के कर्म, धर्म, व्रत और दान, अनेकों संयम दम, जप, तप और यज्ञ, प्राणियों पर दया, ब्राह्मण और गुरु की सेवा, विद्या, विनय और विवेक की बडाई (आदि)-॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जहँ लगि साधन बेद बखानी। सब कर फल हरि भगति भवानी॥  
 सो रघुनाथ भगति श्रुति गाई। राम कृपाँ काहूँ एक पाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13677,8 +16244,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मुनि दुर्लभ हरि भगति नर पावहिं बिनहिं प्रयास।  
 जे यह कथा निरन्तर सुनहिं मानि बिस्वास॥126॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13696,8 +16266,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सोइ सर्बग्य गुनी सोइ ग्याता। सोइ महि मण्डित पण्डित दाता॥  
 धर्म परायन सोइ कुल त्राता। राम चरन जा कर मन राता॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13710,8 +16283,11 @@ unicode_script = "devanagari"
 जिसका मन श्री रामजी के चरणों में अनुरक्त है, वही सर्वज्ञ (सब कुछ जानने वाला) है, वही गुणी है, वही ज्ञानी है। वही पृथ्वी का भूषण, पण्डित और दानी है। वही धर्मपरायण है और वही कुल का रक्षक है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नीति निपुन सोइ परम सयाना। श्रुति सिद्धान्त नीक तेहिं जाना॥  
 सोइ कबि कोबिद सोइ रनधीरा। जो छल छाडि भजइ रघुबीरा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13724,8 +16300,11 @@ unicode_script = "devanagari"
 जो छल छोडकर श्री रघुवीर का भजन करता है, वही नीति में निपुण है, वही परम्‌ बुद्धिमान है। उसी ने वेदों के सिद्धान्त को भली-भाँति जाना है। वही कवि, वही विद्वान्‌ तथा वही रणधीर है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 धन्य देस सो जहँ सुरसरी। धन्य नारि पतिब्रत अनुसरी॥  
 धन्य सो भूपु नीति जो करई। धन्य सो द्विज निज धर्म न टरई॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13738,8 +16317,11 @@ unicode_script = "devanagari"
 वह देश धन्य है, जहाँ श्री गङ्गाजी हैं, वह स्त्री धन्य है जो पातिव्रत धर्म का पालन करती है। वह राजा धन्य है जो न्याय करता है और वह ब्राह्मण धन्य है जो अपने धर्म से नहीं डिगता है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो धन धन्य प्रथम गति जाकी। धन्य पुन्य रत मति सोइ पाकी॥  
 धन्य घरी सोइ जब सतसङ्गा। धन्य जन्म द्विज भगति अभङ्गा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13760,8 +16342,11 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-407.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सो कुल धन्य उमा सुनु जगत पूज्य सुपुनीत।  
 श्रीरघुबीर परायन जेहिं नर उपज बिनीत॥127॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13779,8 +16364,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मति अनुरूप कथा मैं भाषी। जद्यपि प्रथम गुप्त करि राखी॥  
 तव मन प्रीति देखि अधिकाई। तब मैं रघुपति कथा सुनाई॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13793,8 +16381,11 @@ unicode_script = "devanagari"
 मैन्ने अपनी बुद्धि के अनुसार यह कथा कही, यद्यपि पहले इसको छिपाकर रखा था। जब तुम्हारे मन में प्रेम की अधिकता देखी तब मैन्ने श्री रघुनाथजी की यह कथा तुमको सुनाई॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यह न कहिअ सठही हठसीलहि। जो मन लाइ न सुन हरि लीलहि॥  
 कहिअ न लोभिहि क्रोधिहि कामिहि। जो न भजइ सचराचर स्वामिहि॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13807,8 +16398,11 @@ unicode_script = "devanagari"
 यह कथा उनसे न कहनी चाहिए जो शठ (धूर्त) हों, हठी स्वभाव के हों और श्री हरि की लीला को मन लगाकर न सुनते हों। लोभी, क्रोधी और कामी को, जो चराचर के स्वामी श्री रामजी को नहीं भजते, यह कथा नहीं कहनी चाहिए॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 द्विज द्रोहिहि न सुनाइअ कबहूँ। सुरपति सरिस होइ नृप जबहूँ॥  
 रामकथा के तेइ अधिकारी। जिन्ह कें सत सङ्गति अति प्यारी॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13821,8 +16415,11 @@ unicode_script = "devanagari"
 ब्राह्मणों के द्रोही को, यदि वह देवराज (इन्द्र) के समान ऐश्वर्यवान्‌ राजा भी हो, तब भी यह कथा न सुनानी चाहिए। श्री रामकथा के अधिकारी वे ही हैं जिनको सत्सङ्गति अत्यन्त प्रिय है॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 गुर पद प्रीति नीति रत जेई। द्विज सेवक अधिकारी तेई॥  
 ता कहँ यह बिसेष सुखदाई। जाहि प्रानप्रिय श्रीरघुराई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13841,8 +16438,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम चरन रति जो चह अथवा पद निर्बान।  
 भाव सहित सो यह कथा करउ श्रवन पुट पान॥128॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13860,8 +16460,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम कथा गिरिजा मैं बरनी। कलि मल समनि मनोमल हरनी॥  
 संसृति रोग सजीवन मूरी। राम कथा गावहिं श्रुति सूरी॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13874,8 +16477,11 @@ unicode_script = "devanagari"
 हे गिरिजे! मैन्ने कलियुग के पापों का नाश करने वाली और मन के मल को दूर करने वाली रामकथा का वर्णन किया। यह रामकथा संसृति (जन्म-मरण) रूपी रोग के (नाश के) लिए सञ्जीवनी जडी है, वेद और विद्वान पुरुष ऐसा कहते हैं॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहि महँ रुचिर सप्त सोपाना। रघुपति भगति केर पन्थाना॥  
 अति हरि कृपा जाहि पर होई। पाउँ देइ एहिं मारग सोई॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13888,8 +16494,11 @@ unicode_script = "devanagari"
 इसमें सात सुन्दर सीढियाँ हैं, जो श्री रघुनाथजी की भक्ति को प्राप्त करने के मार्ग हैं। जिस पर श्री हरि की अत्यन्त कृपा होती है, वही इस मार्ग पर पैर रखता है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मन कामना सिद्धि नर पावा। जे यह कथा कपट तजि गावा॥  
 कहहिं सुनहिं अनुमोदन करहीं। ते गोपद इव भवनिधि तरहीं॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13902,8 +16511,11 @@ unicode_script = "devanagari"
 जो कपट छोडकर यह कथा गाते हैं, वे मनुष्य अपनी मनःकामना की सिद्धि पा लेते हैं, जो इसे कहते-सुनते और अनुमोदन (प्रशंसा) करते हैं, वे संसार रूपी समुद्र को गो के खुर से बने हुए गड्ढे की भाँति पार कर जाते हैं॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुनि सब कथा हृदय अति भाई। गिरिजा बोली गिरा सुहाई॥  
 नाथ कृपाँ मम गत सन्देहा। राम चरन उपजेउ नव नेहा॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13922,8 +16534,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मैं कृतकृत्य भइउँ अब तव प्रसाद बिस्वेस।  
 उपजी राम भगति दृढ बीते सकल कलेस॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13941,8 +16556,11 @@ unicode_script = "devanagari"
 
 
 ### 02 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यह सुभ सम्भु उमा सम्बादा। सुख सम्पादन समन बिषादा॥  
 भव भञ्जन गञ्जन सन्देहा। जन रञ्जन सज्जन प्रिय एहा॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13955,8 +16573,11 @@ unicode_script = "devanagari"
 शम्भु-उमा का यह कल्याणकारी संवाद सुख उत्पन्न करने वाला और शोक का नाश करने वाला है। जन्म-मरण का अन्त करने वाला, सन्देहों का नाश करने वाला, भक्तों को आनन्द देने वाला और सन्त पुरुषों को प्रिय है॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 राम उपासक जे जग माहीं। एहि सम प्रिय तिन्ह कें कछु नाहीं॥  
 रघुपति कृपाँ जथामति गावा। मैं यह पावन चरित सुहावा॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13969,8 +16590,11 @@ unicode_script = "devanagari"
 जगत्‌ में जो (जितने भी) रामोपासक हैं, उनको तो इस रामकथा के समान कुछ भी प्रिय नहीं है। श्री रघुनाथजी की कृपा से मैन्ने यह सुन्दर और पवित्र करने वाला चरित्र अपनी बुद्धि के अनुसार गाया है॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एहिं कलिकाल न साधन दूजा। जोग जग्य जप तप ब्रत पूजा॥  
 रामहि सुमिरिअ गाइअ रामहि। सन्तत सुनिअ राम गुन ग्रामहि॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -13983,8 +16607,11 @@ unicode_script = "devanagari"
 (तुलसीदासजी कहते हैं-) इस कलिकाल में योग, यज्ञ, जप, तप, व्रत और पूजन आदि कोई दूसरा साधन नहीं है। बस, श्री रामजी का ही स्मरण करना, श्री रामजी का ही गुण गाना और निरन्तर श्री रामजी के ही गुणसमूहों को सुनना चाहिए॥3॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 जासु पतित पावन बड बाना। गावहिं कबि श्रुति सन्त पुराना॥  
 ताहि भजहि मन तजि कुटिलाई। राम भजें गति केहिं नहिं पाई॥4॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14001,10 +16628,13 @@ unicode_script = "devanagari"
 
 <div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive.org/download/rAmcharitmAnas-AIR/EPI-408.mp3"></div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पाई न केहिं गति पतित पावन राम भजि सुनु सठ मना।  
 गनिका अजामिल ब्याध गीध गजादि खल तारे घना॥  
 आभीर जमन किरात खस स्वपचादि अति अघरूप जे।  
 कहि नाम बारक तेपि पावन होहिं राम नमामि ते॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14023,10 +16653,13 @@ unicode_script = "devanagari"
 
 
 ### 04 चौपाई
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रघुबंस भूषन चरित यह नर कहहिं सुनहिं जे गावहीं।  
 कलि मल मनोमल धोइ बिनु श्रम राम धाम सिधावहीं॥  
 सत पंच चौपाईं मनोहर जानि जो नर उर धरै।  
 दारुन अबिद्या पञ्च जनित बिकार श्री रघुबर हरै॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14041,10 +16674,13 @@ unicode_script = "devanagari"
 जो मनुष्य रघुवंश के भूषण श्री रामजी का यह चरित्र कहते हैं, सुनते हैं और गाते हैं, वे कलियुग के पाप और मन के मल को धोकर बिना ही परिश्रम श्री रामजी के परम धाम को चले जाते हैं। (अधिक क्या) जो मनुष्य पाँच-सात चौपाइयों को भी मनोहर जानकर (अथवा रामायण की चौपाइयों को श्रेष्ठ पञ्च (कर्तव्याकर्तव्य का सच्चा निर्णायक) जानकर उनको हृदय में धारण कर लेता है, उसके भी पाँच प्रकार की अविद्याओं से उत्पन्न विकारों को श्री रामजी हरण कर लेते हैं, (अर्थात्‌ सारे रामचरित्र की तो बात ही क्या है, जो पाँच-सात चौपाइयों को भी समझकर उनका अर्थ हृदय में धारण कर लेते हैं, उनके भी अविद्याजनित सारे क्लेश श्री रामचन्द्रजी हर लेते हैं)॥2॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 सुन्दर सुजान कृपा निधान अनाथ पर कर प्रीति जो।  
 सो एक राम अकाम हित निर्बानप्रद सम आन को॥  
 जाकी कृपा लवलेस ते मतिमन्द तुलसीदासहूँ।  
 पायो परम बिश्रामु राम समान प्रभु नाहीं कहूँ॥3॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14065,8 +16701,11 @@ unicode_script = "devanagari"
 
 
 ### 01 दोहा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 मो सम दीन न दीन हित तुम्ह समान रघुबीर।  
 अस बिचारि रघुबंस मनि हरहु बिषम भव भीर॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14079,8 +16718,11 @@ unicode_script = "devanagari"
 हे श्री रघुवीर! मेरे समान कोई दीन नहीं है और आपके समान कोई दीनों का हित करने वाला नहीं है। ऐसा विचार कर हे रघुवंशमणि! मेरे जन्म-मरण के भयानक दुःख का हरण कर लीजिए॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 कामिहि नारि पिआरि जिमि लोभिहि प्रिय जिमि दाम।  
 तिमि रघुनाथ निरन्तर प्रिय लागहु मोहि राम॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14096,10 +16738,13 @@ unicode_script = "devanagari"
 
 
 ### 02 श्लोक
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यत्पूर्वं प्रभुणा कृतं सुकविना श्रीशम्भुना दुर्गमं  
 श्रीमद्रामपदाब्जभक्तिमनिशं प्राप्तयै तु रामायणम्‌।  
 मत्वा तद्रघुनाथनामनिरतं स्वान्तस्तमः शान्तये।  
 भाषाबद्धमिदं चकार तुलसीदासस्तथा मानसम्‌॥1॥  
+</details>
 
 <details><summary>मूल</summary>
 
@@ -14114,10 +16759,13 @@ unicode_script = "devanagari"
 श्रेष्ठ कवि भगवान्‌ श्री शङ्करजी ने पहले जिस दुर्गम मानस-रामायण की, श्री रामजी के चरणकमलों में नित्य-निरन्तर (अनन्य) भक्ति प्राप्त होने के लिए रचना की थी, उस मानस-रामायण को श्री रघुनाथजी के नाम में निरत मानकर अपने अन्तःकरण के अन्धकार को मिटाने के लिए तुलसीदास ने इस मानस के रूप में भाषाबद्ध किया॥1॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 पुण्यं पापहरं सदा शिवकरं विज्ञानभक्तिप्रदं।  
 मायामोहमलापहं सुविमलं प्रेमाम्बुपूरं शुभम्‌।  
 श्रीमद्रामचरित्रमानसमिदं भक्त्यावगाहन्ति ये  
 ते संसारपतङ्गघोरकिरणैर्दह्यन्ति नो मानवाः॥2॥  
+</details>
 
 <details><summary>मूल</summary>
 
