@@ -21,7 +21,7 @@ title = "०२ तिरुप्-पावै"
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -43,7 +43,7 @@ Sang she, in her sweet voice,
 Several enchanting sweet odes,  
 For being sung during,  
 The worship and adulation of Pavai.  
-They are but  a garland to him,  
+They are but a garland to him,  
 From her who wore them first,  
 Before presenting them to Him.  
 
@@ -54,7 +54,7 @@ Before presenting them to Him.
 
 ## ०१ गोपालसिंहः - मार्गऴित्-तिङ्गळ्
 
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3" caption="vibhA - 01 - Margazhitingal - nATa"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3" caption="vibhA - 01 - Margazhitingal - nATa"></div>
 
 मार्गऴित्+++(=मार्गशीर्ष)+++ तिङ्गळ् मदि+++(→चन्द्र)+++ निऱैन्द+++(=नॆरिन्द)+++ नन्-नाळाल् ,  
 नीराडप् पोदुवीर्+++(=होगुववरु)+++ पोदुमिनो+++(=होगोण)+++ नेर्-इऴैयीर्+++(=स्व्-आभरणाः)+++ ,  
@@ -68,7 +68,7 @@ Before presenting them to Him.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=nHuaq5N3FAQ" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=nHuaq5N3FAQ" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -112,7 +112,7 @@ In a way that the whole world sings about.
 
 
 ## ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3" caption="vibhA - 02 - Vaiyattu Vazhveergal - gauLa"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3" caption="vibhA - 02 - Vaiyattu Vazhveergal - gauLa"></div>
 
 वैयत्तु वाऴ्वीर्गाळ् नामुं नं पावैक्कु+++(=व्रताय)+++,  
 शॆय्युं किरि-शैगळ् केळीरो - पाऱ्+++(ल्)+++-‌कडल् उळ्  
@@ -125,7 +125,7 @@ In a way that the whole world sings about.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=h-lvlJ0GQOw" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=h-lvlJ0GQOw" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -151,7 +151,7 @@ We will avoid the health giving milk,
 We will daily bathe before the dawn,  
 We will not wear any collyrium[^prr6] to the eye,  
 We will not tie flowers in our hair,  
-We will not do Any act  that is banned,  
+We will not do Any act that is banned,  
 We will not talk ill of any to any one else,  
 We will give alms and do charity,  
 As much as we can,  
@@ -165,7 +165,7 @@ And worship our Goddess Pavai.
 
 
 ## ०३ फलं - ओङ्गि युलगळन्द
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3" caption="vibhA - 03 - Ongi Ulagalanda - Arabhi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3" caption="vibhA - 03 - Ongi Ulagalanda - Arabhi"></div>
 
 
 ओङ्गि युलगळन्द उत्तमन् पेर् पाडि,  
@@ -179,7 +179,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=LhbTtXM0VhU" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=LhbTtXM0VhU" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -201,7 +201,7 @@ And worship our Goddess Pavai ,
 Then would there be at least three rains a month,  
 And the red paddy plants would grow big,  
 And in their fields would the fish swim and play ,  
-And the spotted bees  after sipping honey,  
+And the spotted bees after sipping honey,  
 To their hearts content ,  
 Would sleep in the flower themselves   
 After having their fill,  
@@ -209,7 +209,7 @@ And the cows with big udder
 Would fill milk pots to the brim,  
 And healthy cows and never diminishing wealth,  
 Would fill the country,  
-And all this I assure  by worship of our Goddess Pavai.
+And all this I assure by worship of our Goddess Pavai.
 
 [^prr7]: Lord Narayana in Vamana Avatara measured the three worlds.
 </details>
@@ -217,7 +217,7 @@ And all this I assure  by worship of our Goddess Pavai.
 
 
 ## ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3" caption="vibhA - 04 - Aazhi Mazhai - varALi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3" caption="vibhA - 04 - Aazhi Mazhai - varALi"></div>
 
 
 आऴिमऴै क्कण्णा ऒन्ऱु नी कैकरवेल्,  
@@ -231,7 +231,7 @@ And all this I assure  by worship of our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=U2rENDjNyZc" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=U2rENDjNyZc" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -251,7 +251,7 @@ Please obey our wishes,
 Oh rain God who comes from the sea,  
 Enter the sea, please, and bring water to your fill,  
 And with zest and sound take it up,  
-And like the  God of the deluge become black,  
+And like the God of the deluge become black,  
 And shine like the holy wheel in the hands ,  
 Of The God Padmanabha[^prr8] who has powerful biceps,  
 And make booming pleasing sounds,  
@@ -259,7 +259,7 @@ Like the right spiraled conch,
 And rain with out stop like the arrow storm,  
 From Saranga the bow of Vishnu and descend on us,  
 To make this world happy,  
-And to help us take bath in  month of  Margahzhi,  
+And to help us take bath in month of Margahzhi,  
 And worship our goddess Pavai.
 
 [^prr8]: Lord Vishnu had a lotus grown out of his belly on which sat Lord Brahma. Hence he is called Padmanabha
@@ -269,7 +269,7 @@ And worship our goddess Pavai.
 
 
 ## ०५ नामस्मरण-प्रभावः - मायनै मन्नु
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3" caption="vibhA - 05 - Maayanai Mannu - shrI"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3" caption="vibhA - 05 - Maayanai Mannu - shrI"></div>
 
 
 मायनै मन्नु वडमदुरै मैन्दनै,  
@@ -284,7 +284,7 @@ And worship our goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=DxA_Uv9q1mg" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=DxA_Uv9q1mg" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -303,14 +303,14 @@ And worship our goddess Pavai.
 To Him the enchanter of all,  
 To Him the son of Mathura[^prr9] in the north,  
 To Him who played and frolicked,  
-In the shores of  holy Yamuna[^prr10],  
+In the shores of holy Yamuna[^prr10],  
 To Him who is the ornamental lamp,  
 Of the family of cow herds,  
 And to the Damodhara[^prr11] who made ,  
 His mothers womb holy,  
 We came after a holy bath,  
-And  offered pure flowers at his feet,  
-And  sang with our mouth,  
+And offered pure flowers at his feet,  
+And sang with our mouth,  
 And brought the thoughts of him in our mind,  
 And we were sure,  
 That all our mistakes of the past,  
@@ -326,12 +326,12 @@ Oh, Goddess Pavai.
 
 
 ## ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3" caption="vibhA - 06 - Pullum - shankarAbharaNam"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3" caption="vibhA - 06 - Pullum - shankarAbharaNam"></div>
 
 
 पुळ्ळुं शिलम्बिन काण् पुळ्ळरैयन् कोयिलिल्,  
 वॆळ्ळै विळिशङ्गिन् पेररवं केट्टिलैयो ?  
-पिळ्ळाय् ऎऴुन्दिराय् पेय् मुलै नंजुण्डु,  
+पिळ्ळाय् ऎऴुन्दिराय् पेय् मुलै नञ्जुण्डु,  
 कळ्ळच्चगडं कलक्कऴिय क्कालोच्चि,  
 वॆळ्ळत्तरविल् तुयिलमर्न्द वित्तिनै,  
 उळ्ळत्तुक्कॊण्डु मुनिवर्गळुं योगिगळुम्,  
@@ -340,7 +340,7 @@ Oh, Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=GL9Z-ujkvG0" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=GL9Z-ujkvG0" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -357,11 +357,11 @@ Oh, Goddess Pavai.
 
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
-Did you not hear  alternate  twittering birds making  loud noises,  
+Did you not hear alternate twittering birds making loud noises,  
 Did you not hear the loud sound of white conch,  
-From the temple of the king of  Garuda[^prr12],  
+From the temple of the king of Garuda[^prr12],  
 Oh , girls please wake up,  
-Let us hear the holy sounds of  “Hari[^prr13], Hari”.  
+Let us hear the holy sounds of “Hari[^prr13], Hari”.  
 From the savants and sages,  
 Calling him who drank the poisonous milk from the ghost[^prr14],  
 Him who kicked and killed the ogre of the cart[^prr15],  
@@ -369,7 +369,7 @@ And him who sleeps on the great serpent Adi Sesha
 So that it goes through our mind,  
 And make our mind cool, Oh, Goddess Pavai.
 
-[^prr12]: Lord  Vishnu who rides on Garuda(The barahmini kite)
+[^prr12]: Lord Vishnu who rides on Garuda(The barahmini kite)
 [^prr13]: Another name of Lord Vishnu
 [^prr14]: Lord Krishna killed Ogress Poothaa who tried to kill him poisonous milk
 [^prr15]: Lord Krisna killed an ogre called Shakatasura who appeared in the form of cart
@@ -378,7 +378,7 @@ And make our mind cool, Oh, Goddess Pavai.
 
 
 ## ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3" caption="vibhA - 07 - Keesu - Bhairavi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3" caption="vibhA - 07 - Keesu - Bhairavi"></div>
 
 
 कीशु कीशॆन्ऱॆङ्गुं आनैच्चात्तन्,  
@@ -392,7 +392,7 @@ And make our mind cool, Oh, Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=hcB47hRlLw0" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=hcB47hRlLw0" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -409,21 +409,21 @@ And make our mind cool, Oh, Goddess Pavai.
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 Did you not hear , Oh slow witted girl,  
-The  twittering sound of black birds of the morn,  
+The twittering sound of black birds of the morn,  
 Which sounds like a talk between them,  
 Did you not hear the tingling sound ,  
 When the big and small coin like pendants,  
 Rub against each other,  
-Did you not hear the  sound of  vigouros pull,  
-Of the  curd churner being pulled,  
+Did you not hear the sound of vigouros pull,  
+Of the curd churner being pulled,  
 By the flower bedecked cow herdesses,  
-Did you not hear the sound of  twirling curd,  
-When churned using  the mixer,  
+Did you not hear the sound of twirling curd,  
+When churned using the mixer,  
 Oh, leader among girls,  
 How can you sleep,  
 When they sing the names sweetly.  
 Of Narayana[^prr16] and Kesava[^prr17],  
-Oh, She who   is sparkling,  
+Oh, She who is sparkling,  
 Be pleased to open the door,  
 And worship our goddess Pavai.
 
@@ -435,7 +435,7 @@ And worship our goddess Pavai.
 
 
 ## ०८ गोपीप्रतीक्षा - कीळ्वानम्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3" caption="vibhA - 08 - Keezhvaanam - dhanyAsi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3" caption="vibhA - 08 - Keezhvaanam - dhanyAsi"></div>
 
 
 कीऴ्+++(=पूर्व)+++वानं+++(=खं)+++ वॆळ्ळ्+++(=बॆळ्ळ्)+++ ऎन्ऱु, ऎरुमै शिऱु+++(=किरु)+++-वीडु+++(=बिडुवु)+++,  
@@ -449,7 +449,7 @@ And worship our goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=3h3Fb8GyEi4" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=3h3Fb8GyEi4" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -469,7 +469,7 @@ The eastern sky has become white,
 The buffalos are free to walk and graze,  
 The remaining lasses , have stopped from going,  
 All those who wanted to go,  
-And have come to  call you,  
+And have come to call you,  
 Oh girl filled with happiness,  
 Please wake up.  
 Let us all sing and get gifts,  
@@ -490,7 +490,7 @@ And worship our Goddess Pavai
 
 
 ## ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3" caption="vibhA - 09 - Thoomani - hamir kalyANi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3" caption="vibhA - 09 - Thoomani - hamir kalyANi"></div>
 
 
 तूमणिमाडत्तु च्चुट्रुं विळक्कॆरिय,  
@@ -504,7 +504,7 @@ And worship our Goddess Pavai
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=qMFvS_iY7VI" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=qMFvS_iY7VI" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -521,15 +521,15 @@ And worship our Goddess Pavai
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh my uncle’s daughter , who sleeps ,  
-In the  soft cotton bed,  
+In the soft cotton bed,  
 In the pearl filled Villa,  
 Well lit from all sides,  
 And full of the smoke of incense,  
 Please open the ornamental door.  
-Oh aunt, why don’t  you wake her up,  
+Oh aunt, why don’t you wake her up,  
 Is your daughter dumb or deaf ,  
 Or down right lazy,  
-Or she  is in trance of deep pleasurable sleep,  
+Or she is in trance of deep pleasurable sleep,  
 Let us all call him the great enchanter,  
 Madhavan[^prr20] and he who lives in Vaikunta[^prr21],  
 By several of His names,  
@@ -544,21 +544,21 @@ And worship the Goddess Pavai.
 
 
 ## १० निद्रास्पर्धा - नोट्रु स्वर्गम्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3" caption="vibhA - 10 - Nottruchuvarkam - thODi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3" caption="vibhA - 10 - Nottruchuvarkam - thODi"></div>
 
 
 नोट्रुच् चुवर्क्कं+++(=स्वर्गम्)+++ पुगुगिन्ऱ अम्मनाय्,  
 माट्रमुं तारारो वाशल् तिऱवादार्,  
 नाट्रत् तुऴाय् मुडि नारायणन्, नम्माल्  
 पोट्र प्पऱै तरुं पुण्णियनाल्,  
-पण्डॊरुनाळ् कूट्रत्तिन् वाय् वीऴ्न्द कुंबकरणनुम्,  
+पण्डॊरुनाळ् कूट्रत्तिन् वाय् वीऴ्न्द कुम्बकरणनुम्,  
 तोट्रुमुनक्के पॆरुन्दुयिल् तान् तन्दानो ?,  
 आट्र वनन्दलुडैयाय् अरुङ्गलमे,  
 तेट्रमाय् वन्दु तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १० ॥
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=beXhCV6ycj4" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=beXhCV6ycj4" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -575,19 +575,19 @@ And worship the Goddess Pavai.
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 Oh lady fine , who has entered the heaven,  
-Due to penance done  in last birth,  
+Due to penance done in last birth,  
 Won’t you reply,please  
 Won’t you open the door,please  
 If we pray the God Narayana,  
 Having with him the scented garland,  
 Made of holy basil,  
 He would give us gifts , many,  
-He  is the same who is holy in times ancient,  
+He is the same who is holy in times ancient,  
 Sent Kumbhakarna[^prr22] to his death ,  
 After beating him in the field of war.  
 Did that ogre give you his sleep,  
 Before he went off from here,  
-Oh  lass who is very lazy,  
+Oh lass who is very lazy,  
 Oh lass, who is like pretty jewels,  
 Wake up from your sleep, well,  
 And open the door.  
@@ -599,7 +599,7 @@ And worship the Goddess Pavai.
 
 
 ## ११ - कट्रुक्कऱवै
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3" caption="vibhA - 11 - Katrukkaravai Kanangal - husEni"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3" caption="vibhA - 11 - Katrukkaravai Kanangal - husEni"></div>
 
 
 
@@ -614,7 +614,7 @@ And worship the Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=n0dvN9sSGVY" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=n0dvN9sSGVY" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -651,8 +651,8 @@ And not worship our Goddess pavai.
 
 
 
-## १२  - कनैत्तिळं
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3" caption="vibhA - 12 - Kanaittilam Katrerumai - kedAragauLa"></div>
+## १२ - कनैत्तिळं
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3" caption="vibhA - 12 - Kanaittilam Katrerumai - kedAragauLa"></div>
 
 
 कनैत्तिळं कट्रॆरुमै कन्ऱुक्किऱङ्गि,  
@@ -666,7 +666,7 @@ And not worship our Goddess pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=qfJ8CCDHrbE" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=qfJ8CCDHrbE" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -682,16 +682,16 @@ And not worship our Goddess pavai.
 
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
-Hey, sister of  the  rich one , who owned,  
-The mooing  she buffalow with a calf ,  
-Which  took pity on the calf,  
+Hey, sister of the rich one , who owned,  
+The mooing she buffalow with a calf ,  
+Which took pity on the calf,  
 And gave out plenty,  
 Of milk to it through its udder,  
 And made his courtyard slushy with milk,  
 We are assembled in thine yard,  
 In the dripping fog,  
 And sing about Him,  
-Who killed in anger the king of  Southern Lanka[^prr23],  
+Who killed in anger the king of Southern Lanka[^prr23],  
 And who is very dear one,  
 But open your mouth, you don’t..  
 Atleast wake up now,  
@@ -706,13 +706,13 @@ And are ready to worship our Goddess Pavai...
 
 
 
-## १३  - पुळ्ळिन् वाय्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3" caption="vibhA - 13 - Pullinvaai Keendanai - aTHANA"></div>
+## १३ - पुळ्ळिन् वाय्
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3" caption="vibhA - 13 - Pullinvaai Keendanai - aTHANA"></div>
 
 
 पुळ्ळिन् वाय् कीण्डानै प्पॊल्ला वरक्कनै  
 क्किळ्ळि क्कळैन्दानै क्कीर्तिमै पाडिप्पोय्,  
-पिळ्ळैगळॆल्लारुं पावैक्कळंबुक्कार्,  
+पिळ्ळैगळॆल्लारुं पावैक्कळम्बुक्कार्,  
 वॆळ्ळि यॆऴुन्दु वियाऴमुऱङ्गिट्रु,  
 पुळ्ळुं शिलम्बिन काण्! पोदरिक्कण्णिनाय्,  
 कुळ्ळक्कुळिर क्कुडैन्दु नीराडादे,  
@@ -721,7 +721,7 @@ And are ready to worship our Goddess Pavai...
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=RKCYx8sGRRQ" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=RKCYx8sGRRQ" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -739,7 +739,7 @@ And are ready to worship our Goddess Pavai...
 
 The lasses have reached,  
 The place of prayer for Pavai,  
-Singing the  fame of our Lord.  
+Singing the fame of our Lord.  
 Who killed the ogre who came like a stork.[^prr24]  
 And who cut off the heads of the bad ogre[^prr25],  
 One by one.  
@@ -761,8 +761,8 @@ And worship our Goddess Pavai.
 
 
 
-## १४  - उङ्गळ् पुऴैक्कडै
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3" caption="vibhA - 14 - Ungal Puzhakkadai - Ananda bhairavi"></div>
+## १४ - उङ्गळ् पुऴैक्कडै
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3" caption="vibhA - 14 - Ungal Puzhakkadai - Ananda bhairavi"></div>
 
 
 उङ्गळ् पुऴैक्कडै त्तोट्टत्तु वावियुळ्,  
@@ -776,7 +776,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=E8NSJbrgr0A" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=E8NSJbrgr0A" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -792,11 +792,11 @@ And worship our Goddess Pavai.
 
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
-In the pond in the backyard of  your house.  
+In the pond in the backyard of your house.  
 The lily in the ponds have opened,  
 The night flowers have closed,  
-The white toothed  sages,  
-Who wear clothes as  red as,  
+The white toothed sages,  
+Who wear clothes as red as,  
 The powder of brick,  
 Are going to their temples.  
 To sound the conch.  
@@ -814,8 +814,8 @@ And worship our Goddess Pavai.
 
 
 
-## १५  - ऎल्ले! इळङ्किळिये
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3" caption="vibhA - 15 - Elle Elang Kiliye - begaDA"></div>
+## १५ - ऎल्ले! इळङ्किळिये
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3" caption="vibhA - 15 - Elle Elang Kiliye - begaDA"></div>
 
 
 ऎल्ले! इळङ्किळिये इन्नमुऱङ्गुदियो,  
@@ -829,7 +829,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=0TAZQqDZstA" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=0TAZQqDZstA" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -864,8 +864,8 @@ And worship our Goddess Pavai.”
 
 
 
-## १६  - नायगनाय् निन्ऱ
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3" caption="vibhA - 16 - Nayagannai Nindra - mOhanam"></div>
+## १६ - नायगनाय् निन्ऱ
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3" caption="vibhA - 16 - Nayagannai Nindra - mOhanam"></div>
 
 
 नायगनाय् निन्ऱ नन्दगोपनुडैय  
@@ -879,7 +879,7 @@ And worship our Goddess Pavai.”
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=JMTUbFBGlEA" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=JMTUbFBGlEA" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -897,10 +897,10 @@ And worship our Goddess Pavai.”
 
 Hey , He who guards the palace of Nanda Gopa[^prr29],  
 Hey, who gauards the ornamental door with flags,  
-Please be kind to open  the door with bells,  
-For yesterday  the enchanter  Kannan[^prr30],  
-Has promised to give  beating drums,  
-To us the girls from the  houses of cow herds.  
+Please be kind to open the door with bells,  
+For yesterday the enchanter Kannan[^prr30],  
+Has promised to give beating drums,  
+To us the girls from the houses of cow herds.  
 We have come after purification,  
 To wake Him up with song,  
 So do not talk of this and that, Hey dear man,  
@@ -913,8 +913,8 @@ So that we can worship our Goddess Pavai.
 
 
 
-## १७   - अम्बरमे तण्णीरे
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3" caption="vibhA - 17 - Ambarame Thaneere - kalyANi"></div>
+## १७ - अम्बरमे तण्णीरे
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3" caption="vibhA - 17 - Ambarame Thaneere - kalyANi"></div>
 
 
 अम्बरमे तण्णीरे शोऱे अऱं शॆय्युम्,  
@@ -928,7 +928,7 @@ So that we can worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=wJKyobpiUsM" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=wJKyobpiUsM" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -950,7 +950,7 @@ Pleas wake up.
 Our lady Yasodha, who is the light of the homes of cow herds,  
 She who is dear to all the ladies,  
 Please wake up.  
-Hey ,Krishna who is the  king of  Gods,  
+Hey ,Krishna who is the king of Gods,  
 Who went up tearing th sky.  
 Please wake up, and do not sleep.
 
@@ -963,8 +963,8 @@ So we can worship our Goddess Pavai.
 
 
 
-## १८  - उन्दु मद
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3" caption="vibhA - 18 - UndhuMadhagalittran - sAvEri"></div>
+## १८ - उन्दु मद
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3" caption="vibhA - 18 - UndhuMadhagalittran - sAvEri"></div>
 
 
 उन्दु मद गळिट्रनोडाद तोळ्वलियन्,  
@@ -978,7 +978,7 @@ So we can worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=3Fz2yQtLf_s" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=3Fz2yQtLf_s" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1013,8 +1013,8 @@ So that we can worship our Goddess Pavai.
 
 
 
-## १९  - कुत्तु विळक्कॆरिय
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3" caption="vibhA - 19 - KuttuVilakkeriya - sahAnA"></div>
+## १९ - कुत्तु विळक्कॆरिय
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3" caption="vibhA - 19 - KuttuVilakkeriya - sahAnA"></div>
 
 
 कुत्तु विळक्कॆरिय क्कोट्टुक्काल् कट्टिल् मेल्,  
@@ -1028,7 +1028,7 @@ So that we can worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=wTLI2Yktekg" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=wTLI2Yktekg" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1045,7 +1045,7 @@ So that we can worship our Goddess Pavai.
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 In the light of the oil lamp,  
-On the ornamental four legged ivory  cot,  
+On the ornamental four legged ivory cot,  
 On the soft bed filled with cotton,  
 Reclining on the busts of Nappinnai ,  
 You sleep, Oh he who has a flower like heart,  
@@ -1060,8 +1060,8 @@ Please allow us to worship our Goddess Pavai.
 
 
 
-## २०  - मुप्पत्तु मूवर्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3" caption="vibhA - 20 - Muppatthumoovar - senchuruTTi"></div>
+## २० - मुप्पत्तु मूवर्
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3" caption="vibhA - 20 - Muppatthumoovar - senchuruTTi"></div>
 
 
 मुप्पत्तु मूवर् अमरर्कु मुन् शॆन्ऱु+++(=सेरि)+++,  
@@ -1075,7 +1075,7 @@ Please allow us to worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=FVCpj75q7wM" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=FVCpj75q7wM" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1093,7 +1093,7 @@ Please allow us to worship our Goddess Pavai.
 
 Please wake up Oh, Lord,  
 Who removed sorrow and fear,  
-From the thirty three sections of  Devas[^prr33],  
+From the thirty three sections of Devas[^prr33],  
 Even before they approached you,  
 Oh Lord, Who is glittering like gold,  
 Oh Lord, who has inimitable valour,  
@@ -1114,7 +1114,7 @@ And thus worship our Goddess Pavai.
 
 
 ## २१ नन्दसुतः श्रीमान् बलवान् - एट्र कलङ्गळ्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3" caption="vibhA - 21 - EtraKalangal - nAdanAmakriya"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3" caption="vibhA - 21 - EtraKalangal - nAdanAmakriya"></div>
 
 
 एट्र+++(=ऎटकिसिद)+++ कलङ्गळ्+++(=पात्रॆगळ्)+++ ऎदिर् पॊङ्गि मीद्+++(=मेलॆ)+++ अळिप्प,  
@@ -1128,7 +1128,7 @@ And thus worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=JR5UV0E_Avw" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=JR5UV0E_Avw" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1163,7 +1163,7 @@ And worship our Goddess Pavai.
 
 
 ## २२ राजभिर् अहङ्कारत्यागः - अङ्गण् मा
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3" caption="vibhA - 22 - AnganNma - Yamuna KalyaNi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3" caption="vibhA - 22 - AnganNma - Yamuna KalyaNi"></div>
 
 
 अङ्+++(=अन्द)+++-गण् मा+++(=महा)+++ ञालत्त्+++(=वॆश्वत्त्त्)+++ अरशर्+++(=अरसर्)+++, अभिमान-  
@@ -1177,7 +1177,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=D-KcyMGuB-Y" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=D-KcyMGuB-Y" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1215,30 +1215,30 @@ And we can worship our Goddess Pavai
 ### अहङ्कार टुटेपछि कृपा प्राप्ति
 स्पष्टार्थ—  
 पृथिवीका महान् राजा अहङ्कार टुटेपछि ।  
-पादपीठ समीपैमा स्नेह ली बस्तछन् पछि ।।  
+पादपीठ समीपैमा स्नेह ली बस्तछन् पछि ॥  
 उसै गरेर हामी लौ जुटेका छौं समीपमा ।  
-अहङ्कारहरू सारा छुटेका छन् समस्तमा ।।  
+अहङ्कारहरू सारा छुटेका छन् समस्तमा ॥  
 किङ्किणी तुल्य छन् अर्थ विकासोत्तम नेत्र ती ।  
 महिमा दृष्टि के त्यस्ता नपर्लान् र यथास्थिति ?  
 चन्द्र–सूर्य सरी नेत्र दुबै छन् नाथका सफा ।  
-शीत–तप्त पनि त्यस्तै कार्य हुन्छन् विचित्रका ।।  
+शीत–तप्त पनि त्यस्तै कार्य हुन्छन् विचित्रका ॥  
 त्यस्ता दृष्टि कृपा साथ हामीमा पर्दछन् भने ।  
-हाम्रा पापहरू सारा हुन्छन् निश्चय नाशिने ।।२२।।  
+हाम्रा पापहरू सारा हुन्छन् निश्चय नाशिने ॥२२॥  
 
 गूढार्थ—  
 अहङ्कार छुटेदेखि श्रीशको तत्त्व बुझ्दछन् ।  
-मुमुक्षु पनि त्यै बेला प्रभु–सन्निधि भेट्तछन् ।।  
+मुमुक्षु पनि त्यै बेला प्रभु–सन्निधि भेट्तछन् ॥  
 प्रभुपाद महाँ जुट्ता अहङ्कार हराउँछ ।  
-कटाक्ष दिव्य प्रभुको शीघ्र नै प्राप्त गर्दछ ।।  
+कटाक्ष दिव्य प्रभुको शीघ्र नै प्राप्त गर्दछ ॥  
 व्यापकाकारको राम्रो स्वामित्व बुझि सेवन ।  
-गर्दा परेश दृष्टिले हुन्छ दिव्य सनातन ।।  
+गर्दा परेश दृष्टिले हुन्छ दिव्य सनातन ॥  
 आफ्नै इन्द्रिय छन् शत्रु असुरोपम ती सब ।  
-कृपा ईश्वरको भेटी सप्रिन्छन् शत्रु ती सब ।।२२।।  
+कृपा ईश्वरको भेटी सप्रिन्छन् शत्रु ती सब ॥२२॥  
 </details>
 
 
 ## २३ सिंहः - मारिमलै
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3" caption="vibhA - 23 - Maarimalai - Bilahari"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3" caption="vibhA - 23 - Maarimalai - Bilahari"></div>
 
 
 मारि+++(←वारि)+++-मलै मुऴैञ्जिल्+++(=गुहॆयुळ्)+++ मन्निक्+++(=अडगि)+++ किडन्द्+++(=मलगि)+++ उऱङ्गुम्+++(=निद्रिसुव)+++,  
@@ -1252,7 +1252,7 @@ And we can worship our Goddess Pavai
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=hUCPu-w9RtA" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=hUCPu-w9RtA" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1275,7 +1275,7 @@ From the mountain cave in the rainy season,
 Looks with fiery sight,  
 And with deep angry sweat from all the hairs,  
 Turns up its head with awe,  
-And comes out  making lots of din,  
+And comes out making lots of din,  
 Hey Lord , who is the colour of the blue lotus,  
 Come from your temple to here,  
 And sit on the majestic royal throne,  
@@ -1285,7 +1285,7 @@ And help us to worship our Goddess Pavai.
 </details>
 
 ## २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3" caption="vibhA - 24 - Andrivvulagam - Sindhubhairavi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3" caption="vibhA - 24 - Andrivvulagam - Sindhubhairavi"></div>
 
 
 अन्ऱु+++(=अन्दु)+++ इव्व्+++(=ई)+++ उलगम् अळन्दाय् अडि पोट्रि,  
@@ -1299,7 +1299,7 @@ And help us to worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=kEwg5YZ2w1U" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=kEwg5YZ2w1U" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1316,7 +1316,7 @@ And help us to worship our Goddess Pavai.
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 We worship your feet which measured the world then,  
-We worship your fame of  winning over the king of Southern Lanka,  
+We worship your fame of winning over the king of Southern Lanka,  
 We worship thine valour in breaking the ogre who came like a cart,  
 We worship thy strength which threw the calf on the tree,  
 We worship thine goodness in making the mountain as an umbrella[^prr34],  
@@ -1331,13 +1331,13 @@ And worship our Goddess Pavai.
 
 
 ## २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3" caption="vibhA - 25 - Oruthi Maganai - Behaag"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3" caption="vibhA - 25 - Oruthi Maganai - Behaag"></div>
 
 
 ऒरुत्ति+++(=ऒत्ति)+++ मगन् आय्प् पिऱन्दु, ओर् इरविल्+++(=इरळिल्)+++  
 ऒरुत्ति मगनाय् ऒळित्तु+++(=गुप्त्वा)+++ वळर+++(=बॆळियलु)+++,  
 तरिक्किलान्+++(=तडॆयलार)+++ आगित्तान् तीङ्गु+++(=दुष्टतां)+++ निनैन्द+++(=ऒडॆद)+++,  
-करुत्तैप्+++(=दुरुद्देशं)+++ पिऴैप्प्+++(=व्यर्थं)+++ इत्तुक् कंजन्+++(=कंसन्)+++ वयिट्रिल्+++(=वैरुळ्)+++  
+करुत्तैप्+++(=दुरुद्देशं)+++ पिऴैप्प्+++(=व्यर्थं)+++ इत्तुक् कञ्जन्+++(=कंसन्)+++ वयिट्रिल्+++(=वैरुळ्)+++  
 नॆरुप्प् ऎन्न+++(=ऎम्ब)+++ निन्ऱ नॆडुमाले+++(=सर्वेश्वरने)+++, उन्नै  
 अरुत्तित्तु+++(=अर्थयितुम्)+++ वन्दों पऱै+++(=इष्टार्थं)+++ तरुदिय्+++(=तरुवन्तॆ)+++ आगिल्,  
 तिरुत्+++(=श्रीक्)+++-तक्क शॆल्वमुं+++(=सम्पत्तिं)+++ शेवगमुं+++(=[युद्ध]सेवकताम्)+++ यां पाडि,  
@@ -1345,7 +1345,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=gysjCu2No7Y" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=gysjCu2No7Y" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1363,7 +1363,7 @@ And worship our Goddess Pavai.
 
 Being born to woman,  
 And in the same night in hiding .  
-You became  the son of another,  
+You became the son of another,  
 But this he could not tolerate,  
 And wanted to cause more harm to you,  
 And you great one , became ,  
@@ -1379,8 +1379,8 @@ And worship our Goddess Pavai.
 
 
 
-## २६ शङ्खादि-परिकराः -  माले मणिवण्णा
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3" caption="vibhA - 26 - Maale Manivanna - Kuntala VaraLi"></div>
+## २६ शङ्खादि-परिकराः - माले मणिवण्णा
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3" caption="vibhA - 26 - Maale Manivanna - Kuntala VaraLi"></div>
 
 
 माले+++(=आश्रित-वत्सल)+++ ! +++(इन्द्रनील-)+++मणि-वण्णा ! मार्गऴि+++(=मार्गशिर)+++ नीर् आडुवान्+++(=आडलु)+++,  
@@ -1394,7 +1394,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=TNadpl6QAus" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=TNadpl6QAus" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1412,15 +1412,15 @@ And worship our Goddess Pavai.
 
 Oh lord Vishnu , Oh lord who is like the blue sapphire,  
 If you ask us what we need ,  
-In your great grace  and great deeds,  
+In your great grace and great deeds,  
 For our holy bath of Marghazhi,  
 We will ask for very many conches  
 Like the milk white conch of yours called Pancha Janya,  
-Very many big drums  whose sound can be heard everywhere,  
-Several  musicians of fame to sing “Pallandu[^prr36]”  
+Very many big drums whose sound can be heard everywhere,  
+Several musicians of fame to sing “Pallandu[^prr36]”  
 Several beautiful pretty lamps,  
 Several flags and cloths to make tents,  
-Oh , He who sleeps on a banyan  leaf at time of deluge,  
+Oh , He who sleeps on a banyan leaf at time of deluge,  
 Please give us them all,  
 So that we worship our Goddess Pavai.  
 
@@ -1430,8 +1430,8 @@ So that we worship our Goddess Pavai.
 
 
 
-## २७ गानात् पुष्कलो भोगः -  कूडारै वेल्लुम् सीर्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3" caption="vibhA - 27 - Koodaraivellum - Poorvi KalyaNi"></div>
+## २७ गानात् पुष्कलो भोगः - कूडारै वेल्लुम् सीर्
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3" caption="vibhA - 27 - Koodaraivellum - Poorvi KalyaNi"></div>
 
 
 कूडारै+++(=शत्रुगळै)+++ वॆल्लुं+++(=गॆल्लुं)+++ शीर्+++(=श्री)+++ गोविन्दा, उन्-तन्नै+++(=निन्नन्नु)+++  
@@ -1445,7 +1445,7 @@ So that we worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=AX3GGb7zhTc" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=AX3GGb7zhTc" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1467,20 +1467,20 @@ And after being praised by all the people,
 Wear we will the golden flower on our hair,  
 Wear we will golden bracelets,  
 Wear we will golden ear studs,  
-Wear we would then  the golden flowers on the ear,  
+Wear we would then the golden flowers on the ear,  
 Wear we will ornaments on the legs,  
 Wear we will pretty new dresses,  
 Eat we will rice mixed with milk,  
 Covering the rice fully with ghee,  
 And with the ghee dripping from our forehands,  
-We will be  together and be  happy,  
+We will be together and be happy,  
 And worship our Goddess Pavai.  
 </details>
 
 
 
 ## २८ अपराध-क्षमा - कऱवैगळ् पिन्
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3" caption="vibhA - 28 - Karavaigalpin - Kamboji"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3" caption="vibhA - 28 - Karavaigalpin - Kamboji"></div>
 
 
 कऱवैगळ्+++(=गावः)+++ पिन् शॆन्ऱु, कानं+++(=काननं)+++ शेर्न्द् उण्+बोम्+++(=उणृ-पोलॆ)+++,  
@@ -1494,7 +1494,7 @@ And worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=Z3h1BoJMwDo" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=Z3h1BoJMwDo" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1517,8 +1517,8 @@ But We are blessed that you are one of us..
 Oh Govinda who does not have any short comings.  
 None can ever break the ties that we have with you,Oh Lord,  
 We are but ignorant girls, who do not know the world,  
-And in ignorance and love  we have called you by name.  
-So please be  not be angry on us,  
+And in ignorance and love we have called you by name.  
+So please be not be angry on us,  
 And please give us drums, Oh Lord,  
 So that we can worship our Goddess Pavai.  
 </details>
@@ -1526,7 +1526,7 @@ So that we can worship our Goddess Pavai.
 
 
 ## २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिट्रं शिऱु
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3" caption="vibhA - 29 - Chitram Chirukaale - Madhyamaavati"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3" caption="vibhA - 29 - Chitram Chirukaale - Madhyamaavati"></div>
 
 
 
@@ -1541,7 +1541,7 @@ So that we can worship our Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=xTfF_82e_1Y" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=xTfF_82e_1Y" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1558,7 +1558,7 @@ So that we can worship our Goddess Pavai.
 <details><summary>P.R.Ramachander English Free Verse </summary>
 
 Please hear why, In this very early dawn, We have come to worship, Your golden holy feet.  
-Please hear  why,  
+Please hear why,  
 In this very early dawn,  
 We have come to worship,  
 Your golden holy feet.  
@@ -1575,11 +1575,11 @@ And help us to worship Goddess Pavai.
 
 
 ## ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
-<div class="audioEmbed"  src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3" caption="vibhA - 30 - Vangakkadal kadainda - suruTTi"></div>
+<div class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3" caption="vibhA - 30 - Vangakkadal kadainda - suruTTi"></div>
 
 
 वङ्गक्+++(=महा-नौ)+++-कडल् कडैन्द माधवनै केशवनै,  
-तिङ्गळ्+++(=चन्द्र)+++-तिरु-मुगत्तुच्+++(=मुखत्तु)+++ चॆय्+++(=शे=श्रेष्ठ)+++ इऴैयार्+++(=आभरणनानि)+++ शॆन्ऱ् इऱैंजि+++(=स्तुतिसि)+++,  
+तिङ्गळ्+++(=चन्द्र)+++-तिरु-मुगत्तुच्+++(=मुखत्तु)+++ चॆय्+++(=शे=श्रेष्ठ)+++ इऴैयार्+++(=आभरणनानि)+++ शॆन्ऱ् इऱैञ्जि+++(=स्तुतिसि)+++,  
 अङ्गप् पऱै+++(=इष्टार्थं)+++ कॊण्ड वाट्रै+++(=विषयं)+++, अणि+++(=सु)+++-पुदुवै+++(=श्रीविल्लिपुत्तूर् इत्यस्य)+++  
 पैङ्+++(=सु)+++-गमलत् तण्+++(=तम्प्)+++ तॆरियल्+++(=मालाः)+++ पट्टर्+++(=भट्टर्)+++ पिरान्+++(=जात)+++ गोदै शॊन्न,  
 शङ्गत्+++(=सङ्गत्)+++ तमिऴ्-मालै मुप्पदुं तप्पामे,  
@@ -1589,7 +1589,7 @@ And help us to worship Goddess Pavai.
 
 <details><summary>अभिनयः</summary>
 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=g4oSE0vQdmA" caption="ऐश्वर्या-नृत्यम्"></div>
+<div class="videoEmbed" src="https://www.youtube.com/watch?v=g4oSE0vQdmA" caption="ऐश्वर्या-नृत्यम्"></div>
 
 </details>
 
@@ -1614,10 +1614,10 @@ The Madhava who is also Lord Kesava,
 Who churned the ocean of milk,  
 For getting a drum to worship Goddess Pavai,  
 As sung by Kodhai who is the dear daughter,  
-Of  Vishnu Chitta the bhattar,  
+Of Vishnu Chitta the bhattar,  
 From the beautiful city of Puduvai,  
-Will  be happy and get the grace,  
-Of our Lord Vishnu  with merciful pretty eyes.  
+Will be happy and get the grace,  
+Of our Lord Vishnu with merciful pretty eyes.  
 And four mountain like shoulders, for ever  
 </details>
 
@@ -1741,9 +1741,9 @@ And four mountain like shoulders, for ever
 </details>
 
 <details><summary>P.R.Ramachander English Intro</summary>
-Saint Andal also known as Nachiar and also as Kodhai  was the daughter of Vishnu Chitta alias Nammazhwar of Srivilliputtur. She is one of the most important saints of Sri Vaishnavism. At an early age she well in love with Lord Krishna  and because she used to wear the garlands meant for the deity before it is worn by  the God, she was also called Chudi Kodutha Chudar Kodi. People believed that she was an avathara (incarnation)  of Bhooma Devi. At the end of her life she left her ethereal body and mingled with her Lord.  
+Saint Andal also known as Nachiar and also as Kodhai was the daughter of Vishnu Chitta alias Nammazhwar of Srivilliputtur. She is one of the most important saints of Sri Vaishnavism. At an early age she well in love with Lord Krishna and because she used to wear the garlands meant for the deity before it is worn by the God, she was also called Chudi Kodutha Chudar Kodi. People believed that she was an avathara (incarnation) of Bhooma Devi. At the end of her life she left her ethereal body and mingled with her Lord.  
 
-Her most important poetic work is Thiruppavai. This extols the virtues of Lord Krishna and requests him for help and guidance  in the worship of  Goddess Pavai. The worship of this Goddess was very common in Tamil Nadu since ancient times. The worship was done by unmarried girls. They all used to take bath in the rivers daily early in the dawn, in the month of Margazhi(December-January) and worship the goddess by dance and music and observe very strict penance during the day.This it was believed would get them good husbands and would lead to a very happy married life. On each day one of the hymns are being sung during this month even today.  
+Her most important poetic work is Thiruppavai. This extols the virtues of Lord Krishna and requests him for help and guidance in the worship of Goddess Pavai. The worship of this Goddess was very common in Tamil Nadu since ancient times. The worship was done by unmarried girls. They all used to take bath in the rivers daily early in the dawn, in the month of Margazhi(December-January) and worship the goddess by dance and music and observe very strict penance during the day.This it was believed would get them good husbands and would lead to a very happy married life. On each day one of the hymns are being sung during this month even today.  
 
 Her poetic works reveal her Nayaki-Nayaka bhava (Heroine-Hero feeling) and absolute surrender to the God. Surrender being the bed rock principle on which Sri Vaishnavism rested , she was revered very much. Her sentiments expressed in her pasurams(poems to God) found an immediate echo in the common man’s mind. Sri Ramanuja who was possibly the greatest saint –philosopher of Sri Vaishnavism , extolled her Bhakthi and sang all the thirty Thiruppavai pasurams every day. Because of that he was called Thiruppavai Azhwar. Also there is a practice to this day among Sri Vaishnavas that during the Poojas of God in any of their temples the last two stanzas of Thiruppavai are sung . It is also interesting to know that these two stanzas are also recited in Tamil during coronation of the kings of Thailand (Rama dynasty).+++(5)+++  
 
