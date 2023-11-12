@@ -27,3 +27,8 @@ unicode_script = "devanagari"
 >  Just happened to read Prof. Harold Schiffman’s paper “The Tamil Liquids, Revisited”. I think he is spot on that modern spoken Tamil has lost the distinction between ர (the “soft” r) and ற (the “hard” r) as also between ல (alveolar l) and ள (retroflex l); and that ழ (zha) has merged with ள (retroflex l).  To me, it appears that most native speakers of Tamil get the correct pronunciation of ள only when they try to pronounces ழ.  🙂 At other times they have a tough time distinguishing ல and ள.  Similarly, the distinction between dental ந (n) and alveolar ன (ṉ) has practically disappeared.  நான் (naaṉ, I) is pronounced as னான் (ṉaaṉ), the tandoori bread that we eat in Indian restaurants. The distinction between retroflex ண and alveolar ன has also blurred to the extent they have to call the former 3-chuzhi (curl) na and the latter 2-chuzhi (curl) na.
 > 
 > इति राधाकृष्णः [अत्र](https://groups.google.com/g/bvparishat/c/VwIgYA5Qlyk/m/BtShFTZeBwAJ) । 
+
+## वर्ण-व्यत्ययः
+- ऎय-अभेदः 
+  - ऎदिरास = यतिराज = अतिराज
+- उव-अभेदः
