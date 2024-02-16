@@ -12148,7 +12148,11 @@ While Rāma crossed the ocean, the lustre of the disturbed ocean became tranquil
 </details>
 
 
+<details open><summary>मूलम्</summary>
+
 इअ सिरिपवरसेणविर‍इए कालिदासकए दहमुहवहे महाकव्वे अट्ट्ःअमो आसासओ ।  
+</details>
+
 <details><summary>छाया</summary>
 
 इति श्रीप्रवरसेनविरचिते कालिदासकृते दशमुखवधे महाकाव्येऽष्टम आश्वासकः
