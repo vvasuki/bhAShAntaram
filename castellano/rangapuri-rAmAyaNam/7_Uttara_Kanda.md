@@ -309,7 +309,7 @@ Ella corrió donde Nalakuvara y le contó entrecortadamente lo que había aconte
 
 ## 6 La historia de Indrajit y su batalla contra el Rey del cielo
 
-i bien para evitar que se cumplan las maldiciones de que fue objeto, Ravana evitó tomar por la fuerza a las mujeres, su afán belicoso
+Ni bien para evitar que se cumplan las maldiciones de que fue objeto, Ravana evitó tomar por la fuerza a las mujeres, su afán belicoso
 
 “
 
@@ -357,7 +357,7 @@ Hanuman, que se encontraba entre los que escuchaban esta conversación, al escuc
 
 ## 7 Se revelan las glorias de Hanuman
 
-nte la pregunta de Sri Rama acerca de Hanuman, Agastya, de ex-
+Ante la pregunta de Sri Rama acerca de Hanuman, Agastya, de ex-
 
 traordinario conocimiento, habló algo sobre la vida del extraordinario simio: “Vayu, el semidiós del viento, quedó prendado de la belleza de Añjana, que era esposa de Keshari, un jefe mono que antiguamente residía en el monte Meru.
 
@@ -977,7 +977,7 @@ traerá desastres, al igual que un impostor no puede ejercer de médico.
 
 ## 18 La importancia de ser caritativo  y de extirpar el mal de raiz
 
-ri Rama elevándose en la maravillosa nave, emprendió la búsque-
+Sri Rama elevándose en la maravillosa nave, emprendió la búsque-
 
 da del transgresor sobrevolando inicialmente el Occidente de Bha-ratavarsha46; éste territorio estaba pleno de campos recubiertos con el verdor de la foresta; cuando pasó por el Norte47 vio que todo estaba cubierto de nieve; en los territorios del Este no vio nada irregular; finalmente sobrevoló el Sur, donde la conducta era más pura. No obstante, observó que al lado norte de la montaña Saivala, donde había un gran lago, se encontraba una persona de aspecto tenebroso, quien estaba ejecutando grandes penitencias cabeza abajo, al estilo de la magia negra. Descendiendo ahí, Rama interrogó a este personaje, quien revelando su nombre Shambhuka admitió ser sudra y confesó que pretendía tomar el control de los mundos de los semidio-ses48. ¡Era ése el personaje que había causado la muerte del niño\!
 
@@ -1273,7 +1273,7 @@ Mientras Sita, la hija de Videha, hacía esa solemne declaración, un trono sost
 
 ## 23 Sita vuelve a las entrañas de la tierra
 
-nte la atónita mirada de los presentes, Sita sentada en ese magnífico trono y acompañada por la Madre Tierra en persona, ingresaron a las entrañas de la tierra, desapareciendo gradualmente, mientras los semidioses las cubrían con una lluvia divina de flores, exclamando: “Oh Sita, de inmaculada conducta, gloria a ti”.
+Ante la atónita mirada de los presentes, Sita sentada en ese magnífico trono y acompañada por la Madre Tierra en persona, ingresaron a las entrañas de la tierra, desapareciendo gradualmente, mientras los semidioses las cubrían con una lluvia divina de flores, exclamando: “Oh Sita, de inmaculada conducta, gloria a ti”.
 
 Estas y otras alabanzas fueron pronunciadas por los emocionados Devas cuando la impecable dama se adentraba a los mundos subyacentes. Todos los ascetas y reyes que habían venido al lugar no paraban de aclamar a Sita y en el firmamento todos los seres móviles e inmóviles, tanto poderosos demonios, como seres celestiales, no cesaban de glorificarla. Algunos tenían la vista fija en Sita, mientras otros tenían la vista en Rama, en tanto ella penetraba en esos mundos subterráneos. Todo el mundo contemplaba asombrado.
 

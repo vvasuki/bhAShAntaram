@@ -670,7 +670,7 @@ te, te daré la sortija con mi sello. Cuando Sita lo vea, sabrá sin dudarlo que
 
 ## 12 La maravillosa prediccion del gran ave
 
-abiéndose alimentado a plena satisfacción, los monos y osos se sintieron revitalizados. Hanuman entonces relató a la anciana asceta sobre el exilio del Señor Rama y Su alianza con Sugriva. “Todavía estamos buscando a Sita -dijo Hanuman- por favor muéstranos el
+Habiéndose alimentado a plena satisfacción, los monos y osos se sintieron revitalizados. Hanuman entonces relató a la anciana asceta sobre el exilio del Señor Rama y Su alianza con Sugriva. “Todavía estamos buscando a Sita -dijo Hanuman- por favor muéstranos el
 
 camino para que podamos continuar con éxito nuestra búsqueda”.
 

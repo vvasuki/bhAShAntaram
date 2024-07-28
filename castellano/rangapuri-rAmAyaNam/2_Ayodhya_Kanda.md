@@ -68,7 +68,7 @@ El rey Dasarath dio la bienvenida y ofreció asientos de honor a los monarcas qu
 
 ## 2 Comienzan los grandes preparativos
 
-nte la pregunta de Dasarath, la asamblea de reyes y príncipes rom-
+Ante la pregunta de Dasarath, la asamblea de reyes y príncipes rom-
 
 pió en aplausos y lo hicieron con gran júbilo; los principales bra-
 
@@ -218,7 +218,7 @@ bada Mathara y, sonriente, le ofreció cualquier bendición
 
 ## 5 Los efectos de escuchar ofensas
 
-e sólo imaginar el posible exilio de su hijo Bharat, y las desgra-
+De sólo imaginar el posible exilio de su hijo Bharat, y las desgra-
 
 cias anunciadas por la intrigante Manthara, la dulzura de Kaikeyi, 
 
@@ -264,7 +264,7 @@ Kaikeyi, siguiendo a pie puntillas los consejos de la perversa Manthara, se reti
 
 ## 6 La insolita peticion de la Reina Kaikeyi
 
-l rey Dasarath, que estaba ocupado en las preparaciones finales 
+El rey Dasarath, que estaba ocupado en las preparaciones finales 
 
 para la coronación de Rama, encomendó a Sumantra realizar otros 
 
@@ -316,7 +316,7 @@ Rey, y el exilio de Rama al bosque de Dandakaranya
 
 ## 7 La suplica del Rey
 
-ranscurrido largo tiempo, Dasarath reaccionó y, mirándola lleno 
+Transcurrido largo tiempo, Dasarath reaccionó y, mirándola lleno 
 
 de ira, reprochó a Kaikeyi:
 
@@ -376,7 +376,7 @@ Recuperando el sentido, Dasarath continuó así: “¡Condenadas las mujeres\!
 
 ## 8 La implacable fuerza de una promesa
 
-l Sol se puso y Dasarath Maharajyacía sumergido en lastimero 
+El Sol se puso y Dasarath Maharajyacía sumergido en lastimero 
 
 dolor, pese a ello, por momentos el Rey, suplicante, juntaba sus 
 
@@ -470,7 +470,7 @@ ciudadanos y les vivificaba, cual si fuera el Sol que, muy temprano en la mañan
 
 ## 10 Rama hace una terrible promesa
 
-i bien arribó al palacio del rey Dasarath, Rama descendió de la 
+Ni bien arribó al palacio del rey Dasarath, Rama descendió de la 
 
 carroza y despidiendo a su séquito, entró a los aposentos privados 
 
@@ -520,7 +520,7 @@ Dasarath saliendo de su sopor escuchó incrédulo las palabras que entraban como
 
 ## 11 Se desata la furia del amor
 
-l salir, Rama pasó sin mirar siquiera los fastuosos preparativos 
+Al salir, Rama pasó sin mirar siquiera los fastuosos preparativos 
 
 para la coronación; el haber perdido la soberanía, no disminuyó 
 
@@ -564,9 +564,7 @@ corriente de un desbordado río: “¿Mantener la palabra? ¿La palabra de un Re
 
 ## 12 Una tensa calma
 
-“
-
-as escuchado a tu hermano menor -le dijo Kausalya a Rama-. Sus 
+Has escuchado a tu hermano menor -le dijo Kausalya a Rama-. Sus 
 
 palabras son justas y llenas de sentido. Tú no deberías cumplir la 
 
@@ -616,7 +614,7 @@ Una vez a su lado, el príncipe le contó que el cumplimiento del deber lo impul
 
 ## 13 la ferrea determinacion de la princesa
 
-h, esposo mío\! ¿Qué consejos son estos? -preguntó Sita, indignada 
+Ah, esposo mío\! ¿Qué consejos son estos? -preguntó Sita, indignada 
 
 debido a su amor por él-. ¡Oh, joya entre los hombres\! Puesto que 
 
@@ -724,7 +722,7 @@ palacio real, hasta que cerca de los portales, anunció su llegada. Sumantra lo 
 
 ## 15 La importancia de la discrecion
 
-h, padre mío\! musitó Rama, no ambiciono asumir el trono, ni dis-
+Ah, padre mío\! musitó Rama, no ambiciono asumir el trono, ni dis-
 
 frutar de la opulencia real. En lugar de ello, viviré en el bosque y 
 
@@ -842,7 +840,7 @@ a su promesa
 
 ## 17 La triste despedida de Sri Rama
 
-irigiéndose a su madre, Rama juntó respetuosamente las palmas 
+Dirigiéndose a su madre, Rama juntó respetuosamente las palmas 
 
 de sus manos, pidiéndole: “Por favor, no culpes a mi padre. Mi 
 
@@ -1030,7 +1028,7 @@ en pos de agua: ansiando recibir al menos una mirada del rostro de loto de su pr
 
 ## 20 Una Ayodhya desolada
 
-l llegar a Ayodhya, las lágrimas de los ciudadanos eran inconte-
+Al llegar a Ayodhya, las lágrimas de los ciudadanos eran inconte-
 
 nibles, sin Rama la ciudad no tenía más encanto; al contrario, 
 
@@ -1160,7 +1158,7 @@ en el bosque
 
 ## 22 La llegada a Chitrakut y el encuentro con Valmiki
 
-l ver que una columna de humo salía de la chimenea de una choza, 
+Al ver que una columna de humo salía de la chimenea de una choza, 
 
 y al escuchar, cerca del lugar, el rugir de aguas, Sri Rama percibió 
 
@@ -1232,7 +1230,7 @@ recibió emocionado con honor y les invitó a residir en tan noble montaña
 
 ## 23 El reporte de Sumantra sobre el cumplimiento del destierro
 
-us informantes le hicieron saber al rey Guha que Sri Rama había 
+Sus informantes le hicieron saber al rey Guha que Sri Rama había 
 
 arribado a Chitrakut, noticia que, acongojado, compartió con Su-
 
@@ -1300,7 +1298,7 @@ el rey Dasarath quedó inconsolable y abatido
 
 ## 24 El Rey recuerda una tragedia
 
-umantra, a fin de calmar el dolor de Kausalya, hizo un esfuerzo 
+Sumantra, a fin de calmar el dolor de Kausalya, hizo un esfuerzo 
 
 extraordinario, y le contó que Sita estaba deleitada por la belle-
 
@@ -1354,7 +1352,7 @@ ba: ‘¿Por qué alguien quisiera matar a un asceta como yo, que no tiene enemi
 
 ## 25 La maldicion del anciano ciego
 
-l rey Dasarath continuó la narración: Mirándome fijamente con 
+El rey Dasarath continuó la narración: Mirándome fijamente con 
 
 ojos enrojecidos que parecían consumirme con su gloria, el joven 
 
@@ -1480,7 +1478,7 @@ Vasishtha Muni fue quien tomó la palabra para resolver al asunto señalando que
 
 ## 27 El retorno de Bharat
 
-e inmediato los mensajeros partieron en briosos corceles, y atra-
+De inmediato los mensajeros partieron en briosos corceles, y atra-
 
 vesaron montes y selvas camino a recoger a Bharat. En su travesía 
 
@@ -1536,7 +1534,7 @@ Bharat, cual árbol cortado por un hacha, se desplomó y, golpeando el piso, emp
 
 ## 28 Bharat escucha a sus madres
 
-harat, sin conmoverse con los halagos vacíos de Kaikeyi, continúo 
+Bharat, sin conmoverse con los halagos vacíos de Kaikeyi, continúo 
 
 en el piso sufriendo un agudo dolor durante largo tiempo. Luego, 
 
@@ -1598,7 +1596,7 @@ Después de escucharlo, Kausalya, entristecida por haber dudado de tan noble alm
 
 ## 29 Las exequias del Rey
 
-harat, luego de consolar a Kausalya, apuñalado por el dolor, fue-
+Bharat, luego de consolar a Kausalya, apuñalado por el dolor, fue-
 
 ra de sí, empezó a balbucear palabras incoherentes y, totalmente 
 
@@ -1708,7 +1706,7 @@ Al contemplar semejante despliegue militar en su territorio, el rey Guha, pensó
 
 ## 31 Se manifiesta una ciudadela en el bosque
 
-abiéndose producido el encuentro del rey Guha con la comitiva de 
+Habiéndose producido el encuentro del rey Guha con la comitiva de 
 
 Bharat, el ministro Sumantra, lo reconoció y de una manera na-
 
@@ -1784,7 +1782,7 @@ Los invitados, incrédulos y boquiabiertos, contemplaban lo que acontecía, admi
 
 ## 32 Sri Rama corrige a Lakshman
 
-la mañana siguiente, Bharat se aproximó a Bharadvaj y le agrade-
+A la mañana siguiente, Bharat se aproximó a Bharadvaj y le agrade-
 
 ció por la espléndida recepción. El sabio le indicó: “A veinte mi-
 
@@ -1838,7 +1836,7 @@ Con sus ojos de loto, Sri Rama continuó: “Seguramente Bharat, a quien quiero 
 
 ## 33 El hallazgo de la cabaña de Rama
 
-n tanto, Bharat rodeado por preceptores, encabezados por Vasish-
+En tanto, Bharat rodeado por preceptores, encabezados por Vasish-
 
 tha y ministros, en señal de humildad, se aproximó a pie. Trepán-
 
@@ -1896,7 +1894,7 @@ Bharat, dominado por la emoción, tropezando a pesar de que el terreno era llano
 
 ## 34 Rama describe los deberes de un gobernante
 
-ri Ramachandra continuó: “Además, es siempre mejor tener un 
+Sri Ramachandra continuó: “Además, es siempre mejor tener un 
 
 entorno reducido y selecto. Y mil veces preferible estar cerca de 
 
@@ -1948,7 +1946,7 @@ Bharat, que en realidad no tenía deseo alguno de gobernar, respondió a su herm
 
 ## 35 Bharat es redimido por Sri Rama
 
-harat, después de abrir su corazón ante Rama, y confesar su desin-
+Bharat, después de abrir su corazón ante Rama, y confesar su desin-
 
 terés en asumir el reino de Ayodhya, habló con el príncipe mayor 
 
@@ -1986,7 +1984,7 @@ Dirigiéndose a Lakshman para que prepare pulpa y cortezas del árbol Ingu-di, p
 
 ## 36 La ofrenda funeral en el rio Mandakini
 
-l ilustre Rama que había llegado penosamente hasta la orilla del 
+El ilustre Rama que había llegado penosamente hasta la orilla del 
 
 sagrado Mandakini, recogió agua del mismo río formando un cuen-
 
@@ -2034,7 +2032,7 @@ Es también inevitable el sendero del deber, trazado por nuestros padres y super
 
 ## 37 Los argumentos de Bharat
 
-unque la verdad era evidente, Bharat propuso otros argumentos 
+Aunque la verdad era evidente, Bharat propuso otros argumentos 
 
 válidos. Entonces, le dijo a Rama, que ningún príncipe se le com-
 
