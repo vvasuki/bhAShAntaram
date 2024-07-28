@@ -9,9 +9,17 @@ un recuento de formidables eventos de magia y misticismo,
 en un mundo donde los humanos vivían avecindados con seres más poderosos  
 y donde la sociedad humana, en su conjunto,  
 poseía conocimiento de fuerzas divinas y sobrenaturales,  
-hoy desconocidas. El Ramayana devela también la avanzada y piadosa civilización de los Arios1, tan misteriosa y noble. El lector cuenta además, con un apéndice que le permite aclarar la comprensión de las castas, los brahmanes y tantos asuntos comúnmente mal inter-pretados o tergiversados sobre la cultura Védica de la antigua India. 
+hoy desconocidas.  
 
-Avanzando a otro nivel, el Ramayana es accesible a aquellos fascinados por diferentes culturas y por sus valores, pues narra de manera viva, la llamada era Védica, cuando grandes reyes guerreros gobernaban el planeta guiados por ascetas y santos iluminados. Una época en que los hombres vivían con la comprensión de ser almas eternas, pasando de una vida a otra en pos del estado de emancipa-ción final, así, la prosecución de la virtud y la verdad se consideraban de suprema importancia y la vida humana era vista como una oportunidad de alcanzar la 1 Este término, arya en sánscrito, no hace referencia alguna a una raza o nacionalidad en particular, sino a la adherencia disciplinada a elevados principios éticos. 
+El Ramayana devela también la avanzada y piadosa civilización de los Arios[^1], tan misteriosa y noble.  
+El lector cuenta además, con un apéndice que le permite aclarar la comprensión de las castas, los brahmanes y tantos asuntos comúnmente mal inter-pretados o tergiversados sobre la cultura Védica de la antigua India. 
+
+[^1]: Este término, arya en sánscrito, no hace referencia alguna a una raza o nacionalidad en particular, sino a la adherencia disciplinada a elevados principios éticos. 
+
+Avanzando a otro nivel, el Ramayana es accesible a aquellos fascinados por diferentes culturas y por sus valores, pues narra de manera viva, la llamada era Védica, cuando grandes reyes guerreros gobernaban el planeta guiados por ascetas y santos iluminados. Una época en que los hombres vivían con la comprensión de ser almas eternas, pasando de una vida a otra en pos del estado de emancipa-ción final, así, la prosecución de la virtud y la verdad se consideraban de suprema importancia y la vida humana era vista como una oportunidad de alcanzar la 
+
+
+
 
 23
 
