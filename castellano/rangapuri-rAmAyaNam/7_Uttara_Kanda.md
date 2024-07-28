@@ -19,9 +19,7 @@ title = "7 Uttara Kanda"
 
 **Uttara Kanda**
 
-*1*
-
-**Los ascetas felicitan a Rama y empieza **
+## 1 **Los ascetas felicitan a Rama y empieza **
 
 **una narracion reveladora**
 
@@ -75,9 +73,7 @@ El erudito continuo así la narración: “Al reparar en esta situación, el Se�
 
 **El Gobernante Ideal**
 
-*2*
-
-**El origen de Ravana **
+## 2 **El origen de Ravana **
 
 **y sus hermanos**
 
@@ -135,9 +131,7 @@ Aunque Kaikashi fue satisfecha por Vishrava, con el paso del tiempo, ella no pud
 
 **El Gobernante Ideal**
 
-*3*
-
-**Ravana arrebata a Kuvera **
+## 3 **Ravana arrebata a Kuvera **
 
 **su ciudad y su nave **
 
@@ -199,9 +193,7 @@ Dasagriva, haciendo caso omiso a las palabras de Nandi, respondió: ‘debido a 
 
 **El Gobernante Ideal**
 
-*4*
-
-**El arrogante Ravana ofende **
+## 4 **El arrogante Ravana ofende **
 
 **a la bella asceta**
 
@@ -269,9 +261,7 @@ edavati y era hija de un poderoso sabio, que a su vez era hijo del 536
 
 **El Gobernante Ideal**
 
-*5*
-
-**Se acumulan las maldiciones**
+## 5 **Se acumulan las maldiciones**
 
 **contra Ravana**
 
@@ -327,9 +317,7 @@ Ella corrió donde Nalakuvara y le contó entrecortadamente lo que había aconte
 
 **El Gobernante Ideal**
 
-*6*
-
-**La historia de Indrajit y su**
+## 6 **La historia de Indrajit y su**
 
 **batalla contra el Rey del cielo**
 
@@ -379,9 +367,7 @@ Hanuman, que se encontraba entre los que escuchaban esta conversación, al escuc
 
 **Uttara Kanda**
 
-*7*
-
-**Se revelan las glorias**
+## 7 **Se revelan las glorias**
 
 **de Hanuman**
 
@@ -499,9 +485,7 @@ par tan atractiva fruta
 
 **El Gobernante Ideal**
 
-*8*
-
-**Sri Rama empieza a gobernar. **
+## 8 **Sri Rama empieza a gobernar. **
 
 **Belleza y plenitud se manifiestan**
 
@@ -569,9 +553,7 @@ tud se manifestaron. Sita Rama, Lakshman y Hanuman
 
 **Uttara Kanda**
 
-*9*
-
-**La crueldad de los rumores **
+## 9 **La crueldad de los rumores **
 
 **de los insensatos**
 
@@ -623,9 +605,7 @@ Ustedes conocen las circunstancias en las que Sita fue secuestrada por Ravana, t
 
 **El Gobernante Ideal**
 
-*10*
-
-**Se avecina un triste desenlace**
+## 10 **Se avecina un triste desenlace**
 
 el Rey continuó hablando amargamente: “Entonces habiendo acep-
 
@@ -669,9 +649,7 @@ A continuación, Lakshman secando sus ojos le pidió a Sumantra que aguar-de con
 
 **Uttara Kanda**
 
-*11*
-
-**Sita es llevada al**
+## 11 **Sita es llevada al**
 
 **ashram de Valmiki**
 
@@ -707,9 +685,7 @@ Lakshman, abatido e incapaz de hablar, hizo reverencias poniendo su frente al ra
 
 **El Gobernante Ideal**
 
-*12*
-
-**El encuentro de Sita con Valmiki y **
+## 12 **El encuentro de Sita con Valmiki y **
 
 **el cumplimiento de una profecia**
 
@@ -775,9 +751,7 @@ Llamen a mis súbditos y también a brahmanes y a consejeros. Citen a todos los 
 
 **El Gobernante Ideal**
 
-*13*
-
-**Rama cuenta historias**
+## 13 **Rama cuenta historias**
 
 **de reyes virtuosos**
 
@@ -839,9 +813,7 @@ Sentándose en la Corte Real, Sri Rama, rodeado por sus ministros, consejeros, d
 
 **El Gobernante Ideal**
 
-*14*
-
-**El sorprendente incidente del**
+## 14 **El sorprendente incidente del**
 
 **perro y el Acharya descalificado**
 
@@ -883,9 +855,7 @@ Después de decir esto, el perro desapareció. Más tarde se supo que dejando la
 
 **Uttara Kanda**
 
-*15*
-
-**Nacen los divinos**
+## 15 **Nacen los divinos**
 
 **Lav y Kush**
 
@@ -927,9 +897,7 @@ Como es tradición en las grandes familias, se recitaron los nombres de sus nobl
 
 **El Gobernante Ideal**
 
-*16*
-
-**La muerte del demonio Lavanasura**
+## 16 **La muerte del demonio Lavanasura**
 
 **y la fundacion de Madhura**
 
@@ -977,9 +945,7 @@ Habiendo establecido ese reino, al principio del duodécimo año, Satrughna, vol
 
 **Uttara Kanda**
 
-*17*
-
-**Una hermosa cancion**
+## 17 **Una hermosa cancion**
 
 **conmueve a Satrughna**
 

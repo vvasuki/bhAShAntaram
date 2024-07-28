@@ -21,9 +21,7 @@ title = "5 Sundara Kanda"
 
 **La Bella Expedicion**
 
-*1*
-
-**el viaje de hanuman a lanka**
+## 1 **el viaje de hanuman a lanka**
 
 anuman, dispuesto a saltar por encima del océano, trepó a la cima del monte Mahendra y, expandiéndose hasta lograr proporciones
 
@@ -83,9 +81,7 @@ a fluir de las rocas y la montaña empezó a temblar; los pájaros, elefantes y 
 
 **La Bella Expedicion**
 
-*2*
-
-**La búsqueda nocturna**
+## 2 **La búsqueda nocturna**
 
 **en Lanka**
 
@@ -139,9 +135,7 @@ Tomando esa firme resolución, Hanuman continuó su búsqueda.
 
 **La Bella Expedicion**
 
-*3*
-
-**Ravana aborda a Sita**
+## 3 **Ravana aborda a Sita**
 
 ientras Hanuman caminaba por los alrededores del palacio, vio un bosquecillo inexplorado de árboles de *ashoka*. Saltando por encima de la tapia, entró a un jardín, donde había pájaros multicolores y estanques llenos de flores de loto. Confundido por la vasta complejidad del jardín, Hanuman se trepó a un árbol, desde donde podía divisar la arboleda completa.
 
@@ -219,9 +213,7 @@ tocaré a menos que tú correspondas a mi amor
 
 **Sundara Kanda**
 
-*4*
-
-**El anillo de Rama en el **
+## 4 **El anillo de Rama en el **
 
 **bosque de los Ashokas**
 
@@ -303,9 +295,7 @@ en mis palabras. Aunque soy solamente un mono, soy Su mensajero.”
 
 **Sundara Kanda**
 
-*5*
-
-**El mensaje de Sita para Rama**
+## 5 **El mensaje de Sita para Rama**
 
 on lágrimas en los ojos, Sita consideró qué prenda haría llegar a su amado; tenía que ser una señal inequívoca que indique que provenía de ella en persona, por lo que una vez más la dama de Mithila habló: “el signo más seguro de todos será recordarle algo que vivimos juntos”, y comenzó a narrar una historia, y lo hizo como si Rama estuviese presente.
 
@@ -359,9 +349,7 @@ Hanuman, postrándose ante Sita, la circundó en actitud de adoración, y se dis
 
 **La Bella Expedicion**
 
-*6*
-
-**Hanuman destruye la arboleda **
+## 6 **Hanuman destruye la arboleda **
 
 **de Ashokas y es capturado**
 
@@ -415,9 +403,7 @@ Ravana, deseoso de conocer la razón por la que este mono había venido a la ciu
 
 **Sundara Kanda**
 
-*7*
-
-**Un devastador incendio **
+## 7 **Un devastador incendio **
 
 **consume la bella ciudad**
 
@@ -477,9 +463,7 @@ llamas envolvieron a la ciudad íntegra, y los demonios se sumieron en el caos
 
 **Sundara Kanda**
 
-*8*
-
-**el triunfal retorno **
+## 8 **el triunfal retorno **
 
 **de hanuman**
 
@@ -551,9 +535,7 @@ Arengando a sus seguidores, Angada modestamente señaló: “Sugiero que retorne
 
 **Sundara Kanda**
 
-*9*
-
-**Hanuman informa **
+## 9 **Hanuman informa **
 
 **a Sri Rama**
 

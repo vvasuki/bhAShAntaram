@@ -7,19 +7,15 @@ title = "1 Bala Kanda"
 
 **Canto I**
 
-**Bala Kanda**
 
 **El libro de la edad temprana**
-
 **de Rama**
 
 41
 
-**La Edad Temprana de Rama**
 
-*1*
 
-**El sabio Narada, narra la **
+## 1 **El sabio Narada, narra la **
 
 **historia de Rama a Valmiki**
 
@@ -41,7 +37,7 @@ ritual. Convirtió su choza en un sencillo templo \( *ashram\)*,10 sus hijos se 
 
 43
 
-**Bala Kanda**
+
 
 n cierta ocasión, el sabio asceta Valmiki11preguntó a su maestro Narada Muni, si en este mundo existía una persona que encarnase la virtud y la perfección. 
 
@@ -63,7 +59,7 @@ sinopsis de la epopeya de Rama, el reino de Ayodhya, la vida con su maestro, sus
 
 44
 
-**La Edad Temprana de Rama**
+
 
 mar, la lucha contra los demonios en Sri Lanka y el retorno triunfal a la ciudad de Ayodhya para gobernarla como un Rey ideal, ejemplificando así la organización perfecta de una sociedad. Entonces Narada predijo que los pasatiempos de Rama se revelarían en el corazón de Valmiki y también predijo sobre las virtudes que se manifestarían en quien estudie el Ramayana:
 
@@ -89,7 +85,7 @@ sudras\).
 
 
 
-**Bala Kanda**
+
 
 Mientras Valmiki se encontraba meditando, por sorpresa apareció el pro-
 
@@ -97,11 +93,9 @@ pio Brahma, semidiós principal, de cuatro rostros y creador de los sistemas 46
 
 planetarios, iluminando el ashram con su esplendor
 
-**La Edad Temprana de Rama**
 
-*2*
 
-**Valmiki Rishi recibe la**
+## 2 **Valmiki Rishi recibe la**
 
 **visita de Brahma**
 
@@ -121,7 +115,7 @@ acompañado por su discípulo Bharadvaj, para realizar sus ritos purificatorios 
 
 47
 
-**Bala Kanda**
+
 
 da en desesperado lamento- Valmiki profirió una maldición contra el matador: 
 
@@ -151,7 +145,7 @@ iluminando el *ashram * con su esplendor. Valmiki junto con sus discípulos se a
 
 48
 
-**La Edad Temprana de Rama**
+
 
 vida íntegra de Sri Rama \(quien es pleno en sabiduría y cuya mente está dada a la piedad\), todos los detalles te serán revelados internamente y percibirás incluso los pensamientos y los sentimientos de aquellos personajes que participen de los pasatiempos del Señor, y debes narrarlos en términos, tanto evidentes, como confidenciales. Todo cuanto describas sobre Rama, probará ser cierto. Mientras las montañas se mantengan en pie y los ríos corran hacia el mar, el Ramayana vivirá en los corazones y en los labios de los hombres; mientras esta narración perdure, tú mismo residirás en el planeta de tu elección.’
 
@@ -163,11 +157,9 @@ Así, Valmiki empezó a componer, en esa métrica, los miles de versos que compo
 
 49
 
-**Bala Kanda**
 
-*3*
 
-**El Ramayana es cantado **
+## 3 **El Ramayana es cantado **
 
 **ante Sri Rama**
 
@@ -187,7 +179,7 @@ Por voluntad divina, Valmiki, en su cuerpo espiritual, accedió al pasado, al pr
 
 50
 
-**La Edad Temprana de Rama**
+
 
 contienen la historia del glorioso Rama. El piadoso Valmiki se preguntaba quién podría recitar la hermosa y beneficiosa épica, pues aquél que lo hiciera reque-riría una memoria y una habilidad extraordinarias. De pronto, vio aproximarse a Lav y Kush los pupilos y ahijados mellizos que el poeta había visto nacer; dos hermosos y talentosos jóvenes entrenados por él mismo, y que ahora venían como discípulos a ofrecer sus respetos a su *guru. * Enterados de la tarea se ofrecieron dichosos para recitar el Ramayana; de esta manera, Valmiki les confió este servicio. 
 
@@ -197,7 +189,7 @@ El sabio Valmiki les enseñó el gran poema, el cual resultó exquisito al canta
 
 Siguiendo fielmente las instrucciones de Valmiki, cantaron los maravillosos pasatiempos de Rama ante grandes sabios, brahmanes eruditos y otros seres piadosos. Las personas purificadas que escuchaban la recitación se deleitaban de tal manera que no solamente exclamaban su profunda satisfacción, sino que felicitaban a los jóvenes poetas, luego, con alegría y emocionadas lágrimas en los ojos, les ofrecían variados presentes que serían útiles para su servicio: jarras 51
 
-**Bala Kanda**
+
 
 *\(kamandalu\) * y otros recipientes,20 vestimentas21 y cordones brahmánicos, esteras de hierba *kush* y pieles de venado22 que los yoguis usan para meditar, también les obsequiaron instrumentos musicales y, además, invocaron bendiciones para que ellos tuvieran una vida larga y feliz. 
 
@@ -217,11 +209,9 @@ En medio de una audiencia virtuosa, que se aprestaba a escuchar con gran atenci�
 
 52
 
-**La Edad Temprana de Rama**
 
-*4*
 
-**Comienza la narracion **
+## 4 **Comienza la narracion **
 
 **describiendo la Ciudad Invencible**
 
@@ -251,7 +241,7 @@ millas, lo que nos indica que se trataba de un territorio de 96 millas por 24 mi
 
 53
 
-**Bala Kanda**
+
 
 refrescante de árboles frutales. Los estanques están llenos de flores de loto -azules, rojas y doradas-, y las fuentes propulsan el agua hacia la altura. Brisas gentiles llevan el rocío aromático de las fuentes y refrescan a los ciudadanos con su contacto, logrando que, incluso, un cálido día de verano, parezca primavera. El melodioso canto de grullas, cisnes, cucos y pavos reales se puede escuchar por doquier. El agua que fluye a través de sus ríos y riachuelos, y que riega los numerosos árboles de mango y las huertas, tiene un sabor dulce. 
 
@@ -267,7 +257,7 @@ Cañones y catapultas, capaces de reprimir a cualquier enemigo, protegen las mur
 
 54
 
-**La Edad Temprana de Rama**
+
 
 tra grandes multitudes. Elefantes enormes e inteligentes, traídos de los montes Vindhya, Mada, o de los Himalayas, son entrenados para el combate organizado, y briosos corceles adiestrados en Kambhoja27 transportan, con brío, a los valientes guerreros, obedientes al Rey y a los profesores brahmanes *. * Hondas fosas, de aguas profundas, infestadas de cocodrilos, rodean la ciudad, haciendo que ésta sea inaccesible e inexpugnable. 
 
@@ -283,7 +273,7 @@ En esta gran ciudad vivía un rey llamado Dasarath, quien gobernaba la Tierra í
 
 55
 
-**Bala Kanda**
+
 
 En asuntos de administración, el rey Dasarath era servido por ocho minis-tros28 veraces y extremadamente calificados, estos ministros, honestos y dueños de sí mismos, además de estar bien versados en los *Vedas, * sabían cómo aplicar el conocimiento en la vida diaria. Siendo *kshatriyas*, ellos también eran diestros en el uso de armas y su poder en las artes marciales era extraordinario. Por ser bondadosos con los ciudadanos, todo el mundo los honraba. Ellos establecieron una población altamente educada y eliminaron la maldad, la codicia, la avaricia y la ignorancia. En asuntos espirituales, el rey Dasarath, era asesorado por dos sabios prominentes: Vasishtha Muni y Vamanadev,29 quienes también oficiaban las ceremonias religiosas de la familia. De esta manera, el monarca vivía en Ayodhya con sus notables brahmanes.” 
 
@@ -293,11 +283,9 @@ En asuntos de administración, el rey Dasarath era servido por ocho minis-tros28
 
 56
 
-**La Edad Temprana de Rama**
 
-*5*
 
-**Shanta, la hija del rey **
+## 5 **Shanta, la hija del rey **
 
 **Dasarath y la tentacion **
 
@@ -321,7 +309,7 @@ Los nobles solían tener varias consortes, a fin que las mujeres, que suelen ser
 
 57
 
-**Bala Kanda**
+
 
 Resulta que Dasarath estaba atado a una terrible promesa de amistad con el rey Romapad de Bengala \(Anga\). Ambos se habían prometido que si uno de ellos no pudiese tener hijos, el otro le entregaría su primogénito. Debido a que Romapad no tuvo progenie, Dasarath, con el corazón destrozado, una vez que la presencia de Shanta fue evidente, tuvo que cumplir con su palabra entregando a su amada hija. Ella fue criada afectuosamente por Romapad. Tristemente, Dasarath no pudo procrear más hijos, por lo cual, no había progenie real. 
 
@@ -335,7 +323,7 @@ Por su gran complejidad y dimensión, dicho evento demoraba algunos años en eje
 
 Complacido con los eventos, el Rey anunció a sus reinas acerca de la auspiciosa ceremonia. Habiendo escuchado de él, su ministro llamado Sumantra comentó al rey Dasarath: “Querido Rey, he sabido que cierta vez el gran sabio Sanat-Kumar relató algunos eventos en relación a tu progenie. Él predijo que si la hermosa Shanta se casaba con el sabio Rishyasringa, éste podría bendecirte para que tú tengas hijos y podría además invocar lluvia para el reino de Bengala \(Anga\). Bengala es azotada por una prolongada sequía a causa de una falta co-metida por el rey Romapad. El sabio Rishyasringa tiene poderes extraordinarios, 58
 
-**La Edad Temprana de Rama**
+
 
 está dedicado enteramente al ascetismo y jamás ha visto una mujer.30
 
@@ -353,7 +341,7 @@ Cuando se quedó solo, el joven anacoreta, se sintió intensamente inquieto, ya 
 
 59
 
-**Bala Kanda**
+
 
 vecharon para invitarlo con dulces palabras y miradas complacientes al reino de Romapad, donde ellas tenían su residencia. Cautivado por sus palabras y sus voces delicadas, el asceta decidió acompañarlas, cruzando el sagrado río Ganga, en un bote rumbo a Bengala. 
 
@@ -365,11 +353,9 @@ Regocijado con estas palabras, el rey Dasarath, partió junto con sus reinas y m
 
 60
 
-**La Edad Temprana de Rama**
 
-*6*
 
-**Una formidable ceremonia para **
+## 6 **Una formidable ceremonia para **
 
 **perpetuar la dinastia**
 
@@ -393,7 +379,7 @@ Al cabo de un tiempo, buscando el momento oportuno, el emperador supli-
 
 có al sabio llevar a cabo la ceremonia para la perpetuación de la dinastía; luego le consultó el procedimiento a seguir para la realización del *ashvamedha*- *yajña* \(sacrificio\) que él había preparado anteriormente. En esta ceremonia un caballo fue dejado en libertad para que se paseara por los dominios del emperador, y lle-61
 
-**Bala Kanda**
+
 
 vara un mensaje de obediencia. ‘Quien quiera desafiar la autoridad del monarca, puede detener el caballo y enfrentarse al emperador.’ 
 
@@ -413,7 +399,7 @@ nia, bajo la supervisión de Rishyasringa y Vasishtha que dirigían a brahmanes 
 
 62
 
-**La Edad Temprana de Rama**
+
 
 la secuencia de los rituales se observaron puntualmente conforme mandan las escrituras.33
 
@@ -431,7 +417,7 @@ manjares. Se escuchaba la voz entre los pulcros mozos: ‘¡Que repitan el alime
 
 34 El codo, llamado en sánscrito aratni, equivale a 2 palmos o vitasti \(distancia entre la punta del pulgar y la punta del meñique de una mano extendida\). En el actual sistema, 21 codos serían aproximadamente 8.46 m 63
 
-**Bala Kanda**
+
 
 entonar sus meditaciones *\(japa y kirtan\)* 35 o murmurando en silencio las oraciones gayatri prescritas por sus preceptores. 
 
@@ -453,11 +439,9 @@ A medida que la ceremonia se realizaba, ante la mirada asombrada de los presente
 
 64
 
-**La Edad Temprana de Rama**
 
-*7*
 
-**Se reúnen los Semidioses. Aparece un **
+## 7 **Se reúnen los Semidioses. Aparece un **
 
 **Ser extraordinario**
 
@@ -479,7 +463,7 @@ Después de escuchar la petición de los semidioses que le pedían liberar al un
 
 65
 
-**Bala Kanda**
+
 
 ‘En verdad, yo le he otorgado una gran bendición a Ravana, por la cual él no puede ser muerto por ningún semidiós *, * por * gandharva*, * rakshasa *\(demonios antropófagos\) o *naga* \(seres poderosos que tienen la cabeza de humano, pero el cuerpo de serpiente\) u otras especies. Sin embargo, Ravana no pidió invencibili-dad contra los seres humanos, pues en su orgullo desdeñó el poder de éstos. Por tanto, su muerte llegará de ese modo.’
 
@@ -493,7 +477,7 @@ El Señor, que tiene ojos como pétalos de loto, que es gobernador de los semidi
 
 66
 
-**La Edad Temprana de Rama**
+
 
 ‘Pierdan todo temor y regocíjense, pues, por la salvación de todos, puesto que Ravana es un monstruo formidable y cruel, lo mataré en combate junto a sus hijos y nietos, ministros, parientes y aliados. Permaneceré para proteger y gobernar personalmente la tierra por once mil años, manifestando una expansión cuádruple, teniendo como padre al rey Dasarath.’
 
@@ -507,7 +491,7 @@ Simultáneamente, en el planeta Tierra, el sabio Rishyasringa concluía el sacri
 
 67
 
-**Bala Kanda**
+
 
 ‘¡Oh Rey\!, soy el mensajero del Señor Vishnu. He aquí los remanentes de alimento de la ofrenda sagrada \( *prashadam*\) al Señor. Los semidioses están complacidos con tu sacrificio y responden a tu súplica. Si tus esposas ingieren este * *
 
@@ -527,7 +511,7 @@ brillo tal, sintió que el valor le volvía y experimentó un gozo sin límites.
 
 
 
-**La Edad Temprana de Rama**
+
 
 Si tus esposas ingieren este prasadam, serás bendecido con fortuna, sa-
 
@@ -535,11 +519,9 @@ lud e hijos’ dijo el mensajero del Señor Vishnu al entregar el receptáculo 6
 
 de oro lleno de esa preparación deliciosa al agradecido Dasarath
 
-**Bala Kanda**
 
-*8*
 
-**Nacen grandes osos y simios**
+## 8 **Nacen grandes osos y simios**
 
 abiendo el Señor preparado su aparición entre los humanos, Bra-
 
@@ -561,7 +543,7 @@ De esa manera, obedeciendo el deseo de Brahma, semidioses, *vidyadharas,* *chara
 
 Indra, el principal de los semidioses, procreó a Vali, que le igualaba en 70
 
-**La Edad Temprana de Rama**
+
 
 fuerza; el dios del Sol, Vivashvan, procreó a Sugriva, el hermano menor de Vali; el gran sabio Brihaspati, maestro espiritual de los semidioses, procreó al enorme mono Tara, líder en sabiduría; Kuvera, el tesorero de los semidioses, procreó al afortunado Gandhamadana; Vishvakarma, el arquitecto de los semidioses, procreó al poderoso mono Nala; Agni, el semidiós del fuego, procreó al glorioso y poderoso Nila; los hermosos Ashvini-Kumaras, procrearon a Mainda y Dvivida; el semidiós de las aguas, Varuna, procreó a Sushena; el semidiós de la lluvia, Par-janya, procreó a Sarabha; y el semidiós del viento, Vayu, procreó al inteligente Hanuman, el mejor de todos los monos, fuerte como un rayo y veloz como Garuda, el portador de Vishnu. 
 
@@ -577,11 +559,9 @@ Los simios, a su vez, procrearon hijos que se convirtieron en capitanes de legio
 
 71
 
-**Bala Kanda**
 
-*9*
 
-**El advenimiento de Sri Rama y **
+## 9 **El advenimiento de Sri Rama y **
 
 **sus hermanos trascendentales**
 
@@ -603,7 +583,7 @@ el noveno día de la quincena clara del mes lunar de Abril \( *Chaitra*\),42la e
 
 72
 
-**La Edad Temprana de Rama**
+
 
 piter y en conjunción con la Luna \( *Chandra*\); en el signo zodiacal de la constelación de Cáncer \( *Karka*\) y con cinco astros en posiciones exaltadas: el Sol, Marte, Saturno, Júpiter y Venus.43 En ese momento propicio Kausalya, la mayor de las reinas de Dasarath, dio nacimiento a Rama, adorado por toda la Creación. Rama, la porción plenaria del Supremo Vishnu, portaba marcas divinas, ojos vivos, brazos grandes, labios color púrpura y voz profunda. Kausalya brillaba con ese hijo poseído de inmensa gloria, resplandeciente como la Luna, por lo que más adelante habría de ser llamado *Ramachandra*. Cuando la formación Delta \( *Pushya*\) de Cáncer, surcaba el horizonte y bajo el signo de Piscis \( *Mina*\), del vientre de la reina Kaikeyi, tomó nacimiento Bharat, el valiente, quien al representar una parte de Vishnu, tenía todas las cualidades divinas. Rama y Bharat, tenían una tez hermosamente oscura y formas prácticamente idénticas. 
 
@@ -619,7 +599,7 @@ chandra, como también lo hizo, después, con la de sus hermanos: Bharat, Lakshm
 
 73
 
-**Bala Kanda**
+
 
 valiosos. 
 
@@ -645,7 +625,7 @@ ravillosos hijos, bendecidos y queridos, quienes fueron creciendo nutriéndose d
 
 
 
-**La Edad Temprana de Rama**
+
 
 Los cuatro resplandecientes príncipes, aunque incialmente jugaban encantando a sus madres, pero fueron creciendo y mostrando perfecta sabiduría y al mismo tiempo modestia, obediencia y destreza. Estos tigres entre los hombres, eran el 75
 
@@ -655,17 +635,15 @@ deleite de todos los ciudadanos de Ayodhya
 
 
 
-**Bala Kanda**
+
 
 El rey Dasarath sentía indescriptible felicidad en compañía de tan maravillosos hijos, bendecidos y queridos, permaneciendo modestos y humildes ante sus su-76
 
 periores, apegados a los estudios de los Vedas, al servicio de sus padres. 
 
-**La Edad Temprana de Rama**
 
-*10*
 
-**El terrible pedido de Vishvamitra**
+## 10 **El terrible pedido de Vishvamitra**
 
 **y su furia**
 
@@ -691,7 +669,7 @@ Habiéndose sentado todos confortablemente, Dasarath, deleitado con tan
 
 77
 
-**Bala Kanda**
+
 
 ilustre visita, se dirigió al sabio con palabras emotivas, agradeciendo extensamente la fortuna de tener la oportunidad de prestarle algún servicio, ofreciéndole hacer cualquier cosa que complaciera al poderoso brahmán, quien dijo:
 
@@ -705,7 +683,7 @@ Al escuchar tan inesperado pedido, el gran monarca se estremeció de temor y ans
 
 Sin Rama yo no podría vivir; es el más amado y es la razón de mi vida. ¡Ha sido tan difícil tenerlo como hijo\! No obstante, si insistes, déjame acompañarlo con las cuatro fuerzas de mi ejército. Cuéntame acerca de tus enemigos. Más aún, iré 78
 
-**La Edad Temprana de Rama**
+
 
 contigo y personalmente lucharé contra los demonios, sirviendo tus necesidades. 
 
@@ -725,11 +703,9 @@ El planeta entero retumbó con las palabras del sabio y el temor se apoderó de 
 
 79
 
-**Bala Kanda**
 
-*11*
 
-**Los Principes son iniciados con **
+## 11 **Los Principes son iniciados con **
 
 **mantras sagrados**
 
@@ -749,7 +725,7 @@ Luego prosiguió: “Ni imaginas el poder que tiene Vishvamitra, quien es la aus
 
 80
 
-**La Edad Temprana de Rama**
+
 
 va; además, tiene poder para crear otras armas, por lo que en todos los sistemas planetarios no hay quien lo sobrepase en poder. Vishvamitra, personalmente, es capaz de derrotar a todos los demonios; puede ver el pasado, el presente y el futuro, pues nada le es desconocido. En vista de que él puede cuidar muy bien de sí mismo y de su sacrificio, te estarás preguntando por qué pide que el príncipe Rama lo acompañe. En realidad él ha venido aquí, aparentemente necesitando ayuda, únicamente para glorificar a Rama.” 
 
@@ -775,7 +751,7 @@ Habiendo caminado alrededor de diecinueve kilómetros, Vishvamitra de-
 
 tuvo la marcha e inició a Rama y Lakshman en la cadena de mantras sagrados 81
 
-**Bala Kanda**
+
 
 conocidos como *Bala* y *Atibala, * 48 que confieren varios poderes y beneficios extraordinarios tales como: liberación de la fatiga, la fiebre, el hambre y la sed, y que dona adquisición de fama y de una incomparable destreza ante el adversario. 
 
@@ -801,7 +777,7 @@ Los ascetas que residían allí, los recibieron con alegría, brindándoles aten
 
 82
 
-**La Edad Temprana de Rama**
+
 
 de los devotos puros. En el momento del crepúsculo, todos practicaron ritos de purificación \( *achamana*\), recitaron el sagrado *gayatri* y Vishvamitra compartió *hari-katha* con todos. Pasaron allí la noche y al día siguiente los ermitaños les ofrecieron a los huéspedes una balsa para cruzar el Ganges. 
 
@@ -819,7 +795,7 @@ Los príncipes ofrecieron un homenaje silencioso a esa confluencia de ríos sagr
 
 
 
-**Bala Kanda**
+
 
 Vishvamitra instruyó a Rama y Lakshman en mantras que confieren 
 
@@ -831,7 +807,7 @@ algunas tareas pertinentes a los guerreros
 
 
 
-**La Edad Temprana de Rama**
+
 
 ciones del discípulo hacia el maestro y se sentían afortunados de poder Rama y Lakshman fueron también instruidos sobre los deberes y obliga
 
@@ -841,11 +817,9 @@ aliviar el cansancio de su reverenciado guru
 
 85
 
-**Bala Kanda**
 
-*12*
 
-**La muerte de Tataka y de **
+## 12 **La muerte de Tataka y de **
 
 **otros demonios**
 
@@ -869,7 +843,7 @@ cometió la ofensa de asesinar a Vritrasura54 y, para contrarrestar ese pecado, 
 
 86
 
-**La Edad Temprana de Rama**
+
 
 y en elementos integrales capaces de nutrir la misma tierra. Muchas personas vivieron felices aquí, hasta que llegó Tataka, una gigantesca demonia - *yaksha-*, que tenía la fuerza de mil elefantes, y la capacidad de asumir cualquier forma a voluntad.” 
 
@@ -887,7 +861,7 @@ Sri Rama, decidido a dar fin a la miserable vida de Tataka, hizo vibrar la cuerd
 
 87
 
-**Bala Kanda**
+
 
 A medida que Tataka se aproximaba a ellos, Rama le dijo a Lakshman: 
 
@@ -907,7 +881,7 @@ Desde los cielos, los semidioses glorificaron al Príncipe de Príncipes, aplaud
 
 88
 
-**La Edad Temprana de Rama**
+
 
 empezaron a cantar y a danzar en éxtasis, y los grandes *rishis* alabaron su heroísmo. Por su parte, Indra se dirigió respetuosamente a Vishvamitra y le expresó sus pensamientos de esta manera: “¡Oh Vishvamitra\!, los semidioses estamos muy complacidos por la victoria de Rama. Muéstrale afecto y dale conocimiento acerca de los misiles. ¡Oh gran sabio\!, Él te tiene devoción, está siempre dispuesto a tu servicio y, por tanto, es merecedor de tus favores. Un gran objetivo está en las manos del príncipe Rama.” Y diciendo esto los semidioses desaparecieron. 
 
@@ -923,11 +897,9 @@ Debido a la presencia del sabio y de los príncipes, el bosque se volvió un her
 
 89
 
-**Bala Kanda**
 
-*13*
 
-**Las enseñanzas en el hermoso **
+## 13 **Las enseñanzas en el hermoso **
 
 **templo de Siddhashram**
 
@@ -949,7 +921,7 @@ poder completos, incluso así, para dar ejemplo a la humanidad, actuaron como al
 
 Entre la variedad de armas místicas y proyectiles vivientes, presididos por varias deidades \(incluyendo a Shiva y Vishnu\), se encontraban misiles inimagi-nables en poder, aspecto y diversidad. Los célebres mazos *Modakí* y *Sikharí*, el gran *Dharma-chakra*, además del *Vishnu-chakra*, el *Brahmashira*, la excelente espada Nandana, armas con capacidad de aniquilar huestes íntegras y con la fa-90
 
-**La Edad Temprana de Rama**
+
 
 cultad de producir calor, frío, lluvia, humedad o sequía. Había otras armas, con el poder de pacificar al enemigo \( *praswapana*\), producirle letargo, sueño, estu-pefacción, embriaguez, ilusión o quitarle la gloria, la valentía, o la fuerza como el arma de Surya59, llamada *Tejasprabha*. 
 
@@ -969,7 +941,7 @@ Vishvamitra les relató que el propio Señor Supremo, Narayan,61 quien es adorad
 
 91
 
-**Bala Kanda**
+
 
 después de controlar sus sentidos y practicar severas penitencias, había encontrado en aquel sitio sagrado a la propia personalidad de Dios. Atónitos al ver al bellísimo Ser Supremo, Kasyapa junto a su esposa Aditi, se sintieron inflamados de amor por el Señor y le suplicaron que apareciera en persona, como su propio hijo, para poder servirle y amarle. Deseo que años después, cuando el demonio Bali dominó el mundo, sería cumplido; y el Señor vendría como Vamanadev para cumplir una misión trascendental.” 
 
@@ -989,7 +961,7 @@ Bali observó con ostentación al pequeño brahmán, se mofó de tan simple dese
 
 92
 
-**La Edad Temprana de Rama**
+
 
 otorgarle infinitamente mucho más de la insignificancia que le pedía Vamanadev. 
 
@@ -1007,11 +979,9 @@ La llegada de los príncipes y del sabio Vishvamitra, fue motivo de regocijo par
 
 93
 
-**Bala Kanda**
 
-*14*
 
-**El ataque de los **
+## 14 **El ataque de los **
 
 **monstruosos Rakshasas**
 
@@ -1037,7 +1007,7 @@ Mientras tanto, los príncipes se prepararon para el ataque de los *rakshasas*, 
 
 94
 
-**La Edad Temprana de Rama**
+
 
 Al sexto día, el altar de sacrificio era escenario de una maravillosa ceremonia, acompañada por la recitación de textos sagrados. De pronto, el cielo se oscureció y al instante estalló un sonido estridente que invadió repentinamente la atmósfera; simultáneamente, Maricha y Subahu,69 hijos de la demonia Tataka, seguidos por una multitud de *rakshasas*, cual una nube negra, dispuestos a pro-fanar el altar, irrumpieron con torrentes de sangre, carne, pus y torsos de hombres mutilados. 
 
@@ -1063,7 +1033,7 @@ como ráfagas brillantes, aniquilando *rakshasas*, Rama invocó al *Agneyastra*,
 
 95
 
-**Bala Kanda**
+
 
 Aunque Vishvamitra conocía de antemano la infalibilidad de Rama, se lle-nó de éxtasis devocional al presenciar sus maravillosas actividades y habilidades de combate. Junto con los sabios, desbordado de emoción, felicitó a sus discípulos; la misión, para la cual Dasarath accedió a ceder a sus divinos hijos, se había cumplido. Una vez más *Siddhashram* 72 -haciendo honor a su nombre- era escenario de éxito: el sacrificio había concluido. 
 
@@ -1073,11 +1043,9 @@ Después de las meditaciones del atardecer junto a su *guru, * deleitados con un
 
 96
 
-**La Edad Temprana de Rama**
 
-*15*
 
-**La narracion sobre las bellas **
+## 15 **La narracion sobre las bellas **
 
 **muchachas castas**
 
@@ -1101,7 +1069,7 @@ En ese preciso momento, los sabios, con el permiso de Vishvamitra, se dirigieron
 
 97
 
-**Bala Kanda**
+
 
 cabo por el soberano de Mithila, el rey Janak. Ahí verás una joya de arco entre los arcos. Es el arco del Señor Shiva. Pretendemos dirigirnos al reino de Videha, en cuya ciudad capital Mithila, tan ilustre monarca, filósofo y santo Janak Maharaj está preparando una gran ceremonia auspiciosa \( *yajña*\).75” 
 
@@ -1121,7 +1089,7 @@ que nació de Brahma y era conocedor de la honra que acompaña a la rectitud. É
 
 98
 
-**La Edad Temprana de Rama**
+
 
 hermosas joyas y flores en el cuerpo, y se deleitaban cantando, bailando y tocando sus instrumentos musicales. En cierta ocasión, el semidiós del viento, Vayu, las quiso de esposas sin consentimiento del padre y, ante la negativa de las castas damas, con su poder deformó todos los miembros de sus cuerpos, las retorció e hizo que desarrollaran jorobas. Al enterarse de lo que había sucedido, aunque afligido, su virtuoso padre explicó a las víctimas la naturaleza noble del perdón y de la tolerancia y les pidió que -como un acto de piedad y de devoción a la Verdad- disculparan con máxima tolerancia al semidiós y lo que éste les había hecho. 
 
@@ -1137,11 +1105,9 @@ Siendo de conciencia pura, las límpidas damas obedecieron y se mantuvieron por 
 
 99
 
-**Bala Kanda**
 
-*16*
 
-**Historia de la Via Lactea, **
+## 16 **Historia de la Via Lactea, **
 
 **de Parvati y de la progenie de Shiva**
 
@@ -1163,7 +1129,7 @@ El sabio Vishvamitra dijo: “Himavan, el Rey de las Montañas, tuvo dos hijas c
 
 100
 
-**La Edad Temprana de Rama**
+
 
 galaxia Mandakini\), tomando luego tres cauces, purificando los tres mundos. Y 
 
@@ -1181,7 +1147,7 @@ No obstante, cuando se encontraban predispuestos a procrear, los semidioses te-m
 
 101
 
-**Bala Kanda**
+
 
 asumido la forma de la Vía Láctea, permitió que las seis estrellas Pléyades \( *kri-ttika\), * gobernadas por el semidiós del fuego, corporificadas, amamantaran al poderoso niño. Éste, ansioso por beber leche, desarrolló seis rostros para poder lactar de cada una de las estrellas, por lo que fue también llamado Karttikeya. 
 
@@ -1205,11 +1171,9 @@ Tierra confiere virtudes tan sólo al escucharlo o recitarlo, ahora voy a contar
 
 102
 
-**La Edad Temprana de Rama**
 
-*17*
 
-**El impetuoso descenso de **
+## 17 **El impetuoso descenso de **
 
 **Ganga a la Tierra**
 
@@ -1229,7 +1193,7 @@ las esposas de Sagar tuviera un hijo capaz de enriquecer y perpetuar el linaje, 
 
 “Con el paso de los años, mientras los miles de hijos de Sumati, se hacían 103
 
-**Bala Kanda**
+
 
 apuestos y fuertes príncipes, Asamañja parecía adolecer de una enfermiza crueldad lunática, ya que, luego de arrojar a niños al río, disfrutaba y reía mirando cómo se hundían los niños. Realizando esa clase de actividades, despertó el desprecio de la población y fue desterrado.82 Para gran alivio de todos, el hijo de Asamañja, de nombre Amsuman, era un príncipe valiente, virtuoso y amable, muy apreciado y amado por la gente.” 
 
@@ -1245,7 +1209,7 @@ kilómetros cuadrados\), provocando trastornos ambientales y muertes entre criat
 
 104
 
-**La Edad Temprana de Rama**
+
 
 sorprendente y eran tan poderosos como máquinas excavadoras. Continuaron su frenética excavación hasta Rasatala, la penúltima esfera subterránea del planeta, un lugar de extraordinaria belleza. Allí pudieron avistar cuatro elefantes gigantescos como montañas, cada uno orientado hacia una de las cuatro direcciones; después de circundarlos en señal de respeto, los príncipes prosiguieron en la dirección Noreste, sagrada por ser custodiada por el Señor Shiva.” 
 
@@ -1261,11 +1225,9 @@ Perturbado por el alboroto provocado por los insolentes, el Señor, enfurecido, 
 
 105
 
-**Bala Kanda**
 
-*18*
 
-**Bhagirath propicia la gracia **
+## 18 **Bhagirath propicia la gracia **
 
 **de los Semidioses**
 
@@ -1283,7 +1245,7 @@ pada y tu arco, ya que hay gigantescos y poderosos seres que habitan esas tierra
 
 “Llegando a Rasatala, lo primero que Amsuman hizo fue ofrecer respetos a los elefantes que custodiaban las cuatro direcciones de acceso, quienes complacidos con su actitud, le aseguraron que retornaría con el caballo que buscaba, aunque los elefantes mantuvieron un inteligente silencio acerca del paradero de sus tíos. Entusiasmado con esas bendiciones prosiguió con rápido paso y luego de algún recorrido, quedó pasmado al ver el resto de los hijos de Sagar en mon-toncitos de cenizas. Al no encontrarlos vivos lloró con gran agonía. Revisando el lugar y no muy lejos de allí, encontró con la mirada al caballo que buscaba para 106
 
-**La Edad Temprana de Rama**
+
 
 completar el sacrifico del Rey. Infructuosamente buscó agua para conducir un rito funeral, pero no halló ninguna fuente por los alrededores.” 
 
@@ -1299,7 +1261,7 @@ mil años de su reinado, y al morir partió al cielo de Indra.”
 
 107
 
-**Bala Kanda**
+
 
 bendición. Bhagirath le pidió que por piedad lo bendijera con un niño para continuar con su linaje y que ordenara a Ganga descender a la Tierra para poder lavar y purificar las cenizas de sus ancestros.” 
 
@@ -1319,7 +1281,7 @@ cayendo con toda su fuerza sobre la cabeza de Shiva \( *Mahadev*\), lo arrastrar
 
 108
 
-**La Edad Temprana de Rama**
+
 
 “Las aguas, no obstante, inesperadamente, inundaron la arena de la ceremonia *yajña * que el poderoso sabio Jahnu celebraba. En su enfado el santo decidió atrapar el cauce de Ganga Devi y con su extraordinario poder lo sorbió por completo. ¡Ganga desapareció ante la mirada atónita de Bhagirath\! Los *Devas* y los otros *rishis* alabaron al gran sabio Jahnu y propusieron que puesto que Ganga era como una hija suya, liberara su cauce. El sabio complacido aceptó, dejando salir la corriente por sus oídos. Por ello los *Devas* bendijeron a Ganga llamándola Jahnavi, hija de Jahnu.” 
 
@@ -1331,11 +1293,9 @@ Aquél que escuche esta historia bendita con devoción, será limpio de sus peca
 
 88 Sandhya se refiere a tres momentos: el momento en que se juntan la noche y el día, la mañana y la tarde y la tarde y la noche. Estos son momentos propicios para practicar oraciones y meditaciones. Esta práctica regulada se llama ahnik 109
 
-**Bala Kanda**
 
-*19*
 
-**La historia de la aparicion de las **
+## 19 **La historia de la aparicion de las **
 
 **Encarnaciones Divinas**
 
@@ -1353,7 +1313,7 @@ Vishvamitra, entonces, contó que en una Era remota, en cierta *Satya yuga* 90, 
 
 110
 
-**La Edad Temprana de Rama**
+
 
 ses. Aunque eran diametralmente opuestos, ambos coincidían en querer buscar la inmunidad a la vejez y a la enfermedad, y en una rara ocasión dedujeron que si se aliaban para revolver el océano de leche, obtendrían el néctar de la inmortalidad, cosa que convenía a los dos bandos. De esta forma idearon un plan para batir conjuntamente ese gran océano. 
 
@@ -1369,7 +1329,7 @@ De aquella misma crema emergieron seiscientos millones de bellísimas *ap-saras9
 
 111
 
-**Bala Kanda**
+
 
 éstos recibieron el nombre de *asuras93*. y los hijos de Diti *suras. * Aparecieron también Ucchaisrava, el principal de los corceles; *Kaushtubha*, la más valiosa entre las gemas y obviamente, ¡el maravilloso néctar que habían buscado con tanto ahínco\! 
 
@@ -1379,11 +1339,9 @@ Cuando finalmente apareció el néctar de la inmortalidad, se desató una temibl
 
 112
 
-**La Edad Temprana de Rama**
 
-*20*
 
-**La caida de un semidios y la **
+## 20 **La caida de un semidios y la **
 
 **liberacion de Ahalya**
 
@@ -1403,7 +1361,7 @@ mantuviera pura durante todo el largo período de su penitencia.”
 
 “Sobrecogida por el sopor, cierto día Diti se quedó dormida en una postu-ra prohibida, con sus cabellos tocando sus pies y acostada en dirección cardi-nal opuesta a las reglas ascéticas. Indra, regocijado por ello, mediante su poder 113
 
-**Bala Kanda**
+
 
 yóguico, entró al vientre de Diti y atacó al feto con ayuda de su rayo, causando un grito en la criatura, que sorprendentemente sobrevivió a pesar de haber sido cortado en siete partes. Indra insistentemente le decía ‘no llores’, aunque nuevamente dividía en siete cada parte restante. Despertando y desesperada al descubrir lo que ocurría, Diti, rogó por la vida de la criatura, mientras que Indra a su vez pedía perdón. Arrepentido, Indra facilitó que de esos cuarenta y nueve embriones, nacieran otros tantos semidioses, quienes serían conocidos como Maruts94, con poder de movimiento como el del viento. Ellos se hicieron cargo de funciones importantes en los universos, todas relacionadas con las regiones aéreas.” 
 
@@ -1415,7 +1373,7 @@ justamente ante él, estaba el verdadero Gautama. Indra, paralizado de espanto, 
 
 95 De esta unión nacerían los grandes simios Vali y Sugriva que aparecen en escena en el Kishkindha Kanda \(libro cuarto\) 114
 
-**La Edad Temprana de Rama**
+
 
 incapaz de sostener su mirada, bajó el rostro”. 
 
@@ -1433,7 +1391,7 @@ Invitados por Vishvamitra, Sri Rama y Lakshman entraron a la ermita y bajo órde
 
 
 
-**Bala Kanda**
+
 
 Invitados por Vishvamitra, Sri Rama y Lakshman entraron a la ermita y 
 
@@ -1443,11 +1401,9 @@ brante figura de Ahalya, quien con su devoción exaltada procuró aferrar-se a l
 
 
 
-**La Edad Temprana de Rama**
 
-*21*
 
-**En el reino de Janak se cuenta la **
+## 21 **En el reino de Janak se cuenta la **
 
 **historia de los palacios en el bosque**
 
@@ -1465,7 +1421,7 @@ mismo, deliciosas bebidas y alimentos. Vishvamitra correspondiendo con el protoc
 
 “¡Oh, distinguido entre los brahmanes\! -dijo el rey Janak dirigiéndose a Vishvamitra- ¿Quiénes son estas dos personas gloriosas que te acompañan? Parecen igualar a los semidioses en cuanto a poder y caminan sobre la Tierra como leones. Veo que están armados con arcos y flechas. Sus ojos tienen la forma de grandes pétalos de loto y su belleza únicamente tiene rival con la de los Ashvini Kumaras, los gemelos entre los semidioses. En realidad, parecen semidioses descendidos a la Tierra desde los planetas superiores. ¡Oh, sabio\! ¿Por qué estos príncipes han viajado hasta aquí a pie? ¿Quién es su padre? Deseo escuchar todo 117
 
-**Bala Kanda**
+
 
 acerca de estos dos bravos jóvenes, quienes agracian y llenan esta Tierra de brillo, tal como el Sol y la Luna iluminan el cielo.” 
 
@@ -1481,7 +1437,7 @@ Conociendo las glorias de Vishvamitra Muni, e inspirado por su presencia, Sat-An
 
 118
 
-**La Edad Temprana de Rama**
+
 
 das99? ¿Mantienes a tus sirvientes y tienes a tus enemigos completamente subyu-gados? ¿Cómo está tu ejército, tus tesoros y tus amigos?”. 
 
@@ -1503,7 +1459,7 @@ A continuación se presentaron talentosos espectáculos de danza y música a ple
 
 119
 
-**Bala Kanda**
+
 
 22
 
@@ -1529,7 +1485,7 @@ El sabio le pidió que mirase a la vaca: ésta se encontraba levitando por encim
 
 120
 
-**La Edad Temprana de Rama**
+
 
 producir leche, mantequilla, gui103, yogurt, orina y bosta fertilizante. Por éstas y por otras razones, yo nunca te la daré.” 
 
@@ -1543,7 +1499,7 @@ La vaca Sabala respondió: “Los sabios declaran que el poder espiritual de un 
 
 121
 
-**Bala Kanda**
+
 
 vas104 que empezaron a destruir todo el ejército del Rey. 
 
@@ -1567,7 +1523,7 @@ Cuando el ejército de Vishvamitra fue diezmado, sus cien hijos se lanzaron cont
 
 122
 
-**La Edad Temprana de Rama**
+
 
 triyas. ” Dicho esto, partió hacia el bosque rumbo a los Himalayas, para practicar el ascetismo y buscar el favor del gran semidiós Mahadev \(Shiva\). Durmiendo muy poco, y comiendo frugalmente, Vishvamitra practicó severas penitencias y austeridades. 
 
@@ -1577,7 +1533,7 @@ El sabio, indignado ante el insolente ataque, con su bastón extinguió cuanto p
 
 123
 
-**Bala Kanda**
+
 
 23
 
@@ -1597,7 +1553,7 @@ Mientras esto ocurría en las montañas, en la ciudad había un famoso rey de la
 
 124
 
-**La Edad Temprana de Rama**
+
 
 periores para allí disfrutar con ese mismo cuerpo. Vasishtha Muni, su preceptor, a quien él se había acercado buscando ayuda para realizar su deseo, le aconsejó que abandonara el intento de lo imposible. Inconforme con la respuesta de Vasishtha, el rey Trishanku se aproximó a los hijos del sabio y buscó su ayuda; ellos se enfadaron al saber que les pedía algo que su padre había calificado como imposible y ridiculizaron su vanidad. Pero, el rey Trishanku no abandonaría su propósito, así, les dijo que continuaría su búsqueda. Ante esa provocación y ofensa a su guru, los hijos de Vasishtha lo maldijeron con la obtención de un cuerpo de intocable \( chandala\). 
 
@@ -1611,7 +1567,7 @@ yo te ofrezco refugio, no tengas miedo porque es mediante una ceremonia yajña q
 
 De esa manera, hizo los arreglos para un gran yajña sin precedentes, pidiendo a sus discípulos invitar a todos los sabios y a sus seguidores para participar de algo tan inédito. Temerosos de decir no a aquello que era más o menos una orden, los rishis acordaron estar presentes, todos menos los hijos de Vasishtha, que declinaron la invitación y se burlaron acerca de un yajña en el cual el sa-125
 
-**Bala Kanda**
+
 
 cerdote que oficiaba había sido un guerrero111 y el objeto de la ceremonia era un apestoso chandala. 
 
@@ -1625,7 +1581,7 @@ Sin embargo, tan poderoso era Vishvamitra, que creó un sistema planetario para 
 
 126
 
-**La Edad Temprana de Rama**
+
 
 24
 
@@ -1651,7 +1607,7 @@ En esa búsqueda, Ambarish se encontró con el sabio Richik y su esposa,
 
 quienes tenían tres hijos. Richik le dijo que el padre no tolera separarse de su hijo mayor y la madre dijo que las madres tienen por favorito al hijo menor. El hijo del medio, Sunahshep, al escuchar este diálogo y al notar que sus padres no 127
 
-**Bala Kanda**
+
 
 lo habían mencionado en sus preferencias, se ofreció voluntariamente para el sacrificio y se fue con el rey Ambarish, que entregó diez millones de monedas de plata y oro, montones de piedras preciosas y cien mil vacas a la familia. 
 
@@ -1669,7 +1625,7 @@ teridades, a fin de purificarse de la ira y de la lujuria, en su búsqueda del t
 
 128
 
-**La Edad Temprana de Rama**
+
 
 penitencias. En su camino le esperaba un nuevo obstáculo: Cierto día, una ninfa celestial de nombre Menaka fue enviada a bañarse a un lago cerca de la ermita de Vishvamitra. Menaka, cuya belleza no tenía par, brillaba como el haz de un relámpago en una nube. Al verla, Vishvamitra sucumbió a la pasión que despertó el atractivo de la ninfa en su corazón. Agitado, le dijo: “Bienvenida, ¡Oh, apsara celestial\! ¡Que toda buena fortuna sea tuya\! Por favor, sé buena y quédate conmigo, porque estoy cautivado por ti”. 
 
@@ -1681,7 +1637,7 @@ Uno solo de los sentidos que se concentre en un objeto de placer puede descarria
 
 129
 
-**Bala Kanda**
+
 
 25
 
@@ -1709,7 +1665,7 @@ Entonces Rambha se puso vestimentas deslumbrantes, y con una amplia
 
 sonrisa apareció ante el asceta para tentarlo. Fue así que mientras practicaba sus austeridades, Vishvamitra fue interrumpido por el canto del cuclillo. Regocijado, miró hacia arriba y vio a la hermosa apsara. Aunque se encontraba atraído por la amorosa canción y la visión de la exquisita Rambha, el sabio empezó a preguntarse si la apsara habría llegado ahí accidentalmente o si habría sido enviada por Indra para distraerlo. Concluyendo que se trataba de una jugarreta, se puso iracundo y maldijo a Rambha: “Puesto que has tratado de seducirme mientras he estado intentando controlar la lujuria y la ira, te quedarás de pie como una esta-130
 
-**La Edad Temprana de Rama**
+
 
 tua de piedra durante diez mil años.” 
 
@@ -1739,7 +1695,7 @@ años. Se entiende que eventos descritos en El Ramayana se remontan en algunos c
 
 131
 
-**Bala Kanda**
+
 
 “Si yo he alcanzado la posición brahmánica -dijo Vishvamitra- entonces 
 
@@ -1757,7 +1713,7 @@ Después de esto, Vishvamitra viajó por todo el planeta, y se volvió el más g
 
 132
 
-**La Edad Temprana de Rama**
+
 
 26
 
@@ -1779,7 +1735,7 @@ el mundo. Ellos están muy ansiosos por conocer tu arco maravilloso. Por favor, 
 
 Temerosos de la potencia del Señor Shiva, los semidioses rápidamente se 133
 
-**Bala Kanda**
+
 
 organizaron para apaciguarlo y entregarle su ofrenda. Después de satisfacerlo, los Devas fueron recompensados con este arco que, con el transcurso del tiempo fue entregado a mi antepasado, el rey Devarat, hijo mayor de Nimi. Desde entonces, a través de nuestra dinastía, ha pasado de un rey a otro y es reverenciado por todos los reyes, puesto que tiene un origen divino.” 
 
@@ -1795,7 +1751,7 @@ organizaron para apaciguarlo y entregarle su ofrenda. Después de satisfacerlo, 
 
 134
 
-**La Edad Temprana de Rama**
+
 
 Bajo la orden del Rey, cinco mil hombres, muy altos y fornidos, trajeron a un gran salón de asamblea un cofre que rodaba sobre ocho ruedas, que contenía en su interior el grandioso arco. El arco estaba untado con pasta de sándalo y adornado con flores, y el cofre estaba decorado con joyas. Anoticiados de este gran evento, miles de príncipes y ciudadanos se acercaron para presenciar el acontecimiento. 
 
@@ -1809,7 +1765,7 @@ De pronto, éste cedió y un espantoso estruendo se escuchó mientras el formida
 
 
 
-**Bala Kanda**
+
 
 Cuando Rama vio a la bella Sita, de pureza e inocencia sin 
 
@@ -1823,13 +1779,13 @@ se con Su consorte eterna
 
 
 
-**La Edad Temprana de Rama**
+
 
 Rama esgrimió el arco por su parte central y lo levantó de manera elegan-te y ágil ante la vista atónita de la multitud … y un espantoso estruendo se 137
 
 escuchó mientras el formidable arco se partía crujiendo como un violento terremoto
 
-**Bala Kanda**
+
 
 27
 
@@ -1859,7 +1815,7 @@ Y de esa manera se procedió. Los mensajeros llegaron en tres días de marchas f
 
 138
 
-**La Edad Temprana de Rama**
+
 
 de Videha.” Se organizaron los preparativos y pasado un día partió una caravana precedida por los poderosos monjes brahmanes -Vasishtha, Vamadev y Kasyapa-, llevando consigo abundantes riquezas y conduciendo falanges de ejército perfectamente equipadas con carrozas, elefantes, caballos e infantería. Esa travesía duró cuatro días. 
 
@@ -1883,7 +1839,7 @@ A continuación, Dasarath pidió a Vasishtha narrar la línea genealógica de su
 
 139
 
-**Bala Kanda**
+
 
 bleza de todos esos reyes. 
 
@@ -1901,7 +1857,7 @@ Una vez más, Vishvamitra destacó la nobleza de ambos linajes, concluyen-do que
 
 140
 
-**La Edad Temprana de Rama**
+
 
 rey Dasarath. Muy contento, Janak comenzó a entregar caridad abundante a los sabios. 
 
@@ -1913,7 +1869,7 @@ Ese mismo día llegó al reino de Mithila el hermano de Kaikeyi, Yuddhajit, para
 
 141
 
-**Bala Kanda**
+
 
 28
 
@@ -1937,7 +1893,7 @@ nia en un altar decorado con flores, pasta de sándalo, platos de oro y plata co
 
 142
 
-**La Edad Temprana de Rama**
+
 
 cucharones de maderas finas 126 para verter la mantequilla clarificada y alimentar el fuego, parafernalia variada para las ofrendas a la deidad, platos, para los presentes, con arroz coloreado con cúrcuma para ofrecer al fuego sagrado y, sobre todo, adornado con melodiosos kirtans 127 que empezaban entonces, a cantarse con profunda belleza. 
 
@@ -1961,7 +1917,7 @@ Habiendo entregado a su hija, el rey Janak, que se encontraba bañado en lágrim
 
 143
 
-**Bala Kanda**
+
 
 Los cuatro hermanos, tomando las manos de sus esposas, circundaron tres veces el fuego girando hacia la derecha, intercambiaron guirnaldas y siguieron los procedimientos de las escrituras sagradas. Se escucharon sonidos celestiales y cayeron flores del cielo. En verdad, en el matrimonio de las joyas de la raza de los Raghus, se vieron ninfas celestiales danzar y expertos gandharvas cantar bellas canciones espirituales con dulce voz. 
 
@@ -1973,13 +1929,13 @@ Todos los ciudadanos de Mithila y los visitantes disfrutaron de una gran-diosa f
 
 
 
-**La Edad Temprana de Rama**
+
 
 El rey Janak le dijo a Rama: “Mi hija Sita te ayudará a desempeñar tus sagrados deberes de príncipe. Por favor, toma su mano entre las tuyas y acéptala como 145
 
 esposa. Ella es casta y está altamente calificada, y permanecerá exclusivamente consagrada a ti. Feliz te acompañará como tu propia sombra” 
 
-**Bala Kanda**
+
 
 29
 
@@ -2005,7 +1961,7 @@ En esa densa oscuridad, los sabios y el Rey contemplaron la imponente
 
 146
 
-**La Edad Temprana de Rama**
+
 
 forma de Parashuram, el hijo de Jamadagni, quien previamente había destruido a todos los kshatriyas del mundo. Sus cabellos formaban un moño en la cima de su cabeza, y su cuerpo irradiaba un resplandor tan brillante que era muy difícil para un hombre común mirarlo. En su hombro derecho descansaba un hacha, en una mano sostenía un temible dardo y en la otra, un arco. Al observar sus hermosas aunque temibles facciones semejantes al destructor Shiva encolerizado, los brahmanes dijeron: “He aquí Parashuram, una expansión parcial del Supremo Absoluto130. ¡Tan sólo observen la furia de sus ojos\! ¿Piensa exterminar a los kshatriyas, tal como lo hizo antes? Creíamos que su ira, originada por la injusta muerte de su padre Jamadagni a manos de los kshatriyas,  ya había sido sosega-da”. 
 
@@ -2017,7 +1973,7 @@ Indiferente a los ruegos de Dasarath, el temible Parashuram continuó diri-130 E
 
 147
 
-**Bala Kanda**
+
 
 giéndose únicamente a Rama: “Estos dos excelentes arcos celestiales eran adorados por el mundo entero, fueron construidos por el arquitecto de los semidioses, Vishvakarma. Uno, el que originalmente fue entregado a Shiva, ha sido destruido por ti, y el otro, entregado al Señor Vishnu, es el que tengo conmigo. En cierta ocasión Brahma, que buscaba descubrir quién era supremo, enfrentó a Shiva y a Vishnu, ocasión en la que la cuerda del arco de Shiva se aflojó probando la supremacía de Vishnu. Fue entonces que Rudra \(Shiva\) entregó este arco y sus flechas a Devarat, rey de los Videhas, mientas el Señor Vishnu dio el suyo al sabio Richik, mi abuelo, quien se lo entregó a mi padre Jamadagni”. 
 
@@ -2027,7 +1983,7 @@ Oyendo el desafío del hijo de Jamadagni, y no habiendo intervenido antes por re
 
 “Puesto que eres un brahmán y eres pariente de mi guru Vishvamitra, quien es tío materno de tu padre, mereces respeto -le dijo- por eso, no voy a disparar esta arma letal contra ti. No obstante, esta poderosa arma no se templa en vano, pues ella ha de, ya sea, aplastar el poder del adversario o destruir su orgullo. Por ello, hombre santo, puedo, ya sea limitar tu libertad de acción o quitarte la ira: 148
 
-**La Edad Temprana de Rama**
+
 
 elije tú”. 
 
@@ -2043,7 +1999,7 @@ Naciente, liberó al mundo de la oscuridad que lo envolvía. Al ver esto, los se
 
 149
 
-**Bala Kanda**
+
 
 30
 
@@ -2067,7 +2023,7 @@ La ciudad de Ayodhya estaba encantadora. Sus edificios fueron decorados con band
 
 Las reinas Kausalya, Sumitra y Kaikeyi recibieron a sus nueras con gran pompa y emoción, y condujeron a las princesas a los templos, donde pudieron 150
 
-**La Edad Temprana de Rama**
+
 
 ofrecer sus respetos a las deidades y fueron bendecidas por los brahmanes ocupados entonces, en realizar ceremonias de fuego. Finalmente, luego de encontrarse con amigos y parientes, los príncipes con sus princesas fueron acompañados a sus respectivos palacios. 
 

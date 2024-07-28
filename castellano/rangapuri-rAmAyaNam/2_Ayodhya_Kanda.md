@@ -18,9 +18,7 @@ title = "2 Ayodhya Kanda"
 
 **Ayodhya Kanda**
 
-1
-
-**La propuesta de la **
+## 1 **La propuesta de la **
 
 **coronacion de Rama**
 
@@ -70,9 +68,7 @@ El rey Dasarath dio la bienvenida y ofreció asientos de honor a los monarcas qu
 
 **La Realeza de Ayodhya**
 
-2
-
-**Comienzan los grandes **
+## 2 **Comienzan los grandes **
 
 **preparativos**
 
@@ -124,9 +120,7 @@ Postrándose ante su noble padre, Sri Rama se despidió y se dirigió nuevamente
 
 **Ayodhya Kanda**
 
-3
-
-**Ayodhya de fiesta**
+## 3 **Ayodhya de fiesta**
 
 Camino de regreso al palacio del Rey, Vasishtha apenas pudo recorrer la distancia, pues una multitud atestaba las calles, hombres y mujeres conversaban alegremente, se transmitían la noticia, reían a carcajadas y trataban de ver los preparativos organizados desde el palacio, el bullicio de la muchedumbre se asemejaba a las olas del océano. Grandes banderas se habían izado en las cimas de las edificaciones. Llegando con dificultad al palacio, que se erigía majestuoso como los Himalayas, Vasishtha reportó al Rey el éxito de su encargo. Rodeado de sus ministros, el monarca se enteró con beneplácito que Sita y Rama se preparaban para la ceremonia. Dasarath se retiró al gynaeceum, el aposento de las damas, donde éstas elegantes brillaban como estrellas alrededor del Rey, que se veía como una luna de dicha. 
 
@@ -166,9 +160,7 @@ Las calles de Ayodhya pronto se llenaron de multitudes que llegaron del campo y 
 
 **La Realeza de Ayodhya**
 
-4
-
-**Surge una intriga**
+## 4 **Surge una intriga**
 
 ientras el gozo inundaba el corazón de los ciudadanos que se pre-
 
@@ -228,9 +220,7 @@ bada Mathara y, sonriente, le ofreció cualquier bendición
 
 **La Realeza de Ayodhya**
 
-5
-
-**Los efectos de escuchar ofensas**
+## 5 **Los efectos de escuchar ofensas**
 
 e sólo imaginar el posible exilio de su hijo Bharat, y las desgra-
 
@@ -276,9 +266,7 @@ Kaikeyi, siguiendo a pie puntillas los consejos de la perversa Manthara, se reti
 
 **La Realeza de Ayodhya**
 
-6
-
-**La insolita peticion de la **
+## 6 **La insolita peticion de la **
 
 **Reina Kaikeyi**
 
@@ -332,9 +320,7 @@ Rey, y el exilio de Rama al bosque de Dandakaranya
 
 **Ayodhya Kanda**
 
-7
-
-**La suplica del Rey**
+## 7 **La suplica del Rey**
 
 ranscurrido largo tiempo, Dasarath reaccionó y, mirándola lleno 
 
@@ -394,9 +380,7 @@ Recuperando el sentido, Dasarath continuó así: “¡Condenadas las mujeres\!
 
 **La Realeza de Ayodhya**
 
-8
-
-**La implacable fuerza de **
+## 8 **La implacable fuerza de **
 
 **una promesa**
 
@@ -436,9 +420,7 @@ Mientras tanto, la melodía de las canciones que glorificaban a los famosos reye
 
 **La Realeza de Ayodhya**
 
-9
-
-**Rama es convocado **
+## 9 **Rama es convocado **
 
 **por su padre**
 
@@ -496,9 +478,7 @@ ciudadanos y les vivificaba, cual si fuera el Sol que, muy temprano en la mañan
 
 **Ayodhya Kanda**
 
-10
-
-**Rama hace una **
+## 10 **Rama hace una **
 
 **terrible promesa**
 
@@ -550,9 +530,7 @@ Dasarath saliendo de su sopor escuchó incrédulo las palabras que entraban como
 
 **La Realeza de Ayodhya**
 
-11
-
-**Se desata la furia del amor**
+## 11 **Se desata la furia del amor**
 
 l salir, Rama pasó sin mirar siquiera los fastuosos preparativos 
 
@@ -596,9 +574,7 @@ corriente de un desbordado río: “¿Mantener la palabra? ¿La palabra de un Re
 
 **Ayodhya Kanda**
 
-12
-
-**Una tensa calma**
+## 12 **Una tensa calma**
 
 “
 
@@ -650,9 +626,7 @@ Una vez a su lado, el príncipe le contó que el cumplimiento del deber lo impul
 
 **La Realeza de Ayodhya**
 
-13
-
-**la ferrea determinacion de **
+## 13 **la ferrea determinacion de **
 
 **la princesa**
 
@@ -708,9 +682,7 @@ Por ello, incluso Rama y Sita, siguieron las normas prescritas para los ascetas 
 
 **Ayodhya Kanda**
 
-14
-
-**Sri Rama renuncia a todas **
+## 14 **Sri Rama renuncia a todas **
 
 **sus posesiones**
 
@@ -766,9 +738,7 @@ palacio real, hasta que cerca de los portales, anunció su llegada. Sumantra lo 
 
 **La Realeza de Ayodhya**
 
-15
-
-**La importancia de la**
+## 15 **La importancia de la**
 
 **discrecion**
 
@@ -826,9 +796,7 @@ Escuchando las benévolas palabras de Siddhartha, el Rey, con una débil pero cr
 
 **Ayodhya Kanda**
 
-16
-
-**Sita da una leccion **
+## 16 **Sita da una leccion **
 
 **inolvidable**
 
@@ -892,9 +860,7 @@ a su promesa
 
 **Ayodhya Kanda**
 
-17
-
-**La triste despedida **
+## 17 **La triste despedida **
 
 **de Sri Rama**
 
@@ -1024,9 +990,7 @@ atormentará con sus rayos, la Luna por su parte les refrescará, y las brisas d
 
 **Ayodhya Kanda**
 
-19
-
-**Persiguiendo el **
+## 19 **Persiguiendo el **
 
 **carruaje de Rama**
 
@@ -1088,9 +1052,7 @@ en pos de agua: ansiando recibir al menos una mirada del rostro de loto de su pr
 
 **Ayodhya Kanda**
 
-20
-
-**Una Ayodhya desolada**
+## 20 **Una Ayodhya desolada**
 
 l llegar a Ayodhya, las lágrimas de los ciudadanos eran inconte-
 
@@ -1140,9 +1102,7 @@ Toda la gente estaba desorientada y desdichada. Se veía a personas que, llorand
 
 **La Realeza de Ayodhya**
 
-21
-
-**El arribo al sagrado Ganga**
+## 21 **El arribo al sagrado Ganga**
 
 **y el encuentro con Guha**
 
@@ -1224,9 +1184,7 @@ en el bosque
 
 **Ayodhya Kanda**
 
-22
-
-**La llegada a Chitrakut y el **
+## 22 **La llegada a Chitrakut y el **
 
 **encuentro con Valmiki**
 
@@ -1300,9 +1258,7 @@ recibió emocionado con honor y les invitó a residir en tan noble montaña
 
 **Ayodhya Kanda**
 
-23
-
-**El reporte de Sumantra sobre el **
+## 23 **El reporte de Sumantra sobre el **
 
 **cumplimiento del destierro**
 
@@ -1372,9 +1328,7 @@ el rey Dasarath quedó inconsolable y abatido
 
 **Ayodhya Kanda**
 
-24
-
-**El Rey recuerda una tragedia**
+## 24 **El Rey recuerda una tragedia**
 
 umantra, a fin de calmar el dolor de Kausalya, hizo un esfuerzo 
 
@@ -1428,9 +1382,7 @@ ba: ‘¿Por qué alguien quisiera matar a un asceta como yo, que no tiene enemi
 
 **La Realeza de Ayodhya**
 
-25
-
-**La maldicion del anciano ciego**
+## 25 **La maldicion del anciano ciego**
 
 l rey Dasarath continuó la narración: Mirándome fijamente con 
 
@@ -1496,9 +1448,7 @@ guía y sin tu afecto? No vayas aún hijo, a la mansión de Dharmaraj29’.
 
 **Ayodhya Kanda**
 
-26
-
-**La muerte se asoma al **
+## 26 **La muerte se asoma al **
 
 **reino invencible**
 
@@ -1560,9 +1510,7 @@ Vasishtha Muni fue quien tomó la palabra para resolver al asunto señalando que
 
 **La Realeza de Ayodhya**
 
-27
-
-**El retorno de Bharat**
+## 27 **El retorno de Bharat**
 
 e inmediato los mensajeros partieron en briosos corceles, y atra-
 
@@ -1618,9 +1566,7 @@ Bharat, cual árbol cortado por un hacha, se desplomó y, golpeando el piso, emp
 
 **Ayodhya Kanda**
 
-28
-
-**Bharat escucha a sus madres**
+## 28 **Bharat escucha a sus madres**
 
 harat, sin conmoverse con los halagos vacíos de Kaikeyi, continúo 
 
@@ -1682,9 +1628,7 @@ Después de escucharlo, Kausalya, entristecida por haber dudado de tan noble alm
 
 **Ayodhya Kanda**
 
-29
-
-**Las exequias del Rey**
+## 29 **Las exequias del Rey**
 
 harat, luego de consolar a Kausalya, apuñalado por el dolor, fue-
 
@@ -1730,9 +1674,7 @@ Al ver tan temible reacción, las mujeres, asustadas huyeron buscando refugio en
 
 **La Realeza de Ayodhya**
 
-30
-
-**Bharat en pos de Rama**
+## 30 **Bharat en pos de Rama**
 
 l décimo cuarto día después de la muerte del rey Dasarath, los 
 
@@ -1796,9 +1738,7 @@ Al contemplar semejante despliegue militar en su territorio, el rey Guha, pensó
 
 **Ayodhya Kanda**
 
-31
-
-**Se manifiesta una ciudadela **
+## 31 **Se manifiesta una ciudadela **
 
 **en el bosque**
 
@@ -1876,9 +1816,7 @@ Los invitados, incrédulos y boquiabiertos, contemplaban lo que acontecía, admi
 
 **Ayodhya Kanda**
 
-32
-
-**Sri Rama corrige a Lakshman**
+## 32 **Sri Rama corrige a Lakshman**
 
 la mañana siguiente, Bharat se aproximó a Bharadvaj y le agrade-
 
@@ -1932,9 +1870,7 @@ Con sus ojos de loto, Sri Rama continuó: “Seguramente Bharat, a quien quiero 
 
 **La Realeza de Ayodhya**
 
-33
-
-**El hallazgo de la cabaña **
+## 33 **El hallazgo de la cabaña **
 
 **de Rama**
 
@@ -1994,9 +1930,7 @@ Bharat, dominado por la emoción, tropezando a pesar de que el terreno era llano
 
 **La Realeza de Ayodhya**
 
-34
-
-**Rama describe los deberes **
+## 34 **Rama describe los deberes **
 
 **de un gobernante**
 
@@ -2050,9 +1984,7 @@ Bharat, que en realidad no tenía deseo alguno de gobernar, respondió a su herm
 
 **Ayodhya Kanda**
 
-35
-
-**Bharat es redimido **
+## 35 **Bharat es redimido **
 
 **por Sri Rama**
 
@@ -2092,9 +2024,7 @@ Dirigiéndose a Lakshman para que prepare pulpa y cortezas del árbol Ingu-di, p
 
 **Ayodhya Kanda**
 
-36
-
-**La ofrenda funeral en el**
+## 36 **La ofrenda funeral en el**
 
 **rio Mandakini**
 
@@ -2144,9 +2074,7 @@ Es también inevitable el sendero del deber, trazado por nuestros padres y super
 
 **La Realeza de Ayodhya**
 
-37
-
-**Los argumentos de Bharat**
+## 37 **Los argumentos de Bharat**
 
 unque la verdad era evidente, Bharat propuso otros argumentos 
 
@@ -2216,9 +2144,7 @@ Sri Rama, a pesar de estar conmovido por la noble actitud de Bharat, replicó qu
 
 **La Realeza de Ayodhya**
 
-38
-
-**las sandalias adorables**
+## 38 **las sandalias adorables**
 
 os sabios estaban atónitos contemplando a los dos hermanos lle-
 

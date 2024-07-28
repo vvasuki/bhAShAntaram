@@ -19,9 +19,7 @@ title = "6 Yuddha Kanda"
 
 **Yuddha Kanda**
 
-*1*
-
-**Se inicia la campaña **
+## 1 **Se inicia la campaña **
 
 **belica**
 
@@ -59,9 +57,7 @@ Alentando al ogro, varios demonios alardeaban de su propia fuerza y hacían voto
 
 **Yuddha Kanda**
 
-*2*
-
-**El hermano de Ravana se aparta **
+## 2 **El hermano de Ravana se aparta **
 
 **de los demonios**
 
@@ -95,9 +91,7 @@ Ravana reaccionó furibundo: “Es mejor vivir con un enemigo declarado, que con
 
 **Yuddha Kanda**
 
-*3*
-
-**Vibhishan le pide**
+## 3 **Vibhishan le pide**
 
 **refugio a Rama**
 
@@ -165,9 +159,7 @@ Nuevamente Shuka apeló a Rama, y el Señor misericordiosamente le aseguró que 
 
 **Yuddha Kanda**
 
-*4*
-
-**El puente flotante y el valor **
+## 4 **El puente flotante y el valor **
 
 **del más pequeño**
 
@@ -239,9 +231,7 @@ nombre de Rama; milagrosamente, estas flotaban
 
 **El Gran Combate**
 
-*5*
-
-**El facsimil de la **
+## 5 **El facsimil de la **
 
 **cabeza de Rama**
 
@@ -299,9 +289,7 @@ Cuando él exhiba su poder ante el ejército *rakshasa, * ellos huirán despavor
 
 **Yuddha Kanda**
 
-*6*
-
-**La proeza de Indrajit**
+## 6 **La proeza de Indrajit**
 
 uando los monos empezaron la invasión, Ravana subió al tope de
 
@@ -353,9 +341,7 @@ Cuando Ravana escuchó el reporte, inmediatamente dio un salto y abrazó a su hi
 
 **El Gran Combate**
 
-*7*
-
-**Sita es nuevamente **
+## 7 **Sita es nuevamente **
 
 **engañada**
 
@@ -383,9 +369,7 @@ Por su parte, Garuda, tomando permiso del Señor, subió a los cielos a la veloc
 
 **El Gran Combate**
 
-*8*
-
-**La furia y las proezas**
+## 8 **La furia y las proezas**
 
 **de los simios**
 
@@ -423,9 +407,7 @@ Viendo la cabeza de su líder rodar por el piso, los *rakshasas* nuevamente se r
 
 **El Gran Combate**
 
-*9*
-
-**Los rakshasas sufren otra derrota**
+## 9 **Los rakshasas sufren otra derrota**
 
 ras la muerte de Vajradamshtra, Akampana y otros ogros apare-
 
@@ -459,9 +441,7 @@ Ravana, al escuchar acerca de la muerte de su comandante en jefe, se sumió en u
 
 **El Gran Combate**
 
-*10*
-
-**Ravana se enfrenta a los **
+## 10 **Ravana se enfrenta a los **
 
 **monos y a los principes**
 
@@ -537,9 +517,7 @@ Retorna a Lanka y descansa un poco5. Cuando hayas recuperado toda tu fuerza, pod
 
 **El Gran Combate**
 
-*11*
-
-**El gigantesco Kumbhakarna es **
+## 11 **El gigantesco Kumbhakarna es **
 
 **despertado con gran dificultad**
 
@@ -585,9 +563,7 @@ Jamás en su vida habían visto tan gigantesca entidad viviente. El ejército en
 
 **Yuddha Kanda**
 
-*12*
-
-**Kumbhakarna arrasa al ejercito **
+## 12 **Kumbhakarna arrasa al ejercito **
 
 **de los monos**
 
@@ -665,9 +641,7 @@ Mientras era llevado por el gigante, Sugriva volvió en sí y pensó: “Debo ha
 
 **Yuddha Kanda**
 
-*13*
-
-**La venganza del **
+## 13 **La venganza del **
 
 **poderoso Indrajit**
 
@@ -715,9 +689,7 @@ Gandhamadana, Nala, Nila, Gaja, Mainda, Dvivida, Rishabha, Angada, Sugriva y muc
 
 **El Gran Combate**
 
-*14*
-
-**Hanuman va en pos de**
+## 14 **Hanuman va en pos de**
 
 **hierbas medicinales**
 
@@ -773,9 +745,7 @@ Después de que el ejército de los monos fue restablecido y curado, Hanuman dev
 
 **El Gran Combate**
 
-*15*
-
-**Un incendio devastador**
+## 15 **Un incendio devastador**
 
 **precede al hechizo**
 
@@ -829,9 +799,7 @@ Lakshman respetuosamente tocó los pies de su hermano y dio cuatro vueltas alred
 
 **Yuddha Kanda**
 
-*16*
-
-**La lid descomunal entre **
+## 16 **La lid descomunal entre **
 
 **Lakshman e Indrajit**
 
@@ -891,9 +859,7 @@ Fue entonces cuando Lakshman instaló un refulgente misil de oro presidido por I
 
 **Yuddha Kanda**
 
-*17*
-
-**Se desata un **
+## 17 **Se desata un **
 
 **espantoso combate**
 
@@ -973,9 +939,7 @@ Khara. \!Oh, demonio tenebroso\! por buena fortuna ahora te encuentras ante mí,
 
 **El Gran Combate**
 
-*18*
-
-**Ravana es auxiliado **
+## 18 **Ravana es auxiliado **
 
 **por su auriga**
 
@@ -1045,9 +1009,7 @@ Más tarde el demonio volvió en sí, y dándose cuenta de su vergonzosa situaci
 
 **El Gran Combate**
 
-*19*
-
-**El poder demoniaco **
+## 19 **El poder demoniaco **
 
 **es exterminado**
 
@@ -1103,9 +1065,7 @@ Los rituales funerarios se realizaron con todo honor, y los brahmanes recitaron 
 
 **El Gran Combate**
 
-*20*
-
-**Hanuman transmite el mensaje **
+## 20 **Hanuman transmite el mensaje **
 
 **de Rama a Sita**
 
@@ -1169,9 +1129,7 @@ Los gestos y las palabras de Rama, causaron dolor en Lakshman, Hanuman y Sugriva
 
 **El Gran Combate**
 
-*21*
-
-**Sita prueba su castidad**
+## 21 **Sita prueba su castidad**
 
 ama, sin dejar de contemplarla, le dijo a Sita: “Oh bendita, ¿cuál es valor del poder si no vengaría un insulto? Por ello, cumpliendo mi voto y recuperando mi autocontrol, hoy he vencido al enemigo y te he rescatado, obteniendo la recompensa a mi indignación.
 
@@ -1223,9 +1181,7 @@ temor a la ardiente hoguera, tal fuera un chorro dorado de mantequilla clarifica
 
 **El Gran Combate**
 
-*22*
-
-**Semidioses y rishis revelan la **
+## 22 **Semidioses y rishis revelan la **
 
 **verdad sobre Sita y Rama**
 
@@ -1289,9 +1245,7 @@ Pidió también a Sita no guardar rencor por la prueba de fuego a la que había 
 
 **El Gran Combate**
 
-*23*
-
-**La despedida de Lanka y la **
+## 23 **La despedida de Lanka y la **
 
 **recepcion de Bharat**
 
@@ -1375,9 +1329,7 @@ blemente sentados, ascendió a los cielos, en medio de las ovaciones de los ciud
 
 **El Gran Combate**
 
-*24*
-
-**El festival de Dipavali y la **
+## 24 **El festival de Dipavali y la **
 
 **coronacion de Sri Rama**
 

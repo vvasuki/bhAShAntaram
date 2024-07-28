@@ -241,9 +241,7 @@ RAMAYANA
 
 
 
-*1*
-
-1
+## 1 1
 
 Sanscrito
 
@@ -307,9 +305,7 @@ de todos los idiomas. Filológicamente
 
 
 
-*2*
-
-diferentes épocas, por lo que se habla ta \(ordinario\), al estilo de la Vulgata del Sánscrito clásico y del antiguo Vé-latina. Como en todas las lenguas, el
+## 2 diferentes épocas, por lo que se habla ta \(ordinario\), al estilo de la Vulgata del Sánscrito clásico y del antiguo Vé-latina. Como en todas las lenguas, el
 
 dico, que algunos lo llaman Proto-in-
 
@@ -359,9 +355,7 @@ resultado de sus investigaciones.
 
 
 
-*3*
-
-Entre las obras publicadas se en-
+## 3 Entre las obras publicadas se en-
 
 de poetas como Kalidas y Jayadev \(Gita
 
@@ -441,9 +435,7 @@ Hittita, Palaico, Lidio, Licio, Cuneiforme y Jeroglífico Luwiano 7
 
 
 
-*4*
-
-como el griego y el persa prove-
+## 4 como el griego y el persa prove-
 
 conocible con el sánscrito.
 
@@ -525,9 +517,7 @@ beriano, un idioma de
 
 
 
-*5*
-
-origen Mongol. Se estima que tanto los
+## 5 origen Mongol. Se estima que tanto los
 
 Incas, como los Amautas utilizaban un
 
@@ -601,9 +591,7 @@ Veda. En la construcción de la lengua
 
 
 
-*6*
-
-hay un reflejo de la ar-
+## 6 hay un reflejo de la ar-
 
 quitectura del mundo…
 
@@ -671,9 +659,7 @@ el castellano es la lengua con más parlan-
 
 
 
-*7*
-
-tes \(500 millones\)4. El sánscrito es uno de los 22 idiomas oficiales de la India, en el nivel de lengua clásica, como el latín lo es en Occidente.
+## 7 tes \(500 millones\)4. El sánscrito es uno de los 22 idiomas oficiales de la India, en el nivel de lengua clásica, como el latín lo es en Occidente.
 
 El sánscrito está atrayendo al mundo actual, habiéndose popularizado los mantras, que cuando se recitan o cantan, tienen un efecto purificador en la mente y la psiquis de las personas. Posiblemente haya unos 50.000 estudiosos en India, Japón, China, Tailandia, Sri Lanka, Bangladesh, Nepal, y países del Sur y Sudeste de Asia. Las principales universidades del mundo tienen departamentos especializados para su estudio, cual el caso de Oxford, Harvard, Berkeley, Columbia, la Sorbona, Salamanca, etc. De hecho, ninguna de las más prestigiosas universidades puede darse hoy el lujo de no abordarlo.
 
@@ -717,9 +703,7 @@ Graficos
 
 
 
-*8*
-
-**4 La palabra más utilizada en el mundo, mamá o madre, tiene origen** **sánscrito:**
+## 8 **4 La palabra más utilizada en el mundo, mamá o madre, tiene origen** **sánscrito:**
 
 Sánscrito, MAATRIH, MAATAH, MAATUR, MAATRIKAH “matriz”
 
@@ -781,9 +765,7 @@ Hallazgos científicos muy recientes, como los difundidos por la Universi-
 
 
 
-*9*
-
-dad de Reading, en Inglaterra, demuestran que la palabra “mamá” y su sinónimo
+## 9 dad de Reading, en Inglaterra, demuestran que la palabra “mamá” y su sinónimo
 
 “madre” poseen la misma raíz lingüística en todos los idiomas del mundo y se la pronuncia en los cinco continentes desde hace por lo menos 15.000 años, según una investigación publicada por el biólogo evolutivo Mark Pagel.
 
@@ -819,9 +801,7 @@ la India más de 1.000.
 
 
 
-*11*
-
-2
+## 11 2
 
 Los Vedas
 
@@ -863,9 +843,7 @@ primera cadena de sucesión discipular, cono-
 
 
 
-*12*
-
-cida como el Brahma sampradaya, o es-
+## 12 cida como el Brahma sampradaya, o es-
 
 la sociedad humana para registrar el
 
@@ -937,9 +915,7 @@ tuvo que introducir la escritura en
 
 
 
-*13*
-
-Las Divisiones de
+## 13 Las Divisiones de
 
 dicos y los Celtas evidencian un origen
 
@@ -991,9 +967,7 @@ cia Persia, y Egipto. Los pueblos Nór-
 
 
 
-*14*
-
-Ya, Yadus estaban relacionados con Sri Krishna, y llaman a Dios como Yaweh \(Yavé\). La Kabbalah, el libro de las concepciones místicas del judaísmo es atribuida a Kapila Muni.
+## 14 Ya, Yadus estaban relacionados con Sri Krishna, y llaman a Dios como Yaweh \(Yavé\). La Kabbalah, el libro de las concepciones místicas del judaísmo es atribuida a Kapila Muni.
 
 E n e l a n t i g u o E g i p t o 4 H a r i - a t m a n \( E l A l m a S u -
 
@@ -1067,9 +1041,7 @@ de Los Angeles
 
 
 
-*15*
-
-Los Shulba Sutras contienen ma-
+## 15 Los Shulba Sutras contienen ma-
 
 no convertido al cristianismo, perci-
 
@@ -1173,9 +1145,7 @@ hibido la lectura de libros, las olimpíadas y toda proclama religiosa o místic
 
 
 
-*16*
-
-cubierta por una densa nube especula-
+## 16 cubierta por una densa nube especula-
 
 CATALOGUS
 
@@ -1257,9 +1227,7 @@ gorum.html?id=MI5HAAAAYAAJ
 
 
 
-*17*
-
-publicó en 1908, el Catálogo Descrip-
+## 17 publicó en 1908, el Catálogo Descrip-
 
 Los Vedas y La Ciencia
 
@@ -1371,9 +1339,7 @@ gus Catalogorum: los científicos ya han sofisticados, incluso clasificado más 
 
 
 
-*18*
-
-fueron “inventados” recientemente como se cree popularmente, puesto que incluso el programa espacial de la NASA, de von Braun basado en sus cohetes V2
+## 18 fueron “inventados” recientemente como se cree popularmente, puesto que incluso el programa espacial de la NASA, de von Braun basado en sus cohetes V2
 
 tiene como punto de partida el vimana \(de aquí viene la “V” del V2\).
 
@@ -1469,9 +1435,7 @@ romanos.
 
 
 
-*19*
-
-**VIMANIKA SHASTRA**
+## 19 **VIMANIKA SHASTRA**
 
 **Brahmastras, Misiles **
 
@@ -1547,9 +1511,7 @@ por el poder ío económico.
 
 
 
-*20*
-
-**El Mayor Científico Aeroespacial**
+## 20 **El Mayor Científico Aeroespacial**
 
 Wer ner von Braun, astrónomo, ingeniero
 
@@ -1585,9 +1547,7 @@ ajedrecistas par ticipantes.
 
 
 
-*21*
-
-3
+## 21 3
 
 La Literatura Vedica
 
@@ -1681,9 +1641,7 @@ sino Jorge Luis Bor-
 
 
 
-*22*
-
-ges, Octavio Paz, Franz Tamayo, Villa-
+## 22 ges, Octavio Paz, Franz Tamayo, Villa-
 
 Itihasa, Mahabharata
 
@@ -1755,9 +1713,7 @@ trasciende este mundo y es también su origen.
 
 
 
-*23*
-
-12.000, comparados a las 200.000 en poco más de 700 versos. El estudio del Mahabharata. Estas obras griegas del Gita marca hoy en día el comien-en realidad son adaptaciones de las zo del estudio y la comprensión de los originales en sánscrito. Penélope imita Vedas. Es también llamado Gita Upa-a Sita y Helena de Troya secuestrada es nishad, Upanishad literalmente signi-una Helena ilusoria, al igual que la Sita fica “lo que se aprende a los pies del raptada en el Ramayana.
+## 23 12.000, comparados a las 200.000 en poco más de 700 versos. El estudio del Mahabharata. Estas obras griegas del Gita marca hoy en día el comien-en realidad son adaptaciones de las zo del estudio y la comprensión de los originales en sánscrito. Penélope imita Vedas. Es también llamado Gita Upa-a Sita y Helena de Troya secuestrada es nishad, Upanishad literalmente signi-una Helena ilusoria, al igual que la Sita fica “lo que se aprende a los pies del raptada en el Ramayana.
 
 maestro” ya que el propio Bhagavad-gi-
 
@@ -1817,9 +1773,7 @@ bharata, sintetizando el conocimiento son textos Védicos didácticos comple-má
 
 
 
-*24*
-
-semidioses, estableciendo una simi-
+## 24 semidioses, estableciendo una simi-
 
 litud teológica y lingüística entre la
 
@@ -1899,9 +1853,7 @@ critos y aquellos nativos de diferentes
 
 
 
-*25*
-
-Las Escrituras Esenciales
+## 25 Las Escrituras Esenciales
 
 Siendo tan vastos los escritos y tan
 
@@ -1975,9 +1927,7 @@ sas narraciones del Ser Supremo y Sus
 
 
 
-*26*
-
-tas que no están sujetas al error y que
+## 26 tas que no están sujetas al error y que
 
 narran eventos trascendentales. Exis-
 
@@ -2063,9 +2013,7 @@ las compilaciones de las almas perfec-
 
 
 
-*23*
-
-*27*
+## 23 *27*
 
 4
 
@@ -2139,9 +2087,7 @@ acuerdo con la naturaleza de su cuer-
 
 
 
-*28*
-
-tres colores primarios y dando niveles
+## 28 tres colores primarios y dando niveles
 
 de opacidad, transparencia y luminosi-
 
@@ -2215,9 +2161,7 @@ nando en diferentes proporciones estos
 
 
 
-*29*
-
-Los Cuatro Varnas
+## 29 Los Cuatro Varnas
 
 \(Divisiones Sociales\)
 
@@ -2297,9 +2241,7 @@ deber
 
 
 
-*30*
-
-**1 BRAHMANES**
+## 30 **1 BRAHMANES**
 
 Los brahmanes tienen seis ocupaciones y desarrollan nueve cualidades.
 
@@ -2343,9 +2285,7 @@ Están sujetos al predominio de la modalidad de la Pasión. Los kshatriyas \(ksh
 
 
 
-*31*
-
-cualidades brahmánicas y comparte cinco de las seis actividades brahmánicas, exceptuando aceptar caridad, que se reserva únicamente para los brahmanes.
+## 31 cualidades brahmánicas y comparte cinco de las seis actividades brahmánicas, exceptuando aceptar caridad, que se reserva únicamente para los brahmanes.
 
 Sus cualidades de
 
@@ -2379,9 +2319,7 @@ Tienen una mezcla de las modalidades de la pasión y la ignorancia. Se dedican a
 
 
 
-*32*
-
-**4 SUDRAS**
+## 32 **4 SUDRAS**
 
 nerse limpios, no mentir bien una persona por cir-y no robar. La influencia cunstancias de la vida Clase Artesanal y preponderante de la mo-pueda verse forzada a ha-
 
@@ -2439,9 +2377,7 @@ Deben aprender a mante-
 
 
 
-*34*
-
-Interrelaciones
+## 34 Interrelaciones
 
 obligaciones formales en relación con
 
@@ -2493,9 +2429,7 @@ praestatal, no paga impuestos ni tiene de los excedentes.
 
 
 
-*35*
-
-Clases Privilegiadas
+## 35 Clases Privilegiadas
 
 Para preservar el propósito de la
 
@@ -2573,9 +2507,7 @@ y sabiduría con los más jóvenes.
 
 
 
-*36*
-
-Los Cuatro Ashramas
+## 36 Los Cuatro Ashramas
 
 \(Divisiones Espirituales\)
 
@@ -2637,9 +2569,7 @@ rias básicas son filosofía, que incluye
 
 
 
-*37*
-
-matemáticas y ciencias6 además de len-
+## 37 matemáticas y ciencias6 además de len-
 
 a las destrezas en que se desenvuelven
 
@@ -2709,9 +2639,7 @@ nashrama. A partir de este momento 4 y 9 años más joven; las mujeres se los es
 
 
 
-*38*
-
-retirarse de la vida familiar, para pro-
+## 38 retirarse de la vida familiar, para pro-
 
 seguir el avance espiritual. Hay varias
 
@@ -2791,9 +2719,7 @@ senta a Vishnu o Dios, mantequilla clarificada y granos, para que actúe como te
 
 
 
-*39*
-
-se pierde el sentido de autoridad, estos
+## 39 se pierde el sentido de autoridad, estos
 
 **COMPATIBILIDAD MATRIMONIAL**
 
@@ -2887,9 +2813,7 @@ hombre, porque la prole se degrada y
 
 
 
-*40*
-
-4. SANNYASA. Vida de total re-
+## 40 4. SANNYASA. Vida de total re-
 
 nuncia
 
@@ -2961,9 +2885,7 @@ var *nashrama-dharma * es el *sannyasi* la persona más honrada por la sociedad
 
 
 
-*41*
-
-Védica, por ser el más renunciado.
+## 41 Védica, por ser el más renunciado.
 
 soporte económico y protección, hon-
 
@@ -3035,9 +2957,7 @@ presencia.
 
 
 
-*42*
-
-5
+## 42 5
 
 Yoga y Meditacion
 
@@ -3137,9 +3057,7 @@ Mí”. Bhagavad-Gita 9.34
 
 
 
-*43*
-
-KARMA YOGA2. karma= actividad.
+## 43 KARMA YOGA2. karma= actividad.
 
 De la misma forma en que nuestras ac-
 
@@ -3211,9 +3129,7 @@ del matrimonio.
 
 
 
-*44*
-
-da, siendo la espina dorsal un canal que
+## 44 da, siendo la espina dorsal un canal que
 
 BHAKTI YOGA. bhakti = amor
 
@@ -3305,9 +3221,7 @@ bhakti” \(el ser vicio devocional amoroso\)
 
 
 
-*45*
-
-**Yoguis Ejemplares**
+## 45 **Yoguis Ejemplares**
 
 ser un amigo \(sakhyam\) íntimo del Se-
 
@@ -3367,9 +3281,7 @@ gró el éxito sólo con ofrecer oraciones Señor sin el mí-
 
 
 
-*46*
-
-guis, es quien tiene una conexión más
+## 46 guis, es quien tiene una conexión más
 
 íntima con Dios y su servicio tiene es-
 
@@ -3467,9 +3379,7 @@ de aler ta.
 
 
 
-*47*
-
-6
+## 47 6
 
 Los Maestros Espirituales
 
@@ -3529,9 +3439,7 @@ mente entrenados cuidadosamente por
 
 
 
-*48*
-
-**Los Vaishnavas **
+## 48 **Los Vaishnavas **
 
 **o Devotos**
 
@@ -3595,9 +3503,7 @@ persona idónea para conducir al alma a
 
 
 
-*49*
-
-ses y los seres perfectos” \[Skanda Pura-
+## 49 ses y los seres perfectos” \[Skanda Pura-
 
 na\]. Los vaishnavas son indiferentes al
 
@@ -3665,9 +3571,7 @@ todos los semidio-
 
 
 
-*50*
-
-los 4 Kumaras\). Estas Nombres de Dios. Hoy en día, prácticamente todas cuatro sampradayas o eslas organizaciones espirituales en el mundo cantan cuelas fueron representa-los nombres del Señor, sin saber que esta influencia das respectivamente por proviene de Sri Chaitanya Mahaprabhu.
+## 50 los 4 Kumaras\). Estas Nombres de Dios. Hoy en día, prácticamente todas cuatro sampradayas o eslas organizaciones espirituales en el mundo cantan cuelas fueron representa-los nombres del Señor, sin saber que esta influencia das respectivamente por proviene de Sri Chaitanya Mahaprabhu.
 
 Madhva, Vishnuswami,
 
@@ -3739,9 +3643,7 @@ Maestro Espir itual se lo enseñó. De esta for ma, la ciencia de Dios per manec
 
 
 
-*51*
-
-**Sri Chaitanya, **
+## 51 **Sri Chaitanya, **
 
 maestro\) descendió para enseñar la
 
@@ -3863,9 +3765,7 @@ rie de maestros espiri-
 
 
 
-*52*
-
-rial Védica del mundo,
+## 52 rial Védica del mundo,
 
 el Bhaktivedanta Book
 
@@ -3959,9 +3859,7 @@ Charity Trust y el Bhaktivedanta Book Trust
 
 
 
-*53*
-
-7
+## 53 7
 
 El Ashram
 
@@ -4055,9 +3953,7 @@ siguen esos principios, son personas
 
 
 
-*54*
-
-**El Poder Divino de **
+## 54 **El Poder Divino de **
 
 ternamente otorgándoles la más eleva-
 
@@ -4117,9 +4013,7 @@ cer esto.”
 
 
 
-*55*
-
-**El Gran **
+## 55 **El Gran **
 
 y las hojas, el suelo y los
 
@@ -4245,9 +4139,7 @@ ras, las frutas, las flores za de animales.
 
 
 
-*56*
-
-**Srila Prabhupada / **
+## 56 **Srila Prabhupada / **
 
 **Tulasi**
 
@@ -4311,9 +4203,7 @@ y se fue al mundo espiritual.
 
 
 
-*57*
-
-guna. El que venía a meditar, obtenía **No Todos los** satisfacción sin meditar. El que venía a
+## 57 guna. El que venía a meditar, obtenía **No Todos los** satisfacción sin meditar. El que venía a
 
 conseguir iluminación, experimentaba **Devotos son Iguales** éxtasis sin la ayuda del conocimiento.
 
@@ -4349,9 +4239,7 @@ vuelve puro. Así
 
 
 
-*58*
-
-como el maleado pronto busca defec-
+## 58 como el maleado pronto busca defec-
 
 toma un baño apacible, y también al-
 
@@ -4419,9 +4307,7 @@ El ashram es independiente de lo votos puros. Incluso un instante \(lava\) bueno
 
 
 
-*59*
-
-8
+## 59 8
 
 El Poder del Mantra
 
@@ -4517,9 +4403,7 @@ ensayo de Sriman Jahnava Nitai das
 
 
 
-*60*
-
-infinitos nombres del Ser Supremo se
+## 60 infinitos nombres del Ser Supremo se
 
 llaman *Harinam*, o el Santo Nombre, y
 
@@ -4617,9 +4501,7 @@ los conciertos y fiestas modernos
 
 
 
-*61*
-
-típicamente oscilan entre
+## 61 típicamente oscilan entre
 
 120 y 140 decibelios.
 
@@ -4695,9 +4577,7 @@ cuerpo.
 
 
 
-*62*
-
-*62*
+## 62 *62*
 
 fuerza vibratoria penetra en
 
@@ -4767,9 +4647,7 @@ puro por Dios, que nos per mite exper imentar co-
 
 
 
-*63*
-
-**El Efecto de las Vibraciones Trascendentales** Este mundo fue creado por sonido. El conocimiento de la naturaleza tera-
+## 63 **El Efecto de las Vibraciones Trascendentales** Este mundo fue creado por sonido. El conocimiento de la naturaleza tera-
 
 “En el principio era el verbo”; lo-
 
@@ -4803,9 +4681,7 @@ interior.
 
 
 
-*64*
-
-9
+## 64 9
 
 La Practica del Maha
 
@@ -4887,9 +4763,7 @@ zón. El principio
 
 
 
-*65*
-
-básico de tales descarríos es la falsa
+## 65 básico de tales descarríos es la falsa
 
 conciencia de que soy el señor de todo
 
@@ -4943,9 +4817,7 @@ más elevada, por supuesto, se espera
 
 
 
-*66*
-
-que uno no co-
+## 66 que uno no co-
 
 de escuchar-
 
@@ -5051,9 +4923,7 @@ incompatible; pero,
 
 
 
-*67*
-
-cuando la energía superior
+## 67 cuando la energía superior
 
 marginal está en contacto con
 
@@ -5131,9 +5001,7 @@ mundo espir itual y viene a manifestarse danzando en la lengua. El sonido trasce
 
 
 
-*68*
-
-**El Santo Nombre, **
+## 68 **El Santo Nombre, **
 
 **por Srila **
 
@@ -5191,9 +5059,7 @@ Ahur Mazda, etcétera
 
 
 
-*69*
-
-10
+## 69 10
 
 Karma y Reencarnacion
 
@@ -5283,9 +5149,7 @@ incrementa, no disminuye.
 
 
 
-*70*
-
-**EMPERADOR JUSTINIANO**
+## 70 **EMPERADOR JUSTINIANO**
 
 **la transmigracion **
 
@@ -5365,9 +5229,7 @@ reencar nación.
 
 
 
-*71*
-
-guel de Cervantes y Shakespeare hasta
+## 71 guel de Cervantes y Shakespeare hasta
 
 Franz Tamayo, Charles Dickens, Walt
 
@@ -5449,9 +5311,7 @@ Goethe y Tolstoi, literatos desde Mi-
 
 
 
-*72*
-
-ACTIVIDAD. Los actos que realiza-
+## 72 ACTIVIDAD. Los actos que realiza-
 
 mos determinan nuestra próxima vida.
 
@@ -5519,9 +5379,7 @@ mo. Sri Krishna afirma: “El que alcanza na. El Gita 4.17 dice: “Así como el
 
 
 
-*73*
-
-El alma pasa a otros cuer pos de acuerdo a su concepción de la vida nes de las actividades materiales”.
+## 73 El alma pasa a otros cuer pos de acuerdo a su concepción de la vida nes de las actividades materiales”.
 
 propia entidad viviente, son quienes
 
@@ -5605,9 +5463,7 @@ que Pitágoras,
 
 
 
-*74*
-
-quien vestía con un manto, hablaba vez, sino que los recuerdan, traen en la la misma doctrina del alma”. *Valerio * memoria muchas cualidades.”
+## 74 quien vestía con un manto, hablaba vez, sino que los recuerdan, traen en la la misma doctrina del alma”. *Valerio * memoria muchas cualidades.”
 
 
 
@@ -5663,9 +5519,7 @@ prendiendo por primera alguna inferior, relativa o temporal...”
 
 
 
-*75*
-
-Los planetas Vaikunta donde las almas liberadas poseen la misma for ma del Señor.
+## 75 Los planetas Vaikunta donde las almas liberadas poseen la misma for ma del Señor.
 
 “¡Qué bueno que los hombres ten-
 
@@ -5743,9 +5597,7 @@ co, un pasaje aislado, al que no prece-
 
 
 
-*76*
-
-“Nuestro nacimiento en este mun-
+## 76 “Nuestro nacimiento en este mun-
 
 **KALIL GIBRAN**
 
@@ -5875,9 +5727,7 @@ bre de Dios\)”.
 
 
 
-*77*
-
-11
+## 77 11
 
 Vegetarianismo y Salud
 
@@ -5933,9 +5783,7 @@ ende sobre la conducta de las personas.
 
 
 
-*78*
-
-**Etica**
+## 78 **Etica**
 
 La mayoría de los vegetarianos son
 
@@ -5995,9 +5843,7 @@ cados con hierros calientes, castrados y diabetes, obesi-mutilados sin anestesia
 
 
 
-*79*
-
-formas de cáncer \(de colon, de mama,
+## 79 formas de cáncer \(de colon, de mama,
 
 No es de extrañar que la persona
 
@@ -6091,9 +5937,7 @@ otros tipos de cáncer más.
 
 
 
-*80*
-
-**el hambre mundial **
+## 80 **el hambre mundial **
 
 **y la ecologia**
 
@@ -6177,9 +6021,7 @@ que son destruidos cada año, cuando se 1 The Hidden Water We Use, www.waterfoot
 
 
 
-*81*
-
-Las fuentes de agua animales consumen 600
+## 81 Las fuentes de agua animales consumen 600
 
 fresca de este planeta no millones de toneladas de solamente se están con-cereales anualmente. La
 
@@ -6295,9 +6137,7 @@ tar ganado.
 
 
 
-*82*
-
-una sola hamburguesa gasta combus-
+## 82 una sola hamburguesa gasta combus-
 
 **la lengua y **
 
@@ -6361,9 +6201,7 @@ de 5.000 años.
 
 
 
-*83*
-
-miente, la que esconde, que engaña,
+## 83 miente, la que esconde, que engaña,
 
 que explota, que blasfema, que insulta,
 
@@ -6427,9 +6265,7 @@ de la explotación. Es la lengua la que formista Martín
 
 
 
-*84*
-
-Lutero, padre de todas promotores de la ecolo-cruel con ésta” \[Prover-
+## 84 Lutero, padre de todas promotores de la ecolo-cruel con ésta” \[Prover-
 
 las iglesias evangélicas gía y la protección de los bios 12:10\]
 
@@ -6475,9 +6311,7 @@ su bestia, el torcido será cluye que la dieta vegeta-podemos ayudar les”
 
 
 
-*85*
-
-\[5.45-47\]. “El hombre que consien-
+## 85 \[5.45-47\]. “El hombre que consien-
 
 te en la muerte de un animal, el que
 
@@ -6551,9 +6385,7 @@ haga, o a la que ligue su pensamiento.”
 
 
 
-*86*
-
-Existen centros culturales y res-
+## 86 Existen centros culturales y res-
 
 **¿Que hacer? **
 
@@ -6761,9 +6593,7 @@ vehículos\!
 
 
 
-*87*
-
-**Grandes Vegetarianos**
+## 87 **Grandes Vegetarianos**
 
 **Leonardo DaVinci**
 
@@ -6899,9 +6729,7 @@ Natalie Por tman
 
 
 
-*88*
-
-12
+## 88 12
 
 El Origen
 
@@ -6967,9 +6795,7 @@ Manu, el padre de la humanidad instr uyendole el Bhagavad-Gita a su hijo Ishvaku
 
 
 
-*89*
-
-practican una cultura de
+## 89 practican una cultura de
 
 paz basada en la espiri-
 
@@ -7041,9 +6867,7 @@ La cultura Védica dejo marca sobre las culturas más impor tantes del mundo. A 
 
 
 
-*90*
-
-involucrando Bharat \(India\) y pobla-
+## 90 involucrando Bharat \(India\) y pobla-
 
 ciones caucásicas, afganas y judías, \(2\)
 
@@ -7139,9 +6963,7 @@ las tareas de emperador,
 
 
 
-*91*
-
-Existen al respecto estudios sobre las
+## 91 Existen al respecto estudios sobre las
 
 Tribus ADN como los de L. Martin y E
 
@@ -7227,9 +7049,7 @@ Gran palacio real Wat Phra Kaew en Bangok, Taillandia
 
 
 
-*92*
-
-**Los Inicios de la **
+## 92 **Los Inicios de la **
 
 **RUSLAN Y LUDMILA**
 
@@ -7335,9 +7155,7 @@ del ángulo. Posteriormente aparecen
 
 
 
-*93*
-
-aplicó la hidrostática y las leyes de las **Ciencia y** palancas, construyó la catapulta, la polea compuesta, los espejos cóncavos y **Espiritualidad** perfeccionó el uso del tornillo. Apolonio introdujo los términos de parábo- E xiste por tanto un vínculo estrecho la, elipse e hipérbola espiral. Claudio
+## 93 aplicó la hidrostática y las leyes de las **Ciencia y** palancas, construyó la catapulta, la polea compuesta, los espejos cóncavos y **Espiritualidad** perfeccionó el uso del tornillo. Apolonio introdujo los términos de parábo- E xiste por tanto un vínculo estrecho la, elipse e hipérbola espiral. Claudio
 
 entre ciencia y espiritualidad, que
 
@@ -7403,9 +7221,7 @@ Eusebio, Amiano Marcelino, Epifanio, Prudencio, Juan Crisóstomo, Jerónimo, Pal
 
 
 
-*94*
-
-cho, muchos perseguidos eran hombres filosofía es la ciencia de las ciencias y de ciencia y profunda espiritualidad la matemática su instrumento terapéu-como Galileo Galilei, Giordano Bruno tico. Además del Discurso del Método, y otros.
+## 94 cho, muchos perseguidos eran hombres filosofía es la ciencia de las ciencias y de ciencia y profunda espiritualidad la matemática su instrumento terapéu-como Galileo Galilei, Giordano Bruno tico. Además del Discurso del Método, y otros.
 
 René Descartes escribió Las Meditacio-
 
@@ -7495,9 +7311,7 @@ un universo de energía, de nuestro propio pensamiento, de nuestra percepción.
 
 
 
-*95*
-
-**TRANSFORMACIONES DE LOS VEDAS**
+## 95 **TRANSFORMACIONES DE LOS VEDAS**
 
 No obstante, se transmitieron también desvia-
 
@@ -7571,9 +7385,7 @@ los arios. Para estar cantando el santo 8 A.C. Bhaktivedanta Swami, comentario a
 
 
 
-*96*
-
-13
+## 96 13
 
 La Religion Universal
 
@@ -7659,9 +7471,7 @@ mundo entero es una sola familia, in-
 
 
 
-*98*
-
-Aquello que no tiene principio ni fin no **Actitud Acerca de** debe ser sectario, porque no puede ser
+## 98 Aquello que no tiene principio ni fin no **Actitud Acerca de** debe ser sectario, porque no puede ser
 
 confinado dentro de límite alguno.
 
@@ -7737,9 +7547,7 @@ El ser vicio a Dios es el deber de cada entidad viviente
 
 
 
-*99*
-
-para proclamar nuestra fe en Krishna
+## 99 para proclamar nuestra fe en Krishna
 
 en Vrindavana, consideramos inapro-
 
@@ -7815,9 +7623,7 @@ pia cultura espiritual y trabajamos
 
 
 
-*100*
-
-**BRAHMAN**
+## 100 **BRAHMAN**
 
 **PARAMATMA**
 
@@ -7911,9 +7717,7 @@ mente, como se explicó
 
 
 
-*102*
-
-**Principios -Regulaciones de las **
+## 102 **Principios -Regulaciones de las **
 
 **Cuatro Escuelas Originales**
 
@@ -7997,9 +7801,7 @@ Kunja
 
 
 
-*103*
-
-**El Nombre y el **
+## 103 **El Nombre y el **
 
 **Resumen de las**
 
@@ -8079,9 +7881,7 @@ cuerpo burdo
 
 
 
-*104*
-
-hecho de tierra, agua, fuego, **La Transmigración del** aire y éter3. El cuerpo burdo **Alma \(Reencarnación\)** se cambia al momento de la
+## 104 hecho de tierra, agua, fuego, **La Transmigración del** aire y éter3. El cuerpo burdo **Alma \(Reencarnación\)** se cambia al momento de la
 
 muerte.
 
@@ -8183,9 +7983,7 @@ líquido, gas, energía y plasma.
 
 
 
-*105*
-
-cia, conocimiento y felicidad. Solamente así podemos encontrar satisfacción y plenitud.
+## 105 cia, conocimiento y felicidad. Solamente así podemos encontrar satisfacción y plenitud.
 
 **El Propósito se la Vida es Volver al **
 
@@ -8209,9 +8007,7 @@ como Patrimonio oral intangible de la humanidad.
 
 
 
-*106*
-
-La diversidad de concepciones espirituales o religiosas, pueden resumirse en seis sistemas de filosofía: Purva Mimansa de Jaimini, el Yoga de Patanjali, el Nyaya de Gautama, el Vaishes-hika de Kanada, el Uttar Mi-
+## 106 La diversidad de concepciones espirituales o religiosas, pueden resumirse en seis sistemas de filosofía: Purva Mimansa de Jaimini, el Yoga de Patanjali, el Nyaya de Gautama, el Vaishes-hika de Kanada, el Uttar Mi-
 
 **Otras Declaraciones **
 
@@ -8285,9 +8081,7 @@ prender muchas cosas materiales pero la exis-
 
 
 
-*107*
-
-tencia de Dios sólo puede ser
+## 107 tencia de Dios sólo puede ser
 
 realizada por el alma espiri-
 
@@ -8363,9 +8157,7 @@ más apremiante necesidad.
 
 
 
-*108*
-
-Las almas condicionadas
+## 108 Las almas condicionadas
 
 necesitan vincularse con un
 
@@ -8463,9 +8255,7 @@ de su nivel.
 
 
 
-*109*
-
-14
+## 109 14
 
 Los Avataras de Dios
 
@@ -8527,9 +8317,7 @@ carnal o material.
 
 
 
-*110*
-
-dad1, de esta manera a través de millones de
+## 110 dad1, de esta manera a través de millones de
 
 Aunque soy innaciente y Mi
 
@@ -8655,9 +8443,7 @@ dos en la modalidad de la bon-
 
 
 
-*111*
-
-**Los Avataras**
+## 111 **Los Avataras**
 
 Existen seis tipos de avataras \(1\) pur usha, for mas de Vishnu relacionadas a la creación \(2\) lila, for mas que realizan pasatiempos, \(3\) guna, que controlan las tres modalidades de la naturaleza \(4\) manvantara, Manus que gobier nan inicialmente la humanidad, \(5\) yuga, que marcan las pautas de cada era y \(6\) shakt-yavesha individuos dotados de poder divino.
 
@@ -8725,9 +8511,7 @@ Madhya-lila 20.263-4
 
 
 
-*113*
-
-Entre los shakti-avesha-avataras, están
+## 113 Entre los shakti-avesha-avataras, están
 
 también grandes maestros espirituales, mesías
 
@@ -9877,9 +9661,7 @@ dor del año
 
 
 
-*127*
-
-mó la Gran Biblioteca de Ale-
+## 127 mó la Gran Biblioteca de Ale-
 
 decimal, como el cero, hace miles de años atrás.
 
@@ -9943,9 +9725,7 @@ desfasa 30 grados o toda una constelación
 
 
 
-*128*
-
-que hoy en día es Italia. Grandes pensadores,
+## 128 que hoy en día es Italia. Grandes pensadores,
 
 filósofos y científicos como Nostradamus, Ke-
 
@@ -10009,9 +9789,7 @@ agujero negro.
 
 
 
-*129*
-
-16
+## 129 16
 
 Monoteismo y Politeismo
 
@@ -10097,9 +9875,7 @@ ba allí.
 
 
 
-*130*
-
-“Los Occidenta-
+## 130 “Los Occidenta-
 
 quiere un buen es-
 
@@ -10193,9 +9969,7 @@ en el
 
 
 
-*131*
-
-que el Angel del Sol descienda a vos.
+## 131 que el Angel del Sol descienda a vos.
 
 Los semidioses habitan diferentes nive-
 
@@ -10259,9 +10033,7 @@ tro calzado y vestiduras y permitid que tu toma calor de el Angel del Sol descie
 
 
 
-*132*
-
-dad, del Padre Celestial. Los Angeles distintos, con mayor o menor detalle.
+## 132 dad, del Padre Celestial. Los Angeles distintos, con mayor o menor detalle.
 
 del Aire, del Agua y del Sol son herma-
 
@@ -10347,9 +10119,7 @@ Personalidad de Dios
 
 
 
-*133*
-
-El Bhagavatam 1.3.28 concluye:
+## 133 El Bhagavatam 1.3.28 concluye:
 
 gicos, el deseo era una imposición por
 
@@ -10419,9 +10189,7 @@ Queda también claro, que más que desde Quito \(Ecuador\), firmada por Humberto
 
 
 
-*134*
-
-la que siempre ha sostenido la
+## 134 la que siempre ha sostenido la
 
 Los Pueblos Originarios éramos civiliza-
 
@@ -10493,9 +10261,7 @@ En el universo mater ial, existen entidades vivientes como los semidioses o los 
 
 
 
-*136*
-
-tintas. Algunos tienen influencias benéficas y otros, maléficas. Sus formas son diversas, desde hermosas hasta espantosas, desde diminutas a
+## 136 tintas. Algunos tienen influencias benéficas y otros, maléficas. Sus formas son diversas, desde hermosas hasta espantosas, desde diminutas a
 
 gigantescas; masculinas o femeninas. Son fácil o difícilmente accesibles y sus poderes fluctúan desde influencias materiales hasta espirituales.
 
@@ -10575,9 +10341,7 @@ por los deseos materiales se rinden a los semidioses y siguen las reglas y regul
 
 
 
-*137*
-
-*Quien a Dios tiene, nada le falta*
+## 137 *Quien a Dios tiene, nada le falta*
 
 **La Causa de todas las **
 
@@ -10693,9 +10457,7 @@ ensar tadas en un hilo” \(7.7\)
 
 
 
-*138*
-
-17
+## 138 17
 
 Deidades e Idolos
 
@@ -10793,9 +10555,7 @@ nografía y cual el carácter
 
 
 
-*139*
-
-vadanti tat tattva-vidas / Dios - lo que los rayos solares son al dios del tattvam yaj jñānam advayam
+## 139 vadanti tat tattva-vidas / Dios - lo que los rayos solares son al dios del tattvam yaj jñānam advayam
 
 Sol - . Estudiantes poco inteligentes de cua-
 
@@ -10889,9 +10649,7 @@ radiante de la Personalidad de to, tanto el
 
 
 
-*140*
-
-conocedor como lo conocido inferior. El ser viviente que está en contacto con son de la misma energía su-la energía inferior se halla engañado, creyen-
+## 140 conocedor como lo conocido inferior. El ser viviente que está en contacto con son de la misma energía su-la energía inferior se halla engañado, creyen-
 
 perior. Existen tres clases de do que pertenece a la energía inferior. Por eso energías del energético supre-existe la sensación de relatividad en el mundo mo. No hay ninguna diferencia material. En el Absoluto no existe esa sensación entre la energía y el energéti-de diferencia entre el conocedor y lo conocido, co, pero existe una diferencia y, por ende, allí todo es absoluto.
 
@@ -10947,9 +10705,7 @@ Paz, 1924
 
 
 
-*141*
-
-el fruto se conoce el árbol. La adora-
+## 141 el fruto se conoce el árbol. La adora-
 
 **Conocimiento y fé**
 
@@ -11043,9 +10799,7 @@ vanam\].
 
 
 
-*142*
-
-“El poder de estos cinco princi-
+## 142 “El poder de estos cinco princi-
 
 pios es muy maravilloso y difícil de
 
@@ -11143,9 +10897,7 @@ zado.
 
 
 
-*143*
-
-desdichado es la del ateísmo conve-
+## 143 desdichado es la del ateísmo conve-
 
 Aunque se considera más impor tan-
 
@@ -11231,9 +10983,7 @@ dades de supervivencia en este mundo
 
 
 
-*144*
-
-vida. El mero cumplimiento de doctri-
+## 144 vida. El mero cumplimiento de doctri-
 
 nas inmóviles y liturgias fijas no puede
 
@@ -11291,9 +11041,7 @@ tipo de temor4”.
 
 
 
-*145*
-
-18
+## 145 18
 
 Templos y Lugares
 
@@ -11391,9 +11139,7 @@ de meditación,
 
 
 
-*146*
-
-**Angkor Wat**
+## 146 **Angkor Wat**
 
 En Asia existen templos
 
@@ -11441,9 +11187,7 @@ Bhakti Vilasa 10.279
 
 
 
-*147*
-
-tificante y purificante, por lo cual estos festiva-reas\). Tiene 7 muros perime-
+## 147 tificante y purificante, por lo cual estos festiva-reas\). Tiene 7 muros perime-
 
 les están llenos de colorido y gozo.
 
@@ -11513,9 +11257,7 @@ son prácticamente idénticos
 
 
 
-*148*
-
-puro reside3, pues esa gran alma trae
+## 148 puro reside3, pues esa gran alma trae
 
 santidad al lugar. Allí se adora al Ser
 
@@ -11583,9 +11325,7 @@ s e r v i c i o ” .
 
 
 
-*149*
-
-Uno visita templos o lugares sa-
+## 149 Uno visita templos o lugares sa-
 
 más avanzados pueden ser sitios rela-
 
@@ -11641,9 +11381,7 @@ dos por los devotos
 
 
 
-*150*
-
-19
+## 150 19
 
 La Distorsion de la Historia y
 
@@ -11719,9 +11457,7 @@ Prácticamente la totalidad de se-
 
 
 
-*151*
-
-Es por esta razón que únicamente
+## 151 Es por esta razón que únicamente
 
 Es bien conocido que durante el
 
@@ -11815,9 +11551,7 @@ C.T.R. Wilson, O.W. Richardson.
 
 
 
-*152*
-
-Este es un viejo fenómeno que se
+## 152 Este es un viejo fenómeno que se
 
 remonta al principio de los tiempos. En
 
@@ -11899,9 +11633,7 @@ nidad por décadas.
 
 
 
-*153*
-
-que bienes monumentales se
+## 153 que bienes monumentales se
 
 vendan a precios ridículos por
 
@@ -11979,9 +11711,7 @@ Solvay de 1927
 
 
 
-*154*
-
-de esta nación, que es su herencia cul-
+## 154 de esta nación, que es su herencia cul-
 
 **La Colonizacion**
 
@@ -12045,9 +11775,7 @@ quebremos la misma columna vertebral
 
 
 
-*155*
-
-A ojos de los expertos, no
+## 155 A ojos de los expertos, no
 
 estaban mínimamente califica-
 
@@ -12179,9 +11907,7 @@ Japonesa
 
 
 
-*156*
-
-**Enderezando la Historia**
+## 156 **Enderezando la Historia**
 
 No sólo ellos, pero algunos estudio- estímulo de los viajes de Colón eran las sos honestos de Occidente, como fabulosas riquezas de la India, que des-el prof. T. Goldstrucker denunciaron la cribiera Marco Polo.
 
@@ -12289,9 +12015,7 @@ vos volvieron
 
 
 
-*157*
-
-**La Correcta Educación**
+## 157 **La Correcta Educación**
 
 El verdadero propósito de
 
@@ -12357,9 +12081,7 @@ riedad del mundo andino y la Louis Jacolliot sostuvo que
 
 
 
-*158*
-
-las corrientes más avanzadas del pen-
+## 158 las corrientes más avanzadas del pen-
 
 Bhaktivinoda produjo las primeras pie-
 
@@ -12407,9 +12129,7 @@ No fue hasta 1896 en que Thakur 400 millones de piezas literarias en más de 60 
 
 
 
-*159*
-
-20
+## 159 20
 
 Indoamerica y la
 
@@ -12495,9 +12215,7 @@ Isla de Vida, de plenitud y de madurez
 
 
 
-*160*
-
-SIMILITUDES ENTRE EL RAMAYANA Y LA DIABLADA
+## 160 SIMILITUDES ENTRE EL RAMAYANA Y LA DIABLADA
 
 Confrontación entre fuerzas
 
@@ -12593,9 +12311,7 @@ and Puma Punku
 
 
 
-*161*
-
-Azteca viene de Ashtika,
+## 161 Azteca viene de Ashtika,
 
 un sabio \(rishi\) que salvó a las
 
@@ -12701,9 +12417,7 @@ fenicias, griegas e indoame-
 
 
 
-*162*
-
-los reyes y los druidas;
+## 162 los reyes y los druidas;
 
 los rajas y los brahma-
 
@@ -12777,9 +12491,7 @@ of the New World” \(extraído de p29,
 
 
 
-*163*
-
-Se educaban desde la tierna infancia en
+## 163 Se educaban desde la tierna infancia en
 
 **Mayas y Ramas**
 
@@ -12859,9 +12571,7 @@ las encarnaciones divinas
 
 
 
-*164*
-
-Hyatt7 concluyó: “Los Ma-
+## 164 Hyatt7 concluyó: “Los Ma-
 
 yas eran grandes arquitectos,
 
@@ -12929,9 +12639,7 @@ Nagas y que se trata de un territorio cubierto de hermosos lagos y bosques compa
 
 
 
-*165*
-
-corados, perfumes fragantes, **La Diablada – una Danza** música de flautas, cañas y tambores y amorosas hijas de Dai-
+## 165 corados, perfumes fragantes, **La Diablada – una Danza** música de flautas, cañas y tambores y amorosas hijas de Dai-
 
 **Folklorica Popular**
 
@@ -13009,9 +12717,7 @@ Museo Nacional de Costa Rica.
 
 
 
-*166*
-
-el investigador Miles Poindex-
+## 166 el investigador Miles Poindex-
 
 las direcciones. Así se perdió y destruyó la moter, en su obra The Ayra-Incas: narquía peruana. Tupac Kauri, el monarca de
 
@@ -13075,9 +12781,7 @@ La antropóloga austriaca Eveline Sigl con-
 
 
 
-*167*
-
-firma esa teoría: “No se trata de diablos en el sentido europeo-cristiano, sino de complejas
+## 167 firma esa teoría: “No se trata de diablos en el sentido europeo-cristiano, sino de complejas
 
 **Megalítico**
 
@@ -13197,9 +12901,7 @@ avanzada que la contemporánea.
 
 
 
-*168*
-
-No solamente hay
+## 168 No solamente hay
 
 turales de los diferentes
 
@@ -13277,9 +12979,7 @@ Sol”
 
 
 
-*169*
-
-**Ceremonia Andina**
+## 169 **Ceremonia Andina**
 
 **Ceremonia Védica**
 
@@ -13349,9 +13049,7 @@ del puente de Lanka.
 
 
 
-*170*
-
-21
+## 170 21
 
 KANATA
 
@@ -13413,9 +13111,7 @@ Solution, Windrush Press Ltd @1998
 
 
 
-*171*
-
-**El Mundo de los Andes**
+## 171 **El Mundo de los Andes**
 
 La ubicación geográfica de la Atlántida es ampliamente discutida. No obstante, James M. Allen un car tógrafo de la Real Fuerza Aérea Br itánica, ha obtenido un doctorado de la Universidad de Oxford evaluando una ser ie de evidencias y sostiene que la Atlántida a la que Platón hace referencia está en Sudamér ica y hace específicamente mención a los restos encontrados en el Alto Per ú \(hoy Bolivia\). La palabra gr iega atlas se refiere a mundo \(o agua en Nahuátl\) y antis a los Andes, r icos en cobre, por lo cual lingüísticamente se respalda la hipótesis de la Atlántida como el
 
@@ -13457,9 +13153,7 @@ territorios del Tawantinsuyo
 
 
 
-*172*
-
-**Tiwanaku y **
+## 172 **Tiwanaku y **
 
 **La Planicie**
 
@@ -13585,9 +13279,7 @@ ancient mysteries of South America
 
 
 
-*173*
-
-cluso algunos desco-
+## 173 cluso algunos desco-
 
 desde el norte hasta
 
@@ -13653,9 +13345,7 @@ ejecutadas en nombre del cristianismo
 
 
 
-*174*
-
-tar esas evidencias y cotejar-
+## 174 tar esas evidencias y cotejar-
 
 las además con registros de los
 
@@ -13729,9 +13419,7 @@ Atilio Sivirichi, Ignacio Terán y Federico Ávila, los Padres Calancha,
 
 
 
-*175*
-
-biblioteca y archivo histórico del Con-
+## 175 biblioteca y archivo histórico del Con-
 
 greso Nacional, en el prólogo a la ter-
 
@@ -13803,9 +13491,7 @@ gos, de hecho, una región, Kunti-suyo, 10 Este mes también se conoce como Hris
 
 
 
-*176*
-
-El volcán Thunupa cuando
+## 176 El volcán Thunupa cuando
 
 empieza a inundarse el salar… don-
 
@@ -13881,9 +13567,7 @@ fiesta de adoración de la diosa es el octavo día de la luna creciente del sext
 
 
 
-*177*
-
-“waka12” o lugar sagrado de la
+## 177 “waka12” o lugar sagrado de la
 
 diosa e instalaron allí una ima-
 
@@ -13969,9 +13653,7 @@ deidad, figura, símbolo u objeto sagrado.
 
 
 
-*178*
-
-Osorio - hoy conocida como la virgen **Los Kanas** de Urkupiña14, que actualmente sigue
+## 178 Osorio - hoy conocida como la virgen **Los Kanas** de Urkupiña14, que actualmente sigue
 
 atrayendo a miles de fieles, que tienen
 
@@ -14055,9 +13737,7 @@ India, donde se considera cada piedra adorable.
 
 
 
-*179*
-
-de Ondegardo por caciques e indígenas **La Diáspora** de Sipe Sipe, donde se afirma: “En todo
+## 179 de Ondegardo por caciques e indígenas **La Diáspora** de Sipe Sipe, donde se afirma: “En todo
 
 el valle de Cochabamba no hay ya natu-
 
@@ -14153,9 +13833,7 @@ to e impresiones de
 
 
 
-*180*
-
-la svastika, son reliquias reconocidas incluso **El Abyayala y** por aymaras y quechuas como objetos sagrados
+## 180 la svastika, son reliquias reconocidas incluso **El Abyayala y** por aymaras y quechuas como objetos sagrados
 
 \(wakas\).
 
@@ -14209,9 +13887,7 @@ El per iódico Los Tiempos del 14 de enero de
 
 
 
-*181*
-
-como “Canadá”, que actual-
+## 181 como “Canadá”, que actual-
 
 mente es el segundo territo-
 
@@ -14297,9 +13973,7 @@ ministerio de Tierra; 2010, p 73-74
 
 
 
-*182*
-
-22
+## 182 22
 
 Espacio y Tiempo
 
@@ -14373,9 +14047,7 @@ normalmente lo leen los eruditos vaish-
 
 
 
-*183*
-
-Cabe destacar que las medidas Vé-
+## 183 Cabe destacar que las medidas Vé-
 
 mente el uso de medidas como pulga-
 
@@ -14407,9 +14079,7 @@ ahí también la unidad gramo. Similar-
 
 
 
-*184*
-
-**Moneda y Dinero**
+## 184 **Moneda y Dinero**
 
 Las diversas denominaciones aplica- Jahangir se hicieron de todos los das al cobre, a la plata y al oro bru-signos zodiacales. Los ingleses produje-
 
@@ -14481,9 +14151,7 @@ bursátil.
 
 
 
-*185*
-
-**Fianzas, Multas e **
+## 185 **Fianzas, Multas e **
 
 **Intereses y Prendas**
 
@@ -14531,9 +14199,7 @@ en la remota antigüedad.
 
 
 
-*186*
-
-**Tiempo**
+## 186 **Tiempo**
 
 La medida contemporánea de tiem- la unidad ilimitada. Existen sin duda po está inspirada también en los diferentes cuerpos con formas físicas, Vedas. Hora es una palabra sánscrita pero los propios átomos forman toda la y es aproximadamente igual a la hora manifestación.
 
@@ -14617,9 +14283,7 @@ años\!
 
 
 
-*189*
-
-**Tiempo Sideral**
+## 189 **Tiempo Sideral**
 
 **Garbhodakashayi Vishnu**
 
@@ -14741,9 +14405,7 @@ día del planeta de Brahma.
 
 
 
-*190*
-
-Hay cinco nombres diferentes para
+## 190 Hay cinco nombres diferentes para
 
 las órbitas del Sol, la Luna, las estrellas
 
@@ -14853,9 +14515,7 @@ anteriormente, se estima que es igual a
 
 
 
-*192*
-
-un nimesha \[ver la tabla de equivalen-
+## 192 un nimesha \[ver la tabla de equivalen-
 
 cias de tiempo\] para la Suprema Per-
 
@@ -14923,9 +14583,7 @@ sa. Así pues, la morada espiritual de 4 El mismo afirma esto en el Bhagavad-git
 
 
 
-*193*
-
-El tiempo eterno es la fuente pri-
+## 193 El tiempo eterno es la fuente pri-
 
 migenia de las interacciones de las tres
 
@@ -15021,9 +14679,7 @@ x 30 x 12 x 100 años\!
 
 
 
-*194*
-
-23
+## 194 23
 
 Evidencia Cientifica e Historica
 
@@ -15099,9 +14755,7 @@ rosímil.
 
 
 
-*195*
-
-**SUMARIO DE EVIDENCIAS ARQUEOLÓGICAS SOBRE LA** **ANTIGÜEDAD DE LA HUMANIDAD**
+## 195 **SUMARIO DE EVIDENCIAS ARQUEOLÓGICAS SOBRE LA** **ANTIGÜEDAD DE LA HUMANIDAD**
 
 Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigüedad, utilizan estos tér minos: eolitos = piedras quebradas con uno o más bordes modificados por el uso o desgaste atr ibuible a acción humana. paleolitos = piedras modeladas a propósito para su uso como herramientas. neolitos = las más avanzadas herramientas y utensilios. Los detalles de los hallazgos se encuentran en el libro “The Hidden Histor y of the Human Race” \(P.267\) Govardhan Hill Publishing, @1994 por Michael A. Cremo y Richard L. Thompson.
 
@@ -15123,9 +14777,7 @@ Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigü
 
 
 
-*196*
-
-**Triásico**
+## 196 **Triásico**
 
 **Jurásico**
 
@@ -15139,9 +14791,7 @@ Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigü
 
 
 
-*197*
-
-**Mioceno Inicial**
+## 197 **Mioceno Inicial**
 
 **Mioceno Medio**
 
@@ -15151,17 +14801,13 @@ Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigü
 
 
 
-*198*
-
-**MAPA ETNO LINGUISTICO**
+## 198 **MAPA ETNO LINGUISTICO**
 
 
 
 
 
-*199*
-
-no pueden ser rayados, ni siquiera por
+## 199 no pueden ser rayados, ni siquiera por
 
 **Objetos Artisticos **el acero. De acuerdo con un artículo publicado por J. Jimison, las esferas
 
@@ -15257,9 +14903,7 @@ lado y una vid o guirnalda en la base.
 
 
 
-*200*
-
-**Historicidad **
+## 200 **Historicidad **
 
 **del Ramayana**
 
@@ -15319,9 +14963,7 @@ formación excepcional.
 
 
 
-*201*
-
-**Xian,una Ciudad Antiquísima**
+## 201 **Xian,una Ciudad Antiquísima**
 
 Restos arqueológicos encontrados en
 
@@ -15371,9 +15013,7 @@ d i e r o n h a s t a X i a n d u ra n t e l a d i n a s t í a Ta n g .
 
 
 
-*202*
-
-**Las Fotografias **
+## 202 **Las Fotografias **
 
 **EL PUENTE A SRI LANKA**
 
@@ -15437,9 +15077,7 @@ zadas de vida en la remota antigüedad.
 
 
 
-*203*
-
-**Conocimiento y **
+## 203 **Conocimiento y **
 
 **Observatorios **
 
@@ -15499,9 +15137,7 @@ el carácter histórico de la
 
 
 
-*204*
-
-cálculo” como el más signifi-
+## 204 cálculo” como el más signifi-
 
 **Urbes Avanzadas y **
 
@@ -15569,9 +15205,7 @@ Valle de Indus. En esta representación se pude apreciar el grado de sofisticaci
 
 
 
-*205*
-
-plican en parte la desaparición de po-
+## 205 plican en parte la desaparición de po-
 
 algunas inscripciones en los templos
 
@@ -15619,9 +15253,7 @@ El arqueólogo Francis Taylor dice que
 
 
 
-*206*
-
-24
+## 206 24
 
 El Autor de la Version
 
@@ -15681,9 +15313,7 @@ bha \(Asociación Mundial Vaishnava\) de la India do la OEA emitió resoluciones
 
 
 
-*207*
-
-**Srila Bhakti Pramode Puri Gosvami Maharaj**
+## 207 **Srila Bhakti Pramode Puri Gosvami Maharaj**
 
 **Presidente del Vishva Vaishnava Raj Sabha**
 
@@ -15727,9 +15357,7 @@ nata, un término sánscrito re-
 
 
 
-*208*
-
-## Guia de Estudio del Ramayana
+## 208 ## Guia de Estudio del Ramayana
 
 El estudio del Ramayana ha sido a. Introducción al pensamiento durante milenios una base para la oriental – complementando con filoso-educación de incontables generaciones, fía comparada.
 
@@ -15809,9 +15437,7 @@ de Tokyo de Japón, por mencionar algunas.
 
 
 
-*209*
-
-ayudar en la comprensión
+## 209 ayudar en la comprensión
 
 adicional y entrenamiento en
 
