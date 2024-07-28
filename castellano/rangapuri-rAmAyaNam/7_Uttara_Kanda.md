@@ -19,9 +19,7 @@ title = "7 Uttara Kanda"
 
 **Uttara Kanda**
 
-## 1 **Los ascetas felicitan a Rama y empieza **
-
-**una narracion reveladora**
+## 1 Los ascetas felicitan a Rama y empieza  una narracion reveladora
 
 uando Rama hubo reconquistado su reino después de destruir a los *rakshasas*, sabios provenientes de todos los diferentes puntos cardinales vinieron a visitarlo. Del Este, arribaron Kausika, Gargya, Kanva, etc; del Sur, Agastya, Sumukha, Swastyatreya, Namuchi,
 
@@ -73,9 +71,7 @@ El erudito continuo así la narración: “Al reparar en esta situación, el Se�
 
 **El Gobernante Ideal**
 
-## 2 **El origen de Ravana **
-
-**y sus hermanos**
+## 2 El origen de Ravana  y sus hermanos
 
 l gran Agastya continuo así la narración: “Al reparar en esta situación, el Señor Shiva, para condescender con el sentimiento de su esposa, otorgó a los *rakshasas* adicionalmente una magnífica ciudadela flotante; entonces, Sukesh se dedicó a realizar severas penitencias, al igual que sus ancestros. Posteriormente, contrajo matrimonio con Devavati y, de esta unión, nacieron tres hijos: Malyavan, Sumali y Mali.
 
@@ -131,9 +127,7 @@ Aunque Kaikashi fue satisfecha por Vishrava, con el paso del tiempo, ella no pud
 
 **El Gobernante Ideal**
 
-## 3 **Ravana arrebata a Kuvera **
-
-**su ciudad y su nave **
+## 3 Ravana arrebata a Kuvera  su ciudad y su nave 
 
 l sabio Agastya continuó su narración: “Para incrementar su po-
 
@@ -193,9 +187,7 @@ Dasagriva, haciendo caso omiso a las palabras de Nandi, respondió: ‘debido a 
 
 **El Gobernante Ideal**
 
-## 4 **El arrogante Ravana ofende **
-
-**a la bella asceta**
+## 4 El arrogante Ravana ofende  a la bella asceta
 
 bservando el terrible sufrimiento por el que estaba pasando Da-
 
@@ -261,9 +253,7 @@ edavati y era hija de un poderoso sabio, que a su vez era hijo del 536
 
 **El Gobernante Ideal**
 
-## 5 **Se acumulan las maldiciones**
-
-**contra Ravana**
+## 5 Se acumulan las maldiciones contra Ravana
 
 avana, insolente como era, persistió en su afán conquistador; es así que desafió a combate al rey Marutta que se encontraba reali-
 
@@ -317,9 +307,7 @@ Ella corrió donde Nalakuvara y le contó entrecortadamente lo que había aconte
 
 **El Gobernante Ideal**
 
-## 6 **La historia de Indrajit y su**
-
-**batalla contra el Rey del cielo**
+## 6 La historia de Indrajit y su batalla contra el Rey del cielo
 
 i bien para evitar que se cumplan las maldiciones de que fue objeto, Ravana evitó tomar por la fuerza a las mujeres, su afán belicoso
 
@@ -367,9 +355,7 @@ Hanuman, que se encontraba entre los que escuchaban esta conversación, al escuc
 
 **Uttara Kanda**
 
-## 7 **Se revelan las glorias**
-
-**de Hanuman**
+## 7 Se revelan las glorias de Hanuman
 
 nte la pregunta de Sri Rama acerca de Hanuman, Agastya, de ex-
 
@@ -485,9 +471,7 @@ par tan atractiva fruta
 
 **El Gobernante Ideal**
 
-## 8 **Sri Rama empieza a gobernar. **
-
-**Belleza y plenitud se manifiestan**
+## 8 Sri Rama empieza a gobernar.  Belleza y plenitud se manifiestan
 
 la mañana siguiente, después de ser despertado por cantantes que recitaban Sus gracias, Rama se bañó y se sentó para realizar ceremonias de fuego *\(agni-hotra\). * Luego visitó el templo del palacio, ofreció respetos a brahmanes y sabios; y de allí se dirigió a la corte real. Sentado en Su trono real, rodeado por ministros, sirvientes y veinte de los jefes monos, Rama comenzó a administrar el Estado de una manera ejemplar.
 
@@ -553,9 +537,7 @@ tud se manifestaron. Sita Rama, Lakshman y Hanuman
 
 **Uttara Kanda**
 
-## 9 **La crueldad de los rumores **
-
-**de los insensatos**
+## 9 La crueldad de los rumores  de los insensatos
 
 n el entorno de la vida feliz de Ayodhya, narradores expertos y sabios tales como Vijaya, Madhumata, Kasyapa, Mangala, Kula,
 
@@ -605,7 +587,7 @@ Ustedes conocen las circunstancias en las que Sita fue secuestrada por Ravana, t
 
 **El Gobernante Ideal**
 
-## 10 **Se avecina un triste desenlace**
+## 10 Se avecina un triste desenlace
 
 el Rey continuó hablando amargamente: “Entonces habiendo acep-
 
@@ -649,9 +631,7 @@ A continuación, Lakshman secando sus ojos le pidió a Sumantra que aguar-de con
 
 **Uttara Kanda**
 
-## 11 **Sita es llevada al**
-
-**ashram de Valmiki**
+## 11 Sita es llevada al ashram de Valmiki
 
 abiendo llegado a la orilla opuesta del gran río, Lakshman, con las manos juntas y el rostro cubierto de lágrimas expresó: “Mi corazón está atravesado por un poderoso dardo, puesto que se me ha
 
@@ -685,9 +665,7 @@ Lakshman, abatido e incapaz de hablar, hizo reverencias poniendo su frente al ra
 
 **El Gobernante Ideal**
 
-## 12 **El encuentro de Sita con Valmiki y **
-
-**el cumplimiento de una profecia**
+## 12 El encuentro de Sita con Valmiki y  el cumplimiento de una profecia
 
 os hijos de los ascetas, que habitaban el *ashram*, habían visto a una hermosa dama, como una diosa, abandonada a orillas del río
 
@@ -751,9 +729,7 @@ Llamen a mis súbditos y también a brahmanes y a consejeros. Citen a todos los 
 
 **El Gobernante Ideal**
 
-## 13 **Rama cuenta historias**
-
-**de reyes virtuosos**
+## 13 Rama cuenta historias de reyes virtuosos
 
 fin de ilustrar con un ejemplo el tema sobre el que hablaba, referido obligaciones de un gobernante, Rama comenzó a narrar a
 
@@ -813,9 +789,7 @@ Sentándose en la Corte Real, Sri Rama, rodeado por sus ministros, consejeros, d
 
 **El Gobernante Ideal**
 
-## 14 **El sorprendente incidente del**
-
-**perro y el Acharya descalificado**
+## 14 El sorprendente incidente del perro y el Acharya descalificado
 
 uscando con detenimiento a alguien afligido o necesitado, tal como había sido ordenado por Rama, fue que Lakshman notó que había
 
@@ -855,9 +829,7 @@ Después de decir esto, el perro desapareció. Más tarde se supo que dejando la
 
 **Uttara Kanda**
 
-## 15 **Nacen los divinos**
-
-**Lav y Kush**
+## 15 Nacen los divinos Lav y Kush
 
 ierto día, unos *rishis* encabezados por Chyavana vinieron a ver a Rama y le informaron que el perverso demonio Lavanasura, hijo
 
@@ -897,9 +869,7 @@ Como es tradición en las grandes familias, se recitaron los nombres de sus nobl
 
 **El Gobernante Ideal**
 
-## 16 **La muerte del demonio Lavanasura**
-
-**y la fundacion de Madhura**
+## 16 La muerte del demonio Lavanasura y la fundacion de Madhura
 
 l amanecer, después de haber realizado sus purificaciones matu-
 
@@ -945,9 +915,7 @@ Habiendo establecido ese reino, al principio del duodécimo año, Satrughna, vol
 
 **Uttara Kanda**
 
-## 17 **Una hermosa cancion**
-
-**conmueve a Satrughna**
+## 17 Una hermosa cancion conmueve a Satrughna
 
 n el camino a Ayodhya, Satrughna pasó nuevamente por el *ashram* de Valmiki y ofreciendo reverencias y arrimándose a sus pies, se deleitó y se benefició con las narraciones trascendentales que el sabio le relató.
 

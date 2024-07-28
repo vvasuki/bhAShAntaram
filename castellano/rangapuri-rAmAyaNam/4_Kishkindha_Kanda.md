@@ -20,7 +20,7 @@ title = "4 Kishkindha Kanda"
 
 **Kishkindha Kanda**
 
-## 1 **El empeño que todo lo puede**
+## 1 El empeño que todo lo puede
 
 ri Rama y el hijo de Sumitra, Lakshman llegaron al lago Pampa,
 
@@ -58,9 +58,7 @@ Lakshman, observando el estado de su hermano le dijo: “Ten fortaleza ¡Oh, Ram
 
 **Kishkindha Kanda**
 
-## 2 **El encuentro de los **
-
-**Principes y los monos**
+## 2 El encuentro de los  Principes y los monos
 
 amachandra y Lakshman, una vez que terminaron de bañarse en
 
@@ -130,9 +128,7 @@ Rama y Lakshman
 
 **Kishkindha Kanda**
 
-## 3 **La historia de Sugriva, **
-
-**el Rey de los monos**
+## 3 La historia de Sugriva,  el Rey de los monos
 
 ientras conversaban, Sugriva dijo: “Por lo que escucho de ella, yo creo que he visto a tu esposa cuando estaba siendo llevada por Ravana. Un día, cuando mis ministros y yo nos encontrábamos sen-
 
@@ -204,9 +200,7 @@ Sri Rama levantó a Sugriva y lo abrazó. “Vayamos a Kishkindha -dijo-. Ahí d
 
 **Kishkindha Kanda**
 
-## 4 **Combate a muerte **
-
-**entre hermanos**
+## 4 Combate a muerte  entre hermanos
 
 ama, Lakshman y el mono Sugriva llegaron rápidamente a las afueras de Kishkindha, donde Rama y Lakshman permanecieron escon-
 
@@ -282,9 +276,7 @@ ira, se golpearon, se patearon, se empujaron, levantaron y se estrellaron el uno
 
 **Kishkindha Kanda**
 
-## 5 **La leccion de una aparente **
-
-**injusticia**
+## 5 La leccion de una aparente  injusticia
 
 Mientras Vali yacía moribundo, Sri Rama y Lakshman llegaron
 
@@ -368,9 +360,7 @@ Tara trajo un hermoso palanquín celestial, que había pertenecido a los *siddha
 
 **Kishkindha Kanda**
 
-## 6 **Sri Rama se retira**
-
-**a la montaña**
+## 6 Sri Rama se retira a la montaña
 
 odeado por los principales monos, Sugriva se mostraba afligido y con tristeza, por eso, aún vestía las ropas humedecidas por el baño que siguió a la cremación del cuerpo de su hermano Vali.
 
@@ -436,9 +426,7 @@ frutos, pero, no encuentro júbilo en ausencia de Sita. El sueño no me llega po
 
 **Kishkindha Kanda**
 
-## 7 **La indignacion crece y**
-
-**amenaza un colapso**
+## 7 La indignacion crece y amenaza un colapso
 
 ientras pasaban los días, por las noches, Sri Rama observaba el cielo, y cuidadosamente miraba las posiciones de las estrellas, cal-culando el transcurso del tiempo; observando las aguas y la vida silvestre de cada nuevo día, con ansias esperaba que llegara el otoño.
 
@@ -490,7 +478,7 @@ Temblando e inclinada con modestia femenina, Tara se acercó a Lakshman, quien s
 
 **Kishkindha Kanda**
 
-## 8 **La amistad y la ingratitud**
+## 8 La amistad y la ingratitud
 
 abiendo escuchado las palabras de Tara, que tenían un efecto tran-quilizador por su amabilidad, Lakshman manifestó: “Ocupado en
 
@@ -536,9 +524,7 @@ El glorioso Sugriva, con las manos juntas escuchó atentamente a Lakshman quien 
 
 **El Reino de los Simios**
 
-## 9 **Ejercitos de simios y **
-
-**osos se convocan**
+## 9 Ejercitos de simios y  osos se convocan
 
 ara, luego de haber escuchado a Lakshman, hizo uso de la palabra y sugirió que Sugriva no era merecedor de tan ásperas palabras, y menos de labios de Lakshman, pues negó que Sugriva fuese ingrato, pérfido, mentiroso o insensible. Admitió que, habiéndose entregado a la gratificación de los sentidos, había perdido la noción del tiempo. Pero que, por su lealtad a Rama, él estaría dispuesto a abandonar incluso a su amada esposa Ruma y, con fin de asegurarse la honra de Rama, abandonaría a todos. Tara le recordó también que Vishvamitra, el gran sabio, en una ocasión se había apegado profundamente a la *apsara* Menaka y en su compañía había perdido diez años de sus austeridades como si hubieran sido un día.
 
@@ -576,9 +562,7 @@ La voz corrió como reguero de pólvora y prontamente empezaron a llegar infinid
 
 **Kishkindha Kanda**
 
-## 10 **Los jefes monos se presentan**
-
-**ante Rama**
+## 10 Los jefes monos se presentan ante Rama
 
 akshman se llenó de satisfacción al observar el ejército de miles de monos, por lo que pidió a Sugriva, que fueran de inmediato a ver a Sri Rama. Ante la orden de Sugriva, en breve arribó un palanquín, con una canopia blanca y abanicos para refrescarlos, al que invitó abordar a Lakshman. De esta manera, acompañados por el sonido
 
@@ -614,7 +598,7 @@ De esa manera, en presencia de Sri Rama y de Lakshman, Sugriva asignó diferente
 
 **Kishkindha Kanda**
 
-## 11 **comienza el rastreo de sita**
+## 11 comienza el rastreo de sita
 
 ugriva, después de dar descripciones detalladas de los lugares y poblaciones a rastrear, incluyendo islas y mares, comenzó a organizar la búsqueda de Sita, enviando a los jefes, quienes, acompañados de sus ejércitos, fueron en todas las direcciones. Vinata, padre de Garuda, fue encargado de la expedición hacia el Este.
 
@@ -684,9 +668,7 @@ te, te daré la sortija con mi sello. Cuando Sita lo vea, sabrá sin dudarlo que
 
 **El Reino de los Simios**
 
-## 12 **La maravillosa prediccion **
-
-**del gran ave**
+## 12 La maravillosa prediccion  del gran ave
 
 abiéndose alimentado a plena satisfacción, los monos y osos se sintieron revitalizados. Hanuman entonces relató a la anciana asceta sobre el exilio del Señor Rama y Su alianza con Sugriva. “Todavía estamos buscando a Sita -dijo Hanuman- por favor muéstranos el
 
@@ -748,9 +730,7 @@ Cuando los monos terminaron de escuchar acerca del paradero de Sita, y también 
 
 **El Reino de los Simios**
 
-## 13 **El extraordinario poder**
-
-**de Hanuman**
+## 13 El extraordinario poder de Hanuman
 
 ngada preguntó “¿Quién de nosotros es capaz de saltar15 desde la orilla del mar hasta la morada de Ravana?”. Al ver que nadie se animaba a hablar, empezó a preguntar buscando respuestas individuales: “Para llegar a la isla de Lanka, la distancia ha sido calcu-lada en cien *yojanas* 16. Dígame cada uno de ustedes qué distancia puede saltar”.
 

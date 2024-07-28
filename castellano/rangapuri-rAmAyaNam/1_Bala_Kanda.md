@@ -15,9 +15,7 @@ title = "1 Bala Kanda"
 
 
 
-## 1 **El sabio Narada, narra la **
-
-**historia de Rama a Valmiki**
+## 1 El sabio Narada, narra la  historia de Rama a Valmiki
 
 
 
@@ -95,9 +93,7 @@ planetarios, iluminando el ashram con su esplendor
 
 
 
-## 2 **Valmiki Rishi recibe la**
-
-**visita de Brahma**
+## 2 Valmiki Rishi recibe la visita de Brahma
 
 almiki, convertido en un asceta ermitaño, se había concentrado en 
 
@@ -159,9 +155,7 @@ Así, Valmiki empezó a componer, en esa métrica, los miles de versos que compo
 
 
 
-## 3 **El Ramayana es cantado **
-
-**ante Sri Rama**
+## 3 El Ramayana es cantado  ante Sri Rama
 
 al como Brahma había predicho, Valmiki, en profundo trance, al 
 
@@ -211,9 +205,7 @@ En medio de una audiencia virtuosa, que se aprestaba a escuchar con gran atenci�
 
 
 
-## 4 **Comienza la narracion **
-
-**describiendo la Ciudad Invencible**
+## 4 Comienza la narracion  describiendo la Ciudad Invencible
 
 “
 
@@ -285,9 +277,7 @@ En asuntos de administración, el rey Dasarath era servido por ocho minis-tros28
 
 
 
-## 5 **Shanta, la hija del rey **
-
-**Dasarath y la tentacion **
+## 5 Shanta, la hija del rey  Dasarath y la tentacion 
 
 **del joven anacoreta**
 
@@ -355,9 +345,7 @@ Regocijado con estas palabras, el rey Dasarath, partió junto con sus reinas y m
 
 
 
-## 6 **Una formidable ceremonia para **
-
-**perpetuar la dinastia**
+## 6 Una formidable ceremonia para  perpetuar la dinastia
 
 “
 
@@ -441,9 +429,7 @@ A medida que la ceremonia se realizaba, ante la mirada asombrada de los presente
 
 
 
-## 7 **Se reúnen los Semidioses. Aparece un **
-
-**Ser extraordinario**
+## 7 Se reúnen los Semidioses. Aparece un  Ser extraordinario
 
 “
 
@@ -521,7 +507,7 @@ de oro lleno de esa preparación deliciosa al agradecido Dasarath
 
 
 
-## 8 **Nacen grandes osos y simios**
+## 8 Nacen grandes osos y simios
 
 abiendo el Señor preparado su aparición entre los humanos, Bra-
 
@@ -561,9 +547,7 @@ Los simios, a su vez, procrearon hijos que se convirtieron en capitanes de legio
 
 
 
-## 9 **El advenimiento de Sri Rama y **
-
-**sus hermanos trascendentales**
+## 9 El advenimiento de Sri Rama y  sus hermanos trascendentales
 
 abiendo tomado lo que les correspondía de la ceremonia, los semi-
 
@@ -643,9 +627,7 @@ periores, apegados a los estudios de los Vedas, al servicio de sus padres.
 
 
 
-## 10 **El terrible pedido de Vishvamitra**
-
-**y su furia**
+## 10 El terrible pedido de Vishvamitra y su furia
 
 uando el entrenamiento de los príncipes prácticamente había con-
 
@@ -705,9 +687,7 @@ El planeta entero retumbó con las palabras del sabio y el temor se apoderó de 
 
 
 
-## 11 **Los Principes son iniciados con **
-
-**mantras sagrados**
+## 11 Los Principes son iniciados con  mantras sagrados
 
 iendo al mundo entero alarmado, el prudente sabio Vasishtha ofre-
 
@@ -819,9 +799,7 @@ aliviar el cansancio de su reverenciado guru
 
 
 
-## 12 **La muerte de Tataka y de **
-
-**otros demonios**
+## 12 La muerte de Tataka y de  otros demonios
 
 l arribar a la orilla sur, llegaron a un denso bosque el cual estaba 
 
@@ -899,9 +877,7 @@ Debido a la presencia del sabio y de los príncipes, el bosque se volvió un her
 
 
 
-## 13 **Las enseñanzas en el hermoso **
-
-**templo de Siddhashram**
+## 13 Las enseñanzas en el hermoso  templo de Siddhashram
 
 espués de pasar la noche en el bosque, a la mañana siguiente, el 
 
@@ -981,9 +957,7 @@ La llegada de los príncipes y del sabio Vishvamitra, fue motivo de regocijo par
 
 
 
-## 14 **El ataque de los **
-
-**monstruosos Rakshasas**
+## 14 El ataque de los  monstruosos Rakshasas
 
 l día siguiente, después de realizar sus purificaciones matutinas, *67* 
 
@@ -1045,9 +1019,7 @@ Después de las meditaciones del atardecer junto a su *guru, * deleitados con un
 
 
 
-## 15 **La narracion sobre las bellas **
-
-**muchachas castas**
+## 15 La narracion sobre las bellas  muchachas castas
 
 quella noche Rama y Lakshman, habiendo cumplido su misión, re-
 
@@ -1107,9 +1079,7 @@ Siendo de conciencia pura, las límpidas damas obedecieron y se mantuvieron por 
 
 
 
-## 16 **Historia de la Via Lactea, **
-
-**de Parvati y de la progenie de Shiva**
+## 16 Historia de la Via Lactea,  de Parvati y de la progenie de Shiva
 
 la mañana siguiente, Vishvamitra despertó a Sri Rama diciéndo-
 
@@ -1173,9 +1143,7 @@ Tierra confiere virtudes tan sólo al escucharlo o recitarlo, ahora voy a contar
 
 
 
-## 17 **El impetuoso descenso de **
-
-**Ganga a la Tierra**
+## 17 El impetuoso descenso de  Ganga a la Tierra
 
 l sabio comenzó a narrar el relato anunciado: “Sagar era un anti-
 
@@ -1227,9 +1195,7 @@ Perturbado por el alboroto provocado por los insolentes, el Señor, enfurecido, 
 
 
 
-## 18 **Bhagirath propicia la gracia **
-
-**de los Semidioses**
+## 18 Bhagirath propicia la gracia  de los Semidioses
 
 ishvamitra continuó: “En tanto el rey Sagar, que esperaba vana-
 
@@ -1295,9 +1261,7 @@ Aquél que escuche esta historia bendita con devoción, será limpio de sus peca
 
 
 
-## 19 **La historia de la aparicion de las **
-
-**Encarnaciones Divinas**
+## 19 La historia de la aparicion de las  Encarnaciones Divinas
 
 abiendo escuchado atentamente esa maravillosa narración, Sri 
 
@@ -1341,9 +1305,7 @@ Cuando finalmente apareció el néctar de la inmortalidad, se desató una temibl
 
 
 
-## 20 **La caida de un semidios y la **
-
-**liberacion de Ahalya**
+## 20 La caida de un semidios y la  liberacion de Ahalya
 
 ishvamitra continuó con su relato: “Desconsolada por la muerte 
 
@@ -1403,9 +1365,7 @@ brante figura de Ahalya, quien con su devoción exaltada procuró aferrar-se a l
 
 
 
-## 21 **En el reino de Janak se cuenta la **
-
-**historia de los palacios en el bosque**
+## 21 En el reino de Janak se cuenta la  historia de los palacios en el bosque
 
 os célebres viajeros llegaron a Mithila, la capital del gran rey Ja-
 

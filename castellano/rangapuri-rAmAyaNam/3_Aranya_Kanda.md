@@ -14,7 +14,7 @@ title = "3 Aranya Kanda"
 
 **Aranya Kanda**
 
-## 1 **Asechan los peligros**
+## 1 Asechan los peligros
 
 amachandra, Lakshman y Sita, después de haber penetrado a lo 
 
@@ -98,7 +98,7 @@ dándole a recuperar su verdadera identidad y una vida
 
 **Aranya Kanda**
 
-## 2 **La vida apacible en el bosque**
+## 2 La vida apacible en el bosque
 
 ama, Lakshman y Sita, atravesando del ámbito de la civilización,4 
 
@@ -176,7 +176,7 @@ hierbas para complacer a Rama y a Sita. Viviendo de una manera sencilla y buscan
 
 **Aranya Kanda**
 
-## 3 **El deber de un guerrero**
+## 3 El deber de un guerrero
 
 ama, luego de haber escuchado las palabras pronunciadas por Sita, 
 
@@ -236,7 +236,7 @@ Rama partió junto a Sita y a Lakshman. Cuando llegaron a las cercanías del ash
 
 **El Libro del Bosque**
 
-## 4 **Encuentro con el sabio Agastya**
+## 4 Encuentro con el sabio Agastya
 
 l día siguiente, después de proseguir con la caminata, al aproxi-
 
@@ -262,9 +262,7 @@ De esa manera, habiendo recibido instrucciones, los divinos viajeros se preparar
 
 **El Libro del Bosque**
 
-## 5 **La amistad con una gran ave. **
-
-**El paraiso de Panchavati**
+## 5 La amistad con una gran ave.  El paraiso de Panchavati
 
 n el camino a Pañchavati, Sita, Rama y Lakshman encontraron a 
 
@@ -342,9 +340,7 @@ los alrededores
 
 **El Libro del Bosque**
 
-## 6 **La rakshasi Surpanakha**
-
-**convoca a sus huestes**
+## 6 La rakshasi Surpanakha convoca a sus huestes
 
 ncendida de lujuria y sin comprender que ellos bromeaban, Sur-
 
@@ -422,7 +418,7 @@ tuvo que ser castigada por Lakshman
 
 **El Libro del Bosque**
 
-## 7 **La ira de los Rakshasas**
+## 7 La ira de los Rakshasas
 
 omando su arco y flechas, Lakshman llevó a Sita a una caverna 
 
@@ -508,9 +504,7 @@ Lakshman se unió entusiasta a felicitar a su hermano.
 
 **El Libro del Bosque**
 
-## 8 **El gran demonio se anoticia **
-
-**sobre la masacre de los rakshasas**
+## 8 El gran demonio se anoticia  sobre la masacre de los rakshasas
 
 ientras tanto un rakshasa de nombre Akampana, -quien había es-
 
@@ -566,9 +560,7 @@ Si quieres disfrutar de una vida larga y de tu grandemente estimado reino, ten s
 
 **Aranya Kanda**
 
-## 9 **El temible demonio **
-
-**es provocado**
+## 9 El temible demonio  es provocado
 
 l temible Ravana tenía diez cabezas, veinte brazos, su cuerpo lle-
 
@@ -630,7 +622,7 @@ Escuchando el vibrante reporte de Surpanakha y luego de sopesar los diferentes a
 
 **El Libro del Bosque**
 
-## 10 **El Venado Dorado**
+## 10 El Venado Dorado
 
 avana, con un vil plan en mente, sobrevoló la hermosa costa, cru-
 
@@ -696,7 +688,7 @@ bierto con motas plateadas. Sus astas eran tan brillantes como zafiros, y su nar
 
 **Aranya Kanda**
 
-## 11 **El insulto a Lakshman**
+## 11 El insulto a Lakshman
 
 ita se encontraba colectando flores en un bosquecillo de manga-
 
@@ -774,7 +766,7 @@ precioso bosque
 
 **Aranya Kanda**
 
-## 12 **Aparece un falso monje**
+## 12 Aparece un falso monje
 
 l instante siguiente en que Lakshman partió, Ravana apareció dis-
 
@@ -858,9 +850,7 @@ za, imitando la apariencia de un devoto de Vishnu, un vaishnava. En una mano lle
 
 **El Libro del Bosque**
 
-## 13 **El viejo Jatayu intenta **
-
-**impedir el rapto**
+## 13 El viejo Jatayu intenta  impedir el rapto
 
 resa del pánico, Sita empezó a preguntarse dónde estaba su ama-
 
@@ -950,7 +940,7 @@ esposa de Rama\!
 
 **Aranya Kanda**
 
-## 14 **Indra consuela a Sita**
+## 14 Indra consuela a Sita
 
 avana, creyéndose a sí mismo más poderoso que Dios, peligrosa-
 
@@ -1012,7 +1002,7 @@ Literalmente significa: “la misericordia del Señor”.
 
 **El Libro del Bosque**
 
-## 15 **El lamento de Rama**
+## 15 El lamento de Rama
 
 ama, después de haber liberado32 a Maricha, emprendió el regreso 
 
@@ -1088,7 +1078,7 @@ Prosiguiendo la búsqueda, descubrieron los cuerpos de diez asnos con cabezas de
 
 **Aranya Kanda**
 
-## 16 **La muerte de un amigo leal**
+## 16 La muerte de un amigo leal
 
 ste monstruoso pájaro seguramente debe ser un rakshasa -dijo 
 
@@ -1158,7 +1148,7 @@ tierra y musitando el nombre sagrado de Rama abandonó su cuerpo
 
 **Aranya Kanda**
 
-## 17 **La groseria es castigada**
+## 17 La groseria es castigada
 
 amachandra y Lakshman siguieron caminando en dirección al Sur, 
 
@@ -1248,9 +1238,7 @@ ción al poniente, siguiendo la ruta que Kabandha les había aconsejado.
 
 **Aranya Kanda**
 
-## 18 **La liberacion de Shabari, **
-
-**la mujer asceta**
+## 18 La liberacion de Shabari,  la mujer asceta
 
 espués de viajar por colinas, a través de bosques, cruzando ríos y 
 

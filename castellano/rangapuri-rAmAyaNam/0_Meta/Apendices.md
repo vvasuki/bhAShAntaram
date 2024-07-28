@@ -703,7 +703,7 @@ Graficos
 
 
 
-## 8 **4 La palabra más utilizada en el mundo, mamá o madre, tiene origen** **sánscrito:**
+## 8 4 La palabra más utilizada en el mundo, mamá o madre, tiene origen** **sánscrito:
 
 Sánscrito, MAATRIH, MAATAH, MAATUR, MAATRIKAH “matriz”
 
@@ -1435,9 +1435,7 @@ romanos.
 
 
 
-## 19 **VIMANIKA SHASTRA**
-
-**Brahmastras, Misiles **
+## 19 VIMANIKA SHASTRA Brahmastras, Misiles 
 
 **Nucleares Intelig entes**
 
@@ -1511,7 +1509,7 @@ por el poder ío económico.
 
 
 
-## 20 **El Mayor Científico Aeroespacial**
+## 20 El Mayor Científico Aeroespacial
 
 Wer ner von Braun, astrónomo, ingeniero
 
@@ -2241,7 +2239,7 @@ deber
 
 
 
-## 30 **1 BRAHMANES**
+## 30 1 BRAHMANES
 
 Los brahmanes tienen seis ocupaciones y desarrollan nueve cualidades.
 
@@ -2319,7 +2317,7 @@ Tienen una mezcla de las modalidades de la pasión y la ignorancia. Se dedican a
 
 
 
-## 32 **4 SUDRAS**
+## 32 4 SUDRAS
 
 nerse limpios, no mentir bien una persona por cir-y no robar. La influencia cunstancias de la vida Clase Artesanal y preponderante de la mo-pueda verse forzada a ha-
 
@@ -3221,7 +3219,7 @@ bhakti” \(el ser vicio devocional amoroso\)
 
 
 
-## 45 **Yoguis Ejemplares**
+## 45 Yoguis Ejemplares
 
 ser un amigo \(sakhyam\) íntimo del Se-
 
@@ -3439,9 +3437,7 @@ mente entrenados cuidadosamente por
 
 
 
-## 48 **Los Vaishnavas **
-
-**o Devotos**
+## 48 Los Vaishnavas  o Devotos
 
 Los vaishnavas o devotos del Señor
 
@@ -3643,7 +3639,7 @@ Maestro Espir itual se lo enseñó. De esta for ma, la ciencia de Dios per manec
 
 
 
-## 51 **Sri Chaitanya, **
+## 51 Sri Chaitanya, 
 
 maestro\) descendió para enseñar la
 
@@ -3953,7 +3949,7 @@ siguen esos principios, son personas
 
 
 
-## 54 **El Poder Divino de **
+## 54 El Poder Divino de 
 
 ternamente otorgándoles la más eleva-
 
@@ -4013,7 +4009,7 @@ cer esto.”
 
 
 
-## 55 **El Gran **
+## 55 El Gran 
 
 y las hojas, el suelo y los
 
@@ -4139,9 +4135,7 @@ ras, las frutas, las flores za de animales.
 
 
 
-## 56 **Srila Prabhupada / **
-
-**Tulasi**
+## 56 Srila Prabhupada /  Tulasi
 
 Otra alma autorrealizada, Swami
 
@@ -5001,9 +4995,7 @@ mundo espir itual y viene a manifestarse danzando en la lengua. El sonido trasce
 
 
 
-## 68 **El Santo Nombre, **
-
-**por Srila **
+## 68 El Santo Nombre,  por Srila 
 
 **Bhaktivinod Thakur**
 
@@ -5149,9 +5141,7 @@ incrementa, no disminuye.
 
 
 
-## 70 **EMPERADOR JUSTINIANO**
-
-**la transmigracion **
+## 70 EMPERADOR JUSTINIANO la transmigracion 
 
 **en la historia y las **
 
@@ -5783,7 +5773,7 @@ ende sobre la conducta de las personas.
 
 
 
-## 78 **Etica**
+## 78 Etica
 
 La mayoría de los vegetarianos son
 
@@ -5937,9 +5927,7 @@ otros tipos de cáncer más.
 
 
 
-## 80 **el hambre mundial **
-
-**y la ecologia**
+## 80 el hambre mundial  y la ecologia
 
 La economía y la ecología están
 
@@ -6593,9 +6581,7 @@ vehículos\!
 
 
 
-## 87 **Grandes Vegetarianos**
-
-**Leonardo DaVinci**
+## 87 Grandes Vegetarianos Leonardo DaVinci
 
 Llegará un tiempo en que los seres humanos se
 
@@ -7049,9 +7035,7 @@ Gran palacio real Wat Phra Kaew en Bangok, Taillandia
 
 
 
-## 92 **Los Inicios de la **
-
-**RUSLAN Y LUDMILA**
+## 92 Los Inicios de la  RUSLAN Y LUDMILA
 
 Ruslan y
 
@@ -7311,7 +7295,7 @@ un universo de energía, de nuestro propio pensamiento, de nuestra percepción.
 
 
 
-## 95 **TRANSFORMACIONES DE LOS VEDAS**
+## 95 TRANSFORMACIONES DE LOS VEDAS
 
 No obstante, se transmitieron también desvia-
 
@@ -7623,9 +7607,7 @@ pia cultura espiritual y trabajamos
 
 
 
-## 100 **BRAHMAN**
-
-**PARAMATMA**
+## 100 BRAHMAN PARAMATMA
 
 **BHAGAVAN**
 
@@ -7717,9 +7699,7 @@ mente, como se explicó
 
 
 
-## 102 **Principios -Regulaciones de las **
-
-**Cuatro Escuelas Originales**
+## 102 Principios -Regulaciones de las  Cuatro Escuelas Originales
 
 Dentro las cuatro es- 3.HONESTIDAD
 
@@ -7801,9 +7781,7 @@ Kunja
 
 
 
-## 103 **El Nombre y el **
-
-**Resumen de las**
+## 103 El Nombre y el  Resumen de las
 
 **Aspecto Personal **
 
@@ -8443,7 +8421,7 @@ dos en la modalidad de la bon-
 
 
 
-## 111 **Los Avataras**
+## 111 Los Avataras
 
 Existen seis tipos de avataras \(1\) pur usha, for mas de Vishnu relacionadas a la creación \(2\) lila, for mas que realizan pasatiempos, \(3\) guna, que controlan las tres modalidades de la naturaleza \(4\) manvantara, Manus que gobier nan inicialmente la humanidad, \(5\) yuga, que marcan las pautas de cada era y \(6\) shakt-yavesha individuos dotados de poder divino.
 
@@ -10341,9 +10319,7 @@ por los deseos materiales se rinden a los semidioses y siguen las reglas y regul
 
 
 
-## 137 *Quien a Dios tiene, nada le falta*
-
-**La Causa de todas las **
+## 137 Quien a Dios tiene, nada le falta La Causa de todas las 
 
 *Sólo Dios basta. *
 
@@ -11139,7 +11115,7 @@ de meditación,
 
 
 
-## 146 **Angkor Wat**
+## 146 Angkor Wat
 
 En Asia existen templos
 
@@ -11907,7 +11883,7 @@ Japonesa
 
 
 
-## 156 **Enderezando la Historia**
+## 156 Enderezando la Historia
 
 No sólo ellos, pero algunos estudio- estímulo de los viajes de Colón eran las sos honestos de Occidente, como fabulosas riquezas de la India, que des-el prof. T. Goldstrucker denunciaron la cribiera Marco Polo.
 
@@ -12015,7 +11991,7 @@ vos volvieron
 
 
 
-## 157 **La Correcta Educación**
+## 157 La Correcta Educación
 
 El verdadero propósito de
 
@@ -12979,9 +12955,7 @@ Sol”
 
 
 
-## 169 **Ceremonia Andina**
-
-**Ceremonia Védica**
+## 169 Ceremonia Andina Ceremonia Védica
 
 ticas. Estas asambleas, el sistema Pa-
 
@@ -13111,7 +13085,7 @@ Solution, Windrush Press Ltd @1998
 
 
 
-## 171 **El Mundo de los Andes**
+## 171 El Mundo de los Andes
 
 La ubicación geográfica de la Atlántida es ampliamente discutida. No obstante, James M. Allen un car tógrafo de la Real Fuerza Aérea Br itánica, ha obtenido un doctorado de la Universidad de Oxford evaluando una ser ie de evidencias y sostiene que la Atlántida a la que Platón hace referencia está en Sudamér ica y hace específicamente mención a los restos encontrados en el Alto Per ú \(hoy Bolivia\). La palabra gr iega atlas se refiere a mundo \(o agua en Nahuátl\) y antis a los Andes, r icos en cobre, por lo cual lingüísticamente se respalda la hipótesis de la Atlántida como el
 
@@ -13153,9 +13127,7 @@ territorios del Tawantinsuyo
 
 
 
-## 172 **Tiwanaku y **
-
-**La Planicie**
+## 172 Tiwanaku y  La Planicie
 
 **Puma Punku**
 
@@ -14079,7 +14051,7 @@ ahí también la unidad gramo. Similar-
 
 
 
-## 184 **Moneda y Dinero**
+## 184 Moneda y Dinero
 
 Las diversas denominaciones aplica- Jahangir se hicieron de todos los das al cobre, a la plata y al oro bru-signos zodiacales. Los ingleses produje-
 
@@ -14151,9 +14123,7 @@ bursátil.
 
 
 
-## 185 **Fianzas, Multas e **
-
-**Intereses y Prendas**
+## 185 Fianzas, Multas e  Intereses y Prendas
 
 El Código de Manu fija multas e intereses,
 
@@ -14199,7 +14169,7 @@ en la remota antigüedad.
 
 
 
-## 186 **Tiempo**
+## 186 Tiempo
 
 La medida contemporánea de tiem- la unidad ilimitada. Existen sin duda po está inspirada también en los diferentes cuerpos con formas físicas, Vedas. Hora es una palabra sánscrita pero los propios átomos forman toda la y es aproximadamente igual a la hora manifestación.
 
@@ -14283,9 +14253,7 @@ años\!
 
 
 
-## 189 **Tiempo Sideral**
-
-**Garbhodakashayi Vishnu**
+## 189 Tiempo Sideral Garbhodakashayi Vishnu
 
 Una vez que se han generado innu-
 
@@ -14755,7 +14723,7 @@ rosímil.
 
 
 
-## 195 **SUMARIO DE EVIDENCIAS ARQUEOLÓGICAS SOBRE LA** **ANTIGÜEDAD DE LA HUMANIDAD**
+## 195 SUMARIO DE EVIDENCIAS ARQUEOLÓGICAS SOBRE LA** **ANTIGÜEDAD DE LA HUMANIDAD
 
 Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigüedad, utilizan estos tér minos: eolitos = piedras quebradas con uno o más bordes modificados por el uso o desgaste atr ibuible a acción humana. paleolitos = piedras modeladas a propósito para su uso como herramientas. neolitos = las más avanzadas herramientas y utensilios. Los detalles de los hallazgos se encuentran en el libro “The Hidden Histor y of the Human Race” \(P.267\) Govardhan Hill Publishing, @1994 por Michael A. Cremo y Richard L. Thompson.
 
@@ -14777,9 +14745,7 @@ Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigü
 
 
 
-## 196 **Triásico**
-
-**Jurásico**
+## 196 Triásico Jurásico
 
 **Cretácico**
 
@@ -14791,9 +14757,7 @@ Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigü
 
 
 
-## 197 **Mioceno Inicial**
-
-**Mioceno Medio**
+## 197 Mioceno Inicial Mioceno Medio
 
 **Mioceno Tardío**
 
@@ -14801,7 +14765,7 @@ Los tér minos utilizados en la siguiente tabla, en orden decreciente de antigü
 
 
 
-## 198 **MAPA ETNO LINGUISTICO**
+## 198 MAPA ETNO LINGUISTICO
 
 
 
@@ -14903,9 +14867,7 @@ lado y una vid o guirnalda en la base.
 
 
 
-## 200 **Historicidad **
-
-**del Ramayana**
+## 200 Historicidad  del Ramayana
 
 Desde el punto de vista antropológico, el
 
@@ -14963,7 +14925,7 @@ formación excepcional.
 
 
 
-## 201 **Xian,una Ciudad Antiquísima**
+## 201 Xian,una Ciudad Antiquísima
 
 Restos arqueológicos encontrados en
 
@@ -15013,9 +14975,7 @@ d i e r o n h a s t a X i a n d u ra n t e l a d i n a s t í a Ta n g .
 
 
 
-## 202 **Las Fotografias **
-
-**EL PUENTE A SRI LANKA**
+## 202 Las Fotografias  EL PUENTE A SRI LANKA
 
 **Satelitales**
 
@@ -15077,9 +15037,7 @@ zadas de vida en la remota antigüedad.
 
 
 
-## 203 **Conocimiento y **
-
-**Observatorios **
+## 203 Conocimiento y  Observatorios 
 
 **Astronomicos**
 
@@ -15313,9 +15271,7 @@ bha \(Asociación Mundial Vaishnava\) de la India do la OEA emitió resoluciones
 
 
 
-## 207 **Srila Bhakti Pramode Puri Gosvami Maharaj**
-
-**Presidente del Vishva Vaishnava Raj Sabha**
+## 207 Srila Bhakti Pramode Puri Gosvami Maharaj Presidente del Vishva Vaishnava Raj Sabha
 
 lacionado a los habitantes originarios de Amé-
 
