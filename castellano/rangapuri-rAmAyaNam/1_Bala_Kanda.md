@@ -1495,11 +1495,7 @@ El sabio, indignado ante el insolente ataque, con su bastón extinguió cuanto p
 
 
 
-23
-
-**Trishanku y las prácticas para **
-
-**desarrollar poderes**
+## 23 Trishanku y las prácticas para  desarrollar poderes
 
 on los sentidos aplacados, Vishvamitra, en compañía de su reina, 
 
@@ -1543,11 +1539,7 @@ Sin embargo, tan poderoso era Vishvamitra, que creó un sistema planetario para 
 
 
 
-24
-
-**Vishvamitra salva a Sunahshep y se **
-
-**enamora de la apsara Menaka**
+## 24 Vishvamitra salva a Sunahshep y se  enamora de la apsara Menaka
 
 ontó además Sat-Ananda otras proezas de Vishvamitra entre ellas 
 
@@ -1599,11 +1591,7 @@ Uno solo de los sentidos que se concentre en un objeto de placer puede descarria
 
 
 
-25
-
-**El santo Vishvamitra supera **
-
-**las tentaciones y alcanza **
+## 25 El santo Vishvamitra supera  las tentaciones y alcanza 
 
 **la auto realizacion**
 
@@ -1675,11 +1663,7 @@ Después de esto, Vishvamitra viajó por todo el planeta, y se volvió el más g
 
 
 
-26
-
-**La historia de Sita y del arco del **
-
-**Señor Shiva**
+## 26 La historia de Sita y del arco del  Señor Shiva
 
 omplacido al escuchar esta narración heroica, el rey Janak se diri-
 
@@ -1747,11 +1731,7 @@ escuchó mientras el formidable arco se partía crujiendo como un violento terre
 
 
 
-27
-
-**Las princesas son comprometidas. El **
-
-**árbol genealogico de los reyes **
+## 27 Las princesas son comprometidas. El  árbol genealogico de los reyes 
 
 leno de emoción, Janak exclamó: “He sido testigo de la proeza de 
 
@@ -1831,11 +1811,7 @@ Ese mismo día llegó al reino de Mithila el hermano de Kaikeyi, Yuddhajit, para
 
 
 
-28
-
-**La boda de los hijos del **
-
-**rey Dasarath**
+## 28 La boda de los hijos del  rey Dasarath
 
 l sabio Vasishtha Muni, que encabezaba el ceremonial, y otros 
 
@@ -1897,11 +1873,7 @@ esposa. Ella es casta y está altamente calificada, y permanecerá exclusivament
 
 
 
-29
-
-**Inesperados presagios. **
-
-**El encuentro con Parashuram**
+## 29 Inesperados presagios.  El encuentro con Parashuram
 
 a mañana siguiente, el rey Dasarath y su séquito partieron hacia 
 
@@ -1961,11 +1933,7 @@ Naciente, liberó al mundo de la oscuridad que lo envolvía. Al ver esto, los se
 
 
 
-30
-
-**Rama entrega el gran arco **
-
-**de Vishnu al semidios de las aguas**
+## 30 Rama entrega el gran arco  de Vishnu al semidios de las aguas
 
 abiendo partido Parashuram, Sri Rama de mente tranquila, entre-
 

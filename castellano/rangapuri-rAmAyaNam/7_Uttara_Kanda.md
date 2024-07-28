@@ -975,11 +975,7 @@ traerá desastres, al igual que un impostor no puede ejercer de médico.
 
 **Uttara Kanda**
 
-18
-
-**La importancia de ser caritativo **
-
-**y de extirpar el mal de raiz**
+## 18 La importancia de ser caritativo  y de extirpar el mal de raiz
 
 ri Rama elevándose en la maravillosa nave, emprendió la búsque-
 
@@ -1025,11 +1021,7 @@ Respondiendo a Sri Rama, Agastya le contó: “Tu antepasado Manu50 el padre del
 
 **El Gobernante Ideal**
 
-19
-
-**Los efectos del descontrol **
-
-**y el precio de las faltas**
+## 19 Los efectos del descontrol  y el precio de las faltas
 
 l sabio continuó, “Aunque el rey Danda era incompetente, al tener como consejero a un brahmán muy calificado, de nombre Ushana,
 
@@ -1099,11 +1091,7 @@ Los desiertos son lugares impíos. La menstruación en las mujeres es la manifes
 
 **El Gobernante Ideal**
 
-20
-
-**La narracion del Rey que fue mujer. **
-
-**Comienza el gran Ashvamedha yajña**
+## 20 La narracion del Rey que fue mujer.  Comienza el gran Ashvamedha yajña
 
 abiendo escuchando las palabras de Lakshman, Sri Ramachandra
 
@@ -1175,11 +1163,7 @@ Se había construido una costosa residencia para los nobles reyes y sus seguidor
 
 **Uttara Kanda**
 
-21
-
-**El emocionante arribo de Valmiki **
-
-**con sus discipulos**
+## 21 El emocionante arribo de Valmiki  con sus discipulos
 
 ientras la ceremonia yajña se realizaba tan maravillosamente, de repente, arribó el santo Valmiki, acompañado de sus discípulos.
 
@@ -1239,11 +1223,7 @@ en el manejo del arco y eran diestros guerreros, para el
 
 **Uttara Kanda**
 
-22
-
-**Lav y Kush estremecen a una**
-
-**virtuosa audiencia**
+## 22 Lav y Kush estremecen a una virtuosa audiencia
 
 urante varios días, Sri Rama junto con ascetas, reyes, príncipes, ciudadanos, rakshasas y monos escucharon ese maravilloso cántico de contenido sagrado. En un momento dado, Rama quedó pas-
 
@@ -1291,11 +1271,7 @@ Mientras Sita, la hija de Videha, hacía esa solemne declaración, un trono sost
 
 **El Gobernante Ideal**
 
-23
-
-**Sita vuelve a las entrañas**
-
-**de la tierra**
+## 23 Sita vuelve a las entrañas de la tierra
 
 nte la atónita mirada de los presentes, Sita sentada en ese magnífico trono y acompañada por la Madre Tierra en persona, ingresaron a las entrañas de la tierra, desapareciendo gradualmente, mientras los semidioses las cubrían con una lluvia divina de flores, exclamando: “Oh Sita, de inmaculada conducta, gloria a ti”.
 
@@ -1341,11 +1317,7 @@ Después de un largo lapso, la famosa madre de Rama, Kausalya, rodeada por sus h
 
 **El Gobernante Ideal**
 
-24
-
-**Aparece la muerte personificada **
-
-**en la forma del tiempo**
+## 24 Aparece la muerte personificada  en la forma del tiempo
 
 l cabo de un tiempo, el rey de Kekaya, Yudhajit envió a Gargya, su preceptor e hijo del sabio Angira Muni, para obsequiar a Rama,
 
@@ -1407,11 +1379,7 @@ Rama que estaba abrumado, con su cabeza mirando hacia abajo, no pudo decir una s
 
 **El Gobernante Ideal**
 
-25
-
-**La partida del Avatar Amado**
-
-**al Mundo Espiritual**
+## 25 La partida del Avatar Amado al Mundo Espiritual
 
 iendo Lakshman que Rama se quedó como petrificado, sin habla y
 
@@ -1481,11 +1449,7 @@ Todos; humanos, aves, animales, fantasmas, seres con cuerpos grandes y pequeños
 
 **El Gobernante Ideal**
 
-26
-
-**Se confieren las bendiciones**
-
-**del Ramayana**
+## 26 Se confieren las bendiciones del Ramayana
 
 n ese momento, Brahma, el antepasado del mundo creado, acom-
 
