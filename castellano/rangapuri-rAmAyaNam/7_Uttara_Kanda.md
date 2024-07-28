@@ -19,7 +19,7 @@ title = "7 Uttara Kanda"
 
 **Uttara Kanda**
 
-## 1 Los ascetas felicitan a Rama y empieza  una narracion reveladora
+## 1 Los ascetas felicitan a Rama y empieza una narracion reveladora
 
 uando Rama hubo reconquistado su reino después de destruir a los *rakshasas*, sabios provenientes de todos los diferentes puntos cardinales vinieron a visitarlo. Del Este, arribaron Kausika, Gargya, Kanva, etc; del Sur, Agastya, Sumukha, Swastyatreya, Namuchi,
 
@@ -71,7 +71,7 @@ El erudito continuo así la narración: “Al reparar en esta situación, el Se�
 
 **El Gobernante Ideal**
 
-## 2 El origen de Ravana  y sus hermanos
+## 2 El origen de Ravana y sus hermanos
 
 l gran Agastya continuo así la narración: “Al reparar en esta situación, el Señor Shiva, para condescender con el sentimiento de su esposa, otorgó a los *rakshasas* adicionalmente una magnífica ciudadela flotante; entonces, Sukesh se dedicó a realizar severas penitencias, al igual que sus ancestros. Posteriormente, contrajo matrimonio con Devavati y, de esta unión, nacieron tres hijos: Malyavan, Sumali y Mali.
 
@@ -127,7 +127,7 @@ Aunque Kaikashi fue satisfecha por Vishrava, con el paso del tiempo, ella no pud
 
 **El Gobernante Ideal**
 
-## 3 Ravana arrebata a Kuvera  su ciudad y su nave 
+## 3 Ravana arrebata a Kuvera su ciudad y su nave 
 
 l sabio Agastya continuó su narración: “Para incrementar su po-
 
@@ -187,7 +187,7 @@ Dasagriva, haciendo caso omiso a las palabras de Nandi, respondió: ‘debido a 
 
 **El Gobernante Ideal**
 
-## 4 El arrogante Ravana ofende  a la bella asceta
+## 4 El arrogante Ravana ofende a la bella asceta
 
 bservando el terrible sufrimiento por el que estaba pasando Da-
 
@@ -471,7 +471,7 @@ par tan atractiva fruta
 
 **El Gobernante Ideal**
 
-## 8 Sri Rama empieza a gobernar.  Belleza y plenitud se manifiestan
+## 8 Sri Rama empieza a gobernar. Belleza y plenitud se manifiestan
 
 la mañana siguiente, después de ser despertado por cantantes que recitaban Sus gracias, Rama se bañó y se sentó para realizar ceremonias de fuego *\(agni-hotra\). * Luego visitó el templo del palacio, ofreció respetos a brahmanes y sabios; y de allí se dirigió a la corte real. Sentado en Su trono real, rodeado por ministros, sirvientes y veinte de los jefes monos, Rama comenzó a administrar el Estado de una manera ejemplar.
 
@@ -537,7 +537,7 @@ tud se manifestaron. Sita Rama, Lakshman y Hanuman
 
 **Uttara Kanda**
 
-## 9 La crueldad de los rumores  de los insensatos
+## 9 La crueldad de los rumores de los insensatos
 
 n el entorno de la vida feliz de Ayodhya, narradores expertos y sabios tales como Vijaya, Madhumata, Kasyapa, Mangala, Kula,
 
@@ -665,7 +665,7 @@ Lakshman, abatido e incapaz de hablar, hizo reverencias poniendo su frente al ra
 
 **El Gobernante Ideal**
 
-## 12 El encuentro de Sita con Valmiki y  el cumplimiento de una profecia
+## 12 El encuentro de Sita con Valmiki y el cumplimiento de una profecia
 
 os hijos de los ascetas, que habitaban el *ashram*, habían visto a una hermosa dama, como una diosa, abandonada a orillas del río
 
@@ -949,7 +949,7 @@ Arribando a Ayodhya, se apresuró a saludar a su célebre hermano y desbor-dado 
 
 **Uttara Kanda**
 
-triyas,  el viajar, ¡Oh valiente\! Puedes venir de tiempo en tiempo a Ayodhya para verme, pero debes atender tus deberes. Me eres ciertamente más querido que mi vida, no hay duda de ello, pero tu obligación será cuidar el territorio que está bajo tu responsabilidad. Quédate conmigo durante siete noches y luego vuelve a Madhura.” Tal como lo deseó Sri Rama, Satrughna concluida la semana partió para Madhu Puri.
+triyas, el viajar, ¡Oh valiente\! Puedes venir de tiempo en tiempo a Ayodhya para verme, pero debes atender tus deberes. Me eres ciertamente más querido que mi vida, no hay duda de ello, pero tu obligación será cuidar el territorio que está bajo tu responsabilidad. Quédate conmigo durante siete noches y luego vuelve a Madhura.” Tal como lo deseó Sri Rama, Satrughna concluida la semana partió para Madhu Puri.
 
 Los días transcurrían tranquilos y felices en Ayodhya. Fue en una rara ocasión que un brahmán anciano llegó a la entrada real, cargando en sus brazos el cuerpo muerto de su hijo, afligido y llorando, exclamó: “¿Qué maldad he hecho en vidas pasadas para verte muerto durante mi presencia, cuando apenas tienes cinco años? ¡Oh, hijo\! Tu madre y yo, pronto moriremos por el dolor que nos causa tu muerte.
 
@@ -1065,7 +1065,7 @@ Después de contar esto el sabio Agastya le dijo a Rama: “el sol ya se ha pues
 
 ya. A modo de despedida, Agastya le comentó que gobernando con la corrección que le caracterizaba, sus pasatiempos serían conocidos en todo el planeta y el escucharlos conduciría a la perfección. Rama abordó la hermosa nave Pushpaka para retornar junto a Lakshman y Bharat.
 
-Ya en Ayodhya, Rama había propuesto preparar la ceremonia conocida como rajasuya yajña, mas, su hermano Bharat lo disuadió, diciéndole que no debería hacer algo que cause sufrimiento, ya que este sacrificio implicaba un desafío a otros reyes y Él era como un padre para todos ellos. Rama contento con esa forma de razonar, aceptó el consejo de Bharat y descartando esa opción escuchó la alternativa que le planteó Lakshman: “En el pasado, Indra fue purificado incluso del pecado de matar al brahmán Vritrasura mediante una ceremonia ashvamedha,  por lo tanto es apropiado llevar a cabo ese yajña53  para purificar este reino.”
+Ya en Ayodhya, Rama había propuesto preparar la ceremonia conocida como rajasuya yajña, mas, su hermano Bharat lo disuadió, diciéndole que no debería hacer algo que cause sufrimiento, ya que este sacrificio implicaba un desafío a otros reyes y Él era como un padre para todos ellos. Rama contento con esa forma de razonar, aceptó el consejo de Bharat y descartando esa opción escuchó la alternativa que le planteó Lakshman: “En el pasado, Indra fue purificado incluso del pecado de matar al brahmán Vritrasura mediante una ceremonia ashvamedha, por lo tanto es apropiado llevar a cabo ese yajña53 para purificar este reino.”
 
 Escuchando esto, Sri Rama le dijo a Lakshman que le cuente esa historia. Su querido hermano le narró: “Vritrasura, hijo de Diti, se había vuelto tan poderoso mediante la práctica de austeridades, que Indra temía que llegara a controlar toda la Tierra, que era tan próspera que daba frutos sin ser siquiera ser arada.
 
@@ -1073,7 +1073,7 @@ Indra pidió ayuda a Vishnu, quien le dijo que aparecería Él mismo, dividido e
 
 Después de eso, el propio Indra estuvo arrepentido por la muerte del brahmán, puesto que la reacción prontamente se apropió de su cuerpo de una manera horrenda, dejándolo inutilizado. Los semidioses privados de su líder, adoraron a Vishnu y le dijeron: ‘Oh Tú, el refugio final, que eres el más poderoso de todos, la muerte del brahmán Vritrasura afecta a Indra, por favor ayuda a su liberación’.
 
-Vishnu dijo: ‘que Indra me adore y lo purificaré; habiéndome propiciado a través del santo ashvamedha yajña,  él recuperará su posición entre los semidioses.’
+Vishnu dijo: ‘que Indra me adore y lo purificaré; habiéndome propiciado a través del santo ashvamedha yajña, él recuperará su posición entre los semidioses.’
 
 Pronunciado estas palabras nectarinas Vishnu retornó a los cielos”.
 
@@ -1127,7 +1127,7 @@ Así, el hijo de Kardama adquiría el aspecto de una hermosa dama durante un mes
 
 “Ilaa, como era su nombre en forma femenina, en cierta ocasión paseaba por un bello lago con damiselas acompañantes, cuando contempló al deslumbrante hijo del semidiós de la luna, Budha, un joven brahmán extremadamente buen mozo. La atracción fue mutua, pues en cuanto Budha la vio, quedó inmediatamente cautivado por la flecha de Cupido. Es así, que a pesar de que se encontraba practicando severas penitencias, el noble Budha sin poderse contener se acercó a la ermita donde se hallaba Ilaa, junto a sus doncellas, a quienes interrogó de esta manera: ‘¿a quién pertenece esta beldad femenina?’. Escuchando estas palabras agradables, las mujeres respondieron en tono dulce: ‘La mujer que te atrae no tiene esposo y pasea en el bosque con nosotras’. En aquel momento, el brahmán Budha recitó versos sagrados del avartani-vidya, a través de los cuales tuvo ac-ceso a conocer todo lo que estaba aconteciendo y luego comentó:
 
-‘Al pie de esta montaña existen los kimpurushas 59 que subsisten de raíces, hojas y frutas, -y dirigiéndose a las damas agregó- si así lo desean, ustedes pueden encontrar buenos esposos entre ellos’. Escuchando las palabras de Budha, el hijo de Soma60 \(el semidiós de la luna\), las mujeres que acompañaban a Ilaa pudieron cambiar su forma a kimpurushis,  para   emparejarse y residieron cerca de esa montaña en un número apreciable”.
+‘Al pie de esta montaña existen los kimpurushas 59 que subsisten de raíces, hojas y frutas, -y dirigiéndose a las damas agregó- si así lo desean, ustedes pueden encontrar buenos esposos entre ellos’. Escuchando las palabras de Budha, el hijo de Soma60 \(el semidiós de la luna\), las mujeres que acompañaban a Ilaa pudieron cambiar su forma a kimpurushis, para  emparejarse y residieron cerca de esa montaña en un número apreciable”.
 
 Lakshman y Bharat exclamaron: “Oh qué maravilloso es esto”. Entonces Sri Rama, el noble, continuó narrando la historia de Ila, el hijo de Kardama: “Viendo que todas las kimpurushis habían partido, el gran sabio Budha sonriendo a la bella Ilaa, le dijo: ‘¡Oh aquella de hermoso rostro\!, soy el amado hijo de Soma, ten la bondad de mirarme con amor’. Ilaa, al escuchar esas dulces palabras, le 59 Los kimpurushas habitaban en las faldas norte de los Himalayas y tenían poderes místicos, aunque tenían el poder de cambiar forma a voluntad, generalmente mostraban formas de simios. Las hembras se llamaban kimpurushis.
 
@@ -1145,7 +1145,7 @@ Al cabo del transcurso de un mes, una mañana, al alba, el rey Ila despertó en 
 
 tú puedes vivir aquí y ser muy feliz en este bello lugar, donde te alimentarás de frutas y raíces’. El Rey, aunque estaba afligido por la pérdida de sus asistentes, sintió gratitud y le pidió consejo a Budha, quien le sugirió que deje el reino al cuidado de su hijo. De esa manera, alternando identidades, Ila se dedicaba en su cuerpo femenino a los asuntos amorosos durante un mes. Fue así que quedó embarazada, y a su debido tiempo, dio a luz a un hermoso niño, llamado Pururava, dotado de un gran poder similar al del rey Ila”.
 
-Mientras Sri Rama describía el extraordinario nacimiento de Pururava a pedido de Lakshman y Bharat, continúo explicando que en ese sacrificio ashvamedha yajña se hicieron presentes grandes y poderosos sabios: Chyavana \(hijo de Brighu\), el sabio Arishtanemi, Pramodana; Modakara, el sabio Durvasa, Pulastya, Kratu y también Omkara el poderoso. Al completarse el ashvamedha yajña  y con las bendiciones de Budha, el poderoso Rudra \(Shiva\), esposo de Parvati que estaba enormemente complacido, habló y otorgó a Ila un cuerpo masculino permanente. Concluyendo estos relatos, Sri Rama invocó a los sabios Vasishtha, Vamadeva, Jabali y Kasyapa expertos en la ejecución de  ashvamedha yajña y consultando con ellos, procedió a dar las órdenes pertinentes:
+Mientras Sri Rama describía el extraordinario nacimiento de Pururava a pedido de Lakshman y Bharat, continúo explicando que en ese sacrificio ashvamedha yajña se hicieron presentes grandes y poderosos sabios: Chyavana \(hijo de Brighu\), el sabio Arishtanemi, Pramodana; Modakara, el sabio Durvasa, Pulastya, Kratu y también Omkara el poderoso. Al completarse el ashvamedha yajña y con las bendiciones de Budha, el poderoso Rudra \(Shiva\), esposo de Parvati que estaba enormemente complacido, habló y otorgó a Ila un cuerpo masculino permanente. Concluyendo estos relatos, Sri Rama invocó a los sabios Vasishtha, Vamadeva, Jabali y Kasyapa expertos en la ejecución de ashvamedha yajña y consultando con ellos, procedió a dar las órdenes pertinentes:
 
 “¡Sugriva\! invita a los monos y otros ciudadanos del bosque a la gran ceremonia. Que Vibhishan, poseído de gran poder asista al gran sacrificio acompañado de los rakshasas. Todos aquellos reyes que deseen mi bien que vengan con sus asistentes. ¡Oh Lakshman\! Invita a todos esos brahmanes que han migrado a otros países, que son devotos de la corrección y también a aquellos sabios ricos 595
 
@@ -1169,7 +1169,7 @@ Bharat y Satrughna tenían a su cargo honrar a los reyes; por su parte los simio
 
 brahmanes. Vibhishan con la ayuda de muchos ogros ofreció servicios a los rishis ricos en penitencia.
 
-Se había construido una costosa residencia para los nobles reyes y sus seguidores. Los alimentos, dulces y regalos, se distribuían continuamente. Simios y rakshasas,  increíblemente unidos como hermanos en el servicio a Rama, distribuían juntos todo lo que las visitas pedían, hasta que estuvieran saciados y expresaran su plena satisfacción. Todos estaban limpios, no había gente pobre ni demacrada; todos estaban felices y bien nutridos. ‘Nunca antes habíamos visto una ceremonia yajña así’, decían los sabios y en todas las esquinas se encontraban monos y rakshasas distribuyendo a quienes estuvieran, generosamente y en cantidades, ropas, alhajas, riquezas o alimentos. En verdad, cada quien obtenía a satisfacción lo que deseara. Por otro lado, el caballo seleccionado para el ashvamedha yajña continuó sin obstrucciones su travesía por más de un año, y todos los reyes en su camino se adherían en lealtad a Rama. Así el ashvamedha yajña fue realizado de manera memorable.
+Se había construido una costosa residencia para los nobles reyes y sus seguidores. Los alimentos, dulces y regalos, se distribuían continuamente. Simios y rakshasas, increíblemente unidos como hermanos en el servicio a Rama, distribuían juntos todo lo que las visitas pedían, hasta que estuvieran saciados y expresaran su plena satisfacción. Todos estaban limpios, no había gente pobre ni demacrada; todos estaban felices y bien nutridos. ‘Nunca antes habíamos visto una ceremonia yajña así’, decían los sabios y en todas las esquinas se encontraban monos y rakshasas distribuyendo a quienes estuvieran, generosamente y en cantidades, ropas, alhajas, riquezas o alimentos. En verdad, cada quien obtenía a satisfacción lo que deseara. Por otro lado, el caballo seleccionado para el ashvamedha yajña continuó sin obstrucciones su travesía por más de un año, y todos los reyes en su camino se adherían en lealtad a Rama. Así el ashvamedha yajña fue realizado de manera memorable.
 
 597
 
@@ -1181,7 +1181,7 @@ Se había construido una costosa residencia para los nobles reyes y sus seguidor
 
 **con sus discipulos**
 
-ientras la ceremonia yajña  se realizaba tan maravillosamente, de repente, arribó el santo Valmiki, acompañado de sus discípulos.
+ientras la ceremonia yajña se realizaba tan maravillosamente, de repente, arribó el santo Valmiki, acompañado de sus discípulos.
 
 De inmediato, delante ese conjunto de venerables, fueron colo-
 
@@ -1201,7 +1201,7 @@ sonidos y que están magníficamente divididas de acuerdo a las notas musicales,
 
 La noche terminó y antes del alba, Kush y Lav se bañaron e hicieron sus purificaciones y meditaciones. En un momento propicio de la mañana, empezaron a cantar el poema tal como fueron instruidos en presencia de Sri Rama, que escuchó atento el inicio de esa recitación poética nunca antes oída y acompañada de exquisitos acordes musicales, compuesta por el antiguo maestro. Oyendo esa bella canción, que tenía la tonalidad y el tempo apropiados, ese tigre entre los hombres estaba impresionado e hizo llamar prontamente a los grandes ascetas, a los otros reyes, a los eruditos ciudadanos, a los especialistas en las escrituras y las historias antiguas Puranas, así como a aquellos ancianos brahmanes que eran inteligentes en el discernimiento de las letras y a quienes conocían las es-pecialidades musicales; todos aquellos que eran los mejores entre los virtuosos, acudieron ansiosos de escuchar el Ramayana.
 
-Estaban presentes los conocedores de la fisonomía, de las marcas y signos propicios, los músicos, los conocedores de la relación entre las estrofas y la métrica, aquellos versados en arte, aquellos en astrología, los entendidos en cuestiones rituales y aquellos especializados en los detalles, aquellos hábiles en prescribir remedios, los lógicos matemáticos y también los eruditos, los intér-pretes y divulgadores de los conocimientos de los Vedas y Puranas, los mejores entre los brahmanes, los versados en la poesía, los conocedores de la conducta correcta, los Dharma  sutras y también los expertos en voz, música y danza; en fin, todos aquellos notables y virtuosos se encontraban en esa augusta asamblea.
+Estaban presentes los conocedores de la fisonomía, de las marcas y signos propicios, los músicos, los conocedores de la relación entre las estrofas y la métrica, aquellos versados en arte, aquellos en astrología, los entendidos en cuestiones rituales y aquellos especializados en los detalles, aquellos hábiles en prescribir remedios, los lógicos matemáticos y también los eruditos, los intér-pretes y divulgadores de los conocimientos de los Vedas y Puranas, los mejores entre los brahmanes, los versados en la poesía, los conocedores de la conducta correcta, los Dharma sutras y también los expertos en voz, música y danza; en fin, todos aquellos notables y virtuosos se encontraban en esa augusta asamblea.
 
 Lav y Kush, a medida que este cántico supra humano progresaba in crescendo, 63 Los Ashvini kumaras son dos semidioses gemelos muy hermosos.
 
@@ -1247,7 +1247,7 @@ en el manejo del arco y eran diestros guerreros, para el
 
 urante varios días, Sri Rama junto con ascetas, reyes, príncipes, ciudadanos, rakshasas y monos escucharon ese maravilloso cántico de contenido sagrado. En un momento dado, Rama quedó pas-
 
-mado64 al descubrir, a través de esa canción, ¡que Kush y Lav eran Sus hijos con Sita\!, por lo que, reponiéndose de la sorpresa y cui-dando la etiqueta real, se dirigió a esa magna asamblea: “Vayan mensajeros de conducta pura donde el venerable rishi  Valmiki y repitan estas Mis palabras: ‘Si ninguna falta yace en Sita, de conducta intachable, que sea ella presentada aquí, bajo la bendición del gran sabio \(Valmiki\). Que la hija de Janak haga un voto en frente de esta asamblea para remover todas las dudas mañana temprano”. Escuchando estas inesperadas palabras, los enviados fueron al sitio donde se encontraba el gran sabio Valmiki. Saludando al noble de ilimitable lustre, repitieron las palabras de Rama.
+mado64 al descubrir, a través de esa canción, ¡que Kush y Lav eran Sus hijos con Sita\!, por lo que, reponiéndose de la sorpresa y cui-dando la etiqueta real, se dirigió a esa magna asamblea: “Vayan mensajeros de conducta pura donde el venerable rishi Valmiki y repitan estas Mis palabras: ‘Si ninguna falta yace en Sita, de conducta intachable, que sea ella presentada aquí, bajo la bendición del gran sabio \(Valmiki\). Que la hija de Janak haga un voto en frente de esta asamblea para remover todas las dudas mañana temprano”. Escuchando estas inesperadas palabras, los enviados fueron al sitio donde se encontraba el gran sabio Valmiki. Saludando al noble de ilimitable lustre, repitieron las palabras de Rama.
 
 Atento a esos términos y conociendo las intenciones de Sri Rama, el muy poderoso sabio habló de esta forma: “¡Que así sea\! Que el bien esté con ustedes; Sita irá, tal como Sri Rama, su esposo, lo solicitó”.
 
@@ -1323,7 +1323,7 @@ Habiendo hablado así, Brahma partió a los planetas superiores junto a los otro
 
 Con la llegada de los primeros rayos de sol, Rama pidió a Sus dos hijos que convocaran a todos los sabios, para luego cantar sin interrupción el remanente del Ramayana. Entonces, después de que los grandes y nobles sabios hubieron tomado sus asientos, los mellizos Kush y Lav cantaron el Uttara kanda, relacionado con los eventos del futuro.
 
-El poema relataba dramáticamente el ingreso de Sita a los mundos subterráneos; también relataba la agitación de Sri Rama a la conclusión del sacrificio, quien, ante la ausencia de Sita, consideraba esta tierra vacía; y sin Sita, terri-blemente afligido por la tristeza no encontraba paz en Su mente; también narraba que Rama, después de terminar el yajña,  despediría a todos los reyes, osos, monos y también a la gran asamblea de brahmanes, distribuyéndoles regalos de riqueza incomparable.
+El poema relataba dramáticamente el ingreso de Sita a los mundos subterráneos; también relataba la agitación de Sri Rama a la conclusión del sacrificio, quien, ante la ausencia de Sita, consideraba esta tierra vacía; y sin Sita, terri-blemente afligido por la tristeza no encontraba paz en Su mente; también narraba que Rama, después de terminar el yajña, despediría a todos los reyes, osos, monos y también a la gran asamblea de brahmanes, distribuyéndoles regalos de riqueza incomparable.
 
 La épica narraba cómo Rama junto con sus dos amados hijos, entraría a Ayodhya, y teniendo únicamente a Sita en Su corazón, no desposaría a ninguna otra mujer; de la misma manera relataba que en toda ceremonia El instalaba una Deidad con una imagen de Su Reina, la hija de Janak. Relataba que Sri Rama realizaría sacrificios durante 10.000 años otorgando profusa caridad y que actuaría gobernando correctamente Su reino. Tanto osos, como monos y rakshasas obe-decerían al mando de Raghu, y los Reyes le pagarían tributo a diario, las nubes verterían lluvia a tiempo, la cosecha sería buena y las residencias brillarían in-maculadamente limpias. Los pueblos y ciudades estarían poblados por personas temor que produce Su extraordinario poder.
 
@@ -1355,7 +1355,7 @@ Ante el pedido, Rama accedió y despachó a Bharat, junto a sus dos bravos hijos
 
 **Uttara Kanda**
 
-arcos, flechas y también cadáveres. Ni siquiera los semidioses recordarían una batalla tan feroz como aquella. Entonces Bharat, el hermano de Sri Rama, liberó la terrible arma Samvarta y derrotó a los Gandharvas.  Organizando el territorio en dos regiones, coincidiendo con los territorios de Gandharvadesh y Gandhara, fundó dos grandes y prósperas ciudades: Takshasila y Pushkalavat, donde instaló a sus hijos Taksha y Pushkal, que se establecieron plenamente en esas ciudades.
+arcos, flechas y también cadáveres. Ni siquiera los semidioses recordarían una batalla tan feroz como aquella. Entonces Bharat, el hermano de Sri Rama, liberó la terrible arma Samvarta y derrotó a los Gandharvas. Organizando el territorio en dos regiones, coincidiendo con los territorios de Gandharvadesh y Gandhara, fundó dos grandes y prósperas ciudades: Takshasila y Pushkalavat, donde instaló a sus hijos Taksha y Pushkal, que se establecieron plenamente en esas ciudades.
 
 A continuación, los hijos de Lakshman, Angada y Chandraketu fueron coronados por órdenes de Sri Rama, sentando soberanía en los territorios conocidos como Karupatha y Chandrakanta. Cada uno de estos territorios fue establecido y embellecido con abundantes y hermosos bosques, junto a ciudades bien planifi-cadas y bien provistas de riquezas, gemas y jardines. Al cabo de un año de ayudar a establecer esas ciudades, Bharat y Lakshman retornaron a Ayodhya. Eventos gloriosos marcaron diez mil años, en que Sri Rama, Bharat, Lakshman y Satrughna, ejerciendo sus deberes, establecieron poblaciones plenas de virtud, prosperidad y radiante refulgencia, manteniendo felices a sus ciudadanos.
 
@@ -1429,7 +1429,7 @@ El insigne Lakshman, resignado al sacrificio por la virtud, con los ojos nu-613
 
 **Uttara Kanda**
 
-blados, se dirigió a orillas del río Sarayu, donde practicó la purificación y res-tringiendo todos sus sentidos, retuvo su aliento. Los Devas, junto con las apsaras y rishis,  regaron flores sobre Lakshman, quien practicando el yoga con gran concentración y en trance \( samadhi\), se elevó -invisible para los hombres- a los planetas superiores, mientras todos los grandiosos, complacidos lo honraban.
+blados, se dirigió a orillas del río Sarayu, donde practicó la purificación y res-tringiendo todos sus sentidos, retuvo su aliento. Los Devas, junto con las apsaras y rishis, regaron flores sobre Lakshman, quien practicando el yoga con gran concentración y en trance \( samadhi\), se elevó -invisible para los hombres- a los planetas superiores, mientras todos los grandiosos, complacidos lo honraban.
 
 Habiendo despedido a Lakshman, Sri Rama empachado de agonía y des-consuelo habló a los brahmanes, consejeros y ciudadanos: “Consagraré a Bharat como Señor de Ayodhya hoy mismo y partiré al bosque en retiro espiritual. Que todo lo necesario sea hecho sin demora, pues seguiré el sendero que Lakshman ha trazado para Mí”. Prestando oídos a estas palabras que llegaban como afilados dardos, todos los súbitos cayeron postrados como si no tuvieran ya más vida.
 
@@ -1449,7 +1449,7 @@ súbditos y a su maestro consejero, Kañchan a quienes comunicó la proximidad d
 
 Cuando llegó, encontró a Sri Rama junto a los sabios inmortales y a los nobles como si fuera un fuego en llamas, vestido con finos ornamentos de seda.
 
-Saludando a Rama con las manos juntas y manteniendo sus sentidos bajo control y siguiendo respetuosamente la Ley de la Educación, Satrughna le dijo al conocedor del dharma: “¡Debes saber que he decidido seguirte, después de haber coronado a mis dos hijos\!” Ni bien terminó de pronunciarlo, arribaron en gran número los monos que podían cambiar su forma a voluntad, lo mismo que los osos y los rakshasas,  con Sugriva a la cabeza, quienes también deseaban la asociación de Rama, antes de que se fuera a los mundos espirituales.
+Saludando a Rama con las manos juntas y manteniendo sus sentidos bajo control y siguiendo respetuosamente la Ley de la Educación, Satrughna le dijo al conocedor del dharma: “¡Debes saber que he decidido seguirte, después de haber coronado a mis dos hijos\!” Ni bien terminó de pronunciarlo, arribaron en gran número los monos que podían cambiar su forma a voluntad, lo mismo que los osos y los rakshasas, con Sugriva a la cabeza, quienes también deseaban la asociación de Rama, antes de que se fuera a los mundos espirituales.
 
 Enterándose de la partida de Sri Rama los hijos de los semidioses, los hijos de los sabios y también los hijos de los Gandharvas vinieron y dijeron: “¡Oh Rey\!
 
@@ -1517,7 +1517,7 @@ seres móviles e inmóviles que le tenían devoción. Sus pasatiempos divinos so
 
 Esta historia del Ramayana otorga longevidad, refuerza la fortuna, aleja las faltas y es igual a los Vedas. El sabio debe escucharla incluso en los ritos funerales; el que lo haga y no tiene prole obtendrá un hijo y el pobre obtendrá riqueza por escucharla. Aquel que lee incluso una cuarta parte de este Ramayana se libera de todas sus faltas. Aquel que comete faltas a diario también se liberará de ellas si lee siquiera un verso del Ramayana con devoción. Deben ofrecerse ropas, vacas y oro a quien recite el Ramayana, si el que recita queda satisfecho, todos los semidioses estarán satisfechos. El hombre que lea esta historia que da vida, disfrutará de placeres con sus hijos y nietos y será honrado también en el otro mundo. Recitando con atención el Ramayana por la mañana, cuando se deja salir a pastar a las vacas, al medio día o al atardecer uno no sufrirá penas.
 
-La hermosa Ayodhya, permaneciendo desolada por muchos, muchos años será nuevamente habitada durante el reino del rey Rishabhadev. Esta historia, el Ramayana da vida. Un hombre obtiene las retribuciones de ejecutar mil ceremonias ashvamedha y diez mil yajñas vajpeya;  por apenas escuchar un solo canto del Ramayana, se supone que uno haya visitado todos los lugares santos, como Prayag y todos los ríos como el Ganga, todos los bosques como Naimisharanya y todos los Kshetras como Kurukshetra. En el mundo, aquel que ha escuchado el Ramayana iguala en caridad a quien haya dado en caridad dos mil palas de oro en Kurukshetra durante un eclipse de sol. Quien escuche la historia de Rama con plena reverencia, se liberará de todas sus faltas y alcanzará el mundo de Vishnu.
+La hermosa Ayodhya, permaneciendo desolada por muchos, muchos años será nuevamente habitada durante el reino del rey Rishabhadev. Esta historia, el Ramayana da vida. Un hombre obtiene las retribuciones de ejecutar mil ceremonias ashvamedha y diez mil yajñas vajpeya; por apenas escuchar un solo canto del Ramayana, se supone que uno haya visitado todos los lugares santos, como Prayag y todos los ríos como el Ganga, todos los bosques como Naimisharanya y todos los Kshetras como Kurukshetra. En el mundo, aquel que ha escuchado el Ramayana iguala en caridad a quien haya dado en caridad dos mil palas de oro en Kurukshetra durante un eclipse de sol. Quien escuche la historia de Rama con plena reverencia, se liberará de todas sus faltas y alcanzará el mundo de Vishnu.
 
 Es el primer y principal poema épico, compuesto en las eras del remoto pasado por el sabio Valmiki. Aquel que lo oiga a diario, alcanzará una forma similar a la de Vishnu, bendecido de esa manera junto con su esposa y su progenie, mientras que en esta vida prosperará, alcanzará una larga vida y sus riquezas se multiplicarán. El Ramayana es una forma insuperada del Gayatri78 y debe escu-charse con una mente tranquila y consciente de la veracidad de su contenido.
 

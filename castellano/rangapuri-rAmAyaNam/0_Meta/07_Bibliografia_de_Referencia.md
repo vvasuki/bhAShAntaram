@@ -3,7 +3,7 @@ title = "07 Bibliografia de Referencia"
 
 +++
 
-Bergreen, Laurence \(2003\) Over the Edge of the World: Magellan’s Terrifying Circumnavigation of the Globe,  HarperCollins Publishers Bernard, Patrick \(2004\) Music as Yoga. San Rafael, CA: Mandala Publishing Blavatsky, H.P. \(1982\) Glosario teosófico, Buenos Aires; Kier Brunton, P. \(1975\) Más allá del yoga, Buenos Aires; Kier Chaman Lal \(1956\) Hindu America. Hoshiarpur, India: V.V. Research Inst.
+Bergreen, Laurence \(2003\) Over the Edge of the World: Magellan’s Terrifying Circumnavigation of the Globe, HarperCollins Publishers Bernard, Patrick \(2004\) Music as Yoga. San Rafael, CA: Mandala Publishing Blavatsky, H.P. \(1982\) Glosario teosófico, Buenos Aires; Kier Brunton, P. \(1975\) Más allá del yoga, Buenos Aires; Kier Chaman Lal \(1956\) Hindu America. Hoshiarpur, India: V.V. Research Inst.
 
 Clackson, James. \(2007\) Indo-European linguistics: An Introduction. Londres: Cambridge University Press.
 
@@ -38,7 +38,7 @@ Masson-Oursel, P., Stern, P., Willman-Grabowska, H. & Clavel V. \(1957\) La Indi
 
 Nehamas, Alexander \(2005\) El Arte de Vivir. Reflexiones socráticas de Platón a Foucault, Pre-textos, Valencia
 
-Panikkar, Raimundo \(1981\)  The Unknown Christ of Hinduism: Towards an Ecu-menical Chistophany. London, Darton, Longman and Todd
+Panikkar, Raimundo \(1981\) The Unknown Christ of Hinduism: Towards an Ecu-menical Chistophany. London, Darton, Longman and Todd
 
 Riviere, J.R. \(1960\) El pensamiento filosófico de Asia, Madrid: Gredos Riviere, J.R. \(1979\) Oriente y Occidente, Barcelona: Salvat 643
 
@@ -46,7 +46,7 @@ Rodríguez Adrados, Francisco \(1975\). Lingüística indoeuropea. Madrid: Gredo
 
 Román, M.T. \(1996\) Oriente en Occidente, A Distancia, Madrid: UNED
 
-Rosen, Steven J. \(2002\) The Hidden Glory of India.  USA: The Bhaktivedanta Book Trust.
+Rosen, Steven J. \(2002\) The Hidden Glory of India. USA: The Bhaktivedanta Book Trust.
 
 Smith, Wilfred Cantwell \(1972\) The Faith of Other Men, San Francisco, CA: Harper and Rowe
 

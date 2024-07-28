@@ -3437,7 +3437,7 @@ mente entrenados cuidadosamente por
 
 
 
-## 48 Los Vaishnavas  o Devotos
+## 48 Los Vaishnavas o Devotos
 
 Los vaishnavas o devotos del Señor
 
@@ -4135,7 +4135,7 @@ ras, las frutas, las flores za de animales.
 
 
 
-## 56 Srila Prabhupada /  Tulasi
+## 56 Srila Prabhupada / Tulasi
 
 Otra alma autorrealizada, Swami
 
@@ -4995,7 +4995,7 @@ mundo espir itual y viene a manifestarse danzando en la lengua. El sonido trasce
 
 
 
-## 68 El Santo Nombre,  por Srila 
+## 68 El Santo Nombre, por Srila 
 
 **Bhaktivinod Thakur**
 
@@ -5927,7 +5927,7 @@ otros tipos de cáncer más.
 
 
 
-## 80 el hambre mundial  y la ecologia
+## 80 el hambre mundial y la ecologia
 
 La economía y la ecología están
 
@@ -7035,7 +7035,7 @@ Gran palacio real Wat Phra Kaew en Bangok, Taillandia
 
 
 
-## 92 Los Inicios de la  RUSLAN Y LUDMILA
+## 92 Los Inicios de la RUSLAN Y LUDMILA
 
 Ruslan y
 
@@ -7699,7 +7699,7 @@ mente, como se explicó
 
 
 
-## 102 Principios -Regulaciones de las  Cuatro Escuelas Originales
+## 102 Principios -Regulaciones de las Cuatro Escuelas Originales
 
 Dentro las cuatro es- 3.HONESTIDAD
 
@@ -7781,7 +7781,7 @@ Kunja
 
 
 
-## 103 El Nombre y el  Resumen de las
+## 103 El Nombre y el Resumen de las
 
 **Aspecto Personal **
 
@@ -8521,7 +8521,7 @@ primordial, quien se manifies-
 
 cabo un doble propósito: enseña el *nama-san-ta personalmente como Krish-*
 *
-kirtana,  el Canto del Santo Nombre de Dios, na y los diferentes avataras en estableciendo lo que es una práctica espiritual las formas de Rama, Nrsimha, universal, creando una plataforma en la que Vamana, etcétera, como Sus personas de todos los credos y culturas pueden porciones subjetivas. El propio compartir, experimentando la dicha del amor Señor Krishna desciende a este divino, y su segundo propósito, interno, que es mundo para manifestar Sus pa-saborear Él mismo el sabor supremo del bhak-satiempos trascendentales una ti, el servicio devocional puro, motivado por el vez cada día de Brahma5. Todas más sublime sentimiento espiritual6.
+kirtana, el Canto del Santo Nombre de Dios, na y los diferentes avataras en estableciendo lo que es una práctica espiritual las formas de Rama, Nrsimha, universal, creando una plataforma en la que Vamana, etcétera, como Sus personas de todos los credos y culturas pueden porciones subjetivas. El propio compartir, experimentando la dicha del amor Señor Krishna desciende a este divino, y su segundo propósito, interno, que es mundo para manifestar Sus pa-saborear Él mismo el sabor supremo del bhak-satiempos trascendentales una ti, el servicio devocional puro, motivado por el vez cada día de Brahma5. Todas más sublime sentimiento espiritual6.
 
 las otras formas y expansiones
 
@@ -9613,11 +9613,11 @@ to que Hipócrates afirmaba, en
 
 La astrología, aparentemente, llegó desde
 
-el siglo V a.C., que un médico  la India, primero a los asirio-babilónicos; luego sin conocimiento de la astro-a los caldeos y, por el año 500 penetró en Chi-logía no tenía derecho a lla-
+el siglo V a.C., que un médico la India, primero a los asirio-babilónicos; luego sin conocimiento de la astro-a los caldeos y, por el año 500 penetró en Chi-logía no tenía derecho a lla-
 
 na. En Egipto, en el siglo II a.C., se dio a cono-marse médico. Paracelso, mé-
 *
-*cer la ciencia Védica que en Occidente se cono-dico y alquimista consideraba ce como trigonometría. Ptolomeo compuso un lo propio; mientras que Santo compendio de astrología. Los árabes gra-Tomás de Aquino decía que los  cias a la astrología hindú, resul-c* uerpos celestiales son la cau-
+*cer la ciencia Védica que en Occidente se cono-dico y alquimista consideraba ce como trigonometría. Ptolomeo compuso un lo propio; mientras que Santo compendio de astrología. Los árabes gra-Tomás de Aquino decía que los cias a la astrología hindú, resul-c* uerpos celestiales son la cau-
 
 taron expertos matemáticos y
 
@@ -13127,7 +13127,7 @@ territorios del Tawantinsuyo
 
 
 
-## 172 Tiwanaku y  La Planicie
+## 172 Tiwanaku y La Planicie
 
 **Puma Punku**
 
@@ -14123,7 +14123,7 @@ bursátil.
 
 
 
-## 185 Fianzas, Multas e  Intereses y Prendas
+## 185 Fianzas, Multas e Intereses y Prendas
 
 El Código de Manu fija multas e intereses,
 
@@ -14867,7 +14867,7 @@ lado y una vid o guirnalda en la base.
 
 
 
-## 200 Historicidad  del Ramayana
+## 200 Historicidad del Ramayana
 
 Desde el punto de vista antropológico, el
 
@@ -14975,7 +14975,7 @@ d i e r o n h a s t a X i a n d u ra n t e l a d i n a s t í a Ta n g .
 
 
 
-## 202 Las Fotografias  EL PUENTE A SRI LANKA
+## 202 Las Fotografias EL PUENTE A SRI LANKA
 
 **Satelitales**
 
@@ -15037,7 +15037,7 @@ zadas de vida en la remota antigüedad.
 
 
 
-## 203 Conocimiento y  Observatorios 
+## 203 Conocimiento y Observatorios 
 
 **Astronomicos**
 

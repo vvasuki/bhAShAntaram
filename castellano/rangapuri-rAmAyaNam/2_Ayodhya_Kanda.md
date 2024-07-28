@@ -18,7 +18,7 @@ title = "2 Ayodhya Kanda"
 
 **Ayodhya Kanda**
 
-## 1 La propuesta de la  coronacion de Rama
+## 1 La propuesta de la coronacion de Rama
 
 l heroico Yuddhajit, hermano de Kaikeyi y tío de Bharat, visitó en 
 
@@ -66,7 +66,7 @@ El rey Dasarath dio la bienvenida y ofreció asientos de honor a los monarcas qu
 
 **La Realeza de Ayodhya**
 
-## 2 Comienzan los grandes  preparativos
+## 2 Comienzan los grandes preparativos
 
 nte la pregunta de Dasarath, la asamblea de reyes y príncipes rom-
 
@@ -262,7 +262,7 @@ Kaikeyi, siguiendo a pie puntillas los consejos de la perversa Manthara, se reti
 
 **La Realeza de Ayodhya**
 
-## 6 La insolita peticion de la  Reina Kaikeyi
+## 6 La insolita peticion de la Reina Kaikeyi
 
 l rey Dasarath, que estaba ocupado en las preparaciones finales 
 
@@ -344,7 +344,7 @@ Luego de ventilar su ira, el estado de ánimo de Dasarath cambió repentinamente
 
 Aunque Dasarath suplicaba penosamente, Kaikeyi permanecía inamovible: 
 
-“Basta ya de tanta súplica -dijo Kaikeyi, insensible- llama a Rama de inmediato e infórmale de su destierro. Únicamente cuando Bharat sea coronado, habrás cumplido con tu deber. ¿Cómo te atreves a dar lecciones de dharma,  si eludes cumplir tu palabra, si faltas a tu promesa? ¿Cómo podrás siquiera, proclamar tu piedad? ¿Qué dirás a los grandes sabios cuando te pregunten acerca de estas bendiciones? Ten en mente la conducta de tus predecesores: El rey Shibi, al haber prometido proteger a una paloma, de manera ejemplar, dio su propia carne para alimentar un halcón; y Harischandra, por cumplir su palabra, entregó inclusive a su amada y a su hijo. No rompas tu promesa, pues mancharías la reputación de tu gloriosa dinastía”. 
+“Basta ya de tanta súplica -dijo Kaikeyi, insensible- llama a Rama de inmediato e infórmale de su destierro. Únicamente cuando Bharat sea coronado, habrás cumplido con tu deber. ¿Cómo te atreves a dar lecciones de dharma, si eludes cumplir tu palabra, si faltas a tu promesa? ¿Cómo podrás siquiera, proclamar tu piedad? ¿Qué dirás a los grandes sabios cuando te pregunten acerca de estas bendiciones? Ten en mente la conducta de tus predecesores: El rey Shibi, al haber prometido proteger a una paloma, de manera ejemplar, dio su propia carne para alimentar un halcón; y Harischandra, por cumplir su palabra, entregó inclusive a su amada y a su hijo. No rompas tu promesa, pues mancharías la reputación de tu gloriosa dinastía”. 
 
 A medida que Kaikeyi hablaba, su determinación crecía;con más energía, 
 
@@ -374,7 +374,7 @@ Recuperando el sentido, Dasarath continuó así: “¡Condenadas las mujeres\!
 
 **La Realeza de Ayodhya**
 
-## 8 La implacable fuerza de  una promesa
+## 8 La implacable fuerza de una promesa
 
 l Sol se puso y Dasarath Maharajyacía sumergido en lastimero 
 
@@ -412,7 +412,7 @@ Mientras tanto, la melodía de las canciones que glorificaban a los famosos reye
 
 **La Realeza de Ayodhya**
 
-## 9 Rama es convocado  por su padre
+## 9 Rama es convocado por su padre
 
 ientras el rey Dasarath discutía con Kaikeyi, el gran sabio Vasi-
 
@@ -438,7 +438,7 @@ primer ministro del rey Dasarath; acercándose y luego de aceptar su respetuoso 
 
 **Ayodhya Kanda**
 
-saludo, el sabio le dijo: “Por favor, informa a Su Majestad que he regresado y que se ha reunido todo lo necesario para el sacrificio, hemos procurado cántaros de oro llenos del agua de los ríos sagrados; un asiento especial de madera udambara ha sido tallado para que Sri Rama lo ocupe durante el sacrificio; tengo también varias semillas, perfumes y joyas preciosas para la coronación, abundante miel, requesón, raíces, gui, leche, especias, flores, granos tostados de los sembradíos y hojas de hierba darbha  que serán utilizados en el sacrificio.” 
+saludo, el sabio le dijo: “Por favor, informa a Su Majestad que he regresado y que se ha reunido todo lo necesario para el sacrificio, hemos procurado cántaros de oro llenos del agua de los ríos sagrados; un asiento especial de madera udambara ha sido tallado para que Sri Rama lo ocupe durante el sacrificio; tengo también varias semillas, perfumes y joyas preciosas para la coronación, abundante miel, requesón, raíces, gui, leche, especias, flores, granos tostados de los sembradíos y hojas de hierba darbha que serán utilizados en el sacrificio.” 
 
 El sabio continuó: “Traje, además, ocho vírgenes, muchos elefantes excelentes, una carroza espléndida halada por cuatro hermosos caballos, una espada especial, un arco, un palanquín, una sombrilla del color de la Luna, un par de abanicos \( chamara\), un toro sagrado y un trono decorado con leones incrusta-dos. Por favor, pide al Rey que llame a Sri Rama para que, tan pronto como la Luna haya entrado completamente en la constelación Pushya, la ceremonia pueda empezar.” 
 
@@ -450,7 +450,7 @@ Sumantra estaba radiante,sin siquiera sospechar los tristes sucesos de la noche 
 
 **La Realeza de Ayodhya**
 
-narlo así para ir?”, contestó Sumantra. Al cabo de un tiempo, el rey Dasarath recobró la conciencia y le dijo: “¡Oh, Sumantra\!, necesito ver a mi hijo Rama, por favor, trae a mi encantador muchacho, de inmediato”. En seguida, Sumantra partió hacia el palacio del Señor Rama y allí, sentado en un trono dorado, encontró a Sri Ramachandra, decorado con guirnaldas de flores de loto y collares de oro que cubrían su cuerpo trascendental. Asistido por sirvientes que lo abanicaban con chamaras  y le hacían variadas ofrendas con mucha devoción, el Señor Rama se parecía a Vishnu, el Señor Supremo, de hecho, era Él Mismo. 
+narlo así para ir?”, contestó Sumantra. Al cabo de un tiempo, el rey Dasarath recobró la conciencia y le dijo: “¡Oh, Sumantra\!, necesito ver a mi hijo Rama, por favor, trae a mi encantador muchacho, de inmediato”. En seguida, Sumantra partió hacia el palacio del Señor Rama y allí, sentado en un trono dorado, encontró a Sri Ramachandra, decorado con guirnaldas de flores de loto y collares de oro que cubrían su cuerpo trascendental. Asistido por sirvientes que lo abanicaban con chamaras y le hacían variadas ofrendas con mucha devoción, el Señor Rama se parecía a Vishnu, el Señor Supremo, de hecho, era Él Mismo. 
 
 Juntando sus manos en señal de oración, Sumantra dijo a Sri Rama: “Ben-
 
@@ -468,7 +468,7 @@ ciudadanos y les vivificaba, cual si fuera el Sol que, muy temprano en la mañan
 
 **Ayodhya Kanda**
 
-## 10 Rama hace una  terrible promesa
+## 10 Rama hace una terrible promesa
 
 i bien arribó al palacio del rey Dasarath, Rama descendió de la 
 
@@ -530,7 +530,7 @@ za efímera de todo en este mundo, él permaneció imperturbable,
 
 así como la Luna llena es inmutable en el cielo. A medida que se 
 
-encaminaba fuera del palacio, prohibió a sus sirvientes utilizar la sombrilla real y el abanico chamara  para él. También despidió la carroza dorada y suspendió a todos sus sirvientes personales. Mientras iba calle abajo, hacia el palacio de su madre, todos los ciudadanos quedaron sorprendidos y atónitos al verlo caminar como un hombre ordinario; el amor de la gente hacia él era tan grande, que nadie soportaba ver sus pies semejantes a los lotos tocar el suelo. Su hermano Lakshman seguía a Rama, intentando refrenar la ira que los hechos le provocaban. 
+encaminaba fuera del palacio, prohibió a sus sirvientes utilizar la sombrilla real y el abanico chamara para él. También despidió la carroza dorada y suspendió a todos sus sirvientes personales. Mientras iba calle abajo, hacia el palacio de su madre, todos los ciudadanos quedaron sorprendidos y atónitos al verlo caminar como un hombre ordinario; el amor de la gente hacia él era tan grande, que nadie soportaba ver sus pies semejantes a los lotos tocar el suelo. Su hermano Lakshman seguía a Rama, intentando refrenar la ira que los hechos le provocaban. 
 
 Cuando Sri Ramachandra llegó al palacio de su madre, notó que todos los sirvientes y los miembros de la familia real estaban conversando acerca de sus cualidades trascendentales y de sus pasatiempos; entusiasmados, hacían arreglos para su coronación. Entró a la hermosa alcoba interior, cuyo piso tenía incrus-tadas deslumbrantes joyas markata, y vio a su madre Kausalya que, vestida con 183
 
@@ -614,7 +614,7 @@ Una vez a su lado, el príncipe le contó que el cumplimiento del deber lo impul
 
 **La Realeza de Ayodhya**
 
-## 13 la ferrea determinacion de  la princesa
+## 13 la ferrea determinacion de la princesa
 
 h, esposo mío\! ¿Qué consejos son estos? -preguntó Sita, indignada 
 
@@ -638,7 +638,7 @@ Lleno de amor, Rama replicó: “El bosque es muy peligroso, abundan en él fier
 
 tránsito, aún para los elefantes de gruesas patas. En muchos lugares se carece de agua y se tiene que dormir durante la noche sobre la tierra húmeda y desnuda, aunque nuestro cuerpo cansado deseara un blando lecho, numerosos mosquitos y escorpiones, serpientes y gusanos, toda clase de insectos repugnantes vendrían a torturarnos. Además de todo ello, mi amada Sita, tendré que hacer ayunos y penitencias; tendré que atormentar mi cuerpo hasta el agotamiento; ceñir mis carnes con un áspero sayal de cáñamo sujeto a la cintura con una cuerda; también tendré que coger, de las alturas, flores para mi ofrenda cotidiana a los dioses, tal como ordena la regla de los ascetas. ¿Cómo podrías tú, hermosa princesa de Mithila, acostumbrada a los lujos de la corte, resistir estos nueve años y cinco más que debo pasar en la selva?. Si en verdad estás consagrada a mí, debes seguir mis instrucciones”. 
 
-“¡Oh, Rama\!, todos esos graves sufrimientos me parecerán bendiciones. Si tú partes para Dandakaranya, caminaré delante de ti, aplastando con mis pies las espinas y las briznas del pasto kush  que se encuentren en tu camino. Si tú me proteges, mi Señor, podré tolerar cualquier cosa. Cumpliendo las órdenes de tus padres, iré contigo -así se lamentaba Sita-. ¡Oh, mi Señor\! sin ti sólo me quedará abandonar mi vida en este mundo. Antes de nuestro matrimonio, un ermitaño predijo que yo viviría por algún tiempo en el bosque; deja entonces que se cumpla esa predicción. Por favor, llévame contigo, ya que de ninguna manera me some-teré a los deseos de la perversa Kaikeyi. Tu partida, sin mí, sólo me entregaría a la muerte, pues el veneno extinguiría mi vida”. 
+“¡Oh, Rama\!, todos esos graves sufrimientos me parecerán bendiciones. Si tú partes para Dandakaranya, caminaré delante de ti, aplastando con mis pies las espinas y las briznas del pasto kush que se encuentren en tu camino. Si tú me proteges, mi Señor, podré tolerar cualquier cosa. Cumpliendo las órdenes de tus padres, iré contigo -así se lamentaba Sita-. ¡Oh, mi Señor\! sin ti sólo me quedará abandonar mi vida en este mundo. Antes de nuestro matrimonio, un ermitaño predijo que yo viviría por algún tiempo en el bosque; deja entonces que se cumpla esa predicción. Por favor, llévame contigo, ya que de ninguna manera me some-teré a los deseos de la perversa Kaikeyi. Tu partida, sin mí, sólo me entregaría a la muerte, pues el veneno extinguiría mi vida”. 
 
 A pesar de escuchar aquéllas súplicas, Sri Rama le hizo saber a la princesa que no deseaba que compartiera su exilio; por lo que Sita se sintió caer en un abismo de calamidad y, sobrecogida del temor de estar lejos de su esposo, casi enloquecida, habló con un enojo de amor: “Si estás dispuesto a abandonar a tu casta esposa, casada antes de su pubertad, y dejarla aquí a la vista de todos, es ciertamente el símbolo de que mi padre cometió un error al seleccionarte por yerno. ¡Soy solo de ti… o me llevas contigo, o me enveneno ahora mismo\!”. Llorando amargamente debido a su intensa congoja, Sita a punto de desplomarse, se abrazó fuertemente de su esposo. Lágrimas brillantes como el cristal caían de sus preciosos ojos de loto; al ver esto, Rama, el perfecto esposo, la afirmó entre sus brazos y la consoló: 
 
@@ -668,7 +668,7 @@ Por ello, incluso Rama y Sita, siguieron las normas prescritas para los ascetas 
 
 **Ayodhya Kanda**
 
-## 14 Sri Rama renuncia a todas  sus posesiones
+## 14 Sri Rama renuncia a todas sus posesiones
 
 ara donar todas sus posesiones, Rama convocó a los principales 
 
@@ -778,7 +778,7 @@ Escuchando las benévolas palabras de Siddhartha, el Rey, con una débil pero cr
 
 **Ayodhya Kanda**
 
-## 16 Sita da una leccion  inolvidable
+## 16 Sita da una leccion inolvidable
 
 abiendo perdido toda vergüenza, Kaikeyi personalmente trajo cor-
 
@@ -840,7 +840,7 @@ a su promesa
 
 **Ayodhya Kanda**
 
-## 17 La triste despedida  de Sri Rama
+## 17 La triste despedida de Sri Rama
 
 irigiéndose a su madre, Rama juntó respetuosamente las palmas 
 
@@ -968,7 +968,7 @@ atormentará con sus rayos, la Luna por su parte les refrescará, y las brisas d
 
 **Ayodhya Kanda**
 
-## 19 Persiguiendo el  carruaje de Rama
+## 19 Persiguiendo el carruaje de Rama
 
 ientras tanto, siendo Ramachandra su vida, muchos simplemente 
 
@@ -1158,7 +1158,7 @@ en el bosque
 
 **Ayodhya Kanda**
 
-## 22 La llegada a Chitrakut y el  encuentro con Valmiki
+## 22 La llegada a Chitrakut y el encuentro con Valmiki
 
 l ver que una columna de humo salía de la chimenea de una choza, 
 
@@ -1230,7 +1230,7 @@ recibió emocionado con honor y les invitó a residir en tan noble montaña
 
 **Ayodhya Kanda**
 
-## 23 El reporte de Sumantra sobre el  cumplimiento del destierro
+## 23 El reporte de Sumantra sobre el cumplimiento del destierro
 
 us informantes le hicieron saber al rey Guha que Sri Rama había 
 
@@ -1418,7 +1418,7 @@ guía y sin tu afecto? No vayas aún hijo, a la mansión de Dharmaraj29’.
 
 **Ayodhya Kanda**
 
-## 26 La muerte se asoma al  reino invencible
+## 26 La muerte se asoma al reino invencible
 
 espués de confesar el más triste recuerdo de su pasado, el rey 
 
@@ -1706,7 +1706,7 @@ Al contemplar semejante despliegue militar en su territorio, el rey Guha, pensó
 
 **Ayodhya Kanda**
 
-## 31 Se manifiesta una ciudadela  en el bosque
+## 31 Se manifiesta una ciudadela en el bosque
 
 abiéndose producido el encuentro del rey Guha con la comitiva de 
 
@@ -1836,7 +1836,7 @@ Con sus ojos de loto, Sri Rama continuó: “Seguramente Bharat, a quien quiero 
 
 **La Realeza de Ayodhya**
 
-## 33 El hallazgo de la cabaña  de Rama
+## 33 El hallazgo de la cabaña de Rama
 
 n tanto, Bharat rodeado por preceptores, encabezados por Vasish-
 
@@ -1894,7 +1894,7 @@ Bharat, dominado por la emoción, tropezando a pesar de que el terreno era llano
 
 **La Realeza de Ayodhya**
 
-## 34 Rama describe los deberes  de un gobernante
+## 34 Rama describe los deberes de un gobernante
 
 ri Ramachandra continuó: “Además, es siempre mejor tener un 
 
@@ -1946,7 +1946,7 @@ Bharat, que en realidad no tenía deseo alguno de gobernar, respondió a su herm
 
 **Ayodhya Kanda**
 
-## 35 Bharat es redimido  por Sri Rama
+## 35 Bharat es redimido por Sri Rama
 
 harat, después de abrir su corazón ante Rama, y confesar su desin-
 

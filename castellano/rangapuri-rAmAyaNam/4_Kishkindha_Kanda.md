@@ -58,7 +58,7 @@ Lakshman, observando el estado de su hermano le dijo: “Ten fortaleza ¡Oh, Ram
 
 **Kishkindha Kanda**
 
-## 2 El encuentro de los  Principes y los monos
+## 2 El encuentro de los Principes y los monos
 
 amachandra y Lakshman, una vez que terminaron de bañarse en
 
@@ -128,7 +128,7 @@ Rama y Lakshman
 
 **Kishkindha Kanda**
 
-## 3 La historia de Sugriva,  el Rey de los monos
+## 3 La historia de Sugriva, el Rey de los monos
 
 ientras conversaban, Sugriva dijo: “Por lo que escucho de ella, yo creo que he visto a tu esposa cuando estaba siendo llevada por Ravana. Un día, cuando mis ministros y yo nos encontrábamos sen-
 
@@ -200,7 +200,7 @@ Sri Rama levantó a Sugriva y lo abrazó. “Vayamos a Kishkindha -dijo-. Ahí d
 
 **Kishkindha Kanda**
 
-## 4 Combate a muerte  entre hermanos
+## 4 Combate a muerte entre hermanos
 
 ama, Lakshman y el mono Sugriva llegaron rápidamente a las afueras de Kishkindha, donde Rama y Lakshman permanecieron escon-
 
@@ -276,7 +276,7 @@ ira, se golpearon, se patearon, se empujaron, levantaron y se estrellaron el uno
 
 **Kishkindha Kanda**
 
-## 5 La leccion de una aparente  injusticia
+## 5 La leccion de una aparente injusticia
 
 Mientras Vali yacía moribundo, Sri Rama y Lakshman llegaron
 
@@ -524,7 +524,7 @@ El glorioso Sugriva, con las manos juntas escuchó atentamente a Lakshman quien 
 
 **El Reino de los Simios**
 
-## 9 Ejercitos de simios y  osos se convocan
+## 9 Ejercitos de simios y osos se convocan
 
 ara, luego de haber escuchado a Lakshman, hizo uso de la palabra y sugirió que Sugriva no era merecedor de tan ásperas palabras, y menos de labios de Lakshman, pues negó que Sugriva fuese ingrato, pérfido, mentiroso o insensible. Admitió que, habiéndose entregado a la gratificación de los sentidos, había perdido la noción del tiempo. Pero que, por su lealtad a Rama, él estaría dispuesto a abandonar incluso a su amada esposa Ruma y, con fin de asegurarse la honra de Rama, abandonaría a todos. Tara le recordó también que Vishvamitra, el gran sabio, en una ocasión se había apegado profundamente a la *apsara* Menaka y en su compañía había perdido diez años de sus austeridades como si hubieran sido un día.
 
@@ -668,7 +668,7 @@ te, te daré la sortija con mi sello. Cuando Sita lo vea, sabrá sin dudarlo que
 
 **El Reino de los Simios**
 
-## 12 La maravillosa prediccion  del gran ave
+## 12 La maravillosa prediccion del gran ave
 
 abiéndose alimentado a plena satisfacción, los monos y osos se sintieron revitalizados. Hanuman entonces relató a la anciana asceta sobre el exilio del Señor Rama y Su alianza con Sugriva. “Todavía estamos buscando a Sita -dijo Hanuman- por favor muéstranos el
 

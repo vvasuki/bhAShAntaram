@@ -7,9 +7,9 @@ Las notas a pie de página y comentarios al texto, se encuentran basados en la l
 
 Sri Bhakti Pramod Puri Goswami Maharaj \(1995\) Art of Sadhana. Ishodyan, Sri Mayapur, W.B. India: Mandala Publishing.
 
-Sri Bhakti Pramod Puri Goswami Maharaj \(1995\) The Heart of Krishna.  Ishodyan, Sri Mayapur, W.B. India: Mandala Publishing.
+Sri Bhakti Pramod Puri Goswami Maharaj \(1995\) The Heart of Krishna. Ishodyan, Sri Mayapur, W.B. India: Mandala Publishing.
 
-Sri Bhakti Pramod Puri Goswami Maharaj \(2004\) Samadhi.  Ishodyan, Sri Mayapur, W.B. India: Mandala Publishing. www.mandala.org
+Sri Bhakti Pramod Puri Goswami Maharaj \(2004\) Samadhi. Ishodyan, Sri Mayapur, W.B. India: Mandala Publishing. www.mandala.org
 
 Sri Brahma \(1988\) Sri Brahma-samhita \(Srila Bhaktisiddhanta Sarasvati Thakur\) Los Angeles, CA: The Bhaktivedanta Book Trust.
 
@@ -17,7 +17,7 @@ Srila A.C. Bhaktivedanta Swami Prabhupada \(1973\) Raja-Vidya: The King of Knowl
 
 Ranga Puri das, trad.\). Cochabamba, Bolivia: Visva-vaishnava-raj sabha.
 
-Srila B.R. Sridhar Deva Goswami \(1983\) Sri Guru and His Grace. Lumut,  Malay-sia: Sri Chaitanya Mudrani Publications.
+Srila B.R. Sridhar Deva Goswami \(1983\) Sri Guru and His Grace. Lumut, Malay-sia: Sri Chaitanya Mudrani Publications.
 
 Srila Bhaktisiddhanta Sarasvati Thakur \(1955\) Prabhupada Hari-kathamrita.
 
@@ -25,7 +25,7 @@ Mayapur. W.B. India, B. Vilas Tirtha Maharaj
 
 Srila Bhaktivinoda Thakura \(2001\) Jaiva Dharma. \(B.V. Narayana Goswami Ma-641
 
-haraj\) Mathura, U.P. India: Gaudiya Vedanta Publications Srila Jiva Goswami \(1995\) Tattva Sandarbha.  \(Swami B.V. Tripurari\) Eugene, OR: Clarion Call Publishing \(obra original s/XIV\)
+haraj\) Mathura, U.P. India: Gaudiya Vedanta Publications Srila Jiva Goswami \(1995\) Tattva Sandarbha. \(Swami B.V. Tripurari\) Eugene, OR: Clarion Call Publishing \(obra original s/XIV\)
 
 Srila Rupa Goswami \(1970\) Bhakti Rasamrita Sindhu \(Bhaktivedanta Swami Prabhupada\) Los Angeles, CA: The Bhaktivedanta Book Trust
 

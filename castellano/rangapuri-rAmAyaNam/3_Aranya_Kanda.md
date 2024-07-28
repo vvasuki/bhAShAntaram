@@ -44,7 +44,7 @@ abriendo su enorme boca y rugiendo estruendosamente, logrando que la misma tierr
 
 Rama de inmediato cogió su arco y lanzó rápidamente siete flechas deco-
 
-radas con plumas de pavo real. Las flechas, cuyas puntas eran de oro, luego de atravesar el cuerpo del rakshasa,  se hundieron en la tierra. Viradha, tremenda-mente iracundo, dejó a Sita en el suelo para correr furiosamente hacia Rama y Lakshman, quienes atravesaron el cuerpo del demonio con cientos de flechas; sin embargo, debido a una bendición otorgada por el Señor Brahma, Viradha no podía ser muerto por armas. 
+radas con plumas de pavo real. Las flechas, cuyas puntas eran de oro, luego de atravesar el cuerpo del rakshasa, se hundieron en la tierra. Viradha, tremenda-mente iracundo, dejó a Sita en el suelo para correr furiosamente hacia Rama y Lakshman, quienes atravesaron el cuerpo del demonio con cientos de flechas; sin embargo, debido a una bendición otorgada por el Señor Brahma, Viradha no podía ser muerto por armas. 
 
 Dándose cuenta de que los hermanos eran enemigos formidables, Viradha 
 
@@ -66,7 +66,7 @@ Mientras Rama sostenía con sus pies a Viradha \(que estaba tendido en el suelo\
 
 **Aranya Kanda**
 
-no pude reconocerlos antes; y debido a esta mi forma horrible, ustedes no saben quién soy. En mi anterior vida, yo era un gandharva  de nombre Tumburu, habiendo sido maldecido por Kuvera, el Señor de la Riqueza, he asumido esta forma demoníaca. Cuando supliqué misericordia a Kuvera, él me dijo que esta maldición terminaría el día en que Rama, el hijo de Dasarath, me matase. Hoy, por tu misericordia, seré liberado de este cuerpo horrendo y alcanzaré el reino celestial; por favor, arrójenme a ese pozo y entierren mi cuerpo. Después, busquen al gran rishi Sharabhanga, que les dará muy buen consejo.” 
+no pude reconocerlos antes; y debido a esta mi forma horrible, ustedes no saben quién soy. En mi anterior vida, yo era un gandharva de nombre Tumburu, habiendo sido maldecido por Kuvera, el Señor de la Riqueza, he asumido esta forma demoníaca. Cuando supliqué misericordia a Kuvera, él me dijo que esta maldición terminaría el día en que Rama, el hijo de Dasarath, me matase. Hoy, por tu misericordia, seré liberado de este cuerpo horrendo y alcanzaré el reino celestial; por favor, arrójenme a ese pozo y entierren mi cuerpo. Después, busquen al gran rishi Sharabhanga, que les dará muy buen consejo.” 
 
 Rama y Lakshman cogieron al rakshasa, lo arrojaron al pozo y en seguida taparon el pozo con piedras. El demonio abandonó su energía vital y ascendió a los planetas celestiales.2 Sri Rama, luego de abrazar y consolar a la dulce Sita, le dijo a Lakshman que partirían en dirección a la ermita del sabio Sharabhanga, a la que llegaron después de recorrer unos veinte kilómetros. Grande fue su sorpresa al contemplar que, reunidos con el sabio, se encontraban los semidioses, cuyos pies no tocaban el suelo y entre ellos, vieron partir a Indra en su carroza celestial, la cual volaba tirada por mil caballos verdes y brillaba como el sol del mediodía. 
 
@@ -152,7 +152,7 @@ Mi querido Rama, simplemente por llevar un arco en las manos se incrementa el es
 
 Luego de una pausa, Sita, continuó: “¡Oh príncipe\! Se dice que había un veraz y piadoso asceta en algún bosque sagrado donde animales y aves vivían con júbilo; entonces, únicamente para crear obstáculos en sus austeridades, Indra, el señor de Sachi, se disfrazó de soldado y espada en mano, fue a la ermita. Había mantenido aquella excelente espada en los precintos de su propia ermita, hasta que, pidiéndole que la cuidara, se la entregó al sabio, quien había estado hasta aquel momento ocupado en la realización de austeridades sagradas. El sabio recibió el arma y, pensando en resguardarla con el debido celo, se paseaba por el bosque manteniéndola con él. Como siempre llevaba el arma, el asceta comenzó a pensar en cómo podría ser utilizada, después, empezó a sentir cierto placer al usar la espada y de esta manera, comenzó a realizar agresiones de manera inne-cesaria6, por consiguiente se volvió cruel y violento. Se dice que el sabio se volvió negligente; una vez que abandonó sus actividades originales, fue conducido por adharma7 y descendió a los mundos inferiores.” 
 
-Sita, tras un instante de reflexión, prosiguió: “La asociación con armas tiene consecuencias, tal como la asociación con el fuego las tiene. Te digo esto debido al amor y al gran respeto que te tengo, para que consideres el no matar incluso a aquellos rakshasas que no son tus enemigos. La función del arco para un heroico guerrero  \( kshatriya\) auto-restringido es solamente la protección de los que sufren, pues ¿qué conexión existe entre un arma y la vida en el bosque? ¿Qué afinidad se encuentra entre el deber de un kshatriya y el ascetismo? Ambos se contraponen. Respetemos, por ello, las leyes del lugar donde estamos. Por el uso de armas, la mente puede contaminarse. Cuando retornemos a Ayodhya podrás nuevamente seguir tu deber de guerrero y procurar júbilo sin fin a quienes viven allá. Por seguir el dharma se alcanza riqueza y luego placer, el dharma es, en este mundo, su esencia misma. Con una mente piadosa, ¡oh gentil Rama\!, practicas siempre la corrección, hazlo también en el bosque, que es el más adecuado para realizar austeridades. En realidad, todo lo que existe en los tres mundos es verdaderamente de tu conocimiento, lo que dije quizá haya sido dicho con la fri-volidad de una mujer, pues sé bien que todo lo que te dije tú ya lo sabes. ¿Quién podría aspirar a enseñarte el dharma? No obstante, pensando insistentemente en esto, quería hacerte este pedido.” 
+Sita, tras un instante de reflexión, prosiguió: “La asociación con armas tiene consecuencias, tal como la asociación con el fuego las tiene. Te digo esto debido al amor y al gran respeto que te tengo, para que consideres el no matar incluso a aquellos rakshasas que no son tus enemigos. La función del arco para un heroico guerrero \( kshatriya\) auto-restringido es solamente la protección de los que sufren, pues ¿qué conexión existe entre un arma y la vida en el bosque? ¿Qué afinidad se encuentra entre el deber de un kshatriya y el ascetismo? Ambos se contraponen. Respetemos, por ello, las leyes del lugar donde estamos. Por el uso de armas, la mente puede contaminarse. Cuando retornemos a Ayodhya podrás nuevamente seguir tu deber de guerrero y procurar júbilo sin fin a quienes viven allá. Por seguir el dharma se alcanza riqueza y luego placer, el dharma es, en este mundo, su esencia misma. Con una mente piadosa, ¡oh gentil Rama\!, practicas siempre la corrección, hazlo también en el bosque, que es el más adecuado para realizar austeridades. En realidad, todo lo que existe en los tres mundos es verdaderamente de tu conocimiento, lo que dije quizá haya sido dicho con la fri-volidad de una mujer, pues sé bien que todo lo que te dije tú ya lo sabes. ¿Quién podría aspirar a enseñarte el dharma? No obstante, pensando insistentemente en esto, quería hacerte este pedido.” 
 
 6 Esto también fue demostrado en estudios contemporáneos. La agresividad de quien va armado es mayor que la de alguien desarmado. 
 
@@ -262,7 +262,7 @@ De esa manera, habiendo recibido instrucciones, los divinos viajeros se preparar
 
 **El Libro del Bosque**
 
-## 5 La amistad con una gran ave.  El paraiso de Panchavati
+## 5 La amistad con una gran ave. El paraiso de Panchavati
 
 n el camino a Pañchavati, Sita, Rama y Lakshman encontraron a 
 
@@ -304,13 +304,13 @@ Ahora dime, ¿quién eres tú? ¿quién es tu padre y quién es tu esposo? Adem�
 
 tono de broma, observando su espantoso aspecto, Sri Rama añadió- te ves encantadora. Por favor, dime ¿por qué visitas este lugar retirado?”13
 
-“Escucha la pura verdad. ¡Oh el de los ojos de loto\! -respondió la demonia, cautivada por las dulces palabras de Rama-. Yo soy una rakshasi  de nombre Surpanakha. Cazo en este bosque y atemorizo a todo el mundo. Mi hermano se llama Ravana, quizás tú hayas escuchado hablar acerca de su fama. Mi otro hermano, quien duerme en exceso, se llama Kumbhakarna. Mi tercer hermano es Vibhishan, pero él es piadoso y no tiene las características de un rakshasa.  Mis hermanos, Khara y Dushana, el cuarto y el quinto, son famosos por su valor en el campo de batalla. Aunque mis hermanos son poderosos, yo sobrepaso el poder de todos. Ahora que te he encontrado, deseo ser tu esposa. Soy tan poderosa que puedo cambiar mi forma para satisfacer tus deseos. Por favor, conviértete en mi esposo. ¿Qué esperas de Sita como mujer? ella es fea y no te merece, sólo yo podría ser la compañera adecuada para ti.14 Por favor, mírame como tu esposa. 
+“Escucha la pura verdad. ¡Oh el de los ojos de loto\! -respondió la demonia, cautivada por las dulces palabras de Rama-. Yo soy una rakshasi de nombre Surpanakha. Cazo en este bosque y atemorizo a todo el mundo. Mi hermano se llama Ravana, quizás tú hayas escuchado hablar acerca de su fama. Mi otro hermano, quien duerme en exceso, se llama Kumbhakarna. Mi tercer hermano es Vibhishan, pero él es piadoso y no tiene las características de un rakshasa. Mis hermanos, Khara y Dushana, el cuarto y el quinto, son famosos por su valor en el campo de batalla. Aunque mis hermanos son poderosos, yo sobrepaso el poder de todos. Ahora que te he encontrado, deseo ser tu esposa. Soy tan poderosa que puedo cambiar mi forma para satisfacer tus deseos. Por favor, conviértete en mi esposo. ¿Qué esperas de Sita como mujer? ella es fea y no te merece, sólo yo podría ser la compañera adecuada para ti.14 Por favor, mírame como tu esposa. 
 
 Devoraré a tu hermano y a esta horrible y vil mujer que tiene la barriga hundida, y después nos divertiremos juntos en el bosque”. 
 
 A Rama se le escapó una carcajada ante la propuesta, pero siguió el jue-go, hablando con una sonrisa: “Pero yo ya estoy casado, y para damas como tú, la presencia de una esposa adicional es de lo más triste. Afortunadamente, mi hermano menor Lakshman no tiene una esposa aquí. Él es buen mozo, glorioso y valiente, y si busca una esposa, tú serías un gran partido. Por consiguiente, ¡oh encantadora mujer de grandes ojos\!, acepta a mi hermano Lakshman”. 
 
-Alejándose de Ramachandra, la rakshasi  se acercó a Lakshman, repentinamente quedó prendada de él y le dijo: “Mi querido y heroico príncipe, puesto que soy hermosa, yo podría ser una esposa digna para ti, y dado que eres muy atractivo, juntos seremos muy felices en el bosque de Dandakaranya.” 
+Alejándose de Ramachandra, la rakshasi se acercó a Lakshman, repentinamente quedó prendada de él y le dijo: “Mi querido y heroico príncipe, puesto que soy hermosa, yo podría ser una esposa digna para ti, y dado que eres muy atractivo, juntos seremos muy felices en el bosque de Dandakaranya.” 
 
 “¿Por qué quieres volverte una sirvienta, juntándote a un esclavo? -contestó Lakshman-. Alguien tan bella como tú debería ser la esposa de Sri Rama en persona. Con toda seguridad, Él abandonaría a esa horripilante mujer avejentada para aceptarte a ti a cambio de ella.” 
 
@@ -368,7 +368,7 @@ mi familia. Dime quién te ha hecho esto y en este mismo día le arrancaré la c
 
 Khara no podía contener su furia y estaba determinado acabar con Rama, 
 
-sin embargo fue disuadido por sus camaradas que le dijeron que era indigno de su poder actuar personalmente, ante lo cual llamó a catorce rakshasas y les ordenó: “Dos seres humanos vestidos como ascetas, con signos de  kshatriyas, residen en el bosque de Dandakaranya. Inmediatamente, vayan a su choza y mátenlos sin piedad, ellos y su compañera merecen morir por la osadía de haber desfigurado a mi querida hermana.” 
+sin embargo fue disuadido por sus camaradas que le dijeron que era indigno de su poder actuar personalmente, ante lo cual llamó a catorce rakshasas y les ordenó: “Dos seres humanos vestidos como ascetas, con signos de kshatriyas, residen en el bosque de Dandakaranya. Inmediatamente, vayan a su choza y mátenlos sin piedad, ellos y su compañera merecen morir por la osadía de haber desfigurado a mi querida hermana.” 
 
 Los catorce rakshasas siguieron velozmente a Surpanakha hasta la choza de Rama. Al ver a los demonios rodeando la choza, Sri Rama le dijo a Lakshman: 
 
@@ -386,7 +386,7 @@ catorce flechas tan resplandecientes como el Sol y afiladas como navajas, que de
 
 **El Libro del Bosque**
 
-Presenciando la rápida muerte de los rakshasas, Surpanakha regresó en seguida para contárselo a Khara, quien estallando de ira, inmediatamente instó a su hermano Dushana a que se uniera a él y ordenó a sus generales que preparasen un ejército de catorce mil  rakshasas. Cuando todo estuvo listo, Khara se montó en una carroza dorada y condujo a su ejército fuera del bosque de Janasthan. 
+Presenciando la rápida muerte de los rakshasas, Surpanakha regresó en seguida para contárselo a Khara, quien estallando de ira, inmediatamente instó a su hermano Dushana a que se uniera a él y ordenó a sus generales que preparasen un ejército de catorce mil rakshasas. Cuando todo estuvo listo, Khara se montó en una carroza dorada y condujo a su ejército fuera del bosque de Janasthan. 
 
 A medida que marchaban hacia la choza del Señor Ramachandra, presen-
 
@@ -430,7 +430,7 @@ rodearon la cabaña, Sri Rama apareció resplandeciente, tal como
 
 el Sol se adentra entre oscuras nubes, y estiró la cuerda de su arco 
 
-y la soltó produciendo un sonido tan escalofriante que los rakshasas  temblaron. 
+y la soltó produciendo un sonido tan escalofriante que los rakshasas temblaron. 
 
 Khara de inmediato llevó su carroza adelante, encabezando al ejército de rakshasas y disparó mil flechas contra Rama. Siguiendo a su líder, miles de demonios armados con garrotes, lanzas de hierro, mazos con púas, espadas y hachas, com-batieron contra Rama. Sin embargo, fueron vanos todos los intentos, Rama no fue afectado en lo más mínimo. 
 
@@ -494,9 +494,9 @@ Después de fanfarronear en voz alta, el rakshasa Khara arrojó rápidamente su 
 
 Enfurecido por las flechas, y con los puños en alto, Khara se abalanzó contra Rama. Alcanzando su aljaba, Sri Rama tomó una flecha con punta de oro, -un regalo del gran sabio Agastya Muni- y la disparó. La flecha pasó cual meteoro de luz perforando el pecho del demonio. Khara, que se tambaleó hacia atrás cual si hubiera sido fulminado por un rayo, y cayó muerto. 
 
-Así, Ramachandra, la fuente del placer y el destructor de los oponentes de la virtud, mató a Khara y a sus catorce mil rakshasas.  Complacidos, los semidioses hicieron llover flores del cielo; por su parte, gandharvas y vidyadharas tocaron instrumentos musicales y cantaron. A medida que danzaban las apsaras, los cielos resonaron glorificando al Absoluto Supremo. 
+Así, Ramachandra, la fuente del placer y el destructor de los oponentes de la virtud, mató a Khara y a sus catorce mil rakshasas. Complacidos, los semidioses hicieron llover flores del cielo; por su parte, gandharvas y vidyadharas tocaron instrumentos musicales y cantaron. A medida que danzaban las apsaras, los cielos resonaron glorificando al Absoluto Supremo. 
 
-Grandes rishis,  encabezados por Agastya, aparecieron ante Rama para re-velarle que le habían aconsejado residir en ese lugar, justamente para que ani-quilare a los rakshasas que los atormentaban. Regocijados, bendijeron al guerrero, mientras tanto Lakshman trajo a Sita de retorno; ella había presenciado el valor de Sri Rama y al verlo corrió para abrazarlo con afecto trascendental. 
+Grandes rishis, encabezados por Agastya, aparecieron ante Rama para re-velarle que le habían aconsejado residir en ese lugar, justamente para que ani-quilare a los rakshasas que los atormentaban. Regocijados, bendijeron al guerrero, mientras tanto Lakshman trajo a Sita de retorno; ella había presenciado el valor de Sri Rama y al verlo corrió para abrazarlo con afecto trascendental. 
 
 Lakshman se unió entusiasta a felicitar a su hermano. 
 
@@ -504,7 +504,7 @@ Lakshman se unió entusiasta a felicitar a su hermano.
 
 **El Libro del Bosque**
 
-## 8 El gran demonio se anoticia  sobre la masacre de los rakshasas
+## 8 El gran demonio se anoticia sobre la masacre de los rakshasas
 
 ientras tanto un rakshasa de nombre Akampana, -quien había es-
 
@@ -548,11 +548,11 @@ Ravana envió a buscar su extraordinario carruaje aéreo y montado en él, cruz�
 
 **El Libro del Bosque**
 
-por Khara y Dushana, en tan sólo una hora, han sido muertos por Ramachandra, un hijo de Dasarath, quien, utilizando únicamente su arco y flechas ha matado a catorce mil rakshasas.  A pesar de estar exiliado en el bosque con su hermano Lakshman y con su esposa Sita, ese guerrero se las arregló para aniquilar a tan poderoso ejército. Mi plan es raptar por la fuerza a Sita y para ello necesito tu ayuda. Si lo haces, tendré éxito.” 
+por Khara y Dushana, en tan sólo una hora, han sido muertos por Ramachandra, un hijo de Dasarath, quien, utilizando únicamente su arco y flechas ha matado a catorce mil rakshasas. A pesar de estar exiliado en el bosque con su hermano Lakshman y con su esposa Sita, ese guerrero se las arregló para aniquilar a tan poderoso ejército. Mi plan es raptar por la fuerza a Sita y para ello necesito tu ayuda. Si lo haces, tendré éxito.” 
 
 Aunque Maricha era un demonio, conocía bien acerca del poder de Rama. 
 
-Después de escuchar el nombre de Ramachandra, Maricha miró con asombro a Ravana. Entonces, con el miedo aflorando en su rostro y con la mente abatida, juntó sus palmas y le dijo: “¡Oh Ravana\! Por tu propio bien y por el de los otros rakshasas, voy a darte un consejo. Obviamente no tienes idea acerca de la verdadera fuerza de Rama. Si él en verdad se enfureciera, podría en breve deshacerse de todos los rakshasas  del mundo entero. Ten por seguro que quién te sugirió raptar a su esposa es tu principal enemigo. Pues por robar a Sita, tan sólo obtendrías tu propia muerte. Tú no debes secuestrarla, ¡Oh de ninguna manera\!, hacerlo es como jugar con fuego. Si alguna vez combatieras con Ramachandra, sin duda morirías. 
+Después de escuchar el nombre de Ramachandra, Maricha miró con asombro a Ravana. Entonces, con el miedo aflorando en su rostro y con la mente abatida, juntó sus palmas y le dijo: “¡Oh Ravana\! Por tu propio bien y por el de los otros rakshasas, voy a darte un consejo. Obviamente no tienes idea acerca de la verdadera fuerza de Rama. Si él en verdad se enfureciera, podría en breve deshacerse de todos los rakshasas del mundo entero. Ten por seguro que quién te sugirió raptar a su esposa es tu principal enemigo. Pues por robar a Sita, tan sólo obtendrías tu propia muerte. Tú no debes secuestrarla, ¡Oh de ninguna manera\!, hacerlo es como jugar con fuego. Si alguna vez combatieras con Ramachandra, sin duda morirías. 
 
 Si quieres disfrutar de una vida larga y de tu grandemente estimado reino, ten sensatez y no ofendas a Rama. No oses jamás en despertar de su sueño a ese tigre entre los hombres; pues, provocarlo es como lanzarse a un pozo infestado de feroces cocodrilos. Deja a Rama con su esposa y disfruta tú con tus muchas esposas en la confortable Lanka. ¡Oh Señor de Lanka y gobernante de los ogros\!, retorna a Lanka y disfruta.” Persuadido de esa manera, Ravana regresó en su carroza a su excelente morada. 
 
@@ -560,7 +560,7 @@ Si quieres disfrutar de una vida larga y de tu grandemente estimado reino, ten s
 
 **Aranya Kanda**
 
-## 9 El temible demonio  es provocado
+## 9 El temible demonio es provocado
 
 l temible Ravana tenía diez cabezas, veinte brazos, su cuerpo lle-
 
@@ -582,11 +582,11 @@ Mucho tiempo atrás, Ravana había ofrecido en sacrificio sus diez cabezas a Bra
 
 **El Libro del Bosque**
 
-La rakshasi  Surpanakha llegó a Lanka, la ciudad donde estaba el palacio de Ravana. Cuando ella llegó, vio a su célebre hermano sentado en su trono dorado, en la cima de su palacio de siete pisos. Surpanakha trastornada por la calamidad ocurrida en el bosque de Janasthan, e indignada al ver a su hermano sentado en medio de una atmósfera de complacencia, se dirigió a él con sorna: “Siendo li-bertino y entregado al disfrute sensorial, has perdido las riendas y eres incapaz de ver el peligro que se avecina -exclamó ella-. La gente no estima a un monarca caprichoso y apegado a la lujuria. Un rey que no atiende personalmente los conflictos, sin duda irá a la ruina junto con todo su reino. ¿Al menos te enteraste que catorce mil rakshasas, encabezados por nuestros hermanos Khara y Dushana, han sido muertos en el lapso de una hora por las flechas de Rama, el hijo de Dasarath? 
+La rakshasi Surpanakha llegó a Lanka, la ciudad donde estaba el palacio de Ravana. Cuando ella llegó, vio a su célebre hermano sentado en su trono dorado, en la cima de su palacio de siete pisos. Surpanakha trastornada por la calamidad ocurrida en el bosque de Janasthan, e indignada al ver a su hermano sentado en medio de una atmósfera de complacencia, se dirigió a él con sorna: “Siendo li-bertino y entregado al disfrute sensorial, has perdido las riendas y eres incapaz de ver el peligro que se avecina -exclamó ella-. La gente no estima a un monarca caprichoso y apegado a la lujuria. Un rey que no atiende personalmente los conflictos, sin duda irá a la ruina junto con todo su reino. ¿Al menos te enteraste que catorce mil rakshasas, encabezados por nuestros hermanos Khara y Dushana, han sido muertos en el lapso de una hora por las flechas de Rama, el hijo de Dasarath? 
 
 Debieras saber que aquellos gobernantes que se ponen al corriente de los acontecimientos, incluso a gran distancia, tienen una visión de largo alcance. 
 
-Por si fuera poco, ese territorio nuestro está devastado y los rishis  celebrando, 
+Por si fuera poco, ese territorio nuestro está devastado y los rishis celebrando, 
 
 ¡pues claro\!, ahora tienen aseguradas sus ceremonias que incrementan su poder y el de los semidioses en el propio Janasthan. ¿Cómo puedes estar tan tranquilo mientras tu propio territorio te es arrebatado y los tuyos son masacrados? 
 
@@ -600,7 +600,7 @@ Surpanakha respondió: “Ramachandra tiene brazos largos y ojos de loto, su asp
 
 **Aranya Kanda**
 
-piel de antílope. Su cabello está ahora atado como el de un anacoreta. Su arco es tan refulgente como un arco iris y cuando lo estira a su plena capacidad, dispara flechas de oro que parecen serpientes venenosas, las suelta tan rápido que es imposible diferenciar si está halando la cuerda del arco, o si está disparando una flecha. Eliminó al ejército íntegro de los rakshasas  en Janasthan con una lluvia de flechas. Él está provisto de una fuerza tan excepcional que, sin mayores esfuerzos, ha vencido incluso a Khara y a Dushana. Sin duda, Él podría desviar la corriente de un río, o hacer descender las estrellas y los planetas de los cielos. 
+piel de antílope. Su cabello está ahora atado como el de un anacoreta. Su arco es tan refulgente como un arco iris y cuando lo estira a su plena capacidad, dispara flechas de oro que parecen serpientes venenosas, las suelta tan rápido que es imposible diferenciar si está halando la cuerda del arco, o si está disparando una flecha. Eliminó al ejército íntegro de los rakshasas en Janasthan con una lluvia de flechas. Él está provisto de una fuerza tan excepcional que, sin mayores esfuerzos, ha vencido incluso a Khara y a Dushana. Sin duda, Él podría desviar la corriente de un río, o hacer descender las estrellas y los planetas de los cielos. 
 
 Después de atestiguar su valor, creo que nadie puede derrotarlo, ni los semidioses, ni los seres humanos, ni siquiera los rakshasas encabezados por ti mismo.” 
 
@@ -612,7 +612,7 @@ Con Rama está la mujer más hermosa de la creación: su esposa Sita. Ella tiene
 
 Ahora está en la flor de su juventud y es la joya más valiosa entre las mujeres. 
 
-Ninguna diosa, ninfa celestial,  gandharvi, o naga podría igualarse a ella en belleza. Adornada ricamente con joyas, ella sin duda podría ser una consorte digna de ti. Yo la hubiese traído a tu lado, pero, el cruel Lakshman, me mutiló. Puesto que Sita es la vida y alma de Rama, Él no podría sobrevivir si tú la secuestrases. 
+Ninguna diosa, ninfa celestial, gandharvi, o naga podría igualarse a ella en belleza. Adornada ricamente con joyas, ella sin duda podría ser una consorte digna de ti. Yo la hubiese traído a tu lado, pero, el cruel Lakshman, me mutiló. Puesto que Sita es la vida y alma de Rama, Él no podría sobrevivir si tú la secuestrases. 
 
 Debes realizar tu deber hoy mismo.” 
 
@@ -692,7 +692,7 @@ bierto con motas plateadas. Sus astas eran tan brillantes como zafiros, y su nar
 
 ita se encontraba colectando flores en un bosquecillo de manga-
 
-les, ashokas y  karnikaras,  cuando un venado encantador se acercó. Los demás venados, movidos por su instinto, huyeron en es-
+les, ashokas y karnikaras, cuando un venado encantador se acercó. Los demás venados, movidos por su instinto, huyeron en es-
 
 tampida, y el ruido atrajo la atención de Sita quien, dirigiéndose a 
 
@@ -722,7 +722,7 @@ Entonces, el animal recobró su verdadera forma del gigantesco rakshasa.
 
 Maricha, mientras yacía moribundo, recordó la instrucción de Ravana y con una voz idéntica a la de Rama, exclamó con una potente voz que surcó los cielos: “¡Oh Sita\! ¡Oh Lakshman\!” 
 
-Rama, preocupado por el efecto de las palabras del rakshasa¸  rápidamente  
+Rama, preocupado por el efecto de las palabras del rakshasa¸ rápidamente 
 
 emprendió el retorno. Sita estaba convencida sin lugar a dudas de que el grito de Maricha era el de su esposo y, dominada por la angustia, le dijo a Lakshman: “Por favor, anda y ve si le ha ocurrido algún daño a Rama. Acabo de escuchar un grito suyo pidiendo ayuda, cual si estuviese en un terrible peligro. Estoy segura que ha caído en manos de los rakshasas. ¡Ve de inmediato y rescátalo\!” 
 
@@ -734,7 +734,7 @@ Lakshman, recordando las palabras de su hermano mayor, permaneció fijo, cumplie
 
 “¡Oh princesa de Mithila\! -respondió Lakshman- nadie puede matar a tu 
 
-esposo. No puedes acusarme así. Yo no me atrevo a dejarte sola en el bosque. Ten por seguro que el venado está muerto y que Rama volverá muy pronto. Esa voz era una artimaña del rakshasa para confundirnos y para que me separe de ti. A raíz de que Sri Rama mató a todos esos rakshasas  en Janasthan, se hizo de muchos enemigos. Por favor no te preocupes, pues sabemos que éste es un truco del demonio.” 
+esposo. No puedes acusarme así. Yo no me atrevo a dejarte sola en el bosque. Ten por seguro que el venado está muerto y que Rama volverá muy pronto. Esa voz era una artimaña del rakshasa para confundirnos y para que me separe de ti. A raíz de que Sri Rama mató a todos esos rakshasas en Janasthan, se hizo de muchos enemigos. Por favor no te preocupes, pues sabemos que éste es un truco del demonio.” 
 
 Sita, desoyendo las palabras de Lakshman, rabiosa, sentenció: “¡Eres una desgracia para nuestra dinastía\! Yo creo que tú estás disfrutando de la difícil situación en que se encuentra Rama y tan sólo nos seguiste por motivos impuros. 
 
@@ -786,7 +786,7 @@ Sin embargo, Ravana, al ver la deslumbrante belleza de Sita, quedó aturdi-24 Es
 
 do, tan impresionado, que a pesar de sus vestimentas santas, sin poder esconder su lujuria, exclamó: “Mi querida y hermosa dama, te asemejas a la diosa de la fortuna en persona. Tus ojos son como alargados pétalos de flor de loto, tu sonrisa encantadora y tu forma placentera han robado mi corazón. Ah, tu cintura no es más grande que mi puño, tus pechos son plenos, tus caderas son amplias y las hileras de tus dientes blancos se asemejan a los jazmines, tus oscuros ojos brillan intensos, cual abejorros en tu hermoso rostro de loto. Con plena certeza, que ninguna mujer en los cielos, puede compararse a ti. 
 
-¿Quién eres tú, adorable dama? ¿Quizás Hri, la diosa de la modestia? ¿Kirti la diosa de la fama? ¿O Bhuti la diosa de los poderes místicos? ¿Serás acaso la diosa del amor Rati, o Lakshmi, la misma diosa de la fortuna? ¿Por qué una hermosa criatura como tú, está viviendo en este bosque infestado de  rakshasas? 
+¿Quién eres tú, adorable dama? ¿Quizás Hri, la diosa de la modestia? ¿Kirti la diosa de la fama? ¿O Bhuti la diosa de los poderes místicos? ¿Serás acaso la diosa del amor Rati, o Lakshmi, la misma diosa de la fortuna? ¿Por qué una hermosa criatura como tú, está viviendo en este bosque infestado de rakshasas? 
 
 Por tu propio bien debieras buscar algún refugio. Tú mereces estar en un palacio real, vestida con las más finas sedas y luciendo las joyas más preciosas, rodeada de sirvientes. Sin dudarlo, debieras escoger un esposo adecuado y salir de esta jungla.” 
 
@@ -850,7 +850,7 @@ za, imitando la apariencia de un devoto de Vishnu, un vaishnava. En una mano lle
 
 **El Libro del Bosque**
 
-## 13 El viejo Jatayu intenta  impedir el rapto
+## 13 El viejo Jatayu intenta impedir el rapto
 
 resa del pánico, Sita empezó a preguntarse dónde estaba su ama-
 
@@ -1092,7 +1092,7 @@ punta de oro.”
 
 Sosteniendo una flecha que tenía la forma de la lengua de una 
 
-serpiente, la puso en su arco; pero antes que la libere, el pájaro moribundo alcanzó a decir: “\!Detente\!, \!oh Rama\! Soy Jatayu, el Rey de las Aves y un amigo de tu padre; inmediatamente, Rama prestó atención exhortado por la memoria de su padre. “Tu divina Sita ha sido raptada por Ravana, el rey rakshasa de diez cabezas. Cuando tú y Lakshman dejaron la choza, Ravana se la llevó por la fuerza. Escuchando sus gritos, ataqué inmediatamente al rakshasa. Durante la lucha quebré su arco, destrocé su carroza, maté a sus borricos y le arranqué su armadura; ¡No me mates Rama\!, pues ya él cuando me vio, al verme exhausto, cortó mis alas con su espada y en breve perderé la vida. Después de luchar, gracias a sus poderes místicos el impío rakshasa  ascendió por el aire, llevándose a Sita con él hacia el Sur.” 
+serpiente, la puso en su arco; pero antes que la libere, el pájaro moribundo alcanzó a decir: “\!Detente\!, \!oh Rama\! Soy Jatayu, el Rey de las Aves y un amigo de tu padre; inmediatamente, Rama prestó atención exhortado por la memoria de su padre. “Tu divina Sita ha sido raptada por Ravana, el rey rakshasa de diez cabezas. Cuando tú y Lakshman dejaron la choza, Ravana se la llevó por la fuerza. Escuchando sus gritos, ataqué inmediatamente al rakshasa. Durante la lucha quebré su arco, destrocé su carroza, maté a sus borricos y le arranqué su armadura; ¡No me mates Rama\!, pues ya él cuando me vio, al verme exhausto, cortó mis alas con su espada y en breve perderé la vida. Después de luchar, gracias a sus poderes místicos el impío rakshasa ascendió por el aire, llevándose a Sita con él hacia el Sur.” 
 
 332
 
@@ -1198,7 +1198,7 @@ Ahora, este ogro amenaza terminar con nuestras vidas.”
 
 Mirando a los dos hermanos con su enorme ojo, Kabandha dijo: “Su tiempo ha llegado a su fin ya que ahora están destinados a convertirse en mi alimento. 
 
-No obstante, es indigno para los kshatriyas  como ustedes sucumbir cobardemente. ¿Por qué no pelean?” 
+No obstante, es indigno para los kshatriyas como ustedes sucumbir cobardemente. ¿Por qué no pelean?” 
 
 Percibiendo las intenciones del rakshasa, Lakshman le dijo a Rama: “Aunque nosotros no hemos atacado a este vil demonio, él nos ha capturado, entonces cortemos sus inmensos brazos.” 
 
@@ -1210,7 +1210,7 @@ brazos provocando una estrepitosa caída del demonio, que hizo estremecer la tie
 
 “Él es Sri Rama, el hijo del rey Dasarath, de la dinastía Ikshvaku -respondió Lakshman- yo soy su hermano menor, me llamo Lakshman. Sri Rama ha sido exiliado al bosque por su madrastra, orden que cumplió acompañado por su inseparable esposa Sita, pero un demonio llamado Ravana, lo distrajo y la raptó a ella aprovechando que se encontraba indefensa. Por ello estamos deambulando de bosque en bosque en búsqueda de esa noble princesa. Ahora que ya sabes algo de nosotros, dinos pues ¿quién eres tú y cómo llegaste a tener tan temible forma?” 
 
-Kabandha, regocijado al escuchar el nombre de Rama, cambió radicalmente de actitud, entonces exclamó: “Bienvenidos, ¡Oh tigres entre los hombres\! ¡Qué maravillosa es mi suerte ya que puedo contemplarlos\! Oh príncipes, yo tenía un cuerpo muy hermoso, semejante al del semidiós del Sol, o al de Indra, el Rey del Cielo; pero en una infausta ocasión, cometí una ofensa, en forma de una broma de mal gusto hecha a un gran sabio, a consecuencia de lo cual fui condenado a asumir esta horrible forma de rakshasa y comencé a deambular por el bosque rugiendo como una fiera. Por enfurecer al poderoso sabio, sufro el castigo de permanecer bajo la forma de un horrendo demonio sin poder   recuperar mi forma original. No obstante, puesto que los sabios son magnánimos, cuando supliqué su perdón pregunté humildemente al sabio cuánto tiempo duraría esta maldición, él me bendijo afirmando que yo quedaría libre el momento en que Sri Rama y Lakshman cortaran mis brazos y quemaran mi cuerpo.” 
+Kabandha, regocijado al escuchar el nombre de Rama, cambió radicalmente de actitud, entonces exclamó: “Bienvenidos, ¡Oh tigres entre los hombres\! ¡Qué maravillosa es mi suerte ya que puedo contemplarlos\! Oh príncipes, yo tenía un cuerpo muy hermoso, semejante al del semidiós del Sol, o al de Indra, el Rey del Cielo; pero en una infausta ocasión, cometí una ofensa, en forma de una broma de mal gusto hecha a un gran sabio, a consecuencia de lo cual fui condenado a asumir esta horrible forma de rakshasa y comencé a deambular por el bosque rugiendo como una fiera. Por enfurecer al poderoso sabio, sufro el castigo de permanecer bajo la forma de un horrendo demonio sin poder  recuperar mi forma original. No obstante, puesto que los sabios son magnánimos, cuando supliqué su perdón pregunté humildemente al sabio cuánto tiempo duraría esta maldición, él me bendijo afirmando que yo quedaría libre el momento en que Sri Rama y Lakshman cortaran mis brazos y quemaran mi cuerpo.” 
 
 “Entonces yo adoré al Señor Brahma, quien me bendijo con una larga vida. 
 
@@ -1220,7 +1220,7 @@ De inmediato Lakshman juntó leña y construyó una pira funeraria. El raks-338
 
 **El Libro del Bosque**
 
-hasa  fue entonces colocado sobre los leños, se encendió el fuego y su cuerpo fue incinerado. Cuando Kabandha fue aliviado de esa horripilante forma, recobró su bello cuerpo anterior adornado con ornamentos de oro que brillaban con gran resplandor. Levitando, Kabandha se dirigió al Señor Rama:
+hasa fue entonces colocado sobre los leños, se encendió el fuego y su cuerpo fue incinerado. Cuando Kabandha fue aliviado de esa horripilante forma, recobró su bello cuerpo anterior adornado con ornamentos de oro que brillaban con gran resplandor. Levitando, Kabandha se dirigió al Señor Rama:
 
 “Escucha, ¡Oh descendiente de Raghu\!, te diré cómo recobrar a Sita, la 
 
@@ -1238,7 +1238,7 @@ ción al poniente, siguiendo la ruta que Kabandha les había aconsejado.
 
 **Aranya Kanda**
 
-## 18 La liberacion de Shabari,  la mujer asceta
+## 18 La liberacion de Shabari, la mujer asceta
 
 espués de viajar por colinas, a través de bosques, cruzando ríos y 
 
@@ -1250,7 +1250,7 @@ moso, lleno de flores de loto y azucenas de agua; estaba habitado
 
 por cisnes, grullas y pavos reales. 
 
-El lago estaba rodeado por arbustos floridos y árboles frutales como el mango y el jackfruit.  Venados, elefantes, tigres y muchos otros animales salvajes vivían alrededor del lago. Más allá de los árboles, los hermanos pudieron apre-ciar la montaña de Rishyamuka, tal cual Kabandha la había descrito. 
+El lago estaba rodeado por arbustos floridos y árboles frutales como el mango y el jackfruit. Venados, elefantes, tigres y muchos otros animales salvajes vivían alrededor del lago. Más allá de los árboles, los hermanos pudieron apre-ciar la montaña de Rishyamuka, tal cual Kabandha la había descrito. 
 
 Cuando llegaron al extremo occidental del lago, encontraron la ermita donde habitaba Shabari, la mujer asceta. Desde hace muchos años ella había escuchado de parte de su venerable maestro espiritual, Matanga Maharaj, que Shabari tendría la oportunidad de ver y servir a Sri Rama; desde ese entonces, a diario, ella hacia preparativos esperando ansiosa su arribo. Diligentemente, cuando ella vio que se aproximaban, reconoció a Sri Rama. Se levantó con gran entusiasmo y, tomando los pies de Rama, e incluso los de Lakshman, se postró ante ellos, 340
 

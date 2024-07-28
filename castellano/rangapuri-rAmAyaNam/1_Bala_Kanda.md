@@ -15,7 +15,7 @@ title = "1 Bala Kanda"
 
 
 
-## 1 El sabio Narada, narra la  historia de Rama a Valmiki
+## 1 El sabio Narada, narra la historia de Rama a Valmiki
 
 
 
@@ -155,7 +155,7 @@ Así, Valmiki empezó a componer, en esa métrica, los miles de versos que compo
 
 
 
-## 3 El Ramayana es cantado  ante Sri Rama
+## 3 El Ramayana es cantado ante Sri Rama
 
 al como Brahma había predicho, Valmiki, en profundo trance, al 
 
@@ -205,7 +205,7 @@ En medio de una audiencia virtuosa, que se aprestaba a escuchar con gran atenci�
 
 
 
-## 4 Comienza la narracion  describiendo la Ciudad Invencible
+## 4 Comienza la narracion describiendo la Ciudad Invencible
 
 “
 
@@ -277,7 +277,7 @@ En asuntos de administración, el rey Dasarath era servido por ocho minis-tros28
 
 
 
-## 5 Shanta, la hija del rey  Dasarath y la tentacion 
+## 5 Shanta, la hija del rey Dasarath y la tentacion 
 
 **del joven anacoreta**
 
@@ -345,7 +345,7 @@ Regocijado con estas palabras, el rey Dasarath, partió junto con sus reinas y m
 
 
 
-## 6 Una formidable ceremonia para  perpetuar la dinastia
+## 6 Una formidable ceremonia para perpetuar la dinastia
 
 “
 
@@ -429,7 +429,7 @@ A medida que la ceremonia se realizaba, ante la mirada asombrada de los presente
 
 
 
-## 7 Se reúnen los Semidioses. Aparece un  Ser extraordinario
+## 7 Se reúnen los Semidioses. Aparece un Ser extraordinario
 
 “
 
@@ -547,7 +547,7 @@ Los simios, a su vez, procrearon hijos que se convirtieron en capitanes de legio
 
 
 
-## 9 El advenimiento de Sri Rama y  sus hermanos trascendentales
+## 9 El advenimiento de Sri Rama y sus hermanos trascendentales
 
 abiendo tomado lo que les correspondía de la ceremonia, los semi-
 
@@ -687,7 +687,7 @@ El planeta entero retumbó con las palabras del sabio y el temor se apoderó de 
 
 
 
-## 11 Los Principes son iniciados con  mantras sagrados
+## 11 Los Principes son iniciados con mantras sagrados
 
 iendo al mundo entero alarmado, el prudente sabio Vasishtha ofre-
 
@@ -799,7 +799,7 @@ aliviar el cansancio de su reverenciado guru
 
 
 
-## 12 La muerte de Tataka y de  otros demonios
+## 12 La muerte de Tataka y de otros demonios
 
 l arribar a la orilla sur, llegaron a un denso bosque el cual estaba 
 
@@ -877,7 +877,7 @@ Debido a la presencia del sabio y de los príncipes, el bosque se volvió un her
 
 
 
-## 13 Las enseñanzas en el hermoso  templo de Siddhashram
+## 13 Las enseñanzas en el hermoso templo de Siddhashram
 
 espués de pasar la noche en el bosque, a la mañana siguiente, el 
 
@@ -957,7 +957,7 @@ La llegada de los príncipes y del sabio Vishvamitra, fue motivo de regocijo par
 
 
 
-## 14 El ataque de los  monstruosos Rakshasas
+## 14 El ataque de los monstruosos Rakshasas
 
 l día siguiente, después de realizar sus purificaciones matutinas, *67* 
 
@@ -1019,7 +1019,7 @@ Después de las meditaciones del atardecer junto a su *guru, * deleitados con un
 
 
 
-## 15 La narracion sobre las bellas  muchachas castas
+## 15 La narracion sobre las bellas muchachas castas
 
 quella noche Rama y Lakshman, habiendo cumplido su misión, re-
 
@@ -1079,7 +1079,7 @@ Siendo de conciencia pura, las límpidas damas obedecieron y se mantuvieron por 
 
 
 
-## 16 Historia de la Via Lactea,  de Parvati y de la progenie de Shiva
+## 16 Historia de la Via Lactea, de Parvati y de la progenie de Shiva
 
 la mañana siguiente, Vishvamitra despertó a Sri Rama diciéndo-
 
@@ -1143,7 +1143,7 @@ Tierra confiere virtudes tan sólo al escucharlo o recitarlo, ahora voy a contar
 
 
 
-## 17 El impetuoso descenso de  Ganga a la Tierra
+## 17 El impetuoso descenso de Ganga a la Tierra
 
 l sabio comenzó a narrar el relato anunciado: “Sagar era un anti-
 
@@ -1195,7 +1195,7 @@ Perturbado por el alboroto provocado por los insolentes, el Señor, enfurecido, 
 
 
 
-## 18 Bhagirath propicia la gracia  de los Semidioses
+## 18 Bhagirath propicia la gracia de los Semidioses
 
 ishvamitra continuó: “En tanto el rey Sagar, que esperaba vana-
 
@@ -1261,7 +1261,7 @@ Aquél que escuche esta historia bendita con devoción, será limpio de sus peca
 
 
 
-## 19 La historia de la aparicion de las  Encarnaciones Divinas
+## 19 La historia de la aparicion de las Encarnaciones Divinas
 
 abiendo escuchado atentamente esa maravillosa narración, Sri 
 
@@ -1305,7 +1305,7 @@ Cuando finalmente apareció el néctar de la inmortalidad, se desató una temibl
 
 
 
-## 20 La caida de un semidios y la  liberacion de Ahalya
+## 20 La caida de un semidios y la liberacion de Ahalya
 
 ishvamitra continuó con su relato: “Desconsolada por la muerte 
 
@@ -1365,7 +1365,7 @@ brante figura de Ahalya, quien con su devoción exaltada procuró aferrar-se a l
 
 
 
-## 21 En el reino de Janak se cuenta la  historia de los palacios en el bosque
+## 21 En el reino de Janak se cuenta la historia de los palacios en el bosque
 
 os célebres viajeros llegaron a Mithila, la capital del gran rey Ja-
 
@@ -1427,7 +1427,7 @@ A continuación se presentaron talentosos espectáculos de danza y música a ple
 
 **espiritual brahmánica**
 
-onriendo, Vasishtha presentó a una hermosa vaca kamadhenu101,  
+onriendo, Vasishtha presentó a una hermosa vaca kamadhenu101, 
 
 que originalmente vive en los planetas celestiales y tiene la virtud 
 
@@ -1487,9 +1487,9 @@ Cuando el ejército de Vishvamitra fue diezmado, sus cien hijos se lanzaron cont
 
 triyas. ” Dicho esto, partió hacia el bosque rumbo a los Himalayas, para practicar el ascetismo y buscar el favor del gran semidiós Mahadev \(Shiva\). Durmiendo muy poco, y comiendo frugalmente, Vishvamitra practicó severas penitencias y austeridades. 
 
-Finalmente, el Señor Shiva apareció ante él ofreciéndole cumplir sus deseos. Vishvamitra pidió entonces el conocimiento de las artes de la guerra del Dhanurveda  y de otras escrituras, y también de las poderosas armas y de los misiles usados por los habitantes de los planetas superiores. Mahadev, después de otorgarle el pedido, desapareció. Vishvamitra, reanimado y vigoroso en virtud de su austeridad, y orgulloso por los poderes adquiridos, regresó al ashram de Vasishtha Muni y comenzó a disparar dardos mortales, espantando a los sabios que allí vivían, así como a las aves y a los animales que huyeron despavoridos. 
+Finalmente, el Señor Shiva apareció ante él ofreciéndole cumplir sus deseos. Vishvamitra pidió entonces el conocimiento de las artes de la guerra del Dhanurveda y de otras escrituras, y también de las poderosas armas y de los misiles usados por los habitantes de los planetas superiores. Mahadev, después de otorgarle el pedido, desapareció. Vishvamitra, reanimado y vigoroso en virtud de su austeridad, y orgulloso por los poderes adquiridos, regresó al ashram de Vasishtha Muni y comenzó a disparar dardos mortales, espantando a los sabios que allí vivían, así como a las aves y a los animales que huyeron despavoridos. 
 
-El sabio, indignado ante el insolente ataque, con su bastón extinguió cuanto proyectil fuera lanzado. Prontamente el escenario se convirtió en un mar de misiles y contramisiles disparados furiosamente por el Rey, que desplegaba toda la habilidad y fuerza que había adquirido, culminando en el disparo del poderoso brahmastra,  arma nuclear irresistible que hizo temblar el planeta y su atmósfera. El brahmán, reprendiendo al agresor luego de una batalla de armas místicas formidables, redujo el arsenal del Rey a la nada, haciendo además, que el arma letal atómica fuera tragada por su bastón. Dejando indefenso a Vishvamitra, de-volvió la calma al lugar. Humillado, el Rey maldijo el poder de los guerreros y de las armas, y dijo: “Poder maldito el del kshatriya,  pues la verdadera fuerza está en la energía espiritual del brahmán.” 
+El sabio, indignado ante el insolente ataque, con su bastón extinguió cuanto proyectil fuera lanzado. Prontamente el escenario se convirtió en un mar de misiles y contramisiles disparados furiosamente por el Rey, que desplegaba toda la habilidad y fuerza que había adquirido, culminando en el disparo del poderoso brahmastra, arma nuclear irresistible que hizo temblar el planeta y su atmósfera. El brahmán, reprendiendo al agresor luego de una batalla de armas místicas formidables, redujo el arsenal del Rey a la nada, haciendo además, que el arma letal atómica fuera tragada por su bastón. Dejando indefenso a Vishvamitra, de-volvió la calma al lugar. Humillado, el Rey maldijo el poder de los guerreros y de las armas, y dijo: “Poder maldito el del kshatriya, pues la verdadera fuerza está en la energía espiritual del brahmán.” 
 
 123
 
@@ -1505,7 +1505,7 @@ on los sentidos aplacados, Vishvamitra, en compañía de su reina,
 
 se dirigió al Sur para practicar las más severas austeridades con el 
 
-objeto de convertirse en un brahmán .  Allí se alimentó solamente de raíces y frutas silvestres. Y le nacieron cuatro hijos especialmente virtuosos110. Luego del transcurso de un milenio, se le apa-
+objeto de convertirse en un brahmán . Allí se alimentó solamente de raíces y frutas silvestres. Y le nacieron cuatro hijos especialmente virtuosos110. Luego del transcurso de un milenio, se le apa-
 
 reció el Señor Brahma, abuelo de los tres mundos, quien le dijo: “En virtud de tu austeridad, te reconocemos como un rey santo rajarshi”. Habiendo hablado así, el ilustre Señor de los mundos materiales, volvió a los planetas superiores, acompañado de otros semidioses. Con la cabeza gacha, Vishvamitra sollozó al no haber logrado ser reconocido como brahmán, sin darse cuenta del perjuicio que trae mantener enemistad hacia una gran personalidad. 
 
@@ -1535,7 +1535,7 @@ Enterado, Vishvamitra explotó de ira lanzando a los hijos de Vasishtha la maldi
 
 Iracundo, Vishvamitra colocó un gran recipiente con gui sobre las llamas y dijo: “¡Oh, Trishanku\!, ahora te transferiré todo el mérito de mis austeridades para elevarte a los cielos en tu propio cuerpo físico, no me importa si los Devas rechazan mis ofrendas. ¡Oh, rey Trishanku\!: ¡asciende\!”. Para sorpresa de todos, Trishanku ascendió hasta el planeta de Indra; sin embargo, éste, disgustado con ese visitante poco grato, lo rechazó y lo envió de vuelta a la tierra. 
 
-Sin embargo, tan poderoso era Vishvamitra, que creó un sistema planetario para acoger a Trishanku, con características similares o superiores al reino de Indra, con una formación estelar que semejante a la Osa Mayor, es visible desde el hemisferio Sur. Se disponía además, el poderoso sabio, a sustituir a Indra, el rey de los planetas superiores, cuando los semidioses, temerosos de su ira, le suplicaron que reconsidere su decisión, puesto que al haber Trishanku ofendido a su guru,  no podría entrar al planeta de Indra. Sin embargo, accedieron a que habitara en el sistema planetario recién creado, lo cual sucedió para gloria de Vishvamitra. 
+Sin embargo, tan poderoso era Vishvamitra, que creó un sistema planetario para acoger a Trishanku, con características similares o superiores al reino de Indra, con una formación estelar que semejante a la Osa Mayor, es visible desde el hemisferio Sur. Se disponía además, el poderoso sabio, a sustituir a Indra, el rey de los planetas superiores, cuando los semidioses, temerosos de su ira, le suplicaron que reconsidere su decisión, puesto que al haber Trishanku ofendido a su guru, no podría entrar al planeta de Indra. Sin embargo, accedieron a que habitara en el sistema planetario recién creado, lo cual sucedió para gloria de Vishvamitra. 
 
 111 La realización de sacrificios se encuentra reservada a brahmanes calificados, no a personas no preparadas. 
 
@@ -1641,7 +1641,7 @@ Después de vencer esta prueba, Vishvamitra Muni continuó sus austerida-
 
 des durante otros mil años. Él consiguió mantener su aire vital suspendido dentro de su cuerpo y, después de algún tiempo, empezó a salir humo de su cabeza. 
 
-Esto puso a todos los sistemas planetarios en confusión. Desorientados por su determinación y derrotados por su gloriosa austeridad, todos los semidioses, rishis,gandharvas, nagas115,  y  rakshasas oraron al Señor Brahma: “El sabio Vishvamitra está incrementado su poder a través de la realización de austeridades. 
+Esto puso a todos los sistemas planetarios en confusión. Desorientados por su determinación y derrotados por su gloriosa austeridad, todos los semidioses, rishis,gandharvas, nagas115, y rakshasas oraron al Señor Brahma: “El sabio Vishvamitra está incrementado su poder a través de la realización de austeridades. 
 
 Aunque tentado y provocado por la lujuria y la ira, ha permanecido firme, y es inútil insistir para encontrar una pequeña falta en él. Si no es aceptado como un brahmarishi, sin duda alguna, destruirá los tres mundos.” 
 
@@ -1923,7 +1923,7 @@ En esa densa oscuridad, los sabios y el Rey contemplaron la imponente
 
 
 
-forma de Parashuram, el hijo de Jamadagni, quien previamente había destruido a todos los kshatriyas del mundo. Sus cabellos formaban un moño en la cima de su cabeza, y su cuerpo irradiaba un resplandor tan brillante que era muy difícil para un hombre común mirarlo. En su hombro derecho descansaba un hacha, en una mano sostenía un temible dardo y en la otra, un arco. Al observar sus hermosas aunque temibles facciones semejantes al destructor Shiva encolerizado, los brahmanes dijeron: “He aquí Parashuram, una expansión parcial del Supremo Absoluto130. ¡Tan sólo observen la furia de sus ojos\! ¿Piensa exterminar a los kshatriyas, tal como lo hizo antes? Creíamos que su ira, originada por la injusta muerte de su padre Jamadagni a manos de los kshatriyas,  ya había sido sosega-da”. 
+forma de Parashuram, el hijo de Jamadagni, quien previamente había destruido a todos los kshatriyas del mundo. Sus cabellos formaban un moño en la cima de su cabeza, y su cuerpo irradiaba un resplandor tan brillante que era muy difícil para un hombre común mirarlo. En su hombro derecho descansaba un hacha, en una mano sostenía un temible dardo y en la otra, un arco. Al observar sus hermosas aunque temibles facciones semejantes al destructor Shiva encolerizado, los brahmanes dijeron: “He aquí Parashuram, una expansión parcial del Supremo Absoluto130. ¡Tan sólo observen la furia de sus ojos\! ¿Piensa exterminar a los kshatriyas, tal como lo hizo antes? Creíamos que su ira, originada por la injusta muerte de su padre Jamadagni a manos de los kshatriyas, ya había sido sosega-da”. 
 
 Buscando apaciguarlo, los sabios -encabezados por Vasishtha- le ofrecieron humildes oraciones y el glorioso Parashuram aceptó esas ofrendas. Luego, dirigiéndose a Sri Rama, le dijo: “¡Oh, valiente hijo de Dasarath\!, he escuchado que tu proeza fue verdaderamente maravillosa. Quebrar el arco del Señor Shiva fue un hecho inconcebible. Quiero ver cuán grande es tu habilidad, por lo tanto he venido aquí con el arco sagrado del Señor Vishnu, el cual fue entregado a mi padre Jamadagni. Por favor, demuestra tu poder tomando este arco y tensándolo hasta su máxima capacidad. Cuando vea tu fuerza, te desafiaré a combate y eso, con seguridad, aumentará tu valor”. 
 
@@ -1949,7 +1949,7 @@ elije tú”.
 
 Ante este espectáculo, los semidioses encabezados por Brahma y acompa-
 
-ñados por los santos rishis aparecieron en el cielo. También para presenciar el desenlace aparecieron gandharvas, apsaras, siddhas, charanas, kinnaras, yakshas, rakshasas y  nagas;  y en la Tierra, la gente se aproximó para contemplar la valentía de Rama. Parashuram, mirando estupefacto a Rama y desprovisto por éste de su terrible resplandor, dijo: “Antaño, Kasyapa, que adquirió dominio sobre la tierra y que es mi preceptor espiritual, me dijo que yo no habitaría en su dominio; para cumplir la orden de mi guru, no pernocto aquí, sino que tengo la facultad de desplazarme a la velocidad del pensamiento, refugiándome en Mahendra, la más alta de las montañas”. 
+ñados por los santos rishis aparecieron en el cielo. También para presenciar el desenlace aparecieron gandharvas, apsaras, siddhas, charanas, kinnaras, yakshas, rakshasas y nagas; y en la Tierra, la gente se aproximó para contemplar la valentía de Rama. Parashuram, mirando estupefacto a Rama y desprovisto por éste de su terrible resplandor, dijo: “Antaño, Kasyapa, que adquirió dominio sobre la tierra y que es mi preceptor espiritual, me dijo que yo no habitaría en su dominio; para cumplir la orden de mi guru, no pernocto aquí, sino que tengo la facultad de desplazarme a la velocidad del pensamiento, refugiándome en Mahendra, la más alta de las montañas”. 
 
 “¡Oh, castigador del enemigo\! ¡Al haber capturado y tensado este arco te reconozco como idéntico a Vishnu, el Señor de los semidioses, el imperecedero Madhusudan\! Mi incapacidad frente a ti, por tanto, no me avergüenza, ¡Guardián de los tres mundos\! Te he pedido que hagas vibrar este arco simplemente para probar tu infinito poder. Por favor, no restrinjas mi capacidad de viajar. Quítame esta ira del corazón y déjame retornar al monte Mahendra a meditar pacíficamente y practicar austeridades”. 
 
