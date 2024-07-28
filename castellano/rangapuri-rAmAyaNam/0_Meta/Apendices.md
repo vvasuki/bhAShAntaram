@@ -243,7 +243,7 @@ RAMAYANA
 
 [[1]]
 
-## 1
+## 01
 
 Sanscrito
 
@@ -821,7 +821,7 @@ la India más de 1.000.
 
 [[11]]
 
-## 2
+## 02
 
 Los Vedas
 
@@ -1585,7 +1585,7 @@ ajedrecistas par ticipantes.
 
 [[21]]
 
-## 3
+## 03
 
 La Literatura Vedica
 
@@ -2064,7 +2064,7 @@ las compilaciones de las almas perfec-
 23  
 *27*
 
-4
+## 04
 
 La Cultura Vedica
 
@@ -3032,7 +3032,7 @@ presencia.
 
 [[42]]
 
-## 5
+## 05
 
 Yoga y Meditacion
 
@@ -3464,7 +3464,7 @@ de aler ta.
 
 [[47]]
 
-## 6
+## 06
 
 Los Maestros Espirituales
 
@@ -3954,7 +3954,7 @@ Charity Trust y el Bhaktivedanta Book Trust
 
 [[53]]
 
-## 7
+## 07
 
 El Ashram
 
@@ -4412,7 +4412,7 @@ El ashram es independiente de lo votos puros. Incluso un instante \(lava\) bueno
 
 [[59]]
 
-## 8
+## 08
 
 El Poder del Mantra
 
@@ -4794,7 +4794,7 @@ interior.
 
 [[64]]
 
-## 9
+## 09
 
 La Practica del Maha
 
