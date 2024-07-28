@@ -23,7 +23,7 @@ title = "5 Sundara Kanda"
 
 ## 1 el viaje de hanuman a lanka
 
-anuman, dispuesto a saltar por encima del océano, trepó a la cima del monte Mahendra y, expandiéndose hasta lograr proporciones
+Hanuman, dispuesto a saltar por encima del océano, trepó a la cima del monte Mahendra y, expandiéndose hasta lograr proporciones
 
 gigantescas, se agazapó sobre la montaña y empujó hacia abajo
 
@@ -213,7 +213,7 @@ tocaré a menos que tú correspondas a mi amor
 
 ## 4 El anillo de Rama en el bosque de los Ashokas
 
-ita no podía tolerar más la separación de Rama. Pensamientos de muerte acechaban su mente y habiendo tomado la decisión de es-trangularse, el cordón, con el cual ella trenzaba su cabello, lo ató alrededor de su cuello; cuando de pronto, repentinamente, signos propicios empezaron a manifestarse en su cuerpo: su párpado izquierdo temblaba, y sentía palpitar su muslo izquierdo; entonces ella recobró la esperanza, pues sabía que tales síntomas predecían la buena suerte en las mujeres.
+Sita no podía tolerar más la separación de Rama. Pensamientos de muerte acechaban su mente y habiendo tomado la decisión de es-trangularse, el cordón, con el cual ella trenzaba su cabello, lo ató alrededor de su cuello; cuando de pronto, repentinamente, signos propicios empezaron a manifestarse en su cuerpo: su párpado izquierdo temblaba, y sentía palpitar su muslo izquierdo; entonces ella recobró la esperanza, pues sabía que tales síntomas predecían la buena suerte en las mujeres.
 
 Hanuman saltó de un árbol a otro y, finalmente, alcanzó el árbol desde donde pudo ubicarse justo encima de Sita. Presintiendo que ella podría confun-dirlo con un *rakshasa* disfrazado, trataba de encontrar la mejor forma en que se dirigiría a ella. Cuando encontró la respuesta, recitó, en voz baja, las hazañas de Rama, y comenzó con el relato del matrimonio entre Rama y Sita, los planes para Su coronación y Su exilio al bosque. Narró también la matanza de catorce mil *rakshasas* en Janasthan, el rapto de Sita por Ravana, la muerte de Jatayu, la búsqueda de Sita por Rama, Su alianza con Sugriva, y la muerte de Vali, el hermano de Sugriva. Contó asimismo sobre el acuerdo con los monos para buscar a 408
 
@@ -293,7 +293,7 @@ en mis palabras. Aunque soy solamente un mono, soy Su mensajero.”
 
 ## 5 El mensaje de Sita para Rama
 
-on lágrimas en los ojos, Sita consideró qué prenda haría llegar a su amado; tenía que ser una señal inequívoca que indique que provenía de ella en persona, por lo que una vez más la dama de Mithila habló: “el signo más seguro de todos será recordarle algo que vivimos juntos”, y comenzó a narrar una historia, y lo hizo como si Rama estuviese presente.
+Con lágrimas en los ojos, Sita consideró qué prenda haría llegar a su amado; tenía que ser una señal inequívoca que indique que provenía de ella en persona, por lo que una vez más la dama de Mithila habló: “el signo más seguro de todos será recordarle algo que vivimos juntos”, y comenzó a narrar una historia, y lo hizo como si Rama estuviese presente.
 
 
 
@@ -399,7 +399,7 @@ Ravana, deseoso de conocer la razón por la que este mono había venido a la ciu
 
 ## 7 Un devastador incendio consume la bella ciudad
 
-h, mono\!- dijo Prahasta- por favor, dinos la verdad. ¿Quién eres tú, y quién te ha enviado? ¿Eres tú el mensajero de Kuvera, Señor de la riqueza, o de Varuna, Señor de las aguas? ¿Has sido enviado por Yamaraj, Señor de la muerte, o buscando medir nuestras fuerzas te ha enviado el eterno Señor Vishnu, el enemigo de Ravana, quien indudablemente teme nuestras hazañas?”
+Oh, mono\!- dijo Prahasta- por favor, dinos la verdad. ¿Quién eres tú, y quién te ha enviado? ¿Eres tú el mensajero de Kuvera, Señor de la riqueza, o de Varuna, Señor de las aguas? ¿Has sido enviado por Yamaraj, Señor de la muerte, o buscando medir nuestras fuerzas te ha enviado el eterno Señor Vishnu, el enemigo de Ravana, quien indudablemente teme nuestras hazañas?”
 
 “No soy mensajero de Indra, ni de Kuvera, tampoco de Yamaraj -respondió Hanuman- soy enviado de Rama y de Su hermano menor Lakshman. Mi Señor ha aparecido como el hijo del rey Dasarath. Juntos, vendrán aquí y, con toda seguridad, destruirán Lanka. ¡Oh, Ravana\!, Brahma te ha otorgado una bendición por la cual tú no puedes ser muerto por ningún semidiós, *rishi, yaksha, * rakshasa, o habitante de las regiones inferiores. Sin embargo, Rama ha aparecido como un ser humano en este planeta, y Sugriva, el jefe de los monos, es Su ministro y amigo. Ellos están acompañados por cientos y miles de simios, provistos de poderes extraordinarios. ¿Cómo, entonces, la bendición de Brahma te protegerá? Rama, siendo la Personalidad Suprema, es el amo del Señor Brahma, del Señor Shiva y de todos los semidioses. Puesto que Él crea las modalidades de la naturaleza 420
 
@@ -457,7 +457,7 @@ llamas envolvieron a la ciudad íntegra, y los demonios se sumieron en el caos
 
 ## 8 el triunfal retorno de hanuman
 
-anuman, a medida que sobrevolaba el vasto mar, parecía tragarse el espacio y rozar la Luna, pues extasiado como se sentía, no daba muestras de cansancio. Rugió también con alegría, regocijado por el triunfo en su misión. Divisando, en medio del océano, el monte Mainaka, viajó más aprisa y con gran entusiasmo, traspasó una
+Hanuman, a medida que sobrevolaba el vasto mar, parecía tragarse el espacio y rozar la Luna, pues extasiado como se sentía, no daba muestras de cansancio. Rugió también con alegría, regocijado por el triunfo en su misión. Divisando, en medio del océano, el monte Mainaka, viajó más aprisa y con gran entusiasmo, traspasó una
 
 tras otra, varias capas de nubes hasta que, finalmente, al llegar donde lo espera-ban sus amigos, emitió un rugido que parecía poder quebrar el firmamento.
 

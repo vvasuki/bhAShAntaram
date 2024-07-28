@@ -362,7 +362,7 @@ Tara trajo un hermoso palanquín celestial, que había pertenecido a los *siddha
 
 ## 6 Sri Rama se retira a la montaña
 
-odeado por los principales monos, Sugriva se mostraba afligido y con tristeza, por eso, aún vestía las ropas humedecidas por el baño que siguió a la cremación del cuerpo de su hermano Vali.
+Rodeado por los principales monos, Sugriva se mostraba afligido y con tristeza, por eso, aún vestía las ropas humedecidas por el baño que siguió a la cremación del cuerpo de su hermano Vali.
 
 Aquellos de la cúspide del ejército de los Vanaras, con las palmas juntas, también se aproximaron a Sri Rama de poderosos brazos,
 
@@ -526,7 +526,7 @@ El glorioso Sugriva, con las manos juntas escuchó atentamente a Lakshman quien 
 
 ## 9 Ejercitos de simios y osos se convocan
 
-ara, luego de haber escuchado a Lakshman, hizo uso de la palabra y sugirió que Sugriva no era merecedor de tan ásperas palabras, y menos de labios de Lakshman, pues negó que Sugriva fuese ingrato, pérfido, mentiroso o insensible. Admitió que, habiéndose entregado a la gratificación de los sentidos, había perdido la noción del tiempo. Pero que, por su lealtad a Rama, él estaría dispuesto a abandonar incluso a su amada esposa Ruma y, con fin de asegurarse la honra de Rama, abandonaría a todos. Tara le recordó también que Vishvamitra, el gran sabio, en una ocasión se había apegado profundamente a la *apsara* Menaka y en su compañía había perdido diez años de sus austeridades como si hubieran sido un día.
+Tara, luego de haber escuchado a Lakshman, hizo uso de la palabra y sugirió que Sugriva no era merecedor de tan ásperas palabras, y menos de labios de Lakshman, pues negó que Sugriva fuese ingrato, pérfido, mentiroso o insensible. Admitió que, habiéndose entregado a la gratificación de los sentidos, había perdido la noción del tiempo. Pero que, por su lealtad a Rama, él estaría dispuesto a abandonar incluso a su amada esposa Ruma y, con fin de asegurarse la honra de Rama, abandonaría a todos. Tara le recordó también que Vishvamitra, el gran sabio, en una ocasión se había apegado profundamente a la *apsara* Menaka y en su compañía había perdido diez años de sus austeridades como si hubieran sido un día.
 
 “Querido Lakshman, evitando aseverar conclusiones que dan curso a la ira, Sri Rama debe perdonar a Sugriva quien está sujeto a las particularidades de su cuerpo, y está arrepentido. ¡Oh tú, que eres orgullo entre los hombres\!, ciertamente pocos hombres como tú, están provistos de la verdad. Por favor, no caigas presa de la ira sin la debida deliberación. En nombre de Sugriva ¡Oh, conocedor de lo que es correcto\!, abandona esta furia puesto que para la tranquilidad y placer de Rama, estoy convencida de que Sugriva haría cualquier cosa por Rama: abandonaría su trono, su fortuna, sus esposas, su legado, su riqueza y todo cuan-375
 
@@ -564,7 +564,7 @@ La voz corrió como reguero de pólvora y prontamente empezaron a llegar infinid
 
 ## 10 Los jefes monos se presentan ante Rama
 
-akshman se llenó de satisfacción al observar el ejército de miles de monos, por lo que pidió a Sugriva, que fueran de inmediato a ver a Sri Rama. Ante la orden de Sugriva, en breve arribó un palanquín, con una canopia blanca y abanicos para refrescarlos, al que invitó abordar a Lakshman. De esta manera, acompañados por el sonido
+Lakshman se llenó de satisfacción al observar el ejército de miles de monos, por lo que pidió a Sugriva, que fueran de inmediato a ver a Sri Rama. Ante la orden de Sugriva, en breve arribó un palanquín, con una canopia blanca y abanicos para refrescarlos, al que invitó abordar a Lakshman. De esta manera, acompañados por el sonido
 
 de conchas y tambores, y poetas que cantaban, Sugriva y Lakshman procedieron al encuentro de Sri Rama.
 
@@ -600,7 +600,7 @@ De esa manera, en presencia de Sri Rama y de Lakshman, Sugriva asignó diferente
 
 ## 11 comienza el rastreo de sita
 
-ugriva, después de dar descripciones detalladas de los lugares y poblaciones a rastrear, incluyendo islas y mares, comenzó a organizar la búsqueda de Sita, enviando a los jefes, quienes, acompañados de sus ejércitos, fueron en todas las direcciones. Vinata, padre de Garuda, fue encargado de la expedición hacia el Este.
+Sugriva, después de dar descripciones detalladas de los lugares y poblaciones a rastrear, incluyendo islas y mares, comenzó a organizar la búsqueda de Sita, enviando a los jefes, quienes, acompañados de sus ejércitos, fueron en todas las direcciones. Vinata, padre de Garuda, fue encargado de la expedición hacia el Este.
 
 Al Sur fueron asignados Angada, Hanuman, Nila, y Jambavan, hijo de Brahma, quienes irían hasta el límite sur de Bhu-mandala. Hacia el Oeste, Sushena, padre de Tara y Archishman. Finalmente Shatabali fue destinado a ir hacia el Norte, atravesando las tierras de los mlecchas, los Himalayas y la tierra desolada hasta el mar. “Tomen sus ejércitos -les dijo-, busquen a Sita y retornen antes de que se cumpla un mes. Quien incumpla está sujeto a morir en mis manos”.
 
@@ -732,7 +732,7 @@ Cuando los monos terminaron de escuchar acerca del paradero de Sita, y también 
 
 ## 13 El extraordinario poder de Hanuman
 
-ngada preguntó “¿Quién de nosotros es capaz de saltar15 desde la orilla del mar hasta la morada de Ravana?”. Al ver que nadie se animaba a hablar, empezó a preguntar buscando respuestas individuales: “Para llegar a la isla de Lanka, la distancia ha sido calcu-lada en cien *yojanas* 16. Dígame cada uno de ustedes qué distancia puede saltar”.
+Angada preguntó “¿Quién de nosotros es capaz de saltar15 desde la orilla del mar hasta la morada de Ravana?”. Al ver que nadie se animaba a hablar, empezó a preguntar buscando respuestas individuales: “Para llegar a la isla de Lanka, la distancia ha sido calcu-lada en cien *yojanas* 16. Dígame cada uno de ustedes qué distancia puede saltar”.
 
 “Yo puedo saltar diez *yojanas *-dijo el mono Gaja-. Yo puedo saltar la distancia de veinte * yojanas* -expresó Gavaksha-. De un salto puedo yo cubrir treinta
 

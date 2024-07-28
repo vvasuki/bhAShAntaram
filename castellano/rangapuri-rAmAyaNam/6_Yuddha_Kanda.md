@@ -21,7 +21,7 @@ title = "6 Yuddha Kanda"
 
 ## 1 Se inicia la campaña belica
 
-as llevado a cabo una espectacular y maravillosa hazaña, ¡Oh
+Has llevado a cabo una espectacular y maravillosa hazaña, ¡Oh
 
 Hanuman\!-dijo Rama-. ¿Quién si no tú, podría haber escapado con vida y éxito de Lanka después de haber entrado como un espía? A pesar de que no poseo nada, te ofrezco mi abrazo, porque tú eres mi devoto. La gloria de tus actividades y de tu hazaña, ejecutadas sin ninguna motivación personal, será la más honrosa recompensa por este maravilloso acto”. Entonces, Rama se levantó y abrazó a Hanuman.
 
@@ -333,7 +333,7 @@ Cuando Ravana escuchó el reporte, inmediatamente dio un salto y abrazó a su hi
 
 ## 7 Sita es nuevamente engañada
 
-bedeciendo la orden de Ravana, las *rakshasis* fueron al bosquecillo de árboles *ashoka* y le dieron a Sita la noticia. La *rakshasi* Trijata puso a Sita a bordo de la nave de flores Pushpaka y sobrevolaron el ejército desordenado de monos y el de los jubilosos *rakshasas. * Sita entonces vio a Rama y a Lakshman yaciendo inde-fensos y atrapados en una red de flechas serpentinas.
+Obedeciendo la orden de Ravana, las *rakshasis* fueron al bosquecillo de árboles *ashoka* y le dieron a Sita la noticia. La *rakshasi* Trijata puso a Sita a bordo de la nave de flores Pushpaka y sobrevolaron el ejército desordenado de monos y el de los jubilosos *rakshasas. * Sita entonces vio a Rama y a Lakshman yaciendo inde-fensos y atrapados en una red de flechas serpentinas.
 
 Sita se lamentó: “En el pasado, brahmanes eruditos me dijeron que yo tendría hijos y que nunca sería viuda. Hoy sus profecías han demostrado ser falsas.
 
@@ -395,7 +395,7 @@ Viendo la cabeza de su líder rodar por el piso, los *rakshasas* nuevamente se r
 
 ## 9 Los rakshasas sufren otra derrota
 
-ras la muerte de Vajradamshtra, Akampana y otros ogros apare-
+Tras la muerte de Vajradamshtra, Akampana y otros ogros apare-
 
 cieron en el campo de batalla y se trabaron en mortal combate con los monos. Una vez Hanuman demostró su superioridad matando
 
@@ -623,7 +623,7 @@ Mientras era llevado por el gigante, Sugriva volvió en sí y pensó: “Debo ha
 
 ## 13 La venganza del poderoso Indrajit
 
-enchido de ira, sangrando por la nariz y por las orejas, el enorme *rakshasa* retornó al campo de batalla para matar más monos, pero de pronto vio al Señor Rama. Con su mazo en alto, Kumbhakarna
+Henchido de ira, sangrando por la nariz y por las orejas, el enorme *rakshasa* retornó al campo de batalla para matar más monos, pero de pronto vio al Señor Rama. Con su mazo en alto, Kumbhakarna
 
 cargó contra él. Sri Rama aceptó el reto. “Ven, ¡oh Señor de los *rakshasas\! *-le dijo- Con mi arco aniquilaré a toda tu raza. Si te atreves a combatir conmigo por un momento, entonces seré quien te quite la vida.”
 
@@ -669,7 +669,7 @@ Gandhamadana, Nala, Nila, Gaja, Mainda, Dvivida, Rishabha, Angada, Sugriva y muc
 
 ## 14 Hanuman va en pos de hierbas medicinales
 
-as poderosas flechas concedidas a Indrajit por Brahma habían paralizado a todo el ejército de los monos. Sesenta y siete *crores* 6 de monos yacían tendidos. Cuando el Señor Rama y Lakshman estuvieron bajo el ataque de las flechas de Indrajit, honraron la bendición de Brahma, y se sometieron a ellas, por lo que, creyéndolos muertos, el demonio gritó triunfalmente. Retornó a Lanka y le refirió lo sucedido a su padre.
+Las poderosas flechas concedidas a Indrajit por Brahma habían paralizado a todo el ejército de los monos. Sesenta y siete *crores* 6 de monos yacían tendidos. Cuando el Señor Rama y Lakshman estuvieron bajo el ataque de las flechas de Indrajit, honraron la bendición de Brahma, y se sometieron a ellas, por lo que, creyéndolos muertos, el demonio gritó triunfalmente. Retornó a Lanka y le refirió lo sucedido a su padre.
 
 Todo el mundo estuvo inmovilizado bajo el embrujo de las flechas de Indrajit, con excepción de Hanuman y Vibhishan. En el campo de batalla Vibhishan le dijo a Hanuman: “No debemos desesperarnos; el Señor Rama y Lakshman están honrando los poderes místicos de Brahma. Muy pronto ellos revelarán sus divinos planes.”
 
@@ -723,7 +723,7 @@ Después de que el ejército de los monos fue restablecido y curado, Hanuman dev
 
 ## 15 Un incendio devastador precede al hechizo
 
-ugriva decidió entonces, realizar una incursión sorpresa a Lanka acompañado de miles de monos para causar estragos y, al atardecer, con antorchas prenderle fuego. Así, un caos infernal se desató en Lanka, donde sus entradas, calles y áticos empezaron a arder violentamente, junto con sus excelentes mansiones. El devorador incendio quemaba además sándalo, aloé, perlas, gemas, diamantes y corales, sedas, armas y ornamentos, haciendo que el gran fuego parezca una fragante ofrenda sagrada. Cientos de miles de casas exquisitamente decoradas con oro ardían en llamas.
+Sugriva decidió entonces, realizar una incursión sorpresa a Lanka acompañado de miles de monos para causar estragos y, al atardecer, con antorchas prenderle fuego. Así, un caos infernal se desató en Lanka, donde sus entradas, calles y áticos empezaron a arder violentamente, junto con sus excelentes mansiones. El devorador incendio quemaba además sándalo, aloé, perlas, gemas, diamantes y corales, sedas, armas y ornamentos, haciendo que el gran fuego parezca una fragante ofrenda sagrada. Cientos de miles de casas exquisitamente decoradas con oro ardían en llamas.
 
 Mujeres hermosas corrían llorando, mientras que elefantes y caballos huían en estampida para salvar sus vidas, provocando pánico en las calles carboniza-das, en medio de la confusión reinante, los ogros eran enfrentados por los eufóricos monos y Sri Rama hizo vibrar su poderoso arco, cuyo estruendo, cual rayo, unido a los llantos y los gritos feroces de simios y *rakshasas* parecía el sonido de la destrucción universal.
 
@@ -775,7 +775,7 @@ Lakshman respetuosamente tocó los pies de su hermano y dio cuatro vueltas alred
 
 ## 16 La lid descomunal entre Lakshman e Indrajit
 
-akshman ordenó a los monos prepararse para una nueva y feroz
+Lakshman ordenó a los monos prepararse para una nueva y feroz
 
 batalla. Éstos cogieron gigantescos árboles y picos de montaña y empezaron a arrojarlos con inmensa fuerza, matando a los *rakshasas* a medida que avanzaban. Aunque los demonios hábilmente contrarrestaron el ataque despidiendo ráfagas de armas, los monos continuaban derribando implacablemente a un jefe *rakshasa* tras otro. Cuando Indrajit fue informado de que su ejército estaba siendo aniquilado, dominado por la furia, rápidamente se trepó rabioso a su carroza y se dirigió hacia la batalla, abandonando su sacrificio, tal como lo había previsto Vibhishan.
 
@@ -833,7 +833,7 @@ Fue entonces cuando Lakshman instaló un refulgente misil de oro presidido por I
 
 ## 17 Se desata un espantoso combate
 
-a hazaña de Lakshman fue vitoreada por Vibhishan, Hanuman y
+La hazaña de Lakshman fue vitoreada por Vibhishan, Hanuman y
 
 Jambavan; entonces todos se acercaron a Rama con las buenas
 
@@ -979,7 +979,7 @@ Más tarde el demonio volvió en sí, y dándose cuenta de su vergonzosa situaci
 
 ## 19 El poder demoniaco es exterminado
 
-gastyarishi, que se encontraba presenciando el duelo junto a los semidioses se acercó a Sri Rama y le aconsejó que recite los *mantras* conocidos como el *adityahridaya*, que propician al Brahman Supremo quien en ocasiones especiales, asume el rol del dios del Sol; éstos *mantras* prolongan la vida y alejan la ansiedad y aflicción, otorgando el fruto de los sacrificios y por tanto, la victoria. Agastya, luego de dar tan valiosa recomendación, se retiró tal como había venido. Por su parte, Sri Rama, deleitado con la lección, sorbió agua para purificarse y recitó con cla-ridad los *mantras*. Este canto fue eficaz de inmediato, pues el propio semidiós del Sol apareció ante él y urgió al Señor: “hazlo pronto”, refiriéndose a la rápida eliminación de Ravana.
+Agastyarishi, que se encontraba presenciando el duelo junto a los semidioses se acercó a Sri Rama y le aconsejó que recite los *mantras* conocidos como el *adityahridaya*, que propician al Brahman Supremo quien en ocasiones especiales, asume el rol del dios del Sol; éstos *mantras* prolongan la vida y alejan la ansiedad y aflicción, otorgando el fruto de los sacrificios y por tanto, la victoria. Agastya, luego de dar tan valiosa recomendación, se retiró tal como había venido. Por su parte, Sri Rama, deleitado con la lección, sorbió agua para purificarse y recitó con cla-ridad los *mantras*. Este canto fue eficaz de inmediato, pues el propio semidiós del Sol apareció ante él y urgió al Señor: “hazlo pronto”, refiriéndose a la rápida eliminación de Ravana.
 
 Rama, dueño de la paciencia, viendo que se aproximaba la brillante carroza de Ravana, con firmeza, decisión y enojo, empuñó el arco de Indra y gentilmente, pero con férrea determinación, le instruyó a su auriga, conducir velozmente la cuadriga al encuentro de Ravana.
 
@@ -1147,7 +1147,7 @@ temor a la ardiente hoguera, tal fuera un chorro dorado de mantequilla clarifica
 
 ## 22 Semidioses y rishis revelan la verdad sobre Sita y Rama
 
-untando el gran Brahma reverente sus manos dijo: “Escucha la
+Juntando el gran Brahma reverente sus manos dijo: “Escucha la
 
 verdad, Oh Señor infalible. Tú eres el propio Señor Narayan, quien esgrime Su *sudarshan-chakra18* y eres también Varaha, el divino jabalí, que conquistó al demonio Hiranyaksha. El Brahman19 impersonal emana de Ti. Tú eres el comienzo, el medio y el fin de todas las creaciones; la ley suprema que opera los mundos y el poder que los controla. Tú eres el Señor Hari de cuatro brazos, quien empuña el arco *sarnga* y eres Hrishikesh, el amo de los sentidos. Tú eres Vishnu, el controlador interno, quien esgrime una espada y la expansión original y plenaria del Supremo Absoluto, Krishna. Eres Karttikeya, la facultad del entendimiento, la fuerza, la tolerancia y el control de los sentidos. Eres el origen y el destino. Eres el divino enano
 
@@ -1209,7 +1209,7 @@ Pidió también a Sita no guardar rencor por la prueba de fuego a la que había 
 
 ## 23 La despedida de Lanka y la recepcion de Bharat
 
-l Señor Indra, el Rey del Cielo, se dirigió con profunda reverencia a Rama y le pidió que expresara su deseo para ser satisfecho.
+El Señor Indra, el Rey del Cielo, se dirigió con profunda reverencia a Rama y le pidió que expresara su deseo para ser satisfecho.
 
 Entonces Rama, pidió que todos los simios y osos que habían sido muertos en el campo de batalla pudieran retornar junto a sus seres queridos, curados de sus heridas y mutilaciones, plenos de energía y vigor; pidió también, que fueran restauradas las corrientes cristalinas de agua, las flores y frutos, la vegetación y los bosques que habían sido devastados en el feroz combate.
 

@@ -690,7 +690,7 @@ bierto con motas plateadas. Sus astas eran tan brillantes como zafiros, y su nar
 
 ## 11 El insulto a Lakshman
 
-ita se encontraba colectando flores en un bosquecillo de manga-
+Sita se encontraba colectando flores en un bosquecillo de manga-
 
 les, ashokas y karnikaras, cuando un venado encantador se acercó. Los demás venados, movidos por su instinto, huyeron en es-
 

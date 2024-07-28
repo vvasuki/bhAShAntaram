@@ -73,7 +73,7 @@ El erudito continuo así la narración: “Al reparar en esta situación, el Se�
 
 ## 2 El origen de Ravana y sus hermanos
 
-l gran Agastya continuo así la narración: “Al reparar en esta situación, el Señor Shiva, para condescender con el sentimiento de su esposa, otorgó a los *rakshasas* adicionalmente una magnífica ciudadela flotante; entonces, Sukesh se dedicó a realizar severas penitencias, al igual que sus ancestros. Posteriormente, contrajo matrimonio con Devavati y, de esta unión, nacieron tres hijos: Malyavan, Sumali y Mali.
+El gran Agastya continuo así la narración: “Al reparar en esta situación, el Señor Shiva, para condescender con el sentimiento de su esposa, otorgó a los *rakshasas* adicionalmente una magnífica ciudadela flotante; entonces, Sukesh se dedicó a realizar severas penitencias, al igual que sus ancestros. Posteriormente, contrajo matrimonio con Devavati y, de esta unión, nacieron tres hijos: Malyavan, Sumali y Mali.
 
 Al crecer estos muchachos, se enteraron que su padre se había vuelto poderoso por recibir bendiciones obtenidas por la práctica de rigurosas disciplinas, así que decidieron seguir el mismo camino y, durante miles de años, practicaron penitencias, adquiriendo estrictas normas de conducta, combinando veracidad, corrección y autocontrol.
 
@@ -189,7 +189,7 @@ Dasagriva, haciendo caso omiso a las palabras de Nandi, respondió: ‘debido a 
 
 ## 4 El arrogante Ravana ofende a la bella asceta
 
-bservando el terrible sufrimiento por el que estaba pasando Da-
+Observando el terrible sufrimiento por el que estaba pasando Da-
 
 sagriva, sus ministros le aconsejaron que se rinda al Señor Shiva quien era el único que podía aliviar fácilmente tan terrible dolor.
 
@@ -473,7 +473,7 @@ par tan atractiva fruta
 
 ## 8 Sri Rama empieza a gobernar. Belleza y plenitud se manifiestan
 
-la mañana siguiente, después de ser despertado por cantantes que recitaban Sus gracias, Rama se bañó y se sentó para realizar ceremonias de fuego *\(agni-hotra\). * Luego visitó el templo del palacio, ofreció respetos a brahmanes y sabios; y de allí se dirigió a la corte real. Sentado en Su trono real, rodeado por ministros, sirvientes y veinte de los jefes monos, Rama comenzó a administrar el Estado de una manera ejemplar.
+A la mañana siguiente, después de ser despertado por cantantes que recitaban Sus gracias, Rama se bañó y se sentó para realizar ceremonias de fuego *\(agni-hotra\). * Luego visitó el templo del palacio, ofreció respetos a brahmanes y sabios; y de allí se dirigió a la corte real. Sentado en Su trono real, rodeado por ministros, sirvientes y veinte de los jefes monos, Rama comenzó a administrar el Estado de una manera ejemplar.
 
 Habiendo transcurrido algunos días, Rama se aproximó a Maharaj Janak que era uno de los muchos reyes que había venido a Ayodhya para asistir a la coronación y, para honrarlo afectuosamente, a manera de despedida, le obsequió muchos presentes de valor; que, a su vez, cuanto Janak los recibía, se los entregaba a su amada hija Sita. Después de complacerlo, ordenó a Bharat y Satrughna que lo escolten, junto con un gran ejército, de retorno a Mithila. Rama entonces procedió de igual manera con el Rey de Kekaya \(Kashmir\), su tío materno Yudd-hajit, hermano de Kaikeyi , ordenando a Lakshman que le acompañara junto con un ejército; posteriormente se despidió de su amigo el Rey de Kashi.
 
@@ -539,7 +539,7 @@ tud se manifestaron. Sita Rama, Lakshman y Hanuman
 
 ## 9 La crueldad de los rumores de los insensatos
 
-n el entorno de la vida feliz de Ayodhya, narradores expertos y sabios tales como Vijaya, Madhumata, Kasyapa, Mangala, Kula,
+En el entorno de la vida feliz de Ayodhya, narradores expertos y sabios tales como Vijaya, Madhumata, Kasyapa, Mangala, Kula,
 
 Suraji, Kaliya, Bhadra, Dantavakra y Sumagadha solían sentarse
 
@@ -589,7 +589,7 @@ Ustedes conocen las circunstancias en las que Sita fue secuestrada por Ravana, t
 
 ## 10 Se avecina un triste desenlace
 
-el Rey continuó hablando amargamente: “Entonces habiendo acep-
+Y el Rey continuó hablando amargamente: “Entonces habiendo acep-
 
 tado a Sita, he venido a Ayodhya y todos se mostraron felices de nuestro retorno juntos, pero ahora la gente me lo reprocha, y esto me duele en el alma. La censura es grande y circula entre los ciudadanos; es sabido que la persona, cuya infamia es murmuración
 
@@ -731,7 +731,7 @@ Llamen a mis súbditos y también a brahmanes y a consejeros. Citen a todos los 
 
 ## 13 Rama cuenta historias de reyes virtuosos
 
-fin de ilustrar con un ejemplo el tema sobre el que hablaba, referido obligaciones de un gobernante, Rama comenzó a narrar a
+A fin de ilustrar con un ejemplo el tema sobre el que hablaba, referido obligaciones de un gobernante, Rama comenzó a narrar a
 
 Lakshman una historia: “Antiguamente existía un rey veraz y dedicado a los brahmanes, Nriga, quien en una ocasión dio en caridad millones de vacas a los brahmanes, en el lugar santo de Pushkar.
 
@@ -791,7 +791,7 @@ Sentándose en la Corte Real, Sri Rama, rodeado por sus ministros, consejeros, d
 
 ## 14 El sorprendente incidente del perro y el Acharya descalificado
 
-uscando con detenimiento a alguien afligido o necesitado, tal como había sido ordenado por Rama, fue que Lakshman notó que había
+Buscando con detenimiento a alguien afligido o necesitado, tal como había sido ordenado por Rama, fue que Lakshman notó que había
 
 un perro en la puerta del palacio, que sangraba y lo miraba a él fijamente; Lakshman entonces lo abordó: “¿Qué te ha ocurrido?,
 
@@ -831,7 +831,7 @@ Después de decir esto, el perro desapareció. Más tarde se supo que dejando la
 
 ## 15 Nacen los divinos Lav y Kush
 
-ierto día, unos *rishis* encabezados por Chyavana vinieron a ver a Rama y le informaron que el perverso demonio Lavanasura, hijo
+Cierto día, unos *rishis* encabezados por Chyavana vinieron a ver a Rama y le informaron que el perverso demonio Lavanasura, hijo
 
 del demonio Madhu, estaba residiendo en Madhuvan y oprimía a
 
@@ -871,7 +871,7 @@ Como es tradición en las grandes familias, se recitaron los nombres de sus nobl
 
 ## 16 La muerte del demonio Lavanasura y la fundacion de Madhura
 
-l amanecer, después de haber realizado sus purificaciones matu-
+Al amanecer, después de haber realizado sus purificaciones matu-
 
 tinas, Satrughna, urgido por el cumplimiento de su deber, pidió permiso al sabio Valmiki, con las manos juntas y partió hacia el Oeste, llegando a orillas del Yamuna. Fueron siete las noches que transcurrieron en su travesía; durante este tiempo pernoctó en las ermitas de los sabios, entre los cuales Bhargav era el principal y estaba acompañado por el sabio Chyavana. Fue allí que Satrughna escuchó diferentes narraciones sagradas e invadido por la duda, preguntó acerca del poder del demonio Lavanasura y sobre el poderío de su temible tridente.
 
@@ -1225,7 +1225,7 @@ en el manejo del arco y eran diestros guerreros, para el
 
 ## 22 Lav y Kush estremecen a una virtuosa audiencia
 
-urante varios días, Sri Rama junto con ascetas, reyes, príncipes, ciudadanos, rakshasas y monos escucharon ese maravilloso cántico de contenido sagrado. En un momento dado, Rama quedó pas-
+Durante varios días, Sri Rama junto con ascetas, reyes, príncipes, ciudadanos, rakshasas y monos escucharon ese maravilloso cántico de contenido sagrado. En un momento dado, Rama quedó pas-
 
 mado64 al descubrir, a través de esa canción, ¡que Kush y Lav eran Sus hijos con Sita\!, por lo que, reponiéndose de la sorpresa y cui-dando la etiqueta real, se dirigió a esa magna asamblea: “Vayan mensajeros de conducta pura donde el venerable rishi Valmiki y repitan estas Mis palabras: ‘Si ninguna falta yace en Sita, de conducta intachable, que sea ella presentada aquí, bajo la bendición del gran sabio \(Valmiki\). Que la hija de Janak haga un voto en frente de esta asamblea para remover todas las dudas mañana temprano”. Escuchando estas inesperadas palabras, los enviados fueron al sitio donde se encontraba el gran sabio Valmiki. Saludando al noble de ilimitable lustre, repitieron las palabras de Rama.
 
@@ -1319,7 +1319,7 @@ Después de un largo lapso, la famosa madre de Rama, Kausalya, rodeada por sus h
 
 ## 24 Aparece la muerte personificada  en la forma del tiempo
 
-l cabo de un tiempo, el rey de Kekaya, Yudhajit envió a Gargya, su preceptor e hijo del sabio Angira Muni, para obsequiar a Rama,
+Al cabo de un tiempo, el rey de Kekaya, Yudhajit envió a Gargya, su preceptor e hijo del sabio Angira Muni, para obsequiar a Rama,
 
 como muestra de afecto, un regalo de diez mil caballos además de preciosas gemas, junto con variados y brillantes adornos de gran valor. Al enterarse de que el gran sabio Gargya se aproximaba, Sri Rama y sus hermanos, se desplazaron tres kilómetros para darle alcance, para así aliviar su viaje y darle la bienvenida; de tal manera Gargya fue honrado por Rama, tal cual Indra honra a su maestro espiritual Brihaspati. Así recibido y muy complacido, Gargya hizo entrega de los presentes y agregó la petición de que el territorio de los Gandharvas rico en frutas y raíces y que estaba situado en una bella región a ambos lados del río Sindhu fuera incorporado como parte del reino de Ayodhya.
 
@@ -1451,7 +1451,7 @@ Todos; humanos, aves, animales, fantasmas, seres con cuerpos grandes y pequeños
 
 ## 26 Se confieren las bendiciones del Ramayana
 
-n ese momento, Brahma, el antepasado del mundo creado, acom-
+En ese momento, Brahma, el antepasado del mundo creado, acom-
 
 pañado por todos los semidioses, grandes sabios y nobles, vino a ese lugar, donde Sri Rama estaba listo para partir, rodeado de divinas carrozas que se contaban por millones, donde el cielo, alum-brado por una luz que no era terrenal, más bien emitida desde las residencias celestes, estaba teñido de un resplandor sin paralelo.
 
