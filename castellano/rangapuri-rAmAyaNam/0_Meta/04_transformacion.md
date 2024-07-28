@@ -1,32 +1,19 @@
 +++
-title = "04 El Ramayana"
+title = "04 La transformacion de un malvado"
 
 +++
 
-**El Ramayana**
 
 Como perduro una historia por 
 un millon de anos
 
-
-
-Luego de matar al guardián del templo, Ratnakar cortó con su puñal el
-
+Luego de matar al guardián del templo, Ratnakar cortó con su puñal el  
 collar que adornaba la Deidad de Mahalakshmi, la diosa de la Fortuna. 
 
-**El Ramayana**
 
-**La transformacion de**
+**La transformacion de un malvado**
 
-**un malvado**
-
-n el pasado remoto1 vivió el sabio \( *rishi\)* Valmiki, conocido como *adi-kavi* o el poeta original, y su obra maestra, el Ramayana, es conocida como el *adi-kavya* o el primer poema.2 El Ramayana3 
-
-es indudablemente la primera obra épica en el mundo y, junto al 
-
-*Mahabharata*, que es la mayor4 obra épica conocida por la huma-
-
-nidad, se constituyen en los principales *itihasas* o narraciones históricas. Val-miki5 es uno de los ejemplos más claros del cumplimiento del refrán ‘ *dime con* *quién andas y te diré quién eres’*, pues siendo un alma auto realizada y un sabio del más alto nivel, en su juventud, por entonces llamado Ratnakar, fue violento 1 La era de Treta-yuga data de más de un millón de años atrás, de acuerdo a la cronología Védica. 
+En el pasado remoto1 vivió el sabio \( *rishi\)* Valmiki, conocido como *adi-kavi* o el poeta original, y su obra maestra, el Ramayana, es conocida como el *adi-kavya* o el primer poema.2 El Ramayana3 es indudablemente la primera obra épica en el mundo y, junto al *Mahabharata*, que es la mayor4 obra épica conocida por la humanidad, se constituyen en los principales *itihasas* o narraciones históricas. Val-miki5 es uno de los ejemplos más claros del cumplimiento del refrán ‘ *dime con* *quién andas y te diré quién eres’*, pues siendo un alma auto realizada y un sabio del más alto nivel, en su juventud, por entonces llamado Ratnakar, fue violento 1 La era de Treta-yuga data de más de un millón de años atrás, de acuerdo a la cronología Védica. 
 
 2 Es el primer poema si contamos a partir del reinado de Manu, el primer Rey registrado en los últimos miles de años. 
 
