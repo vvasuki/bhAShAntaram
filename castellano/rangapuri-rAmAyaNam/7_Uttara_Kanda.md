@@ -255,7 +255,7 @@ edavati y era hija de un poderoso sabio, que a su vez era hijo del 536
 
 ## 5 Se acumulan las maldiciones contra Ravana
 
-avana, insolente como era, persistió en su afán conquistador; es así que desafió a combate al rey Marutta que se encontraba reali-
+Ravana, insolente como era, persistió en su afán conquistador; es así que desafió a combate al rey Marutta que se encontraba reali-
 
 “
 
@@ -917,7 +917,7 @@ Habiendo establecido ese reino, al principio del duodécimo año, Satrughna, vol
 
 ## 17 Una hermosa cancion conmueve a Satrughna
 
-n el camino a Ayodhya, Satrughna pasó nuevamente por el *ashram* de Valmiki y ofreciendo reverencias y arrimándose a sus pies, se deleitó y se benefició con las narraciones trascendentales que el sabio le relató.
+En el camino a Ayodhya, Satrughna pasó nuevamente por el *ashram* de Valmiki y ofreciendo reverencias y arrimándose a sus pies, se deleitó y se benefició con las narraciones trascendentales que el sabio le relató.
 
 A su vez, el Rey le informó acerca de los acontecimientos rele-
 

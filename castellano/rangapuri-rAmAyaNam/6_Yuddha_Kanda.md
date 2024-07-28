@@ -429,7 +429,7 @@ Ravana, al escuchar acerca de la muerte de su comandante en jefe, se sumió en u
 
 ## 10 Ravana se enfrenta a los monos y a los principes
 
-avana, al mando de su carroza, llevó a su ejército al campo de
+Ravana, al mando de su carroza, llevó a su ejército al campo de
 
 batalla. Una vez ahí, los numerosos monos al verlo, ansiosos y
 
@@ -503,7 +503,7 @@ Retorna a Lanka y descansa un poco5. Cuando hayas recuperado toda tu fuerza, pod
 
 ## 11 El gigantesco Kumbhakarna es despertado con gran dificultad
 
-avana ingresó a su palacio y se sentó en su trono. Convocó a sus ministros y príncipes, cuando éstos acudieron, les dijo: “Antiguamente vivía un rey descendiente de Ikshvaku, de nombre Anaran-
+Ravana ingresó a su palacio y se sentó en su trono. Convocó a sus ministros y príncipes, cuando éstos acudieron, les dijo: “Antiguamente vivía un rey descendiente de Ikshvaku, de nombre Anaran-
 
 ya, quien me maldijo diciéndome:
 
@@ -1095,7 +1095,7 @@ Los gestos y las palabras de Rama, causaron dolor en Lakshman, Hanuman y Sugriva
 
 ## 21 Sita prueba su castidad
 
-ama, sin dejar de contemplarla, le dijo a Sita: “Oh bendita, ¿cuál es valor del poder si no vengaría un insulto? Por ello, cumpliendo mi voto y recuperando mi autocontrol, hoy he vencido al enemigo y te he rescatado, obteniendo la recompensa a mi indignación.
+Rama, sin dejar de contemplarla, le dijo a Sita: “Oh bendita, ¿cuál es valor del poder si no vengaría un insulto? Por ello, cumpliendo mi voto y recuperando mi autocontrol, hoy he vencido al enemigo y te he rescatado, obteniendo la recompensa a mi indignación.
 
 Ciertamente, para ello, Hanuman hizo un esfuerzo descomunal,
 

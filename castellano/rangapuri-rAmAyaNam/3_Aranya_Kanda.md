@@ -16,7 +16,7 @@ title = "3 Aranya Kanda"
 
 ## 1 Asechan los peligros
 
-amachandra, Lakshman y Sita, después de haber penetrado a lo 
+Ramachandra, Lakshman y Sita, después de haber penetrado a lo 
 
 más profundo del bosque de Dandakaranya \(el cual estaba infesta-
 
@@ -100,7 +100,7 @@ dándole a recuperar su verdadera identidad y una vida
 
 ## 2 La vida apacible en el bosque
 
-ama, Lakshman y Sita, atravesando del ámbito de la civilización,4 
+Rama, Lakshman y Sita, atravesando del ámbito de la civilización,4 
 
 hacia el denso bosque de Dandakaranya, donde existía un poblado 
 
@@ -178,7 +178,7 @@ hierbas para complacer a Rama y a Sita. Viviendo de una manera sencilla y buscan
 
 ## 3 El deber de un guerrero
 
-ama, luego de haber escuchado las palabras pronunciadas por Sita, 
+Rama, luego de haber escuchado las palabras pronunciadas por Sita, 
 
 sujetándose firmemente al dharma, respondió: “¡Oh hija de Janak\! 
 
@@ -264,7 +264,7 @@ De esa manera, habiendo recibido instrucciones, los divinos viajeros se preparar
 
 ## 5 La amistad con una gran ave. El paraiso de Panchavati
 
-n el camino a Pañchavati, Sita, Rama y Lakshman encontraron a 
+En el camino a Pañchavati, Sita, Rama y Lakshman encontraron a 
 
 Jatayu, el gigante rey de los buitres. Pensando que era un raksha-
 
@@ -342,7 +342,7 @@ los alrededores
 
 ## 6 La rakshasi Surpanakha convoca a sus huestes
 
-ncendida de lujuria y sin comprender que ellos bromeaban, Sur-
+Encendida de lujuria y sin comprender que ellos bromeaban, Sur-
 
 panakha nuevamente se dirigió a Sri Rama: “¿Por qué te aferras 
 
@@ -420,7 +420,7 @@ tuvo que ser castigada por Lakshman
 
 ## 7 La ira de los Rakshasas
 
-omando su arco y flechas, Lakshman llevó a Sita a una caverna 
+Tomando su arco y flechas, Lakshman llevó a Sita a una caverna 
 
 y la escondió muy bien de los rakshasas. Mientras tanto, Rama 
 
@@ -562,7 +562,7 @@ Si quieres disfrutar de una vida larga y de tu grandemente estimado reino, ten s
 
 ## 9 El temible demonio es provocado
 
-l temible Ravana tenía diez cabezas, veinte brazos, su cuerpo lle-
+El temible Ravana tenía diez cabezas, veinte brazos, su cuerpo lle-
 
 vaba las cicatrices del rayo de Indra y del disco del Señor Vishnu; 
 
@@ -624,7 +624,7 @@ Escuchando el vibrante reporte de Surpanakha y luego de sopesar los diferentes a
 
 ## 10 El Venado Dorado
 
-avana, con un vil plan en mente, sobrevoló la hermosa costa, cru-
+Ravana, con un vil plan en mente, sobrevoló la hermosa costa, cru-
 
 zó bellísimos bosques y, luego de contemplar encantadores paisa-
 
@@ -768,7 +768,7 @@ precioso bosque
 
 ## 12 Aparece un falso monje
 
-l instante siguiente en que Lakshman partió, Ravana apareció dis-
+Al instante siguiente en que Lakshman partió, Ravana apareció dis-
 
 frazado de ermitaño. Él estaba vestido de color azafrán, como lo 
 
@@ -852,7 +852,7 @@ za, imitando la apariencia de un devoto de Vishnu, un vaishnava. En una mano lle
 
 ## 13 El viejo Jatayu intenta impedir el rapto
 
-resa del pánico, Sita empezó a preguntarse dónde estaba su ama-
+Presa del pánico, Sita empezó a preguntarse dónde estaba su ama-
 
 do. ¿Por qué no aniquilaba a ese desalmado? Tan pronto como 
 
@@ -942,7 +942,7 @@ esposa de Rama\!
 
 ## 14 Indra consuela a Sita
 
-avana, creyéndose a sí mismo más poderoso que Dios, peligrosa-
+Ravana, creyéndose a sí mismo más poderoso que Dios, peligrosa-
 
 mente ignoró la realidad. Entró a Lanka y condujo a Sita hasta su 
 
@@ -1004,7 +1004,7 @@ Literalmente significa: “la misericordia del Señor”.
 
 ## 15 El lamento de Rama
 
-ama, después de haber liberado32 a Maricha, emprendió el regreso 
+Rama, después de haber liberado32 a Maricha, emprendió el regreso 
 
 a la choza. De pronto en el camino, a espaldas suyas, escuchó el 
 
@@ -1080,7 +1080,7 @@ Prosiguiendo la búsqueda, descubrieron los cuerpos de diez asnos con cabezas de
 
 ## 16 La muerte de un amigo leal
 
-ste monstruoso pájaro seguramente debe ser un rakshasa -dijo 
+Este monstruoso pájaro seguramente debe ser un rakshasa -dijo 
 
 Rama, turbado como estaba-. Ha devorado a Sita y ahora está des-
 
@@ -1150,7 +1150,7 @@ tierra y musitando el nombre sagrado de Rama abandonó su cuerpo
 
 ## 17 La groseria es castigada
 
-amachandra y Lakshman siguieron caminando en dirección al Sur, 
+Ramachandra y Lakshman siguieron caminando en dirección al Sur, 
 
 con la esperanza de encontrar a Sita. Viajaron entre bosques de ár-
 
