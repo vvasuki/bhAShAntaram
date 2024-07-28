@@ -480,7 +480,7 @@ Temblando e inclinada con modestia femenina, Tara se acercó a Lakshman, quien s
 
 ## 8 La amistad y la ingratitud
 
-abiendo escuchado las palabras de Tara, que tenían un efecto tran-quilizador por su amabilidad, Lakshman manifestó: “Ocupado en
+Habiendo escuchado las palabras de Tara, que tenían un efecto tran-quilizador por su amabilidad, Lakshman manifestó: “Ocupado en
 
 la complacencia de sus sentidos, este esposo tuyo, ha perdido de vista la adquisición de mérito espiritual y riquezas en el mundo.
 

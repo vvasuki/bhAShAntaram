@@ -83,7 +83,7 @@ a fluir de las rocas y la montaña empezó a temblar; los pájaros, elefantes y 
 
 ## 2 La búsqueda nocturna en Lanka
 
-uando cayó la noche, Hanuman redujo su tamaño al de un gato y
+Quando cayó la noche, Hanuman redujo su tamaño al de un gato y
 
 entró por el portal norte de Lanka. De pronto, una horrible *rakshasi* se levantó y lo detuvo. “¿Quién eres tú y por qué estás aquí?
 
@@ -527,7 +527,7 @@ Arengando a sus seguidores, Angada modestamente señaló: “Sugiero que retorne
 
 ## 9 Hanuman informa a Sri Rama
 
-os monos, movidos por la urgencia, cual piedras disparadas por
+Los monos, movidos por la urgencia, cual piedras disparadas por
 
 una catapulta, saltaron en dirección a Kishkindha. Cuando Sugriva divisó una cantidad de monos aproximarse, raudamente se acercó a Rama: “Sin duda es Angada quien está viniendo; él no osaría regresar a Kishkindha si no hubiera encontrado a Sita y, ciertamente, jamás se atrevería a devastar el jardín de Madhuvana, ese hermoso jardín celestial otorgado a mi padre por el Señor Brahma, mi abuelo.”
 

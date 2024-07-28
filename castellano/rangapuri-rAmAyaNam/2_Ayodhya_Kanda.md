@@ -20,7 +20,7 @@ title = "2 Ayodhya Kanda"
 
 ## 1 La propuesta de la coronacion de Rama
 
-l heroico Yuddhajit, hermano de Kaikeyi y tío de Bharat, visitó en 
+El heroico Yuddhajit, hermano de Kaikeyi y tío de Bharat, visitó en 
 
 una ocasión Ayodhya. Yuddhajit era tan afectuoso con su hermana 
 
@@ -780,7 +780,7 @@ Escuchando las benévolas palabras de Siddhartha, el Rey, con una débil pero cr
 
 ## 16 Sita da una leccion inolvidable
 
-abiendo perdido toda vergüenza, Kaikeyi personalmente trajo cor-
+Habiendo perdido toda vergüenza, Kaikeyi personalmente trajo cor-
 
 tezas de árbol para Rama, Sita y Lakshman y con desdén les dijo: 
 
@@ -1080,7 +1080,7 @@ Toda la gente estaba desorientada y desdichada. Se veía a personas que, llorand
 
 ## 21 El arribo al sagrado Ganga y el encuentro con Guha
 
-os divinos viajeros llegaron al célebre río Ganga, cuyo curso es 
+Los divinos viajeros llegaron al célebre río Ganga, cuyo curso es 
 
 triple21. Se veía encantador con sus aguas claras, adornado con es-
 
@@ -2104,7 +2104,7 @@ Sri Rama, a pesar de estar conmovido por la noble actitud de Bharat, replicó qu
 
 ## 38 las sandalias adorables
 
-os sabios estaban atónitos contemplando a los dos hermanos lle-
+Los sabios estaban atónitos contemplando a los dos hermanos lle-
 
 nos de dignidad y de virtud; luego, considerando la necesidad de la 
 

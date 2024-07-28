@@ -281,7 +281,7 @@ Cuando él exhiba su poder ante el ejército *rakshasa, * ellos huirán despavor
 
 ## 6 La proeza de Indrajit
 
-uando los monos empezaron la invasión, Ravana subió al tope de
+Quando los monos empezaron la invasión, Ravana subió al tope de
 
 la entrada del lado norte de la ciudad, y examinó al ejército de los monos. Por su parte Sugriva, al ver al monstruo de diez cabezas, enrojeció de ira sus ojos, que se pusieron sanguinolentos. Saltó por encima del portón y mirando fijamente a Ravana le dijo: “Soy amigo de Rama. ¡Hoy no te perdonaré\! porque estoy provisto con la fuerza del rey de los reyes.”
 
@@ -359,7 +359,7 @@ Por su parte, Garuda, tomando permiso del Señor, subió a los cielos a la veloc
 
 ## 8 La furia y las proezas de los simios
 
-iendo a Rama y a Lakshman libres de sus ataduras y sus heridas, los monos enardecidos rugieron y chillaron, demostrando así, que una vez más, estaban listos para el combate. Tocando caracolas y tambores, y agitando enormes árboles, atacaron nuevamente las
+Viendo a Rama y a Lakshman libres de sus ataduras y sus heridas, los monos enardecidos rugieron y chillaron, demostrando así, que una vez más, estaban listos para el combate. Tocando caracolas y tambores, y agitando enormes árboles, atacaron nuevamente las
 
 puertas de Lanka.
 
@@ -547,7 +547,7 @@ Jamás en su vida habían visto tan gigantesca entidad viviente. El ejército en
 
 ## 12 Kumbhakarna arrasa al ejercito de los monos
 
-uando Rama vio al demonio apareciendo por encima de los techa-
+Quando Rama vio al demonio apareciendo por encima de los techa-
 
 dos de Lanka, le preguntó a Vibhishan: “¿Quién es este gigante
 
@@ -911,7 +911,7 @@ Khara. \!Oh, demonio tenebroso\! por buena fortuna ahora te encuentras ante mí,
 
 ## 18 Ravana es auxiliado por su auriga
 
-iendo Ravana a sus vigorosos líderes muertos, incrementó su rabia y su deseo de venganza, por lo que, después de vencer a los monos, disparó un misil presidido por Rahu. Luego, cual si fuera oscuro eclipse que cubre al Sol y a la Luna, se abalanzó sobre el Señor Rama y su hermano menor. Lakshman reaccionó con gran rapidez
+Viendo Ravana a sus vigorosos líderes muertos, incrementó su rabia y su deseo de venganza, por lo que, después de vencer a los monos, disparó un misil presidido por Rahu. Luego, cual si fuera oscuro eclipse que cubre al Sol y a la Luna, se abalanzó sobre el Señor Rama y su hermano menor. Lakshman reaccionó con gran rapidez
 
 regando de flechas a Ravana, quien las rechazó con gran destreza, para entonces enfrentarse a Sri Rama. En ese memorable encuentro, se desató una mutua y temible lluvia de misiles, que sobrecogió de terror a todos los seres creados. La carroza de Ravana retumbaba en las diez direcciones.
 

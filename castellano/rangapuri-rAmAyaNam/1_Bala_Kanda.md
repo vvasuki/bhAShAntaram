@@ -95,7 +95,7 @@ planetarios, iluminando el ashram con su esplendor
 
 ## 2 Valmiki Rishi recibe la visita de Brahma
 
-almiki, convertido en un asceta ermitaño, se había concentrado en 
+Valmiki, convertido en un asceta ermitaño, se había concentrado en 
 
 recitar ininterrumpidamente: ‘Rama, Rama, Rama’ durante mu-
 
@@ -157,7 +157,7 @@ Así, Valmiki empezó a componer, en esa métrica, los miles de versos que compo
 
 ## 3 El Ramayana es cantado ante Sri Rama
 
-al como Brahma había predicho, Valmiki, en profundo trance, al 
+Tal como Brahma había predicho, Valmiki, en profundo trance, al 
 
 meditar profundamente en el nombre de Sri Rama, contempló los 
 
@@ -277,11 +277,9 @@ En asuntos de administración, el rey Dasarath era servido por ocho minis-tros28
 
 
 
-## 5 Shanta, la hija del rey Dasarath y la tentacion 
+## 5 Shanta, la hija del rey Dasarath y la tentacion del joven anacoreta
 
-**del joven anacoreta**
-
-asarath, ilustre rey de Ayodhya, dueño de sí mismo, era amado 
+Dasarath, ilustre rey de Ayodhya, dueño de sí mismo, era amado 
 
 por los ciudadanos a quienes nada les faltaba debido a su honesta 
 
@@ -349,7 +347,7 @@ Regocijado con estas palabras, el rey Dasarath, partió junto con sus reinas y m
 
 “
 
-uego de siete u ocho días de permanencia en el Reino de Bengala, 
+Luego de siete u ocho días de permanencia en el Reino de Bengala, 
 
 Dasarath estaba jubiloso. Una vez que se despidió afectuosamente 
 
@@ -509,7 +507,7 @@ de oro lleno de esa preparación deliciosa al agradecido Dasarath
 
 ## 8 Nacen grandes osos y simios
 
-abiendo el Señor preparado su aparición entre los humanos, Bra-
+Habiendo el Señor preparado su aparición entre los humanos, Bra-
 
 hma, el semidiós principal, habló a los semidioses: ‘A fin de asis-
 
@@ -549,7 +547,7 @@ Los simios, a su vez, procrearon hijos que se convirtieron en capitanes de legio
 
 ## 9 El advenimiento de Sri Rama y sus hermanos trascendentales
 
-abiendo tomado lo que les correspondía de la ceremonia, los semi-
+Habiendo tomado lo que les correspondía de la ceremonia, los semi-
 
 dioses retornaron a sus moradas celestiales. Por su parte, Dasara-
 
@@ -629,7 +627,7 @@ periores, apegados a los estudios de los Vedas, al servicio de sus padres.
 
 ## 10 El terrible pedido de Vishvamitra y su furia
 
-uando el entrenamiento de los príncipes prácticamente había con-
+Quando el entrenamiento de los príncipes prácticamente había con-
 
 cluido, Dasarath pensó que debería procurar unas consortes no-
 
@@ -689,7 +687,7 @@ El planeta entero retumbó con las palabras del sabio y el temor se apoderó de 
 
 ## 11 Los Principes son iniciados con mantras sagrados
 
-iendo al mundo entero alarmado, el prudente sabio Vasishtha ofre-
+Viendo al mundo entero alarmado, el prudente sabio Vasishtha ofre-
 
 ció su consejo a Dasarath: “Mi querido Rey, siempre has sido firme 
 
@@ -801,7 +799,7 @@ aliviar el cansancio de su reverenciado guru
 
 ## 12 La muerte de Tataka y de otros demonios
 
-l arribar a la orilla sur, llegaron a un denso bosque el cual estaba 
+Al arribar a la orilla sur, llegaron a un denso bosque el cual estaba 
 
 infestado de aves de rapiña, bestias de presa, jabalíes, tigres y 
 
@@ -959,7 +957,7 @@ La llegada de los príncipes y del sabio Vishvamitra, fue motivo de regocijo par
 
 ## 14 El ataque de los monstruosos Rakshasas
 
-l día siguiente, después de realizar sus purificaciones matutinas, *67* 
+Al día siguiente, después de realizar sus purificaciones matutinas, *67* 
 
 Vishvamitra exclamó: “¡Oh Rama\!, ogros interrumpen nuestras 
 
@@ -1021,7 +1019,7 @@ Después de las meditaciones del atardecer junto a su *guru, * deleitados con un
 
 ## 15 La narracion sobre las bellas muchachas castas
 
-quella noche Rama y Lakshman, habiendo cumplido su misión, re-
+Aquella noche Rama y Lakshman, habiendo cumplido su misión, re-
 
 gocijados en su corazón, se sintieron felices. 
 
@@ -1081,7 +1079,7 @@ Siendo de conciencia pura, las límpidas damas obedecieron y se mantuvieron por 
 
 ## 16 Historia de la Via Lactea, de Parvati y de la progenie de Shiva
 
-la mañana siguiente, Vishvamitra despertó a Sri Rama diciéndo-
+Ala mañana siguiente, Vishvamitra despertó a Sri Rama diciéndo-
 
 le: “¡Oh Rama\! la noche ha terminado, levántate y prepárate para 
 
@@ -1145,7 +1143,7 @@ Tierra confiere virtudes tan sólo al escucharlo o recitarlo, ahora voy a contar
 
 ## 17 El impetuoso descenso de Ganga a la Tierra
 
-l sabio comenzó a narrar el relato anunciado: “Sagar era un anti-
+El sabio comenzó a narrar el relato anunciado: “Sagar era un anti-
 
 guo rey de Ayodhya que no podía engendrar hijos, por lo que se di-
 
@@ -1197,7 +1195,7 @@ Perturbado por el alboroto provocado por los insolentes, el Señor, enfurecido, 
 
 ## 18 Bhagirath propicia la gracia de los Semidioses
 
-ishvamitra continuó: “En tanto el rey Sagar, que esperaba vana-
+Vishvamitra continuó: “En tanto el rey Sagar, que esperaba vana-
 
 mente el retorno de sus hijos, decidió al cabo de un tiempo, enviar 
 
@@ -1263,7 +1261,7 @@ Aquél que escuche esta historia bendita con devoción, será limpio de sus peca
 
 ## 19 La historia de la aparicion de las Encarnaciones Divinas
 
-abiendo escuchado atentamente esa maravillosa narración, Sri 
+Habiendo escuchado atentamente esa maravillosa narración, Sri 
 
 Rama y Lakshman glorificaron a Vishvamitra: “Esta noche sagra-
 
@@ -1307,7 +1305,7 @@ Cuando finalmente apareció el néctar de la inmortalidad, se desató una temibl
 
 ## 20 La caida de un semidios y la liberacion de Ahalya
 
-ishvamitra continuó con su relato: “Desconsolada por la muerte 
+Vishvamitra continuó con su relato: “Desconsolada por la muerte 
 
 de sus hijos, Diti, con el propósito de ser bendecida con un pode-
 
@@ -1367,7 +1365,7 @@ brante figura de Ahalya, quien con su devoción exaltada procuró aferrar-se a l
 
 ## 21 En el reino de Janak se cuenta la historia de los palacios en el bosque
 
-os célebres viajeros llegaron a Mithila, la capital del gran rey Ja-
+Los célebres viajeros llegaron a Mithila, la capital del gran rey Ja-
 
 nak, un gobernante ideal. Cuando éste se enteró de la llegada de 
 
@@ -1497,7 +1495,7 @@ El sabio, indignado ante el insolente ataque, con su bastón extinguió cuanto p
 
 ## 23 Trishanku y las prácticas para  desarrollar poderes
 
-on los sentidos aplacados, Vishvamitra, en compañía de su reina, 
+Con los sentidos aplacados, Vishvamitra, en compañía de su reina, 
 
 se dirigió al Sur para practicar las más severas austeridades con el 
 
@@ -1541,7 +1539,7 @@ Sin embargo, tan poderoso era Vishvamitra, que creó un sistema planetario para 
 
 ## 24 Vishvamitra salva a Sunahshep y se  enamora de la apsara Menaka
 
-ontó además Sat-Ananda otras proezas de Vishvamitra entre ellas 
+Contó además Sat-Ananda otras proezas de Vishvamitra entre ellas 
 
 el tiempo de sus austeridades en Pushkar. Ambos –explicó- estu-
 
@@ -1591,9 +1589,7 @@ Uno solo de los sentidos que se concentre en un objeto de placer puede descarria
 
 
 
-## 25 El santo Vishvamitra supera  las tentaciones y alcanza 
-
-**la auto realizacion**
+## 25 El santo Vishvamitra supera  las tentaciones y alcanza la auto realizacion
 
 ntes de que pasara mucho tiempo, por temor a los poderes de Vi-
 
@@ -1665,7 +1661,7 @@ Después de esto, Vishvamitra viajó por todo el planeta, y se volvió el más g
 
 ## 26 La historia de Sita y del arco del  Señor Shiva
 
-omplacido al escuchar esta narración heroica, el rey Janak se diri-
+Complacido al escuchar esta narración heroica, el rey Janak se diri-
 
 gió a Vishvamitra Muni: “¡Oh, joya entre los sabios\!, estoy bende-
 
@@ -1733,7 +1729,7 @@ escuchó mientras el formidable arco se partía crujiendo como un violento terre
 
 ## 27 Las princesas son comprometidas. El  árbol genealogico de los reyes 
 
-leno de emoción, Janak exclamó: “He sido testigo de la proeza de 
+Lleno de emoción, Janak exclamó: “He sido testigo de la proeza de 
 
 Sri Rama, hijo del emperador Dasarath. Este acto inconcebible, 
 
@@ -1813,7 +1809,7 @@ Ese mismo día llegó al reino de Mithila el hermano de Kaikeyi, Yuddhajit, para
 
 ## 28 La boda de los hijos del  rey Dasarath
 
-l sabio Vasishtha Muni, que encabezaba el ceremonial, y otros 
+El sabio Vasishtha Muni, que encabezaba el ceremonial, y otros 
 
 eminentes ilustrados estaban en el salón de culto. Sri Rama llegó 
 
@@ -1875,7 +1871,7 @@ esposa. Ella es casta y está altamente calificada, y permanecerá exclusivament
 
 ## 29 Inesperados presagios.  El encuentro con Parashuram
 
-a mañana siguiente, el rey Dasarath y su séquito partieron hacia 
+La mañana siguiente, el rey Dasarath y su séquito partieron hacia 
 
 Ayodhya. Todos estaban muy alegres y se desplazaban ágilmente, 
 
@@ -1935,7 +1931,7 @@ Naciente, liberó al mundo de la oscuridad que lo envolvía. Al ver esto, los se
 
 ## 30 Rama entrega el gran arco  de Vishnu al semidios de las aguas
 
-abiendo partido Parashuram, Sri Rama de mente tranquila, entre-
+Habiendo partido Parashuram, Sri Rama de mente tranquila, entre-
 
 gó el arco a Varuna, el semidiós de las aguas. Su padre Dasarath 
 

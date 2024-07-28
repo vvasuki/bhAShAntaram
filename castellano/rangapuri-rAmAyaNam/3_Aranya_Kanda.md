@@ -238,7 +238,7 @@ Rama partió junto a Sita y a Lakshman. Cuando llegaron a las cercanías del ash
 
 ## 4 Encuentro con el sabio Agastya
 
-l día siguiente, después de proseguir con la caminata, al aproxi-
+Al día siguiente, después de proseguir con la caminata, al aproxi-
 
 marse el atardecer, Sita, Rama y Lakshman, llegaron al ashram del hermano de Agastya, donde decidieron pernoctar. Al otro día llegaron al ashram del propio Agastya, quien, debido a que los rakshasas le tenían miedo, estaba libre de todo disturbio. Rama envió a Lakshman para anunciar su llegada; entonces, un discípulo del rishi le informó a Lakshman: “Agastya ya dio la orden, invita a Rama a venir aquí de inmediato, pues lo ha estado esperando por mucho tiempo.” 
 

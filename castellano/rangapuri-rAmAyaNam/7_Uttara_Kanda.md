@@ -21,7 +21,7 @@ title = "7 Uttara Kanda"
 
 ## 1 Los ascetas felicitan a Rama y empieza una narracion reveladora
 
-uando Rama hubo reconquistado su reino después de destruir a los *rakshasas*, sabios provenientes de todos los diferentes puntos cardinales vinieron a visitarlo. Del Este, arribaron Kausika, Gargya, Kanva, etc; del Sur, Agastya, Sumukha, Swastyatreya, Namuchi,
+Quando Rama hubo reconquistado su reino después de destruir a los *rakshasas*, sabios provenientes de todos los diferentes puntos cardinales vinieron a visitarlo. Del Este, arribaron Kausika, Gargya, Kanva, etc; del Sur, Agastya, Sumukha, Swastyatreya, Namuchi,
 
 etc; del Oeste, Dhaumya, Kausheya, Kavas, etc. Arribaron del Nor-te los siete sabios: Vasishtha, Vishvamitra, Gautama, Jamadagni, Kasyapa, Atri y Bharadvaj. En realidad llegaron muchos otros eruditos y notables, todos estos sabios eran muy bien versados en las sagradas escrituras Védicas y sus suplemen-tos1, y estaban además asistidos por discípulos muy calificados.
 
@@ -129,7 +129,7 @@ Aunque Kaikashi fue satisfecha por Vishrava, con el paso del tiempo, ella no pud
 
 ## 3 Ravana arrebata a Kuvera su ciudad y su nave 
 
-l sabio Agastya continuó su narración: “Para incrementar su po-
+El sabio Agastya continuó su narración: “Para incrementar su po-
 
 der, Dasagriva buscó a sus hermanos y junto a ellos se fue a practicar una serie de austeridades con severas penitencias, que son siempre fuente infalible de poderes sobrenaturales. Dejó de beber agua por un tiempo muy prolongado y, al final de cada mil años, ofrecía una de sus cabezas al fuego de sacrificio. De hecho, cuando estaba a punto de ofrecer su última cabeza, apareció el señor Brahma quien estaba muy complacido por sus penitencias y le pidió que acepte una bendición.
 
@@ -633,7 +633,7 @@ A continuación, Lakshman secando sus ojos le pidió a Sumantra que aguar-de con
 
 ## 11 Sita es llevada al ashram de Valmiki
 
-abiendo llegado a la orilla opuesta del gran río, Lakshman, con las manos juntas y el rostro cubierto de lágrimas expresó: “Mi corazón está atravesado por un poderoso dardo, puesto que se me ha
+Habiendo llegado a la orilla opuesta del gran río, Lakshman, con las manos juntas y el rostro cubierto de lágrimas expresó: “Mi corazón está atravesado por un poderoso dardo, puesto que se me ha
 
 confiado una cruel tarea, digna de todo reproche.
 
@@ -667,7 +667,7 @@ Lakshman, abatido e incapaz de hablar, hizo reverencias poniendo su frente al ra
 
 ## 12 El encuentro de Sita con Valmiki y el cumplimiento de una profecia
 
-os hijos de los ascetas, que habitaban el *ashram*, habían visto a una hermosa dama, como una diosa, abandonada a orillas del río
+Los hijos de los ascetas, que habitaban el *ashram*, habían visto a una hermosa dama, como una diosa, abandonada a orillas del río
 
 sagrado y le comunicaron al bendito Valmiki: “Una dama noble que nunca antes vimos, que tiene el aspecto de la diosa de la fortuna, llora desesperada cerca al Ganga.
 
@@ -1023,7 +1023,7 @@ Respondiendo a Sri Rama, Agastya le contó: “Tu antepasado Manu50 el padre del
 
 ## 19 Los efectos del descontrol  y el precio de las faltas
 
-l sabio continuó, “Aunque el rey Danda era incompetente, al tener como consejero a un brahmán muy calificado, de nombre Ushana,
+El sabio continuó, “Aunque el rey Danda era incompetente, al tener como consejero a un brahmán muy calificado, de nombre Ushana,
 
 su reino prosperó notablemente.
 
@@ -1093,7 +1093,7 @@ Los desiertos son lugares impíos. La menstruación en las mujeres es la manifes
 
 ## 20 La narracion del Rey que fue mujer.  Comienza el gran Ashvamedha yajña
 
-abiendo escuchando las palabras de Lakshman, Sri Ramachandra
+Habiendo escuchando las palabras de Lakshman, Sri Ramachandra
 
 le expuso: “Antiguamente había un gobernante piadoso llamado
 
@@ -1381,7 +1381,7 @@ Rama que estaba abrumado, con su cabeza mirando hacia abajo, no pudo decir una s
 
 ## 25 La partida del Avatar Amado al Mundo Espiritual
 
-iendo Lakshman que Rama se quedó como petrificado, sin habla y
+Viendo Lakshman que Rama se quedó como petrificado, sin habla y
 
 afligido como la luna bajo un eclipse, le habló con dulzura: “No te aflijas por mí, porque estamos atados por nuestras acciones previas, esa es la ley del karma, la muerte termina con la vida. Ten confianza y mantén Tu promesa, pues aquellos hombres que no
 
