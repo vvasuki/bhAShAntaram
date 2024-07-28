@@ -158,7 +158,7 @@ Las calles de Ayodhya pronto se llenaron de multitudes que llegaron del campo y 
 
 ## 4 Surge una intriga
 
-ientras el gozo inundaba el corazón de los ciudadanos que se pre-
+ Mientras el gozo inundaba el corazón de los ciudadanos que se pre-
 
 paraban para la coronación de Rama, desde la terraza del palacio, 
 
@@ -414,7 +414,7 @@ Mientras tanto, la melodía de las canciones que glorificaban a los famosos reye
 
 ## 9 Rama es convocado por su padre
 
-ientras el rey Dasarath discutía con Kaikeyi, el gran sabio Vasi-
+ Mientras el rey Dasarath discutía con Kaikeyi, el gran sabio Vasi-
 
 shtha Muni había terminado los preparativos para la ceremonia 
 
@@ -670,7 +670,7 @@ Por ello, incluso Rama y Sita, siguieron las normas prescritas para los ascetas 
 
 ## 14 Sri Rama renuncia a todas sus posesiones
 
-ara donar todas sus posesiones, Rama convocó a los principales 
+Para donar todas sus posesiones, Rama convocó a los principales 
 
 brahmanes. Suyajña, hijo de Vasishtha, los hijos de Agastya y Vi-
 
@@ -970,7 +970,7 @@ atormentará con sus rayos, la Luna por su parte les refrescará, y las brisas d
 
 ## 19 Persiguiendo el carruaje de Rama
 
-ientras tanto, siendo Ramachandra su vida, muchos simplemente 
+ Mientras tanto, siendo Ramachandra su vida, muchos simplemente 
 
 no podían dejar de seguir la carroza, ya que no encontraban otro 
 
@@ -1420,7 +1420,7 @@ guía y sin tu afecto? No vayas aún hijo, a la mansión de Dharmaraj29’.
 
 ## 26 La muerte se asoma al reino invencible
 
-espués de confesar el más triste recuerdo de su pasado, el rey 
+Después de confesar el más triste recuerdo de su pasado, el rey 
 
 Dasarath exclamó: “¡Oh, Kausalya\!, estoy cosechando el fruto de 
 

@@ -22,7 +22,7 @@ title = "4 Kishkindha Kanda"
 
 ## 1 El empeño que todo lo puede
 
-ri Rama y el hijo de Sumitra, Lakshman llegaron al lago Pampa,
+Sri Rama y el hijo de Sumitra, Lakshman llegaron al lago Pampa,
 
 abundante en flores y peces. Rama, al comienzo se sintió deleita-do, pero al recordar el secuestro de Sita, preso de amor por ella y sintiendo profunda separación, habló de la siguiente manera: “Al estar este lago adornado con flores de loto y azucenas, con variedad de árboles de toda descripción, y rodeado de encantadoras montañas, ciertamente es precioso y complaciente contemplarlo. Pero, atormentado como estoy, con el triste pedido de Bharat y el rapto de Sita, este mismo lago pintoresco, sus bosques y sus frescas aguas aumentan Mi aflicción”.
 
@@ -60,7 +60,7 @@ Lakshman, observando el estado de su hermano le dijo: “Ten fortaleza ¡Oh, Ram
 
 ## 2 El encuentro de los Principes y los monos
 
-amachandra y Lakshman, una vez que terminaron de bañarse en
+Ramachandra y Lakshman, una vez que terminaron de bañarse en
 
 el lago, continuaron su viaje a través del bosque hasta el valle de la montaña Rishyamuka. Mientras caminaban, eran observados
 
@@ -130,7 +130,7 @@ Rama y Lakshman
 
 ## 3 La historia de Sugriva, el Rey de los monos
 
-ientras conversaban, Sugriva dijo: “Por lo que escucho de ella, yo creo que he visto a tu esposa cuando estaba siendo llevada por Ravana. Un día, cuando mis ministros y yo nos encontrábamos sen-
+Mientras conversaban, Sugriva dijo: “Por lo que escucho de ella, yo creo que he visto a tu esposa cuando estaba siendo llevada por Ravana. Un día, cuando mis ministros y yo nos encontrábamos sen-
 
 tados en la cima de esta montaña, vimos a un rakshasa llevando a una hermosa mujer por los aires.
 
@@ -202,7 +202,7 @@ Sri Rama levantó a Sugriva y lo abrazó. “Vayamos a Kishkindha -dijo-. Ahí d
 
 ## 4 Combate a muerte entre hermanos
 
-ama, Lakshman y el mono Sugriva llegaron rápidamente a las afueras de Kishkindha, donde Rama y Lakshman permanecieron escon-
+Rama, Lakshman y el mono Sugriva llegaron rápidamente a las afueras de Kishkindha, donde Rama y Lakshman permanecieron escon-
 
 didos en un denso bosque. Acercándose a las puertas de la ciudad, con un estruendoso rugido Sugriva desafió a Vali. Éste, enfurecido por el desafío, al cual lo consideraba una osadía, salió fuera de la ciudad para enfrentar a su hermano.
 
@@ -428,7 +428,7 @@ frutos, pero, no encuentro júbilo en ausencia de Sita. El sueño no me llega po
 
 ## 7 La indignacion crece y amenaza un colapso
 
-ientras pasaban los días, por las noches, Sri Rama observaba el cielo, y cuidadosamente miraba las posiciones de las estrellas, cal-culando el transcurso del tiempo; observando las aguas y la vida silvestre de cada nuevo día, con ansias esperaba que llegara el otoño.
+ Mientras pasaban los días, por las noches, Sri Rama observaba el cielo, y cuidadosamente miraba las posiciones de las estrellas, cal-culando el transcurso del tiempo; observando las aguas y la vida silvestre de cada nuevo día, con ansias esperaba que llegara el otoño.
 
 
 

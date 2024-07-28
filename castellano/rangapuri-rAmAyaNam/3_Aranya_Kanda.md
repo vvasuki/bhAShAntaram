@@ -506,7 +506,7 @@ Lakshman se unió entusiasta a felicitar a su hermano.
 
 ## 8 El gran demonio se anoticia sobre la masacre de los rakshasas
 
-ientras tanto un rakshasa de nombre Akampana, -quien había es-
+ Mientras tanto un rakshasa de nombre Akampana, -quien había es-
 
 capado de la masacre- fue a Lanka, y le contó a Ravana18 acerca de 
 
@@ -1240,7 +1240,7 @@ ción al poniente, siguiendo la ruta que Kabandha les había aconsejado.
 
 ## 18 La liberacion de Shabari, la mujer asceta
 
-espués de viajar por colinas, a través de bosques, cruzando ríos y 
+Después de viajar por colinas, a través de bosques, cruzando ríos y 
 
 bajando de las montañas a los valles, Ramachandra y Lakshman 
 

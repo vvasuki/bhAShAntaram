@@ -209,7 +209,7 @@ En medio de una audiencia virtuosa, que se aprestaba a escuchar con gran atenci�
 
 “
 
-l mundo entero ha estado gobernado por reyes victoriosos, comen-
+El mundo entero ha estado gobernado por reyes victoriosos, comen-
 
 zando con Manu,23 el famoso gobernante de la dinastía solar que 
 
@@ -433,7 +433,7 @@ A medida que la ceremonia se realizaba, ante la mirada asombrada de los presente
 
 “
 
-ientras la ceremonia se celebraba en Ayodhya, en el mundo celes-
+Mientras la ceremonia se celebraba en Ayodhya, en el mundo celes-
 
 tial, los semidioses, a fin de expresar su preocupación, se reunían 
 
@@ -879,7 +879,7 @@ Debido a la presencia del sabio y de los príncipes, el bosque se volvió un her
 
 ## 13 Las enseñanzas en el hermoso templo de Siddhashram
 
-espués de pasar la noche en el bosque, a la mañana siguiente, el 
+Después de pasar la noche en el bosque, a la mañana siguiente, el 
 
 ilustre Vishvamitra, recordando la hazaña del día anterior, soltó 
 

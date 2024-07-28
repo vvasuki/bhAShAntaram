@@ -135,7 +135,7 @@ Tomando esa firme resolución, Hanuman continuó su búsqueda.
 
 ## 3 Ravana aborda a Sita
 
-ientras Hanuman caminaba por los alrededores del palacio, vio un bosquecillo inexplorado de árboles de *ashoka*. Saltando por encima de la tapia, entró a un jardín, donde había pájaros multicolores y estanques llenos de flores de loto. Confundido por la vasta complejidad del jardín, Hanuman se trepó a un árbol, desde donde podía divisar la arboleda completa.
+ Mientras Hanuman caminaba por los alrededores del palacio, vio un bosquecillo inexplorado de árboles de *ashoka*. Saltando por encima de la tapia, entró a un jardín, donde había pájaros multicolores y estanques llenos de flores de loto. Confundido por la vasta complejidad del jardín, Hanuman se trepó a un árbol, desde donde podía divisar la arboleda completa.
 
 En el centro del bosquecillo, vio una construcción de mármol blanco, sostenida por mil pilares, aparentemente era un templo, dentro del cual había asientos de oro sólido. En las cercanías, a la sombra de las ramas de los árboles, estaba sentada una hermosa mujer rodeada de *rakshasis. * Ella vestía únicamente un atuendo amarillo y no usaba adornos. Parecía deprimida y demacrada debido al ayuno, luego de mirarla con atención, Hanuman pensó: “Ella debe ser Sita, la de los ojos de loto. Su forma me recuerda a la de la mujer que Ravana estaba llevando por encima de la montaña de Rishyamuka. ¡Sí, no hay duda\! ¡Ella es Sita\!”.
 
@@ -347,7 +347,7 @@ Hanuman, postrándose ante Sita, la circundó en actitud de adoración, y se dis
 
 ## 6 Hanuman destruye la arboleda de Ashokas y es capturado
 
-espués de haber hablado con Sita, Hanuman, deseoso de conocer
+Después de haber hablado con Sita, Hanuman, deseoso de conocer
 
 la fuerza de Ravana, pensó: “Si destruyo esta arboleda de *ashoka*, la cual es muy querida por Ravana, Él enviará un ejército de *rakshasas. * Y entonces yo pelearé contra ellos, y así podré conocer el alcance de sus fuerzas. Después de ello, partiré a la morada de Sugriva.”
 

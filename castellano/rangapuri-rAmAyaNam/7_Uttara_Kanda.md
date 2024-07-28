@@ -1165,7 +1165,7 @@ Se había construido una costosa residencia para los nobles reyes y sus seguidor
 
 ## 21 El emocionante arribo de Valmiki  con sus discipulos
 
-ientras la ceremonia yajña se realizaba tan maravillosamente, de repente, arribó el santo Valmiki, acompañado de sus discípulos.
+ Mientras la ceremonia yajña se realizaba tan maravillosamente, de repente, arribó el santo Valmiki, acompañado de sus discípulos.
 
 De inmediato, delante ese conjunto de venerables, fueron colo-
 

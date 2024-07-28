@@ -57,7 +57,7 @@ Alentando al ogro, varios demonios alardeaban de su propia fuerza y hacían voto
 
 ## 2 El hermano de Ravana se aparta de los demonios
 
-ibhishan, el hermanastro menor de Ravana, se inquietó al escu-
+Vibhishan, el hermanastro menor de Ravana, se inquietó al escu-
 
 char a Ravana y a los demás rakshasas jactarse tan orgullosamen-te le preguntó de manera muy inteligente: “Ravana, ¿Quién ató a Sita, esa gigantesca serpiente, alrededor de tu cuello?
 
@@ -89,7 +89,7 @@ Ravana reaccionó furibundo: “Es mejor vivir con un enemigo declarado, que con
 
 ## 3 Vibhishan le pide refugio a Rama
 
-ibhishan, seguido de sus ministros, inmediatamente dejó el pa-
+Vibhishan, seguido de sus ministros, inmediatamente dejó el pa-
 
 lacio de su hermano. Al poco tiempo surcó el océano y llegó a la costa opuesta, al campamento de Rama. Permaneciendo en el aire
 
@@ -155,7 +155,7 @@ Nuevamente Shuka apeló a Rama, y el Señor misericordiosamente le aseguró que 
 
 ## 4 El puente flotante y el valor del más pequeño
 
-ara llegar a Sri Lanka, era necesario cruzar el inmenso océano, entonces Rama decidió pedir la asistencia de Varuna, el semidiós de los mares. Durante tres días, Rama esperó pacientemente una
+Para llegar a Sri Lanka, era necesario cruzar el inmenso océano, entonces Rama decidió pedir la asistencia de Varuna, el semidiós de los mares. Durante tres días, Rama esperó pacientemente una
 
 respuesta, pero Varuna no compareció ante él. Finalmente, Rama
 
@@ -225,7 +225,7 @@ nombre de Rama; milagrosamente, estas flotaban
 
 ## 5 El facsimil de la cabeza de Rama
 
-espués de cruzar el puente de rocas sobre el océano, el gran ejército de monos se organizó en formación de batalla frente a la ciudad de Lanka. Al haber escuchado que los soldados monos se estaban
+Después de cruzar el puente de rocas sobre el océano, el gran ejército de monos se organizó en formación de batalla frente a la ciudad de Lanka. Al haber escuchado que los soldados monos se estaban
 
 reuniendo para un ataque, Ravana envió a sus espías Shuka y Sa-
 
@@ -1033,7 +1033,7 @@ Los rituales funerarios se realizaron con todo honor, y los brahmanes recitaron 
 
 ## 20 Hanuman transmite el mensaje de Rama a Sita
 
-espués de la muerte de Ravana, el Señor Rama ordenó a Lakshman
+Después de la muerte de Ravana, el Señor Rama ordenó a Lakshman
 
 que consagre a Vibhishan en el trono de Lanka, puesto que Rama
 
@@ -1291,7 +1291,7 @@ blemente sentados, ascendió a los cielos, en medio de las ovaciones de los ciud
 
 ## 24 El festival de Dipavali y la coronacion de Sri Rama
 
-espués de un festín de frutas y miel de los árboles en el camino, una multitud de monos se encaminó a Ayodhya. Al día siguiente,
+Después de un festín de frutas y miel de los árboles en el camino, una multitud de monos se encaminó a Ayodhya. Al día siguiente,
 
 Rama y Sus acompañantes abordaron el Pushpaka que alzó vuelo.
 
