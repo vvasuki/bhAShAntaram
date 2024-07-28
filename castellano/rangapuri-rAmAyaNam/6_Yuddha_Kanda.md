@@ -19,7 +19,7 @@ title = "6 Yuddha Kanda"
 
 **Yuddha Kanda**
 
-## 1 Se inicia la campaña belica
+## 01 Se inicia la campaña belica
 
 Has llevado a cabo una espectacular y maravillosa hazaña, ¡Oh
 
@@ -55,7 +55,7 @@ Alentando al ogro, varios demonios alardeaban de su propia fuerza y hacían voto
 
 **Yuddha Kanda**
 
-## 2 El hermano de Ravana se aparta de los demonios
+## 02 El hermano de Ravana se aparta de los demonios
 
 Vibhishan, el hermanastro menor de Ravana, se inquietó al escu-
 
@@ -87,7 +87,7 @@ Ravana reaccionó furibundo: “Es mejor vivir con un enemigo declarado, que con
 
 **Yuddha Kanda**
 
-## 3 Vibhishan le pide refugio a Rama
+## 03 Vibhishan le pide refugio a Rama
 
 Vibhishan, seguido de sus ministros, inmediatamente dejó el pa-
 
@@ -153,7 +153,7 @@ Nuevamente Shuka apeló a Rama, y el Señor misericordiosamente le aseguró que 
 
 **Yuddha Kanda**
 
-## 4 El puente flotante y el valor del más pequeño
+## 04 El puente flotante y el valor del más pequeño
 
 Para llegar a Sri Lanka, era necesario cruzar el inmenso océano, entonces Rama decidió pedir la asistencia de Varuna, el semidiós de los mares. Durante tres días, Rama esperó pacientemente una
 
@@ -223,7 +223,7 @@ nombre de Rama; milagrosamente, estas flotaban
 
 **El Gran Combate**
 
-## 5 El facsimil de la cabeza de Rama
+## 05 El facsimil de la cabeza de Rama
 
 Después de cruzar el puente de rocas sobre el océano, el gran ejército de monos se organizó en formación de batalla frente a la ciudad de Lanka. Al haber escuchado que los soldados monos se estaban
 
@@ -279,7 +279,7 @@ Cuando él exhiba su poder ante el ejército *rakshasa, * ellos huirán despavor
 
 **Yuddha Kanda**
 
-## 6 La proeza de Indrajit
+## 06 La proeza de Indrajit
 
 Quando los monos empezaron la invasión, Ravana subió al tope de
 
@@ -331,7 +331,7 @@ Cuando Ravana escuchó el reporte, inmediatamente dio un salto y abrazó a su hi
 
 **El Gran Combate**
 
-## 7 Sita es nuevamente engañada
+## 07 Sita es nuevamente engañada
 
 Obedeciendo la orden de Ravana, las *rakshasis* fueron al bosquecillo de árboles *ashoka* y le dieron a Sita la noticia. La *rakshasi* Trijata puso a Sita a bordo de la nave de flores Pushpaka y sobrevolaron el ejército desordenado de monos y el de los jubilosos *rakshasas. * Sita entonces vio a Rama y a Lakshman yaciendo inde-fensos y atrapados en una red de flechas serpentinas.
 
@@ -357,7 +357,7 @@ Por su parte, Garuda, tomando permiso del Señor, subió a los cielos a la veloc
 
 **El Gran Combate**
 
-## 8 La furia y las proezas de los simios
+## 08 La furia y las proezas de los simios
 
 Viendo a Rama y a Lakshman libres de sus ataduras y sus heridas, los monos enardecidos rugieron y chillaron, demostrando así, que una vez más, estaban listos para el combate. Tocando caracolas y tambores, y agitando enormes árboles, atacaron nuevamente las
 
@@ -393,7 +393,7 @@ Viendo la cabeza de su líder rodar por el piso, los *rakshasas* nuevamente se r
 
 **El Gran Combate**
 
-## 9 Los rakshasas sufren otra derrota
+## 09 Los rakshasas sufren otra derrota
 
 Tras la muerte de Vajradamshtra, Akampana y otros ogros apare-
 

@@ -19,7 +19,7 @@ title = "7 Uttara Kanda"
 
 **Uttara Kanda**
 
-## 1 Los ascetas felicitan a Rama y empieza una narracion reveladora
+## 01 Los ascetas felicitan a Rama y empieza una narracion reveladora
 
 Quando Rama hubo reconquistado su reino después de destruir a los *rakshasas*, sabios provenientes de todos los diferentes puntos cardinales vinieron a visitarlo. Del Este, arribaron Kausika, Gargya, Kanva, etc; del Sur, Agastya, Sumukha, Swastyatreya, Namuchi,
 
@@ -71,7 +71,7 @@ El erudito continuo así la narración: “Al reparar en esta situación, el Se�
 
 **El Gobernante Ideal**
 
-## 2 El origen de Ravana y sus hermanos
+## 02 El origen de Ravana y sus hermanos
 
 El gran Agastya continuo así la narración: “Al reparar en esta situación, el Señor Shiva, para condescender con el sentimiento de su esposa, otorgó a los *rakshasas* adicionalmente una magnífica ciudadela flotante; entonces, Sukesh se dedicó a realizar severas penitencias, al igual que sus ancestros. Posteriormente, contrajo matrimonio con Devavati y, de esta unión, nacieron tres hijos: Malyavan, Sumali y Mali.
 
@@ -127,7 +127,7 @@ Aunque Kaikashi fue satisfecha por Vishrava, con el paso del tiempo, ella no pud
 
 **El Gobernante Ideal**
 
-## 3 Ravana arrebata a Kuvera su ciudad y su nave 
+## 03 Ravana arrebata a Kuvera su ciudad y su nave 
 
 El sabio Agastya continuó su narración: “Para incrementar su po-
 
@@ -187,7 +187,7 @@ Dasagriva, haciendo caso omiso a las palabras de Nandi, respondió: ‘debido a 
 
 **El Gobernante Ideal**
 
-## 4 El arrogante Ravana ofende a la bella asceta
+## 04 El arrogante Ravana ofende a la bella asceta
 
 Observando el terrible sufrimiento por el que estaba pasando Da-
 
@@ -253,7 +253,7 @@ edavati y era hija de un poderoso sabio, que a su vez era hijo del 536
 
 **El Gobernante Ideal**
 
-## 5 Se acumulan las maldiciones contra Ravana
+## 05 Se acumulan las maldiciones contra Ravana
 
 Ravana, insolente como era, persistió en su afán conquistador; es así que desafió a combate al rey Marutta que se encontraba reali-
 
@@ -307,7 +307,7 @@ Ella corrió donde Nalakuvara y le contó entrecortadamente lo que había aconte
 
 **El Gobernante Ideal**
 
-## 6 La historia de Indrajit y su batalla contra el Rey del cielo
+## 06 La historia de Indrajit y su batalla contra el Rey del cielo
 
 Ni bien para evitar que se cumplan las maldiciones de que fue objeto, Ravana evitó tomar por la fuerza a las mujeres, su afán belicoso
 
@@ -355,7 +355,7 @@ Hanuman, que se encontraba entre los que escuchaban esta conversación, al escuc
 
 **Uttara Kanda**
 
-## 7 Se revelan las glorias de Hanuman
+## 07 Se revelan las glorias de Hanuman
 
 Ante la pregunta de Sri Rama acerca de Hanuman, Agastya, de ex-
 
@@ -471,7 +471,7 @@ par tan atractiva fruta
 
 **El Gobernante Ideal**
 
-## 8 Sri Rama empieza a gobernar. Belleza y plenitud se manifiestan
+## 08 Sri Rama empieza a gobernar. Belleza y plenitud se manifiestan
 
 A la mañana siguiente, después de ser despertado por cantantes que recitaban Sus gracias, Rama se bañó y se sentó para realizar ceremonias de fuego *\(agni-hotra\). * Luego visitó el templo del palacio, ofreció respetos a brahmanes y sabios; y de allí se dirigió a la corte real. Sentado en Su trono real, rodeado por ministros, sirvientes y veinte de los jefes monos, Rama comenzó a administrar el Estado de una manera ejemplar.
 
@@ -537,7 +537,7 @@ tud se manifestaron. Sita Rama, Lakshman y Hanuman
 
 **Uttara Kanda**
 
-## 9 La crueldad de los rumores de los insensatos
+## 09 La crueldad de los rumores de los insensatos
 
 En el entorno de la vida feliz de Ayodhya, narradores expertos y sabios tales como Vijaya, Madhumata, Kasyapa, Mangala, Kula,
 

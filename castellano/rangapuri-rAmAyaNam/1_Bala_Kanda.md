@@ -15,7 +15,7 @@ title = "1 Bala Kanda"
 
 
 
-## 1 El sabio Narada, narra la historia de Rama a Valmiki
+## 01 El sabio Narada, narra la historia de Rama a Valmiki
 
 
 
@@ -93,7 +93,7 @@ planetarios, iluminando el ashram con su esplendor
 
 
 
-## 2 Valmiki Rishi recibe la visita de Brahma
+## 02 Valmiki Rishi recibe la visita de Brahma
 
 Valmiki, convertido en un asceta ermitaño, se había concentrado en 
 
@@ -155,7 +155,7 @@ Así, Valmiki empezó a componer, en esa métrica, los miles de versos que compo
 
 
 
-## 3 El Ramayana es cantado ante Sri Rama
+## 03 El Ramayana es cantado ante Sri Rama
 
 Tal como Brahma había predicho, Valmiki, en profundo trance, al 
 
@@ -205,7 +205,7 @@ En medio de una audiencia virtuosa, que se aprestaba a escuchar con gran atenci�
 
 
 
-## 4 Comienza la narracion describiendo la Ciudad Invencible
+## 04 Comienza la narracion describiendo la Ciudad Invencible
 
 “
 
@@ -277,7 +277,7 @@ En asuntos de administración, el rey Dasarath era servido por ocho minis-tros28
 
 
 
-## 5 Shanta, la hija del rey Dasarath y la tentacion del joven anacoreta
+## 05 Shanta, la hija del rey Dasarath y la tentacion del joven anacoreta
 
 Dasarath, ilustre rey de Ayodhya, dueño de sí mismo, era amado 
 
@@ -343,7 +343,7 @@ Regocijado con estas palabras, el rey Dasarath, partió junto con sus reinas y m
 
 
 
-## 6 Una formidable ceremonia para perpetuar la dinastia
+## 06 Una formidable ceremonia para perpetuar la dinastia
 
 “
 
@@ -427,7 +427,7 @@ A medida que la ceremonia se realizaba, ante la mirada asombrada de los presente
 
 
 
-## 7 Se reúnen los Semidioses. Aparece un Ser extraordinario
+## 07 Se reúnen los Semidioses. Aparece un Ser extraordinario
 
 “
 
@@ -505,7 +505,7 @@ de oro lleno de esa preparación deliciosa al agradecido Dasarath
 
 
 
-## 8 Nacen grandes osos y simios
+## 08 Nacen grandes osos y simios
 
 Habiendo el Señor preparado su aparición entre los humanos, Bra-
 
@@ -545,7 +545,7 @@ Los simios, a su vez, procrearon hijos que se convirtieron en capitanes de legio
 
 
 
-## 9 El advenimiento de Sri Rama y sus hermanos trascendentales
+## 09 El advenimiento de Sri Rama y sus hermanos trascendentales
 
 Habiendo tomado lo que les correspondía de la ceremonia, los semi-
 

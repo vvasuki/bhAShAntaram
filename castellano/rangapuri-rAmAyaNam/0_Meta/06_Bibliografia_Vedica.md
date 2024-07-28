@@ -2,8 +2,18 @@
 title = "06 Bibliografia Vedica"
 
 +++
+<details open><summary>es</summary>
 
-Las notas a pie de página y comentarios al texto, se encuentran basados en la literatura Védica clásica, y se encuentran en línea con las interpretaciones de la sucesión discipular original, conocida como Brahma Sampradaya o en la época contemporánea como Brahma-Madhva-Gaudiya Sampradaya, representada por Sri Chaitanya Mahaprabhu y sus maestros o acharyas sucesores. Se han usado como referencia fundamentalmente las siguientes obras: Krishnadas Kaviraj Goswami \(2008\) Sri Chaitanya Charitamrita \(Sriman Atula-nanda das\). Vrindavan, U.P. India: SEVA
+Las notas a pie de página y comentarios al texto, se encuentran basados en la literatura Védica clásica, y se encuentran en línea con las interpretaciones de la sucesión discipular original, conocida como Brahma Sampradaya o en la época contemporánea como Brahma-Madhva-Gaudiya Sampradaya, representada por Sri Chaitanya Mahaprabhu y sus maestros o acharyas sucesores.
+</details>
+
+<details><summary>en</summary>
+
+The footnotes and comments to the text are based on classical Vedic literature, and are in line with the interpretations of the original disciple succession, known as Brahma Sampradaya or in the contemporary era as Brahma-Madhva-Gaudiya Sampraya , represented by Sri Chaitanya Mahaprabhu and his teachers or successors.
+</details>
+
+
+Se han usado como referencia fundamentalmente las siguientes obras: Krishnadas Kaviraj Goswami \(2008\) Sri Chaitanya Charitamrita \(Sriman Atula-nanda das\). Vrindavan, U.P. India: SEVA
 
 Sri Bhakti Pramod Puri Goswami Maharaj \(1995\) Art of Sadhana. Ishodyan, Sri Mayapur, W.B. India: Mandala Publishing.
 

@@ -20,7 +20,7 @@ title = "4 Kishkindha Kanda"
 
 **Kishkindha Kanda**
 
-## 1 El empeño que todo lo puede
+## 01 El empeño que todo lo puede
 
 Sri Rama y el hijo de Sumitra, Lakshman llegaron al lago Pampa,
 
@@ -58,7 +58,7 @@ Lakshman, observando el estado de su hermano le dijo: “Ten fortaleza ¡Oh, Ram
 
 **Kishkindha Kanda**
 
-## 2 El encuentro de los Principes y los monos
+## 02 El encuentro de los Principes y los monos
 
 Ramachandra y Lakshman, una vez que terminaron de bañarse en
 
@@ -128,7 +128,7 @@ Rama y Lakshman
 
 **Kishkindha Kanda**
 
-## 3 La historia de Sugriva, el Rey de los monos
+## 03 La historia de Sugriva, el Rey de los monos
 
 Mientras conversaban, Sugriva dijo: “Por lo que escucho de ella, yo creo que he visto a tu esposa cuando estaba siendo llevada por Ravana. Un día, cuando mis ministros y yo nos encontrábamos sen-
 
@@ -200,7 +200,7 @@ Sri Rama levantó a Sugriva y lo abrazó. “Vayamos a Kishkindha -dijo-. Ahí d
 
 **Kishkindha Kanda**
 
-## 4 Combate a muerte entre hermanos
+## 04 Combate a muerte entre hermanos
 
 Rama, Lakshman y el mono Sugriva llegaron rápidamente a las afueras de Kishkindha, donde Rama y Lakshman permanecieron escon-
 
@@ -276,7 +276,7 @@ ira, se golpearon, se patearon, se empujaron, levantaron y se estrellaron el uno
 
 **Kishkindha Kanda**
 
-## 5 La leccion de una aparente injusticia
+## 05 La leccion de una aparente injusticia
 
 Mientras Vali yacía moribundo, Sri Rama y Lakshman llegaron
 
@@ -360,7 +360,7 @@ Tara trajo un hermoso palanquín celestial, que había pertenecido a los *siddha
 
 **Kishkindha Kanda**
 
-## 6 Sri Rama se retira a la montaña
+## 06 Sri Rama se retira a la montaña
 
 Rodeado por los principales monos, Sugriva se mostraba afligido y con tristeza, por eso, aún vestía las ropas humedecidas por el baño que siguió a la cremación del cuerpo de su hermano Vali.
 
@@ -426,7 +426,7 @@ frutos, pero, no encuentro júbilo en ausencia de Sita. El sueño no me llega po
 
 **Kishkindha Kanda**
 
-## 7 La indignacion crece y amenaza un colapso
+## 07 La indignacion crece y amenaza un colapso
 
  Mientras pasaban los días, por las noches, Sri Rama observaba el cielo, y cuidadosamente miraba las posiciones de las estrellas, cal-culando el transcurso del tiempo; observando las aguas y la vida silvestre de cada nuevo día, con ansias esperaba que llegara el otoño.
 
@@ -478,7 +478,7 @@ Temblando e inclinada con modestia femenina, Tara se acercó a Lakshman, quien s
 
 **Kishkindha Kanda**
 
-## 8 La amistad y la ingratitud
+## 08 La amistad y la ingratitud
 
 Habiendo escuchado las palabras de Tara, que tenían un efecto tran-quilizador por su amabilidad, Lakshman manifestó: “Ocupado en
 
@@ -524,7 +524,7 @@ El glorioso Sugriva, con las manos juntas escuchó atentamente a Lakshman quien 
 
 **El Reino de los Simios**
 
-## 9 Ejercitos de simios y osos se convocan
+## 09 Ejercitos de simios y osos se convocan
 
 Tara, luego de haber escuchado a Lakshman, hizo uso de la palabra y sugirió que Sugriva no era merecedor de tan ásperas palabras, y menos de labios de Lakshman, pues negó que Sugriva fuese ingrato, pérfido, mentiroso o insensible. Admitió que, habiéndose entregado a la gratificación de los sentidos, había perdido la noción del tiempo. Pero que, por su lealtad a Rama, él estaría dispuesto a abandonar incluso a su amada esposa Ruma y, con fin de asegurarse la honra de Rama, abandonaría a todos. Tara le recordó también que Vishvamitra, el gran sabio, en una ocasión se había apegado profundamente a la *apsara* Menaka y en su compañía había perdido diez años de sus austeridades como si hubieran sido un día.
 

@@ -18,7 +18,7 @@ title = "2 Ayodhya Kanda"
 
 **Ayodhya Kanda**
 
-## 1 La propuesta de la coronacion de Rama
+## 01 La propuesta de la coronacion de Rama
 
 El heroico Yuddhajit, hermano de Kaikeyi y tío de Bharat, visitó en 
 
@@ -66,7 +66,7 @@ El rey Dasarath dio la bienvenida y ofreció asientos de honor a los monarcas qu
 
 **La Realeza de Ayodhya**
 
-## 2 Comienzan los grandes preparativos
+## 02 Comienzan los grandes preparativos
 
 Ante la pregunta de Dasarath, la asamblea de reyes y príncipes rom-
 
@@ -116,7 +116,7 @@ Postrándose ante su noble padre, Sri Rama se despidió y se dirigió nuevamente
 
 **Ayodhya Kanda**
 
-## 3 Ayodhya de fiesta
+## 03 Ayodhya de fiesta
 
 Camino de regreso al palacio del Rey, Vasishtha apenas pudo recorrer la distancia, pues una multitud atestaba las calles, hombres y mujeres conversaban alegremente, se transmitían la noticia, reían a carcajadas y trataban de ver los preparativos organizados desde el palacio, el bullicio de la muchedumbre se asemejaba a las olas del océano. Grandes banderas se habían izado en las cimas de las edificaciones. Llegando con dificultad al palacio, que se erigía majestuoso como los Himalayas, Vasishtha reportó al Rey el éxito de su encargo. Rodeado de sus ministros, el monarca se enteró con beneplácito que Sita y Rama se preparaban para la ceremonia. Dasarath se retiró al gynaeceum, el aposento de las damas, donde éstas elegantes brillaban como estrellas alrededor del Rey, que se veía como una luna de dicha. 
 
@@ -156,7 +156,7 @@ Las calles de Ayodhya pronto se llenaron de multitudes que llegaron del campo y 
 
 **La Realeza de Ayodhya**
 
-## 4 Surge una intriga
+## 04 Surge una intriga
 
  Mientras el gozo inundaba el corazón de los ciudadanos que se pre-
 
@@ -216,7 +216,7 @@ bada Mathara y, sonriente, le ofreció cualquier bendición
 
 **La Realeza de Ayodhya**
 
-## 5 Los efectos de escuchar ofensas
+## 05 Los efectos de escuchar ofensas
 
 De sólo imaginar el posible exilio de su hijo Bharat, y las desgra-
 
@@ -262,7 +262,7 @@ Kaikeyi, siguiendo a pie puntillas los consejos de la perversa Manthara, se reti
 
 **La Realeza de Ayodhya**
 
-## 6 La insolita peticion de la Reina Kaikeyi
+## 06 La insolita peticion de la Reina Kaikeyi
 
 El rey Dasarath, que estaba ocupado en las preparaciones finales 
 
@@ -314,7 +314,7 @@ Rey, y el exilio de Rama al bosque de Dandakaranya
 
 **Ayodhya Kanda**
 
-## 7 La suplica del Rey
+## 07 La suplica del Rey
 
 Transcurrido largo tiempo, Dasarath reaccionó y, mirándola lleno 
 
@@ -374,7 +374,7 @@ Recuperando el sentido, Dasarath continuó así: “¡Condenadas las mujeres\!
 
 **La Realeza de Ayodhya**
 
-## 8 La implacable fuerza de una promesa
+## 08 La implacable fuerza de una promesa
 
 El Sol se puso y Dasarath Maharajyacía sumergido en lastimero 
 
@@ -412,7 +412,7 @@ Mientras tanto, la melodía de las canciones que glorificaban a los famosos reye
 
 **La Realeza de Ayodhya**
 
-## 9 Rama es convocado por su padre
+## 09 Rama es convocado por su padre
 
  Mientras el rey Dasarath discutía con Kaikeyi, el gran sabio Vasi-
 

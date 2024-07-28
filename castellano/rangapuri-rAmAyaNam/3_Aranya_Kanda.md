@@ -14,7 +14,7 @@ title = "3 Aranya Kanda"
 
 **Aranya Kanda**
 
-## 1 Asechan los peligros
+## 01 Asechan los peligros
 
 Ramachandra, Lakshman y Sita, después de haber penetrado a lo 
 
@@ -98,7 +98,7 @@ dándole a recuperar su verdadera identidad y una vida
 
 **Aranya Kanda**
 
-## 2 La vida apacible en el bosque
+## 02 La vida apacible en el bosque
 
 Rama, Lakshman y Sita, atravesando del ámbito de la civilización,4 
 
@@ -176,7 +176,7 @@ hierbas para complacer a Rama y a Sita. Viviendo de una manera sencilla y buscan
 
 **Aranya Kanda**
 
-## 3 El deber de un guerrero
+## 03 El deber de un guerrero
 
 Rama, luego de haber escuchado las palabras pronunciadas por Sita, 
 
@@ -236,7 +236,7 @@ Rama partió junto a Sita y a Lakshman. Cuando llegaron a las cercanías del ash
 
 **El Libro del Bosque**
 
-## 4 Encuentro con el sabio Agastya
+## 04 Encuentro con el sabio Agastya
 
 Al día siguiente, después de proseguir con la caminata, al aproxi-
 
@@ -262,7 +262,8 @@ De esa manera, habiendo recibido instrucciones, los divinos viajeros se preparar
 
 **El Libro del Bosque**
 
-## 5 La amistad con una gran ave. El paraiso de Panchavati
+## 05 La amistad con una gran ave. 
+El paraiso de Panchavati
 
 En el camino a Pañchavati, Sita, Rama y Lakshman encontraron a 
 
@@ -340,7 +341,7 @@ los alrededores
 
 **El Libro del Bosque**
 
-## 6 La rakshasi Surpanakha convoca a sus huestes
+## 06 La rakshasi Surpanakha convoca a sus huestes
 
 Encendida de lujuria y sin comprender que ellos bromeaban, Sur-
 
@@ -418,7 +419,7 @@ tuvo que ser castigada por Lakshman
 
 **El Libro del Bosque**
 
-## 7 La ira de los Rakshasas
+## 07 La ira de los Rakshasas
 
 Tomando su arco y flechas, Lakshman llevó a Sita a una caverna 
 
@@ -504,7 +505,7 @@ Lakshman se unió entusiasta a felicitar a su hermano.
 
 **El Libro del Bosque**
 
-## 8 El gran demonio se anoticia sobre la masacre de los rakshasas
+## 08 El gran demonio se anoticia sobre la masacre de los rakshasas
 
  Mientras tanto un rakshasa de nombre Akampana, -quien había es-
 
@@ -560,7 +561,7 @@ Si quieres disfrutar de una vida larga y de tu grandemente estimado reino, ten s
 
 **Aranya Kanda**
 
-## 9 El temible demonio es provocado
+## 09 El temible demonio es provocado
 
 El temible Ravana tenía diez cabezas, veinte brazos, su cuerpo lle-
 
