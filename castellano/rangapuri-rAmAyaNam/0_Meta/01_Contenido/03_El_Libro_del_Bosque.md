@@ -2,36 +2,151 @@
 title = "03 El Libro del Bosque"
 
 +++
+<details open><summary>es</summary>
 
 **Episodios del Aranya Kanda Canto III **
 
+1.
+</details>
 
+<details><summary>en</summary>
 
-1. ASECHAN LOS PELIGROS 278
+** Episodes of Aranya Kanda Canto III **
 
-2. LA VIDA APACIBLE EN EL BOSQUE 282
+ 1.
+</details>
 
-3. EL DEBER DE UN GUERRERO 286
+<details open><summary>es</summary>
 
-4. ENCUENTRO CON EL SABIO AGASTYA 
+ASECHAN LOS PELIGROS 278
+
+2.
+</details>
+
+<details><summary>en</summary>
+
+The dangers 278 stale
+
+ 2.
+</details>
+
+<details open><summary>es</summary>
+
+LA VIDA APACIBLE EN EL BOSQUE 282
+
+3.
+</details>
+
+<details><summary>en</summary>
+
+The peaceful life in the forest 282
+
+ 3.
+</details>
+
+<details open><summary>es</summary>
+
+EL DEBER DE UN GUERRERO 286
+
+4.
+</details>
+
+<details><summary>en</summary>
+
+The duty of a warrior 286
+
+ 4.
+</details>
+
+<details open><summary>es</summary>
+
+ENCUENTRO CON EL SABIO AGASTYA 
 
 289
 
-5. LA AMISTAD CON UNA GRAN AVE. EL PARAÍSO DE PANCHAVATI 
+5.
+</details>
+
+<details><summary>en</summary>
+
+Meeting with the wise agastya
+
+ 289
+
+ 5.
+</details>
+
+<details open><summary>es</summary>
+
+LA AMISTAD CON UNA GRAN AVE. EL PARAÍSO DE PANCHAVATI 
 
 291
 
-6. LA RAKSHASI SURPANAKHA CONVOCA A SUS HUESTES 
+6.
+</details>
+
+<details><summary>en</summary>
+
+Friendship with a great bird. Panchavati Paradise
+
+ 291
+
+ 6.
+</details>
+
+<details open><summary>es</summary>
+
+LA RAKSHASI SURPANAKHA CONVOCA A SUS HUESTES 
 
 295
 
-7. LA IRA DE LOS RAKSHASAS 299
+7.
+</details>
 
-8. EL GRAN DEMONIO SE ANOTICIA SOBRE LA MASACRE DE LOS RAKSHASAS 
+<details><summary>en</summary>
+
+The Rakshasi Surpanakha summons its hosts
+
+ 295
+
+ 7.
+</details>
+
+<details open><summary>es</summary>
+
+LA IRA DE LOS RAKSHASAS 299
+
+8.
+</details>
+
+<details><summary>en</summary>
+
+The wrath of the Rakshasas 299
+
+ 8.
+</details>
+
+<details open><summary>es</summary>
+
+EL GRAN DEMONIO SE ANOTICIA SOBRE LA MASACRE DE LOS RAKSHASAS 
 
 303
 
-9. EL TEMIBLE DEMONIO ES PROVOCADO 
+9.
+</details>
+
+<details><summary>en</summary>
+
+The Great Demon Anicia about the Rakshasas massacre
+
+ 303
+
+ 9.
+</details>
+
+<details open><summary>es</summary>
+
+EL TEMIBLE DEMONIO ES PROVOCADO 
 
 306
 
@@ -39,30 +154,160 @@ title = "03 El Libro del Bosque"
 
 **El Ramayana**
 
-10. EL VENADO DORADO 
+10.
+</details>
+
+<details><summary>en</summary>
+
+The fearsome demon is caused
+
+ 306
+
+ 9
+
+ ** The Ramayana **
+
+ 10.
+</details>
+
+<details open><summary>es</summary>
+
+EL VENADO DORADO 
 
 309
 
-11. EL INSULTO A LAKSHMAN 312
+11.
+</details>
 
-12. APARECE UN FALSO MONJE 316
+<details><summary>en</summary>
 
-13. EL VIEJO JATAYU INTENTA IMPEDIR EL RAPTO 
+The golden deer
+
+ 309
+
+ eleven.
+</details>
+
+<details open><summary>es</summary>
+
+EL INSULTO A LAKSHMAN 312
+
+12.
+</details>
+
+<details><summary>en</summary>
+
+The insult to Lakshman 312
+
+ 12.
+</details>
+
+<details open><summary>es</summary>
+
+APARECE UN FALSO MONJE 316
+
+13.
+</details>
+
+<details><summary>en</summary>
+
+A false monk 316 appears
+
+ 13.
+</details>
+
+<details open><summary>es</summary>
+
+EL VIEJO JATAYU INTENTA IMPEDIR EL RAPTO 
 
 321
 
-14. INDRA CONSUELA A SITA 326
+14.
+</details>
 
-15. EL LAMENTO DE RAMA 
+<details><summary>en</summary>
+
+Old Jatayu tries to prevent the rapture
+
+ 321
+
+ 14.
+</details>
+
+<details open><summary>es</summary>
+
+INDRA CONSUELA A SITA 326
+
+15.
+</details>
+
+<details><summary>en</summary>
+
+Indra comforts Sita 326
+
+ fifteen.
+</details>
+
+<details open><summary>es</summary>
+
+EL LAMENTO DE RAMA 
 
 329
 
-16. LA MUERTE DE UN AMIGO LEAL 
+16.
+</details>
+
+<details><summary>en</summary>
+
+Rama's lament
+
+ 329
+
+ 16.
+</details>
+
+<details open><summary>es</summary>
+
+LA MUERTE DE UN AMIGO LEAL 
 
 332
 
-17. LA GROSERIA ES CASTIGADA 
+17.
+</details>
+
+<details><summary>en</summary>
+
+The death of a loyal friend
+
+ 332
+
+ 17.
+</details>
+
+<details open><summary>es</summary>
+
+LA GROSERIA ES CASTIGADA 
 
 336
 
-18. LA LIBERACIÓN SE SHABARI, LA MUJER ASCETA 340
+18.
+</details>
+
+<details><summary>en</summary>
+
+Rudeness is punished
+
+ 336
+
+ 18.
+</details>
+
+<details open><summary>es</summary>
+
+LA LIBERACIÓN SE SHABARI, LA MUJER ASCETA 340
+</details>
+
+<details><summary>en</summary>
+
+Liberation is Shabari, the ascetic woman 340
+</details>

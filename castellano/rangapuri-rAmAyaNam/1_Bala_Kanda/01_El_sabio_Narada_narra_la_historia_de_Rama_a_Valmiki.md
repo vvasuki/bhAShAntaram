@@ -7,7 +7,8 @@ title = "01 El sabio Narada, narra la historia de Rama a Valmiki"
 Desde entonces, Valmiki despertó antes del amanecer, adoró diariamente la planta sagrada de Tulasi[^9]  
 y repitió constantemente la palabra Rama,  
 con los ojos humedecidos de lágrimas,  
-recordando con determinación la instrucción de su maestro espiritual.
+recordando con determinación  
+la instrucción de su maestro espiritual.
 </details>
 
 <details><summary>en</summary>
@@ -20,17 +21,22 @@ remembering with determination the instruction of his teacher spiritual.
 
 <details open><summary>es</summary>
 
-Convirtió su choza en un sencillo templo \( *ashram\)*,10 sus hijos se volvieron sus primeros discípulos y toda su familia se purificó.
+Convirtió su choza en un sencillo templo \( *ashram\)*,[^10]  
+sus hijos se volvieron sus primeros discípulos  
+y toda su familia se purificó.
 </details>
 
 <details><summary>en</summary>
 
-He turned his hut into a simple temple \ ( *Ashram \) *, 10 his children became his first disciples and his whole family was purified.
+He turned his hut into a simple temple \ ( *Ashram \) *, [^en10] his children became his first disciples  
+and his whole family was purified.
 </details>
 
 <details open><summary>es</summary>
 
-Gradualmente, muchos ascetas, tanto hombres, como mujeres, vivieron pacíficamente en los predios de su *ashram*.
+Gradualmente, muchos ascetas,  
+tanto hombres, como mujeres,  
+vivieron pacíficamente en los predios de su *ashram*.
 </details>
 
 <details><summary>en</summary>
@@ -42,19 +48,15 @@ Gradually, many ascetics, both men, and women, lived peacefully on the land of t
 
 [^en9]: Tulasi is a sacred plant, in which it is considered that it embodies a pure devotee of the Lord, taking care of it is very conducive to those who wish to awaken their devotion.
 
-<details open><summary>es</summary>
+[^10]: Ashram es un lugar donde se vive disciplinadamente, practicando alguna forma de yoga.
 
-10 Ashram es un lugar donde se vive disciplinadamente, practicando alguna forma de yoga.
-</details>
-
-<details><summary>en</summary>
-
-10 Ashram is a place where you live disciplined, practicing some form of yoga.
-</details>
+[^en10]: Ashram is a place where you live disciplined, practicing some form of yoga.
 
 <details open><summary>es</summary>
 
-En este caso, Valmiki practicaba el tipo más elevado de yoga, bhakti yoga o servicio trascendental a la Divinidad.
+En este caso, Valmiki practicaba  
+el tipo más elevado de yoga,  
+bhakti yoga o servicio trascendental a la Divinidad.
 </details>
 
 <details><summary>en</summary>
@@ -66,49 +68,82 @@ In this case, Valmiki practiced the highest type of yoga, bhakti yoga or transce
 
 43
 
-n cierta ocasión, el sabio asceta Valmiki11preguntó a su maestro Narada Muni, si en este mundo existía una persona que encarnase la virtud y la perfección.
+En cierta ocasión,  
+el sabio asceta Valmiki[^11] preguntó a su maestro Narada Muni,  
+si en este mundo existía una persona  
+que encarnase la virtud y la perfección.
 </details>
 
 <details><summary>en</summary>
 
 43
 
- In a certain occasion, the wise ascetic Valmiki11 asked his teacher Narada Muni, if in this world there was a person who embodied virtue and perfection.
+In a certain occasion, the wise ascetic Valmiki[^en11] asked his teacher Narada Muni, if in this world there was a person who embodied virtue and perfection.
 </details>
 
 <details open><summary>es</summary>
 
-Meditando profundamente, el maestro Narada, poseedor de conocimiento sobre los tres mundos,12 le dijo: “¡Escucha\!
+Meditando profundamente, el maestro Narada, poseedor de conocimiento sobre los tres mundos,[^12] le dijo: “¡Escucha\!
 </details>
 
 <details><summary>en</summary>
 
-Meditating deeply, the Nrada teacher, possessor of knowledge about the three worlds, 12 said: “Listen \!
+Meditating deeply, the Narada teacher, possessor of knowledge about the three worlds, [^es12] said: “Listen \!
 </details>
 
 <details open><summary>es</summary>
 
--y con gran deleite le dirigió las siguientes palabras-.Atiende con placer, pues lo sé, hablaré de un héroe provisto de las múltiples y exquisitas cualidades de las que tú me preguntas.” Narada empezó a describir a Rama, la personalidad divina, cuyo nombre da felicidad a los seres vivientes y que descendió a este mundo como un valiente y justo príncipe en la dinastía del Sol y fue gobernante de Ayodhya, el reino invencible.
+-y con gran deleite le dirigió las siguientes palabras-.  
+Atiende con placer, pues lo sé,  
+hablaré de un héroe provisto de las múltiples y exquisitas cualidades  
+de las que tú me preguntas.”  
+
+Narada empezó a describir a Rama, la personalidad divina,  
+cuyo nombre da felicidad a los seres vivientes  
+y que descendió a este mundo  
+como un valiente y justo príncipe  
+en la dinastía del Sol  
+y fue gobernante de Ayodhya,  
+el reino invencible.
 </details>
 
 <details><summary>en</summary>
 
--And with great delight he addressed him the following words-. Narada began to describe Rama, the divine personality, whose name gives happiness to living beings and who descended to this world as a brave and just prince in the Sun dynasty and was ruling Ayodhya, the invincible kingdom.
+-And with great delight he addressed him the following words-. 
+
+Attend with pleasure, then I know, I will talk about a hero provided with the multiple and exquisite qualities that you ask me. ”
+
+Narada began to describe Rama, the divine personality, whose name gives happiness to living beings and who descended to this world as a brave and just prince in the Sun dynasty and was ruling Ayodhya, the invincible kingdom.
 </details>
 
 <details open><summary>es</summary>
 
-Al recordar a Rama, un estremecimiento recorrió el cuerpo de Narada y sus vellos se erizaron; en ese estado de emoción trascendental, continuó: “Rama es resplandeciente, tiene la mente controlada, es muy poderoso, determinado, elocuente e inteligente; tiene ojos grandes, una complexión encantadora y un andar majestuoso, tiene brazos poderosos, un amplio pecho, una mandíbula firme e impecables proporciones; su voz es profunda y su mente es inescrutable; sabe el secreto de la virtud, por lo que es fiel a su promesa y se deleita dando bienestar a sus súbditos.
+Al recordar a Rama,  
+un estremecimiento recorrió el cuerpo de Narada  
+y sus vellos se erizaron;  
+en ese estado de emoción trascendental, continuó:  
+
+“Rama es resplandeciente,  
+tiene la mente controlada,  
+es muy poderoso, determinado, elocuente e inteligente;  
+tiene ojos grandes, una complexión encantadora y un andar majestuoso,  
+tiene brazos poderosos, un amplio pecho, una mandíbula firme e impecables proporciones;  
+su voz es profunda y su mente es inescrutable;  
+sabe el secreto de la virtud,  
+por lo que es fiel a su promesa  
+y se deleita dando bienestar a sus súbditos.
 </details>
 
 <details><summary>en</summary>
 
-Remembering Rama, a shudder toured Narada's body and her hairs bristled; In that state of transcendental emotion, he continued: “Rama is glowing, it has a controlled mind, it is very powerful, determined, eloquent and intelligent; He has big eyes, a lovely complexion and a majestic walk, he has powerful arms, a wide chest, a firm jaw and impeccable proportions; His voice is deep and his mind is inscrutable; He knows the secret of virtue, so he is faithful to his promise and delights giving well -being to his subjects.
+Remembering Rama, a shudder toured Narada's body and her hairs bristled; In that state of transcendental emotion, he continued: “Rama is glowing, it has a controlled mind, it is very powerful, determined, eloquent and intelligent; He has big eyes, a lovely complexion and a majestic walk,  
+he has powerful arms, a wide chest, a firm jaw and impeccable proportions; His voice is deep and his mind is inscrutable; He knows the secret of virtue, so he is faithful to his promise and delights giving well -being to his subjects.
 </details>
 
 <details open><summary>es</summary>
 
-Siendo puro, honorable, noble y ecuánime, es muy querido por todos.
+Siendo puro, honorable, noble y ecuánime,  
+es muy querido por todos.
 </details>
 
 <details><summary>en</summary>
@@ -118,7 +153,7 @@ Being pure, honorable, noble and equanimous, he is very dear to all.
 
 <details open><summary>es</summary>
 
-Posee memoria perfecta y conocimiento pleno que abarca todos los *Vedas13* 
+Posee memoria perfecta y conocimiento pleno que abarca todos los *Vedas[^13]* 
 
 y su ciencia, conoce el verdadero significado de todas las escrituras, es famoso y apegado al cumplimiento del deber y a él se dirigen los que se complacen en la rectitud, tal como los ríos se dirigen naturalmente al mar; es firme como el Himalaya y es una réplica del Señor Vishnu, el omnipresente.” 
 
@@ -129,7 +164,7 @@ sinopsis de la epopeya de Rama, el reino de Ayodhya, la vida con su maestro, sus
 
 <details><summary>en</summary>
 
-It has perfect memory and full knowledge that covers all *Vedas13 *
+It has perfect memory and full knowledge that covers all *Vedas[^en13] *
 
  And his science, he knows the true meaning of all Scriptures, is famous and attached to the fulfillment of duty and those who are pleased in righteousness are directed, such as the rivers are naturally directed to the sea; It is firm as the Himalayas and is a replica of Mr. Vishnu, the omnipresent. ”
 
