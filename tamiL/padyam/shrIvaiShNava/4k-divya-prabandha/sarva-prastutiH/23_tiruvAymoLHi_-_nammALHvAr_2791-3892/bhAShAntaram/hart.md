@@ -1,12 +1,13 @@
 +++
 title = "Hart"
+
 +++
 
-2791 உயர்வு அற உயர் நலம் உடையவன் எவன்? அவன்  
-மயர்வு அற மதி நலம் அருளினன் எவன்? அவன்  
-அயர்வு அறும் அமரர்கள் அதிபதி எவன்? அவன்  
-துயர் அறு சுடர் அடி தொழுது எழு என் மனனே (1)  
-2791. O my heart!  
+२७९१ उयर्वु अऱ उयर् नलम् उडैयवन् ऎवन्? अवन्  
+मयर्वु अऱ मदि नलम् अरुळिनन् ऎवन्? अवन्  
+अयर्वु अऱुम् अमरर्गळ् अदिबदि ऎवन्? अवन्  
+तुयर् अऱु सुडर् अडि तॊऴुदु ऎऴु ऎन् मनने (१)  
+२७९१। O my heart!  
 He is a matchless god.  
 He has unlimited goodness.  
 He gave me abundant knowledge to remove my ignorance.  
@@ -14,22 +15,22 @@ He is the god of the gods in the sky
 and he never grows tired of protecting the world.  
 Worship his shining feet that take away all sorrows.  
 
-2792 மனன் அகம் மலம் அற மலர்மிசை எழுதரும்  
-மனன் உணர்வு அளவு இலன் பொறி உணர்வு அவை இலன்  
-இனன் உணர் முழு நலம் எதிர் நிகழ் கழிவினும்  
-இனன் இலன் எனன் உயிர் மிகுநரை இலனே (2)  
-2792. He removes the faults in your mind.  
+२७९२ मनन् अगम् मलम् अऱ मलर्मिसै ऎऴुदरुम्  
+मनन् उणर्वु अळवु इलन् पॊऱि उणर्वु अवै इलन्  
+इनन् उणर् मुऴु नलम् ऎदिर् निगऴ् कऴिविनुम्  
+इनन् इलन् ऎनन् उयिर् मिगुनरै इलने (२)  
+२७९२। He removes the faults in your mind.  
 He keeps Brahma on the lotus on his chest.  
 There is no limit to what he can think.  
 He is not attracted by any feelings of the senses.  
 Whatever happens does not bother him.  
 He is in my soul and he is ageless.  
 
-2793 இலன் அது உடையன் இது என நினைவு அரியவன்  
-நிலனிடை விசும்பிடை உருவினன் அருவினன்  
-புலனொடு புலன் அலன் ஒழிவு இலன் பரந்த அந்  
-நலன் உடை ஒருவனை நணுகினம் நாமே (3)  
-2793. No one knows  
+२७९३ इलन् अदु उडैयन् इदु ऎन निनैवु अरियवन्  
+निलनिडै विसुम्बिडै उरुविनन् अरुविनन्  
+पुलनॊडु पुलन् अलन् ऒऴिवु इलन् परन्द अन्  
+नलन् उडै ऒरुवनै नणुगिनम् नामे (३)  
+२७९३। No one knows  
 what he has and what he does not have.  
 The earth and sky are his forms.  
 He is formless.  
@@ -39,11 +40,11 @@ He is omnipresent.
 He is all goodness. He is unique.  
 I approached and joined him.  
 
-2794 நாம் அவன் இவன் உவன் அவள் இவள் உவள் எவள்  
-தாம் அவர் இவர் உவர் அது இது உது எது  
-வீம் அவை இவை உவை அவை நலம் தீங்கு அவை  
-ஆம் அவை ஆயவை ஆய்நின்ற அவரே (4)  
-2794. He is us.  
+२७९४ नाम् अवन् इवन् उवन् अवळ् इवळ् उवळ् ऎवळ्  
+ताम् अवर् इवर् उवर् अदु इदु उदु ऎदु  
+वीम् अवै इवै उवै अवै नलम् तीङ्गु अवै  
+आम् अवै आयवै आय्निण्ड्र अवरे (४)  
+२७९४। He is us.  
 He is this man, that man and the man over there.  
 He is this woman, that woman and the woman over there.  
 Who is he?  
@@ -54,42 +55,42 @@ He is these, those and those over there.
 He is good and evil.  
 He is omnipresent and he is those things and these things.  
 
-2795 அவரவர் தமதமது அறிவு அறி வகைவகை  
-அவரவர் இறையவர் என அடி அடைவர்கள்  
-அவரவர் இறையவர் குறைவு இலர் இறையவர்  
-அவரவர் விதிவழி அடைய நின்றனரே (5)  
-2795. People think as they wish,  
+२७९५ अवरवर् तमदमदु अऱिवु अऱि वगैवगै  
+अवरवर् इऱैयवर् ऎन अडि अडैवर्गळ्  
+अवरवर् इऱैयवर् कुऱैवु इलर् इऱैयवर्  
+अवरवर् विधिवऴि अडैय निण्ड्रनरे (५)  
+२७९५। People think as they wish,  
 "This one is my god and that one is my god."  
 They will reach the feet of the god they choose.  
 The god they worship  
 will give them all things that they want.  
 They will reach the gods according to their fate.  
 
-2796 நின்றனர் இருந்தனர் கிடந்தனர் திரிந்தனர்  
-நின்றிலர் இருந்திலர் கிடந்திலர் திரிந்திலர்  
-என்றும் ஓர் இயல்வினர் என நினைவு அரியவர்  
-என்றும் ஓர் இயல்வொடு நின்ற எம் திடரே (6)  
-2796. He stands, sits, lies and wanders.  
+२७९६ निण्ड्रनर् इरुन्दनर् किडन्दनर् तिरिन्दनर्  
+निण्ड्रिलर् इरुन्दिलर् किडन्दिलर् तिरिन्दिलर्  
+ऎण्ड्रुम् ओर् इयल्विनर् ऎन निनैवु अरियवर्  
+ऎण्ड्रुम् ओर् इयल्वॊडु निण्ड्र ऎम् तिडरे (६)  
+२७९६। He stands, sits, lies and wanders.  
 He does not stand, does not sit, does not lie and does not wander.  
 No one knows what his nature is  
 but he has only one nature and he is the mighty god.  
 
-2797 திட விசும்பு எரி வளி நீர் நிலம் இவைமிசைப்  
-படர் பொருள் முழுவதும் ஆய் அவைஅவைதொறும்  
-உடல்மிசை உயிர் எனக் கரந்து எங்கும் பரந்துளன்  
-சுடர் மிகு சுருதியுள் இவை உண்ட சுரனே (7)  
-2797. He is in the wide sky, the strong wind, water and earth  
+२७९७ तिड विसुम्बु ऎरि वळि नीर् निलम् इवैमिसैप्  
+पडर् पॊरुळ् मुऴुवदुम् आय् अवैअवैदॊऱुम्  
+उडल्मिसै उयिर् ऎनक् करन्दु ऎङ्गुम् परन्दुळन्  
+सुडर् मिगु सुरुदियुळ् इवै उण्ड सुरने (७)  
+२७९७। He is in the wide sky, the strong wind, water and earth  
 and he is in all the things in the world.  
 He hides himself in the bodies and lives of all creatures  
 and he is spread everywhere.  
 He is the shining god of the world and he is the Vedas,  
 and he swallowed all the worlds.  
 
-2798 சுரர் அறிவு அரு நிலை விண் முதல் முழுவதும்  
-வரன் முதலாய் அவை முழுது உண்ட பரபரன்  
-புரம் ஒரு மூன்று எரித்து அமரர்க்கும் அறிவியந்து  
-அரன் அயன் என உலகு அழித்து அமைத்து உளனே (8)  
-2798. He is the highest lord  
+२७९८ सुरर् अऱिवु अरु निलै विण् मुदल् मुऴुवदुम्  
+वरन् मुदलाय् अवै मुऴुदु उण्ड परबरन्  
+पुरम् ऒरु मूण्ड्रु ऎरित्तु अमरर्क्कुम् अऱिवियन्दु  
+अरन् अयन् ऎन उलगु अऴित्तु अमैत्तु उळने (८)  
+२७९८। He is the highest lord  
 and he swallowed all the worlds  
 and the sky where the gods are.  
 He burned the three forts of his enemies.  
@@ -97,20 +98,20 @@ Gods wonder about his nature.
 He is Shiva and Brahma  
 and he creates and destroys the world.  
 
-2799 உளன் எனில் உளன் அவன் உருவம் இவ் உருவுகள்  
-உளன் அலன் எனில் அவன் அருவம் இவ் அருவுகள்  
-உளன் என இலன் என இவை குணம் உடைமையில்  
-உளன் இரு தகைமையொடு ஒழிவு இலன் பரந்தே (9)  
-2799. If one believes he exists, he exists.  
+२७९९ उळन् ऎनिल् उळन् अवन् उरुवम् इव् उरुवुगळ्  
+उळन् अलन् ऎनिल् अवन् अरुवम् इव् अरुवुगळ्  
+उळन् ऎन इलन् ऎन इवै कुणम् उडैमैयिल्  
+उळन् इरु तगैमैयॊडु ऒऴिवु इलन् परन्दे (९)  
+२७९९। If one believes he exists, he exists.  
 If one believes he has a form, he does.  
 If one believes he has no form, he has none.  
 He has both natures, "he is and he is not," and he is omnipresent.  
 
-2800 பரந்த தண் பரவையுள் நீர்தொறும் பரந்துளன்  
-பரந்த அண்டம் இது என நிலம் விசும்பு ஒழிவு அறக்  
-கரந்த சில் இடந்தொறும் இடம் திகழ் பொருள்தொறும்  
-கரந்து எங்கும் பரந்துளன் இவை உண்ட கரனே (10)  
-2800. He pervades the water of the cool wide ocean.  
+२८०० परन्द तण् परवैयुळ् नीर्दॊऱुम् परन्दुळन्  
+परन्द अण्डम् इदु ऎन निलम् विसुम्बु ऒऴिवु अऱक्  
+करन्द सिल् इडन्दॊऱुम् इडम् तिगऴ् पॊरुळ्दॊऱुम्  
+करन्दु ऎङ्गुम् परन्दुळन् इवै उण्ड करने (१०)  
+२८००। He pervades the water of the cool wide ocean.  
 He pervades all the worlds.  
 He pervades the vast sky.  
 He is in places no one knows.  
@@ -118,11 +119,11 @@ He is hidden in everything that shines,
 the sun, moon and stars.  
 He swallowed all of them and spit them out.  
 
-2801 கர விசும்பு எரி வளி நீர் நிலம் இவைமிசை  
-வரன் நவில் திறல் வலி அளி பொறை ஆய்நின்ற  
-பரன் அடிமேல் குருகூர்ச் சடகோபன் சொல்  
-நிரல் நிறை ஆயிரத்து இவை பத்தும் வீடே (11)  
-2801. Saḍagopan of Thirukuruhur  
+२८०१ कर विसुम्बु ऎरि वळि नीर् निलम् इवैमिसै  
+वरन् नविल् तिऱल् वलि अळि पॊऱै आय्निण्ड्र  
+परन् अडिमेल् गुरुगूर्च् चडगोबन् सॊल्  
+निरल् निऱै आयिरत्तु इवै पत्तुम् वीडे (११)  
+२८०१। Saḍagopan of Thirukuruhur  
 composed a thousand pasurams worshiping the feet of the god  
 who is the sky, the strong wind, water, earth,  
 the rainbow and the everlasting mountains.  
@@ -130,127 +131,127 @@ If devotees learn and recite these ten pasurams
 they will reach moksha.  
 ------------  
 
-திருவாய் மொழி - முதல் பத்து (இரண்டாம் திருமொழி, 2802-2812)  
--உலகிற்கு உபதேசம்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (इरण्डाम् तिरुमॊऴि, २८०२-२८१२)  
+-उलगिऱ्‌कु उपदेशम्  
 
-2802 வீடுமின் முற்றவும்  
-வீடு செய்து உம் உயிர்  
-வீடு உடையானிடை  
-வீடு செய்ம்மினே (1)  
-2802. Give up all the desires  
+२८०२ वीडुमिन् मुट्रवुम्  
+वीडु सॆय्दु उम् उयिर्  
+वीडु उडैयानिडै  
+वीडु सॆय्म्मिने (१)  
+२८०२। Give up all the desires  
 that you have for earthly things.  
 Surrender your life to the god, the lord of moksha  
 and that will take you to moksha.  
 
-2803 மின்னின் நிலை இல  
-மன் உயிர் ஆக்கைகள்  
-என்னும் இடத்து இறை  
-உன்னுமின் நீரே (2)  
-2803. Our earthly bodies will go away  
+२८०३ मिन्निन् निलै इल  
+मन् उयिर् आक्कैगळ्  
+ऎन्नुम् इडत्तु इऱै  
+उन्नुमिन् नीरे (२)  
+२८०३। Our earthly bodies will go away  
 from the earth one day.  
 They are like lightning  
 and they come and go in a second.  
 If you know this  
 you will only think of the everlasting god.  
 
-2804 நீர் நுமது என்று இவை  
-வேர்முதல் மாய்த்து இறை  
-சேர்மின் உயிர்க்கு அதன்  
-நேர் நிறை இல்லே (3)  
-2804. Give up utterly any desire  
+२८०४ नीर् नुमदु ऎण्ड्रु इवै  
+वेर्मुदल् माय्त्तु इऱै  
+सेर्मिन् उयिर्क्कु अदन्  
+नेर् निऱै इल्ले (३)  
+२८०४। Give up utterly any desire  
 that is for yourself or the things you own.  
 Join the god and worship him.  
 There is nothing equal or higher than the god in life.  
 
-2805 இல்லதும் உள்ளதும்  
-அல்லது அவன் உரு  
-எல்லை இல் அந் நலம்  
-புல்கு பற்று அற்றே (4)  
-2805. The things that are in the world  
-and the things that are not in the world are all his forms..  
+२८०५ इल्लदुम् उळ्ळदुम्  
+अल्लदु अवन् उरु  
+ऎल्लै इल् अन् नलम्  
+पुल्गु पट्रु अट्रे (४)  
+२८०५। The things that are in the world  
+and the things that are not in the world are all his forms॥  
 Give up your desires,  
 grasp the wonderful, matchless form of the god  
 and worship him.  
 
-2806 அற்றது பற்று எனில்  
-உற்றது வீடு உயிர்  
-செற்ற அது மன் உறில்  
-அற்று இறை பற்றே (5)  
-2806. If one gives up desire for worldly things  
+२८०६ अट्रदु पट्रु ऎनिल्  
+उट्रदु वीडु उयिर्  
+सॆट्र अदु मन् उऱिल्  
+अट्रु इऱै पट्रे (५)  
+२८०६। If one gives up desire for worldly things  
 he will go to moksha.  
 The only help to reach moksha  
 is the desire to join and be one with the god.  
 
-2807 பற்று இலன் ஈசனும்  
-முற்றவும் நின்றனன்  
-பற்று இலையாய் அவன்  
-முற்றில் அடங்கே (6)  
-2807. The god has no desire  
+२८०७ पट्रु इलन् ईसनुम्  
+मुट्रवुम् निण्ड्रनन्  
+पट्रु इलैयाय् अवन्  
+मुट्रिल् अडङ्गे (६)  
+२८०७। The god has no desire  
 and he is in all things in the world.  
 There is nothing without him.  
 O my soul! give up all your desires,  
 approach him and become one with him.  
 
-2808 அடங்கு எழில் சம்பத்து  
-அடங்கக் கண்டு ஈசன்  
-அடங்கு எழில் அஃது என்று  
-அடங்குக உள்ளே (7)  
-2808. You should understand  
+२८०८ अडङ्गु ऎऴिल् सम्बत्तु  
+अडङ्गक् कण्डु ईसन्  
+अडङ्गु ऎऴिल् अह्दु ऎण्ड्रु  
+अडङ्गुग उळ्ळे (७)  
+२८०८। You should understand  
 that all the things in the world are contained in the god.  
 Realize that you yourself are of those things  
 and join the god yourself also.  
 
-2809 உள்ளம் உரை செயல்  
-உள்ள இம் மூன்றையும்  
-உள்ளிக் கெடுத்து இறை  
-உள்ளில் ஒடுங்கே (8)  
-2809. Remove any desire from your mind.  
+२८०९ उळ्ळम् उरै सॆयल्  
+उळ्ळ इम् मूण्ड्रैयुम्  
+उळ्ळिक् कॆडुत्तु इऱै  
+उळ्ळिल् ऒडुङ्गे (८)  
+२८०९। Remove any desire from your mind.  
 Remove any desire that you want to say something.  
 Remove any desire that you want to do something.  
 Join the god and become one with him.  
 
-2810 ஒடுங்க அவன்கண்  
-ஒடுங்கலும் எல்லாம்  
-விடும் பின்னும் ஆக்கை  
-விடும்பொழுது எண்ணே (9)  
-2810. If you only think of god always in this world,  
+२८१० ऒडुङ्ग अवन्गण्  
+ऒडुङ्गलुम् ऎल्लाम्  
+विडुम् पिन्नुम् आक्कै  
+विडुम्बॊऴुदु ऎण्णे (९)  
+२८१०। If you only think of god always in this world,  
 all your desires will leave you.  
 You should live in this world  
 thinking only of the time you will join him  
 and the time your body will leave this world.  
 
-2811 எண் பெருக்கு அந் நலத்து  
-ஒண் பொருள் ஈறு இல  
-வண் புகழ் நாரணன்  
-திண் கழல் சேரே (10)  
-2811. Souls are countless.  
+२८११ ऎण् पॆरुक्कु अन् नलत्तु  
+ऒण् पॊरुळ् ईऱु इल  
+वण् पुगऴ् नारणन्  
+तिण् कऴल् सेरे (१०)  
+२८११। Souls are countless.  
 Their knowledge has no limit.  
 They shine as part of the god.  
 They will join the strong feet  
 of the famous god Naraṇan.  
 
-2812 சேர்த்தடத் தென் குரு  
-கூர்ச் சடகோபன் சொல்  
-சீர்த் தொடை ஆயிரத்து  
-ஓர்த்த இப் பத்தே (11)  
-2812. Saḍagopan of southern Thirukuruhur  
+२८१२ सेर्त्तडत् तॆन् गुरु  
+कूर्च् चडगोबन् सॊल्  
+सीर्त् तॊडै आयिरत्तु  
+ओर्त्त इप् पत्ते (११)  
+२८१२। Saḍagopan of southern Thirukuruhur  
 surrounded by beautiful ponds filled with water  
 composed a thousand pasurams.  
 These are ten wonderful pasurams among those thousand.  
 --------  
 
-திருவாய் மொழி - முதல் பத்து (மூன்றாம் திருமொழி, 2813-2823)  
-- அடியவர்க்கு எளியவன்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (मूण्ड्राम् तिरुमॊऴि, २८१३-२८२३)  
+- अडियवर्क्कु ऎळियवन्  
 
-2813 பத்து உடை அடியவர்க்கு எளியவன்  
-        பிறர்களுக்கு அரிய  
-வித்தகன் மலர்மகள் விரும்பும் நம்  
-        அரும்பெறல் அடிகள்  
-மத்து உறு கடை வெண்ணெய் களவினில்  
-        உரவிடை யாப்புண்டு  
-எத்திறம் உரலினோடு இணைந்திருந்து  
-       ஏங்கிய எளியவே (1)  
-2813. He is easy for his devotees to reach.  
+२८१३ पत्तु उडै अडियवर्क्कु ऎळियवन्  
+        पिऱर्गळुक्कु अरिय  
+वित्तगन् मलर्मगळ् विरुम्बुम् नम्  
+        अरुम्बॆऱल् अडिगळ्  
+मत्तु उऱु कडै वॆण्णॆय् कळविनिल्  
+        उरविडै याप्पुण्डु  
+ऎत्तिऱम् उरलिनोडु इणैन्दिरुन्दु  
+       एङ्गिय ऎळियवे (१)  
+२८१३। He is easy for his devotees to reach.  
 He is a clever god and he is hard to reach for others.  
 He is our dear god and the beloved of Lakshmi  
 who stays on a lotus.  
@@ -258,15 +259,15 @@ He stole butter that was churned by a churning stick.
 He is so simple that he allowed Yashoda to punish him  
 by tying him to a mortar.  
 
-2814 எளிவரும் இயல்வினன் நிலை வரம்பு  
-       இல பல பிறப்பாய்  
-ஒளிவரும் முழு நலம் முதல் இல  
-        கேடு இல வீடு ஆம்  
-தெளிதரும் நிலைமையது ஒழிவு இலன்  
-       முழுவதும் இறையோன்  
-அளிவரும் அருளினோடு அகத்தனன்  
-புறத்தனன் அமைந்தே (2)  
-2814. He is easy for his devotee to reach.  
+२८१४ ऎळिवरुम् इयल्विनन् निलै वरम्बु  
+       इल पल पिऱप्पाय्  
+ऒळिवरुम् मुऴु नलम् मुदल् इल  
+        केडु इल वीडु आम्  
+तॆळिदरुम् निलैमैयदु ऒऴिवु इलन्  
+       मुऴुवदुम् इऱैयोन्  
+अळिवरुम् अरुळिनोडु अगत्तनन्  
+पुऱत्तनन् अमैन्दे (२)  
+२८१४। He is easy for his devotee to reach.  
 He has no births.  
 He is the ancient light and he is all goodness.  
 He is faultless.  
@@ -277,30 +278,30 @@ He is the only god.
 He is the compassionate one in all hearts.  
 He is the outside and inside of all.  
 
-2815 அமைவு உடை அறநெறி முழுவதும்  
-       உயர்வு அற உயர்ந்து  
-அமைவு உடை முதல் கெடல் ஒடிவு இடை  
-       அற நிலம் அது ஆம்  
-அமைவு உடை அமரரும் யாவையும்  
-        யாவரும் தான் ஆம்  
-அமைவு உடை நாரணன் மாயையை  
-அறிபவர் யாரே? (3)  
-2815. He is the entire dharmic path.  
+२८१५ अमैवु उडै अऱनॆऱि मुऴुवदुम्  
+       उयर्वु अऱ उयर्न्दु  
+अमैवु उडै मुदल् कॆडल् ऒडिवु इडै  
+       अऱ निलम् अदु आम्  
+अमैवु उडै अमररुम् यावैयुम्  
+        यावरुम् तान् आम्  
+अमैवु उडै नारणन् मायैयै  
+अऱिबवर् यारे? (३)  
+२८१५। He is the entire dharmic path.  
 He is the highest of all.  
 He is the creator and the destroyer of all time.  
 He is all the gods in the sky.  
 He is all things and all creatures.  
 Who knows the maaya of Naraṇan whose nature is excellent?  
 
-2816 யாரும் ஓர் நிலைமையன் என அறிவு  
-       அரிய எம் பெருமான்  
-யாரும் ஓர் நிலைமையன் என அறிவு  
-       எளிய எம் பெருமான்  
-பேரும் ஓர் ஆயிரம் பிற பல  
-       உடைய எம் பெருமான்  
-பேரும் ஓர் உருவமும் உளது இல்லை  
-       இலது இல்லை பிணக்கே (4)  
-2816. No one knows who our god is.  
+२८१६ यारुम् ओर् निलैमैयन् ऎन अऱिवु  
+       अरिय ऎम् पॆरुमान्  
+यारुम् ओर् निलैमैयन् ऎन अऱिवु  
+       ऎळिय ऎम् पॆरुमान्  
+पेरुम् ओर् आयिरम् पिऱ पल  
+       उडैय ऎम् पॆरुमान्  
+पेरुम् ओर् उरुवमुम् उळदु इल्लै  
+       इलदु इल्लै पिणक्के (४)  
+२८१६। No one knows who our god is.  
 No one knows what his nature is.  
 He is the light of knowledge.  
 He has a thousand names  
@@ -308,15 +309,15 @@ and any name that is conceivable,
 yet he has no name or form.  
 Is he not a mystery!  
 
-2817 பிணக்கு அற அறு வகைச் சமயமும்  
-       நெறி உள்ளி உரைத்த  
-கணக்கு அறு நலத்தனன் அந்தம் இல்  
-       ஆதி அம் பகவன்  
-வணக்கு உடைத் தவநெறி வழிநின்று  
-       புறநெறி களைகட்டு  
-உணக்குமின் பசை அற அவனுடை  
-       உணர்வுகொண்டு உணர்ந்தே (5)  
-2817. He is described by all the six schools of religion,  
+२८१७ पिणक्कु अऱ अऱु वगैच् चमयमुम्  
+       नॆऱि उळ्ळि उरैत्त  
+कणक्कु अऱु नलत्तनन् अन्दम् इल्  
+       आदि अम् भगवन्  
+वणक्कु उडैत् तवनॆऱि वऴिनिण्ड्रु  
+       पुऱनॆऱि कळैगट्टु  
+उणक्कुमिन् पसै अऱ अवनुडै  
+       उणर्वुगॊण्डु उणर्न्दे (५)  
+२८१७। He is described by all the six schools of religion,  
 and they all agree that he is faultless.  
 He has no beginning or end.  
 O devotees, you must follow the path of penance  
@@ -324,15 +325,15 @@ and leave all worldly desires.
 Have only the feeling that he is god  
 and remove all the feelings of your senses.  
 
-2818 உணர்ந்து உணர்ந்து இழிந்து அகன்று உயர்ந்து உரு  
-       வியந்த இந் நிலைமை  
-உணர்ந்து உணர்ந்து உணரிலும் இறைநிலை  
-       உணர்வு அரிது உயிர்காள்  
-உணர்ந்து உணர்ந்து உரைத்து உரைத்து அரி அயன்  
-       அரன் என்னும் இவரை  
-உணர்ந்து உணர்ந்து உரைத்து உரைத்து இறைஞ்சுமின்  
-       மனப்பட்டது ஒன்றே (6)  
-2818. O devotees, leave your worldly desires  
+२८१८ उणर्न्दु उणर्न्दु इऴिन्दु अगण्ड्रु उयर्न्दु उरु  
+       वियन्द इन् निलैमै  
+उणर्न्दु उणर्न्दु उणरिलुम् इऱैनिलै  
+       उणर्वु अरिदु उयिर्गाळ्  
+उणर्न्दु उणर्न्दु उरैत्तु उरैत्तु अरि अयन्  
+       अरन् ऎन्नुम् इवरै  
+उणर्न्दु उणर्न्दु उरैत्तु उरैत्तु इऱैञ्जुमिन्  
+       मनप्पट्टदु ऒण्ड्रे (६)  
+२८१८। O devotees, leave your worldly desires  
 and have only the highest feeling of god.  
 Even if you reach the state of having no desire,  
 you cannot know who god is.  
@@ -341,15 +342,15 @@ and learn to recite their names many times.
 You will come to know and your mind will understand  
 that there is only one god.  
 
-2819 ஒன்று எனப் பல என அறிவு அரும்  
-       வடிவினுள் நின்ற  
-நன்று எழில் நாரணன் நான்முகன்  
-       அரன் என்னும் இவரை  
-ஒன்ற நும் மனத்து வைத்து உள்ளி நும்  
-       இரு பசை அறுத்து  
-நன்று என நலம் செய்வது அவனிடை  
-       நம்முடை நாளே (7)  
-2819. People say that the beautiful gods  
+२८१९ ऒण्ड्रु ऎनप् पल ऎन अऱिवु अरुम्  
+       वडिविनुळ् निण्ड्र  
+नण्ड्रु ऎऴिल् नारणन् नान्मुगन्  
+       अरन् ऎन्नुम् इवरै  
+ऒण्ड्र नुम् मनत्तु वैत्तु उळ्ळि नुम्  
+       इरु पसै अऱुत्तु  
+नण्ड्रु ऎन नलम् सॆय्वदु अवनिडै  
+       नम्मुडै नाळे (७)  
+२८१९। People say that the beautiful gods  
 Naraṇan, Nanmuhan and Shiva have one or many forms.  
 Worship them in your mind and meditate on them  
 and you will come to know that Nanmuhan and Shiva  
@@ -358,30 +359,30 @@ Worship Naraṇan in your mind
 and the day when you come to know that he is the only god  
 will be the best of all your days.  
 
-2820 நாளும் நின்று அடு நம பழமை அம்  
-       கொடுவினை உடனே  
-மாளும் ஓர் குறைவு இல்லை மனன் அகம்  
-       மலம் அறக் கழுவி  
-நாளும் நம் திரு உடை அடிகள் தம்  
-       நலம் கழல் வணங்கி  
-மாளும் ஓர் இடத்திலும் வணக்கொடு  
-       மாள்வது வலமே (8)  
-2820. The bad karma that you have collected will leave you  
+२८२० नाळुम् निण्ड्रु अडु नम पऴमै अम्  
+       कॊडुविनै उडने  
+माळुम् ओर् कुऱैवु इल्लै मनन् अगम्  
+       मलम् अऱक् कऴुवि  
+नाळुम् नम् तिरु उडै अडिगळ् तम्  
+       नलम् कऴल् वणङ्गि  
+माळुम् ओर् इडत्तिलुम् वणक्कॊडु  
+       माळ्वदु वलमे (८)  
+२८२०। The bad karma that you have collected will leave you  
 and you will become faultless.  
 All the faults in your mind will go away.  
 Even when you leave this world  
 it is good to worship the divine feet of the god.  
 Keep worshiping him until the end of your life.  
 
-2821 வலத்தனன் திரிபுரம் எரித்தவன்  
-       இடம்பெறத் துந்தித்  
-தலத்து எழு திசைமுகன் படைத்த நல்  
-       உலகமும் தானும்  
-புலப்பட பின்னும் தன் உலகத்தில்  
-       அகத்தனன் தானே  
-சொலப் புகில் இவை பின்னும் வயிற்று உள  
-       இவை அவன் துயக்கே (9)  
-2821. Shiva who burned the three forts  
+२८२१ वलत्तनन् तिरिबुरम् ऎरित्तवन्  
+       इडम्बॆऱत् तुन्दित्  
+तलत्तु ऎऴु तिसैमुगन् पडैत्त नल्  
+       उलगमुम् तानुम्  
+पुलप्पड पिन्नुम् तन् उलगत्तिल्  
+       अगत्तनन् ताने  
+सॊलप् पुगिल् इवै पिन्नुम् वयिट्रु उळ  
+       इवै अवन् तुयक्के (९)  
+२८२१। Shiva who burned the three forts  
 stays on the left side of the god.  
 Nanmuhan, the creator of the world  
 who has heads in all directions  
@@ -392,15 +393,15 @@ If you would describe him,
 the entire world is in his stomach—  
 this is how he loves to confuse you.  
 
-2822 துயக்கு அறு மதியில் நல் ஞானத்துள்  
-       அமரரைத் துயக்கும்  
-மயக்கு உடை மாயைகள் வானிலும்  
-       பெரியன வல்லன்  
-புயல் கரு நிறத்தனன் பெரு நிலங்  
-       கடந்த நல் அடிப் போது  
-அயர்ப்பிலன் அலற்றுவன் தழுவுவன்  
-       வணங்குவன் அமர்ந்தே (10)  
-2822. He has faultless knowledge.  
+२८२२ तुयक्कु अऱु मदियिल् नल् ज्ञानत्तुळ्  
+       अमररैत् तुयक्कुम्  
+मयक्कु उडै मायैगळ् वानिलुम्  
+       पॆरियन वल्लन्  
+पुयल् करु निऱत्तनन् पॆरु निलङ्  
+       गडन्द नल् अडिप् पोदु  
+अयर्प्पिलन् अलट्रुवन् तऴुवुवन्  
+       वणङ्गुवन् अमर्न्दे (१०)  
+२८२२। He has faultless knowledge.  
 His maayas make even the wise gods confused.  
 He is bigger than the sky.  
 He is mighty.  
@@ -409,15 +410,15 @@ He did not grow tired when he measured the earth and the sky.
 I will praise him without growing weary.  
 I will embrace him and bow to him.  
 
-2823 அமரர்கள் தொழுது எழ அலை கடல்  
-       கடைந்தவன் தன்னை  
-அமர் பொழில் வளங் குருகூர்ச்  
-       சடகோபன் குற்றேவல்கள்  
-அமர் சுவை ஆயிரத்து அவற்றினுள்  
-       இவை பத்தும் வல்லார்  
-அமரரோடு உயர்வில் சென்று அறுவர் தம்  
-       பிறவி அம் சிறையே (11)  
-2823. Saḍagopan of Thirukuruhur  
+२८२३ अमरर्गळ् तॊऴुदु ऎऴ अलै कडल्  
+       कडैन्दवन् तन्नै  
+अमर् पॊऴिल् वळङ् गुरुगूर्च्  
+       चडगोबन् कुट्रेवल्गळ्  
+अमर् सुवै आयिरत्तु अवट्रिनुळ्  
+       इवै पत्तुम् वल्लार्  
+अमररोडु उयर्विल् सॆण्ड्रु अऱुवर् तम्  
+       पिऱवि अम् सिऱैये (११)  
+२८२३। Saḍagopan of Thirukuruhur  
 that flourishes with beautiful groves  
 composed a thousand pasurams  
 about the god who churned the milky ocean with roaring waves  
@@ -427,14 +428,14 @@ they will not be born again
 and they will go to heaven and stay with the gods.  
 --------------  
 
-திருவாய் மொழி - முதல் பத்து ( நான்காம் திருமொழி, 2824 -2834)  
-- தலைமகள் தூதுவிடல்  
+तिरुवाय् मॊऴि - मुदल् पत्तु ( नान्गाम् तिरुमॊऴि, २८२४ -२८३४)  
+- तलैमगळ् तूदुविडल्  
 
-2824 அம் சிறைய மட நாராய் அளியத்தாய் நீயும் நின்  
-அம் சிறைய சேவலுமாய் ஆஆ என்று எனக்கு அருளி  
-வெம் சிறைப் புள் உயர்த்தார்க்கு என் விடு தூதாய்ச் சென்றக்கால்  
-வன் சிறையில் அவன் வைக்கில் வைப்புண்டால் என் செயுமோ? (1)  
-2824. O crane with lovely wings,  
+२८२४ अम् सिऱैय मड नाराय् अळियत्ताय् नीयुम् निन्  
+अम् सिऱैय सेवलुमाय् आआ ऎण्ड्रु ऎनक्कु अरुळि  
+वॆम् सिऱैप् पुळ् उयर्त्तार्क्कु ऎन् विडु तूदाय्च् चॆण्ड्रक्काल्  
+वन् सिऱैयिल् अवन् वैक्किल् वैप्पुण्डाल् ऎन् सॆयुमो? (१)  
+२८२४। O crane with lovely wings,  
 be kind to me.  
 If you and your mate with beautiful wings  
 feel sorry for me and say, "Oh, oh!"  
@@ -444,11 +445,11 @@ do you worry that he might put you in a terrible cage
 and you could do nothing?  
 
 
-2825 என் செய்ய தாமரைக்கண் பெருமானார்க்கு என் தூதாய்  
-என் செய்யும் உரைத்தக்கால்? இனக் குயில்காள் நீர் அலிரே?  
-முன் செய்த முழுவினையால் திருவடிக்கீழ்க் குற்றேவல்  
-முன் செய்ய முயலாதேன் அகல்வதுவோ? விதியினமே (2)  
-2825. O cuckoo birds,  
+२८२५ ऎन् सॆय्य तामरैक्कण् पॆरुमानार्क्कु ऎन् तूदाय्  
+ऎन् सॆय्युम् उरैत्तक्काल्? इनक् कुयिल्गाळ् नीर् अलिरे?  
+मुन् सॆय्द मुऴुविनैयाल् तिरुवडिक्कीऴ्क् कुट्रेवल्  
+मुन् सॆय्य मुयलादेन् अगल्वदुवो? विधियिनमे (२)  
+२८२५। O cuckoo birds,  
 what will happen to you  
 if you go as my messenger and tell of my love sickness  
 to the beautiful lotus-eyed god?  
@@ -458,11 +459,11 @@ Is it right that I should not be able to join him in this birth
 because I did not try in my last birth?  
 Is that my fate?  
 
-2826 விதியினால் பெடை மணக்கும் மென்நடைய அன்னங்காள்  
-மதியினால் குறள் மாணாய் உலகு இரந்த கள்வர்க்கு  
-மதியிலேன் வல் வினையே மாளாதோ? என்று ஒருத்தி  
-மதி எல்லாம் உள் கலங்கி மயங்குமால் என்னீரே (3)  
-2826. O swans,  
+२८२६ विधियिनाल् पॆडै मणक्कुम् मॆन्नडैय अन्नङ्गाळ्  
+मदियिनाल् कुऱळ् माणाय् उलगु इरन्द कळ्वर्क्कु  
+मदियिलेन् वल् विनैये माळादो? ऎण्ड्रु ऒरुत्ति  
+मदि ऎल्लाम् उळ् कलङ्गि मयङ्गुमाल् ऎन्नीरे (३)  
+२८२६। O swans,  
 you walk softly with your beloveds  
 because your fate is good.  
 He went as a dwarf, begged Mahabali at his sacrifice  
@@ -472,11 +473,11 @@ Go and tell him, "There is an ignorant girl.
 She feels that she must have done much bad karma.  
 Her mind is confused and she is fascinated with you."  
 
-2827 என் நீர்மை கண்டு இரங்கி இது தகாது என்னாத  
-என் நீல முகில் வண்ணற்கு என் சொல்லி யான் சொல்லுகேனோ?  
-நன் நீர்மை இனி அவர்கண் தங்காது என்று ஒரு வாய்ச்சொல்  
-நன் நீல மகன்றில்காள் நல்குதிரோ? நல்கீரோ? (4)  
-2827. O andril birds, you have a lovely blue color.  
+२८२७ ऎन् नीर्मै कण्डु इरङ्गि इदु तगादु ऎन्नाद  
+ऎन् नील मुगिल् वण्णऱ्‌कु ऎन् सॊल्लि यान् सॊल्लुगेनो?  
+नन् नीर्मै इनि अवर्गण् तङ्गादु ऎण्ड्रु ऒरु वाय्च्चॊल्  
+नन् नील मगण्ड्रिल्गाळ् नल्गुदिरो? नल्गीरो? (४)  
+२८२७। O andril birds, you have a lovely blue color.  
 The dark cloud-colored god  
 doesn’t know how I suffer for his love  
 and doesn’t come to me and tell me,  
@@ -487,11 +488,11 @@ that she will not survive
 if she has to be apart from him any more.  
 O andril birds, will you help me or not?  
 
-2828 நல்கித் தான் காத்து அளிக்கும் பொழில் ஏழும் வினையேற்கே  
-நல்கத் தான் ஆகாதோ? நாரணனைக் கண்டக்கால்  
-மல்கு நீர்ப் புனல் படப்பை இரை தேர் வண் சிறு குருகே  
-மல்கு நீர்க் கண்ணேற்கு ஓர் வாசகம் கொண்டு அருளாயே (5)  
-2828. O beautiful small kurugu birds,  
+२८२८ नल्गित् तान् कात्तु अळिक्कुम् पॊऴिल् एऴुम् विनैयेऱ्‌के  
+नल्गत् तान् आगादो? नारणनैक् कण्डक्काल्  
+मल्गु नीर्प् पुनल् पडप्पै इरै तेर् वण् सिऱु गुरुगे  
+मल्गु नीर्क् कण्णेऱ्‌कु ओर् वाचकम् कॊण्डु अरुळाये (५)  
+२८२८। O beautiful small kurugu birds,  
 you search for food in the fields filled with water where fish swim.  
 Naraṇan has created all the seven worlds and protects them.  
 Won't he give me his grace and protect me also?  
@@ -501,11 +502,11 @@ and telling me what he said?
 I will wait, my eyes filled with tears,  
 until you return and tell me what he said.  
 
-2829 அருளாத நீர் அருளி அவர் ஆவி துவராமுன்  
-அருள் ஆழிப் புட்கடவீர் அவர் வீதி ஒருநாள் என்று  
-அருள் ஆழி அம்மானைக் கண்டக்கால் இது சொல்லி  
-அருள் ஆழி வரி வண்டே யாமும் என் பிழைத்தோமே? (6)  
-2829. O bees, your bodies are beautiful with lines.  
+२८२९ अरुळाद नीर् अरुळि अवर् आवि तुवरामुन्  
+अरुळ् आऴिप् पुट्कडवीर् अवर् वीदि ऒरुनाळ् ऎण्ड्रु  
+अरुळ् आऴि अम्मानैक् कण्डक्काल् इदु सॊल्लि  
+अरुळ् आऴि वरि वण्डे यामुम् ऎन् पिऴैत्तोमे? (६)  
+२८२९। O bees, your bodies are beautiful with lines.  
 Give me your grace.  
 He is a generous god and he carries a discus.  
 Go, see him and tell him, "She loves you  
@@ -515,11 +516,11 @@ before she loses her life."
 What have I done wrong  
 that he does not want to give me his grace?  
 
-2830 என்பு இழை கோப்பது போலப் பனி வாடை ஈர்கின்றது  
-என் பிழையே நினைந்தருளி அருளாத திருமாலார்க்கு  
-என் பிழைத்தாள் திருவடியின் தகவினுக்கு என்று ஒரு வாய்ச்சொல்  
-என்பிழைக்கும்? இளங் கிளியே யான் வளர்த்த நீ அலையே? (7)  
-2830. O young parrot, go to Nedumaal as my messenger.  
+२८३० ऎन्बु इऴै कोप्पदु पोलप् पनि वाडै ईर्गिण्ड्रदु  
+ऎन् पिऴैये निनैन्दरुळि अरुळाद तिरुमालार्क्कु  
+ऎन् पिऴैत्ताळ् तिरुवडियिन् तगविनुक्कु ऎण्ड्रु ऒरु वाय्च्चॊल्  
+ऎन्बिऴैक्कुम्? इळङ् गिळिये यान् वळर्त्त नी अलैये? (७)  
+२८३०। O young parrot, go to Nedumaal as my messenger.  
 I suffer like someone trembling in a cold wind  
 that makes your bones hurt.  
 Thirumaal does not give his grace  
@@ -530,11 +531,11 @@ What would be wrong if you told him that?
 Aren't you the bird that I have raised?  
 You are young and you should help me.  
 
-2831 நீ அலையே? சிறு பூவாய் நெடுமாலார்க்கு என் தூதாய்  
-நோய் எனது நுவல் என்ன நுவலாதே இருந்தொழிந்தாய்  
-சாயலொடு மணி மாமை தளர்ந்தேன் நான் இனி உனது  
-வாய் அலகில் இன் அடிசில் வைப்பாரை நாடாயே (8)  
-2831. O small puvai bird!  
+२८३१ नी अलैये? सिऱु पूवाय् नॆडुमालार्क्कु ऎन् तूदाय्  
+नोय् ऎनदु नुवल् ऎन्न नुवलादे इरुन्दॊऴिन्दाय्  
+सायलॊडु मणि मामै तळर्न्देन् नान् इनि उनदु  
+वाय् अलगिल् इन् अडिसिल् वैप्पारै नाडाये (८)  
+२८३१। O small puvai bird!  
 I told you to go as a messenger  
 and tell Neḍumaal of my love sickness,  
 but you didn’t tell him and my body has grown weak  
@@ -542,11 +543,11 @@ and lost its shining color and beauty.
 Go now and find someone who can feed you,  
 putting sweet food in your mouth as I used to do.  
 
-2832 நாடாத மலர் நாடி நாள்தோறும் நாரணன் தன்  
-வாடாத மலர் அடிக்கீழ் வைக்கவே வகுக்கின்று  
-வீடாடி வீற்றிருத்தல் வினை அற்றது என் செய்வதோ?  
-ஊடாடு பனி வாடாய் உரைத்து ஈராய் எனது உடலே (9)  
-2832. O cool wind that passes over the dew!  
+२८३२ नाडाद मलर् नाडि नाळ्दोऱुम् नारणन् तन्  
+वाडाद मलर् अडिक्कीऴ् वैक्कवे वगुक्किण्ड्रु  
+वीडाडि वीट्रिरुत्तल् विनै अट्रदु ऎन् सॆय्वदो?  
+ऊडाडु पनि वाडाय् उरैत्तु ईराय् ऎनदु उडले (९)  
+२८३२। O cool wind that passes over the dew!  
 The god created people to bring flowers that do not wither  
 and place them at his flower-like feet.  
 Why does he make me suffer and be separated from him?  
@@ -555,22 +556,22 @@ Did I do bad karma?
 Is this right?  
 Go and tell him how I suffer.  
 
-2833 உடல் ஆழிப் பிறப்பு வீடு உயிர் முதலா முற்றுமாய்க்  
-கடல் ஆழி நீர் தோற்றி அதனுள்ளே கண்வளரும்  
-அடல் ஆழி அம்மானைக் கண்டக்கால் இது சொல்லி  
-விடல் ஆழி மட நெஞ்சே வினையோம் ஒன்றாம் அளவே (10)  
-2833. She says,  
+२८३३ उडल् आऴिप् पिऱप्पु वीडु उयिर् मुदला मुट्रुमाय्क्  
+कडल् आऴि नीर् तोट्रि अदनुळ्ळे कण्वळरुम्  
+अडल् आऴि अम्मानैक् कण्डक्काल् इदु सॊल्लि  
+विडल् आऴि मड नॆञ्जे विनैयोम् ऒण्ड्राम् अळवे (१०)  
+२८३३। She says,  
 “O ignorant heart, our dear one has a discus in his hands  
 and rests on a snake bed on the ocean.  
 He creates births, bodies, people, moksha and water in the ocean.  
 If you see him, tell him, ‘We have done karma  
 but everyone else has also.’”  
 
-2834 அளவு இயன்ற ஏழ் உலகத்தவர் பெருமான் கண்ணனை  
-வள வயல் சூழ் வண் குருகூர்ச் சடகோபன் வாய்ந்து உரைத்த  
-அளவு இயன்ற அந்தாதி ஆயிரத்துள் இப் பத்தின்  
-வள உரையால் பெறலாகும் வான் ஓங்கு பெரு வளமே (11)  
-2834. Saḍagopan of Thirukuruhur  
+२८३४ अळवु इयण्ड्र एऴ् उलगत्तवर् पॆरुमान् कण्णनै  
+वळ वयल् सूऴ् वण् गुरुगूर्च् चडगोबन् वाय्न्दु उरैत्त  
+अळवु इयण्ड्र अन्दादि आयिरत्तुळ् इप् पत्तिन्  
+वळ उरैयाल् पॆऱलागुम् वान् ओङ्गु पॆरु वळमे (११)  
+२८३४। Saḍagopan of Thirukuruhur  
 surrounded with flourishing fields swarming with bees  
 composed a thousand andadi poems  
 praising our god Kaṇṇan, the lord of the seven worlds.  
@@ -578,18 +579,18 @@ If devotees learn and recite these ten pasurams
 they will have the good fortune of going to heaven and joining the gods.  
 ------------  
 
-திருவாய் மொழி - முதல் பத்து (ஐந்தாம் திருமொழி, 2835-2845)  
-- மாறனை மால் சீலகுணத்தால் சேர்த்தல்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (ऐन्दाम् तिरुमॊऴि, २८३५-२८४५)  
+- माऱनै माल् शीलगुणत्ताल् सेर्त्तल्  
 
-2835 வள ஏழ் உலகின் முதலாய  
-       வானோர் இறையை அருவினையேன்  
-களவேழ் வெண்ணெய் தொடு உண்ட  
-       கள்வா என்பன் பின்னையும்  
-தளவு ஏழ் முறுவல் பின்னைக்கு ஆய்  
-       வல் ஆன் ஆயர் தலைவனாய்  
-இள ஏறு ஏழும் தழுவிய  
-       எந்தாய் என்பன் நினைந்து நைந்தே (1)  
-2835. He is the god of the gods in the sky.  
+२८३५ वळ एऴ् उलगिन् मुदलाय  
+       वानोर् इऱैयै अरुविनैयेन्  
+कळवेऴ् वॆण्णॆय् तॊडु उण्ड  
+       कळ्वा ऎन्बन् पिन्नैयुम्  
+तळवु एऴ् मुऱुवल् पिन्नैक्कु आय्  
+       वल् आन् आयर् तलैवनाय्  
+इळ एऱु एऴुम् तऴुविय  
+       ऎन्दाय् ऎन्बन् निनैन्दु नैन्दे (१)  
+२८३५। He is the god of the gods in the sky.  
 He is the most ancient in all the seven rich worlds.  
 I have done much bad karma and I call to you, saying,  
 "O thief! You stole butter and ate it all!"  
@@ -599,15 +600,15 @@ and you conquered the seven young bulls
 to marry Nappinnai whose smile is like blooming jasmine."  
 I think of you and suffer and suffer.  
 
-2836 நினைந்து நைந்து உள் கரைந்து உருகி  
-       இமையோர் பலரும் முனிவரும்  
-புனைந்த கண்ணி நீர் சாந்தம்  
-       புகையோடு ஏந்தி வணங்கினால்  
-நினைந்த எல்லாப் பொருள்கட்கும்  
-       வித்துஆய் முதலில் சிதையாமே  
-மனம் செய் ஞானத்து உன் பெருமை  
-       மாசூணாதோ? மாயோனே (2)  
-2836. You are Maayon.  
+२८३६ निनैन्दु नैन्दु उळ् करैन्दु उरुगि  
+       इमैयोर् पलरुम् मुनिवरुम्  
+पुनैन्द कण्णि नीर् सान्दम्  
+       पुगैयोडु एन्दि वणङ्गिनाल्  
+निनैन्द ऎल्लाप् पॊरुळ्गट्कुम्  
+       वित्तुआय् मुदलिल् सिदैयामे  
+मनम् सॆय् ज्ञानत्तु उन् पॆरुमै  
+       मासूणादो? मायोने (२)  
+२८३६। You are Maayon.  
 The gods in the sky think of you, melt in their hearts  
 and worship you with garlands, water,  
 sandal paste and fragrant incense.  
@@ -617,15 +618,15 @@ and can be reached only through wisdom.
 Won’t your greatness be spoiled  
 if the gods use only earthly things to worship you?  
 
-2837 மா யோனிகளாய் நடை கற்ற  
-       வானோர் பலரும் முனிவரும்  
-நீ யோனிகளைப் படை என்று  
-       நிறை நான்முகனைப் படைத்தவன்  
-சேயோன் எல்லா அறிவுக்கும்  
-       திசைகள் எல்லாம் திருவடியால்  
-தாயோன் எல்லா எவ் உயிர்க்கும்  
-       தாயோன் தான் ஓர் உருவனே (3)  
-2837. He created the great Nanmuhan and told him,  
+२८३७ मा योनिगळाय् नडै कट्र  
+       वानोर् पलरुम् मुनिवरुम्  
+नी योनिगळैप् पडै ऎण्ड्रु  
+       निऱै नान्मुगनैप् पडैत्तवन्  
+सेयोन् ऎल्ला अऱिवुक्कुम्  
+       तिसैगळ् ऎल्लाम् तिरुवडियाल्  
+तायोन् ऎल्ला ऎव् उयिर्क्कुम्  
+       तायोन् तान् ओर् उरुवने (३)  
+२८३७। He created the great Nanmuhan and told him,  
 "You should create all the gods in the sky,  
 all with their own duties,  
 the sages and all creatures in the world."  
@@ -634,30 +635,30 @@ and all the directions cannot reach him.
 He measured the world and the sky with his divine feet.  
 He is the mother of all lives but no one knows his form.  
 
-2838 தான் ஓர் உருவே தனி வித்து ஆய்  
-       தன்னின் மூவர் முதலாய  
-வானோர் பலரும் முனிவரும்  
-       மற்றும் மற்றும் முற்றும் ஆய்  
-தான் ஓர் பெருநீர் தன்னுள்ளே  
-       தோற்றி அதனுள் கண்வளரும்  
-வானோர் பெருமான் மா மாயன்  
-       வைகுந்தன் எம் பெருமானே (4)  
-2838. He has a unique form.  
+२८३८ तान् ओर् उरुवे तनि वित्तु आय्  
+       तन्निन् मूवर् मुदलाय  
+वानोर् पलरुम् मुनिवरुम्  
+       मट्रुम् मट्रुम् मुट्रुम् आय्  
+तान् ओर् पॆरुनीर् तन्नुळ्ळे  
+       तोट्रि अदनुळ् कण्वळरुम्  
+वानोर् पॆरुमान् मा मायन्  
+       वैगुन्दन् ऎम् पॆरुमाने (४)  
+२८३८। He has a unique form.  
 He is the seed of the three gods, Shiva, Brahma, Indra,  
 all the gods in the sky, sages and all other creatures.  
 He, the god of the gods, is the creator of the large ocean  
 and he sleeps on Adishesha.  
 He is the Maayan and the god of Vaikuṇṭam.  
 
-2839 மான் ஏய் நோக்கி மடவாளை  
-       மார்பில் கொண்டாய் மாதவா  
-கூனே சிதைய உண்டை வில்  
-       நிறத்தில் தெறித்தாய் கோவிந்தா  
-வான் ஆர் சோதி மணிவண்ணா  
-       மதுசூதா நீ அருளாய் உன்  
-தேனே மலரும் திருப்பாதம்  
-       சேருமாறு வினையேனே (5)  
-2839. O Madhava, on your chest you embrace  
+२८३९ मान् एय् नोक्कि मडवाळै  
+       मार्बिल् कॊण्डाय् मादवा  
+कूने सिदैय उण्डै विल्  
+       निऱत्तिल् तॆऱित्ताय् कोविन्दा  
+वान् आर् सोदि मणिवण्णा  
+       मदुसूदा नी अरुळाय् उन्  
+तेने मलरुम् तिरुप्पादम्  
+       सेरुमाऱु विनैयेने (५)  
+२८३९। O Madhava, on your chest you embrace  
 the innocent doe-eyed Lakshmi.  
 O Govinda, you shot a stone from your bow  
 and hurt the hunched back of Manthara.  
@@ -668,15 +669,15 @@ O Madhusudana, give me your grace
 so that I will be able to join your divine feet  
 like the flowers that drip with honey.  
 
-2840 வினையேன் வினை தீர் மருந்து ஆனாய்  
-       விண்ணோர் தலைவா கேசவா  
-மனை சேர் ஆயர் குல முதலே  
-       மா மாயனே மாதவா  
-சினை ஏய் தழைய மராமரங்கள்  
-       ஏழும் எய்தாய் சிரீதரா  
-இனையாய் இனைய பெயரினாய்  
-       என்று நைவன் அடியேனே (6)  
-2840. You are the remedy for the fruits of my bad karma.  
+२८४० विनैयेन् विनै तीर् मरुन्दु आनाय्  
+       विण्णोर् तलैवा केसवा  
+मनै सेर् आयर् कुल मुदले  
+       मा मायने मादवा  
+सिनै एय् तऴैय मरामरङ्गळ्  
+       एऴुम् ऎय्दाय् सिरीदरा  
+इनैयाय् इनैय पॆयरिनाय्  
+       ऎण्ड्रु नैवन् अडियेने (६)  
+२८४०। You are the remedy for the fruits of my bad karma.  
 O Kesava, you are the lord of the gods in the sky.  
 You are the chief of the cowherd clan  
 and you have lived in their houses.  
@@ -686,15 +687,15 @@ O Sridhara, I am your slave and I melt with devotion
 and long to reach you, saying,  
 "Your nature is wonderful. You have thousands of names."  
 
-2841 அடியேன் சிறிய ஞானத்தன்  
-       அறிதல் ஆர்க்கும் அரியானை  
-கடி சேர் தண் அம் துழாய்க் கண்ணி  
-       புனைந்தான் தன்னை கண்ணனை  
-செடி ஆர் ஆக்கை அடியாரைச்  
-       சேர்தல் தீர்க்கும் திருமாலை  
-அடியேன் காண்பான் அலற்றுவன்  
-       இதனின் மிக்கு ஓர் அயர்வு உண்டே? (7)  
-2841. I am not very wise.  
+२८४१ अडियेन् सिऱिय ज्ञानत्तन्  
+       अऱिदल् आर्क्कुम् अरियानै  
+कडि सेर् तण् अम् तुऴाय्क् कण्णि  
+       पुनैन्दान् तन्नै कण्णनै  
+सॆडि आर् आक्कै अडियारैच्  
+       चेर्दल् तीर्क्कुम् तिरुमालै  
+अडियेन् काण्बान् अलट्रुवन्  
+       इदनिन् मिक्कु ओर् अयर्वु उण्डे? (७)  
+२८४१। I am not very wise.  
 He is hard even for the wise to know.  
 He is adorned with fragrant cool thulasi garlands.  
 He is Kaṇṇan.  
@@ -704,30 +705,30 @@ I am his slave.
 I cry out and cry out that I want to see him.  
 Is there anything I could do more than only thinking of him?  
 
-2842 உண்டாய் உலகு ஏழ் முன்னமே  
-       உமிழ்ந்து மாயையால் புக்கு  
-உண்டாய் வெண்ணெய் சிறு மனிசர்  
-       உவலை ஆக்கை நிலை எய்தி  
-மண் தான் சோர்ந்தது உண்டேலும்  
-       மனிசர்க்கு ஆகும் பீர் சிறிதும்  
-அண்டாவண்ணம் மண் கரைய  
-       நெய் ஊண் மருந்தோ? மாயோனே (8)  
-2842. You swallowed the seven worlds in ancient times,  
+२८४२ उण्डाय् उलगु एऴ् मुन्नमे  
+       उमिऴ्न्दु मायैयाल् पुक्कु  
+उण्डाय् वॆण्णॆय् सिऱु मनिसर्  
+       उवलै आक्कै निलै ऎय्दि  
+मण् तान् सोर्न्ददु उण्डेलुम्  
+       मनिसर्क्कु आगुम् पीर् सिऱिदुम्  
+अण्डावण्णम् मण् करैय  
+       नॆय् ऊण् मरुन्दो? मायोने (८)  
+२८४२। You swallowed the seven worlds in ancient times,  
 and spit them out.  
 You took the form of a small child  
 and ate butter in a house where ordinary people lived.  
 O Maayon, do you think that butter can cure your stomach  
 that is upset because you ate mud?  
 
-2843 மாயோம் தீய அலவலைப்  
-       பெரு மா வஞ்சப் பேய் வீயத்  
-தூய குழவியாய் விடப் பால்  
-       அமுதா அமுது செய்திட்ட  
-மாயன் வானோர் தனித் தலைவன்  
-       மலராள் மைந்தன் எவ் உயிர்க்கும்  
-தாயோன் தம்மான் என் அம்மான்  
-       அம்மா மூர்த்தியைச் சார்ந்தே (9)  
-2843. Putana wanted to kill you  
+२८४३ मायोम् तीय अलवलैप्  
+       पॆरु मा वञ्जप् पेय् वीयत्  
+तूय कुऴवियाय् विडप् पाल्  
+       अमुदा अमुदु सॆय्दिट्ट  
+मायन् वानोर् तनित् तलैवन्  
+       मलराळ् मैन्दन् ऎव् उयिर्क्कुम्  
+तायोन् तम्मान् ऎन् अम्मान्  
+       अम्मा मूर्त्तियैच् चार्न्दे (९)  
+२८४३। Putana wanted to kill you  
 and came in the form of a mother to feed you milk,  
 but you changed her poisonous milk into nectar and drank it.  
 You are Maayan.  
@@ -737,15 +738,15 @@ You are the mother of all the lives of the world.
 My dear god is the lord of all.  
 I have joined him and I will not be separated from him.  
 
-2844 சார்ந்த இரு வல் வினைகளும்  
-       சரித்து மாயப் பற்று அறுத்து  
-தீர்ந்து தன்பால் மனம் வைக்கத்  
-       திருத்தி வீடு திருத்துவான்  
-ஆர்ந்த ஞானச் சுடர் ஆகி  
-       அகலம் கீழ் மேல் அளவு இறந்து  
-நேர்ந்த உருவாய் அருவாகும்  
-       இவற்றின் உயிராம் நெடுமாலே (10)  
-2844. My god Neḍumaal destroyed my good and bad karma.  
+२८४४ सार्न्द इरु वल् विनैगळुम्  
+       सरित्तु मायप् पट्रु अऱुत्तु  
+तीर्न्दु तन्बाल् मनम् वैक्कत्  
+       तिरुत्ति वीडु तिरुत्तुवान्  
+आर्न्द ज्ञानच् चुडर् आगि  
+       अगलम् कीऴ् मेल् अळवु इऱन्दु  
+नेर्न्द उरुवाय् अरुवागुम्  
+       इवट्रिन् उयिराम् नॆडुमाले (१०)  
+२८४४। My god Neḍumaal destroyed my good and bad karma.  
 He destroyed my desire for this illusory world.  
 He makes my mind think only of him.  
 He will give me moksha.  
@@ -755,15 +756,15 @@ He stays in the sky and in the underworld.
 He has a form and he is formless.  
 He, Neḍumaal, is the life of all creatures.  
 
-2845 மாலே மாயப் பெருமானே  
-       மா மாயவனே என்று என்று  
-மாலே ஏறி மால் அருளால்  
-       மன்னு குருகூர்ச் சடகோபன்  
-பால் ஏய் தமிழர் இசைகாரர்  
-       பத்தர் பரவும் ஆயிரத்தின்  
-பாலே பட்ட இவை பத்தும்  
-       வல்லார்க்கு இல்லை பரிவதே (11)  
-2845. Saḍagopan of everlasting Thirukuruhur  
+२८४५ माले मायप् पॆरुमाने  
+       मा मायवने ऎण्ड्रु ऎण्ड्रु  
+माले एऱि माल् अरुळाल्  
+       मन्नु गुरुगूर्च् चडगोबन्  
+पाल् एय् तमिऴर् इसैगारर्  
+       पत्तर् परवुम् आयिरत्तिन्  
+पाले पट्ट इवै पत्तुम्  
+       वल्लार्क्कु इल्लै परिवदे (११)  
+२८४५। Saḍagopan of everlasting Thirukuruhur  
 praised the god, saying,  
 "You are the dark-colored one! You are the god Maayan!  
 You are the wonderful Maayavan!"  
@@ -773,14 +774,14 @@ If devotees learn and recite these ten pasurams well
 they will not have any trouble in their lives.  
 -----------  
 
-திருவாய் மொழி - முதல் பத்து (ஆறாம் திருமொழி, 2846-2856)  
-- ஆராதனைக்கு எளியவன்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (आऱाम् तिरुमॊऴि, २८४६-२८५६)  
+- आरादनैक्कु ऎळियवन्  
 
-2846 பரிவது இல் ஈசனைப் பாடி  
-விரிவது மேவல் உறுவீர்  
-பிரிவகை இன்றி நல் நீர் தூய்  
-புரிவதுவும் புகை பூவே (1)  
-2846. O devotees,  
+२८४६ परिवदु इल् ईसनैप् पाडि  
+विरिवदु मेवल् उऱुवीर्  
+पिरिवगै इण्ड्रि नल् नीर् तूय्  
+पुरिवदुवुम् पुगै पूवे (१)  
+२८४६। O devotees,  
 you praise the god with love  
 and want to join him in moksha.  
 Bath him with pure water, show him frankincense,  
@@ -788,22 +789,22 @@ sprinkle flowers on his feet and worship him.
 This is the path to think of him always  
 and not be separated from him.  
 
-2847 மதுவார் தண் அம் துழாயான்  
-முது வேத முதலவனுக்கு  
-எது ஏது என் பணி என்னாது  
-அதுவே ஆள் செய்யும் ஈடே (2)  
-2847. He is the ancient god of the Vedas.  
+२८४७ मदुवार् तण् अम् तुऴायान्  
+मुदु वेद मुदलवनुक्कु  
+ऎदु एदु ऎन् पणि ऎन्नादु  
+अदुवे आळ् सॆय्युम् ईडे (२)  
+२८४७। He is the ancient god of the Vedas.  
 He wears a beautiful cool thulasi garland  
 that drips with honey.  
 Do not wonder what service you can do for the god,  
 just do what you can.  
 That will be the best service that you can do for him.  
 
-2848 ஈடும் எடுப்பும் இல் ஈசன்  
-மாடு விடாது என் மனனே  
-பாடும் என் நா அவன் பாடல்  
-ஆடும் என் அங்கம் அணங்கே (3)  
-2848. The highest god does not think  
+२८४८ ईडुम् ऎडुप्पुम् इल् ईसन्  
+माडु विडादु ऎन् मनने  
+पाडुम् ऎन् ना अवन् पाडल्  
+आडुम् ऎन् अङ्गम् अणङ्गे (३)  
+२८४८। The highest god does not think  
 one person is high and another is low.  
 He accepts all.  
 My mind does not leave him ever.  
@@ -811,118 +812,118 @@ My mouth praises him with songs.
 My body dances for him  
 like those who are in frenzy.  
 
-2849 அணங்கு என ஆடும் என் அங்கம்  
-வணங்கி வழிபடும் ஈசன்  
-பிணங்கி அமரர் பிதற்றும்  
-குணங்கெழு கொள்கையினானே (4)  
-2849. The gods in the sky worship and praise him  
+२८४९ अणङ्गु ऎन आडुम् ऎन् अङ्गम्  
+वणङ्गि वऴिबडुम् ईसन्  
+पिणङ्गि अमरर् पितट्रुम्  
+कुणङ्गॆऴु कॊळ्गैयिनाने (४)  
+२८४९। The gods in the sky worship and praise him  
 raving about his superior nature.  
 My body dances like those who dance in a frenzy.  
 I bow to him and worship him.  
 
-2850 கொள்கை கொளாமை இலாதான்  
-எள்கல் இராகம் இலாதான்  
-விள்கை விள்ளாமை விரும்பி  
-உள் கலந்தார்க்கு ஓர் அமுதே (5)  
-2850. He does not think anyone is good or bad  
+२८५० कॊळ्गै कॊळामै इलादान्  
+ऎळ्गल् इरागम् इलादान्  
+विळ्गै विळ्ळामै विरुम्बि  
+उळ् कलन्दार्क्कु ओर् अमुदे (५)  
+२८५०। He does not think anyone is good or bad  
 but gives his grace to all.  
 He does not hate anyone or like anyone.  
 He helps all whether they expect something from him or not.  
 He is nectar for those who keep him in their minds.  
 
-2851 அமுதம் அமரர்கட்கு ஈந்த  
-நிமிர் சுடர் ஆழி நெடுமால்  
-அமுதிலும் ஆற்ற இனியன்  
-நிமிர் திரை நீள் கடலானே (6)  
-2851. Our god Neḍumaal carries a shining discus  
+२८५१ अमुदम् अमरर्गट्कु ईन्द  
+निमिर् सुडर् आऴि नॆडुमाल्  
+अमुदिलुम् आट्र इनियन्  
+निमिर् तिरै नीळ् कडलाने (६)  
+२८५१। Our god Neḍumaal carries a shining discus  
 and he gave nectar to the gods.  
 He is sweeter than nectar.  
 He sleeps on the large ocean with roaring waves.  
 
-2852 நீள் கடல் சூழ் இலங்கைக் கோன்  
-தோள்கள் தலை துணிசெய்தான்  
-தாள்கள் தலையில் வணங்கி  
-நாள்கள் தலைக்கழிமின்னே (7)  
-2852. He cut the heads and the arms of Ravana  
+२८५२ नीळ् कडल् सूऴ् इलङ्गैक् कोन्  
+तोळ्गळ् तलै तुणिसॆय्दान्  
+ताळ्गळ् तलैयिल् वणङ्गि  
+नाळ्गळ् तलैक्कऴिमिन्ने (७)  
+२८५२। He cut the heads and the arms of Ravana  
 the king of Lanka surrounded by the wide ocean.  
 Bow your head at his feet  
 and cross over the ocean that is your remaining days.  
 
-2853 கழிமின் தொண்டீர்கள் கழித்துத்  
-தொழுமின் அவனை தொழுதால்  
-வழி நின்ற வல்வினை மாள்வித்து  
-அழிவின்றி ஆக்கம் தருமே (8)  
-2853. O devotees,  
+२८५३ कऴिमिन् तॊण्डीर्गळ् कऴित्तुत्  
+तॊऴुमिन् अवनै तॊऴुदाल्  
+वऴि निण्ड्र वल्विनै माळ्वित्तु  
+अऴिविण्ड्रि आक्कम् तरुमे (८)  
+२८५३। O devotees,  
 leave the desires of the world and worship him.  
 If you worship him, he will destroy your bad karma  
 and give you undiminished wealth on this earth.  
 
-2854 தரும அரும் பயன் ஆய  
-திருமகளார் தனிக் கேள்வன்  
-பெருமை உடைய பிரானார்  
-இருமை வினை கடிவாரே (9)  
-2854. He is the beloved of beautiful Lakshmi  
+२८५४ तरुम अरुम् पयन् आय  
+तिरुमगळार् तनिक् केळ्वन्  
+पॆरुमै उडैय पिरानार्  
+इरुमै विनै कडिवारे (९)  
+२८५४। He is the beloved of beautiful Lakshmi  
 who is the result of all the dharma of the world.  
 He, the famous god, will remove your bad and good karma.  
 
-2855 கடிவார் தீய வினைகள்  
-நொடியாரும் அளவைக்கண்  
-கொடியா அடு புள் உயர்த்த  
-வடிவு ஆர் மாதவனாரே (10)  
-2855. He will destroy your bad karma.  
+२८५५ कडिवार् तीय विनैगळ्  
+नॊडियारुम् अळवैक्कण्  
+कॊडिया अडु पुळ् उयर्त्त  
+वडिवु आर् मादवनारे (१०)  
+२८५५। He will destroy your bad karma.  
 He will remove your karma in a moment.  
 Our lord the beautiful Madhavan carries high  
 his banner of a cruel eagle that destroys his enemies.  
 
-2856 மாதவன்பால் சடகோபன்  
-தீது அவம் இன்றி உரைத்த  
-ஏதம் இல் ஆயிரத்து இப் பத்து  
-ஓத வல்லார் பிறவாரே (11)  
-2856. Saḍagopan composed a thousand faultless poems  
+२८५६ मादवन्बाल् सडगोबन्  
+तीदु अवम् इण्ड्रि उरैत्त  
+एदम् इल् आयिरत्तु इप् पत्तु  
+ओद वल्लार् पिऱवारे (११)  
+२८५६। Saḍagopan composed a thousand faultless poems  
 to the god Madhavan.  
 If devotees learn and recite these ten poems  
 they will not be born again on this earth.  
 ---------------  
 
-திருவாய் மொழி - முதல் பத்து (ஏழாம் திருமொழி, 2857-2867)  
-- ஆராதிப்பார்க்கு மிக இனியன்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (एऴाम् तिरुमॊऴि, २८५७-२८६७)  
+- आरादिप्पार्क्कु मिग इनियन्  
 
-2857 பிறவித்துயர் அற ஞானத்துள் நின்று  
-துறவிச் சுடர் விளக்கம் தலைப்பெய்வார்  
-அறவனை ஆழிப்படை அந்தணனை  
-மறவியை இன்றி மனத்து வைப்பாரே (1)  
-2857. Sages who do not want to be born again  
+२८५७ पिऱवित्तुयर् अऱ ज्ञानत्तुळ् निण्ड्रु  
+तुऱविच् चुडर् विळक्कम् तलैप्पॆय्वार्  
+अऱवनै आऴिप्पडै अन्दणनै  
+मऱवियै इण्ड्रि मनत्तु वैप्पारे (१)  
+२८५७। Sages who do not want to be born again  
 follow the bright path of wisdom.  
 Their god is pure and he carries a discus. He is dharma.  
 They keep him in their minds and never forget him.  
 
-2858 வைப்பு ஆம் மருந்து ஆம் அடியரை வல்வினைத்  
-துப்பு ஆம் புலன் ஐந்தும் துஞ்சக்கொடான் அவன்  
-எப்பால் எவர்க்கும் நலத்தால் உயர்ந்து உயர்ந்து  
-அப்பாலவன் எங்கள் ஆயர் கொழுந்தே (2)  
-2858. He is a treasure.  
+२८५८ वैप्पु आम् मरुन्दु आम् अडियरै वल्विनैत्  
+तुप्पु आम् पुलन् ऐन्दुम् तुञ्जक्कॊडान् अवन्  
+ऎप्पाल् ऎवर्क्कुम् नलत्ताल् उयर्न्दु उयर्न्दु  
+अप्पालवन् ऎङ्गळ् आयर् कॊऴुन्दे (२)  
+२८५८। He is a treasure.  
 He is the remedy for all sicknesses.  
 He removes the bad karma of his devotees.  
 He saves his devotees from the desires of the five senses.  
 He is the dear one of the cowherds.  
 He is higher in goodness than anyone or anything.  
 
-2859 ஆயர் கொழுந்தாய் அவரால் புடையுண்ணும்  
-மாயப் பிரானை என் மாணிக்கச் சோதியை  
-தூய அமுதைப் பருகிப் பருகி என்  
-மாயப் பிறவி மயர்வு அறுத்தேனே (3)  
-2859. He was born as a tender child of the cowherds.  
+२८५९ आयर् कॊऴुन्दाय् अवराल् पुडैयुण्णुम्  
+मायप् पिरानै ऎन् माणिक्कच् चोदियै  
+तूय अमुदैप् परुगिप् परुगि ऎन्  
+मायप् पिऱवि मयर्वु अऱुत्तेने (३)  
+२८५९। He was born as a tender child of the cowherds.  
 He was punished by Yashoda because he stole butter.  
 Maayan my god is a bright diamond.  
 He is pure nectar.  
 I drank and drank his grace  
 and all my delusion went away.  
 
-2860 மயர்வு அற என் மனத்தே மன்னினான் தன்னை  
-உயர்வினையே தரும் ஒண் சுடர்க் கற்றையை  
-அயர்வு இல் அமரர்கள் ஆதிக் கொழுந்தை என்  
-இசைவினை என் சொல்லி யான் விடுவேனோ? (4)  
-2860. He entered my mind and took away all my delusions.  
+२८६० मयर्वु अऱ ऎन् मनत्ते मन्निनान् तन्नै  
+उयर्विनैये तरुम् ऒण् सुडर्क् कट्रैयै  
+अयर्वु इल् अमरर्गळ् आदिक् कॊऴुन्दै ऎन्  
+इसैविनै ऎन् सॊल्लि यान् विडुवेनो? (४)  
+२८६०। He entered my mind and took away all my delusions.  
 He, a shining light, gives me only excellence in life.  
 He is lovely like a tender shoot  
 and he is the ancient god of the gods.  
@@ -930,61 +931,61 @@ He never grows tired.
 He is my love.  
 How could I allow him to leave me?  
 
-2861 விடுவேனோ என் விளக்கை என் ஆவியை  
-நடுவே வந்து உய்யக் கொள்கின்ற நாதனை  
-தொடுவே செய்து இள ஆய்ச்சியர் கண்ணினுள்  
-விடவே செய்து விழிக்கும் பிரானையே? (5)  
-2861. He is my soul and I will not leave him,  
+२८६१ विडुवेनो ऎन् विळक्कै ऎन् आवियै  
+नडुवे वन्दु उय्यक् कॊळ्गिण्ड्र नादनै  
+तॊडुवे सॆय्दु इळ आय्च्चियर् कण्णिनुळ्  
+विडवे सॆय्दु विऴिक्कुम् पिरानैये? (५)  
+२८६१। He is my soul and I will not leave him,  
 He is the bright light that guides me.  
 He is my chief and he came into my life and saved me.  
 He bound me to him.  
 The young cowherd girls love to see him.  
 He fascinates them all.  
 
-2862 பிரா அன் பெரு நிலம் கீண்டவன் பின்னும்  
-விரா அய் மலர்த் துழாய் வேய்ந்த முடியன்  
-மராமரம் எய்த மாயவன் என்னுள்  
-இரான் எனில் பின்னை யான் ஒட்டுவேனோ? (6)  
-2862. As a boar the lord split open the earth.  
+२८६२ पिरा अन् पॆरु निलम् कीण्डवन् पिन्नुम्  
+विरा अय् मलर्त् तुऴाय् वेय्न्द मुडियन्  
+मरामरम् ऎय्द मायवन् ऎन्नुळ्  
+इरान् ऎनिल् पिन्नै यान् ऒट्टुवेनो? (६)  
+२८६२। As a boar the lord split open the earth.  
 He is adorned with flower garlands mixed with thulasi.  
 He is Maayavan and he destroyed the seven mara trees.  
 If he refuses to stay in my heart, I will not accept it.  
 
-2863 யான் ஒட்டி என்னுள் இருத்துவன் என்றிலன்  
-தான் ஒட்டி வந்து என் தனி நெஞ்சை வஞ்சித்து  
-ஊன் ஒட்டி நின்று என் உயிரில் கலந்து இயல்  
-வான் ஒட்டுமோ இனி என்னை நெகிழ்க்கவே? (7)  
-2863. I was worried that I might not be able to make him stay in my mind,  
+२८६३ यान् ऒट्टि ऎन्नुळ् इरुत्तुवन् ऎण्ड्रिलन्  
+तान् ऒट्टि वन्दु ऎन् तनि नॆञ्जै वञ्जित्तु  
+ऊन् ऒट्टि निण्ड्रु ऎन् उयिरिल् कलन्दु इयल्  
+वान् ऒट्टुमो इनि ऎन्नै नॆगिऴ्क्कवे? (७)  
+२८६३। I was worried that I might not be able to make him stay in my mind,  
 but he entered my mind, attracted me and stayed there.  
 He stayed in my body and mingled with my soul.  
 He stays in my heart and if he says he will leave me,  
 how can I accept that?  
 
-2864 என்னை நெகிழ்க்கிலும் என்னுடை நன் நெஞ்சம்  
-தன்னை அகல்விக்கத் தானும் கில்லான் இனி  
-பின்னை நெடும் பணைத் தோள் மகிழ் பீடு உடை  
-முன்னை அமரர் முழுமுதல் தானே (8)  
-2864. Even if he thinks of leaving me,  
+२८६४ ऎन्नै नॆगिऴ्क्किलुम् ऎन्नुडै नन् नॆञ्जम्  
+तन्नै अगल्विक्कत् तानुम् किल्लान् इनि  
+पिन्नै नॆडुम् पणैत् तोळ् मगिऴ् पीडु उडै  
+मुन्नै अमरर् मुऴुमुदल् ताने (८)  
+२८६४। Even if he thinks of leaving me,  
 he cannot leave my faultless heart.  
 He is the highest god of the gods in the sky  
 and the beloved of Nappinnai  
 whose arms are as lovely as bamboo.  
 
-2865 அமரர் முழுமுதல் ஆகிய ஆதியை  
-அமரர்க்கு அமுது ஈந்த ஆயர் கொழுந்தை  
-அமர அழும்பத் துழாவி என் ஆவி  
-அமரத் தழுவிற்று இனி அகலும்மோ? (9)  
-2865. He is the ancient one and the highest of the gods.  
+२८६५ अमरर् मुऴुमुदल् आगिय आदियै  
+अमरर्क्कु अमुदु ईन्द आयर् कॊऴुन्दै  
+अमर अऴुम्बत् तुऴावि ऎन् आवि  
+अमरत् तऴुविट्रु इनि अगलुम्मो? (९)  
+२८६५। He is the ancient one and the highest of the gods.  
 He is the tender child of the cowherds  
 and he gave nectar to the gods.  
 He entered my heart and embraced my soul.  
 Surely he will not have the heart to leave me.  
 
-2866 அகலில் அகலும் அணுகில் அணுகும்  
-புகலும் அரியன் பொரு அல்லன் எம்மான்  
-நிகர் இல் அவன் புகழ் பாடி இளைப்பு இலம்  
-பகலும் இரவும் படிந்து குடைந்தே (10)  
-2866. If you do not think of him, he will leave you.  
+२८६६ अगलिल् अगलुम् अणुगिल् अणुगुम्  
+पुगलुम् अरियन् पॊरु अल्लन् ऎम्मान्  
+निगर् इल् अवन् पुगऴ् पाडि इळैप्पु इलम्  
+पगलुम् इरवुम् पडिन्दु कुडैन्दे (१०)  
+२८६६। If you do not think of him, he will leave you.  
 If you approach him, he will approach you.  
 He is hard to describe.  
 No one can fight with him and conquer him.  
@@ -993,11 +994,11 @@ and we never grow tired.
 We will plunge ourselves into contemplating him  
 night and day and we will live.  
 
-2867 குடைந்து வண்டு உண்ணும் துழாய் முடியானை  
-அடைந்த தென் குருகூர்ச் சடகோபன்  
-மிடைந்த சொல் தொடை ஆயிரத்து இப் பத்து  
-உடைந்து நோய்களை ஓடுவிக்குமே (11)  
-2867. Saḍagopan of southern Thirukuruhur  
+२८६७ कुडैन्दु वण्डु उण्णुम् तुऴाय् मुडियानै  
+अडैन्द तॆन् गुरुगूर्च् चडगोबन्  
+मिडैन्द सॊल् तॊडै आयिरत्तु इप् पत्तु  
+उडैन्दु नोय्गळै ओडुविक्कुमे (११)  
+२८६७। Saḍagopan of southern Thirukuruhur  
 composed a thousand poems on the god  
 adorned with a thulasi garland  
 where bees swarm and drink honey.  
@@ -1005,119 +1006,119 @@ If devotees learn and recite these poems
 any sickness they have will go away.  
 ---------  
 
-திருவாய் மொழி - முதல் பத்து (எட்டாம் திருமொழி, 2868-2878)  
-ஈஸ்வரன் ஆர்ஜவ குணமுடையவன்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (ऎट्टाम् तिरुमॊऴि, २८६८-२८७८)  
+ईश्वरन् आर्जव कुणमुडैयवन्  
 
-2868 ஓடும் புள் ஏறி  
-சூடும் தண் துழாய்  
-நீடு நின்றவை  
-ஆடும் அம்மானே (1)  
-2868. He rides on an eagle.  
+२८६८ ओडुम् पुळ् एऱि  
+सूडुम् तण् तुऴाय्  
+नीडु निण्ड्रवै  
+आडुम् अम्माने (१)  
+२८६८। He rides on an eagle.  
 He is adorned with a beautiful thulasi garland.  
 He rules all things. He dances on the heads of Kalingan.  
 
-2869 அம்மானாய்ப் பின்னும்  
-எம் மாண்பும் ஆனான்  
-வெம் மா வாய் கீண்ட  
-செம் மா கண்ணனே (2)  
-2869. He is our father and he is everything on earth.  
+२८६९ अम्मानाय्प् पिन्नुम्  
+ऎम् माण्बुम् आनान्  
+वॆम् मा वाय् कीण्ड  
+सॆम् मा कण्णने (२)  
+२८६९। He is our father and he is everything on earth.  
 He is the wonderful god Kaṇṇan.  
 He split open the mouth of the Rakshasan Kesi  
 when he came in the form of a cruel bird.  
 
-2870 கண் ஆவான் என்றும்  
-மண்ணோர் விண்ணோர்க்கு  
-தண் ஆர் வேங்கட  
-விண்ணோர் வெற்பனே (3)  
-2870. He is the god of cool Thiruvenkaṭam  
+२८७० कण् आवान् ऎण्ड्रुम्  
+मण्णोर् विण्णोर्क्कु  
+तण् आर् वेङ्गड  
+विण्णोर् वॆऱ्‌पने (३)  
+२८७०। He is the god of cool Thiruvenkaṭam  
 where the hills touch the sky.  
 He is as precious as eyes to the people of the world  
 and the gods in the sky.  
 
-2871 வெற்பை ஒன்று எடுத்து  
-ஒற்கம் இன்றியே  
-நிற்கும் அம்மான் சீர்  
-கற்பன் வைகலே (4)  
-2871. Every day I will praise  
+२८७१ वॆऱ्‌पै ऒण्ड्रु ऎडुत्तु  
+ऒऱ्‌कम् इण्ड्रिये  
+निऱ्‌कुम् अम्मान् सीर्  
+कऱ्‌पन् वैगले (४)  
+२८७१। Every day I will praise  
 the greatness of the god, my father.  
 He carried Govardhana mountain  
 and did not grow tired.  
 
-2872 வைகலும் வெண்ணெய்  
-கைகலந்து உண்டான்  
-பொய் கலவாது என்  
-மெய் கலந்தானே (5)  
-2872. He stole butter every day  
+२८७२ वैगलुम् वॆण्णॆय्  
+कैगलन्दु उण्डान्  
+पॊय् कलवादु ऎन्  
+मॆय् कलन्दाने (५)  
+२८७२। He stole butter every day  
 and ate it with his hands.  
 That god entered my heart as he promised  
 and he did not lie.  
 
-2873 கலந்து என் ஆவி  
-நலம் கொள் நாதன்  
-புலன் கொள் மாணாய்  
-நிலம் கொண்டானே (6)  
-2873. The god who entered my heart and saved me  
+२८७३ कलन्दु ऎन् आवि  
+नलम् कॊळ् नादन्  
+पुलन् कॊळ् माणाय्  
+निलम् कॊण्डाने (६)  
+२८७३। The god who entered my heart and saved me  
 went to Mahabali as an attractive dwarf  
 and took over the earth and the sky.  
 
-2874 கொண்டான் ஏழ் விடை  
-உண்டான் ஏழ் வையம்  
-தண் தாமம் செய்து என்  
-எண் தான் ஆனானே (7)  
-2874. He defeated the seven bulls and killed them.  
+२८७४ कॊण्डान् एऴ् विडै  
+उण्डान् एऴ् वैयम्  
+तण् तामम् सॆय्दु ऎन्  
+ऎण् तान् आनाने (७)  
+२८७४। He defeated the seven bulls and killed them.  
 He swallowed the seven worlds.  
 He heard my request and granted my wish  
 and all my thoughts are only for him.  
 
-2875 ஆனான் ஆன் ஆயன்  
-மீனோடு ஏனமும்  
-தான் ஆனான் என்னில்  
-தான் ஆய சங்கே (8)  
-2875. He was raised as a cowherd,  
+२८७५ आनान् आन् आयन्  
+मीनोडु एनमुम्  
+तान् आनान् ऎन्निल्  
+तान् आय सङ्गे (८)  
+२८७५। He was raised as a cowherd,  
 he carries a conch,  
 he took the form of a fish and a boar—  
 all because he loves his devotees like me.  
 
-2876 சங்கு சக்கரம்  
-அங்கையில் கொண்டான்  
-எங்கும் தானாய  
-நங்கள் நாதனே (9)  
-2876. He carries a conch and discus  
+२८७६ सङ्गु सक्करम्  
+अङ्गैयिल् कॊण्डान्  
+ऎङ्गुम् तानाय  
+नङ्गळ् नादने (९)  
+२८७६। He carries a conch and discus  
 in his beautiful hands.  
 He is our lord and he is omnipresent.  
 
-2877 நாதன் ஞாலம் கொள்  
-பாதன் என் அம்மான்  
-ஓதம் போல் கிளர்  
-வேத நீரனே (10)  
-2877. He is the god of all.  
+२८७७ नादन् ञालम् कॊळ्  
+पादन् ऎन् अम्मान्  
+ओदम् पोल् किळर्  
+वेद नीरने (१०)  
+२८७७। He is the god of all.  
 He, my father, measured the world with his feet.  
 The Vedas that contain an ocean of divine sastras  
 describe his wonderful nature.  
 
-2878 நீர்புரை வண்ணன்  
-சீர் சடகோபன்  
-நேர்தல் ஆயிரத்து  
-ஓர்தல் இவையே (11)  
-2878. The famous Sadagopan  
+२८७८ नीर्बुरै वण्णन्  
+सीर् सडगोबन्  
+नेर्दल् आयिरत्तु  
+ओर्दल् इवैये (११)  
+२८७८। The famous Sadagopan  
 composed a thousand pasurams  
 praising the ocean-colored god.  
 If devotees learn and recite these ten poems  
 they will become matchless devotees.  
 ------------  
 
-திருவாய் மொழி - முதல் பத்து (ஒன்பதாம் திருமொழி, 2879-2889)  
-ஆழ்வாரோடு எம்பெருமான் கலந்த வகை  
+तिरुवाय् मॊऴि - मुदल् पत्तु (ऒन्बदाम् तिरुमॊऴि, २८७९-२८८९)  
+आऴ्वारोडु ऎम्बॆरुमान् कलन्द वगै  
 
-2879 இவையும் அவையும் உவையும்  
-       இவரும் அவரும் உவரும்  
-எவையும் எவரும் தன்னுளே  
-       ஆகியும் ஆக்கியும் காக்கும்  
-அவையுள் தனிமுதல் எம்மான்  
-       கண்ண பிரான் என் அமுதம்  
-சுவையன் திருவின் மணாளன்  
-       என்னுடைச் சூழல் உளானே (1)  
-2879. My dear father creates and protects  
+२८७९ इवैयुम् अवैयुम् उवैयुम्  
+       इवरुम् अवरुम् उवरुम्  
+ऎवैयुम् ऎवरुम् तन्नुळे  
+       आगियुम् आक्कियुम् काक्कुम्  
+अवैयुळ् तनिमुदल् ऎम्मान्  
+       कण्ण पिरान् ऎन् अमुदम्  
+सुवैयन् तिरुविन् मणाळन्  
+       ऎन्नुडैच् चूऴल् उळाने (१)  
+२८७९। My dear father creates and protects  
 these things, those things and all things in between.  
 He creates and protects these people, those people  
 and all in between and they are in him.  
@@ -1127,31 +1128,31 @@ He is Kaṇṇan. He is my nectar.
 He is sweet. He is the beloved of the goddess Lakshmi.  
 He is with me wherever I am.  
 
-2880 சூழல் பலபல வல்லான்  
-       தொல்லை அம் காலத்து உலகைக்  
-கேழல் ஒன்று ஆகி இடந்த  
-       கேசவன் என்னுடை அம்மான்  
-வேழ மருப்பை ஒசித்தான்  
-       விண்ணவர்க்கு எண்ணல் அரியான்  
-ஆழ நெடுங் கடல் சேர்ந்தான்  
-       அவன் என் அருகவிலானே (2)  
+२८८० सूऴल् पलबल वल्लान्  
+       तॊल्लै अम् कालत्तु उलगैक्  
+केऴल् ऒण्ड्रु आगि इडन्द  
+       केसवन् ऎन्नुडै अम्मान्  
+वेऴ मरुप्पै ऒचित्तान्  
+       विण्णवर्क्कु ऎण्णल् अरियान्  
+आऴ नॆडुङ् गडल् सेर्न्दान्  
+       अवन् ऎन् अरुगविलाने (२)  
 
-2880. Kesavan, the strong god, took many forms.  
+२८८०। Kesavan, the strong god, took many forms.  
 He took the form of a boar  
 and split open the earth in ancient times.  
 He, my dear god, broke the tusks of the elephant.  
 Even the gods do not know who he is.  
 He sleeps on the vast ocean but he is near me.  
 
-2881 அருகல் இலாய பெரும் சீர்  
-       அமரர்கள் ஆதி முதல்வன்  
-கருகிய நீல நன் மேனி  
-       வண்ணன் செந்தாமரைக் கண்ணன்  
-பொரு சிறைப் புள் உவந்து ஏறும்  
-       பூமகளார் தனிக் கேள்வன்  
-ஒருகதியின் சுவை தந்திட்டு  
-       ஒழிவு இலன் என்னோடு உடனே (3)  
-2881. Among all the gods he is the ancient one  
+२८८१ अरुगल् इलाय पॆरुम् सीर्  
+       अमरर्गळ् आदि मुदल्वन्  
+करुगिय नील नन् मेनि  
+       वण्णन् सॆन्दामरैक् कण्णन्  
+पॊरु सिऱैप् पुळ् उवन्दु एऱुम्  
+       पूमगळार् तनिक् केळ्वन्  
+ऒरुगदियिन् सुवै तन्दिट्टु  
+       ऒऴिवु इलन् ऎन्नोडु उडने (३)  
+२८८१। Among all the gods he is the ancient one  
 and he is the reason for all their good deeds.  
 He has a dark beautiful body.  
 He has lovely lotus eyes.  
@@ -1160,15 +1161,15 @@ He is the beloved of the goddess Lakshmi who stays on a lotus.
 He gives me himself CHECK  
 and stays with me without leaving me.  
 
-2882 உடன் அமர் காதல் மகளிர்  
-       திருமகள் மண்மகள் ஆயர்  
-மட மகள் என்று இவர் மூவர்  
-       ஆளும் உலகமும் மூன்றே  
-உடன் அவை ஒக்க விழுங்கி  
-       ஆல் இலைச் சேர்ந்தவன் எம்மான்  
-கடல் மலி மாயப் பெருமான்  
-       கண்ணன் என் ஒக்கலையானே (4)  
-2882. He stays with his three beloved wives  
+२८८२ उडन् अमर् कादल् मगळिर्  
+       तिरुमगळ् मण्मगळ् आयर्  
+मड मगळ् ऎण्ड्रु इवर् मूवर्  
+       आळुम् उलगमुम् मूण्ड्रे  
+उडन् अवै ऒक्क विऴुङ्गि  
+       आल् इलैच् चेर्न्दवन् ऎम्मान्  
+कडल् मलि मायप् पॆरुमान्  
+       कण्णन् ऎन् ऒक्कलैयाने (४)  
+२८८२। He stays with his three beloved wives  
 Lakshmi, the Earth goddess,  
 and the beautiful cowherd girl Nappinnai.  
 He swallowed all the three worlds that he rules  
@@ -1177,29 +1178,29 @@ The wonderful qualities of Maayaperuman
 are larger than the ocean.  
 He is always near me.  
 
-2883 ஒக்கலை வைத்து முலைப் பால்  
-       உண் என்று தந்திட வாங்கிச்  
-செக்கம் செக அன்று அவள்பால்  
-       உயிர் செக உண்ட பெருமான்  
-நக்க பிரானோடு அயனும்  
-       இந்திரனும் முதலாக  
-ஒக்கவும் தோற்றிய ஈசன்  
-       மாயன் என் நெஞ்சின் உளானே (5)  
-2883. When Putana came to kill him  
+२८८३ ऒक्कलै वैत्तु मुलैप् पाल्  
+       उण् ऎण्ड्रु तन्दिड वाङ्गिच्  
+चॆक्कम् सॆग अण्ड्रु अवळ्बाल्  
+       उयिर् सॆग उण्ड पॆरुमान्  
+नक्क पिरानोडु अयनुम्  
+       इन्दिरनुम् मुदलाग  
+ऒक्कवुम् तोट्रिय ईसन्  
+       मायन् ऎन् नॆञ्जिन् उळाने (५)  
+२८८३। When Putana came to kill him  
 he drank her poisonous milk and killed her.  
 He, our god, created Shiva, Brahma, Indra  
 and all other gods.  
 That Maayan is near me and he is in my heart.  
 
-2884 மாயன் என் நெஞ்சின் உள்ளான்  
-       மற்றும் எவர்க்கும் அதுவே  
-காயமும் சீவனும் தானே  
-       காலும் எரியும் அவனே  
-சேயன் அணியன் எவர்க்கும்  
-       சிந்தைக்கும் கோசரம் அல்லன்  
-தூயன் துயக்கன் மயக்கன்  
-       என்னுடைத் தோளிணையானே (6)  
-2884. That Maayan is not only in my heart,  
+२८८४ मायन् ऎन् नॆञ्जिन् उळ्ळान्  
+       मट्रुम् ऎवर्क्कुम् अदुवे  
+कायमुम् सीवनुम् ताने  
+       कालुम् ऎरियुम् अवने  
+सेयन् अणियन् ऎवर्क्कुम्  
+       सिन्दैक्कुम् कोसरम् अल्लन्  
+तूयन् तुयक्कन् मयक्कन्  
+       ऎन्नुडैत् तोळिणैयाने (६)  
+२८८४। That Maayan is not only in my heart,  
 he is in the hearts of all.  
 He is body and life.  
 He is wind and fire.  
@@ -1209,30 +1210,30 @@ He is pure. He is simple.
 He fascinates all.  
 I have his signs the conch and the discus on my two arms.  
 
-2885 தோள் இணை மேலும் நன் மார்பின்  
-       மேலும் சுடர் முடி மேலும்  
-தாள் இணை மேலும் புனைந்த  
-       தண் அம் துழாய் உடை அம்மான்  
-கேள் இணை ஒன்றும் இலாதான்  
-       கிளரும் சுடர் ஒளி மூர்த்தி  
-நாள் அணைந்து ஒன்றும் அகலான்  
-       என்னுடை நாவின் உளானே (7)  
-2885. He wears a cool thulasi garland  
+२८८५ तोळ् इणै मेलुम् नन् मार्बिन्  
+       मेलुम् सुडर् मुडि मेलुम्  
+ताळ् इणै मेलुम् पुनैन्द  
+       तण् अम् तुऴाय् उडै अम्मान्  
+केळ् इणै ऒण्ड्रुम् इलादान्  
+       किळरुम् सुडर् ऒळि मूर्त्ति  
+नाळ् अणैन्दु ऒण्ड्रुम् अगलान्  
+       ऎन्नुडै नाविन् उळाने (७)  
+२८८५। He wears a cool thulasi garland  
 on his arms, chest, his shining crown and his feet.  
 He is matchless.  
 He shines like a bright light.  
 He embraces me and he will not leave me.  
 He is on my tongue.  
 
-2886 நாவினுள் நின்று மலரும்  
-       ஞானக் கலைகளுக்கு எல்லாம்  
-ஆவியும் ஆக்கையும் தானே  
-       அழிப்போடு அளிப்பவன் தானே  
-பூ இயல் நால் தடம் தோளன்  
-       பொரு படை ஆழி சங்கு ஏந்தும்  
-காவி நன் மேனிக் கமலக்  
-       கண்ணன் என் கண்ணின் உளானே (8)  
-2886. He stays on my tongue  
+२८८६ नाविनुळ् निण्ड्रु मलरुम्  
+       ज्ञानक् कलैगळुक्कु ऎल्लाम्  
+आवियुम् आक्कैयुम् ताने  
+       अऴिप्पोडु अळिप्पवन् ताने  
+पू इयल् नाल् तडम् तोळन्  
+       पॊरु पडै आऴि सङ्गु एन्दुम्  
+कावि नन् मेनिक् कमलक्  
+       कण्णन् ऎन् कण्णिन् उळाने (८)  
+२८८६। He stays on my tongue  
 He is the soul and body of all wisdom and the arts.  
 He creates all and destroys all.  
 He has four beautiful strong arms.  
@@ -1240,15 +1241,15 @@ He carries a discus and a conch that he blows on the battlefield.
 His body has a beautiful dark color like a kaavi flower.  
 The lotus-eyed god stays in my eyes.  
 
-2887 கமலக் கண்ணன் என் கண்ணின் உள்ளான்  
-       காண்பன் அவன் கண்களாலே  
-அமலங்கள் ஆக விழிக்கும்  
-       ஐம்புலனும் அவன் மூர்த்தி  
-கமலத்து அயன் நம்பி தன்னைக்  
-       கண்ணுதலானொடும் தோற்றி  
-அமலத் தெய்வத்தொடு உலகம்  
-       ஆக்கி என் நெற்றி உளானே (9)  
-2887. The lotus-eyed god stays in my eyes  
+२८८७ कमलक् कण्णन् ऎन् कण्णिन् उळ्ळान्  
+       काण्बन् अवन् कण्गळाले  
+अमलङ्गळ् आग विऴिक्कुम्  
+       ऐम्बुलनुम् अवन् मूर्त्ति  
+कमलत्तु अयन् नम्बि तन्नैक्  
+       कण्णुदलानॊडुम् तोट्रि  
+अमलत् तॆय्वत्तॊडु उलगम्  
+       आक्कि ऎन् नॆट्रि उळाने (९)  
+२८८७। The lotus-eyed god stays in my eyes  
 and I see everything through his eyes.  
 He controls the five senses that trouble me.  
 He created Shiva with an eye in his forehead,  
@@ -1257,29 +1258,29 @@ and all the other faultless gods and the world.
 That god stays on my forehead.  
 
 
-2888 நெற்றியுள் நின்று என்னை ஆளும்  
-       நிரை மலர்ப் பாதங்கள் சூடிக்  
-கற்றைத் துழாய் முடிக் கோலக்  
-       கண்ண பிரானைத் தொழுவார்  
-ஒற்றைப் பிறை அணிந்தானும்  
-       நான்முகனும் இந்திரனும்  
-மற்றை அமரரும் எல்லாம்  
-       வந்து எனது உச்சியுளானே (10)  
-2888. He is adorned with a thulasi garland.  
+२८८८ नॆट्रियुळ् निण्ड्रु ऎन्नै आळुम्  
+       निरै मलर्प् पादङ्गळ् सूडिक्  
+कट्रैत् तुऴाय् मुडिक् कोलक्  
+       कण्ण पिरानैत् तॊऴुवार्  
+ऒट्रैप् पिऱै अणिन्दानुम्  
+       नान्मुगनुम् इन्दिरनुम्  
+मट्रै अमररुम् ऎल्लाम्  
+       वन्दु ऎनदु उच्चियुळाने (१०)  
+२८८८। He is adorned with a thulasi garland.  
 He stays on the top of my forehead and rules me.  
 Shiva who has the crescent moon on his jata,  
 Nanmuhan, Indra and all the other gods  
 come and worship the lotus feet of Kaṇṇan and bow to his feet.  
 
-2889 உச்சியுள்ளே நிற்கும் தேவ  
-       தேவற்குக் கண்ண பிரானுக்கு  
-இச்சையுள் செல்ல உணர்த்தி  
-       வண் குருகூர்ச் சடகோபன்  
-இச் சொன்ன ஆயிரத்துள்ளே  
-       இவையும் ஓர் பத்து எம்பிராற்கு  
-நிச்சலும் விண்ணப்பம் செய்ய  
-       நீள் கழல் சென்னி பொருமே (11)  
-2889. Saḍagopan of flourishing Thirukuruhur  
+२८८९ उच्चियुळ्ळे निऱ्‌कुम् तेव  
+       तेवऱ्‌कुक् कण्ण पिरानुक्कु  
+इच्चैयुळ् सॆल्ल उणर्त्ति  
+       वण् गुरुगूर्च् चडगोबन्  
+इच् चॊन्न आयिरत्तुळ्ळे  
+       इवैयुम् ओर् पत्तु ऎम्बिराऱ्‌कु  
+निच्चलुम् विण्णप्पम् सॆय्य  
+       नीळ् कऴल् सॆन्नि पॊरुमे (११)  
+२८८९। Saḍagopan of flourishing Thirukuruhur  
 composed a thousand pasurams  
 on the god of gods Kaṇṇan who stays in his mind  
 to show how much the poet loves him.  
@@ -1288,53 +1289,53 @@ the god will keep them under his divine feet
 adorned with anklets.  
 ------------------  
 
-திருவாய் மொழி - முதல் பத்து (பத்தாம் திருமொழி, 2890-2900)  
-ஈஸ்வரன் காரணமின்றிச் செய்யும் உபகாரம்  
+तिरुवाय् मॊऴि - मुदल् पत्तु (पत्ताम् तिरुमॊऴि, २८९०-२९००)  
+ईश्वरन् कारणमिण्ड्रिच् चॆय्युम् उपकारम्  
 
-2890 பொரு மா நீள் படை ஆழி சங்கத்தொடு  
-திரு மா நீள் கழல் ஏழ் உலகும் தொழ  
-ஒரு மாணிக் குறள் ஆகி நிமிர்ந்த அக்  
-கரு மாணிக்கம் என் கண்ணுளது ஆகுமே (1)  
-2890. He took the form of a dwarf,  
+२८९० पॊरु मा नीळ् पडै आऴि सङ्गत्तॊडु  
+तिरु मा नीळ् कऴल् एऴ् उलगुम् तॊऴ  
+ऒरु माणिक् कुऱळ् आगि निमिर्न्द अक्  
+करु माणिक्कम् ऎन् कण्णुळदु आगुमे (१)  
+२८९०। He took the form of a dwarf,  
 went to Mahabali and grew up to the sky,  
 carrying a conch and a discus in his hands  
 as all the seven worlds worshiped his divine feet.  
 That dark jewel-like god stays in my eyes.  
 
-2891 கண்ணுள்ளே நிற்கும் காதன்மையால் தொழில்  
-எண்ணிலும் வரும் என் இனி வேண்டுவம்  
-மண்ணும் நீரும் எரியும் நல் வாயுவும்  
-விண்ணும் ஆய் விரியும் எம் பிரானையே? (2)  
-2891. Our father is earth, water, fire, the good wind and the sky.  
+२८९१ कण्णुळ्ळे निऱ्‌कुम् कादन्मैयाल् तॊऴिल्  
+ऎण्णिलुम् वरुम् ऎन् इनि वेण्डुवम्  
+मण्णुम् नीरुम् ऎरियुम् नल् वायुवुम्  
+विण्णुम् आय् विरियुम् ऎम् पिरानैये? (२)  
+२८९१। Our father is earth, water, fire, the good wind and the sky.  
 He stays in my eyes.  
 He will come to me if I think of him  
 and call him with love.  
 What do I need more than seeing him?  
 
-2892 எம்பிரானை எந்தை தந்தை தந்தைக்கும்  
-தம்பிரானை தண் தாமரைக் கண்ணனை  
-கொம்பு அராவு நுண் நேர் இடை மார்பனை  
-எம்பிரானைத் தொழாய் மட நெஞ்சமே (3)  
-2892. Lakshmi the goddess has a waist that is as thin as a vine  
+२८९२ ऎम्बिरानै ऎन्दै तन्दै तन्दैक्कुम्  
+तम्बिरानै तण् तामरैक् कण्णनै  
+कॊम्बु अरावु नुण् नेर् इडै मार्बनै  
+ऎम्बिरानैत् तॊऴाय् मड नॆञ्जमे (३)  
+२८९२। Lakshmi the goddess has a waist that is as thin as a vine  
 and she stays on his chest.  
 His eyes are as beautiful as lotuses.  
 He is the god of me, my father, my grandfather and his father.  
 O ignorant mind! Worship him.  
 
-2893 நெஞ்சமே நல்லை நல்லை உன்னைப் பெற்றால்  
-என் செய்யோம்? இனி என்ன குறைவினம்?  
-மைந்தனை மலராள் மணவாளனைத்  
-துஞ்சும்போதும் விடாது தொடர்கண்டாய் (4)  
-2893. O heart, you are good, you are good.  
+२८९३ नॆञ्जमे नल्लै नल्लै उन्नैप् पॆट्राल्  
+ऎन् सॆय्योम्? इनि ऎन्न कुऱैविनम्?  
+मैन्दनै मलराळ् मणवाळनैत्  
+तुञ्जुम्बोदुम् विडादु तॊडर्गण्डाय् (४)  
+२८९३। O heart, you are good, you are good.  
 What can we not achieve if we receive him in our heart?  
 He is our lord, the beloved of Lakshmi who stays on a lotus.  
 See, even in sleep you think unceasingly of him, the young god.  
 
-2894 கண்டாயே நெஞ்சே கருமங்கள் வாய்க்கின்று ஓர்  
-எண் தானும் இன்றியே வந்து இயலுமாறு  
-உண்டானை உலகு ஏழும் ஓர் மூவடி  
-கொண்டானைக் கண்டுகொண்டனை நீயுமே (5)  
-2894. O heart,  
+२८९४ कण्डाये नॆञ्जे करुमङ्गळ् वाय्क्किण्ड्रु ओर्  
+ऎण् तानुम् इण्ड्रिये वन्दु इयलुमाऱु  
+उण्डानै उलगु एऴुम् ओर् मूवडि  
+कॊण्डानैक् कण्डुगॊण्डनै नीयुमे (५)  
+२८९४। O heart,  
 our god swallowed all the worlds  
 and measured the earth and the sky in two steps.  
 He took the form of a boar and split open the earth.  
@@ -1342,154 +1343,154 @@ You have found him.
 You will get whatever you want  
 without even having to think about it.  
 
-2895 நீயும் நானும் இந் நேர்நிற்கில் மேல் மற்றோர்  
-நோயும் சார்கொடான் நெஞ்சமே சொன்னேன்  
-தாயும் தந்தையும் ஆய் இவ் உலகினில்  
-வாயும் ஈசன் மணிவண்ணன் எந்தையே (6)  
-2895. O heart, the sapphire-colored god  
+२८९५ नीयुम् नानुम् इन् नेर्निऱ्‌किल् मेल् मट्रोर्  
+नोयुम् सार्गॊडान् नॆञ्जमे सॊन्नेन्  
+तायुम् तन्दैयुम् आय् इव् उलगिनिल्  
+वायुम् ईसन् मणिवण्णन् ऎन्दैये (६)  
+२८९५। O heart, the sapphire-colored god  
 is the father and mother of this world—that I tell you.  
 O heart, if you and I agree and worship the god  
 he will save us from all sickness.  
 
-2896 எந்தையே என்றும் எம் பெருமான் என்றும்  
-சிந்தையுள் வைப்பன் சொல்லுவன் பாவியேன்  
-எந்தை எம் பெருமான் என்று வானவர்  
-சிந்தையுள் வைத்துச் சொல்லும் செல்வனையே (7)  
-2896. The gods in the sky keep you, the precious one,  
+२८९६ ऎन्दैये ऎण्ड्रुम् ऎम् पॆरुमान् ऎण्ड्रुम्  
+सिन्दैयुळ् वैप्पन् सॊल्लुवन् पावियेन्  
+ऎन्दै ऎम् पॆरुमान् ऎण्ड्रु वानवर्  
+सिन्दैयुळ् वैत्तुच् चॊल्लुम् सॆल्वनैये (७)  
+२८९६। The gods in the sky keep you, the precious one,  
 in their minds and praise you saying,  
 "You are our father, you are our dear god."  
 I am a worthless person but I praise you, saying,  
 "O my father, you are my dear god.  
 I will keep you in my heart."  
 
-2897 செல்வ நாரணன் என்ற சொல் கேட்டலும்  
-மல்கும் கண் பனி நாடுவன் மாயமே  
-அல்லும் நன் பகலும் இடைவீடு இன்றி  
-நல்கி என்னை விடான் நம்பி நம்பியே (8)  
-2897. As soon as I hear the words, "Precious Naraṇan,"  
+२८९७ सॆल्व नारणन् ऎण्ड्र सॊल् केट्टलुम्  
+मल्गुम् कण् पनि नाडुवन् मायमे  
+अल्लुम् नन् पगलुम् इडैवीडु इण्ड्रि  
+नल्गि ऎन्नै विडान् नम्बि नम्बिये (८)  
+२८९७। As soon as I hear the words, "Precious Naraṇan,"  
 my eyes fill with tears.  
 I search for him. Is he an illusion?  
 Nambi trusts me and loves me  
 and he will not leave me night or day.  
 He is always with me.  
 
-2898 நம்பியை தென் குறுங்குடி நின்ற அச்  
-செம்பொனே திகழும் திரு மூர்த்தியை  
-உம்பர் வானவர் ஆதி அம் சோதியை  
-எம் பிரானை என் சொல்லி மறப்பனோ? (9)  
-2898. Nambi, the divine god of southern Thirukurunguḍi,  
+२८९८ नम्बियै तॆन् कुऱुङ्गुडि निण्ड्र अच्  
+चॆम्बॊने तिगऴुम् तिरु मूर्त्तियै  
+उम्बर् वानवर् आदि अम् सोदियै  
+ऎम् पिरानै ऎन् सॊल्लि मऱप्पनो? (९)  
+२८९८। Nambi, the divine god of southern Thirukurunguḍi,  
 shines like pure gold.  
 He is the ancient god  
 and a bright light for the gods in the sky.  
 How could I describe my dear god or forget him?  
 
-2899 மறப்பும் ஞானமும் நான் ஒன்று உணர்ந்திலன்  
-மறக்கும் என்று செந்தாமரைக் கண்ணொடு  
-மறப்பு அற என் உள்ளே மன்னினான் தன்னை  
-மறப்பனோ இனி யான் என் மணியையே? (10)  
-2899. I know nothing of forgetting or remembering.  
+२८९९ मऱप्पुम् ज्ञानमुम् नान् ऒण्ड्रु उणर्न्दिलन्  
+मऱक्कुम् ऎण्ड्रु सॆन्दामरैक् कण्णॊडु  
+मऱप्पु अऱ ऎन् उळ्ळे मन्निनान् तन्नै  
+मऱप्पनो इनि यान् ऎन् मणियैये? (१०)  
+२८९९। I know nothing of forgetting or remembering.  
 The lovely lotus-eyed god does not want me to forget him.  
 He has entered my heart and stays there.  
 He shines like a diamond—  
 how could I ever forget him?  
 
-2900 மணியை வானவர் கண்ணனை தன்னது ஓர்  
-அணியை தென் குருகூர்ச் சடகோபன் சொல்  
-பணிசெய் ஆயிரத்துள் இவை பத்துடன்  
-தணிவிலர் கற்பரேல் கல்வி வாயுமே (11)  
-2900. Saḍagopan of southern Thirukuruhur  
+२९०० मणियै वानवर् कण्णनै तन्नदु ओर्  
+अणियै तॆन् गुरुगूर्च् चडगोबन् सॊल्  
+पणिसॆय् आयिरत्तुळ् इवै पत्तुडन्  
+तणिविलर् कऱ्‌परेल् कल्वि वायुमे (११)  
+२९००। Saḍagopan of southern Thirukuruhur  
 composed a thousand pasurams on the god  
 who is precious as a jewel,  
 the dear Kaṇṇan, god of the gods in the sky.  
 If devotees learn and recite these ten pasurams  
 they will become good scholars.  
 --------------  
-நம்மாழ்வார் திருவாய் மொழி -இரண்டாம் பத்து (2901-3012)  
-Divyaprabhandam - Thiruvaymozhi : Iraṇḍaam Pathu 2901 - 3012  
-திருவாய் மொழி - இரண்டாம் பத்து ( முதல் திருமொழி, 2901-2911)  
-பிரிவாற்றாமைக்கு வருந்தல்  
+नम्माऴ्वार् तिरुवाय् मॊऴि -इरण्डाम् पत्तु (२९०१-३०१२)  
+Divyaprabhandam - Thiruvaymozhi : Iraṇḍaam Pathu २९०१ - ३०१२  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु ( मुदल् तिरुमॊऴि, २९०१-२९११)  
+पिरिवाट्रामैक्कु वरुन्दल्  
 
-2901 வாயும் திரை உகளும் கானல் மட நாராய்  
-ஆயும் அமர் உலகும் துஞ்சிலும் நீ துஞ்சாயால்  
-நோயும் பயலைமையும் மீது ஊர எம்மேபோல்  
-நீயும் திருமாலால் நெஞ்சம் கோள் பட்டாயே? (1)  
-2901. "O beautiful naarai bird! you live on the sea-shore  
+२९०१ वायुम् तिरै उगळुम् कानल् मड नाराय्  
+आयुम् अमर् उलगुम् तुञ्जिलुम् नी तुञ्जायाल्  
+नोयुम् पयलैमैयुम् मीदु ऊर ऎम्मेबोल्  
+नीयुम् तिरुमालाल् नॆञ्जम् कोळ् पट्टाये? (१)  
+२९०१। "O beautiful naarai bird! you live on the sea-shore  
 where abundant waves dash on the banks of the ocean.  
 Even if my mother and all the gods in the sky sleep you do not sleep.  
 Does your heart suffer like me with love sickness  
 and your body become pale?  
 Does Thirumaal give this suffering to you as he does to me?  
 
-2902 கோள் பட்ட சிந்தையையாய்க் கூர்வாய அன்றிலே  
-சேண் பட்ட யாமங்கள் சேராது இரங்குதியால்  
-ஆள் பட்ட எம்மேபோல் நீயும் அரவு அணையான்  
-தாள் பட்ட தண் துழாய்த் தாமம் காமுற்றாயே? (2)  
-2902. O sharp-beaked andril bird,  
+२९०२ कोळ् पट्ट सिन्दैयैयाय्क् कूर्वाय अण्ड्रिले  
+सेण् पट्ट यामङ्गळ् सेरादु इरङ्गुदियाल्  
+आळ् पट्ट ऎम्मेबोल् नीयुम् अरवु अणैयान्  
+ताळ् पट्ट तण् तुऴाय्त् तामम् कामुट्राये? (२)  
+२९०२। O sharp-beaked andril bird,  
 do you plunge into deep thought like me?  
 Do you not sleep many nights just like me?  
 Did you fall in love with the one who sleeps on the snake bed?  
 Do you also love the long cool thulasi garland  
 that decorates his chest and that touches his feet.  
 
-2903 காமுற்ற கையறவோடு எல்லே இராப்பகல்  
-நீ முற்றக் கண்துயிலாய் நெஞ்சு உருகி ஏங்குதியால்  
-தீ முற்றத் தென் இலங்கை ஊட்டினான் தாள் நயந்த  
-யாம் உற்றது உற்றாயோ? வாழி கனை கடலே (3)  
-2903. O roaring ocean,  
+२९०३ कामुट्र कैयऱवोडु ऎल्ले इराप्पगल्  
+नी मुट्रक् कण्दुयिलाय् नॆञ्जु उरुगि एङ्गुदियाल्  
+ती मुट्रत् तॆन् इलङ्गै ऊट्टिनान् ताळ् नयन्द  
+याम् उट्रदु उट्रायो? वाऴि कनै कडले (३)  
+२९०३। O roaring ocean,  
 you do not sleep all night and day,  
 melting in your heart and pining with love for him.  
 Do you have the pain that I have  
 because I long to worship the feet of him  
 who burnt Lanka in the south?  
 
-2904 கடலும் மலையும் விசும்பும் துழாய் எம்போல்  
-சுடர் கொள் இராப்பகல் துஞ்சாயால் தண் வாடாய்  
-அடல் கொள் படை ஆழி அம்மானைக் காண்பான் நீ  
-உடலம் நோய் உற்றாயோ ஊழிதோறு ஊழியே? (4)  
-2904. O cool wind, you blow,  
+२९०४ कडलुम् मलैयुम् विसुम्बुम् तुऴाय् ऎम्बोल्  
+सुडर् कॊळ् इराप्पगल् तुञ्जायाल् तण् वाडाय्  
+अडल् कॊळ् पडै आऴि अम्मानैक् काण्बान् नी  
+उडलम् नोय् उट्रायो ऊऴिदोऱु ऊऴिये? (४)  
+२९०४। O cool wind, you blow,  
 touching the ocean, mountain and the sky  
 and like me you never sleep during the bright day or night.  
 Are you sick because you want to see him  
 who carries the discus that conquers his enemies?  
 Are you doing this eon after eon?  
 
-2905 ஊழிதோறு ஊழி உலகுக்கு நீர்கொண்டு  
-தோழியரும் யாமும் போல் நீராய் நெகிழ்கின்ற  
-வாழிய வானமே நீயும் மதுசூதன்  
-பாழிமையில் பட்டு அவன்கண் பாசத்தால் நைவாயே? (5)  
-2905. O clouds, may you prosper!  
+२९०५ ऊऴिदोऱु ऊऴि उलगुक्कु नीर्गॊण्डु  
+तोऴियरुम् यामुम् पोल् नीराय् नॆगिऴ्गिण्ड्र  
+वाऴिय वानमे नीयुम् मदुसूदन्  
+पाऴिमैयिल् पट्टु अवन्गण् पासत्ताल् नैवाये? (५)  
+२९०५। O clouds, may you prosper!  
 You take the water from the ocean, rise up,  
 become cold and pour rain.  
 Will you do this until the end of the world?  
 Do you suffer like me who fell in love with Madhusudan?  
 
-2906 நைவாய எம்மேபோல் நாள் மதியே நீ இந் நாள்  
-மை வான் இருள் அகற்றாய் மாழாந்து தேம்புதியால்  
-ஐ வாய் அரவு அணைமேல் ஆழிப் பெருமானார்  
-மெய் வாசகம் கேட்டு உன் மெய்ந்நீர்மை தோற்றாயே? (6)  
-2906. O beautiful moon!  
+२९०६ नैवाय ऎम्मेबोल् नाळ् मदिये नी इन् नाळ्  
+मै वान् इरुळ् अगट्राय् माऴान्दु तेम्बुदियाल्  
+ऐ वाय् अरवु अणैमेल् आऴिप् पॆरुमानार्  
+मॆय् वाचकम् केट्टु उन् मॆय्न्नीर्मै तोट्राये? (६)  
+२९०६। O beautiful moon!  
 He carries a discus and sleeps on five-headed Adishesha.  
 Today, you do not remove the deep darkness.  
 You aren’t bright and don’t give light.  
 Do you suffer, your brightness lost, like me  
 because you trusted the false words of the lord?  
 
-2907 தோற்றோம் மட நெஞ்சம் எம் பெருமான் நாரணற்கு எம்  
-ஆற்றாமை சொல்லி அழுவோமை நீ நடுவே  
-வேற்றோர் வகையில் கொடிதாய் எனை ஊழி  
-மாற்றாண்மை நிற்றியோ? வாழி கனை இருளே (7)  
-2907. We have lost our hearts in love for our god Naraṇan.  
+२९०७ तोट्रोम् मड नॆञ्जम् ऎम् पॆरुमान् नारणऱ्‌कु ऎम्  
+आट्रामै सॊल्लि अऴुवोमै नी नडुवे  
+वेट्रोर् वगैयिल् कॊडिदाय् ऎनै ऊऴि  
+माट्राण्मै निट्रियो? वाऴि कनै इरुळे (७)  
+२९०७। We have lost our hearts in love for our god Naraṇan.  
 We worry because we are weak and cry.  
 O deep darkness! May you prosper.  
 You make us suffer by making the world dark.  
 Are you going to do this until the end of the world?  
 Won't you change and be good to us?  
 
-2908 இருளின் திணி வண்ணம் மா நீர்க் கழியே போய்  
-மருளுற்று இராப்பகல் துஞ்சிலும் நீ துஞ்சாயால்  
-உருளும் சகடம் உதைத்த பெருமானார்  
-அருளின் பெரு நசையால் ஆழாந்து நொந்தாயே? (8)  
-2908. O salt backwater!  
+२९०८ इरुळिन् तिणि वण्णम् मा नीर्क् कऴिये पोय्  
+मरुळुट्रु इराप्पगल् तुञ्जिलुम् नी तुञ्जायाल्  
+उरुळुम् सगडम् उदैत्त पॆरुमानार्  
+अरुळिन् पॆरु नसैयाल् आऴान्दु नॊन्दाये? (८)  
+२९०८। O salt backwater!  
 You are dark like the deep darkness.  
 Even when everyone sleeps at night, you do not sleep.  
 He kicked Sakatasuran when he came in the form of a cart.  
@@ -1497,11 +1498,11 @@ Do you suffer like me
 because you hope that the heroic one  
 will give his grace to you?  
 
-2909 நொந்து ஆராக் காதல் நோய் மெல் ஆவி உள் உலர்த்த  
-நந்தா விளக்கமே நீயும் அளியத்தாய்  
-செந்தாமரைத் தடங்கண் செங்கனி வாய் எம் பெருமான்  
-அம் தாமம் தண் துழாய் ஆசையால் வேவாயே? (9)  
-2909. O light that does not diminish,  
+२९०९ नॊन्दु आराक् कादल् नोय् मॆल् आवि उळ् उलर्त्त  
+नन्दा विळक्कमे नीयुम् अळियत्ताय्  
+सॆन्दामरैत् तडङ्गण् सॆङ्गनि वाय् ऎम् पॆरुमान्  
+अम् तामम् तण् तुऴाय् आसैयाल् वेवाये? (९)  
+२९०९। O light that does not diminish,  
 do you suffer because love sickness afflicts you  
 and hurts your soft soul?  
 You are pitiful!  
@@ -1511,11 +1512,11 @@ decorated with cool thulasi garlands?
 His red mouth is as sweet as a fruit  
 and his large lotus eyes are beautiful.  
 
-2910 வேவு ஆரா வேட்கை நோய் மெல் ஆவி உள் உலர்த்த  
-ஓவாது இராப்பகல் உன்பாலே வீழ்த்து ஒழிந்தாய்  
-மா வாய் பிளந்து மருதிடை போய் மண் அளந்த  
-மூவா முதல்வா இனி எம்மைச் சோரேலே (10)  
-2910. You are an everlasting ancient god,  
+२९१० वेवु आरा वेट्कै नोय् मॆल् आवि उळ् उलर्त्त  
+ओवादु इराप्पगल् उन्बाले वीऴ्त्तु ऒऴिन्दाय्  
+मा वाय् पिळन्दु मरुदिडै पोय् मण् अळन्द  
+मूवा मुदल्वा इनि ऎम्मैच् चोरेले (१०)  
+२९१०। You are an everlasting ancient god,  
 you split open the mouth of the Asuran  
 who came in the form of a horse,  
 destroyed the Asurans who came as Marudam trees  
@@ -1525,11 +1526,11 @@ I suffer night and day unceasingly
 and my body and my life are withering away.  
 Do not make me suffer any more from my love.  
 
-2911 சோராத எப் பொருட்கும் ஆதியாம் சோதிக்கே  
-ஆராத காதல் குருகூர்ச் சடகோபன்  
-ஓராயிரம் சொன்ன அவற்றுள் இவை பத்தும்  
-சோரார் விடார் கண்டீர் வைகுந்தம் திண்ணனவே (11)  
-2911. Sadagopan of Thirukuruhur  
+२९११ सोराद ऎप् पॊरुट्कुम् आदियाम् सोदिक्के  
+आराद कादल् गुरुगूर्च् चडगोबन्  
+ओरायिरम् सॊन्न अवट्रुळ् इवै पत्तुम्  
+सोरार् विडार् कण्डीर् वैगुन्दम् तिण्णनवे (११)  
+२९११। Sadagopan of Thirukuruhur  
 has unlimited love for the ancient god.  
 He composed a thousand pasurams on the god,  
 the bright light and origin of all things.  
@@ -1537,104 +1538,104 @@ If devotees learn these ten pasurams and do not forget them
 they will surely reach the heaven of Vaikuṇṭam.  
 ----------  
 
-திருவாய் மொழி - இரண்டாம் பத்து (இரண்டாம் திருமொழி, 2912-2922)  
-திருமால் பரத்துவத்தை அவதாரத்திலே எடுத்துக்காட்டல்  
-2912 திண்ணன் வீடு முதல் முழுதும் ஆய்  
-எண்ணின் மீதியன் எம் பெருமான்  
-மண்ணும் விண்ணும் எல்லாம் உடன் உண்ட நம்  
-கண்ணன் கண் அல்லது இல்லை ஓர் கண்ணே (1)  
-2912. He is moksha. He is the ancient god.  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु (इरण्डाम् तिरुमॊऴि, २९१२-२९२२)  
+तिरुमाल् परत्तुवत्तै अवतारत्तिले ऎडुत्तुक्काट्टल्  
+२९१२ तिण्णन् वीडु मुदल् मुऴुदुम् आय्  
+ऎण्णिन् मीदियन् ऎम् पॆरुमान्  
+मण्णुम् विण्णुम् ऎल्लाम् उडन् उण्ड नम्  
+कण्णन् कण् अल्लदु इल्लै ओर् कण्णे (१)  
+२९१२। He is moksha. He is the ancient god.  
 His good qualities are limitless.  
 The highest god swallowed earth and the sky.  
 He is the protector of the world.  
 We have no other eyes but his to see.  
 
-2913 ஏ பாவம் பரமே ஏழ் உலகும்  
-ஈ பாவம் செய்து அருளால் அளிப்பார் ஆர்  
-மா பாவம் விட அரற்குப் பிச்சை பெய்  
-கோபால கோளரிஏறு அன்றியே? (2)  
-2913. He is the highest.  
+२९१३ ए पावम् परमे एऴ् उलगुम्  
+ई पावम् सॆय्दु अरुळाल् अळिप्पार् आर्  
+मा पावम् विड अरऱ्‌कुप् पिच्चै पॆय्  
+कोबाल कोळरिएऱु अण्ड्रिये? (२)  
+२९१३। He is the highest.  
 Gopalan took the form of a man-lion.  
 He gave alms to Shiva to remove his curse.  
 If he does not help us, who will give his grace  
 to save the people of the world and the gods  
 from their sins?  
 
-2914 ஏறனை பூவனை பூமகள் தன்னை  
-வேறுஇன்றி விண் தொழத் தன்னுள் வைத்து  
-மேல் தன்னை மீதிட நிமிர்ந்து மண் கொண்ட  
-மால் தனின் மிக்கும் ஓர் தேவும் உளதே? (3)  
-2914. Shiva rides on a bull,  
+२९१४ एऱनै पूवनै पूमगळ् तन्नै  
+वेऱुइण्ड्रि विण् तॊऴत् तन्नुळ् वैत्तु  
+मेल् तन्नै मीदिड निमिर्न्दु मण् कॊण्ड  
+माल् तनिन् मिक्कुम् ओर् तेवुम् उळदे? (३)  
+२९१४। Shiva rides on a bull,  
 Brahma was born on a lotus  
 and Lakshmi stays on a lotus  
 and the divine god keeps them all on his body.  
 He grew to the sky and measured the world.  
 Is there any higher god than he?  
 
-2915 தேவும் எப் பொருளும் படைக்கப்  
-பூவில் நான்முகனைப் படைத்த  
-தேவன் எம் பெருமானுக்கு அல்லால்  
-பூவும் பூசனையும் தகுமே? (4)  
-2915. He created Brahma to create all the gods  
+२९१५ तेवुम् ऎप् पॊरुळुम् पडैक्कप्  
+पूविल् नान्मुगनैप् पडैत्त  
+तेवन् ऎम् पॆरुमानुक्कु अल्लाल्  
+पूवुम् पूसनैयुम् तगुमे? (४)  
+२९१५। He created Brahma to create all the gods  
 and all the creatures in the world.  
 Should anyone adorn other gods with flowers  
 and worship them?  
 Is that something that is right to do?  
 
-2916 தகும் சீர்த் தன் தனி முதலினுள்ளே  
-மிகும் தேவும் எப் பொருளும் படைக்கத்  
-தகும் கோலத் தாமரைக் கண்ணன் எம்மான்  
-மிகும் சோதி மேல் அறிவார் எவரே? (5)  
-2916. He is the unique famous god and the ancient one.  
+२९१६ तगुम् सीर्त् तन् तनि मुदलिनुळ्ळे  
+मिगुम् तेवुम् ऎप् पॊरुळुम् पडैक्कत्  
+तगुम् कोलत् तामरैक् कण्णन् ऎम्मान्  
+मिगुम् सोदि मेल् अऱिवार् ऎवरे? (५)  
+२९१६। He is the unique famous god and the ancient one.  
 His eyes are beautiful like lotuses and his form is majestic.  
 He shines like a bright light.  
 Does anyone know any other  
 who is higher than our dear god?  
 
-2917 எவரும் யாவையும் எல்லாப் பொருளும்  
-கவர்வு இன்றித் தன்னுள் ஒடுங்க நின்ற  
-பவர் கொள் ஞான வெள்ளச் சுடர் மூர்த்தி  
-அவர் எம் ஆழி அம் பள்ளியாரே (6)  
-2917. He swallowed all people and all things  
+२९१७ ऎवरुम् यावैयुम् ऎल्लाप् पॊरुळुम्  
+कवर्वु इण्ड्रित् तन्नुळ् ऒडुङ्ग निण्ड्र  
+पवर् कॊळ् ज्ञान वॆळ्ळच् चुडर् मूर्त्ति  
+अवर् ऎम् आऴि अम् पळ्ळियारे (६)  
+२९१७। He swallowed all people and all things  
 and keeps them in his stomach.  
 He is the shining flood of knowledge  
 and his rule spreads over all the world.  
 He carries a discus and sleeps beautifully on the ocean.  
 
-2918 பள்ளி ஆல் இலை ஏழ் உலகும் கொள்ளும்  
-வள்ளல் வல் வயிற்றுப் பெருமான்  
-உள் உள் ஆர் அறிவார் அவன் தன்  
-கள்ள மாய மனக்கருத்தே? (7)  
-2918. He is generous and the almighty.  
+२९१८ पळ्ळि आल् इलै एऴ् उलगुम् कॊळ्ळुम्  
+वळ्ळल् वल् वयिट्रुप् पॆरुमान्  
+उळ् उळ् आर् अऱिवार् अवन् तन्  
+कळ्ळ माय मनक्करुत्ते? (७)  
+२९१८। He is generous and the almighty.  
 He swallowed all the seven worlds  
 and sleeps on a banyan leaf.  
 Who knows what is within him?  
 Who knows the thief Maayan’s thoughts?  
 
-2919 கருத்தில் தேவும் எல்லாப் பொருளும்  
-வருத்தித்த மாயப் பிரான் அன்றி யாரே  
-திருத்தித் திண் நிலை மூவுலகும் தம்முள்  
-இருத்திக் காக்கும் இயல்வினரே? (8)  
-2919. The Maayan created all the gods  
+२९१९ करुत्तिल् तेवुम् ऎल्लाप् पॊरुळुम्  
+वरुत्तित्त मायप् पिरान् अण्ड्रि यारे  
+तिरुत्तित् तिण् निलै मूवुलगुम् तम्मुळ्  
+इरुत्तिक् काक्कुम् इयल्विनरे? (८)  
+२९१९। The Maayan created all the gods  
 and everything in the world.  
 He creates the three worlds,  
 keeps them inside himself and protects them.  
 Is there anyone like him who could do that?  
 
-2920 காக்கும் இயல்வினன் கண்ண பெருமான்  
-சேர்க்கை செய்து தன் உந்தியுள்ளே  
-வாய்த்த திசைமுகன் இந்திரன் வானவர்  
-ஆக்கினான் தெய்வ உலகுகளே (9)  
-2920. Kaṇṇapiran protects the world.  
+२९२० काक्कुम् इयल्विनन् कण्ण पॆरुमान्  
+सेर्क्कै सॆय्दु तन् उन्दियुळ्ळे  
+वाय्त्त तिसैमुगन् इन्दिरन् वानवर्  
+आक्किनान् तॆय्व उलगुगळे (९)  
+२९२०। Kaṇṇapiran protects the world.  
 When the time came for the world to be destroyed  
 he swallowed all creatures into his stomach.  
 He created Naanmuhan who has faces in all directions,  
 Indra and the other gods and all the divine worlds in the sky.  
 
-2921 கள்வா எம்மையும் ஏழ் உலகும் நின்  
-உள்ளே தோற்றிய இறைவ என்று br> வெள் ஏறன் நான்முகன் இந்திரன் வானவர்  
-புள் ஊர்தி கழல் பணிந்து ஏத்துவரே (10)  
-2921. Shiva who rides on a white bull,  
+२९२१ कळ्वा ऎम्मैयुम् एऴ् उलगुम् निन्  
+उळ्ळे तोट्रिय इऱैव ऎण्ड्रु br> वॆळ् एऱन् नान्मुगन् इन्दिरन् वानवर्  
+पुळ् ऊर्दि कऴल् पणिन्दु एत्तुवरे (१०)  
+२९२१। Shiva who rides on a white bull,  
 Nanmuhan, Indra and the other gods in the sky  
 bow to him who rides an eagle,  
 worship his feet ornamented with anklets  
@@ -1642,35 +1643,35 @@ and praise him saying,
 "You are a thief. O lord, you created us  
 and all the seven worlds are from you."  
 
-2922 ஏத்த ஏழ் உலகும் கொண்ட கோலக்  
-கூத்தனைக் குருகூர்ச் சடகோபன் சொல்  
-வாய்த்த ஆயிரத்துள் இவை பத்துடன்  
-ஏத்த வல்லவர்க்கு இல்லை ஓர் ஊனமே (11)  
-2922. Sadagopan of Thirukuruhur  
+२९२२ एत्त एऴ् उलगुम् कॊण्ड कोलक्  
+कूत्तनैक् गुरुगूर्च् चडगोबन् सॊल्  
+वाय्त्त आयिरत्तुळ् इवै पत्तुडन्  
+एत्त वल्लवर्क्कु इल्लै ओर् ऊनमे (११)  
+२९२२। Sadagopan of Thirukuruhur  
 composed a thousand pasurams on the beautiful dancer Kannan  
 who created the seven worlds.  
 If devotees learn these ten pasurams and recite them  
 they will not have any trouble in their life.  
 ----------  
 
-இரண்டாம் பத்து- மூன்றாம் திருமொழி, (2923-2933)  
-அடியார் குழாத்தைக் கூடும் ஆசையுற்று உரைத்தல்  
+इरण्डाम् पत्तु- मूण्ड्राम् तिरुमॊऴि, (२९२३-२९३३)  
+अडियार् कुऴात्तैक् कूडुम् आसैयुट्रु उरैत्तल्  
 
-2923 ஊனில் வாழ் உயிரே நல்லை போ உன்னைப் பெற்று  
-வான் உளார் பெருமான் மதுசூதன் என் அம்மான்  
-தானும் யானும் எல்லாம் தன்னுள்ளே கலந்தொழிந்தோம்  
-தேனும் பாலும் நெய்யும் கன்னலும் அமுதும் ஒத்தே (1)  
-2923. O soul that stays in my body, you are good.  
+२९२३ ऊनिल् वाऴ् उयिरे नल्लै पो उन्नैप् पॆट्रु  
+वान् उळार् पॆरुमान् मदुसूदन् ऎन् अम्मान्  
+तानुम् यानुम् ऎल्लाम् तन्नुळ्ळे कलन्दॊऴिन्दोम्  
+तेनुम् पालुम् नॆय्युम् कन्नलुम् अमुदुम् ऒत्ते (१)  
+२९२३। O soul that stays in my body, you are good.  
 I and you joined Madhusudanan.  
 He is the god of the gods in the sky.  
 We will be like honey, milk, butter  
 and sugarcane juice all mixed together.  
 
-2924 ஒத்தார் மிக்காரை இலையாய மா மாய  
-ஒத்தாய் எப் பொருட்கும் உயிர் ஆய் என்னைப் பெற்ற  
-அத் தாய் ஆய் தந்தை ஆய் அறியாதன அறிவித்து  
-அத்தா நீ செய்தன அடியேன் அறியேனே (2)  
-2924. O great Maaya!,  
+२९२४ ऒत्तार् मिक्कारै इलैयाय मा माय  
+ऒत्ताय् ऎप् पॊरुट्कुम् उयिर् आय् ऎन्नैप् पॆट्र  
+अत् ताय् आय् तन्दै आय् अऱियादन अऱिवित्तु  
+अत्ता नी सॆय्दन अडियेन् अऱियेने (२)  
+२९२४। O great Maaya!,  
 There is no one equal to you or higher than you.  
 You give your grace to all lives good and bad.  
 You are my mother and you gave birth to me.  
@@ -1678,33 +1679,33 @@ You are my father and you taught me everything.
 O my lord, you made me understand all things that I do not understand.  
 I, your slave, cannot describe all that you did for me.  
 
-2925 அறியாக் காலத்துள்ளே அடிமைக்கண் அன்பு செய்வித்து  
-அறியா மா மாயத்து அடியேனை வைத்தாயால்  
-அறியாமைக் குறள் ஆய் நிலம் மாவலி மூவடி என்று  
-அறியாமை வஞ்சித்தாய் எனது ஆவியுள் கலந்தே (3)  
-2925. You made me your slave and gave me your love  
+२९२५ अऱियाक् कालत्तुळ्ळे अडिमैक्कण् अन्बु सॆय्वित्तु  
+अऱिया मा मायत्तु अडियेनै वैत्तायाल्  
+अऱियामैक् कुऱळ् आय् निलम् मावलि मूवडि ऎण्ड्रु  
+अऱियामै वञ्जित्ताय् ऎनदु आवियुळ् कलन्दे (३)  
+२९२५। You made me your slave and gave me your love  
 even when I was an innocent child.  
 You kept me, your slave, in this illusory world.  
 You went to Mahabali as an innocent dwarf,  
 cheated him and measured the world with three footsteps.  
 You entered my heart and made me love you.  
 
-2926 எனது ஆவியுள் கலந்த பெரு நல் உதவிக் கைம்மாறு  
-எனது ஆவி தந்தொழிந்தேன் இனி மீள்வது என்பது உண்டே?  
-எனது ஆவி ஆவியும் நீ பொழில் ஏழும் உண்ட எந்தாய்  
-எனது ஆவி யார்? யான் ஆர்? தந்த நீ கொண்டாக்கினையே (4)  
-2926. You entered my heart  
+२९२६ ऎनदु आवियुळ् कलन्द पॆरु नल् उदविक् कैम्माऱु  
+ऎनदु आवि तन्दॊऴिन्देन् इनि मीळ्वदु ऎन्बदु उण्डे?  
+ऎनदु आवि आवियुम् नी पॊऴिल् एऴुम् उण्ड ऎन्दाय्  
+ऎनदु आवि यार्? यान् आर्? तन्द नी कॊण्डाक्किनैये (४)  
+२९२६। You entered my heart  
 and in return I gave my life to you.  
 It is not possible for me to leave you.  
 You are my father and you swallowed the seven worlds.  
 What is my life? What am I?  
 You gave me life and you took it as your own.  
 
-2927 இனி யார் ஞானங்களால் எடுக்கல் எழாத எந்தாய்  
-கனிவார் வீட்டு இன்பமே என் கடல் படா அமுதே  
-தனியேன் வாழ் முதலே பொழில் ஏழும் ஏனம் ஒன்றாய்  
-நுனி ஆர் கோட்டில் வைத்தாய் நுன பாதம் சேர்ந்தேனே (5)  
-2927. You are my father.  
+२९२७ इनि यार् ज्ञानङ्गळाल् ऎडुक्कल् ऎऴाद ऎन्दाय्  
+कनिवार् वीट्टु इन्बमे ऎन् कडल् पडा अमुदे  
+तनियेन् वाऴ् मुदले पॊऴिल् एऴुम् एनम् ऒण्ड्राय्  
+नुनि आर् कोट्टिल् वैत्ताय् नुन पादम् सेर्न्देने (५)  
+२९२७। You are my father.  
 Even the wise ones do not know who you are.  
 You give the bliss of moksha to those who love you.  
 You are nectar that did not come from the ocean.  
@@ -1714,11 +1715,11 @@ and lifted up all the seven worlds
 holding them on your tusk.  
 I came and joined your feet.  
 
-2928 சேர்ந்தார் தீவினைகட்கு அரு நஞ்சை திண் மதியை  
-தீர்ந்தார் தம் மனத்துப் பிரியாது அவர் உயிரைச்  
-சோர்ந்தே புகல் கொடாச் சுடரை அரக்கியை மூக்கு  
-ஈர்ந்தாயை அடியேன் அடைந்தேன் முதல் முன்னமே (6)  
-2928. You, the bright moon  
+२९२८ सेर्न्दार् तीविनैगट्कु अरु नञ्जै तिण् मदियै  
+तीर्न्दार् तम् मनत्तुप् पिरियादु अवर् उयिरैच्  
+चोर्न्दे पुगल् कॊडाच् चुडरै अरक्कियै मूक्कु  
+ईर्न्दायै अडियेन् अडैन्देन् मुदल् मुन्नमे (६)  
+२९२८। You, the bright moon  
 remove the bad karma of your devotees  
 when they approach you.  
 You stay in the hearts of the devotees  
@@ -1727,11 +1728,11 @@ You are a light and give them protection.
 You cut off the nose of the Raksasi Surpanaha.  
 I received you into my life as soon as I was born.  
 
-2929 முன் நல் யாழ் பயில் நூல் நரம்பின் முதிர் சுவையே  
-பல் நலார் பயிலும் பரனே பவித்திரனே  
-கன்னலே அமுதே கார் முகிலே என் கண்ணா  
-நின் அலால் இலேன்காண் என்னை நீ குறிக்கொள்ளே (7)  
-2929. You are like the sweet sound of a fine, well-used yazh.  
+२९२९ मुन् नल् याऴ् पयिल् नूल् नरम्बिन् मुदिर् सुवैये  
+पल् नलार् पयिलुम् परने पवित्तिरने  
+कन्नले अमुदे कार् मुगिले ऎन् कण्णा  
+निन् अलाल् इलेन्गाण् ऎन्नै नी कुऱिक्कॊळ्ळे (७)  
+२९२९। You are like the sweet sound of a fine, well-used yazh.  
 You are the highest lord, praised by the gods in heaven.  
 You are pure.  
 You are sweet as sugarcane. You are my nectar.  
@@ -1739,11 +1740,11 @@ You have the color of a dark cloud.
 You are my Kaṇṇan.  
 I do not have anyone except you as my refuge. Take care of me.  
 
-2930 குறிக்கொள் ஞானங்களால் எனை ஊழி செய் தவமும்  
-கிறிக்கொண்டு இப் பிறப்பே சில நாளில் எய்தினன் யான்  
-உறிக்கொண்ட வெண்ணெய் பால் ஒளித்து உண்ணும் அம்மான் பின்  
-நெறிக்கொண்ட நெஞ்சனாய்ப் பிறவித் துயர் கடிந்தே (8)  
-2930. I was born in this world because of my devotion  
+२९३० कुऱिक्कॊळ् ज्ञानङ्गळाल् ऎनै ऊऴि सॆय् तवमुम्  
+किऱिक्कॊण्डु इप् पिऱप्पे सिल नाळिल् ऎय्दिनन् यान्  
+उऱिक्कॊण्ड वॆण्णॆय् पाल् ऒळित्तु उण्णुम् अम्मान् पिन्  
+नॆऱिक्कॊण्ड नॆञ्जनाय्प् पिऱवित् तुयर् कडिन्दे (८)  
+२९३०। I was born in this world because of my devotion  
 and the tapas that I practiced for many ages.  
 I came to this world that gives only pleasure  
 and stayed here for a time.  
@@ -1752,22 +1753,22 @@ I have worshiped my father in my mind and will not be born again.
 I have done much yoga and tapas  
 and have achieved moksha in this birth.  
 
-2931 கடி வார் தண் அம் துழாய்க் கண்ணன் விண்ணவர் பெருமான்  
-படி வானம் இறந்த பரமன் பவித்திரன் சீர்  
-செடி ஆர் நோய்கள் கெட படிந்து குடைந்து ஆடி  
-அடியேன் வாய்மடுத்துப் பருகிக் களித்தேனே (9)  
-2931. Kaṇṇan, the god of gods,  
+२९३१ कडि वार् तण् अम् तुऴाय्क् कण्णन् विण्णवर् पॆरुमान्  
+पडि वानम् इऱन्द परमन् पवित्तिरन् सीर्  
+सॆडि आर् नोय्गळ् कॆड पडिन्दु कुडैन्दु आडि  
+अडियेन् वाय्मडुत्तुप् परुगिक् कळित्तेने (९)  
+२९३१। Kaṇṇan, the god of gods,  
 is adorned with a fragrant cool thulasi garland.  
 He is matchless and pure.  
 My terrible sicknesses and troubles are all gone.  
 I, his slave, worshiped him and danced praising him.  
 My troubles are gone as I blissfully praise him.  
 
-2932 களிப்பும் கவர்வும் அற்று பிறப்புப் பிணி மூப்பு இறப்பு அற்று  
-ஒளிக்கொண்ட சோதியுமாய் உடன்கூடுவது என்று கொலோ  
-துளிக்கின்ற வான் இந் நிலம் சுடர் ஆழி சங்கு ஏந்தி  
-அளிக்கின்ற மாயப் பிரான் அடியார்கள் குழாங்களையே? (10)  
-2932. When will the day come when I join him,  
+२९३२ कळिप्पुम् कवर्वुम् अट्रु पिऱप्पुप् पिणि मूप्पु इऱप्पु अट्रु  
+ऒळिक्कॊण्ड सोदियुमाय् उडन्गूडुवदु ऎण्ड्रु कॊलो  
+तुळिक्किण्ड्र वान् इन् निलम् सुडर् आऴि सङ्गु एन्दि  
+अळिक्किण्ड्र मायप् पिरान् अडियार्गळ् कुऴाङ्गळैये? (१०)  
+२९३२। When will the day come when I join him,  
 become a bright light that is one with him,  
 and am removed from the pleasures of the world  
 and from sickness, old age, birth and death?  
@@ -1776,11 +1777,11 @@ and gives his grace to his devotees
 and makes this world flourish.  
 When will the day come when I join the god?  
 
-2933 குழாம் கொள் பேர் அரக்கன் குலம் வீய முனிந்தவனை  
-குழாம் கொள் தென் குருகூர்ச் சடகோபன் தெரிந்து உரைத்த  
-குழாம் கொள் ஆயிரத்துள் இவை பத்தும் உடன் பாடி  
-குழாங்களாய் அடியீர் உடன்கூடிநின்று ஆடுமினே (11)  
-2933. Sadagopan of southern Thirukuruhur,  
+२९३३ कुऴाम् कॊळ् पेर् अरक्कन् कुलम् वीय मुनिन्दवनै  
+कुऴाम् कॊळ् तॆन् गुरुगूर्च् चडगोबन् तॆरिन्दु उरैत्त  
+कुऴाम् कॊळ् आयिरत्तुळ् इवै पत्तुम् उडन् पाडि  
+कुऴाङ्गळाय् अडियीर् उडन्गूडिनिण्ड्रु आडुमिने (११)  
+२९३३। Sadagopan of southern Thirukuruhur,  
 which is filled with devotees,  
 composed a thousand pasurams  
 on the magical one who grew angry with Ravaṇan  
@@ -1790,14 +1791,14 @@ sing them and dance with the group of devotees
 and you will be happy.  
 --------------  
 
-திருவாய் மொழி - இரண்டாம் பத்து ( நான்காம் திருமொழி, 2934-2944)  
-தலைவியின் ஆற்றாமை கண்ட தாய் தலைவனை நோக்கிக் கூறுதல்  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु ( नान्गाम् तिरुमॊऴि, २९३४-२९४४)  
+तलैवियिन् आट्रामै कण्ड ताय् तलैवनै नोक्किक् कूऱुदल्  
 
-2934 ஆடி ஆடி அகம் கரைந்து இசை  
-பாடிப் பாடிக் கண்ணீர் மல்கி எங்கும்  
-நாடி நாடி நரசிங்கா என்று  
-வாடி வாடும் இவ் வாள் நுதலே (1)  
-2934. Her mother says,  
+२९३४ आडि आडि अगम् करैन्दु इसै  
+पाडिप् पाडिक् कण्णीर् मल्गि ऎङ्गुम्  
+नाडि नाडि नरसिङ्गा ऎण्ड्रु  
+वाडि वाडुम् इव् वाळ् नुदले (१)  
+२९३४। Her mother says,  
 "My daughter who has a bright forehead  
 dances and dances singing his praise.  
 Her eyes are filled with tears.  
@@ -1805,11 +1806,11 @@ She searches and searches for the highest one,
 saying, ‘Narasinga!’  
 She withers away with love for him."  
 
-2935 வாள் நுதல் இம் மடவரல் உம்மைக்  
-காணும் ஆசையுள் நைகின்றாள் விறல்  
-வாணன் ஆயிரம் தோள் துணித்தீர் உம்மைக்  
-காண நீர் இரக்கம் இலீரே (2)  
-2935. Her mother says,  
+२९३५ वाळ् नुदल् इम् मडवरल् उम्मैक्  
+काणुम् आसैयुळ् नैगिण्ड्राळ् विऱल्  
+वाणन् आयिरम् तोळ् तुणित्तीर् उम्मैक्  
+काण नीर् इरक्कम् इलीरे (२)  
+२९३५। Her mother says,  
 "My daughter has a bright forehead and lovely nature  
 and suffers wanting to see you.  
 You cut off the thousand arms of the strong Asuran Vaanan  
@@ -1818,22 +1819,22 @@ She wants to see you,
 but you are not compassionate  
 and do not show yourself to her."  
 
-2936 இரக்க மனத்தோடு எரி அணை  
-அரக்கும் மெழுகும் ஒக்கும் இவள்  
-இரக்கம் எழீர் இதற்கு என் செய்கேன்  
-அரக்கன் இலங்கை செற்றீருக்கே? (3)  
-2936. Her mother says,  
+२९३६ इरक्क मनत्तोडु ऎरि अणै  
+अरक्कुम् मॆऴुगुम् ऒक्कुम् इवळ्  
+इरक्कम् ऎऴीर् इदऱ्‌कु ऎन् सॆय्गेन्  
+अरक्कन् इलङ्गै सॆट्रीरुक्के? (३)  
+२९३६। Her mother says,  
 "Her love for you makes her suffer  
 and she melts like arakku and wax in a fire.  
 You do not have any compassion.  
 What should I do?  
 You burned Lanka, the country of the Rakshasa Ravana."  
 
-2937 இலங்கை செற்றவனே என்னும் பின்னும்  
-வலம் கொள் புள் உயர்த்தாய் என்னும் உள்ளம்  
-மலங்க வெவ் உயிர்க்கும் கண்ணீர் மிகக்  
-கலங்கிக் கைதொழும் நின்று இவளே (4)  
-2937. Her mother says,  
+२९३७ इलङ्गै सॆट्रवने ऎन्नुम् पिन्नुम्  
+वलम् कॊळ् पुळ् उयर्त्ताय् ऎन्नुम् उळ्ळम्  
+मलङ्ग वॆव् उयिर्क्कुम् कण्णीर् मिगक्  
+कलङ्गिक् कैदॊऴुम् निण्ड्रु इवळे (४)  
+२९३७। Her mother says,  
 "She says ‘You destroyed Lanka.  
 You raised your eagle banner in victory.’  
 She sheds many tears.  
@@ -1841,11 +1842,11 @@ She is confused in her mind.
 Her sighs are like burning fire.  
 She folds her hands and worships you."  
 
-2938 இவள் இராப்பகல் வாய்வெரீ இத் தன  
-குவளை ஒண் கண்ண நீர் கொண்டாள் வண்டு  
-திவளும் தண் அம் துழாய் கொடீர் என  
-தவள வண்ணர் தகவுகளே? (5)  
-2938. Her mother says,  
+२९३८ इवळ् इराप्पगल् वाय्वॆरी इत् तन  
+कुवळै ऒण् कण्ण नीर् कॊण्डाळ् वण्डु  
+तिवळुम् तण् अम् तुऴाय् कॊडीर् ऎन  
+तवळ वण्णर् तगवुगळे? (५)  
+२९३८। Her mother says,  
 "She thinks of you day and night  
 and her eyes, lovely as water lilies, are filled with tears.  
 She says, ‘Won't you give me  
@@ -1854,33 +1855,33 @@ You have the color of pearls.
 How can I believe your devotees  
 when they say you are kind?"  
 
-2939 தகவு உடையவனே என்னும் பின்னும்  
-மிக விரும்பும் பிரான் என்னும் எனது  
-அக உயிர்க்கு அமுதே என்னும் உள்ளம்  
-உக உருகிநின்று உள் உளே (6)  
-2939. Her mother says,  
+२९३९ तगवु उडैयवने ऎन्नुम् पिन्नुम्  
+मिग विरुम्बुम् पिरान् ऎन्नुम् ऎनदु  
+अग उयिर्क्कु अमुदे ऎन्नुम् उळ्ळम्  
+उग उरुगिनिण्ड्रु उळ् उळे (६)  
+२९३९। Her mother says,  
 "She says, ‘You are kind.  
 I love you more and more.  
 You are the nectar of my life.  
 You are in my heart!’  
 and she melts and melts for you."  
 
-2940 உள் உள் ஆவி உலர்ந்து உலர்ந்து என  
-வள்ளலே கண்ணனே என்னும் பின்னும்  
-வெள்ள நீர்க் கிடந்தாய் என்னும் என  
-கள்வி தான் பட்ட வஞ்சனையே (7)  
-2940. Her mother says,  
+२९४० उळ् उळ् आवि उलर्न्दु उलर्न्दु ऎन  
+वळ्ळले कण्णने ऎन्नुम् पिन्नुम्  
+वॆळ्ळ नीर्क् किडन्दाय् ऎन्नुम् ऎन  
+कळ्वि तान् पट्ट वञ्जनैये (७)  
+२९४०। Her mother says,  
 "My daughter is hurt because you cheated her  
 and she says, ‘You are generous, you are my Kaṇṇan  
 and you sleep on the milky ocean.’  
 She hides her love from me  
 and does not tell me how you cheated her."  
 
-2941 வஞ்சனே என்னும் கைதொழும் தன  
-நெஞ்சம் வேவ நெடிது உயிர்க்கும் விறல்  
-கஞ்சனை வஞ்சனை செய்தீர் உம்மைத்  
-தஞ்சம் என்று இவள் பட்டனவே (8)  
-2941. Her mother says,  
+२९४१ वञ्जने ऎन्नुम् कैदॊऴुम् तन  
+नॆञ्जम् वेव नॆडिदु उयिर्क्कुम् विऱल्  
+कञ्जनै वञ्जनै सॆय्दीर् उम्मैत्  
+तञ्जम् ऎण्ड्रु इवळ् पट्टनवे (८)  
+२९४१। Her mother says,  
 "She says, ‘You cheated me.’  
 She worships him.  
 Her heart suffers and she sighs.  
@@ -1888,22 +1889,22 @@ She says, ‘You cheated Kamsan and killed him.’
 She has come to you for refuge.  
 It is wrong to cheat her."  
 
-2942 பட்ட போது எழு போது அறியாள் விரை  
-மட்டு அலர் தண் துழாய் என்னும் சுடர்  
-வட்ட வாய் நுதி நேமியீர் நுமது  
-இட்டம் என்கொல் இவ் ஏழைக்கே? (9)  
-2942. Her mother says,  
+२९४२ पट्ट पोदु ऎऴु पोदु अऱियाळ् विरै  
+मट्टु अलर् तण् तुऴाय् ऎन्नुम् सुडर्  
+वट्ट वाय् नुदि नेमियीर् नुमदु  
+इट्टम् ऎन्गॊल् इव् एऴैक्के? (९)  
+२९४२। Her mother says,  
 "She doesn’t know when the sun rises or when it sets.  
 She says, ‘I long for his cool fragrant thulasi garland  
 with its flowers that drip honey.’  
 You have a sharp round bright discus.  
 What can you do for my poor daughter?"  
 
-2943 ஏழை பேதை இராப்பகல் தன  
-கேழ் இல் ஒண் கண்ண நீர் கொண்டாள் கிளர்  
-வாழ்வை வேவ இலங்கை செற்றீர் இவள்  
-மாழை நோக்கு ஒன்றும் வாட்டேன்மினே (10)  
-2943. Her mother says,  
+२९४३ एऴै पेदै इराप्पगल् तन  
+केऴ् इल् ऒण् कण्ण नीर् कॊण्डाळ् किळर्  
+वाऴ्वै वेव इलङ्गै सॆट्रीर् इवळ्  
+माऴै नोक्कु ऒण्ड्रुम् वाट्टेन्मिने (१०)  
+२९४३। Her mother says,  
 "She is a poor girl. She is innocent.  
 She doesn’t know whether it is night or day.  
 Her faultless lovely eyes are filled with tears.  
@@ -1911,11 +1912,11 @@ You burned Lanka and destroyed all the creatures there.
 She has innocent eyes like a doe’s.  
 Do not make this girl suffer."  
 
-2944 வாட்டம் இல் புகழ் வாமனனை இசை  
-கூட்டி வண் சடகோபன் சொல் அமை  
-பாட்டு ஓர் ஆயிரத்து இப் பத்தால் அடி  
-சூட்டலாகும் அம் தாமமே (11)  
-2944. Saḍagopan composed a thousand pasurams  
+२९४४ वाट्टम् इल् पुगऴ् वामननै इसै  
+कूट्टि वण् सडगोबन् सॊल् अमै  
+पाट्टु ओर् आयिरत्तु इप् पत्ताल् अडि  
+सूट्टलागुम् अम् ताममे (११)  
+२९४४। Saḍagopan composed a thousand pasurams  
 praising the faultless famous Vaamanan  
 who made a girl fall in love with him,  
 describing how her mother worries for her.  
@@ -1923,26 +1924,26 @@ If devotees learn these ten pasurams with music
 they will join the feet of the god decorated with garlands.  
 ----------  
 
-திருவாய் மொழி - இரண்டாம் பத்து ( ஐந்தாம் திருமொழி, 2945-2955)  
-இறைவன் ஆபரணாதிகளுடன் வந்து கலக்க ஆழ்வார் மகிழ்தல்  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु ( ऐन्दाम् तिरुमॊऴि, २९४५-२९५५)  
+इऱैवन् आबरणादिगळुडन् वन्दु कलक्क आऴ्वार् मगिऴ्दल्  
 
-2945 அம் தாமத்து அன்பு செய்து என் ஆவி சேர் அம்மானுக்கு  
-அம் தாமம் வாழ் முடி சங்கு ஆழி நூல் ஆரம் உள  
-செந்தாமரைத்தடம் கண் செங்கனி வாய் செங்கமலம்  
-செந்தாமரை அடிகள் செம்பொன் திரு உடம்பே (1)  
-2945. He is adorned with garlands, ornaments and a sacred thread.  
+२९४५ अम् तामत्तु अन्बु सॆय्दु ऎन् आवि सेर् अम्मानुक्कु  
+अम् तामम् वाऴ् मुडि सङ्गु आऴि नूल् आरम् उळ  
+सॆन्दामरैत्तडम् कण् सॆङ्गनि वाय् सॆङ्गमलम्  
+सॆन्दामरै अडिगळ् सॆम्बॊन् तिरु उडम्बे (१)  
+२९४५। He is adorned with garlands, ornaments and a sacred thread.  
 He carries a conch and a discus.  
 His large eyes are beautiful like lotuses.  
-His mouth is sweet as a fruit and red as a lotus .  
+His mouth is sweet as a fruit and red as a lotus ।  
 His feet are as lovely as lotuses.  
 His divine body is like pure gold.  
 He came here and entered my heart and gave his love to me.  
 
-2946 திரு உடம்பு வான் சுடர் செந்தாமரை கண் கை கமலம்  
-திரு இடமே மார்வம் அயன் இடமே கொப்பூழ்  
-ஒருவு இடமும் எந்தை பெருமாற்கு அரனே ஓ  
-ஒருவு இடம் ஒன்று இன்றி என்னுள் கலந்தானுக்கே (2)  
-2946. His divine body shines like the sun in the sky.  
+२९४६ तिरु उडम्बु वान् सुडर् सॆन्दामरै कण् कै कमलम्  
+तिरु इडमे मार्वम् अयन् इडमे कॊप्पूऴ्  
+ऒरुवु इडमुम् ऎन्दै पॆरुमाऱ्‌कु अरने ओ  
+ऒरुवु इडम् ऒण्ड्रु इण्ड्रि ऎन्नुळ् कलन्दानुक्के (२)  
+२९४६। His divine body shines like the sun in the sky.  
 His lovely eyes and hands are like beautiful lotuses.  
 The goddess Lakshmi stays on his chest,  
 Brahma stays on his navel  
@@ -1950,33 +1951,33 @@ and Shiva stays everywhere else on his body.
 I do not have a place on his body  
 but he has entered my heart.  
 
-2947 என்னுள் கலந்தவன் செங்கனி வாய் செங்கமலம்  
-மின்னும் சுடர் மலைக்குக் கண் பாதம் கை கமலம்  
-மன்னும் முழு ஏழ் உலகும் வயிற்றின் உள  
-தன்னுள் கலவாதது எப் பொருளும் தான் இலையே (3)  
-2947. He entered my heart.  
+२९४७ ऎन्नुळ् कलन्दवन् सॆङ्गनि वाय् सॆङ्गमलम्  
+मिन्नुम् सुडर् मलैक्कुक् कण् पादम् कै कमलम्  
+मन्नुम् मुऴु एऴ् उलगुम् वयिट्रिन् उळ  
+तन्नुळ् कलवाददु ऎप् पॊरुळुम् तान् इलैये (३)  
+२९४७। He entered my heart.  
 His mouth is as sweet as a fruit and beautiful as a red lotus.  
 He shines like a bright hill.  
 His eyes, feet and hands are like beautiful lotuses.  
 All the everlasting seven worlds are in his stomach.  
 There is nothing anywhere that is not in his body.  
 
-2948 எப் பொருளும் தான் ஆய் மரகதக் குன்றம் ஒக்கும்  
-அப்பொழுதைத் தாமரைப்பூக் கண் பாதம் கை கமலம்  
-எப்பொழுதும் நாள் திங்கள் ஆண்டு ஊழி ஊழிதொறும்  
-அப்பொழுதைக்கு அப்பொழுது என் ஆரா அமுதமே (4)  
-2948. He is in all things.  
+२९४८ ऎप् पॊरुळुम् तान् आय् मरगदक् कुण्ड्रम् ऒक्कुम्  
+अप्पॊऴुदैत् तामरैप्पूक् कण् पादम् कै कमलम्  
+ऎप्पॊऴुदुम् नाळ् तिङ्गळ् आण्डु ऊऴि ऊऴिदॊऱुम्  
+अप्पॊऴुदैक्कु अप्पॊऴुदु ऎन् आरा अमुदमे (४)  
+२९४८। He is in all things.  
 He is like an emerald hill.  
 His eyes, hands and feet are like fresh lotuses.  
 He is a sweet nectar that will never become bitter  
 on any day, any month, any year  
 or any time until the end of the world.  
 
-2949 ஆரா அமுதமாய் அல் ஆவியுள் கலந்த  
-கார் ஆர் கருமுகில் போல் என் அம்மான் கண்ணனுக்கு  
-நேரா வாய் செம்பவளம் கண் பாதம் கை கமலம்  
-பேர் ஆரம் நீள் முடி நாண் பின்னும் இழை பலவே (5)  
-2949. He is the nectar that will always be sweet.  
+२९४९ आरा अमुदमाय् अल् आवियुळ् कलन्द  
+कार् आर् करुमुगिल् पोल् ऎन् अम्मान् कण्णनुक्कु  
+नेरा वाय् सॆम्बवळम् कण् पादम् कै कमलम्  
+पेर् आरम् नीळ् मुडि नाण् पिन्नुम् इऴै पलवे (५)  
+२९४९। He is the nectar that will always be sweet.  
 He is a dark cloud that entered my heart.  
 He is my dear Kaṇṇan.  
 Even red coral cannot compete with his lovely red mouth.  
@@ -1984,21 +1985,21 @@ His eyes, feet and hands are like lotuses.
 He wears a long garland, a tall crown,  
 an oṭṭiyaaṇam for his waist and many other ornaments.  
 
-2950 பலபலவே ஆபரணம் பேரும் பலபலவே  
-பலபலவே சோதி வடிவு பண்பு எண்ணில்  
-பலபல கண்டு உண்டு கேட்டு உற்று மோந்து இன்பம்  
-பலபலவே ஞானமும் பாம்பு அணை மேலாற்கேயோ (6)  
-2950. He is adorned with many ornaments.  
+२९५० पलबलवे आबरणम् पेरुम् पलबलवे  
+पलबलवे सोदि वडिवु पण्बु ऎण्णिल्  
+पलबल कण्डु उण्डु केट्टु उट्रु मोन्दु इन्बम्  
+पलबलवे ज्ञानमुम् पाम्बु अणै मेलाऱ्‌केयो (६)  
+२९५०। He is adorned with many ornaments.  
 He has many, many names and many bright forms.  
 His qualities are too many to conceive.  
 He is the joy of seeing, tasting, hearing, touching and smelling.  
 He has great knowledge and he sleeps on the snake bed.  
 
-2951 பாம்பு அணைமேல் பாற்கடலுள் பள்ளி அமர்ந்ததுவும்  
-காம்பு அணை தோள் பின்னைக்கு ஆய் ஏறு உடன் ஏழ் செற்றதுவும்  
-தேம் பணைய சோலை மராமரம் ஏழ் எய்ததுவும்  
-பூம் பிணைய தண் துழாய்ப் பொன் முடி அம் போர் ஏறே (7)  
-2951. He sleeps on the snake bed on the milky ocean.  
+२९५१ पाम्बु अणैमेल् पाऱ्‌कडलुळ् पळ्ळि अमर्न्ददुवुम्  
+काम्बु अणै तोळ् पिन्नैक्कु आय् एऱु उडन् एऴ् सॆट्रदुवुम्  
+तेम् पणैय सोलै मरामरम् एऴ् ऎय्ददुवुम्  
+पूम् पिणैय तण् तुऴाय्प् पॊन् मुडि अम् पोर् एऱे (७)  
+२९५१। He sleeps on the snake bed on the milky ocean.  
 He destroyed seven bulls to marry Nappinnai  
 whose beautiful arms are like bamboo.  
 He destroyed the seven mara trees  
@@ -2006,22 +2007,22 @@ that were in groves where honey drips.
 He is decorated with a cool thulasi garland  
 tied with flowers on his golden crown.  
 
-2952 பொன் முடி அம் போர் ஏற்றை எம்மானை நால் தடம் தோள்  
-தன் முடிவு ஒன்று இல்லாத தண் துழாய் மாலையனை  
-என் முடிவு காணாதே என்னுள் கலந்தானை  
-சொல்முடிவு காணேன் நான் சொல்லுவது என்? சொல்லீரே (8)  
-2952. He is strong as a bull and wears a golden crown.  
+२९५२ पॊन् मुडि अम् पोर् एट्रै ऎम्मानै नाल् तडम् तोळ्  
+तन् मुडिवु ऒण्ड्रु इल्लाद तण् तुऴाय् मालैयनै  
+ऎन् मुडिवु काणादे ऎन्नुळ् कलन्दानै  
+सॊल्मुडिवु काणेन् नान् सॊल्लुवदु ऎन्? सॊल्लीरे (८)  
+२९५२। He is strong as a bull and wears a golden crown.  
 He has four strong arms.  
 He is the omnipresent god and he wears a cool thulasi garland.  
 He entered my heart forgiving my faults.  
 I do not have words to praise him.  
 How could I describe him? You tell me.  
 
-2953 சொல்லீர் என் அம்மானை என் ஆவி ஆவிதனை  
-எல்லை இல் சீர் என் கருமாணிக்கச் சுடரை  
-நல்ல அமுதம் பெறற்கு அரிய வீடும் ஆய்  
-அல்லி மலர் விரை ஒத்து ஆண் அல்லன் பெண் அலனே (9)  
-2953. He is the soul inside my soul.  
+२९५३ सॊल्लीर् ऎन् अम्मानै ऎन् आवि आविदनै  
+ऎल्लै इल् सीर् ऎन् करुमाणिक्कच् चुडरै  
+नल्ल अमुदम् पॆऱऱ्‌कु अरिय वीडुम् आय्  
+अल्लि मलर् विरै ऒत्तु आण् अल्लन् पॆण् अलने (९)  
+२९५३। He is the soul inside my soul.  
 He is bright like a dark diamond  
 and he has endless fame.  
 He is sweet nectar.  
@@ -2029,11 +2030,11 @@ He is moksha that is hard to attain.
 He is the fragrance of alli flowers.  
 He is neither male nor female.  
 
-2954 ஆண் அல்லன் பெண் அல்லன் அல்லா அலியும் அல்லன்  
-காணலும் ஆகான் உளன் அல்லன் இல்லை அல்லன்  
-பேணுங்கால் பேணும் உரு ஆகும் அல்லனும் ஆம்  
-கோணை பெரிது உடைத்து எம் பெம்மானைக் கூறுதலே (10)  
-2954. He is not a male, not a female,  
+२९५४ आण् अल्लन् पॆण् अल्लन् अल्ला अलियुम् अल्लन्  
+काणलुम् आगान् उळन् अल्लन् इल्लै अल्लन्  
+पेणुङ्गाल् पेणुम् उरु आगुम् अल्लनुम् आम्  
+कोणै पॆरिदु उडैत्तु ऎम् पॆम्मानैक् कूऱुदले (१०)  
+२९५४। He is not a male, not a female,  
 and he is not an ali, who is neither.  
 No one can see him.  
 He neither is, nor is not.  
@@ -2042,11 +2043,11 @@ he will appear in the form that the devotee wishes
 or he may not be there.  
 To describe the dear lord is very hard.  
 
-2955 கூறுதல் ஒன்று ஆராக் குடக் கூத்த அம்மானைக்  
-கூறுதலே மேவிக் குருகூர்ச் சடகோபன்  
-கூறின அந்தாதி ஓர் ஆயிரத்துள் இப் பத்தும்  
-கூறுதல் வல்லார் உளரேல் கூடுவர் வைகுந்தமே (11)  
-2955 Sadagopan of Thirukuruhur  
+२९५५ कूऱुदल् ऒण्ड्रु आराक् कुडक् कूत्त अम्मानैक्  
+कूऱुदले मेविक् गुरुगूर्च् चडगोबन्  
+कूऱिन अन्दादि ओर् आयिरत्तुळ् इप् पत्तुम्  
+कूऱुदल् वल्लार् उळरेल् कूडुवर् वैगुन्दमे (११)  
+२९५५ Sadagopan of Thirukuruhur  
 composed a thousand andaadi pasurams on the god,  
 our father who danced the wonderful kudakuthu dance—  
 no one can describe him.  
@@ -2054,16 +2055,16 @@ If devotees learn these ten pasurams and recite them well
 they will reach Vaikuṇṭam.  
 ---------  
 
-திருவாய் மொழி - இரண்டாம் பத்து (ஆறாம் திருமொழி, 2956-2966)  
-ஆழ்வார் இறைவனைச் சிக்கெனப் பிடித்தல்  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु (आऱाम् तिरुमॊऴि, २९५६-२९६६)  
+आऴ्वार् इऱैवनैच् चिक्कॆनप् पिडित्तल्  
 
-2956 வைகுந்தா மணிவண்ணனே என் பொல்லாத்  
-       திருக்குறளா என்னுள் மன்னி  
-வைகும் வைகல் தோறும் அமுது ஆய வான் ஏறே  
-       செய் குந்தா அரும் தீமை உன் அடியார்க்குத் தீர்த்து  
-அசுரர்க்குத் தீமைகள்  
-       செய் குந்தா உன்னை நான் பிடித்தேன் கொள் சிக்கெனவே. (1)  
-2956. O lord of Vaikuṇṭam,  
+२९५६ वैगुन्दा मणिवण्णने ऎन् पॊल्लात्  
+       तिरुक्कुऱळा ऎन्नुळ् मन्नि  
+वैगुम् वैगल् तोऱुम् अमुदु आय वान् एऱे  
+       सॆय् कुन्दा अरुम् तीमै उन् अडियार्क्कुत् तीर्त्तु  
+असुरर्क्कुत् तीमैगळ्  
+       सॆय् कुन्दा उन्नै नान् पिडित्तेन् कॊळ् सिक्कॆनवे। (१)  
+२९५६। O lord of Vaikuṇṭam,  
 you have the color of blue sapphire.  
 You are a naughty divine dwarf.  
 You are nectar that has entered my heart and stays there always.  
@@ -2073,13 +2074,13 @@ You destroy the Asurans.
 You are the god of Vaikuṇṭam.  
 I have caught hold of you firmly.  
 
-2957 சிக்கெனச் சிறிது ஓர் இடமும் புறப்படாத்  
-       தன்னுள்ளே உலகுகள்  
-ஒக்கவே விழுங்கிப் புகுந்தான் புகுந்ததற்பின்  
-       மிக்க ஞான வெள்ளச் சுடர் விளக்குஆய் துளக்கு  
-அற்று அமுதம் ஆய் எங்கும்  
-       பக்கம் நோக்கு அறியான் என் பைந்தாமரைக் கண்ணனே (2)  
-2957. He swallowed all the worlds  
+२९५७ सिक्कॆनच् चिऱिदु ओर् इडमुम् पुऱप्पडात्  
+       तन्नुळ्ळे उलगुगळ्  
+ऒक्कवे विऴुङ्गिप् पुगुन्दान् पुगुन्ददऱ्‌पिन्  
+       मिक्क ज्ञान वॆळ्ळच् चुडर् विळक्कुआय् तुळक्कु  
+अट्रु अमुदम् आय् ऎङ्गुम्  
+       पक्कम् नोक्कु अऱियान् ऎन् पैन्दामरैक् कण्णने (२)  
+२९५७। He swallowed all the worlds  
 leaving nothing behind  
 and he keeps them in his stomach.  
 He entered my heart.  
@@ -2089,13 +2090,13 @@ He is nectar for all and is changeless.
 There is no place on this earth  
 that is not seen by lotus eyes of Kaṇṇan.  
 
-2958 தாமரைக் கண்ணனை விண்ணோர் பரவும் தலைமகனை  
-       துழாய் விரைப்  
-பூ மருவு கண்ணி எம் பிரானை பொன்மலையை  
-       நாம் மருவி நன்கு ஏத்தி உள்ளி வணங்கி நாம்  
-மகிழ்ந்து ஆட நாவு அலர்  
-       பா மருவி நிற்கத் தந்த பான்மையே வள்ளலே (3)  
-2958. His eyes are beautiful like lotuses.  
+२९५८ तामरैक् कण्णनै विण्णोर् परवुम् तलैमगनै  
+       तुऴाय् विरैप्  
+पू मरुवु कण्णि ऎम् पिरानै पॊन्मलैयै  
+       नाम् मरुवि नन्गु एत्ति उळ्ळि वणङ्गि नाम्  
+मगिऴ्न्दु आड नावु अलर्  
+       पा मरुवि निऱ्‌कत् तन्द पान्मैये वळ्ळले (३)  
+२९५८। His eyes are beautiful like lotuses.  
 He is the lord of the gods and they worship him.  
 He, the dear one, is decorated with fragrant flower garlands.  
 He shines like a golden mountain.  
@@ -2104,13 +2105,13 @@ I dance happily thinking of him always.
 He, the generous one, gave me his grace  
 to sing beautiful pasurams that praise him.  
 
-2959 வள்ளலே மதுசூதனா என் மரகத மலையே  
-       உனை நினைந்து  
-எள்கல் தந்த எந்தாய் உன்னை எங்ஙனம் விடுகேன்  
-       வெள்ளமே புரை நின் புகழ் குடைந்து ஆடிப்  
-பாடிக் களித்து உகந்து உகந்து  
-       உள்ள நோய்கள் எல்லாம் துரந்து உய்ந்து போந்திருந்தே? (4)  
-2959. You are Madhusudanan, the generous god.  
+२९५९ वळ्ळले मदुसूदना ऎन् मरगद मलैये  
+       उनै निनैन्दु  
+ऎळ्गल् तन्द ऎन्दाय् उन्नै ऎङ्ङनम् विडुगेन्  
+       वॆळ्ळमे पुरै निन् पुगऴ् कुडैन्दु आडिप्  
+पाडिक् कळित्तु उगन्दु उगन्दु  
+       उळ्ळ नोय्गळ् ऎल्लाम् तुरन्दु उय्न्दु पोन्दिरुन्दे? (४)  
+२९५९। You are Madhusudanan, the generous god.  
 You are my emerald hill.  
 You are my father and you gave me the good fortune  
 of thinking only of you.  
@@ -2119,13 +2120,13 @@ I praised your fame that is like a flood,
 danced and sang with joy  
 and all my sickness and troubles went away.  
 
-2960 உய்ந்து போந்து என் உலப்பு இலாத வெம் தீவினைகளை  
-       நாசம் செய்து உனது  
-அந்தம் இல் அடிமை அடைந்தேன் விடுவேனோ  
-       ஐந்து பைந்தலை ஆடு அரவு அணை மேவிப் பாற்கடல்  
-யோக நித்திரை  
-       சிந்தை செய்த எந்தாய் உன்னைச் சிந்தை செய்து செய்தே? (5)  
-2960. O my father,  
+२९६० उय्न्दु पोन्दु ऎन् उलप्पु इलाद वॆम् तीविनैगळै  
+       नासम् सॆय्दु उनदु  
+अन्दम् इल् अडिमै अडैन्देन् विडुवेनो  
+       ऐन्दु पैन्दलै आडु अरवु अणै मेविप् पाऱ्‌कडल्  
+योग नित्तिरै  
+       सिन्दै सॆय्द ऎन्दाय् उन्नैच् चिन्दै सॆय्दु सॆय्दे? (५)  
+२९६०। O my father,  
 you sleep on five-headed Adishesha,  
 the snake bed on the milky ocean  
 in yogic contemplation.  
@@ -2134,13 +2135,13 @@ and you destroyed all my cruel karma.
 I have become your slave forever—  
 how could I ever want anything else?  
 
-2961 உன்னைச் சிந்தை செய்து செய்து உன் நெடு மா மொழி இசை  
-       பாடி ஆடி என்  
-முன்னைத் தீவினைகள் முழு வேர் அரிந்தனன் யான்  
-       உன்னைச் சிந்தையினால் இகழ்ந்த இரணியன் அகல்  
-மார்வம் கீண்ட என்  
-       முன்னைக் கோளரியே முடியாதது என் எனக்கே? (6)  
-2961. I thought and thought of you  
+२९६१ उन्नैच् चिन्दै सॆय्दु सॆय्दु उन् नॆडु मा मॊऴि इसै  
+       पाडि आडि ऎन्  
+मुन्नैत् तीविनैगळ् मुऴु वेर् अरिन्दनन् यान्  
+       उन्नैच् चिन्दैयिनाल् इगऴ्न्द इरणियन् अगल्  
+मार्वम् कीण्ड ऎन्  
+       मुन्नैक् कोळरिये मुडियाददु ऎन् ऎनक्के? (६)  
+२९६१। I thought and thought of you  
 and praised you in songs and danced.  
 All the bad karma of my older births is removed.  
 You took the form of a man-lion  
@@ -2148,13 +2149,13 @@ and you split open the chest of Hiraṇyan
 when he disgraced you.  
 I am your slave. There is nothing that I cannot do.  
 
-2962 முடியாதது என் எனக்கேல் இனி? முழு ஏழ் உலகும்  
-       உண்டான் உகந்து வந்து  
-அடியேன் உட்புகுந்தான் அகல்வானும் அல்லன் இனி  
-       செடி ஆர் நோய்கள் எல்லாம் துரந்து எமர் கீழ்  
-மேல் எழு பிறப்பும்  
-       விடியா வெம் நரகத்து என்றும் சேர்தல் மாறினரே (7)  
-2962. What is there that I cannot do?  
+२९६२ मुडियाददु ऎन् ऎनक्केल् इनि? मुऴु एऴ् उलगुम्  
+       उण्डान् उगन्दु वन्दु  
+अडियेन् उट्पुगुन्दान् अगल्वानुम् अल्लन् इनि  
+       सॆडि आर् नोय्गळ् ऎल्लाम् तुरन्दु ऎमर् कीऴ्  
+मेल् ऎऴु पिऱप्पुम्  
+       विडिया वॆम् नरगत्तु ऎण्ड्रुम् सेर्दल् माऱिनरे (७)  
+२९६२। What is there that I cannot do?  
 He swallowed all the seven worlds.  
 He came and joyfully entered the heart of me, his slave,  
 and will not leave me.  
@@ -2163,13 +2164,13 @@ He protected me and saved me
 and I will not go to cruel hell  
 in all my seven births.  
 
-2963 மாறி மாறிப் பல பிறப்பும் பிறந்து அடியை அடைந்து  
-       உள்ளம் தேறி  
-ஈறு இல் இன்பத்து இரு வெள்ளம் யான் மூழ்கினன்  
-       பாறிப் பாறி அசுரர் தம் பல் குழாங்கள் நீறு எழ  
-பாய் பறவை ஒன்று  
-       ஏறி வீற்றிருந்தாய் உன்னை என்னுள் நீக்கேல் எந்தாய் (8)  
-2963. I was born for many births again and again.  
+२९६३ माऱि माऱिप् पल पिऱप्पुम् पिऱन्दु अडियै अडैन्दु  
+       उळ्ळम् तेऱि  
+ईऱु इल् इन्बत्तु इरु वॆळ्ळम् यान् मूऴ्गिनन्  
+       पाऱिप् पाऱि असुरर् तम् पल् कुऴाङ्गळ् नीऱु ऎऴ  
+पाय् पऱवै ऒण्ड्रु  
+       एऱि वीट्रिरुन्दाय् उन्नै ऎन्नुळ् नीक्केल् ऎन्दाय् (८)  
+२९६३। I was born for many births again and again.  
 I reached your feet and my heart was happy  
 as if it had plunged into a great flood of bliss.  
 O father, you ride on a flying eagle  
@@ -2177,28 +2178,28 @@ and you fought many Asurans,
 conquered them and destroyed them.  
 O dear god, do not go away from me.  
 
-2964 எந்தாய் தண் திருவேங்கடத்துள் நின்றாய் இலங்கை  
-       செற்றாய் மராமரம்  
-பைந்தாள் ஏழ் உருவ ஒரு வாளி கோத்த வில்லா <  
-       கொந்து ஆர் தண் அம் துழாயினாய் அமுதே உன்னை  
-என்னுள்ளே குழைத்த எம்  
-       மைந்தா வான் ஏறே இனி எங்குப் போகின்றதே? (9)  
-2964. O my father,  
+२९६४ ऎन्दाय् तण् तिरुवेङ्गडत्तुळ् निण्ड्राय् इलङ्गै  
+       सॆट्राय् मरामरम्  
+पैन्दाळ् एऴ् उरुव ऒरु वाळि कोत्त विल्ला <  
+       कॊन्दु आर् तण् अम् तुऴायिनाय् अमुदे उन्नै  
+ऎन्नुळ्ळे कुऴैत्त ऎम्  
+       मैन्दा वान् एऱे इनि ऎङ्गुप् पोगिण्ड्रदे? (९)  
+२९६४। O my father,  
 you stay in the rich Thiruvenkaṭam hills.  
 You destroyed Lanka.  
 You shot one arrow and destroyed all the seven maramara trees.  
 You are decorated with bunches of beautiful cool thulasi garlands.  
 You are nectar. O young one, you entered my heart.  
-You are a strong bull among the gods .  
+You are a strong bull among the gods ।  
 Where will I go now?  
 
-2965 போகின்ற காலங்கள் போய காலங்கள் போகு காலங்கள்  
-       தாய் தந்தை உயிர்  
-ஆகின்றாய் உன்னை நான் அடைந்தேன் விடுவேனோ?  
-       பாகின்ற தொல் புகழ் மூவுலகுக்கும் நாதனே  
-பரமா தண் வேங்கடம்  
-       மேகின்றாய் தண் துழாய் விரை நாறு கண்ணியனே (10)  
-2965. You were my father and mother in the past,  
+२९६५ पोगिण्ड्र कालङ्गळ् पोय कालङ्गळ् पोगु कालङ्गळ्  
+       ताय् तन्दै उयिर्  
+आगिण्ड्राय् उन्नै नान् अडैन्देन् विडुवेनो?  
+       भागिण्ड्र तॊल् पुगऴ् मूवुलगुक्कुम् नादने  
+परमा तण् वेङ्गडम्  
+       मेगिण्ड्राय् तण् तुऴाय् विरै नाऱु कण्णियने (१०)  
+२९६५। You were my father and mother in the past,  
 you are my father and mother now  
 and you will be my father and mother in the future.  
 I have reached you and will not leave you.  
@@ -2207,13 +2208,13 @@ that praise your ancient fame.
 O highest one, you stay in the cool Venkaṭam hills.  
 You are adorned with fragrant thulasi garlands.  
 
-2966 கண்ணித் தண் அம் துழாய் முடிக் கமலத் தடம் பெருங்  
-       கண்ணனைப் புகழ்  
-நண்ணி தென் குருகூர்ச் சடகோபன் மாறன் சொன்ன  
-       எண்ணில் சோர்வு இல் அந்தாதி ஆயிரத்துள் இவையும்  
-ஓர் பத்து இசையொடும்  
-       பண்ணில் பாட வல்லார் அவர் கேசவன் தமரே (11)  
-2966. Saḍagopan of famous southern Thirukuruhur  
+२९६६ कण्णित् तण् अम् तुऴाय् मुडिक् कमलत् तडम् पॆरुङ्  
+       गण्णनैप् पुगऴ्  
+नण्णि तॆन् गुरुगूर्च् चडगोबन् माऱन् सॊन्न  
+       ऎण्णिल् सोर्वु इल् अन्दादि आयिरत्तुळ् इवैयुम्  
+ओर् पत्तु इसैयॊडुम्  
+       पण्णिल् पाड वल्लार् अवर् केसवन् तमरे (११)  
+२९६६। Saḍagopan of famous southern Thirukuruhur  
 composed a thousand andadi pasurams  
 praising the wonderful lotus-eyed Kaṇṇan  
 who wears beautiful thulasi garlands on his head.  
@@ -2221,14 +2222,14 @@ If devotees learn these ten pasurams and sing them
 they will be the devotees of Kesavan.  
 -------------  
 
-திருவாய் மொழி - இரண்டாம் பத்து (ஏழாம் திருமொழி, 2967-2977)  
-பன்னிரு நாமப் பாட்டு  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु (एऴाम् तिरुमॊऴि, २९६७-२९७७)  
+पन्निरु नामप् पाट्टु  
 
-2967 கேசவன் தமர் கீழ் மேல் எமர் ஏழ் எழு பிறப்பும்  
-மா சதிர் இது பெற்று நம்முடை வாழ்வு வாய்க்கின்றவா!  
-ஈசன் என் கருமாணிக்கம் என் செங்கோலக் கண்ணன் விண்ணோர்  
-நாயகன் எம் பிரான் எம்மான் நாராயணனாலே (1)  
-2967. He is a dark diamond.  
+२९६७ केसवन् तमर् कीऴ् मेल् ऎमर् एऴ् ऎऴु पिऱप्पुम्  
+मा सदिर् इदु पॆट्रु नम्मुडै वाऴ्वु वाय्क्किण्ड्रवा!  
+ईसन् ऎन् करुमाणिक्कम् ऎन् सॆङ्गोलक् कण्णन् विण्णोर्  
+नायगन् ऎम् पिरान् ऎम्मान् नारायणनाले (१)  
+२९६७। He is a dark diamond.  
 The god Kaṇṇan has a beautiful form.  
 He is the lord of the gods in the sky.  
 Whether they are rich or poor,  
@@ -2237,22 +2238,22 @@ faultless lives for all their seven births.
 Everything happens on his earth  
 because of our lord, our father Narayanan.  
 
-2968 நாரணன் முழு ஏழ் உலகுக்கும் நாதன் வேத மயன்  
-காரணம் கிரிசை கருமம் இவை முதல்வன் எந்தை  
-சீர் அணங்கு அமரர் பிறர் பலரும் தொழுது ஏத்த நின்று  
-வாரணத்தை மருப்பு ஒசித்த பிரான் என் மாதவனே (2)  
-2968. Naraṇan is the lord of the seven worlds.  
+२९६८ नारणन् मुऴु एऴ् उलगुक्कुम् नादन् वेद मयन्  
+कारणम् किरिसै करुमम् इवै मुदल्वन् ऎन्दै  
+सीर् अणङ्गु अमरर् पिऱर् पलरुम् तॊऴुदु एत्त निण्ड्रु  
+वारणत्तै मरुप्पु ऒचित्त पिरान् ऎन् मादवने (२)  
+२९६८। Naraṇan is the lord of the seven worlds.  
 He is the creator of the Vedas.  
 He is the cause, action and karma of the world.  
 He is my father. Our god Madhavan  
 broke the tusks of the elephant Kuvalayabeedam.  
 He is beautiful and all gods worship him.  
 
-2969 மாதவன் என்றதே கொண்டு என்னை இனி இப்பால் பட்டது  
-யாது அவங்களும் சேர்கொடேன் என்று என்னுள் புகுந்து இருந்து  
-தீது அவம் கெடுக்கும் அமுதம் செந்தாமரைக் கண் குன்றம்  
-கோது அவம் இல் என் கன்னல் கட்டி எம்மான் என் கோவிந்தனே (3)  
-2969. As soon as I said the word Madhavan  
+२९६९ मादवन् ऎण्ड्रदे कॊण्डु ऎन्नै इनि इप्पाल् पट्टदु  
+यादु अवङ्गळुम् सेर्गॊडेन् ऎण्ड्रु ऎन्नुळ् पुगुन्दु इरुन्दु  
+तीदु अवम् कॆडुक्कुम् अमुदम् सॆन्दामरैक् कण् कुण्ड्रम्  
+कोदु अवम् इल् ऎन् कन्नल् कट्टि ऎम्मान् ऎन् कोविन्दने (३)  
+२९६९। As soon as I said the word Madhavan  
 he came and entered my heart.  
 He gave me his grace  
 so that no trouble will come to me.  
@@ -2261,11 +2262,11 @@ The lotus-eyed lord is strong as a hill
 and sweet as faultless sugar.  
 Govindan is my father.  
 
-2970 கோவிந்தன் குடக் கூத்தன் கோவலன் என்று என்றே குனித்துத்  
-தேவும் தன்னையும் பாடி ஆடத் திருத்தி என்னைக் கொண்டு என்  
-பாவம் தன்னையும் பாறக் கைத்து எமர் ஏழ் எழு பிறப்பும்  
-மேவும் தன்மையம் ஆக்கினான் வல்லன் எம்பிரான் விட்டுவே (4)  
-2970. He is my dear Govindan.  
+२९७० कोविन्दन् कुडक् कूत्तन् कोवलन् ऎण्ड्रु ऎण्ड्रे कुनित्तुत्  
+तेवुम् तन्नैयुम् पाडि आडत् तिरुत्ति ऎन्नैक् कॊण्डु ऎन्  
+पावम् तन्नैयुम् पाऱक् कैत्तु ऎमर् एऴ् ऎऴु पिऱप्पुम्  
+मेवुम् तन्मैयम् आक्किनान् वल्लन् ऎम्बिरान् विट्टुवे (४)  
+२९७०। He is my dear Govindan.  
 He dances on a pot saying, "I am Gopalan!"  
 He makes the gods sing and dance with him.  
 He accepted me and removed all my faults and my karma.  
@@ -2273,43 +2274,43 @@ My father, the strong lord gave his grace to me
 and to all my friends and relatives  
 and made us join him for all our seven births.  
 
-2971 விட்டு இலங்கு செஞ்சோதித் தாமரை பாதம் கைகள் கண்கள்  
-விட்டு இலங்கு கருஞ்சுடர் மலையே திரு உடம்பு  
-விட்டு இலங்கு மதியம் சீர் சங்கு சக்கரம் பரிதி  
-விட்டு இலங்கு முடி அம்மான் மதுசூதனன் தனக்கே (5)  
-2971. Our father Madhusudanan is adorned  
+२९७१ विट्टु इलङ्गु सॆञ्जोदित् तामरै पादम् कैगळ् कण्गळ्  
+विट्टु इलङ्गु करुञ्जुडर् मलैये तिरु उडम्बु  
+विट्टु इलङ्गु मदियम् सीर् सङ्गु सक्करम् परिदि  
+विट्टु इलङ्गु मुडि अम्मान् मदुसूदनन् तनक्के (५)  
+२९७१। Our father Madhusudanan is adorned  
 with a shining crown that spreads light everywhere.  
 His eyes, feet and hands are beautiful like lotuses.  
 His divine body is like a dark shining mountain.  
 His conch is bright like the moon. and his discus shines like the sun.  
 
-2972 மதுசூதனை அன்றி மற்று இலேன் என்று எத்தாலும் கருமம் இன்றி  
-துதி சூழ்ந்த பாடல்கள் பாடி ஆட நின்று ஊழி ஊழிதொறும்  
-எதிர் சூழல் புக்கு எனைத்தோர் பிறப்பும் எனக்கே அருள்கள் செய்ய  
-விதி சூழ்ந்ததால் எனக்கேல் அம்மான் திரிவிக்கிரமனையே (6)  
-2972. I do not have anyone as my refuge except Madhusudanan.  
+२९७२ मदुसूदनै अण्ड्रि मट्रु इलेन् ऎण्ड्रु ऎत्तालुम् करुमम् इण्ड्रि  
+तुदि सूऴ्न्द पाडल्गळ् पाडि आड निण्ड्रु ऊऴि ऊऴिदॊऱुम्  
+ऎदिर् सूऴल् पुक्कु ऎनैत्तोर् पिऱप्पुम् ऎनक्के अरुळ्गळ् सॆय्य  
+विधि सूऴ्न्ददाल् ऎनक्केल् अम्मान् तिरिविक्किरमनैये (६)  
+२९७२। I do not have anyone as my refuge except Madhusudanan.  
 I do not do anything except to praise the lord,  
 sing songs and dance for eon after eon.  
 He comes before me in all my births  
 and gives me his grace and through my good fate.  
 I have joined my father Thirivikraman.  
 
-2973 திரிவிக்கிரமன் செந்தாமரைக் கண் எம்மான் என் செங்கனி வாய்  
-உருவில் பொலிந்த வெள்ளைப் பளிங்கு நிறத்தனன் என்று என்று உள்ளி  
-பரவிப் பணிந்து பல் ஊழி ஊழி நின் பாத பங்கயமே  
-மருவித் தொழும் மனமே தந்தாய் வல்லைகாண் என் வாமனனே (7)  
-2973. Praising you, I say, "You are Thirivikraman, my father.  
+२९७३ तिरिविक्किरमन् सॆन्दामरैक् कण् ऎम्मान् ऎन् सॆङ्गनि वाय्  
+उरुविल् पॊलिन्द वॆळ्ळैप् पळिङ्गु निऱत्तनन् ऎण्ड्रु ऎण्ड्रु उळ्ळि  
+परविप् पणिन्दु पल् ऊऴि ऊऴि निन् पाद पङ्गयमे  
+मरुवित् तॊऴुम् मनमे तन्दाय् वल्लैगाण् ऎन् वामनने (७)  
+२९७३। Praising you, I say, "You are Thirivikraman, my father.  
 You have beautiful lotus eyes, a red mouth  
 sweet as a fruit and teeth white as marble."  
 I worship your lotus feet in all eons.  
 You granted me a mind that worships you always.  
 You are a dwarf and you are strong.  
 
-2974 வாமனன் என் மரகத வண்ணன் தாமரைக் கண்ணினன்  
-காமனைப் பயந்தாய் என்று என்று உன் கழல் பாடியே பணிந்து  
-தூ மனத்தனனாய்ப் பிறவித் துழதி நீங்க என்னைத்  
-தீ மனம் கெடுத்தாய் உனக்கு என் செய்கேன்? என் சிரீதரனே (8)  
-2974. I praise your feet and worship you saying,  
+२९७४ वामनन् ऎन् मरगद वण्णन् तामरैक् कण्णिनन्  
+कामनैप् पयन्दाय् ऎण्ड्रु ऎण्ड्रु उन् कऴल् पाडिये पणिन्दु  
+तू मनत्तननाय्प् पिऱवित् तुऴदि नीङ्ग ऎन्नैत्  
+ती मनम् कॆडुत्ताय् उनक्कु ऎन् सॆय्गेन्? ऎन् सिरीदरने (८)  
+२९७४। I praise your feet and worship you saying,  
 "You are a dwarf.  
 You have the color of emerald.  
 Your eyes are beautiful as lotuses.  
@@ -2319,11 +2320,11 @@ removed the troubles of birth
 and destroyed the evil thoughts in my mind.  
 O Sridhara! What can I give you in return?  
 
-2975 சிரீதரன் செய்ய தாமரைக் கண்ணன் என்று என்று இராப்பகல் வாய்  
-வெரீஇ அலமந்து கண்கள் நீர் மல்கி வெவ்வுயிர்த்து உயிர்த்து  
-மரீஇய தீவினை மாள இன்பம் வளர வைகல் வைகல்  
-இரீஇ உன்னை என்னுள் வைத்தனை என் இருடீகேசனே (9)  
-2975. I praised you saying,  
+२९७५ सिरीदरन् सॆय्य तामरैक् कण्णन् ऎण्ड्रु ऎण्ड्रु इराप्पगल् वाय्  
+वॆरीइ अलमन्दु कण्गळ् नीर् मल्गि वॆव्वुयिर्त्तु उयिर्त्तु  
+मरीइय तीविनै माळ इन्बम् वळर वैगल् वैगल्  
+इरीइ उन्नै ऎन्नुळ् वैत्तनै ऎन् इरुडीगेसने (९)  
+२९७५। I praised you saying,  
 "You, Sridharan, have beautiful lotus eyes."  
 I was anxious and frightened day and night.  
 My eyes were filled with water,  
@@ -2333,11 +2334,11 @@ taking away my bad karma.
 O my Rishikesa! every day I will keep you in my mind  
 and my joy will increase more and more.  
 
-2976 இருடீகேசன் எம் பிரான் இலங்கை அரக்கர் குலம்  
-முருடு தீர்த்த பிரான் எம்மான் அமரர் பெம்மான் என்று என்று  
-தெருடியாகில் நெஞ்சே வணங்கு திண்ணம் அறி அறிந்து  
-மருடியேலும் விடேல் கண்டாய் நம்பி பற்பநாபனையே (10)  
-2976. He is my dear Rishikesan.  
+२९७६ इरुडीगेसन् ऎम् पिरान् इलङ्गै अरक्कर् कुलम्  
+मुरुडु तीर्त्त पिरान् ऎम्मान् अमरर् पॆम्मान् ऎण्ड्रु ऎण्ड्रु  
+तॆरुडियागिल् नॆञ्जे वणङ्गु तिण्णम् अऱि अऱिन्दु  
+मरुडियेलुम् विडेल् कण्डाय् नम्बि पऱ्‌पनाबनैये (१०)  
+२९७६। He is my dear Rishikesan.  
 He destroyed the Rakshasa clan in Lanka.  
 He is the lord of the gods in the sky.  
 O heart, bow to him  
@@ -2345,12 +2346,12 @@ and know surely that he is the almighty.
 Even if you are confused  
 keep Padmanabhan firmly in your heart.  
 
-2977 பற்பநாபன் உயர்வு அற உயரும் பெரும் திறலோன்  
-எற்பரன் என்னை ஆக்கிக் கொண்டு எனக்கே தன்னைத் தந்த  
-கற்பகம் என் அமுதம் கார் முகில் போலும் வேங்கட நல்  
-வெற்பன் விசும்போர் பிரான் எந்தை தாமோதரனே (11)  
+२९७७ पऱ्‌पनाबन् उयर्वु अऱ उयरुम् पॆरुम् तिऱलोन्  
+ऎऱ्‌परन् ऎन्नै आक्किक् कॊण्डु ऎनक्के तन्नैत् तन्द  
+कऱ्‌पगम् ऎन् अमुदम् कार् मुगिल् पोलुम् वेङ्गड नल्  
+वॆऱ्‌पन् विसुम्बोर् पिरान् ऎन्दै तामोदरने (११)  
 
-2977. The lord Padmanabhan has more strength and greatness  
+२९७७। The lord Padmanabhan has more strength and greatness  
 than all the gods and the creatures of the world.  
 He is my highest god.  
 He is as generous as the Karpaga tree.  
@@ -2360,22 +2361,22 @@ He has the color of a dark cloud.
 Our majestic god stays in the Thiruvenkatam hills.  
 Our father Damodharan is the lord of the gods in the sky.  
 
-2978 தாமோதரனை தனி முதல்வனை ஞாலம் உண்டவனை  
-ஆமோ தரம் அறிய ஒருவர்க்கு? என்றே தொழும் அவர்கள்  
-தாமோதரன் உரு ஆகிய சிவற்கும் திசைமுகற்கும்  
-ஆமோ தரம் அறிய எம்மானை என் ஆழி வண்ணனையே? (12)  
-2978. His devotees worship him saying,  
+२९७८ तामोदरनै तनि मुदल्वनै ञालम् उण्डवनै  
+आमो तरम् अऱिय ऒरुवर्क्कु? ऎण्ड्रे तॊऴुम् अवर्गळ्  
+तामोदरन् उरु आगिय सिवऱ्‌कुम् तिसैमुगऱ्‌कुम्  
+आमो तरम् अऱिय ऎम्मानै ऎन् आऴि वण्णनैये? (१२)  
+२९७८। His devotees worship him saying,  
 "He is our ancient lord.  
 He swallowed the earth.  
 Is it possible for someone to know Damodharan, our lord?  
 Even Shiva and Nanmuhan who has heads on all directions  
 were not able to reach the feet or head of the ocean-colored lord."  
 
-2979 வண்ண மா மணிச் சோதியை அமரர் தலைமகனை  
-கண்ணனை நெடுமாலைத் தென் குருகூர்ச் சடகோபன்  
-பண்ணிய தமிழ் மாலை ஆயிரத்துள் இவை பன்னிரண்டும்  
-பண்ணில் பன்னிரு நாமப் பாட்டு அண்ணல் தாள் அணைவிக்குமே (13)  
-2979. Sadagopan of southern Thirukuruhur  
+२९७९ वण्ण मा मणिच् चोदियै अमरर् तलैमगनै  
+कण्णनै नॆडुमालैत् तॆन् गुरुगूर्च् चडगोबन्  
+पण्णिय तमिऴ् मालै आयिरत्तुळ् इवै पन्निरण्डुम्  
+पण्णिल् पन्निरु नामप् पाट्टु अण्णल् ताळ् अणैविक्कुमे (१३)  
+२९७९। Sadagopan of southern Thirukuruhur  
 composed a garland of a thousand Tamil pasurams  
 on Kaṇṇan, the precious stone and a bright light,  
 Nedumaal, the lord of the gods in the sky.  
@@ -2383,25 +2384,25 @@ If devotees learn and sing these twelve pasurams
 they will reach the feet of the highest god.  
 ---------  
 
-திருவாய் மொழி - இரண்டாம் பத்து (எட்டாம் திருமொழி, 2980-2990)  
-எம்பெருமானது மோக்ஷம் அளிக்கும் தன்மை  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु (ऎट्टाम् तिरुमॊऴि, २९८०-२९९०)  
+ऎम्बॆरुमानदु मोक्षम् अळिक्कुम् तन्मै  
 
-2980 அணைவது அரவு அணைமேல் பூம்பாவை ஆகம்  
-புணர்வது இருவர் அவர் முதலும் தானே  
-இணைவன் ஆம் எப் பொருட்கும் வீடு முதல் ஆம்  
-புணைவன் பிறவிக்கடல் நீந்துவார்க்கே (1)  
-2980. He sleeps on a snake bed.  
+२९८० अणैवदु अरवु अणैमेल् पूम्बावै आगम्  
+पुणर्वदु इरुवर् अवर् मुदलुम् ताने  
+इणैवन् आम् ऎप् पॊरुट्कुम् वीडु मुदल् आम्  
+पुणैवन् पिऱविक्कडल् नीन्दुवार्क्के (१)  
+२९८०। He sleeps on a snake bed.  
 On his chest he embraces Lakshmi who stays on the lotus.  
 He created Shiva and Nanmuhan.  
 He is a friend of all creatures.  
 He gives moksha to all his devotees.  
 He is the boat for those who would cross the ocean of birth.  
 
-2981 நீந்தும் துயர்ப் பிறவி உட்பட மற்று எவ் எவையும்  
-நீந்தும் துயர் இல்லா வீடு முதல் ஆம்  
-பூந் தண் புனல் பொய்கை யானை இடர் கடிந்த  
-பூந் தண் துழாய் என் தனி நாயகன் புணர்ப்பே (2)  
-2981. He removes the ocean of sorrowful births for his devotees.  
+२९८१ नीन्दुम् तुयर्प् पिऱवि उट्पड मट्रु ऎव् ऎवैयुम्  
+नीन्दुम् तुयर् इल्ला वीडु मुदल् आम्  
+पून् दण् पुनल् पॊय्गै यानै इडर् कडिन्द  
+पून् दण् तुऴाय् ऎन् तनि नायगन् पुणर्प्पे (२)  
+२९८१। He removes the ocean of sorrowful births for his devotees.  
 He removes all the troubles of life for them.  
 and grants them moksha, a dwelling that has no sorrow.  
 He saved the elephant Gajendra  
@@ -2409,31 +2410,31 @@ when he was caught by a crocodile in a cool blooming pond.
 The difficulties of his devotees will go away  
 when they join the matchless god adorned with a thulasi garland.  
 
-2982 புணர்க்கும் அயன் ஆம் அழிக்கும் அரன் ஆம்  
-புணர்த்த தன் உந்தியொடு ஆகத்து மன்னி  
-புணர்த்த திருஆகித் தன் மார்வில் தான் சேர்  
-புணர்ப்பன் பெரும் புணர்ப்பு எங்கும் புலனே (3)  
-2982. He keeps Brahma, the creator of the world, on his navel.  
+२९८२ पुणर्क्कुम् अयन् आम् अऴिक्कुम् अरन् आम्  
+पुणर्त्त तन् उन्दियॊडु आगत्तु मन्नि  
+पुणर्त्त तिरुआगित् तन् मार्विल् तान् सेर्  
+पुणर्प्पन् पॆरुम् पुणर्प्पु ऎङ्गुम् पुलने (३)  
+२९८२। He keeps Brahma, the creator of the world, on his navel.  
 He keeps Shiva, the destroyer of the world,  
 on the left part of his body.  
 He keeps lovely Lakshmi on his chest and embraces her.  
 He exists everywhere and in everything you see in the world.  
 
-2983 புலன் ஐந்து மேயும் பொறி ஐந்தும் நீங்கி  
-நலம் அந்தம் இல்லது ஓர் நாடு புகுவீர்  
-அலமந்து வீய அசுரரைச் செற்றான்  
-பலம் முந்து சீரில் படிமின் ஒவாதே (4)  
-2983. O devotees, if you control your five senses  
+२९८३ पुलन् ऐन्दु मेयुम् पॊऱि ऐन्दुम् नीङ्गि  
+नलम् अन्दम् इल्लदु ओर् नाडु पुगुवीर्  
+अलमन्दु वीय असुररैच् चॆट्रान्  
+पलम् मुन्दु सीरिल् पडिमिन् ऒवादे (४)  
+२९८३। O devotees, if you control your five senses  
 and the pleasures that they give  
 you will enter endless moksha that is pure goodness.  
 He is strong and he killed the Asurans.  
 You praise his divine qualities and stay with him always.  
 
-2984 ஓவாத் துயர்ப் பிறவி உட்பட மற்று எவ் எவையும்  
-மூவாத் தனி முதலாய் மூவுலகும் காவலோன்  
-மா ஆகி ஆமை ஆய் மீன் ஆகி மானிடம் ஆம்  
-தேவாதி தேவ பெருமான் என் தீர்த்தனே (5)  
-2984. He is matchless and ancient.  
+२९८४ ओवात् तुयर्प् पिऱवि उट्पड मट्रु ऎव् ऎवैयुम्  
+मूवात् तनि मुदलाय् मूवुलगुम् कावलोन्  
+मा आगि आमै आय् मीन् आगि मानिडम् आम्  
+तेवादि तेव पॆरुमान् ऎन् तीर्त्तने (५)  
+२९८४। He is matchless and ancient.  
 He protects his devotees of all the three worlds  
 from the sorrowful births that come ceaselessly  
 and from all trouble in their lives.  
@@ -2441,11 +2442,11 @@ The everlasting god of the gods, the pure one,
 took the forms of a horse, turtle, fish  
 and human to protect this world from evil.  
 
-2985 தீர்த்தன் உலகு அளந்த சேவடிமேல் பூந்தாமம்  
-சேர்த்தி அவையே சிவன் முடிமேல் தான் கண்டு  
-பார்த்தன் தெளிந்தொழிந்த பைந்துழாயான் பெருமை  
-பேர்த்தும் ஒருவரால் பேசக் கிடந்ததே? (6)  
-2985. He is pure.  
+२९८५ तीर्त्तन् उलगु अळन्द सेवडिमेल् पून्दामम्  
+सेर्त्ति अवैये सिवन् मुडिमेल् तान् कण्डु  
+पार्त्तन् तॆळिन्दॊऴिन्द पैन्दुऴायान् पॆरुमै  
+पेर्त्तुम् ऒरुवराल् पेसक् किडन्ददे? (६)  
+२९८५। He is pure.  
 Arjuna worshipped Shiva,  
 adorning him with flower garlands.  
 When he saw the same garlands  
@@ -2454,12 +2455,12 @@ he realized that Kaṇṇan is the real god.
 Who can praise the greatness of him,  
 adorned with beautiful thulasi garlands?  
 
-2986 கிடந்து இருந்து நின்று அளந்து கேழல் ஆய் கீழ்ப் புக்கு  
-இடந்திடும் தன்னுள் கரக்கும் உமிழும்  
-தடம் பெருந் தோள் ஆரத் தழுவும் பார் என்னும்  
-மடந்தையை மால் செய்கின்ற மால் ஆர் காண்பாரே? (7)  
-2986. He sleeps on the ocean.  
-He measured the world and the sky with his two feet .  
+२९८६ किडन्दु इरुन्दु निण्ड्रु अळन्दु केऴल् आय् कीऴ्प् पुक्कु  
+इडन्दिडुम् तन्नुळ् करक्कुम् उमिऴुम्  
+तडम् पॆरुन् दोळ् आरत् तऴुवुम् पार् ऎन्नुम्  
+मडन्दैयै माल् सॆय्गिण्ड्र माल् आर् काण्बारे? (७)  
+२९८६। He sleeps on the ocean.  
+He measured the world and the sky with his two feet ।  
 He split open the earth and went to the underworld  
 in the form of a boar and raised the earth goddess.  
 He swallowed the earth and spat it out.  
@@ -2467,11 +2468,11 @@ He embraced the earth goddess with his wide arms.
 Who can understand the things  
 that he does out of love for the earth goddess?  
 
-2987 காண்பார் ஆர் எம் ஈசன் கண்ணனை? என் காணுமாறு?  
-ஊண் பேசில் எல்லா உலகும் ஓர் துற்று ஆற்றா  
-சேண் பால வீடோ உயிரோ மற்று எப் பொருட்கும்  
-ஏண் பாலும் சோரான் பரந்து உளன் ஆம் எங்குமே (8)  
-2987. Who can see our Esan?  
+२९८७ काण्बार् आर् ऎम् ईसन् कण्णनै? ऎन् काणुमाऱु?  
+ऊण् पेसिल् ऎल्ला उलगुम् ओर् तुट्रु आट्रा  
+सेण् पाल वीडो उयिरो मट्रु ऎप् पॊरुट्कुम्  
+एण् पालुम् सोरान् परन्दु उळन् आम् ऎङ्गुमे (८)  
+२९८७। Who can see our Esan?  
 Is there any way someone could see our dear Kaṇṇan?  
 Even though he swallowed the whole world  
 it will not be enough for him.  
@@ -2479,11 +2480,11 @@ His heaven contains all the worlds.
 He is the soul of all the creatures on the earth.  
 He is omnipresent and there is no place where he is not.  
 
-2988 எங்கும் உளன் கண்ணன் என்ற மகனைக் காய்ந்து  
-இங்கு இல்லையால் என்று இரணியன் தூண் புடைப்ப  
-அங்கு அப்பொழுதே அவன் வீயத் தோன்றிய என்  
-சிங்கப் பிரான் பெருமை ஆராயும் சீர்மைத்தே? (9)  
-2988. Prahaladan the son of Hiraṇyan said,  
+२९८८ ऎङ्गुम् उळन् कण्णन् ऎण्ड्र मगनैक् काय्न्दु  
+इङ्गु इल्लैयाल् ऎण्ड्रु इरणियन् तूण् पुडैप्प  
+अङ्गु अप्पॊऴुदे अवन् वीयत् तोण्ड्रिय ऎन्  
+सिङ्गप् पिरान् पॆरुमै आरायुम् सीर्मैत्ते? (९)  
+२९८८। Prahaladan the son of Hiraṇyan said,  
 "Kaṇṇan is everywhere,"  
 and his father opposed him saying,  
 "See, he will not be here in this pillar,"  
@@ -2492,22 +2493,22 @@ Maal came out as a man-lion and killed him.
 Who can understand the power of him  
 who took the form of a lion?  
 
-2989 சீர்மை கொள் வீடு சுவர்க்கம் நரகு ஈறா  
-ஈர்மை கொள் தேவர் நடுவா மற்று எப் பொருட்கும்  
-வேர் முதல் ஆய் வித்து ஆய் பரந்து தனி நின்ற  
-கார் முகில் போல் வண்ணன் என் கண்ணனை நான் கண்டேனே (10)  
-2989. He is the lord of the divine world of the gods,  
+२९८९ सीर्मै कॊळ् वीडु सुवर्क्कम् नरगु ईऱा  
+ईर्मै कॊळ् तेवर् नडुवा मट्रु ऎप् पॊरुट्कुम्  
+वेर् मुदल् आय् वित्तु आय् परन्दु तनि निण्ड्र  
+कार् मुगिल् पोल् वण्णन् ऎन् कण्णनै नान् कण्डेने (१०)  
+२९८९। He is the lord of the divine world of the gods,  
 of moksha and of hell.  
 He, the lord of the gods, stays in the middle world also.  
 He is the root and seed of all things.  
 He is spread everywhere but also stands alone.  
 I saw the dark cloud-colored Kaṇṇan.  
 
-2990 கண் தலங்கள் செய்ய கரு மேனி அம்மானை  
-வண்டு அலம்பும் சோலை வழுதி வள நாடன்  
-பண் தலையில் சொன்ன தமிழ் ஆயிரத்து இப் பத்தும் வலார்  
-விண் தலையில் வீற்றிருந்து ஆள்வர் எம் மா வீடே (11)  
-2990. Sadagopan from the flourishing Pandya country  
+२९९० कण् तलङ्गळ् सॆय्य करु मेनि अम्मानै  
+वण्डु अलम्बुम् सोलै वऴुदि वळ नाडन्  
+पण् तलैयिल् सॊन्न तमिऴ् आयिरत्तु इप् पत्तुम् वलार्  
+विण् तलैयिल् वीट्रिरुन्दु आळ्वर् ऎम् मा वीडे (११)  
+२९९०। Sadagopan from the flourishing Pandya country  
 filled with groves where bees swarm  
 composed a thousand Tamil pasurams with music  
 to the dear god who has a dark body and bright eyes.  
@@ -2515,58 +2516,58 @@ If devotees learn these ten pasurams and recite them well
 they will reach moksha in the sky.  
 ---------  
 
-திருவாய் மொழி - இரண்டாம் பத்து (ஒன்பதாம் திருமொழி, 2991-3001)  
-புருஷார்த்த நிர்ணயம்  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, २९९१-३००१)  
+पुरुषार्त्त निर्णयम्  
 
-2991 எம் மா வீட்டுத் திறமும் செப்பம் நின்  
-செம் மா பாட பற்புத் தலை சேர்த்து ஒல்லை  
-கைம்மா துன்பம் கடிந்த பிரானே  
-அம்மா அடியேன் வேண்டுவது ஈதே (1)  
-2991. You removed the suffering of Gajendra the elephant  
+२९९१ ऎम् मा वीट्टुत् तिऱमुम् सॆप्पम् निन्  
+सॆम् मा पाड पऱ्‌पुत् तलै सेर्त्तु ऒल्लै  
+कैम्मा तुन्बम् कडिन्द पिराने  
+अम्मा अडियेन् वेण्डुवदु ईदे (१)  
+२९९१। You removed the suffering of Gajendra the elephant  
 and saved him from the crocodile.  
 I do not wish to ask about wonderful moksha.  
 I only want you to put your divine lotus feet on my head.  
 You are my mother—  
 this is the only thing I, your devotee, want.  
 
-2992 ஈதே யான் உன்னைக் கொள்வது எஞ்ஞான்றும் என்  
-மை தோய் சோதி மணிவண்ண எந்தாய்  
-எய்தா நின் கழல் யான் எய்த ஞானக்  
-கை தா காலக் கழிவு செய்யேலே (2)  
-2992. This is the only thing I always want from you.  
+२९९२ ईदे यान् उन्नैक् कॊळ्वदु ऎञ्ञाण्ड्रुम् ऎन्  
+मै तोय् सोदि मणिवण्ण ऎन्दाय्  
+ऎय्दा निन् कऴल् यान् ऎय्द ज्ञानक्  
+कै ता कालक् कऴिवु सॆय्येले (२)  
+२९९२। This is the only thing I always want from you.  
 You are a bright light!  
 You have the color of a diamond.  
 O my father, I want to reach your feet that no one can approach.  
 Give me wisdom so that I may attain you.  
 Do not wait long.  
 
-2993 செய்யேல் தீவினை என்று அருள் செய்யும் என்  
-கை ஆர் சக்கரக் கண்ண பிரானே  
-ஐ ஆர் கண்டம் அடைக்கிலும் நின் கழல்  
-எய்யாது ஏத்த அருள்செய் எனக்கே (3)  
-2993. O Kannan!  
+२९९३ सॆय्येल् तीविनै ऎण्ड्रु अरुळ् सॆय्युम् ऎन्  
+कै आर् सक्करक् कण्ण पिराने  
+ऐ आर् कण्डम् अडैक्किलुम् निन् कऴल्  
+ऎय्यादु एत्त अरुळ्सॆय् ऎनक्के (३)  
+२९९३। O Kannan!  
 You carry a discus in your hand.  
 Give me your grace so I will not do evil.  
 Even when I die and phlegm fills my throat  
 give me your grace so that  
 I will praise you without forgetting you.  
 
-2994 எனக்கே ஆட்செய் எக் காலத்தும் என்று என்  
-மனக்கே வந்து இடைவீடு இன்றி மன்னி  
-தனக்கே ஆக எனைக் கொள்ளும் ஈதே  
-எனக்கே கண்ணனை யான் கொள் சிறப்பே (4)  
-2994. Give me your grace saying,  
+२९९४ ऎनक्के आट्चॆय् ऎक् कालत्तुम् ऎण्ड्रु ऎन्  
+मनक्के वन्दु इडैवीडु इण्ड्रि मन्नि  
+तनक्के आग ऎनैक् कॊळ्ळुम् ईदे  
+ऎनक्के कण्णनै यान् कॊळ् सिऱप्पे (४)  
+२९९४। Give me your grace saying,  
 "Be my devotee always."  
 Enter my mind making me yourself  
 and staying there without leaving ever.  
 I receive Kaṇṇan and make him mine  
 and that is the most wonderful thing I could ever have.  
 
-2995 சிறப்பில் வீடு சுவர்க்கம் நரகம்  
-இறப்பில் எய்துக எய்தற்க யானும்  
-பிறப்பு இல் பல் பிறவிப் பெருமானை  
-மறப்பு ஒன்று இன்றி என்றும் மகிழ்வனே (5)  
-2995. I do not mind  
+२९९५ सिऱप्पिल् वीडु सुवर्क्कम् नरगम्  
+इऱप्पिल् ऎय्दुग ऎय्दऱ्‌क यानुम्  
+पिऱप्पु इल् पल् पिऱविप् पॆरुमानै  
+मऱप्पु ऒण्ड्रु इण्ड्रि ऎण्ड्रुम् मगिऴ्वने (५)  
+२९९५। I do not mind  
 whether I reach moksha, the heaven of the gods, or hell  
 when my life leaves my body.  
 I will worship the dear unborn god  
@@ -2574,11 +2575,11 @@ who takes many births in this world
 only to give his devotees his grace.  
 I will not forget him ever and I will be happy.  
 
-2996 மகிழ் கொள் தெய்வம் உலோகம் அலோகம்  
-மகிழ் கொள் சோதி மலர்ந்த அம்மானே  
-மகிழ் கொள் சிந்தை சொல் செய்கை கொண்டு என்றும்  
-மகிழ்வுற்று உன்னை வணங்க வாராயே (6)  
-2996. You created the gods and make them happy.  
+२९९६ मगिऴ् कॊळ् तॆय्वम् उलोकम् अलोकम्  
+मगिऴ् कॊळ् सोदि मलर्न्द अम्माने  
+मगिऴ् कॊळ् सिन्दै सॊल् सॆय्गै कॊण्डु ऎण्ड्रुम्  
+मगिऴ्वुट्रु उन्नै वणङ्ग वाराये (६)  
+२९९६। You created the gods and make them happy.  
 You are the knowledge and ignorance of the world.  
 You are the light that gives joy to all.  
 You are like a blooming flower.  
@@ -2586,78 +2587,78 @@ I want to worship you happily with my mind,
 my words and my deeds always.  
 Come joyfully to me so I may worship you.  
 
-2997 வாராய் உன் திருப் பாத மலர்க்கீழ்ப்  
-பேராதே யான் வந்து அடையும்படி  
-தாராதாய் உன்னை என்னுள் வைப்பில் என்றும்  
-ஆராதாய் எனக்கு என்றும் எக்காலே (7)  
-2997. Come! I want to stay beneath your divine lotus feet  
+२९९७ वाराय् उन् तिरुप् पाद मलर्क्कीऴ्प्  
+पेरादे यान् वन्दु अडैयुम्बडि  
+तारादाय् उन्नै ऎन्नुळ् वैप्पिल् ऎण्ड्रुम्  
+आरादाय् ऎनक्कु ऎण्ड्रुम् ऎक्काले (७)  
+२९९७। Come! I want to stay beneath your divine lotus feet  
 never moving from there.  
 You have not granted me your grace so I may reach your feet.  
 You have not entered my heart.  
 Come and stay in my heart always and in all situations.  
 
-2998 எக்காலத்து எந்தையாய் என்னுள் மன்னில் மற்று  
-எக் காலத்திலும் யாதொன்றும் வேண்டேன்  
-மிக்கார் வேத விமலர் விழுங்கும் என்  
-அக்காரக் கனியே உன்னை யானே (8)  
-2998. You are sweet like a fruit made of jaggery.  
+२९९८ ऎक्कालत्तु ऎन्दैयाय् ऎन्नुळ् मन्निल् मट्रु  
+ऎक् कालत्तिलुम् यादॊण्ड्रुम् वेण्डेन्  
+मिक्कार् वेद विमलर् विऴुङ्गुम् ऎन्  
+अक्कारक् कनिये उन्नै याने (८)  
+२९९८। You are sweet like a fruit made of jaggery.  
 You are worshiped by faultless sages, the scholars of the Vedas.  
 If you will always be my father  
 and stay in my heart,  
 I will not ask you for anything else.  
 
-2999 யானே என்னை அறியகிலாதே  
-யானே என் தனதே என்று இருந்தேன்  
-யானே நீ என் உடைமையும் நீயே  
-வானே ஏத்தும் எம் வானவர் ஏறே (9)  
-2999. I do not understand myself.  
+२९९९ याने ऎन्नै अऱियगिलादे  
+याने ऎन् तनदे ऎण्ड्रु इरुन्देन्  
+याने नी ऎन् उडैमैयुम् नीये  
+वाने एत्तुम् ऎम् वानवर् एऱे (९)  
+२९९९। I do not understand myself.  
 I thought only of myself and my possessions,  
 but now I know that I am you  
 and all that I own is yours.  
 You are a bull among the gods in the sky.  
 All the gods in the sky praise you.  
 
-3000 ஏறேல் ஏழும் வென்று ஏர் கொள் இலங்கையை  
-நீறே செய்த நெடுஞ் சுடர்ச் சோதி  
-தேறேல் என்னை உன் பொன் அடி சேர்த்து ஒல்லை  
-வேறே போக எஞ்ஞான்றும் விடலே (10)  
-3000. You conquered the seven bulls.  
+३००० एऱेल् एऴुम् वॆण्ड्रु एर् कॊळ् इलङ्गैयै  
+नीऱे सॆय्द नॆडुञ् जुडर्च् चोदि  
+तेऱेल् ऎन्नै उन् पॊन् अडि सेर्त्तु ऒल्लै  
+वेऱे पोग ऎञ्ञाण्ड्रुम् विडले (१०)  
+३०००। You conquered the seven bulls.  
 You are a bright light  
 that burned and destroyed the famous Lanka.  
 Do not rely on my efforts  
 but make me join your golden feet soon.  
 Do not make me go anywhere else.  
 
-3001 விடல் இல் சக்கரத்து அண்ணலை மேவல்  
-விடல் இல் வண் குருகூர்ச் சடகோபன்  
-கெடல் இல் ஆயிரத்துள் இவை பத்தும்  
-கெடல் இல் வீடு செய்யும் கிளர்வார்க்கே (11)  
-3001. Saḍagopan of Thirukuruhur  
+३००१ विडल् इल् सक्करत्तु अण्णलै मेवल्  
+विडल् इल् वण् गुरुगूर्च् चडगोबन्  
+कॆडल् इल् आयिरत्तुळ् इवै पत्तुम्  
+कॆडल् इल् वीडु सॆय्युम् किळर्वार्क्के (११)  
+३००१। Saḍagopan of Thirukuruhur  
 composed a thousand faultless poems  
 on the highest god who carries a heroic discus.  
 If devotees learn and recite these ten faultless pasurams  
 they will reach moksha where there is no suffering.  
 ------------  
 
-திருவாய் மொழி - இரண்டாம் பத்து (பத்தாம் திருமொழி, 3002-3012)  
-திருமாலிருஞ்சோலை மலையை வணங்குக  
+तिरुवाय् मॊऴि - इरण्डाम् पत्तु (पत्ताम् तिरुमॊऴि, ३००२-३०१२)  
+तिरुमालिरुञ्जोलै मलैयै वणङ्गुग  
 
-3002 கிளர் ஒளி இளமை கெடுவதன் முன்னம்  
-வளர் ஒளி மாயோன் மருவிய கோயில்  
-வளர் இளம் பொழில் சூழ் மாலிருஞ்சோலை  
-தளர்வு இலர் ஆகிச் சார்வது சதிரே (1)  
-3002. Before you become old and your youth goes away  
+३००२ किळर् ऒळि इळमै कॆडुवदन् मुन्नम्  
+वळर् ऒळि मायोन् मरुविय कोयिल्  
+वळर् इळम् पॊऴिल् सूऴ् मालिरुञ्जोलै  
+तळर्वु इलर् आगिच् चार्वदु सदिरे (१)  
+३००२। Before you become old and your youth goes away  
 it is good to go to the temple  
 where Maayon shines in Thirumalirunjolai  
 surrounded by fresh flourishing groves.  
 To go there without holding back,  
 to dance and worship him is what you should do  
 
-3003 சதிர் இள மடவார் தாழ்ச்சியை மதியாது  
-அதிர் குரல் சங்கத்து அழகர் தம் கோயில்  
-மதி தவழ் குடுமி மாலிருஞ்சோலைப்  
-பதியது ஏத்தி எழுவது பயனே (2)  
-3003. The roaring sound of the conches  
+३००३ सदिर् इळ मडवार् ताऴ्च्चियै मदियादु  
+अदिर् कुरल् सङ्गत्तु अऴगर् तम् कोयिल्  
+मदि तवऴ् कुडुमि मालिरुञ्जोलैप्  
+पदियदु एत्ति ऎऴुवदु पयने (२)  
+३००३। The roaring sound of the conches  
 in the temple of the beautiful god in Thirumalirunjolai  
 is louder than the music of the dances  
 of beautiful young women.  
@@ -2666,33 +2667,33 @@ is to go to that temple and worship him
 in Thirumalirunjolai hills  
 where the moon shines on the top of the peaks.  
 
-3004 பயன் அல்ல செய்து பயன் இல்லை நெஞ்சே  
-புயல் மழை வண்ணர் புரிந்து உறை கோயில்  
-மயல் மிகு பொழில் சூழ் மாலிருஞ்சோலை  
-அயல்மலை அடைவது அது கருமமே (3)  
-3004. O heart! Doing useless things is not fruitful.  
+३००४ पयन् अल्ल सॆय्दु पयन् इल्लै नॆञ्जे  
+पुयल् मऴै वण्णर् पुरिन्दु उऱै कोयिल्  
+मयल् मिगु पॊऴिल् सूऴ् मालिरुञ्जोलै  
+अयल्मलै अडैवदु अदु करुममे (३)  
+३००४। O heart! Doing useless things is not fruitful.  
 He has the color of a cloud.  
 He stays in the temple in Thirumalirunjolai  
 surrounded by beautiful groves.  
 The purpose of your life is to go to that divine hill  
 and worship him.  
 
-3005 கரும வன் பாசம் கழித்து உழன்று உய்யவே  
-பெருமலை எடுத்தான் பீடு உறை கோயில்  
-வரு மழை தவழும் மாலிருஞ்சோலைத்  
-திருமலை அதுவே அடைவது திறமே (4)  
-3005. He removes the bad karma of all people  
+३००५ करुम वन् पासम् कऴित्तु उऴण्ड्रु उय्यवे  
+पॆरुमलै ऎडुत्तान् पीडु उऱै कोयिल्  
+वरु मऴै तवऴुम् मालिरुञ्जोलैत्  
+तिरुमलै अदुवे अडैवदु तिऱमे (४)  
+३००५। He removes the bad karma of all people  
 and protects them from trouble.  
 He carried Govardhana mountain.  
 The right thing is to go to divine Thirumalirunjolai  
 where clouds that drop rain move around the famous hills  
 and worship the lord.  
 
-3006 திறம் உடை வலத்தால் தீவினை பெருக்காது  
-அறம் முயல் ஆழிப் படையவன் கோயில்  
-மறு இல் வண் சுனை சூழ் மாலிருஞ்சோலைப்  
-புறமலை சாரப் போவது கிறியே (5)  
-3006. Do not increase your karma  
+३००६ तिऱम् उडै वलत्ताल् तीविनै पॆरुक्कादु  
+अऱम् मुयल् आऴिप् पडैयवन् कोयिल्  
+मऱु इल् वण् सुनै सूऴ् मालिरुञ्जोलैप्  
+पुऱमलै सारप् पोवदु किऱिये (५)  
+३००६। Do not increase your karma  
 doing bad things in your life.  
 He carries a discus that establishes dharma  
 and stays in the temple in Thirumalirunjolai  
@@ -2700,43 +2701,43 @@ surrounded by pure beautiful springs.
 To go to that mountain and worship him  
 is the path you should take.  
 
-3007 கிறி என நினைமின் கீழ்மை செய்யாதே  
-உறி அமர் வெண்ணெய் உண்டவன் கோயில்  
-மறியொடு பிணை சேர் மாலிருஞ்சோலை  
-நெறி பட அதுவே நினைவது நலமே (6)  
-3007. Do not do bad deeds.  
+३००७ किऱि ऎन निनैमिन् कीऴ्मै सॆय्यादे  
+उऱि अमर् वॆण्णॆय् उण्डवन् कोयिल्  
+मऱियॊडु पिणै सेर् मालिरुञ्जोलै  
+नॆऱि पड अदुवे निनैवदु नलमे (६)  
+३००७। Do not do bad deeds.  
 Think of doing good deeds.  
 He stole butter from the pot kept in the uri  
 and stays in the temple in Thirumalirunjolai  
 where does play with their fawns.  
 It is good to think him and worship him with devotion.  
 
-3008 நலம் என நினைமின் நரகு அழுந்தாதே  
-நிலம் முனம் இடந்தான் நீடு உறை கோயில்  
-மலம் அறு மதி சேர் மாலிருஞ்சோலை  
-வலம் முறை எய்தி மருவுதல் வலமே (7)  
-3008. Think only of doing good deeds and you will not go to hell.  
+३००८ नलम् ऎन निनैमिन् नरगु अऴुन्दादे  
+निलम् मुनम् इडन्दान् नीडु उऱै कोयिल्  
+मलम् अऱु मदि सेर् मालिरुञ्जोलै  
+वलम् मुऱै ऎय्दि मरुवुदल् वलमे (७)  
+३००८। Think only of doing good deeds and you will not go to hell.  
 The god took the form of a boar and split open the earth.  
 He stays in the temple in Thirumalirunjolai  
 where the faultless bright moon shines.  
 If you circle that hill,  
 goodness will abound in your life.  
 
-3009 வலஞ்செய்து வைகல் வலம் கழியாதே  
-வலஞ்செய்யும் ஆய மாயவன் கோயில்  
-வலஞ்செய்யும் வானோர் மாலிருஞ்சோலை  
-வலஞ்செய்து நாளும் மருவுதல் வழக்கே (8)  
-3009. Do not do bad things and spend your life in vain.  
+३००९ वलञ्जॆय्दु वैगल् वलम् कऴियादे  
+वलञ्जॆय्युम् आय मायवन् कोयिल्  
+वलञ्जॆय्युम् वानोर् मालिरुञ्जोलै  
+वलञ्जॆय्दु नाळुम् मरुवुदल् वऴक्के (८)  
+३००९। Do not do bad things and spend your life in vain.  
 Circle the temple of Maayavan every day  
 where the gods come and circle the hills of Thirumalirunjolai.  
 Get into the habit of circling that hill  
 and it will bring you good fortune.  
 
-3010 வழக்கு என நினைமின் வல்வினை மூழ்காது  
-அழக்கொடி அட்டான் அமர் பெருங்கோயில்  
-மழக் களிற்று இனம் சேர் மாலிருஞ்சோலை  
-தொழக் கருதுவதே துணிவது சூதே (9)  
-3010. Do not think it is just a custom to circle the temple.  
+३०१० वऴक्कु ऎन निनैमिन् वल्विनै मूऴ्गादु  
+अऴक्कॊडि अट्टान् अमर् पॆरुङ्गोयिल्  
+मऴक् कळिट्रु इनम् सेर् मालिरुञ्जोलै  
+तॊऴक् करुदुवदे तुणिवदु सूदे (९)  
+३०१०। Do not think it is just a custom to circle the temple.  
 If you circle the temple in Thirumalirunjolai  
 bad karma will not come to you.  
 He killed Putana. Worship him.  
@@ -2744,22 +2745,22 @@ He stays in the temple in Thirumalirunjolai
 where strong male elephants live together in groups.  
 This will give you victory in what you want to do  
 
-3011 சூது என்று களவும் சூதும் செய்யாதே  
-வேதம் முன் விரித்தான் விரும்பிய கோயில்  
-மாது உறு மயில் சேர் மாலிருஞ்சோலைப்  
-போது அவிழ் மலையே புகுவது பொருளே (10)  
-3011. Do not steal and gamble thinking you will gain something.  
+३०११ सूदु ऎण्ड्रु कळवुम् सूदुम् सॆय्यादे  
+वेदम् मुन् विरित्तान् विरुम्बिय कोयिल्  
+मादु उऱु मयिल् सेर् मालिरुञ्जोलैप्  
+पोदु अविऴ् मलैये पुगुवदु पॊरुळे (१०)  
+३०११। Do not steal and gamble thinking you will gain something.  
 He taught the Vedas to the sages.  
 He stays in the temple in Thirumalirunjolai  
 where beautiful peacocks dance.  
 Going to that mountain where beautiful flowers bloom  
 should be the object of your life.  
 
-3012 பொருள் என்று இவ் உலகம் படைத்தவன் புகழ்மேல்  
-மருள் இல் வண் குருகூர் வண் சடகோபன்  
-தெருள் கொள்ளச் சொன்ன ஓர் ஆயிரத்துள் இப் பத்து  
-அருளுடையவன் தாள் அணைவிக்கும் முடித்தே (11)  
-3012. Saḍagopan, the generous one of Thirukuruhur  
+३०१२ पॊरुळ् ऎण्ड्रु इव् उलगम् पडैत्तवन् पुगऴ्मेल्  
+मरुळ् इल् वण् गुरुगूर् वण् सडगोबन्  
+तॆरुळ् कॊळ्ळच् चॊन्न ओर् आयिरत्तुळ् इप् पत्तु  
+अरुळुडैयवन् ताळ् अणैविक्कुम् मुडित्ते (११)  
+३०१२। Saḍagopan, the generous one of Thirukuruhur  
 composed a thousand good pasurams  
 about the famous god whose purpose was to create this world.  
 The lord gives his grace to all.  
@@ -2767,27 +2768,27 @@ If devotees learn and recite these ten poems
 they will reach the feet of the god.  
 ---------  
 
-நம்மாழ்வார் திருவாய் மொழி - மூன்றாம் பத்து (3013-3122)  
-Divyaprabandam - Thiruvaymozhi - Muundraam Pathu (3013 -3122)  
-திருவாய் மொழி - மூன்றாம் பத்து (முதல் திருமொழி, 3013-3023)  
-திருமாலிருஞ்சோலை அழகரது வடிவழகில் ஈடுபடல்  
+नम्माऴ्वार् तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (३०१३-३१२२)  
+Divyaprabandam - Thiruvaymozhi - Muundraam Pathu (३०१३ -३१२२)  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (मुदल् तिरुमॊऴि, ३०१३-३०२३)  
+तिरुमालिरुञ्जोलै अऴगरदु वडिवऴगिल् ईडुबडल्  
 
-3013 முடிச் சோதியாய் உனது முகச் சோதி மலர்ந்ததுவோ?  
-அடிச் சோதி நீ நின்ற தாமரையாய் அலர்ந்ததுவோ?  
-படிச் சோதி ஆடையொடும் பல் கலனாய் நின் பைம் பொன்  
-கடிச் சோதி கலந்ததுவோ? திருமாலே கட்டுரையே (1)  
-3013. Does your bright face makes your crown shine?  
+३०१३ मुडिच् चोदियाय् उनदु मुगच् चोदि मलर्न्ददुवो?  
+अडिच् चोदि नी निण्ड्र तामरैयाय् अलर्न्ददुवो?  
+पडिच् चोदि आडैयॊडुम् पल् कलनाय् निन् पैम् पॊन्  
+कडिच् चोदि कलन्ददुवो? तिरुमाले कट्टुरैये (१)  
+३०१३। Does your bright face makes your crown shine?  
 Does the bright light of your feet bloom like a lotus?  
 Does the brightness of your golden waist give light  
 to your clothes and your precious ornaments?  
 Tell me, O Thirumaal.  
 
-3014 கட்டுரைக்கில் தாமரை நின் கண் பாதம் கை ஒவ்வா  
-சுட்டு உரைத்த நன் பொன் உன் திருமேனி ஒளி ஒவ்வாது  
-ஒட்டு உரைத்து இவ் உலகு உன்னைப் புகழ்வு எல்லாம் பெரும்பாலும்  
-பட்டுரையாய் புற்கு என்றே காட்டுமால் பரஞ்சோதீ (2)  
+३०१४ कट्टुरैक्किल् तामरै निन् कण् पादम् कै ऒव्वा  
+सुट्टु उरैत्त नन् पॊन् उन् तिरुमेनि ऒळि ऒव्वादु  
+ऒट्टु उरैत्तु इव् उलगु उन्नैप् पुगऴ्वु ऎल्लाम् पॆरुम्बालुम्  
+पट्टुरैयाय् पुऱ्‌कु ऎण्ड्रे काट्टुमाल् परञ्जोदी (२)  
 
-3014. You are the highest shining lord.  
+३०१४। You are the highest shining lord.  
 A lotus cannot be compared  
 to the beauty of your eyes and feet.  
 Pure gold cannot be compared to the brightness  
@@ -2796,22 +2797,22 @@ You are the highest light.
 All the praises of you that this world utters  
 are merely meaningless.  
 
-3015 பரஞ்சோதி நீ பரமாய் நின் இகழ்ந்து பின் மற்று ஓர்  
-பரம் சோதி இன்மையின் படி ஓவி நிகழ்கின்ற  
-பரஞ்சோதி நின்னுள்ளே படர் உலகம் படைத்த எம்  
-பரஞ்சோதி கோவிந்தா பண்பு உரைக்கமாட்டேனே (3)  
-3015. You are the highest light.  
+३०१५ परञ्जोदि नी परमाय् निन् इगऴ्न्दु पिन् मट्रु ओर्  
+परम् सोदि इन्मैयिन् पडि ओवि निगऴ्गिण्ड्र  
+परञ्जोदि निन्नुळ्ळे पडर् उलगम् पडैत्त ऎम्  
+परञ्जोदि कोविन्दा पण्बु उरैक्कमाट्टेने (३)  
+३०१५। You are the highest light.  
 There is no other bright light that can be compared with you,  
 you are a unique bright light.  
 You are the highest light and you created this world,  
 swallowed it and keep it inside you.  
 O Govinda! I do not have the ability to praise you.  
 
-3016 மாட்டாதே ஆகிலும் இம் மலர் தலை மா ஞாலம் நின்  
-மாட்டு ஆய மலர் புரையும் திருவுருவம் மனம் வைக்க  
-மாட்டாத பல சமய மதி கொடுத்தாய் மலர்த் துழாய்  
-மாட்டே நீ மனம் வைத்தாய் மா ஞாலம் வருந்தாதே? (4)  
-3016. The people of this world do not know  
+३०१६ माट्टादे आगिलुम् इम् मलर् तलै मा ञालम् निन्  
+माट्टु आय मलर् पुरैयुम् तिरुवुरुवम् मनम् वैक्क  
+माट्टाद पल समय मदि कॊडुत्ताय् मलर्त् तुऴाय्  
+माट्टे नी मनम् वैत्ताय् मा ञालम् वरुन्दादे? (४)  
+३०१६। The people of this world do not know  
 how to worship your beautiful lotus form.  
 You created many religions  
 for the people of the world to follow,  
@@ -2819,11 +2820,11 @@ but you are interested only in the thulasi garland that you wear.
 Don't you think this great world will suffer without you  
 if you do not save its people and take care of them?  
 
-3017 வருந்தாத அரும் தவத்த மலர் கதிரின் சுடர் உடம்பு ஆய்  
-வருந்தாத ஞானம் ஆய் வரம்பு இன்றி முழுது இயன்றாய்  
-வரும் காலம் நிகழ் காலம் கழி காலம் ஆய் உலகை  
-ஒருங்காக அளிப்பாய் சீர் எங்கு உலக்க ஓதுவனே? (5)  
-3017. Your bright body is like a beautiful flower  
+३०१७ वरुन्दाद अरुम् तवत्त मलर् गतिरिन् सुडर् उडम्बु आय्  
+वरुन्दाद ज्ञानम् आय् वरम्बु इण्ड्रि मुऴुदु इयण्ड्राय्  
+वरुम् कालम् निगऴ् कालम् कऴि कालम् आय् उलगै  
+ऒरुङ्गाग अळिप्पाय् सीर् ऎङ्गु उलक्क ओदुवने? (५)  
+३०१७। Your bright body is like a beautiful flower  
 and you do not need to do any tapas to get it.  
 You are yourself a great knowledge.  
 No boundary can include all the places where you are.  
@@ -2831,11 +2832,11 @@ You are the past, present and future.
 You give your grace in all ages to the world.  
 How could I describe your power?  
 
-3018 ஓதுவார் ஓத்து எல்லாம் எவ் உலகத்து எவ் எவையும்  
-சாதுவாய் நின் புகழின் தகை அல்லால் பிறிது இல்லை  
-போது வாழ் புனம் துழாய் முடியினாய் பூவின்மேல்  
-மாது வாழ் மார்பினாய் என் சொல்லி யான் வாழ்த்துவனே? (6)  
-3018. You are decorated with a fresh thulasi garland  
+३०१८ ओदुवार् ओत्तु ऎल्लाम् ऎव् उलगत्तु ऎव् ऎवैयुम्  
+सादुवाय् निन् पुगऴिन् तगै अल्लाल् पिऱिदु इल्लै  
+पोदु वाऴ् पुनम् तुऴाय् मुडियिनाय् पूविन्मेल्  
+मादु वाऴ् मार्बिनाय् ऎन् सॊल्लि यान् वाऴ्त्तुवने? (६)  
+३०१८। You are decorated with a fresh thulasi garland  
 and flowers in your hair.  
 Lakshmi stays on a lotus on your chest.  
 All the Vedas and the sastras that are recited by the sages  
@@ -2843,33 +2844,33 @@ and everything in all the worlds
 have been created only by your grace.  
 What can I say to praise you?  
 
-3019 வாழ்த்துவார் பலர் ஆக நின்னுள்ளே நான்முகனை  
-மூழ்த்த நீர் உலகு எல்லாம் படை என்று முதல் படைத்தாய்  
-கேழ்த்த சீர் அரன் முதலாக் கிளர் தெய்வமாய்க் கிளர்ந்து  
-சூழ்த்து அமரர் துதித்தால் உன் தொல் புகழ் மாசூணாதே? (7)  
-3019. Many devotees praise you.  
+३०१९ वाऴ्त्तुवार् पलर् आग निन्नुळ्ळे नान्मुगनै  
+मूऴ्त्त नीर् उलगु ऎल्लाम् पडै ऎण्ड्रु मुदल् पडैत्ताय्  
+केऴ्त्त सीर् अरन् मुदलाक् किळर् तॆय्वमाय्क् किळर्न्दु  
+सूऴ्त्तु अमरर् तुदित्ताल् उन् तॊल् पुगऴ् मासूणादे? (७)  
+३०१९। Many devotees praise you.  
 You created Nanmuhan from your navel and told him,  
 "Create the world surrounded with oceans."  
 Even if famous Shiva and the other shining gods praise you  
 it cannot do justice to your great fame  
 that has been since ancient times.  
 
-3020 மாசூணாச் சுடர் உடம்புஆய் மலராது குவியாது  
-மாசூணா ஞானம் ஆய் முழுதும் ஆய் முழுது இயன்றாய்  
-மாசூணா வான் கோலத்து அமரர் கோன் வழிப்பட்டால்  
-மாசூணா உன பாதமலர்ச் சோதி மழுங்காதே? (8)  
-3020. You have a faultless body.  
+३०२० मासूणाच् चुडर् उडम्बुआय् मलरादु कुवियादु  
+मासूणा ज्ञानम् आय् मुऴुदुम् आय् मुऴुदु इयण्ड्राय्  
+मासूणा वान् कोलत्तु अमरर् कोन् वऴिप्पट्टाल्  
+मासूणा उन पादमलर्च् चोदि मऴुङ्गादे? (८)  
+३०२०। You have a faultless body.  
 You are wise and your knowledge does not diminish or grow.  
 You are whole and you are not whole.  
 If Indra the king of the gods worships your feet  
 won’t the brightness of your lotus feet grow dull  
 because he does not have enough words to praise you?  
 
-3021 மழுங்காத வைந் நுதிய சக்கர நல் வலத்தையாய்  
-தொழும் காதல் களிறு அளிப்பான் புள் ஊர்ந்து தோன்றினையே  
-மழுங்காத ஞானமே படை ஆக மலர் உலகில்  
-தொழும்பாயார்க்கு அளித்தால் உன் சுடர்ச் சோதி மறையாதே? (9)  
-3021. Riding on Garuḍa, you appeared  
+३०२१ मऴुङ्गाद वैन् नुदिय सक्कर नल् वलत्तैयाय्  
+तॊऴुम् कादल् कळिऱु अळिप्पान् पुळ् ऊर्न्दु तोण्ड्रिनैये  
+मऴुङ्गाद ज्ञानमे पडै आग मलर् उलगिल्  
+तॊऴुम्बायार्क्कु अळित्ताल् उन् सुडर्च् चोदि मऱैयादे? (९)  
+३०२१। Riding on Garuḍa, you appeared  
 carrying a sharp-edged discus in your right hand  
 to save the elephant Gajendra from the crocodile  
 when he called you for help.  
@@ -2877,11 +2878,11 @@ Your devotees worship you with their faultless knowledge.
 Do you think that if you give your grace to them  
 in this wide world your brightness will diminish?  
 
-3022 மறை ஆய நால் வேதத்துள் நின்ற மலர்ச் சுடரே  
-முறையால் இவ் உலகு எல்லாம் படைத்து இடந்து உண்டு உமிழ்ந்து அளந்தாய்  
-பிறை ஏறு சடையானும் நான்முகனும் இந்திரனும்  
-இறை ஆதல் அறிந்து ஏத்த வீற்றிருத்தல் இது வியப்பே? (10)  
-3022. You are a bright light and a blooming flower.  
+३०२२ मऱै आय नाल् वेदत्तुळ् निण्ड्र मलर्च् चुडरे  
+मुऱैयाल् इव् उलगु ऎल्लाम् पडैत्तु इडन्दु उण्डु उमिऴ्न्दु अळन्दाय्  
+पिऱै एऱु सडैयानुम् नान्मुगनुम् इन्दिरनुम्  
+इऱै आदल् अऱिन्दु एत्त वीट्रिरुत्तल् इदु वियप्पे? (१०)  
+३०२२। You are a bright light and a blooming flower.  
 You are the inner meaning of the four Vedas.  
 You create this world, swallow it and spit it out  
 and you measured this world for Mahabali.  
@@ -2889,11 +2890,11 @@ Shiva, Nanmuhan and Indra know
 that you are the lord and praise you.  
 Is this not a wonder?  
 
-3023 வியப்பு ஆய வியப்பு இல்லா மெய்ஞ் ஞான வேதியனைச்  
-சயப் புகழார் பலர் வாழும் தடம் குருகூர்ச் சடகோபன்  
-துயக்கு இன்றித் தொழுது உரைத்த ஆயிரத்துள் இப் பத்தும்  
-உயக்கொண்டு பிறப்பு அறுக்கும் ஒலி முந்நீர் ஞாலத்தே (11)  
-3023. Saḍagopan of flourishing Thirukuruhur  
+३०२३ वियप्पु आय वियप्पु इल्ला मॆय्ञ् ज्ञान वेदियनैच्  
+चयप् पुगऴार् पलर् वाऴुम् तडम् गुरुगूर्च् चडगोबन्  
+तुयक्कु इण्ड्रित् तॊऴुदु उरैत्त आयिरत्तुळ् इप् पत्तुम्  
+उयक्कॊण्डु पिऱप्पु अऱुक्कुम् ऒलि मुन्नीर् ञालत्ते (११)  
+३०२३। Saḍagopan of flourishing Thirukuruhur  
 where many famous and victorious people live  
 composed a thousand faultless poems,  
 and worshiped and praised the lord.  
@@ -2904,67 +2905,67 @@ If devotees learn and recite these ten poems
 they will not be born again in this world surrounded by roaring oceans.  
 --------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (இரண்டாம் திருமொழி, 3024-3034)  
-அழகரை முற்றும் அனுபவிக்க ஏலாது ஆழ்வார் கலங்க எம்பெருமான் அவரது கலக்கத்தைத் தீர்த்தல்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (इरण्डाम् तिरुमॊऴि, ३०२४-३०३४)  
+अऴगरै मुट्रुम् अनुबविक्क एलादु आऴ्वार् कलङ्ग ऎम्बॆरुमान् अवरदु कलक्कत्तैत् तीर्त्तल्  
 
-3024 முந்நீர் ஞாலம் படைத்த எம் முகில் வண்ணனே  
-அந் நாள் நீ தந்த ஆக்கையின்வழி உழல்வேன்  
-வெம் நாள் நோய் வீய வினைகளை வேர் அறப் பாய்ந்து  
-எந் நாள் யான் உன்னை இனி வந்து கூடுவனே? (1)  
-3024. You have the color of a cloud.  
+३०२४ मुन्नीर् ञालम् पडैत्त ऎम् मुगिल् वण्णने  
+अन् नाळ् नी तन्द आक्कैयिन्वऴि उऴल्वेन्  
+वॆम् नाळ् नोय् वीय विनैगळै वेर् अऱप् पाय्न्दु  
+ऎन् नाळ् यान् उन्नै इनि वन्दु कूडुवने? (१)  
+३०२४। You have the color of a cloud.  
 You created the world surrounded by the oceans.  
 I wander with the body that you have given me.  
 When will the troubles that are the results of my karma leave me?  
 When will I come and join you?  
 
-3025 வன் மா வையம் அளந்த எம் வாமனா நின்  
-பல் மா மாயப் பல் பிறவியில் படிகின்ற யான்  
-தொல் மா வல்வினைத் தொடர்களை முதல் அரிந்து  
-நின் மா தாள் சேர்ந்து நிற்பது எஞ்ஞான்றுகொலோ? (2)  
-3025. You took the form of a dwarf  
+३०२५ वन् मा वैयम् अळन्द ऎम् वामना निन्  
+पल् मा मायप् पल् पिऱवियिल् पडिगिण्ड्र यान्  
+तॊल् मा वल्विनैत् तॊडर्गळै मुदल् अरिन्दु  
+निन् मा ताळ् सेर्न्दु निऱ्‌पदु ऎञ्ञाण्ड्रुगॊलो? (२)  
+३०२५। You took the form of a dwarf  
 and measured the wide world.  
 I suffer in many births because of your many maayas.  
 When will the time come  
 when I join your wonderful divine feet  
 and am without my old karma.  
 
-3026 கொல்லா மாக்கோல் கொலைசெய்து பாரதப் போர்  
-எல்லாச் சேனையும் இரு நிலத்து அவித்த எந்தாய்  
-பொல்லா ஆக்கையின் புணர்வினை அறுக்கல் அறா  
-சொல்லாய் யான் உன்னைச் சார்வது ஓர் சூழ்ச்சியே (3)  
-3026. O father, you drove the chariot for Arjuna  
+३०२६ कॊल्ला माक्कोल् कॊलैसॆय्दु पारदप् पोर्  
+ऎल्लाच् चेनैयुम् इरु निलत्तु अवित्त ऎन्दाय्  
+पॊल्ला आक्कैयिन् पुणर्विनै अऱुक्कल् अऱा  
+सॊल्लाय् यान् उन्नैच् चार्वदु ओर् सूऴ्च्चिये (३)  
+३०२६। O father, you drove the chariot for Arjuna  
 and destroyed all the armies on the battlefield.  
 Tell me the path to remove the bad karma  
 that I have collected in many births  
 and show me the path to reach you.  
 
-3027 சூழ்ச்சி ஞானச் சுடர் ஒளி ஆகி என்றும்  
-ஏழ்ச்சி கேடு இன்றி எங்கணும் நிறைந்த எந்தாய்  
-தாழ்ச்சி மற்று எங்கும் தவிர்ந்து நின் தாள் இணைக்கீழ்  
-வாழ்ச்சி யான் சேரும் வகை அருளாய் வந்தே (4)  
+३०२७ सूऴ्च्चि ज्ञानच् चुडर् ऒळि आगि ऎण्ड्रुम्  
+एऴ्च्चि केडु इण्ड्रि ऎङ्गणुम् निऱैन्द ऎन्दाय्  
+ताऴ्च्चि मट्रु ऎङ्गुम् तविर्न्दु निन् ताळ् इणैक्कीऴ्  
+वाऴ्च्चि यान् सेरुम् वगै अरुळाय् वन्दे (४)  
 
-3027. You are the bright light of wisdom  
+३०२७। You are the bright light of wisdom  
 that spreads everywhere, in both good and bad places.  
 O my father! I want to be freed from bad deeds,  
 join your feet and have the good life of serving you.  
 Give me your grace so I may achieve my goal.  
 
-3028 வந்தாய் போலே வந்தும் என் மனத்தினை நீ  
-சிந்தாமல் செய்யாய் இதுவே இது ஆகில்  
-கொந்து ஆர் காயாவின் கொழு மலர்த் திரு நிறத்த  
-எந்தாய் யான் உன்னை எங்கு வந்து அணுகிற்பனே? (5)  
-3028. You are my father.  
+३०२८ वन्दाय् पोले वन्दुम् ऎन् मनत्तिनै नी  
+सिन्दामल् सॆय्याय् इदुवे इदु आगिल्  
+कॊन्दु आर् कायाविन् कॊऴु मलर्त् तिरु निऱत्त  
+ऎन्दाय् यान् उन्नै ऎङ्गु वन्दु अणुगिऱ्‌पने? (५)  
+३०२८। You are my father.  
 You have the beautiful color of a kaayam blossom.  
 Even though it seems you entered my heart,  
 you have not helped the confusion of my mind.  
 If this is what you do  
 how can I come and join you?  
 
-3029 கிற்பன் கில்லேன் என்று இலன் முனம் நாளால்  
-அற்ப சாரங்கள் அவை சுவைத்து அகன்றொழிந்தேன்  
-பற்பல் ஆயிரம் உயிர் செய்த பரமா நின்  
-நற் பொன் சோதித்தாள் நணுகுவது எஞ்ஞான்றே? (6)  
-3029. I have not thought of what is good or bad to do.  
+३०२९ किऱ्‌पन् किल्लेन् ऎण्ड्रु इलन् मुनम् नाळाल्  
+अऱ्‌प सारङ्गळ् अवै सुवैत्तु अगण्ड्रॊऴिन्देन्  
+पऱ्‌पल् आयिरम् उयिर् सॆय्द परमा निन्  
+नऱ्‌ पॊन् सोदित्ताळ् नणुगुवदु ऎञ्ञाण्ड्रे? (६)  
+३०२९। I have not thought of what is good or bad to do.  
 I did things that are wrong and enjoyed them.  
 I did not think of you ever.  
 O highest one,  
@@ -2972,22 +2973,22 @@ you created thousands and thousands of lives.
 When will the time come when I can attain  
 your golden shining feet?  
 
-3030 எஞ்ஞான்றும் நாம் இருந்து இருந்து இரங்கி நெஞ்சே  
-மெய்ஞ்ஞானம் இன்றி வினை இயல் பிறப்பு அழுந்தி  
-எஞ்ஞான்றும் எங்கும் ஒழிவு அற நிறைந்து நின்ற  
-மெய்ஞ் ஞானச் சோதிக் கண்ணனை மேவுதுமே (7)  
-3030. O heart!  
+३०३० ऎञ्ञाण्ड्रुम् नाम् इरुन्दु इरुन्दु इरङ्गि नॆञ्जे  
+मॆय्ञ्ज्ञानम् इण्ड्रि विनै इयल् पिऱप्पु अऴुन्दि  
+ऎञ्ञाण्ड्रुम् ऎङ्गुम् ऒऴिवु अऱ निऱैन्दु निण्ड्र  
+मॆय्ञ् ज्ञानच् चोदिक् कण्णनै मेवुदुमे (७)  
+३०३०। O heart!  
 We lived on this earth and did not know what true wisdom is.  
 We collected bad karma and plunged into births.  
 Kaṇṇan is the true wisdom.  
 When can we reach the god,  
 the bright light that spreads everywhere and always?  
 
-3031 மேவு துன்ப வினைகளை விடுத்துமிலேன்  
-ஓவுதல் இன்றி உன் கழல் வணங்கிற்றிலேன்  
-பாவு தொல் சீர்க் கண்ணா என் பரஞ்சுடரே  
-கூவுகின்றேன் காண்பான் எங்கு எய்தக் கூவுவனே? (8)  
-3031. I have not stopped doing bad things.  
+३०३१ मेवु तुन्ब विनैगळै विडुत्तुमिलेन्  
+ओवुदल् इण्ड्रि उन् कऴल् वणङ्गिट्रिलेन्  
+पावु तॊल् सीर्क् कण्णा ऎन् परञ्जुडरे  
+कूवुगिण्ड्रेन् काण्बान् ऎङ्गु ऎय्दक् कूवुवने? (८)  
+३०३१। I have not stopped doing bad things.  
 I have not constantly worshiped your feet  
 that are ornamented with anklets.  
 You are Kaṇṇan, praised from ancient time.  
@@ -2996,11 +2997,11 @@ I am calling you to see you.
 Where are you?  
 I will come there and call you.  
 
-3032 கூவிக் கூவிக் கொடுவினைத் தூற்றுள் நின்று  
-பாவியேன் பல காலம் வழி திகைத்து அலமர்கின்றேன்  
-மேவி அன்று ஆ நிரை காத்தவன் உலகம் எல்லாம்  
-தாவிய அம்மானை எங்கு இனித் தலைப்பெய்வனே? (9)  
-3032. I am a sinner and I continue doing bad karma.  
+३०३२ कूविक् कूविक् कॊडुविनैत् तूट्रुळ् निण्ड्रु  
+पावियेन् पल कालम् वऴि तिगैत्तु अलमर्गिण्ड्रेन्  
+मेवि अण्ड्रु आ निरै कात्तवन् उलगम् ऎल्लाम्  
+ताविय अम्मानै ऎङ्गु इनित् तलैप्पॆय्वने? (९)  
+३०३२। I am a sinner and I continue doing bad karma.  
 For many ages I have not known the good paths of life  
 and I am confused.  
 You grazed the cows and protected them.  
@@ -3008,11 +3009,11 @@ You measured the world at Mahabali’s sacrifice.
 I have been calling and calling you.  
 When will I see you, my father?  
 
-3033 தலைப்பெய் காலம் நமன்தமர் பாசம் விட்டால்  
-அலைப்பூண் உண்ணும் அவ் அல்லல் எல்லாம் அகல  
-கலைப் பல் ஞானத்து என் கண்ணனைக் கண்டுகொண்டு  
-நிலைப் பெற்று என் நெஞ்சம் பெற்றது நீடு உயிரே (10)  
-3033. When the messengers of Yama come  
+३०३३ तलैप्पॆय् कालम् नमन्दमर् पासम् विट्टाल्  
+अलैप्पूण् उण्णुम् अव् अल्लल् ऎल्लाम् अगल  
+कलैप् पल् ज्ञानत्तु ऎन् कण्णनैक् कण्डुगॊण्डु  
+निलैप् पॆट्रु ऎन् नॆञ्जम् पॆट्रदु नीडु उयिरे (१०)  
+३०३३। When the messengers of Yama come  
 and throw their snares,  
 I will find and worship the god.  
 He is known to all through the wise sastras.  
@@ -3021,11 +3022,11 @@ that Yama’s messengers bring.
 I will see Kaṇṇan, the knowledge of all arts.  
 I will be saved and my life will join its real soul, the god.  
 
-3034 உயிர்கள் எல்லா உலகமும் உடையவனைக்  
-குயில் கொள் சோலைத் தென் குருகூர்ச் சடகோபன்  
-செயிர் இல் சொல் இசை மாலை ஆயிரத்துள் இப் பத்தும்  
-உயிரின்மேல் ஆக்கை ஊனிடை ஒழிவிக்குமே (11)  
-3034. Saḍagopan of southern Thirukuruhur  
+३०३४ उयिर्गळ् ऎल्ला उलगमुम् उडैयवनैक्  
+कुयिल् कॊळ् सोलैत् तॆन् गुरुगूर्च् चडगोबन्  
+सॆयिर् इल् सॊल् इसै मालै आयिरत्तुळ् इप् पत्तुम्  
+उयिरिन्मेल् आक्कै ऊनिडै ऒऴिविक्कुमे (११)  
+३०३४। Saḍagopan of southern Thirukuruhur  
 where cuckoo birds sing in the groves  
 composed a thousand faultless musical poems  
 on the god who contains all the souls of the world inside him.  
@@ -3035,24 +3036,24 @@ because reciting these poems will cut the connection
 between their bodies and souls.  
 -----------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (மூன்றாம் திருமொழி, 3035-3045)  
-திருவேங்கடமுடையானுக்கு அடிமை செய்யவேண்டும்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३०३५-३०४५)  
+तिरुवेङ्गडमुडैयानुक्कु अडिमै सॆय्यवेण्डुम्  
 
-3035 ஒழிவு இல் காலம் எல்லாம் உடனாய் மன்னி  
-வழு இலா அடிமை செய்யவேண்டும் நாம்  
-தெழி குரல் அருவித் திருவேங்கடத்து  
-எழில் கொள் சோதி எந்தை தந்தை தந்தைக்கே (1)  
-3035. We should join the father of the father of my father  
+३०३५ ऒऴिवु इल् कालम् ऎल्लाम् उडनाय् मन्नि  
+वऴु इला अडिमै सॆय्यवेण्डुम् नाम्  
+तॆऴि कुरल् अरुवित् तिरुवेङ्गडत्तु  
+ऎऴिल् कॊळ् सोदि ऎन्दै तन्दै तन्दैक्के (१)  
+३०३५। We should join the father of the father of my father  
 and do faultless service for him as slaves as long as we live.  
 He is the bright beautiful light  
 that stays in the Thiruvenkaṭam hills  
 where resounding waterfalls descend.  
 
-3036 எந்தை தந்தை தந்தை தந்தை தந்தைக்கும்  
-முந்தை வானவர் வானவர் கோனொடும்  
-சிந்து பூ மகிழும் திருவேங்கடத்து  
-அந்தம் இல் புகழ்க் கார் எழில் அண்ணலே (2)  
-3036. He is the lord for all seven generations of my family.  
+३०३६ ऎन्दै तन्दै तन्दै तन्दै तन्दैक्कुम्  
+मुन्दै वानवर् वानवर् कोनॊडुम्  
+सिन्दु पू मगिऴुम् तिरुवेङ्गडत्तु  
+अन्दम् इल् पुगऴ्क् कार् ऎऴिल् अण्णले (२)  
+३०३६। He is the lord for all seven generations of my family.  
 He has everlasting fame  
 and he has the color of a dark cloud.  
 He stays in Thiruvenkaṭam  
@@ -3060,11 +3061,11 @@ where beautiful flowers bloom.
 The gods in the sky and Indra the god of gods  
 come and worship him in the Thiruvenkaṭam hills.  
 
-3037 அண்ணல் மாயன் அணி கொள் செந்தாமரைக்  
-கண்ணன் செங்கனி வாய்க் கருமாணிக்கம்  
-தெள் நிறை சுனை நீர்த் திருவேங்கடத்து  
-எண் இல் தொல் புகழ் வானவர் ஈசனே (3)  
-3037. Maayan is our highest god.  
+३०३७ अण्णल् मायन् अणि कॊळ् सॆन्दामरैक्  
+कण्णन् सॆङ्गनि वाय्क् करुमाणिक्कम्  
+तॆळ् निऱै सुनै नीर्त् तिरुवेङ्गडत्तु  
+ऎण् इल् तॊल् पुगऴ् वानवर् ईसने (३)  
+३०३७। Maayan is our highest god.  
 He has beautiful lotus eyes.  
 His mouth is red like a sweet fruit.  
 He shines like a dark jewel.  
@@ -3073,62 +3074,62 @@ He is the god of the gods in the sky.
 He stays in the Thiruvenkaṭam hills  
 where springs are filled with clear water.  
 
-3038 ஈசன் வானவர்க்கு என்பன் என்றால் அது  
-தேசமோ திருவேங்கடத்தானுக்கு?  
-நீசனேன் நிறைவு ஒன்றும் இலேன் என்கண்  
-பாசம் வைத்த பரம் சுடர்ச் சோதிக்கே (4)  
-3038. If I say he is the god of the gods in the sky  
+३०३८ ईसन् वानवर्क्कु ऎन्बन् ऎण्ड्राल् अदु  
+तेसमो तिरुवेङ्गडत्तानुक्कु?  
+नीसनेन् निऱैवु ऒण्ड्रुम् इलेन् ऎन्गण्  
+पासम् वैत्त परम् सुडर्च् चोदिक्के (४)  
+३०३८। If I say he is the god of the gods in the sky  
 it is not great praise for him, the lord of Thiruvenkaṭam.  
 I am a mean person, without goodness.  
 He gave his love to me  
 and I have not given anything back to him, the divine shining light.  
 
-3039 சோதி ஆகி எல்லா உலகும் தொழும்  
-ஆதிமூர்த்தி என்றால் அளவு ஆகுமோ  
-வேதியர் முழு வேதத்து அமுதத்தை  
-தீது இல் சீர்த் திருவேங்கடத்தானையே? (5)  
-3039. Is it enough praise for him  
+३०३९ सोदि आगि ऎल्ला उलगुम् तॊऴुम्  
+आदिमूर्त्ति ऎण्ड्राल् अळवु आगुमो  
+वेदियर् मुऴु वेदत्तु अमुदत्तै  
+तीदु इल् सीर्त् तिरुवेङ्गडत्तानैये? (५)  
+३०३९। Is it enough praise for him  
 if I say he is a bright light  
 and an ancient god worshiped by all the worlds?  
 He is the creator of the Vedas  
 and nectar for Brahmins, the scholars of the Vedas.  
 He stays in the Thiruvenkaṭam hills that have faultless fame.  
 
-3040 வேம் கடங்கள் மெய்மேல் வினை முற்றவும்  
-தாங்கள் தங்கட்கு நல்லனவே செய்வார்  
-வேங்கடத்து உறைவார்க்கு நம என்னல்  
-ஆம் கடமைஅது சுமந்தார்கட்கே (6)  
-3040. The devotees who live in the Thiruvenkaṭam hills  
+३०४० वेम् कडङ्गळ् मॆय्मेल् विनै मुट्रवुम्  
+ताङ्गळ् तङ्गट्कु नल्लनवे सॆय्वार्  
+वेङ्गडत्तु उऱैवार्क्कु नम ऎन्नल्  
+आम् कडमैअदु सुमन्दार्गट्के (६)  
+३०४०। The devotees who live in the Thiruvenkaṭam hills  
 do only good to others  
 even if they suffer in their lives because of their bad karma.  
 It is our duty to worship them  
 because they do service to the devotees of our lord.  
 
-3041 சுமந்து மா மலர் நீர் சுடர் தூபம் கொண்டு  
-அமர்ந்து வானவர் வானவர் கோனொடும்  
-நமன்று எழும் திருவேங்கடம் நங்கட்குச்  
-சமன் கொள் வீடு தரும் தடங் குன்றமே (7)  
-3041. The gods in the sky and Indra the king of gods  
+३०४१ सुमन्दु मा मलर् नीर् सुडर् तूबम् कॊण्डु  
+अमर्न्दु वानवर् वानवर् कोनॊडुम्  
+नमण्ड्रु ऎऴुम् तिरुवेङ्गडम् नङ्गट्कुच्  
+चमन् कॊळ् वीडु तरुम् तडङ् गुण्ड्रमे (७)  
+३०४१। The gods in the sky and Indra the king of gods  
 go to the Thiruvenkatam hills with beautiful flowers,  
 water, lamps and incense to worship the lord.  
 If we go there, that majestic hill will give us moksha.  
 
-3042 குன்றம் ஏந்திக் குளிர் மழை காத்தவன்  
-அன்று ஞாலம் அளந்த பிரான் பரன்  
-சென்று சேர் திருவேங்கட மா மலை  
-ஒன்றுமே தொழ நம் வினை ஓயுமே (8)  
-3042. He carried Govardhana mountain  
+३०४२ कुण्ड्रम् एन्दिक् कुळिर् मऴै कात्तवन्  
+अण्ड्रु ञालम् अळन्द पिरान् परन्  
+सॆण्ड्रु सेर् तिरुवेङ्गड मा मलै  
+ऒण्ड्रुमे तॊऴ नम् विनै ओयुमे (८)  
+३०४२। He carried Govardhana mountain  
 and protected the cows from the cold storm.  
 The mighty lord, the highest god, measured the world.  
 If we go to the divine Thiruvenkaṭam hills  
 and worship him, that one thing  
 will remove our karma.  
 
-3043 ஓயும் மூப்புப் பிறப்பு இறப்பு:பிணி  
-வீயுமாறு செய்வான் திருவேங்கடத்து  
-ஆயன் நாள் மலர் ஆம் அடித்தாமரை  
-வாயுள்ளும் மனத்துள்ளும் வைப்பார்கட்கே (9)  
-3043. The lord of the divine Thiruvenkatam,  
+३०४३ ओयुम् मूप्पुप् पिऱप्पु इऱप्पु:पिणि  
+वीयुमाऱु सॆय्वान् तिरुवेङ्गडत्तु  
+आयन् नाळ् मलर् आम् अडित्तामरै  
+वायुळ्ळुम् मनत्तुळ्ळुम् वैप्पार्गट्के (९)  
+३०४३। The lord of the divine Thiruvenkatam,  
 the cowherd, destroys old age  
 when someone grows weary and sick.  
 He removes future births for the devotees  
@@ -3136,11 +3137,11 @@ who worship his lotus feet,
 keeping him in their minds  
 and praising him with their tongues.  
 
-3044 வைத்த நாள் வரை எல்லை குறுகிச் சென்று  
-எய்த்து இளைப்பதன் முன்னம் அடைமினோ  
-பைத்த பாம்பு அணையான் திருவேங்கடம்  
-மொய்த்த சோலை மொய் பூந் தடந் தாழ்வரே (10)  
-3044. Before you become old and weak  
+३०४४ वैत्त नाळ् वरै ऎल्लै कुऱुगिच् चॆण्ड्रु  
+ऎय्त्तु इळैप्पदन् मुन्नम् अडैमिनो  
+पैत्त पाम्बु अणैयान् तिरुवेङ्गडम्  
+मॊय्त्त सोलै मॊय् पून् दडन् दाऴ्वरे (१०)  
+३०४४। Before you become old and weak  
 and the end of your days comes,  
 go to Thiruvenkaṭam, precious as gold,  
 surrounded with groves  
@@ -3148,11 +3149,11 @@ blooming with flowers that swarm with bees.
 The lord sleeps on a snake bed.  
 See him and worship his divine feet.  
 
-3045 தாள் பரப்பி மண் தாவிய ஈசனை  
-நீள் பொழில் குருகூர்ச் சடகோபன் சொல்  
-கேழ் இல் ஆயிரத்து இப் பத்தும் வல்லவர்  
-வாழ்வர் வாழ்வு எய்தி ஞாலம் புகழவே (11)  
-3045. Saḍagopan of Thirukuruhur  
+३०४५ ताळ् परप्पि मण् ताविय ईसनै  
+नीळ् पॊऴिल् गुरुगूर्च् चडगोबन् सॊल्  
+केऴ् इल् आयिरत्तु इप् पत्तुम् वल्लवर्  
+वाऴ्वर् वाऴ्वु ऎय्दि ञालम् पुगऴवे (११)  
+३०४५। Saḍagopan of Thirukuruhur  
 surrounded by flourishing groves  
 composed a thousand faultless poems  
 praising the lord who measured the earth with his feet.  
@@ -3161,18 +3162,18 @@ they will live with fame on this earth
 and the world will praise them.  
 -------  
 
-திருவாய் மொழி - மூன்றாம் பத்து ( நான்காம் திருமொழி, 3046-3056)  
-ஆத்மாக்கள் அனைத்தும் அவனே  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु ( नान्गाम् तिरुमॊऴि, ३०४६-३०५६)  
+आत्माक्कळ् अनैत्तुम् अवने  
 
-3046 புகழும் நல் ஒருவன் என்கோ?  
-       பொரு இல் சீர்ப் பூமி என்கோ?  
-திகழும் தண் பரவை என்கோ?  
-       தீ என்கோ? வாயு என்கோ?  
-நிகழும் ஆகாசம் என்கோ?  
-       நீள் சுடர் இரண்டும் என்கோ?  
-இகழ்வு இல் இவ் அனைத்தும் என்கோ?  
-       கண்ணனைக் கூவும் ஆறே (1)  
-3046. Should I say you have matchless fame?  
+३०४६ पुगऴुम् नल् ऒरुवन् ऎन्गो?  
+       पॊरु इल् सीर्प् पूमि ऎन्गो?  
+तिगऴुम् तण् परवै ऎन्गो?  
+       ती ऎन्गो? वायु ऎन्गो?  
+निगऴुम् आगासम् ऎन्गो?  
+       नीळ् सुडर् इरण्डुम् ऎन्गो?  
+इगऴ्वु इल् इव् अनैत्तुम् ऎन्गो?  
+       कण्णनैक् कूवुम् आऱे (१)  
+३०४६। Should I say you have matchless fame?  
 Should I say you are the beautiful one unequalled on the earth?  
 Should I say you shine in the cool ocean?  
 Should I say you are hot fire?  
@@ -3182,15 +3183,15 @@ Should I say you are the sun and the moon?
 Should I say you are the everlasting one?  
 What can I call you?  
 
-3047 கூவும் ஆறு அறியமாட்டேன்  
-       குன்றங்கள் அனைத்தும் என்கோ?  
-மேவு சீர் மாரி என்கோ?  
-       விளங்கு தாரகைகள் என்கோ?  
-நா இயல் கலைகள் என்கோ?  
-       ஞான நல் ஆவி என்கோ?  
-பாவு சீர்க் கண்ணன் எம்மான்  
-       பங்கயக் கண்ணனையே (2)  
-3047. I do not know what to call you.  
+३०४७ कूवुम् आऱु अऱियमाट्टेन्  
+       कुण्ड्रङ्गळ् अनैत्तुम् ऎन्गो?  
+मेवु सीर् मारि ऎन्गो?  
+       विळङ्गु तारगैगळ् ऎन्गो?  
+ना इयल् कलैगळ् ऎन्गो?  
+       ज्ञान नल् आवि ऎन्गो?  
+पावु सीर्क् कण्णन् ऎम्मान्  
+       पङ्गयक् कण्णनैये (२)  
+३०४७। I do not know what to call you.  
 Should I say you are a mountain?  
 Should I say you are rain that nourishes the world?  
 Should I say you are the shining stars?  
@@ -3198,15 +3199,15 @@ Should I say you are the arts?
 Should I say you are wisdom?  
 You are the lotus-eyed Kaṇṇan praised by the whole world.  
 
-3048 பங்கயக் கண்ணன் என்கோ?  
-       பவளச் செவ்வாயன் என்கோ?  
-அம் கதிர் அடியன் என்கோ?  
-       அஞ்சன வண்ணன் என்கோ?  
-செங்கதிர் முடியன் என்கோ?  
-       திரு மறு மார்பன் என்கோ?  
-சங்கு சக்கரத்தன் என்கோ?  
-       சாதி மாணிக்கத்தையே (3)  
-3048. Should I say you are the lotus-eyed god?  
+३०४८ पङ्गयक् कण्णन् ऎन्गो?  
+       पवळच् चॆव्वायन् ऎन्गो?  
+अम् गतिर् अडियन् ऎन्गो?  
+       अञ्जन वण्णन् ऎन्गो?  
+सॆङ्गदिर् मुडियन् ऎन्गो?  
+       तिरु मऱु मार्बन् ऎन्गो?  
+सङ्गु सक्करत्तन् ऎन्गो?  
+       सादि माणिक्कत्तैये (३)  
+३०४८। Should I say you are the lotus-eyed god?  
 Should I say you have a mouth red as coral?  
 Should I say you are the shining sun?  
 Should I say you have the dark color of kohl?  
@@ -3214,15 +3215,15 @@ Should I say you embrace Lakshmi on your chest?
 Should I say you carry a conch and a discus in your hands?  
 You are a precious diamond.  
 
-3049 சாதி மாணிக்கம் என்கோ?  
-       சவி கொள் பொன் முத்தம் என்கோ?  
-சாதி நல் வயிரம் என்கோ?  
-       தவிவு இல் சீர் விளக்கம் என்கோ?  
-ஆதி அம் சோதி என்கோ?  
-       ஆதி அம் புருடன் என்கோ?  
-ஆதும் இல் காலத்து எந்தை  
-       அச்சுதன் அமலனையே (4)  
-3049. Should I say you are a precious ruby?  
+३०४९ सादि माणिक्कम् ऎन्गो?  
+       सवि कॊळ् पॊन् मुत्तम् ऎन्गो?  
+सादि नल् वयिरम् ऎन्गो?  
+       तविवु इल् सीर् विळक्कम् ऎन्गो?  
+आदि अम् सोदि ऎन्गो?  
+       आदि अम् पुरुडन् ऎन्गो?  
+आदुम् इल् कालत्तु ऎन्दै  
+       अच्चुदन् अमलनैये (४)  
+३०४९। Should I say you are a precious ruby?  
 Should I say you are pure gold?  
 Should I say you are the best pearl from the ocean?  
 Should I say you are a faultless diamond?  
@@ -3232,15 +3233,15 @@ Should I say you are the most ancient one of the world?
 You are my everlasting father.  
 You are the Achudan, the pure one.  
 
-3050 அச்சுதன் அமலன் என்கோ?  
-       அடியவர் வினை கெடுக்கும்  
-நச்சும் மா மருந்தம் என்கோ?  
-       நலங் கடல் அமுதம் என்கோ?  
-அச் சுவைக் கட்டி என்கோ?  
-       அறுசுவை அடிசில் என்கோ?  
-நெய்ச் சுவைத் தேறல் என்கோ?  
-       கனி என்கோ? பால் என்கேனோ? (5)  
-3050. Should I say you are Achudan, the pure one?  
+३०५० अच्चुदन् अमलन् ऎन्गो?  
+       अडियवर् विनै कॆडुक्कुम्  
+नच्चुम् मा मरुन्दम् ऎन्गो?  
+       नलङ् गडल् अमुदम् ऎन्गो?  
+अच् चुवैक् कट्टि ऎन्गो?  
+       अऱुसुवै अडिसिल् ऎन्गो?  
+नॆय्च् चुवैत् तेऱल् ऎन्गो?  
+       कनि ऎन्गो? पाल् ऎन्गेनो? (५)  
+३०५०। Should I say you are Achudan, the pure one?  
 Should I say you are the remedy that destroys the karma of your devotees.  
 Should I say you are the nectar that came from the milky ocean?  
 Should I say you are sweet jaggery?  
@@ -3249,15 +3250,15 @@ Should I say you are the taste of ghee?
 Are you the taste of honey?  
 Are you the taste of fruit or milk?  
 
-3051 பால் என்கோ? நான்கு வேதப்  
-       பயன் என்கோ? சமய நீதி  
-நூல் என்கோ? நுடங்கு கேள்வி  
-       இசை என்கோ? இவற்றுள் நல்ல  
-மேல் என்கோ? வினையின் மிக்க  
-       பயன் என்கோ? கண்ணன் என்கோ?  
-மால் என்கோ? மாயன் என்கோ?  
-       வானவர் ஆதியையே (6)  
-3051. Should I say you are milk?  
+३०५१ पाल् ऎन्गो? नान्गु वेदप्  
+       पयन् ऎन्गो? समय नीदि  
+नूल् ऎन्गो? नुडङ्गु केळ्वि  
+       इसै ऎन्गो? इवट्रुळ् नल्ल  
+मेल् ऎन्गो? विनैयिन् मिक्क  
+       पयन् ऎन्गो? कण्णन् ऎन्गो?  
+माल् ऎन्गो? मायन् ऎन्गो?  
+       वानवर् आदियैये (६)  
+३०५१। Should I say you are milk?  
 Should I say you are the fruit of the Vedas?  
 Should I say you are the moral and religious books?  
 Should I say you are the music that I love to hear?  
@@ -3267,15 +3268,15 @@ Should I say you are Kaṇṇan?
 Should I say you are Maal?  
 Should I say you are Maayan? You are the ancient god.  
 
-3052 வானவர் ஆதி என்கோ?  
-       வானவர் தெய்வம் என்கோ?  
-வானவர் போகம் என்கோ?  
-       வானவர் முற்றும் என்கோ?  
-ஊனம் இல் செல்வம் என்கோ?  
-       ஊனம் இல் சுவர்க்கம் என்கோ?  
-ஊனம் இல் மோக்கம் என்கோ?  
-       ஒளி மணி வண்ணனையே (7)  
-3052. Should I say you are the chief of the gods?  
+३०५२ वानवर् आदि ऎन्गो?  
+       वानवर् तॆय्वम् ऎन्गो?  
+वानवर् पोगम् ऎन्गो?  
+       वानवर् मुट्रुम् ऎन्गो?  
+ऊनम् इल् सॆल्वम् ऎन्गो?  
+       ऊनम् इल् सुवर्क्कम् ऎन्गो?  
+ऊनम् इल् मोक्कम् ऎन्गो?  
+       ऒळि मणि वण्णनैये (७)  
+३०५२। Should I say you are the chief of the gods?  
 Should I say you are the lord of the gods in the sky?  
 Should I say you are the joy of the gods in the sky?  
 Should I say you yourself are all the gods?  
@@ -3284,15 +3285,15 @@ Should I say you are faultless heaven?
 Should I say you are faultless moksha?  
 You have the color of a bright sapphire.  
 
-3053 ஒளி மணி வண்ணன் என்கோ?  
-       ஒருவன் என்று ஏத்த நின்ற  
-நளிர் மதிச் சடையன் என்கோ?  
-       நான்முகக் கடவுள் என்கோ?  
-அளி மகிழ்ந்து உலகம் எல்லாம்  
-       படைத்து அவை ஏத்த நின்ற  
-களி மலர்த் துளவன் எம்மான்  
-       கண்ணனை மாயனையே (8)  
-3053. Should I say you have the color of bright sapphire?  
+३०५३ ऒळि मणि वण्णन् ऎन्गो?  
+       ऒरुवन् ऎण्ड्रु एत्त निण्ड्र  
+नळिर् मदिच् चडैयन् ऎन्गो?  
+       नान्मुगक् कडवुळ् ऎन्गो?  
+अळि मगिऴ्न्दु उलगम् ऎल्लाम्  
+       पडैत्तु अवै एत्त निण्ड्र  
+कळि मलर्त् तुळवन् ऎम्मान्  
+       कण्णनै मायनैये (८)  
+३०५३। Should I say you have the color of bright sapphire?  
 Should I say you are Shiva  
 who has the shining moon in his Jata  
 and is praised by his devotees as the unique god?  
@@ -3302,15 +3303,15 @@ You are Kaṇṇan and Maayan.
 You created all the worlds through your grace  
 and the world praises you.  
 
-3054 கண்ணனை மாயன் தன்னை  
-       கடல் கடைந்து அமுதம் கொண்ட  
-அண்ணலை அச்சுதனை  
-       அனந்தனை அனந்தன் தன்மேல்  
-நண்ணி நன்கு உறைகின்றானை  
-       ஞாலம் உண்டு உமிழ்ந்த மாலை  
-எண்ணும் ஆறு அறியமாட்டேன்  
-       யாவையும் எவரும் தானே (9)  
-3054. He is Kaṇṇan.  
+३०५४ कण्णनै मायन् तन्नै  
+       कडल् कडैन्दु अमुदम् कॊण्ड  
+अण्णलै अच्चुदनै  
+       अनन्दनै अनन्दन् तन्मेल्  
+नण्णि नन्गु उऱैगिण्ड्रानै  
+       ञालम् उण्डु उमिऴ्न्द मालै  
+ऎण्णुम् आऱु अऱियमाट्टेन्  
+       यावैयुम् ऎवरुम् ताने (९)  
+३०५४। He is Kaṇṇan.  
 He is Maayan.  
 The great god churned the milky ocean  
 and took the nectar from it.  
@@ -3320,15 +3321,15 @@ Our Maal swallowed the world and spit it out.
 I do not know how to worship him.  
 He is all things and he is everyone in the world.  
 
-3055 யாவையும் எவரும் தானாய்  
-       அவரவர் சமயம் தோறும்  
-தோய்வு இலன் புலன் ஐந்துக்கும்  
-       சொலப்படான் உணர்வின் மூர்த்தி  
-ஆவி சேர் உயிரின் உள்ளால்  
-       ஆதும் ஓர் பற்று இலாத  
-பாவனை அதனைக் கூடில்  
-       அவனையும் கூடலாமே (10)  
-3055. He is all things and he is all people.  
+३०५५ यावैयुम् ऎवरुम् तानाय्  
+       अवरवर् समयम् तोऱुम्  
+तोय्वु इलन् पुलन् ऐन्दुक्कुम्  
+       सॊलप्पडान् उणर्विन् मूर्त्ति  
+आवि सेर् उयिरिन् उळ्ळाल्  
+       आदुम् ओर् पट्रु इलाद  
+पावनै अदनैक् कूडिल्  
+       अवनैयुम् कूडलामे (१०)  
+३०५५। He is all things and he is all people.  
 He is with everyone whenever they are in need.  
 He is never weary.  
 All the five senses do not know him.  
@@ -3337,33 +3338,33 @@ The soul has no desires
 and if someone understands his own soul,  
 he will join the god because the lord himself is the soul.  
 
-3056 கூடி வண்டு அறையும் தண் தார்க்  
-       கொண்டல் போல் வண்ணன் தன்னை  
-மாடு அலர் பொழில் குருகூர்  
-       வண் சடகோபன் சொன்ன  
-பாடல் ஓர் ஆயிரத்துள்  
-       இவையும் ஓர் பத்தும் வல்லார்  
-வீடு இல போகம் எய்தி  
-       விரும்புவர் அமரர் மொய்த்தே (11)  
-3056. Saḍagopan the generous poet of Thirukuruhur  
+३०५६ कूडि वण्डु अऱैयुम् तण् तार्क्  
+       कॊण्डल् पोल् वण्णन् तन्नै  
+माडु अलर् पॊऴिल् गुरुगूर्  
+       वण् सडगोबन् सॊन्न  
+पाडल् ओर् आयिरत्तुळ्  
+       इवैयुम् ओर् पत्तुम् वल्लार्  
+वीडु इल पोगम् ऎय्दि  
+       विरुम्बुवर् अमरर् मॊय्त्ते (११)  
+३०५६। Saḍagopan the generous poet of Thirukuruhur  
 composed a thousand poems on the cloud-colored god  
 who is adorned with cool garlands that swarm with bees.  
 If devotees learn and recite these ten poems  
 they will enjoy the pleasures of moksha as the gods surround them.  
 -----------  
 
-திருவாய் மொழி - மூன்றாம் பத்து ( ஐந்தாம் திருமொழி, 3057-3067)  
-திருமாலுக்கு அன்பு செய்பவரை ஆதரித்தலும் அன்பிலாரை நிந்தித்தலும்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु ( ऐन्दाम् तिरुमॊऴि, ३०५७-३०६७)  
+तिरुमालुक्कु अन्बु सॆय्बवरै आदरित्तलुम् अन्बिलारै निन्दित्तलुम्  
 
-3057 மொய்ம் மாம் பூம் பொழில் பொய்கை  
-       முதலைச் சிறைப்பட்டு நின்ற  
-கைம்மாவுக்கு அருள் செய்த  
-       கார் முகில் போல் வண்ணன் கண்ணன்  
-எம்மானைச் சொல்லிப் பாடி  
-       எழுந்தும் பறந்தும் துள்ளாதார்  
-தம்மாம் கருமம் என்? சொல்லீர்  
-       தண் கடல் வட்டத்து உள்ளீரே (1)  
-3057. The dark cloud-colored Kaṇṇan  
+३०५७ मॊय्म् माम् पूम् पॊऴिल् पॊय्गै  
+       मुदलैच् चिऱैप्पट्टु निण्ड्र  
+कैम्मावुक्कु अरुळ् सॆय्द  
+       कार् मुगिल् पोल् वण्णन् कण्णन्  
+ऎम्मानैच् चॊल्लिप् पाडि  
+       ऎऴुन्दुम् पऱन्दुम् तुळ्ळादार्  
+तम्माम् करुमम् ऎन्? सॊल्लीर्  
+       तण् कडल् वट्टत्तु उळ्ळीरे (१)  
+३०५७। The dark cloud-colored Kaṇṇan  
 gave his grace to the elephant Gajendra  
 when it was caught by a crocodile in a pond  
 by a grove blooming with flowers that swarmed with bees.  
@@ -3371,15 +3372,15 @@ What is the use of those who do not get up, dance, jump,
 praise and sing the greatness of our lord?  
 O devotees, who live in the world surrounded by the cool ocean, tell me.  
 
-3058 தண் கடல் வட்டத்து உள்ளாரைத்  
-       தமக்கு இரையாத் தடிந்து உண்ணும்  
-திண் கழல் கால் அசுரர்க்குத்  
-       தீங்கு இழைக்கும் திருமாலைப்  
-பண்கள் தலைக்கொள்ளப் பாடி  
-       பறந்தும் குனித்தும் உழலாதார்  
-மண் கொள் உலகில் பிறப்பார்  
-       வல்வினை மோத மலைந்தே (2)  
-3058. Thirumaal destroyed the strong Asurans,  
+३०५८ तण् कडल् वट्टत्तु उळ्ळारैत्  
+       तमक्कु इरैयात् तडिन्दु उण्णुम्  
+तिण् कऴल् काल् असुरर्क्कुत्  
+       तीङ्गु इऴैक्कुम् तिरुमालैप्  
+पण्गळ् तलैक्कॊळ्ळप् पाडि  
+       पऱन्दुम् कुनित्तुम् उऴलादार्  
+मण् कॊळ् उलगिल् पिऱप्पार्  
+       वल्विनै मोद मलैन्दे (२)  
+३०५८। Thirumaal destroyed the strong Asurans,  
 ornamented with heroic anklets on their feet  
 who killed the people of the world  
 surrounded by oceans and ate them.  
@@ -3387,59 +3388,59 @@ If you do not bathe, sing, dance, and praise Thirumaal,
 you will be born on the earth again  
 and suffer because you have collected bad karma.  
 
-3059 மலையை எடுத்து கல் மாரி  
-       காத்து பசுநிரை தன்னைத்  
-தொலைவு தவிர்த்த பிரானைச்  
-       சொல்லிச் சொல்லி நின்று எப்போதும்  
-தலையினோடு ஆதனம் தட்டத்  
-       தடுகுட்டமாய்ப் பறவாதார்  
-அலை கொள் நரகத்து அழுந்திக்  
-       கிடந்து உழைக்கின்ற வம்பரே (3)  
-3059. He carried Govardhana mountain  
+३०५९ मलैयै ऎडुत्तु कल् मारि  
+       कात्तु पसुनिरै तन्नैत्  
+तॊलैवु तविर्त्त पिरानैच्  
+       चॊल्लिच् चॊल्लि निण्ड्रु ऎप्पोदुम्  
+तलैयिनोडु आदनम् तट्टत्  
+       तडुगुट्टमाय्प् पऱवादार्  
+अलै कॊळ् नरगत्तु अऴुन्दिक्  
+       किडन्दु उऴैक्किण्ड्र वम्बरे (३)  
+३०५९। He carried Govardhana mountain  
 and protected the cows from their affliction.  
 Those who do not jump and dance,  
 rolling on the ground,  
 and praise always the dear lord  
 will go to hell and suffer.  
 
-3060 வம்பு அவிழ் கோதைபொருட்டா  
-       மால் விடை ஏழும் அடர்த்த  
-செம்பவளத் திரள் வாயன்  
-       சிரீதரன் தொல் புகழ் பாடி  
-கும்பிடு நட்டம் இட்டு ஆடி  
-       கோகு உகட்டுண்டு உழலாதார்  
-தம் பிறப்பால் பயன் என்னே  
-       சாது சனங்களிடையே? (4)  
-3060. The god Sridharan has a beautiful pearl-like mouth.  
+३०६० वम्बु अविऴ् कोदैबॊरुट्टा  
+       माल् विडै एऴुम् अडर्त्त  
+सॆम्बवळत् तिरळ् वायन्  
+       सिरीदरन् तॊल् पुगऴ् पाडि  
+कुम्बिडु नट्टम् इट्टु आडि  
+       कोगु उगट्टुण्डु उऴलादार्  
+तम् पिऱप्पाल् पयन् ऎन्ने  
+       सादु सनङ्गळिडैये? (४)  
+३०६०। The god Sridharan has a beautiful pearl-like mouth.  
 He killed seven strong bulls to marry Nappinnai  
 whose hair was adorned with fragrant flowers.  
 What is the use of those who are born as sages  
 if they do not sing, dance, kneel, bow their heads  
 and wander and do not praise the lord?  
 
-3061 சாது சனத்தை நலியும்  
-       கஞ்சனைச் சாதிப்பதற்கு  
-ஆதி அம் சோதி உருவை  
-       அங்கு வைத்து இங்குப் பிறந்த  
-வேத முதல்வனைப் பாடி  
-       வீதிகள் தோறும் துள்ளாதார்  
-ஓதி உணர்ந்தவர் முன்னா  
-       என் சவிப்பார் மனிசரே? (5)  
-3061. The ancient beautiful shining god  
+३०६१ सादु सनत्तै नलियुम्  
+       कञ्जनैच् चादिप्पदऱ्‌कु  
+आदि अम् सोदि उरुवै  
+       अङ्गु वैत्तु इङ्गुप् पिऱन्द  
+वेद मुदल्वनैप् पाडि  
+       वीदिगळ् तोऱुम् तुळ्ळादार्  
+ओदि उणर्न्दवर् मुन्ना  
+       ऎन् सविप्पार् मनिसरे? (५)  
+३०६१। The ancient beautiful shining god  
 left his divine form in heaven and was born on the earth  
 to defeat Kamsan who troubled the sages.  
 What can those who do not sing, praise, dance and worship him  
 do before sages who worship him, knowing all the sastras?  
 
-3062 மனிசரும் மற்றும் முற்றும் ஆய்  
-       மாயப் பிறவி பிறந்த  
-தனியன் பிறப்பிலி தன்னை  
-       தடங் கடல் சேர்ந்த பிரானை  
-கனியை கரும்பின் இன் சாற்றை  
-       கட்டியை தேனை அமுதை  
-முனிவு இன்றி ஏத்திக் குனிப்பார்  
-       முழுது உணர் நீர்மையினாரே (6)  
-3062. People have been born in various forms—  
+३०६२ मनिसरुम् मट्रुम् मुट्रुम् आय्  
+       मायप् पिऱवि पिऱन्द  
+तनियन् पिऱप्पिलि तन्नै  
+       तडङ् गडल् सेर्न्द पिरानै  
+कनियै करुम्बिन् इन् साट्रै  
+       कट्टियै तेनै अमुदै  
+मुनिवु इण्ड्रि एत्तिक् कुनिप्पार्  
+       मुऴुदु उणर् नीर्मैयिनारे (६)  
+३०६२। People have been born in various forms—  
 human, animal and others.  
 The matchless god does not have birth  
 and he was born on this earth to save his devotees.  
@@ -3448,15 +3449,15 @@ He is sweet as a fruit, sugarcane juice, jaggery, honey and nectar.
 If devotees praise him with songs and dance without ever growing tired  
 they will receive the wisdom of understanding all things.  
 
-3063 நீர்மை இல் நூற்றுவர் வீய  
-       ஐவர்க்கு அருள்செய்து நின்று  
-பார் மல்கு சேனை அவித்த  
-       பரஞ்சுடரை நினைந்து ஆடி  
-நீர் மல்கு கண்ணினர் ஆகி  
-       நெஞ்சம் குழைந்து நையாதே  
-ஊன் மல்கி மோடு பருப்பார்  
-       உத்தமர்கட்கு என் செய்வாரே? (7)  
-3063, He gave his grace to the five Pandavas  
+३०६३ नीर्मै इल् नूट्रुवर् वीय  
+       ऐवर्क्कु अरुळ्सॆय्दु निण्ड्रु  
+पार् मल्गु सेनै अवित्त  
+       परञ्जुडरै निनैन्दु आडि  
+नीर् मल्गु कण्णिनर् आगि  
+       नॆञ्जम् कुऴैन्दु नैयादे  
+ऊन् मल्गि मोडु परुप्पार्  
+       उत्तमर्गट्कु ऎन् सॆय्वारे? (७)  
+३०६३, He gave his grace to the five Pandavas  
 and destroyed the hundred evil Kauravas.  
 What is the use of people who merely eat well and get fat  
 without thinking of the god?  
@@ -3464,15 +3465,15 @@ What could they do to the good devotees
 who are filled with tears,  
 melting in their hearts with devotion for the god?  
 
-3064 வார் புனல் அம் தண் அருவி  
-       வட திருவேங்கடத்து எந்தை  
-பேர் பல சொல்லிப் பிதற்றி  
-       பித்தர் என்றே பிறர் கூற  
-ஊர் பல புக்கும் புகாதும்  
-       உலோகர் சிரிக்க நின்று ஆடி  
-ஆர்வம் பெருகிக் குனிப்பார்  
-       அமரர் தொழப்படுவாரே (8)  
-3064. Our father stays in northern Thiruvenkaṭam hills  
+३०६४ वार् पुनल् अम् तण् अरुवि  
+       वड तिरुवेङ्गडत्तु ऎन्दै  
+पेर् पल सॊल्लिप् पितट्रि  
+       पित्तर् ऎण्ड्रे पिऱर् कूऱ  
+ऊर् पल पुक्कुम् पुगादुम्  
+       उलोकर् सिरिक्क निण्ड्रु आडि  
+आर्वम् पॆरुगिक् कुनिप्पार्  
+       अमरर् तॊऴप्पडुवारे (८)  
+३०६४। Our father stays in northern Thiruvenkaṭam hills  
 where flourishing cool waterfalls descend with abundant water.  
 Devotees who repeat his many names  
 and wander everywhere and dance  
@@ -3480,15 +3481,15 @@ while the people of the world mock them
 and laugh at them saying that they are crazy  
 will be worshiped by the gods in the sky.  
 
-3065 அமரர் தொழப்படுவானை  
-       அனைத்து உலகுக்கும் பிரானை  
-அமர மனத்தினுள் யோகு புணர்ந்து  
-       அவன் தன்னோடு ஒன்று ஆக  
-அமரத் துணிய வல்லார்கள்  
-       ஒழிய அல்லாதவர் எல்லாம்  
-அமர நினைந்து எழுந்து ஆடி  
-       அலற்றுவதே கருமமே (9)  
-3065. The gods in the sky worship him.  
+३०६५ अमरर् तॊऴप्पडुवानै  
+       अनैत्तु उलगुक्कुम् पिरानै  
+अमर मनत्तिनुळ् योगु पुणर्न्दु  
+       अवन् तन्नोडु ऒण्ड्रु आग  
+अमरत् तुणिय वल्लार्गळ्  
+       ऒऴिय अल्लादवर् ऎल्लाम्  
+अमर निनैन्दु ऎऴुन्दु आडि  
+       अलट्रुवदे करुममे (९)  
+३०६५। The gods in the sky worship him.  
 He is the highest lord of the whole world.  
 Devotees who do yoga and think in their minds  
 that their soul and he are the same  
@@ -3497,15 +3498,15 @@ The devotees who think only of him
 without expecting any benefit,  
 sing, dance and prattle his names will join him.  
 
-3066 கருமமும் கரும பலனும்  
-       ஆகிய காரணன் தன்னை  
-திரு மணி வண்ணனை செங்கண்  
-       மாலினை தேவபிரானை  
-ஒருமை மனத்தினுள் வைத்து  
-       உள்ளம் குழைந்து எழுந்து ஆடி  
-பெருமையும் நாணும் தவிர்ந்து  
-       பிதற்றுமின் பேதைமை தீர்ந்தே (10)  
-3066. He is our actions and the result of our actions.  
+३०६६ करुममुम् करुम पलनुम्  
+       आगिय कारणन् तन्नै  
+तिरु मणि वण्णनै सॆङ्गण्  
+       मालिनै तेवबिरानै  
+ऒरुमै मनत्तिनुळ् वैत्तु  
+       उळ्ळम् कुऴैन्दु ऎऴुन्दु आडि  
+पॆरुमैयुम् नाणुम् तविर्न्दु  
+       पितट्रुमिन् पेदैमै तीर्न्दे (१०)  
+३०६६। He is our actions and the result of our actions.  
 He is the reason for everything.  
 He has a beautiful sapphire color.  
 He, Maal, has beautiful eyes.  
@@ -3516,15 +3517,15 @@ Melt in your hearts, dance,
 be rid of your pride and reticence,  
 prattle and praise him without being ignorant.  
 
-3067 தீர்ந்த அடியவர் தம்மைத்  
-       திருத்திப் பணிகொள்ள வல்ல  
-ஆர்ந்த புகழ் அச்சுதனை  
-       அமரர் பிரானை எம்மானை  
-வாய்ந்த வள வயல் சூழ் தண்  
-       வளங் குருகூர்ச் சடகோபன்  
-நேர்ந்த ஓர் ஆயிரத்து இப் பத்து  
-       அருவினை நீறு செய்யுமே (11)  
-3067. Saḍagopan from cool flourishing Thirukuruhur  
+३०६७ तीर्न्द अडियवर् तम्मैत्  
+       तिरुत्तिप् पणिगॊळ्ळ वल्ल  
+आर्न्द पुगऴ् अच्चुदनै  
+       अमरर् पिरानै ऎम्मानै  
+वाय्न्द वळ वयल् सूऴ् तण्  
+       वळङ् गुरुगूर्च् चडगोबन्  
+नेर्न्द ओर् आयिरत्तु इप् पत्तु  
+       अरुविनै नीऱु सॆय्युमे (११)  
+३०६७। Saḍagopan from cool flourishing Thirukuruhur  
 surrounded with good fields  
 composed a thousand pasurams praising the famous lord Achudan,  
 the father of the gods in the sky.  
@@ -3534,33 +3535,33 @@ If devotees learn these ten pasurams and recite them,
 their bad karma will go away.  
 -----------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (ஆறாம் திருமொழி, 3068-3078)  
-அர்ச்சாவதாரமே எளிது என்று அருளிச்செய்தல்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (आऱाम् तिरुमॊऴि, ३०६८-३०७८)  
+अर्च्चावतारमे ऎळिदु ऎण्ड्रु अरुळिच्चॆय्दल्  
 
-3068 செய்ய தாமரைக் கண்ணன் ஆய் உலகு  
-       ஏழும் உண்ட அவன் கண்டீர்  
-வையம் வானம் மனிசர் தெய்வம்  
-       மற்றும் மற்றும் மற்றும் முற்றும் ஆய்  
-செய்ய சூழ் சுடர் ஞானம் ஆய் வெளிப்  
-       பட்டு இவை படைத்தான் பின்னும்  
-மொய் கொள் சோதியோடு ஆயினான் ஒரு  
-       மூவர் ஆகிய மூர்த்தியே (1)  
-3068. Kaṇṇan has beautiful lotus eyes.  
+३०६८ सॆय्य तामरैक् कण्णन् आय् उलगु  
+       एऴुम् उण्ड अवन् कण्डीर्  
+वैयम् वानम् मनिसर् तॆय्वम्  
+       मट्रुम् मट्रुम् मट्रुम् मुट्रुम् आय्  
+सॆय्य सूऴ् सुडर् ज्ञानम् आय् वॆळिप्  
+       पट्टु इवै पडैत्तान् पिन्नुम्  
+मॊय् कॊळ् सोदियोडु आयिनान् ऒरु  
+       मूवर् आगिय मूर्त्तिये (१)  
+३०६८। Kaṇṇan has beautiful lotus eyes.  
 He swallowed all the seven worlds  
 and then spit out the earth, sky, people, gods  
 and all other things, creating this world again.  
 He is shining wisdom and is surrounded with bright light.  
 He himself is the three gods, Brahma, Shiva and Indra.  
 
-3069 மூவர் ஆகிய மூர்த்தியை முதல்  
-       மூவர்க்கும் முதல்வன் தன்னை  
-சாவம் உள்ளன நீக்குவானை  
-       தடங் கடல் கிடந்தான் தன்னை  
-தேவ தேவனை தென் இலங்கை  
-       எரி எழச் செற்ற வில்லியை  
-பாவ நாசனை பங்கயத் தடங்  
-       கண்ணனைப் பரவுமினோ (2)  
-3069. He himself is the three gods Shiva, Brahma and Indra.  
+३०६९ मूवर् आगिय मूर्त्तियै मुदल्  
+       मूवर्क्कुम् मुदल्वन् तन्नै  
+सावम् उळ्ळन नीक्कुवानै  
+       तडङ् गडल् किडन्दान् तन्नै  
+तेव तेवनै तॆन् इलङ्गै  
+       ऎरि ऎऴच् चॆट्र विल्लियै  
+पाव नासनै पङ्गयत् तडङ्  
+       गण्णनैप् परवुमिनो (२)  
+३०६९। He himself is the three gods Shiva, Brahma and Indra.  
 He is the ancient one for all those three gods.  
 He removes any curse placed on anyone.  
 He sleeps on the great ocean.  
@@ -3570,15 +3571,15 @@ and burned Lanka in the south and destroyed the Rakshasas.
 He is the destroyer of sins.  
 Worship the lotus-eyed Kaṇṇan.  
 
-3070 பரவி வானவர் ஏத்த நின்ற  
-       பரமனை பரஞ்சோதியை  
-குரவை கோத்த குழகனை மணி  
-       வண்ணனை குடக் கூத்தனை  
-அரவம் ஏறி அலை கடல்  
-       அமரும் துயில்கொண்ட அண்ணலை  
-இரவும் நன் பகலும் விடாது என்றும்  
-       ஏத்துதல் மனம் வைம்மினோ (3)  
-3070. He, the highest, the divine light  
+३०७० परवि वानवर् एत्त निण्ड्र  
+       परमनै परञ्जोदियै  
+कुरवै कोत्त कुऴगनै मणि  
+       वण्णनै कुडक् कूत्तनै  
+अरवम् एऱि अलै कडल्  
+       अमरुम् तुयिल्गॊण्ड अण्णलै  
+इरवुम् नन् पगलुम् विडादु ऎण्ड्रुम्  
+       एत्तुदल् मनम् वैम्मिनो (३)  
+३०७०। He, the highest, the divine light  
 is praised by the gods in the sky.  
 He is young and he has the color of a sapphire.  
 Our beautiful god danced the kuravai dance.  
@@ -3586,44 +3587,44 @@ He danced on a pot.
 He, the highest one, sleeps on Adishesha on the ocean.  
 Praise him in your mind night and day without ceasing.  
 
-3071 வைம்மின் நும் மனத்து என்று யான்  
-       உரைக்கின்ற மாயவன் சீர்மையை  
-எம்மனோர்கள் உரைப்பது என்? அது நிற்க  
-       நாள்தொறும் வானவர்  
-தம்மை ஆளும் அவனும் நான்முகனும்  
-       சடைமுடி அண்ணலும்  
-செம்மையால் அவன் பாத பங்கயம்  
-       சிந்தித்து ஏத்தித் திரிவரே (4)  
-3071. I and others like me tell you,  
+३०७१ वैम्मिन् नुम् मनत्तु ऎण्ड्रु यान्  
+       उरैक्किण्ड्र मायवन् सीर्मैयै  
+ऎम्मनोर्गळ् उरैप्पदु ऎन्? अदु निऱ्‌क  
+       नाळ्दॊऱुम् वानवर्  
+तम्मै आळुम् अवनुम् नान्मुगनुम्  
+       सडैमुडि अण्णलुम्  
+सॆम्मैयाल् अवन् पाद पङ्गयम्  
+       सिन्दित्तु एत्तित् तिरिवरे (४)  
+३०७१। I and others like me tell you,  
 "Keep Maayavan and his grace in your mind and worship him."  
 How can we describe his greatness?  
 Even Indra the king of the gods,  
 Nanmuhan and Shiva the great one who has jata  
 think of his lotus feet, praise and wander, worshiping him always.  
 
-3072 திரியும் காற்றோடு அகல் விசும்பு  
-       திணிந்த மண் கிடந்த கடல்  
-எரியும் தீயோடு இரு சுடர் தெய்வம்  
-       மற்றும் மற்றும் முற்றும் ஆய்  
-கரிய மேனியன் செய்ய தாமரைக்  
-       கண்ணன் கண்ணன் விண்ணோர் இறை  
-சுரியும் பல் கருங் குஞ்சி எங்கள்  
-       சுடர் முடி அண்ணல் தோற்றமே (5)  
-3072. He is the wind that blows, the wide sky,  
+३०७२ तिरियुम् काट्रोडु अगल् विसुम्बु  
+       तिणिन्द मण् किडन्द कडल्  
+ऎरियुम् तीयोडु इरु सुडर् तॆय्वम्  
+       मट्रुम् मट्रुम् मुट्रुम् आय्  
+करिय मेनियन् सॆय्य तामरैक्  
+       कण्णन् कण्णन् विण्णोर् इऱै  
+सुरियुम् पल् करुङ् गुञ्जि ऎङ्गळ्  
+       सुडर् मुडि अण्णल् तोट्रमे (५)  
+३०७२। He is the wind that blows, the wide sky,  
 the strong earth, the oceans that surround the earth,  
 fire that burns, the sun and moon and all creatures of the world.  
 Our god Kaṇṇan has a dark body, beautiful lotus eyes and curly hair.  
 He is the god of the gods and he wears a shining crown.  
 
-3073 தோற்றம் கேடு அவை இல்லவன் உடையான்  
-       அவன் ஒரு மூர்த்தியாய்  
-சீற்றத்தோடு அருள் பெற்றவன் அடிக்  
-       கீழ்ப் புக நின்ற செங்கண்மால்  
-நாற்றம் தோற்றம் சுவை ஒலி உறல்  
-       ஆகி நின்ற எம் வானவர்  
-ஏற்றையே அன்றி மற்றொருவரை  
-       யான் இலேன் எழுமைக்குமே (6)  
-3073. He has no beginning or end  
+३०७३ तोट्रम् केडु अवै इल्लवन् उडैयान्  
+       अवन् ऒरु मूर्त्तियाय्  
+सीट्रत्तोडु अरुळ् पॆट्रवन् अडिक्  
+       कीऴ्प् पुग निण्ड्र सॆङ्गण्माल्  
+नाट्रम् तोट्रम् सुवै ऒलि उऱल्  
+       आगि निण्ड्र ऎम् वानवर्  
+एट्रैये अण्ड्रि मट्रॊरुवरै  
+       यान् इलेन् ऎऴुमैक्कुमे (६)  
+३०७३। He has no beginning or end  
 and he owns everything that has a beginning and end.  
 He came in the angry form of a man-lion,  
 destroyed Hiraṇyan and gave his grace to his son Prahaladan  
@@ -3634,15 +3635,15 @@ He is a bull among the gods in the sky.
 I will not have any other as my refuge  
 for all my seven births except him.  
 
-3074 எழுமைக்கும் எனது ஆவிக்கு இன்  
-       அமுதத்தினை எனது ஆர் உயிர்  
-கெழுமிய கதிர்ச் சோதியை மணி  
-       வண்ணனை குடக் கூத்தனை  
-விழுமிய அமரர் முனிவர்  
-       விழுங்கும் கன்னல் கனியினை  
-தொழுமின் தூய மனத்தர் ஆய்  
-       இறையும் நில்லா துயரங்களே (7)  
-3074. He is the refuge for my soul for my seven births.  
+३०७४ ऎऴुमैक्कुम् ऎनदु आविक्कु इन्  
+       अमुदत्तिनै ऎनदु आर् उयिर्  
+कॆऴुमिय गतिर्च् चोदियै मणि  
+       वण्णनै कुडक् कूत्तनै  
+विऴुमिय अमरर् मुनिवर्  
+       विऴुङ्गुम् कन्नल् कनियिनै  
+तॊऴुमिन् तूय मनत्तर् आय्  
+       इऱैयुम् निल्ला तुयरङ्गळे (७)  
+३०७४। He is the refuge for my soul for my seven births.  
 He is sweet nectar for me.  
 He is the shining light that embraces my dear life.  
 He has the color of sapphire.  
@@ -3651,15 +3652,15 @@ He is the sweet fruit tasted by the gods and sages.
 Worship him with a pure heart  
 and your troubles will not be with you even for a moment.  
 
-3075 துயரமே தரு துன்ப இன்ப  
-       வினைகள் ஆய் அவை அல்லன் ஆய்  
-உயர நின்றது ஓர் சோதி ஆய் உலகு  
-       ஏழும் உண்டு உமிழ்ந்தான் தன்னை  
-அயர வாங்கும் நமன் தமர்க்கு அரு  
-       நஞ்சினை அச்சுதன் தன்னை  
-தயரதற்கு மகன் தன்னை அன்றி  
-       மற்று இலேன் தஞ்சமாகவே (8)  
-3075. He is the karma that gives pleasures and sorrows to people  
+३०७५ तुयरमे तरु तुन्ब इन्ब  
+       विनैगळ् आय् अवै अल्लन् आय्  
+उयर निण्ड्रदु ओर् सोदि आय् उलगु  
+       एऴुम् उण्डु उमिऴ्न्दान् तन्नै  
+अयर वाङ्गुम् नमन् तमर्क्कु अरु  
+       नञ्जिनै अच्चुदन् तन्नै  
+तयरदऱ्‌कु मगन् तन्नै अण्ड्रि  
+       मट्रु इलेन् तञ्जमागवे (८)  
+३०७५। He is the karma that gives pleasures and sorrows to people  
 and he is neither pleasure nor sorrow.  
 He is the light that remains high.  
 He swallowed all the seven worlds and spit them out.  
@@ -3668,15 +3669,15 @@ who come to take people’s lives.
 He is imperishable.  
 I have no refuge except the son of Dasaratha.  
 
-3076 தஞ்சம் ஆகிய தந்தை தாயொடு  
-       தானும் ஆய் அவை அல்லன் ஆய்  
-எஞ்சல் இல் அமரர் குலமுதல்  
-       மூவர் தம்முள்ளும் ஆதியை  
-       அஞ்சி நீர் உலகத்துள்ளீர்கள்  
-       அவன் இவன் என்று கூழேன்மின்  
-நெஞ்சினால் நினைப்பான் எவன் அவன்  
-       ஆகும் நீள் கடல் வண்ணனே (9)  
-3076. He is my father and mother and my refuge.  
+३०७६ तञ्जम् आगिय तन्दै तायॊडु  
+       तानुम् आय् अवै अल्लन् आय्  
+ऎञ्जल् इल् अमरर् कुलमुदल्  
+       मूवर् तम्मुळ्ळुम् आदियै  
+       अञ्जि नीर् उलगत्तुळ्ळीर्गळ्  
+       अवन् इवन् ऎण्ड्रु कूऴेन्मिन्  
+नॆञ्जिनाल् निनैप्पान् ऎवन् अवन्  
+       आगुम् नीळ् कडल् वण्णने (९)  
+३०७६। He is my father and mother and my refuge.  
 He is everything and yet he is not everything.  
 He is the ancient one for the three gods Indra, Nanmuhan and Shiva.  
 O people of the world, do not be afraid and worry, saying,  
@@ -3684,15 +3685,15 @@ O people of the world, do not be afraid and worry, saying,
 The ocean-colored god will take whatever form you think of  
 when you contemplate him in your heart.  
 
-3077 கடல் வண்ணன் கண்ணன் விண்ணவர்  
-       கருமாணிக்கம் எனது ஆர் உயிர்  
-பட அரவின் அணைக்கிடந்த  
-       பரஞ்சுடர் பண்டு நூற்றுவர்  
-       அட வரும் படை மங்க ஐவர்கட்கு  
-       ஆகி வெம் சமத்து அன்று தேர்  
-கடவிய பெருமான் கனை கழல்  
-       காண்பது என்றுகொல் கண்களே (10)  
-3077. Our ocean colored-god Kaṇṇan  
+३०७७ कडल् वण्णन् कण्णन् विण्णवर्  
+       करुमाणिक्कम् ऎनदु आर् उयिर्  
+पड अरविन् अणैक्किडन्द  
+       परञ्जुडर् पण्डु नूट्रुवर्  
+       अड वरुम् पडै मङ्ग ऐवर्गट्कु  
+       आगि वॆम् समत्तु अण्ड्रु तेर्  
+कडविय पॆरुमान् कनै कऴल्  
+       काण्बदु ऎण्ड्रुगॊल् कण्गळे (१०)  
+३०७७। Our ocean colored-god Kaṇṇan  
 is a diamond for the gods in the sky.  
 He is my dear life.  
 He is the highest light that sleeps on a snake bed.  
@@ -3701,15 +3702,15 @@ he became the charioteer of Arjuna.
 When will my eyes see the dear god’s feet  
 decorated with sounding anklets?  
 
-3078 கண்கள் காண்டற்கு அரியன்  
-       ஆய் கருத்துக்கு நன்றும் எளியன் ஆய்  
-மண் கொள் ஞாலத்து உயிர்க்கு எல்லாம்  
-       அருள் செய்யும் வானவர் ஈசனை  
-பண் கொள் சோலை வழுதி நாடன்  
-       குருகைக்கோன் சடகோபன் சொல்  
-பண் கொள் ஆயிரத்து இப் பத்தால்  
-       பத்தர் ஆகக் கூடும் பயிலுமினே (11)  
-3078. Saḍagopan, the chief of Thirukuruhur  
+३०७८ कण्गळ् काण्डऱ्‌कु अरियन्  
+       आय् करुत्तुक्कु नण्ड्रुम् ऎळियन् आय्  
+मण् कॊळ् ञालत्तु उयिर्क्कु ऎल्लाम्  
+       अरुळ् सॆय्युम् वानवर् ईसनै  
+पण् कॊळ् सोलै वऴुदि नाडन्  
+       गुरुगैक्कोन् सडगोबन् सॊल्  
+पण् कॊळ् आयिरत्तु इप् पत्ताल्  
+       पत्तर् आगक् कूडुम् पयिलुमिने (११)  
+३०७८। Saḍagopan, the chief of Thirukuruhur  
 that belongs to the fertile country of the Pandiyan king  
 surrounded with groves that swarm with bees  
 composed a thousand pasurams with music  
@@ -3721,14 +3722,14 @@ If devotees learn these ten pasurams and recite them
 they will become the devotees of Kaṇṇan.  
 ------------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (ஏழாம் திருமொழி, 3079-3089)  
-அடியார்களின் அடியார்களுக்குத் தாம் அடியவர் எனல்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (एऴाम् तिरुमॊऴि, ३०७९-३०८९)  
+अडियार्गळिन् अडियार्गळुक्कुत् ताम् अडियवर् ऎनल्  
 
-3079 பயிலும் சுடர் ஒளி மூர்த்தியை பங்கயக் கண்ணனை  
-பயில இனிய நம் பாற்கடல் சேர்ந்த பரமனை  
-பயிலும் திரு உடையார் எவரேலும் அவர் கண்டீர்  
-பயிலும் பிறப்பிடை தோறு எம்மை ஆளும் பரமரே (1)  
-3079. He has the form of a shining bright light.  
+३०७९ पयिलुम् सुडर् ऒळि मूर्त्तियै पङ्गयक् कण्णनै  
+पयिल इनिय नम् पाऱ्‌कडल् सेर्न्द परमनै  
+पयिलुम् तिरु उडैयार् ऎवरेलुम् अवर् कण्डीर्  
+पयिलुम् पिऱप्पिडै तोऱु ऎम्मै आळुम् परमरे (१)  
+३०७९। He has the form of a shining bright light.  
 His eyes are beautiful like lotuses.  
 He is the highest god.  
 He sleeps on the sweet milky ocean.  
@@ -3736,11 +3737,11 @@ See, those who have the fortune of being his devotees
 will be my lords in all my births  
 and they will rule me.  
 
-3080 ஆளும் பரமனை கண்ணனை ஆழிப் பிரான் தன்னை  
-தோளும் ஓர் நான்கு உடைத் தூ மணி வண்ணன் எம்மான் தன்னை  
-தாளும் தடக் கையும் கூப்பிப் பணியும் அவர் கண்டீர்  
-நாளும் பிறப்பிடைதோறு எம்மை ஆளுடை நாதரே (2)  
-3080. He, Kaṇṇan, the highest, rules all.  
+३०८० आळुम् परमनै कण्णनै आऴिप् पिरान् तन्नै  
+तोळुम् ओर् नान्गु उडैत् तू मणि वण्णन् ऎम्मान् तन्नै  
+ताळुम् तडक् कैयुम् कूप्पिप् पणियुम् अवर् कण्डीर्  
+नाळुम् पिऱप्पिडैदोऱु ऎम्मै आळुडै नादरे (२)  
+३०८०। He, Kaṇṇan, the highest, rules all.  
 He is the lord of the world.  
 Our father has four arms  
 and his body has the color of pure sapphire.  
@@ -3748,21 +3749,21 @@ See, the devotees who worship
 folding their hands before my dear lord's feet  
 are my masters and I will serve them in all my births.  
 
-3081 நாதனை ஞாலமும் வானமும் ஏத்தும் நறும் துழாய்ப்  
-போதனை பொன் நெடும் சக்கரத்து எந்தை பிரான் தன்னை  
-பாதம் பணிய வல்லாரைப் பணியும் அவர் கண்டீர்  
-ஓதும் பிறப்பிடைதோறு எம்மை ஆளுடையார்களே (3)  
-3081. He is adorned with fragrant thulasi garlands  
+३०८१ नादनै ञालमुम् वानमुम् एत्तुम् नऱुम् तुऴाय्प्  
+पोदनै पॊन् नॆडुम् सक्करत्तु ऎन्दै पिरान् तन्नै  
+पादम् पणिय वल्लारैप् पणियुम् अवर् कण्डीर्  
+ओदुम् पिऱप्पिडैदोऱु ऎम्मै आळुडैयार्गळे (३)  
+३०८१। He is adorned with fragrant thulasi garlands  
 and praised by the world and the sky.  
 He, my dear father, is wise and carries a golden discus.  
 See, the devotees who worship the feet of the lord  
 are my masters and I will serve them in all my births.  
 
-3082 உடை ஆர்ந்த ஆடையன் கண்டிகையன் உடை நாணினன்  
-புடை ஆர் பொன் நூலினன் பொன் முடியன் மற்றும் பல்கலன்  
-நடையா உடைத் திருநாரணன் தொண்டர் தொண்டர் கண்டீர்  
-இடை ஆர் பிறப்பிடைதோறு எமக்கு எம் பெருமக்களே (4)  
-3082. He wears beautiful garments.  
+३०८२ उडै आर्न्द आडैयन् कण्डिगैयन् उडै नाणिनन्  
+पुडै आर् पॊन् नूलिनन् पॊन् मुडियन् मट्रुम् पल्गलन्  
+नडैया उडैत् तिरुनारणन् तॊण्डर् तॊण्डर् कण्डीर्  
+इडै आर् पिऱप्पिडैदोऱु ऎमक्कु ऎम् पॆरुमक्कळे (४)  
+३०८२। He wears beautiful garments.  
 On his neck is a lovely necklace.  
 His waist is ornamented with a golden thread.  
 He has a golden crown on his head  
@@ -3770,22 +3771,22 @@ and many ornaments decorate his body.
 See, the devotees of the devotees of divine Narayaṇan  
 are the great ones for me in all my births.  
 
-3083 பெருமக்கள் உள்ளவர் தம் பெருமானை அமரர்கட்கு  
-அருமை ஒழிய அன்று ஆர் அமுது ஊட்டிய அப்பனை  
-பெருமை பிதற்ற வல்லாரைப் பிதற்றும் அவர் கண்டீர்  
-வருமையும் இம்மையும் நம்மை அளிக்கும் பிராக்களே (5)  
-3083. He is the lord of good devotees. He is our father.  
+३०८३ पॆरुमक्कळ् उळ्ळवर् तम् पॆरुमानै अमरर्गट्कु  
+अरुमै ऒऴिय अण्ड्रु आर् अमुदु ऊट्टिय अप्पनै  
+पॆरुमै पितट्र वल्लारैप् पितट्रुम् अवर् कण्डीर्  
+वरुमैयुम् इम्मैयुम् नम्मै अळिक्कुम् पिराक्कळे (५)  
+३०८३। He is the lord of good devotees. He is our father.  
 He gave nectar to the gods so their troubles would be removed.  
 The god’s devotees prattle praising other devotees  
 who prattle praising him.  
 Those devotees will protect us in this birth  
 and in all the future births.  
 
-3084 அளிக்கும் பரமனை கண்ணனை ஆழிப் பிரான் தன்னை  
-துளிக்கும் நறும் கண்ணித் தூ மணி வண்ணன் எம்மான் தன்னை  
-ஒளிக் கொண்ட சோதியை உள்ளத்துக் கொள்ளும் அவர் கண்டீர்  
-சலிப்பு இன்றி ஆண்டு எம்மைச் சன்ம சன்மாந்தரம் காப்பரே (6)  
-3084. Our god Kaṇṇan is the highest of all the gods.  
+३०८४ अळिक्कुम् परमनै कण्णनै आऴिप् पिरान् तन्नै  
+तुळिक्कुम् नऱुम् कण्णित् तू मणि वण्णन् ऎम्मान् तन्नै  
+ऒळिक् कॊण्ड सोदियै उळ्ळत्तुक् कॊळ्ळुम् अवर् कण्डीर्  
+सलिप्पु इण्ड्रि आण्डु ऎम्मैच् चन्म सन्मान्दरम् काप्परे (६)  
+३०८४। Our god Kaṇṇan is the highest of all the gods.  
 and he gives us his grace.  
 He has the color of pure sapphire,  
 he carries a discus  
@@ -3795,52 +3796,52 @@ See, those devotees who worship him in their hearts
 will take care of us without ever tiring  
 and protect us in this birth and in all our future births.  
 
-3085 சன்ம சன்மாந்தரம் காத்து அடியார்களைக் கொண்டுபோய்  
-தன்மை பெறுத்தித் தன் தாளிணைக்கீழ்க் கொள்ளும் அப்பனை  
-தொன்மை பிதற்ற வல்லாரைப் பிதற்றும் அவர் கண்டீர்  
-நன்மை பெறுத்து எம்மை நாள் உய்யக்கொள்கின்ற நம்பரே (7)  
-3085. Our father gives his grace to his devotees  
+३०८५ सन्म सन्मान्दरम् कात्तु अडियार्गळैक् कॊण्डुबोय्  
+तन्मै पॆऱुत्तित् तन् ताळिणैक्कीऴ्क् कॊळ्ळुम् अप्पनै  
+तॊन्मै पितट्र वल्लारैप् पितट्रुम् अवर् कण्डीर्  
+नन्मै पॆऱुत्तु ऎम्मै नाळ् उय्यक्कॊळ्गिण्ड्र नम्बरे (७)  
+३०८५। Our father gives his grace to his devotees  
 so that they will not be born again and takes them to moksha.  
 He keeps them under his feet and makes them worship him.  
 I worship the devotees who praise the devotees of the god.  
 They are my friends and they will protect me  
 and forgive all my faults.  
 
-3086 நம்பனை ஞாலம் படைத்தவனை திரு மார்பனை  
-உம்பர் உலகினில் யார்க்கும் உணர்வு அரியான் தன்னை  
-கும்பி நரகர்கள் ஏத்துவரேலும் அவர் கண்டீர்  
-எம் பல் பிறப்பிடைதோறு எம் தொழுகுலம் தாங்களே (8)  
-3086. The god, our friend, created the world.  
+३०८६ नम्बनै ञालम् पडैत्तवनै तिरु मार्बनै  
+उम्बर् उलगिनिल् यार्क्कुम् उणर्वु अरियान् तन्नै  
+कुम्बि नरगर्गळ् एत्तुवरेलुम् अवर् कण्डीर्  
+ऎम् पल् पिऱप्पिडैदोऱु ऎम् तॊऴुगुलम् ताङ्गळे (८)  
+३०८६। The god, our friend, created the world.  
 He embraces Lakshmi on his chest.  
 Even the gods in the sky do not understand the lord.  
 In all our births, we will worship even those  
 who stay in the most sinful hell if they praise the god.  
 
-3087 குலம் தாங்கு சாதிகள் நாலிலும் கீழ் இழிந்து எத்தனை  
-நலம் தான் இலாத சண்டாள சண்டாளர்கள் ஆகிலும்  
-வலம் தாங்கு சக்கரத்து அண்ணல் மணிவண்ணற்கு ஆள் என்று உள்  
-கலந்தார் அடியார் தம் அடியார் எம் அடிகளே (9)  
-3087. Even those who were born in castes lower than the four varnas,  
+३०८७ कुलम् ताङ्गु सादिगळ् नालिलुम् कीऴ् इऴिन्दु ऎत्तनै  
+नलम् तान् इलाद सण्डाळ सण्डाळर्गळ् आगिलुम्  
+वलम् ताङ्गु सक्करत्तु अण्णल् मणिवण्णऱ्‌कु आळ् ऎण्ड्रु उळ्  
+कलन्दार् अडियार् तम् अडियार् ऎम् अडिगळे (९)  
+३०८७। Even those who were born in castes lower than the four varnas,  
 those who are Chandalas without the respect of others  
 are gods for me if they are the devotees of his devotees  
 and if they keep in their hearts the highest sapphire-colored god  
 who carries a discus in his right hand.  
 
-3088 அடி ஆர்ந்த வையம் உண்டு ஆல் இலை அன்னவசம் செய்யும்  
-படி யாதும் இல் குழவிப்படி எந்தை பிரான் தனக்கு  
-அடியார் அடியார் தம் அடியார் அடியார் தமக்கு  
-அடியார் அடியார் தம் அடியார் அடியோங்களே (10)  
-3088. Our father, the faultless god,  
+३०८८ अडि आर्न्द वैयम् उण्डु आल् इलै अन्नवसम् सॆय्युम्  
+पडि यादुम् इल् कुऴविप्पडि ऎन्दै पिरान् तनक्कु  
+अडियार् अडियार् तम् अडियार् अडियार् तमक्कु  
+अडियार् अडियार् तम् अडियार् अडियोङ्गळे (१०)  
+३०८८। Our father, the faultless god,  
 swallowed the world as a dear child and slept on a banyan leaf.  
 As a dwarf he measured the world.  
 We are the devotees of the devotees of the devotees  
 of the devotees of his devotees.  
 
-3089 அடி ஓங்கு நூற்றுவர் வீய அன்று ஐவர்க்கு அருள்செய்த  
-நெடியோனைத் தென் குருகூர்ச் சடகோபன் குற்றேவல்கள்  
-அடி ஆர்ந்த ஆயிரத்துள் இவை பத்து அவன் தொண்டர்மேல்  
-முடிவு ஆரக் கற்கிற்கில் சன்மம் செய்யாமை முடியுமே (11)  
-3089. Saḍagopan of southern Thirukuruhur  
+३०८९ अडि ओङ्गु नूट्रुवर् वीय अण्ड्रु ऐवर्क्कु अरुळ्सॆय्द  
+नॆडियोनैत् तॆन् गुरुगूर्च् चडगोबन् कुट्रेवल्गळ्  
+अडि आर्न्द आयिरत्तुळ् इवै पत्तु अवन् तॊण्डर्मेल्  
+मुडिवु आरक् कऱ्‌किऱ्‌किल् सन्मम् सॆय्यामै मुडियुमे (११)  
+३०८९। Saḍagopan of southern Thirukuruhur  
 composed a thousand pasurams on the high god  
 who destroyed the hundred Kauravas  
 and gave his grace to the five Pandavas.  
@@ -3848,14 +3849,14 @@ If you learn these ten poems that praise the devotees of the god
 and worship them, you will not be born again.  
 -----------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (எட்டாம் திருமொழி, 3090-3100)  
-கரணங்களும் தாமும் பெருவிடாய்ப்பட்டுப் பேசுதல்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३०९०-३१००)  
+करणङ्गळुम् तामुम् पॆरुविडाय्प्पट्टुप् पेसुदल्  
 
-3090 முடியானே மூவுலகும் தொழுது ஏத்தும் சீர்  
-அடியானே ஆழ் கடலைக் கடைந்தாய் புள் ஊர்  
-கொடியானே கொண்டல் வண்ணா அண்டத்து உம்பரில்  
-நெடியானே என்று கிடக்கும் என் நெஞ்சமே (1)  
-3090. My heart always praises you saying,  
+३०९० मुडियाने मूवुलगुम् तॊऴुदु एत्तुम् सीर्  
+अडियाने आऴ् कडलैक् कडैन्दाय् पुळ् ऊर्  
+कॊडियाने कॊण्डल् वण्णा अण्डत्तु उम्बरिल्  
+नॆडियाने ऎण्ड्रु किडक्कुम् ऎन् नॆञ्जमे (१)  
+३०९०। My heart always praises you saying,  
 "You wear a crown.  
 All the three worlds worship you  
 and praise the fame of your feet that measured the world.  
@@ -3864,63 +3865,63 @@ You ride on an eagle and carry an eagle banner.
 You have the color of a cloud.  
 You are the tallest among all the gods in heaven."  
 
-3091 நெஞ்சமே நீள் நகர் ஆக இருந்த என்  
-தஞ்சனே தண் இலங்கைக்கு இறையைச் செற்ற  
-நஞ்சனே ஞாலம் கொள்வான் குறள் ஆகிய  
-வஞ்சனே என்னும் எப்போதும் என் வாசகமே (2)  
-3091. You are my refuge and you stay in my heart.  
+३०९१ नॆञ्जमे नीळ् नगर् आग इरुन्द ऎन्  
+तञ्जने तण् इलङ्गैक्कु इऱैयैच् चॆट्र  
+नञ्जने ञालम् कॊळ्वान् कुऱळ् आगिय  
+वञ्जने ऎन्नुम् ऎप्पोदुम् ऎन् वाचकमे (२)  
+३०९१। You are my refuge and you stay in my heart.  
 You are the poison that burned cool Lanka.  
 You cheated Mahabali when you came as a dwarf  
 and took the earth from him.  
 My lips always wish to praise you.  
 
-3092 வாசகமே ஏத்த அருள் செய்யும் வானவர் தம்  
-நாயகனே நாள் இளம் திங்களைக் கோள் விடுத்து  
-வேய் அகம் பால் வெண்ணெய் தொடு உண்ட ஆன் ஆயர்  
-தாயவனே என்று தடவும் என் கைகளே (3)  
-3092. You are the lord of the gods in the sky.  
+३०९२ वाचकमे एत्त अरुळ् सॆय्युम् वानवर् तम्  
+नायगने नाळ् इळम् तिङ्गळैक् कोळ् विडुत्तु  
+वेय् अगम् पाल् वॆण्णॆय् तॊडु उण्ड आन् आयर्  
+तायवने ऎण्ड्रु तडवुम् ऎन् कैगळे (३)  
+३०९२। You are the lord of the gods in the sky.  
 You are praised by the sastras.  
 You removed the curse of the crescent moon.  
 You are the sweet child of a cowherd.  
 You stole butter from the huts of the cowherds.  
 My arms want to embrace you.  
 
-3093 கைகளால் ஆரத் தொழுது தொழுது உன்னை  
-வைகலும் மாத்திரைப் போதும் ஓர் வீடு இன்றி  
-பை கொள் பாம்பு ஏறி உறை பரனே உன்னை  
-மெய்கொள்ளக் காண விரும்பும் என் கண்களே (4)  
-3093. You are the highest god.  
+३०९३ कैगळाल् आरत् तॊऴुदु तॊऴुदु उन्नै  
+वैगलुम् मात्तिरैप् पोदुम् ओर् वीडु इण्ड्रि  
+पै कॊळ् पाम्बु एऱि उऱै परने उन्नै  
+मॆय्गॊळ्ळक् काण विरुम्बुम् ऎन् कण्गळे (४)  
+३०९३। You are the highest god.  
 You sleep on the snake Adishesha.  
 I want to worship you every day and embrace you  
 with my arms without leaving you.  
 My eyes want to see you truly.  
 
-3094 கண்களால் காண வருங்கொல் என்று ஆசையால்  
-மண் கொண்ட வாமனன் ஏற மகிழ்ந்து செல்  
-பண் கொண்ட புள்ளின் சிறகு ஒலி பாவித்து  
-திண் கொள்ள ஓர்க்கும் கிடந்து என் செவிகளே (5)  
-3094. My eyes want to see him as he was  
+३०९४ कण्गळाल् काण वरुङ्गॊल् ऎण्ड्रु आसैयाल्  
+मण् कॊण्ड वामनन् एऱ मगिऴ्न्दु सॆल्  
+पण् कॊण्ड पुळ्ळिन् सिऱगु ऒलि पावित्तु  
+तिण् कॊळ्ळ ओर्क्कुम् किडन्दु ऎन् सॆविगळे (५)  
+३०९४। My eyes want to see him as he was  
 when he went as a dwarf to Mahabali to take over the earth  
 riding on Garuda, the eagle.  
 My ears want to hear the noise of the wings  
 of Garuḍa that sound like the singing of the Sama Veda.  
 
-3095 செவிகளால் ஆர நின் கீர்த்திக் கனி என்னும்  
-கவிகளே காலப் பண் தேன் உறைப்பத் துற்று  
-புவியின்மேல் பொன் நெடும் சக்கரத்து உன்னையே  
-அவிவு இன்றி ஆதரிக்கும் எனது ஆவியே (6)  
-3095. O lord, you carry a discus.  
+३०९५ सॆविगळाल् आर निन् कीर्त्तिक् कनि ऎन्नुम्  
+कविगळे कालप् पण् तेन् उऱैप्पत् तुट्रु  
+पुवियिन्मेल् पॊन् नॆडुम् सक्करत्तु उन्नैये  
+अविवु इण्ड्रि आदरिक्कुम् ऎनदु आविये (६)  
+३०९५। O lord, you carry a discus.  
 I want to recite the poems that are sweet as fruit and honey  
 which I composed to praise your fame.  
 You carry a golden discus and stay in the world  
 and my heart praises you.  
 Give me your grace on this earth.  
 
-3096 ஆவியே ஆர் அமுதே என்னை ஆளுடைத்  
-தூவி அம் புள் உடையாய் சுடர் நேமியாய்  
-பாவியேன் நெஞ்சம் புலம்பப் பலகாலும்  
-கூவியும் காணப்பெறேன் உன கோலமே (7)  
-3096. You are my soul.  
+३०९६ आविये आर् अमुदे ऎन्नै आळुडैत्  
+तूवि अम् पुळ् उडैयाय् सुडर् नेमियाय्  
+पावियेन् नॆञ्जम् पुलम्बप् पलगालुम्  
+कूवियुम् काणप्पॆऱेन् उन कोलमे (७)  
+३०९६। You are my soul.  
 You are sweet nectar.  
 You are my ruler and you ride on Garuda, the eagle.  
 You carry a shining discus.  
@@ -3929,22 +3930,22 @@ Even though I have called for you a long time,
 saying that I want see you, lonely in my heart,  
 I cannot see your form.  
 
-3097 கோலமே தாமரைக் கண்ணது ஓர் அஞ்சன  
-நீலமே நின்று எனது ஆவியை ஈர்கின்ற  
-சீலமே சென்று செல்லாதன முன் நிலாம்  
-காலமே உன்னை எந் நாள் கண்டுகொள்வனே? (8)  
-3097. You have a beautiful form.  
+३०९७ कोलमे तामरैक् कण्णदु ओर् अञ्जन  
+नीलमे निण्ड्रु ऎनदु आवियै ईर्गिण्ड्र  
+शीलमे सॆण्ड्रु सॆल्लादन मुन् निलाम्  
+कालमे उन्नै ऎन् नाळ् कण्डुगॊळ्वने? (८)  
+३०९७। You have a beautiful form.  
 You have lotus eyes.  
 Your body is the color of kohl.  
 You have a beautiful nature that attracts my soul.  
 You are the past, present and future.  
 When will the day come that I see you?  
 
-3098 கொள்வன் நான் மாவலி மூவடி தா என்ற  
-கள்வனே கஞ்சனை வஞ்சித்து வாணனை  
-உள் வன்மை தீர ஓர் ஆயிரம் தோள் துணித்த  
-புள் வல்லாய் உன்னை எஞ்ஞான்று பொருந்துவனே? (9)  
-3098. You, a thief, went to Mahabali  
+३०९८ कॊळ्वन् नान् मावलि मूवडि ता ऎण्ड्र  
+कळ्वने कञ्जनै वञ्जित्तु वाणनै  
+उळ् वन्मै तीर ओर् आयिरम् तोळ् तुणित्त  
+पुळ् वल्लाय् उन्नै ऎञ्ञाण्ड्रु पॊरुन्दुवने? (९)  
+३०९८। You, a thief, went to Mahabali  
 in the form of a dwarf and asked him,  
 "O Mahabali, give me three feet of your land  
 and I will take it," and you cheated him.  
@@ -3953,11 +3954,11 @@ You destroyed the valor of Vaaṇasuran and cut his thousand arms.
 You are strong and you ride on an eagle.  
 When will the time come that I join with you?  
 
-3099 பொருந்திய மா மருதின் இடை போய எம்  
-பெருந்தகாய் உன் கழல் காணிய பேதுற்று  
-வருந்தி நான் வாசகமாலை கொண்டு உன்னையே  
-இருந்து இருந்து எத்தனை காலம் புலம்புவனே? (10)  
-3099. O great god,  
+३०९९ पॊरुन्दिय मा मरुदिन् इडै पोय ऎम्  
+पॆरुन्दगाय् उन् कऴल् काणिय पेदुट्रु  
+वरुन्दि नान् वाचकमालै कॊण्डु उन्नैये  
+इरुन्दु इरुन्दु ऎत्तनै कालम् पुलम्बुवने? (१०)  
+३०९९। O great god,  
 when two Asurans came as large marudam trees,  
 you went between them and destroyed them.  
 I long to see your feet decorated with anklets.  
@@ -3965,11 +3966,11 @@ How long can I sing your praise,
 prattling with my garlands of words  
 and staying forever in this world?  
 
-3100 புலம்பு சீர்ப் பூமி அளந்த பெருமானை  
-நலம் கொள் சீர் நன் குருகூர்ச் சடகோபன்சொல்  
-வலம் கொண்ட ஆயிரத்துள் இவையும் ஓர் பத்து  
-இலங்கு வான் யாவரும் ஏறுவர் சொன்னாலே (11)  
-3100. Saḍagopan of flourishing Thirukuruhur  
+३१०० पुलम्बु सीर्प् पूमि अळन्द पॆरुमानै  
+नलम् कॊळ् सीर् नन् गुरुगूर्च् चडगोबन्सॊल्  
+वलम् कॊण्ड आयिरत्तुळ् इवैयुम् ओर् पत्तु  
+इलङ्गु वान् यावरुम् एऱुवर् सॊन्नाले (११)  
+३१००। Saḍagopan of flourishing Thirukuruhur  
 composed a thousand poems on the lord.  
 The god measured the world  
 and all creatures prattle in their desire to see him.  
@@ -3977,14 +3978,14 @@ If devotees learn and recite these ten poems
 they will reach the highest heaven.  
 ---------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (ஒன்பதாம் திருமொழி, 3101-3111)  
-மானிடரைப் பாடாது மாதவனை ஏத்தும் எனல்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३१०१-३१११)  
+मानिडरैप् पाडादु मादवनै एत्तुम् ऎनल्  
 
-3101 சொன்னால் விரோதம் இது ஆகிலும் சொல்லுவான் கேண்மினோ  
-என் நாவில் இன் கவி யான் ஒருவர்க்கும் கொடுக்கிலேன்  
-தென்னா தெனா என்று வண்டு முரல் திருவேங்கடத்து  
-என் ஆனை என் அப்பன் எம் பெருமான் உளனாகவே (1)  
-3101. If I say this it may be a mistake,  
+३१०१ सॊन्नाल् विरोदम् इदु आगिलुम् सॊल्लुवान् केण्मिनो  
+ऎन् नाविल् इन् कवि यान् ऒरुवर्क्कुम् कॊडुक्किलेन्  
+तॆन्ना तॆना ऎण्ड्रु वण्डु मुरल् तिरुवेङ्गडत्तु  
+ऎन् आनै ऎन् अप्पन् ऎम् पॆरुमान् उळनागवे (१)  
+३१०१। If I say this it may be a mistake,  
 but I will still say it, listen.  
 I won’t give anyone any sweet poems  
 that I composed myself for the lord.  
@@ -3992,11 +3993,11 @@ In my poems I will only praise my dear father
 of Srirangam where the bees sing, "tenna, tenna."  
 This I promise.  
 
-3102 உளனாகவே எண்ணி தன்னை ஒன்றாக தன் செல்வத்தை  
-வளனா மதிக்கும் இம் மானிடத்தைக் கவி பாடி என்  
-குளன் ஆர் கழனி சூழ் கண்ணன் குறுங்குடி மெய்ம்மையே  
-உளனாய எந்தையை எந்தை பெம்மானை ஒழியவே? (2)  
-3102. My father stays in Thirukurungudi  
+३१०२ उळनागवे ऎण्णि तन्नै ऒण्ड्राग तन् सॆल्वत्तै  
+वळना मदिक्कुम् इम् मानिडत्तैक् कवि पाडि ऎन्  
+कुळन् आर् कऴनि सूऴ् कण्णन् कुऱुङ्गुडि मॆय्म्मैये  
+उळनाय ऎन्दैयै ऎन्दै पॆम्मानै ऒऴियवे? (२)  
+३१०२। My father stays in Thirukurungudi  
 abundant with ponds and flourishing with fields.  
 What is the benefit of composing poems on people  
 who think that wealth is the only important thing in life  
@@ -4004,22 +4005,22 @@ and wealth is the only thing that they need?
 They don’t understand that our dear god, our father,  
 is the only true thing in the world.  
 
-3103 ஒழிவு ஒன்று இல்லாத பல் ஊழிதோறு ஊழி நிலாவப்போம்  
-வழியைத் தரும் நங்கள் வானவர் ஈசனை நிற்கப் போய்  
-கழிய மிக நல்லவான் கவி கொண்டு புலவீர்காள்  
-இழியக் கருதி ஓர் மானிடம் பாடல் என் ஆவதே? (3)  
-3103. O poets,  
+३१०३ ऒऴिवु ऒण्ड्रु इल्लाद पल् ऊऴिदोऱु ऊऴि निलावप्पोम्  
+वऴियैत् तरुम् नङ्गळ् वानवर् ईसनै निऱ्‌कप् पोय्  
+कऴिय मिग नल्लवान् कवि कॊण्डु पुलवीर्गाळ्  
+इऴियक् करुदि ओर् मानिडम् पाडल् ऎन् आवदे? (३)  
+३१०३। O poets,  
 why do you compose wonderful poems on common people  
 and make yourself cheap?  
 He is the lord of the sky  
 and shows you the way to reach moksha  
 age after age unceasingly.  
 
-3104 என் ஆவது எத்தனை நாளைக்குப் போதும் புலவீர்காள்  
-மன்னா மனிசரைப் பாடிப் படைக்கும் பெரும் பொருள்?  
-மின் ஆர் மணி முடி விண்ணவர் தாதையைப் பாடினால்  
-தன்னாகவே கொண்டு சன்மம் செய்யாமையும் கொள்ளுமே (4)  
-3104. O poets, think!  
+३१०४ ऎन् आवदु ऎत्तनै नाळैक्कुप् पोदुम् पुलवीर्गाळ्  
+मन्ना मनिसरैप् पाडिप् पडैक्कुम् पॆरुम् पॊरुळ्?  
+मिन् आर् मणि मुडि विण्णवर् तादैयैप् पाडिनाल्  
+तन्नागवे कॊण्डु सन्मम् सॆय्यामैयुम् कॊळ्ळुमे (४)  
+३१०४। O poets, think!  
 People do not live forever.  
 How long will the wealth last that you receive  
 composing poems praising them?  
@@ -4029,11 +4030,11 @@ of the father of the gods in the sky
 he will accept you as his devotee  
 and give you his grace so you will not be born again.  
 
-3105 கொள்ளும் பயன் இல்லை குப்பை கிளர்த்தன்ன செல்வத்தை  
-வள்ளல் புகழ்ந்து நும் வாய்மை இழக்கும் புலவீர்காள்  
-கொள்ளக் குறைவு இலன் வேண்டிற்று எல்லாம் தரும் கோது இல் என்  
-வள்ளல் மணிவண்ணன் தன்னைக் கவி சொல்ல வம்மினோ (5)  
-3105. O poets,  
+३१०५ कॊळ्ळुम् पयन् इल्लै कुप्पै किळर्त्तन्न सॆल्वत्तै  
+वळ्ळल् पुगऴ्न्दु नुम् वाय्मै इऴक्कुम् पुलवीर्गाळ्  
+कॊळ्ळक् कुऱैवु इलन् वेण्डिट्रु ऎल्लाम् तरुम् कोदु इल् ऎन्  
+वळ्ळल् मणिवण्णन् तन्नैक् कवि सॊल्ल वम्मिनो (५)  
+३१०५। O poets,  
 you praise wicked people to get their corrupt wealth  
 and lose your sincerity. This is a useless thing to do.  
 God is generous and however much wealth he gives,  
@@ -4042,22 +4043,22 @@ He will give whatever you want.
 He is faultless. He has the color of sapphire.  
 Come, compose poems praising the generous god.  
 
-3106 வம்மின் புலவீர் நும் மெய் வருத்திக் கைசெய்து உய்ம்மினோ  
-இம் மன் உலகினில் செல்வர் இப்போது இல்லை நோக்கினோம்  
-நும் இன் கவி கொண்டு நும் நும் இட்டா தெய்வம் ஏத்தினால்  
-செம் மின் சுடர் முடி என் திருமாலுக்குச் சேருமே (6)  
-3106. O poets, come.  
+३१०६ वम्मिन् पुलवीर् नुम् मॆय् वरुत्तिक् कैसॆय्दु उय्म्मिनो  
+इम् मन् उलगिनिल् सॆल्वर् इप्पोदु इल्लै नोक्किनोम्  
+नुम् इन् कवि कॊण्डु नुम् नुम् इट्टा तॆय्वम् एत्तिनाल्  
+सॆम् मिन् सुडर् मुडि ऎन् तिरुमालुक्कुच् चेरुमे (६)  
+३१०६। O poets, come.  
 You work hard and live.  
 You know, the rich will not be rich always.  
 If you compose wonderful poems on the gods you like,  
 still they will go to Thirumaal,  
 ornamented with a shining beautiful crown.  
 
-3107 சேரும் கொடை புகழ் எல்லை இலானை ஓர் ஆயிரம்  
-பேரும் உடைய பிரானை அல்லால் மற்று யான் கிலேன்  
-மாரி அனைய கை மால் வரை ஒக்கும் திண் தோள் என்று  
-பாரில் ஓர் பற்றையைப் பச்சைப் பசும் பொய்கள் பேசவே (7)  
-3107. There is no limit to his generosity and fame.  
+३१०७ सेरुम् कॊडै पुगऴ् ऎल्लै इलानै ओर् आयिरम्  
+पेरुम् उडैय पिरानै अल्लाल् मट्रु यान् किलेन्  
+मारि अनैय कै माल् वरै ऒक्कुम् तिण् तोळ् ऎण्ड्रु  
+पारिल् ओर् पट्रैयैप् पच्चैप् पसुम् पॊय्गळ् पेसवे (७)  
+३१०७। There is no limit to his generosity and fame.  
 He is praised with a thousand names.  
 I will not praise anyone but him.  
 If anyone in this world praises a miser saying,  
@@ -4065,59 +4066,59 @@ If anyone in this world praises a miser saying,
 and your arms are strong as mountains,"  
 that is just a lie.  
 
-3108 வேயின் மலிபுரை தோளி பின்னைக்கு மணாளனை  
-ஆய பெரும் புகழ் எல்லை இலாதன பாடிப்போய்  
-காயம் கழித்து அவன் தாள் இணைக்கீழ்ப் புகும் காதலன்  
-மாய மனிசரை என் சொல்ல வல்லேன் என் வாய்கொண்டே? (8)  
-3108. Nappinnai has beautiful bamboo-like arms  
+३१०८ वेयिन् मलिबुरै तोळि पिन्नैक्कु मणाळनै  
+आय पॆरुम् पुगऴ् ऎल्लै इलादन पाडिप्पोय्  
+कायम् कऴित्तु अवन् ताळ् इणैक्कीऴ्प् पुगुम् कादलन्  
+माय मनिसरै ऎन् सॊल्ल वल्लेन् ऎन् वाय्गॊण्डे? (८)  
+३१०८। Nappinnai has beautiful bamboo-like arms  
 and he is her beloved.  
 He has boundless fame.  
 I want to sing his praise and worship his feet  
 until I leave this world.  
 My mouth will never praise the deceiving people of this world.  
 
-3109 வாய்கொண்டு மானிடம் பாட வந்த கவியேன் அல்லேன்  
-ஆய்கொண்ட சீர் வள்ளல் ஆழிப் பிரான் எனக்கே உளன்  
-சாய் கொண்ட இம்மையும் சாதித்து வானவர் நாட்டையும்  
-நீ கண்டுகொள் என்று வீடும் தரும் நின்றுநின்றே (9)  
-3109. I do not want to praise people in my poems.  
+३१०९ वाय्गॊण्डु मानिडम् पाड वन्द कवियेन् अल्लेन्  
+आय्गॊण्ड सीर् वळ्ळल् आऴिप् पिरान् ऎनक्के उळन्  
+साय् कॊण्ड इम्मैयुम् सादित्तु वानवर् नाट्टैयुम्  
+नी कण्डुगॊळ् ऎण्ड्रु वीडुम् तरुम् निण्ड्रुनिण्ड्रे (९)  
+३१०९। I do not want to praise people in my poems.  
 He is a generous lord and he carries a discus.  
 He grazes the cows and he alone belongs to me.  
 He says, "I will give you a happy life in this world  
 and you will attain moksha," and he grants me moksha.  
 
-3110 நின்றுநின்று பல நாள் உய்க்கும் இவ் உடல் நீங்கிப்போய்  
-சென்று சென்று ஆகிலும் கண்டு சன்மம் கழிப்பான் எண்ணி  
-ஒன்றிஒன்றி உலகம் படைத்தான் கவி ஆயினேற்கு  
-என்றும் என்றும் இனி மற்றொருவர் கவி ஏற்குமே? (10)  
-3110. This body stays in the world for many days  
+३११० निण्ड्रुनिण्ड्रु पल नाळ् उय्क्कुम् इव् उडल् नीङ्गिप्पोय्  
+सॆण्ड्रु सॆण्ड्रु आगिलुम् कण्डु सन्मम् कऴिप्पान् ऎण्णि  
+ऒण्ड्रिऒण्ड्रि उलगम् पडैत्तान् कवि आयिनेऱ्‌कु  
+ऎण्ड्रुम् ऎण्ड्रुम् इनि मट्रॊरुवर् कवि एऱ्‌कुमे? (१०)  
+३११०। This body stays in the world for many days  
 and after it leaves it returns to the world, taking many births.  
 I want only to praise him and compose poems about him  
 and he will not accept poems composed by anyone but me.  
 
-3111 ஏற்கும் பெரும் புகழ் வானவர் ஈசன் கண்ணன் தனக்கு  
-ஏற்கும் பெரும் புகழ் வண் குருகூர்ச் சடகோபன் சொல்  
-ஏற்கும் பெரும் புகழ் ஆயிரத்துள் இவையும் ஓர் பத்து  
-ஏற்கும் பெரும் புகழ் சொல்ல வல்லார்க்கு இல்லை சன்மமே (11)  
-3111. Saḍagopan of Thirukuruhur is praised by all.  
+३१११ एऱ्‌कुम् पॆरुम् पुगऴ् वानवर् ईसन् कण्णन् तनक्कु  
+एऱ्‌कुम् पॆरुम् पुगऴ् वण् गुरुगूर्च् चडगोबन् सॊल्  
+एऱ्‌कुम् पॆरुम् पुगऴ् आयिरत्तुळ् इवैयुम् ओर् पत्तु  
+एऱ्‌कुम् पॆरुम् पुगऴ् सॊल्ल वल्लार्क्कु इल्लै सन्ममे (११)  
+३१११। Saḍagopan of Thirukuruhur is praised by all.  
 He composed a thousand pasurams on the lord  
 who is praised by all the gods in the sky.  
 If devotees learn these ten famous poems  
 and know them well they will not be born again in this world.  
 ------------  
 
-திருவாய் மொழி - மூன்றாம் பத்து (பத்தாம் திருமொழி, 3112-3122)  
-திருமால் சீர் பரவப்பெற்ற எனக்கு ஒரு குறையும் இல்லை எனல்  
+तिरुवाय् मॊऴि - मूण्ड्राम् पत्तु (पत्ताम् तिरुमॊऴि, ३११२-३१२२)  
+तिरुमाल् सीर् परवप्पॆट्र ऎनक्कु ऒरु कुऱैयुम् इल्लै ऎनल्  
 
-3112 சன்மம் பலபல செய்து வெளிப்பட்டு  
-       சங்கொடு சக்கரம் வில்  
-ஒண்மை உடைய உலக்கை ஒள் வாள்  
-       தண்டு கொண்டு புள் ஊர்ந்து உலகில்  
-வன்மை உடைய அரக்கர் அசுரரை  
-       மாளப் படை பொருத  
-நன்மை உடையவன் சீர் பரவப் பெற்ற  
-       நான் ஓர் குறைவு இலனே (1)  
-3112. He came to the earth in many forms.  
+३११२ सन्मम् पलबल सॆय्दु वॆळिप्पट्टु  
+       सङ्गॊडु सक्करम् विल्  
+ऒण्मै उडैय उलक्कै ऒळ् वाळ्  
+       तण्डु कॊण्डु पुळ् ऊर्न्दु उलगिल्  
+वन्मै उडैय अरक्कर् असुररै  
+       माळप् पडै पॊरुद  
+नन्मै उडैयवन् सीर् परवप् पॆट्र  
+       नान् ओर् कुऱैवु इलने (१)  
+३११२। He came to the earth in many forms.  
 He carries a conch, discus, bow, shining sword and a strong club.  
 He rides on an eagle.  
 He fought with the strong Asurans, killed them in battle  
@@ -4125,15 +4126,15 @@ and saved the earth from its trials.
 I am his devotee and I praise him  
 and I will not have any difficulty in my life.  
 
-3113 குறைவு இல் தடங் கடல் கோள் அரவு ஏறி தன்  
-       கோலச் செந்தாமரைக்கண்  
-உறைபவன் போல ஓர் யோகு புணர்ந்த ஒளி மணி  
-       வண்ணன் கண்ணன்  
-கறை அணி மூக்கு உடைப் புள்ளைக் கடாவி அசுரரைக்  
-       காய்ந்த அம்மான்  
-நிறை புகழ் ஏத்தியும் பாடியும் ஆடியும்  
-       யான் ஒரு முட்டு இலனே (2)  
-3113. Kaṇṇan, the shining sapphire-colored god  
+३११३ कुऱैवु इल् तडङ् गडल् कोळ् अरवु एऱि तन्  
+       कोलच् चॆन्दामरैक्कण्  
+उऱैबवन् पोल ओर् योगु पुणर्न्द ऒळि मणि  
+       वण्णन् कण्णन्  
+कऱै अणि मूक्कु उडैप् पुळ्ळैक् कडावि असुररैक्  
+       काय्न्द अम्मान्  
+निऱै पुगऴ् एत्तियुम् पाडियुम् आडियुम्  
+       यान् ऒरु मुट्टु इलने (२)  
+३११३। Kaṇṇan, the shining sapphire-colored god  
 sleeps closing his beautiful lotus eyes  
 as if he were performing yoga  
 on the snake Adishesha on the faultless wide ocean.  
@@ -4142,15 +4143,15 @@ riding on Garuda whose beautiful beak is dark.
 I praise his great fame and sing and dance  
 and I will have no trouble in my life.  
 
-3114 முட்டு இல் பல் போகத்து ஒரு தனி நாயகன்  
-       மூவுலகுக்கு உரிய  
-கட்டியை தேனை அமுதை நன்பாலை  
-       கனியை கரும்பு தன்னை  
-மட்டு அவிழ் தண் அம் துழாய் முடியானை  
-       வணங்கி அவன் திறத்துப்  
-பட்ட பின்னை இறையாகிலும் யான் என்  
-       மனத்துப் பரிவு இலனே (3)  
-3114. He is endless joy.  
+३११४ मुट्टु इल् पल् पोगत्तु ऒरु तनि नायगन्  
+       मूवुलगुक्कु उरिय  
+कट्टियै तेनै अमुदै नन्बालै  
+       कनियै करुम्बु तन्नै  
+मट्टु अविऴ् तण् अम् तुऴाय् मुडियानै  
+       वणङ्गि अवन् तिऱत्तुप्  
+पट्ट पिन्नै इऱैयागिलुम् यान् ऎन्  
+       मनत्तुप् परिवु इलने (३)  
+३११४। He is endless joy.  
 No one is better than he or equal to him.  
 He is as sweet as jaggery, honey, nectar, good milk,  
 fruit and sugarcane.  
@@ -4158,15 +4159,15 @@ In his hair he wears a beautiful cool thulasi garland
 that drips with honey.  
 Since I became his slave my mind has never been apart from him.  
 
-3115 பரிவு இன்றி வாணனைக் காத்தும் என்று அன்று  
-       படையொடும் வந்து எதிர்ந்த  
-திரிபுரம் செற்றவனும் மகனும் பின்னும்  
-       அங்கியும் போர் தொலைய  
-பொரு சிறைப் புள்ளைக் கடாவிய மாயனை  
-       ஆயனை பொன் சக்கரத்து  
-அரியினை அச்சுதனைப் பற்றி யான்  
-       இறையேனும் இடர் இலனே (4)  
-3115. Along with Shiva, the destroyer of three forts,  
+३११५ परिवु इण्ड्रि वाणनैक् कात्तुम् ऎण्ड्रु अण्ड्रु  
+       पडैयॊडुम् वन्दु ऎदिर्न्द  
+तिरिबुरम् सॆट्रवनुम् मगनुम् पिन्नुम्  
+       अङ्गियुम् पोर् तॊलैय  
+पॊरु सिऱैप् पुळ्ळैक् कडाविय मायनै  
+       आयनै पॊन् सक्करत्तु  
+अरियिनै अच्चुदनैप् पट्रि यान्  
+       इऱैयेनुम् इडर् इलने (४)  
+३११५। Along with Shiva, the destroyer of three forts,  
 his son Karthikeya and Agni,  
 Vaṇasuran came to fight with him and they all lost and fled,  
 but Maayavan gave protection to Vaṇasuran.  
@@ -4175,45 +4176,45 @@ who fights with his wings.
 I embraced the cowherd, the lion, Achudan  
 and I will have no trouble in my life.  
 
-3116 இடர் இன்றியே ஒரு நாள் ஒரு போழ்தில் எல்லா  
-       உலகும் கழிய  
-படர் புகழ்ப் பார்த்தனும் வைதிகனும் உடன் ஏற  
-       திண் தேர் கடவி  
-சுடர் ஒளியாய் நின்ற தன்னுடைச் சோதியில்  
-       வைதிகன் பிள்ளைகளை  
-உடலொடும் கொண்டு கொடுத்தவனைப் பற்றி  
-       ஒன்றும் துயர் இலனே (5)  
-3116. He drove the chariot and went to heaven  
+३११६ इडर् इण्ड्रिये ऒरु नाळ् ऒरु पोऴ्दिल् ऎल्ला  
+       उलगुम् कऴिय  
+पडर् पुगऴ्प् पार्त्तनुम् वैदिगनुम् उडन् एऱ  
+       तिण् तेर् कडवि  
+सुडर् ऒळियाय् निण्ड्र तन्नुडैच् चोदियिल्  
+       वैदिगन् पिळ्ळैगळै  
+उडलॊडुम् कॊण्डु कॊडुत्तवनैप् पट्रि  
+       ऒण्ड्रुम् तुयर् इलने (५)  
+३११६। He drove the chariot and went to heaven  
 without any difficulties, crossing all the worlds with famous Arjuna  
 and a Brahmin who had lost his children.  
 He brought the Brahmin’s children back to earth in one day.  
 He shines like a bright light and I am his slave.  
 No trouble will come to me in this world.  
 
-3117 துயர் இல் சுடர் ஒளி தன்னுடைச் சோதி  
-       நின்ற வண்ணம் நிற்கவே  
-துயரில் மலியும் மனிசர் பிறவியில்  
-       தோன்றி கண் காண வந்து  
-துயரங்கள் செய்து தன் தெய்வநிலை உலகில்  
-       புக உய்க்கும் அம்மான்  
-துயரம் இல் சீர்க் கண்ணன் மாயன் புகழ் துற்ற  
-       யான் ஓர் துன்பம் இலனே (6)  
-3117. He shines like a bright light that never dims.  
+३११७ तुयर् इल् सुडर् ऒळि तन्नुडैच् चोदि  
+       निण्ड्र वण्णम् निऱ्‌कवे  
+तुयरिल् मलियुम् मनिसर् पिऱवियिल्  
+       तोण्ड्रि कण् काण वन्दु  
+तुयरङ्गळ् सॆय्दु तन् तॆय्वनिलै उलगिल्  
+       पुग उय्क्कुम् अम्मान्  
+तुयरम् इल् सीर्क् कण्णन् मायन् पुगऴ् तुट्र  
+       यान् ओर् तुन्बम् इलने (६)  
+३११७। He shines like a bright light that never dims.  
 He came to the earth in the form of a man  
 and experienced great sorrow.  
 Like a mother he gave his divine grace to the earth.  
 The Maayan, the superior god, has no sorrow, only excellence.  
 I worship him and I will never know trouble.  
 
-3118 துன்பமும் இன்பமும் ஆகிய செய்வினை  
-       ஆய் உலகங்களும் ஆய்  
-இன்பம் இல் வெம் நரகு ஆகி இனிய நல் வான்  
-       சுவர்க்கங்களும் ஆய்  
-மன் பல் உயிர்களும் ஆகி பலபல  
-       மாய மயக்குக்களால்  
-இன்புறும் இவ் விளையாட்டு உடையானைப் பெற்று  
-       ஏதும் அல்லல் இலனே (7)  
-3118. He is sorrow and happiness.  
+३११८ तुन्बमुम् इन्बमुम् आगिय सॆय्विनै  
+       आय् उलगङ्गळुम् आय्  
+इन्बम् इल् वॆम् नरगु आगि इनिय नल् वान्  
+       सुवर्क्कङ्गळुम् आय्  
+मन् पल् उयिर्गळुम् आगि पलबल  
+       माय मयक्कुक्कळाल्  
+इन्बुऱुम् इव् विळैयाट्टु उडैयानैप् पॆट्रु  
+       एदुम् अल्लल् इलने (७)  
+३११८। He is sorrow and happiness.  
 He gives us all karma.  
 He is all the worlds,  
 the cruel hell that has no joy  
@@ -4222,15 +4223,15 @@ He is all the creatures that survive on this earth.
 He plays with this whole illusory world and enjoys himself.  
 I am his devotee and I will never know trouble.  
 
-3119 அல்லல் இல் இன்பம் அளவு இறந்து எங்கும்  
-       அழகு அமர் சூழ் ஒளியன்  
-அல்லி மலர் மகள் போக மயக்குக்கள்  
-       ஆகியும் நிற்கும் அம்மான்  
-எல்லை இல் ஞானத்தன் ஞானம் அஃதே கொண்டு  
-       எல்லாக் கருமங்களும் செய்  
-எல்லை இல் மாயனை கண்ணனைத் தாள் பற்றி  
-       யான் ஓர் துக்கம் இலனே (8)  
-3119. He is joy without any sorrow.  
+३११९ अल्लल् इल् इन्बम् अळवु इऱन्दु ऎङ्गुम्  
+       अऴगु अमर् सूऴ् ऒळियन्  
+अल्लि मलर् मगळ् पोग मयक्कुक्कळ्  
+       आगियुम् निऱ्‌कुम् अम्मान्  
+ऎल्लै इल् ज्ञानत्तन् ज्ञानम् अह्दे कॊण्डु  
+       ऎल्लाक् करुमङ्गळुम् सॆय्  
+ऎल्लै इल् मायनै कण्णनैत् ताळ् पट्रि  
+       यान् ओर् तुक्कम् इलने (८)  
+३११९। He is joy without any sorrow.  
 He is unlimited beauty and a bright light.  
 Lakshmi on a lotus is with him.  
 He is our mother and he is an illusion.  
@@ -4239,15 +4240,15 @@ He does all the actions in the world.
 He is Maayan and Kaṇṇan.  
 I worship his feet and will never know trouble.  
 
-3120 துக்கம் இல் ஞானச் சுடர் ஒளி மூர்த்தி  
-       துழாய் அலங்கல் பெருமான்  
-மிக்க பல் மாயங்களால் விகிர்தம் செய்து  
-       வேண்டும் உருவு கொண்டு  
-நக்க பிரானோடு அயன் முதலாக எல்லாரும்  
-       எவையும் தன்னுள்  
-ஒக்க ஒடுங்க விழுங்க வல்லானைப் பெற்று  
-       ஒன்றும் தளர்வு இலனே (9)  
-3120. He has no sorrow.  
+३१२० तुक्कम् इल् ज्ञानच् चुडर् ऒळि मूर्त्ति  
+       तुऴाय् अलङ्गल् पॆरुमान्  
+मिक्क पल् मायङ्गळाल् विगिर्दम् सॆय्दु  
+       वेण्डुम् उरुवु कॊण्डु  
+नक्क पिरानोडु अयन् मुदलाग ऎल्लारुम्  
+       ऎवैयुम् तन्नुळ्  
+ऒक्क ऒडुङ्ग विऴुङ्ग वल्लानैप् पॆट्रु  
+       ऒण्ड्रुम् तळर्वु इलने (९)  
+३१२०। He has no sorrow.  
 He is the bright shining form of wisdom.  
 My dear god is decorated with a thulasi garland.  
 He took many forms and did many magical deeds.  
@@ -4256,15 +4257,15 @@ Shiva who laughs, Brahma,
 all the other gods and people and all creatures.  
 I am his slave and I will have no difficulty in my life.  
 
-3121 தளர்வு இன்றியே என்றும் எங்கும் பரந்த  
-       தனிமுதல் ஞானம் ஒன்றாய்  
-அளவு உடை ஐம்புலன்கள் அறியாவகையால்  
-       அருவு ஆகி நிற்கும்  
-வளர் ஒளி ஈசனை மூர்த்தியை பூதங்கள்  
-       ஐந்தை இரு சுடரை  
-கிளர் ஒளி மாயனை கண்ணனைத் தாள் பற்றி  
-       யான் என்றும் கேடு இலனே (10)  
-3121. He, the unique omnipresent god is wise and tireless.  
+३१२१ तळर्वु इण्ड्रिये ऎण्ड्रुम् ऎङ्गुम् परन्द  
+       तनिमुदल् ज्ञानम् ऒण्ड्राय्  
+अळवु उडै ऐम्बुलन्गळ् अऱियावगैयाल्  
+       अरुवु आगि निऱ्‌कुम्  
+वळर् ऒळि ईसनै मूर्त्तियै पूदङ्गळ्  
+       ऐन्दै इरु सुडरै  
+किळर् ऒळि मायनै कण्णनैत् ताळ् पट्रि  
+       यान् ऎण्ड्रुम् केडु इलने (१०)  
+३१२१। He, the unique omnipresent god is wise and tireless.  
 He is formless and the five senses do not know him.  
 He is a light that spreads everywhere.  
 He is the five elements of earth, water, fire, sky and wind.  
@@ -4272,31 +4273,31 @@ He is the moon and sun.
 He is shining Maayan and Kaṇṇan.  
 I worship his feet and I will never have trouble.  
 
-3122 கேடு இல் விழுப் புகழ்க் கேசவனை  
-       குருகூர்ச் சடகோபன் சொன்ன  
-பாடல் ஓர் ஆயிரத்துள் இவை ஒரு பத்தும்  
-       பயிற்ற வல்லார்கட்கு அவன்  
-நாடும் நகரமும் நன்குடன் காண  
-       நலனிடை ஊர்தி பண்ணி  
-வீடும் பெறுத்தித் தன் மூவுலகுக்கும்  
-       தரும் ஒரு நாயகமே (11)  
-3122. Saḍagopan of Thirukuruhur  
+३१२२ केडु इल् विऴुप् पुगऴ्क् केसवनै  
+       गुरुगूर्च् चडगोबन् सॊन्न  
+पाडल् ओर् आयिरत्तुळ् इवै ऒरु पत्तुम्  
+       पयिट्र वल्लार्गट्कु अवन्  
+नाडुम् नगरमुम् नन्गुडन् काण  
+       नलनिडै ऊर्दि पण्णि  
+वीडुम् पॆऱुत्तित् तन् मूवुलगुक्कुम्  
+       तरुम् ऒरु नायगमे (११)  
+३१२२। Saḍagopan of Thirukuruhur  
 composed a thousand poems on Kesavan,  
 the famous faultless god.  
 O devotees, learn and recite these ten poems  
 and he will give you cities, countries, chariots and moksha  
 and make you the kings of all the three worlds.  
 --------  
-நம்மாழ்வார் திருவாய் மொழி - நான்காம் பத்து (3123-3232)  
+नम्माऴ्वार् तिरुवाय् मॊऴि - नान्गाम् पत्तु (३१२३-३२३२)  
 Divyaprabandham - Thiruvaymozhi -Naangaam Pathu.  
-திருவாய் மொழி - நான்காம் பத்து ( முதல் திருமொழி, 3123-3133)  
-செல்வம் நிலையாமையும் திருமாலடிமையின் நிலைபேறும்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु ( मुदल् तिरुमॊऴि, ३१२३-३१३३)  
+सॆल्वम् निलैयामैयुम् तिरुमालडिमैयिन् निलैबेऱुम्  
 
-3123 ஒரு நாயகமாய் ஓட உலகு உடன் ஆண்டவர்  
-கரு நாய் கவர்ந்த காலர் சிதைகிய பானையர்  
-பெரு நாடு காண இம்மையிலே பிச்சை தாம் கொள்வர்  
-திருநாரணன் தாள் காலம்பெறச் சிந்தித்து உய்ம்மினோ (1)  
-3123. The matchless kings who ruled this world  
+३१२३ ऒरु नायगमाय् ओड उलगु उडन् आण्डवर्  
+करु नाय् कवर्न्द कालर् सिदैगिय पानैयर्  
+पॆरु नाडु काण इम्मैयिले पिच्चै ताम् कॊळ्वर्  
+तिरुनारणन् ताळ् कालम्बॆऱच् चिन्दित्तु उय्म्मिनो (१)  
+३१२३। The matchless kings who ruled this world  
 will become beggars  
 if they lose in a war with their enemies.  
 When they beg for food  
@@ -4305,11 +4306,11 @@ Think of the feet of the divine Narayaṇan.
 That is the only way to escape  
 the troubles of this world.  
 
-3124 உய்ம்மின் திறைகொணர்ந்து என்று உலகு ஆண்டவர் இம்மையே  
-தம் இன்சுவை மடவாரைப் பிறர் கொள்ளத் தாம் விட்டு  
-வெம் மின் ஒளி வெயில் கானகம் போய்க் குமைதின்பர்கள்  
-செம்மின் முடித் திருமாலை விரைந்து அடி சேர்மினோ (2)  
-3124. The rich kings who ruled this earth  
+३१२४ उय्म्मिन् तिऱैगॊणर्न्दु ऎण्ड्रु उलगु आण्डवर् इम्मैये  
+तम् इन्सुवै मडवारैप् पिऱर् कॊळ्ळत् ताम् विट्टु  
+वॆम् मिन् ऒळि वॆयिल् कानगम् पोय्क् कुमैदिन्बर्गळ्  
+सॆम्मिन् मुडित् तिरुमालै विरैन्दु अडि सेर्मिनो (२)  
+३१२४। The rich kings who ruled this earth  
 and ordered their chieftains,  
 "Give tribute and live!"  
 will leave the women they enjoyed  
@@ -4319,11 +4320,11 @@ You should at once worship the feet of Thirumaal
 adorned with shining beautiful crowns and live.  
 That is the only way to escape the troubles of this world.  
 
-3125 அடி சேர் முடியினர் ஆகி அரசர்கள் தாம் தொழ  
-இடி சேர் முரசங்கள் முற்றத்து இயம்ப இருந்தவர்  
-பொடி சேர் துகளாய்ப் போவர்கள் ஆதலில் நொக்கெனக்  
-கடி சேர் துழாய் முடிக் கண்ணன் கழல்கள் நினைமினோ (3)  
-3125. There are kings that their chieftains bow to,  
+३१२५ अडि सेर् मुडियिनर् आगि अरसर्गळ् ताम् तॊऴ  
+इडि सेर् मुरसङ्गळ् मुट्रत्तु इयम्ब इरुन्दवर्  
+पॊडि सेर् तुगळाय्प् पोवर्गळ् आदलिल् नॊक्कॆनक्  
+कडि सेर् तुऴाय् मुडिक् कण्णन् कऴल्गळ् निनैमिनो (३)  
+३१२५। There are kings that their chieftains bow to,  
 touching their feet, kings whose drums  
 resting in their courtyards sound like thunder—  
 yet they may lose everything and become like dust.  
@@ -4331,11 +4332,11 @@ At once, you should think of the feet of Kaṇṇan,
 adorned with a fragrant thulasi garland and live.  
 That is the only way to escape the troubles of this world.  
 
-3126 நினைப்பான் புகில் கடல் எக்கலின் நுண்மணலில் பலர்  
-எனைத்தோர் உகங்களும் இவ் உலகு ஆண்டு கழிந்தவர்  
-மனைப்பால் மருங்கு அற மாய்தல் அல்லால் மற்றுக் கண்டிலம்  
-பனைத் தாள் மத களிறு அட்டவன் பாதம் பணிமினோ (4)  
-3126. We know that even kings  
+३१२६ निनैप्पान् पुगिल् कडल् ऎक्कलिन् नुण्मणलिल् पलर्  
+ऎनैत्तोर् उगङ्गळुम् इव् उलगु आण्डु कऴिन्दवर्  
+मनैप्पाल् मरुङ्गु अऱ माय्दल् अल्लाल् मट्रुक् कण्डिलम्  
+पनैत् ताळ् मद कळिऱु अट्टवन् पादम् पणिमिनो (४)  
+३१२६। We know that even kings  
 who ruled this world for many years and yugas  
 and are more than the grains of sand on the seashore  
 are brought low and have no house to live in.  
@@ -4343,11 +4344,11 @@ He killed the rutting elephant
 that had legs as strong as palm trees.  
 Worship his feet and you will be saved.  
 
-3127 பணிமின் திருவருள் என்னும் அம் சீதப் பைம் பூம் பள்ளி  
-அணி மென் குழலார் இன்பக் கலவி அமுது உண்டார்  
-துணி முன்பு நால பல் ஏழையர் தாம் இழிப்ப செல்வர்  
-மணி மின்னு மேனி நம் மாயவன் பேர் சொல்லி வாழ்மினோ (5)  
-3127. Even kings who enjoy women with soft beautiful hair  
+३१२७ पणिमिन् तिरुवरुळ् ऎन्नुम् अम् सीदप् पैम् पूम् पळ्ळि  
+अणि मॆन् कुऴलार् इन्बक् कलवि अमुदु उण्डार्  
+तुणि मुन्बु नाल पल् एऴैयर् ताम् इऴिप्प सॆल्वर्  
+मणि मिन्नु मेनि नम् मायवन् पेर् सॊल्लि वाऴ्मिनो (५)  
+३१२७। Even kings who enjoy women with soft beautiful hair  
 lying on lovely, cool beds and begging them,  
 "Give us your grace!"  
 may lose all their wealth and their clothes  
@@ -4356,11 +4357,11 @@ Praise the names of Maayavan
 the shining sapphire-colored god and live.  
 That is the only way to escape the troubles of this world.  
 
-3128 வாழ்ந்தார்கள் வாழ்ந்தது மா மழை மொக்குளின் மாய்ந்து மாய்ந்து  
-ஆழ்ந்தார் என்று அல்லால் அன்று முதல் இன்று அறுதியா  
-வாழ்ந்தார்கள் வாழ்ந்தே நிற்பர் என்பது இல்லை நிற்குறில்  
-ஆழ்ந்து ஆர் கடற்பள்ளி அண்ணல் அடியவர் ஆமினோ (6)  
-3128. We all know that we do not live forever on this earth  
+३१२८ वाऴ्न्दार्गळ् वाऴ्न्ददु मा मऴै मॊक्कुळिन् माय्न्दु माय्न्दु  
+आऴ्न्दार् ऎण्ड्रु अल्लाल् अण्ड्रु मुदल् इण्ड्रु अऱुदिया  
+वाऴ्न्दार्गळ् वाऴ्न्दे निऱ्‌पर् ऎन्बदु इल्लै निऱ्‌कुऱिल्  
+आऴ्न्दु आर् कडऱ्‌पळ्ळि अण्णल् अडियवर् आमिनो (६)  
+३१२८। We all know that we do not live forever on this earth  
 and die like the bubbles  
 that arise when rain falls on the earth.  
 No one can say that for all their life  
@@ -4368,11 +4369,11 @@ they were strong, without problems or sickness.
 The highest god sleeps on the ocean.  
 If you want to survive, become his devotee.  
 
-3129 ஆம் இன் சுவை அவை ஆறோடு அடிசில் உண்டு ஆர்ந்தபின்  
-தூ மென் மொழி மடவார் இரக்கப் பின்னும் துற்றுவார்  
-ஈமின் எமக்கு ஒரு துற்று என்று இடறுவர் ஆதலின்  
-கோமின் துழாய் முடி ஆதி அம் சோதி குணங்களே (7)  
-3129. The rich may eat food with all the six tastes  
+३१२९ आम् इन् सुवै अवै आऱोडु अडिसिल् उण्डु आर्न्दबिन्  
+तू मॆन् मॊऴि मडवार् इरक्कप् पिन्नुम् तुट्रुवार्  
+ईमिन् ऎमक्कु ऒरु तुट्रु ऎण्ड्रु इडऱुवर् आदलिन्  
+कोमिन् तुऴाय् मुडि आदि अम् सोदि कुणङ्गळे (७)  
+३१२९। The rich may eat food with all the six tastes  
 and then eat more when their beloved beautiful women  
 ask them with lovely soft words.  
 They may even become poor and beg those women saying,  
@@ -4381,11 +4382,11 @@ If you want to be saved
 praise the excellence of the ancient shining god  
 whose head wears a thulasi garland.  
 
-3130 குணம் கொள் நிறை புகழ் மன்னர் கொடைக்கடன் பூண்டிருந்து  
-இணங்கி உலகு உடன் ஆக்கிலும் ஆங்கு அவனை இல்லார்  
-மணம் கொண்ட போகத்து மன்னியும் மீள்வர்கள் மீள்வு இல்லை  
-பணம் கொள் அரவு அணையான் திருநாமம் படிமினோ (8)  
-3130. There are generous kings  
+३१३० कुणम् कॊळ् निऱै पुगऴ् मन्नर् कॊडैक्कडन् पूण्डिरुन्दु  
+इणङ्गि उलगु उडन् आक्किलुम् आङ्गु अवनै इल्लार्  
+मणम् कॊण्ड पोगत्तु मन्नियुम् मीळ्वर्गळ् मीळ्वु इल्लै  
+पणम् कॊळ् अरवु अणैयान् तिरुनामम् पडिमिनो (८)  
+३१३०। There are generous kings  
 that rule the world happily as people praise them abundantly.  
 If they do not think of the lord,  
 they will lose all their wealth and kingdoms.  
@@ -4393,11 +4394,11 @@ The lord sleeps on the snake bed on the ocean.
 Praise his divine names—  
 that is the only way to escape the troubles of this world.  
 
-3131 படி மன்னு பல் கலன் பற்றோடு அறுத்து ஐம்புலன் வென்று  
-செடி மன்னு காயம் செற்றார்களும் ஆங்கு அவனை இல்லார்  
-குடி மன்னும் இன் சுவர்க்கம் எய்தியும் மீள்வர்கள் மீள்வு இல்லை  
-கொடி மன்னு புள் உடை அண்ணல் கழல்கள் குறுகுமினோ (9)  
-3131. Even those who have renounced  
+३१३१ पडि मन्नु पल् कलन् पट्रोडु अऱुत्तु ऐम्बुलन् वॆण्ड्रु  
+सॆडि मन्नु कायम् सॆट्रार्गळुम् आङ्गु अवनै इल्लार्  
+कुडि मन्नुम् इन् सुवर्क्कम् ऎय्दियुम् मीळ्वर्गळ् मीळ्वु इल्लै  
+कॊडि मन्नु पुळ् उडै अण्णल् कऴल्गळ् कुऱुगुमिनो (९)  
+३१३१। Even those who have renounced  
 the desires of this world and the wealth of the earth,  
 controlling the desires of their five senses  
 and doing tapas ignoring their bodies,  
@@ -4408,11 +4409,11 @@ Worship the feet of the highest god
 if you do not want to be born again  
 and would reach Vaikuṇṭam, the heaven of the god.  
 
-3132 குறுக மிக உணர்வத்தொடு நோக்கி எல்லாம் விட்ட  
-இறுகல் இறப்பு என்னும் ஞானிக்கும் அப் பயன் இல்லையேல்  
-சிறுக நினைவது ஓர் பாசம் உண்டாம் பின்னும் வீடு இல்லை  
-மறுகல் இல் ஈசனைப் பற்றி விடாவிடில் வீடு அஃதே (10)  
-3132. Sages may control all their desires for the world  
+३१३२ कुऱुग मिग उणर्वत्तॊडु नोक्कि ऎल्लाम् विट्ट  
+इऱुगल् इऱप्पु ऎन्नुम् ज्ञानिक्कुम् अप् पयन् इल्लैयेल्  
+सिऱुग निनैवदु ओर् पासम् उण्डाम् पिन्नुम् वीडु इल्लै  
+मऱुगल् इल् ईसनैप् पट्रि विडाविडिल् वीडु अह्दे (१०)  
+३१३२। Sages may control all their desires for the world  
 and think only of moksha,  
 but they will not attain Vaikuṇṭam  
 unless they worship the faultless god and hold on to him.  
@@ -4422,11 +4423,11 @@ or let them not be born again.
 Moksha is to approach the faultless god  
 and grasp him without leaving him.  
 
-3133 அஃதே உய்யப் புகும் ஆறு என்று கண்ணன் கழல்கள் மேல்  
-கொய் பூம் பொழில் சூழ் குருகூர்ச் சடகோபன் குற்றேவல்  
-செய் கோலத்து ஆயிரம் சீர்த் தொடைப் பாடல் இவை பத்தும்  
-அஃகாமல் கற்பவர் ஆழ் துயர் போய் உய்யற்பாலரே (11)  
-3133. Saḍagopan of Thirukuruhur  
+३१३३ अह्दे उय्यप् पुगुम् आऱु ऎण्ड्रु कण्णन् कऴल्गळ् मेल्  
+कॊय् पूम् पॊऴिल् सूऴ् गुरुगूर्च् चडगोबन् कुट्रेवल्  
+सॆय् कोलत्तु आयिरम् सीर्त् तॊडैप् पाडल् इवै पत्तुम्  
+अह्हा³मल् कऱ्‌पवर् आऴ् तुयर् पोय् उय्यऱ्‌पालरे (११)  
+३१३३। Saḍagopan of Thirukuruhur  
 surrounded by blooming clusters of flowers  
 composed a thousand beautiful poems  
 proclaiming that worshiping the feet of Kaṇṇan  
@@ -4435,14 +4436,14 @@ If devotees learn and recite these ten songs
 they will have no troubles and will survive on this earth.  
 ---------  
 
-திருவாய் மொழி - நான்காம் பத்து ( இரண்டாம் திருமொழி, 3134-3144)  
-காதல் கைகூடாது வருந்தும் தலைமகள் நிலைகண்டு தாய் இரங்கல்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु ( इरण्डाम् तिरुमॊऴि, ३१३४-३१४४)  
+कादल् कैगूडादु वरुन्दुम् तलैमगळ् निलैगण्डु ताय् इरङ्गल्  
 
-3134 பாலன் ஆய் ஏழ் உலகு உண்டு பரிவு இன்றி  
-ஆல் இலை அன்னவசம் செய்யும் அண்ணலார்  
-தாள் இணைமேல் அணி தண் அம் துழாய் என்றே  
-மாலுமால் வல்வினையேன் மட வல்லியே (1)  
-3134. Her mother says,  
+३१३४ पालन् आय् एऴ् उलगु उण्डु परिवु इण्ड्रि  
+आल् इलै अन्नवसम् सॆय्युम् अण्णलार्  
+ताळ् इणैमेल् अणि तण् अम् तुऴाय् ऎण्ड्रे  
+मालुमाल् वल्विनैयेन् मड वल्लिये (१)  
+३१३४। Her mother says,  
 "He swallowed all the seven worlds  
 and slept on a banyan leaf without any worry  
 when he was a baby.  
@@ -4453,11 +4454,11 @@ How can she get that thulasi garland?
 Surely, I must have bad karma—  
 what can I do to make my daughter happy?"  
 
-3135 வல்லி சேர் நுண் இடை ஆய்ச்சியர் தம்மொடும்  
-கொல்லைமை செய்து குரவை பிணைந்தவர்  
-நல் அடிமேல் அணி நாறு துழாய் என்றே  
-சொல்லுமால் சூழ் வினையாட்டியேன் பாவையே (2)  
-3135. Her mother says,  
+३१३५ वल्लि सेर् नुण् इडै आय्च्चियर् तम्मॊडुम्  
+कॊल्लैमै सॆय्दु कुरवै पिणैन्दवर्  
+नल् अडिमेल् अणि नाऱु तुऴाय् ऎण्ड्रे  
+सॊल्लुमाल् सूऴ् विनैयाट्टियेन् पावैये (२)  
+३१३५। Her mother says,  
 "The lord dances the kuravai dance  
 with cowherd girls with thin vine-like waists  
 and plays mischievously with them.  
@@ -4469,11 +4470,11 @@ and do not realize that he is god
 and his garland is not easy to get.  
 What can I do?"  
 
-3136 பா இயல் வேத நல் மாலை பல கொண்டு  
-தேவர்கள் மா முனிவர் இறைஞ்ச நின்ற  
-சேவடிமேல் அணி செம் பொன் துழாய் என்றே  
-கூவுமால் கோள் வினையாட்டியேன் கோதையே (3)  
-3136. Her mother says,  
+३१३६ पा इयल् वेद नल् मालै पल कॊण्डु  
+तेवर्गळ् मा मुनिवर् इऱैञ्ज निण्ड्र  
+सेवडिमेल् अणि सॆम् पॊन् तुऴाय् ऎण्ड्रे  
+कूवुमाल् कोळ् विनैयाट्टियेन् कोदैये (३)  
+३१३६। Her mother says,  
 "He measured the world with his feet  
 as the gods and the great sages worshiped him,  
 chanting the Vedas and adorning him with many fresh garlands.  
@@ -4483,11 +4484,11 @@ precious as gold that adorns the divine feet of the highest lord.’
 I have done bad karma to see my daughter worry like this.  
 What can I do?"  
 
-3137 கோது இல வண் புகழ் கொண்டு சமயிகள்  
-பேதங்கள் சொல்லிப் பிதற்றும் பிரான் பரன்  
-பாதங்கள் மேல் அணி பைம் பொன் துழாய் என்றே  
-ஓதுமால் ஊழ்வினையேன் தடந் தோளியே (4)  
-3137. Her mother says,  
+३१३७ कोदु इल वण् पुगऴ् कॊण्डु समयिगळ्  
+पेदङ्गळ् सॊल्लिप् पितट्रुम् पिरान् परन्  
+पादङ्गळ् मेल् अणि पैम् पॊन् तुऴाय् ऎण्ड्रे  
+ओदुमाल् ऊऴ्विनैयेन् तडन् दोळिये (४)  
+३१३७। Her mother says,  
 "My daughter has beautiful round arms.  
 She says always,  
 ‘Bring me the fresh thulasi garland  
@@ -4496,11 +4497,11 @@ whose devotees praise his faultless wonderful fame,
 prattling on about the many differences that other religions have.’  
 I have done bad karma. What can I do?"  
 
-3138 தோளி சேர் பின்னை பொருட்டு எருது ஏழ் தழீஇக்  
-கோளியார் கோவலனார் குடக் கூத்தனார்  
-தாள் இணைமேல் அணி தண் அம் துழாய் என்றே  
-நாளும் நாள் நைகின்றதால் என் தன் மாதரே (5)  
-3138. Her mother says,  
+३१३८ तोळि सेर् पिन्नै पॊरुट्टु ऎरुदु एऴ् तऴीइक्  
+कोळियार् कोवलनार् कुडक् कूत्तनार्  
+ताळ् इणैमेल् अणि तण् अम् तुऴाय् ऎण्ड्रे  
+नाळुम् नाळ् नैगिण्ड्रदाल् ऎन् तन् मादरे (५)  
+३१३८। Her mother says,  
 "My lovely daughter worries every day and says,  
 ‘He fought and conquered seven bulls  
 for the sake of embracing the arms of Nappinnai.  
@@ -4509,11 +4510,11 @@ He dances the Kudakuthu dance.
 Bring me the beautiful fresh thulasi garland  
 on the feet of the lord.’"  
 
-3139 மாதர் மா மண்மடந்தைபொருட்டு ஏனம் ஆய்  
-ஆதி அம் காலத்து அகல் இடம் கீண்டவர்  
-பாதங்கள்மேல் அணி பைம் பொன் துழாய் என்றே  
-ஓதும் மால் எய்தினள் என் தன் மடந்தையே (6)  
-3139. Her mother says,  
+३१३९ मादर् मा मण्मडन्दैबॊरुट्टु एनम् आय्  
+आदि अम् कालत्तु अगल् इडम् कीण्डवर्  
+पादङ्गळ्मेल् अणि पैम् पॊन् तुऴाय् ऎण्ड्रे  
+ओदुम् माल् ऎय्दिनळ् ऎन् तन् मडन्दैये (६)  
+३१३९। Her mother says,  
 "My lovely daughter has fallen in love with the god  
 and says always,  
 ‘When an Asuran took the beautiful earth goddess,  
@@ -4523,11 +4524,11 @@ and brought her back.
 Bring me the fresh thulasi garland precious as gold  
 on the feet of the lord.’"  
 
-3140 மடந்தையை வண் கமலத் திருமாதினை  
-தடம் கொள் தார் மார்பினில் வைத்தவர் தாளின்மேல்  
-வடம் கொள் பூம் தண் அம் துழாய் மலர்க்கே இவள்  
-மடங்குமால் வாள் நுதலீர்! என் மடக்கொம்பே (7)  
-3140. Her mother says,  
+३१४० मडन्दैयै वण् कमलत् तिरुमादिनै  
+तडम् कॊळ् तार् मार्बिनिल् वैत्तवर् ताळिन्मेल्  
+वडम् कॊळ् पूम् तण् अम् तुऴाय् मलर्क्के इवळ्  
+मडङ्गुमाल् वाळ् नुदलीर्! ऎन् मडक्कॊम्बे (७)  
+३१४०। Her mother says,  
 "The lord keeps beautiful Lakshmi on a lovely lotus  
 on his wide chest that is decorated with thulasi garland.  
 My daughter lovely as a vine is fascinated with the lord  
@@ -4535,11 +4536,11 @@ and longs for the fresh thulasi garland on his feet.
 O girls! You have shining foreheads!  
 See my beautiful daughter."  
 
-3141 கொம்பு போல் சீதைபொருட்டு இலங்கை நகர்  
-அம்பு எரி உய்த்தவர் தாள் இணைமேல் அணி  
-வம்பு அவிழ் தண் அம் துழாய் மலர்க்கே இவள்  
-நம்புமால் நான் இதற்கு என் செய்கேன் நங்கைமீர்? (8)  
-3141. Her mother says,  
+३१४१ कॊम्बु पोल् सीदैबॊरुट्टु इलङ्गै नगर्  
+अम्बु ऎरि उय्त्तवर् ताळ् इणैमेल् अणि  
+वम्बु अविऴ् तण् अम् तुऴाय् मलर्क्के इवळ्  
+नम्बुमाल् नान् इदऱ्‌कु ऎन् सॆय्गेन् नङ्गैमीर्? (८)  
+३१४१। Her mother says,  
 "My daughter longs for the fresh beautiful thulasi garland  
 that spreads fragrance and adorns his feet.  
 He shot his arrows and burnt Lanka  
@@ -4547,21 +4548,21 @@ for his wife Sita, beautiful as a vine.
 O lovely girls, I am worried.  
 What can I do?"  
 
-3142 நங்கைமீர் நீரும் ஓர் பெண் பெற்று நல்கினீர்  
-எங்ஙனே சொல்லுகேன் யான் பெற்ற ஏழையை?  
-சங்கு என்னும் சக்கரம் என்னும் துழாய் என்னும்  
-இங்ஙனே சொல்லும் இராப் பகல் என்செய்கேன்? (9)  
-3142. Her mother says,  
+३१४२ नङ्गैमीर् नीरुम् ओर् पॆण् पॆट्रु नल्गिनीर्  
+ऎङ्ङने सॊल्लुगेन् यान् पॆट्र एऴैयै?  
+सङ्गु ऎन्नुम् सक्करम् ऎन्नुम् तुऴाय् ऎन्नुम्  
+इङ्ङने सॊल्लुम् इराप् पगल् ऎन्सॆय्गेन्? (९)  
+३१४२। Her mother says,  
 "O friends, you have also have given birth to daughters.  
 What can I say about the innocent one that I gave birth to?  
-Night and day, she says, ‘Conch, discus, thulasi garland….’  
+Night and day, she says, ‘Conch, discus, thulasi garland…।’  
 This is all she says—what can I do?"  
 
-3143 என் செய்கேன்? என்னுடைப் பேதை என் கோமளம்  
-என் சொல்லும் என் வசமும் அல்லள் நங்கைமீர்  
-மின் செய் பூண் மார்பினன் கண்ணன் கழல் துழாய்  
-பொன் செய் பூண் மென் முலைக்கு என்று மெலியுமே (10)  
-3143. Her mother says,  
+३१४३ ऎन् सॆय्गेन्? ऎन्नुडैप् पेदै ऎन् कोमळम्  
+ऎन् सॊल्लुम् ऎन् वसमुम् अल्लळ् नङ्गैमीर्  
+मिन् सॆय् पूण् मार्बिनन् कण्णन् कऴल् तुऴाय्  
+पॊन् सॆय् पूण् मॆन् मुलैक्कु ऎण्ड्रु मॆलियुमे (१०)  
+३१४३। Her mother says,  
 "What can I do?  
 She is my innocent daughter, my precious jewel.  
 Whatever I say, she doesn’t listen.  
@@ -4571,29 +4572,29 @@ O friends, she says,
 I want the thulasi garland on the feet of Kannan  
 to adorn my soft breasts ornamented with golden jewels.’"  
 
-3144 மெலியும் நோய் தீர்க்கும் நம் கண்ணன் கழல்கள்மேல்  
-மலி புகழ் வண் குருகூர்ச் சடகோபன் சொல்  
-ஒலி புகழ் ஆயிரத்து இப் பத்தும் வல்லவர்  
-மலி புகழ் வானவர்க்கு ஆவர் நல் கோவையே (11)  
-3144. Saḍagopan of famous and rich Thirukuruhur  
+३१४४ मॆलियुम् नोय् तीर्क्कुम् नम् कण्णन् कऴल्गळ्मेल्  
+मलि पुगऴ् वण् गुरुगूर्च् चडगोबन् सॊल्  
+ऒलि पुगऴ् आयिरत्तु इप् पत्तुम् वल्लवर्  
+मलि पुगऴ् वानवर्क्कु आवर् नल् कोवैये (११)  
+३१४४। Saḍagopan of famous and rich Thirukuruhur  
 composed a thousand musical poems praising Kaṇṇan’s feet  
 that remove the sicknesses that afflict people.  
 If devotees learn and recite these ten poems  
 they will join the group of gods in the sky.  
 ---------  
 
-திருவாய் மொழி - நான்காம் பத்து ( மூன்றாம் திருமொழி, 3145-3155)  
-எம்பெருமானது சேர்க்கையால் பெற்ற இன்பம்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु ( मूण्ड्राम् तिरुमॊऴि, ३१४५-३१५५)  
+ऎम्बॆरुमानदु सेर्क्कैयाल् पॆट्र इन्बम्  
 
-3145 கோவை வாயாள்பொருட்டு ஏற்றின்  
-       எருத்தம் இறுத்தாய் மதிள் இலங்கைக்  
-கோவை வீயச் சிலை குனித்தாய்  
-       குல நல் யானை மருப்பு ஒசித்தாய்  
-பூவை வீயா நீர் தூவிப்  
-       போதால் வணங்கேனேலும் நின்  
-பூவை வீயாம் மேனிக்குப்  
-       பூசும் சாந்து என் நெஞ்சமே (1)  
-3145. You fought with seven bulls  
+३१४५ कोवै वायाळ्बॊरुट्टु एट्रिन्  
+       ऎरुत्तम् इऱुत्ताय् मदिळ् इलङ्गैक्  
+कोवै वीयच् चिलै कुनित्ताय्  
+       कुल नल् यानै मरुप्पु ऒचित्ताय्  
+पूवै वीया नीर् तूविप्  
+       पोदाल् वणङ्गेनेलुम् निन्  
+पूवै वीयाम् मेनिक्कुप्  
+       पूसुम् सान्दु ऎन् नॆञ्जमे (१)  
+३१४५। You fought with seven bulls  
 to marry Nappinnai whose mouth is red as a kovai fruit.  
 You shot your bow to destroy the king Ravana of Lanka  
 surrounded with strong forts.  
@@ -4603,15 +4604,15 @@ on your feet and worship you
 my heart is the sandal paste  
 that I smear on your soft flower-like body.  
 
-3146 பூசும் சாந்து என் நெஞ்சமே  
-       புனையும் கண்ணி எனதுடைய  
-வாசகம் செய் மாலையே  
-       வான் பட்டு ஆடையும் அஃதே  
-தேசம் ஆன அணிகலனும்  
-       என் கைகூப்புச் செய்கையே  
-ஈசன் ஞாலம் உண்டு உமிழ்ந்த  
-       எந்தை ஏக மூர்த்திக்கே (2)  
-3146. The sandal paste that I smear on you is my heart.  
+३१४६ पूसुम् सान्दु ऎन् नॆञ्जमे  
+       पुनैयुम् कण्णि ऎनदुडैय  
+वाचकम् सॆय् मालैये  
+       वान् पट्टु आडैयुम् अह्दे  
+तेसम् आन अणिगलनुम्  
+       ऎन् कैगूप्पुच् चॆय्गैये  
+ईसन् ञालम् उण्डु उमिऴ्न्द  
+       ऎन्दै एक मूर्त्तिक्के (२)  
+३१४६। The sandal paste that I smear on you is my heart.  
 The garland with which I decorate you is made only of my words  
 and the silk clothes for you are only my poems.  
 The shining ornaments for you  
@@ -4619,15 +4620,15 @@ are the way I fold my hands and worship you.
 You are the lord, the matchless god  
 and you swallowed the earth and spit it out.  
 
-3147 ஏக மூர்த்தி இரு மூர்த்தி  
-       மூன்று மூர்த்தி பல மூர்த்தி  
-ஆகி ஐந்து பூதம் ஆய்  
-       இரண்டு சுடர் ஆய் அருவு ஆகி  
-நாகம் ஏறி நடுக் கடலுள்  
-       துயின்ற நாராயணனே உன்  
-ஆகம் முற்றும் அகத்து அடக்கி  
-       ஆவி அல்லல் மாய்த்ததே (3)  
-3147. O Narayaṇa!  
+३१४७ एक मूर्त्ति इरु मूर्त्ति  
+       मूण्ड्रु मूर्त्ति पल मूर्त्ति  
+आगि ऐन्दु पूदम् आय्  
+       इरण्डु सुडर् आय् अरुवु आगि  
+नागम् एऱि नडुक् कडलुळ्  
+       तुयिण्ड्र नारायणने उन्  
+आगम् मुट्रुम् अगत्तु अडक्कि  
+       आवि अल्लल् माय्त्तदे (३)  
+३१४७। O Narayaṇa!  
 You are the only god.  
 You are the two gods—the sun and the moon.  
 You are the three gods—Shiva, Vishnu and Brahma  
@@ -4638,29 +4639,29 @@ You climbed on the heads of Kalingan and danced.
 You sleep on the middle of the ocean.  
 I kept you in my heart and all my troubles went away.  
 
-3148 மாய்த்தல் எண்ணி வாய் முலை  
-       தந்த மாயப் பேய் உயிர்  
-மாய்த்த ஆய மாயனே வாமனனே மாதவா  
-பூத் தண் மாலை கொண்டு உன்னைப்  
-       போதால் வணங்கேனேலும் நின்  
-பூத் தண் மாலை நெடு முடிக்குப்  
-       புனையும் கண்ணி எனது உயிரே (4)  
-3148. You are the Maayan.  
+३१४८ माय्त्तल् ऎण्णि वाय् मुलै  
+       तन्द मायप् पेय् उयिर्  
+माय्त्त आय मायने वामनने मादवा  
+पूत् तण् मालै कॊण्डु उन्नैप्  
+       पोदाल् वणङ्गेनेलुम् निन्  
+पूत् तण् मालै नॆडु मुडिक्कुप्  
+       पुनैयुम् कण्णि ऎनदु उयिरे (४)  
+३१४८। You are the Maayan.  
 You drank the devil Putana’s milk and killed her.  
 You are Vamanan. You are Madhavan.  
 Even if I do not worship you with cool flower garlands,  
 my life is the cool beautiful garland  
 that I give you to adorn your tall crown.  
 
-3149 கண்ணி எனது உயிர் காதல்  
-       கனகச் சோதி முடி முதலா  
-எண் இல் பல் கலன்களும்  
-       ஏலும் ஆடையும் அஃதே  
-நண்ணி மூவுலகும்  
-       நவிற்றும் கீர்த்தியும் அஃதே  
-கண்ணன் எம் பிரான் எம்மான்  
-       கால சக்கரத்தானுக்கே (5)  
-3149. My life is the garland that adorns you.  
+३१४९ कण्णि ऎनदु उयिर् कादल्  
+       कनगच् चोदि मुडि मुदला  
+ऎण् इल् पल् कलन्गळुम्  
+       एलुम् आडैयुम् अह्दे  
+नण्णि मूवुलगुम्  
+       नविट्रुम् कीर्त्तियुम् अह्दे  
+कण्णन् ऎम् पिरान् ऎम्मान्  
+       काल सक्करत्तानुक्के (५)  
+३१४९। My life is the garland that adorns you.  
 My love is a golden light for you.  
 Your crown, countless ornaments, beautiful clothes  
 are all only my love.  
@@ -4669,15 +4670,15 @@ are my love for you.
 You are our dear god Kaṇṇan and you carry a discus in your hands.  
 Give your grace to the world.  
 
-3150 கால சக்கரத்தொடு வெண்  
-       சங்கம் கை ஏந்தினாய்  
-ஞாலம் முற்றும் உண்டு உமிழ்ந்த  
-       நாராயணனே என்று என்று  
-ஓலம் இட்டு நான் அழைத்தால்  
-       ஒன்றும் வாராயாகிலும்  
-கோலம் ஆம் என் சென்னிக்கு உன்  
-       கமலம் அன்ன குரைகழலே (6)  
-3150. Even though you do not come when I shout out,  
+३१५० काल सक्करत्तॊडु वॆण्  
+       सङ्गम् कै एन्दिनाय्  
+ञालम् मुट्रुम् उण्डु उमिऴ्न्द  
+       नारायणने ऎण्ड्रु ऎण्ड्रु  
+ओलम् इट्टु नान् अऴैत्ताल्  
+       ऒण्ड्रुम् वारायागिलुम्  
+कोलम् आम् ऎन् सॆन्निक्कु उन्  
+       कमलम् अन्न कुरैगऴले (६)  
+३१५०। Even though you do not come when I shout out,  
 calling you and saying,  
 "O Narayana! You carry a discus  
 and a white conch in your hands.  
@@ -4686,15 +4687,15 @@ I keep your beautiful sounding anklets
 that you wear on your lotus feet  
 as an ornament on my head.  
 
-3151 குரை கழல்கள் நீட்டி மண்  
-       கொண்ட கோல வாமனா  
-குரை கழல் கைகூப்புவார்கள்  
-       கூட நின்ற மாயனே  
-விரை கொள் பூவும் நீரும் கொண்டு  
-       ஏத்தமாட்டேனேலும் உன்  
-உரை கொள் சோதித் திரு உருவம்  
-       என்னது ஆவி மேலதே (7)  
-3151. You are the beautiful dwarf  
+३१५१ कुरै कऴल्गळ् नीट्टि मण्  
+       कॊण्ड कोल वामना  
+कुरै कऴल् कैगूप्पुवार्गळ्  
+       कूड निण्ड्र मायने  
+विरै कॊळ् पूवुम् नीरुम् कॊण्डु  
+       एत्तमाट्टेनेलुम् उन्  
+उरै कॊळ् सोदित् तिरु उरुवम्  
+       ऎन्नदु आवि मेलदे (७)  
+३१५१। You are the beautiful dwarf  
 and you measured the worlds with your long strides.  
 You are the Maayavan.  
 When devotees fold their hands  
@@ -4703,58 +4704,58 @@ you stay with them.
 Even though I do not worship you with water and fragrant flowers,  
 your divine shining form that is praised by the Vedas is in my heart.  
 
-3152 என்னது ஆவி மேலையாய்  
-       ஏர் கொள் ஏழ் உலகமும்  
-துன்னி முற்றும் ஆகி நின்ற  
-       சோதி ஞான மூர்த்தியாய்  
-உன்னது என்னது ஆவியும்  
-       என்னது உன்னது ஆவியும்  
-இன்ன வண்ணமே நின்றாய்  
-       என்று உரைக்க வல்லேனே? (8)  
-3152. You love my soul.  
+३१५२ ऎन्नदु आवि मेलैयाय्  
+       एर् कॊळ् एऴ् उलगमुम्  
+तुन्नि मुट्रुम् आगि निण्ड्र  
+       सोदि ज्ञान मूर्त्तियाय्  
+उन्नदु ऎन्नदु आवियुम्  
+       ऎन्नदु उन्नदु आवियुम्  
+इन्न वण्णमे निण्ड्राय्  
+       ऎण्ड्रु उरैक्क वल्लेने? (८)  
+३१५२। You love my soul.  
 You are the wise form that is the bright light  
 that shines over all the seven glorious worlds.  
 My soul is yours and your soul is mine.  
 How can I describe you and tell what your nature is?  
 
-3153 உரைக்க வல்லேன் அல்லேன் உன்  
-       உலப்பு இல் கீர்த்தி வெள்ளத்தின்  
-கரைக்கண் என்று செல்வன் நான்?  
-       காதல் மையல் ஏறினேன்  
-புரைப்பு இலாத பரம்பரனே  
-       பொய் இலாத பரஞ்சுடரே  
-இரைத்து நல்ல மேன்மக்கள்  
-       ஏத்த யானும் ஏத்தினேன் (9)  
-3153. I cannot describe you.  
+३१५३ उरैक्क वल्लेन् अल्लेन् उन्  
+       उलप्पु इल् कीर्त्ति वॆळ्ळत्तिन्  
+करैक्कण् ऎण्ड्रु सॆल्वन् नान्?  
+       कादल् मैयल् एऱिनेन्  
+पुरैप्पु इलाद परम्बरने  
+       पॊय् इलाद परञ्जुडरे  
+इरैत्तु नल्ल मेन्मक्कळ्  
+       एत्त यानुम् एत्तिनेन् (९)  
+३१५३। I cannot describe you.  
 When will I reach the bank of the flood of your unlimited fame?  
 I am filled with love for you.  
 You are the faultless highest god.  
 You are the divine light that has no falsehood.  
 All good devotees praise you loudly and I also praise you.  
 
-3154 யானும் ஏத்தி ஏழ் உலகும்  
-       முற்றும் ஏத்தி பின்னையும்  
-தானும் ஏத்திலும் தன்னை  
-       ஏத்த ஏத்த எங்கு எய்தும்?  
-தேனும் பாலும் கன்னலும்  
-       அமுதும் ஆகித் தித்திப்ப  
-யானும் எம் பிரானையே  
-       ஏத்தினேன் யான் உய்வானே (10)  
-3154. I praise him and all the seven worlds praise him,  
+३१५४ यानुम् एत्ति एऴ् उलगुम्  
+       मुट्रुम् एत्ति पिन्नैयुम्  
+तानुम् एत्तिलुम् तन्नै  
+       एत्त एत्त ऎङ्गु ऎय्दुम्?  
+तेनुम् पालुम् कन्नलुम्  
+       अमुदुम् आगित् तित्तिप्प  
+यानुम् ऎम् पिरानैये  
+       एत्तिनेन् यान् उय्वाने (१०)  
+३१५४। I praise him and all the seven worlds praise him,  
 yet even if all praise him  
 they do not utter enough words to praise his limitless fame.  
 I praise him because he is as sweet as honey,  
 milk, jaggery, and nectar for me. I will be saved.  
 
-3155 உய்வு உபாயம் மற்று இன்மை தேறி  
-       கண்ணன் ஒண் கழல்கள் மேல்  
-செய்ய தாமரைப் பழனத்  
-       தென்னன் குருகூர்ச் சடகோபன்  
-பொய் இல் பாடல் ஆயிரத்துள்  
-       இவையும் பத்தும் வல்லார்கள்  
-வையம் மன்னி வீற்றிருந்து  
-       விண்ணும் ஆள்வர் மண்ணூடே (11)  
-3155. Saḍagopan of Thirukuruhur of the southern kingdom  
+३१५५ उय्वु उपायम् मट्रु इन्मै तेऱि  
+       कण्णन् ऒण् कऴल्गळ् मेल्  
+सॆय्य तामरैप् पऴनत्  
+       तॆन्नन् गुरुगूर्च् चडगोबन्  
+पॊय् इल् पाडल् आयिरत्तुळ्  
+       इवैयुम् पत्तुम् वल्लार्गळ्  
+वैयम् मन्नि वीट्रिरुन्दु  
+       विण्णुम् आळ्वर् मण्णूडे (११)  
+३१५५। Saḍagopan of Thirukuruhur of the southern kingdom  
 surrounded by fields blooming with beautiful lotuses  
 composed a thousand faultless poems  
 praising the feet of the god decorated with shining anklets.  
@@ -4763,18 +4764,18 @@ If devotees learn and recite these ten poems
 they will stay in this world happily and also rule heaven.  
 -------  
 
-திருவாய் மொழி - நான்காம் பத்து (நான்காம் திருமொழி, 3156-3166)  
-பிரிவு ஆற்றாது போலிப் பொருள்களைக் கண்டு வருந்தும் தலைவியின் நிலையைத் தாய் உரைத்தல்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (नान्गाम् तिरुमॊऴि, ३१५६-३१६६)  
+पिरिवु आट्रादु पोलिप् पॊरुळ्गळैक् कण्डु वरुन्दुम् तलैवियिन् निलैयैत् ताय् उरैत्तल्  
 
-3156 மண்ணை இருந்து துழாவி  
-       வாமனன் மண் இது என்னும்  
-விண்ணைத் தொழுது அவன் மேவு  
-       வைகுந்தம் என்று கை காட்டும்  
-கண்ணை உள்நீர் மல்க நின்று  
-       கடல்வண்ணன் என்னும் அன்னே என்  
-பெண்ணைப் பெருமயல் செய்தாற்கு  
-       என் செய்கேன் பெய் வளையீரே? (1)  
-3156. My daughter fell in love with the lord.  
+३१५६ मण्णै इरुन्दु तुऴावि  
+       वामनन् मण् इदु ऎन्नुम्  
+विण्णैत् तॊऴुदु अवन् मेवु  
+       वैगुन्दम् ऎण्ड्रु कै काट्टुम्  
+कण्णै उळ्नीर् मल्ग निण्ड्रु  
+       कडल्वण्णन् ऎन्नुम् अन्ने ऎन्  
+पॆण्णैप् पॆरुमयल् सॆय्दाऱ्‌कु  
+       ऎन् सॆय्गेन् पॆय् वळैयीरे? (१)  
+३१५६। My daughter fell in love with the lord.  
 She touches the earth and says,  
 "This earth was measured by Vamanan."  
 She points her finger at the sky and says,  
@@ -4784,15 +4785,15 @@ She says, "He has the color of the ocean."
 O lord! You have fascinated my daughter.  
 O girls ornamented with bangles! What can I do?  
 
-3157 பெய்வளைக் கைகளைக் கூப்பி  
-       பிரான் கிடக்கும் கடல் என்னும்  
-செய்யது ஓர் ஞாயிற்றைக் காட்டி  
-       சிரீதரன் மூர்த்தி ஈது என்னும்  
-நையும் கண்ணீர் மல்க நின்று  
-       நாரணன் என்னும் அன்னே என்  
-தெய்வ உருவில் சிறுமான்  
-       செய்கின்றது ஒன்று அறியேனே (2)  
-3157. My daughter folds her hands ornamented with bangles  
+३१५७ पॆय्वळैक् कैगळैक् कूप्पि  
+       पिरान् किडक्कुम् कडल् ऎन्नुम्  
+सॆय्यदु ओर् ञायिट्रैक् काट्टि  
+       सिरीदरन् मूर्त्ति ईदु ऎन्नुम्  
+नैयुम् कण्णीर् मल्ग निण्ड्रु  
+       नारणन् ऎन्नुम् अन्ने ऎन्  
+तॆय्व उरुविल् सिऱुमान्  
+       सॆय्गिण्ड्रदु ऒण्ड्रु अऱियेने (२)  
+३१५७। My daughter folds her hands ornamented with bangles  
 and says, "He, the dear god, sleeps on the ocean."  
 She points to the red sun and says,  
 "This is a form of Sridharan."  
@@ -4802,15 +4803,15 @@ O lord, she looks divine.
 She is soft like a small doe.  
 I don’t know what to do.  
 
-3158 அறியும் செந்தீயைத் தழுவி  
-       அச்சுதன் என்னும் மெய் வேவாள்  
-எறியும் தண் காற்றைத் தழுவி  
-       என்னுடைக் கோவிந்தன் என்னும்  
-வெறி கொள் துழாய் மலர் நாறும்  
-       வினையுடையாட்டியேன் பெற்ற  
-செறி வளை முன் கைச் சிறுமான்  
-       செய்கின்றது என் கண்ணுக்கு ஒன்றே? (3)  
-3158. My daughter looks at the red fire  
+३१५८ अऱियुम् सॆन्दीयैत् तऴुवि  
+       अच्चुदन् ऎन्नुम् मॆय् वेवाळ्  
+ऎऱियुम् तण् काट्रैत् तऴुवि  
+       ऎन्नुडैक् कोविन्दन् ऎन्नुम्  
+वॆऱि कॊळ् तुऴाय् मलर् नाऱुम्  
+       विनैयुडैयाट्टियेन् पॆट्र  
+सॆऱि वळै मुन् कैच् चिऱुमान्  
+       सॆय्गिण्ड्रदु ऎन् कण्णुक्कु ऒण्ड्रे? (३)  
+३१५८। My daughter looks at the red fire  
 and says, "He is indestructible."  
 She embraces the wind that blows strongly  
 and says, "This is my Govindan."  
@@ -4820,15 +4821,15 @@ My little doe-like bangled girl
 does so many things,  
 but I can’t understand even one of them.  
 
-3159 ஒன்றிய திங்களைக் காட்டி  
-       ஒளி மணி வண்ணனே என்னும்  
-நின்ற குன்றத்தினை நோக்கி  
-       நெடுமாலே வா என்று கூவும்  
-நன்று பெய்யும் மழை காணில்  
-       நாரணன் வந்தான் என்று ஆலும்  
-என்று இன மையல்கள் செய்தான்  
-       என்னுடைக் கோமளத்தையே? (4)  
-3159. My daughter points to the shining moon and says,  
+३१५९ ऒण्ड्रिय तिङ्गळैक् काट्टि  
+       ऒळि मणि वण्णने ऎन्नुम्  
+निण्ड्र कुण्ड्रत्तिनै नोक्कि  
+       नॆडुमाले वा ऎण्ड्रु कूवुम्  
+नण्ड्रु पॆय्युम् मऴै काणिल्  
+       नारणन् वन्दान् ऎण्ड्रु आलुम्  
+ऎण्ड्रु इन मैयल्गळ् सॆय्दान्  
+       ऎन्नुडैक् कोमळत्तैये? (४)  
+३१५९। My daughter points to the shining moon and says,  
 "That is the bright sapphire-colored god."  
 She looks at the tall hills and calls out loudly,  
 "O Neḍumaal, come!"  
@@ -4837,15 +4838,15 @@ If the rain pours down, she says,
 In so many ways he has fascinated  
 my beautiful daughter, as precious as a jewel.  
 
-3160 கோமள வான் கன்றைப் புல்கி  
-       கோவிந்தன் மேய்த்தன என்னும்  
-போம் இள நாகத்தின் பின் போய்  
-       அவன் கிடக்கை ஈது என்னும்  
-ஆம் அளவு ஒன்றும் அறியேன்  
-       அருவினையாட்டியேன் பெற்ற  
-கோமள வல்லியை மாயோன்  
-       மால் செய்து செய்கின்ற கூத்தே (5)  
-3160. My daughter embraces calves  
+३१६० कोमळ वान् कण्ड्रैप् पुल्गि  
+       कोविन्दन् मेय्त्तन ऎन्नुम्  
+पोम् इळ नागत्तिन् पिन् पोय्  
+       अवन् किडक्कै ईदु ऎन्नुम्  
+आम् अळवु ऒण्ड्रुम् अऱियेन्  
+       अरुविनैयाट्टियेन् पॆट्र  
+कोमळ वल्लियै मायोन्  
+       माल् सॆय्दु सॆय्गिण्ड्र कूत्ते (५)  
+३१६०। My daughter embraces calves  
 and says that Govindan grazes them.  
 She runs behind a slithering snake and says,  
 "This is his bed."  
@@ -4854,15 +4855,15 @@ I have done bad karma.
 The mischievous Maayon has fascinated my beautiful daughter—  
 what can I do?  
 
-3161 கூத்தர் குடம் எடுத்து ஆடில்  
-       கோவிந்தன் ஆம் எனா ஓடும்  
-வாய்த்த குழல் ஓசை கேட்கில்  
-       மாயவன் என்று மையாக்கும்  
-ஆய்ச்சியர் வெண்ணெய்கள் காணில்  
-       அவன் உண்ட வெண்ணெய் ஈது என்னும்  
-பேய்ச்சி முலை சுவைத்தாற்கு  
-       என் பெண்கொடி ஏறிய பித்தே (6)  
-3161. If a dancer carries a pot,  
+३१६१ कूत्तर् कुडम् ऎडुत्तु आडिल्  
+       कोविन्दन् आम् ऎना ओडुम्  
+वाय्त्त कुऴल् ओसै केट्किल्  
+       मायवन् ऎण्ड्रु मैयाक्कुम्  
+आय्च्चियर् वॆण्णॆय्गळ् काणिल्  
+       अवन् उण्ड वॆण्णॆय् ईदु ऎन्नुम्  
+पेय्च्चि मुलै सुवैत्ताऱ्‌कु  
+       ऎन् पॆण्गॊडि एऱिय पित्ते (६)  
+३१६१। If a dancer carries a pot,  
 my daughter runs and says, "Govindan is there."  
 If she hears the beautiful sound of flute,  
 she is fascinated and says, "Maayavan is playing the flute."  
@@ -4871,15 +4872,15 @@ she says, "This is the butter that he has eaten."
 He drank the milk from the devil Putana.  
 How could my lovely vine-like daughter be so crazy about him?  
 
-3162 ஏறிய பித்தினோடு எல்லா  
-       உலகும் கண்ணன் படைப்பு என்னும்  
-நீறு செவ்வே இடக் காணில்  
-       நெடுமால் அடியார் என்று ஓடும்  
-நாறு துழாய் மலர் காணில்  
-       நாரணன் கண்ணி ஈது என்னும்  
-தேறியும் தேறாதும் மாயோன்  
-       திறத்தனளே இத் திருவே (7)  
-3162. Like a crazy person, my daughter says,  
+३१६२ एऱिय पित्तिनोडु ऎल्ला  
+       उलगुम् कण्णन् पडैप्पु ऎन्नुम्  
+नीऱु सॆव्वे इडक् काणिल्  
+       नॆडुमाल् अडियार् ऎण्ड्रु ओडुम्  
+नाऱु तुऴाय् मलर् काणिल्  
+       नारणन् कण्णि ईदु ऎन्नुम्  
+तेऱियुम् तेऱादुम् मायोन्  
+       तिऱत्तनळे इत् तिरुवे (७)  
+३१६२। Like a crazy person, my daughter says,  
 "All the worlds are created by Kaṇṇan."  
 If she sees people wearing a naamam,  
 she runs near them and says,  
@@ -4890,15 +4891,15 @@ Whether she is in a state of knowing everything,
 or in a state of knowing nothing,  
 my precious girl loves the ornamented feet of Maayon.  
 
-3163 திரு உடை மன்னரைக் காணில்  
-       திருமாலைக் கண்டேனே என்னும்  
-உரு உடை வண்ணங்கள் காணில்  
-       உலகு அளந்தான் என்று துள்ளும்  
-கரு உடைத் தேவு இல்கள் எல்லாம்  
-       கடல் வண்ணன் கோயிலே என்னும்  
-வெருவிலும் வீழ்விலும் ஓவாள்  
-       கண்ணன் கழல்கள் விரும்புமே (8)  
-3163. If she sees great kings,  
+३१६३ तिरु उडै मन्नरैक् काणिल्  
+       तिरुमालैक् कण्डेने ऎन्नुम्  
+उरु उडै वण्णङ्गळ् काणिल्  
+       उलगु अळन्दान् ऎण्ड्रु तुळ्ळुम्  
+करु उडैत् तेवु इल्गळ् ऎल्लाम्  
+       कडल् वण्णन् कोयिले ऎन्नुम्  
+वॆरुविलुम् वीऴ्विलुम् ओवाळ्  
+       कण्णन् कऴल्गळ् विरुम्बुमे (८)  
+३१६३। If she sees great kings,  
 my daughter says, "I have seen Thirumaal."  
 If she sees something blue, she jumps and says,  
 "Here is my god. He is Thirumal and he measured the world."  
@@ -4907,15 +4908,15 @@ of the ocean-colored god.
 Whether she is afraid of something or just stricken with love  
 she wants the anklet-adorned feet of the god Kaṇṇan.  
 
-3164 விரும்பிப் பகவரைக் காணில்  
-       வியல் இடம் உண்டானே என்னும்  
-கரும் பெரு மேகங்கள் காணில்  
-       கண்ணன் என்று ஏறப் பறக்கும்  
-பெரும் புல ஆ நிரை காணில்  
-       பிரான் உளன் என்று பின் செல்லும்  
-அரும் பெறல் பெண்ணினை மாயோன்  
-       அலற்றி அயர்ப்பிக்கின்றானே (9)  
-3164. If my daughter sees sages  
+३१६४ विरुम्बिप् भगवरैक् काणिल्  
+       वियल् इडम् उण्डाने ऎन्नुम्  
+करुम् पॆरु मेगङ्गळ् काणिल्  
+       कण्णन् ऎण्ड्रु एऱप् पऱक्कुम्  
+पॆरुम् पुल आ निरै काणिल्  
+       पिरान् उळन् ऎण्ड्रु पिन् सॆल्लुम्  
+अरुम् पॆऱल् पॆण्णिनै मायोन्  
+       अलट्रि अयर्प्पिक्किण्ड्राने (९)  
+३१६४। If my daughter sees sages  
 she says that they are forms of the god  
 who swallowed all the worlds.  
 If she sees large dark clouds she jumps and says,  
@@ -4926,15 +4927,15 @@ she goes behind them and says,
 Maayon has made my precious daughter crazy  
 and weary with fascination and love for him.  
 
-3165 அயர்க்கும் சுற்றும் பற்றி நோக்கி  
-       அகலவே நீள் நோக்குக் கொள்ளும்  
-வியர்க்கும் மழைக்கண் துளும்ப  
-       வெவ்வுயிர் கொள்ளும் மெய் சோரும்  
-பெயர்த்தும் கண்ணா என்று பேசும்  
-       பெருமானே வா என்று கூவும்  
-மயல் பெருங் காதல் என் பேதைக்கு  
-       என்செய்கேன் வல்வினையேனே? (10)  
-3165. My daughter is fascinated with him.  
+३१६५ अयर्क्कुम् सुट्रुम् पट्रि नोक्कि  
+       अगलवे नीळ् नोक्कुक् कॊळ्ळुम्  
+वियर्क्कुम् मऴैक्कण् तुळुम्ब  
+       वॆव्वुयिर् कॊळ्ळुम् मॆय् सोरुम्  
+पॆयर्त्तुम् कण्णा ऎण्ड्रु पेसुम्  
+       पॆरुमाने वा ऎण्ड्रु कूवुम्  
+मयल् पॆरुङ् गादल् ऎन् पेदैक्कु  
+       ऎन्सॆय्गेन् वल्विनैयेने? (१०)  
+३१६५। My daughter is fascinated with him.  
 She looks in every direction for him.  
 She looks into long distances to see whether he is coming.  
 Thinking of him she sweats and she sighs  
@@ -4945,15 +4946,15 @@ I have done bad karma.
 What can I do for my innocent daughter?  
 She is stricken with such ardent love?  
 
-3166 வல்வினை தீர்க்கும் கண்ணனை  
-       வண் குருகூர்ச் சடகோபன்  
-சொல் வினையால் சொன்ன பாடல்  
-       ஆயிரத்துள் இவை பத்தும்  
-நல் வினை என்று கற்பார்கள்  
-       நலனிடை வைகுந்தம் நண்ணி  
-தொல்வினை தீர எல்லாரும்  
-       தொழுது எழ வீற்றிருப்பாரே (11)  
-3166. Saḍagopan of rich Thirukuruhur  
+३१६६ वल्विनै तीर्क्कुम् कण्णनै  
+       वण् गुरुगूर्च् चडगोबन्  
+सॊल् विनैयाल् सॊन्न पाडल्  
+       आयिरत्तुळ् इवै पत्तुम्  
+नल् विनै ऎण्ड्रु कऱ्‌पार्गळ्  
+       नलनिडै वैगुन्दम् नण्णि  
+तॊल्विनै तीर ऎल्लारुम्  
+       तॊऴुदु ऎऴ वीट्रिरुप्पारे (११)  
+३१६६। Saḍagopan of rich Thirukuruhur  
 composed a thousand songs on Kaṇṇan  
 who removes evil karma.  
 If devotees learn and recite these ten songs,  
@@ -4961,14 +4962,14 @@ they will get good karma and go to Vaikuṇṭam
 and all in the sky will worship them.  
 ----------  
 
-திருவாய் மொழி - நான்காம் பத்து (ஐந்தாம் திருமொழி, 3167-3177)  
-எம்பெருமானது இருப்பைக் கண்டு மகிழ்தல்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३१६७-३१७७)  
+ऎम्बॆरुमानदु इरुप्पैक् कण्डु मगिऴ्दल्  
 
-3167 வீற்றிருந்து ஏழ் உலகும் தனிக்கோல் செல்ல வீவு இல் சீர்  
-ஆற்றல் மிக்கு ஆளும் அம்மானை வெம் மா பிளந்தான் தன்னை  
-போற்றி என்றே கைகள் ஆரத் தொழுது சொல் மாலைகள்  
-ஏற்ற நோற்றேற்கு இனி என்ன குறை எழுமையுமே? (1)  
-3167. He rules all the seven worlds with his unique scepter.  
+३१६७ वीट्रिरुन्दु एऴ् उलगुम् तनिक्कोल् सॆल्ल वीवु इल् सीर्  
+आट्रल् मिक्कु आळुम् अम्मानै वॆम् मा पिळन्दान् तन्नै  
+पोट्रि ऎण्ड्रे कैगळ् आरत् तॊऴुदु सॊल् मालैगळ्  
+एट्र नोट्रेऱ्‌कु इनि ऎन्न कुऱै ऎऴुमैयुमे? (१)  
+३१६७। He rules all the seven worlds with his unique scepter.  
 He is strong and he loves me like my mother.  
 The Asuran Kesi came in the form of a horse  
 and the god split open his mouth.  
@@ -4976,11 +4977,11 @@ I worship him saying, "I praise you! I praise you!"
 I decorate him with garlands of songs  
 and there are no troubles for me in all my seven births.  
 
-3168 மைய கண்ணாள் மலர் மேல் உறைவாள் உறை மார்பினன்  
-செய்ய கோலத் தடங் கண்ணன் விண்ணோர் பெருமான் தன்னை  
-மொய்ய சொல்லால் இசைமாலைகள் ஏத்தி உள்ளப்பெற்றேன்  
-வெய்ய நோய்கள் முழுதும் வியன் ஞாலத்து வீயவே (2)  
-3168. He, the god of the gods in the sky,  
+३१६८ मैय कण्णाळ् मलर् मेल् उऱैवाळ् उऱै मार्बिनन्  
+सॆय्य कोलत् तडङ् गण्णन् विण्णोर् पॆरुमान् तन्नै  
+मॊय्य सॊल्लाल् इसैमालैगळ् एत्ति उळ्ळप्पॆट्रेन्  
+वॆय्य नोय्गळ् मुऴुदुम् वियन् ञालत्तु वीयवे (२)  
+३१६८। He, the god of the gods in the sky,  
 has large dark eyes and a beautiful form.  
 On his chest he embraces Lakshmi.  
 I keep him in my mind,  
@@ -4989,11 +4990,11 @@ and worship him.
 All the terrible sicknesses in this world  
 will not come to me.  
 
-3169 வீவு இல் இன்பம் மிக எல்லை நிகழ்ந்த நம் அச்சுதன்  
-வீவு இல் சீரன் மலர்க் கண்ணன் விண்ணோர் பெருமான் தன்னை  
-வீவு இல் காலம் இசைமாலைகள் ஏத்தி மேவப்பெற்றேன்  
-வீவு இல் இன்பம் மிக எல்லை நிகழ்ந்தனன் மேவியே (3)  
-3169. He is the god Achudan.  
+३१६९ वीवु इल् इन्बम् मिग ऎल्लै निगऴ्न्द नम् अच्चुदन्  
+वीवु इल् सीरन् मलर्क् कण्णन् विण्णोर् पॆरुमान् तन्नै  
+वीवु इल् कालम् इसैमालैगळ् एत्ति मेवप्पॆट्रेन्  
+वीवु इल् इन्बम् मिग ऎल्लै निगऴ्न्दनन् मेविये (३)  
+३१६९। He is the god Achudan.  
 He gives endless happiness to all.  
 He has beautiful lotus eyes and faultless qualities.  
 and he is the god of the gods.  
@@ -5001,11 +5002,11 @@ I have praised him for endless ages
 with garlands of song  
 and received endless joy worshiping him.  
 
-3170 மேவி நின்று தொழுவார் வினை போக மேவும் பிரான்  
-தூவி அம் புள் உடையான் அடல் ஆழி அம்மான் தன்னை  
-நா இயலால் இசைமாலைகள் ஏத்தி நண்ணப் பெற்றேன்  
-ஆவி என் ஆவியை யான் அறியேன் செய்த ஆற்றையே (4)  
-3170. If devotees approach and worship him,  
+३१७० मेवि निण्ड्रु तॊऴुवार् विनै पोग मेवुम् पिरान्  
+तूवि अम् पुळ् उडैयान् अडल् आऴि अम्मान् तन्नै  
+ना इयलाल् इसैमालैगळ् एत्ति नण्णप् पॆट्रेन्  
+आवि ऎन् आवियै यान् अऱियेन् सॆय्द आट्रैये (४)  
+३१७०। If devotees approach and worship him,  
 our dear god removes their karma.  
 He rides on a beautiful eagle that has soft weathers.  
 He, my father, sleeps on the wide ocean.  
@@ -5014,32 +5015,32 @@ and reached him.
 I do not know my soul, my dear soul  
 that guides me in this right path.  
 
-3171 ஆற்ற நல்ல வகை காட்டும் அம்மானை அமரர் தம்  
-ஏற்றை எல்லாப் பொருளும் விரித்தானை எம்மான் தன்னை  
-மாற்ற மாலைப் புனைந்து ஏத்தி நாளும் மகிழ்வு எய்தினேன்  
-காற்றின் முன்னம் கடுகி வினை நோய்கள் கரியவே (5)  
-3171. He, my mother, showed me many good paths.  
+३१७१ आट्र नल्ल वगै काट्टुम् अम्मानै अमरर् तम्  
+एट्रै ऎल्लाप् पॊरुळुम् विरित्तानै ऎम्मान् तन्नै  
+माट्र मालैप् पुनैन्दु एत्ति नाळुम् मगिऴ्वु ऎय्दिनेन्  
+काट्रिन् मुन्नम् कडुगि विनै नोय्गळ् करियवे (५)  
+३१७१। He, my mother, showed me many good paths.  
 He is a bull among the gods in the sky.  
 He, our father, taught the Vedas to the sages.  
 I have obtained joy praising my dear god with garlands of poems  
 and all my karma will be destroyed faster than a swift wind.  
 
-3172 கரிய மேனிமிசை வெளிய நீறு சிறிதே இடும்  
-பெரிய கோலத் தடங்கண்ணன் விண்ணோர் பெருமான் தன்னை  
-உரிய சொல்லால் இசைமாலைகள் ஏத்தி உள்ளப்பெற்றேற்கு  
-அரியது உண்டோ எனக்கு இன்று தொட்டும் இனி என்றுமே (6)  
-3172. The god of the gods in the sky has a dark body  
+३१७२ करिय मेनिमिसै वॆळिय नीऱु सिऱिदे इडुम्  
+पॆरिय कोलत् तडङ्गण्णन् विण्णोर् पॆरुमान् तन्नै  
+उरिय सॊल्लाल् इसैमालैगळ् एत्ति उळ्ळप्पॆट्रेऱ्‌कु  
+अरियदु उण्डो ऎनक्कु इण्ड्रु तॊट्टुम् इनि ऎण्ड्रुमे (६)  
+३१७२। The god of the gods in the sky has a dark body  
 and he has a white naamam on his forehead.  
 He has large beautiful eyes.  
 I worship him with garlands of songs with good words.  
 Is there anything I could ever get that is better  
 than receiving him in my heart?  
 
-3173 என்றும் ஒன்று ஆகி ஒத்தாரும் மிக்கார்களும் தன் தனக்கு  
-இன்றி நின்றானை எல்லா உலகும் உடையான் தன்னை  
-குன்றம் ஒன்றால் மழை காத்த பிரானை சொல் மாலைகள்  
-நன்று சூட்டும் விதி எய்தினம் என்ன குறை நமக்கே? (7)  
-3173. He is the only one god on the earth.  
+३१७३ ऎण्ड्रुम् ऒण्ड्रु आगि ऒत्तारुम् मिक्कार्गळुम् तन् तनक्कु  
+इण्ड्रि निण्ड्रानै ऎल्ला उलगुम् उडैयान् तन्नै  
+कुण्ड्रम् ऒण्ड्राल् मऴै कात्त पिरानै सॊल् मालैगळ्  
+नण्ड्रु सूट्टुम् विधि ऎय्दिनम् ऎन्न कुऱै नमक्के? (७)  
+३१७३। He is the only one god on the earth.  
 There has never been anyone equal to or better than he.  
 He rules all the worlds.  
 He protected the cows from the storm,  
@@ -5047,22 +5048,22 @@ carrying Govardhana mountain as an umbrella.
 I have the fortune of praising him with garlands of poems.  
 There is nothing I do not have.  
 
-3174 நமக்கும் பூவின்மிசை நங்கைக்கும் இன்பனை ஞாலத்தார்  
-தமக்கும் வானத்தவர்க்கும் பெருமானை தண் தாமரை  
-சுமக்கும் பாதப் பெருமானை சொல்மாலைகள் சொல்லுமாறு  
-அமைக்க வல்லேற்கு இனி யாவர் நிகர் அகல் வானத்தே? (8)  
-3174. He is god of me, of the people of the world  
+३१७४ नमक्कुम् पूविन्मिसै नङ्गैक्कुम् इन्बनै ञालत्तार्  
+तमक्कुम् वानत्तवर्क्कुम् पॆरुमानै तण् तामरै  
+सुमक्कुम् पादप् पॆरुमानै सॊल्मालैगळ् सॊल्लुमाऱु  
+अमैक्क वल्लेऱ्‌कु इनि यावर् निगर् अगल् वानत्ते? (८)  
+३१७४। He is god of me, of the people of the world  
 and of the gods in the sky.  
 He is a joy for Lakshmi on a lotus.  
 His feet are adorned with cool lotuses.  
 I have the fortune of composing garlands of poems to him.  
 Who, even in the wide sky, could be my equal?  
 
-3175 வானத்தும் வானத்துள் உம்பரும் மண்ணுள்ளும் மண்ணின்கீழ்த்  
-தானத்தும் எண் திசையும் தவிராது நின்றான் தன்னை  
-கூனல் சங்கத் தடக்கையவனை குடம் ஆடியை  
-வானக் கோனை கவி சொல்ல வல்லேற்கு இனி மாறுஉண்டே? (9)  
-3175. He stays in the sky.  
+३१७५ वानत्तुम् वानत्तुळ् उम्बरुम् मण्णुळ्ळुम् मण्णिन्गीऴ्त्  
+तानत्तुम् ऎण् तिसैयुम् तविरादु निण्ड्रान् तन्नै  
+कूनल् सङ्गत् तडक्कैयवनै कुडम् आडियै  
+वानक् कोनै कवि सॊल्ल वल्लेऱ्‌कु इनि माऱुउण्डे? (९)  
+३१७५। He stays in the sky.  
 He is with the gods in the sky.  
 He is on the earth.  
 He is in the underworld.  
@@ -5073,11 +5074,11 @@ He danced on a pot and he is the king of the sky.
 I compose poems to praise the lord  
 and I will not have any trouble.  
 
-3176 உண்டும் உமிழ்ந்தும் கடந்தும் இடந்தும் கிடந்தும் நின்றும்  
-கொண்ட கோலத்தொடு வீற்றிருந்தும் மணம் கூடியும்  
-கண்ட ஆற்றால் தனதே உலகு என நின்றான் தன்னை  
-வண் தமிழ் நூற்க நோற்றேன் அடியார்க்கு இன்ப மாரியே (10)  
-3176. He swallowed the earth and spit it out.  
+३१७६ उण्डुम् उमिऴ्न्दुम् कडन्दुम् इडन्दुम् किडन्दुम् निण्ड्रुम्  
+कॊण्ड कोलत्तॊडु वीट्रिरुन्दुम् मणम् कूडियुम्  
+कण्ड आट्राल् तनदे उलगु ऎन निण्ड्रान् तन्नै  
+वण् तमिऴ् नूऱ्‌क नोट्रेन् अडियार्क्कु इन्ब मारिये (१०)  
+३१७६। He swallowed the earth and spit it out.  
 He measured the world.  
 He split open the ground  
 and brought the earth from the underworld.  
@@ -5088,11 +5089,11 @@ He has the power to rule all the worlds.
 I have the good fortune of composing beautiful Tamil poems  
 that are a flood of pleasure for his devotees.  
 
-3177 மாரி மாறாத தண் அம் மலை வேங்கடத்து அண்ணலை  
-வாரி மாறாத பைம் பூம் பொழில் சூழ் குருகூர் நகர்க்  
-காரி மாறன் சடகோபன் சொல் ஆயிரத்து இப் பத்தால்  
-வேரி மாறாத பூமேல் இருப்பாள் வினை தீர்க்குமே 11  
-3177. Sadagopan, the son of Kaari Maaran,  
+३१७७ मारि माऱाद तण् अम् मलै वेङ्गडत्तु अण्णलै  
+वारि माऱाद पैम् पूम् पॊऴिल् सूऴ् गुरुगूर् नगर्क्  
+कारि माऱन् सडगोबन् सॊल् आयिरत्तु इप् पत्ताल्  
+वेरि माऱाद पूमेल् इरुप्पाळ् विनै तीर्क्कुमे ११  
+३१७७। Sadagopan, the son of Kaari Maaran,  
 composed a thousand poems on the great god  
 of the beautiful cool Thiruvenkaṭam hills  
 where the rain never fails to pour.  
@@ -5101,14 +5102,14 @@ who stays on a fragrant lotus flower
 their karma will go away.  
 ----------  
 
-திருவாய் மொழி - நான்காம் பத்து (ஆறாம் திருமொழி, 3178-3188)  
-வெறி விலக்கு  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (आऱाम् तिरुमॊऴि, ३१७८-३१८८)  
+वॆऱि विलक्कु  
 
-3178 தீர்ப்பாரை யாம் இனி எங்ஙனம் நாடுதும் அன்னைமீர்!  
-ஓர்ப்பால் இவ் ஒள் நுதல் உற்ற நல் நோய் இது தேறினோம்  
-போர்ப்பாகு தான் செய்து அன்று ஐவரை வெல்வித்த மாயப்போர்த்  
-தேர்ப்பாகனார்க்கு இவள் சிந்தை துழாய்த் திசைக்கின்றதே? (1)  
-3178. Her friends say,  
+३१७८ तीर्प्पारै याम् इनि ऎङ्ङनम् नाडुदुम् अन्नैमीर्!  
+ओर्प्पाल् इव् ऒळ् नुदल् उट्र नल् नोय् इदु तेऱिनोम्  
+पोर्प्भागु तान् सॆय्दु अण्ड्रु ऐवरै वॆल्वित्त मायप्पोर्त्  
+तेर्प्भागनार्क्कु इवळ् सिन्दै तुऴाय्त् तिसैक्किण्ड्रदे? (१)  
+३१७८। Her friends say,  
 "O mothers,  
 Our beautiful friend has a shining forehead.  
 Where can we find someone to cure her sickness?  
@@ -5118,11 +5119,11 @@ who drove Arjuna’s chariot
 and gained victory for the five Pandavas,  
 conquering the Kauravas in battle."  
 
-3179 திசைக்கின்றதே இவள் நோய் இது மிக்க பெருந் தெய்வம்  
-இசைப்பு இன்றி நீர் அணங்கு ஆடும் இளந் தெய்வம் அன்று இது  
-திசைப்பு இன்றியே சங்கு சக்கரம் என்று இவள் கேட்க நீர்  
-இசைக்கிற்றிராகில் நன்றே இல் பெறும் இது காண்மினே (2)  
-3179. Her friends say,  
+३१७९ तिसैक्किण्ड्रदे इवळ् नोय् इदु मिक्क पॆरुन् दॆय्वम्  
+इसैप्पु इण्ड्रि नीर् अणङ्गु आडुम् इळन् दॆय्वम् अण्ड्रु इदु  
+तिसैप्पु इण्ड्रिये सङ्गु सक्करम् ऎण्ड्रु इवळ् केट्क नीर्  
+इसैक्किट्रिरागिल् नण्ड्रे इल् पॆऱुम् इदु काण्मिने (२)  
+३१७९। Her friends say,  
 " O mother, you are confused without knowing  
 the reason for her sickness.  
 Her suffering is not caused by some small goddess, like Anangu.  
@@ -5134,11 +5135,11 @@ so she can hear it clearly, her sickness will go away
 and she will get better just today itself.  
 This is the best medicine for her."  
 
-3180 இது காண்மின் அன்னைமீர் இக் கட்டுவிச்சி சொல் கொண்டு நீர்  
-எதுவானும் செய்து அங்கு ஓர் கள்ளும் இறைச்சியும் தூவேன் மின்  
-மது வார் துழாய் முடி மாயப் பிரான் கழல் வாழ்த்தினால்  
-அதுவே இவள் உற்ற நோய்க்கும் அரு மருந்து ஆகுமே (3)  
-3180. Her friends say,  
+३१८० इदु काण्मिन् अन्नैमीर् इक् कट्टुविच्चि सॊल् कॊण्डु नीर्  
+ऎदुवानुम् सॆय्दु अङ्गु ओर् कळ्ळुम् इऱैच्चियुम् तूवेन् मिन्  
+मदु वार् तुऴाय् मुडि मायप् पिरान् कऴल् वाऴ्त्तिनाल्  
+अदुवे इवळ् उट्र नोय्क्कुम् अरु मरुन्दु आगुमे (३)  
+३१८०। Her friends say,  
 "O mother, Listen to what I say:  
 ‘The female priest said that if we worship the Anangu  
 her sickness will go away.  
@@ -5148,11 +5149,11 @@ If you praise the feet, ornamented with anklets, of Maaya Piraan
 whose head is garlanded with thulasi,  
 that will be the best remedy for her sickness.’"  
 
-3181 மருந்து ஆகும் என்று அங்கு ஓர் மாய வலவை சொல் கொண்டு நீர்  
-கருஞ் சோறும் மற்றைச் செஞ் சோறும் களன் இழைத்து என் பயன்?  
-ஒருங்காகவே உலகு ஏழும் விழுங்கி உமிழ்ந்திட்ட  
-பெருந்தேவன் பேர் சொல்லகிற்கில் இவளைப் பெறுதிரே (4)  
-3181. Her friends say,  
+३१८१ मरुन्दु आगुम् ऎण्ड्रु अङ्गु ओर् माय वलवै सॊल् कॊण्डु नीर्  
+करुञ् जोऱुम् मट्रैच् चॆञ् जोऱुम् कळन् इऴैत्तु ऎन् पयन्?  
+ऒरुङ्गागवे उलगु एऴुम् विऴुङ्गि उमिऴ्न्दिट्ट  
+पॆरुन्देवन् पेर् सॊल्लगिऱ्‌किल् इवळैप् पॆऱुदिरे (४)  
+३१८१। Her friends say,  
 "O Mother, the priest woman says,  
 ‘The cure for your daughter’s sickness is to offer different kinds  
 of rice to the gods,’ and you listen to her  
@@ -5162,11 +5163,11 @@ If you say the name of the great god
 who swallowed all the seven worlds and spit them out,  
 you will cure her sickness."  
 
-3182 இவளைப் பெறும் பரிசு இவ் அணங்கு ஆடுதல் அன்று அந்தோ  
-குவளைத் தடங் கண்ணும் கோவைச் செவ்வாயும் பயந்தனள்  
-கவளக் கடாக் களிறு அட்ட பிரான் திருநாமத்தால்  
-தவளப் பொடிக் கொண்டு நீர் இட்டிடுமின் தணியுமே (5)  
-3182. Her friends say,  
+३१८२ इवळैप् पॆऱुम् परिसु इव् अणङ्गु आडुदल् अण्ड्रु अन्दो  
+कुवळैत् तडङ् गण्णुम् कोवैच् चॆव्वायुम् पयन्दनळ्  
+कवळक् कडाक् कळिऱु अट्ट पिरान् तिरुनामत्ताल्  
+तवळप् पॊडिक् कॊण्डु नीर् इट्टिडुमिन् तणियुमे (५)  
+३१८२। Her friends say,  
 "To cure her sickness don’t dance with the Anangu.  
 She has large eyes like kuvalai flowers  
 and a red mouth like a kovvai fruit and her body is pale.  
@@ -5175,11 +5176,11 @@ who killed the angry rutting elephant kuvalayabeedam.
 Put on her forehead the divine red powder of the god  
 and her sickness will go away."  
 
-3183 தணியும் பொழுது இல்லை நீர் அணங்கு ஆடுதிர் அன்னைமீர்  
-பிணியும் ஒழிகின்றது இல்லை பெருகும் இது அல்லால்  
-மணியின் அணி நிற மாயன் தமர் அடி நீறு கொண்டு  
-அணிய முயலின் மற்று இல்லை கண்டீர் இவ் அணங்குக்கே (6)  
-3183. Her friends say,  
+३१८३ तणियुम् पॊऴुदु इल्लै नीर् अणङ्गु आडुदिर् अन्नैमीर्  
+पिणियुम् ऒऴिगिण्ड्रदु इल्लै पॆरुगुम् इदु अल्लाल्  
+मणियिन् अणि निऱ मायन् तमर् अडि नीऱु कॊण्डु  
+अणिय मुयलिन् मट्रु इल्लै कण्डीर् इव् अणङ्गुक्के (६)  
+३१८३। Her friends say,  
 "O mothers!  
 Don’t worship the Anangu and dance all day.  
 That won’t cure her sickness,  
@@ -5189,11 +5190,11 @@ of the sapphire-colored god and put it on her.
 Try this. It is the only cure for your daughter,  
 nothing else will help her."  
 
-3184 அணங்குக்கு அரு மருந்து என்று அங்கு ஓர் ஆடும் கள்ளும் பராய்  
-துணங்கை எறிந்து நும் தோள் குலைக்கப்படும் அன்னைமீர்  
-உணங்கல் கெடக் கழுதை உதடு ஆட்டம் கண்டு என் பயன்?  
-வணங்கீர்கள் மாயப் பிரான் தமர் வேதம் வல்லாரையே (7)  
-3184. Her friends say,  
+३१८४ अणङ्गुक्कु अरु मरुन्दु ऎण्ड्रु अङ्गु ओर् आडुम् कळ्ळुम् पराय्  
+तुणङ्गै ऎऱिन्दु नुम् तोळ् कुलैक्कप्पडुम् अन्नैमीर्  
+उणङ्गल् कॆडक् कऴुदै उदडु आट्टम् कण्डु ऎन् पयन्?  
+वणङ्गीर्गळ् मायप् पिरान् तमर् वेदम् वल्लारैये (७)  
+३१८४। Her friends say,  
 "O mothers, you offer goats and liquor  
 to the Anangu and worship her thinking  
 that will cure your beautiful daughter,  
@@ -5203,11 +5204,11 @@ and seeing his lips when you are hungry?
 Bow to the devotees of the Mayappiran  
 who recite the Vedas well."  
 
-3185 வேதம் வல்லார்களைக் கொண்டு விண்ணோர் பெருமான் திருப்  
-பாதம் பணிந்து இவள் நோய் இது தீர்த்துக் கொள்ளாது போய்  
-ஏதம் பறைந்து அல்ல செய்து கள் ஊடு கலாய்த் தூய்  
-கீதம் முழவு இட்டு நீர் அணங்கு ஆடுதல் கீழ்மையே (8)  
-3185. Her friends say,  
+३१८५ वेदम् वल्लार्गळैक् कॊण्डु विण्णोर् पॆरुमान् तिरुप्  
+पादम् पणिन्दु इवळ् नोय् इदु तीर्त्तुक् कॊळ्ळादु पोय्  
+एदम् पऱैन्दु अल्ल सॆय्दु कळ् ऊडु कलाय्त् तूय्  
+कीदम् मुऴवु इट्टु नीर् अणङ्गु आडुदल् कीऴ्मैये (८)  
+३१८५। Her friends say,  
 "O mothers, go to those who know the Vedas well  
 and ask for their advice.  
 Worship the divine feet of the god of gods as they tell you.  
@@ -5216,11 +5217,11 @@ It is wrong to say and do bad things.
 Drinking liquor, dancing the Anangu dance with loud music  
 beating drums is wrong and shows you are not decent."  
 
-3186 கீழ்மையினால் அங்கு ஓர் கீழ்மகன் இட்ட முழவின் கீழ்  
-நாழ்மை பல சொல்லி நீர் அணங்கு ஆடும் பொய் காண்கிலேன்  
-ஏழ்மைப் பிறப்புக்கும் சேமம் இந் நோய்க்கும் ஈதே மருந்து  
-ஊழ்மையில் கண்ண பிரான் கழல் வாழ்த்துமின் உன்னித்தே (9)  
-3186. Her friends say,  
+३१८६ कीऴ्मैयिनाल् अङ्गु ओर् कीऴ्मगन् इट्ट मुऴविन् कीऴ्  
+नाऴ्मै पल सॊल्लि नीर् अणङ्गु आडुम् पॊय् काण्गिलेन्  
+एऴ्मैप् पिऱप्पुक्कुम् सेमम् इन् नोय्क्कुम् ईदे मरुन्दु  
+ऊऴ्मैयिल् कण्ण पिरान् कऴल् वाऴ्त्तुमिन् उन्नित्ते (९)  
+३१८६। Her friends say,  
 "O mothers, you say many bad mean things  
 and dance the Anangu dance  
 as a man from a low family beats the drum,  
@@ -5229,11 +5230,11 @@ Think of the lord Kannan and bow to his anklet-ornamented feet
 and that will cure her sickness.  
 It will also protect you in all your future births."  
 
-3187 உன்னித்து மற்று ஒரு தெய்வம் தொழாஅள் அவனை அல்லால்  
-நும் இச்சை சொல்லி நும் தோள் குலைக்கப்படும் அன்னைமீர்  
-மன்னப்படும் மறைவாணனை வண் துவராபதி  
-மன்னனை ஏத்துமின் ஏத்துதலும் தொழுது ஆடுமே (10)  
-3187. Her friends say,  
+३१८७ उन्नित्तु मट्रु ऒरु तॆय्वम् तॊऴाअळ् अवनै अल्लाल्  
+नुम् इच्चै सॊल्लि नुम् तोळ् कुलैक्कप्पडुम् अन्नैमीर्  
+मन्नप्पडुम् मऱैवाणनै वण् तुवराबदि  
+मन्ननै एत्तुमिन् एत्तुदलुम् तॊऴुदु आडुमे (१०)  
+३१८७। Her friends say,  
 "O mothers,  
 your daughter doesn’t think of any god except Kaṇṇan,  
 but you say whatever you want  
@@ -5242,11 +5243,11 @@ Praise the everlasting king of flourishing Dwarapati
 who is praised by all the Vedas.  
 Praise him, bow to him and dance."  
 
-3188 தொழுது ஆடி தூ மணி வண்ணனுக்கு ஆட்செய்து நோய் தீர்ந்த  
-வழுவாத தொல் புகழ் வண் குருகூர்ச் சடகோபன் சொல்  
-வழுவாத ஆயிரத்துள் இவை பத்து வெறிகளும்  
-தொழுது ஆடிப் பாட வல்லார் துக்க சீலம் இலர்களே (11)  
-3188. Sadagopan of rich Thirukuruhur  
+३१८८ तॊऴुदु आडि तू मणि वण्णनुक्कु आट्चॆय्दु नोय् तीर्न्द  
+वऴुवाद तॊल् पुगऴ् वण् गुरुगूर्च् चडगोबन् सॊल्  
+वऴुवाद आयिरत्तुळ् इवै पत्तु वॆऱिगळुम्  
+तॊऴुदु आडिप् पाड वल्लार् तुक्क शीलम् इलर्गळे (११)  
+३१८८। Sadagopan of rich Thirukuruhur  
 who has ancient faultless fame  
 composed a thousand poems on the pure sapphire-colored god.  
 If devotees learn and recite these ten poems  
@@ -5254,14 +5255,14 @@ sing, dance and worship the lord
 they will not have any trouble in their lives.  
 ---------  
 
-திருவாய் மொழி - நான்காம் பத்து (ஏழாம் திருமொழி, 3189-3199)  
-திருமாலை வந்தருளுமாறு தம் குறைகூறி வருந்தி அழைத்தல்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (एऴाम् तिरुमॊऴि, ३१८९-३१९९)  
+तिरुमालै वन्दरुळुमाऱु तम् कुऱैगूऱि वरुन्दि अऴैत्तल्  
 
-3189 சீலம் இல்லாச் சிறியனேலும் செய்வினையோ பெரிதால்  
-ஞாலம் உண்டாய் ஞான மூர்த்தி நாராயணா என்று என்று  
-காலந்தோறும் யான் இருந்து கைதலைபூசல் இட்டால்  
-கோல மேனி காண வாராய் கூவியும் கொள்ளாயே (1)  
-3189. Even though I have no goodness,  
+३१८९ शीलम् इल्लाच् चिऱियनेलुम् सॆय्विनैयो पॆरिदाल्  
+ञालम् उण्डाय् ज्ञान मूर्त्ति नारायणा ऎण्ड्रु ऎण्ड्रु  
+कालन्दोऱुम् यान् इरुन्दु कैदलैबूसल् इट्टाल्  
+कोल मेनि काण वाराय् कूवियुम् कॊळ्ळाये (१)  
+३१८९। Even though I have no goodness,  
 whatever I do is important.  
 If all the time I live, I raise my hands above my head  
 and call you loudly, saying,  
@@ -5272,11 +5273,11 @@ won't you come to me
 so I can see your beautiful body?  
 Call me and give me your grace.  
 
-3190 கொள்ள மாளா இன்ப வெள்ளம் கோது இல தந்திடும் என்  
-வள்ளலேயோ வையம் கொண்ட வாமனாவோ என்று என்று  
-நள் இராவும் நன் பகலும் நான் இருந்து ஓலம் இட்டால்  
-கள்ள மாயா உன்னை என் கண் காண வந்து ஈயாயே (2)  
-3190. You are a Mayan and a thief.  
+३१९० कॊळ्ळ माळा इन्ब वॆळ्ळम् कोदु इल तन्दिडुम् ऎन्  
+वळ्ळलेयो वैयम् कॊण्ड वामनावो ऎण्ड्रु ऎण्ड्रु  
+नळ् इरावुम् नन् पगलुम् नान् इरुन्दु ओलम् इट्टाल्  
+कळ्ळ माया उन्नै ऎन् कण् काण वन्दु ईयाये (२)  
+३१९०। You are a Mayan and a thief.  
 If I shout night and day and call to you, saying,  
 "You are the generous one  
 You give a faultless, endless flood of joy to all.  
@@ -5284,11 +5285,11 @@ You took the form of a dwarf and measured the world,"
 won't you come, show yourself to me  
 and give me your grace?  
 
-3191 ஈவு இலாத தீவினைகள் எத்தனை செய்தனன்கொல்?  
-தாவி வையம் கொண்ட எந்தாய் தாமோதரா என்று என்று  
-கூவிக் கூவி நெஞ்சு உருகி கண்பனி சோர நின்றால்  
-பாவி நீ என்று ஒன்று சொல்லாய் பாவியேன் காண வந்தே (3)  
-3191. I have done so many bad deeds  
+३१९१ ईवु इलाद तीविनैगळ् ऎत्तनै सॆय्दनन्गॊल्?  
+तावि वैयम् कॊण्ड ऎन्दाय् तामोदरा ऎण्ड्रु ऎण्ड्रु  
+कूविक् कूवि नॆञ्जु उरुगि कण्बनि सोर निण्ड्राल्  
+पावि नी ऎण्ड्रु ऒण्ड्रु सॊल्लाय् पावियेन् काण वन्दे (३)  
+३१९१। I have done so many bad deeds  
 that their results will not ever be exhausted.  
 Even though I melt in my heart  
 and call and call you loudly, saying,  
@@ -5298,11 +5299,11 @@ you don’t come to me so I can see you.
 You don’t say even one word to me,  
 even, "You are a sinner!"  
 
-3192 காண வந்து என் கண்முகப்பே தாமரைக்கண் பிறழ  
-ஆணி செம்பொன் மேனி எந்தாய் நின்று அருளாய் என்று என்று  
-நாணம் இல்லாச் சிறு தகையேன் நான் இங்கு அலற்றுவது என்  
-பேணி வானோர் காணமாட்டாப் பீடு உடை அப்பனையே? (4)  
-3192. I call you and prattle, saying,  
+३१९२ काण वन्दु ऎन् कण्मुगप्पे तामरैक्कण् पिऱऴ  
+आणि सॆम्बॊन् मेनि ऎन्दाय् निण्ड्रु अरुळाय् ऎण्ड्रु ऎण्ड्रु  
+नाणम् इल्लाच् चिऱु तगैयेन् नान् इङ्गु अलट्रुवदु ऎन्  
+पेणि वानोर् काणमाट्टाप् पीडु उडै अप्पनैये? (४)  
+३१९२। I call you and prattle, saying,  
 "O my father, you have a pure, beautiful golden body.  
 Come and stand before me with your twinkling lotus eyes.  
 I am shameless and have no pride.  
@@ -5310,11 +5311,11 @@ What is the use of my prattling
 and calling you, most famous one?  
 Even the god of gods in the sky cannot see you.  
 
-3193 அப்பனே அடல் ஆழியானே ஆழ் கடலைக் கடைந்த  
-துப்பனே உன் தோள்கள் நான்கும் கண்டிடக்கூடுங்கொல்? என்று  
-எப்பொழுதும் கண்ண நீர் கொண்டு ஆவி துவர்ந்து துவர்ந்து  
-இப்பொழுதே வந்திடாய் என்று ஏழையேன் நோக்குவனே (5)  
-3193. I say "O my father, you carry a strong discus.  
+३१९३ अप्पने अडल् आऴियाने आऴ् कडलैक् कडैन्द  
+तुप्पने उन् तोळ्गळ् नान्गुम् कण्डिडक्कूडुङ्गॊल्? ऎण्ड्रु  
+ऎप्पॊऴुदुम् कण्ण नीर् कॊण्डु आवि तुवर्न्दु तुवर्न्दु  
+इप्पॊऴुदे वन्दिडाय् ऎण्ड्रु एऴैयेन् नोक्कुवने (५)  
+३१९३। I say "O my father, you carry a strong discus.  
 You, the powerful one churned the deep milky ocean.  
 Could I ever see all your four arms?"  
 My eyes are filled with tears.  
@@ -5322,11 +5323,11 @@ My soul becomes sorrowful.
 Pitiful, I long for you and call you saying,  
 "Come at once!"  
 
-3194 நோக்கி நோக்கி உன்னைக் காண்பான் யான் எனது ஆவியுள்ளே  
-நாக்கு நீள்வன் ஞானம் இல்லை நாள்தோறும் என்னுடைய  
-ஆக்கையுள்ளும் ஆவியுள்ளும் அல்ல புறத்தினுள்ளும்  
-நீக்கம் இன்றி எங்கும் நின்றாய் நின்னை அறிந்து அறிந்தே (6)  
-3194. You are in my body and soul,  
+३१९४ नोक्कि नोक्कि उन्नैक् काण्बान् यान् ऎनदु आवियुळ्ळे  
+नाक्कु नीळ्वन् ज्ञानम् इल्लै नाळ्दोऱुम् ऎन्नुडैय  
+आक्कैयुळ्ळुम् आवियुळ्ळुम् अल्ल पुऱत्तिनुळ्ळुम्  
+नीक्कम् इण्ड्रि ऎङ्गुम् निण्ड्राय् निन्नै अऱिन्दु अऱिन्दे (६)  
+३१९४। You are in my body and soul,  
 and in everything outside me.  
 There is nothing without you  
 and you abide pervading everything.  
@@ -5337,11 +5338,11 @@ and ask you to come to me.
 Is this because I am foolish  
 and my tongue does not know what to say?  
 
-3195 அறிந்து அறிந்து தேறித் தேறி யான் எனது ஆவியுள்ளே  
-நிறைந்த ஞான மூர்த்தியாயை நின்மலமாக வைத்து  
-பிறந்தும் செத்தும் நின்று இடறும் பேதைமை தீர்ந்தொழிந்தேன்  
-நறுந் துழாயின் கண்ணி அம்மா நான் உன்னைக் கண்டுகொண்டே (7)  
-3195. You are adorned with fragrant thulasi garlands.  
+३१९५ अऱिन्दु अऱिन्दु तेऱित् तेऱि यान् ऎनदु आवियुळ्ळे  
+निऱैन्द ज्ञान मूर्त्तियायै निन्मलमाग वैत्तु  
+पिऱन्दुम् सॆत्तुम् निण्ड्रु इडऱुम् पेदैमै तीर्न्दॊऴिन्देन्  
+नऱुन् दुऴायिन् कण्णि अम्मा नान् उन्नैक् कण्डुगॊण्डे (७)  
+३१९५। You are adorned with fragrant thulasi garlands.  
 I understand you and you understand me. CHECK  
 I become stronger and stronger knowing you.  
 You are the faultless one, full of wisdom.  
@@ -5350,11 +5351,11 @@ I ceased my ignorant thinking
 that made me be born again and again.  
 I found you.  
 
-3196 கண்டுகொண்டு என் கைகள் ஆர நின் திருப்பாதங்கள்மேல்  
-எண் திசையும் உள்ள பூக் கொண்டு ஏத்தி உகந்து உகந்து  
-தொண்டரோங்கள் பாடி ஆட சூழ் கடல் ஞாலத்துள்ளே  
-வண் துழாயின் கண்ணி வேந்தே வந்திடகில்லாயே (8)  
-3196. O king , you are adorned with beautiful thulasi garlands.  
+३१९६ कण्डुगॊण्डु ऎन् कैगळ् आर निन् तिरुप्पादङ्गळ्मेल्  
+ऎण् तिसैयुम् उळ्ळ पूक् कॊण्डु एत्ति उगन्दु उगन्दु  
+तॊण्डरोङ्गळ् पाडि आड सूऴ् कडल् ञालत्तुळ्ळे  
+वण् तुऴायिन् कण्णि वेन्दे वन्दिडगिल्लाये (८)  
+३१९६। O king , you are adorned with beautiful thulasi garlands.  
 We are your devotees.  
 We carry flowers that bloom in all the eight directions  
 sing, dance and praise you happily.  
@@ -5362,11 +5363,11 @@ Come so that we may fold our hands
 and worship your divine feet.  
 Come so that I may see you.  
 
-3197 இடகிலேன் ஒன்று அட்ட கில்லேன் ஐம்புலன் வெல்ல கில்லேன்  
-கடவன் ஆகி காலந்தோறும் பூப் பறித்து ஏத்த கில்லேன்  
-மட வல் நெஞ்சம் காதல் கூர வல்வினையேன் அயர்ப்பாய்த்  
-தடவுகின்றேன் எங்குக் காண்பன் சக்கரத்து அண்ணலையே? (9)  
-3197. I have not fed those who are hungry.  
+३१९७ इडगिलेन् ऒण्ड्रु अट्ट किल्लेन् ऐम्बुलन् वॆल्ल किल्लेन्  
+कडवन् आगि कालन्दोऱुम् पूप् पऱित्तु एत्त किल्लेन्  
+मड वल् नॆञ्जम् कादल् कूर वल्विनैयेन् अयर्प्पाय्त्  
+तडवुगिण्ड्रेन् ऎङ्गुक् काण्बन् सक्करत्तु अण्णलैये? (९)  
+३१९७। I have not fed those who are hungry.  
 I have not given water to those who are thirsty.  
 I have not controlled my five senses.  
 I have not plucked flowers at the right times to worship you  
@@ -5376,11 +5377,11 @@ I have bad karma and I am tired of it.
 I am searching for you—  
 where can I find you who carry a discus?  
 
-3198 சக்கரத்து அண்ணலே என்று தாழ்ந்து கண்ணீர் ததும்ப  
-பக்கம் நோக்கி நின்று அலந்தேன் பாவியேன் காண்கின்றிலேன்  
-மிக்க ஞான மூர்த்தி ஆய வேத விளக்கினை என்  
-தக்க ஞானக் கண்களாலே கண்டு தழுவுவனே (10)  
-3198. O highest god,  
+३१९८ सक्करत्तु अण्णले ऎण्ड्रु ताऴ्न्दु कण्णीर् तदुम्ब  
+पक्कम् नोक्कि निण्ड्रु अलन्देन् पावियेन् काण्गिण्ड्रिलेन्  
+मिक्क ज्ञान मूर्त्ति आय वेद विळक्किनै ऎन्  
+तक्क ज्ञानक् कण्गळाले कण्डु तऴुवुवने (१०)  
+३१९८। O highest god,  
 you carry a discus in your hand.  
 I bow to you and my eyes are filled with tears.  
 I search for you and suffer.  
@@ -5389,11 +5390,11 @@ You are the form of wisdom.
 You are the bright light of the Vedas.  
 I want to see you with my eye of knowledge and embrace you.  
 
-3199 தழுவிநின்ற காதல் தன்னால் தாமரைக் கண்ணன் தன்னை  
-குழுவு மாடத் தென் குருகூர் மாறன் சடகோபன் சொல்  
-வழுவு இலாத ஒண் தமிழ்கள் ஆயிரத்துள் இப் பத்தும்  
-தழுவப் பாடி ஆட வல்லார் வைகுந்தம் ஏறுவரே (11)  
-3199. Maaṛan Saḍagopan of southern Thirukuruhur  
+३१९९ तऴुविनिण्ड्र कादल् तन्नाल् तामरैक् कण्णन् तन्नै  
+कुऴुवु माडत् तॆन् गुरुगूर् माऱन् सडगोबन् सॊल्  
+वऴुवु इलाद ऒण् तमिऴ्गळ् आयिरत्तुळ् इप् पत्तुम्  
+तऴुवप् पाडि आड वल्लार् वैगुन्दम् एऱुवरे (११)  
+३१९९। Maaṛan Saḍagopan of southern Thirukuruhur  
 lovingly composed a thousand faultless Tamil poems  
 praising the lotus-eyed god.  
 If devotees learn and recite these poems,  
@@ -5401,14 +5402,14 @@ dance and sing and worship the lord,
 they will go to Vaikuṇṭam.  
 ----------  
 
-திருவாய் மொழி - நான்காம் பத்து (எட்டாம் திருமொழி, 3200-3210)  
-எம்பெருமான் விரும்பாதவைகளால் தமக்குப் பயன் இல்லை என்று தலைவி கூற்றாகப் பேசுதல்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३२००-३२१०)  
+ऎम्बॆरुमान् विरुम्बादवैगळाल् तमक्कुप् पयन् इल्लै ऎण्ड्रु तलैवि कूट्रागप् पेसुदल्  
 
-3200 ஏறு ஆளும் இறையோனும் திசைமுகனும் திருமகளும்  
-கூறு ஆளும் தனி உடம்பன் குலம் குலமா அசுரர்களை  
-நீறு ஆகும்படியாக நிருமித்து படை தொட்ட  
-மாறாளன் கவராத மணி மாமை குறைவு இலமே (1)  
-3200. She says, "On his incomparable body  
+३२०० एऱु आळुम् इऱैयोनुम् तिसैमुगनुम् तिरुमगळुम्  
+कूऱु आळुम् तनि उडम्बन् कुलम् कुलमा असुरर्गळै  
+नीऱु आगुम्बडियाग निरुमित्तु पडै तॊट्ट  
+माऱाळन् कवराद मणि मामै कुऱैवु इलमे (१)  
+३२००। She says, "On his incomparable body  
 he bears Shiva who rides on a bull  
 and Brahma whose four heads face the four directions,  
 while the goddess Lakshmi stays on his chest.  
@@ -5417,11 +5418,11 @@ many clans of his Raksasa enemies.
 The beautiful pallor of my body is useless  
 if it does not attract him."  
 
-3201 மணி மாமை குறைவு இல்லா மலர்மாதர் உறை மார்பன்  
-அணி மானத் தட வரைத்தோள் அடல் ஆழித் தடக்கையன்  
-பணி மானம் பிழையாமே அடியேனைப் பணிகொண்ட  
-மணிமாயன் கவராத மட நெஞ்சால் குறைவு இலமே (2)  
-3201. She says, "The lovely gold-colored Lakshmi  
+३२०१ मणि मामै कुऱैवु इल्ला मलर्मादर् उऱै मार्बन्  
+अणि मानत् तड वरैत्तोळ् अडल् आऴित् तडक्कैयन्  
+पणि मानम् पिऴैयामे अडियेनैप् पणिगॊण्ड  
+मणिमायन् कवराद मड नॆञ्जाल् कुऱैवु इलमे (२)  
+३२०१। She says, "The lovely gold-colored Lakshmi  
 shining like a diamond stays on a lotus on his chest.  
 He carries a discus in his strong hands  
 that destroys the powerful weapons of his enemies, the Asurans.  
@@ -5429,11 +5430,11 @@ He accepts me as his devotee and makes me do his service.
 The beautiful Maayan attracted my innocent heart  
 and it will be free of trouble."  
 
-3202 மட நெஞ்சால் குறைவு இல்லா மகள்தாய்செய்து ஒரு பேய்ச்சி  
-விட நஞ்ச முலை சுவைத்த மிகு ஞானச் சிறு குழவி  
-பட நாகத்து அணைக் கிடந்த பரு வரைத் தோள் பரம்புருடன்  
-நெடுமாயன் கவராத நிறையினால் குறைவு இலமே (3)  
-3202. She says, "Putana the ignorant devil took the form of a mother,  
+३२०२ मड नॆञ्जाल् कुऱैवु इल्ला मगळ्दाय्सॆय्दु ऒरु पेय्च्चि  
+विड नञ्ज मुलै सुवैत्त मिगु ज्ञानच् चिऱु कुऴवि  
+पड नागत्तु अणैक् किडन्द परु वरैत् तोळ् परम्बुरुडन्  
+नॆडुमायन् कवराद निऱैयिनाल् कुऱैवु इलमे (३)  
+३२०२। She says, "Putana the ignorant devil took the form of a mother,  
 gave her poisonous milk to Kaṇṇan the small wise child  
 and he drank her milk and killed her.  
 The tall Maayan, the highest god  
@@ -5442,11 +5443,11 @@ and he sleeps on the snake bed.
 If he does not love me what is the use  
 of my being a chaste woman?"  
 
-3203 நிறையினால் குறைவு இல்லா நெடும் பணைத் தோள் மடப் பின்னை  
-பொறையினால் முலை அணைவான் பொரு விடை ஏழ் அடர்த்து உகந்த  
-கறையினார் துவர் உடுக்கை கடை ஆவின் கழி கோல் கைச்  
-சறையினார் கவராத தளிர் நிறத்தால் குறைவு இலமே (4)  
-3203. She says, "Wanting to embrace the bamboo-like arms  
+३२०३ निऱैयिनाल् कुऱैवु इल्ला नॆडुम् पणैत् तोळ् मडप् पिन्नै  
+पॊऱैयिनाल् मुलै अणैवान् पॊरु विडै एऴ् अडर्त्तु उगन्द  
+कऱैयिनार् तुवर् उडुक्कै कडै आविन् कऴि कोल् कैच्  
+चऱैयिनार् कवराद तळिर् निऱत्ताल् कुऱैवु इलमे (४)  
+३२०३। She says, "Wanting to embrace the bamboo-like arms  
 of beautiful, chaste Nappinnai,  
 Kaṇṇan fought with seven bulls and killed them to marry her.  
 When he was born as a cowherd  
@@ -5455,11 +5456,11 @@ and wore an orange dress with bells tied on his waist.
 What is the use of my tender pale shoot-like body  
 if Kaṇṇan does not love me?"  
 
-3204 தளிர் நிறத்தால் குறைவு இல்லாத் தனிச் சிறையில் விளப்பு உற்ற  
-கிளிமொழியாள் காரணமாக் கிளர் அரக்கன் நகர் எரித்த  
-களி மலர்த் துழாய் அலங்கல் கமழ் முடியன் கடல் ஞாலத்து  
-அளிமிக்கான் கவராத அறிவினால் குறைவு இலமே (5)  
-3204. She says, "His wife Sita had a voice as sweet as a parrot’s  
+३२०४ तळिर् निऱत्ताल् कुऱैवु इल्लात् तनिच् चिऱैयिल् विळप्पु उट्र  
+किळिमॊऴियाळ् कारणमाक् किळर् अरक्कन् नगर् ऎरित्त  
+कळि मलर्त् तुऴाय् अलङ्गल् कमऴ् मुडियन् कडल् ञालत्तु  
+अळिमिक्कान् कवराद अऱिविनाल् कुऱैवु इलमे (५)  
+३२०४। She says, "His wife Sita had a voice as sweet as a parrot’s  
 and her body was the color of a tender shoot,  
 She was imprisoned in Lanka by Ravaṇa  
 and the god as Rama went to Lanka,  
@@ -5469,33 +5470,33 @@ when the lord adorned with a fragrant blooming thulasi garland
 gives his abundant grace to the people of the world  
 surrounded by the ocean but does not love me?"  
 
-3205 அறிவினால் குறைவு இல்லா அகல் ஞாலத்தவர் அறிய  
-நெறி எல்லாம் எடுத்து உரைத்த நிறை ஞானத்து ஒருமூர்த்தி  
-குறிய மாண் உரு ஆகி கொடுங் கோளால் நிலம் கொண்ட  
-கிறி அம்மான் கவராத கிளர் ஒளியால் குறைவு இலமே (6)  
-3205. She says, "The wise god Maal  
+३२०५ अऱिविनाल् कुऱैवु इल्ला अगल् ञालत्तवर् अऱिय  
+नॆऱि ऎल्लाम् ऎडुत्तु उरैत्त निऱै ज्ञानत्तु ऒरुमूर्त्ति  
+कुऱिय माण् उरु आगि कॊडुङ् गोळाल् निलम् कॊण्ड  
+किऱि अम्मान् कवराद किळर् ऒळियाल् कुऱैवु इलमे (६)  
+३२०५। She says, "The wise god Maal  
 taught all the Vedas to the faultless sages.  
 He went to Mahabali as a small dwarf  
 and like a thief took over all his lands.  
 What is the use of my lovely shining body  
 if it does not attract the naughty Kaṇṇan?"  
 
-3206 கிளர் ஒளியால் குறைவு இல்லா அரி உருவாய்க் கிளர்ந்து எழுந்து  
-கிளர் ஒளிய இரணியனது அகல் மார்பம் கிழித்து உகந்த  
-வளர் ஒளிய கனல் ஆழி வலம்புரியன் மணி நீல  
-வளர் ஒளியான் கவராத வரி வளையால் குறைவு இலமே (7)  
-3206. She says, "He took the faultless form of a bright lion,  
+३२०६ किळर् ऒळियाल् कुऱैवु इल्ला अरि उरुवाय्क् किळर्न्दु ऎऴुन्दु  
+किळर् ऒळिय इरणियनदु अगल् मार्बम् किऴित्तु उगन्द  
+वळर् ऒळिय कनल् आऴि वलम्बुरियन् मणि नील  
+वळर् ऒळियान् कवराद वरि वळैयाल् कुऱैवु इलमे (७)  
+३२०६। She says, "He took the faultless form of a bright lion,  
 angrily split open the broad chest of Hiranyan and felt joy.  
 He carries a conch and a discus that shines like fire  
 and he has a shining sapphire-colored body.  
 The god who shines forever does not love me.  
 What is the use of my curved bangles?"  
 
-3207 வரி வளையால் குறைவு இல்லாப் பெரு முழக்கால் அடங்காரை  
-எரி அழலம் புக ஊதி இரு நிலம் முன் துயர் தவிர்த்த  
-தெரிவு அரிய சிவன் பிரமன் அமரர் கோன் பணிந்து ஏத்தும்  
-விரி புகழான் கவராத மேகலையால் குறைவு இலமே (8)  
-3207. She says, "He blew his loud, curved conch.  
+३२०७ वरि वळैयाल् कुऱैवु इल्लाप् पॆरु मुऴक्काल् अडङ्गारै  
+ऎरि अऴलम् पुग ऊदि इरु निलम् मुन् तुयर् तविर्त्त  
+तॆरिवु अरिय सिवन् पिरमन् अमरर् कोन् पणिन्दु एत्तुम्  
+विरि पुगऴान् कवराद मेगलैयाल् कुऱैवु इलमे (८)  
+३२०७। She says, "He blew his loud, curved conch.  
 If his enemies did not obey him, he fought with them,  
 burned their lands, conquered them  
 and relieved the distress of the people of the world.  
@@ -5505,11 +5506,11 @@ Brahma and Indra the king of gods.
 If he is not attracted by my mekalai ornament  
 what is the use of my wearing it?"  
 
-3208 மேகலையால் குறைவு இல்லா மெலிவு உற்ற அகல் அல்குல்  
-போகமகள் புகழ்த் தந்தை விறல் வாணன் புயம் துணித்து  
-நாகமிசைத் துயில்வான்போல் உலகு எல்லாம் நன்கு ஒடுங்க  
-யோகு அணைவான் கவராத உடம்பினால் குறைவு இலமே (9)  
-3207. She says, "He blew his loud, curved conch.  
+३२०८ मेगलैयाल् कुऱैवु इल्ला मॆलिवु उट्र अगल् अल्गुल्  
+पोगमगळ् पुगऴ्त् तन्दै विऱल् वाणन् पुयम् तुणित्तु  
+नागमिसैत् तुयिल्वान्बोल् उलगु ऎल्लाम् नन्गु ऒडुङ्ग  
+योगु अणैवान् कवराद उडम्बिनाल् कुऱैवु इलमे (९)  
+३२०७। She says, "He blew his loud, curved conch.  
 If his enemies did not obey him, he fought with them,  
 burned their lands, conquered them  
 and relieved the distress of the people of the world.  
@@ -5519,11 +5520,11 @@ Brahma and Indra the king of gods.
 If he is not attracted by my mekalai ornament  
 what is the use of my wearing it?"  
 
-3209 உடம்பினால் குறைவு இல்லா உயிர் பிரிந்த மலைத்துண்டம்  
-கிடந்தனபோல் துணி பலவா அசுரர் குழாம் துணித்து உகந்த  
-தடம் புனல சடைமுடியன் தனி ஒருகூறு அமர்ந்து உறையும்  
-உடம்பு உடையான் கவராத உயிரினால் குறைவு இலமே (10)  
-3209. She says, "On his body he has Shiva  
+३२०९ उडम्बिनाल् कुऱैवु इल्ला उयिर् पिरिन्द मलैत्तुण्डम्  
+किडन्दनबोल् तुणि पलवा असुरर् कुऴाम् तुणित्तु उगन्द  
+तडम् पुनल सडैमुडियन् तनि ऒरुगूऱु अमर्न्दु उऱैयुम्  
+उडम्बु उडैयान् कवराद उयिरिनाल् कुऱैवु इलमे (१०)  
+३२०९। She says, "On his body he has Shiva  
 in whose jata the Ganges flows.  
 He destroyed the strong Asurans  
 rending their bodies into pieces  
@@ -5532,11 +5533,11 @@ and then felt joy.
 What is the use of my body  
 if he does not desire it?"  
 
-3210 உயிரினால் குறைவு இல்லா உலகு ஏழ் தன்னுள் ஒடுக்கி  
-தயிர் வெண்ணெய் உண்டானைத் தடம் குருகூர்ச் சடகோபன்  
-செயிர் இல் சொல் இசைமாலை ஆயிரத்துள் இப் பத்தால்  
-வயிரம் சேர் பிறப்பு அறுத்து வைகுந்தம் நண்ணுவரே (11)  
-3210. Sadagopan of broad Thirukuruhur  
+३२१० उयिरिनाल् कुऱैवु इल्ला उलगु एऴ् तन्नुळ् ऒडुक्कि  
+तयिर् वॆण्णॆय् उण्डानैत् तडम् गुरुगूर्च् चडगोबन्  
+सॆयिर् इल् सॊल् इसैमालै आयिरत्तुळ् इप् पत्ताल्  
+वयिरम् सेर् पिऱप्पु अऱुत्तु वैगुन्दम् नण्णुवरे (११)  
+३२१०। Sadagopan of broad Thirukuruhur  
 composed a garland of a thousand faultless poems with music  
 about the god who ate yogurt and butter  
 and swallowed all the seven worlds  
@@ -5546,15 +5547,15 @@ they will be saved from their terrible births
 and attain Vaikuṇṭam.  
 ----------  
 
-திருவாய் மொழி - நான்காம் பத்து (ஒன்பதாம் திருமொழி, 3211-3221)  
-உலக இயற்கையில் வெறுப்புற்ற ஆழ்வார் திருவடி சேர்க்குமாறு எம்பெருமானைப் பிரார்த்தித்தல்  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३२११-३२२१)  
+उलग इयऱ्‌कैयिल् वॆऱुप्पुट्र आऴ्वार् तिरुवडि सेर्क्कुमाऱु ऎम्बॆरुमानैप् पिरार्त्तित्तल्  
 
 
-3211 நண்ணாதார் முறுவலிப்ப நல் உற்றார் கரைந்து ஏங்க  
-எண் ஆராத் துயர் விளைக்கும் இவை என்ன உலகு இயற்கை  
-கண்ணாளா கடல் கடைந்தாய் உன கழற்கே வரும் பரிசு  
-தண்ணாவாது அடியேனைப் பணி கண்டாய் சாமாறே (1)  
-3211. What a pity.  
+३२११ नण्णादार् मुऱुवलिप्प नल् उट्रार् करैन्दु एङ्ग  
+ऎण् आरात् तुयर् विळैक्कुम् इवै ऎन्न उलगु इयऱ्‌कै  
+कण्णाळा कडल् कडैन्दाय् उन कऴऱ्‌के वरुम् परिसु  
+तण्णावादु अडियेनैप् पणि कण्डाय् सामाऱे (१)  
+३२११। What a pity.  
 It is the nature of the world that our enemies should be happy  
 and our relatives should suffer and be distressed.  
 O god, you are compassionate.  
@@ -5563,11 +5564,11 @@ I worship your feet ornamented with anklets.
 Give me your grace  
 and take me to your place so I may serve you.  
 
-3212 சாம் ஆறும் கெடும் ஆறும் தமர் உற்றார் தலைத்தலைப்பெய்து  
-ஏமாறிக் கிடந்து அலற்றும் இவை என்ன உலகு இயற்கை  
-ஆம் ஆறு ஒன்று அறியேன் நான் அரவு அணையாய் அம்மானே  
-கூமாறே விரைகண்டாய் அடியேனை குறிக்கொண்டே (2)  
-3212. What a pity!  
+३२१२ साम् आऱुम् कॆडुम् आऱुम् तमर् उट्रार् तलैत्तलैप्पॆय्दु  
+एमाऱिक् किडन्दु अलट्रुम् इवै ऎन्न उलगु इयऱ्‌कै  
+आम् आऱु ऒण्ड्रु अऱियेन् नान् अरवु अणैयाय् अम्माने  
+कूमाऱे विरैगण्डाय् अडियेनै कुऱिक्कॊण्डे (२)  
+३२१२। What a pity!  
 It is the nature of the world that people lose their wealth  
 and when they die  
 their relatives fall on their bodies and cry.  
@@ -5577,11 +5578,11 @@ I cry out to you.
 Think of me and come to me, your devotee, quickly,  
 and take me to your world and let me join your feet.  
 
-3213 கொண்டாட்டும் குலம் புனைவும் தமர் உற்றார் விழு நிதியும்  
-வண்டு ஆர் பூங் குழலாளும் மனை ஒழிய உயிர் மாய்தல்  
-கண்டு ஆற்றேன் உலகு இயற்கை! கடல்வண்ணா அடியேனைப்  
-பண்டேபோல் கருதாது உன் அடிக்கே கூய்ப் பணிக்கொள்ளே (3)  
-3213. People die leaving their fame, families, friends,  
+३२१३ कॊण्डाट्टुम् कुलम् पुनैवुम् तमर् उट्रार् विऴु निदियुम्  
+वण्डु आर् पूङ् गुऴलाळुम् मनै ऒऴिय उयिर् माय्दल्  
+कण्डु आट्रेन् उलगु इयऱ्‌कै! कडल्वण्णा अडियेनैप्  
+पण्डेबोल् करुदादु उन् अडिक्के कूय्प् पणिक्कॊळ्ळे (३)  
+३२१३। People die leaving their fame, families, friends,  
 relatives, their wealth and their lovely wives  
 whose hair is garlanded with flowers swarming with bees.  
 I see the terrible nature of the world and cannot bear it.  
@@ -5590,11 +5591,11 @@ Do not think of me as you did before.
 Call me and make me join your feet  
 so I may serve you.  
 
-3214 கொள் என்று கிளர்ந்து எழுந்த பெரும் செல்வம் நெருப்பு ஆக  
-கொள் என்று தமம் மூடும் இவை என்ன உலகு இயற்கை  
-வள்ளலே மணிவண்ணா உன கழற்கே வரும்பரிசு  
-வள்ளல் செய்து அடியேனை உனது அருளால் வாங்காயே (4)  
-3214. The world’s nature is a terrible thing.  
+३२१४ कॊळ् ऎण्ड्रु किळर्न्दु ऎऴुन्द पॆरुम् सॆल्वम् नॆरुप्पु आग  
+कॊळ् ऎण्ड्रु तमम् मूडुम् इवै ऎन्न उलगु इयऱ्‌कै  
+वळ्ळले मणिवण्णा उन कऴऱ्‌के वरुम्बरिसु  
+वळ्ळल् सॆय्दु अडियेनै उनदु अरुळाल् वाङ्गाये (४)  
+३२१४। The world’s nature is a terrible thing.  
 Even if someone does not want it,  
 great wealth may come to him, urging him to take it,  
 and then destroy him like fire.  
@@ -5602,11 +5603,11 @@ O generous sapphire-colored god,
 give me your grace so I may come to you  
 and worship your feet that are adorned with anklets.  
 
-3215 வாங்கு நீர் மலர் உலகில் நிற்பனவும் திரிவனவும்  
-ஆங்கு உயிர்கள் பிறப்பு இறப்புப் பிணி மூப்பால் தகர்ப்புண்ணும்  
-ஈங்கு இதன்மேல் வெம் நரகம் இவை என்ன உலகு இயற்கை  
-வாங்கு எனை நீ மணிவண்ணா அடியேனை மறுக்கேலே (5)  
-3215. All creatures that are born, live and wander  
+३२१५ वाङ्गु नीर् मलर् उलगिल् निऱ्‌पनवुम् तिरिवनवुम्  
+आङ्गु उयिर्गळ् पिऱप्पु इऱप्पुप् पिणि मूप्पाल् तगर्प्पुण्णुम्  
+ईङ्गु इदन्मेल् वॆम् नरगम् इवै ऎन्न उलगु इयऱ्‌कै  
+वाङ्गु ऎनै नी मणिवण्णा अडियेनै मऱुक्केले (५)  
+३२१५। All creatures that are born, live and wander  
 in this world surrounded by the water-filled oceans  
 get sick, grow old and die only to be born again and suffer.  
 Is there any hell worse than this?  
@@ -5614,11 +5615,11 @@ What is this terrible nature of the earth?
 O sapphire-colored god, give me your grace  
 and take me to you. Do not refuse me.  
 
-3216 மறுக்கி வல் வலைப்படுத்தி குமைத்திட்டு கொன்று உண்பர்  
-அறப்பொருளை அறிந்து ஓரார் இவை என்ன உலகு இயற்கை  
-வெறித் துளவ முடியானே வினையேனை உனக்கு அடிமை  
-அறக்கொண்டாய் இனி என் ஆர் அமுதே கூயருளாயே (6)  
-3216. The world’s nature is a terrible thing.  
+३२१६ मऱुक्कि वल् वलैप्पडुत्ति कुमैत्तिट्टु कॊण्ड्रु उण्बर्  
+अऱप्पॊरुळै अऱिन्दु ओरार् इवै ऎन्न उलगु इयऱ्‌कै  
+वॆऱित् तुळव मुडियाने विनैयेनै उनक्कु अडिमै  
+अऱक्कॊण्डाय् इनि ऎन् आर् अमुदे कूयरुळाये (६)  
+३२१६। The world’s nature is a terrible thing.  
 People fight with each other, imprison others, hurt them  
 and even kill them.  
 They do not think it is not right or dharmic to do such deeds.  
@@ -5628,11 +5629,11 @@ Make me your slave.
 You are sweet nectar to me.  
 Call me to you and give me your grace.  
 
-3217 ஆயே இவ் உலகத்து நிற்பனவும் திரிவனவும்  
-நீயே மற்று ஒரு பொருளும் இன்றி நீ நின்றமையால்  
-நோயே மூப்பு இறப்பு பிறப்பு பிணியே என்று இவை ஒழிய  
-கூயேகொள் அடியேனை கொடு உலகம் காட்டேலே (7)  
-3217. You are my mother.  
+३२१७ आये इव् उलगत्तु निऱ्‌पनवुम् तिरिवनवुम्  
+नीये मट्रु ऒरु पॊरुळुम् इण्ड्रि नी निण्ड्रमैयाल्  
+नोये मूप्पु इऱप्पु पिऱप्पु पिणिये ऎण्ड्रु इवै ऒऴिय  
+कूयेगॊळ् अडियेनै कॊडु उलगम् काट्टेले (७)  
+३२१७। You are my mother.  
 In the world, all the things that do not move  
 and those that move are you,  
 yet you are not any of those things and you stand alone.  
@@ -5642,11 +5643,11 @@ Don’t keep me in this cruel world.
 Call me, your slave, to your place  
 and keep me with you.  
 
-3218 காட்டி நீ கரந்து உமிழும் நிலம் நீர் தீ விசும்பு கால்  
-ஈட்டி நீ வைத்து அமைத்த இமையோர் வாழ் தனி முட்டைக்  
-கோட்டையினில் கழித்து என்னை உன் கொழும் சோதி உயரத்துக்  
-கூட்டு அரிய திருவடிக்கள் எஞ்ஞான்று கூட்டுதியே? (8)  
-3218. You created this world, swallowed it  
+३२१८ काट्टि नी करन्दु उमिऴुम् निलम् नीर् ती विसुम्बु काल्  
+ईट्टि नी वैत्तु अमैत्त इमैयोर् वाऴ् तनि मुट्टैक्  
+कोट्टैयिनिल् कऴित्तु ऎन्नै उन् कॊऴुम् सोदि उयरत्तुक्  
+कूट्टु अरिय तिरुवडिक्कळ् ऎञ्ञाण्ड्रु कूट्टुदिये? (८)  
+३२१८। You created this world, swallowed it  
 and spit out the earth, water, fire, sky and wind,  
 and in that way you created the world again.  
 Now you make me stay in this world where the gods live.  
@@ -5655,11 +5656,11 @@ Bring me to your shining world
 and make me join you  
 so that I may worship your divine feet.  
 
-3219 கூட்டுதி நின் குரை கழல்கள் இமையோரும் தொழாவகைசெய்து  
-ஆட்டுதி நீ அரவு அணையாய் அடியேனும் அஃது அறிவன்  
-வேட்கை எல்லாம் விடுத்து என்னை உன் திருவடியே சுமந்து உழலக்  
-கூட்டு அரிய திருவடிக்கள் கூட்டினை நான் கண்டேனே (9)  
-3219. You bring the devotees who worship you  
+३२१९ कूट्टुदि निन् कुरै कऴल्गळ् इमैयोरुम् तॊऴावगैसॆय्दु  
+आट्टुदि नी अरवु अणैयाय् अडियेनुम् अह्दु अऱिवन्  
+वेट्कै ऎल्लाम् विडुत्तु ऎन्नै उन् तिरुवडिये सुमन्दु उऴलक्  
+कूट्टु अरिय तिरुवडिक्कळ् कूट्टिनै नान् कण्डेने (९)  
+३२१९। You bring the devotees who worship you  
 and let them live beneath your feet  
 that are adorned with sounding anklets.  
 If the gods do not do what is right,  
@@ -5671,22 +5672,22 @@ You made me give up my desires
 and worship your divine feet that others cannot find.  
 I see you now.  
 
-3220 கண்டு கேட்டு உற்று மோந்து உண்டு உழலும் ஐங்கருவி  
-கண்ட இன்பம் தெரிவு அரிய அளவு இல்லாச் சிற்றின்பம்  
-ஒண் தொடியாள் திருமகளும் நீயுமே நிலாநிற்ப  
-கண்ட சதிர் கண்டொழிந்தேன் அடைந்தேன் உன் திருவடியே (10)  
-3220. I have realized that the five mean pleasures that the senses give—  
+३२२० कण्डु केट्टु उट्रु मोन्दु उण्डु उऴलुम् ऐङ्गरुवि  
+कण्ड इन्बम् तॆरिवु अरिय अळवु इल्लाच् चिट्रिन्बम्  
+ऒण् तॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌प  
+कण्ड सदिर् कण्डॊऴिन्देन् अडैन्देन् उन् तिरुवडिये (१०)  
+३२२०। I have realized that the five mean pleasures that the senses give—  
 seeing, hearing, touching, smelling, and eating—are not good.  
 I have seen how you and the goddess Lakshmi,  
 lovely with her shining bracelets,  
 have joined together and given me your grace.  
 I became your slave and reached your divine feet.  
 
-3221 திருவடியை நாரணனை கேசவனை பரஞ்சுடரை  
-திருவடி சேர்வது கருதி செழுங் குருகூர்ச் சடகோபன்  
-திருவடிமேல் உரைத்த தமிழ் ஆயிரத்துள் இப் பத்தும்  
-திருவடியே அடைவிக்கும் திருவடி சேர்ந்து ஒன்றுமினே (11)  
-3221. Sadagopan of flourishing Thirukuruhur  
+३२२१ तिरुवडियै नारणनै केसवनै परञ्जुडरै  
+तिरुवडि सेर्वदु करुदि सॆऴुङ् गुरुगूर्च् चडगोबन्  
+तिरुवडिमेल् उरैत्त तमिऴ् आयिरत्तुळ् इप् पत्तुम्  
+तिरुवडिये अडैविक्कुम् तिरुवडि सेर्न्दु ऒण्ड्रुमिने (११)  
+३२२१। Sadagopan of flourishing Thirukuruhur  
 composed a thousand Tamil pasurams on the god  
 describing how devotees could join the feet  
 of the god Naraṇan, Kesavan, the highest light.  
@@ -5694,17 +5695,17 @@ O devotees, learn these ten poems
 and you will join his divine feet.  
 ---------  
 
-திருவாய் மொழி - நான்காம் பத்து (பத்தாம் திருமொழி, 3222-3232)  
-எம்பெருமான் எல்லாத் தேவதைகளுக்கும் மேற்பட்டவன் (திருக்குருகூர்)  
+तिरुवाय् मॊऴि - नान्गाम् पत्तु (पत्ताम् तिरुमॊऴि, ३२२२-३२३२)  
+ऎम्बॆरुमान् ऎल्लात् तेवदैगळुक्कुम् मेऱ्‌पट्टवन् (तिरुक्गुरुगूर्)  
 
-3222 ஒன்றும் தேவும் உலகும் உயிரும்  
-       மற்றும் யாதும் இல்லா  
-அன்று நான்முகன் தன்னொடு தேவர்  
-       உலகோடு உயிர் படைத்தான்  
-குன்றம் போல் மணி மாடம் நீடு  
-       திருக்குருகூர் அதனுள்  
-நின்ற ஆதிப்பிரான் நிற்க மற்றைத் தெய்வம் நாடுதிரே? (1)  
-3222. When there was nothing,  
+३२२२ ऒण्ड्रुम् तेवुम् उलगुम् उयिरुम्  
+       मट्रुम् यादुम् इल्ला  
+अण्ड्रु नान्मुगन् तन्नॊडु तेवर्  
+       उलगोडु उयिर् पडैत्तान्  
+कुण्ड्रम् पोल् मणि माडम् नीडु  
+       तिरुक्गुरुगूर् अदनुळ्  
+निण्ड्र आदिप्पिरान् निऱ्‌क मट्रैत् तॆय्वम् नाडुदिरे? (१)  
+३२२२। When there was nothing,  
 he created Nanmuhan, the gods, the world of the gods,  
 the world and all the creatures in the world.  
 Our ancient god stays in rich Thirukuruhur  
@@ -5712,30 +5713,30 @@ filled with palaces as large as mountains
 and patios studded with diamonds.  
 Why do you search for other gods?  
 
-3223 நாடி நீர் வணங்கும் தெய்வமும் உம்மையும்  
-       முன் படைத்தான்  
-வீடு இல் சீர்ப் புகழ் ஆதிப்பிரான் அவன்  
-       மேவி உறை கோயில்  
-மாட மாளிகை சூழ்ந்து அழகு ஆய  
-       திருக்குருகூர் அதனைப்  
-பாடி ஆடி பரவிச் செல்மின்கள்  
-       பல் உலகீர் பரந்தே (2)  
-3223. Our god created all the gods that you worship and you.  
+३२२३ नाडि नीर् वणङ्गुम् तॆय्वमुम् उम्मैयुम्  
+       मुन् पडैत्तान्  
+वीडु इल् सीर्प् पुगऴ् आदिप्पिरान् अवन्  
+       मेवि उऱै कोयिल्  
+माड माळिगै सूऴ्न्दु अऴगु आय  
+       तिरुक्गुरुगूर् अदनैप्  
+पाडि आडि परविच् चॆल्मिन्गळ्  
+       पल् उलगीर् परन्दे (२)  
+३२२३। Our god created all the gods that you worship and you.  
 Our lord has matchless fame and he abides with love  
 in the temple of beautiful Thirukuruhur  
 filled with patios and palaces.  
 O devotees! You come from all parts of the world,  
 Go to Thirukuruhur, sing and dance and praise the god.  
 
-3224 பரந்த தெய்வமும் பல் உலகும் படைத்து அன்று  
-       உடனே விழுங்கி  
-கரந்து உமிழ்ந்து கடந்து இடந்தது  
-       கண்டும் தெளியகில்லீர்  
-சிரங்களால் அமரர் வணங்கும்  
-       திருக்குருகூர் அதனுள்  
-பரன் திறம் அன்றி பல் உலகீர் தெய்வம்  
-       மற்று இல்லை பேசுமினே (3)  
-3224. He created all the gods, many worlds,  
+३२२४ परन्द तॆय्वमुम् पल् उलगुम् पडैत्तु अण्ड्रु  
+       उडने विऴुङ्गि  
+करन्दु उमिऴ्न्दु कडन्दु इडन्ददु  
+       कण्डुम् तॆळियगिल्लीर्  
+सिरङ्गळाल् अमरर् वणङ्गुम्  
+       तिरुक्गुरुगूर् अदनुळ्  
+परन् तिऱम् अण्ड्रि पल् उलगीर् तॆय्वम्  
+       मट्रु इल्लै पेसुमिने (३)  
+३२२४। He created all the gods, many worlds,  
 swallowed it all and spit it out.  
 He measured the world at the sacrifice of Mahabali,  
 and he brought the earth from the underworld as a boar.  
@@ -5747,15 +5748,15 @@ He stays in Thirukuruhur
 and all the other gods bow down their heads to him.  
 Come and praise our lord.  
 
-3225 பேச நின்ற சிவனுக்கும் பிரமன்  
-       தனக்கும் பிறர்க்கும்  
-நாயகன் அவனே கபால நல் மோக்கத்துக்  
-       கண்டுகொண்மின்  
-தேச மா மதிள் சூழ்ந்து அழகு ஆய  
-       திருக்குருகூர் அதனுள்  
-ஈசன்பால் ஓர் அவம் பறைதல் என் ஆவது  
-       இலிங்கியர்க்கே? (4)  
-3225. He is the lord of famous Shiva praised by all,  
+३२२५ पेस निण्ड्र सिवनुक्कुम् पिरमन्  
+       तनक्कुम् पिऱर्क्कुम्  
+नायगन् अवने कबाल नल् मोक्कत्तुक्  
+       कण्डुगॊण्मिन्  
+तेस मा मदिळ् सूऴ्न्दु अऴगु आय  
+       तिरुक्गुरुगूर् अदनुळ्  
+ईसन्बाल् ओर् अवम् पऱैदल् ऎन् आवदु  
+       इलिङ्गियर्क्के? (४)  
+३२२५। He is the lord of famous Shiva praised by all,  
 Brahma and all other gods.  
 You know this because he made the head of Brahma  
 fall from Shiva’s hand and released Shiva from his curse.  
@@ -5764,15 +5765,15 @@ surrounded with large beautiful walls.
 The Lingayats say wrong things about our highest god.  
 What do they get by doing that?  
 
-3226 இலிங்கத்து இட்ட புராணத்தீரும்  
-       சமணரும் சாக்கியரும்  
-வலிந்து வாது செய்வீர்களும் மற்றும் நும்  
-       தெய்வமும் ஆகி நின்றான்  
-மலிந்து செந்நெல் கவரி வீசும்  
-       திருக்குருகூர் அதனுள்  
-பொலிந்து நின்ற பிரான் கண்டீர் ஒன்றும்  
-       பொய் இல்லை போற்றுமினே (5)  
-3226. O Lingayats, Jains, Buddhists, Sakyas,  
+३२२६ इलिङ्गत्तु इट्ट पुराणत्तीरुम्  
+       समणरुम् साक्कियरुम्  
+वलिन्दु वादु सॆय्वीर्गळुम् मट्रुम् नुम्  
+       तॆय्वमुम् आगि निण्ड्रान्  
+मलिन्दु सॆन्नॆल् कवरि वीसुम्  
+       तिरुक्गुरुगूर् अदनुळ्  
+पॊलिन्दु निण्ड्र पिरान् कण्डीर् ऒण्ड्रुम्  
+       पॊय् इल्लै पोट्रुमिने (५)  
+३२२६। O Lingayats, Jains, Buddhists, Sakyas,  
 and others praised in the Puranas!  
 You argue strongly about your religions and worship your gods.  
 He is in your souls and in all your gods.  
@@ -5781,15 +5782,15 @@ where abundant good paddy blows in the wind as if fanned.
 He is the shining god of all religions. This is no lie.  
 Praise him.  
 
-3227 போற்றி மற்று ஓர் தெய்வம் பேணப்  
-       புறத்திட்டு உம்மை இன்னே  
-தேற்றி வைத்தது எல்லீரும் வீடு பெற்றால்  
-       உலகு இல்லை என்றே  
-சேற்றில் செந்நெல் கமலம் ஓங்கு  
-       திருக்குருகூர் அதனுள்  
-ஆற்ற வல்லவன் மாயம் கண்டீர் அது  
-       அறிந்து அறிந்து ஓடுமினே (6)  
-3227. Even though you praise other gods  
+३२२७ पोट्रि मट्रु ओर् तॆय्वम् पेणप्  
+       पुऱत्तिट्टु उम्मै इन्ने  
+तेट्रि वैत्तदु ऎल्लीरुम् वीडु पॆट्राल्  
+       उलगु इल्लै ऎण्ड्रे  
+सेट्रिल् सॆन्नॆल् कमलम् ओङ्गु  
+       तिरुक्गुरुगूर् अदनुळ्  
+आट्र वल्लवन् मायम् कण्डीर् अदु  
+       अऱिन्दु अऱिन्दु ओडुमिने (६)  
+३२२७। Even though you praise other gods  
 he protects you without the concern that you are praising them.  
 He takes only his devotees  
 because if all get to reach moksha,  
@@ -5799,15 +5800,15 @@ He stays in Thirukuruhur
 where good paddy and lotuses grow from the earth.  
 Understand this and find out the right way to live.  
 
-3228 ஓடி ஓடி பல பிறப்பும் பிறந்து  
-       மற்று ஓர் தெய்வம்  
-பாடி ஆடிப் பணிந்து பல்படிகால்  
-       வழி ஏறிக் கண்டீர்  
-கூடி வானவர் ஏத்த நின்ற  
-       திருக்குருகூர் அதனுள்  
-ஆடு புள் கொடி ஆதி மூர்த்திக்கு  
-       அடிமைபுகுவதுவே (7)  
-3228. O devotees, you have been born in many births.  
+३२२८ ओडि ओडि पल पिऱप्पुम् पिऱन्दु  
+       मट्रु ओर् तॆय्वम्  
+पाडि आडिप् पणिन्दु पल्बडिगाल्  
+       वऴि एऱिक् कण्डीर्  
+कूडि वानवर् एत्त निण्ड्र  
+       तिरुक्गुरुगूर् अदनुळ्  
+आडु पुळ् कॊडि आदि मूर्त्तिक्कु  
+       अडिमैबुगुवदुवे (७)  
+३२२८। O devotees, you have been born in many births.  
 You have looked for other gods, sung their praise,  
 danced and worshiped them in all the ways described in the sastras  
 but you have not found success.  
@@ -5816,15 +5817,15 @@ and stays in Thirukuruhur
 where the gods in the sky gather and praise him.  
 Go and be his slave.  
 
-3229 புக்கு அடிமையினால் தன்னைக் கண்ட  
-       மார்க்கண்டேயன் அவனை  
-நக்க பிரானும் அன்று உய்யக்கொண்டது  
-       நாராயணன் அருளே  
-கொக்கு அலர் தடம் தாழை வேலித்  
-       திருக்குருகூர் அதனுள்  
-மிக்க ஆதிப்பிரான் நிற்க மற்றைத்  
-       தெய்வம் விளம்புதிரே (8)  
-3229. The grace of Narayaṇan  
+३२२९ पुक्कु अडिमैयिनाल् तन्नैक् कण्ड  
+       मार्कण्डेयन् अवनै  
+नक्क पिरानुम् अण्ड्रु उय्यक्कॊण्डदु  
+       नारायणन् अरुळे  
+कॊक्कु अलर् तडम् ताऴै वेलित्  
+       तिरुक्गुरुगूर् अदनुळ्  
+मिक्क आदिप्पिरान् निऱ्‌क मट्रैत्  
+       तॆय्वम् विळम्बुदिरे (८)  
+३२२९। The grace of Narayaṇan  
 is what made the dancing god Shiva save Markandeya  
 when he came and asked him to rescue him from Yama.  
 The ancient lord Naraṇan stays in Thirukuruhur  
@@ -5832,30 +5833,30 @@ surrounded with fences where the taalai flowers bloom
 like white herons in large ponds.  
 Why do you go to other places and search for other gods?  
 
-3230 விளம்பும் ஆறு சமயமும் அவைஆகியும்  
-       மற்றும் தன்பால்  
-அளந்து காண்டற்கு அரியன் ஆகிய  
-       ஆதிப்பிரான் அமரும்  
-       வளம் கொள் தண் பணை சூழ்ந்து அழகு ஆய  
-       திருக்குருகூர் அதனை  
-உளம் கொள் ஞானத்து வைம்மின் உம்மை  
-       உய்யக்கொண்டு போகுறிலே (9)  
-3230. None of the six religions  
+३२३० विळम्बुम् आऱु समयमुम् अवैआगियुम्  
+       मट्रुम् तन्बाल्  
+अळन्दु काण्डऱ्‌कु अरियन् आगिय  
+       आदिप्पिरान् अमरुम्  
+       वळम् कॊळ् तण् पणै सूऴ्न्दु अऴगु आय  
+       तिरुक्गुरुगूर् अदनै  
+उळम् कॊळ् ज्ञानत्तु वैम्मिन् उम्मै  
+       उय्यक्कॊण्डु पोगुऱिले (९)  
+३२३०। None of the six religions  
 or any other religious texts know who god is.  
 Our ancient god of beautiful Thirukurukur  
 surrounded with flourishing fields  
 has entered your heart and stays there.  
 Keep him in your heart—that is the path that will save you.  
 
-3231 உறுவது ஆவது எத் தேவும் எவ் உலகங்களும்  
-       மற்றும் தன்பால்  
-மறு இல் மூர்த்தியோடு ஒத்து இத்தனையும்  
-       நின்றவண்ணம் நிற்கவே  
-செறுவில் செந்நெல் கரும்பொடு ஓங்கு  
-       திருக்குருகூர் அதனுள்  
-குறிய மாண் உரு ஆகிய நீள் குடக்  
-       கூத்தனுக்கு ஆள் செய்வதே (10)  
-3231. The faultless lord contains in himself  
+३२३१ उऱुवदु आवदु ऎत् तेवुम् ऎव् उलगङ्गळुम्  
+       मट्रुम् तन्बाल्  
+मऱु इल् मूर्त्तियोडु ऒत्तु इत्तनैयुम्  
+       निण्ड्रवण्णम् निऱ्‌कवे  
+सॆऱुविल् सॆन्नॆल् करुम्बॊडु ओङ्गु  
+       तिरुक्गुरुगूर् अदनुळ्  
+कुऱिय माण् उरु आगिय नीळ् कुडक्  
+       कूत्तनुक्कु आळ् सॆय्वदे (१०)  
+३२३१। The faultless lord contains in himself  
 all that there is and all that will be,  
 all the worlds, all the gods and everything else.  
 He stays in Thirukuruhur  
@@ -5864,15 +5865,15 @@ He took the form of a dwarf
 and he dances the divine kudakuthu dance.  
 Let us serve him.  
 
-3232 ஆள் செய்து ஆழிப் பிரானைச் சேர்ந்தவன்  
-       வண் குருகூர்நகரான்  
-நாள் கமழ் மகிழ் மாலை மார்பினன்  
-       மாறன் சடகோபன்  
-வேட்கையால் சொன்ன பாடல் ஆயிரத்துள்  
-       இப் பத்தும் வல்லார்  
-மீட்சி இன்றி வைகுந்த மாநகர்  
-       மற்றது கையதுவே (11)  
-3232. Maran Sadagopan of rich Thirukuruhur  
+३२३२ आळ् सॆय्दु आऴिप् पिरानैच् चेर्न्दवन्  
+       वण् गुरुगूर्नगरान्  
+नाळ् कमऴ् मगिऴ् मालै मार्बिनन्  
+       माऱन् सडगोबन्  
+वेट्कैयाल् सॊन्न पाडल् आयिरत्तुळ्  
+       इप् पत्तुम् वल्लार्  
+मीट्चि इण्ड्रि वैगुन्द मानगर्  
+       मट्रदु कैयदुवे (११)  
+३२३२। Maran Sadagopan of rich Thirukuruhur  
 is adorned with a fresh garland  
 of fragrant makizham flowers on his chest.  
 He, the devotee of the god,  
@@ -5881,17 +5882,17 @@ for the god who carries a discus.
 If devotees learn and recite these poems  
 and know them well they will surely reach Vaikuṇṭam.  
 ----------  
-நம்மாழ்வார் திருவாய் மொழி - ஐந்தாம் பத்து (3233-3342)  
+नम्माऴ्वार् तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (३२३३-३३४२)  
 Divyaprabandham - Thiruvaymozhi - Aindaam Pathu  
-திருவாய் மொழி - ஐந்தாம் பத்து (முதல் திருமொழி, 3233-3243)  
-உண்மையான பக்தி இல்லாத நிலையிலும் சிறந்த பேற்றை  
-அருளும் எம்பெருமானது கருணைத்திறம்  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (मुदल् तिरुमॊऴि, ३२३३-३२४३)  
+उण्मैयान पक्ति इल्लाद निलैयिलुम् सिऱन्द पेट्रै  
+अरुळुम् ऎम्बॆरुमानदु करुणैत्तिऱम्  
 
-3233 கை ஆர் சக்கரத்து என் கருமாணிக்கமே என்று என்று  
-பொய்யே கைம்மை சொல்லி புறமே புறமே ஆடி  
-மெய்யே பெற்றொழிந்தேன் விதி வாய்க்கின்று காப்பார் ஆர்?  
-ஐயோ கண்ண பிரான் அறையோ இனிப் போனாலே (1)  
-3233. I lied, praising you and saying,  
+३२३३ कै आर् सक्करत्तु ऎन् करुमाणिक्कमे ऎण्ड्रु ऎण्ड्रु  
+पॊय्ये कैम्मै सॊल्लि पुऱमे पुऱमे आडि  
+मॆय्ये पॆट्रॊऴिन्देन् विधि वाय्क्किण्ड्रु काप्पार् आर्?  
+ऐयो कण्ण पिरान् अऱैयो इनिप् पोनाले (१)  
+३२३३। I lied, praising you and saying,  
 "You are a precious blue sapphire. You carry a discus."  
 I wandered and wandered  
 and you thought I was truly praising you  
@@ -5900,22 +5901,22 @@ If it is my fate to receive your grace,
 no one can prevent it, O my lord Kaṇṇan!  
 Tell me. Tell me please.  
 
-3234 போனாய் மா மருதின் நடுவே என் பொல்லா மணியே  
-தேனே இன் அமுதே என்று என்றே சில கூத்துச் சொல்ல  
-தானேல் எம் பெருமான் அவன் என் ஆகி ஒழிந்தான்  
-வானே மா நிலமே மற்றும் முற்றும் என் உள்ளனவே (2)  
-3234. He is a faultless jewel.  
+३२३४ पोनाय् मा मरुदिन् नडुवे ऎन् पॊल्ला मणिये  
+तेने इन् अमुदे ऎण्ड्रु ऎण्ड्रे सिल कूत्तुच् चॊल्ल  
+तानेल् ऎम् पॆरुमान् अवन् ऎन् आगि ऒऴिन्दान्  
+वाने मा निलमे मट्रुम् मुट्रुम् ऎन् उळ्ळनवे (२)  
+३२३४। He is a faultless jewel.  
 He went between the two marudam trees.  
 I praised him saying, "You are honey and sweet nectar."  
 I just said a few things praising him like that  
 and my dear lord entered my heart and became one with me.  
 Now, the sky and this great earth are all mine.  
 
-3235 உள்ளன மற்று உளவா புறமே சில மாயம் சொல்லி  
-வள்ளல் மணிவண்ணனே என்று என்றே உன்னையும் வஞ்சிக்கும்  
-கள்ள மனம் தவிர்ந்தே உன்னைக் கண்டுகொண்டு உய்ந்தொழிந்தேன்  
-வெள்ளத்து அணைக்கிடந்தாய் இனி உன்னை விட்டு என் கொள்வனே? (3)  
-3235. I wanted to be involved in the pleasures of the world  
+३२३५ उळ्ळन मट्रु उळवा पुऱमे सिल मायम् सॊल्लि  
+वळ्ळल् मणिवण्णने ऎण्ड्रु ऎण्ड्रे उन्नैयुम् वञ्जिक्कुम्  
+कळ्ळ मनम् तविर्न्दे उन्नैक् कण्डुगॊण्डु उय्न्दॊऴिन्देन्  
+वॆळ्ळत्तु अणैक्किडन्दाय् इनि उन्नै विट्टु ऎन् कॊळ्वने? (३)  
+३२३५। I wanted to be involved in the pleasures of the world  
 but I praised you with false words and said,  
 "You are the generous lord. You have the color of sapphire."  
 Now I don’t want to cheat you.  
@@ -5923,11 +5924,11 @@ My devious mind knew you and I am saved.
 You sleep on the flood of water.  
 I will not leave you. What is there for me except you?  
 
-3236 என் கொள்வன் உன்னை விட்டு? என்னும் வாசகங்கள் சொல்லியும்  
-வன் கள்வனேன் மனத்தை வலித்து கண்ண நீர் கரந்து  
-நின்கண் நெருங்கவைத்தே எனது ஆவியை நீக்ககில்லேன்  
-என்கண் மலினம் அறுத்து என்னைக் கூவி அருளாய் கண்ணனே (4)  
-3236. What should I do?  
+३२३६ ऎन् कॊळ्वन् उन्नै विट्टु? ऎन्नुम् वाचकङ्गळ् सॊल्लियुम्  
+वन् कळ्वनेन् मनत्तै वलित्तु कण्ण नीर् करन्दु  
+निन्गण् नॆरुङ्गवैत्ते ऎनदु आवियै नीक्कगिल्लेन्  
+ऎन्गण् मलिनम् अऱुत्तु ऎन्नैक् कूवि अरुळाय् कण्णने (४)  
+३२३६। What should I do?  
 Even though I said, "I will not leave you,"  
 I was a thief and could not stop my mind  
 from enjoying the pleasures of this world.  
@@ -5937,11 +5938,11 @@ I can’t leave this life on the earth.
 O Kaṇṇan, take away my sins,  
 call me and give me your grace.  
 
-3237 கண்ண பிரானை விண்ணோர் கருமாணிக்கத்தை அமுதை  
-நண்ணியும் நண்ணகில்லேன் நடுவே ஓர் உடம்பில் இட்டு  
-திண்ணம் அழுந்தக் கட்டிப் பல செய்வினை வன் கயிற்றால்  
-புண்ணை மறைய வரிந்து என்னைப் போர வைத்தாய் புறமே (5)  
-3237. My dear lord Kannan  
+३२३७ कण्ण पिरानै विण्णोर् करुमाणिक्कत्तै अमुदै  
+नण्णियुम् नण्णगिल्लेन् नडुवे ओर् उडम्बिल् इट्टु  
+तिण्णम् अऴुन्दक् कट्टिप् पल सॆय्विनै वन् कयिट्राल्  
+पुण्णै मऱैय वरिन्दु ऎन्नैप् पोर वैत्ताय् पुऱमे (५)  
+३२३७। My dear lord Kannan  
 is sweet as nectar, the precious jewel of the gods in the sky.  
 I can’t approach my dear lord Kaṇṇan.  
 He put life in my body and tied it tightly  
@@ -5950,22 +5951,22 @@ I am covered with a body that is a skin-covered wound.
 Who can release me from this body?  
 O lord, you are the only one. Save me.  
 
-3238 புறம் அறக் கட்டிக்கொண்டு இரு வல்வினையார் குமைக்கும்  
-முறை முறை யாக்கை புகல் ஒழியக் கண்டு கொண்டொழிந்தேன்  
-நிறம் உடை நால் தடம் தோள் செய்ய வாய் செய்ய தாமரைக்கண்  
-அறம் முயல் ஆழி அங்கைக் கருமேனி அம்மான் தன்னையே (6)  
-3238. His body shines like a dark jewel  
+३२३८ पुऱम् अऱक् कट्टिक्कॊण्डु इरु वल्विनैयार् कुमैक्कुम्  
+मुऱै मुऱै याक्कै पुगल् ऒऴियक् कण्डु कॊण्डॊऴिन्देन्  
+निऱम् उडै नाल् तडम् तोळ् सॆय्य वाय् सॆय्य तामरैक्कण्  
+अऱम् मुयल् आऴि अङ्गैक् करुमेनि अम्मान् तन्नैये (६)  
+३२३८। His body shines like a dark jewel  
 and he carries a discus in his beautiful hand that establishes dharma.  
 My lord has beautiful lotus eyes,  
 a red mouth and four strong arms.  
 When I saw him the evil and good karma  
 that troubled me went away.  
 
-3239 அம்மான் ஆழிப்பிரான் அவன் எவ் இடத்தான்? யான் ஆர்?  
-எம் மா பாவியர்க்கும் விதி வாய்க்கின்று வாய்க்கும் கண்டீர்  
-கைம்மா துன்பு ஒழித்தாய் என்று கைதலைபூசல் இட்டே  
-மெய்ம் மால் ஆயொழிந்தேன் எம்பிரானும் என் மேலானே (7)  
-3239. The lord carries a discus and he is dear to me.  
+३२३९ अम्मान् आऴिप्पिरान् अवन् ऎव् इडत्तान्? यान् आर्?  
+ऎम् मा पावियर्क्कुम् विधि वाय्क्किण्ड्रु वाय्क्कुम् कण्डीर्  
+कैम्मा तुन्बु ऒऴित्ताय् ऎण्ड्रु कैदलैबूसल् इट्टे  
+मॆय्म् माल् आयॊऴिन्देन् ऎम्बिरानुम् ऎन् मेलाने (७)  
+३२३९। The lord carries a discus and he is dear to me.  
 Where is he? Who am I?  
 If any sinner has a good fate,  
 the lord gives his grace to him.  
@@ -5975,11 +5976,11 @@ and worshiped him crying,
 and I became a true devotee of him, the highest god.  
 He joined me with him.  
 
-3240 மேலாத் தேவர்களும் நிலத் தேவரும் மேவித் தொழும்  
-மாலார் வந்து இனநாள் அடியேன் மனத்தே மன்னினார்  
-சேல் ஏய் கண்ணியரும் பெரும் செல்வமும் நன்மக்களும்  
-மேலாத் தாய் தந்தையும் அவரே இனி ஆவாரே (8)  
-3240. Maal, whom the gods in the sky  
+३२४० मेलात् तेवर्गळुम् निलत् तेवरुम् मेवित् तॊऴुम्  
+मालार् वन्दु इननाळ् अडियेन् मनत्ते मन्निनार्  
+सेल् एय् कण्णियरुम् पॆरुम् सॆल्वमुम् नन्मक्कळुम्  
+मेलात् ताय् तन्दैयुम् अवरे इनि आवारे (८)  
+३२४०। Maal, whom the gods in the sky  
 and the sages on earth worship,  
 has come and entered this slave’s mind  
 and now stays there firmly.  
@@ -5987,11 +5988,11 @@ From now on for me he is father, mother, good children,
 great wealth and lovely fish-eyed women.  
 No one else is dear to me anymore.  
 
-3241 ஆவார் ஆர் துணை? என்று அலை நீர்க் கடலுள் அழுந்தும்  
-நாவாய் போல் பிறவிக்கடலுள் நின்று நான் துளங்க  
-தேவு ஆர் கோலத்தொடும் திருச் சக்கரம் சங்கினொடும்  
-ஆஆ என்று அருள்செய்து அடியேனொடும் ஆனானே (9)  
-3241. I shivered on the ocean of birth  
+३२४१ आवार् आर् तुणै? ऎण्ड्रु अलै नीर्क् कडलुळ् अऴुन्दुम्  
+नावाय् पोल् पिऱविक्कडलुळ् निण्ड्रु नान् तुळङ्ग  
+तेवु आर् कोलत्तॊडुम् तिरुच् चक्करम् सङ्गिनॊडुम्  
+आआ ऎण्ड्रु अरुळ्सॆय्दु अडियेनॊडुम् आनाने (९)  
+३२४१। I shivered on the ocean of birth  
 like a boat that was sinking.  
 When I was worried how could I get help,  
 the wonderful lord came in a beautiful form  
@@ -6000,40 +6001,40 @@ gave his grace to me,
 said,"I will protect my devotee!"  
 and became one with me.  
 
-3242 ஆனான் ஆளுடையான் என்று அஃதே கொண்டு உகந்து வந்து  
-தானே இன் அருள் செய்து என்னை முற்றவும் தான் ஆனான்  
-மீன் ஆய் ஆமையும் ஆய் நரசிங்கமும் ஆய் குறள் ஆய்  
-கான் ஆர் ஏனமும் ஆய் கற்கி ஆம் இன்னம் கார் வண்ணனே (10)  
-3242. The cloud-colored lord  
+३२४२ आनान् आळुडैयान् ऎण्ड्रु अह्दे कॊण्डु उगन्दु वन्दु  
+ताने इन् अरुळ् सॆय्दु ऎन्नै मुट्रवुम् तान् आनान्  
+मीन् आय् आमैयुम् आय् नरसिङ्गमुम् आय् कुऱळ् आय्  
+कान् आर् एनमुम् आय् कऱ्‌कि आम् इन्नम् कार् वण्णने (१०)  
+३२४२। The cloud-colored lord  
 took the form of a fish, turtle, man-lion, dwarf,  
 of a boar in the forest and of Kalki.  
 When I said, "O lord, you rule me,"  
 he was happy and gave me his sweet grace  
 and became one with me, his slave.  
 
-3243 கார் வண்ணன் கண்ண பிரான் கமலத்தடங்கண்ணன் தன்னை  
-ஏர் வள ஒண் கழனிக் குருகூர்ச் சடகோபன் சொன்ன  
-சீர் வண்ணம் ஒண் தமிழ்கள் இவை ஆயிரத்துள் இப் பத்தும்  
-ஆர்வண்ணத்தால் உரைப்பார் அடிக்கீழ்ப் புகுவார் பொலிந்தே (11)  
-3243. Sadagopan of Thirukuruhur  
+३२४३ कार् वण्णन् कण्ण पिरान् कमलत्तडङ्गण्णन् तन्नै  
+एर् वळ ऒण् कऴनिक् गुरुगूर्च् चडगोबन् सॊन्न  
+सीर् वण्णम् ऒण् तमिऴ्गळ् इवै आयिरत्तुळ् इप् पत्तुम्  
+आर्वण्णत्ताल् उरैप्पार् अडिक्कीऴ्प् पुगुवार् पॊलिन्दे (११)  
+३२४३। Sadagopan of Thirukuruhur  
 surrounded by beautiful flourishing fields  
 composed a thousand lovely Tamil poems on our dark lotus-eyed Kannan.  
 If devotees learn and recite these ten lovely poems  
 they will shine and reach the feet of the lord.  
 ----------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (இரண்டாம் திருமொழி, 3244-3254)  
-அடியார்திருக்கூட்டத்தைக் கண்டு வாழ்த்தல்  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (इरण्डाम् तिरुमॊऴि, ३२४४-३२५४)  
+अडियार्दिरुक्कूट्टत्तैक् कण्डु वाऴ्त्तल्  
 
-3244 பொலிக பொலிக பொலிக  
-       போயிற்று வல் உயிர்ச் சாபம்  
-நலியும் நரகமும் நைந்த  
-       நமனுக்கு இங்கு யாது ஒன்றும் இல்லை  
-கலியும் கெடும் கண்டுகொண்மின்  
-       கடல்வண்ணன் பூதங்கள் மண்மேல்  
-மலியப் புகுந்து இசை பாடி  
-       ஆடி உழிதரக் கண்டோம் (1)  
-3244. Let the world flourish! Let the world flourish!  
+३२४४ पॊलिग पॊलिग पॊलिग  
+       पोयिट्रु वल् उयिर्च् चाबम्  
+नलियुम् नरगमुम् नैन्द  
+       नमनुक्कु इङ्गु यादु ऒण्ड्रुम् इल्लै  
+कलियुम् कॆडुम् कण्डुगॊण्मिन्  
+       कडल्वण्णन् पूदङ्गळ् मण्मेल्  
+मलियप् पुगुन्दु इसै पाडि  
+       आडि उऴिदरक् कण्डोम् (१)  
+३२४४। Let the world flourish! Let the world flourish!  
 Let the world flourish!  
 The bad curses of all creatures are destroyed.  
 There is nothing for Yama who gives suffering and hell to people.  
@@ -6041,59 +6042,59 @@ See, the poverty of everyone will disappear.
 We the devotees of the ocean-colored god  
 gather together, sing and dance.  
 
-3245 கண்டோம் கண்டோம் கண்டோம்  
-       கண்ணுக்கு இனியன கண்டோம்  
-தொண்டீர் எல்லீரும் வாரீர்  
-       தொழுது தொழுது நின்று ஆர்த்தும்  
-வண்டு ஆர் தண் அம் துழாயான்  
-       மாதவன் பூதங்கள் மண்மேல்  
-பண் தான் பாடி நின்று ஆடி  
-       பரந்து திரிகின்றனவே (2)  
-3245. The devotees sing songs and dance  
+३२४५ कण्डोम् कण्डोम् कण्डोम्  
+       कण्णुक्कु इनियन कण्डोम्  
+तॊण्डीर् ऎल्लीरुम् वारीर्  
+       तॊऴुदु तॊऴुदु निण्ड्रु आर्त्तुम्  
+वण्डु आर् तण् अम् तुऴायान्  
+       मादवन् पूदङ्गळ् मण्मेल्  
+पण् तान् पाडि निण्ड्रु आडि  
+       परन्दु तिरिगिण्ड्रनवे (२)  
+३२४५। The devotees sing songs and dance  
 praising the god Madhavan,  
 adorned with lovely cool garlands swarming with bees.  
 They jump around and shout, saying,  
 "We saw, we saw, we saw things are sweet to the eyes.  
 O devotees, come, all of you. Worship, worship!"  
 
-3246 திரியும் கலியுகம் நீங்கி  
-       தேவர்கள் தாமும் புகுந்து  
-பெரிய கிதயுகம் பற்றி  
-       பேரின்ப வெள்ளம் பெருக  
-கரிய முகில்வண்ணன் எம்மான்  
-       கடல்வண்ணன் பூதங்கள் மண்மேல்  
-இரியப் புகுந்து இசை பாடி  
-       எங்கும் இடம் கொண்டனவே (3)  
-3246. The evil Kaliyuga has passed and Krtayugam has begun.  
+३२४६ तिरियुम् कलियुगम् नीङ्गि  
+       तेवर्गळ् तामुम् पुगुन्दु  
+पॆरिय किदयुगम् पट्रि  
+       पेरिन्ब वॆळ्ळम् पॆरुग  
+करिय मुगिल्वण्णन् ऎम्मान्  
+       कडल्वण्णन् पूदङ्गळ् मण्मेल्  
+इरियप् पुगुन्दु इसै पाडि  
+       ऎङ्गुम् इडम् कॊण्डनवे (३)  
+३२४६। The evil Kaliyuga has passed and Krtayugam has begun.  
 All the gods and devotees come to the earth.  
 Their hearts are filled with floods of abundant joy.  
 The devotees of our dear ocean-colored, cloud-colored god  
 sing and praise him and wander all over the earth.  
 
-3247 இடம் கொள் சமயத்தை எல்லாம்  
-       எடுத்துக் களைவன போலே  
-தடம் கடல் பள்ளிப் பெருமான்  
-       தன்னுடைப் பூதங்களே ஆய்  
-கிடந்தும் இருந்தும் எழுந்தும்  
-       கீதம் பலபல பாடி  
-நடந்தும் பறந்தும் குனித்தும்  
-       நாடகம் செய்கின்றனவே (4)  
-3247. The lord sleeps on the wide ocean  
+३२४७ इडम् कॊळ् समयत्तै ऎल्लाम्  
+       ऎडुत्तुक् कळैवन पोले  
+तडम् कडल् पळ्ळिप् पॆरुमान्  
+       तन्नुडैप् पूदङ्गळे आय्  
+किडन्दुम् इरुन्दुम् ऎऴुन्दुम्  
+       कीदम् पलबल पाडि  
+नडन्दुम् पऱन्दुम् कुनित्तुम्  
+       नाडगम् सॆय्गिण्ड्रनवे (४)  
+३२४७। The lord sleeps on the wide ocean  
 and his devotees wander about  
 as if they had ignored all other religions  
 except Vaishnavism everywhere on the earth.  
 They roll on the floor, sit, stand, walk, bend,  
 fly, sing many songs, dance and act as if they were in a play.  
 
-3248 செய்கின்றது என் கண்ணுக்கு ஒன்றே  
-       ஒக்கின்றது இவ் உலகத்து  
-வைகுந்தன் பூதங்களே ஆய்  
-       மாயத்தினால் எங்கும் மன்னி  
-ஐயம் ஒன்று இல்லை அரக்கர்  
-       அசுரர் பிறந்தீர் உள்ளீரேல்  
-உய்யும் வகை இல்லை தொண்டீர்  
-       ஊழி பெயர்த்திடும் கொன்றே (5)  
-3248. O creatures of the world!  
+३२४८ सॆय्गिण्ड्रदु ऎन् कण्णुक्कु ऒण्ड्रे  
+       ऒक्किण्ड्रदु इव् उलगत्तु  
+वैगुन्दन् पूदङ्गळे आय्  
+       मायत्तिनाल् ऎङ्गुम् मन्नि  
+ऐयम् ऒण्ड्रु इल्लै अरक्कर्  
+       असुरर् पिऱन्दीर् उळ्ळीरेल्  
+उय्युम् वगै इल्लै तॊण्डीर्  
+       ऊऴि पॆयर्त्तिडुम् कॊण्ड्रे (५)  
+३२४८। O creatures of the world!  
 If you have been born as Asurans or Raksasas,  
 there is no way you can survive  
 even if eons and eons pass.  
@@ -6102,15 +6103,15 @@ that you must do in this world.
 You must become devotees  
 of the lord Vaikundan and remain in his maaya.  
 
-3249 கொன்று உயிர் உண்ணும் விசாதி  
-       பகை பசி தீயன எல்லாம்  
-நின்று இவ் உலகில் கடிவான்  
-       நேமிப் பிரான் தமர் போந்தார்  
-நன்று இசை பாடியும் துள்ளி  
-       ஆடியும் ஞாலம் பரந்தார்  
-சென்று தொழுது உய்ம்மின் தொண்டீர்!  
-       சிந்தையைச் செந்நிறுத்தியே (6)  
-3249. The lord carrying a discus came to the earth  
+३२४९ कॊण्ड्रु उयिर् उण्णुम् विसादि  
+       पगै पसि तीयन ऎल्लाम्  
+निण्ड्रु इव् उलगिल् कडिवान्  
+       नेमिप् पिरान् तमर् पोन्दार्  
+नण्ड्रु इसै पाडियुम् तुळ्ळि  
+       आडियुम् ञालम् परन्दार्  
+सॆण्ड्रु तॊऴुदु उय्म्मिन् तॊण्डीर्!  
+       सिन्दैयैच् चॆन्निऱुत्तिये (६)  
+३२४९। The lord carrying a discus came to the earth  
 to remove the diseases that kill people,  
 and enmity, hunger and all other evil things.  
 The devotees of the god wander all over the world,  
@@ -6118,15 +6119,15 @@ sing good songs, dance and jump.
 Keep your mind in devotion,  
 go and worship those devotees and you will be saved.  
 
-3250 நிறுத்தி நும் உள்ளத்துக் கொள்ளும்  
-       தெய்வங்கள் உம்மை உய்யக்கொள்  
-மறுத்தும் அவனோடே கண்டீர்  
-       மார்க்கண்டேயனும் கரியே  
-கறுத்த மனம் ஒன்றும் வேண்டா  
-       கண்ணன் அல்லால் தெய்வம் இல்லை  
-இறுப்பது எல்லாம் அவன் மூர்த்தி  
-       யாயவர்க்கே இறுமினே (7)  
-3250. The other gods that you worship in your heart  
+३२५० निऱुत्ति नुम् उळ्ळत्तुक् कॊळ्ळुम्  
+       तॆय्वङ्गळ् उम्मै उय्यक्कॊळ्  
+मऱुत्तुम् अवनोडे कण्डीर्  
+       मार्कण्डेयनुम् करिये  
+कऱुत्त मनम् ऒण्ड्रुम् वेण्डा  
+       कण्णन् अल्लाल् तॆय्वम् इल्लै  
+इऱुप्पदु ऎल्लाम् अवन् मूर्त्ति  
+       यायवर्क्के इऱुमिने (७)  
+३२५०। The other gods that you worship in your heart  
 will not be able to protect you,  
 and even if they do,  
 it is because of the grace of lord Kaṇṇan.  
@@ -6135,15 +6136,15 @@ and that is because of the grace of our god.
 You should not doubt this.  
 There is no other god but Kaṇṇan.  
 
-3251 இறுக்கும் இறை இறுத்து உண்ண  
-       எவ் உலகுக்கும் தன் மூர்த்தி  
-நிறுத்தினான் தெய்வங்கள் ஆக  
-       அத் தெய்வ நாயகன் தானே  
-மறுத் திரு மார்வன் அவன் தன்  
-       பூதங்கள் கீதங்கள் பாடி  
-வெறுப்பு இன்றி ஞாலத்து மிக்கார்  
-       மேவித் தொழுது உய்ம்மின் நீரே (8)  
-3251. Our god embraces Lakshmi on his chest.  
+३२५१ इऱुक्कुम् इऱै इऱुत्तु उण्ण  
+       ऎव् उलगुक्कुम् तन् मूर्त्ति  
+निऱुत्तिनान् तॆय्वङ्गळ् आग  
+       अत् तॆय्व नायगन् ताने  
+मऱुत् तिरु मार्वन् अवन् तन्  
+       पूदङ्गळ् कीदङ्गळ् पाडि  
+वॆऱुप्पु इण्ड्रि ञालत्तु मिक्कार्  
+       मेवित् तॊऴुदु उय्म्मिन् नीरे (८)  
+३२५१। Our god embraces Lakshmi on his chest.  
 The divine lord, the chief of the gods,  
 gives many duties to other gods.  
 People praise those gods and live on this earth.  
@@ -6151,45 +6152,45 @@ O devotees! Do not hate anyone in this world,
 but worship good people,  
 sing songs and praise the devotees of the lord, and you will be saved.  
 
-3252 மேவித் தொழுது உய்ம்மின் நீர்கள்  
-       வேதப் புனித இருக்கை  
-நாவில் கொண்டு அச்சுதன் தன்னை  
-       ஞானவிதி பிழையாமே  
-பூவில் புகையும் விளக்கும்  
-       சாந்தமும் நீரும் மலிந்து  
-மேவித் தொழும் அடியாரும்  
-       பகவரும் மிக்கது உலகே (9)  
-3252. Many sages and devotees in this world  
+३२५२ मेवित् तॊऴुदु उय्म्मिन् नीर्गळ्  
+       वेदप् पुनिद इरुक्कै  
+नाविल् कॊण्डु अच्चुदन् तन्नै  
+       ज्ञानविधि पिऴैयामे  
+पूविल् पुगैयुम् विळक्कुम्  
+       सान्दमुम् नीरुम् मलिन्दु  
+मेवित् तॊऴुम् अडियारुम्  
+       भगवरुम् मिक्कदु उलगे (९)  
+३२५२। Many sages and devotees in this world  
 worship the god Achudan  
 with flowers, fragrances, lamps, sandal paste  
 and abundant water,  
 reciting the Vedas according to the sastras.  
 Go and worship those devotees and you will be saved.  
 
-3253 மிக்க உலகுகள் தோறும்  
-       மேவி கண்ணன் திருமூர்த்தி  
-நக்க பிரானோடு அயனும்  
-       இந்திரனும் முதலாகத்  
-தொக்க அமரர் குழாங்கள்  
-       எங்கும் பரந்தன தொண்டீர்  
-ஒக்கத் தொழ கிற்றிராகில்  
-       கலியுகம் ஒன்றும் இல்லையே (10)  
-3253. The three gods, Shiva who laughs, Nanmuhan and Indra  
+३२५३ मिक्क उलगुगळ् तोऱुम्  
+       मेवि कण्णन् तिरुमूर्त्ति  
+नक्क पिरानोडु अयनुम्  
+       इन्दिरनुम् मुदलागत्  
+तॊक्क अमरर् कुऴाङ्गळ्  
+       ऎङ्गुम् परन्दन तॊण्डीर्  
+ऒक्कत् तॊऴ किट्रिरागिल्  
+       कलियुगम् ऒण्ड्रुम् इल्लैये (१०)  
+३२५३। The three gods, Shiva who laughs, Nanmuhan and Indra  
 and all other gods come to the world, join together  
 and worship the divine god Kaṇṇan.  
 O devotees, you are everywhere in the world.  
 If you all together worship the god  
 there will be no suffering in this Kaliyuga.  
 
-3254 கலியுகம் ஒன்றும் இன்றிக்கே தன்  
-       அடியார்க்கு அருள்செய்யும்  
-மலியும் சுடர் ஒளி மூர்த்தி  
-       மாயப் பிரான் கண்ணன் தன்னை  
-கலி வயல் தென் நன் குருகூர்க்  
-       காரிமாறன் சடகோபன்  
-ஒலி புகழ் ஆயிரத்து இப் பத்து  
-       உள்ளத்தை மாசு அறுக்குமே (11)  
-3254. Sadagopan, Kari Maaran of southern Thirukuruhur  
+३२५४ कलियुगम् ऒण्ड्रुम् इण्ड्रिक्के तन्  
+       अडियार्क्कु अरुळ्सॆय्युम्  
+मलियुम् सुडर् ऒळि मूर्त्ति  
+       मायप् पिरान् कण्णन् तन्नै  
+कलि वयल् तॆन् नन् गुरुगूर्क्  
+       कारिमाऱन् सडगोबन्  
+ऒलि पुगऴ् आयिरत्तु इप् पत्तु  
+       उळ्ळत्तै मासु अऱुक्कुमे (११)  
+३२५४। Sadagopan, Kari Maaran of southern Thirukuruhur  
 of Pandiyan country that flourishes with fields,  
 composed a thousand famous poems  
 on Maayapiran Kaṇṇan.  
@@ -6199,14 +6200,14 @@ If devotees learn and recite these ten poems,
 the faults in their minds will go away.  
 ----------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (மூன்றாம் திருமொழி, 3255-3265)  
-பிரிவாற்றாமை மேலீட்டால் தலைமகள் காதல் கைமிக்கு மடலூரத் துணிதல்  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३२५५-३२६५)  
+पिरिवाट्रामै मेलीट्टाल् तलैमगळ् कादल् कैमिक्कु मडलूरत् तुणिदल्  
 
-3255 மாசு அறு சோதி என் செய்ய வாய் மணிக்குன்றத்தை  
-ஆசு அறு சீலனை ஆதி மூர்த்தியை நாடியே  
-பாசறவு எய்தி அறிவு இழந்து எனை நாளையம்?  
-ஏசு அறும் ஊரவர் கவ்வை தோழீ என் செய்யுமே? (1)  
-3255. She says, "O my friend,  
+३२५५ मासु अऱु सोदि ऎन् सॆय्य वाय् मणिक्कुण्ड्रत्तै  
+आसु अऱु शीलनै आदि मूर्त्तियै नाडिये  
+पासऱवु ऎय्दि अऱिवु इऴन्दु ऎनै नाळैयम्?  
+एसु अऱुम् ऊरवर् कव्वै तोऴी ऎन् सॆय्युमे? (१)  
+३२५५। She says, "O my friend,  
 he is a faultless light. His mouth is red  
 and he shines like a beautiful sapphire.  
 I love the ancient god and he has a faultless nature.  
@@ -6214,22 +6215,22 @@ I have lost my mind to him. How long I can suffer like this?
 The village will gossip about my love soon.  
 O friend, what can I do?"  
 
-3256 என் செய்யும் ஊரவர் கவ்வை தோழீ இனி நம்மை?  
-என் செய்ய தாமரைக் கண்ணன் என்னை நிறை கொண்டான்  
-முன் செய்ய மாமை இழந்து மேனி மெலிவு எய்தி  
-என் செய்ய வாயும் கருங் கண்ணும் பயப்பு ஊர்ந்தவே (2)  
-3256. She says, "O friend,  
+३२५६ ऎन् सॆय्युम् ऊरवर् कव्वै तोऴी इनि नम्मै?  
+ऎन् सॆय्य तामरैक् कण्णन् ऎन्नै निऱै कॊण्डान्  
+मुन् सॆय्य मामै इऴन्दु मेनि मॆलिवु ऎय्दि  
+ऎन् सॆय्य वायुम् करुङ् गण्णुम् पयप्पु ऊर्न्दवे (२)  
+३२५६। She says, "O friend,  
 what can the gossip of the village do to me?  
 I have lost myself to the love  
 of my dear beautiful lotus-eyed Kaṇṇan.  
 My body has lost its beautiful color, I am weak,  
 and my red mouth and dark eyes have become pale."  
 
-3257 ஊர்ந்த சகடம் உதைத்த பாதத்தன் பேய்முலை  
-சார்ந்து சுவைத்த செவ்வாயன் என்னை நிறை கொண்டான்  
-பேர்ந்தும் பெயர்ந்தும் அவனோடு அன்றி ஓர் சொல் இலேன்  
-தீர்ந்த என் தோழீ என் செய்யும் ஊரவர் கவ்வையே? (3)  
-3257. She says,  
+३२५७ ऊर्न्द सगडम् उदैत्त पादत्तन् पेय्मुलै  
+सार्न्दु सुवैत्त सॆव्वायन् ऎन्नै निऱै कॊण्डान्  
+पेर्न्दुम् पॆयर्न्दुम् अवनोडु अण्ड्रि ओर् सॊल् इलेन्  
+तीर्न्द ऎन् तोऴी ऎन् सॆय्युम् ऊरवर् कव्वैये? (३)  
+३२५७। She says,  
 "O friend, he kicked Sakataasuran  
 when he came in the form of a cart.  
 He drank the milk of the devil Putana.  
@@ -6239,22 +6240,22 @@ and no other words come from my mouth.
 You are my only dear friend.  
 What can the gossip of the village do to me?"  
 
-3258 ஊரவர் கவ்வை எரு இட்டு அன்னை சொல் நீர் படுத்து  
-ஈர நெல் வித்தி முளைத்த நெஞ்சப் பெருஞ் செய்யுள்  
-பேர் அமர் காதல் கடல் புரைய விளைவித்த  
-கார் அமர் மேனி நம் கண்ணன் தோழீ கடியனே (4)  
-3258. She says, "O friend,  
+३२५८ ऊरवर् कव्वै ऎरु इट्टु अन्नै सॊल् नीर् पडुत्तु  
+ईर नॆल् वित्ति मुळैत्त नॆञ्जप् पॆरुञ् जॆय्युळ्  
+पेर् अमर् कादल् कडल् पुरैय विळैवित्त  
+कार् अमर् मेनि नम् कण्णन् तोऴी कडियने (४)  
+३२५८। She says, "O friend,  
 the village gossip is like food for the plant of my love,  
 and mother’s words are like water poured on it to make it thrive.  
 O friend, our Kaṇṇan has a dark cloud-like body.  
 The abundant love that he gave in my heart  
 grows as large as the sea and he is cruel."  
 
-3259 கடியன் கொடியன் நெடிய மால் உலகம் கொண்ட  
-அடியன் அறிவு அரு மேனி மாயத்தன் ஆகிலும்  
-கொடிய என் நெஞ்சம் அவன் என்றே கிடக்கும் எல்லே  
-துடி கொள் இடை மடத் தோழீ அன்னை என் செய்யுமே? (5)  
-3259. She says, "O friend,  
+३२५९ कडियन् कॊडियन् नॆडिय माल् उलगम् कॊण्ड  
+अडियन् अऱिवु अरु मेनि मायत्तन् आगिलुम्  
+कॊडिय ऎन् नॆञ्जम् अवन् ऎण्ड्रे किडक्कुम् ऎल्ले  
+तुडि कॊळ् इडै मडत् तोऴी अन्नै ऎन् सॆय्युमे? (५)  
+३२५९। She says, "O friend,  
 he is the tall Nedumaal, Maayan,  
 and he measured the world with his feet.  
 Even though he is hard and cruel  
@@ -6264,33 +6265,33 @@ O beautiful friend with a waist as thin as a tuṭi drum,
 what do you think our mother will do  
 if she knows about my love?"  
 
-3260 அன்னை என் செய்யில் என்? ஊர் என் சொல்லில் என்? தோழிமீர்  
-என்னை இனி உமக்கு ஆசை இல்லை அகப்பட்டேன்  
-முன்னை அமரர் முதல்வன் வண் துவராபதி  
-மன்னன் மணிவண்ணன் வாசுதேவன் வலையுளே (6)  
-3260. She says,  
+३२६० अन्नै ऎन् सॆय्यिल् ऎन्? ऊर् ऎन् सॊल्लिल् ऎन्? तोऴिमीर्  
+ऎन्नै इनि उमक्कु आसै इल्लै अगप्पट्टेन्  
+मुन्नै अमरर् मुदल्वन् वण् तुवराबदि  
+मन्नन् मणिवण्णन् वासुदेवन् वलैयुळे (६)  
+३२६०। She says,  
 "O friends, what if mother does whatever she wants?  
 What if the village gossips as it wants?  
 Why should it bother me?  
 I am caught in the love net of the sapphire-colored Vasudevan,  
 the king of rich Dwarapuri, the ancient god of gods."  
 
-3261 வலையுள் அகப்படுத்து என்னை நல் நெஞ்சம் கூவிக்கொண்டு  
-அலை கடல் பள்ளி அம்மானை ஆழிப்பிரான் தன்னை  
-கலை கொள் அகல் அல்குல் தோழீ நம் கண்களால் கண்டு  
-தலையில் வணங்கவும் ஆம் கொலோ தையலார் முன்பே? (7)  
-3261. She says, "O beautiful friend! You have wide hips.  
+३२६१ वलैयुळ् अगप्पडुत्तु ऎन्नै नल् नॆञ्जम् कूविक्कॊण्डु  
+अलै कडल् पळ्ळि अम्मानै आऴिप्पिरान् तन्नै  
+कलै कॊळ् अगल् अल्गुल् तोऴी नम् कण्गळाल् कण्डु  
+तलैयिल् वणङ्गवुम् आम् कॊलो तैयलार् मुन्बे? (७)  
+३२६१। She says, "O beautiful friend! You have wide hips.  
 The lord carries a discus in his hands  
 and sleeps on the ocean with rolling waves.  
 My good heart is caught in the love net of the lord.  
 I want to see him and bow at his feet bending my head.  
 If I could worship him like that I would not wo  
 
-3262 பேய் முலை உண்டு சகடம் பாய்ந்து மருது இடை  
-போய் முதல் சாய்த்து புள் வாய் பிளந்து களிறு அட்ட  
-தூ முறுவல் தொண்டைவாய்ப் பிரானை எந் நாள்கொலோ  
-யாம் உறுகின்றது தோழீ அன்னையர் நாணவே? (8)  
-3262. She says, "O friend,  
+३२६२ पेय् मुलै उण्डु सगडम् पाय्न्दु मरुदु इडै  
+पोय् मुदल् साय्त्तु पुळ् वाय् पिळन्दु कळिऱु अट्ट  
+तू मुऱुवल् तॊण्डैवाय्प् पिरानै ऎन् नाळ्गॊलो  
+याम् उऱुगिण्ड्रदु तोऴी अन्नैयर् नाणवे? (८)  
+३२६२। She says, "O friend,  
 our dear lord drank milk from the breasts of the devil Putana.  
 Sakatasuran came as a cart  
 and our god kicked the cart and destroyed him.  
@@ -6301,11 +6302,11 @@ He smiles beautifully with his red mouth that is like a thondai fruit.
 O friend, when will we join him  
 and make our mother ashamed?"  
 
-3263 நாணும் நிறையும் கவர்ந்து என்னை நல் நெஞ்சம் கூவிக்கொண்டு  
-சேண் உயர் வானத்து இருக்கும் தேவ பிரான் தன்னை  
-ஆணை என் தோழீ உலகுதோறு அலர் தூற்றி ஆம்  
-கோணைகள் செய்து குதிரியாய் மடல் ஊர்துமே (9)  
-3263. She says, "O friend,  
+३२६३ नाणुम् निऱैयुम् कवर्न्दु ऎन्नै नल् नॆञ्जम् कूविक्कॊण्डु  
+सेण् उयर् वानत्तु इरुक्कुम् तेव पिरान् तन्नै  
+आणै ऎन् तोऴी उलगुदोऱु अलर् तूट्रि आम्  
+कोणैगळ् सॆय्दु कुदिरियाय् मडल् ऊर्दुमे (९)  
+३२६३। She says, "O friend,  
 the god of the gods took my shyness and chastity  
 and my heart went to him in the distant sky.  
 O friend, this is my promise.  
@@ -6314,21 +6315,21 @@ and let everyone gossip about us.
 I will not worry like other girls  
 and I will ride on a madal, the palm-tree horse."  
 
-3264 யாம் மடல் ஊர்ந்தும் எம் ஆழி அங்கைப் பிரான் உடை  
-தூ மடல் தண் அம் துழாய் மலர் கொண்டு சூடுவோம்  
-ஆம் மடம் இன்றி தெருவுதோறு அயல் தையலார்  
-நா மடங்காப் பழி தூற்றி நாடும் இரைக்கவே (10)  
-3264. She says, "I will ride on a madal  
+३२६४ याम् मडल् ऊर्न्दुम् ऎम् आऴि अङ्गैप् पिरान् उडै  
+तू मडल् तण् अम् तुऴाय् मलर् कॊण्डु सूडुवोम्  
+आम् मडम् इण्ड्रि तॆरुवुदोऱु अयल् तैयलार्  
+ना मडङ्गाप् पऴि तूट्रि नाडुम् इरैक्कवे (१०)  
+३२६४। She says, "I will ride on a madal  
 and wear the cool thulasi garland with its pure petals  
 of the dear god who has a discus in his lovely hands.  
 The women on our streets may say  
 that I have no shame and gossip loudly about me."  
 
-3265 இரைக்கும் கருங் கடல் வண்ணன் கண்ண பிரான் தன்னை  
-விரைக் கொள் பொழில் குருகூர்ச் சடகோபன் சொன்ன  
-நிரைக் கொள் அந்தாதி ஓர் ஆயிரத்துள் இப் பத்தும்  
-உரைக்க வல்லார்க்கு வைகுந்தம் ஆகும் தம் ஊர் எல்லாம் (11)  
-3265. Sadagopan of Thirukuruhur,  
+३२६५ इरैक्कुम् करुङ् गडल् वण्णन् कण्ण पिरान् तन्नै  
+विरैक् कॊळ् पॊऴिल् गुरुगूर्च् चडगोबन् सॊन्न  
+निरैक् कॊळ् अन्दादि ओर् आयिरत्तुळ् इप् पत्तुम्  
+उरैक्क वल्लार्क्कु वैगुन्दम् आगुम् तम् ऊर् ऎल्लाम् (११)  
+३२६५। Sadagopan of Thirukuruhur,  
 surrounded with fragrant groves,  
 composed a thousand andaadi poems  
 praising the dark god Kaṇṇan colored like the roaring ocean.  
@@ -6336,14 +6337,14 @@ If devotees learn and recite these ten poems
 they will truly reach divine Vaikuṇṭam.  
 -------------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (நான்காம் திருமொழி, 3266-3276)  
-தலைவி இரவு நீட்டிப்புக்கு வருந்திக் கூறல்  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (नान्गाम् तिरुमॊऴि, ३२६६-३२७६)  
+तलैवि इरवु नीट्टिप्पुक्कु वरुन्दिक् कूऱल्  
 
-3266 ஊர் எல்லாம் துஞ்சி உலகு எல்லாம் நள் இருள் ஆய்  
-நீர் எல்லாம் தேறி ஓர் நீள் இரவு ஆய் நீண்டதால்  
-பார் எல்லாம் உண்ட நம் பாம்பு அணையான் வாரானால்  
-ஆர் எல்லே வல்வினையேன் ஆவி காப்பார் இனியே? (1)  
-3266. She says, "The whole village is sleeping.  
+३२६६ ऊर् ऎल्लाम् तुञ्जि उलगु ऎल्लाम् नळ् इरुळ् आय्  
+नीर् ऎल्लाम् तेऱि ओर् नीळ् इरवु आय् नीण्डदाल्  
+पार् ऎल्लाम् उण्ड नम् पाम्बु अणैयान् वारानाल्  
+आर् ऎल्ले वल्विनैयेन् आवि काप्पार् इनिये? (१)  
+३२६६। She says, "The whole village is sleeping.  
 The entire world is covered with deep darkness.  
 All the creatures in the ponds have grown calm.  
 The night grows long.  
@@ -6352,22 +6353,22 @@ but that powerful one has not come to see me.
 I have done bad karma.  
 Who will come and save me from the sorrow of love?"  
 
-3267 ஆவி காப்பார் இனி யார்? ஆழ் கடல் மண் விண் மூடி  
-மா விகாரம் ஆய் ஓர் வல் இரவு ஆய் நீண்டதால்  
-காவி சேர் வண்ணன் என் கண்ணனும் வாரானால்  
-பாவியேன் நெஞ்சமே நீயும் பாங்கு அல்லையே. (2)  
-3267. She says, "Who is there to come and save me?  
+३२६७ आवि काप्पार् इनि यार्? आऴ् कडल् मण् विण् मूडि  
+मा विकारम् आय् ओर् वल् इरवु आय् नीण्डदाल्  
+कावि सेर् वण्णन् ऎन् कण्णनुम् वारानाल्  
+पावियेन् नॆञ्जमे नीयुम् पाङ्गु अल्लैये। (२)  
+३२६७। She says, "Who is there to come and save me?  
 Darkness covers the deep ocean, the earth, and sky.  
 It is unremitting and terrible.  
 My Kaṇṇan, colored like a kaavi flower, has not come  
 and I am pitiful.  
 O my heart, you don’t help me either."  
 
-3268 நீயும் பாங்கு அல்லைகாண் நெஞ்சமே நீள் இரவும்  
-ஓயும் பொழுது இன்றி ஊழி ஆய் நீண்டதால்  
-காயும் கடும் சிலை என் காகுத்தன் வாரானால்  
-மாயும் வகை அறியேன் வல்வினையேன் பெண் பிறந்தே (3)  
-3268. She says, "O heart, see, you are no help.  
+३२६८ नीयुम् पाङ्गु अल्लैगाण् नॆञ्जमे नीळ् इरवुम्  
+ओयुम् पॊऴुदु इण्ड्रि ऊऴि आय् नीण्डदाल्  
+कायुम् कडुम् सिलै ऎन् कागुत्तन् वारानाल्  
+मायुम् वगै अऱियेन् वल्विनैयेन् पॆण् पिऱन्दे (३)  
+३२६८। She says, "O heart, see, you are no help.  
 The long night grows longer, like an eon,  
 and dawn does not come.  
 My god Kahusthan carries a strong bow,  
@@ -6377,11 +6378,11 @@ I have done bad karma
 and have been born a woman.  
 I do not even know how to die."  
 
-3269 பெண் பிறந்தார் எய்தும் பெரும் துயர் காண்கிலேன் என்று  
-ஒண் சுடரோன் வாராது ஒளித்தான் இம் மண் அளந்த  
-கண் பெரிய செவ்வாய் எம் கார் ஏறு வாரானால்  
-எண் பெரிய சிந்தை நோய் தீர்ப்பார் ஆர் என்னையே? (4)  
-3269. She says, "The shining sun does not want to rise,  
+३२६९ पॆण् पिऱन्दार् ऎय्दुम् पॆरुम् तुयर् काण्गिलेन् ऎण्ड्रु  
+ऒण् सुडरोन् वारादु ऒळित्तान् इम् मण् अळन्द  
+कण् पॆरिय सॆव्वाय् ऎम् कार् एऱु वारानाल्  
+ऎण् पॆरिय सिन्दै नोय् तीर्प्पार् आर् ऎन्नैये? (४)  
+३२६९। She says, "The shining sun does not want to rise,  
 thinking, ‘I don’t want to see the suffering  
 of women, born on this earth.’  
 Our god has a red mouth and large eyes.  
@@ -6389,54 +6390,54 @@ He is strong as a dark bull and measured the world.
 That beautiful one has not come.  
 Who can take the sorrow and love sickness from my mind?"  
 
-3270 ஆர் என்னை ஆராய்வார்? அன்னையரும் தோழியரும்  
-நீர் என்னே என்னாதே நீள் இரவும் துஞ்சுவரால்  
-கார் அன்ன மேனி நம் கண்ணனும் வாரானால்  
-பேர் என்னை மாயாதால் வல்வினையேன் பின் நின்றே (5)  
-3270. She says, "Who is there to help me?  
+३२७० आर् ऎन्नै आराय्वार्? अन्नैयरुम् तोऴियरुम्  
+नीर् ऎन्ने ऎन्नादे नीळ् इरवुम् तुञ्जुवराल्  
+कार् अन्न मेनि नम् कण्णनुम् वारानाल्  
+पेर् ऎन्नै मायादाल् वल्विनैयेन् पिन् निण्ड्रे (५)  
+३२७०। She says, "Who is there to help me?  
 My mothers and friends do not think of my suffering  
 and sleep through the long night.  
 The cloud-colored Kaṇṇan has not come.  
 I have done bad karma.  
 People may remember my name to gossip about me."  
 
-3271 பின்நின்று காதல் நோய் நெஞ்சம் பெரிது அடுமால்  
-முன்நின்று இரா ஊழி கண் புதைய மூடிற்றால்  
-மன் நின்ற சக்கரத்து எம் மாயவனும் வாரானால்  
-இந் நின்ற நீள் ஆவி காப்பார் ஆர் இவ் இடத்தே? (6)  
-3271. She says, "The love I have for the god  
+३२७१ पिन्निण्ड्रु कादल् नोय् नॆञ्जम् पॆरिदु अडुमाल्  
+मुन्निण्ड्रु इरा ऊऴि कण् पुदैय मूडिट्राल्  
+मन् निण्ड्र सक्करत्तु ऎम् मायवनुम् वारानाल्  
+इन् निण्ड्र नीळ् आवि काप्पार् आर् इव् इडत्ते? (६)  
+३२७१। She says, "The love I have for the god  
 gives terrible pain to my heart.  
 This night that seems like an eon doesn’t let me close my eyes.  
 The eternal god Mayan  
 has not come carrying a discus in his hands.  
 Who can save my life here where the night is so long?"  
 
-3272 காப்பார் ஆர் இவ் இடத்து? கங்கு இருளின் நுண் துளி ஆய்  
-சேண் பாலது ஊழி ஆய் செல்கின்ற கங்குல்வாய்த்  
-தூப் பால வெண் சங்கு சக்கரத்தன் தோன்றானால்  
-தீப் பால வல்வினையேன் தெய்வங்காள் என் செய்கேனோ? (7)  
-3272. She says, "Who will save me now?  
+३२७२ काप्पार् आर् इव् इडत्तु? कङ्गु इरुळिन् नुण् तुळि आय्  
+सेण् पालदु ऊऴि आय् सॆल्गिण्ड्र कङ्गुल्वाय्त्  
+तूप् पाल वॆण् सङ्गु सक्करत्तन् तोण्ड्रानाल्  
+तीप् पाल वल्विनैयेन् तॆय्वङ्गाळ् ऎन् सॆय्गेनो? (७)  
+३२७२। She says, "Who will save me now?  
 The dark night passes slowly like an eon, drop by drop.  
 The god Kaṇṇan carries a pure white conch and a discus  
 and he has not appeared.  
 I have done bad karma. O gods, what can I do?"  
 
-3273 தெய்வங்காள் என் செய்கேன்? ஓர் இரவு ஏழ் ஊழி ஆய்  
-மெய் வந்து நின்று எனது ஆவி மெலிவிக்கும்  
-கைவந்த சக்கரத்து என் கண்ணனும் வாரானால்  
-தைவந்த தண் தென்றல் வெம் சுடரில் தான் அடுமே (8)  
-3273. She says, "O gods, what can I do?  
+३२७३ तॆय्वङ्गाळ् ऎन् सॆय्गेन्? ओर् इरवु एऴ् ऊऴि आय्  
+मॆय् वन्दु निण्ड्रु ऎनदु आवि मॆलिविक्कुम्  
+कैवन्द सक्करत्तु ऎन् कण्णनुम् वारानाल्  
+तैवन्द तण् तॆण्ड्रल् वॆम् सुडरिल् तान् अडुमे (८)  
+३२७३। She says, "O gods, what can I do?  
 The dark night comes truly like seven eons  
 and makes my life weak.  
 My dear god Kaṇṇan who carries a discus in his hand  
 has not come.  
 The cool breeze blows burning me like the hot sun."  
 
-3274 வெம் சுடரில் தான் அடுமால் வீங்கு இருளின் நுண் துளி ஆய்  
-அம் சுடர வெய்யோன் அணி நெடும் தேர் தோன்றாதால்  
-செஞ் சுடர்த் தாமரைக்கண் செல்வனும் வாரானால்  
-நெஞ்சு இடர் தீர்ப்பார் இனி யார்? நின்று உருகுகின்றேனே (9)  
-3274. She says, "O gods, what can I do?  
+३२७४ वॆम् सुडरिल् तान् अडुमाल् वीङ्गु इरुळिन् नुण् तुळि आय्  
+अम् सुडर वॆय्योन् अणि नॆडुम् तेर् तोण्ड्रादाल्  
+सॆञ् जुडर्त् तामरैक्कण् सॆल्वनुम् वारानाल्  
+नॆञ्जु इडर् तीर्प्पार् इनि यार्? निण्ड्रु उरुगुगिण्ड्रेने (९)  
+३२७४। She says, "O gods, what can I do?  
 The long night moves slowly and burns me like hot fire.  
 The sun on his beautiful tall chariot  
 with his hot rays has not yet appeared.  
@@ -6444,21 +6445,21 @@ Our precious lotus-eyed god has not come.
 Who will remove the sorrow of my heart?  
 I am melting away with the sickness of love."  
 
-3275 நின்று உருகுகின்றேனே போல நெடு வானம்  
-சென்று உருகி நுண் துளி ஆய் செல்கின்ற கங்குல்வாய்  
-அன்று ஒருகால் வையம் அளந்த பிரான் வாரான் என்று  
-ஒன்று ஒருகால் சொல்லாது உலகோ உறங்குமே (10)  
-3275. She says, "I am melting away with the pain of my love.  
+३२७५ निण्ड्रु उरुगुगिण्ड्रेने पोल नॆडु वानम्  
+सॆण्ड्रु उरुगि नुण् तुळि आय् सॆल्गिण्ड्र कङ्गुल्वाय्  
+अण्ड्रु ऒरुगाल् वैयम् अळन्द पिरान् वारान् ऎण्ड्रु  
+ऒण्ड्रु ऒरुगाल् सॊल्लादु उलगो उऱङ्गुमे (१०)  
+३२७५। She says, "I am melting away with the pain of my love.  
 Like me, the darkness in the wide sky  
 melts away, drop by drop.  
 The dear god who once measured the world has not come,  
 yet the world sleeps, saying nothing at all about him."  
 
-3276 உறங்குவான் போல் யோகுசெய்த பெருமானை  
-சிறந்த பொழில் சூழ் குருகூர்ச் சடகோபன் சொல்  
-நிறம் கிளர்ந்த அந்தாதி ஆயிரத்துள் இப் பத்தால்  
-இறந்து போய் வைகுந்தம் சேராவாறு எங்ஙனேயோ? (11)  
-3276. Sadagopan of Thirukuruhur  
+३२७६ उऱङ्गुवान् पोल् योगुसॆय्द पॆरुमानै  
+सिऱन्द पॊऴिल् सूऴ् गुरुगूर्च् चडगोबन् सॊल्  
+निऱम् किळर्न्द अन्दादि आयिरत्तुळ् इप् पत्ताल्  
+इऱन्दु पोय् वैगुन्दम् सेरावाऱु ऎङ्ङनेयो? (११)  
+३२७६। Sadagopan of Thirukuruhur  
 surrounded with lovely groves  
 composed a thousand andaadi poems  
 praising the great lord  
@@ -6467,32 +6468,32 @@ If devotees learn and recite these ten pasurams,
 how could they not be able to reach Vaikuṇṭam?  
 ----------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (ஐந்தாம் திருமொழி, 3277-3287)  
-உருவெளிப்பாடு கண்ட தலைவி தாயரை மறுத்துரைத்தல் (திருக்குறுங்குடி)  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३२७७-३२८७)  
+उरुवॆळिप्पाडु कण्ड तलैवि तायरै मऱुत्तुरैत्तल् (तिरुक्कुऱुङ्गुडि)  
 
-3277 எங்ஙனேயோ அன்னைமீர்காள்  
-       என்னை முனிவது நீர்?  
-நங்கள் கோலத் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-சங்கினோடும் நேமியோடும்  
-       தாமரைக் கண்களோடும்  
-செங்கனி வாய் ஒன்றினோடும்  
-       செல்கின்றது என் நெஞ்சமே (1)  
-3277. She says, "O my mother,  
+३२७७ ऎङ्ङनेयो अन्नैमीर्गाळ्  
+       ऎन्नै मुनिवदु नीर्?  
+नङ्गळ् कोलत् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+सङ्गिनोडुम् नेमियोडुम्  
+       तामरैक् कण्गळोडुम्  
+सॆङ्गनि वाय् ऒण्ड्रिनोडुम्  
+       सॆल्गिण्ड्रदु ऎन् नॆञ्जमे (१)  
+३२७७। She says, "O my mother,  
 why are you upset with me?  
 Ever since I saw Nambi, the god of Thirukurungudi,  
 my heart thinks only of his conch,  
 discus, lotus eyes and his sweet red fruit-like mouth."  
 
-3278 என் நெஞ்சினால் நோக்கிக் காணீர்  
-       என்னை முனியாதே  
-தென் நன் சோலைத் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-மின்னு நூலும் குண்டலமும்  
-       மார்பில் திருமறுவும்  
-மன்னு பூணும் நான்கு தோளும்  
-       வந்து எங்கும் நின்றிடுமே (2)  
-3278. She says, "O mothers, don’t be upset with me.  
+३२७८ ऎन् नॆञ्जिनाल् नोक्किक् काणीर्  
+       ऎन्नै मुनियादे  
+तॆन् नन् सोलैत् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+मिन्नु नूलुम् कुण्डलमुम्  
+       मार्बिल् तिरुमऱुवुम्  
+मन्नु पूणुम् नान्गु तोळुम्  
+       वन्दु ऎङ्गुम् निण्ड्रिडुमे (२)  
+३२७८। She says, "O mothers, don’t be upset with me.  
 Try to understand what I think.  
 Ever since I saw Nambi, the god of Thirikurungudi  
 in the southern land surrounded with beautiful groves,  
@@ -6501,15 +6502,15 @@ his earrings, Lakshmi on his chest,
 his lovely ornaments and his four arms,  
 and I see only them everywhere."  
 
-3279 நின்றிடும் திசைக்கும் நையும் என்று  
-       அன்னையரும் முனிதிர்  
-குன்ற மாடத் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-வென்றி வில்லும் தண்டும் வாளும்  
-       சக்கரமும் சங்கமும்  
-நின்று தோன்றிக் கண்ணுள் நீங்கா  
-       நெஞ்சுள்ளும் நீங்காவே (3)  
-3279. She says, "O mothers, you are upset with me and say,  
+३२७९ निण्ड्रिडुम् तिसैक्कुम् नैयुम् ऎण्ड्रु  
+       अन्नैयरुम् मुनिदिर्  
+कुण्ड्र माडत् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+वॆण्ड्रि विल्लुम् तण्डुम् वाळुम्  
+       सक्करमुम् सङ्गमुम्  
+निण्ड्रु तोण्ड्रिक् कण्णुळ् नीङ्गा  
+       नॆञ्जुळ्ळुम् नीङ्गावे (३)  
+३२७९। She says, "O mothers, you are upset with me and say,  
 ‘You stand around not knowing what to do.  
 You get confused sometimes.  
 You worry a lot about something.’  
@@ -6519,15 +6520,15 @@ his victorious bow, club, sword, discus and conch
 appear before my eyes and don’t disappear,  
 and they stay in my heart and don’t go away."  
 
-3280 நீங்க நில்லா கண்ண நீர்கள் என்று  
-       அன்னையரும் முனிதிர்  
-தேன் கொள் சோலைத் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-பூந் தண் மாலைத் தண் துழாயும்  
-       பொன் முடியும் வடிவும்  
-பாங்கு தோன்றும் பட்டும் நாணும்  
-       பாவியேன் பக்கத்தவே (4)  
-3280. She says, "O mothers, you all get upset  
+३२८० नीङ्ग निल्ला कण्ण नीर्गळ् ऎण्ड्रु  
+       अन्नैयरुम् मुनिदिर्  
+तेन् कॊळ् सोलैत् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+पून् दण् मालैत् तण् तुऴायुम्  
+       पॊन् मुडियुम् वडिवुम्  
+पाङ्गु तोण्ड्रुम् पट्टुम् नाणुम्  
+       पावियेन् पक्कत्तवे (४)  
+३२८०। She says, "O mothers, you all get upset  
 because my eyes don’t stop shedding tears.  
 Ever since I saw Nambi of Thirukurungudi  
 surrounded with groves that drip with honey,  
@@ -6535,30 +6536,30 @@ his cool thulasi garland, his golden crown, his lovely form,
 his matchless silk clothes and the sacred thread on his chest  
 are always before me. I am pitiful."  
 
-3281 பக்கம் நோக்கி நிற்கும் நையும் என்று  
-       அன்னையரும் முனிதிர்  
-தக்க கீர்த்தித் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-தொக்க சோதித் தொண்டை வாயும்  
-       நீண்ட புருவங்களும்  
-தக்க தாமரைக் கண்ணும் பாவியேன்  
-       ஆவியின் மேலனவே (5)  
-3281. She says, "O mothers, you say to me  
+३२८१ पक्कम् नोक्कि निऱ्‌कुम् नैयुम् ऎण्ड्रु  
+       अन्नैयरुम् मुनिदिर्  
+तक्क कीर्त्तित् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+तॊक्क सोदित् तॊण्डै वायुम्  
+       नीण्ड पुरुवङ्गळुम्  
+तक्क तामरैक् कण्णुम् पावियेन्  
+       आवियिन् मेलनवे (५)  
+३२८१। She says, "O mothers, you say to me  
 ‘You look everywhere for him and are worried and upset.’  
 Ever since I saw the marvelous and famous Nambi of Thirukurungudi,  
 his bright form, his sweet mouth that is like a thondai fruit,  
 his long eyebrows and his perfect lotus eyes, have taken over my life.  
 I am a pitiful indeed."  
 
-3282 மேலும் வன் பழி நம் குடிக்கு இவள் என்று  
-       அன்னை காணக்கொடாள்  
-சோலை சூழ் தண் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-கோல நீள் கொடி மூக்கும் தாமரைக்  
-       கண்ணும் கனி வாயும்  
-நீல மேனியும் நான்கு தோளும்  
-       என் நெஞ்சம் நிறைந்தனவே (6)  
-3282. She says, "My mother thinks,  
+३२८२ मेलुम् वन् पऴि नम् कुडिक्कु इवळ् ऎण्ड्रु  
+       अन्नै काणक्कॊडाळ्  
+सोलै सूऴ् तण् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+कोल नीळ् कॊडि मूक्कुम् तामरैक्  
+       कण्णुम् कनि वायुम्  
+नील मेनियुम् नान्गु तोळुम्  
+       ऎन् नॆञ्जम् निऱैन्दनवे (६)  
+३२८२। She says, "My mother thinks,  
 ‘This girl will bring disgrace to our family’  
 and doesn’t let me go see him.  
 Ever since I saw Nambi of Thirukurungudi  
@@ -6566,15 +6567,15 @@ surrounded with groves,
 his lovely long nose, lotus eyes, sweet fruit-like mouth,  
 his blue body and four arms have filled my heart with love."  
 
-3283 நிறைந்த வன் பழி நம் குடிக்கு இவள் என்று  
-       அன்னை காணக்கொடாள்  
-சிறந்த கீர்த்தித் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-நிறைந்த சோதி வெள்ளம் சூழ்ந்த  
-       நீண்ட பொன் மேனியொடும்  
-நிறைந்து என் உள்ளே நின்றொழிந்தான்  
-       நேமி அங்கை உளதே (7)  
-3283. She says, "Mother thinks,  
+३२८३ निऱैन्द वन् पऴि नम् कुडिक्कु इवळ् ऎण्ड्रु  
+       अन्नै काणक्कॊडाळ्  
+सिऱन्द कीर्त्तित् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+निऱैन्द सोदि वॆळ्ळम् सूऴ्न्द  
+       नीण्ड पॊन् मेनियॊडुम्  
+निऱैन्दु ऎन् उळ्ळे निण्ड्रॊऴिन्दान्  
+       नेमि अङ्गै उळदे (७)  
+३२८३। She says, "Mother thinks,  
 ‘My daughter will bring disgrace to our family’  
 and doesn’t allow me to go and see him.  
 Ever since I saw Nambi of famous Thirukurungudi  
@@ -6582,15 +6583,15 @@ he, with a discus in his hands,
 has entered my heart with his tall golden body  
 shining like a flood of light."  
 
-3284 கையுள் நன் முகம் வைக்கும் நையும் என்று  
-       அன்னையரும் முனிதிர்  
-மை கொள் மாடத் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-செய்ய தாமரைக் கண்ணும் அல்குலும்  
-       சிற்றிடையும் வடிவும்  
-மொய்ய நீள் குழல் தாழ்ந்த தோள்களும்  
-       பாவியேன் முன் நிற்குமே (8)  
-3284. She says, "O mothers, you are upset  
+३२८४ कैयुळ् नन् मुगम् वैक्कुम् नैयुम् ऎण्ड्रु  
+       अन्नैयरुम् मुनिदिर्  
+मै कॊळ् माडत् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+सॆय्य तामरैक् कण्णुम् अल्गुलुम्  
+       सिट्रिडैयुम् वडिवुम्  
+मॊय्य नीळ् कुऴल् ताऴ्न्द तोळ्गळुम्  
+       पावियेन् मुन् निऱ्‌कुमे (८)  
+३२८४। She says, "O mothers, you are upset  
 thinking that I am suffering  
 as I cover my lovely face with my hands.  
 Ever since I saw Nambi of Thirukurungudi  
@@ -6598,15 +6599,15 @@ filled with palaces on which the clouds float,
 his beautiful lotus eyes, his small waist, his lovely form,  
 his thick long hair and his long arms appear in front of me. I am pitiful."  
 
-3285 முன் நின்றாய் என்று தோழிமார்களும்  
-       அன்னையரும் முனிதிர்  
-மன்னு மாடத் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-சென்னி நீள் முடி ஆதி ஆய  
-       உலப்பு இல் அணிகலத்தன்  
-கன்னல் பால் அமுது ஆகி வந்து என்  
-       நெஞ்சம் கழியானே (9)  
-3285. She says, "O friends and mothers,  
+३२८५ मुन् निण्ड्राय् ऎण्ड्रु तोऴिमार्गळुम्  
+       अन्नैयरुम् मुनिदिर्  
+मन्नु माडत् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+सॆन्नि नीळ् मुडि आदि आय  
+       उलप्पु इल् अणिगलत्तन्  
+कन्नल् पाल् अमुदु आगि वन्दु ऎन्  
+       नॆञ्जम् कऴियाने (९)  
+३२८५। She says, "O friends and mothers,  
 you are upset with me  
 and say that I don’t listen to you and do as I want.  
 Ever since I saw Nambi of Thirukurungudi  
@@ -6616,16 +6617,16 @@ and adorned with ornaments with precious jewels
 has entered my heart as if he were sugarcane juice,  
 milk and nectar and doesn’t leave."  
 
-3286 கழிய மிக்கது ஓர் காதலள் இவள் என்று  
-       அன்னை காணக்கொடாள்  
-வழு இல் கீர்த்தித் திருக்குறுங்குடி  
-       நம்பியை நான் கண்டபின்  
-குழுமித் தேவர் குழாங்கள் கைதொழச்  
-       சோதி வெள்ளத்தினுள்ளே  
-எழுவது ஓர் உரு என் நெஞ்சுள் எழும்  
-       ஆர்க்கும் அறிவு அரிதே (10)  
+३२८६ कऴिय मिक्कदु ओर् कादलळ् इवळ् ऎण्ड्रु  
+       अन्नै काणक्कॊडाळ्  
+वऴु इल् कीर्त्तित् तिरुक्कुऱुङ्गुडि  
+       नम्बियै नान् कण्डबिन्  
+कुऴुमित् तेवर् कुऴाङ्गळ् कैदॊऴच्  
+       चोदि वॆळ्ळत्तिनुळ्ळे  
+ऎऴुवदु ओर् उरु ऎन् नॆञ्जुळ् ऎऴुम्  
+       आर्क्कुम् अऱिवु अरिदे (१०)  
 
-3286. She says, "Mother thinks,  
+३२८६। She says, "Mother thinks,  
 ‘My daughter is utterly in love with him’  
 and doesn’t allow me to go see my beloved.  
 The Nambi of Thirukurungudi has faultless fame.  
@@ -6634,15 +6635,15 @@ As soon as I saw him, he entered my heart,
 surrounded by a flood-like crowd of gods worshipping him.  
 I don’t know how it happened—my heart rejoices."  
 
-3287 அறிவு அரிய பிரானை  
-       ஆழி அங்கையனையே அலற்றி  
-நறிய நன் மலர் நாடி  
-       நன் குருகூர்ச் சடகோபன் சொன்ன  
-குறி கொள் ஆயிரத்துள் இவை பத்தும்  
-       திருக்குறுங்குடி அதன்மேல்  
-அறியக் கற்று வல்லார்  
-       வைட்டவர் ஆழ் கடல் ஞாலத்துள்ளே (11)  
-3287. Sadagopan of rich Thirukurungur,  
+३२८७ अऱिवु अरिय पिरानै  
+       आऴि अङ्गैयनैये अलट्रि  
+नऱिय नन् मलर् नाडि  
+       नन् गुरुगूर्च् चडगोबन् सॊन्न  
+कुऱि कॊळ् आयिरत्तुळ् इवै पत्तुम्  
+       तिरुक्कुऱुङ्गुडि अदन्मेल्  
+अऱियक् कट्रु वल्लार्  
+       वैट्टवर् आऴ् कडल् ञालत्तुळ्ळे (११)  
+३२८७। Sadagopan of rich Thirukurungur,  
 composed a thousand pasurams on the lord  
 whom no one has seen  
 and worshiped him with fresh fragrant flowers,  
@@ -6653,18 +6654,18 @@ they will be true Vaishnavas
 in this world surrounded by deep oceans.  
 -------------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (ஆறாம் திருமொழி, 3288-3298)  
-தலைவன் தன்மைகளைத் தன்னதாகக்கொண்டு பேசும் தலைவியின் நிலைகண்ட தாய் ‘ஆவேசமோ என்று நொந்து கூறல்  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (आऱाम् तिरुमॊऴि, ३२८८-३२९८)  
+तलैवन् तन्मैगळैत् तन्नदागक्कॊण्डु पेसुम् तलैवियिन् निलैगण्ड ताय् ‘आवेसमो ऎण्ड्रु नॊन्दु कूऱल्  
 
-3288 கடல் ஞாலம் செய்தேனும் யானே என்னும்  
-       கடல் ஞாலம் ஆவேனும் யானே என்னும்  
-கடல் ஞாலம் கொண்டேனும் யானே என்னும்  
-       கடல் ஞாலம் கீண்டேனும் யானே என்னும்  
-கடல் ஞாலம் உண்டேனும் யானே என்னும்  
-       கடல் ஞாலம் ஈசன் வந்து ஏறக்கொலோ?  
-கடல் ஞாலத்தீர்க்கு இவை என் சொல்லுகேன்  
-       கடல் ஞாலத்து என் மகள் கற்கின்றவே? (1)  
-3288. My daughter says,  
+३२८८ कडल् ञालम् सॆय्देनुम् याने ऎन्नुम्  
+       कडल् ञालम् आवेनुम् याने ऎन्नुम्  
+कडल् ञालम् कॊण्डेनुम् याने ऎन्नुम्  
+       कडल् ञालम् कीण्डेनुम् याने ऎन्नुम्  
+कडल् ञालम् उण्डेनुम् याने ऎन्नुम्  
+       कडल् ञालम् ईसन् वन्दु एऱक्कॊलो?  
+कडल् ञालत्तीर्क्कु इवै ऎन् सॊल्लुगेन्  
+       कडल् ञालत्तु ऎन् मगळ् कऱ्‌किण्ड्रवे? (१)  
+३२८८। My daughter says,  
 "I am the creator of the world surrounded with oceans.  
 I am the world surrounded by oceans.  
 I am the ruler of the world surrounded by oceans.  
@@ -6676,15 +6677,15 @@ What can I tell to the people of this world
 surrounded by oceans?  
 I do not understand all that she learnt in this world.  
 
-3289 கற்கும் கல்விக்கு எல்லை இலனே என்னும்  
-       கற்கும் கல்வி ஆவேனும் யானே என்னும்  
-கற்கும் கல்விச் செய்வேனும் யானே என்னும்  
-       கற்கும் கல்வி தீர்ப்பேனும் யானே என்னும்  
-கற்கும் கல்விச் சாரமும் யானே என்னும்  
-       கற்கும் கல்வி நாதன் வந்து ஏறக்கொலோ?  
-கற்கும் கல்வியீர்க்கு இவை என் சொல்லுகேன்  
-       கற்கும் கல்வி என் மகள் காண்கின்றவே? (2)  
-3289. My daughter says,  
+३२८९ कऱ्‌कुम् कल्विक्कु ऎल्लै इलने ऎन्नुम्  
+       कऱ्‌कुम् कल्वि आवेनुम् याने ऎन्नुम्  
+कऱ्‌कुम् कल्विच् चॆय्वेनुम् याने ऎन्नुम्  
+       कऱ्‌कुम् कल्वि तीर्प्पेनुम् याने ऎन्नुम्  
+कऱ्‌कुम् कल्विच् चारमुम् याने ऎन्नुम्  
+       कऱ्‌कुम् कल्वि नादन् वन्दु एऱक्कॊलो?  
+कऱ्‌कुम् कल्वियीर्क्कु इवै ऎन् सॊल्लुगेन्  
+       कऱ्‌कुम् कल्वि ऎन् मगळ् काण्गिण्ड्रवे? (२)  
+३२८९। My daughter says,  
 "There is no limit to what I have learned.  
 Whatever people learn is from me.  
 I have created learning for people.  
@@ -6695,15 +6696,15 @@ and that is why she is saying all these things.
 What can I tell the learned ones  
 about all these things my daughter says of learning?  
 
-3290 காண்கின்ற நிலம் எல்லாம் யானே என்னும்  
-       காண்கின்ற விசும்பு எல்லாம் யானே என்னும்  
-காண்கின்ற வெம் தீ எல்லாம் யானே என்னும்  
-       காண்கின்ற இக் காற்று எல்லாம் யானே என்னும்  
-காண்கின்ற கடல் எல்லாம் யானே என்னும்  
-       காண்கின்ற கடல்வண்ணன் ஏறக்கொலோ?  
-காண்கின்ற உலகத்தீர்க்கு என் சொல்லுகேன்  
-       காண்கின்ற என் காரிகை செய்கின்றவே? (3)  
-3290. My daughter says,  
+३२९० काण्गिण्ड्र निलम् ऎल्लाम् याने ऎन्नुम्  
+       काण्गिण्ड्र विसुम्बु ऎल्लाम् याने ऎन्नुम्  
+काण्गिण्ड्र वॆम् ती ऎल्लाम् याने ऎन्नुम्  
+       काण्गिण्ड्र इक् काट्रु ऎल्लाम् याने ऎन्नुम्  
+काण्गिण्ड्र कडल् ऎल्लाम् याने ऎन्नुम्  
+       काण्गिण्ड्र कडल्वण्णन् एऱक्कॊलो?  
+काण्गिण्ड्र उलगत्तीर्क्कु ऎन् सॊल्लुगेन्  
+       काण्गिण्ड्र ऎन् कारिगै सॆय्गिण्ड्रवे? (३)  
+३२९०। My daughter says,  
 "I am all the lands that can be seen.  
 I am the wide sky that people see.  
 I am the fire that people feel.  
@@ -6715,15 +6716,15 @@ What can I tell the people of the world
 if they ask me why she is saying these things?  
 What my daughter says is strange."  
 
-3291 செய்கின்ற கிதி எல்லாம் யானே என்னும்  
-       செய்வான் நின்றனகளும் யானே என்னும்  
-செய்து முன் இறந்தவும் யானே என்னும்  
-       செய்கைப் பயன் உண்பேனும் யானே என்னும்  
-       செய்வார்களைச் செய்வேனும் யானே என்னும்  
-       செய்ய கமலக்கண்ணன் ஏறக்கொலோ?  
-செய்ய உலகத்தீர்க்கு இவை என் சொல்லுகேன்  
-       செய்ய கனி வாய் இள மான் திறத்தே? (4)  
-3291. My daughter says,  
+३२९१ सॆय्गिण्ड्र किदि ऎल्लाम् याने ऎन्नुम्  
+       सॆय्वान् निण्ड्रनगळुम् याने ऎन्नुम्  
+सॆय्दु मुन् इऱन्दवुम् याने ऎन्नुम्  
+       सॆय्गैप् पयन् उण्बेनुम् याने ऎन्नुम्  
+       सॆय्वार्गळैच् चॆय्वेनुम् याने ऎन्नुम्  
+       सॆय्य कमलक्कण्णन् एऱक्कॊलो?  
+सॆय्य उलगत्तीर्क्कु इवै ऎन् सॊल्लुगेन्  
+       सॆय्य कनि वाय् इळ मान् तिऱत्ते? (४)  
+३२९१। My daughter says,  
 "I am all the acts that happen now.  
 I am the acts that will happen in the future.  
 I am the acts that have been done and are in the past.  
@@ -6735,15 +6736,15 @@ Her mouth is sweet as a fruit and she is as gentle as a young doe.
 What can I tell the good people of this world  
 about my daughter?  
 
-3292 திறம்பாமல் மண் காக்கின்றேன் யானே என்னும்  
-       திறம்பாமல் மலை எடுத்தேனே என்னும்  
-திறம்பாமல் அசுரரைக் கொன்றேனே என்னும்  
-       திறம் காட்டி அன்று ஐவரைக் காத்தேனே என்னும்  
-திறம்பாமல் கடல் கடைந்தேனே என்னும்  
-       திறம்பாத கடல்வண்ணன் ஏறக்கொலோ?  
-திறம்பாத உலகத்தீர்க்கு என் சொல்லுகேன்  
-       திறம்பாது என் திருமகள் எய்தினவே? (5)  
-3292. My daughter says,  
+३२९२ तिऱम्बामल् मण् काक्किण्ड्रेन् याने ऎन्नुम्  
+       तिऱम्बामल् मलै ऎडुत्तेने ऎन्नुम्  
+तिऱम्बामल् असुररैक् कॊण्ड्रेने ऎन्नुम्  
+       तिऱम् काट्टि अण्ड्रु ऐवरैक् कात्तेने ऎन्नुम्  
+तिऱम्बामल् कडल् कडैन्देने ऎन्नुम्  
+       तिऱम्बाद कडल्वण्णन् एऱक्कॊलो?  
+तिऱम्बाद उलगत्तीर्क्कु ऎन् सॊल्लुगेन्  
+       तिऱम्बादु ऎन् तिरुमगळ् ऎय्दिनवे? (५)  
+३२९२। My daughter says,  
 "I am protecting everyone and keep them on the right path.  
 I carried Govardhana mountain without effort.  
 I killed all the Asurans without exception.  
@@ -6753,15 +6754,15 @@ Has the ocean-colored lord entered her heart?
 What can I tell the people of this world about my daughter?  
 How can I tell all these things that my daughter tells me?  
 
-3293 இன வேய் மலை ஏந்தினேன் யானே என்னும்  
-       இன ஏறுகள் செற்றேனும் யானே என்னும்  
-இன ஆன் கன்று மேய்த்தேனும் யானே என்னும்  
-       இன ஆ நிரை காத்தேனும் யானே என்னும்  
-இன ஆயர் தலைவனும் யானே என்னும்  
-       இனத் தேவர் தலைவன் வந்து ஏறக்கொலோ?  
-இன வேல் கண் நல்லீர்க்கு இவை என் சொல்லுகேன்  
-       இன வேல் கண்ணி என் மகள் உற்றனவே? (6)  
-3293. My daughter says,  
+३२९३ इन वेय् मलै एन्दिनेन् याने ऎन्नुम्  
+       इन एऱुगळ् सॆट्रेनुम् याने ऎन्नुम्  
+इन आन् कण्ड्रु मेय्त्तेनुम् याने ऎन्नुम्  
+       इन आ निरै कात्तेनुम् याने ऎन्नुम्  
+इन आयर् तलैवनुम् याने ऎन्नुम्  
+       इनत् तेवर् तलैवन् वन्दु एऱक्कॊलो?  
+इन वेल् कण् नल्लीर्क्कु इवै ऎन् सॊल्लुगेन्  
+       इन वेल् कण्णि ऎन् मगळ् उट्रनवे? (६)  
+३२९३। My daughter says,  
 "I carried bamboo-covered Govardhana mountain.  
 I conquered seven bulls.  
 I graze the calves and milk-giving cows.  
@@ -6771,15 +6772,15 @@ I am worried that the god of gods has entered her heart.
 What can I tell her friends whose eyes are as sharp as spears  
 about my young daughter?  
 
-3294 உற்றார்கள் எனக்கு இல்லை யாரும் என்னும்  
-       உற்றார்கள் எனக்கு இங்கு எல்லாரும் என்னும்  
-உற்றார்களைச் செய்வேனும் யானே என்னும்  
-       உற்றார்களை அழிப்பேனும் யானே என்னும்  
-உற்றார்களுக்கு உற்றேனும் யானே என்னும்  
-       உற்றார் இலி மாயன் வந்து ஏறக்கொலோ?  
-உற்றீர்கட்கு என் சொல்லிச் சொல்லுகேன் யான்  
-       உற்று என்னுடைப் பேதை உரைக்கின்றவே? (7)  
-3294. My daughter says,  
+३२९४ उट्रार्गळ् ऎनक्कु इल्लै यारुम् ऎन्नुम्  
+       उट्रार्गळ् ऎनक्कु इङ्गु ऎल्लारुम् ऎन्नुम्  
+उट्रार्गळैच् चॆय्वेनुम् याने ऎन्नुम्  
+       उट्रार्गळै अऴिप्पेनुम् याने ऎन्नुम्  
+उट्रार्गळुक्कु उट्रेनुम् याने ऎन्नुम्  
+       उट्रार् इलि मायन् वन्दु एऱक्कॊलो?  
+उट्रीर्गट्कु ऎन् सॊल्लिच् चॊल्लुगेन् यान्  
+       उट्रु ऎन्नुडैप् पेदै उरैक्किण्ड्रवे? (७)  
+३२९४। My daughter says,  
 "I have no relatives.  
 All in this world are my relatives.  
 I create relationships.  
@@ -6790,15 +6791,15 @@ has entered my daughter’s heart.
 What can I tell our relatives  
 about what my innocent daughter says?  
 
-3295 உரைக்கின்ற முக்கண் பிரான் யானே என்னும்  
-       உரைக்கின்ற திசைமுகன் யானே என்னும்  
-உரைக்கின்ற அமரரும் யானே என்னும்  
-       உரைக்கின்ற அமரர் கோன் யானே என்னும்  
-உரைக்கின்ற முனிவரும் யானே என்னும்  
-       உரைக்கின்ற முகில்வண்ணன் ஏறக்கொலோ?  
-உரைக்கின்ற உலகத்தீர்க்கு என் சொல்லுகேன்  
-       உரைக்கின்ற என் கோமள ஒண் கொடிக்கே? (8)  
-3295. My daughter says,  
+३२९५ उरैक्किण्ड्र मुक्कण् पिरान् याने ऎन्नुम्  
+       उरैक्किण्ड्र तिसैमुगन् याने ऎन्नुम्  
+उरैक्किण्ड्र अमररुम् याने ऎन्नुम्  
+       उरैक्किण्ड्र अमरर् कोन् याने ऎन्नुम्  
+उरैक्किण्ड्र मुनिवरुम् याने ऎन्नुम्  
+       उरैक्किण्ड्र मुगिल्वण्णन् एऱक्कॊलो?  
+उरैक्किण्ड्र उलगत्तीर्क्कु ऎन् सॊल्लुगेन्  
+       उरैक्किण्ड्र ऎन् कोमळ ऒण् कॊडिक्के? (८)  
+३२९५। My daughter says,  
 "I am the three-eyed lord and all the sastras praise me.  
 I am the four-headed Nanmuhan and I am praised by all.  
 I am the king of the gods and all praise me.  
@@ -6808,15 +6809,15 @@ praised by all has entered my daughter’s heart.
 What can I tell this world that says these things,  
 gossiping about my beautiful vine-like daughter?  
 
-3296 கொடிய வினை யாதும் இலனே என்னும்  
-       கொடிய வினை ஆவேனும் யானே என்னும்  
-கொடிய வினை செய்வேனும் யானே என்னும்  
-       கொடிய வினை தீர்ப்பேனும் யானே என்னும்  
-கொடியான் இலங்கை செற்றேனே என்னும்  
-       கொடிய புள் உடையவன் ஏறக்கொலோ?  
-கொடிய உலகத்தீர்க்கு இவை என் சொல்லுகேன்  
-       கொடியேன் கொடி என் மகள் கோலங்களே? (9)  
-3296. My daughter says,  
+३२९६ कॊडिय विनै यादुम् इलने ऎन्नुम्  
+       कॊडिय विनै आवेनुम् याने ऎन्नुम्  
+कॊडिय विनै सॆय्वेनुम् याने ऎन्नुम्  
+       कॊडिय विनै तीर्प्पेनुम् याने ऎन्नुम्  
+कॊडियान् इलङ्गै सॆट्रेने ऎन्नुम्  
+       कॊडिय पुळ् उडैयवन् एऱक्कॊलो?  
+कॊडिय उलगत्तीर्क्कु इवै ऎन् सॊल्लुगेन्  
+       कॊडियेन् कॊडि ऎन् मगळ् कोलङ्गळे? (९)  
+३२९६। My daughter says,  
 "I have no bad karma.  
 I myself am bad karma.  
 I give bad karma to all.  
@@ -6828,15 +6829,15 @@ I am a pitiful mother.
 What can I tell the gossiping people of this world  
 about my beautiful vine-like daughter?  
 
-3297 கோலம் கொள் சுவர்க்கமும் யானே என்னும்  
-       கோலம் இல் நரகமும் யானே என்னும்  
-கோலம் திகழ் மோக்கமும் யானே என்னும்  
-       கோலம் கொள் உயிர்களும் யானே என்னும்  
-கோலம் கொள் தனிமுதல் யானே என்னும்  
-       கோலம் கொள் முகில்வண்ணன் ஏறக்கொலோ?  
-கோலம் கொள் உலகத்தீர்க்கு என் சொல்லுகேன்  
-       கோலம் திகழ் கோதை என் கூந்தலுக்கே? (10)  
-3297. My daughter says,  
+३२९७ कोलम् कॊळ् सुवर्क्कमुम् याने ऎन्नुम्  
+       कोलम् इल् नरगमुम् याने ऎन्नुम्  
+कोलम् तिगऴ् मोक्कमुम् याने ऎन्नुम्  
+       कोलम् कॊळ् उयिर्गळुम् याने ऎन्नुम्  
+कोलम् कॊळ् तनिमुदल् याने ऎन्नुम्  
+       कोलम् कॊळ् मुगिल्वण्णन् एऱक्कॊलो?  
+कोलम् कॊळ् उलगत्तीर्क्कु ऎन् सॊल्लुगेन्  
+       कोलम् तिगऴ् कोदै ऎन् कून्दलुक्के? (१०)  
+३२९७। My daughter says,  
 "I am beautiful paradise.  
 I am evil hell.  
 I am the highest shining heaven.  
@@ -6848,15 +6849,15 @@ My daughter has beautiful hair decorated with flowers.
 What can I tell the people who adorn themselves with jewels  
 and come and gossip?  
 
-3298 கூந்தல் மலர் மங்கைக்கும் மண் மடந்தைக்கும்  
-       குல ஆயர் கொழுந்துக்கும் கேள்வன் தன்னை  
-வாய்ந்த வழுதி வள நாடன் மன்னு  
-       குருகூர்ச் சடகோபன் குற்றேவல் செய்து  
-ஆய்ந்த தமிழ் மாலை ஆயிரத்துள்  
-       இவையும் ஓர் பத்தும் வல்லார் உலகில்  
-ஏந்து பெரும் செல்வத்தராய்த் திருமால்  
-       அடியார்களைப் பூசிக்க நோற்றார்களே (11)  
-3298. Sadagopan of Thirukuruhur  
+३२९८ कून्दल् मलर् मङ्गैक्कुम् मण् मडन्दैक्कुम्  
+       कुल आयर् कॊऴुन्दुक्कुम् केळ्वन् तन्नै  
+वाय्न्द वऴुदि वळ नाडन् मन्नु  
+       गुरुगूर्च् चडगोबन् कुट्रेवल् सॆय्दु  
+आय्न्द तमिऴ् मालै आयिरत्तुळ्  
+       इवैयुम् ओर् पत्तुम् वल्लार् उलगिल्  
+एन्दु पॆरुम् सॆल्वत्तराय्त् तिरुमाल्  
+       अडियार्गळैप् पूसिक्क नोट्रार्गळे (११)  
+३२९८। Sadagopan of Thirukuruhur  
 of the flourishing famous Pandian country  
 composed a thousand pasurams on the beloved of Lakshmi,  
 the earth goddess on a lotus,  
@@ -6867,16 +6868,16 @@ and they will be the devotees of Thirumaal
 and have the fortune of worshiping his feet.  
 -------------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (ஏழாம் திருமொழி, 3299-3309)  
-வானமாமலைப் பெருமானது அருளை வேண்டல் (சிரீவரமங்கலம்)  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (एऴाम् तिरुमॊऴि, ३२९९-३३०९)  
+वानमामलैप् पॆरुमानदु अरुळै वेण्डल् (सिरीवरमङ्गलम्)  
 
-3299 நோற்ற நோன்பு இலேன் நுண் அறிவு இலேன் ஆகிலும்  
-       இனி உன்னை விட்டு ஒன்றும்  
-ஆற்ற கிற்கின்றிலேன் அரவின் அணை அம்மானே  
-சேற்றுத் தாமரை செந்நெல் ஊடு மலர்  
-       சிரீவரமங்கல நகர்  
-வீற்றிருந்த எந்தாய் உனக்கு மிகை அல்லேன் அங்கே (1)  
-3299. However much tapas I may have done,  
+३२९९ नोट्र नोन्बु इलेन् नुण् अऱिवु इलेन् आगिलुम्  
+       इनि उन्नै विट्टु ऒण्ड्रुम्  
+आट्र किऱ्‌किण्ड्रिलेन् अरविन् अणै अम्माने  
+सेट्रुत् तामरै सॆन्नॆल् ऊडु मलर्  
+       सिरीवरमङ्गल नगर्  
+वीट्रिरुन्द ऎन्दाय् उनक्कु मिगै अल्लेन् अङ्गे (१)  
+३२९९। However much tapas I may have done,  
 I am not wise and will never be able  
 to do anything without your grace.  
 My father, our god, sleeps on a snake bed  
@@ -6885,13 +6886,13 @@ where lotuses grow in the mud among the good paddy.
 O lord, you are the highest god  
 and there is no god higher than you.  
 
-3300 அங்குற்றேன் அல்லேன் இங்குற்றேன் அல்லேன் உன்னைக்  
-       காணும் அவாவில் வீழ்ந்து நான்  
-எங்குற்றேனும் அல்லேன் இலங்கை செற்ற அம்மானே  
-திங்கள் சேர் மணி மாடம் நீடு  
-       சிரீவரமங்கலநகர் உறை  
-சங்கு சக்கரத்தாய் தமியேனுக்கு அருளாயே (2)  
-3300. I can do nothing there,  
+३३०० अङ्गुट्रेन् अल्लेन् इङ्गुट्रेन् अल्लेन् उन्नैक्  
+       काणुम् अवाविल् वीऴ्न्दु नान्  
+ऎङ्गुट्रेनुम् अल्लेन् इलङ्गै सॆट्र अम्माने  
+तिङ्गळ् सेर् मणि माडम् नीडु  
+       सिरीवरमङ्गलनगर् उऱै  
+सङ्गु सक्करत्ताय् तमियेनुक्कु अरुळाये (२)  
+३३००। I can do nothing there,  
 I can do nothing here.  
 My only desire is to see you,  
 but there is nowhere I can have that.  
@@ -6901,13 +6902,13 @@ where tall palaces studded with jewels touch the moon.
 You carry a conch and a discus.  
 I am lonely. Give me your grace.  
 
-3301 கருளப் புள் கொடி சக்கரப் படை வான நாட என்  
-       கார்முகில் வண்ணா  
-பொருள் அல்லாத என்னைப் பொருளாக்கி அடிமைகொண்டாய்  
-தெருள் கொள் நான்மறை வல்லவர் பலர் வாழ்  
-       சிரீவரமங்கலநகர்க்கு  
-அருள்செய்து அங்கு இருந்தாய் அறியேன் ஒரு கைம்மாறே (3)  
-3301. You are the dark cloud-colored god of the sky.  
+३३०१ करुळप् पुळ् कॊडि सक्करप् पडै वान नाड ऎन्  
+       कार्मुगिल् वण्णा  
+पॊरुळ् अल्लाद ऎन्नैप् पॊरुळाक्कि अडिमैगॊण्डाय्  
+तॆरुळ् कॊळ् नान्मऱै वल्लवर् पलर् वाऴ्  
+       सिरीवरमङ्गलनगर्क्कु  
+अरुळ्सॆय्दु अङ्गु इरुन्दाय् अऱियेन् ऒरु कैम्माऱे (३)  
+३३०१। You are the dark cloud-colored god of the sky.  
 You carry an eagle flag and a discus.  
 You abide giving your grace  
 in Srivaramangalam where many Brahmins live  
@@ -6915,13 +6916,13 @@ who know well all the four Vedas that give wisdom.
 I was useless and you made me valuable and your slave.  
 I do not know what I can give to repay you.  
 
-3302 மாறு சேர் படை நூற்றுவர் மங்க ஓர் ஐவர்க்கு ஆய் அன்று  
-       மாயப்போர் பண்ணி  
-நீறு செய்த எந்தாய் நிலம் கீண்ட அம்மானே  
-தேறு ஞானத்தர் வேத வேள்வி அறாச்  
-       சிரீவரமங்கலநகர்  
-ஏறி வீற்றிருந்தாய் உன்னை எங்கு எய்தக் கூவுவனே? (4)  
-3302. You, my father fought a magical war with the hundred Kauravas  
+३३०२ माऱु सेर् पडै नूट्रुवर् मङ्ग ओर् ऐवर्क्कु आय् अण्ड्रु  
+       मायप्पोर् पण्णि  
+नीऱु सॆय्द ऎन्दाय् निलम् कीण्ड अम्माने  
+तेऱु ज्ञानत्तर् वेद वेळ्वि अऱाच्  
+       चिरीवरमङ्गलनगर्  
+एऱि वीट्रिरुन्दाय् उन्नै ऎङ्गु ऎय्दक् कूवुवने? (४)  
+३३०२। You, my father fought a magical war with the hundred Kauravas  
 when they opposed the Pandavas and you destroyed them.  
 You split open the earth and brought forth the earth goddess.  
 You abide in Srivaramangalam  
@@ -6929,13 +6930,13 @@ where wise men know the Vedas well
 and recite them always and perform sacrifices.  
 I want to reach you. How can I call you to come?  
 
-3303 எய்தக் கூவுதல் ஆவதே எனக்கு? எவ்வ  
-       தெவ்வத்துள் ஆயுமாய் நின்று  
-கைதவங்கள் செய்யும் கரு மேனி அம்மானே  
-செய்த வேள்வியர் வையத்தேவர் அறாச்  
-       சிரீவரமங்கலநகர்  
-கைதொழ இருந்தாய் அது நானும் கண்டேனே (5)  
-3303. You have a dark-colored body.  
+३३०३ ऎय्दक् कूवुदल् आवदे ऎनक्कु? ऎव्व  
+       तॆव्वत्तुळ् आयुमाय् निण्ड्रु  
+कैदवङ्गळ् सॆय्युम् करु मेनि अम्माने  
+सॆय्द वेळ्वियर् वैयत्तेवर् अऱाच्  
+       चिरीवरमङ्गलनगर्  
+कैदॊऴ इरुन्दाय् अदु नानुम् कण्डेने (५)  
+३३०३। You have a dark-colored body.  
 You enter among all your enemies as one of them  
 and perform many tricks to conquer them.  
 Your devotees fold their hands and worship you  
@@ -6943,13 +6944,13 @@ in Srivaramangalam where Brahmins always perform sacrifices—
 that is something I myself have seen.  
 How can I call and reach you?  
 
-3304 ஏனம் ஆய் நிலம் கீண்ட என் அப்பனே கண்ணா என்றும்  
-       என்னை ஆளுடை  
-வான நாயகனே மணி மாணிக்கச்சுடரே  
-தேன மாம்பொழில் தண் சிரீவரமங்கலத்தவர்  
-       கைதொழ உறை  
-வானமாமலையே அடியேன் தொழ வந்தருளே (6)  
-3304. O my father, you took the form of a boar  
+३३०४ एनम् आय् निलम् कीण्ड ऎन् अप्पने कण्णा ऎण्ड्रुम्  
+       ऎन्नै आळुडै  
+वान नायगने मणि माणिक्कच्चुडरे  
+तेन माम्बॊऴिल् तण् सिरीवरमङ्गलत्तवर्  
+       कैदॊऴ उऱै  
+वानमामलैये अडियेन् तॊऴ वन्दरुळे (६)  
+३३०४। O my father, you took the form of a boar  
 and split open the earth.  
 O Kaṇṇan, you are my lord of the sky and you rule me always.  
 You are a jewel that shines like a diamond.  
@@ -6959,13 +6960,13 @@ where your devotees fold their hands and worship you.
 Come and give your grace to me, your slave,  
 so I may worship you.  
 
-3305 வந்தருளி என் நெஞ்சு இடம் கொண்ட வானவர்  
-       கொழுந்தே உலகுக்கு ஓர்  
-முந்தைத் தாய் தந்தையே முழு ஏழ் உலகும் உண்டாய்  
-செந்தொழிலவர் வேத வேள்வி அறாச்  
-       சிரீவரமங்கலநகர்  
-அந்தம் இல் புகழாய் அடியேனை அகற்றேலே (7)  
-3305. You are the tender shoot of the gods in the sky  
+३३०५ वन्दरुळि ऎन् नॆञ्जु इडम् कॊण्ड वानवर्  
+       कॊऴुन्दे उलगुक्कु ओर्  
+मुन्दैत् ताय् तन्दैये मुऴु एऴ् उलगुम् उण्डाय्  
+सॆन्दॊऴिलवर् वेद वेळ्वि अऱाच्  
+       चिरीवरमङ्गलनगर्  
+अन्दम् इल् पुगऴाय् अडियेनै अगट्रेले (७)  
+३३०५। You are the tender shoot of the gods in the sky  
 and you came and entered my heart and gave me your grace.  
 You are the first father and mother of this world.  
 You swallowed all the seven worlds.  
@@ -6974,13 +6975,13 @@ where Brahmins whose work is pure
 recite the Vedas and perform unceasing sacrifices.  
 You have endless fame. Do not leave me.  
 
-3306 அகற்ற நீ வைத்த மாய வல் ஐம்புலன்களாம் அவை  
-       நன்கு அறிந்தனன்  
-அகற்றி என்னையும் நீ அரும் சேற்றில் வீழ்த்திகண்டாய்  
-பகல் கதிர் மணி மாடம் நீடு சிரீவரமங்கை  
-       வாணனே என்றும்  
-புகற்கு அரிய எந்தாய் புள்ளின் வாய் பிளந்தானே (8)  
-3306. I know well  
+३३०६ अगट्र नी वैत्त माय वल् ऐम्बुलन्गळाम् अवै  
+       नन्गु अऱिन्दनन्  
+अगट्रि ऎन्नैयुम् नी अरुम् सेट्रिल् वीऴ्त्तिगण्डाय्  
+पगल् गतिर् मणि माडम् नीडु सिरीवरमङ्गै  
+       वाणने ऎण्ड्रुम्  
+पुगऱ्‌कु अरिय ऎन्दाय् पुळ्ळिन् वाय् पिळन्दाने (८)  
+३३०६। I know well  
 that you have created the five illusionary senses  
 that keep people away from you.  
 I am worried that you will keep me away from you  
@@ -6992,13 +6993,13 @@ O father, no one can tell who you are, ever.
 When an Asuran came in the form of a bird  
 you split open his mouth.  
 
-3307 புள்ளின் வாய் பிளந்தாய் மருது இடை போயினாய்  
-       எருது ஏழ் அடர்த்த என்  
-கள்ள மாயவனே கருமாணிக்கச் சுடரே  
-தெள்ளியார் திரு நான்மறைகள் வல்லார் மலி  
-       தண் சிரீவரமங்கை  
-யுள் இருந்த எந்தாய் அருளாய் உய்யுமாறு எனக்கே (9)  
-3307. You split open the mouth of the Asuran.  
+३३०७ पुळ्ळिन् वाय् पिळन्दाय् मरुदु इडै पोयिनाय्  
+       ऎरुदु एऴ् अडर्त्त ऎन्  
+कळ्ळ मायवने करुमाणिक्कच् चुडरे  
+तॆळ्ळियार् तिरु नान्मऱैगळ् वल्लार् मलि  
+       तण् सिरीवरमङ्गै  
+युळ् इरुन्द ऎन्दाय् अरुळाय् उय्युमाऱु ऎनक्के (९)  
+३३०७। You split open the mouth of the Asuran.  
 You entered between the two marudam trees  
 and destroyed the Asurans.  
 You are a thief and you conquered the seven bulls.  
@@ -7008,13 +7009,13 @@ where wise Brahmins live,
 knowing well and reciting the divine four Vedas.  
 Give me your grace so I may survive.  
 
-3308 ஆறு எனக்கு நின் பாதமே சரண் ஆகத் தந்தொழிந்தாய்  
-       உனக்கு ஓர்கைம்  
-மாறு நான் ஒன்று இலேன் எனது ஆவியும் உனதே  
-சேறு கொள் கரும்பும் பெரும் செந்நெலும் மலி  
-       தண் சிரீவரமங்கை  
-நாறு பூந் தண் துழாய் முடியாய் தெய்வ நாயகனே (10)  
-3308. Whom do I have except you?  
+३३०८ आऱु ऎनक्कु निन् पादमे सरण् आगत् तन्दॊऴिन्दाय्  
+       उनक्कु ओर्गैम्  
+माऱु नान् ऒण्ड्रु इलेन् ऎनदु आवियुम् उनदे  
+सेऱु कॊळ् करुम्बुम् पॆरुम् सॆन्नॆलुम् मलि  
+       तण् सिरीवरमङ्गै  
+नाऱु पून् दण् तुऴाय् मुडियाय् तॆय्व नायगने (१०)  
+३३०८। Whom do I have except you?  
 You gave me your feet as refuge  
 but I have nothing to give back to you.  
 My life is yours.  
@@ -7023,15 +7024,15 @@ and stay in flourishing Srivaramangai
 where abundant good paddy and sugarcane grow in the earth.  
 You are the divine lord of the gods.  
 
-3309 தெய்வ நாயகன் நாரணன்  
-       திரிவிக்கிரமன் அடி இணைமிசை  
-கொய் கொள் பூம் பொழில்  
-       சூழ் குருகூர்ச் சடகோபன்  
-செய்த ஆயிரத்துள் இவை தண்  
-       சிரீவரமங்கை மேய பத்துடன்  
-வைகல் பாட வல்லார்  
-       வானோர்க்கு ஆரா அமுதே (11)  
-3309. Sadagopan of Thirukuruhur  
+३३०९ तॆय्व नायगन् नारणन्  
+       तिरिविक्किरमन् अडि इणैमिसै  
+कॊय् कॊळ् पूम् पॊऴिल्  
+       सूऴ् गुरुगूर्च् चडगोबन्  
+सॆय्द आयिरत्तुळ् इवै तण्  
+       सिरीवरमङ्गै मेय पत्तुडन्  
+वैगल् पाड वल्लार्  
+       वानोर्क्कु आरा अमुदे (११)  
+३३०९। Sadagopan of Thirukuruhur  
 surrounded by groves blossoming with bunches of flowers  
 composed a thousand poems  
 worshiping the feet of the divine god of the gods,  
@@ -7040,15 +7041,15 @@ If devotees recite these ten pasurams every day
 they will become sweet nectar for the gods in the sky.  
 -----------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (எட்டாம் திருமொழி, 3310-3320)  
-ஆராவமுதாழ்வார் பேறுகளைத் தாராமையால் ஆழ்வார் தீராத  
-ஆசையுடன் ஆற்றாமைபேசி அலமருதல் (திருக்குடந்தை)  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३३१०-३३२०)  
+आरावमुदाऴ्वार् पेऱुगळैत् तारामैयाल् आऴ्वार् तीराद  
+आसैयुडन् आट्रामैबेसि अलमरुदल् (तिरुक्कुडन्दै)  
 
-3310 ஆரா அமுதே அடியேன் உடலம் நின்பால் அன்பாயே  
-நீராய் அலைந்து கரைய உருக்குகின்ற நெடுமாலே  
-சீர் ஆர் செந்நெல் கவரி வீசும் செழு நீர்த் திருக்குடந்தை  
-ஏர் ஆர் கோலம் திகழக் கிடந்தாய் கண்டேன் எம்மானே (1)  
-3310. You are my sweet nectar.  
+३३१० आरा अमुदे अडियेन् उडलम् निन्बाल् अन्बाये  
+नीराय् अलैन्दु करैय उरुक्कुगिण्ड्र नॆडुमाले  
+सीर् आर् सॆन्नॆल् कवरि वीसुम् सॆऴु नीर्त् तिरुक्कुडन्दै  
+एर् आर् कोलम् तिगऴक् किडन्दाय् कण्डेन् ऎम्माने (१)  
+३३१०। You are my sweet nectar.  
 O Neḍumaal, this slave’s body dissolves, melts  
 and becomes water with love for you.  
 You shine and sleep beautifully on the water in Thirukuḍandai  
@@ -7056,11 +7057,11 @@ surrounded by the ocean with rolling waves,
 where rich paddy plants blow in the wind like fans.  
 O my father, I saw you there.  
 
-3311 எம்மானே என் வெள்ளை மூர்த்தி என்னை ஆள்வானே  
-எம் மா உருவும் வேண்டும் ஆற்றால் ஆவாய் எழில் ஏறே  
-செம் மா கமலம் செழு நீர்மிசைக்கண் மலரும் திருக்குடந்தை  
-அம் மா மலர்க்கண் வளர்கின்றானே என் நான் செய்கேனே (2)  
-3311. You are my lord.  
+३३११ ऎम्माने ऎन् वॆळ्ळै मूर्त्ति ऎन्नै आळ्वाने  
+ऎम् मा उरुवुम् वेण्डुम् आट्राल् आवाय् ऎऴिल् एऱे  
+सॆम् मा कमलम् सॆऴु नीर्मिसैक्कण् मलरुम् तिरुक्कुडन्दै  
+अम् मा मलर्क्कण् वळर्गिण्ड्राने ऎन् नान् सॆय्गेने (२)  
+३३११। You are my lord.  
 Your form is pure. You rule me.  
 You take any form you please.  
 You are a beautiful bull.  
@@ -7069,11 +7070,11 @@ and sleep in divine Kuḍandai
 where lovely red lotuses bloom on fertile water.  
 What should I do?  
 
-3312 என் நான் செய்கேன்? யாரே களைகண்? என்னை என் செய்கின்றாய்?  
-உன்னால் அல்லால் யாவராலும் ஒன்றும் குறை வேண்டேன்  
-கன் ஆர் மதிள் சூழ் குடந்தைக் கிடந்தாய் அடியேன் அரு வாழ்நாள்  
-செல் நாள் எந் நாள்? அந் நாள் உன தாள் பிடித்தே செலக்காணே (3)  
-3312. What can I do in this life?  
+३३१२ ऎन् नान् सॆय्गेन्? यारे कळैगण्? ऎन्नै ऎन् सॆय्गिण्ड्राय्?  
+उन्नाल् अल्लाल् यावरालुम् ऒण्ड्रुम् कुऱै वेण्डेन्  
+कन् आर् मदिळ् सूऴ् कुडन्दैक् किडन्दाय् अडियेन् अरु वाऴ्नाळ्  
+सॆल् नाळ् ऎन् नाळ्? अन् नाळ् उन ताळ् पिडित्ते सॆलक्काणे (३)  
+३३१२। What can I do in this life?  
 Who is my refuge?  
 What do you want to do with me?  
 I will not go to anyone to tell my troubles except you.  
@@ -7081,11 +7082,11 @@ You sleep in Thirukuḍandai surrounded by strong walls.
 Give me your grace so that I, your slave,  
 may spend all the days of my life worshiping your feet.  
 
-3313 செலக் காண்கிற்பார் காணும் அளவும் செல்லும் கீர்த்தியாய்  
-உலப்பு இலானே எல்லா உலகும் உடைய ஒரு மூர்த்தி  
-நலத்தால் மிக்கார் குடந்தைக் கிடந்தாய் உன்னைக் காண்பான் நான்  
-அலப்பு ஆய் ஆகாசத்தை நோக்கி அழுவன் தொழுவனே (4)  
-3313. No one can describe you.  
+३३१३ सॆलक् काण्गिऱ्‌पार् काणुम् अळवुम् सॆल्लुम् कीर्त्तियाय्  
+उलप्पु इलाने ऎल्ला उलगुम् उडैय ऒरु मूर्त्ति  
+नलत्ताल् मिक्कार् कुडन्दैक् किडन्दाय् उन्नैक् काण्बान् नान्  
+अलप्पु आय् आगासत्तै नोक्कि अऴुवन् तॊऴुवने (४)  
+३३१३। No one can describe you.  
 You have fame that no one can measure.  
 There is no end for you.  
 O god, you are the lord and you own all the world.  
@@ -7093,11 +7094,11 @@ You sleep on the water in Kuḍandai
 where many good people live.  
 Yearning to see you, I look at the sky, cry and worship you.  
 
-3314 அழுவன் தொழுவன் ஆடிக் காண்பான் பாடி அலற்றுவன்  
-தழு வல்வினையால் பக்கம் நோக்கி நாணிக் கவிழ்ந்திருப்பன்  
-செழு ஒண் பழனக் குடந்தைக் கிடந்தாய் செந்தாமரைக் கண்ணா  
-தொழுவனேனை உன தாள் சேரும்வகையே சூழ்கண்டாய் (5)  
-3314. I cry for you. I worship you.  
+३३१४ अऴुवन् तॊऴुवन् आडिक् काण्बान् पाडि अलट्रुवन्  
+तऴु वल्विनैयाल् पक्कम् नोक्कि नाणिक् कविऴ्न्दिरुप्पन्  
+सॆऴु ऒण् पऴनक् कुडन्दैक् किडन्दाय् सॆन्दामरैक् कण्णा  
+तॊऴुवनेनै उन ताळ् सेरुंवगैये सूऴ्गण्डाय् (५)  
+३३१४। I cry for you. I worship you.  
 I dance for you, prattle and sing.  
 I look for you and want to embrace you.  
 I feel shy and lower my head.  
@@ -7106,11 +7107,11 @@ and you sleep on the water in Kuḍandai
 surrounded by beautiful flourishing fields.  
 Show me how I, your slave, can join your feet.  
 
-3315 சூழ்கண்டாய் என் தொல்லை வினையை அறுத்து உன் அடிசேரும்  
-ஊழ் கண்டிருந்தே தூராக்குழி தூர்த்து எனை நாள் அகன்று இருப்பன்?  
-வாழ் தொல் புகழார் குடந்தைக் கிடந்தாய் வானோர் கோமானே  
-யாழின் இசையே அமுதே அறிவின் பயனே அரிஏறே (6)  
-3315. Even though I know how to remove  
+३३१५ सूऴ्गण्डाय् ऎन् तॊल्लै विनैयै अऱुत्तु उन् अडिसेरुम्  
+ऊऴ् कण्डिरुन्दे तूराक्कुऴि तूर्त्तु ऎनै नाळ् अगण्ड्रु इरुप्पन्?  
+वाऴ् तॊल् पुगऴार् कुडन्दैक् किडन्दाय् वानोर् कोमाने  
+याऴिन् इसैये अमुदे अऱिविन् पयने अरिएऱे (६)  
+३३१५। Even though I know how to remove  
 the fruits of my bad karma  
 I am still involved in the enjoyment of my five senses.  
 How long can I live like this away from you?  
@@ -7120,11 +7121,11 @@ You are the sweet music of the yazh. You are nectar.
 You are the fruit of knowledge.  
 You are the lion.  
 
-3316 அரிஏறே என் அம் பொன் சுடரே செங்கண் கரு முகிலே  
-எரி ஏய் பவளக் குன்றே நால் தோள் எந்தாய் உனது அருளே  
-பிரியா அடிமை என்னைக் கொண்டாய் குடந்தைத் திருமாலே  
-தரியேன் இனி உன் சரணம் தந்து என் சன்மம் களையாயே (7)  
-3316. You are a lion king.  
+३३१६ अरिएऱे ऎन् अम् पॊन् सुडरे सॆङ्गण् करु मुगिले  
+ऎरि एय् पवळक् कुण्ड्रे नाल् तोळ् ऎन्दाय् उनदु अरुळे  
+पिरिया अडिमै ऎन्नैक् कॊण्डाय् कुडन्दैत् तिरुमाले  
+तरियेन् इनि उन् सरणम् तन्दु ऎन् सन्मम् कळैयाये (७)  
+३३१६। You are a lion king.  
 You are a shining golden light.  
 You are a dark cloud that has lovely eyes.  
 You are a coral mountain as bright as fire.  
@@ -7135,11 +7136,11 @@ You are Thirumaal of divine Kuḍandai.
 I cannot stay in this world anymore.  
 Give me your grace so I will not be born again on this earth.  
 
-3317 களைவாய் துன்பம் களையாது ஒழிவாய் களைகண் மற்று இலேன்  
-வளை வாய் நேமிப் படையாய் குடந்தைக் கிடந்த மா மாயா  
-தளரா உடலம் எனது ஆவி சரிந்து போம்போது  
-இளையாது உன தாள் ஒருங்கப் பிடித்துப் போத இசை நீயே (8)  
-3317. I do not know whether you wish  
+३३१७ कळैवाय् तुन्बम् कळैयादु ऒऴिवाय् कळैगण् मट्रु इलेन्  
+वळै वाय् नेमिप् पडैयाय् कुडन्दैक् किडन्द मा माया  
+तळरा उडलम् ऎनदु आवि सरिन्दु पोम्बोदु  
+इळैयादु उन ताळ् ऒरुङ्गप् पिडित्तुप् पोद इसै नीये (८)  
+३३१७। I do not know whether you wish  
 to remove my sorrow or not,  
 but I have no refuge except you.  
 You carry a round discus.  
@@ -7148,11 +7149,11 @@ When my body grows weak and life leaves my body,
 give me your grace so I may hold to your feet strongly,  
 not leaving them and joining you.  
 
-3318 இசைவித்து என்னை உன் தாள் இணைக்கீழ் இருத்தும் அம்மானே  
-அசைவு இல் அமரர் தலைவர் தலைவா ஆதிப் பெரு மூர்த்தி  
-திசை வில் வீசும் செழு மா மணிகள் சேரும் திருக்குடந்தை  
-அசைவு இல் உலகம் பரவக் கிடந்தாய் காண வாராயே (9)  
-3318. O my father,  
+३३१८ इसैवित्तु ऎन्नै उन् ताळ् इणैक्कीऴ् इरुत्तुम् अम्माने  
+असैवु इल् अमरर् तलैवर् तलैवा आदिप् पॆरु मूर्त्ति  
+तिसै विल् वीसुम् सॆऴु मा मणिगळ् सेरुम् तिरुक्कुडन्दै  
+असैवु इल् उलगम् परवक् किडन्दाय् काण वाराये (९)  
+३३१८। O my father,  
 you make me accept you and keep me beneath your feet.  
 You are the lord of the everlasting gods.  
 You are the great ancient god.  
@@ -7162,11 +7163,11 @@ and leave them on the banks of the river.
 You sleep as the everlasting world praises you.  
 Come to me, I yearn to see you.  
 
-3319 வாரா அருவாய் வரும் என் மாயா மாயா மூர்த்தியாய்  
-ஆரா அமுதாய் அடியேன் ஆவி அகமே தித்திப்பாய்  
-தீரா வினைகள் தீர என்னை ஆண்டாய் திருக்குடந்தை  
-ஊராய் உனக்கு ஆள் பட்டும் அடியேன் இன்னம் உழல்வேனோ? (10)  
-3319. You are my Maayan.  
+३३१९ वारा अरुवाय् वरुम् ऎन् माया माया मूर्त्तियाय्  
+आरा अमुदाय् अडियेन् आवि अगमे तित्तिप्पाय्  
+तीरा विनैगळ् तीर ऎन्नै आण्डाय् तिरुक्कुडन्दै  
+ऊराय् उनक्कु आळ् पट्टुम् अडियेन् इन्नम् उऴल्वेनो? (१०)  
+३३१९। You are my Maayan.  
 You are formless and Maayan. Come to me.  
 You are divine nectar.  
 I am your slave and you live sweetly in my mind.  
@@ -7176,11 +7177,11 @@ You are the god of divine Kuḍandai.
 You made me your devotee.  
 How can I suffer anymore in this world?  
 
-3320 உழலை என்பில் பேய்ச்சி முலையூடு அவளை உயிர் உண்டான்  
-கழல்கள் அவையே சரண் ஆகக் கொண்ட குருகூர்ச் சடகோபன்  
-குழலின் மலியச் சொன்ன ஓர் ஆயிரத்துள் இப் பத்தும்  
-மழலை தீர வல்லார் காமர் மான் ஏய் நோக்கியர்க்கே (11)  
-3320. Sadagopan of Kuruhur  
+३३२० उऴलै ऎन्बिल् पेय्च्चि मुलैयूडु अवळै उयिर् उण्डान्  
+कऴल्गळ् अवैये सरण् आगक् कॊण्ड गुरुगूर्च् चडगोबन्  
+कुऴलिन् मलियच् चॊन्न ओर् आयिरत्तुळ् इप् पत्तुम्  
+मऴलै तीर वल्लार् कामर् मान् एय् नोक्कियर्क्के (११)  
+३३२०। Sadagopan of Kuruhur  
 took refuge in the feet of the lord  
 and composed a thousand pasurams  
 sweeter than the music of the flute  
@@ -7190,14 +7191,14 @@ they will be like Kama, the god of love,
 for women with lovely doe-like eyes.  
 ---------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (ஒன்பதாம் திருமொழி, 3321-3331)  
-திருவல்லவாழ் செல்லுதலைத் தடுக்கும் தோழியர்க்குத் தலைவி கூறுதல் (திருவல்லவாழ்)  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३३२१-३३३१)  
+तिरुवल्लवाऴ् सॆल्लुदलैत् तडुक्कुम् तोऴियर्क्कुत् तलैवि कूऱुदल् (तिरुवल्लवाऴ्)  
 
-3321 மான் ஏய் நோக்கு நல்லீர் வைகலும் வினையேன் மெலிய  
-வான் ஆர் வண் கமுகும் மது மல்லிகை கமழும்  
-தேன் ஆர் சோலைகள் சூழ் திருவல்லவாழ் உறையும்  
-கோனாரை அடியேன் அடிகூடுவது என்றுகொலோ? (1)  
-3321. She says, "O friends, you have beautiful doe-like eyes.  
+३३२१ मान् एय् नोक्कु नल्लीर् वैगलुम् विनैयेन् मॆलिय  
+वान् आर् वण् कमुगुम् मदु मल्लिगै कमऴुम्  
+तेन् आर् सोलैगळ् सूऴ् तिरुवल्लवाऴ् उऱैयुम्  
+कोनारै अडियेन् अडिगूडुवदु ऎण्ड्रुगॊलो? (१)  
+३३२१। She says, "O friends, you have beautiful doe-like eyes.  
 The god, our king, stays in Thiruvallam  
 surrounded by groves where the fragrance of jasmine spreads  
 and kamugu trees grow tall and touch the sky,  
@@ -7205,12 +7206,12 @@ flourishing and dripping with honey.
 Every day I suffer with my bad karma.  
 When will the day come when this slave of the god can join him?"  
 
-3322 என்று கொல் தோழிமீர்காள் எம்மை நீர் நலிந்து என் செய்தீரோ?  
-பொன்திகழ் புன்னை மகிழ் புது மாதவி மீது அணவி  
-தென்றல் மணம் கமழும் திருவல்லவாழ் நகருள்  
-நின்ற பிரான் அடிநீறு அடியோம் கொண்டு சூடுவதே? (2)  
+३३२२ ऎण्ड्रु कॊल् तोऴिमीर्गाळ् ऎम्मै नीर् नलिन्दु ऎन् सॆय्दीरो?  
+पॊन्दिगऴ् पुन्नै मगिऴ् पुदु मादवि मीदु अणवि  
+तॆण्ड्रल् मणम् कमऴुम् तिरुवल्लवाऴ् नगरुळ्  
+निण्ड्र पिरान् अडिनीऱु अडियोम् कॊण्डु सूडुवदे? (२)  
 
-3322. She says, "O friends, what do you get by making me suffer?  
+३३२२। She says, "O friends, what do you get by making me suffer?  
 He is our dear lord of Thiruvallam  
 where the breeze blows through fresh madhavi plants,  
 mahizham flowers and punnai trees  
@@ -7218,11 +7219,11 @@ that bloom with golden blossoms and spread their fragrance.
 When will the day come when I, a slave of the lord,  
 can worship the feet of the dear lord?"  
 
-3323 சூடு மலர்க்குழலீர் துயராட்டியேன் மெலிய  
-பாடும் நல் வேத ஒலி பரவைத் திரை போல் முழங்க  
-மாடு உயர்ந்து ஓமப் புகை கமழும் தண் திருவல்லவாழ்  
-நீடு உறைகின்ற பிரான் கழல் காண்டும்கொல் நிச்சலுமே? (3)  
-3323. She says, "O friends, you wear flowers in your hair.  
+३३२३ सूडु मलर्क्कुऴलीर् तुयराट्टियेन् मॆलिय  
+पाडुम् नल् वेद ऒलि परवैत् तिरै पोल् मुऴङ्ग  
+माडु उयर्न्दु ओमप् पुगै कमऴुम् तण् तिरुवल्लवाऴ्  
+नीडु उऱैगिण्ड्र पिरान् कऴल् काण्डुम्गॊल् निच्चलुमे? (३)  
+३३२३। She says, "O friends, you wear flowers in your hair.  
 He is our dear lord of flourishing Thiruvallam  
 where the divine sound of the Vedas  
 spreads like the roaring of the waves of the ocean  
@@ -7231,11 +7232,11 @@ When will I be able to see every day
 the feet ornamented with anklets of the dear god?  
 I grow weak longing to see him."  
 
-3324 நிச்சலும் தோழிமீர்காள் எம்மை நீர் நலிந்து என் செய்தீரோ?  
-பச்சிலை நீள் கமுகும் பலவும் தெங்கும் வாழைகளும்  
-மச்சு அணி மாடங்கள் மீது அணவும் தண் திருவல்லவாழ்  
-நச்சு அரவின் அணைமேல் நம்பிரானது நல் நலமே (4)  
-3324. She says, "O friends, why do you make me worry every day?  
+३३२४ निच्चलुम् तोऴिमीर्गाळ् ऎम्मै नीर् नलिन्दु ऎन् सॆय्दीरो?  
+पच्चिलै नीळ् कमुगुम् पलवुम् तॆङ्गुम् वाऴैगळुम्  
+मच्चु अणि माडङ्गळ् मीदु अणवुम् तण् तिरुवल्लवाऴ्  
+नच्चु अरविन् अणैमेल् नम्बिरानदु नल् नलमे (४)  
+३३२४। She says, "O friends, why do you make me worry every day?  
 What do you get from that?  
 My god sleeps on the river on the snake bed  
 in Thiruvallam where tall kamugu trees with long green leaves,  
@@ -7243,11 +7244,11 @@ jack trees, coconut trees and banana trees
 grow tall and touch the tops of the palaces with porches.  
 My life is with that dear god."  
 
-3325 நல் நலத் தோழிமீர்காள் நல்ல அந்தணர் வேள்விப் புகை  
-மைந் நலம் கொண்டு உயர் விண் மறைக்கும் தண் திருவல்லவாழ்  
-கன்னல் அம் கட்டி தன்னை கனியை இன் அமுதம் தன்னை  
-என் நலம் கொள் சுடரை என்றுகொல் கண்கள் காண்பதுவே? (5)  
-3325. She says, "O friends,  
+३३२५ नल् नलत् तोऴिमीर्गाळ् नल्ल अन्दणर् वेळ्विप् पुगै  
+मैन् नलम् कॊण्डु उयर् विण् मऱैक्कुम् तण् तिरुवल्लवाऴ्  
+कन्नल् अम् कट्टि तन्नै कनियै इन् अमुदम् तन्नै  
+ऎन् नलम् कॊळ् सुडरै ऎण्ड्रुगॊल् कण्गळ् काण्बदुवे? (५)  
+३३२५। She says, "O friends,  
 you are my dear friends and you worry about me.  
 He is the god of Thiruvallam where the dark smoke of the sacrifices  
 that the good Brahmins perform rises up and hides the sky.  
@@ -7255,11 +7256,11 @@ Our god is sweet as jaggery, fruit and nectar
 and shines like a bright light. He has made me sick with love.  
 When will my eyes see him?"  
 
-3326 காண்பது எஞ்ஞான்றுகொலோ வினையேன் கனிவாய் மடவீர்  
-பாண் குரல் வண்டினொடு பசுந் தென்றலும் ஆகி எங்கும்  
-சேண் சினை ஓங்கு மரச் செழுங் கானல் திருவல்லவாழ்  
-மாண் குறள் கோலப் பிரான் மலர்த் தாமரைப் பாதங்களே? (6)  
-3326. She says, "O lovely friends, your mouths are as sweet as fruits.  
+३३२६ काण्बदु ऎञ्ञाण्ड्रुगॊलो विनैयेन् कनिवाय् मडवीर्  
+पाण् कुरल् वण्डिनॊडु पसुन् दॆण्ड्रलुम् आगि ऎङ्गुम्  
+सेण् सिनै ओङ्गु मरच् चॆऴुङ् गानल् तिरुवल्लवाऴ्  
+माण् कुऱळ् कोलप् पिरान् मलर्त् तामरैप् पादङ्गळे? (६)  
+३३२६। She says, "O lovely friends, your mouths are as sweet as fruits.  
 I have done bad karma.  
 When will I see the lotus feet of the god?  
 He took the divine form of a beautiful dwarf,  
@@ -7270,11 +7271,11 @@ grow on the rich seashore
 and bees swarm singing with lovely voices  
 and cool breezes blow everywhere."  
 
-3327 பாதங்கள்மேல் அணி பூந் தொழக் கூடுங்கொல் பாவை நல்லீர்  
-ஓத நெடுந் தடத்துள் உயர் தாமரை செங்கழுநீர்  
-மாதர்கள் வாள் முகமும் கண்ணும் ஏந்தும் திருவல்லவாழ்  
-நாதன் இஞ் ஞாலம் உண்ட நம் பிரான் தன்னை நாள்தொறுமே? (7)  
-3327. She says, "O friends, you are as lovely as dolls.  
+३३२७ पादङ्गळ्मेल् अणि पून् दॊऴक् कूडुङ्गॊल् पावै नल्लीर्  
+ओद नॆडुन् दडत्तुळ् उयर् तामरै सॆङ्गऴुनीर्  
+मादर्गळ् वाळ् मुगमुम् कण्णुम् एन्दुम् तिरुवल्लवाऴ्  
+नादन् इञ् ञालम् उण्ड नम् पिरान् तन्नै नाळ्दॊऱुमे? (७)  
+३३२७। She says, "O friends, you are as lovely as dolls.  
 Our god swallowed the world.  
 He is the god of Thiruvallam  
 where lovely lotuses and sengazhuneer flowers  
@@ -7283,11 +7284,11 @@ look like the shining faces and eyes of women.
 When will I join the beautiful ornamented lotus feet  
 of the dear god?"  
 
-3328 நாள்தொறும் வீடு இன்றியே தொழக் கூடுங்கொல் நல் நுதலீர்  
-ஆடு உறு தீங் கரும்பும் விளை செந்நெலும் ஆகி எங்கும்  
-மாடு உறு பூந் தடம் சேர் வயல் சூழ் தண் திருவல்லவாழ்  
-நீடு உறைகின்ற பிரான் நிலம் தாவிய நீள் கழலே? (8)  
-3328. She says, "O friends, you have beautiful foreheads.  
+३३२८ नाळ्दॊऱुम् वीडु इण्ड्रिये तॊऴक् कूडुङ्गॊल् नल् नुदलीर्  
+आडु उऱु तीङ् गरुम्बुम् विळै सॆन्नॆलुम् आगि ऎङ्गुम्  
+माडु उऱु पून् दडम् सेर् वयल् सूऴ् तण् तिरुवल्लवाऴ्  
+नीडु उऱैगिण्ड्र पिरान् निलम् ताविय नीळ् कऴले? (८)  
+३३२८। She says, "O friends, you have beautiful foreheads.  
 When will I worship every day  
 the ornamented feet that measured the world  
 without ever leaving them?  
@@ -7296,11 +7297,11 @@ surrounded by fields, rich flowering ponds,
 good paddy plants and sweet sugarcane  
 that grow everywhere and wave in the breeze."  
 
-3329 கழல் வளை பூரிப்ப யாம் கண்டு கைதொழக் கூடுங்கொலோ  
-குழல் என்ன யாழும் என்ன குளிர் சோலையுள் தேன் அருந்தி  
-மழலை வரி வண்டுகள் இசை பாடும் திருவல்லவாழ்  
-சுழலின் மலி சக்கரப் பெருமானது தொல் அருளே? (9)  
-3329. She says, "O friends, when will the day come  
+३३२९ कऴल् वळै पूरिप्प याम् कण्डु कैदॊऴक् कूडुङ्गॊलो  
+कुऴल् ऎन्न याऴुम् ऎन्न कुळिर् सोलैयुळ् तेन् अरुन्दि  
+मऴलै वरि वण्डुगळ् इसै पाडुम् तिरुवल्लवाऴ्  
+सुऴलिन् मलि सक्करप् पॆरुमानदु तॊल् अरुळे? (९)  
+३३२९। She says, "O friends, when will the day come  
 when I see and worship the god of Thiruvallam  
 where lined bees drink honey and sing like babies,  
 sounding like the music of the yaazh and flute in the cool groves?  
@@ -7309,11 +7310,11 @@ of the god with a discus in his hands
 and join him and be happy  
 so that my bangles stay on my arms?"  
 
-3330 தொல் அருள் நல் வினையால் சொலக் கூடுங்கொல் தோழிமீர்காள்  
-தொல் அருள் மண்ணும் விண்ணும் தொழ நின்ற திருநகரம்  
-நல் அருள் ஆயிரவர் நலன் ஏந்தும் திருவல்லவாழ்  
-நல் அருள் நம் பெருமான் நாராயணன் நாமங்களே? (10)  
-3330. She says, "O friends,  
+३३३० तॊल् अरुळ् नल् विनैयाल् सॊलक् कूडुङ्गॊल् तोऴिमीर्गाळ्  
+तॊल् अरुळ् मण्णुम् विण्णुम् तॊऴ निण्ड्र तिरुनगरम्  
+नल् अरुळ् आयिरवर् नलन् एन्दुम् तिरुवल्लवाऴ्  
+नल् अरुळ् नम् पॆरुमान् नारायणन् नामङ्गळे? (१०)  
+३३३०। She says, "O friends,  
 When will I have good karma and join the god?  
 He is the lord of beautiful Thiruvallam  
 where the earth and the sky  
@@ -7322,11 +7323,11 @@ A thousand good Brahmins live there
 and praise the names of our dear god Narayaṇan.  
 He gives his good grace to all."  
 
-3331 நாமங்கள் ஆயிரம் உடைய நம் பெருமான் அடிமேல்  
-சேமம் கொள் தென் குருகூர்ச் சடகோபன் தெரிந்து உரைத்த  
-நாமங்கள் ஆயிரத்துள் இவை பத்தும் திருவல்லவாழ்  
-சேமம் கொள் தென் நகர்மேல் செப்புவார் சிறந்தார் பிறந்தே (11)  
-3331. Sadagopan of southern Thirukuruhur  
+३३३१ नामङ्गळ् आयिरम् उडैय नम् पॆरुमान् अडिमेल्  
+सेमम् कॊळ् तॆन् गुरुगूर्च् चडगोबन् तॆरिन्दु उरैत्त  
+नामङ्गळ् आयिरत्तुळ् इवै पत्तुम् तिरुवल्लवाऴ्  
+सेमम् कॊळ् तॆन् नकर्मेल् सॆप्पुवार् सिऱन्दार् पिऱन्दे (११)  
+३३३१। Sadagopan of southern Thirukuruhur  
 that gives good life to all, composed a thousand poems  
 praising the feet of our divine god praised with thousand names.  
 If the devotees of Thiruvallam  
@@ -7334,16 +7335,16 @@ learn and recite these ten pasurams,
 if they are born in this world they will have a happy life.  
 ------------  
 
-திருவாய் மொழி - ஐந்தாம் பத்து (பத்தாம் திருமொழி, 3321-3331)  
-ஆழ்வார் தாம் சேர்ந்து அனுபவிக்கும் நிலையைச் செய் என எம்பெருமானை வேண்டுதல்  
+तिरुवाय् मॊऴि - ऐन्दाम् पत्तु (पत्ताम् तिरुमॊऴि, ३३२१-३३३१)  
+आऴ्वार् ताम् सेर्न्दु अनुबविक्कुम् निलैयैच् चॆय् ऎन ऎम्बॆरुमानै वेण्डुदल्  
 
-3332 பிறந்த ஆறும் வளர்ந்த ஆறும் பெரிய பாரதம்  
-       கைசெய்து ஐவர்க்குத்  
-திறங்கள் காட்டியிட்டுச் செய்து போன மாயங்களும்  
-நிறம் தன் ஊடு புக்கு எனது ஆவியை நின்று நின்று  
-       உருக்கி உண்கின்ற இச்  
-சிறந்த வான் சுடரே உன்னை என்றுகொல் சேர்வதுவே? (1)  
-3332. O god, you are the best and you shine in the sky.  
+३३३२ पिऱन्द आऱुम् वळर्न्द आऱुम् पॆरिय पारदम्  
+       कैसॆय्दु ऐवर्क्कुत्  
+तिऱङ्गळ् काट्टियिट्टुच् चॆय्दु पोन मायङ्गळुम्  
+निऱम् तन् ऊडु पुक्कु ऎनदु आवियै निण्ड्रु निण्ड्रु  
+       उरुक्कि उण्गिण्ड्र इच्  
+चिऱन्द वान् सुडरे उन्नै ऎण्ड्रुगॊल् सेर्वदुवे? (१)  
+३३३२। O god, you are the best and you shine in the sky.  
 Your birth is magic and you were raised as a man.  
 You did many tricks in the Bharatha war for the Pandavas  
 and you helped them conquer the Kauravas.  
@@ -7351,13 +7352,13 @@ All that magic and all those tricks enter my heart
 and make me melt.  
 You are the bright light that did all those tricks. When will I join you?  
 
-3333 வதுவை வார்த்தையுள் ஏறு பாய்ந்ததும் மாய மாவினை  
-       வாய் பிளந்ததும்  
-மதுவை வார் குழலார் குரவை பிணைந்த குழகும்  
-அது இது உது என்னலாவன அல்ல என்னை உன்  
-       செய்கை நைவிக்கும்  
-முது வைய முதல்வா உன்னை என்று தலைப்பெய்வனே? (2)  
-3333. You conquered the seven bulls to marry Nappinnai.  
+३३३३ वदुवै वार्त्तैयुळ् एऱु पाय्न्ददुम् माय माविनै  
+       वाय् पिळन्ददुम्  
+मदुवै वार् कुऴलार् कुरवै पिणैन्द कुऴगुम्  
+अदु इदु उदु ऎन्नलावन अल्ल ऎन्नै उन्  
+       सॆय्गै नैविक्कुम्  
+मुदु वैय मुदल्वा उन्नै ऎण्ड्रु तलैप्पॆय्वने? (२)  
+३३३३। You conquered the seven bulls to marry Nappinnai.  
 When the Asuran Kesi came in the form of an illusionary horse  
 you split open his mouth.  
 You danced the kuravai kuthu with girls  
@@ -7369,13 +7370,13 @@ but whatever they are, they hurt me.
 You are the ancient lord!  
 When will I come and join you?  
 
-3334 பெய்யும் பூங் குழல் பேய் முலை உண்ட பிள்ளைத் தேற்றமும்  
-       பேர்ந்து ஓர் சாடு இறச்  
-செய்ய பாதம் ஒன்றால் செய்த நின் சிறுச் சேவகமும்  
-நெய் உண் வார்த்தையுள் அன்னை கோல் கொள்ள நீ உன்  
-       தாமரைக் கண்கள் நீர் மல்க  
-பையவே நிலையும் வந்து என் நெஞ்சை உருக்குங்களே (3)  
-3334. O god, when you were a child you drank  
+३३३४ पॆय्युम् पूङ् गुऴल् पेय् मुलै उण्ड पिळ्ळैत् तेट्रमुम्  
+       पेर्न्दु ओर् साडु इऱच्  
+चॆय्य पादम् ऒण्ड्राल् सॆय्द निन् सिऱुच् चेवगमुम्  
+नॆय् उण् वार्त्तैयुळ् अन्नै कोल् कॊळ्ळ नी उन्  
+       तामरैक् कण्गळ् नीर् मल्ग  
+पैयवे निलैयुम् वन्दु ऎन् नॆञ्जै उरुक्कुङ्गळे (३)  
+३३३४। O god, when you were a child you drank  
 the poisonous milk from the breasts of the devil Puthana  
 when she came wearing flowers in her lovely hair.  
 You killed Sakatasuran, kicking him  
@@ -7385,13 +7386,13 @@ your mother Yashoda hit you with a stick
 and you stood in front of her as your lotus eyes filled with tears.  
 When I think how you stood and cried, it hurts my heart.  
 
-3335 கள்ள வேடத்தைக் கொண்டு போய் புரம் புக்க ஆறும்  
-       கலந்து அசுரரை  
-உள்ளம் பேதம் செய்திட்டு உயிர் உண்ட உபாயங்களும்  
-வெள்ள நீர்ச் சடையானும் நின்னிடை வேறு அலாமை  
-       விளங்க நின்றதும்  
-உள்ளம் உள் குடைந்து என் உயிரை உருக்கி உண்ணுமே (4)  
-3335. You disguised yourself with many different forms  
+३३३५ कळ्ळ वेडत्तैक् कॊण्डु पोय् पुरम् पुक्क आऱुम्  
+       कलन्दु असुररै  
+उळ्ळम् पेदम् सॆय्दिट्टु उयिर् उण्ड उपायङ्गळुम्  
+वॆळ्ळ नीर्च् चडैयानुम् निन्निडै वेऱु अलामै  
+       विळङ्ग निण्ड्रदुम्  
+उळ्ळम् उळ् कुडैन्दु ऎन् उयिरै उरुक्कि उण्णुमे (४)  
+३३३५। You disguised yourself with many different forms  
 and entered the places of your enemies and conquered them.  
 You made the Asurans fight each other with your tricks  
 and killed them.  
@@ -7400,13 +7401,13 @@ is not different from you.
 When I think of all your actions  
 they enter my heart and make my life melt.  
 
-3336 உண்ண வானவர் கோனுக்கு ஆயர் ஒருப்படுத்த  
-       அடிசில் உண்டதும்  
-வண்ண மால் வரையை எடுத்து மழை காத்தலும்  
-மண்ணை முன் படைத்து உண்டு உமிழ்ந்து கடந்து இடந்து  
-       மணந்த மாயங்கள்  
-எண்ணும்தோறும் என் நெஞ்சு எரிவாய் மெழுகு ஒக்கும் நின்றே (5)  
-3336. You ate the food that the cowherds served  
+३३३६ उण्ण वानवर् कोनुक्कु आयर् ऒरुप्पडुत्त  
+       अडिसिल् उण्डदुम्  
+वण्ण माल् वरैयै ऎडुत्तु मऴै कात्तलुम्  
+मण्णै मुन् पडैत्तु उण्डु उमिऴ्न्दु कडन्दु इडन्दु  
+       मणन्द मायङ्गळ्  
+ऎण्णुम्दोऱुम् ऎन् नॆञ्जु ऎरिवाय् मॆऴुगु ऒक्कुम् निण्ड्रे (५)  
+३३३६। You ate the food that the cowherds served  
 for Indra the king of the gods.  
 You carried large, beautiful Govardhana mountain  
 as an umbrella and protected the cows from a storm.  
@@ -7414,13 +7415,13 @@ You swallowed the earth and spit it out.
 When I think of all your magical deeds  
 my heart melts like wax in fire.  
 
-3337 நின்ற ஆறும் இருந்த ஆறும் கிடந்த ஆறும்  
-       நினைப்பு அரியன  
-ஒன்று அலா உருவு ஆய் அருவு ஆய நின் மாயங்கள்  
-நின்று நின்று நினைக்கின்றேன் உன்னை எங்ஙனம்  
-       நினைகிற்பன்? பாவியேற்கு  
-ஒன்று நன்கு உரையாய் உலகம் உண்ட ஒண் சுடரே (6)  
-3337. Your standing, sitting and lying forms  
+३३३७ निण्ड्र आऱुम् इरुन्द आऱुम् किडन्द आऱुम्  
+       निनैप्पु अरियन  
+ऒण्ड्रु अला उरुवु आय् अरुवु आय निन् मायङ्गळ्  
+निण्ड्रु निण्ड्रु निनैक्किण्ड्रेन् उन्नै ऎङ्ङनम्  
+       निनैगिऱ्‌पन्? पावियेऱ्‌कु  
+ऒण्ड्रु नन्गु उरैयाय् उलगम् उण्ड ऒण् सुडरे (६)  
+३३३७। Your standing, sitting and lying forms  
 are hard for me even to imagine.  
 You have a form yet you are formless.  
 I think of all your magical deeds again and again.  
@@ -7428,13 +7429,13 @@ In which form can I think of you?
 You are the shining light who swallowed the earth.  
 Tell this sinner how to think of you.  
 
-3338 ஒண் சுடரோடு இருளுமாய் நின்ற ஆறும் உண்மையோடு  
-       இன்மையாய் வந்து என்  
-கண் கொளாவகை நீ கரந்து என்னைச் செய்கின்றன  
-எண் கொள் சிந்தையுள் நைகின்றேன் என் கரிய  
-       மாணிக்கமே என் கண்கட்குத்  
-திண் கொள்ள ஒரு நாள் அருளாய் உன் திரு உருவே (7)  
-3338. You came to me as a shining light,  
+३३३८ ऒण् सुडरोडु इरुळुमाय् निण्ड्र आऱुम् उण्मैयोडु  
+       इन्मैयाय् वन्दु ऎन्  
+कण् कॊळावगै नी करन्दु ऎन्नैच् चॆय्गिण्ड्रन  
+ऎण् कॊळ् सिन्दैयुळ् नैगिण्ड्रेन् ऎन् करिय  
+       माणिक्कमे ऎन् कण्गट्कुत्  
+तिण् कॊळ्ळ ऒरु नाळ् अरुळाय् उन् तिरु उरुवे (७)  
+३३३८। You came to me as a shining light,  
 as darkness, as truth and as the false.  
 You hide and do not show me who you are.  
 You are a dark diamond.  
@@ -7442,39 +7443,39 @@ I suffer in my mind yearning to see you.
 Come and show me your divine form one day  
 so my eyes may see you and find joy.  
 
-3339 திரு உருவு கிடந்த ஆறும் கொப்பூழ்ச்  
-       செந்தாமரைமேல் திசைமுகன்  
-கருவுள் வீற்றிருந்து படைத்திட்ட கருமங்களும்  
-பொரு இல் உன் தனி நாயகம் அவை கேட்கும்தோறும்  
-       என் நெஞ்சம் நின்று நெக்கு  
-அருவி சோரும் கண்ணீர் என் செய்கேன் அடியேனே? (8)  
-3339. You sleep on the ocean in a divine reclining form.  
+३३३९ तिरु उरुवु किडन्द आऱुम् कॊप्पूऴ्च्  
+       चॆन्दामरैमेल् तिसैमुगन्  
+करुवुळ् वीट्रिरुन्दु पडैत्तिट्ट करुमङ्गळुम्  
+पॊरु इल् उन् तनि नायगम् अवै केट्कुम्दोऱुम्  
+       ऎन् नॆञ्जम् निण्ड्रु नॆक्कु  
+अरुवि सोरुम् कण्णीर् ऎन् सॆय्गेन् अडियेने? (८)  
+३३३९। You sleep on the ocean in a divine reclining form.  
 Nanmuhan staying on a beautiful lotus on your navel  
 creates the world and its creatures through your grace.  
 When I hear of all your supreme matchless deeds,  
 my heart melts and my eyes shed tears like a waterfall.  
 What can this slave do?  
 
-3340 அடியை மூன்றை இரந்த ஆறும் அங்கே நின்று ஆழ் கடலும்  
-       மண்ணும் விண்ணும்  
-முடிய ஈர் அடியால் முடித்துக்கொண்ட முக்கியமும்  
-நொடியுமாறு அவை கேட்கும்தோறும் என் நெஞ்சம்  
-       நின் தனக்கே கரைந்து உகும்  
-கொடிய வல்வினையேன் உன்னை என்றுகொல் கூடுவதே? (9)  
-3340. You went to Mahabali’s sacrifice,  
+३३४० अडियै मूण्ड्रै इरन्द आऱुम् अङ्गे निण्ड्रु आऴ् कडलुम्  
+       मण्णुम् विण्णुम्  
+मुडिय ईर् अडियाल् मुडित्तुक्कॊण्ड मुक्कियमुम्  
+नॊडियुमाऱु अवै केट्कुम्दोऱुम् ऎन् नॆञ्जम्  
+       निन् तनक्के करैन्दु उगुम्  
+कॊडिय वल्विनैयेन् उन्नै ऎण्ड्रुगॊल् कूडुवदे? (९)  
+३३४०। You went to Mahabali’s sacrifice,  
 begged for two feet of land  
 and took the sky and the earth with two steps.  
 When I hear these great deeds of yours my heart melts.  
 I have done bad karma.  
 When can I reach you?  
 
-3341 கூடி நீரைக் கடைந்த ஆறும் அமுதம் தேவர்  
-       உண்ண அசுரரை  
-வீடும் வண்ணங்களே செய்து போன வித்தகமும்  
-ஊடு புக்கு எனது ஆவியை உருக்கி  
-       உண்டிடுகின்ற நின் தன்னை  
-நாடும் வண்ணம் சொல்லாய் நச்சு நாகு அணையானே (10)  
-3341. You joined with the gods and churned the milky ocean.  
+३३४१ कूडि नीरैक् कडैन्द आऱुम् अमुदम् तेवर्  
+       उण्ण असुररै  
+वीडुम् वण्णङ्गळे सॆय्दु पोन वित्तगमुम्  
+ऊडु पुक्कु ऎनदु आवियै उरुक्कि  
+       उण्डिडुगिण्ड्र निन् तन्नै  
+नाडुम् वण्णम् सॊल्लाय् नच्चु नागु अणैयाने (१०)  
+३३४१। You joined with the gods and churned the milky ocean.  
 Disguised as Mohini you cheated the Asurans  
 so they would not get the nectar,  
 and you distributed the nectar to the gods.  
@@ -7482,32 +7483,32 @@ O lord you sleep on a snake bed.
 You entered my heart and melted my soul.  
 Tell me how can I come and join you?  
 
-3342 நாகு அணைமிசை நம் பிரான் சரணே சரண்  
-       நமக்கு என்று நாள்தொறும்  
-ஏக சிந்தையனாய்க் குருகூர்ச்  
-       சடகோபன் மாறன்  
-ஆக நூற்ற அந்தாதி ஆயிரத்துள்  
-       இவையும் ஓர் பத்தும் வல்லார்  
-மாக வைகுந்தத்து  
-       மகிழ்வு எய்துவர் வைகலுமே (11)  
-3342. Sadagopan Maaran of Thirukuruhur,  
+३३४२ नागु अणैमिसै नम् पिरान् सरणे सरण्  
+       नमक्कु ऎण्ड्रु नाळ्दॊऱुम्  
+एक सिन्दैयनाय्क् गुरुगूर्च्  
+       चडगोबन् माऱन्  
+आग नूट्र अन्दादि आयिरत्तुळ्  
+       इवैयुम् ओर् पत्तुम् वल्लार्  
+माग वैगुन्दत्तु  
+       मगिऴ्वु ऎय्दुवर् वैगलुमे (११)  
+३३४२। Sadagopan Maaran of Thirukuruhur,  
 worshiping the god every day  
 and thinking that his only refuge is the lord  
 who sleeps on a snake bed,  
 composed a thousand poems praising the god.  
 If devotees learn and recite these ten pasurams well  
 they will reach Vaikuṇṭam and be happy always.  
-        
-திருச்சிற்றம்பலம்  
+                
+तिरुच्चिट्रम्बलम्  
 
-திருவாய்மொழி - ஆறாம் பத்து (முதல் திருமொழி, 3343-3353)  
-திருவண்வண்டூர்ப் பெருமானிடம் தலைவி பறவைகளைத் தூதுவிடல் (திருவண்வண்டூர்)  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (मुदल् तिरुमॊऴि, ३३४३-३३५३)  
+तिरुवण्वण्डूर्प् पॆरुमानिडम् तलैवि पऱवैगळैत् तूदुविडल् (तिरुवण्वण्डूर्)  
 
-3343 வைகல் பூங் கழிவாய் வந்து மேயும் குருகினங்காள்  
-செய் கொள் செந்நெல் உயர் திருவண்வண்டூர் உறையும்  
-கை கொள் சக்கரத்து என் கனிவாய்ப் பெருமானைக் கண்டு  
-கைகள் கூப்பி சொல்லீர் வினையாட்டியேன் காதன்மையே (1)  
-3343. She says, "O kurugu birds,  
+३३४३ वैगल् पूङ् गऴिवाय् वन्दु मेयुम् गुरुगिनङ्गाळ्  
+सॆय् कॊळ् सॆन्नॆल् उयर् तिरुवण्वण्डूर् उऱैयुम्  
+कै कॊळ् सक्करत्तु ऎन् कनिवाय्प् पॆरुमानैक् कण्डु  
+कैगळ् कूप्पि सॊल्लीर् विनैयाट्टियेन् कादन्मैये (१)  
+३३४३। She says, "O kurugu birds,  
 you come in the morning every day  
 and wander in the flourishing backwaters.  
 Go and see the lord whose mouth is as sweet as a fruit.  
@@ -7517,11 +7518,11 @@ Fold your hands and worship him
 and tell him that I suffer from love for him.  
 I have done bad karma."  
 
-3344 காதல் மென் பெடையோடு உடன் மேயும் கரு நாராய்  
-வேத வேள்வி ஒலி முழங்கும் தண் திருவண்வண்டூர்  
-நாதன் ஞாலம் எல்லாம் உண்ட நம் பெருமானைக் கண்டு  
-பாதம் கைதொழுது பணியீர் அடியேன் திறமே (2)  
-3344. She says, "O large cranes,  
+३३४४ कादल् मॆन् पॆडैयोडु उडन् मेयुम् करु नाराय्  
+वेद वेळ्वि ऒलि मुऴङ्गुम् तण् तिरुवण्वण्डूर्  
+नादन् ञालम् ऎल्लाम् उण्ड नम् पॆरुमानैक् कण्डु  
+पादम् कैदॊऴुदु पणियीर् अडियेन् तिऱमे (२)  
+३३४४। She says, "O large cranes,  
 you wander here with your beloved mates.  
 He swallowed all the worlds.  
 Go and see our dear lord.  
@@ -7530,11 +7531,11 @@ where the Vedas are recited loudly
 when the Brahmins perform sacrifices.  
 Bow to his feet and tell him how I suffer from his love."  
 
-3345 திறங்கள் ஆகி எங்கும் செய்கள் ஊடு உழல் புள்ளினங்காள்  
-சிறந்த செல்வம் மல்கு திருவண்வண்டூர் உறையும்  
-கறங்கு சக்கரக் கைக் கனிவாய்ப் பெருமானைக் கண்டு  
-இறங்கி நீர் தொழுது பணியீர் அடியேன் இடரே (3)  
-3345. She says, "O flock of birds,  
+३३४५ तिऱङ्गळ् आगि ऎङ्गुम् सॆय्गळ् ऊडु उऴल् पुळ्ळिनङ्गाळ्  
+सिऱन्द सॆल्वम् मल्गु तिरुवण्वण्डूर् उऱैयुम्  
+कऱङ्गु सक्करक् कैक् कनिवाय्प् पॆरुमानैक् कण्डु  
+इऱङ्गि नीर् तॊऴुदु पणियीर् अडियेन् इडरे (३)  
+३३४५। She says, "O flock of birds,  
 you all come in a crowd  
 and fly around everywhere on these fields.  
 Go and see the dear god with a whirling discus in his hand.  
@@ -7545,11 +7546,11 @@ Fly down to the ground, bow to him
 and tell him how I suffer with love for him.  
 I am his slave."  
 
-3346 இடர் இல் போகம் மூழ்கி இணைந்து ஆடும் மட அன்னங்காள்  
-விடல் இல் வேத ஒலி முழங்கும் தண் திருவண்வண்டூர்  
-கடலின் மேனிப்பிரான் கண்ணனை நெடுமாலைக் கண்டு  
-உடலம் நைந்து ஒருத்தி உருகும் என்று உணர்த்துமினே (4)  
-3346. She says, "O lovely swans, you join your mates  
+३३४६ इडर् इल् पोगम् मूऴ्गि इणैन्दु आडुम् मड अन्नङ्गाळ्  
+विडल् इल् वेद ऒलि मुऴङ्गुम् तण् तिरुवण्वण्डूर्  
+कडलिन् मेनिप्पिरान् कण्णनै नॆडुमालैक् कण्डु  
+उडलम् नैन्दु ऒरुत्ति उरुगुम् ऎण्ड्रु उणर्त्तुमिने (४)  
+३३४६। She says, "O lovely swans, you join your mates  
 and plunge into happiness without any worries.  
 Go and see the god Neḍumaal, the ocean-colored Kaṇṇan.  
 He is the god of flourishing Thiruvaṇvaṇḍur  
@@ -7557,11 +7558,11 @@ where the sound of the Vedas spreads everywhere.
 Make him understand that there is a girl  
 who suffers and melts with love for him."  
 
-3347 உணர்த்தல் ஊடல் உணர்ந்து உடன் மேயும் மட அன்னங்காள்  
-திணர்த்த வண்டல்கள்மேல் சங்கு சேரும் திருவண்வண்டூர்  
-புணர்த்த பூந் தண் துழாய் முடி நம் பெருமானைக் கண்டு  
-புணர்த்த கையினராய் அடியேனுக்கும் போற்றுமினே (5)  
-3347. She says, "O lovely swans,  
+३३४७ उणर्त्तल् ऊडल् उणर्न्दु उडन् मेयुम् मड अन्नङ्गाळ्  
+तिणर्त्त वण्डल्गळ्मेल् सङ्गु सेरुम् तिरुवण्वण्डूर्  
+पुणर्त्त पून् दण् तुऴाय् मुडि नम् पॆरुमानैक् कण्डु  
+पुणर्त्त कैयिनराय् अडियेनुक्कुम् पोट्रुमिने (५)  
+३३४७। She says, "O lovely swans,  
 you know how it is to fight and make up with your mates  
 and you wander together happily without being apart from them.  
 Go and see our dear lord  
@@ -7570,11 +7571,11 @@ He stays in Thiruvaṇvaṇḍur
 where the waves bring conches and pile them on the shore.  
 Go and bow to him, fold your hands and praise him for me also."  
 
-3348 போற்றி யான் இரந்தேன் புன்னைமேல் உறை பூங் குயில்காள்  
-சேற்றில் வாளை துள்ளும் திருவண்வண்டூர் உறையும்  
-ஆற்றல் ஆழி அங்கை அமரர் பெருமானைக் கண்டு  
-மாற்றம் கொண்டருளீர் மையல் தீர்வது ஒருவண்ணமே (6)  
-3348. She says, "O beautiful cuckoo birds.  
+३३४८ पोट्रि यान् इरन्देन् पुन्नैमेल् उऱै पूङ् गुयिल्गाळ्  
+सेट्रिल् वाळै तुळ्ळुम् तिरुवण्वण्डूर् उऱैयुम्  
+आट्रल् आऴि अङ्गै अमरर् पॆरुमानैक् कण्डु  
+माट्रम् कॊण्डरुळीर् मैयल् तीर्वदु ऒरुवण्णमे (६)  
+३३४८। She says, "O beautiful cuckoo birds.  
 You stay in the punnai trees.  
 I praise you and implore you.  
 He is the highest god of the gods in the sky  
@@ -7584,11 +7585,11 @@ where the valai fish frolic in the muddy water.
 Go see him and tell him how I suffer from his love.  
 Bring me his reply so my pain will go away."  
 
-3349 ஒருவண்ணம் சென்று புக்கு எனக்கு ஒன்று உரை ஒண் கிளியே  
-செரு ஒண் பூம் பொழில் சூழ் செக்கர் வேலைத் திருவண்வண்டூர்  
-கரு வண்ணம் செய்ய வாய் செய்ய கண் செய்ய கை செய்ய கால்  
-செரு ஒண் சக்கரம் சங்கு அடையாளம் திருந்தக் கண்டே (7)  
-3349. She says, "O lovely parrot, go directly, without wandering,  
+३३४९ ऒरुवण्णम् सॆण्ड्रु पुक्कु ऎनक्कु ऒण्ड्रु उरै ऒण् किळिये  
+सॆरु ऒण् पूम् पॊऴिल् सूऴ् सॆक्कर् वेलैत् तिरुवण्वण्डूर्  
+करु वण्णम् सॆय्य वाय् सॆय्य कण् सॆय्य कै सॆय्य काल्  
+सॆरु ऒण् सक्करम् सङ्गु अडैयाळम् तिरुन्दक् कण्डे (७)  
+३३४९। She says, "O lovely parrot, go directly, without wandering,  
 and enter Thiruvaṇvaṇḍur where my god stays  
 surrounded by shores with red sand  
 and groves blooming with lovely flowers.  
@@ -7598,11 +7599,11 @@ and he carries in his hand a shining discus for fighting and a conch.
 That is how you can recognize him.  
 Tell him that I love him."  
 
-3350 திருந்தக் கண்டு எனக்கு ஒன்று உரையாய் ஒண் சிறு பூவாய்  
-செருந்தி ஞாழல் மகிழ் புன்னை சூழ் தண் திருவண்வண்டூர்  
-பெரும் தண் தாமரைக்கண் பெரு நீள் முடி நால் தடந்தோள்  
-கருந் திண் மா முகில் போல் திருமேனி அடிகளையே (8)  
-3350. She says, "O lovely little puvai bird,  
+३३५० तिरुन्दक् कण्डु ऎनक्कु ऒण्ड्रु उरैयाय् ऒण् सिऱु पूवाय्  
+सॆरुन्दि ञाऴल् मगिऴ् पुन्नै सूऴ् तण् तिरुवण्वण्डूर्  
+पॆरुम् तण् तामरैक्कण् पॆरु नीळ् मुडि नाल् तडन्दोळ्  
+करुन् दिण् मा मुगिल् पोल् तिरुमेनि अडिगळैये (८)  
+३३५०। She says, "O lovely little puvai bird,  
 my god has large beautiful lotus eyes,  
 long hair, four strong arms,  
 and a dark divine body the color of thick clouds.  
@@ -7611,11 +7612,11 @@ surrounded by mahizh, punnai, nyazhal and cherunti trees.
 See him, tell him of my love  
 and then return and tell me what he has told you."  
 
-3351 அடிகள் கைதொழுது அலர்மேல் அசையும் அன்னங்காள்  
-விடிவை சங்கு ஒலிக்கும் திருவண்வண்டூர் உறையும்  
-கடிய மாயன் தன்னை கண்ணனை நெடுமாலைக் கண்டு  
-கொடிய வல்வினையேன் திறம் கூறுமின் வேறுகொண்டே (9)  
-3351. She says, "O swans, lotus flowers are your home.  
+३३५१ अडिगळ् कैदॊऴुदु अलर्मेल् असैयुम् अन्नङ्गाळ्  
+विडिवै सङ्गु ऒलिक्कुम् तिरुवण्वण्डूर् उऱैयुम्  
+कडिय मायन् तन्नै कण्णनै नॆडुमालैक् कण्डु  
+कॊडिय वल्विनैयेन् तिऱम् कूऱुमिन् वेऱुगॊण्डे (९)  
+३३५१। She says, "O swans, lotus flowers are your home.  
 The god, the tricky Maayan, Nedumaal, Kaṇṇan  
 stays in Thiruvaṇvaṇḍur  
 where conches are blown in the morning.  
@@ -7623,11 +7624,11 @@ I have terrible karma.
 Go, see the lord and worship him.  
 Talk to him secretly and tell him how I am suffering."  
 
-3352 வேறுகொண்டு உம்மை யான் இரந்தேன் வெறி வண்டினங்காள்  
-தேறு நீர்ப் பம்பை வடபாலைத் திருவண்வண்டூர்  
-மாறு இல் போர் அரக்கன் மதிள் நீறு எழச் செற்று உகந்த  
-ஏறு சேவகனார்க்கு என்னையும் உளள் என்மின்களே (10)  
-3352. She says, "O swarm of bees  
+३३५२ वेऱुगॊण्डु उम्मै यान् इरन्देन् वॆऱि वण्डिनङ्गाळ्  
+तेऱु नीर्प् पम्बै वडबालैत् तिरुवण्वण्डूर्  
+माऱु इल् पोर् अरक्कन् मदिळ् नीऱु ऎऴच् चॆट्रु उगन्द  
+एऱु सेवगनार्क्कु ऎन्नैयुम् उळळ् ऎन्मिन्गळे (१०)  
+३३५२। She says, "O swarm of bees  
 flying around fragrant flowers,  
 I beg you to do me favor.  
 The god who destroyed the forts of Lanka  
@@ -7636,11 +7637,11 @@ stays in Thiruvaṇvaṇḍur on the bank
 of the northern Pampa river that flows with abundant water.  
 Go and tell that victorious hero that I am still alive."  
 
-3353 மின் கொள் சேர் புரிநூல் குறள் ஆய் அகல் ஞாலம் கொண்ட  
-வன் கள்வன் அடிமேல் குருகூர்ச் சடகோபன் சொன்ன  
-பண் கொள் ஆயிரத்துள் இவை பத்தும் திருவண்வண்டூர்க்கு  
-இன்கொள் பாடல் வல்லார் மதனர் மின்னிடை யவர்க்கே (11)  
-3353. Sadagopan of Thirukuruhur composed  
+३३५३ मिन् कॊळ् सेर् पुरिनूल् कुऱळ् आय् अगल् ञालम् कॊण्ड  
+वन् कळ्वन् अडिमेल् गुरुगूर्च् चडगोबन् सॊन्न  
+पण् कॊळ् आयिरत्तुळ् इवै पत्तुम् तिरुवण्वण्डूर्क्कु  
+इन्गॊळ् पाडल् वल्लार् मदनर् मिन्निडै यवर्क्के (११)  
+३३५३। Sadagopan of Thirukuruhur composed  
 a thousand poems with music on the god,  
 the cunning thief who went to Mahabali as a dwarf  
 adorned with a sacred shining thread  
@@ -7650,16 +7651,16 @@ on the god of Thiruvaṇvaṇḍur
 they will be like Kama for women with waists thin as lightning.  
 --------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (இரண்டாம் திருமொழி, 3354-3364)  
-தலைவன் காலம் தாழ்த்து வரக்கண்ட தலைவி ஊடல்கொண்டு உரைத்தல்  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (इरण्डाम् तिरुमॊऴि, ३३५४-३३६४)  
+तलैवन् कालम् ताऴ्त्तु वरक्कण्ड तलैवि ऊडल्गॊण्डु उरैत्तल्  
 
-3354 மின் இடை மடவார்கள் நின் அருள் சூடுவார் முன்பு  
-நான் அது அஞ்சுவன்  
-மன் உடை இலங்கை அரண் காய்ந்த மாயவனே  
-உன்னுடைய சுண்டாயம் நான் அறிவன் இனி  
-அதுகொண்டு செய்வது என்?  
-என்னுடைய பந்தும் கழலும் தந்து போகு நம்பீ (1)  
-3354. She says, "You are Maayavan  
+३३५४ मिन् इडै मडवार्गळ् निन् अरुळ् सूडुवार् मुन्बु  
+नान् अदु अञ्जुवन्  
+मन् उडै इलङ्गै अरण् काय्न्द मायवने  
+उन्नुडैय सुण्डायम् नान् अऱिवन् इनि  
+अदुगॊण्डु सॆय्वदु ऎन्?  
+ऎन्नुडैय पन्दुम् कऴलुम् तन्दु पोगु नम्बी (१)  
+३३५४। She says, "You are Maayavan  
 and you burned the forts in Lanka of the king Ravaṇa.  
 I am afraid when I see the girls  
 whose waists are thin as lightning  
@@ -7668,13 +7669,13 @@ I know how you cheat.
 What are you going to do now to cheat me?  
 O Nambi, give me back my ball and dice and then go."  
 
-3355 போகு நம்பீ உன் தாமரைபுரை கண் இணையும்  
-செவ்வாய் முறுவலும்  
-ஆகுலங்கள் செய்ய அழிதற்கே நோற்றோமே யாம்  
-தோகை மா மயிலார்கள் நின் அருள் சூடுவார்  
-செவி ஓசை வைத்து எழ  
-ஆகள் போகவிட்டு குழல் ஊது போயிருந்தே (2)  
-3355. She says, "O Nambi, go away.  
+३३५५ पोगु नम्बी उन् तामरैबुरै कण् इणैयुम्  
+सॆव्वाय् मुऱुवलुम्  
+आगुलङ्गळ् सॆय्य अऴिदऱ्‌के नोट्रोमे याम्  
+तोगै मा मयिलार्गळ् निन् अरुळ् सूडुवार्  
+सॆवि ओसै वैत्तु ऎऴ  
+आगळ् पोगविट्टु कुऴल् ऊदु पोयिरुन्दे (२)  
+३३५५। She says, "O Nambi, go away.  
 Your lotus eyes, red mouth and smile bother us.  
 We did so much tapas to love you  
 but you just give us trouble.  
@@ -7684,26 +7685,26 @@ They want to hear the sound of your flute.
 Go, graze your cows and play your flute  
 and go to them. Please go away."  
 
-3356 போயிருந்து நின் புள்ளுவம் அறியாதவர்க்கு உரை  
-நம்பீ நின் செய்ய  
-வாய் இருங் கனியும் கண்களும் விபரீதம் இந் நாள்  
-வேய் இரும் தடம் தோளினார் இத் திருவருள்  
-பெறுவார் எவர்கொல்  
-மா இரும் கடலைக் கடைந்த பெருமானாலே? (3)  
-3356. She says, "O Nambi, go and tell your lies  
+३३५६ पोयिरुन्दु निन् पुळ्ळुवम् अऱियादवर्क्कु उरै  
+नम्बी निन् सॆय्य  
+वाय् इरुङ् गनियुम् कण्गळुम् विपरीतम् इन् नाळ्  
+वेय् इरुम् तडम् तोळिनार् इत् तिरुवरुळ्  
+पॆऱुवार् ऎवर्गॊल्  
+मा इरुम् कडलैक् कडैन्द पॆरुमानाले? (३)  
+३३५६। She says, "O Nambi, go and tell your lies  
 to those who do not know how you cheat girls.  
 Your big sweet fruit-like mouth and large eyes are dangerous!  
 Who among the girls with round bamboo-like arms  
 has enough tapas to receive your divine grace?  
 You are the highest god and you churned the large milky ocean."  
 
-3357 ஆலின் நீள் இலை ஏழ் உலகும் உண்டு அன்று நீ  
-கிடந்தாய் உன் மாயங்கள்  
-மேலை வானவரும் அறியார் இனி எம் பரமே?  
-வேலின் நேர் தடம் கண்ணினார் விளையாடு  
-சூழலைச் சூழவே நின்று  
-காலி மேய்க்க வல்லாய் எம்மை நீ கழறேலே (4)  
-3357. She says, "You swallowed all the seven worlds  
+३३५७ आलिन् नीळ् इलै एऴ् उलगुम् उण्डु अण्ड्रु नी  
+किडन्दाय् उन् मायङ्गळ्  
+मेलै वानवरुम् अऱियार् इनि ऎम् परमे?  
+वेलिन् नेर् तडम् कण्णिनार् विळैयाडु  
+सूऴलैच् चूऴवे निण्ड्रु  
+कालि मेय्क्क वल्लाय् ऎम्मै नी कऴऱेले (४)  
+३३५७। She says, "You swallowed all the seven worlds  
 and recline on a banyan leaf.  
 Even the gods in the sky do not know your magic.  
 O my highest lord,  
@@ -7712,13 +7713,13 @@ while cowherd girls with large lovely spear-like eyes
 stay around you and play.  
 Don’t try to play with me."  
 
-3358 கழறேல் நம்பீ உன் கைதவம் மண்ணும் விண்ணும்  
-நன்கு அறியும் திண் சக்கர  
-நிழறு தொல் படையாய் உனக்கு ஒன்று உணர்த்துவன் நான்  
-மழறு தேன் மொழியார்கள் நின் அருள் சூடுவார்  
-மனம் வாடி நிற்க எம்  
-குழறு பூவையொடும் கிளியோடும் குழகேலே (5)  
-3358. She says, "O Nambi, don’t lie and cheat us.  
+३३५८ कऴऱेल् नम्बी उन् कैदवम् मण्णुम् विण्णुम्  
+नन्गु अऱियुम् तिण् सक्कर  
+निऴऱु तॊल् पडैयाय् उनक्कु ऒण्ड्रु उणर्त्तुवन् नान्  
+मऴऱु तेन् मॊऴियार्गळ् निन् अरुळ् सूडुवार्  
+मनम् वाडि निऱ्‌क ऎम्  
+कुऴऱु पूवैयॊडुम् किळियोडुम् कुऴगेले (५)  
+३३५८। She says, "O Nambi, don’t lie and cheat us.  
 All the world and the sky know your tricks.  
 You carry a powerful, ancient discus.  
 I want to tell you something.  
@@ -7727,13 +7728,13 @@ with their honey-like sweet soft words
 are upset and wait for your grace.  
 Don’t play with our prattling puvai birds and our parrots."  
 
-3359 குழகி எங்கள் குழமணன்கொண்டு கோயின்மை செய்து  
-கன்மம் ஒன்று இல்லை  
-பழகி யாம் இருப்போம் பரமே இத் திரு அருள்கள்?  
-அழகியார் இவ் உலகம் மூன்றுக்கும் தேவிமை  
-ஈதகுவார் பலர் உளர்  
-கழகம் ஏறேல் நம்பீ உனக்கும் இளைதே கன்மமே (6)  
-3359. She says, "There is no use making faces  
+३३५९ कुऴगि ऎङ्गळ् कुऴमणन्गॊण्डु कोयिन्मै सॆय्दु  
+कन्मम् ऒण्ड्रु इल्लै  
+पऴगि याम् इरुप्पोम् परमे इत् तिरु अरुळ्गळ्?  
+अऴगियार् इव् उलगम् मूण्ड्रुक्कुम् तेविमै  
+ईदगुवार् पलर् उळर्  
+कऴगम् एऱेल् नम्बी उनक्कुम् इळैदे कन्ममे (६)  
+३३५९। She says, "There is no use making faces  
 and doing tricks to make us think you love us.  
 We have been with you for a long time.  
 O highest god! Is this is way you give your grace?  
@@ -7743,13 +7744,13 @@ and worthy of your love.
 Don’t play with us.  
 It is all right to play like this because you are young."  
 
-3360 கன்மம் அன்று எங்கள் கையில் பாவை பறிப்பது  
-கடல் ஞாலம் உண்டிட்ட  
-நின்மலா நெடியாய் உனக்கேலும் பிழை பிழையே  
-வன்மமே சொல்லி எம்மை நீ விளையாடுதி அது  
-கேட்கில் என் ஐம்மார்  
-தன்ம பாவம் என்னார் ஒரு நான்று தடி பிணக்கே (7)  
-3360. She says, "It is not right to grab the dolls  
+३३६० कन्मम् अण्ड्रु ऎङ्गळ् कैयिल् पावै पऱिप्पदु  
+कडल् ञालम् उण्डिट्ट  
+निन्मला नॆडियाय् उनक्केलुम् पिऴै पिऴैये  
+वन्ममे सॊल्लि ऎम्मै नी विळैयाडुदि अदु  
+केट्किल् ऎन् ऐम्मार्  
+तन्म पावम् ऎन्नार् ऒरु नाण्ड्रु तडि पिणक्के (७)  
+३३६०। She says, "It is not right to grab the dolls  
 that we hold in our hands to play with.  
 O lord, you are faultless and you swallowed the world  
 surrounded by oceans.  
@@ -7760,13 +7761,13 @@ If my brothers hear what you say
 they won’t consider whether it is right or not to act.  
 They will take sticks and come to fight with you."  
 
-3361 பிணக்கி யாவையும் யாவரும் பிழையாமல் பேதித்தும்  
-பேதியாதது ஓர்  
-கணக்கு இல் கீர்த்தி வெள்ளக் கதிர் ஞான மூர்த்தியினாய்  
-இணக்கி எம்மை எம் தோழிமார் விளையாடப் போதுமின்  
-என்னப் போந்தோமை  
-உணக்கி நீ வளைத்தால் என் சொல்லார் உகவாதவரே? (8)  
-3361. She says, "Your form is like a flood of wisdom  
+३३६१ पिणक्कि यावैयुम् यावरुम् पिऴैयामल् पेदित्तुम्  
+पेदियाददु ओर्  
+कणक्कु इल् कीर्त्ति वॆळ्ळक् गतिर् ज्ञान मूर्त्तियिनाय्  
+इणक्कि ऎम्मै ऎम् तोऴिमार् विळैयाडप् पोदुमिन्  
+ऎन्नप् पोन्दोमै  
+उणक्कि नी वळैत्ताल् ऎन् सॊल्लार् उगवादवरे? (८)  
+३३६१। She says, "Your form is like a flood of wisdom  
 and you shine with endless fame.  
 Without fail you create both creatures that are intelligent  
 and creatures that are ignorant.  
@@ -7775,13 +7776,13 @@ but you come and attract me with your love
 so I can’t join them.  
 If people see me with you, what will they think?"  
 
-3362 உகவையால் நெஞ்சம் உள் உருகி உன் தாமரைத்  
-தடம் கண் விழிகளின்  
-அக வலைப் படுப்பான் அழித்தாய் உன் திருவடியால்  
-தகவு செய்திலை எங்கள் சிற்றிலும் யாம் அடு  
-சிறு சோறும் கண்டு நின்  
-முக ஒளி திகழ முறுவல் செய்து நின்றிலையே (9)  
-3362. She says, "You attract us with your large lotus eyes  
+३३६२ उगवैयाल् नॆञ्जम् उळ् उरुगि उन् तामरैत्  
+तडम् कण् विऴिगळिन्  
+अग वलैप् पडुप्पान् अऴित्ताय् उन् तिरुवडियाल्  
+तगवु सॆय्दिलै ऎङ्गळ् सिट्रिलुम् याम् अडु  
+सिऱु सोऱुम् कण्डु निन्  
+मुग ऒळि तिगऴ मुऱुवल् सॆय्दु निण्ड्रिलैये (९)  
+३३६२। She says, "You attract us with your large lotus eyes  
 and you want us to fall in love with you, melting in our hearts.  
 You kicked and broke our small play houses with your divine feet.  
 That wasn’t fair.  
@@ -7790,13 +7791,13 @@ You didn’t just stand there with your shining face and smile at us,
 but you kicked over our small play houses.  
 That wasn’t right."  
 
-3363 நின்று இலங்கு முடியினாய் இருபத்தோர் கால்  
-அரசு களைகட்ட  
-வென்றி நீள் மழுவா வியன் ஞாலம் முன் படைத்தாய்  
-இன்று இவ் ஆயர் குலத்தை வீடு உய்யத் தோன்றிய  
-கருமாணிக்கச் சுடர்  
-நின்தன்னால் நலிவே படுவோம் என்றும் ஆய்ச்சியோமே (10)  
-3363. She says, "You have a shining crown.  
+३३६३ निण्ड्रु इलङ्गु मुडियिनाय् इरुबत्तोर् काल्  
+अरसु कळैगट्ट  
+वॆण्ड्रि नीळ् मऴुवा वियन् ञालम् मुन् पडैत्ताय्  
+इण्ड्रु इव् आयर् कुलत्तै वीडु उय्यत् तोण्ड्रिय  
+करुमाणिक्कच् चुडर्  
+निन्दन्नाल् नलिवे पडुवोम् ऎण्ड्रुम् आय्च्चियोमे (१०)  
+३३६३। She says, "You have a shining crown.  
 You carry a mazhu weapon  
 that conquered and destroyed the kings of thirty-one generations.  
 You created this wide world in ancient times.  
@@ -7805,13 +7806,13 @@ You were born among the cowherd families to give them moksha,
 but see, you are naughty  
 and you always give us cowherd girls trouble."  
 
-3364 ஆய்ச்சி ஆகிய அன்னையால் அன்று வெண்ணெய்  
-வார்த்தையுள் சீற்ற முண்டு அழு  
-கூத்த அப்பன் தன்னை குருகூர்ச் சடகோபன்  
-ஏத்திய தமிழ் மாலை ஆயிரத்துள் இவையும் ஓர் பத்து  
-இசை யொடும்  
-நாத்தன்னால் நவில உரைப்பார்க்கு இல்லை நல்குரவே (11)  
-3364. Sadagopan of Thirukuruhur  
+३३६४ आय्च्चि आगिय अन्नैयाल् अण्ड्रु वॆण्णॆय्  
+वार्त्तैयुळ् सीट्र मुण्डु अऴु  
+कूत्त अप्पन् तन्नै गुरुगूर्च् चडगोबन्  
+एत्तिय तमिऴ् मालै आयिरत्तुळ् इवैयुम् ओर् पत्तु  
+इसै यॊडुम्  
+नात्तन्नाल् नविल उरैप्पार्क्कु इल्लै नल्गुरवे (११)  
+३३६४। Sadagopan of Thirukuruhur  
 composed a thousand pasurams with music  
 on the god, our father, the dancer  
 who cried when his mother Yashoda, the cowherdess,  
@@ -7820,14 +7821,14 @@ If devotees learn and recite with their tongues these ten pasurams
 they will have no troubles in their lives.  
 ---------  
 
-திருவாய்மொழி - ஆறாம் பத்து (மூன்றாம் திருமொழி, 3365-3375)  
-தம்மை வசீகரித்தவன் ஸர்வே#வரன் என்று அருளிச் செய்தல் (திருவிண்ணகர்)  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३३६५-३३७५)  
+तम्मै वसीगरित्तवन् सर्वे#वरन् ऎण्ड्रु अरुळिच् चॆय्दल् (तिरुविण्णगर्)  
 
-3365 நல்குரவும் செல்வும் நரகும் சுவர்க்கமும் ஆய்  
-வெல்பகையும் நட்பும் விடமும் அமுதமும் ஆய்  
-பல்வகையும் பரந்த பெருமான் என்னை ஆள்வானை  
-செல்வம் மல்கு குடித் திருவிண்ணகர்க் கண்டேனே (1)  
-3365. The god is poverty and wealth.  
+३३६५ नल्गुरवुम् सॆल्वुम् नरगुम् सुवर्क्कमुम् आय्  
+वॆल्बगैयुम् नट्पुम् विडमुम् अमुदमुम् आय्  
+पल्वगैयुम् परन्द पॆरुमान् ऎन्नै आळ्वानै  
+सॆल्वम् मल्गु कुडित् तिरुविण्णगर्क् कण्डेने (१)  
+३३६५। The god is poverty and wealth.  
 He is heaven and hell.  
 He is friend and enemy.  
 He is nectar and poison.  
@@ -7835,11 +7836,11 @@ The lord is omnipresent.
 He rules me—I saw my lord in Thiruviṇṇagar  
 where families live with abundant wealth.  
 
-3366 கண்ட இன்பம் துன்பம் கலக்கங்களும் தேற்றமும் ஆய்  
-தண்டமும் தண்மையும் தழலும் நிழலும் ஆய்  
-கண்டுகோடற்கு அரிய பெருமான் என்னை ஆள்வான் ஊர்  
-தெண் திரைப் புனல் சூழ் திருவிண்ணகர் நல் நகரே (2)  
-3366. He is joy and sorrow.  
+३३६६ कण्ड इन्बम् तुन्बम् कलक्कङ्गळुम् तेट्रमुम् आय्  
+तण्डमुम् तण्मैयुम् तऴलुम् निऴलुम् आय्  
+कण्डुगोडऱ्‌कु अरिय पॆरुमान् ऎन्नै आळ्वान् ऊर्  
+तॆण् तिरैप् पुनल् सूऴ् तिरुविण्णगर् नल् नगरे (२)  
+३३६६। He is joy and sorrow.  
 He is confusion and clarity.  
 He is anger and affection.  
 He is heat and coolness.  
@@ -7848,11 +7849,11 @@ The god of beautiful Thiruviṇṇagar,
 surrounded by water with clear waves,  
 is my ruler.  
 
-3367 நகரமும் நாடுகளும் ஞானமும் மூடமும் ஆய்  
-நிகர் இல் சூழ் சுடர் ஆய் இருள் ஆய் நிலன் ஆய் விசும்பு ஆய்  
-சிகர மாடங்கள் சூழ் திருவிண்ணகர் சேர்ந்த பிரான்  
-புகர் கொள் கீர்த்தி அல்லால் இல்லை யாவர்க்கும் புண்ணியமே (3)  
-3367. He is countries and cities.  
+३३६७ नगरमुम् नाडुगळुम् ज्ञानमुम् मूडमुम् आय्  
+निगर् इल् सूऴ् सुडर् आय् इरुळ् आय् निलन् आय् विसुम्बु आय्  
+सिगर माडङ्गळ् सूऴ् तिरुविण्णगर् सेर्न्द पिरान्  
+पुगर् कॊळ् कीर्त्ति अल्लाल् इल्लै यावर्क्कुम् पुण्णियमे (३)  
+३३६७। He is countries and cities.  
 He is wisdom and ignorance.  
 He is unmatched enveloping light and darkness.  
 He is the earth and sky.  
@@ -7860,11 +7861,11 @@ There is no puṇṇiyam for anyone
 without praising the fame of the lord  
 of Thiruviṇṇagar surrounded by palaces.  
 
-3368 புண்ணியம் பாவம் புணர்ச்சி பிரிவு என்று இவை ஆய்  
-எண்ணம் ஆய் மறப்பு ஆய் உண்மை ஆய் இன்மை ஆய் அல்லன் ஆய்  
-திண்ண மாடங்கள் சூழ் திருவிண்ணகர் சேர்ந்த பிரான்  
-கண்ணன் இன் அருளே கண்டுகொள்மின்கள் கைதவமே? (4)  
-3368. The god is virtue and sin.  
+३३६८ पुण्णियम् पावम् पुणर्चि पिरिवु ऎण्ड्रु इवै आय्  
+ऎण्णम् आय् मऱप्पु आय् उण्मै आय् इन्मै आय् अल्लन् आय्  
+तिण्ण माडङ्गळ् सूऴ् तिरुविण्णगर् सेर्न्द पिरान्  
+कण्णन् इन् अरुळे कण्डुगॊळ्मिन्गळ् कैदवमे? (४)  
+३३६८। The god is virtue and sin.  
 He is being together and separation.  
 He is remembrance and forgetfulness.  
 He is all that is in the world  
@@ -7875,11 +7876,11 @@ our dear god of Thiruviṇṇagar
 surrounded by strong palaces,  
 and take on yourself his cleverness.  
 
-3369 கைதவம் செம்மை கருமை வெளுமையும் ஆய்  
-மெய் பொய் இளமை முதுமை புதுமை பழமையும் ஆய்  
-செய்த திண் மதிள் சூழ் திருவிண்ணகர் சேர்ந்த பிரான்  
-பெய்த காவு கண்டீர் பெரும் தேவு உடை மூவுலகே (5)  
-3369. He is bad and good.  
+३३६९ कैदवम् सॆम्मै करुमै वॆळुमैयुम् आय्  
+मॆय् पॊय् इळमै मुदुमै पुदुमै पऴमैयुम् आय्  
+सॆय्द तिण् मदिळ् सूऴ् तिरुविण्णगर् सेर्न्द पिरान्  
+पॆय्द कावु कण्डीर् पॆरुम् तेवु उडै मूवुलगे (५)  
+३३६९। He is bad and good.  
 He is black and white.  
 He is truth and falsehood.  
 He is youth and age.  
@@ -7888,11 +7889,11 @@ Our god stays in Thiruviṇṇagar surrounded by strong walls.
 He is the great god of the three worlds,  
 and see, he will protect all the worlds.  
 
-3370 மூவுலகங்களும் ஆய் அல்லன் ஆய் உகப்பு ஆய் முனிவு ஆய்  
-பூவில் வாழ் மகள் ஆய் தவ்வை ஆய் புகழ் ஆய் பழி ஆய்  
-தேவர் மேவித் தொழும் திருவிண்ணகர் சேர்ந்த பிரான்  
-பாவியேன் மனத்தே உறைகின்ற பரஞ்சுடரே (6)  
-3370. He is all the three worlds and he is not them.  
+३३७० मूवुलगङ्गळुम् आय् अल्लन् आय् उगप्पु आय् मुनिवु आय्  
+पूविल् वाऴ् मगळ् आय् तव्वै आय् पुगऴ् आय् पऴि आय्  
+तेवर् मेवित् तॊऴुम् तिरुविण्णगर् सेर्न्द पिरान्  
+पावियेन् मनत्ते उऱैगिण्ड्र परञ्जुडरे (६)  
+३३७०। He is all the three worlds and he is not them.  
 He is happiness and hatred.  
 He is Lakshmi, the goddess on a lotus.  
 He is the inauspicious goddess.  
@@ -7901,14 +7902,14 @@ The gods in the sky come to worship
 the lord of Thiruvinnagar, the highest light,  
 and he stays in this sinner’s mind.  
 
-3371 பரம் சுடர் உடம்பு ஆய் அழுக்குப் பதித்த உடம்பு ஆய்  
-கரந்தும் தோன்றியும் நின்றும் கைதவங்கள் செய்தும் விண்ணோர்  
-சிரங்களால் வணங்கும் திருவிண்ணகர் சேர்ந்த பிரான்  
-வரம் கொள் பாதம் அல்லால் இல்லை யாவர்க்கும் வன் சரணே (7)  
-3371. He takes shining divine forms.  
+३३७१ परम् सुडर् उडम्बु आय् अऴुक्कुप् पदित्त उडम्बु आय्  
+करन्दुम् तोण्ड्रियुम् निण्ड्रुम् कैदवङ्गळ् सॆय्दुम् विण्णोर्  
+सिरङ्गळाल् वणङ्गुम् तिरुविण्णगर् सेर्न्द पिरान्  
+वरम् कॊळ् पादम् अल्लाल् इल्लै यावर्क्कुम् वन् सरणे (७)  
+३३७१। He takes shining divine forms.  
 He takes forms that are unclean.  
 He hides himself.  
-He presents himself to his devotees .  
+He presents himself to his devotees ।  
 He stays in the world.  
 He does naughty deeds.  
 The gods from the sky come and worship,  
@@ -7916,11 +7917,11 @@ bowing their heads to our god of Thiruviṇṇagar.
 There is no refuge for anyone but the feet of the lord  
 who give boons to all.  
 
-3372 வன் சரண் சுரர்க்கு ஆய் அசுரர்க்கு வெம் கூற்றமும் ஆய்  
-தன் சரண் நிழற்கீழ் உலகம் வைத்தும் வையாதும்  
-தென் சரண் திசைக்குத் திருவிண்ணகர் சேர்ந்த பிரான்  
-என் சரண் என் கண்ணன் என்னை ஆளுடை என் அப்பனே (8)  
-3372. He gives refuge to the gods.  
+३३७२ वन् सरण् सुरर्क्कु आय् असुरर्क्कु वॆम् कूट्रमुम् आय्  
+तन् सरण् निऴऱ्‌कीऴ् उलगम् वैत्तुम् वैयादुम्  
+तॆन् सरण् तिसैक्कुत् तिरुविण्णगर् सेर्न्द पिरान्  
+ऎन् सरण् ऎन् कण्णन् ऎन्नै आळुडै ऎन् अप्पने (८)  
+३३७२। He gives refuge to the gods.  
 He is cruel Yama for the Asurans.  
 He keeps good people beneath his feet and protects them  
 but he does not protect those who are bad.  
@@ -7929,11 +7930,11 @@ and protect the southern direction.
 He is my father and he rules me.  
 My god Kanṇan is my refuge.  
 
-3373 என் அப்பன் எனக்கு ஆய் இகுள் ஆய் என்னைப் பெற்றவள் ஆய்  
-பொன் அப்பன் மணி அப்பன் முத்து அப்பன் அன் அப்பனும் ஆய்  
-மின்னப் பொன் மதிள் சூழ் திருவிண்ணகர் சேர்ந்த அப்பன்  
-தன் ஒப்பார் இல் அப்பன் தந்தனன் தன தாள் நிழலே (9)  
-3373. He is my father.  
+३३७३ ऎन् अप्पन् ऎनक्कु आय् इगुळ् आय् ऎन्नैप् पॆट्रवळ् आय्  
+पॊन् अप्पन् मणि अप्पन् मुत्तु अप्पन् अन् अप्पनुम् आय्  
+मिन्नप् पॊन् मदिळ् सूऴ् तिरुविण्णगर् सेर्न्द अप्पन्  
+तन् ऒप्पार् इल् अप्पन् तन्दनन् तन ताळ् निऴले (९)  
+३३७३। He is my father.  
 He is my friend.  
 He is the mother who gave birth to me.  
 He my father is precious as gold, diamonds and pearl.  
@@ -7941,11 +7942,11 @@ He stays in Thiruviṇṇagar
 surrounded with shining golden walls.  
 He, the matchless god, granted me refuge beneath his feet.  
 
-3374 நிழல் வெய்யில் சிறுமை பெருமை குறுமை நெடுமையும் ஆய்  
-சுழல்வன நிற்பன மற்றும் ஆய் அவை அல்லனும் ஆய்  
-மழலை வாய் வண்டு வாழ் திருவிண்ணகர் மன்னு பிரான்  
-கழல்கள் அன்றி மற்றோர் களைகண் இலம் காண்மின்களே (10)  
-3374. He is shadow and sunlight.  
+३३७४ निऴल् वॆय्यिल् सिऱुमै पॆरुमै कुऱुमै नॆडुमैयुम् आय्  
+सुऴल्वन निऱ्‌पन मट्रुम् आय् अवै अल्लनुम् आय्  
+मऴलै वाय् वण्डु वाऴ् तिरुविण्णगर् मन्नु पिरान्  
+कऴल्गळ् अण्ड्रि मट्रोर् कळैगण् इलम् काण्मिन्गळे (१०)  
+३३७४। He is shadow and sunlight.  
 He is small and great.  
 He is short and tall.  
 He is those things that move and those that are still,  
@@ -7955,11 +7956,11 @@ where the bees sing as sweetly as babies.
 I have no other refuge  
 than his feet ornamented with anklets.  
 
-3375 காண்மின்கள் உலகீர் என்று கண்முகப்பே நிமிர்ந்த  
-தாள் இணையன் தன்னைக் குருகூர்ச் சடகோபன் சொன்ன  
-ஆணை ஆயிரத்துத் திருவிண்ணகர்ப் பத்தும் வல்லார்  
-கோணை இன்றி விண்ணோர்க்கு என்றும் ஆவர் குரவர்களே (11)  
-3375. Sadagopan of Thirukuruhur  
+३३७५ काण्मिन्गळ् उलगीर् ऎण्ड्रु कण्मुगप्पे निमिर्न्द  
+ताळ् इणैयन् तन्नैक् गुरुगूर्च् चडगोबन् सॊन्न  
+आणै आयिरत्तुत् तिरुविण्णगर्प् पत्तुम् वल्लार्  
+कोणै इण्ड्रि विण्णोर्क्कु ऎण्ड्रुम् आवर् कुरवर्गळे (११)  
+३३७५। Sadagopan of Thirukuruhur  
 composed a thousand poems on the lord  
 who measured the world and the sky with his two feet  
 and said, "O people of the world, see my feet!"  
@@ -7967,18 +7968,18 @@ If devotees learn and recite these ten pasurams on Thiruviṇṇagar
 they will become the gurus of the gods in the sky.  
 ---------  
 
-திருவாய்மொழி - ஆறாம் பத்து (நான்காம் திருமொழி, 3376-3386)  
-கண்ணனது அவதாரச் செயல்களைப் பேசப் பெற்றமைக்குக் களித்தல்  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (नान्गाम् तिरुमॊऴि, ३३७६-३३८६)  
+कण्णनदु अवतारच् चॆयल्गळैप् पेसप् पॆट्रमैक्कुक् कळित्तल्  
 
-3376 குரவை ஆய்ச்சியரோடு கோத்ததும்  
-குன்றம் ஒன்று ஏந்தியதும்  
-உரவு நீர்ப் பொய்கை நாகம் காய்ந்ததும்  
-உட்பட மற்றும் பல  
-அரவில் பள்ளிப் பிரான் தன் மாய  
-வினைகளையே அலற்றி  
-இரவும் நன் பகலும் தவிர்கிலன்  
-என்ன குறை எனக்கே? (1)  
-3376. Our lord danced the kuravai dance with the cowherd girls.  
+३३७६ कुरवै आय्च्चियरोडु कोत्तदुम्  
+कुण्ड्रम् ऒण्ड्रु एन्दियदुम्  
+उरवु नीर्प् पॊय्गै नागम् काय्न्ददुम्  
+उट्पड मट्रुम् पल  
+अरविल् पळ्ळिप् पिरान् तन् माय  
+विनैगळैये अलट्रि  
+इरवुम् नन् पगलुम् तविर्गिलन्  
+ऎन्न कुऱै ऎनक्के? (१)  
+३३७६। Our lord danced the kuravai dance with the cowherd girls.  
 He carried Govardhana mountain to protect the cows.  
 He danced on the head of the snake Kalingan  
 in the pond with roaring water.  
@@ -7986,15 +7987,15 @@ The lord sleeps on a snake bed and I prattle night and day,
 telling all his magic deeds without stopping.  
 What bad things can happen to me from now on?  
 
-3377 கேயத் தீம் குழல் ஊதிற்றும் நிரை மேய்த்ததும்  
-கெண்டை ஒண் கண்  
-வாசப் பூங் குழல் பின்னை தோள்கள்  
-மணந்ததும் மற்றும் பல  
-மாயக் கோலப் பிரான் தன் செய்கை  
-நினைந்து மனம் குழைந்து  
-நேயத்தோடு கழிந்த போது எனக்கு  
-எவ் உலகம் நிகரே? (2)  
-3376. Our lord danced the kuravai dance with the cowherd girls.  
+३३७७ केयत् तीम् कुऴल् ऊदिट्रुम् निरै मेय्त्तदुम्  
+कॆण्डै ऒण् कण्  
+वासप् पूङ् गुऴल् पिन्नै तोळ्गळ्  
+मणन्ददुम् मट्रुम् पल  
+मायक् कोलप् पिरान् तन् सॆय्गै  
+निनैन्दु मनम् कुऴैन्दु  
+नेयत्तोडु कऴिन्द पोदु ऎनक्कु  
+ऎव् उलगम् निगरे? (२)  
+३३७६। Our lord danced the kuravai dance with the cowherd girls.  
 He carried Govardhana mountain to protect the cows.  
 He danced on the head of the snake Kalingan  
 in the pond with roaring water.  
@@ -8002,15 +8003,15 @@ The lord sleeps on a snake bed and I prattle night and day,
 telling all his magic deeds without stopping.  
 What bad things can happen to me from now on?  
 
-3378 நிகர் இல் மல்லரைச் செற்றதும் நிரை மேய்த்ததும்  
-நீள் நெடும் கைச்  
-சிகர மா களிறு அட்டதும் இவை  
-போல்வனவும் பிறவும்  
-புகர்கொள் சோதிப் பிரான் தன் செய்கை  
-நினைந்து புலம்பி என்றும்  
-நுகர வைகல் வைகப்பெற்றேன் எனக்கு  
-என் இனி நோவதுவே? (3)  
-3378. He killed the matchless heroic wrestlers.  
+३३७८ निगर् इल् मल्लरैच् चॆट्रदुम् निरै मेय्त्तदुम्  
+नीळ् नॆडुम् कैच्  
+चिगर मा कळिऱु अट्टदुम् इवै  
+पोल्वनवुम् पिऱवुम्  
+पुगर्गॊळ् सोदिप् पिरान् तन् सॆय्गै  
+निनैन्दु पुलम्बि ऎण्ड्रुम्  
+नुगर वैगल् वैगप्पॆट्रेन् ऎनक्कु  
+ऎन् इनि नोवदुवे? (३)  
+३३७८। He killed the matchless heroic wrestlers.  
 He grazed the herd of cows.  
 He killed the angry long-trunked elephant Kuvalayabeeḍam.  
 I think constantly and prattle about these deeds  
@@ -8018,30 +8019,30 @@ and others like them of the radiant lord praised by all.
 He gives his grace to me every day.  
 What suffering can there be for me now?  
 
-3379 நோவ ஆய்ச்சி உரலோடு ஆர்க்க இரங்கிற்றும்  
-வஞ்சப் பெண்ணைச்  
-சாவப் பால் உண்டதும் ஊர் சகடம்  
-இறச் சாடியதும்  
-தேவக் கோலப் பிரான் தன் செய்கை  
-நினைந்து மனம் குழைந்து  
-மேவக் காலங்கள் கூடினேன் எனக்கு  
-என் இனி வேண்டுவதே? (4)  
-3379. He cried when Yashoda tied him to a mortar.  
+३३७९ नोव आय्च्चि उरलोडु आर्क्क इरङ्गिट्रुम्  
+वञ्जप् पॆण्णैच्  
+चावप् पाल् उण्डदुम् ऊर् सगडम्  
+इऱच् चाडियदुम्  
+तेवक् कोलप् पिरान् तन् सॆय्गै  
+निनैन्दु मनम् कुऴैन्दु  
+मेवक् कालङ्गळ् कूडिनेन् ऎनक्कु  
+ऎन् इनि वेण्डुवदे? (४)  
+३३७९। He cried when Yashoda tied him to a mortar.  
 He drank the milk of the cheating devil Puthana.  
 Sakaṭasuran came in the form of a cart and he kicked him.  
 When I think of all the heroic deeds of the beautiful god of gods  
 my heart melts and is constantly with the god.  
 What do I want any more?  
 
-3380 வேண்டித் தேவர் இரக்க வந்து பிறந்ததும்  
-வீங்கு இருள்வாய்  
-பூண்டு அன்று அன்னைப் புலம்ப போய் அங்கு ஓர்  
-ஆய்க்குலம் புக்கதும்  
-காண்டல் இன்றி வளர்ந்து கஞ்சனைத் துஞ்ச  
-வஞ்சம் செய்ததும்  
-ஈண்டு நான் அலற்றப்பெற்றேன் எனக்கு  
-என்ன இகல் உளதே? (5)  
-3380. He was born as Kaṇṇan  
+३३८० वेण्डित् तेवर् इरक्क वन्दु पिऱन्ददुम्  
+वीङ्गु इरुळ्वाय्  
+पूण्डु अण्ड्रु अन्नैप् पुलम्ब पोय् अङ्गु ओर्  
+आय्क्कुलम् पुक्कदुम्  
+काण्डल् इण्ड्रि वळर्न्दु कञ्जनैत् तुञ्ज  
+वञ्जम् सॆय्ददुम्  
+ईण्डु नान् अलट्रप्पॆट्रेन् ऎनक्कु  
+ऎन्न इगल् उळदे? (५)  
+३३८०। He was born as Kaṇṇan  
 when the gods asked him to come and destroy the Rakshasas.  
 While his mother suffered and cried  
 his father Vasudeva took him in the darkness  
@@ -8051,15 +8052,15 @@ and that his tricks would destroy him.
 I prattle on thinking of all his heroic deeds.  
 How could there be any enemy for me?  
 
-3381 இகல் கொள் புள்ளைப் பிளந்ததும் இமில்  
-ஏறுகள் செற்றதுவும்  
-உயர் கொள் சோலைக் குருந்து ஒசித்ததும்  
-உட்பட மற்றும் பல  
-அகல் கொள் வையம் அளந்த மாயன் என்  
-அப்பன் தன் மாயங்களே  
-பகல் இராப் பரவப் பெற்றேன் எனக்கு  
-என்ன மனப் பரிப்பே? (6)  
-3381. When an Asuran came as his enemy in the form of a bird  
+३३८१ इगल् कॊळ् पुळ्ळैप् पिळन्ददुम् इमिल्  
+एऱुगळ् सॆट्रदुवुम्  
+उयर् कॊळ् सोलैक् गुरुन्दु ऒचित्तदुम्  
+उट्पड मट्रुम् पल  
+अगल् कॊळ् वैयम् अळन्द मायन् ऎन्  
+अप्पन् तन् मायङ्गळे  
+पगल् इराप् परवप् पॆट्रेन् ऎनक्कु  
+ऎन्न मनप् परिप्पे? (६)  
+३३८१। When an Asuran came as his enemy in the form of a bird  
 he split open its beak and killed it.  
 He killed seven bulls to marry Nappinnai.  
 He broke the kurundam trees that grew tall in the groves.  
@@ -8067,15 +8068,15 @@ He is the Maayan who measured the wide world at the sacrifice of Mahabali.
 Night and day I praise the magical deeds of my father the god.  
 I will have no trouble in my heart.  
 
-3382 மனப் பரிப்போடு அழுக்கு மானிட  
-சாதியில் தான்பிறந்து  
-தனக்கு வேண்டு உருக்கொண்டு தான் தன  
-சீற்றத்தினை முடிக்கும்  
-புனத் துழாய் முடி மாலை மார்பன் என்  
-அப்பன் தன் மாயங்களே  
-நினைக்கும் நெஞ்சு உடையேன் எனக்கு  
-இனி யார் நிகர் நீள் நிலத்தே? (7)  
-3382. He showed his compassion by being born  
+३३८२ मनप् परिप्पोडु अऴुक्कु मानिड  
+सादियिल् तान्बिऱन्दु  
+तनक्कु वेण्डु उरुक्कॊण्डु तान् तन  
+सीट्रत्तिनै मुडिक्कुम्  
+पुनत् तुऴाय् मुडि मालै मार्बन् ऎन्  
+अप्पन् तन् मायङ्गळे  
+निनैक्कुम् नॆञ्जु उडैयेन् ऎनक्कु  
+इनि यार् निगर् नीळ् निलत्ते? (७)  
+३३८२। He showed his compassion by being born  
 to help the evil people of the earth.  
 He took any form he wished.  
 My father, adorned with a forest thulasi garland on his chest,  
@@ -8083,59 +8084,59 @@ came to the earth because he was angry at the evil Rakshasas.
 I think constantly of the magical deeds of my father, the lord.  
 Who is there as fortunate as I?  
 
-3383 நீள் நிலத்தொடு வான் வியப்ப நிறை பெரும்  
-போர்கள் செய்து  
-வாணன் ஆயிரம் தோள் துணித்ததும்  
-உட்பட மற்றும் பல  
-மாணி ஆய் நிலம் கொண்ட மாயன் என்  
-அப்பன் தன் மாயங்களே  
-காணும் நெஞ்சு உடையேன் எனக்கு  
-இனி என்ன கலக்கம் உண்டே? (8)  
-3383. He fought many terrific battles, amazing the world.  
+३३८३ नीळ् निलत्तॊडु वान् वियप्प निऱै पॆरुम्  
+पोर्गळ् सॆय्दु  
+वाणन् आयिरम् तोळ् तुणित्तदुम्  
+उट्पड मट्रुम् पल  
+माणि आय् निलम् कॊण्ड मायन् ऎन्  
+अप्पन् तन् मायङ्गळे  
+काणुम् नॆञ्जु उडैयेन् ऎनक्कु  
+इनि ऎन्न कलक्कम् उण्डे? (८)  
+३३८३। He fought many terrific battles, amazing the world.  
 He cut off the thousand arms of Vaṇasuran.  
 He measured the earth and sky at the sacrifice of Mahabali.  
 I know all the magical deeds of my father, the Maayan  
 and there is no distress in my mind anymore.  
 
-3384 கலக்க ஏழ் கடல் ஏழ் மலை உலகு ஏழும்  
-கழியக் கடாய்  
-உலக்கத் தேர்கொடு சென்ற மாயமும்  
-உட்பட மற்றும் பல  
-வலக்கை ஆழி இடக்கைச் சங்கம்  
-இவை உடை மால்வண்ணனை  
-மலக்கும் நா உடையேற்கு மாறு உளதோ  
-இம் மண்ணின் மிசையே? (9)  
+३३८४ कलक्क एऴ् कडल् एऴ् मलै उलगु एऴुम्  
+कऴियक् कडाय्  
+उलक्कत् तेर्गॊडु सॆण्ड्र मायमुम्  
+उट्पड मट्रुम् पल  
+वलक्कै आऴि इडक्कैच् चङ्गम्  
+इवै उडै माल्वण्णनै  
+मलक्कुम् ना उडैयेऱ्‌कु माऱु उळदो  
+इम् मण्णिन् मिसैये? (९)  
 
-3384. He swallowed all the seven seas, the seven mountains  
+३३८४। He swallowed all the seven seas, the seven mountains  
 and the seven worlds.  
 He drove the chariot for Arjuna with his maayam.  
 He carries the discus in his right hand and the conch in his left,  
 I prattle, praising the dark-colored god with my tongue  
 and that is all I want to do.  
 
-3385 மண்மிசைப் பெரும் பாரம் நீங்க ஓர்  
-பாரத மா பெரும் போர்  
-பண்ணி மாயங்கள் செய்து சேனையைப் பாழ்பட  
-நூற்றிட்டுப் போய்  
-விண்மிசைத் தன தாமமே புக மேவிய  
-சோதி தன் தாள்  
-நண்ணி நான் வணங்கப்பெற்றேன் எனக்கு  
-ஆர் பிறர் நாயகரே? (10)  
-3385. He made Arjuna fight in the terrible Bharatha war.  
+३३८५ मण्मिसैप् पॆरुम् पारम् नीङ्ग ओर्  
+पारद मा पॆरुम् पोर्  
+पण्णि मायङ्गळ् सॆय्दु सेनैयैप् पाऴ्बड  
+नूट्रिट्टुप् पोय्  
+विण्मिसैत् तन ताममे पुग मेविय  
+सोदि तन् ताळ्  
+नण्णि नान् वणङ्गप्पॆट्रेन् ऎनक्कु  
+आर् पिऱर् नायगरे? (१०)  
+३३८५। He made Arjuna fight in the terrible Bharatha war.  
 He performed many magic deeds and destroyed the Kaurava army.  
 He is a bright light in the sky and he wears the garland of victory.  
 I approached and worshiped him.  
 Who could be my lord in this world but he?  
 
-3386 நாயகன் முழு ஏழ் உலகுக்கும்  
-ஆய் முழு ஏழ் உலகும் தன்  
-வாயகம் புக வைத்து உமிழ்ந்து  
-அவை ஆய் அவை அல்லனும் ஆம்  
-கேசவன் அடி இணைமிசைக்  
-குருகூர்ச் சடகோபன் சொன்ன  
-தூய ஆயிரத்து இப் பத்தால்  
-பத்தர் ஆவர் துவள் இன்றியே (11)  
-3386. Sagagopan of Thirukuruhur worshiped the feet  
+३३८६ नायगन् मुऴु एऴ् उलगुक्कुम्  
+आय् मुऴु एऴ् उलगुम् तन्  
+वायगम् पुग वैत्तु उमिऴ्न्दु  
+अवै आय् अवै अल्लनुम् आम्  
+केसवन् अडि इणैमिसैक्  
+गुरुगूर्च् चडगोबन् सॊन्न  
+तूय आयिरत्तु इप् पत्ताल्  
+पत्तर् आवर् तुवळ् इण्ड्रिये (११)  
+३३८६। Sagagopan of Thirukuruhur worshiped the feet  
 of the lord Kesavan and composed a thousand poems.  
 The lord of all the seven worlds swallowed them all,  
 kept them in his stomach and at end of the world  
@@ -8144,18 +8145,18 @@ If devotees learn and recite these ten pasurams
 they will become faultless devotees of the god.  
 -----------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (ஐந்தாம் திருமொழி, 3387-3397)  
-தோழி தாய்மாரை நோக்கிக் கூறுதல் (தொலைவில்லிமங்கலம்)  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३३८७-३३९७)  
+तोऴि ताय्मारै नोक्किक् कूऱुदल् (तॊलैविल्लिमङ्गलम्)  
 
-3387 துவள் இல் மா மணி மாடம் ஓங்கு  
-தொலைவில்லிமங்கலம் தொழும்  
-இவளை நீர் இனி அன்னைமீர் உமக்கு  
-ஆசை இல்லை விடுமினோ  
-தவள ஒண் சங்கு சக்கரம் என்றும்  
-தாமரைத் தடம் கண் என்றும்  
-குவளை ஒண் மலர்க் கண்கள் நீர் மல்க  
-நின்று நின்று குமுறுமே (1)  
-3387. Her friends say,  
+३३८७ तुवळ् इल् मा मणि माडम् ओङ्गु  
+तॊलैविल्लिमङ्गलम् तॊऴुम्  
+इवळै नीर् इनि अन्नैमीर् उमक्कु  
+आसै इल्लै विडुमिनो  
+तवळ ऒण् सङ्गु सक्करम् ऎण्ड्रुम्  
+तामरैत् तडम् कण् ऎण्ड्रुम्  
+कुवळै ऒण् मलर्क् कण्गळ् नीर् मल्ग  
+निण्ड्रु निण्ड्रु कुमुऱुमे (१)  
+३३८७। Her friends say,  
 "O mothers! She worships Tholaivillimangalam  
 filled with palaces studded with bright faultless diamonds.  
 O mothers, you took her to Tholaivillimangalam  
@@ -8167,15 +8168,15 @@ His big eyes are beautiful as lotuses.’
 Her eyes, as beautiful as kuvalai flowers, are filled with tears  
 and she stands and cries."  
 
-3388 குமுறும் ஓசை விழவு ஒலித்  
-தொலைவில்லிமங்கலம் கொண்டுபுக்கு  
-அமுத மென் மொழியாளை நீர் உமக்கு  
-ஆசை இன்றி அகற்றினீர்  
-திமிர் கொண்டால் ஒத்து நிற்கும் மற்று இவள்  
-தேவ தேவபிரான் என்றே  
-நிமியும் வாயொடு கண்கள் நீர் மல்க  
-நெக்கு ஒசிந்து கரையுமே (2)  
-3388. Her friends say,  
+३३८८ कुमुऱुम् ओसै विऴवु ऒलित्  
+तॊलैविल्लिमङ्गलम् कॊण्डुबुक्कु  
+अमुद मॆन् मॊऴियाळै नीर् उमक्कु  
+आसै इण्ड्रि अगट्रिनीर्  
+तिमिर् कॊण्डाल् ऒत्तु निऱ्‌कुम् मट्रु इवळ्  
+तेव तेवबिरान् ऎण्ड्रे  
+निमियुम् वायॊडु कण्गळ् नीर् मल्ग  
+नॆक्कु ऒसिन्दु करैयुमे (२)  
+३३८८। Her friends say,  
 "O mothers, you took your daughter with soft words sweet as nectar  
 to Tholaivillimangalam where the noise of festivals is loud  
 and you brought her back.  
@@ -8184,15 +8185,15 @@ She stands, unable to do anything,
 and she says, ‘You are the god of gods!’  
 Her eyes are filled with tears and she melts with love for him."  
 
-3389 கரை கொள் பைம் பொழில் தண் பணைத்  
-தொலைவில்லிமங்கலம் கொண்டுபுக்கு  
-உரை கொள் இன் மொழியாளை நீர் உமக்கு  
-ஆசை இன்றி அகற்றினீர்  
-திரை கொள் பௌவத்துச் சேர்ந்ததும்  
-திசை ஞாலம் தாவி அளந்ததும்  
-நிரைகள் மேய்த்ததுமே பிதற்றி  
-நெடும் கண் நீர் மல்க நிற்குமே (3)  
-3389. Her friends say,  
+३३८९ करै कॊळ् पैम् पॊऴिल् तण् पणैत्  
+तॊलैविल्लिमङ्गलम् कॊण्डुबुक्कु  
+उरै कॊळ् इन् मॊऴियाळै नीर् उमक्कु  
+आसै इण्ड्रि अगट्रिनीर्  
+तिरै कॊळ् पौवत्तुच् चेर्न्ददुम्  
+तिसै ञालम् तावि अळन्ददुम्  
+निरैगळ् मेय्त्तदुमे पितट्रि  
+नॆडुम् कण् नीर् मल्ग निऱ्‌कुमे (३)  
+३३८९। Her friends say,  
 "O mothers, your daughter’s words are sweet as nectar.  
 You took her to Thirutholaivillimangalam  
 on the banks of the Thamiraparaṇi river,  
@@ -8204,15 +8205,15 @@ He measured the earth and the sky.
 He grazes the cows.’  
 She prattles on and her long eyes are filled with tears."  
 
-3390 நிற்கும் நால்மறைவாணர் வாழ்  
-தொலைவில்லிமங்கலம் கண்டபின்  
-அற்கம் ஒன்றும் அற உறாள் மலிந்தாள்  
-கண்டீர் இவள் அன்னைமீர்  
-கற்கும் கல்வி எல்லாம் கருங் கடல்  
-வண்ணன் கண்ண பிரான் என்றே  
-ஒற்கம் ஒன்றும் இலள் உகந்து உகந்து  
-உள் மகிழ்ந்து குழையுமே (4)  
-3390. Her friends say,  
+३३९० निऱ्‌कुम् नाल्मऱैवाणर् वाऴ्  
+तॊलैविल्लिमङ्गलम् कण्डबिन्  
+अऱ्‌कम् ऒण्ड्रुम् अऱ उऱाळ् मलिन्दाळ्  
+कण्डीर् इवळ् अन्नैमीर्  
+कऱ्‌कुम् कल्वि ऎल्लाम् करुङ् गडल्  
+वण्णन् कण्ण पिरान् ऎण्ड्रे  
+ऒऱ्‌कम् ऒण्ड्रुम् इलळ् उगन्दु उगन्दु  
+उळ् मगिऴ्न्दु कुऴैयुमे (४)  
+३३९०। Her friends say,  
 "O mothers, look.  
 You took her to Thirutholaivillimangalam  
 where Brahmins who know all four Vedas live.  
@@ -8222,15 +8223,15 @@ She doesn’t want to listen to you but says,
 She repeats this again and again, never growing tired.  
 In her heart she is happy and melts for him."  
 
-3391 குழையும் வாள் முகத்து ஏழையைத்  
-தொலைவில்லிமங்கலம் கொண்டுபுக்கு  
-இழை கொள் சோதிச் செந்தாமரைக் கண்  
-பிரான் இருந்தமை காட்டினீர்  
-மழை பெய்தால் ஒக்கும் கண்ண நீரினொடு  
-அன்று தொட்டும் மையாந்து இவள்  
-நுழையும் சிந்தையள் அன்னைமீர் தொழும்  
-அத் திசை உற்று நோக்கியே (5)  
-3391. Her friends say,  
+३३९१ कुऴैयुम् वाळ् मुगत्तु एऴैयैत्  
+तॊलैविल्लिमङ्गलम् कॊण्डुबुक्कु  
+इऴै कॊळ् सोदिच् चॆन्दामरैक् कण्  
+पिरान् इरुन्दमै काट्टिनीर्  
+मऴै पॆय्दाल् ऒक्कुम् कण्ण नीरिनॊडु  
+अण्ड्रु तॊट्टुम् मैयान्दु इवळ्  
+नुऴैयुम् सिन्दैयळ् अन्नैमीर् तॊऴुम्  
+अत् तिसै उट्रु नोक्किये (५)  
+३३९१। Her friends say,  
 "O mothers, your innocent daughter has a gentle shining face.  
 You took her to Tholaivillimangalam  
 and showed her the beautiful lotus-eyed lord  
@@ -8241,15 +8242,15 @@ and thinks only of him.
 She constantly looks in the direction where god stays  
 and worships him."  
 
-3392 நோக்கும் பக்கம் எல்லாம் கரும்பொடு  
-செந்நெல் ஓங்கு செந்தாமரை  
-வாய்க்கும் தண் பொருநல் வடகரை  
-வண் தொலைவில்லிமங்கலம்  
-நோக்குமேல் அத் திசை அல்லால் மறு  
-நோக்கு இலள் வைகல் நாள்தொறும்  
-வாய்க்கொள் வாசகமும் மணிவண்ணன்  
-நாமமே இவள் அன்னைமீர்! (6)  
-3391. Her friends say,  
+३३९२ नोक्कुम् पक्कम् ऎल्लाम् करुम्बॊडु  
+सॆन्नॆल् ओङ्गु सॆन्दामरै  
+वाय्क्कुम् तण् पॊरुनल् वडगरै  
+वण् तॊलैविल्लिमङ्गलम्  
+नोक्कुमेल् अत् तिसै अल्लाल् मऱु  
+नोक्कु इलळ् वैगल् नाळ्दॊऱुम्  
+वाय्क्कॊळ् वाचकमुम् मणिवण्णन्  
+नाममे इवळ् अन्नैमीर्! (६)  
+३३९१। Her friends say,  
 "O mothers, your innocent daughter has a gentle shining face.  
 You took her to Tholaivillimangalam  
 and showed her the beautiful lotus-eyed lord  
@@ -8260,15 +8261,15 @@ and thinks only of him.
 She constantly looks in the direction where god stays  
 and worships him."  
 
-3393 அன்னைமீர் அணி மா மயில் சிறுமான்  
-இவள் நம்மைக் கைவலிந்து  
-என்ன வார்த்தையும் கேட்குறாள்  
-தொலைவில்லிமங்கலம் என்று அல்லால்  
-முன்னம் நோற்ற விதிகொலோ? முகில்  
-வண்ணன் மாயம் கொலோ? அவன்  
-சின்னமும் திருநாமமும் இவள்  
-வாயனகள் திருந்தவே (7)  
-3393. Her friends say,  
+३३९३ अन्नैमीर् अणि मा मयिल् सिऱुमान्  
+इवळ् नम्मैक् कैवलिन्दु  
+ऎन्न वार्त्तैयुम् केट्कुऱाळ्  
+तॊलैविल्लिमङ्गलम् ऎण्ड्रु अल्लाल्  
+मुन्नम् नोट्र विधिगॊलो? मुगिल्  
+वण्णन् मायम् कॊलो? अवन्  
+सिन्नमुम् तिरुनाममुम् इवळ्  
+वायनगळ् तिरुन्दवे (७)  
+३३९३। Her friends say,  
 "O mothers, your daughter is as beautiful as a peacock  
 and innocent as a small deer.  
 She refuses to listen to anything we say  
@@ -8279,15 +8280,15 @@ She constantly speaks of his divine name
 and his discus, sword, club and conch.  
 Her mouth can only say the god’s names clearly."  
 
-3394 திருந்து வேதமும் வேள்வியும்  
-திரு மா மகளிரும் தாம் மலிந்து  
-இருந்து வாழ் பொருநல் வடகரை  
-வண் தொலைவில்லிமங்கலம்  
-கருந் தடம் கண்ணி கைதொழுத அந் நாள்  
-தொடங்கி இந் நாள்தொறும்  
-இருந்து இருந்து அரவிந்தலோசன  
-என்று என்றே நைந்து இரங்குமே (8)  
-3393. Her friends say,  
+३३९४ तिरुन्दु वेदमुम् वेळ्वियुम्  
+तिरु मा मगळिरुम् ताम् मलिन्दु  
+इरुन्दु वाऴ् पॊरुनल् वडगरै  
+वण् तॊलैविल्लिमङ्गलम्  
+करुन् दडम् कण्णि कैदॊऴुद अन् नाळ्  
+तॊडङ्गि इन् नाळ्दॊऱुम्  
+इरुन्दु इरुन्दु अरविन्दलोसन  
+ऎण्ड्रु ऎण्ड्रे नैन्दु इरङ्गुमे (८)  
+३३९३। Her friends say,  
 "O mothers, your daughter is as beautiful as a peacock  
 and innocent as a small deer.  
 She refuses to listen to anything we say  
@@ -8298,15 +8299,15 @@ She constantly speaks of his divine name
 and his discus, sword, club and conch.  
 Her mouth can only say the god’s names clearly."  
 
-3395 இரங்கி நாள்தொறும் வாய்வெரீஇ இவள்  
-கண்ண நீர்கள் அலமர  
-மரங்களும் இரங்கும் வகை  
-மணிவண்ணவோ என்று கூவுமால்  
-துரங்கம் வாய் பிளந்தான் உறை  
-தொலைவில்லிமங்கலம் என்று தன்  
-கரங்கள் கூப்பித் தொழும் அவ் ஊர்த்  
-திருநாமம் கற்றதன் பின்னையே (9)  
-3395. Her friends say,  
+३३९५ इरङ्गि नाळ्दॊऱुम् वाय्वॆरीइ इवळ्  
+कण्ण नीर्गळ् अलमर  
+मरङ्गळुम् इरङ्गुम् वगै  
+मणिवण्णवो ऎण्ड्रु कूवुमाल्  
+तुरङ्गम् वाय् पिळन्दान् उऱै  
+तॊलैविल्लिमङ्गलम् ऎण्ड्रु तन्  
+करङ्गळ् कूप्पित् तॊऴुम् अव् ऊर्त्  
+तिरुनामम् कट्रदन् पिन्नैये (९)  
+३३९५। Her friends say,  
 "O mothers, she worries every day  
 and is afraid to say anything.  
 Her eyes are filled with tears.  
@@ -8318,15 +8319,15 @@ and said, ‘That is Tholaivillimangalam of the god
 who split open the Asuran’s mouth  
 when he came in the form of a horse.’"  
 
-3396 பின்னைகொல் நில மா மகள்கொல்  
-திருமகள்கொல் பிறந்திட்டாள்?  
-என்ன மாயம்கொலோ இவள் நெடுமால்  
-என்றே நின்று கூவுமால்  
-முன்னி வந்து அவன் நின்று இருந்து  
-உறையும் தொலைவில்லிமங்கலம்  
-சென்னியால் வணங்கும் அவ் ஊர்த்  
-திருநாமம் கேட்பது சிந்தையே. (10)  
-3396. Her friends say,  
+३३९६ पिन्नैगॊल् निल मा मगळ्गॊल्  
+तिरुमगळ्गॊल् पिऱन्दिट्टाळ्?  
+ऎन्न मायम्गॊलो इवळ् नॆडुमाल्  
+ऎण्ड्रे निण्ड्रु कूवुमाल्  
+मुन्नि वन्दु अवन् निण्ड्रु इरुन्दु  
+उऱैयुम् तॊलैविल्लिमङ्गलम्  
+सॆन्नियाल् वणङ्गुम् अव् ऊर्त्  
+तिरुनामम् केट्पदु सिन्दैये। (१०)  
+३३९६। Her friends say,  
 "O mothers, is she Nappinnai?  
 Is she the great earth goddess?  
 Is she beautiful Lakshmi?  
@@ -8336,15 +8337,15 @@ Her heart wants to hear the divine names of the lord
 of Tholaivillimangalam  
 and she worships him bowing her head."  
 
-3397 சிந்தையாலும் சொல்லாலும்  
-செய்கையினாலும் தேவ பிரானையே  
-தந்தை தாய் என்று அடைந்த  
-வண் குருகூரவர் சடகோபன்  
-முந்தை ஆயிரத்துள் இவை தொலை  
-வில்லிமங்கலத்தைச் சொன்ன  
-செந்தமிழ்ப் பத்தும் வல்லார்  
-அடிமைசெய்வார் திருமாலுக்கே (11)  
-3397. Sadagopan of rich Thirukuruhur  
+३३९७ सिन्दैयालुम् सॊल्लालुम्  
+सॆय्गैयिनालुम् तेव पिरानैये  
+तन्दै ताय् ऎण्ड्रु अडैन्द  
+वण् गुरुगूरवर् सडगोबन्  
+मुन्दै आयिरत्तुळ् इवै तॊलै  
+विल्लिमङ्गलत्तैच् चॊन्न  
+सॆन्दमिऴ्प् पत्तुम् वल्लार्  
+अडिमैसॆय्वार् तिरुमालुक्के (११)  
+३३९७। Sadagopan of rich Thirukuruhur  
 worships the god with his thoughts, words and deeds.  
 He praised the god, his father and mother.  
 He composed a thousand poems  
@@ -8353,14 +8354,14 @@ If devotees learn and recite these ten pure Tamil pasurams
 they will become the devotees of Thirumaal.  
 -----------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (ஆறாம் திருமொழி, 3398-3408)  
-தலைவனது பிரிவால் வருந்தும் தலைமகளைக் குறித்துத் தாய் இரங்குதல்  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (आऱाम् तिरुमॊऴि, ३३९८-३४०८)  
+तलैवनदु पिरिवाल् वरुन्दुम् तलैमगळैक् कुऱित्तुत् ताय् इरङ्गुदल्  
 
-3398 மாலுக்கு வையம் அளந்த மணாளற்கு  
-நீலக் கரு நிற மேக நியாயற்கு  
-கோலச் செந்தாமரைக் கண்ணற்கு என் கொங்கு அலர்  
-ஏலக் குழலி இழந்தது சங்கே (1)  
-3398. Her mother says,  
+३३९८ मालुक्कु वैयम् अळन्द मणाळऱ्‌कु  
+नीलक् करु निऱ मेग नियायऱ्‌कु  
+कोलच् चॆन्दामरैक् कण्णऱ्‌कु ऎन् कॊङ्गु अलर्  
+एलक् कुऴलि इऴन्ददु सङ्गे (१)  
+३३९८। Her mother says,  
 "The god measured the world at Mahabali’s sacrifice.  
 My daughter is decorated with lovely flowers  
 dripping with honey in her hair.  
@@ -8369,11 +8370,11 @@ and fallen from her arms
 because she loves the beautiful god, the lotus-eyed Kaṇṇan,  
 the dark cloud-colored Maal."  
 
-3399 சங்கு வில் வாள் தண்டு சக்கரக் கையற்கு  
-செங்கனிவாய்ச் செய்ய தாமரைக் கண்ணற்கு  
-கொங்கு அலர் தண் அம் துழாய் முடியானுக்கு என்  
-மங்கை இழந்தது மாமை நிறமே (2)  
-3399. Her mother says,  
+३३९९ सङ्गु विल् वाळ् तण्डु सक्करक् कैयऱ्‌कु  
+सॆङ्गनिवाय्च् चॆय्य तामरैक् कण्णऱ्‌कु  
+कॊङ्गु अलर् तण् अम् तुऴाय् मुडियानुक्कु ऎन्  
+मङ्गै इऴन्ददु मामै निऱमे (२)  
+३३९९। Her mother says,  
 "The god carries in his hands  
 a conch, bow, sword, club and a discus.  
 His mouth is sweet as a fruit.  
@@ -8383,33 +8384,33 @@ blooming with flowers that drip honey.
 My daughter has lost her dark color and become pale  
 because she is in love with him."  
 
-3400 நிறம் கரியானுக்கு நீடு உலகு உண்ட  
-திறம் கிளர் வாய்ச் சிறுக் கள்வன் அவற்கு  
-கறங்கிய சக்கரக் கையவனுக்கு என்  
-பிறங்கு இரும் கூந்தல் இழந்தது பீடே (3)  
-3400. Her mother says,  
+३४०० निऱम् करियानुक्कु नीडु उलगु उण्ड  
+तिऱम् किळर् वाय्च् चिऱुक् कळ्वन् अवऱ्‌कु  
+कऱङ्गिय सक्करक् कैयवनुक्कु ऎन्  
+पिऱङ्गु इरुम् कून्दल् इऴन्ददु पीडे (३)  
+३४००। Her mother says,  
 "He, the dark god, the little thief who stole butter,  
 swallowed the wide world with his beautiful red mouth.  
 He has a whirling discus in his hand.  
 My girl with long beautiful hair  
 has lost her pride because she loves the dark-colored god."  
 
-3401 பீடு உடை நான்முகனைப் படைத்தானுக்கு  
-மாடு உடை வையம் அளந்த மணாளற்கு  
-நாடு உடை மன்னர்க்குத் தூது செல் நம்பிக்கு என்  
-பாடு உடை அல்குல் இழந்தது பண்பே (4)  
-3401. He created the famous Nanmuhan.  
+३४०१ पीडु उडै नान्मुगनैप् पडैत्तानुक्कु  
+माडु उडै वैयम् अळन्द मणाळऱ्‌कु  
+नाडु उडै मन्नर्क्कुत् तूदु सॆल् नम्बिक्कु ऎन्  
+पाडु उडै अल्गुल् इऴन्ददु पण्बे (४)  
+३४०१। He created the famous Nanmuhan.  
 He measured the flourishing world  
 and went as a messenger to the Kauravas for the Pandavas  
 to ask for their lands.  
 My daughter has lost the beauty of her wide hips  
 because she loves Nambi.  
 
-3402 பண்பு உடை வேதம் பயந்த பரனுக்கு  
-மண் புரை வையம் இடந்த வராகற்கு  
-தெண் புனல் பள்ளி எம் தேவ பிரானுக்கு என்  
-கண்புனை கோதை இழந்தது கற்பே (5)  
-3402. He gave the marvelous Vedas to the world.  
+३४०२ पण्बु उडै वेदम् पयन्द परनुक्कु  
+मण् पुरै वैयम् इडन्द वरागऱ्‌कु  
+तॆण् पुनल् पळ्ळि ऎम् तेव पिरानुक्कु ऎन्  
+कण्बुनै कोदै इऴन्ददु कऱ्‌पे (५)  
+३४०२। He gave the marvelous Vedas to the world.  
 He came as a boar and split open the world  
 that is filled with sand.  
 He, the lord of the gods, sleeps on a bed on the clear ocean.  
@@ -8417,41 +8418,41 @@ My daughter is precious as my eyes.
 She has lost her chastity  
 because she loves the highest god of gods  
 
-3403 கற்பகக் கா அன நல் பல தோளற்கு  
-பொன் சுடர்க் குன்று அன்ன பூந் தண் முடியற்கு  
-நல் பல தாமரை நாள் மலர்க் கையற்கு என்  
-வில் புருவக்கொடி தோற்றது மெய்யே (6)  
-3403. His many arms are like the branches of the Karpaga garden.  
+३४०३ कऱ्‌पगक् का अन नल् पल तोळऱ्‌कु  
+पॊन् सुडर्क् कुण्ड्रु अन्न पून् दण् मुडियऱ्‌कु  
+नल् पल तामरै नाळ् मलर्क् कैयऱ्‌कु ऎन्  
+विल् पुरुवक्कॊडि तोट्रदु मॆय्ये (६)  
+३४०३। His many arms are like the branches of the Karpaga garden.  
 He wears a beautiful crown like a shining hill.  
 He has lovely lotus-like hands.  
 It is true that my lovely daughter  
 who has bow-shaped eyebrows has lost her beauty.  
 
-3404 மெய் அமர் பல் கலன் நன்கு அணிந்தானுக்கு  
-பை அரவின் அணைப் பள்ளியினானுக்கு  
-கையொடு கால் செய்ய கண்ண பிரானுக்கு என்  
-தையல் இழந்தது தன்னுடைச் சாயே (7)  
-3403. His many arms are like the branches of the Karpaga garden.  
+३४०४ मॆय् अमर् पल् कलन् नन्गु अणिन्दानुक्कु  
+पै अरविन् अणैप् पळ्ळियिनानुक्कु  
+कैयॊडु काल् सॆय्य कण्ण पिरानुक्कु ऎन्  
+तैयल् इऴन्ददु तन्नुडैच् चाये (७)  
+३४०३। His many arms are like the branches of the Karpaga garden.  
 He wears a beautiful crown like a shining hill.  
 He has lovely lotus-like hands.  
 It is true that my lovely daughter  
 who has bow-shaped eyebrows has lost her beauty.  
 
-3405 சாயக் குருந்தம் ஒசித்த தமியற்கு  
-மாயச் சகடம் உதைத்த மணாளற்கு  
-பேயைப் பிணம்படப் பால் உண் பிரானுக்கு என்  
-வாசக் குழலி இழந்தது மாண்பே (8)  
-3405. The matchless god broke the kurundam tree.  
+३४०५ सायक् गुरुन्दम् ऒचित्त तमियऱ्‌कु  
+मायच् चगडम् उदैत्त मणाळऱ्‌कु  
+पेयैप् पिणम्बडप् पाल् उण् पिरानुक्कु ऎन्  
+वासक् कुऴलि इऴन्ददु माण्बे (८)  
+३४०५। The matchless god broke the kurundam tree.  
 He kicked Sakaṭasuran and killed him.  
 He drank the milk from the breast of the devil Putana and killed her.  
 My daughter with fragrant hair has lost her pride  
 because she loves him.  
 
-3406 மாண்பு அமை கோலத்து எம் மாயக் குறளற்கு  
-சேண் சுடர்க் குன்று அன்ன செஞ்சுடர் மூர்த்திக்கு  
-காண் பெரும் தோற்றத்து எம் காகுத்த நம்பிக்கு என்  
-பூண் புனை மென்முலை தோற்றது பொற்பே (9)  
-3406. He took the form of a lovely magic dwarf  
+३४०६ माण्बु अमै कोलत्तु ऎम् मायक् कुऱळऱ्‌कु  
+सेण् सुडर्क् कुण्ड्रु अन्न सॆञ्जुडर् मूर्त्तिक्कु  
+काण् पॆरुम् तोट्रत्तु ऎम् कागुत्त नम्बिक्कु ऎन्  
+पूण् पुनै मॆन्मुलै तोट्रदु पॊऱ्‌पे (९)  
+३४०६। He took the form of a lovely magic dwarf  
 and cheated king Mahabali.  
 His shines like a lustrous hill.  
 He is the handsome Nambi of the Kahusta dynasty.  
@@ -8459,11 +8460,11 @@ My daughter’s soft breasts
 adorned with lovely ornaments have lost their beauty  
 because she loves him.  
 
-3407 பொற்பு அமை நீள் முடிப் பூந் தண் துழாயற்கு  
-மல் பொரு தோள் உடை மாயப் பிரானுக்கு  
-நிற்பன பல் உருவாய் நிற்கும் மாயற்கு என்  
-கற்பு உடையாட்டி இழந்தது கட்டே (10)  
-3406. He took the form of a lovely magic dwarf  
+३४०७ पॊऱ्‌पु अमै नीळ् मुडिप् पून् दण् तुऴायऱ्‌कु  
+मल् पॊरु तोळ् उडै मायप् पिरानुक्कु  
+निऱ्‌पन पल् उरुवाय् निऱ्‌कुम् मायऱ्‌कु ऎन्  
+कऱ्‌पु उडैयाट्टि इऴन्ददु कट्टे (१०)  
+३४०६। He took the form of a lovely magic dwarf  
 and cheated king Mahabali.  
 His shines like a lustrous hill.  
 He is the handsome Nambi of the Kahusta dynasty.  
@@ -8471,11 +8472,11 @@ My daughter’s soft breasts
 adorned with lovely ornaments have lost their beauty  
 because she loves him.  
 
-3408 கட்டு எழில் சோலை நல் வேங்கடவாணனைக்  
-கட்டு எழில் தென் குருகூர்ச் சடகோபன் சொல்  
-கட்டு எழில் ஆயிரத்து இப் பத்தும் வல்லவர்  
-கட்டு எழில் வானவர் போகம் உண்பாரே (11)  
-3408. Saḍagopan of southern Thirukuruhur  
+३४०८ कट्टु ऎऴिल् सोलै नल् वेङ्गडवाणनैक्  
+कट्टु ऎऴिल् तॆन् गुरुगूर्च् चडगोबन् सॊल्  
+कट्टु ऎऴिल् आयिरत्तु इप् पत्तुम् वल्लवर्  
+कट्टु ऎऴिल् वानवर् पोगम् उण्बारे (११)  
+३४०८। Saḍagopan of southern Thirukuruhur  
 composed a thousand beautiful pasurams  
 on the god of Venkaṭam hill  
 surrounded by thick beautiful groves.  
@@ -8483,14 +8484,14 @@ If devotees learn and recite these ten pasurams well
 they will go to heaven and enjoy being with gods.  
 --------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (ஏழாம் திருமொழி, 3409-3419)  
-தலைவனது நகர்நோக்கிச் சென்ற மகளைக் குறித்துத் தாய் இரங்குதல் (திருக்கோளூர்)  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (एऴाम् तिरुमॊऴि, ३४०९-३४१९)  
+तलैवनदु नगर्नोक्किच् चॆण्ड्र मगळैक् कुऱित्तुत् ताय् इरङ्गुदल् (तिरुक्कोळूर्)  
 
-3409 உண்ணும் சோறு பருகும் நீர் தின்னும் வெற்றிலையும் எல்லாம்  
-கண்ணன் எம் பெருமான் என்று என்றே கண்கள் நீர் மல்கி  
-மண்ணினுள் அவன் சீர் வளம் மிக்கவன் ஊர் வினவி  
-திண்ணம் என் இளமான் புகும் ஊர் திருக்கோளூரே (1)  
-3409. Her mother says,  
+३४०९ उण्णुम् सोऱु परुगुम् नीर् तिन्नुम् वॆट्रिलैयुम् ऎल्लाम्  
+कण्णन् ऎम् पॆरुमान् ऎण्ड्रु ऎण्ड्रे कण्गळ् नीर् मल्गि  
+मण्णिनुळ् अवन् सीर् वळम् मिक्कवन् ऊर् विनवि  
+तिण्णम् ऎन् इळमान् पुगुम् ऊर् तिरुक्कोळूरे (१)  
+३४०९। Her mother says,  
 "My daughter, gentle as a young deer,  
 says, ‘The food we eat, the water we drink  
 and the betelnut we chew all belong to Kaṇṇan.’  
@@ -8498,11 +8499,11 @@ Her eyes are filled with tears.
 She asks where the famous god stays  
 and will surely go to Thirukkoḷur."  
 
-3410 ஊரும் நாடும் உலகமும் தன்னைப்போல் அவனுடைய  
-பேரும் தார்களுமே பிதற்ற கற்பு வான் இடறி  
-சேரும் நல் வளம் சேர் பழனத் திருக்கோளூர்க்கே  
-போரும் கொல் உரையீர் கொடியேன் கொடி பூவைகளே? (2)  
-3409. Her mother says,  
+३४१० ऊरुम् नाडुम् उलगमुम् तन्नैप्पोल् अवनुडैय  
+पेरुम् तार्गळुमे पितट्र कऱ्‌पु वान् इडऱि  
+सेरुम् नल् वळम् सेर् पऴनत् तिरुक्कोळूर्क्के  
+पोरुम् कॊल् उरैयीर् कॊडियेन् कॊडि पूवैगळे? (२)  
+३४०९। Her mother says,  
 "My daughter, gentle as a young deer,  
 says, ‘The food we eat, the water we drink  
 and the betelnut we chew all belong to Kaṇṇan.’  
@@ -8510,11 +8511,11 @@ Her eyes are filled with tears.
 She asks where the famous god stays  
 and will surely go to Thirukkoḷur."  
 
-3411 பூவை பைங்கிளிகள் பந்து தூதை பூம் புட்டில்கள்  
-யாவையும் திருமால் திருநாமங்களே கூவி எழும் என்  
-பாவை போய் இனித் தண் பழனத் திருக்கோளூர்க்கே  
-கோவை வாய் துடிப்ப மழைக்கண்ணொடு என் செய்யும்கொலோ? (3)  
-3411.Her mother says,  
+३४११ पूवै पैङ्गिळिगळ् पन्दु तूदै पूम् पुट्टिल्गळ्  
+यावैयुम् तिरुमाल् तिरुनामङ्गळे कूवि ऎऴुम् ऎन्  
+पावै पोय् इनित् तण् पऴनत् तिरुक्कोळूर्क्के  
+कोवै वाय् तुडिप्प मऴैक्कण्णॊडु ऎन् सॆय्युम्गॊलो? (३)  
+३४११।Her mother says,  
 "My daughter’s puvai birds,  
 green parrots, balls, wood dolls and flower baskets  
 all call loudly the divine names of Thirumaal with her.  
@@ -8522,11 +8523,11 @@ Will my doll-like daughter reach Thirukoḷur surrounded by cool fields?
 What can she do if her lips that are like kovai fruits throb  
 and her eyes shed tears like rain?"  
 
-3412 கொல்லை என்பர்கொலோ குணம் மிக்கனள் என்பர்கொலோ  
-சில்லை வாய்ப் பெண்டுகள் அயல் சேரி உள்ளாரும்? எல்லே  
-செல்வம் மல்கி அவன்கிடந்த திருக்கோளூர்க்கே  
-மேல் இடை நுடங்க இளமான் செல்ல மேவினளே (4)  
-3411.Her mother says,  
+३४१२ कॊल्लै ऎन्बर्गॊलो कुणम् मिक्कनळ् ऎन्बर्गॊलो  
+सिल्लै वाय्प् पॆण्डुगळ् अयल् सेरि उळ्ळारुम्? ऎल्ले  
+सॆल्वम् मल्गि अवन्गिडन्द तिरुक्कोळूर्क्के  
+मेल् इडै नुडङ्ग इळमान् सॆल्ल मेविनळे (४)  
+३४११।Her mother says,  
 "My daughter’s puvai birds,  
 green parrots, balls, wood dolls and flower baskets  
 all call loudly the divine names of Thirumaal with her.  
@@ -8534,11 +8535,11 @@ Will my doll-like daughter reach Thirukoḷur surrounded by cool fields?
 What can she do if her lips that are like kovai fruits throb  
 and her eyes shed tears like rain?"  
 
-3413 மேவி நைந்து நைந்து விளையாடலுறாள் என் சிறுத்  
-தேவி போய் இனித் தன் திருமால் திருக்கோளூரில்  
-பூ இயல் பொழிலும் தடமும் அவன் கோயிலும் கண்டு  
-ஆவி உள் குளிர எங்ஙனே உகக்கும்கொல் இன்றே? (5)  
-3413. Her mother says,  
+३४१३ मेवि नैन्दु नैन्दु विळैयाडलुऱाळ् ऎन् सिऱुत्  
+तेवि पोय् इनित् तन् तिरुमाल् तिरुक्कोळूरिल्  
+पू इयल् पॊऴिलुम् तडमुम् अवन् कोयिलुम् कण्डु  
+आवि उळ् कुळिर ऎङ्ङने उगक्कुम्गॊल् इण्ड्रे? (५)  
+३४१३। Her mother says,  
 "My little daughter, as beautiful as a goddess,  
 does not want to play with her toys  
 and only worries and worries.  
@@ -8546,11 +8547,11 @@ Today when she reaches Thirukoḷur of Thirumaal
 will her heart be happy to see  
 the blooming groves, ponds and the temple of the lord?"  
 
-3414 இன்று எனக்கு உதவாது அகன்ற இளமான் இனிப் போய்  
-தென் திசைத் திலதம் அனைய திருக்கோளூர்க்கே  
-சென்று தன் திருமால் திருக்கண்ணும் செவ்வாயும் கண்டு  
-நின்று நின்று நையும் நெடும் கண்கள் பனி மல்கவே (6)  
-3414. Her mother says,  
+३४१४ इण्ड्रु ऎनक्कु उदवादु अगण्ड्र इळमान् इनिप् पोय्  
+तॆन् तिसैत् तिलदम् अनैय तिरुक्कोळूर्क्के  
+सॆण्ड्रु तन् तिरुमाल् तिरुक्कण्णुम् सॆव्वायुम् कण्डु  
+निण्ड्रु निण्ड्रु नैयुम् नॆडुम् कण्गळ् पनि मल्गवे (६)  
+३४१४। Her mother says,  
 "My daughter, soft as a young deer  
 does not want to help me in the house  
 and has gone to southern Thirukoḷur,  
@@ -8560,11 +8561,11 @@ and the red mouth of the god
 as her long eyes fill with tears and she worries?"  
 
 
-3415 மல்கு நீர்க் கண்ணொடு மையல் உற்ற மனத்தினளாய்  
-அல்லும் நன் பகலும் நெடுமால் என்று அழைத்து இனிப் போய்  
-செல்வம் மல்கி அவன் கிடந்த திருக்கோளுர்க்கே  
-ஒல்கி ஒல்கி நடந்து எங்ஙனே புகும்கொல் ஒசிந்தே? (7)  
-3415. Her mother says,  
+३४१५ मल्गु नीर्क् कण्णॊडु मैयल् उट्र मनत्तिनळाय्  
+अल्लुम् नन् पगलुम् नॆडुमाल् ऎण्ड्रु अऴैत्तु इनिप् पोय्  
+सॆल्वम् मल्गि अवन् किडन्द तिरुक्कोळुर्क्के  
+ऒल्गि ऒल्गि नडन्दु ऎङ्ङने पुगुम्गॊल् ऒसिन्दे? (७)  
+३४१५। Her mother says,  
 "My daughter says night and day ‘Neḍumaal!’  
 as her eyes fill with tears  
 and her heart fills with love for him.  
@@ -8573,11 +8574,11 @@ where the lord sleeps on the ocean.
 How could she go there walking slowly  
 and be able to enter his temple?"  
 
-3416 ஒசிந்த நுண் இடைமேல் கையை வைத்து நொந்து நொந்து  
-கசிந்த நெஞ்சினளாய் கண்ண நீர் துளும்பச் செல்லும்கொல்  
-ஒசிந்த ஒண் மலராள் கொழுநன் திருக்கோளூர்க்கே  
-கசிந்த நெஞ்சினளாய் எம்மை நீத்த எம் காரிகையே? (8)  
-3416. Her mother says,  
+३४१६ ऒसिन्द नुण् इडैमेल् कैयै वैत्तु नॊन्दु नॊन्दु  
+कसिन्द नॆञ्जिनळाय् कण्ण नीर् तुळुम्बच् चॆल्लुम्गॊल्  
+ऒसिन्द ऒण् मलराळ् कॊऴुनन् तिरुक्कोळूर्क्के  
+कसिन्द नॆञ्जिनळाय् ऎम्मै नीत्त ऎम् कारिगैये? (८)  
+३४१६। Her mother says,  
 "Will my daughter holding her thin waist with her hands  
 worry and fret as she walks,  
 her eyes filling with tears and her heart melting,  
@@ -8585,11 +8586,11 @@ to Thirukoḷur where Lakshmi on a lovely lotus
 stays happily with her husband?  
 Her heart sad, my young daughter has left me."  
 
-3417 காரியம் நல்லனகள் அவை காணில் என் கண்ணனுக்கு என்று  
-ஈரியாய் இருப்பாள் இது எல்லாம் கிடக்க இனிப் போய்  
-சேரி பல் பழி தூஉய் இரைப்ப திருக்கோளூர்க்கே  
-நேரிழை நடந்தாள் எம்மை ஒன்றும் நினைந்திலளே (9)  
-3417. Her mother says,  
+३४१७ कारियम् नल्लनगळ् अवै काणिल् ऎन् कण्णनुक्कु ऎण्ड्रु  
+ईरियाय् इरुप्पाळ् इदु ऎल्लाम् किडक्क इनिप् पोय्  
+सेरि पल् पऴि तूउय् इरैप्प तिरुक्कोळूर्क्के  
+नेरिऴै नडन्दाळ् ऎम्मै ऒण्ड्रुम् निनैन्दिलळे (९)  
+३४१७। Her mother says,  
 "When my daughter sees good things,  
 she says, ‘This is for my Kaṇṇan!’  
 and she thinks of her love for him.  
@@ -8597,11 +8598,11 @@ Lovely with her beautiful ornaments,
 she walks to Thirukoḷur and doesn’t think of me.  
 The village is filled with gossip about her."  
 
-3418 நினைக்கிலேன் தெய்வங்காள் நெடும் கண் இளமான் இனிப் போய்  
-அனைத்து உலகும் உடைய அரவிந்தலோசனனைத்  
-தினைத்தனையும் விடாள் அவன் சேர் திருக்கோளூர்க்கே  
-மனைக்கு வான் பழியும் நினையாள் செல்ல வைத்தனளே (10)  
-3418. Her mother says,  
+३४१८ निनैक्किलेन् तॆय्वङ्गाळ् नॆडुम् कण् इळमान् इनिप् पोय्  
+अनैत्तु उलगुम् उडैय अरविन्दलोसननैत्  
+तिनैत्तनैयुम् विडाळ् अवन् सेर् तिरुक्कोळूर्क्के  
+मनैक्कु वान् पऴियुम् निनैयाळ् सॆल्ल वैत्तनळे (१०)  
+३४१८। Her mother says,  
 "O gods, I cannot think of all the things she is doing.  
 My young deer-like daughter has long eyes  
 and she doesn’t stop even for a moment  
@@ -8610,11 +8611,11 @@ She has gone to Thirukoḷur where he stays
 and she doesn’t worry at all about the disgrace  
 that will come to our family."  
 
-3419 வைத்த மா நிதியாம் மதுசூதனையே அலற்றி  
-கொத்து அலர் பொழில் சூழ் குருகூர்ச் சடகோபன் சொன்ன  
-பத்து நூற்றுள் இப் பத்து அவன் சேர் திருக்கோளூர்க்கே  
-சித்தம் வைத்து உரைப்பார் திகழ் பொன் உலகு ஆள்வாரே (11)  
-3419. Saḍagopan of Thirukuruhur  
+३४१९ वैत्त मा निदियाम् मदुसूदनैये अलट्रि  
+कॊत्तु अलर् पॊऴिल् सूऴ् गुरुगूर्च् चडगोबन् सॊन्न  
+पत्तु नूट्रुळ् इप् पत्तु अवन् सेर् तिरुक्कोळूर्क्के  
+चित्तम् वैत्तु उरैप्पार् तिगऴ् पॊन् उलगु आळ्वारे (११)  
+३४१९। Saḍagopan of Thirukuruhur  
 surrounded by groves blooming with bunches of flowers  
 composed a thousand pasurams on the god Madhusudhanan,  
 the wonderful treasure saved and kept by all.  
@@ -8624,14 +8625,14 @@ where the god stays
 they will reach the golden world of moksha and rule there.  
 -------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (எட்டாம் திருமொழி, 3420-3430)  
-திருநாடு முதலியவற்றில் தலைமகள் பறவைகளைத் தூதுவிடல்  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३४२०-३४३०)  
+तिरुनाडु मुदलियवट्रिल् तलैमगळ् पऱवैगळैत् तूदुविडल्  
 
-3420 பொன் உலகு ஆளீரோ புவனி முழுது ஆளீரோ  
-நல் நலப் புள்ளினங்காள் வினையாட்டியேன் நான் இரந்தேன்  
-முன் உலகங்கள் எல்லாம் படைத்த முகில்வண்ணன் கண்ணன்  
-என் நலம் கொண்ட பிரான் தனக்கு என் நிலைமை உரைத்தே. (1)  
-3420. Her daughter says,  
+३४२० पॊन् उलगु आळीरो पुवनि मुऴुदु आळीरो  
+नल् नलप् पुळ्ळिनङ्गाळ् विनैयाट्टियेन् नान् इरन्देन्  
+मुन् उलगङ्गळ् ऎल्लाम् पडैत्त मुगिल्वण्णन् कण्णन्  
+ऎन् नलम् कॊण्ड पिरान् तनक्कु ऎन् निलैमै उरैत्ते। (१)  
+३४२०। Her daughter says,  
 "O birds, you do good for others,  
 would you do me a favor?  
 I have done bad karma.  
@@ -8644,11 +8645,11 @@ If you help me
 you will reach moksha and rule the golden world there,  
 and you will rule this whole world also."  
 
-3421 மை அமர் வாள் நெடும் கண் மங்கைமார் முன்பு என் கை இருந்து  
-நெய் அமர் இன் அடிசில் நிச்சல் பாலொடு மேவீரோ  
-கை அமர் சக்கரத்து என் கனிவாய்ப் பெருமானைக் கண்டு  
-மெய் அமர் காதல் சொல்லி கிளிகாள் விரைந்து ஓடிவந்தே (2)  
-3421. Her daughter says,  
+३४२१ मै अमर् वाळ् नॆडुम् कण् मङ्गैमार् मुन्बु ऎन् कै इरुन्दु  
+नॆय् अमर् इन् अडिसिल् निच्चल् पालॊडु मेवीरो  
+कै अमर् सक्करत्तु ऎन् कनिवाय्प् पॆरुमानैक् कण्डु  
+मॆय् अमर् कादल् सॊल्लि किळिगाळ् विरैन्दु ओडिवन्दे (२)  
+३४२१। Her daughter says,  
 "O parrots, fly quickly and go to see the highest lord.  
 His mouth is sweet as a fruit  
 and he carries a discus in his hand.  
@@ -8657,11 +8658,11 @@ If you do that I will keep you among my young friends
 whose sharp long eyes are decorated with kohl  
 and feed you sweet rice mixed with ghee."  
 
-3422 ஓடிவந்து என் குழல்மேல் ஒளி மா மலர் ஊதீரோ  
-கூடிய வண்டினங்காள் குருநாடு உடை ஐவர்கட்கு ஆய்  
-ஆடிய மா நெடும் தேர்ப்படை நீறு எழச் செற்ற பிரான்  
-சூடிய தண் துளவம் உண்ட தூ மது வாய்கள் கொண்டே (3)  
-3422. Her daughter says,  
+३४२२ ओडिवन्दु ऎन् कुऴल्मेल् ऒळि मा मलर् ऊदीरो  
+कूडिय वण्डिनङ्गाळ् गुरुनाडु उडै ऐवर्गट्कु आय्  
+आडिय मा नॆडुम् तेर्प्पडै नीऱु ऎऴच् चॆट्र पिरान्  
+सूडिय तण् तुळवम् उण्ड तू मदु वाय्गळ् कॊण्डे (३)  
+३४२२। Her daughter says,  
 "O bees, you fly together in a swarm!  
 The god stood on a great tall chariot on the battlefield  
 and destroyed his enemies for the five Pandavas,  
@@ -8670,11 +8671,11 @@ Won’t you taste the shining beautiful flowers in my hair
 after tasting the cool thulasi garland that the god wears  
 and drinking the honey from it?"  
 
-3423 தூ மது வாய்கள் கொண்டுவந்து என் முல்லைகள்மேல் தும்பிகாள்  
-பூ மது உண்ணச் செல்லில் வினையேனைப் பொய்செய்து அகன்ற  
-மா மது வார் தண் துழாய் முடி வானவர் கோனைக் கண்டு  
-யாம் இதுவோ தக்கவாறு என்னவேண்டும் கண்டீர் நுங்கட்கே? (4)  
-3423. Her daughter says,  
+३४२३ तू मदु वाय्गळ् कॊण्डुवन्दु ऎन् मुल्लैगळ्मेल् तुम्बिगाळ्  
+पू मदु उण्णच् चॆल्लिल् विनैयेनैप् पॊय्सॆय्दु अगण्ड्र  
+मा मदु वार् तण् तुऴाय् मुडि वानवर् कोनैक् कण्डु  
+याम् इदुवो तक्कवाऱु ऎन्नवेण्डुम् कण्डीर् नुङ्गट्के? (४)  
+३४२३। Her daughter says,  
 "O thumbi flies! You stay on my mullai flowers  
 and drink honey from them.  
 If you go to drink the honey on flowers,  
@@ -8686,11 +8687,11 @@ Ask him, ‘Is what you do fair?
 She loves you.  
 What do you want from her to love her back?’"  
 
-3424 நுங்கட்கு யான் உரைக்கேன் வம்மின் யான் வளர்த்த கிளிகாள்  
-வெம் கண் புள் ஊர்ந்து வந்து வினையேனை நெஞ்சம் கவர்ந்த  
-செங்கண் கருமுகிலை செய்ய வாய்ச் செழுங் கற்பகத்தை  
-எங்குச் சென்றாகிலும் கண்டு இதுவோ தக்கவாறு? என்மினே (5)  
-3424. Her daughter says,  
+३४२४ नुङ्गट्कु यान् उरैक्केन् वम्मिन् यान् वळर्त्त किळिगाळ्  
+वॆम् कण् पुळ् ऊर्न्दु वन्दु विनैयेनै नॆञ्जम् कवर्न्द  
+सॆङ्गण् करुमुगिलै सॆय्य वाय्च् चॆऴुङ् गऱ्‌पगत्तै  
+ऎङ्गुच् चॆण्ड्रागिलुम् कण्डु इदुवो तक्कवाऱु? ऎन्मिने (५)  
+३४२४। Her daughter says,  
 "O parrots, I raised you.  
 I want to say something to you. Come to me.  
 I have done bad karma.  
@@ -8700,11 +8701,11 @@ If you see the lord who is generous as a karpaga tree,
 with beautiful eyes, a color dark as a cloud and a red mouth,  
 ask him, ‘Is what you do fair?’"  
 
-3425 என் மின்னு நூல் மார்வன் என் கரும் பெருமான் என் கண்ணன்  
-தன் மன்னு நீள் கழல்மேல் தண் துழாய் நமக்கு அன்றி நல்கான்  
-கல்மின்கள் என்று உம்மை யான் கற்பியாவைத்த மாற்றம்சொல்லி  
-செல்மின்கள் தீவினையேன் வளர்த்த சிறு பூவைகளே (6)  
-3425. Her daughter says,  
+३४२५ ऎन् मिन्नु नूल् मार्वन् ऎन् करुम् पॆरुमान् ऎन् कण्णन्  
+तन् मन्नु नीळ् कऴल्मेल् तण् तुऴाय् नमक्कु अण्ड्रि नल्गान्  
+कल्मिन्गळ् ऎण्ड्रु उम्मै यान् कऱ्‌पियावैत्त माट्रंसॊल्लि  
+सॆल्मिन्गळ् तीविनैयेन् वळर्त्त सिऱु पूवैगळे (६)  
+३४२५। Her daughter says,  
 "O small puvai birds, I raised you.  
 I have done bad karma.  
 The highest dark-colored Kaṇṇan,  
@@ -8714,11 +8715,11 @@ that adorns his long body to anyone but me.
 Wherever you fly say the words that I have taught you.  
 When you see him ask him, ‘Is what you do fair?’"  
 
-3426 பூவைகள் போல் நிறத்தன் புண்டரீகங்கள் போலும் கண்ணன்  
-யாவையும் யாவரும் ஆய் நின்ற மாயன் என் ஆழிப் பிரான்  
-மாவை வல் வாய் பிளந்த மதுசூதற்கு என் மாற்றம் சொல்லி  
-பாவைகள் தீர்க்கிற்றிரே வினையாட்டியேன் பாசறவே? (7)  
-3425. Her daughter says,  
+३४२६ पूवैगळ् पोल् निऱत्तन् पुण्डरीगङ्गळ् पोलुम् कण्णन्  
+यावैयुम् यावरुम् आय् निण्ड्र मायन् ऎन् आऴिप् पिरान्  
+मावै वल् वाय् पिळन्द मदुसूदऱ्‌कु ऎन् माट्रम् सॊल्लि  
+पावैगळ् तीर्क्किट्रिरे विनैयाट्टियेन् पासऱवे? (७)  
+३४२५। Her daughter says,  
 "O small puvai birds, I raised you.  
 I have done bad karma.  
 The highest dark-colored Kaṇṇan,  
@@ -8728,11 +8729,11 @@ that adorns his long body to anyone but me.
 Wherever you fly say the words that I have taught you.  
 When you see him ask him, ‘Is what you do fair?’"  
 
-3427 பாசறவு எய்தி இன்னே வினையேன் எனை ஊழி நைவேன்  
-ஆசு அறு தூவி வெள்ளைக் குருகே அருள்செய்து ஒருநாள்  
-மாசு அறு நீலச் சுடர் முடி வானவர் கோனைக் கண்டு  
-ஏசு அறும் நும்மை அல்லால் மறுநோக்கு இலள் பேர்த்து மற்றே (8)  
-3427. Her daughter says,  
+३४२७ पासऱवु ऎय्दि इन्ने विनैयेन् ऎनै ऊऴि नैवेन्  
+आसु अऱु तूवि वॆळ्ळैक् गुरुगे अरुळ्सॆय्दु ऒरुनाळ्  
+मासु अऱु नीलच् चुडर् मुडि वानवर् कोनैक् कण्डु  
+एसु अऱुम् नुम्मै अल्लाल् मऱुनोक्कु इलळ् पेर्त्तु मट्रे (८)  
+३४२७। Her daughter says,  
 "O white kurugu bird with faultless white feathers,  
 have pity on me.  
 I no longer have any love for my relatives.  
@@ -8742,11 +8743,11 @@ and a faultless dark color and tell him,
 ‘She doesn’t want to think of anyone but you, the faultless one.  
 She is waiting for you to give her your grace.’"  
 
-3428 பேர்த்து மற்று ஓர் களைகண் வினையாட்டியேன் நான் ஒன்று இலேன்  
-நீர்த் திரைமேல் உலவி இரை தேரும் புதா இனங்காள்  
-கார்த் திரள் மா முகில் போல் கண்ணன் விண்ணவர் கோனைக் கண்டு  
-வார்த்தைகள் கொண்டு அருளி உரையீர் வைகல் வந்திருந்தே (9)  
-3428. Her daughter says,  
+३४२८ पेर्त्तु मट्रु ओर् कळैगण् विनैयाट्टियेन् नान् ऒण्ड्रु इलेन्  
+नीर्त् तिरैमेल् उलवि इरै तेरुम् पुदा इनङ्गाळ्  
+कार्त् तिरळ् मा मुगिल् पोल् कण्णन् विण्णवर् कोनैक् कण्डु  
+वार्त्तैगळ् कॊण्डु अरुळि उरैयीर् वैगल् वन्दिरुन्दे (९)  
+३४२८। Her daughter says,  
 "I have done bad karma. I have no refuge but him.  
 O flock of cranes!  
 You search for food wandering near the rippling water.  
@@ -8755,11 +8756,11 @@ the king of the gods in the sky
 and tell him of my love sickness.  
 Then come back at dawn and tell me what he told you."  
 
-3429 வந்திருந்து உம்முடைய மணிச் சேவலும் நீரும் எல்லாம்  
-அந்தரம் ஒன்றும் இன்றி அலர்மேல் அசையும் அன்னங்காள்  
-என் திரு மார்வற்கு என்னை இன்னவாறு இவள் காண்மின் என்று  
-மந்திரத்து ஒன்று உணர்த்தி உரையீர் மறுமாற்றங்களே (10)  
-3429. Her daughter says,  
+३४२९ वन्दिरुन्दु उम्मुडैय मणिच् चेवलुम् नीरुम् ऎल्लाम्  
+अन्तरम् ऒण्ड्रुम् इण्ड्रि अलर्मेल् असैयुम् अन्नङ्गाळ्  
+ऎन् तिरु मार्वऱ्‌कु ऎन्नै इन्नवाऱु इवळ् काण्मिन् ऎण्ड्रु  
+मन्दिरत्तु ऒण्ड्रु उणर्त्ति उरैयीर् मऱुमाट्रङ्गळे (१०)  
+३४२९। Her daughter says,  
 "O swans, you stay happily on flowers with your beloved beautiful mates,  
 so close to them there is no space between you.  
 Go to my lord on whose chest lovely Lakshmi stays  
@@ -8767,11 +8768,11 @@ and tell him, ‘Look at her condition. She suffers for the love of you.’
 Repeat that as if it were a manthra so he will understand it.  
 Then come back in the morning and tell me his answer."  
 
-3430 மாற்றங்கள் ஆய்ந்துகொண்டு மதுசூத பிரான் அடிமேல்  
-நாற்றங்கொள் பூம் பொழில் சூழ் குருகூர்ச் சடகோபன் சொன்ன  
-தோற்றங்கள் ஆயிரத்துள் இவையும் ஒருபத்தும் வல்லார்  
-ஊற்றின்கண் நுண் மணல் போல் உருகாநிற்பர் நீராயே (11)  
-3430. Sadagopan of Thirukuruhur  
+३४३० माट्रङ्गळ् आय्न्दुगॊण्डु मदुसूद पिरान् अडिमेल्  
+नाट्रङ्गॊळ् पूम् पॊऴिल् सूऴ् गुरुगूर्च् चडगोबन् सॊन्न  
+तोट्रङ्गळ् आयिरत्तुळ् इवैयुम् ऒरुबत्तुम् वल्लार्  
+ऊट्रिन्गण् नुण् मणल् पोल् उरुगानिऱ्‌पर् नीराये (११)  
+३४३०। Sadagopan of Thirukuruhur  
 surrounded by fragrant blooming groves  
 composed a thousand pasurams describing how the girls  
 who fall in love with Madhusudanan  
@@ -8781,44 +8782,44 @@ their hearts will melt for the god
 like soft sand in a spring.  
 -------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (ஒன்பதாம் திருமொழி, 3431-3441)  
-கேட்டோர் நெஞ்சம் நீராய் உருகும்வண்ணம் ஆழ்வார் எம்பெருமானைக் கூப்பிடுதல்  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३४३१-३४४१)  
+केट्टोर् नॆञ्जम् नीराय् उरुगुंवण्णम् आऴ्वार् ऎम्बॆरुमानैक् कूप्पिडुदल्  
 
-3431 நீர் ஆய் நிலன் ஆய் தீ ஆய் கால் ஆய் நெடு வான் ஆய்  
-சீர் ஆர் சுடர்கள் இரண்டு ஆய் சிவன் ஆய் அயன் ஆனாய்  
-கூர் ஆர் ஆழி வெண் சங்கு ஏந்தி கொடியேன்பால்  
-வாராய் ஒருநாள் மண்ணும் விண்ணும் மகிழவே (1)  
-3431. O lord, you are the ocean, earth, fire, wind and the wide sky,  
+३४३१ नीर् आय् निलन् आय् ती आय् काल् आय् नॆडु वान् आय्  
+सीर् आर् सुडर्गळ् इरण्डु आय् सिवन् आय् अयन् आनाय्  
+कूर् आर् आऴि वॆण् सङ्गु एन्दि कॊडियेन्बाल्  
+वाराय् ऒरुनाळ् मण्णुम् विण्णुम् मगिऴवे (१)  
+३४३१। O lord, you are the ocean, earth, fire, wind and the wide sky,  
 the bright sun and the moon, Shiva and Brahma.  
 I have done bad karma.  
 One day please come to me carrying your sharp discus  
 and your white conch as the earth and sky exult in joy.  
 
-3432 மண்ணும் விண்ணும் மகிழ குறள் ஆய் வலம் காட்டி  
-மண்ணும் விண்ணும் கொண்ட மாய அம்மானே  
-நண்ணி உனை நான் கண்டு உகந்து கூத்தாட  
-நண்ணி ஒருநாள் ஞாலத்தூடே நடவாயே (2)  
-3432. You, a magical one, are my mother.  
+३४३२ मण्णुम् विण्णुम् मगिऴ कुऱळ् आय् वलम् काट्टि  
+मण्णुम् विण्णुम् कॊण्ड माय अम्माने  
+नण्णि उनै नान् कण्डु उगन्दु कूत्ताड  
+नण्णि ऒरुनाळ् ञालत्तूडे नडवाये (२)  
+३४३२। You, a magical one, are my mother.  
 You took the form of a dwarf  
 and took the earth and sky at Mahabali’s sacrifice.  
 Come to this earth one day  
 and I will approach you, see you and dance happily.  
 
-3433 ஞாலத்தூடே நடந்தும் நின்றும் கிடந்து இருந்தும்  
-சாலப் பல நாள் உகம்தோறு உயிர்கள் காப்பானே  
-கோலத் திரு மா மகளோடு உன்னைக் கூடாதே  
-சாலப் பல நாள் அடியேன் இன்னும் தளர்வேனோ? (3)  
-3433. You come to this earth.  
+३४३३ ञालत्तूडे नडन्दुम् निण्ड्रुम् किडन्दु इरुन्दुम्  
+सालप् पल नाळ् उगम्दोऱु उयिर्गळ् काप्पाने  
+कोलत् तिरु मा मगळोडु उन्नैक् कूडादे  
+सालप् पल नाळ् अडियेन् इन्नुम् तळर्वेनो? (३)  
+३४३३। You come to this earth.  
 walk, stand and sleep and protect the creatures of the world,  
 staying here happily.  
 I want to see you with the beautiful divine Lakshmi.  
 I, your devotee, have grown tired waiting so long to see you.  
 
-3434 தளர்ந்தும் முறிந்தும் சகட அசுரர் உடல் வேறாப்  
-பிளந்து வீய திருக்கால் ஆண்ட பெருமானே  
-கிளர்ந்து பிரமன் சிவன் இந்திரன் விண்ணவர் சூழ  
-விளங்க ஒருநாள் காண வாராய் விண்மீதே (4)  
-3434. You are the highest god.  
+३४३४ तळर्न्दुम् मुऱिन्दुम् सगड असुरर् उडल् वेऱाप्  
+पिळन्दु वीय तिरुक्काल् आण्ड पॆरुमाने  
+किळर्न्दु पिरमन् सिवन् इन्दिरन् विण्णवर् सूऴ  
+विळङ्ग ऒरुनाळ् काण वाराय् विण्मीदे (४)  
+३४३४। You are the highest god.  
 Sakatasuran came as a cart  
 and with your legs you kicked and killed him,  
 breaking the cart into pieces  
@@ -8827,11 +8828,11 @@ Show yourself in the sky one day,
 surrounded by Brahma, Shiva, Indra and all the gods,  
 so the whole world can see you.  
 
-3435 விண்மீது இருப்பாய் மலைமேல் நிற்பாய் கடல் சேர்ப்பாய்  
-மண்மீது உழல்வாய் இவற்றுள் எங்கும் மறைந்து உறைவாய்  
-எண்மீது இயன்ற புற அண்டத்தாய் எனது ஆவி  
-யுள் மீது ஆடி உருக் காட்டாதே ஒளிப்பாயோ? (5)  
-3435. You stay in the sky.  
+३४३५ विण्मीदु इरुप्पाय् मलैमेल् निऱ्‌पाय् कडल् सेर्प्पाय्  
+मण्मीदु उऴल्वाय् इवट्रुळ् ऎङ्गुम् मऱैन्दु उऱैवाय्  
+ऎण्मीदु इयण्ड्र पुऱ अण्डत्ताय् ऎनदु आवि  
+युळ् मीदु आडि उरुक् काट्टादे ऒळिप्पायो? (५)  
+३४३५। You stay in the sky.  
 You stay in a standing form on Thiruvenkaṭam hills.  
 You sleep on the milky ocean.  
 You came to the earth in many forms.  
@@ -8840,21 +8841,21 @@ You are above our thoughts and stay above the earth.
 You are in my soul and you stay there  
 but you do not show your form to my eyes.  
 
-3436 பாய் ஓர் அடி வைத்து அதன் கீழ்ப் பரவை நிலம் எல்லாம்  
-தாய் ஓர் அடியால் எல்லா உலகும் தடவந்த  
-மாயோன் உன்னைக் காண்பான் வருந்தி எனைநாளும்  
-தீயோடு உடன்சேர் மெழுகாய் உலகில் திரிவேனோ? (6)  
-3436. You put one foot on this earth  
+३४३६ पाय् ओर् अडि वैत्तु अदन् कीऴ्प् परवै निलम् ऎल्लाम्  
+ताय् ओर् अडियाल् ऎल्ला उलगुम् तडवन्द  
+मायोन् उन्नैक् काण्बान् वरुन्दि ऎनैनाळुम्  
+तीयोडु उडन्सेर् मॆऴुगाय् उलगिल् तिरिवेनो? (६)  
+३४३६। You put one foot on this earth  
 and took over all the land.  
 You are Maayon who took the whole earth at Mahabali’s sacrifice.  
 I melt like wax in fire,  
 suffering to see you and wandering in the world.  
 
-3437 உலகில் திரியும் கரும கதி ஆய் உலகம் ஆய்  
-உலகுக்கே ஓர் உயிரும் ஆனாய் புற அண்டத்து  
-அலகில் பொலிந்த திசை பத்து ஆய அருவேயோ  
-அலகில் பொலிந்த அறிவிலேனுக்கு அருளாயே (7)  
-3437. You are all the actions of the world.  
+३४३७ उलगिल् तिरियुम् करुम गति आय् उलगम् आय्  
+उलगुक्के ओर् उयिरुम् आनाय् पुऱ अण्डत्तु  
+अलगिल् पॊलिन्द तिसै पत्तु आय अरुवेयो  
+अलगिल् पॊलिन्द अऱिविलेनुक्कु अरुळाये (७)  
+३४३७। You are all the actions of the world.  
 You are the refuge for all creatures of the world.  
 You are the world.  
 You are the soul on this earth.  
@@ -8862,11 +8863,11 @@ You have no form
 but you shine in all the ten directions.  
 I am ignorant. Give me your grace, O shining lord.  
 
-3438 அறிவிலேனுக்கு அருளாய் அறிவார் உயிர் ஆனாய்  
-வெறி கொள் சோதி மூர்த்தி அடியேன் நெடுமாலே  
-கிறிசெய்து என்னைப் புறத்திட்டு இன்னம் கெடுப்பாயோ  
-பிறிது ஒன்று அறியா அடியேன் ஆவி திகைக்கவே? (8)  
-3438. I am ignorant. Give me your grace.  
+३४३८ अऱिविलेनुक्कु अरुळाय् अऱिवार् उयिर् आनाय्  
+वॆऱि कॊळ् सोदि मूर्त्ति अडियेन् नॆडुमाले  
+किऱिसॆय्दु ऎन्नैप् पुऱत्तिट्टु इन्नम् कॆडुप्पायो  
+पिऱिदु ऒण्ड्रु अऱिया अडियेन् आवि तिगैक्कवे? (८)  
+३४३८। I am ignorant. Give me your grace.  
 You are my wise soul and you shine.  
 O Neḍumaal, I am your slave.  
 Are you playing with me, cheating me and spoiling me?  
@@ -8874,33 +8875,33 @@ I am your slave.
 You shock my heart with your games  
 but I know nothing else but loving you.  
 
-3439 ஆவி திகைக்க ஐவர் குமைக்கும் சிற்றின்பம்  
-பாவியேனைப் பல நீ காட்டிப் படுப்பாயோ?  
-தாவி வையம் கொண்ட தடம் தாமரை கட்கே  
-கூவிக் கொள்ளும் காலம் இன்னம் குறுகாதோ? (9)  
-3439. All my five senses hurt and shock my soul.  
+३४३९ आवि तिगैक्क ऐवर् कुमैक्कुम् सिट्रिन्बम्  
+पावियेनैप् पल नी काट्टिप् पडुप्पायो?  
+तावि वैयम् कॊण्ड तडम् तामरै कट्के  
+कूविक् कॊळ्ळुम् कालम् इन्नम् कुऱुगादो? (९)  
+३४३९। All my five senses hurt and shock my soul.  
 I am a sinner.  
 Why do you play with me so much and make me suffer?  
 You have measured the world  
 with your beautiful lotus feet that grew into the sky.  
 Won’t the time come soon when I can call you and join you?  
 
-3440 குறுகா நீளா இறுதிகூடா எனை ஊழி  
-சிறுகா பெருகா அளவு இல் இன்பம் சேர்ந்தாலும்  
-மறு கால் இன்றி மாயோன் உனக்கே ஆளாகும்  
-சிறு காலத்தை உறுமோ அந்தோ தெரியிலே? (10)  
-3440. Pleasures in the world may shrink or grow,  
+३४४० कुऱुगा नीळा इऱुदिगूडा ऎनै ऊऴि  
+सिऱुगा पॆरुगा अळवु इल् इन्बम् सेर्न्दालुम्  
+मऱु काल् इण्ड्रि मायोन् उनक्के आळागुम्  
+सिऱु कालत्तै उऱुमो अन्दो तॆरियिले? (१०)  
+३४४०। Pleasures in the world may shrink or grow,  
 they may go away.  
 The world may end and again arise.  
 O Maayon, even if I join you for a little time  
 that is much better than all the happiness I get in this world.  
 I do not know when that time will come.  
 
-3441 தெரிதல் நினைதல் எண்ணல் ஆகாத் திருமாலுக்கு  
-உரிய தொண்டர் தொண்டர் தொண்டன் சடகோபன்  
-தெரியச் சொன்ன ஓர் ஆயிரத்துள் இப் பத்தும்  
-உரிய தொண்டர் ஆக்கும் உலகம் உண்டாற்கே (11)  
-3441. Saḍagopan, the devotee of the devotees  
+३४४१ तॆरिदल् निनैदल् ऎण्णल् आगात् तिरुमालुक्कु  
+उरिय तॊण्डर् तॊण्डर् तॊण्डन् सडगोबन्  
+तॆरियच् चॊन्न ओर् आयिरत्तुळ् इप् पत्तुम्  
+उरिय तॊण्डर् आक्कुम् उलगम् उण्डाऱ्‌के (११)  
+३४४१। Saḍagopan, the devotee of the devotees  
 of the devotees of dear Thirumaal  
 who know and think only of the god  
 composed a thousand good poems.  
@@ -8908,18 +8909,18 @@ If devotees learn and recite these ten poems
 they will become the devotees of the god of the world.  
 -------------  
 
-திருவாய்மொழி - ஆறாம் பத்து (பத்தாம் திருமொழி, 3442-3452)  
-திருவேங்கடமுடையானது திருவடிகளில் சரணம்புகுதல் (திருவேங்கடம்)  
+तिरुवाय्मॊऴि - आऱाम् पत्तु (पत्ताम् तिरुमॊऴि, ३४४२-३४५२)  
+तिरुवेङ्गडमुडैयानदु तिरुवडिगळिल् सरणम्बुगुदल् (तिरुवेङ्गडम्)  
 
-3442 உலகம் உண்ட பெருவாயா  
-உலப்பு இல் கீர்த்தி அம்மானே  
-நிலவும் சுடர் சூழ் ஒளி மூர்த்தி  
-நெடியாய் அடியேன் ஆர் உயிரே  
-திலதம் உலகுக்கு ஆய் நின்ற  
-திருவேங்கடத்து எம் பெருமானே  
-குல தொல் அடியேன் உன பாதம்  
-கூடும் ஆறு கூறாயே (1)  
-3442. O god,  
+३४४२ उलगम् उण्ड पॆरुवाया  
+उलप्पु इल् कीर्त्ति अम्माने  
+निलवुम् सुडर् सूऴ् ऒळि मूर्त्ति  
+नॆडियाय् अडियेन् आर् उयिरे  
+तिलदम् उलगुक्कु आय् निण्ड्र  
+तिरुवेङ्गडत्तु ऎम् पॆरुमाने  
+कुल तॊल् अडियेन् उन पादम्  
+कूडुम् आऱु कूऱाये (१)  
+३४४२। O god,  
 you swallowed all the worlds with your huge mouth.  
 O father, you have limitless fame.  
 You shine surrounded by the sun and moon.  
@@ -8930,15 +8931,15 @@ and you are like a thilakam for the world.
 I am your devotee born in an ancient family.  
 Tell me how to reach your feet.  
 
-3443 கூறு ஆய் நீறு ஆய் நிலன் ஆகி  
-கொடு வல் அசுரர் குலம் எல்லாம்  
-சீறா எரியும் திரு நேமி  
-வலவா தெய்வக் கோமானே  
-சேறு ஆர் சுனைத் தாமரை செந்தீ  
-மலரும் திருவேங்கடத்தானே  
-ஆறா அன்பில் அடியேன் உன்  
-அடிசேர் வண்ணம் அருளாயே (2)  
-3443. You are the form of the five elements  
+३४४३ कूऱु आय् नीऱु आय् निलन् आगि  
+कॊडु वल् असुरर् कुलम् ऎल्लाम्  
+सीऱा ऎरियुम् तिरु नेमि  
+वलवा तॆय्वक् कोमाने  
+सेऱु आर् सुनैत् तामरै सॆन्दी  
+मलरुम् तिरुवेङ्गडत्ताने  
+आऱा अन्बिल् अडियेन् उन्  
+अडिसेर् वण्णम् अरुळाये (२)  
+३४४३। You are the form of the five elements  
 fire, land, water. fire and wind.  
 You carry a divine discus  
 and you killed all the strong cruel Rakshasa tribes  
@@ -8948,15 +8949,15 @@ where lotuses red as fire bloom from the mud in springs.
 I love you without any limit.  
 Give me your grace and bring me to your feet.  
 
-3444 வண்ணம் மருள் கொள் அணி மேக  
-வண்ணா மாய அம்மானே  
-எண்ணம் புகுந்து தித்திக்கும்  
-அமுதே இமையோர் அதிபதியே  
-தெள் நல் அருவி மணி பொன் முத்து  
-அலைக்கும் திருவேங்கடத்தானே  
-அண்ணலே உன் அடி சேர  
-அடியேற்கு ஆஆ என்னாயே (3)  
-3444. O my father,  
+३४४४ वण्णम् मरुळ् कॊळ् अणि मेग  
+वण्णा माय अम्माने  
+ऎण्णम् पुगुन्दु तित्तिक्कुम्  
+अमुदे इमैयोर् अदिबदिये  
+तॆळ् नल् अरुवि मणि पॊन् मुत्तु  
+अलैक्कुम् तिरुवेङ्गडत्ताने  
+अण्णले उन् अडि सेर  
+अडियेऱ्‌कु आआ ऎन्नाये (३)  
+३४४४। O my father,  
 you, beautiful cloud-colored Maayan, enchant everyone.  
 You are sweet nectar and you enter my thoughts.  
 You are the lord of the gods whose eyes do not blink.  
@@ -8966,15 +8967,15 @@ scattering diamonds, gold and pearls.
 You are the highest.  
 Give me your grace and bring me to your feet.  
 
-3445 ஆஆ என்னாது உலகத்தை  
-அலைக்கும் அசுரர் வாழ் நாள்மேல்  
-தீ வாய் வாளி மழை பொழிந்த  
-சிலையா திரு மா மகள் கேள்வா  
-தேவா சுரர்கள் முனிக்கணங்கள்  
-விரும்பும் திருவேங்கடத்தானே  
-பூ ஆர் கழல்கள் அருவினையேன்  
-பொருந்துமாறு புணராயே (4)  
-3445. The Asurans troubled people  
+३४४५ आआ ऎन्नादु उलगत्तै  
+अलैक्कुम् असुरर् वाऴ् नाळ्मेल्  
+ती वाय् वाळि मऴै पॊऴिन्द  
+सिलैया तिरु मा मगळ् केळ्वा  
+तेवा सुरर्गळ् मुनिक्कणङ्गळ्  
+विरुम्बुम् तिरुवेङ्गडत्ताने  
+पू आर् कऴल्गळ् अरुविनैयेन्  
+पॊरुन्दुमाऱु पुणराये (४)  
+३४४५। The Asurans troubled people  
 without feeling sorry for them  
 and you shot your fiery arrows like rain and killed them.  
 O divine god, you are the beloved of Lakshmi.  
@@ -8984,15 +8985,15 @@ I have done bad karma.
 Give me your grace and bring me to your lotus feet  
 ornamented with anklets.  
 
-3446 புணரா நின்ற மரம் ஏழ் அன்று  
-எய்த ஒரு வில் வலவா ஓ  
-புணர் ஏய் நின்ற மரம் இரண்டின்  
-நடுவே போன முதல்வா ஓ  
-திணர் ஆர் மேகம் எனக் களிறு  
-சேரும் திருவேங்கடத்தானே  
-திணர் ஆர் சார்ங்கத்து உன பாதம்  
-சேர்வது அடியேன் எந்நாளே? (5)  
-3446. You are the mighty one who, shooting one arrow,  
+३४४६ पुणरा निण्ड्र मरम् एऴ् अण्ड्रु  
+ऎय्द ऒरु विल् वलवा ओ  
+पुणर् एय् निण्ड्र मरम् इरण्डिन्  
+नडुवे पोन मुदल्वा ओ  
+तिणर् आर् मेगम् ऎनक् कळिऱु  
+सेरुम् तिरुवेङ्गडत्ताने  
+तिणर् आर् सार्ङ्गत्तु उन पादम्  
+सेर्वदु अडियेन् ऎन्नाळे? (५)  
+३४४६। You are the mighty one who, shooting one arrow,  
 destroyed the seven trees that were joined together.  
 You, the ancient one, went between the Asurans  
 who came as two trees.  
@@ -9001,15 +9002,15 @@ looks like a group of clouds.
 You carry the mighty bow Charngam.  
 When will I, your devotee, truly join your feet?  
 
-3447 எந்நாளே நாம் மண் அளந்த  
-இணைத் தாமரைகள் காண்பதற்கு என்று  
-எந்நாளும் நின்று இமையோர்கள்  
-ஏத்தி இறைஞ்சி இனம் இனமாய்  
-மெய்ந் நா மனத்தால் வழிபாடு  
-செய்யும் திருவேங்கடத்தானே  
-மெய்ந் நான் எய்தி எந் நாள் உன்  
-அடிக்கண் அடியேன் மேவுவதே? (6)  
-3447. You are the god of Thiruvenkaṭam  
+३४४७ ऎन्नाळे नाम् मण् अळन्द  
+इणैत् तामरैगळ् काण्बदऱ्‌कु ऎण्ड्रु  
+ऎन्नाळुम् निण्ड्रु इमैयोर्गळ्  
+एत्ति इऱैञ्जि इनम् इनमाय्  
+मॆय्न् ना मनत्ताल् वऴिबाडु  
+सॆय्युम् तिरुवेङ्गडत्ताने  
+मॆय्न् नान् ऎय्दि ऎन् नाळ् उन्  
+अडिक्कण् अडियेन् मेवुवदे? (६)  
+३४४७। You are the god of Thiruvenkaṭam  
 where the gods in the sky come, praise and worship  
 with their bodies, tongues and minds, saying,  
 "When will the day come when we see  
@@ -9017,15 +9018,15 @@ the lotus feet that measured the world?"
 When will the true day come  
 when I, your devotee, come and join your feet?  
 
-3448 அடியேன் மேவி அமர்கின்ற  
-அமுதே இமையோர் அதிபதியே  
-கொடியா அடு புள் உடையானே  
-கோலக் கனிவாய்ப் பெருமானே  
-செடி ஆர் வினைகள் தீர் மருந்தே  
-திருவேங்கடத்து எம் பெருமானே  
-நொடி ஆர் பொழுதும் உன பாதம்  
-காண நோலாது ஆற்றேனே (7)  
-3448. You are my nectar.  
+३४४८ अडियेन् मेवि अमर्गिण्ड्र  
+अमुदे इमैयोर् अदिबदिये  
+कॊडिया अडु पुळ् उडैयाने  
+कोलक् कनिवाय्प् पॆरुमाने  
+सॆडि आर् विनैगळ् तीर् मरुन्दे  
+तिरुवेङ्गडत्तु ऎम् पॆरुमाने  
+नॊडि आर् पॊऴुदुम् उन पादम्  
+काण नोलादु आट्रेने (७)  
+३४४८। You are my nectar.  
 and I, your devotee, enjoy worshipping you.  
 You are the lord of the gods and you carry an eagle flag.  
 O highest one, your beautiful mouth is as sweet as a fruit.  
@@ -9034,15 +9035,15 @@ You are the god of Thiruvenkaṭam.
 I suffer wanting to see your feet every moment  
 and I cannot bear it.  
 
-3449 நோலாது ஆற்றேன் உன பாதம்  
-காண என்று நுண் உணர்வின்  
-நீல் ஆர் கண்டத்து அம்மானும்  
-நிறை நான்முகனும் இந்திரனும்  
-சேல் ஏய் கண்ணார் பலர் சூழ  
-விரும்பும் திருவேங்கடத்தானே  
-மாலாய் மயக்கி அடியேன்பால்  
-வந்தாய் போலே வாராயே (8)  
-3449. Shiva who has a dark neck,  
+३४४९ नोलादु आट्रेन् उन पादम्  
+काण ऎण्ड्रु नुण् उणर्विन्  
+नील् आर् कण्डत्तु अम्मानुम्  
+निऱै नान्मुगनुम् इन्दिरनुम्  
+सेल् एय् कण्णार् पलर् सूऴ  
+विरुम्बुम् तिरुवेङ्गडत्ताने  
+मालाय् मयक्कि अडियेन्बाल्  
+वन्दाय् पोले वाराये (८)  
+३४४९। Shiva who has a dark neck,  
 faultless Nanmuhan, Indra  
 and beautiful fish-eyed women  
 join together in Thiruvenkaṭam  
@@ -9051,15 +9052,15 @@ You came to the earth as Maal and fascinated everyone.
 Won’t you come to us  
 just as you have always come to the world?  
 
-3450 வந்தாய் போலே வாராதாய்  
-வாராதாய் போல் வருவானே  
-செந்தாமரைக் கண் செங்கனி வாய்  
-நால் தோள் அமுதே எனது உயிரே  
-சிந்தாமணிகள் பகர் அல்லைப்  
-பகல் செய் திருவேங்கடத்தானே  
-அந்தோ அடியேன் உன பாதம்  
-அகலகில்லேன் இறையுமே (9)  
-3450. It seems as if you are coming,  
+३४५० वन्दाय् पोले वारादाय्  
+वारादाय् पोल् वरुवाने  
+सॆन्दामरैक् कण् सॆङ्गनि वाय्  
+नाल् तोळ् अमुदे ऎनदु उयिरे  
+सिन्दामणिगळ् पगर् अल्लैप्  
+पगल् सॆय् तिरुवेङ्गडत्ताने  
+अन्दो अडियेन् उन पादम्  
+अगलगिल्लेन् इऱैयुमे (९)  
+३४५०। It seems as if you are coming,  
 but you do not come to me.  
 It seems you are not coming, but you do come to me.  
 You have lovely lotus eyes  
@@ -9070,15 +9071,15 @@ where chintamaṇi jewels turn night into day.
 Alas, I am your slave.  
 I cannot be away from your feet even for a moment.  
 
-3451 அகலகில்லேன் இறையும் என்று  
-அலர்மேல் மங்கை உறை மார்பா  
-நிகர் இல் புகழாய் உலகம் மூன்று  
-உடையாய் என்னை ஆள்வானே  
-நிகர் இல் அமரர் முனிக்கணங்கள்  
-விரும்பும் திருவேங்கடத்தானே  
-புகல் ஒன்று இல்லா அடியேன் உன்  
-அடிக்கீழ் அமர்ந்து புகுந்தேனே. (10)  
-3451. Lakshmi on a lotus says,  
+३४५१ अगलगिल्लेन् इऱैयुम् ऎण्ड्रु  
+अलर्मेल् मङ्गै उऱै मार्बा  
+निगर् इल् पुगऴाय् उलगम् मूण्ड्रु  
+उडैयाय् ऎन्नै आळ्वाने  
+निगर् इल् अमरर् मुनिक्कणङ्गळ्  
+विरुम्बुम् तिरुवेङ्गडत्ताने  
+पुगल् ऒण्ड्रु इल्ला अडियेन् उन्  
+अडिक्कीऴ् अमर्न्दु पुगुन्देने। (१०)  
+३४५१। Lakshmi on a lotus says,  
 "I will not go away from you even for a moment"  
 and stays on your chest.  
 Nothing compares to your fame.  
@@ -9088,15 +9089,15 @@ whom the matchless gods and sages love.
 I have no other refuge.  
 I am your slave and I have come to you to sit beneath your feet.  
 
-3452 அடிக்கீழ் அமர்ந்து புகுந்து அடியீர்  
-வாழ்மின் என்று என்று அருள்கொடுக்கும்  
-படிக் கேழ் இல்லாப் பெருமானைப்  
-பழனக் குருகூர்ச் சடகோபன்  
-முடிப்பான் சொன்ன ஆயிரத்துத்  
-திருவேங்கடத்துக்கு இவை பத்தும்  
-பிடித்தார் பிடித்தார் வீற்றிருந்து  
-பெரிய வானுள் நிலாவுவரே. (11)  
-3452. Sadagopan of Thirukuruhur flourishing with paddy fields  
+३४५२ अडिक्कीऴ् अमर्न्दु पुगुन्दु अडियीर्  
+वाऴ्मिन् ऎण्ड्रु ऎण्ड्रु अरुळ्गॊडुक्कुम्  
+पडिक् केऴ् इल्लाप् पॆरुमानैप्  
+पऴनक् गुरुगूर्च् चडगोबन्  
+मुडिप्पान् सॊन्न आयिरत्तुत्  
+तिरुवेङ्गडत्तुक्कु इवै पत्तुम्  
+पिडित्तार् पिडित्तार् वीट्रिरुन्दु  
+पॆरिय वानुळ् निलावुवरे। (११)  
+३४५२। Sadagopan of Thirukuruhur flourishing with paddy fields  
 composed a thousand pasurams on the matchless lord  
 of Thiruvenkaṭam who gives his grace, saying,  
 "Come and sit beneath my feet and you will be saved."  
@@ -9104,31 +9105,31 @@ If devotees learn and recite these ten pasurams
 they will become the devotees of his devotees  
 and reach and abide in moksha in the wide sky.  
 -------------  
-நம்மாழ்வார் திருவாய்மொழி எழாம் பத்து (3453 - 3562)  
-Divyaprabhandam - Thiruvaymozhi - Eezhaam Pathu 3453 - 3562  
-திருவாய்மொழி எழாம் பத்து (முதல் திருமொழி, 3453-3463)  
-இந்திரியங்களால் இன்னும் எத்தனை நாள் துன்புறுவேன் என்று ஆழ்வார் வருந்தல்  
+नम्माऴ्वार् तिरुवाय्मॊऴि ऎऴाम् पत्तु (३४५३ - ३५६२)  
+Divyaprabhandam - Thiruvaymozhi - Eezhaam Pathu ३४५३ - ३५६२  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (मुदल् तिरुमॊऴि, ३४५३-३४६३)  
+इन्दिरियङ्गळाल् इन्नुम् ऎत्तनै नाळ् तुन्बुऱुवेन् ऎण्ड्रु आऴ्वार् वरुन्दल्  
 
-3453 உள் நிலாவிய ஐவரால் குமைதீற்றி என்னை  
-உன் பாதபங்கயம்  
-நண்ணிலாவகையே நலிவான் இன்னும் எண்ணுகின்றாய்  
-எண் இலாப் பெறு மாயனே இமையோர்கள்  
-ஏத்தும் உலகம் மூன்று உடை  
-அண்ணலே அமுதே அப்பனே என்னை ஆள்வானே (1)  
-3453. You are still intent on giving my body  
+३४५३ उळ् निलाविय ऐवराल् कुमैदीट्रि ऎन्नै  
+उन् पादबङ्गयम्  
+नण्णिलावगैये नलिवान् इन्नुम् ऎण्णुगिण्ड्राय्  
+ऎण् इलाप् पॆऱु मायने इमैयोर्गळ्  
+एत्तुम् उलगम् मूण्ड्रु उडै  
+अण्णले अमुदे अप्पने ऎन्नै आळ्वाने (१)  
+३४५३। You are still intent on giving my body  
 the feelings of the five senses even though they hurt me  
 and do not let me reach your lotus feet.  
 You are the great Maayan—no one knows who you are.  
 You are the ruler, praised by the gods, of the three worlds.  
 You are nectar, my father, and you rule me.  
 
-3454 என்னை ஆளும் வன் கோ ஓர் ஐந்து இவை பெய்து  
-இராப்பகல் மோதுவித்திட்டு  
-உன்னை நான் அணுகாவகை செய்து போதிகண்டாய்  
-கன்னலே அமுதே கார் முகில் வண்ணனே  
-கடல் ஞாலம் காக்கின்ற  
-மின்னு நேமியினாய் வினையேனுடை வேதியனே (2)  
-3454. You make the perceptions of my five bodily senses rule,  
+३४५४ ऎन्नै आळुम् वन् को ओर् ऐन्दु इवै पॆय्दु  
+इराप्पगल् मोदुवित्तिट्टु  
+उन्नै नान् अणुगावगै सॆय्दु पोदिगण्डाय्  
+कन्नले अमुदे कार् मुगिल् वण्णने  
+कडल् ञालम् काक्किण्ड्र  
+मिन्नु नेमियिनाय् विनैयेनुडै वेदियने (२)  
+३४५४। You make the perceptions of my five bodily senses rule,  
 hurting me night and day and attacking my goodness  
 so I am unable to come to you.  
 You are as sweet as sugarcane juice and divine nectar.  
@@ -9137,13 +9138,13 @@ You carry a shining discus that protects the world
 surrounded by oceans.  
 You are the lord of the Vedas and you gave me my karma.  
 
-3455 வேதியாநிற்கும் ஐவரால் வினையேனை  
-மோதுவித்து உன் திருவடிச்  
-சாதியாவகை நீ தடுத்து என் பெறுதி? அந்தோ!  
-ஆதி ஆகி அகல் இடம் படைத்து உண்டு  
-உமிழ்ந்து கடந்து இடந்திட்ட  
-சோதி நீள் முடியாய் தொண்டனேன் மதுசூதனனே (3)  
-3455. What do you get  
+३४५५ वेदियानिऱ्‌कुम् ऐवराल् विनैयेनै  
+मोदुवित्तु उन् तिरुवडिच्  
+चादियावगै नी तडुत्तु ऎन् पॆऱुदि? अन्दो!  
+आदि आगि अगल् इडम् पडैत्तु उण्डु  
+उमिऴ्न्दु कडन्दु इडन्दिट्ट  
+सोदि नीळ् मुडियाय् तॊण्डनेन् मदुसूदनने (३)  
+३४५५। What do you get  
 by making the perceptions of the five senses hurt me  
 and increasing my bad karma,  
 preventing me from reaching your divine feet?  
@@ -9156,38 +9157,38 @@ You are decorated with a shining crown.
 I am your devotee.  
 You are Madhusudanan.  
 
-3456 சூது நான் அறியாவகை சுழற்றி ஓர் ஐவரைக்  
-காட்டி உன் அடிப்  
-போது நான் அணுகாவகை செய்து போதிகண்டாய்  
-யாதும் யாவரும் இன்றி நின் அகம்பால் ஒடுக்கி  
-ஓர் ஆலின் நீள் இலை  
-மீது சேர் குழவி வினையேன் வினைதீர் மருந்தே (4)  
-3456. See, you made the perceptions of the five senses hurt me  
+३४५६ सूदु नान् अऱियावगै सुऴट्रि ओर् ऐवरैक्  
+काट्टि उन् अडिप्  
+पोदु नान् अणुगावगै सॆय्दु पोदिगण्डाय्  
+यादुम् यावरुम् इण्ड्रि निन् अगम्बाल् ऒडुक्कि  
+ओर् आलिन् नीळ् इलै  
+मीदु सेर् कुऴवि विनैयेन् विनैदीर् मरुन्दे (४)  
+३४५६। See, you made the perceptions of the five senses hurt me  
 and I could not reach your flower-like feet.  
 You contain all things and creatures of the world  
 in your stomach and sleep on a banyan leaf as a child.  
 I have done bad karma.  
 You are the remedy that can relieve me of my karma.  
 
-3457 தீர் மருந்து இன்றி ஐந்து நோய் அடும் செக்கில் இட்டுத்  
-திரிக்கும் ஐவரை  
-நேர் மருங்கு உடைத்தா அடைத்து நெகிழ்ப்பான் ஒக்கின்றாய்  
-ஆர் மருந்து இனி ஆகுவார் அடல் ஆழி ஏந்தி  
-அசுரர் வன் குலம்  
-வேர் மருங்கு அறுத்தாய் விண்ணுளார் பெருமானே? ஓ (5)  
-3457. You make the five senses hurt me and I do not know  
+३४५७ तीर् मरुन्दु इण्ड्रि ऐन्दु नोय् अडुम् सॆक्किल् इट्टुत्  
+तिरिक्कुम् ऐवरै  
+नेर् मरुङ्गु उडैत्ता अडैत्तु नॆगिऴ्प्पान् ऒक्किण्ड्राय्  
+आर् मरुन्दु इनि आगुवार् अडल् आऴि एन्दि  
+असुरर् वन् कुलम्  
+वेर् मरुङ्गु अऱुत्ताय् विण्णुळार् पॆरुमाने? ओ (५)  
+३४५७। You make the five senses hurt me and I do not know  
 any remedy to counter the pain they give me.  
 Who can relieve me of that pain?  
 You destroyed the terrible tribe of the Asurans with your heroic discus.  
 You are the god of the gods in the sky.  
 
-3458 விண்ணுளார் பெருமாற்கு அடிமை செய்வாரையும்  
-செறும் ஐம்புலன் இவை  
-மண்ணுள் என்னைப் பெற்றால் என் செய்யா மற்று நீயும் விட்டால்?  
-பண்ணுளாய் கவி தன்னுளாய் பத்தியின் உள்ளாய்  
-பரமீசனே வந்து என்  
-கண்ணுளாய் நெஞ்சுளாய் சொல்லுளாய் ஒன்று சொல்லாயே (6)  
-3458. The five senses hurt even the devotees of the lord.  
+३४५८ विण्णुळार् पॆरुमाऱ्‌कु अडिमै सॆय्वारैयुम्  
+सॆऱुम् ऐम्बुलन् इवै  
+मण्णुळ् ऎन्नैप् पॆट्राल् ऎन् सॆय्या मट्रु नीयुम् विट्टाल्?  
+पण्णुळाय् कवि तन्नुळाय् पत्तियिन् उळ्ळाय्  
+परमीसने वन्दु ऎन्  
+कण्णुळाय् नॆञ्जुळाय् सॊल्लुळाय् ऒण्ड्रु सॊल्लाये (६)  
+३४५८। The five senses hurt even the devotees of the lord.  
 I just live in this world—how could they not hurt me?  
 You are in music, you are in poetry,  
 you are the devotion of devotees.  
@@ -9196,13 +9197,13 @@ come and stay in my heart and in my eyes.
 Speak to me and tell me something  
 to get rid of the feelings that the five senses give me.  
 
-3459 ஒன்று சொல்லி ஒருத்தினில் நிற்கிலாத  
-ஓர் ஐவர் வன் கயவரை  
-என்று யான் வெல்கிற்பன் உன் திருவருள் இல்லையேல்?  
-அன்று தேவர் அசுரர் வாங்க அலைகடல்  
-அரவம் அளாவி ஓர்  
-குன்றம் வைத்த எந்தாய் கொடியேன் பருகு இன் அமுதே (7)  
-3459. Unless you give me your grace,  
+३४५९ ऒण्ड्रु सॊल्लि ऒरुत्तिनिल् निऱ्‌किलाद  
+ओर् ऐवर् वन् कयवरै  
+ऎण्ड्रु यान् वॆल्गिऱ्‌पन् उन् तिरुवरुळ् इल्लैयेल्?  
+अण्ड्रु तेवर् असुरर् वाङ्ग अलैगडल्  
+अरवम् अळावि ओर्  
+कुण्ड्रम् वैत्त ऎन्दाय् कॊडियेन् परुगु इन् अमुदे (७)  
+३४५९। Unless you give me your grace,  
 how can I conquer the five senses,  
 the thieves that make me unstable?  
 O father, when the gods could not churn  
@@ -9211,13 +9212,13 @@ you helped them and churned it with them
 using the snake Vasuki and Manthara mountain.  
 I am cruel, and you are nectar that I can drink.  
 
-3460 இன் அமுது எனத் தோன்றி ஓர் ஐவர் யாவரையும்  
-மயக்க நீ வைத்த  
-முன்னம் மாயம் எல்லாம் முழு வேர் அரிந்து என்னை உன்  
-சின்னமும் திரு மூர்த்தியும் சிந்தித்து ஏத்திக்  
-கைதொழவே அருள் எனக்கு  
-என் அம்மா என் கண்ணா இமையோர் தம் குலமுதலே (8)  
-3460. Before, you gave me the pleasures of the five senses  
+३४६० इन् अमुदु ऎनत् तोण्ड्रि ओर् ऐवर् यावरैयुम्  
+मयक्क नी वैत्त  
+मुन्नम् मायम् ऎल्लाम् मुऴु वेर् अरिन्दु ऎन्नै उन्  
+सिन्नमुम् तिरु मूर्त्तियुम् सिन्दित्तु एत्तिक्  
+कैदॊऴवे अरुळ् ऎनक्कु  
+ऎन् अम्मा ऎन् कण्णा इमैयोर् तम् कुलमुदले (८)  
+३४६०। Before, you gave me the pleasures of the five senses  
 and fascinated me with your magic.  
 Now you come as sweet nectar and utterly remove  
 all the joy of my senses.  
@@ -9227,38 +9228,38 @@ You are the three gods, Shiva, Brahma and Indra.
 You are my mother, my dear one,  
 and the source of the gods in the sky.  
 
-3461 குலம் முதல் அடும் தீவினைக் கொடு வன் குழியினில்  
-வீழ்க்கும் ஐவரை  
-வலம் முதல் கெடுக்கும் வரமே தந்தருள்கண்டாய்  
-நிலம் முதல் இனி எவ் உலகுக்கும் நிற்பன  
-செல்வன எனப் பொருள்  
-பல முதல் படைத்தாய் என் கண்ணா என் பரஞ்சுடரே (9)  
-3461. The pleasures of the five senses that give bad karma  
+३४६१ कुलम् मुदल् अडुम् तीविनैक् कॊडु वन् कुऴियिनिल्  
+वीऴ्क्कुम् ऐवरै  
+वलम् मुदल् कॆडुक्कुम् वरमे तन्दरुळ्गण्डाय्  
+निलम् मुदल् इनि ऎव् उलगुक्कुम् निऱ्‌पन  
+सॆल्वन ऎनप् पॊरुळ्  
+पल मुदल् पडैत्ताय् ऎन् कण्णा ऎन् परञ्जुडरे (९)  
+३४६१। The pleasures of the five senses that give bad karma  
 will destroy everyone in someone’s family.  
 You gave me a boon and destroyed those pleasures.  
 You created all the worlds and the creatures  
 that stay and move and all other things.  
 You are my Kaṇṇan. You are the highest light.  
 
-3462 என் பரஞ்சுடரே என்று உன்னை அலற்றி  
-உன் இணைத் தாமரைகட்கு  
-அன்பு உருகி நிற்கும் அது நிற்க சுமடு தந்தாய்  
-வன் பரங்கள் எடுத்து ஐவர் திசை திசை  
-வலித்து எற்றுகின்றனர்  
-முன் பரவை கடைந்து அமுதம் கொண்ட மூர்த்தி ஓ (10)  
-3462. You gave me the burden  
+३४६२ ऎन् परञ्जुडरे ऎण्ड्रु उन्नै अलट्रि  
+उन् इणैत् तामरैगट्कु  
+अन्बु उरुगि निऱ्‌कुम् अदु निऱ्‌क सुमडु तन्दाय्  
+वन् परङ्गळ् ऎडुत्तु ऐवर् तिसै तिसै  
+वलित्तु ऎट्रुगिण्ड्रनर्  
+मुन् परवै कडैन्दु अमुदम् कॊण्ड मूर्त्ति ओ (१०)  
+३४६२। You gave me the burden  
 of melting in love for you and worshiping your lotus feet,  
 crying and saying, "You are the highest light!"  
 The five senses stand everywhere and threaten me.  
 O lord, you churned the milky ocean and took nectar from it.  
 
-3463 கொண்ட மூர்த்தி ஓர் மூவராய்க் குணங்கள் படைத்து  
-அளித்து கெடுக்கும் அப்  
-புண்டரீகக் கொப்பூழ்ப் புனல் பள்ளி அப்பனுக்கே  
-தொண்டர் தொண்டர் தொண்டர் தொண்டன்  
-சடகோபன் சொல் ஆயிரத்துள் இப் பத்தும்  
-கண்டு பாட வல்லார் வினை போம் கங்குலும் பகலே (11)  
-3463. Saḍagopan, a devotee of the devotees of the devotees  
+३४६३ कॊण्ड मूर्त्ति ओर् मूवराय्क् कुणङ्गळ् पडैत्तु  
+अळित्तु कॆडुक्कुम् अप्  
+पुण्डरीगक् कॊप्पूऴ्प् पुनल् पळ्ळि अप्पनुक्के  
+तॊण्डर् तॊण्डर् तॊण्डर् तॊण्डन्  
+सडगोबन् सॊल् आयिरत्तुळ् इप् पत्तुम्  
+कण्डु पाड वल्लार् विनै पोम् कङ्गुलुम् पगले (११)  
+३४६३। Saḍagopan, a devotee of the devotees of the devotees  
 of the devotees of the lord composed a thousand pasurams on the god.  
 Brahma stays on the lotus on his navel.  
 He, our father, has three forms, Shiva, Brahma and Indra.  
@@ -9267,19 +9268,19 @@ If devotees learn and recite these ten pasurams
 they will have no results of karma, day or night.  
 -----------  
 
-திருவாய்மொழி எழாம் பத்து (இரண்டாம் திருமொழி, 3464-3475)  
-திருவரங்கப் பெருமானிடம் தலைவி மிகவும் மோகித்திருப்பதைக்  
-கண்ட தாய் அரங்கரைப் பார்த்து வினாவுதல் (திருவரங்கம்)  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (इरण्डाम् तिरुमॊऴि, ३४६४-३४७५)  
+तिरुवरङ्गप् पॆरुमानिडम् तलैवि मिगवुम् मोगित्तिरुप्पदैक्  
+कण्ड ताय् अरङ्गरैप् पार्त्तु विनावुदल् (तिरुवरङ्गम्)  
 
-3464 கங்குலும் பகலும் கண் துயில் அறியாள்  
-கண்ண நீர் கைகளால் இறைக்கும்  
-சங்கு சக்கரங்கள் என்று கை கூப்பும்  
-தாமரைக் கண் என்றே தளரும்  
-எங்ஙனே தரிக்கேன் உன்னைவிட்டு? என்னும்  
-இரு நிலம் கை துழா இருக்கும்  
-செங்கயல் பாய் நீர்த் திருவரங்கத்தாய்  
-இவள் திறத்து என் செய்கின்றாயே? (1)  
-3464. Her mother worries and says,  
+३४६४ कङ्गुलुम् पगलुम् कण् तुयिल् अऱियाळ्  
+कण्ण नीर् कैगळाल् इऱैक्कुम्  
+सङ्गु सक्करङ्गळ् ऎण्ड्रु कै कूप्पुम्  
+तामरैक् कण् ऎण्ड्रे तळरुम्  
+ऎङ्ङने तरिक्केन् उन्नैविट्टु? ऎन्नुम्  
+इरु निलम् कै तुऴा इरुक्कुम्  
+सॆङ्गयल् पाय् नीर्त् तिरुवरङ्गत्ताय्  
+इवळ् तिऱत्तु ऎन् सॆय्गिण्ड्राये? (१)  
+३४६४। Her mother worries and says,  
 "My daughter doesn’t sleep night or day.  
 With her fingers, she wipes away the tears that drip from her eyes.  
 She folds her hands, worships and says, "Conch and discus!"  
@@ -9290,15 +9291,15 @@ You are the god of Thiruvarangam
 abundant with water where lovely kayal fish frolic.  
 What did you do to make her like this?"  
 
-3465 என் செய்கின்றாய் என் தாமரைக் கண்ணா?  
-என்னும் கண்ணீர் மல்க இருக்கும்  
-என் செய்கேன் எறி நீர்த் திருவரங்கத்தாய்?  
-என்னும் வெவ்வுயிர்த்து உயிர்த்து உருகும்  
-முன் செய்த வினையே முகப்படாய் என்னும்  
-முகில்வண்ணா தகுவதோ? என்னும்  
-முன் செய்து இவ் உலகம் உண்டு உமிழ்ந்து அளந்தாய்  
-என்கொலோ முடிகின்றது இவட்கே? (2)  
-3465. Her mother worries and says,  
+३४६५ ऎन् सॆय्गिण्ड्राय् ऎन् तामरैक् कण्णा?  
+ऎन्नुम् कण्णीर् मल्ग इरुक्कुम्  
+ऎन् सॆय्गेन् ऎऱि नीर्त् तिरुवरङ्गत्ताय्?  
+ऎन्नुम् वॆव्वुयिर्त्तु उयिर्त्तु उरुगुम्  
+मुन् सॆय्द विनैये मुगप्पडाय् ऎन्नुम्  
+मुगिल्वण्णा तगुवदो? ऎन्नुम्  
+मुन् सॆय्दु इव् उलगम् उण्डु उमिऴ्न्दु अळन्दाय्  
+ऎन्गॊलो मुडिगिण्ड्रदु इवट्के? (२)  
+३४६५। Her mother worries and says,  
 " My daughter says,  
 ‘You are my lotus-eyed Kaṇṇan. Why do you do this to me?’  
 Her eyes fill with tears and she says,  
@@ -9311,15 +9312,15 @@ Is that right?’
 You swallowed the world and spit it out.  
 What will happen to her?"  
 
-3466 வட்கு இலள் இறையும் மணிவண்ணா என்னும்  
-வானமே நோக்கும் மையாக்கும்  
-உட்கு உடை அசுரர் உயிர் எல்லாம் உண்ட  
-ஒருவனே என்னும் உள் உருகும்  
-கட்கிலீ உன்னைக் காணுமாறு அருளாய்  
-காகுத்தா கண்ணனே என்னும்  
-திண் கொடி மதிள் சூழ் திருவரங்கத்தாய்  
-இவள்திறத்து என் செய்திட்டாயே? (3)  
-3466. Her mother worries and says,  
+३४६६ वट्कु इलळ् इऱैयुम् मणिवण्णा ऎन्नुम्  
+वानमे नोक्कुम् मैयाक्कुम्  
+उट्कु उडै असुरर् उयिर् ऎल्लाम् उण्ड  
+ऒरुवने ऎन्नुम् उळ् उरुगुम्  
+कट्किली उन्नैक् काणुमाऱु अरुळाय्  
+कागुत्ता कण्णने ऎन्नुम्  
+तिण् कॊडि मदिळ् सूऴ् तिरुवरङ्गत्ताय्  
+इवळ्दिऱत्तु ऎन् सॆय्दिट्टाये? (३)  
+३४६६। Her mother worries and says,  
 "My daughter doesn’t feel ashamed at all.  
 She says, ‘You have the color of blue sapphire.’  
 She looks at the sky and, fascinated, and she says,  
@@ -9334,15 +9335,15 @@ You stay in Thiruvarangam
 surrounded by walls where flags fly.  
 What did you do to fascinate her?"  
 
-3467 இட்ட கால் இட்ட கையளாய் இருக்கும்  
-எழுந்து உலாய் மயங்கும் கை கூப்பும்  
-கட்டமே காதல் என்று மூர்ச்சிக்கும்  
-கடல்வண்ணா கடியைகாண் என்னும்  
-வட்ட வாய் நேமி வலங்கையா என்னும்  
-வந்திடாய் என்று என்றே மயங்கும்  
-சிட்டனே செழு நீர்த் திருவரங்கத்தாய்  
-இவள்திறத்து என் சிந்தித்தாயே? (4)  
-3467. Her mother worries and says,  
+३४६७ इट्ट काल् इट्ट कैयळाय् इरुक्कुम्  
+ऎऴुन्दु उलाय् मयङ्गुम् कै कूप्पुम्  
+कट्टमे कादल् ऎण्ड्रु मूर्चिक्कुम्  
+कडल्वण्णा कडियैगाण् ऎन्नुम्  
+वट्ट वाय् नेमि वलङ्गैया ऎन्नुम्  
+वन्दिडाय् ऎण्ड्रु ऎण्ड्रे मयङ्गुम्  
+सिट्टने सॆऴु नीर्त् तिरुवरङ्गत्ताय्  
+इवळ्दिऱत्तु ऎन् सिन्दित्ताये? (४)  
+३४६७। Her mother worries and says,  
 "My daughter stays in one place  
 without moving her hands and legs.  
 Sometime she gets up and walks around.  
@@ -9356,15 +9357,15 @@ You are a chithan. You stay in Thiruvarangam
 surrounded by flourishing water.  
 What do you think you are doing to her?"  
 
-3468 சிந்திக்கும் திசைக்கும் தேறும் கை கூப்பும்  
-திருவரங்கத்துள்ளாய் என்னும்  
-வந்திக்கும் ஆங்கே மழைக்கண் நீர் மல்க  
-வந்திடாய் என்று என்றே மயங்கும்  
-அந்திப்போது அவுணன் உடல் இடந்தானே  
-அலை கடல் கடைந்த ஆர் அமுதே  
-சந்தித்து உன் சரணம் சார்வதே வலித்த  
-தையலை மையல் செய்தானே (5)  
-3468. Her mother worries and says,  
+३४६८ सिन्दिक्कुम् तिसैक्कुम् तेऱुम् कै कूप्पुम्  
+तिरुवरङ्गत्तुळ्ळाय् ऎन्नुम्  
+वन्दिक्कुम् आङ्गे मऴैक्कण् नीर् मल्ग  
+वन्दिडाय् ऎण्ड्रु ऎण्ड्रे मयङ्गुम्  
+अन्दिप्पोदु अवुणन् उडल् इडन्दाने  
+अलै कडल् कडैन्द आर् अमुदे  
+सन्दित्तु उन् सरणम् सार्वदे वलित्त  
+तैयलै मैयल् सॆय्दाने (५)  
+३४६८। Her mother worries and says,  
 "My daughter thinks deeply.  
 She folds her hands and worships all the directions.  
 She says, ‘You stay in Thiruvarangam,’  
@@ -9377,15 +9378,15 @@ from the milky ocean rolling with waves.’
 She thinks only you are her refuge and lives for you.  
 You have made her fall in love with you."  
 
-3469 மையல் செய்து என்னை மனம் கவர்ந்தானே  
-என்னும் மா மாயனே என்னும்  
-செய்ய வாய் மணியே என்னும் தண் புனல் சூழ்  
-திருவரங்கத்துள்ளாய் என்னும்  
-வெய்ய வாள் தண்டு சங்கு சக்கரம் வில்  
-ஏந்தும் விண்ணோர் முதல் என்னும்;  
-பை கொள் பாம்பு அணையாய் இவள்திறத்து அருளாய்  
-பாவியேன் செயற்பாலதுவே (6)  
-3469. Her mother worries and says,  
+३४६९ मैयल् सॆय्दु ऎन्नै मनम् कवर्न्दाने  
+ऎन्नुम् मा मायने ऎन्नुम्  
+सॆय्य वाय् मणिये ऎन्नुम् तण् पुनल् सूऴ्  
+तिरुवरङ्गत्तुळ्ळाय् ऎन्नुम्  
+वॆय्य वाळ् तण्डु सङ्गु सक्करम् विल्  
+एन्दुम् विण्णोर् मुदल् ऎन्नुम्;  
+पै कॊळ् पाम्बु अणैयाय् इवळ्दिऱत्तु अरुळाय्  
+पावियेन् सॆयऱ्‌पालदुवे (६)  
+३४६९। Her mother worries and says,  
 "My daughter says,  
 ‘He fascinated me and attracted my mind.’  
 She says, ‘You are a real Maayan.’  
@@ -9396,15 +9397,15 @@ and you carry a strong sword, club, conch, discus and a bow.’
 O god, you sleep on Adisesha. Give her your grace.  
 This is the only thing I ask you."  
 
-3470 பால துன்பங்கள் இன்பங்கள் படைத்தாய்  
-பற்றிலார் பற்ற நின்றானே  
-கால சக்கரத்தாய் கடல் இடம் கொண்ட  
-கடல்வண்ணா கண்ணனே என்னும்  
-சேல் கொள் தண் புனல் சூழ் திருவரங்கத்தாய்  
-என்னும் என் தீர்த்தனே என்னும்  
-கோல மா மழைக்கண் பனி மல்க இருக்கும்  
-என்னுடைக் கோமளக் கொழுந்தே (7)  
-3470. Her mother worries and says,  
+३४७० पाल तुन्बङ्गळ् इन्बङ्गळ् पडैत्ताय्  
+पट्रिलार् पट्र निण्ड्राने  
+काल सक्करत्ताय् कडल् इडम् कॊण्ड  
+कडल्वण्णा कण्णने ऎन्नुम्  
+सेल् कॊळ् तण् पुनल् सूऴ् तिरुवरङ्गत्ताय्  
+ऎन्नुम् ऎन् तीर्त्तने ऎन्नुम्  
+कोल मा मऴैक्कण् पनि मल्ग इरुक्कुम्  
+ऎन्नुडैक् कोमळक् कॊऴुन्दे (७)  
+३४७०। Her mother worries and says,  
 "My daughter says,  
 ‘You created sorrows and happiness.  
 You are desire for those who have no desire.  
@@ -9417,15 +9418,15 @@ She says, ‘You are my sacred temple.’
 She is my lovely daughter, soft as a tender shoot  
 and her beautiful eyes are filled with tears."  
 
-3471 கொழுந்து வானவர்கட்கு என்னும் குன்று ஏந்தி  
-கோ நிரை காத்தவன் என்னும்  
-அழும் தொழும் ஆவி அனல வெவ்வுயிர்க்கும்  
-அஞ்சன வண்ணனே என்னும்  
-எழுந்து மேல் நோக்கி இமைப்பிலள் இருக்கும்  
-எங்ஙனே நோக்குகேன்? என்னும்  
-செழும் தடம் புனல் சூழ் திருவரங்கத்தாய்  
-என் செய்கேன் என் திருமகட்கே? (8)  
-3471. Her mother worries and says,  
+३४७१ कॊऴुन्दु वानवर्गट्कु ऎन्नुम् कुण्ड्रु एन्दि  
+को निरै कात्तवन् ऎन्नुम्  
+अऴुम् तॊऴुम् आवि अनल वॆव्वुयिर्क्कुम्  
+अञ्जन वण्णने ऎन्नुम्  
+ऎऴुन्दु मेल् नोक्कि इमैप्पिलळ् इरुक्कुम्  
+ऎङ्ङने नोक्कुगेन्? ऎन्नुम्  
+सॆऴुम् तडम् पुनल् सूऴ् तिरुवरङ्गत्ताय्  
+ऎन् सॆय्गेन् ऎन् तिरुमगट्के? (८)  
+३४७१। Her mother worries and says,  
 "My daughter says,  
 ‘He is a tender shoot for the gods in the sky.’  
 She says, ‘He carried Govardhana mountain  
@@ -9439,15 +9440,15 @@ You are the lord of Thiruvarangam
 surrounded by flourishing ponds filled with water.  
 What should I do for my lovely daughter?"  
 
-3472 என் திருமகள் சேர் மார்வனே என்னும்  
-என்னுடை ஆவியே என்னும்  
-நின் திரு எயிற்றால் இடந்து நீ கொண்ட  
-நிலமகள் கேள்வனே என்னும்  
-அன்று உரு ஏழும் தழுவி நீ கொண்ட  
-ஆய்மகள் அன்பனே என்னும்  
-தென் திருவரங்கம் கோயில்கொண்டானே  
-தெளிகிலேன் முடிவு இவள் தனக்கே (9)  
-3472. Her mother worries and says,  
+३४७२ ऎन् तिरुमगळ् सेर् मार्वने ऎन्नुम्  
+ऎन्नुडै आविये ऎन्नुम्  
+निन् तिरु ऎयिट्राल् इडन्दु नी कॊण्ड  
+निलमगळ् केळ्वने ऎन्नुम्  
+अण्ड्रु उरु एऴुम् तऴुवि नी कॊण्ड  
+आय्मगळ् अन्बने ऎन्नुम्  
+तॆन् तिरुवरङ्गम् कोयिल्गॊण्डाने  
+तॆळिगिलेन् मुडिवु इवळ् तनक्के (९)  
+३४७२। Her mother worries and says,  
 "My daughter says,  
 ‘You embrace lovely Lakshmi on your chest.’  
 She says, ‘You are my life.’  
@@ -9460,15 +9461,15 @@ and you are her beloved husband.’
 You stay in the temple of south Thiruvarangam.  
 I don’t understand what will happen to my daughter."  
 
-3473 முடிவு இவள் தனக்கு ஒன்று அறிகிலேன் என்னும்  
-மூவுலகு ஆளியே என்னும்  
-கடி கமழ் கொன்றைச் சடையனே என்னும்  
-நான்முகக் கடவுளே என்னும்  
-வடிவு உடை வானோர் தலைவனே என்னும்  
-வண் திருவரங்கனே என்னும்  
-அடி அடையாதாள் போல் இவள் அணுகி  
-அடைந்தனள் முகில்வண்ணன் அடியே (10)  
-3473. Her mother worries and says,  
+३४७३ मुडिवु इवळ् तनक्कु ऒण्ड्रु अऱिगिलेन् ऎन्नुम्  
+मूवुलगु आळिये ऎन्नुम्  
+कडि कमऴ् कॊण्ड्रैच् चडैयने ऎन्नुम्  
+नान्मुगक् कडवुळे ऎन्नुम्  
+वडिवु उडै वानोर् तलैवने ऎन्नुम्  
+वण् तिरुवरङ्गने ऎन्नुम्  
+अडि अडैयादाळ् पोल् इवळ् अणुगि  
+अडैन्दनळ् मुगिल्वण्णन् अडिये (१०)  
+३४७३। Her mother worries and says,  
 "My daughter says,  
 ‘I don’t see any end to my suffering.’  
 She says, ‘You are the ruler of all the three worlds.’  
@@ -9479,15 +9480,15 @@ She says, ‘You stay in flourishing Thiruvarangam.’
 She was not able to approach his feet  
 but now she attains the feet of the cloud-colored god."  
 
-3474 முகில்வண்ணன் அடியை அடைந்து அருள் சூடி  
-உய்ந்தவன் மொய் புனல் பொருநல்  
-துகில் வண்ணத் தூ நீர்ச் சேர்ப்பன் வண் பொழில் சூழ்  
-வண் குருகூர்ச் சடகோபன்  
-முகில்வண்ணன் அடிமேல் சொன்ன சொல் மாலை  
-ஆயிரத்து இப் பத்தும் வல்லார்  
-முகில் வண்ண வானத்து இமையவர் சூழ  
-இருப்பர் பேரின்ப வெள்ளத்தே (11)  
-3474. Sadagopan of Thirukuruhur on the bank of a river  
+३४७४ मुगिल्वण्णन् अडियै अडैन्दु अरुळ् सूडि  
+उय्न्दवन् मॊय् पुनल् पॊरुनल्  
+तुगिल् वण्णत् तू नीर्च् चेर्प्पन् वण् पॊऴिल् सूऴ्  
+वण् गुरुगूर्च् चडगोबन्  
+मुगिल्वण्णन् अडिमेल् सॊन्न सॊल् मालै  
+आयिरत्तु इप् पत्तुम् वल्लार्  
+मुगिल् वण्ण वानत्तु इमैयवर् सूऴ  
+इरुप्पर् पेरिन्ब वॆळ्ळत्ते (११)  
+३४७४। Sadagopan of Thirukuruhur on the bank of a river  
 with abundant blue water surrounded by flourishing groves  
 composed a garland of a thousand pasurams  
 on the feet of the cloud-colored god.  
@@ -9496,19 +9497,19 @@ they will reach the blue sky with clouds
 and stay with the god in a flood of bliss.  
 -------------  
 
-திருவாய்மொழி எழாம் பத்து (மூன்றாம் திருமொழி, 3475-3485)  
-தாய்மாரும் தோழிமாரும் உற்றாரும் தடுக்கவும் தலைவி  
-திருப்பேரேயில் சேரத் துணிதல் (திருப்பேரெயில்)  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३४७५-३४८५)  
+ताय्मारुम् तोऴिमारुम् उट्रारुम् तडुक्कवुम् तलैवि  
+तिरुप्पेरेयिल् सेरत् तुणिदल् (तिरुप्पेरॆयिल्)  
 
-3475 வெள்ளைச் சுரி சங்கொடு ஆழி ஏந்தி  
-தாமரைக் கண்ணன் என் நெஞ்சினூடே  
-புள்ளைக் கடாகின்ற ஆற்றைக் காணீர்  
-என் சொல்லிச் சொல்லுகேன் அன்னைமீர்காள்?  
-வெள்ளச் சுகம் அவன் வீற்றிருந்த  
-வேத ஒலியும் விழா ஒலியும்  
-பிள்ளைக் குழா விளையாட்டு ஒலியும்  
-அறா திருப்பேரெயில் சேர்வன் நானே (1)  
-3475. Her daughter says,  
+३४७५ वॆळ्ळैच् चुरि सङ्गॊडु आऴि एन्दि  
+तामरैक् कण्णन् ऎन् नॆञ्जिनूडे  
+पुळ्ळैक् कडागिण्ड्र आट्रैक् काणीर्  
+ऎन् सॊल्लिच् चॊल्लुगेन् अन्नैमीर्गाळ्?  
+वॆळ्ळच् चुगम् अवन् वीट्रिरुन्द  
+वेद ऒलियुम् विऴा ऒलियुम्  
+पिळ्ळैक् कुऴा विळैयाट्टु ऒलियुम्  
+अऱा तिरुप्पेरॆयिल् सेर्वन् नाने (१)  
+३४७५। Her daughter says,  
 "O Mothers, the lotus-eyed god Kaṇṇan  
 carrying a curved white conch and a discus  
 entered my heart riding on Garuḍa.  
@@ -9520,15 +9521,15 @@ never stop in Thirupereyil.
 When will I go and join that place  
 where the god stays giving grace like a flood."  
 
-3476 நானக் கருங் குழல் தோழிமீர்காள்  
-அன்னையர்காள் அயல் சேரியீர்காள்  
-நான் இத் தனி நெஞ்சம் காக்கமாட்டேன்  
-என் வசம் அன்று இது இராப்பகல் போய்  
-தேன் மொய்த்த பூம்பொழில் தண் பணை சூழ்  
-தென் திருப்பேரெயில் வீற்றிருந்த  
-வானப் பிரான் மணிவண்ணன் கண்ணன்  
-செங்கனி வாயின் திறத்ததுவே (2)  
-3476. She says,  
+३४७६ नानक् करुङ् गुऴल् तोऴिमीर्गाळ्  
+अन्नैयर्गाळ् अयल् सेरियीर्गाळ्  
+नान् इत् तनि नॆञ्जम् काक्कमाट्टेन्  
+ऎन् वसम् अण्ड्रु इदु इराप्पगल् पोय्  
+तेन् मॊय्त्त पूम्बॊऴिल् तण् पणै सूऴ्  
+तॆन् तिरुप्पेरॆयिल् वीट्रिरुन्द  
+वानप् पिरान् मणिवण्णन् कण्णन्  
+सॆङ्गनि वायिन् तिऱत्तदुवे (२)  
+३४७६। She says,  
 "O my friends, your hair is dark and fragrant.  
 O my mothers, O people of the village,  
 I cannot keep my heart with me.  
@@ -9540,15 +9541,15 @@ filled with cool fields and blooming groves swarming with bees.
 My heart has fallen for the beauty of the sweet fruit-like mouth  
 of the sapphire-colored lord of the gods in the sky."  
 
-3477 செங்கனி வாயின் திறத்ததாயும்  
-செஞ் சுடர் நீள் முடி தாழ்ந்ததாயும்  
-சங்கொடு சக்கரம் கண்டு உகந்தும்  
-தாமரைக் கண்களுக்கு அற்றுத் தீர்ந்தும்  
-திங்களும் நாளும் விழா அறாத  
-தென் திருப்பேரெயில் வீற்றிருந்த  
-நங்கள் பிரானுக்கு என் நெஞ்சம் தோழீ  
-நாணும் நிறையும் இழந்ததுவே (3)  
-3477. She says,  
+३४७७ सॆङ्गनि वायिन् तिऱत्तदायुम्  
+सॆञ् जुडर् नीळ् मुडि ताऴ्न्ददायुम्  
+सङ्गॊडु सक्करम् कण्डु उगन्दुम्  
+तामरैक् कण्गळुक्कु अट्रुत् तीर्न्दुम्  
+तिङ्गळुम् नाळुम् विऴा अऱाद  
+तॆन् तिरुप्पेरॆयिल् वीट्रिरुन्द  
+नङ्गळ् पिरानुक्कु ऎन् नॆञ्जम् तोऴी  
+नाणुम् निऱैयुम् इऴन्ददुवे (३)  
+३४७७। She says,  
 "O my friends! My heart rejoices.  
 It has fallen for the beauty of his sweet fruit-like mouth,  
 his long shining hair, his conch and discus and his lotus eyes.  
@@ -9556,15 +9557,15 @@ He stays in southern Thiruperur
 where festivals go on every day of every month.  
 My heart has lost its modesty and chastity for our lord."  
 
-3478 இழந்த எம் மாமைத்திறத்துப் போன  
-என் நெஞ்சினாரும் அங்கே ஒழிந்தார்  
-உழந்து இனி யாரைக்கொண்டு என் உசாகோ?  
-ஓதக் கடல் ஒலி போல எங்கும்  
-எழுந்த நல் வேதத்து ஒலி நின்று ஓங்கு  
-தென் திருப்பேரெயில் வீற்றிருந்த  
-முழங்கு சங்கக் கையன் மாயத்து ஆழ்ந்தேன்  
-அன்னையர்காள் என்னை என் முனிந்தே? (4)  
-3478. She says,  
+३४७८ इऴन्द ऎम् मामैत्तिऱत्तुप् पोन  
+ऎन् नॆञ्जिनारुम् अङ्गे ऒऴिन्दार्  
+उऴन्दु इनि यारैक्कॊण्डु ऎन् उसागो?  
+ओदक् कडल् ऒलि पोल ऎङ्गुम्  
+ऎऴुन्द नल् वेदत्तु ऒलि निण्ड्रु ओङ्गु  
+तॆन् तिरुप्पेरॆयिल् वीट्रिरुन्द  
+मुऴङ्गु सङ्गक् कैयन् मायत्तु आऴ्न्देन्  
+अन्नैयर्गाळ् ऎन्नै ऎन् मुनिन्दे? (४)  
+३४७८। She says,  
 "O mothers,  
 my heart went to him to bring back the dark color that I lost,  
 but it stays there with him.  
@@ -9576,15 +9577,15 @@ like the roaring sound of the ocean.
 I fell into his maayam.  
 O mothers, what is the use of getting mad at me?"  
 
-3479 முனிந்து சகடம் உதைத்து மாயப்  
-பேய் முலை உண்டு மருது இடை போய்  
-கனிந்த விளவுக்குக் கன்று எறிந்த  
-கண்ண பிரானுக்கு என் பெண்மை தோற்றேன்  
-முனிந்து இனி என் செய்தீர் அன்னைமீர்காள்?  
-முன்னி அவன் வந்து வீற்றிருந்த  
-கனிந்த பொழில் திருப்பேரெயிற்கே  
-காலம்பெற என்னைக் காட்டுமினே (5)  
-3479. She says,  
+३४७९ मुनिन्दु सगडम् उदैत्तु मायप्  
+पेय् मुलै उण्डु मरुदु इडै पोय्  
+कनिन्द विळवुक्कुक् कण्ड्रु ऎऱिन्द  
+कण्ण पिरानुक्कु ऎन् पॆण्मै तोट्रेन्  
+मुनिन्दु इनि ऎन् सॆय्दीर् अन्नैमीर्गाळ्?  
+मुन्नि अवन् वन्दु वीट्रिरुन्द  
+कनिन्द पॊऴिल् तिरुप्पेरॆयिऱ्‌के  
+कालम्बॆऱ ऎन्नैक् काट्टुमिने (५)  
+३४७९। She says,  
 "O mothers,  
 Kaṇṇan grew angry at Sakatasuran  
 when he came in the form of a cart,  
@@ -9600,15 +9601,15 @@ He stays in Thiruppereyil where sweet fruits ripen in the groves.
 Take me there and leave me.  
 Don’t wait."  
 
-3480 காலம்பெற என்னைக் காட்டுமின்கள்  
-காதல் கடலின் மிகப் பெரிதால்  
-நீல முகில் வண்ணத்து எம் பெருமான்  
-நிற்கும் முன்னே வந்து என் கைக்கும் எய்தான்  
-ஞாலத்து அவன் வந்து வீற்றிருந்த  
-நான்மறையாளரும் வேள்வி ஓவா  
-கோலச் செந்நெற்கள் கவரி வீசும்  
-கூடு புனல் திருப்பேரெயிற்கே. (6)  
-3480. Her daughter says,  
+३४८० कालम्बॆऱ ऎन्नैक् काट्टुमिन्गळ्  
+कादल् कडलिन् मिगप् पॆरिदाल्  
+नील मुगिल् वण्णत्तु ऎम् पॆरुमान्  
+निऱ्‌कुम् मुन्ने वन्दु ऎन् कैक्कुम् ऎय्दान्  
+ञालत्तु अवन् वन्दु वीट्रिरुन्द  
+नान्मऱैयाळरुम् वेळ्वि ओवा  
+कोलच् चॆन्नॆऱ्‌कळ् कवरि वीसुम्  
+कूडु पुनल् तिरुप्पेरॆयिऱ्‌के। (६)  
+३४८०। Her daughter says,  
 " O mothers! Love is larger than the ocean.  
 The dark cloud-colored god came to me  
 but I couldn’t catch him who was so dear with my hands.  
@@ -9619,15 +9620,15 @@ and the sound of the Brahmins reciting the four Vedas
 and performing sacrifices spreads without ceasing everywhere.  
 Good paddy plants flourish there waving in the wind."  
 
-3481 பேர் எயில் சூழ் கடல் தென் இலங்கை  
-செற்ற பிரான் வந்து வீற்றிருந்த  
-பேரெயிற்கே புக்கு என் நெஞ்சம் நாடி  
-பேர்த்து வர எங்கும் காணமாட்டேன்  
-ஆரை இனி இங்கு உடையம் தோழீ?  
-என் நெஞ்சம் கூவ வல்லாரும் இல்லை  
-ஆரை இனிக்கொண்டு என் சாதிக்கின்றது?  
-என் நெஞ்சம் கண்டதுவே கண்டேனே (7)  
-3481. She says,  
+३४८१ पेर् ऎयिल् सूऴ् कडल् तॆन् इलङ्गै  
+सॆट्र पिरान् वन्दु वीट्रिरुन्द  
+पेरॆयिऱ्‌के पुक्कु ऎन् नॆञ्जम् नाडि  
+पेर्त्तु वर ऎङ्गुम् काणमाट्टेन्  
+आरै इनि इङ्गु उडैयम् तोऴी?  
+ऎन् नॆञ्जम् कूव वल्लारुम् इल्लै  
+आरै इनिक्कॊण्डु ऎन् सादिक्किण्ड्रदु?  
+ऎन् नॆञ्जम् कण्डदुवे कण्डेने (७)  
+३४८१। She says,  
 "O friend, the lord of Thirupereyil  
 who destroyed Lanka in the south  
 surrounded by large forts and the ocean  
@@ -9638,15 +9639,15 @@ No one is strong enough to call the god to my heart.
 How can I find anyone to achieve anything?  
 My heart thinks whatever it knows is the right thing."  
 
-3482 கண்டதுவே கொண்டு எல்லாரும் கூடி  
-கார்க் கடல் வண்ணனோடு என் திறத்துக்  
-கொண்டு அலர் தூற்றிற்று அது முதலாக்  
-கொண்ட என் காதல் உரைக்கில் தோழீ  
-மண் திணி ஞாலமும் ஏழ் கடலும்  
-நீள் விசும்பும் கழியப் பெரிதால்  
-தெண் திரை சூழ்ந்து அவன் வீற்றிருந்த  
-தென் திருப்பேரெயில் சேர்வன் சென்றே (8)  
-3482. She says,  
+३४८२ कण्डदुवे कॊण्डु ऎल्लारुम् कूडि  
+कार्क् कडल् वण्णनोडु ऎन् तिऱत्तुक्  
+कॊण्डु अलर् तूट्रिट्रु अदु मुदलाक्  
+कॊण्ड ऎन् कादल् उरैक्किल् तोऴी  
+मण् तिणि ञालमुम् एऴ् कडलुम्  
+नीळ् विसुम्बुम् कऴियप् पॆरिदाल्  
+तॆण् तिरै सूऴ्न्दु अवन् वीट्रिरुन्द  
+तॆन् तिरुप्पेरॆयिल् सेर्वन् सॆण्ड्रे (८)  
+३४८२। She says,  
 "O friend, when people see me,  
 they get together and gossip about the love I have  
 for the dark ocean-colored lord.  
@@ -9656,15 +9657,15 @@ and the seven oceans and the wide sky.
 I will go to southern Thirupereyil  
 surrounded by the ocean with its clear waves."  
 
-3483 சேர்வன் சென்று என்னுடைத் தோழிமீர்காள்  
-அன்னையர்காள் என்னைத் தேற்ற வேண்டா  
-நீர்கள் உரைக்கின்றது என் இதற்கு?  
-நெஞ்சும் நிறைவும் எனக்கு இங்கு இல்லை  
-கார்வண்ணன் கார்க் கடல் ஞாலம் உண்ட  
-கண்ண பிரான் வந்து வீற்றிருந்த  
-ஏர் வள ஒண் கழனிப் பழன  
-தென் திருப்பேரெயில் மாநகரே. (9)  
-3483. She says,  
+३४८३ सेर्वन् सॆण्ड्रु ऎन्नुडैत् तोऴिमीर्गाळ्  
+अन्नैयर्गाळ् ऎन्नैत् तेट्र वेण्डा  
+नीर्गळ् उरैक्किण्ड्रदु ऎन् इदऱ्‌कु?  
+नॆञ्जुम् निऱैवुम् ऎनक्कु इङ्गु इल्लै  
+कार्वण्णन् कार्क् कडल् ञालम् उण्ड  
+कण्ण पिरान् वन्दु वीट्रिरुन्द  
+एर् वळ ऒण् कऴनिप् पऴन  
+तॆन् तिरुप्पेरॆयिल् मानगरे। (९)  
+३४८३। She says,  
 "O friends, mothers, I will go there and stay.  
 Don’t convince me to stay here.  
 Why do you want to stop me?  
@@ -9674,15 +9675,15 @@ and he swallowed the world surrounded by the dark ocean.
 He stays in wonderful southern Thirupereyil  
 filled with flourishing paddy fields plowed by farmers."  
 
-3484 நகரமும் நாடும் பிறவும் தேர்வேன்  
-நாண் எனக்கு இல்லை என் தோழிமீர்காள்  
-சிகர மணி நெடு மாடம் நீடு  
-தென் திருப்பேரெயில் வீற்றிருந்த  
-மகர நெடுங்குழைக் காதன் மாயன்  
-நூற்றுவரை அன்று மங்க நூற்ற  
-நிகர் இல் முகில்வண்ணன் நேமியான் என்  
-நெஞ்சம் கவர்ந்து எனை ஊழியானே? (10)  
-3484. She says,  
+३४८४ नगरमुम् नाडुम् पिऱवुम् तेर्वेन्  
+नाण् ऎनक्कु इल्लै ऎन् तोऴिमीर्गाळ्  
+सिगर मणि नॆडु माडम् नीडु  
+तॆन् तिरुप्पेरॆयिल् वीट्रिरुन्द  
+मगर नॆडुङ्गुऴैक् कादन् मायन्  
+नूट्रुवरै अण्ड्रु मङ्ग नूट्र  
+निगर् इल् मुगिल्वण्णन् नेमियान् ऎन्  
+नॆञ्जम् कवर्न्दु ऎनै ऊऴियाने? (१०)  
+३४८४। She says,  
 " O friends, I will go to all towns and lands to find him,  
 I am not ashamed at all.  
 He is the god Makara Neḍum Kuzhai Kaadar and the Maayan.  
@@ -9691,15 +9692,15 @@ He has the color of a cloud and carries a matchless discus.
 He attracted my heart.  
 He is the god on the earth for many eons."  
 
-3485 ஊழிதோறு ஊழி உருவும் பேரும்  
-செய்கையும் வேறவன் வையம் காக்கும்  
-ஆழி நீர் வண்ணனை அச்சுதனை  
-அணி குருகூர்ச் சடகோபன் சொன்ன  
-கேழ் இல் அந்தாதி ஓர் ஆயிரத்துள்  
-இவை திருப்பேரெயில் மேய பத்தும்  
-ஆழி அங்கையனை ஏத்த வல்லார்  
-அவர் அடிமைத்திறத்து ஆழியாரே. (11)  
-3485. Sadagopan of beautiful Thirukuruhur  
+३४८५ ऊऴिदोऱु ऊऴि उरुवुम् पेरुम्  
+सॆय्गैयुम् वेऱवन् वैयम् काक्कुम्  
+आऴि नीर् वण्णनै अच्चुदनै  
+अणि गुरुगूर्च् चडगोबन् सॊन्न  
+केऴ् इल् अन्दादि ओर् आयिरत्तुळ्  
+इवै तिरुप्पेरॆयिल् मेय पत्तुम्  
+आऴि अङ्गैयनै एत्त वल्लार्  
+अवर् अडिमैत्तिऱत्तु आऴियारे। (११)  
+३४८५। Sadagopan of beautiful Thirukuruhur  
 composed a thousand anthadi pasurams on Achudan,  
 the ocean-colored god.  
 The lord protects the earth and has many names,  
@@ -9710,14 +9711,14 @@ who holds a discus in his hand
 they will become his slaves.  
 ------------  
 
-திருவாய்மொழி எழாம் பத்து (நான்காம் திருமொழி, 3486-3496)  
-எம்பெருமானது வெற்றிச் செயல்களைப் பேசுதல்  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (नान्गाम् तिरुमॊऴि, ३४८६-३४९६)  
+ऎम्बॆरुमानदु वॆट्रिच् चॆयल्गळैप् पेसुदल्  
 
-3486 ஆழி எழ சங்கும் வில்லும் எழ திசை  
-வாழி எழ தண்டும் வாளும் எழ அண்டம்  
-மோழை எழ முடி பாதம் எழ அப்பன்  
-ஊழி எழ உலகம் கொண்டவாறே (1)  
-3486. When he took the form of Thirivikraman  
+३४८६ आऴि ऎऴ सङ्गुम् विल्लुम् ऎऴ तिसै  
+वाऴि ऎऴ तण्डुम् वाळुम् ऎऴ अण्डम्  
+मोऴै ऎऴ मुडि पादम् ऎऴ अप्पन्  
+ऊऴि ऎऴ उलगम् कॊण्डवाऱे (१)  
+३४८६। When he took the form of Thirivikraman  
 to measure the world,  
 his discus, his conch, his bow,his club and sword  
 all appeared and everyone praised him everywhere.  
@@ -9725,43 +9726,43 @@ Our father’s head touched the sky
 and his feet touched the earth.  
 This is the way the world and the eons appeared.  
 
-3487 ஆறு மலைக்கு எதிர்ந்து ஓடும் ஒலி அரவு  
-ஊறு சுலாய் மலை தேய்க்கும் ஒலி கடல்  
-மாறு சுழன்று அழைக்கின்ற ஒலி அப்பன்  
-சாறுபட அமுதம் கொண்ட நான்றே (2)  
-3487. At the time when our father  
+३४८७ आऱु मलैक्कु ऎदिर्न्दु ओडुम् ऒलि अरवु  
+ऊऱु सुलाय् मलै तेय्क्कुम् ऒलि कडल्  
+माऱु सुऴण्ड्रु अऴैक्किण्ड्र ऒलि अप्पन्  
+साऱुबड अमुदम् कॊण्ड नाण्ड्रे (२)  
+३४८७। At the time when our father  
 churned the milky ocean to take the nectar,  
 the sound of many rivers that are born in the mountains  
 and fall down to the earth  
 and the sound of the churning of the ocean with Manthara mountain  
 and the loud sound of the snake Vasuki, all spread everywhere.  
 
-3488 நான்றில ஏழ் மண்ணும் தானத்தவே பின்னும்  
-நான்றில ஏழ் மலை தானத்தவே பின்னும்  
-நான்றில ஏழ் கடல் தானத்தவே அப்பன்  
-ஊன்றி இடந்து எயிற்றில் கொண்ட நாளே (3)  
-3488. At the time our father  
+३४८८ नाण्ड्रिल एऴ् मण्णुम् तानत्तवे पिन्नुम्  
+नाण्ड्रिल एऴ् मलै तानत्तवे पिन्नुम्  
+नाण्ड्रिल एऴ् कडल् तानत्तवे अप्पन्  
+ऊण्ड्रि इडन्दु ऎयिट्रिल् कॊण्ड नाळे (३)  
+३४८८। At the time our father  
 took the form of a boar and split open the earth,  
 the seven worlds stayed where they were without moving.  
 The seven mountains stayed without shaking.  
 The seven oceans did not rise and were still.  
 
-3489 நாளும் எழ நிலம் நீரும் எழ விண்ணும்  
-கோளும் எழ எரி காலும் எழ மலை  
-தாளும் எழ சுடர் தானும் எழ அப்பன்  
-ஊளி எழ உலகம் உண்ட ஊணே (4)  
-3489. When the world was ending  
+३४८९ नाळुम् ऎऴ निलम् नीरुम् ऎऴ विण्णुम्  
+कोळुम् ऎऴ ऎरि कालुम् ऎऴ मलै  
+ताळुम् ऎऴ सुडर् तानुम् ऎऴ अप्पन्  
+ऊळि ऎऴ उलगम् उण्ड ऊणे (४)  
+३४८९। When the world was ending  
 our father swallowed the seven worlds,  
 the oceans, the lands, the sky, the stars,  
 fire, mountains, wind, moon and sun  
 and then everything in the world appeared again.  
 He protected them all in his stomach.  
 
-3490 ஊணுடை மல்லர் ததர்ந்த ஒலி மன்னர்  
-ஆண் உடைச் சேனை நடுங்கும் ஒலி விண்ணுள்  
-ஏண் உடைத் தேவர் வெளிப்பட்ட ஒலி அப்பன்  
-காணுடைப் பாரதம் கை அறை போழ்தே (5)  
-3490. At the time when our father  
+३४९० ऊणुडै मल्लर् तदर्न्द ऒलि मन्नर्  
+आण् उडैच् चेनै नडुङ्गुम् ऒलि विण्णुळ्  
+एण् उडैत् तेवर् वॆळिप्पट्ट ऒलि अप्पन्  
+काणुडैप् पारदम् कै अऱै पोऴ्दे (५)  
+३४९०। At the time when our father  
 fought in the Bharatha war,  
 the sound of the strong warriors getting killed,  
 the sound of the trembling of the army,  
@@ -9769,33 +9770,33 @@ and the sound of all the gods
 as they came to see what was happening  
 spread all over the world.  
 
-3491 போழ்து மெலிந்த புன் செக்கரில் வான் திசை  
-சூழும் எழுந்து உதிரப் புனலா மலை  
-கீழ்து பிளந்த சிங்கம் ஒத்ததால் அப்பன்  
-ஆழ் துயர் செய்து அசுரரைக் கொல்லுமாறே (6)  
-3491. When our father took the form of a man-lion,  
+३४९१ पोऴ्दु मॆलिन्द पुन् सॆक्करिल् वान् तिसै  
+सूऴुम् ऎऴुन्दु उदिरप् पुनला मलै  
+कीऴ्दु पिळन्द सिङ्गम् ऒत्तदाल् अप्पन्  
+आऴ् तुयर् सॆय्दु असुररैक् कॊल्लुमाऱे (६)  
+३४९१। When our father took the form of a man-lion,  
 and attacked Hiranyan and killed him  
 the red blood that came out of the Asuran’s body  
 looked like the red sky when the sun sets.  
 The lord looked like a lion that came out of a mountain  
 that had been split apart.  
 
-3492 மாறு நிரைத்து இரைக்கும் சரங்கள் இன  
-நூறு பிணம் மலைபோல் புரள கடல்  
-ஆறு மடுத்து உதிரப் புனலா அப்பன்  
-நீறு பட இலங்கை செற்ற நேரே (7)  
-3492. When our father fought in Lanka  
+३४९२ माऱु निरैत्तु इरैक्कुम् सरङ्गळ् इन  
+नूऱु पिणम् मलैबोल् पुरळ कडल्  
+आऱु मडुत्तु उदिरप् पुनला अप्पन्  
+नीऱु पड इलङ्गै सॆट्र नेरे (७)  
+३४९२। When our father fought in Lanka  
 and killed the Raksasas,  
 the arrows were piled up everywhere  
 and a flood of blood flowed like a river or an ocean.  
 The bodies of the hundreds of elephants that were killed  
 in the war piled up like a mountain.  
 
-3493 நேர்சரிந்தான் கொடிக் கோழி கொண்டான் பின்னும்  
-நேர்சரிந்தான் எரியும் அனலோன் பின்னும்  
-நேர்சரிந்தான் முக்கண் மூர்த்தி கண்டீர் அப்பன்  
-நேர்சரி வாணன் திண்தோள் கொண்ட அன்றே (8)  
-3493. Vaanasuran came to fight with the god  
+३४९३ नेर्सरिन्दान् कॊडिक् कोऴि कॊण्डान् पिन्नुम्  
+नेर्सरिन्दान् ऎरियुम् अनलोन् पिन्नुम्  
+नेर्सरिन्दान् मुक्कण् मूर्त्ति कण्डीर् अप्पन्  
+नेर्सरि वाणन् तिण्दोळ् कॊण्ड अण्ड्रे (८)  
+३४९३। Vaanasuran came to fight with the god  
 and lost the war and our father cut off his thousand strong arms.  
 Murugan carrying a rooster flag  
 and Agni, the god of fire  
@@ -9803,21 +9804,21 @@ and Shiva with an eye on his forehead
 came to help the Asuran  
 and were all defeated in the battle.  
 
-3494 அன்று மண் நீர் எரி கால் விண் மலை முதல்  
-அன்று சுடர் இரண்டு பிறவும் பின்னும்  
-அன்று மழை உயிர் தேவும் மற்றும் அப்பன்  
-அன்று முதல் உலகம் செய்ததுமே (9)  
-3494. Our father created the earth,  
+३४९४ अण्ड्रु मण् नीर् ऎरि काल् विण् मलै मुदल्  
+अण्ड्रु सुडर् इरण्डु पिऱवुम् पिन्नुम्  
+अण्ड्रु मऴै उयिर् तेवुम् मट्रुम् अप्पन्  
+अण्ड्रु मुदल् उलगम् सॆय्ददुमे (९)  
+३४९४। Our father created the earth,  
 oceans, fire, wind, the sky, mountains,  
 sun, moon, rain, all creatures and things in the world  
 and the gods in the sky.  
 Every thing in the world is only his creation.  
 
-3495 மேய் நிரை கீழ் புக மா புரள சுனை  
-வாய் நிறை நீர் பிளிறிச் சொரிய இன  
-ஆ நிரைபாடி அங்கே ஒடுங்க அப்பன்  
-தீ மழை காத்து குன்றம் எடுத்தானே (10)  
-3495. When there was a storm  
+३४९५ मेय् निरै कीऴ् पुग मा पुरळ सुनै  
+वाय् निऱै नीर् पिळिऱिच् चॊरिय इन  
+आ निरैबाडि अङ्गे ऒडुङ्ग अप्पन्  
+ती मऴै कात्तु कुण्ड्रम् ऎडुत्ताने (१०)  
+३४९५। When there was a storm  
 and the rain pounded down and the wind blew,  
 and the water in the springs increased and overflowed,  
 and the cattle that were grazing were terrified,  
@@ -9825,11 +9826,11 @@ our father carried Govardana mountain as an umbrella
 and protected the cows  
 and they all hid under the mountain and were saved.  
 
-3496 குன்றம் எடுத்த பிரான் அடியாரொடும்  
-ஒன்றி நின்ற சடகோபன் உரைசெயல்  
-நன்றி புனைந்த ஓர் ஆயிரத்துள் இவை  
-வென்றி தரும் பத்தும் மேவிக் கற்பார்க்கே (11)  
-3496. Sadagopan, the devotee of our god,  
+३४९६ कुण्ड्रम् ऎडुत्त पिरान् अडियारॊडुम्  
+ऒण्ड्रि निण्ड्र सडगोबन् उरैसॆयल्  
+नण्ड्रि पुनैन्द ओर् आयिरत्तुळ् इवै  
+वॆण्ड्रि तरुम् पत्तुम् मेविक् कऱ्‌पार्क्के (११)  
+३४९६। Sadagopan, the devotee of our god,  
 composed a thousand good pasurams on our father.  
 They describe how the lord carried Govardhana hill  
 to protect the cows and cowherds.  
@@ -9837,15 +9838,15 @@ If devotees learn and recite these ten pasurams
 they will be successful in all their endeavors.  
 -------------  
 
-திருவாய்மொழி எழாம் பத்து (ஐந்தாம் திருமொழி, 3497-3507)  
-எம்பெருமானது விபவ அவதார குணங்களை அனுபவித்து  
-ஆளாகாத உலகத்தாரை நோக்கி இரங்குதல்  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३४९७-३५०७)  
+ऎम्बॆरुमानदु विबव अवतार कुणङ्गळै अनुबवित्तु  
+आळागाद उलगत्तारै नोक्कि इरङ्गुदल्  
 
-3497 கற்பார் இராம பிரானை அல்லால் மற்றும் கற்பரோ  
-புல் பா முதலா புல் எறும்பு ஆதி ஒன்று இன்றியே  
-நல் பால் அயோத்தியில் வாழும் சராசரம் முற்றவும்  
-நல் பாலுக்கு உய்த்தனன் நான்முகனார் பெற்ற நாட்டுளே? (1)  
-3497. In this world that was created by Nanmuhan  
+३४९७ कऱ्‌पार् इराम पिरानै अल्लाल् मट्रुम् कऱ्‌परो  
+पुल् पा मुदला पुल् ऎऱुम्बु आदि ऒण्ड्रु इण्ड्रिये  
+नल् पाल् अयोत्तियिल् वाऴुम् सरासरम् मुट्रवुम्  
+नल् पालुक्कु उय्त्तनन् नान्मुगनार् पॆट्र नाट्टुळे? (१)  
+३४९७। In this world that was created by Nanmuhan  
 Rama gave his grace to everything,  
 from the ants to the grass,  
 and all the creatures and things in Ayodhya,  
@@ -9853,11 +9854,11 @@ that move and do not move.
 If the devotees want to learn the stories about the gods,  
 will they learn any other story about the gods except Rama’s?  
 
-3498 நாட்டில் பிறந்தவர் நாரணற்கு ஆள் அன்றி ஆவரோ  
-நாட்டில் பிறந்து படாதன பட்டு மனிசர்க்காய்  
-நாட்டை நலியும் அரக்கரை நாடித் தடிந்திட்டு  
-நாட்டை அளித்து உய்யச் செய்து நடந்தமை கேட்டுமே? (2)  
-3498. At the time when the Rakshasas  
+३४९८ नाट्टिल् पिऱन्दवर् नारणऱ्‌कु आळ् अण्ड्रि आवरो  
+नाट्टिल् पिऱन्दु पडादन पट्टु मनिसर्क्काय्  
+नाट्टै नलियुम् अरक्करै नाडित् तडिन्दिट्टु  
+नाट्टै अळित्तु उय्यच् चॆय्दु नडन्दमै केट्टुमे? (२)  
+३४९८। At the time when the Rakshasas  
 afflicted the people of many lands,  
 our lord was born on the earth,  
 suffered for humankind  
@@ -9866,11 +9867,11 @@ He saved the people and gave them back their lands.
 Could anyone become the devotee of any other god  
 after hearing of his heroic deeds?  
 
-3499 கேட்பார்கள் கேசவன் கீர்த்தி அல்லால் மற்றும் கேட்பரோ  
-கேட்பார் செவி சுடு கீழ்மை வசைவுகளே வையும்  
-சேண்பால் பழம் பகைவன் சிசுபாலன் திருவடி  
-தாள் பால் அடைந்த தன்மை அறிவாரை அறிந்துமே? (3)  
-3499. Kaṇṇan destroyed Sisubalan  
+३४९९ केट्पार्गळ् केसवन् कीर्त्ति अल्लाल् मट्रुम् केट्परो  
+केट्पार् सॆवि सुडु कीऴ्मै वसैवुगळे वैयुम्  
+सेण्बाल् पऴम् पगैवन् सिसुबालन् तिरुवडि  
+ताळ् पाल् अडैन्द तन्मै अऱिवारै अऱिन्दुमे? (३)  
+३४९९। Kaṇṇan destroyed Sisubalan  
 but gave his grace to that Asuran  
 even though he had said many evil things about him  
 that hurt the ears of listeners.  
@@ -9880,33 +9881,33 @@ If the people hear the story of Sisupalan
 and how he reached the feet of the lord through the god’s compassion,  
 they will not want to hear the fame of any gods other than our Kesavan.  
 
-3500 தன்மை அறிபவர் தாம் அவற்கு ஆள் அன்றி ஆவரோ  
-பன்மைப் படர் பொருள் ஆதும் இல் பாழ் நெடும் காலத்து  
-நன்மைப் புனல் பண்ணி நான்முகனைப் பண்ணி தன்னுள்ளே  
-தொன்மை மயக்கிய தோற்றிய சூழல்கள் சிந்தித்தே? (4)  
-3500. In ancient times before the eon when there was nothing,  
+३५०० तन्मै अऱिबवर् ताम् अवऱ्‌कु आळ् अण्ड्रि आवरो  
+पन्मैप् पडर् पॊरुळ् आदुम् इल् पाऴ् नॆडुम् कालत्तु  
+नन्मैप् पुनल् पण्णि नान्मुगनैप् पण्णि तन्नुळ्ळे  
+तॊन्मै मयक्किय तोट्रिय सूऴल्गळ् सिन्दित्ते? (४)  
+३५००। In ancient times before the eon when there was nothing,  
 the god created the good waters and Brahma,  
 the creator of the creatures of the world.  
 Wise men do not become the devotees of any gods but Kaṇṇan  
 if they have learned how he created  
 the ancient world when the eon began.  
 
-3501 சூழல்கள் சிந்திக்கில் மாயன் கழல் அன்றி சூழ்வரோ  
-ஆழப் பெரும் புனல் தன்னுள் அழுந்திய ஞாலத்தைத்  
-தாழப் படாமல் தன்பால் ஒரு கோட்டிடைத் தான் கொண்ட  
-கேழல் திரு உரு ஆயிற்றுக் கேட்டும் உணர்ந்துமே? (5)  
-3501. In pralaya time  
+३५०१ सूऴल्गळ् सिन्दिक्किल् मायन् कऴल् अण्ड्रि सूऴ्वरो  
+आऴप् पॆरुम् पुनल् तन्नुळ् अऴुन्दिय ञालत्तैत्  
+ताऴप् पडामल् तन्बाल् ऒरु कोट्टिडैत् तान् कॊण्ड  
+केऴल् तिरु उरु आयिट्रुक् केट्टुम् उणर्न्दुमे? (५)  
+३५०१। In pralaya time  
 when the earth was submerged under the deep ocean,  
 our god did not hesitate to take the form of a boar  
 and bring the earth up from the underworld on one tusk.  
 If anyone knows and understands this story of the boar,  
 will he worship any god but the feet of the ankleted Maayan?  
 
-3502 கேட்டும் உணர்ந்தவர் கேசவற்கு ஆள் அன்றி ஆவரோ  
-வாட்டம் இலா வண் கை மாவலி வாதிக்க வாதிப்புண்டு  
-ஈட்டம்கொள் தேவர்கள் சென்று இரந்தார்க்கு இடர் நீக்கிய  
-கோட்டு அங்கை வாமனன் ஆய் செய்த கூத்துக்கள் கண்டுமே? (6)  
-3502. Mahabali received abundant power  
+३५०२ केट्टुम् उणर्न्दवर् केसवऱ्‌कु आळ् अण्ड्रि आवरो  
+वाट्टम् इला वण् कै मावलि वादिक्क वादिप्पुण्डु  
+ईट्टम्गॊळ् तेवर्गळ् सॆण्ड्रु इरन्दार्क्कु इडर् नीक्किय  
+कोट्टु अङ्गै वामनन् आय् सॆय्द कूत्तुक्कळ् कण्डुमे? (६)  
+३५०२। Mahabali received abundant power  
 because he was so generous to all,  
 and he grew arrogant and afflicted the gods.  
 When the gods went to the lord and asked for help  
@@ -9919,11 +9920,11 @@ how he extended his hands
 and begged for land from king Mahabali,  
 they will not become the devotees of any god but Kesavan.  
 
-3503 கண்டும் தெளிந்தும் கற்றார் கண்ணற்கு ஆள் அன்றி ஆவரோ  
-வண்டு உண் மலர்த் தொங்கல் மார்க்கண்டேயனுக்கு வாழும் நாள்  
-இண்டைச் சடைமுடி ஈசன் உடன்கொண்டு உசாச் செல்ல  
-கொண்டு அங்கு தன்னொடும் கொண்டு உடன் சென்றது உணர்ந்துமே? (7)  
-3503. Shiva with jata promised Markandeyan,  
+३५०३ कण्डुम् तॆळिन्दुम् कट्रार् कण्णऱ्‌कु आळ् अण्ड्रि आवरो  
+वण्डु उण् मलर्त् तॊङ्गल् मार्कण्डेयनुक्कु वाऴुम् नाळ्  
+इण्डैच् चडैमुडि ईसन् उडन्गॊण्डु उसाच् चॆल्ल  
+कॊण्डु अङ्गु तन्नॊडुम् कॊण्डु उडन् सॆण्ड्रदु उणर्न्दुमे? (७)  
+३५०३। Shiva with jata promised Markandeyan,  
 decorated with flower garlands swarming with bees  
 that he would save him from Yama.  
 He saved Markandeyan as he promised and took him to our god,  
@@ -9931,11 +9932,11 @@ and Kaṇṇan gave Markandeyan everlasting moksha.
 If devotees know and learn this story of Markandeya  
 they will not become the devotees of any god except Kaṇṇan.  
 
-3504 செல்ல உணர்ந்தவர் செல்வன் தன் சீர் அன்றி கற்பரோ  
-எல்லை இலாத பெரும் தவத்தால் பல செய் மிறை  
-அல்லல் அமரரைச் செய்யும் இரணியன் ஆகத்தை  
-மல்லல் அரி உரு ஆய் செய்த மாயம் அறிந்துமே? (8)  
-3504. Hiranyan performed limitless tapas and received many boons.  
+३५०४ सॆल्ल उणर्न्दवर् सॆल्वन् तन् सीर् अण्ड्रि कऱ्‌परो  
+ऎल्लै इलाद पॆरुम् तवत्ताल् पल सॆय् मिऱै  
+अल्लल् अमररैच् चॆय्युम् इरणियन् आगत्तै  
+मल्लल् अरि उरु आय् सॆय्द मायम् अऱिन्दुमे? (८)  
+३५०४। Hiranyan performed limitless tapas and received many boons.  
 With their power he caused great distress to the gods.  
 Our lord came as a strong man-lion to the earth  
 and tore open the chest of the Raksasa Hiranyan.  
@@ -9943,11 +9944,11 @@ If devotees know the superior power of our lord,
 they will not wish to learn anything except the greatness  
 of our precious Kaṇṇan.  
 
-3505 மாயம் அறிபவர் மாயவற்கு ஆள் அன்றி ஆவரோ  
-தாயம் செறும் ஒரு நூற்றுவர் மங்க ஓர் ஐவர்க்கு ஆய்  
-தேசம் அறிய ஓர் சாரதியாய்ச் சென்று சேனையை  
-நாசம் செய்திட்டு நடந்த நல் வார்த்தை அறிந்துமே? (9)  
-3505. The hundred Kauravas took everything the Paṇḍavas had  
+३५०५ मायम् अऱिबवर् मायवऱ्‌कु आळ् अण्ड्रि आवरो  
+तायम् सॆऱुम् ऒरु नूट्रुवर् मङ्ग ओर् ऐवर्क्कु आय्  
+तेसम् अऱिय ओर् सारदियाय्च् चॆण्ड्रु सेनैयै  
+नासम् सॆय्दिट्टु नडन्द नल् वार्त्तै अऱिन्दुमे? (९)  
+३५०५। The hundred Kauravas took everything the Paṇḍavas had  
 by gambling and cheating them.  
 The whole country knows that Kaṇṇan went as a charioteer  
 and destroyed the Karuravas’ army on the battlefield.  
@@ -9955,21 +9956,21 @@ If devotees know what happened in the Bharatha war,
 will they become the devotee of any god  
 other than Maayavan, the god with magical power?  
 
-3506 வார்த்தை அறிபவர் மாயவற்கு ஆள் அன்றி ஆவரோ  
-போர்த்த பிறப்பொடு நோயொடு மூப்பொடு இறப்பு இவை  
-பேர்த்து பெரும் துன்பம் வேர் அற நீக்கி தன் தாளின்கீழ்ச்  
-சேர்த்து அவன் செய்யும் சேமத்தை எண்ணித் தெளிவுற்றே? (10)  
-3506. He removes the troubles  
+३५०६ वार्त्तै अऱिबवर् मायवऱ्‌कु आळ् अण्ड्रि आवरो  
+पोर्त्त पिऱप्पॊडु नोयॊडु मूप्पॊडु इऱप्पु इवै  
+पेर्त्तु पॆरुम् तुन्बम् वेर् अऱ नीक्कि तन् ताळिन्गीऴ्च्  
+चेर्त्तु अवन् सॆय्युम् सेमत्तै ऎण्णित् तॆळिवुट्रे? (१०)  
+३५०६। He removes the troubles  
 of birth, sickness, old age and death for his devotees  
 and makes them join his feet and protects them.  
 If devotees understand the compassion of the god  
 will they become the slave of any other god than Maayavan?  
 
-3507 தெளிவுற்று வீவு இன்றி நின்றவர்க்கு இன்பக் கதி செய்யும்  
-தெளிவுற்ற கண்ணனைத் தென் குருகூர்ச் சடகோபன் சொல்  
-தெளிவுற்ற ஆயிரத்துள் இவை பத்தும் வல்லார் அவர்  
-தெளிவுற்ற சிந்தையர் பா மரு மூவுலகத்துள்ளே (11)  
-3507. Sadagopan of southern Thirukuruhur  
+३५०७ तॆळिवुट्रु वीवु इण्ड्रि निण्ड्रवर्क्कु इन्बक् गति सॆय्युम्  
+तॆळिवुट्र कण्णनैत् तॆन् गुरुगूर्च् चडगोबन् सॊल्  
+तॆळिवुट्र आयिरत्तुळ् इवै पत्तुम् वल्लार् अवर्  
+तॆळिवुट्र सिन्दैयर् पा मरु मूवुलगत्तुळ्ळे (११)  
+३५०७। Sadagopan of southern Thirukuruhur  
 composed a thousand pure pasurams on Kaṇṇan.  
 If devotees believe that Kaṇṇan will surely give them moksha,  
 he will give them the land of everlasting happiness.  
@@ -9978,15 +9979,15 @@ they will become devotees with faultless minds
 in all the three worlds.  
 -----------  
 
-திருவாய்மொழி எழாம் பத்து (ஆறாம் திருமொழி, 3508-3518)  
-எம்பெருமானது குணம் அழகு முதலியவற்றில் ஆழ்வார்  
-ஈடுபட்டு அவனைக் காணுமாறு மனம் உருகி அழைத்தல்  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (आऱाम् तिरुमॊऴि, ३५०८-३५१८)  
+ऎम्बॆरुमानदु कुणम् अऴगु मुदलियवट्रिल् आऴ्वार्  
+ईडुबट्टु अवनैक् काणुमाऱु मनम् उरुगि अऴैत्तल्  
 
-3508 பா மரு மூவுலகும் படைத்த பற்பநாபா ஓ  
-பா மரு மூவுலகும் அளந்த பற்ப பாதா ஓ  
-தாமரைக் கண்ணா ஓ தனியேன் தனி ஆளா ஓ  
-தாமரைக் கையா ஓ உன்னை என்றுகொல் சேர்வதுவே? (1)  
-3508. Are you Padmanabhan?  
+३५०८ पा मरु मूवुलगुम् पडैत्त पऱ्‌पनाबा ओ  
+पा मरु मूवुलगुम् अळन्द पऱ्‌प पादा ओ  
+तामरैक् कण्णा ओ तनियेन् तनि आळा ओ  
+तामरैक् कैया ओ उन्नै ऎण्ड्रुगॊल् सेर्वदुवे? (१)  
+३५०८। Are you Padmanabhan?  
 Did you create the three worlds?  
 Did you measure the world and the sky  
 with your lotus feet as a dwarf ?  
@@ -9994,11 +9995,11 @@ Are you the lotus-eyed Kaṇṇan?
 Are your hands as beautiful as lotuses?  
 I am alone. When will I come and join you?  
 
-3509 என்றுகொல் சேர்வது அந்தோ! அரன் நான்முகன் ஏத்தும் செய்ய  
-நின் திருப்பாதத்தை யான்? நிலம் நீர் எரி கால் விண் உயிர்  
-என்று இவை தாம் முதலா முற்றும் ஆய் நின்ற எந்தாய் ஓ  
-குன்று எடுத்து ஆ நிரை மேய்த்து அவை காத்த எம் கூத்தா ஓ! (2)  
-3509. You are our father  
+३५०९ ऎण्ड्रुगॊल् सेर्वदु अन्दो! अरन् नान्मुगन् एत्तुम् सॆय्य  
+निन् तिरुप्पादत्तै यान्? निलम् नीर् ऎरि काल् विण् उयिर्  
+ऎण्ड्रु इवै ताम् मुदला मुट्रुम् आय् निण्ड्र ऎन्दाय् ओ  
+कुण्ड्रु ऎडुत्तु आ निरै मेय्त्तु अवै कात्त ऎम् कूत्ता ओ! (२)  
+३५०९। You are our father  
 and you contain in your body  
 earth, water, fire, wind and sky.  
 You created them and you are all of them.  
@@ -10008,11 +10009,11 @@ by carrying Govardhana mountain as an umbrella.
 Alas! When will I reach your divine feet  
 that are praised by Shiva and Nanmuhan?  
 
-3510 காத்த எம் கூத்தா ஓ! மலை ஏந்திக் கல் மாரி தன்னை  
-பூத் தண் துழாய் முடியாய் புனை கொன்றை அம் செஞ்சடையாய்  
-வாய்த்த என் நான்முகனே வந்து என் ஆர் உயிர் நீ ஆனால்  
-ஏத்து அரும் கீர்த்தியினாய்! உன்னை எங்குத் தலைப்பெய்வனே? (3)  
-3510. You are the dancer  
+३५१० कात्त ऎम् कूत्ता ओ! मलै एन्दिक् कल् मारि तन्नै  
+पूत् तण् तुऴाय् मुडियाय् पुनै कॊण्ड्रै अम् सॆञ्जडैयाय्  
+वाय्त्त ऎन् नान्मुगने वन्दु ऎन् आर् उयिर् नी आनाल्  
+एत्तु अरुम् कीर्त्तियिनाय्! उन्नै ऎङ्गुत् तलैप्पॆय्वने? (३)  
+३५१०। You are the dancer  
 and you carried Govardhana mountain  
 and protected the cows from the storm.  
 You wear a cool thulasi garland and flowers in your hair.  
@@ -10022,11 +10023,11 @@ You are Nanmuhan the creator of the world.
 You have unlimited fame and are praised by all.  
 Where can I join you?  
 
-3511 எங்குத் தலைப்பெய்வன் நான் எழில் மூவுலகும் நீயே  
-அங்கு உயர் முக்கண் பிரான் பிரம பெருமான் அவன் நீ  
-வெம் கதிர் வச்சிரக் கை இந்திரன் முதலாத் தெய்வம் நீ;  
-கொங்கு அலர் தண் அம் துழாய் முடி என்னுடைக் கோவலனே? (4)  
-3511. Where will I go to see you?  
+३५११ ऎङ्गुत् तलैप्पॆय्वन् नान् ऎऴिल् मूवुलगुम् नीये  
+अङ्गु उयर् मुक्कण् पिरान् पिरम पॆरुमान् अवन् नी  
+वॆम् गतिर् वच्चिरक् कै इन्दिरन् मुदलात् तॆय्वम् नी;  
+कॊङ्गु अलर् तण् अम् तुऴाय् मुडि ऎन्नुडैक् कोवलने? (४)  
+३५११। Where will I go to see you?  
 You are the beautiful three worlds.  
 You are the three-eyed highest Shiva and Brahma.  
 Are you Indra with the heroic shining Vajrayudam in your hand  
@@ -10034,11 +10035,11 @@ and the other gods in the sky?
 You are a cowherd adorned with a cool blooming thulasi garland  
 dripping with honey.  
 
-3512 என்னுடைக் கோவலனே என் பொல்லாக் கருமாணிக்கமே  
-உன்னுடை உந்தி மலர் உலகம் அவை மூன்றும் பரந்து  
-உன்னுடைச் சோதிவெள்ளத்து அகம்பால் உன்னைக் கண்டு கொண்டிட்டு  
-என்னுடை ஆர் உயிரார் எங்ஙனேகொல் வந்து எய்துவரே? (5)  
-3512. You are my mischievous cowherd.  
+३५१२ ऎन्नुडैक् कोवलने ऎन् पॊल्लाक् करुमाणिक्कमे  
+उन्नुडै उन्दि मलर् उलगम् अवै मूण्ड्रुम् परन्दु  
+उन्नुडैच् चोदिवॆळ्ळत्तु अगम्बाल् उन्नैक् कण्डु कॊण्डिट्टु  
+ऎन्नुडै आर् उयिरार् ऎङ्ङनेगॊल् वन्दु ऎय्दुवरे? (५)  
+३५१२। You are my mischievous cowherd.  
 You are my dark diamond.  
 All the three worlds were created by Brahma  
 who stays on the lotus on your navel.  
@@ -10046,22 +10047,22 @@ You are a flood of light.
 You are my dear life.  
 How can I find you in my heart and join you?  
 
-3513 வந்து எய்துமாறு அறியேன் மல்கு நீலச் சுடர் தழைப்ப  
-செஞ்சுடர்ச் சோதிகள் பூத்து ஒரு மாணிக்கம் சேர்வது போல்  
-அந்தரமேல் செம்பட்டோடு அடி உந்தி கை மார்பு கண் வாய்  
-செஞ்சுடர்ச் சோதி விட உறை என் திருமார்பனையே (6)  
-3513. Lakshmi is beautiful as a ruby  
+३५१३ वन्दु ऎय्दुमाऱु अऱियेन् मल्गु नीलच् चुडर् तऴैप्प  
+सॆञ्जुडर्च् चोदिगळ् पूत्तु ऒरु माणिक्कम् सेर्वदु पोल्  
+अन्तरमेल् सॆम्बट्टोडु अडि उन्दि कै मार्बु कण् वाय्  
+सॆञ्जुडर्च् चोदि विड उऱै ऎन् तिरुमार्बनैये (६)  
+३५१३। Lakshmi is beautiful as a ruby  
 and she stays on a blooming lotus on his chest  
 wearing a red silk garment.  
 I do not know how to reach the sapphire-colored lord  
 staying with Lakshmi as his feet, navel, hands, chest, eyes  
 and mouth all shine.  
 
-3514 என் திருமார்பன் தன்னை என் மலைமகள் கூறன் தன்னை  
-என்றும் என் நாமகளை அகம்பால் கொண்ட நான்முகனை  
-நின்ற சசிபதியை நிலம் கீண்டு எயில் மூன்று எரித்த  
-வென்று புலன் துரந்த விசும்பு ஆளியை காணேனோ? (7)  
-3514. He keeps beautiful Lakshmi on his divine chest.  
+३५१४ ऎन् तिरुमार्बन् तन्नै ऎन् मलैमगळ् कूऱन् तन्नै  
+ऎण्ड्रुम् ऎन् नामगळै अगम्बाल् कॊण्ड नान्मुगनै  
+निण्ड्र ससिबदियै निलम् कीण्डु ऎयिल् मूण्ड्रु ऎरित्त  
+वॆण्ड्रु पुलन् तुरन्द विसुम्बु आळियै काणेनो? (७)  
+३५१४। He keeps beautiful Lakshmi on his divine chest.  
 His body contains Shiva who shares half of it  
 with Girija the daughter of the Himalayas.  
 He has on his navel Nanmuhan  
@@ -10071,11 +10072,11 @@ He split open the earth to bring back the earth goddess.
 He burned the three forts.  
 Won’t I see him, the ruler of the sky?  
 
-3515 ஆளியைக் காண் பரியாய் அரி காண் நரியாய் அரக்கர்  
-ஊளை இட்டு அன்று இலங்கை கடந்து பிலம் புக்கு ஒளிப்ப  
-மீளி அம் புள்ளைக் கடாய் விறல் மாலியைக் கொன்று பின்னும்  
-ஆள் உயர் குன்றங்கள் செய்து அடர்த்தானையும் காண்டும்கொலோ? (8)  
-3515. When he came to attack Lanka  
+३५१५ आळियैक् काण् परियाय् अरि काण् नरियाय् अरक्कर्  
+ऊळै इट्टु अण्ड्रु इलङ्गै कडन्दु पिलम् पुक्कु ऒळिप्प  
+मीळि अम् पुळ्ळैक् कडाय् विऱल् मालियैक् कॊण्ड्रु पिन्नुम्  
+आळ् उयर् कुण्ड्रङ्गळ् सॆय्दु अडर्त्तानैयुम् काण्डुम्गॊलो? (८)  
+३५१५। When he came to attack Lanka  
 the Raksasas ran and hid in caves,  
 looking like horses terrified at seeing a Yaali  
 or like foxes that, seeing a lion, run screaming and hide.  
@@ -10083,11 +10084,11 @@ He flew on Garuda, fought and killed Mali
 and the other Raksasas so their bodies were piled up like hills.  
 When will I see my lord?  
 
-3516 காண்டும்கொலோ நெஞ்சமே! கடிய வினையே முயலும்  
-ஆண் திறல் மீளி மொய்ம்பின் அரக்கன் குலத்தைத் தடிந்து  
-மீண்டும் அவன் தம்பிக்கே விரி நீர் இலங்கை அருளி  
-ஆண்டு தன் சோதி புக்க அமரர் அரியேற்றினையே? (9)  
-3516. Rama destroyed the heroic lion-like Raksasa clan  
+३५१६ काण्डुम्गॊलो नॆञ्जमे! कडिय विनैये मुयलुम्  
+आण् तिऱल् मीळि मॊय्म्बिन् अरक्कन् कुलत्तैत् तडिन्दु  
+मीण्डुम् अवन् तम्बिक्के विरि नीर् इलङ्गै अरुळि  
+आण्डु तन् सोदि पुक्क अमरर् अरियेट्रिनैये? (९)  
+३५१६। Rama destroyed the heroic lion-like Raksasa clan  
 whose deeds were cruel.  
 He gave the kingdom of Lanka surrounded by the oceans  
 to Ravana’s brother Vibhishana.  
@@ -10096,22 +10097,22 @@ and went to the sky to brighten heaven.
 O heart, when can I see Rama  
 who is the lion among the gods?  
 
-3517 ஏற்று அரும் வைகுந்தத்தை அருளும் நமக்கு ஆயர் குலத்து  
-ஈற்று இளம் பிள்ளை ஒன்றாய்ப் புக்கு மாயங்களே இயற்றி  
-கூற்று இயல் கஞ்சனைக் கொன்று ஐவர்க்கு ஆய் கொடும் சேனை தடிந்து  
-ஆற்றல் மிக்கான் பெரிய பரஞ்சோதி புக்க அரியே (10)  
-3517. As a young child Kaṇṇan was raised  
+३५१७ एट्रु अरुम् वैगुन्दत्तै अरुळुम् नमक्कु आयर् कुलत्तु  
+ईट्रु इळम् पिळ्ळै ऒण्ड्राय्प् पुक्कु मायङ्गळे इयट्रि  
+कूट्रु इयल् कञ्जनैक् कॊण्ड्रु ऐवर्क्कु आय् कॊडुम् सेनै तडिन्दु  
+आट्रल् मिक्कान् पॆरिय परञ्जोदि पुक्क अरिये (१०)  
+३५१७। As a young child Kaṇṇan was raised  
 in a family of cowherds and did many magical deeds.  
 He killed Kamsan, as cruel as Yama.  
 He fought with a terrible Kaurava army to help the five Pandavas.  
 He has abundant power and he is the highest divine light.  
 He will give us moksha in Vaikuṇḍam that is hard  
 
-3518 புக்க அரி உரு ஆய் அவுணன் உடல் கீண்டு உகந்த  
-சக்கரச் செல்வன் தன்னைக் குருகூர்ச் சடகோபன் சொன்ன  
-மிக்க ஓர் ஆயிரத்துள் இவை பத்தும் வல்லார் அவரைத்  
-தொக்கு பல்லாண்டு இசைத்து கவரிசெய்வர் ஏழையரே (11)  
-3518. Saḍagopan composed a thousand pasurams  
+३५१८ पुक्क अरि उरु आय् अवुणन् उडल् कीण्डु उगन्द  
+सक्करच् चॆल्वन् तन्नैक् गुरुगूर्च् चडगोबन् सॊन्न  
+मिक्क ओर् आयिरत्तुळ् इवै पत्तुम् वल्लार् अवरैत्  
+तॊक्कु पल्लाण्डु इसैत्तु कवरिसॆय्वर् एऴैयरे (११)  
+३५१८। Saḍagopan composed a thousand pasurams  
 on the god who carries a discus and took the form of a lion  
 and split open the body of the Asuran Hiranyan.  
 If devotees learn these ten pasurams and recite them  
@@ -10119,15 +10120,15 @@ they will be in heaven where beautiful women fan them
 and sing "Pallaṇḍu."  
 ------------  
 
-திருவாய்மொழி எழாம் பத்து (ஏழாம் திருமொழி, 3519-3529)  
-எம்பெருமானது பேரழகை உருவெளித் தோற்றத்தில் கண்ட தலைவி வருந்தி உரைத்தல்  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (एऴाम् तिरुमॊऴि, ३५१९-३५२९)  
+ऎम्बॆरुमानदु पेरऴगै उरुवॆळित् तोट्रत्तिल् कण्ड तलैवि वरुन्दि उरैत्तल्  
 
-3519 ஏழையர் ஆவி உண்ணும் இணைக் கூற்றம்கொலோ? அறியேன்  
-ஆழி அம் கண்ண பிரான் திருக்கண்கள்கொலோ? அறியேன்  
-சூழவும் தாமரை நாள் மலர் போல் வந்து தோன்றும் கண்டீர்  
-தோழியர்காள் அன்னைமீர் என் செய்கேன் துயராட்டியேனே? (1)  
+३५१९ एऴैयर् आवि उण्णुम् इणैक् कूट्रम्गॊलो? अऱियेन्  
+आऴि अम् कण्ण पिरान् तिरुक्कण्गळ्गॊलो? अऱियेन्  
+सूऴवुम् तामरै नाळ् मलर् पोल् वन्दु तोण्ड्रुम् कण्डीर्  
+तोऴियर्गाळ् अन्नैमीर् ऎन् सॆय्गेन् तुयराट्टियेने? (१)  
 
-3519. Her daughter says,  
+३५१९। Her daughter says,  
 "Are his two eyes Yamas  
 that have come to take away the life of me,  
 a poor women? I do not know.  
@@ -10138,11 +10139,11 @@ like fresh blooming lotuses before me.
 O my friends, mothers!  
 What will I do? I suffer."  
 
-3520 ஆட்டியும் தூற்றியும் நின்று அன்னைமீர் என்னை நீர் நலிந்து என்?  
-மாட்டு உயர் கற்பகத்தின் வல்லியோ? கொழுந்தோ? அறியேன்?  
-ஈட்டிய வெண்ணெய் உண்டான் திருமூக்கு எனது ஆவியுள்ளே  
-மாட்டிய வல் விளக்கின் சுடராய் நிற்கும் வாலியதே (2)  
-3520. Her daughter says,  
+३५२० आट्टियुम् तूट्रियुम् निण्ड्रु अन्नैमीर् ऎन्नै नीर् नलिन्दु ऎन्?  
+माट्टु उयर् कऱ्‌पगत्तिन् वल्लियो? कॊऴुन्दो? अऱियेन्?  
+ईट्टिय वॆण्णॆय् उण्डान् तिरुमूक्कु ऎनदु आवियुळ्ळे  
+माट्टिय वल् विळक्किन् सुडराय् निऱ्‌कुम् वालियदे (२)  
+३५२०। Her daughter says,  
 "O mothers,  
 what is the use of blaming me and scolding me?  
 You just make me worry more.  
@@ -10151,11 +10152,11 @@ entered my soul and shines like a bright light,
 but I’m not sure whether it is really his nose  
 or a tall Karpaga creeper or a tender shoot."  
 
-3521 வாலியது ஓர் கனிகொல்? வினையாட்டியேன் வல்வினைகொல்?  
-கோலம் திரள் பவளக் கொழும் துண்டம்கொலோ? அறியேன்  
-நீல நெடு முகில் போல் திருமேனி அம்மான் தொண்டைவாய்  
-ஏலும் திசையுள் எல்லாம் வந்து தோன்றும் என் இன் உயிர்க்கே (3)  
-3521. Her daughter says,  
+३५२१ वालियदु ओर् कनिगॊल्? विनैयाट्टियेन् वल्विनैगॊल्?  
+कोलम् तिरळ् पवळक् कॊऴुम् तुण्डम्गॊलो? अऱियेन्  
+नील नॆडु मुगिल् पोल् तिरुमेनि अम्मान् तॊण्डैवाय्  
+एलुम् तिसैयुळ् ऎल्लाम् वन्दु तोण्ड्रुम् ऎन् इन् उयिर्क्के (३)  
+३५२१। Her daughter says,  
 "Are his lips as red as a kovvai fruit?  
 Are they lovely round coral stones?  
 Have I done too much bad karma? I don’t know.  
@@ -10164,11 +10165,11 @@ who has a blue cloud-colored body
 appears everywhere in front of me  
 and hurts my dear life."  
 
-3522 இன் உயிர்க்கு ஏழையர்மேல் வளையும் இணை நீல விற்கொல்  
-மன்னிய சீர் மதனன் கருப்புச் சிலைகொல் மதனன்  
-தன் உயிர்த் தாதை கண்ண பெருமான் புருவம்? அவையே  
-என் உயிர் மேலனவாய் அடுகின்றன என்றும் நின்றே (4)  
-3522. Her daughter says,  
+३५२२ इन् उयिर्क्कु एऴैयर्मेल् वळैयुम् इणै नील विऱ्‌कॊल्  
+मन्निय सीर् मदनन् करुप्पुच् चिलैगॊल् मदनन्  
+तन् उयिर्त् तादै कण्ण पॆरुमान् पुरुवम्? अवैये  
+ऎन् उयिर् मेलनवाय् अडुगिण्ड्रन ऎण्ड्रुम् निण्ड्रे (४)  
+३५२२। Her daughter says,  
 "Are the eyebrows of the lord two blue bent bows  
 that take away the precious lives of lovely girls?  
 Or are they sugarcane bows  
@@ -10176,11 +10177,11 @@ of famous, everlasting Kama, the god of love?
 The eyebrows of the lord, the dear father of Kama,  
 come to me and burn my precious heart and body."  
 
-3523 என்றும் நின்றே திகழும் செய்ய ஈன் சுடர் வெண் மின்னுக்கொல்?  
-அன்றி என் ஆவி அடும் அணி முத்தம்கொலோ? அறியேன்  
-குன்றம் எடுத்த பிரான் முறுவல் எனது ஆவி அடும்  
-ஒன்றும் அறிகின்றிலேன் அன்னைமீர்! எனக்கு உய்வு இடமே (5)  
-3523. Her daughter says,  
+३५२३ ऎण्ड्रुम् निण्ड्रे तिगऴुम् सॆय्य ईन् सुडर् वॆण् मिन्नुक्कॊल्?  
+अण्ड्रि ऎन् आवि अडुम् अणि मुत्तम्गॊलो? अऱियेन्  
+कुण्ड्रम् ऎडुत्त पिरान् मुऱुवल् ऎनदु आवि अडुम्  
+ऒण्ड्रुम् अऱिगिण्ड्रिलेन् अन्नैमीर्! ऎनक्कु उय्वु इडमे (५)  
+३५२३। Her daughter says,  
 "Is the smile of the lord shining white lightning  
 in the red sky?  
 Are his teeth beautiful pearls that take away my life?  
@@ -10188,11 +10189,11 @@ I do not know.
 The smile of the lord who carried the Govardhana hills kills me.  
 O mothers! I don’t know where I can go to survive."  
 
-3524 உய்வு இடம் ஏழையர்க்கும் அசுரர்க்கும் அரக்கர்கட்கும்  
-எவ்விடம் என்று இலங்கி மகரம் தழைக்கும் தளிர்கொல்  
-பை விடப் பாம்பு அணையான் திருக் குண்டலக் காதுகளே?  
-கைவிடல் ஒன்றும் இன்றி அடுகின்றன காண்மின்களே (6)  
-3524. Her daughter says,  
+३५२४ उय्वु इडम् एऴैयर्क्कुम् असुरर्क्कुम् अरक्कर्गट्कुम्  
+ऎव्विडम् ऎण्ड्रु इलङ्गि मगरम् तऴैक्कुम् तळिर्गॊल्  
+पै विडप् पाम्बु अणैयान् तिरुक् कुण्डलक् कादुगळे?  
+कैविडल् ऒण्ड्रुम् इण्ड्रि अडुगिण्ड्रन काण्मिन्गळे (६)  
+३५२४। Her daughter says,  
 "The lord sleeps on a snake bed.  
 See, his divine ears, ornamented with beautiful earrings, ask,  
 ‘What place is safe for the innocent girls who love the god,  
@@ -10200,11 +10201,11 @@ and what place is safe for the Asurans and the Raksasas
 from the god who is their enemy?’  
 Those tender shoot-like ears burn me without stopping."  
 
-3525 காண்மின்கள் அன்னையர்காள் என்று காட்டும் வகை அறியேன்  
-நாள் மன்னு வெண் திங்கள் கொல் நயந்தார்கட்கு நச்சு இலைகொல்  
-சேண் மன்னு நால் தடம் தோள் பெருமான் தன் திரு நுதலே?  
-கோள் மன்னி ஆவி அடும் கொடியேன் உயிர் கோள் இழைத்தே (7)  
-3525. Her daughter says,  
+३५२५ काण्मिन्गळ् अन्नैयर्गाळ् ऎण्ड्रु काट्टुम् वगै अऱियेन्  
+नाळ् मन्नु वॆण् तिङ्गळ् कॊल् नयन्दार्गट्कु नच्चु इलैगॊल्  
+सेण् मन्नु नाल् तडम् तोळ् पॆरुमान् तन् तिरु नुदले?  
+कोळ् मन्नि आवि अडुम् कॊडियेन् उयिर् कोळ् इऴैत्ते (७)  
+३५२५। Her daughter says,  
 "O mother, see,  
 I don’t know how to show you how I suffer from love.  
 Is the white moon that rises every day  
@@ -10214,11 +10215,11 @@ who has four beautiful strong arms
 takes away my life.  
 Surely I have done bad karma."  
 
-3526 கோள் இழைத் தாமரையும் கொடியும் பவளமும் வில்லும்  
-கோள் இழைத் தண் முத்தமும் தளிரும் குளிர் வான் பிறையும்  
-கோள் இழையா உடைய கொழும் சோதிவட்டம் கொல் கண்ணன்  
-கோள் இழை வாள் முகமாய் கொடியேன் உயிர் கொள்கின்றதே? (8)  
-3526. Her daughter says,  
+३५२६ कोळ् इऴैत् तामरैयुम् कॊडियुम् पवळमुम् विल्लुम्  
+कोळ् इऴैत् तण् मुत्तमुम् तळिरुम् कुळिर् वान् पिऱैयुम्  
+कोळ् इऴैया उडैय कॊऴुम् सोदिवट्टम् कॊल् कण्णन्  
+कोळ् इऴै वाळ् मुगमाय् कॊडियेन् उयिर् कॊळ्गिण्ड्रदे? (८)  
+३५२६। Her daughter says,  
 "Is his faultless shining face a round circle  
 that is a fresh-petaled lotus with a vine inside it,  
 and a coral, a bow, cool beautiful pearls,  
@@ -10226,11 +10227,11 @@ tender shoots and the cool crescent moon in the sky?
 It comes in front of me and kills me.  
 I have done bad karma."  
 
-3527 கொள்கின்ற கோள் இருளைச் சுகிர்ந்திட்ட கொழும் சுருளின்  
-உள்கொண்ட நீல நல் நூல் தழைகொல்? அன்று மாயன் குழல்  
-விள்கின்ற பூந் தண் துழாய் விரை நாற வந்து என் உயிரைக்  
-கள்கின்றவாறு அறியீர் அன்னைமீர்! கழறா நிற்றிரே (9)  
-3527. Her daughter says,  
+३५२७ कॊळ्गिण्ड्र कोळ् इरुळैच् चुगिर्न्दिट्ट कॊऴुम् सुरुळिन्  
+उळ्गॊण्ड नील नल् नूल् तऴैगॊल्? अण्ड्रु मायन् कुऴल्  
+विळ्गिण्ड्र पून् दण् तुऴाय् विरै नाऱ वन्दु ऎन् उयिरैक्  
+कळ्गिण्ड्रवाऱु अऱियीर् अन्नैमीर्! कऴऱा निट्रिरे (९)  
+३५२७। Her daughter says,  
 "O mothers! Is his hair a bundle of black threads,  
 with luxurious curls parting the darkness with its stars?  
 The beautiful sound of the flute of Maayan  
@@ -10239,11 +10240,11 @@ comes spreading fragrance and steals my dear life.
 You do not understand my trouble.  
 You just stand here and scold me."  
 
-3528 நிற்றி முற்றத்துள் என்று நெரித்த கையர் ஆய் என்னை நீர்  
-சுற்றியும் சூழ்ந்தும் வைதிர் சுடர்ச் சோதி மணி நிறம் ஆய்  
-முற்ற இம் மூவுலகும் விரிகின்ற சுடர் முடிக்கே  
-ஒற்றுமை கொண்டது உள்ளம் அன்னைமீர் நசை என் நுங்கட்கே? (10)  
-3528. Her daughter says,  
+३५२८ निट्रि मुट्रत्तुळ् ऎण्ड्रु नॆरित्त कैयर् आय् ऎन्नै नीर्  
+सुट्रियुम् सूऴ्न्दुम् वैदिर् सुडर्च् चोदि मणि निऱम् आय्  
+मुट्र इम् मूवुलगुम् विरिगिण्ड्र सुडर् मुडिक्के  
+ऒट्रुमै कॊण्डदु उळ्ळम् अन्नैमीर् नसै ऎन् नुङ्गट्के? (१०)  
+३५२८। Her daughter says,  
 "He enters my yard holding his hands together,  
 and circles around me.  
 My heart has fallen in love with the bright crown  
@@ -10251,11 +10252,11 @@ of the dark shining diamond-colored lord
 that spreads its light in all the three worlds.  
 O mothers, what do you want me to do?"  
 
-3529 கட்கு அரிய பிரமன் சிவன் இந்திரன் என்று இவர்க்கும்  
-கட்கு அரிய கண்ணனைக் குருகூர்ச் சடகோபன் சொன்ன  
-உட்கு உடை ஆயிரத்துள் இவையும் ஒரு பத்தும் வல்லார்  
-உட்கு உடை வானவரோடு உடனாய் என்றும் மாயாரே (11)  
-3529. Saḍagopan of Thirukuruhur  
+३५२९ कट्कु अरिय पिरमन् सिवन् इन्दिरन् ऎण्ड्रु इवर्क्कुम्  
+कट्कु अरिय कण्णनैक् गुरुगूर्च् चडगोबन् सॊन्न  
+उट्कु उडै आयिरत्तुळ् इवैयुम् ऒरु पत्तुम् वल्लार्  
+उट्कु उडै वानवरोडु उडनाय् ऎण्ड्रुम् मायारे (११)  
+३५२९। Saḍagopan of Thirukuruhur  
 composed a thousand poems  
 on the dark-colored Kaṇṇan  
 whom even Brahma, Shiva and Indra cannot see.  
@@ -10264,14 +10265,14 @@ they will go to the sky and stay with the everlasting gods
 and will never die.  
 ---------  
 
-திருவாய்மொழி எழாம் பத்து (எட்டாம் திருமொழி, 3530-3540)  
-எம்பெருமானது விசித்திர விபூதியைக் கண்டு ஆழ்வார் ஆச்சரியப்படுதல்  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३५३०-३५४०)  
+ऎम्बॆरुमानदु विचित्तिर विबूदियैक् कण्डु आऴ्वार् आच्चरियप्पडुदल्  
 
-3530 மாயா வாமனனே மதுசூதா நீ அருளாய்  
-தீ ஆய் நீர் ஆய் நிலன் ஆய் விசும்பு ஆய் கால் ஆய்  
-தாய் ஆய் தந்தை ஆய் மக்கள் ஆய் மற்றும் ஆய் முற்றும் ஆய்  
-நீ ஆய் நீ நின்றவாறு இவை என்ன நியாயங்களே (1)  
-3530. You are Maayan.  
+३५३० माया वामनने मदुसूदा नी अरुळाय्  
+ती आय् नीर् आय् निलन् आय् विसुम्बु आय् काल् आय्  
+ताय् आय् तन्दै आय् मक्कळ् आय् मट्रुम् आय् मुट्रुम् आय्  
+नी आय् नी निण्ड्रवाऱु इवै ऎन्न नियायङ्गळे (१)  
+३५३०। You are Maayan.  
 You took the form of a dwarf.  
 You are Madhusudhanan.  
 Give us your grace.  
@@ -10281,11 +10282,11 @@ You are all the forms in the world,
 but you are yourself different.  
 Look—is this fair?  
 
-3531 அம் கள் மலர்த் தண் துழாய் முடி அச்சுதனே அருளாய்  
-திங்களும் ஞாயிறும் ஆய் செழும் பல் சுடர் ஆய் இருள் ஆய்  
-பொங்கு பொழி மழை ஆய் புகழ் ஆய் பழி ஆய் பின்னும் நீ  
-வெம் கண் வெம் கூற்றமும் ஆம் இவை என்ன விசித்திரமே (2)  
-3531. You are Achudan  
+३५३१ अम् कळ् मलर्त् तण् तुऴाय् मुडि अच्चुदने अरुळाय्  
+तिङ्गळुम् ञायिऱुम् आय् सॆऴुम् पल् सुडर् आय् इरुळ् आय्  
+पॊङ्गु पॊऴि मऴै आय् पुगऴ् आय् पऴि आय् पिन्नुम् नी  
+वॆम् कण् वॆम् कूट्रमुम् आम् इवै ऎन्न विचित्तिरमे (२)  
+३५३१। You are Achudan  
 adorned with a cool blooming thulasi garland.  
 Give us your grace.  
 You are the moon, sun, the many shining stars,  
@@ -10293,11 +10294,11 @@ night, pouring rain, fame and disgrace.
 You are cruel strong cruel Yama.  
 What is this wonder!  
 
-3532 சித்திரத் தேர் வலவா திருச் சக்கரத்தாய் அருளாய்  
-எத்தனை ஓர் உகமும் அவை ஆய் அவற்றுள் இயலும்  
-ஒத்த ஓண் பல் பொருள்கள் உலப்பு இல்லன ஆய் வியவு ஆய்  
-வித்தகத்தாய் நிற்றி நீ இவை என்ன விடமங்களே (3)  
-3532. You drove the beautiful chariot in the Bharatha war.  
+३५३२ चित्तिरत् तेर् वलवा तिरुच् चक्करत्ताय् अरुळाय्  
+ऎत्तनै ओर् उगमुम् अवै आय् अवट्रुळ् इयलुम्  
+ऒत्त ओण् पल् पॊरुळ्गळ् उलप्पु इल्लन आय् वियवु आय्  
+वित्तगत्ताय् निट्रि नी इवै ऎन्न विडमङ्गळे (३)  
+३५३२। You drove the beautiful chariot in the Bharatha war.  
 You carry the divine discus.  
 Give us your grace.  
 You are all the yugas  
@@ -10308,11 +10309,11 @@ but you also make them different.
 You are clever.  
 What kind of similarities and differences are these?  
 
-3533 கள் அவிழ் தாமரைக்கண் கண்ணனே எனக்கு ஒன்று அருளாய்  
-உள்ளதும் இல்லதும் ஆய் உலப்பு இல்லன ஆய் வியவு ஆய்  
-வெள்ளத் தடம் கடலுள் விட நாகு அணைமேல் மருவி  
-உள்ளப் பல் யோகு செய்தி இவை என்ன உபாயங்களே (4)  
-3533. You are Kaṇṇan  
+३५३३ कळ् अविऴ् तामरैक्कण् कण्णने ऎनक्कु ऒण्ड्रु अरुळाय्  
+उळ्ळदुम् इल्लदुम् आय् उलप्पु इल्लन आय् वियवु आय्  
+वॆळ्ळत् तडम् कडलुळ् विड नागु अणैमेल् मरुवि  
+उळ्ळप् पल् योगु सॆय्दि इवै ऎन्न उपायङ्गळे (४)  
+३५३३। You are Kaṇṇan  
 and your eyes are as beautiful as lotuses that drip honey.  
 Give me your grace.  
 You are what is and what is not.  
@@ -10321,11 +10322,11 @@ You sleep on a snake bed on the large watery ocean
 and stay in a yogic trance.  
 What kind of tricks are these?  
 
-3534 பாசங்கள் நீக்கி என்னை உனக்கே அறக் கொண்டிட்டு நீ  
-வாச மலர்த் தண் துழாய் முடி மாயவனே அருளாய்  
-காயமும் சீவனும் ஆய் கழிவு ஆய் பிறப்பு ஆய் பின்னும் நீ  
-மாயங்கள் செய்து வைத்தி இவை என்ன மயக்குக்களே (5)  
-3534. Give me your grace  
+३५३४ पासङ्गळ् नीक्कि ऎन्नै उनक्के अऱक् कॊण्डिट्टु नी  
+वास मलर्त् तण् तुऴाय् मुडि मायवने अरुळाय्  
+कायमुम् सीवनुम् आय् कऴिवु आय् पिऱप्पु आय् पिन्नुम् नी  
+मायङ्गळ् सॆय्दु वैत्ति इवै ऎन्न मयक्कुक्कळे (५)  
+३५३४। Give me your grace  
 so I may leave all desires  
 and be only your devotee.  
 O Maayavan, you wear fragrant flowers  
@@ -10335,11 +10336,11 @@ with a body and life
 and you keep me here with your maayams.  
 What are these tricks?  
 
-3535 மயக்கா வாமனனே மதி ஆம் வண்ணம் ஒன்று அருளாய்  
-அயர்ப்பு ஆய் தேற்றமும் ஆய் அழல் ஆய் குளிர் ஆய் வியவு ஆய்  
-வியப்பு ஆய் வென்றிகள் ஆய் வினை ஆய் பயன் ஆய் பின்னும் நீ  
-துயக்கு ஆய் நீ நின்றவாறு இவை என்ன துயரங்களே (6)  
-3535. You are the cause of confusion. You are a dwarf.  
+३५३५ मयक्का वामनने मदि आम् वण्णम् ऒण्ड्रु अरुळाय्  
+अयर्प्पु आय् तेट्रमुम् आय् अऴल् आय् कुळिर् आय् वियवु आय्  
+वियप्पु आय् वॆण्ड्रिगळ् आय् विनै आय् पयन् आय् पिन्नुम् नी  
+तुयक्कु आय् नी निण्ड्रवाऱु इवै ऎन्न तुयरङ्गळे (६)  
+३५३५। You are the cause of confusion. You are a dwarf.  
 Give me the knowledge of knowing only you.  
 You are weariness.  
 You are wakefulness.  
@@ -10349,11 +10350,11 @@ You give karma and its results.
 You yourself are confusion.  
 Why do you cause us to be confused?  
 
-3536 துயரங்கள் செய்யும் கண்ணா சுடர் நீள் முடியாய் அருளாய்  
-துயரம் செய் மானங்கள் ஆய் மதன் ஆகி உகவைகள் ஆய்  
-துயரம் செய் காமங்கள் ஆய் துலை ஆய் நிலை ஆய் நடை ஆய்  
-துயரங்கள் செய்து வைத்தி இவை என்ன சுண்டாயங்களே (7)  
-3536. O Kaṇṇan,  
+३५३६ तुयरङ्गळ् सॆय्युम् कण्णा सुडर् नीळ् मुडियाय् अरुळाय्  
+तुयरम् सॆय् मानङ्गळ् आय् मदन् आगि उगवैगळ् आय्  
+तुयरम् सॆय् कामङ्गळ् आय् तुलै आय् निलै आय् नडै आय्  
+तुयरङ्गळ् सॆय्दु वैत्ति इवै ऎन्न सुण्डायङ्गळे (७)  
+३५३६। O Kaṇṇan,  
 you have long shining hair.  
 You confuse us. Give us your grace.  
 You are the source of the desires that make us sad.  
@@ -10362,11 +10363,11 @@ You are far away and everlasting.
 You are everything that happens.  
 Is this all your play?  
 
-3537 என்ன சுண்டாயங்களால் நின்றிட்டாய் என்னை ஆளும் கண்ணா?  
-இன்னது ஓர் தன்மையை என்று உன்னை யாவர்க்கும் தேற்றரியை  
-முன்னிய மூவுலகும் அவை ஆய் அவற்றைப் படைத்து  
-பின்னும் உள்ளாய் புறத்தாய்! இவை என்ன இயற்கைகளே (8)  
-3537. O Kaṇṇan, you rule us.  
+३५३७ ऎन्न सुण्डायङ्गळाल् निण्ड्रिट्टाय् ऎन्नै आळुम् कण्णा?  
+इन्नदु ओर् तन्मैयै ऎण्ड्रु उन्नै यावर्क्कुम् तेट्ररियै  
+मुन्निय मूवुलगुम् अवै आय् अवट्रैप् पडैत्तु  
+पिन्नुम् उळ्ळाय् पुऱत्ताय्! इवै ऎन्न इयऱ्‌कैगळे (८)  
+३५३७। O Kaṇṇan, you rule us.  
 You play many games  
 but what do you gain from them?  
 No one knows who you are.  
@@ -10374,11 +10375,11 @@ You created all the three worlds and everything in them
 and you are both in them and out of them.  
 What is this nature of yours?  
 
-3538 என்ன இயற்கைகளால் எங்ஙனே நின்றிட்டாய் என் கண்ணா?  
-துன்னு கரசரணம் முதலாக எல்லா உறுப்பும்  
-உன்னு சுவை ஒளி ஊறு ஒலி நாற்றம் முற்றும் நீயே  
-உன்னை உணரவுறில் உலப்பு இல்லை நுணுக்கங்களே (9)  
-3538. O my Kaṇṇan,  
+३५३८ ऎन्न इयऱ्‌कैगळाल् ऎङ्ङने निण्ड्रिट्टाय् ऎन् कण्णा?  
+तुन्नु करसरणम् मुदलाग ऎल्ला उऱुप्पुम्  
+उन्नु सुवै ऒळि ऊऱु ऒलि नाट्रम् मुट्रुम् नीये  
+उन्नै उणरवुऱिल् उलप्पु इल्लै नुणुक्कङ्गळे (९)  
+३५३८। O my Kaṇṇan,  
 what is your nature? Where are you?  
 You are all parts of us, our hands and legs.  
 You are taste, sight, feeling, sound and smell.  
@@ -10386,11 +10387,11 @@ If we want to know all the things that you are
 there is no limit to them—  
 they may even be minute.  
 
-3539 இல்லை நுணுக்கங்களே இதனில் பிறிது என்னும் வண்ணம்  
-தொல்லை நல் நூலில் சொன்ன உருவும் அருவும் நீயே  
-அல்லித் துழாய் அலங்கல் அணி மார்ப என் அச்சுதனே  
-வல்லது ஓர் வண்ணம் சொன்னால் அதுவே உனக்கு ஆம் வண்ணமே (10)  
-3539. The ancient and excellent sastras  
+३५३९ इल्लै नुणुक्कङ्गळे इदनिल् पिऱिदु ऎन्नुम् वण्णम्  
+तॊल्लै नल् नूलिल् सॊन्न उरुवुम् अरुवुम् नीये  
+अल्लित् तुऴाय् अलङ्गल् अणि मार्ब ऎन् अच्चुदने  
+वल्लदु ओर् वण्णम् सॊन्नाल् अदुवे उनक्कु आम् वण्णमे (१०)  
+३५३९। The ancient and excellent sastras  
 describe your good nature—  
 there is nothing better than they to describe you.  
 You are form and formlessness.  
@@ -10399,11 +10400,11 @@ You are my Achudan.
 If any sastras describe the nature of any god  
 that nature is yours also.  
 
-3540 ஆம் வண்ணம் இன்னது ஒன்று என்று அறிவது அரிய அரியை  
-ஆம் வண்ணத்தால் குருகூர்ச் சடகோபன் அறிந்து உரைத்த  
-ஆம் வண்ண ஒண் தமிழ்கள் இவை ஆயிரத்துள் இப் பத்தும்  
-ஆம் வண்ணத்தால் உரைப்பார் அமைந்தார் தமக்கு என்றைக்குமே (11)  
-3540. Saḍagopan of Thirukuruhur  
+३५४० आम् वण्णम् इन्नदु ऒण्ड्रु ऎण्ड्रु अऱिवदु अरिय अरियै  
+आम् वण्णत्ताल् गुरुगूर्च् चडगोबन् अऱिन्दु उरैत्त  
+आम् वण्ण ऒण् तमिऴ्गळ् इवै आयिरत्तुळ् इप् पत्तुम्  
+आम् वण्णत्ताल् उरैप्पार् अमैन्दार् तमक्कु ऎण्ड्रैक्कुमे (११)  
+३५४०। Saḍagopan of Thirukuruhur  
 composed a thousand beautiful Tamil pasurams  
 on the lord whose nature no one knows.  
 If devotees learn and recite beautifully  
@@ -10412,25 +10413,25 @@ that the poet understands
 they will be always the dear devotees of the god.  
 ------------  
 
-திருவாய்மொழி எழாம் பத்து (ஒன்பதாம் திருமொழி, 3541-3551)  
-இன்கவி பாடும் பேற்றை எம்பெருமான் தமக்கு அருளியமைக்குக் கைம்மாறு இல்லை எனல்  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३५४१-३५५१)  
+इन्गवि पाडुम् पेट्रै ऎम्बॆरुमान् तमक्कु अरुळियमैक्कुक् कैम्माऱु इल्लै ऎनल्  
 
-3541 என்றைக்கும் என்னை உய்யக்கொண்டு போகிய  
-அன்றைக்கு அன்று என்னைத் தன்னாக்கி என்னால் தன்னை  
-இன் தமிழ் பாடிய ஈசனை ஆதியாய்  
-நின்ற என் சோதியை என் சொல்லி நிற்பனோ? (1)  
-3541. He took me as his devotee forever.  
+३५४१ ऎण्ड्रैक्कुम् ऎन्नै उय्यक्कॊण्डु पोगिय  
+अण्ड्रैक्कु अण्ड्रु ऎन्नैत् तन्नाक्कि ऎन्नाल् तन्नै  
+इन् तमिऴ् पाडिय ईसनै आदियाय्  
+निण्ड्र ऎन् सोदियै ऎन् सॊल्लि निऱ्‌पनो? (१)  
+३५४१। He took me as his devotee forever.  
 After he made me his,  
 he made me compose sweet Tamil pasurams  
 praising him, the ancient lord.  
 He is the shining light.  
 What can I say to worship him?  
 
-3542 என் சொல்லி நிற்பன் என் இன் உயிர் இன்று ஒன்றாய்  
-என் சொல்லால் யான் சொன்ன இன் கவி என்பித்து  
-தன் சொல்லால் தான் தன்னைக் கீர்த்தித்த மாயன் என்  
-முன் சொல்லும் மூவுருவாம் முதல்வனே? (2)  
-3542. What should I say?  
+३५४२ ऎन् सॊल्लि निऱ्‌पन् ऎन् इन् उयिर् इण्ड्रु ऒण्ड्राय्  
+ऎन् सॊल्लाल् यान् सॊन्न इन् कवि ऎन्बित्तु  
+तन् सॊल्लाल् तान् तन्नैक् कीर्त्तित्त मायन् ऎन्  
+मुन् सॊल्लुम् मूवुरुवाम् मुदल्वने? (२)  
+३५४२। What should I say?  
 He is my sweet life.  
 He made me compose poems using my words  
 but they are really his words.  
@@ -10440,22 +10441,22 @@ He is Maayan.
 He is first among the three gods  
 and all the words I say are his.  
 
-3543 ஆம் முதல்வன் இவன் என்று தன் தேற்றி என்  
-நா முதல் வந்து புகுந்து நல் இன் கவி  
-தூ முதல் பத்தர்க்குத் தான் தன்னைச் சொன்ன என்  
-வாய் முதல் அப்பனை என்று மறப்பனோ? (3)  
-3543. He thought that I am a good poet  
+३५४३ आम् मुदल्वन् इवन् ऎण्ड्रु तन् तेट्रि ऎन्  
+ना मुदल् वन्दु पुगुन्दु नल् इन् कवि  
+तू मुदल् पत्तर्क्कुत् तान् तन्नैच् चॊन्न ऎन्  
+वाय् मुदल् अप्पनै ऎण्ड्रु मऱप्पनो? (३)  
+३५४३। He thought that I am a good poet  
 and entered my tongue.  
 He made me compose these sweet pasurams for his faultless devotees  
 but he himself is the composer  
 and he praised himself through my poems.  
 He is my father. How could I forget him?  
 
-3544 அப்பனை என்று மறப்பன் என் ஆகியே  
-தப்புதல் இன்றி தனைக் கவி தான் சொல்லி  
-ஒப்பிலாத் தீவினையேனை உய்யக்கொண்டு  
-செப்பமே செய்து திரிகின்ற சீர்கண்டே? (4)  
-3544. He himself composed faultless poems  
+३५४४ अप्पनै ऎण्ड्रु मऱप्पन् ऎन् आगिये  
+तप्पुदल् इण्ड्रि तनैक् कवि तान् सॊल्लि  
+ऒप्पिलात् तीविनैयेनै उय्यक्कॊण्डु  
+सॆप्पमे सॆय्दु तिरिगिण्ड्र सीर्गण्डे? (४)  
+३५४४। He himself composed faultless poems  
 about himself through me.  
 I have done many things too bad to describe.  
 He saved me and I know that he gave me his grace  
@@ -10463,11 +10464,11 @@ and made me a good poet.
 He himself is me.  
 How could I forget my father?  
 
-3545 சீர் கண்டுகொண்டு திருந்து நல் இன்கவி  
-நேர்பட யான் சொல்லும் நீர்மை இலாமையில்  
-ஏர்வு இலா என்னைத் தன்னாக்கி என்னால் தன்னைப்  
-பார் பரவு இன் கவி பாடும் பரமரே (5)  
-3545. He is the highest lord.  
+३५४५ सीर् कण्डुगॊण्डु तिरुन्दु नल् इन्गवि  
+नेर्बड यान् सॊल्लुम् नीर्मै इलामैयिल्  
+एर्वु इला ऎन्नैत् तन्नाक्कि ऎन्नाल् तन्नैप्  
+पार् परवु इन् कवि पाडुम् परमरे (५)  
+३५४५। He is the highest lord.  
 He understood that I have no ability  
 to compose sweet poems.  
 I am a low one.  
@@ -10475,22 +10476,22 @@ He joined me with himself,
 and composed wonderful poems  
 that are praised by the whole world.  
 
-3546 இன் கவி பாடும் பரம் கவிகளால்  
-தன் கவி தான் தன்னைப் பாடுவியாது இன்று  
-நன்கு வந்து என்னுடன் ஆக்கி என்னால் தன்னை  
-வன் கவி பாடும் என் வைகுந்த நாதனே (6)  
-3546. The divine lord does not compose  
+३५४६ इन् कवि पाडुम् परम् कविगळाल्  
+तन् कवि तान् तन्नैप् पाडुवियादु इण्ड्रु  
+नन्गु वन्दु ऎन्नुडन् आक्कि ऎन्नाल् तन्नै  
+वन् कवि पाडुम् ऎन् वैगुन्द नादने (६)  
+३५४६। The divine lord does not compose  
 sweet poems himself on himself.  
 He came to me lovingly  
 and made me compose poems about him.  
 He is the lord of Vaikuṇṭam  
 and he sings beautiful poems on himself through me.  
 
-3547 வைகுந்த நாதன் என வல்வினை மாய்ந்து அறச்  
-செய் குந்தன் தன்னை என் ஆக்கி என்னால் தன்னை  
-வைகுந்தன் ஆகப் புகழ வண் தீம் கவி  
-செய் குந்தன் தன்னை எந் நாள் சிந்தித்து ஆர்வனோ? (7)  
-3547. The lord of Vaikuṇṭam destroyed my bad karma  
+३५४७ वैगुन्द नादन् ऎन वल्विनै माय्न्दु अऱच्  
+चॆय् कुन्दन् तन्नै ऎन् आक्कि ऎन्नाल् तन्नै  
+वैगुन्दन् आगप् पुगऴ वण् तीम् कवि  
+सॆय् कुन्दन् तन्नै ऎन् नाळ् सिन्दित्तु आर्वनो? (७)  
+३५४७। The lord of Vaikuṇṭam destroyed my bad karma  
 and made me a good person.  
 He made me compose sweet poems  
 describing him as the lord of Vaikuṇṭam  
@@ -10498,22 +10499,22 @@ and he is praised by all through these poems.
 My mind will not be satisfied  
 even if I praise him forever in sweet poems.  
 
-3548 ஆர்வனோ ஆழி அங்கை எம் பிரான் புகழ்  
-பார் விண் நீர் முற்றும் கலந்து பருகிலும்  
-ஏர்வு இலா என்னைத் தன்னாக்கி என்னால் தன்னைச்  
-சீர்பெற இன் கவி சொன்ன திறத்துக்கே? (8)  
-3548. My lord carries a discus in his beautiful hands.  
+३५४८ आर्वनो आऴि अङ्गै ऎम् पिरान् पुगऴ्  
+पार् विण् नीर् मुट्रुम् कलन्दु परुगिलुम्  
+एर्वु इला ऎन्नैत् तन्नाक्कि ऎन्नाल् तन्नैच्  
+चीर्बॆऱ इन् कवि सॊन्न तिऱत्तुक्के? (८)  
+३५४८। My lord carries a discus in his beautiful hands.  
 I am not fit to compose poems on him  
 but he joined me with himself  
 and gave me the ability to compose sweet poems on him.  
 Even if someone puts together the world, sky and water  
 and praises the lord, it is not sufficient for the fame of the lord.  
 
-3549 திறத்துக்கு ஏய் துப்புரவு ஆம் திருமாலின் சீர்  
-இறப்பு எதிர் காலம் பருகிலும் ஆர்வனோ  
-மறப்பு இலா என்னைத் தன்னாக்கி என்னால் தன்னை  
-உறப் பல இன் கவி சொன்ன உதவிக்கே? (9)  
-3549. He did me a great service.  
+३५४९ तिऱत्तुक्कु एय् तुप्पुरवु आम् तिरुमालिन् सीर्  
+इऱप्पु ऎदिर् कालम् परुगिलुम् आर्वनो  
+मऱप्पु इला ऎन्नैत् तन्नाक्कि ऎन्नाल् तन्नै  
+उऱप् पल इन् कवि सॊन्न उदविक्के? (९)  
+३५४९। He did me a great service.  
 He did not forget me  
 but accepted me as his devotee  
 and gave me his grace to compose many sweet poems on him.  
@@ -10521,11 +10522,11 @@ Even if I praise his past, present and future greatness
 and enjoy it, it is not enough to praise him.  
 How can I repay him for his help?  
 
-3550 உதவிக் கைம்மாறு என் உயிர் என்ன உற்று எண்ணில்  
-அதுவும் மற்று ஆங்கவன் தன்னது என்னால் தன்னைப்  
-பதவிய இன் கவி பாடிய அப்பனுக்கு  
-எதுவும் ஒன்றும் இல்லை செய்வது இங்கும் அங்கே (10)  
-3550. If I want to give my life to him  
+३५५० उदविक् कैम्माऱु ऎन् उयिर् ऎन्न उट्रु ऎण्णिल्  
+अदुवुम् मट्रु आङ्गवन् तन्नदु ऎन्नाल् तन्नैप्  
+पदविय इन् कवि पाडिय अप्पनुक्कु  
+ऎदुवुम् ऒण्ड्रुम् इल्लै सॆय्वदु इङ्गुम् अङ्गे (१०)  
+३५५०। If I want to give my life to him  
 for the things he did for me  
 even that is not enough  
 because he created me and my life is his.  
@@ -10534,11 +10535,11 @@ I do not have anything to give to my father in return
 in this world or in the sky  
 for the things that he has done for me.  
 
-3551 இங்கும் அங்கும் திருமால் அன்றி இன்மை கண்டு  
-அங்ஙனே வண் குருகூர்ச் சடகோபன்  
-இங்ஙனே சொன்ன ஓர் ஆயிரத்து இப் பத்தும்  
-எங்ஙனே சொல்லினும் இன்பம் பயக்குமே (11)  
-3551. Sadagopan of flourishing Thirukuruhur  
+३५५१ इङ्गुम् अङ्गुम् तिरुमाल् अण्ड्रि इन्मै कण्डु  
+अङ्ङने वण् गुरुगूर्च् चडगोबन्  
+इङ्ङने सॊन्न ओर् आयिरत्तु इप् पत्तुम्  
+ऎङ्ङने सॊल्लिनुम् इन्बम् पयक्कुमे (११)  
+३५५१। Sadagopan of flourishing Thirukuruhur  
 knows that there is no place  
 where the lord does not exist  
 and that he is omnipresent.  
@@ -10548,19 +10549,19 @@ and however they recite these ten poems,
 they will obtain the joy of reaching the god.  
 -----------  
 
-திருவாய்மொழி எழாம் பத்து (பத்தாம் திருமொழி, 3552-3562)  
-திருவாறன்விளை சென்று எம்பெருமானைக் கண்டு ஆழ்வார்  
-அடிமைசெய்யக் கருதுதல் (திருவாறன்விளை)  
+तिरुवाय्मॊऴि ऎऴाम् पत्तु (पत्ताम् तिरुमॊऴि, ३५५२-३५६२)  
+तिरुवाऱन्विळै सॆण्ड्रु ऎम्बॆरुमानैक् कण्डु आऴ्वार्  
+अडिमैसॆय्यक् करुदुदल् (तिरुवाऱन्विळै)  
 
-3552 இன்பம் பயக்க எழில் மலர் மாதரும் தானும்  
-இவ் ஏழ் உலகை  
-இன்பம் பயக்க இனிது உடன் வீற்றிருந்து  
-ஆள்கின்ற எங்கள் பிரான்  
-அன்புற்று அமர்ந்து உறைகின்ற அணி பொழில்  
-சூழ் திருவாறன்விளை  
-அன்புற்று அமர்ந்து வலஞ்செய்து கைதொழும்  
-நாள்களும் ஆகும்கொலோ? (1)  
-3552. Our lord rules this world and gives happiness to all.  
+३५५२ इन्बम् पयक्क ऎऴिल् मलर् मादरुम् तानुम्  
+इव् एऴ् उलगै  
+इन्बम् पयक्क इनिदु उडन् वीट्रिरुन्दु  
+आळ्गिण्ड्र ऎङ्गळ् पिरान्  
+अन्बुट्रु अमर्न्दु उऱैगिण्ड्र अणि पॊऴिल्  
+सूऴ् तिरुवाऱन्विळै  
+अन्बुट्रु अमर्न्दु वलञ्जॆय्दु कैदॊऴुम्  
+नाळ्गळुम् आगुम्गॊलो? (१)  
+३५५२। Our lord rules this world and gives happiness to all.  
 He stays with Lakshmi  
 who gives joy to all creatures and abides on a beautiful lotus.  
 When will the day come when I can go to Thiruvaaṛanviḷai  
@@ -10568,15 +10569,15 @@ surrounded with beautiful groves
 where the lord stays happily  
 and circle around the hill and worship him?  
 
-3553 ஆகும்கொல் ஐயம் ஒன்று இன்றி? அகல் இடம்  
-முற்றவும் ஈர் அடியே  
-ஆகும்பரிசு நிமிர்ந்த திருக்குறள் அப்பன்  
-அமர்ந்து உறையும்  
-மாகம் திகழ் கொடி மாடங்கள் நீடு  
-மதிள் திருவாறன்விளை  
-மா கந்த நீர்கொண்டு தூவி வலஞ்செய்து  
-கைதொழக் கூடும்கொலோ? (2)  
-3553. The lord took the form of a divine dwarf  
+३५५३ आगुम्गॊल् ऐयम् ऒण्ड्रु इण्ड्रि? अगल् इडम्  
+मुट्रवुम् ईर् अडिये  
+आगुम्बरिसु निमिर्न्द तिरुक्कुऱळ् अप्पन्  
+अमर्न्दु उऱैयुम्  
+मागम् तिगऴ् कॊडि माडङ्गळ् नीडु  
+मदिळ् तिरुवाऱन्विळै  
+मा कन्द नीर्गॊण्डु तूवि वलञ्जॆय्दु  
+कैदॊऴक् कूडुम्गॊलो? (२)  
+३५५३। The lord took the form of a divine dwarf  
 and, without any hesitation, measured the wide world  
 and the sky with his two feet.  
 He is lord of Thiruvaaṛanviḷai surrounded by tall walls  
@@ -10585,29 +10586,29 @@ When will the time come that I can go there
 with fragrant water and sprinkle it  
 and circle the hill and worship him folding my hands?  
 
-3554 கூடும் கொல் வைகலும்? கோவிந்தனை  
-மதுசூதனை கோளரியை  
-ஆடும் பறவைமிசைக் கண்டு கைதொழுது  
-அன்றி அவன் உறையும்  
-பாடும் பெரும் புகழ் நான்மறை வேள்வி ஐந்து  
-ஆறு அங்கம் பன்னினர் வாழ்  
-நீடு பொழில் திருவாறன்விளை தொழ  
-வாய்க்கும்கொல் நிச்சலுமே? (3)  
-3554. The god Govindan, Madhusudhanan, the man-lion  
+३५५४ कूडुम् कॊल् वैगलुम्? कोविन्दनै  
+मदुसूदनै कोळरियै  
+आडुम् पऱवैमिसैक् कण्डु कैदॊऴुदु  
+अण्ड्रि अवन् उऱैयुम्  
+पाडुम् पॆरुम् पुगऴ् नान्मऱै वेळ्वि ऐन्दु  
+आऱु अङ्गम् पन्निनर् वाऴ्  
+नीडु पॊऴिल् तिरुवाऱन्विळै तॊऴ  
+वाय्क्कुम्गॊल् निच्चलुमे? (३)  
+३५५४। The god Govindan, Madhusudhanan, the man-lion  
 stays riding on Garudan in Thiruvaaṛanviḷai surrounded with tall groves  
 where Brahmins recite the four famous Vedas  
 and six Upanishads and perform sacrifices.  
 Will I be able to go there and worship him every day?  
 
-3555 வாய்க்கும்கொல் நிச்சலும் எப்பொழுதும் மனத்து  
-ஈங்கு நினைக்கப்பெற  
-வாய்க்கும் கரும்பும் பெரும் செந்நெலும்  
-வயல் சூழ் திருவாறன்விளை  
-வாய்க்கும் பெரும் புகழ் மூவுலகு ஈசன்  
-வடமதுரைப் பிறந்த  
-வாய்க்கும் மணி நிறக் கண்ண பிரான் தன்  
-மலர் அடிப்போதுகளே? (4)  
-3555. The famous Kanṇapiraan,  
+३५५५ वाय्क्कुम्गॊल् निच्चलुम् ऎप्पॊऴुदुम् मनत्तु  
+ईङ्गु निनैक्कप्पॆऱ  
+वाय्क्कुम् करुम्बुम् पॆरुम् सॆन्नॆलुम्  
+वयल् सूऴ् तिरुवाऱन्विळै  
+वाय्क्कुम् पॆरुम् पुगऴ् मूवुलगु ईसन्  
+वडमदुरैप् पिऱन्द  
+वाय्क्कुम् मणि निऱक् कण्ण पिरान् तन्  
+मलर् अडिप्पोदुगळे? (४)  
+३५५५। The famous Kanṇapiraan,  
 the sapphire-colored god of all the three worlds  
 was born in northern Madura  
 and stays in Thiruvaaṛanviḷai  
@@ -10615,15 +10616,15 @@ surrounded by sugarcane and good paddy lands.
 Will I able to go and worship his lotus feet every day  
 just as I worship him in my mind here?  
 
-3556 மலர் அடிப்போதுகள் என் நெஞ்சத்து எப்பொழுதும்  
-இருத்தி வணங்க  
-பலர் அடியார் முன்பு அருளிய பாம்பு அணை அப்பன்  
-அமர்ந்து உறையும்  
-மலரின் மணி நெடு மாடங்கள் நீடு  
-மதிள் திருவாறன்விளை  
-உலகம் மலி புகழ் பாட நம்மேல் வினை  
-ஒன்றும் நில்லா கெடுமே. (5)  
-3556. My father sleeps on a snake bed  
+३५५६ मलर् अडिप्पोदुगळ् ऎन् नॆञ्जत्तु ऎप्पॊऴुदुम्  
+इरुत्ति वणङ्ग  
+पलर् अडियार् मुन्बु अरुळिय पाम्बु अणै अप्पन्  
+अमर्न्दु उऱैयुम्  
+मलरिन् मणि नॆडु माडङ्गळ् नीडु  
+मदिळ् तिरुवाऱन्विळै  
+उलगम् मलि पुगऴ् पाड नम्मेल् विनै  
+ऒण्ड्रुम् निल्ला कॆडुमे। (५)  
+३५५६। My father sleeps on a snake bed  
 and gives his grace to many devotees.  
 He stays in Thiruvaaṛanviḷai surrounded by tall walls  
 and high palaces studded with jewels and flowers.  
@@ -10631,15 +10632,15 @@ If I keep his lotus-like feet in my heart always,
 worship him and sing his fame that spreads in all the worlds,  
 all my karma will be destroyed and go away.  
 
-3557 ஒன்றும் நில்லா கெடும் முற்றவும் தீவினை உள்ளித்  
-தொழுமின் தொண்டீர்!  
-அன்று அங்கு அமர் வென்று உருப்பிணி நங்கை  
-அணி நெடும் தோள் புணர்ந்தான்  
-என்றும் எப்போதும் என் நெஞ்சம் துதிப்ப  
-உள்ளே இருக்கின்ற பிரான்  
-நின்ற அணி திருவாறன்விளை என்னும்  
-நீள் நகரம் அதுவே (6)  
-3557. He fought with Sisubalan, brought Rukmani  
+३५५७ ऒण्ड्रुम् निल्ला कॆडुम् मुट्रवुम् तीविनै उळ्ळित्  
+तॊऴुमिन् तॊण्डीर्!  
+अण्ड्रु अङ्गु अमर् वॆण्ड्रु उरुप्पिणि नङ्गै  
+अणि नॆडुम् तोळ् पुणर्न्दान्  
+ऎण्ड्रुम् ऎप्पोदुम् ऎन् नॆञ्जम् तुदिप्प  
+उळ्ळे इरुक्किण्ड्र पिरान्  
+निण्ड्र अणि तिरुवाऱन्विळै ऎन्नुम्  
+नीळ् नगरम् अदुवे (६)  
+३५५७। He fought with Sisubalan, brought Rukmani  
 and embraced her lovely round arms.  
 I worship him and he stays in my heart all days and all times.  
 He is the god of beautiful Thiruvaaṛanviḷai.  
@@ -10647,15 +10648,15 @@ O devotees!
 If you praise his fame that the whole world praises abundantly,  
 all your bad karma will go away.  
 
-3558 நீள் நகரம் அதுவே மலர்ச் சோலைகள்  
-சூழ் திருவாறன்விளை  
-நீள் நகரத்து உறைகின்ற பிரான் நெடுமால்  
-கண்ணன் விண்ணவர் கோன்  
-வாணபுரம் புக்கு முக்கண் பிரானைத் தொலைய  
-வெம் போர்கள் செய்து  
-வாணனை ஆயிரம் தோள் துணித்தான் சரண்  
-அன்றி மற்று ஒன்று இலமே (7)  
-3558. Neḍumaal, Kaṇṇan, the king of the gods in the sky,  
+३५५८ नीळ् नगरम् अदुवे मलर्च् चोलैगळ्  
+सूऴ् तिरुवाऱन्विळै  
+नीळ् नगरत्तु उऱैगिण्ड्र पिरान् नॆडुमाल्  
+कण्णन् विण्णवर् कोन्  
+वाणबुरम् पुक्कु मुक्कण् पिरानैत् तॊलैय  
+वॆम् पोर्गळ् सॆय्दु  
+वाणनै आयिरम् तोळ् तुणित्तान् सरण्  
+अण्ड्रि मट्रु ऒण्ड्रु इलमे (७)  
+३५५८। Neḍumaal, Kaṇṇan, the king of the gods in the sky,  
 went to the kingdom of Vaaṇan, fought a cruel war with the Asuran  
 and cut off his thousand arms.  
 Three-eyed Shiva and his son Karthikeya came to help Vaanan  
@@ -10664,15 +10665,15 @@ There is no other refuge than the feet of the god
 of great Thiruvaaṛanviḷai  
 surrounded by groves blooming with flowers.  
 
-3559 அன்றி மற்று ஒன்று இலம் நின் சரணே என்று  
-அகல் இரும் பொய்கையின்வாய்  
-நின்று தன் நீள் கழல் ஏத்திய ஆனையின்  
-நெஞ்சு இடர் தீர்த்த பிரான்  
-சென்று அங்கு இனிது உறைகின்ற செழும் பொழில்  
-சூழ் திருவாறன்விளை  
-ஒன்றி வலஞ்செய்ய ஒன்றுமோ? தீவினை  
-உள்ளத்தின் சார்வு அல்லவே (8)  
-3559. The elephant Gajendra stood on the bank of the pond  
+३५५९ अण्ड्रि मट्रु ऒण्ड्रु इलम् निन् सरणे ऎण्ड्रु  
+अगल् इरुम् पॊय्गैयिन्वाय्  
+निण्ड्रु तन् नीळ् कऴल् एत्तिय आनैयिन्  
+नॆञ्जु इडर् तीर्त्त पिरान्  
+सॆण्ड्रु अङ्गु इनिदु उऱैगिण्ड्र सॆऴुम् पॊऴिल्  
+सूऴ् तिरुवाऱन्विळै  
+ऒण्ड्रि वलञ्जॆय्य ऒण्ड्रुमो? तीविनै  
+उळ्ळत्तिन् सार्वु अल्लवे (८)  
+३५५९। The elephant Gajendra stood on the bank of the pond  
 worshiped his divine ankleted feet and called him saying,  
 "There is no refuge for me but you."  
 He went there, saved him from the crocodile  
@@ -10682,15 +10683,15 @@ surrounded by flourishing groves.
 If you go there and circle the hill  
 the bad karma that troubles your mind will go away.  
 
-3560 தீவினை உள்ளத்தின் சார்வு அல்ல ஆகி  
-தெளி விசும்பு ஏறலுற்றால்  
-நாவினுள்ளும் உள்ளத்துள்ளும் அமைந்த  
-தொழிலினுள்ளும் நவின்று  
-யாவரும் வந்து வணங்கும் பொழில்  
-திருவாறன்விளை அதனை  
-மேவி வலஞ்செய்து கைதொழக் கூடும்கொல்?  
-என்னும் என் சிந்தனையே (9)  
-3560. Even if my bad karma is removed  
+३५६० तीविनै उळ्ळत्तिन् सार्वु अल्ल आगि  
+तॆळि विसुम्बु एऱलुट्राल्  
+नाविनुळ्ळुम् उळ्ळत्तुळ्ळुम् अमैन्द  
+तॊऴिलिनुळ्ळुम् नविण्ड्रु  
+यावरुम् वन्दु वणङ्गुम् पॊऴिल्  
+तिरुवाऱन्विळै अदनै  
+मेवि वलञ्जॆय्दु कैदॊऴक् कूडुम्गॊल्?  
+ऎन्नुम् ऎन् सिन्दनैये (९)  
+३५६०। Even if my bad karma is removed  
 and I am able to go to heaven  
 I will only want to go to Thiruvaṛanviḷai  
 surrounded with groves  
@@ -10699,15 +10700,15 @@ with their tongues, hearts and all their actions.
 My heart suffers not knowing when I will be able to go,  
 circle the hill there and worship him.  
 
-3561 சிந்தை மற்றொன்றின் திறத்தது அல்லாத் தன்மை  
-தேவ பிரான் அறியும்  
-சிந்தையினால் செய்வ தான் அறியாதன  
-மாயங்கள் ஒன்றும் இல்லை  
-சிந்தையினால் சொல்லினால் செய்கையால் நிலத்தேவர்  
-குழு வணங்கும்  
-சிந்தை மகிழ் திருவாறன்விளை உறை  
-தீர்த்தனுக்கு அற்ற பின்னே (10)  
-3561. The god of the gods knows that a person’s heart  
+३५६१ सिन्दै मट्रॊण्ड्रिन् तिऱत्तदु अल्लात् तन्मै  
+तेव पिरान् अऱियुम्  
+सिन्दैयिनाल् सॆय्व तान् अऱियादन  
+मायङ्गळ् ऒण्ड्रुम् इल्लै  
+सिन्दैयिनाल् सॊल्लिनाल् सॆय्गैयाल् निलत्तेवर्  
+कुऴु वणङ्गुम्  
+सिन्दै मगिऴ् तिरुवाऱन्विळै उऱै  
+तीर्त्तनुक्कु अट्र पिन्ने (१०)  
+३५६१। The god of the gods knows that a person’s heart  
 does not leave the thoughts it is involved in.  
 There is nothing magical that one cannot achieve  
 if he always thinks of that one thing.  
@@ -10716,15 +10717,15 @@ after I give myself to the god of Thiruvaaṛanviḷai
 where the gods come to the earth and praise him  
 with their minds and deeds.  
 
-3562 தீர்த்தனுக்கு அற்றபின் மற்று ஓர் சரண்  
-இல்லை என்று எண்ணி தீர்த்தனுக்கே  
-தீர்த்த மனத்தனன் ஆகி செழுங்  
-குருகூர்ச் சடகோபன் சொன்ன  
-தீர்த்தங்கள் ஆயிரத்துள் இவை பத்தும்  
-வல்லார்களைத் தேவர் வைகல்  
-தீர்த்தங்களே என்று பூசித்து நல்கி  
-உரைப்பர் தம் தேவியர்க்கே (11)  
-3562. Sadagopan from flourishing southern Thirukuruhur,  
+३५६२ तीर्त्तनुक्कु अट्रबिन् मट्रु ओर् सरण्  
+इल्लै ऎण्ड्रु ऎण्णि तीर्त्तनुक्के  
+तीर्त्त मनत्तनन् आगि सॆऴुङ्  
+गुरुगूर्च् चडगोबन् सॊन्न  
+तीर्त्तङ्गळ् आयिरत्तुळ् इवै पत्तुम्  
+वल्लार्गळैत् तेवर् वैगल्  
+तीर्त्तङ्गळे ऎण्ड्रु पूचित्तु नल्गि  
+उरैप्पर् तम् तेवियर्क्के (११)  
+३५६२। Sadagopan from flourishing southern Thirukuruhur,  
 giving his mind to the Theerthan  
 and thinking that there is no other refuge except his feet,  
 composed a thousand pasurams with a pure mind on him.  
@@ -10732,21 +10733,21 @@ Even the gods worship the devotees
 who learn and recite these ten poems  
 and tell their dear wives about them.  
 ---------------  
-திருவாய்மொழி எட்டாம் பத்து (3563 - 3672)  
-Divyaprabandham - Thiruvaymozhi - Etṭām Pathu 3563 - 3672  
-திருவாய்மொழி எட்டாம் பத்து (முதல் திருமொழி, 3563-3573)  
-எம்பெருமானது அடியார் வசமாகும் நிலையையும் யாவையும்  
-தானாகும் நிலையையும் ஆழ்வார் சங்கித்துத் தௌதல்  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (३५६३ - ३६७२)  
+Divyaprabandham - Thiruvaymozhi - Etṭām Pathu ३५६३ - ३६७२  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (मुदल् तिरुमॊऴि, ३५६३-३५७३)  
+ऎम्बॆरुमानदु अडियार् वसमागुम् निलैयैयुम् यावैयुम्  
+तानागुम् निलैयैयुम् आऴ्वार् सङ्गित्तुत् तौदल्  
 
-3563 தேவிமார் ஆவார் திருமகள் பூமி  
-ஏவ மற்று அமரர் ஆட்செய்வார்  
-மேவிய உலகம் மூன்று அவை ஆட்சி  
-வேண்டு வேண்டு உருவம் நின் உருவம்  
-பாவியேன் தன்னை அடுகின்ற கமலக்  
-கண்ணது ஓர் பவள வாய் மணியே  
-ஆவியே அமுதே அலை கடல் கடைந்த  
-அப்பனே காணுமாறு அருளாய் (1)  
-3563. The divine Lakshmi and other goddesses  
+३५६३ तेविमार् आवार् तिरुमगळ् पूमि  
+एव मट्रु अमरर् आट्चॆय्वार्  
+मेविय उलगम् मूण्ड्रु अवै आट्चि  
+वेण्डु वेण्डु उरुवम् निन् उरुवम्  
+पावियेन् तन्नै अडुगिण्ड्र कमलक्  
+कण्णदु ओर् पवळ वाय् मणिये  
+आविये अमुदे अलै कडल् कडैन्द  
+अप्पने काणुमाऱु अरुळाय् (१)  
+३५६३। The divine Lakshmi and other goddesses  
 obey your orders and serve you.  
 Your form rules all the three worlds and they all need you.  
 I am your slave and I have done bad karma.  
@@ -10757,15 +10758,15 @@ You are my soul. You are as sweet as nectar.
 You, my father, churn the milky ocean roaring with waves.  
 Give me your grace—I long to see you.  
 
-3564 காணுமாறு அருளாய் என்று என்றே கலங்கி  
-கண்ண நீர் அலமர வினையேன்  
-பேணுமாறு எல்லாம் பேணி நின் பெயரே  
-பிதற்றுமாறு அருள் எனக்கு அந்தோ  
-காணுமாறு அருளாய் காகுத்தா கண்ணா  
-தொண்டனேன் கற்பகக் கனியே  
-பேணுவார் அமுதே பெரிய தண் புனல் சூழ்  
-பெரு நிலம் எடுத்த பேராளா (2)  
-3564. I have done bad karma.  
+३५६४ काणुमाऱु अरुळाय् ऎण्ड्रु ऎण्ड्रे कलङ्गि  
+कण्ण नीर् अलमर विनैयेन्  
+पेणुमाऱु ऎल्लाम् पेणि निन् पॆयरे  
+पितट्रुमाऱु अरुळ् ऎनक्कु अन्दो  
+काणुमाऱु अरुळाय् कागुत्ता कण्णा  
+तॊण्डनेन् कऱ्‌पगक् कनिये  
+पेणुवार् अमुदे पॆरिय तण् पुनल् सूऴ्  
+पॆरु निलम् ऎडुत्त पेराळा (२)  
+३५६४। I have done bad karma.  
 My eyes filled with tears, I worry and say,  
 "Come and give me your grace so that I can see you!"  
 and I prattle saying only your names.  
@@ -10776,15 +10777,15 @@ You, the generous one, took the form of a boar,
 split open the earth and brought up the earth  
 surrounded by oceans from the underworld.  
 
-3565 எடுத்த பேராளன் நந்தகோபன் தன்  
-இன் உயிர்ச் சிறுவனே அசோதைக்கு  
-அடுத்த பேரின்பக் குல இளம் களிறே  
-அடியனேன் பெரிய அம்மானே  
-கடுத்த போர் அவுணன் உடல் இரு பிளவாக்  
-கைஉகிர் ஆண்ட எம் கடலே  
-அடுத்தது ஓர் உருவாய் இன்று நீ வாராய்  
-எங்ஙனம் தேறுவர் உமரே? (3)  
-3565. You were the small child of generous Nandagopan  
+३५६५ ऎडुत्त पेराळन् नन्दगोबन् तन्  
+इन् उयिर्च् चिऱुवने असोदैक्कु  
+अडुत्त पेरिन्बक् कुल इळम् कळिऱे  
+अडियनेन् पॆरिय अम्माने  
+कडुत्त पोर् अवुणन् उडल् इरु पिळवाक्  
+कैउगिर् आण्ड ऎम् कडले  
+अडुत्तदु ओर् उरुवाय् इण्ड्रु नी वाराय्  
+ऎङ्ङनम् तेऱुवर् उमरे? (३)  
+३५६५। You were the small child of generous Nandagopan  
 and you were as dear to him as his life.  
 You were a bright little elephant cub for Yasodha  
 and a great joy for cowherd families.  
@@ -10796,15 +10797,15 @@ when he came to fight with you.
 Come in another form for us.  
 Your devotees and the gods will be happy.  
 
-3566 உமர் உகந்து உகந்த உருவம் நின் உருவம்  
-ஆகி உன் தனக்கு அன்பர் ஆனார்  
-அவர் உகந்து அமர்ந்த செய்கை உன் மாயை  
-அறிவு ஒன்றும் சங்கிப்பன் வினையேன்  
-அமர் அது பண்ணி அகல் இடம் புடைசூழ்  
-அடு படை அவித்த அம்மானே  
-அமரர் தம் அமுதே அசுரர்கள் நஞ்சே  
-என்னுடை ஆர் உயிரேயோ (4)  
-3566. You took various forms that the gods wanted.  
+३५६६ उमर् उगन्दु उगन्द उरुवम् निन् उरुवम्  
+आगि उन् तनक्कु अन्बर् आनार्  
+अवर् उगन्दु अमर्न्द सॆय्गै उन् मायै  
+अऱिवु ऒण्ड्रुम् सङ्गिप्पन् विनैयेन्  
+अमर् अदु पण्णि अगल् इडम् पुडैसूऴ्  
+अडु पडै अवित्त अम्माने  
+अमरर् तम् अमुदे असुरर्गळ् नञ्जे  
+ऎन्नुडै आर् उयिरेयो (४)  
+३५६६। You took various forms that the gods wanted.  
 They love you and are your friends.  
 They do their deeds only through your maaya.  
 I have done much karma.  
@@ -10814,15 +10815,15 @@ You are nectar for the gods in the sky,
 and you are poison for the Asurans.  
 You are my dear life.  
 
-3567 ஆர் உயிரேயோ அகல் இடம் முழுதும்  
-படைத்து இடந்து உண்டு உமிழ்ந்து அளந்த  
-பேர் உயிரேயோ பெரிய நீர் படைத்து அங்கு  
-உறைந்து அது கடைந்து அடைத்து உடைத்த  
-சீர் உயிரேயோ மனிசர்க்குத் தேவர்  
-போலத் தேவர்க்கும் தேவாவோ  
-ஓர் உயிரேயோ உலகங்கட்கு எல்லாம்!  
-உன்னை நான் எங்கு வந்து உறுகோ? (5)  
-3567. You are my dear life.  
+३५६७ आर् उयिरेयो अगल् इडम् मुऴुदुम्  
+पडैत्तु इडन्दु उण्डु उमिऴ्न्दु अळन्द  
+पेर् उयिरेयो पॆरिय नीर् पडैत्तु अङ्गु  
+उऱैन्दु अदु कडैन्दु अडैत्तु उडैत्त  
+सीर् उयिरेयो मनिसर्क्कुत् तेवर्  
+पोलत् तेवर्क्कुम् तेवावो  
+ओर् उयिरेयो उलगङ्गट्कु ऎल्लाम्!  
+उन्नै नान् ऎङ्गु वन्दु उऱुगो? (५)  
+३५६७। You are my dear life.  
 You, the great lord, created the world, broke it,  
 swallowed it, spit it out and measured it.  
 You, the great lord, created the milky ocean  
@@ -10832,15 +10833,15 @@ and the god of the gods in the sky.
 You are the dear life of all the worlds.  
 Where can I come to see you?  
 
-3568 எங்கு வந்து உறுகோ என்னை ஆள்வானே?  
-ஏழ் உலகங்களும் நீயே  
-அங்கு அவர்க்கு அமைத்த தெய்வமும் நீயே  
-அவற்று அவை கருமமும் நீயே  
-பொங்கிய புறம்பால் பொருள் உளவேலும்  
-அவையுமோ நீ இன்னே ஆனால்  
-மங்கிய அறிவாம் நேர்ப்பமும் நீயே  
-வான் புலன் இறந்ததும் நீயே (6)  
-3568. Where will I find you?  
+३५६८ ऎङ्गु वन्दु उऱुगो ऎन्नै आळ्वाने?  
+एऴ् उलगङ्गळुम् नीये  
+अङ्गु अवर्क्कु अमैत्त तॆय्वमुम् नीये  
+अवट्रु अवै करुममुम् नीये  
+पॊङ्गिय पुऱम्बाल् पॊरुळ् उळवेलुम्  
+अवैयुमो नी इन्ने आनाल्  
+मङ्गिय अऱिवाम् नेर्प्पमुम् नीये  
+वान् पुलन् इऱन्ददुम् नीये (६)  
+३५६८। Where will I find you?  
 You are my ruler.  
 You are all the seven worlds.  
 You are whatever god anyone wants you to be.  
@@ -10849,15 +10850,15 @@ If there is anything beyond all these things, that is also you.
 You are formless. You are truth and sincerity.  
 You are everything in the sky and above the sky.  
 
-3569 இறந்ததும் நீயே எதிர்ந்ததும் நீயே  
-நிகழ்வதோ நீ இன்னே ஆனால்  
-சிறந்த நின் தன்மை அது இது உது என்று  
-அறிவு ஒன்றும் சங்கிப்பன் வினையேன்  
-கறந்த பால் நெய்யே நெய்யின் இன் சுவையே  
-கடலினுள் அமுதமே அமுதில்  
-பிறந்த இன் சுவையே சுவையது பயனே  
-பின்னை தோள் மணந்த பேர் ஆயா (7)  
-3569. You are past, present and future.  
+३५६९ इऱन्ददुम् नीये ऎदिर्न्ददुम् नीये  
+निगऴ्वदो नी इन्ने आनाल्  
+सिऱन्द निन् तन्मै अदु इदु उदु ऎण्ड्रु  
+अऱिवु ऒण्ड्रुम् सङ्गिप्पन् विनैयेन्  
+कऱन्द पाल् नॆय्ये नॆय्यिन् इन् सुवैये  
+कडलिनुळ् अमुदमे अमुदिल्  
+पिऱन्द इन् सुवैये सुवैयदु पयने  
+पिन्नै तोळ् मणन्द पेर् आया (७)  
+३५६९। You are past, present and future.  
 I do not know whether your excellent nature  
 is this, that, or in between. I have done bad karma.  
 You are ghee made of fresh milk and its taste.  
@@ -10865,15 +10866,15 @@ You are the nectar that comes from the ocean and its sweet taste.
 You are the generous god who married Nappinnai  
 and embraced her arms.  
 
-3570 மணந்த பேர் ஆயா மாயத்தால் முழுதும்  
-வல்வினையேனை ஈர்கின்ற  
-குணங்களை உடையாய் அசுரர் வன் கையர்  
-கூற்றமே கொடிய புள் உயர்த்தாய்  
-பணங்கள் ஆயிரமும் உடைய பைந் நாகப்  
-பள்ளியாய் பாற்கடல் சேர்ப்பா  
-வணங்குமாறு அறியேன் மனமும் வாசகமும்  
-செய்கையும் யானும் நீ தானே (8)  
-3570. You, the great cowherd married Nappinnai.  
+३५७० मणन्द पेर् आया मायत्ताल् मुऴुदुम्  
+वल्विनैयेनै ईर्गिण्ड्र  
+कुणङ्गळै उडैयाय् असुरर् वन् कैयर्  
+कूट्रमे कॊडिय पुळ् उयर्त्ताय्  
+पणङ्गळ् आयिरमुम् उडैय पैन् नागप्  
+पळ्ळियाय् पाऱ्‌कडल् सेर्प्पा  
+वणङ्गुमाऱु अऱियेन् मनमुम् वाचकमुम्  
+सॆय्गैयुम् यानुम् नी ताने (८)  
+३५७०। You, the great cowherd married Nappinnai.  
 I have done bad karma  
 but you attracted me with your excellent nature.  
 You fought with the strong-handed Asurans  
@@ -10884,15 +10885,15 @@ You are the god of the milky ocean.
 I do not know how to worship you.  
 My mind, words, deeds and I myself—all are you.  
 
-3571 யானும் நீ தானே ஆவதோ மெய்யே  
-அரு நரகு அவையும் நீ ஆனால்  
-வான் உயர் இன்பம் எய்தில் என்? மற்றை  
-நரகமே எய்தில் என்? எனினும்  
-யானும் நீ தானாய்த் தெளிதொறும் நன்றும்  
-அஞ்சுவன் நரகம் நான் அடைதல்  
-வான் உயர் இன்பம் மன்னி வீற்றிருந்தாய்!  
-அருளு நின் தாள்களை எனக்கே (9)  
-3571. I am indeed you.  
+३५७१ यानुम् नी ताने आवदो मॆय्ये  
+अरु नरगु अवैयुम् नी आनाल्  
+वान् उयर् इन्बम् ऎय्दिल् ऎन्? मट्रै  
+नरगमे ऎय्दिल् ऎन्? ऎनिनुम्  
+यानुम् नी तानाय्त् तॆळिदॊऱुम् नण्ड्रुम्  
+अञ्जुवन् नरगम् नान् अडैदल्  
+वान् उयर् इन्बम् मन्नि वीट्रिरुन्दाय्!  
+अरुळु निन् ताळ्गळै ऎनक्के (९)  
+३५७१। I am indeed you.  
 It is true that whatever there is in the world is yours.  
 If you are yourself evil hell  
 then whether I reach the pleasures of heaven  
@@ -10902,15 +10903,15 @@ I am still afraid of going to hell.
 You stay forever in the heaven that gives joy.  
 Give me the grace of reaching your feet.  
 
-3572 தாள்களை எனக்கே தலைத்தலைச் சிறப்பத்  
-தந்த பேர் உதவிக் கைம்மாறாத்  
-தோள்களை ஆரத் தழுவி என் உயிரை  
-அற விலை செய்தனன் சோதீ  
-தோள்கள் ஆயிரத்தாய் முடிகள் ஆயிரத்தாய்  
-துணைமலர்க் கண்கள் ஆயிரத்தாய்  
-தாள்கள் ஆயிரத்தாய் பேர்கள் ஆயிரத்தாய்  
-தமியனேன் பெரிய அப்பனே (10)  
-3572. You gave me your feet—  
+३५७२ ताळ्गळै ऎनक्के तलैत्तलैच् चिऱप्पत्  
+तन्द पेर् उदविक् कैम्माऱात्  
+तोळ्गळै आरत् तऴुवि ऎन् उयिरै  
+अऱ विलै सॆय्दनन् सोदी  
+तोळ्गळ् आयिरत्ताय् मुडिगळ् आयिरत्ताय्  
+तुणैमलर्क् कण्गळ् आयिरत्ताय्  
+ताळ्गळ् आयिरत्ताय् पेर्गळ् आयिरत्ताय्  
+तमियनेन् पॆरिय अप्पने (१०)  
+३५७२। You gave me your feet—  
 that is a wonderful thing you did for me.  
 O shining light!  
 I embrace your arms and give my you life in return.  
@@ -10919,15 +10920,15 @@ a thousand beautiful lotus eyes,
 a thousand feet and a thousand names.  
 I am alone. You are my dear father.  
 
-3573 பெரிய அப்பனை பிரமன் அப்பனை  
-உருத்திரன் அப்பனை முனிவர்க்கு  
-உரிய அப்பனை அமரர் அப்பனை  
-உலகுக்கு ஓர் தனி அப்பன் தன்னை  
-பெரிய வண் குருகூர் வண் சடகோபன்  
-பேணின ஆயிரத்துள்ளும்  
-உரிய சொல் மாலை இவையும் பத்து இவற்றால்  
-உய்யலாம் தொண்டீர்! நங்கட்கே (11)  
-3573. Saḍagopan of rich Thirukuruhur  
+३५७३ पॆरिय अप्पनै पिरमन् अप्पनै  
+उरुत्तिरन् अप्पनै मुनिवर्क्कु  
+उरिय अप्पनै अमरर् अप्पनै  
+उलगुक्कु ओर् तनि अप्पन् तन्नै  
+पॆरिय वण् गुरुगूर् वण् सडगोबन्  
+पेणिन आयिरत्तुळ्ळुम्  
+उरिय सॊल् मालै इवैयुम् पत्तु इवट्राल्  
+उय्यलाम् तॊण्डीर्! नङ्गट्के (११)  
+३५७३। Saḍagopan of rich Thirukuruhur  
 composed a thousand beautiful pasurams  
 on our father, the god of Brahma, of Shiva,  
 of the sages and of the gods in the sky.  
@@ -10936,18 +10937,18 @@ O devotees, learn and recite the ten pasurams
 on the god and you will be saved.  
 -----------  
 
-திருவாய்மொழி எட்டாம் பத்து (இரண்டாம் திருமொழி, 3574-3584)  
-தலைவனை நோக்கிச் செல்லக் கருதிய தலைவி கூற்று  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (इरण्डाम् तिरुमॊऴि, ३५७४-३५८४)  
+तलैवनै नोक्किच् चॆल्लक् करुदिय तलैवि कूट्रु  
 
-3574 நங்கள் வரிவளை ஆயங்காளோ  
-நம்முடை ஏதலர் முன்பு நாணி  
-நுங்கட்கு யான் ஒன்று உரைக்கும் மாற்றம்  
-நோக்குகின்றேன் எங்கும் காணமாட்டேன்  
-சங்கம் சரிந்தன சாய் இழந்தேன்  
-தட முலை பொன் நிறமாய்த் தளர்ந்தேன்  
-வெங்கண் பறவையின் பாகன் எங்கோன்  
-வேங்கடவாணனை வேண்டிச் சென்றே (1)  
-3574. She says, "O my friends,  
+३५७४ नङ्गळ् वरिवळै आयङ्गाळो  
+नम्मुडै एदलर् मुन्बु नाणि  
+नुङ्गट्कु यान् ऒण्ड्रु उरैक्कुम् माट्रम्  
+नोक्कुगिण्ड्रेन् ऎङ्गुम् काणमाट्टेन्  
+सङ्गम् सरिन्दन साय् इऴन्देन्  
+तड मुलै पॊन् निऱमाय्त् तळर्न्देन्  
+वॆङ्गण् पऱवैयिन् भागन् ऎङ्गोन्  
+वेङ्गडवाणनै वेण्डिच् चॆण्ड्रे (१)  
+३५७४। She says, "O my friends,  
 you are decorated with round bangles.  
 I am afraid of talking about my love for him to strangers.  
 I am searching for him but have not seen him.  
@@ -10958,15 +10959,15 @@ My round breasts have lost their golden color.
 The lord of Thiruvenkaṭam rides on a sharp-eyed eagle  
 and I am searching for him."  
 
-3575 வேண்டிச் சென்று ஒன்று பெறுகிற்பாரில்  
-என்னுடைத் தோழியர் நுங்கட்கேலும்  
-ஈண்டு இது உரைக்கும் படியை அந்தோ  
-காண்கின்றிலேன் இடராட்டியேன் நான்  
-காண் தகு தாமரைக் கண்ணன் கள்வன்  
-விண்ணவர் கோன் நங்கள் கோனைக் கண்டால்  
-ஈண்டிய சங்கும் நிறைவும் கொள்வான்  
-எத்தனை காலம் இளைக்கின்றேனே (2)  
-3575. She says, "O my friends,  
+३५७५ वेण्डिच् चॆण्ड्रु ऒण्ड्रु पॆऱुगिऱ्‌पारिल्  
+ऎन्नुडैत् तोऴियर् नुङ्गट्केलुम्  
+ईण्डु इदु उरैक्कुम् पडियै अन्दो  
+काण्गिण्ड्रिलेन् इडराट्टियेन् नान्  
+काण् तगु तामरैक् कण्णन् कळ्वन्  
+विण्णवर् कोन् नङ्गळ् कोनैक् कण्डाल्  
+ईण्डिय सङ्गुम् निऱैवुम् कॊळ्वान्  
+ऎत्तनै कालम् इळैक्किण्ड्रेने (२)  
+३५७५। She says, "O my friends,  
 I cannot describe my sorrow even to my dear friends.  
 I have not seen him and I am suffering.  
 The handsome lotus-eyed Kaṇṇan is a thief.  
@@ -10975,15 +10976,15 @@ If I see him he will make my bangles loose
 and take away the lovely color of my body.  
 How long can I suffer like this?"  
 
-3576 காலம் இளைக்கில் அல்லால் வினையேன்  
-நான் இளைக்கின்றிலன் கண்டுகொள்மின்  
-ஞாலம் அறியப் பழி சுமந்தேன்  
-நல் நுதலீர் இனி நாணித் தான் என்  
-நீல மலர் நெடும் சோதி சூழ்ந்த  
-நீண்ட முகில் வண்ணன் கண்ணன் கொண்ட  
-கோல வளையொடும் மாமை கொள்வான்  
-எத்தனை காலமும் கூடச் சென்றே? (3)  
-3576. She says,  
+३५७६ कालम् इळैक्किल् अल्लाल् विनैयेन्  
+नान् इळैक्किण्ड्रिलन् कण्डुगॊळ्मिन्  
+ञालम् अऱियप् पऴि सुमन्देन्  
+नल् नुदलीर् इनि नाणित् तान् ऎन्  
+नील मलर् नॆडुम् सोदि सूऴ्न्द  
+नीण्ड मुगिल् वण्णन् कण्णन् कॊण्ड  
+कोल वळैयॊडुम् मामै कॊळ्वान्  
+ऎत्तनै कालमुम् कूडच् चॆण्ड्रे? (३)  
+३५७६। She says,  
 "O my friends! You have lovely foreheads!  
 Though time is passing,  
 I have not grown tired of my love for him.  
@@ -10996,15 +10997,15 @@ He took away my lovely bangles
 and the dark color of my body.  
 How long I will suffer like this to see him?"  
 
-3577 கூடச் சென்றேன் இனி என் கொடுக்கேன்?  
-கோல்வளை நெஞ்சத் தொடக்கம் எல்லாம்  
-பாடு அற்று ஒழிய இழந்து வைகல்  
-பல்வளையார்முன் பரிசு அழிந்தேன்  
-மாடக் கொடி மதிள் தென் குளந்தை  
-வண் குடபால் நின்ற மாயக் கூத்தன்  
-ஆடல் பறவை உயர்த்த வெல் போர்  
-ஆழிவலவனை ஆதரித்தே (4)  
-3577. She says,  
+३५७७ कूडच् चॆण्ड्रेन् इनि ऎन् कॊडुक्केन्?  
+कोल्वळै नॆञ्जत् तॊडक्कम् ऎल्लाम्  
+पाडु अट्रु ऒऴिय इऴन्दु वैगल्  
+पल्वळैयार्मुन् परिसु अऴिन्देन्  
+माडक् कॊडि मदिळ् तॆन् कुळन्दै  
+वण् कुडबाल् निण्ड्र मायक् कूत्तन्  
+आडल् पऱवै उयर्त्त वॆल् पोर्  
+आऴिवलवनै आदरित्ते (४)  
+३५७७। She says,  
 "I lost my round bangles and my heart to him  
 and I am ashamed before my friends every day.  
 The god Maayan dances on a pot.  
@@ -11013,15 +11014,15 @@ surrounded by walls and porches where flags fly.
 He carries a discus, the Garuḍa flag and conquers in war.  
 He is strong and I love him and want to go to his place."  
 
-3578 ஆழிவலவனை ஆதரிப்பும்  
-ஆங்கு அவன் நம்மில் வரவும் எல்லாம்  
-தோழியர்காள் நம் உடையமேதான்?  
-சொல்லுவதோ இங்கு அரியதுதான்  
-ஊழிதோறு ஊழி ஒருவனாக  
-நன்கு உணர்வார்க்கும் உணரலாகாச்  
-சூழல் உடைய சுடர் கொள் ஆதித்  
-தொல்லை அம் சோதி நினைக்குங்காலே? (5)  
-3578. She says,  
+३५७८ आऴिवलवनै आदरिप्पुम्  
+आङ्गु अवन् नम्मिल् वरवुम् ऎल्लाम्  
+तोऴियर्गाळ् नम् उडैयमेदान्?  
+सॊल्लुवदो इङ्गु अरियदुदान्  
+ऊऴिदोऱु ऊऴि ऒरुवनाग  
+नन्गु उणर्वार्क्कुम् उणरलागाच्  
+चूऴल् उडैय सुडर् कॊळ् आदित्  
+तॊल्लै अम् सोदि निनैक्कुङ्गाले? (५)  
+३५७८। She says,  
 "O friends, he carries a discus  
 and we have the freedom to love him  
 and ask him to come here.  
@@ -11032,15 +11033,15 @@ cannot understand him.
 He is the ancient shining god,  
 and he plays music on his flute sweetly."  
 
-3579 தொல்லை அம் சோதி நினைக்குங்கால் என்  
-சொல் அளவு அன்று இமையோர் தமக்கும்  
-எல்லை இலாதன கூழ்ப்புச் செய்யும்  
-அத் திறம் நிற்க எம் மாமை கொண்டான்  
-அல்லி மலர்த் தண் துழாயும் தாரான்  
-ஆர்க்கு இடுகோ இனிப் பூசல்? சொல்லீர்!  
-வல்லி வள வயல் சூழ் குடந்தை  
-மா மலர்க்கண் வளர்கின்ற மாலே (6)  
-3579. She says,  
+३५७९ तॊल्लै अम् सोदि निनैक्कुङ्गाल् ऎन्  
+सॊल् अळवु अण्ड्रु इमैयोर् तमक्कुम्  
+ऎल्लै इलादन कूऴ्प्पुच् चॆय्युम्  
+अत् तिऱम् निऱ्‌क ऎम् मामै कॊण्डान्  
+अल्लि मलर्त् तण् तुऴायुम् तारान्  
+आर्क्कु इडुगो इनिप् पूसल्? सॊल्लीर्!  
+वल्लि वळ वयल् सूऴ् कुडन्दै  
+मा मलर्क्कण् वळर्गिण्ड्र माले (६)  
+३५७९। She says,  
 "There are no words to describe  
 the beauty and luster of the ancient god.  
 Even the gods cannot understand his might—  
@@ -11052,15 +11053,15 @@ He, the Maal, has lovely lotus eyes
 and sleeps on the ocean in Kuḍandai  
 surrounded by flourishing fields and valli creepers."  
 
-3580 மால் அரி கேசவன் நாரணன் சீமாதவன்  
-கோவிந்தன் வைகுந்தன் என்று என்று  
-ஓலம் இட என்னைப் பண்ணி விட்டிட்டு  
-ஒன்றும் உருவும் சுவடும் காட்டான்  
-ஏல மலர்க்குழல் அன்னைமீர்காள்  
-என்னுடைத் தோழியர்காள் என் செய்கேன்?  
-காலம் பல சென்றும் காண்பது ஆணை  
-உங்களோடு எங்கள் இடை இல்லையே (7)  
-3580. She says,  
+३५८० माल् अरि केसवन् नारणन् सीमादवन्  
+कोविन्दन् वैगुन्दन् ऎण्ड्रु ऎण्ड्रु  
+ओलम् इड ऎन्नैप् पण्णि विट्टिट्टु  
+ऒण्ड्रुम् उरुवुम् सुवडुम् काट्टान्  
+एल मलर्क्कुऴल् अन्नैमीर्गाळ्  
+ऎन्नुडैत् तोऴियर्गाळ् ऎन् सॆय्गेन्?  
+कालम् पल सॆण्ड्रुम् काण्बदु आणै  
+उङ्गळोडु ऎङ्गळ् इडै इल्लैये (७)  
+३५८०। She says,  
 "He makes me prattle and say,  
 ‘You are Maal, Hari, Kesavan, Naaraṇan, Shri,  
 Madhavan, Govindan, Vaikundan.’  
@@ -11071,15 +11072,15 @@ I promise that I will see him even if it takes many ages.
 I am not going to be friendly with you all  
 because you don’t want me to wait to see him."  
 
-3581 இடை இல்லை யான் வளர்த்த கிளிகாள்  
-பூவைகள்காள் குயில்காள் மயில்காள்!  
-உடைய நம் மாமையும் சங்கும் நெஞ்சும்  
-ஒன்றும் ஒழிய ஒட்டாது கொண்டான்  
-அடையும் வைகுந்தமும் பாற்கடலும்  
-அஞ்சன வெற்பும் அவை நணிய  
-கடையறப் பாசங்கள் விட்டபின்னை  
-அன்றி அவன் அவை காண்கொடானே (8)  
-3581. She says, "O parrots, I raised you!  
+३५८१ इडै इल्लै यान् वळर्त्त किळिगाळ्  
+पूवैगळ्गाळ् कुयिल्गाळ् मयिल्गाळ्!  
+उडैय नम् मामैयुम् सङ्गुम् नॆञ्जुम्  
+ऒण्ड्रुम् ऒऴिय ऒट्टादु कॊण्डान्  
+अडैयुम् वैगुन्दमुम् पाऱ्‌कडलुम्  
+अञ्जन वॆऱ्‌पुम् अवै नणिय  
+कडैयऱप् पासङ्गळ् विट्टबिन्नै  
+अण्ड्रि अवन् अवै काण्गॊडाने (८)  
+३५८१। She says, "O parrots, I raised you!  
 puvai birds! cuckoo bird! peacocks!  
 He took away my dark color, conch bangles,  
 my heart, all without leaving me anything.  
@@ -11087,15 +11088,15 @@ Vaikuṇṭam, the milky ocean, and dark Venkaṭa hill are all near,
 but we will not be able to approach those places  
 where he stays and see him until all our desires leave us."  
 
-3582 காண்கொடுப்பான் அல்லன் ஆர்க்கும் தன்னை  
-கைசெய் அப்பாலது ஓர் மாயம் தன்னால்  
-மாண் குறள் கோல வடிவு காட்டி  
-மண்ணும் விண்ணும் நிறைய மலர்ந்த  
-சேண் சுடர்த் தோள்கள் பல தழைத்த  
-தேவ பிராற்கு என் நிறைவினோடு  
-நாண் கொடுத்தேன் இனி என் கொடுக்கேன்  
-என்னுடை நல் நுதல் நங்கைமீர்காள்? (9)  
-3582. She says,  
+३५८२ काण्गॊडुप्पान् अल्लन् आर्क्कुम् तन्नै  
+कैसॆय् अप्पालदु ओर् मायम् तन्नाल्  
+माण् कुऱळ् कोल वडिवु काट्टि  
+मण्णुम् विण्णुम् निऱैय मलर्न्द  
+सेण् सुडर्त् तोळ्गळ् पल तऴैत्त  
+तेव पिराऱ्‌कु ऎन् निऱैविनोडु  
+नाण् कॊडुत्तेन् इनि ऎन् कॊडुक्केन्  
+ऎन्नुडै नल् नुदल् नङ्गैमीर्गाळ्? (९)  
+३५८२। She says,  
 "O friends, you have beautiful foreheads!  
 He doesn’t show his form even to his wise devotees.  
 He took the form of a dwarf with his magic  
@@ -11105,15 +11106,15 @@ He shines with many arms.
 He is the god of the gods and I lost my modesty to him.  
 What else have I to lose?"  
 
-3583 என்னுடை நல் நுதல் நங்கைமீர்காள்  
-யான் இனிச் செய்வது என் என் நெஞ்சு என்னை  
-நின் இடையேன் அல்லேன் என்று நீங்கி  
-நேமியும் சங்கும் இருகைக் கொண்டு  
-பல் நெடும் சூழ் சுடர் ஞாயிற்றோடு  
-பால் மதி ஏந்தி ஓர் கோல நீல  
-நல் நெடும் குன்றம் வருவது ஒப்பான்  
-நாள் மலர்ப் பாதம் அடைந்ததுவே (10)  
-3583. She says,  
+३५८३ ऎन्नुडै नल् नुदल् नङ्गैमीर्गाळ्  
+यान् इनिच् चॆय्वदु ऎन् ऎन् नॆञ्जु ऎन्नै  
+निन् इडैयेन् अल्लेन् ऎण्ड्रु नीङ्गि  
+नेमियुम् सङ्गुम् इरुगैक् कॊण्डु  
+पल् नॆडुम् सूऴ् सुडर् ञायिट्रोडु  
+पाल् मदि एन्दि ओर् कोल नील  
+नल् नॆडुम् कुण्ड्रम् वरुवदु ऒप्पान्  
+नाळ् मलर्प् पादम् अडैन्ददुवे (१०)  
+३५८३। She says,  
 "O my friends, you have lovely foreheads.  
 What can I do? He carries a discus and a conch in his hands  
 and comes like a tall beautiful dark hill  
@@ -11121,15 +11122,15 @@ on which a bright sun shines as a white milky moon rises.
 My heart said, ‘I don’t belong to you,’  
 left me and reached the fresh lotus feet of the god."  
 
-3584 பாதம் அடைவதன் பாசத்தாலே  
-மற்றவன் பாசங்கள் முற்ற விட்டு  
-கோது இல் புகழ்க் கண்ணன் தன் அடிமேல்  
-வண் குருகூர்ச் சடகோபன் சொன்ன  
-தீது இல் அந்தாதி ஓர் ஆயிரத்துள்  
-இவையும் ஓர் பத்து இசையொடும் வல்லார்  
-ஆதும் ஓர் தீது இலர் ஆகி இங்கும்  
-அங்கும் எல்லாம் அமைவார்கள் தாமே. (11)  
-3584. Saḍagopan of flourishing Thirukuruhur  
+३५८४ पादम् अडैवदन् पासत्ताले  
+मट्रवन् पासङ्गळ् मुट्र विट्टु  
+कोदु इल् पुगऴ्क् कण्णन् तन् अडिमेल्  
+वण् गुरुगूर्च् चडगोबन् सॊन्न  
+तीदु इल् अन्दादि ओर् आयिरत्तुळ्  
+इवैयुम् ओर् पत्तु इसैयॊडुम् वल्लार्  
+आदुम् ओर् तीदु इलर् आगि इङ्गुम्  
+अङ्गुम् ऎल्लाम् अमैवार्गळ् तामे। (११)  
+३५८४। Saḍagopan of flourishing Thirukuruhur  
 who removed all other desires and gave his devotion  
 only to the feet of famous Kaṇṇan  
 composed a thousand pasurams in faultless andaadi metre  
@@ -11140,15 +11141,15 @@ they will have no trouble in this world
 and reach the highest heaven.  
 ----------  
 
-திருவாய்மொழி எட்டாம் பத்து (மூன்றாம் திருமொழி, 3585-3595)  
-எம்பெருமானுக்கு எங்கும் அன்புடையார் உளர் என்பதை  
-அருளால் உணர்ந்து ஆழ்வார் அச்சம் தீர்தல்  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३५८५-३५९५)  
+ऎम्बॆरुमानुक्कु ऎङ्गुम् अन्बुडैयार् उळर् ऎन्बदै  
+अरुळाल् उणर्न्दु आऴ्वार् अच्चम् तीर्दल्  
 
-3585 அங்கும் இங்கும் வானவர் தானவர் யாவரும்  
-எங்கும் இனையை என்று உன்னை அறியகிலாது அலற்றி  
-அங்கம் சேரும் பூமகள் மண்மகள் ஆய்மகள்  
-சங்கு சக்கரக் கையவன் என்பர் சரணமே (1)  
-3585. The gods in the sky and the Asurans  
+३५८५ अङ्गुम् इङ्गुम् वानवर् तानवर् यावरुम्  
+ऎङ्गुम् इनैयै ऎण्ड्रु उन्नै अऱियगिलादु अलट्रि  
+अङ्गम् सेरुम् पूमगळ् मण्मगळ् आय्मगळ्  
+सङ्गु सक्करक् कैयवन् ऎन्बर् सरणमे (१)  
+३५८५। The gods in the sky and the Asurans  
 have all joined together here, there and everywhere  
 without knowing who you are,  
 wandering and longing to see you.  
@@ -11157,11 +11158,11 @@ Lakshmi on a lotus,
 and Nappinnai the daughter of a cowherd.  
 He carries a conch and a discus and he is our refuge."  
 
-3586 சரணம் ஆகிய நான்மறை நூல்களும் சாராதே  
-மரணம் தோற்றம் வான்பிணி மூப்பு என்று இவை மாய்த்தோம்  
-கரணப் பல் படை பற்று அற ஓடும் கனல் ஆழி  
-அரணத் திண் படை ஏந்திய ஈசற்கு ஆளாயே (2)  
-3586. We will not depend  
+३५८६ सरणम् आगिय नान्मऱै नूल्गळुम् सारादे  
+मरणम् तोट्रम् वान्बिणि मूप्पु ऎण्ड्रु इवै माय्त्तोम्  
+करणप् पल् पडै पट्रु अऱ ओडुम् कनल् आऴि  
+अरणत् तिण् पडै एन्दिय ईसऱ्‌कु आळाये (२)  
+३५८६। We will not depend  
 on what we have learned in the Vedas and sastras  
 that everyone believes is a refuge.  
 We destroyed birth, terrible sicknesses,  
@@ -11169,11 +11170,11 @@ and old age by becoming the devotee of the lord
 who carries a fiery discus  
 that destroys all his enemies and protects dharma.  
 
-3587 ஆளும் ஆளார் ஆழியும் சங்கும் சுமப்பார் தாம்  
-வாளும் வில்லும் கொண்டு பின் செல்வார் மற்று இல்லை  
-தாளும் தோளும் கைகளை ஆரத் தொழக் காணேன்  
-நாளும் நாளும் நாடுவன் அடியேன் ஞாலத்தே (3)  
-3587. He is the king of the world and rules all.  
+३५८७ आळुम् आळार् आऴियुम् सङ्गुम् सुमप्पार् ताम्  
+वाळुम् विल्लुम् कॊण्डु पिन् सॆल्वार् मट्रु इल्लै  
+ताळुम् तोळुम् कैगळै आरत् तॊऴक् काणेन्  
+नाळुम् नाळुम् नाडुवन् अडियेन् ञालत्ते (३)  
+३५८७। He is the king of the world and rules all.  
 He carries a conch and a discus,  
 and no one needs to follow him carrying a sword and a bow  
 because he himself carries them.  
@@ -11183,22 +11184,22 @@ I am his slave and day after day
 I search for him all over the earth,  
 but I do not seen him.  
 
-3588 ஞாலம் போனகம் பற்றி ஓர் முற்றா உரு ஆகி  
-ஆலம் பேர் இலை அன்னவசம் செய்யும் அம்மானே  
-காலம் பேர்வது ஓர் கார் இருள் ஊழி ஒத்து உளதால் உன்  
-கோலம் கார் எழில் காணலுற்று ஆழும் கொடியேற்கே (4)  
-3588. You are my father.  
+३५८८ ञालम् पोनगम् पट्रि ओर् मुट्रा उरु आगि  
+आलम् पेर् इलै अन्नवसम् सॆय्युम् अम्माने  
+कालम् पेर्वदु ओर् कार् इरुळ् ऊऴि ऒत्तु उळदाल् उन्  
+कोलम् कार् ऎऴिल् काणलुट्रु आऴुम् कॊडियेऱ्‌के (४)  
+३५८८। You are my father.  
 You rule the whole world and are blissful.  
 You sleep as a baby on a banyan leaf.  
 For women who have vine-like waists  
 and love your beautiful dark form,  
 time seems like a darkness that spreads for an eon.  
 
-3589 கொடியார் மாடக் கோளூர் அகத்தும் புளியங்குடியும்  
-மடியாது இன்னே நீ துயில் மேவி மகிழ்ந்தது தான்  
-அடியார் அல்லல் தவிர்த்த அசைவோ? அன்றேல் இப்  
-படி தான் நீண்டு தாவிய அசைவோ? பணியாயே (5)  
-3589. You stay and sleep happily always  
+३५८९ कॊडियार् माडक् कोळूर् अगत्तुम् पुळियङ्गुडियुम्  
+मडियादु इन्ने नी तुयिल् मेवि मगिऴ्न्ददु तान्  
+अडियार् अल्लल् तविर्त्त असैवो? अण्ड्रेल् इप्  
+पडि तान् नीण्डु ताविय असैवो? पणियाये (५)  
+३५८९। You stay and sleep happily always  
 in Puliyanguḍi and Koḷur  
 filled with palaces where beautiful vines grow.  
 Are you sleeping because you have grown weary  
@@ -11207,22 +11208,22 @@ Or are you tired because you grew tall
 and measured the earth and the sky?  
 Tell us.  
 
-3590 பணியா அமரர் பணிவும் பண்பும் தாமே ஆம்  
-அணி ஆர் ஆழியும் சங்கமும் ஏந்தும் அவர் காண்மின்  
-தணியா வெம் நோய் உலகில் தவிர்ப்பான் திருநீல  
-மணி ஆர் மேனியோடு என் மனம் சூழ வருவாரே (6)  
-3590. If the gods in the sky do not obey him  
+३५९० पणिया अमरर् पणिवुम् पण्बुम् तामे आम्  
+अणि आर् आऴियुम् सङ्गमुम् एन्दुम् अवर् काण्मिन्  
+तणिया वॆम् नोय् उलगिल् तविर्प्पान् तिरुनील  
+मणि आर् मेनियोडु ऎन् मनम् सूऴ वरुवारे (६)  
+३५९०। If the gods in the sky do not obey him  
 he makes them obey and be good.  
 See, he carries a beautiful discus and a conch  
 and cures the sicknesses of his devotees that can’t be cured.  
 He entered my heart with his divine dark diamond-like body  
 and stays with me.  
 
-3591 வருவார் செல்வார் வண்பரிசாரத்து இருந்த என்  
-திருவாழ் மார்வற்கு என் திறம் சொல்லார் செய்வது என்  
-உரு ஆர் சக்கரம் சங்கு சுமந்து இங்கு உம்மோடு  
-ஒருபாடு உழல்வான் ஓர் அடியானும் உளன் என்றே? (7)  
-3591. I see many of my friends come and go,  
+३५९१ वरुवार् सॆल्वार् वण्बरिसारत्तु इरुन्द ऎन्  
+तिरुवाऴ् मार्वऱ्‌कु ऎन् तिऱम् सॊल्लार् सॆय्वदु ऎन्  
+उरु आर् सक्करम् सङ्गु सुमन्दु इङ्गु उम्मोडु  
+ऒरुबाडु उऴल्वान् ओर् अडियानुम् उळन् ऎण्ड्रे? (७)  
+३५९१। I see many of my friends come and go,  
 but they do not go and tell my love  
 to him on whose chest beautiful Lakshmi stays.  
 What can I do?  
@@ -11231,21 +11232,21 @@ Tell him, " There is a devotee of you.
 She suffers with love for you  
 and she wants to join you."  
 
-3592 என்றே என்னை உன் ஏர் ஆர் கோலத் திருந்து அடிக்கீழ்  
-நின்றே ஆட்செய்ய நீ கொண்டருள நினைப்பதுதான்?  
-குன்று ஏழ் பார் ஏழ் சூழ் கடல் ஞாலம் முழு ஏழும்  
-நின்றே தாவிய நீள் கழல் ஆழித் திருமாலே (8)  
-3592. O Thirumal, you carry a discus  
+३५९२ ऎण्ड्रे ऎन्नै उन् एर् आर् कोलत् तिरुन्दु अडिक्कीऴ्  
+निण्ड्रे आट्चॆय्य नी कॊण्डरुळ निनैप्पदुदान्?  
+कुण्ड्रु एऴ् पार् एऴ् सूऴ् कडल् ञालम् मुऴु एऴुम्  
+निण्ड्रे ताविय नीळ् कऴल् आऴित् तिरुमाले (८)  
+३५९२। O Thirumal, you carry a discus  
 and you measured all the seven worlds  
 surrounded by seven oceans and seven mountains  
 with your ankleted feet.  
 Give me your grace and make me join your beautiful feet.  
 
-3593 திருமால் நான்முகன் செஞ்சடையான் என்று இவர்கள் எம்  
-பெருமான் தன்மையை யார் அறிகிற்பார்? பேசி என்?  
-ஒரு மா முதல்வா ஊழிப் பிரான் என்னை ஆளுடைக்  
-கரு மா மேனியன் என்பன் என் காதல் கலக்கவே (9)  
-3593. Even Vishnu, Nanmuhan  
+३५९३ तिरुमाल् नान्मुगन् सॆञ्जडैयान् ऎण्ड्रु इवर्गळ् ऎम्  
+पॆरुमान् तन्मैयै यार् अऱिगिऱ्‌पार्? पेसि ऎन्?  
+ऒरु मा मुदल्वा ऊऴिप् पिरान् ऎन्नै आळुडैक्  
+करु मा मेनियन् ऎन्बन् ऎन् कादल् कलक्कवे (९)  
+३५९३। Even Vishnu, Nanmuhan  
 and Shiva who has red jata  
 do not know the nature of our lord.  
 Who else could know his nature?  
@@ -11255,11 +11256,11 @@ He is the lord of the eon.
 He has a dark body and he rules me."  
 My love makes me suffer.  
 
-3594 கலக்கம் இல்லா நல் தவ முனிவர் கரை கண்டோர்  
-துளக்கம் இல்லா வானவர் எல்லாம் தொழுவார்கள்  
-மலக்கம் எய்த மா கடல் தன்னைக் கடைந்தானை  
-உலக்க நாம் புகழ்கிற்பது என் செய்வது? உரையீரே? (10)  
-3594. The sages who do good tapas  
+३५९४ कलक्कम् इल्ला नल् तव मुनिवर् करै कण्डोर्  
+तुळक्कम् इल्ला वानवर् ऎल्लाम् तॊऴुवार्गळ्  
+मलक्कम् ऎय्द मा कडल् तन्नैक् कडैन्दानै  
+उलक्क नाम् पुगऴ्गिऱ्‌पदु ऎन् सॆय्वदु? उरैयीरे? (१०)  
+३५९४। The sages who do good tapas  
 do not have any confusion.  
 Many scholars learn the sastras well.  
 The gods in the sky never tremble.  
@@ -11268,11 +11269,11 @@ He churned the large ocean to get nectar from it.
 How can we, so fascinated with him, praise him?  
 What can we do? Tell me.  
 
-3595 உரையா வெம் நோய் தவிர அருள் நீள் முடியானை  
-வரை ஆர் மாடம் மன்னு குருகூர்ச் சடகோபன்  
-உரை ஏய் சொல்தொடை ஓர் ஆயிரத்துள் இப் பத்தும்  
-நிரையே வல்லார் நீடு உலகத்துப் பிறவாரே (11)  
-3595. Saḍagopan of famous Thirukuruhur  
+३५९५ उरैया वॆम् नोय् तविर अरुळ् नीळ् मुडियानै  
+वरै आर् माडम् मन्नु गुरुगूर्च् चडगोबन्  
+उरै एय् सॊल्दॊडै ओर् आयिरत्तुळ् इप् पत्तुम्  
+निरैये वल्लार् नीडु उलगत्तुप् पिऱवारे (११)  
+३५९५। Saḍagopan of famous Thirukuruhur  
 surrounded with palaces as high as hills  
 composed pasurams with meter and good meanings  
 and praised the god adorned with a tall crown  
@@ -11281,19 +11282,19 @@ If devotees learn well and recite these pasurams
 they will not be born in this wide world.  
 -----------  
 
-திருவாய்மொழி எட்டாம் பத்து (நான்காம் திருமொழி, 3596-3606)  
-எம் பெருமானது வலிமை அவன் அன்புடையாருடன் அமர்ந்திருக்கும்  
-சேர்த்தி முதலியவற்றைத் திருச்செங்குன்றூரில் கண்டு மகிழ்தல் (திருச்செங்குன்றூர்)  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (नान्गाम् तिरुमॊऴि, ३५९६-३६०६)  
+ऎम् पॆरुमानदु वलिमै अवन् अन्बुडैयारुडन् अमर्न्दिरुक्कुम्  
+सेर्त्ति मुदलियवट्रैत् तिरुच्चॆङ्गुण्ड्रूरिल् कण्डु मगिऴ्दल् (तिरुच्चॆङ्गुण्ड्रूर्)  
 
-3596 வார் கடா அருவி யானை மா மலையின்  
-மருப்பு இணைக் குவடு இறுத்து உருட்டி  
-ஊர் கொள் திண் பாகன் உயிர் செகுத்து அரங்கின்  
-மல்லரைக் கொன்று சூழ் பரண்மேல்  
-போர் கடா அரசர் புறக்கிட மாடம்  
-மீமிசைக் கஞ்சனைத் தகர்த்த  
-சீர் கொள் சிற்றாயன் திருச்செங்குன்றூரில்  
-திருச்சிற்றாறு எங்கள் செல்சார்வே (1)  
-3596. The elephant Kuvalayabeedam, large as a mountain,  
+३५९६ वार् कडा अरुवि यानै मा मलैयिन्  
+मरुप्पु इणैक् कुवडु इऱुत्तु उरुट्टि  
+ऊर् कॊळ् तिण् भागन् उयिर् सॆगुत्तु अरङ्गिन्  
+मल्लरैक् कॊण्ड्रु सूऴ् परण्मेल्  
+पोर् कडा अरसर् पुऱक्किड माडम्  
+मीमिसैक् कञ्जनैत् तगर्त्त  
+सीर् कॊळ् सिट्रायन् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राऱु ऎङ्गळ् सॆल्सार्वे (१)  
+३५९६। The elephant Kuvalayabeedam, large as a mountain,  
 shed ichor like a waterfalls. He fought it, making it roll over,  
 broke its tusks and killed its strong mahout.  
 He killed the wrestlers on a stage  
@@ -11303,15 +11304,15 @@ He is the lovely small child of cowherds.
 He is our beloved god, our refuge  
 and stays in Thiruchengundrur where the Thiruchitraru flows  
 
-3597 எங்கள் செல்சார்வு யாமுடை அமுதம்  
-இமையவர் அப்பன் என் அப்பன்  
-பொங்கு மூவுலகும் படைத்து அளித்து அழிக்கும்  
-பொருந்து மூவுருவன் எம் அருவன்  
-செங்கயல் உகளும் தேம் பணை புடை சூழ்  
-திருச்செங்குன்றூர்த் திருச்சிற்றாறு  
-அங்கு அமர்கின்ற ஆதியான் அல்லால்  
-யாவர் மற்று என் அமர் துணையே? (2)  
-3597. He is the father of the gods and of us.  
+३५९७ ऎङ्गळ् सॆल्सार्वु यामुडै अमुदम्  
+इमैयवर् अप्पन् ऎन् अप्पन्  
+पॊङ्गु मूवुलगुम् पडैत्तु अळित्तु अऴिक्कुम्  
+पॊरुन्दु मूवुरुवन् ऎम् अरुवन्  
+सॆङ्गयल् उगळुम् तेम् पणै पुडै सूऴ्  
+तिरुच्चॆङ्गुण्ड्रूर्त् तिरुच्चिट्राऱु  
+अङ्गु अमर्गिण्ड्र आदियान् अल्लाल्  
+यावर् मट्रु ऎन् अमर् तुणैये? (२)  
+३५९७। He is the father of the gods and of us.  
 He is as sweet as nectar and he is our refuge.  
 He creates all the three worlds, protects them and destroys them.  
 He has all these three forms and he is formless.  
@@ -11319,15 +11320,15 @@ I have no other companion except the ancient god
 of Thiruchengundrur on the bank of the Thiruchitraru  
 where lovely kayal fish frolic in the flourishing fields.  
 
-3598 என் அமர் பெருமான் இமையவர் பெருமான்  
-இரு நிலம் இடந்த எம் பெருமான்  
-முன்னை வல் வினைகள் முழுது உடன் மாள  
-என்னை ஆள்கின்ற எம் பெருமான்  
-தென் திசைக்கு அணி கொள் திருச்செங்குன்றூரில்  
-திருச்சிற்றாற்றங்கரை மீபால்  
-நின்ற எம் பெருமான் அடி அல்லால் சரண்  
-நினைப்பிலும் பிறிது இல்லை எனக்கே (3)  
-3598. He is my divine lord.  
+३५९८ ऎन् अमर् पॆरुमान् इमैयवर् पॆरुमान्  
+इरु निलम् इडन्द ऎम् पॆरुमान्  
+मुन्नै वल् विनैगळ् मुऴुदु उडन् माळ  
+ऎन्नै आळ्गिण्ड्र ऎम् पॆरुमान्  
+तॆन् तिसैक्कु अणि कॊळ् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राट्रङ्गरै मीबाल्  
+निण्ड्र ऎम् पॆरुमान् अडि अल्लाल् सरण्  
+निनैप्पिलुम् पिऱिदु इल्लै ऎनक्के (३)  
+३५९८। He is my divine lord.  
 He is the god of the gods in the sky.  
 He took the form of a boar and split open the large world.  
 He rules me and he destroyed all my bad karma.  
@@ -11335,15 +11336,15 @@ I cannot think of any refuge
 except the two feet of my dear god of Thiruchengundrur  
 on the bank of Thiruchitraru that ornaments the southern land.  
 
-3599 பிறிது இல்லை எனக்கு பெரிய மூவுலகும்  
-நிறையப் பேர் உருவமாய் நிமிர்ந்த  
-குறிய மாண் எம்மான் குரை கடல் கடைந்த  
-கோல மாணிக்கம் என் அம்மான்  
-செறி குலை வாழை கமுகு தெங்கு அணி சூழ்  
-திருச்செங்குன்றூர்த் திருச்சிற்றாறு  
-அறிய மெய்ம்மையே நின்ற எம் பெருமான்  
-அடிஇணை அல்லது ஓர் அரணே (4)  
-3599. I don’t want even the three great worlds.  
+३५९९ पिऱिदु इल्लै ऎनक्कु पॆरिय मूवुलगुम्  
+निऱैयप् पेर् उरुवमाय् निमिर्न्द  
+कुऱिय माण् ऎम्मान् कुरै कडल् कडैन्द  
+कोल माणिक्कम् ऎन् अम्मान्  
+सॆऱि कुलै वाऴै कमुगु तॆङ्गु अणि सूऴ्  
+तिरुच्चॆङ्गुण्ड्रूर्त् तिरुच्चिट्राऱु  
+अऱिय मॆय्म्मैये निण्ड्र ऎम् पॆरुमान्  
+अडिइणै अल्लदु ओर् अरणे (४)  
+३५९९। I don’t want even the three great worlds.  
 He is the lord whose dwarf form grew tall,  
 and he measured the world and the sky with his feet  
 at Mahabali’s sacrifice.  
@@ -11353,30 +11354,30 @@ of Thiruchengundrur surrounded by trees
 with many ripening bananas, kamugu trees and sweet coconut trees  
 where the Thiruchitraru flows.  
 
-3600 அல்லது ஓர் அரணும் அவனில் வேறு இல்லை  
-அது பொருள் ஆகிலும் அவனை  
-அல்லது என் ஆவி அமர்ந்து அணைகில்லாது  
-ஆதலால் அவன் உறைகின்ற  
-நல்ல நான்மறையோர் வேள்வியுள் மடுத்த  
-நறும் புகை விசும்பு ஒளி மறைக்கும்  
-நல்ல நீள் மாடத் திருச்செங்குன்றூரில்  
-திருச்சிற்றாறு எனக்கு நல் அரணே (5)  
-3600. There is no protection for me except him.  
+३६०० अल्लदु ओर् अरणुम् अवनिल् वेऱु इल्लै  
+अदु पॊरुळ् आगिलुम् अवनै  
+अल्लदु ऎन् आवि अमर्न्दु अणैगिल्लादु  
+आदलाल् अवन् उऱैगिण्ड्र  
+नल्ल नान्मऱैयोर् वेळ्वियुळ् मडुत्त  
+नऱुम् पुगै विसुम्बु ऒळि मऱैक्कुम्  
+नल्ल नीळ् माडत् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राऱु ऎनक्कु नल् अरणे (५)  
+३६००। There is no protection for me except him.  
 Whatever it is I cannot survive without him.  
 My good protection is the bank of Thiruchiṛṛaaṛu river  
 in Thiruchenkunṛur filled with tall palaces  
 where Brahmins make sacrifices and recite the four Vedas  
 and the smoke from them darkens the sky.  
 
-3601 எனக்கு நல் அரணை எனது ஆர் உயிரை  
-இமையவர் தந்தை தாய் தன்னை  
-தனக்கும் தன் தன்மை அறிவு அரியானை  
-தடம் கடல் பள்ளி அம்மானை  
-மனக்கொள் சீர் மூவாயிரவர் வண் சிவனும்  
-அயனும் தானும் ஒப்பார் வாழ்  
-கனக்கொள் திண் மாடத் திருச்செங்குன்றூரில்  
-திருச்சிற்றாறு அதனுள் கண்டேனே (6)  
-3601 He is my excellent protection.  
+३६०१ ऎनक्कु नल् अरणै ऎनदु आर् उयिरै  
+इमैयवर् तन्दै ताय् तन्नै  
+तनक्कुम् तन् तन्मै अऱिवु अरियानै  
+तडम् कडल् पळ्ळि अम्मानै  
+मनक्कॊळ् सीर् मूवायिरवर् वण् सिवनुम्  
+अयनुम् तानुम् ऒप्पार् वाऴ्  
+कनक्कॊळ् तिण् माडत् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राऱु अदनुळ् कण्डेने (६)  
+३६०१ He is my excellent protection.  
 He is my dear life.  
 He is the father and mother of the gods.  
 It is hard for anyone to know  
@@ -11387,15 +11388,15 @@ filled with lovely palaces
 where three thousand famous Brahmins, generous Shiva,  
 Brahma and other devotees live.  
 
-3602 திருச்செங்குன்றூரில் திருச்சிற்றாறு அதனுள்  
-கண்ட அத் திருவடி என்றும்  
-திருச் செய்ய கமலக் கண்ணும் செவ்வாயும்  
-செவ்வடியும் செய்ய கையும்  
-திருச் செய்ய கமல உந்தியும் செய்ய  
-கமலை மார்பும் செய்ய உடையும்  
-திருச் செய்ய முடியும் ஆரமும் படையும்  
-திகழ என் சிந்தையுளானே (7)  
-3602. He has divine lotus eyes,  
+३६०२ तिरुच्चॆङ्गुण्ड्रूरिल् तिरुच्चिट्राऱु अदनुळ्  
+कण्ड अत् तिरुवडि ऎण्ड्रुम्  
+तिरुच् चॆय्य कमलक् कण्णुम् सॆव्वायुम्  
+सॆव्वडियुम् सॆय्य कैयुम्  
+तिरुच् चॆय्य कमल उन्दियुम् सॆय्य  
+कमलै मार्बुम् सॆय्य उडैयुम्  
+तिरुच् चॆय्य मुडियुम् आरमुम् पडैयुम्  
+तिगऴ ऎन् सिन्दैयुळाने (७)  
+३६०२। He has divine lotus eyes,  
 a beautiful mouth, lovely hands,  
 a navel where Brahma stays on a lotus,  
 lovely lotus eyes, beautiful garments,  
@@ -11404,15 +11405,15 @@ The famous god of Thiruchenkunṛur
 on the bank of Thiruchitraaṛu  
 stays in my heart and shines.  
 
-3603 திகழ என் சிந்தையுள் இருந்தானை  
-செழு நிலத்தேவர் நான்மறையோர்  
-திசை கைகூப்பி ஏத்தும் திருச்செங்குன்றூரில்  
-திருச்சிற்றாற்றங் கரையானை  
-புகர் கொள் வானவர்கள் புகலிடம் தன்னை  
-அசுரர் வன் கையர் வெம் கூற்றை  
-புகழுமாறு அறியேன் பொருந்து மூவுலகும்  
-படைப்பொடு கெடுப்புக் காப்பவனே (8)  
-3603. He shines in my heart.  
+३६०३ तिगऴ ऎन् सिन्दैयुळ् इरुन्दानै  
+सॆऴु निलत्तेवर् नान्मऱैयोर्  
+तिसै कैगूप्पि एत्तुम् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राट्रङ् गरैयानै  
+पुगर् कॊळ् वानवर्गळ् पुगलिडम् तन्नै  
+असुरर् वन् कैयर् वॆम् कूट्रै  
+पुगऴुमाऱु अऱियेन् पॊरुन्दु मूवुलगुम्  
+पडैप्पॊडु कॆडुप्पुक् काप्पवने (८)  
+३६०३। He shines in my heart.  
 He is the god of Thiruchengunḍur  
 on the bank of Thiruchiṛṛaaṛu  
 where the farmers who own flourishing paddy lands,  
@@ -11424,15 +11425,15 @@ He created all the three worlds
 and protects them from destruction.  
 I do not know how to praise him.  
 
-3604 படைப்பொடு கெடுப்புக் காப்பவன் பிரம  
-பரம்பரன் சிவப்பிரான் அவனே  
-இடைப்புக்கு ஓர் உருவும் ஒழிவு இல்லை அவனே  
-புகழ்வு இல்லை யாவையும் தானே  
-கொடைப் பெரும் புகழார் இனையர் தன் ஆனார்  
-கூரிய விச்சையோடு ஒழுக்கம்  
-நடைப் பலி இயற்கைத் திருச்செங்குன்றூரில்  
-திருச்சிற்றாறு அமர்ந்த நாதனே (9)  
-3604. He creates all the gods  
+३६०४ पडैप्पॊडु कॆडुप्पुक् काप्पवन् पिरम  
+परम्बरन् सिवप्पिरान् अवने  
+इडैप्पुक्कु ओर् उरुवुम् ऒऴिवु इल्लै अवने  
+पुगऴ्वु इल्लै यावैयुम् ताने  
+कॊडैप् पॆरुम् पुगऴार् इनैयर् तन् आनार्  
+कूरिय विच्चैयोडु ऒऴुक्कम्  
+नडैप् पलि इयऱ्‌कैत् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राऱु अमर्न्द नादने (९)  
+३६०४। He creates all the gods  
 and the creatures of the world, keeping them from trouble.  
 He himself is the highest god, and he is Brahma and Shiva.  
 He has no form or end.  
@@ -11441,15 +11442,15 @@ He, with his beautiful nature, is the generous and famous god
 of Thiruchitraaṛu of Thiruchengundrur  
 where the people are principled and clever and perform sacrifices.  
 
-3605 அமர்ந்த நாதனை அவர் அவர் ஆகி  
-அவர்க்கு அருள் அருளும் அம்மானை  
-அமர்ந்த தண் பழனத் திருச்செங்குன்றூரில்  
-திருச்சிற்றாற்றங் கரையானை  
-அமர்ந்த சீர் மூவாயிரவர் வேதியர்கள்  
-தம்பதி அவனிதேவர் வாழ்வு  
-அமர்ந்த மாயோனை முக்கண் அம்மானை  
-நான்முகனை அமர்ந்தேனே (10)  
-3605. The lord our father gives his grace to all creatures  
+३६०५ अमर्न्द नादनै अवर् अवर् आगि  
+अवर्क्कु अरुळ् अरुळुम् अम्मानै  
+अमर्न्द तण् पऴनत् तिरुच्चॆङ्गुण्ड्रूरिल्  
+तिरुच्चिट्राट्रङ् गरैयानै  
+अमर्न्द सीर् मूवायिरवर् वेदियर्गळ्  
+दम्पति अवनिदेवर् वाऴ्वु  
+अमर्न्द मायोनै मुक्कण् अम्मानै  
+नान्मुगनै अमर्न्देने (१०)  
+३६०५। The lord our father gives his grace to all creatures  
 and he himself is in all of them.  
 He is the god of Thiruchengundrur on the banks  
 of Thiruchitraru flourishing with cool fields.  
@@ -11457,15 +11458,15 @@ Our god Maayon is the lord of Nanmuhan, the three-eyed Shiva,
 the three thousand Brahmins and the god of the gods.  
 The whole world venerates him and I worship him with love.  
 
-3606 தேனை நன் பாலை கன்னலை அமுதை  
-திருந்து உலகு உண்ட அம்மானை  
-வான நான்முகனை மலர்ந்த தண் கொப்பூழ்  
-மலர்மிசைப் படைத்த மாயோனை  
-கோனை வண் குருகூர் வண் சடகோபன்  
-சொன்ன ஆயிரத்துள் இப் பத்தும்  
-வானின் மீது ஏற்றி அருள்செய்து முடிக்கும்  
-பிறவி மா மாயக் கூத்தினையே (11)  
-3606. Saḍagopan of rich Thirukuruhur composed  
+३६०६ तेनै नन् पालै कन्नलै अमुदै  
+तिरुन्दु उलगु उण्ड अम्मानै  
+वान नान्मुगनै मलर्न्द तण् कॊप्पूऴ्  
+मलर्मिसैप् पडैत्त मायोनै  
+कोनै वण् गुरुगूर् वण् सडगोबन्  
+सॊन्न आयिरत्तुळ् इप् पत्तुम्  
+वानिन् मीदु एट्रि अरुळ्सॆय्दु मुडिक्कुम्  
+पिऱवि मा मायक् कूत्तिनैये (११)  
+३६०६। Saḍagopan of rich Thirukuruhur composed  
 a thousand poems on the god of gods,  
 who is honey, sweet milk, sugarcane juice,  
 and our father who swallowed the whole world.  
@@ -11476,19 +11477,19 @@ they will go to moksha and receive the grace of the lord
 and their illusory births will go away.  
 -------------  
 
-திருவாய்மொழி எட்டாம் பத்து (ஐந்தாம் திருமொழி, 3607-3617)  
-எம்பெருமானது வடிவழகைக் காணப்பெறாத ஆழ்வார்  
-ஆசை மிகுந்து அழுது அரற்றுதல்  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३६०७-३६१७)  
+ऎम्बॆरुमानदु वडिवऴगैक् काणप्पॆऱाद आऴ्वार्  
+आसै मिगुन्दु अऴुदु अरट्रुदल्  
 
-3607 மாயக் கூத்தா வாமனா  
-வினையேன் கண்ணா கண் கை கால்  
-தூய செய்ய மலர்களா  
-சோதிச் செவ்வாய் முகிழதா  
-சாயல் சாமத் திருமேனி  
-தண் பாசடையா தாமரை நீள்  
-வாசத் தடம்போல் வருவானே  
-ஒருநாள் காண வாராயே (1)  
-3607. You are a magical dancer.  
+३६०७ मायक् कूत्ता वामना  
+विनैयेन् कण्णा कण् कै काल्  
+तूय सॆय्य मलर्गळा  
+सोदिच् चॆव्वाय् मुगिऴदा  
+सायल् सामत् तिरुमेनि  
+तण् पासडैया तामरै नीळ्  
+वासत् तडम्बोल् वरुवाने  
+ऒरुनाळ् काण वाराये (१)  
+३६०७। You are a magical dancer.  
 You are a dwarf.  
 I have done much karma.  
 O Kaṇṇan, your eyes, hands and legs  
@@ -11498,15 +11499,15 @@ Your divine body is like a cool green leaf.
 You come as if you were a fragrant lotus pond.  
 Come to me one day—I long to see you.  
 
-3608 காண வாராய் என்று என்று  
-கண்ணும் வாயும் துவர்ந்து அடியேன்  
-நாணி நல் நாட்டு அலமந்தால்  
-இரங்கி ஒருநாள் நீ அந்தோ  
-காண வாராய்! கரு நாயிறு  
-உதிக்கும் கரு மா மாணிக்க  
-நாள் நல் மலைபோல் சுடர்ச் சோதி  
-முடி சேர் சென்னி அம்மானே! (2)  
-3608. I call you saying, "Come, I want to see you!"  
+३६०८ काण वाराय् ऎण्ड्रु ऎण्ड्रु  
+कण्णुम् वायुम् तुवर्न्दु अडियेन्  
+नाणि नल् नाट्टु अलमन्दाल्  
+इरङ्गि ऒरुनाळ् नी अन्दो  
+काण वाराय्! करु नायिऱु  
+उदिक्कुम् करु मा माणिक्क  
+नाळ् नल् मलैबोल् सुडर्च् चोदि  
+मुडि सेर् सॆन्नि अम्माने! (२)  
+३६०८। I call you saying, "Come, I want to see you!"  
 and my eyes are tired and my mouth dry.  
 I am ashamed calling and calling you—  
 I suffer to see you.  
@@ -11515,15 +11516,15 @@ Come to me shining like a large dark diamond mountain
 behind which a dark sun rises at dawn.  
 O father, on your dark hair you wear a shining crown.  
 
-3609 முடிசேர் சென்னி அம்மா நின்  
-மொய் பூம் தாமத் தண் துழாய்க்  
-கடிசேர் கண்ணிப் பெருமானே  
-என்று என்று ஏங்கி அழுதக்கால்  
-படிசேர் மகரக் குழைகளும்  
-பவள வாயும் நால் தோளும்  
-துடி சேர் இடையும் அமைந்தது ஓர்  
-தூ நீர் முகில் போல் தோன்றாயே. (3)  
-3609. O father, you wear a divine crown on your head.  
+३६०९ मुडिसेर् सॆन्नि अम्मा निन्  
+मॊय् पूम् तामत् तण् तुऴाय्क्  
+कडिसेर् कण्णिप् पॆरुमाने  
+ऎण्ड्रु ऎण्ड्रु एङ्गि अऴुदक्काल्  
+पडिसेर् मगरक् कुऴैगळुम्  
+पवळ वायुम् नाल् तोळुम्  
+तुडि सेर् इडैयुम् अमैन्ददु ओर्  
+तू नीर् मुगिल् पोल् तोण्ड्राये। (३)  
+३६०९। O father, you wear a divine crown on your head.  
 If I long for you, cry and say,  
 "You are adorned with a cool thulasi garland  
 mixed with fragrant flowers that swarm with bees,"  
@@ -11531,15 +11532,15 @@ you will appear before me like a cloud filled with pure water,
 with four arms, a coral mouth, emerald earrings  
 and a waist thin as a tudi drum.  
 
-3610 தூ நீர் முகில் போல் தோன்றும் நின்  
-சுடர் கொள் வடிவும் கனிவாயும்  
-தே நீர்க் கமலக் கண்களும்  
-வந்து என் சிந்தை நிறைந்தவா  
-மா நீர் வெள்ளி மலைதன்மேல்  
-வண் கார் நீல முகில் போல  
-தூ நீர்க் கடலுள் துயில்வானே  
-எந்தாய்! சொல்லமாட்டேனே (4)  
-3610. Your shining form that looks  
+३६१० तू नीर् मुगिल् पोल् तोण्ड्रुम् निन्  
+सुडर् कॊळ् वडिवुम् कनिवायुम्  
+ते नीर्क् कमलक् कण्गळुम्  
+वन्दु ऎन् सिन्दै निऱैन्दवा  
+मा नीर् वॆळ्ळि मलैदन्मेल्  
+वण् कार् नील मुगिल् पोल  
+तू नीर्क् कडलुळ् तुयिल्वाने  
+ऎन्दाय्! सॊल्लमाट्टेने (४)  
+३६१०। Your shining form that looks  
 like a cloud filled with pure water,  
 your mouth sweet as a fruit,  
 your lotus eyes sweet as honey,  
@@ -11549,15 +11550,15 @@ you are like a dark cloud in the flourishing rainy season
 floating above a silver mountain.  
 O my father, I cannot describe your beauty.  
 
-3611 சொல்ல மாட்டேன் அடியேன் உன்  
-துளங்கு சோதித் திருப்பாதம்  
-எல்லை இல் சீர் இள நாயிறு  
-இரண்டுபோல் என் உள்ளவா  
-அல்லல் என்னும் இருள் சேர்தற்கு  
-உபாயம் என்னே ஆழி சூழ்  
-மல்லை ஞாலம் முழுது உண்ட  
-மா நீர்க் கொண்டல் வண்ணனே? (5)  
-3611. Your divine shining feet entered my mind  
+३६११ सॊल्ल माट्टेन् अडियेन् उन्  
+तुळङ्गु सोदित् तिरुप्पादम्  
+ऎल्लै इल् सीर् इळ नायिऱु  
+इरण्डुबोल् ऎन् उळ्ळवा  
+अल्लल् ऎन्नुम् इरुळ् सेर्दऱ्‌कु  
+उपायम् ऎन्ने आऴि सूऴ्  
+मल्लै ञालम् मुऴुदु उण्ड  
+मा नीर्क् कॊण्डल् वण्णने? (५)  
+३६११। Your divine shining feet entered my mind  
 like two morning suns of matchless beauty.  
 I am your slave and cannot describe your loveliness.  
 You have the color of a cloud filled with good water  
@@ -11566,15 +11567,15 @@ Why do we suffer with troubles
 that come as darkness in our lives?  
 Tell us why, or tell us how to remove the sufferings of life.  
 
-3612 கொண்டல் வண்ணா குடக்கூத்தா  
-வினையேன் கண்ணா கண்ணா என்  
-அண்ட வாணா என்று என்னை  
-ஆளக் கூப்பிட்டு அழைத்தக்கால்  
-விண் தன்மேல் தான் மண்மேல் தான்  
-விரி நீர்க் கடல் தான் மற்றுத்தான்  
-தொண்டனேன் உன் கழல்காண  
-ஒருநாள் வந்து தோன்றாயே (6)  
-3612. I want you to rule me and I call and praise you saying,  
+३६१२ कॊण्डल् वण्णा कुडक्कूत्ता  
+विनैयेन् कण्णा कण्णा ऎन्  
+अण्ड वाणा ऎण्ड्रु ऎन्नै  
+आळक् कूप्पिट्टु अऴैत्तक्काल्  
+विण् तन्मेल् तान् मण्मेल् तान्  
+विरि नीर्क् कडल् तान् मट्रुत्तान्  
+तॊण्डनेन् उन् कऴल्गाण  
+ऒरुनाळ् वन्दु तोण्ड्राये (६)  
+३६१२। I want you to rule me and I call and praise you saying,  
 "You have the color of a cloud. You danced on a pot.  
 I have done bad karma. O Kaṇṇan, you are my Kaṇṇan.  
 You are the god of the sky."  
@@ -11583,15 +11584,15 @@ or from the earth or from the ocean with its abundant water
 or from any other place? Appear in front of me one day  
 so that I, your devotee can see your ankleted feet.  
 
-3613 வந்து தோன்றாய் அன்றேல் உன்  
-வையம் தாய மலர் அடிக்கீழ்  
-முந்தி வந்து யான் நிற்ப  
-முகப்பே கூவிப் பணிக்கொள்ளாய்  
-செந்தண் கமலக் கண் கை கால்  
-சிவந்த வாய் ஓர் கரு நாயிறு  
-அந்தம் இல்லாக் கதிர் பரப்பி  
-அலர்ந்தது ஒக்கும் அம்மானே (7)  
-3613. Come to me.  
+३६१३ वन्दु तोण्ड्राय् अण्ड्रेल् उन्  
+वैयम् ताय मलर् अडिक्कीऴ्  
+मुन्दि वन्दु यान् निऱ्‌प  
+मुगप्पे कूविप् पणिक्कॊळ्ळाय्  
+सॆन्दण् कमलक् कण् कै काल्  
+सिवन्द वाय् ओर् करु नायिऱु  
+अन्दम् इल्लाक् गतिर् परप्पि  
+अलर्न्ददु ऒक्कुम् अम्माने (७)  
+३६१३। Come to me.  
 If you don’t, I will come to your door  
 and stay under your lotus feet that measured the world.  
 If I do that you will call me and make me serve you.  
@@ -11599,15 +11600,15 @@ You are my father and you are like a dark sun
 with beautiful cool lotus eyes, a red mouth, hands and legs  
 shining as it rises and spreads its endless rays.  
 
-3614 ஒக்கும் அம்மான் உருவம் என்று  
-உள்ளம் குழைந்து நாள் நாளும்  
-தொக்க மேகப் பல் குழாங்கள்  
-காணும்தோறும் தொலைவன் நான்  
-தக்க ஐவர் தமக்காய் அன்று  
-ஈர் ஐம்பதின்மர் தாள் சாயப்  
-புக்க நல்தேர்த் தனிப்பாகா  
-வாராய் இதுவோ பொருத்தமே? (8)  
-3614. Every day whenever I see a mass of clouds  
+३६१४ ऒक्कुम् अम्मान् उरुवम् ऎण्ड्रु  
+उळ्ळम् कुऴैन्दु नाळ् नाळुम्  
+तॊक्क मेगप् पल् कुऴाङ्गळ्  
+काणुम्दोऱुम् तॊलैवन् नान्  
+तक्क ऐवर् तमक्काय् अण्ड्रु  
+ईर् ऐम्बदिन्मर् ताळ् सायप्  
+पुक्क नल्देर्त् तनिप्भागा  
+वाराय् इदुवो पॊरुत्तमे? (८)  
+३६१४। Every day whenever I see a mass of clouds  
 my heart melts and I think,  
 "This looks like the form of my father,"  
 and I lose myself.  
@@ -11616,15 +11617,15 @@ and destroyed the hundred Kauravas,
 but you have not come to me.  
 Is this right?  
 
-3615 இதுவோ பொருத்தம்? மின் ஆழிப்  
-படையாய் ஏறும் இரும் சிறைப்புள்  
-அதுவே கொடியா உயர்த்தானே  
-என்று என்று ஏங்கி அழுதக்கால்  
-எதுவேயாகக் கருதுங்கொல்  
-இம் மா ஞாலம் பொறை தீர்ப்பான்  
-மது வார் சோலை உத்தர  
-மதுரைப் பிறந்த மாயனே? (9)  
-3615. "Is this right?  
+३६१५ इदुवो पॊरुत्तम्? मिन् आऴिप्  
+पडैयाय् एऱुम् इरुम् सिऱैप्पुळ्  
+अदुवे कॊडिया उयर्त्ताने  
+ऎण्ड्रु ऎण्ड्रु एङ्गि अऴुदक्काल्  
+ऎदुवेयागक् करुदुङ्गॊल्  
+इम् मा ञालम् पॊऱै तीर्प्पान्  
+मदु वार् सोलै उत्तर  
+मदुरैप् पिऱन्द मायने? (९)  
+३६१५। "Is this right?  
 You carry a shining discus and a Garuda flag  
 and you ride on an eagle with huge wings."  
 If I say this and long for you and cry what will you do?  
@@ -11632,15 +11633,15 @@ You are the Maayan and were born in northern Madhura
 surrounded by groves dripping with honey.  
 You came to this earth to take away the suffering of its people.  
 
-3616 பிறந்த மாயா பாரதம்  
-பொருத மாயா நீ இன்னே  
-சிறந்த கால் தீ நீர் வான் மண்  
-பிறவும் ஆய பெருமானே  
-கறந்த பாலுள் நெய்யே போல்  
-இவற்றுள் எங்கும் கண்டுகொள்  
-இறந்து நின்ற பெரு மாயா  
-உன்னை எங்கே காண்கேனே? (10)  
-3616. O Maayan, you were born on this earth.  
+३६१६ पिऱन्द माया पारदम्  
+पॊरुद माया नी इन्ने  
+सिऱन्द काल् ती नीर् वान् मण्  
+पिऱवुम् आय पॆरुमाने  
+कऱन्द पालुळ् नॆय्ये पोल्  
+इवट्रुळ् ऎङ्गुम् कण्डुगॊळ्  
+इऱन्दु निण्ड्र पॆरु माया  
+उन्नै ऎङ्गे काण्गेने? (१०)  
+३६१६। O Maayan, you were born on this earth.  
 You, the Maayan, fought the Bharatha war.  
 You, the lord, are the wonderful wind, fire, water, sky, earth  
 and all other things in the world.  
@@ -11649,11 +11650,11 @@ but no one can see you because you hide
 like the ghee that is in fresh milk.  
 Where can I see you?  
 
-3617 எங்கே காண்கேன் ஈன் துழாய் அம்மான் தன்னை யான்? என்று என்று  
-அங்கே தாழ்ந்த சொற்களால் அம் தண் குருகூர்ச் சடகோபன்  
-செங்கேழ் சொன்ன ஆயிரத்துள் இவையும் பத்தும் வல்லார்கள்  
-இங்கே காண இப்பிறப்பே மகிழ்வர் எல்லியும் காலையே. (11)  
-3617. Saḍagopan of flourishing cool Thirukuruhur  
+३६१७ ऎङ्गे काण्गेन् ईन् तुऴाय् अम्मान् तन्नै यान्? ऎण्ड्रु ऎण्ड्रु  
+अङ्गे ताऴ्न्द सॊऱ्‌कळाल् अम् तण् गुरुगूर्च् चडगोबन्  
+सॆङ्गेऴ् सॊन्न आयिरत्तुळ् इवैयुम् पत्तुम् वल्लार्गळ्  
+इङ्गे काण इप्पिऱप्पे मगिऴ्वर् ऎल्लियुम् कालैये। (११)  
+३६१७। Saḍagopan of flourishing cool Thirukuruhur  
 composed a thousand pasurams  
 with beautiful music and divine words  
 in which a devotee asks the god,  
@@ -11663,15 +11664,15 @@ they will be happy night and day in this birth itself
 because they know the nature of god.  
 ------------  
 
-திருவாய்மொழி எட்டாம் பத்து (ஆறாம் திருமொழி, 3618-3628)  
-ஆழ்வாரது துன்பத்தைத் தீர்க்கும் பொருட்டு திருமால் திருக்கடித்தானத்தில்  
-இருந்தமை கூறல் (திருக்கடித்தானம்)  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (आऱाम् तिरुमॊऴि, ३६१८-३६२८)  
+आऴ्वारदु तुन्बत्तैत् तीर्क्कुम् पॊरुट्टु तिरुमाल् तिरुक्कडित्तानत्तिल्  
+इरुन्दमै कूऱल् (तिरुक्कडित्तानम्)  
 
-3618 எல்லியும் காலையும் தன்னை நினைந்து எழ  
-நல்ல அருள்கள் நமக்கே தந்து அருள் செய்வான்  
-அல்லி அம் தண் அம் துழாய் முடி அப்பன் ஊர்  
-செல்வர்கள் வாழும் திருக்கடித்தானமே (1)  
-3618. He will give us his good grace  
+३६१८ ऎल्लियुम् कालैयुम् तन्नै निनैन्दु ऎऴ  
+नल्ल अरुळ्गळ् नमक्के तन्दु अरुळ् सॆय्वान्  
+अल्लि अम् तण् अम् तुऴाय् मुडि अप्पन् ऊर्  
+सॆल्वर्गळ् वाऴुम् तिरुक्कडित्तानमे (१)  
+३६१८। He will give us his good grace  
 so that we will think only of him  
 when we get up every day in the morning and at night.  
 His hair is decorated with a beautiful thulasi garland  
@@ -11679,11 +11680,11 @@ strung with alli blossoms.
 My father is the god of Thirukaḍithanam  
 where good devotees live.  
 
-3619 திருக்கடித்தானமும் என்னுடையச் சிந்தையும்  
-ஒருக்கடுத்து உள்ளே உறையும் பிரான் கண்டீர்  
-செருக் கடுத்து அன்று திகைத்த அரக்கரை  
-உருக் கெட வாளி பொழிந்த ஒருவனே (2)  
-3619. See, the lord thinks that Thirukaḍithanam  
+३६१९ तिरुक्कडित्तानमुम् ऎन्नुडैयच् चिन्दैयुम्  
+ऒरुक्कडुत्तु उळ्ळे उऱैयुम् पिरान् कण्डीर्  
+सॆरुक् कडुत्तु अण्ड्रु तिगैत्त अरक्करै  
+उरुक् कॆड वाळि पॊऴिन्द ऒरुवने (२)  
+३६१९। See, the lord thinks that Thirukaḍithanam  
 and my heart are the same  
 and he enters my heart and stays there.  
 He, the matchless one, fought, shooting arrows like rain  
@@ -11691,41 +11692,41 @@ at the astonished Rakshasa Ravaṇan
 and destroyed him  
 so that even his shape could not be seen.  
 
-3620 ஒருவர் இருவர் ஓர் மூவர் என நின்று  
-உருவு கரந்து உள்ளும்தோறும் தித்திப்பான்  
-திரு அமர் மார்வன் திருக்கடித்தானத்தை  
-மருவி உறைகின்ற மாயப் பிரானே (3)  
-3620. The lord Maayan with beautiful Lakshmi on his chest  
+३६२० ऒरुवर् इरुवर् ओर् मूवर् ऎन निण्ड्रु  
+उरुवु करन्दु उळ्ळुम्दोऱुम् तित्तिप्पान्  
+तिरु अमर् मार्वन् तिरुक्कडित्तानत्तै  
+मरुवि उऱैगिण्ड्र मायप् पिराने (३)  
+३६२०। The lord Maayan with beautiful Lakshmi on his chest  
 has the forms of the three gods Shiva, Brahma and Indra.  
 Formless, he has entered my heart.  
 He wishes to stay in Thirukaḍithanam.  
 Whenever I think of him he is sweet.  
 
-3621 மாயப் பிரான் என வல்வினை மாய்ந்து அற  
-நேசத்தினால் நெஞ்சம் நாடு குடிகொண்டான்  
-தேசத்து அமரர் திருக்கடித்தானத்தை  
-வாசப் பொழில் மன்னு கோயில் கொண்டானே (4)  
-3621. The lord Maayan destroyed all my bad karma  
+३६२१ मायप् पिरान् ऎन वल्विनै माय्न्दु अऱ  
+नेसत्तिनाल् नॆञ्जम् नाडु कुडिगॊण्डान्  
+तेसत्तु अमरर् तिरुक्कडित्तानत्तै  
+वासप् पॊऴिल् मन्नु कोयिल् कॊण्डाने (४)  
+३६२१। The lord Maayan destroyed all my bad karma  
 and abides in my heart with love as if that were his native place.  
 He stays in the temple of Thirukaḍithanam  
 surrounded by fragrant groves  
 where all the gods in the sky come and worship him.  
 
-3622 கோயில் கொண்டான் தன் திருக்கடித்தானத்தை  
-கோயில் கொண்டான் அதனோடும் என் நெஞ்சகம்;  
-கோயில்கொள் தெய்வம் எல்லாம் தொழ வைகுந்தம்  
-கோயில் கொண்ட குடக்கூத்த அம்மானே (5)  
-3622. He, the god in the temple of Thirukaḍithanam,  
+३६२२ कोयिल् कॊण्डान् तन् तिरुक्कडित्तानत्तै  
+कोयिल् कॊण्डान् अदनोडुम् ऎन् नॆञ्जगम्;  
+कोयिल्गॊळ् तॆय्वम् ऎल्लाम् तॊऴ वैगुन्दम्  
+कोयिल् कॊण्ड कुडक्कूत्त अम्माने (५)  
+३६२२। He, the god in the temple of Thirukaḍithanam,  
 stays in my heart, which he has made his temple.  
 All the gods from many temples  
 come to Thirukadithanam to worship him,  
 our father who danced on a pot.  
 
-3623 கூத்த அம்மான் கொடியேன் இடர் முற்றவும்  
-மாய்த்த அம்மான் மதுசூத அம்மான் உறை  
-பூத்த பொழில் தண் திருக்கடித்தானத்தை  
-ஏத்த நில்லா குறிக்கொள்மின் இடரே (6)  
-3623. I have done bad karma,  
+३६२३ कूत्त अम्मान् कॊडियेन् इडर् मुट्रवुम्  
+माय्त्त अम्मान् मदुसूद अम्मान् उऱै  
+पूत्त पॊऴिल् तण् तिरुक्कडित्तानत्तै  
+एत्त निल्ला कुऱिक्कॊळ्मिन् इडरे (६)  
+३६२३। I have done bad karma,  
 and he, Madhusudhanan who danced on a pot,  
 is my father and has destroyed all the troubles that afflict me.  
 He is the god of flourishing Thirukaḍithanam  
@@ -11733,50 +11734,50 @@ surrounded by blooming groves.
 If you go there and praise him all your troubles will go away.  
 Keep this in your mind.  
 
-3624 கொள்மின் இடர் கெட உள்ளத்து கோவிந்தன்  
-மண் விண் முழுதும் அளந்த ஒண் தாமரை  
-மண்ணவர் தாம் தொழ வானவர் தாம் வந்து  
-நண்ணு திருக்கடித்தான நகரே (7)  
-3624. The god Govindan who stays in my heart  
+३६२४ कॊळ्मिन् इडर् कॆड उळ्ळत्तु कोविन्दन्  
+मण् विण् मुऴुदुम् अळन्द ऒण् तामरै  
+मण्णवर् ताम् तॊऴ वानवर् ताम् वन्दु  
+नण्णु तिरुक्कडित्तान नगरे (७)  
+३६२४। The god Govindan who stays in my heart  
 measured the whole earth and sky.  
 All the people of the earth worship his beautiful lotus feet.  
 Go to Thirukaḍithanam where the gods in the sky.  
 Worship the god and all your troubles will go away.  
 
-3625 தான நகர்கள் தலைச்சிறந்து எங்கெங்கும்  
-வான் இந் நிலம் கடல் முற்றும் எம் மாயற்கே  
-ஆனவிடத்தும் என் நெஞ்சும் திருக்கடித்  
-தான நகரும் தன தாயப் பதியே (8)  
-3625. Our Maayan stays in the sky,  
+३६२५ तान नगर्गळ् तलैच्चिऱन्दु ऎङ्गॆङ्गुम्  
+वान् इन् निलम् कडल् मुट्रुम् ऎम् मायऱ्‌के  
+आनविडत्तुम् ऎन् नॆञ्जुम् तिरुक्कडित्  
+तान नगरुम् तन तायप् पदिये (८)  
+३६२५। Our Maayan stays in the sky,  
 the earth, the ocean and many other good places  
 and they all belong to him,  
 but he chose my heart  
-and Thirukaḍithanam for his temples .  
+and Thirukaḍithanam for his temples ।  
 
-3626 தாயப் பதிகள் தலைச்சிறந்து எங்கெங்கும்  
-மாயத்தினால் மன்னி வீற்றிருந்தான் உறை  
-தேசத்து அமரர் திருக்கடித்தானத்துள்  
-ஆயர்க்கு அதிபதி அற்புதன் தானே (9)  
-3626. There are many marvelous places  
+३६२६ तायप् पदिगळ् तलैच्चिऱन्दु ऎङ्गॆङ्गुम्  
+मायत्तिनाल् मन्नि वीट्रिरुन्दान् उऱै  
+तेसत्तु अमरर् तिरुक्कडित्तानत्तुळ्  
+आयर्क्कु अदिबदि अऱ्‌पुदन् ताने (९)  
+३६२६। There are many marvelous places  
 that belong to Maayan where he stays happily forever,  
 but that wonderful god, the lord of cowherds,  
 chose Thirukadithanam as his temple  
 and stays there where the shining gods come and worship him.  
 
-3627 அற்புதன் நாராயணன் அரி வாமனன்  
-நிற்பது மேவி இருப்பது என் நெஞ்சகம்  
-நல் புகழ் வேதியர் நான்மறை நின்று அதிர்  
-கற்பகச் சோலைத் திருக்கடித்தானமே (10)  
-3627. The wonderful god Narayaṇan, Hari, Vamaṇan  
+३६२७ अऱ्‌पुदन् नारायणन् अरि वामनन्  
+निऱ्‌पदु मेवि इरुप्पदु ऎन् नॆञ्जगम्  
+नल् पुगऴ् वेदियर् नान्मऱै निण्ड्रु अदिर्  
+कऱ्‌पगच् चोलैत् तिरुक्कडित्तानमे (१०)  
+३६२७। The wonderful god Narayaṇan, Hari, Vamaṇan  
 stays in my heart and in Thirukaḍithanam  
 surrounded by karpaga groves  
 where good and renowned Brahmins loudly recite the Vedas.  
 
-3628 சோலைத் திருக்கடித்தானத்து உறை திரு  
-மாலை மதிள் குருகூர்ச் சடகோபன் சொல்  
-பாலோடு அமுது அன்ன ஆயிரத்து இப் பத்தும்  
-மேலை வைகுந்தத்து இருத்தும் வியந்தே (11)  
-3628. Saḍagopan of Thirukuruhur  
+३६२८ सोलैत् तिरुक्कडित्तानत्तु उऱै तिरु  
+मालै मदिळ् गुरुगूर्च् चडगोबन् सॊल्  
+पालोडु अमुदु अन्न आयिरत्तु इप् पत्तुम्  
+मेलै वैगुन्दत्तु इरुत्तुम् वियन्दे (११)  
+३६२८। Saḍagopan of Thirukuruhur  
 surrounded by walls  
 composed a thousand pasurams  
 that are as sweet as nectar and milk mixed together  
@@ -11786,36 +11787,36 @@ If devotees learn these ten pasurams and recite them
 they will go to Vaikuṇṭam and be happy.  
 --------------  
 
-திருவாய்மொழி எட்டாம் பத்து (ஏழாம் திருமொழி, 3629-3639)  
-தம் உள்ளத்தில் எம்பெருமான் வீற்றிருந்த படியை ஆழ்வார் கூறி மகிழ்தல்  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (एऴाम् तिरुमॊऴि, ३६२९-३६३९)  
+तम् उळ्ळत्तिल् ऎम्बॆरुमान् वीट्रिरुन्द पडियै आऴ्वार् कूऱि मगिऴ्दल्  
 
-3629 இருத்தும் வியந்து என்னைத் தன் பொன் அடிக்கீழ் என்று  
-அருத்தித்து எனைத்து ஓர் பல நாள் அழைத்தேற்கு  
-பொருத்தம் உடை வாமனன் தான் புகுந்து என் தன்  
-கருத்தை உற வீற்றிருந்தான் கண்டு கொண்டே (1)  
-3629. I worshipped the lord every day  
+३६२९ इरुत्तुम् वियन्दु ऎन्नैत् तन् पॊन् अडिक्कीऴ् ऎण्ड्रु  
+अरुत्तित्तु ऎनैत्तु ओर् पल नाळ् अऴैत्तेऱ्‌कु  
+पॊरुत्तम् उडै वामनन् तान् पुगुन्दु ऎन् तन्  
+करुत्तै उऱ वीट्रिरुन्दान् कण्डु कॊण्डे (१)  
+३६२९। I worshipped the lord every day  
 and said with amazement,  
 "Come and keep me under your golden feet!"  
 and the generous god Vamanan saw me  
 entered my heart and stayed there.  
 He is happy to be with me.  
 
-3630 இருந்தான் கண்டுகொண்டு எனது ஏழை நெஞ்சு ஆளும்  
-திருந்தாத ஓர் ஐவரைத் தேய்ந்து அற மன்னி  
-பெரும் தாள் களிற்றுக்கு அருள்செய்த பெருமான்  
-தரும் தான் அருள் தான் இனி யான் அறியேனே (2)  
-3630. He has entered my poor heart and destroyed  
+३६३० इरुन्दान् कण्डुगॊण्डु ऎनदु एऴै नॆञ्जु आळुम्  
+तिरुन्दाद ओर् ऐवरैत् तेय्न्दु अऱ मन्नि  
+पॆरुम् ताळ् कळिट्रुक्कु अरुळ्सॆय्द पॆरुमान्  
+तरुम् तान् अरुळ् तान् इनि यान् अऱियेने (२)  
+३६३०। He has entered my poor heart and destroyed  
 the feelings of the five senses that rule it.  
 He does not allow me to fall into the desires they cause.  
 The grace that my great lord has given me  
 is higher than the grace that he gave to Gajendra.  
 I do not know how this happened.  
 
-3631 அருள் தான் இனி யான் அறியேன் அவன் என் உள்  
-இருள் தான் அற வீற்றிருந்தான் இது அல்லால்  
-பொருள் தான் எனில் மூவுலகும் பொருள் அல்ல  
-மருள் தான் ஈதோ? மாய மயக்கு மயக்கே? (3)  
-3631. I cannot understand  
+३६३१ अरुळ् तान् इनि यान् अऱियेन् अवन् ऎन् उळ्  
+इरुळ् तान् अऱ वीट्रिरुन्दान् इदु अल्लाल्  
+पॊरुळ् तान् ऎनिल् मूवुलगुम् पॊरुळ् अल्ल  
+मरुळ् तान् ईदो? माय मयक्कु मयक्के? (३)  
+३६३१। I cannot understand  
 how he has such love for me  
 that he gives me his wonderful grace.  
 He stays in my heart and removes all my ignorance.  
@@ -11824,11 +11825,11 @@ is more important than staying in my heart.
 What kind of confusion is this?  
 Or is it just that I am confused to be in an illusory world?  
 
-3632 மாய மயக்கு மயக்கான் என்னை வஞ்சித்து  
-ஆயன் அமரர்க்கு அரிஏறு எனது அம்மான்  
-தூய சுடர்ச்சோதி தனது என் உள் வைத்தான்  
-தேசம் திகழும் தன் திருவருள் செய்தே (4)  
-3632. He is my father.  
+३६३२ माय मयक्कु मयक्कान् ऎन्नै वञ्जित्तु  
+आयन् अमरर्क्कु अरिएऱु ऎनदु अम्मान्  
+तूय सुडर्च्चोदि तनदु ऎन् उळ् वैत्तान्  
+तेसम् तिगऴुम् तन् तिरुवरुळ् सॆय्दे (४)  
+३६३२। He is my father.  
 He is the lord of cowherds and the gods in the sky.  
 He is the man-lion.  
 He confused me with his power of illusion.  
@@ -11836,21 +11837,21 @@ He is a faultless shining light.
 He gave his divine grace that is praised in all lands,  
 came to me and stayed within me.  
 
-3633 திகழும் தன் திருவருள் செய்து உலகத்தார்  
-புகழும் புகழ் தான் அது காட்டித் தந்து என் உள்  
-திகழும் மணிக் குன்றம் ஒன்றே ஒத்து நின்றான்  
-புகழும் புகழ் மற்று எனக்கும் ஓர் பொருளே? (5)  
-3633. He gave his divine grace to me.  
+३६३३ तिगऴुम् तन् तिरुवरुळ् सॆय्दु उलगत्तार्  
+पुगऴुम् पुगऴ् तान् अदु काट्टित् तन्दु ऎन् उळ्  
+तिगऴुम् मणिक् कुण्ड्रम् ऒण्ड्रे ऒत्तु निण्ड्रान्  
+पुगऴुम् पुगऴ् मट्रु ऎनक्कुम् ओर् पॊरुळे? (५)  
+३६३३। He gave his divine grace to me.  
 He gave me all the fame that makes the world praise me.  
 He stays like a shining diamond hill.  
 All the fame that I get is not important for me,  
 only his grace.  
 
-3634 பொருள் மற்று எனக்கும் ஓர் பொருள் தன்னில் சீர்க்கத்  
-தருமேல் பின்னை யார்க்கு அவன் தன்னைக் கொடுக்கும்  
-கரு மாணிக்கக் குன்றத்துத் தாமரைபோல்  
-திரு மார்பு கால் கண் கை செவ்வாய் உந்தியானே? (6)  
-3634. There are so many things that the lord can give me,  
+३६३४ पॊरुळ् मट्रु ऎनक्कुम् ओर् पॊरुळ् तन्निल् सीर्क्कत्  
+तरुमेल् पिन्नै यार्क्कु अवन् तन्नैक् कॊडुक्कुम्  
+करु माणिक्कक् कुण्ड्रत्तुत् तामरैबोल्  
+तिरु मार्बु काल् कण् कै सॆव्वाय् उन्दियाने? (६)  
+३६३४। There are so many things that the lord can give me,  
 but he gave himself to me.  
 How could he give himself to anyone else  
 after he has given himself to me?  
@@ -11858,20 +11859,20 @@ On his body that is like dark diamond hill,
 his divine chest, legs, eyes, hands and beautiful mouth and belly  
 are all as beautiful as blooming lotuses  
 
-3635 செவ்வாய் உந்தி வெண் பல் சுடர்க் குழை தம்மோடு  
-எவ்வாய்ச் சுடரும் தம்மில் முன் வளாய்க்கொள்ள  
-செவ்வாய் முறுவலோடு எனது உள்ளத்து இருந்த  
-அவ்வாய் அன்றி யான் அறியேன் மற்று அருளே (7)  
-3635. His beautiful mouth, ears ornamented with shining earrings,  
+३६३५ सॆव्वाय् उन्दि वॆण् पल् सुडर्क् कुऴै तम्मोडु  
+ऎव्वाय्च् चुडरुम् तम्मिल् मुन् वळाय्क्कॊळ्ळ  
+सॆव्वाय् मुऱुवलोडु ऎनदु उळ्ळत्तु इरुन्द  
+अव्वाय् अण्ड्रि यान् अऱियेन् मट्रु अरुळे (७)  
+३६३५। His beautiful mouth, ears ornamented with shining earrings,  
 and white teeth all shine, each competing with the other.  
 He stays in my heart smiling with his red mouth.  
 I know no grace except the grace of the smile of his mouth.  
 
-3636 அறியேன் மற்று அருள் என்னை ஆளும் பிரானார்  
-வெறிதே அருள்செய்வர் செய்வார்கட்கு உகந்து  
-சிறியேனுடைச் சிந்தையுள் மூவுலகும் தன்  
-நெறியா வயிற்றில் கொண்டு நின்றொழிந்தாரே (8)  
-3636. The lord rules me  
+३६३६ अऱियेन् मट्रु अरुळ् ऎन्नै आळुम् पिरानार्  
+वॆऱिदे अरुळ्सॆय्वर् सॆय्वार्गट्कु उगन्दु  
+सिऱियेनुडैच् चिन्दैयुळ् मूवुलगुम् तन्  
+नॆऱिया वयिट्रिल् कॊण्डु निण्ड्रॊऴिन्दारे (८)  
+३६३६। The lord rules me  
 and if he wants to give his grace to someone,  
 he gives it without expecting anything in return.  
 I am a small devotee.  
@@ -11879,32 +11880,32 @@ He who swallowed all the three worlds
 and keeps them in his stomach  
 has entered my heart and stays there.  
 
-3637 வயிற்றில் கொண்டு நின்றொழிந்தாரும் எவரும்  
-வயிற்றில் கொண்டு நின்று ஒரு மூவுலகும் தம்  
-வயிற்றில் கொண்டு நின்றவண்ணம் நின்ற மாலை  
-வயிற்றில் கொண்டு மன்ன வைத்தேன் மதியாலே (9)  
-3637. The three worlds protected by kings  
+३६३७ वयिट्रिल् कॊण्डु निण्ड्रॊऴिन्दारुम् ऎवरुम्  
+वयिट्रिल् कॊण्डु निण्ड्रु ऒरु मूवुलगुम् तम्  
+वयिट्रिल् कॊण्डु निण्ड्रवण्णम् निण्ड्र मालै  
+वयिट्रिल् कॊण्डु मन्न वैत्तेन् मदियाले (९)  
+३६३७। The three worlds protected by kings  
 were all destroyed at the end of the eon.  
 The lord Maal swallowed them all,  
 keeping them in his stomach and protecting them.  
 With my cleverness,  
 I made that Maal come to me and keep him in my heart.  
 
-3638 வைத்தேன் மதியால் எனது உள்ளத்து அகத்தே  
-எய்த்தே ஒழிவேன் அல்லேன் என்றும் எப்போதும்  
-மொய்த்து ஏய் திரை மோது தண் பாற்கடலுளால்  
-பைத்து ஏய் சுடர்ப் பாம்பு அணை நம் பரனையே (10)  
-3638. He is the highest lord  
+३६३८ वैत्तेन् मदियाल् ऎनदु उळ्ळत्तु अगत्ते  
+ऎय्त्ते ऒऴिवेन् अल्लेन् ऎण्ड्रुम् ऎप्पोदुम्  
+मॊय्त्तु एय् तिरै मोदु तण् पाऱ्‌कडलुळाल्  
+पैत्तु एय् सुडर्प् पाम्बु अणै नम् परनैये (१०)  
+३६३८। He is the highest lord  
 and he sleeps on the shining thousand-headed Adishesha  
 on the cool milky ocean always filled with rolling waves.  
 With my cleverness I made him enter my heart.  
 I will never grow tired of him or let him leave me.  
 
-3639 சுடர்ப் பாம்பு அணை நம் பரனை திருமாலை  
-அடிச் சேர்வகை வண் குருகூர்ச் சடகோபன்  
-முடிப்பான் சொன்ன ஆயிரத்து இப் பத்தும் சன்மம்  
-விடத் தேய்ந்து அற நோக்கும் தன் கண்கள் சிவந்தே (11)  
-3639. Saḍagopan of flourishing Thirukuruhur  
+३६३९ सुडर्प् पाम्बु अणै नम् परनै तिरुमालै  
+अडिच् चेर्वगै वण् गुरुगूर्च् चडगोबन्  
+मुडिप्पान् सॊन्न आयिरत्तु इप् पत्तुम् सन्मम्  
+विडत् तेय्न्दु अऱ नोक्कुम् तन् कण्गळ् सिवन्दे (११)  
+३६३९। Saḍagopan of flourishing Thirukuruhur  
 composed a thousand pasurams praising Thirumal,  
 our highest god who sleeps on shining Adishesha.  
 If devotees learn and recite these ten pasurams,  
@@ -11913,33 +11914,33 @@ as he grows angry at their karma
 and he will remove their births.  
 -----------  
 
-திருவாய்மொழி எட்டாம் பத்து (எட்டாம் திருமொழி, 3640-3650)  
-ஆருயிரின் ஏற்றத்தை எம்பெருமான் காட்டக் கண்டு ஆழ்வார் பேசுதல்  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३६४०-३६५०)  
+आरुयिरिन् एट्रत्तै ऎम्बॆरुमान् काट्टक् कण्डु आऴ्वार् पेसुदल्  
 
-3640 கண்கள் சிவந்து பெரியவாய்  
-வாயும் சிவந்து கனிந்து உள்ளே  
-வெண் பல் இலகு சுடர் இலகு  
-விலகு மகர குண்டலத்தன்  
-கொண்டல் வண்ணன் சுடர் முடியன்  
-நான்கு தோளன் குனி சார்ங்கன்  
-ஒண் சங்(கு) கதை வாள் ஆழியான்  
-ஒருவன் அடியேன் உள்ளானே. (1)  
-3640. He has beautiful large eyes,  
+३६४० कण्गळ् सिवन्दु पॆरियवाय्  
+वायुम् सिवन्दु कनिन्दु उळ्ळे  
+वॆण् पल् इलगु सुडर् इलगु  
+विलगु मगर कुण्डलत्तन्  
+कॊण्डल् वण्णन् सुडर् मुडियन्  
+नान्गु तोळन् कुनि सार्ङ्गन्  
+ऒण् सङ्(गु) कदै वाळ् आऴियान्  
+ऒरुवन् अडियेन् उळ्ळाने। (१)  
+३६४०। He has beautiful large eyes,  
 a soft red mouth and white shining teeth.  
 His ears are adorned with shining makara earrings.  
 The dark cloud-colored sole lord decorated with a shining crown  
 stays in the mind of me his slave with his four arms  
 that hold a bent bow, conch, club, sword and discus.  
 
-3641 அடியேன் உள்ளான் உடல் உள்ளான்  
-அண்டத்து அகத்தான் புறத்துள்ளான்  
-படியே இது என்று உரைக்கலாம்  
-படியன் அல்லன் பரம்பரன்  
-கடிசேர் நாற்றத்துள் ஆலை  
-இன்பத் துன்பக் கழி நேர்மை  
-ஒடியா இன்பப் பெருமையோன்  
-உணர்வில் உம்பர் ஒருவனே (2)  
-3641. I am his devotee and he is in my soul and body.  
+३६४१ अडियेन् उळ्ळान् उडल् उळ्ळान्  
+अण्डत्तु अगत्तान् पुऱत्तुळ्ळान्  
+पडिये इदु ऎण्ड्रु उरैक्कलाम्  
+पडियन् अल्लन् परम्बरन्  
+कडिसेर् नाट्रत्तुळ् आलै  
+इन्बत् तुन्बक् कऴि नेर्मै  
+ऒडिया इन्बप् पॆरुमैयोन्  
+उणर्विल् उम्बर् ऒरुवने (२)  
+३६४१। I am his devotee and he is in my soul and body.  
 He is in the sky, he is inside and outside of everyone.  
 Nothing can be compared with the highest lord.  
 He is in all fragrances.  
@@ -11947,15 +11948,15 @@ He takes away sorrows and gives happiness to all.
 He is the lord of the sky and he is joy for his devotees.  
 He has undiminished fame and he is in the feelings of all.  
 
-3642 உணர்வில் உம்பர் ஒருவனை  
-அவனது அருளால் உறற்பொருட்டு என்  
-உணர்வின் உள்ளே இருத்தினேன்  
-அதுவும் அவனது இன் அருளே  
-உணர்வும் உயிரும் உடம்பும்  
-மற்று உலப்பிலனவும் பழுதேயாம்  
-உணர்வைப் பெற ஊர்ந்து இற ஏறி  
-யானும் தானாய் ஒழிந்தானே. (3)  
-3642. No one can understand the highest god,  
+३६४२ उणर्विल् उम्बर् ऒरुवनै  
+अवनदु अरुळाल् उऱऱ्‌पॊरुट्टु ऎन्  
+उणर्विन् उळ्ळे इरुत्तिनेन्  
+अदुवुम् अवनदु इन् अरुळे  
+उणर्वुम् उयिरुम् उडम्बुम्  
+मट्रु उलप्पिलनवुम् पऴुदेयाम्  
+उणर्वैप् पॆऱ ऊर्न्दु इऱ एऱि  
+यानुम् तानाय् ऒऴिन्दाने। (३)  
+३६४२। No one can understand the highest god,  
 yet I understand him and keep him in my heart  
 only through his sweet grace.  
 I understand that my feelings, life, body  
@@ -11963,15 +11964,15 @@ and all other things are not true.
 He gives me all my knowledge  
 and has entered my heart and become one with me.  
 
-3643 யானும் தானாய் ஒழிந்தானை  
-யாதும் எவர்க்கும் முன்னோனை  
-தானும் சிவனும் பிரமனும்  
-ஆகிப் பணைத்த தனி முதலை  
-தேனும் பாலும் கன்னலும்  
-அமுதும் ஆகித் தித்தித்து என்  
-ஊனில் உயிரில் உணர்வினில்  
-நின்ற ஒன்றை உணர்ந்தேனே (4)  
-3643. He makes me and himself one.  
+३६४३ यानुम् तानाय् ऒऴिन्दानै  
+यादुम् ऎवर्क्कुम् मुन्नोनै  
+तानुम् सिवनुम् पिरमनुम्  
+आगिप् पणैत्त तनि मुदलै  
+तेनुम् पालुम् कन्नलुम्  
+अमुदुम् आगित् तित्तित्तु ऎन्  
+ऊनिल् उयिरिल् उणर्विनिल्  
+निण्ड्र ऒण्ड्रै उणर्न्देने (४)  
+३६४३। He makes me and himself one.  
 He is the ancient lord of all things and all people.  
 He is Shiva and Brahma.  
 He is unique, the cause that branched out to become everything.  
@@ -11979,15 +11980,15 @@ He is honey, milk, sugar juice and nectar.
 He is sweet.  
 I know him who is in my body, my life and my awareness.  
 
-3644 நின்ற ஒன்றை உணர்ந்தேனுக்கு  
-அதன் நுண் நேர்மை அது இது என்று  
-ஒன்றும் ஒருவர்க்கு உணரலாகாது  
-உணர்ந்தும் மேலும் காண்பு அரிது  
-சென்று சென்று பரம்பரம் ஆய்  
-யாதும் இன்றித் தேய்ந்து அற்று  
-நன்று தீது என்று அறிவு அரிதாய்  
-நன்றாய் ஞானம் கடந்ததே (5)  
-3644. I understand that he is the one thing that abides in all  
+३६४४ निण्ड्र ऒण्ड्रै उणर्न्देनुक्कु  
+अदन् नुण् नेर्मै अदु इदु ऎण्ड्रु  
+ऒण्ड्रुम् ऒरुवर्क्कु उणरलागादु  
+उणर्न्दुम् मेलुम् काण्बु अरिदु  
+सॆण्ड्रु सॆण्ड्रु परम्बरम् आय्  
+यादुम् इण्ड्रित् तेय्न्दु अट्रु  
+नण्ड्रु तीदु ऎण्ड्रु अऱिवु अरिदाय्  
+नण्ड्राय् ज्ञानम् कडन्ददे (५)  
+३६४४। I understand that he is the one thing that abides in all  
 yet no one can understand his excellence,  
 whether it is this or that.  
 Even if someone understands it, he cannot really see it.  
@@ -11996,15 +11997,15 @@ it becomes nothing.
 No one has the knowledge to know whether it is good of bad.  
 It is a good thing and abides even beyond knowing.  
 
-3645 நன்றாய் ஞானம் கடந்துபோய்  
-நல் இந்திரியம் எல்லாம் ஈர்த்து  
-ஒன்றாய்க் கிடந்த அரும் பெரும் பாழ்  
-உலப்பு இல் அதனை உணர்ந்து உணர்ந்து  
-சென்று ஆங்கு இன்பத் துன்பங்கள்  
-செற்றுக் களைந்து பசை அற்றால்  
-அன்றே அப்போதே வீடு  
-அதுவே வீடு வீடாமே (6)  
-3645. It is a good thing and abides even beyond knowing.  
+३६४५ नण्ड्राय् ज्ञानम् कडन्दुबोय्  
+नल् इन्दिरियम् ऎल्लाम् ईर्त्तु  
+ऒण्ड्राय्क् किडन्द अरुम् पॆरुम् पाऴ्  
+उलप्पु इल् अदनै उणर्न्दु उणर्न्दु  
+सॆण्ड्रु आङ्गु इन्बत् तुन्बङ्गळ्  
+सॆट्रुक् कळैन्दु पसै अट्राल्  
+अण्ड्रे अप्पोदे वीडु  
+अदुवे वीडु वीडामे (६)  
+३६४५। It is a good thing and abides even beyond knowing.  
 One should understand that it is a unique thing  
 that is beyond all the senses.  
 One must know that it is a rare, great thing  
@@ -12013,15 +12014,15 @@ If one destroys happiness and sorrow and removes all desires
 that very day and that very time he reaches moksha.  
 Being in that state is truly moksha, it is liberation.  
 
-3646 அதுவே வீடு வீடுபேற்று  
-இன்பம் தானும் அது தேறி  
-எதுவே தானும் பற்று இன்றி  
-யாதும் இலிகள் ஆகிற்கில்  
-அதுவே வீடு வீடுபேற்று  
-இன்பம் தானும் அது தேறாது  
-எதுவே வீடு? ஏது இன்பம்? என்று  
-எய்த்தார் எய்த்தார் எய்த்தாரே (7)  
-3646. If someone has no desire and owns nothing  
+३६४६ अदुवे वीडु वीडुबेट्रु  
+इन्बम् तानुम् अदु तेऱि  
+ऎदुवे तानुम् पट्रु इण्ड्रि  
+यादुम् इलिगळ् आगिऱ्‌किल्  
+अदुवे वीडु वीडुबेट्रु  
+इन्बम् तानुम् अदु तेऱादु  
+ऎदुवे वीडु? एदु इन्बम्? ऎण्ड्रु  
+ऎय्त्तार् ऎय्त्तार् ऎय्त्तारे (७)  
+३६४६। If someone has no desire and owns nothing  
 that is moksha and having attained it there is joy.  
 If someone does not know this and worries,  
 "What is moksha? What is happiness?"  
@@ -12030,15 +12031,15 @@ One should understand that true moksha
 is to remove all desires of the world.  
 That is also true happiness.  
 
-3647 எய்த்தார் எய்த்தார் எய்த்தார்  
-என்று இல்லத்தாரும் புறத்தாரும்  
-மொய்த்து ஆங்கு அலறி முயங்க தாம்  
-போகும்போது உன்மத்தர்போல்  
-பித்தே ஏறி அநுராகம்  
-பொழியும்போது எம் பெம்மானோடு  
-ஒத்தே சென்று அங்கு உள்ளம்  
-கூடக் கூடிற்றாகில் நல் உறைப்பே (8)  
-3647. When you die, your family and relatives  
+३६४७ ऎय्त्तार् ऎय्त्तार् ऎय्त्तार्  
+ऎण्ड्रु इल्लत्तारुम् पुऱत्तारुम्  
+मॊय्त्तु आङ्गु अलऱि मुयङ्ग ताम्  
+पोगुम्बोदु उन्मत्तर्बोल्  
+पित्ते एऱि अनुरागम्  
+पॊऴियुम्बोदु ऎम् पॆम्मानोडु  
+ऒत्ते सॆण्ड्रु अङ्गु उळ्ळम्  
+कूडक् कूडिट्रागिल् नल् उऱैप्पे (८)  
+३६४७। When you die, your family and relatives  
 will worry and worry and crowd around you.  
 Before you loose your awareness,  
 if, as if you had become crazy, you think of god  
@@ -12046,15 +12047,15 @@ and a feeling of joy comes to your mind
 and your heart joins the dear lord  
 that is the good way to obtain moksha.  
 
-3648 கூடிற்றாகில் நல் உறைப்பு  
-கூடாமையைக் கூடினால்  
-ஆடல் பறவை உயர் கொடி எம்  
-மாயன் ஆவது அது அதுவே  
-வீடைப் பண்ணி ஒரு பரிசே  
-எதிர்வும் நிகழ்வும் கழிவுமாய்  
-ஓடித் திரியும் யோகிகளும்  
-உளரும் இல்லை அல்லரே (9)  
-3648. Is it possible that the soul and the highest god  
+३६४८ कूडिट्रागिल् नल् उऱैप्पु  
+कूडामैयैक् कूडिनाल्  
+आडल् पऱवै उयर् कॊडि ऎम्  
+मायन् आवदु अदु अदुवे  
+वीडैप् पण्णि ऒरु परिसे  
+ऎदिर्वुम् निगऴ्वुम् कऴिवुमाय्  
+ओडित् तिरियुम् योगिगळुम्  
+उळरुम् इल्लै अल्लरे (९)  
+३६४८। Is it possible that the soul and the highest god  
 who carries an eagle flag can become one? They are not the same.  
 If they could become one then there is no god or soul.  
 Maayan will be himself, and the soul will be itself.  
@@ -12063,15 +12064,15 @@ in the past, future and present saying that they will reach moksha,
 but their moksha is imaginary.  
 Reaching god by devotion is the only moksha.  
 
-3649 உளரும் இல்லை அல்லராய்  
-உளராய் இல்லை ஆகியே  
-உளர் எம் ஒருவர் அவர் வந்து என்  
-உள்ளத்துள்ளே உறைகின்றார்  
-வளரும் பிறையும் தேய் பிறையும்  
-போல அசைவும் ஆக்கமும்  
-வளரும் சுடரும் இருளும் போல்  
-தெருளும் மருளும் மாய்த்தோமே (10)  
-3649. God is always there for his devotees.  
+३६४९ उळरुम् इल्लै अल्लराय्  
+उळराय् इल्लै आगिये  
+उळर् ऎम् ऒरुवर् अवर् वन्दु ऎन्  
+उळ्ळत्तुळ्ळे उऱैगिण्ड्रार्  
+वळरुम् पिऱैयुम् तेय् पिऱैयुम्  
+पोल असैवुम् आक्कमुम्  
+वळरुम् सुडरुम् इरुळुम् पोल्  
+तॆरुळुम् मरुळुम् माय्त्तोमे (१०)  
+३६४९। God is always there for his devotees.  
 He is even there for those who say there is no god.  
 He comes to me, enters my heart and stays there.  
 Wisdom and ignorance come and go  
@@ -12079,11 +12080,11 @@ like the waxing and waning moon.
 We should get rid of clarity and confusion  
 that come and go like the shining day and the night.  
 
-3650 தெருளும் மருளும் மாய்த்து தன் திருந்து செம்பொன் கழல் அடிக்கீழ்  
-அருளி இருத்தும் அம்மானாம் அயனாம் சிவனாம்  
-திருமாலால் அருளப் பட்ட சடகோபன் ஓர் ஆயிரத்துள் இப் பத்தால்  
-அருளி அடிக்கீழ் இருத்தும் நம்மண்ணல் கருமாணிக்கமே. (11)  
-3650. Saḍagopan composed a thousand pasurams  
+३६५० तॆरुळुम् मरुळुम् माय्त्तु तन् तिरुन्दु सॆम्बॊन् कऴल् अडिक्कीऴ्  
+अरुळि इरुत्तुम् अम्मानाम् अयनाम् सिवनाम्  
+तिरुमालाल् अरुळप् पट्ट सडगोबन् ओर् आयिरत्तुळ् इप् पत्ताल्  
+अरुळि अडिक्कीऴ् इरुत्तुम् नम्मण्णल् करुमाणिक्कमे। (११)  
+३६५०। Saḍagopan composed a thousand pasurams  
 on Thirumal, the father of Shiva and Brahma.  
 He removes the confusion and the ignorance of all  
 and keeps his devotees beneath his feet  
@@ -12093,19 +12094,19 @@ they will go and stay beneath the feet
 of our dark diamond-colored lord and receive his grace.  
 --------------  
 
-திருவாய்மொழி எட்டாம் பத்து (ஒன்பதாம் திருமொழி, 3651-3661)  
-தலைவியின் உண்மைக் காதலைத் தாய்மாருக்குத் தோழி  
-எடுத்துரைத்து அயல் மணம் விலக்கல் (திருப்புலியூர்)  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३६५१-३६६१)  
+तलैवियिन् उण्मैक् कादलैत् ताय्मारुक्कुत् तोऴि  
+ऎडुत्तुरैत्तु अयल् मणम् विलक्कल् (तिरुप्पुलियूर्)  
 
-3651 கரு மாணிக்க மலைமேல் மணித் தடம்  
-தாமரைக் காடுகள் போல்  
-திருமார்வு வாய் கண் கை உந்தி கால் உடை  
-ஆடைகள் செய்ய பிரான்  
-திருமால் எம்மான் செழு நீர் வயல் குட்ட  
-நாட்டுத் திருப்புலியூர்  
-அரு மாயன் பேர் அன்றிப் பேச்சு இலள் அன்னைமீர்!  
-இதற்கு என் செய்கேனோ? (1)  
-3651. Her friend says,  
+३६५१ करु माणिक्क मलैमेल् मणित् तडम्  
+तामरैक् काडुगळ् पोल्  
+तिरुमार्वु वाय् कण् कै उन्दि काल् उडै  
+आडैगळ् सॆय्य पिरान्  
+तिरुमाल् ऎम्मान् सॆऴु नीर् वयल् कुट्ट  
+नाट्टुत् तिरुप्पुलियूर्  
+अरु मायन् पेर् अण्ड्रिप् पेच्चु इलळ् अन्नैमीर्!  
+इदऱ्‌कु ऎन् सॆय्गेनो? (१)  
+३६५१। Her friend says,  
 "O mothers, how can I help my friend?  
 Your daughter does not say anything  
 except the name of the great Maayan  
@@ -12116,15 +12117,15 @@ adorned with beautiful ornaments and garments,
 stays in Thirupuliyur in Kuṭṭanaḍu  
 that flourishes with fields and good water."  
 
-3652 அன்னைமீர் இதற்கு என் செய்கேன்? அணி  
-மேருவின் மீது உலவும்  
-துன்னு சூழ் சுடர் ஞாயிறும் அன்றியும்  
-பல் சுடர்களும் போல்  
-மின்னு நீள் முடி ஆரம் பல் கலன் தான்  
-உடை எம்பெருமான்  
-புன்னை அம் பொழில் சூழ் திருப்புலியூர்  
-புகழும் இவளே (2)  
-3652. Her friend says,  
+३६५२ अन्नैमीर् इदऱ्‌कु ऎन् सॆय्गेन्? अणि  
+मेरुविन् मीदु उलवुम्  
+तुन्नु सूऴ् सुडर् ञायिऱुम् अण्ड्रियुम्  
+पल् सुडर्गळुम् पोल्  
+मिन्नु नीळ् मुडि आरम् पल् कलन् तान्  
+उडै ऎम्बॆरुमान्  
+पुन्नै अम् पॊऴिल् सूऴ् तिरुप्पुलियूर्  
+पुगऴुम् इवळे (२)  
+३६५२। Her friend says,  
 "O mothers, how can I help my friend?  
 Our lord wears a tall shining crown,  
 a necklace and many ornaments  
@@ -12133,15 +12134,15 @@ as it circles Meru mountain.
 All she does is praise our dear god of Thirupuliyur  
 surrounded with beautiful punnai groves."  
 
-3653 புகழும் இவள் நின்று இராப்பகல் பொரு நீர்க்  
-கடல் தீப் பட்டு எங்கும்  
-திகழும் எரியொடு செல்வது ஒப்ப  
-செழும் கதிர் ஆழி முதல்  
-புகழும் பொரு படை ஏந்தி போர் புக்கு  
-அசுரரைப் பொன்றுவித்தான்  
-திகழும் மணி நெடு மாடம் நீடு  
-திருப்புலியூர் வளமே (3)  
-3653. Her friend says,  
+३६५३ पुगऴुम् इवळ् निण्ड्रु इराप्पगल् पॊरु नीर्क्  
+कडल् तीप् पट्टु ऎङ्गुम्  
+तिगऴुम् ऎरियॊडु सॆल्वदु ऒप्प  
+सॆऴुम् गतिर् आऴि मुदल्  
+पुगऴुम् पॊरु पडै एन्दि पोर् पुक्कु  
+असुररैप् पॊण्ड्रुवित्तान्  
+तिगऴुम् मणि नॆडु माडम् नीडु  
+तिरुप्पुलियूर् वळमे (३)  
+३६५३। Her friend says,  
 "She praises the dark ocean-colored god night and day.  
 Carrying a shining discus and other weapons  
 he entered into war like the shining fire  
@@ -12150,15 +12151,15 @@ fought with the Asurans and destroyed them.
 He stays in flourishing Thiruppuliyur  
 filled with tall shining palaces studded with precious jewels."  
 
-3654 ஊர் வளம் கிளர் சோலையும் கரும்பும்  
-பெரும் செந்நெலும் சூழ்ந்து  
-ஏர் வளம் கிளர் தண் பணைக் குட்ட  
-நாட்டுத் திருப்புலியூர்  
-சீர் வளம் கிளர் மூவுலகு உண்டு உமிழ்  
-தேவ பிரான்  
-பேர் வளம் கிளர்ந்தன்றிப் பேச்சு இலள்  
-இன்று இப் புனை இழையே (4)  
-3654. Her friend says,  
+३६५४ ऊर् वळम् किळर् सोलैयुम् करुम्बुम्  
+पॆरुम् सॆन्नॆलुम् सूऴ्न्दु  
+एर् वळम् किळर् तण् पणैक् कुट्ट  
+नाट्टुत् तिरुप्पुलियूर्  
+सीर् वळम् किळर् मूवुलगु उण्डु उमिऴ्  
+तेव पिरान्  
+पेर् वळम् किळर्न्दण्ड्रिप् पेच्चु इलळ्  
+इण्ड्रु इप् पुनै इऴैये (४)  
+३६५४। Her friend says,  
 "O mother, your daughter adorned with lovely ornaments  
 doesn’t praise anything except the fame  
 of our dear god who swallowed all the famous three worlds,  
@@ -12167,15 +12168,15 @@ filled with cool fields that farmers plow
 where abundant paddy and sugarcane grow  
 flourishing with good groves that increase its prosperity."  
 
-3655 புனை இழைகள் அணிவும் ஆடை உடையும்  
-புதுக்கணிப்பும்  
-நினையும் நீர்மையது அன்று இவட்கு இது நின்று  
-நினைக்கப்புக்கால்  
-சுனையினுள் தடம் தாமரை மலரும்  
-தண் திருப்புலியூர்  
-முனைவன் மூவுலகு ஆளி அப்பன்  
-திரு அருள் மூழ்கினளே. (5)  
-3655. Her friend says,  
+३६५५ पुनै इऴैगळ् अणिवुम् आडै उडैयुम्  
+पुदुक्कणिप्पुम्  
+निनैयुम् नीर्मैयदु अण्ड्रु इवट्कु इदु निण्ड्रु  
+निनैक्कप्पुक्काल्  
+सुनैयिनुळ् तडम् तामरै मलरुम्  
+तण् तिरुप्पुलियूर्  
+मुनैवन् मूवुलगु आळि अप्पन्  
+तिरु अरुळ् मूऴ्गिनळे। (५)  
+३६५५। Her friend says,  
 "O mother, if you consider the precious ornaments she wears now,  
 her clothes and the smart way she thinks  
 you will understand that she is plunged into the divine grace  
@@ -12183,15 +12184,15 @@ of the father, the lord, the ruler of all three worlds,
 the god in prosperous Thirupuliyur  
 where large lotuses bloom in mountain springs."  
 
-3656 திரு அருள் மூழ்கி வைகலும் செழு நீர்  
-நிறக் கண்ண பிரான்  
-திரு அருள்களும் சேர்ந்தமைக்கு அடை  
-யாளம் திருந்த உள  
-திரு அருள் அருளால் அவன் சென்று  
-சேர் தண் திருப்புலியூர்  
-திரு அருள் கமுகு ஒண் பழத்தது  
-மெல்லியல் செவ்விதழே (6)  
-3656. Her friend says,  
+३६५६ तिरु अरुळ् मूऴ्गि वैगलुम् सॆऴु नीर्  
+निऱक् कण्ण पिरान्  
+तिरु अरुळ्गळुम् सेर्न्दमैक्कु अडै  
+याळम् तिरुन्द उळ  
+तिरु अरुळ् अरुळाल् अवन् सॆण्ड्रु  
+सेर् तण् तिरुप्पुलियूर्  
+तिरु अरुळ् कमुगु ऒण् पऴत्तदु  
+मॆल्लियल् सॆव्विदऴे (६)  
+३६५६। Her friend says,  
 "O mother, the red lips of the gentle girl  
 are like ripe kamuku fruits that flourish  
 through the divine grace of the god of prosperous Thirupuliyur.  
@@ -12199,30 +12200,30 @@ They are a sign that every day she plunges
 into the love of the dark ocean-colored god Kaṇṇan  
 and that she has the grace of the lord."  
 
-3657 மெல் இலைச் செல்வ வண் கொடிப் புல்க  
-வீங்கு இளம் தாள் கமுகின்  
-மல் இலை மடல் வாழை ஈன் கனி சூழ்ந்து  
-மணம் கமழ்ந்து  
-புல் இலைத் தெங்கினூடு கால் உலவும்  
-தண் திருப்புலியூர்  
-மல்லல் அம் செல்வக் கண்ணன் தாள் அடைந்தாள்  
-இம் மடவரலே (7)  
-3657. Her friend says,  
+३६५७ मॆल् इलैच् चॆल्व वण् कॊडिप् पुल्ग  
+वीङ्गु इळम् ताळ् कमुगिन्  
+मल् इलै मडल् वाऴै ईन् कनि सूऴ्न्दु  
+मणम् कमऴ्न्दु  
+पुल् इलैत् तॆङ्गिनूडु काल् उलवुम्  
+तण् तिरुप्पुलियूर्  
+मल्लल् अम् सॆल्वक् कण्णन् ताळ् अडैन्दाळ्  
+इम् मडवरले (७)  
+३६५७। Her friend says,  
 "O mother, this lovely girl reaches the feet  
 of our precious Kaṇṇan, the warrior, the god of Thirupuliyur  
 where the leaves of vines embrace the soft branches of the Kamugu trees  
 and a lovely breeze spreads the fragrance of jasmine  
 as it blows through the banana and coconut trees."  
 
-3658 மடவரல் அன்னைமீர்கட்கு என் சொல்லிச் சொல்லுகேன்?  
-மல்லைச் செல்வ  
-வடமொழி மறைவாணர் வேள்வியுள் நெய் அழல்  
-வான் புகை போய்த்  
-திட விசும்பில் அமரர் நாட்டை மறைக்கும்  
-தண் திருப்புலியூர்  
-பட அரவு அணையான் தன் நாமம் அல்லால்  
-பரவாள் இவளே (8)  
-3658. Her friend says,  
+३६५८ मडवरल् अन्नैमीर्गट्कु ऎन् सॊल्लिच् चॊल्लुगेन्?  
+मल्लैच् चॆल्व  
+वडमॊऴि मऱैवाणर् वेळ्वियुळ् नॆय् अऴल्  
+वान् पुगै पोय्त्  
+तिड विसुम्बिल् अमरर् नाट्टै मऱैक्कुम्  
+तण् तिरुप्पुलियूर्  
+पड अरवु अणैयान् तन् नामम् अल्लाल्  
+परवाळ् इवळे (८)  
+३६५८। Her friend says,  
 "What can I say to the mothers of this beautiful girl?  
 He sleeps on Adishesa on the water in rich Thiruppuliyur  
 where the Brahmins of flourishing Mallai  
@@ -12231,15 +12232,15 @@ and the smoke from the fire as they pour ghee
 rises and hides the country of the gods in the wide sky.  
 She doesn’t praise anything except his names."  
 
-3659 பரவாள் இவள் நின்று இராப்பகல் பனி நீர்  
-நிறக் கண்ண பிரான்  
-விரவு ஆர் இசை மறை வேதியர் ஒலி வேலையின்  
-நின்று ஒலிப்ப  
-கரவு ஆர் தடம்தொறும் தாமரைக் கயம்  
-தீவிகை நின்று அலரும்  
-புரவு ஆர் கழனிகள் சூழ் திருப்புலியூர்ப்  
-புகழ் அன்றி மற்றே (9)  
-3659. Her friend says,  
+३६५९ परवाळ् इवळ् निण्ड्रु इराप्पगल् पनि नीर्  
+निऱक् कण्ण पिरान्  
+विरवु आर् इसै मऱै वेदियर् ऒलि वेलैयिन्  
+निण्ड्रु ऒलिप्प  
+करवु आर् तडम्दॊऱुम् तामरैक् कयम्  
+तीविगै निण्ड्रु अलरुम्  
+पुरवु आर् कऴनिगळ् सूऴ् तिरुप्पुलियूर्प्  
+पुगऴ् अण्ड्रि मट्रे (९)  
+३६५९। Her friend says,  
 "Your daughter’s eyes are filled with tears  
 and night and day she doesn’t praise anything  
 except the fame of Thiruppuliyur  
@@ -12249,15 +12250,15 @@ and the sound of the Vedas that the Brahmins recite
 resounds like the sound of the ocean  
 and the lotuses in the large ponds bloom like bright lamps.  
 
-3660 அன்றி மற்றோர் உபாயம் என் இவள் அம்  
-தண் துழாய் கமழ்தல்  
-குன்ற மா மணி மாட மாளிகைக் கோலக்  
-குழாங்கள் மல்கி  
-தென் திசைத் திலதம் புரை குட்ட  
-நாட்டுத் திருப்புலியூர்  
-நின்ற மாயப் பிரான் திருவருளாம்  
-இவள் நேர்பட்டதே? (10)  
-3660. Here friend says,  
+३६६० अण्ड्रि मट्रोर् उपायम् ऎन् इवळ् अम्  
+तण् तुऴाय् कमऴ्दल्  
+कुण्ड्र मा मणि माड माळिगैक् कोलक्  
+कुऴाङ्गळ् मल्गि  
+तॆन् तिसैत् तिलदम् पुरै कुट्ट  
+नाट्टुत् तिरुप्पुलियूर्  
+निण्ड्र मायप् पिरान् तिरुवरुळाम्  
+इवळ् नेर्बट्टदे? (१०)  
+३६६०। Here friend says,  
 "She has the grace of Maayappiran,  
 the god of Thippuliyur that is like a thilagam for southern Kuṭṭanaḍu  
 surrounded by beautiful mountain-like palaces  
@@ -12265,11 +12266,11 @@ with porches studded with precious jewels.
 The only way to make her happy is to make her inhale  
 the fragrance of the fresh thulasi garland of the lord."  
 
-3661 நேர்பட்ட நிறை மூவுலகுக்கும் நாயகன் தன் அடிமை  
-நேர்பட்ட தொண்டர் தொண்டர் தொண்டர் தொண்டன் சடகோபன் சொல்  
-நேர்பட்ட தமிழ் மாலை ஆயிரத்துள் இவை பத்தும்  
-நேர்பட்டார் அவர் நேர்பட்டார் நெடுமாற்கு அடிமை செய்யவே (11)  
-3661. Saḍagopan, the devotee of the devotees  
+३६६१ नेर्बट्ट निऱै मूवुलगुक्कुम् नायगन् तन् अडिमै  
+नेर्बट्ट तॊण्डर् तॊण्डर् तॊण्डर् तॊण्डन् सडगोबन् सॊल्  
+नेर्बट्ट तमिऴ् मालै आयिरत्तुळ् इवै पत्तुम्  
+नेर्बट्टार् अवर् नेर्बट्टार् नॆडुमाऱ्‌कु अडिमै सॆय्यवे (११)  
+३६६१। Saḍagopan, the devotee of the devotees  
 of the devotees of the devotees,  
 became the slave of the lord of the marvelous three worlds  
 and composed a garland of a thousand Tamil pasurams.  
@@ -12278,18 +12279,18 @@ they will have the fortune
 of becoming the slaves of Neḍumal.  
 ------------  
 
-திருவாய்மொழி எட்டாம் பத்து (பத்தாம் திருமொழி, 3662-3672)  
-பாகவதர்களுக்குத் தாம் அடிமையாயிருக்கும் உண்மையை ஆழ்வார் பேசுதல்  
+तिरुवाय्मॊऴि ऎट्टाम् पत्तु (पत्ताम् तिरुमॊऴि, ३६६२-३६७२)  
+भागवदर्गळुक्कुत् ताम् अडिमैयायिरुक्कुम् उण्मैयै आऴ्वार् पेसुदल्  
 
-3662 நெடுமாற்கு அடிமை செய்வேன்போல்  
-அவனைக் கருத வஞ்சித்து  
-தடுமாற்று அற்ற தீக்கதிகள் முற்றும்  
-தவிர்ந்த சதிர் நினைந்தால்  
-கொடு மா வினையேன் அவன் அடியார்  
-அடியே கூடும் இது அல்லால்  
-விடுமாறு என்பது என் அந்தோ!  
-வியன் மூவுலகு பெறினுமே? (1)  
-3662. If someone dances and wants  
+३६६२ नॆडुमाऱ्‌कु अडिमै सॆय्वेन्बोल्  
+अवनैक् करुद वञ्जित्तु  
+तडुमाट्रु अट्र तीक्गतिगळ् मुट्रुम्  
+तविर्न्द सदिर् निनैन्दाल्  
+कॊडु मा विनैयेन् अवन् अडियार्  
+अडिये कूडुम् इदु अल्लाल्  
+विडुमाऱु ऎन्बदु ऎन् अन्दो!  
+वियन् मूवुलगु पॆऱिनुमे? (१)  
+३६६२। If someone dances and wants  
 to become a slave of Neḍumaal without cheating him,  
 and if he wants to remove his karma  
 and join the feet of the god’s devotees  
@@ -12297,15 +12298,15 @@ what achievement could be better than that?
 It is better to serve the devotees of the lord  
 than to get the three wide worlds.  
 
-3663 வியன் மூவுலகு பெறினும் போய்  
-தானே தானே ஆனாலும்  
-புயல் மேகம்போல் திருமேனி  
-அம்மான் புனை பூம் கழல் அடிக்கீழ்ச்  
-சயமே அடிமை தலைநின்றார்  
-திருத்தாள் வணங்கி இம்மையே  
-பயனே இன்பம் யான் பெற்றது  
-உறுமோ பாவியேனுக்கே? (2)  
-3663. Even if I were to get all the three wide worlds  
+३६६३ वियन् मूवुलगु पॆऱिनुम् पोय्  
+ताने ताने आनालुम्  
+पुयल् मेगम्बोल् तिरुमेनि  
+अम्मान् पुनै पूम् कऴल् अडिक्कीऴ्च्  
+चयमे अडिमै तलैनिण्ड्रार्  
+तिरुत्ताळ् वणङ्गि इम्मैये  
+पयने इन्बम् यान् पॆट्रदु  
+उऱुमो पावियेनुक्के? (२)  
+३६६३। Even if I were to get all the three wide worlds  
 and became the unrivaled king of those worlds  
 would it be equal to the joy  
 of serving in this birth the devotees of god as his slave  
@@ -12314,15 +12315,15 @@ They abide beneath the ankleted feet
 of the god whose divine body is dark as a cloud.  
 How could I get their good fortune in this birth?  
 
-3664 உறுமோ பாவியேனுக்கு இவ்  
-உலகம் மூன்றும் உடன் நிறைய  
-சிறு மா மேனி நிமிர்த்த என்  
-செந்தாமரைக்கண் திருக்குறளன்  
-நறு மா விரை நாள் மலர் அடிக்கீழ்ப்  
-புகுதல் அன்றி அவன் அடியார்  
-சிறு மா மனிசராய் என்னை  
-ஆண்டார் இங்கே திரியவே? (3)  
-3664. The lord with beautiful lotus eyes  
+३६६४ उऱुमो पावियेनुक्कु इव्  
+उलगम् मूण्ड्रुम् उडन् निऱैय  
+सिऱु मा मेनि निमिर्त्त ऎन्  
+सॆन्दामरैक्कण् तिरुक्कुऱळन्  
+नऱु मा विरै नाळ् मलर् अडिक्कीऴ्प्  
+पुगुदल् अण्ड्रि अवन् अडियार्  
+सिऱु मा मनिसराय् ऎन्नै  
+आण्डार् इङ्गे तिरियवे? (३)  
+३६६४। The lord with beautiful lotus eyes  
 took the form of a small divine dwarf  
 and measured all the three worlds.  
 I don’t want even to stay  
@@ -12332,15 +12333,15 @@ of being the devotee of his devotees,
 ruled by them and they wander on this earth as ordinary people.  
 
 
-3665 இங்கே திரிந்தேற்கு இழுக்கு உற்று என்  
-இரு மா நிலம் முன் உண்டு உமிழ்ந்த  
-செங்கோலத்த பவளவாய்ச்  
-செந்தாமரைக்கண் என் அம்மான்  
-பொங்கு ஏழ் புகழ்கள் வாய ஆய்  
-புலன்கொள் வடிவு என் மனத்தது ஆய்  
-அங்கு ஏய் மலர்கள் கைய ஆய்  
-வழிபட்டு ஓட அருளிலே? (4)  
-3665. What is wrong if I run behind the devotees  
+३६६५ इङ्गे तिरिन्देऱ्‌कु इऴुक्कु उट्रु ऎन्  
+इरु मा निलम् मुन् उण्डु उमिऴ्न्द  
+सॆङ्गोलत्त पवळवाय्च्  
+चॆन्दामरैक्कण् ऎन् अम्मान्  
+पॊङ्गु एऴ् पुगऴ्गळ् वाय आय्  
+पुलन्गॊळ् वडिवु ऎन् मनत्तदु आय्  
+अङ्गु एय् मलर्गळ् कैय आय्  
+वऴिबट्टु ओड अरुळिले? (४)  
+३६६५। What is wrong if I run behind the devotees  
 of the lotus-eyed lord to get their grace  
 as they carry flowers in their beautiful hands,  
 sing his abundant praise with their mouths  
@@ -12348,15 +12349,15 @@ and keep his form in their minds as all their senses
 enjoy my father who has beautiful lotus eyes and a red coral mouth,  
 the god who swallowed the large world and spit it out.  
 
-3666 வழிபட்டு ஓட அருள் பெற்று  
-மாயன் கோல மலர் அடிக்கீழ்ச்  
-சுழிபட்டு ஓடும் சுடர்ச்சோதி  
-வெள்ளத்து இன்புற்று இருந்தாலும்  
-இழிபட்டு ஓடும் உடலினில்  
-பிறந்து தன் சீர் யான் கற்று  
-மொழிபட்டு ஓடும் கவிஅமுதம்  
-நுகர்ச்சி உறுமோ முழுதுமே? (5)  
-3666. Even if someone worships, receives the grace of Maayan,  
+३६६६ वऴिबट्टु ओड अरुळ् पॆट्रु  
+मायन् कोल मलर् अडिक्कीऴ्च्  
+चुऴिबट्टु ओडुम् सुडर्च्चोदि  
+वॆळ्ळत्तु इन्बुट्रु इरुन्दालुम्  
+इऴिबट्टु ओडुम् उडलिनिल्  
+पिऱन्दु तन् सीर् यान् कट्रु  
+मॊऴिबट्टु ओडुम् कविअमुदम्  
+नुगर्चि उऱुमो मुऴुदुमे? (५)  
+३६६६। Even if someone worships, receives the grace of Maayan,  
 and, staying beneath his beautiful lotus feet,  
 experiences bliss in a flood of glowing light  
 as it flows like swirling, running water,  
@@ -12366,60 +12367,60 @@ so he feels as if he were flying
 even though his body is not pure enough  
 to sing those pasurams?  
 
-3667 நுகர்ச்சி உறுமோ மூவுலகின்  
-வீடு பேறு தன் கேழ் இல்  
-புகர்ச் செம் முகத்த களிறு அட்ட  
-பொன் ஆழிக்கை என் அம்மான்  
-நிகர்ச் செம் பங்கி எரி விழிகள்  
-நீண்ட அசுரர் உயிர் எல்லாம்  
-தகர்த்து உண்டு உழலும் புள் பாகன்  
-பெரிய தனி மாப் புகழே? (6)  
-3667. The lord, carrying a discus and riding on Garuḍa,  
+३६६७ नुगर्चि उऱुमो मूवुलगिन्  
+वीडु पेऱु तन् केऴ् इल्  
+पुगर्च् चॆम् मुगत्त कळिऱु अट्ट  
+पॊन् आऴिक्कै ऎन् अम्मान्  
+निगर्च् चॆम् पङ्गि ऎरि विऴिगळ्  
+नीण्ड असुरर् उयिर् ऎल्लाम्  
+तगर्त्तु उण्डु उऴलुम् पुळ् भागन्  
+पॆरिय तनि माप् पुगऴे? (६)  
+३६६७। The lord, carrying a discus and riding on Garuḍa,  
 killed many red-haired Asurans with burning eyes  
 and he also destroyed the elephant with a dotted face.  
 Even the joy of hearing the great fame of the lord and reaching moksha  
 is not equal to the happiness someone can receive  
 singing the pasurams that praise the lord.  
 
-3668 தனி மாப் புகழே எஞ்ஞான்றும்  
-நிற்கும் படியாத் தான் தோன்றி  
-முனி மாப் பிரம முதல் வித்தாய்  
-உலகம் மூன்றும் முளைப்பித்த  
-தனி மாத் தெய்வத் தளிர் அடிக்கீழ்ப்  
-புகுதல் அன்றி அவன் அடியார்  
-நனி மாக் கலவி இன்பமே  
-நாளும் வாய்க்க நங்கட்கே (7)  
-3668. I would like to stay beneath the feet,  
+३६६८ तनि माप् पुगऴे ऎञ्ञाण्ड्रुम्  
+निऱ्‌कुम् पडियात् तान् तोण्ड्रि  
+मुनि माप् पिरम मुदल् वित्ताय्  
+उलगम् मूण्ड्रुम् मुळैप्पित्त  
+तनि मात् तॆय्वत् तळिर् अडिक्कीऴ्प्  
+पुगुदल् अण्ड्रि अवन् अडियार्  
+ननि माक् कलवि इन्बमे  
+नाळुम् वाय्क्क नङ्गट्के (७)  
+३६६८। I would like to stay beneath the feet,  
 gentle as shoots, of the unique divine lord  
 whose fame is excellent and everlasting  
 and who created the sage Brahma and the three worlds,  
 but it is better to receive the joy of joining always  
 the devotees who sing and praise the ancient god.  
 
-3669 நாளும் வாய்க்க நங்கட்கு  
-நளிர் நீர்க் கடலைப் படைத்து தன்  
-தாளும் தோளும் முடிகளும்  
-சமன் இலாத பல பரப்பி  
-நீளும் படர் பூங் கற்பகக்  
-காவும் நிறை பல் நாயிற்றின்  
-கோளும் உடைய மணி மலைபோல்  
-கிடந்தான் தமர்கள் கூட்டமே. (8)  
-3669. Our lord created the cool ocean of abundant water  
+३६६९ नाळुम् वाय्क्क नङ्गट्कु  
+नळिर् नीर्क् कडलैप् पडैत्तु तन्  
+ताळुम् तोळुम् मुडिगळुम्  
+समन् इलाद पल परप्पि  
+नीळुम् पडर् पूङ् गऱ्‌पगक्  
+कावुम् निऱै पल् नायिट्रिन्  
+कोळुम् उडैय मणि मलैबोल्  
+किडन्दान् तमर्गळ् कूट्टमे। (८)  
+३६६९। Our lord created the cool ocean of abundant water  
 and lies on it like a mountain of jewels  
 with the stars for his matchless arms and legs  
 that are like the branches of the divine Karpaga tree  
 as he wears a crown that shines like many suns.  
 I long for the bliss of joining the devotees of the god.  
 
-3670 தமர்கள் கூட்ட வல்வினையை  
-நாசம் செய்யும் சது மூர்த்தி  
-அமர் கொள் ஆழி சங்கு வாள்  
-வில் தண்டு ஆதி பல் படையன்  
-குமரன் கோல ஐங்கணை வேள்  
-தாதை கோது இல் அடியார் தம்  
-தமர்கள் தமர்கள் தமர்களாம்  
-சதிரே வாய்க்க தமியேற்கே (9)  
-3670. The lord dances on a pot  
+३६७० तमर्गळ् कूट्ट वल्विनैयै  
+नासम् सॆय्युम् सदु मूर्त्ति  
+अमर् कॊळ् आऴि सङ्गु वाळ्  
+विल् तण्डु आदि पल् पडैयन्  
+कुमरन् कोल ऐङ्गणै वेळ्  
+तादै कोदु इल् अडियार् तम्  
+तमर्गळ् तमर्गळ् तमर्गळाम्  
+सदिरे वाय्क्क तमियेऱ्‌के (९)  
+३६७०। The lord dances on a pot  
 and destroys the bad karma of his worshipers.  
 He carries many weapons—  
 a discus, conch, sword, bow and club.  
@@ -12428,45 +12429,45 @@ who carries five beautiful flower arrows.
 I long to be a faultless devotee of the devotees  
 of the devotees of the devotees of the lord.  
 
-3671 வாய்க்க தமியேற்கு ஊழிதோறு  
-ஊழி ஊழி மா காயாம்  
-பூக் கொள் மேனி நான்கு தோள்  
-பொன் ஆழிக் கை என் அம்மான்  
-நீக்கம் இல்லா அடியார் தம்  
-அடியார் அடியார் அடியார் எம்  
-கோக்கள் அவர்க்கே குடிகளாய்ச்  
-செல்லும் நல்ல கோட்பாடே (10)  
-3671. My father has four arms and a dark body like a flower.  
+३६७१ वाय्क्क तमियेऱ्‌कु ऊऴिदोऱु  
+ऊऴि ऊऴि मा कायाम्  
+पूक् कॊळ् मेनि नान्गु तोळ्  
+पॊन् आऴिक् कै ऎन् अम्मान्  
+नीक्कम् इल्ला अडियार् तम्  
+अडियार् अडियार् अडियार् ऎम्  
+कोक्कळ् अवर्क्के कुडिगळाय्च्  
+चॆल्लुम् नल्ल कोट्पाडे (१०)  
+३६७१। My father has four arms and a dark body like a flower.  
 He carries a golden discus in his hand and abides eon after eon.  
 My only wish is to be the slave  
 of the devotees of the devotees of the devotees of him.  
 They are my lords, for they never leave our god.  
 
-3672 நல்ல கோட்பாட்டு உலகங்கள்  
-மூன்றினுள்ளும் தான் நிறைந்த  
-அல்லிக் கமலக் கண்ணனை  
-அம் தண் குருகூர்ச் சடகோபன்  
-சொல்லப்பட்ட ஆயிரத்துள்  
-இவையும் பத்தும் வல்லார்கள்  
-நல்ல பதத்தால் மனை வாழ்வர்  
-கொண்ட பெண்டீர் மக்களே (11)  
-3672. Saḍagopan of cool, lovely Thirukuruhur  
+३६७२ नल्ल कोट्पाट्टु उलगङ्गळ्  
+मूण्ड्रिनुळ्ळुम् तान् निऱैन्द  
+अल्लिक् कमलक् कण्णनै  
+अम् तण् गुरुगूर्च् चडगोबन्  
+सॊल्लप्पट्ट आयिरत्तुळ्  
+इवैयुम् पत्तुम् वल्लार्गळ्  
+नल्ल पदत्ताल् मनै वाऴ्वर्  
+कॊण्ड पॆण्डीर् मक्कळे (११)  
+३६७२। Saḍagopan of cool, lovely Thirukuruhur  
 composed a thousand pasurams on lotus-eyed Kaṇṇan,  
 the god of all the three worlds that follow good beliefs.  
 If devotees learn and recite these ten pasurams  
 they will live happily with their wives and children on the earth.  
 ----------------  
-நம்மாழ்வார் திருவாய் மொழி ஒன்பதாம் பத்து (3673 - 3783)  
-Divyaprabhandam - Thiruvaymozhi - Onpataam Pathu 3673-3783  
-திருவாய்மொழி ஒன்பதாம் பத்து (முதல் திருமொழி, 3673-3683)  
-கர்மவசத்தால் கிட்டிய பத்துக்களை விட்டு எல்லா வகையிலும்  
-உறவினனான திருமாலைச் சேரும் எனல் (வடமதுரை)  
+नम्माऴ्वार् तिरुवाय् मॊऴि ऒन्बदाम् पत्तु (३६७३ - ३७८३)  
+Divyaprabhandam - Thiruvaymozhi - Onpataam Pathu ३६७३-३७८३  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (मुदल् तिरुमॊऴि, ३६७३-३६८३)  
+कर्मवसत्ताल् किट्टिय पत्तुक्कळै विट्टु ऎल्ला वगैयिलुम्  
+उऱविननान तिरुमालैच् चेरुम् ऎनल् (वडमदुरै)  
 
-3673 கொண்ட பெண்டிர் மக்கள் உற்றார் சுற்றத்தவர் பிறரும்  
-கண்டதோடு பட்டது அல்லால் காதல் மற்று யாதும் இல்லை  
-எண் திசையும் கீழும் மேலும் முற்றவும் உண்ட பிரான்  
-தொண்டரோமாய் உய்யல் அல்லால் இல்லை கண்டீர் துணையே (1)  
-3673. The love that wives, children, relatives,  
+३६७३ कॊण्ड पॆण्डिर् मक्कळ् उट्रार् सुट्रत्तवर् पिऱरुम्  
+कण्डदोडु पट्टदु अल्लाल् कादल् मट्रु यादुम् इल्लै  
+ऎण् तिसैयुम् कीऴुम् मेलुम् मुट्रवुम् उण्ड पिरान्  
+तॊण्डरोमाय् उय्यल् अल्लाल् इल्लै कण्डीर् तुणैये (१)  
+३६७३। The love that wives, children, relatives,  
 neighbors and others show is not real,  
 it only appears to be true love.  
 The only thing that can help us  
@@ -12474,11 +12475,11 @@ is to become the devotee of the all-powerful god
 who swallowed the eight directions  
 and everything above and below it.  
 
-3674 துணையும் சார்வும் ஆகுவார் போல் சுற்றத்தவர் பிறரும்  
-அணைய வந்த ஆக்கம் உண்டேல் அட்டைகள்போல் சுவைப்பர்  
-கணை ஒன்றாலே ஏழ் மரமும் எய்த எம் கார் முகிலைப்  
-புணை என்று உய்யப் போகல் அல்லால் இல்லை கண்டீர் பொருளே (2)  
-3674. Friends, relatives, neighbors  
+३६७४ तुणैयुम् सार्वुम् आगुवार् पोल् सुट्रत्तवर् पिऱरुम्  
+अणैय वन्द आक्कम् उण्डेल् अट्टैगळ्बोल् सुवैप्पर्  
+कणै ऒण्ड्राले एऴ् मरमुम् ऎय्द ऎम् कार् मुगिलैप्  
+पुणै ऎण्ड्रु उय्यप् पोगल् अल्लाल् इल्लै कण्डीर् पॊरुळे (२)  
+३६७४। Friends, relatives, neighbors  
 and others will cling to you like leeches if you have wealth.  
 They will enjoy it and leave you if you become poor.  
 He shot one arrow and destroyed the seven maraa trees.  
@@ -12486,11 +12487,11 @@ There is no help for you unless you take refuge
 in the dark cloud-colored god.  
 He is like a boat in the storm of life.  
 
-3675 பொருள் கை உண்டாய்ச் செல்லக்காணில் போற்றி என்று ஏற்று எழுவர்  
-இருள்கொள் துன்பத்து இன்மை காணில் என்னே என்பாரும் இல்லை  
-மருள்கொள் செய்கை அசுரர் மங்க வடமதுரைப் பிறந்தாற்கு  
-அருள்கொள் ஆளாய் உய்யல் அல்லால் இல்லை கண்டீர் அரணே (3)  
-3675. If you have wealth in your hands  
+३६७५ पॊरुळ् कै उण्डाय्च् चॆल्लक्काणिल् पोट्रि ऎण्ड्रु एट्रु ऎऴुवर्  
+इरुळ्गॊळ् तुन्बत्तु इन्मै काणिल् ऎन्ने ऎन्बारुम् इल्लै  
+मरुळ्गॊळ् सॆय्गै असुरर् मङ्ग वडमदुरैप् पिऱन्दाऱ्‌कु  
+अरुळ्गॊळ् आळाय् उय्यल् अल्लाल् इल्लै कण्डीर् अरणे (३)  
+३६७५। If you have wealth in your hands  
 everyone will stay with you and say, "We praise you!"  
 and enjoy your wealth,  
 but if, as if you were entering darkness, you become poor,  
@@ -12501,11 +12502,11 @@ There is no refuge for you
 unless you become the devotee of the lord  
 born in northern Madhura.  
 
-3676 அரணம் ஆவர் அற்ற காலைக்கு என்று என்று அமைக்கப்பட்டார்  
-இரணம் கொண்ட தெப்பர் ஆவர் இன்றியிட்டாலும் அஃதே  
-வருணித்து என்னே வடமதுரைப் பிறந்தவன் வண் புகழே  
-சரண் என்று உய்யப் போகல் அல்லால் இல்லை கண்டீர் சதிரே (4)  
-3676. People think their friends will help them  
+३६७६ अरणम् आवर् अट्र कालैक्कु ऎण्ड्रु ऎण्ड्रु अमैक्कप्पट्टार्  
+इरणम् कॊण्ड तॆप्पर् आवर् इण्ड्रियिट्टालुम् अह्दे  
+वरुणित्तु ऎन्ने वडमदुरैप् पिऱन्दवन् वण् पुगऴे  
+सरण् ऎण्ड्रु उय्यप् पोगल् अल्लाल् इल्लै कण्डीर् सदिरे (४)  
+३६७६। People think their friends will help them  
 when they are in need and keep them with them,  
 but those they trust will be useless  
 like a boat with a hole in it.  
@@ -12516,11 +12517,11 @@ There are no good times and no protection in life
 unless you find refuge praising the generous fame  
 of the lord born in northern Madhura.  
 
-3677 சதுரம் என்று தம்மைத் தாமே சம்மதித்து இன்மொழியார்  
-மதுர போகம் துற்றவரே வைகி மற்று ஒன்று உறுவர்  
-அதிர்கொள் செய்கை அசுரர் மங்க வடமதுரைப் பிறந்தாற்கு  
-எதிர்கொள் ஆளாய் உய்யல் அல்லால் இல்லை கண்டீர் இன்பமே (5)  
-3677. The god, born in northern Madhura,  
+३६७७ सदुरम् ऎण्ड्रु तम्मैत् तामे सम्मदित्तु इन्मॊऴियार्  
+मदुर पोगम् तुट्रवरे वैगि मट्रु ऒण्ड्रु उऱुवर्  
+अदिर्गॊळ् सॆय्गै असुरर् मङ्ग वडमदुरैप् पिऱन्दाऱ्‌कु  
+ऎदिर्गॊळ् आळाय् उय्यल् अल्लाल् इल्लै कण्डीर् इन्बमे (५)  
+३६७७। The god, born in northern Madhura,  
 fought and destroyed the cruel Asurans.  
 Those who think that a happy life  
 is to live with women whose words are sweet  
@@ -12528,11 +12529,11 @@ and to experience honey-like pleasure with them
 will be chased away by those women when they become poor.  
 There is no way to survive unless you becomes a devotee of the god.  
 
-3678 இல்லை கண்டீர் இன்பம் அந்தோ உள்ளது நினையாதே  
-தொல்லையார்கள் எத்தனைவர் தோன்றிக் கழிந்தொழிந்தார்  
-மல்லை மூதூர் வடமதுரைப் பிறந்தவன் வண் புகழே  
-சொல்லி உய்யப் போகல் அல்லால் மற்றொன்று இல்லை சுருக்கே (6)  
-3678. There is no joy in this world.  
+३६७८ इल्लै कण्डीर् इन्बम् अन्दो उळ्ळदु निनैयादे  
+तॊल्लैयार्गळ् ऎत्तनैवर् तोण्ड्रिक् कऴिन्दॊऴिन्दार्  
+मल्लै मूदूर् वडमदुरैप् पिऱन्दवन् वण् पुगऴे  
+सॊल्लि उय्यप् पोगल् अल्लाल् मट्रॊण्ड्रु इल्लै सुरुक्के (६)  
+३६७८। There is no joy in this world.  
 So many people have been born and died  
 never learning the truth of life.  
 The only refuge for you is to praise  
@@ -12540,22 +12541,22 @@ the generous fame of the god
 who was born in ancient flourishing northern Madhura.  
 This is my humble advice to you.  
 
-3679 மற்றொன்று இல்லை சுருங்கச் சொன்னோம் மா நிலத்து எவ் உயிர்க்கும்  
-சிற்ற வேண்டா சிந்திப்பே அமையும் கண்டீர்கள் அந்தோ  
-குற்றம் அன்று எங்கள் பெற்றத் தாயன் வடமதுரைப் பிறந்தான்  
-குற்றம் இல் சீர் கற்று வைகல் வாழ்தல் கண்டீர் குணமே (7)  
-3679. I would like to say one thing briefly.  
+३६७९ मट्रॊण्ड्रु इल्लै सुरुङ्गच् चॊन्नोम् मा निलत्तु ऎव् उयिर्क्कुम्  
+सिट्र वेण्डा सिन्दिप्पे अमैयुम् कण्डीर्गळ् अन्दो  
+कुट्रम् अण्ड्रु ऎङ्गळ् पॆट्रत् तायन् वडमदुरैप् पिऱन्दान्  
+कुट्रम् इल् सीर् कट्रु वैगल् वाऴ्दल् कण्डीर् कुणमे (७)  
+३६७९। I would like to say one thing briefly.  
 Don’t worry. Think deeply about what you should do.  
 There is no other way for any life on the earth.  
 It is not wrong to live every day  
 praising the faultless greatness of the lord  
 born in northern Madhura, our father and creator.  
 
-3680 வாழ்தல் கண்டீர் குணம் இது அந்தோ மாயவன் அடி பரவிப்  
-போழ்து போக உள்ளகிற்கும் புன்மை இலாதவர்க்கு  
-வாழ் துணையா வடமதுரைப் பிறந்தவன் வண் புகழே  
-வீழ் துணையாப் போம் இதனில் யாதும் இல்லை மிக்கதே (8)  
-3680. The best way is to live praising him.  
+३६८० वाऴ्दल् कण्डीर् कुणम् इदु अन्दो मायवन् अडि परविप्  
+पोऴ्दु पोग उळ्ळगिऱ्‌कुम् पुन्मै इलादवर्क्कु  
+वाऴ् तुणैया वडमदुरैप् पिऱन्दवन् वण् पुगऴे  
+वीऴ् तुणैयाप् पोम् इदनिल् यादुम् इल्लै मिक्कदे (८)  
+३६८०। The best way is to live praising him.  
 What a wonder!  
 For those who are not mean and pass their time  
 praising the feet of Maayavan  
@@ -12563,11 +12564,11 @@ there is nothing better than praising the generous fame
 of the lord, born in northern Madhura  
 and lovingly thinking of him as their refuge.  
 
-3681 யாதும் இல்லை மிக்கு அதனில் என்று என்று அது கருதி  
-காது செய்வான் கூதை செய்து கடைமுறை வாழ்க்கையும் போம்  
-மா துகிலின் கொடிக்கொள் மாட வடமதுரைப் பிறந்த  
-தாது சேர் தோள் கண்ணன் அல்லால் இல்லை கண்டீர் சரணே (9)  
-3681. If someone pursues useless things  
+३६८१ यादुम् इल्लै मिक्कु अदनिल् ऎण्ड्रु ऎण्ड्रु अदु करुदि  
+कादु सॆय्वान् कूदै सॆय्दु कडैमुऱै वाऴ्क्कैयुम् पोम्  
+मा तुगिलिन् कॊडिक्कॊळ् माड वडमदुरैप् पिऱन्द  
+तादु सेर् तोळ् कण्णन् अल्लाल् इल्लै कण्डीर् सरणे (९)  
+३६८१। If someone pursues useless things  
 thinking nothing is better, he will lose his life.  
 It is as if someone kept enlarging the holes in his ears  
 until they are so big he cannot wear earrings.  
@@ -12575,11 +12576,11 @@ There is no refuge except Kaṇṇan, born in northern Madhura
 filled with palaces where silk-like flags fly  
 whose feet are adorned with garlands dripping with pollen.  
 
-3682 கண்ணன் அல்லால் இல்லை கண்டீர் சரண் அது நிற்க வந்து  
-மண்ணின் பாரம் நீக்குதற்கே வடமதுரைப் பிறந்தான்  
-திண்ணமா நும் உடைமை உண்டேல் அவன் அடி சேர்த்து உய்ம்மினோ  
-எண்ண வேண்டா நும்மது ஆதும் அவன் அன்றி மற்று இல்லையே (10)  
-3682. There is no refuge except Kaṇṇan.  
+३६८२ कण्णन् अल्लाल् इल्लै कण्डीर् सरण् अदु निऱ्‌क वन्दु  
+मण्णिन् पारम् नीक्कुदऱ्‌के वडमदुरैप् पिऱन्दान्  
+तिण्णमा नुम् उडैमै उण्डेल् अवन् अडि सेर्त्तु उय्म्मिनो  
+ऎण्ण वेण्डा नुम्मदु आदुम् अवन् अण्ड्रि मट्रु इल्लैये (१०)  
+३६८२। There is no refuge except Kaṇṇan.  
 He was born in northern Madhura  
 to take away the sufferings of the earth.  
 If you have any wealth, lay it at his feet  
@@ -12589,11 +12590,11 @@ Don’t think otherwise.
 Anything that belongs to you is his  
 and there is nothing that does not belong to him.  
 
-3683 ஆதும் இல்லை மற்று அவனில் என்று அதுவே துணிந்து  
-தாது சேர் தோள் கண்ணனைக் குருகூர்ச் சடகோபன் சொன்ன  
-தீது இலாத ஒண் தமிழ்கள் இவை ஆயிரத்துள் இப் பத்தும்  
-ஓத வல்ல பிராக்கள் நம்மை ஆளுடையார்கள் பண்டே (11)  
-3683. Saḍagopan of Thirukuruhur,  
+३६८३ आदुम् इल्लै मट्रु अवनिल् ऎण्ड्रु अदुवे तुणिन्दु  
+तादु सेर् तोळ् कण्णनैक् गुरुगूर्च् चडगोबन् सॊन्न  
+तीदु इलाद ऒण् तमिऴ्गळ् इवै आयिरत्तुळ् इप् पत्तुम्  
+ओद वल्ल पिराक्कळ् नम्मै आळुडैयार्गळ् पण्डे (११)  
+३६८३। Saḍagopan of Thirukuruhur,  
 thinking devotedly that there is nothing  
 other than the god himself,  
 composed a thousand beautiful faultless Tamil pasurams  
@@ -12602,19 +12603,19 @@ If devotees learn and recite these ten wonderful Tamil pasurams
 they will be like our esteemed ancestors.  
 -----------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (இரண்டாம் திருமொழி, 3684-3694)  
-எல்லா உறவின் காரியமும் தமக்குக் குறைவில்லாமல் அருளுமாறு  
-ஆழ்வார் எம்பெருமானைப் பிரார்த்தித்தல் (திருப்புளிங்குடி)  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (इरण्डाम् तिरुमॊऴि, ३६८४-३६९४)  
+ऎल्ला उऱविन् कारियमुम् तमक्कुक् कुऱैविल्लामल् अरुळुमाऱु  
+आऴ्वार् ऎम्बॆरुमानैप् पिरार्त्तित्तल् (तिरुप्पुळिङ्गुडि)  
 
-3684 பண்டை நாளாலே நின் திரு அருளும்  
-பங்கயத்தாள் திரு அருளும்  
-கொண்டு நின் கோயில் சீய்த்து பல்படிகால்  
-குடிகுடி வழிவந்து ஆட்செய்யும்  
-தொண்டரோர்க்கு அருளி சோதி வாய் திறந்து உன்  
-தாமரைக் கண்களால் நோக்காய்  
-தெண் திரைப் பொருநல் தண் பணை சூழ்ந்த  
-திருப்புளிங்குடிக் கிடந்தானே (1)  
-3684. You are the lord of Thirupuḷinguḍi  
+३६८४ पण्डै नाळाले निन् तिरु अरुळुम्  
+पङ्गयत्ताळ् तिरु अरुळुम्  
+कॊण्डु निन् कोयिल् सीय्त्तु पल्बडिगाल्  
+कुडिगुडि वऴिवन्दु आट्चॆय्युम्  
+तॊण्डरोर्क्कु अरुळि सोदि वाय् तिऱन्दु उन्  
+तामरैक् कण्गळाल् नोक्काय्  
+तॆण् तिरैप् पॊरुनल् तण् पणै सूऴ्न्द  
+तिरुप्पुळिङ्गुडिक् किडन्दाने (१)  
+३६८४। You are the lord of Thirupuḷinguḍi  
 surrounded by flourishing fields  
 near the ocean that rolls with clear waves.  
 Devotees come to the temple generation after generation  
@@ -12623,15 +12624,15 @@ have given divine grace to all from ancient times.
 Open your divine mouth and give your grace,  
 looking at your devotees with your lotus eyes.  
 
-3685 குடிக்கிடந்து ஆக்கம் செய்து நின் தீர்த்த  
-அடிமைக் குற்றேவல்செய்து உன் பொன்  
-அடிக் கடவாதே வழி வருகின்ற  
-அடியரோர்க்கு அருளி நீ ஒருநாள்  
-படிக்கு அளவாக நிமிர்த்த நின் பாத  
-பங்கயமே தலைக்கு அணியாய்  
-கொடிக்கொள் பொன் மதிள் சூழ் குளிர் வயல் சோலை  
-திருப்புளிங்குடிக் கிடந்தானே (2)  
-3685. You have given your grace to the devotees  
+३६८५ कुडिक्किडन्दु आक्कम् सॆय्दु निन् तीर्त्त  
+अडिमैक् कुट्रेवल्सॆय्दु उन् पॊन्  
+अडिक् कडवादे वऴि वरुगिण्ड्र  
+अडियरोर्क्कु अरुळि नी ऒरुनाळ्  
+पडिक्कु अळवाग निमिर्त्त निन् पाद  
+पङ्गयमे तलैक्कु अणियाय्  
+कॊडिक्कॊळ् पॊन् मदिळ् सूऴ् कुळिर् वयल् सोलै  
+तिरुप्पुळिङ्गुडिक् किडन्दाने (२)  
+३६८५। You have given your grace to the devotees  
 who worship your golden feet and serve you as slaves  
 for generation after generation with their families.  
 Adorn my head by placing your lotus feet  
@@ -12639,15 +12640,15 @@ that measured the world upon it.
 You are the god of Thirupuḷinguḍi  
 surrounded by cool fields and golden walls where flags fly.  
 
-3686 கிடந்த நாள் கிடந்தாய் எத்தனை காலம்  
-கிடத்தி உன் திருஉடம்பு அசைய  
-தொடர்ந்து குற்றேவல்செய்து தொல் அடிமை  
-வழி வரும் தொண்டரோர்க்கு அருளி  
-தடம் கொள் தாமரைக் கண் விழித்து நீ எழுந்து உன்  
-தாமரை மங்கையும் நீயும்  
-இடம் கொள் மூவுலகும் தொழ இருந்தருளாய்  
-திருப்புளிங்குடிக் கிடந்தானே (3)  
-3686. How long can you sleep on the ocean?  
+३६८६ किडन्द नाळ् किडन्दाय् ऎत्तनै कालम्  
+किडत्ति उन् तिरुउडम्बु असैय  
+तॊडर्न्दु कुट्रेवल्सॆय्दु तॊल् अडिमै  
+वऴि वरुम् तॊण्डरोर्क्कु अरुळि  
+तडम् कॊळ् तामरैक् कण् विऴित्तु नी ऎऴुन्दु उन्  
+तामरै मङ्गैयुम् नीयुम्  
+इडम् कॊळ् मूवुलगुम् तॊऴ इरुन्दरुळाय्  
+तिरुप्पुळिङ्गुडिक् किडन्दाने (३)  
+३६८६। How long can you sleep on the ocean?  
 Doesn’t it pain your body?  
 Give your grace to us your slaves  
 who serve you ceaselessly generation after generation.  
@@ -12656,15 +12657,15 @@ with your wife Lakshmi on a lotus
 and, worshiped by all the three great worlds,  
 give us your grace, O lord of Thiruppulinguḍi.  
 
-3687 புளிங்குடிக் கிடந்து வரகுணமங்கை  
-இருந்து வைகுந்தத்துள் நின்று  
-தெளிந்த என் சிந்தையகம் கழியாதே  
-என்னை ஆள்வாய் எனக்கு அருளி  
-நளிர்ந்த சீர் உலகம் மூன்றுடன் வியப்ப  
-நாங்கள் கூத்து ஆடி நின்று ஆர்ப்ப  
-பளிங்கு நீர் முகிலின் பவளம் போல் கனிவாய்  
-சிவப்ப நீ காண வாராயே (4)  
-3687. In Thirupuḷinguḍi you recline, sleeping on the ocean,  
+३६८७ पुळिङ्गुडिक् किडन्दु वरगुणमङ्गै  
+इरुन्दु वैगुन्दत्तुळ् निण्ड्रु  
+तॆळिन्द ऎन् सिन्दैयगम् कऴियादे  
+ऎन्नै आळ्वाय् ऎनक्कु अरुळि  
+नळिर्न्द सीर् उलगम् मूण्ड्रुडन् वियप्प  
+नाङ्गळ् कूत्तु आडि निण्ड्रु आर्प्प  
+पळिङ्गु नीर् मुगिलिन् पवळम् पोल् कनिवाय्  
+सिवप्प नी काण वाराये (४)  
+३६८७। In Thirupuḷinguḍi you recline, sleeping on the ocean,  
 in Varagunamangai you are sitting  
 and in Vaikuṇṭam you stand.  
 Rule me, never leave my flawless heart.  
@@ -12673,15 +12674,15 @@ and a coral-red mouth as sweet as a fruit.
 Come and see us while we loudly sing your praise and dance  
 as all the three worlds look on in awe and wonder.  
 
-3688 பவளம்போல் கனி வாய் சிவப்ப நீ காண  
-வந்து நின் பல் நிலா முத்தம்  
-தவழ் கதிர் முறுவல் செய்து நின் திருக்கண்  
-தாமரை தயங்க நின்றருளாய்  
-பவள நன் படர்க்கீழ் சங்கு உறை பொருநல்  
-தண் திருப்புளிங்குடிக் கிடந்தாய்  
-கவள மா களிற்றின் இடர் கெடத் தடத்துக்  
-காய் சினப் பறவை ஊர்ந்தானே (5)  
-3688. In flourishing Thirupulinguḍi  
+३६८८ पवळम्बोल् कनि वाय् सिवप्प नी काण  
+वन्दु निन् पल् निला मुत्तम्  
+तवऴ् गतिर् मुऱुवल् सॆय्दु निन् तिरुक्कण्  
+तामरै तयङ्ग निण्ड्ररुळाय्  
+पवळ नन् पडर्क्कीऴ् सङ्गु उऱै पॊरुनल्  
+तण् तिरुप्पुळिङ्गुडिक् किडन्दाय्  
+कवळ मा कळिट्रिन् इडर् कॆडत् तडत्तुक्  
+काय् सिनप् पऱवै ऊर्न्दाने (५)  
+३६८८। In flourishing Thirupulinguḍi  
 you sleep on the ocean  
 where conches and corals are produced.  
 As you give your grace to us  
@@ -12692,15 +12693,15 @@ When a crocodile in a pond caught Gajendran,
 the elephant that ate large balls of rice,  
 you rode on an eagle and saved him.  
 
-3689 காய் சினப் பறவை ஊர்ந்து பொன் மலையின்  
-மீமிசைக் கார் முகில் போல  
-மா சின மாலி மாலிமான் என்று அங்கு  
-அவர் படக் கனன்று முன் நின்ற  
-காய் சின வேந்தே கதிர் முடியானே  
-கலி வயல் திருப்புளிங்குடியாய்  
-காய் சின ஆழி சங்கு வாள் வில் தண்டு  
-ஏந்தி எம் இடர் கடிவானே (6)  
-3689. Riding your angry eagle,  
+३६८९ काय् सिनप् पऱवै ऊर्न्दु पॊन् मलैयिन्  
+मीमिसैक् कार् मुगिल् पोल  
+मा सिन मालि मालिमान् ऎण्ड्रु अङ्गु  
+अवर् पडक् कनण्ड्रु मुन् निण्ड्र  
+काय् सिन वेन्दे गतिर् मुडियाने  
+कलि वयल् तिरुप्पुळिङ्गुडियाय्  
+काय् सिन आऴि सङ्गु वाळ् विल् तण्डु  
+एन्दि ऎम् इडर् कडिवाने (६)  
+३६८९। Riding your angry eagle,  
 you fought with the fearful Asurans Mali and Malimaan,  
 looking like a dark cloud on a golden hill.  
 You are adorned with a shining crown.  
@@ -12710,15 +12711,15 @@ You carry a discus, conch, sword, bow and club
 and angrily fight the Asurans in war,  
 taking away the troubles of everyone.  
 
-3690 எம் இடர் கடிந்து இங்கு என்னை ஆள்வானே  
-இமையவர் தமக்கும் ஆங்கு அனையாய்  
-செம் மடல் மலருந் தாமரைப் பழனத்  
-தண் திருப்புளிங்குடிக் கிடந்தாய்  
-நம்முடை அடியர் கவ்வைகண்டு உகந்து  
-நாம் களித்து உளம் நலம் கூர  
-இம் மட உலகர் காண நீ ஒருநாள்  
-இருந்திடாய் எங்கள் கண்முகப்பே (7)  
-3690. You took away our troubles and you rule us.  
+३६९० ऎम् इडर् कडिन्दु इङ्गु ऎन्नै आळ्वाने  
+इमैयवर् तमक्कुम् आङ्गु अनैयाय्  
+सॆम् मडल् मलरुन् दामरैप् पऴनत्  
+तण् तिरुप्पुळिङ्गुडिक् किडन्दाय्  
+नम्मुडै अडियर् कव्वैगण्डु उगन्दु  
+नाम् कळित्तु उळम् नलम् कूर  
+इम् मड उलगर् काण नी ऒरुनाळ्  
+इरुन्दिडाय् ऎङ्गळ् कण्मुगप्पे (७)  
+३६९०। You took away our troubles and you rule us.  
 You are the god of gods and relieve their suffering.  
 You stay in flourishing Thirupuḷinguḍi  
 filled with fields where lotuses with red petals bloom.  
@@ -12727,15 +12728,15 @@ so that the people of the beautiful world can see you
 and feel joy in their hearts  
 as they see your devotees praise you.  
 
-3691 எங்கள் கண் முகப்பே உலகர்கள் எல்லாம்  
-இணை அடி தொழுது எழுது இறைஞ்சி  
-தங்கள் அன்பு ஆர தமது சொல் வலத்தால்  
-தலைத்தலைச் சிறந்து பூசிப்ப  
-திங்கள் சேர் மாடத் திருப்புளிங்குடியாய்  
-திரு வைகுந்தத்துள்ளாய் தேவா  
-இங்கண் மா ஞாலத்து இதனுளும் ஒருநாள்  
-இருந்திடாய் வீற்று இடம் கொண்டே (8)  
-3691. You stay in Thirupuḷinguḍi  
+३६९१ ऎङ्गळ् कण् मुगप्पे उलगर्गळ् ऎल्लाम्  
+इणै अडि तॊऴुदु ऎऴुदु इऱैञ्जि  
+तङ्गळ् अन्बु आर तमदु सॊल् वलत्ताल्  
+तलैत्तलैच् चिऱन्दु पूसिप्प  
+तिङ्गळ् सेर् माडत् तिरुप्पुळिङ्गुडियाय्  
+तिरु वैगुन्दत्तुळ्ळाय् तेवा  
+इङ्गण् मा ञालत्तु इदनुळुम् ऒरुनाळ्  
+इरुन्दिडाय् वीट्रु इडम् कॊण्डे (८)  
+३६९१। You stay in Thirupuḷinguḍi  
 where the moon shines on the tops of the palaces.  
 All in the world worship your feet,  
 bow to you and praise you with loving words,  
@@ -12744,15 +12745,15 @@ O god, you stay in divine Vaikuṇṭam.
 One day you should come to this wide world  
 and stay here so that we can all see you.  
 
-3692 வீற்று இடம்கொண்டு வியன்கொள் மா ஞாலத்து  
-இதனுளும் இருந்திடாய் அடியோம்  
-போற்றி ஓவாதே கண் இணை குளிர  
-புது மலர் ஆகத்தைப் பருக  
-சேற்று இள வாளை செந்நெலூடு உகளும்  
-செழும் பனைத் திருப்புளிங்குடியாய்  
-கூற்றமாய் அசுரர் குலமுதல் அரிந்த  
-கொடுவினைப் படைகள் வல்லானே (9)  
-3692. You stay in Thirupuḷinguḍi  
+३६९२ वीट्रु इडम्गॊण्डु वियन्गॊळ् मा ञालत्तु  
+इदनुळुम् इरुन्दिडाय् अडियोम्  
+पोट्रि ओवादे कण् इणै कुळिर  
+पुदु मलर् आगत्तैप् परुग  
+सेट्रु इळ वाळै सॆन्नॆलूडु उगळुम्  
+सॆऴुम् पनैत् तिरुप्पुळिङ्गुडियाय्  
+कूट्रमाय् असुरर् कुलमुदल् अरिन्द  
+कॊडुविनैप् पडैगळ् वल्लाने (९)  
+३६९२। You stay in Thirupuḷinguḍi  
 flourishing with fields where vaalai fish frolic  
 among the good paddy plants growing in the wet mud.  
 Cruel as Yama with his strong weapons,  
@@ -12762,15 +12763,15 @@ so your devotees may see your divine body
 as their eyes rejoice  
 and they praise you without ceasing.  
 
-3693 கொடு வினைப் படைகள் வல்லையாய் அமரர்க்கு  
-இடர் கெட அசுரர்கட்கு இடர் செய்  
-கடு வினை நஞ்சே என்னுடை அமுதே  
-கலி வயல் திருப்புளிங்குடியாய்  
-வடிவு இணை இல்லா மலர்மகள் மற்றை  
-நிலமகள் பிடிக்கும் மெல் அடியைக்  
-கொடுவினையேனும் பிடிக்க நீ ஒருநாள்  
-கூவுதல் வருதல் செய்யாயே (10)  
-3693. You are the god of Thirupuḷinguḍi  
+३६९३ कॊडु विनैप् पडैगळ् वल्लैयाय् अमरर्क्कु  
+इडर् कॆड असुरर्गट्कु इडर् सॆय्  
+कडु विनै नञ्जे ऎन्नुडै अमुदे  
+कलि वयल् तिरुप्पुळिङ्गुडियाय्  
+वडिवु इणै इल्ला मलर्मगळ् मट्रै  
+निलमगळ् पिडिक्कुम् मॆल् अडियैक्  
+कॊडुविनैयेनुम् पिडिक्क नी ऒरुनाळ्  
+कूवुदल् वरुदल् सॆय्याये (१०)  
+३६९३। You are the god of Thirupuḷinguḍi  
 surrounded with flourishing fields.  
 You carry strong weapons for fighting dreadful battles.  
 You took away the troubles of the gods in the sky  
@@ -12781,15 +12782,15 @@ and the earth goddess massage your soft feet.
 Call me one day or come here  
 so I may massage your feet also.  
 
-3694 கூவுதல் வருதல் செய்திடாய் என்று  
-குரை கடல் கடைந்தவன் தன்னை  
-மேவி நன்கு அமர்ந்த வியன் புனல் பொருநல்  
-வழுதி நாடன் சடகோபன்  
-நா இயல் பாடல் ஆயிரத்துள்ளும்  
-இவையும் ஓர் பத்தும் வல்லார்கள்  
-ஓவுதல் இன்றி உலகம் மூன்று அளந்தான்  
-அடி இணை உள்ளத்து ஓர்வாரே (11)  
-3694. Saḍagopan of the Pandiyan land  
+३६९४ कूवुदल् वरुदल् सॆय्दिडाय् ऎण्ड्रु  
+कुरै कडल् कडैन्दवन् तन्नै  
+मेवि नन्गु अमर्न्द वियन् पुनल् पॊरुनल्  
+वऴुदि नाडन् सडगोबन्  
+ना इयल् पाडल् आयिरत्तुळ्ळुम्  
+इवैयुम् ओर् पत्तुम् वल्लार्गळ्  
+ओवुदल् इण्ड्रि उलगम् मूण्ड्रु अळन्दान्  
+अडि इणै उळ्ळत्तु ओर्वारे (११)  
+३६९४। Saḍagopan of the Pandiyan land  
 where pure water is abundant  
 composed a thousand musical pasurams  
 praising the lord who churned the roaring milky ocean.  
@@ -12800,25 +12801,25 @@ they will think in their hearts unceasingly
 of his two feet that measured the three worlds.  
 -----------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (மூன்றாம் திருமொழி, 3695-3705)  
-எம்பெருமானோடு உள்ள தொடர்பினைக் கண்ட ஆழ்வார் அவனது  
-சீலத்தில் ஈடுபட்டுக் கூறுதல்  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३६९५-३७०५)  
+ऎम्बॆरुमानोडु उळ्ळ तॊडर्बिनैक् कण्ड आऴ्वार् अवनदु  
+शीलत्तिल् ईडुबट्टुक् कूऱुदल्  
 
-3695 ஓர் ஆயிரமாய் உலகு ஏழ் அளிக்கும்  
-பேர் ஆயிரம் கொண்டது ஓர் பீடு உடையன்  
-கார் ஆயின காள நல் மேனியினன்  
-நாரயணன் நங்கள் பிரான் அவனே (1)  
-3695. He has a thousand names  
+३६९५ ओर् आयिरमाय् उलगु एऴ् अळिक्कुम्  
+पेर् आयिरम् कॊण्डदु ओर् पीडु उडैयन्  
+कार् आयिन काळ नल् मेनियिनन्  
+नारयणन् नङ्गळ् पिरान् अवने (१)  
+३६९५। He has a thousand names  
 and he has the fame  
 of protecting the seven worlds with his thousand names.  
 He has a divine body that is as dark as a cloud  
 and he is truly Narayanan, our dear lord.  
 
-3696 அவனே அகல் ஞாலம் படைத்து இடந்தான்  
-அவனே அஃது உண்டு உமிழ்ந்தான் அளந்தான்  
-அவனே அவனும் அவனும் அவனும்  
-அவனே மற்று எல்லாமும் அறிந்தனமே (2)  
-3696. He created the wide world and split it open.  
+३६९६ अवने अगल् ञालम् पडैत्तु इडन्दान्  
+अवने अह्दु उण्डु उमिऴ्न्दान् अळन्दान्  
+अवने अवनुम् अवनुम् अवनुम्  
+अवने मट्रु ऎल्लामुम् अऱिन्दनमे (२)  
+३६९६। He created the wide world and split it open.  
 He swallowed the world and spit it out.  
 He measured the world.  
 He is indeed Shiva, Brahma and Indra,  
@@ -12826,73 +12827,73 @@ and he himself is each of them
 and all creatures and things in this world.  
 We know this.  
 
-3697 அறிந்தன வேத அரும் பொருள் நூல்கள்  
-அறிந்தன கொள்க அரும் பொருள் ஆதல்  
-அறிந்தனர் எல்லாம் அரியை வணங்கி  
-அறிந்தனர் நோய்கள் அறுக்கும் மருந்தே (3)  
-3697. The Vedas, the sastras, the puranas and epics  
+३६९७ अऱिन्दन वेद अरुम् पॊरुळ् नूल्गळ्  
+अऱिन्दन कॊळ्ग अरुम् पॊरुळ् आदल्  
+अऱिन्दनर् ऎल्लाम् अरियै वणङ्गि  
+अऱिन्दनर् नोय्गळ् अऱुक्कुम् मरुन्दे (३)  
+३६९७। The Vedas, the sastras, the puranas and epics  
 all say they know that he is the true unattainable object.  
 Wise men and sages worship the lord Hari  
 and know him as the remedy for any sickness.  
 He gave me the fortune of knowing him truly.  
 
-3698 மருந்தே நங்கள் போக மகிழ்ச்சிக்கு என்று  
-பெரும் தேவர் குழாங்கள் பிதற்றும் பிரான்  
-கரும் தேவன் எம்மான் கண்ணன் விண் உலகம்  
-தரும் தேவனைச் சோரேல் கண்டாய் மனமே (4)  
-3698. The great group of gods prattle and praise him  
+३६९८ मरुन्दे नङ्गळ् पोग मगिऴ्च्चिक्कु ऎण्ड्रु  
+पॆरुम् तेवर् कुऴाङ्गळ् पितट्रुम् पिरान्  
+करुम् तेवन् ऎम्मान् कण्णन् विण् उलगम्  
+तरुम् तेवनैच् चोरेल् कण्डाय् मनमे (४)  
+३६९८। The great group of gods prattle and praise him  
 saying, "You take away the joy that our desires give  
 and cure us from the troubles they cause."  
 He, the dark lord Kaṇṇan, is our father,  
 and he rules the sky.  
 O heart, do not let him go away from my mind.  
 
-3699 மனமே உன்னை வல்வினையேன் இரந்து  
-கனமே சொல்லினேன் இது சோரேல் கண்டாய்!  
-புனம் மேவிய பூந் தண் துழாய் அலங்கல்  
-இனம் ஏதும் இலானை அடைவதுமே (5)  
-3699. O heart, I have done much bad karma  
+३६९९ मनमे उन्नै वल्विनैयेन् इरन्दु  
+कनमे सॊल्लिनेन् इदु सोरेल् कण्डाय्!  
+पुनम् मेविय पून् दण् तुऴाय् अलङ्गल्  
+इनम् एदुम् इलानै अडैवदुमे (५)  
+३६९९। O heart, I have done much bad karma  
 I beg you and tell you firmly,  
 "Do not leave him!"  
 He wears a beautiful cool thulasi garland from the forest.  
 Your aim should be to reach the god  
 who does not belong to anything.  
 
-3700 அடைவதும் அணி ஆர் மலர் மங்கைதோள்  
-மிடைவதும் அசுரர்க்கு வெம் போர்களே  
-கடைவதும் கடலுள் அமுதம் என் மனம்  
-உடைவதும் அவற்கே ஒருங்காகவே (6)  
-3700. He embraces the beautiful arms  
+३७०० अडैवदुम् अणि आर् मलर् मङ्गैदोळ्  
+मिडैवदुम् असुरर्क्कु वॆम् पोर्गळे  
+कडैवदुम् कडलुळ् अमुदम् ऎन् मनम्  
+उडैवदुम् अवऱ्‌के ऒरुङ्गागवे (६)  
+३७००। He embraces the beautiful arms  
 of Lakshmi, on a lovely lotus.  
 He fights only with the Asurans in his cruel wars.  
 He churned the milky ocean and took its nectar.  
 My heart melts only for him.  
 
-3701 ஆகம் சேர் நரசிங்கம் அது ஆகி ஓர்  
-ஆகம் வள் உகிரால் பிளந்தான் உறை  
-மாக வைகுந்தம் காண்பதற்கு என் மனம்  
-ஏகம் எண்ணும் இராப்பகல் இன்றியே (7)  
-3701. He took the form of a man-lion  
+३७०१ आगम् सेर् नरसिङ्गम् अदु आगि ओर्  
+आगम् वळ् उगिराल् पिळन्दान् उऱै  
+माग वैगुन्दम् काण्बदऱ्‌कु ऎन् मनम्  
+एकम् ऎण्णुम् इराप्पगल् इण्ड्रिये (७)  
+३७०१। He took the form of a man-lion  
 and split open the chest of Hiranyan with his sharp nails.  
 Night and day my heart longs to see him,  
 the god of the sky in Vaikuṇṭam.  
 
-3702 இன்றிப் போக இருவினையும் கெடுத்து  
-ஒன்றி யாக்கை புகாமை உய்யக்கொள்வான்  
-நின்ற வேங்கடம் நீள் நிலத்து உள்ளது  
-சென்று தேவர்கள் கைதொழுவார்களே (8)  
-3702. He destroys good and bad karma  
+३७०२ इण्ड्रिप् पोग इरुविनैयुम् कॆडुत्तु  
+ऒण्ड्रि याक्कै पुगामै उय्यक्कॊळ्वान्  
+निण्ड्र वेङ्गडम् नीळ् निलत्तु उळ्ळदु  
+सॆण्ड्रु तेवर्गळ् कैदॊऴुवार्गळे (८)  
+३७०२। He destroys good and bad karma  
 and saves us from future births  
 so our body will not be born again.  
 The gods of the sky come to Venkaṭam and worship the lord.  
 I will not leave this place—  
 there is no difference between heaven and the Venkaṭam hills.  
 
-3703 தொழுது மா மலர் நீர் சுடர் தூபம் கொண்டு  
-எழுதும் என்னும் இது மிகை ஆதலின்  
-பழுது இல் தொல் புகழ்ப் பாம்பு அணைப் பள்ளியாய்  
-தழுவுமாறு அறியேன் உன தாள்களே (9)  
-3703. It seems it is not enough  
+३७०३ तॊऴुदु मा मलर् नीर् सुडर् तूबम् कॊण्डु  
+ऎऴुदुम् ऎन्नुम् इदु मिगै आदलिन्  
+पऴुदु इल् तॊल् पुगऴ्प् पाम्बु अणैप् पळ्ळियाय्  
+तऴुवुमाऱु अऱियेन् उन ताळ्गळे (९)  
+३७०३। It seems it is not enough  
 to worship you with beautiful flowers,  
 water and shining lamps and fragrance  
 because I have not seen you.  
@@ -12900,11 +12901,11 @@ You are famous from ancient times
 and you sleep on a faultless snake bed.  
 I do not know how to embrace your feet.  
 
-3704 தாள தாமரையான் உனது உந்தியான்  
-வாள் கொள் நீள் மழு ஆளி உன் ஆகத்தான்  
-ஆளராய்த் தொழுவாரும் அமரர்கள்  
-நாளும் என் புகழ்கோ உன சீலமே? (10)  
-3704. Brahma stays on a lotus  
+३७०४ ताळ तामरैयान् उनदु उन्दियान्  
+वाळ् कॊळ् नीळ् मऴु आळि उन् आगत्तान्  
+आळराय्त् तॊऴुवारुम् अमरर्गळ्  
+नाळुम् ऎन् पुगऴ्गो उन शीलमे? (१०)  
+३७०४। Brahma stays on a lotus  
 and its stalk grows from your navel.  
 Shiva who carries a shining mazhu weapon  
 stays on your body.  
@@ -12912,119 +12913,119 @@ The gods in the sky come and worship you on this earth.
 I cannot truly praise your divine nature  
 even if I praise you all my life.  
 
-3705 சீலம் எல்லை இலான் அடிமேல் அணி  
-கோலம் நீள் குருகூர்ச் சடகோபன் சொல்  
-மாலை ஆயிரத்துள் இவை பத்தினின்  
-பாலர் வைகுந்தம் ஏறுதல் பான்மையே (11)  
-3705. Saḍagopan of beautiful Thirukuruhur  
+३७०५ शीलम् ऎल्लै इलान् अडिमेल् अणि  
+कोलम् नीळ् गुरुगूर्च् चडगोबन् सॊल्  
+मालै आयिरत्तुळ् इवै पत्तिनिन्  
+पालर् वैगुन्दम् एऱुदल् पान्मैये (११)  
+३७०५। Saḍagopan of beautiful Thirukuruhur  
 composed a garland of thousand pasurams on the lord  
 whose goodness has no bounds.  
 If devotees learn and recite these ten pasurams  
 they will surely reach Vaikuṇṭam.  
 -------------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (நான்காம் திருமொழி, 3706-3716)  
-எம்பெருமானைக் காண விரும்பி அழைத்து தாம் விரும்பிய  
-வண்ணமே கண்டு மகிழ்ந்தமை கூறல்  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (नान्गाम् तिरुमॊऴि, ३७०६-३७१६)  
+ऎम्बॆरुमानैक् काण विरुम्बि अऴैत्तु ताम् विरुम्बिय  
+वण्णमे कण्डु मगिऴ्न्दमै कूऱल्  
 
-3706 மை ஆர் கருங்கண்ணி கமல மலர்மேல்  
-செய்யாள் திருமார்வினில் சேர் திருமாலே  
-வெய்யார் சுடர் ஆழி சுரி சங்கம் ஏந்தும்  
-கையா உன்னைக் காணக் கருதும் என் கண்ணே (1)  
-3706. O Thirumaal, the beautiful goddess Lakshmi  
+३७०६ मै आर् करुङ्गण्णि कमल मलर्मेल्  
+सॆय्याळ् तिरुमार्विनिल् सेर् तिरुमाले  
+वॆय्यार् सुडर् आऴि सुरि सङ्गम् एन्दुम्  
+कैया उन्नैक् काणक् करुदुम् ऎन् कण्णे (१)  
+३७०६। O Thirumaal, the beautiful goddess Lakshmi  
 who has eyes dark as kohl  
 stays with you on a lotus on your divine chest.  
 You carry in your hands  
 a curved conch and a discus that has shining rays.  
 My eyes long to see you.  
 
-3707 கண்ணே உன்னைக் காணக் கருதி என் நெஞ்சம்  
-எண்ணே கொண்ட சிந்தையதாய் நின்று இயம்பும்  
-விண்ணோர் முனிவர்க்கு என்றும் காண்பு அரியாயை  
-நண்ணாதொழியேன் என்று நான் அழைப்பனே (2)  
-3707. You are my beloved.  
+३७०७ कण्णे उन्नैक् काणक् करुदि ऎन् नॆञ्जम्  
+ऎण्णे कॊण्ड सिन्दैयदाय् निण्ड्रु इयम्बुम्  
+विण्णोर् मुनिवर्क्कु ऎण्ड्रुम् काण्बु अरियायै  
+नण्णादॊऴियेन् ऎण्ड्रु नान् अऴैप्पने (२)  
+३७०७। You are my beloved.  
 My heart has one desire and that is to see you  
 and call you with love.  
 Even the gods in the sky and the sages cannot see you,  
 but I call you and think that I will not leave unless I join you.  
 
-3708 அழைக்கின்ற அடிநாயேன் நாய் கூழை வாலால்  
-குழைக்கின்றது போல என் உள்ளம் குழையும்  
-மழைக்கு அன்று குன்றம் எடுத்து ஆநிரை காத்தாய்  
-பிழைக்கின்றது அருள் என்று பேதுறுவனே (3)  
-3708. You carried Govardhana mountain  
+३७०८ अऴैक्किण्ड्र अडिनायेन् नाय् कूऴै वालाल्  
+कुऴैक्किण्ड्रदु पोल ऎन् उळ्ळम् कुऴैयुम्  
+मऴैक्कु अण्ड्रु कुण्ड्रम् ऎडुत्तु आनिरै कात्ताय्  
+पिऴैक्किण्ड्रदु अरुळ् ऎण्ड्रु पेदुऱुवने (३)  
+३७०८। You carried Govardhana mountain  
 and protected the cows from the storm.  
 I am like a dog wagging his tail lovingly  
 as I call you with my heart that melts for your love.  
 I am worried that I cannot receive your grace.  
 
-3709 உறுவது இது என்று உனக்கு ஆள் பட்டு நின்கண்  
-பெறுவது எதுகொல் என்று பேதையேன் நெஞ்சம்  
-மறுகல் செய்யும் வானவர் தானவர்க்கு என்றும்  
-அறிவது அரிய அரியாய அம்மானே (4)  
-3709. O father, you took the form of a man-lion.  
+३७०९ उऱुवदु इदु ऎण्ड्रु उनक्कु आळ् पट्टु निन्गण्  
+पॆऱुवदु ऎदुगॊल् ऎण्ड्रु पेदैयेन् नॆञ्जम्  
+मऱुगल् सॆय्युम् वानवर् तानवर्क्कु ऎण्ड्रुम्  
+अऱिवदु अरिय अरियाय अम्माने (४)  
+३७०९। O father, you took the form of a man-lion.  
 The gods in the sky and the Asurans do not know who you are.  
 You are matchless, O my father.  
 My heart’s only thought is to be a slave to you,  
 but my poor heart does not know  
 how it will come to be in your presence.  
 
-3710 அரியாய அம்மானை அமரர் பிரானை  
-பெரியானை பிரமனை முன் படைத்தானை  
-வரி வாள் அரவின் அணைப் பள்ளிகொள்கின்ற  
-கரியான் கழல் காணக் கருதும் கருத்தே (5)  
-3710. Our father, the god of the gods, took the form of a man-lion.  
+३७१० अरियाय अम्मानै अमरर् पिरानै  
+पॆरियानै पिरमनै मुन् पडैत्तानै  
+वरि वाळ् अरविन् अणैप् पळ्ळिगॊळ्गिण्ड्र  
+करियान् कऴल् काणक् करुदुम् करुत्ते (५)  
+३७१०। Our father, the god of the gods, took the form of a man-lion.  
 He created Shiva and Brahma in ancient times.  
 He sleeps on a shining, lined snake.  
 My only desire is to see the ornamented feet of the dark lord.  
 
-3711 கருத்தே உன்னைக் காணக் கருதி என் நெஞ்சத்து  
-இருத்தாக இருத்தினேன் தேவர்கட்கு எல்லாம்  
-விருத்தா விளங்கும் சுடர்ச்சோதி உயரத்து  
-ஒருத்தா உன்னை உள்ளும் என் உள்ளம் உகந்தே (6)  
-3711. You are my thought.  
+३७११ करुत्ते उन्नैक् काणक् करुदि ऎन् नॆञ्जत्तु  
+इरुत्ताग इरुत्तिनेन् तेवर्गट्कु ऎल्लाम्  
+विरुत्ता विळङ्गुम् सुडर्च्चोदि उयरत्तु  
+ऒरुत्ता उन्नै उळ्ळुम् ऎन् उळ्ळम् उगन्दे (६)  
+३७११। You are my thought.  
 I want to see you and keep you in my heart firmly.  
 You are the god of the gods in the sky.  
 You are the highest.  
 You are a matchless bright light.  
 My heart thinks happily only of you.  
 
-3712 உகந்தே உன்னை உள்ளும் என் உள்ளத்து அகம்பால்  
-அகம் தான் அமர்ந்தே இடம் கொண்ட அமலா  
-மிகும் தானவன் மார்வு அகலம் இரு கூறா  
-நகந்தாய் நரசிங்கம் அது ஆய உருவே (7)  
-3712. My heart thinks of you happily.  
+३७१२ उगन्दे उन्नै उळ्ळुम् ऎन् उळ्ळत्तु अगम्बाल्  
+अगम् तान् अमर्न्दे इडम् कॊण्ड अमला  
+मिगुम् तानवन् मार्वु अगलम् इरु कूऱा  
+नगन्दाय् नरसिङ्गम् अदु आय उरुवे (७)  
+३७१२। My heart thinks of you happily.  
 O faultless one, you desired me and came to me  
 and stayed in my heart.  
 You took the form of a man-lion  
 and split the chest of the arrogant Asuran Hiraṇyan in two.  
 
-3713 உரு ஆகிய ஆறு சமயங்கட்கு எல்லாம்  
-பொரு ஆகி நின்றான் அவன் எல்லாப் பொருட்கும்  
-அரு ஆகிய ஆதியை தேவர்கட்கு எல்லாம்  
-கரு ஆகிய கண்ணனை கண்டுகொண்டேனே (8)  
-3713. He is the origin of all the six religions  
+३७१३ उरु आगिय आऱु समयङ्गट्कु ऎल्लाम्  
+पॊरु आगि निण्ड्रान् अवन् ऎल्लाप् पॊरुट्कुम्  
+अरु आगिय आदियै तेवर्गट्कु ऎल्लाम्  
+करु आगिय कण्णनै कण्डुगॊण्डेने (८)  
+३७१३। He is the origin of all the six religions  
 and the inner soul of all things and creatures.  
 He is ancient and formless  
 and he is the origin of all the gods in the sky.  
 I have found that Kaṇṇan.  
 
-3714 கண்டுகொண்டு என் கண் இணை ஆரக் களித்து  
-பண்டை வினையாயின பற்றோடு அறுத்து  
-தொண்டர்க்கு அமுது உண்ணச் சொல் மாலைகள் சொன்னேன்  
-அண்டத்து அமரர் பெருமான் அடியேனே (9)  
-3714. He is precious like my eyes  
+३७१४ कण्डुगॊण्डु ऎन् कण् इणै आरक् कळित्तु  
+पण्डै विनैयायिन पट्रोडु अऱुत्तु  
+तॊण्डर्क्कु अमुदु उण्णच् चॊल् मालैगळ् सॊन्नेन्  
+अण्डत्तु अमरर् पॆरुमान् अडियेने (९)  
+३७१४। He is precious like my eyes  
 and I am filled with joy to have found him.  
 All my old karma has been rooted out.  
 I have composed pasurams on the god  
 that are like nectar for his devotees.  
 I am a devotee of the highest god of the gods in the sky.  
 
-3715 அடியான் இவன் என்று எனக்கு ஆர் அருள் செய்யும்  
-நெடியானை நிறை புகழ் அம் சிறைப் புள்ளின்  
-கொடியானை குன்றாமல் உலகம் அளந்த  
-அடியானை அடைந்து அடியேன் உய்ந்தவாறே (10)  
-3715. Neḍumal gives his grace to me  
+३७१५ अडियान् इवन् ऎण्ड्रु ऎनक्कु आर् अरुळ् सॆय्युम्  
+नॆडियानै निऱै पुगऴ् अम् सिऱैप् पुळ्ळिन्  
+कॊडियानै कुण्ड्रामल् उलगम् अळन्द  
+अडियानै अडैन्दु अडियेन् उय्न्दवाऱे (१०)  
+३७१५। Neḍumal gives his grace to me  
 thinking, "He is my devotee."  
 He carries the banner of the famous Garuda  
 that has beautiful wings.  
@@ -13032,11 +13033,11 @@ He measured the whole earth
 covering it completely with his one foot.  
 I received him and I am saved.  
 
-3716 ஆறா மதயானை அடர்த்தவன் தன்னை  
-சேறு ஆர் வயல் தென் குருகூர்ச் சடகோபன்  
-நூறே சொன்ன ஓர் ஆயிரத்துள் இப் பத்தும்  
-ஏறே தரும் வானவர் தம் இன் உயிர்க்கே (11)  
-3716. Saḍagopan of southern Thirukuruhur  
+३७१६ आऱा मदयानै अडर्त्तवन् तन्नै  
+सेऱु आर् वयल् तॆन् गुरुगूर्च् चडगोबन्  
+नूऱे सॊन्न ओर् आयिरत्तुळ् इप् पत्तुम्  
+एऱे तरुम् वानवर् तम् इन् उयिर्क्के (११)  
+३७१६। Saḍagopan of southern Thirukuruhur  
 surrounded by flourishing fields of earth  
 composed a thousand pasurams on the god  
 who conquered the rutting elephant Kuvalayabeedam.  
@@ -13044,15 +13045,15 @@ If devotees learn and recite these ten pasurams
 they will reach the god, the dear life of the gods in the sky.  
 ------------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (ஐந்தாம் திருமொழி, 3717-3727)  
-தலைவனைக் காண ஆசையுற்ற தலைவி அவனை நினைவூட்டும்  
-பொருள்களால் தளர்ந்தமை கூறல்  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३७१७-३७२७)  
+तलैवनैक् काण आसैयुट्र तलैवि अवनै निनैवूट्टुम्  
+पॊरुळ्गळाल् तळर्न्दमै कूऱल्  
 
-3717 இன் உயிர்ச் சேவலும் நீரும் கூவிக்கொண்டு இங்கு எத்தனை  
-என் உயிர் நோவ மிழற்றேல்மின் குயில் பேடைகாள்  
-என் உயிர்க் கண்ண பிரானை நீர் வரக் கூவுகிலீர்  
-என் உயிர் கூவிக் கொடுப்பார்க்கும் இத்தனை வேண்டுமோ? (1)  
-3717. She says, "O cuckoo birds!  
+३७१७ इन् उयिर्च् चेवलुम् नीरुम् कूविक्कॊण्डु इङ्गु ऎत्तनै  
+ऎन् उयिर् नोव मिऴट्रेल्मिन् कुयिल् पेडैगाळ्  
+ऎन् उयिर्क् कण्ण पिरानै नीर् वरक् कूवुगिलीर्  
+ऎन् उयिर् कूविक् कॊडुप्पार्क्कुम् इत्तनै वेण्डुमो? (१)  
+३७१७। She says, "O cuckoo birds!  
 You and your sweet mates, as precious to you as life,  
 cause me pain as you call each other.  
 Do not prattle like this.  
@@ -13061,44 +13062,44 @@ and you are not calling him.
 If you are cooing to take my life and give it to him,  
 do you need to coo like this?"  
 
-3718 இத்தனை வேண்டுவது அன்று அந்தோ அன்றில் பேடைகாள்  
-எத்தனை நீரும் நும் சேவலும் கரைந்து ஏங்குதிர்?  
-வித்தகன் கோவிந்தன் மெய்யன் அல்லன் ஒருவர்க்கும்  
-அத்தனை ஆம் இனி என் உயிர் அவன் கையதே (2)  
-3718. She says, "O andril birds!  
+३७१८ इत्तनै वेण्डुवदु अण्ड्रु अन्दो अण्ड्रिल् पेडैगाळ्  
+ऎत्तनै नीरुम् नुम् सेवलुम् करैन्दु एङ्गुदिर्?  
+वित्तगन् कोविन्दन् मॆय्यन् अल्लन् ऒरुवर्क्कुम्  
+अत्तनै आम् इनि ऎन् उयिर् अवन् कैयदे (२)  
+३७१८। She says, "O andril birds!  
 Do you need to do these things?  
 How long will you and your mate long and call for each other?  
 The clever Govindan is not truthful to anyone.  
 Why do I say these things?  
 My life is in his hands."  
 
-3719 அவன் கையதே எனது ஆர் உயிர் அன்றில் பேடைகாள்  
-எவன் சொல்லி நீர் குடைந்து ஆடுதிர் புடை சூழவே?  
-தவம் செய்தில்லா வினையாட்டியேன் உயிர் இங்கு உண்டோ  
-எவன் சொல்லி நிற்றும் நும் ஏங்கு கூக்குரல் கேட்டுமே? (3)  
-3719. She says, "O dear andril birds!  
+३७१९ अवन् कैयदे ऎनदु आर् उयिर् अण्ड्रिल् पेडैगाळ्  
+ऎवन् सॊल्लि नीर् कुडैन्दु आडुदिर् पुडै सूऴवे?  
+तवम् सॆय्दिल्ला विनैयाट्टियेन् उयिर् इङ्गु उण्डो  
+ऎवन् सॊल्लि निट्रुम् नुम् एङ्गु कूक्कुरल् केट्टुमे? (३)  
+३७१९। She says, "O dear andril birds!  
 My dear life is in his hands.  
 How can you join together, speak with each other,  
 and plunge into the water with your beloved mates?  
 How is it I am still alive  
 after hearing you chatter to each other?"  
 
-3720 கூக்குரல் கேட்டும் நம் கண்ணன் மாயன் வெளிப்படான்  
-மேல் கிளை கொள்ளேல்மின் நீரும் சேவலும் கோழிகாள்  
-வாக்கும் மனமும் கருமமும் நமக்கு ஆங்கதே  
-ஆக்கையும் ஆவியும் அந்தரம் நின்று உழலுமே (4)  
-3719. She says, "O dear andril birds!  
+३७२० कूक्कुरल् केट्टुम् नम् कण्णन् मायन् वॆळिप्पडान्  
+मेल् किळै कॊळ्ळेल्मिन् नीरुम् सेवलुम् कोऴिगाळ्  
+वाक्कुम् मनमुम् करुममुम् नमक्कु आङ्गदे  
+आक्कैयुम् आवियुम् अन्तरम् निण्ड्रु उऴलुमे (४)  
+३७१९। She says, "O dear andril birds!  
 My dear life is in his hands.  
 How can you join together, speak with each other,  
 and plunge into the water with your beloved mates?  
 How is it I am still alive  
 after hearing you chatter to each other?"  
 
-3721 அந்தரம் நின்று உழல்கின்ற யானுடைப் பூவைகாள்  
-நும் திறத்து ஏதும் இடை இல்லை குழறேல்மினோ  
-இந்திர ஞாலங்கள் காட்டி இவ் ஏழ் உலகும் கொண்ட  
-நம் திரு மார்பன் நம் ஆவி உண்ண நன்கு எண்ணினான் (5)  
-3721. She says, "O my puvai birds!  
+३७२१ अन्तरम् निण्ड्रु उऴल्गिण्ड्र यानुडैप् पूवैगाळ्  
+नुम् तिऱत्तु एदुम् इडै इल्लै कुऴऱेल्मिनो  
+इन्दिर ञालङ्गळ् काट्टि इव् एऴ् उलगुम् कॊण्ड  
+नम् तिरु मार्बन् नम् आवि उण्ण नन्गु ऎण्णिनान् (५)  
+३७२१। She says, "O my puvai birds!  
 You move all over in the sky.  
 You should not feel sorry for me.  
 It isn’t your fault. Don’t prattle.  
@@ -13108,11 +13109,11 @@ and does many magical tricks.
 He is thinking of taking my life away.  
 Does he think this is something good?"  
 
-3722 நன்கு எண்ணி நான் வளர்த்த சிறு கிளிப் பைதலே  
-இன் குரல் நீ மிழற்றேல் என் ஆர் உயிர்க் காகுத்தன்  
-நின் செய்ய வாய் ஒக்கும் வாயன் கண்ணன் கை காலினன்  
-நின் பசும் சாம நிறத்தன் கூட்டுண்டு நீங்கினான் (6)  
-3722. She says, "O little parrot!  
+३७२२ नन्गु ऎण्णि नान् वळर्त्त सिऱु किळिप् पैदले  
+इन् कुरल् नी मिऴट्रेल् ऎन् आर् उयिर्क् कागुत्तन्  
+निन् सॆय्य वाय् ऒक्कुम् वायन् कण्णन् कै कालिनन्  
+निन् पसुम् साम निऱत्तन् कूट्टुण्डु नीङ्गिनान् (६)  
+३७२२। She says, "O little parrot!  
 I raised you with love and affection and kept you happy.  
 Don’t prattle on with your sweet voice.  
 He is Kakusthan my dear beloved god.  
@@ -13121,11 +13122,11 @@ He has beautiful eyes, hands and legs.
 He has a green color like yours.  
 He left after embracing me."  
 
-3723 கூட்டுண்டு நீங்கிய கோலத் தாமரைக் கண் செவ்வாய்  
-வாட்டம் இல் என் கருமாணிக்கம் கண்ணன் மாயன்போல்  
-கோட்டிய வில்லொடு மின்னும் மேகக் குழாங்கள்காள்  
-காட்டேல்மின் நும் உரு என் உயிர்க்கு அது காலனே (7)  
-3723. She says,  
+३७२३ कूट्टुण्डु नीङ्गिय कोलत् तामरैक् कण् सॆव्वाय्  
+वाट्टम् इल् ऎन् करुमाणिक्कम् कण्णन् मायन्बोल्  
+कोट्टिय विल्लॊडु मिन्नुम् मेगक् कुऴाङ्गळ्गाळ्  
+काट्टेल्मिन् नुम् उरु ऎन् उयिर्क्कु अदु कालने (७)  
+३७२३। She says,  
 "O group of clouds shining with lightning and rainbows,  
 you have the color of Maayan,  
 the god Kaṇṇan, the faultless dark diamond  
@@ -13133,11 +13134,11 @@ with lovely lotus eyes and a red mouth.
 Do not come in front of me.  
 You are like Yama to my life."  
 
-3724 உயிர்க்கு அது காலன் என்று உம்மை யான் இரந்தேற்கு நீர்  
-குயில் பைதல்காள் கண்ணன் நாமமே குழறிக் கொன்றீர்  
-தயிர்ப் பழஞ் சோற்றொடு பால் அடிசிலும் தந்து சொல்  
-பயிற்றிய நல் வளம் ஊட்டினீர்! பண்பு உடையீரே (8)  
-3724. She says,  
+३७२४ उयिर्क्कु अदु कालन् ऎण्ड्रु उम्मै यान् इरन्देऱ्‌कु नीर्  
+कुयिल् पैदल्गाळ् कण्णन् नाममे कुऴऱिक् कॊण्ड्रीर्  
+तयिर्प् पऴञ् जोट्रॊडु पाल् अडिसिलुम् तन्दु सॊल्  
+पयिट्रिय नल् वळम् ऊट्टिनीर्! पण्बु उडैयीरे (८)  
+३७२४। She says,  
 "I begged you to go and tell him that he is like Yama for me  
 because I love him and may not live.  
 O soft baby cuckoo bird!  
@@ -13147,11 +13148,11 @@ and taught you to speak.
 Is this how you repay me?  
 Is this good?"  
 
-3725 பண்பு உடை வண்டொடு தும்பிகாள் பண் மிழற்றேல்மின்  
-புண் புரை வேல் கொடு குத்தால் ஒக்கும் நும் இன் குரல்  
-தண் பெரு நீர்த் தடம் தாமரை மலர்ந்தால் ஒக்கும்  
-கண் பெரும் கண்ணன் நம் ஆவி உண்டு எழ நண்ணினான் (9)  
-3725. She says,  
+३७२५ पण्बु उडै वण्डॊडु तुम्बिगाळ् पण् मिऴट्रेल्मिन्  
+पुण् पुरै वेल् कॊडु कुत्ताल् ऒक्कुम् नुम् इन् कुरल्  
+तण् पॆरु नीर्त् तडम् तामरै मलर्न्दाल् ऒक्कुम्  
+कण् पॆरुम् कण्णन् नम् आवि उण्डु ऎऴ नण्णिनान् (९)  
+३७२५। She says,  
 "O female bees, you are with your excellent lovers.  
 Don’t sing and fly around.  
 Even though you sing sweetly  
@@ -13161,11 +13162,11 @@ The god Kaṇṇan has large eyes like lotus flowers
 that bloom in a cool wide pool.  
 He approached us only to take away our life."  
 
-3726 எழ நண்ணி நாமும் நம் வான நாடனோடு ஒன்றினோம்  
-பழன நல் நாரைக் குழாங்கள்காள் பயின்று என் இனி?  
-இழை நல்ல ஆக்கையும் பையவே புயக்கு அற்றது  
-தழை நல்ல இன்பம் தலைப்பெய்து எங்கும் தழைக்கவே (10)  
-3726. She says,  
+३७२६ ऎऴ नण्णि नामुम् नम् वान नाडनोडु ऒण्ड्रिनोम्  
+पऴन नल् नारैक् कुऴाङ्गळ्गाळ् पयिण्ड्रु ऎन् इनि?  
+इऴै नल्ल आक्कैयुम् पैयवे पुयक्कु अट्रदु  
+तऴै नल्ल इन्बम् तलैप्पॆय्दु ऎङ्गुम् तऴैक्कवे (१०)  
+३७२६। She says,  
 "O good naarai birds, you stay in the fields.  
 We love the lord of the sky.  
 What is the use of thinking of anything else?  
@@ -13173,11 +13174,11 @@ I am not interested in wearing ornaments
 and talking about things I enjoy.  
 Let this world flourish and people have their pleasure."  
 
-3727 இன்பம் தலைப்பெய்து எங்கும் தழைத்த பல் ஊழிக்குத்  
-தன் புகழ் ஏத்தத் தனக்கு அருள் செய்த மாயனைத்  
-தென் குருகூர்ச் சடகோபன் சொல் ஆயிரத்துள் இவை  
-ஒன்பதோடு ஒன்றுக்கும் மூவுலகும் உருகுமே (11)  
-3727. Saḍagopan of southern Kuruhur  
+३७२७ इन्बम् तलैप्पॆय्दु ऎङ्गुम् तऴैत्त पल् ऊऴिक्कुत्  
+तन् पुगऴ् एत्तत् तनक्कु अरुळ् सॆय्द मायनैत्  
+तॆन् गुरुगूर्च् चडगोबन् सॊल् आयिरत्तुळ् इवै  
+ऒन्बदोडु ऒण्ड्रुक्कुम् मूवुलगुम् उरुगुमे (११)  
+३७२७। Saḍagopan of southern Kuruhur  
 composed a thousand pasurams on the god Maayan.  
 The lord gave his grace to make this world flourish  
 and to make the people of the world  
@@ -13186,25 +13187,25 @@ If people in the three worlds learn and recite these ten pasurams
 they will melt in devotion for the lord.  
 ---------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (ஆறாம் திருமொழி, 3728-3738)  
-ஆழ்வார் எம்பெருமானது சீரைத் துயரத்துடன் கூறுதல் (திருக்காட்கரை)  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (आऱाम् तिरुमॊऴि, ३७२८-३७३८)  
+आऴ्वार् ऎम्बॆरुमानदु सीरैत् तुयरत्तुडन् कूऱुदल् (तिरुक्काट्करै)  
 
-3728 உருகுமால் நெஞ்சம் உயிரின் பரமன்றி  
-பெருகுமால் வேட்கையும் என் செய்கேன் தொண்டனேன்  
-தெருவு எல்லாம் காவி கமழ் திருக்காட்கரை  
-மருவிய மாயன் தன் மாயம் நினைதொறே? (1)  
-3728. When I think of the maaya of you,  
+३७२८ उरुगुमाल् नॆञ्जम् उयिरिन् परमण्ड्रि  
+पॆरुगुमाल् वेट्कैयुम् ऎन् सॆय्गेन् तॊण्डनेन्  
+तॆरुवु ऎल्लाम् कावि कमऴ् तिरुक्काट्करै  
+मरुविय मायन् तन् मायम् निनैदॊऱे? (१)  
+३७२८। When I think of the maaya of you,  
 the god Maayan of Thirukkaaṭkarai  
 where the fragrance of kaavi blossoms spreads  
 over all the streets, my heart melts  
 and cannot control its always increasing love.  
 I am your servant, what should I do?  
 
-3729 நினைதொறும் சொல்லும்தொறும் நெஞ்சு இடிந்து உகும்  
-வினைகொள் சீர் பாடிலும் வேம் எனது ஆர் உயிர்  
-சுனைகொள் பூஞ்சோலைத் தென் காட்கரை என் அப்பா  
-நினைகிலேன் நான் உனக்கு ஆட்செய்யும் நீர்மையே (2)  
-3729. You are my father  
+३७२९ निनैदॊऱुम् सॊल्लुम्दॊऱुम् नॆञ्जु इडिन्दु उगुम्  
+विनैगॊळ् सीर् पाडिलुम् वेम् ऎनदु आर् उयिर्  
+सुनैगॊळ् पूञ्जोलैत् तॆन् काट्करै ऎन् अप्पा  
+निनैगिलेन् नान् उनक्कु आट्चॆय्युम् नीर्मैये (२)  
+३७२९। You are my father  
 and you stay in southern Thirukaaṭkarai  
 surrounded by blooming groves and springs.  
 Whenever I think or speak of you  
@@ -13212,11 +13213,11 @@ my heart suffers and goes to pieces.
 Whenever I sing of your heroic deeds  
 my dear life burns. I do not know how to serve you.  
 
-3730 நீர்மையால் நெஞ்சம் வஞ்சித்துப் புகுந்து என்னை  
-ஈர்மைசெய்து என் உயிர் ஆய் என் உயிர் உண்டான்  
-சீர் மல்கு சோலைத் தென் காட்கரை என் அப்பன்  
-கார் முகில் வண்ணன் தன் கள்வம் அறிகிலேன் (3)  
-3730. My father, the lord of the southern Thirukaaṭkarai  
+३७३० नीर्मैयाल् नॆञ्जम् वञ्जित्तुप् पुगुन्दु ऎन्नै  
+ईर्मैसॆय्दु ऎन् उयिर् आय् ऎन् उयिर् उण्डान्  
+सीर् मल्गु सोलैत् तॆन् काट्करै ऎन् अप्पन्  
+कार् मुगिल् वण्णन् तन् कळ्वम् अऱिगिलेन् (३)  
+३७३०। My father, the lord of the southern Thirukaaṭkarai  
 surrounded by beautiful flourishing groves  
 attracted me and entered my heart.  
 He bewitched me, became my life  
@@ -13224,84 +13225,84 @@ and took me over.
 He has the color of a dark cloud—  
 I do not understand his tricks.  
 
-3731 அறிகிலேன் தன்னுள் அனைத்து உலகும் நிற்க  
-நெறிமையால் தானும் அவற்றுள் நிற்கும் பிரான்  
-வெறி கமழ் சோலைத் தென் காட்கரை என் அப்பன்  
-சிறிய என் ஆர் உயிர் உண்ட திரு அருளே (4)  
-3731. My father, the god of southern Thirukaaṭkarai  
+३७३१ अऱिगिलेन् तन्नुळ् अनैत्तु उलगुम् निऱ्‌क  
+नॆऱिमैयाल् तानुम् अवट्रुळ् निऱ्‌कुम् पिरान्  
+वॆऱि कमऴ् सोलैत् तॆन् काट्करै ऎन् अप्पन्  
+सिऱिय ऎन् आर् उयिर् उण्ड तिरु अरुळे (४)  
+३७३१। My father, the god of southern Thirukaaṭkarai  
 where the groves spread their fragrance everywhere  
 contains all the worlds in himself  
 and abides in all of them with virtue.  
 I cannot understand his divine grace  
 that has taken over my tiny dear life.  
 
-3732 திரு அருள் செய்பவன் போல என்னுள் புகுந்து  
-உருவமும் ஆர் உயிரும் உடனே உண்டான்  
-திரு வளர் சோலைத் தென் காட்கரை என் அப்பன்  
-கரு வளர் மேனி என் கண்ணன் கள்வங்களே (5)  
-3732. My father of southern Thirukaaṭkarai  
+३७३२ तिरु अरुळ् सॆय्बवन् पोल ऎन्नुळ् पुगुन्दु  
+उरुवमुम् आर् उयिरुम् उडने उण्डान्  
+तिरु वळर् सोलैत् तॆन् काट्करै ऎन् अप्पन्  
+करु वळर् मेनि ऎन् कण्णन् कळ्वङ्गळे (५)  
+३७३२। My father of southern Thirukaaṭkarai  
 where lovely groves grow  
 entered my heart as if to give his divine grace to me.  
 He took over my body and my dear life at once.  
 How can I describe the tricks of my dark-colored Kaṇṇan?  
 
-3733 என் கண்ணன் கள்வம் எனக்குச் செம்மாய் நிற்கும்  
-அம் கண்ணன் உண்ட என் ஆர் உயிர்க் கோது இது  
-புன்கண்மை எய்தி புலம்பி இராப்பகல்  
-என் கண்ணன் என்று அவன் காட்கரை ஏத்துமே (6)  
-3733. I think the tricks of my Kaṇṇan are lovely.  
+३७३३ ऎन् कण्णन् कळ्वम् ऎनक्कुच् चॆम्माय् निऱ्‌कुम्  
+अम् कण्णन् उण्ड ऎन् आर् उयिर्क् कोदु इदु  
+पुन्गण्मै ऎय्दि पुलम्बि इराप्पगल्  
+ऎन् कण्णन् ऎण्ड्रु अवन् काट्करै एत्तुमे (६)  
+३७३३। I think the tricks of my Kaṇṇan are lovely.  
 This is how my beautiful Kaṇṇan takes over my dear life.  
 Night and day I worry, prattle on  
 and praise Thirukaaṭkarai, saying, "He is my Kaṇṇan."  
 
-3734 காட்கரை ஏத்தும் அதனுள் கண்ணா என்னும்  
-வேட்கை நோய் கூர நினைந்து கரைந்து உகும்  
-ஆட்கொள்வான் ஒத்து என் உயிர் உண்ட மாயனால்  
-கோள் குறைபட்டது என் ஆர் உயிர் கோள் உண்டே (7)  
-3734. When I say, "O Kaṇṇan, you stay in Thirukaaṭkarai,"  
+३७३४ काट्करै एत्तुम् अदनुळ् कण्णा ऎन्नुम्  
+वेट्कै नोय् कूर निनैन्दु करैन्दु उगुम्  
+आट्कॊळ्वान् ऒत्तु ऎन् उयिर् उण्ड मायनाल्  
+कोळ् कुऱैबट्टदु ऎन् आर् उयिर् कोळ् उण्डे (७)  
+३७३४। When I say, "O Kaṇṇan, you stay in Thirukaaṭkarai,"  
 my desire for the god increases  
 and I think of him always and melt.  
 He is the Maayan and he took me as his slave.  
 There is only a little of my life left—  
 I want to spend that time praising Thirukaaṭkarai.  
 
-3735 கோள் உண்டான் அன்றி வந்து என் உயிர் தான் உண்டான்  
-நாளும் நாள் வந்து என்னை முற்றவும் தான் உண்டான்  
-காள நீர் மேகத் தென் காட்கரை என் அப்பற்கு  
-ஆள் அன்றே பட்டது? என் ஆர் உயிர் பட்டதே (8)  
-3735. He took me as his slave.  
+३७३५ कोळ् उण्डान् अण्ड्रि वन्दु ऎन् उयिर् तान् उण्डान्  
+नाळुम् नाळ् वन्दु ऎन्नै मुट्रवुम् तान् उण्डान्  
+काळ नीर् मेगत् तॆन् काट्करै ऎन् अप्पऱ्‌कु  
+आळ् अण्ड्रे पट्टदु? ऎन् आर् उयिर् पट्टदे (८)  
+३७३५। He took me as his slave.  
 He took my life as his.  
 He comes to me every day and makes me his.  
 My dear life and my heart belong to my father,  
 the lord of southern Thirukaaṭkarai  
 where beautiful dark clouds float in the sky.  
 
-3736 ஆர் உயிர் பட்டது எனது உயிர் பட்டது  
-பேர் இதழ்த் தாமரைக் கண் கனி வாயது ஓர்  
-கார் எழில் மேகத் தென் காட்கரை கோயில் கொள்  
-சீர் எழில் நால் தடம் தோள் தெய்வவாரிக்கே? (9)  
-3736. The divine ocean-like god has four large arms,  
+३७३६ आर् उयिर् पट्टदु ऎनदु उयिर् पट्टदु  
+पेर् इदऴ्त् तामरैक् कण् कनि वायदु ओर्  
+कार् ऎऴिल् मेगत् तॆन् काट्करै कोयिल् कॊळ्  
+सीर् ऎऴिल् नाल् तडम् तोळ् तॆय्ववारिक्के? (९)  
+३७३६। The divine ocean-like god has four large arms,  
 a mouth sweet as a fruit, eyes like lotuses with large petals  
 and a beautiful dark cloud-colored body.  
 He is the god of the temple in southern Tirukaaṭkarai  
 and my dear life has joined him.  
 
-3737 வாரிக்கொண்டு உன்னை விழுங்குவன் காணில் என்று  
-ஆர்வு உற்ற என்னை ஒழிய என்னில் முன்னம்  
-பாரித்துத் தான் என்னை முற்றப் பருகினான்  
-கார் ஒக்கும் காட்கரை அப்பன் கடியனே (10)  
-3737. He embraced me and said,  
+३७३७ वारिक्कॊण्डु उन्नै विऴुङ्गुवन् काणिल् ऎण्ड्रु  
+आर्वु उट्र ऎन्नै ऒऴिय ऎन्निल् मुन्नम्  
+पारित्तुत् तान् ऎन्नै मुट्रप् परुगिनान्  
+कार् ऒक्कुम् काट्करै अप्पन् कडियने (१०)  
+३७३७। He embraced me and said,  
 "See, I will embrace you and you will join me completely."  
 I fell into my love for him and lost myself.  
 The dark cloud-colored god came before me  
 and swallowed me entirely.  
 The god of Thirukaaṭkarai is not easy to see.  
 
-3738 கடியனாய்க் கஞ்சனைக் கொன்ற பிரான் தன்னை  
-கொடி மதிள் தென் குருகூர்ச் சடகோபன் சொல்  
-வடிவு அமை ஆயிரத்து இப் பத்தினால் சன்மம்  
-முடிவு எய்தி நாசம் கண்டீர்கள் எம் கானலே (11)  
-3738. Saḍagopan of southern Thirukuruhur  
+३७३८ कडियनाय्क् कञ्जनैक् कॊण्ड्र पिरान् तन्नै  
+कॊडि मदिळ् तॆन् गुरुगूर्च् चडगोबन् सॊल्  
+वडिवु अमै आयिरत्तु इप् पत्तिनाल् सन्मम्  
+मुडिवु ऎय्दि नासम् कण्डीर्गळ् ऎम् कानले (११)  
+३७३८। Saḍagopan of southern Thirukuruhur  
 surrounded by strong walls  
 composed a thousand good pasurams  
 on the lord who killed the cruel Asuran Kamsan.  
@@ -13309,15 +13310,15 @@ If people learn and recite these ten pasurams
 they will have no future births.  
 ------------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (ஏழாம் திருமொழி, 3739-3749)  
-எம் பெருமானது வடிவழகே பற்றுக்கோடாக தலைவி திருமூழிக்களத்தே  
-பறவைகளைத் தூதுவிடல் (திருமூழிக்களம்)  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (एऴाम् तिरुमॊऴि, ३७३९-३७४९)  
+ऎम् पॆरुमानदु वडिवऴगे पट्रुक्कोडाग तलैवि तिरुमूऴिक्कळत्ते  
+पऱवैगळैत् तूदुविडल् (तिरुमूऴिक्कळम्)  
 
-3739 எம் கானல் அகம் கழிவாய் இரை தேர்ந்து இங்கு இனிது அமரும்  
-செங்கால மட நாராய் திருமூழிக்களத்து உறையும்  
-கொங்கு ஆர் பூந் துழாய் முடி எம் குடக்கூத்தர்க்கு என் தூதாய்  
-நும் கால்கள் என் தலைமேல் கெழுமீரோ நுமரோடே (1)  
-3739. She says,  
+३७३९ ऎम् कानल् अगम् कऴिवाय् इरै तेर्न्दु इङ्गु इनिदु अमरुम्  
+सॆङ्गाल मड नाराय् तिरुमूऴिक्कळत्तु उऱैयुम्  
+कॊङ्गु आर् पून् दुऴाय् मुडि ऎम् कुडक्कूत्तर्क्कु ऎन् तूदाय्  
+नुम् काल्गळ् ऎन् तलैमेल् कॆऴुमीरो नुमरोडे (१)  
+३७३९। She says,  
 "O lovely red-legged naarai birds!  
 You come to these backwaters on the seashore  
 and sit sweetly looking for your food.  
@@ -13327,11 +13328,11 @@ Won’t you go as my messengers to him
 flying above my head through the sky with your friends  
 and tell him of my love?"  
 
-3740 நுமரோடும் பிரியாதே நீரும் நும் சேவலுமாய்  
-அமர் காதல் குருகு இனங்காள் அணி மூழிக்களத்து உறையும்  
-எமராலும் பழிப்புண்டு இங்கு என் தம்மால் இழிப்புண்டு?  
-தமரோடு அங்கு உறைவார்க்குத் தக்கிலமே? கேளீரே (2)  
-3740. She says, "O kurugu birds!  
+३७४० नुमरोडुम् पिरियादे नीरुम् नुम् सेवलुमाय्  
+अमर् कादल् गुरुगु इनङ्गाळ् अणि मूऴिक्कळत्तु उऱैयुम्  
+ऎमरालुम् पऴिप्पुण्डु इङ्गु ऎन् तम्माल् इऴिप्पुण्डु?  
+तमरोडु अङ्गु उऱैवार्क्कुत् तक्किलमे? केळीरे (२)  
+३७४०। She says, "O kurugu birds!  
 You and your beloved mates  
 stay together lovingly, never separating.  
 He is blamed by my relatives  
@@ -13339,11 +13340,11 @@ and I am disgraced because of my love for him.
 He stays in lovely Thirumuzhikkalam with his beloved wives.  
 Go and ask him ‘Am I not fit for your love?’"  
 
-3741 தக்கிலமே கேளீர்கள்! தடம் புனல்வாய் இரை தேரும்  
-கொக்கு இனங்காள் குருகு இனங்காள் குளிர்மூழிக்களத்து உறையும்  
-செக்கமலத்து அலர் போலும் கண் கை கால் செங்கனி வாய்  
-அக் கமலத்து இலைப் போலும் திருமேனி அடிகளுக்கே (3)  
-3741. She says,  
+३७४१ तक्किलमे केळीर्गळ्! तडम् पुनल्वाय् इरै तेरुम्  
+कॊक्कु इनङ्गाळ् गुरुगु इनङ्गाळ् कुळिर्मूऴिक्कळत्तु उऱैयुम्  
+सॆक्कमलत्तु अलर् पोलुम् कण् कै काल् सॆङ्गनि वाय्  
+अक् कमलत्तु इलैप् पोलुम् तिरुमेनि अडिगळुक्के (३)  
+३७४१। She says,  
 "Am I not fit for his love?  
 O kokku birds, kuruku birds,  
 you search for food in the abundant water by the shore.  
@@ -13353,11 +13354,11 @@ His eyes are as lovely as blooming lotuses.
 His hands, legs, and mouth are as sweet as fruits  
 and his handsome body is like the petals of a red lotus."  
 
-3742 திருமேனி அடிகளுக்குத் தீவினையேன் விடு தூதாய்  
-திருமூழிக்களம் என்னும் செழு நகர்வாய் அணி முகில்காள்  
-திருமேனி அவட்கு அருளீர் என்றக்கால் உம்மைத் தன்  
-திருமேனி ஒளி அகற்றி தெளி விசும்பு கடியுமே? (4)  
-3742. She says,  
+३७४२ तिरुमेनि अडिगळुक्कुत् तीविनैयेन् विडु तूदाय्  
+तिरुमूऴिक्कळम् ऎन्नुम् सॆऴु नगर्वाय् अणि मुगिल्गाळ्  
+तिरुमेनि अवट्कु अरुळीर् ऎण्ड्रक्काल् उम्मैत् तन्  
+तिरुमेनि ऒळि अगट्रि तॆळि विसुम्बु कडियुमे? (४)  
+३७४२। She says,  
 "O lovely clouds!  
 You live in lovely Thirumuzhikkaḷam, a flourishing place.  
 I have done so much bad karma.  
@@ -13366,11 +13367,11 @@ and tell him, ‘Give yourself to her,’
 are you worried that he will remove the brightness of your body  
 and chase you away from the clear sky?"  
 
-3743 தெளி விசும்பு கடிது ஓடி தீ வளைத்து மின் இலகும்  
-ஒளி முகில்காள் திருமூழிக்களத்து உறையும் ஒண்சுடர்க்கு  
-தெளி விசும்பு திருநாடாத் தீவினையேன் மனத்து உறையும்  
-துளி வார் கள் குழலார்க்கு என் தூது உரைத்தல் செப்புமினே (5)  
-3743. She says, "O bright clouds,  
+३७४३ तॆळि विसुम्बु कडिदु ओडि ती वळैत्तु मिन् इलगुम्  
+ऒळि मुगिल्गाळ् तिरुमूऴिक्कळत्तु उऱैयुम् ऒण्सुडर्क्कु  
+तॆळि विसुम्बु तिरुनाडात् तीविनैयेन् मनत्तु उऱैयुम्  
+तुळि वार् कळ् कुऴलार्क्कु ऎन् तूदु उरैत्तल् सॆप्पुमिने (५)  
+३७४३। She says, "O bright clouds,  
 you make fire-like lightning  
 and move swiftly across the clear sky.  
 I have done bad karma.  
@@ -13380,11 +13381,11 @@ decorated with flowers dripping with honey
 and tell him that I keep him always in my heart  
 and think of it as the divine heaven of the lord."  
 
-3744 தூது உரைத்தல் செப்புமின்கள் தூ மொழி வாய் வண்டு இனங்காள்  
-போது இரைத்து மது நுகரும் பொழில் மூழிக்களத்து உறையும்  
-மாதரைத் தம் மார்வகத்தே வைத்தார்க்கு என் வாய் மாற்றம்  
-தூது உரைத்தல் செப்புதிரேல் சுடர் வளையும் கலையுமே (6)  
-3744. She says,  
+३७४४ तूदु उरैत्तल् सॆप्पुमिन्गळ् तू मॊऴि वाय् वण्डु इनङ्गाळ्  
+पोदु इरैत्तु मदु नुगरुम् पॊऴिल् मूऴिक्कळत्तु उऱैयुम्  
+मादरैत् तम् मार्वगत्ते वैत्तार्क्कु ऎन् वाय् माट्रम्  
+तूदु उरैत्तल् सॆप्पुदिरेल् सुडर् वळैयुम् कलैयुमे (६)  
+३७४४। She says,  
 "O bees, the lord has the goddess Lakshmi on his chest.  
 Go and tell my message beautifully  
 to the god of Thirumuzhikkaḷam surrounded by groves  
@@ -13393,11 +13394,11 @@ and sing and drink honey from the blossoms.
 Go and tell him that my shining bangles  
 and my waistband are becoming loose."  
 
-3745 சுடர் வளையும் கலையும் கொண்டு அருவினையேன் தோள் துறந்த  
-படர் புகழான் திருமூழிக்களத்து உறையும் பங்கயக்கண்  
-சுடர் பவள வாயனைக் கண்டு ஒருநாள் ஓர் தூய் மாற்றம்  
-படர் பொழில்வாய்க் குருகு இனங்காள் எனக்கு ஒன்று பணியீரே. (7)  
-3745. She says,  
+३७४५ सुडर् वळैयुम् कलैयुम् कॊण्डु अरुविनैयेन् तोळ् तुऱन्द  
+पडर् पुगऴान् तिरुमूऴिक्कळत्तु उऱैयुम् पङ्गयक्कण्  
+सुडर् पवळ वायनैक् कण्डु ऒरुनाळ् ओर् तूय् माट्रम्  
+पडर् पॊऴिल्वाय्क् गुरुगु इनङ्गाळ् ऎनक्कु ऒण्ड्रु पणियीरे। (७)  
+३७४५। She says,  
 "O kurugu birds, you stay in the large groves!  
 I have done bad karma.  
 The famous lord of Thirumuzhikkaḷam with lotus eyes  
@@ -13407,11 +13408,11 @@ Go to him as my messengers and tell him of my love
 and then come back and tell me  
 the faultless answer he gave to you."  
 
-3746 எனக்கு ஒன்று பணியீர்கள் இரும் பொழில்வாய் இரை தேர்ந்து  
-மனக்கு இன்பம் பட மேவும் வண்டு இனங்காள் தும்பிகாள்  
-கனக்கொள் திண் மதிள் புடை சூழ் திருமூழிக்களத்து உறையும்  
-புனக்கொள் காயா மேனிப் பூந் துழாய் முடியார்க்கே (8)  
-3746. She says,  
+३७४६ ऎनक्कु ऒण्ड्रु पणियीर्गळ् इरुम् पॊऴिल्वाय् इरै तेर्न्दु  
+मनक्कु इन्बम् पड मेवुम् वण्डु इनङ्गाळ् तुम्बिगाळ्  
+कनक्कॊळ् तिण् मदिळ् पुडै सूऴ् तिरुमूऴिक्कळत्तु उऱैयुम्  
+पुनक्कॊळ् काया मेनिप् पून् दुऴाय् मुडियार्क्के (८)  
+३७४६। She says,  
 "O male and female bees! O thumbi birds!  
 You search for your food in the large groves  
 and wander with happy hearts, joined together as couples.  
@@ -13420,11 +13421,11 @@ and he wears a beautiful thulasi garland in his hair.
 Go and tell the god of Thirumuzhikaḷam  
 surrounded by strong walls how I suffer from love for him."  
 
-3747 பூந் துழாய் முடியார்க்கு பொன் ஆழிக் கையாருக்கு  
-ஏந்து நீர் இளம் குருகே திருமூழிக் களத்தாருக்கு  
-ஏந்து பூண் முலை பயந்து என் இணை மலர்க் கண் நீர் ததும்ப  
-தாம் தம்மைக்கொண்டு அகல்தல் தகவு அன்று என்று உரையீரே (9)  
-3747. She says, "O young kurugu bird!  
+३७४७ पून् दुऴाय् मुडियार्क्कु पॊन् आऴिक् कैयारुक्कु  
+एन्दु नीर् इळम् गुरुगे तिरुमूऴिक् कळत्तारुक्कु  
+एन्दु पूण् मुलै पयन्दु ऎन् इणै मलर्क् कण् नीर् तदुम्ब  
+ताम् तम्मैक्कॊण्डु अगल्दल् तगवु अण्ड्रु ऎण्ड्रु उरैयीरे (९)  
+३७४७। She says, "O young kurugu bird!  
 You live in a pond filled with water.  
 The god of Thirumuzhikkaḷam carries a golden discus  
 and wears a beautiful thulasi garland in his hair.  
@@ -13433,11 +13434,11 @@ Go and say to him,
 Her flower-like eyes are filled with tears.  
 It isn’t fair that you loved her and left her.’"  
 
-3748 தகவு அன்று என்று உரையீர்கள் தடம் புனல்வாய் இரை தேர்ந்து  
-மிக இன்பம் பட மேவும் மேல் நடைய அன்னங்காள்  
-மிக மேனி மெலிவு எய்தி மேகலையும் ஈடு அழிந்து என்  
-அகமேனி ஒழியாமே திருமூழிக்களத்தார்க்கே (10)  
-3748. She says, "O swans,  
+३७४८ तगवु अण्ड्रु ऎण्ड्रु उरैयीर्गळ् तडम् पुनल्वाय् इरै तेर्न्दु  
+मिग इन्बम् पड मेवुम् मेल् नडैय अन्नङ्गाळ्  
+मिग मेनि मॆलिवु ऎय्दि मेगलैयुम् ईडु अऴिन्दु ऎन्  
+अगमेनि ऒऴियामे तिरुमूऴिक्कळत्तार्क्के (१०)  
+३७४८। She says, "O swans,  
 you search for your food on the wide shores of the water  
 and walk gently with your beloved flock and are happy.  
 Go and tell the lord of Thirumuzhikkaḷam  
@@ -13445,11 +13446,11 @@ that she is weak and her waistband has grown loose.
 Her body is barely alive.  
 It is not fair that you loved her and left her."  
 
-3749 ஒழிவு இன்றித் திருமூழிக்களத்து உறையும் ஒண்சுடரை  
-ஒழிவு இல்லா அணி மழலைக் கிளிமொழியாள் அலற்றிய சொல்  
-வழு இல்லா வண் குருகூர்ச் சடகோபன் வாய்ந்து உரைத்த  
-அழிவு இல்லா ஆயிரத்து இப் பத்தும் நோய் அறுக்குமே (11)  
-3749. Saḍagopan from faultless flourishing Thirukuruhur  
+३७४९ ऒऴिवु इण्ड्रित् तिरुमूऴिक्कळत्तु उऱैयुम् ऒण्सुडरै  
+ऒऴिवु इल्ला अणि मऴलैक् किळिमॊऴियाळ् अलट्रिय सॊल्  
+वऴु इल्ला वण् गुरुगूर्च् चडगोबन् वाय्न्दु उरैत्त  
+अऴिवु इल्ला आयिरत्तु इप् पत्तुम् नोय् अऱुक्कुमे (११)  
+३७४९। Saḍagopan from faultless flourishing Thirukuruhur  
 composed a thousand eternal pasurams  
 describing a girl who loves the god and prattles on like a parrot,  
 continually uttering sweet words and praising the lord  
@@ -13458,57 +13459,57 @@ If devotees learn and recite these ten pasurams,
 their sickness will go away.  
 -------------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (எட்டாம் திருமொழி, 3750-3760)  
-தூதர் மீளுமளவும் தனிமை பொறாத தலைவி தலைவன் நகரான  
-திருநாவாய் செல்ல நினைத்தல் (திருநாவாய்)  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३७५०-३७६०)  
+तूदर् मीळुमळवुम् तनिमै पॊऱाद तलैवि तलैवन् नगरान  
+तिरुनावाय् सॆल्ल निनैत्तल् (तिरुनावाय्)  
 
-3750 அறுக்கும் வினையாயின ஆகத்து அவனை  
-நிறுத்தும் மனத்து ஒன்றிய சிந்தையினார்க்கு  
-வெறித் தண் மலர்ச் சோலைகள் சூழ் திருநாவாய்  
-குறுக்கும் வகை உண்டுகொலோ கொடியேற்கே? (1)  
-3750. If devotees keep the lord in their minds  
+३७५० अऱुक्कुम् विनैयायिन आगत्तु अवनै  
+निऱुत्तुम् मनत्तु ऒण्ड्रिय सिन्दैयिनार्क्कु  
+वॆऱित् तण् मलर्च् चोलैगळ् सूऴ् तिरुनावाय्  
+कुऱुक्कुम् वगै उण्डुगॊलो कॊडियेऱ्‌के? (१)  
+३७५०। If devotees keep the lord in their minds  
 and think only of him their karma will go away.  
 When will the day come when I, so unworthy,  
 can approach Thirunavay,  
 surrounded by fragrant cool blooming groves.  
 
-3751 கொடி ஏர் இடைக் கோகனகத்தவள் கேள்வன்  
-வடி வேல் தடம் கண் மடப் பின்னை மணாளன்  
-நெடியான் உறை சோலைகள் சூழ் திருநாவாய்  
-அடியேன் அணுகப்பெறும் நாள் எவைகொலோ? (2)  
-3751. He is the beloved of Lakshmi staying on a lotus,  
+३७५१ कॊडि एर् इडैक् कोगनगत्तवळ् केळ्वन्  
+वडि वेल् तडम् कण् मडप् पिन्नै मणाळन्  
+नॆडियान् उऱै सोलैगळ् सूऴ् तिरुनावाय्  
+अडियेन् अणुगप्पॆऱुम् नाळ् ऎवैगॊलो? (२)  
+३७५१। He is the beloved of Lakshmi staying on a lotus,  
 her waist as thin as a vine,  
 and the beloved of lovely Nappinnai  
 with large sharp spear-like eyes.  
 When will I, his slave, approach Thirunaavaay  
 where the lord Nediyaan stays, surrounded by groves?  
 
-3752 எவைகொல் அணுகப் பெறும் நாள் என்று எப்போதும்  
-கவையில் மனம் இன்றி கண்ணீர்கள் கலுழ்வன்  
-நவை இல் திருநாரணன் சேர் திருநாவாய்  
-அவையுள் புகலாவது ஓர் நாள் அறியேனே (3)  
-3752. I think always in my faultless mind,  
+३७५२ ऎवैगॊल् अणुगप् पॆऱुम् नाळ् ऎण्ड्रु ऎप्पोदुम्  
+कवैयिल् मनम् इण्ड्रि कण्णीर्गळ् कलुऴ्वन्  
+नवै इल् तिरुनारणन् सेर् तिरुनावाय्  
+अवैयुळ् पुगलावदु ओर् नाळ् अऱियेने (३)  
+३७५२। I think always in my faultless mind,  
 "When will the day come that I go to the god?"  
 and I shed tears and suffer.  
 I don’t know when I will go  
 to the faultless divine Naraṇan  
 of Thirunaavaay.  
 
-3753 நாளேல் அறியேன் எனக்கு உள்ளன நானும்  
-மீளா அடிமைப்பணி செய்யப் புகுந்தேன்  
-நீள் ஆர் மலர்ச் சோலைகள் சூழ் திருநாவாய்  
-வாள் ஏய் தடம் கண் மடப் பின்னை மணாளா (4)  
-3753. O god, you are the beloved of lovely Nappinnai  
+३७५३ नाळेल् अऱियेन् ऎनक्कु उळ्ळन नानुम्  
+मीळा अडिमैप्पणि सॆय्यप् पुगुन्देन्  
+नीळ् आर् मलर्च् चोलैगळ् सूऴ् तिरुनावाय्  
+वाळ् एय् तडम् कण् मडप् पिन्नै मणाळा (४)  
+३७५३। O god, you are the beloved of lovely Nappinnai  
 with large sword-like eyes and you stay in Thirunaavaay  
 surrounded by tall blooming groves.  
 I have begun to serve you and do not want to leave you.  
 I don’t know how long my life will be.  
 
-3754 மணாளன் மலர் மங்கைக்கும் மண் மடந்தைக்கும்  
-கண்ணாளன் உலகத்து உயிர் தேவர்கட்கு எல்லாம்  
-விண்ணாளன் விரும்பி உறையும் திருநாவாய்  
-கண் ஆரக் களிக்கின்றது இங்கு என்றுகொல் கண்டே? (5)  
-3754. He is the beloved of Lakshmi, on a lotus.  
+३७५४ मणाळन् मलर् मङ्गैक्कुम् मण् मडन्दैक्कुम्  
+कण्णाळन् उलगत्तु उयिर् तेवर्गट्कु ऎल्लाम्  
+विण्णाळन् विरुम्बि उऱैयुम् तिरुनावाय्  
+कण् आरक् कळिक्किण्ड्रदु इङ्गु ऎण्ड्रुगॊल् कण्डे? (५)  
+३७५४। He is the beloved of Lakshmi, on a lotus.  
 He is as precious as her eyes to the earth goddess.  
 He is the soul of all the creatures of the world  
 and the god of the gods in the sky.  
@@ -13516,64 +13517,64 @@ He loves to stay in Thirunaavaay—
 when will the day come that I can go to him  
 and my eyes can have the joy of seeing him?  
 
-3755 கண்டே களிக்கின்றது இங்கு என்றுகொல் கண்கள்  
-தொண்டே உனக்காய் ஒழிந்தேன் துரிசு இன்றி  
-வண்டு ஆர் மலர்ச் சோலைகள் சூழ் திருநாவாய்  
-கொண்டே உறைகின்ற எம் கோவலர் கோவே? (6)  
-3755. My eyes see you here and are happy.  
+३७५५ कण्डे कळिक्किण्ड्रदु इङ्गु ऎण्ड्रुगॊल् कण्गळ्  
+तॊण्डे उनक्काय् ऒऴिन्देन् तुरिसु इण्ड्रि  
+वण्डु आर् मलर्च् चोलैगळ् सूऴ् तिरुनावाय्  
+कॊण्डे उऱैगिण्ड्र ऎम् कोवलर् कोवे? (६)  
+३७५५। My eyes see you here and are happy.  
 I became a faultless devotee to serve you.  
 You stay in Thirunaavaay  
 surrounded with blooming groves  
 where the bees sing.  
 You are the lord of the cowherds.  
 
-3756 கோ ஆகிய மா வலியை நிலம் கொண்டாய்  
-தேவாசுரம் செற்றவனே திருமாலே  
-நாவாய் உறைகின்ற என் நாரண நம்பீ  
-ஆஆ அடியான் இவன் என்று அருளாயே (7)  
-3756. As a dwarf you took the land from king Mahabali.  
+३७५६ को आगिय मा वलियै निलम् कॊण्डाय्  
+तेवासुरम् सॆट्रवने तिरुमाले  
+नावाय् उऱैगिण्ड्र ऎन् नारण नम्बी  
+आआ अडियान् इवन् ऎण्ड्रु अरुळाये (७)  
+३७५६। As a dwarf you took the land from king Mahabali.  
 You destroyed the Asurans when the gods fought them.  
 You are Thirumaal.  
 You are the Nambi Narayaṇan of Thirunaavaay.  
 Come to me, give me your grace and say,  
 "This is my devotee!"  
 
-3757 அருளாது ஒழிவாய் அருள் செய்து அடியேனைப்  
-பொருளாக்கி உன் பொன் அடிக் கீழ்ப் புக வைப்பாய்  
-மருளே இன்றி உன்னை என் நெஞ்சத்து இருத்தும்  
-தெருளே தரு தென் திருநாவாய் என் தேவே (8)  
-3757. Whether you give me your grace or not,  
+३७५७ अरुळादु ऒऴिवाय् अरुळ् सॆय्दु अडियेनैप्  
+पॊरुळाक्कि उन् पॊन् अडिक् कीऴ्प् पुग वैप्पाय्  
+मरुळे इण्ड्रि उन्नै ऎन् नॆञ्जत्तु इरुत्तुम्  
+तॆरुळे तरु तॆन् तिरुनावाय् ऎन् तेवे (८)  
+३७५७। Whether you give me your grace or not,  
 make me your devotee and let me stay beneath your golden feet.  
 Give me a clear mind  
 so I may keep you in my heart and not be confused.  
 You are my god of Thirunaavaay.  
 
-3758 தேவர் முனிவர்க்கு என்றும் காண்டற்கு அரியன்  
-மூவர் முதல்வன் ஒரு மூவுலகு ஆளி  
-தேவன் விரும்பி உறையும் திருநாவாய்  
-யாவர் அணுகப் பெறுவார் இனி? அந்தோ (9)  
-3758 The gods and the sages could not see him.  
+३७५८ तेवर् मुनिवर्क्कु ऎण्ड्रुम् काण्डऱ्‌कु अरियन्  
+मूवर् मुदल्वन् ऒरु मूवुलगु आळि  
+तेवन् विरुम्बि उऱैयुम् तिरुनावाय्  
+यावर् अणुगप् पॆऱुवार् इनि? अन्दो (९)  
+३७५८ The gods and the sages could not see him.  
 He is the ancient one of the three gods.  
 He is the ruler of all the three worlds.  
 Thirunaavaay is the place where the god loves to stay.  
 How can we go and see the god?  
 It is a pity!  
 
-3759 அந்தோ அணுகப் பெறும் நாள் என்று எப்போதும்  
-சிந்தை கலங்கித் திருமால் என்று அழைப்பன்  
-கொந்து ஆர் மலர்ச் சோலைகள் சூழ் திருநாவாய்  
-வந்தே உறைகின்ற எம் மா மணி வண்ணா. (10)  
-3759. I suffer in my mind and call you, saying, "O Thirumaal!"  
+३७५९ अन्दो अणुगप् पॆऱुम् नाळ् ऎण्ड्रु ऎप्पोदुम्  
+सिन्दै कलङ्गित् तिरुमाल् ऎण्ड्रु अऴैप्पन्  
+कॊन्दु आर् मलर्च् चोलैगळ् सूऴ् तिरुनावाय्  
+वन्दे उऱैगिण्ड्र ऎम् मा मणि वण्णा। (१०)  
+३७५९। I suffer in my mind and call you, saying, "O Thirumaal!"  
 and I ask you when the day will come when I can come to you.  
 You have the color of a beautiful dark jewel  
 and you stay in Thirunaavaay  
 where the groves bloom with bunches of flowers.  
 
-3760 வண்ணம் மணி மாட நல் நாவாய் உள்ளானைத்  
-திண்ணம் மதிள் தென் குருகூர்ச் சடகோபன்  
-பண் ஆர் தமிழ் ஆயிரத்து இப் பத்தும் வல்லார்  
-மண் ஆண்டு மணம் கமழ்வர் மல்லிகையே (11)  
-3760. Saḍagopan of flourishing southern Thirukuruhur  
+३७६० वण्णम् मणि माड नल् नावाय् उळ्ळानैत्  
+तिण्णम् मदिळ् तॆन् गुरुगूर्च् चडगोबन्  
+पण् आर् तमिऴ् आयिरत्तु इप् पत्तुम् वल्लार्  
+मण् आण्डु मणम् कमऴ्वर् मल्लिगैये (११)  
+३७६०। Saḍagopan of flourishing southern Thirukuruhur  
 filled with palaces studded with precious jewels  
 and surrounded by strong walls  
 composed a thousand musical Tamil pasurams.  
@@ -13582,18 +13583,18 @@ they will rule the earth for many years
 and their fame will spread like the fragrance of jasmine.  
 ------------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (ஒன்பதாம் திருமொழி, 3761-3771)  
-தலைவி மாலைப்பொழுது கண்டு தனது ஆற்றாமையால் இரங்கிக் கூறல்  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३७६१-३७७१)  
+तलैवि मालैप्पॊऴुदु कण्डु तनदु आट्रामैयाल् इरङ्गिक् कूऱल्  
 
-3761 மல்லிகை கமழ் தென்றல் ஈரும் ஆலோ  
-வண் குறிஞ்சி இசை தவரும் ஆலோ  
-செல் கதிர் மாலையும் மயக்கும் ஆலோ  
-செக்கர் நல் மேகங்கள் சிதைக்கும் ஆலோ  
-அல்லி அம் தாமரைக் கண்ணன் எம்மான்  
-ஆயர்கள் ஏறு அரி ஏறு எம் மாயோன்  
-புல்லிய முலைகளும் தோளும் கொண்டு  
-புகலிடம் அறிகிலம் தமியம் ஆலோ (1)  
-3761. She says,  
+३७६१ मल्लिगै कमऴ् तॆण्ड्रल् ईरुम् आलो  
+वण् कुऱिञ्जि इसै तवरुम् आलो  
+सॆल् गतिर् मालैयुम् मयक्कुम् आलो  
+सॆक्कर् नल् मेगङ्गळ् सिदैक्कुम् आलो  
+अल्लि अम् तामरैक् कण्णन् ऎम्मान्  
+आयर्गळ् एऱु अरि एऱु ऎम् मायोन्  
+पुल्लिय मुलैगळुम् तोळुम् कॊण्डु  
+पुगलिडम् अऱिगिलम् तमियम् आलो (१)  
+३७६१। She says,  
 "The breeze with its fragrance of jasmine  
 increases the pain of my love.  
 The beautiful Kurunji music hurts my ears.  
@@ -13603,15 +13604,15 @@ My dear lotus-eyed Kaṇṇan, the bull among the cowherds,
 the Maayon, the heroic lion, embraced my breasts and arms.  
 Now I am lonely and do not know where I will find refuge."  
 
-3762 புகலிடம் அறிகிலம் தமியம் ஆலோ  
-புலம்புறு மணி தென்றல் ஆம்பல் ஆலோ  
-பகல் அடு மாலை வண் சாந்தம் ஆலோ  
-பஞ்சமம் முல்லை தண் வாடை ஆலோ  
-அகல் இடம் படைத்து இடந்து உண்டு உமிழ்ந்து  
-அளந்து எங்கும் அளிக்கின்ற ஆயன் மாயோன்  
-இகலிடத்து அசுரர்கள் கூற்றம் வாரான்  
-இனி இருந்து என் உயிர் காக்கும் ஆறு என்? (2)  
-3762. She says,  
+३७६२ पुगलिडम् अऱिगिलम् तमियम् आलो  
+पुलम्बुऱु मणि तॆण्ड्रल् आम्बल् आलो  
+पगल् अडु मालै वण् सान्दम् आलो  
+पञ्जमम् मुल्लै तण् वाडै आलो  
+अगल् इडम् पडैत्तु इडन्दु उण्डु उमिऴ्न्दु  
+अळन्दु ऎङ्गुम् अळिक्किण्ड्र आयन् मायोन्  
+इगलिडत्तु असुरर्गळ् कूट्रम् वारान्  
+इनि इरुन्दु ऎन् उयिर् काक्कुम् आऱु ऎन्? (२)  
+३७६२। She says,  
 "I am lonely and I do not know where I will find refuge.  
 The lovely breeze makes me prattle and suffer.  
 The evening when the sun sets  
@@ -13625,15 +13626,15 @@ He gives his grace to all.
 When the Asurans come to fight with him he is Yama for them.  
 He doesn’t come to see me. Why do I keep on living?"  
 
-3763 இனி இருந்து என் உயிர் காக்கும் ஆறு என்?  
-இணை முலை நமுக நுண் இடை நுடங்க  
-துனி இரும் கலவிசெய்து ஆகம் தோய்ந்து  
-துறந்து எம்மை இட்டு அகல் கண்ணன் கள்வன்  
-தனி இளம் சிங்கம் எம் மாயன் வாரான்  
-தாமரைக் கண்ணும் செவ்வாயும் நீலப்  
-பனி இரும் குழல்களும் நான்கு தோளும்  
-பாவியேன் மனத்தே நின்று ஈரும் ஆலோ (3)  
-3763. She says,  
+३७६३ इनि इरुन्दु ऎन् उयिर् काक्कुम् आऱु ऎन्?  
+इणै मुलै नमुग नुण् इडै नुडङ्ग  
+तुनि इरुम् कलविसॆय्दु आगम् तोय्न्दु  
+तुऱन्दु ऎम्मै इट्टु अगल् कण्णन् कळ्वन्  
+तनि इळम् सिङ्गम् ऎम् मायन् वारान्  
+तामरैक् कण्णुम् सॆव्वायुम् नीलप्  
+पनि इरुम् कुऴल्गळुम् नान्गु तोळुम्  
+पावियेन् मनत्ते निण्ड्रु ईरुम् आलो (३)  
+३७६३। She says,  
 "Why do I keep on living?  
 The thief Kaṇṇan embraced my chest,  
 pressing my breasts and making my small waist tremble.  
@@ -13643,15 +13644,15 @@ His lotus eyes, red mouth, dark handsome hair
 and his four arms stay in my mind and make me suffer.  
 I am pitiful."  
 
-3764 பாவியேன் மனத்தே நின்று ஈரும் ஆலோ  
-வாடை தண் வாடை வெவ் வாடை ஆலோ  
-மேவு தண் மதியம் வெம் மதியம் ஆலோ  
-மென் மலர்ப் பள்ளி வெம் பள்ளி ஆலோ  
-தூவி அம் புள் உடைத் தெய்வ வண்டு  
-துதைந்த எம் பெண்மை அம் பூ இது ஆலோ  
-ஆவியின் பரம் அல்ல வகைகள் ஆலோ  
-யாமுடை நெஞ்சமும் துணை அன்று ஆலோ (4)  
-3764. She says,  
+३७६४ पावियेन् मनत्ते निण्ड्रु ईरुम् आलो  
+वाडै तण् वाडै वॆव् वाडै आलो  
+मेवु तण् मदियम् वॆम् मदियम् आलो  
+मॆन् मलर्प् पळ्ळि वॆम् पळ्ळि आलो  
+तूवि अम् पुळ् उडैत् तॆय्व वण्डु  
+तुदैन्द ऎम् पॆण्मै अम् पू इदु आलो  
+आवियिन् परम् अल्ल वगैगळ् आलो  
+यामुडै नॆञ्जमुम् तुणै अण्ड्रु आलो (४)  
+३७६४। She says,  
 "All his forms stay in my mind and give me pain.  
 The cool wind blows and makes me hot.  
 The cool moon rises and is hot for me.  
@@ -13661,15 +13662,15 @@ like a divine bee with pure wings that loves flowers.
 My life is not in my hands.  
 My heart does not help me and makes me suffer."  
 
-3765 யாமுடை நெஞ்சமும் துணை அன்று ஆலோ  
-ஆ புகு மாலையும் ஆகின்று ஆலோ  
-யாமுடை ஆயன் தன் மனம் கல் ஆலோ  
-அவனுடைத் தீம் குழல் ஈரும் ஆலோ  
-யாமுடைத் துணை என்னும் தோழிமாரும்  
-எம்மில் முன் அவனுக்கு மாய்வர் ஆலோ  
-யாமுடை ஆர் உயிர் காக்குமாறு என்?  
-அவனுடை அருள்பெறும் போது அரிதே (5)  
-3765. She says,  
+३७६५ यामुडै नॆञ्जमुम् तुणै अण्ड्रु आलो  
+आ पुगु मालैयुम् आगिण्ड्रु आलो  
+यामुडै आयन् तन् मनम् कल् आलो  
+अवनुडैत् तीम् कुऴल् ईरुम् आलो  
+यामुडैत् तुणै ऎन्नुम् तोऴिमारुम्  
+ऎम्मिल् मुन् अवनुक्कु माय्वर् आलो  
+यामुडै आर् उयिर् काक्कुमाऱु ऎन्?  
+अवनुडै अरुळ्बॆऱुम् पोदु अरिदे (५)  
+३७६५। She says,  
 "My heart does not help me, it only troubles me.  
 The evening when the cows return home is painful for me.  
 Is the heart of the cowherd I love a stone?  
@@ -13679,15 +13680,15 @@ How can I protect my dear life?
 It is hard to receive his grace  
 but that is be the only thing that will help me."  
 
-3766 அவனுடை அருள்பெறும் போது அரிதால்  
-அவ் அருள் அல்லன அருளும் அல்ல  
-அவன் அருள் பெறும் அளவு ஆவி நில்லாது  
-அடு பகல் மாலையும் நெஞ்சும் காணேன்  
-சிவனொடு பிரமன் வண் திருமடந்தை  
-சேர் திரு ஆகம் எம் ஆவி ஈரும்  
-எவன் இனிப் புகும் இடம்? எவன் செய்கேனோ?  
-ஆருக்கு என் சொல்லுகேன்? அன்னைமீர்காள் (6)  
-3766. She says,  
+३७६६ अवनुडै अरुळ्बॆऱुम् पोदु अरिदाल्  
+अव् अरुळ् अल्लन अरुळुम् अल्ल  
+अवन् अरुळ् पॆऱुम् अळवु आवि निल्लादु  
+अडु पगल् मालैयुम् नॆञ्जुम् काणेन्  
+सिवनॊडु पिरमन् वण् तिरुमडन्दै  
+सेर् तिरु आगम् ऎम् आवि ईरुम्  
+ऎवन् इनिप् पुगुम् इडम्? ऎवन् सॆय्गेनो?  
+आरुक्कु ऎन् सॊल्लुगेन्? अन्नैमीर्गाळ् (६)  
+३७६६। She says,  
 " It is hard to get his grace.  
 Any other grace but his is not really grace.  
 Unless I receive his grace my soul will not join him.  
@@ -13698,15 +13699,15 @@ O mothers, where will I go to find a refuge?
 What should I do?  
 To whom should I tell my pain?"  
 
-3767 ஆருக்கு என் சொல்லுகேன்? அன்னைமீர்காள்  
-ஆர் உயிர் அளவு அன்று இக் கூர் தண் வாடை  
-கார் ஒக்கும் மேனி நம் கண்ணன் கள்வம்  
-கவர்ந்த அத் தனி நெஞ்சம் அவன் கணஃதே  
-சீர் உற்ற அகில் புகை யாழ் நரம்பு  
-பஞ்சமம் தண் பசும் சாந்து அணைந்து  
-போர் உற்ற வாடை தண் மல்லிகைப்பூப்  
-புது மணம் முகந்துகொண்டு எறியும் ஆலோ (7)  
-3767. She says,  
+३७६७ आरुक्कु ऎन् सॊल्लुगेन्? अन्नैमीर्गाळ्  
+आर् उयिर् अळवु अण्ड्रु इक् कूर् तण् वाडै  
+कार् ऒक्कुम् मेनि नम् कण्णन् कळ्वम्  
+कवर्न्द अत् तनि नॆञ्जम् अवन् कणह्दे  
+सीर् उट्र अगिल् पुगै याऴ् नरम्बु  
+पञ्जमम् तण् पसुम् सान्दु अणैन्दु  
+पोर् उट्र वाडै तण् मल्लिगैप्पूप्  
+पुदु मणम् मुगन्दुगॊण्डु ऎऱियुम् आलो (७)  
+३७६७। She says,  
 "O mothers, to whom can I tell how I suffer from love?  
 What should I say? My life is almost over.  
 The dark cloud-colored Kaṇṇan  
@@ -13718,15 +13719,15 @@ the fragrance of cool fresh sandal paste,
 the smell of beautiful jasmine—  
 all come and seem to fight me."  
 
-3768 புது மணம் முகந்து கொண்டு எறியும் ஆலோ  
-பொங்கு இள வாடை புன் செக்கர் ஆலோ  
-அது மணந்து அகன்ற நம் கண்ணன் கள்வம்  
-கண்ணனில் கொடிது இனி அதனில் உம்பர்  
-மது மண மல்லிகை மந்தக் கோவை  
-வண் பசும் சாந்தினில் பஞ்சமம் வைத்து  
-அது மணந்து இன் அருள் ஆய்ச்சியர்க்கே  
-ஊதும் அத் தீம் குழற்கே உய்யேன் நான் (8)  
-3768. She says,  
+३७६८ पुदु मणम् मुगन्दु कॊण्डु ऎऱियुम् आलो  
+पॊङ्गु इळ वाडै पुन् सॆक्कर् आलो  
+अदु मणन्दु अगण्ड्र नम् कण्णन् कळ्वम्  
+कण्णनिल् कॊडिदु इनि अदनिल् उम्बर्  
+मदु मण मल्लिगै मन्दक् कोवै  
+वण् पसुम् सान्दिनिल् पञ्जमम् वैत्तु  
+अदु मणन्दु इन् अरुळ् आय्च्चियर्क्के  
+ऊदुम् अत् तीम् कुऴऱ्‌के उय्येन् नान् (८)  
+३७६८। She says,  
 "The breeze carries fresh fragrance and overwhelms me.  
 The cool young wind is like a red fire for me.  
 Our Kaṇṇan came, loved us and left like a thief.  
@@ -13738,15 +13739,15 @@ That thief gives his grace
 and plays sweet music on his flute for the cowherd girls.  
 I cannot hear it and survive."  
 
-3769 ஊதும் அத் தீம் குழற்கே உய்யேன் நான்  
-அது மொழிந்து இடை இடை தன் செய் கோலத்  
-தூது செய் கண்கள் கொண்டு ஒன்று பேசி  
-தூ மொழி இசைகள் கொண்டு ஒன்று நோக்கி  
-பேதுறு முகம்செய்து நொந்து நொந்து  
-பேதை நெஞ்சு அறவு அறப் பாடும் பாட்டை  
-யாதும் ஒன்று அறிகிலம் அம்ம அம்ம  
-மாலையும் வந்தது மாயன் வாரான் (9)  
-3769. She says,  
+३७६९ ऊदुम् अत् तीम् कुऴऱ्‌के उय्येन् नान्  
+अदु मॊऴिन्दु इडै इडै तन् सॆय् कोलत्  
+तूदु सॆय् कण्गळ् कॊण्डु ऒण्ड्रु पेसि  
+तू मॊऴि इसैगळ् कॊण्डु ऒण्ड्रु नोक्कि  
+पेदुऱु मुगंसॆय्दु नॊन्दु नॊन्दु  
+पेदै नॆञ्जु अऱवु अऱप् पाडुम् पाट्टै  
+यादुम् ऒण्ड्रु अऱिगिलम् अम्म अम्म  
+मालैयुम् वन्ददु मायन् वारान् (९)  
+३७६९। She says,  
 "I cannot hear that sweet music and survive.  
 When he plays on his flute, he speaks to us as he plays.  
 He send his eyes as messengers to say something to us.  
@@ -13755,15 +13756,15 @@ He makes many faces. I cannot imagine
 how much the cowherd girls’ innocent hearts have suffered.  
 The evening has come but Maayan has not yet come."  
 
-3770 மாலையும் வந்தது மாயன் வாரான்  
-மா மணி புலம்ப வல் ஏறு அணைந்த  
-கோல நல் நாகுகள் உகளும் ஆலோ  
-கொடியன குழல்களும் குழறும் ஆலோ  
-வால் ஒளி வளர் முல்லை கருமுகைகள்  
-மல்லிகை அலம்பி வண்டு ஆலும் ஆலோ  
-வேலையும் விசும்பில் விண்டு அலறும் ஆலோ  
-என் சொல்லி உய்வன் இங்கு அவனை விட்டே? (10)  
-3770. She says,  
+३७७० मालैयुम् वन्ददु मायन् वारान्  
+मा मणि पुलम्ब वल् एऱु अणैन्द  
+कोल नल् नागुगळ् उगळुम् आलो  
+कॊडियन कुऴल्गळुम् कुऴऱुम् आलो  
+वाल् ऒळि वळर् मुल्लै करुमुगैगळ्  
+मल्लिगै अलम्बि वण्डु आलुम् आलो  
+वेलैयुम् विसुम्बिल् विण्डु अलऱुम् आलो  
+ऎन् सॊल्लि उय्वन् इङ्गु अवनै विट्टे? (१०)  
+३७७०। She says,  
 "The evening has come but that Maayan has not.  
 The bulls with their large bells have reached home.  
 The beautiful cows that saw their bulls jump in joy have come.  
@@ -13773,15 +13774,15 @@ The ocean looks at the sky and roars.
 He has left me.  
 What can I say to survive now that he has left me?"  
 
-3771 அவனைவிட்டு அகன்று உயிர் ஆற்றகில்லா  
-அணி இழை ஆய்ச்சியர் மாலைப் பூசல்  
-அவனை விட்டு அகல்வதற்கே இரங்கி  
-அணி குருகூர்ச் சடகோபன் மாறன்  
-அவனி உண்டு உமிழ்ந்தவன்மேல் உரைத்த  
-ஆயிரத்துள் இவை பத்தும் கொண்டு  
-அவனியுள் அலற்றி நின்று உய்ம்மின் தொண்டீர்  
-அச் சொன்ன மாலை நண்ணித் தொழுதே (11)  
-3771. Saḍagopan Maaṛan of beautiful Thirukuruhur  
+३७७१ अवनैविट्टु अगण्ड्रु उयिर् आट्रगिल्ला  
+अणि इऴै आय्च्चियर् मालैप् पूसल्  
+अवनै विट्टु अगल्वदऱ्‌के इरङ्गि  
+अणि गुरुगूर्च् चडगोबन् माऱन्  
+अवनि उण्डु उमिऴ्न्दवन्मेल् उरैत्त  
+आयिरत्तुळ् इवै पत्तुम् कॊण्डु  
+अवनियुळ् अलट्रि निण्ड्रु उय्म्मिन् तॊण्डीर्  
+अच् चॊन्न मालै नण्णित् तॊऴुदे (११)  
+३७७१। Saḍagopan Maaṛan of beautiful Thirukuruhur  
 composed a thousand pasurams on the god  
 who swallowed all the seven worlds and spit them out,  
 describing how the cowherd girls felt sad when he left them.  
@@ -13792,14 +13793,14 @@ O devotees, learn these ten pasurams, recite them
 and worship him and you will be saved.  
 --------------  
 
-திருவாய்மொழி ஒன்பதாம் பத்து (பத்தாம் திருமொழி, 3772-3782)  
-திருக்கண்ணபுரம் சேருமாறு பிறருக்கு உபதேசம் செய்தல் (திருக்கண்ணபுரம்)  
+तिरुवाय्मॊऴि ऒन्बदाम् पत्तु (पत्ताम् तिरुमॊऴि, ३७७२-३७८२)  
+तिरुक्कण्णबुरम् सेरुमाऱु पिऱरुक्कु उपदेशम् सॆय्दल् (तिरुक्कण्णबुरम्)  
 
-3772 மாலை நண்ணித் தொழுது எழுமினோ வினை கெட  
-காலை மாலை கமல மலர் இட்டு நீர்  
-வேலை மோதும் மதிள் சூழ் திருக் கண்ணபுரத்து  
-ஆலின்மேல் ஆல் அமர்ந்தான் அடி இணைகளே (1)  
-3772. Worship in the evening to remove  
+३७७२ मालै नण्णित् तॊऴुदु ऎऴुमिनो विनै कॆड  
+कालै मालै कमल मलर् इट्टु नीर्  
+वेलै मोदुम् मदिळ् सूऴ् तिरुक् कण्णबुरत्तु  
+आलिन्मेल् आल् अमर्न्दान् अडि इणैगळे (१)  
+३७७२। Worship in the evening to remove  
 the results of your karma.  
 In the morning and evening place lotus flowers  
 at the feet of the god and worship him.  
@@ -13809,31 +13810,31 @@ surrounded with walls
 where the ocean waves come and break.  
 
 
-3773 கள் அவிழும் மலர் இட்டு நீர் இறைஞ்சுமின்  
-நள்ளி சேரும் வயல் சூழ் கிடங்கின் புடை  
-வெள்ளி ஏய்ந்த மதிள் சூழ் திருக் கண்ணபுரம்  
-உள்ளி நாளும் தொழுது எழுமினோ தொண்டரே (2)  
-3773. Worship the god with flowers dripping with honey.  
+३७७३ कळ् अविऴुम् मलर् इट्टु नीर् इऱैञ्जुमिन्  
+नळ्ळि सेरुम् वयल् सूऴ् किडङ्गिन् पुडै  
+वॆळ्ळि एय्न्द मदिळ् सूऴ् तिरुक् कण्णबुरम्  
+उळ्ळि नाळुम् तॊऴुदु ऎऴुमिनो तॊण्डरे (२)  
+३७७३। Worship the god with flowers dripping with honey.  
 O devotees, every morning when you get up  
 worship the feet of the god of Thirukaṇṇapuram  
 surrounded by tall walls that touch the stars  
 where crabs swim in the water in the fields.  
 
-3774 தொண்டர் நும் தம் துயர் போக நீர் ஏகமாய்  
-விண்டு வாடா மலர் இட்டு நீர் இறைஞ்சுமின்  
-வண்டு பாடும் பொழில் சூழ் திருக்கண்ணபுரத்து  
-அண்ட வாணன் அமரர் பெருமானையே (3)  
-3774. O devotees, pour water,  
+३७७४ तॊण्डर् नुम् तम् तुयर् पोग नीर् एकमाय्  
+विण्डु वाडा मलर् इट्टु नीर् इऱैञ्जुमिन्  
+वण्डु पाडुम् पॊऴिल् सूऴ् तिरुक्कण्णबुरत्तु  
+अण्ड वाणन् अमरर् पॆरुमानैये (३)  
+३७७४। O devotees, pour water,  
 place fresh blooming flowers at the feet of the god  
 and worship him and he will remove your sorrows.  
 He is the god of the gods of Thirukkaṇṇapuram  
 surrounded by groves where bees sing.  
 
-3775 மானை நோக்கி மடப் பின்னை தன் கேள்வனை  
-தேனை வாடா மலர் இட்டு நீர் இறைஞ்சுமின்  
-வானை உந்தும் மதிள் சூழ் திருக்கண்ணபுரம்  
-தான் நயந்த பெருமான் சரண் ஆகுமே (4)  
-3775. He is the beloved of the beautiful doe-eyed Nappinai.  
+३७७५ मानै नोक्कि मडप् पिन्नै तन् केळ्वनै  
+तेनै वाडा मलर् इट्टु नीर् इऱैञ्जुमिन्  
+वानै उन्दुम् मदिळ् सूऴ् तिरुक्कण्णबुरम्  
+तान् नयन्द पॆरुमान् सरण् आगुमे (४)  
+३७७५। He is the beloved of the beautiful doe-eyed Nappinai.  
 He is as sweet as honey—worship him,  
 pouring water and placing fresh flowers at this feet.  
 He is the god of Thirukkaṇṇapuram  
@@ -13841,33 +13842,33 @@ surrounded by walls that reach the sky.
 He loves to stay in Thirukannapuram  
 and his feet are the refuge for all his devotees.  
 
-3776 சரணம் ஆகும் தன தாள் அடைந்தார்க்கு எல்லாம்  
-மரணம் ஆனால் வைகுந்தம் கொடுக்கும் பிரான்  
-அரண் அமைந்த மதிள் சூழ் திருக்கண்ணபுரத்  
-தரணியாளன் தனது அன்பர்க்கு அன்பு ஆகுமே (5)  
-3776. He loves all devotees who approach his feet.  
+३७७६ सरणम् आगुम् तन ताळ् अडैन्दार्क्कु ऎल्लाम्  
+मरणम् आनाल् वैगुन्दम् कॊडुक्कुम् पिरान्  
+अरण् अमैन्द मदिळ् सूऴ् तिरुक्कण्णबुरत्  
+तरणियाळन् तनदु अन्बर्क्कु अन्बु आगुमे (५)  
+३७७६। He loves all devotees who approach his feet.  
 He gives moksha in Vaikuṇḍam to them  
 when they leave this world.  
 He is the god of Thirukannapuram  
 surrounded with strong fort-like walls.  
 He is the friend of those who love him.  
 
-3777 அன்பன் ஆகும் தன தாள் அடைந்தார்க்கு எல்லாம்  
-செம் பொன் ஆகத்து அவுணன் உடல் கீண்டவன்  
-நன் பொன் ஏய்ந்த மதிள் சூழ் திருக்கண்ணபுரத்து  
-அன்பன் நாளும் தன மெய்யர்க்கு மெய்யனே (6)  
-3777. If devotees approach his feet, he becomes their friend.  
+३७७७ अन्बन् आगुम् तन ताळ् अडैन्दार्क्कु ऎल्लाम्  
+सॆम् पॊन् आगत्तु अवुणन् उडल् कीण्डवन्  
+नन् पॊन् एय्न्द मदिळ् सूऴ् तिरुक्कण्णबुरत्तु  
+अन्बन् नाळुम् तन मॆय्यर्क्कु मॆय्यने (६)  
+३७७७। If devotees approach his feet, he becomes their friend.  
 He split open the chest of the Asuran Hiranyan  
 that was as strong as pure gold.  
 He is a dear friend and he is the god in Thirukkaṇṇapuram  
 surrounded by shining walls covered with gold.  
 If devotees believe in him, he is real for them.  
 
-3778 மெய்யன் ஆகும் விரும்பித் தொழுவார்க்கு எல்லாம்  
-பொய்யன் ஆகும் புறமே தொழுவார்க்கு எல்லாம்  
-செய்யில் வாளை உகளும் திருக்கண்ணபுரத்து  
-ஐயன் ஆகத்து அணைப்பார்கட்கு அணியனே (7)  
-3778. If devotees believe in him and worship him,  
+३७७८ मॆय्यन् आगुम् विरुम्बित् तॊऴुवार्क्कु ऎल्लाम्  
+पॊय्यन् आगुम् पुऱमे तॊऴुवार्क्कु ऎल्लाम्  
+सॆय्यिल् वाळै उगळुम् तिरुक्कण्णबुरत्तु  
+ऐयन् आगत्तु अणैप्पार्गट्कु अणियने (७)  
+३७७८। If devotees believe in him and worship him,  
 he is real for them.  
 If anyone worships him without true devotion,  
 he is not real for them.  
@@ -13875,11 +13876,11 @@ The god of Thirukaṇṇapuram
 where vaalai fish frolic in the fields  
 is near to those who embrace him in their hearts.  
 
-3779 அணியன் ஆகும் தன தாள் அடைந்தார்க்கு எல்லாம்  
-பிணியும் சாரா பிறவி கெடுத்து ஆளும்  
-மணி பொன் ஏய்ந்த மதிள் சூழ் திருக்கண்ணரம்  
-பணிமின் நாளும் பரமேட்டி தன் பாதமே (8)  
-3779. If devotees approach his feet every day  
+३७७९ अणियन् आगुम् तन ताळ् अडैन्दार्क्कु ऎल्लाम्  
+पिणियुम् सारा पिऱवि कॆडुत्तु आळुम्  
+मणि पॊन् एय्न्द मदिळ् सूऴ् तिरुक्कण्णरम्  
+पणिमिन् नाळुम् परमेट्टि तन् पादमे (८)  
+३७७९। If devotees approach his feet every day  
 he will remove their sicknesses  
 and give his grace so they will not be born again.  
 Bow to the feet of the highest lord of heaven  
@@ -13887,11 +13888,11 @@ of Thirukkaṇṇapuram
 surrounded by walls studded with precious stones  
 and covered with gold.  
 
-3780 பாதம் நாளும் பணிய தணியும் பிணி  
-ஏதம் சாரா எனக்கேல் இனி என்குறை?  
-வேத நாவர் விரும்பும் திருக்கண்ணபுரத்து  
-ஆதியானை அடைந்தார்க்கு அல்லல் இல்லையே (9)  
-3780. Your sicknesses will go away if you worship  
+३७८० पादम् नाळुम् पणिय तणियुम् पिणि  
+एदम् सारा ऎनक्केल् इनि ऎन्गुऱै?  
+वेद नावर् विरुम्बुम् तिरुक्कण्णबुरत्तु  
+आदियानै अडैन्दार्क्कु अल्लल् इल्लैये (९)  
+३७८०। Your sicknesses will go away if you worship  
 the feet of the lord every day.  
 I will not have trouble in my life.  
 There is nothing for me to worry about.  
@@ -13900,38 +13901,38 @@ if they have taken refuge in the ancient lord
 of Thirukaṇṇapuram where the Brahmins  
 recite the Vedas and live happily.  
 
-3781 இல்லை அல்லல் எனக்கேல் இனி என் குறை?  
-அல்லி மாதர் அமரும் திருமார்பினன்  
-கல்லில் ஏய்ந்த மதிள் சூழ் திருக்கண்ணபுரம்  
-சொல்ல நாளும் துயர் பாடு சாராவே (10)  
-3781. I will have no trouble in my life.  
+३७८१ इल्लै अल्लल् ऎनक्केल् इनि ऎन् कुऱै?  
+अल्लि मादर् अमरुम् तिरुमार्बिनन्  
+कल्लिल् एय्न्द मदिळ् सूऴ् तिरुक्कण्णबुरम्  
+सॊल्ल नाळुम् तुयर् पाडु सारावे (१०)  
+३७८१। I will have no trouble in my life.  
 There is nothing for me to worry about.  
 Lakshmi abides on a lotus and stays on his chest.  
 If devotees every day praise Thirukkaṇṇapuram  
 surrounded by stone walls  
 they will have no trouble in their lives.  
 
-3782 பாடு சாராவினை பற்று அற வேண்டுவீர்  
-மாடம் நீடு குருகூர்ச் சடகோபன் சொல்  
-பாடலான தமிழ் ஆயிரத்துள் இப்பத்தும்  
-பாடி ஆடிப் பணிமின் அவன் தாள்களே (11)  
-3782. Saḍagopan from Thirukuruhur filled with tall palaces  
+३७८२ पाडु साराविनै पट्रु अऱ वेण्डुवीर्  
+माडम् नीडु गुरुगूर्च् चडगोबन् सॊल्  
+पाडलान तमिऴ् आयिरत्तुळ् इप्पत्तुम्  
+पाडि आडिप् पणिमिन् अवन् ताळ्गळे (११)  
+३७८२। Saḍagopan from Thirukuruhur filled with tall palaces  
 composed a thousand Tamil pasurams.  
 If you want to be without trouble and remove your karma  
 sing these ten pasurams  
 and dance and worship his feet.  
 -------------  
-திருவாய்மொழி பத்தாம் பத்து (3783-3892)  
-Divyaprabandham -Thiruvaymozhi - Pattaam Pathu 3783 - 3892  
-திருவாய்மொழி பத்தாம் பத்து (முதல் திருமொழி, 3783-3793)  
-திருமோகூர்ப் பெருமானைச் சரணம் அடைந்து தாம் பரமபதம்  
-அடையக் கருதியதை ஆழ்வார் அருளிச்செய்தல் (திருமோகூர்)  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (३७८३-३८९२)  
+Divyaprabandham -Thiruvaymozhi - Pattaam Pathu ३७८३ - ३८९२  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (मुदल् तिरुमॊऴि, ३७८३-३७९३)  
+तिरुमोगूर्प् पॆरुमानैच् चरणम् अडैन्दु ताम् परमबदम्  
+अडैयक् करुदियदै आऴ्वार् अरुळिच्चॆय्दल् (तिरुमोगूर्)  
 
-3783 தாள தாமரைத் தடம் அணி வயல் திருமோகூர்  
-நாளும் மேவி நன்கு அமர்ந்து நின்று அசுரரைத் தகர்க்கும்  
-தோளும் நான்கு உடைச் சுரி குழல் கமலக் கண் கனி வாய்க்  
-காளமேகத்தை அன்றி மற்றொன்று இலம் கதியே (1)  
-3783. He has the color of a dark cloud,  
+३७८३ ताळ तामरैत् तडम् अणि वयल् तिरुमोगूर्  
+नाळुम् मेवि नन्गु अमर्न्दु निण्ड्रु असुररैत् तगर्क्कुम्  
+तोळुम् नान्गु उडैच् चुरि कुऴल् कमलक् कण् कनि वाय्क्  
+काळमेगत्तै अण्ड्रि मट्रॊण्ड्रु इलम् गतिये (१)  
+३७८३। He has the color of a dark cloud,  
 a mouth sweet as a fruit, lotus eyes, curly hair and four arms.  
 He destroys the Asurans.  
 He stays happily always in Thirumogur  
@@ -13939,11 +13940,11 @@ surrounded by flourishing fields and ponds
 blooming with lotuses on stalks.  
 I have no refuge but the dark cloud-colored god.  
 
-3784 இலம் கதி மற்றொன்று எம்மைக்கும் ஈன் தண் துழாயின்  
-அலங்கல் அம் கண்ணி ஆயிரம் பேர் உடை அம்மான்  
-நலம் கொள் நான்மறை வாணர்கள் வாழ் திருமோகூர்  
-நலம் கழல் அவன் அடி நிழல் தடம் அன்றி யாமே (2)  
-3784. My father, the god, has a thousand names  
+३७८४ इलम् गति मट्रॊण्ड्रु ऎम्मैक्कुम् ईन् तण् तुऴायिन्  
+अलङ्गल् अम् कण्णि आयिरम् पेर् उडै अम्मान्  
+नलम् कॊळ् नान्मऱै वाणर्गळ् वाऴ् तिरुमोगूर्  
+नलम् कऴल् अवन् अडि निऴल् तडम् अण्ड्रि यामे (२)  
+३७८४। My father, the god, has a thousand names  
 and is adorned with a cool thulasi garland and precious ornaments.  
 He is my only refuge for all my births.  
 There is no help for me except the shadow of his feet  
@@ -13951,11 +13952,11 @@ ornamented with sounding anklets.
 He is the god of Thirumogur where Brahmins live  
 who know all the good four Vedas.  
 
-3785 அன்றி யாம் ஒரு புகலிடம் இலம் என்று என்று அலற்றி  
-நின்று நான்முகன் அரனொடு தேவர்கள் நாட  
-வென்று இம் மூவுலகு அளித்து உழல்வான் திருமோகூர்  
-நன்று நாம் இனி நணுகுதும் நமது இடர் கெடவே (3)  
-3785. Nanmuhan, Shiva and the other gods  
+३७८५ अण्ड्रि याम् ऒरु पुगलिडम् इलम् ऎण्ड्रु ऎण्ड्रु अलट्रि  
+निण्ड्रु नान्मुगन् अरनॊडु तेवर्गळ् नाड  
+वॆण्ड्रु इम् मूवुलगु अळित्तु उऴल्वान् तिरुमोगूर्  
+नण्ड्रु नाम् इनि नणुगुदुम् नमदु इडर् कॆडवे (३)  
+३७८५। Nanmuhan, Shiva and the other gods  
 came to you and stood before you crying,  
 "We have no refuge!"  
 He, the god of divine Thirumogur, fought  
@@ -13964,11 +13965,11 @@ and protected the three worlds and saved them.
 We will go to Thirumogur  
 and our troubles will be removed.  
 
-3786 இடர் கெட எம்மைப் போந்து அளியாய் என்று என்று ஏத்தி  
-சுடர் கொள் சோதியைத் தேவரும் முனிவரும் தொடர  
-படர் கொள் பாம்பு அணைப் பள்ளி கொள்வான் திருமோகூர்  
-இடர் கெட அடி பரவுதும் தொண்டீர்! வம்மினே (4)  
-3786. The gods and sages went to the lord  
+३७८६ इडर् कॆड ऎम्मैप् पोन्दु अळियाय् ऎण्ड्रु ऎण्ड्रु एत्ति  
+सुडर् कॊळ् सोदियैत् तेवरुम् मुनिवरुम् तॊडर  
+पडर् कॊळ् पाम्बु अणैप् पळ्ळि कॊळ्वान् तिरुमोगूर्  
+इडर् कॆड अडि परवुदुम् तॊण्डीर्! वम्मिने (४)  
+३७८६। The gods and sages went to the lord  
 shining as a bright light and praised him, saying,  
 "Give us your grace and remove our troubles!"  
 and he removed their troubles.  
@@ -13977,11 +13978,11 @@ our god sleeps on the snake bed in Thirmogur.
 Let us go there and worship him  
 and our troubles will go away.  
 
-3787 தொண்டீர் வம்மின் நம் சுடர் ஒளி ஒரு தனி முதல்வன்  
-அண்டம் மூவுலகு அளந்தவன் அணி திருமோகூர்  
-எண் திசையும் ஈன் கரும்பொடு பெரும் செந்நெல் விளையக்  
-கொண்ட கோயிலை வலஞ்செய்து இங்கு ஆடுதும் கூத்தே (5)  
-3787. O devotees, come.  
+३७८७ तॊण्डीर् वम्मिन् नम् सुडर् ऒळि ऒरु तनि मुदल्वन्  
+अण्डम् मूवुलगु अळन्दवन् अणि तिरुमोगूर्  
+ऎण् तिसैयुम् ईन् करुम्बॊडु पॆरुम् सॆन्नॆल् विळैयक्  
+कॊण्ड कोयिलै वलञ्जॆय्दु इङ्गु आडुदुम् कूत्ते (५)  
+३७८७। O devotees, come.  
 He, the first ancient lord, shining like a bright light,  
 measured all the three worlds and the sky.  
 He is the god of the temple in beautiful Thirumogur  
@@ -13989,11 +13990,11 @@ where abundant sugarcane and good paddy grow.
 Let us go there, circle the temple,  
 worship the lord and dance the kuthu dance.  
 
-3788 கூத்தன் கோவலன் குதற்று வல் அசுரர்கள் கூற்றம்  
-ஏத்தும் நங்கட்கும் அமரர்க்கும் முனிவர்க்கும் இன்பன்  
-வாய்த்த தண் பணை வள வயல் சூழ் திருமோகூர்  
-ஆத்தன் தாமரை அடி அன்றி மற்று இலம் அரணே (6)  
-3788. He dances the kuthu dance.  
+३७८८ कूत्तन् कोवलन् कुदट्रु वल् असुरर्गळ् कूट्रम्  
+एत्तुम् नङ्गट्कुम् अमरर्क्कुम् मुनिवर्क्कुम् इन्बन्  
+वाय्त्त तण् पणै वळ वयल् सूऴ् तिरुमोगूर्  
+आत्तन् तामरै अडि अण्ड्रि मट्रु इलम् अरणे (६)  
+३७८८। He dances the kuthu dance.  
 He grazes the cows.  
 He is Yama for the Asurans and destroys them all.  
 He is a joy for sages, gods and those who praise him.  
@@ -14001,11 +14002,11 @@ He is the god of Thirumogur surrounded
 with flourishing cool fields and water ponds.  
 There is no protection except the lotus feet of the god, the friend of all.  
 
-3789 மற்று இலம் அரண் வான் பெரும் பாழ் தனி முதலாச்  
-சுற்றும் நீர் படைத்து அதன் வழித் தொல் முனி முதலா  
-முற்றும் தேவரோடு உலகுசெய்வான் திருமோகூர்  
-சுற்றி நாம் வலஞ் செய்ய நம் துயர் கெடும் கடிதே (7)  
-3789. We have no protection but him.  
+३७८९ मट्रु इलम् अरण् वान् पॆरुम् पाऴ् तनि मुदलाच्  
+चुट्रुम् नीर् पडैत्तु अदन् वऴित् तॊल् मुनि मुदला  
+मुट्रुम् तेवरोडु उलगुसॆय्वान् तिरुमोगूर्  
+सुट्रि नाम् वलञ् जॆय्य नम् तुयर् कॆडुम् कडिदे (७)  
+३७८९। We have no protection but him.  
 He created the sky, the wide worlds  
 and the oceans around them.  
 He created the ancient sages and other gods.  
@@ -14014,11 +14015,11 @@ stays in beautiful divine Thirumogur.
 If we go there and circle the temple  
 all our troubles will swiftly disappear.  
 
-3790 துயர் கெடும் கடிது அடைந்து வந்து அடியவர் தொழுமின்  
-உயர் கொள் சோலை ஒண் தடம் அணி ஒளி திருமோகூர்  
-பெயர்கள் ஆயிரம் உடைய வல் அரக்கர் புக்கு அழுந்த  
-தயரதன் பெற்ற மரகத மணித் தடத்தினையே (8)  
-3790. O devotees, come and worship him  
+३७९० तुयर् कॆडुम् कडिदु अडैन्दु वन्दु अडियवर् तॊऴुमिन्  
+उयर् कॊळ् सोलै ऒण् तडम् अणि ऒळि तिरुमोगूर्  
+पॆयर्गळ् आयिरम् उडैय वल् अरक्कर् पुक्कु अऴुन्द  
+तयरदन् पॆट्र मरगद मणित् तडत्तिनैये (८)  
+३७९०। O devotees, come and worship him  
 and all your troubles will swiftly disappear.  
 He has a thousand names.  
 He destroys the strong Asurans.  
@@ -14028,33 +14029,33 @@ of beautiful Thirumogur
 surrounded by rich ponds and tall groves.  
 
 
-3791 மணித் தடத்து அடி மலர்க் கண்கள் பவளச் செவ்வாய்  
-அணிக் கொள் நால் தடம் தோள் தெய்வம் அசுரரை என்றும்  
-துணிக்கும் வல் அரட்டன் உறை பொழில் திருமோகூர்  
-நணித்து நம்முடை நல் அரண் நாம் அடைந்தனமே (9)  
-3791. The divine god, the king, has beautiful feet,  
+३७९१ मणित् तडत्तु अडि मलर्क् कण्गळ् पवळच् चॆव्वाय्  
+अणिक् कॊळ् नाल् तडम् तोळ् तॆय्वम् असुररै ऎण्ड्रुम्  
+तुणिक्कुम् वल् अरट्टन् उऱै पॊऴिल् तिरुमोगूर्  
+नणित्तु नम्मुडै नल् अरण् नाम् अडैन्दनमे (९)  
+३७९१। The divine god, the king, has beautiful feet,  
 lotus eyes, a mouth red as coral  
 and four large ornamented arms.  
 He destroyed the strong Asurans.  
 Thirumogur surrounded by blooming groves is near.  
 Let us go there and gain good protection.  
 
-3792 நாம் அடைந்த நல் அரண் நமக்கு என்று நல் அமரர்  
-தீமை செய்யும் வல் அசுரரை அஞ்சிச் சென்று அடைந்தால்  
-காம ரூபம் கொண்டு எழுந்து அளிப்பான் திருமோகூர்  
-நாமமே நவின்று எண்ணுமின் ஏத்துமின் நமர்காள் (10)  
-3792. O devotees,  
+३७९२ नाम् अडैन्द नल् अरण् नमक्कु ऎण्ड्रु नल् अमरर्  
+तीमै सॆय्युम् वल् असुररै अञ्जिच् चॆण्ड्रु अडैन्दाल्  
+काम रूपम् कॊण्डु ऎऴुन्दु अळिप्पान् तिरुमोगूर्  
+नाममे नविण्ड्रु ऎण्णुमिन् एत्तुमिन् नमर्गाळ् (१०)  
+३७९२। O devotees,  
 when the Asurans afflicted the gods with troubles  
 they were afraid, went to our lord and asked for help.  
 He took any form that he desired and showed them his grace.  
 Think only of the many names of the god  
 of Thirumogur, recite them and praise him.  
 
-3793 ஏத்துமின் நமர்காள் என்று தான் குடம் ஆடு  
-கூத்தனைக் குருகூர்ச் சடகோபன் குற்றேவல்கள்  
-வாய்த்த ஆயிரத்துள் இவை வண் திருமோகூர்க்கு  
-ஈத்த பத்து இவை ஏத்த வல்லார்க்கு இடர் கெடுமே (11)  
-3793. Saḍagopan of Thirukuruhur  
+३७९३ एत्तुमिन् नमर्गाळ् ऎण्ड्रु तान् कुडम् आडु  
+कूत्तनैक् गुरुगूर्च् चडगोबन् कुट्रेवल्गळ्  
+वाय्त्त आयिरत्तुळ् इवै वण् तिरुमोगूर्क्कु  
+ईत्त पत्तु इवै एत्त वल्लार्क्कु इडर् कॆडुमे (११)  
+३७९३। Saḍagopan of Thirukuruhur  
 composed a thousand pasurams  
 on the lord who danced on a pot, saying ,  
 "O devotees, praise him!"  
@@ -14063,57 +14064,57 @@ on the god of flourishing Thirumogur
 will have no trouble in their lives.  
 ----------  
 
-திருவாய்மொழி பத்தாம் பத்து (இரண்டாம் திருமொழி, 3794-3804)  
-திருவனந்தபுரத்தைச் சேர்ந்தால் பரமபதத்திற் போலத் தொண்டு  
-செய்யலாம் என்று கூறுதல் (திருவனந்தபுரம்)  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (इरण्डाम् तिरुमॊऴि, ३७९४-३८०४)  
+तिरुवनन्दबुरत्तैच् चेर्न्दाल् परमबदत्तिऱ्‌ पोलत् तॊण्डु  
+सॆय्यलाम् ऎण्ड्रु कूऱुदल् (तिरुवनन्दबुरम्)  
 
-3794 கெடும் இடர் ஆய எல்லாம் கேசவா என்ன நாளும்  
-கொடுவினை செய்யும் கூற்றின் தமர்களும் குறுககில்லார்  
-விடம் உடை அரவில் பள்ளி விரும்பினான் சுரும்பு அலற்றும்  
-தடம் உடை வயல் அனந்தபுரநகர் புகுதும் இன்றே (1)  
-3794. If you say, "Kesavan!" all your troubles will disappear.  
+३७९४ कॆडुम् इडर् आय ऎल्लाम् केसवा ऎन्न नाळुम्  
+कॊडुविनै सॆय्युम् कूट्रिन् तमर्गळुम् कुऱुगगिल्लार्  
+विडम् उडै अरविल् पळ्ळि विरुम्बिनान् सुरुम्बु अलट्रुम्  
+तडम् उडै वयल् अनन्दबुरनगर् पुगुदुम् इण्ड्रे (१)  
+३७९४। If you say, "Kesavan!" all your troubles will disappear.  
 The cruel messengers of Yama will not be able to approach you.  
 Today itself let us go to Anandapuram surrounded by fields  
 and ponds where surumbu bees sing.  
 Let us praise Maayan, our god who likes to sleep on the snake bed.  
 
-3795 இன்று போய்ப் புகுதிராகில் எழுமையும் ஏதம் சாரா  
-குன்று நேர் மாடம் மாடே குருந்து சேர் செருந்தி புன்னை  
-மன்று அலர் பொழில் அனந்தபுரநகர் மாயன் நாமம்  
-ஒன்றும் ஓர் ஆயிரமாம் உள்ளுவார்க்கு உம்பர் ஊரே (2)  
-3795. If you go to Anandapuram  
+३७९५ इण्ड्रु पोय्प् पुगुदिरागिल् ऎऴुमैयुम् एदम् सारा  
+कुण्ड्रु नेर् माडम् माडे गुरुन्दु सेर् सॆरुन्दि पुन्नै  
+मण्ड्रु अलर् पॊऴिल् अनन्दबुरनगर् मायन् नामम्  
+ऒण्ड्रुम् ओर् आयिरमाम् उळ्ळुवार्क्कु उम्बर् ऊरे (२)  
+३७९५। If you go to Anandapuram  
 you will have no trouble for all your seven births.  
 It is a place filled with mountain-like palaces and groves  
 where kurundu, cherundi and punnai flowers bloom in the courtyards.  
 If devotees think of even one of the thousand names  
 of the god Maayan of that place they will reach the gods’ world.  
 
-3796 ஊரும் புள் கொடியும் அஃதே உலகு எல்லாம் உண்டு உமிழ்ந்தான்  
-சேரும் தண் அனந்தபுரம் சிக்கெனப் புகுதிராகில்  
-தீரும் நோய் வினைகள் எல்லாம் திண்ணம் நாம் அறியச் சொன்னோம்  
-பேரும் ஓர் ஆயிரத்துள் ஒன்று நீர் பேசுமினே (3)  
-3796. He rides on a eagle and carries an eagle flag  
+३७९६ ऊरुम् पुळ् कॊडियुम् अह्दे उलगु ऎल्लाम् उण्डु उमिऴ्न्दान्  
+सेरुम् तण् अनन्दबुरम् सिक्कॆनप् पुगुदिरागिल्  
+तीरुम् नोय् विनैगळ् ऎल्लाम् तिण्णम् नाम् अऱियच् चॊन्नोम्  
+पेरुम् ओर् आयिरत्तुळ् ऒण्ड्रु नीर् पेसुमिने (३)  
+३७९६। He rides on a eagle and carries an eagle flag  
 and he swallowed all the worlds and spat them out.  
 If you go to rich Anandapuram at once and worship the god  
 all the troubles from your bad karma will disappear.  
 I want you to realize that this is certain.  
 Praise one of the thousand names of the lord.  
 
-3797 பேசுமின் கூசம் இன்றி பெரிய நீர் வேலை சூழ்ந்து  
-வாசமே கமழும் சோலை வயல் அணி அனந்தபுரம்  
-நேசம் செய்து உறைகின்றானை நெறிமையால் மலர்கள் தூவி  
-பூசனை செய்கின்றார்கள் புண்ணியம் செய்தவாறே (4)  
-3797. The devotees with much good karma  
+३७९७ पेसुमिन् कूसम् इण्ड्रि पॆरिय नीर् वेलै सूऴ्न्दु  
+वासमे कमऴुम् सोलै वयल् अणि अनन्दबुरम्  
+नेसम् सॆय्दु उऱैगिण्ड्रानै नॆऱिमैयाल् मलर्गळ् तूवि  
+पूसनै सॆय्गिण्ड्रार्गळ् पुण्णियम् सॆय्दवाऱे (४)  
+३७९७। The devotees with much good karma  
 sprinkle flowers and, without holding back, worship  
 the god of beautiful Anandapuram  
 surrounded with fields and fragrant groves  
 and the ocean with its abundant water.  
 
-3798 புண்ணியம் செய்து நல்ல புனலொடு மலர்கள் தூவி  
-எண்ணுமின் எந்தை நாமம் இப் பிறப்பு அறுக்கும் அப்பால்  
-திண்ணம் நாம் அறியச் சொன்னோம் செறி பொழில் அனந்தபுரத்து  
-அண்ணலார் கமல பாதம் அணுகுவார் அமரர் ஆவார் (5)  
-3798. Do good karma, sprinkle flowers with good water  
+३७९८ पुण्णियम् सॆय्दु नल्ल पुनलॊडु मलर्गळ् तूवि  
+ऎण्णुमिन् ऎन्दै नामम् इप् पिऱप्पु अऱुक्कुम् अप्पाल्  
+तिण्णम् नाम् अऱियच् चॊन्नोम् सॆऱि पॊऴिल् अनन्दबुरत्तु  
+अण्णलार् कमल पादम् अणुगुवार् अमरर् आवार् (५)  
+३७९८। Do good karma, sprinkle flowers with good water  
 and think of the names of our father.  
 That will remove your births—this is certain.  
 I am telling you so that you will know.  
@@ -14121,22 +14122,22 @@ If devotees approach and worship the lotus feet
 of the highest god of Anandapuram surrounded by thick groves,  
 they will join the gods in the sky.  
 
-3799 அமரராய்த் திரிகின்றார்கட்கு ஆதி சேர் அனந்தபுரத்து  
-அமரர் கோன் அர்ச்சிக்கின்று அங்கு அகப் பணி செய்வர் விண்ணோர்  
-நமர்களோ சொல்லக் கேள்மின் நாமும் போய் நணுகவேண்டும்  
-குமரனார் தாதை துன்பம் துடைத்த கோவிந்தனாரே (6)  
-3799. The king of the gods gives his grace  
+३७९९ अमरराय्त् तिरिगिण्ड्रार्गट्कु आदि सेर् अनन्दबुरत्तु  
+अमरर् कोन् अर्चिक्किण्ड्रु अङ्गु अगप् पणि सॆय्वर् विण्णोर्  
+नमर्गळो सॊल्लक् केळ्मिन् नामुम् पोय् नणुगवेण्डुम्  
+कुमरनार् तादै तुन्बम् तुडैत्त कोविन्दनारे (६)  
+३७९९। The king of the gods gives his grace  
 in everlasting Anandapuram to the gods of the sky  
 who have come there, wander and perform worship for the lord.  
 O devotees, listen to what I say.  
 We should go and approach Govindan.  
 He took away the trouble of Shiva, the father of Kumaran.  
 
-3800 துடைத்த கோவிந்தனாரே உலகு உயிர் தேவும் மற்றும்  
-படைத்த எம் பரம மூர்த்தி பாம்பு அணைப் பள்ளி கொண்டான்  
-மடைத்தலை வாளை பாயும் வயல் அணி அனந்தபுரம்  
-கடைத்தலை சீய்க்கப்பெற்றால் கடுவினை களையலாமே (7)  
-3800. Govindan removes the troubles of his devotees.  
+३८०० तुडैत्त कोविन्दनारे उलगु उयिर् तेवुम् मट्रुम्  
+पडैत्त ऎम् परम मूर्त्ति पाम्बु अणैप् पळ्ळि कॊण्डान्  
+मडैत्तलै वाळै पायुम् वयल् अणि अनन्दबुरम्  
+कडैत्तलै सीय्क्कप्पॆट्राल् कडुविनै कळैयलामे (७)  
+३८००। Govindan removes the troubles of his devotees.  
 The highest god sleeps on a snake bed  
 and created all the creatures of the world and the gods.  
 If we go and sweep the front of the temple  
@@ -14145,22 +14146,22 @@ where vaalai fish frolic in the streams
 all our bad karma will go away.  
 
 
-3801 கடுவினை களையலாகும் காமனைப் பயந்த காளை  
-இடவகை கொண்டது என்பர் எழில் அணி அனந்தபுரம்  
-படம் உடை அரவில் பள்ளி பயின்றவன் பாதம் காண  
-நடமினோ நமர்கள் உள்ளீர்! நாம் உமக்கு அறியச் சொன்னோம். (8)  
-3801. O devotees,  
+३८०१ कडुविनै कळैयलागुम् कामनैप् पयन्द काळै  
+इडवगै कॊण्डदु ऎन्बर् ऎऴिल् अणि अनन्दबुरम्  
+पडम् उडै अरविल् पळ्ळि पयिण्ड्रवन् पादम् काण  
+नडमिनो नमर्गळ् उळ्ळीर्! नाम् उमक्कु अऱियच् चॊन्नोम्। (८)  
+३८०१। O devotees,  
 go to see the feet of the strong bull-like god  
 in beautiful Anandapuram where he sleeps on a snake bed  
 and your bad karma will go away.  
 It is the place of the god, the father of Kama.  
 O devotees, I want you to know this.  
 
-3802 நாம் உமக்கு அறியச் சொன்ன நாள்களும் நணிய ஆன  
-சேமம் நன்கு உடைத்துக் கண்டீர் செறி பொழில் அனந்தபுரம்  
-தூமம் நல் விரை மலர்கள் துவள் அற ஆய்ந்துகொண்டு  
-வாமனன் அடிக்கு என்று ஏத்த மாய்ந்து அறும் வினைகள் தாமே. (9)  
-3802. Gather fresh fragrant flowers to sprinkle  
+३८०२ नाम् उमक्कु अऱियच् चॊन्न नाळ्गळुम् नणिय आन  
+सेमम् नन्गु उडैत्तुक् कण्डीर् सॆऱि पॊऴिल् अनन्दबुरम्  
+तूमम् नल् विरै मलर्गळ् तुवळ् अऱ आय्न्दुगॊण्डु  
+वामनन् अडिक्कु ऎण्ड्रु एत्त माय्न्दु अऱुम् विनैगळ् तामे। (९)  
+३८०२। Gather fresh fragrant flowers to sprinkle  
 on the feet of our god Vamanan  
 and put out incense and worship his feet.  
 Go to Anandapuram surrounded by thick blooming groves  
@@ -14169,11 +14170,11 @@ All your karma will go away.
 I have been saying this for a long time.  
 There is only a little time left.  
 
-3803 மாய்ந்து அறும் வினைகள் தாமே மாதவா என்ன நாளும்  
-ஏய்ந்த பொன் மதிள் அனந்தபுரநகர் எந்தைக்கு என்று  
-சாந்தொடு விளக்கம் தூபம் தாமரை மலர்கள் நல்ல  
-ஆய்ந்து கொண்டு ஏத்த வல்லார் அந்தம் இல் புகழினாரே (10)  
-3803. If you worship every day saying,  
+३८०३ माय्न्दु अऱुम् विनैगळ् तामे मादवा ऎन्न नाळुम्  
+एय्न्द पॊन् मदिळ् अनन्दबुरनगर् ऎन्दैक्कु ऎण्ड्रु  
+सान्दॊडु विळक्कम् तूबम् तामरै मलर्गळ् नल्ल  
+आय्न्दु कॊण्डु एत्त वल्लार् अन्दम् इल् पुगऴिनारे (१०)  
+३८०३। If you worship every day saying,  
 "Madhava!" your karma will be destroyed.  
 Gather faultless lotus flowers, incense, sandal paste  
 and lamps and take them to worship our father,  
@@ -14181,11 +14182,11 @@ the god of Anandapuram surrounded by golden walls.
 If devotees go there and worship the lord  
 they will have endless fame.  
 
-3804 அந்தம் இல் புகழ் அனந்தபுரநகர் ஆதி தன்னைக்  
-கொந்து அலர் பொழில் குருகூர் மாறன் சொல் ஆயிரத்துள்  
-ஐந்தினோடு ஐந்தும் வல்லார் அணைவர் போய் அமர் உலகில்  
-பைந்தொடி மடந்தையர் தம் வேய் மரு தோள் இணையே (11)  
-3804. Saḍagopan of Thirukurugur  
+३८०४ अन्दम् इल् पुगऴ् अनन्दबुरनगर् आदि तन्नैक्  
+कॊन्दु अलर् पॊऴिल् गुरुगूर् माऱन् सॊल् आयिरत्तुळ्  
+ऐन्दिनोडु ऐन्दुम् वल्लार् अणैवर् पोय् अमर् उलगिल्  
+पैन्दॊडि मडन्दैयर् तम् वेय् मरु तोळ् इणैये (११)  
+३८०४। Saḍagopan of Thirukurugur  
 surrounded by groves with bunches of blooming flowers  
 composed a thousand pasurams on the ancient god  
 of Anandapuram that has endless fame.  
@@ -14194,19 +14195,19 @@ they will go to the world of the gods and enjoy women
 who have bamboo-like arms and beautiful bangles.  
 ----------  
 
-திருவாய்மொழி பத்தாம் பத்து (மூன்றாம் திருமொழி, 3805-3815)  
-ஆநிரை மேய்க்கச் சென்றால் பிரிவாற்றி இரோம் என்று போக்கைத்  
-தவிர்க்குமாறு ஆய்ச்சியர் கண்ணனை வேண்டுதல்  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (मूण्ड्राम् तिरुमॊऴि, ३८०५-३८१५)  
+आनिरै मेय्क्कच् चॆण्ड्राल् पिरिवाट्रि इरोम् ऎण्ड्रु पोक्कैत्  
+तविर्क्कुमाऱु आय्च्चियर् कण्णनै वेण्डुदल्  
 
-3805 வேய் மரு தோள் இணை மெலியும் ஆலோ  
-மெலிவும் என் தனிமையும் யாதும் நோக்காக்  
-காமரு குயில்களும் கூவும் ஆலோ  
-கண மயில் அவை கலந்து ஆலும் ஆலோ  
-ஆ மருவு இன நிரை மேய்க்க நீ போக்கு  
-ஒரு பகல் ஆயிரம் ஊழி ஆலோ  
-தாமரைக் கண்கள்கொண்டு ஈர்தி ஆலோ  
-தகவிலை தகவிலையே நீ கண்ணா (1)  
-3805. She says,  
+३८०५ वेय् मरु तोळ् इणै मॆलियुम् आलो  
+मॆलिवुम् ऎन् तनिमैयुम् यादुम् नोक्काक्  
+कामरु कुयिल्गळुम् कूवुम् आलो  
+कण मयिल् अवै कलन्दु आलुम् आलो  
+आ मरुवु इन निरै मेय्क्क नी पोक्कु  
+ऒरु पगल् आयिरम् ऊऴि आलो  
+तामरैक् कण्गळ्गॊण्डु ईर्दि आलो  
+तगविलै तगविलैये नी कण्णा (१)  
+३८०५। She says,  
 "My bamboo-like arms have become thin.  
 The lovely cuckoo birds keep on cooing.  
 They do not understand  
@@ -14217,15 +14218,15 @@ For me one day passes like a thousand eons.
 You attract us with your lotus eyes.  
 O Kaṇṇan, this is not fair, it isn’t fair."  
 
-3806 தகவிலை தகவிலையே நீ கண்ணா  
-தட முலை புணர்தொறும் புணர்ச்சிக்கு ஆராச்  
-சுகவெள்ளம் விசும்பு இறந்து அறிவை மூழ்கச்  
-சூழ்ந்து அது கனவு என நீங்கி ஆங்கே  
-அக உயிர் அகம் அகம்தோறும் உள் புக்கு  
-ஆவியின் பரம் அல்ல வேட்கை அந்தோ  
-மிக மிக இனி உன்னைப் பிரிவை ஆமால்  
-வீவ நின் பசு நிரை மேய்க்கப் போக்கே (2)  
-3806. She says,  
+३८०६ तगविलै तगविलैये नी कण्णा  
+तड मुलै पुणर्दॊऱुम् पुणर्चिक्कु आराच्  
+चुगवॆळ्ळम् विसुम्बु इऱन्दु अऱिवै मूऴ्गच्  
+चूऴ्न्दु अदु कनवु ऎन नीङ्गि आङ्गे  
+अग उयिर् अगम् अगम्दोऱुम् उळ् पुक्कु  
+आवियिन् परम् अल्ल वेट्कै अन्दो  
+मिग मिग इनि उन्नैप् पिरिवै आमाल्  
+वीव निन् पसु निरै मेय्क्कप् पोक्के (२)  
+३८०६। She says,  
 "O Kaṇṇan, this is not fair, it isn’t fair.  
 Whenever you embraced me my joy increased like a flood  
 and I couldn’t think of anything.  
@@ -14235,15 +14236,15 @@ O god, it was more than the joy of entering moksha.
 When you go to graze the cows  
 I cannot bear to be apart from you."  
 
-3807 வீவன் நின் பசு நிரை மேய்க்கப் போக்கு  
-வெவ்வுயிர் கொண்டு எனது ஆவி வேமால்  
-யாவரும் துணை இல்லை யான் இருந்து உன்  
-அஞ்சன மேனியை ஆட்டம் காணேன்  
-போவது அன்று ஒரு பகல் நீ அகன்றால்  
-பொரு கயல் கண் இணை நீரும் நில்லா  
-சாவது இவ் ஆய்க்குலத்து ஆய்ச்சியோமாய்ப்  
-பிறந்த இத் தொழுத்தையோம் தனிமை தானே (3)  
-3807. She says,  
+३८०७ वीवन् निन् पसु निरै मेय्क्कप् पोक्कु  
+वॆव्वुयिर् कॊण्डु ऎनदु आवि वेमाल्  
+यावरुम् तुणै इल्लै यान् इरुन्दु उन्  
+अञ्जन मेनियै आट्टम् काणेन्  
+पोवदु अण्ड्रु ऒरु पगल् नी अगण्ड्राल्  
+पॊरु कयल् कण् इणै नीरुम् निल्ला  
+सावदु इव् आय्क्कुलत्तु आय्च्चियोमाय्प्  
+पिऱन्द इत् तॊऴुत्तैयोम् तनिमै ताने (३)  
+३८०७। She says,  
 "When you go to graze the cows you take my life with you.  
 My heart burns and I have no help.  
 I am here and cannot see your body that is dark as kohl.  
@@ -14252,15 +14253,15 @@ The tears do not stop from my eyes, shaped like fighting fish.
 We were born as cowherd women and we are like slaves.  
 We are lonely."  
 
-3808 தொழுத்தையோம் தனிமையும் துணை பிரிந்தார்  
-துயரமும் நினைகிலை கோவிந்தா நின்  
-தொழுத்தனில் பசுக்களையே விரும்பி  
-துறந்து எம்மை இட்டு அவை மேய்க்கப் போதி  
-பழுத்த நல் அமுதின் இன் சாற்று வெள்ளம்  
-பாவியேன் மனம் அகம்தோறும் உள்புக்கு  
-அழுத்த நின் செங்கனி வாயின் கள்வப்  
-பணிமொழி நினைதொறும் ஆவி வேமால் (4)  
-3808. She says,  
+३८०८ तॊऴुत्तैयोम् तनिमैयुम् तुणै पिरिन्दार्  
+तुयरमुम् निनैगिलै कोविन्दा निन्  
+तॊऴुत्तनिल् पसुक्कळैये विरुम्बि  
+तुऱन्दु ऎम्मै इट्टु अवै मेय्क्कप् पोदि  
+पऴुत्त नल् अमुदिन् इन् साट्रु वॆळ्ळम्  
+पावियेन् मनम् अगम्दोऱुम् उळ्बुक्कु  
+अऴुत्त निन् सॆङ्गनि वायिन् कळ्वप्  
+पणिमॊऴि निनैदॊऱुम् आवि वेमाल् (४)  
+३८०८। She says,  
 "O Govindan, we are lonely.  
 We are separated from you and you don’t think of us.  
 You like to graze the cows, taking them with you  
@@ -14271,15 +14272,15 @@ My heart burns when I think of the tender cheating words
 that come from your red mouth that is as sweet as nectar.  
 I am pitiful."  
 
-3809 பணிமொழி நினைதொறும் ஆவி வேமால்  
-பகல் நிரை மேய்க்கிய போய கண்ணா  
-பிணி அவிழ் மல்லிகை வாடை தூவ  
-பெரு மத மாலையும் வந்தின்று ஆலோ  
-மணி மிகு மார்பினில் முல்லைப்போது என்  
-வன முலை கமழ்வித்து உன் வாய் அமுதம் தந்து  
-அணி மிகு தாமரைக் கையை அந்தோ!  
-அடிச்சியோம் தலைமிசை நீ அணியாய் (5)  
-3809. She says,  
+३८०९ पणिमॊऴि निनैदॊऱुम् आवि वेमाल्  
+पगल् निरै मेय्क्किय पोय कण्णा  
+पिणि अविऴ् मल्लिगै वाडै तूव  
+पॆरु मद मालैयुम् वन्दिण्ड्रु आलो  
+मणि मिगु मार्बिनिल् मुल्लैप्पोदु ऎन्  
+वन मुलै कमऴ्वित्तु उन् वाय् अमुदम् तन्दु  
+अणि मिगु तामरैक् कैयै अन्दो!  
+अडिच्चियोम् तलैमिसै नी अणियाय् (५)  
+३८०९। She says,  
 "Whenever I think of your sweet words my heart burns.  
 O Kaṇṇan, you went out at daytime to graze the cows.  
 The jasmine buds that bloom spread fragrance in the wind.  
@@ -14289,15 +14290,15 @@ that spreads the jasmine smell of your garlands.
 Give us the nectar from your mouth.  
 Put your lovely lotus hands on our heads to adorn them."  
 
-3810 அடிச்சியோம் தலைமிசை நீ அணியாய்  
-ஆழி அம் கண்ணா உன் கோலப் பாதம்  
-பிடித்து அது நடுவு உனக்கு அரிவையரும்  
-பலர் அது நிற்க எம் பெண்மை ஆற்றோம்  
-வடித்தடம் கண் இணை நீரும் நில்லா  
-மனமும் நில்லா எமக்கு அது தன்னாலே  
-வெடிப்பு நின் பசு நிரை மேய்க்கப் போக்கு  
-வேம் எமது உயிர் அழல் மெழுகில் உக்கே (6)  
-3810. She says,  
+३८१० अडिच्चियोम् तलैमिसै नी अणियाय्  
+आऴि अम् कण्णा उन् कोलप् पादम्  
+पिडित्तु अदु नडुवु उनक्कु अरिवैयरुम्  
+पलर् अदु निऱ्‌क ऎम् पॆण्मै आट्रोम्  
+वडित्तडम् कण् इणै नीरुम् निल्ला  
+मनमुम् निल्ला ऎमक्कु अदु तन्नाले  
+वॆडिप्पु निन् पसु निरै मेय्क्कप् पोक्कु  
+वेम् ऎमदु उयिर् अऴल् मॆऴुगिल् उक्के (६)  
+३८१०। She says,  
 "Put your lovely lotus hands on our heads to adorn them.  
 O Kaṇṇan, you carry a beautiful discus.  
 There are many girls who want to rub your feet gently.  
@@ -14307,15 +14308,15 @@ My mind does not stop loving you.
 We suffer all day when you go to graze the cows.  
 My life melts like wax in fire."  
 
-3811 வேம் எமது உயிர் அழல் மெழுகில் உக்கு  
-வெள் வளை மேகலை கழன்று வீழ  
-தூ மலர்க் கண் இணை முத்தம் சோர  
-துணை முலை பயந்து என தோள்கள் வாட  
-மா மணி வண்ணா உன் செங்கமல  
-வண்ண மெல் மலர் அடி நோவ நீ போய்  
-ஆ மகிழ்ந்து உகந்து அவை மேய்க்கின்று உன்னோடு  
-அசுரர்கள் தலைப்பெய்யில் எவன்கொல் ஆங்கே? (7)  
-3811. She says,  
+३८११ वेम् ऎमदु उयिर् अऴल् मॆऴुगिल् उक्कु  
+वॆळ् वळै मेगलै कऴण्ड्रु वीऴ  
+तू मलर्क् कण् इणै मुत्तम् सोर  
+तुणै मुलै पयन्दु ऎन तोळ्गळ् वाड  
+मा मणि वण्णा उन् सॆङ्गमल  
+वण्ण मॆल् मलर् अडि नोव नी पोय्  
+आ मगिऴ्न्दु उगन्दु अवै मेय्क्किण्ड्रु उन्नोडु  
+असुरर्गळ् तलैप्पॆय्यिल् ऎवन्गॊल् आङ्गे? (७)  
+३८११। She says,  
 "My life melts like wax in fire.  
 My precious bangles and mekalai ornament become loose.  
 My pretty eyes shed pearl-like tears.  
@@ -14325,16 +14326,16 @@ You, colored like sapphire, happily go and graze the cows
 even though your soft flower-like feet hurt.  
 What will you do if the strong Asurans come to fight with you there?"  
 
-3812 அசுரர்கள் தலைப்பெய்யில் எவன்கொல் ஆங்கு? என்று  
-ஆழும் என் ஆர் உயிர் ஆன் பின் போகேல்  
-கசிகையும் வேட்கையும் உள்கலந்து  
-கலவியும் நலியும் என் கைகழியேல்  
-வசிசெய் உன் தாமரைக் கண்ணும் வாயும்  
-கைகளும் பீதக உடையும் காட்டி  
-ஒசிசெய் நுண் இடை இள ஆய்ச்சியர் நீ  
-உகக்கும் நல்லவரொடும் உழிதராயே (8)  
+३८१२ असुरर्गळ् तलैप्पॆय्यिल् ऎवन्गॊल् आङ्गु? ऎण्ड्रु  
+आऴुम् ऎन् आर् उयिर् आन् पिन् पोगेल्  
+कसिगैयुम् वेट्कैयुम् उळ्गलन्दु  
+कलवियुम् नलियुम् ऎन् कैगऴियेल्  
+वसिसॆय् उन् तामरैक् कण्णुम् वायुम्  
+कैगळुम् पीदग उडैयुम् काट्टि  
+ऒसिसॆय् नुण् इडै इळ आय्च्चियर् नी  
+उगक्कुम् नल्लवरॊडुम् उऴिदराये (८)  
 
-3812. She says,  
+३८१२। She says,  
 "I suffer when I think,  
 ‘What will you do if the strong Asurans come to fight with you there?’  
 Don’t go behind the cows to graze them.  
@@ -14345,15 +14346,15 @@ mouth, hands and the silk clothes you wear.
 Our thin waists may break if we give in to your wiles.  
 Give us a place with those you love."  
 
-3813 உகக்கும் நல்லவரொடும் உழிதந்து உன் தன்  
-திருவுள்ளம் இடர் கெடும்தோறும் நாங்கள்  
-வியக்க இன்புறுதும் எம் பெண்மை ஆற்றோம்  
-எம் பெருமான் பசு மேய்க்கப் போகேல்  
-மிகப் பல அசுரர்கள் வேண்டு உருவம் கொண்டு  
-நின்று உழிதருவர் கஞ்சன் ஏவ  
-அகப்படில் அவரொடும் நின்னொடு ஆங்கே  
-அவத்தங்கள் விளையும் என் சொல் கொள் அந்தோ (9)  
-3813. She says,  
+३८१३ उगक्कुम् नल्लवरॊडुम् उऴिदन्दु उन् तन्  
+तिरुवुळ्ळम् इडर् कॆडुम्दोऱुम् नाङ्गळ्  
+वियक्क इन्बुऱुदुम् ऎम् पॆण्मै आट्रोम्  
+ऎम् पॆरुमान् पसु मेय्क्कप् पोगेल्  
+मिगप् पल असुरर्गळ् वेण्डु उरुवम् कॊण्डु  
+निण्ड्रु उऴिदरुवर् कञ्जन् एव  
+अगप्पडिल् अवरॊडुम् निन्नॊडु आङ्गे  
+अवत्तङ्गळ् विळैयुम् ऎन् सॊल् कॊळ् अन्दो (९)  
+३८१३। She says,  
 "We see that you wander  
 with the cowherd girls and are happy with them.  
 We wonder how they could steal your heart while we cannot.  
@@ -14363,15 +14364,15 @@ may come in different forms and hurt you.
 If they catch you, you will be in danger.  
 Dear one, listen to what I say."  
 
-3814 அவத்தங்கள் விளையும் என் சொல் கொள் அந்தோ  
-அசுரர்கள் வன் கையர் கஞ்சன் ஏவ  
-தவத்தவர் மறுக நின்று உழிதருவர்  
-தனிமையும் பெரிது உனக்கு இராமனையும்  
-உவர்த்தலை உடன் திரிகிலையும் என்று என்று  
-ஊடுற என்னுடை ஆவி வேமால்  
-திவத்திலும் பசு நிரை மேய்ப்பு உவத்தி  
-செங்கனி வாய் எங்கள் ஆயர் தேவே (10)  
-3814. She says,  
+३८१४ अवत्तङ्गळ् विळैयुम् ऎन् सॊल् कॊळ् अन्दो  
+असुरर्गळ् वन् कैयर् कञ्जन् एव  
+तवत्तवर् मऱुग निण्ड्रु उऴिदरुवर्  
+तनिमैयुम् पॆरिदु उनक्कु इरामनैयुम्  
+उवर्त्तलै उडन् तिरिगिलैयुम् ऎण्ड्रु ऎण्ड्रु  
+ऊडुऱ ऎन्नुडै आवि वेमाल्  
+तिवत्तिलुम् पसु निरै मेय्प्पु उवत्ति  
+सॆङ्गनि वाय् ऎङ्गळ् आयर् तेवे (१०)  
+३८१४। She says,  
 "You will be in danger. Dear one, hear what I say!  
 The Asurans with their powerful arms have been sent by Kamsan  
 and will come to give you trouble.  
@@ -14383,15 +14384,15 @@ You like to graze the cows more than you enjoy staying in the highest heaven.
 You have a mouth that is sweet as a fruit.  
 You are the god of the cowherds."  
 
-3815 செங்கனி வாய் எங்கள் ஆயர் தேவு அத்  
-திருவடி திருவடிமேல் பொருநல்  
-சங்கு அணி துறைவன் வண் தென் குருகூர்  
-வண் சடகோபன் சொல் ஆயிரத்துள்  
-மங்கையர் ஆய்ச்சியர் ஆய்ந்த மாலை  
-அவனொடும் பிரிவதற்கு இரங்கி தையல்  
-அங்கு அவன் பசு நிரை மேய்ப்பு ஒழிப்பான்  
-உரைத்தன இவையும் பத்து அவற்றின் சார்வே (11)  
-3815. Saḍagopan, the famous poet  
+३८१५ सॆङ्गनि वाय् ऎङ्गळ् आयर् तेवु अत्  
+तिरुवडि तिरुवडिमेल् पॊरुनल्  
+सङ्गु अणि तुऱैवन् वण् तॆन् गुरुगूर्  
+वण् सडगोबन् सॊल् आयिरत्तुळ्  
+मङ्गैयर् आय्च्चियर् आय्न्द मालै  
+अवनॊडुम् पिरिवदऱ्‌कु इरङ्गि तैयल्  
+अङ्गु अवन् पसु निरै मेय्प्पु ऒऴिप्पान्  
+उरैत्तन इवैयुम् पत्तु अवट्रिन् सार्वे (११)  
+३८१५। Saḍagopan, the famous poet  
 of flourishing southern Thirukurugur  
 where the seashore is filled with conches  
 composed a thousand pasurams worshiping the divine feet  
@@ -14400,25 +14401,25 @@ These ten pasurams describe how the cowherd girls are distressed
 when he goes to graze the cows and they are separated from him.  
 -------------  
 
-திருவாய்மொழி பத்தாம் பத்து (நான்காம் திருமொழி, 3816-3826)  
-ஆழ்வார் தாம் பெறக் கருதிய பக்தி பலித்தமையை அருளிச்செய்தல்  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (नान्गाम् तिरुमॊऴि, ३८१६-३८२६)  
+आऴ्वार् ताम् पॆऱक् करुदिय पक्ति पलित्तमैयै अरुळिच्चॆय्दल्  
 
-3816 சார்வே தவநெறிக்குத் தாமோதரன் தாள்கள்  
-கார் மேக வண்ணன் கமல நயனத்தன்  
-நீர் வானம் மண் எரி கால் ஆய் நின்ற நேமியான்  
-பேர் வானவர்கள் பிதற்றும் பெருமையனே (1)  
-3816. Worshiping the feet of Damodharan is the only way  
+३८१६ सार्वे तवनॆऱिक्कुत् तामोदरन् ताळ्गळ्  
+कार् मेग वण्णन् कमल नयनत्तन्  
+नीर् वानम् मण् ऎरि काल् आय् निण्ड्र नेमियान्  
+पेर् वानवर्गळ् पितट्रुम् पॆरुमैयने (१)  
+३८१६। Worshiping the feet of Damodharan is the only way  
 to perform tapas for him.  
 He has the color of dark clouds and lotus eyes.  
 He is water, sky, earth, fire and wind and carries a discus.  
 He has such fame that all the gods in the sky  
 repeat his names and praise him.  
 
-3817 பெருமையனே வானத்து இமையோர்க்கும் காண்டற்கு  
-அருமையனே ஆகத்து அணையாதார்க்கு என்றும்  
-திரு மெய் உறைகின்ற செங்கண் மால் நாளும்  
-இருமை வினை கடிந்து இங்கு என்னை ஆள்கின்றானே (2)  
-3817. He is praised by all the gods in the sky  
+३८१७ पॆरुमैयने वानत्तु इमैयोर्क्कुम् काण्डऱ्‌कु  
+अरुमैयने आगत्तु अणैयादार्क्कु ऎण्ड्रुम्  
+तिरु मॆय् उऱैगिण्ड्र सॆङ्गण् माल् नाळुम्  
+इरुमै विनै कडिन्दु इङ्गु ऎन्नै आळ्गिण्ड्राने (२)  
+३८१७। He is praised by all the gods in the sky  
 yet it is impossible for those gods to see him.  
 If devotees do not embrace him in their hearts  
 they will not be able to see the beautiful lotus-eyed Maal  
@@ -14426,11 +14427,11 @@ and lovely Lakshmi on the lotus
 who stays on his chest as he embraces her.  
 He destroyed my good and bad karma and rules me here.  
 
-3818 ஆள்கின்றான் ஆழியான் ஆரால் குறைவு உடையம்?  
-மீள்கின்றது இல்லை பிறவித் துயர் கடிந்தோம்  
-வாள் கெண்டை ஒண்கண் மடப் பின்னை தன் கேள்வன்  
-தாள் கண்டுகொண்டு என் தலைமேல் புனைந்தேனே (3)  
-3818. He carries a discus and rules all.  
+३८१८ आळ्गिण्ड्रान् आऴियान् आराल् कुऱैवु उडैयम्?  
+मीळ्गिण्ड्रदु इल्लै पिऱवित् तुयर् कडिन्दोम्  
+वाळ् कॆण्डै ऒण्गण् मडप् पिन्नै तन् केळ्वन्  
+ताळ् कण्डुगॊण्डु ऎन् तलैमेल् पुनैन्देने (३)  
+३८१८। He carries a discus and rules all.  
 We will not suffer trouble from anyone.  
 We will not be born on this earth.  
 The sorrows that births give are gone.  
@@ -14439,33 +14440,33 @@ has lovely eyes like shining kendai fish.
 I will worship his feet and place them on my head.  
 
 
-3819 தலைமேல் புனைந்தேன் சரணங்கள் ஆலின்  
-இலைமேல் துயின்றான் இமையோர் வணங்க  
-மலைமேல் தான் நின்று என் மனத்துள் இருந்தானை  
-நிலை பேர்க்கல் ஆகாமை நிச்சித்து இருந்தேனே (4)  
-3819. I place his feet on my head.  
+३८१९ तलैमेल् पुनैन्देन् सरणङ्गळ् आलिन्  
+इलैमेल् तुयिण्ड्रान् इमैयोर् वणङ्ग  
+मलैमेल् तान् निण्ड्रु ऎन् मनत्तुळ् इरुन्दानै  
+निलै पेर्क्कल् आगामै निच्चित्तु इरुन्देने (४)  
+३८१९। I place his feet on my head.  
 He sleeps on a banyan leaf.  
 He stands on the Venkaṭam hills  
 as the gods in the sky worship him.  
 He stays in my heart  
 and I am sure that no trouble will come to me.  
 
-3820 நிச்சித்து இருந்தேன் என் நெஞ்சம் கழியாமை  
-கைச் சக்கரத்து அண்ணல் கள்வம் பெரிது உடையன்  
-மெச்சப்படான் பிறர்க்கு மெய்போலும் பொய் வல்லன்  
-நச்சப்படும் நமக்கு நாகத்து அணையானே (5)  
-3820. I am sure that he will not go away from my heart.  
+३८२० निच्चित्तु इरुन्देन् ऎन् नॆञ्जम् कऴियामै  
+कैच् चक्करत्तु अण्णल् कळ्वम् पॆरिदु उडैयन्  
+मॆच्चप्पडान् पिऱर्क्कु मॆय्बोलुम् पॊय् वल्लन्  
+नच्चप्पडुम् नमक्कु नागत्तु अणैयाने (५)  
+३८२०। I am sure that he will not go away from my heart.  
 The highest lord carries a discus in his hand.  
 He is truly a thief—  
 no one knows what he is doing.  
 He tells lies as if they are truths.  
 He sleeps on a snake bed and is lovable.  
 
-3821 நாகத்து அணையானை நாள்தோறும் ஞானத்தால்  
-ஆகத்து அணைப்பார்க்கு அருள்செய்யும் அம்மானை  
-மாகத்து இள மதியம் சேரும் சடையானைப்  
-பாகத்து வைத்தான் தன் பாதம் பணிந்தேனே (6)  
-3821. He sleeps on a snake bed.  
+३८२१ नागत्तु अणैयानै नाळ्दोऱुम् ज्ञानत्ताल्  
+आगत्तु अणैप्पार्क्कु अरुळ्सॆय्युम् अम्मानै  
+मागत्तु इळ मदियम् सेरुम् सडैयानैप्  
+भागत्तु वैत्तान् तन् पादम् पणिन्देने (६)  
+३८२१। He sleeps on a snake bed.  
 If devotees embrace our father in their hearts,  
 he gives his grace to them.  
 In his body, the lord keeps Shiva  
@@ -14473,11 +14474,11 @@ who has the crescent moon
 that brightens the sky in his jaṭa.  
 I worship the feet of the lord.  
 
-3822 பணி நெஞ்சே நாளும் பரம பரம்பரனை  
-பிணி ஒன்றும் சாரா பிறவி கெடுத்து ஆளும்  
-மணி நின்ற சோதி மதுசூதன் என் அம்மான்  
-அணி நின்ற செம்பொன் அடல் ஆழியானே (7)  
-3822. O heart,  
+३८२२ पणि नॆञ्जे नाळुम् परम परम्बरनै  
+पिणि ऒण्ड्रुम् सारा पिऱवि कॆडुत्तु आळुम्  
+मणि निण्ड्र सोदि मदुसूदन् ऎन् अम्मान्  
+अणि निण्ड्र सॆम्बॊन् अडल् आऴियाने (७)  
+३८२२। O heart,  
 worship the highest of the highest lords  
 and no sickness will come to you.  
 He is a shining light that destroys the births of his devotees.  
@@ -14485,11 +14486,11 @@ He, my father, is Madhusudanan.
 He is pure precious gold.  
 He carries a heroic discus.  
 
-3823 ஆழியான் ஆழி அமரர்க்கும் அப்பாலான்  
-ஊழியான் ஊழி படைத்தான் நிரை மேய்த்தான்  
-பாழி அம் தோளால் வரை எடுத்தான் பாதங்கள்  
-வாழி என் நெஞ்சே! மறவாது வாழ்கண்டாய் (8)  
-3823. He carries a discus in his hands.  
+३८२३ आऴियान् आऴि अमरर्क्कुम् अप्पालान्  
+ऊऴियान् ऊऴि पडैत्तान् निरै मेय्त्तान्  
+पाऴि अम् तोळाल् वरै ऎडुत्तान् पादङ्गळ्  
+वाऴि ऎन् नॆञ्जे! मऱवादु वाऴ्गण्डाय् (८)  
+३८२३। He carries a discus in his hands.  
 He is beyond even all the gods of the sky.  
 When the world ended, only he lived,  
 and then he created the whole world again.  
@@ -14497,32 +14498,32 @@ He grazed the cows.
 He carried Govardhana mountain with his strong arms.  
 O heart, praise his feet and live without forgetting him.  
 
-3824 கண்டேன் கமல மலர்ப் பாதம் காண்டலுமே  
-விண்டே ஒழிந்த வினையாயின எல்லாம்  
-தொண்டே செய்து என்றும் தொழுது வழியொழுக  
-பண்டே பரமன் பணித்த பணிவகையே (9)  
-3824. I found the lotus feet of the lord.  
+३८२४ कण्डेन् कमल मलर्प् पादम् काण्डलुमे  
+विण्डे ऒऴिन्द विनैयायिन ऎल्लाम्  
+तॊण्डे सॆय्दु ऎण्ड्रुम् तॊऴुदु वऴियॊऴुग  
+पण्डे परमन् पणित्त पणिवगैये (९)  
+३८२४। I found the lotus feet of the lord.  
 As soon as I saw him all my karma was destroyed.  
 I worship him and live serving others always  
 as the highest lord has commanded us to do  
 from ancient times.  
 
-3825 வகையால் மனம் ஒன்றி மாதவனை நாளும்  
-புகையால் விளக்கால் புது மலரால் நீரால்  
-திசைதோறு அமரர்கள் சென்று இறைஞ்ச நின்ற  
-தகையான் சரணம் தமர்கட்கு ஓர் பற்றே (10)  
-3825. Thinking only of him in their hearts,  
+३८२५ वगैयाल् मनम् ऒण्ड्रि मादवनै नाळुम्  
+पुगैयाल् विळक्काल् पुदु मलराल् नीराल्  
+तिसैदोऱु अमरर्गळ् सॆण्ड्रु इऱैञ्ज निण्ड्र  
+तगैयान् सरणम् तमर्गट्कु ओर् पट्रे (१०)  
+३८२५। Thinking only of him in their hearts,  
 the gods in the sky in all the directions  
 worship Madhavan every day  
 with fragrant smoke, lamps, fresh flowers and water.  
 He is the only refuge for all his devotees,  
 the only thing they can hold on to.  
 
-3826 பற்று என்று பற்றி பரம பரம்பரனை  
-மல் திண் தோள் மாலை வழுதி வளநாடன்  
-சொல் தொடை அந்தாதி ஓர் ஆயிரத்துள் இப் பத்தும்  
-கற்றார்க்கு ஓர் பற்றாகும் கண்ணன் கழல் இணையே (11)  
-3826. Saḍagopan of the flourishing Pandyan country  
+३८२६ पट्रु ऎण्ड्रु पट्रि परम परम्बरनै  
+मल् तिण् तोळ् मालै वऴुदि वळनाडन्  
+सॊल् तॊडै अन्दादि ओर् आयिरत्तुळ् इप् पत्तुम्  
+कट्रार्क्कु ओर् पट्रागुम् कण्णन् कऴल् इणैये (११)  
+३८२६। Saḍagopan of the flourishing Pandyan country  
 composed a thousand pasurams with beautiful words  
 in the andadi metre on the highest of the high  
 whom he took as his refuge.  
@@ -14531,118 +14532,118 @@ they will reach Kaṇṇan’s ankleted feet
 and he will be their refuge.  
 ------------  
 
-திருவாய்மொழி பத்தாம் பத்து (ஐந்தாம் திருமொழி, 3827-3837)  
-பக்தி பண்ணும் வகைகளைத் தொகுத்துக் கூறல்  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (ऐन्दाम् तिरुमॊऴि, ३८२७-३८३७)  
+पक्ति पण्णुम् वगैगळैत् तॊगुत्तुक् कूऱल्  
 
-3827 கண்ணன் கழல் இணை  
-நண்ணும் மனம் உடையீர்  
-எண்ணும் திருநாமம்  
-திண்ணம் நாரணமே (1)  
-3827. O devotees  
+३८२७ कण्णन् कऴल् इणै  
+नण्णुम् मनम् उडैयीर्  
+ऎण्णुम् तिरुनामम्  
+तिण्णम् नारणमे (१)  
+३८२७। O devotees  
 Your minds should think only of joining the feet of Kaṇṇan.  
 The only divine name you should think of is Naraṇan.  
 Trust in this and you will be taken to the feet to the god.  
 
-3828 நாரணன் எம்மான்  
-பார் அணங்கு ஆளன்  
-வாரணம் தொலைத்த  
-காரணன் தானே (2)  
-3828. He is our father Naraṇan.  
+३८२८ नारणन् ऎम्मान्  
+पार् अणङ्गु आळन्  
+वारणम् तॊलैत्त  
+कारणन् ताने (२)  
+३८२८। He is our father Naraṇan.  
 He is the ruler of the earth goddess.  
 He killed the elephant Kuvalayabeedaam.  
 He is the origin of all the worlds.  
 
-3829 தானே உலகு எல்லாம்  
-தானே படைத்து இடந்து  
-தானே உண்டு உமிழ்ந்து  
-தானே ஆள்வானே (3)  
-3829. He is himself all the world.  
+३८२९ ताने उलगु ऎल्लाम्  
+ताने पडैत्तु इडन्दु  
+ताने उण्डु उमिऴ्न्दु  
+ताने आळ्वाने (३)  
+३८२९। He is himself all the world.  
 He created the world, split it open,  
 swallowed it and spit it out.  
 He rules all the worlds.  
 
-3830 ஆள்வான் ஆழி நீர்க்  
-கோள்வாய் அரவு அணையான்  
-தாள்வாய் மலர் இட்டு  
-நாள்வாய் நாடீரே (4)  
-3830. The god sleeps on the ocean on a snake bed  
+३८३० आळ्वान् आऴि नीर्क्  
+कोळ्वाय् अरवु अणैयान्  
+ताळ्वाय् मलर् इट्टु  
+नाळ्वाय् नाडीरे (४)  
+३८३०। The god sleeps on the ocean on a snake bed  
 and rules the world.  
 Place fresh flowers at his feet  
 and worship him every day.  
 
-3831 நாடீர் நாள்தோறும்  
-வாடா மலர்கொண்டு  
-பாடீர் அவன் நாமம்  
-வீடே பெறலாமே (5)  
-3831. Place blooming fresh flowers  
+३८३१ नाडीर् नाळ्दोऱुम्  
+वाडा मलर्गॊण्डु  
+पाडीर् अवन् नामम्  
+वीडे पॆऱलामे (५)  
+३८३१। Place blooming fresh flowers  
 every day at his feet,  
 worship him and recite his names  
 and you will reach moksha.  
 
-3832 மேயான் வேங்கடம்  
-காயாமலர் வண்ணன்  
-பேயார் முலை உண்ட  
-வாயான் மாதவனே (6)  
-3832. He has the dark color of a kayam flower.  
+३८३२ मेयान् वेङ्गडम्  
+कायामलर् वण्णन्  
+पेयार् मुलै उण्ड  
+वायान् मादवने (६)  
+३८३२। He has the dark color of a kayam flower.  
 He drank milk from the breasts of the devil Putana.  
 He is Madhavan  
 and stays in the Thiruvenkaṭam hills.  
 
-3833 மாதவன் என்று என்று  
-ஓத வல்லீரேல்  
-தீது ஒன்றும் அடையா  
-ஏதம் சாராவே (7)  
-3833. If you recite always the name of the lord saying,  
+३८३३ मादवन् ऎण्ड्रु ऎण्ड्रु  
+ओद वल्लीरेल्  
+तीदु ऒण्ड्रुम् अडैया  
+एदम् सारावे (७)  
+३८३३। If you recite always the name of the lord saying,  
 "Madhavan, Madhavan!"  
 all your karma will disappear.  
 No trouble will come to you.  
 
-3834 சாரா ஏதங்கள்  
-நீர் ஆர் முகில் வண்ணன்  
-பேர் ஆர் ஓதுவார்  
-ஆரார் அமரரே (8)  
-3834. All who recite the names  
+३८३४ सारा एदङ्गळ्  
+नीर् आर् मुगिल् वण्णन्  
+पेर् आर् ओदुवार्  
+आरार् अमररे (८)  
+३८३४। All who recite the names  
 of the dark cloud-colored lord  
 become gods in the sky.  
 No troubles will come to them.  
 
-3835 அமரர்க்கு அரியானை  
-தமர்கட்கு எளியானை  
-அமரத் தொழுவார்கட்கு  
-அமரா வினைகளே (9)  
-3835. The gods in the sky cannot know him  
+३८३५ अमरर्क्कु अरियानै  
+तमर्गट्कु ऎळियानै  
+अमरत् तॊऴुवार्गट्कु  
+अमरा विनैगळे (९)  
+३८३५। The gods in the sky cannot know him  
 yet he is easy for his devotees to know.  
 If devotees worship the lord in the sky,  
 the results of their karma will go away.  
 
-3836 வினை வல் இருள் என்னும்  
-முனைகள் வெருவிப் போம்  
-சுனை நல் மலர் இட்டு  
-நினைமின் நெடியானே (10)  
-3836. Worship the lord Nediyaan  
+३८३६ विनै वल् इरुळ् ऎन्नुम्  
+मुनैगळ् वॆरुविप् पोम्  
+सुनै नल् मलर् इट्टु  
+निनैमिन् नॆडियाने (१०)  
+३८३६। Worship the lord Nediyaan  
 with beautiful flowers that have bloomed in springs.  
 Any good or bad karma that is like past or future darkness  
 will give you no trouble and disappear.  
 
-3837 நெடியான் அருள் சூடும்  
-படியான் சடகோபன்  
-நொடி ஆயிரத்து இப் பத்து  
-அடியார்க்கு அருள்பேறே (11)  
-3837. Saḍagopan, the devotee blessed by the god Neḍiyaan,  
+३८३७ नॆडियान् अरुळ् सूडुम्  
+पडियान् सडगोबन्  
+नॊडि आयिरत्तु इप् पत्तु  
+अडियार्क्कु अरुळ्बेऱे (११)  
+३८३७। Saḍagopan, the devotee blessed by the god Neḍiyaan,  
 composed a thousand pasurams on the highest god.  
 If devotees learn and recite these,  
 they will have the grace of the lord.  
 -----------  
 
-திருவாய்மொழி பத்தாம் பத்து (ஆறாம் திருமொழி, 3838-3848)  
-தமக்குப் பேறு அளிக்கச் சமயம் பார்த்திருந்த பேரருளைப் பாராட்டி  
-ஆழ்வார் நெஞ்சுடன் கூறுதல் (திருவாட்டாறு)  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (आऱाम् तिरुमॊऴि, ३८३८-३८४८)  
+तमक्कुप् पेऱु अळिक्कच् चमयम् पार्त्तिरुन्द पेररुळैप् पाराट्टि  
+आऴ्वार् नॆञ्जुडन् कूऱुदल् (तिरुवाट्टाऱु)  
 
-3838 அருள்பெறுவார் அடியார் தம் அடியனேற்கு ஆழியான்  
-அருள்தருவான் அமைகின்றான் அது நமது விதிவகையே  
-இருள் தரு மா ஞாலத்துள் இனிப் பிறவி யான் வேண்டேன்  
-மருள் ஒழி நீ மட நெஞ்சே வாட்டாற்றான் அடி வணங்கே (1)  
-3838. I am a devotee of the devotees  
+३८३८ अरुळ्बॆऱुवार् अडियार् तम् अडियनेऱ्‌कु आऴियान्  
+अरुळ्दरुवान् अमैगिण्ड्रान् अदु नमदु विधिवगैये  
+इरुळ् तरु मा ञालत्तुळ् इनिप् पिऱवि यान् वेण्डेन्  
+मरुळ् ऒऴि नी मड नॆञ्जे वाट्टाट्रान् अडि वणङ्गे (१)  
+३८३८। I am a devotee of the devotees  
 who have the grace of the lord.  
 He carries a discus and will give his grace to me.  
 We will have his grace according to our fate.  
@@ -14650,11 +14651,11 @@ I do not want births on this earth that give sorrow in life.
 O ignorant heart! Don’t be confused.  
 Worship the feet of the lord of Thiruvaaṭṭaṛu.  
 
-3839 வாட்டாற்றான் அடி வணங்கி மா ஞாலப் பிறப்பு அறுப்பான்  
-கேட்டாயே மட நெஞ்சே! கேசவன் எம் பெருமானைப்  
-பாட்டு ஆய பல பாடி பழவினைகள் பற்று அறுத்து  
-நாட்டாரோடு இயல்வு ஒழிந்து நாரணனை நண்ணினமே (2)  
-3839. Worship the feet of the lord of Thiruvaaṭṭaaṛu  
+३८३९ वाट्टाट्रान् अडि वणङ्गि मा ञालप् पिऱप्पु अऱुप्पान्  
+केट्टाये मड नॆञ्जे! केसवन् ऎम् पॆरुमानैप्  
+पाट्टु आय पल पाडि पऴविनैगळ् पट्रु अऱुत्तु  
+नाट्टारोडु इयल्वु ऒऴिन्दु नारणनै नण्णिनमे (२)  
+३८३९। Worship the feet of the lord of Thiruvaaṭṭaaṛu  
 and he will remove your births on this wide earth.  
 O heart! Did you listen to what I say?  
 We sing many songs and praise our great lord Kesavan  
@@ -14662,45 +14663,45 @@ and the results of all our karma have gone away.
 We have no desire and no relationship with the world  
 and we have joined him.  
 
-3840 நண்ணினம் நாராயணனை நாமங்கள் பல சொல்லி  
-மண் உலகில் வளம் மிக்க வாட்டாற்றான் வந்து இன்று  
-விண் உலகம் தருவானாய் விரைகின்றான் விதிவகையே  
-எண்ணினவாறு ஆகா இக் கருமங்கள் என் நெஞ்சே (3)  
-3840. We praised his many names and approached Narayaṇan.  
+३८४० नण्णिनम् नारायणनै नामङ्गळ् पल सॊल्लि  
+मण् उलगिल् वळम् मिक्क वाट्टाट्रान् वन्दु इण्ड्रु  
+विण् उलगम् तरुवानाय् विरैगिण्ड्रान् विधिवगैये  
+ऎण्णिनवाऱु आगा इक् करुमङ्गळ् ऎन् नॆञ्जे (३)  
+३८४०। We praised his many names and approached Narayaṇan.  
 He has come to rich Thiruvaaṭṭaaṛu flourishing on this earth  
 and stayed there.  
 Quickly, he will give his grace to his devotees  
 so that they can reach moksha.  
 O heart! We will achieve what we want if we worship him.  
 
-3841 என் நெஞ்சத்து உள் இருந்து இங்கு இரும் தமிழ் நூல் இவை மொழிந்து  
-வல் நெஞ்சத்து இரணியனை மார்வு இடந்த வாட்டாற்றான்  
-மன் அஞ்ச பாரதத்துப் பாண்டவர்க்காப் படைதொட்டான்  
-நல் நெஞ்சே நம் பெருமான் நமக்கு அருள் தான் செய்வானே (4)  
-3841. The lord stays in my heart  
+३८४१ ऎन् नॆञ्जत्तु उळ् इरुन्दु इङ्गु इरुम् तमिऴ् नूल् इवै मॊऴिन्दु  
+वल् नॆञ्जत्तु इरणियनै मार्वु इडन्द वाट्टाट्रान्  
+मन् अञ्ज पारदत्तुप् पाण्डवर्क्काप् पडैदॊट्टान्  
+नल् नॆञ्जे नम् पॆरुमान् नमक्कु अरुळ् तान् सॆय्वाने (४)  
+३८४१। The lord stays in my heart  
 and inspires me to compose Tamil pasurams.  
 He split open Hiraṇyan’s strong chest  
 and he fought in the Bharatha war for the Pandavas.  
 O good heart, our great lord of Thiruvaaṭṭaaṛu  
 truly gives his grace to us.  
 
-3842 வான் ஏற வழி தந்த வாட்டாற்றான் பணிவகையே  
-நான் ஏறப் பெறுகின்றேன் நரகத்தை நகு நெஞ்சே!  
-தேன் ஏறு மலர்த் துளவம் திகழ் பாதன் செழும் பறவை  
-தான் ஏறித் திரிவான தாள் இணை என் தலைமேலே (5)  
-3842. He rides on beautiful Garuḍa.  
+३८४२ वान् एऱ वऴि तन्द वाट्टाट्रान् पणिवगैये  
+नान् एऱप् पॆऱुगिण्ड्रेन् नरगत्तै नगु नॆञ्जे!  
+तेन् एऱु मलर्त् तुळवम् तिगऴ् पादन् सॆऴुम् पऱवै  
+तान् एऱित् तिरिवान ताळ् इणै ऎन् तलैमेले (५)  
+३८४२। He rides on beautiful Garuḍa.  
 His shining feet are decorated  
 with fragrant thulasi garlands dripping with honey.  
 He, the lord of Thiruvaaṭṭaaṛu,  
 has placed his lotus feet on my head  
-and will show me the way to moksa .  
+and will show me the way to moksa ।  
 O heart, I will not go to hell—let us laugh at it.  
 
-3843 தலைமேல தாள் இணைகள் தாமரைக்கண் என் அம்மான்  
-நிலைபேரான் என் நெஞ்சத்து எப்பொழுதும் எம் பெருமான்  
-மலை மாடத்து அரவு அணைமேல் வாட்டாற்றான் மதம் மிக்க  
-கொலை யானை மருப்பு ஒசித்தான் குரை கழல்கள் குறுகினமே (6)  
-3843. My lotus-eyed father  
+३८४३ तलैमेल ताळ् इणैगळ् तामरैक्कण् ऎन् अम्मान्  
+निलैबेरान् ऎन् नॆञ्जत्तु ऎप्पॊऴुदुम् ऎम् पॆरुमान्  
+मलै माडत्तु अरवु अणैमेल् वाट्टाट्रान् मदम् मिक्क  
+कॊलै यानै मरुप्पु ऒचित्तान् कुरै कऴल्गळ् कुऱुगिनमे (६)  
+३८४३। My lotus-eyed father  
 placed both of his lotus feet on my head.  
 He will not leave my heart but will remain there always.  
 He, the lord of Thiruvaaṭṭaaṛu surrounded by hills and palaces,  
@@ -14708,11 +14709,11 @@ sleeps on a snake bed.
 He broke the tusks of the murderous elephant.  
 I have approached his feet that are adorned with sounding anklets.  
 
-3844 குரை கழல்கள் குறுகினம் நம் கோவிந்தன் குடிகொண்டான்  
-திரை குழுவு கடல் புடை சூழ் தென் நாட்டுத் திலதம் அன்ன  
-வரை குழுவு மணி மாட வாட்டாற்றான் மலர் அடிமேல்  
-விரை குழுவு நறும் துளவம் மெய்ந்நின்று கமழுமே (7)  
-3844. I approached the feet of Govindan  
+३८४४ कुरै कऴल्गळ् कुऱुगिनम् नम् कोविन्दन् कुडिगॊण्डान्  
+तिरै कुऴुवु कडल् पुडै सूऴ् तॆन् नाट्टुत् तिलदम् अन्न  
+वरै कुऴुवु मणि माड वाट्टाट्रान् मलर् अडिमेल्  
+विरै कुऴुवु नऱुम् तुळवम् मॆय्न्निण्ड्रु कमऴुमे (७)  
+३८४४। I approached the feet of Govindan  
 ornamented with sounding anklets.  
 He has entered my heart and stays there.  
 He is the god of Thiruvaṭṭaaṛu  
@@ -14721,11 +14722,11 @@ and filled with palaces studded with jewels,
 a place that is like a thilakam of the southern land.  
 The fragrance of thulasi on his lotus feet spreads everywhere.  
 
-3845 மெய்ந்நின்று கமழ் துளவ விரை ஏறு திருமுடியன்  
-கைந்நின்ற சக்கரத்தன் கருதும் இடம் பொருது புனல்  
-மைந்நின்ற வரை போலும் திரு உருவ வாட்டாற்றாற்கு  
-எந் நன்றி செய்தேனா என் நெஞ்சில் திகழ்வதுவே? (8)  
-3845. His divine hair is beautifully decorated  
+३८४५ मॆय्न्निण्ड्रु कमऴ् तुळव विरै एऱु तिरुमुडियन्  
+कैन्निण्ड्र सक्करत्तन् करुदुम् इडम् पॊरुदु पुनल्  
+मैन्निण्ड्र वरै पोलुम् तिरु उरुव वाट्टाट्राऱ्‌कु  
+ऎन् नण्ड्रि सॆय्देना ऎन् नॆञ्जिल् तिगऴ्वदुवे? (८)  
+३८४५। His divine hair is beautifully decorated  
 with fragrant thulasi garlands.  
 He is like a dark hill and carries a discus in his hand.  
 He wishes to stay in Thiruvaṭṭaaṛu  
@@ -14733,11 +14734,11 @@ surrounded by the ocean with roaring waves.
 What good karma I must have done!  
 He shines and stays in my heart.  
 
-3846 திகழ்கின்ற திருமார்பில் திருமங்கை தன்னோடும்  
-திகழ்கின்ற திருமாலார் சேர்விடம் தண் வாட்டாறு  
-புகழ்நின்ற புள் ஊர்தி போர் அரக்கர் குலம் கெடுத்தான்  
-இகழ்வு இன்றி என் நெஞ்சத்து எப்பொழுதும் பிரியானே (9)  
-3846. The beautiful Thirumal stays in Thiruvaṭṭaaṛu  
+३८४६ तिगऴ्गिण्ड्र तिरुमार्बिल् तिरुमङ्गै तन्नोडुम्  
+तिगऴ्गिण्ड्र तिरुमालार् सेर्विडम् तण् वाट्टाऱु  
+पुगऴ्निण्ड्र पुळ् ऊर्दि पोर् अरक्कर् कुलम् कॆडुत्तान्  
+इगऴ्वु इण्ड्रि ऎन् नॆञ्जत्तु ऎप्पॊऴुदुम् पिरियाने (९)  
+३८४६। The beautiful Thirumal stays in Thiruvaṭṭaaṛu  
 and the goddess of wealth Lakshmi  
 stays on his divine shining chest.  
 He rides on Garuḍa  
@@ -14745,11 +14746,11 @@ and destroyed the clan of his enemies, the Asurans.
 He will never dislike me  
 and he will never leave my heart.  
 
-3847 பிரியாது ஆட்செய் என்று பிறப்பு அறுத்து ஆள் அறக்கொண்டான்  
-அரி ஆகி இரணியனை ஆகம் கீண்டான் அன்று  
-பெரியார்க்கு ஆட்பட்டக்கால் பெறாத பயன் பெறுமாறு  
-வரி வாள் வாய் அரவு அணைமேல் வாட்டாற்றான் காட்டினனே (10)  
-3847. He will not leave me and he rules me.  
+३८४७ पिरियादु आट्चॆय् ऎण्ड्रु पिऱप्पु अऱुत्तु आळ् अऱक्कॊण्डान्  
+अरि आगि इरणियनै आगम् कीण्डान् अण्ड्रु  
+पॆरियार्क्कु आट्पट्टक्काल् पॆऱाद पयन् पॆऱुमाऱु  
+वरि वाळ् वाय् अरवु अणैमेल् वाट्टाट्रान् काट्टिनने (१०)  
+३८४७। He will not leave me and he rules me.  
 He destroyed my births and rules me with love.  
 He took the form of a man-lion  
 and split open the chest of Hiraṇyan.  
@@ -14758,11 +14759,11 @@ with a shining mouth and a lined body.
 If someone receives the grace of the great god,  
 he will have a reward that no one can obtain.  
 
-3848 காட்டித் தன் கனை கழல்கள் கடு நரகம் புகல் ஒழித்த  
-வாட்டாற்று எம் பெருமானை வளங் குருகூர்ச் சடகோபன்  
-பாட்டாய தமிழ் மாலை ஆயிரத்துள் இப் பத்தும்  
-கேட்டு ஆரார் வானவர்கள் செவிக்கு இனிய செஞ்சொல்லே (11)  
-3848. Saḍagopan of rich Thirukuruhur  
+३८४८ काट्टित् तन् कनै कऴल्गळ् कडु नरगम् पुगल् ऒऴित्त  
+वाट्टाट्रु ऎम् पॆरुमानै वळङ् गुरुगूर्च् चडगोबन्  
+पाट्टाय तमिऴ् मालै आयिरत्तुळ् इप् पत्तुम्  
+केट्टु आरार् वानवर्गळ् सॆविक्कु इनिय सॆञ्जॊल्ले (११)  
+३८४८। Saḍagopan of rich Thirukuruhur  
 composed a garland of a thousand Tamil pasurams  
 on our dear god of Thiruvaṭṭaaṛu  
 who showed his sounding anklets to his devotees  
@@ -14771,15 +14772,15 @@ Even the gods in the sky are happy to hear
 these ten pasurams that are sweet to the ears.  
 -------------  
 
-திருவாய்மொழி பத்தாம் பத்து (ஏழாம் திருமொழி, 3849-3859)  
-ஆழ்வார் தமது மேனியின்மேல் எம்பெருமான் வைத்துள்ள  
-வாஞ்சையைப் பாராட்டிப் பேசுதல் (திருமாலிருஞ்சோலை)  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (एऴाम् तिरुमॊऴि, ३८४९-३८५९)  
+आऴ्वार् तमदु मेनियिन्मेल् ऎम्बॆरुमान् वैत्तुळ्ळ  
+वाञ्जैयैप् पाराट्टिप् पेसुदल् (तिरुमालिरुञ्जोलै)  
 
-3849 செஞ்சொல் கவிகாள் உயிர் காத்து ஆட்செய்ம்மின் திருமாலிருஞ்சோலை  
-வஞ்சக் கள்வன் மா மாயன் மாயக் கவியாய் வந்து என்  
-நெஞ்சும் உயிரும் உள் கலந்து நின்றார் அறியாவண்ணம் என்  
-நெஞ்சும் உயிரும் அவை உண்டு தானே ஆகி நிறைந்தானே (1)  
-3849. O poets, you compose pasurams with lovely words—  
+३८४९ सॆञ्जॊल् कविगाळ् उयिर् कात्तु आट्चॆय्म्मिन् तिरुमालिरुञ्जोलै  
+वञ्जक् कळ्वन् मा मायन् मायक् कवियाय् वन्दु ऎन्  
+नॆञ्जुम् उयिरुम् उळ् कलन्दु निण्ड्रार् अऱियावण्णम् ऎन्  
+नॆञ्जुम् उयिरुम् अवै उण्डु ताने आगि निऱैन्दाने (१)  
+३८४९। O poets, you compose pasurams with lovely words—  
 be sure to take care of yourselves.  
 He is the great Maayan, the lord of Thirumalirunjolai,  
 and he is a cheating thief.  
@@ -14788,21 +14789,21 @@ staying there unknown to anyone,
 and he will devour your heart and life  
 and fill them until there is nothing there but him.  
 
-3850 தானே ஆகி நிறைந்து எல்லா உலகும் உயிரும் தானே ஆய்  
-தானே யான் என்பான் ஆகி தன்னைத் தானே துதித்து எனக்குத்  
-தேனே பாலே கன்னலே அமுதே திருமாலிருஞ்சோலைக்  
-கோனே ஆகி நின்றொழிந்தான் என்னை முற்றும் உயிர் உண்டே (2)  
-3850. He himself is all the world and the creatures in it.  
+३८५० ताने आगि निऱैन्दु ऎल्ला उलगुम् उयिरुम् ताने आय्  
+ताने यान् ऎन्बान् आगि तन्नैत् ताने तुदित्तु ऎनक्कुत्  
+तेने पाले कन्नले अमुदे तिरुमालिरुञ्जोलैक्  
+कोने आगि निण्ड्रॊऴिन्दान् ऎन्नै मुट्रुम् उयिर् उण्डे (२)  
+३८५०। He himself is all the world and the creatures in it.  
 He is himself and he worships himself.  
 He is my honey, milk, sugar juice and nectar.  
 He is the lord of Thirumalirunjolai.  
 He swallowed all my life and went away.  
 
-3851 என்னை முற்றும் உயிர் உண்டு என் மாய ஆக்கை இதனுள் புக்கு  
-என்னை முற்றும் தானே ஆய் நின்ற மாய அம்மான் சேர்  
-தென் நன் திருமாலிருஞ்சோலைத் திசை கைகூப்பிச் சேர்ந்த யான்  
-இன்னும் போவேனேகொலோ? என்கொல் அம்மான் திரு அருளே? (3)  
-3851. He swallowed all my life.  
+३८५१ ऎन्नै मुट्रुम् उयिर् उण्डु ऎन् माय आक्कै इदनुळ् पुक्कु  
+ऎन्नै मुट्रुम् ताने आय् निण्ड्र माय अम्मान् सेर्  
+तॆन् नन् तिरुमालिरुञ्जोलैत् तिसै कैगूप्पिच् चेर्न्द यान्  
+इन्नुम् पोवेनेगॊलो? ऎन्गॊल् अम्मान् तिरु अरुळे? (३)  
+३८५१। He swallowed all my life.  
 He entered my illusory body.  
 He himself is me.  
 He is Maayan, my father.  
@@ -14811,11 +14812,11 @@ and worshiped the lord there folding my hands.
 Do I need to search for him anywhere else?  
 Do I need to go somewhere to receive his divine grace?  
 
-3852 என்கொல் அம்மான் திரு அருள்கள் உலகும் உயிரும் தானே ஆய்  
-நன்கு என் உடலம் கைவிடான் ஞாலத்தூடே நடந்து உழக்கி  
-தென் கொள் திசைக்குத் திலதமாய் நின்ற திருமாலிருஞ்சோலை  
-நங்கள் குன்றம் கைவிடான் நண்ணா அசுரர் நலியவே? (4)  
-3852. How can I describe his grace?  
+३८५२ ऎन्गॊल् अम्मान् तिरु अरुळ्गळ् उलगुम् उयिरुम् ताने आय्  
+नन्गु ऎन् उडलम् कैविडान् ञालत्तूडे नडन्दु उऴक्कि  
+तॆन् कॊळ् तिसैक्कुत् तिलदमाय् निण्ड्र तिरुमालिरुञ्जोलै  
+नङ्गळ् कुण्ड्रम् कैविडान् नण्णा असुरर् नलियवे? (४)  
+३८५२। How can I describe his grace?  
 He himself is the world and the creatures in it.  
 He will not leave my body.  
 He wanders everywhere in the world  
@@ -14823,11 +14824,11 @@ and destroys the Asurans who do not approach him.
 He will not leave the hills of Thirumalirunjolai  
 that shines as the thilagam of the southern land.  
 
-3853 நண்ணா அசுரர் நலிவு எய்த நல்ல அமரர் பொலிவு எய்த  
-எண்ணாதனகள் எண்ணும் நல் முனிவர் இன்பம் தலைசிறப்ப  
-பண் ஆர் பாடல் இன் கவிகள் யானாய்த் தன்னைத் தான் பாடி  
-தென்னா என்னும் என் அம்மான் திருமாலிருஞ்சோலையானே (5)  
-3853. He destroys the Asurans who do not come to him.  
+३८५३ नण्णा असुरर् नलिवु ऎय्द नल्ल अमरर् पॊलिवु ऎय्द  
+ऎण्णादनगळ् ऎण्णुम् नल् मुनिवर् इन्बम् तलैसिऱप्प  
+पण् आर् पाडल् इन् कविगळ् यानाय्त् तन्नैत् तान् पाडि  
+तॆन्ना ऎन्नुम् ऎन् अम्मान् तिरुमालिरुञ्जोलैयाने (५)  
+३८५३। He destroys the Asurans who do not come to him.  
 He made the good gods in the sky happy.  
 The sages think of the nature of the god however they wish  
 even though they do not know what it is  
@@ -14836,11 +14837,11 @@ He sings himself pleasant songs with music about himself.
 My father, the lord of Thirumalirunjolai sings songs  
 with the sound "thennaa, thennaa."  
 
-3854 திருமாலிருஞ்சோலையானே ஆகி செழு மூவுலகும் தன்  
-ஒரு மா வயிற்றின் உள்ளே வைத்து ஊழி ஊழி தலையளிக்கும்  
-திருமால் என்னை ஆளும் மால் சிவனும் பிரமனும் காணாது  
-அரு மால் எய்தி அடி பரவ அருளை ஈந்த அம்மானே (6)  
-3854. He is the lord of Thirumalirunjolai.  
+३८५४ तिरुमालिरुञ्जोलैयाने आगि सॆऴु मूवुलगुम् तन्  
+ऒरु मा वयिट्रिन् उळ्ळे वैत्तु ऊऴि ऊऴि तलैयळिक्कुम्  
+तिरुमाल् ऎन्नै आळुम् माल् सिवनुम् पिरमनुम् काणादु  
+अरु माल् ऎय्दि अडि परव अरुळै ईन्द अम्माने (६)  
+३८५४। He is the lord of Thirumalirunjolai.  
 He swallowed all the rich worlds  
 and kept them in his great stomach.  
 He is the lord and gives his grace to the world eon after eon.  
@@ -14848,33 +14849,33 @@ The god Thirumal rules the world.
 Shiva and Brahma, unable to find his head or feet,  
 worshiped him and he gave his grace to them.  
 
-3855 அருளை ஈ என் அம்மானே என்னும் முக்கண் அம்மானும்  
-தெருள் கொள் பிரமன் அம்மானும் தேவர் கோனும் தேவரும்  
-இருள்கள் கடியும் முனிவரும் ஏத்தும் அம்மான் திருமலை  
-மருள்கள் கடியும் மணிமலை திருமாலிருஞ்சோலை மலையே (7)  
-3855. Thirumalirunjolai,  
+३८५५ अरुळै ई ऎन् अम्माने ऎन्नुम् मुक्कण् अम्मानुम्  
+तॆरुळ् कॊळ् पिरमन् अम्मानुम् तेवर् कोनुम् तेवरुम्  
+इरुळ्गळ् कडियुम् मुनिवरुम् एत्तुम् अम्मान् तिरुमलै  
+मरुळ्गळ् कडियुम् मणिमलै तिरुमालिरुञ्जोलै मलैये (७)  
+३८५५। Thirumalirunjolai,  
 the divine jewel-filled hill that takes away the ignorance of all,  
 is where the three-eyed Shiva, the wise Brahma,  
 Indra the king of gods, all the gods,  
 and the sages who remove ignorance  
 praise the lord saying, "O father, give us your grace."  
 
-3856 திருமாலிருஞ்சோலை மலையே திருப்பாற்கடலே என் தலையே  
-திருமால் வைகுந்தமே தண் திருவேங்கடமே எனது உடலே  
-அரு மா மாயத்து எனது உயிரே மனமே வாக்கே கருமமே  
-ஒரு மா நொடியும் பிரியான் என் ஊழி முதல்வன் ஒருவனே (8)  
-3856. Thirumalirunjolai hill and the divine milky ocean are my head.  
+३८५६ तिरुमालिरुञ्जोलै मलैये तिरुप्पाऱ्‌कडले ऎन् तलैये  
+तिरुमाल् वैगुन्दमे तण् तिरुवेङ्गडमे ऎनदु उडले  
+अरु मा मायत्तु ऎनदु उयिरे मनमे वाक्के करुममे  
+ऒरु मा नॊडियुम् पिरियान् ऎन् ऊऴि मुदल्वन् ऒरुवने (८)  
+३८५६। Thirumalirunjolai hill and the divine milky ocean are my head.  
 The lands of Thirumaal, Vaikuṇṭam and Thiruvenkaṭam are my body.  
 Even for a moment he will not leave my illusory life,  
 my mind, my words and my deeds.  
 He is unique, the ancient one of the eon,  
 and he will not leave me.  
 
-3857 ஊழி முதல்வன் ஒருவனே என்னும் ஒருவன் உலகு எல்லாம்  
-ஊழிதோறும் தன்னுள்ளே படைத்து காத்து கெடுத்து உழலும்  
-ஆழிவண்ணன் என் அம்மான் அம் தண் திருமாலிருஞ்சோலை  
-வாழி மனமே! கைவிடேல் உடலும் உயிரும் மங்க ஒட்டே (9)  
-3857. He alone was left at the end of the eon.  
+३८५७ ऊऴि मुदल्वन् ऒरुवने ऎन्नुम् ऒरुवन् उलगु ऎल्लाम्  
+ऊऴिदोऱुम् तन्नुळ्ळे पडैत्तु कात्तु कॆडुत्तु उऴलुम्  
+आऴिवण्णन् ऎन् अम्मान् अम् तण् तिरुमालिरुञ्जोलै  
+वाऴि मनमे! कैविडेल् उडलुम् उयिरुम् मङ्ग ऒट्टे (९)  
+३८५७। He alone was left at the end of the eon.  
 He created, protected and destroyed all creatures  
 at the end of the world.  
 O mind, think only of beautiful cool Thirumalirunjolai  
@@ -14882,11 +14883,11 @@ where our father, the ocean-colored god, stays.
 Do not forget him.  
 He is in your body and soul.  
 
-3858 மங்க ஒட்டு உன் மா மாயை திருமாலிருஞ்சோலை மேய  
-நங்கள் கோனே யானே நீ ஆகி என்னை அளித்தானே  
-பொங்கு ஐம்புலனும் பொறி ஐந்தும் கருமேந்திரியம் ஐம்பூதம்  
-இங்கு இவ் உயிர் ஏய் பிரகிருதி மான் ஆங்காரம் மனங்களே. (10)  
-3858. There is no limit to your Maayai.  
+३८५८ मङ्ग ऒट्टु उन् मा मायै तिरुमालिरुञ्जोलै मेय  
+नङ्गळ् कोने याने नी आगि ऎन्नै अळित्ताने  
+पॊङ्गु ऐम्बुलनुम् पॊऱि ऐन्दुम् करुमेन्दिरियम् ऐम्बूदम्  
+इङ्गु इव् उयिर् एय् पिरगिरुदि मान् आङ्गारम् मनङ्गळे। (१०)  
+३८५८। There is no limit to your Maayai.  
 You are our king of Thirumalirunjolai.  
 You are I and you gave me your grace.  
 The five feelings—seeing, hearing, breathing, taste and touch—  
@@ -14895,11 +14896,11 @@ and five elements—sky, wind, sound, light and ether—
 and this life on earth, nature, the self, sense of ego and mind  
 are all only you.  
 
-3858 மான் ஆங்காரம் மனம் கெட ஐவர் வன்கையர் மங்க  
-தான் ஆங்காரமாய்ப் புக்கு தானே தானே ஆனானைத்  
-தேன் ஆங்காரப் பொழில் குருகூர்ச் சடகோபன் சொல் ஆயிரத்துள்  
-மான் ஆங்காரத்து இவை பத்தும் திருமாலிருஞ்சோலை மலைக்கே. (11)  
-3859. Saḍagopan of Thirukurugur  
+३८५८ मान् आङ्गारम् मनम् कॆड ऐवर् वन्गैयर् मङ्ग  
+तान् आङ्गारमाय्प् पुक्कु ताने ताने आनानैत्  
+तेन् आङ्गारप् पॊऴिल् गुरुगूर्च् चडगोबन् सॊल् आयिरत्तुळ्  
+मान् आङ्गारत्तु इवै पत्तुम् तिरुमालिरुञ्जोलै मलैक्के। (११)  
+३८५९। Saḍagopan of Thirukurugur  
 surrounded by beautiful groves dripping with honey  
 composed a thousand pasurams praising the lord  
 who destroys the feelings of the five senses  
@@ -14910,36 +14911,36 @@ on Thirumalirunjolai surrounded by groves dripping with honey,
 the feelings of their senses and mind will be destroyed.  
 -------------  
 
-திருவாய்மொழி பத்தாம் பத்து (எட்டாம் திருமொழி, 3860-3870)  
-காரணம் இன்றியே அருளி மகிழும் எம்பெருமானது  
-திறத்தைப் பேசுதல் (திருப்பேர் நகர்)  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (ऎट्टाम् तिरुमॊऴि, ३८६०-३८७०)  
+कारणम् इण्ड्रिये अरुळि मगिऴुम् ऎम्बॆरुमानदु  
+तिऱत्तैप् पेसुदल् (तिरुप्पेर् नगर्)  
 
-3860 திருமாலிருஞ்சோலை மலை என்றேன் என்ன  
-திருமால் வந்து என் நெஞ்சு நிறையப் புகுந்தான்  
-குரு மா மணி உந்து புனல் பொன்னித் தென்பால்  
-திருமால் சென்று சேர்விடம் தென் திருப்பேரே (1)  
-3860. When I said, "Thirumalirunjolai!"  
+३८६० तिरुमालिरुञ्जोलै मलै ऎण्ड्रेन् ऎन्न  
+तिरुमाल् वन्दु ऎन् नॆञ्जु निऱैयप् पुगुन्दान्  
+गुरु मा मणि उन्दु पुनल् पॊन्नित् तॆन्बाल्  
+तिरुमाल् सॆण्ड्रु सेर्विडम् तॆन् तिरुप्पेरे (१)  
+३८६०। When I said, "Thirumalirunjolai!"  
 Thirumal came and entered my heart making it full.  
 The southern Thirupperur where the water of the Ponni river  
 brings large precious stones and leaves them on its banks  
 is where Thirumaal stays.  
 
-3861 பேரே உறைகின்ற பிரான் இன்று வந்து  
-பேரேன் என்று என் நெஞ்சு நிறையப் புகுந்தான்  
-கார் ஏழ் கடல் ஏழ் மலை ஏழ் உலகு உண்டும்  
-ஆரா வயிற்றானை அடங்கப் பிடித்தேனே (2)  
-3861. The lord of Thiruperur came, entered my heart  
+३८६१ पेरे उऱैगिण्ड्र पिरान् इण्ड्रु वन्दु  
+पेरेन् ऎण्ड्रु ऎन् नॆञ्जु निऱैयप् पुगुन्दान्  
+कार् एऴ् कडल् एऴ् मलै एऴ् उलगु उण्डुम्  
+आरा वयिट्रानै अडङ्गप् पिडित्तेने (२)  
+३८६१। The lord of Thiruperur came, entered my heart  
 and said,"I will not leave you."  
 Even though he swallowed all the seven clouds in the sky,  
 the seven oceans, the seven mountains and the seven worlds  
 it was not enough for him.  
 I have caught him tightly in my heart and he stays there.  
 
-3862 பிடித்தேன் பிறவி கெடுத்தேன் பிணி சாரேன்  
-மடித்தேன் மனை வாழ்க்கையுள் நிற்பது ஓர் மாயையை  
-கொடிக் கோபுர மாடங்கள் சூழ் திருப்பேரான்  
-அடிச் சேர்வது எனக்கு எளிது ஆயினவாறே (3)  
-3862. I have caught him tightly and make him stay in my heart.  
+३८६२ पिडित्तेन् पिऱवि कॆडुत्तेन् पिणि सारेन्  
+मडित्तेन् मनै वाऴ्क्कैयुळ् निऱ्‌पदु ओर् मायैयै  
+कॊडिक् कोबुर माडङ्गळ् सूऴ् तिरुप्पेरान्  
+अडिच् चेर्वदु ऎनक्कु ऎळिदु आयिनवाऱे (३)  
+३८६२। I have caught him tightly and make him stay in my heart.  
 My future births are destroyed.  
 I will not get any sickness.  
 I do not want illusory family life.  
@@ -14947,42 +14948,42 @@ Now it is easy for me to join the feet of the god
 of Thiruperur filled with palaces that have towers  
 with flags flying on them.  
 
-3863 எளிதாயினவாறு என்று என் கண்கள் களிப்பக்  
-களிது ஆகிய சிந்தையனாய்க் களிக்கின்றேன்  
-கிளி தாவிய சோலைகள் சூழ் திருப்பேரான்  
-தெளிது ஆகிய சேண் விசும்பு தருவானே (4)  
-3863. My heart and my eyes are delighted  
+३८६३ ऎळिदायिनवाऱु ऎण्ड्रु ऎन् कण्गळ् कळिप्पक्  
+कळिदु आगिय सिन्दैयनाय्क् कळिक्किण्ड्रेन्  
+किळि ताविय सोलैगळ् सूऴ् तिरुप्पेरान्  
+तॆळिदु आगिय सेण् विसुम्बु तरुवाने (४)  
+३८६३। My heart and my eyes are delighted  
 knowing that it is easy to reach the god.  
 The lord of Thiruperur  
 surrounded by groves where parrots fly  
 will give me moksa in the sky  
 that is pure and divine.  
 
-3864 வானே தருவான் எனக்காய் என்னோடு ஒட்டி  
-ஊன் ஏய் குரம்பை இதனுள் புகுந்து இன்று  
-தானே தடுமாற்ற வினைகள் தவிர்த்தான்  
-தேன் ஏய் பொழில் தென் திருப்பேர் நகரானே (5)  
-3864. The god of southern Thiruperur  
+३८६४ वाने तरुवान् ऎनक्काय् ऎन्नोडु ऒट्टि  
+ऊन् एय् कुरम्बै इदनुळ् पुगुन्दु इण्ड्रु  
+ताने तडुमाट्र विनैगळ् तविर्त्तान्  
+तेन् एय् पॊऴिल् तॆन् तिरुप्पेर् नगराने (५)  
+३८६४। The god of southern Thiruperur  
 surrounded by groves dripping with honey  
 wished to give me moksha and came to me, entering my body.  
 He removed the karma that gives me confusion.  
 
-3865 திருப்பேர் நகரான் திருமாலிருஞ்சோலைப்  
-பொருப்பே உறைகின்ற பிரான் இன்று வந்து  
-இருப்பேன் என்று என் நெஞ்சு நிறையப் புகுந்தான்  
-விருப்பே பெற்று அமுதம் உண்டு களித்தேனே (6)  
-3865. The god of Thiruperur  
+३८६५ तिरुप्पेर् नगरान् तिरुमालिरुञ्जोलैप्  
+पॊरुप्पे उऱैगिण्ड्र पिरान् इण्ड्रु वन्दु  
+इरुप्पेन् ऎण्ड्रु ऎन् नॆञ्जु निऱैयप् पुगुन्दान्  
+विरुप्पे पॆट्रु अमुदम् उण्डु कळित्तेने (६)  
+३८६५। The god of Thiruperur  
 who stays in the hills of Thirumalirunjolai  
 came to me today, said, "I will stay with you!"  
 and entered my heart, filling it.  
 I received his love  
 and am blissful, as if I had drunk nectar.  
 
-3866 உண்டு களித்தேற்கு உம்பர் என் குறை மேலைத்  
-தொண்டு உகளித்து அந்தி தொழும் சொல்லுப் பெற்றேன்  
-வண்டு களிக்கும் பொழில் சூழ் திருப்பேரான்  
-கண்டு களிப்ப கண்ணுள் நின்று அகலானே? (7)  
-3866. I am happy because I drank his nectar.  
+३८६६ उण्डु कळित्तेऱ्‌कु उम्बर् ऎन् कुऱै मेलैत्  
+तॊण्डु उगळित्तु अन्दि तॊऴुम् सॊल्लुप् पॆट्रेन्  
+वण्डु कळिक्कुम् पॊऴिल् सूऴ् तिरुप्पेरान्  
+कण्डु कळिप्प कण्णुळ् निण्ड्रु अगलाने? (७)  
+३८६६। I am happy because I drank his nectar.  
 I am like the gods and need nothing.  
 I have served him  
 and in the evening I worship the god of Thiruperur  
@@ -14991,11 +14992,11 @@ He is happy to be before my eyes,
 never leaving my sight.  
 
 
-3867 கண்ணுள் நின்று அகலான் கருத்தின்கண் பெரியன்  
-எண்ணில் நுண் பொருள் ஏழ் இசையின் சுவை தானே  
-வண்ண நல் மணி மாடங்கள் சூழ் திருப்பேரான்  
-திண்ணம் என் மனத்துப் புகுந்தான் செறிந்து இன்றே (8)  
-3867. He stays before my eyes and does not leave.  
+३८६७ कण्णुळ् निण्ड्रु अगलान् करुत्तिन्गण् पॆरियन्  
+ऎण्णिल् नुण् पॊरुळ् एऴ् इसैयिन् सुवै ताने  
+वण्ण नल् मणि माडङ्गळ् सूऴ् तिरुप्पेरान्  
+तिण्णम् ऎन् मनत्तुप् पुगुन्दान् सॆऱिन्दु इण्ड्रे (८)  
+३८६७। He stays before my eyes and does not leave.  
 He is in all my thoughts.  
 When you think of him, he may be something tiny.  
 He is the seven musical notes.  
@@ -15004,11 +15005,11 @@ surrounded by beautiful palaces
 studded with jewels and tall as mountains  
 truly entered my heart today.  
 
-3868 இன்று என்னைப் பொருளாக்கி தன்னை என்னுள் வைத்தான்  
-அன்று என்னைப் புறம்போகப் புணர்த்தது என் செய்வான்?  
-குன்று என்னத் திகழ் மாடங்கள் சூழ் திருப்பேரான்  
-ஒன்று எனக்கு அருள் செய்ய உணர்த்தல் உற்றேனே (9)  
-3868. He made me important today.  
+३८६८ इण्ड्रु ऎन्नैप् पॊरुळाक्कि तन्नै ऎन्नुळ् वैत्तान्  
+अण्ड्रु ऎन्नैप् पुऱम्बोगप् पुणर्त्तदु ऎन् सॆय्वान्?  
+कुण्ड्रु ऎन्नत् तिगऴ् माडङ्गळ् सूऴ् तिरुप्पेरान्  
+ऒण्ड्रु ऎनक्कु अरुळ् सॆय्य उणर्त्तल् उट्रेने (९)  
+३८६८। He made me important today.  
 He entered my heart and I keep him there.  
 Why did he make me wander about,  
 involved in the pleasures of five senses?  
@@ -15018,22 +15019,22 @@ surrounded by shining hills that are like palaces
 gave me his grace  
 and I understood why I was hurt by my senses.  
 
-3869 உற்றேன் உகந்து பணிசெய்து உன் பாதம்  
-பெற்றேன் ஈதே இன்னம் வேண்டுவது எந்தாய்  
-கற்றார் மறைவாணர்கள் சூழ் திருப்பேராற்கு  
-அற்றார் அடியார் தமக்கு அல்லல் நில்லாவே (10)  
-3869. I served you and received the grace to worship your feet.  
+३८६९ उट्रेन् उगन्दु पणिसॆय्दु उन् पादम्  
+पॆट्रेन् ईदे इन्नम् वेण्डुवदु ऎन्दाय्  
+कट्रार् मऱैवाणर्गळ् सूऴ् तिरुप्पेराऱ्‌कु  
+अट्रार् अडियार् तमक्कु अल्लल् निल्लावे (१०)  
+३८६९। I served you and received the grace to worship your feet.  
 O my father, this is the only thing I ever want.  
 If devotees give up their desire for the world  
 and become the slaves of the lord of Thiruperur  
 where Brahmins live who know the Vedas well,  
 they will have no trouble in their lives.  
 
-3870 நில்லா அல்லல் நீள் வயல் சூழ் திருப்பேர்மேல்  
-நல்லார் பலர் வாழ் குருகூர்ச் சடகோபன்  
-சொல் ஆர் தமிழ் ஆயிரத்துள் இவை பத்தும்  
-வல்லார் தொண்டர் ஆள்வது சூழ் பொன் விசும்பே (11)  
-3870. Saḍagopan of Thiruperur  
+३८७० निल्ला अल्लल् नीळ् वयल् सूऴ् तिरुप्पेर्मेल्  
+नल्लार् पलर् वाऴ् गुरुगूर्च् चडगोबन्  
+सॊल् आर् तमिऴ् आयिरत्तुळ् इवै पत्तुम्  
+वल्लार् तॊण्डर् आळ्वदु सूऴ् पॊन् विसुम्बे (११)  
+३८७०। Saḍagopan of Thiruperur  
 surrounded by flourishing fields and filled with good people  
 composed a thousand Tamil pasurams with beautiful words.  
 If devotees learn and recite these ten Tamil pasurams  
@@ -15041,45 +15042,45 @@ and serve the lord,
 they will go to the golden sky and rule there.  
 -----------  
 
-திருவாய்மொழி பத்தாம் பத்து (ஒன்பதாம் திருமொழி, 3871-3881)  
-திருநாடு செல்வாருக்கு நடைபெறும் உபசாரங்களைத்  
-தாமே அனுபவித்துப் பேசுதல்  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (ऒन्बदाम् तिरुमॊऴि, ३८७१-३८८१)  
+तिरुनाडु सॆल्वारुक्कु नडैबॆऱुम् उबसारङ्गळैत्  
+तामे अनुबवित्तुप् पेसुदल्  
 
-3871 சூழ் விசும்பு அணி முகில் தூரியம் முழக்கின  
-ஆழ் கடல் அலை திரைக் கை எடுத்து ஆடின:  
-ஏழ் பொழிலும் வளம் ஏந்திய என் அப்பன்  
-வாழ் புகழ் நாரணன் தமரைக் கண்டு உகந்தே (1)  
-3871. When they see the devotees  
+३८७१ सूऴ् विसुम्बु अणि मुगिल् तूरियम् मुऴक्किन  
+आऴ् कडल् अलै तिरैक् कै ऎडुत्तु आडिन:  
+एऴ् पॊऴिलुम् वळम् एन्दिय ऎन् अप्पन्  
+वाऴ् पुगऴ् नारणन् तमरैक् कण्डु उगन्दे (१)  
+३८७१। When they see the devotees  
 of my father Naraṇan, praised by all,  
 the beautiful clouds in the sky sound like drums.  
 The deep oceans dance moving their waves like hands.  
 All the seven worlds flourishing with groves feel joy.  
 
-3872 நாரணன் தமரைக் கண்டு உகந்து நல் நீர் முகில்  
-பூரண பொன் குடம் பூரித்தது உயர் விண்ணில்  
-நீர் அணி கடல்கள் நின்று ஆர்த்தன நெடு வரைத்  
-தோரணம் நிரைத்து எங்கும் தொழுதனர் உலகே (2)  
-3872. Seeing the devotees of Naraṇan,  
+३८७२ नारणन् तमरैक् कण्डु उगन्दु नल् नीर् मुगिल्  
+पूरण पॊन् कुडम् पूरित्तदु उयर् विण्णिल्  
+नीर् अणि कडल्गळ् निण्ड्रु आर्त्तन नॆडु वरैत्  
+तोरणम् निरैत्तु ऎङ्गुम् तॊऴुदनर् उलगे (२)  
+३८७२। Seeing the devotees of Naraṇan,  
 the clouds filled with good water look like golden pots.  
 Oceans filled with abundant water roar reaching up to the sky.  
 The whole world puts up festoons of leaves and flowers  
 and worships him.  
 
-3873 தொழுதனர் உலகர்கள் தூப நல் மலர் மழை  
-பொழிவனர் பூமி அன்று அளந்தவன் தமர் முன்னே  
-எழுமின் என்று இருமருங்கு இசைத்தனர் முனிவர்கள்  
-வழி இது வைகுந்தர்க்கு என்று வந்து எதிரே (3)  
-3873. Everyone in the world worships his devotees.  
+३८७३ तॊऴुदनर् उलगर्गळ् तूब नल् मलर् मऴै  
+पॊऴिवनर् पूमि अण्ड्रु अळन्दवन् तमर् मुन्ने  
+ऎऴुमिन् ऎण्ड्रु इरुमरुङ्गु इसैत्तनर् मुनिवर्गळ्  
+वऴि इदु वैगुन्दर्क्कु ऎण्ड्रु वन्दु ऎदिरे (३)  
+३८७३। Everyone in the world worships his devotees.  
 They sprinkle a rain of flowers and show fragrances to them.  
 Sages stand at both sides of the devotees  
 of the god who measured the world and say,  
 "Come, this is the way to go to Vaikuṇṭam."  
 
-3874 எதிர் எதிர் இமையவர் இருப்பிடம் வகுத்தனர்  
-கதிரவர் அவர் அவர் கைந்நிரை காட்டினர்  
-அதிர் குரல் முரசங்கள் அலை கடல் முழக்கு ஒத்த  
-மது விரி துழாய் முடி மாதவன் தமர்க்கே (4)  
-3874. The gods in the sky make places  
+३८७४ ऎदिर् ऎदिर् इमैयवर् इरुप्पिडम् वगुत्तनर्  
+गतिरवर् अवर् अवर् कैन्निरै काट्टिनर्  
+अदिर् कुरल् मुरसङ्गळ् अलै कडल् मुऴक्कु ऒत्त  
+मदु विरि तुऴाय् मुडि मादवन् तमर्क्के (४)  
+३८७४। The gods in the sky make places  
 for the devotees to stay in front of them.  
 The twelve suns show each one of them  
 with their hands the way to moksha.  
@@ -15088,11 +15089,11 @@ like the sound of the waves in the ocean.
 This is all for the devotees of Madhavan  
 who wears thulasi garlands dripping with honey in his hair.  
 
-3875 மாதவன் தமர் என்று வாசலில் வானவர்  
-போதுமின் எமது இடம் புகுதுக என்றலும்  
-கீதங்கள் பாடினர் கின்னரர் கெருடர்கள்  
-வேத நல் வாயவர் வேள்வி உள்மடுத்தே (5)  
-3875. The gods in the sky know  
+३८७५ मादवन् तमर् ऎण्ड्रु वासलिल् वानवर्  
+पोदुमिन् ऎमदु इडम् पुगुदुग ऎण्ड्रलुम्  
+कीदङ्गळ् पाडिनर् किन्नरर् कॆरुडर्गळ्  
+वेद नल् वायवर् वेळ्वि उळ्मडुत्ते (५)  
+३८७५। The gods in the sky know  
 that they are devotees of Madhavan.  
 They welcome them at the thresholds  
 and say, "Come, enter into our homes."  
@@ -15100,11 +15101,11 @@ The Kinnarars and Garuḍas sing songs.
 The good sages who know the Vedas  
 perform sacrifices and worship them.  
 
-3876 வேள்வி உள்மடுத்தலும் விரை கமழ் நறும் புகை  
-காளங்கள் வலம்புரி கலந்து எங்கும் இசைத்தனர்  
-ஆள்மின்கள் வானகம் ஆழியான் தமர் என்று  
-வாள் ஒண் கண் மடந்தையர் வாழ்த்தினர் மகிழ்ந்தே (6)  
-3876. The sages perform sacrifices  
+३८७६ वेळ्वि उळ्मडुत्तलुम् विरै कमऴ् नऱुम् पुगै  
+काळङ्गळ् वलम्बुरि कलन्दु ऎङ्गुम् इसैत्तनर्  
+आळ्मिन्गळ् वानगम् आऴियान् तमर् ऎण्ड्रु  
+वाळ् ऒण् कण् मडन्दैयर् वाऴ्त्तिनर् मगिऴ्न्दे (६)  
+३८७६। The sages perform sacrifices  
 and the fragrant smoke spreads everywhere.  
 Some play music with kaaḷams and valampuri conches.  
 Women with eyes like glistening swords  
@@ -15113,53 +15114,53 @@ praise them joyfully and say,
 and you are his devotees.  
 You come to rule the world of the sky."  
 
-3877 மடந்தையர் வாழ்த்தலும் மருதரும் வசுக்களும்  
-தொடர்ந்து எங்கும் தோத்திரம் சொல்லினர் தொடுகடல்  
-கிடந்த எம் கேசவன் கிளர் ஒளி மணிமுடி  
-குடந்தை எம் கோவலன் குடி அடியார்க்கே (7)  
-3877. The Apsarasas sing praises  
+३८७७ मडन्दैयर् वाऴ्त्तलुम् मरुदरुम् वसुक्कळुम्  
+तॊडर्न्दु ऎङ्गुम् तोत्तिरम् सॊल्लिनर् तॊडुगडल्  
+किडन्द ऎम् केसवन् किळर् ऒळि मणिमुडि  
+कुडन्दै ऎम् कोवलन् कुडि अडियार्क्के (७)  
+३८७७। The Apsarasas sing praises  
 and the Maruts and Vasus recite praises everywhere  
 for the devotees of Kesavan, the lord of the cowherds,  
 who wears a shining crown studded with jewels  
 and sleeps on the ocean in Kuḍandai.  
 
-3878 குடி அடியார் இவர் கோவிந்தன் தனக்கு என்று  
-முடி உடை வானவர் முறை முறை எதிர்கொள்ள  
-கொடி அணி நெடு மதிள் கோபுரம் குறுகினர்  
-வடிவு உடை மாதவன் வைகுந்தம் புகவே (8)  
-3878. The gods in the sky wearing golden crowns  
+३८७८ कुडि अडियार् इवर् कोविन्दन् तनक्कु ऎण्ड्रु  
+मुडि उडै वानवर् मुऱै मुऱै ऎदिर्गॊळ्ळ  
+कॊडि अणि नॆडु मदिळ् कोबुरम् कुऱुगिनर्  
+वडिवु उडै मादवन् वैगुन्दम् पुगवे (८)  
+३८७८। The gods in the sky wearing golden crowns  
 welcome the devotees, praise them and say,  
 "These devotees come from the families of devotees.  
 For us, they are Govindan."  
 The devotees of the divine Madhavan enter Vaikuṇṭam  
 with towers and tall beautiful walls where flags fly.  
 
-3879 வைகுந்தம் புகுதலும் வாசலில் வானவர்  
-வைகுந்தன் தமர் எமர் எமது இடம் புகுத என்று  
-வைகுந்தத்து அமரரும் முனிவரும் வியந்தனர்  
-வைகுந்தம் புகுவது மண்ணவர் விதியே (9)  
-3879. When the devotees enter Vaikuṇṭam,  
+३८७९ वैगुन्दम् पुगुदलुम् वासलिल् वानवर्  
+वैगुन्दन् तमर् ऎमर् ऎमदु इडम् पुगुद ऎण्ड्रु  
+वैगुन्दत्तु अमररुम् मुनिवरुम् वियन्दनर्  
+वैगुन्दम् पुगुवदु मण्णवर् विधिये (९)  
+३८७९। When the devotees enter Vaikuṇṭam,  
 the gods in the sky come to the gate and say,  
 "The devotees of the god are our friends.  
 May you come to our home."  
 The gods and sages welcome them with wonder.  
 It is the good fortune of the devotees to enter Vaikuṇṭam.  
 
-3880 விதிவகை புகுந்தனர் என்று நல் வேதியர்  
-பதியினில் பாங்கினில் பாதங்கள் கழுவினர்  
-நிதியும் நல் சுண்ணமும் நிறை குட விளக்கமும்  
-மதி முக மடந்தையர் ஏந்தினர் வந்தே (10)  
-3880. Good Brahmins wash the feet of the devotees, thinking,  
+३८८० विधिवगै पुगुन्दनर् ऎण्ड्रु नल् वेदियर्  
+पदियिनिल् पाङ्गिनिल् पादङ्गळ् कऴुविनर्  
+निदियुम् नल् सुण्णमुम् निऱै कुड विळक्कमुम्  
+मदि मुग मडन्दैयर् एन्दिनर् वन्दे (१०)  
+३८८०। Good Brahmins wash the feet of the devotees, thinking,  
 "These devotees enter here because of their good fortune."  
 Women with beautiful moon-like faces  
 come carrying precious things, fragrant powders  
-and shining pots with water and welcome them .  
+and shining pots with water and welcome them ।  
 
-3881 வந்து அவர் எதிர் கொள்ள மா மணி மண்டபத்து  
-அந்தம் இல் பேரின்பத்து அடியரோடு இருந்தமை  
-கொந்து அலர் பொழில் குருகூர்ச் சடகோபன் சொல்  
-சந்தங்கள் ஆயிரத்து இவை வல்லார் முனிவரே (11)  
-3881. Saḍagopan of Thirukuruhur  
+३८८१ वन्दु अवर् ऎदिर् कॊळ्ळ मा मणि मण्डपत्तु  
+अन्दम् इल् पेरिन्बत्तु अडियरोडु इरुन्दमै  
+कॊन्दु अलर् पॊऴिल् गुरुगूर्च् चडगोबन् सॊल्  
+सन्दङ्गळ् आयिरत्तु इवै वल्लार् मुनिवरे (११)  
+३८८१। Saḍagopan of Thirukuruhur  
 surrounded with groves blooming with clusters of flowers  
 composed a thousand pasurams with music  
 describing how the devotees of the god  
@@ -15168,14 +15169,14 @@ and how the gods welcome them
 in their beautiful jewel-studded maṇḍapams.  
 ---------  
 
-திருவாய்மொழி பத்தாம் பத்து (பத்தாம் திருமொழி, 3882-3892)  
-ஆழ்வார் பரம பக்தியால் கனிந்து திருமாலைத் தாம் அடைந்தமையை அருளிச்செய்தல்  
+तिरुवाय्मॊऴि पत्ताम् पत्तु (पत्ताम् तिरुमॊऴि, ३८८२-३८९२)  
+आऴ्वार् परम पक्तियाल् कनिन्दु तिरुमालैत् ताम् अडैन्दमैयै अरुळिच्चॆय्दल्  
 
-3882 முனியே நான்முகனே முக்கண் அப்பா என் பொல்லாக்  
-கனிவாய்த் தாமரைக் கண் கரு மாணிக்கமே என் கள்வா  
-தனியேன் ஆர் உயிரே என் தலைமிசையாய் வந்திட்டு  
-இனி நான் போகல் ஒட்டேன் ஒன்றும் மாயம் செய்யேல் என்னையே (1)  
-3882. O god, you are the sages,  
+३८८२ मुनिये नान्मुगने मुक्कण् अप्पा ऎन् पॊल्लाक्  
+कनिवाय्त् तामरैक् कण् करु माणिक्कमे ऎन् कळ्वा  
+तनियेन् आर् उयिरे ऎन् तलैमिसैयाय् वन्दिट्टु  
+इनि नान् पोगल् ऒट्टेन् ऒण्ड्रुम् मायम् सॆय्येल् ऎन्नैये (१)  
+३८८२। O god, you are the sages,  
 Brahma with faces in all directions,  
 and Shiva our father with three eyes.  
 O god, you are a dark-colored shining jewel,  
@@ -15187,11 +15188,11 @@ Your divine feet are on my head.
 I will not let you go away.  
 Do not do your tricks on me.  
 
-3883 மாயம் செய்யேல் என்னை உன் திரு மார்வத்து மாலை நங்கை  
-வாசம் செய் பூங் குழலாள் திரு ஆணை நின் ஆணைகண்டாய்  
-நேசம் செய்து உன்னோடு என்னை உயிர் வேறு இன்றி ஒன்றாகவே  
-கூசம் செய்யாது கொண்டாய் என்னைக் கூவிக் கொள்ளாய் வந்து அந்தோ! (2)  
-3883. Don’t cheat me.  
+३८८३ मायम् सॆय्येल् ऎन्नै उन् तिरु मार्वत्तु मालै नङ्गै  
+वासम् सॆय् पूङ् गुऴलाळ् तिरु आणै निन् आणैगण्डाय्  
+नेसम् सॆय्दु उन्नोडु ऎन्नै उयिर् वेऱु इण्ड्रि ऒण्ड्रागवे  
+कूसम् सॆय्यादु कॊण्डाय् ऎन्नैक् कूविक् कॊळ्ळाय् वन्दु अन्दो! (२)  
+३८८३। Don’t cheat me.  
 I promise on Lakshmi on a fragrant beautiful lotus  
 on your divine chest.  
 See, this is your promise.  
@@ -15200,23 +15201,23 @@ You joined my life with you and we cannot be separated.
 Do not ignore me.  
 Call me and join me with your feet.  
 
-3884 கூவிக் கொள்ளாய் வந்து அந்தோ! என் பொல்லாக் கருமாணிக்கமே  
-ஆவிக்கு ஓர் பற்றுக்கொம்பு நின் அலால் அறிகின்றிலேன் யான்  
-மேவித் தொழும் பிரமன் சிவன் இந்திரன் ஆதிக்கு எல்லாம்  
-நாவிக் கமல முதல் கிழங்கே உம்பர் அந்த அதுவே (3)  
-3884. Call me and join me with you.  
+३८८४ कूविक् कॊळ्ळाय् वन्दु अन्दो! ऎन् पॊल्लाक् करुमाणिक्कमे  
+आविक्कु ओर् पट्रुक्कॊम्बु निन् अलाल् अऱिगिण्ड्रिलेन् यान्  
+मेवित् तॊऴुम् पिरमन् सिवन् इन्दिरन् आदिक्कु ऎल्लाम्  
+नाविक् कमल मुदल् किऴङ्गे उम्बर् अन्द अदुवे (३)  
+३८८४। Call me and join me with you.  
 You are a faultless dark jewel.  
 I do not know any support for my life except you.  
 You are the origin of Brahma, Shiva, Indra  
-and all the other gods .  
+and all the other gods ।  
 You are the root of all and they all worship you.  
 You are the god of the gods in the sky.  
 
-3885 உம்பர் அம் தண் பாழே ஓ அதனுள்மிசை நீயே ஓ  
-அம்பரம் நல் சோதி அதனுள் பிரமன் அரன் நீ  
-உம்பரும் யாதவரும் படைத்த முனிவன் அவன் நீ  
-எம்பரம் சாதிக்கலுற்று என்னைப் போர விட்டிட்டாயே (4)  
-3885. You are the beautiful, precious source  
+३८८५ उम्बर् अम् तण् पाऴे ओ अदनुळ्मिसै नीये ओ  
+अम्बरम् नल् सोदि अदनुळ् पिरमन् अरन् नी  
+उम्बरुम् यादवरुम् पडैत्त मुनिवन् अवन् नी  
+ऎम्बरम् सादिक्कलुट्रु ऎन्नैप् पोर विट्टिट्टाये (४)  
+३८८५। You are the beautiful, precious source  
 of the gods in the sky.  
 You are inside all souls.  
 You are the shining light in the sky.  
@@ -15226,11 +15227,11 @@ the cowherds and all others.
 I thought you would take care of me  
 but you left me alone and went away.  
 
-3886 போர விட்டிட்டு என்னை நீ புறம் போக்கலுற்றால் பின்னை யான்  
-ஆரைக் கொண்டு எத்தை? அந்தோ எனது என்பது என்? யான் என்பது என்?  
-தீர இரும்பு உண்ட நீர் அது போல என் ஆர் உயிரை  
-ஆரப் பருக எனக்கு ஆரா அமுது ஆனாயே (5)  
-3886. You left me and made me wander alone.  
+३८८६ पोर विट्टिट्टु ऎन्नै नी पुऱम् पोक्कलुट्राल् पिन्नै यान्  
+आरैक् कॊण्डु ऎत्तै? अन्दो ऎनदु ऎन्बदु ऎन्? यान् ऎन्बदु ऎन्?  
+तीर इरुम्बु उण्ड नीर् अदु पोल ऎन् आर् उयिरै  
+आरप् परुग ऎनक्कु आरा अमुदु आनाये (५)  
+३८८६। You left me and made me wander alone.  
 How could I depend on you, my lord?  
 There is nothing that belongs to me.  
 What is there that I could call "I"?  
@@ -15239,11 +15240,11 @@ What is the thing we call "I"?
 You have become sweet nectar for me to drink up my life  
 like water that is completely vaporized by hot iron.  
 
-3887 எனக்கு ஆரா அமுதாய் எனது ஆவியை இன் உயிரை  
-மனக்கு ஆராமை மன்னி உண்டிட்டாய் இனி உண்டொழியாய்  
-புனக் காயா நிறத்த புண்டரீகக் கண் செங்கனிவாய்  
-உனக்கு ஏற்கும் கோல மலர்ப்பாவைக்கு அன்பா என் அன்பேயோ (6)  
-3887. You are sweet nectar to me.  
+३८८७ ऎनक्कु आरा अमुदाय् ऎनदु आवियै इन् उयिरै  
+मनक्कु आरामै मन्नि उण्डिट्टाय् इनि उण्डॊऴियाय्  
+पुनक् काया निऱत्त पुण्डरीगक् कण् सॆङ्गनिवाय्  
+उनक्कु एऱ्‌कुम् कोल मलर्प्पावैक्कु अन्बा ऎन् अन्बेयो (६)  
+३८८७। You are sweet nectar to me.  
 You are my soul and you stay as my sweet life and fill my heart.  
 You must not go away from me.  
 You have the color of a kaayam flower.  
@@ -15252,11 +15253,11 @@ You are the beloved of Lakshmi whose form is beautiful
 and you love her.  
 You are my dear one.  
 
-3888 கோல மலர்ப்பாவைக்கு அன்பு ஆகிய என் அன்பேயோ  
-நீல வரை இரண்டு பிறை கவ்வி நிமிர்ந்தது ஒப்ப  
-கோல வராகம் ஒன்றாய் நிலம் கோட்டிடைக் கொண்ட எந்தாய்  
-நீலக் கடல் கடைந்தாய் உன்னை பெற்று இனிப் போக்குவனோ? (7)  
-3888. You are my dear one  
+३८८८ कोल मलर्प्पावैक्कु अन्बु आगिय ऎन् अन्बेयो  
+नील वरै इरण्डु पिऱै कव्वि निमिर्न्ददु ऒप्प  
+कोल वरागम् ऒण्ड्राय् निलम् कोट्टिडैक् कॊण्ड ऎन्दाय्  
+नीलक् कडल् कडैन्दाय् उन्नै पॆट्रु इनिप् पोक्कुवनो? (७)  
+३८८८। You are my dear one  
 and you are the beloved of Lakshmi whose form is beautiful.  
 As a lovely boar that was like a blue mountain  
 you carried the earth with two tusks  
@@ -15265,11 +15266,11 @@ You are my father.
 You churned the blue milky ocean.  
 I have received you—how could I leave you.  
 
-3889 பெற்று இனிப் போக்குவனோ உன்னை என் தனிப் பேருயிரை?  
-உற்ற இருவினை ஆய் உயிர் ஆய் பயன் ஆயவை ஆய்  
-முற்ற இம் மூவுலகும் பெரும் தூறு ஆய் தூற்றில் புக்கு  
-முற்றக் கரந்து ஒளித்தாய் என் முதல் தனி வித்தேயோ (8)  
-3889. You are my dear life.  
+३८८९ पॆट्रु इनिप् पोक्कुवनो उन्नै ऎन् तनिप् पेरुयिरै?  
+उट्र इरुविनै आय् उयिर् आय् पयन् आयवै आय्  
+मुट्र इम् मूवुलगुम् पॆरुम् तूऱु आय् तूट्रिल् पुक्कु  
+मुट्रक् करन्दु ऒळित्ताय् ऎन् मुदल् तनि वित्तेयो (८)  
+३८८९। You are my dear life.  
 I have you—how could I leave you?  
 You give both kinds of karma to the creatures of the world.  
 You are the life of the world.  
@@ -15277,22 +15278,22 @@ You create the lives in all the three worlds.
 You are inside the world and no one knows where you are.  
 You are the unique seed, the origin of everything.  
 
-3890 முதல் தனி வித்தேயோ முழு மூவுலகு ஆதிக்கு எல்லாம்  
-முதல் தனி உன்னை உன்னை எனை நாள் வந்து கூடுவன் நான்  
-முதல் தனி அங்கும் இங்கும் முழுமுற்றுறு வாழ் பாழாய்  
-முதல் தனி சூழ்ந்து அகன்று ஆழ்ந்து உயர்ந்த முடிவிலீ ஓ! (9)  
-3890. You are the first ancient seed of the world.  
+३८९० मुदल् तनि वित्तेयो मुऴु मूवुलगु आदिक्कु ऎल्लाम्  
+मुदल् तनि उन्नै उन्नै ऎनै नाळ् वन्दु कूडुवन् नान्  
+मुदल् तनि अङ्गुम् इङ्गुम् मुऴुमुट्रुऱु वाऴ् पाऴाय्  
+मुदल् तनि सूऴ्न्दु अगण्ड्रु आऴ्न्दु उयर्न्द मुडिविली ओ! (९)  
+३८९०। You are the first ancient seed of the world.  
 You are the first one of all the three worlds.  
 O matchless god, when will I come and join you?  
 Souls wander here and there and waste their lives,  
 but you are the unique one and spread everywhere  
 among the deep, wide, high places—you are endless.  
 
-3891 சூழ்ந்து அகன்று ஆழ்ந்து உயர்ந்த முடிவில் பெரும் பாழே ஓ  
-சூழ்ந்து அதனில் பெரிய பர நல் மலர்ச் சோதீ ஓ  
-சூழ்ந்து அதனில் பெரிய சுடர் ஞான இன்பமே ஓ  
-சூழ்ந்து அதனில் பெரிய என் அவா அறச் சூழ்ந்தாயே (10)  
-3891. You are omnipresent and endless.  
+३८९१ सूऴ्न्दु अगण्ड्रु आऴ्न्दु उयर्न्द मुडिविल् पॆरुम् पाऴे ओ  
+सूऴ्न्दु अदनिल् पॆरिय पर नल् मलर्च् चोदी ओ  
+सूऴ्न्दु अदनिल् पॆरिय सुडर् ज्ञान इन्बमे ओ  
+सूऴ्न्दु अदनिल् पॆरिय ऎन् अवा अऱच् चूऴ्न्दाये (१०)  
+३८९१। You are omnipresent and endless.  
 You are a divine beautiful flower  
 and a light, giving fragrance and brightness everywhere.  
 You are the pleasure of bright knowledge  
@@ -15300,11 +15301,11 @@ that spreads everywhere.
 You are everywhere—  
 you came to me and removed my desires and joined me.  
 
-3892 அவா அறச் சூழ் அரியை அயனை அரனை அலற்றி  
-அவா அற்று வீடு பெற்ற குருகூர்ச் சடகோபன் சொன்ன  
-அவா இல் அந்தாதிகளால் இவை ஆயிரமும் முடிந்த  
-அவா இல் அந்தாதி இப் பத்து அறிந்தார் பிறந்தார் உயர்ந்தே (11)  
-3892. Saḍagopan composed a thousand andaadi pasurams  
+३८९२ अवा अऱच् चूऴ् अरियै अयनै अरनै अलट्रि  
+अवा अट्रु वीडु पॆट्र गुरुगूर्च् चडगोबन् सॊन्न  
+अवा इल् अन्दादिगळाल् इवै आयिरमुम् मुडिन्द  
+अवा इल् अन्दादि इप् पत्तु अऱिन्दार् पिऱन्दार् उयर्न्दे (११)  
+३८९२। Saḍagopan composed a thousand andaadi pasurams  
 and received moksha because he had no desire.  
 He said, "You are omnipresent and have taken away my desires.  
 You are Brahma. You are Shiva and you are Hari."  
