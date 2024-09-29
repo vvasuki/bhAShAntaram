@@ -11,27 +11,8 @@ title = "रामचन्द्र-दीक्षितः"
 
 "tirukkuRaL" English translation
 by Ramachandra dikshitar  
-In tamil script, unicode/utf-8 format
-
-* * *
 
 
-
-* * *
-
-**Acknowledgements:**  
-Our Sincere thanks go to the Digital Library of India for providing a scanned image  
-version of this work for the etext preparation. This work has been prepared using the  
-Google Online OCR tool to generate the machine-readable text and subsequent proof-reading.  
-We thank Ms. Karthika Mukundh, Bangalore for her assistance in the proof-reading of this work.  
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-
-© Project Madurai, 1998-2019.  
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation  
-of electronic texts of tamil literary works and to distribute them free on the Internet.  
-Details of Project Madurai are available at the website  
-**[http://www.projectmadurai.org/](http://www.projectmadurai.org/)**  
-You are welcome to freely distribute this file, provided this header page is kept intact.
 
 * * *
 
@@ -56,7 +37,7 @@ Printed by C.Subbarayudu at the Vasanta Press,
 The Theosophical Society, Adyar, Madras  
 \-\-\-\-\-\-\-\-\-
 
-FOREWORD
+### FOREWORD
 
 It has been long my desire to get an English translation in simple language of the holy Tirukkural, the teachings of which, to Tamilians, are an eternal inspiration and guide. More than 25 years back, I had invoked the aid and assistance of a great Tamil Pandit with whose collaboration I felt I would be in a position to bring out such a translation but, owing to his untimely demise, I had to give up the project. The happy thought struck me a few years back that, if my esteemed friend, Professor V. R. Ramachandra Dikshitar, could under take this task, it would be the consummation of my hope and desire. Professor Ramachandra Dikshitar readily agreed to my request that he might undertake to translate the holy Tirukkural. I could not have entrusted the work to a more distinguished scholar of Tamil literature or a better writer of simple and elegant English. Mr. Dikshitar's contribution in research, particularly of Tamil literature, is well known and needs no emphasis.
 
