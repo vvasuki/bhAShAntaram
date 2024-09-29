@@ -2,7 +2,7 @@
 title = "सुन्दर-राजः"
 +++
 
-
+Source: [TW](https://ia601200.us.archive.org/4/items/shrI-vaiShNava-kAvyAni/tirukkural.pdf)
 
 TODO: परिष्कार्यम्
 
@@ -22,33 +22,19 @@ Dr. V.S. SUNDARARAJAN, M.A., B.Ed.,
 (M.A., In Sanskrit, Hindi, Tamil & English] Vyakarana Siromani, Rashtrabhasha Praveen & Pracharak, Sahityaratna, Tamil Vidvan. 
 & 
 Currently Srimath Paramahamsetyadi Jagadguru Sri Kaliyan Vanamamalai Ramanuja Jeeyar Swami, Sri Vanamamalai Mutt, Nanguneri - 627108. 
-ஆக்கியோன் 
-முனைவர் வா.ஸ்ரீ ஸுந்தரராஜன், எம்.ஏ., பி.எட் 
-ப்ரக்ருதம் ஸ்ரீ வானமாமலைப் பீடத்தை அலங்கரிக்கும் 30-ஆவது பட்டம் 
-ஸ்ரீ கலியன் வானமாமலை ராமாநுஜ ஜீயர் ஸ்வாமி 
-SECOND PUBLICATION இரண்டாம் பதிப்பு வெளியீடு: 
-24-1-2009 
-ஸர்வதாரி தைத்திங்கள்-11 
-Printed by 
-Shri Jayapriya Printers, Willivakkam, Chennai - 49. Ph:6174440, 9444078880 
-Printed at: 
-Sankar Pinters Pvt. Ltd. 45/1, Main Road, Velachery, Chennai - 600 042. 
-Mutt, Nanguneri - 627 108. 
-* Mul, Triplicane, Chennai - 600 005. 
-SRI JAGADACHARYA SIMHASANADHIPATHI PADMAVIBHUSHANA MAHAMAHIMOPADHYAYA 
-P. B. ANNANGARACHARYA Principal: VEDAVEDANTHA VAIJAYANTHI VIDYALAYA Editor: Sanskrit, Hindi, Telugu and Tamil Monthly Journals and Sadacharya Sookthimala KANCHEEPURAM-631503. -*- 
-अभिनन्दनपत्रम् ॥ 
+
+## 0
+### अभिनन्दनपत्रम् ॥ 
 श्रीमता लौकिकवैदिकविद्याविशारदेन सहृदयसुहृन्मणिना श्रीतोताद्रिनिवासरसिक विद्वद्वरेण्य - श्रीनिवासय्यङ्गार्यपुत्ररत्नेन यशस्विना महामेधाविना सुन्दरराजाचार्येण विरचितां तिरुक्कुरळ् विजर्तपद्यमालिकां सानन्दं सकुतूहलं चाक्षिपि । स्मृतिपथमारोहति स्म श्री पराशरभट्टार्याणामनर्घा श्रीसूक्ति:- 
 । सद्य : “ अनाघ्रातावद्यं बहुगुणपरीणाहि मनसो दुहानं सौहार्द - वाणीविलसितम्" इत्यादिः । सुदृढं विश्वसिमि सुमनोमनोरमया कृत्याऽनया पण्डितप्रकाण्डानि सुष्ठु समाराधितानि भविष्यन्तीति । विशिष्य तु संस्कृतद्राविडोभयभाषा प्रवीणा इति । 
 सुहृन्मणेरस्यैवंविधाः कृतयः क्रियासमभिहारेणावतीर्य अनघमन च जगदुपकारं जनयिष्यन्तीति । 
 इति श्रीकाञ्ची 
 प्रतिवादिभयङ्कर अण्णङ्गराचार्य : 
-: 
+
+### rAghavan 
 10-7-1978. 
-ІНТАЧІНОДИАТ 
-AYAYH CAPPRECIATION 
-AYЯART 
-AYAadmabhushan Dr. V. Raghavan, 
+
+padmabhushan Dr. V. Raghavan, 
 Formerly Professor & Head of the Dept. of Sanskrit, University of Madras.] 
 I have known the author of this work for some years and have had occasions to utilise his versatile gifts in the fields of Sanskrit and the fine arts. He comes of a well-known family of traditional Sanskrit scholars, 
 his father being a reputed teacher of Nyaya, Vedanta, and Dharma Sastra. The author himself studied Vyakarana under Mm. Krishnamurti Sastri, and in addition to that, he has equipped himself in modern studies and also in the Rashtrabhasha. 
@@ -61,6 +47,9 @@ had serialised its Sanskrit version by Sri Narasimha Sastri, brother of the pres
 I have gone through portions of this Sanskrit version. Tirukkural, as its name signifies, is written in a very short metre and the expression is pithy and packed. The Tamil saying regarding its great author is that he filled a sea within a mustard seed. Naturally to capture the ideas of these terse, Sutra.like verses, in a corresponding short metre in Sanskrit like Anushtubh, and do this with classical elegance is indeed a difficult task. The author must be congratu- lated on the measure of success he has achieved. Although a student of grammar, he has avoided display of his erudition in that branch by using recondite expressions and has followed the path of simplicity, clarity and natural grace, Prasada and Saukumarya. 
 I am sure the immortal Tamil Classic in the present version will reach the wide Sanskrit-knowing world in the different parts of India. 
 V. Raghavan. 
+
+### ??
+
 ஸ்ரீ: 
 முகவுரை 
 உலகப் பொதுமறையென ஆன்றோரால் போற் றப்படும் இம்முப்பாற்பெருநூலை வடமொழியிற் எண்ணம் மனத்திலு 
@@ -80,7 +69,7 @@ V. Raghavan.
 இன்னணம், இந்நூலாக்கியோன், 
 வா. ஸ்ரீ. ஸுந்தரராஜன். 
 ॥ श्रीः ॥ 
-प्रस्तावना 
+### प्रस्तावना 
 अन्तर्वाण्यग्रेसराणां विवेकिनां सहदयानां 
 सन्निधों सप्रश्रयप्रणामस्तोमपुरस्सरभिदं विज्ञापनम् । द्राविडी साहित्य- भण्डारेऽमूल्यरत्नायमानस्य विश्वविख्यातग्रन्यतजस्य 'तिरुक्कुरळ्' महाग्रन्थस्य वाण्यां चैर्वायां विवर्तमाकलयितुं प्राप्ता मया प्रेरणा स्वाचार्य महोदयेभ्यो महामहोपाध्यायेभ्यः श्रीकृष्णमूर्तिशास्त्र - वर्येभ्यः । कीर्तिमूर्तिभ्य आचार्यवर्येभ्यः कदाचिद्रात्रौ खमा- वस्थायां प्राप्तमादेशमवतंसयन्नहं सुप्तोत्थितस्सद्य एव तदेव लग्नं सुदिनं तदेवेत्यादि लोकमनुसन्धाय विवर्तप्रयत्नं समारभे । तद्दिनमासीत् १९७५ तमे क्रैस्तवान्देऽस्यैवाक्टोवर्मासस्य द्वाविं शमहः । भगवद्भागवतकृपयानुस्यूतं प्रचलितमिदं प्रयतनं पूर्ण - साफल्यमन्वभवत् १९७६ तमवर्षस्य ' में मासि । समुचितमुद्रण- कार्यसम्पादनाय चिन्ताग्रस्तेन मया दिष्ट्या श्रीरङ्गभर्तुरघटित घटना पटोः परस्य पुंसः परया कृपया श्रीवैष्णवसुदर्शनपत्राधिपैर्भाग- वतोत्तमैरनुत्तम श्रीवैष्णवलक्ष्मीसम्पन्नैः श्रीकृष्णस्वाम्यय्यङ्गायैः सङ्गमसौभाग्यं लब्धम्। सुप्रीतमानसाथ ते प्रतिज्ञातवन्तो मां सम्पूर्ण मनोरथ मा कलयितुम् | सुबहमुद्रणकार्यव्यापृतिमध्य- 
 । विगणय्य श्रीमद्भिः पुर् अग्रहारखामिभिर्मासचतुष्टयात्पूर्व समा 
@@ -93,7 +82,8 @@ V. Raghavan.
 ११-१०-१९७८ श्रीविजयदशमी शुभदिनम 
 इत्थं भवत्प्रेमपाले विधेयः, 
 वा. श्री. सुन्दरराजः 
-மதிப்புரை 
+
+### மதிப்புரை 
 [ஸ்ரீ. கிருஷ்ணஸ்வாமி அய்யங்கார்.M.A.BL.அட்வகேட் ஸ்ரீவைஷ்ணவ ஸுதர்சனம் ஆசிரியர், திருச்சி-620017.1 
 ந்யாயவேதாந்தாதி, ராஸ்த்ர வித்வத் வரிஷ்டராய், 
 ஜ்ஞாநரீலவயோவ்ருத்தரான 
@@ -115,7 +105,7 @@ Cal.
 1-11-78. 
 ஸ்ரீ. கிருஷ்ணஸ்வாமி அய்யங்கார், 'ஸ்ரீவைஷ்ணவ ஸுதர்சனம்` ஆசிரியர். 9. புத்தூர் அக்ரவூஈரம், திருச்சி-17. 
 श्रीः 
-अभिनन्दनम् 
+### अभिनन्दनम् 
 [न्यायवेदान्तविद्वद्वर्याः कोषियालं रङ्गनाथाचार्यस्वामिनः, त्रिशिरःपुरी ] 
 १. तिरुक्कुरल इति ख्यातद्राविडग्रन्थ उत्तमः । संस्कृतानुष्टुभ श्लोकरूपेण परिवर्तितः ॥ 
 २. न्याय वेदान्तादिशास्त्रनिष्णातस्यात्मनो गुणैः । 
@@ -133,6 +123,7 @@ Cal.
 तिरुक्कुरळ संस्कृत श्लोकरूपानुवादः ॥ 
 திருக்குறள் - ஸம்ஸ்க்ருத ச்லோக மொழிபெயர்ப்பு) 
 || स्वस्ति श्रीर्दिशतात् ॥ प्रसीदतु वाग्देवता मयि ॥ 
+
 १. 
 ॥ धर्मकाण्डम् ॥ 
 उपोद्घातभागः ॥ 
