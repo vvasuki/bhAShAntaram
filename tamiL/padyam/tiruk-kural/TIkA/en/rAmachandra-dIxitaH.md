@@ -236,43 +236,23 @@ PORUȚPĀL
 
 On Majesty
 
-40\. Kalvi
-
 On Learning
-
-41\. Kallāmai
 
 On Non-Learning
 
-42\. Kēļvi
-
 On Hearing
-
-43\. Aŗivuḑaimai
 
 On Knowledge
 
-44\. Kuŗŗam Kaţital
-
 On Restraining Faults
-
-45\. Periyārait Tuņaikkõṭal
 
 On Association with Elders
 
-46\. Śiŗŗinañ cērāmai
-
 On Avoiding Low Company
-
-47\. Terindu Śeyal Vakai
 
 On Action after Due Deliberation
 
-48\. Valiyaŗital
-
 On Knowing the Enemy's Strength
-
-49\. Kālam Aŗital
 
 On Knowing the Time
 
@@ -734,47 +714,7 @@ On the Pleasures of Lovers' Misunderstanding
 
 ##### CHAPTER 44— ON RESTRAINING FAULTS
 
-431\. Exalted is the wealth that is free from pride, wrath and lust.  
-
-432\. Niggardliness, empty honour, blind favouritism, are all the faults of a King.  
-
-433\. Even the slightest fault looms large in the eyes of those who dread dishonour.  
-
-434\. Guard against your error as you would your wealth. For error spells your ruin.  
-
-435\. Like a piece of straw in a consuming flame, will be destroyed the life of one who does not guard against faults.  
-
-436\. What fault will befall a King who is free from guilt and detects guilt in others?  
-
-437\. The hoarded wealth of the miser who fails in his offices perishes.  
-
-438\. A clutching greedy heart that knows no charity commits the greatest folly.  
-
-439\. Let not conceit enter your heart at any time of your life; do not run after trifles.  
-
-440\. Of what avail are the designs of the foe, if one does not betray one’s secrets?  
-
 ##### CHAPTER 45— ON ASSOCIATION WITH ELDERS
-
-441\. The friendship of virtuous men of mature wisdom is to be appreciated and secured.  
-
-442\. Seek the friendship of those who can remove existing distress and guard against future.  
-
-443\. To seek and win the alliance of the great is the rarest of all blessings.  
-
-444\. To follow in the footsteps of those that are greater than oneself is the crown of one’s strength.  
-
-445\. Verily the ministers are the eyes of the monarch; let the monarch have tried ones.  
-
-446\. No adversary can ruin the King who relies on his efficient counselors.  
-
-447\. None can harm the ruler who seeks the wholesome counsel of his ministers though bitter.  
-
-448\. The King who is not guarded by men of firm counsel will perish even though he has no enemies.  
-
-449\. Is there profit without capital? Is there security for the monarch devoid of wise counselors?  
-
-450\. Greatly injurious is the forsaking of the friendship of the good; it is like encountering singlehanded many foes.  
 
 ##### 46\. ciṟṟiṉam cērāmai - CHAPTER 46— ON AVOIDING LOW COMPANY
 

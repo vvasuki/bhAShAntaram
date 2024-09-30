@@ -1402,6 +1402,11 @@ The rest is rue and renown gone.         39
 
 <details><summary>रामचन्द्र-दीक्षितः - ४०</summary>
 
+40\. Kalvi
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०</summary>
+
 40\. ceyaṟpālatu ōrum aṟaṉē; oruvaṟku  
 uyaṟpālatu ōrum paḻi.
 
@@ -1449,6 +1454,11 @@ Vice is what we ought to shun.         40
 
 <details><summary>रामचन्द्र-दीक्षितः - ४१</summary>
 
+41\. Kallāmai
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४१</summary>
+
 41\. ilvāḻvāṉ eṉpāṉ iyalpu uṭaiya mūvarkkum  
 nallāṟṟiṉ niṉṟa tuṇai.
 
@@ -1481,6 +1491,11 @@ Who aids the natural orders there.         41
 
 यतीन् मृतान् दरिद्रांश्च निर्गतीन् अतिथीनपि ।  
 गृहस्थोऽन्नादिदानेन स्वाश्रितानपि रक्षति ॥ ४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४२</summary>
+
+42\. Kēļvi
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४२</summary>
@@ -1519,6 +1534,11 @@ And celebrate students are his care.         42
 
 <details><summary>रामचन्द्र-दीक्षितः - ४३</summary>
 
+43\. Aŗivuḑaimai
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३</summary>
+
 43\. teṉpulattār, teyvam, viruntu, okkal, tāṉ, eṉṟu āṅku  
 aimpulattu āṟu ōmpal talai.
 
@@ -1549,6 +1569,11 @@ God, manes, kin, self and guests are served.         43
 
 अपवादभयाद्वित्तं सम्पाद्य सकलैः सह ।  
 भुञ्जानस्य गृहस्थास्य निर्दुष्टं जीवनं भवेत् ॥ ४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४४</summary>
+
+44\. Kuŗŗam Kaţital
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४४</summary>
@@ -1587,6 +1612,11 @@ His home is bright and brighter fares.         44
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५</summary>
 
+45\. Periyārait Tuņaikkõṭal
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५</summary>
+
 45\. aṉpum aṟaṉum uṭaittuāyiṉ, ilvāḻkkai  
 paṇpum payaṉum atu.
 
@@ -1617,6 +1647,11 @@ Where love with virtue sweetly dwells.         45
 
 गार्हस्थ्यजीवनं येन धम्यें मागें प्रवर्त्येते ।  
 किं वा प्रयोजनं तस्य वानप्रस्थादिना पथा ॥ ४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४६</summary>
+
+46\. Śiŗŗinañ cērāmai
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६</summary>
@@ -1655,6 +1690,11 @@ To be a monk, what profits he?         46
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७</summary>
 
+47\. Terindu Śeyal Vakai
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७</summary>
+
 47\. iyalpiṉāṉ ilvāḻkkai vāḻpavaṉ eṉpāṉ  
 muyalvāruḷ ellām talai.
 
@@ -1689,6 +1729,11 @@ Is he who leads the married state.         47
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८</summary>
 
+48\. Valiyaŗital
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८</summary>
+
 48\. āṟṟiṉ oḻukki, aṟaṉ iḻukkā ilvāḻkkai  
 nōṟpāriṉ nōṉmai uṭaittu.
 
@@ -1719,6 +1764,11 @@ Make men brighter than monks praying.         48
 
 स एव धर्मशब्दार्थो यद्धि गार्हस्थ्यजीवनम् ।  
 गृहस्थधर्म एवात्र धर्मशब्देन कथ्यते ॥ ४९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९</summary>
+
+49\. Kālam Aŗital
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९</summary>
@@ -15102,6 +15152,11 @@ Whatev'r they own, misfits are nil.        430
 दोषैः षड्भ्ः विहीनस्य सम्पत् श्लाघ्या स्थिरा भवेत् ॥ ४३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४३१</summary>
+
+431\. Exalted is the wealth that is free from pride, wrath and lust.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४३१</summary>
 
 1\. செருக்குஞ் சினமும் சிறுமையும் இல்லார்  
@@ -15126,6 +15181,11 @@ Who're free from wrath pride lust petty.        431
 
 दातव्येष्वप्रदानं च पूजनीयेष्वपूजनम् ।  
 अस्थने हर्ष इत्येते राज्ञो दोषाः प्रकीर्तिताः ॥ ४३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३२</summary>
+
+432\. Niggardliness, empty honour, blind favouritism, are all the faults of a King.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४३२</summary>
@@ -15154,6 +15214,11 @@ These add blemishes to a prince.        432
 महान्तो जागरूकाः स्युः जननिन्दाभयाकुला ॥ ४३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४३३</summary>
+
+433\. Even the slightest fault looms large in the eyes of those who dread dishonour.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४३३</summary>
 
 3\. தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்  
@@ -15178,6 +15243,11 @@ Men fearing disgrace, Palm-tall deem.        433
 
 दोषो एव जननां स्युः शत्रवो नाशकारकाः ।  
 दोषातीतैर्जनैर्भाव्यं दोषाभावो गुणाः खलु ॥ ४३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३४</summary>
+
+434\. Guard against your error as you would your wealth. For error spells your ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४३४</summary>
@@ -15206,6 +15276,11 @@ Our fatal foe is that default.        434
 विनश्येत् जीवितं तस्य तृणं वह्निगतं यथा ॥ ४३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४३५</summary>
+
+435\. Like a piece of straw in a consuming flame, will be destroyed the life of one who does not guard against faults.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४३५</summary>
 
 5\. வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்  
@@ -15230,6 +15305,11 @@ Loses his life like flame-lit straw.        435
 
 ज्ञात्वा स्वदोषान् तान् हित्वा परदोषनिवारणे ।  
 यतमानो महीपालः कथं स्याद् दोषभाजनम् ॥ ४३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३६</summary>
+
+436\. What fault will befall a King who is free from guilt and detects guilt in others?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४३६</summary>
@@ -15258,6 +15338,11 @@ First his faults, then scans others.        436
 रक्षतो लोभिनो नश्येत् पुरुषार्थत्रयं वृथा ॥ ४३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४३७</summary>
+
+437\. The hoarded wealth of the miser who fails in his offices perishes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४३७</summary>
 
 7\. செயற்பால செய்யா திவறியான் செல்வம்  
@@ -15282,6 +15367,11 @@ Who would not for a good cause spend.        437
 
 दातव्येष्वप्रदानाख्यो यो दोषो लोभनामकः ।  
 नायं साधारणे दोषः षड्दोषेष्वग्रणीः किल ॥ ४३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३८</summary>
+
+438\. A clutching greedy heart that knows no charity commits the greatest folly.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४३८</summary>
@@ -15310,6 +15400,11 @@ Is more than fault the worst apart.        438
 निष्फलानि च कार्याणि मनसाऽपि न संस्मरेत् ॥ ४३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४३९</summary>
+
+439\. Let not conceit enter your heart at any time of your life; do not run after trifles.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४३९</summary>
 
 9\. வியவற்க எஞ்ஞான்றும் தன்னை நயவற்க  
@@ -15334,6 +15429,11 @@ Nor do a deed that does no good.        439
 
 यदवाप्तुं वृणीषे त्वं एकान्ते भज भुङ्क्ष्व तत् ।  
 नो चेत् त्वदीयलक्ष्यस्य विघ्नं कुर्युर्विरोधिनः ॥ ४४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४४०</summary>
+
+440\. Of what avail are the designs of the foe, if one does not betray one’s secrets?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४४०</summary>
@@ -15364,6 +15464,11 @@ If one his wishes guards in veil.        440
 कुर्यान्मैत्रीं महीपालो विमृश्य बहुधा बहु ॥ ४४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४४१</summary>
+
+441\. The friendship of virtuous men of mature wisdom is to be appreciated and secured.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४४१</summary>
 
 1\. அறனறிந்து மூத்த அறிவுடையார் கேண்மை  
@@ -15388,6 +15493,11 @@ Of men of virtue and mature brain.        441
 
 प्राप्तं दुःखं निराकृत्य भाविदुःखनिवारणे ।  
 जगरूकेण विदुषा स्नेहं कुर्याच्च सेवया ॥ ४४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४४२</summary>
+
+442\. Seek the friendship of those who can remove existing distress and guard against future.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४४२</summary>
@@ -15416,6 +15526,11 @@ Who ward and safe-guard you from ill.        442
 महच्भाग्यं तदेवास्य किमन्यैर्भाग्यकोटिभिः ॥ ४४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४४३</summary>
+
+443\. To seek and win the alliance of the great is the rarest of all blessings.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४४३</summary>
 
 3\. அரியவற்று ளெல்லாம் அரிதே பெரியாரைப்  
@@ -15440,6 +15555,11 @@ Is rarest of the rare things known.        443
 
 आत्मनोऽपि वरिष्ठानां महतां पथि वर्तनम् ।  
 महद् बलं भवेद् राज्ञां चतुरङ्गबलैः किमु ॥ ४४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४४४</summary>
+
+444\. To follow in the footsteps of those that are greater than oneself is the crown of one’s strength.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४४४</summary>
@@ -15468,6 +15588,11 @@ Power of all powers promotes.        444
 यतोऽमात्यो राज्यभारं वहन् राज्ञः सहायकृत् ॥ ४४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४४५</summary>
+
+445\. Verily the ministers are the eyes of the monarch; let the monarch have tried ones.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४४५</summary>
 
 5\. சூழ்வார்கண் ணாக ஒழுகலான் மன்னவன்  
@@ -15492,6 +15617,11 @@ Round him should be the right and wise.        445
 
 ज्ञानिनां वचनं श्रुत्वा स्वबुद्धया तदिमृश्य च ।  
 पालयन् पृथिवीपालः शत्रुभिर्नैव बाध्यते ॥ ४४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४४६</summary>
+
+446\. No adversary can ruin the King who relies on his efficient counselors.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४४६</summary>
@@ -15520,6 +15650,11 @@ Has none to fear from frightful foes.        446
 यो राजा लभते तस्मिन् निर्वीर्याः किल शत्रवः ॥ ४४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४४७</summary>
+
+447\. None can harm the ruler who seeks the wholesome counsel of his ministers though bitter.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४४७</summary>
 
 7\. இடிக்குந் துணையாரை ஆள்வாரை யாரே  
@@ -15544,6 +15679,11 @@ whose friends reprove him when he errs.        447
 
 समये शिक्षकैः सद्भिः साङ्गत्यरहितो नृपः ।  
 शत्रुबाधाविहीनोऽपि स्वयमेव विनश्यति ॥ ४४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४४८</summary>
+
+448\. The King who is not guarded by men of firm counsel will perish even though he has no enemies.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४४८</summary>
@@ -15572,6 +15712,11 @@ Ruins himself sans harmful foes.        448
 मह्त्साह्यं विना राज्ञां तथा स्थैर्य सुदुर्लभम् ॥ ४४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४४९</summary>
+
+449\. Is there profit without capital? Is there security for the monarch devoid of wise counselors?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४४९</summary>
 
 9\. முதலிலார்க்கு ஊதியம் இல்லை மதலையாஞ்  
@@ -15596,6 +15741,11 @@ No prop secure sans good comrade.        449
 
 अनेकशत्रुबाधातो दुःखं दशगुणान्वितम् ।  
 भुपो विन्देत सत्सङ्गं प्राप्तं यः सन्त्यजेन्नृपः ॥ ४५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५०</summary>
+
+450\. Greatly injurious is the forsaking of the friendship of the good; it is like encountering singlehanded many foes.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४५०</summary>
