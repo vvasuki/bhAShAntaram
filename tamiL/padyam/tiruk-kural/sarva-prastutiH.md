@@ -34,6 +34,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ईश्वराद् एव **जायते** ॥ १॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १</summary>
+
+1\. akaram mutala, eḻuttu ellām; āti-  
+pakavaṉ mutaṟṟē, ulaku.
+
+1\. All the letters have the letter ‘A’ as their Origin; this world has God as its origin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १</summary>
 
 1\. அகர முதல எழுத்தெல்லாம் ஆதி  
@@ -60,6 +68,14 @@ Leads and lords the entire world.         1
 विना पाद-**निषेवणम्** ।  
 **सन्त्व् अधीतानि** शास्त्रणि  
 **न** तैर् अस्ति **प्रयोजनम्** ॥ २॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २</summary>
+
+2\. kaṟṟataṉāl āya payaṉ eṉkol-vāl-aṟivaṉ  
+nal tāḷ toḻāar eṉiṉ?.
+
+2\. Of what avail is learning, if the learned do not adore the good feet of Him who is Immaculate Wisdom?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २</summary>
@@ -90,6 +106,14 @@ At His good feet who knoweth all.         2
 **जायन्ते** नित्य-सम्पदः ॥ ३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३</summary>
+
+3\. malarmicai ēkiṉāṉ māṇ aṭi cērntār  
+nilamicai nīṭu vāḻvār.
+
+3\. Those who find refuge in the great feet (of Him) who lives in the lotus of the heart (of the devotee) live eternally in heaven.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३</summary>
 
 3\. மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்  
@@ -118,6 +142,14 @@ The feet of God in florid brain.         3
 **न** स्याद् **दुःखं** कदाचन ॥ ४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४</summary>
+
+4\. vēṇṭutal vēṇṭāmai ilāṉ aṭi cērntārkku  
+yāṇṭum iṭumpai ila.
+
+4\. Those who have attained the feet of Him who has no likes or dislikes will be rid of all troubles.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४</summary>
 
 4\. வேண்டுதல் வேண்டாமை இலர்ன்அடி சேர்ந்தார்க்கு  
@@ -142,6 +174,14 @@ Are free from woes of human births.         4
 
 माहात्म्यमप्रमेयस्य ज्ञात्वा तं भजतां नृणाम् ।  
 अज्ञानमूलकं कर्म द्विविधं चापि नश्यति ॥ ५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५</summary>
+
+5\. iruḷ cēr iru viṉaiyum cērā, iṟaivaṉ  
+poruḷ cēr pukaḻ purintārmāṭṭu.
+
+5\. Actions, both good and bad that spring from darkness of the mind will never touch those who ever chant the glories of the Lord.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५</summary>
@@ -170,6 +210,14 @@ And wrong, the twins of dreaming night.         5
 ईश्वरोक्तेन मागेण्ण गच्छन् नित्यसुखी भवेत् ॥ ६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६</summary>
+
+6\. poṟi vāyil aintu avittāṉ poy tīr oḻukka  
+neṟi niṉṟār nīṭu vāḻvār.
+
+6\. Those who still the five senses and walk in truth and right will ever live.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६</summary>
 
 6\. பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க  
@@ -194,6 +242,14 @@ Who has the senses signed away.         6
 
 ईशं निरुपमं नित्यं यो वै शरणमाश्रितः ।  
 स एवदुःखरहितो नित्यं सुखमिहाश्नुते ॥ ७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७</summary>
+
+7\. taṉakku uvamai illātāṉ tāḷ cērntārkku allāl,  
+maṉak kavalai māṟṟal aritu.
+
+7\. Only those who have sought refuge in the feet of the peerless can shake off anxiety. Others cannot.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७</summary>
@@ -222,6 +278,14 @@ Alone can ease the anxious mind.         7
 अलब्ध्वा दुःखजलधेः पारं गन्तुं न शक्यते ॥ ८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८</summary>
+
+8\. aṟa āḻi antaṇaṉ tāḷ cērntārkku allāl,  
+piṟa āḻi nīntal aritu.
+
+8\. Only those who have clung to the feet of the Lord who is the sea of righteousness, will be able to sail the other seas. Others cannot.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८</summary>
 
 8\. அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்  
@@ -248,6 +312,14 @@ Who clasps the feet of Virtue's sea.         8
 दृष्टया विरहितं चक्षुरिव तस्य शिरो वृथा ॥ ९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९</summary>
+
+9\. kōḷ il poṟiyil kuṇam ilavē-eṇkuṇattāṉ  
+tāḷai vaṇaṅkāt talai.
+
+9\. The head that does not bow down before and worship the feet of the Lord of the eight attributes, will be as like the palsied senses.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९</summary>
 
 9\. கோளில் பொறியில் குணமிலவே எண்குணத்தான்  
@@ -272,6 +344,23 @@ Which bows not to Eight-Virtued Divine.         9
 
 नावं भगवतः पादरूपिणीं प्राप्नुवन्ति ये ।  
 ते तरन्ति भवाम्भोधिमितरैस्तर्तुमक्षमम् ॥ १०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०</summary>
+
+10\. piṟavip peruṅ kaṭal nīntuvar; nīntār,  
+iṟaivaṉ aṭi cērātār.
+
+10\. Those who gain the feet of the Lord cross the great ocean of births; others cannot.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०</summary>
+
+10\. piṟavip peruṅ kaṭal nīntuvar; nīntār,  
+iṟaivaṉ aṭi cērātār.
+
+10\. Those who gain the feet of the Lord cross the great ocean of births; others cannot.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०</summary>
@@ -302,6 +391,14 @@ Who clench His feet and cleave to Him.        10
 लोकस्थितिकरं वर्षे ततोऽमृतमिदं विदुः ॥ ११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११</summary>
+
+11\. vāṉ niṉṟu ulakam vaḻaṅki varutalāṉ,  
+tāṉ amiḻtam eṉṟu uṇaral pāṟṟu.
+
+11\. The world for its existence depends on unfailing rainfall; the rain may well be regarded as the nectar of life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११</summary>
 
 1\. வான்நின்று உலகம் வழங்கி வருதலால்  
@@ -326,6 +423,14 @@ The world but lasts while rain shall fall.         11
 
 आहारापेक्षलोकस्य भोज्यं धान्यादिकं बहु ।  
 उत्पाथ पेयतामेति स्वयं वर्षे जलात्मना ॥ १२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२</summary>
+
+12\. tuppārkkut tuppu āya tuppu ākki, tuppārkkut  
+tuppu āyatūum maḻai.
+
+12\. The rain is the source of all articles of food that man needs. It becomes his drink too.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२</summary>
@@ -354,6 +459,14 @@ And forms a food and drink concrete.         12
 प्राणिनो बाधते मेघे यथाकालमवर्षति ॥ १३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३</summary>
+
+13\. viṇ iṉṟu poyppiṉ, virinīr viyaṉ ulakattu-  
+uḷ niṉṟu uṭaṟṟum paci.
+
+13\. Hunger would stalk abroad and torment this wide sea-girt world were the rims to fail in time.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३</summary>
 
 3\. விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து  
@@ -378,6 +491,14 @@ Distresses all the sea-girt earth.         13
 
 नष्टायां वर्षसम्पत्तौ धान्योत्पादनतत्पराः ।  
 लाङ्गलेन भुवं नैव कर्षयेयुः कृषीवलाः ॥ १४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४</summary>
+
+14\. ēriṉ uḻāar uḻavar, puyal eṉṉum  
+vāri vaḷam kuṉṟikkāl.
+
+14\. The cultivators would cease to plough were the clouds’ free supply of water to fail.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १४</summary>
@@ -406,6 +527,14 @@ The ploughman's sacred toil must end.         14
 अथ स्वयमनावृष्टि बाधितामपि रक्षति ॥ १५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १५</summary>
+
+15\. keṭuppatūum, keṭṭārkkuc cārvāy maṟṟu āṅkē  
+eṭuppatūum, ellām maḻai.
+
+15\. It is the rain that afflicts man and it is its fall that relieves him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १५</summary>
 
 5\. கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே  
@@ -430,6 +559,14 @@ But only rain can life restore.         15
 
 जलानां बिन्दवो मेघात् न पतेयुर्यदि क्षितौ ।  
 लोके द्रष्टुं न शक्यन्ते हरितास्तृणसम्पदः ॥ १६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६</summary>
+
+16\. vicumpiṉ tuḷi vīḻiṉ allāl, maṟṟu āṅkē  
+pacum pul talai kāṇpu aritu.
+
+16\. If the clouds were to withhold rain not even a blade of grass would rustle on earth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १६</summary>
@@ -458,6 +595,14 @@ If from the cloud no drop appear.         16
 अगाघोऽप्युदधिस्तेन समृद्धिरहितो भवेत् ॥ १७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १७</summary>
+
+17\. neṭuṅ kaṭalum taṉ nīrmai kuṉṟum, taṭintu eḻili-  
+tāṉ nalkātu ākiviṭiṉ.
+
+17\. Even the illimitable deep shrinks if the clouds do not pour and replenish it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १७</summary>
 
 7\. நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி  
@@ -482,6 +627,14 @@ Except the cloud its stores repay.         17
 
 देवताराधनं नित्यं विशेषादुत्सवादिकम् ।  
 लोके नैव प्रवर्तेत मेघो यदि न वर्षति ॥ १८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८</summary>
+
+18\. ciṟappoṭu pūcaṉai cellātu-vāṉam  
+vaṟakkumēl, vāṉōrkkum, īṇṭu.
+
+18\. If the rains were to fail there would be no more o£ferings and festivals to the gods.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १८</summary>
@@ -510,6 +663,14 @@ Would offerings for the gods deny.         18
 अभयं न भवेल्लोके यदि देवो न वर्षति ॥ १९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १९</summary>
+
+19\. tāṉam tavam iraṇṭum taṅkā, viyaṉ ulakam  
+vāṉam vaḻaṅkātu eṉiṉ.
+
+19\. If the rains were to fail, there would neither be alms nor penance on this wide earth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १९</summary>
 
 9\. தானம் தவம்இரண்டும் தங்கா வியன்உலகம்  
@@ -534,6 +695,23 @@ Nor alms nor penance earth would show.         19
 
 जलाभावे लोकयात्रा सर्वेषामेव देहिनाम् ।  
 न स्यात्; वर्ष विना नैतत्; सदाचारादिकं तथा ॥ २०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०</summary>
+
+20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
+vāṉ iṉṟu amaiyātu oḻukku.
+
+20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०</summary>
+
+20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
+vāṉ iṉṟu amaiyātu oḻukku.
+
+20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २०</summary>
@@ -564,6 +742,14 @@ Sans rain our duties go in vain.         20
 आमनन्ति समे ग्रन्थाः मान्या माहात्म्यमुत्तमम् ॥ २१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २१</summary>
+
+21\. oḻukkattu nīttār perumai viḻuppattu  
+vēṇṭum- paṉuval tuṇivu.
+
+21\. The one supreme thing all scriptures affirm is the great renunciation of those who walk in right conduct.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २१</summary>
 
 1\. ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து  
@@ -588,6 +774,14 @@ As theirs who sense and self deny.         21
 
 निराशस्य मुनेः श्रैष्ठयगणनं ''जीवयकोटयः ।  
 कति जाता मृताश्चे''ति गणनेन समं भवेत् ॥ २२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२</summary>
+
+22\. tuṟantār perumai tuṇaik kūṟiṉ, vaiyattu  
+iṟantārai eṇṇikkoṇṭaṟṟu.
+
+22\. To measure the greatness of one who has renounced is like reckoning the number of the dead in this world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २२</summary>
@@ -616,6 +810,14 @@ Is to count the dead upon the sphere.         22
 संन्यासं भजतां मुक्त्यै प्रभावो बहुमन्यते ॥ २३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २३</summary>
+
+23\. irumai vakai terintu īṇṭu aṟam pūṇṭār  
+perumai piṟaṅkiṟṟu, ulaku.
+
+23\. The greatest thing on earth is the renunciation of those who understand birth and liberation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २३</summary>
 
 3\. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
@@ -640,6 +842,15 @@ Who know the right and virtue wear.         23
 
 धैर्याङ्कुशेन् संयम्य गजान् पञ्चेन्द्रियात्मकान् ।  
 यः पालयत्ययं मोक्षफलकृद्वीजवद्भवेत् ॥ २४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४</summary>
+
+24\. uraṉ eṉṉum tōṭṭiyāṉ, ōr aintum kāppāṉ  
+varaṉ eṉṉum vaippiṟku ōr vittu.
+
+24\. He who with firmness bridles the five senses is (himself) the seed of the eternal bliss.  
+Verily he is the seed of the immortals who with firmness bridles the five senses.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २४</summary>
@@ -668,6 +879,14 @@ The senses five, is heaven to gain.         24
 गौतमादात्तशापोऽत्र देवराजो निदर्शनम् ॥ २५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २५</summary>
+
+25\. aintu avittāṉ āṟṟal, akal vicumpuḷār kōmāṉ  
+intiraṉē cālum, kari.
+
+25\. Indra, the Lord of the skies is himself a witness, to the might of those who have conquered their five senses.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २५</summary>
 
 5\. ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்  
@@ -692,6 +911,14 @@ How great the power ascetics' sway.         25
 
 सर्वेन्द्रियजयाख्यानं कर्मान्यैर्दुष्करं जनैः ।  
 ये कुर्वन्त्युत्तमास्ते स्युः अन्येत्वधम मध्यमाः ॥ २६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६</summary>
+
+26\. ceyaṟku ariya ceyvār periyar; ciṟiyar  
+ceyaṟku ariya ceykalātār.
+
+26\. The great achieve the impossible; the little cannot.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २६</summary>
@@ -720,6 +947,14 @@ The great achieve things rare to do.         26
 जानाति यः प्रपञ्चोऽयं वशे तस्य भविष्यति ॥ २७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २७</summary>
+
+27\. cuvai, oḷi, ūṟu, ōcai, nāṟṟam eṉṟu aintiṉ  
+vakai terivāṉkaṭṭē-ulaku.
+
+27\. The world falls at the feet of one who has realised the true nature of the taste, sight, touch, sound and smell.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २७</summary>
 
 7\. சுவைஒளி ஊறுஓசை நாற்றமென்று ஐந்தின்  
@@ -744,6 +979,14 @@ Of taste, sight, hearing, touch and smell.         27
 
 यतोक्तधर्मनिष्ठानां यतीनां महिमादिकम् ।  
 मन्त्रादि सहितैर्वेदवाक्यैरेव निरूप्यते ॥ २८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८</summary>
+
+28\. niṟaimoḻi māntar perumai nilattu  
+maṟaimoḻi kāṭṭiviṭum.
+
+28\. The greatness of the sages in this world is borne out by their prophetic utterances.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २८</summary>
@@ -772,6 +1015,14 @@ Their greatness to the world display.         28
 क्षणिकोऽपि स दुर्वारफलःशान्तिप्रसादने ॥ २९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २९</summary>
+
+29\. kuṇam eṉṉum kuṉṟu ēṟi niṉṟār vekuḷi  
+kaṇam ēyum, kāttal aritu.
+
+29\. It is impossible to resist even for a minute the wrath of those who stand on the hill of virtue’s actions.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २९</summary>
 
 9\. குணமென்னும் குன்றேறி நின்றார் வெகுளி  
@@ -796,6 +1047,23 @@ Though transient, cannot be withstood.         29
 
 सर्वभूतदयासान्द्राः ये तु धर्मपरायणाः ।  
 त एव ब्राह्मणाः प्रोक्ताः यतयः संशितव्रता ॥ ३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०</summary>
+
+30\. antaṇar eṉpōr aṟavōr-maṟṟu ev uyirkkum  
+cen taṇmai pūṇṭu oḻukalāṉ.
+
+30\. They are the Brahmans who are righteous and love all creation.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०</summary>
+
+30\. antaṇar eṉpōr aṟavōr-maṟṟu ev uyirkkum  
+cen taṇmai pūṇṭu oḻukalāṉ.
+
+30\. They are the Brahmans who are righteous and love all creation.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३०</summary>
@@ -826,6 +1094,14 @@ The sage fulfils the vitue's call.         30
 धर्मादप्यधिकं वस्तु प्राणिनां किं नु घर्तते ॥ ३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३१</summary>
+
+31\. ciṟappu īṉum; celvamum īṉum; aṟattiṉ ūuṅku  
+ākkam evaṉō, uyirkku.
+
+31\. Is there anything higher in life than Dharma? It secures glory and wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३१</summary>
 
 1\. சிறப்புஈனும்; செல்வமும் ஈனும்; அறத்தினுஉங்கு  
@@ -850,6 +1126,14 @@ What greater good can mankind know?         31
 
 धर्मानुष्ठानविभवात् देहिनां आयते सुखम् ।  
 धर्माणामननुष्ठानादनिष्ठं सम्भवेदिह ॥ ३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२</summary>
+
+32\. aṟattiṉ ūuṅku ākkamum illai; ataṉai  
+maṟattaliṉ ūṅku illai kēṭu.
+
+32\. Nothing is higher than Dharma; to forget it is wrought with greatest evil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३२</summary>
@@ -878,6 +1162,14 @@ Forsaking it is fall and pain.         32
 कर्तव्यं ख्यात् यथाशक्ति समयस्यानुरोधतः ॥ ३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३३</summary>
+
+33\. ollum vakaiyāṉ aṟaviṉai ōvātē  
+cellum vāy ellām ceyal.
+
+33\. Avail yourself of all opportunities. Do not cease from practising Dharma on all possible occasions to the best of your ability.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३३</summary>
 
 3\. ஒல்லும் வகையான் அறவினை ஓவாதே  
@@ -902,6 +1194,14 @@ Always and everywhere, o man!         33
 
 यत् कृतं शुद्धमनसा स धर्म इति कथ्यते ।  
 हच्छुद्धिरहितं कर्म केवलाडम्बरार्थकम् ॥ ३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४</summary>
+
+34\. maṉattukkaṇ mācu ilaṉ ātal; aṉaittu aṟaṉ;  
+ākula nīra, piṟa.
+
+34\. Be pure in mind. That is Dharma. All else is but pompous show.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३४</summary>
@@ -930,6 +1230,14 @@ And not in show and swelling sound.         34
 दोषान् विना कृतं कार्ये धर्म इत्युच्यते बुधैः ॥ ३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३५</summary>
+
+35\. aḻukkāṟu, avā, vekuḷi, iṉṉāc col, nāṉkum  
+iḻukkā iyaṉṟatu-aṟam.
+
+35\. That course of conduct that steers clear of every desire, wrath, and offensive speech — is alone Dharma.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३५</summary>
 
 5\. அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்  
@@ -954,6 +1262,14 @@ Lust, anger, envy, evil-speech.         35
 
 पश्चादिति भतिं त्यक्त्वा बाल्ये धर्मे वितन्वतः ।  
 स धर्मो मृत्युकालेऽपि स्थितः साह्यकरो भवेत् ॥ ३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६</summary>
+
+36\. 'aṉṟu aṟivām' eṉṉātu, aṟam ceyka; maṟṟu atu  
+poṉṟuṅkāl poṉṟāt tuṇai.
+
+36\. Do not postpone doing Dharma. Do it now. For it will be a never failing friend at your death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३६</summary>
@@ -982,6 +1298,14 @@ A deathless aid in death if sought.         36
 धर्मप्रभावे सुज्ञेये कुतः शास्त्रं कुतः श्रुतिः ॥ ३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३७</summary>
+
+37\. 'aṟattu āṟu itu' eṉa vēṇṭā; civikai  
+poṟuttāṉoṭu ūrntāṉ iṭai.
+
+37\. Why search for the fruits of Dharma? Behold the one in the palanquin and the palanquin-bearer.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३७</summary>
 
 7\. அறத்தாறு இதுஎன வேண்டா சிவிகை  
@@ -1006,6 +1330,14 @@ Without a word, the fortune's way.         37
 
 अनुस्यूततया धर्मकार्ये जन्मनि यत् कृतम् ।  
 तत् पुनर्जन्ममार्गस्य निरोधकशिलायते ॥ ३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३८</summary>
+
+38\. vīḻ nāḷ paṭāamai naṉṟu āṟṟiṉ, aḵtu oruvaṉ  
+vāḻ nāḷ vaḻi aṭaikkum kal.
+
+38\. If one were to practise righteousness every day it would be the stone that blocks the way to re-birth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३८</summary>
@@ -1034,6 +1366,14 @@ Are doing good and good again.         38
 अधर्माद्वस्तु यत् प्राप्तं न सा कीर्ति र्न तत् सुखम् ॥ ३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३९</summary>
+
+39\. aṟattāṉ varuvatē iṉpam; maṟṟu ellām  
+puṟatta; pukaḻum ila.
+
+39\. Happiness springs only from Dharma. All else is sorrow and merits no praise.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३९</summary>
 
 9\. அறத்தான் வருவதே இன்பம்:மற் றெல்லாம்  
@@ -1058,6 +1398,23 @@ The rest is rue and renown gone.         39
 
 सत्कर्मैंव सदा कार्यं सर्वयत्नेन मानवैः ।  
 अपवादकरं चान्यत् वर्जनीयतयोच्यते ॥ ४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०</summary>
+
+40\. ceyaṟpālatu ōrum aṟaṉē; oruvaṟku  
+uyaṟpālatu ōrum paḻi.
+
+40\. To do good and to avoid evil must be the law of our being.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०</summary>
+
+40\. ceyaṟpālatu ōrum aṟaṉē; oruvaṟku  
+uyaṟpālatu ōrum paḻi.
+
+40\. To do good and to avoid evil must be the law of our being.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४०</summary>
@@ -1090,6 +1447,14 @@ Vice is what we ought to shun.         40
 गृहस्थो धर्मनिरतो नित्यं साह्यकरो मत्ः ॥ ४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४१</summary>
+
+41\. ilvāḻvāṉ eṉpāṉ iyalpu uṭaiya mūvarkkum  
+nallāṟṟiṉ niṉṟa tuṇai.
+
+41\. The householder is the prop of the three orders of life in the conduct of their virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४१</summary>
 
 5\. இல்வாழ்க்கை - Married Life
@@ -1118,6 +1483,14 @@ Who aids the natural orders there.         41
 गृहस्थोऽन्नादिदानेन स्वाश्रितानपि रक्षति ॥ ४२॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४२</summary>
+
+42\. tuṟantārkkum, tuvvātavarkkum, iṟantārkkum,  
+ilvāḻvāṉ eṉpāṉ tuṇai.
+
+42\. The householder is the mainstay of the ascetics, the needy and the dead.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४२</summary>
 
 2\. துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்  
@@ -1142,6 +1515,14 @@ And celebrate students are his care.         42
 
 पितृदेवातिथीनां च बन्धूनामात्मनस्तथा ।  
 सत्कृतिर्धर्ममागेण्ण गृहस्थस्य वरा मता ॥ ४३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३</summary>
+
+43\. teṉpulattār, teyvam, viruntu, okkal, tāṉ, eṉṟu āṅku  
+aimpulattu āṟu ōmpal talai.
+
+43\. It is the supreme virtue (of the householder) to fulfil his obligations to forefathers, gods, guests, relatives and himself.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४३</summary>
@@ -1170,6 +1551,14 @@ God, manes, kin, self and guests are served.         43
 भुञ्जानस्य गृहस्थास्य निर्दुष्टं जीवनं भवेत् ॥ ४४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४४</summary>
+
+44\. paḻi añcip pāttu ūṇ uṭaittāyiṉ, vāḻkkai  
+vaḻi eñcal, eññāṉṟum, il.
+
+44\. If one were to live in fear of infamy and partake of the remains of food (offered) one’s line would never perish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४४</summary>
 
 4\. பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை  
@@ -1194,6 +1583,14 @@ His home is bright and brighter fares.         44
 
 गार्हस्थ्यजीवनं यत् स्यात् स्नेहधर्मसमन्वितम् ।  
 तदेव सार्थकं लोके तद्धि गार्हस्थ्यमुच्यते ॥ ४५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५</summary>
+
+45\. aṉpum aṟaṉum uṭaittuāyiṉ, ilvāḻkkai  
+paṇpum payaṉum atu.
+
+45\. The life of householder marked by love and rectitude is itself virtue and its fruit.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४५</summary>
@@ -1222,6 +1619,14 @@ Where love with virtue sweetly dwells.         45
 किं वा प्रयोजनं तस्य वानप्रस्थादिना पथा ॥ ४६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४६</summary>
+
+46\. aṟattu āṟṟiṉ ilvāḻkkai āṟṟiṉ, puṟattu āṟṟil  
+pōoyp peṟuvatu evaṉ?.
+
+46\. Is there any gain greater in resorting to other orders of life than by pursuing the right path of the householder?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४६</summary>
 
 6\. அறத்தாற்றின் இல்வாழ்க்கை யாற்றின் புறத்தாற்றிற்  
@@ -1246,6 +1651,14 @@ To be a monk, what profits he?         46
 
 धर्मेण वर्त्मना यस्तु गार्हस्थ्यमुपसेवते ।  
 मार्गन्तरोपजीविभ्यः स प्रशस्तो निगद्यते ॥ ४७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७</summary>
+
+47\. iyalpiṉāṉ ilvāḻkkai vāḻpavaṉ eṉpāṉ  
+muyalvāruḷ ellām talai.
+
+47\. The life of the householder is far greater than that of one in the path of renunciation.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४७</summary>
@@ -1274,6 +1687,14 @@ Is he who leads the married state.         47
 जीवनं च गृगस्थस्य श्लाघ्यते यतिजीवनात् ॥ ४८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४८</summary>
+
+48\. āṟṟiṉ oḻukki, aṟaṉ iḻukkā ilvāḻkkai  
+nōṟpāriṉ nōṉmai uṭaittu.
+
+48\. The householder who keeps others in the right path and himself does not deviate from his, does greater penance than the anchorite.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४८</summary>
 
 8\. ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை  
@@ -1300,6 +1721,14 @@ Make men brighter than monks praying.         48
 गृहस्थधर्म एवात्र धर्मशब्देन कथ्यते ॥ ४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४९</summary>
+
+49\. aṟaṉ eṉappaṭṭatē ilvāḻkkai; aḵtum  
+piṟaṉ paḻippatu il āyiṉ naṉṟu.
+
+49\. What is Dharma but the life of the householder? There is no greater life if it is free from reproach.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४९</summary>
 
 9\. அறனெனப் பட்டதே இல்வாழ்க்கை அஃதும்  
@@ -1324,6 +1753,23 @@ Which spotless monkhood too can claim.         49
 
 धर्ममार्गमनुल्लङ्घय गृहस्थो यदि जीवति ।  
 देववत्पूजितः सोऽत्र देवलोकं ततो व्रजेत् ॥ ५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५०</summary>
+
+50\. vaiyattuḷ vāḻvāṅku vāḻpavaṉ vāṉ uṟaiyum  
+teyvattuḷ vaikkappaṭum.
+
+50\. He who lives the true life of the householder on earth becomes one among the gods in Heaven.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५०</summary>
+
+50\. vaiyattuḷ vāḻvāṅku vāḻpavaṉ vāṉ uṟaiyum  
+teyvattuḷ vaikkappaṭum.
+
+50\. He who lives the true life of the householder on earth becomes one among the gods in Heaven.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५०</summary>
@@ -1354,6 +1800,14 @@ Who lives in ideal home on earth.         50
 करोति जीवनं याऽत्र सैव भार्येति कथ्यते ॥ ५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५१</summary>
+
+51\. maṉait takka māṇpu uṭaiyaḷ āki, taṟ koṇṭāṉ  
+vaḷattakkāḷ vāḻkkaittuṇai.
+
+51\. She is the true partner in life who possesses all the wifely virtues and spends according to the income of her husband.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५१</summary>
 
 1\. மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்  
@@ -1378,6 +1832,14 @@ Spending with thrift the mate's resource.         51
 
 गृहिणी यस्य गार्हस्थ्यगुणादिरहिता भवेत् ।  
 निष्फलं जीवनं तस्य सत्स्वेव विभवादिषु ॥ ५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२</summary>
+
+52\. maṉai māṭci illāḷkaṇ il āyiṉ, vāḻkkai  
+eṉaimāṭcittu āyiṉum, il.
+
+52\. Home life shorn of its grace will be barren however pompous it may be.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५२</summary>
@@ -1406,6 +1868,14 @@ If not all greatness is but waste.         52
 वैपरीत्ये समायाते शून्यमेव हि जीवनम् ॥ ५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५३</summary>
+
+53\. illatu eṉ, illavaḷ māṇpuāṉāl? uḷḷatu eṉ,  
+illavaḷ māṇākkaṭai?.
+
+53\. If the wife abounds in virtues is there anything lacking in home? Lacking which, it lacks everything.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५३</summary>
 
 3\. இல்லதென் இல்லவள் மாண்பானால்; உள்ளதென்  
@@ -1430,6 +1900,14 @@ What can be there when she is bad?         53
 
 पातिव्रत्येन सम्पन्ना गृहिणी यदि सङ्गता ।  
 तस्मादज्युत्तं भाग्यं गृहस्थास्य न लभ्यते ॥ ५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४</summary>
+
+54\. peṇṇiṉ peruntakka yā uḷa-kaṟpu eṉṉum  
+tiṇmai uṇṭākappeṟiṉ?.
+
+54\. Is there anything greater than a woman if only she is the citadel of chastity?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५४</summary>
@@ -1458,6 +1936,14 @@ Than a constant chaste woman?         54
 त्वं वर्षेन्ति तंयाऽऽशप्तो देवोऽपि किल वर्षति ॥ ५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५५</summary>
+
+55\. teyvam toḻāaḷ, koḻunaṉ-toḻutu eḻuvāḷ,  
+‘pey’ eṉa, peyyum maḻai.
+
+55\. Waking up she worships no other god than her husband. Verily at her very bidding it rains.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५५</summary>
 
 5\. தெய்வந் தொழாஅள் கொழுநன் தொழுதெழுவாள்  
@@ -1482,6 +1968,14 @@ Is like rain that at request pours.         55
 
 पातिव्रत्येन् भर्तारमात्मानं कीर्तिमेव च ।  
 या पालयति धर्मेण सैव नारीति कथ्यते ॥ ५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५६</summary>
+
+56\. taṟkāttu, taṟ koṇṭāṟ pēṇi, takai cāṉṟa  
+coṟkāttu, cōrvu ilāḷ-peṇ.
+
+56\. She is the woman who shields herself, serves her wedded lord, maintains her glory and never ceases from her toil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५६</summary>
@@ -1510,6 +2004,14 @@ She tends her spouse and brings him fame.         56
 पातिव्रत्यात् स्वतः स्त्रीणामात्मरक्षणमुत्तमम् ॥ ५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५७</summary>
+
+57\. ciṟai kākkum kāppu evaṉ ceyyum? makaḷir  
+niṟai kākkum kāppē talai.
+
+57\. Of what use is one’s watch and ward? Her chastity is her only shield.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५७</summary>
 
 7\. சிறைகாக்குங் காப்புஎவன் செய்யும் மகளிர்  
@@ -1534,6 +2036,14 @@ Their purity is women's guard.         57
 
 पातिव्रत्येनसहितां पतिशुश्रूषणे रताम् ।  
 गृहस्था गृहिणीं प्राप्य स्वर्गलोकं भजन्ति हे ॥ ५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५८</summary>
+
+58\. peṟṟāṟ peṟiṉ peṟuvar, peṇṭir, peruñ ciṟappup  
+puttēḷir vāḻum ulaku.
+
+58\. A dutiful wife inherits heaven with all its glory.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५८</summary>
@@ -1562,6 +2072,14 @@ Shall flourish where the gods resort.         58
 सगार्वे सिंहवत् सोऽयं शत्रुमध्ये न गच्छति ॥ ५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५९</summary>
+
+59\. pukaḻ purinta il ilōrkku illai-ikaḻvārmuṉ  
+ēṟupōl pīṭu naṭai.
+
+59\. A cuckold knows not the lovely gait of a lion before his detractors.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९</summary>
 
 9\. புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வவார்முன்  
@@ -1586,6 +2104,23 @@ Before his detractors aright.         59
 
 सञ्चरित्रवती भार्या माङ्गल्यं जीवितस्य सा ।  
 सत्पुत्राणामवाप्तितस्तु ततो भूषणवद्भवेत् ॥ ६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६०</summary>
+
+60\. 'maṅkalam' eṉpa, maṉaimāṭci; maṟṟu ataṉ  
+naṉkalam naṉ makkaṭ pēṟu.
+
+60\. The grace of a home is her virtue. Her blessed children are its adornment.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६०</summary>
+
+60\. 'maṅkalam' eṉpa, maṉaimāṭci; maṟṟu ataṉ  
+naṉkalam naṉ makkaṭ pēṟu.
+
+60\. The grace of a home is her virtue. Her blessed children are its adornment.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६०</summary>
@@ -1616,6 +2151,14 @@ And children good are jewels abright.         60
 लव्धव्येषु महद्भाग्यं अन्यन्नेह प्रशस्यते ॥ ६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६१</summary>
+
+61\. peṟumavaṟṟuḷ yām aṟivatu illai-aṟivu aṟinta  
+makkaṭpēṟu alla piṟa.
+
+61\. We do not know of any other asset than that of intelligent off-spring.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६१</summary>
 
 1\. பெறுமவற்றுள் யாமறிவது இல்லை அறிவறிந்த  
@@ -1640,6 +2183,14 @@ Than children virtuous and wise.         61
 
 निर्दुष्टगुणसम्पन्नं पुत्रं प्राप्नोति यो नरः ।  
 दुःखानि तं न बाधन्ते भाविजन्मसु सप्तसु ॥ ६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६२</summary>
+
+62\. eḻupiṟappum tīyavai tīṇṭā-paḻi piṟaṅkāp  
+paṇpuṭai makkaṭ peṟiṉ.
+
+62\. All the seven births no evil befalls one who is blest with good and unstained children.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६२</summary>
@@ -1668,6 +2219,14 @@ Noble sons bring all we wish.         62
 पुत्रं स्वार्जितवित्तेन समं वै मन्यते पिता ॥ ६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३</summary>
+
+63\. tam poruḷ eṉpa tam makkaḷ; avar poruḷ  
+tamtam viṉaiyāl varum.
+
+63\. A man’s riches are his children; their riches are the fruit of their actions.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३</summary>
 
 3\. தம்பொருள் என்பதம் மக்கள் அவர்பொருள்  
@@ -1692,6 +2251,14 @@ Their wealth is measured by their deed.         63
 
 दत्तं यत् पुत्र हस्तेन सामान्यमपि भोजनम् ।  
 अमृतादधिकं तत्तु वर्तते मधुरं पितुः ॥ ६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६४</summary>
+
+64\. amiḻtiṉum āṟṟa iṉitē-tam makkaḷ  
+ciṟu kai aḷāviya kūḻ.
+
+64\. Sweeter than ambrosia is the food handled by the tender hand of one’s children.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६४</summary>
@@ -1720,6 +2287,14 @@ In which one's children hands insert.         64
 जनयेच्छ्रवणानन्दं तेषां स्खलितभाषितम् ॥ ६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६५</summary>
+
+65\. makkaḷ mey tīṇṭal uṭaṟku iṉpam; maṟṟu avar  
+col kēṭṭal iṉpam, cevikku.
+
+65\. The delight of the body is the touch of one’s children. The delight of the ear is their lisp.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६५</summary>
 
 5\. மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர்  
@@ -1744,6 +2319,14 @@ Sweet to ears are their words lovely.         65
 
 अस्पष्टमधुरं पुत्रभाषितं श‍ृणोति यः ।  
 स एव कथयेत् रम्यं वीणावेण्वादि वादितम् ॥ ६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६</summary>
+
+66\. 'kuḻal iṉitu; yāḻ iṉitu' eṉpa-tam makkaḷ  
+maḻalaic col kēḷātavar.
+
+66\. The ‘lute is sweet’, ‘the Veena is sweet’, they say who have not heard the lisp of their little ones.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६६</summary>
@@ -1772,6 +2355,14 @@ Deaf to baby's babble's lay!         66
 यदि कुर्यात्सुतस्यैतत् महत् साह्यमुदीर्यते ॥ ६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६७</summary>
+
+67\. tantai makaṟku āṟṟum naṉṟi avaiyattu  
+munti iruppac ceyal.
+
+67\. The good a father can do his son is to make him occupy the first rank in an assembly.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६७</summary>
 
 7\. தந்தை மகற்குஆற்றும் நன்றி அவையத்து  
@@ -1796,6 +2387,14 @@ To seat him in front of the wise.         67
 
 विद्यावन्तं सुतं दृष्टवा मोदते न पिता परम् ।  
 अधिकं तेन तुष्यन्ति सर्वे भूतलवासिनः ॥ ६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६८</summary>
+
+68\. tammiṉ, tam makkaḷ aṟivuṭaimai mā nilattu  
+maṉ uyirkku ellām iṉitu.
+
+68\. Wisdom of the child is not merely the father’s delight but the delight of the world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६८</summary>
@@ -1824,6 +2423,14 @@ To see their children themselves excel.         68
 श्रुत्वैव जननी तस्य जननादपि तुष्यति ॥ ६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६९</summary>
+
+69\. īṉṟa poḻutiṉ peritu uvakkum-taṉ makaṉaic  
+cāṉṟōṉ eṉak kēṭṭa tāy.
+
+69\. A mother’s joy to hear of her son’s greatness transcends that at his birth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६९</summary>
 
 9\. ஈன்ற பொழுதிற் பெரிதுவக்கும் தன்மகனைச்  
@@ -1848,6 +2455,23 @@ Delights more than when she begot.         69
 
 किंवा तपः कृतं पित्रा प्राप्तुमेतादृरां सुतम् ।  
 इति लोकैः स्तुत्ः पुत्रः पितुः स्यादुपकारकः ॥ ७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७०</summary>
+
+70\. makaṉ tantaikku āṟṟum utavi, ‘ivaṉ tantai  
+eṉ nōṟṟāṉkol!’ eṉum col.
+
+70\. The service a son can do his father is to make the public exclaim ‘see, the fruit of his father’s good deeds.’
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७०</summary>
+
+70\. makaṉ tantaikku āṟṟum utavi, ‘ivaṉ tantai  
+eṉ nōṟṟāṉkol!’ eṉum col.
+
+70\. The service a son can do his father is to make the public exclaim ‘see, the fruit of his father’s good deeds.’
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७०</summary>
@@ -1878,6 +2502,14 @@ The son to sire this word is debt
 प्रकाशयन्ति सर्वेषां प्रीतिमन्तःस्थितामपि ॥ ७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७१</summary>
+
+71\. aṉpiṟkum uṇṭō, aṭaikkum tāḻ?ārvalar  
+puṉkaṇnīr pūcal tarum.
+
+71\. Is there a bolt to fasten one’s love? The trickling tears at the distress of one’s friends will proclaim the love within.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७१</summary>
 
 1\. அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்  
@@ -1902,6 +2534,14 @@ The trickling tears reveal the heart.         71
 
 नरः प्रेम्णा विरहित्ः सर्वमात्मार्थमिच्छति ।  
 प्रेमवान् स्वशरीरं च परार्थमिति मन्यते ॥ ७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२</summary>
+
+72\. aṉpu ilār ellām tamakku uriyar; aṉpu uṭaiyār  
+eṉpum uriyar, piṟarkku.
+
+72\. The loveless are full of themselves but the loving lay down their lives for others.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७२</summary>
@@ -1930,6 +2570,14 @@ To oth'rs the loving e'en to bones.         72
 जीवस्य देहसम्बन्धफलं पूर्णमिहाश्नुते ॥ ७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३</summary>
+
+73\. 'aṉpōṭu iyainta vaḻakku' eṉpa-'ār uyirkku  
+eṉpōṭu iyainta toṭarpu'.
+
+73\. They say the endless incarnation of one’s spirit is for the fulfilment of love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३</summary>
 
 3\. அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு  
@@ -1954,6 +2602,14 @@ To taste the life of love alone.         73
 
 करुते स्वजनप्रेम सव सौहार्दजीवनम् ।  
 तदेव वर्धयेत् स्नेहमधिकं सर्वजन्तुषु ॥ ७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७४</summary>
+
+74\. aṉpu īṉum ārvam uṭaimai; atu īṉum,  
+‘naṇpu’ eṉṉum nāṭāc ciṟappu.
+
+74\. Out of love springs kindness. It in turn grows into inestimable prize of friendship.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७४</summary>
@@ -1982,6 +2638,14 @@ Friendship springs up in excellence.         74
 सोऽत्र कीर्ति सुखं चैत्य स्वर्गलोके सुखं वसेत् ॥ ७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७५</summary>
+
+75\. 'aṉpuṟṟu amarnta vaḻakku' eṉpa-'vaiyakattu  
+iṉpuṟṟār eytum ciṟappu'.
+
+75\. The joy of heaven is but the fruit of righteous life rooted in love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७५</summary>
 
 5\. அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து  
@@ -2006,6 +2670,14 @@ From peaceful psychic love always.         75
 
 साधनं धर्ममात्रस्य प्रेमेति कथनं वृथा ।  
 अधर्मवर्जनेऽप्येतत् साधनं वस्तुतत्त्वतः ॥ ७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६</summary>
+
+76\. 'aṟattiṟkē aṉpu cārpu' eṉpa, aṟiyār;  
+maṟattiṟkum aḵtē tuṇai.
+
+76\. The ignorant say that kindness is an ally of virtue. No, it is a defence against evil too.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७६</summary>
@@ -2034,6 +2706,14 @@ It helps us against evil plots.         76
 जीवं प्रेम्णा विरहितं तथा धर्मोऽपि बाघते ॥ ७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७७</summary>
+
+77\. eṉpu ilataṉai veyil pōlak kāyumē-  
+aṉpu ilataṉai aṟam.
+
+77\. The sun dries up a boneless body. Likewise the god of righteousness destroys the loveless one.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७७</summary>
 
 7\. என்பி லதனை வெயில்போலக் காயுமே  
@@ -2058,6 +2738,14 @@ Like solar blaze the boneless worm.         77
 
 महीरुहस्य शुष्कस्यमरौ पल्लवजन्मवत् ।  
 गृहेषु हृदये प्रें विना जीवन् मुच्यते ॥ ७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७८</summary>
+
+78\. aṉpu akattu illā uyir vāḻkkai vaṉpāṟkaṇ  
+vaṟṟalmaram taḷirttaṟṟu.
+
+78\. To live a life void of love is like a withered tree bursting into leaf in a barren land.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७८</summary>
@@ -2086,6 +2774,14 @@ Can sapless tree in desert bloom?         78
 बाहयाङ्गसामवायेन फलं नैव भवेद् ध्रुवम् ॥ ७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७९</summary>
+
+79\. puṟattu uṟuppu ellām evaṉ ceyyum-yākkai  
+akattu uṟuppu aṉpu ilavarkku?.
+
+79\. What profits one’s outward feature if one's heart is devoid of love?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७९</summary>
 
 9\. புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை  
@@ -2110,6 +2806,23 @@ Or vain the outer parts will prove.         79
 
 स देहो जीवसहित्ः यः प्रेमवशमागतः ।  
 चर्मावृतास्थिकृटःस्यात् प्रेम्णा विरहितस्तु यः ॥ ८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८०</summary>
+
+80\. aṉpiṉ vaḻiyatu uyirnilai; aḵtu ilārkku  
+eṉpu tōl pōrtta uṭampu.
+
+80\. That body where love dwells is the seat of life; all others are but skin-clad bones.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८०</summary>
+
+80\. aṉpiṉ vaḻiyatu uyirnilai; aḵtu ilārkku  
+eṉpu tōl pōrtta uṭampu.
+
+80\. That body where love dwells is the seat of life; all others are but skin-clad bones.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८०</summary>
@@ -2140,6 +2853,14 @@ Or beings are but skin and bone!         80
 सर्वे ते विनियोक्तव्याः सदैवातिथिपूजने ॥ ८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८१</summary>
+
+81\. iruntu ōmpi il vāḻvatu ellām viruntu ōmpi  
+vēḷāṇmai ceytaṟporuṭṭu.
+
+81\. To keep house and to acquire wealth is only to minister to guests.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८१</summary>
 
 1\. இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி  
@@ -2164,6 +2885,14 @@ To tend the guests and do good turn.         81
 
 प्रियातिथिमसम्मान्य गृहे यद्वस्तु भुज्यते ।  
 साक्षादमृतमेवास्तु न तच्छ्लाघ्यं कदाचन ॥ ८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८२</summary>
+
+82\. viruntu puṟattatāt tāṉ uṇṭal, cāvā  
+maruntu eṉiṉum vēṇṭaṟpāṟṟu aṉṟu.
+
+82\. With a guest waiting it would not be proper to eat even though it were nectar.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८२</summary>
@@ -2192,6 +2921,14 @@ Albeit you eat nectar-like food.         82
 दारिद्र्यं न भवेत् किन्तु धनं चाप्यभिवर्धते ॥ ८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८३</summary>
+
+83\. varu viruntu vaikalum ōmpuvāṉ vāḻkkai  
+paruvantu pāḻpaṭutal iṉṟu.
+
+83\. A life of one who daily looks after the incoming guests will never suffer from poverty.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८३</summary>
 
 3\. வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை  
@@ -2216,6 +2953,14 @@ His life in want never wears out.         83
 
 शुद्धातिथिं वेश्म गतं सेवमानस्य सादरम् ।  
 नरस्य गेहे वसति प्रसन्ना पद्मसम्भवा ॥ ८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८४</summary>
+
+84\. akaṉ amarntu ceyyāḷ uṟaiyum-mukaṉ amarntu  
+nal viruntu ōmpuvāṉ il.
+
+84\. Fortune smiles on the house of one who entertains with cheerful face worthy guests.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८४</summary>
@@ -2244,6 +2989,14 @@ Where smiles welcome the worthy guest.         84
 बीजावापं विना क्षेत्रे जातन्ते सस्यसम्पदः ॥ ८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८५</summary>
+
+85\. vittum iṭalvēṇṭum kollō-viruntu ōmpi,  
+miccil micaivāṉ pulam?.
+
+85\. Does the field of one who partakes of what remains after entertaining the guest, need to be sown with seeds?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८५</summary>
 
 5\. வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி  
@@ -2268,6 +3021,14 @@ Feeds the guests and eats the rest?         85
 
 तोषयित्वाऽतिथिं प्राप्तमन्यान् अतिथिसत्तमान् ।  
 यो हि प्रतीक्षते सोऽयं देवानामतिथिर्भवेत् ॥ ८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८६</summary>
+
+86\. cel viruntu ōmpi, varu viruntu pārttiruppāṉ  
+nal viruntu, vāṉattavarkku.
+
+86\. He who cherishes the guests who come to him, and looks forward to new guests, will himself be the honoured guest of the gods.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८६</summary>
@@ -2296,6 +3057,14 @@ Is a welcome guest in heaven's feast.         86
 अतिथेर्योग्यता भेदात् फलमेदोऽपि सम्मत्ः ॥ ८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८७</summary>
+
+87\. iṉait tuṇaittu eṉpatu oṉṟu illai; viruntiṉ  
+tuṇait tuṇai-vēḷvip payaṉ.
+
+87\. The effects of hospitality cannot be exactly measured. They are proportionate to the worth of the guest.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८७</summary>
 
 7\. இனைத்துணைத் தென்பதொன் றில்லை: விருந்தின்  
@@ -2320,6 +3089,14 @@ Is worth of hospitality.         87
 
 यस्यातिथीनां सत्कारयज्ञे बुद्धिर्न जायते ।  
 लब्धं वस्तु परिभ्रष्टं भवेदिति स चिन्तयेत् ॥ ८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८८</summary>
+
+88\. 'parintu ōmpi, paṟṟu aṟṟēm' eṉpar-viruntu ōmpi  
+vēḷvi talaippaṭātār.
+
+88\. Those who have failed in their duties to guests will regret the folly of mere hoarding.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८८</summary>
@@ -2348,6 +3125,14 @@ Who loathe guest-service one day cry:
 भातिथ्यदानविमुखो यो भवेद् भुवने जडः ॥ ८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८९</summary>
+
+89\. uṭaimaiyuḷ iṉmai viruntu ōmpal ōmpā  
+maṭamai; maṭavārkaṇ uṇṭu.
+
+89\. To be poor amidst plenty is to despise hospitality. Such folly is only of the ignorant.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८९</summary>
 
 9\. உடமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
@@ -2372,6 +3157,23 @@ Whose folly fails the guest to feed.         89
 
 शिरीषपुष्पमाघ्राणात् म्लानं सञ्जायते यथा ।  
 तथाऽतिथीनां वदनं स्याद् गृहस्थे पराङ्मुखे ॥ ९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९०</summary>
+
+90\. mōppak kuḻaiyum aṉiccam;- mukam tirintu  
+nōkkak kuḻaiyum viruntu.
+
+90\. The aniccam flower withers when smelt, and the guest under a displeased look.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९०</summary>
+
+90\. mōppak kuḻaiyum aṉiccam;- mukam tirintu  
+nōkkak kuḻaiyum viruntu.
+
+90\. The aniccam flower withers when smelt, and the guest under a displeased look.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९०</summary>
@@ -2402,6 +3204,14 @@ A wry-faced look withers the guest.         90
 वञ्चनारहितं तत्तु भवेन्मधुरभाषणम् ॥ ९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९१</summary>
+
+91\. iṉ col-āl īram aḷaii, paṭiṟu ilaām  
+cemporuḷ kaṇṭār vāyc col.
+
+91\. Sweet are the words that fall from the lips of those who are full of guileless love and truth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९१</summary>
 
 1\. இன்சொலால் ஈரம் அளைஇப் படிறுஇலவாஞ்  
@@ -2426,6 +3236,14 @@ Merciful and free from deceit.         91
 
 सहर्षे च दरिद्रेभ्यः कृतात् दानादनिन्दितात् ।  
 प्रसन्नवदनस्यैतत् श्रेष्ठं मधुरभाषणम् ॥ ९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९२</summary>
+
+92\. akaṉ amarntu ītaliṉ naṉṟēmukaṉ amarntu  
+iṉcolaṉ ākappeṟiṉ.
+
+92\. To speak with a pleasant look is better than to give with a cheerful heart.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९२</summary>
@@ -2454,6 +3272,14 @@ More joys than heart's beneficence.         92
 उच्यते सुहितं सत्यं स धर्मः परमो मतः ॥ ९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९३</summary>
+
+93\. mukattāṉ amarntu, iṉitu nōkki, akattāṉ ām  
+iṉ coliṉatē aṟam.
+
+93\. To welcome one with a pleasant look and loving words is righteousness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९३</summary>
 
 3\. முகத்தான் அமர்ந்துஇனிது நோக்கி அகத்தானாம்  
@@ -2478,6 +3304,14 @@ Such is the gracious virtue's part.         93
 
 सर्वत्र मधुरं वाक्यं प्रयुक्तं सुखवर्धकम् ।  
 सर्वदा दुःखजनकं दारिद्य्रमपि नाशयेत् ॥ ९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९४</summary>
+
+94\. tuṉpuṟūum tuvvāmai illākum yārmāṭṭum  
+iṉpuṟūum iṉcolavarkku.
+
+94\. The torment of poverty does not befall those who have a good word to say to all.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९४</summary>
@@ -2506,6 +3340,14 @@ The woe of want from them is gone.         94
 ताभ्यां द्वाभ्यां विहीनस्य किमन्यैर्भूषणैः फलम् ॥ ९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९५</summary>
+
+95\. paṇivu uṭaiyaṉ, iṉcolaṉ ātal oruvaṟku  
+aṇi; alla, maṟṟup piṟa.
+
+95\. Humility and loving words are only true ornaments. Others are not.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९५</summary>
 
 5\. பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு  
@@ -2530,6 +3372,14 @@ No other jewel do wise men seek.         95
 
 अन्येषामुपकारार्थे यो व्रूते मधुरं वचः ।  
 तस्य पपानि नश्यन्ति धर्म एवाभिवर्धते ॥ ९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६</summary>
+
+96\. allavai tēya aṟam perukum nallavai  
+nāṭi, iṉiya coliṉ.
+
+96\. Vice wears out and virtue grows in one who speaks kind and wholesome words.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९६</summary>
@@ -2558,6 +3408,14 @@ Whose fruitful words with sweetness flow.         96
 वक्तारं सुखिनं कृत्वा पुण्यं चापि प्रयच्छति ॥ ९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९७</summary>
+
+97\. nayaṉ īṉṟu naṉṟi payakkumpayaṉ īṉṟu  
+paṇpiṉ talaippiriyāc col.
+
+97\. Sweetly uttered words that do good to others will light up the path of virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९७</summary>
 
 7\. நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று  
@@ -2582,6 +3440,14 @@ Lead to goodness and graceful deeds.         97
 
 परदुःखाय या न स्युः प्रयुक्ता मधुरोक्तयः ।  
 ऐहिकामुष्मिकं सौख्यं प्रयोक्तुर्वितरन्ति ताः ॥ ९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९८</summary>
+
+98\. ciṟumaiyuḷ nīṅkiya iṉcol, maṟumaiyum  
+immaiyum, iṉpam tarum.
+
+98\. Sweet and inoffensive words yield one happiness both here and hereafter.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९८</summary>
@@ -2610,6 +3476,14 @@ This life on earth and life the next.         98
 दुःखदं कठिनं वाक्यं कुतो वा वक्ति मानवः ॥ ९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९९</summary>
+
+99\. iṉ col iṉitu īṉṟal kāṇpāṉ, evaṉkolō-  
+vaṉ col vaḻaṅkuvatu?.
+
+99\. Why should a man use harsh words, knowing the pleasure that sweet speech kindles?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९९</summary>
 
 9\. இன் சொல் இனிதீன்றல் காண்பான் எவன்கொலோ  
@@ -2634,6 +3508,23 @@ To use harsh words how can he dare?         99
 
 कथनं कठिनोक्तीनां मधुरे वचसि स्थिते ।  
 मधुरं फलमुत्सृज्य कषायस्याशनं भवेत् ॥ १००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १००</summary>
+
+100\. iṉiya uḷavāka iṉṉāta kūṟal-  
+kaṉi iruppa, kāy kavarntaṟṟu.
+
+100\. Indulging in offensive words and avoiding sweet ones is like prefering the raw to a ripe fruit.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १००</summary>
+
+100\. iṉiya uḷavāka iṉṉāta kūṟal-  
+kaṉi iruppa, kāy kavarntaṟṟu.
+
+100\. Indulging in offensive words and avoiding sweet ones is like prefering the raw to a ripe fruit.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १००</summary>
@@ -2664,6 +3555,14 @@ Who speaks harsh words when sweet word suits.         100
 लोकद्वयप्रदानेऽपि तस्य नास्ति प्रतिक्रिया ॥ १०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०१</summary>
+
+101\. ceyyāmal ceyta utavikku vaiyakamum  
+vāṉakamum āṟṟal aritu.
+
+101\. For the help rendered expecting no return even earth and heaven will prove no recompense.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०१</summary>
 
 1\. செய்யாமற் செய்த உதவிக்கு வையகமும்  
@@ -2688,6 +3587,14 @@ Exceeds in worth earth and heaven.         101
 
 समये रचितं साह्यं स्वल्पं स्यात् परिमाणत्ः ।  
 तदेव कालमेदेन् महत् स्याद् भुवनादपि ॥ १०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२</summary>
+
+102\. kālattiṉāl ceyta naṉṟi ciṟitu eṉiṉum,  
+ñālattiṉ māṇap peritu.
+
+102\. A help timely, though small, transcends the world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०२</summary>
@@ -2716,6 +3623,14 @@ Though small is greater than the world.         102
 विमृष्ट सत् समुद्रादप्यधिकं स्यान्न संशयः ॥ १०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०३</summary>
+
+103\. payaṉ tūkkār ceyta utavi nayaṉ tūkkiṉ,  
+naṉmai kaṭaliṉ peritu.
+
+103\. Help done expecting no return, if weighed will be vaster than the sea.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०३</summary>
 
 3\. பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்  
@@ -2740,6 +3655,14 @@ Outweighs the sea in grand effects.         103
 
 स्वल्पं यवसं साह्यं विमृश्य बहु लाभदम् ।  
 तालवृक्षादपि महत् तन्मन्यन्ते नरोत्तमाः ॥ १०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०४</summary>
+
+104\. tiṉait tuṇai naṉṟi ceyiṉum, paṉait tuṇaiyāk  
+koḷvar-payaṉ terivār.
+
+104\. Small as millet is the help given, the wise hold it as big as a palmyra fruit.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०४</summary>
@@ -2768,6 +3691,14 @@ Knowers count its good palm- tree tall.         104
 प्राप्तलाभानुसारेण प्रतिकारो विगह्र्यते ॥ १०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०५</summary>
+
+105\. utavi varaittu aṉṟu, utavi; utavi  
+ceyappaṭṭār cālpiṉ varaittu.
+
+105\. Help rendered is not in terms of the return but its value depends on the receiver.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०५</summary>
 
 5\. உதவி வரைத்தன்று உதவி: உதவி  
@@ -2792,6 +3723,14 @@ It is gainer's worth and pleasure.         105
 
 ज्ञानाचारसमेयानां सम्बन्धं नैव विस्मरेत् ।  
 आपत्सहायभूतनां मैत्रीं नैव परित्यजेत् ॥ १०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०६</summary>
+
+106\. maṟavaṟka, mācu aṟṟār kēṇmai! tuṟavaṟka,  
+tuṉpattuḷ tuppu āyār naṭpu!.
+
+106\. Forget not the companionship of the pure of heart. Give up not the friendship of those who have stood by you in hour of sorrow.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०६</summary>
@@ -2820,6 +3759,14 @@ Forsake not timely helpers sure.         106
 सन्तः स्मरन्ति तन्मैत्रीं सप्तसप्तसु जन्मसु ॥ १०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०७</summary>
+
+107\. eḻumai eḻu piṟappum uḷḷuvar-tamkaṇ  
+viḻumam tuṭaittavar naṭpu.
+
+107\. The good remember with gratitude, all through seven births, the friendship of those who have wiped out their suffering.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०७</summary>
 
 7\. எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்  
@@ -2844,6 +3791,14 @@ The willing friend who wiped one's tears.         107
 
 कृतानामुपकाराणामधर्मे विस्मृतिर्भवेत् ।  
 विस्मृतिस्त्वपकाराणां सद्यो धर्मः स कथ्यते ॥ १०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०८</summary>
+
+108\. naṉṟi maṟappatu naṉṟu aṉṟu; naṉṟu allatu  
+aṉṟē maṟappatu naṉṟu.
+
+108\. It is not good to forget the benefit received; but it is good to forget then and there the injury done by another.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०८</summary>
@@ -2872,6 +3827,14 @@ Good it is over wrong not to brood.         108
 उपकारा अपि कृताः लीयन्ते तत्र चैव ते ॥ १०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०९</summary>
+
+109\. koṉṟaṉṉa iṉṉā ceyiṉum, avar ceyta  
+oṉṟum naṉṟu uḷḷa,keṭum.
+
+109\. The remembrance of one good act done removes from our mind the sting of a deadly injury.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०९</summary>
 
 9\. கொன்றன்ன இன்னா செயினும் அவர்செய்த  
@@ -2896,6 +3859,23 @@ While remembering one good-turn.         109
 
 धर्मान्तरविहीनानां विद्यते पापमोचनम् ।  
 कृतज्ञताधर्महीने नास्ति वै पापमोक्षणम् ॥ ११०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११०</summary>
+
+110\. en naṉṟi koṉṟārkkum uyvu uṇṭām; uyvu illai,  
+ceynnaṉṟi koṉṟa makaṟku.
+
+110\. There is salvation to those guilty of any other sin; but there is no redemption for the sin of ingratitude.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११०</summary>
+
+110\. en naṉṟi koṉṟārkkum uyvu uṇṭām; uyvu illai,  
+ceynnaṉṟi koṉṟa makaṟku.
+
+110\. There is salvation to those guilty of any other sin; but there is no redemption for the sin of ingratitude.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११०</summary>
@@ -2926,6 +3906,14 @@ Not benefit-killer who is damned.         110
 निष्पक्षपाततारूपो धर्मे योऽस्य फलं भवेत् ॥ १११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १११</summary>
+
+111\. takuti eṉa oṉṟum naṉṟē-pakutiyāṉ  
+pāṟpaṭṭu oḻukappeṟiṉ.
+
+111\. An equity which knows no partiality is in itself a unique virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १११</summary>
 
 1\. தகுதி எனவொன்று நன்றே பகுதியால்  
@@ -2950,6 +3938,14 @@ It is to give each man his due.         111
 
 निष्पक्षपातिनो वित्तं न तु केवलमात्मनः ।  
 स्थिरं सत्पुत्रपौत्रादि सन्ततेः स्यात् सुखावहम् ॥ ११२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११२</summary>
+
+112\. ceppam uṭaiyavaṉ ākkam citaivu iṉṟi,  
+eccattiṟku ēmāppu uṭaittu.
+
+112\. The wealth of the upright dwindles not and passes on to their posterity.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११२</summary>
@@ -2978,6 +3974,14 @@ Grows and lasts to posterity.         112
 कदाचित् सुखदं भायादथापि परिवर्जयेत् ॥ ११३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११३</summary>
+
+113\. naṉṟē tariṉum, naṭuvu ikantu ām ākkattai  
+aṉṟē oḻiyaviṭal!.
+
+113\. Give up ill-gotten wealth though it brings in its train prosperity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११३</summary>
 
 3\. நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை  
@@ -3002,6 +4006,14 @@ From unjust gains without delay.         113
 
 अयं माध्यस्थ्यवर्तीति विपरीतोऽयमित्यपि ।  
 सदसत्पुत्रजन्मभ्यां ज्ञातुं शक्यं विशेषतः ॥ ११४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११४</summary>
+
+114\. takkār takavu ilar eṉpatu avar avar  
+eccattāl kāṇappaṭum.
+
+114\. The just and the unjust are known by the progeny.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११४</summary>
@@ -3030,6 +4042,14 @@ Are seen in their posterity.         114
 अतो मध्यस्थवृत्तिः स्यात् श्रेष्ठमाभरणं सताम् ॥ ११५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११५</summary>
+
+115\. kēṭum perukkamum il alla; neñcattuk  
+kōṭāmai cāṉṟōrkku aṇi.
+
+115\. To hold the scales even unmindful of prosperity or adversity is the ornament of the wise.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११५</summary>
 
 5\. கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்  
@@ -3054,6 +4074,14 @@ Equal mind adorns the wise.         115
 
 हृदयं पक्षपातेन यदि पापं विचिन्तयेत् ।  
 तदुत्पात इति ज्ञेयं भाविनाशस्य मूचकम् ॥ ११६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११६</summary>
+
+116\. 'keṭuval yāṉ' eṉpatu aṟika-taṉ neñcam  
+naṭuvu ōrīi, alla ceyiṉ.
+
+116\. Even an iniquitous thought spells one's ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११६</summary>
@@ -3082,6 +4110,14 @@ Who leaves justice to sinful lure.         116
 दारिद्र्यमपि मन्यन्ते भाग्यमेव मनीषिणः ॥ ११७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११७</summary>
+
+117\. keṭuvāka vaiyātu ulakam-naṭuvāka  
+naṉṟikkaṇ taṅkiyāṉ tāḻvu.
+
+117\. The world despises not the poverty of the just.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११७</summary>
 
 7\. கெடுவாக வையாது உலகம் நடுவாக  
@@ -3106,6 +4142,14 @@ Is not held down by equity.         117
 
 मध्ये स्थिता तुला द्रव्यं न्यायतस्तुलयेद्यथा ।  
 तथा निष्पक्षपातित्वं माध्यस्थं लक्षणं सताम् ॥ ११८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११८</summary>
+
+118\. camaṉ ceytu cīr tūkkum kōlpōl amaintu, orupāl  
+kōṭāmai-cāṉṟōrkku aṇi.
+
+118\. Not to tilt like the well poised balance is the grace of the wise.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११८</summary>
@@ -3134,6 +4178,14 @@ A well poised mind is jewel of the wise.         118
 वाचि मध्यस्थभावोऽपि तदा नूनं भविष्यति ॥ ११९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११९</summary>
+
+119\. coṟ kōṭṭam illatu, ceppam-orutalaiyā  
+uṭ kōṭṭam iṉmai peṟiṉ.
+
+119\. Equity is the impartial expression of an unbiased mind.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११९</summary>
 
 9\. சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா  
@@ -3158,6 +4210,23 @@ And free from crooked word-twisting.         119
 
 अन्येषामपि वस्तूनि स्वकीयानीव पश्यता ।  
 क्रियते यत्तु वाणिज्यं तद्वाणिज्यमितीर्यते ॥ १२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२०</summary>
+
+120\. vāṇikam ceyvārkku vāṇikam-pēṇip  
+piṟavum tamapōl ceyiṉ.
+
+120\. To deal with others’ goods as their own is the only true trade among traders.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२०</summary>
+
+120\. vāṇikam ceyvārkku vāṇikam-pēṇip  
+piṟavum tamapōl ceyiṉ.
+
+120\. To deal with others’ goods as their own is the only true trade among traders.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२०</summary>
@@ -3188,6 +4257,14 @@ When his dealings are neighbourly.         120
 अनिग्रहो नरं घोरे नरके पतयत्यपि ॥ १२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२१</summary>
+
+121\. aṭakkam amararuḷ uykkum; aṭaṅkāmai  
+ār iruḷ uyttuviṭum.
+
+121\. Self-control places one among the gods; lack of it leads one to the darkness of hell.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२१</summary>
 
 1\. அடக்கம் அமரருள் உய்க்கும்: அடங்காமை  
@@ -3212,6 +4289,14 @@ Indulgence leads to gloomy hades.         121
 
 निग्रहः शाश्वतं वित्तमिति तत् पालयेत् सदा ।  
 निग्रहादधिकं श्रेयो मानवानं न विद्यते ॥ १२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२</summary>
+
+122\. kākka, poruḷā aṭakkattai-ākkam  
+ataṉiṉ ūṅku illai, uyirkku!.
+
+122\. There is no greater wealth than self-control; treasure it as your wealth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२२</summary>
@@ -3240,6 +4325,14 @@ Guard with care this great treasure.         122
 महात्मनां गुणाज्ञानां कृपया स सुखी वसेत् ॥ १२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२३</summary>
+
+123\. ceṟivu aṟintu cīrmai payakkum-aṟivu aṟintu  
+āṟṟiṉ aṭaṅkap peṟiṉ.
+
+123\. If one knows the value of self-control and restrains oneself it will bring one fame.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२३</summary>
 
 3\. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
@@ -3264,6 +4357,14 @@ Name and fame seek him untold.         123
 
 सदा निग्रहशीलो यः स्वीयमार्गावलम्बिनः ।  
 महोन्नता स्थिति स्तस्य शैलादप्यधिका भवेत् ॥ १२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२४</summary>
+
+124\. nilaiyiṉ tiriyātu aṭaṅkiyāṉ tōṟṟam  
+malaiyiṉum māṇap peritu.
+
+124\. Loftier than a mountain is the greatness of one who practises self-control.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२४</summary>
@@ -3292,6 +4393,14 @@ The sage looks grander than mountain.         124
 तेषु चाप्यग्रगण्यस्य तद्भवेदधिकं धनम् ॥ १२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२५</summary>
+
+125\. ellārkkum naṉṟu ām, paṇital; avaruḷḷum  
+celvarkkē celvam takaittu.
+
+125\. Humility becomes all; but it crowns anew the wealthy.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२५</summary>
 
 5\. எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்  
@@ -3316,6 +4425,14 @@ To the rich it adds a wealth special.         125
 
 पञ्चेन्द्रियाणि सम्यम्य विद्यमानस्य कर्मवत् ।  
 आत्मरक्षणशक्तिः स्यात् सप्तस्वपि च जन्मसु ॥ १२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२६</summary>
+
+126\. orumaiyuḷ, āmaipōl, aintu aṭakkal āṟṟiṉ,  
+eḻumaiyum ēmāppu uṭaittu.
+
+126\. If one were to withdraw within oneself the five senses like a tortoise, it would afford him protection all the seven births.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२६</summary>
@@ -3344,6 +4461,14 @@ Their joy prolongs to births sevenfold.         126
 अन्यथा शब्ददोषेण जायते दुःखभाजनम् ॥ १२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२७</summary>
+
+127\. yā kāvār āyiṉum, nā kākka; kāvākkāl,  
+cōkāppar, col iḻukkup paṭṭu.
+
+127\. Whatever else you may not control, control your tongue, lest you should repent your indiscreet words.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२७</summary>
 
 7\. யாகாவா ராயினும் நாகாக்க காவாக்கால்  
@@ -3368,6 +4493,14 @@ Or slips of tongue bring all the woes.         127
 
 शक्तवा कुशब्दं योऽन्यस्य कुरुते मनसो व्यथाम् ।  
 तात्कृताश्चान्यधर्माः स्युरनिष्टफलदायकाः ॥ १२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८</summary>
+
+128\. oṉṟāṉum tīccoṟ poruṭ payaṉ uṇṭāyiṉ,  
+naṉṟu ākātu ākiviṭum.
+
+128\. One would lose the fruits of one’s good actions, if one word of evil were to land another in trouble.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२८</summary>
@@ -3396,6 +4529,14 @@ Will turn all good results to bad.         128
 वागग्निजव्रणस्येह नैवोपशमनं भवेत् ॥ १२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२९</summary>
+
+129\. tīyiṉāl cuṭṭa puṇ uḷ āṟum;- āṟātē  
+nāviṉāl cuṭṭa vaṭu.
+
+129\. The blister caused by fire will heal. But the brand of a bitter tongue will never heal.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२९</summary>
 
 9\. தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே  
@@ -3420,6 +4561,23 @@ Tongue-burnt wound rests a running sore.         129
 
 अक्रोधः संयमी यस्तु विद्यया च निषेवितः ।  
 स्वत् एव समागम्य तं रक्षेद्धर्मदेवता ॥ १३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३०</summary>
+
+130\. katam kāttu, kaṟṟu, aṭaṅkal āṟṟuvāṉ cevvi  
+aṟam pārkkum āṟṟiṉ nuḻaintu.
+
+130\. The God of righteousness seeks one who is on guard against anger and attains self-control through knowledge.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३०</summary>
+
+130\. katam kāttu, kaṟṟu, aṭaṅkal āṟṟuvāṉ cevvi  
+aṟam pārkkum āṟṟiṉ nuḻaintu.
+
+130\. The God of righteousness seeks one who is on guard against anger and attains self-control through knowledge.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३०</summary>
@@ -3450,6 +4608,14 @@ Self-controlled savant anger free.         130
 प्राणेभ्योऽपि सदाचारः श्रेष्ठ इत्येव पालयेत् ॥ १३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३१</summary>
+
+131\. oḻukkam viḻuppam taralāṉ, oḻukkam  
+uyiriṉum ōmpappaṭum.
+
+131\. Right conduct exalts one. So it should be prized above one’s life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३१</summary>
 
 1\. ஒழுக்கம் விழுப்பம் தரலான் ஒழுக்கம்  
@@ -3474,6 +4640,14 @@ More than life guard its purity.         131
 
 प्रेम्णा परिश्रमेणापि सदाचारं तु पालयेत् ।  
 सर्वधर्मे सदाचारः श्रेष्ठो जीवितसाह्यादः ॥ १३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३२</summary>
+
+132\. parintu ōmpik kākka, oḻukkam-terintu ōmpit  
+tēriṉum, aḵtē tuṇai!.
+
+132\. Strive hard to walk in the right path. One finds in it one’s surest ally.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३२</summary>
@@ -3502,6 +4676,14 @@ The soul aid should be guarded well.         132
 यः सदाचाररहितस्त्वकुलीनः स गण्यते ॥ १३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३३</summary>
+
+133\. oḻukkam uṭaimai kuṭimai; iḻukkam  
+iḻinta piṟappāyviṭum.
+
+133\. Right conduct ennobles one’s family. Bad conduct makes one sink in the scale.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३३</summary>
 
 3\. ஒழுக்கம் உடமை குடிமை இழுக்கம்  
@@ -3526,6 +4708,14 @@ Low manners mark anomaly.         133
 
 अधीतविस्मृतं वेदं प्राप्नोति पठनात् पुनः ।  
 विप्रो नषकुलाचारः पुनर्नाप्नोति विप्रताम् ॥ १३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३४</summary>
+
+134\. maṟappiṉum, ottuk koḷal ākum; pārppāṉ  
+piṟappu oḻukkam kuṉṟak keṭum.
+
+134\. The Brahman may learn anew the Vedas which he forgot. If he were to fall from his estate he would be lost.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३४</summary>
@@ -3554,6 +4744,14 @@ But conduct lost returns no more.         134
 तथा कुलाचारहीनो लभते न समुन्नतिम् ॥ १३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३५</summary>
+
+135\. aḻukkāṟu uṭaiyāṉkaṇ ākkam pōṉṟu illai-  
+oḻukkam ilāṉkaṇ uyarvu.
+
+135\. The envious do not prosper; likewise one straying from the right path does not advance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३५</summary>
 
 5\. அழுக்கா றுடையான்கண் ஆக்கம்போன்று இல்லை  
@@ -3578,6 +4776,14 @@ The ill-behaved sinks lower still.         135
 
 धीराः सदाचारहानात् दृष्ट्वा नीचकुलोद्भवम् ।  
 न मुञ्चन्ति सदाचारं दुस्साधमपि सर्वदा ॥ १३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३६</summary>
+
+136\. oḻukkattiṉ olkār uravōr-iḻukkattiṉ  
+ētam paṭupākku aṟintu.
+
+136\. The strong of mind will not shrink from virtue; for they know that any deviation is wrought with dire consequences.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३६</summary>
@@ -3606,6 +4812,14 @@ They know the ills of evil thought.         136
 सदाचारपरित्यागादपवादो मुधा भवेत् ॥ १३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३७</summary>
+
+137\. oḻukkattiṉ eytuvar, mēṉmai; iḻukkattiṉ  
+eytuvar, eytāp paḻi.
+
+137\. Men of right conduct are crowned with glory. Men of evil ways are covered with disgrace.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३७</summary>
 
 7\. ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்  
@@ -3630,6 +4844,14 @@ Bad conduct entails disgrace mean.         137
 
 उपयोर्लौकयोः सौख्यं सदाचारेण जायते ।  
 तथा दुःख दुराचारात् प्राप्यते लोकयोर्द्वयोः ॥ १३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३८</summary>
+
+138\. naṉṟikku vittu ākum nal oḻukkam; tī oḻukkam  
+eṉṟum iṭumpai tarum.
+
+138\. Good conduct is the spring of happiness. Bad conduct leads one ever to misery.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३८</summary>
@@ -3658,6 +4880,14 @@ Bad conduct endless evil brings.         138
 तेषां मुखान्न निर्यान्ति ये सदाचारशालिनः ॥ १३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३९</summary>
+
+139\. oḻukkam uṭaiyavarkku ollāvē-tīya  
+vaḻukkiyum, vāyāl colal.
+
+139\. It is difficult for a man of right conduct to utter evil words even in a forgetful mood.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३९</summary>
 
 9\. ஒழுக்க முடையவர்க்கு ஒல்லாவே தீய  
@@ -3682,6 +4912,23 @@ Of righteous men even by slips.         139
 
 ये तु नैव प्रवर्तन्ते कालदेशानुसारत्ः ।  
 अधीतेष्वपि शास्त्रेषु ज्ञानिनो न भवन्ति ते ॥ १४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४०</summary>
+
+140\. ulakattōṭu oṭṭa oḻukal, pala kaṟṟum,  
+kallār aṟivilātār.
+
+140\. Those who cannot move in harmony with the world are learned fools.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४०</summary>
+
+140\. ulakattōṭu oṭṭa oḻukal, pala kaṟṟum,  
+kallār aṟivilātār.
+
+140\. Those who cannot move in harmony with the world are learned fools.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १४०</summary>
@@ -3712,6 +4959,14 @@ Whose life is not world-accordant.         140
 धर्मार्थशास्त्र तत्त्वज्ञा ये भवन्ति महीतले ॥ १४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १४१</summary>
+
+141\. piṟaṉ poruḷāḷ-peṭṭu oḻukum pētaimai ñālattu  
+aṟam, poruḷ, kaṇṭārkaṇ il.
+
+141\. The folly of intriguing with another’s wife is not found in one versed in the laws of truth and wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १४१</summary>
 
 1\. பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்து  
@@ -3736,6 +4991,14 @@ After other's wife do not stray.         141
 
 परपत्नीलम्पटनां मध्ये मृढतमो हि सः ।  
 परदार गृहद्वारे कामार्तो यः प्रतीक्षते ॥ १४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४२</summary>
+
+142\. aṟaṉkaṭai niṉṟāruḷ ellām, piṟaṉkaṭai  
+niṉṟāriṉ, pētaiyār il.
+
+142\. Among those who walk in the ways of sin, the most foolish are those who stand at the entrance of another’s (house).  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १४२</summary>
@@ -3764,6 +5027,14 @@ Who haunts around his neighbour's door.         142
 विश्वस्तसुहृदः पत्नीं यो भोक्तुमभिवाञ्छति ॥ १४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १४३</summary>
+
+143\. viḷintāriṉ vēṟu allar maṉṟa-teḷintār il  
+tīmai purintu oḻukuvār.
+
+143\. They are as good as dead who misbehave towards the wives of their confiding friends.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १४३</summary>
 
 3\. விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்  
@@ -3788,6 +5059,14 @@ And put faithful friends' wives to shame.         143
 
 पापं किञ्चिदनालोच्य परनारीरतात्मनः ।  
 किमन्यै र्विभवैः पूणैंः स दुःखान्न विमुच्यते ॥ १४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४४</summary>
+
+144\. eṉait tuṇaiyar āyiṉum eṉṉām-tiṉait tuṇaiyum  
+tērāṉ, piṟaṉ il pukala?.
+
+144\. What avails one’s greatness if one desecrates the sanctity of the house of another reckless of the consequences.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १४४</summary>
@@ -3816,6 +5095,14 @@ When to another's wife they cling.         144
 अपवादं स्थिरं धत्ते गर्हितं तत्कुलं भवेत् ॥ १४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १४५</summary>
+
+145\. 'eḷitu' eṉa il iṟappāṉ eytum-eñ ñāṉṟum  
+viḷiyātu niṟkum paḻi.
+
+145\. He who invades (easily) the house of another thinking it a mere trifie will incur eternal infamy.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १४५</summary>
 
 5\. எளிதுஎன இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
@@ -3840,6 +5127,14 @@ His guilty stain will last for life.         145
 
 अपवादो भयं पापं द्वेषश्चेति चतुर्विधाः ।  
 दोषा नैनं विमुञ्चन्ति योऽन्यभार्यां निषेवते ॥ १४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४६</summary>
+
+146\. pakai, pāvam, accam, paḻi eṉa nāṉkum  
+ikavā ām-il iṟappāṉkaṇ.
+
+146\. Four evils, enmity, sin, fear and disgrace dog one who covets another’s wife.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १४६</summary>
@@ -3868,6 +5163,14 @@ Stain adulterers ever more.         146
 अन्यदीयेषु दारेषु मतिरेव न जायते ॥ १४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १४७</summary>
+
+147\. aṟaṉ iyalāṉ ilvāḻvāṉ eṉpāṉ-piṟaṉ iyalāḷ  
+peṇmai nayavātavaṉ.
+
+147\. He is a true householder who does not love another man’s wife.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १४७</summary>
 
 7\. அறனியலான் இல்வாழ்வான் என்பான் பிறனியலான்  
@@ -3892,6 +5195,14 @@ His neighbour's wife who covets never.         147
 
 परस्त्रीदर्शने चित्तदाढर्थे यद्रू विद्यते सताम् ।  
 नेदं तेषां धर्ममात्रं पूर्णाचारोऽपि स स्मृतः ॥ १४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४८</summary>
+
+148\. piṟaṉ maṉai nōkkāta pēr āṇmai, cāṉṟōrkku  
+aṟaṉ oṉṟō?āṉṟa oḻukku.
+
+148\. The heroic manhood that does not lust after another’s wife is to the wise not mere virtue but the very law of their being.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १४८</summary>
@@ -3920,6 +5231,14 @@ The pure who eye not another's wife.         148
 पराङ्गनापरिष्वङ्गं कामार्ता ये न कुर्वते ॥ १४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १४९</summary>
+
+149\. 'nalakku uriyār yār?' eṉiṉ, nāma nīr vaippil  
+piṟaṟku uriyāḷ tōḷ tōyātār.
+
+149\. Verily he is a gentleman on this sea-girt earth who is free from the sin of adultery.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १४९</summary>
 
 9\. நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்  
@@ -3944,6 +5263,23 @@ Who clasp not arms of another's spouse.         149
 
 त्यक्त्वा धर्म मधर्मणां कर्ता चापि विशेषतः ।  
 श्लाघ्य एव भवेदत्र परस्त्रीविमुखो यदि ॥ १५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५०</summary>
+
+150\. aṟaṉ varaiyāṉ, alla ceyiṉum, piṟaṉ varaiyāḷ  
+peṇmai nayavāmai naṉṟu.
+
+150\. One may be guilty of any other sins; let one be free from adultery.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५०</summary>
+
+150\. aṟaṉ varaiyāṉ, alla ceyiṉum, piṟaṉ varaiyāḷ  
+peṇmai nayavāmai naṉṟu.
+
+150\. One may be guilty of any other sins; let one be free from adultery.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १५०</summary>
@@ -3974,6 +5310,14 @@ Lust not for another's wife at least.         150
 स्वापराधिषु या क्षान्तिः स धर्मः परमो नृणाम् ॥ १५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १५१</summary>
+
+151\. akaḻvārait tāṅkum nilam pōla, tammai  
+ikaḻvārp poṟuttal talai.
+
+151\. The earth sustains even those who dig into her. To bear with those who slander us is the crown of virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १५१</summary>
 
 1\. அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை  
@@ -3998,6 +5342,14 @@ To bear revilers is prime virtue.         151
 
 अपकारः परकृतः सोढव्यः सर्वदा नरैः ।  
 विस्मर्ता त्वपकारणां ततो भुवि महीयते ॥ १५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५२</summary>
+
+152\. poṟuttal, iṟappiṉai eṉṟum; ataṉai  
+maṟattal ataṉiṉum naṉṟu.
+
+152\. Put up always with one’s transgressions. Far greater than one’s forbearance is one’s oblivion of them.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १५२</summary>
@@ -4026,6 +5378,14 @@ Better it is to forget it.         152
 मूढनिन्दा सहिष्णुस्तु समर्थेषूत्तमो भवेत् ॥ १५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १५३</summary>
+
+153\. iṉmaiyuḷ iṉmai viruntu orāl; vaṉmaiyuḷ  
+vaṉmai maṭavārp poṟai.
+
+153\. Poverty within poverty is denying hospitality to guests; grace within grace is bearing with the foolish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १५३</summary>
 
 3\. இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்  
@@ -4050,6 +5410,14 @@ To bear with fools is strength of strength.         153
 
 आत्मनो गुणसम्पत्त्या विख्यातिं यश्चिकीर्षति ।  
 तेन क्षमावता भाव्यमपराधिजनेष्वपि ॥ १५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५४</summary>
+
+154\. niṟai uṭaimai nīṅkāmai vēṇṭiṉ, poṟai uṭaimai  
+pōṟṟi oḻukappaṭum.
+
+154\. If one wishes to maintain character one’s conduct must be marked by patience.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १५४</summary>
@@ -4078,6 +5446,14 @@ Retains intact integrity.         154
 अरिष्वपि क्षमावन्तं स्वर्णवत् हृदि कुर्वते ॥ १५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १५५</summary>
+
+155\. oṟuttārai oṉṟāka vaiyārē; vaippar,  
+poṟuttāraip poṉpōl potintu.
+
+155\. The world takes no note of the avenger but it esteems the patient like gold.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १५५</summary>
 
 5\. ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்  
@@ -4102,6 +5478,14 @@ Patience is praised as hidden gold.         155
 
 विरोधिष्वपकर्तृणां तिष्ठेदेकदिनं सुखम् ।  
 परद्रोहसहिष्णूनं यावज्जीवं भवद्यशः ॥ १५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५६</summary>
+
+156\. oṟuttārkku oru nāḷai iṉpam; poṟuttārkkup  
+poṉṟum tuṇaiyum pukaḻ.
+
+156\. The delight of the avenger is for a day. The joy of the forbearing lasts till the end of the earth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १५६</summary>
@@ -4130,6 +5514,14 @@ Patience carries its praise for aye.         156
 अधर्माचरणाञ्चित्त निरोधो हि प्रशस्यते ॥ १५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १५७</summary>
+
+157\. tiṟaṉ alla taṉ-piṟar ceyyiṉum, nō nontu,  
+aṟaṉ alla ceyyāmai naṉṟu.
+
+157\. Resist not a wrong however grievous but forgive out of pity other’s transgressions.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १५७</summary>
 
 7\. திறனல்ல தற்பிறர் செய்யினும் நோநொந்து  
@@ -4154,6 +5546,14 @@ Grieve not; from unjust harm refrain.         157
 
 कुर्वतामात्मनो द्रोहं मनोऽहङ्कार करणात् ।  
 अकृत्वैव प्रतीकारं जेतव्याः क्षमयैव ते ॥ १५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५८</summary>
+
+158\. mikutiyāṉ mikkavai ceytārait tām tam  
+takutiyāṉ veṉṟuviṭal!.
+
+158\. Conquer with forbearance one who has done you harm in one’s insolent pride.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १५८</summary>
@@ -4182,6 +5582,14 @@ The proud that have caused you anguish.         158
 क्षमया ये सहन्तेऽत्र शुद्धास्ते मुनिभिः समाः ॥ १५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १५९</summary>
+
+159\. tuṟantāriṉ tūymai uṭaiyar-iṟantārvāy  
+iṉṉāc col nōṟkiṟpavar.
+
+159\. Greater than an ascetic is one who endures the insolent words of the transgressor.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १५९</summary>
 
 9\. துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய்  
@@ -4206,6 +5614,23 @@ Who bitter tongues meekly endure.         159
 
 महानेव स मन्तव्यः विनाऽन्नं यस्तपस्यति ।  
 परनिन्दासहिष्णुस्तु ततोऽपि स्यान्महत्तरः ॥ १६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६०</summary>
+
+160\. uṇṇātu nōṟpār periyar-piṟar collum  
+iṉṉāc col nōṟpāriṉ piṉ.
+
+160\. Great are those who fast and do penance but greater than they are those who put up with insults.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६०</summary>
+
+160\. uṇṇātu nōṟpār periyar-piṟar collum  
+iṉṉāc col nōṟpāriṉ piṉ.
+
+160\. Great are those who fast and do penance but greater than they are those who put up with insults.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १६०</summary>
@@ -4236,6 +5661,14 @@ Greater are they who bear offence.         160
 अनसूया रक्षणीया सदाचारसमा सदा ॥ १६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १६१</summary>
+
+161\. oḻukku āṟāk koḷka-oruvaṉ taṉ neñcattu  
+aḻukkāṟu ilāta iyalpu.
+
+161\. Let no one have envy; for freedom from envy must be one’s virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १६१</summary>
 
 1\. ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்து  
@@ -4260,6 +5693,14 @@ When your nature is not jealous.         161
 
 असूया यस्य न भवेत् सर्वदा सर्वजन्तुषु ।  
 स एव भग्यवान् लोके सर्वभाग्येषु तद्वरम् ॥ १६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६२</summary>
+
+162\. viḻup pēṟṟiṉ aḵtu oppatu illai-yārmāṭṭum  
+aḻukkāṟṟiṉ aṉmai peṟiṉ.
+
+162\. Envy none; there is no other possession greater than one’s freedom from it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १६२</summary>
@@ -4288,6 +5729,14 @@ That by nature envies none.         162
 इह वित्तं परे पुण्यमुभयं तस्य हीयते ॥ १६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १६३</summary>
+
+163\. aṟaṉ, ākkam, vēṇṭātāṉ eṉpāṉ piṟaṉ ākkam  
+pēṇātu aḻukkaṟuppāṉ.
+
+163\. He who envies other’s riches neither loves virtue nor wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १६३</summary>
 
 3\. அறன்ஆக்கம் வேண்டாதான் என்பான் பிறனாக்கம்  
@@ -4312,6 +5761,14 @@ Can't prosper in virtue of his own.         163
 
 असूयया भवेद्दुःखमिति मत्वा मनीषिणः ।  
 अधर्मे नैव कुर्वन्ति ह्यसूयावशमागताः ॥ १६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६४</summary>
+
+164\. aḻukkāṟṟiṉ allavai ceyyār-iḻukku āṟṟiṉ  
+ētam paṭupākku aṟintu.
+
+164\. The wise do not commit any wrong out of envy; for, they know the evils that spring from it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १६४</summary>
@@ -4340,6 +5797,14 @@ Knowing that woes from evils throng.         164
 रिपौ कदाचिच्छान्तेऽपि नूनं सा कुरुते व्यथाम् ॥ १६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १६५</summary>
+
+165\. aḻukkāṟu uṭaiyārkku atu cālum- oṉṉār  
+vaḻukkiyum kēṭu īṉpatu.
+
+165\. The envious need no enemies to work their own ruin; for they find in their envy their sufficient foe.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १६५</summary>
 
 5\. அழுக்காற உடையார்க்கு அதுசாலும் ஒன்னார்  
@@ -4364,6 +5829,14 @@ Even if enemies spare him.         165
 
 यो वै न सहतेऽन्यस्य विभवं समुपागतम् ।  
 बन्धवास्तस्य नश्यन्ति वस्त्राहारविवर्जिताः ॥ १६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६६</summary>
+
+166\. koṭuppatu aḻukkaṟuppāṉ cuṟṟam uṭuppatūum  
+uṇpatūum iṉṟik keṭum.
+
+166\. The envious that stand in the way of charity perish with their kith and kin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १६६</summary>
@@ -4392,6 +5865,14 @@ Without food and clothes with his kin.         166
 ददाति तस्य दारिद्र्यं स्वयं चापि विमुञ्चति ॥ १६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १६७</summary>
+
+167\. avvittu aḻukkāṟu uṭaiyāṉaic ceyyavaḷ  
+tavvaiyaik kāṭṭi viṭum.
+
+167\. Fortune forsakes the envious to her elder sister.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १६७</summary>
 
 7\. அவ்வித்து அழுக்காறு உடையானைச் செய்யவள்  
@@ -4416,6 +5897,14 @@ Leaving misfortune omnious.         167
 
 असूयया समः पापी विद्यते नैव भूतले ।  
 भाग्यं सर्वे नाशयित्वा कुपथे च नयेन्नरम् ॥ १६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६८</summary>
+
+168\. aḻukkāṟu eṉa oru pāvi tiruc ceṟṟu,  
+tīyuḻi uyttuviṭum.
+
+168\. Envy is a deadly sin. It blights one’s fortune and casts one into hell.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १६८</summary>
@@ -4444,6 +5933,14 @@ And drags one into evil path.         168
 यदि स्यात् कारणं तत्र कि स्यादिति विचार्यताम् ॥ १६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १६९</summary>
+
+169\. avviya neñcattāṉ ākkamum, cevviyāṉ  
+kēṭum, niṉaikkappaṭum.
+
+169\. The prosperity of the envious and the adversity of the virtuous afford food for reflection.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १६९</summary>
 
 9\. அவ்விய நெஞ்சத்தான் ஆக்கமுஞ் செவ்வியான்  
@@ -4468,6 +5965,23 @@ People with surprise think over.         169
 
 असूयावान्नरो लोके न प्राप्नोति समुन्नतिम् ।  
 असूयया विरहितं न जहात्युन्नतिर्नरम् ॥ १७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७०</summary>
+
+170\. aḻukkaṟṟu akaṉṟārum illai; aḵtu illār  
+perukkattiṉ tīrntārum il.
+
+170\. Envy never thrives; fortune never forsakes one who is free from it.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७०</summary>
+
+170\. aḻukkaṟṟu akaṉṟārum illai; aḵtu illār  
+perukkattiṉ tīrntārum il.
+
+170\. Envy never thrives; fortune never forsakes one who is free from it.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १७०</summary>
@@ -4498,6 +6012,14 @@ The envyless prosper ever.         170
 कुलनाशं स भजते दोषा अपि भजन्ति तम् ॥ १७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १७१</summary>
+
+171\. naṭuvu iṉṟi naṉ poruḷ veḵkiṉ, kuṭi poṉṟi,  
+kuṟṟamum āṅkē tarum.
+
+171\. Iniquitous coveting of wealth results in the ruin of one's home and brings in its train many sins.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १७१</summary>
 
 1\. நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக்  
@@ -4522,6 +6044,14 @@ That greed ruins his house forthwith.         171
 
 अन्यायाल्लज्जिता मर्त्या लोभेन परवस्तुषु ।  
 स्वल्पलाभमभीप्सन्तः निषिद्धं नैव कुर्वते ॥ १७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७२</summary>
+
+172\. paṭu payaṉ veḵki, paḻippaṭuva ceyyār-  
+naṭuvu aṉmai nāṇupavar.
+
+172\. Those who stand for equity do not commit sinful acts through covetousness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १७२</summary>
@@ -4550,6 +6080,14 @@ From coveting which brings ruin.         172
 अल्पसौख्यात् न ते कुर्युः लोभमन्येष्वधार्मिकम् ॥ १७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १७३</summary>
+
+173\. ciṟṟiṉpam veḵki, aṟaṉ alla ceyyārē-  
+maṟṟu iṉpam vēṇṭupavar.
+
+173\. Those who seek eternal happiness will never commit unrighteous acts through love of low pleasures.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १७३</summary>
 
 3\. சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே  
@@ -4574,6 +6112,14 @@ For fleeting joy commit no wrong.         173
 
 जित्वा पञ्चेन्द्रियग्रामं तत्त्वज्ञानसमन्विताः ।  
 ज्ञात्वापि स्वक दारिद्र्यमलुब्धाः परवस्तुषु ॥ १७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७४</summary>
+
+174\. 'ilam' eṉṟu veḵkutal ceyyār-pulam veṉṟa  
+puṉmai il kāṭciyavar.
+
+174\. The spotless wise who have conquered their senses though destitute, will not covet other’s wealth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १७४</summary>
@@ -4602,6 +6148,14 @@ Though in want covet not at all.         174
 सूक्ष्मेण शास्त्रज्ञानेन विद्यते किं प्रयोजनम् ॥ १७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १७५</summary>
+
+175\. aḵki akaṉṟa aṟivu eṉ ām-yārmāṭṭum  
+veḵki, veṟiya ceyiṉ?.
+
+175\. Of what avail is one’s keen and penetrating intellect if one through covetousness acts foolishly?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १७५</summary>
 
 5\. அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்  
@@ -4626,6 +6180,14 @@ If it deals ill with all on earth.         175
 
 सर्वभूतदयापूर्वे गार्हस्थ्यमनुतिष्ठतः ।  
 परवस्तुप्रलोभेन गार्हस्थ्यमपि निष्फलम् ॥ १७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७६</summary>
+
+176\. aruḷ veḵki, āṟṟiṉkaṇ niṉṟāṉ, poruḷ veḵkip  
+pollāta cūḻa, keṭum.
+
+176\. Even he who treads the path of grace comes to ruin through covetous intentions.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १७६</summary>
@@ -4654,6 +6216,14 @@ Suffers by evil covetous wealth.         176
 फलप्रदानवेलायां न तच्छ्रेयः प्रदास्यति ॥ १७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १७७</summary>
+
+177\. vēṇṭaṟka, veḵki ām ākkam-viḷaivayiṉ  
+māṇṭaṟku aritu ām payaṉ!.
+
+177\. Covet not other’s wealth for out of covetousness spring evils.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १७७</summary>
 
 7\. வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின்  
@@ -4678,6 +6248,14 @@ All its yield is inglorious.         177
 
 योऽन्यदीयं वस्तुजातमपहर्तु न काङ्क्षति ।  
 न क्षीयते तस्य भाग्यं भूय एवाभिवर्धते ॥ १७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७८</summary>
+
+178\. 'aḵkāmai celvattiṟku yātu?' eṉiṉ, veḵkāmai  
+vēṇṭum piṟaṉ kaip poruḷ.
+
+178\. Preservation of one’s property lies through one’s freedom from covetousness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १७८</summary>
@@ -4706,6 +6284,14 @@ By not coveting others' own.         178
 तानू वासयोग्यान् विज्ञाय तेष्वेव रमते रमा ॥ १७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १७९</summary>
+
+179\. aṟaṉ aṟintu veḵkā aṟivu uṭaiyārc cērum-  
+tiṟaṉ aṟintu āṅkē tiru.
+
+179\. The wise who know what is righteous covet not; the Goddess of Fortune would seek them unbidden.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १७९</summary>
 
 9\. அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்  
@@ -4730,6 +6316,23 @@ Who are free from coveting vice.         179
 
 परिणाममनालोच्य परलुब्धो विनश्यति ।  
 अलुब्धो यस्तु वर्तेत राजते स जयी भुवि ॥ १८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८०</summary>
+
+180\. iṟal īṉum, eṇṇātu veḵkiṉ; viṟal īṉum,  
+vēṇṭāmai eṉṉum cerukku.
+
+180\. A blind covetousness brings about one’s ruin. Freedom from it begets one’s triumph.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८०</summary>
+
+180\. iṟal īṉum, eṇṇātu veḵkiṉ; viṟal īṉum,  
+vēṇṭāmai eṉṉum cerukku.
+
+180\. A blind covetousness brings about one’s ruin. Freedom from it begets one’s triumph.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १८०</summary>
@@ -4760,6 +6363,14 @@ Coveting misers ruined fall.         180
 परोक्षनिन्दादोषेण रहितश्चेत् प्रशस्यते ॥ १८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १८१</summary>
+
+181\. aṟam kūṟāṉ, alla ceyiṉum, oruvaṉ  
+puṟam kūṟāṉ eṉṟal iṉitu.
+
+181\. One may be guilty of wrongful deeds, but let not one be guilty of slander.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १८१</summary>
 
 1\. அறங்கூறான் அல்ல செயினும் ஒருவன்  
@@ -4784,6 +6395,14 @@ To keep from slander brings him praise.         181
 
 परोक्षे दूषयित्वा या प्रत्यक्षे कपटस्तुतिः ।  
 धर्महानेरधर्मस्य करणात् पापदैव सा ॥ १८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८२</summary>
+
+182\. aṟaṉ aḻīi allavai ceytaliṉ tītē-  
+puṟaṉ aḻīip poyttu nakai.
+
+182\. More heinous than sin is the deceitful smile of a slanderer.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १८२</summary>
@@ -4812,6 +6431,14 @@ Are worse than open traitors vile.         182
 ततोऽपि धर्मन्नष्टस्य शास्त्रोक्ता सद्नतिर्भवेत् ॥ १८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १८३</summary>
+
+183\. puṟam kūṟi, poyttu, uyir vāḻtaliṉ, cātal  
+aṟam kūṟum ākkam tarum.
+
+183\. Prefer death to a life of slander; for one finds in it the fruit of one’s virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १८३</summary>
 
 3\. புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல்  
@@ -4836,6 +6463,14 @@ Than live to backbite and to lie.         183
 
 प्रत्यक्षे दूष्यतां सम्यक् विना दाक्षिण्यमेव वा ।  
 परिणाममनालोच्य परोक्षे न तु दूषयेत् ॥ १८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८४</summary>
+
+184\. kaṇ niṉṟu, kaṇ aṟac colliṉum, collaṟka-  
+muṉ iṉṟu piṉ nōkkāc col.
+
+184\. Talk your bitterest to one’s face but abstain from wanton slander.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १८४</summary>
@@ -4864,6 +6499,14 @@ Abuse is worse in his absence.         184
 इत्येव स हि मन्तव्यः परोक्षे यस्तु निन्दति ॥ १८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १८५</summary>
+
+185\. aṟam collum neñcattāṉ aṉmai puṟam collum  
+puṉmaiyāl kāṇappaṭum.
+
+185\. The tongue of the base slanderer that talks of virtue belies his heart.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १८५</summary>
 
 5\. அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்  
@@ -4888,6 +6531,14 @@ His praise of virtue is in vain.         185
 
 यो निन्दति परोक्षेऽन्यं तत्कृतेषु बहुष्वपि ।  
 दोषेषु सारमन्विष्य तमन्यो दूषयेतुरः ॥ १८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८६</summary>
+
+186\. piṟaṉ paḻi kūṟuvāṉ taṉ paḻiyuḷḷum  
+tiṟaṉ terintu kūṟappaṭum.
+
+186\. Ye scandal-mongers, beware of your being scandalized.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १८६</summary>
@@ -4916,6 +6567,14 @@ Who makes another's failings known.         186
 परोक्षनिन्दकस्यास्य भजेन्मित्रममित्रताम् ॥ १८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १८७</summary>
+
+187\. pakac collik kēḷirp pirippar-nakac colli  
+naṭpu āṭal tēṟṟātavar.
+
+187\. Those who alienate friends by back-biting may have forgotten the art of making friends through suavity of speech.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १८७</summary>
 
 7\. பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி  
@@ -4940,6 +6599,14 @@ Sever their hearts by hostile trends.         187
 
 विश्वस्तमित्रदोषणां परोक्षे संप्रकाशकाः ।  
 उदासीन मनुष्येषु न कुर्युः किमिवाप्रियम् ॥ १८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८८</summary>
+
+188\. tuṉṉiyār kuṟṟamum tūṟṟum marapiṉār,  
+eṉṉaikol, ētilārmāṭṭu?.
+
+188\. Those who trumpet the faults of their closest friends, what would they not do in the case of strangers?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १८८</summary>
@@ -4968,6 +6635,14 @@ Who bring their friends' defects to view?         188
 परोक्षनिन्दासक्तस्य देहभारं विभर्ति किम्? ॥ १८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १८९</summary>
+
+189\. aṟaṉ nōkki āṟṟum kol vaiyam-puṟaṉ nōkkip  
+puṉ col uraippāṉ poṟai.
+
+189\. How the earth bears the heavy burden of one who scandalises others! Perhaps patience is her virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १८९</summary>
 
 9\. அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்  
@@ -4992,6 +6667,23 @@ Who rants behind words untoward         189
 
 परोक्षनिन्दकः स्वीयदोषान् अन्यकृतानिव ।  
 यदि जानाति तं नैव बाधन्ते दुःखराशयः ॥ १९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९०</summary>
+
+190\. ētilār kuṟṟampōl tam kuṟṟam kāṇkiṟpiṉ,  
+tītu uṇṭō, maṉṉum uyirakku?.
+
+190\. Will ever harm befall one who looks upon the faults of others as one’s own?
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९०</summary>
+
+190\. ētilār kuṟṟampōl tam kuṟṟam kāṇkiṟpiṉ,  
+tītu uṇṭō, maṉṉum uyirakku?.
+
+190\. Will ever harm befall one who looks upon the faults of others as one’s own?
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १९०</summary>
@@ -5022,6 +6714,14 @@ If each his own defect could scan.         190
 प्रयुङ्क्ते यः स सर्वेषां परीहास पदं भवेत् ॥ १९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १९१</summary>
+
+191\. pallār muṉiyap payaṉ ila colluvāṉ  
+ellārum eḷḷappaṭum.
+
+191\. He who revels in frivolous talk will be despised by all.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १९१</summary>
 
 1\. பல்லார் முனியப் பயனில சொல்லுவான்  
@@ -5046,6 +6746,14 @@ Is held in contempt as banal.         191
 
 मित्रेष्वनिष्टकरणादपि पण्डित मण्डले ।  
 वृथाप्रलापो विज्ञेयो महानिष्टफलप्रदः ॥ १९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९२</summary>
+
+192\. payaṉ ila pallārmuṉ collal, nayaṉ ila  
+naṭṭārkaṇ ceytaliṉ tītu.
+
+192\. To talk frivolously in the presence of many is worse than an unjust act towards friends.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १९२</summary>
@@ -5074,6 +6782,14 @@ Than doing to friends deeds adverse.         192
 निरर्थकानि वाक्यानि ब्रूते यस्तु विशेषतः ॥ १९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १९३</summary>
+
+193\. nayaṉ ilaṉ eṉpatu collum-payaṉ ila  
+pārittu uraikkum urai.
+
+193\. Indulgence in useless words at once betrays one’s lack of probity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १९३</summary>
 
 3\. நயனிலன் என்பது சொல்லும் பயனில  
@@ -5098,6 +6814,14 @@ That "good-for-nothing" is his name.         193
 
 हीनमर्थगुणाभ्यां यत् वाक्यं सर्वत्र कथ्यते ।  
 नीत्या विरहितं तत्तु नाशयेत् सद्गुणानपि ॥ १९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९४</summary>
+
+194\. nayaṉ cārā naṉmaiyiṉ nīkkum-payaṉ cārāp  
+paṇpu il col pallārakattu.
+
+194\. Uttering empty words before all deprives one of one’s sense of justice and mars one’s noble qualities.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १९४</summary>
@@ -5126,6 +6850,14 @@ Will make all gains and goodness flee.         194
 तदा कीर्तिप्रतिष्ठाभ्याम्भवन्ति रहिता अमी ॥ १९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १९५</summary>
+
+195\. cīrmai ciṟappoṭu nīṅkum-payaṉ ila  
+nīrmai uṭaiyār coliṉ.
+
+195\. If good-natured men speak profitless words, their greatness and glory will disappear.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १९५</summary>
 
 5\. சீர்மை சிறப்பொடு நீங்கும் பயனில  
@@ -5150,6 +6882,14 @@ When savants silly nonsense say.         195
 
 निरर्थकानां वाक्यानां प्रयोक्ता यः पुनः पुनः ।  
 न नरः स हि मन्तव्यो ऋजीषं स्यान्नरेष्वयम् ॥ १९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९६</summary>
+
+196\. payaṉ il col pārāṭṭuvāṉai makaṉ eṉal!  
+makkaṭ pataṭi eṉal!.
+
+196\. He is not a man but the chaff among men, who indulges in vain words.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १९६</summary>
@@ -5178,6 +6918,14 @@ Himself in weightless idle words.         196
 अप्रयोजकवाक्यानि वर्जनीयानि तैरपि ॥ १९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १९७</summary>
+
+197\. nayaṉ ila colliṉum colluka! cāṉṟōr  
+payaṉ ila collāmai naṉṟu.
+
+197\. Let great men speak untruth; it is better they refrain from uttering useless words.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १९७</summary>
 
 7\. நயனில சொல்லினுஞ் சொல்லுக சான்றோர்  
@@ -5202,6 +6950,14 @@ Even if they would roughly speak.         197
 
 मोक्षाद्युत्तमलाभार्थे मीमांसन्ते मिथस्तु ये ।  
 अल्पलाभकरं वाक्यं न ते ब्रूयुर्मनीषिणः ॥ १९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९८</summary>
+
+198\. arum payaṉ āyum aṟiviṉār collār-  
+perum payaṉ illāta col.
+
+198\. Men of great discernment will never speak words devoid of great import.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १९८</summary>
@@ -5230,6 +6986,14 @@ From words that have no grain and brain.         198
 विस्मृत्याप्यर्थविधुरं वाक्यं नैव प्रयुञ्जते ॥ १९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १९९</summary>
+
+199\. poruḷ tīrnta poccāntum collār-maruḷ tīrnta  
+mācu aṟu kāṭciyavar.
+
+199\. Men of unclouded wisdom never utter nonsense even in a forgetful mood.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १९९</summary>
 
 9\. பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த  
@@ -5254,6 +7018,23 @@ Slip not to silly words-mention.         199
 
 वाच्यं तदेव वाक्येषु यल्लाभजनकं वचः ।  
 त्याज्यं तदेव वाक्येषु यल्लाभरहितं वचः ॥ २००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २००</summary>
+
+200\. colluka, collil payaṉ uṭaiya! collaṟka,  
+collil payaṉ ilāc col!.
+
+200\. Speak profitable words; avoid nonsense.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २००</summary>
+
+200\. colluka, collil payaṉ uṭaiya! collaṟka,  
+collil payaṉ ilāc col!.
+
+200\. Speak profitable words; avoid nonsense.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २००</summary>
@@ -5284,6 +7065,14 @@ And never indulge in useless load.         200
 सत्कर्मनिरता सन्त पापाद्विभ्यति सर्वदा ॥ २०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २०१</summary>
+
+201\. tīviṉaiyār añcār; viḻumiyār añcuvar-  
+tīviṉai eṉṉum cerukku.
+
+201\. Men hardened in sins do not fear evil; but the good dread it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २०१</summary>
 
 1\. தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்  
@@ -5308,6 +7097,14 @@ The worthy dread the ill within.        201
 
 दुष्कर्मणा दुःखमेव यस्मादुत्पद्यते ततः ।  
 वह्नेरप्यधिक मत्वा मेतव्यं दुष्टकर्मणः ॥ २०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०२</summary>
+
+202\. tīyavai tīya payattalāṉ, tīyavai  
+tīyiṉum añcappaṭum.
+
+202\. Evil is to be dreaded more than fire; for it lands one in disaster.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २०२</summary>
@@ -5336,6 +7133,14 @@ Fear ye evil more than fire.        202
 दुःखानुत्पादबुद्धिर्या स्वापराधिजनेष्वपि ॥ २०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २०३</summary>
+
+203\. aṟiviṉuḷ ellām talai eṉpa-tīya  
+ceṟuvārkkum ceyyā viṭal.
+
+203\. Not to return evil to those who do evil unto you, is, they say, the crown of wisdom.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २०३</summary>
 
 3\. அறிவினுள் எல்லாந் தலையென்ப தீய  
@@ -5360,6 +7165,14 @@ Who injure not even their foes.        203
 
 परदुःखप्रदं कर्म प्रमादेनापि न स्मरेत् ।  
 अन्यथा स्मरतोऽस्यैव धर्मो नाशं विचिन्तयेत् ॥ २०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०४</summary>
+
+204\. maṟantum piṟaṉ kēṭu cūḻaṟka! cūḻiṉ,  
+aṟam cūḻum, cūḻntavaṉ kēṭu.
+
+204\. Let none plot evil to others even in forgetfulness. If he does so, the God of Righteousness will compass his ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २०४</summary>
@@ -5388,6 +7201,14 @@ The ruin of another man's.        204
 न चेत् दरिद्र एव स्यात् भाविजन्मसु सप्तसु ॥ २०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २०५</summary>
+
+205\. 'ilaṉ' eṉṟu tīyavai ceyyaṟka! ceyyiṉ,  
+ilaṉ ākum, maṟṟum peyarttu.
+
+205\. Let none do wrong on account of poverty; if he does so he becomes poorer still.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २०५</summary>
 
 5\. இலன்என்று தீயவை செய்யற்க செய்யின்  
@@ -5412,6 +7233,14 @@ Shall reduce himself poorer still.        205
 
 ''स्वकृतं दुष्कृतं स्वस्य भाविदुःखप्रदायकम्'' ।  
 इति चिन्तयताऽन्येषां न कार्या दुष्कृतिः सदा ॥ २०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०६</summary>
+
+206\. tīp pāla tāṉ piṟarkaṇ ceyyaṟka-nōyp pāla  
+taṉṉai aṭal vēṇṭātāṉ!.
+
+206\. Let not one do evil unto others, if one wants to be free from affliction.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २०६</summary>
@@ -5440,6 +7269,14 @@ Who would from harm himself remain.        206
 दुष्कर्मनामा शत्रुस्तु बाधते भाविजन्मसु ॥ २०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २०७</summary>
+
+207\. eṉaip pakai uṟṟārum uyvar; viṉaip pakai  
+vīyātu, piṉ ceṉṟu, aṭum.
+
+207\. You may escape your enemies but your evil follows you and hunts you down relentlessly.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २०७</summary>
 
 7\. எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை  
@@ -5464,6 +7301,14 @@ But sin its deadly blow will give.        207
 
 नरच्छाया यथा तस्य पादाभ्यां सह गच्छति ।  
 प्रतिजन्म तथा यान्ती दुष्कृतिर्बाधते नरम् ॥ २०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०८</summary>
+
+208\. tīyavai ceytār keṭutal niḻal taṉṉai  
+vīyātu aṭi uṟaintaṟṟu.
+
+208\. Evil dogs you close on your heels like a shadow.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २०८</summary>
@@ -5492,6 +7337,14 @@ As shadow follows as they go.        208
 ईषदप्यत्र दुष्कर्म न कुर्यात् स परस्य तु ॥ २०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २०९</summary>
+
+209\. taṉṉait tāṉ kātalaṉ āyiṉ, eṉaittu oṉṟum  
+tuṉṉaṟka, tīviṉaip pāl!.
+
+209\. If one really loves oneself let one not do any harm to others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २०९</summary>
 
 9\. தன்னைத்தான் காதல னாயின் எனைத்தொன்றும்  
@@ -5516,6 +7369,23 @@ Think of evil however small.        209
 
 अधर्मेण पथा गच्छन् अन्येभ्यो दुष्कृति नरः ।  
 यदि कश्चिन्न कुरुते तं दुःखं दूरतस्त्यजेत् ॥ २१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१०</summary>
+
+210\. aruṅ kēṭaṉ eṉpatu aṟika-maruṅku ōṭit  
+tīviṉai ceyyāṉ eṉiṉ?.
+
+210\. Hardly doth sorrow befall one who does not deviate from right.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१०</summary>
+
+210\. aruṅ kēṭaṉ eṉpatu aṟika-maruṅku ōṭit  
+tīviṉai ceyyāṉ eṉiṉ?.
+
+210\. Hardly doth sorrow befall one who does not deviate from right.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २१०</summary>
@@ -5546,6 +7416,14 @@ Who slips not right path to do evils.        210
 मेघतुल्या महान्तोऽपि निष्काममुपकुर्वते ॥ २११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २११</summary>
+
+211\. kaimmāṟu vēṇṭā kaṭappāṭu; mārimāṭṭu  
+eṉ āṟṟum kollō, ulaku?.
+
+211\. Do not expect any return for the services (duty) done. What does the world give in exchange for the clouds that pour rain?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २११</summary>
 
 1\. கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு  
@@ -5570,6 +7448,14 @@ How can the world recompense rain?        211
 
 लोकोपकर्तृभिर्वित्तं प्रयत्नात् समुपार्जितम् ।  
 सत्पात्रे दीयमानं सत् प्रयोजनकरं भवेत् ॥ २१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१२</summary>
+
+212\. tāḷ āṟṟit tanta poruḷ ellām takkārkku  
+vēḷāṇmai ceytaṟporuṭṭu.
+
+212\. All the wealth one earns is for rendering help to the deserving.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २१२</summary>
@@ -5598,6 +7484,14 @@ Is meant to serve those who deserve.        212
 सत्कार्यमुत्तमं नास्ति स्वर्गे वा भूतलेऽपि वा ॥ २१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २१३</summary>
+
+213\. puttēḷ ulakattum, īṇṭum, peṟal aritē-  
+oppuraviṉ nalla piṟa.
+
+213\. Is there anything greater than decorum either here or in the world to come?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २१३</summary>
 
 3\. புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே  
@@ -5622,6 +7516,14 @@ A greater good than being kind.        213
 
 लोकनामुपकर्ता यः शिष्टाचारपरायणः ।  
 स जीवति शरीरेण मृतप्रायो नरोऽपरः ॥ २१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१४</summary>
+
+214\. ottatu aṟivāṉ uyir vāḻvāṉ; maṟṟaiyāṉ  
+cettāruḷ vaikkappaṭum.
+
+214\. Verily he is alive who is in harmony with the world; others should be ranked with the dead.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २१४</summary>
@@ -5650,6 +7552,14 @@ Others are deemed as dead in fact.        214
 लोकोपकारिणो भाग्यं लोकसौख्यं प्रयच्छति ॥ २१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २१५</summary>
+
+215\. ūruṇi nīr niṟaintaṟṟē-ulaku avām  
+pēr aṟivāḷaṉ tiru.
+
+215\. The wealth of the wise is a never-failing spring.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २१५</summary>
 
 5\. ஊருணி நீர்நிறைந் தற்றே உலகவாம்  
@@ -5674,6 +7584,14 @@ Is like water that fills a lake.        215
 
 फलभारनतो वृक्षः प्राममध्यं गतो यथा ।  
 लोकोपकारी वित्ताढयस्तथा स्यादुपकारकः ॥ २१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१६</summary>
+
+216\. payaṉ maram uḷḷūrp paḻuttaṟṟāl-celvam  
+nayaṉ uṭaiyāṉkaṇ paṭiṉ.
+
+216\. The wealth of the truly liberal is like a tree ripening in the heart of a village.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २१६</summary>
@@ -5702,6 +7620,14 @@ Is like town-tree teeming with fruits.        216
 लोकोपकारिणो वित्तं तथा सर्वोपकारकम् ॥ २१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २१७</summary>
+
+217\. maruntu ākit tappā marattaṟṟāl-celvam  
+peruntakaiyāṉkaṇ paṭiṉ.
+
+217\. The wealth of the generous is like a healing medicinal tree.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २१७</summary>
 
 7\. மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்  
@@ -5726,6 +7652,14 @@ Is a herbal tree that healeth all.        217
 
 लोकोपकारमाहात्म्यं जानन्तो ज्ञानिसत्तमाः ।  
 स्वस्य दारिद्र्यकालेऽपि परेषामुपकर्वते ॥ २१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१८</summary>
+
+218\. iṭaṉ il paruvattum, oppuraviṟku olkār-  
+kaṭaṉ aṟi kāṭciyavar.
+
+218\. Even in poverty the truly discerning never ceases to be liberal.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २१८</summary>
@@ -5754,6 +7688,14 @@ Their sense of duty never strays.        218
 न शक्नोम्यधिकं दान्तु दारुद्र्ययेति यन्मतम् ॥ २१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २१९</summary>
+
+219\. nayaṉ uṭaiyāṉ nalkūrntāṉ ātal ceyum nīra  
+ceyyātu amaikalā āṟu.
+
+219\. The poverty of the liberal of heart is his failure in the offices of tenderness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २१९</summary>
 
 9\. நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீர  
@@ -5778,6 +7720,23 @@ Is want of means to give relief.        219
 
 लोकोपकारात् दारिद्र्यं जायेतेति वदेत् यदि ।  
 भप्यात्मविक्रयेणैतत् दारिद्र्यक्रयणं वरम् ॥ २२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२०</summary>
+
+220\. 'oppuraviṉāl varum, kēṭu' eṉiṉ, aḵtu oruvaṉ  
+viṟṟuk kōḷ takkatu uṭaittu.
+
+220\. The poverty that results from a just course of action is worth purchasing by going into the very bond of slavery.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२०</summary>
+
+220\. 'oppuraviṉāl varum, kēṭu' eṉiṉ, aḵtu oruvaṉ  
+viṟṟuk kōḷ takkatu uṭaittu.
+
+220\. The poverty that results from a just course of action is worth purchasing by going into the very bond of slavery.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २२०</summary>
@@ -5808,6 +7767,14 @@ Sell yourself to save that loss.        220
 इतराणि तु दानानि स्वार्थमूलानि केवलम् ॥ २२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २२१</summary>
+
+221\. vaṟiyārkku oṉṟu īvatē īkai; maṟṟu ellām  
+kuṟiyetirppai nīratu uṭaittu.
+
+221\. Gift to the poor alone is true charity. Everything else is of the nature of a barter.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २२१</summary>
 
 1\. வறியார்க்கொன்று ஈவதே ஈகைமற் றெல்லாம்  
@@ -5832,6 +7799,22 @@ The rest is loan and vanity.        221
 
 मोक्षलाभी भवेत् कामं याचनं न हि सम्मतम् ।  
 नरकेऽपि समायाते दानं सर्वात्मना वरम् ॥ २२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२२</summary>
+
+222\. 'nallāṟu' eṉiṉum, koḷal tītu; ‘mēl ulakam  
+il’ eṉiṉum, ītalē naṉṟu.
+
+222\. Receiving gifts is bad though one is assured of heaven. Bestowing gifts is good, though thereby one should be bereft of it.  
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२२</summary>
+
+222\. 'nallāṟu' eṉiṉum, koḷal tītu; ‘mēl ulakam  
+il’ eṉiṉum, ītalē naṉṟu.
+
+222\. Receiving gifts is bad though one is assured of heaven. Bestowing gifts is good, though thereby one should be bereft of it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २२२</summary>
@@ -5860,6 +7843,14 @@ To give is good, were heaven forbid.        222
 महकुलप्रसूतेषु दृश्यते दानशीलता ॥ २२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २२३</summary>
+
+223\. 'ilaṉ' eṉṉum evvam uraiyāmai ītal  
+kulaṉ uṭaiyāṉkaṇṇē uḷa.
+
+223\. The innately noble never beg but give ere charity begins.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २२३</summary>
 
 3\. இலனென்னும் எவ்வம் உரையாமை ஈதல்  
@@ -5884,6 +7875,14 @@ But giving marks a noble birth.        223
 
 याचकस्य मुखं दानात् प्रसन्नं न भवेत् यदि ।  
 दातृत्वमपि याञ्चेव जायते दुःखदं सदा ॥ २२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२४</summary>
+
+224\. iṉṉātu, irakkappaṭutal-irantavar  
+iṉ mukam kāṇum aḷavu.
+
+224\. Even to be begged is miserable for we feel wretched till the beggar’s face is lit with joy.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २२४</summary>
@@ -5912,6 +7911,14 @@ Until the giver sees him bright.        224
 तामापाकुर्वतोऽन्नाद्यै गृहस्थानाधिको मतः ॥ २२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २२५</summary>
+
+225\. āṟṟuvār āṟṟal paci āṟṟal; ap paciyai  
+māṟṟuvār āṟṟaliṉ piṉ.
+
+225\. Endurance of one’s hunger is the test of one’s penance. Far greater than that endurance is the spirit of appeasing the hunger of others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २२५</summary>
 
 5\. ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை  
@@ -5936,6 +7943,14 @@ Than that of penance which endures.        225
 
 धनी क्षुघं यदार्तस्य वारयेत्, भाविजन्मसु ।  
 तदात्मफल लाभाय स्थिरं मुलधनं भवेत् ॥ २२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२६</summary>
+
+226\. aṟṟār aḻi paci tīrttal! aḵtu oruvaṉ  
+peṟṟāṉ poruḷ vaippu uḻi.
+
+226\. Let the rich appease the devouring hunger of the indigent poor. It is a charity rendered unto themselves.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २२६</summary>
@@ -5964,6 +7979,14 @@ If room you seek to store your gains.        226
 क्षुण्णामाऽयं महारोगो दूरन्नित्यं विमुञ्चित ॥ २२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २२७</summary>
+
+227\. pāttu ūṇ marīiyavaṉaip paci eṉṉum  
+tīp piṇi tīṇṭal aritu.
+
+227\. The pest of hunger never touches one who shares one’s food with the poor.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २२७</summary>
 
 7\. பாத்தூண் மரீஇ யவனைப் பசிஎன்னும்  
@@ -5988,6 +8011,14 @@ Hunger shall not harm his creed.        227
 
 अभुक्तं स्वेन चान्येभ्योऽप्यदत्तं यस्य वै धनम् ।  
 क्षीयते कि न जानाति स सौख्यं दानमूलकम्? ॥ २२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२८</summary>
+
+228\. īttu uvakkum iṉpam aṟiyārkol-tām uṭaimai  
+vaittu iḻakkum vaṉ kaṇavar?.
+
+228\. The callous rich hide their barren metal; perhaps they know not the joy of giving.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २२८</summary>
@@ -6016,6 +8047,14 @@ Hard-hearted rich whose hoarding fails.        228
 दरिद्र्यान्मरणाञ्च स्या दहो कष्टतरं ततः ॥ २२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २२९</summary>
+
+229\. irattaliṉ iṉṉātu maṉṟa-nirappiya  
+tāmē tamiyar uṇal.
+
+229\. More squalid than begging is a life of self-indulgence.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २२९</summary>
 
 9\. இரத்தலின் இன்னாது மன்ற நிரப்பிய  
@@ -6040,6 +8079,23 @@ Alone what one's greed is hoarding.        229
 
 नास्ति मृत्युसमं दुःखमथाप्यर्थिभिरीप्सितम् ।  
 तेभ्यो दातुमशक्तस्य मृत्युरेव वरो मतः ॥ २३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३०</summary>
+
+230\. cātaliṉ iṉṉātatu illai; iṉitu, atūum  
+ītal iyaiyākkaṭai.
+
+230\. Death indeed is the greatest calamity; worse than death is one’s failure in charity.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३०</summary>
+
+230\. cātaliṉ iṉṉātatu illai; iṉitu, atūum  
+ītal iyaiyākkaṭai.
+
+230\. Death indeed is the greatest calamity; worse than death is one’s failure in charity.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २३०</summary>
@@ -6070,6 +8126,14 @@ Yet more is pain of giftless dearth.        230
 नरस्य जन्मसाफल्यं नास्ति कीर्ति विना भुवि ॥ २३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २३१</summary>
+
+231\. ītal! icaipaṭa vāḻtal! atu allatu  
+ūtiyam illai, uyirkku.
+
+231\. Give and make a name. There is no greater gain to man than such a renown.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २३१</summary>
 
 1\. ஈதல் இசைபட வாழ்தல் அதுவல்லது  
@@ -6094,6 +8158,14 @@ The greatest gain for all that live.        231
 
 याचकेभ्यो दारिद्र्येभ्यः स्वल्पं वापि प्रयच्छतः ।  
 कीर्तिरेव सदा सद्भिर्गीता भवति शाश्वती ॥ २३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३२</summary>
+
+232\. uraippār uraippavai ellām irappārkku oṉṟu  
+īvārmēl niṟkum pukaḻ.
+
+232\. The one undying theme of praise is the praise of charity.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २३२</summary>
@@ -6122,6 +8194,14 @@ Is praised aloud as popular.        232
 लोके निरुपमं नित्यमेकं वस्तु न विद्यते ॥ २३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २३३</summary>
+
+233\. oṉṟā ulakattu uyarnta pukaḻ allāl,  
+poṉṟātu niṟpatu oṉṟu il.
+
+233\. Nothing lasts save one’s fearless renown.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २३३</summary>
 
 3\. ஒன்றா உலகத்து உயர்ந்த புகழல்லால்  
@@ -6146,6 +8226,14 @@ Saving high fame of the giver!        233
 
 पृथिव्याः स्थितिपर्यन्तां कीर्ति यो लभते नरः ।  
 स्वर्गलोकोऽपि तं स्तौति न तु ज्ञानसमन्वितान् ॥ २३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३४</summary>
+
+234\. nila varai nīḷ pukaḻ āṟṟiṉ, pulavaraip  
+pōṟṟātu, puttēḷ ulaku.
+
+234\. The wise are not favoured of the gods; but the' renowned on earth are adored by them.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २३४</summary>
@@ -6174,6 +8262,14 @@ To hail the men of lasting praise        234
 महतां ज्ञानिनामेव लभ्यं स्यात् नापरस्य तु ॥ २३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २३५</summary>
+
+235\. nattampōl kēṭum, uḷatākum cākkāṭum,  
+vittakarkku allāl aritu.
+
+235\. Out of death and ruin the wise fashion things enduring.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २३५</summary>
 
 5\. நத்தம்போல் கேடும் உளதாகும் சாக்காடும்  
@@ -6198,6 +8294,14 @@ Are rare but for the soulful worth.        235
 
 यदीष्टं मानुषं जन्म कीर्त्या जननमुत्तमम् ।  
 अन्यथा मृगजन्मैव श्लाघ्यते मर्त्यजन्मनः ॥ २३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३६</summary>
+
+236\. tōṉṟiṉ, pukaḻoṭu tōṉṟuka! aḵtu ilār  
+tōṉṟaliṉ tōṉṟāmai naṉṟu.
+
+236\. Let man be born to achieve renown. Let not the unrenowned see the light of day.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २३६</summary>
@@ -6226,6 +8330,14 @@ If not of birth you must not vaunt.        236
 किन्त्वात्मनिन्दकं द्वेष्टि किं भवेदत्र कारणम् ॥ २३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २३७</summary>
+
+237\. pukaḻpaṭa vāḻātār tam nōvār, tammai  
+ikaḻvārai nōvatu evaṉ?.
+
+237\. Let the inglorious blame themselves. Let them not reproach others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २३७</summary>
 
 7\. புகழ்பட வாழாதார் தந்நோவார் தம்மை  
@@ -6250,6 +8362,14 @@ Of those who cannot live in fame?        237
 
 अनवाप्य यशो लोके ये हि जीवन्ति मानवाः ।  
 निन्दितं जीवनं तेषामिति सद्भिः प्रकीर्त्यते ॥ २३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३८</summary>
+
+238\. 'vacai' eṉpa, vaiyattārkku ellām-’icai’ eṉṉum  
+eccam peṟāaviṭiṉ.
+
+238\. World’s reproach befalls one who does not achieve lasting fame.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २३८</summary>
@@ -6278,6 +8398,14 @@ Not to beget the child of fame.        238
 निर्दुष्ट सस्यसम्पत्तिविहीना सा भवेद् धुवम् ॥ २३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २३९</summary>
+
+239\. vacai ilā vaṇ payaṉ kuṉṟum-icai ilā  
+yākkai poṟutta nilam.
+
+239\. In a land which bears the burden of the unrenowned even nature’s bounty is on the wane.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २३९</summary>
 
 9\. வசையிலா வண்பயன் குன்றும் இசையிலா  
@@ -6302,6 +8430,16 @@ O'erburden it without renown.        239
 
 अपवादेन रहितो यो जीवति स जीवति ।  
 जीवन्नप्यपवादेन मृतप्रायो हि गण्यते ॥ २४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४०</summary>
+
+240\. vacai oḻiya vāḻvārē vāḻvār; icai oḻiya  
+vāḻvārē vāḻātavar.
+
+240\. The unblemished truly live; the unrenowned merely exist.
+
+**End of the Section on Domestic Life**  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २४०</summary>
@@ -6335,6 +8473,14 @@ The blameful ones do not flourish.        240
 इतराणि धनानीह सन्ति नीचजनेष्वपि ॥ २४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २४१</summary>
+
+241\. aruṭ celvam, celvattuḷ celvam; poruṭ celvam  
+pūriyārkaṇṇum uḷa.
+
+241\. The crown of wealth is one’s compassion; all other wealth is found even among meanest of men.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २४१</summary>
 
 25\. அருளுடைமை - Compassion
@@ -6363,6 +8509,14 @@ Earthly wealth e'en the basest has.        241
 सर्वशास्त्र परामर्शेदयैका साह्याकारिणी ॥ २४२॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २४२</summary>
+
+242\. nal āṟṟāṉ nāṭi aruḷ āḷka! pal āṟṟāṉ  
+tēriṉum aḵtē tuṇai.
+
+242\. Be compassionate; for compassion is the pivot of all tenets.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २४२</summary>
 
 2\. நல்லாற்றால் நாடி அருளாள்க பல்லாற்றால்  
@@ -6387,6 +8541,14 @@ All faiths mark that for-salvation.        242
 
 अन्धकारमयं धोरं नरकं न भजन्ति ते ।  
 ये वै दयाद्रहृदया वर्तन्ते सर्वजन्तुषु ॥ २४३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४३</summary>
+
+243\. aruḷ cērnta neñciṉārkku illai-iruḷ cērnta  
+iṉṉā ulakam pukal.
+
+243\. The compassionate know not hell.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २४३</summary>
@@ -6415,6 +8577,14 @@ Into dark worlds of gruesome woe.        243
 नरो न लभते नूनं दुष्कर्म नरकप्रदम् ॥ २४४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २४४</summary>
+
+244\. 'maṉ uyir ōmpi, aruḷ āḷvāṟku il' eṉpa-  
+‘taṉ uyir añcum viṉai'.
+
+244\. Freedom from dread of sin is only for the compassionate that love all creation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २४४</summary>
 
 4\. மன்னுயிர் ஓம்பி அருளாள்வாற்கு இல்லென்ப  
@@ -6439,6 +8609,14 @@ Whose mercy serveth all beings.        244
 
 दयार्द्रहृदयो भूत्वा दुःखं नाप्नोति भूतले ।  
 निदर्शनं भवेदत्र लोकोऽयं प्राणिसङ्कुलः ॥ २४५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४५</summary>
+
+245\. allal, aruḷ āḷvārkku illai; vaḷi vaḻaṅkum  
+mallal mā ñālam kari.
+
+245\. The compassionate know not life’s agonies; verily the wind-blown earth is witness to it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २४५</summary>
@@ -6467,6 +8645,14 @@ Men of mercy meet not sorrows.        245
 धर्मत्यागागतं जन्मदुःखं नाद्यापि तैः स्मृतम् ॥ २४६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २४६</summary>
+
+246\. 'poruḷ nīṅkip poccāntār' eṉpar-'aruḷ nīṅki  
+allavai ceytu oḻukuvār'.
+
+246\. The cruel that delight in sin perhaps know not what awaits them.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २४६</summary>
 
 6\. பொருள் நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி  
@@ -6491,6 +8677,14 @@ The former loss and woes forget.        246
 
 वित्तहीनो न लभते इहलोके यथा सुखम् ।  
 परलोके न लभते दयाशून्यः सुखं तथा ॥ २४७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४७</summary>
+
+247\. aruḷ illārkku av ulakam illai-poruḷ illārkku  
+iv ulakam illākiyāṅku.
+
+247\. Heaven is not for the unfeeling; earth is not for the indigent.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २४७</summary>
@@ -6519,6 +8713,14 @@ That world is not for graceless swines.        247
 निर्दयस्य कुतः सौख्यं न कदापि स वर्धते ॥ २४८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २४८</summary>
+
+248\. poruḷ aṟṟār pūppar orukāl; aruḷ aṟṟār  
+aṟṟār; maṟṟu ātal aritu.
+
+248\. Fortune may smile on the ruined; the un feeling are the unredeemed.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २४८</summary>
 
 8\. பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்  
@@ -6545,6 +8747,14 @@ The graceless never bloom agay.        248
 निर्दयः स्वकृताद्धर्मात्तथा न लभते फलम् ॥ २४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २४९</summary>
+
+249\. teruḷātāṉ meypporuḷ kaṇṭaṟṟāl-tēriṉ,  
+aruḷātāṉ ceyyum aṟam.
+
+249\. Behold the unfeeling seeking virtue; it is like ignorance seeing light.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २४९</summary>
 
 9\. தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்  
@@ -6569,6 +8779,23 @@ Wisdom is vain in hearts unkind.        249
 
 यदा करुणया हीनो हिंसयेद्दुर्बलं तदा ।  
 स्वस्माद्वलीयसामग्रे चिन्तयेत् स्वभयस्थितिम् ॥ २५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५०</summary>
+
+250\. valiyār muṉ taṉṉai niṉaikka-tāṉ taṉṉiṉ  
+meliyārmēl cellum iṭattu.
+
+250\. Oppress not the weak; remember your fate in stronger hands.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५०</summary>
+
+250\. valiyār muṉ taṉṉai niṉaikka-tāṉ taṉṉiṉ  
+meliyārmēl cellum iṭattu.
+
+250\. Oppress not the weak; remember your fate in stronger hands.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २५०</summary>
@@ -6599,6 +8826,14 @@ When to the feeble you do wrong.        250
 तन्मांसभक्षणपरः स दयावान् कथं भवेत् ॥ २५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २५१</summary>
+
+251\. taṉ ūṉ perukkaṟkut tāṉ piṟitu ūṉ uṇpāṉ  
+eṅṅaṉam āḷum aruḷ?.
+
+251\. He who fattens on the flesh of animals, can he ever understand the rule of love?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २५१</summary>
 
 1\. தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான்  
@@ -6623,6 +8858,14 @@ who feeds his flesh by flesh gourmand.        251
 
 धनस्यारक्षणान्मार्त्यो निर्धनो जायते यथा ।  
 तथा मांसशनपरो दयाहीनः प्रकीर्त्यते ॥ २५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५२</summary>
+
+252\. poruḷ āṭci pōṟṟātārkku illai; aruḷ āṭci  
+āṅku illai, ūṉ tiṉpavarkku.
+
+252\. Wealth is not for the unwary. Compassion is not for the flesh-eater.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २५२</summary>
@@ -6651,6 +8894,14 @@ And flesh-eaters have no pity.        252
 घातकस्यात्तश्स्त्रस्य चित्तवन्निर्दयं भवेत् ॥ २५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २५३</summary>
+
+253\. paṭai koṇṭār neñcam pōl naṉṟu ūkkātu-oṉṟaṉ  
+uṭal cuvai uṇṭār maṉam.
+
+253\. The heart of a flesh-eater is devoid of love like that of the wielder of a deadly weapon.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २५३</summary>
 
 3\. படைகொண்டார் நெஞ்சம்போல் நன்றூக்காது ஒன்றன்  
@@ -6675,6 +8926,14 @@ Who tastes body is hard-hearted.        253
 
 अहिंसैव दया प्रोक्ता हिंसेयमदया मता ।  
 प्राणिभांसाशनं लोके पापमाख्यायते ॥ २५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५४</summary>
+
+254\. 'aruḷ', allatu, yātu?' eṉiṉ,-kollāmai, kōṟal:  
+poruḷ allatu, av ūṉ tiṉal.
+
+254\. What is compassion but refraining from killing; what is sin but eating flesh?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २५४</summary>
@@ -6703,6 +8962,14 @@ To kill and eat is disgraceful.        254
 दुर्लभा स्थितिरेव स्यात् नरकश्चापि जायते ॥ २५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २५५</summary>
+
+255\. uṇṇāmai uḷḷatu uyirnilai; ūṉ uṇṇa,  
+aṇṇāttal ceyyātu, aḷaṟu.
+
+255\. Will there be throb of life when there is flesh-eating? Will there be any escape from hell for the flesh-eater?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २५५</summary>
 
 5\. உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண  
@@ -6727,6 +8994,14 @@ The eater hell's mouth shall not waive!        255
 
 मांसार्थे न भवेत् प्राणि हिंसा चेदिह भूरिशः ।  
 धनार्थे नैव वर्तेरन् मांसविक्रयिणो नराः ॥ २५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५६</summary>
+
+256\. tiṉaṟporuṭṭāl kollātu ulaku eṉiṉ, yārum  
+vilaip poruṭṭāl ūṉ taruvār il.
+
+256\. Would there be meat for sale, if men were not to kill animals for eating flesh?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २५६</summary>
@@ -6755,6 +9030,14 @@ For eating it if they don't wish.        256
 व्रणो हि प्राणिनां मांसमिति ज्ञानं भवेत् यतः ॥ २५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २५७</summary>
+
+257\. uṇṇāmai vēṇṭum, pulāal-piṟitu oṉṟaṉ  
+puṇ; atu uṇarvārp peṟiṉ.
+
+257\. If one realises that meat is nothing but the wound of another creature, one refrains from eating it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २५७</summary>
 
 7\. உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்  
@@ -6779,6 +9062,14 @@ If they but feel the being's pain.        257
 
 निर्दुष्टज्ञान सम्पन्नास्त्रिदोषण विवर्जिताः ।  
 शरीरं प्राणरहितं शवं मत्वा न भुञ्जते ॥ २५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५८</summary>
+
+258\. ceyiriṉ talaip pirinta kāṭciyār uṇṇār,  
+uyiriṉ talaippirinta ūṉ.
+
+258\. Men of clear vision abstain from the flesh of a slaughtered animal.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २५८</summary>
@@ -6807,6 +9098,14 @@ Refuse on lifeless flesh to feed.        258
 मांसाहारपरित्यागाच्छ्रेपः फलमवाप्यते ॥ २५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २५९</summary>
+
+259\. avi corintu āyiram vēṭṭaliṉ, oṉṟaṉ  
+uyir cekuttu uṇṇāmai naṉṟu.
+
+259\. Far nobler than a thousand oblations on fire is an act of abstinence from flesh.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २५९</summary>
 
 9\. அவிசொரிந் தாயிரம் வேட்டலின் ஒன்றன்  
@@ -6831,6 +9130,23 @@ Excels thousand pourings of ghee!        259
 
 प्राणिहिंसा विरहितं विमुखं मांसभक्षणे ।  
 सर्वे देवा नराश्चैव विनमन्ति नरोत्तमम् ॥ २६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६०</summary>
+
+260\. kollāṉ, pulālai maṟuttāṉaik kaikūppi,  
+ellā uyirum toḻum.
+
+260\. The whole world folds its hands in prayer to one who kills not and abjures flesh.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६०</summary>
+
+260\. kollāṉ, pulālai maṟuttāṉaik kaikūppi,  
+ellā uyirum toḻum.
+
+260\. The whole world folds its hands in prayer to one who kills not and abjures flesh.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २६०</summary>
@@ -6861,6 +9177,14 @@ Who eats not flesh nor kills with whim.        260
 दुःखानुत्पादनं चेति तपोलक्षणमुच्यते ॥ २६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २६१</summary>
+
+261\. uṟṟa nōy nōṉṟal, uyirkku uṟukaṇ ceyyāmai,  
+aṟṟē-tavattiṟku uru.
+
+261\. The true form of penance is to put up with all pain and to abstain from injury.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २६१</summary>
 
 1\. உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமை  
@@ -6885,6 +9209,14 @@ This is the type of true penance.        261
 
 जन्मान्तरतपोभ्यास शालिनो मनुजस्य तु ।  
 तपः स्यादत्र निर्विघ्नं विपरीते वृथाश्रमः ॥ २६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६२</summary>
+
+262\. tavamum tavam uṭaiyārkku ākum; avam, ataṉai  
+aḵtu ilār mēṟkoḷvatu.
+
+262\. Penance is possible only for the disciplined. Disgrace attends the undisciplined.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २६२</summary>
@@ -6913,6 +9245,14 @@ Not for him who in vain pretends.        262
 गृहस्थाः साह्यमिच्छन्तो निवृत्तास्तपसः किमु ॥ २६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २६३</summary>
+
+263\. tuṟantārkkut tuppuravu vēṇṭi, maṟantārkol-  
+maṟṟaiyavarkaḷ, tavam!.
+
+263\. In their ministering to the needs of the ascetic, verily the householders have become oblivious of their penance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २६३</summary>
 
 3\. துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்  
@@ -6937,6 +9277,14 @@ That others austere path avoid?        263
 
 साधूनां सङ्ग्रहे दुष्टजनानां निग्रहेपि च ।  
 शक्तिःस्मरणमात्रेण महतां स्यात्तपोबलात् ॥ २६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६४</summary>
+
+264\. oṉṉārt teṟalum, uvantārai ākkalum,  
+eṇṇiṉ, tavattāṉ varum.
+
+264\. Penance, if it wills can mar its foe, or bless its friend.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २६४</summary>
@@ -6965,6 +9313,14 @@ The friends and foil the foe and knave.        264
 लभ्यते हि गृहस्थेन तपः कर्तुमिह क्षणम् ॥ २६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २६५</summary>
+
+265\. vēṇṭiya vēṇṭiyāṅku eytalāṉ, cey tavam  
+īṇṭu muyalappaṭum.
+
+265\. They persevere in penance; for through penance they achieve their desired goal.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २६५</summary>
 
 5\. வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம்  
@@ -6989,6 +9345,14 @@ Here hence by men penance is done.        265
 
 क्रियते यैस्तपः कर्म कृतकृत्यास्त एव हि ।  
 आशापाशवशा हन्त क्लिश्यन्त इतरे जनाः ॥ २६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६६</summary>
+
+266\. tavam ceyvār tam karumam ceyvār; maṟṟu allār  
+avam ceyvār, ācaiyuḷ paṭṭu.
+
+266\. To do penance is to be alive to one’s duty; those enmeshed in desire come to ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २६६</summary>
@@ -7017,6 +9381,14 @@ Others desire-rid themselves harm.        266
 तपः क्लेशितकायस्य ज्ञानं सम्यक् प्रकाशते ॥ २६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २६७</summary>
+
+267\. cuṭac cuṭarum poṉpōl oḷiviṭum-tuṉpam  
+cuṭaccuṭa nōṟkiṟpavarkku.
+
+267\. Gold shines all the more in fire; those who do penance become mellowed through suffering.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २६७</summary>
 
 7\. சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பஞ்  
@@ -7041,6 +9413,14 @@ and so the life by pain austere.        267
 
 पश्यन्तमात्मनाऽऽत्मानं तपस्यन्तं जितेन्द्रियम् ।  
 सर्वे नरा नमस्यन्ति बहुमानपुरस्सरम् ॥ २६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६८</summary>
+
+268\. taṉ uyir tāṉ aṟap peṟṟāṉai ēṉaiya  
+maṉ uyir ellām toḻum.
+
+268\. The world worships one who has regained one’s soul.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २६८</summary>
@@ -7069,6 +9449,14 @@ Who Master is by soul control.        268
 कालपाशविनिर्मुक्ताः प्राप्नुवन्ति परां गतिम् ॥ २६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २६९</summary>
+
+269\. kūṟṟam kutittalum kaikūṭum-nōṟṟaliṉ  
+āṟṟal talaippaṭṭavarkku.
+
+269\. Men at the height of their penance can triumph over even death.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २६९</summary>
 
 9\. கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்  
@@ -7093,6 +9481,23 @@ Who get by penance godly strength.        269
 
 बहवस्तपसा हीनाः, विरलास्तु तपस्विनः ।  
 धनिकास्तेन विरला इतरे बहवोऽभवन् ॥ २७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७०</summary>
+
+270\. ilar palar ākiya kāraṇam-nōṟpār  
+cilar; palar nōlātavar.
+
+270\. Many are the indigent; for only a few practise penance.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७०</summary>
+
+270\. ilar palar ākiya kāraṇam-nōṟpār  
+cilar; palar nōlātavar.
+
+270\. Many are the indigent; for only a few practise penance.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २७०</summary>
@@ -7123,6 +9528,14 @@ For they care not for penance much.        270
 पञ्च भूतानि दृष्टवैव मन्दमन्तर्हसन्ति हि ॥ २७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २७१</summary>
+
+271\. vañca maṉattāṉ paṭiṟṟu oḻukkam pūtaṅkaḷ  
+aintum akattē nakum.
+
+271\. A man’s five senses will laugh within at the false conduct of a deceitful mind.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २७१</summary>
 
 1\. வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்  
@@ -7147,6 +9560,14 @@ Of a sly hypocrite within laugh.        271
 
 अकार्यमिति मत्वापि कुर्वतः पुनरेव तत् ।  
 आकाशेनेव महता तपोवेषेण किं फलम्? ॥ २७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७२</summary>
+
+272\. vāṉ uyar tōṟṟam evaṉ ceyyum-taṉ neñcam  
+tāṉ aṟi kuṟṟapaṭiṉ?.
+
+272\. Of what avail is a man’s saintly mien, if his mind is bent on evil?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २७२</summary>
@@ -7175,6 +9596,14 @@ When guild the conscience gnaws and knows.        272
 वुआघ्रचर्मवृत्तो घेनुः सस्यं चरति चेत्, तथा ॥ २७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २७३</summary>
+
+273\. vali il nilaimaiyāṉ val uruvam peṟṟam  
+puliyiṉ tōl pōrttu mēyntaṟṟu.
+
+273\. The ascetic appearance of one who has no strength of will, is like that of an ox grazing in the guise of a tiger.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २७३</summary>
 
 3\. வலியில் நிலைமையான் வல்லுருவம் பெற்றம்  
@@ -7199,6 +9628,14 @@ Seems a grazer with tiger skin.        273
 
 तपोवेषनिलीनेन परदारपरिग्रहः ।  
 गुल्मलीननिषादेन पक्षिग्रहणवद्भवेत् ॥ २७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७४</summary>
+
+274\. tavam maṟaintu, allavai ceytal-putalmaṟaintu  
+vēṭṭuvaṉ puḷ cimiḻttaṟṟu.
+
+274\. Committing evil under the mask of holiness is like the hunter lying in wait for birds.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २७४</summary>
@@ -7227,6 +9664,14 @@ Fowlers in ambush birds to strike.        274
 ''किं कृतं किं कृतं हे'' ति फलकाले स खिद्यते ॥ २७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २७५</summary>
+
+275\. 'paṟṟu aṟṟēm' eṉpār paṭiṟṟu oḻukkam. ‘eṟṟu! eṟṟu!' eṉṟu  
+ētam palavum tarum.
+
+275\. The hypocrisy of one who professes asceticism lands one in endless troubles.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २७५</summary>
 
 5\. பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று  
@@ -7251,6 +9696,14 @@ Shall moan "What have we done" with pain.        275
 
 मनोवैराग्यमप्राप्य विरक्त इव यो नरः ।  
 वर्तते कपटाचारः कठिनो नास्ति तत्समः ॥ २७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७६</summary>
+
+276\. neñciṉ tuṟavār, tuṟantārpōl vañcittu,  
+vāḻvāriṉ vaṉkaṇār il.
+
+276\. There is none so hardened in vice as one who though hollow at heart, wears the mask of saintliness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २७६</summary>
@@ -7279,6 +9732,14 @@ Cheating the world without restraint.        276
 अज्ञान मन्तरेतेर्षां गुञाग्रे श्यामता यथा ॥ २७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २७७</summary>
+
+277\. puṟam kuṉṟi kaṇṭaṉaiyarēṉum, akam kuṉṟi  
+mūkkil kariyār uṭaittu.
+
+277\. This world contains (many) men who like the Kunri seed are fair of face but foul of heart.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २७७</summary>
 
 7\. புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி  
@@ -7303,6 +9764,14 @@ Black like its nose his inward hue.        277
 
 दुष्टचित्तास्तपस्सिद्धा इव स्नानेन केवलम् ।  
 कपटाचारसञ्छन्ना वञ्चकाः सन्ति भूरिशः ॥ २७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७८</summary>
+
+278\. maṉattatu mācu āka, māṇṭār nīr āṭi,  
+maṟaintu oḻukum māntar palar.
+
+278\. There are many insincere men who frequent sacred waters to pass for holy men.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २७८</summary>
@@ -7331,6 +9800,14 @@ Hiding sins in showy extremes.        278
 मुनावपि तथा ज्ञेयं न वेषस्तत्र कारणम् ॥ २७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २७९</summary>
+
+279\. kaṇai koṭitu; yāḻ kōṭu cevvitu; āṅku aṉṉa  
+viṉaipaṭu pālāl koḷal.
+
+279\. The arrow, though straight is deadly; the yāl though crooked is sweet. Let people be judged by their actions.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २७९</summary>
 
 9\. கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன  
@@ -7355,6 +9832,23 @@ Strait arrow kills, bent lute but charms.        279
 
 लोकदूष्ये दुराचारस्त्यज्यतेचेत् तपस्विभिः ।  
 कुतो वा मुण्डनं तेषां जटाभारेण वा किमु ॥ २८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८०</summary>
+
+280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
+paḻittatu oḻittuviṭiṉ.
+
+280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८०</summary>
+
+280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
+paḻittatu oḻittuviṭiṉ.
+
+280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २८०</summary>
@@ -7385,6 +9879,14 @@ Abstain from condemned acts with care.        280
 विना वस्त्वपहारेच्छां तेन रक्ष्यं सदा मनः ॥ २८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २८१</summary>
+
+281\. eḷḷāmai vēṇṭuvāṉ eṉpāṉ eṉaittu oṉṟum  
+kaḷḷāmai kākka, taṉ neñcu!.
+
+281\. He who wants to command respect must guard his mind against robbing others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २८१</summary>
 
 1\. எள்ளாமை வேண்டுவான் என்பான் எனைத்தொன்றும்  
@@ -7409,6 +9911,14 @@ From all frauds guard his conscience free.        281
 
 निषिद्धस्मरणेनापि दोषः स्यादिति कथ्यते ।  
 अज्ञात्वैवापहर्तव्यमिति त्याज्या मतिस्ततः ॥ २८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८२</summary>
+
+282\. uḷḷattāl uḷḷalum tītē; ‘piṟaṉ poruḷaik  
+kaḷḷattāl kaḷvēm’ eṉal!.
+
+282\. It is a sin to lust for another’s belongings.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २८२</summary>
@@ -7437,6 +9947,14 @@ Even this thought is sin and stealth.        282
 भूत्वा न्यायार्जितैर्वित्तैस्सह पश्चाद्विनश्यति ॥ २८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २८३</summary>
+
+283\. kaḷaviṉāl ākiya ākkam, aḷavu iṟantu,  
+āvatu pōla, keṭum.
+
+283\. Ill-gotten wealth however vast comes to nought.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २८३</summary>
 
 3\. களவினால் ஆகிய ஆக்கம் அளவிறந்து  
@@ -7461,6 +9979,14 @@ But swift to ruin it shall go.        283
 
 चौर्येण परवस्तूनां प्रात्या जातो मनोरथः ।  
 पश्चात्कर्मेपरीपाके दद्यात् दुःखं हि शाश्वतम् ॥ २८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८४</summary>
+
+284\. kaḷaviṉkaṇ kaṉṟiya kātal viḷaiviṉkaṇ  
+vīyā viḻumam tarum.
+
+284\. Inordinate desire to steal brings in its train endless suffering.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २८४</summary>
@@ -7489,6 +10015,14 @@ Shall end in endless grief and pain.        284
 सर्व भूतदयायां स स्नेहयुक्तो न जायते ॥ २८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २८५</summary>
+
+285\. aruḷ karuti aṉpuṭaiyar ātal poruḷ karutip  
+poccāppup pārppārkaṇ il.
+
+285\. Can ever grace and love be found in one who exploits the unwary?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २८५</summary>
 
 5\. அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்  
@@ -7513,6 +10047,14 @@ Who watch to waylay dozer's wealth.        285
 
 ग्रे परद्रव्यचौर्येषु लम्पटाः सन्ति मानवाः ।  
 व्ययीकृत्य मितं वित्तं जीवन्ति न हि ते सुखम् ॥ २८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८६</summary>
+
+286\. aḷaviṉkaṇ niṉṟu oḻukalāṟṟār-kaḷaviṉkaṇ  
+kaṉṟiya kātalavar.
+
+286\. Those who have a burning desire to steal cannot walk in the path of virtue.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २८६</summary>
@@ -7541,6 +10083,14 @@ who crave and have covetous ends.        286
 चौर्य कारणमज्ञानं जायते न कदाचन ॥ २८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २८७</summary>
+
+287\. kaḷavu eṉṉum kār aṟivu āṇmai aḷavu eṉṉum  
+āṟṟal purintārkaṇ il.
+
+287\. The dark thought of stealing is absent in those who are alive to the value of life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २८७</summary>
 
 7\. களவென்னும் காரறி வாண்மை அளவென்னும்  
@@ -7565,6 +10115,14 @@ Black art of fraud and what it won.        287
 
 कृततत्वविचारणां हृदये यतिधर्मवत् ।  
 अभ्यस्त चौर्य विद्यानां चित्ते स्याद्वञ्चना स्थिरा ॥ २८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८८</summary>
+
+288\. aḷavu aṟintār neñcattu aṟampōla, niṟkum,  
+kaḷavu aṟintār neñcil karavu.
+
+288\. Virtue dwells in the person of known probity; deceit dwells in persons addicted to stealing.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २८८</summary>
@@ -7593,6 +10151,14 @@ Into minds of frauds deceit darts.        288
 अकृत्यमधिकं कृत्वा सद्यो नश्यन्ति ते ध्रुवम् ॥ २८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २८९</summary>
+
+289\. aḷavu alla ceytu, āṅkē vīvar-kaḷavu alla  
+maṟṟaiya tēṟṟātavar.
+
+289\. Those who know nothing else than stealing will indulge in unrighteous acts and forthwith perish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २८९</summary>
 
 9\. அளவல்ல செய்தாங்கே வீவர் களவல்ல  
@@ -7617,6 +10183,23 @@ Who know nothing but pilfery.        289
 
 जीवनं स्पष्टमाकृत्या चोराणामिह दुर्लभम् ।  
 चौर्यकर्मविहीनानां स्वर्गेऽपि सुलभायते ॥ २९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९०</summary>
+
+290\. kaḷvārkkut taḷḷum, uyirnilai; kaḷḷārkkut  
+taḷḷātu, puttēḷ ulaku.
+
+290\. Their very bodies fail the defrauding. The world of the gods fail not the upright.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९०</summary>
+
+290\. kaḷvārkkut taḷḷum, uyirnilai; kaḷḷārkkut  
+taḷḷātu, puttēḷ ulaku.
+
+290\. Their very bodies fail the defrauding. The world of the gods fail not the upright.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २९०</summary>
@@ -7647,6 +10230,14 @@ The honest men, heaven receives.        290
 दुःखानुत्पादनं लोके सत्यलक्षणमुच्यते ॥ २९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २९१</summary>
+
+291\. 'vāymai eṉappaṭuvatu yātu?' eṉiṉ, yātu oṉṟum  
+tīmai ilāta colal.
+
+291\. What is truth but unsullied utterance?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २९१</summary>
 
 1\. வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்  
@@ -7671,6 +10262,14 @@ It is to speak out evil-free.        291
 
 असत्य वचनं चापि यदि स्यात् प्राणिनामिह ।  
 अनिन्दितोपकाराय तत् सत्यवचनं मतम् ॥ २९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९२</summary>
+
+292\. poymmaiyum vāymai iṭatta-purai tīrnta  
+naṉmai payakkum eṉiṉ.
+
+292\. Even untruth has the stamp of truth, if it is free from harm.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २९२</summary>
@@ -7699,6 +10298,14 @@ When good it brings removing vice.        292
 पश्चात्तप्तमना भूत्वा ततो दुःखं स विन्दति ॥ २९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २९३</summary>
+
+293\. taṉ neñcu aṟivatu poyyaṟka; poyttapiṉ,  
+taṉ neñcē taṉṉaic cuṭum.
+
+293\. Let none utter a falsehood against his conscience lest it should torment him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २९३</summary>
 
 3\. தன்னெஞ் சறிவது பொய்யற்க பொய்த்தபின்  
@@ -7723,6 +10330,14 @@ Conscience will scorch and make him sigh.        293
 
 सत्यमार्गेण गच्छन्तं तथा हृदयपूर्वकम् ।  
 कृत्वा मनसि सर्वेऽपि प्रशंसन्ति नरोत्तमाः ॥ २९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९४</summary>
+
+294\. uḷḷattāl poyyātu oḻukiṉ, ulakattār  
+uḷḷattuḷ ellām uḷaṉ.
+
+294\. One sits high in the hearts of all who is true to oneself.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २९४</summary>
@@ -7751,6 +10366,14 @@ Who serves the Truth serene in soul.        294
 तपोदानगुणाढ्येभ्यो नरेभ्योप्युत्तमः स्मृतः ॥ २९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २९५</summary>
+
+295\. maṉattoṭu vāymai moḻiyiṉ, tavattoṭu  
+tāṉam ceyvāriṉ talai.
+
+295\. Far greater than a benefactor or an ascetic is one whose words come from the depths of truth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २९५</summary>
 
 5\. மனத்தொடு வாய்மை மொழியின் தவத்தொடு  
@@ -7775,6 +10398,14 @@ Is more than giving and living austere.        295
 
 न सत्यवचनादन्यद्विद्यते कीर्तिवर्धकम् ।  
 कायक्लेशं विना वक्तुस्तत् स्वर्गमपि यच्छति ॥ २९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९६</summary>
+
+296\. poyyāmai aṉṉa pukaḻ illai; eyyāmai,  
+ellā aṟamum tarum.
+
+296\. One’s renown is rooted only in truth; it leads one easily to every other virtue.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २९६</summary>
@@ -7803,6 +10434,14 @@ All virtues from Truth arise.        296
 समेषामन्यधर्मणां त्यागोऽपि किल सम्मतः ॥ २९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २९७</summary>
+
+297\. poyyāmai poyyāmai āṟṟiṉ, aṟam piṟa  
+ceyyāmai ceyyāmai naṉṟu.
+
+297\. Practise truth, you need not practise any other virtue.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २९७</summary>
 
 7\. பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிற  
@@ -7827,6 +10466,14 @@ All virtues are in Truth indeed.        297
 
 बाह्यदेहस्य संशुद्धिः सलिले स्नानतो यथा ।  
 अन्तर्हृदयसंशुद्धिस्तथा स्यात् सत्यभाषणात् ॥ २९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९८</summary>
+
+298\. puṟam tūymai nīrāl amaiyum;- akam tūymai  
+vāymaiyāl kāṇappaṭum.
+
+298\. Water cleanses the body; truth cleanses the soul.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - २९८</summary>
@@ -7855,6 +10502,14 @@ Truth renders you pure inward.        298
 हृत्तमोनाशकं सत्यवचनं दीप उच्यते ॥ २९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - २९९</summary>
+
+299\. ellā viḷakkum viḷakku alla; cāṉṟōrkkup  
+poyyā viḷakkē viḷakku.
+
+299\. All lamps are not lamps. To the great the lamp of truth is the lamp.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - २९९</summary>
 
 9\. எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்  
@@ -7879,6 +10534,23 @@ Truth light is light bright like sun-light        299
 
 सर्व शास्त्रपरामर्शादिदमेकं सुनिश्चितम् ।  
 यत् सत्यवचनादन्यो धर्मो नास्ति महीतले ॥ ३००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३००</summary>
+
+300\. yām meyyāk kaṇṭavaṟṟuḷ, illai-eṉaittu oṉṟum  
+vāymaiyiṉ nalla piṟa.
+
+300\. In all the scriptures we have read, there is no virtue greater than truth.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३००</summary>
+
+300\. yām meyyāk kaṇṭavaṟṟuḷ, illai-eṉaittu oṉṟum  
+vāymaiyiṉ nalla piṟa.
+
+300\. In all the scriptures we have read, there is no virtue greater than truth.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३००</summary>
@@ -7909,6 +10581,14 @@ Nothing surpasses Truth serene !        300
 शक्ते क्रोधं जयतु वा मा वा स विषयः परः ॥ ३०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३०१</summary>
+
+301\. cel iṭattuk kāppāṉ ciṉam kāppāṉ; al iṭattu,  
+kākkiṉ eṉ? kāvākkāl eṉ?.
+
+301\. He who restrains his wrath where it can be vented shows real restraint. What does it matter whether one restrains it or not in an unavailing hour?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३०१</summary>
 
 1\. செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்  
@@ -7933,6 +10613,14 @@ It is futile against the strong.        301
 
 शक्तेषु कोपकरणात् दण्डदुःखमिहाश्नुते ।  
 अशक्ते कुपितो निन्दां पापं च लभते द्वयम् ॥ ३०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०२</summary>
+
+302\. cellā iṭattuc ciṉam tītu; cel iṭattum,  
+il, ataṉiṉ tīya piṟa.
+
+302\. Anger is bad even where it is unavailing; but where it can be effectively exercised there is no worse evil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३०२</summary>
@@ -7961,6 +10649,14 @@ Against the meek it is still worse.        302
 क्रोधाद्भवन्ति दुःखानां परिणामास्त्वनेकधा ॥ ३०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३०३</summary>
+
+303\. maṟattal, vekuḷiyai yārmāṭṭum-tīya  
+piṟattal ataṉāṉ varum.
+
+303\. Do not get angry with any one; for out of anger springs forth a host of evils.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३०३</summary>
 
 3\. மறத்தல் வெகுளியை யார்மாட்டும் தீய  
@@ -7985,6 +10681,14 @@ It is the source of sin and pain.        303
 
 मुखे विकसं मनसि तुष्टिं क्रोधो विनाशयेत् ।  
 तस्मात् क्रोधसमः शत्रुः को न्वस्ति भुवि देहिनाम्? ॥ ३०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०४</summary>
+
+304\. nakaiyum uvakaiyum kollum ciṉattiṉ  
+pakaiyum uḷavō, piṟa?.
+
+304\. Is there any enemy other than anger that kills both joy and pleasure?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३०४</summary>
@@ -8013,6 +10717,14 @@ Which kills the smile and joyful cheer?        304
 अन्यथा शत्रु भूतोऽसौ नाशयेत् कोपशालिनम् ॥ ३०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३०५</summary>
+
+305\. taṉṉait tāṉ kākkiṉ, ciṉam kākka! kāvākkāl,  
+taṉṉaiyē kollum, ciṉam.
+
+305\. If a man were to guard himself let him restrain anger. Otherwise anger gets the better of him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३०५</summary>
 
 5\. தன்னைத்தான் காக்கின் சினம்காக்க காவாக்கால்  
@@ -8037,6 +10749,14 @@ If not thyself the wrath will slay.        305
 
 आश्रयं नाशयेद्वह्निः कोपाग्नि स्वाश्रितैः सह ।  
 ज्ञानोपदेष्टन् दूरस्थान दहेन्नौकासमान् गुरून् ॥ ३०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०६</summary>
+
+306\. ciṉam eṉṉum cērntāraikkolli iṉam eṉṉum  
+ēmap puṇaiyaic cuṭum.
+
+306\. Anger destroys even one’s kindred who is the canoe of his life.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३०६</summary>
@@ -8065,6 +10785,14 @@ It burns the helpful kinship-barge.        306
 महीं ताडयते हस्त इव नृनं प्रबाध्यते ॥ ३०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३०७</summary>
+
+307\. ciṉattaip poruḷ eṉṟu koṇṭavaṉ kēṭu  
+nilattu aṟaintāṉ kai piḻaiyātaṟṟu.
+
+307\. The ruin of one who nourishes wrath is as certain as the injury to one’s hands when beat on the ground.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३०७</summary>
 
 7\. சினத்தைப் பொருளென்று கொண்டவன் கேடு  
@@ -8089,6 +10817,14 @@ Like failless-hand that strikes the ground.        307
 
 चण्डज्वालासमेताग्निदाहेन सदृशीं व्यथाम् ।  
 कुर्वत्यपि नरे क्रोधो न कार्यो यदि शक्यते ॥ ३०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०८</summary>
+
+308\. iṇar eri tōyvaṉṉa iṉṉā ceyiṉum,  
+puṇariṉ vekuḷāmai naṉṟu.
+
+308\. It is better you show no wrath even against one who inflicts on you harm scorching you like a thousand-tongued flame.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३०८</summary>
@@ -8117,6 +10853,14 @@ Though tortured like the touch of fire.        308
 वाञ्छिताः सम्पदः सर्वाः सद्य एवाप्नुवन्ति तम् ॥ ३०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३०९</summary>
+
+309\. uḷḷiya ellām uṭaṉ eytum-uḷḷattāl  
+uḷḷāṉ vekuḷi eṉiṉ.
+
+309\. Banish anger from your mind; you get all that you long for.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३०९</summary>
 
 9\. உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்  
@@ -8141,6 +10885,23 @@ If man refrains from rage vicious!        309
 
 नराः क्रोधवशं प्राप्ता मृतप्राया भवन्ति हि ।  
 जितक्रोधा नराः सर्वे मन्यन्ते योगिभिः समाः ॥ ३१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>
+
+310\. iṟantār iṟantār aṉaiyar; ciṉattait  
+tuṟantār tuṟantār tuṇai.
+
+310\. Men given to wrath are one with the devil; Men free from it are one with the immortals.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>
+
+310\. iṟantār iṟantār aṉaiyar; ciṉattait  
+tuṟantār tuṟantār tuṇai.
+
+310\. Men given to wrath are one with the devil; Men free from it are one with the immortals.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३१०</summary>
@@ -8171,6 +10932,14 @@ Saints are they from whom wrath has fled.        310
 अपकारमतिं त्यक्त्वा लक्ष्ये जीवन्ति साधवः ॥ ३११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३११</summary>
+
+311\. ciṟappu īṉum celvam peṟiṉum, piṟarkku iṉṉā  
+ceyyāmai mācu aṟṟār kōḷ.
+
+311\. It is the nature of the spotless not to inflict suffering on others, though by it they may get wealth and renown.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३११</summary>
 
 1\. சிறப்புஈனும் செல்வம் பெறினும் பிறர்க்குஇன்னா  
@@ -8195,6 +10964,14 @@ Though princely wealth by that is won.        311
 
 विरोधादपकर्तुश्च प्राप्तेऽपि समयान्तरे ।  
 अपकारमकृत्वैव लक्ष्ये तिष्ठन्ति साधवः ॥ ३१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३१२</summary>
+
+312\. kaṟuttu iṉṉā ceyta akkaṇṇum, maṟuttu iṉṉā  
+ceyyāmai mācu aṟṟār kōḷ.
+
+312\. It is the nature of the stainless not to resist evil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३१२</summary>
@@ -8223,6 +11000,14 @@ Though Malice does the worst in rage.        312
 अपकारो न कर्तव्योनो चेत् दुःखं स विन्दति ॥ ३१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३१३</summary>
+
+313\. ceyyāmal ceṟṟārkkum iṉṉāta ceytapiṉ,  
+uyyā viḻumam tarum.
+
+313\. Even our vengeance for a wanton injury results in our own unbearable sorrow.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३१३</summary>
 
 3\. செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின்  
@@ -8247,6 +11032,14 @@ Bad-blood breeds and baneful heat.        313
 
 उपकृत्यापि श्त्रूणा मुपकारापकारयोः ।  
 विस्मृतिः साधुभिर्दत्तं दण्डनं स्याद्विरोधिषु ॥ ३१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३१४</summary>
+
+314\. iṉṉā ceytārai oṟuttal avar nāṇa  
+nal nayam ceytu, viṭal.
+
+314\. The noblest revenge is to put the foe to the blush by our acts of kindness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३१४</summary>
@@ -8275,6 +11068,14 @@ Thus chide the evil who do harm.        314
 परान्न त्रायते तस्य तत्त्वज्ञानेन किं फलम्? ॥ ३१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३१५</summary>
+
+315\. aṟiviṉāṉ ākuvatu uṇṭō-piṟitiṉ nōy  
+tam nōypōl pōṟṟākkaṭai?.
+
+315\. What profiteth one’s reason, if one does not feel others’ sufferings as his own and guard against them?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३१५</summary>
 
 5\. அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்  
@@ -8299,6 +11100,14 @@ If he pines not at other's pain?        315
 
 ''अनेन कर्मणा दुःखं प्राणिनां भविता ध्रुवम्'' ।  
 इति निर्धारितात् कार्यात् सर्वदा विरतो भवेत् ॥ ३१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३१६</summary>
+
+316\. iṉṉā eṉat tāṉ uṇarntavai, tuṉṉāmai  
+vēṇṭum, piṟaṉkaṇ ceyal.
+
+316\. Avoid all that causes pain to others.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३१६</summary>
@@ -8327,6 +11136,14 @@ Do it not to the other-self        316
 बुद्धिपूर्वे न कर्तव्यं स धर्मः परमो मतः ॥ ३१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३१७</summary>
+
+317\. eṉaittāṉum, eññāṉṟum, yārkkum, maṉattāṉ ām  
+māṇā ceyyāmai talai.
+
+317\. It is the supremest virtue not to commit at any time even slight injury to others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३१७</summary>
 
 7\. எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்  
@@ -8351,6 +11168,14 @@ At any time even in thought.        317
 
 ''ममेदं दुःखजनकम्''इति ज्ञात्वापि तादृशम् ।  
 प्राणिनामितरेषां च कुतो वा कुर्वते जनाः? ॥ ३१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३१८</summary>
+
+318\. taṉ uyirkku iṉṉāmai tāṉ aṟivāṉ, eṉkolō,  
+maṉ uyirkku iṉṉā ceyal?.
+
+318\. How is it a man inflicts injury upon others knowing how painful it would be to himself?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३१८</summary>
@@ -8379,6 +11204,14 @@ Who in his life injury feels.        318
 अपराह्णे तु दुःखानि स्वत एव भजन्ति तम् ॥ ३१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३१९</summary>
+
+319\. piṟarkku iṉṉā muṟpakal ceyyiṉ, tamakku iṉṉā  
+piṟpakal tāmē varum.
+
+319\. As the night follows day, evil that we do recoils on us.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३१९</summary>
 
 9\. பிறர்க்குஇன்னா முற்பகல் செய்யின் தமக்குஇன்னா  
@@ -8403,6 +11236,23 @@ Harm seeks thee in afternoon.        319
 
 परापकारो नो कार्यः निर्दुःखं वस्तुमिच्छता ।  
 परदुःखकरा एव दुःखवन्तो भवन्ति हि ॥ ३२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२०</summary>
+
+320\. nōy ellām nōy ceytār mēlavām; nōy ceyyār,  
+nōy iṉmai vēṇṭupavar.
+
+320\. All sufferings befall those who inflict harm on others. Those who desire immunity from suffering never commit injury.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२०</summary>
+
+320\. nōy ellām nōy ceytār mēlavām; nōy ceyyār,  
+nōy iṉmai vēṇṭupavar.
+
+320\. All sufferings befall those who inflict harm on others. Those who desire immunity from suffering never commit injury.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३२०</summary>
@@ -8433,6 +11283,14 @@ For pains rebound on pain-givers.        320
 हननात्प्राणिवर्गाणां सर्व पापफलं भवेत् ॥ ३२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३२१</summary>
+
+321\. 'aṟaviṉai yātu?' eṉiṉ, kollāmai; kōṟal  
+piṟa viṉai ellām tarum.
+
+321\. If you ask what is the sum total of virtues, it is non-killing; killing begets sin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३२१</summary>
 
 1\. அறவினை யாதெனில் கொல்லாமை கோறல்  
@@ -8457,6 +11315,14 @@ For killing causes every ill.        321
 
 लब्धं विभज्य भुक्त्वा तु यत्प्राणिपरिरक्षणम् ।  
 शास्त्रकारोक्त धर्मेषु प्रशस्तमिदमीर्यते ॥ ३२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२२</summary>
+
+322\. pakuttu uṇṭu, pal uyir ōmputal nūlōr  
+tokuttavaṟṟuḷ ellām talai.
+
+322\. All the scriptures emphasise the virtue of hospitality and the creed of non-violence.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३२२</summary>
@@ -8485,6 +11351,14 @@ This is the law of all the laws.        322
 विमृष्टे सत्यकथनं द्वितीयं स्थानमर्हति ॥ ३२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३२३</summary>
+
+323\. oṉṟāka nallatu kollāmai; maṟṟu ataṉ  
+piṉcārap poyyāmai naṉṟu.
+
+323\. The crown of all virtues is non-violence. Next comes non-lying.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३२३</summary>
 
 3\. ஒன்றாக நல்லது கொல்லாமை மற்றுஅதன்  
@@ -8509,6 +11383,14 @@ The next, not to utter falsehood.        323
 
 अकृत्वा प्राणिनां हत्यां लक्ष्यमार्गे प्रवर्तनम् ।  
 मोक्षादिलोकजनकः सन्मार्ग इति मन्यते ॥ ३२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२४</summary>
+
+324\. 'nallāṟu eṉappaṭuvatu yātu?' eṉiṉ, yātu oṉṟum  
+kollāmai cūḻum neṟi.
+
+324\. The path of rectitude is the path of non-violence.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३२४</summary>
@@ -8537,6 +11419,14 @@ The way away from heat to slay.        324
 संसारभीत्या संन्यास भाजिनोऽप्युत्तमो हि सः ॥ ३२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३२५</summary>
+
+325\. nilai añci nīttāruḷ ellām, kolai añcik  
+kollāmai cūḻvāṉ, talai.
+
+325\. Far greater than an ascetic who renounces the fleeting world is the follower of non-violence.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३२५</summary>
 
 5\. நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக்  
@@ -8561,6 +11451,14 @@ The head is he who dreads killing.        325
 
 अवधाख्ये वरे धर्मे विद्यमानस्य शाश्वतम् ।  
 जीवितेऽग्रये कृतान्तोऽपि न विशेत् प्राणभक्षकः ॥ ३२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२६</summary>
+
+326\. kollāmai mēṟkoṇṭu oḻukuvāṉ vāḻnāḷmēl  
+cellātu, uyir uṇṇum kūṟṟu.
+
+326\. Yama, the Destroyer of life, never invades the realm where non-violence prevails.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३२६</summary>
@@ -8589,6 +11487,14 @@ Of him who no life puts to death.        326
 न कार्या प्राणिनां हत्या स्वात्मरक्षणमिच्छता ॥ ३२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३२७</summary>
+
+327\. taṉ uyir nīppiṉum ceyyaṟka-tāṉ piṟitu  
+iṉ uyir nīkkum viṉai.
+
+327\. Do not commit any act of violence though your life is in peril.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३२७</summary>
 
 7\. தன்னுயிர் நீப்பினும் செய்யற்க தான்பிறிது  
@@ -8613,6 +11519,14 @@ Even when your life must perish.        327
 
 जीवनां हत्यया श्रेष्ठं भाग्यं कामं भवेद् भॄशम् ।  
 वधमूलगातं भाग्यं सन्तः पश्यन्ति गार्हितम् ॥ ३२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३२८</summary>
+
+328\. naṉṟu ākum ākkam peritu eṉiṉum, cāṉṟōrkkuk  
+koṉṟu ākum ākkam kaṭai.
+
+328\. The truly great scorn the riches acquired through slaughter.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३२८</summary>
@@ -8641,6 +11555,14 @@ Though deemed good in sacrifice.        328
 कुलीनानपि चण्डालसमान् पश्यन्ति कर्मणा ॥ ३२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३२९</summary>
+
+329\. kolai viṉaiyar ākiya mākkaḷ pulai viṉaiyar,  
+puṉmai terivār akattu.
+
+329\. In the eyes of the discerning, men given to slaughter are but churls.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३२९</summary>
 
 9\. கொலைவினைய ராகிய மாக்கள் புலைவினையர்  
@@ -8665,6 +11587,23 @@ Eaters of carrion bizarre!        329
 
 रुग्णान् दरिद्रान् शास्त्रज्ञाः पश्यन्तो नीवजीवनान् ।  
 ᳚इमे जन्मान्तरे जघ्नुः प्राणा'' नित्येव जानते ॥ ३३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३३०</summary>
+
+330\. 'uyir uṭampiṉ nīkkiyār' eṉpa-'ceyir uṭampiṉ  
+cellāt tī vāḻkkaiyavar'.
+
+330\. Behold the Lazarus, he is guilty of acts of violence in his former birth.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३३०</summary>
+
+330\. 'uyir uṭampiṉ nīkkiyār' eṉpa-'ceyir uṭampiṉ  
+cellāt tī vāḻkkaiyavar'.
+
+330\. Behold the Lazarus, he is guilty of acts of violence in his former birth.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३३०</summary>
@@ -8695,6 +11634,14 @@ Are killers stained by blood before        330
 मन्दबुद्धिर्यदि भवेत् निन्दितं तस्य जीवितम् ॥ ३३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३३१</summary>
+
+331\. nillātavaṟṟai nilaiyiṉa eṉṟu uṇarum  
+pullaṟivu āṇmai kaṭai.
+
+331\. It is contemptible folly to mistake the unstable for the stable.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३३१</summary>
 
 1\. நில்லாத வற்றை நிலையின என்றுணரும்  
@@ -8719,6 +11666,14 @@ The fleeting as lasting to hold.        331
 
 आयान्ति सम्पदो लोका इव नाटकमन्दिरम् ।  
 निर्यान्ति सम्पदो लोका इवान्ते नाटकालयात् ॥ ३३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३३२</summary>
+
+332\. kūttāṭṭu avaikkuḻāttaṟṟē, peruñ celvam;  
+pōkkum, atu viḷintaṟṟu.
+
+332\. The flow of fortune is like the gathering of a crowd at a concert; its ebb is like the melting of the crowd at its close.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३३२</summary>
@@ -8747,6 +11702,14 @@ Like passing show its pride too goes.        332
 सद्यस्तेन स्थिरा धर्माः कर्तव्या मोक्षमिच्छता ॥ ३३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३३३</summary>
+
+333\. aṟkā iyalpiṟṟuc celvam; atu peṟṟāl,  
+aṟkupa āṅkē ceyal.
+
+333\. Fortune is fickle; if you come by it delay not; put it to proper use.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३३३</summary>
 
 3\. அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால்  
@@ -8771,6 +11734,14 @@ Take care to do enduring things.        333
 
 कृपाणसदृशो भूत्वा दिवसः तत्त्ववित्तमान् ।  
 विशस्य क्रमशः काले क्षीणप्रणाण् करोत्यहो ॥ ३३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३३४</summary>
+
+334\. nāḷ eṉa oṉṟupōl kāṭṭi, uyir, īrum  
+vāḷatu-uṇarvārp peṟiṉ.
+
+334\. Time seems all laughter; but to the discerning it is a saw sawing away the life of men.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३३४</summary>
@@ -8799,6 +11770,14 @@ Your life, know that, to file and gnaw.        334
 न भवेत्त्वरया पूर्वे मोक्षार्थे धर्ममाचरेत् ॥ ३३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३३५</summary>
+
+335\. nāc ceṟṟu, vikkuḷ mēlvārāmuṉ, nal viṉai  
+mēṟceṉṟu ceyyappaṭum.
+
+335\. Before hiccough arises and before the tongue is paralysed, do good that leads to salvation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३३५</summary>
 
 5\. நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை  
@@ -8823,6 +11802,14 @@ Rise up to do good deeds betimes.        335
 
 आसीत्पूर्वदिने कश्विदद्य सोऽयं मृतोऽभवत् ।  
 इत्यस्थिरत्वमाहात्म्य परीतं लोकजीवितम् ॥ ३३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३३६</summary>
+
+336\. 'nerunal uḷaṉ, oruvaṉ; iṉṟu illai!' eṉṉum  
+perumai uṭaittu, iv ulaku.
+
+336\. Yesterday he was but to-day he is not; this is the glory of the earth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३३६</summary>
@@ -8851,6 +11838,14 @@ The wonder of the world's way!        336
 चिन्तयन्ति परं नाना कोटिशो विषयान् वृथा ॥ ३३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३३७</summary>
+
+337\. oru poḻutum vāḻvatu aṟiyār, karutupa-  
+kōṭiyum alla, pala.
+
+337\. One is not sure what awaits him the next moment; but he becomes a prey to a thousand and one thoughts.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३३७</summary>
 
 7\. ஒருபொழுதும் வாழ்வது அறியார் கருதுப  
@@ -8875,6 +11870,14 @@ On crores of things he is intent.        337
 
 द्विजे चाण्डं परित्यज्य व्योममार्गे गते सति ।  
 द्विजस्याण्डेन सम्बन्धो यः स स्याज्जीवदेहयोः ॥ ३३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३३८</summary>
+
+338\. kuṭampai taṉittu oḻiyap puḷ paṟantaṟṟē-  
+uṭampoṭu uyiriṭai naṭpu.
+
+338\. The attachment of life to the body is like that of a full-fledged bird flying from its broken shell.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३३८</summary>
@@ -8903,6 +11906,14 @@ Like bird from egg-shell flies away.        338
 पश्चात् प्रबोध तुल्यं स्यात् जीवस्य, जननं पुनः ॥ ३३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३३९</summary>
+
+339\. uṟaṅkuvatu pōlum, cākkāṭu; uṟaṅki  
+viḻippatu pōlum, piṟappu.
+
+339\. Death is like sleep, birth is that awakening from sleep.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३३९</summary>
 
 9\. உறங்கு வதுபோலும் சாக்காடு உறங்கி  
@@ -8927,6 +11938,23 @@ And birth like waking from that sleep.        339
 
 रोगाधीनशरीरस्य कोणे जीवः स्थितोऽधिपैः ।  
 व्याधिभिर्हिसितोऽद्यापि किं न लेभे स्थिरं गृहम्? ॥ ३४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४०</summary>
+
+340\. pukkil amaintiṉṟukollō-uṭampiṉuḷ  
+tuccil irunta uyirkku!.
+
+340\. Why should the soul seek a temporary shelter in the perishable body? Is there not a durable habitation for it?
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४०</summary>
+
+340\. pukkil amaintiṉṟukollō-uṭampiṉuḷ  
+tuccil irunta uyirkku!.
+
+340\. Why should the soul seek a temporary shelter in the perishable body? Is there not a durable habitation for it?
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३४०</summary>
@@ -8957,6 +11985,14 @@ A fixed home it never knows.        340
 तस्मात्तस्माद्वस्तुनः स न दुःखं लभते नरः ॥ ३४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३४१</summary>
+
+341\. yātaṉiṉ yātaṉiṉ nīṅkiyāṉ, nōtal  
+ataṉiṉ ataṉiṉ ilaṉ.
+
+341\. A man does not suffer pain from whatever things he has renounced.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३४१</summary>
 
 1\. யாதனின் யாதனின் நீங்கியான் நோதல்  
@@ -8981,6 +12017,14 @@ From that, from that his torments flee.        341
 
 यदीच्छसि सुखं वस्तुं सत्स्वेव वहुवस्तुषु ।  
 जहि तानि महत्सौख्यं तव तेन भवेदपि ॥ ३४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४२</summary>
+
+342\. vēṇṭiṉ, uṇṭākat tuṟakka; tuṟantapiṉ,  
+īṇṭu iyaṟpāla pala.
+
+342\. There is endless joy in early renunciation.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३४२</summary>
@@ -9009,6 +12053,14 @@ And endless joys shall hence seek you.        342
 पश्चात्सर्वपदार्थेषु त्यागबुद्धिर्वरा मता ॥ ३४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३४३</summary>
+
+343\. aṭal vēṇṭum, aintaṉ pulattai; viṭal vēṇṭum,  
+vēṇṭiya ellām oruṅku.
+
+343\. Subdue your senses and give up all your longings.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३४३</summary>
 
 3\. அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்  
@@ -9033,6 +12085,14 @@ The craving desires all at once.        343
 
 सर्वसङ्गपरित्यागात् सुलभं वर्धते तपः ।  
 बन्धनाद्योग विभ्रष्टस्त्वज्ञानवशगो भवेत् ॥ ३४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४४</summary>
+
+344\. iyalpu ākum, nōṉpiṟku oṉṟu iṉmai; uṭaimai  
+mayal ākum, maṟṟum peyarttu.
+
+344\. Renunciation is the mark of asceticism. Any clinging leads to one’s delusion.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३४४</summary>
@@ -9061,6 +12121,14 @@ Having the least deludes and snares.        344
 तथा सत्यन्यदेहेन कुतः सम्बन्धकल्पनम् ॥ ३४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३४५</summary>
+
+345\. maṟṟum toṭarppāṭu evaṉkol? piṟappu aṟukkal  
+uṟṟārkku uṭampum mikai.
+
+345\. Why talk of other attachments; even our body is a hindrance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३४५</summary>
 
 5\. மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல்  
@@ -9085,6 +12153,14 @@ Is too much for saints to be birth-free.        345
 
 मेमेदमहमेवेति नानाज्ञान विवर्जिताः ।  
 प्राप्नुवन्ति मह्त्स्थानं देवनमपि दुर्लभम् ॥ ३४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४६</summary>
+
+346\. 'yāṉ', ‘eṉatu’, eṉṉum cerukku aṟuppāṉ vāṉōrkku  
+uyarnta ulakam pukum.
+
+346\. He enters the abode of the gods who lays the axe at ‘I’ and ‘mine.’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३४६</summary>
@@ -9113,6 +12189,14 @@ Gets a world rare for gods to gain.        346
 दुःखान्यपि न मुञ्चन्ति सर्वदा तं नराधमम् ॥ ३४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३४७</summary>
+
+347\. paṟṟi viṭāa, iṭumpaikaḷ-paṟṟiṉaip  
+paṟṟi, viṭāatavarkku.
+
+347\. Sufferings seize men of desire.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३४७</summary>
 
 7\. பற்றி விடாஅ இடும்பைகள் பற்றினைப்  
@@ -9137,6 +12221,14 @@ Who cling to bonds without release.        347
 
 उत्तमः स हि म्न्तव्यः सर्वे त्याजति यः क्षणे ।  
 अज्ञानवशमापन्ना भवन्ति मनुजाः परे ॥ ३४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३४८</summary>
+
+348\. talaippaṭṭār, tīrat tuṟantār; mayaṅki  
+valaippaṭṭār, maṟṟaiyavar.
+
+348\. Salvation is for one of renunciation; others get entangled in endless births and deaths.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३४८</summary>
@@ -9165,6 +12257,14 @@ Others suffer delusive snare.        348
 अन्यथा जन्ममरण प्रवाहस्त्वनवस्थित्ः ॥ ३४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३४९</summary>
+
+349\. paṟṟu aṟṟakaṇṇē piṟappu aṟukkum; maṟṟum  
+nilaiyāmai kāṇappaṭum.
+
+349\. Cut off all attachments; you cut off the tangle of life; otherwise you are caught.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३४९</summary>
 
 9\. பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று  
@@ -9189,6 +12289,23 @@ The world then seems instable stuff.        349
 
 सर्वबन्धविनिर्मुक्ते हरौ बध्नाति यो मनः ।  
 सर्वस्माद् बन्धनामुक्तिः स्वतस्तस्य भविष्यति ॥ ३५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३५०</summary>
+
+350\. paṟṟuka, paṟṟu aṟṟāṉ paṟṟiṉai! ap paṟṟaip  
+paṟṟuka, paṟṟu viṭaṟku!.
+
+350\. Cling fast to Him who is free from all desire. Seek Him for your freedom, from attachment.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३५०</summary>
+
+350\. paṟṟuka, paṟṟu aṟṟāṉ paṟṟiṉai! ap paṟṟaip  
+paṟṟuka, paṟṟu viṭaṟku!.
+
+350\. Cling fast to Him who is free from all desire. Seek Him for your freedom, from attachment.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३५०</summary>
@@ -9219,6 +12336,14 @@ That binding breaks all bonds anon.        350
 प्राप्यते जन्म चाज्ञानात् गर्हितं दुःखदायकम् ॥ ३५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३५१</summary>
+
+351\. poruḷ allavaṟṟaip poruḷ eṉṟu uṇarum  
+maruḷāṉ ām, māṇāp piṟappu.
+
+351\. Out of ignorance which mistakes things unreal for things real springs the wretched cycle of births.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३५१</summary>
 
 1\. பொருளல்ல வற்றைப் பொருளென்று உணரும்  
@@ -9243,6 +12368,14 @@ Which deems vain things as things of worth.        351
 
 अविद्यां समतिक्रम्य तत्त्वज्ञान निषेवणात् ।  
 जन्मदुःखमलब्ध्वैव प्राप्यते ब्रह्मणः पदम् ॥ ३५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३५२</summary>
+
+352\. iruḷ nīṅki iṉpam payakkum-maruḷ nīṅki  
+mācu aṟu kāṭciyavarkku.
+
+352\. Men of pure vision are led from darkness to light.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३५२</summary>
@@ -9271,6 +12404,14 @@ Enjoy delight devoid of night.        352
 भूलोकादपि दूरस्थमत्के स्याह्ब्रह्मणः पदम् ॥ ३५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३५३</summary>
+
+353\. aiyattiṉ nīṅkit teḷintārkku vaiyattiṉ  
+vāṉam naṇiyatu uṭaittu.
+
+353\. To men of unclouded wisdom heaven is nearer than earth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३५३</summary>
 
 3\. ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்  
@@ -9295,6 +12436,14 @@ More than earth heaven is near.        353
 
 इन्द्रियाणीन्द्रियार्थेभ्यः नियम्य मनसो वशे ।  
 स्थापनेनापि किं कार्ये तत्त्वज्ञानं न चेद्भवेत् ॥ ३५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३५४</summary>
+
+354\. aiuṇarvu eytiyak kaṇṇum payam iṉṟē-  
+mey uṇarvu illātavarkku.
+
+354\. What profits one’s perfect senses if one is not endowed with true knowledge.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३५४</summary>
@@ -9323,6 +12472,14 @@ Without knowing the Truth within.        354
 विहाय तत्त्वतो ज्ञानं तत्त्वज्ञानमितीर्यते ॥ ३५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३५५</summary>
+
+355\. ep poruḷ et taṉmaittuāyiṉum, ap poruḷ  
+meypporuḷ kāṇpatu aṟivu.
+
+355\. To track all things to their subtlest retreats is true knowledge.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३५५</summary>
 
 5\. எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்  
@@ -9347,6 +12504,14 @@ In every case of every kind.        355
 
 अध्येतव्यं गुरुमुखादधीत्य बहुधा बहु ।  
 तत्त्वार्थज्ञान सम्पन्ना यान्ति मोक्षपथं स्थिरम् ॥ ३५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३५६</summary>
+
+356\. kaṟṟu īṇṭu meypporuḷ kaṇṭār talaippaṭuvar,  
+maṟṟu īṇṭu vārā neṟi.
+
+356\. Those who have learnt the truth never enter back to this world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३५६</summary>
@@ -9375,6 +12540,14 @@ Enter the path of non-return.        356
 जन्मास्य पुनरस्तीति न मन्तव्यं कदाचन ॥ ३५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३५७</summary>
+
+357\. ōrttu uḷḷam uḷḷatu uṇariṉ oru talaiyā,  
+pērttu uḷḷavēṇṭā piṟappu.
+
+357\. There is no fear of one’s re-birth if one seeks and finds the truth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३५७</summary>
 
 7\. ஓர்த்துள்ளம் உள்ளது உணரின் ஒருதலையாப்  
@@ -9399,6 +12572,14 @@ He is free from thoughts of rebirth.        357
 
 जन्मबाधाकराज्ञान मुक्तये मुक्तिदस्य तु ।  
 ब्रह्मणो दर्शनं यत्तु तत्त्वज्ञानं तदुच्यते ॥ ३५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३५८</summary>
+
+358\. piṟappu eṉṉum pētaimai nīṅka, ciṟappu eṉṉum  
+cemporuḷ kāṇpatu aṟivu.
+
+358\. Seek the truth to remove delusion; that is wisdom.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३५८</summary>
@@ -9427,6 +12608,14 @@ And remove the folly of birth.        358
 जन्ममृत्युमयं दुःखं न जायेत कदाचन ॥ ३५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३५९</summary>
+
+359\. cārpu uṇarntu, cārpu keṭa oḻukiṉ, maṟṟu aḻittuc  
+cārtarā, cārtarum nōy.
+
+359\. Seek the truth on which everything rests; you will be free from all the ills that assail life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३५९</summary>
 
 9\. சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்  
@@ -9451,6 +12640,23 @@ Be free from ills of thraldom, O sage.        359
 
 कामः क्रोधस्तथाऽज्ञानमिति दोषास्त्रयो हृदि ।  
 नाम्नापि न भवेयुश्वेद्भवदुःखं विनश्यति ॥ ३६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६०</summary>
+
+360\. kāmam, vekuḷi, mayakkam, ivai mūṉṟaṉ  
+nāmam keṭa, keṭum nōy.
+
+360\. Wipe out the very names of lust, anger and delusion; you will be wiping out the pause of re-birth.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६०</summary>
+
+360\. kāmam, vekuḷi, mayakkam, ivai mūṉṟaṉ  
+nāmam keṭa, keṭum nōy.
+
+360\. Wipe out the very names of lust, anger and delusion; you will be wiping out the pause of re-birth.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३६०</summary>
@@ -9481,6 +12687,14 @@ Expire even to name, fully.        360
 संसारमय दुःखस्य बीजमाशेत्युदीर्यते ॥ ३६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३६१</summary>
+
+361\. 'avā' eṉpa-'ellā uyirkkum, eñ ñāṉṟum,  
+tavāap piṟappu īṉum vittu'.
+
+361\. The learned say desire is the eternal seed of life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३६१</summary>
 
 1\. அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும்  
@@ -9505,6 +12719,14 @@ From which ceaseless births proceed.        361
 
 लभ्यतां जन्मराहित्यं लब्धव्यं किञ्चिदस्ति चेत् ।  
 तदपि प्राप्यते सर्व वस्तुनैराश्य बुद्धितः ॥ ३६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६२</summary>
+
+362\. vēṇṭuṅkāl, vēṇṭum piṟavāmai; maṟṟu atu  
+vēṇṭāmai vēṇṭa, varum.
+
+362\. Do you long for anything? Long for not being born again; this you can achieve if you cease your desires.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३६२</summary>
@@ -9533,6 +12755,14 @@ It comes by longing no more for earth.        362
 लोकान्तरेऽपि तत्तुल्यं वस्तु लब्धुं न शक्र्यते ॥ ३६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३६३</summary>
+
+363\. vēṇṭāmai aṉṉa viḻuc celvam īṇṭu illai;  
+yāṇṭum aḵtu oppatu il.
+
+363\. There is no greater possession than freedom from desire either here or in the world beyond.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३६३</summary>
 
 3\. வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டில்லை  
@@ -9557,6 +12787,14 @@ As peerless wealth of non-desire.        363
 
 आशाविरहितावस्था मोक्ष इत्युच्यते बुधैः ।  
 अवस्था सापि तत्त्वस्य ब्रह्मणो भजनाद्भवेत् ॥ ३६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६४</summary>
+
+364\. tūuymai eṉpatu avā iṉmai; maṟṟu atu  
+vā aymai vēṇṭa, varum.
+
+364\. What is purity of mind but absence of desire? It will follow if one burns for truth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३६४</summary>
@@ -9585,6 +12823,14 @@ That is the fruit of verity.        364
 आशायुतानां निःशेषं बन्धमुक्तिर्न जायते ॥ ३६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३६५</summary>
+
+365\. aṟṟavar eṉpār avā aṟṟār; maṟṟaiyār  
+aṟṟu āka aṟṟatu ilar.
+
+365\. Only those who have renounced are free; others are not.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३६५</summary>
 
 5\. அற்றவர் என்பார் அவாஅற்றார் மற்றையார்  
@@ -9609,6 +12855,14 @@ The rest not free in bonds are caught.        365
 
 आशा समयमालक्ष्य पातयेत् जन्मबन्धने ।  
 निराशारक्षणं तस्माच्छ्रेष्ठो धर्मः प्रगीयते ॥ ३६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६६</summary>
+
+366\. añcuvatu ōrum aṟaṉē; oruvaṉai  
+vañcippatu ōrum avā.
+
+366\. It is desire that seduces men into sin; Asceticism dreads desires.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३६६</summary>
@@ -9637,6 +12891,14 @@ To every soul desire is snare!        366
 लभ्यते जन्मराहित्यं सर्वो धर्मः कृतो भवेत् ॥ ३६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३६७</summary>
+
+367\. avāviṉai āṟṟa aṟuppiṉ, tavā viṉai  
+tāṉvēṇṭum āṟṟāṉ varum.
+
+367\. The desired path of virtue is open to one who kills desire.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३६७</summary>
 
 7\. அவாவினை ஆற்ற அறுப்பின் தவாவினை  
@@ -9661,6 +12923,14 @@ Comes as much as you aspire hence.        367
 
 निराशानां कुतो दुःखम्, आशापाशवशात्मनाम् ।  
 उपर्युपरि दुःखानि समयान्ति निरर्गेलम् ॥ ३६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३६८</summary>
+
+368\. avā illārkku illākum tuṉpam; aḵtu uṇṭēl,  
+tavāatu mēṉmēl varum.
+
+368\. There is no sorrow for those who are free from desire. Endless sorrows befall men with desire.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३६८</summary>
@@ -9689,6 +12959,14 @@ Grief comes on grief where it pretends.        368
 न परं ब्रह्मणो लोके, सुखमत्रापि शाश्वतम् ॥ ३६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३६९</summary>
+
+369\. iṉpam iṭaiyaṟātu, īṇṭum-avā eṉṉum  
+tuṉpattuḷ tuṉpam keṭiṉ.
+
+369\. There is an eternal flow of life’s happiness when desire, the evil of ail evils, dies out.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३६९</summary>
 
 9\. இன்பம் இடையறா தீண்டும் அவாவென்னும்  
@@ -9713,6 +12991,23 @@ Joy of joys here you enjoy.        369
 
 सदा दवीयसीमाशां यो वै जयति सर्वदा ।  
 निर्विकारां तथा नित्यं मुक्तिं सद्यः स विन्दति ॥ ३७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३७०</summary>
+
+370\. ārā iyaṟkai avā nīppiṉ, an nilaiyē  
+pērā iyaṟkai tarum.
+
+370\. Give up your insatiable longings; you will be conferring on yourself an eternal life.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३७०</summary>
+
+370\. ārā iyaṟkai avā nīppiṉ, an nilaiyē  
+pērā iyaṟkai tarum.
+
+370\. Give up your insatiable longings; you will be conferring on yourself an eternal life.
+
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३७०</summary>
@@ -9745,6 +13040,14 @@ You gain the native blissful state.        370
 आलस्यं जायते तस्मिन्नर्थ नाशककर्मणा ॥ ३७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३७१</summary>
+
+371\. āku ūḻāl tōṉṟum, acaivu iṉmai; kaipporuḷ  
+pōku ūḻāl tōṉṟum, maṭi.
+
+371\. Out of fate springs perseverance which leads to one’s fortune. Out of fate springs one’s indolence which leads to one’s ruin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३७१</summary>
 
 1\. ஆகூழால் தோன்றும் அசைவின்மை கைப்பொருள்  
@@ -9769,6 +13072,14 @@ Wealth-losing brings waning star.        371
 
 विदुषोऽपि भवेन्मौढ्यं अर्थनाशककर्मणा ।  
 मूढस्यापि भवेज्ज्ञान मर्थप्रापककर्मणा ॥ ३७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३७२</summary>
+
+372\. pētaip paṭukkum, iḻavu ūḻ; aṟivu akaṟṟum,  
+ākal ūḻ uṟṟakkaṭai.
+
+372\. Fate makes fools of the wise. Fate makes folly pass for wisdom.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३७२</summary>
@@ -9797,6 +13108,14 @@ Gain-fate makes us prosperous, wise!        372
 तदेव समयं प्राप्य तत्त्वज्ञानं विनाशयेत् ॥ ३७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३७३</summary>
+
+373\. nuṇṇiya nūl pala kaṟpiṉum, maṟṟum taṉ  
+uṇmai aṟivē mikum.
+
+373\. What if one is a man of subtle learning; one’s mind is swayed by fate.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३७३</summary>
 
 3\. நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன்  
@@ -9821,6 +13140,14 @@ Levels of innate wisdom-keep.        373
 
 एको भवति वित्ताढ्यो विद्यया सहितोऽपरः ।  
 कारणं विधिरेवात्र स्वभावो लोकसम्मतः ॥ ३७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३७४</summary>
+
+374\. iru vēṟu, ulakattu iyaṟkai; tiru vēṟu;  
+teḷḷiyar ātalum vēṟu.
+
+374\. Fate has a double sway. It makes the foolish rich and the wise poor.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३७४</summary>
@@ -9849,6 +13176,14 @@ Some wealth and others wisdom gain.        374
 कालेऽपि तन्न लभ्येत विपरीते विधौ सति ॥ ३७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३७५</summary>
+
+375\. nallavai ellāam tīya ām; tīyavum  
+nalla ām;-celvam ceyaṟku.
+
+375\. Things favourable become adverse, and the unfavourable favourable.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३७५</summary>
 
 5\. நல்லவை எல்லாஅந் தீயவாம் தீயவும்  
@@ -9873,6 +13208,14 @@ The good as bad and bad as good.        375
 
 सुरक्षितमपि भ्रश्येत् विधिमूलमनागतम् ।  
 अरक्षितं च तित्तिष्ठे द्विधिमूलं यदागतम् ॥ ३७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३७६</summary>
+
+376\. pariyiṉum ākāvām, pāl alla; uyttuc  
+coriyiṉum pōkā, tama.
+
+376\. One may lose one’s wealth however carefully one may guard it. One may not lose it though he flings it away. It is all ordained by fate.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३७६</summary>
@@ -9901,6 +13244,14 @@ Things destined are surely thine.        376
 विधिना यावदाप्नोति भोक्तुं नालं ततोऽधिकम् ॥ ३७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३७७</summary>
+
+377\. vakuttāṉ vakutta vakai allāl, kōṭi  
+tokuttārkkum tuyttal aritu.
+
+377\. Unless pre-ordained by the divine Disposer, even if a man did pile up a crore it would not be possible for him to enjoy it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३७७</summary>
 
 7\. வகுத்தான் வகுத்த வகையல்லால் கோடி  
@@ -9925,6 +13276,14 @@ The Dispenser's decrees allot.        377
 
 दुष्कर्मवशमापन्ना महाभाग्यात् स्थितादपि ।  
 नराः सुखं न विन्दन्ति संन्यासं प्राप्नुवन्ति च ॥ ३७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३७८</summary>
+
+378\. tuṟappārmaṉ, tuppuravu illār-uṟaṟpāla  
+ūṭṭā kaḻiyum eṉiṉ.
+
+378\. The poor could easily renounce the world if fate were to refrain from visiting them with the curse of their past deeds.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३७८</summary>
@@ -9953,6 +13312,14 @@ If fate with ills visit them not.        378
 अशुभे तु समायाते वृथा शोचसि तत् कुतः? ॥ ३७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३७९</summary>
+
+379\. naṉṟu ām kāl nallavāk kāṇpavar, aṉṟu ām kāl  
+allaṟpaṭuvatu evaṉ.
+
+379\. Why worry about pain and pleasure? They are all the workings of fate.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३७९</summary>
 
 9\. நன்றாங்கால் நல்லவாக் காண்பவர் அன்றாங்கால்  
@@ -9977,6 +13344,16 @@ In evil time why should they grieve?        379
 
 विधिना तु समं वस्तु बलवन्नेह विद्यते ।  
 विनाश्य मानुषं यत्नं विधिरेव जयेत् सदा ॥ ३८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३८०</summary>
+
+380\. ūḻiṉ peruvali yā uḷa-maṟṟu oṉṟu  
+cūḻiṉum, tāṉ muntuṟum.
+
+380\. What is there so potent as Fate? Even if we devise some way of counteracting it, it takes us by surprise.
+
+**End of arattuppal**  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३८०</summary>
@@ -10015,6 +13392,14 @@ Persists against the human skill.        380
 अङ्गः समन्वितो राजा राजसिंह इतीर्यते ॥ ३८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३८१</summary>
+
+381\. paṭai, kuṭi, kūḻ, amaiccu, naṭpu, araṇ āṟum  
+uṭaiyāṉ aracaruḷ ēṟu.
+
+381\. He is a lion among kings, who possesses with an army, a territory, wealth, ministers, allies and a fortress.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३८१</summary>
 
 1\. படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும்  
@@ -10039,6 +13424,14 @@ Who owns these six is lion of kings.        381
 
 दातृत्वं ज्ञानसम्पत्तिः उत्साहो धीरता तथा ।  
 गुणैरेतैश्चतुर्भिर्यो नित्ययुक्तः स पार्थिवः ॥ ३८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३८२</summary>
+
+382\. añcāmai, īkai, aṟivu, ūkkam in nāṉkum  
+eñcāmai-vēntaṟku iyalpu.
+
+382\. Fearlessness, liberality, wisdom and energy are the unfailing marks of a King.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३८२</summary>
@@ -10067,6 +13460,14 @@ Are four failless features royal.        382
 राज्यभारनियुक्तानां राज्ञां स्वाभाविका मताः ॥ ३८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३८३</summary>
+
+383\. tūṅkāmai, kalvi, tuṇivuṭaimai im mūṉṟum  
+nīṅkā-nilaṉ āḷpavaṟku.
+
+383\. The ruler of the earth must never be bereft of his sleepless watchfulness, learning and courage.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३८३</summary>
 
 3\. தூங்காமை கல்வி துணிவுடைமை இம்மூன்றும்  
@@ -10091,6 +13492,14 @@ Are adjuncts three of monarchy.        383
 
 अधर्मेन्मूलनं स्वीयधर्माचरणशीलता ।  
 दुरहङ्कारराहित्यं त्रितयं नृपलक्षणम् ॥ ३८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३८४</summary>
+
+384\. aṟaṉ iḻukkātu, allavai nīkki, maṟaṉ iḻukkā  
+māṉam uṭaiyatu-aracu.
+
+384\. He is an honourable King who swerves not from virtue and abstains from vice.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३८४</summary>
@@ -10119,6 +13528,14 @@ Full of virtue and enterprise.        384
 रक्षितं च यथाशास्त्रं दद्यात् पात्रेषु भूमिप ॥ ३८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३८५</summary>
+
+385\. iyaṟṟalum, īṭṭalum, kāttalum, kātta  
+vakuttalum, vallatu-aracu.
+
+385\. He is the King who is capable of acquiring, preserving and wisely distributing wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३८५</summary>
 
 5\. இயற்றலும் ஈட்டலும் காத்தலும் காத்த  
@@ -10143,6 +13560,14 @@ And spends them for people's safeguards.        385
 
 विमुखः क्रूरवाक्यानां राजा सुलभदर्शनः ।  
 यो भवेत् तस्य साम्राज्यं सर्वश्लाघ्यं भविष्यति ॥ ३८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३८६</summary>
+
+386\. kāṭcikku eḷiyaṉ, kaṭuñ collaṉ allaṉēl,  
+mīkkūṟum, maṉṉaṉ nilam.
+
+386\. The world will extol the kingdom of one who is easy of access and who does not indulge in harsh words.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३८६</summary>
@@ -10171,6 +13596,14 @@ Easy to see, not harsh of words.        386
 तस्य राज्ञः स्थिरं कीर्तिमर्थाश्च वितरेन्मही ॥ ३८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३८७</summary>
+
+387\. iṉ colāl īttu, aḷikka vallāṟkut taṉ colāl  
+tāṉ kaṇṭaṉaittu, iv ulaku.
+
+387\. He who is not harsh of tongue but full of grace and liberality commands the homage of the world.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३८७</summary>
 
 7\. இன்சொலால் ஈத்தளிக்க வல்லார்க்குத் தன்சொலால்  
@@ -10195,6 +13628,14 @@ Who sweetly speaks and gives with grace.        387
 
 धर्मनीत्यनुसारेण पालयन् सकलाः प्रजाः ।  
 पार्थिवः श्लेघ्यते सर्वैः जगतां पतिरित्यसौ ॥ ३८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३८८</summary>
+
+388\. muṟai ceytu kāppāṟṟum maṉṉavaṉ, ‘makkaṭku  
+iṟai’ eṉṟu vaikkappaṭum.
+
+388\. He is a God among men who shields his subjects.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३८८</summary>
@@ -10223,6 +13664,14 @@ Sound justice and saves his race.        388
 श्रुत्वा यः सहते राजा तिष्ठेत्तस्य वशे मही ॥ ३८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३८९</summary>
+
+389\. cevi kaippac coṟ poṟukkum paṇpuṭai vēntaṉ  
+kavikaikkīḻt taṅkum, ulaku.
+
+389\. The world is under the sway of the monarch who puts up with bitter counsel.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३८९</summary>
 
 9\. செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்  
@@ -10247,6 +13696,14 @@ Who bears remarks bitter and bold.        389
 
 दानं दया दण्डनीतिः दीनरक्षेति सद्गुणैः ।  
 चतुर्भिः सङ्गतो भूपो दीपवत् स्यान्महीक्षिताम् ॥ ३९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३९०</summary>
+
+390\. koṭai, aḷi, ceṅkōl, kuṭi-ōmpal, nāṉkum  
+uṭaiyāṉ ām, vēntarkku oḷi.
+
+390\. He is a light among Kings who is endowed with liberality, grace, love for his subjects, and a desire for just rule.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३९०</summary>
@@ -10277,6 +13734,14 @@ Bounty, justice, care and grace.        390
 अधीतग्रन्थदृष्टेन्न पथा युक्तं प्रवर्तनम् ॥ ३९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३९१</summary>
+
+391\. kaṟka, kacaṭu aṟa, kaṟpavai! kaṟṟapiṉ,  
+niṟka, ataṟkut taka!.
+
+391\. Faultlessly pursue knowledge and abide by it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३९१</summary>
 
 1\. கற்க கசடறக் கற்பவை கற்றபின்  
@@ -10301,6 +13766,14 @@ Live by that learning thoroughly.        391
 
 न्यायव्याकरणाख्ये द्वे शास्त्रे मुख्ये नृणामिह ।  
 उभे हि चक्षुषी स्यातामिति सद्भिरुदीर्यते ॥ ३९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३९२</summary>
+
+392\. 'eṇ' eṉpa, ēṉai ‘eḻuttu’ eṉpa, iv iraṇṭum  
+‘kaṇ’ eṉpa, vāḻum uyirkku.
+
+392\. Verily the numbers and letters are the eyes of the living one.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३९२</summary>
@@ -10329,6 +13802,14 @@ Of living kind both are the eyes.        392
 इतरेषामुभे नेत्रे व्रणे स्यातां मुखोत्थिते ॥ ३९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३९३</summary>
+
+393\. kaṇ uṭaiyar eṉpavar kaṟṟōr; mukattu iraṇṭu  
+puṇ uṭaiyar, kallātavar.
+
+393\. The learned alone are said to possess eyes; but they are only sores in the face of the unlettered.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३९३</summary>
 
 3\. கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு  
@@ -10353,6 +13834,14 @@ The ignorant two sores of disgrace.        393
 
 यत्सङ्गन जनास्तुष्टाः भवेयुः, सङ्गमं पुनः ।  
 वियोगकाले वाञ्छेयुः स भवेत्पण्डितोत्तमः ॥ ३९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३९४</summary>
+
+394\. uvappat talaikkūṭi, uḷḷap pirital  
+aṉaittē-pulavar toḻil.
+
+394\. The duty of the learned is to delight man by their company. Hunger ever more for it even while parting.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३९४</summary>
@@ -10381,6 +13870,14 @@ Of learned men this is the art.        394
 भूत्वा पठन्ति ये नित्यं शिष्टास्ते निन्दिताः परे ॥ ३९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३९५</summary>
+
+395\. uṭaiyārmuṉ illārpōl ēkkaṟṟum kaṟṟār;  
+kaṭaiyarē, kallātavar.
+
+395\. Eager like the beggars at the door of the wealthy is the sufferer of knowledge; the illiterate are held in scorn.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३९५</summary>
 
 5\. உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்  
@@ -10405,6 +13902,14 @@ For knowledge: the low never learn.        395
 
 विद्यभ्यासानुसारेण नृणां ज्ञानां प्रवर्धते ।  
 खननानुगुणं तोयं वर्धते सैकते यथा ॥ ३९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३९६</summary>
+
+396\. toṭṭaṉaittu ūṟum, maṇaṟ kēṇi;-māntarkkuk  
+kaṟṟaṉaittu ūṟum, aṟivu.
+
+396\. The deeper you delve into the earth, the greater will be the flow of water. Likewise knowledge is in proportion to your learning.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३९६</summary>
@@ -10433,6 +13938,14 @@ As deep you learn the knowledge grows.        396
 तथा सति कुतः कैश्चित् विद्या नाधीयते सदा ॥ ३९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३९७</summary>
+
+397\. yātāṉum nāṭu āmāl; ūr āmāl; eṉ, oruvaṉ  
+cām tuṇaiyum kallātavāṟu?.
+
+397\. No country and no place is alien to the learned. How is it that persons remain in ignorance to the end of their lives?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३९७</summary>
 
 7\. யாதானும் நாடாமால் ஊராமால் என்னொருவன்  
@@ -10457,6 +13970,14 @@ Why not till death learning go on!        397
 
 एकजन्मन्यधिगता विद्या नृनं हि केनचित् ।  
 सप्तजन्मस्वनुगता तस्य साह्यकरी भवेत् ॥ ३९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३९८</summary>
+
+398\. orumaikkaṇ tāṉ kaṟṟa kalvi oruvaṟku  
+eḻumaiyum ēmāppu uṭaittu.
+
+398\. The knowledge that a person gains in one birth stands him in good stead for seven births.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ३९८</summary>
@@ -10485,6 +14006,14 @@ Exalts man upto his seventh.        398
 आनन्ददात्रीं विज्ञाय तां प्राज्ञा बहुकुर्वते ॥ ३९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ३९९</summary>
+
+399\. tām iṉpuṟuvatu ulaku iṉpuṟak kaṇṭu,  
+kāmuṟuvar, kaṟṟu aṟintār.
+
+399\. The learned thirst for knowledge more and more, because what gives them pleasure delights the world.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ३९९</summary>
 
 9\. தாமின் புறுவது உலகின் புறக்கண்டு  
@@ -10509,6 +14038,14 @@ On seeing the world enjoy their lore.        399
 
 विद्याधनं स्थिरं श्रेष्ठमेकमेव धनं भवेत् ।  
 धनान्यन्यान्यस्थिराणि वस्तुतो न धनानि हि ॥ ४००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४००</summary>
+
+400\. kēṭu il viḻuc celvam kalvi; oruvaṟku  
+māṭu alla, maṟṟaiyavai.
+
+400\. The precious undecaying wealth of a man is his learning. All other riches are no wealth at all.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४००</summary>
@@ -10539,6 +14076,14 @@ Nothing else gives genuine joy.        400
 विना रङ्गस्थलीमक्षप्रयोक्त्रा स भवेत् समः ॥ ४०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४०१</summary>
+
+401\. araṅku iṉṟi vaṭṭu āṭiyaṟṟē-nirampiya  
+nūl iṉṟik kōṭṭi koḷal.
+
+401\. Entering an assembly without sufficient knowledge is like playing at a dice board without its knowledge.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४०१</summary>
 
 1\. அரங்கின்றி வட்டாடி யற்றே நிரம்பிய  
@@ -10563,6 +14108,14 @@ Vain is imperfect loreless word.        401
 
 अपण्डितस्य विदुषां पुरतो भाषणे मतिः ।  
 नार्यः कुचाभ्यां हीनायाः स्त्रीत्वकाङ्क्षेव निष्फला ॥ ४०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०२</summary>
+
+402\. kallātāṉ col kāmuṟutal, mulai iraṇṭum  
+illātāḷ peṇ kāmuṟṟaṟṟu.
+
+402\. The desire of the ignorant to speak is like the desire of a woman without breasts claiming womanhood.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४०२</summary>
@@ -10591,6 +14144,14 @@ Is breastless lady's love-approach.        402
 मौनमालम्ब्य तिष्ठन्तः भजन्ते नोपहास्याताम् ॥ ४०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४०३</summary>
+
+403\. kallātavarum naṉi nallar-kaṟṟārmuṉ  
+collātu irukkappeṟiṉ.
+
+403\. Blessed are the ignorant if they venture not to address the assembly of the learned.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४०३</summary>
 
 3\. கல்லா தவரும் நனிநல்லர் கற்றார்முன்  
@@ -10615,6 +14176,14 @@ If before the wise, they hold their peace.        403
 
 विद्याभ्यासं विना ज्ञानं विन्दते स्वयमेव यः ।  
 निर्दुष्टमपि तद् ज्ञानं न श्र्लाघन्ते बुधोत्तमाः ॥ ४०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०४</summary>
+
+404\. kallātāṉ oṭpam kaḻiya naṉṟu āyiṉum,  
+koḷḷār, aṟivu uṭaiyār.
+
+404\. The learned value not the intelligence of the illiterate.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४०४</summary>
@@ -10643,6 +14212,14 @@ Is not valued by the savant.        404
 बुधैर्भाषणवेळायां स्वयं विलयमेष्यति ॥ ४०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४०५</summary>
+
+405\. kallā oruvaṉ takaimai, talaippeytu  
+collāṭa, cōrvupaṭum.
+
+405\. The pretensions of the illiterate disappear the moment they launch upon a discussion with the learned.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४०५</summary>
 
 5\. கல்லா ஒருவன் தகைமை தலைப்பெய்து  
@@ -10667,6 +14244,14 @@ Sadly fails before savants.        405
 
 ऊषरक्षेत्रसदृशा विद्याहीना नरा भुवि ।  
 केवलं जनिमन्तस्ते न तेषां सत्तया फलम् ॥ ४०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०६</summary>
+
+406\. uḷar eṉṉum māttiraiyar allāl, payavāk  
+kaḷar aṉaiyar-kallātavar.
+
+406\. The ignorant just exist; they are like a piece of barren land.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४०६</summary>
@@ -10695,6 +14280,14 @@ People speak of untaught minds
 किं वा प्रयोजनं नृणां मृण्मयी प्रतिमैव ते ॥ ४०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४०७</summary>
+
+407\. nuṇ māṇ nuḻai pulam illāṉ eḻil nalam  
+maṇ māṇ puṉai pāvai aṟṟu.
+
+407\. The imposing position of one who lacks penetrating intellect reminds us of the external glitter of clay.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४०७</summary>
 
 7\. நுண்மாண் நுழைபுலம் இல்லான் எழில்நலம்  
@@ -10719,6 +14312,14 @@ Grand subtle lore who fails to know.        407
 
 पण्डिताश्रितदारिद्र्यात् नितरां खेददायिनी ।  
 भवेन्मूढाश्रिता सम्पत् नात्र कार्या विचारणा ॥ ४०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४०८</summary>
+
+408\. nallārkaṇ paṭṭa vaṟumaiyiṉ iṉṉātē-  
+kallārkaṇ paṭṭa tiru.
+
+408\. Far sweeter is the poverty of the learned than the riches of the ignorant.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४०८</summary>
@@ -10747,6 +14348,14 @@ Than a learned man's empty purse.        408
 महिम्ना नाधिरोहन्ति ते तुलां बुधसत्तमैः ॥ ४०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४०९</summary>
+
+409\. mēṟpiṟantār āyiṉum kallātār, kīḻppiṟantum  
+kaṟṟār aṉaittu ilar pāṭu.
+
+409\. The highborn ignorant sink low in the scale while the learned even of humble birth are exalted.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४०९</summary>
 
 9\. மேற்பிறந்தா ராயினும் கல்லாதார் கீழ்ப்பிறந்தும்  
@@ -10771,6 +14380,14 @@ Than low-born men of learning's worth.        409
 
 मृगाणां मानवानां च यथास्ति महदन्तरम् ।  
 तथा विद्याविहीनानां सतां च ग्रन्थसेविनाम् ॥ ४१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४१०</summary>
+
+410\. vilaṅkoṭu makkaḷ aṉaiyar-ilaṅku nūl  
+kaṟṟāroṭu ēṉaiyavar.
+
+410\. The ignorant are but beasts by the side of men of wide learning.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४१०</summary>
@@ -10801,6 +14418,14 @@ Before scholars of shining lore.        410
 सत्सु वित्तेषु बहुषु मुख्यमेतद्विभाव्यते ॥ ४११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४११</summary>
+
+411\. celvattuḷ celvam ceviccelvam; ac celvam  
+celvattuḷ ellām talai.
+
+411\. The wealth of all wealth is the wealth of hearing. It out-tops all other wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४११</summary>
 
 1\. செல்வத்துள் செல்வஞ் செவிச்செல்வம் அச்செல்வம்  
@@ -10825,6 +14450,14 @@ It is the best of wealths on earth.        411
 
 श्रोत्रं श्रवणरूपान्नविहीनं स्याद्यदा तदा ।  
 देयं देहस्य चाप्यन्नं श्रोत्राभावे कयं श्रुति ॥ ४१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४१२</summary>
+
+412\. cevikku uṇavu illāta pōḻtu, ciṟitu,  
+vayiṟṟukkum īyappaṭum.
+
+412\. Men think a little of the stomach only when the ear is not fed.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४१२</summary>
@@ -10853,6 +14486,14 @@ When the ear gets no food for thought.        412
 हविर्भुग्भिरमर्त्यैस्तु भवेयुः सदृशा नराः ॥ ४१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४१३</summary>
+
+413\. ceviyuṇaviṉ kēḷvi uṭaiyār, aviyuṇaviṉ  
+āṉṟāroṭu oppar, nilattu.
+
+413\. Those mortals who feast their ears with learning are one with the immortals with their sacrificial offerings.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४१३</summary>
 
 3\. செவியுணவிற் கேள்வி யுடையார் அவியுணவின்  
@@ -10877,6 +14518,14 @@ Equal gods on oblations fed.        413
 
 यदि नाध्ययनं साध्यं श्रुत्वा वा ज्ञानमाप्नुहि ।  
 तद् ज्ञानं साह्यदं खेदे करयष्टिसमं तव ॥ ४१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४१४</summary>
+
+414\. kaṟṟilaṉ āyiṉum kēṭka; aḵtu oruvaṟku  
+oṟkattiṉ ūṟṟu ām tuṇai.
+
+414\. Though devoid of learning let one fill one’s ear with knowledge. It is his prop in his hour of gloom.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४१४</summary>
@@ -10905,6 +14554,14 @@ That serves a staff and stay in need.        414
 पङ्कदेशे विचरतो हस्तालम्बनदण्डवत् ॥ ४१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४१५</summary>
+
+415\. iḻukkal uṭai uḻi ūṟṟukkōl aṟṟē-  
+oḻukkam uṭaiyār vāyc col.
+
+415\. The counsel of the upright is like a staff over a slippery ground.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४१५</summary>
 
 5\. இழுக்கல் உடையுழி ஊற்றுக்கோல் அற்றே  
@@ -10929,6 +14586,14 @@ A strong staff on slippery ground.        415
 
 कणशो वापि तत्त्वार्थः श्रेतव्याः समये सति ।  
 असकृत् श्रवणात् तत्त्वं ज्ञातं सत् पूर्णतां व्रजेत् ॥ ४१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४१६</summary>
+
+416\. eṉaittāṉum nallavai kēṭka! aṉaittāṉum  
+āṉṟa perumai tarum.
+
+416\. Listen to wholesome counsel however meagre; for out of it springs great good.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४१६</summary>
@@ -10957,6 +14622,14 @@ That much will highly exalt you.        416
 अजानन्तोऽपि याथार्थ्ये न ब्रूयुर्मोहदं वचः ॥ ४१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४१७</summary>
+
+417\. piḻaittu uṇarntum pētaimai collār-iḻaittu uṇarntu  
+īṇṭiya kēḷviyavar.
+
+417\. Men of searching understanding do not speak foolishly even in a thoughtless mood.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४१७</summary>
 
 7\. பிழைத்துணர்ந்தும் பேதைமை சொல்லார் இழைத்துணர்ந்  
@@ -10981,6 +14654,14 @@ Not ev'n by slip speak foolishly.        417
 
 शास्त्रश्रवणमात्रेण श्रोत्रं भवति सार्थकम् ।  
 ग्राहकं त्वन्यशब्दानां श्रोत्रं बाधिर्यवन्मतम् ॥ ४१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४१८</summary>
+
+418\. kēṭpiṉum kēḷāt takaiyavē-kēḷviyāl  
+tōṭkap paṭāta cevi.
+
+418\. The ear that is not filled with understanding is really deaf.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४१८</summary>
@@ -11009,6 +14690,14 @@ Which is not by wisdom drilled.        418
 ते विनीतवचोयुक्ता भवेयु र्न तथा परे ॥ ४१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४१९</summary>
+
+419\. nuṇaṅkiya kēḷviyar allār vaṇaṅkiya  
+vāyiṉar ātal aritu.
+
+419\. Men that lack subtle understanding lack modesty in speech.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४१९</summary>
 
 9\. நுணங்கிய கேள்வியர் ரல்லார் வணங்கிய  
@@ -11033,6 +14722,14 @@ Who care little to counsels wise.        419
 
 श्रोत्रैर्नवरसास्वादमकृत्वा जिह्वया परम् ।  
 षड्सास्वादचतुरा जीवन्तोऽपि मृतैः समाः ॥ ४२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४२०</summary>
+
+420\. ceviyiṉ cuvai uṇarā, vāy uṇarviṉ, mākkaḷ  
+aviyiṉum vāḻiṉum eṉ.
+
+420\. What avails it whether men live or die, if they merely satisfy the palate and not feed the ear with wisdom.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४२०</summary>
@@ -11063,6 +14760,14 @@ What if they fare ill or well here?        420
 रिपूणां दुष्प्रवेशं तदन्तःप्राकारवद्भवेत् ॥ ४२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४२१</summary>
+
+421\. aṟivu, aṟṟam kākkum karuvi; ceṟuvārkkum  
+uḷ aḻikkal ākā araṇ.
+
+421\. The weapon of wisdom saves one from evil. It is a citadel which cannot be destroyed by the foe.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४२१</summary>
 
 1\. அறிவற்றங் காக்குங் கருவி செறுவார்க்கும்  
@@ -11087,6 +14792,14 @@ It is a fort defying foes.        421
 
 निगृह्य चञ्चलं चित्तं दुष्कृत्याद्विनिवर्त्य तत् ।  
 नियोजनं च सत्कार्ये ज्ञानप्राप्तेः फलं भवेत् ॥ ४२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४२२</summary>
+
+422\. ceṉṟa iṭattāl celaviṭā, tītu orīi,  
+naṉṟiṉ pāl uyppatu-aṟivu.
+
+422\. Wisdom bridles the wandering mind, keeps it away from evil and bids it tread the right path.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४२२</summary>
@@ -11115,6 +14828,14 @@ Expels evils, impels goodness.        422
 विमृश्य तस्य निश्कर्षे साधनं ज्ञानमुच्यते ॥ ४२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४२३</summary>
+
+423\. ep poruḷ yār yār vāyk kēṭpiṉum, ap poruḷ  
+meyp poruḷ kāṇpatu-aṟivu.
+
+423\. Wisdom seeks the truth of all things which are heard or uttered.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४२३</summary>
 
 3\. எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்  
@@ -11139,6 +14860,14 @@ From everyone is wisdom fair.        423
 
 स्पष्टार्थकं सुविज्ञेयं ज्ञानी वाक्यमुदीरयेत् ।  
 श्रुत्वाऽन्यवचनं क्लिष्टमपि विद्याद्विमृश्य च ॥ ४२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४२४</summary>
+
+424\. eṇ poruḷavākac celac colli, tāṉ piṟarvāy  
+nuṇ poruḷ kāṇpatu-aṟivu.
+
+424\. Wisdom unravels things subtle and seeks them in others.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४२४</summary>
@@ -11167,6 +14896,14 @@ Wisdom subtle sense comprehends.        424
 महद्भिः स्नेहमाप्नोति ज्ञानवान् ज्ञानसाधनात् ॥ ४२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४२५</summary>
+
+425\. ulakam taḻīiyatu oṭpam; malartalum  
+kūmpalum illatu-aṟivu.
+
+425\. To befriend the world is wisdom; and wisdom is not inconstant like the flower that blossoms and fades.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४२५</summary>
 
 5\. உலகம் தழீஇய தொட்பம் மலர்தலும்  
@@ -11191,6 +14928,14 @@ They bloom nor gloom, equal in mind.        425
 
 सदाचारपरा लोकाः येन यान्ति पथाऽनिशम् ।  
 प्रवर्तनं तमालम्ब्य ज्ञानशीलस्य लक्षणम् ॥ ४२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४२६</summary>
+
+426\. evvatu uṟaivatu ulakam, ulakattoṭu  
+avvatu uṟaivatu-aṟivu.
+
+426\. To be one with the world is wisdom.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४२६</summary>
@@ -11219,6 +14964,14 @@ In tune with changing times and ways.        426
 तद् ज्ञातुमसमर्थास्तु मन्तव्या ज्ञानवर्जिताः ॥ ४२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४२७</summary>
+
+427\. aṟivu uṭaiyār āvatu aṟivār; aṟivu ilār  
+aḵtu aṟikallātavar.
+
+427\. Wisdom knows the future but not ignorance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४२७</summary>
 
 7\. அறிவுடையார் ஆவ தறிவார் அறிவிலார்  
@@ -11243,6 +14996,14 @@ The unwise lack in that wisdom.        427
 
 ये न बिभ्यति ते मूढा दुष्कृत्यात् पापभीतिदात् ।  
 भीरुता पापकृत्येषु धीमतां प्रकृतिर्भवेत् ॥ ४२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४२८</summary>
+
+428\. añcuvatu añcāmai pētaimai; añcuvatu  
+añcal, aṟivār toḻil.
+
+428\. It is folly not to fear what must be feared. It is wisdom to fear what must be feared.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४२८</summary>
@@ -11271,6 +15032,14 @@ Not to fear the frightful's folly.        428
 चित्तक्षोभकरं दुःखं न कदाचिद्भविष्यति ॥ ४२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४२९</summary>
+
+429\. etiratāk kākkum aṟiviṉārkku illai-  
+atira varuvatōr nōy.
+
+429\. Men of foresight who guard themselves against coming events know no distress.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४२९</summary>
 
 9\. எதிரதாக் காக்கும் அறிவினார்க் கில்லை  
@@ -11295,6 +15064,14 @@ Who guard themselves against surprise.        429
 
 विनान्यैः सकलैर्ज्ञानमात्रात् सर्वार्थवान्नरः ।  
 ज्ञानाभावे सर्वहीनो भवेत् सर्वार्थवानपि ॥ ४३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४३०</summary>
+
+430\. aṟivu uṭaiyār ellām uṭaiyār; aṟivu ilār  
+eṉ uṭaiyarēṉum ilar.
+
+430\. The wise possess everything; but the poor are the unwise rich.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४३०</summary>
@@ -11849,6 +15626,14 @@ Than being hated by countless foes.        450
 दुष्टान् बन्धुसमान् कृत्वा नीचास्तुष्यन्ति तैः सह ॥ ४५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४५१</summary>
+
+451\. ciṟṟiṉam añcum, perumai; ciṟumaitāṉ  
+cuṟṟamāc cūḻntuviṭum.
+
+451\. The great dread the company of the ignoble, for the ignoble delight in the company of the mean.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४५१</summary>
 
 1\. சிற்றினம் அஞ்சும் பெருமை சிறுமைதான்  
@@ -11873,6 +15658,14 @@ The mean hold them as kinsmen dear.        451
 
 भूगतं सलिलं भूमिभेदाद् भिन्नरसं यथा ।  
 तथा नरः सङ्गभेदाद् भिन्नभिन्नमतिर्भवेत् ॥ ४५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५२</summary>
+
+452\. nilattu iyalpāṉ nīr tirintu, aṟṟu ākum;- māntarkku  
+‘iṉattu’ iyalpatu ākum, aṟivu.
+
+452\. Water smacks of the soil; The wisdom of man takes the colour of the company he keeps.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४५२</summary>
@@ -11901,6 +15694,14 @@ With mates changes the mental state.        452
 अयं योग्यो न वेत्येतद् ज्ञानं साङ्गत्यहेतुकम् ॥ ४५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४५३</summary>
+
+453\. maṉattāṉ ām, māntarkku uṇarcci; iṉattāṉ ām,  
+‘iṉṉāṉ’ eṉappaṭum col.
+
+453\. It is the mind that helps a man to gain knowledge; but it is one’s association that makes people say what sort of man he is.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४५३</summary>
 
 3\. மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்  
@@ -11925,6 +15726,14 @@ The worth of man upon his friend.        453
 
 विशेषशेमुषी भायादादौ चित्तनिबन्धना ।  
 विमर्शे सापि साङ्गत्यमूलैवेति स्थितिर्धुवा ॥ ४५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५४</summary>
+
+454\. maṉattu uḷatu pōlak kāṭṭi, oruvaṟku  
+iṉattu uḷatu ākum-aṟivu.
+
+454\. One’s wisdom partakes of the nature of one’s mind and one is known by the company he keeps.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४५४</summary>
@@ -11953,6 +15762,14 @@ But it truly flows from the kind.        454
 सत्साङ्गत्यवशादेव भवेदिति विभाव्यताम् ॥ ४५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४५५</summary>
+
+455\. maṉam tūymai, ceyviṉai tūymai, iraṇṭum  
+iṉam tūymai tūvā varum.
+
+455\. Purity of mind and purity of action are of a piece with the purity of one’s associates.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४५५</summary>
 
 5\. மனந்தூய்மை செய்வினை தூய்மை இரண்டும்  
@@ -11977,6 +15794,14 @@ Comes from good company indeed.        455
 
 लोके शुद्धमनस्कानां शुद्धा स्याद् भाविसन्ततिः ।  
 सत्साङ्गत्यसमेतानां जायते सकलं शुभम् ॥ ४५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५६</summary>
+
+456\. maṉam tūyārkku eccam naṉṟu ākum; iṉam tūyārkku  
+illai, naṉṟu ākā viṉai.
+
+456\. A good progeny awaits the pure. There is no effort of one endowed with good company but bears fruit.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४५६</summary>
@@ -12005,6 +15830,14 @@ Pure friendship acts with victory.        456
 सत्साङ्गत्यान्मनःशुद्धया सह कीर्तिरपि ध्रुवा ॥ ४५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४५७</summary>
+
+457\. maṉa nalam maṉ uyirkku ākkam; iṉa nalam  
+ellāp pukaḻum tarum.
+
+457\. Company of the pure brings one all glory.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४५७</summary>
 
 7\. மனநலம் மன்னுயிர்க் காக்கம் இனநலம்  
@@ -12029,6 +15862,14 @@ Good friendship fosters fame again.        457
 
 मनःशुद्धिः पुण्यकृत्यात् स्वयं जायेत केषुचित् ।  
 सत्साङ्गत्यं चित्तशुद्धिं वर्धयेत् तादृशेष्वपि ॥ ४५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४५८</summary>
+
+458\. maṉa nalam naṉku uṭaiyar āyiṉum, cāṉṟōrkku  
+iṉa nalam ēmāppu uṭaittu.
+
+458\. The wise may be pure in mind. Good company is the source of one’s strength.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४५८</summary>
@@ -12057,6 +15898,14 @@ In friends of worth a new strength find.        458
 सत्सङ्गतिः सुखस्यास्य प्राप्तौ विघ्नं निवारयेत् ॥ ४५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४५९</summary>
+
+459\. maṉa nalattiṉ ākum, maṟumai; maṟṟu aḵtum  
+iṉa nalattiṉ ēmāppu uṭaittu.
+
+459\. Heaven awaits the pure of heart; verily it is the reward of good company.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४५९</summary>
 
 9\. மனநலத்தின் ஆகும் மறுமைமற் றஃதும்  
@@ -12081,6 +15930,14 @@ Good company gains strength to this.        459
 
 सत्सङ्गतिसमं मित्रं न भवेत् सुखसाधनम् ।  
 दुसङ्गतिसमः शत्रुरपकर्ता न विद्यते ॥ ४६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४६०</summary>
+
+460\. nal iṉattiṉ ūṅkum tuṇai illai; tī iṉattiṉ  
+allaṟpaṭuppatūum il.
+
+460\. There is no greater evil than the company of the wicked.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४६०</summary>
@@ -12111,6 +15968,14 @@ The bad to untold anguish leads.        460
 कार्यरम्भे विमृश्याथ कार्यमारभ्यतां बुधैः ॥ ४६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४६१</summary>
+
+461\. aḻivatūum āvatūum āki, vaḻipayakkum  
+ūtiyamum cūḻntu, ceyal!.
+
+461\. After much deliberation over profit and loss and the final gains, launch on a task.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४६१</summary>
 
 1\. அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும்  
@@ -12135,6 +16000,14 @@ And proper action ascertain.        461
 
 परीक्ष्य सुगृहीतेन सन्मित्रेण विमृश्य च ।  
 स्वयं चालोच्य यः कुर्यादसाध्यं तस्य किं भवेत् ॥ ४६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४६२</summary>
+
+462\. terinta iṉattoṭu tērntu eṇṇic ceyvārkku  
+arum poruḷ yātu oṉṟum il.
+
+462\. Nothing is impossible for those who act after listening to the counsel of persons of known probity.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४६२</summary>
@@ -12163,6 +16036,14 @@ With worthy counsels weighing facts.        462
 बुद्धिमान्तो नरा नैव व्ययीकुर्वन्ति सर्वदा ॥ ४६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४६३</summary>
+
+463\. ākkam karuti, mutal iḻakkum ceyviṉai  
+ūkkār, aṟivu uṭaiyār.
+
+463\. The wise do not approve of the action of those who lose their capital anticipating some distant gain.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४६३</summary>
 
 3\. ஆக்கம் கருதி முதலிழக்கும் செய்வினை  
@@ -12187,6 +16068,14 @@ In doubtful gains and lose their all.        463
 
 ''इयाँलाभ'' इति स्पष्टमज्ञात्वा कर्मणि प्रजाः ।  
 सहसा न प्रवर्तन्ते मानहानिभयार्दिताः ॥ ४६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४६४</summary>
+
+464\. teḷivu ilataṉait toṭaṅkār-iḷivu eṉṉum  
+ētappāṭu añcupavar.
+
+464\. Men who dread ignominy never embark on a work without deliberation.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४६४</summary>
@@ -12215,6 +16104,14 @@ Commence no work not made clear.        464
 प्रविशन् पार्थिवः शत्रुवर्धकः स्यान्न घातकः ॥ ४६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४६५</summary>
+
+465\. vakai aṟac cūḻātu eḻutal, pakaivaraip  
+pāttip paṭuppatu ōr āṟu.
+
+465\. A thoughtless expedition only fosters the might of one’s foes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४६५</summary>
 
 5\. வகையறச் சூழா தெழுதல் பகைவரைப்  
@@ -12239,6 +16136,14 @@ His field is sure to foster foes.        465
 
 अकर्तव्यस्य करणं कर्तव्यस्य विसर्जनम् ।  
 इत्येतदुभयं नृणां विनाशास्पदमिष्यते ॥ ४६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४६६</summary>
+
+466\. ceytakka alla ceyak keṭum; ceytakka  
+ceyyāmaiyāṉum keṭum.
+
+466\. To do a thing which ought not to be done is to court trouble; to fail to do a thing which ought to be done is to land oneself in ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४६६</summary>
@@ -12267,6 +16172,14 @@ Failing fit-act also ruins.        466
 प्रविश्य कार्ये नोपायचिन्तनं कार्यसाधकम् ॥ ४६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४६७</summary>
+
+467\. eṇṇit tuṇika, karumam; tuṇintapiṉ,  
+eṇṇuvam eṉpatu iḻukku.
+
+467\. Begin your task after much deliberation. To think after launching action is to court a grievous blunder.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४६७</summary>
 
 7\. எண்ணித் துணிக கருமம் துணிந்தபின்  
@@ -12291,6 +16204,14 @@ Dare and think is bad in need.        467
 
 बहूनां साह्यमाप्यापि स कार्यं न हि साधयेत् ।  
 उपायांश्चतुरो यस्तु न प्रयुङ्क्ते यथायथम् ॥ ४६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४६८</summary>
+
+468\. āṟṟiṉ varuntā varuttam, palar niṉṟu  
+pōṟṟiṉum, pottuppaṭum.
+
+468\. An ill-organised scheme though supported by many goes to pieces.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४६८</summary>
@@ -12319,6 +16240,14 @@ Is doomed to fall though supported.        468
 नाचरेद्यस्तु तस्यस्युर्यत्ना दोषसमन्विताः ॥ ४६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४६९</summary>
+
+469\. naṉṟu āṟṟaluḷḷum tavaṟu uṇṭu-avaravar  
+paṇpu aṟintu āṟṟākkaṭai.
+
+469\. Even a good scheme falls through if we do not divine aright the disposition of men.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४६९</summary>
 
 9\. நன்றாற்ற லுள்ளும் தவறுண்டு அவரவர்  
@@ -12343,6 +16272,14 @@ Or ev'n good leads to evil feud.        469
 
 निजस्थित्यनुरोधेन कुरु सर्वं विमृश्य च ।  
 न चेन्निन्देत् त्वां हि लोकः क्रियतां लोकसङ्ग्रहः ॥ ४७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७०</summary>
+
+470\. eḷḷāta eṇṇic ceyalvēṇṭum-tammoṭu  
+koḷḷāta koḷḷātu ulaku.
+
+470\. Let not the king do; any unwise act lest the world should hold him in scorn.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४७०</summary>
@@ -12373,6 +16310,14 @@ The world refutes uncomely mess.        470
 बलं द्वयोः पक्षयोश्च परामृश्य प्रवर्तय ॥ ४७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४७१</summary>
+
+471\. viṉai valiyum, taṉ valiyum, māṟṟāṉ valiyum,  
+tuṇai valiyum, tūkkic ceyal.
+
+471\. A king must act after measuring the strength of his plan, his own resources, the strength of the enemy and that of the ally.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४७१</summary>
 
 1\. வினைவலியும் தன்வலியும் மாற்றான் வலியும்  
@@ -12397,6 +16342,14 @@ The allies' strength and go at length.        471
 
 कार्यस्य साध्यतां तद्वदुपायानां बलिष्ठताम् ।  
 जानन् दत्तावधानो यः तेन सर्वमवाप्यते ॥ ४७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७२</summary>
+
+472\. olvatu aṟivatu aṟintu, ataṉkaṇ taṅkic  
+celvārkkuc cellātatu il.
+
+472\. Nothing is impossible for them who know the nature of their task and throw themselves heart and soul into it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४७२</summary>
@@ -12425,6 +16378,14 @@ What they can and how to go.        472
 कार्यमारभ्य मध्ये तु विघ्निता बहवो भुवि ॥ ४७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४७३</summary>
+
+473\. uṭait tam vali aṟiyār, ūkkattiṉ ūkki,  
+iṭaikkaṇ murintār palar.
+
+473\. Many kings have failed in the middle of their enterprise, for they have launched on it in their blind ignorant zeal.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४७३</summary>
 
 3\. உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி  
@@ -12449,6 +16410,14 @@ Their pride breaks up in boastful fight.        473
 
 अकृत्वा च परैः स्नेहमज्ञात्वा बलमात्मनः ।  
 आत्मश्लाघापरा लोके नाशं शीघ्रमवाप्नुयुः ॥ ४७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७४</summary>
+
+474\. amaintu āṅku oḻukāṉ, aḷavu aṟiyāṉ, taṉṉai  
+viyantāṉ, viraintu keṭum.
+
+474\. He who is ignorant of the might of his foe and who thinks too much of himself will come to grief.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४७४</summary>
@@ -12477,6 +16446,14 @@ And brags himself-his fall is sure.        474
 भारपूर्णे तु शकटे भवेदक्षस्य भञ्जनम् ॥ ४७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४७५</summary>
+
+475\. pīli pey cākāṭum accu iṟum-ap paṇṭam  
+cāla mikuttup peyiṉ.
+
+475\. The axle of a cart breaks even under the overload of a peacock’s feathers.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४७५</summary>
 
 5\. பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்  
@@ -12501,6 +16478,14 @@ Cart's axle breaks by gross volume.        475
 
 वृक्षशाखाग्रमास्थाय ततोऽप्यारोढुमूर्ध्वतः ।  
 उद्यतः शाखया साकं भग्नप्राणोप्यधः पतेत् ॥ ४७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७६</summary>
+
+476\. nuṉik kompar ēṟiṉār aḵtu iṟantu ūkkiṉ  
+uyirkku iṟuti ākiviṭum.
+
+476\. Over-vaulting ambition perishes.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४७६</summary>
@@ -12529,6 +16514,14 @@ Ends the life as his body rips.        476
 दानशीलस्य विन्त्त तु न कदापि विनश्यति ॥ ४७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४७७</summary>
+
+477\. āṟṟiṉ aḷavu aṟintu īka; atu poruḷ  
+pōṟṟi vaḻaṅkum neṟi.
+
+477\. Let your charity be according to the measure of your wealth. That is the way to preserve it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४७७</summary>
 
 7\. ஆற்றின் அளவறிந்து ஈக அதுபொருள்  
@@ -12553,6 +16546,14 @@ This way give and guard your treasure.        477
 
 आयः स्वल्पो यदि भवेत् न दोषस्तत्र विद्यते ।  
 आयाद् व्ययस्य चाधिक्ये महान् दोषः प्रसज्यते ॥ ४७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४७८</summary>
+
+478\. āku āṟu aḷavu iṭṭitu āyiṉum, kēṭu illai-  
+pōku āṟu akalākkaṭai.
+
+478\. No harm comes of one’s small earnings. Let not one’s expense out-run one’s income.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४७८</summary>
@@ -12581,6 +16582,14 @@ No matter how small income is.        478
 जीविते तस्य सम्पत्तिराभासा न तु शाश्वती ॥ ४७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४७९</summary>
+
+479\. aḷavu aṟintu vāḻātāṉ vāḻkkai uḷapōla  
+illāki, tōṉṟāk keṭum.
+
+479\. The seeming prosperity of the extravagant perishes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४७९</summary>
 
 9\. அளவறிந்து வாழாதான் வாழ்க்கை உளபோல  
@@ -12605,6 +16614,14 @@ His life seems rich but thins and ends.        479
 
 आयमार्गमनालोच्य परेषामुपकुर्वतः ।  
 जीविते तस्य सम्पत्तिः क्षीयते झटिति स्वयम् ॥ ४८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८०</summary>
+
+480\. uḷa varai tūkkāta oppuravu āṇmai,  
+vaḷa varai vallaik keṭum.
+
+480\. The fortune of one, lavish of charity beyond measure, goes to rack and rain.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४८०</summary>
@@ -12635,6 +16652,14 @@ Sans level if one lavishes.        480
 जयैषिणस्तथा राज्ञः कालः ख्रलु निरीक्ष्यते ॥ ४८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४८१</summary>
+
+481\. pakal vellum, kūkaiyaik kākkai;- ikal vellum  
+vēntarkku vēṇṭum, poḻutu.
+
+481\. During the day the crow conquers the owl. So the monarch who wishes to defeat the enemy must choose the proper time.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४८१</summary>
 
 1\. பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்  
@@ -12659,6 +16684,14 @@ Kings need right time their foes to quell.        481
 
 काले कर्म समारब्धं विचार्य च कृतं पुनः ।  
 अस्थिरामपि सम्पत्तिं बघ्नात्येकत्र सुस्थिराम् ॥ ४८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८२</summary>
+
+482\. paruvattoṭu oṭṭa oḻukal-tiruviṉait  
+tīrāmai ārkkum kayiṟu.
+
+482\. Action at the appropriate hour is the rope that holds for ever the Goddess of Fortune to the King.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४८२</summary>
@@ -12687,6 +16720,14 @@ That fortune binds in bon accord.        482
 साध्यते सुलभं तेन नासाध्यं भुवि किञ्चन ॥ ४८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४८३</summary>
+
+483\. aru viṉai eṉpa uḷavō-karuviyāṉ  
+kālam aṟintu ceyiṉ.
+
+483\. Is there anything impossible if one acts at the right time and with the proper equipment?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४८३</summary>
 
 3\. அருவினை என்ப உளவோ கருவியான்  
@@ -12711,6 +16752,14 @@ With proper means and time and tacts?        483
 
 कृत्स्नामपि महीं भोक्तुं स शक्नोति महीतले ।  
 काले देशे च कर्माणि यः करोति समाहितः ॥ ४८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८४</summary>
+
+484\. ñālam karutiṉum, kaikūṭum-kālam  
+karuti, iṭattāṉ ceyiṉ.
+
+484\. One can succeed in the attempt to conquer the world if the right time and the right place are chosen.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४८४</summary>
@@ -12739,6 +16788,14 @@ Even the world you win with ease.        484
 युक्तकालं प्रतीक्षस्व निष्क्रियस्त्वं भज क्षमाम् ॥ ४८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४८५</summary>
+
+485\. kālam karuti iruppar-kalaṅkātu  
+ñālam karutupavar.
+
+485\. He who without any fear aims at the conquest of the world will await the season for it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४८५</summary>
 
 5\. காலம் கருதி இருப்பர் கலங்காது  
@@ -12763,6 +16820,14 @@ Wait unruffled biding their time.        485
 
 राज्ञः कालार्थिनो मौनाद् वर्तनं युद्धमन्तरा ।  
 मेषस्य युद्धतः पृष्ठगमनेन समं भवेत् ॥ ४८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८६</summary>
+
+486\. ūkkam uṭaiyāṉ oṭukkam poru takar  
+tākkaṟkup pērum takaittu.
+
+486\. The self-restraint of the mighty is like the drawing back of the fighting ram just before its attack.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४८६</summary>
@@ -12791,6 +16856,14 @@ Like rams retreating but to butt.        486
 अन्तर्निगूह्य ते कोपं काले स्युः कार्यसाधकाः ॥ ४८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४८७</summary>
+
+487\. poḷḷeṉa āṅkē puṟam vērār; kālam pārttu,  
+uḷ vērppar, oḷḷiyavar.
+
+487\. The wise will not fly into a passion when assailed; they allow their anger to smoulder within till the right time comes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४८७</summary>
 
 7\. பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்து  
@@ -12815,6 +16888,14 @@ They watch their time with hidden ire.        487
 
 नाशकाले समायाते रिपोः शीर्षमघः पतेत् ।  
 तावता मौनमास्थेयं क्षमया जयकाङ्क्षिणा ॥ ४८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८८</summary>
+
+488\. ceṟunaraik kāṇiṉ cumakka; iṟuvarai  
+kāṇiṉ kiḻakkām talai.
+
+488\. Bow before the enemy till the time of his destruction. When the hour comes, strike him down.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४८८</summary>
@@ -12843,6 +16924,14 @@ Fell down their head in fateful time.        488
 तदैव कुरु कर्तव्यं तं कालं न हि द्रक्ष्यसि ॥ ४८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४८९</summary>
+
+489\. eytaṟku ariyatu iyaintakkāl, an nilaiyē  
+ceytaṟku ariya ceyal.
+
+489\. Do not let slip a golden opportunity; when the hour dawns, attempt the impossible.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४८९</summary>
 
 9\. எய்தற் கரியது இயைந்தக்கால் அந்நிலையே  
@@ -12867,6 +16956,14 @@ Dare and do hard things then and there.        489
 
 कार्यसाधनपर्यन्तं बकवत्तिष्ठ निष्क्रियः ।  
 कुरु कार्यं क्षणात् काले चञ्च्वा मीनं बको यथा ॥ ४९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९०</summary>
+
+490\. kokku okka, kūmpum paruvattu; maṟṟu ataṉ  
+kuttu okka, cīrtta iṭattu.
+
+490\. When the time is not ripe, be still as a heron. But at the ripe hour, attack the enemy without missing your aim.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४९०</summary>
@@ -12897,6 +16994,14 @@ In fighting time strike like its peck.        490
 अनिश्चित्य न कुर्वीत युद्ध शत्रुं न द्वषयेत् ॥ ४९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४९१</summary>
+
+491\. toṭaṅkaṟka ev viṉaiyum; eḷḷaṟka-muṟṟum  
+iṭam kaṇṭapiṉ allatu!.
+
+491\. Scorn not the foe; embark not on any action till you secure a coign of vantage to overwhelm him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४९१</summary>
 
 1\. தொடங்கற்க எவ்வினையும் எள்ளற்க முற்றும்  
@@ -12921,6 +17026,14 @@ Until you have surveyed the place.        491
 
 सुरक्षितस्थलस्थेन विशिष्टबलशालिना ।  
 यो जयः प्राप्यते राज्ञा स तु सर्वार्थसाधकः ॥ ४९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९२</summary>
+
+492\. muraṇ cērnta moympiṉavarkkum araṇ cērntu ām  
+ākkam palavum tarum.
+
+492\. Even to men of great valour and power, manifold are the advantages yielded by a fortress.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४९२</summary>
@@ -12949,6 +17062,14 @@ Ev'n to kings of power and prowess.        492
 रणभूमिं विशन् राजा दुर्बलोऽपि बली भवेत् ॥ ४९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४९३</summary>
+
+493\. āṟṟārum āṟṟi aṭupa-iṭaṉ aṟintu  
+pōṟṟārkaṇ pōṟṟic ceyiṉ.
+
+493\. Even the weak are able to win if they choose the right place to assail the foe.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४९३</summary>
 
 3\. ஆற்றாரும் ஆற்றி அடுப இடனறிந்து  
@@ -12973,6 +17094,14 @@ In proper fields of strong defence.        493
 
 ज्ञात्वा युक्तस्थलीं तत्न स्थित्वा समरकर्मणि ।  
 यो विशेद् भूपतिस्तस्य नष्टाशाः स्युर्विरोधिनः ॥ ४९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९४</summary>
+
+494\. eṇṇiyār eṇṇam iḻappar-iṭaṉ aṟintu  
+tuṉṉiyār tuṉṉic ceyiṉ.
+
+494\. If a king stations himself at a right place the conquering foe loses all hope.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४९४</summary>
@@ -13001,6 +17130,14 @@ The plans of foes shall be baffled.        494
 स एव तीरमापन्नो हन्यते दुर्बलैरपि ॥ ४९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४९५</summary>
+
+495\. neṭum puṉaluḷ vellum mutalai; aṭum, puṉaliṉ  
+nīṅkiṉ, ataṉaip piṟa.
+
+495\. The crocodile in waters deep overpowers all; once it leaves the waters, he falls an easy prey to its foes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४९५</summary>
 
 5\. நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின்  
@@ -13025,6 +17162,14 @@ In land before others it fails.        495
 
 महान्तो दृढचक्राश्च न यान्त्यम्बुनिधौ रथाः ।  
 महीतले न प्रयान्ति नौका जलधिगामिनः ॥ ४९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९६</summary>
+
+496\. kaṭal ōṭā, kāl val neṭun tēr; kaṭal ōṭum  
+nāvāyum ōṭā, nilattu.
+
+496\. The strong wheeled lofty chariot cannot cross the seas, nor can ocean sailing ships move on land.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४९६</summary>
@@ -13053,6 +17198,14 @@ Nor on sea the strong-wheeled car.        496
 कार्यमाचरतो राज्ञः चित्तधैर्यमलं जये ॥ ४९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४९७</summary>
+
+497\. añcāmai allāl, tuṇai vēṇṭā-eñcāmai  
+eṇṇi iṭattāṉ ceyiṉ.
+
+497\. If one selects a suitable place by one’s discretion, no other help is needed.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४९७</summary>
 
 7\. அஞ்சாமை அல்லால் துணைவேண்டா எஞ்சாமை  
@@ -13077,6 +17230,14 @@ When field is chosen right for deed.        497
 
 अल्पसैन्यवतो राज्ञो गुप्तस्थलमुपेयुषः ।  
 समक्षं बहुसैन्यानामीशोऽपि लयमाप्नुयात् ॥ ४९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९८</summary>
+
+498\. ciṟu paṭaiyāṉ cel iṭam cēriṉ, uṟu paṭaiyāṉ  
+ūkkam aḻintu viṭum.
+
+498\. Ruined will be the strength of one who takes a large army to a place where the enemy of small forces is entrenched.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ४९८</summary>
@@ -13105,6 +17266,14 @@ One quells a foe of well-armed might.        498
 जेतुं न शक्यो भूपालः स्वस्थले निवसेद्यदि ॥ ४९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ४९९</summary>
+
+499\. ciṟai nalaṉum cīrum ilar eṉiṉum, māntar  
+uṟai nilattoṭu oṭṭal aritu.
+
+499\. A people may not have either strength or strongholds; still it is difficult to fight with them on their own soil.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ४९९</summary>
 
 9\. சிறைநலனும் சீரும் இலரெனினும் மாந்தர்  
@@ -13129,6 +17298,14 @@ Though fort and status are not fine.        499
 
 शूलहस्तमहावीरहन्तृदन्तयुतोऽपि सन् ।  
 पङ्कं विशन् मदगजः सृगालेनापि हन्यते ॥ ५००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५००</summary>
+
+500\. kāl āḻ kaḷaril nari aṭum, kaṇ añcā  
+vēl āḷ mukatta kaḷiṟu.
+
+500\. A mad elephant that kills the bold spearman is killed even by a jackal when it gets stuck up in the mire.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५००</summary>
@@ -13159,6 +17336,14 @@ Fearless with feet in deep quagmire.        500
 लब्धप्रत्ययवान् भूपः कार्ये भ्रुत्यान् नियोजयेत् ॥ ५०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५०१</summary>
+
+501\. aṟam, poruḷ, iṉpam, uyir accam, nāṉkiṉ  
+tiṟam terintu tēṟappaṭum.
+
+501\. One should be chosen after patting one to a fourfold test of righteousness, wealth, inclination and fear of life and death.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५०१</summary>
 
 1\. அறம்பொருள் இன்பம் உயிரெச்சம் நான்கின்  
@@ -13183,6 +17368,14 @@ Test by these four and trust the true.        501
 
 निर्दोषित्वं कुलीनत्वं लज्जा पापेषु भीरुता ।  
 एतैर्गुणैतान् राजा विश्वसेन्निजसेवकान् ॥ ५०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५०२</summary>
+
+502\. kuṭip piṟantu, kuṟṟattiṉ nīṅki, vaṭup pariyum  
+nāṇ uṭaiyāṉkaṭṭē teḷivu.
+
+502\. One of good family, free of faults, and possessed of a wholesome fear of sin, should be chosen.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५०२</summary>
@@ -13211,6 +17404,14 @@ Shamed of stain-that choice is worth.        502
 विचार्यमाणेत्वज्ञानं नूनं द्रष्टुं हि शक्यते ॥ ५०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५०३</summary>
+
+503\. ariya kaṟṟu, ācu aṟṟārkaṇṇum, teriyuṅkāl  
+iṉmai aritē, veḷiṟu.
+
+503\. One may be an unblemished man and of vast learning; but it is rare to find one free from ignorance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५०३</summary>
 
 3\. அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்  
@@ -13235,6 +17436,14 @@ Rare is freedom from ignorance.        503
 
 दोषं गुणं वा कस्मिश्चित् स्थितं विज्ञाय तत्त्वतः ।  
 ग्राह्यः स्याद् गुणभूयिष्ठः त्याज्यो विविधदोषभाक् ॥ ५०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५०४</summary>
+
+504\. kuṇam nāṭi, kuṟṟamum nāṭi, avaṟṟuḷ  
+mikai nāṭi, mikka koḷal!.
+
+504\. Examine the good and bad in a person and judge his character according to what predominates in his composition.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५०४</summary>
@@ -13263,6 +17472,14 @@ Judge him by virtues which prevail.        504
 ज्ञातुं तयोर्वृत्तिरेव निकषोपलतां व्रजेत् ॥ ५०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५०५</summary>
+
+505\. perumaikkum, ēṉaic ciṟumaikkum, tattam  
+karumamē kaṭṭaḷaik kal.
+
+505\. One’s own deed is the touchstone of one’s greatness and littleness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५०५</summary>
 
 5\. பெருமைக்கும் ஏனைச் சிறுமைக்கும் தத்தம்  
@@ -13287,6 +17504,14 @@ If any one is great or mean.        505
 
 न कुर्यात्प्रत्ययं बन्धुविंहीनेषु जनेष्विह ।  
 बन्धुबन्धविहीनत्वात् न निन्दां गणयन्ति ते ॥ ५०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५०६</summary>
+
+506\. aṟṟārait tēṟutal ōmpuka; maṟṟu avar  
+paṟṟu ilar; nāṇār paḻi.
+
+506\. Choose not persons who have no kith and kin, and who possesses no social instincts, they will be callous of heart and dread no crime.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५०६</summary>
@@ -13315,6 +17540,14 @@ Without affine or shame of sin.        506
 न केवलं कार्यहानिरज्ञतां विन्दते नृपः ॥ ५०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५०७</summary>
+
+507\. kātaṉmai kantā, aṟivu aṟiyārt tēṟutal  
+pētaimai ellām tarum.
+
+507\. It is the height of folly to choose the ignorant blinded by affection.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५०७</summary>
 
 7\. காதன்மை கந்தா அறிவறியார்த் தேறுதல்  
@@ -13339,6 +17572,14 @@ Folly in all its forms ensues.        507
 
 उदासीनान् प्रत्ययेन यः कार्येषु नियोजयेत् ।  
 न केवलमयं नश्येत् किन्तु भाविपरम्परा ॥ ५०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५०८</summary>
+
+508\. tērāṉ, piṟaṉait teḷintāṉ vaḻimuṟai  
+tīrā iṭumpai tarum.
+
+508\. To choose a stranger without knowing his traits results in one’s grief.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५०८</summary>
@@ -13367,6 +17608,14 @@ Endless troubles on all our kins.        508
 अविश्वासं विना तेषां युक्तं कार्येषु योजनम् ॥ ५०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५०९</summary>
+
+509\. tēṟaṟka yāraiyum, tērātu; tērnta piṉ,  
+tēṟuka, tēṟum poruḷ.
+
+509\. Let men be chosen with deliberate care; when once the choice is made, let no suspicions crump into your soul.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५०९</summary>
 
 9\. தேறற்க யாரையும் தேராது தேர்ந்தபின்  
@@ -13391,6 +17640,14 @@ Find proper work for trusted men.        509
 
 अविमृश्यैव विश्वासः विमृष्टस्य परिग्रहे ।  
 अविश्वासः इतीत्येतदुभयं खेददायकम् ॥ ५१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५१०</summary>
+
+510\. tērāṉ teḷivum, teḷintāṉkaṇ aiyuṟavum,  
+tīrā iṭumpai tarum.
+
+510\. To choose men with no forethought and to suspect them will land you in endless woes.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५१०</summary>
@@ -13421,6 +17678,14 @@ Both entail troubles in and out.        510
 पुरुषं योजयेत् कार्ये निर्भयं पृथिवीपतिः ॥ ५११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५११</summary>
+
+511\. naṉmaiyum tīmaiyum nāṭi, nalam purinta  
+taṉmaiyāṉ āḷappaṭum.
+
+511\. After examining the good and the bad, cling to the good.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५११</summary>
 
 1\. நன்மையும் தீமையும் நாடி நலம்புரிந்த  
@@ -13445,6 +17710,14 @@ The good and bad and do good turn.        511
 
 आयमार्ग परामृश्य धनं सम्पाद्य भूरिशः ।  
 तद्रक्षको विना विघ्नं राजकार्ये नियुज्यताम् ॥ ५१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५१२</summary>
+
+512\. vāri perukki, vaḷam paṭuttu, uṟṟavai  
+ārāyvāṉ ceyka viṉai!.
+
+512\. He who taps all productive sources and guards against losses is the true servant.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५१२</summary>
@@ -13473,6 +17746,14 @@ Fosters wealth and prevents ills.        512
 गुणैरेतैः समायुक्तो राजकार्ये नियोज्यताम् ॥ ५१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५१३</summary>
+
+513\. aṉpu, aṟivu, tēṟṟam, avā iṉmai, in nāṉkum  
+naṉku uṭaiyāṉkaṭṭē teḷivu.
+
+513\. Choose men, who are endowed with love, wisdom, clever vision and freedom from covetousness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५१३</summary>
 
 3\. அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்  
@@ -13497,6 +17778,14 @@ Love, wit, non-craving, clarity.        513
 
 जिता गुणपरीक्षायां ततः स्थाने नियन्त्रिताः ।  
 अन्ते केचित् स्थानदोषात् जायन्ते दुष्टबुद्धयः ॥ ५१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५१४</summary>
+
+514\. eṉai vakaiyāṉ tēṟiyakkaṇṇum, viṉai vakaiyāṉ  
+vēṟākum māntar palar.
+
+514\. Position corrupts even the men of our own deliberate choice.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५१४</summary>
@@ -13525,6 +17814,14 @@ Many differ before duty.        514
 समर्थमन्तरा नान्यं राजकार्ये निवेशयेत् ॥ ५१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५१५</summary>
+
+515\. aṟintu, āṟṟi, ceykiṟpāṟku allāl, viṉaitāṉ  
+ciṟantāṉ eṉṟu ēvaṟpāṟṟu aṉṟu.
+
+515\. Let worth prevail. Let not blind affection dictate the choice of men.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५१५</summary>
 
 5\. அறிந்தாற்றிச் செய்கிற்பாற்கு அல்லால் வினைதான்  
@@ -13549,6 +17846,14 @@ Not by fondness but by hard test.        515
 
 कर्तुर्गुणं क्रियातत्त्वं कालस्याप्यनुकूलताम् ।  
 सम्यग्विज्ञाय कार्येषु नरो योज्यो नराधिपैः ॥ ५१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५१६</summary>
+
+516\. ceyvāṉai nāṭi, viṉai nāṭi, kālattōṭu  
+eyta uṇarntu, ceyal!.
+
+516\. The thing to be done, the proper person for it and the appropriate time for doing it, must all be duly weighed.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५१६</summary>
@@ -13577,6 +17882,14 @@ And just in proper time proceed.        516
 इत्थमालोच्य तत्कार्ये स एव प्रेर्यतां नृपैः ॥ ५१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५१७</summary>
+
+517\. 'itaṉai, itaṉāl, ivaṉ muṭikkum' eṉṟu āyntu,  
+ataṉai avaṉkaṇ viṭal!.
+
+517\. Let the king be first convinced of the competency of a person; then he shall allow him to move freely in the sphere of his appointed task.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५१७</summary>
 
 7\. இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து  
@@ -13601,6 +17914,14 @@ Like this entrust the duty due.        517
 
 स्वकार्यसाधनार्हश्चेत् काश्चित्तस्मिन् क्रियाभरम् ।  
 निक्षिप्य राज्ञा दातव्यं स्वातन्त्र्यं कार्यसाधने ॥ ५१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५१८</summary>
+
+518\. viṉaikku urimai nāṭiya piṉṟai, avaṉai  
+ataṟku uriyaṉ ākac ceyal.
+
+518\. Choose men of approved merit and then make them worthy of the station.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५१८</summary>
@@ -13629,6 +17950,14 @@ Leave him to do the best he can.        518
 दूरीकरोति दुर्वाधात् यस्तु तं विसृजेद्रमा ॥ ५१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५१९</summary>
+
+519\. viṉaikkaṇ viṉaiyuṭaiyāṉ kēṇmai vēṟāka  
+niṉaippāṉai nīṅkum, tiru.
+
+519\. Prosperity deserts one who suspects the motives of a servant ever loyal to his work.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५१९</summary>
 
 9\. வினைக்கண் வினையுடையான் கேண்மைவே றாக  
@@ -13653,6 +17982,14 @@ Doubt them; and fortune departs quick.        519
 
 तृप्तेषु कर्मकारेषु लोकः स्यात् क्लेशवर्जितः ।  
 तत्तर्पणविधौ राज्ञा यत्नः स्वीक्रियतां सदा ॥ ५२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२०</summary>
+
+520\. nāḷtōṟum nāṭuka, maṉṉaṉ-viṉaiceyvāṉ  
+kōṭāmaik kōṭātu ulaku.
+
+520\. Let them not swerve from the right path; for on them rests the just conduct of the world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५२०</summary>
@@ -13683,6 +18020,14 @@ The king must look to this aright.        520
 स्मृत्वैव श्लाघनं लोके बन्धुलक्षणमुच्यते ॥ ५२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५२१</summary>
+
+521\. paṟṟu aṟṟakaṇṇum paḻamai pārāṭṭutal  
+cuṟṟattārkaṇṇē uḷa.
+
+521\. It is one’s own kith and kin that cherish their old attachments to men out of suit with fortune.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५२१</summary>
 
 1\. பற்றற்ற கண்ணும் பழமைபா ராட்டுதல்  
@@ -13707,6 +18052,14 @@ The old accustomed love to show.        521
 
 प्रेमपूर्वकबान्धव्यं कस्यचिल्लभ्यते यदि ।  
 तदेव सम्पदः सर्वाः तस्मै यच्छेत् सदातना ॥ ५२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२२</summary>
+
+522\. viruppu aṟāc cuṟṟam iyaiyiṉ, aṟuppu aṟā  
+ākkam palavum tarum.
+
+522\. One’s unceasing kinship is the source of all one’s fortune.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५२२</summary>
@@ -13735,6 +18088,14 @@ Fadeless fortune's fresh flowers.        522
 जलपूर्णतटाकस्य तीराभावसं भवेत् ॥ ५२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५२३</summary>
+
+523\. aḷavaḷāvu illātāṉ vāḻkkai-kuḷavaḷāk  
+kōṭu iṉṟi nīr niṟaintaṟṟu.
+
+523\. The life of one with no kin will be like overflowing waters of a tank with no bund.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५२३</summary>
 
 3\. அளவளா வில்லாதான் வாழ்க்கை குளவளாக்  
@@ -13759,6 +18120,14 @@ Which overflows without a bank.        523
 
 बन्धुसाह्यकरो यस्तु सदा बन्धुभिरावृतः ।  
 तेन सम्पादितं वित्तं प्रयोजनकरं भवेत् ॥ ५२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२४</summary>
+
+524\. cuṟṟattāl cuṟṟappaṭa oḻukal, celvamtāṉ  
+peṟṟattāl peṟṟa payaṉ.
+
+524\. The value of one’s wealth consists in a life surrounded by one’s kinsmen.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५२४</summary>
@@ -13787,6 +18156,14 @@ When kith and kin are happy found.        524
 तं सर्वदा बन्धुवर्गास्तिष्ठन्ति परिवेष्टिताः ॥ ५२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५२५</summary>
+
+525\. koṭuttalum iṉ colum āṟṟiṉ, aṭukkiya  
+cuṟṟattāl cuṟṟappaṭum.
+
+525\. One delights in the company of one generous of heart and suave of speech.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५२५</summary>
 
 5\. கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய  
@@ -13811,6 +18188,14 @@ Encircle kith and kin around.        525
 
 पृथिव्यां दानशौण्डस्य जितक्रोधस्य भूपतेः ।  
 वशंवदा सदा तिष्ठेत् सकला बन्धुसन्ततिः ॥ ५२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२६</summary>
+
+526\. peruṅ koṭaiyāṉ, pēṇāṉ vekuḷi, avaṉiṉ  
+maruṅku uṭaiyār mā nilattu il.
+
+526\. Nothing excels on earth the love of one large of heart and free of wrath, but shares it with the rest.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५२६</summary>
@@ -13839,6 +18224,14 @@ Commands on earth countless kinsmen.        526
 स्वार्जितं बन्धुभिः साकं भुंङ्क्ष्व सम्पत्स्थिरा भवेत् ॥ ५२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५२७</summary>
+
+527\. kākkai karavā karaintu uṇṇum; ākkamum  
+aṉṉa nīrārkkē uḷa.
+
+527\. Fortune smiles on one of like disposition.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५२७</summary>
 
 7\. காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்  
@@ -13863,6 +18256,14 @@ Welfare abides a man of heart.        527
 
 साम्यबुद्धिं विना राजा योग्यताभेदमूलकम् ।  
 विभज्य सर्वान् यः पश्येत् तस्य स्युर्बान्धवाः समे ॥ ५२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२८</summary>
+
+528\. potu nōkkāṉ, vēntaṉ varicaiyā nōkkiṉ,  
+atu nōkki vāḻvār palar.
+
+528\. The king must not be indifferent to one’s deserts but reward people according to their merit.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५२८</summary>
@@ -13891,6 +18292,14 @@ Each one's merits so many thrive.        528
 छिन्नं तद् हेतुनान्येन् पूर्ववत् पुनरेधते ॥ ५२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५२९</summary>
+
+529\. tamar āki, taṉ-tuṟantār cuṟṟam amarāmaik  
+kāraṇam iṉṟi varum.
+
+529\. Reject none on the score of disagreement. Men who have become estranged will flock to you.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५२९</summary>
 
 9\. தமராகித் தற்றுறந்தார் சுற்றம் அமராமைக்  
@@ -13915,6 +18324,14 @@ When cause for discord goes away.        529
 
 स्नेहं छित्वा गतं पश्चादागतं स्वार्यकरणात् ।  
 अलोच्य तं तु गृह्णीयादुपकृत्य महीपतिः ॥ ५३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३०</summary>
+
+530\. uḻaip pirintu kāraṇattiṉ vantāṉai, vēntaṉ  
+iḻaittu iruntu, eṇṇik koḷal.
+
+530\. Let the king embrace his estranged kith and kin by redressing their grievances.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५३०</summary>
@@ -13945,6 +18362,14 @@ The king should test him and receive.        530
 चण्डकोपोद्भवानर्थात्, अधिकानिष्टदा भवेत् ॥ ५३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५३१</summary>
+
+531\. iṟanta vekuḷiyiṉ tītē-ciṟanta  
+uvakai makiḻcciyiṉ cōrvu.
+
+531\. Forgetfulness which cometh of mad joy is more dangerous than wild wrath.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५३१</summary>
 
 1\. இறந்த வெகுளியின் தீதே சிறந்த  
@@ -13969,6 +18394,14 @@ Forgetfulness in joy-excess.        531
 
 नरस्य नित्यदारिद्र्यं यथा बुद्धिं विनाशयेत् ।  
 विस्मृतिः समये तद्वनाशयेत् प्रथितं यशाः ॥ ५३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३२</summary>
+
+532\. poccāppuk kollum pukaḻai-aṟiviṉai  
+niccam nirappuk koṉṟāṅku.
+
+532\. Poverty freezes knowledge. Forgetfulness blights one’s reputation.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५३२</summary>
@@ -13997,6 +18430,14 @@ Ceaseless want wisdom destroys.        532
 न ते सिध्यन्ति विस्मृत्या नेदं पार्थिवमात्रकम् ॥ ५३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५३३</summary>
+
+533\. poccāppārkku illai pukaḻmai; atu ulakattu  
+ep pāl nūlōrkkum tuṇivu.
+
+533\. Fame is not for the thoughtless, so say the scriptures of the world.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५३३</summary>
 
 3\. பொச்சாப்பார்க்கு இல்லை புகழ்மை அதுவுலகத்து  
@@ -14021,6 +18462,14 @@ All schools of thinkers say the same.        533
 
 बाह्यदुर्गैर्नास्ति लाभो भये तु हृदये स्थिते ।  
 स्थितोऽपि विभवो व्यर्थो यदि स्याद्विस्मृतिर्नरे ॥ ५३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३४</summary>
+
+534\. accam uṭaiyārkku araṇ illai; āṅku illai,  
+poccāppu uṭaiyārkku naṉku.
+
+534\. Of what avail is a citadel to a crown, what good availeth the thoughtless.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५३४</summary>
@@ -14049,6 +18498,14 @@ The forgetful find good never.        534
 खेदे समीपमायाते पश्चादुद्विजते नरः ॥ ५३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५३५</summary>
+
+535\. muṉṉuṟak kāvātu iḻukkiyāṉ, taṉ piḻai,  
+piṉ ūṟu, iraṅkiviṭum.
+
+535\. Who is not on his guard against impending evil, rues his folly?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५३५</summary>
 
 5\. முன்னுறக் காவாது இழுக்கியான் தன்பிழை  
@@ -14073,6 +18530,14 @@ Shall rue his folly later on.        535
 
 अविस्मृतिसमारव्येन् गुणेन सदृशं वरम् ।  
 सर्वत्र सर्वकालेषु न तिष्ठेत् क्षेमदायकम् ॥ ५३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३६</summary>
+
+536\. iḻukkāmai yārmāṭṭum, eṉṟum, vaḻukkāmai  
+vāyiṉ, aḵtu oppatu il.
+
+536\. There is no greater good than to be ever on the vigil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५३६</summary>
@@ -14101,6 +18566,14 @@ Miss none; the gain is sans compare.        536
 अविस्मृत्या साधनीयं कर्म कर्तुं यतेत् यः ॥ ५३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५३७</summary>
+
+537\. ariya eṉṟu ākāta illai-poccāvāk  
+karuviyāṉ pōṟṟic ceyiṉ.
+
+537\. Nothing is impossible for the thoughtful.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५३७</summary>
 
 7\. அரியஎன்று ஆகாத இல்லைபொச் சாவாக்  
@@ -14125,6 +18598,14 @@ Impossible there is nothing.        537
 
 श्लाघितं नीतिशास्त्रज्ञैः क्रियतां कर्म सादरम् ।  
 अकुर्वाणस्य विस्मृत्या सप्त जन्म वृथा भवेत् ॥ ५३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३८</summary>
+
+538\. pukaḻntavai pōṟṟic ceyal vēṇṭum; ceyyātu  
+ikaḻntārkku eḻumaiyum il.
+
+538\. No good awaits him in birth to come who fails of his noble deeds.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५३८</summary>
@@ -14153,6 +18634,14 @@ If not, for seven births no mirth.        538
 स्मर्तव्यास्तेन विस्मृत्या पुरा नाशवशङ्गताः ॥ ५३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५३९</summary>
+
+539\. ikaḻcciyiṉ keṭṭārai uḷḷuka-tām tam  
+makiḻcciyiṉ maintuṟum pōḻtu!.
+
+539\. When drunk with delight, remember those who have perished through wilful neglect.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५३९</summary>
 
 9\. இகழ்ச்சியின் கெட்டாரை உள்ளுக தாந்தம்  
@@ -14177,6 +18666,14 @@ Whom negligence has made to fall.        539
 
 चिकीर्षितमविस्मृत्य जागरूकतयाऽनिशम् ।  
 तत्प्राप्त्यै यतमानेन वाञ्छितं साध्यते ध्रुवम् ॥ ५४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४०</summary>
+
+540\. uḷḷiyatu eytal eḷitumaṉ-maṟṟum tāṉ  
+uḷḷiyatu uḷḷappeṟiṉ.
+
+540\. No task is difficult to the thoughtful and diligent.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५४०</summary>
@@ -14207,6 +18704,14 @@ When the mind on it is set.        540
 यथाशास्त्रं दण्डदानं नीतिपालनमुच्यते ॥ ५४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५४१</summary>
+
+541\. ōrntu, kaṇṇōṭātu, iṟai purintu, yārmāṭṭum  
+tērntu, ceyvaḵtē muṟai.
+
+541\. Strict enquiry and impartial justice mark the rule of a just monarch.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५४१</summary>
 
 1\. ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்  
@@ -14231,6 +18736,14 @@ Consult and act the laws justly.        541
 
 लोके जीवगणाः सर्वे वर्तन्ते वृष्टिकाङ्क्षुणः ।  
 देशे जनास्तथा राज्ञः काङ्क्षन्ते नीतिपालनम् ॥ ५४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४२</summary>
+
+542\. vāṉ nōkki vāḻum ulaku ellām;-maṉṉavaṉ  
+kōl nōkki vāḻum kuṭi.
+
+542\. The world looks to rain for its existence. The subjects look to the sceptre for their existence.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५४२</summary>
@@ -14259,6 +18772,14 @@ And mankind to king's rod of justice.        542
 लक्ष्यीकृत्य न्याय्यमार्गे रक्षणं राजलक्षणम् ॥ ५४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५४३</summary>
+
+543\. antaṇar nūṟkum, aṟattiṟkum, ātiyāy  
+niṉṟatu-maṉṉavaṉ kōl.
+
+543\. The king’s sceptre is the standing proof of Brahminical books and their teachings.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५४३</summary>
 
 3\. அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய்  
@@ -14283,6 +18804,14 @@ From the sceptre of a stately king.        543
 
 स्ववशे मानवान् कृत्वा रक्षन्तं न्याय्यवर्त्मनि ।  
 महीपतिं प्रजाः सर्वाः प्रेक्षन्ते प्रीतिपूर्वकम् ॥ ५४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४४</summary>
+
+544\. kuṭi taḻīik kōl ōccum mā nila maṉṉaṉ  
+aṭi taḻīi niṟkum, ulaku.
+
+544\. The world falls at the feet of a great King who wields the sceptre for his subjects’ welfare.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५४४</summary>
@@ -14311,6 +18840,14 @@ Whose sceptre clasps the people's heart.        544
 राज्ञो देशे कालवृष्टिः सस्यावृद्धिश्च जायते ॥ ५४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५४५</summary>
+
+545\. iyalpuḷik kōl ōccum maṉṉavaṉ nāṭṭa-  
+peyalum viḷaiyuḷum tokku.
+
+545\. Both seasonal rains and waving corn are seen in the land of a righteous monarch.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५४५</summary>
 
 5\. இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட  
@@ -14335,6 +18872,14 @@ Which is ruled by a righteous hand.        545
 
 शूलमात्रेण भूपालो जयं युद्धे न विन्दते ।  
 लभते नीतिदण्डेन जयं, दण्डो ऋजुर्यदि ॥ ५४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४६</summary>
+
+546\. vēl aṉṟu, veṉṟi taruvatu; maṉṉavaṉ  
+kōl; atūum, kōṭātu eṉiṉ.
+
+546\. Victory is won not by the spear but by the unswerving sceptre of a monarch.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५४६</summary>
@@ -14363,6 +18908,14 @@ That brings success to monarch's might.        546
 स एव नीतिदण्डस्तं पालयेन्नात्र संशयः ॥ ५४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५४७</summary>
+
+547\. iṟai kākkum, vaiyakam ellām; avaṉai  
+muṟai kākkum, muṭṭāc ceyiṉ.
+
+547\. The king protects the whole world and justice protects him if unfailingly admonished.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५४७</summary>
 
 7\. இறைகாக்கும் வையக மெல்லாம் அவனை  
@@ -14387,6 +18940,14 @@ And justice protects his royal worth.        547
 
 जनानां सुलभो भूत्वा तेषां श्रुत्वा च वाञ्छितम् ।  
 अयच्छन् पार्थिवो नीतिं सापवादो विनश्यति ॥ ५४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४८</summary>
+
+548\. eṇ patattāṉ ōrā, muṟai ceyyā, maṉṉavaṉ  
+taṇ patattāṉ tāṉē keṭum.
+
+548\. The king who does not administer impartial justice goes to ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५४८</summary>
@@ -14415,6 +18976,14 @@ He shall himself his ruin bring.        548
 पापापनोदनं, राज्ञां धर्म एव न पापदम् ॥ ५४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५४९</summary>
+
+549\. kuṭi puṟaṅkāttu, ōmpi, kuṟṟam kaṭital  
+vaṭu aṉṟu; vēntaṉ toḻil.
+
+549\. To punish crime is the duty, not the fault of the king who attends to the welfare of his subjects.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५४९</summary>
 
 9\. குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்  
@@ -14439,6 +19008,14 @@ Is flawless duty of a king.        549
 
 मृतिदण्डप्रदानं तु पापिनामाततायिनाम् ।  
 तृणानिर्मूलनसमं रूढसस्याभिवृद्धये ॥ ५५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५५०</summary>
+
+550\. kolaiyil, koṭiyārai, vēntu oṟuttal paiṅkūḻ  
+kaḷai kaṭṭataṉoṭu nēr.
+
+550\. Punishing murderers with death is like plucking out weeds among the crops.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५५०</summary>
@@ -14469,6 +19046,14 @@ Weeds removes from cropful field.        550
 निर्घुणाद् घातकाच्चापि भुवि क्रूरतमो मतः ॥ ५५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५५१</summary>
+
+551\. kolai mēṟkoṇṭāriṉ koṭitē-alai mēṟkoṇṭu  
+allavai ceytu oḻukum vēntu.
+
+551\. The unrighteous king who oppresses his subjects is more cruel than the one who leads the life of a murderer.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५५१</summary>
 
 1\. கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண்டு  
@@ -14493,6 +19078,14 @@ Is worse than cruel murderer.        551
 
 नीत्या पालयता राज्ञा प्रजाभ्यो वित्तयाचनम् ।  
 चोरेण शूलिना पान्थात् वित्तचौर्यसमं मतम् ॥ ५५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५५२</summary>
+
+552\. vēloṭu niṉṟāṉ, ‘iṭu’ eṉṟatu pōlum-  
+kōloṭu niṉṟāṉ iravu.
+
+552\. The wielder of the sceptre asking for gifts, is like the spearman asking the way-farer ‘give.’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५५२</summary>
@@ -14521,6 +19114,14 @@ Is "give" of lanced robber bold.        552
 परिहारमकुर्वाणः क्षीणराज्यः क्रमाद्भवेत् ॥ ५५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५५३</summary>
+
+553\. nāḷtoṟum nāṭi, muṟaiceyyā maṉṉavaṉ  
+nāḷtoṟum nāṭu keṭum.
+
+553\. That country will perish any day whose monarch does not administer justice day by day.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५५३</summary>
 
 3\. நாடொறும் நாடி முறைசெய்யா மன்னவன்  
@@ -14545,6 +19146,14 @@ Or day by day the realm decays.        553
 
 भाव्यनर्थमनालोच्य न्याय्यमार्गविरोधतः ।  
 भूपस्य रक्षतो वित्तं नश्येत् तेन प्रजा अपि ॥ ५५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५५४</summary>
+
+554\. kūḻum kuṭiyum oruṅku iḻakkum-kōl kōṭi,  
+cūḻātu, ceyyum aracu.
+
+554\. That king who allows his sceptre to bend indiscriminately will lose his wealth together with his subjects.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५५४</summary>
@@ -14573,6 +19182,14 @@ If his sceptre he dares abuse.        554
 अश्रुपातः श्रियं राज्ञो नाशयेदायुधात्मना ॥ ५५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५५५</summary>
+
+555\. allaṟpaṭṭu, āṟṟātu, aḻuta kaṇṇīr aṉṟē-  
+celvattait tēykkum paṭai.
+
+555\. Are not the tears, shed as a result of oppression, the weapons which destroy the prosperity of the monarch?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५५५</summary>
 
 5\. அல்லற்பட்டு ஆற்றாது அழுதகண் ணீரன்றே  
@@ -14597,6 +19214,14 @@ File the royal wealth away.        555
 
 विन्दते सुस्थिरां कीर्ति भूपो धर्मेण पालयन् ।  
 अनीत्या पालयन् राजा नष्टकीर्तिर्भविष्यति ॥ ५५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५५६</summary>
+
+556\. maṉṉarkku maṉṉutal ceṅkōṉmai; aḵtu iṉṟēl,  
+maṉṉāvām, maṉṉarkku oḷi.
+
+556\. Good Government makes one’s rule enduring. Where it is not found, his lustre will not last long?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५५६</summary>
@@ -14625,6 +19250,14 @@ Without it wanes the royal light.        556
 वृष्टिहीनप्रदेशस्थजनास्थितिसमां विदुः ॥ ५५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५५७</summary>
+
+557\. tuḷi iṉmai ñālattiṟku eṟṟu? aṟṟē, vēntaṉ  
+aḷi iṉmai vāḻum uyirkku.
+
+557\. The people who live under a graceless king suffer like the earth unvisited by drops of rain.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५५७</summary>
 
 7\. துளியின்மை ஞாலத்திற்கு எற்றற்றே வேந்தன்  
@@ -14649,6 +19282,14 @@ Is graceless king to creatures all.        557
 
 धर्ममार्गं समुल्लङ्घ्य रक्षतः पृथिवीपतेः ।  
 देशे सतां तु दारिद्र्यात् सम्पत्क्लेशाय कल्पते ॥ ५५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५५८</summary>
+
+558\. iṉmaiyiṉ iṉṉātu, uṭaimai-muṟai ceyyā  
+maṉṉavaṉ kōṟkīḻp paṭiṉ.
+
+558\. Where people possess a king, who does not enforce justice, wealth does not confer more happiness than poverty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५५८</summary>
@@ -14677,6 +19318,14 @@ If ruler is unjust despot.        558
 धर्म्य पन्थानमुल्लङ्घ्य नृपे शासति मेदिनीम् ॥ ५५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५५९</summary>
+
+559\. muṟai kōṭi maṉṉavaṉ ceyyiṉ, uṟai kōṭi  
+ollātu, vāṉam peyal.
+
+559\. Were the king to rule unjustly, the Heavens would withhold rains?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५५९</summary>
 
 9\. முறைகோடி மன்னவன் செய்யின் உறைகோடி  
@@ -14701,6 +19350,14 @@ If the king misuses his power.        559
 
 अरक्षति भुवं भूपे पथा न्यायानुरोधिना ।  
 विप्राः क्षुतिं विस्मरेयुः न दद्युः पशवः पयः ॥ ५६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५६०</summary>
+
+560\. ā payaṉ kuṉṟum; aṟutoḻilōr nūl maṟappar;-  
+kāvalaṉ kāvāṉ eṉiṉ.
+
+560\. If the protecting monarch fails in his duties, the yield of cows will diminish and Brahmans with their six duties will forget their Vedas.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५६०</summary>
@@ -14731,6 +19388,14 @@ Cows give less if kings guard no more.         560
 निवारयन् पालयेद् यः स भूपाल इतीर्यते ॥ ५६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५६१</summary>
+
+561\. takkāṅku nāṭi, talaiccellā vaṇṇattāl  
+ottāṅku oṟuppatu vēntu.
+
+561\. A righteous king investigates and fittingly punishes the wrongdoer so that he may not repeat it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५६१</summary>
 
 1\. தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்  
@@ -14755,6 +19420,14 @@ Just to prevent future offence.        561
 
 दण्डयेषु कठिनो भूत्वा दण्डनावसरे सति ।  
 लघु दण्डयतो राज्ञः सम्पत्तिष्ठेदचञ्चला ॥ ५६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५६२</summary>
+
+562\. kaṭitu ōcci, mella eṟika-neṭitu ākkam  
+nīṅkāmai vēṇṭupavar.
+
+562\. If you wish enduring prosperity behave as if you punish excessively, but do it mildly.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५६२</summary>
@@ -14783,6 +19456,14 @@ This strict mildness prolongs the sway.        562
 अचिरादेव भूपालः स लयं यास्यति ध्रुवम् ॥ ५६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५६३</summary>
+
+563\. veruvanta ceytu oḻukum veṅkōlaṉ āyiṉ,  
+oruvantam ollaik keṭum.
+
+563\. The tyrant who terrifies his subjects will soon perish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५६३</summary>
 
 3\. வெருவந்த செய்துஒழுகும் வெங்கோல னாயின்  
@@ -14807,6 +19488,14 @@ Brings king's ruin quick indeed.        563
 
 ''अस्माकं पार्थिवः क्रूर'' इति देशजनेरितम् ।  
 य एतच्छुणुयाद्वाक्य> क्षीणायुः स विनश्यति ॥ ५६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५६४</summary>
+
+564\. 'iṟai kaṭiyaṉ' eṉṟu uraikkum iṉṉāc col vēntaṉ  
+uṟai kaṭuki ollaik keṭum.
+
+564\. That king whom people speak of as a tyrant will rapidly perish.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५६४</summary>
@@ -14835,6 +19524,14 @@ His days dwindled, hasten his fall.        564
 महीपालस्तस्य वित्तं भूताविष्टमिव वृथा ॥ ५६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५६५</summary>
+
+565\. aruñ cevvi, iṉṉā mukattāṉ peruñ celvam  
+pēey kaṇṭaṉṉatu uṭaittu.
+
+565\. The great wealth of a king who is inaccessible and assumes a fearful look, is no better than in the possession of a demon.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५६५</summary>
 
 5\. அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்  
@@ -14859,6 +19556,14 @@ His wealth seems watched by a ghoul.        565
 
 दाक्षिण्यगुणहीनस्य कटुवाक्यप्रयोगिणः ।  
 भूपस्य निखिलं वित्तमस्थिरं क्षीयते क्षणात् ॥ ५६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५६६</summary>
+
+566\. kaṭuñ collaṉ, kaṇ ilaṉ āyiṉ, neṭuñ celvam  
+nīṭu iṉṟi, āṅkē keṭum.
+
+566\. The abundant wealth of a king who utters harsh words and puts on unkind looks will not last long.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५६६</summary>
@@ -14887,6 +19592,14 @@ His wealth and power quickly fade.        566
 अरिविध्वंसनापेक्षिसत्त्वनिर्मूलहेतुकम् ॥ ५६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५६७</summary>
+
+567\. kaṭu moḻiyum, kaiyikanta taṇṭamum, vēntaṉ  
+aṭu muraṇ tēykkum aram.
+
+567\. Severity in speech and excess in punishment are like the file which removes his capacity to destroy (his enemies).  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५६७</summary>
 
 7\. கடுமொழியும் கையிகந்த தண்டமும் வேந்தன்  
@@ -14911,6 +19624,14 @@ Like files conquering power corrode.        567
 
 अनालोच्यैव सचिवैः कृते कार्ये च विघ्निते ।  
 यः कुप्येत् सचिवान् राजा क्षीयन्ते तस्य सम्पदः ॥ ५६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५६८</summary>
+
+568\. iṉattu āṟṟi, eṇṇāta vēntaṉ ciṉattu āṟṟic  
+cīṟiṉ, ciṟukum tiru.
+
+568\. The prosperity of a king who does not consult his advisers but makes them the victims of his fury will shrink.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५६८</summary>
@@ -14939,6 +19660,14 @@ Rages with wrath-his fortune fails.        568
 विमेक्तोऽनुचरैः सर्वैर्भीतः सन् क्षयमाप्नुयात् ॥ ५६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५६९</summary>
+
+569\. ceru vanta pōḻtil, ciṟai ceyyā vēntaṉ,  
+veruvantu, veytu keṭum.
+
+569\. If a king who has no fortress meets a foe, he will be ruined by fear.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५६९</summary>
 
 9\. செருவந்த போழ்திற் சிறைசெய்யா வேந்தன்  
@@ -14963,6 +19692,14 @@ Fears his foes in wars and dies.        569
 
 नियुज्य विद्यारहितान् मुख्यस्थानेषु भूपति ।  
 पालयेद्यादि तर्ह्येतैः भूमेर्भारो निरर्थकः ॥ ५७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५७०</summary>
+
+570\. kallārp piṇikkum, kaṭuṅkōl; atu allatu  
+illai, nilakkup poṟai.
+
+570\. No burden is harder for the earth to bear than the cruel sceptre wielded by the unwise.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५७०</summary>
@@ -14993,6 +19730,14 @@ Is tyrants bound to fools uncouth.        570
 दाक्षिण्यगुणसम्पूर्तिः यदा स्यात् पृथ्वीपतौ ॥ ५७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५७१</summary>
+
+571\. kaṇṇōṭṭam eṉṉum kaḻiperuṅ kārikai  
+uṇmaiyāṉ, uṇṭu iv ulaku.
+
+571\. The world exists because of the existence of the most beautiful virtue called kindliness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५७१</summary>
 
 1\. கண்ணோட்டம் என்னும் கழிபெருங் காரிகை  
@@ -15017,6 +19762,14 @@ The bounteous dame of benign eyes.        571
 
 लोको जीवति दाक्षिण्यात् तद्विहीननरा भुवि ।  
 यदि जीवन्ति तैर्भूमेः भार एव न संशयः ॥ ५७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५७२</summary>
+
+572\. kaṇṇōṭṭattu uḷḷatu ulakiyal; aḵtu ilār  
+uṇmai nilakkup poṟai.
+
+572\. The world lives through kindliness; those who do not have it are a burden to the earth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५७२</summary>
@@ -15045,6 +19798,14 @@ Who lack them are burdens of earth.        572
 दाक्षिण्यवर्जितं कुत्स्नं जगत्तद्वन्निरर्थकम् ॥ ५७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५७३</summary>
+
+573\. paṇ eṉ ām, pāṭaṟku iyaipu iṉṟēl?-kaṇ eṉ ām,  
+kaṇṇōṭṭam illāta kaṇ?.
+
+573\. What is the use of a song that could not be enjoyed? Likewise, what is the use of the eyes that have no kindliness?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५७३</summary>
 
 3\. பண்என்னாம் பாடற்கு இயைபின்றேல் கண்என்னாம்  
@@ -15069,6 +19830,14 @@ Without gracious looks what are eyes?        573
 
 दाक्षिण्यगुणहीनस्य किं नेत्राभ्यां प्रयोजनम् ।  
 ते ह्यलङ्काररूपेण लसतः केवलं मुखे ॥ ५७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५७४</summary>
+
+574\. uḷapōl mukattu evaṉ ceyyum-aḷaviṉāl  
+kaṇṇōṭṭam illāta kaṇ.
+
+574\. What is the use of one’s eyes if they do not beam with immeasurable love?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५७४</summary>
@@ -15097,6 +19866,14 @@ What for are eyes sans measured grace.        574
 तद्विहीनं तु नयनं धत्ते व्रणसमानताम् ॥ ५७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५७५</summary>
+
+575\. kaṇṇiṟku aṇikalam kaṇṇōṭṭam; aḵtu iṉṟēl,  
+puṇ eṉṟu uṇarappaṭum.
+
+575\. Kindliness is the fitting ornament for the eyes. They are a sore, where it is absent.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५७५</summary>
 
 5\. கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல்  
@@ -15121,6 +19898,14 @@ Without them they are felt as sore.        575
 
 स्थितेऽपि नेत्रे दाक्षिण्यगुणहीनो भवेद्यदि ।  
 अचञ्चलमहीरूढतरुरेव स मानवः ॥ ५७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५७६</summary>
+
+576\. maṇṇoṭu iyainta marattu aṉaiyar-kaṇṇoṭu  
+iyaintu, kaṇṇōṭātavar.
+
+576\. Those whose eyes do not reflect love resemble trees that stand on the earth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५७६</summary>
@@ -15149,6 +19934,14 @@ Who don't eye to eye kindness show.        576
 केचिन्नयनवन्तोऽपि सन्ति दाक्षिण्यसंयुताः ॥ ५७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५७७</summary>
+
+577\. kaṇṇōṭṭam illavar kaṇ ilar; kaṇ uṭaiyār  
+kaṇṇōṭṭam iṉmaiyum il.
+
+577\. Verily they are blind who have no kindly look.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५७७</summary>
 
 7\. கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்  
@@ -15173,6 +19966,14 @@ Men of real eyes show benign grace.        577
 
 दाक्षिण्यगुणशीलस्य गच्छतो न्याय्यवर्त्मनि ।  
 पार्थिवस्य वशे कृत्स्नं जगद्वर्तेत सुस्थिरम् ॥ ५७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५७८</summary>
+
+578\. karumam citaiyāmal kaṇṇōṭa vallārkku  
+urimai uṭaittu, iv ulaku.
+
+578\. The world belongs to a king who can do his duty and yet be courteous.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५७८</summary>
@@ -15201,6 +20002,14 @@ Have right for this earth beautiful.        578
 तद्देषसहनं राज्ञां भवेत् स्वाभाविको गुणः ॥ ५७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५७९</summary>
+
+579\. oṟuttāṟṟum paṇpiṉārkaṇṇum, kaṇṇōṭip  
+poṟuttāṟṟum paṇpē talai.
+
+579\. It behoves a king to put up with the doer of harm and even be kind to him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५७९</summary>
 
 9\. ஒறுத்தாற்றும் பண்பினார் கண்ணும்கண் ணோடிப்  
@@ -15225,6 +20034,14 @@ Who vex us is true virtue's phase.        579
 
 सुहृद्दत्तं विषं चापि पीत्वा प्रत्ययकारणात् ।  
 मैत्रीं च तेन कुर्वन्ति दाक्षिण्यगुणकाङ्क्षिणः ॥ ५८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५८०</summary>
+
+580\. peyak kaṇṭum, nañcu uṇṭu amaivar-nayattakka  
+nākarikam vēṇṭupavar.
+
+580\. Those who wish to acquire loveable urbanity will knowingly swallow even the poison served.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५८०</summary>
@@ -15256,6 +20073,14 @@ Take hemlock and look cheerfully.        580
 इमे नेत्रसमे कृत्वा पालयेदनिशं भुवि ॥ ५८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५८१</summary>
+
+581\. oṟṟum, urai cāṉṟa nūlum, ivai iraṇṭum  
+teṟṟeṉka, maṉṉavaṉ kaṇ.
+
+581\. Verily the two eyes of a king are espionage and the celebrated code of laws.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५८१</summary>
 
 1\. ஒற்றும் உரைசான்ற நூலும் இவையிரண்டும்  
@@ -15280,6 +20105,14 @@ The code of laws and careful spies.        581
 
 सर्वकाले सर्वदेशे प्रवृत्तान् विषयान् समान् ।  
 बुध्वा शीघ्रं चारमूलाद्रक्षणं राजलक्षणम् ॥ ५८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५८२</summary>
+
+582\. ellārkkum ellām nikaḻpavai eññāṉṟum  
+vallaṟital, vēntaṉ toḻil.
+
+582\. A king’s duty is to get day to day knowledge of everything that happens.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५८२</summary>
@@ -15308,6 +20141,14 @@ The king should know in full detail.        582
 बुध्वापि विषयान् चारौः यः पूर्वं न विचारयेत् ॥ ५८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५८३</summary>
+
+583\. oṟṟiṉāṉ oṟṟi, poruḷ teriyā maṉṉavaṉ  
+koṟṟam koḷak kiṭantatu il.
+
+583\. The sure way of achieving success for a king is to get correct information from spies.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५८३</summary>
 
 3\. ஒற்றினான் ஒற்றி பொருள்தெரியா மன்னவன்  
@@ -15332,6 +20173,14 @@ Who cares not for the Spy's remark.        583
 
 सेवकान् बान्धवान् शत्रून् सर्वान् वाचा च कर्मणा ।  
 विमृश्य राज्ञे विषयदाता चार इति श्रुतः ॥ ५८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५८४</summary>
+
+584\. viṉaiceyvār, tam cuṟṟam, vēṇṭātār, eṉṟu āṅku  
+aṉaivaraiyum ārāyvatu-oṟṟu.
+
+584\. Espionage consists of watching all people, to wit, the king’s employees, his relations and his enemies.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५८४</summary>
@@ -15360,6 +20209,14 @@ Who watch keenly are worthy spies.        584
 गूढार्थगोपनपटुः चार इत्यभिधीयते ॥ ५८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५८५</summary>
+
+585\. kaṭāa uruvoṭu kaṇ añcātu, yāṇṭum  
+ukā amai vallatē-oṟṟu.
+
+585\. An able spy puts on undoubted disguise, does not fear when detected, and never reveals his purpose.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५८५</summary>
 
 5\. கடாஅ உருவொடு கண்ணஞ்சாது யாண்டும்  
@@ -15384,6 +20241,14 @@ Guarding secrets mark the spies.        585
 
 शास्त्रागारादिकं क्षिक्षुवेषो गत्वा विचार्य च ।  
 ज्ञातोऽपि शत्रुभिर्धीरो यः स्याच्चारः स गण्यते ॥ ५८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५८६</summary>
+
+586\. tuṟantār paṭivattar āki iṟantu, ārāyntu,  
+eṉ ceyiṉum cōrvu ilatu-oṟṟu.
+
+586\. A spy in the guise of an ascetic should gather information however difficult and should never be tired whatever be the troubles.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५८६</summary>
@@ -15412,6 +20277,14 @@ They betray them not under threats.        586
 ज्ञात्वा यथावद् भूपाय कथनं चारलक्षणम् ॥ ५८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५८७</summary>
+
+587\. maṟaintavai kēṭka vaṟṟu āki, aṟintavai  
+aiyappāṭu illatē-oṟṟu.
+
+587\. A spy should secure knowledge of things secret and should have no doubt about his information.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५८७</summary>
 
 7\. மறைந்தவை கேட்கவற் றாகி அறிந்தவை  
@@ -15436,6 +20309,14 @@ Beyond a doubt he clears his facts.        587
 
 चारणैकेन कथितमन्यचारेण चेरितम् ।  
 एकार्थकं यदि भवेत् गृह्यतां तत् त्यजेतरम् ॥ ५८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५८८</summary>
+
+588\. oṟṟu oṟṟit tanta poruḷaiyum, maṟṟum ōr  
+oṟṟiṉāl oṟṟi, koḷal.
+
+588\. One must get confirmed the information supplied by one spy, by that of another.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५८८</summary>
@@ -15464,6 +20345,14 @@ By another spy verify.        588
 त्रिभिरुक्तोऽपि विषयः समश्चेद् गृह्यतामयम् ॥ ५८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५८९</summary>
+
+589\. oṟṟu oṟṟu uṇarāmai āḷka; uṭaṉ mūvar  
+col tokka tēṟappaṭum.
+
+589\. Let the engagement of one spy be not known to another. Accept the information supplied independently by three spies.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५८९</summary>
 
 9\. ஒற்றொற் றுணராமை ஆள்க உடன்மூவர்  
@@ -15488,6 +20377,14 @@ When three agree confirm report.        589
 
 चाराय देयं सन्मानं राज्ञा गुप्तं न तद् बहिः ।  
 नो चेद् गुप्तार्थविषयः सर्वैश्च विदितो भवेत् ॥ ५९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५९०</summary>
+
+590\. ciṟappu aṟiya oṟṟiṉkaṇ ceyyaṟka; ceyyiṉ,  
+puṟappaṭuttāṉ ākum, maṟai.
+
+590\. Let not a king honour the spy publicly; for, by so doing he will be letting out his own secret.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५९०</summary>
@@ -15519,6 +20416,14 @@ It would divulge the secret heard!        590
 तदभावे भवेद्रिक्त इतरैः सहितोऽपि सः ॥ ५९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५९१</summary>
+
+591\. uṭaiyar eṉappaṭuvatu ūkkam; aḵtu illār  
+uṭaiyatu uṭaiyarō, maṟṟu?.
+
+591\. One’s real possession is one’s exertion. If one does not have it, can one be said to really possess anything else?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९१</summary>
 
 1\. உடைய ரெனப்படுவது ஊக்கம் அஃதில்லார்  
@@ -15543,6 +20448,14 @@ All others own but lethargy.        591
 
 उत्साहसदृशं वित्तं स्थिरं लोके न वर्तते ।  
 धनमन्यत्क्रमाच्छीघ्रं ध्रुवं विलयमेष्यति ॥ ५९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५९२</summary>
+
+592\. uḷḷam uṭaimai uṭaimai; poruḷ uṭaimai  
+nillātu nīṅkiviṭum.
+
+592\. Exertion alone is one’s wealth; inconstant material wealth will pass away.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५९२</summary>
@@ -15571,6 +20484,14 @@ Worldly wealth departs in speed.        592
 उत्साहरूपसम्पत्त्या सदा यः सहितो भुवि ॥ ५९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५९३</summary>
+
+593\. 'ākkam iḻantēm!' eṉṟu allāvār-ūkkam  
+oruvantam kaittu uṭaiyār.
+
+593\. Those who possess constant exertion will not grieve over the loss of their wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९३</summary>
 
 3\. ஆக்கம் இழந்தேமென்று அல்லாவார் ஊக்கம்  
@@ -15595,6 +20516,14 @@ The loss of worldly wealth and gain.        593
 
 अनाहूतापि लक्श्मीस्तं स्वयमन्विषय विन्दते ।  
 यस्मिन्नकुण्ठितोत्साहो विद्यते सर्वदा नरे ॥ ५९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५९४</summary>
+
+594\. ākkam atar viṉāyc cellum-acaivu ilā  
+ūkkam uṭaiyāṉuḻai.
+
+594\. Prosperity will discover a route to a person of undaunted will.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५९४</summary>
@@ -15649,6 +20578,14 @@ Mental strength is men's merit.        595
 कार्यं भवतु वा मा वा श्लाघ्यते यत्नवान्नरै ॥ ५९६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५९६</summary>
+
+596\. uḷḷuvatu ellām uyarvu uḷḷal! maṟṟu atu  
+taḷḷiṉum, taḷḷāmai nīrttu.
+
+596\. In all acts and deeds, let exertion be one’s ideal. Even if it were unattainable, its presence is enough.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९६</summary>
 
 6\. உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது  
@@ -15673,6 +20610,14 @@ Though they fail their virtues stand.        596
 
 औन्नत्यं न विमुञ्चन्ति बाणविद्धा अपि द्विपाः ।  
 तद्वदुत्साहवन्तोऽपि न विघ्नाद्विरमन्ति हि ॥ ५९७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५९७</summary>
+
+597\. citaiviṭattu olkār, uravōr;-putai ampiṉ  
+paṭṭup pāṭu ūṉṟum kaḷiṟu.
+
+597\. The elephant stands undaunted despite piercing arrows; so too, a person of strong will, will not get discouraged even in a losing concern.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ५९७</summary>
@@ -15701,6 +20646,14 @@ Great minds keep fit ev'n in defeat.        597
 इति मत्वा न वै दोषमाप्नुवन्ति कदापि ते ॥ ५९८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५९८</summary>
+
+598\. uḷḷam ilātavar eytār-'ulakattu  
+vaḷḷiyam' eṉṉum cerukku.
+
+598\. A man of no strong will, cannot win the esteem of the world for his action.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९८</summary>
 
 8\. உள்ளம் இலாதவர் எய்தார் உலகத்து  
@@ -15727,6 +20680,14 @@ Heartless persons cannot boast
 गजेऽपि व्याघ्रमालोक्य भीतः सद्यः पलायते ॥ ५९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ५९९</summary>
+
+599\. pariyatu kūrṅ kōṭṭatu āyiṉum, yāṉai  
+verūum, puli tākkuṟiṉ.
+
+599\. Even the huge elephant with sharp tusks dreads the attacking tiger.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९९</summary>
 
 9\. பரியது கூர்ங்கோட்டது ஆயினும் யானை  
@@ -15751,6 +20712,14 @@ When tiger, less in form, assails.        599
 
 नराणां बलमुत्साहः तद्विहीननरा द्रुमाः ।  
 आकारेणैव ते वृक्षाः निष्फलाश्च निरर्थकाः ॥ ६००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६००</summary>
+
+600\. uram oruvaṟku uḷḷa veṟukkai; aḵtu illār  
+maram; makkaḷ ātalē vēṟu.
+
+600\. One’s strength is one’s exertion. Without it persons are only trees in the form of men.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६००</summary>
@@ -15782,6 +20751,14 @@ Lacking that man is like a wood        600
 क्रमेण समभिव्याप्य शमयेत् प्रभया विना ॥ ६०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६०१</summary>
+
+601\. kuṭi eṉṉum kuṉṟā viḷakkam, maṭi eṉṉum  
+mācu ūra, māyntu keṭum.
+
+601\. If sloth extends its darkness it will extinguish the lustrous lamp of one’s family.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६०१</summary>
 
 1\. குடியென்னும் குன்றா விளக்கம் மடியென்னும்  
@@ -15806,6 +20783,14 @@ When foul idleness encloses.        601
 
 आलस्यवशमापन्नो यः प्रयत्नविवर्जितः ।  
 कुलगौरवहानिः स्याद् दोषाः स्युस्तस्य जीविते ॥ ६०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६०२</summary>
+
+602\. maṭiyai maṭiyā oḻukal-kuṭiyaik  
+kuṭiyāka vēṇṭupavar!.
+
+602\. Those who wish the esteem of their family should never encourage sloth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६०२</summary>
@@ -15834,6 +20819,14 @@ Loath sloth as sloth; refuse it room.        602
 तन्नाशात्पूर्वमेवास्य कुलं विलयमाप्नुयात् ॥ ६०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६०३</summary>
+
+603\. maṭi maṭik koṇṭu oḻukum pētai piṟanta  
+kuṭi maṭiyum, taṉṉiṉum muntu.
+
+603\. The family of the fool who hugs sloth in his own lap fades away before him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६०३</summary>
 
 3\. மடிமடிக் கொண்டொழுகும் பேதை பிறந்த  
@@ -15858,6 +20851,14 @@ Before he dies ruins his house.        603
 
 यो वाऽऽलस्यगुणाविष्टः शुद्धयत्नविवर्जितः ।  
 तस्य दोषाः सम्भवन्ति लीयते च कुलोन्नतिः ॥ ६०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६०४</summary>
+
+604\. kuṭi maṭintu, kuṟṟam perukum-maṭi maṭintu,  
+māṇṭa uñaṟṟu ilavarkku.
+
+604\. Faults will be many among those who are devoid of exertion and will result in the ruin of their families.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६०४</summary>
@@ -15886,6 +20887,14 @@ Ruin their house by evil growth.        604
 नौकां मग्नोन्मुखां प्राप्ता इव नश्यन्ति ते ध्रुवम् ॥ ६०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६०५</summary>
+
+605\. neṭu nīr, maṟavi, maṭi, tuyil, nāṉkum  
+keṭum nīrār kāmak kalaṉ.
+
+605\. Procrastination, carelessness, sluggardliness and sleep are the four boats fondly entered into by those who go to ruin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६०५</summary>
 
 5\. நெடுநீர் மறவி மடிதுயில் நான்கும்  
@@ -15910,6 +20919,14 @@ These four are pleasure boats of loss.        605
 
 स्वयं मैत्री भवतु वा महद्भिः चक्रवर्तिभिः ।  
 न कोऽपि लाभस्तेन स्यात् आलस्यगुणवान् यदि ॥ ६०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६०६</summary>
+
+606\. paṭi uṭaiyār paṟṟu amaintakkaṇṇum, maṭi uṭaiyār  
+māṇ payaṉ eytal aritu.
+
+606\. Even when the wealth of the rulers of all earth is within his reach, the slothful will hardly derive any great benefit from it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६०६</summary>
@@ -15938,6 +20955,14 @@ The slothful gain nothing of worth.        606
 क्रूरवाक्यैर्विनिन्द्यास्ते भवन्ति सुहृदां पुरः ॥ ६०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६०७</summary>
+
+607\. iṭipurintu, eḷḷum col kēṭpar-maṭipurintu  
+māṇṭa uñaṟṟu ilavar.
+
+607\. Lovers of idleness with no praiseworthy exertion will be the butt of disgrace and will receive words of rebuke.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६०७</summary>
 
 7\. இடிபுரிந்து எள்ளுஞ்சொல் கேட்பர் மடிபுரிந்து  
@@ -15962,6 +20987,14 @@ Subject themselves to scornful words.        607
 
 आलस्याभिहितो दोषः सत्कुले जनुषं नरम् ।  
 यद्याप्नोति झाडित्येषः शत्रूणां वशमानयेत् ॥ ६०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६०८</summary>
+
+608\. maṭimai kuṭimaikkaṇ taṅkiṉ, taṉ oṉṉārkku  
+aṭimai pukuttiviṭum.
+
+608\. If sloth comes to stay in one’s family, it will make one the slave of one’s enemies.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६०८</summary>
@@ -15990,6 +21023,14 @@ It will become a slave of foes.        608
 आलस्यरूपदोषेण यो भवेन्न वशीकृतः ॥ ६०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६०९</summary>
+
+609\. kuṭi, āṇmaiyuḷ vanta kuṟṟam, oruvaṉ  
+maṭi āṇmai māṟṟa, keṭum.
+
+609\. By conquering sloth, one can wipe out the reproach that has come over one’s family.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६०९</summary>
 
 9\. குடியாண்மை யுள்வந்த குற்றம் ஒருவன்  
@@ -16014,6 +21055,14 @@ When one from sloth gets his release.        609
 
 विष्णुस्त्रिविक्रमो भूत्वा मितवान् यज्जगत्त्रयम् ।  
 विन्देत् तज्जगत्सर्वमालस्यरहितो नृपः ॥ ६१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६१०</summary>
+
+610\. maṭi ilā maṉṉavaṉ eytum-aṭi aḷantāṉ  
+tāayatu ellām oruṅku.
+
+610\. All the universe once measured by God will be with the king of no sloth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६१०</summary>
@@ -16045,6 +21094,14 @@ The slothless king shall gain en masse
 स एव यत्नस्ते दद्यात् बलं कार्यसमापने ॥ ६११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६११</summary>
+
+611\. arumai uṭaittu eṉṟu acāvāmai vēṇṭum;  
+perumai muyaṟci tarum.
+
+611\. “Do not give up (your task) saying ‘O’ It is very difficult." The art of doing it comes of exertion.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६११</summary>
 
 1\. அருமை உடைத்தென்று அசாவாமை வேண்டும்  
@@ -16069,6 +21126,14 @@ Who tries attains striving's reward.        611
 
 जहाति तं नरं लोको यः कर्तव्यं परित्यजेत् ।  
 तस्मात् प्रयत्नशून्यत्वं मुञ्च कर्तव्यकर्मसु ॥ ६१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६१२</summary>
+
+612\. viṉaikkaṇ viṉaikeṭal ōmpal-viṉaik kuṟai  
+tīrntāriṉ tīrntaṉṟu, ulaku!.
+
+612\. Do not give up your task in the middle; for the world will abandon those who leave their task unfinished.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६१२</summary>
@@ -16097,6 +21162,14 @@ The world will quit who quits his work.        612
 अकुण्ठितप्रयत्नारव्यगुणेन सहितास्तु ये ॥ ६१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६१३</summary>
+
+613\. tāḷāṇmai eṉṉum takaimaikkaṇ taṅkiṟṟē-  
+vēḷāṇmai eṉṉum cerukku.
+
+613\. The greatness which consists in helping others dwells in the virtue of persevering effort.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६१३</summary>
 
 3\. தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றே  
@@ -16121,6 +21194,14 @@ Depends magnanimous bounty.        613
 
 परोपकारं कर्तुं न शक्नुयाद्यत्नवर्जितः ।  
 करवर्तिकृपाणोऽपि भीरुः किं कर्तुमर्हति ॥ ६१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६१४</summary>
+
+614\. tāḷāṇmai illātāṉ vēḷāṇmai, pēṭi kai  
+vāḷ āṇmai pōla, keṭum.
+
+614\. The service of one with no persevering effort is vain like the sword wielded by a hermaphrodite.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६१४</summary>
@@ -16149,6 +21230,14 @@ Like sword in eunuch's hand it fails.        614
 स तु स्वीयजनक्लेशं वारयेत् स्तम्भतां गतः ॥ ६१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६१५</summary>
+
+615\. iṉpam viḻaiyāṉ, viṉai viḻaivāṉ taṉ kēḷir  
+tuṉpam tuṭaittu ūṉṟum tūṇ.
+
+615\. One who does not seek pleasure but delights in work will be a pillar of support to one’s relatives in their sorrow.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६१५</summary>
 
 5\. இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்  
@@ -16173,6 +21262,14 @@ Wipes grief of friends, pillar secure.        615
 
 सम्पदं सर्वदा दद्यात् व्यवसायो महीभुजाम् ।  
 दारिद्र्यं तस्य जनयेत् व्यवसायविहीनता ॥ ६१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६१६</summary>
+
+616\. muyaṟci-tiruviṉai ākkum; muyaṟṟu iṉmai  
+iṉmai pukuttiviṭum.
+
+616\. Exertion achieves wealth; absence of it brings on poverty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६१६</summary>
@@ -16201,6 +21298,14 @@ Indolence brings but poverty.        616
 आलस्यवर्जिते पुंसि वर्तते पद्मसम्भवा ॥ ६१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६१७</summary>
+
+617\. 'maṭi uḷāḷ, mā mukaṭi' eṉpa; maṭi ilāṉ  
+tāḷ uḷāḷ, tāmaraiyiṉāḷ.
+
+617\. Goddess of misfortune dwells in sloth; the Goddess of fortune lives in exertion.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६१७</summary>
 
 7\. மடியுளாள் மாமுகடி என்ப மடியிலான்  
@@ -16225,6 +21330,14 @@ Illuck abides with sloth they say
 
 ज्ञात्वा यथावक्तार्येषु यत्नः स्वीक्रियतां त्वया ।  
 विधिना निष्फले यत्ने न निन्द्यस्त्वं भविष्यसि ॥ ६१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६१८</summary>
+
+618\. poṟi iṉmai yārkkum paḻi aṉṟu; aṟivu aṟintu,  
+āḷviṉai iṉmai paḻi.
+
+618\. Ill-luck is no disgrace; but it is a disgrace if one does not exert himself as to what should be done.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६१८</summary>
@@ -16253,6 +21366,14 @@ The shame is nothing learnt or done.        618
 अलब्धेऽपि फले कायक्लेशो नैव वृथा भवेत् ॥ ६१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६१९</summary>
+
+619\. teyvattāṉ ākātueṉiṉum, muyaṟci taṉ  
+mey varuttak kūli tarum.
+
+619\. Though fate should ordain failure, bodily exertion will yield its own reward.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६१९</summary>
 
 9\. தெய்வத்தான் ஆகாது எனினும் முயற்சிதன்  
@@ -16277,6 +21398,14 @@ Hard labour has ready payment.        619
 
 विनालस्यं कर्मलोपमन्तरा यत्नवान् नरः ।  
 प्रतिकूलं विघिं चापि स कदाचिद्विजेष्यति ॥ ६२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६२०</summary>
+
+620\. ūḻaiyum uppakkam kāṇpar-ulaivu iṉṟit  
+tāḻātu uñaṟṟupavar.
+
+620\. Those who labour hard, undaunted by obstacles will overcome destiny.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६२०</summary>
@@ -16308,6 +21437,14 @@ Shall leave even the fate behind.        620
 खापनोदनपटुरुत्साहानास्ति कश्चन ॥ ६२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६२१</summary>
+
+621\. iṭukkaṇ varuṅkāl nakuka! ataṉai  
+aṭuttu ūrvatu aḵtu oppatu il.
+
+621\. Laugh over your obstacles; nothing like it to push them further and further.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६२१</summary>
 
 1\. இடுக்கண் வருங்கால் நகுக அதனை  
@@ -16332,6 +21469,14 @@ No other way to conquer woes.        621
 
 निरर्गलागतं दुःकप्रावाहं बुद्धिमान्नरः ।  
 हृदये सुखरूपेण जानन् दुःखाद्विमुच्यते ॥ ६२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६२२</summary>
+
+622\. veḷḷattu aṉaiya iṭumpai, aṟivu uṭaiyāṉ  
+uḷḷattiṉ uḷḷa, keṭum.
+
+622\. Troubles like a flood will be overcome by a courageous thought rising in the minds of the wise.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६२२</summary>
@@ -16360,6 +21505,14 @@ When wise men face them with firm thought.        622
 दुःखस्य दुःखं जनयन्नारब्धं कर्म साधयेत् ॥ ६२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६२३</summary>
+
+623\. iṭumpaikku iṭumpai paṭuppar-iṭumpaikku  
+iṭumpai paṭāatavar.
+
+623\. The courageous will be causing sorrow to sorrow itself.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६२३</summary>
 
 3\. இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு  
@@ -16384,6 +21537,14 @@ Who grieve not grief by mind's relief.        623
 
 वृषभः शकटे बद्धो यत्नाल्लक्ष्य> यथा व्रजेत् ।  
 व्यवसायपरस्तद्वद् दुःखं दूरीकरोत्यहो ॥ ६२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६२४</summary>
+
+624\. maṭutta vāy ellām pakaṭu aṉṉāṉ uṟṟa  
+iṭukkaṇ iṭarppāṭu uṭaittu.
+
+624\. Just as the buffalo drags a cart through miry depth, one who fights on will overcome his difficulties.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६२४</summary>
@@ -16412,6 +21573,14 @@ Causes grief to grieve anon.        624
 यो विन्दते स वै मर्त्यो दुःखं दुःखस्य यच्छति ॥ ६२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६२५</summary>
+
+625\. aṭukki variṉum, aḻivu ilāṉ uṟṟa  
+iṭukkaṇ iṭukkaṇ paṭum.
+
+625\. The troubles of one who braves a series of adversity wear out and disappear.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६२५</summary>
 
 5\. அடுக்கி வரினும் அழிவிலான் உற்ற  
@@ -16436,6 +21605,14 @@ Who dare a host of pressing woes.        625
 
 धने लब्धेऽपि तल्लब्धमिति यस्तु न तुष्यति ।  
 दारिद्र्ये नष्टमित्युक्त्वा व्यसनं न स विन्दते ॥ ६२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६२६</summary>
+
+626\. 'aṟṟēm!' eṉṟu allaṟpaṭupavō-'peṟṟēm!' eṉṟu  
+ōmputal tēṟṟātavar.
+
+626\. Will those who do not during prosperity exultingly say “we are rich”, cry out (during adversity) “Oh, we are destitute”?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६२६</summary>
@@ -16464,6 +21641,14 @@ Do not fret in fateful ruin.        626
 दुःखकाले समायते न मुञ्चन्ति मनोधृतिम् ॥ ६२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६२७</summary>
+
+627\. 'ilakkam, uṭampu iṭumpaikku' eṉṟu, kalakkattaik  
+kaiyāṟāk koḷḷātām, mēl.
+
+627\. The great know that the body is ever the target of trouble and will not regard trouble as trouble at all.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६२७</summary>
 
 7\. இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்  
@@ -16488,6 +21673,14 @@ Knowing body's butt of sorrows.        627
 
 अनादृत्य सुखं प्राप्तं ''दुःखं स्वाभाविकं नृणाम्'' ।  
 इति भावयतो दुःखं स्वप्रयत्नान्न जायते ॥ ६२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६२८</summary>
+
+628\. iṉpam viḻaiyāṉ, ‘iṭumpai iyalpu’ eṉpāṉ,  
+tuṉpam uṟutal ilaṉ.
+
+628\. He who never gives way to sorrow, will not long for pleasure; he will regard trouble as quite natural.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६२८</summary>
@@ -16516,6 +21709,14 @@ By sorrows do not come to harm.        628
 दुःखानुभववेलायां दुःखं तं नैव बाधते ॥ ६२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६२९</summary>
+
+629\. iṉpattuḷ iṉpam viḻaiyātāṉ, tuṉpattuḷ  
+tuṉpam uṟutal ilaṉ.
+
+629\. He who does seek for pleasure in pleasure will not be vexed in sorrow.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६२९</summary>
 
 9\. இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்  
@@ -16540,6 +21741,14 @@ In grief he grieves not dual round!        629
 
 शत्रुणापि श्लघनीयमौन्नत्यं प्राप्नुयादयम् ।  
 दुःखमापतितं यस्तु सुखरूपेण भावयेत् ॥ ६३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६३०</summary>
+
+630\. iṉṉāmai iṉpam eṉak koḷiṉ, ākum, taṉ  
+oṉṉār viḻaiyum ciṟappu.
+
+630\. One who regards trouble as pleasure will gain the elevation which his enemies desire (for themselves).  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६३०</summary>
@@ -16574,6 +21783,14 @@ Who sees weal in wanton woes!        630
 क्रियाप्रकारस्तच्छ्रैष्ठ्यमिमे मन्त्रिगुणाः स्मृताः ॥ ६३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३१</summary>
+
+631\. karuviyum, kālamum, ceykaiyum, ceyyum  
+aruviṉaiyum, māṇṭatu-amaiccu.
+
+631\. He is the minister who, finds out the means, the time, the deed and its full accomplishment.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३१</summary>
 
 64\. அமைச்சு - Ministers
@@ -16602,6 +21819,14 @@ Right means, time, mode and rare ventures.        631
 विद्येति पञ्चभिश्चैतैः सहितः सचिवो मतः ॥ ६३२॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३२</summary>
+
+632\. vaṉkaṇ, kuṭikāttal, kaṟṟu aṟital, āḷviṉaiyōṭu  
+aintuṭaṉ māṇṭatu-amaiccu.
+
+632\. A minister should have five qualities; tenacity of purpose, birth in a respectable family, welfare of the people, profound learning and perseverance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३२</summary>
 
 2\. வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு  
@@ -16626,6 +21851,14 @@ Knowledge, firmness and manliness.        632
 
 रिपुपक्षजनत्यक्ता स्वपक्षजनरक्षकः ।  
 गातानां पुनरानेता भवेत् सचिवसत्तमः ॥ ६३३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६३३</summary>
+
+633\. pirittalum, pēṇikkoḷalum, pirintārp  
+poruttalum, vallatu-amaiccu.
+
+633\. A minister must be able to separate a foe from his ally, befriend allies and reunite separated allies.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६३३</summary>
@@ -16654,6 +21887,14 @@ Divides foes and the parted blends.        633
 भावाविष्करणे धीरः सचिचश्रेष्ठ उच्यते ॥ ६३४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३४</summary>
+
+634\. teritalum, tērntu ceyalum, orutalaiyāc  
+collalum vallatu-amaiccu.
+
+634\. A minister should study the consequences of an act and carry it successfully by a decisive speech.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३४</summary>
 
 4\. தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச்  
@@ -16678,6 +21919,14 @@ Select and say surely one fact.        634
 
 राजधर्मे च निपुणः स्वशास्त्रार्थविशारदः ।  
 कालोचितमतिः कार्ये भवेत् सचिवसत्तमः ॥ ६३५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६३५</summary>
+
+635\. aṟaṉ aṟintu, āṉṟu amainta collāṉ, eññāṉṟum  
+tiṟaṉ aṟintāṉ, tērccit tuṇai.
+
+635\. He is a helpful counselor who is righteous and considerate in his speech, and always knows how to act.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६३५</summary>
@@ -16706,6 +21955,14 @@ Right wisdom speaks, ever apt in acts.        635
 मन्त्रिणस्तस्य पुरतः किं कुर्युः शत्रुवञ्चनाः ॥ ६३६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३६</summary>
+
+636\. matinuṭpam nūlōṭu uṭaiyārkku ati nuṭpam  
+yā uḷa, muṉ niṟpavai?.
+
+636\. To a keen intellect combined with learning no difficulty stands in the way.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३६</summary>
 
 6\. மதிநுட்பம் நூலோடு உடையார்க்கு அதிநுட்பம்  
@@ -16730,6 +21987,14 @@ The keen in brain with learned love?        636
 
 नीतिशास्त्रप्रकारेण न युक्तं कार्यसाधनम् ।  
 देशकालानुरोधेन कार्यसाधनमुत्तमम् ॥ ६३७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६३७</summary>
+
+637\. ceyaṟkai aṟintakkaṭaittum, ulakattu  
+iyaṟkai aṟintu, ceyal!.
+
+637\. Even though you know the rules, act in conformity with the world opinion.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६३७</summary>
@@ -16758,6 +22023,14 @@ Act after knowing world's outlooks.        637
 नृपस्य समये तत्त्वकथनं मन्त्रिलक्षणम् ॥ ६३८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३८</summary>
+
+638\. aṟi koṉṟu, aṟiyāṉ eṉiṉum, uṟuti  
+uḻaiyiruntāṉ kūṟal kaṭaṉ.
+
+638\. Though a king listens not to wise words it is the duty of the minister to speak firmly to him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३८</summary>
 
 8\. அறிகொன்று அறியான் எனினும் உறுதி  
@@ -16784,6 +22057,14 @@ Though the ignorant king refutes.        638
 कोटिसप्ततिशत्रूणां मध्ये वासोऽपि साम्प्रतम् ॥ ६३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६३९</summary>
+
+639\. paḻutu eṇṇum mantiriyiṉ, pakkattuḷ tev ōr  
+eḻupatu kōṭi uṟum.
+
+639\. A treacherous minister by the king’s side is equal to seventy crores of enemies.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६३९</summary>
 
 9\. பழுதெண்ணும் மந்திரியின் பக்கத்துள் தெவ்வோர்  
@@ -16808,6 +22089,14 @@ Than a minister with mind bitter.        639
 
 स्मृत्वा यथावत्कार्याणि सम्यकू तत्कर्तुमुद्यतः ।  
 नैतानि पूर्णतां यान्ति सामर्थ्य न भवेद्यदि ॥ ६४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६४०</summary>
+
+640\. muṟaippaṭac cūḻntum, muṭivilavē ceyvar-  
+tiṟappāṭu ilāatavar.
+
+640\. Ministers who have no requisite ability will leave a task unfinished though well begun.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६४०</summary>
@@ -16839,6 +22128,14 @@ To fulfil an act they have no mind.        640
 गुणमध्ये विशेषेण वाग्मिता राजते यतः ॥ ६४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६४१</summary>
+
+641\. 'nā nalam' eṉṉum nalaṉ uṭaimai; an nalam  
+yā nalattu uḷḷatūum aṉṟu.
+
+641\. The virtue of good speech is greater than all the other good qualities found in one.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६४१</summary>
 
 1\. நாநலம் என்னும் நலனுடைமை அந்நலம்  
@@ -16863,6 +22160,14 @@ Is goodness which nothing can reach.        641
 
 वक्तुर्वचनभङ्गयैव यतः स्यातां शुभाशुभे ।  
 आलोच्य सावधानेन तस्माद्वाक्यं प्रजुज्यताम् ॥ ६४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६४२</summary>
+
+642\. ākkamum, kēṭum, ataṉāl varutalāl,  
+kāttu ōmpal, colliṉkaṇ cōrvu.
+
+642\. As I both prosperity and ruin are caused by words, a minister must guard against imperfection in his speech.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६४२</summary>
@@ -16891,6 +22196,14 @@ Guard against the slips of tongue.        642
 अश्रुतानां च शुश्रूषा भवेत् तत्तात्त्विकं वच ॥ ६४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६४३</summary>
+
+643\. kēṭṭārp piṇikkum takai avāy, kēḷārum  
+vēṭpa, moḻivatu ām-col.
+
+643\. The minister must use such words as have the effect of strengthening the approval of those who agree and differ.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६४३</summary>
 
 3\. கேட்டார்ப் பிணிக்குந் தகையவாய்க் கோளாரும்  
@@ -16915,6 +22228,14 @@ And attracts ev'n those that are averse.        643
 
 वक्तृश्रोत्रोर्मनस्तत्त्वं ज्ञात्वा वचनमुच्यताम् ।  
 तादृग्वचःप्रयोगेण धर्मार्थौ भुवि सिद्धयतः ॥ ६४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६४४</summary>
+
+644\. tiṟaṉ aṟintu colluka, collai; aṟaṉum  
+poruḷum ataṉiṉ ūṅku il.
+
+644\. Speak having regard to one’s capacity to listen; for there is no greater virtue nor wealth than that.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६४४</summary>
@@ -16943,6 +22264,14 @@ No wealth or virtue words surpass.        644
 इतरेषां वचोभिश्च यज्जेतुं नैव शक्यते ॥ ६४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६४५</summary>
+
+645\. colluka collai-piṟitu ōr col ac collai  
+vellum col iṉmai aṟintu.
+
+645\. Speak out what you have to say only after knowing that your own argument will not be turned against you.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६४५</summary>
 
 5\. சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை  
@@ -16967,6 +22296,14 @@ Can win it and say untoward.        645
 
 मनोऽनुकूलमन्येषामुक्तवा तेषां वचस्यपि ।  
 त्यक्तवा दोषान् भावमात्रग्रहणं मन्त्रिणां गुणः ॥ ६४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६४६</summary>
+
+646\. vēṭpat tām colli, piṟar col payaṉ kōṭal  
+māṭciyiṉ mācu aṟṟār kōḷ.
+
+646\. A good minister wins the approval of the listener by persuasive speech.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६४६</summary>
@@ -16995,6 +22332,14 @@ And grasp in others what is meet.        646
 विस्मृत्या रहितं धीरं वाक्यं यः समुदीरयेत् ॥ ६४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६४७</summary>
+
+647\. colal vallaṉ, cōrvu ilaṉ, añcāṉ, avaṉai  
+ikal vellal yārkkum aritu.
+
+647\. A clever speaker is neither tired nor fearful; none can defeat him in a debate.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६४७</summary>
 
 7\. சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை  
@@ -17019,6 +22364,14 @@ Flawless, puissant, and free from fear.        647
 
 नानार्थानानुपूर्व्येण सग्रथ्य मधुरं वचः ।  
 प्रयुञ्जानस्य वचनं लोको गृह्णाति सादरम् ॥ ६४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६४८</summary>
+
+648\. viraintu toḻil kēṭkum ñālam-nirantu iṉitu  
+collutal vallārp peṟiṉ.
+
+648\. Cogent reasoning and soft speech can bring the people over to one’s side.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६४८</summary>
@@ -17047,6 +22400,14 @@ The words of counsellors astute.        648
 वाक्यजालमनुस्यूतं वक्तुमेव हि ते क्षमाः ॥ ६४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६४९</summary>
+
+649\. pala collak kāmuṟuvar maṉṟa- mācu aṟṟa  
+cila collal tēṟṟātavar.
+
+649\. Those who cannot say a few words correctly will evince a desire to speak much.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६४९</summary>
 
 9\. பலசொல்லக் காமுறுவர் மன்றமா சற்ற  
@@ -17071,6 +22432,14 @@ A few and flawless words to speak.        649
 
 अधीतग्रन्थमन्येषां ये बोधयितुमक्षमाः ।  
 निर्गन्धफुल्लकुसुमैः ते भजन्ते समानताम् ॥ ६५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६५०</summary>
+
+650\. iṇar ūḻttum nāṟā malar aṉaiyar-kaṟṟatu  
+uṇara virittu uraiyātār.
+
+650\. Those who cannot explain well what they have learnt resemble the odourless flowers with their petals open.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६५०</summary>
@@ -17102,6 +22471,14 @@ Are bunch of flowers not fragrant.        650
 यदि कर्म भवेत् सुष्ठु सर्वं तेन हि सिद्ध्यति ॥ ६५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६५१</summary>
+
+651\. tuṇai nalam ākkam tarūum; viṉai nalam  
+vēṇṭiya ellām tarum.
+
+651\. A man’s friends bring prosperity to him; but his good acts fetch him his wish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६५१</summary>
 
 1\. துணைநலம் ஆக்கம் தரூஉம் வினைநலம்  
@@ -17126,6 +22503,14 @@ Does every good thing we desire.        651
 
 इह कीर्तिः परे पुण्यं न सिद्धयेद्येन कर्मणा ।  
 सर्वदा तन्न कर्तव्यं मन्त्रिणा भूतिमिच्छता ॥ ६५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६५२</summary>
+
+652\. eṉṟum oruvutal vēṇṭum-pukaḻoṭu  
+naṉṟi payavā viṉai.
+
+652\. That deed must always be discarded which does not promote virtue and produce fame.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६५२</summary>
@@ -17154,6 +22539,14 @@ Bring good nor glory on their part.        652
 त्यज्यतां तादृशं कार्यं यद्गौखविधातकम् ॥ ६५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६५३</summary>
+
+653\. ōotal vēṇṭum, oḷi māḻkum ceyviṉai-  
+‘āatum!’ eṉṉumavar.
+
+653\. Those who wish to become great must always avoid deeds which darken the lustre of their reputation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६५३</summary>
 
 3\. ஓஒதல் வேண்டும் ஒளிமாழ்கும் செய்வினை  
@@ -17178,6 +22571,14 @@ Should shun the deed that dims their name.        653
 
 प्राप्तोऽपि व्यसने तस्य निर्मूलनकृतेऽपि वा ।  
 निन्द्यं कार्यं न कुर्वन्ति विशुद्धमतयो जनाः ॥ ६५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६५४</summary>
+
+654\. iṭukkaṇ paṭiṉum, iḷivanta ceyyār-  
+naṭukku aṟṟa kāṭciyavar.
+
+654\. Even adversity does not prompt men of unswerving purity to do mean things.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६५४</summary>
@@ -17206,6 +22607,14 @@ Shun deeds of mean, shameful device.        654
 प्रमादेन कृते चापि पश्चातापमतिं त्यज ॥ ६५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६५५</summary>
+
+655\. 'eṟṟu!' eṉṟu iraṅkuva ceyyaṟka; ceyvāṉēl,  
+maṟṟu aṉṉa ceyyāmai naṉṟu.
+
+655\. Desist from deeds which you may regret later; but if you once happen to do such a deed, repeat it not.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६५५</summary>
 
 5\. எற்றென்று இரங்குவ செய்யற்க செய்வானேல்  
@@ -17230,6 +22639,14 @@ If done, do not repeat it twice.        655
 
 मातुर्बुभुक्षाशमनसङ्कटेऽपि समागते ।  
 सद्भिर्विगर्हितं वर्ज्यं कार्यं न हि समाचरेत् ॥ ६५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६५६</summary>
+
+656\. īṉṟāḷ paci kāṇpāṉ āyiṉum, ceyyaṟka  
+cāṉṟōr paḻikkum viṉai.
+
+656\. Though you find your mother starving, do not do anything which will be condemned by the great.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६५६</summary>
@@ -17258,6 +22675,14 @@ Shun acts denounced by ancient seers.        656
 विर्दुष्टकर्मजनितदारिद्र्यं हि सतां वरम् ॥ ६५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६५७</summary>
+
+657\. paḻi malaintu eytiya ākkattiṉ, cāṉṟōr  
+kaḻi nalkuravē talai.
+
+657\. Better the poverty adopted by the great than the wealth resulting from sin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६५७</summary>
 
 7\. பழிமலைந்து எய்திய ஆக்கத்தின் சான்றோர்  
@@ -17282,6 +22707,14 @@ Is more than wealth hoarded by Vice.        657
 
 न कुर्यान्निन्दितं कर्म तत् प्रमादात् क्रियेत् चेत् ।  
 कार्यवसानवेलायां दुःखमेव भवेत् ततः ॥ ६५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६५८</summary>
+
+658\. kaṭinta kaṭintu orār ceytārkku avaitām  
+muṭintālum, pīḻai tarum.
+
+658\. Those who do knowingly forbidden things will suffer in the end, although they may succeed in doing them.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६५८</summary>
@@ -17310,6 +22743,22 @@ Suffer troubles though they succeed.        658
 क्रमप्राप्तधनं नष्टमप्यन्ते मुदमर्पयेत् ॥ ६५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६५९</summary>
+
+659\. aḻak koṇṭa ellām aḻap pōm; iḻappiṉum,  
+piṟpayakkum, naṟpālavai.
+
+659\. What is secured by causing tears to others will be lost with tears. But good deeds will result in good later.  
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६५९</summary>
+
+659\. aḻak koṇṭa ellām aḻap pōm; iḻappiṉum,  
+piṟpayakkum, naṟpālavai.
+
+659\. What is secured by causing tears to others will be lost with tears. But good deeds will result in good later.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६५९</summary>
 
 9\. அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்  
@@ -17334,6 +22783,14 @@ Though lost, from good deeds blessings flow.        659
 
 वञ्चनामार्गसंप्राप्तवित्तरक्षणकर्म तु ।  
 अपक्कामघटक्षिप्तजलरक्षणवद्भवेत् ॥ ६६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६०</summary>
+
+660\. calattāl poruḷ ceytu ēmākkal-pacu maṇ-  
+kalattuḷ nīr peytu, irīiyaṟṟu.
+
+660\. A minister who promotes his king’s resources by fraud is like one who tries to store up water in a pot of unburnt clay.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६६०</summary>
@@ -17365,6 +22822,14 @@ Is water poured in wet clay vase.        660
 सैन्यदुर्गादिदार्ढ्य तु नात्र दार्ढ्यपदेरितम् ॥ ६६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६६१</summary>
+
+661\. viṉait tiṭpam eṉpatu oruvaṉ maṉat tiṭpam;  
+maṟṟaiya ellām piṟa.
+
+661\. Determination in action is one’s resolution. All others are nothing.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६६१</summary>
 
 1\. வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம்  
@@ -17389,6 +22854,14 @@ And all the rest are imperfect.        661
 
 निषिद्धकर्मणस्त्यागो दैवात्तस्मिन् कृतेऽपि च ।  
 चित्तदार्ढ्यापरित्याग इतीमौ प्रकृते मतौ ॥ ६६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६२</summary>
+
+662\. ūṟu orāl, uṟṟapiṉ olkāmai, iv iraṇṭiṉ  
+āṟu eṉpar-āyntavar kōḷ.
+
+662\. Ministers versed in lore will not do unprofitable deeds, and if they do, they will not regret it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६६२</summary>
@@ -17417,6 +22890,14 @@ These two are maxims of the wise.        662
 दृढं भवति तत्, मध्ये ज्ञातं चेद् दुःखमापतेत् ॥ ६६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६६३</summary>
+
+663\. kaṭaik koṭkac ceytakkatu āṇmai; iṭaik koṭkiṉ,  
+eṟṟā viḻumam tarum.
+
+663\. A clever minister publishes a deed after its completion; if it becomes public in the intermediate stage, it will end in trouble.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६६३</summary>
 
 3\. கடைகொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்  
@@ -17441,6 +22922,14 @@ Woe unto work displayed midway.        663
 
 एवं कर्तव्यमित्येतद्वक्तुं शक्ताः समे भुवि ।  
 यथोक्तं कार्यकरणे समर्थो नास्ति कश्चन ॥ ६६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६४</summary>
+
+664\. collutal yārkkum eḷiya; ariya ām,  
+colliya vaṇṇam ceyal.
+
+664\. It is easy for one to say, but it is difficult to do it in the said manner.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६६४</summary>
@@ -17469,6 +22958,14 @@ But hard it is to know and act.        664
 महत्वजननाद्राज्ञः सर्वैरपि महीयते ॥ ६६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६६५</summary>
+
+665\. vīṟu eyti māṇṭār viṉait tiṭpam, vēntaṉkaṇ  
+ūṟu eyti, uḷḷappaṭum.
+
+665\. The resolution of a thoughtful and good minister in strengthening his monarch will earn all praise.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६६५</summary>
 
 5\. வீறெய்தி மாண்டார் வினைதிட்பம் வேந்தன்கண்  
@@ -17493,6 +22990,14 @@ Shall win the praise of king and all.        665
 
 चिकीर्षितप्रकारेण ये धीराः कार्यसाधने ।  
 चिकीर्षितं फलं चापि प्राप्नुवन्ति तथैव ते ॥ ६६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६६</summary>
+
+666\. eṇṇiya eṇṇiyāṅku eytupa-eṇṇiyār  
+tiṇṇiyar ākappeṟiṉ.
+
+666\. Firm of purpose, ministers carry out their resolution.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६६६</summary>
@@ -17521,6 +23026,22 @@ When mind that wills is strong indeed.        666
 महत्वे नाकृतिर्हेतुः दार्ढ्यं स्यात्तत्र कारणम् ॥ ६६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६६७</summary>
+
+667\. uruvu kaṇṭu eḷḷāmai vēṇṭum-uruḷ perun tērkku  
+accu āṇi aṉṉār uṭaittu.
+
+667\. Do not despise one for lack of personality. Does not the little nail of the chariot keep the wheel going?  
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६७</summary>
+
+667\. uruvu kaṇṭu eḷḷāmai vēṇṭum-uruḷ perun tērkku  
+accu āṇi aṉṉār uṭaittu.
+
+667\. Do not despise one for lack of personality. Does not the little nail of the chariot keep the wheel going?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६६७</summary>
 
 7\. உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்கு  
@@ -17545,6 +23066,14 @@ Like linchpin of big rolling car.        667
 
 प्रसन्नमनसा कार्ये प्रवृत्तेन फलेच्छया ।  
 आलस्यदीर्घसूत्रत्वमन्तरा तद्विधीयताम् ॥ ६६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६६८</summary>
+
+668\. kalaṅkātu kaṇṭa viṉaikkaṇ, tuḷaṅkātu  
+tūkkam kaṭintu ceyal.
+
+668\. What you have clearly decided to do, do it without hesitation and delay.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६६८</summary>
@@ -17573,6 +23102,14 @@ The deed resolved purposefully.        668
 अवश्यमेव कर्तव्यं दृढचित्तसमन्वितैः ॥ ६६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६६९</summary>
+
+669\. tuṉpam uṟavariṉum ceyka, tuṇivu āṟṟi-  
+iṉpam payakkum viṉai.
+
+669\. Be resolute in deed which ends in happiness, though troublesome at the beginning.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६६९</summary>
 
 9\. துன்பம் உறவரினும் செய்க துணிவாற்றி  
@@ -17597,6 +23134,14 @@ The deed that brings delight at last.        669
 
 दार्ढ्ये स्थितेऽप्यन्यकार्ये स्वीकृते पूतकर्मणि ।  
 मनोदार्ढ्यविहीनांस्तु मानयन्ति न मानवाः ॥ ६७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६७०</summary>
+
+670\. eṉait tiṭpam eytiyakkaṇṇum, viṉait tiṭpam  
+vēṇṭārai vēṇṭātu, ulaku.
+
+670\. The world will not esteem him who has no determined will, notwithstanding his other strong virtues.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६७०</summary>
@@ -17628,6 +23173,14 @@ But strength of will-to-do at length.        670
 आलस्यं नैव कर्तव्यमन्यथा व्यसनं भवेत् ॥ ६७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६७१</summary>
+
+671\. cūḻcci muṭivu tuṇivu eytal; at tuṇivu  
+tāḻcciyuḷ taṅkutal tītu.
+
+671\. Decision is the result of deliberation. It is harmful to rest it low.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६७१</summary>
 
 1\. சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு  
@@ -17652,6 +23205,14 @@ Weak delay of action is wrong.        671
 
 यदालस्येन कर्तव्यं तत्रालस्य प्रदर्श्यताम् ।  
 त्वरया करणीयं यत् तत्रालस्यं न शोभनाम् ॥ ६७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६७२</summary>
+
+672\. tūṅkuka, tūṅkic ceyaṟpāla; tūṅkaṟka,  
+tūṅkātu ceyyum viṉai.
+
+672\. Delay such things as call for delay. But never delay that which cannot be delayed.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६७२</summary>
@@ -17680,6 +23241,14 @@ Delay not acts that need display.        672
 तदभावे यदा यत्तु साध्यं तत् तत्र साध्यताम् ॥ ६७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६७३</summary>
+
+673\. ollum vāy ellām viṉai naṉṟē; ollākkāl,  
+cellum vāy nōkkic ceyal.
+
+673\. Achieve a thing wherever possible; if it were not possible adopt a cautious policy.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६७३</summary>
 
 3\. ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்  
@@ -17704,6 +23273,14 @@ If not see what is possible.        673
 
 आरब्धकार्ये यच्छिष्टं शिष्टं यद्धतशत्रुषु ।  
 द्वयं गूढं सदन्ते तु दहेच्छिष्टस्फुलिङ्गवत् ॥ ६७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६७४</summary>
+
+674\. viṉai, pakai eṉṟu iraṇṭiṉ eccam, niṉaiyuṅkāl,  
+tī eccam pōlat teṟum.
+
+674\. An unfinished deed and an unfinished fight will like a half extinguished fire, cause ultimate harm.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६७४</summary>
@@ -17732,6 +23309,14 @@ Flare up like fire unextinguished.        674
 पञ्चानामपि विस्पष्ठं बुध्वा कार्यं विधीयताम् ॥ ६७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६७५</summary>
+
+675\. poruḷ, karuvi, kālam, viṉai, iṭaṉoṭu aintum  
+iruḷ tīra eṇṇic ceyal!.
+
+675\. Do a thing after carefully deliberating on five things; resources, means, the time, the nature of the deed, and the place.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६७५</summary>
 
 5\. பொருள்கருவி காலம் வினையிடனொடு ஐந்தும்  
@@ -17756,6 +23341,14 @@ Decide these five and then proceed.        675
 
 क्रियासम्बन्धिनो यत्नान् विघ्नान् सम्भावितान् तथा ।  
 अन्ते महाफलप्राप्तिं त्रयं बुध्वा क्रियां कुरु ॥ ६७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६७६</summary>
+
+676\. muṭivum, iṭaiyūṟum, muṟṟiyāṅku eytum  
+paṭupayaṉum, pārttuc ceyal!.
+
+676\. In doing a thing, weigh deeply your aim, the hindrances and the final gain thereof.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६७६</summary>
@@ -17784,6 +23377,14 @@ And then pursue a fitting act.        676
 यैः कृता भावमेषां च ज्ञात्वा कार्ये मतिं कुरु ॥ ६७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६७७</summary>
+
+677\. ceyviṉai ceyvāṉ ceyalmuṟai, av viṉai  
+uḷ aṟivāṉ uḷḷam koḷal.
+
+677\. The manner in which a thing should be done is to be determined after consulting an expert.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६७७</summary>
 
 7\. செய்வினை செய்வான் செயல்முறை அவ்வினை  
@@ -17808,6 +23409,14 @@ That is the way of fruitful acts.        677
 
 मत्तेभमेकं संप्रेप्य यथन्यो गृह्यते गजः ।  
 कृतेनैकेन कार्येण तथान्यदपि साध्यताम् ॥ ६७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६७८</summary>
+
+678\. viṉaiyāṉ viṉai ākkikkōṭal-naṉai kavuḷ  
+yāṉaiyāl yāṉai yāttaṟṟu.
+
+678\. Use one act to achieve another just as one wild elephant is used to capture another.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६७८</summary>
@@ -17836,6 +23445,14 @@ Achieve a deed by deed better.        678
 अप्रिया ये स्वशत्रोस्तैः सख्यं प्रथमतः कुरु ॥ ६७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६७९</summary>
+
+679\. naṭṭārkku nalla ceyaliṉ viraintatē-  
+oṭṭārai oṭṭikkoḷal.
+
+679\. It is much more urgent to secure the alliance of one’s enemies, than to do good to one’s friends.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६७९</summary>
 
 9\. நட்டார்க்கு நல்ல செயலின் விரைந்ததே  
@@ -17860,6 +23477,14 @@ More urgent to befriend the foes.        679
 
 दुर्बलाः स्वाश्रितजनत्रासनिर्मूलनेच्छया ।  
 बलिष्ठैः सह सम्बन्धं कुर्युरर्थं प्रदाय वा ॥ ६८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६८०</summary>
+
+680\. uṟai ciṟiyār uḷ naṭuṅkal añci, kuṟai peṟiṉ,  
+koḷvar periyārp paṇintu.
+
+680\. Fearing that their weak king may quake with fear, ministers will bow before superior kings and accept their terms.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६८०</summary>
@@ -17891,6 +23516,14 @@ Submit to foes superior.        680
 अतैर्विशेषणैर्युक्तो दूतो भवितुमर्हति ॥ ६८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६८१</summary>
+
+681\. aṉpu uṭaimai, āṉṟa kuṭippiṟattal, vēntu avām  
+paṇpu uṭaimai,- tūtu uraippāṉ paṇpu.
+
+681\. The characteristics of an ambassador are lovability, noble birth and other qualities which evoke the monarch’s respect.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६८१</summary>
 
 1\. அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்  
@@ -17915,6 +23548,14 @@ Pleasing kings mark true embassy.        681
 
 विमृश्य वाक्यकथनपाटवं ज्ञानमार्जवम् ।  
 राजप्रीतिरिमे दूतो त्रयः स्वाभाविका गुणाः ॥ ६८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६८२</summary>
+
+682\. aṉpu, aṟivu, ārāynta colvaṉmai-tūtu uraippārkku  
+iṉṟiyamaiyāta mūṉṟu.
+
+682\. Love, wisdom, ability to talk with full knowledge, are the three indispensable qualities of an ambassador.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६८२</summary>
@@ -17943,6 +23584,14 @@ Knowledge and learned eloquence.        682
 दूतस्य लक्षणं नीतिशास्त्रज्ञत्वं निगद्यते ॥ ६८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६८३</summary>
+
+683\. nūlāruḷ nūl vallaṉ ākutal-vēlāruḷ  
+veṉṟi viṉai uraippāṉ paṇpu.
+
+683\. A skilful ambassador who wishes to gain his mission among other monarchs wielding the spear must be more learned than the learned.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६८३</summary>
 
 3\. நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள்  
@@ -17967,6 +23616,14 @@ Before lanced king, triumphant words.        683
 
 विमर्शसहिता विद्या रूपं स्वाभाविकी मतिः ।  
 एतत्त्रितयसम्पन्नो दौत्यकर्म समाचरेत् ॥ ६८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६८४</summary>
+
+684\. aṟivu, uru, ārāynta kalvi, im mūṉṟaṉ  
+ceṟivu uṭaiyāṉ celka, viṉaikku.
+
+684\. Only those who have wisdom, personality and mature scholarship must be sent on a mission.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६८४</summary>
@@ -17995,6 +23652,14 @@ Can act as bold ambassador.        684
 पत्युएमनोऽनुकूलं यो वक्ति दूतः स कथ्यते ॥ ६८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६८५</summary>
+
+685\. tokac colli, tūvāta nīkki, nakac colli,  
+naṉṟi payappatu ām-tūtu.
+
+685\. A good ambassador is he who can talk cogently and sweetly and who is not offensive even in saying things that are disagreeable.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६८५</summary>
 
 5\. தொகச்சொல்லித் தூவாத நீக்கி நகச்சொல்லி  
@@ -18019,6 +23684,14 @@ Does good by pleasant words concise.        685
 
 नितीज्ञाः स्फुटवक्ता च धैर्यवान् रिपुसन्निधौ ।  
 कालानुकूलप्रज्ञावन् दूतः स्यात् शास्त्रसम्मतः ॥ ६८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६८६</summary>
+
+686\. kaṟṟu, kaṇ añcāṉ, celac colli, kālattāl  
+takkatu aṟivatu ām-tūtu.
+
+686\. The envoy must be learned, fearless, persuasive and expedient.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६८६</summary>
@@ -18047,6 +23720,14 @@ Convincing words which time demands.        686
 विमृश्य कथनीयार्थवक्ता स्याद् दूतसत्तमः ॥ ६८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६८७</summary>
+
+687\. kaṭaṉ aṟintu, kālam karuti, iṭaṉ aṟintu,  
+eṇṇi, uraippāṉ talai.
+
+687\. The best envoy states his case convincingly knowing his duty at the proper time and place.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६८७</summary>
 
 7\. கடனறிந்து காலம் கருதி இடனறிந்து  
@@ -18071,6 +23752,14 @@ The envoy employs mature phrase.        687
 
 अर्थकामोष्वनासक्तिः सर्वदा साह्यकारिता ।  
 मनोदार्ढ्य च दूतानां लक्षणं प्रोच्यते बुधैः ॥ ६८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६८८</summary>
+
+688\. tūymai, tuṇaimai, tuṇivu uṭaimai, im mūṉṟiṉ  
+vāymai-vaḻi uraippāṉ paṇpu.
+
+688\. The qualifications of a true envoy are morality, loyalty to his monarch and courage.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६८८</summary>
@@ -18099,6 +23788,14 @@ Is pure helpful and bold in views.        688
 राजवार्तामन्यराज्ञि वक्तुं युक्तः स एव हि ॥ ६८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६८९</summary>
+
+689\. viṭu māṟṟam vēntarkku uraippāṉ-vaṭu māṟṟam  
+vāy cōrā vaṉkaṇavaṉ.
+
+689\. He who does not falter even when faced with personal danger is fit to deliver his king’s message.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६८९</summary>
 
 9\. விடுமாற்றம் வேந்தர்க்கு உரைப்பான் வடுமாற்றம் -  
@@ -18123,6 +23820,14 @@ Has flawless words and heart's courage.        689
 
 शत्रुबाधामवाप्तोऽपि निर्भयः शत्रुमन्निधौ ।  
 प्रतिप्रभाववक्ता यः तं दूतं ब्रुवते बुधाः ॥ ६९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६९०</summary>
+
+690\. iṟuti payappiṉum, eñcātu, iṟaivaṟku  
+uṟuti payappatu ām-tūtu.
+
+690\. A true envoy delivers his message even at the risk of death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६९०</summary>
@@ -18154,6 +23859,13 @@ Assures his king's safety and joy.        690
 शैत्यबाधानिवृत्त्यर्थं यथाग्निकटं गतः ॥ ६९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६९१</summary>
+
+691\. akalātu, aṇukātu, tīk kāyvār pōlka-  
+ikal vēntarc cērntu oḻukuvār.  
+691\. Those who personally serve the monarch do not go too near him or too far away from him, like those who warm themselves by the fire side.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६९१</summary>
 
 1\. அகலாது அணுகாது தீக்காய்வார் போல்க  
@@ -18178,6 +23890,14 @@ Not coming close nor going far.        691
 
 राजवाञ्छितवस्तूनि स्वयं लब्धुमानिच्छते ।  
 मान्त्रिणे पार्थिवो दद्यादखिलं तेन वाञ्छितम् ॥ ६९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६९२</summary>
+
+692\. maṉṉar viḻaipa viḻaiyāmai, maṉṉarāṉ  
+maṉṉiya ākkam tarum.
+
+692\. Not to covet those things which are desired by the monarch produce lasting wealth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६९२</summary>
@@ -18206,6 +23926,14 @@ This brings thee their fruitful favour.        692
 अप्रसन्ने महिपाले न शक्यं तस्य सान्त्वनम् ॥ ६९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६९३</summary>
+
+693\. pōṟṟiṉ ariyavai pōṟṟal-kaṭuttapiṉ,  
+tēṟṟutal yārkkum aritu.
+
+693\. To save himself a minister must avoid gross faults, for it is difficult to please, once being found fault with.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६९३</summary>
 
 3\. போற்றின் அரியவை போற்றல் கடுத்தபின்  
@@ -18230,6 +23958,14 @@ Suspected least, there's no redress.        693
 
 राज्ञि पश्यति चान्येषां श्रोत्रयोर्गुप्तभाषणम् ।  
 सहान्यैर्हास्यवचनं प्रयोक्तव्यं न मन्त्रिणा ॥ ६९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६९४</summary>
+
+694\. cevic collum, cērnta nakaiyum, avittu oḻukal-  
+āṉṟa periyār akattu!.
+
+694\. In the presence of the great avoid whispering and smiling.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६९४</summary>
@@ -18258,6 +23994,14 @@ Amidst august men's assemblage.        694
 प्रश्नं न कुर्यात् किं वेति तेनोक्तं चेत् तदा श‍ृणु ॥ ६९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६९५</summary>
+
+695\. ep poruḷum ōrār, toṭarār, maṟṟu ap poruḷai  
+viṭṭakkāl kēṭka, maṟai!.
+
+695\. Let not the minister lend ear to the king’s secret or be inquisitive to know it. But let him listen to it when the king reveals it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६९५</summary>
 
 5\. எப்பொருளும் ஓரார் தொடரார்மற் றப்பொருளை  
@@ -18282,6 +24026,14 @@ Hear only when he lets it out.        695
 
 ज्ञात्वेङ्गितं च कालं च भूपतेर्यत्तु वाञ्छितम् ।  
 अनिराकरणीयं तत् मन्त्री बूयान्मनोहरम् ॥ ६९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६९६</summary>
+
+696\. kuṟippu aṟintu, kālam karuti, veṟuppu ila  
+vēṇṭupa, vēṭpac colal!.
+
+696\. Watch the mood of the monarch. Talk to him pleasantly and inoffensively.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६९६</summary>
@@ -18310,6 +24062,14 @@ No dislikes but what king likes well.        696
 पृष्टोऽपि व्यर्थवचनं न वदेत् सचिव ः स्वयम् ॥ ६९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६९७</summary>
+
+697\. vēṭpaṉa colli, viṉai ila eññāṉṟum  
+kēṭpiṉum, collā viṭal!.
+
+697\. Speak desirable things though unasked, but abstain from profitless talk although solicited by him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६९७</summary>
 
 7\. வேட்பன சொல்லி வினையில எஞ்ஞான்றும்  
@@ -18334,6 +24094,14 @@ Even if pressed what is futile.        697
 
 ''कनिष्ठो वयसा बन्धुभूतोऽय'' मिति भूपतौ ।  
 निर्लक्ष्यभावमुत्सृज्य दीयतां स्थानगौरवम् ॥ ६९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ६९८</summary>
+
+698\. 'iḷaiyar, iṉa muṟaiyar' eṉṟu ikaḻār, niṉṟa  
+oḷiyoṭu oḻukappaṭum.
+
+698\. Do not disrespect a king on the ground of age or kinship, but behave as befits his royalty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ६९८</summary>
@@ -18362,6 +24130,14 @@ Look with awe king's light and might.        698
 अनिष्टं भूपतेर्नैव कुर्यान्मन्त्री विशुद्धधीः ॥ ६९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ६९९</summary>
+
+699\. 'koḷappaṭṭēm' eṉṟu eṇṇi, koḷḷāta ceyyār-  
+tuḷakku aṟṟa kāṭciyavar.
+
+699\. Men of high intelligence, respected by a king will not indulge in things revolting to him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ६९९</summary>
 
 9\. கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்  
@@ -18386,6 +24162,14 @@ Deeming they have the monarch's grace.        699
 
 ''चिरात् परिचितो राजा ममे''ति ममतापरः ।  
 मन्त्री स्वातन्त्र्यमालम्ब्य नानिष्टं कार्यमाचरेत् ॥ ७००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७००</summary>
+
+700\. paḻaiyam eṉak karuti, paṇpu alla ceyyum  
+keḻutakaimai kēṭu tarum.
+
+700\. To take liberty under the cover of old acquaintance and do unwanted things is to court ill.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७००</summary>
@@ -18417,6 +24201,14 @@ Shall spell ruin and woe untold.        700
 यो वेत्ति सचिवो लोकभूषणं स भवेद् ध्रुवम् ॥ ७०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७०१</summary>
+
+701\. kūṟāmai nōkki, kuṟippu aṟivāṉ, eññāṉṟum  
+māṟā nīr vaiyakku aṇi.
+
+701\. He who is able to divine one’s hidden intentions is a jewel among men on this sea-girt earth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७०१</summary>
 
 1\. கூறாமை நோக்கிக் குறிப்பறிவான் எஞ்ஞான்றும்  
@@ -18441,6 +24233,14 @@ Adorns the changeless sea-girt world.        701
 
 परिचगतं भावमिङ्गितैः संशयं विना ।  
 ज्ञातुं समर्थो दैवेन तुल्य एव विभाव्यताम् ॥ ७०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७०२</summary>
+
+702\. aiyappaṭāatu akattatu uṇarvāṉait  
+teyvattoṭu oppak koḷal!.
+
+702\. He who would speak out fearlessly what he feels will be regarded equal to God.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७०२</summary>
@@ -18469,6 +24269,14 @@ Of another man without a doubt.        702
 यो वेत्ति तस्मै वित्तादि दत्वा तं स्ववशे कुरु ॥ ७०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७०३</summary>
+
+703\. kuṟippiṉ kuṟippu uṇarvārai, uṟuppiṉuḷ  
+yātu koṭuttum, koḷal!.
+
+703\. The king at any cost should secure among his associates one who can discover by intuition another’s unexpressed thoughts.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७०३</summary>
 
 3\. குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள்  
@@ -18493,6 +24301,14 @@ At any cost in cabinet.        703
 
 परभावपरिज्ञाता चेङ्गितैर्भाषणादृते ।  
 आकारैरन्यतुल्योऽपि ज्ञानेनायं विशिष्यते ॥ ७०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७०४</summary>
+
+704\. kuṟittatu kūṟāmaik koḷvāroṭu, ēṉai  
+uṟuppu ōraṉaiyarāl, vēṟu.
+
+704\. Those who are able to discover unexpressed thoughts may be deemed superior to other’s service.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७०४</summary>
@@ -18521,6 +24337,14 @@ Though same in form is quite apart.        704
 अजानतां वृथा नेत्रे दर्शनैकप्रजोजने ॥ ७०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७०५</summary>
+
+705\. kuṟippiṉ kuṟippu uṇarāāyiṉ, uṟuppiṉuḷ  
+eṉṉa payattavō, kaṇ?.
+
+705\. Of what avail is the eye, among the organs of sense, if it does not note another’s intentions?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७०५</summary>
 
 5\. குறிப்பிற் குறிப்புணரா வாயின் உறுப்பினுள்  
@@ -18545,6 +24369,14 @@ If thought by thought one can't descry?        705
 
 वर्णभेदं वस्तिनिष्ठं स्फटिको दर्शयेद्यथा ।  
 मनोगतं भावभेदं मुखं तद्वत् प्रदर्शयेत् ॥ ७०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७०६</summary>
+
+706\. aṭuttatu kāṭṭum paḷiṅkupōl, neñcam  
+kaṭuttatu kāṭṭum, mukam.
+
+706\. Like a mirror that reflects what is near it, the face will show what passes in the mind.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७०६</summary>
@@ -18573,6 +24405,14 @@ Just as mirror nearby objects.        706
 पुरुषस्य सुखं दुःखं ज्ञात्वा स्वेन प्रकाशनात् ॥ ७०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७०७</summary>
+
+707\. mukattiṉ mutukkuṟaintatu uṇṭō-uvappiṉum  
+kāyiṉum, tāṉ muntuṟum?
+
+707\. Is there anything more expressive than the face which is an index as well as agony?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७०७</summary>
 
 7\. முகத்தின் முதுக்குறைந்தது உண்டோ உவப்பினும்  
@@ -18597,6 +24437,14 @@ First if the mind feels well or ill.        707
 
 इङ्गिताद्भवावज्ञातुरग्रे त्वागत्य तिष्ठतः ।  
 यो वेत्ति हृदयं तस्मिन् दुःखस्य कथनं वृथा ॥ ७०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७०८</summary>
+
+708\. mukam nōkki niṟka amaiyum-akam nōkki,  
+uṟṟatu uṇarvārp peṟiṉ.
+
+708\. If you come across one, who can read your face, study one’s face as one does yours.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७०८</summary>
@@ -18625,6 +24473,14 @@ For those who read the mind on face.        708
 सदसद्भावमन्यस्य तेन जानाति भूपतिः ॥ ७०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७०९</summary>
+
+709\. pakaimaiyum kēṇmaiyum kaṇ uraikkum-kaṇṇiṉ  
+vakaimai uṇarvārp peṟiṉ.
+
+709\. The eye proclaims friendliness and hostility to one who can read the message of the eyes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७०९</summary>
 
 9\. பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின்  
@@ -18649,6 +24505,14 @@ To those who changing outlooks know.        709
 
 ''परभावपरिज्ञाने वयं निशितबुद्धयः'' ।  
 इति वक्तुं स शक्तः स्यात् दृष्ट्या यो वेद् चाशयम् ॥ ७१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७१०</summary>
+
+710\. 'nuṇṇiyam' eṉpār aḷakkum kōl, kāṇuṅkāl,  
+kaṇ allatu, illai piṟa.
+
+710\. There is no other measuring rod, used by intelligent ministers than the monarch’s eye.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७१०</summary>
@@ -18680,6 +24544,14 @@ Is eye and eye that secrets finds.        710
 सभायां शब्दजालज्ञैः वक्तव्यं सद्गुणान्वितैः ॥ ७११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७११</summary>
+
+711\. avai aṟintu, ārāyntu, colluka-colliṉ  
+tokai aṟinta tūymaiyavar!.
+
+711\. Men should weigh their words in speaking when addressing an audience.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७११</summary>
 
 1\. அவையறிந்து ஆராய்ந்து சொல்லுக சொல்லின்  
@@ -18704,6 +24576,14 @@ Adapt their words to audience.        711
 
 साभिकानां रुचिं बुद्ध्वा दोषः शब्दथियोर्यथा ।  
 न ज्ञायेत तथा स्पष्टं सभायामुच्यतां वचः ॥ ७१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७१२</summary>
+
+712\. iṭai terintu, naṉku uṇarntu, colluka- colliṉ  
+naṭai terinta naṉmaiyavar!.
+
+712\. Good people who know the value of the language they employ, must speak noting how their words are received.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७१२</summary>
@@ -18732,6 +24612,14 @@ Their chosen words to time in fact.        712
 असमर्थाश्च कथने निर्विद्याश्च मताः समैः ॥ ७१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७१३</summary>
+
+713\. avai aṟiyār, collal mēṟkoḷpavar colliṉ  
+vakai aṟiyār; vallatūum il.
+
+713\. The learning of those who speak without taking into consideration the assembly addressed or ignorant of the art of speaking can be of no use to them.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७१३</summary>
 
 3\. அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்  
@@ -18756,6 +24644,14 @@ Words unversed which ears don't take.        713
 
 पण्डितानां सभामध्ये स्वपाण्डित्यं प्रदर्श्यताम् ।  
 मूढानां पुरतो युक्तं न पाण्डित्यप्रदर्शनम् ॥ ७१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७१४</summary>
+
+714\. oḷiyārmuṉ oḷḷiyar ātal! veḷiyārmuṉ  
+vāṉ cutai vaṇṇam koḷal!.
+
+714\. Before brilliant people be brilliant; before plain people be as plain as white chalk.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७१४</summary>
@@ -18784,6 +24680,14 @@ Before the muff be mortar white.        714
 अनारभ्य विनीतेन स्थितिः स्यादुत्तमो गुणः ॥ ७१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७१५</summary>
+
+715\. 'naṉṟu' eṉṟavaṟṟuḷḷum naṉṟē-mutuvaruḷ  
+muntu kiḷavāc ceṟivu.
+
+715\. The humility to maintain silence before superiors is the best of all good qualities.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७१५</summary>
 
 5\. நன்றென்ற வற்றுள்ளும் நன்றே முதுவருள்  
@@ -18808,6 +24712,14 @@ Which argues not before elders.        715
 
 शास्त्रज्ञानां सभायां यो दुष्टशब्दानुदीरयेत् ।  
 मुक्तिमार्गच्युतेनासौ तुल्यो दुष्यत्वमाप्नुयात् ॥ ७१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७१६</summary>
+
+716\. āṟṟiṉ nilaitaḷarntaṟṟē-viyaṉ pulam  
+ēṟṟu, uṇarvārmuṉṉar iḻukku.
+
+716\. To be censured by an assembly of the learned wise is like losing one’s balance while on the road to salvation.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७१६</summary>
@@ -18836,6 +24748,14 @@ Is like slipping from righteous ways.        716
 अधीतशास्त्रग्रन्थानां विद्या विभ्राजते भृशम् ॥ ७१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७१७</summary>
+
+717\. kaṟṟu aṟintār kalvi viḷaṅkum-kacaṭu aṟac  
+col terital vallār akattu.
+
+717\. The scholarship of the learned shines brilliantly before those who can appreciate faultless speech.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७१७</summary>
 
 7\. கற்றறிந்தார் கல்வி விளங்கும் கசடறச்  
@@ -18860,6 +24780,14 @@ Valued by flawless scholar-minds.        717
 
 स्वतोऽर्थग्राहिणामग्रे पण्डितोत्तमभाषणम् ।  
 रूढसस्ये त्वालवाले जलसेचनवद्भवेत् ॥ ७१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७१८</summary>
+
+718\. uṇarvatu uṭaiyārmuṉ collal-vaḷarvataṉ  
+pāttiyuḷ nīr corintaṟṟu.
+
+718\. Speaking before the wise is like feeding crops with water.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७१८</summary>
@@ -18888,6 +24816,14 @@ Is to water beds of growing grains.        718
 प्रमाद्यापि न भाषेत कुपण्डितसभाङ्गणे ॥ ७१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७१९</summary>
+
+719\. pul avaiyuḷ poccāntum collaṟka-nal avaiyuḷ  
+naṉku celac colluvār!.
+
+719\. Those who say good things before a good assembly should not even in forgetfulness say the same before the illiterate.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७१९</summary>
 
 9\. புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்  
@@ -18912,6 +24848,14 @@ Forgetful, address not the mean.        719
 
 स्वतुल्यज्ञानिशून्यायां सभायां ज्ञानिभाषणम् ।  
 अशुद्धजलधाराग्रशीर्णामृतसमं भवेत् ॥ ७२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२०</summary>
+
+720\. aṅkaṇattuḷ ukka amiḻtu aṟṟāl-tam kaṇattar  
+allārmuṉ kōṭṭi koḷal!.
+
+720\. Entering an assembly of men of unequal respectability will be like pouring nectar in an unclean courtyard.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७२०</summary>
@@ -18943,6 +24887,14 @@ Pours ambrosia into gutters.        720
 न स्यात् स्खालित्यमेतेषां शब्दतत्त्वविदां नृणाम् ॥ ७२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७२१</summary>
+
+721\. vakai aṟintu, val avai, vāycōrār-colliṉ  
+tokai aṟinta tūymaiyavar.
+
+721\. The expert in the art of speaking will not flounder, addressing an assembly of the learned.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७२१</summary>
 
 1\. வகையறிந்து வல்லவை வாய்சோரார் சொல்லின்  
@@ -18967,6 +24919,22 @@ Knowing grand council's moods and modes.        721
 
 पण्डितेष्वग्रगण्यास्ते श्लाघ्यन्ते सकलैरपि ।  
 अधीतं विदुषामग्रे विस्पष्टं यैर्निरूप्यते ॥ ७२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२२</summary>
+
+722\. kaṟṟāruḷ kaṟṟār eṉappaṭuvar-kaṟṟārmuṉ  
+kaṟṟa celac colluvār.
+
+722\. Those will be deemed foremost among the learned, who can speak learned things acceptable to the learned.  
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२२</summary>
+
+722\. kaṟṟāruḷ kaṟṟār eṉappaṭuvar-kaṟṟārmuṉ  
+kaṟṟa celac colluvār.
+
+722\. Those will be deemed foremost among the learned, who can speak learned things acceptable to the learned.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७२२</summary>
@@ -18995,6 +24963,14 @@ Who holds scholars with learned lore.        722
 विद्वत्सदसि धैर्येण वक्तारो विरलाः किल ॥ ७२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७२३</summary>
+
+723\. pakaiyakattuc cāvār eḷiyar; ariyar  
+avaiyakattu añcātavar.
+
+723\. Many die in the field of battle. But few are those who can fear fools addressing an assembly.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७२३</summary>
 
 3\. பகையகத்துச் சாவார் எளியர் அரியர்  
@@ -19019,6 +24995,14 @@ The fearless few face wise councils.        723
 
 यदधीतं त्वया शास्त्रं स्पष्टं सदसि तद्वद ।  
 अज्ञातं शास्त्रमन्येभ्यो ज्ञानिभ्यस्त्वं भज स्वयम् ॥ ७२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२४</summary>
+
+724\. kaṟṟārmuṉ kaṟṟa celac colli, tām kaṟṟa,  
+mikkāruḷ, mikka koḷal.
+
+724\. Speak to the learned what you have learnt, and receive from them much that you have to learn.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७२४</summary>
@@ -19047,6 +25031,14 @@ From greater savants learn still more.        724
 सभायामुत्तरं वक्तुं तद्धैर्यं जनयेत् तव ॥ ७२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७२५</summary>
+
+725\. āṟṟiṉ, aḷavu aṟintu kaṟka-avai añcā  
+māṟṟam koṭuttaṟporuṭṭu.
+
+725\. Understand the full scope of learning and learn, so that you may, without fear, reply effectively in an assembly.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७२५</summary>
 
 5\. ஆற்றின் அளவறிந்து கற்க அவையஞ்சா  
@@ -19071,6 +25063,14 @@ Foes you can boldly retort.        725
 
 मनोधैर्यविहीनस्य कृपाणो युधि निष्फलः ।  
 भीतस्य निष्फलं शास्त्रं सूक्ष्मज्ञानिसभाङ्गणे ॥ ७२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२६</summary>
+
+726\. vāḷoṭu eṉ, vaṉkaṇṇar allārkku?-nūloṭu eṉ,  
+nuṇ avai añcupavarkku?.
+
+726\. Of what use is the sword for the unvaliant? Likewise of what use is learning for the timid to face an assembly?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७२६</summary>
@@ -19099,6 +25099,14 @@ And books to those who councils fail?        726
 कृपाणो युद्धभूमिस्थनपुंसककरे यथा ॥ ७२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७२७</summary>
+
+727\. pakaiyakattup pēṭi kai oḷ vāḷ-avaiyakattu  
+añcumavaṉ kaṟṟa nūl.
+
+727\. The learning of one afraid of an assembly is like the shining sword in the hands of an eunuch in a battle-field.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७२७</summary>
 
 7\. பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து  
@@ -19123,6 +25131,14 @@ His lore who fears men of brain.        727
 
 सत्सभायामनेकार्थकथने भीरुणा स्फुटम् ।  
 अधीतास्वपि विद्यासु सकलासु वृथैव ताः ॥ ७२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७२८</summary>
+
+728\. pallavai kaṟṟum, payam ilarē-nal avaiyuḷ  
+naṉku celac collātār.
+
+728\. Vain is the versed learning of one who can not address with profit a learned assembly.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७२८</summary>
@@ -19151,6 +25167,14 @@ Who says no good before the good.        728
 भीतानज्ञातविद्योभ्योऽप्यधमान् मन्यते जनः ॥ ७२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७२९</summary>
+
+729\. 'kallātavariṉ kaṭai' eṉpa- ‘kaṟṟu aṟintum,  
+nallār avai añcuvār'.
+
+729\. The learned who are afraid of a good assembly will be regarded as worse than the illiterate.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७२९</summary>
 
 9\. கல்லா தவரின் கடையென்ப கற்றறிந்தும்  
@@ -19175,6 +25199,14 @@ Are learned idiots, certainly.        729
 
 अधीतविद्यान् सद्गोष्ठयां स्फुटं वक्तुं चकातरान् ।  
 जीवतोऽपि मृतप्रायान् लोको जानाति केवलम् ॥ ७३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७३०</summary>
+
+730\. uḷar eṉiṉum, illāroṭu oppar-kaḷaṉ añci,  
+kaṟṟa celac collātār.
+
+730\. Dead though alive are those who are afraid to address an assembly on what they have learnt.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७३०</summary>
@@ -19209,6 +25241,14 @@ Empress before the wise their art.        730
 धनार्जनपरैर्वैश्यैः युक्तो देश इतीर्यते ॥ ७३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३१</summary>
+
+731\. taḷḷā viḷaiyuḷum, takkārum, tāḻvu ilāc  
+celvarum, cērvatu- nāṭu.
+
+731\. That is a kingdom which has undiminishing produce, righteous people and fadeless riches.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३१</summary>
 
 74\. நாடு - The country
@@ -19237,6 +25277,14 @@ Unfailing yields and ample wealth.        731
 देशान्तरजनश्लाघ्यं देशमाहुर्मनीषिणः ॥ ७३२॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३२</summary>
+
+732\. perum poruḷāṉ peṭṭakkatu āki, aruṅ kēṭṭāl,  
+āṟṟa viḷaivatu-nāṭu.
+
+732\. That is a kingdom which has boundless wealth coveted for by other nations and has imperishable fertile resources.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३२</summary>
 
 2\. பெரும்பொருளால் பெட்டக்க தாகி அருங்கேட்டால்  
@@ -19261,6 +25309,14 @@ Where pests are nil and yields are sure.        732
 
 देशान्तरादागतानां जनानां वहनात् स्वयम् ।  
 वस्तून्युत्पाध राज्ञे च दानाद् देश इति स्मृतः ॥ ७३३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७३३</summary>
+
+733\. poṟai oruṅku mēlvaruṅkāl tāṅki, iṟaivaṟku  
+iṟai oruṅku nērvatu-nāṭu.
+
+733\. That alone is a kingdom which accommodates immigrants and whose king receives taxes willingly paid.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७३३</summary>
@@ -19289,6 +25345,14 @@ And pays its tax which king demands.        733
 विमुक्तमेधमानं च ब्रुवते देशसंज्ञया ॥ ७३४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३४</summary>
+
+734\. uṟu paciyum, ōvāp piṇiyum, ceṟu pakaiyum,  
+cērātu iyalvatu-nāṭu.
+
+734\. That is a kingdom where excessive hunger, incurable diseases and destructive enemies are absent.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३४</summary>
 
 4\. உறுபசியும் ஓவாப் பிணியும் செறுபகையும்  
@@ -19313,6 +25377,14 @@ Fierce famine, plague and foemen's harm.        734
 
 भिन्नलक्ष्यवतां सङ्घरन्तश्छिद्रैरनर्थदैः ।  
 घातकैः क्षुद्रभूपैश्च मुक्तो देशः स कथ्यते ॥ ७३५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७३५</summary>
+
+735\. pal kuḻuvum, pāḻceyyum uṭpakaiyum, vēntu alaikkum  
+kol kuṟumpum illatu-nāṭu.
+
+735\. That is a kingdom where there are not many (disloyal) associations, destructive internal dissensions and disturbing murderous chieftains.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७३५</summary>
@@ -19341,6 +25413,14 @@ No traitors in a land tranquil.        735
 समृद्धिसहितो देशो देशेषूत्तमतां व्रजेत् ॥ ७३६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३६</summary>
+
+736\. kēṭu aṟiyā, keṭṭa iṭattum vaḷam kuṉṟā  
+nāṭu, eṉpa, nāṭṭiṉ talai.
+
+736\. That is the top kingdom which is not harassed by an enemy, and which even if harassed does not experience want.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३६</summary>
 
 6\. கேடறியாக் கெட்ட விடத்தும் வளங்குன்றா  
@@ -19365,6 +25445,14 @@ Even in grief its wealth yet grows.        736
 
 तटाकैर्दृढदुर्गैश्च पर्वतैर्निझरैस्ततः ।  
 नदीमिः पञ्चभिश्चाङ्गः युक्तं देशं प्रचक्षते ॥ ७३७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७३७</summary>
+
+737\. iru puṉalum, vāynta malaiyum, varu puṉalum,  
+val araṇum-nāṭṭiṟku uṟuppu.
+
+737\. Surface and subsoil water, well situated hills from which flow waters and an invincible fort are the limbs of a kingdom.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७३७</summary>
@@ -19393,6 +25481,14 @@ With strong forts as limbs country beams.        737
 दुर्गश्च पञ्च देशस्य मण्डनानि भवन्ति हि ॥ ७३८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३८</summary>
+
+738\. piṇi iṉmai, celvam, viḷaivu, iṉpam, ēmam-  
+aṇi eṉpa, nāṭṭiṟku-iv aintu.
+
+738\. Five are the ornaments of a kingdom - absence of disease, wealth, fertility, happiness and security.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३८</summary>
 
 8\. பிணியின்மை செல்வம் விளைவுஇன்பம் ஏமம்  
@@ -19419,6 +25515,14 @@ Are jewels of lands with blooming health.        738
 अन्विष्य यतमानोभ्यो दाता देशो न चोत्तमः ॥ ७३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७३९</summary>
+
+739\. nāṭu eṉpa, nāṭā vaḷattaṉa; nāṭu alla,  
+nāṭa, vaḷam tarum nāṭu.
+
+739\. That is a kingdom which has rich natural resources. That is no kingdom which yields wealth by toil.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७३९</summary>
 
 9\. நாடென்ப நாடா வளத்தன நாடல்ல  
@@ -19443,6 +25547,14 @@ Needing hard work the land is nought.        739
 
 उक्तसर्वगुणाढयेऽपि देशे नास्ति प्रयोजनम् ।  
 यदि राज्ञः प्रजानां च मिथः प्रीतिर्न वर्तते ॥ ७४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७४०</summary>
+
+740\. āṅku amaivu eytiyakkaṇṇum payam iṉṟē-  
+vēntu amaivu illāta nāṭu.
+
+740\. Vain is the kingdom which may have all the excellence except harmony between the ruler and the ruled.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७४०</summary>
@@ -19474,6 +25586,14 @@ It is worthless without a king.        740
 त्रस्तान्तःस्थितराज्ञां च दुर्गो भवति पालकः ॥ ७४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७४१</summary>
+
+741\. āṟṟupavarkkum araṇ poruḷ; añcit taṟ  
+pōṟṟupavarkkum poruḷ.
+
+741\. A fortress is important alike to a conquering foe and a timid defender.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७४१</summary>
 
 1\. ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற்  
@@ -19498,6 +25618,14 @@ Who fear the foes has its defence.        741
 
 सलिलेन विशुद्धेन मरुभूम्या नगेन च ।  
 सुच्छायाढयनेनापि वृतो दुर्गः समीर्यते ॥ ७४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७४२</summary>
+
+742\. maṇi nīrum, maṇṇum, malaiyum, aṇi niḻal  
+kāṭum, uṭaiyatu-araṇ.
+
+742\. It is a fortress which has sparkling water, open spaces, hills and cool and shady forests round.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७४२</summary>
@@ -19526,6 +25654,14 @@ Thick woods form a fort paramount.        742
 प्रकारं दुर्गशब्दएन ब्रुवते शास्त्रवेदिनः ॥ ७४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७४३</summary>
+
+743\. 'uyarvu, akalam, tiṇmai, arumai, in nāṉkiṉ  
+amaivu araṇ'.eṉṟu uraikkum nūl.
+
+743\. Treatises on fortification state that the walls of a stronghold should be lofty, broad, strong and inaccessible.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७४३</summary>
 
 3\. உயர்வகலம் திண்மை அருமைஇந் நான்கின்  
@@ -19550,6 +25686,14 @@ High, broad, strong and hard for access.        743
 
 विशालप्रान्तदेशेन रक्ष्यक्षुद्रपथा युतः ।  
 प्राप्तारिधैर्यहन्ता च दुर्गशब्देन कथ्यते ॥ ७४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७४४</summary>
+
+744\. ciṟu kāppiṉ pēr iṭattatu āki, uṟu pakai  
+ūkkam aḻippatu-araṇ.
+
+744\. A fortress which has a name as a natural defence cools the heat of the attacking foe.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७४४</summary>
@@ -19578,6 +25722,14 @@ The fort foils enemies bold.        744
 म्वगतानां सुखवासप्रदोदुर्गः प्रकीर्त्यते ॥ ७४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७४५</summary>
+
+745\. koḷaṟku aritāy, koṇṭa kūḻttu āki, akattār  
+nilaikku eḷitu ām nīratu-araṇ.
+
+745\. A good fortress is that which is inaccessible, is sufficiently provided and is easily defensible from within.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७४५</summary>
 
 5\. கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்  
@@ -19602,6 +25754,14 @@ Cosy to live-That fort is good.        745
 
 समये साह्यदा युद्धवीराः स्युर्यत्र सर्वदा ।  
 सर्ववस्तुसमृद्धिश्च पत्रासौ दुर्गसंज्ञकः ॥ ७४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७४६</summary>
+
+746\. ellāp poruḷum uṭaittāy, iṭattu utavum  
+nal āḷ uṭaiyatu-araṇ.
+
+746\. A fortress shall have all things needed by its residents including capable warriors.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७४६</summary>
@@ -19630,6 +25790,14 @@ And brave heroes to meet alarms.        746
 कैतवेनापि दुष्प्रापो दुर्ग इत्यभिघीयते ॥ ७४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७४७</summary>
+
+747\. muṟṟiyum, muṟṟātu eṟintum, aṟaippaṭuttum,  
+paṟṟaṟku ariyatu-araṇ.
+
+747\. A good fortress cannot be besieged or taken by storm or be undermined.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७४७</summary>
 
 7\. முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும்  
@@ -19654,6 +25822,14 @@ Darts and mines of treacherous hands.        747
 
 परैरावेष्टिते दुर्गे स्वस्थानैकपरायणैः ।  
 रिपुवारणकृद्वीरैः वृतो दुर्गः स कथ्यते ॥ ७४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७४८</summary>
+
+748\. muṟṟu āṟṟi muṟṟiyavaraiyum, paṟṟu āṟṟi,  
+paṟṟiyār velvatu-araṇ.
+
+748\. The inmates of a good fortress can defend themselves even when besieged on all sides.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७४८</summary>
@@ -19682,6 +25858,14 @@ The attacks of encircling foes.        748
 प्राप्तो महत्त्वं ख्यातश्च दुर्गो भवति सार्थकः ॥ ७४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७४९</summary>
+
+749\. muṉai mukattu māṟṟalar cāya, viṉaimukattu  
+vīṟu eyti māṇṭatu-araṇ.
+
+749\. That fortress is famous which makes it possible for its defenders to destroy the besiegers even at the outset.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७४९</summary>
 
 9\. முனைமுகத்து மாற்றலர் சாய வினைமுகத்து  
@@ -19706,6 +25890,14 @@ And gains by deeds a name glorious.        749
 
 पर्वोक्तगुणयुक्तोऽपिदुर्गः किं वा करिष्यति ।  
 युद्दोपायसमर्थानां सान्निध्यं न भवेद्यदि ॥ ७५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७५०</summary>
+
+750\. eṉai māṭcittu ākiyakkaṇṇum, viṉai māṭci  
+illārkaṇ illatu-araṇ.
+
+750\. Of what use are these barriers of defence to a stronghold if it possesses no men of valour.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७५०</summary>
@@ -19737,6 +25929,14 @@ Is nil if heroes do not stand.        750
 शक्यते तादृहाद्चित्तात्, अन्यत् किं सार्थकं भवेत् ॥ ७५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७५१</summary>
+
+751\. poruḷ allavaraip poruḷākac ceyyum  
+poruḷ allatu, illai poruḷ.
+
+751\. There is nothing else than riches that make insignificant men prominent.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७५१</summary>
 
 1\. பொருளல் லவரைப் பொருளாகச் செய்யும்  
@@ -19761,6 +25961,14 @@ Make the worthless as men of worth.        751
 
 गुणिनं चाप्यर्थहीनं दूषयन्ति नरा भुवि ।  
 निर्गुणं चाप्यर्थवन्तं मानयन्ति जनाः सदा ॥ ७५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७५२</summary>
+
+752\. illārai ellārum eḷḷuvar; celvarai  
+ellārum ceyvar, ciṟappu.
+
+752\. All will despise the poor; all will accord honour to the wealthy.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७५२</summary>
@@ -19789,6 +25997,14 @@ The men of wealth all raise and praise.        752
 स्वाश्रितानां विरोधाख्यमन्धकारं विनाशयेत् ॥ ७५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७५३</summary>
+
+753\. poruḷ eṉṉum poyyā viḷakkam, iruḷ aṟukkum-  
+eṇṇiya tēyattuc ceṉṟu.
+
+753\. The faultless lamp of riches will dispel the darkness (of trouble) in any country to which it is taken.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७५३</summary>
 
 3\. பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்  
@@ -19813,6 +26029,14 @@ To every land and gloom removes.        753
 
 युक्तमार्गेण नीत्या च यद्धनं समुपार्जितम् ।  
 तत्तस्य धर्मं कामं च प्रददाति न संशयः ॥ ७५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७५४</summary>
+
+754\. aṟaṉ īṉum; iṉpamum īṉum;-tiṟaṉ aṟintu,  
+tītu iṉṟi vanta poruḷ.
+
+754\. The wealth accumulated justly and without sin will confer virtue and happiness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७५४</summary>
@@ -19841,6 +26065,14 @@ Brings good virtue and also bliss.        754
 नैवानन्दकरं भूयादिति मत्वा परित्यजेत् ॥ ७५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७५५</summary>
+
+755\. aruḷoṭum, aṉpoṭum vārāp poruḷ ākkam  
+pullār, puraḷa viṭal!.
+
+755\. Let not the king accept the wealth not acquired through mercy and love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७५५</summary>
 
 5\. அருளொடும் அன்பொடும் வாராப் பொருளாக்கம்  
@@ -19865,6 +26097,14 @@ Off with it; it is disgrace!        755
 
 नाथहीनं धनं घट्टशुल्कमूलागतं धनम् ।  
 जितारिसविधावाप्तकरो राज्ञां धनं भवेत् ॥ ७५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७५६</summary>
+
+756\. uṟu poruḷum, ulku poruḷum, taṉ oṉṉārt  
+teṟu poruḷum,-vēntaṉ poruḷ.
+
+756\. Unclaimed wealth, tolls and tributes by the subdued chieftains are the king’s property.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७५६</summary>
@@ -19893,6 +26133,14 @@ Taxes duties are king's treasure.        756
 धनरूपोपमाता तु वर्घयेत् पोषयेदपि ॥ ७५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७५७</summary>
+
+757\. aruḷ eṉṉum aṉpu īṉ kuḻavi, poruḷ eṉṉum  
+celvac ceviliyāl, uṇṭu.
+
+757\. What is mercy, but the child of love? What is wealth, but the nurse of mercy?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७५७</summary>
 
 7\. அருளென்னும் அன்பீன் குழவி பொருளென்னும்  
@@ -19917,6 +26165,14 @@ By the wet-nurse of wealth cherished.        757
 
 प्रविशेत् स्वीकृते कार्ये निर्भीतो धनहस्तवान् ।  
 गजयुद्धं नगारूढो यथा निर्मयमीक्षते ॥ ७५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७५८</summary>
+
+758\. kuṉṟu ēṟi, yāṉaip pōr kaṇṭaṟṟāl-taṉ kaittu oṉṟu  
+uṇṭākac ceyvāṉ viṉai.
+
+758\. The deeds of the wealthy are like elephant fights witnessed from a hill.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७५८</summary>
@@ -19945,6 +26201,14 @@ Like hill-tuskers the wars of kings.        758
 द्र्ष्टुं न शक्यते लोके तस्माद्धनमुपार्जय ॥ ७५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७५९</summary>
+
+759\. ceyka poruḷai! ceṟunar cerukku aṟukkum  
+eḵku ataṉiṉ kūriyatu il.
+
+759\. Store up wealth; no other weapon is sharper than that to destroy the enemy’s pride.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७५९</summary>
 
 9\. செய்க பொருளை செறுநர் செருக்கறுக்கும்  
@@ -19969,6 +26233,14 @@ The insolence of foes to quell.        759
 
 सम्पाद्य पुष्कलं वित्तं धर्ममार्गेण तिष्ठतः ।  
 अर्थकामौ स्वतस्तस्य सिद्धयतः पृथिवीतले ॥ ७६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६०</summary>
+
+760\. oṇ poruḷ kāḻppa iyaṟṟiyārkku, eṇ poruḷ-  
+ēṉai iraṇṭum oruṅku.
+
+760\. Amass wealth by lawful means; the other two (virtue and happiness) will follow.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७६०</summary>
@@ -20000,6 +26272,14 @@ Who acquire treasures abundant.        760
 सैन्यं जयप्रदं राज्ञामुत्तं भाग्यमुच्यते ॥ ७६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७६१</summary>
+
+761\. uṟuppu amaintu, ūṟu añcā, vel paṭai-vēntaṉ  
+veṟukkaiyuḷ ellām talai.
+
+761\. A well-equipped and fearlessly conquering army is the foremost wealth of a king.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७६१</summary>
 
 1\. உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன்  
@@ -20024,6 +26304,14 @@ Is king's treasure and main resource.        761
 
 विपत्काले स्वयं शीर्णं भृत्वापि धृतिमत्तया ।  
 स्थातुं शक्नोति तत् सैन्यं यन्मूलबलसंज्ञितम् ॥ ७६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६२</summary>
+
+762\. ulaivu iṭattu ūṟu añcā vaṉkaṇ, tolaivu iṭattu,  
+tol paṭaikku allāl, aritu.
+
+762\. The heroic valour of rallying round the king even in adversity is peculiar to hereditary force, and not to others.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७६२</summary>
@@ -20052,6 +26340,14 @@ Quailing not in fall, the field.        762
 वृथा तद् भुजगोच्छवासस्पर्शान्नश्यन्ति ते क्षणात् ॥ ७६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७६३</summary>
+
+763\. olittakkāl eṉ ām, uvari elippakai?  
+nākam uyirppa, keṭum.
+
+763\. The hiss of a cobra stills for ever an army of rats as vast as the ocean.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७६३</summary>
 
 3\. ஒலித்தக்கால் என்னாம் உவரி எலிப்பகை  
@@ -20076,6 +26372,14 @@ They perish at a cobra's whiff.        763
 
 अप्रधर्ष्या परैर्नैव शक्या वञ्चयितुं परैः ।  
 परम्परागता धैर्ययुता सेनेति कथ्यते ॥ ७६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६४</summary>
+
+764\. aḻivu iṉṟu, aṟaipōkātu āki, vaḻivanta  
+vaṉkaṇatuvē-paṭai.
+
+764\. It is a heroic force that is hereditary, undiminished in powers and not undermined by the enemy.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७६४</summary>
@@ -20104,6 +26408,14 @@ Not crushed, routed nor marred in name.        764
 स्थातुं धैर्येण तस्याग्रे या शक्ता सैव वाहिनी ॥ ७६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७६५</summary>
+
+765\. kūṟṟu uṭaṉṟu mēlvariṉum, kūṭi, etir niṟkum  
+āṟṟalatuvē-paṭai.
+
+765\. A valiant army faces courageously the advancing foe even when led by the God of Death.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७६५</summary>
 
 5\. கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்  
@@ -20128,6 +26440,14 @@ Resists even Death-God fierce.        765
 
 वीर्यं मानं तथा पूर्ववीराणां मार्गगामिता ।  
 राजविश्वसपात्रत्वं चत्वारः सैन्यगा गुणाः ॥ ७६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६६</summary>
+
+766\. maṟam, māṉam, māṇṭa vaḻic celavu, tēṟṟam,  
+eṉa nāṉkē ēmam, paṭaikku.
+
+766\. Heroism, honour, tried policy and fidelity to the king, these four are an army’s shelter.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७६६</summary>
@@ -20156,6 +26476,14 @@ Stately-march, faith, honour, valour.        766
 रिपुसैन्यविनाशाय प्रस्थानं सैन्यलक्षणम् ॥ ७६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७६७</summary>
+
+767\. tār tāṅkic celvatu tāṉai-talaivanta  
+pōr tāṅkum taṉmai aṟintu.
+
+767\. That alone is an army which understands the enemy’s tactics, and fearlessly advances.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७६७</summary>
 
 7\. தார்தாங்கிச் செல்வது தானை தலைவந்த  
@@ -20180,6 +26508,14 @@ Knowing how the trend of war goes.        767
 
 पराभिघातसहनं युद्धकर्मप्रवीणता ।  
 अभयं मास्तु वा व्यूहमात्रात् सेना वरा भवेत् ॥ ७६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६८</summary>
+
+768\. aṭaltakaiyum, āṟṟalum, il eṉiṉum, tāṉai  
+paṭait takaiyāṉ pāṭu peṟum.
+
+768\. An army by mere show can achieve distinction though it may lack bold advance or even self-protection.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७६८</summary>
@@ -20208,6 +26544,14 @@ Lacking in stay or dash in fray.        768
 द्वयं न स्याद्यादि तदा स्वल्पा सेनापि जेष्यति ॥ ७६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७६९</summary>
+
+769\. ciṟumaiyum, cellāt tuṉiyum, vaṟumaiyum,  
+illāyiṉ vellum, paṭai.
+
+769\. It is a winning army which has neither littleness, nor irremovable bitterness and poverty.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७६९</summary>
 
 9\. சிறுமையும் செல்லாத் துனியும் வறுமையும்  
@@ -20232,6 +26576,14 @@ From weakness, aversion, poverty.        769
 
 चिरानुभवशीलैश्च वीरैर्युक्तापि वाहिनी ।  
 सेनापतिविहीना सा महिमानं न विन्दते ॥ ७७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७७०</summary>
+
+770\. nilai makkaḷ cāla uṭaittueṉiṉum, tāṉai  
+talaimakkaḷ ilvaḻi il.
+
+770\. Of what avail is the army of heroic warriors if there be no general to guide them?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७७०</summary>
@@ -20263,6 +26615,14 @@ Army can't march missing gen'rals.        770
 अस्मद्भूपपुरो नैव स्थातव्यं भोश्च शात्रवाः ॥ ७७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७७१</summary>
+
+771\. eṉṉai muṉ nillaṉmiṉ-tevvir! palar, eṉṉai  
+muṉ niṉṟu kal niṉṟavar.
+
+771\. O, Enemies! Do not stand in front of our Lord; for many who stood before him are now standing as hero-stones.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७७१</summary>
 
 1\. என்னைமுன் நில்லன்மின் தெவ்விர் பலர்என்னை  
@@ -20287,6 +26647,14 @@ Many who stood, in stones repose.        771
 
 अमोघं बाणमुत्सृज्य शशे प्राप्तो जयो वृथा ।  
 गजे प्रयुक्तबाणस्तु मोघोऽपि स्याज्जयावहः ॥ ७७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७७२</summary>
+
+772\. kāṉa muyal eyta ampiṉil, yāṉai  
+piḻaitta vēl ēntal iṉitu.
+
+772\. Better to bear the spear hurled against an elephant, though it misses its aim, than the arrow aimed against a hare in the forest.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७७२</summary>
@@ -20315,6 +26683,14 @@ Is prouder than shaft that hit a hare.        772
 प्राप्ते खेदे रिपोः साह्यकर्ता वीर्यवतां वरः ॥ ७७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७७३</summary>
+
+773\. pēr āṇmai eṉpa, taṟukaṇ; oṉṟu uṟṟakkāl,  
+ūrāṇmai maṟṟu ataṉ eḵku.
+
+773\. Fearlessness is a manly virtue; but in distress, mercy is its keen edge.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७७३</summary>
 
 3\. பேராண்மை என்ப தறுகண்ஒன் றுற்றக்கால்  
@@ -20339,6 +26715,14 @@ Mercy to the fallen is its edge.        773
 
 स्थितं शूलं गजे मुक्त्वा समीपस्थे गजान्तरे ।  
 अन्वेष्टाऽन्यस्य शूलस्य वक्षःस्थं प्राप्य तुष्यति ॥ ७७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७७४</summary>
+
+774\. kai vēl kaḷiṟṟoṭu pōkki varupavaṉ  
+mey vēl paṟiyā, nakum.
+
+774\. The warrior who hurls his spear against an advancing elephant enjoys to pull it from his body.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७७४</summary>
@@ -20367,6 +26751,14 @@ One in body smiles another chance.        774
 सनिमेषं यदि भवेत् तत् पराजयलक्षणम् ॥ ७७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७७५</summary>
+
+775\. viḻitta kaṇ vēl koṇṭu eṟiya, aḻittu imaippiṉ,  
+ōṭṭu aṉṟō, vaṉkaṇavarkku?.
+
+775\. If the fierce look (of a warrior) winks at a dart aimed at him, it is tantamount to a retreat.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७७५</summary>
 
 5\. விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்  
@@ -20391,6 +26783,14 @@ When lances dart if heroes wink
 
 निजोरसि मुखे बाणताडनं त्वनवाप्य तु ।  
 अतीतान् दिवसान् युद्धे वीरो व्यर्थान् हि मन्यते ॥ ७७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७७६</summary>
+
+776\. viḻuppuṇ paṭāta nāḷ ellām vaḻukkiṉuḷ  
+vaikkum, taṉ nāḷai eṭuttu.
+
+776\. Reflecting on the days past, a hero regards those days vain in which he has not received a wound.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७७६</summary>
@@ -20419,6 +26819,14 @@ Which did not battle-wounds sustain.        776
 पादबद्धा श‍ृङ्खला स्यात् अलङ्कारप्रयोजना ॥ ७७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७७७</summary>
+
+777\. cuḻalum icai vēṇṭi, vēṇṭā uyirār  
+kaḻal yāppuk kārikai nīrttu.
+
+777\. The anklet is a fitting adornment to warriors who fight fearless of life for a world-wide reputation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७७७</summary>
 
 7\. சுழலும் இசைவேண்டி வேண்டா உயிரார்  
@@ -20443,6 +26851,14 @@ Who sacrifice their life for fame.        777
 
 प्राणान् तृणसमान् मत्वा प्रविशन्तो रणाङ्गणम् ।  
 वीरा भूपैर्वारिताश्च विरमन्ति न ते ततः ॥ ७७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७७८</summary>
+
+778\. uṟiṉ, uyir añcā maṟavar, iṟaivaṉ  
+ceṟiṉum, cīr kuṉṟal ilar.
+
+778\. Warriors unmindful of their lives in battle will not be daunted even by the wrath of their obstructing monarch.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७७८</summary>
@@ -20471,6 +26887,14 @@ They fear loss of glory; not life.        778
 वीरस्य दण्डनं दातुं को वा शक्तो भवेद् भुवि ॥ ७७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७७९</summary>
+
+779\. iḻaittatu ikavāmaic cāvārai, yārē,  
+piḻaittatu oṟukkiṟpavar?.
+
+779\. Who can find fault with those (soldiers) who will lay down their lives to fulfil their vow?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७७९</summary>
 
 9\. இழைத்தது இகவாமைச் சாவாரை யாரே  
@@ -20495,6 +26919,14 @@ Their lives in war to keep their vows?        779
 
 स्वीयं भूपं चाश्रुपातपर्वकं शेदयन् भटः ।  
 मृतश्चत् प्रार्थनापूर्वं मृतिनूनमवाप्यताम् ॥ ७८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७८०</summary>
+
+780\. purantār kaṇ nīr malkac cākiṟpiṉ, cākkāṭu  
+irantu kōḷ-takkatu uṭaittu.
+
+780\. Ye! Soldiers, endeavour to earn a death of glory which will move your chief to tears.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७८०</summary>
@@ -20525,6 +26957,14 @@ Which draws the tears of the ruler.        780
 शत्रुभ्यो रक्षकं वस्तु स्नेहादन्यद् भवेत् किमु ॥ ७८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७८१</summary>
+
+781\. ceyaṟku ariya yā uḷa, naṭpiṉ?-atupōl  
+viṉaikku ariya yā uḷa, kāppu?.
+
+781\. What is there more important than an ally; and what is more helpful than securing his aid.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७८१</summary>
 
 79\. நட்பு - Friendship
@@ -20553,6 +26993,14 @@ That guards one against acts villain?        781
 बुद्धिहीनैः कृतः स्नेहः क्षीयते क्षीणचन्द्रवत् ॥ ७८२॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७८२</summary>
+
+782\. niṟai nīra, nīravar kēṇmai, piṟai; matip  
+piṉ nīra, pētaiyār naṭpu.
+
+782\. The friendship of the wise resembles the waxing crescent; the friendship of the unwise fades away like the waning moon.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७८२</summary>
 
 2\. நிறைநீர நீரவர் கேண்மை பிறைமதிப்  
@@ -20577,6 +27025,14 @@ The bad withers like waning moon.        782
 
 गुणिभिस्तु कृतः स्नेहः क्रमेणानन्ददायकः ।  
 सदर्थः पथनाद्यद्वत् क्रमशो मोददायकः ॥ ७८३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७८३</summary>
+
+783\. naviltoṟum nūl nayam pōlum-payiltoṟum,  
+paṇpu uṭaiyāḷar toṭarpu.
+
+783\. Even as good literature enraptures its reader the attachment of good men increases a king’s happiness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७८३</summary>
@@ -20605,6 +27061,14 @@ The more one moves the more he knows.        783
 स्खालित्ये सुहृदस्तस्माद् वारणं सख्यमुच्यते ॥ ७८४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७८४</summary>
+
+784\. nakutaṟporuṭṭu aṉṟu, naṭṭal; mikutikkaṇ  
+mēṟceṉṟu iṭittaṟporuṭṭu.
+
+784\. Friendship is made not for pleasure but it is a corrective to him who errs on the other side.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७८४</summary>
 
 4\. நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்  
@@ -20629,6 +27093,14 @@ But to hit when faults exceed.        784
 
 मैत्र्याः परिचयो हेतुः नापि सेशैकवर्तिता ।  
 उभयोर्भावसाम्यं तु मैत्रीमुत्पादयेत् तयोः ॥ ७८५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७८५</summary>
+
+785\. puṇarcci, paḻakutal vēṇṭā; uṇarccitāṉ  
+naṭpu ām kiḻamai tarum.
+
+785\. Friendship is not cultivated by mere acquaintance. It is the harmony that cements the bond of friendship.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७८५</summary>
@@ -20657,6 +27129,14 @@ Friendship's feeling heart's fellowship.        785
 हृदयस्य विकासोऽपि मैत्र्यां मुख्यमपेक्ष्यते ॥ ७८६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७८६</summary>
+
+786\. mukam naka, naṭpatu naṭpu aṉṟu; neñcattu  
+akam naka, naṭpatu-naṭpu.
+
+786\. Smile is no index for friendship. Real friendship makes the heart also smile.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७८६</summary>
 
 6\. முகநக நட்பது நட்பன்று நெஞ்சத்து  
@@ -20681,6 +27161,14 @@ It is the smiling heart's embrace.        786
 
 निवर्त्य निन्दितात् मार्गात् सन्मार्गे तं प्रवेश्य च ।  
 दुःखे प्राप्ते तुल्यभागभागिता स्नेहलक्षणम् ॥ ७८७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७८७</summary>
+
+787\. aḻiviṉavai nīkki, āṟu uyttu, aḻiviṉkaṇ  
+allal uḻappatu ām-naṭpu.
+
+787\. Friendship prevents harmful deeds being committed and does beneficial things sharing the other’s misfortunes.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७८७</summary>
@@ -20709,6 +27197,14 @@ The load of pain and right path shows.        787
 तथा दुःखे स्वयं साह्यकरणं सख्यमुच्यते ॥ ७८८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७८८</summary>
+
+788\. uṭukkai iḻantavaṉ kai pōla, āṅkē  
+iṭukkaṇ kaḷaivatu ām-naṭpu.
+
+788\. Friendship removes suffering even as promptly as the hand which clutches the slipping garment.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७८८</summary>
 
 8\. உடுக்கை இழந்தவன் கைபோல ஆங்கே  
@@ -20735,6 +27231,14 @@ Like hands picking up dress that slips.        788
 साह्यं कृत्वा रक्षणं तु मैत्र्याः कोष्ठति कथ्यते ॥ ७८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७८९</summary>
+
+789\. 'naṭpiṟku vīṟṟirukkai yātu?' eṉiṉ, koṭpu iṉṟi  
+ollumvāy ūṉṟum nilai.
+
+789\. If one asks where friendship abides, it lies in timely aid.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७८९</summary>
 
 9\. நட்பிற்கு வீற்றிருக்கை யாதெனில் கொட்பின்றி  
@@ -20759,6 +27263,14 @@ That always helps with utmost warmth.        789
 
 ''इयान् स्नेहस्तस्य मयि, तथा तस्मिन ममापि च'' ।  
 एवं विशिष्य कथनात् स्नेहे नास्ति विशिष्टता ॥ ७९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७९०</summary>
+
+790\. 'iṉaiyar, ivar emakku; iṉṉam yām' eṉṟu  
+puṉaiyiṉum, pulleṉṉum-naṭpu.
+
+790\. Even one may say, “These are my friends; I am deeply attached to them". Yet, it may be insignificant friendship.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७९०</summary>
@@ -20790,6 +27302,14 @@ Ev'n this boast will friendship mar.        790
 तस्मादनालोच्य मैत्रीकरणं जनयेत् व्यथाम् ॥ ७९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७९१</summary>
+
+791\. nāṭātu naṭṭaliṉ kēṭu illai; naṭṭapiṉ,  
+vīṭu illai, naṭpu āḷpavarkku.
+
+791\. Nothing causes greater harm than the indiscriminate choice of friends; for one cannot give up one’s chosen friends.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७९१</summary>
 
 1\. நாடாது நட்டலிற் கேடில்லை நட்டபின்  
@@ -20814,6 +27334,14 @@ For contacts formed will scarcely cease.        791
 
 असकृह्बहुधा चर्चामकृत्वा कृतमित्रता ।  
 मरणान्तकरं दुःखमान्तं तस्मै प्रयच्छति ॥ ७९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७९२</summary>
+
+792\. āyntu āyntu koḷḷātāṉ kēṇmai, kaṭaimuṟai,  
+tāṉ cām tuyaram tarum.
+
+792\. The friendship entered into without repeated tests causes grief till the end of one’s life.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७९२</summary>
@@ -20842,6 +27370,14 @@ Shall end in grief and death at last.        792
 विमृश्य सम्यक् ज्ञात्वाऽथ मैत्रीं केनचिदाचर ॥ ७९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७९३</summary>
+
+793\. kuṇaṉum, kuṭimaiyum, kuṟṟamum, kuṉṟā  
+iṉaṉum, aṟintu yākka naṭpu.
+
+793\. Make friends with one after knowing one’s character, ancestry, defects and one’s great associates.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७९३</summary>
 
 3\. குணனுங் குடிமையும் குற்றமுங் குன்றா  
@@ -20866,6 +27402,14 @@ Trace well and take companions.        793
 
 कुले महति सम्भृतमपवादभयान्वितम् ।  
 कुरु मित्रं वाञ्छितार्थप्रदानेनापि सर्वदा ॥ ७९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७९४</summary>
+
+794\. kuṭip piṟantu, taṉkaṇ paḻi nāṇuvāṉaik  
+koṭuttum koḷal vēṇṭum, naṭpu.
+
+794\. Even by paying a price secure the friendship of one of noble family who fears a blot on his character.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७९४</summary>
@@ -20894,6 +27438,14 @@ The nobly born who shun disgrace.        794
 लोकज्ञानवता तेन विमृश्य स्नेहमाचर ॥ ७९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७९५</summary>
+
+795\. aḻac colli, allatu iṭittu, vaḻakku aṟiya  
+vallār naṭpu āyntu koḷal!.
+
+795\. Make after proper test friendship with the wise who make you weep for a crime and chastise when you err.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७९५</summary>
 
 5\. அழச்சொல்லி யல்ல திடித்து வழக்கறிய  
@@ -20918,6 +27470,14 @@ And lead you right are worthy friends.        795
 
 स्नेहतत्त्वं परिज्ञातुं खेदः स्यान्मानदण्डवत् ।  
 तस्मात् दुःखस्य संप्राप्तिरपि क्षेमाय कल्पते ॥ ७९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७९६</summary>
+
+796\. kēṭṭiṉum uṇṭu, ōr uṟuti-kiḷaiñarai  
+nīṭṭi aḷappatu ōr kōl.
+
+796\. Adversity has its uses, for it is the touchstone that tries the genuine friend.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७९६</summary>
@@ -20946,6 +27506,14 @@ A rod to measure out kinsmen?        796
 ज्ञात्वा तस्य परित्यागात अन्यो लाभो न वर्तते ॥ ७९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७९७</summary>
+
+797\. ūtiyam eṉpatu oruvaṟkup pētaiyār  
+kēṇmai orīi viṭal.
+
+797\. One must regard it as a windfall if one is able to shake off unwise friends.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७९७</summary>
 
 7\. ஊதிய மென்ப தொருவற்குப் பேதையார்  
@@ -20970,6 +27538,14 @@ The greatest gain so say the wise.        797
 
 उत्साहजनकात् कायोदन्यकार्ये विमुच्यताम् ।  
 तथा मैत्री न कर्तव्या खेदे साह्यमकुर्वता ॥ ७९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७९८</summary>
+
+798\. uḷḷaṟka, uḷḷam ciṟukuva! koḷḷaṟka,  
+allaṟkaṇ āṟṟaṟuppār naṭpu!.
+
+798\. Refrain from doing things which make your heart shrink. Likewise avoid friends who desert you in adversity.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ७९८</summary>
@@ -20998,6 +27574,14 @@ Off with friends that in woe depart.        798
 स्मृता मरणकालेऽपि निर्दहेच्चित्तमुग्रतः ॥ ७९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ७९९</summary>
+
+799\. keṭum kālaik kaiviṭuvār kēṇmai, aṭum kālai  
+uḷḷiṉum, uḷḷam cuṭum.
+
+799\. Friendship of those who fall off in adversity continues to rankle in your heart of hearts till your death.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ७९९</summary>
 
 9\. கெடுங்காலைக் கைவிடுவார் கேண்மை யடுங்காலை  
@@ -21022,6 +27606,14 @@ Burn our mind ev'n at death to think.        799
 
 निर्दुष्टपुरुषैः साकं नूनं मैत्री विधीयताम् ।  
 गुणहीननरस्नेहं दत्वाऽर्थं वा परित्यज ॥ ८००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८००</summary>
+
+800\. maruvuka, mācu aṟṟār kēṇmai! oṉṟu īttum  
+oruvuka, oppu ilār naṭpu!.
+
+800\. Count the friendship of the faultless and release yourself even at a price from friends not of approved conduct.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८००</summary>
@@ -21053,6 +27645,14 @@ Give something and give up the base.        800
 सोढ्वा तथैव स्वीकारः चिरस्नेहस्य लक्षणम् ॥ ८०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८०१</summary>
+
+801 paḻaimai eṉappaṭuvatu yāteṉiṉ yātum  
+kiḻamaiyaik kīḻttiṭā naṭpu.
+
+801\. What is old friendship? It is that which willingly submits to friendly interferences.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८०१</summary>
 
 1\. பழைமை எனப்படுவது யாதெனின் யாதும்  
@@ -21077,6 +27677,14 @@ Which restrains not one's liberty.        801
 
 यथेच्छं मित्ररचितं स्नेहस्याङ्गं तदिष्यते ।  
 तस्मात् तत्कृतकार्यस्य स्वीकृतिर्महतां गुणः ॥ ८०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८०२</summary>
+
+802\. uṟuppuk keḻutakaimai maṟṟataṟku  
+uppātal cāṉṟōr kaṭaṉ.
+
+802\. The soul of friendship is perfect freedom. To be of cheer in friendly interference is the duty of the wise.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८०२</summary>
@@ -21105,6 +27713,14 @@ Wise men's duty is such to please.        802
 तेन साकं कृता मैत्री तदा व्यर्था भविष्यति ॥ ८०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८०३</summary>
+
+803\. naṭpuevaṉ ceyyum keḻutakaimai  
+ceytāṅku amaiyāk kaṭai.
+
+803\. What use is old friendship if one’s intimacy does not approve of one’s acts?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८०३</summary>
 
 3\. பழகிய நட்பெவன் செய்யும் கெழுதகைமை  
@@ -21129,6 +27745,14 @@ Righteous freedom if men refuse?        803
 
 स्ववाञ्छितं च स्वातन्त्र्यात् सुहृत् कुर्याद्यदि स्वयम् ।  
 अङ्गीकृत्य च तत्कार्यश्लाघनं महतां गुणः ॥ ८०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८०४</summary>
+
+804 viḻaitakaiyāṉ vēṇṭi iruppar keḻutakaiyāl  
+kēḷātu naṭṭār ceyiṉ.
+
+804\. If friends voluntarily do their duty through intimacy the wise accept it with approval.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८०४</summary>
@@ -21157,6 +27781,14 @@ Please the wise as familiar trends!        804
 स्ववाञ्छितविरोधेन सुहृत् कार्यं करोति चेत् ॥ ८०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८०५</summary>
+
+805 pētaimai oṉṟō peruṅkiḻamai eṉṟuṇarka  
+nōtakka naṭṭār ceyiṉ.
+
+805\. If a friend acts contrary to one’s wishes, treat it as not due to ignorance but to intimacy.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८०५</summary>
 
 5\. பேதைமை ஒன்றோ பெருங்கிழமை என்றுணர்க  
@@ -21181,6 +27813,14 @@ As folloy or close intimacy.        805
 
 पुरा परिचितं मित्रं खेदे प्राप्तेऽपि तत्कृते ।  
 न कदाचिद्विमुञ्चन्ति स्नेहधर्मवशङ्गताः ॥ ८०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८०६</summary>
+
+806 ellaikkaṇ niṉṟār tuṟavār tolaiviṭattum  
+tollaikkaṇ niṉṟār toṭarpu.
+
+806\. Old friends may do harm but it is the quality of friendship not to abandon them.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८०६</summary>
@@ -21209,6 +27849,14 @@ In friendship's bounds though loss ensue.        806
 कार्ये कृतेऽपि सुहृदां तेषु प्रीर्तिन हीयते ॥ ८०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८०७</summary>
+
+807 aḻivanta ceyyiṉum aṉpaṟār aṉpiṉ  
+vaḻivanta kēṇmai yavar.
+
+807\. Old and loving friends, even when betrayed do not break off in their love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८०७</summary>
 
 7\. அழிவந்த செய்யினும் அன்பறார் அன்பின்  
@@ -21233,6 +27881,14 @@ Though ruin comes waive not their vow.        807
 
 पूर्वमित्रकृतं दोषमुच्यमानं परैरपि ।  
 अश्रुण्वतो मित्रकृतो दोषः सुदिनतां व्रजेत् ॥ ८०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८०८</summary>
+
+808 kēḷiḻukkam kēḷāk keḻutakaimai vallārkku  
+nāḷiḻukka naṭṭār ceyiṉ.
+
+808\. Intimacy is the refusal to hear about friend’s faults. Noble friends smile that day when their friends commit faults.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८०८</summary>
@@ -21261,6 +27917,14 @@ Though wronged they say "that day is well".        808
 सौहार्दं न त्यजेद्यस्तु लोकस्तं बहु मानयेत् ॥ ८०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८०९</summary>
+
+809 keṭāa vaḻivanta kēṇmaiyār kēṇmai  
+viṭāar viḻaiyum ulaku.
+
+809\. The world applauds long established friends who do not forsake one another.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८०९</summary>
 
 9\. கெடாஅ வழிவந்த கேண்மையார் கேண்மை  
@@ -21285,6 +27949,14 @@ Whose friendship has unbroken ties.        809
 
 कृतेऽपि दोषे सौहार्दत् सोढ्वा तं सुहृदः स्वयम् ।  
 यः स्याच्छ्रेष्ठगुणोपेतः श्लाघ्यते रिपुणापि सः ॥ ८१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८१०</summary>
+
+810 viḻaiyār viḻaiyap paṭupa paḻaiyārkaṇ  
+paṇpiṉ talaippiriyā tār.
+
+810\. Even foes long for those who do not forsake their old and erring friends.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८१०</summary>
@@ -21316,6 +27988,14 @@ Those who leave not long-standing friends.        810
 त्यागो दुर्गुणमैत्र्यास्तु वरः स्यात् तस्य वर्धनात् ॥ ८११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८११</summary>
+
+811 parukuvār pōliṉum paṇpilār kēṇmai  
+perukalil kuṉṟal iṉitu.
+
+811\. Let that kind of friendship diminish rather than increase if it is really pretentious and devoid of genuine feeling.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८११</summary>
 
 1\. பருகுவார் போலினும் பண்பிலார் கேண்மை  
@@ -21340,6 +28020,14 @@ Had better wane than wax anon.        811
 
 स्वार्थाय कुर्वतः स्नेहं कार्यन्ते तद्विमुञ्चतः ।  
 असमथस्य सौहार्दं सर्वदा निष्प्रयोजनम् ॥ ८१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८१२</summary>
+
+812 uṟiṉnaṭṭu aṟiṉorūum oppilār kēṇmai  
+peṟiṉum iḻappiṉum eṉ.
+
+812\. What does it matter whether we gain or lose the equal friendship of those who befriend if advantageous to them and betray if disadvantageous?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८१२</summary>
@@ -21368,6 +28056,14 @@ Gain or lose; such friends have no worth.        812
 लाभौकलक्ष्याः स्निग्धाश्च त्रयस्तुल्यगुणान्विताः ॥ ८१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८१३</summary>
+
+813 uṟuvatu cīrtūkkum naṭpum peṟuvatu  
+koḷvārum kaḷvarum nēr.
+
+813\. Those who value friendship for the gain thereof are only avaricious prostitutes and thieves.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८१३</summary>
 
 3\. உறுவது சீர்தூக்கும் நட்பும் பெறுவது  
@@ -21392,6 +28088,14 @@ Are like thieves and whores wicked.        813
 
 पतिं भूमौ पातयित्वा धावता वाजिना समम् ।  
 सुहृत् साहयं न कुर्याच्चेत् ऐकान्त्यं वरमिष्यते ॥ ८१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८१४</summary>
+
+814 amarakattu āṟṟaṟukkum kallāmā aṉṉār  
+tamariṉ taṉimai talai.
+
+814\. Better solitude than the alliance of the wicked who fail like the unbroken steed its rider in the battlefield.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८१४</summary>
@@ -21420,6 +28124,14 @@ That throw in field like faithless horse.        814
 तादृशस्नेहकरणात् स्नेहभावो वरः किल ॥ ८१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८१५</summary>
+
+815 ceytēmam cārāc ciṟiyavar puṉkēṇmai  
+eytaliṉ eytāmai naṉṟu.
+
+815\. Better to abandon than contract the friendship of the lowly who do not aid you in adversity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८१५</summary>
 
 5\. செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை  
@@ -21444,6 +28156,14 @@ Leave them is better than to keep.        815
 
 मूढैः साकं दृढस्नेहकरणात्, ज्ञानिभिः सह ।  
 विरोधः कोटिसङ्ख्याकलाभं नूनं प्रयच्छति ॥ ८१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८१६</summary>
+
+816 pētai peruṅkeḻīi naṭpiṉ aṟivuṭaiyār  
+ētiṉmai kōṭi uṟum.
+
+816\. Very much more valuable is the hatred of the wise than the doting friendship of fools.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८१६</summary>
@@ -21472,6 +28192,14 @@ Is better than a fool intimate.        816
 रिपुमूलसुखं तस्मात् दशकोटिगुणाधिकम् ॥ ८१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८१७</summary>
+
+817 nakaivakaiyar ākiya naṭpiṉ pakaivarāl  
+pattaṭutta kōṭi uṟum.
+
+817\. Ten thousand times better is the enmity of foes than the friendship which makes one a laughing stock.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८१७</summary>
 
 7\. நகைவகைய ராகிய நட்பின் பகைவரால்  
@@ -21496,6 +28224,14 @@ Than from friends who are vain laughers.        817
 
 सुसाध्यकार्ये दुस्साध्यमिव यः सुहृदाचरेत् ।  
 तेन साकं स्थितां मैत्रीमनुत्तवैव परित्यज ॥ ८१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८१८</summary>
+
+818 olluṅ karumam uṭaṟṟu pavarkēṇmai  
+collāṭār cōra viṭal.
+
+818\. Abandon without fuss friends who make a possible thing impossible.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८१८</summary>
@@ -21524,6 +28260,14 @@ Who spoil deeds which they can do.        818
 मैत्री कृता तु स्वप्नेऽपि व्यसनं जनयिष्यति ॥ ८१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८१९</summary>
+
+819 kaṉaviṉum iṉṉātu maṉṉō viṉaivēṟu  
+colvēṟu paṭṭār toṭarpu.
+
+819\. The alliances of men whose words are different from their deeds afford no pleasure even in a dream.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८१९</summary>
 
 9\. கனவினும் இன்னாது மன்னோ வினைவேறு  
@@ -21548,6 +28292,14 @@ With those whose deed is far from word.        819
 
 गेहे रहसि संस्तुत्य सभायां जनमण्डले ।  
 मैत्री निन्दयता साकं सर्वथा न विधीयताम् ॥ ८२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८२०</summary>
+
+820 eṉaittum kuṟukutal ōmpal maṉaikkeḻīi  
+maṉṟil paḻippār toṭarpu.
+
+820\. Avoid the friendship however little, of those who befriend you at home but betray you in the assembly (public).  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८२०</summary>
@@ -21579,6 +28331,14 @@ At home and in public revile.        820
 मैत्री भग्ना भवेत् स्वर्णमयःखण्डगतं यथा ॥ ८२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८२१</summary>
+
+821 cīrviṭam kāṇiṉ eṟitaṟkup paṭṭaṭai  
+nērā nirantavar naṭpu.
+
+821\. Friendship of the wicked is but a pretext to stab you cunningly in an unwary mood.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८२१</summary>
 
 1\. சீரிடம் காணின் எறிதற்குப் பட்டடை  
@@ -21603,6 +28363,14 @@ Is anvil in time, to strike you down.        821
 
 चित्ते सौहार्दहीनस्य मित्रवन्नटतो बहिः ।  
 सौहार्दमङ्गनाचित्तसमं परिणतं भवेत् ॥ ८२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८२२</summary>
+
+822 iṉampōṉṟu iṉamallār kēṇmai makaḷir  
+maṉampōla vēṟu paṭum.
+
+822\. Inconstant as the heart of a woman is the false friendship of seeming friends.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८२२</summary>
@@ -21631,6 +28399,14 @@ Their friendship's fickle like woman's heart.        822
 नैव साध्यं भवेत्तेषां ये भवन्ति विरोधिनः ॥ ८२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८२३</summary>
+
+823 palanalla kaṟṟak kaṭaittum maṉanallar  
+ākutal māṇārkku aritu.
+
+823\. A wicked heart never mellows with learning.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८२३</summary>
 
 3\. பலநல்ல கற்றக் கடைத்தும் மனம்நல்லர்  
@@ -21655,6 +28431,14 @@ But heartfelt-love is hard for foes.        823
 
 बहिर्हास्यमुखो भूत्वा चित्ते द्रोहं चिकीर्षतः ।  
 वञ्चकस्य तु सौहर्दं दूरे कुरु भयान्वितः ॥ ८२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८२४</summary>
+
+824 mukattiṉ iṉiya nakāa akattuiṉṉā  
+vañcarai añcap paṭum.
+
+824\. Fear those who smile and smile but are villainy at heart.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८२४</summary>
@@ -21683,6 +28467,14 @@ Whose heart is full of cunning guiles.        824
 श्रुत्वा वार्तां च कार्येषु प्रवृत्तिर्न वरा मता ॥ ८२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८२५</summary>
+
+825 maṉattiṉ amaiyā tavarai eṉaittoṉṟum  
+colliṉāl tēṟaṟpāṟṟu aṉṟu.
+
+825\. It is impossible to convince those whose minds do not agree.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८२५</summary>
 
 5\. மனத்தின் அமையா தவரை எனைத்தொன்றும்  
@@ -21707,6 +28499,14 @@ Whose mind with your mind goes ill.        825
 
 विरोधिनो मित्रसमं हितं वाक्यं ब्रुवन्तु वा ।  
 अथापि तद्वचोभङ्ग्या तत्त्वं ज्ञायेत शीघ्रतः ॥ ८२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८२६</summary>
+
+826 naṭṭārpōl nallavai colliṉum oṭṭārcol  
+ollai uṇarap paṭum.
+
+826\. Of what avail are the friendly words of your foe?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८२६</summary>
@@ -21735,6 +28535,14 @@ Though they speak like friends in fine.        826
 विनयाढ्यं शत्रुवाक्यं तथानर्थकरं भवेत् ॥ ८२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८२७</summary>
+
+827 colvaṇakkam oṉṉārkaṇ koḷḷaṟka vilvaṇakkam  
+tīṅku kuṟittamai yāṉ.
+
+827\. Do not trust the seeming humility of the enemy’s speech for the bow bends only to do harm.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८२७</summary>
 
 7\. சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்  
@@ -21759,6 +28567,14 @@ Danger darts from bending bows.        827
 
 शत्रोरञ्जलिमश्येऽपि छन्नः स्यात् कठिनायुधः ।  
 तथा शत्रोरश्रुपातः क्रूरायुधसमो भवेत् ॥ ८२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८२८</summary>
+
+828 toḻutakai yuḷḷum paṭaiyoṭuṅkum oṉṉār  
+aḻutakaṇ ṇīrum aṉaittu.
+
+828\. The folded hands of the enemy in an attitude of devotion conceal a weapon. Likewise are his false tears.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८२८</summary>
@@ -21787,6 +28603,14 @@ Their sobbing tears have lurking harms.        828
 तमेव मार्गमाश्रित्य तस्य मैत्रीं विनाशय ॥ ८२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८२९</summary>
+
+829 mikacceytu tammauḷu vārai nakacceytu  
+naṭpiṉuḷ cāppullaṟ pāṟṟu.
+
+829\. Policy requires that hostility to a foe should be hidden under a smile.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८२९</summary>
 
 9\. மிகச்செய்து தம்எள்ளு வாரை நகச்செய்து  
@@ -21811,6 +28635,14 @@ Cajole and crush them in friendly guise.        829
 
 शत्रुभिः सह मैत्र्यां च प्रसक्तायां मुखे परम् ।  
 प्रसर्श्य मैत्रीं हार्दां तां मैत्रीं छिन्धि निरन्तरम् ॥ ८३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८३०</summary>
+
+830 pakainaṭpām kālam varuṅkāl mukanaṭṭu  
+akanaṭpu orīi viṭal.
+
+830\. When the enemy pretends alliance, receive him with outward smile and inward distrust.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८३०</summary>
@@ -21842,6 +28674,14 @@ Feign love on face but not in heart.        830
 अनर्थप्रदकार्यस्य स्वीकारो मौढ्यलक्षणम् ॥ ८३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८३१</summary>
+
+831 pētaimai eṉpatuoṉṟu yātueṉiṉ ētamkoṇṭu  
+ūtiyam pōka viṭal.
+
+831\. Stupidity clings to the evil and lets slip the good.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८३१</summary>
 
 1\. பேதைமை என்பதொன்று யாதெனின் ஏதங்கொண்டு  
@@ -21866,6 +28706,14 @@ To favour loss and forego gain.        831
 
 नानाविधेषु मौढ्येषु मौढ्यं तच्छिखरायते ।  
 यच्छास्त्रनिन्दिते हेये दुराचारे तु भोग्यधीः ॥ ८३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८३२</summary>
+
+832 pētaimaiyuḷ ellām pētaimai kātaṉmai  
+kaiyalla taṉkaṇ ceyal.
+
+832\. The crown of stupidity is the desire to do evil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८३२</summary>
@@ -21894,6 +28742,14 @@ A lewd and lawless life so bad.        832
 नैराश्यं निर्विवेकत्वमिमे मौढ्यगुणा मताः ॥ ८३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८३३</summary>
+
+833 nāṇāmai nāṭāmai nāriṉmai yātoṉṟum  
+pēṇāmai pētai toḻil.
+
+833\. Shamelessness, negligence, arrogance and giddiness mark the stupid.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८३३</summary>
 
 3\. நாணாமை நாடாமை நாரின்மை யாதொன்றும்  
@@ -21918,6 +28774,14 @@ Such are the marks of foolishness.        833
 
 शास्त्रण्यधीत्य तत्त्वार्थान् बुध्वा चोक्त्वा परान् प्रति ।  
 यस्तु नाचरते तेन समो मूढो न विद्यते ॥ ८३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८३४</summary>
+
+834 ōti uṇarntum piṟarkkuraittum tāṉaṭaṅkāp  
+pētaiyiṉ pētaiyār il.
+
+834\. Most stupid is the learned fool who remains disloyal to his own noble teaching.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८३४</summary>
@@ -21946,6 +28810,14 @@ Knows, teaches, but self-control spurns.        834
 तत्पापमखिलं म्ढः करोत्यत्रैव जन्मनि ॥ ८३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८३५</summary>
+
+835 orumaic ceyalāṟṟum pētai eḻumaiyum  
+tāṉpukku aḻuntum aḷaṟu.
+
+835\. Acts of folly done in one birth cause misery to him in seven more births to come.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८३५</summary>
 
 5\. ஒருமைச் செயலாற்றும் பேதை எழுமையும்  
@@ -21970,6 +28842,14 @@ In single birth of hellish ills.        835
 
 अजानता क्रियातत्त्वं मूढेनारब्धकर्म तु ।  
 विघ्नितं नैति पूर्णत्वं कर्तारमपि नाशयेत् ॥ ८३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८३६</summary>
+
+836 poypaṭum oṉṟō puṉaipūṇum kaiyaṟiyāp  
+pētai viṉaimēṟ koḷiṉ.
+
+836\. The task undertaken by a foolish man is spoiled and also ruined.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८३६</summary>
@@ -21998,6 +28878,14 @@ Not only fails but feels fettered.        836
 प्राप्नुयुः सकलं सौख्यं न लाभो बन्धुमित्रयोः ॥ ८३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८३७</summary>
+
+837 ētilār ārat tamarpacippar pētai  
+peruñcelvam uṟṟak kaṭai.
+
+837\. Strangers and not relatives fatten on the unlimited wealth of a fool.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८३७</summary>
 
 7\. ஏதிலார் ஆரத் தமர்பசிப்பர் பேதை  
@@ -22022,6 +28910,14 @@ When fools mishandle fortunes vast.        837
 
 मूढो धनं प्राप्नुयाच्चेत् पित्तस्य पिबतः सुराम् ।  
 या तून्मादकरावस्था मूढः प्राप्नोति तां दशाम् ॥ ८३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८३८</summary>
+
+838 maiyal oruvaṉ kaḷittaṟṟāl pētaitaṉ  
+kaiyoṉṟu uṭaimai peṟiṉ.
+
+838\. A fool that lives by a fortune is like a mad man in his drunken glee.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८३८</summary>
@@ -22050,6 +28946,14 @@ Like dazed and drunken stupids stand.        838
 तस्मान्मूढेन मैत्री तु भवेदानन्दायिनी ॥ ८३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८३९</summary>
+
+839 peritiṉitu pētaiyār kēṇmai piriviṉkaṇ  
+pīḻai taruvatoṉṟu il.
+
+839\. Verily sweet are the uses of fools’ love. For nothing is lost in a separation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८३९</summary>
 
 9\. பெரிதினிது பேதையார் கேண்மை பிரிவின்கண்  
@@ -22074,6 +28978,14 @@ For without a groan we part.        839
 
 अमेध्यस्पृष्टपादस्य पर्यङ्के क्षालनं विना ।  
 निक्षेपतुल्यं, मूढस्य विद्वद्गोष्ठीप्रवेशनम् ॥ ८४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८४०</summary>
+
+840 kaḻāakkāl paḷḷiyuḷ vaittaṟṟāl cāṉṟōr  
+kuḻāattup pētai pukal.
+
+840\. A fool’s entry into the assembly of the wise is like one’s unclean foot on the bed.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८४०</summary>
@@ -22105,6 +29017,14 @@ Looks like couch trod by unclean feet.        840
 अन्याभावान् वेत्ति लोको णाभावत्वेन् सर्वदा ॥ ८४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८४१</summary>
+
+841 aṟiviṉmai iṉmaiyuḷ iṉmai piṟitiṉmai  
+iṉmaiyā vaiyātu ulaku.
+
+841\. Of all forms of poverty, poverty of intellect is the most serious; other forms of poverty are not regarded serious by the world.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८४१</summary>
 
 1\. அறிவின்மை இன்மையுள் இன்மை பிறிதின்மை  
@@ -22129,6 +29049,14 @@ Want of aught else the world nev'r counts.        841
 
 अल्पज्ञ्ः प्रीतिसंयुक्तो धनमर्पयनीति यत् ।  
 न तत्रान्यत् कारणं स्याद् गृहीतुः पुण्यमन्तरा ॥ ८४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८४२</summary>
+
+842 aṟivilāṉ neñcuvantu ītal piṟituyātum  
+illai peṟuvāṉ tavam.
+
+842\. If a fool makes a gift with pleasure, it is due to the recipient’s luck.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८४२</summary>
@@ -22157,6 +29085,14 @@ It comes but by getter's merit.        842
 प्राप्नुयुः खेदमल्पज्ञाः स्वीयाज्ञानबलात् स्वयम् ॥ ८४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८४३</summary>
+
+843 aṟivilār tāmtammaip pīḻikkum pīḻai  
+ceṟuvārkkum ceytal aritu.
+
+843\. The unwise inflict upon themselves more harm than the enemies can think of.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८४३</summary>
 
 3\. அறிவிலார் தாம்தம்மைப் பீழிக்கும் பீழை  
@@ -22181,6 +29117,14 @@ Ev'n tortures of their foes indeed.        843
 
 ''ज्ञानवानहमस्मि''इति यो वाज्ञानकृतो मदः ।  
 स एवाल्पज्ञशब्देन प्रकृते संप्रकीर्त्यते ॥ ८४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८४४</summary>
+
+844 veṇmai eṉappaṭuvatu yāteṉiṉ oṇmai  
+uṭaiyamyām eṉṉum cerukku.
+
+844\. Where does conceit dwell but in the immature mind?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८४४</summary>
@@ -22209,6 +29153,14 @@ That cries "We have sagacity"        844
 तदा क्षुण्णमधीतेऽपि विषये संशयो भवेत् ॥ ८४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८४५</summary>
+
+845 kallāta mēṟkoṇṭu oḻukal kacaṭaṟa  
+vallatūum aiyam tarum.
+
+845\. Pretension to knowledge beyond one’s province makes men suspect the proficiency in one’s own province.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८४५</summary>
 
 5\. கல்லாத மேற்கொண்டு ஒழுகல் கசடற  
@@ -22233,6 +29185,14 @@ Leads to doubt ev'n that he has got.        845
 
 स्वदोषवरणे यत्नहीनः स्वल्पमतिर्नरः ।  
 मुख्यं गोप्यं स्थलं त्यक्त्वा यथान्याच्छादको भवेत् ॥ ८४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८४६</summary>
+
+846 aṟṟam maṟaittalō pullaṟivu tamvayiṉ  
+kuṟṟam maṟaiyā vaḻi.
+
+846\. What availeth one’s garment if one’s defects lie naked to the world?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८४६</summary>
@@ -22261,6 +29221,14 @@ And yet their glaring faults reveal.        846
 अल्पज्ञः स्वस्य नानर्थान् स्वयमेव समानयेत् ॥ ८४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८४७</summary>
+
+847 arumaṟai cōrum aṟivilāṉ ceyyum  
+perumiṟai tāṉē taṉakku.
+
+847\. A learned fool doth harm to himself.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८४७</summary>
 
 7\. அருமறை சோரும் அறிவிலான் செய்யும்  
@@ -22285,6 +29253,14 @@ Upon himself great harm entails.        847
 
 सत्कार्यं यः परैरुक्तं न कुर्याद्वेत्ति न स्वयम् ।  
 तस्याल्पबुद्धेः प्राणाः स्युः आन्तमामयरूपिणः ॥ ८४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८४८</summary>
+
+848 ēvavuñam ceykalāṉ tāṉtēṟāṉ avvuyir  
+pōom aḷavumōr nōy.
+
+848\. A fool neither listens to wise counsel nor exerts himself. He will be a plague to the world till his death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८४८</summary>
@@ -22313,6 +29289,14 @@ Plague is his life until it goes.        848
 अल्पज्ञो मूढविश्वासाद् भासते ज्ञानवानिव ॥ ८४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८४९</summary>
+
+849 kāṇātāṉ kāṭṭuvāṉ tāṉkāṇāṉ kāṇātāṉ  
+kaṇṭāṉām tāṉkaṇṭa vāṟu.
+
+849\. He who seeks to enlighten a fool befools himself i For the conceited fool thinks that he knows everything.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८४९</summary>
 
 9\. காணாதான் காட்டுவான் தான்காணான் காணாதான்  
@@ -22337,6 +29321,14 @@ To the blind who bet their sight as right.        849
 
 अस्तीति सद्भिरुक्तार्थान् नास्तीत्येव वदेञ्च यः ।  
 मर्त्यरूपागतं भूतं तं मन्यन्ते नरा भुवि ॥ ८५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८५०</summary>
+
+850 ulakattār uṇṭeṉpatu illeṉpāṉ vaiyattu  
+alakaiyā vaikkap paṭum.
+
+850\. He who is out of tune with the world is regarded a demon.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८५०</summary>
@@ -22368,6 +29360,14 @@ Deemed as ghouls on earth they go.        850
 दुर्गुणं मेलनाभावरूपं मेदो विवर्घयेत् ॥ ८५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८५१</summary>
+
+851 ikaleṉpa ellā uyirkkum pakaleṉṉum  
+paṇpiṉmai pārikkum nōy.
+
+851\. Hatred is a foul disease that brings discord among men.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८५१</summary>
 
 1\. இகலென்ப எல்லா உயிர்க்கும் பகலென்னும்  
@@ -22392,6 +29392,14 @@ And rouses illwill on all sides.        851
 
 अनिच्छन् सङ्गमं कश्चित् करोत्वन्यस्य चाप्रियम् ।  
 तस्याप्यनिष्टकरणान्निवृत्तिः श्लाघ्यते नृणाम् ॥ ८५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८५२</summary>
+
+852 pakalkarutip paṟṟā ceyiṉum ikalkaruti  
+iṉṉācey yāmai talai.
+
+852\. What if one does us harm out of hatred? It is the height of wisdom to resist not evil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८५२</summary>
@@ -22420,6 +29428,14 @@ Though foes provoke disunion        852
 बहिर्निष्कासयन् कश्चित् शाश्वतीं कीर्तिमश्नुते ॥ ८५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८५३</summary>
+
+853 ikaleṉṉum evvanōy nīkkiṉ tavalillāt  
+tāvil viḷakkam tarum.
+
+853\. He who is rid of the full disease of hatred crowns himself with eternal glory.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८५३</summary>
 
 3\. இகலென்னும் எவ்வநோய் நீக்கின் தவவில்லாத்  
@@ -22444,6 +29460,14 @@ And win everlasting glory.        853
 
 दुःखानामादिमं दुःखं भेदज्ञानाभिधं नरः ।  
 नाशयन् स्वयमाप्नोति सुखानामुत्तमं सुखम् ॥ ८५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८५४</summary>
+
+854 iṉpattuḷ iṉpam payakkum ikaleṉṉum  
+tuṉpattuḷ tuṉpam keṭiṉ.
+
+854\. It is the joy of joys to bury hatred, the evil of all evils.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८५४</summary>
@@ -22472,6 +29496,14 @@ Then joy of joys you can enjoy.        854
 तान् जेतुं भुवि शक्ताः स्युः केवाऽस्मिन धरणीतले ॥ ८५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८५५</summary>
+
+855 ikaletir cāyntoḻuka vallārai yārē  
+mikalūkkum taṉmai yavar.
+
+855\. Can anyone overcome him who has conquered hatred?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८५५</summary>
 
 5\. இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே  
@@ -22496,6 +29528,14 @@ That are free from enmity?        855
 
 भेदबुद्धिं समालम्ब्य वर्तनं वरमित्यपि ।  
 तिष्ठतो जीविते सम्पत् क्षीयते नश्यति स्वयम् ॥ ८५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८५६</summary>
+
+856 ikaliṉ mikaliṉitu eṉpavaṉ vāḻkkai  
+tavalum keṭalum naṇittu.
+
+856\. Swift ruin awaits one who delights in discord.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८५६</summary>
@@ -22524,6 +29564,14 @@ Who holds enmity sweet and dear.        856
 नीतिशास्त्रोक्ततत्त्वार्थान् ज्ञातुं न प्रभवन्ति ते ॥ ८५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८५७</summary>
+
+857 mikalmēvaval meypporuḷ kāṇār ikalmēval  
+iṉṉā aṟivi ṉavar.
+
+857\. Those who nourish hatred will never see the triumphant light of truth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८५७</summary>
 
 7\. மிகல்மேவல் மெய்ப்பொருள் காணார் இகல்மேவல்  
@@ -22548,6 +29596,14 @@ Who hate and injure without ruth.        857
 
 भेदबुद्धिं ये त्यजन्ति तेषां भाग्यं विवर्घते ।  
 वशा ये भेदभावस्य ते त्वनर्थानवाप्नुयुः ॥ ८५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८५८</summary>
+
+858 ikaliṟku etircāytal ākkam ataṉai  
+mikalūkkiṉ ūkkumām kēṭu.
+
+858\. To fight against hatred is to save one’s soul; to harbour it is to court one’s own ruin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८५८</summary>
@@ -22576,6 +29632,14 @@ Fomenting it brings fast ruin.        858
 अश्रेयःप्राप्तिवेलायां भेदबुद्धिं ध्रुवं त्यजेत् ॥ ८५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८५९</summary>
+
+859 ikalkāṇāṉ ākkam varuṅkāl ataṉai  
+mikalkāṇum kēṭu taraṟku.
+
+859\. Freedom from hatred is the sign of one’s prosperity. Presence of hatred foreshadows decline of one’s fortune.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८५९</summary>
 
 9\. இகல்காணான் ஆக்கம் வருங்கால் அதனை  
@@ -22600,6 +29664,14 @@ Hatred exceeding ruin breeds.        859
 
 भेदज्ञानेन चैकस्य बह्वनर्था भवन्ति हि ।  
 सौहार्दान्नितिरूपाख्यभाग्यं जायेत कस्यचित् ॥ ८६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८६०</summary>
+
+860 ikalāṉām iṉṉāta ellām nakalāṉām  
+naṉṉayam eṉṉum cerukku.
+
+860\. From love springs the proud joy of a righteous life.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८६०</summary>
@@ -22631,6 +29703,14 @@ All goodness flow from amity.        860
 न त्याज्यं सर्वदा वैरं स्वस्मादल्पबलान्वितैः ॥ ८६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८६१</summary>
+
+861 valiyārkku māṟēṟṟal ōmpuka ōmpā  
+meliyārmēṉ mēka pakai.
+
+861\. Avoid hostility towards the powerful do not cease from hostility towards the weak.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८६१</summary>
 
 1\. வலியார்க்கு மாறேற்றல் ஓம்புக ஓம்பா  
@@ -22655,6 +29735,14 @@ With the feeble for battle long.        861
 
 स्वाश्रितेषु प्रीतिहीनो सैन्यादिबलवर्जितः ।  
 स्वयं च बलहीनश्चेत् कथं शत्रून् विजेष्यति ॥ ८६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८६२</summary>
+
+862 aṉpilaṉ āṉṟa tuṇaiyilaṉ tāṉtuvvāṉ  
+eṉpariyum ētilāṉ tuppu.
+
+862\. One devoid of love has neither the strength nor support. How can he stem the tide of the advancing foe?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८६२</summary>
@@ -22683,6 +29771,14 @@ Can he withstand an enemy strong?        862
 अदातुर्मित्रहीनस्य सुलभा शत्रुवश्यता ॥ ८६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८६३</summary>
+
+863 añcum aṟiyāṉ amaivilaṉ īkalāṉ  
+tañcam eḷiyaṉ pakaikku.
+
+863\. He who is cowardly, ignorant, restless and niggardly, falls an easy prey to his enemy.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८६३</summary>
 
 3\. அஞ்சும் அறியான் அமைவிலன் ஈகலான்  
@@ -22707,6 +29803,14 @@ He is easy for foes to hit.        863
 
 सर्वत्र सर्वदा सर्वैः स जेतुं सुलभो भवेत् ।  
 यः क्रोधवशमापन्नस्त्वशक्तश्चित्तनिग्रहे ॥ ८६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८६४</summary>
+
+864 nīṅkāṉ vekuḷi niṟaiyilaṉ eññāṉṟum  
+yāṅkaṇum yārkkum eḷitu.
+
+864\. He who does not abstain from anger and has insufficient resources can be attacked by any one at any time.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८६४</summary>
@@ -22735,6 +29839,14 @@ To any, anywhere any day.        864
 अभीरुरपवादानां निर्गुणः स्याद्रिपोर्वशे ॥ ८६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८६५</summary>
+
+865 vaḻinōkkāṉ vāyppaṉa ceyyāṉ paḻinōkkāṉ  
+paṇpilaṉ paṟṟārkku iṉitu.
+
+865\. He who does not walk in the right path or follow the rule, who is callous to public odium falls an easy victim to his enemies.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८६५</summary>
 
 5\. வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்  
@@ -22759,6 +29871,14 @@ Any foe can fell him with ease.        865
 
 स्वपरज्ञानविध्वंसकारणक्रोधसंयुतः ।  
 विजृम्भत्कामनिचयुक्तः क्षीयेत् सत्वरम् ॥ ८६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८६६</summary>
+
+866 kāṇāc ciṉattāṉ kaḻiperum kāmattāṉ  
+pēṇāmai pēṇap paṭum.
+
+866\. One can court the enmity of the blindly wrathful and the inordinately lustful.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८६६</summary>
@@ -22787,6 +29907,14 @@ To have his hatred is but just.        866
 वैरं सम्पाद्यतां तेन साकमर्थं प्रदाय वा ॥ ८६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८६७</summary>
+
+867 koṭuttum koḷalvēṇṭum maṉṟa aṭuttiruntu  
+māṇāta ceyvāṉ pakai.
+
+867\. It is good to get the enmity of one who is blind to one’s purpose.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८६७</summary>
 
 7\. கொடுத்தும் கொளல்வேண்டும் மன்ற அடுத்திருந்து  
@@ -22811,6 +29939,14 @@ Who muddles chance with oddity.        867
 
 अगुणी दोषभाङ् मैत्रीं न केनापि स विन्दते ।  
 तदेव मैत्रीराहित्यं रिपणां जयदं भवेत् ॥ ८६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८६८</summary>
+
+868 kuṇaṉilaṉāyk kuṟṟam palavāyiṉ māṟṟārkku  
+iṉaṉilaṉām ēmāppu uṭaittu.
+
+868\. One who is void of virtue but full of vice invites the foe.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८६८</summary>
@@ -22839,6 +29975,14 @@ He loses friends and delights foes.        868
 रिपुर्भियुद्धकर्ता तु जित्वा श्रेष्ठसुखं व्रजेत् ॥ ८६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८६९</summary>
+
+869 ceṟuvārkkuc cēṇikavā iṉpam aṟivilā  
+añcum pakaivarp peṟiṉ.
+
+869\. The cowardly and the foolish gladden the heart of the foe beyond measure.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८६९</summary>
 
 9\. செறுவார்க்குச் சேணிகவா இன்பம் அறிவிலா  
@@ -22863,6 +30007,14 @@ When timid fools are opponents.        869
 
 अज्ञातनीतिशास्त्रैस्तु साकं वैरं फलप्रदम् ।  
 तथा कर्तुमशक्तो यस्तस्य कीर्तिर्न सिध्यति ॥ ८७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८७०</summary>
+
+870 kallāṉ vekuḷum ciṟuporuḷ eññāṉṟum  
+ollāṉai ollātu oḷi.
+
+870\. Glory awaits one who does not exploit the ignorant.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८७०</summary>
@@ -22894,6 +30046,14 @@ Who fails to fight a fool and win.        870
 विरोधस्तु न केनापि न कदाचिच्चिकीर्ष्यताम् ॥ ८७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८७१</summary>
+
+871 pakaiyeṉṉum paṇpi lataṉai oruvaṉ  
+nakaiyēyum vēṇṭaṟpāṟṟu aṉṟu.
+
+871\. One should not desire, even in a sportive mood, the evil known as enmity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८७१</summary>
 
 1\. பகைஎன்னும் பண்பி லதனை ஒருவன்  
@@ -22918,6 +30078,14 @@ The ill-natured enmity court.        871
 
 चापाख्यलाङ्गलकरैः वीरैर्वैरं न दुःखदम् ।  
 वागाख्यलाङ्गलकरैर्बुधैर्वैरं न साम्प्रतम् ॥ ८७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८७२</summary>
+
+872 villēr uḻavar pakaikoḷiṉum koḷḷaṟka  
+collēr uḻavar pakai.
+
+872\. You may not fear the sword; but beware of the pen.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८७२</summary>
@@ -22946,6 +30114,14 @@ But not the hate of word-ploughers.        872
 उन्मत्तपुरुषाच्चापि ज्ञानहीनः स गण्यते ॥ ८७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८७३</summary>
+
+873 ēmuṟ ṟavariṉum ēḻai tamiyaṉāyp  
+pallār pakaikoḷ pavaṉ.
+
+873\. One who incurs the wrath of the enemy is blinder than the mad.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८७३</summary>
 
 3\. ஏமுற் றவரினும் ஏழை தமியனாய்ப்  
@@ -22970,6 +30146,14 @@ The worst insanity betrays.        873
 
 वैरिणोऽपि सुहृद्भूतान् कुर्वन् श्लाघ्यगुणान्वितः ।  
 यो भवेत् तत्प्रभावस्य वश्यं स्यात् सकलं जगत् ॥ ८७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८७४</summary>
+
+874 pakainaṭpāk koṇṭoḻukum paṇpuṭai yāḷaṉ  
+takaimaikkaṇ taṅkiṟṟu ulaku.
+
+874\. The world is under the sway of one who has the art of converting an enemy into a friend.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८७४</summary>
@@ -22998,6 +30182,14 @@ Whose heart makes friends even of foes.        874
 सन्भवेतां तयोरेकं मित्रं कुर्वीत् तत्क्षणात् ॥ ८७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८७५</summary>
+
+875 taṉtuṇai iṉṟāl pakaiyiraṇṭāl tāṉoruvaṉ  
+iṉtuṇaiyāk koḷkavaṟṟiṉ oṉṟu.
+
+875\. One who has no ally but two adversaries must befriend one of them.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८७५</summary>
 
 5\. தன்துணை இன்றால் பகைஇரண்டால் தான்ஒருவன்  
@@ -23022,6 +30214,14 @@ Make one of them your ally close.        875
 
 त्वया रिपुर्भवेद् ज्ञातस्त्वज्ञातो वा पुरा भृशम् ।  
 क्लेशे प्राप्ते तु माध्यस्थ्यभावमालम्ब्य पश्य तम् ॥ ८७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८७६</summary>
+
+876 tēṟiṉum tēṟā viṭiṉum aḻiviṉkaṇ  
+tēṟāṉ pakāaṉ viṭal.
+
+876\. In a dark hour assume a neutral attitude either to your known enemy or to an unknown foe.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८७६</summary>
@@ -23050,6 +30250,14 @@ Keep aloof; don't mix with foes.        876
 शत्रूणां सन्निधौ स्वीयदौर्बल्यं न प्रकाशयेत् ॥ ८७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८७७</summary>
+
+877 nōvaṟka nontatu aṟiyārkku mēvaṟka  
+meṉmai pakaivar akattu.
+
+877\. Whisper not your troubles to friends who cannot divine them; betray not your weakness to your enemy.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८७७</summary>
 
 7\. நோவற்க நொந்தது அறியார்க்கு மேவற்க  
@@ -23074,6 +30282,14 @@ Nor your weakness to foes explain.        877
 
 स्वसत्त्ववर्धकः कार्यतत्त्वज्ञो निजरक्षकः ।  
 यदि कश्चिद्भवेत्तस्य शत्रवो लयमाप्नुयुः ॥ ८७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८७८</summary>
+
+878 vakaiyaṟintu taṟceytu taṟkāppa māyum  
+pakaivarkaṇ paṭṭa cerukku.
+
+878\. Plan well your design and arm yourself with all the sinews of war.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८७८</summary>
@@ -23102,6 +30318,14 @@ The pride of enemies shall fall.        878
 स एव वृद्धश्छिन्नश्चेत् छेत्तुश्छिन्नो भवेत्करः ॥ ८७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८७९</summary>
+
+879 iḷaitāka muḷmaram kolka kaḷaiyunar  
+kaikollum kāḻtta iṭattu.
+
+879\. Nip the thorn in the bud lest it should hurt the hands of those who seek to cut it when hardened into a tree.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८७९</summary>
 
 9\. இளைதாக முள்மரம் கொல்க களையுநர்  
@@ -23126,6 +30350,14 @@ Grown hard, they cut your hands beware.        879
 
 गर्वो रिपुणामादौ न हन्यते केनचिद्यदि ।  
 श्वासग्रहणकालं च न शक्यं तेन जीवितुम् ॥ ८८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८८०</summary>
+
+880 uyirppa uḷarallar maṉṟa ceyippavar  
+cemmal citaikkalā tār.
+
+880\. He is one among the dead who fails to subdue his naughty foe.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८८०</summary>
@@ -23157,6 +30389,14 @@ Defying foes who don't defeat.        880
 ज्ञातयो दुःखदास्तद्वत् त्यज्या ह्यान्तरवैरिणः ॥ ८८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८८१</summary>
+
+881 niḻaṉīrum iṉṉāta iṉṉā tamarnīrum  
+iṉṉāvām iṉṉā ceyiṉ.
+
+881\. Even shade and water, wholesome as they are, become pernicious where not needed; our kith and kin likewise are.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८८१</summary>
 
 1\. நிழல்நீரும் இன்னாத இன்னா தமர்நீரும்  
@@ -23181,6 +30421,14 @@ As water and shade do harm when bad.        881
 
 असितुल्यान् व्यक्तशत्रून् दृष्ट्वा भीतिः कुतो वृथा ।  
 बन्धुवेषान् गूढशत्रून् दृष्ट्वा मेतव्य मेव हि ॥ ८८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८८२</summary>
+
+882 vāḷpōl pakaivarai añcaṟka añcuka  
+kēḷpōl pakaivar toṭarpu.
+
+882\. Be not afraid of open enemies with drawn swords; but beware of false friends.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८८२</summary>
@@ -23209,6 +30457,14 @@ Fear foes who feign as kinsmen dear.        882
 अन्यथा नाशमाप्नोति सूचीच्छिन्नघटो यथा ॥ ८८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८८३</summary>
+
+883 uṭpakai añcittaṟ kākka ulaiviṭattu  
+maṭpakaiyiṉ māṇat teṟum.
+
+883\. Guard yourselves against your enemies from within. In your trying hour they will undermine your strength, like the potter’s knife, cleaving the mind asunder.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८८३</summary>
 
 3\. உட்பகை அஞ்சித்தற் காக்க உலைவுஇடத்து  
@@ -23233,6 +30489,14 @@ Will cut you, beware, like potters' steel.        883
 
 असंस्कृतमनस्केन गूढवैरं भवेद्यदि ।  
 बन्धुनाशकरान् दोषान् तदा प्राप्नोत्ययं जनः ॥ ८८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८८४</summary>
+
+884 maṉammāṇā uṭpakai tōṉṟiṉ iṉammāṇā  
+ētam palavum tarum.
+
+884\. The land is seething with dissensions when the foes from within, appear on the scene.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८८४</summary>
@@ -23261,6 +30525,14 @@ Foments trouble, spoils kinsmen!        884
 मरणान्तानि दुःखानि लभते तत एव सः ॥ ८८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८८५</summary>
+
+885 uṟaṉmuṟaiyāṉ uṭpakai tōṉṟiṉ iṟalmuṟaiyāṉ  
+ētam palavum tarum.
+
+885\. Many evils dark as death befall a king, when his own kith and kin sow dissensions in the land.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८८५</summary>
 
 5\. உறல்முறையான் உட்பகை தோன்றின் இறல்முறையான்  
@@ -23285,6 +30557,14 @@ Bring life-endangering evil.        885
 
 स्वाश्रितेष्वान्तरं वैरं यः कश्चित्कुरुते यदि ।  
 न तस्य मरणाभावो भविष्यति कदाचन ॥ ८८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८८६</summary>
+
+886 oṉṟāmai oṉṟiyār kaṇpaṭiṉ eññāṉṟum  
+poṉṟāmai oṉṟal aritu.
+
+886\. If kinsmen were to play to the traitor it would be difficult to escape death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८८६</summary>
@@ -23313,6 +30593,14 @@ Life-destroying deadly evils.        886
 तथाऽन्तःशत्रवोऽन्योन्यं बहिर्युक्तौ न वै हृदा ॥ ८८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८८७</summary>
+
+887 ceppiṉ puṇarccipōl kūṭiṉum kūṭātē  
+uṭpakai uṟṟa kuṭi.
+
+887\. There will be no real union in a house divided. The apparent unity is like the appearance of the casket and the lid seen as one.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८८७</summary>
 
 7\. செப்பின் புணர்ச்சிபோல் கூடினும் கூடாதே  
@@ -23337,6 +30625,14 @@ Just seems on like the lid in jar.        887
 
 अन्तर्विरोधिनां वंशो बलहीनः क्रमाद् भवेत् ।  
 अयःपिण्डः कृपाणेन घृष्टो नाशं व्रजेद्यथा ॥ ८८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८८८</summary>
+
+888 aramporuta poṉpōlat tēyum uramporutu  
+uṭpakai uṟṟa kuṭi.
+
+888\. The family torn with internal dissensions dwindles in strength just like pure gold filed away by an iron file.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८८८</summary>
@@ -23365,6 +30661,14 @@ Like gold crumbling by file's contact.        888
 कुलनाशकरानिष्टं महान्तं जनयेत् किल ॥ ८८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८८९</summary>
+
+889 eṭpakavu aṉṉa ciṟumaittē āyiṉum  
+uṭpakai uḷḷatām kēṭu.
+
+889\. Internal hostility little as it is, like a tiny seed, hides within a mighty evil.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८८९</summary>
 
 9\. எட்பக வன்ன சிறுமைத்தே ஆயினும்  
@@ -23389,6 +30693,14 @@ As slit in sesame though it be.        889
 
 लोके भिन्नमनस्तत्त्वैर्मानवैस्सह जीवनम् ।  
 एकत्रैव गृहे सर्पैः सहवाससमं भवेत् ॥ ८९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८९०</summary>
+
+890 uṭampāṭu ilātavar vāḻkkai kuṭaṅkaruḷ  
+pāmpōṭu uṭaṉuṟain taṟṟu.
+
+890\. Dwelling among men of hidden hate is like dwelling in a hamlet which harbours a snake.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८९०</summary>
@@ -23420,6 +30732,14 @@ Is dwelling with snake in selfsame hut.        890
 यत्कार्यसाधनपटोः सामर्थ्यस्य परिग्रहः ॥ ८९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८९१</summary>
+
+891 āṟṟuvār āṟṟal ikaḻāmai pōṟṟuvār  
+pōṟṟaluḷ ellām talai.
+
+891\. Not to offend the mighty is the crowning means of shielding one self.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८९१</summary>
 
 1\. ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார்  
@@ -23444,6 +30764,14 @@ Safest safeguard to living brings.        891
 
 महात्मनां तु विषये क्रियमाणा तिरस्कृतिः ।  
 कस्यचित्सकलं दुःखं प्रददाति न संशयः ॥ ८९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८९२</summary>
+
+892 periyāraip pēṇātu oḻukiṉ periyārāl  
+pērā iṭumpai tarum.
+
+892\. Lack of reverence for the great results in endless troubles.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८९२</summary>
@@ -23472,6 +30800,14 @@ Shall great troubles ceaseless create.        892
 राज्ञा सह कुरु द्वेषं यदि त्वं नाशमिच्छसि ॥ ८९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८९३</summary>
+
+893 keṭalvēṇṭiṉ kēḷātu ceyka aṭalvēṇṭiṉ  
+āṟṟu pavarkaṇ iḻukku.
+
+893\. To pick a quarrel with the mighty is to court one’s own ruin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८९३</summary>
 
 3\. கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின்  
@@ -23496,6 +30832,14 @@ Offence against the mighty great.        893
 
 समं बलवता वैरं क्रियते यद्धि दुर्बलैः ।  
 हन्तुर्यमस्य हस्ताभ्यामाह्वानसदृशं हि तत् ॥ ८९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८९४</summary>
+
+894 kūṟṟattaik kaiyāl viḷittaṟṟāl āṟṟuvārkku  
+āṟṟātār iṉṉā ceyal.
+
+894\. Behold the weak trying to do harm to the mighty. It is like beckoning unto death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८९४</summary>
@@ -23524,6 +30868,14 @@ Death with their own hands invite.        894
 आत्मनो रक्षणं तस्मात् कुत्र गत्वा करिष्यति ॥ ८९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८९५</summary>
+
+895 yāṇṭucceṉṟu yāṇṭum uḷarākār ventuppiṉ  
+vēntu ceṟappaṭ ṭavar.
+
+895\. Where is the refuge for one who incurs the wrath of the mighty monarch?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८९५</summary>
 
 5\. யாண்டுச்சென்று யாண்டும் உளராகார் வெந்துப்பின்  
@@ -23548,6 +30900,14 @@ Pursued by powerful monarch's ire?        895
 
 दग्धोऽपि वह्निना कश्चित् कदाचिज्जीवितुं क्षमः ।  
 महातामपकारी तु जीवितुं न भवेत् क्षमः ॥ ८९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८९६</summary>
+
+896 eriyāl cuṭappaṭiṉum uyvuṇṭām uyyār  
+periyārp piḻaittoḻuku vār.
+
+896\. There is just a chance of saving oneself if one gets caught in a fire; but there is no hope for men who insult the great.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८९६</summary>
@@ -23576,6 +30936,14 @@ The great who offends escapes not.        896
 तस्य भॄपस्य वित्तेन साम्राज्येनापि किं फलम् ॥ ८९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८९७</summary>
+
+897 vakaimāṇṭa vāḻkkaiyum vāṉporuḷum eṉṉām  
+takaimāṇṭa takkār ceṟiṉ.
+
+897\. What avails one’s proof of prosperity and mighty riches if one rouses the wrath of the great.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८९७</summary>
 
 7\. வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்  
@@ -23600,6 +30968,14 @@ Stately gifts and stores who can own?        897
 
 महद्भिः शैलसदृशैः शप्ता ये भुवि पार्थिवाः ।  
 स्थिरप्रतिष्ठाः सन्तोऽपि क्षीयन्ते ते सबान्धवाः ॥ ८९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ८९८</summary>
+
+898 kuṉṟaṉṉār kuṉṟa matippiṉ kuṭiyoṭu  
+niṉṟaṉṉār māyvar nilattu.
+
+898\. The fury of the sages like the lofty hills destroys the great race of pure men of stable fortune.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ८९८</summary>
@@ -23628,6 +31004,14 @@ The firm on earth lose home and all.        898
 देवेन्द्रो वा भवत्वेषः स्थानाद्भ्रष्टः पतत्यधः ॥ ८९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ८९९</summary>
+
+899 ēntiya koḷkaiyār cīṟiṉ iṭaimurintu  
+vēntaṉum vēntu keṭum.
+
+899\. Even the Lord of Heaven will be humbled from his throne if he rouses the wrath of men of mighty penance.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ८९९</summary>
 
 9\. ஏந்திய கொள்கையார் சீறின் இடைமுரிந்து  
@@ -23652,6 +31036,14 @@ Ev'n Indra's empire meets damage.        899
 
 नानातपोबलवतां प्राप्ता ये कोपपात्रताम् ।  
 भूपास्ते बलवन्तोऽपि लभेरन् विलयं क्षणात् ॥ ९००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९००</summary>
+
+900 iṟantuamainta cārpuuṭaiyar āyiṉum uyyār  
+ciṟantuamainta cīrār ceṟiṉ.
+
+900\. Even kings of ancient renown perish before the wrath of the great.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९००</summary>
@@ -23683,6 +31075,14 @@ If the enraged holy seers will.        900
 भार्यानुसरणं लक्ष्यसाधने बाधकं भवेत् ॥ ९०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९०१</summary>
+
+901 maṉaiviḻaivār māṇpayaṉ eytār viṉaiviḻaivār  
+vēṇṭāp poruḷum atu.
+
+901\. To follow one’s wife’s advice is to lose one’s honour and fortune.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९०१</summary>
 
 1\. மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழைவார்  
@@ -23707,6 +31107,14 @@ That lust, dynamic men disdain.        901
 
 लक्ष्यमुत्सृज्य कामार्थं भार्यावचनकारिभिः ।  
 लब्धं वित्तं भवेत्तेषां नूनं लज्जाप्रदायकम् ॥ ९०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९०२</summary>
+
+902 pēṇātu peṇviḻaivāṉ ākkam periyatōr  
+nāṇāka nāṇut tarum.
+
+902\. The wealth of a henpecked husband is a mere mockery to him.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९०२</summary>
@@ -23735,6 +31143,14 @@ His wealth to him and all is shame.        902
 अतथाभूतमहतामग्रे लज्जां स विन्दते ॥ ९०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९०३</summary>
+
+903 illāḷkaṇ tāḻnta iyalpiṉmai eññāṉṟum  
+nallāruḷ nāṇut tarum.
+
+903\. The cowardice of one who submits to one’s wife makes one shrink from the company of the good.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९०३</summary>
 
 3\. இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்  
@@ -23759,6 +31175,14 @@ Shy he feels before the wise.        903
 
 भार्याभीरुर्न लभते लोकान्तरसुखं स्थिरम् ।  
 कार्यनिर्वाहसामर्थ्यं न तस्य श्लाघ्यते बुधैः ॥ ९०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९०४</summary>
+
+904 maṉaiyāḷai añcum maṟumaiyi lāḷaṉ  
+viṉaiyāṇmai vīṟeytal iṉṟu.
+
+904\. He who dreads his wife denies himself the joys of Heaven. Even his noble actions are held in scorn.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९०४</summary>
@@ -23787,6 +31211,14 @@ The weaklings' action has no grace.        904
 स तु स्वीयधनं चापि दातुं भीतिमवाप्नुयात् ॥ ९०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९०५</summary>
+
+905 illāḷai yañcuvāṉ añcumaṟṟu eññāṉṟum  
+nallārkku nalla ceyal.
+
+905\. He who fears his wife fails in his offices to the good and the virtuous.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९०५</summary>
 
 5\. இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும்  
@@ -23811,6 +31243,14 @@ Good to do to the good and wise.        905
 
 देवभोगमवाप्यापि नायं प्राप्नोति गौरवम् ।  
 रम्यहस्तयुतां भार्यां दृष्ट्वा यः कातरो भवेत् ॥ ९०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९०६</summary>
+
+906 imaiyāriṉ vāḻiṉum pāṭilarē illāḷ  
+amaiyārtōḷ añcu pavar.
+
+906\. Those who are under the spell of their bamboo-shouldered bewitching wives cease to be men even though they are like Gods on earth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९०६</summary>
@@ -23839,6 +31279,14 @@ Look petty even with god-like lives.        906
 स्त्रीणां लज्जासमेतानां स्त्रीत्वमेव विशिष्यते ॥ ९०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९०७</summary>
+
+907 peṇṇēval ceytoḻukum āṇmaiyiṉ nāṇuṭaip  
+peṇṇē perumai yuṭaittu.
+
+907\. More respectful is the bashfulness of a woman than the ignoble conduct of one who is a slave to one’s wife.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९०७</summary>
 
 7\. பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்  
@@ -23863,6 +31311,14 @@ Than man servile unto her will.        907
 
 भार्यावचनकर्ता तु स्वमित्रेभ्योऽपि काङ्क्षितम् ।  
 न स्यात्पूरयिन्तु शक्तः कुर्याद्धर्मान् न शाश्वतान् ॥ ९०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९०८</summary>
+
+908 naṭṭār kuṟaimuṭiyār naṉṟāṟṟār naṉṉutalāḷ  
+peṭṭāṅku oḻuku pavar.
+
+908\. An infatuated husband can never be a friend in need; nor can he hope to do virtuous deeds.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९०८</summary>
@@ -23891,6 +31347,14 @@ Help no friends nor goodness tend.        908
 काम्यकर्माणि कर्तुं च पत्नीदासो न शक्नुयात् ॥ ९०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९०९</summary>
+
+909\. Pleasures of life are not for the henpecked husband.
+
+909 aṟaviṉaiyum āṉṟa poruḷum piṟaviṉaiyum  
+peṇēval ceyvārkaṇ il.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९०९</summary>
 
 9\. அறவினையும் ஆன்ற பொருளும் பிறவினையும்  
@@ -23915,6 +31379,14 @@ In those who submit to women        909
 
 ऋजुपूतमनस्कानां श्रेष्ठस्थानमुपेयुषाम् ।  
 पत्नीदास्यकराज्ञानां सर्वथा न भविष्यति ॥ ९१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९१०</summary>
+
+910 eṇcērnta neñcattu iṭaṉuṭaiyārkku eññāṉṟum  
+peṇcērntām pētaimai il.
+
+910\. Men of resolute will never commit the folly of slaving for women.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९१०</summary>
@@ -23946,6 +31418,14 @@ By folly on fair sex do not dote.        910
 दास्यास्तस्या रम्यवाक्यं दद्याद् व्यसनमन्ततः ॥ ९११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९११</summary>
+
+911 aṉpiṉ viḻaiyār poruḷviḻaiyum āytoṭiyār  
+iṉcol iḻukkut tarum.
+
+911\. Honeyed words of public women who serve not for love but for money become gall and wormwood in the end.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९११</summary>
 
 1\. அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்  
@@ -23970,6 +31450,14 @@ Men are ruined by bangled belles.        911
 
 धनलाभानुसरेण ब्रूवतीनां प्रियं वचः ।  
 स्नेहं निर्गुणदसीनां विमृश्य विसृजेन्नरः ॥ ९१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९१२</summary>
+
+912 payaṉtūkkip paṇpuraikkum paṇpuil makaḷir  
+nayaṉtūkki naḷḷā viṭal.
+
+912\. Beware of public women sweet of tongue but greedy of gain.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९१२</summary>
@@ -23998,6 +31486,14 @@ Love only for their selfish gain.        912
 तमोवृतस्थले नूत्नप्रेतालिङ्गनवद्भवेत् ॥ ९१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९१३</summary>
+
+913 poruṭpeṇṭir poymmai muyakkam iruṭṭaṟaiyil  
+ētil piṇantaḻīi aṟṟu.
+
+913\. Embracing false women bent on gain is like embracing a strange corpse in a dark room.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९१३</summary>
 
 3\. பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்  
@@ -24022,6 +31518,14 @@ That of a damned corpse in the dark.        913
 
 अर्थमात्रैकलक्ष्यणां दासीनां कपटं सुखम् ।  
 नाद्रियन्ते धर्ममार्गविमर्शनपरा बुधाः ॥ ९१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९१४</summary>
+
+914 poruṭporuḷār puṉṉalam tōyā aruṭporuḷ  
+āyum aṟivi ṉavar.
+
+914\. Men seeking the light of grace turn away in scorn from the fleshy delights of prostitutes.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९१४</summary>
@@ -24050,6 +31554,14 @@ Look not for harlots' low embrace.        914
 सर्वस्वाम्याङ्गनाभोगं कृत्रिमं न हि वृण्वते ॥ ९१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९१५</summary>
+
+915 potunalattār puṉṉalam tōyār matinalattiṉ  
+māṇṭa aṟivi ṉavar.
+
+915\. Men of great wisdom care not for the barren pleasures of women who sell themselves for hire.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९१५</summary>
 
 5\. பொதுநலத்தார் புன்னலம் தோயார் மதிநலத்தின்  
@@ -24074,6 +31586,14 @@ The open charms of a vile harlot.        915
 
 पण्यस्त्रीणां छलं प्रेम यच्छन्तीनां जनान् प्रति ।  
 भुजौ रूपमदान्धानां न स्पृशेयुर्गुणैषिणः ॥ ९१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९१६</summary>
+
+916 tannalam pārippār tōyār takaicerukkip  
+puṉṉalam pārippār tōḷ.
+
+916\. Men aspiring to fame do not long for the delights of women who sell themselves.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९१६</summary>
@@ -24102,6 +31622,14 @@ Shun the wanton's vaunting charm.        916
 वारस्त्रीणां भुजौ चित्तदार्ढ्यहीनाः स्पृशन्त्यहो ॥ ९१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९१७</summary>
+
+917 niṟaineñcam illavar tōyvar piṟaneñcil  
+pēṇip puṇarpavar tōḷ.
+
+917\. Only men of unruly desires go in search of the shoulders of women who sell themselves.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९१७</summary>
 
 7\. நிறைநெஞ்சம் இல்லவர் தோய்வர் பிறநெஞ்சிற்  
@@ -24126,6 +31654,14 @@ The arms of whores with hearts elsewere.        917
 
 कुलटाभिर्वञ्चिकाभिः सहालिङ्गनकर्म तु ।  
 नृणा विवेकशून्यानां भूतं प्राणहरं भवेत् ॥ ९१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९१८</summary>
+
+918 āyum aṟiviṉar allārkku aṇaṅkeṉpa  
+māya makaḷir muyakku.
+
+918\. False women’s embraces which only the ignorant desire are like the possession of evil spirits.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९१८</summary>
@@ -24154,6 +31690,14 @@ By arms of sirens who lead astray.        918
 मूढाधमजनप्राप्यनिरयेन समो भवेत् ॥ ९१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९१९</summary>
+
+919 varaivilā māṇiḻaiyār meṉtōḷ puraiyilāp  
+pūriyarkaḷ āḻum aḷaṟu.
+
+919\. The soft shoulders of women who deck themselves for attraction are the hell into which undiscerning fools sink.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९१९</summary>
 
 9\. வரைவிலா மாணிழையார் மென்றோள் புரையிலாப்  
@@ -24178,6 +31722,14 @@ Into which the degraded fall.        919
 
 द्विमनस्का वारनारी द्यूतो मद्यं मदप्रदम् ।  
 त्रिभिरेतैर्युतं मर्त्य विमुञ्चेत् पद्मसम्भवा ॥ ९२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९२०</summary>
+
+920 irumaṉap peṇṭirum kaḷḷum kavaṟum  
+tirunīkkap paṭṭār toṭarpu.
+
+920\. Double-tongued women, wine and dice are the allies of those abandoned by the goddess of fortune.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९२०</summary>
@@ -24209,6 +31761,14 @@ Are lures of those whom fortune flies.        920
 तथा तैरार्जिता कीर्तीः अचिरात् क्षीयते भुवि ॥ ९२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९२१</summary>
+
+921 uṭkap paṭāar oḷiyiḻappar eññāṉṟum  
+kaṭkātal koṇṭoḻuku vār.
+
+921\. He who is addicted to wine can never strike fear in the heart of his foe; nor can he retain his ancient splendour.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९२१</summary>
 
 1\. உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும்  
@@ -24233,6 +31793,14 @@ The addicts daily their glory lose.        921
 
 मद्यं न पेयं विदुषा कश्चित् पातुं वृणोति चेत् ।  
 महाद्भिर्माननीयोऽसौ न कदाचिद्भविष्यति ॥ ९२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९२२</summary>
+
+922 uṇṇaṟka kaḷḷai uṇiluṇka cāṉṟōrāl  
+eṇṇap paṭavēṇṭā tār.
+
+922\. Do not drink wine, for a drunkard can never command the homage of the great.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९२२</summary>
@@ -24261,6 +31829,14 @@ Whom with esteem the wise won't think.        922
 पानं महात्मनामग्रे कियदुःखकरं भवेत् ॥ ९२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९२३</summary>
+
+923 īṉṟāḷ mukattēyum iṉṉātāl eṉmaṟṟuc  
+cāṉṟōr mukattuk kaḷi.
+
+923\. Even an indulgent mother never puts up with a drunkard; will the virtuous ever tolerate him?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९२३</summary>
 
 3\. ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்  
@@ -24285,6 +31861,14 @@ How vile must it look for the wise?        923
 
 अतिहेयसुरपानरूपदोषजुषां पुरः ।  
 लज्जाख्यरमणी स्थातुमशक्ता दूरतो व्रजेत् ॥ ९२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९२४</summary>
+
+924 nāṇeṉṉum nallāḷ puṟamkoṭukkum kaḷḷeṉṉum  
+pēṇāp peruṅkuṟṟat tārkku.
+
+924\. The good lady of modesty averts her face from him guilty of hateful drink.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९२४</summary>
@@ -24313,6 +31897,14 @@ Who is guilty of wine condemned.        924
 इतिकर्तव्यतामूढरूपाज्ञाननिरूपिका ॥ ९२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९२५</summary>
+
+925 kaiyaṟi yāmai uṭaittē poruḷkoṭuttu  
+meyyaṟi yāmai koḷal.
+
+925\. To acquire forgetfulness at a price is indeed the fruit of past sin.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९२५</summary>
 
 5\. கையறியாமை யுடைத்தே பொருள் கொடுத்து  
@@ -24337,6 +31929,14 @@ Is nothing but rank ignorance.        925
 
 ज्ञानाभावान्न भेदोऽस्ति निद्राणस्य मृतस्य च ।  
 विषपायी सुरापायी द्वामिवौ च तथा समौ ॥ ९२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९२६</summary>
+
+926 tuñciṉār cettāriṉ vēṟallar eññāṉṟum  
+nañcuṇpār kaḷḷuṇ pavar.
+
+926\. To be asleep is to be dead. To drink wine is to drink poison.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९२६</summary>
@@ -24365,6 +31965,14 @@ And doze ev'n like a dead body.        926
 ग्रामीणा हेतुभिस्तत्त्वमूह्य नूनं हसन्ति हि ॥ ९२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९२७</summary>
+
+927 uḷḷoṟṟi uḷḷūr nakappaṭuvar eññāṉṟum  
+kaḷoṟṟik kaṇcāy pavar.
+
+927\. A drunkard who has lost his senses becomes an object of ridicule to his sober neighbours.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९२७</summary>
 
 7\. உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும்  
@@ -24389,6 +31997,14 @@ Make the prying public laugh.        927
 
 सुरां पीत्वापि ''नो पीतं मये ति कथनं त्यज ।  
 पानमात्रेण चित्तस्थसत्यं किल विनिस्सरेत् ॥ ९२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९२८</summary>
+
+928 kaḷittaṟiyēṉ eṉpatu kaiviṭuka neñcattu  
+oḷittatūum āṅkē mikum.
+
+928\. Let not a drunkard boast that he has not tasted wine; for that which is hidden shows itself with greater force when drunk.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९२८</summary>
@@ -24417,6 +32033,14 @@ The hidden fraud is known abroad.        928
 दीपसाह्यान्नीरमग्रवस्त्वन्वेषणवाद् वृथा ॥ ९२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९२९</summary>
+
+929 kaḷittāṉaik kāraṇam kāṭṭutal kīḻnīrk  
+kuḷittāṉait tītturīi aṟṟu.
+
+929\. To reason a drunkard into his senses is like searching with a candle for one lost in deep waters.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९२९</summary>
 
 9\. களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்  
@@ -24441,6 +32065,14 @@ Can reason reach the raving drunk?        929
 
 अपीतमदिरः कश्चिद् दृष्ट्वा पानमदान्वितम् ।  
 ''इयं दशा ममापि स्यात् पानेन'' ति किं स्मरेत् ॥ ९३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९३०</summary>
+
+930 kaḷḷuṇṇāp pōḻtil kaḷittāṉaik kāṇuṅkāl  
+uḷḷāṉkol uṇṭataṉ cōrvu.
+
+930\. If a drunkard in sober moments sees, another under the influence of wine, will he fail to realise his own state when drunk?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९३०</summary>
@@ -24472,6 +32104,14 @@ On selves can't they feel same effect?        930
 मक्ष्याशया मीनभुक्तजलोद्गारसमं भवेत् ॥ ९३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९३१</summary>
+
+931 vēṇṭaṟka veṉṟiṭiṉum cūtiṉai veṉṟatūum  
+tūṇṭiṟpoṉ mīṉviḻuṅki aṟṟu.
+
+931\. Do not desire to gamble even if you win; for your gain is like the bait to a fish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९३१</summary>
 
 1\. வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம்  
@@ -24496,6 +32136,22 @@ Gulping bait-hook what does fish gain?        931
 
 प्राप्यौकांशं शतांशानां त्यक्ता द्यूतोपसेवकः ।  
 धर्मकामप्राप्तिमार्गं न लभेत कदाचन ॥ ९३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९३२</summary>
+
+932 oṉṟueyti nūṟuiḻakkum cūtarkkum uṇṭāṅkol  
+naṉṟueyti vāḻvatōr āṟu.
+
+932\. Can gamblers who lose a hundred times before winning once ever dream of an upright life?  
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९३२</summary>
+
+932 oṉṟueyti nūṟuiḻakkum cūtarkkum uṇṭāṅkol  
+naṉṟueyti vāḻvatōr āṟu.
+
+932\. Can gamblers who lose a hundred times before winning once ever dream of an upright life?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९३२</summary>
@@ -24524,6 +32180,14 @@ Who lose a hundred one to gain?        932
 सञ्चितार्थस्तथा लाभो रिपूणां सविधं व्रजेत् ॥ ९३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९३३</summary>
+
+933 uruḷāyam ōvātu kūṟiṉ poruḷāyam  
+pōoyp puṟamē paṭum.
+
+933\. If one continually plays with the rolling dice one’s riches desert one to enrich one’s enemies.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९३३</summary>
 
 3\. உருளாயம் ஓவாது கூறின் பொருளாயம்  
@@ -24548,6 +32212,14 @@ All their fortune will flow to foes.        933
 
 स्वाश्रितानां बहुक्लेशप्रदानात् कीर्तिनाशनात् ।  
 दारिद्र्यदायकं द्यूतसदृशं नास्ति किञ्चन ॥ ९३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९३४</summary>
+
+934 ciṟumai palaceytu cīraḻikkum cūtiṉ  
+vaṟumai taruvatuoṉṟu il.
+
+934\. Nothing brings on poverty more than gambling. It ruins one’s fame and is the mother of all evils.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९३४</summary>
@@ -24576,6 +32248,14 @@ Which adds to woes and ruins fame.        934
 अक्षं द्यूतस्थलं द्यूतकृत्यं यः सेवते सदा ॥ ९३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९३५</summary>
+
+935 kavaṟum kaḻakamum kaiyum tarukki  
+ivaṟiyār illāki yār.
+
+935\. None but those who dream of dice and the gaming table will come to grief.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९३५</summary>
 
 5\. கவறும் கழகமும் கையும் தருக்கி  
@@ -24600,6 +32280,14 @@ Who sought with glee have come to nought.        935
 
 दारिद्र्यदेवता द्यूतनाम्नी यं तु समाश्रयेत् ।  
 इह सर्वसुखैर्मुक्तः स परे नरकं व्रजेत् ॥ ९३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९३६</summary>
+
+936 akaṭārār allal uḻapparcūtu eṉṉum  
+mukaṭiyāl mūṭappaṭ ṭār.
+
+936\. Torments of poverty and hell befall one who is seized by the demon of gambling.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९३६</summary>
@@ -24628,6 +32316,14 @@ Suffer grief and want by that vice.        936
 द्यूतक्रीडाङ्गणे येन सर्वः कालोऽपि याप्यते ॥ ९३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९३७</summary>
+
+937 paḻakiya celvamum paṇpum keṭukkum  
+kaḻakattuk kālai pukiṉ.
+
+937\. Ceaseless gambling destroys one’s ancestral wealth and fame.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९३७</summary>
 
 7\. பழகிய செல்வமும் பண்பும் கெடுக்கும்  
@@ -24652,6 +32348,14 @@ Ancestral wealth and virtues end.        937
 
 असत्यभाषणं वित्तनाशः कारुण्यवर्जनम् ।  
 सर्वनिमाननर्थांश्च द्यूतकर्म प्रयच्छति ॥ ९३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९३८</summary>
+
+938 poruḷkoṭuttup poymēṟ koḷīi aruḷkeṭuttu  
+allal uḻappikkum cūtu.
+
+938\. Gambling destroys wealth, makes one play false, kills all virtues, and brings on distress.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९३८</summary>
@@ -24680,6 +32384,14 @@ Leads to lies and wretched woes.        938
 तं विहाय विनिर्याति सेवते द्यूतकर्म यः ॥ ९३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९३९</summary>
+
+939 uṭaicelvam ūṇoḷi kalviyeṉṟu aintum  
+aṭaiyāvām āyam koḷiṉ.
+
+939\. A king whose hobby is gambling has neither raiment nor food, nor wealth nor renown nor learning.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९३९</summary>
 
 9\. உடைசெல்வம் ஊண்ஒளி கல்விஎன்று ஐந்தும்  
@@ -24704,6 +32416,14 @@ In gambler's hand will never thrive.        939
 
 असकृन्नष्टत्तोऽपि द्यूतं कुर्याद्यथेपस्या ।  
 रोगार्तोऽप्यसकृत्तद्वन्मर्त्यो वाञ्छति जीवितुम् ॥ ९४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९४०</summary>
+
+940 iḻattoṟūum kātalikkum cūtēpōl tuṉpam  
+uḻattoṟūum kātaṟṟu uyir.
+
+940\. In spite of all the ills of life we cling to it. In spite of all losses, a gambler clings to his dice.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९४०</summary>
@@ -24735,6 +32455,14 @@ As love for life with sorrows grows.        940
 आयुर्वेददविदो व्याधिशब्देन ब्रुवते बुधाः ॥ ९४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९४१</summary>
+
+941 mikiṉum kuṟaiyiṉum nōyceyyum nūlōr  
+vaḷimutalā eṇṇiya mūṉṟu.
+
+941\. Overfeeding and underfeeding upset the three humours and cause disease, says the physician.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९४१</summary>
 
 1\. மிகினும் குறையினும் நோய்செய்யும் நூலோர்  
@@ -24759,6 +32487,14 @@ So doctors deem it more or less.        941
 
 भुक्तं जीर्णमभूद्वेति विमर्शनन्तरं पुनः ।  
 भुञ्जानस्य शरीरस्य वृथा भवति भेषजम् ॥ ९४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९४२</summary>
+
+942 marunteṉa vēṇṭāvām yākkaikku aruntiyatu  
+aṟṟatu pōṟṟi uṇiṉ.
+
+942\. There is no need for medicine if one eats with appetite.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९४२</summary>
@@ -24787,6 +32523,14 @@ His body no medicine needs.        942
 चिरं चानेन देहेन कालं नयति मानवः ॥ ९४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९४३</summary>
+
+943 aṟṟāl aḷavaṟintu uṇka aḵtuuṭampu  
+peṟṟāṉ neṭituykkum āṟu.
+
+943\. Let there be measure and moderation in eating. It leads to long life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९४३</summary>
 
 3\. அற்றால் அளவறிந்து உண்க அஃதுடம்பு  
@@ -24811,6 +32555,14 @@ Life in body lasts with pleasure.        943
 
 भुक्तस्य जीर्णतां बुध्वा बुभुक्षानन्तरं नरः ।  
 आहारनियमोपेतो भुञ्जियाच्छास्त्रवर्त्मना ॥ ९४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९४४</summary>
+
+944 aṟṟatu aṟintu kaṭaippiṭittu māṟalla  
+tuykka tuvarap pacittu.
+
+944\. Eat wholesome food when you feel hungry.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९४४</summary>
@@ -24839,6 +32591,14 @@ Eat what is suitable and right.        944
 मर्त्यं प्राणहरो व्याधिः यावज्जीवं न बाधते ॥ ९४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९४५</summary>
+
+945 māṟupāṭu illāta uṇṭi maṟuttuṇṇiṉ  
+ūṟupāṭu illai uyirkku.
+
+945\. No disease attacks the person who eats with moderation the food which agrees with him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९४५</summary>
 
 5\. மாறுபாடு இல்லாத உண்டி மறுத்துண்ணின்  
@@ -24863,6 +32623,14 @@ Cures ills of life and makes you bright        945
 
 मिताहारपरे सौख्यं शाश्वतं विद्यते यथा ।  
 नित्यरोगो भवेत्तस्मिन्नमिताहारसेवके ॥ ९४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९४६</summary>
+
+946 iḻivaṟintu uṇpāṉkaṇ iṉpampōl niṟkum  
+kaḻipēr iraiyāṉkaṇ nōy.
+
+946\. Health dwells in a man of temperance, disease invades a glutton.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९४६</summary>
@@ -24891,6 +32659,14 @@ With greedy glutton abides ill-health.        946
 भूरि भुक्तवतो नानारोगाः प्रदुर्भवन्त्यहो ॥ ९४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९४७</summary>
+
+947 tīyaḷavu aṉṟit teriyāṉ perituṇṇiṉ  
+nōyaḷavu iṉṟip paṭum.
+
+947\. Countless are the ills that befall a glutton.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९४७</summary>
 
 7\. தீயள வன்றித் தெரியான் பெரிதுண்ணின்  
@@ -24915,6 +32691,14 @@ Suffer from untold diseases here.        947
 
 रोगतत्वं परामृश्य ज्ञात्वा रोगस्य कारणम् ।  
 शमनोपायमालोच्य वैद्यः कुर्यान्निवारणम् ॥ ९४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९४८</summary>
+
+948 nōynāṭi nōymutal nāṭi atutaṇikkum  
+vāynāṭi vāyppac ceyal.
+
+948\. Diagnose the disease, find out its cure after tracing its root and apply the proper remedy.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९४८</summary>
@@ -24943,6 +32727,14 @@ And apply remedy that is sure.        948
 आलोच्य वैद्यशास्त्रज्ञः चिकित्सां सम्यगाचरेत् ॥ ९४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९४९</summary>
+
+949 uṟṟāṉ aḷavum piṇiaḷavum kālamum  
+kaṟṟāṉ karutic ceyal.
+
+949\. Let the learned physician know the nature of the patient and the duration of ailment and then treat.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९४९</summary>
 
 9\. உற்றான் அளவும் பிணியளவும் காலமும்  
@@ -24967,6 +32759,14 @@ The sickmen, sickness, season and treat.        949
 
 रुग्णो भिषग्भेषजं च समये भेषजप्रदः ।  
 एतच्चतुष्कसंयोगश्चिकित्सोति प्रकीर्त्यते ॥ ९५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९५०</summary>
+
+950 uṟṟavaṉ tīrppāṉ maruntuuḻaic celvāṉeṉṟu  
+appālnāṟ kūṟṟē maruntu.
+
+950\. The science of medicine deals with the patient, the physician, the medicine and the recipe.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९५०</summary>
@@ -25000,6 +32800,14 @@ Are four-fold codes of treating course.        950
 लज्जामाध्यस्थ्यनामानौ स्यातां न सङ्गतौ ॥ ९५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९५१</summary>
+
+951 ilpiṟantār kaṇallatu illai iyalpākac  
+ceppamum nāṇum oruṅku.
+
+951\. Probity and a sense of shame are virtues innate only in men of noble lineage.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९५१</summary>
 
 1\. இற்பிறந்தார் கண்அல்லது இல்லை இயல்பாகச்  
@@ -25024,6 +32832,14 @@ By nature only the noble-born.        951
 
 लज्जाचारित्र्यसत्याख्यगुणानां त्रितयं भुवि ।  
 तिष्ठेत् सत्कुलजातेषु विद्याविरहितेष्वपि ॥ ९५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९५२</summary>
+
+952 oḻukkamum vāymaiyum nāṇumim mūṉṟum  
+iḻukkār kuṭippiṟan tār.
+
+952\. Men of noble descent never forsake good conduct, truthfulness and modesty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९५२</summary>
@@ -25052,6 +32868,14 @@ Good conduct, truth and modesty.        952
 इतीमे सुगुणाः शुद्धकुलीने सहजा मताः ॥ ९५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९५३</summary>
+
+953 nakaiīkai iṉcol ikaḻāmai nāṉkum  
+vakaieṉpa vāymaik kuṭikku.
+
+953\. A cheerful countenance, charity, soft words and sweet learning all these characterise men of noble birth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९५३</summary>
 
 3\. நகைஈகை இன்சொல் இகழாமை நான்கும்  
@@ -25076,6 +32900,14 @@ These four mark true nobility.        953
 
 अनेककोटिसङ्ख्याकधनलाभकृतेऽपि ते ।  
 न कुर्युः सत्कुलोत्पन्ना दोषं कुलविद्यातकम् ॥ ९५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९५४</summary>
+
+954 aṭukkiya kōṭi peṟiṉum kuṭippiṟantār  
+kuṉṟuva ceytal ilar.
+
+954\. Men of noble birth never stoop to mean acts, though they may thereby gain untold riches.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९५४</summary>
@@ -25104,6 +32936,14 @@ Cannot bend to degrading deed.        954
 परोपकारकरणान्न कदाचिन्निवर्तते ॥ ९५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९५५</summary>
+
+955 vaḻaṅkuvatu uḷvīḻntak kaṇṇum paḻaṅkuṭi  
+paṇpiṉ talaippirital iṉṟu.
+
+955\. A family of ancient dignity never fails of its charity even when fallen on evil days.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९५५</summary>
 
 5\. வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி  
@@ -25128,6 +32968,14 @@ Ancient homes guard their noble trait.        955
 
 ''निर्दुष्टकुलचारित्र्यसहिताः स्याम सर्वदा'' ।  
 इत्यं दृढप्रतिज्ञास्तु निन्दितं न वितन्वते ॥ ९५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९५६</summary>
+
+956 calampaṟṟic cārpila ceyyārmā caṟṟa  
+kulampaṟṟi vāḻtumeṉ pār.
+
+956\. Those who walk in the untarnished traditions of their noble family never do wrong even in poverty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९५६</summary>
@@ -25156,6 +33004,14 @@ Stoop not to acts of cunning lure.        956
 व्योमचन्द्रकलङ्केन समं दृश्येत् सुस्फुटम् ॥ ९५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९५७</summary>
+
+957 kuṭippiṟantār kaṇviḷaṅkum kuṟṟam vicumpiṉ  
+matikkaṇ maṟuppōl uyarntu.
+
+957\. Dark as the spot of the Moon in the sky doth the stain of the noble family loom large.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९५७</summary>
 
 7\. குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்  
@@ -25180,6 +33036,14 @@ Like on the sky the spots of moon.        957
 
 कुलोचितगुणाढ्योऽपि यो वा प्रीतिविवर्जितः ।  
 तथाविधे कुलीनत्वसन्देहो जायते नृणाम् ॥ ९५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९५८</summary>
+
+958 nalattiṉkaṇ nāriṉmai tōṉṟiṉ avaṉaik  
+kulattiṉkaṇ aiyap paṭum.
+
+958\. The world suspects the noble lineage of one who lacks in sympathy.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९५८</summary>
@@ -25208,6 +33072,14 @@ People deem their pedigree crude.        958
 तथा वाक्यप्रयोगेण कुलं ज्ञायेत कस्यचित् ॥ ९५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९५९</summary>
+
+959 nilattil kiṭantamai kālkāṭṭum kāṭṭum  
+kulattil piṟantārvāyc col.
+
+959\. The plants are quite racy of the soil. The words of men of high birth betoken their ancestral dignity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९५९</summary>
 
 9\. நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும்  
@@ -25232,6 +33104,14 @@ The worth of birth from words flow out.        959
 
 श्रेयोऽभिलाषिणां लज्जावत्वं नूनमपेक्ष्यते ।  
 विनीतेन सदा भाव्यं कुलगौरवकाङ्क्षिणा ॥ ९६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६०</summary>
+
+960 nalamvēṇṭiṉ nāṇuṭaimai vēṇṭum kulamvēṇṭiṉ  
+vēṇṭuka yārkkum paṇivu.
+
+960\. Out of modesty springs one’s greatness. Out of humility rises the honour of family.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९६०</summary>
@@ -25263,6 +33143,14 @@ Nobility by humility.        960
 कुलगौरवनाशाय यदि तत् स्याद्विसृज्यताम् ॥ ९६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९६१</summary>
+
+961 iṉṟi amaiyāc ciṟappiṉ āyiṉum  
+kuṉṟa varupa viṭal.
+
+961\. Reject mean actions, even if they bring glory in their turn.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९६१</summary>
 
 97\. மானம் - Honour
@@ -25291,6 +33179,14 @@ From mean degrading acts refrain.        961
 यशःकृते कुलश्रैष्ठ्यघातकं कर्म नाचरेत् ॥ ९६२॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९६२</summary>
+
+962 cīriṉum cīralla ceyyārē cīroṭu  
+pērāṇmai vēṇṭu pavar.
+
+962\. Those who desire honour and name will not do mean things in their thirst for glory.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९६२</summary>
 
 2\. சீரினும் சீரல்ல செய்யாரே சீரொடு  
@@ -25315,6 +33211,14 @@ Don't do mean deeds even for name.        962
 
 सम्पत्समृद्धिवेलायां विनयः सर्वदा वरः ।  
 सम्पनाशे पौरुषं तु वरं स्याद्विनयादपि ॥ ९६३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६३</summary>
+
+963 perukkattu vēṇṭum paṇital ciṟiya  
+curukkattu vēṇṭum uyarvu.
+
+963\. During prosperity practise humility. Even in adversity keep dignity.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९६३</summary>
@@ -25343,6 +33247,14 @@ In decline uphold dignity.        963
 उत्तमाङ्गपरिभ्रष्टकेशतुल्या भवन्ति ते ॥ ९६४॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९६४</summary>
+
+964 talaiyiṉ iḻinta mayiraṉaiyar māntar  
+nilaiyiṉ iḻintak kaṭai.
+
+964\. Men fallen from a high estate are like the hair fallen from the head.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९६४</summary>
 
 4\. தலையின் இழிந்த மயிரனையர் மாந்தர்  
@@ -25367,6 +33279,14 @@ Who fall down from their high status.        964
 
 महीधरसमाः सन्तः स्वल्पं गुञ्जाफलोपमम् ।  
 पतनोन्मुखकार्यं च कुर्वन्तस्ते पतन्त्य्धः ॥ ९६५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६५</summary>
+
+965 kuṉṟiṉ aṉaiyārum kuṉṟuvar kuṉṟuva  
+kuṉṟi aṉaiya ceyiṉ.
+
+965\. Even a trivial mean act will drag down a man from the hill top of his eminence.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९६५</summary>
@@ -25395,6 +33315,14 @@ With abrus-grain-like small default.        965
 नेह कीर्तिं परे स्वर्गं न यच्छेत् किं प्रयोजनम् ॥ ९६६॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९६६</summary>
+
+966 pukaḻiṉṟāl puttēḷnāṭṭu uyyātāl eṉmaṟṟu  
+ikaḻvārpiṉ ceṉṟu nilai.
+
+966\. Of what use is servility to one who despises you? It brings neither fame nor does it show the path to heaven.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९६६</summary>
 
 6\. புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்று  
@@ -25419,6 +33347,14 @@ It yields no fame, heaven's bliss neither.        966
 
 तिरस्कर्तारमाश्रित्य सलाभं जीवनादपि ।  
 ''तदकृत्वा मृतिं प्रापद्''इति कीर्तिर्विशिष्यते ॥ ९६७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६७</summary>
+
+967 oṭṭārpiṉ ceṉṟoruvaṉ vāḻtaliṉ annilaiyē  
+keṭṭāṉ eṉappaṭutal nṉṟu.
+
+967\. Better to die in poverty than to be servile to one that scorns you.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९६७</summary>
@@ -25447,6 +33383,14 @@ Than live as slaves of those who scorn.        967
 जीवनं देहरक्षार्थं तदा किं स्वर्गदायकम् ॥ ९६८॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९६८</summary>
+
+968 maruntōmaṟṟu ūṉōmpum vāḻkkai peruntakaimai  
+pīṭu aḻiyavanta iṭattu
+
+968\. When one’s honour is ruined, will the life that sustains the body confer immortality?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९६८</summary>
 
 8\. மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமை  
@@ -25473,6 +33417,14 @@ Even when one's honour is lost?        968
 माननाशो प्रसक्ते तु न जीवन्ति कुलोद्भवाः ॥ ९६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९६९</summary>
+
+969 mayirnīppiṉ vāḻāk kavarimā aṉṉār  
+uyirnīppar māṉam variṉ.
+
+969\. He whose honour is at stake lays down his life like the Yak that is shorn of its single hair.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९६९</summary>
 
 9\. மயிர்நீப்பின் வாழாக் கவரிமா அன்னார்  
@@ -25497,6 +33449,14 @@ Like a yak that loses its hair.        969
 
 मानहान्या विनष्टानां मानिनां महितं यशः ।  
 यशस्य बहुधा लोको मानयेत् पृथिवीतले ॥ ९७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९७०</summary>
+
+970 iḷivariṉ vāḻāta māṉam uṭaiyār  
+oḷitoḻutu ēttum ulaku
+
+970\. The world sings in praise of those noble persons who prefer death to dishonour.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९७०</summary>
@@ -25528,6 +33488,14 @@ Who will not live when honour fails.        970
 विनोत्साहं जीवनेच्छा महत्वाभाव उच्यते ॥ ९७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९७१</summary>
+
+971 oḷioruvaṟku uḷḷa veṟukkai iḷioruvaṟku  
+aḵtuiṟantu vāḻtum eṉal.
+
+971\. The glory of life is to achieve greatness. The poverty of life is to be lost to all glory.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९७१</summary>
 
 1\. ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்கு  
@@ -25552,6 +33520,14 @@ Devoid of that one's life is night.        971
 
 तुल्याः स्युर्जन्मना सर्वे किन्तु कर्मविभेदतः ।  
 महत्त्वतदाभावौ तु भिन्नौ जीवेषु तिष्ठतः ॥ ९७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९७२</summary>
+
+972 piṟappuokkum ellā uyirkkum ciṟappuovvā  
+ceytoḻil vēṟṟumai yāṉ.
+
+972\. It is not birth but deeds that mark men.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९७२</summary>
@@ -25580,6 +33556,14 @@ But work decides their varied worth.        972
 विना स्थानां श्रेष्ठकृत्यात् सामान्योऽपि महान् भवेत् ॥ ९७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९७३</summary>
+
+973 mēliruntum mēlallār mēlallar kīḻiruntum  
+kīḻallār kīḻal lavar.
+
+973\. One is not great because of one’s birth in a noble family; one is not low because of one’s low birth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९७३</summary>
 
 3\. மேலிருந்தும் மேலல்லார் மேலல்லர் கீழிருந்தும்  
@@ -25604,6 +33588,14 @@ The noble low not low they fare.        973
 
 यस्त्वात्मानं सद्गुणाद्यैः रक्षन् जीवति मानवः ।  
 महिमानं स विन्देत दृढचित्ता सती यथा ॥ ९७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९७४</summary>
+
+974 orumai makaḷirē pōlap perumaiyum  
+taṉṉaittāṉ koṇṭuoḻukiṉ uṇṭu.
+
+974\. Greatness springs from one’s own good conduct preserved like the sacred honour of a woman.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९७४</summary>
@@ -25632,6 +33624,14 @@ Is guarded by self-varacity.        974
 विहितेन पथा कर्तुं भवेयुः शक्तिशालिनः ॥ ९७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९७५</summary>
+
+975 perumai uṭaiyavar āṟṟuvār āṟṟiṉ  
+arumai uṭaiya ceyal.
+
+975\. Greatness achieves things difficult for others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९७५</summary>
 
 5\. பெருமை உடையவர் ஆற்றுவார் ஆற்றின்  
@@ -25656,6 +33656,14 @@ Do mighty deeds rare to achieve.        975
 
 ''महात्मनः पुरस्कृत्य यामस्तद्गतवर्त्मना'' ।  
 इति न स्यान्मतिर्नीचेष्वात्मश्लाघापरेषु च ॥ ९७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९७६</summary>
+
+976 ciṟiyār uṇarcciyuḷ illai periyāraip  
+pēṇikkoḷ vēmeṉṉum nōkku.
+
+976\. Littleness feels no reverence for the great.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९७६</summary>
@@ -25684,6 +33692,14 @@ The mind to seek and befriend the great.        976
 अस्थानपुरुषं प्राप्य तं कुर्याद् गर्वपूरितम् ॥ ९७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९७७</summary>
+
+977 iṟappōr irunta toḻiṟṟām ciṟappuntāṉ  
+cīral lavarkaṇ paṭiṉ.
+
+977\. Littleness is proud of its virtues.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९७७</summary>
 
 7\. இறப்பே புரிந்த தொழிற்றாம் சிறப்புந்தான்  
@@ -25708,6 +33724,14 @@ Wax with deeds of insolence.        977
 
 महत्वगुणशीलास्तु भवन्ति विनयान्विताः ।  
 तद्विहीना निजस्तोत्रकरणैकपरायणाः ॥ ९७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९७८</summary>
+
+978 paṇiyumām eṉṟum perumai ciṟumai  
+aṇiyumām taṉṉai viyantu.
+
+978\. Greatness is all humility; littleness is all arrogance.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९७८</summary>
@@ -25736,6 +33760,14 @@ Meanness vaunts with vanity        978
 निष्कारणमहङ्कारवत्ता नीचत्वलक्षणम् ॥ ९७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९७९</summary>
+
+979 perumai perumitam iṉmai ciṟumai  
+perumitam ūrntu viṭal.
+
+979\. Greatness is not conscious of its worth. Littleness is rooted in pride.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९७९</summary>
 
 9\. பெருமை பெருமிதம் இன்மை சிறுமை  
@@ -25760,6 +33792,14 @@ Littleness swells with that offence.        979
 
 महान्तः परदोषाणां दर्शने विमुखाः किल ।  
 अधमाः परदोषैकदर्शने नितरां प्रियाः ॥ ९८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९८०</summary>
+
+980 aṟṟam maṟaikkum perumai ciṟumaitāṉ  
+kuṟṟamē kūṟi viṭum.
+
+980\. Greatness hides the faults of others; littleness trumpets their faults alone.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९८०</summary>
@@ -25791,6 +33831,14 @@ Smallness defects alone proclaims.        980
 सहजास्तद्गुणास्तेषां भवेयुरिति शास्त्रिणः ॥ ९८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९८१</summary>
+
+981 kaṭaṉeṉpa nallavai ellām kaṭaṉaṟintu  
+cāṉṟāṇmai mēṟkoḷ pavarkku.
+
+981\. All virtues dwell in one who is alive to one’s nobility of conduct.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९८१</summary>
 
 1\. கடன்என்ப நல்லவை எல்லாம் கடன்அறிந்து  
@@ -25815,6 +33863,14 @@ Who are dutiful and sublime.        981
 
 आन्तरं गुणसौन्दर्यं स्यात्सौन्दर्यं महात्मनाम् ।  
 बाह्यं शरीरसौन्दर्यं न सौन्दर्यपदेरितम् ॥ ९८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९८२</summary>
+
+982 kuṇanalam cāṉṟōr nalaṉē piṟanalam  
+ennalattu uḷḷatūam aṉṟu.
+
+982\. Good conduct is the virtue of the great; all other things are but dross.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९८२</summary>
@@ -25843,6 +33899,14 @@ Than that there is nothing better.        982
 गुणाः पञ्च स्तम्भरूपाः श्रेष्ठ्यभारसमावहाः ॥ ९८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९८३</summary>
+
+983 aṉpunāṇ oppuravu kaṇṇōṭṭam vāymaiyoṭu  
+aintucālpu ūṉṟiya tūṇ.
+
+983\. Love, modesty, impartiality, sympathy and truthfulness are the five pillars of nobility.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९८३</summary>
 
 3\. அன்புநாண் ஓப்புரவு கண்ணோட்டம் வாய்மையொடு  
@@ -25867,6 +33931,14 @@ These five are virtue's resting place.        983
 
 अहिंसाधर्ममाश्रित्य तपस्तिष्ठति मुख्यतः ।  
 परापकारवैमुख्यगुणः श्रेष्ठ्यमुपाश्रयेत् ॥ ९८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९८४</summary>
+
+984 kollā nalattatu nōṉmai piṟartīmai  
+collā nalattatu cālpu.
+
+984\. Penance kills not, nobility slanders not.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९८४</summary>
@@ -25895,6 +33967,14 @@ Not to slander virtue sure.        984
 शत्रून् स्ववशमानेतुं विनयः कारणं भवेत् ॥ ९८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९८५</summary>
+
+985 āṟṟuvār āṟṟal paṇital atucāṉṟōr  
+māṟṟārai māṟṟum paṭai.
+
+985\. Humility is the strength of the great. It is the weapon that disarms the foe.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९८५</summary>
 
 5\. ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்  
@@ -25919,6 +33999,14 @@ A force that averts foes at length.        985
 
 असामानेषु नीचेषु वर्तनं विनयेन यत् ।  
 तन्महत्त्वं परिज्ञातुं निकषोपालतां व्रजेत् ॥ ९८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९८६</summary>
+
+986 cālpiṟkuk kaṭṭaḷai yāteṉiṉ tōlvi  
+tulaiyallār kaṇṇum koḷal.
+
+986\. The touchstone of nobility is to accept defeat even at the hands of inferiors.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९८६</summary>
@@ -25947,6 +34035,14 @@ Is the touch-stone of worthy men.        986
 महत्वगुणवत्तपि तदा व्यर्था भवेत् सताम् ॥ ९८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९८७</summary>
+
+987 iṉṉācey tārkkum iṉiyavē ceyyākkāl  
+eṉṉa payattatō cālpu.
+
+987\. What profits one’s nobility if good is not done even to those who do harm?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९८७</summary>
 
 7\. இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால்  
@@ -25971,6 +34067,14 @@ If it returns not joy for pain?        987
 
 मगत्वरूपसत्त्वेन सहितानां महात्मनाम् ।  
 लब्धं दारिद्र्यमप्येषां नापकर्षाय जायते ॥ ९८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९८८</summary>
+
+988 iṉmai oruvaṟku iḷivaṉṟu cālpeṉṉum  
+tiṇmaiuṇ ṭākap peṟiṉ.
+
+988\. Poverty is no disgrace to one of enduring nobility.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९८८</summary>
@@ -25999,6 +34103,14 @@ To one strong in good quality.        988
 प्राप्ते प्रलयकालेऽपि शौथिल्यं न हि विन्दते ॥ ९८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९८९</summary>
+
+989 ūḻi peyariṉum tāmpeyarār cāṉṟāṇmaikku  
+āḻi eṉappaṭu vār.
+
+989\. The sea may recede but noble men will remain steadfast.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९८९</summary>
 
 9\. ஊழி பெயரினும் தாம்பெயரார் சான்றாண்மைக்கு  
@@ -26023,6 +34135,14 @@ Who is a sea of virtue pure.        989
 
 महात्मनां महत्वाख्यगुणो यदि लयं व्रजेत् ।  
 सुविशाला मेदिनीयं भारं बोढं न शक्नुयात् ॥ ९९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९९०</summary>
+
+990 cāṉṟavar cāṉṟāṇmai kuṉṟiṉ irunilantāṉ  
+tāṅkātu maṉṉō poṟai.
+
+990\. Were the nobility of the noble to shrink, the vast firm earth would totter.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९९०</summary>
@@ -26054,6 +34174,14 @@ If from high virtue fall the great.        990
 विशिष्टगुणसंप्राप्तिः सुलभेति सतां मतम् ॥ ९९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९९१</summary>
+
+991 eṇpatattāl eytal eḷiteṉpa yārmāṭṭum  
+paṇpuṭaimai eṉṉum vaḻakku.
+
+991\. Be cautious and easy of access. You will command the homage of the world.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९९१</summary>
 
 1\. எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்  
@@ -26078,6 +34206,14 @@ Easily comes courteousness.        991
 
 प्रेम्णा प्रवर्तनं शुद्धविख्यातकुलजन्म च ।  
 द्वयमेतन्महत्वाख्यगुणं यच्छति कस्यचित् ॥ ९९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९९२</summary>
+
+992 aṉpuṭaimai āṉṟa kuṭippiṟattal ivviraṇṭum  
+paṇpuṭaimai eṉṉum vaḻakku.
+
+992\. Courtesy springs from love and noble lineage.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९९२</summary>
@@ -26106,6 +34242,14 @@ Develop courtesy and moral worth.        992
 गुणेन साम्यमेभिस्तु भवेच्छन्दानुवर्तनम् ॥ ९९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९९३</summary>
+
+993 uṟuppottal makkaḷoppu aṉṟāl veṟuttakka  
+paṇpottal oppatām oppu.
+
+993\. Mere physical features do not rank with men but only courtesy makes them ascend the scale.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९९३</summary>
 
 3\. உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்க  
@@ -26130,6 +34274,14 @@ It's likeness in kind courteousness.        993
 
 नीतिधर्मसमेतानां परोपकृतिशालिनाम् ।  
 महात्मनां गुणं लोकाः प्रशंसन्ति मदान्विताः ॥ ९९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९९४</summary>
+
+994 nayaṉoṭu naṉṟi purinta payaṉuṭaiyār  
+paṇpupā rāṭṭum ulaku.
+
+994\. The world respects the courtesy of those who are just and willing to do good.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९९४</summary>
@@ -26158,6 +34310,14 @@ Whose actions are just and benign.        994
 परानुसरणादज्ञा भवन्ति सुगुणान्विताः ॥ ९९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९९५</summary>
+
+995 nakaiyuḷḷum iṉṉātu ikaḻcci pakaiyuḷḷum  
+paṇpuḷa pāṭaṟivār māṭṭu.
+
+995\. Do not mock at others even in a sportive mood. There is virtue in being courteous even to a foe.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९९५</summary>
 
 5\. நகையுள்ளும் இன்னாது இகழ்ச்சி பகையுள்ளும்  
@@ -26182,6 +34342,14 @@ For contempt offends even in jest.        995
 
 विशिष्टगुणिनां सत्त्वाल्लोकोद्यापि प्रवर्तते ।  
 तदभावे प्रपञ्चोऽयं भुवि मग्नो भवेत् किल ॥ ९९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९९६</summary>
+
+996 paṇpuṭaiyārp paṭṭuṇṭu ulakam atuiṉṟēl  
+maṇpukku māyvatu maṉ.
+
+996\. The world is built on the wisdom of the noble and the good; but for them the entire world would be a heap of ruins.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९९६</summary>
@@ -26210,6 +34378,14 @@ Or it crumbles and falls to dust.        996
 लब्ध्वापि पादपसमा मन्यन्ते मानवैः समैः ॥ ९९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९९७</summary>
+
+997 arampōlum kūrmaiya rēṉum marampōlvar  
+makkaḷpaṇpu illā tavar.
+
+997\. Of what avail is one’s intelligence keen as the edge of the chist^? One is with the socks and gloves if one is not affable.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९९७</summary>
 
 7\. அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்  
@@ -26234,6 +34410,14 @@ Are like wooden blocks indocile.        997
 
 विना मैत्रीं विरोधं च कुर्वतां विषयेऽपि यः ।  
 गुणवान्न प्रवर्तेत् दोषयुक्तः स गण्यते ॥ ९९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९९८</summary>
+
+998 naṇpāṟṟār āki nayamila ceyvārkkum  
+paṇpāṟṟār ātal kaṭai.
+
+998\. To be failing in one’s courtesy even to one’s foe is sin.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ९९८</summary>
@@ -26262,6 +34446,14 @@ E'en to a base unfriendly breed.        998
 दिवसोऽपि प्रभायुक्तो दृश्येत् तमसावृतः ॥ ९९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ९९९</summary>
+
+999 nakalvallar allārkku māyiru ñālam  
+pakalumpāṟ paṭṭaṉṟ iruḷ.
+
+999\. Even the wide world darkens at noon to the sullen who fails to gladden the hearts of men.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ९९९</summary>
 
 9\. நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம்  
@@ -26286,6 +34478,14 @@ Even in day the earth is night.        999
 
 निर्गुणेनार्जितं वित्तं नोपयोगकरं भवेत् ।  
 यथा स्यात् पात्रदोषेण पयो माधुर्यवर्जितः ॥ १०००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०००</summary>
+
+1000 paṇpilāṉ peṟṟa peruñcelvam naṉpāl  
+kalantīmai yāltirintu aṟṟu.
+
+1000\. Of what' use is the wealth of the discourteous? It is like good milk spoilt by an unclean vessel.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०००</summary>
@@ -26317,6 +34517,14 @@ Is pure milk soured by impure vase.        1000
 मृतिं प्राप्तवतस्तस्य किं वित्तेन प्रयोजनम् ॥ १००१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १००१</summary>
+
+1001 vaittāṉvāy cāṉṟa perumporuL aḵtuṇṇāṉ  
+cettāṉ ceyakkiṭantatu il.
+
+1001\. He who does not make use of his hoarded wealth is really dead, though aliye; for he cannot do anything great.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १००१</summary>
 
 1\. வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்  
@@ -26341,6 +34549,14 @@ Unenjoyed, it is futile.        1001
 
 ''वित्तेन साध्यते सर्वम्''इति बुद्धया ह्युपार्जितम् ।  
 यो न दद्याद् ज्ञानशून्यः स नीचं जन्म विन्दते ॥ १००२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १००२</summary>
+
+1002 poruḷāṉām ellāmeṉṟu īyātu ivaṟum  
+maruḷāṉām māṇāp piṟappu.
+
+1002\. The birth of a ghost awaits a miser who thinks he gains everything by hoarding wealth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १००२</summary>
@@ -26369,6 +34585,14 @@ He hoards, gives not is born devil.        1002
 नार्जयन्ति परां कीर्तिं भारायन्ते भुवस्तु ते ॥ १००३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १००३</summary>
+
+1003 īṭṭam ivaṟi icaivēṇṭā vāṭavar  
+tōṟṟam nilakkup poṟai.
+
+1003\. He who prefers mere accumulation of wealth to glory is a burden unto the earth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १००३</summary>
 
 3\. ஈட்டம் இவறி இசைவேண்டா ஆடவர்  
@@ -26393,6 +34617,14 @@ Who hoards without a worthy deed.        1003
 
 सर्वैरस्पृहणीयस्य दानकृत्यमजानतः ।  
 किं वावशिष्यते तस्य मरणानन्तरं भुवि ॥ १००४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १००४</summary>
+
+1004 eccameṉṟu eṉeṇṇum kollō oruvarāl  
+naccap paṭāa tavaṉ.
+
+1004\. What awaits one if one cannot win the affections of others?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १००४</summary>
@@ -26421,6 +34653,14 @@ Who is for approach too unkind.        1004
 यदि न स्यात् कोटिसङ्ख्यधनपुञ्जेन किं फलम् ॥ १००५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १००५</summary>
+
+1005 koṭuppatūum tuyppatūum illārkku aṭukkiya  
+kōṭiuṇ ṭāyiṉum il.
+
+1005\. Of what avail is the untold wealth of one who neither gives nor enjoys it?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १००५</summary>
 
 5\. கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க்கு அடுக்கிய  
@@ -26445,6 +34685,14 @@ To give and enjoy whose heart is hard.        1005
 
 सत्पात्रदानरूपेण गुणेन रहितो नरः ।  
 स्वयं भोक्तुमनिच्छंश्च रोगः स्यात् स्वीयसम्पदाम् ॥ १००६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १००६</summary>
+
+1006 ētam peruñcelvam tāṉtuvvāṉ takkārkkuoṉṟu  
+ītal iliyalpilā tāṉ.
+
+1006\. Abundance of wealth is not a blessing but a curse to one who can neither enjoy it nor spend it on the deserving.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १००६</summary>
@@ -26473,6 +34721,14 @@ To worthy men is but a slur.        1006
 अनूढसुन्दरीप्राप्तवार्धकेन समं भवेत् ॥ १००७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १००७</summary>
+
+1007 aṟṟārkkoṉṟu āṟṟātāṉ celvam mikanalam  
+peṟṟāṉ tamiyaḷmūt taṟṟu.
+
+1007\. The wealth that is not spent on the needy is as barren as the withering charm of a spinster.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १००७</summary>
 
 7\. அற்றார்க்கொன்று ஆற்றாதான் செல்வம் மிகநலம்  
@@ -26497,6 +34753,14 @@ Is like a spinster-belle grown old.        1007
 
 ???? ।  
 ग्राममध्ये फलैः पूर्णो यथैव विषपादपः ॥ १००८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १००८</summary>
+
+1008 naccap paṭātavaṉ celvam naṭuvūruḷ  
+naccu marampaḻut taṟṟu.
+
+1008\. The wealth of a miser is like the fruit of a poison-tree in the heart of a village.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १००८</summary>
@@ -26525,6 +34789,14 @@ Is poison-fruit-tree amidst a town.        1008
 रक्षितं केनचिद्वित्तं लब्ध्वान्यः सुखमाप्नुयात् ॥ १००९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १००९</summary>
+
+1009 aṉporīit taṉceṟṟu aṟamnōkkātu īṭṭiya  
+oṇporuḷ koḷvār piṟar.
+
+1009\. Strangers inherit the great wealth of a miser who neither enjoys it nor gives.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १००९</summary>
 
 9\. அன்பொரீஇத் தற்செற்று அறநோக்காது ஈட்டிய  
@@ -26549,6 +34821,14 @@ In loveless, stingy, vicious hold.        1009
 
 वृष्टमेघः पुनर्नीरलाभाद् वृद्धिं यथाश्नुते ।  
 समृद्धनां च दारिद्र्य तथा तात्कालिकं भवेत् ॥ १०१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०१०</summary>
+
+1010 cīruṭaic celvar ciṟutuṉi māri  
+vaṟaṅkūrn taṉaiyatu uṭaittu.
+
+1010\. The short-lived poverty of the generous rich is the drought of rain-laden clouds.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०१०</summary>
@@ -26580,6 +34860,14 @@ Is like rainclouds growing thin.        1010
 नारीणां सहजा लज्जा ततो भिन्नैव दृश्यते ॥ १०११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०११</summary>
+
+1011 karumattāl nāṇutal nāṇut tirunutal  
+nallavar nāṇup piṟa.
+
+1011\. True modesty shrinks from littleness. All other forms of modesty are womanish.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०११</summary>
 
 1\. கருமத்தால் நாணுதல் நாணுத்; திருநுதல்  
@@ -26604,6 +34892,14 @@ The rest is blush of fair-faced dame.        1011
 
 अन्नं वस्त्रं तथान्यानि समानि स्युर्नृणां भुवि ।  
 सतां लज्जाविशिष्टत्वं विशेषगुण उच्यते ॥ १०१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०१२</summary>
+
+1012 ūṇuṭai eccam uyirkkellām vēṟalla  
+nāṇuṭaimai māntar ciṟappu.
+
+1012\. Common to all human beings are food and clothing and other necessaries of life. But what distinguishes them is modesty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०१२</summary>
@@ -26632,6 +34928,14 @@ Modesty marks the higher soul.        1012
 लज्जामाश्रित्य वर्तेत् महत्वाख्यगुणस्तथा ॥ १०१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०१३</summary>
+
+1013 ūṉaik kuṟitta uyirellām nāṇeṉṉum  
+naṉmai kuṟittatu cālpu.
+
+1013\. Man clings to his body. The noble clings to modesty.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०१३</summary>
 
 3\. ஊனைக் குறித்த உயிரெல்லாம் நாண்என்னும்  
@@ -26656,6 +34960,14 @@ Perfection has its home in blush.        1013
 
 लज्जैवाभरणं लोके गुणज्ञानां महात्मनाम् ।  
 गभीरगमनं तेषां लज्जाभावे न शोभते ॥ १०१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०१४</summary>
+
+1014 aṇiyaṉṟō nāṇuṭaimai cāṉṟōrkku aḵtiṉṟēl  
+piṇiyaṉṟō pīṭu naṭai.
+
+1014\. Disgraceful is the painted pomp of the life of the immodest.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०१४</summary>
@@ -26684,6 +34996,14 @@ Shameless swagger is vanity.        1014
 मत्वा यो लज्जते लज्जास्थानं तं मन्यते जनः ॥ १०१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०१५</summary>
+
+1015 piṟarpaḻiyum tampaḻipōl nāṇuvār nāṇukku  
+uṟaipati eṉṉum ulaku.
+
+1015\. The world finds the very abode of modesty in one who dreads one’s infamy and that of others.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०१५</summary>
 
 5\. பிறர்பழியும் தம்பழியும் நாணுவார் நாணுக்கு  
@@ -26708,6 +35028,14 @@ Who blush for their and other's blame.        1015
 
 निजात्मरक्षणोपायलज्जामप्राप्य सज्जनाः ।  
 विपुलां पृथिवीं चापि लब्धुं नेच्छन्ति सर्वदा ॥ १०१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०१६</summary>
+
+1016 nāṇvēli koḷḷātu maṉṉō viyaṉñālam  
+pēṇalar mēlā yavar.
+
+1016\. The great prefer modesty to the riches of the world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०१६</summary>
@@ -26736,6 +35064,14 @@ Without modesty's hedge and shield.        1016
 प्राणरक्षाकृते लज्जां न मुञ्चन्ति कदापि ते ॥ १०१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०१७</summary>
+
+1017 nāṇāl uyirait tuṟappar uyirpporuṭṭāl  
+nāṇtuṟavār nāṇāḷ pavar.
+
+1017\. Better retain modesty than cling to life. The noble would rather die than lose modesty.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०१७</summary>
 
 7\. நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்  
@@ -26760,6 +35096,14 @@ Loss of shame they won't outlive.        1017
 
 यदीयकृत्यं दृष्टान्ये भवेयुर्व्रीडयान्विताः ।  
 स्वयं न लज्जितो भूयात् तं धर्मो व्रीडया त्यजेत् ॥ १०१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०१८</summary>
+
+1018 piṟarnāṇat takkatu tāṉnāṇāṉ āyiṉ  
+aṟamnāṇat takkatu uṭaittu.
+
+1018\. One who does not shrink from what others blush at knows no righteousness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०१८</summary>
@@ -26788,6 +35132,14 @@ Who shameless does what others shame.        1018
 कस्यचित् सकलं श्रेयो लज्जाभावो व्यपोहति ॥ १०१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०१९</summary>
+
+1019 kulañcuṭum koḷkai piḻaippiṉ nalañcuṭum  
+nāṇiṉmai niṉṟak kaṭai.
+
+1019\. Lack of decorum disgraces a home; lack of modesty destroys everything good.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०१९</summary>
 
 9\. குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும்  
@@ -26812,6 +35164,14 @@ Want of shame harms every good grace.        1019
 
 लज्जाहीनमनस्कानां प्राणेन सह जीवनम् ।  
 सूत्रबद्धचलद्दारुप्रतिमातौल्यमावहेत् ॥ १०२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२०</summary>
+
+1020 nāṇakattu illār iyakkam marappāvai  
+nāṇāl uyirmaruṭṭi aṟṟu.
+
+1020\. The activity of those lacking in modesty is like that of a marionette.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०२०</summary>
@@ -26843,6 +35203,14 @@ Are string-led puppet show in fact.        1020
 इत्येवं कथनादन्यन्महत्त्वं नास्ति कस्यचित् ॥ १०२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०२१</summary>
+
+1021 karumam ceyaoruvaṉ kaitūvēṉ eṉṉum  
+perumaiyiṉ pīṭuuṭaiyatu il.
+
+1021\. Nothing is more exalted and manly than one’s ceaseless toil to uplift one’s own family.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०२१</summary>
 
 1\. கருமம் செயஒருவன் கைதூவேன் என்னும்  
@@ -26867,6 +35235,14 @@ Saying "I shall work without slack".        1021
 
 पूर्णज्ञानप्रयत्नाभ्यां युक्तेनाकुण्ठितेन च ।  
 कर्मणा कस्यचिद्वंशगौरवं बहु वर्धते ॥ १०२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२२</summary>
+
+1022 āḷviṉaiyum āṉṟa aṟivum eṉa_iraṇṭiṉ  
+nīḷviṉaiyāl nīḷum kuṭi.
+
+1022\. Manly effort and ripe wisdom exalt one’s family.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०२२</summary>
@@ -26895,6 +35271,14 @@ Ardent effort and ripe wisdom.        1022
 बद्ध्वा वस्त्रं दृढं कटतां साह्यं कुर्याद्विधिः स्वयम् ॥ १०२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०२३</summary>
+
+1023 kuṭiceyval eṉṉum oruvaṟkut teyvam  
+maṭitaṟṟut tāṉmun tuṟum.
+
+1023\. Even God girds up His loins in the service of one who strives for the glory of one’s family.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०२३</summary>
 
 3\. குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்  
@@ -26919,6 +35303,14 @@ Loin girt up God leads his ways.        1023
 
 स्वकुलौन्नत्यसिद्धयर्थं त्वरया यततां नृणाम् ।  
 विमर्शमन्तरा कार्यं निर्विघ्नं सेत्स्यति क्षणे ॥ १०२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२४</summary>
+
+1024 cūḻāmal tāṉē muṭiveytum taṅkuṭiyait  
+tāḻātu uñaṟṟu pavarkku.
+
+1024\. Success comes unbidden to one who exalts one’s family with unremitting toil.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०२४</summary>
@@ -26947,6 +35339,14 @@ No need for plan; their ends will gain.        1024
 तेन बान्धव्यमिच्छंस्तु लोकस्तमनुवर्तते ॥ १०२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०२५</summary>
+
+1025 kuṟṟam ilaṉāyk kuṭiceytu vāḻvāṉaic  
+cuṟṟamāc cuṟṟum ulaku.
+
+1025\. The world becomes kin to one who leads an unblemished householder’s life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०२५</summary>
 
 5\. குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்  
@@ -26971,6 +35371,14 @@ People around, his kinship claim.        1025
 
 स्वोत्पन्नकुलनिर्वाहशक्तिं सम्पाद्य जीवनम् ।  
 तात्त्विकं पौरुषं ताद्धि पुरुषाणां प्रशस्यते ॥ १०२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२६</summary>
+
+1026 nallāṇmai eṉpatu oruvaṟkut tāṉpiṟanta  
+illāṇmai ākkik koḷal.
+
+1026\. What is true manliness except perfect ordering of the house for its own glory?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०२६</summary>
@@ -26999,6 +35407,14 @@ Are deemed as men of manly worth.        1026
 शक्तस्तथा वहेद्वंशभारमन्येषु सत्स्वापि ॥ १०२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०२७</summary>
+
+1027 amarakattu vaṉkaṇṇar pōlat tamarakattu  
+āṟṟuvār mēṟṟē poṟai.
+
+1027\. The brunt of the battle falls on the victorious; the burden of the family on the competent few.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०२७</summary>
 
 7\. அமரகத்து வன்கண்ணார் போலத் தமரகத்தும்  
@@ -27023,6 +35439,14 @@ The home-burden rests on the bold.        1027
 
 कुलगौरवरक्षार्थं कालो नात्र प्रतीक्ष्यताम् ।  
 आलस्यात् कालकाङ्क्षायां हीयते कुलगौरवम् ॥ १०२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२८</summary>
+
+1028 kuṭiceyvārkku illai paruvam maṭiceytu  
+māṉam karutak keṭum.
+
+1028\. To pure householders there is no cessation of work. One’s false prestige leads to the ruin of one’s family.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०२८</summary>
@@ -27051,6 +35475,14 @@ Sloth and pride will honour efface.        1028
 शरीरं कस्यचित्किन्नु दुःखमात्रैकभाजनम् ॥ १०२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०२९</summary>
+
+1029 iṭumpaikkē koḷkalam kollō kuṭumpattaik  
+kuṟṟam maṟaippāṉ uṭampu.
+
+1029\. Is he who protects his family from the ills of life a mere vessel of suffering?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०२९</summary>
 
 9\. இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்  
@@ -27075,6 +35507,14 @@ Who from mishaps shields his house?        1029
 
 ???? ।  
 यस्मिन कुले भाविदुःखकुठाराभिहतः पतेत् ॥ १०३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०३०</summary>
+
+1030 iṭukkaṇkāl koṉṟiṭa vīḻum aṭuttūṉṟum  
+nallāḷ ilāta kuṭi.
+
+1030\. The axe of adversity falls on the family which has no noble son to shield it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०३०</summary>
@@ -27106,6 +35546,14 @@ With no good man to prop it up.         1030
 अतः क्लेशकरं चापि कृषिकर्म प्रशस्यते ॥ १०३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०३१</summary>
+
+1031 cuḻaṉṟumērp piṉṉatu ulakam ataṉāl  
+uḻaṉṟum uḻavē talai.
+
+1031\. After vain wanderings in search of callings the world returned to the plough.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०३१</summary>
 
 1\. சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால்  
@@ -27130,6 +35578,14 @@ Men ply at will but ploughmen lead.        1031
 
 अन्यकर्मकराणं च समेषां जीवधारणात् ।  
 जनानां कर्षकाः सर्वे तिष्ठन्त्यक्षाणिवद् भुवि ॥ १०३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०३२</summary>
+
+1032 uḻuvār ulakattārkku āṇiaḵtu āṟṟātu  
+eḻuvārai ellām poṟuttu.
+
+1032\. Husbandmen are the sheet-anchor of the world for on them depend lives of others.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०३२</summary>
@@ -27158,6 +35614,14 @@ Bearing the rest who cannot tend.        1032
 परान् संस्तुत्य जीवन्तः परे सर्वे पराश्रयाः ॥ १०३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०३३</summary>
+
+1033 uḻutuṇṭu vāḻvārē vāḻvārmaṟṟu ellām  
+toḻutuṇṭu piṉcel pavar.
+
+1033\. Only the husbandmen live; all others subsist on their toil.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०३३</summary>
 
 3\. உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்  
@@ -27182,6 +35646,14 @@ The rest behind them bow and eat.        1033
 
 धान्यसम्पत्समृद्धाश्च दयावन्तः कृषीवलाः ।  
 अन्यराज्ञां भुवं स्वीयराजाधीनं वितन्वते ॥ १०३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०३४</summary>
+
+1034 palakuṭai nīḻalum tamkuṭaikkīḻk kāṇpar  
+alakuṭai nīḻa lavar.
+
+1034\. It is the husbandmen that bring the might of the kings under the sway of their own sovereign.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०३४</summary>
@@ -27210,6 +35682,14 @@ Under their umbra umbrellas rest.        1034
 न याचन्ते परान्, किन्तु यच्छन्त्यल्पमथार्थिनाम् ॥ १०३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०३५</summary>
+
+1035 iravār irappārkkoṉṟu īvar karavātu  
+kaiceytūṇ mālai yavar.
+
+1035\. A toiling peasant never begs but gives.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०३५</summary>
 
 5\. இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது  
@@ -27234,6 +35714,14 @@ But give to those who are in need.        1035
 
 कृषिवालानां हस्तास्तु कृषिहीनो भवेद्यदि ।  
 विरक्तानां यतीनां च जीवनं दुर्लभं तदा ॥ १०३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०३६</summary>
+
+1036 uḻaviṉār kaimmaṭaṅkiṉ illai viḻaivatūum  
+viṭṭēmeṉ pārkkum nilai.
+
+1036\. Even the anchorite ceases from penance if husbandmen sit with their hands folded.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०३६</summary>
@@ -27262,6 +35750,14 @@ Desire-free monks too suffer wants.        1036
 दोहदं मुष्टिमात्रं च विना भूः स्यात् फलप्रदा ॥ १०३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०३७</summary>
+
+1037 toṭippuḻuti kaḵcā uṇakkiṉ piṭitteruvum  
+vēṇṭātu cālap paṭum.
+
+1037\. Let the land be allowed to dry with dust. Even a handful of manure is not needed for a good harvest.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०३७</summary>
 
 7\. தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்  
@@ -27286,6 +35782,14 @@ Rich crops without handful manure.        1037
 
 कर्षणाद् दोहदं श्रेष्ठं द्वयं कृत्वा ततस्तृणम् ।  
 निष्कास्य रक्षणाद्भूमेः न मुख्यं जलसेचनम् ॥ १०३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०३८</summary>
+
+1038 ēriṉum naṉṟāl eruiṭutal kaṭṭapiṉ  
+nīriṉum naṉṟataṉ kāppu.
+
+1038\. After weeding, let the land be guarded, for more important than water is the protection of crops.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०३८</summary>
@@ -27314,6 +35818,14 @@ Than irrigating, better guard.        1038
 भूमिरप्रीतिपत्नीव विरक्ता तं परित्यजेत् ॥ १०३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०३९</summary>
+
+1039 cellāṉ kiḻavaṉ iruppiṉ nilampulantu  
+illāḷiṉ ūṭi viṭum.
+
+1039\. The land neglected by its owner puts on the appearance of a sulky woman abandoned by her lord.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०३९</summary>
 
 9\. செல்லான் கிழவன் இருப்பின் நிலம்புலந்து  
@@ -27338,6 +35850,14 @@ The field like wife will sulk and pout.        1039
 
 ''दरिद्रा वयम्''इत्युक्त्वा कृषिकर्मपराङ्मुखान् ।  
 तान् समीक्ष्याथ भूदेवो हसेदज्ञानसंयुतान् ॥ १०४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०४०</summary>
+
+1040 ilameṉṟu acaii ippāraik kāṇiṉ  
+nilameṉṉum nallāḷ nakum.
+
+1040\. Mother earth laughs in scorn at those who plead poverty  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०४०</summary>
@@ -27369,6 +35889,14 @@ Idlers pleading poverty.        1040
 इति प्रश्नस्य दारिद्र्येमेवेत्युत्तरमुच्यताम् ॥ १०४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०४१</summary>
+
+1041 iṉmaiyiṉ iṉṉātatu yāteṉiṉ iṉmaiyiṉ  
+iṉmaiyē iṉṉā tatu.
+
+1041\. There is no greater evil than poverty!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०४१</summary>
 
 1\. இன்மையின் இன்னாதது யாதெனின் இன்மையின்  
@@ -27393,6 +35921,14 @@ No pain pinches like poverty.        1041
 
 लभेत् सहवासं यो दारिद्र्याभिधपापिना ।  
 ऐहिकामुष्मिकसुखं न विन्देत् स मानवः ॥ १०४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०४२</summary>
+
+1042 iṉmai eṉaoru pāvi maṟumaiyum  
+immaiyum iṉṟi varum.
+
+1042\. Poverty is an evil which blasts at once the joys of earth and of heaven.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०४२</summary>
@@ -27421,6 +35957,14 @@ Of joys of earth and heaven there.        1042
 कुलश्रैष्ठ्यं च कीर्तिश्च तं विहाय विनिःसरेत् ॥ १०४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०४३</summary>
+
+1043 tolvaravum tōlum keṭukkum tokaiyāka  
+nalkuravu eṉṉum nacai.
+
+1043\. Poverty which springs of avarice ruins one’s ancestry and its fair name.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०४३</summary>
 
 3\. தொல்வரவும் தோலும் கெடுக்கும் தொகையாக  
@@ -27445,6 +35989,14 @@ Kills graceful words and ancestry.        1043
 
 महाकुलप्रसूतानामुत्तमानां वचस्यापि ।  
 नीचवाक्यप्रयोगाख्यदोषो दारिद्र्यतो भवेत् ॥ १०४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०४४</summary>
+
+1044 iṟpiṟantār kaṇṇēyum iṉmai iḷivanta  
+colpiṟakkum cōrvu tarum.
+
+1044\. Dejection due to poverty makes the noble utter the language of the base.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०४४</summary>
@@ -27473,6 +36025,14 @@ Utter words that are low and mean.        1044
 भिन्नभिन्नान्यनेकानि दुःखानि प्रविशन्ति तान् ॥ १०४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०४५</summary>
+
+1045 nalkuravu eṉṉum iṭumpaiyuḷ palkurait  
+tuṉpaṅkaḷ ceṉṟu paṭum.
+
+1045\. Poverty in itself an evil is the mother of all ills.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०४५</summary>
 
 5\. நல்குரவு என்னும் இடும்பையுள் பல்குரைத்  
@@ -27497,6 +36057,14 @@ Brings a train of misery.        1045
 
 दारिद्राः शास्त्रतत्त्वर्थज्ञानवन्तोऽपि तद्वचः ।  
 न कोऽपि श्रुणुयाल्लोके व्यर्थमेव भवेद्वचः ॥ १०४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०४६</summary>
+
+1046 naṟporuḷ naṉkuṇarntu colliṉum nalkūrntār  
+coṟporuḷ cōrvu paṭum.
+
+1046 The words of the poor, though born of experience and wisdom are not listened to.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०४६</summary>
@@ -27525,6 +36093,14 @@ Though from heart good things they say.        1046
 जननी तमुदासीनं मत्वा दूरीकरोत्यहो ॥ १०४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०४७</summary>
+
+1047 aṟañcārā nalkuravu īṉṟatā yāṉum  
+piṟaṉpōla nōkkap paṭum.
+
+1047\. Even a mother turns her back on one whose poverty is devoid of probity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०४७</summary>
 
 7\. அறஞ்சாரா நல்குரவு ஈன்றதா யானும்  
@@ -27549,6 +36125,14 @@ The poor devoid of character.        1047
 
 मरणान्तकरक्रूरदारिद्र्यानुभवव्यथा ।  
 श्चः पुनः किं भवेद्वेति दरिद्रः चिन्तयेत् सदा ॥ १०४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०४८</summary>
+
+1048 iṉṟum varuvatu kollō nerunalum  
+koṉṟatu pōlum nirappu.
+
+1048\. Oh, how I dread it I Will that beggary that almost killed me yesterday assail me today also?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०४८</summary>
@@ -27577,6 +36161,14 @@ Will it pester me even to-day?        1048
 परं दरिद्रावस्थायां स्वप्तुं को वा भवेत् क्षमः ॥ १०४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०४९</summary>
+
+1049 neruppiṉuḷ tuñcalum ākum nirappiṉuḷ  
+yātoṉṟum kaṇpāṭu aritu.
+
+1049\. One may sleep in the midst of scorching fire. But the poverty-stricken know no sleep.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०४९</summary>
 
 9\. நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்  
@@ -27601,6 +36193,14 @@ In want a wink of sleep is rare.        1049
 
 भोग्यार्थवस्तुरहितदरिद्रा रागवर्जिताः ।  
 यवागूलवणार्थं तैर्भिक्षुत्वं नाप्यगृह्यत ॥ १०५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०५०</summary>
+
+1050 tuppuravu illār tuvarat tuṟavāmai  
+uppiṟkum kāṭikkum kūṟṟu.
+
+1050\. The indigent that do not renounce the world batten on other man’s salt and porridge.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०५०</summary>
@@ -27632,6 +36232,14 @@ Or salt and gruel go to waste.        1050
 दातुर्नेति वचस्तस्य दोषाय स्यान्न चार्थिनाम् ॥ १०५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०५१</summary>
+
+1051 irakka irattakkārk kāṇiṉ karappiṉ  
+avarpaḻi tampaḻi aṉṟu.
+
+1051\. Beg if you meet people who can give. If they refuse, it is their fault, not yours.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०५१</summary>
 
 1\. இரக்க இரத்தக்கார்க் காணின் கரப்பின்  
@@ -27656,6 +36264,14 @@ Default is theirs when they deny.        1051
 
 याचको वाञ्छितं वस्तु लभेत् दातरि ।  
 याचनापि तदा तस्य मोददा न तु दुःखदा ॥ १०५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०५२</summary>
+
+1052 iṉpam oruvaṟku irattal irantavai  
+tuṉpam uṟāa variṉ.
+
+1052\. Begging would be pleasant to one if one were to achieve one’s object without causing pain.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०५२</summary>
@@ -27684,6 +36300,14 @@ When the things comes without annoy.        1052
 अर्थिनां याचनं चापि नूनं श्रेष्ठ्याय भूयते ॥ १०५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०५३</summary>
+
+1053 karappilā neñciṉ kaṭaṉaṟivār muṉniṉṟu  
+irappumōr ēr uṭaittu.
+
+1053\. There is a grace even in begging of one noble and generous of heart.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०५३</summary>
 
 3\. கரப்பிலா நெஞ்சின் கடனறிவார் முன்நின்று  
@@ -27708,6 +36332,14 @@ Who know the duty on their part.        1053
 
 स्वप्नेऽपि कपटं वाक्यं प्रयोक्तुमविजानतः ।  
 दातुरग्रे याचनापि दानेन सादृशं भवेत् ॥ १०५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०५४</summary>
+
+1054 irattalum ītalē pōlum karattal  
+kaṉavilum tēṟṟātār māṭṭu.
+
+1054\. Begging is endowed with all the grace of giving when the noble guest does not fail of his gifts even in dreams.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०५४</summary>
@@ -27736,6 +36368,14 @@ From those who hide not even in dreams.        1054
 अद्यापि सत्वाद्दातृणामग्रे तिष्ठन्ति याचकाः ॥ १०५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०५५</summary>
+
+1055 karappilār vaiyakattu uṇmaiyāṉ kaṇṇiṉṟu  
+irappavar mēṟkoḷ vatu.
+
+1055\. There is beggary because of persons touched by its very presence.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०५५</summary>
 
 5\. கரப்பிலார் வையகத்து உண்மையால் கண்ணின்று  
@@ -27760,6 +36400,14 @@ The world has men who don't refuse.        1055
 
 विहाय कपटं तत्त्ववक्तुर्दातुर्हि दर्शनात् ।  
 याचकानां सुदारिद्र्यदुःखं नश्येत्स्वतोऽखिलम् ॥ १०५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०५६</summary>
+
+1056 karappiṭumpai illāraik kāṇiṉ nirappiṭumpai  
+ellām oruṅku keṭum.
+
+1056\. All the indignities of begging vanish in the presence of the truly generous who know not the sin of withholding gifts.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०५६</summary>
@@ -27788,6 +36436,14 @@ Before the free who don't deny.        1056
 दातृन् दृष्ट्वा याचकस्तु मनस्यन्तः प्रमोदते ॥ १०५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०५७</summary>
+
+1057 ikaḻntueḷḷātu īvāraik kāṇiṉ makiḻntuḷḷam  
+uḷḷuḷ uvappatu uṭaittu.
+
+1057\. Mendicancy inwardly rejoices in the bounty of the generous free of scorn.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०५७</summary>
 
 7\. இகழ்ந்தெள்ளாது ஈவாரைக் காணின் மகிழ்ந்துள்ளம்  
@@ -27812,6 +36468,14 @@ A thrill of delight fills the heart.        1057
 
 याचकानामभावे तु नराणां भुवि जीवनम् ।  
 सूत्राकृष्टचलद्दारुबिम्बवत् कृत्रिमं भवेत् ॥ १०५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०५८</summary>
+
+1058 irappārai illāyiṉ īrṅkaṇmā ñālam  
+marappāvai ceṉṟuvan taṟṟu.
+
+1058\. Were there to be no mendicancy the vast world would be peopled with men moving like dolls.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०५८</summary>
@@ -27840,6 +36504,14 @@ Sans Askers like a puppet show.        1058
 न याचन्ते यदि तदा महिमा स्यात् कथं प्रभोः ॥ १०५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०५९</summary>
+
+1059 īvārkaṇ eṉṉuṇṭām tōṟṟam irantukōḷ  
+mēvāril ilāak kaṭai.
+
+1059\. If there be no beggars in the world, will there be any glory for the bountiful?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०५९</summary>
 
 9\. ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள்  
@@ -27864,6 +36536,14 @@ Without obligation seekers?        1059
 
 अर्थिभिर्विजितक्रोधैर्भाव्यं क्षेमार्थिभिः सदा ।  
 दारिद्र्यं स्वगतं स्वस्य भवेद् ज्ञानप्रदायकम् ॥ १०६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०६०</summary>
+
+1060 irappāṉ vekuḷāmai vēṇṭum nirappiṭumpai  
+tāṉēyum cālum kari.
+
+1060\. Do not chafe against the hunks for inevitable is the pain of poverty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०६०</summary>
@@ -27895,6 +36575,14 @@ His need anothers' need must show.        1060
 अग्रेऽपि याचनाभावः श्रेष्ठः कोटिगुणो मतः ॥ १०६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०६१</summary>
+
+1061 karavātu uvantīyum kaṇṇaṉṉār kaṇṇum  
+iravāmai kōṭi uṟum.
+
+1061\. A million times blessed is he who refrains from begging even from the generous delighting in charity.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०६१</summary>
 
 1\. கரவாது உவந்தீயும் கண்ணன்னார் கண்ணும்  
@@ -27919,6 +36607,14 @@ E'en from eye-like friends who give with mirth.        1061
 
 केषाञ्चिद्याचनावृत्तिमीशः शिरसि चेल्लिखेत् ।  
 लोककर्ता निर्दयोऽसौ स्वयं भवतु याचकः ॥ १०६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०६२</summary>
+
+1062 irantum uyirvāḻtal vēṇṭiṉ parantu  
+keṭuka ulakiyaṟṟi yāṉ.
+
+1062\. May the creator of the world perish if he has ordained life only through mendicancy?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०६२</summary>
@@ -27947,6 +36643,14 @@ If "beg and live" be human fate.        1062
 यत्नशून्येन सदृशो मूर्खो नास्ति व्यथाकरः ॥ १०६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०६३</summary>
+
+1063 iṉmai iṭumpai irantutīr vāmeṉṉum  
+vaṉmaiyiṉ vaṉpāṭṭatu il.
+
+1063\. There is no greater folly than the thought of wiping out poverty by beggary.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०६३</summary>
 
 3\. இன்மை இடும்பை இரந்துதீர் வாமென்னும்  
@@ -27971,6 +36675,14 @@ Nothing is hard like hard saying
 
 दारिद्र्यप्राप्तिकालेऽपि याच्ञाकार्यमकुर्वताम् ।  
 महत्वं सकलां पृथ्वीं समभिव्याप्य राजते ॥ १०६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०६४</summary>
+
+1064 iṭamellām koḷḷāt takaittē iṭamillāk  
+kālum iravollāc cālpu.
+
+1064\. The greatness of refusing to beg even in adversity transcends the glory of the world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०६४</summary>
@@ -27999,6 +36711,14 @@ Who beg not e'en in want acute.        1064
 पानादप्यधिको मोददायको नास्ति कश्चन ॥ १०६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०६५</summary>
+
+1065 teṇṇīr aṭupuṟkai āyiṉum tāḷtantatu  
+uṇṇaliṉ ūṅkuiṉiyatu il.
+
+1065\. Nothing is sweeter than the thin porridge earned by the sweat of one’s brow.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०६५</summary>
 
 5\. தெண்ணீர் அடுபுற்கை யாயினும் தாள்தந்தது  
@@ -28023,6 +36743,14 @@ Like the food earned by labour's sweat.        1065
 
 पशुरक्षणधार्मार्थं जलयाचनरूपकम् ।  
 कर्मापि याचनाकर्तुः जिह्वाया दोषदं भवेत् ॥ १०६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०६६</summary>
+
+1066 āviṟku nīreṉṟu irappiṉum nāviṟku  
+iraviṉ iḷivantatu il.
+
+1066\. It is a heinous sin to beg for water even for a cow crying of thirst.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०६६</summary>
@@ -28051,6 +36779,14 @@ Begging tongue is mean anyhow.        1066
 न कार्या याचनेत्युक्त्वा याचेऽहं याचकान् प्रति ॥ १०६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०६७</summary>
+
+1067 irappaṉ irappārai ellām irappiṉ  
+karappār iravaṉmiṉ eṉṟu.
+
+1067\. I implore beggars not to beg of people who hide their wealth.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०६७</summary>
 
 7\. இரப்பன் இரப்பாரை எல்லாம் இரப்பின்  
@@ -28075,6 +36811,14 @@ Not to beg from shrinking misers.        1067
 
 दारिद्र्याम्बुधिसन्तारहेतुयाचननाविका ।  
 कापट्याख्यशिलाभूम्या घर्षिता शिथिला भवेत् ॥ १०६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०६८</summary>
+
+1068 iravueṉṉum ēmāppil tōṇi karavueṉṉum  
+pārtākkap pakku viṭum.
+
+1068\. The unavailing canoe of begging gets wrecked on the rock of refusal.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०६८</summary>
@@ -28103,6 +36847,14 @@ On the rock of refusing hits.        1068
 कापट्यदोषस्मरणे न द्रवेत्, किन्तु नश्यति ॥ १०६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०६९</summary>
+
+1069 iravuḷḷa uḷḷam urukum karavuḷḷa  
+uḷḷatūum iṉṟik keṭum.
+
+1069\. The mere thought of begging melts one’s heart. It breaks at one’s denial.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०६९</summary>
 
 9\. இரவுள்ள உள்ளம் உருகும் கரவுள்ள  
@@ -28127,6 +36879,14 @@ It dies at repulsing insults.        1069
 
 नेति श्रवणमात्रेण प्राणो गच्छति चार्थिनाम् ।  
 स्थितेऽपि नेति ब्रुवतां प्राणश्छन्नो वसेत् किमु ॥ १०७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०७०</summary>
+
+1070 karappavarkku yāṅkoḷikkum kollō irappavar  
+collāṭap pōom uyir.
+
+1070\. A rebuff takes the life out of the beggar. But can the deceitful escape death?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०७०</summary>
@@ -28158,6 +36918,14 @@ Where can the niggard's life be safe?        1070
 इदं साम्यन्त्वन्यवस्तुद्विके द्रष्टुं न शक्यते ॥ १०७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०७१</summary>
+
+1071 makkaḷē pōlvar kayavar avaraṉṉa  
+oppāri yāmkaṇṭatu il.
+
+1071\. Ignoble men are only touched with human shapes. Rare indeed are such specimens.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०७१</summary>
 
 1\. மக்களே போல்வர் கயவர் அவரன்ன  
@@ -28182,6 +36950,14 @@ We have never seen such a sham.        1071
 
 विवेकज्ञानवद्भयोऽपि नीचाः स्युर्भाग्यशालिनः ।  
 यतस्तैः सदसच्चिन्ता कापि न क्रियते किल ॥ १०७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०७२</summary>
+
+1072 naṉṟaṟi vāriṉ kayavar tiruvuṭaiyār  
+neñcattu avalam ilar.
+
+1072\. Blessed are the base who are ignorant of the good. Verily they are never ill at ease.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०७२</summary>
@@ -28210,6 +36986,14 @@ For no care enters their heart or head.        1072
 स्वेच्छया वाञ्छितं कार्यमुभाभ्यां क्रियते यतः ॥ १०७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०७३</summary>
+
+1073 tēvar aṉaiyar kayavar avarumtām  
+mēvaṉa ceytuoḻuka lāṉ.
+
+1073\. Mean men resemble unruly gods, for they know no law.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०७३</summary>
 
 3\. தேவர் அனையர் கயவர் அவருந்தாம்  
@@ -28234,6 +37018,14 @@ As prompted by their desire do.        1073
 
 भुवि नीचजनाः स्वस्मादपि नीचान् समीक्श्य तु ।  
 ''तस्मादपि वयं श्रेष्ठं'' इति स्युर्ममतापराः ॥ १०७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०७४</summary>
+
+1074 akappaṭṭi āvāraik kāṇiṉ avariṉ  
+mikappaṭṭuc cemmākkum kīḻ.
+
+1074\. The mean fought their superiority among men baser than them.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०७४</summary>
@@ -28262,6 +37054,14 @@ Him he will exceed, exult and smile.        1074
 सच्चारित्रसमेताः स्युस्ते लब्धुं वाञ्छितं क्कचित् ॥ १०७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०७५</summary>
+
+1075 accamē kīḻkaḷatu ācāram eccam  
+avāvuṇṭēl uṇṭām ciṟitu.
+
+1075\. Fear and desire rule the conduct of the base.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०७५</summary>
 
 5\. அச்சமே கீழ்களது ஆசாரம் எச்சம்  
@@ -28286,6 +37086,14 @@ Craving avails a bit below.        1075
 
 श्रुतानेकरहस्यानां स्वयं गत्वा बहुस्थालीम् ।  
 प्रसारणात् प्रचारार्थपटहाः सन्ति दुर्जनाः ॥ १०७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०७६</summary>
+
+1076 aṟaipaṟai aṉṉar kayavartām kēṭṭa  
+maṟaipiṟarkku uytturaikka lāṉ.
+
+1076\. The base are like the drum for they noise abroad the secrets of men.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०७६</summary>
@@ -28314,6 +37122,14 @@ Since other's secrets they proclaim.        1076
 परेषामधमो भुक्तसिक्तहस्तं न दर्शयेत् ॥ १०७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०७७</summary>
+
+1077 īrṅkai vitirār kayavar koṭiṟuṭaikkum  
+kūṉkaiyar allā tavarkku.
+
+1077\. The base part with their crumbs only to a clenched hand.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०७७</summary>
 
 7\. ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்கும்  
@@ -28338,6 +37154,14 @@ But for fists clenched their jaws to break.        1077
 
 दुःखश्रवणमात्रेण सन्तः स्युरुपकारिणः ।  
 नीचाः स्युरिक्षुवत्पिष्टा भवन्ति सहकारिणः ॥ १०७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०७८</summary>
+
+1078 collap payaṉpaṭuvar cāṉṟōr karumpupōl  
+kollap payaṉpaṭum kīḻ.
+
+1078\. Even the least cry of distress touches the heart of the good; but squeezing goodness out of the vile is like crushing the sugar-cane.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०७८</summary>
@@ -28366,6 +37190,14 @@ The cane-like base when crushed and killed.        1078
 असूयया मृषादोषान् सदा शंसन्ति तेष्वपि ॥ १०७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०७९</summary>
+
+1079 uṭuppatūum uṇpatūum kāṇiṉ piṟarmēl  
+vaṭukkāṇa vaṟṟākum kīḻ.
+
+1079\. The base envy others in their food and clothing and slander them.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०७९</summary>
 
 9\. உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்  
@@ -28390,6 +37222,14 @@ On seeing how they eat and dress.        1079
 
 आत्मानमपि नीचास्तु विक्रेतुं व्यसनागमे ।  
 सज्जा भवेयुः, सत्कर्म नान्यत् तैः कर्तुमिष्यते ॥ १०८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०८०</summary>
+
+1080 eṟṟiṟku uriyar kayavaroṉṟu uṟṟakkāl  
+viṟṟaṟku uriyar viraintu.
+
+1080\. What are the base men fit for? They hasten only to sell themselves in adversity.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०८०</summary>
@@ -28428,6 +37268,14 @@ From doom to flit and nothing else.        1080
 अथवा मानुषीत्येवं प्राप्नोति मे मनः ॥ १०८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०८१</summary>
+
+1081 aṇaṅkukol āymayil kollō kaṉaṅkuḻai  
+mātarkol mālumeṉ neñcu.
+
+1081\. Is this a goddess fair? Or is it a rare peacock? Or, is it a mortal with heavy ear-rings? My mind is perplexed in the extreme.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०८१</summary>
 
 1\. அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை  
@@ -28452,6 +37300,14 @@ Or jewelled belle? To my mind a shock!        1081
 
 मया दृष्टा रमणी यत्पुनर्मां च पश्यति ।  
 सैन्येन सह मां योद्धुं कि प्रापदिति तद्वभौ ॥ १०८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०८२</summary>
+
+1082 nōkkiṉāḷ nōkketir nōkkutal tākkaṇaṅku  
+tāṉaikkoṇ ṭaṉṉatu uṭaittu.
+
+1082\. The glance she returns for mine resembles that of a terrible goddess leading an army.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०८२</summary>
@@ -28480,6 +37336,14 @@ Are armied dart of the Love-Angel.        1082
 क्रूराक्षश्चाङ्गनारूपो जीवत्येष न संशयः ॥ १०८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०८३</summary>
+
+1083 paṇṭaṟiyēṉ kūṟṟueṉ pataṉai iṉiyaṟintēṉ  
+peṇṭakaiyāl pēramark kaṭṭu.
+
+1083\. The god of death I never knew. Now I behold him in the shape of this woman with battling eyes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०८३</summary>
 
 3\. பண்டறியேன் கூறறென் பதனை இனியறிந்தேன்  
@@ -28504,6 +37368,14 @@ In woman's guise with battling eyes.        1083
 
 नारीगुणसमेतायास्तस्यास्ते क्रूरचक्षुषी ।  
 द्रष्टणां प्राणनाशार्थमुद्युक्ते तिष्ठतः सदा ॥ १०८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०८४</summary>
+
+1084 kaṇṭār uyiruṇṇum tōṟṟattāl peṇtakaip  
+pētaikku amarttaṉa kaṇ.
+
+1084\. The cruel eyes of this woman seem to devour the lives of those on whom they fall.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०८४</summary>
@@ -28532,6 +37404,14 @@ That drink the life of men who gaze.        1084
 त्रयाणामपि सदृश्यं दृष्टयामस्यास्तु दृश्यते ॥ १०८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०८५</summary>
+
+1085 kūṟṟamō kaṇṇō piṇaiyō maṭavaral  
+nōkkamim mūṉṟum uṭaittu.
+
+1085\. Oh, how the death-dealing antelope-eyes of the lady charm and puzzle me!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०८५</summary>
 
 5\. கூற்றமோ கண்ணோ பிணையோ மடவரல்  
@@ -28556,6 +37436,14 @@ In winsome woman's look I see.        1085
 
 भ्ररस्यास्त्वार्जवं प्राप्य वक्रतां यदि मुञ्चति ।  
 तस्यास्तदा दृष्टिपातं सा नूनं मयि वारयेत् ॥ १०८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०८६</summary>
+
+1086 koṭumpuruvam kōṭā maṟaippiṉ naṭuṅkañar  
+ceyyala maṉivaḷ kaṇ.
+
+1086\. Her cruel eyes, had they not been shaded by her brows, would have made me quail and shudder.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०८६</summary>
@@ -28584,6 +37472,14 @@ Her eyes won't cause me trembling pain.        1086
 प्रत्तेभकायसञ्च्छन्नमुखवस्त्रसमं भवेत् ॥ १०८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०८७</summary>
+
+1087 kaṭāak kaḷiṟṟiṉmēl kaṭpaṭām mātar  
+paṭāa mulaimēl tukil.
+
+1087\. The garment over the ample swell of her bosom is like the cloth on the face of a wild elephant.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०८७</summary>
 
 7\. கடாஅக் களிற்றின்மேல் கட்படாம் மாதர்  
@@ -28608,6 +37504,14 @@ Looks like rutting tusker's eye-cover.        1087
 
 समरे शत्रुवित्रासहेतुभृतं बलं मम ।  
 रमणीरम्यफालेन नृनमासीत् पराजितम् ॥ १०८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०८८</summary>
+
+1088 oṇṇutaṟ kōo uṭaintatē ñāṭpiṉuḷ  
+naṇṇārum uṭkumeṉ pīṭu.
+
+1088\. My might which has struck terror in the heart of the foe who has only heard of my prowess lies overthrown before her splendid face.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०८८</summary>
@@ -28636,6 +37540,14 @@ Feared by foemen yet to meet.        1088
 सहिताया रमण्यास्तु मण्डनैर्मण्डनं वृथा ॥ १०८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०८९</summary>
+
+1089 piṇaiyēr maṭanōkkum nāṇum uṭaiyāṭku  
+aṇiyavaṉō ētila tantu.
+
+1089\. What need of ornament has this lady of modesty, adorned with the glances of an antelope?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०८९</summary>
 
 9\. பிணையேர் மடநோக்கும் நாணும் உடையாட்கு  
@@ -28660,6 +37572,14 @@ With fawn-like looks and modesty?        1089
 
 कामो यथा स्वद्रष्टणां विषयोऽपि मुदावहः ।  
 न तथा मदिरा, किन्तु मोदयेत् प्रायिनं परम् ॥ १०९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०९०</summary>
+
+1090 uṇṭārkaṇ allatu aṭunaṟāk kāmampōl  
+kaṇṭār makiḻceytal iṉṟu.
+
+1090\. Wine intoxicates the person when only drunk but love inebriates the soul even by a mere look.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०९०</summary>
@@ -28690,6 +37610,14 @@ Nothing delights like love at sight.        1090
 मह्यं रोगं ददात्येका श्मयत्यपरा तु तम् ॥ १०९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०९१</summary>
+
+1091 irunōkku ivaḷuṇkaṇ uḷḷatu orunōkku  
+nōynōkkoṉṟu annōy maruntu.
+
+1091\. The glances of her collirium-painted eyes have a double sway. One wounds and the other heals.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०९१</summary>
 
 1\. இருநோக்கு இவளுண்கண் உள்ளது ஒருநோக்கு  
@@ -28714,6 +37642,14 @@ One hurts; the other heals my heart.        1091
 
 तस्याः क्षणिकदृष्टिर्या सकूतं प्रेरिता मयि ।  
 न सा कामार्घभागा स्यात् ततोऽपि महती किल ॥ १०९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०९२</summary>
+
+1092 kaṇkaḷavu koḷḷum ciṟunōkkam kāmattil  
+cempākam aṉṟu peritu.
+
+1092\. More telling than her actual embrace are her stealthy love looks.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०९२</summary>
@@ -28742,6 +37678,14 @@ Than enjoyment of sexual lore.        1092
 तदेत् प्रेमवृद्धयर्थ रचितं जलसेचनम् ॥ १०९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०९३</summary>
+
+1093 nōkkiṉāṉ nōkki iṟaiñciṉāḷ aḵtavaḷ  
+yāppiṉuḷ aṭṭiya nīr.
+
+1093\. She gazed and gazed but she became shy and her bashful look has nurtured the plant of love between us.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०९३</summary>
 
 3\. நோக்கினாள் நோக்கி இறைஞ்சினாள் அஃதவள்  
@@ -28766,6 +37710,14 @@ And love-plant was with water fed.        1093
 
 मयि पश्यति सा भूमिं पश्येन्नम्रमुखी स्थिता ।  
 मय्यपश्यति मां दृष्ट्वा कुर्यान्मन्दस्मितं तु सा ॥ १०९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०९४</summary>
+
+1094 yāṉnōkkum kālai nilaṉnōkkum nōkkākkāl  
+tāṉnōkki mella nakum.
+
+1094\. She casts her shy look on earth when I gaze at her; but if I turn aside, she glances at me with a gentle smile.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०९४</summary>
@@ -28794,6 +37746,14 @@ I turn; she looks with gentle smile.        1094
 अथापि मीलिताक्षीव भृत्वा मन्दं हसेदियम् ॥ १०९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०९५</summary>
+
+1095 kuṟikkoṇṭu nōkkāmai allāl orukaṇ  
+ciṟakkaṇittāḷ pōla nakum.
+
+1095\. Without looking straight at me, with furtive glances she smiles inwardly.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०९५</summary>
 
 5\. குறிக்கொண்டு நோக்காமை அல்லால் ஒருகண்  
@@ -28818,6 +37778,14 @@ She darts at me and smiles askance.        1095
 
 अप्रीतवाक्यसदृशं ब्रूयात्सा कठिनं बहिः ।  
 परन्तु हृदये क्रोधो नास्तीति ज्ञायते क्षणात् ॥ १०९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०९६</summary>
+
+1096 uṟāa tavarpōl coliṉum ceṟāarcol  
+ollai uṇarap paṭum.
+
+1096\. Though her words are as harsh as those of a stranger, they betoken only love.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०९६</summary>
@@ -28846,6 +37814,14 @@ But quick we feel them friendly ones.        1096
 तदन्तःप्रीतियुक्तानां लक्षणं प्रोच्यते बुधैः ॥ १०९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०९७</summary>
+
+1097 ceṟāac ciṟucollum ceṟṟārpōl nōkkum  
+uṟāarpōṉṟu uṟṟār kuṟippu.
+
+1097\. The pretended angry look and the bitter-sweet word of the beloved are like those of a stranger. Surely these are but the masks of her love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०९७</summary>
 
 7\. செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்  
@@ -28870,6 +37846,14 @@ Are feigned consenting love-lorn tricks.        1097
 
 मयि पश्यति तद् दृष्ट्वा प्रीता मन्दं हसेदियम् ।  
 तस्याश्चलन्त्यास्तत्कृत्य रमणीयं प्राकाशते ॥ १०९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०९८</summary>
+
+1098 acaiyiyaṟku uṇṭuāṇṭōr ēeryāṉ nōkkap  
+pacaiyiṉaḷ paiya nakum.
+
+1098\. When I look beseechingly at her she returns a gentle smile. Oh, what bewitching charm fills the tender maid’s look!  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १०९८</summary>
@@ -28898,6 +37882,14 @@ As I look she slightly smiles.        1098
 अन्तः स्थितां प्रीतिमेव तद् व्यनक्ति तयोस्तदा ॥ १०९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १०९९</summary>
+
+1099 ētilār pōlap potunōkku nōkkutal  
+kātalār kaṇṇē uḷa.
+
+1099\. Oh, what an indifferent air do the lovers assume! They look at each other as if they were strangers.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १०९९</summary>
 
 9\. ஏதிலார் போலப் பொதுநோக்கு நோக்குதல்  
@@ -28922,6 +37914,14 @@ A stranger's look of unconcern.        1099
 
 लोके कामुकयोनेन्त्रे यदि प्रेम्णा परस्परम् ।  
 पश्येतां, तहिं वचसा भाषणे किं प्रयोजनम् ॥ ११००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११००</summary>
+
+1100 kaṇṇōṭu kaṇiṇai nōkkokkiṉ vāyccoṟkaḷ  
+eṉṉa payaṉum ila.
+
+1100\. Of what avail are words when eyes speak to eyes and heart whispers unto heart.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११००</summary>
@@ -28952,6 +37952,14 @@ When eye to eye agrees the gaze.        1100
 जायमानं भोगमेका ददाति वलयाज्ज्वला ॥ ११०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११०१</summary>
+
+1101 kaṇṭukēṭṭu uṇṭuuyirttu uṟṟaṟiyum aimpulaṉum  
+oṇṭoṭi kaṇṇē uḷa.
+
+1101\. All the pleasures that the five senses give us are garnered in this lady with glittering bracelets. What a thrill she gives me!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११०१</summary>
 
 1\. கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும்  
@@ -28976,6 +37984,14 @@ The joys of sight sound touch taste smell.        1101
 
 स्वरोगशामकं वस्तु स्वेतरं दृश्यते भुवि ।  
 स्वेनोत्पादितरोगस्य किन्त्वयं भेषजं स्वयम् ॥ ११०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११०२</summary>
+
+1102 piṇikku maruntu piṟamaṉ aṇiyiḻai  
+taṉnōykkut tāṉē maruntu.
+
+1102\. The remedy for a disease lies not in the disease but in some healing balm; but not so the loved one who is at once the disease and the cure for the pangs of love.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११०२</summary>
@@ -29004,6 +38020,14 @@ For fair maid's ill she is the cure.        1102
 पङ्कजाक्षमहाविष्णोवैङ्कुण्ठेऽपि न लभ्यते ॥ ११०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११०३</summary>
+
+1103 tāmvīḻvār meṉtōḷ tuyiliṉ iṉitukol  
+tāmaraik kaṇṇāṉ ulaku.
+
+1103\. Are the pleasures of the world of the lotus-eyed lord sweeter than reclining on the soft shoulder of the beloved?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११०३</summary>
 
 3\. தாம்வீழ்வார் மென்றோள் துயிலின் இனிதுகொல்  
@@ -29028,6 +38052,14 @@ As sleep in lover's arms so soft?        1103
 
 कामाग्नि नूतनमिममेषा प्राप्तवती कुतः ? ।  
 योऽग्निः सन्निहितः शीतो दूरस्थः प्रदहत्ययम् ॥ ११०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११०४</summary>
+
+1104 nīṅkiṉ teṟūum kuṟukuṅkāl taṇṇeṉṉum  
+tīyāṇṭup peṟṟāḷ ivaḷ.
+
+1104\. This lady has a fire which burns me with passion when I am away; but it cools down when I see her. Can anyone say where she has acquired this power?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११०४</summary>
@@ -29056,6 +38088,14 @@ Wherefrom did she get this fire?        1104
 प्रसूनकुन्तलभरनारीस्कन्धो ददाति तत् ॥ ११०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११०५</summary>
+
+1105 vēṭṭa poḻutiṉ avaiyavai pōlumē  
+tōṭṭār katuppiṉāḷ tōḷ.
+
+1105\. Like the dreams of pleasures sought, the embrace of this sweet-shouldered, flower-decked maiden gives me untold pleasure.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११०५</summary>
 
 5\. வேட்ட பொழுதின் அவையவை போலுமே  
@@ -29080,6 +38120,14 @@ Whatever I wish that that accord.        1105
 
 नष्टः प्राणः पुनर्यस्य स्पर्शमात्रेण जीवति ।  
 तेनामृतेन रचितौ तस्याः स्कन्धाविति ध्रुवम् ॥ ११०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११०६</summary>
+
+1106 uṟutōṟu uyirtaḷippat tīṇṭalāl pētaikku  
+amiḻtiṉ iyaṉṟaṉa tōḷ.
+
+1106\. Her embrace ever kindles new warm life in me. Verily her shoulders are packed with ambrosia.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११०६</summary>
@@ -29108,6 +38156,14 @@ Each embrace brings life-thrilling charms.        1106
 रम्यवर्णाङ्गनाकायपरिष्वङ्गः सुखावहः ॥ ११०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११०७</summary>
+
+1107 tammil iruntu tamatupāttu uṇṭaṟṟāl  
+ammā arivai muyakku.
+
+1107\. The embrace of my golden-coloured love reminds me of the joy of a householder who delights in fulfilling the laws of hospitality.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११०७</summary>
 
 7\. தம்மில் இருந்து தமதுபாத்து உண்டற்றால்  
@@ -29132,6 +38188,14 @@ Is like sharing one's food at home.        1107
 
 वायुगम्यस्थलेनापि मध्ये व्यवधिमन्तरा ।  
 प्रीतिकामुकतोरङ्गपरिष्वङ्गः सुखं वहेत् ॥ ११०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११०८</summary>
+
+1108 vīḻum iruvarkku iṉitē vaḷiyiṭai  
+pōḻap paṭāa muyakku.
+
+1108\. Sweet indeed to both the lover and his beloved is that close embrace which allows not even a wisp of air to steal in between their arms.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११०८</summary>
@@ -29160,6 +38224,14 @@ Not admit e'en air between both.        1108
 प्रोच्यते परमं भाग्यं प्रेमलक्ष्यैकजीविनाम् ॥ ११०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११०९</summary>
+
+1109 ūṭal uṇartal puṇartal ivaikāmam  
+kūṭiyār peṟṟa payaṉ.
+
+1109\. Separation, reconciliation and reunion are the pleasures vouchsafed to those stricken with love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११०९</summary>
 
 9\. ஊடல் உணர்தல் புணர்தல் இவைகாமம்  
@@ -29184,6 +38256,14 @@ These three are sweets of lover's tryst.        1109
 
 असकृद् ग्रन्थपठनादज्ञानं शिष्यते पथा ।  
 अनुस्यूताङ्गनाभोमादमोगः शिष्यते ततः ॥ १११०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १११०</summary>
+
+1110 aṟitōṟu aṟiyāmai kaṇṭaṟṟāl kāmam  
+ceṟitōṟum cēyiḻai māṭṭu.
+
+1110\. The more I taste the charms of my beloved the more do d hunger for them. Verily what is already experienced pales into insignificance before the promise of the future.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १११०</summary>
@@ -29214,6 +38294,14 @@ So is the belle as love gets close.        1110
 वत्तोऽपि मार्दवयुता मत्प्रिया, गर्वमुत्सृज ॥ ११११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११११</summary>
+
+1111 naṉṉīrai vāḻi aṉiccamē niṉṉiṉum  
+meṉṉīraḷ yāmvīḻ pavaḷ.
+
+1111\. O aniccam flower, the best and softest of all flowers, may you be blest; but do not forget that my lady is yet more tender.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११११</summary>
 
 1\. நன்னீரை வாழி அனிச்சமே நின்னினும்  
@@ -29238,6 +38326,14 @@ On whom I dote is softer still.        1111
 
 निकदृश्ग्टकुसुमसाम्यमस्यास्तु नेत्रयोः ।  
 वस्तीति किं धिया चित्त! दृष्ट्वा पुष्पाणि मुह्यसि ॥ १११२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १११२</summary>
+
+1112 malarkāṇiṉ maiyātti neñcē ivaḷkaṇ  
+palarkāṇum pūvokkum eṉṟu.
+
+1112\. O Mind, when you behold flowers you think that your beloved’s eyes are like these and pine away.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १११२</summary>
@@ -29266,6 +38362,14 @@ To her bright eyes, O mind dismayed.        1112
 मुक्ता दन्ताश्चारुगन्धः करौ वंशानुकारिणौ ॥ १११३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १११३</summary>
+
+1113 muṟimēṉi muttam muṟuval veṟināṟṟam  
+vēluṇkaṇ vēyttōḷ avaṭku.
+
+1113\. Her body is of rich gold, her teeth pearls. She is fragrant, her eyes dart forth glances like a lance, her shoulders gently curve as the bamboo. O! what a varied charm my beloved has!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १११३</summary>
 
 3\. முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்  
@@ -29290,6 +38394,14 @@ Fragrant breath and lance-like eyes.        1113
 
 अस्यास्तु चक्षुषा साम्यं न लब्धमिति लज्ज या ।  
 नतं कुवलयं भूमिं दश्येद्, दृष्टिं लभेत चेत् ॥ १११४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १११४</summary>
+
+1114 kāṇiṉ kuvaḷai kaviḻntu nilaṉnōkkum  
+māṇiḻai kaṇṇovvēm eṉṟu.
+
+1114\. The kundalai flower hangs down in shame before the eyes of my tastefully adorned lady-love.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १११४</summary>
@@ -29318,6 +38430,14 @@ I can't equal the jewelled-one's eyes.        1114
 नालाभाराद्भग्नमध्यमभूदशुभनादनम् ॥ १११५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १११५</summary>
+
+1115 aṉiccappūk kālkaḷaiyāḷ peytāḷ nucuppiṟku  
+nalla paṭāa paṟai.
+
+1115\. She decks herself with aniccam flowers without removing the stalks. It is the death-knell of her slender waist.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १११५</summary>
 
 5\. அனிச்சப்பூக் கால்களையாள் பெய்தாள் நுசுப்பிற்கு  
@@ -29342,6 +38462,14 @@ To her breaking waist sad-drum-blares!        1115
 
 नारीमुखनिशानाथमेदज्ञानविवर्जिताः ।  
 दिवि ताराः स्वप्रदेशाद् भ्रान्ताः किन्तु भ्रमन्त्यहो ॥ १११६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १११६</summary>
+
+1116 matiyum maṭantai mukaṉum aṟiyā  
+patiyiṉ kalaṅkiya mīṉ.
+
+1116\. Even the stars of heaven veer their usual courses mistaking my lady’s face for their queen moon.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १११६</summary>
@@ -29370,6 +38498,14 @@ The moon and which is woman's face.        1116
 कलङ्कस्तद्गतो नारीवदने किन्तु वर्तते ॥ १११७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १११७</summary>
+
+1117 aṟuvāy niṟainta avirmatikkup pōla  
+maṟuvuṇṭō mātar mukattu.
+
+1117\. Is there a dark spot on the face of my lady-love as on the shining moon which waxes and wanes?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १११७</summary>
 
 7\. அறுவாய் நிறைந்த அவிர்மதிக்குப் போல  
@@ -29394,6 +38530,14 @@ Just as in moon that changes phase?        1117
 
 यदि त्वं मुखवत्त्वस्याः शोभां चन्द्र! वहेस्तदा ।  
 मत्प्रीतिपात्रं त्वं मूयाः सर्वदा विजयी भव ॥ १११८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १११८</summary>
+
+1118 mātar mukampōl oḷiviṭa vallaiyēl  
+kātalai vāḻi mati.
+
+1118\. Blest indeed are you. Moon! If you will be resplendent without a spot even as the face of my lady, I shall love you with all my heart.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १११८</summary>
@@ -29422,6 +38566,14 @@ All my love to you; hail O moon!        1118
 हे चन्द्र! सर्वदृश्यस्त्वं तदा मा तिष्ठ सर्वदा ॥ १११९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १११९</summary>
+
+1119 malaraṉṉa kaṇṇāḷ mukamotti yāyiṉ  
+palarkāṇat tōṉṟal mati.
+
+1119\. Moon, if you wish to equal the face of my lady then hide yourself from this world.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १११९</summary>
 
 9\. மலர்ன்ன கண்ணாள் முகமொத்தி யாயின்  
@@ -29446,6 +38598,14 @@ If you look, then shine alone O moon!        1119
 
 शिरीषकुसमं हंसपक्षौ चेत्युभयं भुवि ।  
 स्त्रीपादमार्दवे दृष्टे नूनं स्यात्यण्टकोपमम् ॥ ११२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११२०</summary>
+
+1120 aṉiccamum aṉṉattiṉ tūviyum mātar  
+aṭikku neruñcip paḻam.
+
+1120\. The soft aniccam flower and the down of the swan are but thistles before the soft feet of my lady.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११२०</summary>
@@ -29476,6 +38636,13 @@ Like nettles to the feet of the fair.        1120
 मधुसम्मिश्रितं क्षीरमिवातिमधुरं भवेत् ॥ ११२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११२१</summary>
+
+1121 pāloṭu tēṉkalan taṟṟē paṇimoḻi  
+vāleyiṟu ūṟiya nīr.  
+1121\. The kiss of the tender lips of my modest maid is like the taste of honey with milk.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११२१</summary>
 
 1\. பாலொடு தேன்கலந் தற்றே பணிமொழி  
@@ -29500,6 +38667,14 @@ From her white teeth whose word is soft.        1121
 
 जीवस्य देहसम्बन्धो यादृशो दृश्यते भुवि ।  
 स्नेहबन्धो ममाप्यस्यां वर्तते तादृशो दृढः ॥ ११२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११२२</summary>
+
+1122 uṭampoṭu uyiriṭai eṉṉamaṟṟu aṉṉa  
+maṭantaiyoṭu emmiṭai naṭpu.
+
+1122\. The love that has sprung up between me and my beloved is constant, even as body and soul are inseparable.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११२२</summary>
@@ -29528,6 +38703,14 @@ Is like bond between soul and body.        1122
 नो चेन्मत्प्रियया तस्तुमत्र नैव हि शक्यते ॥ ११२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११२३</summary>
+
+1123 karumaṇiyiṉ pāvāynī pōtāyām vīḻum  
+tirunutaṟku illai iṭam.
+
+1123\. O Image in the pupil of my eye, begone! How can my fair-browed lady sit enthroned, unless you give place to her?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११२३</summary>
 
 3\. கருமணியிற் பாவாய்நீ போதாயாம் வீழும்  
@@ -29552,6 +38735,14 @@ Giving room to my fair-browed belle!        1123
 
 संयोगे भूषणाङ्गीयं मम जीवनदायिनी ।  
 वियोगे सैव मे नूनं भवेन्मरणदायिनी ॥ ११२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११२४</summary>
+
+1124 vāḻtal uyirkkaṉṉaḷ āyiḻai cātal  
+ataṟkaṉṉaḷ nīṅku miṭattu.
+
+1124\. Embracing the arms of my choicely adorned lady I feel all the thrill and joy of life, but the moment I separate, I feel the wretchedness of death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११२४</summary>
@@ -29580,6 +38771,14 @@ Death it is her severance.        1124
 तदैव स्मरणं युक्तं, न मया विस्मृता गुणाः ॥ ११२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११२५</summary>
+
+1125 uḷḷuvaṉ maṉyāṉ maṟappiṉ maṟappaṟiyēṉ  
+oḷḷamark kaṇṇāḷ kuṇam.
+
+1125\. I cannot forget the noble quality of my love of the sparkling eyes.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११२५</summary>
 
 5\. உள்ளுவன் மன்யான் மறப்பின் மறப்பறியேன்  
@@ -29604,6 +38803,14 @@ The charms of her bright battling eyes.        1125
 
 नापयाति प्रियो नेत्रान्निमेषसमयोऽपि सः ।  
 नैति खेदं, यतोऽन्येषामदृश्यः सूक्ष्मरूपधृत् ॥ ११२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११२६</summary>
+
+1126 kaṇṇuḷḷiṉ pōkār imaippiṉ paruvarār  
+nuṇṇiyarem kāta lavar.
+
+1126\. My lover will never vanish from my eyes; nor will he be disturbed if I close them. He is so ethereal as to be invisible.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११२६</summary>
@@ -29632,6 +38839,14 @@ Ever in my eyes winking, no harm.        1126
 अञ्जनाद्यैरलङ्कारो नेत्रयोर्न विधीयते ॥ ११२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११२७</summary>
+
+1127 kaṇṇuḷḷār kāta lavarākak kaṇṇum  
+eḻutēm karappākku aṟintu.
+
+1127\. I fear to paint ray eyes, lest it should hide the vision of my lord dwelling within.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११२७</summary>
 
 7\. கண்ணுள்ளார் காத லவராகக் கண்ணும்  
@@ -29656,6 +38871,14 @@ I paint them not lest he hides.        1127
 
 य्ष्णवस्त्वशनेनासौ हृदयस्थो मम प्रिय ः ।  
 दग्धः स्यादिति भीत्या, तदुष्णं वस्तु न भुज्यते ॥ ११२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११२८</summary>
+
+1128 neñcattār kāta lavarāka veytuṇṭal  
+añcutum vēpākku aṟintu.
+
+1128\. With my lover in my heart I do not eat anything hot lest it should harm the delicate one.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११२८</summary>
@@ -29684,6 +38907,14 @@ I fear hot food lest he feels hot.        1128
 ज्ञात्वदं निर्निमेषं तं कठिन ब्रुवते जनाः ॥ ११२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११२९</summary>
+
+1129 imaippiṉ karappākku aṟival aṉaittiṟkē  
+ētilar eṉṉumiv vūr.
+
+1129\. My eyes wink not lest they should lose the vision of my lord within; not knowing this people blame him for my sleeplessness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११२९</summary>
 
 9\. இமைப்பின் கரப்பாக்கு அறிவல் அனைத்திற்கே  
@@ -29708,6 +38939,14 @@ And him as cruel the townsmen chide.        1129
 
 हृदयेऽस्ति प्रियो नित्यं तदज्ञात्वा जना भुवि ।  
 निन्दन्ति ᳚प्रीतिहीनोऽयं वियोगं बहती'' ति च ॥ ११३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११३०</summary>
+
+1130 uvantuṟaivr uḷḷattuḷ eṉṟum ikantuṟaivar  
+ētilar eṉṉumiv vūr.
+
+1130\. Delightfully my lover makes my heart for ever his abode; but villainous people say he is cruel and dwells apart.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११३०</summary>
@@ -29738,6 +38977,14 @@ But people mistake he is apart.        1130
 प्रियस्य तालतुरगारोहणान्नास्ति रक्षकम् ॥ ११३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११३१</summary>
+
+1131 kāmam uḻantu varuntiṉārkku ēmam  
+maṭalallatu illai vali.
+
+1131\. Men anguished by unrequited love find no stronger solace than mounting the madal.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११३१</summary>
 
 1\. காமம் உழந்து வருந்தினார்க்கு ஏமம்  
@@ -29762,6 +39009,14 @@ Except riding *'palmyra horse'.        1131
 
 वियोगदुःखं सोढुं यौ प्राणदेहौ न शक्नुतः ।  
 तौ लज्जां च परित्यज्य तुरगारे हणोद्यतौ ॥ ११३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११३२</summary>
+
+1132 nōṉā uṭampum uyirum maṭalēṟum  
+nāṇiṉai nīkki niṟuttu.
+
+1132\. My body and soul, unequal to the pangs of love, seek to mount the madal; bashfulness and reserve are swept away.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११३२</summary>
@@ -29790,6 +39045,14 @@ And take to riding of the palm.        1132
 करोमि तालतुरगारोहणं कामुको यथा ॥ ११३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११३३</summary>
+
+1133 nāṇoṭu nallāṇmai paṇṭuṭaiyēṉ iṉṟuṭaiyēṉ  
+kāmuṟṟār ēṟum maṭal.
+
+1133\. Reserve and dignified manliness once I had; but today I possess the madal which the helpless love-sick resort to.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११३३</summary>
 
 3\. நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்  
@@ -29814,6 +39077,14 @@ My love has now Madal only.        1133
 
 कामनामातिवेगोऽयं प्रवाहो मयि संस्थितौ ।  
 लज्जापुस्त्वाभिधौ पोतौ वेगेन नयति क्षणात् ॥ ११३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११३४</summary>
+
+1134 kāmak kaṭumpuṉal uykkumē nāṇoṭu  
+nallāṇmai eṉṉum puṉai.
+
+1134\. The giant force of the floods of love has carried away the raft of my manliness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११३४</summary>
@@ -29842,6 +39113,15 @@ The raft of shame and firmness, aye!        1134
 द्वयमेतददान्मह्यं मालाकुलकरा प्रिया ॥ ११३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११३५</summary>
+
+1135 toṭalaik kuṟuntoṭi tantāḷ maṭaloṭu  
+mālai uḻakkum tuyar.
+
+1135\. The lady of little bracelets strung like garlands has taught me the love-sick pangs of evening and the madal horse. Never before have I known  
+them.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११३५</summary>
 
 5\. தொடலைக் குறுந்தொடி தந்தாள் மடலொடு  
@@ -29866,6 +39146,14 @@ Are gifts of wreath-like bracelet maid.        1135
 
 प्रियावियोगान्नो निद्रां लभेते मम चक्षुवी ।  
 तेनार्घरात्रिकालेऽपि कृत्रिमाश्चं स्मराम्यहम् ॥ ११३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११३६</summary>
+
+1136 maṭalūrtal yāmattum uḷḷuvēṉ maṉṟa  
+paṭalollā pētaikkueṉ kaṇ.
+
+1136\. Thinking of this maid, my eyelids never close in slumber; even in dead of night my thoughts run, on the suicidal madal.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११३६</summary>
@@ -29894,6 +39182,22 @@ My eyes sleep not seeing this fair.        1136
 तालाश्चान्नाधिरोहन्ति स्त्रीजन्मातो विशिष्यते ॥ ११३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११३७</summary>
+
+1137 kaṭalaṉṉa kāmam uḻantum maṭalēṟāp  
+peṇṇiṉ peruntakkatu il.
+
+1137\. Woman tossed about in a sea of the anguish of love think not of mounting the madal — there is nothing greater than this.  
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११३७</summary>
+
+1137 kaṭalaṉṉa kāmam uḻantum maṭalēṟāp  
+peṇṇiṉ peruntakkatu il.
+
+1137\. Woman tossed about in a sea of the anguish of love think not of mounting the madal — there is nothing greater than this.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११३७</summary>
 
 7\. கடலன்ன காமம் உழந்தும் மடலேறாப்  
@@ -29918,6 +39222,14 @@ Serene is woman's self control.        1137
 
 ''शोच्येयं, धैर्यहीनेय'' मित्येतदविचार्य च ।  
 स्त्रीणं कामो विनिष्क्रम्य'' विथीपर्गन्तमाययौ ॥ ११३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११३८</summary>
+
+1138 niṟaiyariyar maṉaḷiyar eṉṉātu kāmam  
+maṟaiiṟantu maṉṟu paṭum.
+
+1138\. Oh my beloved I Wanton is my love which has no sympathy for my modesty or my helplessness; How it compels me to unpack my hidden secret and drag it out to the open!  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११३८</summary>
@@ -29946,6 +39258,14 @@ Though women are highly soft and chaste.        1138
 इतीव मम कामोऽयं वीथ्यां भ्रमति मोहितः ॥ ११३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११३९</summary>
+
+1139 aṟikilār ellārum eṉṟēeṉ kāmam  
+maṟukiṉ maṟukum maruṇṭu.
+
+1139\. ‘Nobody knows my secret’ I said to myself; but my angry love rages in the market-place to my utter disgrace.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११३९</summary>
 
 9\. அறிகிலார் எல்லாரும் என்றேஎன் காமம்  
@@ -29970,6 +39290,14 @@ Believing that none knows its secret.        1139
 
 ''अस्मस्समसखीभिस्तु न प्राप्तं व्यसनं पुरा'' ।  
 ''अस्मस्समसखीभिस्तु'' ???? ॥ ११४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११४०</summary>
+
+1140 yāmkaṇṇiṉ kāṇa nakupa aṟivillār  
+yāmpaṭṭa tāmpaṭā vāṟu.
+
+1140\. Foolish people laugh at me before my very eyes; verily they have not experienced agony of love.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११४०</summary>
@@ -30000,6 +39328,14 @@ For they feel not my pangs and sighs.        1140
 स्थितिमेनां न जानन्ति जनाः पुष्यवशादहो ॥ ११४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११४१</summary>
+
+1141 alaraḻa āruyir niṟkum ataṉaip  
+palaraṟiyār pākkiyat tāl.
+
+1141\. The many scandals about our love do indeed give me fresh hope and sustain my wretched life. Luckily for me the village folk do not know what their scandals have done.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११४१</summary>
 
 1\. அலரெழ ஆருயிர் நிற்கும் அதனைப்  
@@ -30024,6 +39360,14 @@ Good luck! many know not its sense.        1141
 
 दुस्साध्या कुसुमाक्षीयमित्येन्नगरे जनाः ।  
 अज्ञात्वा दुष्प्रचारेण मम साह्यं वितन्वते ॥ ११४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११४२</summary>
+
+1142 malaraṉṉa kaṇṇāḷ arumai aṟiyātu  
+alaremakku īntatuiv vūr.
+
+1142\. Blind to the esteem of my lady of flower-like eyes, the village folk have linked her name with mine.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११४२</summary>
@@ -30052,6 +39396,14 @@ People know not what rare angel.        1142
 दुस्साधञ्च सुसाधं मे भविता दुष्प्रचारतः ॥ ११४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११४३</summary>
+
+1143 uṟāatō ūraṟinta kauvai ataṉaip  
+peṟāatu peṟṟaṉṉa nīrttu.
+
+1143\. Is not the rumour of this village sweet to me? For it makes me feel that I have attained the bliss of love even without my lover at my side.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११४३</summary>
 
 3\. உறாஅதோ ஊரறிந்த கௌவை அதனைப்  
@@ -30076,6 +39428,14 @@ Having not, I feel, I have her.        1143
 
 मम कामः प्रजानां तु प्रचारेण प्रवर्धितः ।  
 कामः प्रचाररहित्ये नूनं सङ्कुचितो भवेत् ॥ ११४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११४४</summary>
+
+1144 kavvaiyāl kavvitu kāmam atuviṉṟēl  
+tavveṉṉum taṉmai iḻantu.
+
+1144\. The rumours set afloat have heightened my love; but for these, it might lose its sweetness and wither away.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११४४</summary>
@@ -30104,6 +39464,14 @@ Or else it becomes bleak and weak.        1144
 मोदं मोदं मद्यपायी सेवते तद्यथा पुनः ॥ ११४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११४५</summary>
+
+1145 kaḷittoṟum kaḷḷuṇṭal vēṭṭaṟṟāl kāmam  
+veḷippaṭun tōṟum iṉitu.
+
+1145\. Each cup adds to the gaiety of a revelling drunkard. Even so each rumour of our love adds to my delight.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११४५</summary>
 
 5\. களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்  
@@ -30128,6 +39496,14 @@ Love delights as rumour grows.        1145
 
 प्रियो दृष्टस्त्वेकवोरं, अपवादस्तदोत्थितः ।  
 सर्पेण चन्द्रग्रहणवार्तेव प्रसृतोऽभवत् ॥ ११४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११४६</summary>
+
+1146 kaṇṭatu maṉṉum orunāḷ alarmaṉṉum  
+tiṅkaḷaip pāmpukoṇ ṭaṟṟu.
+
+1146\. Only once have I seen him; but oh! rumours of our secret love have spread all over the vast world, even as the news of the serpent devouring
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११४६</summary>
@@ -30156,6 +39532,14 @@ Lasting rumours eclipse our moon.        1146
 मातृक्रोधवचोरूपसलिलेनापि पोषितः ॥ ११४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११४७</summary>
+
+1147 ūravar kauvai eruvāka aṉṉaicol  
+nīrāka nīḷumin nōy.
+
+1147\. How this plant of sickness grows on! The gossip of the village manures it and the frown of my mother waters it.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११४७</summary>
 
 7\. ஊரவர் கௌவை எருவாக அன்னைசொல்  
@@ -30180,6 +39564,14 @@ Waters the growth of this love-pain.        1147
 
 दुष्प्रचारेण कामस्य निरोधो न हि शक्यते ।  
 यथा घृतेन वह्नेस्तु शमनं दुष्करं भुवि ॥ ११४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११४८</summary>
+
+1148 neyyāl erinutuppēm eṉṟaṟṟāl kauvaiyāṟal  
+kāmam nutuppēm eṉal.
+
+1148\. With the scandals of the village one can never stifle love; it is like smothering fire with ghee.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११४८</summary>
@@ -30208,6 +39600,14 @@ Is to quench fire by pouring ghee.        1148
 तथा सत्यपवादार्थ न विभेमि कदाचन ॥ ११४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११४९</summary>
+
+1149 alarnāṇa olvatō añcalōmpu eṉṟār  
+palarnāṇa nīttak kaṭai.
+
+1149\. When my lover who swore not to leave me alone has abandoned me to the mockery of the many, why need I fear these tittle-tattle?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११४९</summary>
 
 9\. அலர்நாண ஒல்வதோ அஞ்சலோம்பு என்றார்  
@@ -30232,6 +39632,14 @@ Why then should I blush this clamour?        1149
 
 अपवादं ममाभीष्टं ग्रामीणा ब्रुवरे यतः ।  
 कामुकैर्वाञ्छितं सर्व साध्यते तत्तु तैस्ततः ॥ ११५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११५०</summary>
+
+1150 tāmvēṇṭiṉ nalkuvar kātalar yāmvēṇṭum  
+kauvai eṭukkumiv vūr.
+
+1150\. This village rumour is useful; it has coupled you and your lover; the moment he desires, the lover can thus help us.
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११५०</summary>
@@ -30264,6 +39672,14 @@ Consent is easy from my sire.        1150
 वियुज्यागमनं चेत्तु वद तत् सहतां नृणाम् ॥ ११५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११५१</summary>
+
+1151 cellāmai uṇṭēl eṉakkuurai maṟṟuniṉ  
+valvaravu vāḻvārkku urai.
+
+1151\. If you are not to go away, tell me so that I may sustain my lingering life. If you are to go, return soon.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११५१</summary>
 
 1\. செல்லாமை உண்டேல் எனக்குரை மற்றுநின்  
@@ -30288,6 +39704,14 @@ Your quick return to those who live.        1151
 
 तदीयदृष्टिः पूर्व मे वभृवानन्ददायिनी ।  
 वियोगभीतिं जनयेत् अद्य, जातोऽपि सङ्गमः ॥ ११५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११५२</summary>
+
+1152 iṉkaṇ uṭaittavar pārval pirivañcum  
+puṉkaṇ uṭaittāl puṇarvu.
+
+1152\. In the days of courtship what pleasure lay in each glance of his! Now after our union, the prospect of his separation brings gloom even in moments of happiness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११५२</summary>
@@ -30316,6 +39740,14 @@ Embrace pains now by partings fear.        1152
 तस्मात् प्रियेण रचितां प्रतिज्ञां नैव विश्वसेत् ॥ ११५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११५३</summary>
+
+1153 aritarō tēṟṟam aṟivuṭaiyār kaṇṇum  
+pirivōr iṭattuuṇmai yāṉ.
+
+1153\. Hard it is for me to rest assured; the lover who knows full well my miseries in separation still may part from me, making promises of quick return.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११५३</summary>
 
 3\. அரிதரோ தேற்றம் அறிவுடையார் கண்ணும்  
@@ -30340,6 +39772,14 @@ While parting lurks in knowing ones?        1153
 
 प्रेमपूर्वं न मेतव्य मित्युक्तवापि वियुज्यतः ।  
 प्रियस्य वचनं वक्तुर्दोषाय स्यात्, न श‍ृण्वतः ॥ ११५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११५४</summary>
+
+1154 aḷittañcal eṉṟavar nīppiṉ teḷittacol  
+tēṟiyārkku uṇṭō tavaṟu.
+
+1154\. How can there be blame on one who has put implicit trust in the comforting words of him who promised to shelter me forever?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११५४</summary>
@@ -30368,6 +39808,14 @@ Is my trust in him at default?        1154
 वियोगे प्रथमं प्राप्ते सङ्गमो दुर्लभस्ततः ॥ ११५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११५५</summary>
+
+1155 ōmpiṉ amaintār pirivōmpal maṟṟavar  
+nīṅkiṉ aritāl puṇarvu.
+
+1155\. Stop my lord from leaving me; only then can you save my life. Else it will flee at his parting and never again shall we meet.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११५५</summary>
 
 5\. ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்  
@@ -30392,6 +39840,14 @@ Meeting is rare if he would leave.        1155
 
 वियोगविषयं वक्तुं यो भवेन्निर्दयः प्रियः ।  
 प्रत्यागत्य पुनः प्रीतिं स कथं दर्शयेत् त्वयि ॥ ११५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११५६</summary>
+
+1156 pirivuraikkum vaṉkaṇṇar āyiṉ aritavar  
+nalkuvar eṉṉum nacai.
+
+1156\. If he is cruel enough to speak of leaving me, I am lost; false it is to entertain any hope of his mercy.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११५६</summary>
@@ -30420,6 +39876,14 @@ Is there hope of his renewed love?        1156
 किं नायकवियोगं न कथयेयुर्जनान् प्रति ॥ ११५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११५७</summary>
+
+1157 tuṟaivaṉ tuṟantamai tūṟṟākol muṉkai  
+iṟaiiṟavā niṉṟa vaḷai.
+
+1157\. Will not the bracelets slipping loose from my wrist, tell the tale of the separation of my husband?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११५७</summary>
 
 7\. துறைவன் துறந்தமை தூற்றாகொல் முன்கை  
@@ -30444,6 +39908,14 @@ The parting of my lord betray?        1157
 
 स्निग्धचेटीविरहतग्रामवासो व्यथाकरः ।  
 प्रियनायकविश्लेषस्ततोऽपि व्यसनप्रदः ॥ ११५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११५८</summary>
+
+1158 iṉṉātu iṉaṉilūr vāḻtal ataṉiṉum  
+iṉṉātu iṉiyārp pirivu.
+
+1158\. Painful it is to live removed from familiar friends in a far-off village; but far more painful is the parting of the dearest one.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११५८</summary>
@@ -30472,6 +39944,14 @@ Worse is parting love's embrace!        1158
 कामरोगसमानोऽयं न दहेद् दूरवत्यपि ॥ ११५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११५९</summary>
+
+1159 toṭiṟcuṭiṉ allatu kāmanōy pōla  
+viṭiṉcuṭal āṟṟumō tī.
+
+1159\. Fire can scorch only when touched, but can it, like love, scorch persons away from it?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११५९</summary>
 
 9\. தொடின்கடின் அல்லது காமநோய் போல  
@@ -30496,6 +39976,13 @@ Parting of the hearts love-sick?        1159
 
 अङ्गीकृत च विश्लेषमनवाप्य ततो व्यथाम् ।  
 सोढ्वा वियोगं जीवन्त्यः सन्त्यनेकाः स्त्रियो भुवि ॥ ११६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११६०</summary>
+
+1160 aritāṟṟi allalnōy nīkkip pirivāṟṟip  
+piṉiruntu vāḻvār palar.  
+1160\. Many ladies have gracefully borne news of separation, steered clear of sorrow, endured the parting of the loved one and still survived I  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११६०</summary>
@@ -30526,6 +40013,14 @@ Not I this sore so distressing.        1160
 निर्गते निर्गते वारि वर्धते स्त्रोतसो यथा ॥ ११६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११६१</summary>
+
+1161 maṟaippēṉmaṉ yāṉiḵtō nōyai iṟaippavarkku  
+ūṟṟunīr pōla mikum.
+
+1161\. This my disease I seek to hide; but how endlessly it wells up like the waters of the spring.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११६१</summary>
 
 1\. மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்கு  
@@ -30550,6 +40045,14 @@ How to bear this pain so writhing?        1161
 
 नैव च्छादयितुं शक्ता कामरोगमहं बलात् ।  
 रोगदात्रे नायकाय वक्तुं लज्जा तु जायते ॥ ११६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११६२</summary>
+
+1162 karattalum āṟṟēṉin nōyainōy ceytārkku  
+uraittalum nāṇut tarum.
+
+1162\. It lies not in my power to conceal the disease of my love. Nor am I able to speak of it unabashed to him who caused it.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११६२</summary>
@@ -30578,6 +40081,14 @@ For shame to him who caused this pain.        1162
 यष्टिमालम्व्य लम्बेते लज्जाकामौ तु पार्श्वयोः ॥ ११६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११६३</summary>
+
+1163 kāmamum nāṇum uyirkāvāt tūṅkumeṉ  
+nōṉā uṭampiṉ akattu.
+
+1163\. My frail body is harassed by love and my bashfulness bids me be quiet. My soul is torn between them.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११६३</summary>
 
 3\. காமமும் நாணும் உயிர்காவாத் தூங்கும்என்  
@@ -30602,6 +40113,14 @@ Are poised the weights of lust and shame.        1163
 
 कामरोगममाख्यऽयं महानस्ति पयोधरः ।  
 तत्तीर्त्वा गन्तुमुचितो दृढः पोतो न विद्यते ॥ ११६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११६४</summary>
+
+1164 kāmak kaṭalmaṉṉum uṇṭē atunīntum  
+ēmap puṇaimaṉṉum il.
+
+1164\. Verily the endless sea of love stretches before me; but I find not even a raft to cross the limitless expanse.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११६४</summary>
@@ -30630,6 +40149,14 @@ A raft to go across safely.        1164
 खेदप्रदविरोधस्य निरासे ते कथं क्षमाः ॥ ११६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११६५</summary>
+
+1165 tuppiṉ evaṉāvar maṉkol tuyarvaravu  
+naṭpiṉuḷ āṟṟu pavar.
+
+1165\. Even to the loving one, he brings so much suffering; how much more pain will he cause to his enemy!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११६५</summary>
 
 5\. துப்பின் எவனாவர் மற்கொல் துயர்வரவு  
@@ -30654,6 +40181,14 @@ Who in friendship bring me woes!        1165
 
 कामो यदा सुखं दद्यात् तत्सुखं सिन्धुवन्महत् ।  
 वियोगाद् दुःखदे कामे तद् दुःखं जलधेर्महत् ॥ ११६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११६६</summary>
+
+1166 iṉpam kaṭalmaṟṟuk kāmam aḵtaṭuṅkāl  
+tuṉpam ataṉiṉ peritu.
+
+1166\. Vast as the sea is the delight of wedded love; but vaster still are the sorrows of parting.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११६६</summary>
@@ -30682,6 +40217,14 @@ But its pangs are more painful.        1166
 गाढान्धकाररात्र्यां तु वसाम्येकाकिनी ह्महम् ॥ ११६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११६७</summary>
+
+1167 kāmak kaṭumpuṉal nīntik karaikāṇēṉ  
+yāmattum yāṉē uḷēṉ.
+
+1167\. Tossed in the troubled waters of love, I reach no shore; 1 am all alone in the still watches of the night.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११६७</summary>
 
 7\. காமக் கடும்புனல் நீந்திக் கரைகாணேன்  
@@ -30706,6 +40249,14 @@ Pining alone in midnight hush.        1167
 
 सर्वलोक्जनान् निद्रावशान् कृत्वा तु मां परम् ।  
 सहायं प्राप्य तिष्ठन्ती यामिनी शोच्यतां गता ॥ ११६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११६८</summary>
+
+1168 maṉṉuyir ellām tuyiṟṟi aḷittirā  
+eṉṉallatu illai tuṇai.
+
+1168\. Beneficent night which has rocked all living creatures to sleep finds in me her lone sleepless companion.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११६८</summary>
@@ -30734,6 +40285,14 @@ Keeping but me for companionship.        1168
 वियुक्तनायकाच्चापि ताः क्रराः किल भान्ति मे ॥ ११६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११६९</summary>
+
+1169 koṭiyār koṭumaiyiṉ tāmkoṭiya innāḷ  
+neṭiya kaḻiyum irā.
+
+1169\. These nights, all too short in those sweet days, now lengthen their heavy hours, surpassing in cruelty even my lord.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११६९</summary>
 
 9\. கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்  
@@ -30758,6 +40317,14 @@ Are midnight hours gliding slowly.        1169
 
 प्रियसामीप्यगमनशक्तिर्नेत्रस्य चित्तवत् ।  
 यदि स्यात् तर्हि मन्नेत्रे न स्यातां सलिलाकुले ॥ ११७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११७०</summary>
+
+1170 uḷḷampōṉṟu uḷvaḻic celkiṟpiṉ veḷḷanīr  
+nīntala maṉṉōeṉ kaṇ.
+
+1170\. If only my eyes like my mind had the speedy power of fleeing to my lover, they need not now swim in a flood of tears.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११७०</summary>
@@ -30788,6 +40355,14 @@ It won't in floods of tears swim!        1170
 कामाधिर्ववृधे तेन कम्मात् त्वं रुदसि वृथा ॥ ११७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११७१</summary>
+
+1171 kaṇtām kaluḻvatu evaṉkolō taṇṭānōy  
+tāmkāṭṭa yāṅkaṇ ṭatu.
+
+1171\. Did you not show him to me and push me into the incurable sickness of love? Then why do you weep now to sft him, the cause of all your woe?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११७१</summary>
 
 1\. கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய்  
@@ -30812,6 +40387,14 @@ They weep with malady and pine?        1171
 
 अविचार्य पुरा दृष्ट्वा प्रियं प्रीतिपुरस्सरम् ।  
 अद्याज्ञानात् कुतो नेत्रे खिद्येते प्रीतिसंयुते ॥ ११७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११७२</summary>
+
+1172 terintuṇarā nōkkiya uṇkaṇ parintuṇarāp  
+paital uḻappatu evaṉ.
+
+1172\. Oh Eyes! Having thoughtlessly feasted upon the lover, how can you now grieve for your own folly?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११७२</summary>
@@ -30840,6 +40423,14 @@ Regrets for their thoughtless glance?        1172
 रुदतः स्वयमद्यात्र, परीहासपदं हि तत् ॥ ११७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११७३</summary>
+
+1173 katumeṉat tāmnōkkit tāmē kaluḻum  
+itunakat takkatu uṭaittu.
+
+1173\. Those eyes once leapt to see the lover; now they weep by themselves. Is it not laughable?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११७३</summary>
 
 3\. கதுமெனத் தாம்நோக்கித் தாமே கலுழும்  
@@ -30864,6 +40455,14 @@ It's funny that they weep today.        1173
 
 अनिवार्य कामरोगं शाश्वतं मम चक्षुषी ।  
 मह्मं दत्त्वा क्रन्दितुं ते ह्यशक्ते नीरवर्जिते ॥ ११७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११७४</summary>
+
+1174 peyalāṟṟā nīrulanta uṇkaṇ uyalāṟṟā  
+uyvilnōy eṉkaṇ niṟuttu.
+
+1174\. Plunging me into an inevitable and incurable disease, these eyes of mine pour out their tears and run dry.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११७४</summary>
@@ -30892,6 +40491,14 @@ Crying adry without relief.        1174
 अयच्छतामिदानीं ते खिद्येते निद्रया विना ॥ ११७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११७५</summary>
+
+1175 paṭalāṟṟā paital uḻakkum kaṭalāṟṟāk  
+kāmanōy ceytaeṉ kaṇ.
+
+1175\. My eyes that caused a disease of love vaster than the sea itself, do not now close themselves in sleep; they languish in grief.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११७५</summary>
 
 5\. படலாற்றா பைதல் உழக்கும் கடலாற்றாக்  
@@ -30916,6 +40523,14 @@ Suffer that torture sleeplessly.        1175
 
 कामरोगप्रदाभ्यां मे नयनाभ्यां यदद्य तु ।  
 तुल्पोऽनुभूयते खेदः तत्तस्य खलु युज्यते ॥ ११७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११७६</summary>
+
+1176 ōo iṉitē emakkuinnōy ceytakaṇ  
+tāam itaṉpaṭ ṭatu.
+
+1176\. The very eyes that have caused me all those woes languish in sorrow by themselves. This is indeed just!  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११७६</summary>
@@ -30944,6 +40559,14 @@ Are victims of the same themselves.        1176
 निर्निद्रे तेऽद्य खेदेन स्यातामश्रुविवर्जिते ॥ ११७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११७७</summary>
+
+1177 uḻantuuḻantu uḷnīr aṟuka viḻaintuiḻaintu  
+vēṇṭi avarkaṇṭa kaṇ.
+
+1177\. These eyes hungered, wept, and repeatedly sent their glances to him. May they grieve and dry up all their stock of tears!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११७७</summary>
 
 7\. உழந்துழந்து உள்நீர் அறுக விழைந்திழைந்து  
@@ -30968,6 +40591,14 @@ In eyes that eyed him longing longing.        1177
 
 हार्द प्रेम विना वाक्यमात्रात् प्रेमदर्शकः ।  
 अस्ति कश्रिददृष्ट्वा तं न नेत्रे शान्तिमापतुः ॥ ११७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११७८</summary>
+
+1178 pēṇātu peṭṭār uḷarmaṉṉō maṟṟavark  
+kāṇātu amaivila kaṇ.
+
+1178\. She says to her companion: ‘Did you not say that he who loves with words gets the wearing. Unless I see him straight before me, my eyelids do not close in sleep.’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११७८</summary>
@@ -30996,6 +40627,14 @@ Yet my eyes pine seeing him not.        1178
 नायाति निद्रा तस्मान्मे विषण्णे नयने भृशम् ॥ ११७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११७९</summary>
+
+1179 vārākkāl tuñcā variṉtuñcā āyiṭai  
+ārañar uṟṟaṉa kaṇ.
+
+1179\. When he is away, my eyes are restless. When he comes, they are sleepless. Lost between these extremities my eyes endure untold suffering.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११७९</summary>
 
 9\. வாராக்கால் துஞ்சா வரின்துஞ்சா ஆயிடை  
@@ -31020,6 +40659,14 @@ This is the fate of eyes that weep.        1179
 
 गुह्यप्रकाशपटहतुल्यनेत्रयुता वयम् ।  
 अतोऽस्मन्नयने दृष्ट्वा रहस्यं जनाः ॥ ११८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११८०</summary>
+
+1180 maṟaipeṟal ūrārkku aritaṉṟāl empōl  
+aṟaipaṟai kaṇṇār akattu.
+
+1180\. It is certainly not hard for the villagers to read my secret love. My tell-tale eyes proclaim it to the world.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११८०</summary>
@@ -31050,6 +40697,14 @@ From people who could hide his secret?        1180
 ततोऽभून्मयि वैवर्ण्य कस्मै तत्कथयाम्यहम् ॥ ११८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११८१</summary>
+
+1181 nayantavarkku nalkāmai nērntēṉ pacantaveṉ  
+paṇpiyārkku uraikkō piṟa.
+
+1181\. I did not assent to my lover’s parting. To whom can I now complain of the pallor of my body, stricken with separation?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११८१</summary>
 
 1\. நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தஎன்  
@@ -31074,6 +40729,14 @@ Whom to complain my hue pallid?        1181
 
 ''नायकेनार्पितं चेदमि'' ति सन्तोषहेतुना ।  
 वैवर्ण्य मम देहेऽस्मिन् व्याप्य सर्वत्र वर्तते ॥ ११८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११८२</summary>
+
+1182 avartantār eṉṉum takaiyāl ivartantueṉ  
+mēṉimēl ūrum pacappu.
+
+1182\. The pallor spread over my body, exalting in the fact that he gave its birth.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११८२</summary>
@@ -31102,6 +40765,14 @@ Pallor creeps and rides over my frame.        1182
 मत्तः सौन्दर्यलज्जे तु प्रत्यगृह्णान्मुदान्वितः ॥ ११८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११८३</summary>
+
+1183 cāyalum nāṇum avarkoṇṭār kaimmāṟā  
+nōyum pacalaiyum tantu.
+
+1183\. For my beauty and my bashfulness which he took away with him, my lover rewarded me with anguish and pallor.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११८३</summary>
 
 3\. சாயலும் நாணும் அவர்கொண்டார் கைம்மாறா  
@@ -31126,6 +40797,14 @@ Leaving pangs and Pallor to me.        1183
 
 स्मरामि नायकेनोक्तं तद्वीर्य च वदाम्यहम् ।  
 अथापि जातं वैवर्ण्य, न जाने वञ्चनामिमाम् ॥ ११८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११८४</summary>
+
+1184 uḷḷuvaṉ maṉyāṉ uraippatu avartiṟamāl  
+kaḷḷam piṟavō pacappu.
+
+1184\. I think only of him and I open my lips only to sing his praises. Yet this pallor has come over me — O what cunning is this!  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११८४</summary>
@@ -31154,6 +40833,14 @@ Yet this pallor steals over my frame.        1184
 पश्यात्र सद्यो वैवर्ण्य मम देहमुपागमत् ॥ ११८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११८५</summary>
+
+1185 uvakkāṇem kātalar celvār ivakkāṇeṉ  
+mēṉi pacappuūr vatu.
+
+1185\. Lo! Yonder is my lover gone. And here is the pallid hue spreading over my frame.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११८५</summary>
 
 5\. உவக்காண்எம் காதலர் செல்வார் இவக்காண்என்  
@@ -31178,6 +40865,14 @@ And pallor usurped my body here.        1185
 
 यथा दीपतिरोधानं प्रतीक्षद्वर्तते तमः ।  
 तथाऽऽलिङ्गनविच्छेदं वैवर्ण्य संप्रतीक्षते ॥ ११८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११८६</summary>
+
+1186 viḷakkuaṟṟam pārkkum iruḷēpōl koṇkaṉ  
+muyakkuaṟṟam pārkkum pacappu.
+
+1186\. Pallor awaits me the moment I am away from my lord’s embrace, even as darkness lies in wait for the light to fade.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११८६</summary>
@@ -31206,6 +40901,14 @@ Pallor looks for lover's arms-off.        1186
 अत्रान्तरे तु वैवर्ण्य मद्देहे व्यापृतं वभौ ॥ ११८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११८७</summary>
+
+1187 pullik kiṭantēṉ puṭaipeyarntēṉ avvaḷavil  
+aḷḷikkoḷ vaṟṟē pacappu.
+
+1187\. I lay locked up in my lover’s embrace; I moved away so little from him; when lo! pallor sprang up as it were to devour me.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११८७</summary>
 
 7\. புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்  
@@ -31230,6 +40933,14 @@ This pallor swallowed me at once.        1187
 
 ''वैवर्ण्य प्रापदेषे'' ति वक्तारः मन्ति भृरिशः ।  
 ''प्रियो ययौ वियुज्यैनामि'' ति वक्ता न विद्यते ॥ ११८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११८८</summary>
+
+1188 pacantāḷ ivaḷeṉpatu allāl ivaḷait  
+tuṟantār evareṉpār il.
+
+1188\. People say that I have gone sickly pale; never do they blame him that has abandoned me.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११८८</summary>
@@ -31258,6 +40969,14 @@ But none says "lo he parted her".        1188
 यदि स्यात्तर्हि मद्देहवैवर्ण्यान्नास्ति मे व्यथा ॥ ११८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११८९</summary>
+
+1189 pacakkamaṉ paṭṭāṅkueṉ mēṉi nayappittār  
+nalnilaiyar āvar eṉiṉ.
+
+1189\. If only he would keep his promise to return, my frame would gladly endure all the pallor of love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११८९</summary>
 
 9\. பசக்கமன் பட்டாங்கென் மேனி நயப்பித்தார்  
@@ -31282,6 +41001,14 @@ If he who took my leave fares well.        1189
 
 वियुक्त मम सम्मत्या प्रियं खिन्न जना यदि ।  
 न निन्देयुस्तदा श्लाघ्या विवर्णेयमिति प्रथा ॥ ११९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११९०</summary>
+
+1190 pacappeṉap pērpeṟutal naṉṟē nayappittār  
+nalkāmai tūṟṟār eṉiṉ.
+
+1190\. Good it is for me to be known as pallor incarnate if only people do not call my lover merciless.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११९०</summary>
@@ -31312,6 +41039,14 @@ But my lover let them not deride.        1190
 बीजावापं विना लब्धफला स्याल्लक्ष्यजीविते ॥ ११९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११९१</summary>
+
+1191 tāmvīḻvār tamvīḻap peṟṟavar peṟṟārē  
+kāmattuk kāḻil kaṉi.
+
+1191\. Only those women taste all the juice of the seedless fruit of love, whose love is returned by their lovers.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११९१</summary>
 
 1\. தாம்விழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே  
@@ -31336,6 +41071,14 @@ Who are beloved by those they love.        1191
 
 स्वानुरक्तासु नारीषु नायकैः प्रेमदर्शनम् ।  
 जन्तूनां विषये मेघकृतवृष्टिसमं भवेत् ॥ ११९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११९२</summary>
+
+1192 vāḻvārkku vāṉam payantaṟṟāl vīḻvārkku  
+vīḻvār aḷikkum aḷi.
+
+1192\. Welcome as the rain to the tillers of the earth is the grace of the lover to his loved one.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११९२</summary>
@@ -31364,6 +41107,14 @@ Are like rains to living beings.        1192
 जातेऽपि सङ्गमो भूयादिति गर्वयुतास्तु ताः ॥ ११९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११९३</summary>
+
+1193 vīḻunar vīḻap paṭuvārkku amaiyumē  
+vāḻunam eṉṉum cerukku.
+
+1193\. Justly may those women feel proud of their life who are endowed with lovers who requite their love in all its fullness.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११९३</summary>
 
 3\. வீழுநர் வீழப் படுவார்க்கு அமையுமே  
@@ -31388,6 +41139,14 @@ Whose love is returned by love so close.        1193
 
 स्ववाञ्छितप्रियतमो यस्यां प्रीतिं न दर्शयेत् ।  
 अन्येषां स्पृहणीयां च भाग्यहीनां हि तां विदुः ॥ ११९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११९४</summary>
+
+1194 vīḻap paṭuvār keḻīiyilar tāmvīḻvār  
+vīḻap paṭāar eṉiṉ.
+
+1194\. Those whose love is not returned by their sweet ones are unlucky beyond measure. Of what avail to them is the esteem of others?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११९४</summary>
@@ -31416,6 +41175,14 @@ Are luckless with all esteems they earn.        1194
 न कुर्यच्चेत् तदा स्त्रीणां किं तैरस्ति प्रयोजनम् ॥ ११९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११९५</summary>
+
+1195 nāmkātal koṇṭār namakkevaṉ ceypavō  
+tāmkātal koḷḷāk kaṭai.
+
+1195\. When he does not return my love, what favour can I expect of him?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११९५</summary>
 
 5\. நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ  
@@ -31440,6 +41207,14 @@ If he does not requite our love?        1195
 
 एकपक्षानुरागास्तु जनयेद्यसनं महत् ।  
 कामस्तुलाभारसमो द्विपक्षस्थः सुखप्रदः ॥ ११९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११९६</summary>
+
+1196 orutalaiyāṉ iṉṉātu kāmamkāp pōla  
+irutalai yāṉum iṉitu.
+
+1196\. Bitter is unrequited love; sweet it is if returned in equal measure like the well-poised even scales.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११९६</summary>
@@ -31468,6 +41243,14 @@ Poises well like shoulder poles.        1196
 मदीयदुःखवैवर्ण्ये जानीयान्मदनः कथम् ॥ ११९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११९७</summary>
+
+1197 paruvaralum paitalum kāṇāṉkol kāmaṉ  
+oruvarkaṇ niṉṟoḻuku vāṉ.
+
+1197\. Cannot the god of love, who pays his attention to me alone, behold all my anguish and sorrow?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११९७</summary>
 
 7\. பருவரலும் பைதலும் காணான்கொல் காமன்  
@@ -31492,6 +41275,14 @@ Knows he not my pallor and pain?        1197
 
 स्वानुरक्तप्रियेणोक्तमश्रुत्वा मधुरं वचः ।  
 वियुज्य भुवि जीवन्त्यो भवन्ति क्लेशभाजनम् ॥ ११९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११९८</summary>
+
+1198 vīḻvāriṉ iṉcol peṟāatu ulakattu  
+vāḻvāriṉ vaṉkaṇār il.
+
+1198\. Breathes there a more cruel soul on this earth than the one who lives on without the encouraging words of the loved one?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - ११९८</summary>
@@ -31520,6 +41311,14 @@ Without kind words from whom she dotes.        1198
 तत्कीर्तिश्रवणं नूनं श्रवणानन्दं मम ॥ ११९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - ११९९</summary>
+
+1199 nacaiiyār nalkār eṉiṉum avarmāṭṭu  
+icaiyum iṉiya cevikku.
+
+1199\. Though the loved one favours me not, delightful indeed is stray news of him that reaches my ears.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ११९९</summary>
 
 9\. நசைஇயார் நல்கார் எனினும் அவர்மாட்டு  
@@ -31544,6 +41343,14 @@ And yet his words sweeten my ears.        1199
 
 प्रेमहीने तु पुरुषे हे चित्त! वदसि व्यथाम् ।  
 न तेन तव लाभोऽस्ति जलघेर्गोपनं यथा ॥ १२००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२००</summary>
+
+1200 uṟāarkku uṟunōy uraippāy kaṭalaic  
+ceṟāaay vāḻiya neñcu.
+
+1200\. Oh my heart! try to tell gnawing cares to your unresponsive lover; you may as well strive to dry up the surging sea.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२००</summary>
@@ -31574,6 +41381,14 @@ Bless my heart! rather fill up sea!        1200
 स्मृतमात्रेण चानन्ददाता कामो विशिष्यते ॥ १२०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२०१</summary>
+
+1201 uḷḷiṉum tīrāp perumakiḻ ceytalāl  
+kaḷḷiṉum kāmam iṉitu.
+
+1201\. Love is far sweeter than wine; for unlike wine the very thought of love intoxicates me.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२०१</summary>
 
 1\. உள்ளினும் தீராப் பெருமகிழ் செய்தலால்  
@@ -31598,6 +41413,14 @@ Is its delight at very thought.        1201
 
 विश्लेपेऽपि प्रियः स्वीयप्रियां चित्तं यदि स्मरेत् ।  
 तदेव वारयेत् खेदं, सर्वदा मोददः स्मरः ॥ १२०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२०२</summary>
+
+1202 eṉaittoṉṟu iṉitēkāṇ kāmamtām vīḻvār  
+niṉaippa varuvatoṉṟu il.
+
+1202\. Love is sweet in all respects; the thought of the dear one even in separation tastes sweet.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२०२</summary>
@@ -31626,6 +41449,14 @@ In all aspects this love is sweet.        1202
 ज्ञायते तेन मां स्मृत्वा प्रियो व्यस्मरदिप्यपि ॥ १२०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२०३</summary>
+
+1203 niṉaippavar pōṉṟu niṉaiyārkol tummal  
+ciṉaippatu pōṉṟu keṭum.
+
+1203\. She says to her companion: “A sneeze comes upon me but goes away all of a sudden; perhaps a thought of me occurs to him and then he forgets it.”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२०३</summary>
 
 3\. நினைப்பவர் போன்று நினையார்கொல் தும்மல்  
@@ -31650,6 +41481,14 @@ Me he tried to think but did not.        1203
 
 वासं करोति मच्चिते सर्वदा प्रियकामुकः ।  
 तथा तदीयचित्तेऽपि वसामि किमहं न वा? ॥ १२०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२०४</summary>
+
+1204 yāmum uḷēmkol avarneñcattu emneñcattu  
+ōo uḷarē avar.
+
+1204\. He is ever present in my thoughts. Am I or am I not ever present in his thoughts?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२०४</summary>
@@ -31678,6 +41517,14 @@ Ah from mine he will never depart.        1204
 हृदये मम निर्लजं कथं नित्यं वसेदसौ ॥ १२०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२०५</summary>
+
+1205 tamneñcattu emmaik kaṭikoṇṭār nāṇārkol  
+emneñcattu ōvā varal.
+
+1205\. He keeps me away from his heart; does he not feel ashamed of constantly stealing into my heart?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२०५</summary>
 
 5\. தம்நெஞ்சத்து எம்மைக் கடிகொண்டார் நாணார்கொல்  
@@ -31702,6 +41549,14 @@ Banning me entry into his.        1205
 
 प्रियेण भुक्तदिवसान् स्मृत्वा जीवामि संप्रति ।  
 तदभावे जीवनं मे सर्वदा दुर्लभं भवेत् ॥ १२०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२०६</summary>
+
+1206 maṟṟuyāṉ eṉṉuḷēṉ maṉṉō avaroṭuyāṉ  
+uṟṟanāḷ uḷḷa uḷēṉ.
+
+1206\. Only the recollection of those ecstatic days with him makes me live. What else can sustain me?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२०६</summary>
@@ -31730,6 +41585,14 @@ What else of life can I presume?        1206
 यद्यहं तं विस्मरेयं न जाने किं भवेदिति ॥ १२०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२०७</summary>
+
+1207 maṟappiṉ evaṉāvaṉ maṉkol maṟappaṟiyēṉ  
+uḷḷiṉum uḷḷañ cuṭum.
+
+1207\. Never have I forgotten the golden days with my beloved; his separation now burns into my heart; certain is death if ever the memory of him forsakes my luckless heart.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२०७</summary>
 
 7\. மறப்பின் எவனாவன் மற்கொல் மறப்பறியேன்  
@@ -31754,6 +41617,14 @@ When his memory burns my heart?        1207
 
 प्रियं स्मराम्यहोरात्रं तदर्थ न स कुप्यानि ।  
 महोपकारं मन्येऽहमिदं तेन कृतं मम ॥ १२०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२०८</summary>
+
+1208 eṉaittu niṉaippiṉum kāyār aṉaittaṉṟō  
+kātalar ceyyum ciṟappu.
+
+1208\. However much I may think of him, he is never angry with me. Inimitable is my lover's grace.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२०८</summary>
@@ -31782,6 +41653,14 @@ He chides not; and thus honours me.        1208
 ???? तत्कृत्यं ???? ॥ १२०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२०९</summary>
+
+1209 viḷiyumeṉ iṉṉuyir vēṟallam eṉpā  
+aḷiyiṉmai āṟṟa niṉaintu.
+
+1209\. As I think and think of the cruelty of my love who swore that our lives were inseparable, my soul ebbs away.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२०९</summary>
 
 9\. விளியும்என் இன்னுயிர் வேறல்லம் என்பார்  
@@ -31806,6 +41685,14 @@ Of him who said we are one heart.        1209
 
 प्रियो मया सह स्थित्वा वियुज्याद्य जगाम ।  
 ???? चन्द्रमाः ! ॥ १२१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१०</summary>
+
+1210 viṭāatu ceṉṟāraik kaṇṇiṉāl kāṇap  
+paṭāati vāḻi mati.
+
+1210\. She says to the moon : “O blessed moon I ceaselessly pour your rays till I am able to see with my eyes the loved one who has forsaken me but yet dwells forever in my heart.”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२१०</summary>
@@ -31836,6 +41723,14 @@ Him who left me but not my mind.        1210
 निद्रायां तस्य चातिथ्यं कीदृशं करवाण्यहम् ॥ १२११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२११</summary>
+
+1211 kātalar tūtoṭu vanta kaṉaviṉukku  
+yātucey vēṉkol viruntu.
+
+1211\. With what feast may I entertain the dream that has brought glad tidings of my lover?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२११</summary>
 
 1\. காதலர் தூதொடு வந்த கனவினுக்கு  
@@ -31860,6 +41755,14 @@ That brings the beloved's love-mission?        1211
 
 नेत्रे निद्रावशं प्राप्ते स्वप्ने प्राप्तं प्रियं प्रति ।  
 कथं ''कृच्छेण जीवामी'' त्येतद् ब्रूयां विहेषतः ॥ १२१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१२</summary>
+
+1212 kayaluṇkaṇ yāṉirappat tuñciṉ kalantārkku  
+uyaluṇmai cāṟṟuvēṉ maṉ.
+
+1212\. If only my eyes would close in sleep at my request, how I would meet him in dreams!  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२१२</summary>
@@ -31888,6 +41791,14 @@ To tell my lover how life I keep.        1212
 स्वप्ने वा दर्शनात्तस्य जीवाम्यत्र कथञ्चन ॥ १२१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२१३</summary>
+
+1213 naṉaviṉāl nalkā tavaraik kaṉaviṉāl  
+kāṇṭaliṉ uṇṭeṉ uyir.
+
+1213\. The merciless one favours me not in waking hours but in dreams I feast on him and thus manage to live.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२१३</summary>
 
 3\. நனவினால் நல்கா தவரைக் கனவினால்  
@@ -31912,6 +41823,14 @@ I meet in dreams and linger yet.        1213
 
 मयि जाग्रति यः प्रीतिं कामुको नाकरोन्मयि ।  
 स्वप्नेन स समानीतस्तत्न प्रीतिं करोम्यहम् ॥ १२१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१४</summary>
+
+1214 kaṉaviṉāṉ uṇṭākum kāmam naṉaviṉāl  
+nalkārai nāṭit taraṟku.
+
+1214\. Why do I love dreams? It is because they bring before me the one who in waking hours favours me not.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२१४</summary>
@@ -31940,6 +41859,14 @@ Who in wakeful hours I miss.        1214
 अद्य स्वप्नगतानन्दो यः सोऽपि क्षणिकोऽभवत् ॥ १२१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२१५</summary>
+
+1215 naṉaviṉāl kaṇṭatūum āṅkē kaṉavuntāṉ  
+kaṇṭa poḻutē iṉitu.
+
+1215\. Sweet is his presence in the waking hours; sweet too is his appearance in a dream. What then do I miss in seeing him in my dreams?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२१५</summary>
 
 5\. நனவினாற் கண்டதூஉம் ஆங்கே கனவுந்தான்  
@@ -31964,6 +41891,14 @@ Awake- What of seeing him -hence.        1215
 
 भुवि जाग्रदवस्थेयं सर्वदा न भवेद्यदि ।  
 तदा प्रियः स्वप्नदृष्टो मां वियुज्य न यास्पति ॥ १२१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१६</summary>
+
+1216 naṉaveṉa oṉṟuillai āyiṉ kaṉaviṉāl  
+kātalar nīṅkalar maṉ.
+
+1216\. If only there was no such thing as waking hours, my lover would never desert me in my dreams.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२१६</summary>
@@ -31992,6 +41927,14 @@ My lov'r in dreams would nev'r depart        1216
 स्वप्नो परं समागत्य मां कुतो व्यथयत्यसौ ॥ १२१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२१७</summary>
+
+1217 naṉaviṉāl nalkāk koṭiyār kaṉaviṉāl  
+eṉemmaip pīḻip patu.
+
+1217\. Why does the cruel one plague me in my dreams when he shows no compassion on me in my waking state?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२१७</summary>
 
 7\. நனவினால் நல்காக் கொடியார் கனவினால்  
@@ -32016,6 +41959,14 @@ Adream, ah cruel! he tortures!        1217
 
 मत्स्वप्ने कामुकः प्राप्य स्कन्धमारुह्य वर्तते ।  
 निद्रान्ते पूर्ववत्सोऽयं मम मानसमाविशेत् ॥ १२१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१८</summary>
+
+1218 tuñcuṅkāl tōḷmēlar āki viḻikkuṅkāl  
+neñcattar āvar viraintu.
+
+1218\. She says to her companion: “He embraces me in my dreams but the moment I awake he quickly vanishes into my heart.”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२१८</summary>
@@ -32044,6 +41995,14 @@ Awake he enters quick my heart.        1218
 प्रियं प्रीतिमकुर्वन्तं स्मृत्वा खेदयुताः स्त्रियः ॥ १२१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२१९</summary>
+
+1219 naṉaviṉāl nalkārai nōvar kaṉaviṉāl  
+kātalark kāṇā tavar.
+
+1219\. Only those women who do not see their lovers in dreams, blame them for their cruelty in walking hours.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२१९</summary>
 
 9\. நனவினால் நல்காரை நோவர் கனவினால்  
@@ -32068,6 +42027,14 @@ Rue their missing in wakeful hours.        1219
 
 ''त्याक्तवाऽस्मान् नायकः प्रायादि'' ति निन्दन्ति याः स्त्रियः ।  
 अविर्भवन्तं स्वप्ने तं न निन्दन्ति हि ताः किमु ॥ १२२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२०</summary>
+
+1220 naṉaviṉāl namnīttār eṉpar kaṉaviṉāl  
+kāṇārkol ivvū ravar.
+
+1220\. Folk say: “He has abandoned her in sooth.” Verily they do not know how he visits me in my dreams.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२२०</summary>
@@ -32098,6 +42065,14 @@ In dreams failing to see him close.        1220
 प्राणभुग्यमरूपस्त्वं सायङ्काल ! विभासि मे ॥ १२२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२२१</summary>
+
+1221 mālaiyō allai maṇantār uyiruṇṇum  
+vēlainī vāḻi poḻutu.
+
+1221\. O blessed twilight! You are not the twilight of the joyous old times; you are the end of the world devouring the lives of the parted lovers.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२२१</summary>
 
 1\. மாலையோ அல்லை மணந்தார் உயிர்உண்ணும்  
@@ -32122,6 +42097,14 @@ But killing dart to wedded bride!        1221
 
 सायंसन्ध्ये ! अयि भ्रान्ते ! खिन्ना त्वं दृश्यसेऽधुना ।  
 तव प्रियो मत्प्रियवद् दयाशून्योऽभवत् किमु? ॥ १२२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२२</summary>
+
+1222 puṉkaṇṇai vāḻi maruḷmālai eṅkēḷpōl  
+vaṉkaṇṇa tōniṉ tuṇai.
+
+1222\. “Blest be thou, O twilight! You are pale and your eyes are lustreless. Is your sweet one as cruel as mine?"  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२२२</summary>
@@ -32150,6 +42133,14 @@ Has your mate like mine, cruel whim!        1222
 सैवाद्य मम नैराश्यमृलकं खेदमातनोत् ॥ १२२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२२३</summary>
+
+1223 paṉiarumpip paitalkoḷ mālai tuṉiarumpit  
+tuṉpam vaḷara varum.
+
+1223\. O Evening! In those joyous days with my beloved you approached me timidly with drops of dew on you and sadness written in your face. Your advance now brings with it only distaste and sorrow.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२२३</summary>
 
 3\. பனிஅரும்பிப் பைதல்கொள் மாலைதுனி அரும்பித்  
@@ -32174,6 +42165,14 @@ Now it makes bold with growing pain.        1223
 
 प्रिये दूरं गते वध्यस्थलं घातकवत् स्वयम् ।  
 सायङ्कालः समागत्य मम प्राणान् हरत्ययम् ॥ १२२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२४</summary>
+
+1224 kātalar ilvaḻi mālai kolaikkaḷattu  
+ētilar pōla varum.
+
+1224\. My lover away, evening comes murderously like a hangman rushing to the place of slaughter.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२२४</summary>
@@ -32202,6 +42201,14 @@ Like slayer to field of homicide.        1224
 सायङ्कालकृते कोऽयमपकारो मया कृतः ॥ १२२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२२५</summary>
+
+1225 kālaikkuc ceytanaṉṟu eṉkol evaṉkolyāṉ  
+mālaikkuc ceyta pakai.
+
+1225\. Morning, Evening, why should these alternately assuage and afflict me in this separation? What good have I done to morn and what harm to even?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२२५</summary>
 
 5\. காலைக்குச் செய்தநன்று என்கொல்? எவன்கொல்யான்  
@@ -32226,6 +42233,14 @@ And what evil to this evening?        1225
 
 कामुकेन यदाऽहं तु न्यवसं प्रेमपूर्वकम् ।  
 सायङ्कालो व्यथां कुर्योदित्येतन्नाविदं पुरा ॥ १२२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२६</summary>
+
+1226 mālainōy ceytal maṇantār akalāta  
+kālam aṟintatu ilēṉ.
+
+1226\. With my lover by my side, never for once, did I taste the bitterness that eventide can cause.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२२६</summary>
@@ -32254,6 +42269,14 @@ When my lord nev'r left me alone.        1226
 मध्याह्ने पक्कतां प्राप्य सायं विकसति स्वयम् ॥ १२२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२२७</summary>
+
+1227 kālai arumpip pakalellām pōtāki  
+mālai malarumin nōy.
+
+1227\. This disease of love buds in the morning, grows and grows all day long and flowers into full bloom at eventide.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२२७</summary>
 
 7\. காலை அரும்பிப் பகலெல்லாம் போதாகி  
@@ -32278,6 +42301,14 @@ This disease blooms in evening gay.        1227
 
 सायङ्कालस्य तीक्ष्णस्य दूतो भूत्वा स्वयं किल ।  
 गोपहस्तगतो वेणुरायुधात्मा हिनस्ति माम् ॥ १२२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२८</summary>
+
+1228 aḻalpōlum mālaikkut tūtāki āyaṉ  
+kuḻalpōlum kollum paṭai.
+
+1228\. The note of the shepherd’s pipe, which sounded so pleasant in the happy days, has now become a message of the hot evening — verily a weapon forging my death.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२२८</summary>
@@ -32306,6 +42337,14 @@ Hails flaming eve and slays my heart.        1228
 यथाऽहं तद्वदन्येऽपि ग्रामीणाः खेदमाप्नुयुः ॥ १२२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२२९</summary>
+
+1229 patimaruṇṭu paital uḻakkum matimaruṇṭu  
+mālai paṭartarum pōḻtu.
+
+1229\. When senseless evening creeps painfully along, the whole village feels dizzy and is plunged in the anguish of separation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२२९</summary>
 
 9\. பதிமருண்டு பைதல் உழக்கும் மதிமருண்டு  
@@ -32330,6 +42369,14 @@ The whole town will suffer love-pangs.        1229
 
 पत्युर्वियोगकालेऽपि स्थिताः प्राणाः, धनात्यये ।  
 गतं प्रियं विचिन्त्याद्य सायं निर्यान्ति देहतः ॥ १२३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२३०</summary>
+
+1230 poruḷmālai yāḷarai uḷḷi maruḷmālai  
+māyumeṉ māyā uyir.
+
+1230\. This life of mine which has survived this bitter separation is very near to death in this treacherous evening, as I think of my lord who values riches far above love.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२३०</summary>
@@ -32359,6 +42406,14 @@ My life outlives the twilight stealth.        1230
 तं स्मृत्वा रोदनान्नेत्रे पुष्पैः स्यातां जितेऽधुना ॥ १२३१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२३१</summary>
+
+1231 ciṟumai namakkoḻiyac cēṇceṉṟār uḷḷi  
+naṟumalar nāṇiṉa kaṇ.
+
+1231\. Companion to lady-love: “Stop tins weeping and wailing. The thought of the one gone far away has made your eyes pale and lustreless.”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२३१</summary>
 
 1\. சிறுமை நமக்குஒழியச் சேட்சென்றார் உள்ளி  
@@ -32383,6 +42438,14 @@ His thought makes my eyes blush the flower.        1231
 
 ???? करोदिति ।  
 वार्तामश्रुनिभान्नेत्रे विवर्णे वदतः किमु ॥ १२३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२३२</summary>
+
+1232 nayantavar nalkāmai colluva pōlum  
+pacantu paṉivārum kaṇ.
+
+1232\. “Your pallid eyes streaming with tears proclaim the callousness of your lord.”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२३२</summary>
@@ -32411,6 +42474,14 @@ The hardness of my husband, away.        1232
 कृशौ भूत्वाद्य विश्लेषं बोधयन्ताविव स्थितौ ॥ १२३३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२३३</summary>
+
+1233 taṇantamai cāla aṟivippa pōlum  
+maṇantanāḷ vīṅkiya tōḷ.
+
+1233\. “Your shoulders that swelled with joy on the day of your marriage are thin today; they proclaim how your lord has cruelly forsaken you.”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२३३</summary>
 
 3\. தணந்தமை சால அறிவிப்ப போலும்  
@@ -32435,6 +42506,14 @@ Now shrunk proclaim "He is away".        1233
 
 स्कन्धौ नायकविश्लेषात् क्षीणौ शोभाविवर्जितौ ।  
 तदर्थ क्षीणहस्तभ्यां बभूवुर्वलयाश्च्युताः ॥ १२३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२३४</summary>
+
+1234 paṇainīṅkap paintoṭi cōrum tuṇainīṅkit  
+tolkaviṉ vāṭiya tōḷ.
+
+1234\. “Since your separation from your lord your shoulders have lost their innate grace; worse still they have become lanky; and the bangles too slip on your slender arms.”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२३४</summary>
@@ -32463,6 +42542,14 @@ Lost old beauty for He took leave.        1234
 निर्दयस्य प्रियस्यास्य काठिन्यगुणमूचतुः ॥ १२३५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२३५</summary>
+
+1235 koṭiyār koṭumai uraikkum toṭiyoṭu  
+tolkaviṉ vāṭiya tōḷ.
+
+1235\. My bracelets slip; the charm of my shoulders withers away. It proclaims the cruelty of the heartless one.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२३५</summary>
 
 5\. கொடியார் கொடுமை உரைக்கும் தொடியொடு  
@@ -32487,6 +42574,14 @@ Arms tell the cruel's cruelty.        1235
 
 स्कन्धक्षयं ततो भ्रशं वलयानां निरोक्ष्य च ।  
 प्रियं निन्दन्ति कठिनं जनाः, खिन्नस्ततोऽस्म्यहम् ॥ १२३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२३६</summary>
+
+1236 toṭiyoṭu tōḷnekiḻa nōval avaraik  
+koṭiyar eṉakkūṟal nontu.
+
+1236\. With loose bangles and leaner shoulders, I still feel pained to hear him called cruel; I cannot bear any affront to my lord’s fair name.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२३६</summary>
@@ -32515,6 +42610,14 @@ My sire cruel; that pains my soul.        1236
 विनिवेद्य ततो जातं महत्त्वं प्राप्यतां त्वया ॥ १२३७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२३७</summary>
+
+1237 pāṭu peṟutiyō neñcē koṭiyārkkeṉ  
+vāṭutōḷ pūcal uraittu.
+
+1237\. “O my heart, do you desire to cover yourself with glory? Then go to the cruel one and tell him the wasting away of my shoulders and these rumours of cruelty abroad.”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२३७</summary>
 
 7\. பாடு பெறுதியோ நெஞ்சே கொடியார்க்கென்  
@@ -32539,6 +42642,15 @@ Bruit ov'r my arms and glory find.        1237
 
 परिष्यवज्य प्रियं हस्तो यदा तु शिथिलीकृतः ।  
 तदा वलयहस्तायाः भालमासित्तु निष्प्रभम् ॥ १२३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२३८</summary>
+
+1238 muyaṅkiya kaikaḷai ūkkap pacantatu  
+paintoṭip pētai nutal.
+
+1238\. He soliloquising: “once when I gently loosened my hands from an ecstatic embrace, the forehead of my love suddenly turned pale. I wonder  
+how she bears my separation in these long days.”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२३८</summary>
@@ -32567,6 +42679,14 @@ As my clasping arms loosed their hold.        1238
 तस्यास्तदा शीतनेत्रे स्यातां वैवर्ण्यसंयुते ॥ १२३९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२३९</summary>
+
+1239 muyakkiṭait taṇvaḷi pōḻap pacappuṟṟa  
+pētai perumaḻaik kaṇ.
+
+1239\. “The still eyes of my love dark as the rain bearing cloud turned sickly pale the moment a gust of wind crept in between our locked arms; how does she bear the estranging seas and mountains hurled in between us now?”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२३९</summary>
 
 9\. முயக்கிடைத் தண்வளி போழப் பசப்புற்ற  
@@ -32591,6 +42711,14 @@ Her large rain-cloud-eyes paled at once.        1239
 
 प्रियायाः भालदेशस्थवैवर्ण्यं समुदीक्ष्य तु ।  
 तदीयनयनाक्रान्तवैवर्ण्यं प्राप खिन्नताम् ॥ १२४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२४०</summary>
+
+1240 kaṇṇiṉ pacappō paruvaral eytiṉṟē  
+oṇṇutal ceytatu kaṇṭu.
+
+1240\. “Her eyes turned lustreless at the release of my arms from their close embrace; was it in sympathy with the fading brightness of her forehead?”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२४०</summary>
@@ -32621,6 +42749,14 @@ Of the bright forehead of this fair.        1240
 हे चित्त ! सम्यगालेच्य न ब्रूयाः किन्तु तत्तु मे ॥ १२४१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२४१</summary>
+
+1241 niṉaittuoṉṟu collāyō neñcē eṉaittoṉṟum  
+evvanōy tīrkkum maruntu.
+
+1241\. O heart! can you not cast about and find a remedy for my lovesickness which causes me such sorrow?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२४१</summary>
 
 1\. நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்  
@@ -32645,6 +42781,14 @@ To cure this chronic malady.        1241
 
 कामुके मयि चाप्रीते हे चित्त ! त्वं परं कुतः ? ।  
 स्मृत्वा तं दुःखमाप्नोषि भ्रान्तस्त्वं विजयी भवा ॥ १२४२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२४२</summary>
+
+1242 kātal avarilar ākanī nōvatu  
+pētamai vāḻieṉ neñcu.
+
+1242\. ‘Blessed may you be O heart! how foolish of you to bemoan separation when he has no love for you!’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२४२</summary>
@@ -32673,6 +42817,14 @@ For me he has no love serene.        1242
 खेदप्रदः प्रियो मां तु स्मृत्वा नायाति चान्तिकम् ॥ १२४३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२४३</summary>
+
+1243 iruntuḷḷi eṉparital neñcē parintuḷḷal  
+paitalnōy ceytārkaṇ il.
+
+1243\. ‘O heart! Why stay in vain here and feel wretched? There is no sympathy in the heart of him who has caused you this wasting disease.’  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२४३</summary>
 
 3\. இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்  
@@ -32697,6 +42849,14 @@ Who made you so pale lacks pity.        1243
 
 हे मानस ! प्रियं ???? ष्टुं मन्नेत्रे ।  
 इमे नेत्रे त्वया साकं नीत्वा गच्छ तदन्तिकम् ॥ १२४४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२४४</summary>
+
+1244 kaṇṇum koḷaccēṟi neñcē ivaiyeṉṉait  
+tiṉṉum avarkāṇal uṟṟu.
+
+1244\. ‘O my heart! if you go to him, take my eyes also with you. They eat into my being in their craving to see him.’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२४४</summary>
@@ -32725,6 +42885,14 @@ Or their hunger will eat me out.        1244
 हे चित्त ! कथमस्माभिरयं त्यक्तुं हि शक्यते ॥ १२४५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२४५</summary>
+
+1245 ceṟṟār eṉakkai viṭaluṇṭō neñcēyām  
+uṟṟāl uṟāa tavar.
+
+1245\. ‘O heart! can I really forsake him as cruel though he has used me cruelly when I clung to him.’  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२४५</summary>
 
 5\. செற்றா ரெனக்கை விடல்உண்டோ நெஞ்சேயாம்  
@@ -32749,6 +42917,14 @@ Can we desert him as unkind?        1245
 
 त्वत्प्रियस्त्वां वियुज्याथ मिलेद्यदि तदा पुनः ।  
 रतिं न कुरुषे धैर्यात् पश्चात्कुप्यसि हे मनः ! ॥ १२४६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२४६</summary>
+
+1246 kalantuṇarntum kātalark kaṇṭāl pulantuṇarāy  
+poykkāyvu kāytieṉ neñcu.
+
+1246\. ‘O my heart I could you ever bear even a mock quarrel with your lover to sweeten his company Then why call him cruel now for your own fault?’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२४६</summary>
@@ -32777,6 +42953,14 @@ Sans huff, you rush to his sweet embrace.        1246
 तदेतदुभयं सोढुमेकदा नैव शक्नुयाम् ॥ १२४७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२४७</summary>
+
+1247 kāmam viṭuoṉṟō nāṇviṭu naṉṉeñcē  
+yāṉō poṟēṉiv viraṇṭu.
+
+1247\. My good heart I cast off one of the two - love or bashfulness. I cannot bear the insupportable weight of them both.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२४७</summary>
 
 7\. காமம் விடுஒன்றோ நாண்விடு நன்னெஞ்சே  
@@ -32801,6 +42985,14 @@ I cannot endure both of them.        1247
 
 वियोगसमये नाथो नाकरोत् प्रीतिमित्यत्ः ।  
 खिन्नस्तमनुसृत्य त्वं चित्त ! यासि कुतो भ्रमात् ॥ १२४८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२४८</summary>
+
+1248 parintavar nalkāreṉṟu ēṅkip pirintavar  
+piṉcelvāy pētaieṉ neñcu.
+
+1248\. ‘You go seeking with a hopeless aching heart after the far-off lover, because he has not understood and favoured you with his mercy. O foolish heart!’  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२४८</summary>
@@ -32829,6 +43021,14 @@ You sigh and seek his favour, poor heart!        1248
 तमन्विष्य बहिः कस्मात् वृथा गच्छसि कुत्र वा ॥ १२४९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२४९</summary>
+
+1249 uḷḷattār kāta lavarāka uḷḷinī  
+yāruḻaic cēṟieṉ neñcu.
+
+1249\. ‘O my heart, is it you keep your lover within you? Then whom do you search in your thoughts? Why search for him outside? Whom do you hope to reach?’  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२४९</summary>
 
 9\. உள்ளத்தார் காத லவராக உள்ளிநீ  
@@ -32853,6 +43053,14 @@ Whom you think, mind to whom you go?        1249
 
 त्यक्त्वाऽस्मान् गतवन्तं तं प्रियं चित्ते निवेश्य ।  
 स्मृत्वा देहः कृशे भूत्वा शोभाविरहितोऽभवत् ॥ १२५०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२५०</summary>
+
+1250 tuṉṉāt tuṟantārai neñcattu uṭaiyēmā  
+iṉṉum iḻantum kaviṉ.
+
+1250\. The more I have him in my heart who has left me never to come back, the more my beauty wastes away.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२५०</summary>
@@ -32883,6 +43091,14 @@ To think of him will make us worse.        1250
 कामनामकुठारोऽय भिनत्ति शतधा किल ॥ १२५१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२५१</summary>
+
+1251 kāmak kaṇicci uṭaikkum niṟaiyeṉṉum  
+nāṇuttāḻ vīḻtta katavu.
+
+1251\. The door of my maidenly grace and the bolt and bars of modesty are hewn by the weapon of restless love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२५१</summary>
 
 1\. காமக் கணிச்சி உடைக்கும் நிறையென்னும்  
@@ -32907,6 +43123,14 @@ Of reserve bolted with my honour.        1251
 
 कामनात्मकवस्त्वेतत्, नूनं दाक्षिण्यवर्जितम् ।  
 यतो मदीयं चित्तं तद्रात्रावपि नियोजयेत् ॥ १२५२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२५२</summary>
+
+1252 kāmam eṉaoṉṟō kaṇṇiṉṟueṉ neñcattai  
+yāmattum āḷum toḻil.
+
+1252\. Verily the thing called love has no grace; even at dead of night it rules my heart and keeps it awake when all the world is in slumber.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२५२</summary>
@@ -32935,6 +43159,14 @@ It sways my mind at midnight hour.        1252
 मामतीत्य तु तद्वेगात् निर्याति क्षुतवद्बहिः ॥ १२५३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२५३</summary>
+
+1253 maṟaippēṉmaṉ kāmattai yāṉō kuṟippuiṉṟit  
+tummalpōl tōṉṟi viṭum.
+
+1253\. I strive to hide this - my passion. Yet it breaks out against my wish like a sudden sneeze.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२५३</summary>
 
 3\. மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்  
@@ -32959,6 +43191,14 @@ Itself while I sneeze unawares!        1253
 
 धैर्यवानहमित्यासीदद्यावधि मतिर्मम् ।  
 किन्त्वद्यान्तः स्थितः कामो निष्क्रम्य प्राविशत् सभाम् ॥ १२५४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२५४</summary>
+
+1254 niṟaiyuṭaiyēṉ eṉpēṉmaṉ yāṉōeṉ kāmam  
+maṟaiyiṟantu maṉṟu paṭum.
+
+1254\. I pride myself on my modesty. But my passion breaks all barriers and brings me out into the open.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२५४</summary>
@@ -32987,6 +43227,14 @@ Lo lust betrays what I preserve.        1254
 स्थातुं धैर्येण कामिन्यो न जानन्ति कदापि ताः ॥ १२५५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२५५</summary>
+
+1255 ceṟṟārpiṉ cellāp peruntakaimai kāmanōy  
+uṟṟār aṟivatoṉṟu aṉṟu.
+
+1255\. Victims of passion can never understand the nobility of giving up the pursuit of unrequited love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२५५</summary>
 
 5\. செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்  
@@ -33011,6 +43259,14 @@ But Love-sick is its innovator.        1255
 
 मद्गतः कामरोगोऽयमवाच्यमहिमान्वितः ।  
 विरक्तस्य प्रियस्यानुगमनं मे यतो मतम् ॥ १२५६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२५६</summary>
+
+1256 ceṟṟavar piṉcēṟal vēṇṭi aḷittarō  
+eṟṟeṉṉai uṟṟa tuyar.
+
+1256\. How cruel is the malady which sends me after the heartless one! Mine is indeed a pitiable lot.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२५६</summary>
@@ -33039,6 +43295,14 @@ Of your caprice what shall I speak!        1256
 तर्हि लज्जाभिधं वस्तु नैव ज्ञानं भवेन्मम ॥ १२५७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२५७</summary>
+
+1257 nāṇeṉa oṉṟō aṟiyalam kāmattāl  
+pēṇiyār peṭpa ceyiṉ.
+
+1257\. When the loved one, after all his vagaries, took me into his loving embraces all my bashfulness fled away.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२५७</summary>
 
 7\. நாணென ஒன்றோ அறியலம் காமத்தால்  
@@ -33063,6 +43327,14 @@ We forget all shame unawares.        1257
 
 स्त्र्वर्तिधैर्यसंज्ञाकप्राकारस्य विभेदनम् ।  
 वञ्चकप्रियनम्रोक्तिरूपसैन्येन शक्यते ॥ १२५८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२५८</summary>
+
+1258 paṉmāyak kaḷvaṉ paṇimoḻi aṉṟōnam  
+peṇmai uṭaikkum paṭai.
+
+1258\. The weapon that shatters our maidenly reserve is none other than the talk of the artful lover.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२५८</summary>
@@ -33091,6 +43363,14 @@ His tempting words break through women's hearts.        1258
 मच्चित्ते तेन संयुक्ते त्वलभे तेन सङ्गमम् ॥ १२५९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२५९</summary>
+
+1259 pulappal eṉacceṉṟēṉ pulliṉēṉ neñcam  
+kalattal uṟuvatu kaṇṭu.
+
+1259\. With the fixed resolve of forsaking him I went, but my heart yielded to his embrace.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२५९</summary>
 
 9\. புலப்ப லெனச் சென்றேன் புல்லினேன் நெஞ்சம்  
@@ -33115,6 +43395,14 @@ Heat to heart in sweet embrace.        1259
 
 अग्निलग्रवसातुल्यं प्रियलग्नं द्रवेन्मनः ।  
 तादृक्चित्तयुता नार्यो वियुक्ताः स्युः कथं प्रियम् ॥ १२६०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२६०</summary>
+
+1260 niṇamtīyil iṭṭaṉṉa neñciṉārkku uṇṭō  
+puṇarntatuūṭi niṟpōm eṉal.
+
+1260\. People with hearts melting like fat at the touch of fire — how can they reject the offered love and stand aloof?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२६०</summary>
@@ -33145,6 +43433,14 @@ For mates who melt like fat in fire?        1260
 गाताह्नां गणनात् स्त्रीणामङ्गुल्यः क्षीणतां गताः ॥ १२६१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२६१</summary>
+
+1261 vāḷaṟṟup puṟkeṉṟa kaṇṇum avarceṉṟa  
+nāḷoṟṟit tēynta viral.
+
+1261\. Counting the days of his separation, my fingers have become wasted and worn out; my eyes have grown dim and faint.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२६१</summary>
 
 1\. வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற  
@@ -33169,6 +43465,14 @@ Worn fingers count days since he left.        1261
 
 त्यक्त्वा गतं प्रियं चाहं विस्मरेय यदि प्रिये ! ।  
 स्कन्धाभ्यां हीनशोभाभ्यां स्त्रस्ताः स्युर्वलयास्तदा ॥ १२६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२६२</summary>
+
+1262 ilaṅkiḻāy iṉṟu maṟappiṉeṉ tōḷmēl  
+kalaṅkaḻiyum kārikai nīttu.
+
+1262\. O! bright girl, if I forget my lord today, then my shoulders will become thin and my bangles loose.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२६२</summary>
@@ -33197,6 +43501,14 @@ Why not forget him now, bright maid?        1262
 अहमद्यापि जीवामि तदागमनकाङ्क्ष्या ॥ १२६३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२६३</summary>
+
+1263 uraṉnacaii uḷḷam tuṇaiyākac ceṉṟār  
+varalnacaii iṉṉum uḷēṉ.
+
+1263\. I continue to live in eager expectation of the return of my lover. He took with him as his friend his own brave heart.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२६३</summary>
 
 3\. உரன்நசைஇ உள்ளம் துணையாகச் சென்றார்  
@@ -33221,6 +43533,14 @@ Yet I live-to see him again.        1263
 
 ''अस्मान् विहाय गतवान् प्रत्येगच्छेत् प्रियोऽद्य सः ।  
 इति मत्वा मनो वृक्षशाखामास्थाय पश्यति ॥ १२६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२६४</summary>
+
+1264 kūṭiya kāmam pirintār varavuḷḷik  
+kōṭukoṭu ēṟumeṉ neñcu.
+
+1264\. With the thought of my lover’s return anxious for reunion, my heart goes on climbing higher and higher.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२६४</summary>
@@ -33249,6 +43569,14 @@ His retun with love to embrace me.        1264
 तदा क्षीणभुजाभ्यां तु वैवर्ण्यमपयास्यति ॥ १२६५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२६५</summary>
+
+1265 kāṇkamaṉ koṇkaṉaik kaṇṇārak kaṇṭapiṉ  
+nīṅkumeṉ meṉtōḷ pacappu.
+
+1265\. After feasting my eyes with the sight of my husband, my soft shoulders will lose their pallor.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२६५</summary>
 
 5\. காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்  
@@ -33273,6 +43601,14 @@ sallow on my soft shoulders flies.        1265
 
 एकदा मां समागच्छेत् मत्प्रियः, तदनन्तरम् ।  
 दुःखव्याधिर्यथा नश्येत् पिबेयं तत्प्रभां तथा ॥ १२६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२६६</summary>
+
+1266 varukamaṉ koṇkaṉ orunāḷ parukuvaṉ  
+paitalnōy ellām keṭa.
+
+1266\. Let my husband come here one day. Then my wasting disease will be completely cured.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२६६</summary>
@@ -33301,6 +43637,14 @@ Joy-drink shall drive my pain away.        1266
 आलिङ्गनमुत त्यागो सम्भोगो वा तदा भवेत् ॥ १२६७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२६७</summary>
+
+1267 pulappēṉkol pulluvēṉ kollō kalappēṉkol  
+kaṇaṉṉa kēḷir variṉ.
+
+1267\. When my husband, dear to me as my eyes, returns, shall I be indifferent or complaining? Shall I not be one with him?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२६७</summary>
 
 7\. புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்  
@@ -33325,6 +43669,14 @@ Shall I sulk or clasp or do both?        1267
 
 समाप्तसङ्गरो राजा जयतात् शत्रुमण्डलम् ।  
 सपत्नीका वयं कुर्मः सायं सन्ध्यामलङ्कृताम् ॥ १२६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२६८</summary>
+
+1268 viṉaikalantu veṉṟīka vēntaṉ maṉaikalantu  
+mālai ayarkam viruntu.
+
+1268\. May my lord be victorious in action and may I also go home to enjoy my evening repast with a guest.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२६८</summary>
@@ -33353,6 +43705,14 @@ And with my wife I will feast this eve!        1268
 वियुक्तायास्तदेकं तु दिनं सप्तदिनं भवेत् ॥ १२६९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२६९</summary>
+
+1269 orunāḷ eḻunāḷpōl cellumcēṇ ceṉṟār  
+varunāḷvaittu ēṅku pavarkku.
+
+1269\. To one who awaits the day of arrival of her husband, one day appears as long as seven.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२६९</summary>
 
 9\. ஒருநாள் எழுநாள்போல் செல்லும்சேட் சென்றார்  
@@ -33377,6 +43737,14 @@ Who yearn return of distant spouse.        1269
 
 भग्रचित्ता कामुकी सा जीवितान्तं व्रजेद्यदि ।  
 प्रियागमेन नो लाभः संश्लेषो वा भवेत् कथम्? ॥ १२७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२७०</summary>
+
+1270 peṟiṉeṉṉām peṟṟakkāl eṉṉām uṉeṉṉām  
+uḷḷam uṭaintuukkak kāl.
+
+1270\. If her heart has been broken, of what avail is it if I become available to her, reach her or even join her?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२७०</summary>
@@ -33407,6 +43775,14 @@ The good of meeting and love-embrace?        1270
 अन्तर्गतं रहस्यार्थमचिरान्मम वक्ष्यतः ॥ १२७१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२७१</summary>
+
+1271 karappiṉum kaiyikantu ollāniṉ uṇkaṇ  
+uraikkal uṟuvatoṉṟu uṇṭu.
+
+1271\. Though you hide it, your uncontrolled eyes reveal a secret to me.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२७१</summary>
 
 1\. கரப்பினுங் கையிகந் தொல்லாநின் உண்கண்  
@@ -33431,6 +43807,14 @@ Restraint off, report your surmise.        1271
 
 वंशुतुल्यकरा या तु पूर्णसौन्दर्यशालिनी ।  
 तस्या प्रियायां लज्जाख्यस्त्रीधर्मः पूर्णतां गतः ॥ १२७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२७२</summary>
+
+1272 kaṇniṟainta kārikaik kāmpuērtōḷ pētaikkup  
+peṇniṟainta nīrmai peritu.
+
+1272\. This girl of long eyes and bamboo shoulders has too much womanly modesty.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२७२</summary>
@@ -33459,6 +43843,14 @@ The simple she has ample charms.        1272
 प्रियालावण्यमध्येऽपि स्यादभिज्ञानमुत्तमम् ॥ १२७३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२७३</summary>
+
+1273 maṇiyil tikaḻtaru nūlpōl maṭantai  
+aṇiyil tikaḻvatoṉṟu uṇṭu.
+
+1273\. Just like the thread concealed by the beads there is something lying beneath this damsel’s beauty.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२७३</summary>
 
 3\. மணியில் திகழ்தரு நூல்போல் மடந்நை  
@@ -33483,6 +43875,14 @@ Like thread shining through wreathed gem.        1273
 
 प्रसूनकुट्मलान्तःस्थसौरभेण समं भुवि ।  
 कामिनीहास्यमध्येऽपि सूचना भाति काचन ॥ १२७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२७४</summary>
+
+1274 mukaimokkuḷ uḷḷatu nāṟṟampōl pētai  
+nakaimokkuḷ uḷḷatoṉṟu uṇṭu.
+
+1274\. Even as the fragrance that is locked up in the bud, there is something hidden in this damsel’s smile.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२७४</summary>
@@ -33511,6 +43911,14 @@ In the bosom of her half smile.        1274
 स तु मद्यसनाधिक्यवारकौषधगार्भितः ॥ १२७५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२७५</summary>
+
+1275 ceṟitoṭi ceytiṟanta kaḷḷam uṟutuyar  
+tīrkkum maruntoṉṟu uṭaittu.
+
+1275\. The tactful departure of my bangled lady serves as soothing balm for my excruciating pain.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२७५</summary>
 
 5\. செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்  
@@ -33535,6 +43943,14 @@ Has a cure for my troubled heart.        1275
 
 प्रेमाधिक्येन चादौ यन्मेलनं, तदितः परम् ।  
 वियोगमूलकप्रेमत्यागचिह्ननिदर्शनम् ॥ १२७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२७६</summary>
+
+1276 peritāṟṟip peṭpak kalattal aritāṟṟi  
+aṉpiṉmai cūḻvatu uṭaittu.
+
+1276\. The pleasant union after the distress of separation still reminds one of the past indifference of the lover.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२७६</summary>
@@ -33563,6 +43979,14 @@ But makes me feel, loveless, he parts.        1276
 ज्ञात्वेदं वलयाः पूर्व मम हस्ताद्विनिस्सृताः ॥ १२७७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२७७</summary>
+
+1277 taṇṇam tuṟaivaṉ taṇantamai nammiṉum  
+muṉṉam uṇarnta vaḷai.
+
+1277\. My bangles betrayed even before I did my lover’s separation from me.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२७७</summary>
 
 7\. தண்ணந் துறைவன் தணந்தமை நம்மினும்  
@@ -33587,6 +44011,14 @@ The mind of my lord of cool shore.        1277
 
 मां वियुज्य प्रियः पूर्वदिन एव जगाम सः ।  
 मत्काये किन्तु वैवर्ण्यमभूत् सप्तदिनात्पुरा ॥ १२७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२७८</summary>
+
+1278 nerunaṟṟuc ceṉṟārem kātalar yāmum  
+eḻunāḷēm mēṉi pacantu.
+
+1278\. It was only yesterday that my lover went, but I have acquired seven days’ pallor.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२७८</summary>
@@ -33615,6 +44047,14 @@ With sallowness it is seventh day.        1278
 तदेतद् भाविविश्लेषनिरूप कनिदर्शनम् ॥ १२७९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२७९</summary>
+
+1279 toṭinōkki meṉtōḷum nōkki aṭinōkki  
+aḵtāṇṭu avaḷcey tatu.
+
+1279\. She looks at her bangles; she looks at her beautiful shoulders and she looks down at her feet. This is her present occupation.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२७९</summary>
 
 9\. தொடிநோக்கி மென்றோளும் நோக்கி அடிநோக்கி  
@@ -33639,6 +44079,14 @@ And then her feet; these are her norms.        1279
 
 कामरोगं स्वनेत्राभ्यामुक्तवा स्त्रीभिश्च याचनम् ।  
 भवेत् स्त्रीत्वगुणस्यापि स्त्रीत्वधर्मप्रकल्पनम् ॥ १२८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८०</summary>
+
+1280 peṇṇiṉāl peṇmai uṭaitteṉpa kaṇṇiṉāṟal  
+kāmanōy colli iravu.
+
+1280\. The eyes seek the cure of passion. It is the modesty of a modest woman.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२८०</summary>
@@ -33669,6 +44117,14 @@ Is womanhood's womanly way.        1280
 कामार्तो लभते लोके न सुरासेवकस्तथा ॥ १२८१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२८१</summary>
+
+1281 uḷḷak kaḷittalum kāṇa makiḻtalum  
+kaḷḷukkuil kāmattiṟku uṇṭu.
+
+1281\. To become pleased with the thought and happy at the sight of the lover, these are the fruits not of wine but of love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२८१</summary>
 
 1\. உள்ளக் களித்தலும் காண மகிழ்தலும்  
@@ -33693,6 +44149,14 @@ Belong to love and not to wine.        1281
 
 तालपादपवत् कामो वृद्धे सति विशेषतः ।  
 वियिगो यववत्स्वल्पोऽप्यकार्यः कामुकैः सह ॥ १२८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८२</summary>
+
+1282 tiṉaittuṇaiyum ūṭāmai vēṇṭum paṉaittuṇaiyum  
+kāmam niṟaiya variṉ.
+
+1282\. If a woman’s passion becomes excessive, she should avoid even slight misunderstanding.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२८२</summary>
@@ -33721,6 +44185,14 @@ Sulking is wrong though millet-small.        1282
 अथापि तमदृष्ट्वा मे नेत्रे नावापतुर्मुदम् ॥ १२८३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२८३</summary>
+
+1283 pēṇātu peṭpavē ceyyiṉum koṇkaṉaik  
+kāṇātu amaiyala kaṇ.
+
+1283\. Though my husband acts regardless of me, yet my eyes cannot be satisfied without seeing him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२८३</summary>
 
 3\. பேணாது பெட்பவே செய்யினும் கொண்கனைக்  
@@ -33745,6 +44217,14 @@ My restless eyes would see him still.        1283
 
 वियुज्य तं प्रिय गन्तुमैच्छमादौ सखि प्रिये ! ।  
 मन्मनस्तत्त विस्मृत्य रन्तुं तेन सहागमत् ॥ १२८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८४</summary>
+
+1284 ūṭalkaṇ ceṉṟēṉmaṉ tōḻi atumaṟantu  
+kūṭaṟkaṇ ceṉṟatueṉ neñcu.
+
+1284\. O Friend! I went to quarrel with him; but forgetting it my heart sought for reconciliation.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२८४</summary>
@@ -33773,6 +44253,14 @@ And leap to embrace him direct.        1284
 अञ्जनालङ्कृतं नेत्रं शलाकां विस्मरेद्यथा ॥ १२८५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२८५</summary>
+
+1285 eḻutuṅkāl kōlkāṇāk kaṇṇēpōl koṇkaṉ  
+paḻikāṇēṉ kaṇṭa viṭattu.
+
+1285\. Just as our eyes do not see the pen when writing I could not see my lover’s faults when I saw him.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२८५</summary>
 
 5\. எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன்  
@@ -33797,6 +44285,14 @@ Like eyes that see not painter's brush.        1285
 
 प्रिये दृष्टिपथं याते दोषस्तस्मिन्न दृश्यते ।  
 प्रियाऽदर्शनवेलायां गुणस्तस्मिन्न दृश्यते ॥ १२८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८६</summary>
+
+1286 kāṇuṅkāl kāṇēṉ tavaṟāya kāṇākkāl  
+kāṇēṉ tavaṟual lavai.
+
+1286\. When I see my husband I cannot see his faults. In his absence I cannot see anything else.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२८६</summary>
@@ -33825,6 +44321,14 @@ And nought but fault when he is not.        1286
 प्रवाहाकर्षणगुणं ज्ञात्वाऽप्येनं विशेद्यता ॥ १२८७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२८७</summary>
+
+1287 uyttal aṟintu puṉalpāy pavarēpōl  
+poyttal aṟinteṉ pulantu.
+
+1287\. Of what avail is it to sift all the lies of one’s husband! It is as ineffectual as a diver battling with an irresistible current.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२८७</summary>
 
 7\. உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்  
@@ -33849,6 +44353,14 @@ When lord is close to feign a huff.        1287
 
 सुरापानाद् भवेद्धानिरिति ज्ञात्वापि मानवः ।  
 हर्षात् पिबेद्यथा तद्वत् तव वक्षः पुनर्वृणे ॥ १२८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८८</summary>
+
+1288 iḷittakka iṉṉā ceyiṉum kaḷittārkkuk  
+kaḷḷaṟṟē kaḷvaniṉ mārpu.
+
+1288\. O cheat! your breast is coveted more and more even as liquor with all its harm is by the drunkard.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२८८</summary>
@@ -33877,6 +44389,14 @@ Your breast, O thief, is for my embrace!        1288
 बुध्वा तत्त्वमिदं केचित्, लभन्ते फलमुत्तमम् ॥ १२८९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२८९</summary>
+
+1289 malariṉum mellitu kāmam cilarataṉ  
+cevvi talaippaṭu vār.
+
+1289\. More tender than a flower is love and few are they who enjoy it fully.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२८९</summary>
 
 9\. மலரினும் மெல்லிது காமம் சிலர்அதன்  
@@ -33901,6 +44421,14 @@ Know its delicacy so fine.        1289
 
 स्वयं पूर्व समागत्य परिष्वङ्ग च काङ्क्षती ।  
 यत्मया सङ्गता तच्च विस्मृत्य कलुषीकृता ॥ १२९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२९०</summary>
+
+1290 kaṇṇiṉ tuṉittē kalaṅkiṉāḷ pullutal  
+eṉṉiṉum tāṉvitup puṟṟu.
+
+1290\. With resentful eyes, my lady complained: but eager for reconciliation she forgets her anger.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२९०</summary>
@@ -33931,6 +44459,14 @@ Faster for embrace than I do.        1290
 स्थित्वा त्वं मद्धशे चित्त ! न साह्यं कुरुषे मम ॥ १२९१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२९१</summary>
+
+1291 avarneñcu avarkkātal kaṇṭum evaṉneñcē  
+nīemakku ākā tatu.
+
+1291\. O! My heart, though you know that my husband’s heart thinks only o^ himself, how is it you think of him and not of me?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२९१</summary>
 
 1\. அவர்நெஞ்சு அவர்க்காதல் கண்டும் எவன்நெஞ்சே  
@@ -33955,6 +44491,14 @@ Why not my heart be all my own?        1291
 
 कामुको न वृणोत्यस्मानिति ज्ञात्वापि हे मनः ।  
 न स कुप्येदिति धिया त्वं प्रयासि तदन्तिकम् ॥ १२९२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२९२</summary>
+
+1292 uṟāa tavarkaṇṭa kaṇṇum avaraic  
+ceṟāareṉac cēṟieṉ neñcu.
+
+1292\. O! My heart, knowing that he has no thought for you, still you run after him expecting no refusal.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२९२</summary>
@@ -33983,6 +44527,14 @@ Yet you clasp him as if friendly.        1292
 न सन्ति मित्राण्यार्तानामिति किं मन्यसे मनः ! ॥ १२९३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२९३</summary>
+
+1293 keṭṭārkku naṭṭāril eṉpatō neñcēnī  
+peṭṭāṅku avarpiṉ celal.
+
+1293\. 0! My heart, you go after him without my permission. Is it because none will befriend those in adversity?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२९३</summary>
 
 3\. கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ  
@@ -34007,6 +44559,14 @@ You follow him at will. Is it
 
 विप्रलम्भमकृत्वैव तेन भोगं तु वाञ्छसि ।  
 चित्त ! को वा त्वया सार्ध विचारं कर्तुमीहते ॥ १२९४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२९४</summary>
+
+1294 iṉiaṉṉa niṉṉoṭu cūḻvāryār neñcē  
+tuṉiceytu tuvvāykāṇ maṟṟu.
+
+1294\. O! My heart, if you see him, you do not resent his faults. Who can consult you for advice?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२९४</summary>
@@ -34035,6 +44595,14 @@ Who will then consult you, my heart?        1294
 वियोगभीत्या चेत्येवं सर्वदा खिद्यते मनः ॥ १२९५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२९५</summary>
+
+1295 peṟāamai añcum peṟiṉpirivu añcum  
+aṟāa iṭumpaittueṉ neñcu.
+
+1295\. My mind can have only endless anxiety; for I fear both when he is with me and also without me.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२९५</summary>
 
 5\. பெறாஅமை அஞ்சும் பெறின்பிரிவு அஞ்சும்  
@@ -34059,6 +44627,14 @@ O my heart suffers ceaseless pain.        1295
 
 वियुक्तप्रियदोषाणां स्मरणावसरे सति ।  
 मां भक्षयति किं चित्तमितीव व्यसनं मम ॥ १२९६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२९६</summary>
+
+1296 taṉiyē iruntu niṉaittakkāl eṉṉait  
+tiṉiya iruntatueṉ neñcu.
+
+1296\. My heart eats me up when I think of him in my loneliness.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२९६</summary>
@@ -34087,6 +44663,14 @@ As I muse on him all alone.        1296
 तादृङ्मूढमनोयोगात् लज्जां विस्मृतवत्यहम् ॥ १२९७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२९७</summary>
+
+1297 nāṇum maṟantēṉ avarmaṟak kallāeṉ  
+māṇā maṭaneñcil paṭṭu.
+
+1297\. With my foolish heart remembering him who has forgotten me, I have forgotten even my sense of shame.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२९७</summary>
 
 7\. நாணும் மறந்தேன் அவர்மறக் கல்லாஎன்  
@@ -34111,6 +44695,14 @@ In mean foolish mind I'm caught.        1297
 
 अप्रीतनायकोपेक्षा न युक्तेति विचिन्त्य तु ।  
 जीवनाशायुतं चित्तं सदा ध्यायति तद्गुणान् ॥ १२९८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२९८</summary>
+
+1298 eḷḷiṉ iḷivāmeṉṟu eṇṇi avartiṟam  
+uḷḷum uyirkkātal neñcu.
+
+1298\. My heart that loves life and views it ignoble to blame and to deny access to him, ever thinks of his success.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १२९८</summary>
@@ -34139,6 +44731,14 @@ Hails his glory ignoring blame.        1298
 स्वस्मै साह्यं न कुर्याच्चेत् के वान्ये साह्यकारिणः ॥ १२९९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १२९९</summary>
+
+1299 tuṉpattiṟku yārē tuṇaiyāvār tāmuṭaiya  
+neñcam tuṇaiyal vaḻi.
+
+1299\. Who will be a friend in misery but one’s own heart?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १२९९</summary>
 
 9\. துன்பத்திற்கு யாரே துணையாவார் தாமுடைய  
@@ -34163,6 +44763,14 @@ If lover's heart denies relief?        1299
 
 स्वशस्थं स्वीयचित्तं बन्धुतां चेन्न पालयेत् ।  
 बन्धत्वपालनाभावो ह्यन्येषां युज्यते किल ॥ १३००॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३००</summary>
+
+1300 tañcam tamarallar ētilār tāmuṭaiya  
+neñcam tamaral vaḻi. tiṟaṉ kāṭṭuka
+
+1300\. If one’s own heart turns against one, how can one expect anything but hostility from others?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३००</summary>
@@ -34193,6 +44801,14 @@ When one's own heart is not his own?        1300
 तस्मात् तमपरिष्वज्य वियुक्ता भव मत्प्रिये ! ॥ १३०१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३०१</summary>
+
+1301 pullātu irāap pulattai avaruṟum  
+allalnōy kāṇkam ciṟitu.
+
+1301\. Let us see a little his distress in passion, by showing reserve. ^  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३०१</summary>
 
 1\. புல்லா திராஅப் புலத்தை அவர்உறும்  
@@ -34217,6 +44833,14 @@ We can see his distress a bit.        1301
 
 व्यर्थोऽमितवियोगः स्यात् लवणामितभोज्यवत् ।  
 मितो वियोगः स्वाद्यः स्यात् मितं च लवणं यथा ॥ १३०२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३०२</summary>
+
+1302 uppamain taṟṟāl pulavi atuciṟitu  
+mikkaṟṟāl nīḷa viṭal.
+
+1302\. Reserve like a pinch of salt adds to enjoyment, If excessive, it spoils the taste.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३०२</summary>
@@ -34245,6 +44869,14 @@ Too much of it spoils the taste.        1302
 दुःखितस्य पुनर्दुःखदात्रा तुल्पो भवेदयम् ॥ १३०३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३०३</summary>
+
+1303 alantārai allalnōy ceytaṟṟāl tammaip  
+pulantāraip pullā viṭal.
+
+1303\. If men do not pacify women who feign coolness, it is like causing more pain to those who already suffer.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३०३</summary>
 
 3\. அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்  
@@ -34269,6 +44901,14 @@ Is to grieve the one sorely grieved.        1303
 
 गातां स्त्रियं समाश्वास्य मेलनं न क्रियेत् चेत् ।  
 स्वतो म्लानलतायास्तन्मूलविच्छेदवद्भवेत् ॥ १३०४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३०४</summary>
+
+1304 ūṭi yavarai uṇarāmai vāṭiya  
+vaḷḷi mutalarin taṟṟu.
+
+1304\. Not to pacify the lady who feigns coolness is to cut the withering creeper away at the root.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३०४</summary>
@@ -34297,6 +44937,14 @@ Is to cut the fading plant at root.        1304
 कुसुमाक्ष्यङ्गनाचित्ते या विश्लेषविशेषता ॥ १३०५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३०५</summary>
+
+1305 nalattakai nallavarkku ēer pulattakai  
+pūaṉṉa kaṇṇār akattu.
+
+1305\. The beauty of a loyal lover is only enhanced by the reserve of his flower-eyed lady.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३०५</summary>
 
 5\. நலத்தகை நல்லவர்க்கு ஏஎர் புலத்தகை  
@@ -34321,6 +44969,14 @@ To pure good mates a lovely grace.        1305
 
 विना संश्लेषविश्लेषौ कामः स्याद्रसवर्जितः ।  
 अतिपक्कापक्वफले दृश्येते विरसे यथा ॥ १३०६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३०६</summary>
+
+1306 tuṉiyum pulaviyum illāyiṉ kāmam  
+kaṉiyum karukkāyum aṟṟu.
+
+1306\. If indignation and gentle resentment are absent, love will be like fruit over-ripe or unripe.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३०६</summary>
@@ -34349,6 +45005,14 @@ Misses its ripe and unripe fruits.        1306
 सुखमूलवियोगेऽपि दुःखमेकं प्रदृश्यते ॥ १३०७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३०७</summary>
+
+1307 ūṭaliṉ uṇṭāṅkōr tuṉpam puṇarvatu  
+nīṭuvatu aṉṟukol eṉṟu.
+
+1307\. There is anxiety and pain in lovers’ uncertain quarrels.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३०७</summary>
 
 7\. ஊடலின் உண்டாங்கோர் துன்பம் புணர்வது  
@@ -34373,6 +45037,14 @@ In lover's pout this leaves a doubt.        1307
 
 अस्मत्कृते प्रियः खिद्येदिति मत्वापि या प्रिया ।  
 न खिद्येत्तादृशस्त्रीणां निन्दया किं प्रयोजनम् ॥ १३०८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३०८</summary>
+
+1308 nōtal evaṉmaṟṟu nontāreṉṟu aḵtaṟiyum  
+kātalar illā vaḻi.
+
+1308\. If a lover were to be blind to the suffering of the lady-love, then the suffering would be in vain.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३०८</summary>
@@ -34401,6 +45073,14 @@ When concious lover is not present?        1308
 प्रेमपूर्णनरैः साकं विप्रलम्भो रसप्रदः ॥ १३०९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३०९</summary>
+
+1309 nīrum niḻalatu iṉitē pulaviyum  
+vīḻunar kaṇṇē iṉitu.
+
+1309\. Just as water in the shade is sweet, so lovers’ quarrels become sweet only to people deep-rooted in love.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३०९</summary>
 
 9\. நீரும் நிழலது இனிதே புலவியும்  
@@ -34425,6 +45105,14 @@ And sulking in souls of psychic love.        1309
 
 वियोगेन कृशां नारीं यो निराकुरुते प्रियः ।  
 तेनापि सङ्गं चित्तमाशया वाञ्छति ध्रुवम् ॥ १३१०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३१०</summary>
+
+1310 ūṭal uṇaṅka viṭuvārōṭu eṉṉeñcam  
+kūṭuvēm eṉpatu avā.
+
+1310\. My heart longs for reunion with him who cares not for my sufferings in the quarrel.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३१०</summary>
@@ -34455,6 +45143,14 @@ With her who me in sulking left!        1310
 यतो दृष्ट्वाऽनुभूतं तत्, नाहं भोक्तुं वृणे प्रिये ! ॥ १३११॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३११</summary>
+
+1311 peṇiyalār ellārum kaṇṇiṉ potuuṇpar  
+naṇṇēṉ parattaniṉ mārpu.
+
+1311\. You yielded yourself to all sorts of women to look at you with their eyes. Therefore I shall not approach your breast.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३११</summary>
 
 1\. பெண்ணியலார் எல்லோரும் கண்ணின் பொதுஉண்பர்  
@@ -34479,6 +45175,14 @@ To the gaze of all ladies exposed.        1311
 
 दीर्घायुष्मानिति वचः क्षुतादौ कथ्यते जनैः ।  
 श्रोतुमाशीर्वचो मत्तः प्रियः क्षुतमथाऽकरोत् ॥ १३१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३१२</summary>
+
+1312 ūṭi iruntēmāt tummiṉār yāmtammai  
+nīṭuvāḻ keṉpākku aṟintu.
+
+1312\. When I sat away from him, he sneezed knowing that I would bless him, saying "May you live long.”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३१२</summary>
@@ -34507,6 +45211,14 @@ Expecting me to say "live long".        1312
 इति मालाभूषिताङ्ग प्रियं दृष्ट्वा चुकोप सा ॥ १३१३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३१३</summary>
+
+1313 kōṭṭuppūc cūṭiṉum kāyum oruttiyaik  
+kāṭṭiya cūṭiṉīr eṉṟu.
+
+1313\. Even if I put on a garland of hill-flowers, my sweetheart will say “You wore this to please some mistress of yours.”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३१३</summary>
 
 3\. கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்  
@@ -34531,6 +45243,14 @@ While I adorn myself with flowers.        1313
 
 ''सर्वस्मादप्यहं प्रीतिविशेषं त्वयि च न्यधाम्'' ।  
 इति प्रियवचः श्रुत्वा का वाऽन्येति चुकोप सा ॥ १३१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३१४</summary>
+
+1314 yāriṉum kātalam eṉṟēṉā ūṭiṉāḷ  
+yāriṉum yāriṉum eṉṟu.
+
+1314\. When I said my beloved was greater than anybody else, she grew angry and repeatedly asked me “Greater than whom?”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३१४</summary>
@@ -34559,6 +45279,14 @@ While I adorn myself with flowers.        1313
 ''भाविजन्मनि विश्लेषो भवेद्वे''त्यरुदत् प्रिया ॥ १३१५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३१५</summary>
+
+1315 immaip piṟappil piriyalam eṉṟēṉāk  
+kaṇniṟai nīrkoṇ ṭaṉaḷ.
+
+1315\. When I said “We shall not separate in this life”, her eyes were full of tears meaning that I would separate from her in the next life.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३१५</summary>
 
 5\. இம்மைப் பிறப்பில் பிரியலம் என்றேனாக்  
@@ -34583,6 +45311,14 @@ Her eyes at once with tears were filled.        1315
 
 ''त्वं मया तु स्मृते'' त्युक्त, ''विस्मृतस्य हि संस्मृतिः ।  
 तेन मां विस्मृतोऽसि त्वम्''इति तत्याज मां प्रिया ॥ १३१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३१६</summary>
+
+1316 uḷḷiṉēṉ eṉṟēṉmaṟṟu eṉmaṟantīr eṉṟemmaip  
+pullāḷ pulattak kaṉaḷ.
+
+1316\. When I said ‘I thought of you’, she replied “So you forgot me before” and felt displeased.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३१६</summary>
@@ -34611,6 +45347,14 @@ Her embrace crying "Oft you forget".        1316
 ''कां स्मृत्वा क्षुतमायात'' मिति क्रुद्धा रुरोद सा ॥ १३१७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३१७</summary>
+
+1317 vaḻuttiṉāḷ tummiṉēṉ āka aḻittaḻutāḷ  
+yāruḷḷit tummiṉīr eṉṟu.
+
+1317\. When I sneezed she blessed me; but she wept and asked me which maiden thought of me when I sneezed.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३१७</summary>
 
 7\. வழுத்தினாள் தும்மினே னாக அழித்தழுதாள்  
@@ -34635,6 +45379,14 @@ I sneezed; she blessed; then changed and wept
 
 ''कां त्वां स्मृतवतीत्यंशो न ज्ञातः स्याद्यथा मया ।  
 तथा कर्तु क्षुतं रुद्रं र्वय''त्युक्त्वा रुरोद सा ॥ १३१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३१८</summary>
+
+1318 tummuc ceṟuppa aḻutāḷ numaruḷḷal  
+emmai maṟaittirō eṉṟu.
+
+1318\. When I controlled sneezing, she shed fretful tears and asked whether I tried to conceal the fact that others think of me.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३१८</summary>
@@ -34663,6 +45415,14 @@ I repressed sneeze; she wept crying
 ''स्त्र्यन्तरेऽपि त्वया चेत्थं कृतमि''त्यरुदत् प्रिया ॥ १३१९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३१९</summary>
+
+1319 taṉṉai uṇarttiṉum kāyum piṟarkkunīr  
+innīrar ākutir eṉṟu.
+
+1319\. She will quarrel with me even if I fully satisfy her, saying “You will behave thus to every woman.”  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३१९</summary>
 
 9\. தன்னை உணர்த்தினும் காயும் பிறர்க்குநீர்  
@@ -34687,6 +45447,14 @@ I try to coax her and she remarks
 
 प्रियाङ्गशोभावैशिष्टयं सम्यक्पश्याम्यहं यदा ।  
 ''मय्यीक्षसे कया साम्यम्''इति क्रुद्धयेत् तदा प्रिया ॥ १३२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३२०</summary>
+
+1320 niṉaittiruntu nōkkiṉum kāyum aṉaittunīr  
+yāruḷḷi nōkkiṉīr eṉṟu.
+
+1320\. If I look at her silently and appreciate her beauty, she will ask me querulously, “whom you are thinking of?”  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३२०</summary>
@@ -34718,6 +45486,14 @@ I think and gaze at her; she chides:
 तदस्मासु विशेषण प्रेमाधिक्यप्रदायकम् ॥ १३२१॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३२१</summary>
+
+1321 illai tavaṟuavarkku āyiṉum ūṭutal  
+vallatu avaraḷikkum āṟu.
+
+1321\. Though he is guiltless, false accusations make him more attached.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३२१</summary>
 
 1\. இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்  
@@ -34742,6 +45518,14 @@ So that his loving ways show out.        1321
 
 विप्रलम्भेन सञ्जातमत्यल्पं व्ससनं भुवि ।  
 नायकप्रेमविच्छेदकारकं चापि सम्मतम् ॥ १३२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३२२</summary>
+
+1322 ūṭalil tōṉṟum ciṟutuṉi nalaḷi  
+vāṭiṉum pāṭu peṟum.
+
+1322\. The little resentment resulting from lover’s quarrels yields delight in the end, though it may for the moment seem to cause pain.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३२२</summary>
@@ -34770,6 +45554,14 @@ The petty pricks that pouting gives.        1322
 जाताद्वियोगादन्यः किं देवलोको भवेदिह ॥ १३२३॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३२३</summary>
+
+1323 pulattaliṉ puttēḷnāṭu uṇṭō nilattoṭu  
+nīriyain taṉṉār akattu.
+
+1323\. Is there any other heaven than the quarrel between lovers whose minds are united even as earth and water?  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३२३</summary>
 
 3\. புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு  
@@ -34794,6 +45586,14 @@ Of hearts that join like water and earth?        1323
 
 दृढभाविपरिष्वङ्गहेतुविश्लेषकर्मणि ।  
 मन्मनोभञ्जिका काचित् सेना सञ्जायते किल ॥ १३२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३२४</summary>
+
+1324 pulli viṭāap pulaviyuḷ tōṉṟumeṉ  
+uḷḷam uṭaikkum paṭai.
+
+1324\. The weapon that breaks my obstinate heart lies in the quarrel itself.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३२४</summary>
@@ -34822,6 +45622,14 @@ A weapon is up to break my heart.        1324
 स्पर्शभाग्यविहीनस्य हर्षः काश्चिद् भवेद् ध्रुवम् ॥ १३२५॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३२५</summary>
+
+1325 tavaṟilar āyiṉum tāmvīḻvār meṉtōḷ  
+akaṟaliṉ āṅkoṉṟu uṭaittu.
+
+1325\. Though guiltless being denied, there is a pleasure in the embrace of the soft beautiful shoulders of the sweetheart.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३२५</summary>
 
 5\. தவறில ராயினும் தாம்வீழ்வார் மென்றோள்  
@@ -34846,6 +45654,14 @@ Of feigned release from lover's arms.        1325
 
 कामुकस्य तु विश्लेषः संश्लेषादपि मोददः ।  
 भुक्तं जीर्ण सुखं दद्यात् यथा वै भाविभोजनात् ॥ १३२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३२६</summary>
+
+1326 uṇaliṉum uṇṭatu aṟaliṉitu kāmam  
+puṇartaliṉ ūṭal iṉitu.
+
+1326\. Sweeter than eating is the pause in the process. Likewise misunderstanding by lovers affords more joy than union itself.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३२६</summary>
@@ -34874,6 +45690,14 @@ And sulk in love than union.        1326
 भाविसंश्लेषवेलायां तत्त्वमेतत् स्फुटं भवेत् ॥ १३२७॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३२७</summary>
+
+1327 ūṭalil tōṟṟavar veṉṟār atumaṉṉum  
+kūṭalil kāṇap paṭum.
+
+1327\. In a lovers’ quarrel, the vanquished becomes the victor; this is revealed when they reunite.  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३२७</summary>
 
 7\. ஊடலில் தோற்றவர் வென்றார் அதுமன்னும்  
@@ -34898,6 +45722,14 @@ Reunited joy brings it out.        1327
 
 भालस्वेदकरं भोग कृत्वा या सुखमन्वभूत् ।  
 वियुज्यानया सुख तद्वत् किमह प्राप्नुयां पुनः ॥ १३२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३२८</summary>
+
+1328 ūṭip peṟukuvam kollō nutalveyarppak  
+kūṭalil tōṉṟiya uppu.
+
+1328\. Am I likely to gain, after a friendly quarrel, the delight now experienced in the union with her moistened forehead?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३२८</summary>
@@ -34926,6 +45758,14 @@ The dew-browed joy of joint love?        1328
 संप्रार्थ्य ?त् कोपशान्त्यै मम रात्रिर्विवर्धताम् ॥ १३२९॥
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः - १३२९</summary>
+
+1329 ūṭuka maṉṉō oḷiyiḻai yāmirappa  
+nīṭuka maṉṉō irā.
+
+1329\. May the jewelled lady-love go on quarrelling; may also the night be long enough to conciliate her!  
+</details>
+
 <details><summary>शुद्धानन्द-भारती - १३२९</summary>
 
 9\. ஊடுக மன்னோ ஒளியிழை யாம்இரப்ப  
@@ -34950,6 +45790,14 @@ Prolong O night! our delight swells!        1329
 
 विप्रलम्भात् कामभोगः सुख प्राप्नोति भूतले ।  
 ततो जाताच्च संश्लेषात् विप्रलम्भः सुखं व्रजेत् ॥ १३३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३३०</summary>
+
+1330 ūṭutal kāmattiṟku iṉpam ataṟkuiṉpam  
+kūṭi muyaṅkap peṟiṉ.
+
+1330\. The delight of love is the lovers’ quarrel; greater delight is the loving reunion.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती - १३३०</summary>
