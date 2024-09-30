@@ -61,7 +61,7 @@ The Tirukkural is in three parts, dealing with the three "Aims" in life, namely,
 The text and the translation are given one against the other on opposite pages, so that one can very easily make use of the translation while reading the text. The text has been edited before, and a few commentaries too are known. There have been also English translations prior to this. But the value of this new translation will be clear to anyone who reads the book. The text in Roman transliteration is now appearing for the first time. To the scholarship of Prof. Dikshitar is added the fame of the Vasanta Press for neat printing; and such a wealth is now offered at a very moderate price by the Adyar Library which has always sacrificed profit in the interest of service.
 
 ADYAR LIBRARY C. KUNHAN RAJA  
-13th April, 1949  
+  13th April, 1949  
 (New Year Day)  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
@@ -73,10 +73,10 @@ MORE than four years ago Sir A. Ramaswami Mudaliar, now Dewan of Mysore, suggest
 In this endeavour I have largely followed the text and consulted the translation of the Tirukkural published by Sri A. Ranganatha Mudaliar, Triplicane. Mr. R. S. Desikan of the Presidency College and the Rev. W. B. Harris of the Methodist Mission looked into the manuscript of the work and offered me valuable suggestions for which my thanks are due to them. I must also acknowledge the immense help I received from Dr. M. Varadarajan, Senior Lecturer in Tamil, University of Madras, in going through the proofs. I am indebted to the authorities of the Adyar Library, Adyar especially to Captain G. Srinivasa Murti for undertaking this publication and to Dr. C. Kunhan Raja for his co-operation. I further record my thanks to the Syndicate of the Madras University for permitting me to bring out this publication.
 
 Madras, V. R. R. DIKSHITAR  
-6th May, 1949  
+  6th May, 1949  
 \-\-\-\-\-\-\-\-\-\-\-\-\-
 
-**CONTENTS**
+### CONTENTS
 
 Foreword by Sir A. Ramaswami Mudaliar  
 Prefatory Note by Prof. C. Kunhan Raja  
@@ -84,545 +84,545 @@ Preface
 Note on Transliteration and Diacritical Marks
 
 
-**ARATTUPPĀL**
-
-1\. Kaḑavuļ Vāḻttu
-
-In Praise of God
-
-2\. Vāṉ Sirappu
-
-In Praise of Rain
-
-3\. Nīttār Perumai
-
-On the Greatness of Renunciation
-
-4\. Aŗaṉvaliyuŗuttal
-
-On Dharma
-
-5\. Ilvāḻkkai
-
-On Family Life
-
-6\. Vāḻkkaittuṇainalam
-
-On Wives
-
-7\. Putalvaraip Peŗutal
-
-On Sons
-
-8\. Aṉbuḑaimai
-
-Loving-Kindness
-
-9\. Viruntõmbal
-
-On Hospitality
-
-10\. Iṉiyavai Kūŗal
-
-On Sweet Words
-
-11\. Seynnaṉŗi Yaŗidal
-
-On Gratitude
-
-12\. Naḑuvu Nilaimai
-
-On Equity.
-
-13\. Ațakkamuḑaimai
-
-On Self-Control
-
-14\. Oḻukkamuḑaimai
-
-On Right Conduct
-
-15\. Piŗaṉil Viḻaiyāmai
-
-On Adultery
-
-16\. Poŗaiyuḑaimai
-
-On Patience
-
-17\. Aḻukkāŗāmai
-
-On Envy
-
-18\. Vehkāmai
-
-On Non-Coveting
-
-19\. Puŗankūŗāmai
-
-On Not Back-Biting
-
-20\. Payaṉila Sollāmai
-
-On Frivolity of Speech
-
-21\. Tīviṉaiyaccaṁ
-
-On Fear of Evil Deeds
-
-22\. Oppuravaŗital
-
-On Decorum
-
-23\. Īkai
-
-On Liberality
-
-24\. Pugaḻ
-
-On Renown
-
-25\. Aruļuḑaimai
-
-On Compassion
-
-26\. Pulāl Maŗuttal
-
-On Abstaining from Meat
-
-27\. Tavam
-
-On Penance
-
-28\. Kūḑā Oḻukkam
-
-On Improper Conduct
-
-29\. Kaļļāmai
-
-On Non-Stealing
-
-30\. Vāymai
-
-On Truth
-
-31\. Vekuļāmai
-
-On Not Getting Angry
-
-32\. Iṉṉāśeyyāmai
-
-On Not Doing Evil
-
-33\. Kollāmai
-
-On Not Killing
-
-34\. Nilaiyāmai
-
-On Instability
-
-35\. Tuŗavu
-
-On Renunciation
-
-36\. Meyyuņartal
-
-On True Knowledge
-
-37\. Avāvaŗuttal
-
-On the Destruction of Desire
-
-38\. Ūḻ
-
-On Fate
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-PORUȚPĀL
-
-39\. Iŗaimāṭci
-
-On Majesty
-
-40\. Kalvi
-
-On Learning
-
-41\. Kallāmai
-
-On Non-Learning
-
-42\. Kēļvi
-
-On Hearing
-
-43\. Aŗivuḑaimai
-
-On Knowledge
-
-44\. Kuŗŗam Kaţital
-
-On Restraining Faults
-
-45\. Periyārait Tuņaikkõṭal
-
-On Association with Elders
-
-46\. Śiŗŗinañ cērāmai
-
-On Avoiding Low Company
-
-47\. Terindu Śeyal Vakai
-
-On Action after Due Deliberation
-
-48\. Valiyaŗital
-
-On Knowing the Enemy's Strength
-
-49\. Kālam Aŗital
-
-On Knowing the Time
-
-50\. Iḑan Aŗital
-
-On Knowing the Place
-
-51\. Terindu Teļital
-
-Engaging Servants After Test
-
-52\. Terindu Viṉaiyāṭal
-
-On Appointment According to Merit
-
-53\. Śuŗŗantaḻāl
-
-On Cherishing One's Kindred
-
-54\. Poccāvāmai
-
-Against Forgetfulness
-
-55\. Śenkōṉmai
-
-On Righteous Sceptre
-
-56\. Koḑunkōṉmai
-
-On Unrighteous Rule
-
-57\. Veruvanta Śeyyāmai
-
-On Tyranny
-
-58\. Kaṇṇōttam
-
-On Kindliness
-
-59\. Oŗŗāṭal
-
-On Spies
-
-60\. Ūkkamuḑaimai
-
-On Exertion
-
-61\. Maţiyiṉmai
-
-Against Sloth
-
-62\. Aļaviṉaiyuḑaimai
-
-On Perseverance
-
-63\. Iḑukkaṉaḻiyāmai
-
-On Courage
-
-64\. Amaiccu
-
-On Ministers
-
-65\. Śolvaṉmai
-
-On Good Speech
-
-66\. Viṉaittūymai
-
-On Purity in Action
-
-67\. Viṉaittiṭpam
-
-On Resoluteness
-
-68\. Viṉaiśeyal Vakai
-
-On the Means of Action
-
-69\. Tūtu
-
-On Embassy
-
-70\. Maṉṉaraic Cērndoḻukal
-
-On Co-operation with King
-
-71\. Kuŗippaŗital
-
-On Reading One's Intentions
-
-72\. Avaiyaŗital
-
-On Knowing the Assembly
-
-73\. Avaiyañjāmai
-
-Not to be Afraid of Assembly
-
-74\. Nāḑu
-
-On the Kingdom
-
-75\. Araṇ
-
-On Fortress
-
-76\. Poruļ Śeyal Vakai
-
-On Acquisition of Wealth
-
-77\. Paḑai Māțci
-
-On the Value of an Army
-
-78\. Paḑaiccerukku
-
-On Courage of the Army
-
-79\. Națpu
-
-On Friendship
-
-80\. Națpārāytal
-
-On True Friendship
-
-81\. Paḻamai
-
-On Old Friendship
-
-82\. Tīnațpu
-
-On Base Alliance
-
-83\. Kūḑānațpu
-
-On False Alliance
-
-84\. Pēdaimai
-
-On Stupidity
-
-85\. Pullaŗivāņmai
-
-On Ignorance
-
-86\. Īkal
-
-On Discord
-
-87\. Pakai Māṭci
-
-On Enmity
-
-88\. Pakaittiŗanterital
-
-On Knowing the Enemy's Strength
-
-89\. Uṭpakai
-
-Internal Foes
-
-90\. Periyāraippiḻaiyāmai
-
-Not Censuring the Great
-
-91\. Peņvaḻiccēŗal
-
-On Following Women's Advice
-
-92\. Varaiviṉmakaļir
-
-On Public Women
-
-93\. Kaļļuņņāmai
-
-On Avoiding Wine
-
-94\. Śūtu
-
-On Gambling
-
-95\. Marundu
-
-On Medicine
-
-96\. Kuḑimai
-
-On Noble Lineage
-
-97\. Māṉam
-
-On Honour
-
-98\. Perumai
-
-On Greatness
-
-99\. Śāṉŗāņmai
-
-On Good Conduct
-
-100\. Paņbuḑaimai
-
-On Courtesy
-
-101\. Naṉŗiyil Śelvam
-
-On Unprofitable Wealth
-
-102\. Nāņuḑaimai
-
-On Modesty
-
-103\. Kuḑi Śeyalvakai
-
-On Exalting One's Family
-
-104\. Uḻavu
-
-On Agriculture
-
-105\. Nalkuravu
-
-On Poverty
-
-106\. Iravu
-
-On Begging
-
-107\. Iravaccam
-
-On Fear of Begging
-
-108\. Kayamai
-
-On Meanness
-
-\-\-\-\-\-\-\-\-\-\-\-  
-**KĀMATTUPPĀL**
-
-109\. Takaiyaņanguŗuttal
-
-On Lover's Distraction
-
-110\. Kuŗippaŗital
-
-Reading Love's Signs
-
-111\. Puņarcci Makiḻtal
-
-The Ecstasy of Love's Union
-
-112\. Nalampuṉainduraittal
-
-On His Lady
-
-113\. Kādaŗ Śiŗappuraittal
-
-On the Affirmation of Love
-
-114\. Nāņuttaŗavuraittal
-
-Speaking Out Unabashed
-
-115\. Alaraŗivuŗuttal
-
-Rumours of Secret Love
-
-116\. Pirivāŗŗāmai
-
-The Pangs of Separation
-
-117\. Paḑarmelindirangal
-
-The Cry of the Separated
-
-118\. Kaņviduppaḻidal
-
-On Eyes That Languish
-
-119\. Pacappuŗu Paruvaral
-
-Grieving Over Love's Pallor
-
-120\. Taṉippaḑar Mikuti
-
-Feeling All Alone
-
-121\. Ninaindavar Pulambal
-
-Recollecting the Pleasures of Love
-
-122\. Kaṉavunilai Uraittal
-
-Dreams of Love
-
-123\. Poḻutu Kaṇḑirangal
-
-Sunset and Sorrow
-
-124\. Uŗuppunalaṉ Aḻital
-
-Wasting Away
-
-125\. Neñcoḑu Kiļattal
-
-Soliloquy of the Lady Love
-
-126\. Niŗai Aḻital
-
-On the Loss of Modesty
-
-127\. Avarvayiṉ Vidumbal
-
-On the Distress of each Towards the Other
-
-128\. Kuŗipaŗivuŗuttal
-
-On Speaking on the Signs
-
-129\. Puņarcci Vidumbal
-
-On Yearning After Union
-
-130\. Neñcoḑu Pulattal
-
-On Speaking with the Mind
-
-131\. Pulavi
-
-On Lovers' Misunderstanding
-
-132\. Pulavi Nuņukkam
-
-On Subtlety of Lovers' Misunderstanding
-
-133\. Ūḑaluvakai
-
-On the Pleasures of Lovers' Misunderstanding
+  **ARATTUPPĀL**
+  
+  1\. Kaḑavuļ Vāḻttu
+  
+  In Praise of God
+  
+  2\. Vāṉ Sirappu
+  
+  In Praise of Rain
+  
+  3\. Nīttār Perumai
+  
+  On the Greatness of Renunciation
+  
+  4\. Aŗaṉvaliyuŗuttal
+  
+  On Dharma
+  
+  5\. Ilvāḻkkai
+  
+  On Family Life
+  
+  6\. Vāḻkkaittuṇainalam
+  
+  On Wives
+  
+  7\. Putalvaraip Peŗutal
+  
+  On Sons
+  
+  8\. Aṉbuḑaimai
+  
+  Loving-Kindness
+  
+  9\. Viruntõmbal
+  
+  On Hospitality
+  
+  10\. Iṉiyavai Kūŗal
+  
+  On Sweet Words
+  
+  11\. Seynnaṉŗi Yaŗidal
+  
+  On Gratitude
+  
+  12\. Naḑuvu Nilaimai
+  
+  On Equity.
+  
+  13\. Ațakkamuḑaimai
+  
+  On Self-Control
+  
+  14\. Oḻukkamuḑaimai
+  
+  On Right Conduct
+  
+  15\. Piŗaṉil Viḻaiyāmai
+  
+  On Adultery
+  
+  16\. Poŗaiyuḑaimai
+  
+  On Patience
+  
+  17\. Aḻukkāŗāmai
+  
+  On Envy
+  
+  18\. Vehkāmai
+  
+  On Non-Coveting
+  
+  19\. Puŗankūŗāmai
+  
+  On Not Back-Biting
+  
+  20\. Payaṉila Sollāmai
+  
+  On Frivolity of Speech
+  
+  21\. Tīviṉaiyaccaṁ
+  
+  On Fear of Evil Deeds
+  
+  22\. Oppuravaŗital
+  
+  On Decorum
+  
+  23\. Īkai
+  
+  On Liberality
+  
+  24\. Pugaḻ
+  
+  On Renown
+  
+  25\. Aruļuḑaimai
+  
+  On Compassion
+  
+  26\. Pulāl Maŗuttal
+  
+  On Abstaining from Meat
+  
+  27\. Tavam
+  
+  On Penance
+  
+  28\. Kūḑā Oḻukkam
+  
+  On Improper Conduct
+  
+  29\. Kaļļāmai
+  
+  On Non-Stealing
+  
+  30\. Vāymai
+  
+  On Truth
+  
+  31\. Vekuļāmai
+  
+  On Not Getting Angry
+  
+  32\. Iṉṉāśeyyāmai
+  
+  On Not Doing Evil
+  
+  33\. Kollāmai
+  
+  On Not Killing
+  
+  34\. Nilaiyāmai
+  
+  On Instability
+  
+  35\. Tuŗavu
+  
+  On Renunciation
+  
+  36\. Meyyuņartal
+  
+  On True Knowledge
+  
+  37\. Avāvaŗuttal
+  
+  On the Destruction of Desire
+  
+  38\. Ūḻ
+  
+  On Fate
+  
+  \-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+  PORUȚPĀL
+  
+  39\. Iŗaimāṭci
+  
+  On Majesty
+  
+  40\. Kalvi
+  
+  On Learning
+  
+  41\. Kallāmai
+  
+  On Non-Learning
+  
+  42\. Kēļvi
+  
+  On Hearing
+  
+  43\. Aŗivuḑaimai
+  
+  On Knowledge
+  
+  44\. Kuŗŗam Kaţital
+  
+  On Restraining Faults
+  
+  45\. Periyārait Tuņaikkõṭal
+  
+  On Association with Elders
+  
+  46\. Śiŗŗinañ cērāmai
+  
+  On Avoiding Low Company
+  
+  47\. Terindu Śeyal Vakai
+  
+  On Action after Due Deliberation
+  
+  48\. Valiyaŗital
+  
+  On Knowing the Enemy's Strength
+  
+  49\. Kālam Aŗital
+  
+  On Knowing the Time
+  
+  50\. Iḑan Aŗital
+  
+  On Knowing the Place
+  
+  51\. Terindu Teļital
+  
+  Engaging Servants After Test
+  
+  52\. Terindu Viṉaiyāṭal
+  
+  On Appointment According to Merit
+  
+  53\. Śuŗŗantaḻāl
+  
+  On Cherishing One's Kindred
+  
+  54\. Poccāvāmai
+  
+  Against Forgetfulness
+  
+  55\. Śenkōṉmai
+  
+  On Righteous Sceptre
+  
+  56\. Koḑunkōṉmai
+  
+  On Unrighteous Rule
+  
+  57\. Veruvanta Śeyyāmai
+  
+  On Tyranny
+  
+  58\. Kaṇṇōttam
+  
+  On Kindliness
+  
+  59\. Oŗŗāṭal
+  
+  On Spies
+  
+  60\. Ūkkamuḑaimai
+  
+  On Exertion
+  
+  61\. Maţiyiṉmai
+  
+  Against Sloth
+  
+  62\. Aļaviṉaiyuḑaimai
+  
+  On Perseverance
+  
+  63\. Iḑukkaṉaḻiyāmai
+  
+  On Courage
+  
+  64\. Amaiccu
+  
+  On Ministers
+  
+  65\. Śolvaṉmai
+  
+  On Good Speech
+  
+  66\. Viṉaittūymai
+  
+  On Purity in Action
+  
+  67\. Viṉaittiṭpam
+  
+  On Resoluteness
+  
+  68\. Viṉaiśeyal Vakai
+  
+  On the Means of Action
+  
+  69\. Tūtu
+  
+  On Embassy
+  
+  70\. Maṉṉaraic Cērndoḻukal
+  
+  On Co-operation with King
+  
+  71\. Kuŗippaŗital
+  
+  On Reading One's Intentions
+  
+  72\. Avaiyaŗital
+  
+  On Knowing the Assembly
+  
+  73\. Avaiyañjāmai
+  
+  Not to be Afraid of Assembly
+  
+  74\. Nāḑu
+  
+  On the Kingdom
+  
+  75\. Araṇ
+  
+  On Fortress
+  
+  76\. Poruļ Śeyal Vakai
+  
+  On Acquisition of Wealth
+  
+  77\. Paḑai Māțci
+  
+  On the Value of an Army
+  
+  78\. Paḑaiccerukku
+  
+  On Courage of the Army
+  
+  79\. Națpu
+  
+  On Friendship
+  
+  80\. Națpārāytal
+  
+  On True Friendship
+  
+  81\. Paḻamai
+  
+  On Old Friendship
+  
+  82\. Tīnațpu
+  
+  On Base Alliance
+  
+  83\. Kūḑānațpu
+  
+  On False Alliance
+  
+  84\. Pēdaimai
+  
+  On Stupidity
+  
+  85\. Pullaŗivāņmai
+  
+  On Ignorance
+  
+  86\. Īkal
+  
+  On Discord
+  
+  87\. Pakai Māṭci
+  
+  On Enmity
+  
+  88\. Pakaittiŗanterital
+  
+  On Knowing the Enemy's Strength
+  
+  89\. Uṭpakai
+  
+  Internal Foes
+  
+  90\. Periyāraippiḻaiyāmai
+  
+  Not Censuring the Great
+  
+  91\. Peņvaḻiccēŗal
+  
+  On Following Women's Advice
+  
+  92\. Varaiviṉmakaļir
+  
+  On Public Women
+  
+  93\. Kaļļuņņāmai
+  
+  On Avoiding Wine
+  
+  94\. Śūtu
+  
+  On Gambling
+  
+  95\. Marundu
+  
+  On Medicine
+  
+  96\. Kuḑimai
+  
+  On Noble Lineage
+  
+  97\. Māṉam
+  
+  On Honour
+  
+  98\. Perumai
+  
+  On Greatness
+  
+  99\. Śāṉŗāņmai
+  
+  On Good Conduct
+  
+  100\. Paņbuḑaimai
+  
+  On Courtesy
+  
+  101\. Naṉŗiyil Śelvam
+  
+  On Unprofitable Wealth
+  
+  102\. Nāņuḑaimai
+  
+  On Modesty
+  
+  103\. Kuḑi Śeyalvakai
+  
+  On Exalting One's Family
+  
+  104\. Uḻavu
+  
+  On Agriculture
+  
+  105\. Nalkuravu
+  
+  On Poverty
+  
+  106\. Iravu
+  
+  On Begging
+  
+  107\. Iravaccam
+  
+  On Fear of Begging
+  
+  108\. Kayamai
+  
+  On Meanness
+  
+  \-\-\-\-\-\-\-\-\-\-\-  
+  **KĀMATTUPPĀL**
+  
+  109\. Takaiyaņanguŗuttal
+  
+  On Lover's Distraction
+  
+  110\. Kuŗippaŗital
+  
+  Reading Love's Signs
+  
+  111\. Puņarcci Makiḻtal
+  
+  The Ecstasy of Love's Union
+  
+  112\. Nalampuṉainduraittal
+  
+  On His Lady
+  
+  113\. Kādaŗ Śiŗappuraittal
+  
+  On the Affirmation of Love
+  
+  114\. Nāņuttaŗavuraittal
+  
+  Speaking Out Unabashed
+  
+  115\. Alaraŗivuŗuttal
+  
+  Rumours of Secret Love
+  
+  116\. Pirivāŗŗāmai
+  
+  The Pangs of Separation
+  
+  117\. Paḑarmelindirangal
+  
+  The Cry of the Separated
+  
+  118\. Kaņviduppaḻidal
+  
+  On Eyes That Languish
+  
+  119\. Pacappuŗu Paruvaral
+  
+  Grieving Over Love's Pallor
+  
+  120\. Taṉippaḑar Mikuti
+  
+  Feeling All Alone
+  
+  121\. Ninaindavar Pulambal
+  
+  Recollecting the Pleasures of Love
+  
+  122\. Kaṉavunilai Uraittal
+  
+  Dreams of Love
+  
+  123\. Poḻutu Kaṇḑirangal
+  
+  Sunset and Sorrow
+  
+  124\. Uŗuppunalaṉ Aḻital
+  
+  Wasting Away
+  
+  125\. Neñcoḑu Kiļattal
+  
+  Soliloquy of the Lady Love
+  
+  126\. Niŗai Aḻital
+  
+  On the Loss of Modesty
+  
+  127\. Avarvayiṉ Vidumbal
+  
+  On the Distress of each Towards the Other
+  
+  128\. Kuŗipaŗivuŗuttal
+  
+  On Speaking on the Signs
+  
+  129\. Puņarcci Vidumbal
+  
+  On Yearning After Union
+  
+  130\. Neñcoḑu Pulattal
+  
+  On Speaking with the Mind
+  
+  131\. Pulavi
+  
+  On Lovers' Misunderstanding
+  
+  132\. Pulavi Nuņukkam
+  
+  On Subtlety of Lovers' Misunderstanding
+  
+  133\. Ūḑaluvakai
+  
+  On the Pleasures of Lovers' Misunderstanding
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
@@ -631,28 +631,28 @@ by Ramachandra Dikshitar
 
 **pāl - iyal -atikāram aṭṭavaṇai**
 
-1\. aṟattuppāl  
-1.1 pāyiram / kaṭavuḷ vāḻttu (atikāram 1 - 4)  
-1.2 illaṟaviyal (atikāram 5 - 24)  
-1.3 tuṟavaṟaviyal (atikāram 25 - 37)  
-1.4 ūḻiyal (atikāram 38)
-
-2\. poruṭpāl  
-2.1 araciyal (atikāram 39 - 63)  
-2.2 amaicciyal (atikāram 64 - 73)  
-2.3 aṅkaviyal (atikāram 74 - 95)  
-2.4 oḻipiyal (atikāram 96 - 108)
-
-3\. kāmattuppāl  
-3.1 kaḷaviyal (atikāram 109 - 115)  
-3.2 kaṟpiyal (atikāram 116 - 133)  
-\-\-\-\-\-\-\-\-\-\-\-
+  1\. aṟattuppāl  
+  1.1 pāyiram / kaṭavuḷ vāḻttu (atikāram 1 - 4)  
+  1.2 illaṟaviyal (atikāram 5 - 24)  
+  1.3 tuṟavaṟaviyal (atikāram 25 - 37)  
+  1.4 ūḻiyal (atikāram 38)
+  
+  2\. poruṭpāl  
+  2.1 araciyal (atikāram 39 - 63)  
+  2.2 amaicciyal (atikāram 64 - 73)  
+  2.3 aṅkaviyal (atikāram 74 - 95)  
+  2.4 oḻipiyal (atikāram 96 - 108)
+  
+  3\. kāmattuppāl  
+  3.1 kaḷaviyal (atikāram 109 - 115)  
+  3.2 kaṟpiyal (atikāram 116 - 133)  
+  \-\-\-\-\-\-\-\-\-\-\-
 
 ## 1\. aṟattuppāl 
 #### 1.1 pāyiraviyal
 
 **I. PREFACE**  
-**1\. kaṭavuḷ vāḻttu - CHAPTER 1 — IN PRAISE OF GOD**
+##### 1\. kaṭavuḷ vāḻttu - CHAPTER 1 — IN PRAISE OF GOD
 
 1\. akaram mutala, eḻuttu ellām; āti-  
 pakavaṉ mutaṟṟē, ulaku.
@@ -714,7 +714,7 @@ iṟaivaṉ aṭi cērātār.
 10\. Those who gain the feet of the Lord cross the great ocean of births; others cannot.
   
 
-**2\. vāṉ ciṟappu - CHAPTER 2 — IN PRAISE OF RAIN**
+##### 2\. vāṉ ciṟappu - CHAPTER 2 — IN PRAISE OF RAIN
 
 11\. vāṉ niṉṟu ulakam vaḻaṅki varutalāṉ,  
 tāṉ amiḻtam eṉṟu uṇaral pāṟṟu.
@@ -777,7 +777,7 @@ vāṉ iṉṟu amaiyātu oḻukku.
   
   
 
-**3\. nīttār perumai - CHAPTER 3 — ON THE GREATNESS OF RENUNCIATION**
+##### 3\. nīttār perumai - CHAPTER 3 — ON THE GREATNESS OF RENUNCIATION
 
 21\. oḻukkattu nīttār perumai viḻuppattu  
 vēṇṭum- paṉuval tuṇivu.
@@ -840,7 +840,7 @@ cen taṇmai pūṇṭu oḻukalāṉ.
   
   
 
-**4\. aṟaṉ valiyuṟuttal - CHAPTER 4 — ON DHARMA**
+##### 4\. aṟaṉ valiyuṟuttal - CHAPTER 4 — ON DHARMA
 
 31\. ciṟappu īṉum; celvamum īṉum; aṟattiṉ ūuṅku  
 ākkam evaṉō, uyirkku.
@@ -905,7 +905,7 @@ uyaṟpālatu ōrum paḻi.
 
 #### 1.2. illaṟaviyal II. ON DOMESTIC VIRTUE
 
-**5\. ilvāḻkkai - CHAPTER 5 — ON FAMILY LIFE**
+##### 5\. ilvāḻkkai - CHAPTER 5 — ON FAMILY LIFE
 
 41\. ilvāḻvāṉ eṉpāṉ iyalpu uṭaiya mūvarkkum  
 nallāṟṟiṉ niṉṟa tuṇai.
@@ -967,7 +967,7 @@ teyvattuḷ vaikkappaṭum.
 50\. He who lives the true life of the householder on earth becomes one among the gods in Heaven.
   
 
-**6\. vāḻkkaittuṇai nalam - CHAPTER 6 — ON WIVES**
+##### 6\. vāḻkkaittuṇai nalam - CHAPTER 6 — ON WIVES
 
 51\. maṉait takka māṇpu uṭaiyaḷ āki, taṟ koṇṭāṉ  
 vaḷattakkāḷ vāḻkkaittuṇai.
@@ -1030,7 +1030,7 @@ naṉkalam naṉ makkaṭ pēṟu.
   
   
 
-**7\. putalvaraip peṟutal - CHAPTER 7 — ON SONS**
+##### 7\. putalvaraip peṟutal - CHAPTER 7 — ON SONS
 
 61\. peṟumavaṟṟuḷ yām aṟivatu illai-aṟivu aṟinta  
 makkaṭpēṟu alla piṟa.
@@ -1093,7 +1093,7 @@ eṉ nōṟṟāṉkol!’ eṉum col.
   
   
 
-**8\. aṉpu uṭaimai - CHAPTER 8 — LOVING-KINDNESS**
+##### 8\. aṉpu uṭaimai - CHAPTER 8 — LOVING-KINDNESS
 
 71\. aṉpiṟkum uṇṭō, aṭaikkum tāḻ?ārvalar  
 puṉkaṇnīr pūcal tarum.
@@ -1156,7 +1156,7 @@ eṉpu tōl pōrtta uṭampu.
   
   
 
-**9\. viruntu ōmpal - Chapter 9 — On hospitality**
+##### 9\. viruntu ōmpal - Chapter 9 — On hospitality
 
 81\. iruntu ōmpi il vāḻvatu ellām viruntu ōmpi  
 vēḷāṇmai ceytaṟporuṭṭu.
@@ -1219,7 +1219,7 @@ nōkkak kuḻaiyum viruntu.
   
   
 
-**10\. iṉiyavai kūṟal - CHAPTER 10 — ON SWEET WORDS**
+##### 10\. iṉiyavai kūṟal - CHAPTER 10 — ON SWEET WORDS
 
 91\. iṉ col-āl īram aḷaii, paṭiṟu ilaām  
 cemporuḷ kaṇṭār vāyc col.
@@ -1282,7 +1282,7 @@ kaṉi iruppa, kāy kavarntaṟṟu.
   
   
 
-**11\. ceynnaṉṟi aṟital - CHAPTER 11— ON GRATITUDE**
+##### 11\. ceynnaṉṟi aṟital - CHAPTER 11— ON GRATITUDE
 
 101\. ceyyāmal ceyta utavikku vaiyakamum  
 vāṉakamum āṟṟal aritu.
@@ -1345,7 +1345,7 @@ ceynnaṉṟi koṉṟa makaṟku.
   
   
 
-**12\. naṭuvu nilaimai - CHAPTER 12 — ON EQUITY**
+##### 12\. naṭuvu nilaimai - CHAPTER 12 — ON EQUITY
 
 111\. takuti eṉa oṉṟum naṉṟē-pakutiyāṉ  
 pāṟpaṭṭu oḻukappeṟiṉ.
@@ -1408,7 +1408,7 @@ piṟavum tamapōl ceyiṉ.
   
   
 
-**13\. aṭakkam uṭaimai - CHAPTER 13 — ON SELF-CONTROL**
+##### 13\. aṭakkam uṭaimai - CHAPTER 13 — ON SELF-CONTROL
 
 121\. aṭakkam amararuḷ uykkum; aṭaṅkāmai  
 ār iruḷ uyttuviṭum.
@@ -1471,7 +1471,7 @@ aṟam pārkkum āṟṟiṉ nuḻaintu.
   
   
 
-**14\. oḻukkam uṭaimai - CHAPTER 14 — ON RIGHT CONDUCT**
+##### 14\. oḻukkam uṭaimai - CHAPTER 14 — ON RIGHT CONDUCT
 
 131\. oḻukkam viḻuppam taralāṉ, oḻukkam  
 uyiriṉum ōmpappaṭum.
@@ -1534,7 +1534,7 @@ kallār aṟivilātār.
   
   
 
-**15\. piṟaṉ il viḻaiyāmai - CHAPTER 15 — ON ADULTERY**
+##### 15\. piṟaṉ il viḻaiyāmai - CHAPTER 15 — ON ADULTERY
 
 141\. piṟaṉ poruḷāḷ-peṭṭu oḻukum pētaimai ñālattu  
 aṟam, poruḷ, kaṇṭārkaṇ il.
@@ -1597,7 +1597,7 @@ peṇmai nayavāmai naṉṟu.
   
   
 
-**16\. poṟai uṭaimai - CHAPTER 16 — ON PATIENCE**
+##### 16\. poṟai uṭaimai - CHAPTER 16 — ON PATIENCE
 
 151\. akaḻvārait tāṅkum nilam pōla, tammai  
 ikaḻvārp poṟuttal talai.
@@ -1659,7 +1659,7 @@ iṉṉāc col nōṟpāriṉ piṉ.
 160\. Great are those who fast and do penance but greater than they are those who put up with insults.
   
 
-**17\. aḻukkāṟāmai - CHAPTER 17 — ON ENVY**
+##### 17\. aḻukkāṟāmai - CHAPTER 17 — ON ENVY
 
 161\. oḻukku āṟāk koḷka-oruvaṉ taṉ neñcattu  
 aḻukkāṟu ilāta iyalpu.
@@ -1722,7 +1722,7 @@ perukkattiṉ tīrntārum il.
   
   
 
-**18\. veḵkāmai - CHAPTER 18 — ON NON-COVETING**
+##### 18\. veḵkāmai - CHAPTER 18 — ON NON-COVETING
 
 171\. naṭuvu iṉṟi naṉ poruḷ veḵkiṉ, kuṭi poṉṟi,  
 kuṟṟamum āṅkē tarum.
@@ -1784,7 +1784,7 @@ vēṇṭāmai eṉṉum cerukku.
 180\. A blind covetousness brings about one’s ruin. Freedom from it begets one’s triumph.
   
 
-**19\. puṟam kūṟāmai - CHAPTER 19 — ON NOT BACK-BITING**
+##### 19\. puṟam kūṟāmai - CHAPTER 19 — ON NOT BACK-BITING
 
 181\. aṟam kūṟāṉ, alla ceyiṉum, oruvaṉ  
 puṟam kūṟāṉ eṉṟal iṉitu.
@@ -1846,7 +1846,7 @@ tītu uṇṭō, maṉṉum uyirakku?.
 190\. Will ever harm befall one who looks upon the faults of others as one’s own?
   
 
-**20\. payaṉ ila collāmai - CHAPTER 20 — ON FRIVOLITY OF SPEECH**
+##### 20\. payaṉ ila collāmai - CHAPTER 20 — ON FRIVOLITY OF SPEECH
 
 191\. pallār muṉiyap payaṉ ila colluvāṉ  
 ellārum eḷḷappaṭum.
@@ -1908,7 +1908,7 @@ collil payaṉ ilāc col!.
 200\. Speak profitable words; avoid nonsense.
   
 
-**21\. tīviṉai accam - CHAPTER 21 — ON FEAR OF EVIL DEEDS**
+##### 21\. tīviṉai accam - CHAPTER 21 — ON FEAR OF EVIL DEEDS
 
 201\. tīviṉaiyār añcār; viḻumiyār añcuvar-  
 tīviṉai eṉṉum cerukku.
@@ -1970,7 +1970,7 @@ tīviṉai ceyyāṉ eṉiṉ?.
 210\. Hardly doth sorrow befall one who does not deviate from right.
   
 
-**22\. oppuravu aṟital - CHAPTER 22 — ON DECORUM**
+##### 22\. oppuravu aṟital - CHAPTER 22 — ON DECORUM
 
 211\. kaimmāṟu vēṇṭā kaṭappāṭu; mārimāṭṭu  
 eṉ āṟṟum kollō, ulaku?.
@@ -2032,7 +2032,7 @@ viṟṟuk kōḷ takkatu uṭaittu.
 220\. The poverty that results from a just course of action is worth purchasing by going into the very bond of slavery.
   
 
-**23\. īkai - CHAPTER 23— ON LIBERALITY**
+##### 23\. īkai - CHAPTER 23— ON LIBERALITY
 
 221\. vaṟiyārkku oṉṟu īvatē īkai; maṟṟu ellām  
 kuṟiyetirppai nīratu uṭaittu.
@@ -2095,7 +2095,7 @@ tāmē tamiyar uṇal.
 230\. Death indeed is the greatest calamity; worse than death is one’s failure in charity.
   
 
-**24\. pukaḻ - CHAPTER 24 - ON RENOWN**
+##### 24\. pukaḻ - CHAPTER 24 - ON RENOWN
 
 231\. ītal! icaipaṭa vāḻtal! atu allatu  
 ūtiyam illai, uyirkku.
@@ -2161,7 +2161,7 @@ vāḻvārē vāḻātavar.
 
 #### 1.3. tuṟavaṟaviyal - III. ON RENUNCIATION
 
-**25\. aruḷ uṭaimai - CHAPTER 25 — ON COMPASSION**
+##### 25\. aruḷ uṭaimai - CHAPTER 25 — ON COMPASSION
 
 241\. aruṭ celvam, celvattuḷ celvam; poruṭ celvam  
 pūriyārkaṇṇum uḷa.
@@ -2222,7 +2222,7 @@ meliyārmēl cellum iṭattu.
 250\. Oppress not the weak; remember your fate in stronger hands.
   
 
-**26\. pulāl maṟuttal - CHAPTER 26 — ON ABSTAINING FROM MEAT**
+##### 26\. pulāl maṟuttal - CHAPTER 26 — ON ABSTAINING FROM MEAT
 
 251\. taṉ ūṉ perukkaṟkut tāṉ piṟitu ūṉ uṇpāṉ  
 eṅṅaṉam āḷum aruḷ?.
@@ -2284,7 +2284,7 @@ ellā uyirum toḻum.
 260\. The whole world folds its hands in prayer to one who kills not and abjures flesh.
   
 
-**27\. tavam - CHAPTER 27 — ON PENANCE**
+##### 27\. tavam - CHAPTER 27 — ON PENANCE
 
 261\. uṟṟa nōy nōṉṟal, uyirkku uṟukaṇ ceyyāmai,  
 aṟṟē-tavattiṟku uru.
@@ -2346,7 +2346,7 @@ cilar; palar nōlātavar.
 270\. Many are the indigent; for only a few practise penance.
   
 
-**28\. kūṭā oḻukkam - CHAPTER 28— ON IMPROPER CONDUCT**
+##### 28\. kūṭā oḻukkam - CHAPTER 28— ON IMPROPER CONDUCT
 
 271\. vañca maṉattāṉ paṭiṟṟu oḻukkam pūtaṅkaḷ  
 aintum akattē nakum.
@@ -2408,7 +2408,7 @@ paḻittatu oḻittuviṭiṉ.
 280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
   
 
-**29\. kaḷḷāmai - CHAPTER 29— ON NON-STEALING**
+##### 29\. kaḷḷāmai - CHAPTER 29— ON NON-STEALING
 
 281\. eḷḷāmai vēṇṭuvāṉ eṉpāṉ eṉaittu oṉṟum  
 kaḷḷāmai kākka, taṉ neñcu!.
@@ -2470,7 +2470,7 @@ taḷḷātu, puttēḷ ulaku.
 290\. Their very bodies fail the defrauding. The world of the gods fail not the upright.
   
 
-**30\. vāymai - CHAPTER 30— ON TRUTH**
+##### 30\. vāymai - CHAPTER 30— ON TRUTH
 
 291\. 'vāymai eṉappaṭuvatu yātu?' eṉiṉ, yātu oṉṟum  
 tīmai ilāta colal.
@@ -2532,7 +2532,7 @@ vāymaiyiṉ nalla piṟa.
 300\. In all the scriptures we have read, there is no virtue greater than truth.
   
 
-**31\. vekuḷāmai - CHAPTER 31— ON NOT GETTING ANGRY**
+##### 31\. vekuḷāmai - CHAPTER 31— ON NOT GETTING ANGRY
 
 301\. cel iṭattuk kāppāṉ ciṉam kāppāṉ; al iṭattu,  
 kākkiṉ eṉ? kāvākkāl eṉ?.
@@ -2594,7 +2594,7 @@ tuṟantār tuṟantār tuṇai.
 310\. Men given to wrath are one with the devil; Men free from it are one with the immortals.
   
 
-**32\. iṉṉā ceyyāmai - CHAPTER 32— ON NOT DOING EVIL**
+##### 32\. iṉṉā ceyyāmai - CHAPTER 32— ON NOT DOING EVIL
 
 311\. ciṟappu īṉum celvam peṟiṉum, piṟarkku iṉṉā  
 ceyyāmai mācu aṟṟār kōḷ.
@@ -2656,7 +2656,7 @@ nōy iṉmai vēṇṭupavar.
 320\. All sufferings befall those who inflict harm on others. Those who desire immunity from suffering never commit injury.
   
 
-**33\. kollāmai - CHAPTER 33— NOT KILLING**
+##### 33\. kollāmai - CHAPTER 33— NOT KILLING
 
 321\. 'aṟaviṉai yātu?' eṉiṉ, kollāmai; kōṟal  
 piṟa viṉai ellām tarum.
@@ -2718,7 +2718,7 @@ cellāt tī vāḻkkaiyavar'.
 330\. Behold the Lazarus, he is guilty of acts of violence in his former birth.
   
 
-**34\. nilaiyāmai - CHAPTER 34— INSTABILITY**
+##### 34\. nilaiyāmai - CHAPTER 34— INSTABILITY
 
 331\. nillātavaṟṟai nilaiyiṉa eṉṟu uṇarum  
 pullaṟivu āṇmai kaṭai.
@@ -2780,7 +2780,7 @@ tuccil irunta uyirkku!.
 340\. Why should the soul seek a temporary shelter in the perishable body? Is there not a durable habitation for it?
   
 
-**35\. tuṟavu - CHAPTER 35— RENUNCIATION**
+##### 35\. tuṟavu - CHAPTER 35— RENUNCIATION
 
 341\. yātaṉiṉ yātaṉiṉ nīṅkiyāṉ, nōtal  
 ataṉiṉ ataṉiṉ ilaṉ.
@@ -2842,7 +2842,7 @@ paṟṟuka, paṟṟu viṭaṟku!.
 350\. Cling fast to Him who is free from all desire. Seek Him for your freedom, from attachment.
   
 
-**36\. mey uṇartal - CHAPTER 36— TRUE KNOWLEDGE**
+##### 36\. mey uṇartal - CHAPTER 36— TRUE KNOWLEDGE
 
 351\. poruḷ allavaṟṟaip poruḷ eṉṟu uṇarum  
 maruḷāṉ ām, māṇāp piṟappu.
@@ -2904,7 +2904,7 @@ nāmam keṭa, keṭum nōy.
 360\. Wipe out the very names of lust, anger and delusion; you will be wiping out the pause of re-birth.
   
 
-**37\. avā aṟuttal - CHAPTER 37— THE DESTRUCTION OF DESIRE**
+##### 37\. avā aṟuttal - CHAPTER 37— THE DESTRUCTION OF DESIRE
 
 361\. 'avā' eṉpa-'ellā uyirkkum, eñ ñāṉṟum,  
 tavāap piṟappu īṉum vittu'.
@@ -2966,7 +2966,7 @@ pērā iyaṟkai tarum.
 370\. Give up your insatiable longings; you will be conferring on yourself an eternal life.
   
 
-**38\. ūḻ - CHAPTER 38— FATE**
+##### 38\. ūḻ - CHAPTER 38— FATE
 
 371\. āku ūḻāl tōṉṟum, acaivu iṉmai; kaipporuḷ  
 pōku ūḻāl tōṉṟum, maṭi.
@@ -3031,10 +3031,10 @@ cūḻiṉum, tāṉ muntuṟum.
 \-\-\-\-\-\-\-\-\-\-
 
 ## 2\. poruṭpāl
-2.1 araciyal - SECTION I. THE STATE
+### 2.1 araciyal - SECTION I. THE STATE
 
 
-**39\. iṟaimāṭci - CHAPTER 39— ON MAJESTY**
+##### 39\. iṟaimāṭci - CHAPTER 39— ON MAJESTY
 
 381\. paṭai, kuṭi, kūḻ, amaiccu, naṭpu, araṇ āṟum  
 uṭaiyāṉ aracaruḷ ēṟu.
@@ -3096,7 +3096,7 @@ uṭaiyāṉ ām, vēntarkku oḷi.
 390\. He is a light among Kings who is endowed with liberality, grace, love for his subjects, and a desire for just rule.  
 \-\-\-\-\-\-\-\-\-\-\-\-\-
 
-**40\. kalvi - CHAPTER 40— ON LEARNING**
+##### 40\. kalvi - CHAPTER 40— ON LEARNING
 
 391\. kaṟka, kacaṭu aṟa, kaṟpavai! kaṟṟapiṉ,  
 niṟka, ataṟkut taka!.
@@ -3158,7 +3158,7 @@ māṭu alla, maṟṟaiyavai.
 400\. The precious undecaying wealth of a man is his learning. All other riches are no wealth at all.  
 \-\-\-\-\-\-\-\-\-\-
 
-**41\. kallāmai - CHAPTER 41— ON NON-LEARNING**
+##### 41\. kallāmai - CHAPTER 41— ON NON-LEARNING
 
 401\. araṅku iṉṟi vaṭṭu āṭiyaṟṟē-nirampiya  
 nūl iṉṟik kōṭṭi koḷal.
@@ -3220,7 +3220,7 @@ kaṟṟāroṭu ēṉaiyavar.
 410\. The ignorant are but beasts by the side of men of wide learning.  
 \-\-\-\-\-\-\-\-\-
 
-**42\. kēḷvi - CHAPTER 42 — ON HEARING**
+##### 42\. kēḷvi - CHAPTER 42 — ON HEARING
 
 411\. celvattuḷ celvam ceviccelvam; ac celvam  
 celvattuḷ ellām talai.
@@ -3282,7 +3282,7 @@ aviyiṉum vāḻiṉum eṉ.
 420\. What avails it whether men live or die, if they merely satisfy the palate and not feed the ear with wisdom.  
 \-\-\-\-\-\-\-\-\-
 
-**43\. aṟivuṭaimai - CHAPTER 43— ON KNOWLEDGE**
+##### 43\. aṟivuṭaimai - CHAPTER 43— ON KNOWLEDGE
 
 421\. aṟivu, aṟṟam kākkum karuvi; ceṟuvārkkum  
 uḷ aḻikkal ākā araṇ.
@@ -3344,7 +3344,7 @@ eṉ uṭaiyarēṉum ilar.
 430\. The wise possess everything; but the poor are the unwise rich.  
 \-\-\-\-\-\-\-\-\-\-
 
-**CHAPTER 44— ON RESTRAINING FAULTS**
+##### CHAPTER 44— ON RESTRAINING FAULTS
 
 431\. Exalted is the wealth that is free from pride, wrath and lust.  
 \-\-\-\-
@@ -3376,7 +3376,7 @@ eṉ uṭaiyarēṉum ilar.
 440\. Of what avail are the designs of the foe, if one does not betray one’s secrets?  
 \-\-\-\-\-\-\-\-\-\-
 
-**CHAPTER 45— ON ASSOCIATION WITH ELDERS**
+##### CHAPTER 45— ON ASSOCIATION WITH ELDERS
 
 441\. The friendship of virtuous men of mature wisdom is to be appreciated and secured.  
 \-\-\-\-
@@ -3408,7 +3408,7 @@ eṉ uṭaiyarēṉum ilar.
 450\. Greatly injurious is the forsaking of the friendship of the good; it is like encountering singlehanded many foes.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**46\. ciṟṟiṉam cērāmai - CHAPTER 46— ON AVOIDING LOW COMPANY**
+##### 46\. ciṟṟiṉam cērāmai - CHAPTER 46— ON AVOIDING LOW COMPANY
 
 451\. ciṟṟiṉam añcum, perumai; ciṟumaitāṉ  
 cuṟṟamāc cūḻntuviṭum.
@@ -3470,7 +3470,7 @@ allaṟpaṭuppatūum il.
 460\. There is no greater evil than the company of the wicked.  
 \-\-\-\-\-\-\-\-\-
 
-**47\. terintu ceyal vakai - CH. 47— ON ACTION AFTER DUE DELIBERATION**
+##### 47\. terintu ceyal vakai - CH. 47— ON ACTION AFTER DUE DELIBERATION
 
 461\. aḻivatūum āvatūum āki, vaḻipayakkum  
 ūtiyamum cūḻntu, ceyal!.
@@ -3532,7 +3532,7 @@ koḷḷāta koḷḷātu ulaku.
 470\. Let not the king do; any unwise act lest the world should hold him in scorn.  
 \-\-\-\-\-\-\-
 
-**48\. vali aṟital - CH. 48— ON KNOWING THE ENEMY’S STRENGTH**
+##### 48\. vali aṟital - CH. 48— ON KNOWING THE ENEMY’S STRENGTH
 
 471\. viṉai valiyum, taṉ valiyum, māṟṟāṉ valiyum,  
 tuṇai valiyum, tūkkic ceyal.
@@ -3594,7 +3594,7 @@ vaḷa varai vallaik keṭum.
 480\. The fortune of one, lavish of charity beyond measure, goes to rack and rain.  
 \-\-\-\-\-\-\-\-
 
-**49\. kālam aṟital - CHAPTER 49— ON KNOWING THE TIME**
+##### 49\. kālam aṟital - CHAPTER 49— ON KNOWING THE TIME
 
 481\. pakal vellum, kūkaiyaik kākkai;- ikal vellum  
 vēntarkku vēṇṭum, poḻutu.
@@ -3656,7 +3656,7 @@ kuttu okka, cīrtta iṭattu.
 490\. When the time is not ripe, be still as a heron. But at the ripe hour, attack the enemy without missing your aim.  
 \-\-\-\-\-\-\-\-\-
 
-**50\. iṭaṉ aṟital - CHAPTER 50— ON KNOWING THE PLACE**
+##### 50\. iṭaṉ aṟital - CHAPTER 50— ON KNOWING THE PLACE
 
 491\. toṭaṅkaṟka ev viṉaiyum; eḷḷaṟka-muṟṟum  
 iṭam kaṇṭapiṉ allatu!.
@@ -3718,7 +3718,7 @@ vēl āḷ mukatta kaḷiṟu.
 500\. A mad elephant that kills the bold spearman is killed even by a jackal when it gets stuck up in the mire.  
 \-\-\-\-\-\-\-\-
 
-**51\. terintu teḷital - CH. 51— ENGAGING SERVANTS AFTER TEST**
+##### 51\. terintu teḷital - CH. 51— ENGAGING SERVANTS AFTER TEST
 
 501\. aṟam, poruḷ, iṉpam, uyir accam, nāṉkiṉ  
 tiṟam terintu tēṟappaṭum.
@@ -3780,7 +3780,7 @@ tīrā iṭumpai tarum.
 510\. To choose men with no forethought and to suspect them will land you in endless woes.  
 \-\-\-\-\-\-\-
 
-**52\. terintu viṉaiyāṭal - CH. 52— ON APPOINTMENT ACCORDING TO MERIT**
+##### 52\. terintu viṉaiyāṭal - CH. 52— ON APPOINTMENT ACCORDING TO MERIT
 
 511\. naṉmaiyum tīmaiyum nāṭi, nalam purinta  
 taṉmaiyāṉ āḷappaṭum.
@@ -3842,7 +3842,7 @@ kōṭāmaik kōṭātu ulaku.
 520\. Let them not swerve from the right path; for on them rests the just conduct of the world.  
 \-\-\-\-\-\-\-\-\-
 
-**53\. cuṟṟam taḻāl - CHAPTER 53— ON CHERISHING ONE’S KINDRED**
+##### 53\. cuṟṟam taḻāl - CHAPTER 53— ON CHERISHING ONE’S KINDRED
 
 
 521\. paṟṟu aṟṟakaṇṇum paḻamai pārāṭṭutal  
@@ -3905,7 +3905,7 @@ iḻaittu iruntu, eṇṇik koḷal.
 530\. Let the king embrace his estranged kith and kin by redressing their grievances.  
 \-\-\-\-\-\-\-\-
 
-**54\. poccāvāmai - CHAPTER 54— AGAINST FORGETFULNESS**
+##### 54\. poccāvāmai - CHAPTER 54— AGAINST FORGETFULNESS
 
 531\. iṟanta vekuḷiyiṉ tītē-ciṟanta  
 uvakai makiḻcciyiṉ cōrvu.
@@ -3967,7 +3967,7 @@ uḷḷiyatu uḷḷappeṟiṉ.
 540\. No task is difficult to the thoughtful and diligent.  
 \-\-\-\-\-\-\-
 
-**55\. ceṅkōṉmai - CHAPTER 55— ON RIGHTEOUS SCEPTRE**
+##### 55\. ceṅkōṉmai - CHAPTER 55— ON RIGHTEOUS SCEPTRE
 
 541\. ōrntu, kaṇṇōṭātu, iṟai purintu, yārmāṭṭum  
 tērntu, ceyvaḵtē muṟai.
@@ -4029,7 +4029,7 @@ kaḷai kaṭṭataṉoṭu nēr.
 550\. Punishing murderers with death is like plucking out weeds among the crops.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**56\. koṭuṅkōṉmai - CHAPTER 56— ON UNRIGHTEOUS RULE**
+##### 56\. koṭuṅkōṉmai - CHAPTER 56— ON UNRIGHTEOUS RULE
 
 551\. kolai mēṟkoṇṭāriṉ koṭitē-alai mēṟkoṇṭu  
 allavai ceytu oḻukum vēntu.
@@ -4091,7 +4091,7 @@ kāvalaṉ kāvāṉ eṉiṉ.
 560\. If the protecting monarch fails in his duties, the yield of cows will diminish and Brahmans with their six duties will forget their Vedas.  
 \-\-\-\-\-\-\-\-\-
 
-**57\. veruvanta ceyyāmai - CHAPTER 57— ON TYRANNY**
+##### 57\. veruvanta ceyyāmai - CHAPTER 57— ON TYRANNY
 
 561\. takkāṅku nāṭi, talaiccellā vaṇṇattāl  
 ottāṅku oṟuppatu vēntu.
@@ -4153,7 +4153,7 @@ illai, nilakkup poṟai.
 570\. No burden is harder for the earth to bear than the cruel sceptre wielded by the unwise.  
 \-\-\-\-\-\-\-\-
 
-**58\. kaṇṇōṭṭam - CHAPTER 58— ON KINDLINESS**
+##### 58\. kaṇṇōṭṭam - CHAPTER 58— ON KINDLINESS
 
 571\. kaṇṇōṭṭam eṉṉum kaḻiperuṅ kārikai  
 uṇmaiyāṉ, uṇṭu iv ulaku.
@@ -4215,7 +4215,7 @@ nākarikam vēṇṭupavar.
 580\. Those who wish to acquire loveable urbanity will knowingly swallow even the poison served.  
 \-\-\-\-\-\-\-
 
-**59\. oṟṟu āṭal - CHAPTER 59— ON SPIES**
+##### 59\. oṟṟu āṭal - CHAPTER 59— ON SPIES
 
 581\. oṟṟum, urai cāṉṟa nūlum, ivai iraṇṭum  
 teṟṟeṉka, maṉṉavaṉ kaṇ.
@@ -4277,7 +4277,7 @@ puṟappaṭuttāṉ ākum, maṟai.
 590\. Let not a king honour the spy publicly; for, by so doing he will be letting out his own secret.  
 \-\-\-\-\-\-
 
-**60\. ūkkam uṭaimai - CHAPTER 60— ON EXERTION**
+##### 60\. ūkkam uṭaimai - CHAPTER 60— ON EXERTION
 
 591\. uṭaiyar eṉappaṭuvatu ūkkam; aḵtu illār  
 uṭaiyatu uṭaiyarō, maṟṟu?.
@@ -4339,7 +4339,7 @@ maram; makkaḷ ātalē vēṟu.
 600\. One’s strength is one’s exertion. Without it persons are only trees in the form of men.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**61\. maṭi iṉmai - CHAPTER 61— AGAINST SLOTH**
+##### 61\. maṭi iṉmai - CHAPTER 61— AGAINST SLOTH
 
 601\. kuṭi eṉṉum kuṉṟā viḷakkam, maṭi eṉṉum  
 mācu ūra, māyntu keṭum.
@@ -4401,7 +4401,7 @@ tāayatu ellām oruṅku.
 610\. All the universe once measured by God will be with the king of no sloth.  
 \-\-\-\-\-\-\-\-\-\-
 
-**62\. āḷviṉai uṭaimai - CHAPTER 62— ON PERSEVERANCE**
+##### 62\. āḷviṉai uṭaimai - CHAPTER 62— ON PERSEVERANCE
 
 611\. arumai uṭaittu eṉṟu acāvāmai vēṇṭum;  
 perumai muyaṟci tarum.
@@ -4463,7 +4463,7 @@ tāḻātu uñaṟṟupavar.
 620\. Those who labour hard, undaunted by obstacles will overcome destiny.  
 \-\-\-\-\-\-\-\-
 
-**63\. iṭukkaṇ aḻiyāmai - CHAPTER 63— ON COURAGE**
+##### 63\. iṭukkaṇ aḻiyāmai - CHAPTER 63— ON COURAGE
 
 621\. iṭukkaṇ varuṅkāl nakuka! ataṉai  
 aṭuttu ūrvatu aḵtu oppatu il.
@@ -4530,7 +4530,7 @@ oṉṉār viḻaiyum ciṟappu.
 
 #### SECTION II. LIMBS OF THE STATE
 
-**64\. amaiccu - CHAPTER 64— ON MINISTERS**
+##### 64\. amaiccu - CHAPTER 64— ON MINISTERS
 
 631\. karuviyum, kālamum, ceykaiyum, ceyyum  
 aruviṉaiyum, māṇṭatu-amaiccu.
@@ -4592,7 +4592,7 @@ tiṟappāṭu ilāatavar.
 640\. Ministers who have no requisite ability will leave a task unfinished though well begun.  
 \-\-\-\-\-\-\-\-
 
-**65\. col vaṉmai - CHAPTER 65— ON GOOD SPEECH**
+##### 65\. col vaṉmai - CHAPTER 65— ON GOOD SPEECH
 
 641\. 'nā nalam' eṉṉum nalaṉ uṭaimai; an nalam  
 yā nalattu uḷḷatūum aṉṟu.
@@ -4656,7 +4656,7 @@ uṇara virittu uraiyātār.
 650\. Those who cannot explain well what they have learnt resemble the odourless flowers with their petals open.  
 \-\-\-\-\-\-\-\-
 
-**66\. viṉait tūymai - CHAPTER 66— ON PURITY IN ACTION**
+##### 66\. viṉait tūymai - CHAPTER 66— ON PURITY IN ACTION
 
 651\. tuṇai nalam ākkam tarūum; viṉai nalam  
 vēṇṭiya ellām tarum.
@@ -4717,7 +4717,7 @@ kalattuḷ nīr peytu, irīiyaṟṟu.
 660\. A minister who promotes his king’s resources by fraud is like one who tries to store up water in a pot of unburnt clay.  
 \-\-\-\-\-\-\-\-\-\-
 
-**67\. viṉait tiṭpam - CHAPTER 67— ON RESOLUTENESS**
+##### 67\. viṉait tiṭpam - CHAPTER 67— ON RESOLUTENESS
 
 661\. viṉait tiṭpam eṉpatu oruvaṉ maṉat tiṭpam;  
 maṟṟaiya ellām piṟa.
@@ -4779,7 +4779,7 @@ vēṇṭārai vēṇṭātu, ulaku.
 670\. The world will not esteem him who has no determined will, notwithstanding his other strong virtues.  
 \-\-\-\-\-\-\-\-\-
 
-**68\. viṉai ceyal vakai - CHAPTER 68— ON THE MEANS OF ACTION**
+##### 68\. viṉai ceyal vakai - CHAPTER 68— ON THE MEANS OF ACTION
 
 671\. cūḻcci muṭivu tuṇivu eytal; at tuṇivu  
 tāḻcciyuḷ taṅkutal tītu.
@@ -4840,7 +4840,7 @@ koḷvar periyārp paṇintu.
 680\. Fearing that their weak king may quake with fear, ministers will bow before superior kings and accept their terms.  
 \-\-\-\-\-\-\-\-\-\-
 
-**69\. tūtu - CHAPTER 69— ON EMBASSY**
+##### 69\. tūtu - CHAPTER 69— ON EMBASSY
 
 681\. aṉpu uṭaimai, āṉṟa kuṭippiṟattal, vēntu avām  
 paṇpu uṭaimai,- tūtu uraippāṉ paṇpu.
@@ -4902,7 +4902,7 @@ uṟuti payappatu ām-tūtu.
 690\. A true envoy delivers his message even at the risk of death.  
 \-\-\-\-\-\-\-
 
-**70\. maṉṉaraic cērntu oḻukal - CHAPTER 70— ON CO-OPERATION WITH KING**
+##### 70\. maṉṉaraic cērntu oḻukal - CHAPTER 70— ON CO-OPERATION WITH KING
 
 691\. akalātu, aṇukātu, tīk kāyvār pōlka-  
 ikal vēntarc cērntu oḻukuvār.  
@@ -4963,7 +4963,7 @@ keḻutakaimai kēṭu tarum.
 700\. To take liberty under the cover of old acquaintance and do unwanted things is to court ill.  
 \-\-\-\-\-\-\-\-\-
 
-**71\. kuṟippu aṟital - CHAPTER 71— ON READING ONE’S INTENTIONS**
+##### 71\. kuṟippu aṟital - CHAPTER 71— ON READING ONE’S INTENTIONS
 
 701\. kūṟāmai nōkki, kuṟippu aṟivāṉ, eññāṉṟum  
 māṟā nīr vaiyakku aṇi.
@@ -5021,7 +5021,7 @@ kaṇ allatu, illai piṟa.
 710\. There is no other measuring rod, used by intelligent ministers than the monarch’s eye.  
 \-\-\-\-\-\-\-
 
-**72\. avai aṟital - CHAPTER 72— ON KNOWING THE ASSEMBLY**
+##### 72\. avai aṟital - CHAPTER 72— ON KNOWING THE ASSEMBLY
 
 711\. avai aṟintu, ārāyntu, colluka-colliṉ  
 tokai aṟinta tūymaiyavar!.
@@ -5082,7 +5082,7 @@ allārmuṉ kōṭṭi koḷal!.
 720\. Entering an assembly of men of unequal respectability will be like pouring nectar in an unclean courtyard.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**73\. avai añcāmai - CHAPTER 73— NOT TO BE AFRAID OF ASSEMBLY**
+##### 73\. avai añcāmai - CHAPTER 73— NOT TO BE AFRAID OF ASSEMBLY
 
 721\. vakai aṟintu, val avai, vāycōrār-colliṉ  
 tokai aṟinta tūymaiyavar.
@@ -5145,7 +5145,7 @@ kaṟṟa celac collātār.
 730\. Dead though alive are those who are afraid to address an assembly on what they have learnt.  
 \-\-\-\-\-\-\-\-
 
-**74\. nāṭu - CHAPTER 74— ON THE KINGDOM**
+##### 74\. nāṭu - CHAPTER 74— ON THE KINGDOM
 
 731\. taḷḷā viḷaiyuḷum, takkārum, tāḻvu ilāc  
 celvarum, cērvatu- nāṭu.
@@ -5205,7 +5205,7 @@ vēntu amaivu illāta nāṭu.
 740\. Vain is the kingdom which may have all the excellence except harmony between the ruler and the ruled.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**75\. araṇ - CHAPTER 75— ON FORTRESS**
+##### 75\. araṇ - CHAPTER 75— ON FORTRESS
 
 741\. āṟṟupavarkkum araṇ poruḷ; añcit taṟ  
 pōṟṟupavarkkum poruḷ.
@@ -5266,7 +5266,7 @@ illārkaṇ illatu-araṇ.
 750\. Of what use are these barriers of defence to a stronghold if it possesses no men of valour.  
 \-\-\-\-\-\-\-\-\-
 
-**76\. poruḷ ceyal vakai - CHAPTER 76— ON ACQUISITION OF WEALTH**
+##### 76\. poruḷ ceyal vakai - CHAPTER 76— ON ACQUISITION OF WEALTH
 
 751\. poruḷ allavaraip poruḷākac ceyyum  
 poruḷ allatu, illai poruḷ.
@@ -5327,7 +5327,7 @@ eḵku ataṉiṉ kūriyatu il.
 760\. Amass wealth by lawful means; the other two (virtue and happiness) will follow.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**77\. paṭai - CHAPTER 77— ON THE VALUE OF AN ARMY**
+##### 77\. paṭai - CHAPTER 77— ON THE VALUE OF AN ARMY
 
 761\. uṟuppu amaintu, ūṟu añcā, vel paṭai-vēntaṉ  
 veṟukkaiyuḷ ellām talai.
@@ -5388,7 +5388,7 @@ talaimakkaḷ ilvaḻi il.
 770\. Of what avail is the army of heroic warriors if there be no general to guide them?  
 \-\-\-\-\-\-\-\-\-
 
-**78\. paṭaic cerukku - CHAPTER 78— ON COURAGE OF THE ARM**
+##### 78\. paṭaic cerukku - CHAPTER 78— ON COURAGE OF THE ARM
 
 771\. eṉṉai muṉ nillaṉmiṉ-tevvir! palar, eṉṉai  
 muṉ niṉṟu kal niṉṟavar.
@@ -5451,7 +5451,7 @@ irantu kōḷ-takkatu uṭaittu.
 780\. Ye! Soldiers, endeavour to earn a death of glory which will move your chief to tears.  
 \-\-\-\-\-\-\-
 
-**79\. naṭpu - CHAPTER 79— ON FRIENDSHIP**
+##### 79\. naṭpu - CHAPTER 79— ON FRIENDSHIP
 
 781\. ceyaṟku ariya yā uḷa, naṭpiṉ?-atupōl  
 viṉaikku ariya yā uḷa, kāppu?.
@@ -5514,7 +5514,7 @@ puṉaiyiṉum, pulleṉṉum-naṭpu.
 790\. Even one may say, “These are my friends; I am deeply attached to them". Yet, it may be insignificant friendship.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**80\. naṭpu ārāytal - CHAPTER 80— ON TRUE FRIENDSHIP**
+##### 80\. naṭpu ārāytal - CHAPTER 80— ON TRUE FRIENDSHIP
 
 791\. nāṭātu naṭṭaliṉ kēṭu illai; naṭṭapiṉ,  
 vīṭu illai, naṭpu āḷpavarkku.
@@ -5575,7 +5575,7 @@ oruvuka, oppu ilār naṭpu!.
 800\. Count the friendship of the faultless and release yourself even at a price from friends not of approved conduct.  
 \-\-\-\-\-\-\-\-\-
 
-**81\. paḻaimai - CHAPTER 81— ON OLD FRIENDSHIP**
+##### 81\. paḻaimai - CHAPTER 81— ON OLD FRIENDSHIP
 
 801 paḻaimai eṉappaṭuvatu yāteṉiṉ yātum  
 kiḻamaiyaik kīḻttiṭā naṭpu.
@@ -5638,7 +5638,7 @@ paṇpiṉ talaippiriyā tār.
 810\. Even foes long for those who do not forsake their old and erring friends.  
 \-\-\-\-\-\-\-\-
 
-**82\. tī naṭpu - CHAPTER 82— ON BASE ALLIANCE**
+##### 82\. tī naṭpu - CHAPTER 82— ON BASE ALLIANCE
 
 811 parukuvār pōliṉum paṇpilār kēṇmai  
 perukalil kuṉṟal iṉitu.
@@ -5700,7 +5700,7 @@ maṉṟil paḻippār toṭarpu.
 820\. Avoid the friendship however little, of those who befriend you at home but betray you in the assembly (public).  
 \-\-\-\-\-\-\-\-\-
 
-**83\. kūṭā naṭpu - CHAPTER 83— ON FALSE ALLIANCE**
+##### 83\. kūṭā naṭpu - CHAPTER 83— ON FALSE ALLIANCE
 
 821 cīrviṭam kāṇiṉ eṟitaṟkup paṭṭaṭai  
 nērā nirantavar naṭpu.
@@ -5761,7 +5761,7 @@ akanaṭpu orīi viṭal.
 830\. When the enemy pretends alliance, receive him with outward smile and inward distrust.  
 \-\-\-\-\-\-\-\-\-\-\-\-\-
 
-**84\. pētaimai - CHAPTER 84— ON STUPIDITY**
+##### 84\. pētaimai - CHAPTER 84— ON STUPIDITY
 
 831 pētaimai eṉpatuoṉṟu yātueṉiṉ ētamkoṇṭu  
 ūtiyam pōka viṭal.
@@ -5822,7 +5822,7 @@ kuḻāattup pētai pukal.
 840\. A fool’s entry into the assembly of the wise is like one’s unclean foot on the bed.  
 \-\-\-\-\-\-\-\-\-
 
-**85\. pullaṟivāṇmai - CHAPTER 85— ON IGNORANCE**
+##### 85\. pullaṟivāṇmai - CHAPTER 85— ON IGNORANCE
 
 841 aṟiviṉmai iṉmaiyuḷ iṉmai piṟitiṉmai  
 iṉmaiyā vaiyātu ulaku.
@@ -5884,7 +5884,7 @@ alakaiyā vaikkap paṭum.
 850\. He who is out of tune with the world is regarded a demon.  
 \-\-\-\-\-\-\-\-\-
 
-**86\. ikal - CHAPTER 86— ON DISCORD**
+##### 86\. ikal - CHAPTER 86— ON DISCORD
 
 851 ikaleṉpa ellā uyirkkum pakaleṉṉum  
 paṇpiṉmai pārikkum nōy.
@@ -5945,7 +5945,7 @@ naṉṉayam eṉṉum cerukku.
 860\. From love springs the proud joy of a righteous life.  
 \-\-\-\-\-\-\-\-\-\-
 
-**87\. pakai māṭci - CHAPTER 87— ON ENMITY**
+##### 87\. pakai māṭci - CHAPTER 87— ON ENMITY
 
 861 valiyārkku māṟēṟṟal ōmpuka ōmpā  
 meliyārmēṉ mēka pakai.
@@ -6005,7 +6005,7 @@ ollāṉai ollātu oḷi.
 870\. Glory awaits one who does not exploit the ignorant.  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-**88\. pakaittiṟam terital - CHAPTER 88— ON KNOWING THE ENEMY’S STRENGTH**
+##### 88\. pakaittiṟam terital - CHAPTER 88— ON KNOWING THE ENEMY’S STRENGTH
 
 871 pakaiyeṉṉum paṇpi lataṉai oruvaṉ  
 nakaiyēyum vēṇṭaṟpāṟṟu aṉṟu.
@@ -6066,7 +6066,7 @@ cemmal citaikkalā tār.
 880\. He is one among the dead who fails to subdue his naughty foe.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**89\. uṭpakai - CHAPTER 89— INTERNAL FOES**
+##### 89\. uṭpakai - CHAPTER 89— INTERNAL FOES
 
 881 niḻaṉīrum iṉṉāta iṉṉā tamarnīrum  
 iṉṉāvām iṉṉā ceyiṉ.
@@ -6128,7 +6128,7 @@ pāmpōṭu uṭaṉuṟain taṟṟu.
 890\. Dwelling among men of hidden hate is like dwelling in a hamlet which harbours a snake.  
 \-\-\-\-\-\-\-\-\-\-
 
-**90\. periyāraip piḻaiyāmai - CHAPTER 90— NOT CENSURING THE GREAT**
+##### 90\. periyāraip piḻaiyāmai - CHAPTER 90— NOT CENSURING THE GREAT
 
 891 āṟṟuvār āṟṟal ikaḻāmai pōṟṟuvār  
 pōṟṟaluḷ ellām talai.
@@ -6190,7 +6190,7 @@ ciṟantuamainta cīrār ceṟiṉ.
 900\. Even kings of ancient renown perish before the wrath of the great.  
 \-\-\-\-\-\-\-\-\-
 
-**91\. peṇvaḻic cēṟal - CHAPTER 91— ON FOLLOWING WOMEN’S ADVICE**
+##### 91\. peṇvaḻic cēṟal - CHAPTER 91— ON FOLLOWING WOMEN’S ADVICE
 
 901 maṉaiviḻaivār māṇpayaṉ eytār viṉaiviḻaivār  
 vēṇṭāp poruḷum atu.
@@ -6251,7 +6251,7 @@ peṇcērntām pētaimai il.
 910\. Men of resolute will never commit the folly of slaving for women.  
 \-\-\-\-\-\-\-\-\-\-
 
-**92\. varaiviṉ makaḷir - CHAPTER 92— ON PUBLIC WOMEN**
+##### 92\. varaiviṉ makaḷir - CHAPTER 92— ON PUBLIC WOMEN
 
 911 aṉpiṉ viḻaiyār poruḷviḻaiyum āytoṭiyār  
 iṉcol iḻukkut tarum.
@@ -6313,7 +6313,7 @@ tirunīkkap paṭṭār toṭarpu.
 920\. Double-tongued women, wine and dice are the allies of those abandoned by the goddess of fortune.  
 \-\-\-\-\-\-\-\-
 
-**93\. kaḷ uṇṇāmai - CHAPTER 93— ON AVOIDING WINE**
+##### 93\. kaḷ uṇṇāmai - CHAPTER 93— ON AVOIDING WINE
 
 921 uṭkap paṭāar oḷiyiḻappar eññāṉṟum  
 kaṭkātal koṇṭoḻuku vār.
@@ -6375,7 +6375,7 @@ uḷḷāṉkol uṇṭataṉ cōrvu.
 930\. If a drunkard in sober moments sees, another under the influence of wine, will he fail to realise his own state when drunk?  
 \-\-\-\-\-\-\-\-\-
 
-**94\. cūtu - CHAPTER 94— ON GAMBLING**
+##### 94\. cūtu - CHAPTER 94— ON GAMBLING
 
 931 vēṇṭaṟka veṉṟiṭiṉum cūtiṉai veṉṟatūum  
 tūṇṭiṟpoṉ mīṉviḻuṅki aṟṟu.
@@ -6438,7 +6438,7 @@ uḻattoṟūum kātaṟṟu uyir.
 940\. In spite of all the ills of life we cling to it. In spite of all losses, a gambler clings to his dice.  
 \-\-\-\-\-\-\-\-
 
-**95\. maruntu - CHAPTER 95— ON MEDICINE**
+##### 95\. maruntu - CHAPTER 95— ON MEDICINE
 
 941 mikiṉum kuṟaiyiṉum nōyceyyum nūlōr  
 vaḷimutalā eṇṇiya mūṉṟu.
@@ -6504,7 +6504,7 @@ appālnāṟ kūṟṟē maruntu.
 
 #### SECTION— III: THE RESIDUE
 
-**96\. kuṭimai - CHAPTER 96— ON NOBLE LINEAGE**
+##### 96\. kuṭimai - CHAPTER 96— ON NOBLE LINEAGE
 
 951 ilpiṟantār kaṇallatu illai iyalpākac  
 ceppamum nāṇum oruṅku.
@@ -6566,7 +6566,7 @@ vēṇṭuka yārkkum paṇivu.
 960\. Out of modesty springs one’s greatness. Out of humility rises the honour of family.  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-**97\. māṉam - CHAPTER 97— ON HONOUR**
+##### 97\. māṉam - CHAPTER 97— ON HONOUR
 
 961 iṉṟi amaiyāc ciṟappiṉ āyiṉum  
 kuṉṟa varupa viṭal.
@@ -6628,7 +6628,7 @@ oḷitoḻutu ēttum ulaku
 970\. The world sings in praise of those noble persons who prefer death to dishonour.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**98\. perumai - CHAPTER 98— ON GREATNESS**
+##### 98\. perumai - CHAPTER 98— ON GREATNESS
 
 971 oḷioruvaṟku uḷḷa veṟukkai iḷioruvaṟku  
 aḵtuiṟantu vāḻtum eṉal.
@@ -6690,7 +6690,7 @@ kuṟṟamē kūṟi viṭum.
 980\. Greatness hides the faults of others; littleness trumpets their faults alone.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**99\. cāṉṟāṇmai - CHAPTER 99— ON GOOD CONDUCT**
+##### 99\. cāṉṟāṇmai - CHAPTER 99— ON GOOD CONDUCT
 
 981 kaṭaṉeṉpa nallavai ellām kaṭaṉaṟintu  
 cāṉṟāṇmai mēṟkoḷ pavarkku.
@@ -6751,7 +6751,7 @@ tāṅkātu maṉṉō poṟai.
 990\. Were the nobility of the noble to shrink, the vast firm earth would totter.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**100\. paṇpu uṭaimai - CHAPTER 100— ON COURTESY**
+##### 100\. paṇpu uṭaimai - CHAPTER 100— ON COURTESY
 
 991 eṇpatattāl eytal eḷiteṉpa yārmāṭṭum  
 paṇpuṭaimai eṉṉum vaḻakku.
@@ -6813,7 +6813,7 @@ kalantīmai yāltirintu aṟṟu.
 1000\. Of what' use is the wealth of the discourteous? It is like good milk spoilt by an unclean vessel.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**101\. naṉṟiyil celvam - CHAPTER 101— ON UNPROFITABLE WEALTH**
+##### 101\. naṉṟiyil celvam - CHAPTER 101— ON UNPROFITABLE WEALTH
 
 1001 vaittāṉvāy cāṉṟa perumporuL aḵtuṇṇāṉ  
 cettāṉ ceyakkiṭantatu il.
@@ -6874,7 +6874,7 @@ vaṟaṅkūrn taṉaiyatu uṭaittu.
 1010\. The short-lived poverty of the generous rich is the drought of rain-laden clouds.  
 \-\-\-\-\-\-\-\-\-\-
 
-**102\. nāṇ uṭaimai - CHAPTER 102— ON MODESTY**
+##### 102\. nāṇ uṭaimai - CHAPTER 102— ON MODESTY
 
 1011 karumattāl nāṇutal nāṇut tirunutal  
 nallavar nāṇup piṟa.
@@ -6936,7 +6936,7 @@ nāṇāl uyirmaruṭṭi aṟṟu.
 1020\. The activity of those lacking in modesty is like that of a marionette.  
 \-\-\-\-\-\-\-\-\-\-
 
-**103\. kuṭi ceyalvakai - CHAPTER 103— ON EXALTING ONE’S FAMILY**
+##### 103\. kuṭi ceyalvakai - CHAPTER 103— ON EXALTING ONE’S FAMILY
 
 1021 karumam ceyaoruvaṉ kaitūvēṉ eṉṉum  
 perumaiyiṉ pīṭuuṭaiyatu il.
@@ -6997,7 +6997,7 @@ nallāḷ ilāta kuṭi.
 1030\. The axe of adversity falls on the family which has no noble son to shield it.  
 \-\-\-\-\-\-\-\-\-
 
-**104\. uḻavu - CHAPTER 104— ON AGRICULTURE**
+##### 104\. uḻavu - CHAPTER 104— ON AGRICULTURE
 
 1031 cuḻaṉṟumērp piṉṉatu ulakam ataṉāl  
 uḻaṉṟum uḻavē talai.
@@ -7059,7 +7059,7 @@ nilameṉṉum nallāḷ nakum.
 1040\. Mother earth laughs in scorn at those who plead poverty  
 \-\-\-\-\-\-\-\-
 
-**105\. nalkuravu - CHAPTER 105— ON POVERTY**
+##### 105\. nalkuravu - CHAPTER 105— ON POVERTY
 
 1041 iṉmaiyiṉ iṉṉātatu yāteṉiṉ iṉmaiyiṉ  
 iṉmaiyē iṉṉā tatu.
@@ -7121,7 +7121,7 @@ uppiṟkum kāṭikkum kūṟṟu.
 1050\. The indigent that do not renounce the world batten on other man’s salt and porridge.  
 \-\-\-\-\-\-\-\-\-\-\-\-\-
 
-**106\. iravu - CHAPTER 106— ON BEGGING**
+##### 106\. iravu - CHAPTER 106— ON BEGGING
 
 1051 irakka irattakkārk kāṇiṉ karappiṉ  
 avarpaḻi tampaḻi aṉṟu.
@@ -7183,7 +7183,7 @@ tāṉēyum cālum kari.
 1060\. Do not chafe against the hunks for inevitable is the pain of poverty.  
 \-\-\-\-\-\-\-\-\-
 
-**107\. iravu accam - CHAPTER 107— ON FEAR OF BEGGING**
+##### 107\. iravu accam - CHAPTER 107— ON FEAR OF BEGGING
 
 1061 karavātu uvantīyum kaṇṇaṉṉār kaṇṇum  
 iravāmai kōṭi uṟum.
@@ -7245,7 +7245,7 @@ collāṭap pōom uyir.
 1070\. A rebuff takes the life out of the beggar. But can the deceitful escape death?  
 \-\-\-\-\-\-\-\-\-
 
-**108\. kayamai - CHAPTER 108— ON MEANNESS**
+##### 108\. kayamai - CHAPTER 108— ON MEANNESS
 
 1071 makkaḷē pōlvar kayavar avaraṉṉa  
 oppāri yāmkaṇṭatu il.
@@ -7312,7 +7312,7 @@ viṟṟaṟku uriyar viraintu.
 ## Part III: KĀMATTUPPĀL
 #### SECTION I. THE SECRET UNION
 
-**109\. takai aṇaṅku uṟuttal - CHAPTER 109— ON LOVER’S DISTRACTION**
+##### 109\. takai aṇaṅku uṟuttal - CHAPTER 109— ON LOVER’S DISTRACTION
 
 1081 aṇaṅkukol āymayil kollō kaṉaṅkuḻai  
 mātarkol mālumeṉ neñcu.
@@ -7374,7 +7374,7 @@ kaṇṭār makiḻceytal iṉṟu.
 1090\. Wine intoxicates the person when only drunk but love inebriates the soul even by a mere look.  
 \-\-\-\-\-\-\-\-\-
 
-**110\. kuṟippaṟital - CHAPTER 110— READING LOVE’S SIGNS**
+##### 110\. kuṟippaṟital - CHAPTER 110— READING LOVE’S SIGNS
 
 1091 irunōkku ivaḷuṇkaṇ uḷḷatu orunōkku  
 nōynōkkoṉṟu annōy maruntu.
@@ -7436,7 +7436,7 @@ eṉṉa payaṉum ila.
 1100\. Of what avail are words when eyes speak to eyes and heart whispers unto heart.  
 \-\-\-\-\-\-\-\-\-\-
 
-**111\. puṇarcci makiḻtal - CHAPTER 111— THE ECSTACY OF LOVE'S UNION**
+##### 111\. puṇarcci makiḻtal - CHAPTER 111— THE ECSTACY OF LOVE'S UNION
 
 1101 kaṇṭukēṭṭu uṇṭuuyirttu uṟṟaṟiyum aimpulaṉum  
 oṇṭoṭi kaṇṇē uḷa.
@@ -7498,7 +7498,7 @@ ceṟitōṟum cēyiḻai māṭṭu.
 1110\. The more I taste the charms of my beloved the more do d hunger for them. Verily what is already experienced pales into insignificance before the promise of the future.  
 \-\-\-\-\-\-\-\-
 
-**112\. nalam puṉaintu uraittal - CHAPTER 112— ON HIS LADY**
+##### 112\. nalam puṉaintu uraittal - CHAPTER 112— ON HIS LADY
 
 1111 naṉṉīrai vāḻi aṉiccamē niṉṉiṉum  
 meṉṉīraḷ yāmvīḻ pavaḷ.
@@ -7560,7 +7560,7 @@ aṭikku neruñcip paḻam.
 1120\. The soft aniccam flower and the down of the swan are but thistles before the soft feet of my lady.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**113\. kātaṟ ciṟappu uraittal - CHAPTER 113— ON THE AFFIRMATION OF LOVE**
+##### 113\. kātaṟ ciṟappu uraittal - CHAPTER 113— ON THE AFFIRMATION OF LOVE
 
 1121 pāloṭu tēṉkalan taṟṟē paṇimoḻi  
 vāleyiṟu ūṟiya nīr.  
@@ -7621,7 +7621,7 @@ añcutum vēpākku aṟintu.
 1130\. Delightfully my lover makes my heart for ever his abode; but villainous people say he is cruel and dwells apart.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**114\. nāṇuttuṟavu uraittal - CHAPTER 114— SPEAKING OUT UNABASHED**
+##### 114\. nāṇuttuṟavu uraittal - CHAPTER 114— SPEAKING OUT UNABASHED
 
 1131 kāmam uḻantu varuntiṉārkku ēmam  
 maṭalallatu illai vali.
@@ -7685,7 +7685,7 @@ yāmpaṭṭa tāmpaṭā vāṟu.
 1140\. Foolish people laugh at me before my very eyes; verily they have not experienced agony of love.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**115\. alar aṟivuṟuttal - CHAPTER 115— RUMOURS OF SECRET LOVE**
+##### 115\. alar aṟivuṟuttal - CHAPTER 115— RUMOURS OF SECRET LOVE
 
 1141 alaraḻa āruyir niṟkum ataṉaip  
 palaraṟiyār pākkiyat tāl.
@@ -7751,7 +7751,7 @@ End of the Secret Union
 
 #### SECTION II— WEDDED LOVE
 
-**116\. pirivu āṟṟāmai - CHAPTER 116— THE PANGS OF SEPARAITON**
+##### 116\. pirivu āṟṟāmai - CHAPTER 116— THE PANGS OF SEPARAITON
 
 1151 cellāmai uṇṭēl eṉakkuurai maṟṟuniṉ  
 valvaravu vāḻvārkku urai.
@@ -7812,7 +7812,7 @@ piṉiruntu vāḻvār palar.
 1160\. Many ladies have gracefully borne news of separation, steered clear of sorrow, endured the parting of the loved one and still survived I  
 \-\-\-\-\-\-\-\-
 
-**117\. paṭar melintu iraṅkal - CHAPTER 117— THE CRY OF THE SEPARATED**
+##### 117\. paṭar melintu iraṅkal - CHAPTER 117— THE CRY OF THE SEPARATED
 
 1161 maṟaippēṉmaṉ yāṉiḵtō nōyai iṟaippavarkku  
 ūṟṟunīr pōla mikum.
@@ -7874,7 +7874,7 @@ nīntala maṉṉōeṉ kaṇ.
 1170\. If only my eyes like my mind had the speedy power of fleeing to my lover, they need not now swim in a flood of tears.  
 \-\-\-\-\-\-\-
 
-**118\. kaṇ vituppu aḻital - CHAPTER 118— ON EYES THAT LANGUISH**
+##### 118\. kaṇ vituppu aḻital - CHAPTER 118— ON EYES THAT LANGUISH
 
 1171 kaṇtām kaluḻvatu evaṉkolō taṇṭānōy  
 tāmkāṭṭa yāṅkaṇ ṭatu.
@@ -7937,7 +7937,7 @@ aṟaipaṟai kaṇṇār akattu.
 1180\. It is certainly not hard for the villagers to read my secret love. My tell-tale eyes proclaim it to the world.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**119\. pacappuṟu paruvaral - CHAPTER 119— GRIEVING OVER LOVE’S PALLOR**
+##### 119\. pacappuṟu paruvaral - CHAPTER 119— GRIEVING OVER LOVE’S PALLOR
 
 1181 nayantavarkku nalkāmai nērntēṉ pacantaveṉ  
 paṇpiyārkku uraikkō piṟa.
@@ -7999,7 +7999,7 @@ nalkāmai tūṟṟār eṉiṉ.
 1190\. Good it is for me to be known as pallor incarnate if only people do not call my lover merciless.  
 \-\-\-\-\-\-\-\-\-
 
-**120\. taṉippaṭar mikuti - CHAPTER 120— FEELING ALL ALONE**
+##### 120\. taṉippaṭar mikuti - CHAPTER 120— FEELING ALL ALONE
 
 1191 tāmvīḻvār tamvīḻap peṟṟavar peṟṟārē  
 kāmattuk kāḻil kaṉi.
@@ -8061,7 +8061,7 @@ ceṟāaay vāḻiya neñcu.
 1200\. Oh my heart! try to tell gnawing cares to your unresponsive lover; you may as well strive to dry up the surging sea.  
 \-\-\-\-\-\-\-\-\-\-
 
-**121\. niṉaintavar pulampal - CHAPTER 121— RECOLLECTING THE PLEASURES OF LOVE**
+##### 121\. niṉaintavar pulampal - CHAPTER 121— RECOLLECTING THE PLEASURES OF LOVE
 
 1201 uḷḷiṉum tīrāp perumakiḻ ceytalāl  
 kaḷḷiṉum kāmam iṉitu.
@@ -8123,7 +8123,7 @@ paṭāati vāḻi mati.
 1210\. She says to the moon : “O blessed moon I ceaselessly pour your rays till I am able to see with my eyes the loved one who has forsaken me but yet dwells forever in my heart.”  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**122\. kaṉavunilai uraittal - CHAPTER 122— DREAMS OF LOVE**
+##### 122\. kaṉavunilai uraittal - CHAPTER 122— DREAMS OF LOVE
 
 1211 kātalar tūtoṭu vanta kaṉaviṉukku  
 yātucey vēṉkol viruntu.
@@ -8184,7 +8184,7 @@ kāṇārkol ivvū ravar.
 1220\. Folk say: “He has abandoned her in sooth.” Verily they do not know how he visits me in my dreams.  
 \-\-\-\-\-\-\-\-
 
-**123\. poḻutukaṇṭu iraṅkal - CHAPTER 123— SUNSET AND SORROW**
+##### 123\. poḻutukaṇṭu iraṅkal - CHAPTER 123— SUNSET AND SORROW
 
 1221 mālaiyō allai maṇantār uyiruṇṇum  
 vēlainī vāḻi poḻutu.
@@ -8246,7 +8246,7 @@ māyumeṉ māyā uyir.
 1230\. This life of mine which has survived this bitter separation is very near to death in this treacherous evening, as I think of my lord who values riches far above love.  
 \-\-\-\-\-\-\-\-\-\-\-\-
 
-**124\. uṟuppu nalaṉ aḻital - CHAPTER 124— WASTING AWAY**
+##### 124\. uṟuppu nalaṉ aḻital - CHAPTER 124— WASTING AWAY
 
 1231 ciṟumai namakkoḻiyac cēṇceṉṟār uḷḷi  
 naṟumalar nāṇiṉa kaṇ.
@@ -8309,7 +8309,7 @@ oṇṇutal ceytatu kaṇṭu.
 1240\. “Her eyes turned lustreless at the release of my arms from their close embrace; was it in sympathy with the fading brightness of her forehead?”  
 \-\-\-\-\-\-\-\-
 
-**125\. neñcoṭu kiḷattal - CHAPTER 125— SOLILOQUY OF THE LADY-LOVE**
+##### 125\. neñcoṭu kiḷattal - CHAPTER 125— SOLILOQUY OF THE LADY-LOVE
 
 1241 niṉaittuoṉṟu collāyō neñcē eṉaittoṉṟum  
 evvanōy tīrkkum maruntu.
@@ -8371,7 +8371,7 @@ iṉṉum iḻantum kaviṉ.
 1250\. The more I have him in my heart who has left me never to come back, the more my beauty wastes away.  
 \-\-\-\-\-\-\-
 
-**126\. niṟai aḻital - CHAPTER 126— ON LOSS OF MODESTY**
+##### 126\. niṟai aḻital - CHAPTER 126— ON LOSS OF MODESTY
 
 1251 kāmak kaṇicci uṭaikkum niṟaiyeṉṉum  
 nāṇuttāḻ vīḻtta katavu.
@@ -8433,7 +8433,7 @@ puṇarntatuūṭi niṟpōm eṉal.
 1260\. People with hearts melting like fat at the touch of fire — how can they reject the offered love and stand aloof?  
 \-\-\-\-\-\-\-\-\-\-
 
-**127\. avarvayiṉ vitumpal - CHAPTER 127— ON DISTRESS OF EACH TOWARDS THE OTHER**
+##### 127\. avarvayiṉ vitumpal - CHAPTER 127— ON DISTRESS OF EACH TOWARDS THE OTHER
 
 1261 vāḷaṟṟup puṟkeṉṟa kaṇṇum avarceṉṟa  
 nāḷoṟṟit tēynta viral.
@@ -8495,7 +8495,7 @@ uḷḷam uṭaintuukkak kāl.
 1270\. If her heart has been broken, of what avail is it if I become available to her, reach her or even join her?  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**128\. kuṟippu aṟivuṟuttal - CHAPTER 128— ON SPEAKING ON THE SIGNS**
+##### 128\. kuṟippu aṟivuṟuttal - CHAPTER 128— ON SPEAKING ON THE SIGNS
 
 1271 karappiṉum kaiyikantu ollāniṉ uṇkaṇ  
 uraikkal uṟuvatoṉṟu uṇṭu.
@@ -8557,7 +8557,7 @@ kāmanōy colli iravu.
 1280\. The eyes seek the cure of passion. It is the modesty of a modest woman.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**129\. puṇarcci vitumpal - CHAPTER 129— ON YEARNING AFTER UNION**
+##### 129\. puṇarcci vitumpal - CHAPTER 129— ON YEARNING AFTER UNION
 
 1281 uḷḷak kaḷittalum kāṇa makiḻtalum  
 kaḷḷukkuil kāmattiṟku uṇṭu.
@@ -8619,7 +8619,7 @@ eṉṉiṉum tāṉvitup puṟṟu.
 1290\. With resentful eyes, my lady complained: but eager for reconciliation she forgets her anger.  
 \-\-\-\-\-\-\-\-\-\-
 
-**130\. neñcoṭu pulattal - CHAPTER 130— ON SPEAKING WITH THE MIND**
+##### 130\. neñcoṭu pulattal - CHAPTER 130— ON SPEAKING WITH THE MIND
 
 1291 avarneñcu avarkkātal kaṇṭum evaṉneñcē  
 nīemakku ākā tatu.
@@ -8681,7 +8681,7 @@ neñcam tamaral vaḻi. tiṟaṉ kāṭṭuka
 1300\. If one’s own heart turns against one, how can one expect anything but hostility from others?  
 \-\-\-\-\-\-\-\-\-\-
 
-**131\. pulavi - CHAPTER 131— ON LOVERS’ MISUNDERSTANDING**
+##### 131\. pulavi - CHAPTER 131— ON LOVERS’ MISUNDERSTANDING
 
 1301 pullātu irāap pulattai avaruṟum  
 allalnōy kāṇkam ciṟitu.
@@ -8743,7 +8743,7 @@ kūṭuvēm eṉpatu avā.
 1310\. My heart longs for reunion with him who cares not for my sufferings in the quarrel.  
 \-\-\-\-\-\-\-\-\-\-\-
 
-**132\. pulavi nuṇukkam - CHAPTER 132— ON SUBTLETY OF LOVERS’ MISUNDERSTANDING**
+##### 132\. pulavi nuṇukkam - CHAPTER 132— ON SUBTLETY OF LOVERS’ MISUNDERSTANDING
 
 1311 peṇiyalār ellārum kaṇṇiṉ potuuṇpar  
 naṇṇēṉ parattaniṉ mārpu.
@@ -8805,7 +8805,7 @@ yāruḷḷi nōkkiṉīr eṉṟu.
 1320\. If I look at her silently and appreciate her beauty, she will ask me querulously, “whom you are thinking of?”  
 \-\-\-\-\-\-\-\-\-\-
 
-**133\. ūṭal uvakai - CHAPTER 133— ON THE PLEASURES OF LOVERS’ MISUNDERSTANDING**  
+##### 133\. ūṭal uvakai - CHAPTER 133— ON THE PLEASURES OF LOVERS’ MISUNDERSTANDING  
 1321 illai tavaṟuavarkku āyiṉum ūṭutal  
 vallatu avaraḷikkum āṟu.
 

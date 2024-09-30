@@ -11,10 +11,8 @@ S. N. Srirama Desikan, Siromani
 With an Introduction by  
 Dr. C.P. Ramaswamy Aiyar
 
-
 TODO: परिष्कार्यम् - तत्र तत्र टङ्कनदोषा वर्तन्ते।
 </details>
-
 
 ## १ अऱत्तुप्पाल् धर्मकाण्डः
 
@@ -34,6 +32,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 समस्तान्य् अक्षराणि च ।  
 चराचर-प्रपञ्चोऽयम्  
 ईश्वराद् एव **जायते** ॥ १॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १</summary>
+
+1\. அகர முதல எழுத்தெல்லாம் ஆதி  
+பகவன் முதற்றே உலகு  
+'A' leads letters; the Ancient Lord  
+Leads and lords the entire world.         1  
 </details>
 
 <details><summary>मूलम् - १</summary>
@@ -56,6 +62,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 **न** तैर् अस्ति **प्रयोजनम्** ॥ २॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २</summary>
+
+2\. கற்றதனா லாய பயனென்கொல் வாலறிவன்  
+நற்றாள் தொழாஅர் எனின்  
+That lore is vain which does not fall  
+At His good feet who knoweth all.         2  
+</details>
+
 <details><summary>मूलम् - २</summary>
 
 कट्रदनाल् आय पयनॆन्गॊल् वालऱिवन्  
@@ -74,6 +88,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वासिनो जगद्-ईशितुः ।  
 **भजतां** पाद-युगलं  
 **जायन्ते** नित्य-सम्पदः ॥ ३॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३</summary>
+
+3\. மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்  
+நிலமிசை நீடுவாழ் வார்  
+Long they live on earth who gain  
+The feet of God in florid brain.         3  
 </details>
 
 <details><summary>मूलम् - ३</summary>
@@ -96,6 +118,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 **न** स्याद् **दुःखं** कदाचन ॥ ४॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४</summary>
+
+4\. வேண்டுதல் வேண்டாமை இலர்ன்அடி சேர்ந்தார்க்கு  
+யாண்டும் இடும்பை இல  
+Who hold His feet who likes nor loathes  
+Are free from woes of human births.         4  
+</details>
+
 <details><summary>मूलम् - ४</summary>
 
 वेण्डुदल् वेण्डामै इलानडि सेर्न्दार्क्कु  
@@ -112,6 +142,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 माहात्म्यमप्रमेयस्य ज्ञात्वा तं भजतां नृणाम् ।  
 अज्ञानमूलकं कर्म द्विविधं चापि नश्यति ॥ ५॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५</summary>
+
+5\. இருள்சேர் இருவினையும் சேரா இறைவன்  
+பொருள்சேர் புகழ்புரிந்தார் மாட்டு  
+God's praise who tell, are free from right  
+And wrong, the twins of dreaming night.         5  
 </details>
 
 <details><summary>मूलम् - ५</summary>
@@ -132,6 +170,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ईश्वरोक्तेन मागेण्ण गच्छन् नित्यसुखी भवेत् ॥ ६॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६</summary>
+
+6\. பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க  
+நெறிநின்றார் நீடுவாழ் வார்  
+They prosper long who walk His way  
+Who has the senses signed away.         6  
+</details>
+
 <details><summary>मूलम् - ६</summary>
 
 पॊऱिवायिल् ऐन्दवित्तान् पॊय्दीर् ऒऴुक्क  
@@ -148,6 +194,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ईशं निरुपमं नित्यं यो वै शरणमाश्रितः ।  
 स एवदुःखरहितो नित्यं सुखमिहाश्नुते ॥ ७॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७</summary>
+
+7\. தனக்குஉவமை இல்லாதான் தாள்சேர்ந்தார்க்கு கல்லால்  
+மனக்கவலை மாற்றல் அரிது  
+His feet, whose likeness none can find,  
+Alone can ease the anxious mind.         7  
 </details>
 
 <details><summary>मूलम् - ७</summary>
@@ -168,6 +222,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अलब्ध्वा दुःखजलधेः पारं गन्तुं न शक्यते ॥ ८॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८</summary>
+
+8\. அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்  
+பிறவாழி நீந்தல் அரிது  
+Who swims the sea of vice is he  
+Who clasps the feet of Virtue's sea.         8  
+</details>
+
 <details><summary>मूलम् - ८</summary>
 
 अऱवाऴि अन्दणन् ताळ्सेर्न्दार्क् कल्लाल्  
@@ -186,6 +248,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दृष्टया विरहितं चक्षुरिव तस्य शिरो वृथा ॥ ९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९</summary>
+
+9\. கோளில் பொறியில் குணமிலவே எண்குணத்தான்  
+தாளை வணங்காத் தலை.  
+Like senses stale that head is vain  
+Which bows not to Eight-Virtued Divine.         9  
+</details>
+
 <details><summary>मूलम् - ९</summary>
 
 कोळिल् पॊऱियिन् कुणमिलवे ऎण्गुणत्तान्  
@@ -202,6 +272,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नावं भगवतः पादरूपिणीं प्राप्नुवन्ति ये ।  
 ते तरन्ति भवाम्भोधिमितरैस्तर्तुमक्षमम् ॥ १०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०</summary>
+
+10\. பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்  
+இறைவன் அடிசேரா தார்  
+The sea of births they alone swim  
+Who clench His feet and cleave to Him.        10  
 </details>
 
 <details><summary>मूलम् - १०</summary>
@@ -224,6 +302,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोकस्थितिकरं वर्षे ततोऽमृतमिदं विदुः ॥ ११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११</summary>
+
+1\. வான்நின்று உலகம் வழங்கி வருதலால்  
+தான்அமிழ்தம் என்றுணரற் பாற்று  
+The genial rain ambrosia call:  
+The world but lasts while rain shall fall.         11  
+</details>
+
 <details><summary>मूलम् - ११</summary>
 
 वान्निण्ड्रु उलगम् वऴङ्गि वरुदलाल्  
@@ -240,6 +326,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आहारापेक्षलोकस्य भोज्यं धान्यादिकं बहु ।  
 उत्पाथ पेयतामेति स्वयं वर्षे जलात्मना ॥ १२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२</summary>
+
+2\. துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்  
+துப்பாய தூஉம் மழை  
+The rain begets the food we eat  
+And forms a food and drink concrete.         12  
 </details>
 
 <details><summary>मूलम् - १२</summary>
@@ -260,6 +354,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राणिनो बाधते मेघे यथाकालमवर्षति ॥ १३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३</summary>
+
+3\. விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து  
+உள்நின்று உடற்றும் பசி  
+Let clouds their visits stay, and dearth  
+Distresses all the sea-girt earth.         13  
+</details>
+
 <details><summary>मूलम् - १३</summary>
 
 विण्इण्ड्रु पॊय्प्पिन् विरिनीर् वियनुलगत्तु  
@@ -276,6 +378,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नष्टायां वर्षसम्पत्तौ धान्योत्पादनतत्पराः ।  
 लाङ्गलेन भुवं नैव कर्षयेयुः कृषीवलाः ॥ १४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४</summary>
+
+4\. ஏரின் உழாஅர் உழவர் புயலென்னும்  
+வாரி வளங்குன்றிக் கால்  
+Unless the fruitful shower descend,  
+The ploughman's sacred toil must end.         14  
 </details>
 
 <details><summary>मूलम् - १४</summary>
@@ -296,6 +406,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अथ स्वयमनावृष्टि बाधितामपि रक्षति ॥ १५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १५</summary>
+
+5\. கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே  
+எடுப்பதூஉம் எல்லாம் மழை  
+Destruction it may sometimes pour,  
+But only rain can life restore.         15  
+</details>
+
 <details><summary>मूलम् - १५</summary>
 
 कॆडुप्पदूउम् कॆट्टार्क्कुच् चार्वाय्मऱ्‌ ऱाङ्गे  
@@ -312,6 +430,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जलानां बिन्दवो मेघात् न पतेयुर्यदि क्षितौ ।  
 लोके द्रष्टुं न शक्यन्ते हरितास्तृणसम्पदः ॥ १६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६</summary>
+
+6\. விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே  
+பசும்புல் தலைகாண்பு அரிது  
+No grassy blade its head will rear,  
+If from the cloud no drop appear.         16  
 </details>
 
 <details><summary>मूलम् - १६</summary>
@@ -332,6 +458,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अगाघोऽप्युदधिस्तेन समृद्धिरहितो भवेत् ॥ १७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १७</summary>
+
+7\. நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி  
+தான்நல்கா தாகி விடின்  
+The ocean's wealth will waste away,  
+Except the cloud its stores repay.         17  
+</details>
+
 <details><summary>मूलम् - १७</summary>
 
 नॆडुङ्गडलुम् तन्नीर्मै कुण्ड्रुम् तडिन्दॆऴिलि  
@@ -348,6 +482,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 देवताराधनं नित्यं विशेषादुत्सवादिकम् ।  
 लोके नैव प्रवर्तेत मेघो यदि न वर्षति ॥ १८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८</summary>
+
+8\. சிறப்பொடு பூசனை செல்லாது வானம்  
+வறக்குமேல் வானோர்க்கும் ஈண்டு  
+The earth, beneath a barren sky,  
+Would offerings for the gods deny.         18  
 </details>
 
 <details><summary>मूलम् - १८</summary>
@@ -368,6 +510,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अभयं न भवेल्लोके यदि देवो न वर्षति ॥ १९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १९</summary>
+
+9\. தானம் தவம்இரண்டும் தங்கா வியன்உலகம்  
+வானம் வழங்கா தெனின்.  
+Were heaven above to fail below  
+Nor alms nor penance earth would show.         19  
+</details>
+
 <details><summary>मूलम् - १९</summary>
 
 तानम् तवम्इरण्डुम् तङ्गा वियन्उलगम्  
@@ -384,6 +534,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जलाभावे लोकयात्रा सर्वेषामेव देहिनाम् ।  
 न स्यात्; वर्ष विना नैतत्; सदाचारादिकं तथा ॥ २०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २०</summary>
+
+10\. நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்  
+வான்இன்று அமையாது ஒழுக்கு  
+Water is life that comes from rain  
+Sans rain our duties go in vain.         20  
 </details>
 
 <details><summary>मूलम् - २०</summary>
@@ -406,6 +564,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आमनन्ति समे ग्रन्थाः मान्या माहात्म्यमुत्तमम् ॥ २१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २१</summary>
+
+1\. ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து  
+வேண்டும் பனுவல் துணிவு  
+No merit can be held so high  
+As theirs who sense and self deny.         21  
+</details>
+
 <details><summary>मूलम् - २१</summary>
 
 ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
@@ -422,6 +588,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निराशस्य मुनेः श्रैष्ठयगणनं ''जीवयकोटयः ।  
 कति जाता मृताश्चे''ति गणनेन समं भवेत् ॥ २२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२</summary>
+
+2\. துறந்தார் பெருமை துணைக்கூறின் வையத்து  
+இறந்தாரை எண்ணிக்கொண் டற்று  
+To con ascetic glory here  
+Is to count the dead upon the sphere.         22  
 </details>
 
 <details><summary>मूलम् - २२</summary>
@@ -442,6 +616,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 संन्यासं भजतां मुक्त्यै प्रभावो बहुमन्यते ॥ २३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २३</summary>
+
+3\. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
+பெருமை பிறங்கிற்று உலகு  
+No lustre can with theirs compare  
+Who know the right and virtue wear.         23  
+</details>
+
 <details><summary>मूलम् - २३</summary>
 
 इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
@@ -458,6 +640,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धैर्याङ्कुशेन् संयम्य गजान् पञ्चेन्द्रियात्मकान् ।  
 यः पालयत्ययं मोक्षफलकृद्वीजवद्भवेत् ॥ २४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४</summary>
+
+4\. உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்  
+வரன்என்னும் வைப்பிற்கோர் வித்து  
+With hook of firmness to restrain  
+The senses five, is heaven to gain.         24  
 </details>
 
 <details><summary>मूलम् - २४</summary>
@@ -478,6 +668,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गौतमादात्तशापोऽत्र देवराजो निदर्शनम् ॥ २५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २५</summary>
+
+5\. ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்  
+இந்திரனே சாலுங் கரி  
+Indra himself has cause to say  
+How great the power ascetics' sway.         25  
+</details>
+
 <details><summary>मूलम् - २५</summary>
 
 ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
@@ -494,6 +692,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वेन्द्रियजयाख्यानं कर्मान्यैर्दुष्करं जनैः ।  
 ये कुर्वन्त्युत्तमास्ते स्युः अन्येत्वधम मध्यमाः ॥ २६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६</summary>
+
+6\. செயற்கரிய செய்வார் பெரியர் சிறியர்  
+செயற்கரிய செய்கலா தார்  
+The small the paths of ease pursue  
+The great achieve things rare to do.         26  
 </details>
 
 <details><summary>मूलम् - २६</summary>
@@ -514,6 +720,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जानाति यः प्रपञ्चोऽयं वशे तस्य भविष्यति ॥ २७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २७</summary>
+
+7\. சுவைஒளி ஊறுஓசை நாற்றமென்று ஐந்தின்  
+வகைதெரிவான் கட்டே உலகு  
+They gain the world, who grasp and tell  
+Of taste, sight, hearing, touch and smell.         27  
+</details>
+
 <details><summary>मूलम् - २७</summary>
 
 सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
@@ -530,6 +744,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यतोक्तधर्मनिष्ठानां यतीनां महिमादिकम् ।  
 मन्त्रादि सहितैर्वेदवाक्यैरेव निरूप्यते ॥ २८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८</summary>
+
+8\. நிறைமொழி மாந்தர் பெருமை நிலத்து  
+மறைமொழி காட்டி விடும்  
+Full-worded men by what they say,  
+Their greatness to the world display.         28  
 </details>
 
 <details><summary>मूलम् - २८</summary>
@@ -550,6 +772,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्षणिकोऽपि स दुर्वारफलःशान्तिप्रसादने ॥ २९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २९</summary>
+
+9\. குணமென்னும் குன்றேறி நின்றார் வெகுளி  
+கணமேயுங் காத்தல் அரிது.  
+Their wrath, who've climb'd the mount of good,  
+Though transient, cannot be withstood.         29  
+</details>
+
 <details><summary>मूलम् - २९</summary>
 
 कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
@@ -566,6 +796,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वभूतदयासान्द्राः ये तु धर्मपरायणाः ।  
 त एव ब्राह्मणाः प्रोक्ताः यतयः संशितव्रता ॥ ३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३०</summary>
+
+10\. அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்  
+செந்தண்மை பூண்டொழுக லான்  
+With gentle mercy towards all,  
+The sage fulfils the vitue's call.         30  
 </details>
 
 <details><summary>मूलम् - ३०</summary>
@@ -588,6 +826,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 धर्मादप्यधिकं वस्तु प्राणिनां किं नु घर्तते ॥ ३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३१</summary>
+
+1\. சிறப்புஈனும்; செல்வமும் ஈனும்; அறத்தினுஉங்கு  
+ஆக்கம் எவனோ உயிர்க்கு  
+From virtue weal and wealth outflow;  
+What greater good can mankind know?         31  
+</details>
+
 <details><summary>मूलम् - ३१</summary>
 
 सिऱप्पु ईनुम् सॆल्वमुम् ईनुम् अऱत्तिनूउङ्गु  
@@ -604,6 +850,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धर्मानुष्ठानविभवात् देहिनां आयते सुखम् ।  
 धर्माणामननुष्ठानादनिष्ठं सम्भवेदिह ॥ ३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३२</summary>
+
+2\. அறத்தின் ஊங்கு ஆக்கமும் இல்லை; அதனை  
+மறத்தலின் ஊங்குஇல்லை கேடு  
+Virtue enhances joy and gain;  
+Forsaking it is fall and pain.         32  
 </details>
 
 <details><summary>मूलम् - ३२</summary>
@@ -624,6 +878,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कर्तव्यं ख्यात् यथाशक्ति समयस्यानुरोधतः ॥ ३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३३</summary>
+
+3\. ஒல்லும் வகையான் அறவினை ஓவாதே  
+செல்லும்வா யெல்லாஞ் செயல்  
+Perform good deeds as much you can  
+Always and everywhere, o man!         33  
+</details>
+
 <details><summary>मूलम् - ३३</summary>
 
 ऒल्लुम् वगैयान् अऱविनै ओवादे  
@@ -640,6 +902,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यत् कृतं शुद्धमनसा स धर्म इति कथ्यते ।  
 हच्छुद्धिरहितं कर्म केवलाडम्बरार्थकम् ॥ ३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३४</summary>
+
+4\. மனத்துக்கண் மாசிலன் ஆதல்; அனைத்துஅறன்;  
+ஆகுல நீர பிற  
+In spotless mind virtue is found  
+And not in show and swelling sound.         34  
 </details>
 
 <details><summary>मूलम् - ३४</summary>
@@ -660,6 +930,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दोषान् विना कृतं कार्ये धर्म इत्युच्यते बुधैः ॥ ३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३५</summary>
+
+5\. அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்  
+இழுக்கா இயன்றது அறம்  
+Four ills eschew and virtue reach,  
+Lust, anger, envy, evil-speech.         35  
+</details>
+
 <details><summary>मूलम् - ३५</summary>
 
 अऴुक्काऱु अवावॆगुळि इन्नाच्चॊल् नान्गुम्  
@@ -676,6 +954,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पश्चादिति भतिं त्यक्त्वा बाल्ये धर्मे वितन्वतः ।  
 स धर्मो मृत्युकालेऽपि स्थितः साह्यकरो भवेत् ॥ ३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३६</summary>
+
+6\. அன்றறிவாம் என்னாது அறஞ்செய்க மற்றது  
+பொன்றுங்கால் பொன்றாத் துணை  
+Do good enow; defer it not  
+A deathless aid in death if sought.         36  
 </details>
 
 <details><summary>मूलम् - ३६</summary>
@@ -696,6 +982,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 धर्मप्रभावे सुज्ञेये कुतः शास्त्रं कुतः श्रुतिः ॥ ३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३७</summary>
+
+7\. அறத்தாறு இதுஎன வேண்டா சிவிகை  
+பொறுத்தானோடு ஊர்ந்தான் இடை  
+Litter-bearer and rider say  
+Without a word, the fortune's way.         37  
+</details>
+
 <details><summary>मूलम् - ३७</summary>
 
 अऱत्ताऱु इदुवॆन वेण्डा सिविगै  
@@ -712,6 +1006,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनुस्यूततया धर्मकार्ये जन्मनि यत् कृतम् ।  
 तत् पुनर्जन्ममार्गस्य निरोधकशिलायते ॥ ३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३८</summary>
+
+8\. வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்  
+வாழ்நாள் வழியடைக்குங் கல்  
+Like stones that block rebirth and pain  
+Are doing good and good again.         38  
 </details>
 
 <details><summary>मूलम् - ३८</summary>
@@ -732,6 +1034,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अधर्माद्वस्तु यत् प्राप्तं न सा कीर्ति र्न तत् सुखम् ॥ ३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३९</summary>
+
+9\. அறத்தான் வருவதே இன்பம்:மற் றெல்லாம்  
+புறத்த புகழும் இல  
+Weal flows only from virtue done  
+The rest is rue and renown gone.         39  
+</details>
+
 <details><summary>मूलम् - ३९</summary>
 
 अऱत्तान् वरुवदे इन्बम् मऱ्‌ ऱॆल्लाम्  
@@ -748,6 +1058,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्कर्मैंव सदा कार्यं सर्वयत्नेन मानवैः ।  
 अपवादकरं चान्यत् वर्जनीयतयोच्यते ॥ ४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४०</summary>
+
+10\. செயற்பால தோரும் அறனே ஒருவற்கு  
+உயற்பால தோரும் பழி.  
+Worthy act is virtue done  
+Vice is what we ought to shun.         40  
 </details>
 
 <details><summary>मूलम् - ४०</summary>
@@ -772,6 +1090,16 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गृहस्थो धर्मनिरतो नित्यं साह्यकरो मत्ः ॥ ४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४१</summary>
+
+5\. இல்வாழ்க்கை - Married Life
+
+1\. இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்  
+நல்லாற்றின் நின்ற துணை  
+The ideal householder is he  
+Who aids the natural orders there.         41  
+</details>
+
 <details><summary>मूलम् - ४१</summary>
 
 इल्वाऴ्वान् ऎन्बान् इयल्बुडैय मूवर्क्कुम्  
@@ -788,6 +1116,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यतीन् मृतान् दरिद्रांश्च निर्गतीन् अतिथीनपि ।  
 गृहस्थोऽन्नादिदानेन स्वाश्रितानपि रक्षति ॥ ४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४२</summary>
+
+2\. துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்  
+இல்வாழ்வான் என்பான் துணை  
+His help the monk and retired share,  
+And celebrate students are his care.         42  
 </details>
 
 <details><summary>मूलम् - ४२</summary>
@@ -808,6 +1144,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्कृतिर्धर्ममागेण्ण गृहस्थस्य वरा मता ॥ ४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४३</summary>
+
+3\. தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு  
+ஐம்புலத்தாறு ஓம்பல் தலை  
+By dutiful householder's aid  
+God, manes, kin, self and guests are served.         43  
+</details>
+
 <details><summary>मूलम् - ४३</summary>
 
 तॆन्बुलत्तार् तॆय्वम् विरुन्दॊक्कल् तानॆण्ड्राङ्गु  
@@ -824,6 +1168,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अपवादभयाद्वित्तं सम्पाद्य सकलैः सह ।  
 भुञ्जानस्य गृहस्थास्य निर्दुष्टं जीवनं भवेत् ॥ ४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४४</summary>
+
+4\. பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை  
+வழியெஞ்சல் எஞ்ஞான்றும் இல்  
+Sin he shuns and food he shares  
+His home is bright and brighter fares.         44  
 </details>
 
 <details><summary>मूलम् - ४४</summary>
@@ -844,6 +1196,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदेव सार्थकं लोके तद्धि गार्हस्थ्यमुच्यते ॥ ४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४५</summary>
+
+5\. அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை  
+பண்பும் பயனும் அது  
+In grace and gain the home excels,  
+Where love with virtue sweetly dwells.         45  
+</details>
+
 <details><summary>मूलम् - ४५</summary>
 
 अन्बुम् अऱनुम् उडैत्तायिन् इल्वाऴ्क्कै  
@@ -860,6 +1220,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गार्हस्थ्यजीवनं येन धम्यें मागें प्रवर्त्येते ।  
 किं वा प्रयोजनं तस्य वानप्रस्थादिना पथा ॥ ४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४६</summary>
+
+6\. அறத்தாற்றின் இல்வாழ்க்கை யாற்றின் புறத்தாற்றிற்  
+போஒய்ப் பெறுவது எவன்.  
+Who turns from righteous family  
+To be a monk, what profits he?         46  
 </details>
 
 <details><summary>मूलम् - ४६</summary>
@@ -880,6 +1248,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मार्गन्तरोपजीविभ्यः स प्रशस्तो निगद्यते ॥ ४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४७</summary>
+
+7\. இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்  
+முயல்வாருள் எல்லாம் தலை  
+Of all who strive for bliss, the great  
+Is he who leads the married state.         47  
+</details>
+
 <details><summary>मूलम् - ४७</summary>
 
 इयल्बिनान् इल्वाऴ्क्कै वाऴ्बवन् ऎन्बान्  
@@ -896,6 +1272,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कारयित्वा परैर्धर्मे धर्ममार्गाबलम्बिनः ।  
 जीवनं च गृगस्थस्य श्लाघ्यते यतिजीवनात् ॥ ४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८</summary>
+
+8\. ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை  
+நோற்பாரின் நோன்மை உடைத்து  
+Straight in virtue, right in living  
+Make men brighter than monks praying.         48  
 </details>
 
 <details><summary>मूलम् - ४८</summary>
@@ -916,6 +1300,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गृहस्थधर्म एवात्र धर्मशब्देन कथ्यते ॥ ४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४९</summary>
+
+9\. அறனெனப் பட்டதே இல்வாழ்க்கை அஃதும்  
+பிறன்பழிப்பது இல்லாயின் நன்று  
+Home-life and virtue, are the same;  
+Which spotless monkhood too can claim.         49  
+</details>
+
 <details><summary>मूलम् - ४९</summary>
 
 अऱन् ऎनप् पट्टदे इल्वाऴ्क्कै अह्दुम्  
@@ -932,6 +1324,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धर्ममार्गमनुल्लङ्घय गृहस्थो यदि जीवति ।  
 देववत्पूजितः सोऽत्र देवलोकं ततो व्रजेत् ॥ ५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५०</summary>
+
+10\. வையத்துள் வாழ்வாங்கு வாழ்பவன் வானுறையும்  
+தெய்வத்துள் வைக்கப் படும்  
+He is a man of divine worth  
+Who lives in ideal home on earth.         50  
 </details>
 
 <details><summary>मूलम् - ५०</summary>
@@ -954,6 +1354,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 करोति जीवनं याऽत्र सैव भार्येति कथ्यते ॥ ५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५१</summary>
+
+1\. மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்  
+வளத்தக்காள் வாழ்க்கைத் துணை  
+A good housewife befits the house,  
+Spending with thrift the mate's resource.         51  
+</details>
+
 <details><summary>मूलम् - ५१</summary>
 
 मनैक्तक्क माण्बुडैयळ् आगित्तऱ्‌ कॊण्डान्  
@@ -970,6 +1378,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गृहिणी यस्य गार्हस्थ्यगुणादिरहिता भवेत् ।  
 निष्फलं जीवनं तस्य सत्स्वेव विभवादिषु ॥ ५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२</summary>
+
+2\. மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை  
+எனைமாட்சித் தாயினும் இல்  
+Bright is home when wife is chaste.  
+If not all greatness is but waste.         52  
 </details>
 
 <details><summary>मूलम् - ५२</summary>
@@ -990,6 +1406,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वैपरीत्ये समायाते शून्यमेव हि जीवनम् ॥ ५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५३</summary>
+
+3\. இல்லதென் இல்லவள் மாண்பானால்; உள்ளதென்  
+இல்லவள் மாணாக் கடை  
+What is rare when wife is good.  
+What can be there when she is bad?         53  
+</details>
+
 <details><summary>मूलम् - ५३</summary>
 
 इल्लदॆन् इल्लवळ् माण्बानाल् उळ्ळदॆन्  
@@ -1006,6 +1430,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पातिव्रत्येन सम्पन्ना गृहिणी यदि सङ्गता ।  
 तस्मादज्युत्तं भाग्यं गृहस्थास्य न लभ्यते ॥ ५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४</summary>
+
+4\. பெண்ணின் பெருந்தக்க யாவுள கற்பென்னும்  
+திண்மையுண் டாகப் பெறின்  
+What greater fortune is for men  
+Than a constant chaste woman?         54  
 </details>
 
 <details><summary>मूलम् - ५४</summary>
@@ -1026,6 +1458,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 त्वं वर्षेन्ति तंयाऽऽशप्तो देवोऽपि किल वर्षति ॥ ५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५५</summary>
+
+5\. தெய்வந் தொழாஅள் கொழுநன் தொழுதெழுவாள்  
+பெய்யெனப் பெய்யும் மழை  
+Her spouse before God who adores,  
+Is like rain that at request pours.         55  
+</details>
+
 <details><summary>मूलम् - ५५</summary>
 
 तॆय्वम् तॊऴाअळ् कॊऴुनन् तॊऴुदॆऴुवाळ्  
@@ -1042,6 +1482,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पातिव्रत्येन् भर्तारमात्मानं कीर्तिमेव च ।  
 या पालयति धर्मेण सैव नारीति कथ्यते ॥ ५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५६</summary>
+
+6\. தற்காத்துத் தற்கொண்டாற் பேணித் தசைசான்ற  
+சொற்காத்துச் சோர்விலாள் பெண்  
+The good wife guards herself from blame,  
+She tends her spouse and brings him fame.         56  
 </details>
 
 <details><summary>मूलम् - ५६</summary>
@@ -1062,6 +1510,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पातिव्रत्यात् स्वतः स्त्रीणामात्मरक्षणमुत्तमम् ॥ ५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५७</summary>
+
+7\. சிறைகாக்குங் காப்புஎவன் செய்யும் மகளிர்  
+நிறைகாக்குங் காப்பே தலை  
+Of what avail are watch and ward?  
+Their purity is women's guard.         57  
+</details>
+
 <details><summary>मूलम् - ५७</summary>
 
 सिऱैगाक्कुम् काप्पॆवन् सॆय्युम् मगळिर्  
@@ -1078,6 +1534,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पातिव्रत्येनसहितां पतिशुश्रूषणे रताम् ।  
 गृहस्था गृहिणीं प्राप्य स्वर्गलोकं भजन्ति हे ॥ ५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५८</summary>
+
+8\. பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்  
+புத்தேளிர் வாழும் உலகு  
+Women who win their husbands' heart  
+Shall flourish where the gods resort.         58  
 </details>
 
 <details><summary>मूलम् - ५८</summary>
@@ -1098,6 +1562,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सगार्वे सिंहवत् सोऽयं शत्रुमध्ये न गच्छति ॥ ५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५९</summary>
+
+9\. புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வவார்முன்  
+ஏறுபோல் பீடு நடை  
+A cuckold has not the lion-like gait  
+Before his detractors aright.         59  
+</details>
+
 <details><summary>मूलम् - ५९</summary>
 
 पुगऴ्बुरिन्द इल्लिलोर्क्कु इल्लै इगऴ्वार्मुन्  
@@ -1114,6 +1586,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सञ्चरित्रवती भार्या माङ्गल्यं जीवितस्य सा ।  
 सत्पुत्राणामवाप्तितस्तु ततो भूषणवद्भवेत् ॥ ६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६०</summary>
+
+10\. மங்கலம் என்ப மனைமாட்சி மற்றுஅதன்  
+நன்கலம் நன்மக்கட் பேறு  
+An honest wife is home's delight  
+And children good are jewels abright.         60  
 </details>
 
 <details><summary>मूलम् - ६०</summary>
@@ -1136,6 +1616,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लव्धव्येषु महद्भाग्यं अन्यन्नेह प्रशस्यते ॥ ६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६१</summary>
+
+1\. பெறுமவற்றுள் யாமறிவது இல்லை அறிவறிந்த  
+மக்கட்பேறு அல்ல பிற  
+The world no higher bliss bestows  
+Than children virtuous and wise.         61  
+</details>
+
 <details><summary>मूलम् - ६१</summary>
 
 पॆऱुमवट्रुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
@@ -1152,6 +1640,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निर्दुष्टगुणसम्पन्नं पुत्रं प्राप्नोति यो नरः ।  
 दुःखानि तं न बाधन्ते भाविजन्मसु सप्तसु ॥ ६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६२</summary>
+
+2\. எழுபிறப்பும் தீயவை தீண்டா பழிபிறங்காப்  
+பண்புடை மக்கட் பெறின்  
+No evil comes and no blemish;  
+Noble sons bring all we wish.         62  
 </details>
 
 <details><summary>मूलम् - ६२</summary>
@@ -1172,6 +1668,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पुत्रं स्वार्जितवित्तेन समं वै मन्यते पिता ॥ ६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६३</summary>
+
+3\. தம்பொருள் என்பதம் மக்கள் அவர்பொருள்  
+தம்தம் வினையான் வரும்  
+Children are one's wealth indeed  
+Their wealth is measured by their deed.         63  
+</details>
+
 <details><summary>मूलम् - ६३</summary>
 
 तम्बॊरुळ् ऎन्बदम् मक्कळ् अवर्बॊरुळ्  
@@ -1188,6 +1692,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दत्तं यत् पुत्र हस्तेन सामान्यमपि भोजनम् ।  
 अमृतादधिकं तत्तु वर्तते मधुरं पितुः ॥ ६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६४</summary>
+
+4\. அமிர்தினும் ஆற்ற இனிதேதம் மக்கள்  
+சிறுகை அளாவிய கூழ்  
+The food is more than nectar sweet  
+In which one's children hands insert.         64  
 </details>
 
 <details><summary>मूलम् - ६४</summary>
@@ -1208,6 +1720,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जनयेच्छ्रवणानन्दं तेषां स्खलितभाषितम् ॥ ६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६५</summary>
+
+5\. மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர்  
+சொற்கேட்டல் இன்பம் செவிக்கு  
+Children's touch delights the body  
+Sweet to ears are their words lovely.         65  
+</details>
+
 <details><summary>मूलम् - ६५</summary>
 
 मक्कळ्मॆय् तीण्डल् उडऱ्‌किन्बम् मट्रु अवर्  
@@ -1224,6 +1744,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अस्पष्टमधुरं पुत्रभाषितं श‍ृणोति यः ।  
 स एव कथयेत् रम्यं वीणावेण्वादि वादितम् ॥ ६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६६</summary>
+
+6\. குழல்இனிது யாழ்இனிது என்பதம் மக்கள்  
+மழலைச்சொல் கேளா தவர்  
+The flute and lute are sweet they say  
+Deaf to baby's babble's lay!         66  
 </details>
 
 <details><summary>मूलम् - ६६</summary>
@@ -1244,6 +1772,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यदि कुर्यात्सुतस्यैतत् महत् साह्यमुदीर्यते ॥ ६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६७</summary>
+
+7\. தந்தை மகற்குஆற்றும் நன்றி அவையத்து  
+முந்தி யிருப்பச் செயல்  
+A father's duty to his son is  
+To seat him in front of the wise.         67  
+</details>
+
 <details><summary>मूलम् - ६७</summary>
 
 तन्दै मगऱ्‌काट्रु नण्ड्रि अवैयत्तु  
@@ -1260,6 +1796,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विद्यावन्तं सुतं दृष्टवा मोदते न पिता परम् ।  
 अधिकं तेन तुष्यन्ति सर्वे भूतलवासिनः ॥ ६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६८</summary>
+
+8\. தம்மின்தம் மக்கள் அறிவுடமை மாநிலத்து  
+மன்னுயிர்க் கெல்லாம் இனிது  
+With joy the hearts of parents swell  
+To see their children themselves excel.         68  
 </details>
 
 <details><summary>मूलम् - ६८</summary>
@@ -1280,6 +1824,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 श्रुत्वैव जननी तस्य जननादपि तुष्यति ॥ ६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६९</summary>
+
+9\. ஈன்ற பொழுதிற் பெரிதுவக்கும் தன்மகனைச்  
+சான்றோன் எனக்கேட்ட தாய்  
+The mother, hearing her son's merit  
+Delights more than when she begot.         69  
+</details>
+
 <details><summary>मूलम् - ६९</summary>
 
 ईण्ड्र पॊऴुदिन् पॆरिदुवक्कुम् तन्मगनैच्  
@@ -1296,6 +1848,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 किंवा तपः कृतं पित्रा प्राप्तुमेतादृरां सुतम् ।  
 इति लोकैः स्तुत्ः पुत्रः पितुः स्यादुपकारकः ॥ ७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७०</summary>
+
+10\. மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தை  
+என்னோற்றான் கொல்எனுஞ் சொல்  
+The son to sire this word is debt  
+"What penance such a son begot!"         70  
 </details>
 
 <details><summary>मूलम् - ७०</summary>
@@ -1318,6 +1878,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रकाशयन्ति सर्वेषां प्रीतिमन्तःस्थितामपि ॥ ७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७१</summary>
+
+1\. அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்  
+புன்கண்நீர் பூசல் தரும்  
+What bolt can bar true love in fact  
+The trickling tears reveal the heart.         71  
+</details>
+
 <details><summary>मूलम् - ७१</summary>
 
 अन्बिऱ्‌कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
@@ -1334,6 +1902,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नरः प्रेम्णा विरहित्ः सर्वमात्मार्थमिच्छति ।  
 प्रेमवान् स्वशरीरं च परार्थमिति मन्यते ॥ ७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७२</summary>
+
+2\. அன்பிலார் எல்லாந் தமக்குரியர்: அன்புடையார்  
+என்பும் உரியர் பிறர்க்கு  
+To selves belong the loveless ones;  
+To oth'rs the loving e'en to bones.         72  
 </details>
 
 <details><summary>मूलम् - ७२</summary>
@@ -1354,6 +1930,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जीवस्य देहसम्बन्धफलं पूर्णमिहाश्नुते ॥ ७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७३</summary>
+
+3\. அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு  
+என்போடு இயைந்த தொடர்பு  
+Soul is encased in frame of bone  
+To taste the life of love alone.         73  
+</details>
+
 <details><summary>मूलम् - ७३</summary>
 
 अन्बोडु इयैन्द वऴक्कॆन्ब आरुयिर्क्कु  
@@ -1370,6 +1954,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 करुते स्वजनप्रेम सव सौहार्दजीवनम् ।  
 तदेव वर्धयेत् स्नेहमधिकं सर्वजन्तुषु ॥ ७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७४</summary>
+
+4\. அன்புஈனும் ஆர்வம் உடமை: அதுஈனும்  
+நண்பென்னும் நாடாச் சிறப்பு  
+Love yields aspiration and thence  
+Friendship springs up in excellence.         74  
 </details>
 
 <details><summary>मूलम् - ७४</summary>
@@ -1390,6 +1982,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सोऽत्र कीर्ति सुखं चैत्य स्वर्गलोके सुखं वसेत् ॥ ७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७५</summary>
+
+5\. அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து  
+இன்புற்றார் எய்துஞ் சிறப்பு  
+The crowning joy of home life flows  
+From peaceful psychic love always.         75  
+</details>
+
 <details><summary>मूलम् - ७५</summary>
 
 अन्बुट्रु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
@@ -1406,6 +2006,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 साधनं धर्ममात्रस्य प्रेमेति कथनं वृथा ।  
 अधर्मवर्जनेऽप्येतत् साधनं वस्तुतत्त्वतः ॥ ७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६</summary>
+
+6\. அறத்திற்கே அன்புசார்பு யென்ப அறியார்  
+மறத்திற்கும் அஃதே துணை  
+"Love is virtue's friend" say know-nots  
+It helps us against evil plots.         76  
 </details>
 
 <details><summary>मूलम् - ७६</summary>
@@ -1426,6 +2034,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जीवं प्रेम्णा विरहितं तथा धर्मोऽपि बाघते ॥ ७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७७</summary>
+
+7\. என்பி லதனை வெயில்போலக் காயுமே  
+அன்பிலதனை அறம்  
+Justice burns the loveless form  
+Like solar blaze the boneless worm.         77  
+</details>
+
 <details><summary>मूलम् - ७७</summary>
 
 ऎन्बि लदनै वॆयिल्बोलक् कायुमे  
@@ -1442,6 +2058,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महीरुहस्य शुष्कस्यमरौ पल्लवजन्मवत् ।  
 गृहेषु हृदये प्रें विना जीवन् मुच्यते ॥ ७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७८</summary>
+
+8\. அன்பகத்தில்லா உயிர்வாழ்க்கை வன்பற்கண்  
+வற்றல் மரந்தளிர்த் தற்று  
+Life bereft of love is gloom  
+Can sapless tree in desert bloom?         78  
 </details>
 
 <details><summary>मूलम् - ७८</summary>
@@ -1462,6 +2086,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बाहयाङ्गसामवायेन फलं नैव भवेद् ध्रुवम् ॥ ७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७९</summary>
+
+9\. புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை  
+அகத்துறுப்பு அன்பி லவர்க்கு  
+Love is the heart which limbs must move,  
+Or vain the outer parts will prove.         79  
+</details>
+
 <details><summary>मूलम् - ७९</summary>
 
 पुऱत्तुऱुप् पॆल्लाम् ऎवन्सॆय्बु म् याक्कै  
@@ -1478,6 +2110,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स देहो जीवसहित्ः यः प्रेमवशमागतः ।  
 चर्मावृतास्थिकृटःस्यात् प्रेम्णा विरहितस्तु यः ॥ ८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८०</summary>
+
+10\. அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு  
+என்புதோல் போர்த்த உடம்பு  
+The seat of life is love alone;  
+Or beings are but skin and bone!         80  
 </details>
 
 <details><summary>मूलम् - ८०</summary>
@@ -1500,6 +2140,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सर्वे ते विनियोक्तव्याः सदैवातिथिपूजने ॥ ८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८१</summary>
+
+1\. இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி  
+வேளாண்மை செய்தற் பொருட்டு  
+Men set up home, toil and earn  
+To tend the guests and do good turn.         81  
+</details>
+
 <details><summary>मूलम् - ८१</summary>
 
 इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि  
@@ -1516,6 +2164,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियातिथिमसम्मान्य गृहे यद्वस्तु भुज्यते ।  
 साक्षादमृतमेवास्तु न तच्छ्लाघ्यं कदाचन ॥ ८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८२</summary>
+
+2\. விருந்து புறத்ததாத் தானுண்டல் சாவா  
+மருந்தெனினும் வேண்டற்பாற் றன்று  
+To keep out guests cannot be good  
+Albeit you eat nectar-like food.         82  
 </details>
 
 <details><summary>मूलम् - ८२</summary>
@@ -1536,6 +2192,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दारिद्र्यं न भवेत् किन्तु धनं चाप्यभिवर्धते ॥ ८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८३</summary>
+
+3\. வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை  
+பருவந்து பாழ்படுதல் இன்று  
+Who tends his guests day in and out  
+His life in want never wears out.         83  
+</details>
+
 <details><summary>मूलम् - ८३</summary>
 
 वरुविरुन्दु वैगलुम् ओम्बुवान् वाऴ्क्कै  
@@ -1552,6 +2216,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शुद्धातिथिं वेश्म गतं सेवमानस्य सादरम् ।  
 नरस्य गेहे वसति प्रसन्ना पद्मसम्भवा ॥ ८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८४</summary>
+
+4\. அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து  
+நல்விருந்து ஓம்புவான் இல்.  
+The goddess of wealth will gladly rest  
+Where smiles welcome the worthy guest.         84  
 </details>
 
 <details><summary>मूलम् - ८४</summary>
@@ -1572,6 +2244,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बीजावापं विना क्षेत्रे जातन्ते सस्यसम्पदः ॥ ८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८५</summary>
+
+5\. வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி  
+மிச்சில் மிசைவான் புலம்.  
+Should his field be sown who first  
+Feeds the guests and eats the rest?         85  
+</details>
+
 <details><summary>मूलम् - ८५</summary>
 
 वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि  
@@ -1588,6 +2268,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तोषयित्वाऽतिथिं प्राप्तमन्यान् अतिथिसत्तमान् ।  
 यो हि प्रतीक्षते सोऽयं देवानामतिथिर्भवेत् ॥ ८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८६</summary>
+
+6\. செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்  
+நல்விருந்து வானத் தவர்க்கு  
+Who tends a guest and looks for next  
+Is a welcome guest in heaven's feast.         86  
 </details>
 
 <details><summary>मूलम् - ८६</summary>
@@ -1608,6 +2296,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अतिथेर्योग्यता भेदात् फलमेदोऽपि सम्मत्ः ॥ ८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८७</summary>
+
+7\. இனைத்துணைத் தென்பதொன் றில்லை: விருந்தின்  
+துணைத்துணை வேள்விப் பயன்  
+Worth of the guest of quality  
+Is worth of hospitality.         87  
+</details>
+
 <details><summary>मूलम् - ८७</summary>
 
 इनैत्तुणैत् तॆन्बदॊन् ऱिल्लै विरुन्दिन्  
@@ -1624,6 +2320,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यस्यातिथीनां सत्कारयज्ञे बुद्धिर्न जायते ।  
 लब्धं वस्तु परिभ्रष्टं भवेदिति स चिन्तयेत् ॥ ८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८८</summary>
+
+8\. பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி  
+வேள்வி தலைப்படா தார்  
+Who loathe guest-service one day cry:  
+"We toil and store; but life is dry".         88  
 </details>
 
 <details><summary>मूलम् - ८८</summary>
@@ -1644,6 +2348,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भातिथ्यदानविमुखो यो भवेद् भुवने जडः ॥ ८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८९</summary>
+
+9\. உடமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
+மடமை மடவார்கண் உண்டு  
+The man of wealth is poor indeed  
+Whose folly fails the guest to feed.         89  
+</details>
+
 <details><summary>मूलम् - ८९</summary>
 
 उडैमैयुळ् इन्मै विरुन्दोम्बल् ओम्बा  
@@ -1660,6 +2372,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शिरीषपुष्पमाघ्राणात् म्लानं सञ्जायते यथा ।  
 तथाऽतिथीनां वदनं स्याद् गृहस्थे पराङ्मुखे ॥ ९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९०</summary>
+
+10\. மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து  
+நோக்கக் குழையும் விருந்து  
+Anicham smelt withers: like that  
+A wry-faced look withers the guest.         90  
 </details>
 
 <details><summary>मूलम् - ९०</summary>
@@ -1682,6 +2402,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वञ्चनारहितं तत्तु भवेन्मधुरभाषणम् ॥ ९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९१</summary>
+
+1\. இன்சொலால் ஈரம் அளைஇப் படிறுஇலவாஞ்  
+செம்பொருள் கண்டார்வாய்ச் சொல்  
+The words of Seers are lovely sweet  
+Merciful and free from deceit.         91  
+</details>
+
 <details><summary>मूलम् - ९१</summary>
 
 इन्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
@@ -1698,6 +2426,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सहर्षे च दरिद्रेभ्यः कृतात् दानादनिन्दितात् ।  
 प्रसन्नवदनस्यैतत् श्रेष्ठं मधुरभाषणम् ॥ ९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९२</summary>
+
+2\. அகனமர்ந்து ஈதலின் நன்றே முகனமர்ந்து  
+இன்சொல் னாகப் பெறின்  
+Sweet words from smiling lips dispense  
+More joys than heart's beneficence.         92  
 </details>
 
 <details><summary>मूलम् - ९२</summary>
@@ -1718,6 +2454,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 उच्यते सुहितं सत्यं स धर्मः परमो मतः ॥ ९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९३</summary>
+
+3\. முகத்தான் அமர்ந்துஇனிது நோக்கி அகத்தானாம்  
+இன்சொ லினதே அறம்  
+Calm face, sweet look, kind words from heart  
+Such is the gracious virtue's part.         93  
+</details>
+
 <details><summary>मूलम् - ९३</summary>
 
 मुगत्तान् अमर्न् दुइनिदु नोक्कि अगत्तानाम्  
@@ -1734,6 +2478,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वत्र मधुरं वाक्यं प्रयुक्तं सुखवर्धकम् ।  
 सर्वदा दुःखजनकं दारिद्य्रमपि नाशयेत् ॥ ९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९४</summary>
+
+4\. துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்  
+இன்புறூஉம் இன்சொ லவர்க்கு  
+Whose loving words delight each one  
+The woe of want from them is gone.         94  
 </details>
 
 <details><summary>मूलम् - ९४</summary>
@@ -1754,6 +2506,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ताभ्यां द्वाभ्यां विहीनस्य किमन्यैर्भूषणैः फलम् ॥ ९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९५</summary>
+
+5\. பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு  
+அணியல்ல மற்றுப் பிற  
+To be humble and sweet words speak  
+No other jewel do wise men seek.         95  
+</details>
+
 <details><summary>मूलम् - ९५</summary>
 
 पणिवुडैयन् इन्सॊलन् आदल् ऒरुवऱ्‌कु  
@@ -1770,6 +2530,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अन्येषामुपकारार्थे यो व्रूते मधुरं वचः ।  
 तस्य पपानि नश्यन्ति धर्म एवाभिवर्धते ॥ ९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६</summary>
+
+6\. அல்லவை தேய அறம்பெருகும் நல்லவை  
+நாடி இனிய சொலின்  
+His sins vanish, his virtues grow  
+Whose fruitful words with sweetness flow.         96  
 </details>
 
 <details><summary>मूलम् - ९६</summary>
@@ -1790,6 +2558,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वक्तारं सुखिनं कृत्वा पुण्यं चापि प्रयच्छति ॥ ९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९७</summary>
+
+7\. நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று  
+பண்பின் தலைப்பிரியாச் சொல்  
+The fruitful courteous kindly words  
+Lead to goodness and graceful deeds.         97  
+</details>
+
 <details><summary>मूलम् - ९७</summary>
 
 नयन् ईण्ड्रु नण्ड्रि पयक्कुम् पयन्ईण्ड्रु  
@@ -1806,6 +2582,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परदुःखाय या न स्युः प्रयुक्ता मधुरोक्तयः ।  
 ऐहिकामुष्मिकं सौख्यं प्रयोक्तुर्वितरन्ति ताः ॥ ९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९८</summary>
+
+8\. சிறுமையுள் நீங்கிய இன்சொல் மறுமையும்  
+இம்மையும் இன்பந் தரும்  
+Kind words free from meanness delight  
+This life on earth and life the next.         98  
 </details>
 
 <details><summary>मूलम् - ९८</summary>
@@ -1826,6 +2610,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखदं कठिनं वाक्यं कुतो वा वक्ति मानवः ॥ ९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९९</summary>
+
+9\. இன் சொல் இனிதீன்றல் காண்பான் எவன்கொலோ  
+வன்சொல் வழங்கு வது  
+Who sees the sweets of sweetness here  
+To use harsh words how can he dare?         99  
+</details>
+
 <details><summary>मूलम् - ९९</summary>
 
 इन्सॊल् इनिदीण्ड्रल् काण्बान् ऎवन्गॊलो  
@@ -1842,6 +2634,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कथनं कठिनोक्तीनां मधुरे वचसि स्थिते ।  
 मधुरं फलमुत्सृज्य कषायस्याशनं भवेत् ॥ १००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १००</summary>
+
+10\. இனிய உளவாக இன்னாத கூறல்  
+கனியிருப்பக் காய்கவர்ந் தற்று  
+Leaving ripe fruits the raw he eats  
+Who speaks harsh words when sweet word suits.         100  
 </details>
 
 <details><summary>मूलम् - १००</summary>
@@ -1864,6 +2664,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोकद्वयप्रदानेऽपि तस्य नास्ति प्रतिक्रिया ॥ १०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०१</summary>
+
+1\. செய்யாமற் செய்த உதவிக்கு வையகமும்  
+வானகமும் ஆற்ற லரிது  
+Unhelped in turn good help given  
+Exceeds in worth earth and heaven.         101  
+</details>
+
 <details><summary>मूलम् - १०१</summary>
 
 सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्  
@@ -1880,6 +2688,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 समये रचितं साह्यं स्वल्पं स्यात् परिमाणत्ः ।  
 तदेव कालमेदेन् महत् स्याद् भुवनादपि ॥ १०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२</summary>
+
+2\. காலத்தி னாற்செய்த நன்றி சிறிதெனினும்  
+ஞாலத்தின் மாணப் பெரிது.  
+A help rendered in hour of need  
+Though small is greater than the world.         102  
 </details>
 
 <details><summary>मूलम् - १०२</summary>
@@ -1900,6 +2716,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विमृष्ट सत् समुद्रादप्यधिकं स्यान्न संशयः ॥ १०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०३</summary>
+
+3\. பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்  
+நன்மை கடலிற் பெரிது  
+Help rendered without weighing fruits  
+Outweighs the sea in grand effects.         103  
+</details>
+
 <details><summary>मूलम् - १०३</summary>
 
 पयन्दूक्कार् सॆय्द उदवि नयन्दूक्किन्  
@@ -1916,6 +2740,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वल्पं यवसं साह्यं विमृश्य बहु लाभदम् ।  
 तालवृक्षादपि महत् तन्मन्यन्ते नरोत्तमाः ॥ १०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०४</summary>
+
+4\. தினைத்துணை நன்றி செயினும் பனைத்துணையாக்  
+கொள்வர் பயன்தெரி வார்.  
+Help given though millet- small  
+Knowers count its good palm- tree tall.         104  
 </details>
 
 <details><summary>मूलम् - १०४</summary>
@@ -1936,6 +2768,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्तलाभानुसारेण प्रतिकारो विगह्र्यते ॥ १०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०५</summary>
+
+5\. உதவி வரைத்தன்று உதவி: உதவி  
+செயப்பட்டார் சால்பின் வரைத்து  
+A help is not the help's measure  
+It is gainer's worth and pleasure.         105  
+</details>
+
 <details><summary>मूलम् - १०५</summary>
 
 उदवि वरैत्तण्ड्रु उदवि उदवि  
@@ -1952,6 +2792,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञानाचारसमेयानां सम्बन्धं नैव विस्मरेत् ।  
 आपत्सहायभूतनां मैत्रीं नैव परित्यजेत् ॥ १०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०६</summary>
+
+6\. மறவற்க மாசற்றார் கேண்மை: துறவற்க  
+துன்பத்துள் துப்பாயார் நட்பு  
+Forget not friendship of the pure  
+Forsake not timely helpers sure.         106  
 </details>
 
 <details><summary>मूलम् - १०६</summary>
@@ -1972,6 +2820,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सन्तः स्मरन्ति तन्मैत्रीं सप्तसप्तसु जन्मसु ॥ १०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०७</summary>
+
+7\. எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்  
+விழுமம் துடைத்தவர் நட்பு  
+Through sevenfold births, in memory fares  
+The willing friend who wiped one's tears.         107  
+</details>
+
 <details><summary>मूलम् - १०७</summary>
 
 ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्  
@@ -1988,6 +2844,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृतानामुपकाराणामधर्मे विस्मृतिर्भवेत् ।  
 विस्मृतिस्त्वपकाराणां सद्यो धर्मः स कथ्यते ॥ १०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०८</summary>
+
+8\. நன்றி மறப்பது நன்றன்று: நன்றல்லது  
+அன்றே மறப்பது நன்று.  
+To forget good turns is not good  
+Good it is over wrong not to brood.         108  
 </details>
 
 <details><summary>मूलम् - १०८</summary>
@@ -2008,6 +2872,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 उपकारा अपि कृताः लीयन्ते तत्र चैव ते ॥ १०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०९</summary>
+
+9\. கொன்றன்ன இன்னா செயினும் அவர்செய்த  
+ஒன்றுநன்று உள்ளக் கெடும்  
+Let deadly harms be forgotten  
+While remembering one good-turn.         109  
+</details>
+
 <details><summary>मूलम् - १०९</summary>
 
 कॊण्ड्रन्न इन्ना सॆयिनुम् अवर्सॆय्द  
@@ -2024,6 +2896,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धर्मान्तरविहीनानां विद्यते पापमोचनम् ।  
 कृतज्ञताधर्महीने नास्ति वै पापमोक्षणम् ॥ ११०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११०</summary>
+
+10\. எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம்: உய்வில்லை  
+செய்ந்நன்றி கொன்ற மகற்கு  
+The virtue-killer may be saved  
+Not benefit-killer who is damned.         110  
 </details>
 
 <details><summary>मूलम् - ११०</summary>
@@ -2046,6 +2926,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निष्पक्षपाततारूपो धर्मे योऽस्य फलं भवेत् ॥ १११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १११</summary>
+
+1\. தகுதி எனவொன்று நன்றே பகுதியால்  
+பாற்பட்டு ஒழுகப் பெறின்  
+Equity is supreme virtue  
+It is to give each man his due.         111  
+</details>
+
 <details><summary>मूलम् - १११</summary>
 
 तगुदि ऎनवॊण्ड्रु नण्ड्रे पगुदियाल्  
@@ -2062,6 +2950,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निष्पक्षपातिनो वित्तं न तु केवलमात्मनः ।  
 स्थिरं सत्पुत्रपौत्रादि सन्ततेः स्यात् सुखावहम् ॥ ११२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११२</summary>
+
+2\. செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி  
+எச்சத்திற் கேமாப்பு உடைத்து  
+Wealth of the man of equity  
+Grows and lasts to posterity.         112  
 </details>
 
 <details><summary>मूलम् - ११२</summary>
@@ -2082,6 +2978,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कदाचित् सुखदं भायादथापि परिवर्जयेत् ॥ ११३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११३</summary>
+
+3\. நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை  
+அன்றே ஒழிய விடல்  
+Though profitable, turn away  
+From unjust gains without delay.         113  
+</details>
+
 <details><summary>मूलम् - ११३</summary>
 
 नण्ड्रे तरिनुम् नडुविगन्दाम् आक्कत्तै  
@@ -2098,6 +3002,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अयं माध्यस्थ्यवर्तीति विपरीतोऽयमित्यपि ।  
 सदसत्पुत्रजन्मभ्यां ज्ञातुं शक्यं विशेषतः ॥ ११४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११४</summary>
+
+4\. தக்கார் தகவிலர் என்பது அவரவர்  
+எச்சத்தாற் காணப் படும்  
+The worthy and the unworthy  
+Are seen in their posterity.         114  
 </details>
 
 <details><summary>मूलम् - ११४</summary>
@@ -2118,6 +3030,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अतो मध्यस्थवृत्तिः स्यात् श्रेष्ठमाभरणं सताम् ॥ ११५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५</summary>
+
+5\. கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்  
+கோடாமை சான்றோர்க் கணி  
+Loss and gain by cause arise;  
+Equal mind adorns the wise.         115  
+</details>
+
 <details><summary>मूलम् - ११५</summary>
 
 केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्  
@@ -2134,6 +3054,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 हृदयं पक्षपातेन यदि पापं विचिन्तयेत् ।  
 तदुत्पात इति ज्ञेयं भाविनाशस्य मूचकम् ॥ ११६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११६</summary>
+
+6\. கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்  
+நடுஒரீஇ அல்ல செயின்.  
+Of perdition let him be sure  
+Who leaves justice to sinful lure.         116  
 </details>
 
 <details><summary>मूलम् - ११६</summary>
@@ -2154,6 +3082,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दारिद्र्यमपि मन्यन्ते भाग्यमेव मनीषिणः ॥ ११७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११७</summary>
+
+7\. கெடுவாக வையாது உலகம் நடுவாக  
+நன்றிக்கண் தங்கியான் தாழ்வு  
+The just reduced to poverty  
+Is not held down by equity.         117  
+</details>
+
 <details><summary>मूलम् - ११७</summary>
 
 कॆडुवाग वैयादु उलगम् नडुवाग  
@@ -2170,6 +3106,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मध्ये स्थिता तुला द्रव्यं न्यायतस्तुलयेद्यथा ।  
 तथा निष्पक्षपातित्वं माध्यस्थं लक्षणं सताम् ॥ ११८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११८</summary>
+
+8\. சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்  
+கோடாமை சான்றோர்க் கணி  
+Like balance holding equal scales  
+A well poised mind is jewel of the wise.         118  
 </details>
 
 <details><summary>मूलम् - ११८</summary>
@@ -2190,6 +3134,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वाचि मध्यस्थभावोऽपि तदा नूनं भविष्यति ॥ ११९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११९</summary>
+
+9\. சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா  
+உட்கோட்டம் இன்மை பெறின்  
+Justice is upright, unbending  
+And free from crooked word-twisting.         119  
+</details>
+
 <details><summary>मूलम् - ११९</summary>
 
 सॊऱ्‌कोट्टम् इल्लदु सॆप्पम् ऒरुदलैया  
@@ -2206,6 +3158,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अन्येषामपि वस्तूनि स्वकीयानीव पश्यता ।  
 क्रियते यत्तु वाणिज्यं तद्वाणिज्यमितीर्यते ॥ १२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२०</summary>
+
+10\. வாணிகஞ் செய்வார்க்கு வாணிகம் பேணிப்  
+பிறவும் தமபோற் செயின்  
+A trader's trade prospers fairly  
+When his dealings are neighbourly.         120  
 </details>
 
 <details><summary>मूलम् - १२०</summary>
@@ -2228,6 +3188,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनिग्रहो नरं घोरे नरके पतयत्यपि ॥ १२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२१</summary>
+
+1\. அடக்கம் அமரருள் உய்க்கும்: அடங்காமை  
+ஆரிருள் உய்த்து விடும்  
+Self-rule leads to realms of gods  
+Indulgence leads to gloomy hades.         121  
+</details>
+
 <details><summary>मूलम् - १२१</summary>
 
 अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै  
@@ -2244,6 +3212,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निग्रहः शाश्वतं वित्तमिति तत् पालयेत् सदा ।  
 निग्रहादधिकं श्रेयो मानवानं न विद्यते ॥ १२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२</summary>
+
+2\. காக்க பொருளா அடக்கத்தை ஆக்கம்  
+அதனினூஉங் கில்லை உயிர்க்கு  
+No gains with self-control measure  
+Guard with care this great treasure.         122  
 </details>
 
 <details><summary>मूलम् - १२२</summary>
@@ -2264,6 +3240,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महात्मनां गुणाज्ञानां कृपया स सुखी वसेत् ॥ १२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२३</summary>
+
+3\. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
+ஆற்றின் அடங்கப் பெறின்  
+Knowing wisdom who lives controlled  
+Name and fame seek him untold.         123  
+</details>
+
 <details><summary>मूलम् - १२३</summary>
 
 सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु  
@@ -2280,6 +3264,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सदा निग्रहशीलो यः स्वीयमार्गावलम्बिनः ।  
 महोन्नता स्थिति स्तस्य शैलादप्यधिका भवेत् ॥ १२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२४</summary>
+
+4\. நிலையில் திரியாது அடங்கியான் தோற்றம்  
+மலையினும் மாணப் பெரிது  
+Firmly fixed in self serene  
+The sage looks grander than mountain.         124  
 </details>
 
 <details><summary>मूलम् - १२४</summary>
@@ -2300,6 +3292,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तेषु चाप्यग्रगण्यस्य तद्भवेदधिकं धनम् ॥ १२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२५</summary>
+
+5\. எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்  
+செல்வர்க்கே செல்வந் தகைத்து.  
+Humility is good for all  
+To the rich it adds a wealth special.         125  
+</details>
+
 <details><summary>मूलम् - १२५</summary>
 
 ऎल्लार्क्कुम् नण्ड्राम् पणिदल् अवरुळ्ळुम्  
@@ -2316,6 +3316,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पञ्चेन्द्रियाणि सम्यम्य विद्यमानस्य कर्मवत् ।  
 आत्मरक्षणशक्तिः स्यात् सप्तस्वपि च जन्मसु ॥ १२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२६</summary>
+
+6\. ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்  
+எழுமையும் ஏமாப் புடைத்து.  
+Who senses five like tortoise hold  
+Their joy prolongs to births sevenfold.         126  
 </details>
 
 <details><summary>मूलम् - १२६</summary>
@@ -2336,6 +3344,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्यथा शब्ददोषेण जायते दुःखभाजनम् ॥ १२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२७</summary>
+
+7\. யாகாவா ராயினும் நாகாக்க காவாக்கால்  
+சோகாப்பர் சொல்லிழுக்குப் பட்டு  
+Rein the tongue if nothing else  
+Or slips of tongue bring all the woes.         127  
+</details>
+
 <details><summary>मूलम् - १२७</summary>
 
 यागावा रायिनुम् नागाक्क कावाक्काल्  
@@ -2352,6 +3368,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शक्तवा कुशब्दं योऽन्यस्य कुरुते मनसो व्यथाम् ।  
 तात्कृताश्चान्यधर्माः स्युरनिष्टफलदायकाः ॥ १२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८</summary>
+
+8\. ஒன்றானும் தீச்சொல் பொருட்பயன் உண்டாயின்  
+நன்றாகா தாகி விடும்  
+Even a single evil word  
+Will turn all good results to bad.         128  
 </details>
 
 <details><summary>मूलम् - १२८</summary>
@@ -2372,6 +3396,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वागग्निजव्रणस्येह नैवोपशमनं भवेत् ॥ १२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२९</summary>
+
+9\. தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே  
+நாவினாற் சுட்ட வடு  
+The fire-burnt wounds do find a cure  
+Tongue-burnt wound rests a running sore.         129  
+</details>
+
 <details><summary>मूलम् - १२९</summary>
 
 तीयिनाऱ्‌ चुट्टबुण् उळ्ळाऱुम् आऱादे  
@@ -2388,6 +3420,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अक्रोधः संयमी यस्तु विद्यया च निषेवितः ।  
 स्वत् एव समागम्य तं रक्षेद्धर्मदेवता ॥ १३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३०</summary>
+
+10\. கதங்காத்து கற்றடங்கல் ஆற்றுவான் செவ்வி  
+அறம்பார்க்கும் ஆற்றின் நுழைந்து  
+Virtue seeks and peeps to see  
+Self-controlled savant anger free.         130  
 </details>
 
 <details><summary>मूलम् - १३०</summary>
@@ -2410,6 +3450,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राणेभ्योऽपि सदाचारः श्रेष्ठ इत्येव पालयेत् ॥ १३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३१</summary>
+
+1\. ஒழுக்கம் விழுப்பம் தரலான் ஒழுக்கம்  
+உயிரினும் ஓம்பப் படும்  
+Decorum does one dignity  
+More than life guard its purity.         131  
+</details>
+
 <details><summary>मूलम् - १३१</summary>
 
 ऒऴुक्कम् विऴुप्पन् दरलान् ऒऴुक्कम्  
@@ -2426,6 +3474,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रेम्णा परिश्रमेणापि सदाचारं तु पालयेत् ।  
 सर्वधर्मे सदाचारः श्रेष्ठो जीवितसाह्यादः ॥ १३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३२</summary>
+
+2\. பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்  
+தேரினும் அஃதே துணை  
+Virtues of conduct all excel;  
+The soul aid should be guarded well.         132  
 </details>
 
 <details><summary>मूलम् - १३२</summary>
@@ -2446,6 +3502,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यः सदाचाररहितस्त्वकुलीनः स गण्यते ॥ १३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३३</summary>
+
+3\. ஒழுக்கம் உடமை குடிமை இழுக்கம்  
+இழிந்த பிறப்பாய் விடும்  
+Good conduct shows good family  
+Low manners mark anomaly.         133  
+</details>
+
 <details><summary>मूलम् - १३३</summary>
 
 ऒऴुक्कम् उडैमै कुडिमै इऴुक्कम्  
@@ -2462,6 +3526,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अधीतविस्मृतं वेदं प्राप्नोति पठनात् पुनः ।  
 विप्रो नषकुलाचारः पुनर्नाप्नोति विप्रताम् ॥ १३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३४</summary>
+
+4\. மறப்பினும் ஒத்துக் கொளலாகும் பார்ப்பான்  
+பிறப்பொழுக்கங் குன்றக் கெடும்  
+Readers recall forgotten lore,  
+But conduct lost returns no more.         134  
 </details>
 
 <details><summary>मूलम् - १३४</summary>
@@ -2482,6 +3554,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा कुलाचारहीनो लभते न समुन्नतिम् ॥ १३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३५</summary>
+
+5\. அழுக்கா றுடையான்கண் ஆக்கம்போன்று இல்லை  
+ஒழுக்க மிலான்கண் உயர்வு  
+The envious prosper but ill  
+The ill-behaved sinks lower still.         135  
+</details>
+
 <details><summary>मूलम् - १३५</summary>
 
 अऴुक्का ऱुडैयान्गण् आक्कम्बोण्ड्रु इल्लै  
@@ -2498,6 +3578,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धीराः सदाचारहानात् दृष्ट्वा नीचकुलोद्भवम् ।  
 न मुञ्चन्ति सदाचारं दुस्साधमपि सर्वदा ॥ १३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३६</summary>
+
+6\. ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்  
+ஏதம் படுபாக் கறிந்து  
+The firm from virtue falter not  
+They know the ills of evil thought.         136  
 </details>
 
 <details><summary>मूलम् - १३६</summary>
@@ -2518,6 +3606,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सदाचारपरित्यागादपवादो मुधा भवेत् ॥ १३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३७</summary>
+
+7\. ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்  
+எய்துவர் எய்தாப் பழி  
+Conduct good ennobles man,  
+Bad conduct entails disgrace mean.         137  
+</details>
+
 <details><summary>मूलम् - १३७</summary>
 
 ऒऴुक्कत्तिन् ऎय्दुवर् मेन्मै इऴुक्कत्तिन्  
@@ -2534,6 +3630,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उपयोर्लौकयोः सौख्यं सदाचारेण जायते ।  
 तथा दुःख दुराचारात् प्राप्यते लोकयोर्द्वयोः ॥ १३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३८</summary>
+
+8\. நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம்  
+என்றும் இடும்பை தரும்  
+Good conduct sows seeds of blessings  
+Bad conduct endless evil brings.         138  
 </details>
 
 <details><summary>मूलम् - १३८</summary>
@@ -2554,6 +3658,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तेषां मुखान्न निर्यान्ति ये सदाचारशालिनः ॥ १३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३९</summary>
+
+9\. ஒழுக்க முடையவர்க்கு ஒல்லாவே தீய  
+வழுக்கியும் வாயாற் சொலல்  
+Foul words will never fall from lips  
+Of righteous men even by slips.         139  
+</details>
+
 <details><summary>मूलम् - १३९</summary>
 
 ऒऴुक्क मुडैयवर्क्कु ऒल्लावे तीय  
@@ -2570,6 +3682,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ये तु नैव प्रवर्तन्ते कालदेशानुसारत्ः ।  
 अधीतेष्वपि शास्त्रेषु ज्ञानिनो न भवन्ति ते ॥ १४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४०</summary>
+
+10\. உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும்  
+கல்லார் அறிவிலா தார்  
+Though read much they are ignorant  
+Whose life is not world-accordant.         140  
 </details>
 
 <details><summary>मूलम् - १४०</summary>
@@ -2592,6 +3712,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 धर्मार्थशास्त्र तत्त्वज्ञा ये भवन्ति महीतले ॥ १४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १४१</summary>
+
+1\. பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்து  
+அறம்பொருள் கண்டார்கண் இல்  
+Who know the wealth and virtue's way  
+After other's wife do not stray.         141  
+</details>
+
 <details><summary>मूलम् - १४१</summary>
 
 पिऱन्बॊरुळाळ् पॆट्टॊऴुगुम् पेदैमै ञालत्तु  
@@ -2608,6 +3736,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परपत्नीलम्पटनां मध्ये मृढतमो हि सः ।  
 परदार गृहद्वारे कामार्तो यः प्रतीक्षते ॥ १४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४२</summary>
+
+2\. அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை  
+நின்றாரின் பேதையார் இல்  
+He is the worst law breaking boor  
+Who haunts around his neighbour's door.         142  
 </details>
 
 <details><summary>मूलम् - १४२</summary>
@@ -2628,6 +3764,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विश्वस्तसुहृदः पत्नीं यो भोक्तुमभिवाञ्छति ॥ १४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १४३</summary>
+
+3\. விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்  
+தீமை புரிந்துஒழுகு வார்  
+The vile are dead who evil aim  
+And put faithful friends' wives to shame.         143  
+</details>
+
 <details><summary>मूलम् - १४३</summary>
 
 विळिन्दा஡஢न् वेऱल्लर् मण्ड्र तॆळिन्दारिल्  
@@ -2644,6 +3788,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पापं किञ्चिदनालोच्य परनारीरतात्मनः ।  
 किमन्यै र्विभवैः पूणैंः स दुःखान्न विमुच्यते ॥ १४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४४</summary>
+
+4\. எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும்  
+தேரான் பிறனில் புகல்  
+Their boasted greatness means nothing  
+When to another's wife they cling.         144  
 </details>
 
 <details><summary>मूलम् - १४४</summary>
@@ -2664,6 +3816,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अपवादं स्थिरं धत्ते गर्हितं तत्कुलं भवेत् ॥ १४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १४५</summary>
+
+5\. எளிதுஎன இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
+விளியாது நிற்கும் பழி  
+Who trifles with another's wife  
+His guilty stain will last for life.         145  
+</details>
+
 <details><summary>मूलम् - १४५</summary>
 
 ऎळिदॆन इल्लिऱप्पान् ऎय्दुमॆञ् ञाण्ड्रुम्  
@@ -2680,6 +3840,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अपवादो भयं पापं द्वेषश्चेति चतुर्विधाः ।  
 दोषा नैनं विमुञ्चन्ति योऽन्यभार्यां निषेवते ॥ १४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४६</summary>
+
+6\. பகைபாவம் அச்சம் பழியென நான்கும்  
+இகவாவாம் இல்லிறப்பான் கண்  
+Hatred, sin, fear, and shame-these four  
+Stain adulterers ever more.         146  
 </details>
 
 <details><summary>मूलम् - १४६</summary>
@@ -2700,6 +3868,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्यदीयेषु दारेषु मतिरेव न जायते ॥ १४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १४७</summary>
+
+7\. அறனியலான் இல்வாழ்வான் என்பான் பிறனியலான்  
+பெண்மை நயவா தவன்  
+He is the righteous householder  
+His neighbour's wife who covets never.         147  
+</details>
+
 <details><summary>मूलम् - १४७</summary>
 
 अऱनियलान् इल्वाऴ्वान् ऎन्बान् पिऱनियलाळ्  
@@ -2716,6 +3892,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परस्त्रीदर्शने चित्तदाढर्थे यद्रू विद्यते सताम् ।  
 नेदं तेषां धर्ममात्रं पूर्णाचारोऽपि स स्मृतः ॥ १४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४८</summary>
+
+8\. பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு  
+அறனொன்றோ ஆன்ற ஒழுக்கு  
+They lead a high-souled manly life  
+The pure who eye not another's wife.         148  
 </details>
 
 <details><summary>मूलम् - १४८</summary>
@@ -2736,6 +3920,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पराङ्गनापरिष्वङ्गं कामार्ता ये न कुर्वते ॥ १४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १४९</summary>
+
+9\. நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்  
+பிறற்குஉரியாள் தோள்தோயா தார்  
+Good in storm bound earth is with those  
+Who clasp not arms of another's spouse.         149  
+</details>
+
 <details><summary>मूलम् - १४९</summary>
 
 नलक्कुरियार् यारॆनिन् नामनीर् वैप्पिन्  
@@ -2752,6 +3944,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 त्यक्त्वा धर्म मधर्मणां कर्ता चापि विशेषतः ।  
 श्लाघ्य एव भवेदत्र परस्त्रीविमुखो यदि ॥ १५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १५०</summary>
+
+10\. அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்  
+பெண்மை நயவாமை நன்று.  
+Sinners breaking virtue's behest  
+Lust not for another's wife at least.         150  
 </details>
 
 <details><summary>मूलम् - १५०</summary>
@@ -2774,6 +3974,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वापराधिषु या क्षान्तिः स धर्मः परमो नृणाम् ॥ १५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १५१</summary>
+
+1\. அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை  
+இகழ்வார்ப் பொறுத்தல் தலை  
+As earth bears up with diggers too  
+To bear revilers is prime virtue.         151  
+</details>
+
 <details><summary>मूलम् - १५१</summary>
 
 अगऴ्वारैत् ताङ्गुम् निलम्बोलत् तम्मै  
@@ -2790,6 +3998,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अपकारः परकृतः सोढव्यः सर्वदा नरैः ।  
 विस्मर्ता त्वपकारणां ततो भुवि महीयते ॥ १५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १५२</summary>
+
+2\. பொறுத்தல் இறப்பினை என்றும் அதனை  
+மறத்தல் அதனினும் நன்று  
+Forgive insults is a good habit  
+Better it is to forget it.         152  
 </details>
 
 <details><summary>मूलम् - १५२</summary>
@@ -2810,6 +4026,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मूढनिन्दा सहिष्णुस्तु समर्थेषूत्तमो भवेत् ॥ १५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १५३</summary>
+
+3\. இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்  
+வன்மை மடவார்ப் பொறை  
+Neglect the guest is dearth of dearth  
+To bear with fools is strength of strength.         153  
+</details>
+
 <details><summary>मूलम् - १५३</summary>
 
 इन्नम्युळ् इन्मै विरुन्दॊराल् वन्मैयुळ्  
@@ -2826,6 +4050,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आत्मनो गुणसम्पत्त्या विख्यातिं यश्चिकीर्षति ।  
 तेन क्षमावता भाव्यमपराधिजनेष्वपि ॥ १५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १५४</summary>
+
+4\. நிறையுடமை நீங்காமை வேண்டின் பொறையுடைமை  
+போற்றி ஒழுகப் படும்  
+Practice of patient quality  
+Retains intact integrity.         154  
 </details>
 
 <details><summary>मूलम् - १५४</summary>
@@ -2846,6 +4078,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अरिष्वपि क्षमावन्तं स्वर्णवत् हृदि कुर्वते ॥ १५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १५५</summary>
+
+5\. ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்  
+பொறுத்தாரைப் பொன்போற் பொதிந்து  
+Vengeance is not in esteem held  
+Patience is praised as hidden gold.         155  
+</details>
+
 <details><summary>मूलम् - १५५</summary>
 
 ऒऱुत्तारै ऒण्ड्राग वैयारे वैप्पर्  
@@ -2862,6 +4102,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विरोधिष्वपकर्तृणां तिष्ठेदेकदिनं सुखम् ।  
 परद्रोहसहिष्णूनं यावज्जीवं भवद्यशः ॥ १५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १५६</summary>
+
+6\. ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்  
+பொன்றுந் துணையும் புகழ்  
+Revenge accords but one day's joy  
+Patience carries its praise for aye.         156  
 </details>
 
 <details><summary>मूलम् - १५६</summary>
@@ -2882,6 +4130,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अधर्माचरणाञ्चित्त निरोधो हि प्रशस्यते ॥ १५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १५७</summary>
+
+7\. திறனல்ல தற்பிறர் செய்யினும் நோநொந்து  
+அறனல்ல செய்யாமை நன்று  
+Though others cause you wanton pain  
+Grieve not; from unjust harm refrain.         157  
+</details>
+
 <details><summary>मूलम् - १५७</summary>
 
 तिऱनल्ल तऱ्‌पिऱर् सॆय्यिनुम् नोनॊन्दु  
@@ -2898,6 +4154,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कुर्वतामात्मनो द्रोहं मनोऽहङ्कार करणात् ।  
 अकृत्वैव प्रतीकारं जेतव्याः क्षमयैव ते ॥ १५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १५८</summary>
+
+8\. மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம்  
+தகுதியான் வென்று விடல்  
+By noble forbearance vanquish  
+The proud that have caused you anguish.         158  
 </details>
 
 <details><summary>मूलम् - १५८</summary>
@@ -2918,6 +4182,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्षमया ये सहन्तेऽत्र शुद्धास्ते मुनिभिः समाः ॥ १५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १५९</summary>
+
+9\. துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய்  
+இன்னாச்சொல் நோற்கிற் பவர்  
+More than ascetics they are pure  
+Who bitter tongues meekly endure.         159  
+</details>
+
 <details><summary>मूलम् - १५९</summary>
 
 तुऱन्दारिन् तूय्मै उडैयर् इऱन्दार्वाय्  
@@ -2934,6 +4206,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महानेव स मन्तव्यः विनाऽन्नं यस्तपस्यति ।  
 परनिन्दासहिष्णुस्तु ततोऽपि स्यान्महत्तरः ॥ १६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६०</summary>
+
+10\. உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்  
+இன்னாச்சொல் நோற்பாரின் பின்  
+Who fast are great to do penance  
+Greater are they who bear offence.         160  
 </details>
 
 <details><summary>मूलम् - १६०</summary>
@@ -2956,6 +4236,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनसूया रक्षणीया सदाचारसमा सदा ॥ १६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १६१</summary>
+
+1\. ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்து  
+அழுக்காறு இல்லாத இயல்பு  
+Deem your heart as virtuous  
+When your nature is not jealous.         161  
+</details>
+
 <details><summary>मूलम् - १६१</summary>
 
 ऒऴुक्काऱाक् कॊळ्ग ऒरुवन्दन् नॆञ्जत्तु  
@@ -2972,6 +4260,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असूया यस्य न भवेत् सर्वदा सर्वजन्तुषु ।  
 स एव भग्यवान् लोके सर्वभाग्येषु तद्वरम् ॥ १६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६२</summary>
+
+2\. விழுப்பேற்றின் அஃதொப்பது இல்லையார் மாட்டும்  
+அழுக்காற்றின் அன்மை பெறின்  
+No excellence excels the one  
+That by nature envies none.         162  
 </details>
 
 <details><summary>मूलम् - १६२</summary>
@@ -2992,6 +4288,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इह वित्तं परे पुण्यमुभयं तस्य हीयते ॥ १६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १६३</summary>
+
+3\. அறன்ஆக்கம் வேண்டாதான் என்பான் பிறனாக்கம்  
+பேணாது அழுக்கறுப் பான்  
+Who envies others' good fortune  
+Can't prosper in virtue of his own.         163  
+</details>
+
 <details><summary>मूलम् - १६३</summary>
 
 अऱन्आक्कम् वेण्डादान् ऎन्बान् पिऱनाक्कम्  
@@ -3008,6 +4312,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असूयया भवेद्दुःखमिति मत्वा मनीषिणः ।  
 अधर्मे नैव कुर्वन्ति ह्यसूयावशमागताः ॥ १६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६४</summary>
+
+4\. அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்  
+ஏதம் படுபாக்கு அறிந்து  
+The wise through envy don't others wrong  
+Knowing that woes from evils throng.         164  
 </details>
 
 <details><summary>मूलम् - १६४</summary>
@@ -3028,6 +4340,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रिपौ कदाचिच्छान्तेऽपि नूनं सा कुरुते व्यथाम् ॥ १६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १६५</summary>
+
+5\. அழுக்காற உடையார்க்கு அதுசாலும் ஒன்னார்  
+வழுக்கியும் கேடீன் பது  
+Man shall be wrecked by envy's whim  
+Even if enemies spare him.         165  
+</details>
+
 <details><summary>मूलम् - १६५</summary>
 
 अऴुक्काऱु उडैयार्क्कु अदुसालुम् ऒन्नार्  
@@ -3044,6 +4364,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यो वै न सहतेऽन्यस्य विभवं समुपागतम् ।  
 बन्धवास्तस्य नश्यन्ति वस्त्राहारविवर्जिताः ॥ १६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६६</summary>
+
+6\. கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்  
+உண்பதூஉம் இன்றிக் கெடும்.  
+Who envies gifts shall suffer ruin  
+Without food and clothes with his kin.         166  
 </details>
 
 <details><summary>मूलम् - १६६</summary>
@@ -3064,6 +4392,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ददाति तस्य दारिद्र्यं स्वयं चापि विमुञ्चति ॥ १६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १६७</summary>
+
+7\. அவ்வித்து அழுக்காறு உடையானைச் செய்யவள்  
+தவ்வையைக் காட்டி விடும்.  
+Fortune deserts the envious  
+Leaving misfortune omnious.         167  
+</details>
+
 <details><summary>मूलम् - १६७</summary>
 
 अव्वित्तु अऴुक्काऱु उडैयानैच् चॆय्यवळ्  
@@ -3080,6 +4416,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असूयया समः पापी विद्यते नैव भूतले ।  
 भाग्यं सर्वे नाशयित्वा कुपथे च नयेन्नरम् ॥ १६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६८</summary>
+
+8\. அழுக்காறு எனஒரு பாவி திருச்செற்றுத்  
+தீயுழி உய்த்து விடும்  
+Caitiff envy despoils wealth  
+And drags one into evil path.         168  
 </details>
 
 <details><summary>मूलम् - १६८</summary>
@@ -3100,6 +4444,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यदि स्यात् कारणं तत्र कि स्यादिति विचार्यताम् ॥ १६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १६९</summary>
+
+9\. அவ்விய நெஞ்சத்தான் ஆக்கமுஞ் செவ்வியான்  
+கேடும் நினைக்கப் படும்  
+Why is envy rich, goodmen poor  
+People with surprise think over.         169  
+</details>
+
 <details><summary>मूलम् - १६९</summary>
 
 अव्विय नॆञ्जत्तान् आक्कमुम् सॆव्वियान्  
@@ -3116,6 +4468,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असूयावान्नरो लोके न प्राप्नोति समुन्नतिम् ।  
 असूयया विरहितं न जहात्युन्नतिर्नरम् ॥ १७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १७०</summary>
+
+10\. அழுக்கற்று அகன்றாரும் இல்லைஅஃது இல்லார்  
+பெருக்கத்தில் தீர்ந்தாரும் இல்  
+The envious prosper never  
+The envyless prosper ever.         170  
 </details>
 
 <details><summary>मूलम् - १७०</summary>
@@ -3138,6 +4498,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुलनाशं स भजते दोषा अपि भजन्ति तम् ॥ १७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १७१</summary>
+
+1\. நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக்  
+குற்றமும் ஆங்கே தரும்  
+Who covets others' honest wealth  
+That greed ruins his house forthwith.         171  
+</details>
+
 <details><summary>मूलम् - १७१</summary>
 
 नडुविण्ड्रि नन्बॊरुळ् वॆह्हि³न् कुडिबॊण्ड्रिक्  
@@ -3154,6 +4522,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अन्यायाल्लज्जिता मर्त्या लोभेन परवस्तुषु ।  
 स्वल्पलाभमभीप्सन्तः निषिद्धं नैव कुर्वते ॥ १७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १७२</summary>
+
+2\. படுபயன் வெஃகிப் பழிப்படுவ செய்யார்  
+நடுவன்மை நாணுவர் பவர்  
+Who shrink with shame from sin, refrain  
+From coveting which brings ruin.         172  
 </details>
 
 <details><summary>मूलम् - १७२</summary>
@@ -3174,6 +4550,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अल्पसौख्यात् न ते कुर्युः लोभमन्येष्वधार्मिकम् ॥ १७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १७३</summary>
+
+3\. சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே  
+மற்றின்பம் வேண்டு பவர்  
+For spiritual bliss who long  
+For fleeting joy commit no wrong.         173  
+</details>
+
 <details><summary>मूलम् - १७३</summary>
 
 सिट्रिन्बम् वॆह्हि³ अऱनल्ल सॆय्यारे  
@@ -3190,6 +4574,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जित्वा पञ्चेन्द्रियग्रामं तत्त्वज्ञानसमन्विताः ।  
 ज्ञात्वापि स्वक दारिद्र्यमलुब्धाः परवस्तुषु ॥ १७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १७४</summary>
+
+4\. இலமென்று வெஃகுதல் செய்யார் புலம்வென்ற  
+புன்மையில் காட்சி யவர்  
+The truth-knowers of sense-control  
+Though in want covet not at all.         174  
 </details>
 
 <details><summary>मूलम् - १७४</summary>
@@ -3210,6 +4602,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सूक्ष्मेण शास्त्रज्ञानेन विद्यते किं प्रयोजनम् ॥ १७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १७५</summary>
+
+5\. அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்  
+வெஃகி வெறிய செயின்  
+What is one's subtle wisdom worth  
+If it deals ill with all on earth.         175  
+</details>
+
 <details><summary>मूलम् - १७५</summary>
 
 अह्हि³ अगण्ड्र अऱिवॆन्नाम् यार्माट्टुम्  
@@ -3226,6 +4626,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वभूतदयापूर्वे गार्हस्थ्यमनुतिष्ठतः ।  
 परवस्तुप्रलोभेन गार्हस्थ्यमपि निष्फलम् ॥ १७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १७६</summary>
+
+6\. அருள்வெஃகி ஆற்றின்கண் நின்றான் பொருள்வெஃகிப்  
+பொல்லாத சூழக் கெடும்  
+Who seeks for grace on righteous path  
+Suffers by evil covetous wealth.         176  
 </details>
 
 <details><summary>मूलम् - १७६</summary>
@@ -3246,6 +4654,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 फलप्रदानवेलायां न तच्छ्रेयः प्रदास्यति ॥ १७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १७७</summary>
+
+7\. வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின்  
+மாண்டற் கரிதாம் பயன்  
+Shun the fruit of covetousness  
+All its yield is inglorious.         177  
+</details>
+
 <details><summary>मूलम् - १७७</summary>
 
 वेण्डऱ्‌क वॆह्हि³याम् आक्कम् विळैवयिन्  
@@ -3262,6 +4678,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 योऽन्यदीयं वस्तुजातमपहर्तु न काङ्क्षति ।  
 न क्षीयते तस्य भाग्यं भूय एवाभिवर्धते ॥ १७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १७८</summary>
+
+8\. அஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமை  
+வேண்டும் பிறன்கைப் பொருள்.  
+Against covetousness - The mark of lasting wealth is shown  
+By not coveting others' own.         178  
 </details>
 
 <details><summary>मूलम् - १७८</summary>
@@ -3282,6 +4706,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तानू वासयोग्यान् विज्ञाय तेष्वेव रमते रमा ॥ १७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १७९</summary>
+
+9\. அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்  
+திறன்அறிந் தாங்கே திரு.  
+Fortune seeks the just and wise  
+Who are free from coveting vice.         179  
+</details>
+
 <details><summary>मूलम् - १७९</summary>
 
 अऱनऱिन्दु वॆह्हा³ अऱिवुडैयार्च् चेरुम्  
@@ -3298,6 +4730,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परिणाममनालोच्य परलुब्धो विनश्यति ।  
 अलुब्धो यस्तु वर्तेत राजते स जयी भुवि ॥ १८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८०</summary>
+
+10\. இறல்ஈனும் எண்ணாது வெஃகின் விறல்ஈனும்  
+வேண்டாமை என்னுஞ் செருக்கு  
+Desireless, greatness conquers all;  
+Coveting misers ruined fall.         180  
 </details>
 
 <details><summary>मूलम् - १८०</summary>
@@ -3320,6 +4760,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परोक्षनिन्दादोषेण रहितश्चेत् प्रशस्यते ॥ १८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १८१</summary>
+
+1\. அறங்கூறான் அல்ல செயினும் ஒருவன்  
+புறங்கூறான் என்றல் இனிது  
+Though a man from virtue strays,  
+To keep from slander brings him praise.         181  
+</details>
+
 <details><summary>मूलम् - १८१</summary>
 
 अऱङ्गूऱान् अल्ल सॆयिनुम् ऒरुवन्  
@@ -3336,6 +4784,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परोक्षे दूषयित्वा या प्रत्यक्षे कपटस्तुतिः ।  
 धर्महानेरधर्मस्य करणात् पापदैव सा ॥ १८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८२</summary>
+
+2\. அறனழீஇ அல்லவை செய்தலின் தீதே  
+புறனழீஇப் பொய்த்து நகை  
+Who bite behind, and before smile  
+Are worse than open traitors vile.         182  
 </details>
 
 <details><summary>मूलम् - १८२</summary>
@@ -3356,6 +4812,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ततोऽपि धर्मन्नष्टस्य शास्त्रोक्ता सद्नतिर्भवेत् ॥ १८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १८३</summary>
+
+3\. புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல்  
+அறங்கூறும் ஆக்கம் தரும்  
+Virtue thinks it better to die,  
+Than live to backbite and to lie.         183  
+</details>
+
 <details><summary>मूलम् - १८३</summary>
 
 पुऱङ्गूऱिप् पॊय्त्तुयिर् वाऴ्दलिन् सादल्  
@@ -3372,6 +4836,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रत्यक्षे दूष्यतां सम्यक् विना दाक्षिण्यमेव वा ।  
 परिणाममनालोच्य परोक्षे न तु दूषयेत् ॥ १८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८४</summary>
+
+4\. கண்நின்று கண்ணறச் சொல்லினும் சொல்லற்க  
+முன்இன்று பின்நோக்காச் சொல்  
+Though harsh you speak in one's presence  
+Abuse is worse in his absence.         184  
 </details>
 
 <details><summary>मूलम् - १८४</summary>
@@ -3392,6 +4864,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इत्येव स हि मन्तव्यः परोक्षे यस्तु निन्दति ॥ १८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १८५</summary>
+
+5\. அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்  
+புன்மையாற் காணப் படும்  
+Who turns to slander makes it plain  
+His praise of virtue is in vain.         185  
+</details>
+
 <details><summary>मूलम् - १८५</summary>
 
 अऱञ्जॊल्लुम् नॆञ्जत्तान् अन्मै पुऱञ्जॊल्लुम्  
@@ -3408,6 +4888,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यो निन्दति परोक्षेऽन्यं तत्कृतेषु बहुष्वपि ।  
 दोषेषु सारमन्विष्य तमन्यो दूषयेतुरः ॥ १८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८६</summary>
+
+6\. பிறன்பழி கூறுவான் தன்பழி யுள்ளும்  
+திறன்தெரிந்து கூறப் படும்  
+His failings will be found and shown,  
+Who makes another's failings known.         186  
 </details>
 
 <details><summary>मूलम् - १८६</summary>
@@ -3428,6 +4916,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परोक्षनिन्दकस्यास्य भजेन्मित्रममित्रताम् ॥ १८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १८७</summary>
+
+7\. பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி  
+நட்பாடல் தேற்றா தவர்  
+By pleasing words who make not friends  
+Sever their hearts by hostile trends.         187  
+</details>
+
 <details><summary>मूलम् - १८७</summary>
 
 पगच्चॊल्लिक् केळिर्प् पिरिप्पर् नगच्चॊल्लि  
@@ -3444,6 +4940,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विश्वस्तमित्रदोषणां परोक्षे संप्रकाशकाः ।  
 उदासीन मनुष्येषु न कुर्युः किमिवाप्रियम् ॥ १८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८८</summary>
+
+8\. துன்னியார் குற்றமும் தூற்றும் மரபினார்  
+என்னைகொல் ஏதிலார் மாட்டு  
+What will they not to strangers do  
+Who bring their friends' defects to view?         188  
 </details>
 
 <details><summary>मूलम् - १८८</summary>
@@ -3464,6 +4968,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परोक्षनिन्दासक्तस्य देहभारं विभर्ति किम्? ॥ १८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १८९</summary>
+
+9\. அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்  
+புன்சொல் உரைப்பான் பொறை.  
+The world in mercy bears his load  
+Who rants behind words untoward         189  
+</details>
+
 <details><summary>मूलम् - १८९</summary>
 
 अऱन्नोक्कि आट्रुङ्गॊल् वैयम् पुऱन्नोक्किप्  
@@ -3480,6 +4992,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परोक्षनिन्दकः स्वीयदोषान् अन्यकृतानिव ।  
 यदि जानाति तं नैव बाधन्ते दुःखराशयः ॥ १९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १९०</summary>
+
+10\. ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்  
+தீதுண்டோ மன்னும் உயிர்க்கு  
+No harm would fall to any man  
+If each his own defect could scan.         190  
 </details>
 
 <details><summary>मूलम् - १९०</summary>
@@ -3502,6 +5022,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रयुङ्क्ते यः स सर्वेषां परीहास पदं भवेत् ॥ १९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १९१</summary>
+
+1\. பல்லார் முனியப் பயனில சொல்லுவான்  
+எல்லாரும் எள்ளப் படும்  
+With silly words who insults all  
+Is held in contempt as banal.         191  
+</details>
+
 <details><summary>मूलम् - १९१</summary>
 
 पल्लार् मुनियप् पयनिल सॊल्लुवान्  
@@ -3518,6 +5046,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मित्रेष्वनिष्टकरणादपि पण्डित मण्डले ।  
 वृथाप्रलापो विज्ञेयो महानिष्टफलप्रदः ॥ १९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १९२</summary>
+
+2\. பயனில பல்லார்முன் சொல்லல் நயனில  
+நட்டார்கண் செய்தலின் தீது  
+Vain talk before many is worse  
+Than doing to friends deeds adverse.         192  
 </details>
 
 <details><summary>मूलम् - १९२</summary>
@@ -3538,6 +5074,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निरर्थकानि वाक्यानि ब्रूते यस्तु विशेषतः ॥ १९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १९३</summary>
+
+3\. நயனிலன் என்பது சொல்லும் பயனில  
+பாரித் துரைக்கும் உரை  
+The babbler's hasty lips proclaim  
+That "good-for-nothing" is his name.         193  
+</details>
+
 <details><summary>मूलम् - १९३</summary>
 
 नयनिलन् ऎन्बदु सॊल्लुम् पयनिल  
@@ -3554,6 +5098,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 हीनमर्थगुणाभ्यां यत् वाक्यं सर्वत्र कथ्यते ।  
 नीत्या विरहितं तत्तु नाशयेत् सद्गुणानपि ॥ १९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १९४</summary>
+
+4\. நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்  
+பண்பில்சொல் பல்லா ரகத்து  
+Vain words before an assembly  
+Will make all gains and goodness flee.         194  
 </details>
 
 <details><summary>मूलम् - १९४</summary>
@@ -3574,6 +5126,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदा कीर्तिप्रतिष्ठाभ्याम्भवन्ति रहिता अमी ॥ १९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १९५</summary>
+
+5\. சீர்மை சிறப்பொடு நீங்கும் பயனில  
+நீர்மை யுடையார் சொலின்  
+Glory and grace will go away  
+When savants silly nonsense say.         195  
+</details>
+
 <details><summary>मूलम् - १९५</summary>
 
 सीर्मै सिऱप्पॊडु नीङ्गुम् पयनिल  
@@ -3590,6 +5150,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निरर्थकानां वाक्यानां प्रयोक्ता यः पुनः पुनः ।  
 न नरः स हि मन्तव्यो ऋजीषं स्यान्नरेष्वयम् ॥ १९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १९६</summary>
+
+6\. பயனில்சொல் பாராட்டு வானை மகன்எனல்  
+மக்கட் பதடி யெனல்  
+Call him a human chaff who prides  
+Himself in weightless idle words.         196  
 </details>
 
 <details><summary>मूलम् - १९६</summary>
@@ -3610,6 +5178,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अप्रयोजकवाक्यानि वर्जनीयानि तैरपि ॥ १९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १९७</summary>
+
+7\. நயனில சொல்லினுஞ் சொல்லுக சான்றோர்  
+பயனில சொல்லாமை நன்று  
+Let not men of worth vainly quack  
+Even if they would roughly speak.         197  
+</details>
+
 <details><summary>मूलम् - १९७</summary>
 
 नयनिल सॊल्लिनुञ् जॊल्लुग साण्ड्रोर्  
@@ -3626,6 +5202,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मोक्षाद्युत्तमलाभार्थे मीमांसन्ते मिथस्तु ये ।  
 अल्पलाभकरं वाक्यं न ते ब्रूयुर्मनीषिणः ॥ १९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १९८</summary>
+
+8\. அரும்பயன் ஆயும் அறிவினார் சொல்லார்  
+பெரும்பயன் இல்லாத சொல்  
+The wise who weigh the worth refrain  
+From words that have no grain and brain.         198  
 </details>
 
 <details><summary>मूलम् - १९८</summary>
@@ -3646,6 +5230,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विस्मृत्याप्यर्थविधुरं वाक्यं नैव प्रयुञ्जते ॥ १९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १९९</summary>
+
+9\. பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த  
+மாசறு காட்சி யவர்  
+The wise of spotless self-vision  
+Slip not to silly words-mention.         199  
+</details>
+
 <details><summary>मूलम् - १९९</summary>
 
 पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द  
@@ -3662,6 +5254,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वाच्यं तदेव वाक्येषु यल्लाभजनकं वचः ।  
 त्याज्यं तदेव वाक्येषु यल्लाभरहितं वचः ॥ २००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २००</summary>
+
+10\. சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க  
+சொல்லிற் பயனிலாச் சொல்  
+To purpose speak the fruitful word  
+And never indulge in useless load.         200  
 </details>
 
 <details><summary>मूलम् - २००</summary>
@@ -3684,6 +5284,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्कर्मनिरता सन्त पापाद्विभ्यति सर्वदा ॥ २०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २०१</summary>
+
+1\. தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்  
+தீவினை என்னுஞ் செருக்கு  
+Sinners fear not the pride of sin.  
+The worthy dread the ill within.        201  
+</details>
+
 <details><summary>मूलम् - २०१</summary>
 
 तीविनैयार् अञ्जार् विऴुमियार् अञ्जुवर्  
@@ -3700,6 +5308,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुष्कर्मणा दुःखमेव यस्मादुत्पद्यते ततः ।  
 वह्नेरप्यधिक मत्वा मेतव्यं दुष्टकर्मणः ॥ २०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २०२</summary>
+
+2\. தீயவை தீய பயத்தலால் தீயவை  
+தீயினும் அஞ்சப் படும்  
+Since evil begets evil dire  
+Fear ye evil more than fire.        202  
 </details>
 
 <details><summary>मूलम् - २०२</summary>
@@ -3720,6 +5336,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखानुत्पादबुद्धिर्या स्वापराधिजनेष्वपि ॥ २०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २०३</summary>
+
+3\. அறிவினுள் எல்லாந் தலையென்ப தீய  
+செறுவார்க்கும் செய்யா விடல்  
+The wisest of the wise are those  
+Who injure not even their foes.        203  
+</details>
+
 <details><summary>मूलम् - २०३</summary>
 
 अऱिविनुळ् ऎल्लान् दलैयॆन्ब तीय  
@@ -3736,6 +5360,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परदुःखप्रदं कर्म प्रमादेनापि न स्मरेत् ।  
 अन्यथा स्मरतोऽस्यैव धर्मो नाशं विचिन्तयेत् ॥ २०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २०४</summary>
+
+4\. மறந்தும் பிறன்கேடு சூழற்க சூழின்  
+அறஞ்சூழும் சூழ்ந்தவன் கேடு  
+His ruin virtue plots who plans  
+The ruin of another man's.        204  
 </details>
 
 <details><summary>मूलम् - २०४</summary>
@@ -3756,6 +5388,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न चेत् दरिद्र एव स्यात् भाविजन्मसु सप्तसु ॥ २०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २०५</summary>
+
+5\. இலன்என்று தீயவை செய்யற்க செய்யின்  
+இலனாகும் மற்றும் பெயர்த்து  
+Who makes poverty plea for ill  
+Shall reduce himself poorer still.        205  
+</details>
+
 <details><summary>मूलम् - २०५</summary>
 
 इलन् ऎण्ड्रु तीयवै सॆय्यऱ्‌क सॆय्यिन्  
@@ -3772,6 +5412,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''स्वकृतं दुष्कृतं स्वस्य भाविदुःखप्रदायकम्'' ।  
 इति चिन्तयताऽन्येषां न कार्या दुष्कृतिः सदा ॥ २०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २०६</summary>
+
+6\. தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால  
+தன்னை அடல்வேண்டா தான்  
+From wounding others let him refrain  
+Who would from harm himself remain.        206  
 </details>
 
 <details><summary>मूलम् - २०६</summary>
@@ -3792,6 +5440,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुष्कर्मनामा शत्रुस्तु बाधते भाविजन्मसु ॥ २०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २०७</summary>
+
+7\. எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை  
+வீயாது பின்சென்று அடும்  
+Men may escape other foes and live  
+But sin its deadly blow will give.        207  
+</details>
+
 <details><summary>मूलम् - २०७</summary>
 
 ऎनैप्पगै युट्रारुम् उय्वर् विनैप्पगै  
@@ -3808,6 +5464,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नरच्छाया यथा तस्य पादाभ्यां सह गच्छति ।  
 प्रतिजन्म तथा यान्ती दुष्कृतिर्बाधते नरम् ॥ २०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २०८</summary>
+
+8\. தீயவை செய்தார் கெடுதல் நிழல்தன்னை  
+வீயாது அடிஉரைந் தற்று  
+Ruin follows who evil do  
+As shadow follows as they go.        208  
 </details>
 
 <details><summary>मूलम् - २०८</summary>
@@ -3828,6 +5492,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ईषदप्यत्र दुष्कर्म न कुर्यात् स परस्य तु ॥ २०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २०९</summary>
+
+9\. தன்னைத்தான் காதல னாயின் எனைத்தொன்றும்  
+துன்னற்க தீவினைப் பால்  
+Let none who loves himself at all  
+Think of evil however small.        209  
+</details>
+
 <details><summary>मूलम् - २०९</summary>
 
 तन्नैत्तान् कादल नायिन् ऎनैत्तॊण्ड्रुम्  
@@ -3844,6 +5516,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अधर्मेण पथा गच्छन् अन्येभ्यो दुष्कृति नरः ।  
 यदि कश्चिन्न कुरुते तं दुःखं दूरतस्त्यजेत् ॥ २१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २१०</summary>
+
+10\. அருங்கேடன் என்பது அறிக மருங்கோடித்  
+தீவினை செய்யான் எனின்  
+He is secure, know ye, from ills  
+Who slips not right path to do evils.        210  
 </details>
 
 <details><summary>मूलम् - २१०</summary>
@@ -3866,6 +5546,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मेघतुल्या महान्तोऽपि निष्काममुपकुर्वते ॥ २११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २११</summary>
+
+1\. கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு  
+என்ஆற்றுங் கொல்லோ உலகு  
+Duty demands nothing in turn;  
+How can the world recompense rain?        211  
+</details>
+
 <details><summary>मूलम् - २११</summary>
 
 कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु  
@@ -3882,6 +5570,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोकोपकर्तृभिर्वित्तं प्रयत्नात् समुपार्जितम् ।  
 सत्पात्रे दीयमानं सत् प्रयोजनकरं भवेत् ॥ २१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २१२</summary>
+
+2\. தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு  
+வேளாண்மை செய்தற் பொருட்டு  
+All the wealth that toils give  
+Is meant to serve those who deserve.        212  
 </details>
 
 <details><summary>मूलम् - २१२</summary>
@@ -3902,6 +5598,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्कार्यमुत्तमं नास्ति स्वर्गे वा भूतलेऽपि वा ॥ २१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २१३</summary>
+
+3\. புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே  
+ஒப்புரவின் நல்ல பிற  
+In heav'n and earth 'tis hard to find  
+A greater good than being kind.        213  
+</details>
+
 <details><summary>मूलम् - २१३</summary>
 
 पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे  
@@ -3918,6 +5622,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोकनामुपकर्ता यः शिष्टाचारपरायणः ।  
 स जीवति शरीरेण मृतप्रायो नरोऽपरः ॥ २१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २१४</summary>
+
+4\. ஒத்த தறிவான் உயிர்வாழ்வான் மற்றையான்  
+செத்தாருள் வைக்கப் படும்  
+He lives who knows befitting act  
+Others are deemed as dead in fact.        214  
 </details>
 
 <details><summary>मूलम् - २१४</summary>
@@ -3938,6 +5650,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोकोपकारिणो भाग्यं लोकसौख्यं प्रयच्छति ॥ २१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २१५</summary>
+
+5\. ஊருணி நீர்நிறைந் தற்றே உலகவாம்  
+பேரறி வாளன் திரு  
+The wealth that wise and kind do make  
+Is like water that fills a lake.        215  
+</details>
+
 <details><summary>मूलम् - २१५</summary>
 
 ऊरुणि नीर्निऱैन् दट्रे उलगवाम्  
@@ -3954,6 +5674,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 फलभारनतो वृक्षः प्राममध्यं गतो यथा ।  
 लोकोपकारी वित्ताढयस्तथा स्यादुपकारकः ॥ २१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २१६</summary>
+
+6\. பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்  
+நயனுடை யான்கண் படின்  
+Who plenty gets and plenty gives  
+Is like town-tree teeming with fruits.        216  
 </details>
 
 <details><summary>मूलम् - २१६</summary>
@@ -3974,6 +5702,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोकोपकारिणो वित्तं तथा सर्वोपकारकम् ॥ २१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २१७</summary>
+
+7\. மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்  
+பெருந்தகை யான்கண் படின்  
+The wealth of a wide-hearted soul  
+Is a herbal tree that healeth all.        217  
+</details>
+
 <details><summary>मूलम् - २१७</summary>
 
 मरुन्दागित् तप्पा मरत्तट्राल् सॆल्वम्  
@@ -3990,6 +5726,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोकोपकारमाहात्म्यं जानन्तो ज्ञानिसत्तमाः ।  
 स्वस्य दारिद्र्यकालेऽपि परेषामुपकर्वते ॥ २१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २१८</summary>
+
+8\. இடனில் பருவத்தும் ஒப்புரவிற்கு ஒல்கார்  
+கடனறி காட்சி யவர்  
+Though seers may fall on evil days  
+Their sense of duty never strays.        218  
 </details>
 
 <details><summary>मूलम् - २१८</summary>
@@ -4010,6 +5754,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न शक्नोम्यधिकं दान्तु दारुद्र्ययेति यन्मतम् ॥ २१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २१९</summary>
+
+9\. நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீர  
+செய்யாது அமைகலா வாறு  
+The good man's poverty and grief  
+Is want of means to give relief.        219  
+</details>
+
 <details><summary>मूलम् - २१९</summary>
 
 नयनुडैयान् नल्गूर्न्दा नादल् सॆयुम्नीर  
@@ -4026,6 +5778,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोकोपकारात् दारिद्र्यं जायेतेति वदेत् यदि ।  
 भप्यात्मविक्रयेणैतत् दारिद्र्यक्रयणं वरम् ॥ २२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२०</summary>
+
+10\. ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்  
+விற்றுக்கோள் தக்க துடைத்து  
+By good if ruin comes across  
+Sell yourself to save that loss.        220  
 </details>
 
 <details><summary>मूलम् - २२०</summary>
@@ -4048,6 +5808,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतराणि तु दानानि स्वार्थमूलानि केवलम् ॥ २२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २२१</summary>
+
+1\. வறியார்க்கொன்று ஈவதே ஈகைமற் றெல்லாம்  
+குறியெதிர்ப்பை நீர துடைத்து  
+To give the poor is charity  
+The rest is loan and vanity.        221  
+</details>
+
 <details><summary>मूलम् - २२१</summary>
 
 वऱियार्क्कॊण्ड्रु ईवदे ईगैमऱ्‌ ऱॆल्लाम्  
@@ -4064,6 +5832,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मोक्षलाभी भवेत् कामं याचनं न हि सम्मतम् ।  
 नरकेऽपि समायाते दानं सर्वात्मना वरम् ॥ २२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२२</summary>
+
+2\. நல்லாறு எனினும் கொளல்தீது மேலுலகம்  
+இல்லெனினும் ஈதலே நன்று  
+To beg is bad e'en from the good  
+To give is good, were heaven forbid.        222  
 </details>
 
 <details><summary>मूलम् - २२२</summary>
@@ -4084,6 +5860,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महकुलप्रसूतेषु दृश्यते दानशीलता ॥ २२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २२३</summary>
+
+3\. இலனென்னும் எவ்வம் உரையாமை ஈதல்  
+குலனுடையான் கண்ணே உள  
+No pleading, "I am nothing worth,"  
+But giving marks a noble birth.        223  
+</details>
+
 <details><summary>मूलम् - २२३</summary>
 
 इलनॆन्नुम् ऎव्वम् उरैयामै ईदल्  
@@ -4100,6 +5884,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 याचकस्य मुखं दानात् प्रसन्नं न भवेत् यदि ।  
 दातृत्वमपि याञ्चेव जायते दुःखदं सदा ॥ २२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२४</summary>
+
+4\. இன்னாது இரக்கப் படுதல் இரந்தவர்  
+இன்முகங் காணும் அளவு  
+The cry for alms is painful sight  
+Until the giver sees him bright.        224  
 </details>
 
 <details><summary>मूलम् - २२४</summary>
@@ -4120,6 +5912,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तामापाकुर्वतोऽन्नाद्यै गृहस्थानाधिको मतः ॥ २२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २२५</summary>
+
+5\. ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை  
+மாற்றுவார் ஆற்றலின் பின்  
+Higher's power which hunger cures  
+Than that of penance which endures.        225  
+</details>
+
 <details><summary>मूलम् - २२५</summary>
 
 आट्रुवार् आट्रल् पसिआट्रल् अप्पसियै  
@@ -4136,6 +5936,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धनी क्षुघं यदार्तस्य वारयेत्, भाविजन्मसु ।  
 तदात्मफल लाभाय स्थिरं मुलधनं भवेत् ॥ २२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२६</summary>
+
+6\. அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்  
+பெற்றான் பொருள்வைப் புழி  
+Drive from the poor their gnawing pains  
+If room you seek to store your gains.        226  
 </details>
 
 <details><summary>मूलम् - २२६</summary>
@@ -4156,6 +5964,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्षुण्णामाऽयं महारोगो दूरन्नित्यं विमुञ्चित ॥ २२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २२७</summary>
+
+7\. பாத்தூண் மரீஇ யவனைப் பசிஎன்னும்  
+தீப்பிணி தீண்டல் அரிது  
+Who shares his food with those who need  
+Hunger shall not harm his creed.        227  
+</details>
+
 <details><summary>मूलम् - २२७</summary>
 
 पात्तूण् मरीइ यवनैप् पसियॆन्नुम्  
@@ -4172,6 +5988,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अभुक्तं स्वेन चान्येभ्योऽप्यदत्तं यस्य वै धनम् ।  
 क्षीयते कि न जानाति स सौख्यं दानमूलकम्? ॥ २२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२८</summary>
+
+8\. ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை  
+வைத்திழக்கும் வன்க ணவர்  
+The joy of give and take they lose  
+Hard-hearted rich whose hoarding fails.        228  
 </details>
 
 <details><summary>मूलम् - २२८</summary>
@@ -4192,6 +6016,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दरिद्र्यान्मरणाञ्च स्या दहो कष्टतरं ततः ॥ २२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २२९</summary>
+
+9\. இரத்தலின் இன்னாது மன்ற நிரப்பிய  
+தாமே தமியர் உணல்  
+Worse than begging is that boarding  
+Alone what one's greed is hoarding.        229  
+</details>
+
 <details><summary>मूलम् - २२९</summary>
 
 इरत्तलिन् इन्नादु मण्ड्र निरप्पिय  
@@ -4208,6 +6040,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नास्ति मृत्युसमं दुःखमथाप्यर्थिभिरीप्सितम् ।  
 तेभ्यो दातुमशक्तस्य मृत्युरेव वरो मतः ॥ २३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३०</summary>
+
+10\. சாதலின் இன்னாத தில்லை இனிததூஉம்  
+ஈதல் இயையாக் கடை  
+Nothing is more painful than death  
+Yet more is pain of giftless dearth.        230  
 </details>
 
 <details><summary>मूलम् - २३०</summary>
@@ -4230,6 +6070,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नरस्य जन्मसाफल्यं नास्ति कीर्ति विना भुवि ॥ २३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २३१</summary>
+
+1\. ஈதல் இசைபட வாழ்தல் அதுவல்லது  
+ஊதியம் இல்லை உயிர்க்கு  
+They gather fame who freely give  
+The greatest gain for all that live.        231  
+</details>
+
 <details><summary>मूलम् - २३१</summary>
 
 ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
@@ -4246,6 +6094,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 याचकेभ्यो दारिद्र्येभ्यः स्वल्पं वापि प्रयच्छतः ।  
 कीर्तिरेव सदा सद्भिर्गीता भवति शाश्वती ॥ २३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३२</summary>
+
+2\. உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று  
+ஈவார்மேல் நிற்கும் புகழ்  
+The glory of the alms-giver  
+Is praised aloud as popular.        232  
 </details>
 
 <details><summary>मूलम् - २३२</summary>
@@ -4266,6 +6122,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोके निरुपमं नित्यमेकं वस्तु न विद्यते ॥ २३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २३३</summary>
+
+3\. ஒன்றா உலகத்து உயர்ந்த புகழல்லால்  
+பொன்றாது நிற்பதொன்று இல்  
+Nothing else lasts on earth for e'er  
+Saving high fame of the giver!        233  
+</details>
+
 <details><summary>मूलम् - २३३</summary>
 
 ऒण्ड्रा उलगत्तु उयर्न्द पुगऴल्लाल्  
@@ -4282,6 +6146,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पृथिव्याः स्थितिपर्यन्तां कीर्ति यो लभते नरः ।  
 स्वर्गलोकोऽपि तं स्तौति न तु ज्ञानसमन्वितान् ॥ २३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३४</summary>
+
+4\. நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்  
+போற்றாது புத்தேள் உலகு  
+From hailing gods heavens will cease  
+To hail the men of lasting praise        234  
 </details>
 
 <details><summary>मूलम् - २३४</summary>
@@ -4302,6 +6174,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महतां ज्ञानिनामेव लभ्यं स्यात् नापरस्य तु ॥ २३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २३५</summary>
+
+5\. நத்தம்போல் கேடும் உளதாகும் சாக்காடும்  
+வித்தகர்க் கல்லால் அரிது  
+Fame in fall and life in death  
+Are rare but for the soulful worth.        235  
+</details>
+
 <details><summary>मूलम् - २३५</summary>
 
 नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
@@ -4318,6 +6198,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदीष्टं मानुषं जन्म कीर्त्या जननमुत्तमम् ।  
 अन्यथा मृगजन्मैव श्लाघ्यते मर्त्यजन्मनः ॥ २३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३६</summary>
+
+6\. தோன்றின் புகழோடு தோன்றுக அஃதிலார்  
+தோன்றலின் தோன்றாமை நன்று  
+Be born with fame if birth you want  
+If not of birth you must not vaunt.        236  
 </details>
 
 <details><summary>मूलम् - २३६</summary>
@@ -4338,6 +6226,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 किन्त्वात्मनिन्दकं द्वेष्टि किं भवेदत्र कारणम् ॥ २३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २३७</summary>
+
+7\. புகழ்பட வாழாதார் தந்நோவார் தம்மை  
+இகழ்வாரை நோவது எவன்.  
+Why grieve at those who blame the shame  
+Of those who cannot live in fame?        237  
+</details>
+
 <details><summary>मूलम् - २३७</summary>
 
 पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
@@ -4354,6 +6250,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनवाप्य यशो लोके ये हि जीवन्ति मानवाः ।  
 निन्दितं जीवनं तेषामिति सद्भिः प्रकीर्त्यते ॥ २३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३८</summary>
+
+8\. வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்  
+எச்சம் பெறா விடின்  
+To men on earth it is a shame  
+Not to beget the child of fame.        238  
 </details>
 
 <details><summary>मूलम् - २३८</summary>
@@ -4374,6 +6278,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निर्दुष्ट सस्यसम्पत्तिविहीना सा भवेद् धुवम् ॥ २३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २३९</summary>
+
+9\. வசையிலா வண்பயன் குன்றும் இசையிலா  
+யாக்கை பொறுத்த நிலம்  
+The land will shrink in yield if men  
+O'erburden it without renown.        239  
+</details>
+
 <details><summary>मूलम् - २३९</summary>
 
 वसैयिला वण्बयन् कुण्ड्रुम् इसैयिला  
@@ -4390,6 +6302,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अपवादेन रहितो यो जीवति स जीवति ।  
 जीवन्नप्यपवादेन मृतप्रायो हि गण्यते ॥ २४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४०</summary>
+
+10\. வசைஒழிய வாழ்வாரே வாழ்வார் இசையொழிய  
+வாழ்வாரே வாழா தவர்  
+They live who live without blemish  
+The blameful ones do not flourish.        240  
 </details>
 
 <details><summary>मूलम् - २४०</summary>
@@ -4415,6 +6335,16 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतराणि धनानीह सन्ति नीचजनेष्वपि ॥ २४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २४१</summary>
+
+25\. அருளுடைமை - Compassion
+
+1\. அருட்செல்வம் செல்வத்துள் செல்வம் பொருட்செல்வம்  
+பூரியார் கண்ணும் உள  
+The wealth of wealth is wealth of grace  
+Earthly wealth e'en the basest has.        241  
+</details>
+
 <details><summary>मूलम् - २४१</summary>
 
 अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्  
@@ -4431,6 +6361,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सन्मार्गेण परामृश्य भवितव्यं दयावता ।  
 सर्वशास्त्र परामर्शेदयैका साह्याकारिणी ॥ २४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४२</summary>
+
+2\. நல்லாற்றால் நாடி அருளாள்க பல்லாற்றால்  
+தேரினும் அஃதே துணை.  
+Seek by sound ways good compassion;  
+All faiths mark that for-salvation.        242  
 </details>
 
 <details><summary>मूलम् - २४२</summary>
@@ -4451,6 +6389,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ये वै दयाद्रहृदया वर्तन्ते सर्वजन्तुषु ॥ २४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २४३</summary>
+
+3\. அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த  
+இன்னா உலகம் புகல்.  
+The hearts of mercy shall not go  
+Into dark worlds of gruesome woe.        243  
+</details>
+
 <details><summary>मूलम् - २४३</summary>
 
 अरुळ्सेर्न्द नॆञ्जिनार्क् किल्लै इरुळ्सेर्न्द  
@@ -4467,6 +6413,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 रक्षणात् सर्वजन्तूनां दयायाश्च प्रदर्शनात् ।  
 नरो न लभते नूनं दुष्कर्म नरकप्रदम् ॥ २४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४४</summary>
+
+4\. மன்னுயிர் ஓம்பி அருளாள்வாற்கு இல்லென்ப  
+தன்னுயிர் அஞ்சும் வினை.  
+His soul is free from dread of sins  
+Whose mercy serveth all beings.        244  
 </details>
 
 <details><summary>मूलम् - २४४</summary>
@@ -4487,6 +6441,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निदर्शनं भवेदत्र लोकोऽयं प्राणिसङ्कुलः ॥ २४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २४५</summary>
+
+5\. அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்  
+மல்லல்மா ஞாலம் கரி  
+The wide wind-fed world witness bears:  
+Men of mercy meet not sorrows.        245  
+</details>
+
 <details><summary>मूलम् - २४५</summary>
 
 अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्  
@@ -4503,6 +6465,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जनाः प्राणिदयाहीनाः प्राणिनो हिंसयन्ति ये ।  
 धर्मत्यागागतं जन्मदुःखं नाद्यापि तैः स्मृतम् ॥ २४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४६</summary>
+
+6\. பொருள் நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி  
+அல்லவை செய்தொழுகு வார்  
+Who grace forsake and graceless act  
+The former loss and woes forget.        246  
 </details>
 
 <details><summary>मूलम् - २४६</summary>
@@ -4523,6 +6493,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परलोके न लभते दयाशून्यः सुखं तथा ॥ २४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २४७</summary>
+
+7\. அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு  
+இவ்வுலகம் இல்லாகி யாங்கு.  
+This world is not for weathless ones  
+That world is not for graceless swines.        247  
+</details>
+
 <details><summary>मूलम् - २४७</summary>
 
 अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु  
@@ -4539,6 +6517,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्कर्मणा दरिद्रोऽपि कदाचिद्धनिकः सुखी ।  
 निर्दयस्य कुतः सौख्यं न कदापि स वर्धते ॥ २४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४८</summary>
+
+8\. பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்  
+அற்றார்மற் றாதல் அரிது.  
+The wealthless may prosper one day;  
+The graceless never bloom agay.        248  
 </details>
 
 <details><summary>मूलम् - २४८</summary>
@@ -4559,6 +6545,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निर्दयः स्वकृताद्धर्मात्तथा न लभते फलम् ॥ २४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २४९</summary>
+
+9\. தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்  
+அருளாதான் செய்யும் அறம்  
+Like Truth twisted by confused mind  
+Wisdom is vain in hearts unkind.        249  
+</details>
+
 <details><summary>मूलम् - २४९</summary>
 
 तॆरुळादान् मॆय्प्पॊरुळ् कण्डट्राल् तेरिन्  
@@ -4575,6 +6569,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदा करुणया हीनो हिंसयेद्दुर्बलं तदा ।  
 स्वस्माद्वलीयसामग्रे चिन्तयेत् स्वभयस्थितिम् ॥ २५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २५०</summary>
+
+10\. வலியார்முன் தன்னை நினைக்கதான் தன்னின்  
+மெலியார்மேல் செல்லும் இடத்து.  
+Think how you feel before the strong  
+When to the feeble you do wrong.        250  
 </details>
 
 <details><summary>मूलम् - २५०</summary>
@@ -4597,6 +6599,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तन्मांसभक्षणपरः स दयावान् कथं भवेत् ॥ २५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २५१</summary>
+
+1\. தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான்  
+எங்ஙனம் ஆளும் அருள்  
+What graciousness can one command  
+who feeds his flesh by flesh gourmand.        251  
+</details>
+
 <details><summary>मूलम् - २५१</summary>
 
 तन्नून् पॆरुक्कऱ्‌कुत् तान्बिऱिदु ऊनुण्बान्  
@@ -4613,6 +6623,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धनस्यारक्षणान्मार्त्यो निर्धनो जायते यथा ।  
 तथा मांसशनपरो दयाहीनः प्रकीर्त्यते ॥ २५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २५२</summary>
+
+2\. பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சி  
+ஆங்கில்லை ஊன்தின் பவர்க்கு  
+The thriftless have no property  
+And flesh-eaters have no pity.        252  
 </details>
 
 <details><summary>मूलम् - २५२</summary>
@@ -4633,6 +6651,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 घातकस्यात्तश्स्त्रस्य चित्तवन्निर्दयं भवेत् ॥ २५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २५३</summary>
+
+3\. படைகொண்டார் நெஞ்சம்போல் நன்றூக்காது ஒன்றன்  
+உடல்சுவை உண்டார் மனம்.  
+Who wields a steel is steel-hearted  
+Who tastes body is hard-hearted.        253  
+</details>
+
 <details><summary>मूलम् - २५३</summary>
 
 पडैगॊण्डार् नॆञ्जम्बोल् नन्नूक्कादु ऒण्ड्रन्  
@@ -4649,6 +6675,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अहिंसैव दया प्रोक्ता हिंसेयमदया मता ।  
 प्राणिभांसाशनं लोके पापमाख्यायते ॥ २५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २५४</summary>
+
+4\. அருளல்லது யாதெனில் கொல்லாமை கோறல்  
+பொருளல்லது அவ்வூன் தினல்.  
+If merciless it is to kill,  
+To kill and eat is disgraceful.        254  
 </details>
 
 <details><summary>मूलम् - २५४</summary>
@@ -4669,6 +6703,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुर्लभा स्थितिरेव स्यात् नरकश्चापि जायते ॥ २५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २५५</summary>
+
+5\. உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண  
+அண்ணாத்தல் செய்யாது அளறு  
+Off with flesh; a life you save  
+The eater hell's mouth shall not waive!        255  
+</details>
+
 <details><summary>मूलम् - २५५</summary>
 
 उण्णामै उळ्ळदु उयिर्निलै ऊनुण्ण  
@@ -4685,6 +6727,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मांसार्थे न भवेत् प्राणि हिंसा चेदिह भूरिशः ।  
 धनार्थे नैव वर्तेरन् मांसविक्रयिणो नराः ॥ २५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २५६</summary>
+
+6\. தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்  
+விலைப்பொருட்டால் ஊன்தருவார் இல்  
+None would kill and sell the flesh  
+For eating it if they don't wish.        256  
 </details>
 
 <details><summary>मूलम् - २५६</summary>
@@ -4705,6 +6755,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 व्रणो हि प्राणिनां मांसमिति ज्ञानं भवेत् यतः ॥ २५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २५७</summary>
+
+7\. உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்  
+புண்ணது உணர்வார்ப் பெறின்  
+From eating flesh men must abstain  
+If they but feel the being's pain.        257  
+</details>
+
 <details><summary>मूलम् - २५७</summary>
 
 उण्णामै वेण्डुम् पुलाअल् पिऱिदॊण्ड्रन्  
@@ -4721,6 +6779,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निर्दुष्टज्ञान सम्पन्नास्त्रिदोषण विवर्जिताः ।  
 शरीरं प्राणरहितं शवं मत्वा न भुञ्जते ॥ २५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २५८</summary>
+
+8\. செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார்  
+உயிரின் தலைப்பிரிந்த ஊன்.  
+Whose mind from illusion is freed  
+Refuse on lifeless flesh to feed.        258  
 </details>
 
 <details><summary>मूलम् - २५८</summary>
@@ -4741,6 +6807,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मांसाहारपरित्यागाच्छ्रेपः फलमवाप्यते ॥ २५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २५९</summary>
+
+9\. அவிசொரிந் தாயிரம் வேட்டலின் ஒன்றன்  
+உயிர்செகுத் துண்ணாமை நன்று.  
+Not to-kill-and-eat, truly  
+Excels thousand pourings of ghee!        259  
+</details>
+
 <details><summary>मूलम् - २५९</summary>
 
 अविसॊरिन् दायिरम् वेट्टलिन् ऒण्ड्रन्  
@@ -4757,6 +6831,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्राणिहिंसा विरहितं विमुखं मांसभक्षणे ।  
 सर्वे देवा नराश्चैव विनमन्ति नरोत्तमम् ॥ २६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६०</summary>
+
+10\. கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி  
+எல்லா உயிரும் தொழும்  
+All lives shall lift their palms to him  
+Who eats not flesh nor kills with whim.        260  
 </details>
 
 <details><summary>मूलम् - २६०</summary>
@@ -4779,6 +6861,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखानुत्पादनं चेति तपोलक्षणमुच्यते ॥ २६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २६१</summary>
+
+1\. உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமை  
+அற்றே தவத்திற் குரு.  
+Pains endure; pain not beings  
+This is the type of true penance.        261  
+</details>
+
 <details><summary>मूलम् - २६१</summary>
 
 उट्रनोय् नोण्ड्रल् उयिर्क्कुऱुगण् सॆय्यामै  
@@ -4795,6 +6885,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जन्मान्तरतपोभ्यास शालिनो मनुजस्य तु ।  
 तपः स्यादत्र निर्विघ्नं विपरीते वृथाश्रमः ॥ २६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६२</summary>
+
+2\. தவமும் தவமுடையார்க்கு ஆகும் அவம் அதனை  
+அஃதிலார் மேற்கொள் வது.  
+Penance is fit for penitents  
+Not for him who in vain pretends.        262  
 </details>
 
 <details><summary>मूलम् - २६२</summary>
@@ -4815,6 +6913,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गृहस्थाः साह्यमिच्छन्तो निवृत्तास्तपसः किमु ॥ २६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २६३</summary>
+
+3\. துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்  
+மற்றை யவர்கள் தவம  
+Is it to true penitent's aid,  
+That others austere path avoid?        263  
+</details>
+
 <details><summary>मूलम् - २६३</summary>
 
 तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्  
@@ -4831,6 +6937,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 साधूनां सङ्ग्रहे दुष्टजनानां निग्रहेपि च ।  
 शक्तिःस्मरणमात्रेण महतां स्यात्तपोबलात् ॥ २६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६४</summary>
+
+4\. ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும்  
+எண்ணின் தவத்தான் வரும்  
+In penance lies the power to save  
+The friends and foil the foe and knave.        264  
 </details>
 
 <details><summary>मूलम् - २६४</summary>
@@ -4851,6 +6965,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लभ्यते हि गृहस्थेन तपः कर्तुमिह क्षणम् ॥ २६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २६५</summary>
+
+5\. வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம்  
+ஈண்டு முயலப் படும்  
+What they wish as they wish is won  
+Here hence by men penance is done.        265  
+</details>
+
 <details><summary>मूलम् - २६५</summary>
 
 वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्  
@@ -4867,6 +6989,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 क्रियते यैस्तपः कर्म कृतकृत्यास्त एव हि ।  
 आशापाशवशा हन्त क्लिश्यन्त इतरे जनाः ॥ २६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६६</summary>
+
+6\. தவஞ்செய்வார் தங்கமருமஞ் செய்வார்மற் றல்லார்  
+அவஞ்செய்வார் ஆசையுட் பட்டு  
+Who do penance achieve their aim  
+Others desire-rid themselves harm.        266  
 </details>
 
 <details><summary>मूलम् - २६६</summary>
@@ -4887,6 +7017,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तपः क्लेशितकायस्य ज्ञानं सम्यक् प्रकाशते ॥ २६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २६७</summary>
+
+7\. சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பஞ்  
+சுடக்சுட நோற்கிற் பவர்க்கு  
+Pure and bright gets the gold in fire;  
+and so the life by pain austere.        267  
+</details>
+
 <details><summary>मूलम् - २६७</summary>
 
 सुडच्चुडरुम् पॊन्बोल् ऒळिविडुम् तुन्बञ्  
@@ -4903,6 +7041,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पश्यन्तमात्मनाऽऽत्मानं तपस्यन्तं जितेन्द्रियम् ।  
 सर्वे नरा नमस्यन्ति बहुमानपुरस्सरम् ॥ २६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६८</summary>
+
+8\. தன்னுயிர் தான் அறப் பெற்றானை ஏனைய  
+மன்னுயி ரெல்லாம் தொழும்.  
+He worship wins from every soul  
+Who Master is by soul control.        268  
 </details>
 
 <details><summary>मूलम् - २६८</summary>
@@ -4923,6 +7069,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कालपाशविनिर्मुक्ताः प्राप्नुवन्ति परां गतिम् ॥ २६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २६९</summary>
+
+9\. கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்  
+ஆற்றல் தலைப்பட் டவர்க்கு.  
+They can even defy death  
+Who get by penance godly strength.        269  
+</details>
+
 <details><summary>मूलम् - २६९</summary>
 
 कूट्रम् कुदित्तलुम् कैगूडुम् नोट्रलिन्  
@@ -4939,6 +7093,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 बहवस्तपसा हीनाः, विरलास्तु तपस्विनः ।  
 धनिकास्तेन विरला इतरे बहवोऽभवन् ॥ २७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७०</summary>
+
+10\. இலர்பல ராகிய காரணம் நோற்பார்  
+சிலர்பலர் நோலா தவர்.  
+Many are poor and few are rich  
+For they care not for penance much.        270  
 </details>
 
 <details><summary>मूलम् - २७०</summary>
@@ -4961,6 +7123,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पञ्च भूतानि दृष्टवैव मन्दमन्तर्हसन्ति हि ॥ २७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २७१</summary>
+
+1\. வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்  
+ஐந்தும் அகத்தே நகும்.  
+Elements five of feigned life  
+Of a sly hypocrite within laugh.        271  
+</details>
+
 <details><summary>मूलम् - २७१</summary>
 
 वञ्ज मनत्तान् पडिट्रॊऴुक्कम् पूदङ्गळ्  
@@ -4977,6 +7147,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अकार्यमिति मत्वापि कुर्वतः पुनरेव तत् ।  
 आकाशेनेव महता तपोवेषेण किं फलम्? ॥ २७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७२</summary>
+
+2\. வானுயர் தோற்றம் எவன்செய்யும் தன்நெஞ்சம்  
+தான்அறி குற்றப் படின்  
+Of what avail are sky-high shows  
+When guild the conscience gnaws and knows.        272  
 </details>
 
 <details><summary>मूलम् - २७२</summary>
@@ -4997,6 +7175,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वुआघ्रचर्मवृत्तो घेनुः सस्यं चरति चेत्, तथा ॥ २७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २७३</summary>
+
+3\. வலியில் நிலைமையான் வல்லுருவம் பெற்றம்  
+புலியின்தோல் போர்த்துமேய்ந் தற்று.  
+Vaunting sainthood while weak within  
+Seems a grazer with tiger skin.        273  
+</details>
+
 <details><summary>मूलम् - २७३</summary>
 
 वलियिल् निलैमैयान् वल्लुरुवम् पॆट्रम्  
@@ -5013,6 +7199,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तपोवेषनिलीनेन परदारपरिग्रहः ।  
 गुल्मलीननिषादेन पक्षिग्रहणवद्भवेत् ॥ २७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७४</summary>
+
+4\. தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து  
+வேட்டுவன் புள்சிமிழ்த் தற்று.  
+Sinning in saintly show is like  
+Fowlers in ambush birds to strike.        274  
 </details>
 
 <details><summary>मूलम् - २७४</summary>
@@ -5033,6 +7227,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ''किं कृतं किं कृतं हे'' ति फलकाले स खिद्यते ॥ २७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २७५</summary>
+
+5\. பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று  
+ஏதம் பலவுந் தரும்.  
+Who false within but freedom feign  
+Shall moan "What have we done" with pain.        275  
+</details>
+
 <details><summary>मूलम् - २७५</summary>
 
 पट्रट्रेम् ऎन्बार् पडिट्रॊऴुक्कम् ऎट्रॆट्रॆण्ड्रु  
@@ -5049,6 +7251,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मनोवैराग्यमप्राप्य विरक्त इव यो नरः ।  
 वर्तते कपटाचारः कठिनो नास्ति तत्समः ॥ २७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७६</summary>
+
+6\. நெஞ்சில் துறவார் துறந்தார்போல் வஞ்சித்து  
+வாழ்வாரின் வன்கணார் இல்  
+Vilest is he who seems a saint  
+Cheating the world without restraint.        276  
 </details>
 
 <details><summary>मूलम् - २७६</summary>
@@ -5069,6 +7279,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अज्ञान मन्तरेतेर्षां गुञाग्रे श्यामता यथा ॥ २७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २७७</summary>
+
+7\. புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி  
+மூக்கிற் கரியார் உடைத்து  
+Berry-red is his outward view,  
+Black like its nose his inward hue.        277  
+</details>
+
 <details><summary>मूलम् - २७७</summary>
 
 पुऱङ्गुण्ड्रि कण्डनैय रेनुम् अगङ्गुण्ड्रि  
@@ -5085,6 +7303,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुष्टचित्तास्तपस्सिद्धा इव स्नानेन केवलम् ।  
 कपटाचारसञ्छन्ना वञ्चकाः सन्ति भूरिशः ॥ २७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७८</summary>
+
+8\. மனத்தது மாசாக மாண்டார்நீ ராடி  
+மறைந்தொழுகும் மாந்தர் பலர்.  
+Filthy in mind some bathe in streams  
+Hiding sins in showy extremes.        278  
 </details>
 
 <details><summary>मूलम् - २७८</summary>
@@ -5105,6 +7331,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मुनावपि तथा ज्ञेयं न वेषस्तत्र कारणम् ॥ २७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २७९</summary>
+
+9\. கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன  
+வினைபடு பாலால் கொளல்.  
+Know men by acts and not by forms  
+Strait arrow kills, bent lute but charms.        279  
+</details>
+
 <details><summary>मूलम् - २७९</summary>
 
 कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गन्न  
@@ -5121,6 +7355,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोकदूष्ये दुराचारस्त्यज्यतेचेत् तपस्विभिः ।  
 कुतो वा मुण्डनं तेषां जटाभारेण वा किमु ॥ २८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८०</summary>
+
+10\. மழித்தலும் நீட்டலும் வேண்டா உலகம்  
+பழித்தது ஒழித்து விடின்.  
+No balding nor tangling the hair!  
+Abstain from condemned acts with care.        280  
 </details>
 
 <details><summary>मूलम् - २८०</summary>
@@ -5143,6 +7385,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विना वस्त्वपहारेच्छां तेन रक्ष्यं सदा मनः ॥ २८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २८१</summary>
+
+1\. எள்ளாமை வேண்டுவான் என்பான் எனைத்தொன்றும்  
+கள்ளாமை காக்கதன் நெஞ்சு.  
+Let him who would reproachless be  
+From all frauds guard his conscience free.        281  
+</details>
+
 <details><summary>मूलम् - २८१</summary>
 
 ऎळ्ळामै वेण्डुवान् ऎन्बान् ऎनैत्तॊण्ड्रुम्  
@@ -5159,6 +7409,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निषिद्धस्मरणेनापि दोषः स्यादिति कथ्यते ।  
 अज्ञात्वैवापहर्तव्यमिति त्याज्या मतिस्ततः ॥ २८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८२</summary>
+
+2\. உள்ளத்தால் உள்ளலும் தீதே பிறன்பொருளைக்  
+கள்ளத்தால் கள்வேம் எனல்.  
+"We will by fraud win other's wealth"  
+Even this thought is sin and stealth.        282  
 </details>
 
 <details><summary>मूलम् - २८२</summary>
@@ -5179,6 +7437,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भूत्वा न्यायार्जितैर्वित्तैस्सह पश्चाद्विनश्यति ॥ २८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २८३</summary>
+
+3\. களவினால் ஆகிய ஆக்கம் அளவிறந்து  
+ஆவது போலக் கெடும்.  
+The gain by fraud may overflow  
+But swift to ruin it shall go.        283  
+</details>
+
 <details><summary>मूलम् - २८३</summary>
 
 कळविनाल् आगिय आक्कम् अळविऱन्दु  
@@ -5195,6 +7461,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चौर्येण परवस्तूनां प्रात्या जातो मनोरथः ।  
 पश्चात्कर्मेपरीपाके दद्यात् दुःखं हि शाश्वतम् ॥ २८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८४</summary>
+
+4\. களவின்கண் கன்றிய காதல் விளைவின்கண்  
+வீயா விழுமம் தரும்.  
+The fruit that fraud and greed obtain  
+Shall end in endless grief and pain.        284  
 </details>
 
 <details><summary>मूलम् - २८४</summary>
@@ -5215,6 +7489,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सर्व भूतदयायां स स्नेहयुक्तो न जायते ॥ २८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २८५</summary>
+
+5\. அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்  
+பொச்சாப்புப் பார்ப்பார்கண் இல்.  
+Love and Grace are not their worth  
+Who watch to waylay dozer's wealth.        285  
+</details>
+
 <details><summary>मूलम् - २८५</summary>
 
 अरुळ्गरुदि अन्बुडैय रादल् पॊरुळ्गरुदिप्  
@@ -5231,6 +7513,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ग्रे परद्रव्यचौर्येषु लम्पटाः सन्ति मानवाः ।  
 व्ययीकृत्य मितं वित्तं जीवन्ति न हि ते सुखम् ॥ २८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८६</summary>
+
+6\. அளவின்கண் நின்றொழுகல் ஆற்றார் களவின்கண்  
+கன்றிய காத லவர்  
+They cannot walk in measured bounds  
+who crave and have covetous ends.        286  
 </details>
 
 <details><summary>मूलम् - २८६</summary>
@@ -5251,6 +7541,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 चौर्य कारणमज्ञानं जायते न कदाचन ॥ २८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २८७</summary>
+
+7\. களவென்னும் காரறி வாண்மை அளவென்னும்  
+ஆற்றல் புரிந்தார்கண் இல்.  
+Men of measured wisdom shun  
+Black art of fraud and what it won.        287  
+</details>
+
 <details><summary>मूलम् - २८७</summary>
 
 कळवॆन्नुम् कारऱि वाण्मै अळवॆन्नुम्  
@@ -5267,6 +7565,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृततत्वविचारणां हृदये यतिधर्मवत् ।  
 अभ्यस्त चौर्य विद्यानां चित्ते स्याद्वञ्चना स्थिरा ॥ २८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८८</summary>
+
+8\. அளவறிந்தார் நெஞ்சத் தறம்போல் நிற்கும்  
+களவறிந்தார் நெஞ்சில் கரவு.  
+Virtue abides in righteous hearts  
+Into minds of frauds deceit darts.        288  
 </details>
 
 <details><summary>मूलम् - २८८</summary>
@@ -5287,6 +7593,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अकृत्यमधिकं कृत्वा सद्यो नश्यन्ति ते ध्रुवम् ॥ २८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २८९</summary>
+
+9\. அளவல்ல செய்தாங்கே வீவர் களவல்ல  
+மற்றைய தேற்றா தவர்.  
+They perish in their perfidy  
+Who know nothing but pilfery.        289  
+</details>
+
 <details><summary>मूलम् - २८९</summary>
 
 अळवल्ल सॆय्दाङ्गे वीवर् कळवल्ल  
@@ -5303,6 +7617,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जीवनं स्पष्टमाकृत्या चोराणामिह दुर्लभम् ।  
 चौर्यकर्मविहीनानां स्वर्गेऽपि सुलभायते ॥ २९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २९०</summary>
+
+10\. கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத்  
+தள்ளாது புத்தே ளுலகு  
+Even the body rejects thieves;  
+The honest men, heaven receives.        290  
 </details>
 
 <details><summary>मूलम् - २९०</summary>
@@ -5325,6 +7647,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखानुत्पादनं लोके सत्यलक्षणमुच्यते ॥ २९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २९१</summary>
+
+1\. வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்  
+தீமை இலாத சொலல்  
+If "What is truth"? the question be,  
+It is to speak out evil-free.        291  
+</details>
+
 <details><summary>मूलम् - २९१</summary>
 
 वाय्मै ऎनप्पडुवदु यादॆनिन् यादॊण्ड्रुम्  
@@ -5341,6 +7671,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असत्य वचनं चापि यदि स्यात् प्राणिनामिह ।  
 अनिन्दितोपकाराय तत् सत्यवचनं मतम् ॥ २९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २९२</summary>
+
+2\. பொய்ம்மையும் வாய்மை யிடத்த புரைதீர்ந்த  
+நன்மை பயக்கும் எனின்.  
+E'en falsehood may for truth suffice,  
+When good it brings removing vice.        292  
 </details>
 
 <details><summary>मूलम् - २९२</summary>
@@ -5361,6 +7699,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पश्चात्तप्तमना भूत्वा ततो दुःखं स विन्दति ॥ २९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २९३</summary>
+
+3\. தன்னெஞ் சறிவது பொய்யற்க பொய்த்தபின்  
+தன்னெஞ்சே தன்னைச் சுடும்.  
+Let not a man knowingly lie;  
+Conscience will scorch and make him sigh.        293  
+</details>
+
 <details><summary>मूलम् - २९३</summary>
 
 तन्नॆञ् जऱिवदु पॊय्यऱ्‌क पॊय्त्तबिन्  
@@ -5377,6 +7723,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्यमार्गेण गच्छन्तं तथा हृदयपूर्वकम् ।  
 कृत्वा मनसि सर्वेऽपि प्रशंसन्ति नरोत्तमाः ॥ २९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २९४</summary>
+
+4\. உள்ளத்தால் பொய்யா தொழுகின் உலகத்தார்  
+உள்ளத்து ளெல்லாம் உளன்.  
+He lives in loving hearts of all  
+Who serves the Truth serene in soul.        294  
 </details>
 
 <details><summary>मूलम् - २९४</summary>
@@ -5397,6 +7751,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तपोदानगुणाढ्येभ्यो नरेभ्योप्युत्तमः स्मृतः ॥ २९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २९५</summary>
+
+5\. மனத்தொடு வாய்மை மொழியின் தவத்தொடு  
+தானஞ்செய் வாரின் தலை.  
+To speak the truth from heart sincere  
+Is more than giving and living austere.        295  
+</details>
+
 <details><summary>मूलम् - २९५</summary>
 
 मनत्तॊडु वाय्मै मॊऴियिन् तवत्तॊडु  
@@ -5413,6 +7775,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 न सत्यवचनादन्यद्विद्यते कीर्तिवर्धकम् ।  
 कायक्लेशं विना वक्तुस्तत् स्वर्गमपि यच्छति ॥ २९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २९६</summary>
+
+6\. பொய்யாமை அன்ன புகழில்லை எய்யாமை  
+எல்லா அறமும் தரும்.  
+Not to lie brings all the praise  
+All virtues from Truth arise.        296  
 </details>
 
 <details><summary>मूलम् - २९६</summary>
@@ -5433,6 +7803,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 समेषामन्यधर्मणां त्यागोऽपि किल सम्मतः ॥ २९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २९७</summary>
+
+7\. பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிற  
+செய்யாமை செய்யாமை நன்று.  
+Lie not lie not. Naught else you need  
+All virtues are in Truth indeed.        297  
+</details>
+
 <details><summary>मूलम् - २९७</summary>
 
 पॊय्यामै पॊय्यामै आट्रिन् अऱम्बिऱ  
@@ -5449,6 +7827,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 बाह्यदेहस्य संशुद्धिः सलिले स्नानतो यथा ।  
 अन्तर्हृदयसंशुद्धिस्तथा स्यात् सत्यभाषणात् ॥ २९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २९८</summary>
+
+8\. புறந்தூய்மை நீரான் அமையும் அகந்தூய்மை  
+வாய்மையால் காணப் படும்.  
+Water makes you pure outward  
+Truth renders you pure inward.        298  
 </details>
 
 <details><summary>मूलम् - २९८</summary>
@@ -5469,6 +7855,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हृत्तमोनाशकं सत्यवचनं दीप उच्यते ॥ २९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - २९९</summary>
+
+9\. எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்  
+பொய்யா விளக்கே விளக்கு.  
+All lights are not lights for the wise;  
+Truth light is light bright like sun-light        299  
+</details>
+
 <details><summary>मूलम् - २९९</summary>
 
 ऎल्ला विळक्कुम् विळक्कल्ल साण्ड्रोर्क्कुप्  
@@ -5485,6 +7879,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्व शास्त्रपरामर्शादिदमेकं सुनिश्चितम् ।  
 यत् सत्यवचनादन्यो धर्मो नास्ति महीतले ॥ ३००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३००</summary>
+
+10\. யாமெய்யாக் கண்டவற்றுள் இல்லை எனைத்தொன்றும்  
+வாய்மையின் நல்ல பிற.  
+Of all the things we here have seen  
+Nothing surpasses Truth serene !        300  
 </details>
 
 <details><summary>मूलम् - ३००</summary>
@@ -5507,6 +7909,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शक्ते क्रोधं जयतु वा मा वा स विषयः परः ॥ ३०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३०१</summary>
+
+1\. செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்  
+காக்கின்என் காவாக்கால் என்  
+Anger against the weak is wrong  
+It is futile against the strong.        301  
+</details>
+
 <details><summary>मूलम् - ३०१</summary>
 
 सॆल्लिडत्तुक् काप्पान् सिनङ्गाप्पान् अल्लिडत्तुक्  
@@ -5523,6 +7933,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शक्तेषु कोपकरणात् दण्डदुःखमिहाश्नुते ।  
 अशक्ते कुपितो निन्दां पापं च लभते द्वयम् ॥ ३०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३०२</summary>
+
+2\. செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்  
+இல்அதனின் தீய பிற  
+Vain is wrath against men of force  
+Against the meek it is still worse.        302  
 </details>
 
 <details><summary>मूलम् - ३०२</summary>
@@ -5543,6 +7961,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्रोधाद्भवन्ति दुःखानां परिणामास्त्वनेकधा ॥ ३०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३०३</summary>
+
+3\. மறத்தல் வெகுளியை யார்மாட்டும் தீய  
+பிறத்தல் அதனான் வரும்  
+Off with wrath with any one.  
+It is the source of sin and pain.        303  
+</details>
+
 <details><summary>मूलम् - ३०३</summary>
 
 मऱत्तल् वॆगुळियै यार्माट्टुम् तीय  
@@ -5559,6 +7985,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मुखे विकसं मनसि तुष्टिं क्रोधो विनाशयेत् ।  
 तस्मात् क्रोधसमः शत्रुः को न्वस्ति भुवि देहिनाम्? ॥ ३०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३०४</summary>
+
+4\. நகையும் உவகையும் கொல்லும் சினத்தின்  
+பகையும் உளவோ பிற.  
+Is there a foe like harmful ire  
+Which kills the smile and joyful cheer?        304  
 </details>
 
 <details><summary>मूलम् - ३०४</summary>
@@ -5579,6 +8013,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्यथा शत्रु भूतोऽसौ नाशयेत् कोपशालिनम् ॥ ३०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३०५</summary>
+
+5\. தன்னைத்தான் காக்கின் சினம்காக்க காவாக்கால்  
+தன்னையே கொல்லும் சினம்.  
+Thyself to save, from wrath away!  
+If not thyself the wrath will slay.        305  
+</details>
+
 <details><summary>मूलम् - ३०५</summary>
 
 तन्नैत्तान् काक्किन् सिनङ्गाक्क कावाक्काल्  
@@ -5595,6 +8037,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आश्रयं नाशयेद्वह्निः कोपाग्नि स्वाश्रितैः सह ।  
 ज्ञानोपदेष्टन् दूरस्थान दहेन्नौकासमान् गुरून् ॥ ३०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३०६</summary>
+
+6\. சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும்  
+ஏமப் புணையைச் சுடும்.  
+Friend-killer is the fatal rage  
+It burns the helpful kinship-barge.        306  
 </details>
 
 <details><summary>मूलम् - ३०६</summary>
@@ -5615,6 +8065,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महीं ताडयते हस्त इव नृनं प्रबाध्यते ॥ ३०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३०७</summary>
+
+7\. சினத்தைப் பொருளென்று கொண்டவன் கேடு  
+நிலத்தறைந்தான் கைபிழையா தற்று.  
+The wrath-lover to doom is bound  
+Like failless-hand that strikes the ground.        307  
+</details>
+
 <details><summary>मूलम् - ३०७</summary>
 
 सिनत्तैप् पॊरुळॆण्ड्रु कॊण्डवन् केडु  
@@ -5631,6 +8089,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चण्डज्वालासमेताग्निदाहेन सदृशीं व्यथाम् ।  
 कुर्वत्यपि नरे क्रोधो न कार्यो यदि शक्यते ॥ ३०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३०८</summary>
+
+8\. இணர்எரி தோய்வன்ன இன்னா செயினும்  
+புணரின் வெகுளாமை நன்று.  
+Save thy soul from burning ire  
+Though tortured like the touch of fire.        308  
 </details>
 
 <details><summary>मूलम् - ३०८</summary>
@@ -5651,6 +8117,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वाञ्छिताः सम्पदः सर्वाः सद्य एवाप्नुवन्ति तम् ॥ ३०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३०९</summary>
+
+9\. உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்  
+உள்ளான் வெகுளி எனின்.  
+Wishes he gains as he wishes  
+If man refrains from rage vicious!        309  
+</details>
+
 <details><summary>मूलम् - ३०९</summary>
 
 उळ्ळिय तॆल्लाम् उडनॆय्दुम् उळ्ळत्ताल्  
@@ -5667,6 +8141,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नराः क्रोधवशं प्राप्ता मृतप्राया भवन्ति हि ।  
 जितक्रोधा नराः सर्वे मन्यन्ते योगिभिः समाः ॥ ३१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३१०</summary>
+
+10\. இறந்தார் இறந்தார் அனையர் சினத்தைத்  
+துறந்தார் துறந்தார் துணை.  
+Dead are they who are anger-fed  
+Saints are they from whom wrath has fled.        310  
 </details>
 
 <details><summary>मूलम् - ३१०</summary>
@@ -5689,6 +8171,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अपकारमतिं त्यक्त्वा लक्ष्ये जीवन्ति साधवः ॥ ३११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३११</summary>
+
+1\. சிறப்புஈனும் செல்வம் பெறினும் பிறர்க்குஇன்னா  
+செய்யாமை மாசற்றார் கோள்  
+The pure by faith mean pain to none  
+Though princely wealth by that is won.        311  
+</details>
+
 <details><summary>मूलम् - ३११</summary>
 
 सिऱप्पीनुम् सॆल्वम् पॆऱिनुम् पिऱर्क्कु इन्ना  
@@ -5705,6 +8195,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विरोधादपकर्तुश्च प्राप्तेऽपि समयान्तरे ।  
 अपकारमकृत्वैव लक्ष्ये तिष्ठन्ति साधवः ॥ ३१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३१२</summary>
+
+2\. கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்துஇன்னா  
+செய்யாமை மாசற்றார் கோள்.  
+The spotless hearts seek not revenge  
+Though Malice does the worst in rage.        312  
 </details>
 
 <details><summary>मूलम् - ३१२</summary>
@@ -5725,6 +8223,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अपकारो न कर्तव्योनो चेत् दुःखं स विन्दति ॥ ३१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३१३</summary>
+
+3\. செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின்  
+உய்யா விழுமம் தரும்.  
+Revenging even causeless hate  
+Bad-blood breeds and baneful heat.        313  
+</details>
+
 <details><summary>मूलम् - ३१३</summary>
 
 सॆय्यामल् सॆट्रार्क्कुम् इन्नाद सॆय्दबिन्  
@@ -5741,6 +8247,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उपकृत्यापि श्त्रूणा मुपकारापकारयोः ।  
 विस्मृतिः साधुभिर्दत्तं दण्डनं स्याद्विरोधिषु ॥ ३१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३१४</summary>
+
+4\. இன்னாசெய் தாரை ஒறுத்தல் அவர் நாண  
+நன்னயம் செய்து விடல்.  
+Doing good-turns, put them to shame  
+Thus chide the evil who do harm.        314  
 </details>
 
 <details><summary>मूलम् - ३१४</summary>
@@ -5761,6 +8275,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परान्न त्रायते तस्य तत्त्वज्ञानेन किं फलम्? ॥ ३१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३१५</summary>
+
+5\. அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்  
+தந்நோய்போல் போற்றாக் கடை.  
+What does a man from wisdom gain  
+If he pines not at other's pain?        315  
+</details>
+
 <details><summary>मूलम् - ३१५</summary>
 
 अऱिविनान् आगुव तुण्डो पिऱिदिन्नोय्  
@@ -5777,6 +8299,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''अनेन कर्मणा दुःखं प्राणिनां भविता ध्रुवम्'' ।  
 इति निर्धारितात् कार्यात् सर्वदा विरतो भवेत् ॥ ३१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३१६</summary>
+
+6\. இன்னா எனத்தான் உணர்ந்தவை துன்னாமை  
+வேண்டும் பிறன்கண் செயல்.  
+What you feel as 'pain' to yourself  
+Do it not to the other-self        316  
 </details>
 
 <details><summary>मूलम् - ३१६</summary>
@@ -5797,6 +8327,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बुद्धिपूर्वे न कर्तव्यं स धर्मः परमो मतः ॥ ३१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३१७</summary>
+
+7\. எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்  
+மாணாசெய் யாமை தலை.  
+Any, anywhere injure not  
+At any time even in thought.        317  
+</details>
+
 <details><summary>मूलम् - ३१७</summary>
 
 ऎनैत्तानुम् ऎञ्ञाण्ड्रुम् यार्क्कुम् मनत्तानाम्  
@@ -5813,6 +8351,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''ममेदं दुःखजनकम्''इति ज्ञात्वापि तादृशम् ।  
 प्राणिनामितरेषां च कुतो वा कुर्वते जनाः? ॥ ३१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३१८</summary>
+
+8\. தன்னுயிர்க்கு இன்னாமை தானறிவான் என்கொலோ  
+மன்னுயிர்க்கு இன்னா செயல்.  
+How can he injure other souls  
+Who in his life injury feels.        318  
 </details>
 
 <details><summary>मूलम् - ३१८</summary>
@@ -5833,6 +8379,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अपराह्णे तु दुःखानि स्वत एव भजन्ति तम् ॥ ३१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३१९</summary>
+
+9\. பிறர்க்குஇன்னா முற்பகல் செய்யின் தமக்குஇன்னா  
+பிற்பகல் தாமே வரும்.  
+Harm others in the forenoon  
+Harm seeks thee in afternoon.        319  
+</details>
+
 <details><summary>मूलम् - ३१९</summary>
 
 पिऱर्क्किन्ना मुऱ्‌पगल् सॆय्यिन् तमक्कु इन्ना  
@@ -5849,6 +8403,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परापकारो नो कार्यः निर्दुःखं वस्तुमिच्छता ।  
 परदुःखकरा एव दुःखवन्तो भवन्ति हि ॥ ३२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३२०</summary>
+
+10\. நோய்எல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்  
+நோயின்மை வேண்டு பவர்.  
+No harm is done by peace-lovers  
+For pains rebound on pain-givers.        320  
 </details>
 
 <details><summary>मूलम् - ३२०</summary>
@@ -5871,6 +8433,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हननात्प्राणिवर्गाणां सर्व पापफलं भवेत् ॥ ३२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३२१</summary>
+
+1\. அறவினை யாதெனில் கொல்லாமை கோறல்  
+பிறவினை எல்லாம் தரும்  
+What is Virtue? 'Tis not to kill  
+For killing causes every ill.        321  
+</details>
+
 <details><summary>मूलम् - ३२१</summary>
 
 अऱविनै यादॆनिन् कॊल्लामै कोऱल्  
@@ -5887,6 +8457,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लब्धं विभज्य भुक्त्वा तु यत्प्राणिपरिरक्षणम् ।  
 शास्त्रकारोक्त धर्मेषु प्रशस्तमिदमीर्यते ॥ ३२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३२२</summary>
+
+2\. பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்  
+தொகுத்தவற்றுள் எல்லாந் தலை.  
+Share the food and serve all lives  
+This is the law of all the laws.        322  
 </details>
 
 <details><summary>मूलम् - ३२२</summary>
@@ -5907,6 +8485,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विमृष्टे सत्यकथनं द्वितीयं स्थानमर्हति ॥ ३२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३२३</summary>
+
+3\. ஒன்றாக நல்லது கொல்லாமை மற்றுஅதன்  
+பின்சாரப் பொய்யாமை நன்று.  
+Not to kill is unique good  
+The next, not to utter falsehood.        323  
+</details>
+
 <details><summary>मूलम् - ३२३</summary>
 
 ऒण्ड्राग नल्लदु कॊल्लामै मट्रदन्  
@@ -5923,6 +8509,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अकृत्वा प्राणिनां हत्यां लक्ष्यमार्गे प्रवर्तनम् ।  
 मोक्षादिलोकजनकः सन्मार्ग इति मन्यते ॥ ३२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३२४</summary>
+
+4\. நல்லாறு எனப்படுவது யாதெனின் யாதொன்றும்  
+கொல்லாமை சூழும் நெறி.  
+What way is good? That we can say  
+The way away from heat to slay.        324  
 </details>
 
 <details><summary>मूलम् - ३२४</summary>
@@ -5943,6 +8537,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 संसारभीत्या संन्यास भाजिनोऽप्युत्तमो हि सः ॥ ३२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३२५</summary>
+
+5\. நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக்  
+கொல்லாமை சூழ்வான் தலை  
+Of saints who renounce birth-fearing  
+The head is he who dreads killing.        325  
+</details>
+
 <details><summary>मूलम् - ३२५</summary>
 
 निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्  
@@ -5959,6 +8561,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अवधाख्ये वरे धर्मे विद्यमानस्य शाश्वतम् ।  
 जीवितेऽग्रये कृतान्तोऽपि न विशेत् प्राणभक्षकः ॥ ३२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३२६</summary>
+
+6\. கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்  
+செல்லாது உயிருண்ணுங் கூற்று.  
+Life-eating-Death shall spare the breath  
+Of him who no life puts to death.        326  
 </details>
 
 <details><summary>मूलम् - ३२६</summary>
@@ -5979,6 +8589,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न कार्या प्राणिनां हत्या स्वात्मरक्षणमिच्छता ॥ ३२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३२७</summary>
+
+7\. தன்னுயிர் நீப்பினும் செய்யற்க தான்பிறிது  
+இன்னுயிர் நீக்கும் வினை.  
+Kill not life that others cherish  
+Even when your life must perish.        327  
+</details>
+
 <details><summary>मूलम् - ३२७</summary>
 
 तन्नुयिर् नीप्पिनुम् सॆय्यऱ्‌क तान्बिऱिदु  
@@ -5995,6 +8613,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जीवनां हत्यया श्रेष्ठं भाग्यं कामं भवेद् भॄशम् ।  
 वधमूलगातं भाग्यं सन्तः पश्यन्ति गार्हितम् ॥ ३२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३२८</summary>
+
+8\. நன்றாகும் ஆக்கம் பெரிதெனினும் சான்றோர்க்குக்  
+கொன்றாகும் ஆக்கம் கடை.  
+The gain of slaughter is a vice  
+Though deemed good in sacrifice.        328  
 </details>
 
 <details><summary>मूलम् - ३२८</summary>
@@ -6015,6 +8641,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुलीनानपि चण्डालसमान् पश्यन्ति कर्मणा ॥ ३२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३२९</summary>
+
+9\. கொலைவினைய ராகிய மாக்கள் புலைவினையர்  
+புன்மை தெரிவா ரகத்து.  
+Those who live by slaying are  
+Eaters of carrion bizarre!        329  
+</details>
+
 <details><summary>मूलम् - ३२९</summary>
 
 कॊलैविनैय रागिय माक्कळ् पुलैविनैयर्  
@@ -6031,6 +8665,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 रुग्णान् दरिद्रान् शास्त्रज्ञाः पश्यन्तो नीवजीवनान् ।  
 ᳚इमे जन्मान्तरे जघ्नुः प्राणा'' नित्येव जानते ॥ ३३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३३०</summary>
+
+10\. உயிர்உடம்பின் நீக்கியார் என்ப செயிர்உடம்பின்  
+செல்லாத்தீ வாழ்க்கை யவர்  
+The loathsome poor sickly and sore  
+Are killers stained by blood before        330  
 </details>
 
 <details><summary>मूलम् - ३३०</summary>
@@ -6053,6 +8695,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मन्दबुद्धिर्यदि भवेत् निन्दितं तस्य जीवितम् ॥ ३३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३३१</summary>
+
+1\. நில்லாத வற்றை நிலையின என்றுணரும்  
+புல்லறி வாண்மை கடை.  
+The worst of follies it is told  
+The fleeting as lasting to hold.        331  
+</details>
+
 <details><summary>मूलम् - ३३१</summary>
 
 निल्लाद वट्रै निलैयिन ऎण्ड्रुणरुम्  
@@ -6069,6 +8719,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आयान्ति सम्पदो लोका इव नाटकमन्दिरम् ।  
 निर्यान्ति सम्पदो लोका इवान्ते नाटकालयात् ॥ ३३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३३२</summary>
+
+2\. கூத்தாட்டு அவைக்குழாத் தற்றே பெருஞ்செல்வம்  
+போக்கும் அதுவிளிந் தற்று.  
+Like a drama-crowd wealth gathers  
+Like passing show its pride too goes.        332  
 </details>
 
 <details><summary>मूलम् - ३३२</summary>
@@ -6089,6 +8747,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सद्यस्तेन स्थिरा धर्माः कर्तव्या मोक्षमिच्छता ॥ ३३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३३३</summary>
+
+3\. அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால்  
+அற்குப ஆங்கே செயல்.  
+Wealth wanes away; but when it comes  
+Take care to do enduring things.        333  
+</details>
+
 <details><summary>मूलम् - ३३३</summary>
 
 अऱ्‌का इयल्बिट्रुच् चॆल्वम् अदुबॆट्राल्  
@@ -6105,6 +8771,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृपाणसदृशो भूत्वा दिवसः तत्त्ववित्तमान् ।  
 विशस्य क्रमशः काले क्षीणप्रणाण् करोत्यहो ॥ ३३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३३४</summary>
+
+4\. நாளென ஒன்றுபோல் காட்டி உயிர்ஈரும்  
+வாளது உணர்வார்ப் பெறின்  
+The showy day is but a saw  
+Your life, know that, to file and gnaw.        334  
 </details>
 
 <details><summary>मूलम् - ३३४</summary>
@@ -6125,6 +8799,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न भवेत्त्वरया पूर्वे मोक्षार्थे धर्ममाचरेत् ॥ ३३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३३५</summary>
+
+5\. நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை  
+மேற்சென்று செய்யப் படும்  
+Ere tongue benumbs and hiccough comes  
+Rise up to do good deeds betimes.        335  
+</details>
+
 <details><summary>मूलम् - ३३५</summary>
 
 नाच्चॆट्रु विक्कुळ्मेल् वारामुन् नल्विनै  
@@ -6141,6 +8823,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आसीत्पूर्वदिने कश्विदद्य सोऽयं मृतोऽभवत् ।  
 इत्यस्थिरत्वमाहात्म्य परीतं लोकजीवितम् ॥ ३३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३३६</summary>
+
+6\. நெருநல் உளனொருவன் இன்றில்லை என்னும்  
+பெருமை உடைத்துஇவ் வுலகு.  
+One was yesterday; not today!  
+The wonder of the world's way!        336  
 </details>
 
 <details><summary>मूलम् - ३३६</summary>
@@ -6161,6 +8851,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 चिन्तयन्ति परं नाना कोटिशो विषयान् वृथा ॥ ३३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३३७</summary>
+
+7\. ஒருபொழுதும் வாழ்வது அறியார் கருதுப  
+கோடியும் அல்ல பல.  
+Man knows not his next moment  
+On crores of things he is intent.        337  
+</details>
+
 <details><summary>मूलम् - ३३७</summary>
 
 ऒरुबॊऴुदुम् वाऴ्वदु अऱियार् करुदुब  
@@ -6177,6 +8875,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 द्विजे चाण्डं परित्यज्य व्योममार्गे गते सति ।  
 द्विजस्याण्डेन सम्बन्धो यः स स्याज्जीवदेहयोः ॥ ३३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३३८</summary>
+
+8\. குடம்பை தனித்துஒழியப் புள்பறந் தற்றே  
+உடம்போடு உயிரிடை நட்பு.  
+The soul from body any day  
+Like bird from egg-shell flies away.        338  
 </details>
 
 <details><summary>मूलम् - ३३८</summary>
@@ -6197,6 +8903,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पश्चात् प्रबोध तुल्यं स्यात् जीवस्य, जननं पुनः ॥ ३३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३३९</summary>
+
+9\. உறங்கு வதுபோலும் சாக்காடு உறங்கி  
+விழிப்பது போலும் பிறப்பு.  
+Death is like a slumber deep  
+And birth like waking from that sleep.        339  
+</details>
+
 <details><summary>मूलम् - ३३९</summary>
 
 उऱङ्गु वदुबोलुञ् जाक्काडु उऱङ्गि  
@@ -6213,6 +8927,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 रोगाधीनशरीरस्य कोणे जीवः स्थितोऽधिपैः ।  
 व्याधिभिर्हिसितोऽद्यापि किं न लेभे स्थिरं गृहम्? ॥ ३४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३४०</summary>
+
+10\. புக்கில் அமைந்தின்று கொல்லோ உடம்பினுள்  
+துச்சில் இருந்த உயிர்க்கு  
+The life berthed in this body shows  
+A fixed home it never knows.        340  
 </details>
 
 <details><summary>मूलम् - ३४०</summary>
@@ -6235,6 +8957,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्मात्तस्माद्वस्तुनः स न दुःखं लभते नरः ॥ ३४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३४१</summary>
+
+1\. யாதனின் யாதனின் நீங்கியான் நோதல்  
+அதனின் அதனின் இலன்  
+From what from what a man is free  
+From that, from that his torments flee.        341  
+</details>
+
 <details><summary>मूलम् - ३४१</summary>
 
 यादनिन् यादनिन् नीङ्गियान् नोदल्  
@@ -6251,6 +8981,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदीच्छसि सुखं वस्तुं सत्स्वेव वहुवस्तुषु ।  
 जहि तानि महत्सौख्यं तव तेन भवेदपि ॥ ३४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३४२</summary>
+
+2\. வேண்டின்உண் டாகத் துறக்க துறந்தபின்  
+ஈண்டுஇயற் பால பல  
+Give up all to gain the True  
+And endless joys shall hence seek you.        342  
 </details>
 
 <details><summary>मूलम् - ३४२</summary>
@@ -6271,6 +9009,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पश्चात्सर्वपदार्थेषु त्यागबुद्धिर्वरा मता ॥ ३४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३४३</summary>
+
+3\. அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்  
+வேண்டிய எல்லாம் ஒருங்கு  
+Curb the senses five and renounce  
+The craving desires all at once.        343  
+</details>
+
 <details><summary>मूलम् - ३४३</summary>
 
 अडल्वेण्डुम् ऐन्दन् पुलत्तै विडल्वेण्डुम्  
@@ -6287,6 +9033,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वसङ्गपरित्यागात् सुलभं वर्धते तपः ।  
 बन्धनाद्योग विभ्रष्टस्त्वज्ञानवशगो भवेत् ॥ ३४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३४४</summary>
+
+4\. இயல்பாகும் நோன்பிற்கொன்று இன்மை உடைமை  
+மயலாகும் மற்றும் பெயர்த்து.  
+To have nothing is law of vows  
+Having the least deludes and snares.        344  
 </details>
 
 <details><summary>मूलम् - ३४४</summary>
@@ -6307,6 +9061,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा सत्यन्यदेहेन कुतः सम्बन्धकल्पनम् ॥ ३४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३४५</summary>
+
+5\. மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல்  
+உற்றார்க்கு உடம்பும் மிகை  
+Why add to bonds while this body  
+Is too much for saints to be birth-free.        345  
+</details>
+
 <details><summary>मूलम् - ३४५</summary>
 
 मट्रुम् तॊडर्प्पाडु ऎवन्गॊल् पिऱप्पऱुक्कल्  
@@ -6323,6 +9085,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मेमेदमहमेवेति नानाज्ञान विवर्जिताः ।  
 प्राप्नुवन्ति मह्त्स्थानं देवनमपि दुर्लभम् ॥ ३४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३४६</summary>
+
+6\. யான்எனது என்னும் செருக்குஅறுப்பான் வானோர்க்கு  
+உயர்ந்த உலகம் புகும்  
+Who curbs the pride of I and mine  
+Gets a world rare for gods to gain.        346  
 </details>
 
 <details><summary>मूलम् - ३४६</summary>
@@ -6343,6 +9113,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखान्यपि न मुञ्चन्ति सर्वदा तं नराधमम् ॥ ३४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३४७</summary>
+
+7\. பற்றி விடாஅ இடும்பைகள் பற்றினைப்  
+பற்றி விடாஅ தவர்க்கு  
+Grief clings on and on to those  
+Who cling to bonds without release.        347  
+</details>
+
 <details><summary>मूलम् - ३४७</summary>
 
 पट्रि विडाअ इडुम्बैगळ् पट्रिनैप्  
@@ -6359,6 +9137,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उत्तमः स हि म्न्तव्यः सर्वे त्याजति यः क्षणे ।  
 अज्ञानवशमापन्ना भवन्ति मनुजाः परे ॥ ३४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३४८</summary>
+
+8\. தலைப்பட்டார் தீரத் துறந்தார் மயங்கி  
+வலைப்பட்டார் மற்றை யவர்  
+Who renounce all are free from care  
+Others suffer delusive snare.        348  
 </details>
 
 <details><summary>मूलम् - ३४८</summary>
@@ -6379,6 +9165,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्यथा जन्ममरण प्रवाहस्त्वनवस्थित्ः ॥ ३४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३४९</summary>
+
+9\. பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று  
+நிலையாமை காணப் படும்  
+Bondage cut off, rebirth is off  
+The world then seems instable stuff.        349  
+</details>
+
 <details><summary>मूलम् - ३४९</summary>
 
 पट्रट्र कण्णे पिऱप्पऱुक्कुम् मट्रु  
@@ -6395,6 +9189,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वबन्धविनिर्मुक्ते हरौ बध्नाति यो मनः ।  
 सर्वस्माद् बन्धनामुक्तिः स्वतस्तस्य भविष्यति ॥ ३५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३५०</summary>
+
+10\. பற்றுக பற்றற்றான் பற்றினை அப்பற்றைப்  
+பற்றுக பற்று விடற்கு  
+Bind Thyself to the unbound one  
+That binding breaks all bonds anon.        350  
 </details>
 
 <details><summary>मूलम् - ३५०</summary>
@@ -6417,6 +9219,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्यते जन्म चाज्ञानात् गर्हितं दुःखदायकम् ॥ ३५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३५१</summary>
+
+1\. பொருளல்ல வற்றைப் பொருளென்று உணரும்  
+மருளானாம் மாணாப் பிறப்பு.  
+That error entails ignoble birth  
+Which deems vain things as things of worth.        351  
+</details>
+
 <details><summary>मूलम् - ३५१</summary>
 
 पॊरुळल्ल वट्रैप् पॊरुळॆण्ड्रु उणरुम्  
@@ -6433,6 +9243,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अविद्यां समतिक्रम्य तत्त्वज्ञान निषेवणात् ।  
 जन्मदुःखमलब्ध्वैव प्राप्यते ब्रह्मणः पदम् ॥ ३५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३५२</summary>
+
+2\. இருள்நீங்கி இன்பம் பயக்கும் மருள் நீங்கி  
+மாசறு காட்சி யவர்க்கு  
+Men of spotless pure insight  
+Enjoy delight devoid of night.        352  
 </details>
 
 <details><summary>मूलम् - ३५२</summary>
@@ -6453,6 +9271,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भूलोकादपि दूरस्थमत्के स्याह्ब्रह्मणः पदम् ॥ ३५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३५३</summary>
+
+3\. ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்  
+வானம் நணிய துடைத்து  
+To doubtless minds whose heart is clear  
+More than earth heaven is near.        353  
+</details>
+
 <details><summary>मूलम् - ३५३</summary>
 
 ऐयत्तिन् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिन्  
@@ -6469,6 +9295,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 इन्द्रियाणीन्द्रियार्थेभ्यः नियम्य मनसो वशे ।  
 स्थापनेनापि किं कार्ये तत्त्वज्ञानं न चेद्भवेत् ॥ ३५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३५४</summary>
+
+4\. ஐயுணர்வு எய்தியக் கண்ணும் பயமின்றே  
+மெய்யுணர்வு இல்லா தவர்க்கு.  
+Knowledge of five senses is vain  
+Without knowing the Truth within.        354  
 </details>
 
 <details><summary>मूलम् - ३५४</summary>
@@ -6489,6 +9323,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विहाय तत्त्वतो ज्ञानं तत्त्वज्ञानमितीर्यते ॥ ३५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३५५</summary>
+
+5\. எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்  
+மெய்ப்பொருள் காண்பது அறிவு.  
+Knowledge is Truth of things to find  
+In every case of every kind.        355  
+</details>
+
 <details><summary>मूलम् - ३५५</summary>
 
 ऎप्पॊरुळ् ऎत्तन्मैत् तायिनुम् अप्पॊरुळ्  
@@ -6505,6 +9347,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अध्येतव्यं गुरुमुखादधीत्य बहुधा बहु ।  
 तत्त्वार्थज्ञान सम्पन्ना यान्ति मोक्षपथं स्थिरम् ॥ ३५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३५६</summary>
+
+6\. கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்  
+மற்றீண்டு வாரா நெறி  
+Who learn and here the Truth discern  
+Enter the path of non-return.        356  
 </details>
 
 <details><summary>मूलम् - ३५६</summary>
@@ -6525,6 +9375,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जन्मास्य पुनरस्तीति न मन्तव्यं कदाचन ॥ ३५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३५७</summary>
+
+7\. ஓர்த்துள்ளம் உள்ளது உணரின் ஒருதலையாப்  
+பேர்த்துள்ள வேண்டா பிறப்பு.  
+One-minded sage sees inner-truth  
+He is free from thoughts of rebirth.        357  
+</details>
+
 <details><summary>मूलम् - ३५७</summary>
 
 ओर्त्तुळ्ळम् उळ्ळदु उणरान् ऒरुदलैयाप्  
@@ -6541,6 +9399,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जन्मबाधाकराज्ञान मुक्तये मुक्तिदस्य तु ।  
 ब्रह्मणो दर्शनं यत्तु तत्त्वज्ञानं तदुच्यते ॥ ३५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३५८</summary>
+
+8\. பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்  
+செம்பொருள் காண்பது அறிவு.  
+It is knowledge to know Self-Truth  
+And remove the folly of birth.        358  
 </details>
 
 <details><summary>मूलम् - ३५८</summary>
@@ -6561,6 +9427,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जन्ममृत्युमयं दुःखं न जायेत कदाचन ॥ ३५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३५९</summary>
+
+9\. சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்  
+சார்தரா சார்தரு நோய்.  
+Know the Refuge; off with bondage  
+Be free from ills of thraldom, O sage.        359  
+</details>
+
 <details><summary>मूलम् - ३५९</summary>
 
 सार्बुणर्न्दु सार्बु कॆडऒऴुगिन् मट्रऴित्तुच्  
@@ -6577,6 +9451,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामः क्रोधस्तथाऽज्ञानमिति दोषास्त्रयो हृदि ।  
 नाम्नापि न भवेयुश्वेद्भवदुःखं विनश्यति ॥ ३६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३६०</summary>
+
+10\. காமம் வெகுளி மயக்கம் இவை மூன்றன்  
+நாமம் கெடக்கெடும் நோய்  
+Woes expire when lust, wrath, folly  
+Expire even to name, fully.        360  
 </details>
 
 <details><summary>मूलम् - ३६०</summary>
@@ -6599,6 +9481,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 संसारमय दुःखस्य बीजमाशेत्युदीर्यते ॥ ३६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३६१</summary>
+
+1\. அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும்  
+தவாஅப் பிறப்பீனும் வித்து.  
+Desire to all, always is seed  
+From which ceaseless births proceed.        361  
+</details>
+
 <details><summary>मूलम् - ३६१</summary>
 
 अवाऎन्ब ऎल्ला उयिर्क्कुम् ऎञ् ञाण्ड्रुम्  
@@ -6615,6 +9505,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लभ्यतां जन्मराहित्यं लब्धव्यं किञ्चिदस्ति चेत् ।  
 तदपि प्राप्यते सर्व वस्तुनैराश्य बुद्धितः ॥ ३६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३६२</summary>
+
+2\. வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது  
+வேண்டாமை வேண்ட வரும்.  
+If long thou must, long for non-birth  
+It comes by longing no more for earth.        362  
 </details>
 
 <details><summary>मूलम् - ३६२</summary>
@@ -6635,6 +9533,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोकान्तरेऽपि तत्तुल्यं वस्तु लब्धुं न शक्र्यते ॥ ३६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३६३</summary>
+
+3\. வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டில்லை  
+யாண்டும் அஃதொப்பது இல்.  
+No such wealth is here and there  
+As peerless wealth of non-desire.        363  
+</details>
+
 <details><summary>मूलम् - ३६३</summary>
 
 वेण्डामै अन्न विऴुच्चॆल्वम् ईण्डिल्लै  
@@ -6651,6 +9557,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आशाविरहितावस्था मोक्ष इत्युच्यते बुधैः ।  
 अवस्था सापि तत्त्वस्य ब्रह्मणो भजनाद्भवेत् ॥ ३६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३६४</summary>
+
+4\. தூஉய்மை என்பது அவாவின்மை மற்றது  
+வாஅய்மை வேண்ட வரும்  
+To nothing crave is purity  
+That is the fruit of verity.        364  
 </details>
 
 <details><summary>मूलम् - ३६४</summary>
@@ -6671,6 +9585,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आशायुतानां निःशेषं बन्धमुक्तिर्न जायते ॥ ३६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३६५</summary>
+
+5\. அற்றவர் என்பார் அவாஅற்றார் மற்றையார்  
+அற்றாக அற்றது இலர்  
+The free are those who desire not  
+The rest not free in bonds are caught.        365  
+</details>
+
 <details><summary>मूलम् - ३६५</summary>
 
 अट्रवर् ऎन्बार् अवाअट्रार् मट्रैयार्  
@@ -6687,6 +9609,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आशा समयमालक्ष्य पातयेत् जन्मबन्धने ।  
 निराशारक्षणं तस्माच्छ्रेष्ठो धर्मः प्रगीयते ॥ ३६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३६६</summary>
+
+6\. அஞ்சுவ தோரும் அறனே ஒருவனை  
+வஞ்சிப்ப தோரும் அவா  
+Dread desire; Virtue is there  
+To every soul desire is snare!        366  
 </details>
 
 <details><summary>मूलम् - ३६६</summary>
@@ -6707,6 +9637,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लभ्यते जन्मराहित्यं सर्वो धर्मः कृतो भवेत् ॥ ३६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३६७</summary>
+
+7\. அவாவினை ஆற்ற அறுப்பின் தவாவினை  
+தான்வேண்டு மாற்றான் வரும்  
+Destroy desire; deliverance  
+Comes as much as you aspire hence.        367  
+</details>
+
 <details><summary>मूलम् - ३६७</summary>
 
 अवाविनै आट्र अऱुप्पिन् तवाविनै  
@@ -6723,6 +9661,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निराशानां कुतो दुःखम्, आशापाशवशात्मनाम् ।  
 उपर्युपरि दुःखानि समयान्ति निरर्गेलम् ॥ ३६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३६८</summary>
+
+8\. அவாஇல்லார்க் கில்லாகுந் துன்பம் அஃதுண்டேல்  
+தவாஅது மேன்மேல் வரும்.  
+Desire extinct no sorrow-taints  
+Grief comes on grief where it pretends.        368  
 </details>
 
 <details><summary>मूलम् - ३६८</summary>
@@ -6743,6 +9689,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न परं ब्रह्मणो लोके, सुखमत्रापि शाश्वतम् ॥ ३६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३६९</summary>
+
+9\. இன்பம் இடையறா தீண்டும் அவாவென்னும்  
+துன்பத்துள் துன்பம் கெடின்.  
+Desire, the woe of woes destroy  
+Joy of joys here you enjoy.        369  
+</details>
+
 <details><summary>मूलम् - ३६९</summary>
 
 इन्बम् इडैयऱा तीण्डुम् अवावॆन्नुम्  
@@ -6759,6 +9713,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सदा दवीयसीमाशां यो वै जयति सर्वदा ।  
 निर्विकारां तथा नित्यं मुक्तिं सद्यः स विन्दति ॥ ३७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३७०</summary>
+
+10\. ஆரா இயற்கை அவாநீப்பின் அந்நிலையே  
+பேரா இயற்கை தரும்.  
+Off with desire insatiate  
+You gain the native blissful state.        370  
 </details>
 
 <details><summary>मूलम् - ३७०</summary>
@@ -6783,6 +9745,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आलस्यं जायते तस्मिन्नर्थ नाशककर्मणा ॥ ३७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३७१</summary>
+
+1\. ஆகூழால் தோன்றும் அசைவின்மை கைப்பொருள்  
+போகூழால் தோன்றும் மடி  
+Efforts succeed by waxing star  
+Wealth-losing brings waning star.        371  
+</details>
+
 <details><summary>मूलम् - ३७१</summary>
 
 आगूऴाल् तोण्ड्रुम् असैविन्मै कैप्पॊरुळ्  
@@ -6799,6 +9769,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विदुषोऽपि भवेन्मौढ्यं अर्थनाशककर्मणा ।  
 मूढस्यापि भवेज्ज्ञान मर्थप्रापककर्मणा ॥ ३७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३७२</summary>
+
+2\. பேதைப் படுக்கும் இழவூழ் அறிவகற்றும்  
+ஆகலூழ் உற்றக் கடை  
+Loss-fate makes a dull fool of us  
+Gain-fate makes us prosperous, wise!        372  
 </details>
 
 <details><summary>मूलम् - ३७२</summary>
@@ -6819,6 +9797,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदेव समयं प्राप्य तत्त्वज्ञानं विनाशयेत् ॥ ३७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३७३</summary>
+
+3\. நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன்  
+உண்மை அறிவே மிகும்  
+What matters subtle study deep?  
+Levels of innate wisdom-keep.        373  
+</details>
+
 <details><summary>मूलम् - ३७३</summary>
 
 नुण्णिय नूल्बल कऱ्‌पिनुम् मट्रुन्दन्  
@@ -6835,6 +9821,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 एको भवति वित्ताढ्यो विद्यया सहितोऽपरः ।  
 कारणं विधिरेवात्र स्वभावो लोकसम्मतः ॥ ३७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३७४</summary>
+
+4\. இருவேறு உலகத்து இயற்கை திருவேறு  
+தெள்ளிய ராதலும் வேறு  
+Two natures in the world obtain  
+Some wealth and others wisdom gain.        374  
 </details>
 
 <details><summary>मूलम् - ३७४</summary>
@@ -6855,6 +9849,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कालेऽपि तन्न लभ्येत विपरीते विधौ सति ॥ ३७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३७५</summary>
+
+5\. நல்லவை எல்லாஅந் தீயவாம் தீயவும்  
+நல்லவாம் செல்வம் செயற்கு.  
+In making wealth fate changes mood;  
+The good as bad and bad as good.        375  
+</details>
+
 <details><summary>मूलम् - ३७५</summary>
 
 नल्लवै ऎल्लाअन् दीयवाम् तीयवुम्  
@@ -6871,6 +9873,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सुरक्षितमपि भ्रश्येत् विधिमूलमनागतम् ।  
 अरक्षितं च तित्तिष्ठे द्विधिमूलं यदागतम् ॥ ३७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३७६</summary>
+
+6\. பரியினும் ஆகாவாம் பாலல்ல உய்த்துச்  
+சொரியினும் போகா தம.  
+Things not thine never remain  
+Things destined are surely thine.        376  
 </details>
 
 <details><summary>मूलम् - ३७६</summary>
@@ -6891,6 +9901,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विधिना यावदाप्नोति भोक्तुं नालं ततोऽधिकम् ॥ ३७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३७७</summary>
+
+7\. வகுத்தான் வகுத்த வகையல்லால் கோடி  
+தொகுத்தார்க்கும் துய்த்தல் அரிது.  
+Who crores amass enjoy but what  
+The Dispenser's decrees allot.        377  
+</details>
+
 <details><summary>मूलम् - ३७७</summary>
 
 वगुत्तान् वगुत्त वगैयल्लाल् कोडि  
@@ -6907,6 +9925,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुष्कर्मवशमापन्ना महाभाग्यात् स्थितादपि ।  
 नराः सुखं न विन्दन्ति संन्यासं प्राप्नुवन्ति च ॥ ३७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३७८</summary>
+
+8\. துறப்பார்மன் துப்புர வில்லார் உறற்பால  
+ஊட்டா கழியும் எனின்.  
+The destitute desire will quit  
+If fate with ills visit them not.        378  
 </details>
 
 <details><summary>मूलम् - ३७८</summary>
@@ -6927,6 +9953,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अशुभे तु समायाते वृथा शोचसि तत् कुतः? ॥ ३७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३७९</summary>
+
+9\. நன்றாங்கால் நல்லவாக் காண்பவர் அன்றாங்கால்  
+அல்லற் படுவ தெவன்  
+Who good in time of good perceive  
+In evil time why should they grieve?        379  
+</details>
+
 <details><summary>मूलम् - ३७९</summary>
 
 नण्ड्राङ्गाल् नल्लवाक् काण्बवर् अण्ड्राङ्गाल्  
@@ -6943,6 +9977,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विधिना तु समं वस्तु बलवन्नेह विद्यते ।  
 विनाश्य मानुषं यत्नं विधिरेव जयेत् सदा ॥ ३८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३८०</summary>
+
+10\. ஊழிற் பெருவலி யாவுள மற்றொன்று  
+சூழினும் தான்முந் துறும்.  
+What power surpasses fate? Its will  
+Persists against the human skill.        380  
 </details>
 
 <details><summary>मूलम् - ३८०</summary>
@@ -6973,6 +10015,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अङ्गः समन्वितो राजा राजसिंह इतीर्यते ॥ ३८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३८१</summary>
+
+1\. படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும்  
+உடையான் அரசருள் ஏறு.  
+People, troops, wealth, forts, council, friends  
+Who owns these six is lion of kings.        381  
+</details>
+
 <details><summary>मूलम् - ३८१</summary>
 
 पडैगुडि कूऴ्अमैच्चु नट्परण् आऱुम्  
@@ -6989,6 +10039,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दातृत्वं ज्ञानसम्पत्तिः उत्साहो धीरता तथा ।  
 गुणैरेतैश्चतुर्भिर्यो नित्ययुक्तः स पार्थिवः ॥ ३८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३८२</summary>
+
+2\. அஞ்சாமை ஈகை அறிவூக்கம் இந்நான்கும்  
+எஞ்சாமை வேந்தர்க் கியல்பு.  
+Courage, giving, knowledge and zeal  
+Are four failless features royal.        382  
 </details>
 
 <details><summary>मूलम् - ३८२</summary>
@@ -7009,6 +10067,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 राज्यभारनियुक्तानां राज्ञां स्वाभाविका मताः ॥ ३८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३८३</summary>
+
+3\. தூங்காமை கல்வி துணிவுடைமை இம்மூன்றும்  
+நீங்கா நிலனாள் பவர்க்கு.  
+Alertness, learning, bravery  
+Are adjuncts three of monarchy.        383  
+</details>
+
 <details><summary>मूलम् - ३८३</summary>
 
 तूङ्गामै कल्वि तुणिवुडैमै इम्मूण्ड्रुम्  
@@ -7025,6 +10091,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अधर्मेन्मूलनं स्वीयधर्माचरणशीलता ।  
 दुरहङ्कारराहित्यं त्रितयं नृपलक्षणम् ॥ ३८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३८४</summary>
+
+4\. அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா  
+மானம் உடைய தரசு.  
+A brave noble king refrains from vice  
+Full of virtue and enterprise.        384  
 </details>
 
 <details><summary>मूलम् - ३८४</summary>
@@ -7045,6 +10119,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रक्षितं च यथाशास्त्रं दद्यात् पात्रेषु भूमिप ॥ ३८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३८५</summary>
+
+5\. இயற்றலும் ஈட்டலும் காத்தலும் காத்த  
+வகுத்தலும் வல்ல தரசு.  
+The able king gets, stores and guards  
+And spends them for people's safeguards.        385  
+</details>
+
 <details><summary>मूलम् - ३८५</summary>
 
 इयट्रलुम् ईट्टलुङ् गात्तलुम् कात्त  
@@ -7061,6 +10143,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विमुखः क्रूरवाक्यानां राजा सुलभदर्शनः ।  
 यो भवेत् तस्य साम्राज्यं सर्वश्लाघ्यं भविष्यति ॥ ३८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३८६</summary>
+
+6\. காட்சிக் கெளியன் கடுஞ்சொல்லன் அல்லனேல்  
+மீக்கூறும் மன்னன் நிலம்.  
+That land prospers where the king is  
+Easy to see, not harsh of words.        386  
 </details>
 
 <details><summary>मूलम् - ३८६</summary>
@@ -7081,6 +10171,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्य राज्ञः स्थिरं कीर्तिमर्थाश्च वितरेन्मही ॥ ३८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३८७</summary>
+
+7\. இன்சொலால் ஈத்தளிக்க வல்லார்க்குத் தன்சொலால்  
+தான்கண் டனைத்திவ் வுலகு.  
+The world commends and acts his phrase  
+Who sweetly speaks and gives with grace.        387  
+</details>
+
 <details><summary>मूलम् - ३८७</summary>
 
 इन्सॊलाल् ईत्तळिक्क वल्लार्क्कुत् तन्सॊलाल्  
@@ -7097,6 +10195,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धर्मनीत्यनुसारेण पालयन् सकलाः प्रजाः ।  
 पार्थिवः श्लेघ्यते सर्वैः जगतां पतिरित्यसौ ॥ ३८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३८८</summary>
+
+8\. முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்கு  
+இறையென்று வைக்கப் படும்.  
+He is the Lord of men who does  
+Sound justice and saves his race.        388  
 </details>
 
 <details><summary>मूलम् - ३८८</summary>
@@ -7117,6 +10223,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 श्रुत्वा यः सहते राजा तिष्ठेत्तस्य वशे मही ॥ ३८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३८९</summary>
+
+9\. செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்  
+கவிகைக்கீழ்த் தங்கும் உலகு  
+Under his shelter thrives the world  
+Who bears remarks bitter and bold.        389  
+</details>
+
 <details><summary>मूलम् - ३८९</summary>
 
 सॆविगैप्पच् चॊऱ्‌पॊऱुक्कुम् पण्बुडै वेन्दन्  
@@ -7133,6 +10247,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दानं दया दण्डनीतिः दीनरक्षेति सद्गुणैः ।  
 चतुर्भिः सङ्गतो भूपो दीपवत् स्यान्महीक्षिताम् ॥ ३९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३९०</summary>
+
+10\. கொடையளி செங்கோல் குடியோம்பல் நான்கும்  
+உடையானாம் வேந்தர்க் கொளி.  
+He is the Light of Kings who has  
+Bounty, justice, care and grace.        390  
 </details>
 
 <details><summary>मूलम् - ३९०</summary>
@@ -7155,6 +10277,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अधीतग्रन्थदृष्टेन्न पथा युक्तं प्रवर्तनम् ॥ ३९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३९१</summary>
+
+1\. கற்க கசடறக் கற்பவை கற்றபின்  
+நிற்க அதற்குத் தக.  
+Lore worth learning, learn flawlessly  
+Live by that learning thoroughly.        391  
+</details>
+
 <details><summary>मूलम् - ३९१</summary>
 
 कऱ्‌क कसडऱक् कऱ्‌पवै कट्रबिन्  
@@ -7171,6 +10301,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 न्यायव्याकरणाख्ये द्वे शास्त्रे मुख्ये नृणामिह ।  
 उभे हि चक्षुषी स्यातामिति सद्भिरुदीर्यते ॥ ३९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३९२</summary>
+
+2\. எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்  
+கண்ணென்ப வாழும் உயிர்க்கு.  
+Letter, number, art and science  
+Of living kind both are the eyes.        392  
 </details>
 
 <details><summary>मूलम् - ३९२</summary>
@@ -7191,6 +10329,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतरेषामुभे नेत्रे व्रणे स्यातां मुखोत्थिते ॥ ३९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३९३</summary>
+
+3\. கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு  
+புண்ணுடையர் கல்லா தவர்.  
+The learned alone have eyes on face  
+The ignorant two sores of disgrace.        393  
+</details>
+
 <details><summary>मूलम् - ३९३</summary>
 
 कण्णुडैयर् ऎन्बवर् कट्रोर् मुगत्तिरण्डु  
@@ -7207,6 +10353,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यत्सङ्गन जनास्तुष्टाः भवेयुः, सङ्गमं पुनः ।  
 वियोगकाले वाञ्छेयुः स भवेत्पण्डितोत्तमः ॥ ३९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३९४</summary>
+
+4\. உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்  
+அனைத்தே புலவர் தொழில்  
+To meet with joy and part with thought  
+Of learned men this is the art.        394  
 </details>
 
 <details><summary>मूलम् - ३९४</summary>
@@ -7227,6 +10381,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भूत्वा पठन्ति ये नित्यं शिष्टास्ते निन्दिताः परे ॥ ३९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३९५</summary>
+
+5\. உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்  
+கடையரே கல்லா தவர்  
+Like poor before rich they yearn:  
+For knowledge: the low never learn.        395  
+</details>
+
 <details><summary>मूलम् - ३९५</summary>
 
 उडैयार्मुन् इल्लार्बोल् एक्कट्रुङ् गट्रार्  
@@ -7243,6 +10405,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विद्यभ्यासानुसारेण नृणां ज्ञानां प्रवर्धते ।  
 खननानुगुणं तोयं वर्धते सैकते यथा ॥ ३९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३९६</summary>
+
+6\. தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்  
+கற்றனைத் தூறும் அறிவு.  
+As deep you dig the sand spring flows  
+As deep you learn the knowledge grows.        396  
 </details>
 
 <details><summary>मूलम् - ३९६</summary>
@@ -7263,6 +10433,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा सति कुतः कैश्चित् विद्या नाधीयते सदा ॥ ३९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३९७</summary>
+
+7\. யாதானும் நாடாமால் ஊராமால் என்னொருவன்  
+சாந்துணையுங் கல்லாத வாறு.  
+All lands and towns are learner's own  
+Why not till death learning go on!        397  
+</details>
+
 <details><summary>मूलम् - ३९७</summary>
 
 यादानुम् नाडामाल् ऊरामाल् ऎन्नॊरुवन्  
@@ -7279,6 +10457,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 एकजन्मन्यधिगता विद्या नृनं हि केनचित् ।  
 सप्तजन्मस्वनुगता तस्य साह्यकरी भवेत् ॥ ३९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३९८</summary>
+
+8\. ஒருமைக்கண் தான்கற்ற கல்வி ஒருவற்கு  
+எழுமையும் ஏமாப் புடைத்து  
+The joy of learning in one birth  
+Exalts man upto his seventh.        398  
 </details>
 
 <details><summary>मूलम् - ३९८</summary>
@@ -7299,6 +10485,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आनन्ददात्रीं विज्ञाय तां प्राज्ञा बहुकुर्वते ॥ ३९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ३९९</summary>
+
+9\. தாமின் புறுவது உலகின் புறக்கண்டு  
+காமுறுவர் கற்றறிந் தார்.  
+The learned foster learning more  
+On seeing the world enjoy their lore.        399  
+</details>
+
 <details><summary>मूलम् - ३९९</summary>
 
 तामिन् पुऱुवदु उलगिन् पुऱक् कण्डु  
@@ -7315,6 +10509,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विद्याधनं स्थिरं श्रेष्ठमेकमेव धनं भवेत् ।  
 धनान्यन्यान्यस्थिराणि वस्तुतो न धनानि हि ॥ ४००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४००</summary>
+
+10\. கேடில் விழுச்செல்வம் கல்வி ஒருவற்கு  
+மாடல்ல மற்றை யவை.  
+Learning is wealth none could destroy  
+Nothing else gives genuine joy.        400  
 </details>
 
 <details><summary>मूलम् - ४००</summary>
@@ -7337,6 +10539,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विना रङ्गस्थलीमक्षप्रयोक्त्रा स भवेत् समः ॥ ४०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४०१</summary>
+
+1\. அரங்கின்றி வட்டாடி யற்றே நிரம்பிய  
+நூலின்றிக் கோட்டி கொளல்.  
+Like play of chess on squareless board  
+Vain is imperfect loreless word.        401  
+</details>
+
 <details><summary>मूलम् - ४०१</summary>
 
 अरङ्गिण्ड्रि वट्टाडि यट्रे निरम्बिय  
@@ -7353,6 +10563,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अपण्डितस्य विदुषां पुरतो भाषणे मतिः ।  
 नार्यः कुचाभ्यां हीनायाः स्त्रीत्वकाङ्क्षेव निष्फला ॥ ४०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४०२</summary>
+
+2\. கல்லாதான் சொற்கா முறுதல் முலையிரண்டும்  
+இல்லாதாள் பெண்காமுற் றற்று.  
+Unlearned man aspiring speech  
+Is breastless lady's love-approach.        402  
 </details>
 
 <details><summary>मूलम् - ४०२</summary>
@@ -7373,6 +10591,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मौनमालम्ब्य तिष्ठन्तः भजन्ते नोपहास्याताम् ॥ ४०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४०३</summary>
+
+3\. கல்லா தவரும் நனிநல்லர் கற்றார்முன்  
+சொல்லா திருக்கப் பெறின்.  
+Ev'n unread men are good and wise  
+If before the wise, they hold their peace.        403  
+</details>
+
 <details><summary>मूलम् - ४०३</summary>
 
 कल्ला तवरुम् ननिनल्लर् कट्रार्मुन्  
@@ -7389,6 +10615,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विद्याभ्यासं विना ज्ञानं विन्दते स्वयमेव यः ।  
 निर्दुष्टमपि तद् ज्ञानं न श्र्लाघन्ते बुधोत्तमाः ॥ ४०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४०४</summary>
+
+4\. கல்லாதான் ஓட்பம் கழியநன் றாயினும்  
+கொள்ளார் அறிவுடை யார்.  
+The unread's wit though excellent  
+Is not valued by the savant.        404  
 </details>
 
 <details><summary>मूलम् - ४०४</summary>
@@ -7409,6 +10643,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बुधैर्भाषणवेळायां स्वयं विलयमेष्यति ॥ ४०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४०५</summary>
+
+5\. கல்லா ஒருவன் தகைமை தலைப்பெய்து  
+சொல்லாடச் சோர்வு படும்.  
+A man untaught when speech he vaunts  
+Sadly fails before savants.        405  
+</details>
+
 <details><summary>मूलम् - ४०५</summary>
 
 कल्ला ऒरुवन् तगैमै तलैप्पॆय्दु  
@@ -7425,6 +10667,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ऊषरक्षेत्रसदृशा विद्याहीना नरा भुवि ।  
 केवलं जनिमन्तस्ते न तेषां सत्तया फलम् ॥ ४०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४०६</summary>
+
+6\. உளரென்னும் மாத்திரையர் அல்லால் பயவாக்  
+களரனையர் கல்லா தவர்.  
+People speak of untaught minds  
+"They just exist like barren lands".        406  
 </details>
 
 <details><summary>मूलम् - ४०६</summary>
@@ -7445,6 +10695,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 किं वा प्रयोजनं नृणां मृण्मयी प्रतिमैव ते ॥ ४०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४०७</summary>
+
+7\. நுண்மாண் நுழைபுலம் இல்லான் எழில்நலம்  
+மண்மாண் புனைபாவை யற்று  
+Like painted clay-doll is his show  
+Grand subtle lore who fails to know.        407  
+</details>
+
 <details><summary>मूलम् - ४०७</summary>
 
 नुण्माण् नुऴैबुलम् इल्लान् ऎऴिल्नलम्  
@@ -7461,6 +10719,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पण्डिताश्रितदारिद्र्यात् नितरां खेददायिनी ।  
 भवेन्मूढाश्रिता सम्पत् नात्र कार्या विचारणा ॥ ४०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४०८</summary>
+
+8\. நல்லார்கண் பட்ட வறுமையின் இன்னாதே  
+கல்லார்கண் பட்ட திரு  
+Wealth in the hand of fools is worse  
+Than a learned man's empty purse.        408  
 </details>
 
 <details><summary>मूलम् - ४०८</summary>
@@ -7481,6 +10747,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महिम्ना नाधिरोहन्ति ते तुलां बुधसत्तमैः ॥ ४०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४०९</summary>
+
+9\. மேற்பிறந்தா ராயினும் கல்லாதார் கீழ்ப்பிறந்தும்  
+கற்றார் அனைத்திலர் பாடு.  
+Lower are fools of higher birth  
+Than low-born men of learning's worth.        409  
+</details>
+
 <details><summary>मूलम् - ४०९</summary>
 
 मेऱ्‌पिऱन्दा रायिनुम् कल्लादार् कीऴ्प्पिऱन्दुम्  
@@ -7497,6 +10771,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मृगाणां मानवानां च यथास्ति महदन्तरम् ।  
 तथा विद्याविहीनानां सतां च ग्रन्थसेविनाम् ॥ ४१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४१०</summary>
+
+10\. விலங்கொடு மக்கள் அனையர் இலங்குநூல்  
+கற்றாரோடு ஏனை யவர்.  
+Like beasts before men, dunces are  
+Before scholars of shining lore.        410  
 </details>
 
 <details><summary>मूलम् - ४१०</summary>
@@ -7519,6 +10801,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्सु वित्तेषु बहुषु मुख्यमेतद्विभाव्यते ॥ ४११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४११</summary>
+
+1\. செல்வத்துள் செல்வஞ் செவிச்செல்வம் அச்செல்வம்  
+செல்வத்து ளெல்லாந் தலை.  
+Wealth of wealths is listening's wealth  
+It is the best of wealths on earth.        411  
+</details>
+
 <details><summary>मूलम् - ४११</summary>
 
 सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्  
@@ -7535,6 +10825,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 श्रोत्रं श्रवणरूपान्नविहीनं स्याद्यदा तदा ।  
 देयं देहस्य चाप्यन्नं श्रोत्राभावे कयं श्रुति ॥ ४१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४१२</summary>
+
+2\. செவிக்குண வில்லாத போழ்து சிறிது  
+வயிற்றுக்கும் ஈயப் படும்.  
+Some food for the stomach is brought  
+When the ear gets no food for thought.        412  
 </details>
 
 <details><summary>मूलम् - ४१२</summary>
@@ -7555,6 +10853,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हविर्भुग्भिरमर्त्यैस्तु भवेयुः सदृशा नराः ॥ ४१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४१३</summary>
+
+3\. செவியுணவிற் கேள்வி யுடையார் அவியுணவின்  
+ஆன்றாரோ டொப்பர் நிலத்து.  
+Whose ears get lots of wisdom-food  
+Equal gods on oblations fed.        413  
+</details>
+
 <details><summary>मूलम् - ४१३</summary>
 
 सॆवियुणविऱ्‌ केळ्वि युडैयार् अवियुणविन्  
@@ -7571,6 +10877,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदि नाध्ययनं साध्यं श्रुत्वा वा ज्ञानमाप्नुहि ।  
 तद् ज्ञानं साह्यदं खेदे करयष्टिसमं तव ॥ ४१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४१४</summary>
+
+4\. கற்றில னாயினும் கேட்க அஃதொருவற்கு  
+ஒற்கத்தின் ஊற்றாந் துணை.  
+Though not learned, hear and heed  
+That serves a staff and stay in need.        414  
 </details>
 
 <details><summary>मूलम् - ४१४</summary>
@@ -7591,6 +10905,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पङ्कदेशे विचरतो हस्तालम्बनदण्डवत् ॥ ४१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४१५</summary>
+
+5\. இழுக்கல் உடையுழி ஊற்றுக்கோல் அற்றே  
+ஒழுக்க முடையார்வாய்ச் சொல்.  
+Virtuous men's wisdom is found  
+A strong staff on slippery ground.        415  
+</details>
+
 <details><summary>मूलम् - ४१५</summary>
 
 इऴुक्कल् उडैयुऴि ऊट्रुक्कोल् अट्रे  
@@ -7607,6 +10929,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कणशो वापि तत्त्वार्थः श्रेतव्याः समये सति ।  
 असकृत् श्रवणात् तत्त्वं ज्ञातं सत् पूर्णतां व्रजेत् ॥ ४१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४१६</summary>
+
+6\. எனைத்தானும் நல்லவை கேட்க அனைத்தானும்  
+ஆன்ற பெருமை தரும்.  
+Lend ear to good words however few  
+That much will highly exalt you.        416  
 </details>
 
 <details><summary>मूलम् - ४१६</summary>
@@ -7627,6 +10957,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अजानन्तोऽपि याथार्थ्ये न ब्रूयुर्मोहदं वचः ॥ ४१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४१७</summary>
+
+7\. பிழைத்துணர்ந்தும் பேதைமை சொல்லார் இழைத்துணர்ந்  
+தீண்டிய கேள்வி யவர்.  
+Who listen well and learn sharply  
+Not ev'n by slip speak foolishly.        417  
+</details>
+
 <details><summary>मूलम् - ४१७</summary>
 
 पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्  
@@ -7643,6 +10981,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शास्त्रश्रवणमात्रेण श्रोत्रं भवति सार्थकम् ।  
 ग्राहकं त्वन्यशब्दानां श्रोत्रं बाधिर्यवन्मतम् ॥ ४१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४१८</summary>
+
+8\. கேட்பினுங் கேளாத் தகையவே கேள்வியால்  
+தோட்கப் படாத செவி.  
+That ear though hearing is dulled  
+Which is not by wisdom drilled.        418  
 </details>
 
 <details><summary>मूलम् - ४१८</summary>
@@ -7663,6 +11009,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ते विनीतवचोयुक्ता भवेयु र्न तथा परे ॥ ४१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४१९</summary>
+
+9\. நுணங்கிய கேள்வியர் ரல்லார் வணங்கிய  
+வாயின ராதல் அரிது  
+A modest mouth is hard for those  
+Who care little to counsels wise.        419  
+</details>
+
 <details><summary>मूलम् - ४१९</summary>
 
 नुणङ्गिय केळ्विय रल्लार् वणङ्गिय  
@@ -7679,6 +11033,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 श्रोत्रैर्नवरसास्वादमकृत्वा जिह्वया परम् ।  
 षड्सास्वादचतुरा जीवन्तोऽपि मृतैः समाः ॥ ४२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४२०</summary>
+
+10\. செவியிற் சுவையுணரா வாயுணர்வின் மாக்கள்  
+அவியினும் வாழினும் என்.  
+Who taste by mouth and not by ear  
+What if they fare ill or well here?        420  
 </details>
 
 <details><summary>मूलम् - ४२०</summary>
@@ -7701,6 +11063,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रिपूणां दुष्प्रवेशं तदन्तःप्राकारवद्भवेत् ॥ ४२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४२१</summary>
+
+1\. அறிவற்றங் காக்குங் கருவி செறுவார்க்கும்  
+உள்ளழிக்க லாகா அரண்.  
+Wisdom's weapon wards off all woes  
+It is a fort defying foes.        421  
+</details>
+
 <details><summary>मूलम् - ४२१</summary>
 
 अऱिवट्रङ् गाक्कुङ् गरुवि सॆऱुवार्क्कुम्  
@@ -7717,6 +11087,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निगृह्य चञ्चलं चित्तं दुष्कृत्याद्विनिवर्त्य तत् ।  
 नियोजनं च सत्कार्ये ज्ञानप्राप्तेः फलं भवेत् ॥ ४२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४२२</summary>
+
+2\. சென்ற இடத்தால் செலவிடா தீதொரீஇ  
+நன்றின்பால் உய்ப்ப தறிவு.  
+Wisdom checks the straying senses  
+Expels evils, impels goodness.        422  
 </details>
 
 <details><summary>मूलम् - ४२२</summary>
@@ -7737,6 +11115,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विमृश्य तस्य निश्कर्षे साधनं ज्ञानमुच्यते ॥ ४२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४२३</summary>
+
+3\. எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்  
+மெய்ப்பொருள் காண்பது அறிவு.  
+To grasp the Truth from everywhere  
+From everyone is wisdom fair.        423  
+</details>
+
 <details><summary>मूलम् - ४२३</summary>
 
 ऎप्पॊरुळ् यार्यार्वाय्क् केट्पिनुम् अप्पॊरुळ्  
@@ -7753,6 +11139,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्पष्टार्थकं सुविज्ञेयं ज्ञानी वाक्यमुदीरयेत् ।  
 श्रुत्वाऽन्यवचनं क्लिष्टमपि विद्याद्विमृश्य च ॥ ४२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४२४</summary>
+
+4\. எண்பொருள வாகச் செலச்சொல்லித் தான் பிறர்வாய்  
+நுண்பொருள் காண்பது அறிவு.  
+Speaking out thoughts in clear trends  
+Wisdom subtle sense comprehends.        424  
 </details>
 
 <details><summary>मूलम् - ४२४</summary>
@@ -7773,6 +11167,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महद्भिः स्नेहमाप्नोति ज्ञानवान् ज्ञानसाधनात् ॥ ४२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४२५</summary>
+
+5\. உலகம் தழீஇய தொட்பம் மலர்தலும்  
+கூம்பலும் இல்ல தறிவு.  
+The wise-world the wise befriend  
+They bloom nor gloom, equal in mind.        425  
+</details>
+
 <details><summary>मूलम् - ४२५</summary>
 
 उलगम् तऴीइय तॊट्पम् मलर्दलुम्  
@@ -7789,6 +11191,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सदाचारपरा लोकाः येन यान्ति पथाऽनिशम् ।  
 प्रवर्तनं तमालम्ब्य ज्ञानशीलस्य लक्षणम् ॥ ४२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४२६</summary>
+
+6\. எவ்வ துறைவது உலகம் உலகத்தோடு  
+அவ்வ துறைவது அறிவு.  
+As moves the world so move the wise  
+In tune with changing times and ways.        426  
 </details>
 
 <details><summary>मूलम् - ४२६</summary>
@@ -7809,6 +11219,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तद् ज्ञातुमसमर्थास्तु मन्तव्या ज्ञानवर्जिताः ॥ ४२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४२७</summary>
+
+7\. அறிவுடையார் ஆவ தறிவார் அறிவிலார்  
+அஃதறி கல்லா தவர்.  
+The wise foresee what is to come  
+The unwise lack in that wisdom.        427  
+</details>
+
 <details><summary>मूलम् - ४२७</summary>
 
 अऱिवुडैयार् आव तऱिवार् अऱिविलार्  
@@ -7825,6 +11243,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ये न बिभ्यति ते मूढा दुष्कृत्यात् पापभीतिदात् ।  
 भीरुता पापकृत्येषु धीमतां प्रकृतिर्भवेत् ॥ ४२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४२८</summary>
+
+8\. அஞ்சுவது அஞ்சாமை பேதைமை அஞ்சுவது  
+அஞ்சல் அறிவார் தொழில்.  
+Fear the frightful and act wisely  
+Not to fear the frightful's folly.        428  
 </details>
 
 <details><summary>मूलम् - ४२८</summary>
@@ -7845,6 +11271,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 चित्तक्षोभकरं दुःखं न कदाचिद्भविष्यति ॥ ४२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४२९</summary>
+
+9\. எதிரதாக் காக்கும் அறிவினார்க் கில்லை  
+அதிர வருவதோர் நோய்.  
+No frightful evil shocks the wise  
+Who guard themselves against surprise.        429  
+</details>
+
 <details><summary>मूलम् - ४२९</summary>
 
 ऎदिरदाक् काक्कुम् अऱिविनार्क् किल्लै  
@@ -7861,6 +11295,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विनान्यैः सकलैर्ज्ञानमात्रात् सर्वार्थवान्नरः ।  
 ज्ञानाभावे सर्वहीनो भवेत् सर्वार्थवानपि ॥ ४३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४३०</summary>
+
+10\. அறிவுடையார் எல்லாம் உடையார் அறிவிலார்  
+என்னுடைய ரேனும் இலர்.  
+Who have wisdom they are all full  
+Whatev'r they own, misfits are nil.        430  
 </details>
 
 <details><summary>मूलम् - ४३०</summary>
@@ -7883,6 +11325,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दोषैः षड्भ्ः विहीनस्य सम्पत् श्लाघ्या स्थिरा भवेत् ॥ ४३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४३१</summary>
+
+1\. செருக்குஞ் சினமும் சிறுமையும் இல்லார்  
+பெருக்கம் பெருமித நீர்த்து.  
+Plenty is their prosperity  
+Who're free from wrath pride lust petty.        431  
+</details>
+
 <details><summary>मूलम् - ४३१</summary>
 
 सॆरुक्कुञ् जिनमुम् सिऱुमैयुम् इल्लार्  
@@ -7899,6 +11349,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दातव्येष्वप्रदानं च पूजनीयेष्वपूजनम् ।  
 अस्थने हर्ष इत्येते राज्ञो दोषाः प्रकीर्तिताः ॥ ४३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४३२</summary>
+
+2\. இவறலும் மாண்பிறந்த மானமும் மாணா  
+உவகையும் ஏதம் இறைக்கு.  
+Mean pride, low pleasure, avarice  
+These add blemishes to a prince.        432  
 </details>
 
 <details><summary>मूलम् - ४३२</summary>
@@ -7919,6 +11377,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महान्तो जागरूकाः स्युः जननिन्दाभयाकुला ॥ ४३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४३३</summary>
+
+3\. தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்  
+கொள்வர் பழிநாணு வார்.  
+Though millet-small their faults might seem  
+Men fearing disgrace, Palm-tall deem.        433  
+</details>
+
 <details><summary>मूलम् - ४३३</summary>
 
 तिनैत्तुणैयाङ् गुट्रम् वरिनुम् पनैत्तुणैयाक्  
@@ -7935,6 +11401,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दोषो एव जननां स्युः शत्रवो नाशकारकाः ।  
 दोषातीतैर्जनैर्भाव्यं दोषाभावो गुणाः खलु ॥ ४३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४३४</summary>
+
+4\. குற்றமே காக்க பொருளாகக் குற்றமே  
+அற்றம் தரூஉம் பகை.  
+Watch like treasure freedom from fault  
+Our fatal foe is that default.        434  
 </details>
 
 <details><summary>मूलम् - ४३४</summary>
@@ -7955,6 +11429,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विनश्येत् जीवितं तस्य तृणं वह्निगतं यथा ॥ ४३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४३५</summary>
+
+5\. வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்  
+வைத்தூறு போலக் கெடும்.  
+Who fails to guard himself from flaw  
+Loses his life like flame-lit straw.        435  
+</details>
+
 <details><summary>मूलम् - ४३५</summary>
 
 वरुमुन्नर्क् कावादान् वाऴ्क्कै ऎरिमुन्नर्  
@@ -7971,6 +11453,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञात्वा स्वदोषान् तान् हित्वा परदोषनिवारणे ।  
 यतमानो महीपालः कथं स्याद् दोषभाजनम् ॥ ४३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४३६</summary>
+
+6\. தன்குற்றம் நீக்கிப் பிறர்குற்றம் காண்பிற்பின்  
+என்குற்ற மாகும் இறைக்கு  
+What fault can be the king's who cures  
+First his faults, then scans others.        436  
 </details>
 
 <details><summary>मूलम् - ४३६</summary>
@@ -7991,6 +11481,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रक्षतो लोभिनो नश्येत् पुरुषार्थत्रयं वृथा ॥ ४३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४३७</summary>
+
+7\. செயற்பால செய்யா திவறியான் செல்வம்  
+உயற்பால தன்றிக் கெடும்.  
+That miser's wealth shall waste and end  
+Who would not for a good cause spend.        437  
+</details>
+
 <details><summary>मूलम् - ४३७</summary>
 
 सॆयऱ्‌पाल सॆय्या तिवऱियान् सॆल्वम्  
@@ -8007,6 +11505,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दातव्येष्वप्रदानाख्यो यो दोषो लोभनामकः ।  
 नायं साधारणे दोषः षड्दोषेष्वग्रणीः किल ॥ ४३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४३८</summary>
+
+8\. பற்றுள்ளம் என்னும் இவறன்மை எற்றுள்ளும்  
+எண்ணப் படுவதொன் றன்று.  
+The gripping greed of miser's heart  
+Is more than fault the worst apart.        438  
 </details>
 
 <details><summary>मूलम् - ४३८</summary>
@@ -8027,6 +11533,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निष्फलानि च कार्याणि मनसाऽपि न संस्मरेत् ॥ ४३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४३९</summary>
+
+9\. வியவற்க எஞ்ஞான்றும் தன்னை நயவற்க  
+நன்றி பயவா வினை.  
+Never boast yourself in any mood  
+Nor do a deed that does no good.        439  
+</details>
+
 <details><summary>मूलम् - ४३९</summary>
 
 वियवऱ्‌क ऎञ्ञाण्ड्रुम् तन्नै नयवऱ्‌क  
@@ -8043,6 +11557,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदवाप्तुं वृणीषे त्वं एकान्ते भज भुङ्क्ष्व तत् ।  
 नो चेत् त्वदीयलक्ष्यस्य विघ्नं कुर्युर्विरोधिनः ॥ ४४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४४०</summary>
+
+10\. காதல காதல் அறியாமை உய்க்கிற்பின்  
+ஏதில ஏதிலார் நூல்.  
+All designs of the foes shall fail  
+If one his wishes guards in veil.        440  
 </details>
 
 <details><summary>मूलम् - ४४०</summary>
@@ -8065,6 +11587,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुर्यान्मैत्रीं महीपालो विमृश्य बहुधा बहु ॥ ४४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४४१</summary>
+
+1\. அறனறிந்து மூத்த அறிவுடையார் கேண்மை  
+திறனறிந்து தேர்ந்து கொளல்.  
+Weigh their worth and friendship gain  
+Of men of virtue and mature brain.        441  
+</details>
+
 <details><summary>मूलम् - ४४१</summary>
 
 अऱनऱिन्दु मूत्त अऱिवुडैयार् केण्मै  
@@ -8081,6 +11611,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्राप्तं दुःखं निराकृत्य भाविदुःखनिवारणे ।  
 जगरूकेण विदुषा स्नेहं कुर्याच्च सेवया ॥ ४४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४४२</summary>
+
+2\. உற்றநோய் நீக்கி உறாஅமை முற்காக்கும்  
+பெற்றியார்ப் பேணிக் கொளல்.  
+Cherish the help of men of skill  
+Who ward and safe-guard you from ill.        442  
 </details>
 
 <details><summary>मूलम् - ४४२</summary>
@@ -8101,6 +11639,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महच्भाग्यं तदेवास्य किमन्यैर्भाग्यकोटिभिः ॥ ४४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४४३</summary>
+
+3\. அரியவற்று ளெல்லாம் அரிதே பெரியாரைப்  
+பேணித் தமராக் கொளல்.  
+Honour and have the great your own  
+Is rarest of the rare things known.        443  
+</details>
+
 <details><summary>मूलम् - ४४३</summary>
 
 अरियवट्रु ळॆल्लाम् अरिदे पॆरियारैप्  
@@ -8117,6 +11663,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आत्मनोऽपि वरिष्ठानां महतां पथि वर्तनम् ।  
 महद् बलं भवेद् राज्ञां चतुरङ्गबलैः किमु ॥ ४४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४४४</summary>
+
+4\. தம்மிற் பெரியார் தமரா ஒழுகுதல்  
+வன்மையு ளெல்லாந் தலை.  
+To have betters as intimates  
+Power of all powers promotes.        444  
 </details>
 
 <details><summary>मूलम् - ४४४</summary>
@@ -8137,6 +11691,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यतोऽमात्यो राज्यभारं वहन् राज्ञः सहायकृत् ॥ ४४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४४५</summary>
+
+5\. சூழ்வார்கண் ணாக ஒழுகலான் மன்னவன்  
+சூழ்வாரைச் சூழ்ந்து கொளல்.  
+Ministers are the monarch's eyes  
+Round him should be the right and wise.        445  
+</details>
+
 <details><summary>मूलम् - ४४५</summary>
 
 सूऴ्वार्गण् णाग ऒऴुगलान् मन्नवन्  
@@ -8153,6 +11715,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञानिनां वचनं श्रुत्वा स्वबुद्धया तदिमृश्य च ।  
 पालयन् पृथिवीपालः शत्रुभिर्नैव बाध्यते ॥ ४४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४४६</summary>
+
+6\. தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்  
+செற்றார் செயக்கிடந்த தில்.  
+To move with worthy friends who knows  
+Has none to fear from frightful foes.        446  
 </details>
 
 <details><summary>मूलम् - ४४६</summary>
@@ -8173,6 +11743,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यो राजा लभते तस्मिन् निर्वीर्याः किल शत्रवः ॥ ४४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४४७</summary>
+
+7\. இடிக்குந் துணையாரை ஆள்வாரை யாரே  
+கெடுக்குந் தகைமை யவர்  
+No foe can foil his powers  
+whose friends reprove him when he errs.        447  
+</details>
+
 <details><summary>मूलम् - ४४७</summary>
 
 इडिक्कुन् दुणैयारै याळ्वरै यारे  
@@ -8189,6 +11767,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 समये शिक्षकैः सद्भिः साङ्गत्यरहितो नृपः ।  
 शत्रुबाधाविहीनोऽपि स्वयमेव विनश्यति ॥ ४४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४४८</summary>
+
+8\. இடிப்பாரை இல்லாத ஏமரா மன்னன்  
+கெடுப்பா ரிலானுங் கெடும்.  
+The careless king whom none reproves  
+Ruins himself sans harmful foes.        448  
 </details>
 
 <details><summary>मूलम् - ४४८</summary>
@@ -8209,6 +11795,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मह्त्साह्यं विना राज्ञां तथा स्थैर्य सुदुर्लभम् ॥ ४४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४४९</summary>
+
+9\. முதலிலார்க்கு ஊதியம் இல்லை மதலையாஞ்  
+சார்பிலார்க்கு இல்லை நிலை.  
+No capital, no gain in trade  
+No prop secure sans good comrade.        449  
+</details>
+
 <details><summary>मूलम् - ४४९</summary>
 
 मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्  
@@ -8225,6 +11819,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनेकशत्रुबाधातो दुःखं दशगुणान्वितम् ।  
 भुपो विन्देत सत्सङ्गं प्राप्तं यः सन्त्यजेन्नृपः ॥ ४५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४५०</summary>
+
+10\. பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே  
+நல்லார் தொடர்கை விடல்.  
+To give up good friends is ten times worse  
+Than being hated by countless foes.        450  
 </details>
 
 <details><summary>मूलम् - ४५०</summary>
@@ -8247,6 +11849,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुष्टान् बन्धुसमान् कृत्वा नीचास्तुष्यन्ति तैः सह ॥ ४५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४५१</summary>
+
+1\. சிற்றினம் அஞ்சும் பெருமை சிறுமைதான்  
+சுற்றமாச் சூழ்ந்து விடும்.  
+The ignoble the noble fear  
+The mean hold them as kinsmen dear.        451  
+</details>
+
 <details><summary>मूलम् - ४५१</summary>
 
 सिट्रिनम् अञ्जुम् पॆरुमै सिऱुमैदान्  
@@ -8263,6 +11873,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भूगतं सलिलं भूमिभेदाद् भिन्नरसं यथा ।  
 तथा नरः सङ्गभेदाद् भिन्नभिन्नमतिर्भवेत् ॥ ४५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४५२</summary>
+
+2\. நிலத்தியல்பால் நீர்திரிந் தற்றாகும் மாந்தர்க்கு  
+இனத்தியல்ப தாகும் அறிவு.  
+With soil changes water's taste  
+With mates changes the mental state.        452  
 </details>
 
 <details><summary>मूलम् - ४५२</summary>
@@ -8283,6 +11901,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अयं योग्यो न वेत्येतद् ज्ञानं साङ्गत्यहेतुकम् ॥ ४५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४५३</summary>
+
+3\. மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்  
+இன்னான் எனப்படுஞ் சொல்.  
+Wisdom depends upon the mind  
+The worth of man upon his friend.        453  
+</details>
+
 <details><summary>मूलम् - ४५३</summary>
 
 मनत्तानाम् मान्दर्क् कुणर्च्चि इनत्तानाम्  
@@ -8299,6 +11925,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विशेषशेमुषी भायादादौ चित्तनिबन्धना ।  
 विमर्शे सापि साङ्गत्यमूलैवेति स्थितिर्धुवा ॥ ४५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४५४</summary>
+
+4\. மனத்து ளதுபோலக் காட்டி ஒருவற்கு  
+இனத்துள தாகும் அறிவு.  
+Wisdom seems to come from mind  
+But it truly flows from the kind.        454  
 </details>
 
 <details><summary>मूलम् - ४५४</summary>
@@ -8319,6 +11953,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्साङ्गत्यवशादेव भवेदिति विभाव्यताम् ॥ ४५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४५५</summary>
+
+5\. மனந்தூய்மை செய்வினை தூய்மை இரண்டும்  
+இனம்தூய்மை தூவா வரும்.  
+Purity of the thought and deed  
+Comes from good company indeed.        455  
+</details>
+
 <details><summary>मूलम् - ४५५</summary>
 
 मनन्दूय्मै सॆय्विनै तूय्मै इरण्डुम्  
@@ -8335,6 +11977,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोके शुद्धमनस्कानां शुद्धा स्याद् भाविसन्ततिः ।  
 सत्साङ्गत्यसमेतानां जायते सकलं शुभम् ॥ ४५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४५६</summary>
+
+6\. மனம்தூயார்க் கெச்சம்நன் றாகும் இனம்தூயார்க்கு  
+இல்லைநன் றாகா வினை.  
+Pure-hearted get good progeny  
+Pure friendship acts with victory.        456  
 </details>
 
 <details><summary>मूलम् - ४५६</summary>
@@ -8355,6 +12005,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्साङ्गत्यान्मनःशुद्धया सह कीर्तिरपि ध्रुवा ॥ ४५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४५७</summary>
+
+7\. மனநலம் மன்னுயிர்க் காக்கம் இனநலம்  
+எல்லாப் புகழும் தரும்.  
+Goodness of mind increases gain  
+Good friendship fosters fame again.        457  
+</details>
+
 <details><summary>मूलम् - ४५७</summary>
 
 मननलम् मन्नुयिर्क् काक्कम् इननलम्  
@@ -8371,6 +12029,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मनःशुद्धिः पुण्यकृत्यात् स्वयं जायेत केषुचित् ।  
 सत्साङ्गत्यं चित्तशुद्धिं वर्धयेत् तादृशेष्वपि ॥ ४५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४५८</summary>
+
+8\. மனநலம் நன்குடைய ராயினும் சான்றோர்க்கு  
+இனநலம் ஏமாப் புடைத்து.  
+Men of wisdom, though good in mind  
+In friends of worth a new strength find.        458  
 </details>
 
 <details><summary>मूलम् - ४५८</summary>
@@ -8391,6 +12057,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सत्सङ्गतिः सुखस्यास्य प्राप्तौ विघ्नं निवारयेत् ॥ ४५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४५९</summary>
+
+9\. மனநலத்தின் ஆகும் மறுமைமற் றஃதும்  
+இனநலத்தின் ஏமாப் புடைத்து.  
+Good mind decides the future bliss  
+Good company gains strength to this.        459  
+</details>
+
 <details><summary>मूलम् - ४५९</summary>
 
 मननलत्तिन् आगुम् मऱुमैमऱ्‌ ऱह्दुम्  
@@ -8407,6 +12081,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्सङ्गतिसमं मित्रं न भवेत् सुखसाधनम् ।  
 दुसङ्गतिसमः शत्रुरपकर्ता न विद्यते ॥ ४६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४६०</summary>
+
+10\. நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின்  
+அல்லற் படுப்பதூஉம் இல்.  
+No help good company exeeds;  
+The bad to untold anguish leads.        460  
 </details>
 
 <details><summary>मूलम् - ४६०</summary>
@@ -8429,6 +12111,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कार्यरम्भे विमृश्याथ कार्यमारभ्यतां बुधैः ॥ ४६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४६१</summary>
+
+1\. அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும்  
+ஊதியமும் சூழ்ந்து செயல்.  
+Weigh well output the loss and gain  
+And proper action ascertain.        461  
+</details>
+
 <details><summary>मूलम् - ४६१</summary>
 
 अऴिवदूउम् आवदूउम् आगि वऴिबयक्कुम्  
@@ -8445,6 +12135,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परीक्ष्य सुगृहीतेन सन्मित्रेण विमृश्य च ।  
 स्वयं चालोच्य यः कुर्यादसाध्यं तस्य किं भवेत् ॥ ४६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४६२</summary>
+
+2\. தெரிந்த இனத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்கு  
+அரும்பொருள் யாதொன்றும் இல்.  
+Nothing is hard for him who acts  
+With worthy counsels weighing facts.        462  
 </details>
 
 <details><summary>मूलम् - ४६२</summary>
@@ -8465,6 +12163,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बुद्धिमान्तो नरा नैव व्ययीकुर्वन्ति सर्वदा ॥ ४६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४६३</summary>
+
+3\. ஆக்கம் கருதி முதலிழக்கும் செய்வினை  
+ஊக்கார் அறிவுடை யார்,  
+The wise risk not their capital  
+In doubtful gains and lose their all.        463  
+</details>
+
 <details><summary>मूलम् - ४६३</summary>
 
 आक्कम् करुदि मुदलिऴक्कुम् सॆय्विनै  
@@ -8481,6 +12187,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''इयाँलाभ'' इति स्पष्टमज्ञात्वा कर्मणि प्रजाः ।  
 सहसा न प्रवर्तन्ते मानहानिभयार्दिताः ॥ ४६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४६४</summary>
+
+4\. தெளிவி லதனைத் தொடங்கார் இளிவென்னும்  
+ஏதப்பாடு அஞ்சு பவர்.  
+They who scornful reproach fear  
+Commence no work not made clear.        464  
 </details>
 
 <details><summary>मूलम् - ४६४</summary>
@@ -8501,6 +12215,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रविशन् पार्थिवः शत्रुवर्धकः स्यान्न घातकः ॥ ४६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४६५</summary>
+
+5\. வகையறச் சூழா தெழுதல் பகைவரைப்  
+பாத்திப் படுப்பதோ ராறு.  
+Who marches without plans and ways  
+His field is sure to foster foes.        465  
+</details>
+
 <details><summary>मूलम् - ४६५</summary>
 
 वगैयऱच् चूऴा तॆऴुदल् पगैवरैप्  
@@ -8517,6 +12239,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अकर्तव्यस्य करणं कर्तव्यस्य विसर्जनम् ।  
 इत्येतदुभयं नृणां विनाशास्पदमिष्यते ॥ ४६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४६६</summary>
+
+6\. செய்தக்க அல்ல செயக்கெடும் செய்தக்க  
+செய்யாமை யானும் கெடும்.  
+Doing unfit action ruins  
+Failing fit-act also ruins.        466  
 </details>
 
 <details><summary>मूलम् - ४६६</summary>
@@ -8537,6 +12267,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रविश्य कार्ये नोपायचिन्तनं कार्यसाधकम् ॥ ४६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४६७</summary>
+
+7\. எண்ணித் துணிக கருமம் துணிந்தபின்  
+எண்ணுவம் என்பது இழுக்கு.  
+Think and dare a proper deed  
+Dare and think is bad in need.        467  
+</details>
+
 <details><summary>मूलम् - ४६७</summary>
 
 ऎण्णित् तुणिग करुमम् तुणिन्दबिन्  
@@ -8553,6 +12291,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 बहूनां साह्यमाप्यापि स कार्यं न हि साधयेत् ।  
 उपायांश्चतुरो यस्तु न प्रयुङ्क्ते यथायथम् ॥ ४६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४६८</summary>
+
+8\. ஆற்றின் வருந்தா வருத்தம் பலர்நின்று  
+போற்றினும் பொத்துப் படும்.  
+Toil without a plan ahead  
+Is doomed to fall though supported.        468  
 </details>
 
 <details><summary>मूलम् - ४६८</summary>
@@ -8573,6 +12319,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नाचरेद्यस्तु तस्यस्युर्यत्ना दोषसमन्विताः ॥ ४६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४६९</summary>
+
+9\. நன்றாற்ற லுள்ளும் தவறுண்டு அவரவர்  
+பண்பறிந் தாற்றாக் கடை.  
+Attune the deeds to habitude  
+Or ev'n good leads to evil feud.        469  
+</details>
+
 <details><summary>मूलम् - ४६९</summary>
 
 नण्ड्राट्र लुळ्ळुन् दवुऱुण्डु अवरवर्  
@@ -8589,6 +12343,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निजस्थित्यनुरोधेन कुरु सर्वं विमृश्य च ।  
 न चेन्निन्देत् त्वां हि लोकः क्रियतां लोकसङ्ग्रहः ॥ ४७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४७०</summary>
+
+10\. எள்ளாத எண்ணிச் செயல்வேண்டும் தம்மொடு  
+கொள்ளாத கொள்ளாது உலகு.  
+Do deeds above reproachfulness  
+The world refutes uncomely mess.        470  
 </details>
 
 <details><summary>मूलम् - ४७०</summary>
@@ -8611,6 +12373,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बलं द्वयोः पक्षयोश्च परामृश्य प्रवर्तय ॥ ४७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४७१</summary>
+
+1\. வினைவலியும் தன்வலியும் மாற்றான் வலியும்  
+துணைவலியும் தூக்கிச் செயல்.  
+Judge act and might and foeman's strength  
+The allies' strength and go at length.        471  
+</details>
+
 <details><summary>मूलम् - ४७१</summary>
 
 विनैवलियुम् तन्वलियुम् माट्रान् वलियुम्  
@@ -8627,6 +12397,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कार्यस्य साध्यतां तद्वदुपायानां बलिष्ठताम् ।  
 जानन् दत्तावधानो यः तेन सर्वमवाप्यते ॥ ४७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४७२</summary>
+
+2\. ஒல்வ தறிவது அறிந்ததன் கண்தங்கிச்  
+செல்வார்க்குச் செல்லாதது இல்.  
+Nothing hampers the firm who know  
+What they can and how to go.        472  
 </details>
 
 <details><summary>मूलम् - ४७२</summary>
@@ -8647,6 +12425,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कार्यमारभ्य मध्ये तु विघ्निता बहवो भुवि ॥ ४७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४७३</summary>
+
+3\. உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி  
+இடைக்கண் முரிந்தார் பலர்.  
+Many know not their meagre might  
+Their pride breaks up in boastful fight.        473  
+</details>
+
 <details><summary>मूलम् - ४७३</summary>
 
 उडैत्तम् वलियऱियार् ऊक्कत्तिन् ऊक्कि  
@@ -8663,6 +12449,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अकृत्वा च परैः स्नेहमज्ञात्वा बलमात्मनः ।  
 आत्मश्लाघापरा लोके नाशं शीघ्रमवाप्नुयुः ॥ ४७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४७४</summary>
+
+4\. அமைந்தாங் கொழுகான் அளவறியான் தன்னை  
+வியந்தான் விரைந்து கெடும்.  
+Who adapts not, outsteps measure  
+And brags himself-his fall is sure.        474  
 </details>
 
 <details><summary>मूलम् - ४७४</summary>
@@ -8683,6 +12477,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भारपूर्णे तु शकटे भवेदक्षस्य भञ्जनम् ॥ ४७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४७५</summary>
+
+5\. பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்  
+சால மிகுத்துப் பெயின்.  
+Even the gentle peacock's plume  
+Cart's axle breaks by gross volume.        475  
+</details>
+
 <details><summary>मूलम् - ४७५</summary>
 
 पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्  
@@ -8699,6 +12501,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वृक्षशाखाग्रमास्थाय ततोऽप्यारोढुमूर्ध्वतः ।  
 उद्यतः शाखया साकं भग्नप्राणोप्यधः पतेत् ॥ ४७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४७६</summary>
+
+6\. நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்  
+உயிர்க்கிறுதி யாகி விடும்.  
+Beyond the branches' tip who skips  
+Ends the life as his body rips.        476  
 </details>
 
 <details><summary>मूलम् - ४७६</summary>
@@ -8719,6 +12529,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दानशीलस्य विन्त्त तु न कदापि विनश्यति ॥ ४७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४७७</summary>
+
+7\. ஆற்றின் அளவறிந்து ஈக அதுபொருள்  
+போற்றி வழங்கும் நெறி.  
+Know the limit; grant with measure  
+This way give and guard your treasure.        477  
+</details>
+
 <details><summary>मूलम् - ४७७</summary>
 
 आट्रिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
@@ -8735,6 +12553,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आयः स्वल्पो यदि भवेत् न दोषस्तत्र विद्यते ।  
 आयाद् व्ययस्य चाधिक्ये महान् दोषः प्रसज्यते ॥ ४७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४७८</summary>
+
+8\. ஆகாறு அளவிட்டி தாயினும் கேடில்லை  
+போகாறு அகலாக் கடை.  
+The outflow must not be excess  
+No matter how small income is.        478  
 </details>
 
 <details><summary>मूलम् - ४७८</summary>
@@ -8755,6 +12581,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जीविते तस्य सम्पत्तिराभासा न तु शाश्वती ॥ ४७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४७९</summary>
+
+9\. அளவறிந்து வாழாதான் வாழ்க்கை உளபோல  
+இல்லாகித் தோன்றாக் கெடும்.  
+Who does not know to live in bounds  
+His life seems rich but thins and ends.        479  
+</details>
+
 <details><summary>मूलम् - ४७९</summary>
 
 अळवऱ஧न्दु वाऴादान् वाऴ्क्कै उळबोल  
@@ -8771,6 +12605,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आयमार्गमनालोच्य परेषामुपकुर्वतः ।  
 जीविते तस्य सम्पत्तिः क्षीयते झटिति स्वयम् ॥ ४८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८०</summary>
+
+10\. உளவரை தூக்காத ஒப்புர வாண்மை  
+வளவரை வல்லைக் கெடும்.  
+Wealth amassed quickly vanishes  
+Sans level if one lavishes.        480  
 </details>
 
 <details><summary>मूलम् - ४८०</summary>
@@ -8793,6 +12635,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जयैषिणस्तथा राज्ञः कालः ख्रलु निरीक्ष्यते ॥ ४८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४८१</summary>
+
+1\. பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்  
+வேந்தர்க்கு வேண்டும் பொழுது.  
+By day the crow defeats the owl  
+Kings need right time their foes to quell.        481  
+</details>
+
 <details><summary>मूलम् - ४८१</summary>
 
 पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
@@ -8809,6 +12659,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 काले कर्म समारब्धं विचार्य च कृतं पुनः ।  
 अस्थिरामपि सम्पत्तिं बघ्नात्येकत्र सुस्थिराम् ॥ ४८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८२</summary>
+
+2\. பருவத்தோடு ஒட்ட ஒழுகல் திருவினைத்  
+தீராமை ஆர்க்கும் கயிறு.  
+Well-ordered seasoned act is cord  
+That fortune binds in bon accord.        482  
 </details>
 
 <details><summary>मूलम् - ४८२</summary>
@@ -8829,6 +12687,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 साध्यते सुलभं तेन नासाध्यं भुवि किञ्चन ॥ ४८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४८३</summary>
+
+3\. அருவினை என்ப உளவோ கருவியான்  
+காலம் அறிந்து செயின்  
+What is hard for him who acts  
+With proper means and time and tacts?        483  
+</details>
+
 <details><summary>मूलम् - ४८३</summary>
 
 अरुविनै यॆन्ब उळवो करुवियान्  
@@ -8845,6 +12711,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृत्स्नामपि महीं भोक्तुं स शक्नोति महीतले ।  
 काले देशे च कर्माणि यः करोति समाहितः ॥ ४८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८४</summary>
+
+4\. ஞாலம் கருதினுங் கைகூடும் காலம்  
+கருதி இடத்தாற் செயின்.  
+Choose proper time and act and place  
+Even the world you win with ease.        484  
 </details>
 
 <details><summary>मूलम् - ४८४</summary>
@@ -8865,6 +12739,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 युक्तकालं प्रतीक्षस्व निष्क्रियस्त्वं भज क्षमाम् ॥ ४८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४८५</summary>
+
+5\. காலம் கருதி இருப்பர் கலங்காது  
+ஞாலம் கருது பவர்.  
+Who want to win the world sublime  
+Wait unruffled biding their time.        485  
+</details>
+
 <details><summary>मूलम् - ४८५</summary>
 
 कालम् करुदि इरुप्पर् कलङ्गादु  
@@ -8881,6 +12763,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 राज्ञः कालार्थिनो मौनाद् वर्तनं युद्धमन्तरा ।  
 मेषस्य युद्धतः पृष्ठगमनेन समं भवेत् ॥ ४८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८६</summary>
+
+6\. ஊக்க முடையான் ஒடுக்கம் பொருதகர்  
+தாக்கற்குப் பேருந் தகைத்து.  
+By self-restraint stalwarts keep fit  
+Like rams retreating but to butt.        486  
 </details>
 
 <details><summary>मूलम् - ४८६</summary>
@@ -8901,6 +12791,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्तर्निगूह्य ते कोपं काले स्युः कार्यसाधकाः ॥ ४८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४८७</summary>
+
+7\. பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்து  
+உள்வேர்ப்பர் ஒள்ளி யவர்.  
+The wise jut not their vital fire  
+They watch their time with hidden ire.        487  
+</details>
+
 <details><summary>मूलम् - ४८७</summary>
 
 पॊळ्ळॆन आङ्गे पुऱम्वेरार् कालम्बार्त्तु  
@@ -8917,6 +12815,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नाशकाले समायाते रिपोः शीर्षमघः पतेत् ।  
 तावता मौनमास्थेयं क्षमया जयकाङ्क्षिणा ॥ ४८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८८</summary>
+
+8\. செறுநரைக் காணின் சுமக்க இறுவரை  
+காணின் கிழக்காம் தலை.  
+Bear with hostiles when you meet them  
+Fell down their head in fateful time.        488  
 </details>
 
 <details><summary>मूलम् - ४८८</summary>
@@ -8937,6 +12843,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदैव कुरु कर्तव्यं तं कालं न हि द्रक्ष्यसि ॥ ४८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४८९</summary>
+
+9\. எய்தற் கரியது இயைந்தக்கால் அந்நிலையே  
+செய்தற் கரிய செயல்.  
+When comes the season ripe and rare  
+Dare and do hard things then and there.        489  
+</details>
+
 <details><summary>मूलम् - ४८९</summary>
 
 ऎय्दऱ्‌ करियदु इयैन्दक्काल् अन्निलैये  
@@ -8953,6 +12867,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कार्यसाधनपर्यन्तं बकवत्तिष्ठ निष्क्रियः ।  
 कुरु कार्यं क्षणात् काले चञ्च्वा मीनं बको यथा ॥ ४९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४९०</summary>
+
+10\. கொக்கொக்க கூம்பும் பருவத்து மற்றதன்  
+குத்தொக்க சீர்த்த இடத்து.  
+In waiting time feign peace like stork  
+In fighting time strike like its peck.        490  
 </details>
 
 <details><summary>मूलम् - ४९०</summary>
@@ -8975,6 +12897,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनिश्चित्य न कुर्वीत युद्ध शत्रुं न द्वषयेत् ॥ ४९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४९१</summary>
+
+1\. தொடங்கற்க எவ்வினையும் எள்ளற்க முற்றும்  
+இடங்கண்ட பின்அல் லது  
+No action take, no foe despise  
+Until you have surveyed the place.        491  
+</details>
+
 <details><summary>मूलम् - ४९१</summary>
 
 तॊडङ्गऱ्‌क ऎव्विनैयुम् ऎळ्ळऱ्‌क मुट्रुम्  
@@ -8991,6 +12921,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सुरक्षितस्थलस्थेन विशिष्टबलशालिना ।  
 यो जयः प्राप्यते राज्ञा स तु सर्वार्थसाधकः ॥ ४९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४९२</summary>
+
+2\. முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம்  
+ஆக்கம் பலவுந் தரும்  
+Many are gains of fortresses  
+Ev'n to kings of power and prowess.        492  
 </details>
 
 <details><summary>मूलम् - ४९२</summary>
@@ -9011,6 +12949,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रणभूमिं विशन् राजा दुर्बलोऽपि बली भवेत् ॥ ४९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४९३</summary>
+
+3\. ஆற்றாரும் ஆற்றி அடுப இடனறிந்து  
+போற்றார்கண் போற்றிச் செயின்.  
+Weaklings too withstand foe's offence  
+In proper fields of strong defence.        493  
+</details>
+
 <details><summary>मूलम् - ४९३</summary>
 
 आट्रारुम् आट्रि अडुब इडनऱिन्दु  
@@ -9027,6 +12973,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञात्वा युक्तस्थलीं तत्न स्थित्वा समरकर्मणि ।  
 यो विशेद् भूपतिस्तस्य नष्टाशाः स्युर्विरोधिनः ॥ ४९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४९४</summary>
+
+4\. எண்ணியார் எண்ணம் இழப்பர் இடனறிந்து  
+துன்னியார் துன்னிச் செயின்  
+If fighters fight in vantage field  
+The plans of foes shall be baffled.        494  
 </details>
 
 <details><summary>मूलम् - ४९४</summary>
@@ -9047,6 +13001,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स एव तीरमापन्नो हन्यते दुर्बलैरपि ॥ ४९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४९५</summary>
+
+5\. நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின்  
+நீங்கின் அதனைப் பிற.  
+In water crocodile prevails  
+In land before others it fails.        495  
+</details>
+
 <details><summary>मूलम् - ४९५</summary>
 
 नॆडुम्बुनलुळ् वॆल्लुम् मुदलै अडुम्बुनलिन्  
@@ -9063,6 +13025,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महान्तो दृढचक्राश्च न यान्त्यम्बुनिधौ रथाः ।  
 महीतले न प्रयान्ति नौका जलधिगामिनः ॥ ४९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४९६</summary>
+
+6\. கடலோடா கால்வல் நெடுந்தேர் கடலோடும்  
+நாவாயும் ஓடா நிலத்து  
+Sea-going ship goes not on shore  
+Nor on sea the strong-wheeled car.        496  
 </details>
 
 <details><summary>मूलम् - ४९६</summary>
@@ -9083,6 +13053,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कार्यमाचरतो राज्ञः चित्तधैर्यमलं जये ॥ ४९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४९७</summary>
+
+7\. அஞ்சாமை அல்லால் துணைவேண்டா எஞ்சாமை  
+எண்ணி இடத்தால் செயின்  
+No aid but daring dash they need  
+When field is chosen right for deed.        497  
+</details>
+
 <details><summary>मूलम् - ४९७</summary>
 
 अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै  
@@ -9099,6 +13077,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अल्पसैन्यवतो राज्ञो गुप्तस्थलमुपेयुषः ।  
 समक्षं बहुसैन्यानामीशोऽपि लयमाप्नुयात् ॥ ४९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४९८</summary>
+
+8\. சிறுபடையான் செல்லிடம் சேரின் உறுபடையான்  
+ஊக்கம் அழிந்து விடும்  
+Though force is small, if place is right  
+One quells a foe of well-armed might.        498  
 </details>
 
 <details><summary>मूलम् - ४९८</summary>
@@ -9119,6 +13105,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जेतुं न शक्यो भूपालः स्वस्थले निवसेद्यदि ॥ ४९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ४९९</summary>
+
+9\. சிறைநலனும் சீரும் இலரெனினும் மாந்தர்  
+உறைநிலத்தோடு ஒட்டல் அரிது  
+To face a foe at home is vain  
+Though fort and status are not fine.        499  
+</details>
+
 <details><summary>मूलम् - ४९९</summary>
 
 सिऱैनलनुम् सीरुम् इलरॆनिनुम् मान्दर्  
@@ -9135,6 +13129,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शूलहस्तमहावीरहन्तृदन्तयुतोऽपि सन् ।  
 पङ्कं विशन् मदगजः सृगालेनापि हन्यते ॥ ५००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५००</summary>
+
+10\. காலாழ் களரில் நரியடும் கண்ணஞ்சா  
+வேளாள் முகத்த களிறு.  
+A fox can kill a war tusker  
+Fearless with feet in deep quagmire.        500  
 </details>
 
 <details><summary>मूलम् - ५००</summary>
@@ -9157,6 +13159,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लब्धप्रत्ययवान् भूपः कार्ये भ्रुत्यान् नियोजयेत् ॥ ५०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५०१</summary>
+
+1\. அறம்பொருள் இன்பம் உயிரெச்சம் நான்கின்  
+திறந்தெரிந்து தேறப் படும்  
+Pleasure, gold, fear of life Virtue-  
+Test by these four and trust the true.        501  
+</details>
+
 <details><summary>मूलम् - ५०१</summary>
 
 अऱम्बॊरुळ् इन्बम् उयिरच्चम् नान्गिन्  
@@ -9173,6 +13183,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निर्दोषित्वं कुलीनत्वं लज्जा पापेषु भीरुता ।  
 एतैर्गुणैतान् राजा विश्वसेन्निजसेवकान् ॥ ५०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५०२</summary>
+
+2\. குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்  
+நாணுடையான் கட்டே தெளிவு  
+Spotless name of noble birth  
+Shamed of stain-that choice is worth.        502  
 </details>
 
 <details><summary>मूलम् - ५०२</summary>
@@ -9193,6 +13211,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विचार्यमाणेत्वज्ञानं नूनं द्रष्टुं हि शक्यते ॥ ५०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५०३</summary>
+
+3\. அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்  
+இன்மை அரிதே வெளிறு  
+Though deep scholars of stainless sense  
+Rare is freedom from ignorance.        503  
+</details>
+
 <details><summary>मूलम् - ५०३</summary>
 
 अरियगट्रु आसट्रार् कण्णुम् तॆरियुङ्गाल्  
@@ -9209,6 +13235,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दोषं गुणं वा कस्मिश्चित् स्थितं विज्ञाय तत्त्वतः ।  
 ग्राह्यः स्याद् गुणभूयिष्ठः त्याज्यो विविधदोषभाक् ॥ ५०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५०४</summary>
+
+4\. குணம்நாடிக் குற்றமும் நாடி அவற்றுள்  
+மிகைநாடி மிக்க கொளல்  
+Good and evil in man weigh well  
+Judge him by virtues which prevail.        504  
 </details>
 
 <details><summary>मूलम् - ५०४</summary>
@@ -9229,6 +13263,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञातुं तयोर्वृत्तिरेव निकषोपलतां व्रजेत् ॥ ५०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५०५</summary>
+
+5\. பெருமைக்கும் ஏனைச் சிறுமைக்கும் தத்தம்  
+கருமமே கட்டளைக் கல்  
+By the touchstone of deeds is seen  
+If any one is great or mean.        505  
+</details>
+
 <details><summary>मूलम् - ५०५</summary>
 
 पॆरुमैक्कुम् एनैच् चिऱुमैक्कुम् तत्तम्  
@@ -9245,6 +13287,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 न कुर्यात्प्रत्ययं बन्धुविंहीनेषु जनेष्विह ।  
 बन्धुबन्धविहीनत्वात् न निन्दां गणयन्ति ते ॥ ५०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५०६</summary>
+
+6\. அற்றாரைத் தேறுதல் ஓம்புக மற்றவர்  
+பற்றிலர் நாணார் பழி  
+Choose not those men without kinsmen  
+Without affine or shame of sin.        506  
 </details>
 
 <details><summary>मूलम् - ५०६</summary>
@@ -9265,6 +13315,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न केवलं कार्यहानिरज्ञतां विन्दते नृपः ॥ ५०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५०७</summary>
+
+7\. காதன்மை கந்தா அறிவறியார்த் தேறுதல்  
+பேதைமை யெல்லாம் தரும்  
+On favour leaning fools you choose;  
+Folly in all its forms ensues.        507  
+</details>
+
 <details><summary>मूलम् - ५०७</summary>
 
 कादन्मै कन्दा अऱिवऱियार्त् तेऱुदल्  
@@ -9281,6 +13339,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उदासीनान् प्रत्ययेन यः कार्येषु नियोजयेत् ।  
 न केवलमयं नश्येत् किन्तु भाविपरम्परा ॥ ५०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५०८</summary>
+
+8\. தேரான் பிறனைத் தெளிந்தான் வழிமுறை  
+தீரா இடும்பை தரும்  
+To trust an untried stranger brings  
+Endless troubles on all our kins.        508  
 </details>
 
 <details><summary>मूलम् - ५०८</summary>
@@ -9301,6 +13367,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अविश्वासं विना तेषां युक्तं कार्येषु योजनम् ॥ ५०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५०९</summary>
+
+9\. தேறற்க யாரையும் தேராது தேர்ந்தபின்  
+தேறுக தேறும் பொருள்  
+Trust not without testing and then  
+Find proper work for trusted men.        509  
+</details>
+
 <details><summary>मूलम् - ५०९</summary>
 
 ते ऱऱ्‌क यारैयुम् तेरादु तेर्न्दबिन्  
@@ -9317,6 +13391,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अविमृश्यैव विश्वासः विमृष्टस्य परिग्रहे ।  
 अविश्वासः इतीत्येतदुभयं खेददायकम् ॥ ५१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५१०</summary>
+
+10\. தேரான் தெளிவும் தெளிந்தான்கண் ஐயுறவும்  
+தீரா இடும்பை தரும்.  
+Trust without test; The trusted doubt;  
+Both entail troubles in and out.        510  
 </details>
 
 <details><summary>मूलम् - ५१०</summary>
@@ -9339,6 +13421,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पुरुषं योजयेत् कार्ये निर्भयं पृथिवीपतिः ॥ ५११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५११</summary>
+
+1\. நன்மையும் தீமையும் நாடி நலம்புரிந்த  
+தன்மையான் ஆளப் படும்.  
+Employ the wise who will discern  
+The good and bad and do good turn.        511  
+</details>
+
 <details><summary>मूलम् - ५११</summary>
 
 नन्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द  
@@ -9355,6 +13445,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आयमार्ग परामृश्य धनं सम्पाद्य भूरिशः ।  
 तद्रक्षको विना विघ्नं राजकार्ये नियुज्यताम् ॥ ५१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५१२</summary>
+
+2\. வாரி பெருக்கி வளம்படுத்து உற்றவை  
+ஆராய்வான் செய்க வினை  
+Let him act who resource swells;  
+Fosters wealth and prevents ills.        512  
 </details>
 
 <details><summary>मूलम् - ५१२</summary>
@@ -9375,6 +13473,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गुणैरेतैः समायुक्तो राजकार्ये नियोज्यताम् ॥ ५१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५१३</summary>
+
+3\. அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்  
+நன்குடையான் கட்டே தெளிவு  
+Trust him in whom these four you see:  
+Love, wit, non-craving, clarity.        513  
+</details>
+
 <details><summary>मूलम् - ५१३</summary>
 
 अन्बऱिवु तेट्रम् अवाविन्मै इन्नान्गुम्  
@@ -9391,6 +13497,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जिता गुणपरीक्षायां ततः स्थाने नियन्त्रिताः ।  
 अन्ते केचित् स्थानदोषात् जायन्ते दुष्टबुद्धयः ॥ ५१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५१४</summary>
+
+4\. எனைவகையான் தேறியக் கண்ணும் வினைவகையான்  
+வேறாகும் மாந்தர் பலர்  
+Though tried and found fit, yet we see  
+Many differ before duty.        514  
 </details>
 
 <details><summary>मूलम् - ५१४</summary>
@@ -9411,6 +13525,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 समर्थमन्तरा नान्यं राजकार्ये निवेशयेत् ॥ ५१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५१५</summary>
+
+5\. அறிந்தாற்றிச் செய்கிற்பாற்கு அல்லால் வினைதான்  
+சிறந்தானென்று ஏவற்பாற் றன்று.  
+Wise able men with power invest  
+Not by fondness but by hard test.        515  
+</details>
+
 <details><summary>मूलम् - ५१५</summary>
 
 अऱिन्दाट्रिच् चॆय्गिऱ्‌पाऱ्‌कु अल्लाल् विनैदान्  
@@ -9427,6 +13549,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कर्तुर्गुणं क्रियातत्त्वं कालस्याप्यनुकूलताम् ।  
 सम्यग्विज्ञाय कार्येषु नरो योज्यो नराधिपैः ॥ ५१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५१६</summary>
+
+6\. செய்வானை நாடி வினைநாடிக் காலத்தோடு  
+எய்த உணர்ந்து செயல்  
+Discern the agent and the deed  
+And just in proper time proceed.        516  
 </details>
 
 <details><summary>मूलम् - ५१६</summary>
@@ -9447,6 +13577,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इत्थमालोच्य तत्कार्ये स एव प्रेर्यतां नृपैः ॥ ५१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५१७</summary>
+
+7\. இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து  
+அதனை அவன்கண் விடல்.  
+This work, by this, this man can do  
+Like this entrust the duty due.        517  
+</details>
+
 <details><summary>मूलम् - ५१७</summary>
 
 इदनै इदनाल् इवन्मुडिक्कुम् ऎण्ड्राय्न्दु  
@@ -9463,6 +13601,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वकार्यसाधनार्हश्चेत् काश्चित्तस्मिन् क्रियाभरम् ।  
 निक्षिप्य राज्ञा दातव्यं स्वातन्त्र्यं कार्यसाधने ॥ ५१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५१८</summary>
+
+8\. வினைக்குரிமை நாடிய பின்றை அவனை  
+அதற்குரிய னாகச் செயல்.  
+His fitness for the duty scan  
+Leave him to do the best he can.        518  
 </details>
 
 <details><summary>मूलम् - ५१८</summary>
@@ -9483,6 +13629,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दूरीकरोति दुर्वाधात् यस्तु तं विसृजेद्रमा ॥ ५१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५१९</summary>
+
+9\. வினைக்கண் வினையுடையான் கேண்மைவே றாக  
+நினைப்பானை நீங்கும் திரு.  
+Who do duty for duty's sake  
+Doubt them; and fortune departs quick.        519  
+</details>
+
 <details><summary>मूलम् - ५१९</summary>
 
 विनैक्कण् विनैयुडैयान् केण्मैवे ऱाग  
@@ -9499,6 +13653,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तृप्तेषु कर्मकारेषु लोकः स्यात् क्लेशवर्जितः ।  
 तत्तर्पणविधौ राज्ञा यत्नः स्वीक्रियतां सदा ॥ ५२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२०</summary>
+
+10\. நாடோறும் நாடுக மன்னன் வினைசெய்வான்  
+கோடாமை கோடா துலகு  
+Worker straight the world is straight  
+The king must look to this aright.        520  
 </details>
 
 <details><summary>मूलम् - ५२०</summary>
@@ -9521,6 +13683,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्मृत्वैव श्लाघनं लोके बन्धुलक्षणमुच्यते ॥ ५२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५२१</summary>
+
+1\. பற்றற்ற கண்ணும் பழமைபா ராட்டுதல்  
+சுற்றத்தார் கண்ணே யுள  
+Let fortunes go; yet kinsmen know  
+The old accustomed love to show.        521  
+</details>
+
 <details><summary>मूलम् - ५२१</summary>
 
 पट्रट्र कण्णुम् पऴैमैबा राट्टुदल्  
@@ -9537,6 +13707,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रेमपूर्वकबान्धव्यं कस्यचिल्लभ्यते यदि ।  
 तदेव सम्पदः सर्वाः तस्मै यच्छेत् सदातना ॥ ५२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२२</summary>
+
+2\. விருப்பறாச் சுற்றம் இயையின் அருப்பறா  
+ஆக்கம் பலவுந் தரும்.  
+The gift of loving Kins bestows  
+Fadeless fortune's fresh flowers.        522  
 </details>
 
 <details><summary>मूलम् - ५२२</summary>
@@ -9557,6 +13735,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जलपूर्णतटाकस्य तीराभावसं भवेत् ॥ ५२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५२३</summary>
+
+3\. அளவளா வில்லாதான் வாழ்க்கை குளவளாக்  
+கோடின்றி நீர்நிறைந் தற்று.  
+A kinless wealth is like a tank  
+Which overflows without a bank.        523  
+</details>
+
 <details><summary>मूलम् - ५२३</summary>
 
 अळवळा विल्लादान् वाऴ्क्कै कुळवळाक्  
@@ -9573,6 +13759,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 बन्धुसाह्यकरो यस्तु सदा बन्धुभिरावृतः ।  
 तेन सम्पादितं वित्तं प्रयोजनकरं भवेत् ॥ ५२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२४</summary>
+
+4\. சுற்றத்தால் சுற்றப் படஒழுகல் செல்வந்தான்  
+பெற்றத்தால் பெற்ற பயன்.  
+The fruit of growing wealth is gained  
+When kith and kin are happy found.        524  
 </details>
 
 <details><summary>मूलम् - ५२४</summary>
@@ -9593,6 +13787,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तं सर्वदा बन्धुवर्गास्तिष्ठन्ति परिवेष्टिताः ॥ ५२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५२५</summary>
+
+5\. கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய  
+சுற்றத்தால் சுற்றப் படும்.  
+Loving words and liberal hand  
+Encircle kith and kin around.        525  
+</details>
+
 <details><summary>मूलम् - ५२५</summary>
 
 कॊडुत्तलुम् इन्सॊलुम् आट्रिन् अडुक्किय  
@@ -9609,6 +13811,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पृथिव्यां दानशौण्डस्य जितक्रोधस्य भूपतेः ।  
 वशंवदा सदा तिष्ठेत् सकला बन्धुसन्ततिः ॥ ५२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२६</summary>
+
+6\. பெரும்கொடையான் பேணான் வெகுளி அவனின்  
+மருங்குஉடையார் மாநிலத்து இல்.  
+Large giver and wrathless man  
+Commands on earth countless kinsmen.        526  
 </details>
 
 <details><summary>मूलम् - ५२६</summary>
@@ -9629,6 +13839,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वार्जितं बन्धुभिः साकं भुंङ्क्ष्व सम्पत्स्थिरा भवेत् ॥ ५२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५२७</summary>
+
+7\. காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்  
+அன்னநீ ரார்க்கே உள.  
+The crows hide not; thy call and eat  
+Welfare abides a man of heart.        527  
+</details>
+
 <details><summary>मूलम् - ५२७</summary>
 
 काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
@@ -9645,6 +13863,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 साम्यबुद्धिं विना राजा योग्यताभेदमूलकम् ।  
 विभज्य सर्वान् यः पश्येत् तस्य स्युर्बान्धवाः समे ॥ ५२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२८</summary>
+
+8\. பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின்  
+அதுநோக்கி வாழ்வார் பலர்.  
+From public gaze when kings perceive  
+Each one's merits so many thrive.        528  
 </details>
 
 <details><summary>मूलम् - ५२८</summary>
@@ -9665,6 +13891,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 छिन्नं तद् हेतुनान्येन् पूर्ववत् पुनरेधते ॥ ५२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५२९</summary>
+
+9\. தமராகித் தற்றுறந்தார் சுற்றம் அமராமைக்  
+காரணம் இன்றி வரும்.  
+Forsaken friends will come and stay  
+When cause for discord goes away.        529  
+</details>
+
 <details><summary>मूलम् - ५२९</summary>
 
 तमरागिक् तट्रुऱन्दार् सुट्रम् अमरामैक्  
@@ -9681,6 +13915,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्नेहं छित्वा गतं पश्चादागतं स्वार्यकरणात् ।  
 अलोच्य तं तु गृह्णीयादुपकृत्य महीपतिः ॥ ५३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३०</summary>
+
+10\. உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்  
+இழைத்திருந்து எண்ணிக் கொளல்.  
+Who leaves and returns with motive  
+The king should test him and receive.        530  
 </details>
 
 <details><summary>मूलम् - ५३०</summary>
@@ -9703,6 +13945,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 चण्डकोपोद्भवानर्थात्, अधिकानिष्टदा भवेत् ॥ ५३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५३१</summary>
+
+1\. இறந்த வெகுளியின் தீதே சிறந்த  
+உவகை மகிழ்ச்சியிற் சோர்வு.  
+Worse than wrath in excess is  
+Forgetfulness in joy-excess.        531  
+</details>
+
 <details><summary>मूलम् - ५३१</summary>
 
 इऱन्द वॆगुळियिन् तीदे सिऱन्द  
@@ -9719,6 +13969,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नरस्य नित्यदारिद्र्यं यथा बुद्धिं विनाशयेत् ।  
 विस्मृतिः समये तद्वनाशयेत् प्रथितं यशाः ॥ ५३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३२</summary>
+
+2\. பொச்சாப்புக் கொல்லும் புகழை அறிவினை  
+நிச்ச நிரப்புக்கொன் றாங்கு.  
+Negligence kills renown just as  
+Ceaseless want wisdom destroys.        532  
 </details>
 
 <details><summary>मूलम् - ५३२</summary>
@@ -9739,6 +13997,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न ते सिध्यन्ति विस्मृत्या नेदं पार्थिवमात्रकम् ॥ ५३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५३३</summary>
+
+3\. பொச்சாப்பார்க்கு இல்லை புகழ்மை அதுவுலகத்து  
+எப்பால்நூ லோர்க்கும் துணிவு.  
+Forgetful nature fails of fame  
+All schools of thinkers say the same.        533  
+</details>
+
 <details><summary>मूलम् - ५३३</summary>
 
 पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
@@ -9755,6 +14021,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 बाह्यदुर्गैर्नास्ति लाभो भये तु हृदये स्थिते ।  
 स्थितोऽपि विभवो व्यर्थो यदि स्याद्विस्मृतिर्नरे ॥ ५३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३४</summary>
+
+4\. அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை  
+பொச்சாப் புடையார்க்கு நன்கு.  
+The fearful find no fortress here  
+The forgetful find good never.        534  
 </details>
 
 <details><summary>मूलम् - ५३४</summary>
@@ -9775,6 +14049,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 खेदे समीपमायाते पश्चादुद्विजते नरः ॥ ५३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५३५</summary>
+
+5\. முன்னுறக் காவாது இழுக்கியான் தன்பிழை  
+பின்னூறு இரங்கி விடும்.  
+Failing foresight the guardless man  
+Shall rue his folly later on.        535  
+</details>
+
 <details><summary>मूलम् - ५३५</summary>
 
 मुन्नुऱक् कावादु इऴुक्कियान् तन्बिऴै  
@@ -9791,6 +14073,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अविस्मृतिसमारव्येन् गुणेन सदृशं वरम् ।  
 सर्वत्र सर्वकालेषु न तिष्ठेत् क्षेमदायकम् ॥ ५३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३६</summary>
+
+6\. இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை  
+வாயின் அதுவொப்பது இல்.  
+Forget none; watch with wakeful care  
+Miss none; the gain is sans compare.        536  
 </details>
 
 <details><summary>मूलम् - ५३६</summary>
@@ -9811,6 +14101,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अविस्मृत्या साधनीयं कर्म कर्तुं यतेत् यः ॥ ५३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५३७</summary>
+
+7\. அரியஎன்று ஆகாத இல்லைபொச் சாவாக்  
+கருவியால் போற்றிச் செயின்.  
+With cautious care pursue a thing  
+Impossible there is nothing.        537  
+</details>
+
 <details><summary>मूलम् - ५३७</summary>
 
 अरियऎण्ड्रु आगाद इल्लैबॊच् चावाक्  
@@ -9827,6 +14125,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 श्लाघितं नीतिशास्त्रज्ञैः क्रियतां कर्म सादरम् ।  
 अकुर्वाणस्य विस्मृत्या सप्त जन्म वृथा भवेत् ॥ ५३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३८</summary>
+
+8\. புகழ்ந்தவை போற்றிச் செயல்வேண்டும் செய்யாது  
+இகழ்ந்தார்க்கு எழுமையும் இல்.  
+Do what the wise commend as worth  
+If not, for seven births no mirth.        538  
 </details>
 
 <details><summary>मूलम् - ५३८</summary>
@@ -9847,6 +14153,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्मर्तव्यास्तेन विस्मृत्या पुरा नाशवशङ्गताः ॥ ५३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५३९</summary>
+
+9\. இகழ்ச்சியின் கெட்டாரை உள்ளுக தாந்தம்  
+மகிழ்ச்சியின் மைந்துறும் போழ்து.  
+When joy deludes, their fate recall  
+Whom negligence has made to fall.        539  
+</details>
+
 <details><summary>मूलम् - ५३९</summary>
 
 इगऴ्च्चियिन् कॆट्टारै उळ्ळुग तान्दम्  
@@ -9863,6 +14177,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चिकीर्षितमविस्मृत्य जागरूकतयाऽनिशम् ।  
 तत्प्राप्त्यै यतमानेन वाञ्छितं साध्यते ध्रुवम् ॥ ५४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४०</summary>
+
+10\. உள்ளியது எய்தல் எளிதுமன் மற்றுந்தான்  
+உள்ளியது உள்ளப் பெறின்.  
+Easy it is a thing to get  
+When the mind on it is set.        540  
 </details>
 
 <details><summary>मूलम् - ५४०</summary>
@@ -9885,6 +14207,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यथाशास्त्रं दण्डदानं नीतिपालनमुच्यते ॥ ५४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५४१</summary>
+
+1\. ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்  
+தேர்ந்துசெய் வஃதே முறை.  
+Test and attest impartially  
+Consult and act the laws justly.        541  
+</details>
+
 <details><summary>मूलम् - ५४१</summary>
 
 ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्  
@@ -9901,6 +14231,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोके जीवगणाः सर्वे वर्तन्ते वृष्टिकाङ्क्षुणः ।  
 देशे जनास्तथा राज्ञः काङ्क्षन्ते नीतिपालनम् ॥ ५४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४२</summary>
+
+2\. வானோக்கி வாழும் உலகெல்லாம் மன்னவன்  
+கோல்நோக்கி வாழும் குடி.  
+The earth looks up to sky and thrives  
+And mankind to king's rod of justice.        542  
 </details>
 
 <details><summary>मूलम् - ५४२</summary>
@@ -9921,6 +14259,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लक्ष्यीकृत्य न्याय्यमार्गे रक्षणं राजलक्षणम् ॥ ५४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५४३</summary>
+
+3\. அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய்  
+நின்றது மன்னவன் கோல்.  
+The Sage's scripture and virtue spring  
+From the sceptre of a stately king.        543  
+</details>
+
 <details><summary>मूलम् - ५४३</summary>
 
 अन्दणर् नूऱ्‌कुम् अऱत्तिऱ्‌कुम् आदियाय्  
@@ -9937,6 +14283,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्ववशे मानवान् कृत्वा रक्षन्तं न्याय्यवर्त्मनि ।  
 महीपतिं प्रजाः सर्वाः प्रेक्षन्ते प्रीतिपूर्वकम् ॥ ५४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४४</summary>
+
+4\. குடிதழீஇக் கோலோச்சும் மாநில மன்னன்  
+அடிதழீஇ நிற்கும் உலகு.  
+The world clings to the ruler's feet  
+Whose sceptre clasps the people's heart.        544  
 </details>
 
 <details><summary>मूलम् - ५४४</summary>
@@ -9957,6 +14311,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 राज्ञो देशे कालवृष्टिः सस्यावृद्धिश्च जायते ॥ ५४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५४५</summary>
+
+5\. இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட  
+பெயலும் விளையுளும் தொக்கு  
+Full rains and yields enrich the land  
+Which is ruled by a righteous hand.        545  
+</details>
+
 <details><summary>मूलम् - ५४५</summary>
 
 इयल्बुळिक् कोलोच्चुम् मन्नवन् नाट्ट  
@@ -9973,6 +14335,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शूलमात्रेण भूपालो जयं युद्धे न विन्दते ।  
 लभते नीतिदण्डेन जयं, दण्डो ऋजुर्यदि ॥ ५४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४६</summary>
+
+6\. வேலன்று வென்றி தருவது மன்னவன்  
+கோலதூஉம் கோடா தெனின்  
+Not the spear but the sceptre straight  
+That brings success to monarch's might.        546  
 </details>
 
 <details><summary>मूलम् - ५४६</summary>
@@ -9993,6 +14363,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स एव नीतिदण्डस्तं पालयेन्नात्र संशयः ॥ ५४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५४७</summary>
+
+7\. இறைகாக்கும் வையக மெல்லாம் அவனை  
+முறைகாக்கும் முட்டாச் செயின்.  
+The king protects the entire earth  
+And justice protects his royal worth.        547  
+</details>
+
 <details><summary>मूलम् - ५४७</summary>
 
 इऱैगाक्कुम् वैयगम् ऎल्लाम् अवनै  
@@ -10009,6 +14387,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जनानां सुलभो भूत्वा तेषां श्रुत्वा च वाञ्छितम् ।  
 अयच्छन् पार्थिवो नीतिं सापवादो विनश्यति ॥ ५४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४८</summary>
+
+8\. எண்பதத்தான் ஓரா முறைசெய்யா மன்னவன்  
+தண்பதத்தான் தானே கெடும்.  
+Hard of access, the unjust king  
+He shall himself his ruin bring.        548  
 </details>
 
 <details><summary>मूलम् - ५४८</summary>
@@ -10029,6 +14415,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पापापनोदनं, राज्ञां धर्म एव न पापदम् ॥ ५४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५४९</summary>
+
+9\. குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்  
+வடுவன்று வேந்தன் தொழில்.  
+Save his subjects and chide the wrong  
+Is flawless duty of a king.        549  
+</details>
+
 <details><summary>मूलम् - ५४९</summary>
 
 कुडिबुऱङ् गात्तोम्बिक् कुट्रम् कडिदल्  
@@ -10045,6 +14439,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मृतिदण्डप्रदानं तु पापिनामाततायिनाम् ।  
 तृणानिर्मूलनसमं रूढसस्याभिवृद्धये ॥ ५५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५५०</summary>
+
+10\. கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்  
+களைகட் டதனொடு நேர்.  
+Killing killers, the king, behold  
+Weeds removes from cropful field.        550  
 </details>
 
 <details><summary>मूलम् - ५५०</summary>
@@ -10067,6 +14469,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निर्घुणाद् घातकाच्चापि भुवि क्रूरतमो मतः ॥ ५५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५५१</summary>
+
+1\. கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண்டு  
+அல்லவை செய்துஒழுகும் வேந்து.  
+The unjust tyrant oppressor  
+Is worse than cruel murderer.        551  
+</details>
+
 <details><summary>मूलम् - ५५१</summary>
 
 कॊलैमेऱ्‌कॊण् डारिऱ्‌ कॊडिदे अलैमेऱ्‌कॊण्डु  
@@ -10083,6 +14493,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नीत्या पालयता राज्ञा प्रजाभ्यो वित्तयाचनम् ।  
 चोरेण शूलिना पान्थात् वित्तचौर्यसमं मतम् ॥ ५५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५५२</summary>
+
+2\. வேலொடு நின்றான் இடுஎன் றதுபோலும்  
+கோலொடு நின்றான் இரவு.  
+Sceptered tyrant exacting gold  
+Is "give" of lanced robber bold.        552  
 </details>
 
 <details><summary>मूलम् - ५५२</summary>
@@ -10103,6 +14521,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परिहारमकुर्वाणः क्षीणराज्यः क्रमाद्भवेत् ॥ ५५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५५३</summary>
+
+3\. நாடொறும் நாடி முறைசெய்யா மன்னவன்  
+நாடொறும் நாடு கெடும்.  
+Spy wrongs daily and do justice  
+Or day by day the realm decays.        553  
+</details>
+
 <details><summary>मूलम् - ५५३</summary>
 
 नाडॊऱुम् नाडि मुऱैसॆय्या मन्नवन्  
@@ -10119,6 +14545,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भाव्यनर्थमनालोच्य न्याय्यमार्गविरोधतः ।  
 भूपस्य रक्षतो वित्तं नश्येत् तेन प्रजा अपि ॥ ५५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५५४</summary>
+
+4\. கூழும் குடியும் ஒருங்கிழக்கும் கோல்கோடிச்  
+சூழாது செய்யும் அரசு.  
+The king shall wealth and subjects lose  
+If his sceptre he dares abuse.        554  
 </details>
 
 <details><summary>मूलम् - ५५४</summary>
@@ -10139,6 +14573,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अश्रुपातः श्रियं राज्ञो नाशयेदायुधात्मना ॥ ५५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५५५</summary>
+
+5\. அல்லற்பட்டு ஆற்றாது அழுதகண் ணீரன்றே  
+செல்வத்தைத் தேய்க்கும் படை.  
+Groaning tears caused by tyrant's sway  
+File the royal wealth away.        555  
+</details>
+
 <details><summary>मूलम् - ५५५</summary>
 
 अल्लऱ्‌पट्टु आट्रादु अऴुदगण् णीरण्ड्रे  
@@ -10155,6 +14597,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विन्दते सुस्थिरां कीर्ति भूपो धर्मेण पालयन् ।  
 अनीत्या पालयन् राजा नष्टकीर्तिर्भविष्यति ॥ ५५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५५६</summary>
+
+6\. மன்னர்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல்  
+மன்னாவாம் மன்னர்க் கொளி.  
+Glory endures by sceptre right  
+Without it wanes the royal light.        556  
 </details>
 
 <details><summary>मूलम् - ५५६</summary>
@@ -10175,6 +14625,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वृष्टिहीनप्रदेशस्थजनास्थितिसमां विदुः ॥ ५५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५५७</summary>
+
+7\. துளியின்மை ஞாலத்திற்கு எற்றற்றே வேந்தன்  
+அளியின்மை வாழும் உயிர்க்கு.  
+Dry like the earth without rainfall  
+Is graceless king to creatures all.        557  
+</details>
+
 <details><summary>मूलम् - ५५७</summary>
 
 तुळियिन्मै ञालत्तिऱ्‌कु ऎट्रट्रे वेन्दन्  
@@ -10191,6 +14649,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धर्ममार्गं समुल्लङ्घ्य रक्षतः पृथिवीपतेः ।  
 देशे सतां तु दारिद्र्यात् सम्पत्क्लेशाय कल्पते ॥ ५५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५५८</summary>
+
+8\. இன்மையின் இன்னாது உடைமை முறைசெய்யா  
+மன்னவன் கோற்கீழ்ப் படின்.  
+To have is worse than having not  
+If ruler is unjust despot.        558  
 </details>
 
 <details><summary>मूलम् - ५५८</summary>
@@ -10211,6 +14677,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 धर्म्य पन्थानमुल्लङ्घ्य नृपे शासति मेदिनीम् ॥ ५५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५५९</summary>
+
+9\. முறைகோடி மன்னவன் செய்யின் உறைகோடி  
+ஒல்லாது வானம் பெயல்.  
+The sky withdraws season's shower  
+If the king misuses his power.        559  
+</details>
+
 <details><summary>मूलम् - ५५९</summary>
 
 मुऱैगोडि मन्नवन् सॆय्यिन् उऱैगोडि  
@@ -10227,6 +14701,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अरक्षति भुवं भूपे पथा न्यायानुरोधिना ।  
 विप्राः क्षुतिं विस्मरेयुः न दद्युः पशवः पयः ॥ ५६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५६०</summary>
+
+10\. ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்  
+காவலன் காவான் எனின்.  
+The *six-functioned forget their lore  
+Cows give less if kings guard no more.         560  
 </details>
 
 <details><summary>मूलम् - ५६०</summary>
@@ -10249,6 +14731,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निवारयन् पालयेद् यः स भूपाल इतीर्यते ॥ ५६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५६१</summary>
+
+1\. தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்  
+ஒத்தாங்கு ஒறுப்பது வேந்து.  
+A king enquires and gives sentence  
+Just to prevent future offence.        561  
+</details>
+
 <details><summary>मूलम् - ५६१</summary>
 
 तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्  
@@ -10265,6 +14755,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दण्डयेषु कठिनो भूत्वा दण्डनावसरे सति ।  
 लघु दण्डयतो राज्ञः सम्पत्तिष्ठेदचञ्चला ॥ ५६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५६२</summary>
+
+2\. கடிதோச்சி மெல்ல எறிக நெடிதாக்கம்  
+நீங்காமை வேண்டு பவர்.  
+Wield fast the rod but gently lay  
+This strict mildness prolongs the sway.        562  
 </details>
 
 <details><summary>मूलम् - ५६२</summary>
@@ -10285,6 +14783,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अचिरादेव भूपालः स लयं यास्यति ध्रुवम् ॥ ५६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५६३</summary>
+
+3\. வெருவந்த செய்துஒழுகும் வெங்கோல னாயின்  
+ஒருவந்தம் ஒல்லைக் கெடும்.  
+His cruel rod of dreadful deed  
+Brings king's ruin quick indeed.        563  
+</details>
+
 <details><summary>मूलम् - ५६३</summary>
 
 वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्गोल नायिन्  
@@ -10301,6 +14807,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''अस्माकं पार्थिवः क्रूर'' इति देशजनेरितम् ।  
 य एतच्छुणुयाद्वाक्य> क्षीणायुः स विनश्यति ॥ ५६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५६४</summary>
+
+4\. இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்  
+உறைகடுகி ஒல்லைக் கெடும்.  
+As men the king a tyrant call  
+His days dwindled, hasten his fall.        564  
 </details>
 
 <details><summary>मूलम् - ५६४</summary>
@@ -10321,6 +14835,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महीपालस्तस्य वित्तं भूताविष्टमिव वृथा ॥ ५६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५६५</summary>
+
+5\. அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்  
+பேஎய்கண் டன்னது உடைத்து.  
+Whose sight is scarce, whose face is foul  
+His wealth seems watched by a ghoul.        565  
+</details>
+
 <details><summary>मूलम् - ५६५</summary>
 
 अरुञ्जॆव्वि इन्ना मुगत्तान् पॆरुञ्जॆल्वम्  
@@ -10337,6 +14859,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दाक्षिण्यगुणहीनस्य कटुवाक्यप्रयोगिणः ।  
 भूपस्य निखिलं वित्तमस्थिरं क्षीयते क्षणात् ॥ ५६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५६६</summary>
+
+6\. கடுஞ்சொல்லன் கண்ணில னாயின் நெடுஞ்செல்வம்  
+நீடின்றி ஆங்கே கெடும்.  
+Whose word is harsh, whose sight is rude  
+His wealth and power quickly fade.        566  
 </details>
 
 <details><summary>मूलम् - ५६६</summary>
@@ -10357,6 +14887,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अरिविध्वंसनापेक्षिसत्त्वनिर्मूलहेतुकम् ॥ ५६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५६७</summary>
+
+7\. கடுமொழியும் கையிகந்த தண்டமும் வேந்தன்  
+அடுமுரண் தேய்க்கும் அரம்.  
+Reproofs rough and punishments rude  
+Like files conquering power corrode.        567  
+</details>
+
 <details><summary>मूलम् - ५६७</summary>
 
 कडुमॊऴियुम् कैयिगन्द तण्डमुम् वेन्दन्  
@@ -10373,6 +14911,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनालोच्यैव सचिवैः कृते कार्ये च विघ्निते ।  
 यः कुप्येत् सचिवान् राजा क्षीयन्ते तस्य सम्पदः ॥ ५६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५६८</summary>
+
+8\. இனத்தாற்றி எண்ணாத வேந்தன் சினத்தாற்றிச்  
+சீறின் சிறுகும் திரு  
+The king who would not take counsels  
+Rages with wrath-his fortune fails.        568  
 </details>
 
 <details><summary>मूलम् - ५६८</summary>
@@ -10393,6 +14939,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विमेक्तोऽनुचरैः सर्वैर्भीतः सन् क्षयमाप्नुयात् ॥ ५६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५६९</summary>
+
+9\. செருவந்த போழ்திற் சிறைசெய்யா வேந்தன்  
+வெருவந்து வெய்து கெடும்.  
+The king who builds not fort betimes  
+Fears his foes in wars and dies.        569  
+</details>
+
 <details><summary>मूलम् - ५६९</summary>
 
 सॆरुवन्द पोऴ्दिऱ्‌ चिऱैसॆय्या वेन्दन्  
@@ -10409,6 +14963,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नियुज्य विद्यारहितान् मुख्यस्थानेषु भूपति ।  
 पालयेद्यादि तर्ह्येतैः भूमेर्भारो निरर्थकः ॥ ५७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५७०</summary>
+
+10\. கல்லார்ப் பிணிக்கும் கடுங்கோல் அதுவல்லது  
+இல்லை நிலக்குப் பொறை.  
+The crushing burden borne by earth  
+Is tyrants bound to fools uncouth.        570  
 </details>
 
 <details><summary>मूलम् - ५७०</summary>
@@ -10431,6 +14993,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दाक्षिण्यगुणसम्पूर्तिः यदा स्यात् पृथ्वीपतौ ॥ ५७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५७१</summary>
+
+1\. கண்ணோட்டம் என்னும் கழிபெருங் காரிகை  
+உண்மையான் உண்டிவ் வுலகு.  
+Living in the world implies  
+The bounteous dame of benign eyes.        571  
+</details>
+
 <details><summary>मूलम् - ५७१</summary>
 
 कण्णोट्टम् ऎन्नुम् कऴिबॆरुङ् गारिगै  
@@ -10447,6 +15017,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोको जीवति दाक्षिण्यात् तद्विहीननरा भुवि ।  
 यदि जीवन्ति तैर्भूमेः भार एव न संशयः ॥ ५७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५७२</summary>
+
+2\. கண்ணோட்டத் துள்ளது உலகியல் அஃதிலார்  
+உண்மை நிலக்குப் பொறை.  
+World lives by looks of lovely worth  
+Who lack them are burdens of earth.        572  
 </details>
 
 <details><summary>मूलम् - ५७२</summary>
@@ -10467,6 +15045,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दाक्षिण्यवर्जितं कुत्स्नं जगत्तद्वन्निरर्थकम् ॥ ५७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५७३</summary>
+
+3\. பண்என்னாம் பாடற்கு இயைபின்றேல் கண்என்னாம்  
+கண்ணோட்டம் இல்லாத கண்  
+Of tuneless song what is the use?  
+Without gracious looks what are eyes?        573  
+</details>
+
 <details><summary>मूलम् - ५७३</summary>
 
 पण्ऎन्नाम् पाडऱ्‌कु इयैबिण्ड्रेल् कण्ऎन्नाम्  
@@ -10483,6 +15069,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दाक्षिण्यगुणहीनस्य किं नेत्राभ्यां प्रयोजनम् ।  
 ते ह्यलङ्काररूपेण लसतः केवलं मुखे ॥ ५७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५७४</summary>
+
+4\. உளபோல் முகத்தெவன் செய்யும் அளவினால்  
+கண்ணேட்டம் இல்லாத கண்.  
+Except that they are on the face  
+What for are eyes sans measured grace.        574  
 </details>
 
 <details><summary>मूलम् - ५७४</summary>
@@ -10503,6 +15097,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तद्विहीनं तु नयनं धत्ते व्रणसमानताम् ॥ ५७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५७५</summary>
+
+5\. கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல்  
+புண்ணென்று உணரப் படும்.  
+Kind looks are jewels for eyes to wear  
+Without them they are felt as sore.        575  
+</details>
+
 <details><summary>मूलम् - ५७५</summary>
 
 कण्णिऱ्‌कु अणिगलम् कण्णोट्टम् अह्दिण्ड्रेल्  
@@ -10519,6 +15121,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्थितेऽपि नेत्रे दाक्षिण्यगुणहीनो भवेद्यदि ।  
 अचञ्चलमहीरूढतरुरेव स मानवः ॥ ५७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५७६</summary>
+
+6\. மண்ணோ டியைந்த மரத்தனையர் கண்ணோ  
+டியைந்துகண் ணோடா தவர்.  
+Like trees on inert earth they grow  
+Who don't eye to eye kindness show.        576  
 </details>
 
 <details><summary>मूलम् - ५७६</summary>
@@ -10539,6 +15149,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 केचिन्नयनवन्तोऽपि सन्ति दाक्षिण्यसंयुताः ॥ ५७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५७७</summary>
+
+7\. கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்  
+கண்ணோட்டம் இன்மையும் இல்.  
+Ungracious men lack real eyes  
+Men of real eyes show benign grace.        577  
+</details>
+
 <details><summary>मूलम् - ५७७</summary>
 
 कण्णोट् टम् इल्लवर् कण्णिलर् कण्णुडैयार्  
@@ -10555,6 +15173,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दाक्षिण्यगुणशीलस्य गच्छतो न्याय्यवर्त्मनि ।  
 पार्थिवस्य वशे कृत्स्नं जगद्वर्तेत सुस्थिरम् ॥ ५७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५७८</summary>
+
+8\. கருமஞ் சிதையாமல் கண்ணோட வல்லார்க்கு  
+உரிமை உடைத்திவ் வுலகு.  
+Who gracious are but dutiful  
+Have right for this earth beautiful.        578  
 </details>
 
 <details><summary>मूलम् - ५७८</summary>
@@ -10575,6 +15201,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तद्देषसहनं राज्ञां भवेत् स्वाभाविको गुणः ॥ ५७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५७९</summary>
+
+9\. ஒறுத்தாற்றும் பண்பினார் கண்ணும்கண் ணோடிப்  
+பொறுத்தாற்றும் பண்பே தலை.  
+To be benign and bear with foes  
+Who vex us is true virtue's phase.        579  
+</details>
+
 <details><summary>मूलम् - ५७९</summary>
 
 ऒऱुत्ताट्रुम् पण्बिनार् कण्णुम्गण् णोडिप्  
@@ -10591,6 +15225,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सुहृद्दत्तं विषं चापि पीत्वा प्रत्ययकारणात् ।  
 मैत्रीं च तेन कुर्वन्ति दाक्षिण्यगुणकाङ्क्षिणः ॥ ५८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५८०</summary>
+
+10\. பெயக்கண்டும் நஞ்சுண் டமைவர் நயத்தக்க  
+நாகரிகம் வேண்டு பவர்.  
+Men of graceful courtesy  
+Take hemlock and look cheerfully.        580  
 </details>
 
 <details><summary>मूलम् - ५८०</summary>
@@ -10614,6 +15256,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इमे नेत्रसमे कृत्वा पालयेदनिशं भुवि ॥ ५८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५८१</summary>
+
+1\. ஒற்றும் உரைசான்ற நூலும் இவையிரண்டும்  
+தெற்றென்க மன்னவன் கண்.  
+A king should treat these two as eyes  
+The code of laws and careful spies.        581  
+</details>
+
 <details><summary>मूलम् - ५८१</summary>
 
 ऒट्रुम् उरैसाण्ड्र नूलुम् इवैयिरण्डुम्  
@@ -10630,6 +15280,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वकाले सर्वदेशे प्रवृत्तान् विषयान् समान् ।  
 बुध्वा शीघ्रं चारमूलाद्रक्षणं राजलक्षणम् ॥ ५८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५८२</summary>
+
+2\. எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும்  
+வல்லறிதல் வேந்தன் தொழில்.  
+All that happens, always, to all  
+The king should know in full detail.        582  
 </details>
 
 <details><summary>मूलम् - ५८२</summary>
@@ -10650,6 +15308,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बुध्वापि विषयान् चारौः यः पूर्वं न विचारयेत् ॥ ५८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५८३</summary>
+
+3\. ஒற்றினான் ஒற்றி பொருள்தெரியா மன்னவன்  
+கொற்றங் கொளக்கிடந்தது இல்.  
+Conquests are not for the monarch  
+Who cares not for the Spy's remark.        583  
+</details>
+
 <details><summary>मूलम् - ५८३</summary>
 
 ऒट्रिनान् ऒट्रिप् पॊरुळ्दॆरिया मन्नवन्  
@@ -10666,6 +15332,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सेवकान् बान्धवान् शत्रून् सर्वान् वाचा च कर्मणा ।  
 विमृश्य राज्ञे विषयदाता चार इति श्रुतः ॥ ५८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५८४</summary>
+
+4\. வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு  
+அனைவரையும் ஆராய்வது ஒற்று.  
+His officers, kinsmen and foes  
+Who watch keenly are worthy spies.        584  
 </details>
 
 <details><summary>मूलम् - ५८४</summary>
@@ -10686,6 +15360,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गूढार्थगोपनपटुः चार इत्यभिधीयते ॥ ५८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५८५</summary>
+
+5\. கடாஅ உருவொடு கண்ணஞ்சாது யாண்டும்  
+உகாஅமை வல்லதே ஒற்று.  
+Fearless gaze, suspectless guise  
+Guarding secrets mark the spies.        585  
+</details>
+
 <details><summary>मूलम् - ५८५</summary>
 
 कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्  
@@ -10702,6 +15384,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शास्त्रागारादिकं क्षिक्षुवेषो गत्वा विचार्य च ।  
 ज्ञातोऽपि शत्रुभिर्धीरो यः स्याच्चारः स गण्यते ॥ ५८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५८६</summary>
+
+6\. துறந்தார் படிவத்த ராகி இறந்தாராய்ந்து  
+என்செயினும் சோர்விலது ஒற்று.  
+Guised as monks they gather secrets  
+They betray them not under threats.        586  
 </details>
 
 <details><summary>मूलम् - ५८६</summary>
@@ -10722,6 +15412,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञात्वा यथावद् भूपाय कथनं चारलक्षणम् ॥ ५८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५८७</summary>
+
+7\. மறைந்தவை கேட்கவற் றாகி அறிந்தவை  
+ஐயப்பாடு இல்லதே ஒற்று.  
+A spy draws out other's secrets  
+Beyond a doubt he clears his facts.        587  
+</details>
+
 <details><summary>मूलम् - ५८७</summary>
 
 मऱैन्दवै केट्कवऱ्‌ ऱागि अऱिन्दवै  
@@ -10738,6 +15436,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चारणैकेन कथितमन्यचारेण चेरितम् ।  
 एकार्थकं यदि भवेत् गृह्यतां तत् त्यजेतरम् ॥ ५८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५८८</summary>
+
+8\. ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர்  
+ஒற்றினால் ஒற்றிக் கொளல்.  
+The reports given by one spy  
+By another spy verify.        588  
 </details>
 
 <details><summary>मूलम् - ५८८</summary>
@@ -10758,6 +15464,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 त्रिभिरुक्तोऽपि विषयः समश्चेद् गृह्यतामयम् ॥ ५८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५८९</summary>
+
+9\. ஒற்றொற் றுணராமை ஆள்க உடன்மூவர்  
+சொல்தொக்க தேறப் படும்.  
+Engage the spies alone, apart  
+When three agree confirm report.        589  
+</details>
+
 <details><summary>मूलम् - ५८९</summary>
 
 ऒट्रॆऱ्‌ ऱुणरामै आळ्ग उडन्मूवर्  
@@ -10774,6 +15488,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चाराय देयं सन्मानं राज्ञा गुप्तं न तद् बहिः ।  
 नो चेद् गुप्तार्थविषयः सर्वैश्च विदितो भवेत् ॥ ५९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५९०</summary>
+
+10\. சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யின்  
+புறப்படுத்தா னாகும் மறை  
+Give not the spy open reward  
+It would divulge the secret heard!        590  
 </details>
 
 <details><summary>मूलम् - ५९०</summary>
@@ -10797,6 +15519,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदभावे भवेद्रिक्त इतरैः सहितोऽपि सः ॥ ५९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५९१</summary>
+
+1\. உடைய ரெனப்படுவது ஊக்கம் அஃதில்லார்  
+உடையது உடையரோ மற்று.  
+To own is to own energy  
+All others own but lethargy.        591  
+</details>
+
 <details><summary>मूलम् - ५९१</summary>
 
 उडैयर् ऎनप्पडुवदु ऊक्कम् अह् तिल्लार्  
@@ -10813,6 +15543,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उत्साहसदृशं वित्तं स्थिरं लोके न वर्तते ।  
 धनमन्यत्क्रमाच्छीघ्रं ध्रुवं विलयमेष्यति ॥ ५९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५९२</summary>
+
+2\. உள்ளம் உடைமை உடைமை பொருளுடைமை  
+நில்லாது நீங்கி விடும்.  
+Psychic heart is wealth indeed  
+Worldly wealth departs in speed.        592  
 </details>
 
 <details><summary>मूलम् - ५९२</summary>
@@ -10833,6 +15571,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 उत्साहरूपसम्पत्त्या सदा यः सहितो भुवि ॥ ५९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५९३</summary>
+
+3\. ஆக்கம் இழந்தேமென்று அல்லாவார் ஊக்கம்  
+ஒருவந்தம் கைத்துடை யார்.  
+he strong in will do not complain  
+The loss of worldly wealth and gain.        593  
+</details>
+
 <details><summary>मूलम् - ५९३</summary>
 
 क्कम् इऴन्देमॆण्ड्रु अल्लावार् ऊक्कम्  
@@ -10849,6 +15595,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनाहूतापि लक्श्मीस्तं स्वयमन्विषय विन्दते ।  
 यस्मिन्नकुण्ठितोत्साहो विद्यते सर्वदा नरे ॥ ५९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५९४</summary>
+
+4\. ஆக்கம் அதர்வினாய்ச் செல்லும் அசைவிலா  
+ஊக்க் முடையா னுழை.  
+Fortune enquires, enters with boom  
+Where tireless strivers have their home.        594  
 </details>
 
 <details><summary>मूलम् - ५९४</summary>
@@ -10869,6 +15623,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा जीवितवृद्धिश्र स्यादुत्साहनिबन्धना ॥ ५९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५९५</summary>
+
+5\. வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்  
+உள்ளத் தனையது உயர்வு.  
+Water depth is lotus height  
+Mental strength is men's merit.        595  
+</details>
+
 <details><summary>मूलम् - ५९५</summary>
 
 वॆळ्ळत् तनैय मलर्नीट्टम् मान्दर्दम्  
@@ -10885,6 +15647,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भूपेन चिन्त्यतां स्वीयमौन्नत्यं प्रति सर्वदा ।  
 कार्यं भवतु वा मा वा श्लाघ्यते यत्नवान्नरै ॥ ५९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५९६</summary>
+
+6\. உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது  
+தள்ளினும் தள்ளாமை நீர்த்து.  
+Let thoughts be always great and grand  
+Though they fail their virtues stand.        596  
 </details>
 
 <details><summary>मूलम् - ५९६</summary>
@@ -10905,6 +15675,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तद्वदुत्साहवन्तोऽपि न विघ्नाद्विरमन्ति हि ॥ ५९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५९७</summary>
+
+7\. சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற்  
+பட்டுப்பா டூன்றும் களிறு.  
+Elephants are firm when arrows hit  
+Great minds keep fit ev'n in defeat.        597  
+</details>
+
 <details><summary>मूलम् - ५९७</summary>
 
 सिदैविडत्तु ऒल्गार् उरवोर् पुदैयम्बिऱ्‌  
@@ -10921,6 +15699,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उत्साहवर्जितनृपा ᳚वयं दानागुणान्विताः'' ।  
 इति मत्वा न वै दोषमाप्नुवन्ति कदापि ते ॥ ५९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५९८</summary>
+
+8\. உள்ளம் இலாதவர் எய்தார் உலகத்து  
+வள்ளியம் என்னும் செருக்கு.  
+Heartless persons cannot boast  
+"We are liberal to our best".        598  
 </details>
 
 <details><summary>मूलम् - ५९८</summary>
@@ -10941,6 +15727,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गजेऽपि व्याघ्रमालोक्य भीतः सद्यः पलायते ॥ ५९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ५९९</summary>
+
+9\. பரியது கூர்ங்கோட்டது ஆயினும் யானை  
+வெரூஉம் புலிதாக் குறின்.  
+Huge elephant sharp in tusk quails  
+When tiger, less in form, assails.        599  
+</details>
+
 <details><summary>मूलम् - ५९९</summary>
 
 परियदु कूर्ङ्गोट्टदु आयिनुम् यानै  
@@ -10957,6 +15751,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नराणां बलमुत्साहः तद्विहीननरा द्रुमाः ।  
 आकारेणैव ते वृक्षाः निष्फलाश्च निरर्थकाः ॥ ६००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६००</summary>
+
+10\. உரமொருவற்கு உள்ள வெறுக்கை அஃதில்லார்  
+மரம்மக்க ளாதலே வேறு.  
+Mental courage is true manhood  
+Lacking that man is like a wood        600  
 </details>
 
 <details><summary>मूलम् - ६००</summary>
@@ -10980,6 +15782,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्रमेण समभिव्याप्य शमयेत् प्रभया विना ॥ ६०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६०१</summary>
+
+1\. குடியென்னும் குன்றா விளக்கம் மடியென்னும்  
+மாசூர மாய்ந்து கெடும்.  
+Quenchless lamp of ancestry goes  
+When foul idleness encloses.        601  
+</details>
+
 <details><summary>मूलम् - ६०१</summary>
 
 कुडियॆन्नुम् कुण्ड्रा विळक्कम् मडियॆन्नुम्  
@@ -10996,6 +15806,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आलस्यवशमापन्नो यः प्रयत्नविवर्जितः ।  
 कुलगौरवहानिः स्याद् दोषाः स्युस्तस्य जीविते ॥ ६०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६०२</summary>
+
+2\. மடியை மடியா ஒழுகல் குடியைக்  
+குடியாக வேண்டு பவர்.  
+To make your home an ideal home  
+Loath sloth as sloth; refuse it room.        602  
 </details>
 
 <details><summary>मूलम् - ६०२</summary>
@@ -11016,6 +15834,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तन्नाशात्पूर्वमेवास्य कुलं विलयमाप्नुयात् ॥ ६०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६०३</summary>
+
+3\. மடிமடிக் கொண்டொழுகும் பேதை பிறந்த  
+குடிமடியும் தன்னினும் முந்து.  
+The fool who fosters sluggishness  
+Before he dies ruins his house.        603  
+</details>
+
 <details><summary>मूलम् - ६०३</summary>
 
 मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द  
@@ -11032,6 +15858,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यो वाऽऽलस्यगुणाविष्टः शुद्धयत्नविवर्जितः ।  
 तस्य दोषाः सम्भवन्ति लीयते च कुलोन्नतिः ॥ ६०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६०४</summary>
+
+4\. குடிமடிந்து குற்றம் பெருகும் மடிமடிந்து  
+மாண்ட உஞற்றில வர்க்கு.  
+Who strive not high, sunk deep in sloth  
+Ruin their house by evil growth.        604  
 </details>
 
 <details><summary>मूलम् - ६०४</summary>
@@ -11052,6 +15886,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नौकां मग्नोन्मुखां प्राप्ता इव नश्यन्ति ते ध्रुवम् ॥ ६०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६०५</summary>
+
+5\. நெடுநீர் மறவி மடிதுயில் நான்கும்  
+கெடுநீரார் காமக் கலன்.  
+To lag, forget, idle and doze  
+These four are pleasure boats of loss.        605  
+</details>
+
 <details><summary>मूलम् - ६०५</summary>
 
 नॆडुनीर् मऱवि मडिदुयिल् नान्गुम्  
@@ -11068,6 +15910,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वयं मैत्री भवतु वा महद्भिः चक्रवर्तिभिः ।  
 न कोऽपि लाभस्तेन स्यात् आलस्यगुणवान् यदि ॥ ६०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६०६</summary>
+
+6\. படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார்  
+மாண்பயன் எய்தல் அரிது.  
+With all the wealth of lords of earth  
+The slothful gain nothing of worth.        606  
 </details>
 
 <details><summary>मूलम् - ६०६</summary>
@@ -11088,6 +15938,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्रूरवाक्यैर्विनिन्द्यास्ते भवन्ति सुहृदां पुरः ॥ ६०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६०७</summary>
+
+7\. இடிபுரிந்து எள்ளுஞ்சொல் கேட்பர் மடிபுரிந்து  
+மாண்ட உஞற்றி லவர்.  
+The slothful lacking noble deeds  
+Subject themselves to scornful words.        607  
+</details>
+
 <details><summary>मूलम् - ६०७</summary>
 
 इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु  
@@ -11104,6 +15962,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आलस्याभिहितो दोषः सत्कुले जनुषं नरम् ।  
 यद्याप्नोति झाडित्येषः शत्रूणां वशमानयेत् ॥ ६०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६०८</summary>
+
+8\. மடிமை குடிமைக்கண் தங்கின்தன் ஒன்னார்க்கு  
+அடிமை புகுத்தி விடும்.  
+If sloth invades a noble house  
+It will become a slave of foes.        608  
 </details>
 
 <details><summary>मूलम् - ६०८</summary>
@@ -11124,6 +15990,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आलस्यरूपदोषेण यो भवेन्न वशीकृतः ॥ ६०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६०९</summary>
+
+9\. குடியாண்மை யுள்வந்த குற்றம் ஒருவன்  
+மடியாண்மை மாற்றக் கெடும்.  
+The blots on race and rule shall cease  
+When one from sloth gets his release.        609  
+</details>
+
 <details><summary>मूलम् - ६०९</summary>
 
 कुडियाण्मै युळ्वन्द कुट्रम् ऒरुवन्  
@@ -11140,6 +16014,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विष्णुस्त्रिविक्रमो भूत्वा मितवान् यज्जगत्त्रयम् ।  
 विन्देत् तज्जगत्सर्वमालस्यरहितो नृपः ॥ ६१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६१०</summary>
+
+10\. மடியிலா மன்னவன் எய்தும் அடியளந்தான்  
+தாஅய தெல்லாம் ஒருங்கு.  
+The slothless king shall gain en masse  
+*All regions trod by Lord apace.        610  
 </details>
 
 <details><summary>मूलम् - ६१०</summary>
@@ -11163,6 +16045,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स एव यत्नस्ते दद्यात् बलं कार्यसमापने ॥ ६११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६११</summary>
+
+1\. அருமை உடைத்தென்று அசாவாமை வேண்டும்  
+பெருமை முயற்சி தரும்.  
+Feel not frustrate saying "Tis hard".  
+Who tries attains striving's reward.        611  
+</details>
+
 <details><summary>मूलम् - ६११</summary>
 
 अरुमै उडैत्तॆण्ड्रु असावामै वेण्डुम्  
@@ -11179,6 +16069,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जहाति तं नरं लोको यः कर्तव्यं परित्यजेत् ।  
 तस्मात् प्रयत्नशून्यत्वं मुञ्च कर्तव्यकर्मसु ॥ ६१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६१२</summary>
+
+2\. வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறை  
+தீர்ந்தாரின் தீர்ந்தன்று உலகு.  
+In doing work don't break and shirk  
+The world will quit who quits his work.        612  
 </details>
 
 <details><summary>मूलम् - ६१२</summary>
@@ -11199,6 +16097,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अकुण्ठितप्रयत्नारव्यगुणेन सहितास्तु ये ॥ ६१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६१३</summary>
+
+3\. தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றே  
+வேளாண்மை என்னுஞ் செருக்கு.  
+On excellence of industry  
+Depends magnanimous bounty.        613  
+</details>
+
 <details><summary>मूलम् - ६१३</summary>
 
 ताळाण्मै ऎन्नुम् तगैमैक्कण् तङ्गिट्रे  
@@ -11215,6 +16121,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परोपकारं कर्तुं न शक्नुयाद्यत्नवर्जितः ।  
 करवर्तिकृपाणोऽपि भीरुः किं कर्तुमर्हति ॥ ६१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६१४</summary>
+
+4\. தாளாண்மை இல்லாதான் வேளாண்மை பேடிகை  
+வாளாண்மை போலக் கெடும்.  
+Bounty of man who never strives  
+Like sword in eunuch's hand it fails.        614  
 </details>
 
 <details><summary>मूलम् - ६१४</summary>
@@ -11235,6 +16149,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स तु स्वीयजनक्लेशं वारयेत् स्तम्भतां गतः ॥ ६१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६१५</summary>
+
+5\. இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்  
+துன்பம் துடைத்தூன்றும் தூண்.  
+Work who likes and not pleasure  
+Wipes grief of friends, pillar secure.        615  
+</details>
+
 <details><summary>मूलम् - ६१५</summary>
 
 इन्बम् विऴैयान् विनैविऴैवान् तन्गेळिर्  
@@ -11251,6 +16173,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सम्पदं सर्वदा दद्यात् व्यवसायो महीभुजाम् ।  
 दारिद्र्यं तस्य जनयेत् व्यवसायविहीनता ॥ ६१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६१६</summary>
+
+6\. முயற்சி திருவினை யாக்கும் முயற்றின்மை  
+இன்மை புகுத்தி விடும்.  
+Industry adds prosperity  
+Indolence brings but poverty.        616  
 </details>
 
 <details><summary>मूलम् - ६१६</summary>
@@ -11271,6 +16201,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आलस्यवर्जिते पुंसि वर्तते पद्मसम्भवा ॥ ६१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६१७</summary>
+
+7\. மடியுளாள் மாமுகடி என்ப மடியிலான்  
+தாளுளாள் தாமரையி னாள்.  
+Illuck abides with sloth they say  
+*Laxmi's gifts with labourers stay.        617  
+</details>
+
 <details><summary>मूलम् - ६१७</summary>
 
 मडियुळाळ् मामुगडि ऎन्ब मडियिलान्  
@@ -11287,6 +16225,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञात्वा यथावक्तार्येषु यत्नः स्वीक्रियतां त्वया ।  
 विधिना निष्फले यत्ने न निन्द्यस्त्वं भविष्यसि ॥ ६१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६१८</summary>
+
+8\. பொறியின்மை யார்க்கும் பழியன்று அறிவறிந்து  
+ஆள்வினை இன்மை பழி.  
+Misfortune is disgrace to none  
+The shame is nothing learnt or done.        618  
 </details>
 
 <details><summary>मूलम् - ६१८</summary>
@@ -11307,6 +16253,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अलब्धेऽपि फले कायक्लेशो नैव वृथा भवेत् ॥ ६१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६१९</summary>
+
+9\. தெய்வத்தான் ஆகாது எனினும் முயற்சிதன்  
+மெய்வருத்தக் கூலி தரும்.  
+Though fate is against fulfilment  
+Hard labour has ready payment.        619  
+</details>
+
 <details><summary>मूलम् - ६१९</summary>
 
 तॆय्वत्तान् आगा तॆनिनुम् मुयऱ्‌चिदन्  
@@ -11323,6 +16277,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विनालस्यं कर्मलोपमन्तरा यत्नवान् नरः ।  
 प्रतिकूलं विघिं चापि स कदाचिद्विजेष्यति ॥ ६२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६२०</summary>
+
+10\. ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித்  
+தாழாது உஞற்று பவர்  
+Tireless Toiler's striving hand  
+Shall leave even the fate behind.        620  
 </details>
 
 <details><summary>मूलम् - ६२०</summary>
@@ -11346,6 +16308,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 खापनोदनपटुरुत्साहानास्ति कश्चन ॥ ६२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६२१</summary>
+
+1\. இடுக்கண் வருங்கால் நகுக அதனை  
+அடுத்தூர்வது அஃதொப்பது இல்.  
+Laugh away troubles; there is  
+No other way to conquer woes.        621  
+</details>
+
 <details><summary>मूलम् - ६२१</summary>
 
 इडुक्कण् वरुङ्गाल् नगुग अदनै  
@@ -11362,6 +16332,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निरर्गलागतं दुःकप्रावाहं बुद्धिमान्नरः ।  
 हृदये सुखरूपेण जानन् दुःखाद्विमुच्यते ॥ ६२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६२२</summary>
+
+2\. வெள்ளத் தனைய இடும்பை அறிவுடையான்  
+உள்ளத்தின் உள்ளக் கெடும்.  
+Deluging sorrows come to nought  
+When wise men face them with firm thought.        622  
 </details>
 
 <details><summary>मूलम् - ६२२</summary>
@@ -11382,6 +16360,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखस्य दुःखं जनयन्नारब्धं कर्म साधयेत् ॥ ६२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६२३</summary>
+
+3\. இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு  
+இடும்பை படாஅ தவர்.  
+Grief they face and put to grief  
+Who grieve not grief by mind's relief.        623  
+</details>
+
 <details><summary>मूलम् - ६२३</summary>
 
 इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु  
@@ -11398,6 +16384,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वृषभः शकटे बद्धो यत्नाल्लक्ष्य> यथा व्रजेत् ।  
 व्यवसायपरस्तद्वद् दुःखं दूरीकरोत्यहो ॥ ६२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६२४</summary>
+
+4\. மடுத்தவா யெல்லாம் பகடன்னான் உற்ற  
+இடுக்கண் இடர்ப்பாடு உடைத்து.  
+Who pulls like bulls patiently on  
+Causes grief to grieve anon.        624  
 </details>
 
 <details><summary>मूलम् - ६२४</summary>
@@ -11418,6 +16412,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यो विन्दते स वै मर्त्यो दुःखं दुःखस्य यच्छति ॥ ६२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६२५</summary>
+
+5\. அடுக்கி வரினும் அழிவிலான் உற்ற  
+இடுக்கண் இடுக்கட் படும்.  
+Before the brave grief grieves and goes  
+Who dare a host of pressing woes.        625  
+</details>
+
 <details><summary>मूलम् - ६२५</summary>
 
 अडुक्कि वरिनुम् अऴिविलान् उट्र  
@@ -11434,6 +16436,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धने लब्धेऽपि तल्लब्धमिति यस्तु न तुष्यति ।  
 दारिद्र्ये नष्टमित्युक्त्वा व्यसनं न स विन्दते ॥ ६२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६२६</summary>
+
+6\. அற்றேமென்று அல்லற்படுபவோ பெற்றேமென்று  
+ஓம்புதல் தேற்றா தவர்  
+The wise that never gloat in gain  
+Do not fret in fateful ruin.        626  
 </details>
 
 <details><summary>मूलम् - ६२६</summary>
@@ -11454,6 +16464,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखकाले समायते न मुञ्चन्ति मनोधृतिम् ॥ ६२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६२७</summary>
+
+7\. இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்  
+கையாறாக் கொள்ளாதாம் மேல்.  
+The wise worry no more of woes  
+Knowing body's butt of sorrows.        627  
+</details>
+
 <details><summary>मूलम् - ६२७</summary>
 
 इलक्कम् उडम्बिडुम्बैक् कॆण्ड्रु कलक्कत्तैक्  
@@ -11470,6 +16488,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनादृत्य सुखं प्राप्तं ''दुःखं स्वाभाविकं नृणाम्'' ।  
 इति भावयतो दुःखं स्वप्रयत्नान्न जायते ॥ ६२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६२८</summary>
+
+8\. இன்பம் விழையான் இடும்பை இயல்பென்பான்  
+துன்பம் உறுதல் இலன்.  
+Who seek not joy, deem grief norm  
+By sorrows do not come to harm.        628  
 </details>
 
 <details><summary>मूलम् - ६२८</summary>
@@ -11490,6 +16516,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखानुभववेलायां दुःखं तं नैव बाधते ॥ ६२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६२९</summary>
+
+9\. இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்  
+துன்பம் உறுதல் இலன்.  
+In joy to joy who is not bound  
+In grief he grieves not dual round!        629  
+</details>
+
 <details><summary>मूलम् - ६२९</summary>
 
 इन्बत्तुळ् इन्बम् विऴैयादान् तुन्बत्तुळ्  
@@ -11506,6 +16540,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शत्रुणापि श्लघनीयमौन्नत्यं प्राप्नुयादयम् ।  
 दुःखमापतितं यस्तु सुखरूपेण भावयेत् ॥ ६३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६३०</summary>
+
+10\. இன்னாமை இன்பம் எனக்கொளின் ஆகுந்தன்  
+ஒன்னார் விழையுஞ் சிறப்பு.  
+His glory is esteemed by foes  
+Who sees weal in wanton woes!        630  
 </details>
 
 <details><summary>मूलम् - ६३०</summary>
@@ -11532,6 +16574,16 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्रियाप्रकारस्तच्छ्रैष्ठ्यमिमे मन्त्रिगुणाः स्मृताः ॥ ६३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६३१</summary>
+
+64\. அமைச்சு - Ministers
+
+1\. கருவியும் காலமும் செய்கையும் செய்யும்  
+அருவினையும் மாண்டது அமைச்சு.  
+He is minister who chooses  
+Right means, time, mode and rare ventures.        631  
+</details>
+
 <details><summary>मूलम् - ६३१</summary>
 
 करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्  
@@ -11548,6 +16600,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सामर्थ्यं यत्नशीलत्वं कुलीनत्वं मनोधृतिः ।  
 विद्येति पञ्चभिश्चैतैः सहितः सचिवो मतः ॥ ६३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६३२</summary>
+
+2\. வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு  
+ஐந்துடன் மாண்டது அமைச்சு.  
+With these he guards people, - by his  
+Knowledge, firmness and manliness.        632  
 </details>
 
 <details><summary>मूलम् - ६३२</summary>
@@ -11568,6 +16628,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गातानां पुनरानेता भवेत् सचिवसत्तमः ॥ ६३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६३३</summary>
+
+3\. பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்  
+பொருத்தலும் வல்லது அமைச்சு.  
+A minister cherishes friends  
+Divides foes and the parted blends.        633  
+</details>
+
 <details><summary>मूलम् - ६३३</summary>
 
 पिरित्तलुम् पेणिक् कॊळलुम् पिरिन्दार्प्  
@@ -11584,6 +16652,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सहेतुकं क्रियाकर्ता कर्तव्यार्थविमर्शकः ।  
 भावाविष्करणे धीरः सचिचश्रेष्ठ उच्यते ॥ ६३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६३४</summary>
+
+4\. தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச்  
+சொல்லலும் வல்லது அமைச்சு.  
+A minister must sift reflect  
+Select and say surely one fact.        634  
 </details>
 
 <details><summary>मूलम् - ६३४</summary>
@@ -11604,6 +16680,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कालोचितमतिः कार्ये भवेत् सचिवसत्तमः ॥ ६३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६३५</summary>
+
+5\. அறனறிந்து ஆன்றமைந்த சொல்லான்எஞ் ஞான்றும்  
+திறனறிந்தான் தேர்ச்சித் துணை.  
+Have him for help who virtue knows  
+Right wisdom speaks, ever apt in acts.        635  
+</details>
+
 <details><summary>मूलम् - ६३५</summary>
 
 अऱनऱिन्दु आण्ड्रमैन्द सॊल्लान्ऎञ् ञाण्ड्रुन्  
@@ -11620,6 +16704,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यस्य स्वाभाविकं ज्ञानं शास्त्र्ज्ञानेन सङ्गतम् ।  
 मन्त्रिणस्तस्य पुरतः किं कुर्युः शत्रुवञ्चनाः ॥ ६३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६३६</summary>
+
+6\. மதிநுட்பம் நூலோடு உடையார்க்கு அதிநுட்பம்  
+யாஉள முன்னிற் பவை.  
+Which subtler brain can stand before  
+The keen in brain with learned love?        636  
 </details>
 
 <details><summary>मूलम् - ६३६</summary>
@@ -11640,6 +16732,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 देशकालानुरोधेन कार्यसाधनमुत्तमम् ॥ ६३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६३७</summary>
+
+7\. செயற்கை அறிந்தக் கடைத்தும் உலகத்து  
+இயற்கை அறிந்து செயல்.  
+Albeit you know to act from books  
+Act after knowing world's outlooks.        637  
+</details>
+
 <details><summary>मूलम् - ६३७</summary>
 
 सॆयऱ्‌कै अऱिन्दक् कडैत्तुम् उलगत्तु  
@@ -11656,6 +16756,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अश‍ृण्वतः सतां वाक्यं स्वयं तत्त्वमजानतः ।  
 नृपस्य समये तत्त्वकथनं मन्त्रिलक्षणम् ॥ ६३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६३८</summary>
+
+8\. அறிகொன்று அறியான் எனினும் உறுதி  
+உழையிருந்தான் கூறல் கடன்.  
+The man in place must tell the facts  
+Though the ignorant king refutes.        638  
 </details>
 
 <details><summary>मूलम् - ६३८</summary>
@@ -11676,6 +16784,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कोटिसप्ततिशत्रूणां मध्ये वासोऽपि साम्प्रतम् ॥ ६३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६३९</summary>
+
+9\. பழுதெண்ணும் மந்திரியின் பக்கத்துள் தெவ்வோர்  
+எழுபது கோடி உறும்.  
+Seventy crores of foes are better  
+Than a minister with mind bitter.        639  
+</details>
+
 <details><summary>मूलम् - ६३९</summary>
 
 पऴुदॆण्णुम् मन्दिरियिन् पक्कददुळ् तॆव्वोर्  
@@ -11692,6 +16808,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्मृत्वा यथावत्कार्याणि सम्यकू तत्कर्तुमुद्यतः ।  
 नैतानि पूर्णतां यान्ति सामर्थ्य न भवेद्यदि ॥ ६४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६४०</summary>
+
+10\. முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர்  
+திறப்பாடு இலாஅ தவர்.  
+The unresolved, though well designed  
+To fulfil an act they have no mind.        640  
 </details>
 
 <details><summary>मूलम् - ६४०</summary>
@@ -11715,6 +16839,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गुणमध्ये विशेषेण वाग्मिता राजते यतः ॥ ६४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६४१</summary>
+
+1\. நாநலம் என்னும் நலனுடைமை அந்நலம்  
+யாநலத்து உள்ளதூஉம் அன்று.  
+The goodness called goodness of speech  
+Is goodness which nothing can reach.        641  
+</details>
+
 <details><summary>मूलम् - ६४१</summary>
 
 नानलम् ऎन्नुम् नलनुडैमै अन्नलम्  
@@ -11731,6 +16863,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वक्तुर्वचनभङ्गयैव यतः स्यातां शुभाशुभे ।  
 आलोच्य सावधानेन तस्माद्वाक्यं प्रजुज्यताम् ॥ ६४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६४२</summary>
+
+2\. ஆக்கமுங் கேடும் அதனால் வருதலால்  
+காத்தோம்பல் சொல்லின்கண் சோர்வு.  
+Since gain or ruin speeches bring  
+Guard against the slips of tongue.        642  
 </details>
 
 <details><summary>मूलम् - ६४२</summary>
@@ -11751,6 +16891,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अश्रुतानां च शुश्रूषा भवेत् तत्तात्त्विकं वच ॥ ६४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६४३</summary>
+
+3\. கேட்டார்ப் பிணிக்குந் தகையவாய்க் கோளாரும்  
+வேட்ப மொழிவதாஞ் சொல்.  
+A speech is speech that holds ears  
+And attracts ev'n those that are averse.        643  
+</details>
+
 <details><summary>मूलम् - ६४३</summary>
 
 केट्टार्प् पिणिक्कुम् तगैयवाय्क् केळारुम्  
@@ -11767,6 +16915,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वक्तृश्रोत्रोर्मनस्तत्त्वं ज्ञात्वा वचनमुच्यताम् ।  
 तादृग्वचःप्रयोगेण धर्मार्थौ भुवि सिद्धयतः ॥ ६४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६४४</summary>
+
+4\. திறனறிந்து சொல்லுக சொல்லை அறனும்  
+பொருளும் அதனினூஉங்கு இல்.  
+Weigh thy words and speak; because  
+No wealth or virtue words surpass.        644  
 </details>
 
 <details><summary>मूलम् - ६४४</summary>
@@ -11787,6 +16943,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतरेषां वचोभिश्च यज्जेतुं नैव शक्यते ॥ ६४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६४५</summary>
+
+5\. சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை  
+வெல்லுஞ்சொல் இன்மை அறிந்து  
+Speak out thy world so that no word  
+Can win it and say untoward.        645  
+</details>
+
 <details><summary>मूलम् - ६४५</summary>
 
 सॊल्लुग सॊल्लैप् पिऱिदोर्सॊल् अच्चॊल्लै  
@@ -11803,6 +16967,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मनोऽनुकूलमन्येषामुक्तवा तेषां वचस्यपि ।  
 त्यक्तवा दोषान् भावमात्रग्रहणं मन्त्रिणां गुणः ॥ ६४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६४६</summary>
+
+6\. வேட்பத்தாஞ் சொல்லிப் பிறர்சொல் பயன்கோடல்  
+மாட்சியின் மாசற்றார் கோள்.  
+Spotless men speak what is sweet  
+And grasp in others what is meet.        646  
 </details>
 
 <details><summary>मूलम् - ६४६</summary>
@@ -11823,6 +16995,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विस्मृत्या रहितं धीरं वाक्यं यः समुदीरयेत् ॥ ६४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६४७</summary>
+
+7\. சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை  
+இகல்வெல்லல் யார்க்கும் அரிது.  
+No foe defies the speaker clear  
+Flawless, puissant, and free from fear.        647  
+</details>
+
 <details><summary>मूलम् - ६४७</summary>
 
 सॊलल्वल्लन् सोर्विलन् अञ्जान् अवनै  
@@ -11839,6 +17019,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नानार्थानानुपूर्व्येण सग्रथ्य मधुरं वचः ।  
 प्रयुञ्जानस्य वचनं लोको गृह्णाति सादरम् ॥ ६४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६४८</summary>
+
+8\. விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது  
+சொல்லுதல் வல்லார்ப் பெறின்.  
+The world will quickly carry out  
+The words of counsellors astute.        648  
 </details>
 
 <details><summary>मूलम् - ६४८</summary>
@@ -11859,6 +17047,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वाक्यजालमनुस्यूतं वक्तुमेव हि ते क्षमाः ॥ ६४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६४९</summary>
+
+9\. பலசொல்லக் காமுறுவர் மன்றமா சற்ற  
+சிலசொல்லல் தேற்றா தவர்.  
+They overspeak who do not seek  
+A few and flawless words to speak.        649  
+</details>
+
 <details><summary>मूलम् - ६४९</summary>
 
 पलसॊल्लक् कामुऱुवर् मण्ड्रमा सट्र  
@@ -11875,6 +17071,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अधीतग्रन्थमन्येषां ये बोधयितुमक्षमाः ।  
 निर्गन्धफुल्लकुसुमैः ते भजन्ते समानताम् ॥ ६५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६५०</summary>
+
+10\. இணரூழ்த்தும் நாறா மலரனையர் கற்றது  
+உணர விரித்துரையா தார்.  
+Who can't express what they have learnt  
+Are bunch of flowers not fragrant.        650  
 </details>
 
 <details><summary>मूलम् - ६५०</summary>
@@ -11898,6 +17102,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यदि कर्म भवेत् सुष्ठु सर्वं तेन हि सिद्ध्यति ॥ ६५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६५१</summary>
+
+1\. துணைநலம் ஆக்கம் தரூஉம் வினைநலம்  
+வேண்டிய எல்லாம் தரும்.  
+Friendship brings gain; but action pure  
+Does every good thing we desire.        651  
+</details>
+
 <details><summary>मूलम् - ६५१</summary>
 
 तुणैनलम् आक्कम् त्रुउम् विनैनलम्  
@@ -11914,6 +17126,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 इह कीर्तिः परे पुण्यं न सिद्धयेद्येन कर्मणा ।  
 सर्वदा तन्न कर्तव्यं मन्त्रिणा भूतिमिच्छता ॥ ६५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६५२</summary>
+
+2\. என்றும் ஒருவுதல் வேண்டும் புகழொடு  
+நன்றி பயவா வினை.  
+Eschew always acts that do not  
+Bring good nor glory on their part.        652  
 </details>
 
 <details><summary>मूलम् - ६५२</summary>
@@ -11934,6 +17154,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 त्यज्यतां तादृशं कार्यं यद्गौखविधातकम् ॥ ६५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६५३</summary>
+
+3\. ஓஒதல் வேண்டும் ஒளிமாழ்கும் செய்வினை  
+ஆஅதும் என்னு மவர்.  
+Those in the world desire for fame  
+Should shun the deed that dims their name.        653  
+</details>
+
 <details><summary>मूलम् - ६५३</summary>
 
 ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विनै  
@@ -11950,6 +17178,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्राप्तोऽपि व्यसने तस्य निर्मूलनकृतेऽपि वा ।  
 निन्द्यं कार्यं न कुर्वन्ति विशुद्धमतयो जनाः ॥ ६५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६५४</summary>
+
+4\. இடுக்கண் படினும் இளிவந்த செய்யார்  
+நடுக்கற்ற காட்சி யவர்.  
+Though perils press the faultless wise  
+Shun deeds of mean, shameful device.        654  
 </details>
 
 <details><summary>मूलम् - ६५४</summary>
@@ -11970,6 +17206,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रमादेन कृते चापि पश्चातापमतिं त्यज ॥ ६५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६५५</summary>
+
+5\. எற்றென்று இரங்குவ செய்யற்க செய்வானேல்  
+மற்றன்ன செய்யாமை நன்று.  
+Do not wrong act and grieve, "Alas"  
+If done, do not repeat it twice.        655  
+</details>
+
 <details><summary>मूलम् - ६५५</summary>
 
 ऎट्रॆण्ड्रु इरङ्गुव सॆय्यऱ्‌क सॆय्वानेल्  
@@ -11986,6 +17230,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मातुर्बुभुक्षाशमनसङ्कटेऽपि समागते ।  
 सद्भिर्विगर्हितं वर्ज्यं कार्यं न हि समाचरेत् ॥ ६५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६५६</summary>
+
+6\. ஈன்றான் பசிகாண்பான் ஆயினுஞ் செய்யற்க  
+சான்றோர் பழிக்கும் வினை.  
+Though she who begot thee hungers  
+Shun acts denounced by ancient seers.        656  
 </details>
 
 <details><summary>मूलम् - ६५६</summary>
@@ -12006,6 +17258,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विर्दुष्टकर्मजनितदारिद्र्यं हि सतां वरम् ॥ ६५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६५७</summary>
+
+7\. பழிமலைந்து எய்திய ஆக்கத்தின் சான்றோர்  
+கழிநல் குரவே தலை.  
+Pinching poverty of the wise  
+Is more than wealth hoarded by Vice.        657  
+</details>
+
 <details><summary>मूलम् - ६५७</summary>
 
 पऴिमलैन्दु ऎय्दिय आक्कत्तिन् साण्ड्रोर्  
@@ -12022,6 +17282,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 न कुर्यान्निन्दितं कर्म तत् प्रमादात् क्रियेत् चेत् ।  
 कार्यवसानवेलायां दुःखमेव भवेत् ततः ॥ ६५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६५८</summary>
+
+8\. கடிந்த கடிந்தொரார் செய்தார்க்கு அவைதாம்  
+முடிந்தாலும் பீழை தரும்.  
+Those who dare a forbidden deed  
+Suffer troubles though they succeed.        658  
 </details>
 
 <details><summary>मूलम् - ६५८</summary>
@@ -12042,6 +17310,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्रमप्राप्तधनं नष्टमप्यन्ते मुदमर्पयेत् ॥ ६५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६५९</summary>
+
+9\. அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்  
+பிற்பயக்கும் நற்பா லவை.  
+Gains from weeping, weeping go  
+Though lost, from good deeds blessings flow.        659  
+</details>
+
 <details><summary>मूलम् - ६५९</summary>
 
 अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिनुम्  
@@ -12058,6 +17334,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वञ्चनामार्गसंप्राप्तवित्तरक्षणकर्म तु ।  
 अपक्कामघटक्षिप्तजलरक्षणवद्भवेत् ॥ ६६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६६०</summary>
+
+10\. சலத்தால் பொருள்செய்தே மார்த்தல் பசுமட்  
+கலத்துள்நீர் பெய்திரீஇ யற்று  
+The wealth gathered in guilty ways  
+Is water poured in wet clay vase.        660  
 </details>
 
 <details><summary>मूलम् - ६६०</summary>
@@ -12081,6 +17365,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सैन्यदुर्गादिदार्ढ्य तु नात्र दार्ढ्यपदेरितम् ॥ ६६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६६१</summary>
+
+1\. வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம்  
+மற்றைய எல்லாம் பிற.  
+A powerful mind does powerful act  
+And all the rest are imperfect.        661  
+</details>
+
 <details><summary>मूलम् - ६६१</summary>
 
 विनैत्तिट्पम् ऎन्बदु ऒरुवन् मनत्तिट्पम्  
@@ -12097,6 +17389,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निषिद्धकर्मणस्त्यागो दैवात्तस्मिन् कृतेऽपि च ।  
 चित्तदार्ढ्यापरित्याग इतीमौ प्रकृते मतौ ॥ ६६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६६२</summary>
+
+2\. ஊறொராவ் உற்றபின் ஒல்காமை இவ்விரண்டின்  
+ஆறென்பர் ஆய்ந்தவர் கோள்.  
+Shun failing fuss; fail not purpose  
+These two are maxims of the wise.        662  
 </details>
 
 <details><summary>मूलम् - ६६२</summary>
@@ -12117,6 +17417,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दृढं भवति तत्, मध्ये ज्ञातं चेद् दुःखमापतेत् ॥ ६६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६६३</summary>
+
+3\. கடைகொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்  
+எற்றா விழுமந் தரும்.  
+The strong achieve and then display  
+Woe unto work displayed midway.        663  
+</details>
+
 <details><summary>मूलम् - ६६३</summary>
 
 कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किन्  
@@ -12133,6 +17441,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 एवं कर्तव्यमित्येतद्वक्तुं शक्ताः समे भुवि ।  
 यथोक्तं कार्यकरणे समर्थो नास्ति कश्चन ॥ ६६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६६४</summary>
+
+4\. சொல்லுதல் யார்க்கும் எளிய அரியவாம்  
+சொல்லிய வண்ணம் செயல்.  
+Easy it is to tell a fact  
+But hard it is to know and act.        664  
 </details>
 
 <details><summary>मूलम् - ६६४</summary>
@@ -12153,6 +17469,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महत्वजननाद्राज्ञः सर्वैरपि महीयते ॥ ६६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६६५</summary>
+
+5\. வீறெய்தி மாண்டார் வினைதிட்பம் வேந்தன்கண்  
+ஊறெய்தி உள்ளப் படும்.  
+Dynamic deeds of a doughty soul  
+Shall win the praise of king and all.        665  
+</details>
+
 <details><summary>मूलम् - ६६५</summary>
 
 वीऱॆय्दि माण्डार् विनैत्तिट्पम् वेन्दन्गण्  
@@ -12169,6 +17493,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चिकीर्षितप्रकारेण ये धीराः कार्यसाधने ।  
 चिकीर्षितं फलं चापि प्राप्नुवन्ति तथैव ते ॥ ६६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६६६</summary>
+
+6\. எண்ணிய எண்ணியாங்கு எய்துப எண்ணியார்  
+திண்ணிய ராகப் பெறின்.  
+The will-to-do achieves the deed  
+When mind that wills is strong indeed.        666  
 </details>
 
 <details><summary>मूलम् - ६६६</summary>
@@ -12189,6 +17521,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महत्वे नाकृतिर्हेतुः दार्ढ्यं स्यात्तत्र कारणम् ॥ ६६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६६७</summary>
+
+7\. உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்கு  
+அச்சாணி அன்னார் உடைத்து.  
+Scorn not the form: for men there are  
+Like linchpin of big rolling car.        667  
+</details>
+
 <details><summary>मूलम् - ६६७</summary>
 
 उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु  
@@ -12205,6 +17545,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रसन्नमनसा कार्ये प्रवृत्तेन फलेच्छया ।  
 आलस्यदीर्घसूत्रत्वमन्तरा तद्विधीयताम् ॥ ६६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६६८</summary>
+
+8\. கலங்காது கண்ட வினைக்கண் துளங்காது  
+தூக்கம் கடிந்து செயல்.  
+Waver not; do wakefully  
+The deed resolved purposefully.        668  
 </details>
 
 <details><summary>मूलम् - ६६८</summary>
@@ -12225,6 +17573,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अवश्यमेव कर्तव्यं दृढचित्तसमन्वितैः ॥ ६६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६६९</summary>
+
+9\. துன்பம் உறவரினும் செய்க துணிவாற்றி  
+இன்பம் பயக்கும் வினை.  
+Do with firm will though pains beset  
+The deed that brings delight at last.        669  
+</details>
+
 <details><summary>मूलम् - ६६९</summary>
 
 तुन्बम् उऱवरिनुम् सॆय्ग तुणिवाट्रि  
@@ -12241,6 +17597,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दार्ढ्ये स्थितेऽप्यन्यकार्ये स्वीकृते पूतकर्मणि ।  
 मनोदार्ढ्यविहीनांस्तु मानयन्ति न मानवाः ॥ ६७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६७०</summary>
+
+10\. எனைத்திட்பம் எய்தியக் கண்ணும் வினைத்திட்பம்  
+வேண்டாரை வேண்டாது உலகு.  
+The world merits no other strength  
+But strength of will-to-do at length.        670  
 </details>
 
 <details><summary>मूलम् - ६७०</summary>
@@ -12264,6 +17628,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आलस्यं नैव कर्तव्यमन्यथा व्यसनं भवेत् ॥ ६७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६७१</summary>
+
+1\. சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு  
+தாழ்ச்சியுள் தங்குதல் தீது.  
+When counsel takes a resolve strong  
+Weak delay of action is wrong.        671  
+</details>
+
 <details><summary>मूलम् - ६७१</summary>
 
 सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु  
@@ -12280,6 +17652,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदालस्येन कर्तव्यं तत्रालस्य प्रदर्श्यताम् ।  
 त्वरया करणीयं यत् तत्रालस्यं न शोभनाम् ॥ ६७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६७२</summary>
+
+2\. தூங்குக தூங்கிச் செயற்பால தூங்கற்க  
+தூங்காது செய்யும் வினை.  
+Delay such acts as need delay  
+Delay not acts that need display.        672  
 </details>
 
 <details><summary>मूलम् - ६७२</summary>
@@ -12300,6 +17680,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदभावे यदा यत्तु साध्यं तत् तत्र साध्यताम् ॥ ६७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६७३</summary>
+
+3\. ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்  
+செல்லும்வாய் நோக்கிச் செயல்.  
+It's best to act when feasible  
+If not see what is possible.        673  
+</details>
+
 <details><summary>मूलम् - ६७३</summary>
 
 ङल्लुम्वा यॆल्लाम् विनैनण्ड्रे ऒल्लाक्काल्  
@@ -12316,6 +17704,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आरब्धकार्ये यच्छिष्टं शिष्टं यद्धतशत्रुषु ।  
 द्वयं गूढं सदन्ते तु दहेच्छिष्टस्फुलिङ्गवत् ॥ ६७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६७४</summary>
+
+4\. வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால்  
+தீயெச்சம் போலத் தெறும்.  
+Work or foe left unfinished  
+Flare up like fire unextinguished.        674  
 </details>
 
 <details><summary>मूलम् - ६७४</summary>
@@ -12336,6 +17732,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पञ्चानामपि विस्पष्ठं बुध्वा कार्यं विधीयताम् ॥ ६७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६७५</summary>
+
+5\. பொருள்கருவி காலம் வினையிடனொடு ஐந்தும்  
+இருள்தீர எண்ணிச் செயல்.  
+Money and means, time, place and deed  
+Decide these five and then proceed.        675  
+</details>
+
 <details><summary>मूलम् - ६७५</summary>
 
 पॊरुळ्गरुवि कालम् विनैयिडनॊडु ऐन्दुम्  
@@ -12352,6 +17756,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 क्रियासम्बन्धिनो यत्नान् विघ्नान् सम्भावितान् तथा ।  
 अन्ते महाफलप्राप्तिं त्रयं बुध्वा क्रियां कुरु ॥ ६७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६७६</summary>
+
+6\. முடிவும் இடையூறும் முற்றியாங்கு எய்தும்  
+படுபயனும் பார்த்துச் செயல்.  
+Weigh well the end, hindrance, profit  
+And then pursue a fitting act.        676  
 </details>
 
 <details><summary>मूलम् - ६७६</summary>
@@ -12372,6 +17784,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यैः कृता भावमेषां च ज्ञात्वा कार्ये मतिं कुरु ॥ ६७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६७७</summary>
+
+7\. செய்வினை செய்வான் செயல்முறை அவ்வினை  
+உள்ளறிவான் உள்ளம் கொளல்.  
+Know first the secret from experts  
+That is the way of fruitful acts.        677  
+</details>
+
 <details><summary>मूलम् - ६७७</summary>
 
 सॆय्विनै सॆय्वान् सॆयन्मुऱै अव्विनै  
@@ -12388,6 +17808,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मत्तेभमेकं संप्रेप्य यथन्यो गृह्यते गजः ।  
 कृतेनैकेन कार्येण तथान्यदपि साध्यताम् ॥ ६७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६७८</summary>
+
+8\. வினையால் வினையாக்கிக் கோடல் நனைகவுள்  
+யானையால் யானையாத் தற்று.  
+Lure a tusker by a tusker  
+Achieve a deed by deed better.        678  
 </details>
 
 <details><summary>मूलम् - ६७८</summary>
@@ -12408,6 +17836,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अप्रिया ये स्वशत्रोस्तैः सख्यं प्रथमतः कुरु ॥ ६७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६७९</summary>
+
+9\. நட்டார்க்கு நல்ல செயலின் விரைந்ததே  
+ஒட்டாரை ஒட்டிக் கொளல்.  
+Than doing good to friends it is  
+More urgent to befriend the foes.        679  
+</details>
+
 <details><summary>मूलम् - ६७९</summary>
 
 नट्टार्क्कु नल्ल सॆयलिन् विरैन्ददे  
@@ -12424,6 +17860,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुर्बलाः स्वाश्रितजनत्रासनिर्मूलनेच्छया ।  
 बलिष्ठैः सह सम्बन्धं कुर्युरर्थं प्रदाय वा ॥ ६८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६८०</summary>
+
+10\. உறைசிறியார் உள்நடுங்கல் அஞ்சிக் குறைபெறின்  
+கொள்வர் பெரியார்ப் பணிந்து.  
+Small statesmen fearing people's fear  
+Submit to foes superior.        680  
 </details>
 
 <details><summary>मूलम् - ६८०</summary>
@@ -12447,6 +17891,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अतैर्विशेषणैर्युक्तो दूतो भवितुमर्हति ॥ ६८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६८१</summary>
+
+1\. அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்  
+பண்புடைமை தூதுரைப்பான் பண்பு.  
+Love, noble birth, good courtesy  
+Pleasing kings mark true embassy.        681  
+</details>
+
 <details><summary>मूलम् - ६८१</summary>
 
 अन्बुडैमै आण्ड्र कुडिप्पिऱत्तल् वेन्दवाम्  
@@ -12463,6 +17915,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विमृश्य वाक्यकथनपाटवं ज्ञानमार्जवम् ।  
 राजप्रीतिरिमे दूतो त्रयः स्वाभाविका गुणाः ॥ ६८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६८२</summary>
+
+2\. அன்பறிவு ஆராய்ந்த சொல்வன்மை தூதுரைப்பார்க்கு  
+இன்றி யமையாத மூன்று.  
+Envoys must bear love for their prince  
+Knowledge and learned eloquence.        682  
 </details>
 
 <details><summary>मूलम् - ६८२</summary>
@@ -12483,6 +17943,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दूतस्य लक्षणं नीतिशास्त्रज्ञत्वं निगद्यते ॥ ६८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६८३</summary>
+
+3\. நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள்  
+வென்றி வினையுரைப்பான் பண்பு.  
+Savant among savants, he pleads  
+Before lanced king, triumphant words.        683  
+</details>
+
 <details><summary>मूलम् - ६८३</summary>
 
 नूलारुळ् नूल्वल्लन् आगुदल् वेलारुळ्  
@@ -12499,6 +17967,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विमर्शसहिता विद्या रूपं स्वाभाविकी मतिः ।  
 एतत्त्रितयसम्पन्नो दौत्यकर्म समाचरेत् ॥ ६८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६८४</summary>
+
+4\. அறிவுரு ஆராய்ந்த கல்விஇம் மூன்றன்  
+செறிவுடையான் செல்க வினைக்கு.  
+Who has these three: good form, sense, lore  
+Can act as bold ambassador.        684  
 </details>
 
 <details><summary>मूलम् - ६८४</summary>
@@ -12519,6 +17995,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पत्युएमनोऽनुकूलं यो वक्ति दूतः स कथ्यते ॥ ६८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६८५</summary>
+
+5\. தொகச்சொல்லித் தூவாத நீக்கி நகச்சொல்லி  
+நன்றி பயப்பதாம் தூது.  
+Not harsh, the envoy's winsome ways  
+Does good by pleasant words concise.        685  
+</details>
+
 <details><summary>मूलम् - ६८५</summary>
 
 तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि  
@@ -12535,6 +18019,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नितीज्ञाः स्फुटवक्ता च धैर्यवान् रिपुसन्निधौ ।  
 कालानुकूलप्रज्ञावन् दूतः स्यात् शास्त्रसम्मतः ॥ ६८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६८६</summary>
+
+6\. கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால்  
+தக்கது அறிவதாம் தூது.  
+Learned; fearless, the envoy tends  
+Convincing words which time demands.        686  
 </details>
 
 <details><summary>मूलम् - ६८६</summary>
@@ -12555,6 +18047,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विमृश्य कथनीयार्थवक्ता स्याद् दूतसत्तमः ॥ ६८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६८७</summary>
+
+7\. கடனறிந்து காலம் கருதி இடனறிந்து  
+எண்ணி உரைப்பான் தலை.  
+Knowing duty time and place  
+The envoy employs mature phrase.        687  
+</details>
+
 <details><summary>मूलम् - ६८७</summary>
 
 कडनऱिन्दु कालङ् गरुदि इडनऱिन्दु  
@@ -12571,6 +18071,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अर्थकामोष्वनासक्तिः सर्वदा साह्यकारिता ।  
 मनोदार्ढ्य च दूतानां लक्षणं प्रोच्यते बुधैः ॥ ६८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६८८</summary>
+
+8\. தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்  
+வாய்மை வழியுரைப்பான் பண்பு.  
+The true envoy of three virtues  
+Is pure helpful and bold in views.        688  
 </details>
 
 <details><summary>मूलम् - ६८८</summary>
@@ -12591,6 +18099,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 राजवार्तामन्यराज्ञि वक्तुं युक्तः स एव हि ॥ ६८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६८९</summary>
+
+9\. விடுமாற்றம் வேந்தர்க்கு உரைப்பான் வடுமாற்றம் -  
+வாய்சோரா வன்க ணவன்.  
+The envoy who ports the king's message  
+Has flawless words and heart's courage.        689  
+</details>
+
 <details><summary>मूलम् - ६८९</summary>
 
 विडुमाट्रम् वेन्दर्क्कु उरैप्पान् वडुमाट्रम्  
@@ -12607,6 +18123,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शत्रुबाधामवाप्तोऽपि निर्भयः शत्रुमन्निधौ ।  
 प्रतिप्रभाववक्ता यः तं दूतं ब्रुवते बुधाः ॥ ६९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६९०</summary>
+
+10\. இறுதி பயப்பினும் எஞ்சாது இறைவர்க்கு  
+உறுதி பயப்பதாம் தூது.  
+Braving death the bold envoy  
+Assures his king's safety and joy.        690  
 </details>
 
 <details><summary>मूलम् - ६९०</summary>
@@ -12630,6 +18154,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शैत्यबाधानिवृत्त्यर्थं यथाग्निकटं गतः ॥ ६९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६९१</summary>
+
+1\. அகலாது அணுகாது தீக்காய்வார் போல்க  
+இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்.  
+Move with hostile kings as with fire  
+Not coming close nor going far.        691  
+</details>
+
 <details><summary>मूलम् - ६९१</summary>
 
 अगलादु अणुगादु तीक्काय्वार् पोल्ग  
@@ -12646,6 +18178,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 राजवाञ्छितवस्तूनि स्वयं लब्धुमानिच्छते ।  
 मान्त्रिणे पार्थिवो दद्यादखिलं तेन वाञ्छितम् ॥ ६९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६९२</summary>
+
+2\. மன்னர் விழைப விழையாமை மன்னரால்  
+மன்னிய ஆக்கம் தரும்.  
+Crave not for things which kings desire  
+This brings thee their fruitful favour.        692  
 </details>
 
 <details><summary>मूलम् - ६९२</summary>
@@ -12666,6 +18206,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अप्रसन्ने महिपाले न शक्यं तस्य सान्त्वनम् ॥ ६९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६९३</summary>
+
+3\. போற்றின் அரியவை போற்றல் கடுத்தபின்  
+தேற்றுதல் யார்க்கும் அரிது.  
+Guard thyself from petty excess  
+Suspected least, there's no redress.        693  
+</details>
+
 <details><summary>मूलम् - ६९३</summary>
 
 पोट्रिन् अरियवै पोट्रल् कडुत्तबिन्  
@@ -12682,6 +18230,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 राज्ञि पश्यति चान्येषां श्रोत्रयोर्गुप्तभाषणम् ।  
 सहान्यैर्हास्यवचनं प्रयोक्तव्यं न मन्त्रिणा ॥ ६९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६९४</summary>
+
+4\. செவிச்சொல்லும் சேர்ந்த நகையும் அவித்தொழுகல்  
+ஆன்ற பெரியா ரகத்து.  
+Whisper not; nor smile exchange  
+Amidst august men's assemblage.        694  
 </details>
 
 <details><summary>मूलम् - ६९४</summary>
@@ -12702,6 +18258,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रश्नं न कुर्यात् किं वेति तेनोक्तं चेत् तदा श‍ृणु ॥ ६९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६९५</summary>
+
+5\. எப்பொருளும் ஓரார் தொடரார்மற் றப்பொருளை  
+விட்டக்கால் கேட்க மறை.  
+Hear not, ask not the king's secret  
+Hear only when he lets it out.        695  
+</details>
+
 <details><summary>मूलम् - ६९५</summary>
 
 ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ्‌ ऱप्पॊरुळै  
@@ -12718,6 +18282,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञात्वेङ्गितं च कालं च भूपतेर्यत्तु वाञ्छितम् ।  
 अनिराकरणीयं तत् मन्त्री बूयान्मनोहरम् ॥ ६९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६९६</summary>
+
+6\. குறிப்பறிந்து காலம் கருதி வெறுப்பில்  
+வேண்டுப வேட்பச் சொலல்.  
+Discern his mood and time and tell  
+No dislikes but what king likes well.        696  
 </details>
 
 <details><summary>मूलम् - ६९६</summary>
@@ -12738,6 +18310,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पृष्टोऽपि व्यर्थवचनं न वदेत् सचिव ः स्वयम् ॥ ६९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६९७</summary>
+
+7\. வேட்பன சொல்லி வினையில எஞ்ஞான்றும்  
+கேட்பினும் சொல்லா விடல்.  
+Tell pleasing things; and never tell  
+Even if pressed what is futile.        697  
+</details>
+
 <details><summary>मूलम् - ६९७</summary>
 
 वेट्पन सॊल्लि विनैयिल ऎञ्ञाण्ड्रुम्  
@@ -12754,6 +18334,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''कनिष्ठो वयसा बन्धुभूतोऽय'' मिति भूपतौ ।  
 निर्लक्ष्यभावमुत्सृज्य दीयतां स्थानगौरवम् ॥ ६९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ६९८</summary>
+
+8\. இளையர் இனமுறையர் என்றிகழார் நின்ற  
+ஒளியோடு ஒழுகப் படும்.  
+As young and kinsman do not slight;  
+Look with awe king's light and might.        698  
 </details>
 
 <details><summary>मूलम् - ६९८</summary>
@@ -12774,6 +18362,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनिष्टं भूपतेर्नैव कुर्यान्मन्त्री विशुद्धधीः ॥ ६९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ६९९</summary>
+
+9\. கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்  
+துளக்கற்ற காட்சி யவர்.  
+The clear-visioned do nothing base  
+Deeming they have the monarch's grace.        699  
+</details>
+
 <details><summary>मूलम् - ६९९</summary>
 
 कॊळप्पट्टेम् ऎण्ड्रॆण्णिक् कॊळ्ळाद सॆय्यार्  
@@ -12790,6 +18386,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''चिरात् परिचितो राजा ममे''ति ममतापरः ।  
 मन्त्री स्वातन्त्र्यमालम्ब्य नानिष्टं कार्यमाचरेत् ॥ ७००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७००</summary>
+
+10\. பழையம் எனக்கருதிப் பண்பல்ல செய்யும்  
+கெழுதகைமை கேடு தரும்.  
+Worthless acts based on friendship old  
+Shall spell ruin and woe untold.        700  
 </details>
 
 <details><summary>मूलम् - ७००</summary>
@@ -12813,6 +18417,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यो वेत्ति सचिवो लोकभूषणं स भवेद् ध्रुवम् ॥ ७०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७०१</summary>
+
+1\. கூறாமை நோக்கிக் குறிப்பறிவான் எஞ்ஞான்றும்  
+மாறாநீர் வையக்கு அணி  
+Who reads the mind by look, untold  
+Adorns the changeless sea-girt world.        701  
+</details>
+
 <details><summary>मूलम् - ७०१</summary>
 
 कूऱामै नोक्किक् कुऱिप्पऱिवान् ऎञ्ञाण्ड्रुम्  
@@ -12829,6 +18441,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परिचगतं भावमिङ्गितैः संशयं विना ।  
 ज्ञातुं समर्थो दैवेन तुल्य एव विभाव्यताम् ॥ ७०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७०२</summary>
+
+2\. ஐயப் படாஅது அகத்தது உணர்வானைத்  
+தெய்வத்தோ டொப்பக் கொளல்.  
+Take him as God who reads the thought  
+Of another man without a doubt.        702  
 </details>
 
 <details><summary>मूलम् - ७०२</summary>
@@ -12849,6 +18469,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यो वेत्ति तस्मै वित्तादि दत्वा तं स्ववशे कुरु ॥ ७०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७०३</summary>
+
+3\. குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள்  
+யாது கொடுத்தும் கொளல்.  
+By sign who scans the sign admit  
+At any cost in cabinet.        703  
+</details>
+
 <details><summary>मूलम् - ७०३</summary>
 
 कुऱिप्पिऱ्‌ कुऱिप्पुणर् वारै उऱुप्पिनुळ्  
@@ -12865,6 +18493,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परभावपरिज्ञाता चेङ्गितैर्भाषणादृते ।  
 आकारैरन्यतुल्योऽपि ज्ञानेनायं विशिष्यते ॥ ७०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७०४</summary>
+
+4\. குறித்தது கூறாமைக் கொள்வாரோ டேனை  
+உறுப்போ ரனையரால் வேறு.  
+Untold, he who divines the thought  
+Though same in form is quite apart.        704  
 </details>
 
 <details><summary>मूलम् - ७०४</summary>
@@ -12885,6 +18521,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अजानतां वृथा नेत्रे दर्शनैकप्रजोजने ॥ ७०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७०५</summary>
+
+5\. குறிப்பிற் குறிப்புணரா வாயின் உறுப்பினுள்  
+என்ன பயத்தவோ கண்.  
+Among senses what for is eye  
+If thought by thought one can't descry?        705  
+</details>
+
 <details><summary>मूलम् - ७०५</summary>
 
 कुऱिप्पिऱ्‌ कुऱिप्पुणरा वायिन् उऱुप्पिनुळ्  
@@ -12901,6 +18545,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वर्णभेदं वस्तिनिष्ठं स्फटिको दर्शयेद्यथा ।  
 मनोगतं भावभेदं मुखं तद्वत् प्रदर्शयेत् ॥ ७०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७०६</summary>
+
+6\. அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம்  
+கடுத்தது காட்டும் முகம்.  
+What throbs in mind the face reflects  
+Just as mirror nearby objects.        706  
 </details>
 
 <details><summary>मूलम् - ७०६</summary>
@@ -12921,6 +18573,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पुरुषस्य सुखं दुःखं ज्ञात्वा स्वेन प्रकाशनात् ॥ ७०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७०७</summary>
+
+7\. முகத்தின் முதுக்குறைந்தது உண்டோ உவப்பினும்  
+காயினும் தான்முந் துறும்.  
+Than face what is subtler to tell  
+First if the mind feels well or ill.        707  
+</details>
+
 <details><summary>मूलम् - ७०७</summary>
 
 मुगत्तिन् मुदुक्कुऱैन्ददु उण्डो उवप्पिनुम्  
@@ -12937,6 +18597,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 इङ्गिताद्भवावज्ञातुरग्रे त्वागत्य तिष्ठतः ।  
 यो वेत्ति हृदयं तस्मिन् दुःखस्य कथनं वृथा ॥ ७०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७०८</summary>
+
+8\. முகம்நோக்கி நிற்க அமையும் அகம்நோக்கி  
+உற்ற துணர்வார்ப் பெறின்.  
+Just standing in front would suffice  
+For those who read the mind on face.        708  
 </details>
 
 <details><summary>मूलम् - ७०८</summary>
@@ -12957,6 +18625,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सदसद्भावमन्यस्य तेन जानाति भूपतिः ॥ ७०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७०९</summary>
+
+9\. பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின்  
+வகைமை உணர்வார்ப் பெறின்.  
+Friend or foe the eyes will show  
+To those who changing outlooks know.        709  
+</details>
+
 <details><summary>मूलम् - ७०९</summary>
 
 पगैमैयुम् केण्मैयुम् कण्णुरैक्कुम् कण्णिन्  
@@ -12973,6 +18649,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''परभावपरिज्ञाने वयं निशितबुद्धयः'' ।  
 इति वक्तुं स शक्तः स्यात् दृष्ट्या यो वेद् चाशयम् ॥ ७१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७१०</summary>
+
+10\. நுண்ணியம் என்பார் அளக்கும்கோல் காணும்கால்  
+கண்ணல்லது இல்லை பிற.  
+The scale of keen discerning minds  
+Is eye and eye that secrets finds.        710  
 </details>
 
 <details><summary>मूलम् - ७१०</summary>
@@ -12996,6 +18680,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सभायां शब्दजालज्ञैः वक्तव्यं सद्गुणान्वितैः ॥ ७११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७११</summary>
+
+1\. அவையறிந்து ஆராய்ந்து சொல்லுக சொல்லின்  
+தொகையறிந்த தூய்மை யவர்.  
+The pure in thought and eloquence  
+Adapt their words to audience.        711  
+</details>
+
 <details><summary>मूलम् - ७११</summary>
 
 अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिन्  
@@ -13012,6 +18704,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 साभिकानां रुचिं बुद्ध्वा दोषः शब्दथियोर्यथा ।  
 न ज्ञायेत तथा स्पष्टं सभायामुच्यतां वचः ॥ ७१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७१२</summary>
+
+2\. இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்  
+நடைதெரிந்த நன்மை யவர்.  
+Who know the art of speech shall suit  
+Their chosen words to time in fact.        712  
 </details>
 
 <details><summary>मूलम् - ७१२</summary>
@@ -13032,6 +18732,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 असमर्थाश्च कथने निर्विद्याश्च मताः समैः ॥ ७१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७१३</summary>
+
+3\. அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்  
+வகையறியார் வல்லதூஉம் இல்.  
+They speak in vain at length who talk  
+Words unversed which ears don't take.        713  
+</details>
+
 <details><summary>मूलम् - ७१३</summary>
 
 अवैयऱियार् सॊल्लल्मेऱ्‌ कॊळ्बवर् सॊल्लिन्  
@@ -13048,6 +18756,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पण्डितानां सभामध्ये स्वपाण्डित्यं प्रदर्श्यताम् ।  
 मूढानां पुरतो युक्तं न पाण्डित्यप्रदर्शनम् ॥ ७१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७१४</summary>
+
+4\. ஓளியார்முன் ஒள்ளிய ராதல் வெளியார்முன்  
+வான்சுதை வண்ணம் கொளல்.  
+Before the bright be brilliant light  
+Before the muff be mortar white.        714  
 </details>
 
 <details><summary>मूलम् - ७१४</summary>
@@ -13068,6 +18784,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनारभ्य विनीतेन स्थितिः स्यादुत्तमो गुणः ॥ ७१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७१५</summary>
+
+5\. நன்றென்ற வற்றுள்ளும் நன்றே முதுவருள்  
+முந்து கிளவாச் செறிவு.  
+Modest restraint all good excels  
+Which argues not before elders.        715  
+</details>
+
 <details><summary>मूलम् - ७१५</summary>
 
 नण्ड्रॆण्ड्र वट्रुळ्ळुम् नण्ड्रे मुदुवरुळ्  
@@ -13084,6 +18808,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शास्त्रज्ञानां सभायां यो दुष्टशब्दानुदीरयेत् ।  
 मुक्तिमार्गच्युतेनासौ तुल्यो दुष्यत्वमाप्नुयात् ॥ ७१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७१६</summary>
+
+6\. ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்  
+ஏற்றுணர்வார் முன்னர் இழுக்கு  
+Tongue-slip before the talented wise  
+Is like slipping from righteous ways.        716  
 </details>
 
 <details><summary>मूलम् - ७१६</summary>
@@ -13104,6 +18836,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अधीतशास्त्रग्रन्थानां विद्या विभ्राजते भृशम् ॥ ७१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७१७</summary>
+
+7\. கற்றறிந்தார் கல்வி விளங்கும் கசடறச்  
+சொல்தெரிதல் வல்லா ரகத்து.  
+The learning of the learned shines  
+Valued by flawless scholar-minds.        717  
+</details>
+
 <details><summary>मूलम् - ७१७</summary>
 
 कट्रऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
@@ -13120,6 +18860,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वतोऽर्थग्राहिणामग्रे पण्डितोत्तमभाषणम् ।  
 रूढसस्ये त्वालवाले जलसेचनवद्भवेत् ॥ ७१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७१८</summary>
+
+8\. உணர்வ துடையார்முன் சொல்லல் வளர்வதன்  
+பாத்தியுள் நீர்சொரிந் தற்று.  
+To address understanding ones  
+Is to water beds of growing grains.        718  
 </details>
 
 <details><summary>मूलम् - ७१८</summary>
@@ -13140,6 +18888,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रमाद्यापि न भाषेत कुपण्डितसभाङ्गणे ॥ ७१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७१९</summary>
+
+9\. புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்  
+நன்கு செலச்சொல்லு வார்.  
+O ye who speak before the keen  
+Forgetful, address not the mean.        719  
+</details>
+
 <details><summary>मूलम् - ७१९</summary>
 
 पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्‌क नल्लवैयुळ्  
@@ -13156,6 +18912,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वतुल्यज्ञानिशून्यायां सभायां ज्ञानिभाषणम् ।  
 अशुद्धजलधाराग्रशीर्णामृतसमं भवेत् ॥ ७२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७२०</summary>
+
+10\. அங்கணத்துள் உக்க அமிழ்தற்றால் தம்கணத்தார்  
+அல்லார்முன் கோட்டி கொளல்.  
+To hostiles who wise words utters  
+Pours ambrosia into gutters.        720  
 </details>
 
 <details><summary>मूलम् - ७२०</summary>
@@ -13179,6 +18943,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न स्यात् स्खालित्यमेतेषां शब्दतत्त्वविदां नृणाम् ॥ ७२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७२१</summary>
+
+1\. வகையறிந்து வல்லவை வாய்சோரார் சொல்லின்  
+தொகையறிந்த தூய்மை யவர்  
+The pure fail not in power of words  
+Knowing grand council's moods and modes.        721  
+</details>
+
 <details><summary>मूलम् - ७२१</summary>
 
 वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिन्  
@@ -13195,6 +18967,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पण्डितेष्वग्रगण्यास्ते श्लाघ्यन्ते सकलैरपि ।  
 अधीतं विदुषामग्रे विस्पष्टं यैर्निरूप्यते ॥ ७२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७२२</summary>
+
+2\. கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்  
+கற்ற செலச்சொல்லு வார்  
+Among scholars he is scholar  
+Who holds scholars with learned lore.        722  
 </details>
 
 <details><summary>मूलम् - ७२२</summary>
@@ -13215,6 +18995,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विद्वत्सदसि धैर्येण वक्तारो विरलाः किल ॥ ७२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७२३</summary>
+
+3\. பகையகத்துச் சாவார் எளியர் அரியர்  
+அவையகத்து அஞ்சா தவர்.  
+Many brave foes and die in fields  
+The fearless few face wise councils.        723  
+</details>
+
 <details><summary>मूलम् - ७२३</summary>
 
 पगैयगत्तुच् चावार् ऎळियर् अरियर्  
@@ -13231,6 +19019,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदधीतं त्वया शास्त्रं स्पष्टं सदसि तद्वद ।  
 अज्ञातं शास्त्रमन्येभ्यो ज्ञानिभ्यस्त्वं भज स्वयम् ॥ ७२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७२४</summary>
+
+4\. கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற  
+மிக்காருள் மிக்க கொளல்.  
+Impress the learned with your lore  
+From greater savants learn still more.        724  
 </details>
 
 <details><summary>मूलम् - ७२४</summary>
@@ -13251,6 +19047,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सभायामुत्तरं वक्तुं तद्धैर्यं जनयेत् तव ॥ ७२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७२५</summary>
+
+5\. ஆற்றின் அளவறிந்து கற்க அவையஞ்சா  
+மாற்றம் கொடுத்தற் பொருட்டு  
+Grammar and logic learn so that  
+Foes you can boldly retort.        725  
+</details>
+
 <details><summary>मूलम् - ७२५</summary>
 
 आट्रिन् अळवऱिन्दु कऱ्‌क अवैयञ्जा  
@@ -13267,6 +19071,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मनोधैर्यविहीनस्य कृपाणो युधि निष्फलः ।  
 भीतस्य निष्फलं शास्त्रं सूक्ष्मज्ञानिसभाङ्गणे ॥ ७२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७२६</summary>
+
+6\. வாளொடென் வன்கண்ணர் அல்லார்க்கு நூலொடென்  
+நுண்ணவை அஞ்சு பவர்க்கு.  
+To cowards what can sword avail  
+And books to those who councils fail?        726  
 </details>
 
 <details><summary>मूलम् - ७२६</summary>
@@ -13287,6 +19099,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कृपाणो युद्धभूमिस्थनपुंसककरे यथा ॥ ७२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७२७</summary>
+
+7\. பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து  
+அஞ்சு மவன்கற்ற நூல்.  
+Like eunuch's sword in field, is vain  
+His lore who fears men of brain.        727  
+</details>
+
 <details><summary>मूलम् - ७२७</summary>
 
 पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु  
@@ -13303,6 +19123,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्सभायामनेकार्थकथने भीरुणा स्फुटम् ।  
 अधीतास्वपि विद्यासु सकलासु वृथैव ताः ॥ ७२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७२८</summary>
+
+8\. பல்லவை கற்றும் பயமிலரே நல்லவையுள்  
+நன்கு செலச்சொல்லா தார்.  
+Though learned much his lore is dead  
+Who says no good before the good.        728  
 </details>
 
 <details><summary>मूलम् - ७२८</summary>
@@ -13323,6 +19151,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भीतानज्ञातविद्योभ्योऽप्यधमान् मन्यते जनः ॥ ७२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७२९</summary>
+
+9\. கல்லா தவரின் கடையென்ப கற்றறிந்தும்  
+நல்லார் அவையஞ்சு வார்.  
+Who fear to face good assembly  
+Are learned idiots, certainly.        729  
+</details>
+
 <details><summary>मूलम् - ७२९</summary>
 
 कल्ला तवरिन् कडैयॆन्ब कट्रऱिन्दुम्  
@@ -13339,6 +19175,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अधीतविद्यान् सद्गोष्ठयां स्फुटं वक्तुं चकातरान् ।  
 जीवतोऽपि मृतप्रायान् लोको जानाति केवलम् ॥ ७३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७३०</summary>
+
+10\. உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக்  
+கற்ற செலச்சொல்லா தார்.  
+They are breathing dead who dare not  
+Empress before the wise their art.        730  
 </details>
 
 <details><summary>मूलम् - ७३०</summary>
@@ -13365,6 +19209,16 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 धनार्जनपरैर्वैश्यैः युक्तो देश इतीर्यते ॥ ७३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७३१</summary>
+
+74\. நாடு - The country
+
+1\. தள்ளா விளையுளும் தக்காரும் தாழ்விலாச்  
+செல்வரும் சேர்வது நாடு.  
+It's country which has souls of worth  
+Unfailing yields and ample wealth.        731  
+</details>
+
 <details><summary>मूलम् - ७३१</summary>
 
 तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
@@ -13381,6 +19235,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ईतिबाधाविरहितं नानावस्तुसमन्वितम् ।  
 देशान्तरजनश्लाघ्यं देशमाहुर्मनीषिणः ॥ ७३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७३२</summary>
+
+2\. பெரும்பொருளால் பெட்டக்க தாகி அருங்கேட்டால்  
+ஆற்ற விளைவது நாடு.  
+The Land has large luring treasure  
+Where pests are nil and yields are sure.        732  
 </details>
 
 <details><summary>मूलम् - ७३२</summary>
@@ -13401,6 +19263,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वस्तून्युत्पाध राज्ञे च दानाद् देश इति स्मृतः ॥ ७३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७३३</summary>
+
+3\. பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்கு  
+இறையொருங்கு நேர்வது நாடு.  
+It's land that bears pressing burdens  
+And pays its tax which king demands.        733  
+</details>
+
 <details><summary>मूलम् - ७३३</summary>
 
 पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्‌कु  
@@ -13417,6 +19287,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 घोरव्याधिबुभुक्षादिरहितं रिपुबाधया ।  
 विमुक्तमेधमानं च ब्रुवते देशसंज्ञया ॥ ७३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७३४</summary>
+
+4\. உறுபசியும் ஓவாப் பிணியும் செறுபகையும்  
+சேரா தியல்வது நாடு  
+It is country which is free from  
+Fierce famine, plague and foemen's harm.        734  
 </details>
 
 <details><summary>मूलम् - ७३४</summary>
@@ -13437,6 +19315,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 घातकैः क्षुद्रभूपैश्च मुक्तो देशः स कथ्यते ॥ ७३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७३५</summary>
+
+5\. பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும்  
+கொல்குறும்பும் இல்லது நாடு.  
+Sects and ruinous foes are nil  
+No traitors in a land tranquil.        735  
+</details>
+
 <details><summary>मूलम् - ७३५</summary>
 
 पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्  
@@ -13453,6 +19339,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परैरनाश्यः सततं क्कचित् प्राप्तोऽपि नाश्यताम् ।  
 समृद्धिसहितो देशो देशेषूत्तमतां व्रजेत् ॥ ७३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७३६</summary>
+
+6\. கேடறியாக் கெட்ட விடத்தும் வளங்குன்றா  
+நாடென்ப நாட்டின் தலை  
+The land of lands no ruin knows  
+Even in grief its wealth yet grows.        736  
 </details>
 
 <details><summary>मूलम् - ७३६</summary>
@@ -13473,6 +19367,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नदीमिः पञ्चभिश्चाङ्गः युक्तं देशं प्रचक्षते ॥ ७३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७३७</summary>
+
+7\. இருபுனலும் வாய்ந்த மலையும் வருபுனலும்  
+வல்லரணும் நாட்டிற்கு உறுப்பு.  
+Waters up and down, hills and streams  
+With strong forts as limbs country beams.        737  
+</details>
+
 <details><summary>मूलम् - ७३७</summary>
 
 इरुबुनलुम् वाय्न्द मलैयुम् वरुबुनलुम्  
@@ -13489,6 +19391,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सम्पन्नीरोगताधान्यसमृद्धिः सुखजीवनम् ।  
 दुर्गश्च पञ्च देशस्य मण्डनानि भवन्ति हि ॥ ७३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७३८</summary>
+
+8\. பிணியின்மை செல்வம் விளைவுஇன்பம் ஏமம்  
+அணியென்ப நாட்டிற்கிவ் வைந்து.  
+Rich yield, delight, defence and wealth  
+Are jewels of lands with blooming health.        738  
 </details>
 
 <details><summary>मूलम् - ७३८</summary>
@@ -13509,6 +19419,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्विष्य यतमानोभ्यो दाता देशो न चोत्तमः ॥ ७३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७३९</summary>
+
+9\. நாடென்ப நாடா வளத்தன நாடல்ல  
+நாட வளந்தரு நாடு  
+A land is land which yields unsought  
+Needing hard work the land is nought.        739  
+</details>
+
 <details><summary>मूलम् - ७३९</summary>
 
 नाडॆन्ब नाडा वळत्तन नाडल्ल  
@@ -13525,6 +19443,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उक्तसर्वगुणाढयेऽपि देशे नास्ति प्रयोजनम् ।  
 यदि राज्ञः प्रजानां च मिथः प्रीतिर्न वर्तते ॥ ७४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७४०</summary>
+
+10\. ஆங்கமை வெய்தியக் கண்ணும் பயமின்றே  
+வேந்தமை வில்லாத நாடு  
+Though a land has thus every thing  
+It is worthless without a king.        740  
 </details>
 
 <details><summary>मूलम् - ७४०</summary>
@@ -13548,6 +19474,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 त्रस्तान्तःस्थितराज्ञां च दुर्गो भवति पालकः ॥ ७४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७४१</summary>
+
+1\. ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற்  
+போற்று பவர்க்கும் பொருள்.  
+The fort is vital for offence  
+Who fear the foes has its defence.        741  
+</details>
+
 <details><summary>मूलम् - ७४१</summary>
 
 आट्रु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्‌  
@@ -13564,6 +19498,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सलिलेन विशुद्धेन मरुभूम्या नगेन च ।  
 सुच्छायाढयनेनापि वृतो दुर्गः समीर्यते ॥ ७४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७४२</summary>
+
+2\. மணிநீரும் மண்ணும் மலையும் அணிநிழற்  
+காடும் உடையது அரண்.  
+A crystal fount, a space a mount  
+Thick woods form a fort paramount.        742  
 </details>
 
 <details><summary>मूलम् - ७४२</summary>
@@ -13584,6 +19526,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रकारं दुर्गशब्दएन ब्रुवते शास्त्रवेदिनः ॥ ७४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७४३</summary>
+
+3\. உயர்வகலம் திண்மை அருமைஇந் நான்கின்  
+அமைவரண் என்றுரைக்கும் நூல்  
+An ideal fort's so says science:  
+High, broad, strong and hard for access.        743  
+</details>
+
 <details><summary>मूलम् - ७४३</summary>
 
 उयर्वगलम् तिण्मै अरुमैइन् नान्गिन्  
@@ -13600,6 +19550,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विशालप्रान्तदेशेन रक्ष्यक्षुद्रपथा युतः ।  
 प्राप्तारिधैर्यहन्ता च दुर्गशब्देन कथ्यते ॥ ७४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७४४</summary>
+
+4\. சிறுகாப்பிற் பேரிடத்த தாகி உறுபகை  
+ஊக்கம் அழிப்பது அரண்.  
+Ample in space, easy to hold  
+The fort foils enemies bold.        744  
 </details>
 
 <details><summary>मूलम् - ७४४</summary>
@@ -13620,6 +19578,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 म्वगतानां सुखवासप्रदोदुर्गः प्रकीर्त्यते ॥ ७४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७४५</summary>
+
+5\. கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்  
+நிலைக்கெளிதாம் நீரது அரண்.  
+Impregnable with stores of food  
+Cosy to live-That fort is good.        745  
+</details>
+
 <details><summary>मूलम् - ७४५</summary>
 
 कॊळऱ्‌करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्  
@@ -13636,6 +19602,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 समये साह्यदा युद्धवीराः स्युर्यत्र सर्वदा ।  
 सर्ववस्तुसमृद्धिश्च पत्रासौ दुर्गसंज्ञकः ॥ ७४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७४६</summary>
+
+6\. எல்லாப் பொருளும் உடைத்தாய் இடத்துதவும்  
+நல்லாள் உடையது அரண்.  
+A fort is full of stores and arms  
+And brave heroes to meet alarms.        746  
 </details>
 
 <details><summary>मूलम् - ७४६</summary>
@@ -13656,6 +19630,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कैतवेनापि दुष्प्रापो दुर्ग इत्यभिघीयते ॥ ७४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७४७</summary>
+
+7\. முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும்  
+பற்றற் கரியது அரண்  
+Besieging foes a fort withstands  
+Darts and mines of treacherous hands.        747  
+</details>
+
 <details><summary>मूलम् - ७४७</summary>
 
 मुट्रियुम् मुट्रा तॆऱिन्दुम् अऱैप्पडुत्तुम्  
@@ -13672,6 +19654,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परैरावेष्टिते दुर्गे स्वस्थानैकपरायणैः ।  
 रिपुवारणकृद्वीरैः वृतो दुर्गः स कथ्यते ॥ ७४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७४८</summary>
+
+8\. முற்றாற்றி முற்றி யவரையும் பற்றாற்றிப்  
+பற்றியார் வெல்வது அரண்  
+A fort holds itself and defies  
+The attacks of encircling foes.        748  
 </details>
 
 <details><summary>मूलम् - ७४८</summary>
@@ -13692,6 +19682,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्तो महत्त्वं ख्यातश्च दुर्गो भवति सार्थकः ॥ ७४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७४९</summary>
+
+9\. முனைமுகத்து மாற்றலர் சாய வினைமுகத்து  
+வீறெய்தி மாண்டது அரண்.  
+A fort it is that fells the foes  
+And gains by deeds a name glorious.        749  
+</details>
+
 <details><summary>मूलम् - ७४९</summary>
 
 मुनैमुगत्तु माट्रलर् साय विनैमुगत्तु  
@@ -13708,6 +19706,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पर्वोक्तगुणयुक्तोऽपिदुर्गः किं वा करिष्यति ।  
 युद्दोपायसमर्थानां सान्निध्यं न भवेद्यदि ॥ ७५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७५०</summary>
+
+10\. எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி  
+இல்லார்கண் இல்லது அரண்.  
+But a fort however grand  
+Is nil if heroes do not stand.        750  
 </details>
 
 <details><summary>मूलम् - ७५०</summary>
@@ -13731,6 +19737,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शक्यते तादृहाद्चित्तात्, अन्यत् किं सार्थकं भवेत् ॥ ७५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७५१</summary>
+
+1\. பொருளல் லவரைப் பொருளாகச் செய்யும்  
+பொருளல்லது இல்லை பொருள்.  
+Naught exists that can, save wealth  
+Make the worthless as men of worth.        751  
+</details>
+
 <details><summary>मूलम् - ७५१</summary>
 
 पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्  
@@ -13747,6 +19761,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गुणिनं चाप्यर्थहीनं दूषयन्ति नरा भुवि ।  
 निर्गुणं चाप्यर्थवन्तं मानयन्ति जनाः सदा ॥ ७५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७५२</summary>
+
+2\. இல்லாரை எல்லோரும் எள்ளுவர் செல்வரை  
+எல்லாரும் செய்வர் சிறப்பு.  
+The have-nothing poor all despise  
+The men of wealth all raise and praise.        752  
 </details>
 
 <details><summary>मूलम् - ७५२</summary>
@@ -13767,6 +19789,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वाश्रितानां विरोधाख्यमन्धकारं विनाशयेत् ॥ ७५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७५३</summary>
+
+3\. பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்  
+எண்ணிய தேயத்துச் சென்று.  
+Waneless wealth is light that goes  
+To every land and gloom removes.        753  
+</details>
+
 <details><summary>मूलम् - ७५३</summary>
 
 पॊरुळॆन्नुम् पॊय्या विळक्कम् इरुळऱुक्कुम्  
@@ -13783,6 +19813,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 युक्तमार्गेण नीत्या च यद्धनं समुपार्जितम् ।  
 तत्तस्य धर्मं कामं च प्रददाति न संशयः ॥ ७५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७५४</summary>
+
+4\. அறன்ஈனும் இன்பமும் ஈனும் திறனறிந்து  
+தீதின்றி வந்த பொருள்.  
+The blameless wealth from fairest means  
+Brings good virtue and also bliss.        754  
 </details>
 
 <details><summary>मूलम् - ७५४</summary>
@@ -13803,6 +19841,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नैवानन्दकरं भूयादिति मत्वा परित्यजेत् ॥ ७५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७५५</summary>
+
+5\. அருளொடும் அன்பொடும் வாராப் பொருளாக்கம்  
+புல்லார் புரள விடல்.  
+Riches devoid of love and grace  
+Off with it; it is disgrace!        755  
+</details>
+
 <details><summary>मूलम् - ७५५</summary>
 
 अरुळॊडुम् अन्बॊडुम् वाराप् पॊरुळाक्कम्  
@@ -13819,6 +19865,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नाथहीनं धनं घट्टशुल्कमूलागतं धनम् ।  
 जितारिसविधावाप्तकरो राज्ञां धनं भवेत् ॥ ७५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७५६</summary>
+
+6\. உறுபொருளும் உல்கு பொருளும்தன் ஒன்னார்த்  
+தெறுபொருளும் வேந்தன் பொருள்.  
+Escheats, derelicts; spoils of war  
+Taxes duties are king's treasure.        756  
 </details>
 
 <details><summary>मूलम् - ७५६</summary>
@@ -13839,6 +19893,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 धनरूपोपमाता तु वर्घयेत् पोषयेदपि ॥ ७५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७५७</summary>
+
+7\. அருளென்னும் அன்பீன் குழவி பொருளென்னும்  
+செல்வச் செவிலியால் உண்டு  
+Grace the child of love is nourished  
+By the wet-nurse of wealth cherished.        757  
+</details>
+
 <details><summary>मूलम् - ७५७</summary>
 
 अरुळॆन्नुम् अन्बीन् कुऴवि पॊरुळॆन्नुम्  
@@ -13855,6 +19917,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रविशेत् स्वीकृते कार्ये निर्भीतो धनहस्तवान् ।  
 गजयुद्धं नगारूढो यथा निर्मयमीक्षते ॥ ७५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७५८</summary>
+
+8\. குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்று  
+உண்டாகச் செய்வான் வினை.  
+Treasures in hand fulfil all things  
+Like hill-tuskers the wars of kings.        758  
 </details>
 
 <details><summary>मूलम् - ७५८</summary>
@@ -13875,6 +19945,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 द्र्ष्टुं न शक्यते लोके तस्माद्धनमुपार्जय ॥ ७५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७५९</summary>
+
+9\. செய்க பொருளை செறுநர் செருக்கறுக்கும்  
+எஃகதனிற் கூரியது இல்  
+Make wealth; there is no sharper steel  
+The insolence of foes to quell.        759  
+</details>
+
 <details><summary>मूलम् - ७५९</summary>
 
 सॆय्ग पॊरुळैच् चॆऱुनर् सॆरुक्कऱुक्कुम्  
@@ -13891,6 +19969,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सम्पाद्य पुष्कलं वित्तं धर्ममार्गेण तिष्ठतः ।  
 अर्थकामौ स्वतस्तस्य सिद्धयतः पृथिवीतले ॥ ७६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६०</summary>
+
+10\. ஒண்பொருள் காழ்ப்ப இயற்றியார்க்கு எண்பொருள்  
+ஏனை இரண்டும் ஒருங்கு          
+They have joy and virtue at hand  
+Who acquire treasures abundant.        760  
 </details>
 
 <details><summary>मूलम् - ७६०</summary>
@@ -13914,6 +20000,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सैन्यं जयप्रदं राज्ञामुत्तं भाग्यमुच्यते ॥ ७६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७६१</summary>
+
+1\. உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன்  
+வெறுக்கையு ளெல்லாம் தலை  
+The daring well-armed winning force  
+Is king's treasure and main resource.        761  
+</details>
+
 <details><summary>मूलम् - ७६१</summary>
 
 उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दन्  
@@ -13930,6 +20024,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विपत्काले स्वयं शीर्णं भृत्वापि धृतिमत्तया ।  
 स्थातुं शक्नोति तत् सैन्यं यन्मूलबलसंज्ञितम् ॥ ७६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६२</summary>
+
+2\. உலைவிடத்து ஊறஞ்சா வன்கண் தொலைவிடத்துத்  
+தொல்படைக் கல்லால் அரிது  
+Through shots and wounds brave heroes hold  
+Quailing not in fall, the field.        762  
 </details>
 
 <details><summary>मूलम् - ७६२</summary>
@@ -13950,6 +20052,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वृथा तद् भुजगोच्छवासस्पर्शान्नश्यन्ति ते क्षणात् ॥ ७६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७६३</summary>
+
+3\. ஒலித்தக்கால் என்னாம் உவரி எலிப்பகை  
+நாகம் உயிர்ப்பக் கெடும்  
+Sea-like ratfoes roar ... What if?  
+They perish at a cobra's whiff.        763  
+</details>
+
 <details><summary>मूलम् - ७६३</summary>
 
 ऒलित्तक्काल् ऎन्नाम् उवरि ऎलिप्पगै  
@@ -13966,6 +20076,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अप्रधर्ष्या परैर्नैव शक्या वञ्चयितुं परैः ।  
 परम्परागता धैर्ययुता सेनेति कथ्यते ॥ ७६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६४</summary>
+
+4\. அழிவின்று அறைபோகா தாகி வழிவந்த  
+வன்க ணதுவே படை.  
+The army guards its genial flame  
+Not crushed, routed nor marred in name.        764  
 </details>
 
 <details><summary>मूलम् - ७६४</summary>
@@ -13986,6 +20104,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्थातुं धैर्येण तस्याग्रे या शक्ता सैव वाहिनी ॥ ७६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७६५</summary>
+
+5\. கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்  
+ஆற்ற லதுவே படை.  
+The real army with rallied force  
+Resists even Death-God fierce.        765  
+</details>
+
 <details><summary>मूलम् - ७६५</summary>
 
 कूट्रुडण्ड्रु मेल्वरिनुम् कूडि ऎदिर्निऱ्‌कुम्  
@@ -14002,6 +20128,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वीर्यं मानं तथा पूर्ववीराणां मार्गगामिता ।  
 राजविश्वसपात्रत्वं चत्वारः सैन्यगा गुणाः ॥ ७६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६६</summary>
+
+6\. மறமானம் மாண்ட வழிச்செலவு தேற்றம்  
+எனநான்கே ஏமம் படைக்கு.  
+Manly army has merits four:-  
+Stately-march, faith, honour, valour.        766  
 </details>
 
 <details><summary>मूलम् - ७६६</summary>
@@ -14022,6 +20156,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रिपुसैन्यविनाशाय प्रस्थानं सैन्यलक्षणम् ॥ ७६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७६७</summary>
+
+7\. தார்தாங்கிச் செல்வது தானை தலைவந்த  
+போர்தாங்கும் தன்மை அறிந்து.  
+Army sets on to face the foes  
+Knowing how the trend of war goes.        767  
+</details>
+
 <details><summary>मूलम् - ७६७</summary>
 
 तार्दाङ्गिच् चॆल्वदु तानै तलैवन्द  
@@ -14038,6 +20180,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पराभिघातसहनं युद्धकर्मप्रवीणता ।  
 अभयं मास्तु वा व्यूहमात्रात् सेना वरा भवेत् ॥ ७६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६८</summary>
+
+8\. அடற்றகையும் ஆற்றலும் இல்லெனினும் தானை  
+படைத்தகையால் பாடு பெறும்.  
+Army gains force by grand array  
+Lacking in stay or dash in fray.        768  
 </details>
 
 <details><summary>मूलम् - ७६८</summary>
@@ -14058,6 +20208,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 द्वयं न स्याद्यादि तदा स्वल्पा सेनापि जेष्यति ॥ ७६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७६९</summary>
+
+9\. சிறுமையும் செல்லாத் துனியும் வறுமையும்  
+இல்லாயின் வெல்லும் படை.  
+Army shall win if it is free  
+From weakness, aversion, poverty.        769  
+</details>
+
 <details><summary>मूलम् - ७६९</summary>
 
 सिऱुमैयुम् सॆल्लात् तुनियुम् वऱुमैयुम्  
@@ -14074,6 +20232,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चिरानुभवशीलैश्च वीरैर्युक्तापि वाहिनी ।  
 सेनापतिविहीना सा महिमानं न विन्दते ॥ ७७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७७०</summary>
+
+10\. நிலைமக்கள் சால உடைத்தெனினும் தானை  
+தலைமக்கள் இல்வழி இல்.  
+With troops in large numbers on rolls  
+Army can't march missing gen'rals.        770  
 </details>
 
 <details><summary>मूलम् - ७७०</summary>
@@ -14097,6 +20263,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अस्मद्भूपपुरो नैव स्थातव्यं भोश्च शात्रवाः ॥ ७७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७७१</summary>
+
+1\. என்னைமுன் நில்லன்மின் தெவ்விர் பலர்என்னை  
+முன்நின்று கல்நின் றவர்.  
+Stand not before my chief, O foes!  
+Many who stood, in stones repose.        771  
+</details>
+
 <details><summary>मूलम् - ७७१</summary>
 
 ऎन्नैमुन् निल्लन्मिन् तॆव्विर् पलरॆन्नै  
@@ -14113,6 +20287,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अमोघं बाणमुत्सृज्य शशे प्राप्तो जयो वृथा ।  
 गजे प्रयुक्तबाणस्तु मोघोऽपि स्याज्जयावहः ॥ ७७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७७२</summary>
+
+2\. கான முயலெய்த அம்பினில் யானை  
+பிழைத்தவேல் ஏந்தல் இனிது.  
+To lift a lance that missed a tusker  
+Is prouder than shaft that hit a hare.        772  
 </details>
 
 <details><summary>मूलम् - ७७२</summary>
@@ -14133,6 +20315,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्ते खेदे रिपोः साह्यकर्ता वीर्यवतां वरः ॥ ७७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७७३</summary>
+
+3\. பேராண்மை என்ப தறுகண்ஒன் றுற்றக்கால்  
+ஊராண்மை மற்றதன் எஃகு.  
+Valour is fight with fierce courage  
+Mercy to the fallen is its edge.        773  
+</details>
+
 <details><summary>मूलम् - ७७३</summary>
 
 पेराण्मै ऎन्ब तऱुगण्ऒन् ऱुट्रक्काल्  
@@ -14149,6 +20339,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्थितं शूलं गजे मुक्त्वा समीपस्थे गजान्तरे ।  
 अन्वेष्टाऽन्यस्य शूलस्य वक्षःस्थं प्राप्य तुष्यति ॥ ७७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७७४</summary>
+
+4\. கைவேல் களிற்றொடு போக்கி வருபவன்  
+மெய்வேல் பறியா நகும்.  
+At the tusker he flings his lance  
+One in body smiles another chance.        774  
 </details>
 
 <details><summary>मूलम् - ७७४</summary>
@@ -14169,6 +20367,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सनिमेषं यदि भवेत् तत् पराजयलक्षणम् ॥ ७७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७७५</summary>
+
+5\. விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்  
+ஒட்டன்றோ வன்க ணவர்க்கு.  
+When lances dart if heroes wink  
+"It is a rout" the world will think.        775  
+</details>
+
 <details><summary>मूलम् - ७७५</summary>
 
 विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिन्  
@@ -14185,6 +20391,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निजोरसि मुखे बाणताडनं त्वनवाप्य तु ।  
 अतीतान् दिवसान् युद्धे वीरो व्यर्थान् हि मन्यते ॥ ७७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७७६</summary>
+
+6\. விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்  
+வைக்கும்தன் நாளை எடுத்து.  
+The brave shall deem the days as vain  
+Which did not battle-wounds sustain.        776  
 </details>
 
 <details><summary>मूलम् - ७७६</summary>
@@ -14205,6 +20419,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पादबद्धा श‍ृङ्खला स्यात् अलङ्कारप्रयोजना ॥ ७७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७७७</summary>
+
+7\. சுழலும் இசைவேண்டி வேண்டா உயிரார்  
+கழல்யாப்புக் காரிகை நீர்த்து.  
+Their anklets aloud jingle their name  
+Who sacrifice their life for fame.        777  
+</details>
+
 <details><summary>मूलम् - ७७७</summary>
 
 सुऴलुम् इसैवेण्डि वेण्डा उयिरार्  
@@ -14221,6 +20443,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्राणान् तृणसमान् मत्वा प्रविशन्तो रणाङ्गणम् ।  
 वीरा भूपैर्वारिताश्च विरमन्ति न ते ततः ॥ ७७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७७८</summary>
+
+8\. உறின்உயிர் அஞ்சா மறவர் இறைவன்  
+செறினும்சீர் குன்றல் இலர்.  
+The king may chide, they pursue strife;  
+They fear loss of glory; not life.        778  
 </details>
 
 <details><summary>मूलम् - ७७८</summary>
@@ -14241,6 +20471,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वीरस्य दण्डनं दातुं को वा शक्तो भवेद् भुवि ॥ ७७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७७९</summary>
+
+9\. இழைத்தது இகவாமைச் சாவாரை யாரே  
+பிழைத்தது ஒறுக்கிற் பவர்.  
+Who will blame the heroes that lose  
+Their lives in war to keep their vows?        779  
+</details>
+
 <details><summary>मूलम् - ७७९</summary>
 
 इऴैत्तदु इगवामैच् चावारै यारे  
@@ -14257,6 +20495,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वीयं भूपं चाश्रुपातपर्वकं शेदयन् भटः ।  
 मृतश्चत् प्रार्थनापूर्वं मृतिनूनमवाप्यताम् ॥ ७८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७८०</summary>
+
+10\. புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு  
+இரந்துகோள் தக்கது உடைத்து.  
+Such a death shall be prayed for  
+Which draws the tears of the ruler.        780  
 </details>
 
 <details><summary>मूलम् - ७८०</summary>
@@ -14279,6 +20525,16 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शत्रुभ्यो रक्षकं वस्तु स्नेहादन्यद् भवेत् किमु ॥ ७८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७८१</summary>
+
+79\. நட்பு - Friendship
+
+1\. செயற்கரிய யாவுள நட்பின் அதுபோல்  
+வினைக்கரிய யாவுள காப்பு.  
+Like friendship what's so hard to gain?  
+That guards one against acts villain?        781  
+</details>
+
 <details><summary>मूलम् - ७८१</summary>
 
 सॆयऱ्‌करिय यावुळ नट्पिन् अदुबोल्  
@@ -14295,6 +20551,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्नेहो बुद्धिमता साकं वर्घते पूर्णचन्द्रवत् ।  
 बुद्धिहीनैः कृतः स्नेहः क्षीयते क्षीणचन्द्रवत् ॥ ७८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७८२</summary>
+
+2\. நிறைநீர நீரவர் கேண்மை பிறைமதிப்  
+பின்நீர பேதையார் நட்பு \- Friendship .  
+Good friendship shines like waxing moon,  
+The bad withers like waning moon.        782  
 </details>
 
 <details><summary>मूलम् - ७८२</summary>
@@ -14315,6 +20579,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सदर्थः पथनाद्यद्वत् क्रमशो मोददायकः ॥ ७८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७८३</summary>
+
+3\. நவில்தொறும் நூல்நயம் போலும் பயில்தொறும்  
+பண்புடை யாளர் தொடர்பு.  
+Like taste in books good friendship grows  
+The more one moves the more he knows.        783  
+</details>
+
 <details><summary>मूलम् - ७८३</summary>
 
 नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्  
@@ -14331,6 +20603,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परस्परकृता मैत्री न हि तोषाय केवलम् ।  
 स्खालित्ये सुहृदस्तस्माद् वारणं सख्यमुच्यते ॥ ७८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७८४</summary>
+
+4\. நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்  
+மேற்சென்று இடித்தற் பொருட்டு  
+Not to laugh is friendship made  
+But to hit when faults exceed.        784  
 </details>
 
 <details><summary>मूलम् - ७८४</summary>
@@ -14351,6 +20631,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 उभयोर्भावसाम्यं तु मैत्रीमुत्पादयेत् तयोः ॥ ७८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७८५</summary>
+
+5\. புணர்ச்சி பழகுதல் வேண்டா உணர்ச்சிதான்  
+நட்பாம் கிழமை தரும்.  
+No close living nor clasping grip  
+Friendship's feeling heart's fellowship.        785  
+</details>
+
 <details><summary>मूलम् - ७८५</summary>
 
 पुणर्च्चि पऴगुदल् वेण्डा उणर्च्चिदान्  
@@ -14367,6 +20655,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मैत्री मुखविकासेन केवलं न हि जायते ।  
 हृदयस्य विकासोऽपि मैत्र्यां मुख्यमपेक्ष्यते ॥ ७८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७८६</summary>
+
+6\. முகநக நட்பது நட்பன்று நெஞ்சத்து  
+அகநக நட்பது நட்பு.  
+Friendship is not more smile on face  
+It is the smiling heart's embrace.        786  
 </details>
 
 <details><summary>मूलम् - ७८६</summary>
@@ -14387,6 +20683,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखे प्राप्ते तुल्यभागभागिता स्नेहलक्षणम् ॥ ७८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७८७</summary>
+
+7\. அழிவி னவைநீக்கி ஆறுய்த்து அழிவின்கண்  
+அல்லல் உழப்பதாம் நட்பு.  
+From ruin friendship saves and shares  
+The load of pain and right path shows.        787  
+</details>
+
 <details><summary>मूलम् - ७८७</summary>
 
 अऴिवि नवैनीक्कि आऱुय्त्तु अऴिविन्गण्  
@@ -14403,6 +20707,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्त्रस्तं वस्त्रं स्वतो गत्वा यथा गृःणाति वै करः ।  
 तथा दुःखे स्वयं साह्यकरणं सख्यमुच्यते ॥ ७८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७८८</summary>
+
+8\. உடுக்கை இழந்தவன் கைபோல ஆங்கே  
+இடுக்கண் களைவதுஆம் நட்பு.  
+Friendship hastens help in mishaps  
+Like hands picking up dress that slips.        788  
 </details>
 
 <details><summary>मूलम् - ७८८</summary>
@@ -14423,6 +20735,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 साह्यं कृत्वा रक्षणं तु मैत्र्याः कोष्ठति कथ्यते ॥ ७८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७८९</summary>
+
+9\. நட்பிற்கு வீற்றிருக்கை யாதெனில் கொட்பின்றி  
+ஒல்லும்வாய் ஊன்றும் நிலை.  
+Friendship is enthroned on the strength  
+That always helps with utmost warmth.        789  
+</details>
+
 <details><summary>मूलम् - ७८९</summary>
 
 नट्पिऱ्‌कु वीट्रिरुक्कै यादॆनिन् कॊट्पिण्ड्रि  
@@ -14439,6 +20759,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''इयान् स्नेहस्तस्य मयि, तथा तस्मिन ममापि च'' ।  
 एवं विशिष्य कथनात् स्नेहे नास्ति विशिष्टता ॥ ७९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७९०</summary>
+
+10\. இனையர் இவரெமக்கு இன்னம்யாம் என்று  
+புனையினும் புல்லென்னும் நட்பு.  
+"Such we are and such they are"  
+Ev'n this boast will friendship mar.        790  
 </details>
 
 <details><summary>मूलम् - ७९०</summary>
@@ -14462,6 +20790,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्मादनालोच्य मैत्रीकरणं जनयेत् व्यथाम् ॥ ७९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७९१</summary>
+
+1\. நாடாது நட்டலிற் கேடில்லை நட்டபின்  
+வீடில்லை நட்பாள் பவர்க்கு.  
+Than testless friendship nought is worse  
+For contacts formed will scarcely cease.        791  
+</details>
+
 <details><summary>मूलम् - ७९१</summary>
 
 नाडादु नट् टलिऱ्‌ केडिल्लै नट्टबिन्  
@@ -14478,6 +20814,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असकृह्बहुधा चर्चामकृत्वा कृतमित्रता ।  
 मरणान्तकरं दुःखमान्तं तस्मै प्रयच्छति ॥ ७९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७९२</summary>
+
+2\. ஆய்ந்தாய்ந்து கொள்ளாதான் கேண்மை கடைமுறை  
+தான்சாந் துயரம் தரும்.  
+Friendship made without frequent test  
+Shall end in grief and death at last.        792  
 </details>
 
 <details><summary>मूलम् - ७९२</summary>
@@ -14498,6 +20842,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विमृश्य सम्यक् ज्ञात्वाऽथ मैत्रीं केनचिदाचर ॥ ७९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७९३</summary>
+
+3\. குணனுங் குடிமையும் குற்றமுங் குன்றா  
+வினனு மறிந்தியாக்க நட்பு.  
+Temper, descent, defects and kins  
+Trace well and take companions.        793  
+</details>
+
 <details><summary>मूलम् - ७९३</summary>
 
 कुणमुम् कुडिमैयुम् कुट्रमुम् कुण्ड्रा  
@@ -14514,6 +20866,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कुले महति सम्भृतमपवादभयान्वितम् ।  
 कुरु मित्रं वाञ्छितार्थप्रदानेनापि सर्वदा ॥ ७९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७९४</summary>
+
+4\. குடிப்பிறந்து தன்கட் பழிநாணு வானைக்  
+கொடுத்துங் கொளல்வேண்டும் நட்பு.  
+Take as good friend at any price  
+The nobly born who shun disgrace.        794  
 </details>
 
 <details><summary>मूलम् - ७९४</summary>
@@ -14534,6 +20894,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लोकज्ञानवता तेन विमृश्य स्नेहमाचर ॥ ७९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७९५</summary>
+
+5\. அழச்சொல்லி யல்ல திடித்து வழக்கறிய  
+வல்லார்நட் பாய்ந்து கொளல்.  
+Who make you weep and chide wrong trends  
+And lead you right are worthy friends.        795  
+</details>
+
 <details><summary>मूलम् - ७९५</summary>
 
 अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय  
@@ -14550,6 +20918,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्नेहतत्त्वं परिज्ञातुं खेदः स्यान्मानदण्डवत् ।  
 तस्मात् दुःखस्य संप्राप्तिरपि क्षेमाय कल्पते ॥ ७९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७९६</summary>
+
+6\. கேட்டினு முண்டோ ருறுதி கிளைஞரை  
+நீட்டி யளப்பதோர் கோல்.  
+Is there a test like misfortune  
+A rod to measure out kinsmen?        796  
 </details>
 
 <details><summary>मूलम् - ७९६</summary>
@@ -14570,6 +20946,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञात्वा तस्य परित्यागात अन्यो लाभो न वर्तते ॥ ७९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७९७</summary>
+
+7\. ஊதிய மென்ப தொருவற்குப் பேதையார்  
+கேண்மை யொரீஇ விடல்.  
+Keep off contacts with fools; that is  
+The greatest gain so say the wise.        797  
+</details>
+
 <details><summary>मूलम् - ७९७</summary>
 
 ऊदियम् ऎन्बदु ऒरुवऱ्‌कुप् पेदैयार्  
@@ -14586,6 +20970,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 उत्साहजनकात् कायोदन्यकार्ये विमुच्यताम् ।  
 तथा मैत्री न कर्तव्या खेदे साह्यमकुर्वता ॥ ७९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७९८</summary>
+
+8\. உள்ளற்க வுள்ளஞ் சிறுகுவ கொள்ளற்க  
+அல்லற்கண் ணாற்றறுப்பார் நட்பு.  
+Off with thoughts that depress the heart  
+Off with friends that in woe depart.        798  
 </details>
 
 <details><summary>मूलम् - ७९८</summary>
@@ -14606,6 +20998,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्मृता मरणकालेऽपि निर्दहेच्चित्तमुग्रतः ॥ ७९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ७९९</summary>
+
+9\. கெடுங்காலைக் கைவிடுவார் கேண்மை யடுங்காலை  
+யுள்ளினு முள்ளஞ் சுடும்.  
+Friends who betray at ruin's brink  
+Burn our mind ev'n at death to think.        799  
+</details>
+
 <details><summary>मूलम् - ७९९</summary>
 
 कॆडुङ्गालैक् कैविडुवार् केण्मै अडुङ्गालै  
@@ -14622,6 +21022,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निर्दुष्टपुरुषैः साकं नूनं मैत्री विधीयताम् ।  
 गुणहीननरस्नेहं दत्वाऽर्थं वा परित्यज ॥ ८००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८००</summary>
+
+10\. மருவுக மாசற்றார் கேண்மையொன் றீந்தும்  
+ஒருவுக வொப்பிலார் நட்பு.  
+The blameless ones as friends embarace;  
+Give something and give up the base.        800  
 </details>
 
 <details><summary>मूलम् - ८००</summary>
@@ -14645,6 +21053,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सोढ्वा तथैव स्वीकारः चिरस्नेहस्य लक्षणम् ॥ ८०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८०१</summary>
+
+1\. பழைமை எனப்படுவது யாதெனின் யாதும்  
+கிழமையைக் கீழ்ந்திடா நட்பு.  
+That friendship is good amity  
+Which restrains not one's liberty.        801  
+</details>
+
 <details><summary>मूलम् - ८०१</summary>
 
 पऴैमै ऎनप्पडुवदु यादॆनिन् यादुम्  
@@ -14661,6 +21077,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यथेच्छं मित्ररचितं स्नेहस्याङ्गं तदिष्यते ।  
 तस्मात् तत्कृतकार्यस्य स्वीकृतिर्महतां गुणः ॥ ८०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८०२</summary>
+
+2\. நட்பிற் குறுப்புக் கெழுதகைமை மற்றதற்கு  
+உப்பாதல் சான்றோர் கடன்.  
+Friendship's heart is freedom close;  
+Wise men's duty is such to please.        802  
 </details>
 
 <details><summary>मूलम् - ८०२</summary>
@@ -14681,6 +21105,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तेन साकं कृता मैत्री तदा व्यर्था भविष्यति ॥ ८०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८०३</summary>
+
+3\. பழகிய நட்பெவன் செய்யும் கெழுதகைமை  
+செய்தாங்கு அமையாக் கடை.  
+Of long friendship what is the use  
+Righteous freedom if men refuse?        803  
+</details>
+
 <details><summary>मूलम् - ८०३</summary>
 
 पऴगिय नट्पॆवन् सॆय्युङ् गॆऴुदगैमै  
@@ -14697,6 +21129,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्ववाञ्छितं च स्वातन्त्र्यात् सुहृत् कुर्याद्यदि स्वयम् ।  
 अङ्गीकृत्य च तत्कार्यश्लाघनं महतां गुणः ॥ ८०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८०४</summary>
+
+4\. விழைதகையான் வேண்டி யிருப்பர் கெழுதகையாற்  
+கேளாது நட்டார் செயின்.  
+Things done unasked by loving friends  
+Please the wise as familiar trends!        804  
 </details>
 
 <details><summary>मूलम् - ८०४</summary>
@@ -14717,6 +21157,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्ववाञ्छितविरोधेन सुहृत् कार्यं करोति चेत् ॥ ८०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८०५</summary>
+
+5\. பேதைமை ஒன்றோ பெருங்கிழமை என்றுணர்க  
+நோதக்க நட்டார் செயின்.  
+Offence of friends feel it easy  
+As folloy or close intimacy.        805  
+</details>
+
 <details><summary>मूलम् - ८०५</summary>
 
 पेदैमै ऒण्ड्रो पॆरुङ्गिऴमै ऎण्ड्रुणर्ग  
@@ -14733,6 +21181,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पुरा परिचितं मित्रं खेदे प्राप्तेऽपि तत्कृते ।  
 न कदाचिद्विमुञ्चन्ति स्नेहधर्मवशङ्गताः ॥ ८०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८०६</summary>
+
+6\. எல்லைக்கண் நின்றார் துறவார் தொலைவிடத்தும்  
+தொல்லைக்கண் நின்றார் தொடர்பு.  
+They forsake not but continue  
+In friendship's bounds though loss ensue.        806  
 </details>
 
 <details><summary>मूलम् - ८०६</summary>
@@ -14753,6 +21209,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कार्ये कृतेऽपि सुहृदां तेषु प्रीर्तिन हीयते ॥ ८०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८०७</summary>
+
+7\. அழிவந்த செய்யினும் அன்பறார் அன்பின்  
+வழிவந்த கேண்மை யவர்.  
+Comrades established in firm love  
+Though ruin comes waive not their vow.        807  
+</details>
+
 <details><summary>मूलम् - ८०७</summary>
 
 अऴिवन्द सॆय्यिनुम् अन्बऱार् अन्बिन्  
@@ -14769,6 +21233,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पूर्वमित्रकृतं दोषमुच्यमानं परैरपि ।  
 अश्रुण्वतो मित्रकृतो दोषः सुदिनतां व्रजेत् ॥ ८०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८०८</summary>
+
+8\. கேளிழுக்கம் கேளாக் கெழுதகைமை வல்லார்க்கு  
+நாளிழுக்கம் நட்டார் செயின்.  
+Fast friends who list not tales of ill  
+Though wronged they say "that day is well".        808  
 </details>
 
 <details><summary>मूलम् - ८०८</summary>
@@ -14789,6 +21261,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सौहार्दं न त्यजेद्यस्तु लोकस्तं बहु मानयेत् ॥ ८०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८०९</summary>
+
+9\. கெடாஅ வழிவந்த கேண்மையார் கேண்மை  
+விடாஅர் விழையும் உலகு  
+To love such friends the world desires  
+Whose friendship has unbroken ties.        809  
+</details>
+
 <details><summary>मूलम् - ८०९</summary>
 
 कॆडाअ वऴिवन्द केण्मैयार् केण्मै  
@@ -14805,6 +21285,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृतेऽपि दोषे सौहार्दत् सोढ्वा तं सुहृदः स्वयम् ।  
 यः स्याच्छ्रेष्ठगुणोपेतः श्लाघ्यते रिपुणापि सः ॥ ८१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८१०</summary>
+
+10\. விழையார் விழையப் படுப பழையார்கண்  
+பண்பின் தலைப்பிரியா தார்.  
+Even foes love for better ends  
+Those who leave not long-standing friends.        810  
 </details>
 
 <details><summary>मूलम् - ८१०</summary>
@@ -14828,6 +21316,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 त्यागो दुर्गुणमैत्र्यास्तु वरः स्यात् तस्य वर्धनात् ॥ ८११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८११</summary>
+
+1\. பருகுவார் போலினும் பண்பிலார் கேண்மை  
+பெருகலிற் குன்றல் இனிது.  
+Swallowing love of soulless men  
+Had better wane than wax anon.        811  
+</details>
+
 <details><summary>मूलम् - ८११</summary>
 
 परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
@@ -14844,6 +21340,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वार्थाय कुर्वतः स्नेहं कार्यन्ते तद्विमुञ्चतः ।  
 असमथस्य सौहार्दं सर्वदा निष्प्रयोजनम् ॥ ८१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८१२</summary>
+
+2\. உறின்நட்டு அறின்ஒரூஉம் ஒப்பிலார் கேண்மை  
+பெறினும் இழப்பினும் என்.  
+Who fawn in wealth and fail in dearth  
+Gain or lose; such friends have no worth.        812  
 </details>
 
 <details><summary>मूलम् - ८१२</summary>
@@ -14864,6 +21368,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लाभौकलक्ष्याः स्निग्धाश्च त्रयस्तुल्यगुणान्विताः ॥ ८१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८१३</summary>
+
+3\. உறுவது சீர்தூக்கும் நட்பும் பெறுவது  
+கொள்வாரும் கள்வரும் நேர்.  
+Cunning friends who calculate  
+Are like thieves and whores wicked.        813  
+</details>
+
 <details><summary>मूलम् - ८१३</summary>
 
 उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु  
@@ -14880,6 +21392,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पतिं भूमौ पातयित्वा धावता वाजिना समम् ।  
 सुहृत् साहयं न कुर्याच्चेत् ऐकान्त्यं वरमिष्यते ॥ ८१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८१४</summary>
+
+4\. அமரகத்து ஆற் றறுக்கும் கல்லாமா அன்னார்  
+தமரின் தனிமை தலை.  
+Better be alone than trust in those  
+That throw in field like faithless horse.        814  
 </details>
 
 <details><summary>मूलम् - ८१४</summary>
@@ -14900,6 +21420,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तादृशस्नेहकरणात् स्नेहभावो वरः किल ॥ ८१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८१५</summary>
+
+5\. செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை  
+எய்தலின் எய்தாமை நன்று.  
+Friends low and mean that give no help-  
+Leave them is better than to keep.        815  
+</details>
+
 <details><summary>मूलम् - ८१५</summary>
 
 सॆय्देमञ् जाराच् चिऱियवर् पुन्गेण्मै  
@@ -14916,6 +21444,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मूढैः साकं दृढस्नेहकरणात्, ज्ञानिभिः सह ।  
 विरोधः कोटिसङ्ख्याकलाभं नूनं प्रयच्छति ॥ ८१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८१६</summary>
+
+6\. பேதை பெருங்கெழீஇ நட்பின் அறிவுடையார்  
+ஏதின்மை கோடி உறும்.  
+Million times the wise man's hate  
+Is better than a fool intimate.        816  
 </details>
 
 <details><summary>मूलम् - ८१६</summary>
@@ -14936,6 +21472,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रिपुमूलसुखं तस्मात् दशकोटिगुणाधिकम् ॥ ८१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८१७</summary>
+
+7\. நகைவகைய ராகிய நட்பின் பகைவரால்  
+பத்தடுத்த கோடி உறும்.  
+Ten-fold crore you gain from foes  
+Than from friends who are vain laughers.        817  
+</details>
+
 <details><summary>मूलम् - ८१७</summary>
 
 नगैवगैय रागिय नट्पिन् पगैवराल्  
@@ -14952,6 +21496,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सुसाध्यकार्ये दुस्साध्यमिव यः सुहृदाचरेत् ।  
 तेन साकं स्थितां मैत्रीमनुत्तवैव परित्यज ॥ ८१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८१८</summary>
+
+8\. ஒல்லும் கருமம் உடற்று பவர்கேண்மை  
+சொல்லாடார் சோர விடல்.  
+Without a word those friends eschew  
+Who spoil deeds which they can do.        818  
 </details>
 
 <details><summary>मूलम् - ८१८</summary>
@@ -14972,6 +21524,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मैत्री कृता तु स्वप्नेऽपि व्यसनं जनयिष्यति ॥ ८१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८१९</summary>
+
+9\. கனவினும் இன்னாது மன்னோ வினைவேறு  
+சொல்வேறு பட்டார் தொடர்பு.  
+Even in dreams the tie is bad  
+With those whose deed is far from word.        819  
+</details>
+
 <details><summary>मूलम् - ८१९</summary>
 
 कनविनुम् इन्नादु मन्नो विनैवेऱु  
@@ -14988,6 +21548,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गेहे रहसि संस्तुत्य सभायां जनमण्डले ।  
 मैत्री निन्दयता साकं सर्वथा न विधीयताम् ॥ ८२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८२०</summary>
+
+10\. எனைத்தும் குறுகுதல் ஓம்பல் மனைக்கெழீஇ  
+மன்றில் பழிப்பார் தொடர்பு.  
+Keep aloof from those that smile  
+At home and in public revile.        820  
 </details>
 
 <details><summary>मूलम् - ८२०</summary>
@@ -15011,6 +21579,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मैत्री भग्ना भवेत् स्वर्णमयःखण्डगतं यथा ॥ ८२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८२१</summary>
+
+1\. சீரிடம் காணின் எறிதற்குப் பட்டடை  
+நேரா நிரந்தவர் நட்பு.  
+The friendship by an enemy shown  
+Is anvil in time, to strike you down.        821  
+</details>
+
 <details><summary>मूलम् - ८२१</summary>
 
 सीरिडम् काणिन् ऎऱिदऱ्‌कुप् पट् टडै  
@@ -15027,6 +21603,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चित्ते सौहार्दहीनस्य मित्रवन्नटतो बहिः ।  
 सौहार्दमङ्गनाचित्तसमं परिणतं भवेत् ॥ ८२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८२२</summary>
+
+2\. இனம்போன்று இனமல்லார் கேண்மை மகளிர்  
+மனம்போல வேறு படும்.  
+Who pretend kinship but are not  
+Their friendship's fickle like woman's heart.        822  
 </details>
 
 <details><summary>मूलम् - ८२२</summary>
@@ -15047,6 +21631,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नैव साध्यं भवेत्तेषां ये भवन्ति विरोधिनः ॥ ८२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८२३</summary>
+
+3\. பலநல்ல கற்றக் கடைத்தும் மனம்நல்லர்  
+ஆகுதல் மாணார்க்கு அரிது.  
+They may be vast in good studies  
+But heartfelt-love is hard for foes.        823  
+</details>
+
 <details><summary>मूलम् - ८२३</summary>
 
 पलनल्ल कट्रक् कडैत्तु मननल्लर्  
@@ -15063,6 +21655,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 बहिर्हास्यमुखो भूत्वा चित्ते द्रोहं चिकीर्षतः ।  
 वञ्चकस्य तु सौहर्दं दूरे कुरु भयान्वितः ॥ ८२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८२४</summary>
+
+4\. முகத்தின் இனிய நகாஅ அகத்தின்னா  
+வஞ்சரை அஞ்சப் படும்.  
+Fear foes whose face has winning smiles  
+Whose heart is full of cunning guiles.        824  
 </details>
 
 <details><summary>मूलम् - ८२४</summary>
@@ -15083,6 +21683,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 श्रुत्वा वार्तां च कार्येषु प्रवृत्तिर्न वरा मता ॥ ८२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८२५</summary>
+
+5\. மனத்தின் அமையா தவரை எனைத்தொன்றும்  
+சொல்லினால் தேறற்பாற்று அன்று.  
+Do not trust in what they tell  
+Whose mind with your mind goes ill.        825  
+</details>
+
 <details><summary>मूलम् - ८२५</summary>
 
 मनत्तिन् अमैया तवरै ऎनैत्तॊण्ड्रुम्  
@@ -15099,6 +21707,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विरोधिनो मित्रसमं हितं वाक्यं ब्रुवन्तु वा ।  
 अथापि तद्वचोभङ्ग्या तत्त्वं ज्ञायेत शीघ्रतः ॥ ८२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८२६</summary>
+
+6\. நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல்  
+ஒல்லை உணரப் படும்.  
+The words of foes is quickly seen  
+Though they speak like friends in fine.        826  
 </details>
 
 <details><summary>मूलम् - ८२६</summary>
@@ -15119,6 +21735,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विनयाढ्यं शत्रुवाक्यं तथानर्थकरं भवेत् ॥ ८२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८२७</summary>
+
+7\. சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்  
+தீங்கு குறித்தமை யான்.  
+Trust not the humble words of foes  
+Danger darts from bending bows.        827  
+</details>
+
 <details><summary>मूलम् - ८२७</summary>
 
 सॊल्वणक्कम् ऒन्नार्गण् कॊळ्ळऱ्‌क विल्वणक्कम्  
@@ -15135,6 +21759,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शत्रोरञ्जलिमश्येऽपि छन्नः स्यात् कठिनायुधः ।  
 तथा शत्रोरश्रुपातः क्रूरायुधसमो भवेत् ॥ ८२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८२८</summary>
+
+8\. தொழுதகை யுள்ளும் படையொடுங்கும் ஒன்னார்  
+அழுதகண் ணீரும் அனைத்து.  
+Adoring hands of foes hide arms  
+Their sobbing tears have lurking harms.        828  
 </details>
 
 <details><summary>मूलम् - ८२८</summary>
@@ -15155,6 +21787,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तमेव मार्गमाश्रित्य तस्य मैत्रीं विनाशय ॥ ८२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८२९</summary>
+
+9\. மிகச்செய்து தம்எள்ளு வாரை நகச்செய்து  
+நட்பினுள் சாப்புல்லற் பாற்று.  
+In open who praise, at heart despise  
+Cajole and crush them in friendly guise.        829  
+</details>
+
 <details><summary>मूलम् - ८२९</summary>
 
 मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
@@ -15171,6 +21811,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शत्रुभिः सह मैत्र्यां च प्रसक्तायां मुखे परम् ।  
 प्रसर्श्य मैत्रीं हार्दां तां मैत्रीं छिन्धि निरन्तरम् ॥ ८३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८३०</summary>
+
+10\. பகைநட்பாம் காலம் வருங்கால் முகநட்டு  
+அகநட்பு ஒரீஇ விடல்  
+When foes, in time, play friendship's part  
+Feign love on face but not in heart.        830  
 </details>
 
 <details><summary>मूलम् - ८३०</summary>
@@ -15194,6 +21842,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनर्थप्रदकार्यस्य स्वीकारो मौढ्यलक्षणम् ॥ ८३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८३१</summary>
+
+1\. பேதைமை என்பதொன்று யாதெனின் ஏதங்கொண்டு  
+ஊதியம் போக விடல்.  
+This is folly's prominent vein  
+To favour loss and forego gain.        831  
+</details>
+
 <details><summary>मूलम् - ८३१</summary>
 
 पेदैमै ऎन्बदॊण्ड्रु यादॆनिन् एदङ्गॊण्डु  
@@ -15210,6 +21866,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नानाविधेषु मौढ्येषु मौढ्यं तच्छिखरायते ।  
 यच्छास्त्रनिन्दिते हेये दुराचारे तु भोग्यधीः ॥ ८३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८३२</summary>
+
+2\. பேதைமையு ளெல்லாம் பேதைமை காதன்மை  
+கையல்ல தன்கட் செயல்.  
+Folly of follies is to lead  
+A lewd and lawless life so bad.        832  
 </details>
 
 <details><summary>मूलम् - ८३२</summary>
@@ -15230,6 +21894,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नैराश्यं निर्विवेकत्वमिमे मौढ्यगुणा मताः ॥ ८३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८३३</summary>
+
+3\. நாணாமை நாடாமை நாரின்மை யாதொன்றும்  
+பேணாமை பேதை தொழில்.  
+Shameless, aimless, callous, listless  
+Such are the marks of foolishness.        833  
+</details>
+
 <details><summary>मूलम् - ८३३</summary>
 
 नाणामै नाडामै नारिन्मै यादॊण्ड्रुम्  
@@ -15246,6 +21918,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शास्त्रण्यधीत्य तत्त्वार्थान् बुध्वा चोक्त्वा परान् प्रति ।  
 यस्तु नाचरते तेन समो मूढो न विद्यते ॥ ८३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८३४</summary>
+
+4\. ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்  
+பேதையின் பேதையார் இல்.  
+No fool equals the fool who learns  
+Knows, teaches, but self-control spurns.        834  
 </details>
 
 <details><summary>मूलम् - ८३४</summary>
@@ -15266,6 +21946,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तत्पापमखिलं म्ढः करोत्यत्रैव जन्मनि ॥ ८३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८३५</summary>
+
+5\. ஒருமைச் செயலாற்றும் பேதை எழுமையும்  
+தான்புக் கழுந்தும் அளறு.  
+The fool suffers seven fold hells  
+In single birth of hellish ills.        835  
+</details>
+
 <details><summary>मूलम् - ८३५</summary>
 
 ऒरुमैच् चॆयलाट्रुम् पेदै ऎऴुमैयुम्  
@@ -15282,6 +21970,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अजानता क्रियातत्त्वं मूढेनारब्धकर्म तु ।  
 विघ्नितं नैति पूर्णत्वं कर्तारमपि नाशयेत् ॥ ८३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८३६</summary>
+
+6\. பொய்படும் ஒன்றொ புனைபூணும் கையறியாப்  
+பேதை வினைமேற் கொளின்.  
+A know-nothing fool daring a deed  
+Not only fails but feels fettered.        836  
 </details>
 
 <details><summary>मूलम् - ८३६</summary>
@@ -15302,6 +21998,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्नुयुः सकलं सौख्यं न लाभो बन्धुमित्रयोः ॥ ८३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८३७</summary>
+
+7\. ஏதிலார் ஆரத் தமர்பசிப்பர் பேதை  
+பெருஞ்செல்வம் உற்றக் கடை.  
+Strangers feast and kinsmen fast  
+When fools mishandle fortunes vast.        837  
+</details>
+
 <details><summary>मूलम् - ८३७</summary>
 
 एदिलार् आरत् तमर्बसिप्पर् पेदै  
@@ -15318,6 +22022,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मूढो धनं प्राप्नुयाच्चेत् पित्तस्य पिबतः सुराम् ।  
 या तून्मादकरावस्था मूढः प्राप्नोति तां दशाम् ॥ ८३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८३८</summary>
+
+8\. மையல் ஒருவன் களித்தற்றால் பேதைதன்  
+கையொன்று உடைமை பெறின்.  
+Fools possessing something on hand  
+Like dazed and drunken stupids stand.        838  
 </details>
 
 <details><summary>मूलम् - ८३८</summary>
@@ -15338,6 +22050,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्मान्मूढेन मैत्री तु भवेदानन्दायिनी ॥ ८३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८३९</summary>
+
+9\. பெரிதினிது பேதையார் கேண்மை பிரிவின்கண்  
+பீழை தருவதொன்று இல்.  
+Friendship with fools is highly sweet  
+For without a groan we part.        839  
+</details>
+
 <details><summary>मूलम् - ८३९</summary>
 
 पॆरिदिनिदु पेदैयार् केण्मै पिरिविन्गण्  
@@ -15354,6 +22074,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अमेध्यस्पृष्टपादस्य पर्यङ्के क्षालनं विना ।  
 निक्षेपतुल्यं, मूढस्य विद्वद्गोष्ठीप्रवेशनम् ॥ ८४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८४०</summary>
+
+10\. கழாஅக்கால் பள்ளியுள் வைத்தற்றால் சான்றோர்  
+குழாஅத்துப் பேதை புகல்.  
+Entrance of fools where Savants meet  
+Looks like couch trod by unclean feet.        840  
 </details>
 
 <details><summary>मूलम् - ८४०</summary>
@@ -15377,6 +22105,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्याभावान् वेत्ति लोको णाभावत्वेन् सर्वदा ॥ ८४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८४१</summary>
+
+1\. அறிவின்மை இன்மையுள் இன்மை பிறிதின்மை  
+இன்மையா வையாது உலகு.  
+Want of wisdom is want of wants  
+Want of aught else the world nev'r counts.        841  
+</details>
+
 <details><summary>मूलम् - ८४१</summary>
 
 अऱिविन्मै इन्मैयुळ् इन्मै पिऱिदिन्मै  
@@ -15393,6 +22129,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अल्पज्ञ्ः प्रीतिसंयुक्तो धनमर्पयनीति यत् ।  
 न तत्रान्यत् कारणं स्याद् गृहीतुः पुण्यमन्तरा ॥ ८४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८४२</summary>
+
+2\. அறிவிலான் நெஞ்சுவந்து ஈதல் பிறிதுயாதும்  
+இல்லை பெறுவான் தவம்.  
+When fool bestows with glee a gift  
+It comes but by getter's merit.        842  
 </details>
 
 <details><summary>मूलम् - ८४२</summary>
@@ -15413,6 +22157,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्नुयुः खेदमल्पज्ञाः स्वीयाज्ञानबलात् स्वयम् ॥ ८४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८४३</summary>
+
+3\. அறிவிலார் தாம்தம்மைப் பீழிக்கும் பீழை  
+செறுவார்க்கும் செய்தல் அரிது.  
+The self-torments of fools exceed  
+Ev'n tortures of their foes indeed.        843  
+</details>
+
 <details><summary>मूलम् - ८४३</summary>
 
 अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै  
@@ -15429,6 +22181,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''ज्ञानवानहमस्मि''इति यो वाज्ञानकृतो मदः ।  
 स एवाल्पज्ञशब्देन प्रकृते संप्रकीर्त्यते ॥ ८४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८४४</summary>
+
+4\. வெண்மை எனப்படுவது யாதெனின் ஒண்மை  
+உடையம்யாம் என்னுஞ் செருக்கு.  
+Stupidity is vanity  
+That cries "We have sagacity"        844  
 </details>
 
 <details><summary>मूलम् - ८४४</summary>
@@ -15449,6 +22209,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदा क्षुण्णमधीतेऽपि विषये संशयो भवेत् ॥ ८४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८४५</summary>
+
+5\. கல்லாத மேற்கொண்டு ஒழுகல் கசடற  
+வல்லதூஉம் ஐயம் தரும்.  
+Feigning knowledge that one has not  
+Leads to doubt ev'n that he has got.        845  
+</details>
+
 <details><summary>मूलम् - ८४५</summary>
 
 कल्लाद मेऱ्‌कॊण् डॊऴुगल् कसडऱ  
@@ -15465,6 +22233,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वदोषवरणे यत्नहीनः स्वल्पमतिर्नरः ।  
 मुख्यं गोप्यं स्थलं त्यक्त्वा यथान्याच्छादको भवेत् ॥ ८४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८४६</summary>
+
+6\. அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்  
+குற்றம் மறையா வழி.  
+Fools their nakedness conceal  
+And yet their glaring faults reveal.        846  
 </details>
 
 <details><summary>मूलम् - ८४६</summary>
@@ -15485,6 +22261,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अल्पज्ञः स्वस्य नानर्थान् स्वयमेव समानयेत् ॥ ८४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८४७</summary>
+
+7\. அருமறை சோரும் அறிவிலான் செய்யும்  
+பெருமிறை தானே தனக்கு.  
+The fool that slights sacred counsels  
+Upon himself great harm entails.        847  
+</details>
+
 <details><summary>मूलम् - ८४७</summary>
 
 अरुमऱै सोरुम् अऱिविलान् सॆय्युम्  
@@ -15501,6 +22285,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्कार्यं यः परैरुक्तं न कुर्याद्वेत्ति न स्वयम् ।  
 तस्याल्पबुद्धेः प्राणाः स्युः आन्तमामयरूपिणः ॥ ८४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८४८</summary>
+
+8\. ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர்  
+போஒம் அளவுமோர் நோய்.  
+He listens not nor himself knows  
+Plague is his life until it goes.        848  
 </details>
 
 <details><summary>मूलम् - ८४८</summary>
@@ -15521,6 +22313,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अल्पज्ञो मूढविश्वासाद् भासते ज्ञानवानिव ॥ ८४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८४९</summary>
+
+9\. காணாதான் காட்டுவான் தான்காணான் காணாதான்  
+கண்டானாம் தான்கண்ட வாறு.  
+Sans Self-sight in vain one opens Sight  
+To the blind who bet their sight as right.        849  
+</details>
+
 <details><summary>मूलम् - ८४९</summary>
 
 काणादान् काट्टुवान् तान्गाणान् काणादान्  
@@ -15537,6 +22337,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अस्तीति सद्भिरुक्तार्थान् नास्तीत्येव वदेञ्च यः ।  
 मर्त्यरूपागतं भूतं तं मन्यन्ते नरा भुवि ॥ ८५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८५०</summary>
+
+10\. உலகத்தார் உண்டென்பது இல்லென்பான் வையத்து  
+அலகையா வைக்கப் படும்.  
+To people's "Yes" who proffer "No"  
+Deemed as ghouls on earth they go.        850  
 </details>
 
 <details><summary>मूलम् - ८५०</summary>
@@ -15560,6 +22368,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुर्गुणं मेलनाभावरूपं मेदो विवर्घयेत् ॥ ८५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८५१</summary>
+
+1\. இகலென்ப எல்லா உயிர்க்கும் பகலென்னும்  
+பண்பின்மை பாரிக்கும் நோய்.  
+Hatred is a plague that divides  
+And rouses illwill on all sides.        851  
+</details>
+
 <details><summary>मूलम् - ८५१</summary>
 
 इगलॆन्ब ऎल्ला उयिर्क्कुम् पगलॆन्नुम्  
@@ -15576,6 +22392,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनिच्छन् सङ्गमं कश्चित् करोत्वन्यस्य चाप्रियम् ।  
 तस्याप्यनिष्टकरणान्निवृत्तिः श्लाघ्यते नृणाम् ॥ ८५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८५२</summary>
+
+2\. பகல்கருதிப் பற்றா செயினும் இகல்கருதி  
+இன்னாசெய் யாமை தலை.  
+Rouse not hatred and confusion  
+Though foes provoke disunion        852  
 </details>
 
 <details><summary>मूलम् - ८५२</summary>
@@ -15596,6 +22420,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बहिर्निष्कासयन् कश्चित् शाश्वतीं कीर्तिमश्नुते ॥ ८५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८५३</summary>
+
+3\. இகலென்னும் எவ்வநோய் நீக்கின் தவவில்லாத்  
+தாவில் விளக்கம் தரும்.  
+Shun the plague of enmity  
+And win everlasting glory.        853  
+</details>
+
 <details><summary>मूलम् - ८५३</summary>
 
 इगलॆन्नुम् ऎव्वनोय् नीक्किन् तवलिल्लात्  
@@ -15612,6 +22444,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुःखानामादिमं दुःखं भेदज्ञानाभिधं नरः ।  
 नाशयन् स्वयमाप्नोति सुखानामुत्तमं सुखम् ॥ ८५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८५४</summary>
+
+4\. இன்பத்துள் இன்பம் பயக்கும் இகலென்னும்  
+துன்பத்துள் துன்பம் கெடின்.  
+Hate-the woe of woes destroy;  
+Then joy of joys you can enjoy.        854  
 </details>
 
 <details><summary>मूलम् - ८५४</summary>
@@ -15632,6 +22472,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तान् जेतुं भुवि शक्ताः स्युः केवाऽस्मिन धरणीतले ॥ ८५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८५५</summary>
+
+5\. இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே  
+மிகலூக்கும் தன்மை யவர்.  
+Who can overcome them in glory  
+That are free from enmity?        855  
+</details>
+
 <details><summary>मूलम् - ८५५</summary>
 
 इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे  
@@ -15648,6 +22496,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भेदबुद्धिं समालम्ब्य वर्तनं वरमित्यपि ।  
 तिष्ठतो जीविते सम्पत् क्षीयते नश्यति स्वयम् ॥ ८५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८५६</summary>
+
+6\. இகலின் மிகலினிது என்பவன் வாழ்க்கை  
+தவலும் கெடலும் நணித்து.  
+His fall and ruin are quite near  
+Who holds enmity sweet and dear.        856  
 </details>
 
 <details><summary>मूलम् - ८५६</summary>
@@ -15668,6 +22524,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नीतिशास्त्रोक्ततत्त्वार्थान् ज्ञातुं न प्रभवन्ति ते ॥ ८५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८५७</summary>
+
+7\. மிகல்மேவல் மெய்ப்பொருள் காணார் இகல்மேவல்  
+இன்னா அறிவி னவர்.  
+They cannot see the supreme Truth  
+Who hate and injure without ruth.        857  
+</details>
+
 <details><summary>मूलम् - ८५७</summary>
 
 मिगल्मेवल् मॆय्प्पॊरुळ् काणार् इगल्मेवल्  
@@ -15684,6 +22548,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भेदबुद्धिं ये त्यजन्ति तेषां भाग्यं विवर्घते ।  
 वशा ये भेदभावस्य ते त्वनर्थानवाप्नुयुः ॥ ८५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८५८</summary>
+
+8\. இகலிற்கு எதிர்சாய்தல் ஆக்கம் அதனை  
+மிகலூக்கின் ஊக்குமாம் கேடு.  
+To turn from enmity is gain  
+Fomenting it brings fast ruin.        858  
 </details>
 
 <details><summary>मूलम् - ८५८</summary>
@@ -15704,6 +22576,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अश्रेयःप्राप्तिवेलायां भेदबुद्धिं ध्रुवं त्यजेत् ॥ ८५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८५९</summary>
+
+9\. இகல்காணான் ஆக்கம் வருங்கால் அதனை  
+மிகல்காணும் கேடு தரற்கு.  
+Fortune favours when hate recedes  
+Hatred exceeding ruin breeds.        859  
+</details>
+
 <details><summary>मूलम् - ८५९</summary>
 
 इगल्गाणान् आक्कम् वरुङ्गाल् अदनै  
@@ -15720,6 +22600,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भेदज्ञानेन चैकस्य बह्वनर्था भवन्ति हि ।  
 सौहार्दान्नितिरूपाख्यभाग्यं जायेत कस्यचित् ॥ ८६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८६०</summary>
+
+10\. இகலானாம் இன்னாத எல்லாம் நகலானாம்  
+நன்னயம் என்னும் செருக்கு.  
+All evils come from enmity  
+All goodness flow from amity.        860  
 </details>
 
 <details><summary>मूलम् - ८६०</summary>
@@ -15743,6 +22631,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न त्याज्यं सर्वदा वैरं स्वस्मादल्पबलान्वितैः ॥ ८६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८६१</summary>
+
+1\. வலியார்க்கு மாறேற்றல் ஓம்புக ஓம்பா  
+மெலியார்மேல் மேக பகை.  
+Turn from strife with foes too strong  
+With the feeble for battle long.        861  
+</details>
+
 <details><summary>मूलम् - ८६१</summary>
 
 वलियार्क्कु माऱेट्रल् ओम्बुग ओम्बा  
@@ -15759,6 +22655,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वाश्रितेषु प्रीतिहीनो सैन्यादिबलवर्जितः ।  
 स्वयं च बलहीनश्चेत् कथं शत्रून् विजेष्यति ॥ ८६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८६२</summary>
+
+2\. அன்பிலன் ஆன்ற துணையிலன் தான்துவ்வான்  
+என்பரியும் ஏதிலான் துப்பு.  
+Loveless, aidless, powerless king  
+Can he withstand an enemy strong?        862  
 </details>
 
 <details><summary>मूलम् - ८६२</summary>
@@ -15779,6 +22683,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अदातुर्मित्रहीनस्य सुलभा शत्रुवश्यता ॥ ८६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८६३</summary>
+
+3\. அஞ்சும் அறியான் அமைவிலன் ஈகலான்  
+தஞ்சம் எளியன் பகைக்கு.  
+Unskilled, timid, miser, misfit  
+He is easy for foes to hit.        863  
+</details>
+
 <details><summary>मूलम् - ८६३</summary>
 
 अञ्जुम् अऱियान् अमैविलन् ईगलान्  
@@ -15795,6 +22707,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वत्र सर्वदा सर्वैः स जेतुं सुलभो भवेत् ।  
 यः क्रोधवशमापन्नस्त्वशक्तश्चित्तनिग्रहे ॥ ८६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८६४</summary>
+
+4\. நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்  
+யாங்கணும் யார்க்கும் எளிது.  
+The wrathful restive man is prey  
+To any, anywhere any day.        864  
 </details>
 
 <details><summary>मूलम् - ८६४</summary>
@@ -15815,6 +22735,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अभीरुरपवादानां निर्गुणः स्याद्रिपोर्वशे ॥ ८६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८६५</summary>
+
+5\. வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்  
+பண்பிலன் பற்றார்க்கு இனிது.  
+Crooked, cruel, tactless and base  
+Any foe can fell him with ease.        865  
+</details>
+
 <details><summary>मूलम् - ८६५</summary>
 
 वऴिनोक्कान् वाय्प्पन सॆय्यान् पऴिनोक्कान्  
@@ -15831,6 +22759,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वपरज्ञानविध्वंसकारणक्रोधसंयुतः ।  
 विजृम्भत्कामनिचयुक्तः क्षीयेत् सत्वरम् ॥ ८६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८६६</summary>
+
+6\. காணாச் சினத்தான் கழிபெருங் காமத்தான்  
+பேணாமை பேணப் படும்.  
+Blind in rage and mad in lust  
+To have his hatred is but just.        866  
 </details>
 
 <details><summary>मूलम् - ८६६</summary>
@@ -15851,6 +22787,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वैरं सम्पाद्यतां तेन साकमर्थं प्रदाय वा ॥ ८६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८६७</summary>
+
+7\. கொடுத்தும் கொளல்வேண்டும் மன்ற அடுத்திருந்து  
+மாணாத செய்வான் பகை.  
+Pay and buy his enmity  
+Who muddles chance with oddity.        867  
+</details>
+
 <details><summary>मूलम् - ८६७</summary>
 
 कॊडुत्तुम् कॊळल्वेण्डुम् मण्ड्र अडुत्तिरुन्दु  
@@ -15867,6 +22811,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अगुणी दोषभाङ् मैत्रीं न केनापि स विन्दते ।  
 तदेव मैत्रीराहित्यं रिपणां जयदं भवेत् ॥ ८६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८६८</summary>
+
+8\. குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்கு  
+இனனிலனாம் ஏமாப்பு உடைத்து.  
+With no virtue but full of vice  
+He loses friends and delights foes.        868  
 </details>
 
 <details><summary>मूलम् - ८६८</summary>
@@ -15887,6 +22839,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रिपुर्भियुद्धकर्ता तु जित्वा श्रेष्ठसुखं व्रजेत् ॥ ८६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८६९</summary>
+
+9\. செறுவார்க்குச் சேணிகவா இன்பம் அறிவிலா  
+அஞ்சும் பகைவர்ப் பெறின்.  
+The joy of heroes knows no bounds  
+When timid fools are opponents.        869  
+</details>
+
 <details><summary>मूलम् - ८६९</summary>
 
 सॆऱुवार्क्कुच् चेणिगवा इन्बम् अऱिविला  
@@ -15903,6 +22863,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अज्ञातनीतिशास्त्रैस्तु साकं वैरं फलप्रदम् ।  
 तथा कर्तुमशक्तो यस्तस्य कीर्तिर्न सिध्यति ॥ ८७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८७०</summary>
+
+10\. கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும்  
+ஒல்லானை ஒல்லாது ஒளி.  
+Glory's light he will not gain  
+Who fails to fight a fool and win.        870  
 </details>
 
 <details><summary>मूलम् - ८७०</summary>
@@ -15926,6 +22894,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विरोधस्तु न केनापि न कदाचिच्चिकीर्ष्यताम् ॥ ८७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८७१</summary>
+
+1\. பகைஎன்னும் பண்பி லதனை ஒருவன்  
+நகையேயும் வேண்டற்பாற்று அன்று.  
+Let not one even as a sport  
+The ill-natured enmity court.        871  
+</details>
+
 <details><summary>मूलम् - ८७१</summary>
 
 पगैऎन्नुम् पण्बि लदनै ऒरुवन्  
@@ -15942,6 +22918,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 चापाख्यलाङ्गलकरैः वीरैर्वैरं न दुःखदम् ।  
 वागाख्यलाङ्गलकरैर्बुधैर्वैरं न साम्प्रतम् ॥ ८७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८७२</summary>
+
+2\. வில்லே ருழவர் பகைகொளினும் கொள்ளற்க  
+சொல்லே ருழவர் பகை.  
+Incur the hate of bow-ploughers  
+But not the hate of word-ploughers.        872  
 </details>
 
 <details><summary>मूलम् - ८७२</summary>
@@ -15962,6 +22946,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 उन्मत्तपुरुषाच्चापि ज्ञानहीनः स गण्यते ॥ ८७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८७३</summary>
+
+3\. ஏமுற் றவரினும் ஏழை தமியனாய்ப்  
+பல்லார் பகைகொள் பவன்.  
+Forlorn, who rouses many foes  
+The worst insanity betrays.        873  
+</details>
+
 <details><summary>मूलम् - ८७३</summary>
 
 एमुऱ्‌ ऱवरिनुम् एऴै तमियनाय्प्  
@@ -15978,6 +22970,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वैरिणोऽपि सुहृद्भूतान् कुर्वन् श्लाघ्यगुणान्वितः ।  
 यो भवेत् तत्प्रभावस्य वश्यं स्यात् सकलं जगत् ॥ ८७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८७४</summary>
+
+4\. பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்  
+தகைமைக்கண் தங்கிற்று உலகு.  
+This world goes safely in his grace  
+Whose heart makes friends even of foes.        874  
 </details>
 
 <details><summary>मूलम् - ८७४</summary>
@@ -15998,6 +22998,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सन्भवेतां तयोरेकं मित्रं कुर्वीत् तत्क्षणात् ॥ ८७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८७५</summary>
+
+5\. தன்துணை இன்றால் பகைஇரண்டால் தான்ஒருவன்  
+இன்துணையாக் கொள்கவற்றின் ஒன்று.  
+Alone, if two foes you oppose  
+Make one of them your ally close.        875  
+</details>
+
 <details><summary>मूलम् - ८७५</summary>
 
 तन्दुणै इण्ड्राल् पगैयिरण्डाल् तान्ऒरुवन्  
@@ -16014,6 +23022,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 त्वया रिपुर्भवेद् ज्ञातस्त्वज्ञातो वा पुरा भृशम् ।  
 क्लेशे प्राप्ते तु माध्यस्थ्यभावमालम्ब्य पश्य तम् ॥ ८७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८७६</summary>
+
+6\. தேறினும் தேறா விடினும் அழிவின்கண்  
+தேறான் பகாஅன் விடல்.  
+Trust or distrust; during distress  
+Keep aloof; don't mix with foes.        876  
 </details>
 
 <details><summary>मूलम् - ८७६</summary>
@@ -16034,6 +23050,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शत्रूणां सन्निधौ स्वीयदौर्बल्यं न प्रकाशयेत् ॥ ८७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८७७</summary>
+
+7\. நோவற்க நொந்தது அறியார்க்கு மேவற்க  
+மென்மை பகைவ ரகத்து  
+To those who know not, tell not your pain  
+Nor your weakness to foes explain.        877  
+</details>
+
 <details><summary>मूलम् - ८७७</summary>
 
 नोवऱ्‌क नॊन्ददु अऱियार्क्कु मेवऱ्‌क  
@@ -16050,6 +23074,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वसत्त्ववर्धकः कार्यतत्त्वज्ञो निजरक्षकः ।  
 यदि कश्चिद्भवेत्तस्य शत्रवो लयमाप्नुयुः ॥ ८७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८७८</summary>
+
+8\. வகையறிந்து தற்செய்து தற்காப்ப மாயும்  
+பகைவர்கண் பட்ட செருக்கு.  
+Know how and act and defend well  
+The pride of enemies shall fall.        878  
 </details>
 
 <details><summary>मूलम् - ८७८</summary>
@@ -16070,6 +23102,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स एव वृद्धश्छिन्नश्चेत् छेत्तुश्छिन्नो भवेत्करः ॥ ८७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८७९</summary>
+
+9\. இளைதாக முள்மரம் கொல்க களையுநர்  
+கைகொல்லும் காழ்த்த விடத்து  
+Cut off thorn-trees when young they are;  
+Grown hard, they cut your hands beware.        879  
+</details>
+
 <details><summary>मूलम् - ८७९</summary>
 
 इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्  
@@ -16086,6 +23126,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गर्वो रिपुणामादौ न हन्यते केनचिद्यदि ।  
 श्वासग्रहणकालं च न शक्यं तेन जीवितुम् ॥ ८८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८८०</summary>
+
+10\. உயிர்ப்ப உளரல்லர் மன்ற செயிர்ப்பவர்  
+செம்மல் சிதைக்கலா தார்.  
+To breathe on earth they are not fit  
+Defying foes who don't defeat.        880  
 </details>
 
 <details><summary>मूलम् - ८८०</summary>
@@ -16109,6 +23157,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञातयो दुःखदास्तद्वत् त्यज्या ह्यान्तरवैरिणः ॥ ८८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८८१</summary>
+
+1\. நிழல்நீரும் இன்னாத இன்னா தமர்நீரும்  
+இன்னாவாம் இன்னா செயின்.  
+Traitorous kinsmen will make you sad  
+As water and shade do harm when bad.        881  
+</details>
+
 <details><summary>मूलम् - ८८१</summary>
 
 निऴल्नीरुम् इन्नाद इन्ना तमर्नीरुम्  
@@ -16125,6 +23181,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असितुल्यान् व्यक्तशत्रून् दृष्ट्वा भीतिः कुतो वृथा ।  
 बन्धुवेषान् गूढशत्रून् दृष्ट्वा मेतव्य मेव हि ॥ ८८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८८२</summary>
+
+2\. வாள்போல் பகைவரை அஞ்சற்க அஞ்சுக  
+கேள்போல் பகைவர் தொடர்பு.  
+You need not sword-like kinsmen fear  
+Fear foes who feign as kinsmen dear.        882  
 </details>
 
 <details><summary>मूलम् - ८८२</summary>
@@ -16145,6 +23209,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्यथा नाशमाप्नोति सूचीच्छिन्नघटो यथा ॥ ८८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८८३</summary>
+
+3\. உட்பகை அஞ்சித்தற் காக்க உலைவுஇடத்து  
+மட்பகையின் மாணத் தெறும்.  
+The secret foe in days evil  
+Will cut you, beware, like potters' steel.        883  
+</details>
+
 <details><summary>मूलम् - ८८३</summary>
 
 उट्पगै अञ्जित्तऱ्‌ काक्क उलैविडत्तु  
@@ -16161,6 +23233,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असंस्कृतमनस्केन गूढवैरं भवेद्यदि ।  
 बन्धुनाशकरान् दोषान् तदा प्राप्नोत्ययं जनः ॥ ८८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८८४</summary>
+
+4\. மனமாணா உட்பகை தோன்றின் இனமாணா  
+ஏதம் பலவுந் தரும்.  
+The evil-minded foe within  
+Foments trouble, spoils kinsmen!        884  
 </details>
 
 <details><summary>मूलम् - ८८४</summary>
@@ -16181,6 +23261,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मरणान्तानि दुःखानि लभते तत एव सः ॥ ८८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८८५</summary>
+
+5\. உறல்முறையான் உட்பகை தோன்றின் இறல்முறையான்  
+ஏதம் பலவுந் தரும்.  
+A traitor among kinsmen will  
+Bring life-endangering evil.        885  
+</details>
+
 <details><summary>मूलम् - ८८५</summary>
 
 उऱल्मुऱैयान् उट्पगै तोण्ड्रिन् इऱल्मुऱैयान्  
@@ -16197,6 +23285,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वाश्रितेष्वान्तरं वैरं यः कश्चित्कुरुते यदि ।  
 न तस्य मरणाभावो भविष्यति कदाचन ॥ ८८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८८६</summary>
+
+6\. ஒன்றாமை ஒன்றியார் கட்படின் எஞ்ஞான்றும்  
+பொன்றாமை ஒன்றல் அரிது.  
+Discord in kings' circle entails  
+Life-destroying deadly evils.        886  
 </details>
 
 <details><summary>मूलम् - ८८६</summary>
@@ -16217,6 +23313,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथाऽन्तःशत्रवोऽन्योन्यं बहिर्युक्तौ न वै हृदा ॥ ८८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८८७</summary>
+
+7\. செப்பின் புணர்ச்சிபோல் கூடினும் கூடாதே  
+உட்பகை உற்ற குடி.  
+A house hiding hostiles in core  
+Just seems on like the lid in jar.        887  
+</details>
+
 <details><summary>मूलम् - ८८७</summary>
 
 सॆप्पिन् पुणर्च्चिबोल् कूडिनुम् कूडादे  
@@ -16233,6 +23337,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अन्तर्विरोधिनां वंशो बलहीनः क्रमाद् भवेत् ।  
 अयःपिण्डः कृपाणेन घृष्टो नाशं व्रजेद्यथा ॥ ८८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८८८</summary>
+
+8\. அரம்பொருத பொன்போலத் தேயும் உரம்பொருது  
+உட்பகை உற்ற குடி.  
+By secret spite the house wears out  
+Like gold crumbling by file's contact.        888  
 </details>
 
 <details><summary>मूलम् - ८८८</summary>
@@ -16253,6 +23365,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुलनाशकरानिष्टं महान्तं जनयेत् किल ॥ ८८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८८९</summary>
+
+9\. எட்பக வன்ன சிறுமைத்தே ஆயினும்  
+உட்பகை உள்ளதாம் கேடு.  
+Ruin lurks in enmity  
+As slit in sesame though it be.        889  
+</details>
+
 <details><summary>मूलम् - ८८९</summary>
 
 ऎट्पग वन्न सिऱुमैत्ते आयिनुम्  
@@ -16269,6 +23389,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोके भिन्नमनस्तत्त्वैर्मानवैस्सह जीवनम् ।  
 एकत्रैव गृहे सर्पैः सहवाससमं भवेत् ॥ ८९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८९०</summary>
+
+10\. உடம்பாடு இலாதவர் வாழ்க்கை குடங்கருள்  
+பாம்போடு உடனுறைந் தற்று.  
+Dwell with traitors that hate in heart  
+Is dwelling with snake in selfsame hut.        890  
 </details>
 
 <details><summary>मूलम् - ८९०</summary>
@@ -16292,6 +23420,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यत्कार्यसाधनपटोः सामर्थ्यस्य परिग्रहः ॥ ८९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८९१</summary>
+
+1\. ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார்  
+போற்றலு ளெல்லாம் தலை.  
+Not to spite the mighty ones  
+Safest safeguard to living brings.        891  
+</details>
+
 <details><summary>मूलम् - ८९१</summary>
 
 आट्रुवार् आट्रल् इगऴामै पोट्रुवार्  
@@ -16308,6 +23444,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महात्मनां तु विषये क्रियमाणा तिरस्कृतिः ।  
 कस्यचित्सकलं दुःखं प्रददाति न संशयः ॥ ८९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८९२</summary>
+
+2\. பெரியாரைப் பேணாது ஒழுகின் பெரியாரால்  
+பேரா இடும்பை தரும்.  
+To walk unmindful of the great  
+Shall great troubles ceaseless create.        892  
 </details>
 
 <details><summary>मूलम् - ८९२</summary>
@@ -16328,6 +23472,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 राज्ञा सह कुरु द्वेषं यदि त्वं नाशमिच्छसि ॥ ८९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८९३</summary>
+
+3\. கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின்  
+ஆற்று பவர்கண் இழுக்கு.  
+Heed not and do, if ruin you want  
+Offence against the mighty great.        893  
+</details>
+
 <details><summary>मूलम् - ८९३</summary>
 
 कॆडल्वेण्डिन् केळादु सॆय्ग अडल्वेण्डिन्  
@@ -16344,6 +23496,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 समं बलवता वैरं क्रियते यद्धि दुर्बलैः ।  
 हन्तुर्यमस्य हस्ताभ्यामाह्वानसदृशं हि तत् ॥ ८९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८९४</summary>
+
+4\. கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்கு  
+ஆற்றாதார் இன்னா செயல்  
+The weak who insult men of might  
+Death with their own hands invite.        894  
 </details>
 
 <details><summary>मूलम् - ८९४</summary>
@@ -16364,6 +23524,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आत्मनो रक्षणं तस्मात् कुत्र गत्वा करिष्यति ॥ ८९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८९५</summary>
+
+5\. யாண்டுச்சென்று யாண்டும் உளராகார் வெந்துப்பின்  
+வேந்து செறப்பட் டவர்.  
+Where can they go and thrive where  
+Pursued by powerful monarch's ire?        895  
+</details>
+
 <details><summary>मूलम् - ८९५</summary>
 
 याण्डुच्चॆन् ऱियाण्डु मुळरागार् वॆन्दुप्पिन्  
@@ -16380,6 +23548,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दग्धोऽपि वह्निना कश्चित् कदाचिज्जीवितुं क्षमः ।  
 महातामपकारी तु जीवितुं न भवेत् क्षमः ॥ ८९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८९६</summary>
+
+6\. எரியால் சுடப்படினும் உய்வுண்டாம் உய்யார்  
+பெரியார்ப் பிழைத்தொழுகு வார்.  
+One can escape in fire caught  
+The great who offends escapes not.        896  
 </details>
 
 <details><summary>मूलम् - ८९६</summary>
@@ -16400,6 +23576,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्य भॄपस्य वित्तेन साम्राज्येनापि किं फलम् ॥ ८९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८९७</summary>
+
+7\. வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்  
+தகைமாண்ட தக்கார் செறின்.  
+If holy mighty sages frown  
+Stately gifts and stores who can own?        897  
+</details>
+
 <details><summary>मूलम् - ८९७</summary>
 
 वगैमाण्ड वाऴ्क्कैयुम् वान्बॊरुळुम् ऎन्नाम्  
@@ -16416,6 +23600,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महद्भिः शैलसदृशैः शप्ता ये भुवि पार्थिवाः ।  
 स्थिरप्रतिष्ठाः सन्तोऽपि क्षीयन्ते ते सबान्धवाः ॥ ८९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ८९८</summary>
+
+8\. குன்றன்னார் குன்ற மதிப்பின் குடியொடு  
+நின்றன்னார் மாய்வர் நிலத்து.  
+When hill-like sages are held small  
+The firm on earth lose home and all.        898  
 </details>
 
 <details><summary>मूलम् - ८९८</summary>
@@ -16436,6 +23628,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 देवेन्द्रो वा भवत्वेषः स्थानाद्भ्रष्टः पतत्यधः ॥ ८९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ८९९</summary>
+
+9\. ஏந்திய கொள்கையார் சீறின் இடைமுரிந்து  
+வேந்தனும் வேந்து கெடும்.  
+Before the holy sage's rage  
+Ev'n Indra's empire meets damage.        899  
+</details>
+
 <details><summary>मूलम् - ८९९</summary>
 
 एन्दिय कॊळ्गैयार् सीऱिन् इडैमुरिन्दु  
@@ -16452,6 +23652,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नानातपोबलवतां प्राप्ता ये कोपपात्रताम् ।  
 भूपास्ते बलवन्तोऽपि लभेरन् विलयं क्षणात् ॥ ९००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९००</summary>
+
+10\. இறந்தமைந்த சார்புடைய ரா யினும் உய்யார்  
+சிறந்தமைந்த சீரார் செறின்.  
+Even mighty aided men shall quail  
+If the enraged holy seers will.        900  
 </details>
 
 <details><summary>मूलम् - ९००</summary>
@@ -16475,6 +23683,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भार्यानुसरणं लक्ष्यसाधने बाधकं भवेत् ॥ ९०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९०१</summary>
+
+1\. மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழைவார்  
+வேண்டாப் பொருளும் அது.  
+Who dote on wives lose mighty gain  
+That lust, dynamic men disdain.        901  
+</details>
+
 <details><summary>मूलम् - ९०१</summary>
 
 मनैविऴैवार् माण्बयन् ऎय्दार् विनैविऴैयार्  
@@ -16491,6 +23707,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लक्ष्यमुत्सृज्य कामार्थं भार्यावचनकारिभिः ।  
 लब्धं वित्तं भवेत्तेषां नूनं लज्जाप्रदायकम् ॥ ९०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९०२</summary>
+
+2\. பேணாது பெண்விழைவான் ஆக்கம் பெரியதோர்  
+நாணாக நாணுத் தரும்.  
+Who dotes, unmanly, on his dame  
+His wealth to him and all is shame.        902  
 </details>
 
 <details><summary>मूलम् - ९०२</summary>
@@ -16511,6 +23735,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अतथाभूतमहतामग्रे लज्जां स विन्दते ॥ ९०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९०३</summary>
+
+3\. இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்  
+நல்லாருள் நாணுத் தரும்.  
+Who's servile to his wife always  
+Shy he feels before the wise.        903  
+</details>
+
 <details><summary>मूलम् - ९०३</summary>
 
 इल्लाळ्गण् ताऴ्न्द इयल्बिन्मै ऎञ्ञाण्ड्रुम्  
@@ -16527,6 +23759,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भार्याभीरुर्न लभते लोकान्तरसुखं स्थिरम् ।  
 कार्यनिर्वाहसामर्थ्यं न तस्य श्लाघ्यते बुधैः ॥ ९०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९०४</summary>
+
+4\. மனையாளை அஞ்சும் மறுமையி லாளன்  
+வினையாண்மை வீறெய்தல் இன்று.  
+Fearing his wife salvationless  
+The weaklings' action has no grace.        904  
 </details>
 
 <details><summary>मूलम् - ९०४</summary>
@@ -16547,6 +23787,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स तु स्वीयधनं चापि दातुं भीतिमवाप्नुयात् ॥ ९०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९०५</summary>
+
+5\. இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும்  
+நல்லார்க்கு நல்ல செயல்.  
+Who fears his wife fears always  
+Good to do to the good and wise.        905  
+</details>
+
 <details><summary>मूलम् - ९०५</summary>
 
 इल्लाळै अञ्जुवान् अञ्जुमऱ्‌ ऱॆञ्ञाण्ड्रुम्  
@@ -16563,6 +23811,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 देवभोगमवाप्यापि नायं प्राप्नोति गौरवम् ।  
 रम्यहस्तयुतां भार्यां दृष्ट्वा यः कातरो भवेत् ॥ ९०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९०६</summary>
+
+6\. இமையாரின் வாழினும் பாடிலரே இல்லாள்  
+அமையார்தோள் அஞ்சு பவர்.  
+Who fear douce arms of their wives  
+Look petty even with god-like lives.        906  
 </details>
 
 <details><summary>मूलम् - ९०६</summary>
@@ -16583,6 +23839,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्त्रीणां लज्जासमेतानां स्त्रीत्वमेव विशिष्यते ॥ ९०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९०७</summary>
+
+7\. பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்  
+பெண்ணே பெருமை உடைத்து.  
+Esteemed more is women bashful  
+Than man servile unto her will.        907  
+</details>
+
 <details><summary>मूलम् - ९०७</summary>
 
 पॆण्णेवल् सॆय्दॊऴुगुम् आण्मैयिन् नाणुडैप्  
@@ -16599,6 +23863,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भार्यावचनकर्ता तु स्वमित्रेभ्योऽपि काङ्क्षितम् ।  
 न स्यात्पूरयिन्तु शक्तः कुर्याद्धर्मान् न शाश्वतान् ॥ ९०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९०८</summary>
+
+8\. நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள்  
+பெட்டாங்கு ஒழுகு பவர்.  
+By fair-browed wives who are governed  
+Help no friends nor goodness tend.        908  
 </details>
 
 <details><summary>मूलम् - ९०८</summary>
@@ -16619,6 +23891,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 काम्यकर्माणि कर्तुं च पत्नीदासो न शक्नुयात् ॥ ९०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९०९</summary>
+
+9\. அறவினையும் ஆன்ற பொருளும் பிறவினையும்  
+பெண்ஏவல் செய்வார்கண் இல்.  
+No virtue riches nor joy is seen  
+In those who submit to women        909  
+</details>
+
 <details><summary>मूलम् - ९०९</summary>
 
 अऱविनैयुम् आण्ड्र पॊरुळुम् पिऱविनैयुम्  
@@ -16635,6 +23915,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ऋजुपूतमनस्कानां श्रेष्ठस्थानमुपेयुषाम् ।  
 पत्नीदास्यकराज्ञानां सर्वथा न भविष्यति ॥ ९१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९१०</summary>
+
+10\. எண்சேர்ந்த நெஞ்சத் திடனுடையார்க்கு எஞ்ஞான்றும்  
+பெண்சேர்ந்தாம் பேதைமை இல்.  
+Thinkers strong and broad of heart  
+By folly on fair sex do not dote.        910  
 </details>
 
 <details><summary>मूलम् - ९१०</summary>
@@ -16658,6 +23946,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दास्यास्तस्या रम्यवाक्यं दद्याद् व्यसनमन्ततः ॥ ९११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९११</summary>
+
+1\. அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்  
+இன்சொல் இழுக்குத் தரும்.  
+For gold, not love their tongue cajoles  
+Men are ruined by bangled belles.        911  
+</details>
+
 <details><summary>मूलम् - ९११</summary>
 
 अन्बिन् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्  
@@ -16674,6 +23970,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धनलाभानुसरेण ब्रूवतीनां प्रियं वचः ।  
 स्नेहं निर्गुणदसीनां विमृश्य विसृजेन्नरः ॥ ९१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९१२</summary>
+
+2\. பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்  
+நயன்தூக்கி நள்ளா விடல்.         
+Avoid ill-natured whores who feign  
+Love only for their selfish gain.        912  
 </details>
 
 <details><summary>मूलम् - ९१२</summary>
@@ -16694,6 +23998,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तमोवृतस्थले नूत्नप्रेतालिङ्गनवद्भवेत् ॥ ९१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९१३</summary>
+
+3\. பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்  
+ஏதில் பிணந்தழீஇ யற்று.  
+The false embrace of whores is like  
+That of a damned corpse in the dark.        913  
+</details>
+
 <details><summary>मूलम् - ९१३</summary>
 
 पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
@@ -16710,6 +24022,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अर्थमात्रैकलक्ष्यणां दासीनां कपटं सुखम् ।  
 नाद्रियन्ते धर्ममार्गविमर्शनपरा बुधाः ॥ ९१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९१४</summary>
+
+4\. பொருட்பொருளார் புன்னலம் தோயார் அருட்பொருள்  
+ஆயும் அறிவி னவர்.  
+The wise who seek the wealth of grace  
+Look not for harlots' low embrace.        914  
 </details>
 
 <details><summary>मूलम् - ९१४</summary>
@@ -16730,6 +24050,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सर्वस्वाम्याङ्गनाभोगं कृत्रिमं न हि वृण्वते ॥ ९१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९१५</summary>
+
+5\. பொதுநலத்தார் புன்னலம் தோயார் மதிநலத்தின்  
+மாண்ட அறிவி னவர்.  
+The lofty wise will never covet  
+The open charms of a vile harlot.        915  
+</details>
+
 <details><summary>मूलम् - ९१५</summary>
 
 पॊदुनलत्तार् पुन्नलम् तोयार् मदिनलत्तिन्  
@@ -16746,6 +24074,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पण्यस्त्रीणां छलं प्रेम यच्छन्तीनां जनान् प्रति ।  
 भुजौ रूपमदान्धानां न स्पृशेयुर्गुणैषिणः ॥ ९१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९१६</summary>
+
+6\. தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப்  
+புன்னலம் பாரிப்பார் தோள்.  
+Those who guard their worthy fame  
+Shun the wanton's vaunting charm.        916  
 </details>
 
 <details><summary>मूलम् - ९१६</summary>
@@ -16766,6 +24102,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वारस्त्रीणां भुजौ चित्तदार्ढ्यहीनाः स्पृशन्त्यहो ॥ ९१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९१७</summary>
+
+7\. நிறைநெஞ்சம் இல்லவர் தோய்வர் பிறநெஞ்சிற்  
+பேணிப் புணர்பவர் தோள்.  
+Hollow hearts alone desire  
+The arms of whores with hearts elsewere.        917  
+</details>
+
 <details><summary>मूलम् - ९१७</summary>
 
 निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्‌  
@@ -16782,6 +24126,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कुलटाभिर्वञ्चिकाभिः सहालिङ्गनकर्म तु ।  
 नृणा विवेकशून्यानां भूतं प्राणहरं भवेत् ॥ ९१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९१८</summary>
+
+8\. ஆயும் அறிவினர் அல்லார்க்கு அணங்கென்ப  
+மாய மகளிர் முயக்கு.  
+Senseless fools are lured away  
+By arms of sirens who lead astray.        918  
 </details>
 
 <details><summary>मूलम् - ९१८</summary>
@@ -16802,6 +24154,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मूढाधमजनप्राप्यनिरयेन समो भवेत् ॥ ९१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९१९</summary>
+
+9\. வரைவிலா மாணிழையார் மென்றோள் புரையிலாப்  
+பூரியர்கள் ஆழும் அளறு.  
+The soft jewelled arms of whores are hell  
+Into which the degraded fall.        919  
+</details>
+
 <details><summary>मूलम् - ९१९</summary>
 
 वरैविला माणिऴैयार् मॆन्दोळ् पुरैयिलाप्  
@@ -16818,6 +24178,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 द्विमनस्का वारनारी द्यूतो मद्यं मदप्रदम् ।  
 त्रिभिरेतैर्युतं मर्त्य विमुञ्चेत् पद्मसम्भवा ॥ ९२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९२०</summary>
+
+10\. இருமனப் பெண்டிரும் கள்ளும் கவறும்  
+திருநீக்கப் பட்டார் தொடர்பு.  
+Double-minded whores, wine and dice  
+Are lures of those whom fortune flies.        920  
 </details>
 
 <details><summary>मूलम् - ९२०</summary>
@@ -16841,6 +24209,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा तैरार्जिता कीर्तीः अचिरात् क्षीयते भुवि ॥ ९२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९२१</summary>
+
+1\. உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும்  
+கட்காதல் கொண்டொழுகு வார்.  
+Foes fear not who for toddy craze  
+The addicts daily their glory lose.        921  
+</details>
+
 <details><summary>मूलम् - ९२१</summary>
 
 उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाण्ड्रुम्  
@@ -16857,6 +24233,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मद्यं न पेयं विदुषा कश्चित् पातुं वृणोति चेत् ।  
 महाद्भिर्माननीयोऽसौ न कदाचिद्भविष्यति ॥ ९२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९२२</summary>
+
+2\. உண்ணற்க கள்ளை உணில்உண்க சான்றோரான்  
+எண்ணப் படவேண்டா தார்.  
+Drink not liquor; but let them drink  
+Whom with esteem the wise won't think.        922  
 </details>
 
 <details><summary>मूलम् - ९२२</summary>
@@ -16877,6 +24261,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पानं महात्मनामग्रे कियदुःखकरं भवेत् ॥ ९२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९२३</summary>
+
+3\. ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்  
+சான்றோர் முகத்துக் களி.  
+The drunkard's joy pains ev'n mother's face  
+How vile must it look for the wise?        923  
+</details>
+
 <details><summary>मूलम् - ९२३</summary>
 
 ईण्ड्राळ् मुगत्तेयुम् इन्नादाल् ऎन्मट्रुच्  
@@ -16893,6 +24285,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अतिहेयसुरपानरूपदोषजुषां पुरः ।  
 लज्जाख्यरमणी स्थातुमशक्ता दूरतो व्रजेत् ॥ ९२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९२४</summary>
+
+4\. நாண்என்னும் நல்லாள் புறம்கொடுக்கும் கள்ளென்னும்  
+பேணாப் பெருங்குற்றத் தார்க்கு.  
+Good shame turns back from him ashamed  
+Who is guilty of wine condemned.        924  
 </details>
 
 <details><summary>मूलम् - ९२४</summary>
@@ -16913,6 +24313,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतिकर्तव्यतामूढरूपाज्ञाननिरूपिका ॥ ९२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९२५</summary>
+
+5\. கையறியாமை யுடைத்தே பொருள் கொடுத்து  
+மெய்யறி யாமை கொளல்.  
+To pay and drink and lose the sense  
+Is nothing but rank ignorance.        925  
+</details>
+
 <details><summary>मूलम् - ९२५</summary>
 
 कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु  
@@ -16929,6 +24337,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ज्ञानाभावान्न भेदोऽस्ति निद्राणस्य मृतस्य च ।  
 विषपायी सुरापायी द्वामिवौ च तथा समौ ॥ ९२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९२६</summary>
+
+6\. துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்  
+நஞ்சுண்பார் கள்ளுண் பவர்.  
+They take poison who take toddy  
+And doze ev'n like a dead body.        926  
 </details>
 
 <details><summary>मूलम् - ९२६</summary>
@@ -16949,6 +24365,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ग्रामीणा हेतुभिस्तत्त्वमूह्य नूनं हसन्ति हि ॥ ९२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९२७</summary>
+
+7\. உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும்  
+கள்ளொற்றிக் கண்சாய் பவர்.  
+The secret drunkards' senses off  
+Make the prying public laugh.        927  
+</details>
+
 <details><summary>मूलम् - ९२७</summary>
 
 उळ्ळॊट्रि उळ्ळूर् नगप्पडुवर् ऎञ्ञाण्ड्रुम्  
@@ -16965,6 +24389,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सुरां पीत्वापि ''नो पीतं मये ति कथनं त्यज ।  
 पानमात्रेण चित्तस्थसत्यं किल विनिस्सरेत् ॥ ९२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९२८</summary>
+
+8\. களித்தறியேன் என்பது கைவிடுக நெஞ்சத்து  
+ஒளித்ததூஉம் ஆங்கே மிகும்.  
+Don't say "I'm not a drunkard hard"  
+The hidden fraud is known abroad.        928  
 </details>
 
 <details><summary>मूलम् - ९२८</summary>
@@ -16985,6 +24417,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दीपसाह्यान्नीरमग्रवस्त्वन्वेषणवाद् वृथा ॥ ९२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९२९</summary>
+
+9\. களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்  
+குளித்தானைத் தீத்துரீஇ யற்று.  
+Can torch search one in water sunk?  
+Can reason reach the raving drunk?        929  
+</details>
+
 <details><summary>मूलम् - ९२९</summary>
 
 कळित्तानैक् कारणम् काट्टुदल् कीऴ्नीर्क्  
@@ -17001,6 +24441,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अपीतमदिरः कश्चिद् दृष्ट्वा पानमदान्वितम् ।  
 ''इयं दशा ममापि स्यात् पानेन'' ति किं स्मरेत् ॥ ९३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९३०</summary>
+
+10\. கள்ளுண்ணாப் போழ்தில் களித்தானைக் காணுங்கால்  
+உள்ளான்கொல் உண்டதன் சோர்வு.  
+The sober seeing the drunkard's plight  
+On selves can't they feel same effect?        930  
 </details>
 
 <details><summary>मूलम् - ९३०</summary>
@@ -17024,6 +24472,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मक्ष्याशया मीनभुक्तजलोद्गारसमं भवेत् ॥ ९३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९३१</summary>
+
+1\. வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம்  
+தூண்டிற்பொன் மீன்விழுங்கி யற்று.  
+Avoid gambling, albeit you win  
+Gulping bait-hook what does fish gain?        931  
+</details>
+
 <details><summary>मूलम् - ९३१</summary>
 
 वेण्डऱ्‌क वॆण्ड्रिडिनुम् सूदिनै वॆण्ड्रदूउम्  
@@ -17040,6 +24496,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्राप्यौकांशं शतांशानां त्यक्ता द्यूतोपसेवकः ।  
 धर्मकामप्राप्तिमार्गं न लभेत कदाचन ॥ ९३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९३२</summary>
+
+2\. ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்  
+நன்றெய்தி வாழ்வதோர் ஆறு.  
+Can gamblers in life good obtain  
+Who lose a hundred one to gain?        932  
 </details>
 
 <details><summary>मूलम् - ९३२</summary>
@@ -17060,6 +24524,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सञ्चितार्थस्तथा लाभो रिपूणां सविधं व्रजेत् ॥ ९३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९३३</summary>
+
+3\. உருளாயம் ஓவாது கூறின் பொருளாயம்  
+போஒய்ப் புறமே படும்.  
+If kings indulge in casting dice  
+All their fortune will flow to foes.        933  
+</details>
+
 <details><summary>मूलम् - ९३३</summary>
 
 उरुळायम् ओवादु कूऱिन् पॊरुळायम्  
@@ -17076,6 +24548,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वाश्रितानां बहुक्लेशप्रदानात् कीर्तिनाशनात् ।  
 दारिद्र्यदायकं द्यूतसदृशं नास्ति किञ्चन ॥ ९३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९३४</summary>
+
+4\. சிறுமை பலசெய்து சீரழிக்கும் சூதின்  
+வறுமை தருவதொன்று இல்.  
+Nothing will make you poor like game  
+Which adds to woes and ruins fame.        934  
 </details>
 
 <details><summary>मूलम् - ९३४</summary>
@@ -17096,6 +24576,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अक्षं द्यूतस्थलं द्यूतकृत्यं यः सेवते सदा ॥ ९३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९३५</summary>
+
+5\. கவறும் கழகமும் கையும் தருக்கி  
+இவறியார் இல்லாகி யார்.  
+The game, game-hall and gambler's art  
+Who sought with glee have come to nought.        935  
+</details>
+
 <details><summary>मूलम् - ९३५</summary>
 
 कवऱुम् कऴगमुम् कैयुम् तरुक्कि  
@@ -17112,6 +24600,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दारिद्र्यदेवता द्यूतनाम्नी यं तु समाश्रयेत् ।  
 इह सर्वसुखैर्मुक्तः स परे नरकं व्रजेत् ॥ ९३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९३६</summary>
+
+6\. அகடாரார் அல்லல் உழப்பர் சூதென்னும்  
+முகடியால் மூடப்பட்ட டார்.  
+Men swallowed by the ogress, dice  
+Suffer grief and want by that vice.        936  
 </details>
 
 <details><summary>मूलम् - ९३६</summary>
@@ -17132,6 +24628,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 द्यूतक्रीडाङ्गणे येन सर्वः कालोऽपि याप्यते ॥ ९३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९३७</summary>
+
+7\. பழகிய செல்வமும் பண்பும் கெடுக்கும்  
+கழகத்துக் காலை புகின்.  
+If men their time in game-den spend  
+Ancestral wealth and virtues end.        937  
+</details>
+
 <details><summary>मूलम् - ९३७</summary>
 
 पऴगिय सॆल्वमुम् पण्बुम् कॆडुक्कुम्  
@@ -17148,6 +24652,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असत्यभाषणं वित्तनाशः कारुण्यवर्जनम् ।  
 सर्वनिमाननर्थांश्च द्यूतकर्म प्रयच्छति ॥ ९३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९३८</summary>
+
+8\. பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்து  
+அல்லல் உழப்பிக்கும் சூது.  
+Game ruins wealth and spoils grace  
+Leads to lies and wretched woes.        938  
 </details>
 
 <details><summary>मूलम् - ९३८</summary>
@@ -17168,6 +24680,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तं विहाय विनिर्याति सेवते द्यूतकर्म यः ॥ ९३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९३९</summary>
+
+9\. உடைசெல்வம் ஊண்ஒளி கல்விஎன்று ஐந்தும்  
+அடையாவாம் ஆயம் கொளின்.  
+Dress, wealth, food, fame, learning-these five  
+In gambler's hand will never thrive.        939  
+</details>
+
 <details><summary>मूलम् - ९३९</summary>
 
 उडैसॆल्वम् ऊण्ऒळि कल्विऎण्ड्रु ऐन्दुम्  
@@ -17184,6 +24704,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असकृन्नष्टत्तोऽपि द्यूतं कुर्याद्यथेपस्या ।  
 रोगार्तोऽप्यसकृत्तद्वन्मर्त्यो वाञ्छति जीवितुम् ॥ ९४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९४०</summary>
+
+10\. இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம்  
+உழத்தொறூஉம் காதற்று உயிர்.  
+Love for game grows with every loss  
+As love for life with sorrows grows.        940  
 </details>
 
 <details><summary>मूलम् - ९४०</summary>
@@ -17207,6 +24735,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आयुर्वेददविदो व्याधिशब्देन ब्रुवते बुधाः ॥ ९४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९४१</summary>
+
+1\. மிகினும் குறையினும் நோய்செய்யும் நூலோர்  
+வளிமுதலா எண்ணிய மூன்று.  
+Wind, bile and phlegm three cause disease  
+So doctors deem it more or less.        941  
+</details>
+
 <details><summary>मूलम् - ९४१</summary>
 
 मिगिनुम् कुऱैयिनुम् नोय्सॆय्युम् नूलोर्  
@@ -17223,6 +24759,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भुक्तं जीर्णमभूद्वेति विमर्शनन्तरं पुनः ।  
 भुञ्जानस्य शरीरस्य वृथा भवति भेषजम् ॥ ९४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९४२</summary>
+
+2\. மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது  
+அற்றது போற்றி உணின்.  
+After digestion one who feeds  
+His body no medicine needs.        942  
 </details>
 
 <details><summary>मूलम् - ९४२</summary>
@@ -17243,6 +24787,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 चिरं चानेन देहेन कालं नयति मानवः ॥ ९४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९४३</summary>
+
+3\. அற்றால் அளவறிந்து உண்க அஃதுடம்பு  
+பெற்றான் நெடிதுஉய்க்கு மாறு.  
+Eat food to digestive measure  
+Life in body lasts with pleasure.        943  
+</details>
+
 <details><summary>मूलम् - ९४३</summary>
 
 अट्राल् अऱवऱिन्दु उण्ग अह्दुडम्बु  
@@ -17259,6 +24811,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भुक्तस्य जीर्णतां बुध्वा बुभुक्षानन्तरं नरः ।  
 आहारनियमोपेतो भुञ्जियाच्छास्त्रवर्त्मना ॥ ९४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९४४</summary>
+
+4\. அற்றது அறிந்து கடைப்பிடித்து மாறல்ல  
+துய்க்க துவரப் பசித்து.  
+Know digestion; with keen appetite  
+Eat what is suitable and right.        944  
 </details>
 
 <details><summary>मूलम् - ९४४</summary>
@@ -17279,6 +24839,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मर्त्यं प्राणहरो व्याधिः यावज्जीवं न बाधते ॥ ९४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९४५</summary>
+
+5\. மாறுபாடு இல்லாத உண்டி மறுத்துண்ணின்  
+ஊறுபாடு இல்லை உயிர்க்கு.  
+With fasting adjusted food right  
+Cures ills of life and makes you bright        945  
+</details>
+
 <details><summary>मूलम् - ९४५</summary>
 
 माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिन्  
@@ -17295,6 +24863,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मिताहारपरे सौख्यं शाश्वतं विद्यते यथा ।  
 नित्यरोगो भवेत्तस्मिन्नमिताहारसेवके ॥ ९४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९४६</summary>
+
+6\. இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்கும்  
+கழிபே ரிரையான்கண் நோய்.  
+Who eats with clean stomach gets health  
+With greedy glutton abides ill-health.        946  
 </details>
 
 <details><summary>मूलम् - ९४६</summary>
@@ -17315,6 +24891,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भूरि भुक्तवतो नानारोगाः प्रदुर्भवन्त्यहो ॥ ९४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९४७</summary>
+
+7\. தீயள வன்றித் தெரியான் பெரிதுண்ணின்  
+நோயள வின்றிப் படும்.  
+who glut beyond the hunger's fire  
+Suffer from untold diseases here.        947  
+</details>
+
 <details><summary>मूलम् - ९४७</summary>
 
 तीयळ वण्ड्रित् तॆरियान् पॆरिदुण्णिन्  
@@ -17331,6 +24915,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 रोगतत्वं परामृश्य ज्ञात्वा रोगस्य कारणम् ।  
 शमनोपायमालोच्य वैद्यः कुर्यान्निवारणम् ॥ ९४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९४८</summary>
+
+8\. நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்  
+வாய்நாடி வாய்ப்பச் செயல்.  
+Test disease, its cause and cure  
+And apply remedy that is sure.        948  
 </details>
 
 <details><summary>मूलम् - ९४८</summary>
@@ -17351,6 +24943,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आलोच्य वैद्यशास्त्रज्ञः चिकित्सां सम्यगाचरेत् ॥ ९४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९४९</summary>
+
+9\. உற்றான் அளவும் பிணியளவும் காலமும்  
+கற்றான் கருதிச் செயல்.  
+Let the skilful doctor note  
+The sickmen, sickness, season and treat.        949  
+</details>
+
 <details><summary>मूलम् - ९४९</summary>
 
 उट्रान् अळवुम् पिणियळवुम् कालमुम्  
@@ -17367,6 +24967,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 रुग्णो भिषग्भेषजं च समये भेषजप्रदः ।  
 एतच्चतुष्कसंयोगश्चिकित्सोति प्रकीर्त्यते ॥ ९५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९५०</summary>
+
+10\. உற்றவன் தீர்ப்பான் மருந்து - Medicine உழைச் செல்வானென்று  
+அப்பால்நாற் கூற்றே மருந்து.  
+Patient, doctor, medicine and nurse  
+Are four-fold codes of treating course.        950  
 </details>
 
 <details><summary>मूलम् - ९५०</summary>
@@ -17392,6 +25000,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लज्जामाध्यस्थ्यनामानौ स्यातां न सङ्गतौ ॥ ९५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९५१</summary>
+
+1\. இற்பிறந்தார் கண்அல்லது இல்லை இயல்பாகச்  
+செப்பமும் நாணும் ஒருங்கு.  
+Right-sense and bashfulness adorn  
+By nature only the noble-born.        951  
+</details>
+
 <details><summary>मूलम् - ९५१</summary>
 
 इऱ्‌पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्  
@@ -17408,6 +25024,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लज्जाचारित्र्यसत्याख्यगुणानां त्रितयं भुवि ।  
 तिष्ठेत् सत्कुलजातेषु विद्याविरहितेष्वपि ॥ ९५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९५२</summary>
+
+2\. ஒழுக்கமும் வாய்மையும் நாணும்இம் மூன்றும்  
+இழுக்கார் குடிப்பிறந் தார்.  
+The noble-born lack not these three:  
+Good conduct, truth and modesty.        952  
 </details>
 
 <details><summary>मूलम् - ९५२</summary>
@@ -17428,6 +25052,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतीमे सुगुणाः शुद्धकुलीने सहजा मताः ॥ ९५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९५३</summary>
+
+3\. நகைஈகை இன்சொல் இகழாமை நான்கும்  
+வகைஎன்ப வாய்மைக் குடிக்கு.  
+Smile, gift, sweet words and courtesy  
+These four mark true nobility.        953  
+</details>
+
 <details><summary>मूलम् - ९५३</summary>
 
 नगैईगै इन्सॊल् इगऴामै नान्गुम्  
@@ -17444,6 +25076,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनेककोटिसङ्ख्याकधनलाभकृतेऽपि ते ।  
 न कुर्युः सत्कुलोत्पन्ना दोषं कुलविद्यातकम् ॥ ९५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९५४</summary>
+
+4\. அடுக்கிய கோடி பெறினும் குடிப்பிறந்தார்  
+குன்றுவ செய்தல் இலர்.  
+Even for crores, the noble mood  
+Cannot bend to degrading deed.        954  
 </details>
 
 <details><summary>मूलम् - ९५४</summary>
@@ -17464,6 +25104,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परोपकारकरणान्न कदाचिन्निवर्तते ॥ ९५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९५५</summary>
+
+5\. வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி  
+பண்பில் தலைப்பிரிதல் இன்று.  
+The means of gift may dwindle; yet  
+Ancient homes guard their noble trait.        955  
+</details>
+
 <details><summary>मूलम् - ९५५</summary>
 
 वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि  
@@ -17480,6 +25128,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''निर्दुष्टकुलचारित्र्यसहिताः स्याम सर्वदा'' ।  
 इत्यं दृढप्रतिज्ञास्तु निन्दितं न वितन्वते ॥ ९५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९५६</summary>
+
+6\. சலம்பற்றிச் சால்பில செய்யார்மா சற்ற  
+குலம்பற்றி வாழ்தும்என் பார்.  
+Who guard their family prestige pure  
+Stoop not to acts of cunning lure.        956  
 </details>
 
 <details><summary>मूलम् - ९५६</summary>
@@ -17500,6 +25156,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 व्योमचन्द्रकलङ्केन समं दृश्येत् सुस्फुटम् ॥ ९५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९५७</summary>
+
+7\. குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்  
+மதிக்கண் மறுப்போல் உயர்ந்து.  
+The faults of nobly-born are seen  
+Like on the sky the spots of moon.        957  
+</details>
+
 <details><summary>मूलम् - ९५७</summary>
 
 कुडिप्पिऱन्दार् कण्विळङ्गुम् कुट्रम् विसुम्बिन्  
@@ -17516,6 +25180,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कुलोचितगुणाढ्योऽपि यो वा प्रीतिविवर्जितः ।  
 तथाविधे कुलीनत्वसन्देहो जायते नृणाम् ॥ ९५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९५८</summary>
+
+8\. நலத்தின்கண் நாரின்மை தோன்றின் அவனைக்  
+குலத்தின்கண் ஐயப் படும்.  
+If manners of the good are rude  
+People deem their pedigree crude.        958  
 </details>
 
 <details><summary>मूलम् - ९५८</summary>
@@ -17536,6 +25208,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा वाक्यप्रयोगेण कुलं ज्ञायेत कस्यचित् ॥ ९५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९५९</summary>
+
+9\. நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும்  
+குலத்தில் பிறந்தார்வாய்ச் சொல்.  
+Soil's nature is seen in sprout  
+The worth of birth from words flow out.        959  
+</details>
+
 <details><summary>मूलम् - ९५९</summary>
 
 निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्  
@@ -17552,6 +25232,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 श्रेयोऽभिलाषिणां लज्जावत्वं नूनमपेक्ष्यते ।  
 विनीतेन सदा भाव्यं कुलगौरवकाङ्क्षिणा ॥ ९६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६०</summary>
+
+10\. நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்  
+வேண்டுக யார்க்கும் பணிவு.  
+All gain good name by modesty  
+Nobility by humility.        960  
 </details>
 
 <details><summary>मूलम् - ९६०</summary>
@@ -17575,6 +25263,16 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुलगौरवनाशाय यदि तत् स्याद्विसृज्यताम् ॥ ९६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९६१</summary>
+
+97\. மானம் - Honour
+
+1\. இன்றி யமையாச் சிறப்பின ஆயினும்  
+குன்ற வருப விடல்.  
+Though needed for your life in main,  
+From mean degrading acts refrain.        961  
+</details>
+
 <details><summary>मूलम् - ९६१</summary>
 
 इण्ड्रि अमैयाच् चिऱप्पिन आयिनुम्  
@@ -17591,6 +25289,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पौरुषं यशसा साकं लब्धुमाशासमन्वितः ।  
 यशःकृते कुलश्रैष्ठ्यघातकं कर्म नाचरेत् ॥ ९६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६२</summary>
+
+2\. சீரினும் சீரல்ல செய்யாரே சீரொடு  
+பேராண்மை வேண்டு பவர்.  
+Who seek honour and manly fame  
+Don't do mean deeds even for name.        962  
 </details>
 
 <details><summary>मूलम् - ९६२</summary>
@@ -17611,6 +25317,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सम्पनाशे पौरुषं तु वरं स्याद्विनयादपि ॥ ९६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९६३</summary>
+
+3\. பெருக்கத்து வேண்டும் பணிதல் சிறிய  
+சுருக்கத்து வேண்டும் உயர்வு.  
+Be humble in prosperity  
+In decline uphold dignity.        963  
+</details>
+
 <details><summary>मूलम् - ९६३</summary>
 
 पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
@@ -17627,6 +25341,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सम्भूता अपि सद्वेशं लोके श्रेष्ठपदच्युताः ।  
 उत्तमाङ्गपरिभ्रष्टकेशतुल्या भवन्ति ते ॥ ९६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६४</summary>
+
+4\. தலையின் இழிந்த மயிரனையர் மாந்தர்  
+நிலையின் இழிந்தக் கடை.  
+Like hair fallen from head are those  
+Who fall down from their high status.        964  
 </details>
 
 <details><summary>मूलम् - ९६४</summary>
@@ -17647,6 +25369,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पतनोन्मुखकार्यं च कुर्वन्तस्ते पतन्त्य्धः ॥ ९६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९६५</summary>
+
+5\. குன்றின் அனையாரும் குன்றுவர் குன்றுவ  
+குன்றி அனைய செயின்.  
+Even hill-like men will sink to nought  
+With abrus-grain-like small default.        965  
+</details>
+
 <details><summary>मूलम् - ९६५</summary>
 
 कुण्ड्रिन् अनैयारुम् कुण्ड्रुवर् कुण्ड्रुव  
@@ -17663,6 +25393,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तिरस्कर्तुः पुरोभागे स्थितिः पौरुषमन्तरा ।  
 नेह कीर्तिं परे स्वर्गं न यच्छेत् किं प्रयोजनम् ॥ ९६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६६</summary>
+
+6\. புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்று  
+இகழ்வார்பின் சென்று நிலை.  
+Why fawn on men that scorn you here  
+It yields no fame, heaven's bliss neither.        966  
 </details>
 
 <details><summary>मूलम् - ९६६</summary>
@@ -17683,6 +25421,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ''तदकृत्वा मृतिं प्रापद्''इति कीर्तिर्विशिष्यते ॥ ९६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९६७</summary>
+
+7\. ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே  
+கெட்டான் எனப்படுதல் நன்று.  
+Better it is to die forlorn  
+Than live as slaves of those who scorn.        967  
+</details>
+
 <details><summary>मूलम् - ९६७</summary>
 
 ऒट् टार्बिन् सॆण्ड्रॊरुवन् वाऴ्दलिन् अन्निलैये  
@@ -17699,6 +25445,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कुलीनत्वं पौरुषं च यदा नाशोन्मुखं भवेत् ।  
 जीवनं देहरक्षार्थं तदा किं स्वर्गदायकम् ॥ ९६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६८</summary>
+
+8\. மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமை  
+பீடழிய வந்த இடத்து.  
+Is nursing body nectar sweet  
+Even when one's honour is lost?        968  
 </details>
 
 <details><summary>मूलम् - ९६८</summary>
@@ -17719,6 +25473,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 माननाशो प्रसक्ते तु न जीवन्ति कुलोद्भवाः ॥ ९६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९६९</summary>
+
+9\. மயிர்நீப்பின் வாழாக் கவரிமா அன்னார்  
+உயிர்நீப்பர் மானம் வரின்.  
+Honour lost, the noble expire  
+Like a yak that loses its hair.        969  
+</details>
+
 <details><summary>मूलम् - ९६९</summary>
 
 मयिर्नीप्पिन् वाऴाक् कवरिमा अन्नार्  
@@ -17735,6 +25497,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मानहान्या विनष्टानां मानिनां महितं यशः ।  
 यशस्य बहुधा लोको मानयेत् पृथिवीतले ॥ ९७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९७०</summary>
+
+10\. இளிவரின் வாழாத மானம் உடையார்  
+ஒளிதொழுது ஏத்தும் உலகு.  
+Their light the world adores and hails  
+Who will not live when honour fails.        970  
 </details>
 
 <details><summary>मूलम् - ९७०</summary>
@@ -17758,6 +25528,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विनोत्साहं जीवनेच्छा महत्वाभाव उच्यते ॥ ९७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९७१</summary>
+
+1\. ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்கு  
+அஃதிறந்து வாழ்தும் எனல்.  
+A heart of courage lives in light  
+Devoid of that one's life is night.        971  
+</details>
+
 <details><summary>मूलम् - ९७१</summary>
 
 ऒळिऒरुवऱ्‌कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्‌कु  
@@ -17774,6 +25552,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तुल्याः स्युर्जन्मना सर्वे किन्तु कर्मविभेदतः ।  
 महत्त्वतदाभावौ तु भिन्नौ जीवेषु तिष्ठतः ॥ ९७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९७२</summary>
+
+2\. பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா  
+செய்தொழில் வேற்றுமை யான்.  
+All beings are the same in birth  
+But work decides their varied worth.        972  
 </details>
 
 <details><summary>मूलम् - ९७२</summary>
@@ -17794,6 +25580,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विना स्थानां श्रेष्ठकृत्यात् सामान्योऽपि महान् भवेत् ॥ ९७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९७३</summary>
+
+3\. மேலிருந்தும் மேலல்லார் மேலல்லர் கீழிருந்தும்  
+கீழல்லார் கீழல் லவர்.  
+Ignoble high not high they are  
+The noble low not low they fare.        973  
+</details>
+
 <details><summary>मूलम् - ९७३</summary>
 
 मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्  
@@ -17810,6 +25604,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यस्त्वात्मानं सद्गुणाद्यैः रक्षन् जीवति मानवः ।  
 महिमानं स विन्देत दृढचित्ता सती यथा ॥ ९७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९७४</summary>
+
+4\. ஒருமை மகளிரே போலப் பெருமையும்  
+தன்னைத்தான் கொண்டொழுகின் உண்டு.  
+Greatness like woman's chastity  
+Is guarded by self-varacity.        974  
 </details>
 
 <details><summary>मूलम् - ९७४</summary>
@@ -17830,6 +25632,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विहितेन पथा कर्तुं भवेयुः शक्तिशालिनः ॥ ९७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९७५</summary>
+
+5\. பெருமை உடையவர் ஆற்றுவார் ஆற்றின்  
+அருமை உடைய செயல்.  
+Great souls when their will is active  
+Do mighty deeds rare to achieve.        975  
+</details>
+
 <details><summary>मूलम् - ९७५</summary>
 
 पॆरुमै युडैयवर् आट्रुवार् आट्रिन्  
@@ -17846,6 +25656,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''महात्मनः पुरस्कृत्य यामस्तद्गतवर्त्मना'' ।  
 इति न स्यान्मतिर्नीचेष्वात्मश्लाघापरेषु च ॥ ९७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९७६</summary>
+
+6\. சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்  
+பேணிக்கொள் வேம்என்னும் நோக்கு.  
+The petty-natured ones have not  
+The mind to seek and befriend the great.        976  
 </details>
 
 <details><summary>मूलम् - ९७६</summary>
@@ -17866,6 +25684,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अस्थानपुरुषं प्राप्य तं कुर्याद् गर्वपूरितम् ॥ ९७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९७७</summary>
+
+7\. இறப்பே புரிந்த தொழிற்றாம் சிறப்புந்தான்  
+சீரல் லவர்கட் படின்.  
+The base with power and opulence  
+Wax with deeds of insolence.        977  
+</details>
+
 <details><summary>मूलम् - ९७७</summary>
 
 इऱप्पे पुरिन्द तॊऴिट्राम् सिऱप्पुन्दान्  
@@ -17882,6 +25708,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महत्वगुणशीलास्तु भवन्ति विनयान्विताः ।  
 तद्विहीना निजस्तोत्रकरणैकपरायणाः ॥ ९७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९७८</summary>
+
+8\. பணியுமாம் என்றும் பெருமை சிறுமை  
+அணியுமாம் தன்னை வியந்து.  
+Greatness bends with modesty  
+Meanness vaunts with vanity        978  
 </details>
 
 <details><summary>मूलम् - ९७८</summary>
@@ -17902,6 +25736,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निष्कारणमहङ्कारवत्ता नीचत्वलक्षणम् ॥ ९७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९७९</summary>
+
+9\. பெருமை பெருமிதம் இன்மை சிறுமை  
+பெருமிதம் ஊர்ந்து விடல்.  
+Greatness is free from insolence  
+Littleness swells with that offence.        979  
+</details>
+
 <details><summary>मूलम् - ९७९</summary>
 
 पॆरुमै पॆरुमिदम् इन्मै सिऱुमै  
@@ -17918,6 +25760,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महान्तः परदोषाणां दर्शने विमुखाः किल ।  
 अधमाः परदोषैकदर्शने नितरां प्रियाः ॥ ९८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९८०</summary>
+
+10\. அற்றம் மறைக்கும் பெருமை சிறுமைதான்  
+குற்றமே கூறி விடும்.  
+Weakness of others greatness screens  
+Smallness defects alone proclaims.        980  
 </details>
 
 <details><summary>मूलम् - ९८०</summary>
@@ -17941,6 +25791,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सहजास्तद्गुणास्तेषां भवेयुरिति शास्त्रिणः ॥ ९८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९८१</summary>
+
+1\. கடன்என்ப நல்லவை எல்லாம் கடன்அறிந்து  
+சான்றாண்மை மேற்கொள் பவர்க்கு.  
+All goodness is duty to them  
+Who are dutiful and sublime.        981  
+</details>
+
 <details><summary>मूलम् - ९८१</summary>
 
 कडन्ऎन्ब नल्लवै ऎल्लाम् कडन्अऱिन्दु  
@@ -17957,6 +25815,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आन्तरं गुणसौन्दर्यं स्यात्सौन्दर्यं महात्मनाम् ।  
 बाह्यं शरीरसौन्दर्यं न सौन्दर्यपदेरितम् ॥ ९८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९८२</summary>
+
+2\. குணநலம் சான்றோர் நலனே பிறநலம்  
+எந்நலத்து உள்ளதூஉம் அன்று.  
+Good in the great is character  
+Than that there is nothing better.        982  
 </details>
 
 <details><summary>मूलम् - ९८२</summary>
@@ -17977,6 +25843,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गुणाः पञ्च स्तम्भरूपाः श्रेष्ठ्यभारसमावहाः ॥ ९८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९८३</summary>
+
+3\. அன்புநாண் ஓப்புரவு கண்ணோட்டம் வாய்மையொடு  
+ஐந்துசால்பு ஊன்றிய தூண்.  
+Love, truth, regard, modesty, grace  
+These five are virtue's resting place.        983  
+</details>
+
 <details><summary>मूलम् - ९८३</summary>
 
 अन्बुनाण् ऒप्पुरवु कण्णोट्टम् वाय्मैयॊडु  
@@ -17993,6 +25867,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अहिंसाधर्ममाश्रित्य तपस्तिष्ठति मुख्यतः ।  
 परापकारवैमुख्यगुणः श्रेष्ठ्यमुपाश्रयेत् ॥ ९८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९८४</summary>
+
+4\. கொல்லா நலத்தது நோன்மை பிறர்தீமை  
+சொல்லா நலத்தது சால்பு.  
+Not to kill is penance pure  
+Not to slander virtue sure.        984  
 </details>
 
 <details><summary>मूलम् - ९८४</summary>
@@ -18013,6 +25895,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शत्रून् स्ववशमानेतुं विनयः कारणं भवेत् ॥ ९८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९८५</summary>
+
+5\. ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்  
+மாற்றாரை மாற்றும் படை.  
+Humility is valour's strength  
+A force that averts foes at length.        985  
+</details>
+
 <details><summary>मूलम् - ९८५</summary>
 
 आट्रुवार् आट्रल् पणिदल् अदुसाण्ड्रोर्  
@@ -18029,6 +25919,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असामानेषु नीचेषु वर्तनं विनयेन यत् ।  
 तन्महत्त्वं परिज्ञातुं निकषोपालतां व्रजेत् ॥ ९८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९८६</summary>
+
+6\. சால்பிற்குக் கட்டளை யாதெனில் தோல்வி  
+துலையல்லார் கண்ணும் கொளல்.  
+To bear repulse e'en from the mean  
+Is the touch-stone of worthy men.        986  
 </details>
 
 <details><summary>मूलम् - ९८६</summary>
@@ -18049,6 +25947,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 महत्वगुणवत्तपि तदा व्यर्था भवेत् सताम् ॥ ९८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९८७</summary>
+
+7\. இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால்  
+என்ன பயத்ததோ சால்பு.  
+Of perfection what is the gain  
+If it returns not joy for pain?        987  
+</details>
+
 <details><summary>मूलम् - ९८७</summary>
 
 इन्नासॆय् तार्क्कुम् इनियवे सॆय्याक्काल्  
@@ -18065,6 +25971,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मगत्वरूपसत्त्वेन सहितानां महात्मनाम् ।  
 लब्धं दारिद्र्यमप्येषां नापकर्षाय जायते ॥ ९८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९८८</summary>
+
+8\. இன்மை ஒருவற்கு இளிவன்று சால்புஎன்னும்  
+திண்மைஉண் டாகப் பெறின்.  
+No shame there is in poverty  
+To one strong in good quality.        988  
 </details>
 
 <details><summary>मूलम् - ९८८</summary>
@@ -18085,6 +25999,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राप्ते प्रलयकालेऽपि शौथिल्यं न हि विन्दते ॥ ९८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९८९</summary>
+
+9\. ஊழி பெயரினும் தாம்பெயரார் சான்றாண்மைக்கு  
+ஆழி எனப்படு வார்.  
+Aeons may change but not the seer  
+Who is a sea of virtue pure.        989  
+</details>
+
 <details><summary>मूलम् - ९८९</summary>
 
 ऊऴि पॆयरिनुम् ताम्बॆयरार् साण्ड्राण्मैक्कु  
@@ -18101,6 +26023,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महात्मनां महत्वाख्यगुणो यदि लयं व्रजेत् ।  
 सुविशाला मेदिनीयं भारं बोढं न शक्नुयात् ॥ ९९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९९०</summary>
+
+10\. சான்றவர் சான்றாண்மை குன்றின் இருநிலம்தான்  
+தாங்காது மன்னோ பொறை.  
+The world will not more bear its weight  
+If from high virtue fall the great.        990  
 </details>
 
 <details><summary>मूलम् - ९९०</summary>
@@ -18124,6 +26054,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विशिष्टगुणसंप्राप्तिः सुलभेति सतां मतम् ॥ ९९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९९१</summary>
+
+1\. எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்  
+பண்புடைமை என்னும் வழக்கு.  
+To the polite free of access  
+Easily comes courteousness.        991  
+</details>
+
 <details><summary>मूलम् - ९९१</summary>
 
 ऎण्बदत्ताल् ऎय्दल् ऎळिदॆन्ब यार्माट्टुम्  
@@ -18140,6 +26078,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रेम्णा प्रवर्तनं शुद्धविख्यातकुलजन्म च ।  
 द्वयमेतन्महत्वाख्यगुणं यच्छति कस्यचित् ॥ ९९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९९२</summary>
+
+2\. அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்  
+பண்புடைமை என்னும் வழக்கு.  
+Humanity and noble birth  
+Develop courtesy and moral worth.        992  
 </details>
 
 <details><summary>मूलम् - ९९२</summary>
@@ -18160,6 +26106,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गुणेन साम्यमेभिस्तु भवेच्छन्दानुवर्तनम् ॥ ९९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९९३</summary>
+
+3\. உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்க  
+பண்பொத்தல் ஒப்பதாம் ஒப்பு.  
+Likeness in limbs is not likeness  
+It's likeness in kind courteousness.        993  
+</details>
+
 <details><summary>मूलम् - ९९३</summary>
 
 उऱुप्पॊत्तल् मक्कळॊप्पु अण्ड्राल् वॆऱुत्तक्क  
@@ -18176,6 +26130,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नीतिधर्मसमेतानां परोपकृतिशालिनाम् ।  
 महात्मनां गुणं लोकाः प्रशंसन्ति मदान्विताः ॥ ९९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९९४</summary>
+
+4\. நயனொடு நன்றி புரிந்த பயனுடையார்  
+பண்புபா ராட்டும் உலகு.  
+The world applauds those helpful men  
+Whose actions are just and benign.        994  
 </details>
 
 <details><summary>मूलम् - ९९४</summary>
@@ -18196,6 +26158,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परानुसरणादज्ञा भवन्ति सुगुणान्विताः ॥ ९९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९९५</summary>
+
+5\. நகையுள்ளும் இன்னாது இகழ்ச்சி பகையுள்ளும்  
+பண்புஉள பாடறிவார் மாட்டு.  
+The courteous don't even foes detest  
+For contempt offends even in jest.        995  
+</details>
+
 <details><summary>मूलम् - ९९५</summary>
 
 नगैयुळ्ळुम् इन्ना तिगऴ्च्चि पगैयुळ्ळुम्  
@@ -18212,6 +26182,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विशिष्टगुणिनां सत्त्वाल्लोकोद्यापि प्रवर्तते ।  
 तदभावे प्रपञ्चोऽयं भुवि मग्नो भवेत् किल ॥ ९९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९९६</summary>
+
+6\. பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்  
+மண்புக்கு மாய்வது மன்.  
+The world rests with the mannered best  
+Or it crumbles and falls to dust.        996  
 </details>
 
 <details><summary>मूलम् - ९९६</summary>
@@ -18232,6 +26210,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लब्ध्वापि पादपसमा मन्यन्ते मानवैः समैः ॥ ९९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९९७</summary>
+
+7\. அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்  
+மக்கட்பண்பு இல்லா தவர்.  
+The mannerless though sharp like file  
+Are like wooden blocks indocile.        997  
+</details>
+
 <details><summary>मूलम् - ९९७</summary>
 
 अरम्बोलुम् कूर्मैय रेनुम् मरम्बोल्वर्  
@@ -18248,6 +26234,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विना मैत्रीं विरोधं च कुर्वतां विषयेऽपि यः ।  
 गुणवान्न प्रवर्तेत् दोषयुक्तः स गण्यते ॥ ९९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९९८</summary>
+
+8\. நண்பாற்றா ராகி நயமில செய்வார்க்கும்  
+பண்பாற்றா ராதல் கடை.  
+Discourtesy is mean indeed  
+E'en to a base unfriendly breed.        998  
 </details>
 
 <details><summary>मूलम् - ९९८</summary>
@@ -18268,6 +26262,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दिवसोऽपि प्रभायुक्तो दृश्येत् तमसावृतः ॥ ९९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ९९९</summary>
+
+9\. நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம்  
+பகலும்பாற் பட்டன்று இருள்.  
+To those bereft of smiling light  
+Even in day the earth is night.        999  
+</details>
+
 <details><summary>मूलम् - ९९९</summary>
 
 नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्  
@@ -18284,6 +26286,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निर्गुणेनार्जितं वित्तं नोपयोगकरं भवेत् ।  
 यथा स्यात् पात्रदोषेण पयो माधुर्यवर्जितः ॥ १०००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०००</summary>
+
+10\. பண்பிலான் பெற்ற பெருஞ் செல்வம் நன்பால்  
+கலந்தீமை யால்திரிந்த தற்று.  
+The wealth heaped by the churlish base  
+Is pure milk soured by impure vase.        1000  
 </details>
 
 <details><summary>मूलम् - १०००</summary>
@@ -18307,6 +26317,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मृतिं प्राप्तवतस्तस्य किं वित्तेन प्रयोजनम् ॥ १००१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १००१</summary>
+
+1\. வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்  
+செத்தான் செயக்கிடந்தது இல்.  
+Dead is he with wealth in pile  
+Unenjoyed, it is futile.        1001  
+</details>
+
 <details><summary>मूलम् - १००१</summary>
 
 वैत्तान्वाय् साण्ड्र पॆरुम्बॊरुळ् अह्दुण्णान्  
@@ -18323,6 +26341,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''वित्तेन साध्यते सर्वम्''इति बुद्धया ह्युपार्जितम् ।  
 यो न दद्याद् ज्ञानशून्यः स नीचं जन्म विन्दते ॥ १००२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १००२</summary>
+
+2\. பொருளானாம் எல்லாமென்று ஈயாது இவறும்  
+மருளானாம் மாணாப் பிறப்பு.  
+The niggard miser thinks wealth is all  
+He hoards, gives not is born devil.        1002  
 </details>
 
 <details><summary>मूलम् - १००२</summary>
@@ -18343,6 +26369,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नार्जयन्ति परां कीर्तिं भारायन्ते भुवस्तु ते ॥ १००३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १००३</summary>
+
+3\. ஈட்டம் இவறி இசைவேண்டா ஆடவர்  
+தோற்றம் நிலக்குப் பொறை.  
+A burden he is to earth indeed  
+Who hoards without a worthy deed.        1003  
+</details>
+
 <details><summary>मूलम् - १००३</summary>
 
 ईट्टम् इवऱि इसैवेण्डा आडवर्  
@@ -18359,6 +26393,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वैरस्पृहणीयस्य दानकृत्यमजानतः ।  
 किं वावशिष्यते तस्य मरणानन्तरं भुवि ॥ १००४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १००४</summary>
+
+4\. எச்சமென்று என்எண்ணுங் கொல்லோ ஒருவரால்  
+நச்சப் படாஅ தவன்.  
+What legacy can he leave behind  
+Who is for approach too unkind.        1004  
 </details>
 
 <details><summary>मूलम् - १००४</summary>
@@ -18379,6 +26421,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यदि न स्यात् कोटिसङ्ख्यधनपुञ्जेन किं फलम् ॥ १००५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १००५</summary>
+
+5\. கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க்கு அடுக்கிய  
+கோடிஉண் டாயினும் இல்.  
+What is the good of crores they hoard  
+To give and enjoy whose heart is hard.        1005  
+</details>
+
 <details><summary>मूलम् - १००५</summary>
 
 कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय  
@@ -18395,6 +26445,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सत्पात्रदानरूपेण गुणेन रहितो नरः ।  
 स्वयं भोक्तुमनिच्छंश्च रोगः स्यात् स्वीयसम्पदाम् ॥ १००६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १००६</summary>
+
+6\. ஏதம் பெருஞ்செல்வம் தான்றுவ்வான் தக்கார்க்கொன்று  
+ஈதல் இயல்பிலா தான்.  
+Great wealth unused for oneself nor  
+To worthy men is but a slur.        1006  
 </details>
 
 <details><summary>मूलम् - १००६</summary>
@@ -18415,6 +26473,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अनूढसुन्दरीप्राप्तवार्धकेन समं भवेत् ॥ १००७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १००७</summary>
+
+7\. அற்றார்க்கொன்று ஆற்றாதான் செல்வம் மிகநலம்  
+பெற்றாள் தமியள்மூத் தற்று.  
+Who loaths to help have-nots, his gold  
+Is like a spinster-belle grown old.        1007  
+</details>
+
 <details><summary>मूलम् - १००७</summary>
 
 अट्रार्क्कॊण्ड्रु आट्रादान् सॆल्वम् मिगनलम्  
@@ -18431,6 +26497,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ???? ।  
 ग्राममध्ये फलैः पूर्णो यथैव विषपादपः ॥ १००८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १००८</summary>
+
+8\. நச்சப் படாதவன் செல்வம் நடுவூருள்  
+நச்சு மரம்பழுத் தற்று.  
+The idle wealth of unsought men  
+Is poison-fruit-tree amidst a town.        1008  
 </details>
 
 <details><summary>मूलम् - १००८</summary>
@@ -18451,6 +26525,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रक्षितं केनचिद्वित्तं लब्ध्वान्यः सुखमाप्नुयात् ॥ १००९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १००९</summary>
+
+9\. அன்பொரீஇத் தற்செற்று அறநோக்காது ஈட்டிய  
+ஒண்பொருள் கொள்வார் பிறர்.  
+Others usurp the shining gold  
+In loveless, stingy, vicious hold.        1009  
+</details>
+
 <details><summary>मूलम् - १००९</summary>
 
 अन्बॊरीइत् तऱ्‌चॆट्रु अऱनोक्कादु ईट्टिय  
@@ -18467,6 +26549,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वृष्टमेघः पुनर्नीरलाभाद् वृद्धिं यथाश्नुते ।  
 समृद्धनां च दारिद्र्य तथा तात्कालिकं भवेत् ॥ १०१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०१०</summary>
+
+10\. சீருடைச் செல்வர் சிறுதுனி மாரி  
+வறங்கூர்ந் தனையது உடைத்து.  
+The brief want of the rich benign  
+Is like rainclouds growing thin.        1010  
 </details>
 
 <details><summary>मूलम् - १०१०</summary>
@@ -18490,6 +26580,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नारीणां सहजा लज्जा ततो भिन्नैव दृश्यते ॥ १०११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०११</summary>
+
+1\. கருமத்தால் நாணுதல் நாணுத்; திருநுதல்  
+நல்லவர் நாணுப் பிற.  
+To shrink from evil deed is shame  
+The rest is blush of fair-faced dame.        1011  
+</details>
+
 <details><summary>मूलम् - १०११</summary>
 
 करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्  
@@ -18506,6 +26604,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अन्नं वस्त्रं तथान्यानि समानि स्युर्नृणां भुवि ।  
 सतां लज्जाविशिष्टत्वं विशेषगुण उच्यते ॥ १०१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०१२</summary>
+
+2\. ஊணுடை எச்சம் உயிர்க்கெல்லாம் வேறல்ல  
+நாணுடைமை மாந்தர் சிறப்பு.  
+Food, dress and such are one for all  
+Modesty marks the higher soul.        1012  
 </details>
 
 <details><summary>मूलम् - १०१२</summary>
@@ -18526,6 +26632,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 लज्जामाश्रित्य वर्तेत् महत्वाख्यगुणस्तथा ॥ १०१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०१३</summary>
+
+3\. ஊனைக் குறித்த உயிரெல்லாம் நாண்என்னும்  
+நன்மை குறித்தது சால்பு.  
+All lives have their lodge in flesh  
+Perfection has its home in blush.        1013  
+</details>
+
 <details><summary>मूलम् - १०१३</summary>
 
 ऊनैक् कुऱित्त उयिरॆल्लाम् नाण्ऎन्नुम्  
@@ -18542,6 +26656,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लज्जैवाभरणं लोके गुणज्ञानां महात्मनाम् ।  
 गभीरगमनं तेषां लज्जाभावे न शोभते ॥ १०१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०१४</summary>
+
+4\. அணிஅன்றோ நாணுடைமை சான்றோர்க்கு அஃதின்றேல்  
+பிணிஅன்றோ பீடு நடை.  
+Shame is the jewel of dignity  
+Shameless swagger is vanity.        1014  
 </details>
 
 <details><summary>मूलम् - १०१४</summary>
@@ -18562,6 +26684,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मत्वा यो लज्जते लज्जास्थानं तं मन्यते जनः ॥ १०१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०१५</summary>
+
+5\. பிறர்பழியும் தம்பழியும் நாணுவார் நாணுக்கு  
+உறைபதி என்னும் உலகு.  
+In them resides the sense of shame  
+Who blush for their and other's blame.        1015  
+</details>
+
 <details><summary>मूलम् - १०१५</summary>
 
 पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु  
@@ -18578,6 +26708,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निजात्मरक्षणोपायलज्जामप्राप्य सज्जनाः ।  
 विपुलां पृथिवीं चापि लब्धुं नेच्छन्ति सर्वदा ॥ १०१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०१६</summary>
+
+6\. நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்  
+பேணலர் மேலா யவர்.  
+The great refuse the wonder-world  
+Without modesty's hedge and shield.        1016  
 </details>
 
 <details><summary>मूलम् - १०१६</summary>
@@ -18598,6 +26736,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राणरक्षाकृते लज्जां न मुञ्चन्ति कदापि ते ॥ १०१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०१७</summary>
+
+7\. நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்  
+நாண்துறவார் நாண்ஆள் பவர்.  
+For shame their life the shame-sensed give  
+Loss of shame they won't outlive.        1017  
+</details>
+
 <details><summary>मूलम् - १०१७</summary>
 
 नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्  
@@ -18614,6 +26760,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदीयकृत्यं दृष्टान्ये भवेयुर्व्रीडयान्विताः ।  
 स्वयं न लज्जितो भूयात् तं धर्मो व्रीडया त्यजेत् ॥ १०१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०१८</summary>
+
+8\. பிறர்நாணத் தக்கது தான்நாணா னாயின்  
+அறம்நாணத் தக்கது உடைத்து.  
+Virtue is much ashamed of him  
+Who shameless does what others shame.        1018  
 </details>
 
 <details><summary>मूलम् - १०१८</summary>
@@ -18634,6 +26788,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कस्यचित् सकलं श्रेयो लज्जाभावो व्यपोहति ॥ १०१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०१९</summary>
+
+9\. குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும்  
+நாணின்மை நின்றக் கடை.  
+Lapse in manners injures the race  
+Want of shame harms every good grace.        1019  
+</details>
+
 <details><summary>मूलम् - १०१९</summary>
 
 कुलञ्जुडुम् कॊळ्गै पिऴैप्पिन् नलञ्जुडुम्  
@@ -18650,6 +26812,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लज्जाहीनमनस्कानां प्राणेन सह जीवनम् ।  
 सूत्रबद्धचलद्दारुप्रतिमातौल्यमावहेत् ॥ १०२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२०</summary>
+
+10\. நாண்அகத் தில்லார் இயக்கம் மரப்பாவை  
+நாணால் உயிர்மருட்டி யற்று.  
+Movements of the shameless in heart  
+Are string-led puppet show in fact.        1020  
 </details>
 
 <details><summary>मूलम् - १०२०</summary>
@@ -18673,6 +26843,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इत्येवं कथनादन्यन्महत्त्वं नास्ति कस्यचित् ॥ १०२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०२१</summary>
+
+1\. கருமம் செயஒருவன் கைதூவேன் என்னும்  
+பெருமையின் பீடுடையது இல்.  
+No greatness is grander like  
+Saying "I shall work without slack".        1021  
+</details>
+
 <details><summary>मूलम् - १०२१</summary>
 
 करुमम् सॆयऒरुवन् कैदूवेन् ऎन्नुम्  
@@ -18689,6 +26867,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पूर्णज्ञानप्रयत्नाभ्यां युक्तेनाकुण्ठितेन च ।  
 कर्मणा कस्यचिद्वंशगौरवं बहु वर्धते ॥ १०२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२२</summary>
+
+2\. ஆள்வினையும் ஆன்ற அறிவும் எனஇரண்டின்  
+நீள்வினையால் நீளும் குடி.  
+These two exalt a noble home  
+Ardent effort and ripe wisdom.        1022  
 </details>
 
 <details><summary>मूलम् - १०२२</summary>
@@ -18709,6 +26895,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बद्ध्वा वस्त्रं दृढं कटतां साह्यं कुर्याद्विधिः स्वयम् ॥ १०२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०२३</summary>
+
+3\. குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்  
+மடிதற்றுத் தான்முந் துறும்.  
+When one resolves to raise his race  
+Loin girt up God leads his ways.        1023  
+</details>
+
 <details><summary>मूलम् - १०२३</summary>
 
 कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्‌कुत् तॆय्वम्  
@@ -18725,6 +26919,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वकुलौन्नत्यसिद्धयर्थं त्वरया यततां नृणाम् ।  
 विमर्शमन्तरा कार्यं निर्विघ्नं सेत्स्यति क्षणे ॥ १०२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२४</summary>
+
+4\. சூழாமல் தானே முடிவெய்தும் தம்குடியைத்  
+தாழாது உஞற்று பவர்க்கு.  
+Who raise their races with ceaseless pain  
+No need for plan; their ends will gain.        1024  
 </details>
 
 <details><summary>मूलम् - १०२४</summary>
@@ -18745,6 +26947,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तेन बान्धव्यमिच्छंस्तु लोकस्तमनुवर्तते ॥ १०२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०२५</summary>
+
+5\. குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்  
+சுற்றமாச் சுற்றும் உலகு.  
+Who keeps his house without a blame  
+People around, his kinship claim.        1025  
+</details>
+
 <details><summary>मूलम् - १०२५</summary>
 
 कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
@@ -18761,6 +26971,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वोत्पन्नकुलनिर्वाहशक्तिं सम्पाद्य जीवनम् ।  
 तात्त्विकं पौरुषं ताद्धि पुरुषाणां प्रशस्यते ॥ १०२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२६</summary>
+
+6\. நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்த  
+இல்லாண்மை ஆக்கிக் கொளல்.  
+Who raise their race which gave them birth  
+Are deemed as men of manly worth.        1026  
 </details>
 
 <details><summary>मूलम् - १०२६</summary>
@@ -18781,6 +26999,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शक्तस्तथा वहेद्वंशभारमन्येषु सत्स्वापि ॥ १०२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०२७</summary>
+
+7\. அமரகத்து வன்கண்ணார் போலத் தமரகத்தும்  
+ஆற்றுவார் மேற்றே பொறை.  
+Like dauntless heroes in battle field  
+The home-burden rests on the bold.        1027  
+</details>
+
 <details><summary>मूलम् - १०२७</summary>
 
 अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
@@ -18797,6 +27023,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कुलगौरवरक्षार्थं कालो नात्र प्रतीक्ष्यताम् ।  
 आलस्यात् कालकाङ्क्षायां हीयते कुलगौरवम् ॥ १०२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२८</summary>
+
+8\. குடிசெய்வார்க்கு இல்லை பருவம் மடிசெய்து  
+மானம் கருதக் கெடும்.  
+No season have they who raise their race  
+Sloth and pride will honour efface.        1028  
 </details>
 
 <details><summary>मूलम् - १०२८</summary>
@@ -18817,6 +27051,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 शरीरं कस्यचित्किन्नु दुःखमात्रैकभाजनम् ॥ १०२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०२९</summary>
+
+9\. இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்  
+குற்றம் மறைப்பான் உடம்பு.  
+Is not his frame a vase for woes  
+Who from mishaps shields his house?        1029  
+</details>
+
 <details><summary>मूलम् - १०२९</summary>
 
 इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
@@ -18833,6 +27075,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ???? ।  
 यस्मिन कुले भाविदुःखकुठाराभिहतः पतेत् ॥ १०३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०३०</summary>
+
+10\. இடுக்கண்கால் கொன்றிட வீழும் அடுத்தூன்றும்  
+நல்லாள் இலாத குடி.  
+A house will fall by a mishap  
+With no good man to prop it up.         1030  
 </details>
 
 <details><summary>मूलम् - १०३०</summary>
@@ -18856,6 +27106,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अतः क्लेशकरं चापि कृषिकर्म प्रशस्यते ॥ १०३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०३१</summary>
+
+1\. சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால்  
+உழந்தும் உழவே தலை.  
+Farming though hard is foremost trade  
+Men ply at will but ploughmen lead.        1031  
+</details>
+
 <details><summary>मूलम् - १०३१</summary>
 
 सुऴण्ड्रुम्एर्प् पिन्नदु उलगम् अदनाल्  
@@ -18872,6 +27130,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अन्यकर्मकराणं च समेषां जीवधारणात् ।  
 जनानां कर्षकाः सर्वे तिष्ठन्त्यक्षाणिवद् भुवि ॥ १०३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०३२</summary>
+
+2\. உழுவார் உலகத்தார்க்கு ஆணிஅஃதாற்றாது  
+எழுவாரை எல்லாம் பொறுத்து.  
+Tillers are linch-pin of mankind  
+Bearing the rest who cannot tend.        1032  
 </details>
 
 <details><summary>मूलम् - १०३२</summary>
@@ -18892,6 +27158,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परान् संस्तुत्य जीवन्तः परे सर्वे पराश्रयाः ॥ १०३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०३३</summary>
+
+3\. உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்  
+தொழுதுண்டு பின்செல் பவர்.  
+They live who live to plough and eat  
+The rest behind them bow and eat.        1033  
+</details>
+
 <details><summary>मूलम् - १०३३</summary>
 
 उऴुदुण्डु वाऴ्वारे वाऴ्वार्मऱ्‌ ऱॆल्लाम्  
@@ -18908,6 +27182,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धान्यसम्पत्समृद्धाश्च दयावन्तः कृषीवलाः ।  
 अन्यराज्ञां भुवं स्वीयराजाधीनं वितन्वते ॥ १०३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०३४</summary>
+
+4\. பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர்  
+அலகுடை நீழ லவர்.  
+Who have the shade of cornful crest  
+Under their umbra umbrellas rest.        1034  
 </details>
 
 <details><summary>मूलम् - १०३४</summary>
@@ -18928,6 +27210,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न याचन्ते परान्, किन्तु यच्छन्त्यल्पमथार्थिनाम् ॥ १०३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०३५</summary>
+
+5\. இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது  
+கைசெய்தூண் மாலை யவர்.  
+Who till and eat, beg not; nought hide  
+But give to those who are in need.        1035  
+</details>
+
 <details><summary>मूलम् - १०३५</summary>
 
 इरवार् इरप्पार्क्कॊण्ड्रु ईवर् करवादु  
@@ -18944,6 +27234,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृषिवालानां हस्तास्तु कृषिहीनो भवेद्यदि ।  
 विरक्तानां यतीनां च जीवनं दुर्लभं तदा ॥ १०३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०३६</summary>
+
+6\. உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம்  
+விட்டேம்என் பார்க்கும் நிலை.  
+Should ploughmen sit folding their hands  
+Desire-free monks too suffer wants.        1036  
 </details>
 
 <details><summary>मूलम् - १०३६</summary>
@@ -18964,6 +27262,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दोहदं मुष्टिमात्रं च विना भूः स्यात् फलप्रदा ॥ १०३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०३७</summary>
+
+7\. தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்  
+வேண்டாது சாலப் படும்.  
+Moulds dried to quarter-dust ensure  
+Rich crops without handful manure.        1037  
+</details>
+
 <details><summary>मूलम् - १०३७</summary>
 
 तॊडिप्पुऴुदि कह्सा उणक्किन् पिडित्तॆरुवुम्  
@@ -18980,6 +27286,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कर्षणाद् दोहदं श्रेष्ठं द्वयं कृत्वा ततस्तृणम् ।  
 निष्कास्य रक्षणाद्भूमेः न मुख्यं जलसेचनम् ॥ १०३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०३८</summary>
+
+8\. ஏரினும் நன்றால் எருஇடுதல் கட்டபின்  
+நீரினும் நன்றதன் காப்பு.  
+Better manure than plough; then weed;  
+Than irrigating, better guard.        1038  
 </details>
 
 <details><summary>मूलम् - १०३८</summary>
@@ -19000,6 +27314,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भूमिरप्रीतिपत्नीव विरक्ता तं परित्यजेत् ॥ १०३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०३९</summary>
+
+9\. செல்லான் கிழவன் இருப்பின் நிலம்புலந்து  
+இல்லாளின் ஊடி விடும்.  
+If landsmen sit sans moving about  
+The field like wife will sulk and pout.        1039  
+</details>
+
 <details><summary>मूलम् - १०३९</summary>
 
 सॆल्लान् किऴवन् इरुप्पिन् निलम्बुलन्दु  
@@ -19016,6 +27338,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''दरिद्रा वयम्''इत्युक्त्वा कृषिकर्मपराङ्मुखान् ।  
 तान् समीक्ष्याथ भूदेवो हसेदज्ञानसंयुतान् ॥ १०४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०४०</summary>
+
+10\. இலமென்று அசைஇ இருப்பாரைக் காணின்  
+நிலமென்னும் நல்லாள் நகும்.  
+Fair good earth will laugh to see  
+Idlers pleading poverty.        1040  
 </details>
 
 <details><summary>मूलम् - १०४०</summary>
@@ -19039,6 +27369,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इति प्रश्नस्य दारिद्र्येमेवेत्युत्तरमुच्यताम् ॥ १०४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०४१</summary>
+
+1\. இன்மையின் இன்னாதது யாதெனின் இன்மையின்  
+இன்மையே இன்னா தது.  
+What gives more pain than scarcity?  
+No pain pinches like poverty.        1041  
+</details>
+
 <details><summary>मूलम् - १०४१</summary>
 
 इन्मैयिन् इन्नाददु यादॆनिन् इन्मैयिन्  
@@ -19055,6 +27393,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लभेत् सहवासं यो दारिद्र्याभिधपापिना ।  
 ऐहिकामुष्मिकसुखं न विन्देत् स मानवः ॥ १०४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०४२</summary>
+
+2\. இன்மை எனஒரு பாவி மறுமையும்  
+இம்மையும் இன்றி வரும்.  
+The sinner Want is enemy dire  
+Of joys of earth and heaven there.        1042  
 </details>
 
 <details><summary>मूलम् - १०४२</summary>
@@ -19075,6 +27421,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुलश्रैष्ठ्यं च कीर्तिश्च तं विहाय विनिःसरेत् ॥ १०४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०४३</summary>
+
+3\. தொல்வரவும் தோலும் கெடுக்கும் தொகையாக  
+நல்குரவு என்னும் நசை.  
+The craving itch of poverty  
+Kills graceful words and ancestry.        1043  
+</details>
+
 <details><summary>मूलम् - १०४३</summary>
 
 तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग  
@@ -19091,6 +27445,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 महाकुलप्रसूतानामुत्तमानां वचस्यापि ।  
 नीचवाक्यप्रयोगाख्यदोषो दारिद्र्यतो भवेत् ॥ १०४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०४४</summary>
+
+4\. இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த  
+சொற்பிறக்கும் சோர்வு தரும்.  
+Want makes even good familymen  
+Utter words that are low and mean.        1044  
 </details>
 
 <details><summary>मूलम् - १०४४</summary>
@@ -19111,6 +27473,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भिन्नभिन्नान्यनेकानि दुःखानि प्रविशन्ति तान् ॥ १०४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०४५</summary>
+
+5\. நல்குரவு என்னும் இடும்பையுள் பல்குரைத்  
+துன்பங்கள் சென்று படும்.  
+The pest of wanton poverty  
+Brings a train of misery.        1045  
+</details>
+
 <details><summary>मूलम् - १०४५</summary>
 
 नल्गुरवु ऎन्नुम् इडुम्बैयुळ् पल्गुरैत्  
@@ -19127,6 +27497,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दारिद्राः शास्त्रतत्त्वर्थज्ञानवन्तोऽपि तद्वचः ।  
 न कोऽपि श्रुणुयाल्लोके व्यर्थमेव भवेद्वचः ॥ १०४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०४६</summary>
+
+6\. நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்  
+சொற்பொருள் சோர்வு படும்.  
+The poor men's words are thrown away  
+Though from heart good things they say.        1046  
 </details>
 
 <details><summary>मूलम् - १०४६</summary>
@@ -19147,6 +27525,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जननी तमुदासीनं मत्वा दूरीकरोत्यहो ॥ १०४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०४७</summary>
+
+7\. அறஞ்சாரா நல்குரவு ஈன்றதா யானும்  
+பிறன்போல நோக்கப் படும்.  
+Even the mother looks as stranger  
+The poor devoid of character.        1047  
+</details>
+
 <details><summary>मूलम् - १०४७</summary>
 
 अऱञ्जारा नल्गुरवु ईण्ड्रदा यानुम्  
@@ -19163,6 +27549,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मरणान्तकरक्रूरदारिद्र्यानुभवव्यथा ।  
 श्चः पुनः किं भवेद्वेति दरिद्रः चिन्तयेत् सदा ॥ १०४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०४८</summary>
+
+8\. இன்றும் வருவது கொல்லோ நெருநலும்  
+கொன்றது போலும் நிரப்பு.  
+The killing Want of yesterday  
+Will it pester me even to-day?        1048  
 </details>
 
 <details><summary>मूलम् - १०४८</summary>
@@ -19183,6 +27577,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परं दरिद्रावस्थायां स्वप्तुं को वा भवेत् क्षमः ॥ १०४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०४९</summary>
+
+9\. நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்  
+யாதொன்றும் கண்பாடு அரிது.  
+One may sleep in the midst of fire  
+In want a wink of sleep is rare.        1049  
+</details>
+
 <details><summary>मूलम् - १०४९</summary>
 
 नॆरुप्पिनुळ् तुञ्जलुम् आगुम् निरप्पिनुळ्  
@@ -19199,6 +27601,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भोग्यार्थवस्तुरहितदरिद्रा रागवर्जिताः ।  
 यवागूलवणार्थं तैर्भिक्षुत्वं नाप्यगृह्यत ॥ १०५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०५०</summary>
+
+10\. துப்புரவு இல்லார் துவரத் துறவாமை  
+உப்பிற்கும் காடிக்கும் கூற்று.  
+Renounce their lives the poor must  
+Or salt and gruel go to waste.        1050  
 </details>
 
 <details><summary>मूलम् - १०५०</summary>
@@ -19222,6 +27632,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दातुर्नेति वचस्तस्य दोषाय स्यान्न चार्थिनाम् ॥ १०५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०५१</summary>
+
+1\. இரக்க இரத்தக்கார்க் காணின் கரப்பின்  
+அவர்பழி தம்பழி யன்று.  
+Demand from those who can supply  
+Default is theirs when they deny.        1051  
+</details>
+
 <details><summary>मूलम् - १०५१</summary>
 
 इरक्क इरत्तक्कार्क् काणिन् करप्पिन्  
@@ -19238,6 +27656,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 याचको वाञ्छितं वस्तु लभेत् दातरि ।  
 याचनापि तदा तस्य मोददा न तु दुःखदा ॥ १०५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०५२</summary>
+
+2\. இன்பம் ஒருவற்கு இரத்தல் இரந்தவை  
+துன்பம் உறாஅ வரின்.  
+Even demand becomes a joy  
+When the things comes without annoy.        1052  
 </details>
 
 <details><summary>मूलम् - १०५२</summary>
@@ -19258,6 +27684,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अर्थिनां याचनं चापि नूनं श्रेष्ठ्याय भूयते ॥ १०५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०५३</summary>
+
+3\. கரப்பிலா நெஞ்சின் கடனறிவார் முன்நின்று  
+இரப்புமோ ரேஎர் உடைத்து.  
+Request has charm form open hearts  
+Who know the duty on their part.        1053  
+</details>
+
 <details><summary>मूलम् - १०५३</summary>
 
 करप्पिला नॆञ्जिन् कडनऱिवार् मुन्निण्ड्रु  
@@ -19274,6 +27708,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वप्नेऽपि कपटं वाक्यं प्रयोक्तुमविजानतः ।  
 दातुरग्रे याचनापि दानेन सादृशं भवेत् ॥ १०५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०५४</summary>
+
+4\. இரத்தலும் ஈதலே போலும் கரத்தல்  
+கனவிலும் தேற்றாதார் மாட்டு.  
+Like giving even asking seems  
+From those who hide not even in dreams.        1054  
 </details>
 
 <details><summary>मूलम् - १०५४</summary>
@@ -19294,6 +27736,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अद्यापि सत्वाद्दातृणामग्रे तिष्ठन्ति याचकाः ॥ १०५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०५५</summary>
+
+5\. கரப்பிலார் வையகத்து உண்மையால் கண்ணின்று  
+இரப்பவர் மேற்கொள் வது.  
+The needy demand for help because  
+The world has men who don't refuse.        1055  
+</details>
+
 <details><summary>मूलम् - १०५५</summary>
 
 करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिण्ड्रु  
@@ -19310,6 +27760,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विहाय कपटं तत्त्ववक्तुर्दातुर्हि दर्शनात् ।  
 याचकानां सुदारिद्र्यदुःखं नश्येत्स्वतोऽखिलम् ॥ १०५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०५६</summary>
+
+6\. கரப்பிடும்பை இல்லாரைக் காணின் நிரப்பிடும்பை  
+எல்லாம் ஒருங்கு கெடும்.  
+The pain of poverty shall die  
+Before the free who don't deny.        1056  
 </details>
 
 <details><summary>मूलम् - १०५६</summary>
@@ -19330,6 +27788,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दातृन् दृष्ट्वा याचकस्तु मनस्यन्तः प्रमोदते ॥ १०५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०५७</summary>
+
+7\. இகழ்ந்தெள்ளாது ஈவாரைக் காணின் மகிழ்ந்துள்ளம்  
+உள்ளுள் உடைப்பது உடைத்து.  
+When givers without scorn impart  
+A thrill of delight fills the heart.        1057  
+</details>
+
 <details><summary>मूलम् - १०५७</summary>
 
 इगऴ्न्दॆळ्ळादु ईवारैक् काणिन् मगिऴ्न्दुळ्ळम्  
@@ -19346,6 +27812,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 याचकानामभावे तु नराणां भुवि जीवनम् ।  
 सूत्राकृष्टचलद्दारुबिम्बवत् कृत्रिमं भवेत् ॥ १०५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०५८</summary>
+
+8\. இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம்  
+மரப்பாவை சென்றுவந் தற்று.  
+This grand cool world shall move to and fro  
+Sans Askers like a puppet show.        1058  
 </details>
 
 <details><summary>मूलम् - १०५८</summary>
@@ -19366,6 +27840,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न याचन्ते यदि तदा महिमा स्यात् कथं प्रभोः ॥ १०५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०५९</summary>
+
+9\. ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள்  
+மேவார் இலாஅக் கடை.  
+Where stands the glory of givers  
+Without obligation seekers?        1059  
+</details>
+
 <details><summary>मूलम् - १०५९</summary>
 
 ईवार्गण् ऎन्नुण्डाम् तोट्रम् इरन्दुगोळ्  
@@ -19382,6 +27864,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अर्थिभिर्विजितक्रोधैर्भाव्यं क्षेमार्थिभिः सदा ।  
 दारिद्र्यं स्वगतं स्वस्य भवेद् ज्ञानप्रदायकम् ॥ १०६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०६०</summary>
+
+10\. இரப்பான் வெகுளாமை வேண்டும் நிரப்புஇடும்பை  
+தானேயும் சாலும் கரி.  
+The needy should not scowl at "No"  
+His need anothers' need must show.        1060  
 </details>
 
 <details><summary>मूलम् - १०६०</summary>
@@ -19405,6 +27895,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अग्रेऽपि याचनाभावः श्रेष्ठः कोटिगुणो मतः ॥ १०६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०६१</summary>
+
+1\. கரவாது உவந்தீயும் கண்ணன்னார் கண்ணும்  
+இரவாமை கோடி யுறும்.  
+Not to beg is billions worth  
+E'en from eye-like friends who give with mirth.        1061  
+</details>
+
 <details><summary>मूलम् - १०६१</summary>
 
 करवादु उवन्दीयुम् कण्णन्नार् कण्णुम्  
@@ -19421,6 +27919,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 केषाञ्चिद्याचनावृत्तिमीशः शिरसि चेल्लिखेत् ।  
 लोककर्ता निर्दयोऽसौ स्वयं भवतु याचकः ॥ १०६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०६२</summary>
+
+2\. இரந்தும் உயிர்வாழ்தல் வேண்டின் பரந்து  
+கெடுக உலகியற்றி யான்.  
+Let World-Maker loiter and rot  
+If "beg and live" be human fate.        1062  
 </details>
 
 <details><summary>मूलम् - १०६२</summary>
@@ -19441,6 +27947,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यत्नशून्येन सदृशो मूर्खो नास्ति व्यथाकरः ॥ १०६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०६३</summary>
+
+3\. இன்மை இடும்பை இரந்துதீர் வாமென்னும்  
+வன்மையின் வன்பாட்டது இல்.  
+Nothing is hard like hard saying  
+"We end poverty by begging".        1063  
+</details>
+
 <details><summary>मूलम् - १०६३</summary>
 
 इन्मै इडुम्बै इरन्दुदीर् वामॆन्नुम्  
@@ -19457,6 +27971,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दारिद्र्यप्राप्तिकालेऽपि याच्ञाकार्यमकुर्वताम् ।  
 महत्वं सकलां पृथ्वीं समभिव्याप्य राजते ॥ १०६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०६४</summary>
+
+4\. இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்  
+காலும் இரவொல்லாச் சால்பு.  
+All space is small before the great  
+Who beg not e'en in want acute.        1064  
 </details>
 
 <details><summary>मूलम् - १०६४</summary>
@@ -19477,6 +27999,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पानादप्यधिको मोददायको नास्ति कश्चन ॥ १०६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०६५</summary>
+
+5\. தெண்ணீர் அடுபுற்கை யாயினும் தாள்தந்தது  
+உண்ணலி னூங்கினியது இல்.  
+Though gruel thin, nothing is sweet  
+Like the food earned by labour's sweat.        1065  
+</details>
+
 <details><summary>मूलम् - १०६५</summary>
 
 तॆण्णीर् अडुबुऱ्‌कै आयिनुम् ताळ्दन्ददु  
@@ -19493,6 +28023,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पशुरक्षणधार्मार्थं जलयाचनरूपकम् ।  
 कर्मापि याचनाकर्तुः जिह्वाया दोषदं भवेत् ॥ १०६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०६६</summary>
+
+6\. ஆவிற்கு நீரென்று இரப்பினும் நாவிற்கு  
+இரவின் இளிவந்தது இல்.  
+It may be water for the cow  
+Begging tongue is mean anyhow.        1066  
 </details>
 
 <details><summary>मूलम् - १०६६</summary>
@@ -19513,6 +28051,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न कार्या याचनेत्युक्त्वा याचेऽहं याचकान् प्रति ॥ १०६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०६७</summary>
+
+7\. இரப்பன் இரப்பாரை எல்லாம் இரப்பின்  
+கரப்பார் இரவன்மின் என்று.  
+If beg they must I beg beggers  
+Not to beg from shrinking misers.        1067  
+</details>
+
 <details><summary>मूलम् - १०६७</summary>
 
 इरप्पन् इरप्पारै ऎल्लाम् इरप्पिन्  
@@ -19529,6 +28075,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दारिद्र्याम्बुधिसन्तारहेतुयाचननाविका ।  
 कापट्याख्यशिलाभूम्या घर्षिता शिथिला भवेत् ॥ १०६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०६८</summary>
+
+8\. இரவென்னும் ஏமாப்பில் தோணி கரவென்னும்  
+பார்தாக்கப் பக்கு விடும்.  
+The hapless bark of beggary splits  
+On the rock of refusing hits.        1068  
 </details>
 
 <details><summary>मूलम् - १०६८</summary>
@@ -19549,6 +28103,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कापट्यदोषस्मरणे न द्रवेत्, किन्तु नश्यति ॥ १०६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०६९</summary>
+
+9\. இரவுள்ள உள்ளம் உருகும் கரவுள்ள  
+உள்ளதூஉம் இன்றிக் கெடும்.  
+The heart at thought of beggars melts;  
+It dies at repulsing insults.        1069  
+</details>
+
 <details><summary>मूलम् - १०६९</summary>
 
 इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
@@ -19565,6 +28127,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नेति श्रवणमात्रेण प्राणो गच्छति चार्थिनाम् ।  
 स्थितेऽपि नेति ब्रुवतां प्राणश्छन्नो वसेत् किमु ॥ १०७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०७०</summary>
+
+10\. கரப்பவர்க்கு யாஙகொளிக்குங் கொல்லோ இரப்பவர்  
+சொல்லாடப் போஒம் உயிர்.  
+The word "No" kills the begger's life  
+Where can the niggard's life be safe?        1070  
 </details>
 
 <details><summary>मूलम् - १०७०</summary>
@@ -19588,6 +28158,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इदं साम्यन्त्वन्यवस्तुद्विके द्रष्टुं न शक्यते ॥ १०७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०७१</summary>
+
+1\. மக்களே போல்வர் கயவர் அவரன்ன  
+ஒப்பாரி யாங்கண்டது இல்.  
+The mean seem men only in form  
+We have never seen such a sham.        1071  
+</details>
+
 <details><summary>मूलम् - १०७१</summary>
 
 मक्कळे पोल्वर् कयवर् अवरन्न  
@@ -19604,6 +28182,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विवेकज्ञानवद्भयोऽपि नीचाः स्युर्भाग्यशालिनः ।  
 यतस्तैः सदसच्चिन्ता कापि न क्रियते किल ॥ १०७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०७२</summary>
+
+2\. நன்றறி வாரிற் கயவர் திருவுடையர்  
+நெஞ்சத்து அவலம் இலர்.  
+The base seem richer than the good  
+For no care enters their heart or head.        1072  
 </details>
 
 <details><summary>मूलम् - १०७२</summary>
@@ -19624,6 +28210,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वेच्छया वाञ्छितं कार्यमुभाभ्यां क्रियते यतः ॥ १०७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०७३</summary>
+
+3\. தேவர் அனையர் கயவர் அவருந்தாம்  
+மேவன செய்தொழுக லான்.  
+The base are like gods; for they too  
+As prompted by their desire do.        1073  
+</details>
+
 <details><summary>मूलम् - १०७३</summary>
 
 तेवर् अनैयर् कयवर् अवरुन्दाम्  
@@ -19640,6 +28234,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भुवि नीचजनाः स्वस्मादपि नीचान् समीक्श्य तु ।  
 ''तस्मादपि वयं श्रेष्ठं'' इति स्युर्ममतापराः ॥ १०७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०७४</summary>
+
+4\. அகப்பட்டி ஆவாரைக் காணின் அவரின்  
+மிகப்பட்டுச் செம்மாக்கும் கீழ்.  
+When the base meets a rake so vile  
+Him he will exceed, exult and smile.        1074  
 </details>
 
 <details><summary>मूलम् - १०७४</summary>
@@ -19660,6 +28262,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सच्चारित्रसमेताः स्युस्ते लब्धुं वाञ्छितं क्कचित् ॥ १०७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०७५</summary>
+
+5\. அச்சமே கீழ்களது ஆசாரம் எச்சம்  
+அவாஉண்டேல் உண்டாம் சிறிது.  
+Fear forms the conduct of the low  
+Craving avails a bit below.        1075  
+</details>
+
 <details><summary>मूलम् - १०७५</summary>
 
 अच्चमे कीऴ्गळदु आसारम् ऎच्चम्  
@@ -19676,6 +28286,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 श्रुतानेकरहस्यानां स्वयं गत्वा बहुस्थालीम् ।  
 प्रसारणात् प्रचारार्थपटहाः सन्ति दुर्जनाः ॥ १०७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०७६</summary>
+
+6\. அறைபறை அன்னர் கயவர்தாம் கேட்ட  
+மறைபிறர்க்கு உய்த்துரைக்க லான்.  
+The base are like the beaten drum  
+Since other's secrets they proclaim.        1076  
 </details>
 
 <details><summary>मूलम् - १०७६</summary>
@@ -19696,6 +28314,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 परेषामधमो भुक्तसिक्तहस्तं न दर्शयेत् ॥ १०७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०७७</summary>
+
+7\. ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்கும்  
+கூன்கைய ரல்லா தவர்க்கு.  
+The base their damp hand will not shake  
+But for fists clenched their jaws to break.        1077  
+</details>
+
 <details><summary>मूलम् - १०७७</summary>
 
 ईर्ङ्गै विदिरार् कयवर् कॊडिऱुडैक्कुम्  
@@ -19712,6 +28338,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुःखश्रवणमात्रेण सन्तः स्युरुपकारिणः ।  
 नीचाः स्युरिक्षुवत्पिष्टा भवन्ति सहकारिणः ॥ १०७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०७८</summary>
+
+8\. சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல்  
+கொல்லப் பயன்படும் கீழ்.  
+The good by soft words profits yield  
+The cane-like base when crushed and killed.        1078  
 </details>
 
 <details><summary>मूलम् - १०७८</summary>
@@ -19732,6 +28366,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 असूयया मृषादोषान् सदा शंसन्ति तेष्वपि ॥ १०७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०७९</summary>
+
+9\. உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்  
+வடுக்காண வற்றாகும் கீழ்.  
+Faults in others the mean will guess  
+On seeing how they eat and dress.        1079  
+</details>
+
 <details><summary>मूलम् - १०७९</summary>
 
 उडुप्पदूउम् उण्बदूउम् काणिन् पिऱर्मेल्  
@@ -19748,6 +28390,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 आत्मानमपि नीचास्तु विक्रेतुं व्यसनागमे ।  
 सज्जा भवेयुः, सत्कर्म नान्यत् तैः कर्तुमिष्यते ॥ १०८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०८०</summary>
+
+10\. எற்றிற் குரியர் கயவரொன்று உற்றக்கால்  
+விற்றற்கு உரியர் விரைந்து.  
+The base hasten to sell themselves  
+From doom to flit and nothing else.        1080  
 </details>
 
 <details><summary>मूलम् - १०८०</summary>
@@ -19778,6 +28428,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अथवा मानुषीत्येवं प्राप्नोति मे मनः ॥ १०८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०८१</summary>
+
+1\. அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை  
+மாதர்கொல் மாலும்என் நெஞ்சு.  
+Is it an angel? A fair peacock  
+Or jewelled belle? To my mind a shock!        1081  
+</details>
+
 <details><summary>मूलम् - १०८१</summary>
 
 अणङ्गुगॊल् आय्मयिल् कॊल्लो कनङ्गुऴै  
@@ -19794,6 +28452,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मया दृष्टा रमणी यत्पुनर्मां च पश्यति ।  
 सैन्येन सह मां योद्धुं कि प्रापदिति तद्वभौ ॥ १०८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०८२</summary>
+
+2\. நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு  
+தானைக்கொண் டன்னது உடைத்து.  
+The counter glances of this belle  
+Are armied dart of the Love-Angel.        1082  
 </details>
 
 <details><summary>मूलम् - १०८२</summary>
@@ -19814,6 +28480,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 क्रूराक्षश्चाङ्गनारूपो जीवत्येष न संशयः ॥ १०८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०८३</summary>
+
+3\. பண்டறியேன் கூறறென் பதனை இனியறிந்தேன்  
+பெண்டகையால் பேரமர்க் கட்டு.  
+Not known before - I spy Demise  
+In woman's guise with battling eyes.        1083  
+</details>
+
 <details><summary>मूलम् - १०८३</summary>
 
 पण्डऱियेन् कूट्रॆन् पदनै इनियऱिन्देन्  
@@ -19830,6 +28504,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नारीगुणसमेतायास्तस्यास्ते क्रूरचक्षुषी ।  
 द्रष्टणां प्राणनाशार्थमुद्युक्ते तिष्ठतः सदा ॥ १०८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०८४</summary>
+
+4\. கண்டார் உயிருண்ணும் தோற்றத்தால் பெண்டகைப்  
+பேதைக்கு அமர்த்தன கண்.  
+This artless dame has darting eyes  
+That drink the life of men who gaze.        1084  
 </details>
 
 <details><summary>मूलम् - १०८४</summary>
@@ -19850,6 +28532,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 त्रयाणामपि सदृश्यं दृष्टयामस्यास्तु दृश्यते ॥ १०८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०८५</summary>
+
+5\. கூற்றமோ கண்ணோ பிணையோ மடவரல்  
+நோக்கம்இம் மூன்றும் உடைத்து.  
+Is it death, eye or doe? All three  
+In winsome woman's look I see.        1085  
+</details>
+
 <details><summary>मूलम् - १०८५</summary>
 
 कूट्रमो कण्णो पिणैयो मडवरल्  
@@ -19866,6 +28556,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भ्ररस्यास्त्वार्जवं प्राप्य वक्रतां यदि मुञ्चति ।  
 तस्यास्तदा दृष्टिपातं सा नूनं मयि वारयेत् ॥ १०८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०८६</summary>
+
+6\. கொடும்புருவம் கோடா மறைப்பின் நடுங்கஞர்  
+செய்யல மன்இவள் கண்.  
+If cruel brows unbent, would screen  
+Her eyes won't cause me trembling pain.        1086  
 </details>
 
 <details><summary>मूलम् - १०८६</summary>
@@ -19886,6 +28584,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रत्तेभकायसञ्च्छन्नमुखवस्त्रसमं भवेत् ॥ १०८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०८७</summary>
+
+7\. கடாஅக் களிற்றின்மேல் கட்படாம் மாதர்  
+படாஅ முலைமேல் துகில்.  
+Vest on the buxom breast of her  
+Looks like rutting tusker's eye-cover.        1087  
+</details>
+
 <details><summary>मूलम् - १०८७</summary>
 
 कडाअक् कळिट्रिन्मेऱ्‌ कट्पडाम् मादर्  
@@ -19902,6 +28608,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 समरे शत्रुवित्रासहेतुभृतं बलं मम ।  
 रमणीरम्यफालेन नृनमासीत् पराजितम् ॥ १०८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०८८</summary>
+
+8\. ஒண்ணுதற் கோஒ உடைந்ததே ஞாட்பினுள்  
+நண்ணாரும் உட்கும்என் பீடு.  
+Ah these fair brows shatter my might  
+Feared by foemen yet to meet.        1088  
 </details>
 
 <details><summary>मूलम् - १०८८</summary>
@@ -19922,6 +28636,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सहिताया रमण्यास्तु मण्डनैर्मण्डनं वृथा ॥ १०८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०८९</summary>
+
+9\. பிணையேர் மடநோக்கும் நாணும் உடையாட்கு  
+அணிஎவனோ ஏதில தந்து.  
+Which jewel can add to her beauty  
+With fawn-like looks and modesty?        1089  
+</details>
+
 <details><summary>मूलम् - १०८९</summary>
 
 पिणैयेर् मडनोक्कुम् नाणुम् उडैयाट्कु  
@@ -19938,6 +28660,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामो यथा स्वद्रष्टणां विषयोऽपि मुदावहः ।  
 न तथा मदिरा, किन्तु मोदयेत् प्रायिनं परम् ॥ १०९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०९०</summary>
+
+10\. உண்டார்கண் அல்லது அடுநறாக் காமம்போல்  
+கண்டார் மகிழ்செய்தல் இன்று.  
+To the drunk alone is wine delight  
+Nothing delights like love at sight.        1090  
 </details>
 
 <details><summary>मूलम् - १०९०</summary>
@@ -19960,6 +28690,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मह्यं रोगं ददात्येका श्मयत्यपरा तु तम् ॥ १०९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०९१</summary>
+
+1\. இருநோக்கு இவளுண்கண் உள்ளது ஒருநோக்கு  
+நோய்நோககொன் றந்நோய் மருந்து.  
+Her painted eyes, two glances dart  
+One hurts; the other heals my heart.        1091  
+</details>
+
 <details><summary>मूलम् - १०९१</summary>
 
 इरुनोक्कु इवळुण्गण् उळ्ळदु ऒरुनोक्कु  
@@ -19976,6 +28714,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तस्याः क्षणिकदृष्टिर्या सकूतं प्रेरिता मयि ।  
 न सा कामार्घभागा स्यात् ततोऽपि महती किल ॥ १०९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०९२</summary>
+
+2\. கண்களவு கொள்ளும் சிறுநோக்கம் காமத்தில்  
+செம்பாகம் அன்று பெரிது.  
+Her furtive lightning glance is more  
+Than enjoyment of sexual lore.        1092  
 </details>
 
 <details><summary>मूलम् - १०९२</summary>
@@ -19996,6 +28742,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदेत् प्रेमवृद्धयर्थ रचितं जलसेचनम् ॥ १०९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०९३</summary>
+
+3\. நோக்கினாள் நோக்கி இறைஞ்சினாள் அஃதவள்  
+யாப்பினுள் அட்டிய நீர்.  
+She looked; looking bowed her head  
+And love-plant was with water fed.        1093  
+</details>
+
 <details><summary>मूलम् - १०९३</summary>
 
 नोक्किनाळ् नोक्कि इऱैञ्जिनाळ् अह्दवळ्  
@@ -20012,6 +28766,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मयि पश्यति सा भूमिं पश्येन्नम्रमुखी स्थिता ।  
 मय्यपश्यति मां दृष्ट्वा कुर्यान्मन्दस्मितं तु सा ॥ १०९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०९४</summary>
+
+4\. யான்நோக்குங் காலை நிலன்நோக்கும் நோக்காக்கால்  
+தான்நோக்கி மெல்ல நகும்.  
+I look; she droops to earth awhile  
+I turn; she looks with gentle smile.        1094  
 </details>
 
 <details><summary>मूलम् - १०९४</summary>
@@ -20032,6 +28794,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अथापि मीलिताक्षीव भृत्वा मन्दं हसेदियम् ॥ १०९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०९५</summary>
+
+5\. குறிக்கொண்டு நோக்காமை அல்லால் ஒருகண்  
+சிறக்கணித்தாள் போல நகும்.  
+No direct gaze; a side-long glance  
+She darts at me and smiles askance.        1095  
+</details>
+
 <details><summary>मूलम् - १०९५</summary>
 
 कुऱिक्कॊण्डु नोक्कामै अल्लाल् ऒरुगण्  
@@ -20048,6 +28818,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अप्रीतवाक्यसदृशं ब्रूयात्सा कठिनं बहिः ।  
 परन्तु हृदये क्रोधो नास्तीति ज्ञायते क्षणात् ॥ १०९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०९६</summary>
+
+6\. உறாஅ தவர்போல் சொலினும் செறாஅர்சொல்  
+ஒல்லை உணரப் படும்.  
+Their words at first seem an offence  
+But quick we feel them friendly ones.        1096  
 </details>
 
 <details><summary>मूलम् - १०९६</summary>
@@ -20068,6 +28846,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदन्तःप्रीतियुक्तानां लक्षणं प्रोच्यते बुधैः ॥ १०९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०९७</summary>
+
+7\. செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்  
+உறாஅர்போன்று உற்றார் குறிப்பு.  
+Harsh little words; offended looks,  
+Are feigned consenting love-lorn tricks.        1097  
+</details>
+
 <details><summary>मूलम् - १०९७</summary>
 
 सॆऱाअच् चिऱुसॊल्लुम् सॆट्रार्बोल् नोक्कुम्  
@@ -20084,6 +28870,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मयि पश्यति तद् दृष्ट्वा प्रीता मन्दं हसेदियम् ।  
 तस्याश्चलन्त्यास्तत्कृत्य रमणीयं प्राकाशते ॥ १०९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०९८</summary>
+
+8\. அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப்  
+பசையினள் பைய நகும்.  
+What a grace the slim maid has!  
+As I look she slightly smiles.        1098  
 </details>
 
 <details><summary>मूलम् - १०९८</summary>
@@ -20104,6 +28898,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्तः स्थितां प्रीतिमेव तद् व्यनक्ति तयोस्तदा ॥ १०९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १०९९</summary>
+
+9\. ஏதிலார் போலப் பொதுநோக்கு நோக்குதல்  
+காதலார் கண்ணே யுள.  
+Between lovers we do discern  
+A stranger's look of unconcern.        1099  
+</details>
+
 <details><summary>मूलम् - १०९९</summary>
 
 एदिलार् पोलप् पॊदुनोक्कु नोक्कुदल्  
@@ -20120,6 +28922,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 लोके कामुकयोनेन्त्रे यदि प्रेम्णा परस्परम् ।  
 पश्येतां, तहिं वचसा भाषणे किं प्रयोजनम् ॥ ११००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११००</summary>
+
+10\. கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்கள்  
+என்ன பயனும் இல.  
+The words of mouth are of no use  
+When eye to eye agrees the gaze.        1100  
 </details>
 
 <details><summary>मूलम् - ११००</summary>
@@ -20142,6 +28952,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जायमानं भोगमेका ददाति वलयाज्ज्वला ॥ ११०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११०१</summary>
+
+1\. கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும்  
+ஓண்டொடி கண்ணே உள.  
+In this bangled beauty dwell  
+The joys of sight sound touch taste smell.        1101  
+</details>
+
 <details><summary>मूलम् - ११०१</summary>
 
 कण्डुगेट्टु उण्डुयिर्त्तु उट्रऱियुम् ऐम्बुलनुम्  
@@ -20158,6 +28976,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वरोगशामकं वस्तु स्वेतरं दृश्यते भुवि ।  
 स्वेनोत्पादितरोगस्य किन्त्वयं भेषजं स्वयम् ॥ ११०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११०२</summary>
+
+2\. பிணிக்கு மருந்து பிறமன் அணியிழை  
+தன்நோய்க்குத் தானே மருந்து.  
+The cure for ailment is somewhere  
+For fair maid's ill she is the cure.        1102  
 </details>
 
 <details><summary>मूलम् - ११०२</summary>
@@ -20178,6 +29004,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पङ्कजाक्षमहाविष्णोवैङ्कुण्ठेऽपि न लभ्यते ॥ ११०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११०३</summary>
+
+3\. தாம்வீழ்வார் மென்றோள் துயிலின் இனிதுகொல்  
+தாமரைக் கண்ணான் உலகு.  
+Is lotus-eyed lord's heaven so sweet  
+As sleep in lover's arms so soft?        1103  
+</details>
+
 <details><summary>मूलम् - ११०३</summary>
 
 ताम्वीऴ्वार् मॆण्ड्रोळ् तुयिलिन् इनिदुगॊल्  
@@ -20194,6 +29028,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामाग्नि नूतनमिममेषा प्राप्तवती कुतः ? ।  
 योऽग्निः सन्निहितः शीतो दूरस्थः प्रदहत्ययम् ॥ ११०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११०४</summary>
+
+4\. நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்  
+தீயாண்டுப் பெற்றாள் இவள்.  
+Away it burns and cools anear  
+Wherefrom did she get this fire?        1104  
 </details>
 
 <details><summary>मूलम् - ११०४</summary>
@@ -20214,6 +29056,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रसूनकुन्तलभरनारीस्कन्धो ददाति तत् ॥ ११०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११०५</summary>
+
+5\. வேட்ட பொழுதின் அவையவை போலுமே  
+தோட்டார் கதுப்பினாள் தோள்.  
+The arms of my flower-tressed maid  
+Whatever I wish that that accord.        1105  
+</details>
+
 <details><summary>मूलम् - ११०५</summary>
 
 वेट् ट पॊऴुदिन् अवैयवै पोलुमे  
@@ -20230,6 +29080,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नष्टः प्राणः पुनर्यस्य स्पर्शमात्रेण जीवति ।  
 तेनामृतेन रचितौ तस्याः स्कन्धाविति ध्रुवम् ॥ ११०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११०६</summary>
+
+6\. உறுதோறு உயிர்தளிர்ப்பத் தீண்டலால் பேதைக்கு  
+அமிழ்தின் இயன்றன தோள்.  
+My simple maid has nectar arms  
+Each embrace brings life-thrilling charms.        1106  
 </details>
 
 <details><summary>मूलम् - ११०६</summary>
@@ -20250,6 +29108,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रम्यवर्णाङ्गनाकायपरिष्वङ्गः सुखावहः ॥ ११०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११०७</summary>
+
+7\. தம்மில் இருந்து தமதுபாத்து உண்டற்றால்  
+அம்மா அரிவை முயக்கு.  
+Ah the embrace of this fair dame  
+Is like sharing one's food at home.        1107  
+</details>
+
 <details><summary>मूलम् - ११०७</summary>
 
 तम्मिल् इरुन्दु तमदुबात्तु उण्डट्राल्  
@@ -20266,6 +29132,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वायुगम्यस्थलेनापि मध्ये व्यवधिमन्तरा ।  
 प्रीतिकामुकतोरङ्गपरिष्वङ्गः सुखं वहेत् ॥ ११०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११०८</summary>
+
+8\. வீழும் இருவர்க்கு இனிதே வளியிடை  
+போழப் படாஅ முயக்கு.  
+Joy is the fast embrace that doth  
+Not admit e'en air between both.        1108  
 </details>
 
 <details><summary>मूलम् - ११०८</summary>
@@ -20286,6 +29160,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रोच्यते परमं भाग्यं प्रेमलक्ष्यैकजीविनाम् ॥ ११०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११०९</summary>
+
+9\. ஊடல் உணர்தல் புணர்தல் இவைகாமம்  
+கூடியார் பெற்ற பயன்.  
+Sulking, feeling and clasping fast  
+These three are sweets of lover's tryst.        1109  
+</details>
+
 <details><summary>मूलम् - ११०९</summary>
 
 ऊडल् उणर्दल् पुणर्दल् इवैगामम्  
@@ -20302,6 +29184,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 असकृद् ग्रन्थपठनादज्ञानं शिष्यते पथा ।  
 अनुस्यूताङ्गनाभोमादमोगः शिष्यते ततः ॥ १११०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १११०</summary>
+
+10\. அறிதோறு அறியாமை கண்டற்றால் காமம்  
+செறிதோறும் சேயிழை மாட்டு.  
+As knowledge reveals past ignorance  
+So is the belle as love gets close.        1110  
 </details>
 
 <details><summary>मूलम् - १११०</summary>
@@ -20324,6 +29214,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वत्तोऽपि मार्दवयुता मत्प्रिया, गर्वमुत्सृज ॥ ११११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११११</summary>
+
+1\. நன்னீரை வாழி அனிச்சமே நின்னினும்  
+மென்னீரள் யாம்வீழ் பவள்.  
+Soft blessed anicha flower, hail  
+On whom I dote is softer still.        1111  
+</details>
+
 <details><summary>मूलम् - ११११</summary>
 
 नन्नीरै वाऴि अनिच्चमे निन्निनुम्  
@@ -20340,6 +29238,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 निकदृश्ग्टकुसुमसाम्यमस्यास्तु नेत्रयोः ।  
 वस्तीति किं धिया चित्त! दृष्ट्वा पुष्पाणि मुह्यसि ॥ १११२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १११२</summary>
+
+2\. மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்  
+பலர்காணும் பூவொக்கும் என்று.  
+You can't liken flowers by many eyed,  
+To her bright eyes, O mind dismayed.        1112  
 </details>
 
 <details><summary>मूलम् - १११२</summary>
@@ -20360,6 +29266,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मुक्ता दन्ताश्चारुगन्धः करौ वंशानुकारिणौ ॥ १११३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १११३</summary>
+
+3\. முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்  
+வேலுண்கண் வேய்த்தோ ளவட்கு.  
+The bamboo-shouldered has pearl-like smiles  
+Fragrant breath and lance-like eyes.        1113  
+</details>
+
 <details><summary>मूलम् - १११३</summary>
 
 मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाट्रम्  
@@ -20376,6 +29290,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अस्यास्तु चक्षुषा साम्यं न लब्धमिति लज्ज या ।  
 नतं कुवलयं भूमिं दश्येद्, दृष्टिं लभेत चेत् ॥ १११४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १११४</summary>
+
+4\. காணின் குவளை கவிழ்ந்து நிலன்நோக்கும்  
+மாணிழை கண்ணொவ்வேம் என்று.  
+Lily droops down to ground and says  
+I can't equal the jewelled-one's eyes.        1114  
 </details>
 
 <details><summary>मूलम् - १११४</summary>
@@ -20396,6 +29318,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नालाभाराद्भग्नमध्यमभूदशुभनादनम् ॥ १११५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १११५</summary>
+
+5\. அனிச்சப்பூக் கால்களையாள் பெய்தாள் நுசுப்பிற்கு  
+நல்ல படாஅ பறை.  
+Anicha flower with stem she wears  
+To her breaking waist sad-drum-blares!        1115  
+</details>
+
 <details><summary>मूलम् - १११५</summary>
 
 अनिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्‌कु  
@@ -20412,6 +29342,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नारीमुखनिशानाथमेदज्ञानविवर्जिताः ।  
 दिवि ताराः स्वप्रदेशाद् भ्रान्ताः किन्तु भ्रमन्त्यहो ॥ १११६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १११६</summary>
+
+6\. மதியும் மடந்தை முகனும் அறியா  
+பதியின் கலங்கிய மீன்.  
+Stars are confused to know which is  
+The moon and which is woman's face.        1116  
 </details>
 
 <details><summary>मूलम् - १११६</summary>
@@ -20432,6 +29370,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कलङ्कस्तद्गतो नारीवदने किन्तु वर्तते ॥ १११७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १११७</summary>
+
+7\. அறுவாய் நிறைந்த அவிர்மதிக்குப் போல  
+மறுவுண்டோ மாதர் முகத்து.  
+Are there spots on the lady's face  
+Just as in moon that changes phase?        1117  
+</details>
+
 <details><summary>मूलम् - १११७</summary>
 
 अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल  
@@ -20448,6 +29394,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यदि त्वं मुखवत्त्वस्याः शोभां चन्द्र! वहेस्तदा ।  
 मत्प्रीतिपात्रं त्वं मूयाः सर्वदा विजयी भव ॥ १११८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १११८</summary>
+
+8\. மாதர் முகம்போல் ஒளிவிட வல்லையேல்  
+காதலை வாழி மதி.  
+Like my lady's face if you shine  
+All my love to you; hail O moon!        1118  
 </details>
 
 <details><summary>मूलम् - १११८</summary>
@@ -20468,6 +29422,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हे चन्द्र! सर्वदृश्यस्त्वं तदा मा तिष्ठ सर्वदा ॥ १११९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १११९</summary>
+
+9\. மலர்ன்ன கண்ணாள் முகமொத்தி யாயின்  
+பலர்காணத் தோன்றல் மதி.  
+Like the face of my flower-eyed one  
+If you look, then shine alone O moon!        1119  
+</details>
+
 <details><summary>मूलम् - १११९</summary>
 
 मलरन्न कण्णाळ् मुगमॊत्ति यायिन्  
@@ -20484,6 +29446,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 शिरीषकुसमं हंसपक्षौ चेत्युभयं भुवि ।  
 स्त्रीपादमार्दवे दृष्टे नूनं स्यात्यण्टकोपमम् ॥ ११२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११२०</summary>
+
+10\. அனிச்சமும் அன்னத்தின் தூவியும் மாதர்  
+அடிக்கு நெருஞ்சிப் பழம்.  
+The soft flower and the swan's down are  
+Like nettles to the feet of the fair.        1120  
 </details>
 
 <details><summary>मूलम् - ११२०</summary>
@@ -20506,6 +29476,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मधुसम्मिश्रितं क्षीरमिवातिमधुरं भवेत् ॥ ११२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११२१</summary>
+
+1\. பாலொடு தேன்கலந் தற்றே பணிமொழி  
+வாலெயிறு ஊறிய நீர்.  
+Like milk and honey the dew is sweet  
+From her white teeth whose word is soft.        1121  
+</details>
+
 <details><summary>मूलम् - ११२१</summary>
 
 पालॊडु तेन्गलन् दट्रे पणिमॊऴि  
@@ -20522,6 +29500,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 जीवस्य देहसम्बन्धो यादृशो दृश्यते भुवि ।  
 स्नेहबन्धो ममाप्यस्यां वर्तते तादृशो दृढः ॥ ११२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११२२</summary>
+
+2\. உடம்பொடு உயிரிடை என்னமற் றன்ன  
+மடந்தையொடு எம்மிடை நட்பு.  
+Love between me and this lady  
+Is like bond between soul and body.        1122  
 </details>
 
 <details><summary>मूलम् - ११२२</summary>
@@ -20542,6 +29528,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नो चेन्मत्प्रियया तस्तुमत्र नैव हि शक्यते ॥ ११२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११२३</summary>
+
+3\. கருமணியிற் பாவாய்நீ போதாயாம் வீழும்  
+திருநுதற்கு இல்லை இடம்.  
+Depart image in my pupil  
+Giving room to my fair-browed belle!        1123  
+</details>
+
 <details><summary>मूलम् - ११२३</summary>
 
 करुमणियिऱ्‌ पावाय्नी पोदायाम् वीऴुम्  
@@ -20558,6 +29552,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 संयोगे भूषणाङ्गीयं मम जीवनदायिनी ।  
 वियोगे सैव मे नूनं भवेन्मरणदायिनी ॥ ११२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११२४</summary>
+
+4\. வாழ்தல் உயிர்க்கன்னள் ஆயிழை சாதல்  
+அதற்கன்னள் நீங்கு மிடத்து.  
+Life with my jewel is existence  
+Death it is her severance.        1124  
 </details>
 
 <details><summary>मूलम् - ११२४</summary>
@@ -20578,6 +29580,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदैव स्मरणं युक्तं, न मया विस्मृता गुणाः ॥ ११२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११२५</summary>
+
+5\. உள்ளுவன் மன்யான் மறப்பின் மறப்பறியேன்  
+ஒள்ளமர்க் கண்ணாள் குணம்.  
+Can I forget? I recall always  
+The charms of her bright battling eyes.        1125  
+</details>
+
 <details><summary>मूलम् - ११२५</summary>
 
 उळ्ळुवन् मन्यान् मऱप्पिन् मऱप्पऱियेन्  
@@ -20594,6 +29604,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नापयाति प्रियो नेत्रान्निमेषसमयोऽपि सः ।  
 नैति खेदं, यतोऽन्येषामदृश्यः सूक्ष्मरूपधृत् ॥ ११२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११२६</summary>
+
+6\. கண்ணுன்ளின் போகார் இமைப்பின் பருவரார்  
+நுண்ணியர்எங் காத லவர்.  
+So subtle is my lover's form  
+Ever in my eyes winking, no harm.        1126  
 </details>
 
 <details><summary>मूलम् - ११२६</summary>
@@ -20614,6 +29632,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अञ्जनाद्यैरलङ्कारो नेत्रयोर्न विधीयते ॥ ११२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११२७</summary>
+
+7\. கண்ணுள்ளார் காத லவராகக் கண்ணும்  
+எழுதேம் கரப்பாக்கு அறிந்து.  
+My lover in my eyes abides  
+I paint them not lest he hides.        1127  
+</details>
+
 <details><summary>मूलम् - ११२७</summary>
 
 कण्णुळ्ळार् काद लवरागक् कण्णुम्  
@@ -20630,6 +29656,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 य्ष्णवस्त्वशनेनासौ हृदयस्थो मम प्रिय ः ।  
 दग्धः स्यादिति भीत्या, तदुष्णं वस्तु न भुज्यते ॥ ११२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११२८</summary>
+
+8\. நெஞ்சத்தார் காத லவராக வெய்துஉண்டல்  
+அஞ்சுதும் வேபாக்கு அறிந்து.  
+My lover abides in my heart  
+I fear hot food lest he feels hot.        1128  
 </details>
 
 <details><summary>मूलम् - ११२८</summary>
@@ -20650,6 +29684,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञात्वदं निर्निमेषं तं कठिन ब्रुवते जनाः ॥ ११२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११२९</summary>
+
+9\. இமைப்பின் கரப்பாக்கு அறிவல் அனைத்திற்கே  
+எதிலர் என்னும்இவ் வூர்.  
+My eyes wink not lest he should hide  
+And him as cruel the townsmen chide.        1129  
+</details>
+
 <details><summary>मूलम् - ११२९</summary>
 
 इमैप्पिन् करप्पाक्कु अऱिवल् अनैत्तिऱ्‌के  
@@ -20666,6 +29708,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 हृदयेऽस्ति प्रियो नित्यं तदज्ञात्वा जना भुवि ।  
 निन्दन्ति ᳚प्रीतिहीनोऽयं वियोगं बहती'' ति च ॥ ११३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११३०</summary>
+
+10\. உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்  
+ஏதிலர் என்னும்இவ் வூர்.  
+He abides happy in my heart  
+But people mistake he is apart.        1130  
 </details>
 
 <details><summary>मूलम् - ११३०</summary>
@@ -20688,6 +29738,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रियस्य तालतुरगारोहणान्नास्ति रक्षकम् ॥ ११३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११३१</summary>
+
+1\. காமம் உழந்து வருந்தினார்க்கு ஏமம்  
+மடலல்லது இல்லை வலி.  
+Pangs of passion find no recourse  
+Except riding *'palmyra horse'.        1131  
+</details>
+
 <details><summary>मूलम् - ११३१</summary>
 
 कामम् उऴन्दु वरुन्दिनार्क्कु एमम्  
@@ -20704,6 +29762,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वियोगदुःखं सोढुं यौ प्राणदेहौ न शक्नुतः ।  
 तौ लज्जां च परित्यज्य तुरगारे हणोद्यतौ ॥ ११३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११३२</summary>
+
+2\. நோனா உடம்பும் உயிரும் மடலேறும்  
+நாணினை நீக்கி நிறுத்து.  
+Pining body and mind lose shame  
+And take to riding of the palm.        1132  
 </details>
 
 <details><summary>मूलम् - ११३२</summary>
@@ -20724,6 +29790,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 करोमि तालतुरगारोहणं कामुको यथा ॥ ११३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११३३</summary>
+
+3\. நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்  
+காமுற்றோர் ஏறும் மடல்.  
+Once I was modest and manly  
+My love has now Madal only.        1133  
+</details>
+
 <details><summary>मूलम् - ११३३</summary>
 
 नाणॊडु नल्लाण्मै पण्डुडैयेन् इण्ड्रुडैयेन्  
@@ -20740,6 +29814,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामनामातिवेगोऽयं प्रवाहो मयि संस्थितौ ।  
 लज्जापुस्त्वाभिधौ पोतौ वेगेन नयति क्षणात् ॥ ११३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११३४</summary>
+
+4\. காமக் கடும்புனல் உய்க்குமே நாணொடு  
+நல்லாண்மை என்னும் புணை.  
+Rushing flood of love sweeps away  
+The raft of shame and firmness, aye!        1134  
 </details>
 
 <details><summary>मूलम् - ११३४</summary>
@@ -20760,6 +29842,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 द्वयमेतददान्मह्यं मालाकुलकरा प्रिया ॥ ११३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११३५</summary>
+
+5\. தொடலைக் குறுந்தொடி தந்தாள் மடலொடு  
+மாலை உழக்கும் துயர்.  
+Palm-ride and pangs of eventide  
+Are gifts of wreath-like bracelet maid.        1135  
+</details>
+
 <details><summary>मूलम् - ११३५</summary>
 
 तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु  
@@ -20776,6 +29866,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियावियोगान्नो निद्रां लभेते मम चक्षुवी ।  
 तेनार्घरात्रिकालेऽपि कृत्रिमाश्चं स्मराम्यहम् ॥ ११३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११३६</summary>
+
+6\. மடலூர்தல் யாமத்தும் உள்ளுவேன் மன்ற  
+படல்ஒல்லா பேதைக்கென் கண்.  
+Madal I ride at midnight for  
+My eyes sleep not seeing this fair.        1136  
 </details>
 
 <details><summary>मूलम् - ११३६</summary>
@@ -20796,6 +29894,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तालाश्चान्नाधिरोहन्ति स्त्रीजन्मातो विशिष्यते ॥ ११३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११३७</summary>
+
+7\. கடலன்ன காமம் உழந்தும் மடலேறாப்  
+பெண்ணின் பெருந்தக்கது இல்.  
+Her sea-like lust seeks not Madal!  
+Serene is woman's self control.        1137  
+</details>
+
 <details><summary>मूलम् - ११३७</summary>
 
 कडलन्न कामम् उऴन्दुम् मडलेऱाप्  
@@ -20812,6 +29918,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''शोच्येयं, धैर्यहीनेय'' मित्येतदविचार्य च ।  
 स्त्रीणं कामो विनिष्क्रम्य'' विथीपर्गन्तमाययौ ॥ ११३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११३८</summary>
+
+8\. நிறையரியர் மன்அளியர் என்னாது காமம்  
+மறையிறந்து மன்று படும்.  
+Lust betrays itself in haste  
+Though women are highly soft and chaste.        1138  
 </details>
 
 <details><summary>मूलम् - ११३८</summary>
@@ -20832,6 +29946,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इतीव मम कामोऽयं वीथ्यां भ्रमति मोहितः ॥ ११३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११३९</summary>
+
+9\. அறிகிலார் எல்லாரும் என்றேஎன் காமம்  
+மறுகின் மறுகும் மருண்டு.  
+My perplexed love roves public street  
+Believing that none knows its secret.        1139  
+</details>
+
 <details><summary>मूलम् - ११३९</summary>
 
 अऱिगिलार् ऎल्लारुम् ऎण्ड्रेऎन् कामम्  
@@ -20848,6 +29970,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''अस्मस्समसखीभिस्तु न प्राप्तं व्यसनं पुरा'' ।  
 ''अस्मस्समसखीभिस्तु'' ???? ॥ ११४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११४०</summary>
+
+10\. யாங்கண்ணின் காண நகுப அறிவில்லார்  
+யாம்பட்ட தாம்படா வாறு.  
+Fools laugh at me before my eyes  
+For they feel not my pangs and sighs.        1140  
 </details>
 
 <details><summary>मूलम् - ११४०</summary>
@@ -20870,6 +30000,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्थितिमेनां न जानन्ति जनाः पुष्यवशादहो ॥ ११४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११४१</summary>
+
+1\. அலரெழ ஆருயிர் நிற்கும் அதனைப்  
+பலரறியார் பாக்கியத் தால்.  
+Rumour sustains my existence  
+Good luck! many know not its sense.        1141  
+</details>
+
 <details><summary>मूलम् - ११४१</summary>
 
 अलरॆऴ आरुयिर् निऱ्‌कुम् अदनैप्  
@@ -20886,6 +30024,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुस्साध्या कुसुमाक्षीयमित्येन्नगरे जनाः ।  
 अज्ञात्वा दुष्प्रचारेण मम साह्यं वितन्वते ॥ ११४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११४२</summary>
+
+2\. மலரன்ன கண்ணாள் அருமை அறியாது  
+அலரெமக்கு ஈந்ததிவ் வூர்.  
+Rumour gives me the flower-like belle  
+People know not what rare angel.        1142  
 </details>
 
 <details><summary>मूलम् - ११४२</summary>
@@ -20906,6 +30052,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुस्साधञ्च सुसाधं मे भविता दुष्प्रचारतः ॥ ११४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११४३</summary>
+
+3\. உறாஅதோ ஊரறிந்த கௌவை அதனைப்  
+பெறாஅது பெற்றன்ன நீர்த்து.  
+I profit by this public rumour  
+Having not, I feel, I have her.        1143  
+</details>
+
 <details><summary>मूलम् - ११४३</summary>
 
 उऱाअदो ऊरऱिन्द कॆळवै अदनैप्  
@@ -20922,6 +30076,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मम कामः प्रजानां तु प्रचारेण प्रवर्धितः ।  
 कामः प्रचाररहित्ये नूनं सङ्कुचितो भवेत् ॥ ११४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११४४</summary>
+
+4\. கவ்வையால் கவ்விது காமம் அதுஇன்றேல்  
+தவ்வென்னும் தன்மை இழந்து.  
+Rumour inflames the love I seek  
+Or else it becomes bleak and weak.        1144  
 </details>
 
 <details><summary>मूलम् - ११४४</summary>
@@ -20942,6 +30104,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मोदं मोदं मद्यपायी सेवते तद्यथा पुनः ॥ ११४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११४५</summary>
+
+5\. களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்  
+வெளிப்படுந் தோறும் இனிது.  
+Drink delights as liquor flows  
+Love delights as rumour grows.        1145  
+</details>
+
 <details><summary>मूलम् - ११४५</summary>
 
 कळित्तॊऱुम् कळ्ळुण्डल् वेट्टट्राल् कामम्  
@@ -20958,6 +30128,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियो दृष्टस्त्वेकवोरं, अपवादस्तदोत्थितः ।  
 सर्पेण चन्द्रग्रहणवार्तेव प्रसृतोऽभवत् ॥ ११४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११४६</summary>
+
+6\. கண்டது மன்னும் ஒருநாள் அலர்மன்னும்  
+திங்களைப் பாம்புகொண் டற்று.  
+One lasting day we met alone  
+Lasting rumours eclipse our moon.        1146  
 </details>
 
 <details><summary>मूलम् - ११४६</summary>
@@ -20978,6 +30156,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मातृक्रोधवचोरूपसलिलेनापि पोषितः ॥ ११४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११४७</summary>
+
+7\. ஊரவர் கௌவை எருவாக அன்னைசொல்  
+நீராக நீளும்இந் நோய்.  
+Scandal manures; mother's refrain  
+Waters the growth of this love-pain.        1147  
+</details>
+
 <details><summary>मूलम् - ११४७</summary>
 
 ऊरवर् कॆळवै ऎरुवाग अन्नैसॊल्  
@@ -20994,6 +30180,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दुष्प्रचारेण कामस्य निरोधो न हि शक्यते ।  
 यथा घृतेन वह्नेस्तु शमनं दुष्करं भुवि ॥ ११४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११४८</summary>
+
+8\. நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்  
+காமம் நுதுப்பேம் எனல்.  
+To quench the lust by rumour free  
+Is to quench fire by pouring ghee.        1148  
 </details>
 
 <details><summary>मूलम् - ११४८</summary>
@@ -21014,6 +30208,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तथा सत्यपवादार्थ न विभेमि कदाचन ॥ ११४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११४९</summary>
+
+9\. அலர்நாண ஒல்வதோ அஞ்சலோம்பு என்றார்  
+பலர்நாண நீத்தக் கடை.  
+Who said "fear not" flared up rumour  
+Why then should I blush this clamour?        1149  
+</details>
+
 <details><summary>मूलम् - ११४९</summary>
 
 अलर्नाण ऒल्वदो अञ्जलोम्बु ऎण्ड्रार्  
@@ -21032,6 +30234,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कामुकैर्वाञ्छितं सर्व साध्यते तत्तु तैस्ततः ॥ ११५०॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५०</summary>
+
+10\. தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்  
+கௌவை எடுக்கும்இவ் வூர்.  
+Town raising this cry, I desire  
+Consent is easy from my sire.        1150  
+</details>
+
 <details><summary>मूलम् - ११५०</summary>
 
 ताम्वेण्डिन् नल्गुवर् कादलर् याम्वेण्डुम्  
@@ -21041,6 +30251,7 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ### २ कऱ्‌पियल्  
 #### ०१
+
 <details><summary>विश्वास-प्रस्तुतिः - ११५१</summary>
 
 सॆल्लामै उण्डेल् ऎनक्कुरै मट्रुनिन्  
@@ -21051,6 +30262,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वितोगाभावविषयो यदि स्याद् ब्रुहि तन्मम ।  
 वियुज्यागमनं चेत्तु वद तत् सहतां नृणाम् ॥ ११५१॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११५१</summary>
+
+1\. செல்லாமை உண்டேல் எனக்குரை மற்றுநின்  
+வல்வரவு வாழ்வார்க்கு உரை.  
+Tell me if you but do not leave,  
+Your quick return to those who live.        1151  
 </details>
 
 <details><summary>मूलम् - ११५१</summary>
@@ -21071,6 +30290,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वियोगभीतिं जनयेत् अद्य, जातोऽपि सङ्गमः ॥ ११५२॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५२</summary>
+
+2\. இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்  
+புன்கண் உடைத்தால் புணர்வு.  
+His sight itself was pleasing, near  
+Embrace pains now by partings fear.        1152  
+</details>
+
 <details><summary>मूलम् - ११५२</summary>
 
 इन्गण् उडैत्तवर् पार्वल् पिरिवञ्जुम्  
@@ -21087,6 +30314,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्याद्वियोगः क्कचित साकं विश्वस्तेन प्रियेण च ।  
 तस्मात् प्रियेण रचितां प्रतिज्ञां नैव विश्वसेत् ॥ ११५३॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११५३</summary>
+
+3\. அரிதரோ தேற்றம் அறிவுடையார் கண்ணும்  
+பிரிவோ ரிடத்துண்மை யான்.  
+On whom shall I lay my trust hence  
+While parting lurks in knowing ones?        1153  
 </details>
 
 <details><summary>मूलम् - ११५३</summary>
@@ -21107,6 +30342,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रियस्य वचनं वक्तुर्दोषाय स्यात्, न श‍ृण्वतः ॥ ११५४॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५४</summary>
+
+4\. அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்  
+தேறியார்க்கு உண்டோ தவறு.  
+He parts whose love told me - fear not  
+Is my trust in him at default?        1154  
+</details>
+
 <details><summary>मूलम् - ११५४</summary>
 
 अळित्तञ्जल् ऎण्ड्रवर् नीप्पिन् तॆळित्तसॊल्  
@@ -21123,6 +30366,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यथा प्रियेण विरहो न स्यात्कार्य तथा त्वया ।  
 वियोगे प्रथमं प्राप्ते सङ्गमो दुर्लभस्ततः ॥ ११५५॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११५५</summary>
+
+5\. ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்  
+நீங்கின் அரிதால் புணர்வு.  
+Stop his parting - my life to save  
+Meeting is rare if he would leave.        1155  
 </details>
 
 <details><summary>मूलम् - ११५५</summary>
@@ -21143,6 +30394,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रत्यागत्य पुनः प्रीतिं स कथं दर्शयेत् त्वयि ॥ ११५६॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५६</summary>
+
+6\. பிரிவுரைக்கும் வன்கண்ண ராயின் அரிதவர்  
+நல்குவர் என்னும் நசை.  
+His hardness says, "I leave you now"  
+Is there hope of his renewed love?        1156  
+</details>
+
 <details><summary>मूलम् - ११५६</summary>
 
 पिरिवुरैक्कुम् वन्गण्णर् आयिन् अरिदवर्  
@@ -21159,6 +30418,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कृशहस्तप्रकोष्ठाभ्यां निस्सृता वलयालयः ।  
 किं नायकवियोगं न कथयेयुर्जनान् प्रति ॥ ११५७॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११५७</summary>
+
+7\. துறைவன் துறந்தமை தூற்றாகொல் முன்கை  
+இறைஇறவா நின்ற வளை.  
+Will not my gliding bangles' cry  
+The parting of my lord betray?        1157  
 </details>
 
 <details><summary>मूलम् - ११५७</summary>
@@ -21179,6 +30446,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रियनायकविश्लेषस्ततोऽपि व्यसनप्रदः ॥ ११५८॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५८</summary>
+
+8\. இன்னாது இனன்இல்ஊர் வாழ்தல் அதனினும்  
+இன்னாது இனியார்ப் பிரிவு.  
+Bitter is life in friendless place;  
+Worse is parting love's embrace!        1158  
+</details>
+
 <details><summary>मूलम् - ११५८</summary>
 
 इन्नादु इनन्इल्ऊर् वाऴ्दल् अदनिनुम्  
@@ -21197,6 +30472,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कामरोगसमानोऽयं न दहेद् दूरवत्यपि ॥ ११५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११५९</summary>
+
+9\. தொடின்கடின் அல்லது காமநோய் போல  
+விடிற்சுடல் ஆற்றுமோ தீ.  
+Can fire that burns by touch burn like  
+Parting of the hearts love-sick?        1159  
+</details>
+
 <details><summary>मूलम् - ११५९</summary>
 
 तॊडिऱ्‌चुडिन् अल्लदु कामनोय् पोल  
@@ -21213,6 +30496,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अङ्गीकृत च विश्लेषमनवाप्य ततो व्यथाम् ।  
 सोढ्वा वियोगं जीवन्त्यः सन्त्यनेकाः स्त्रियो भुवि ॥ ११६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११६०</summary>
+
+10\. அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்  
+பின்இருந்து வாழ்வார் பலர்.  
+Many survive pangs of parting  
+Not I this sore so distressing.        1160  
 </details>
 
 <details><summary>मूलम् - ११६०</summary>
@@ -21235,6 +30526,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निर्गते निर्गते वारि वर्धते स्त्रोतसो यथा ॥ ११६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११६१</summary>
+
+1\. மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்கு  
+ஊற்றுநீர் போல மிகும்.  
+It swells out like baled out spring  
+How to bear this pain so writhing?        1161  
+</details>
+
 <details><summary>मूलम् - ११६१</summary>
 
 मऱैप्पेन्मन् यानिह्दो नोयै इऱैप्पवर्क्कु  
@@ -21251,6 +30550,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नैव च्छादयितुं शक्ता कामरोगमहं बलात् ।  
 रोगदात्रे नायकाय वक्तुं लज्जा तु जायते ॥ ११६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११६२</summary>
+
+2\. கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்கு  
+உரைத்தலும் நாணுத் தரும்.  
+I can't conceal this nor complain  
+For shame to him who caused this pain.        1162  
 </details>
 
 <details><summary>मूलम् - ११६२</summary>
@@ -21271,6 +30578,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यष्टिमालम्व्य लम्बेते लज्जाकामौ तु पार्श्वयोः ॥ ११६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११६३</summary>
+
+3\. காமமும் நாணும் உயிர்காவாத் தூங்கும்என்  
+நோனா உடம்பி னகத்து.  
+In life - poles of this wearied frame  
+Are poised the weights of lust and shame.        1163  
+</details>
+
 <details><summary>मूलम् - ११६३</summary>
 
 काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎन्  
@@ -21287,6 +30602,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामरोगममाख्यऽयं महानस्ति पयोधरः ।  
 तत्तीर्त्वा गन्तुमुचितो दृढः पोतो न विद्यते ॥ ११६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११६४</summary>
+
+4\. காமக் கடல்மன்னும் உண்டோ அதுநீந்தும்  
+ஏமப் புணைமன்னும் இல்.  
+My lust is a sea, I do not see  
+A raft to go across safely.        1164  
 </details>
 
 <details><summary>मूलम् - ११६४</summary>
@@ -21307,6 +30630,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 खेदप्रदविरोधस्य निरासे ते कथं क्षमाः ॥ ११६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११६५</summary>
+
+5\. துப்பின் எவனாவர் மற்கொல் துயர்வரவு  
+நட்பினுள் ஆற்று பவர்.  
+What wilt they prove when they are foes  
+Who in friendship bring me woes!        1165  
+</details>
+
 <details><summary>मूलम् - ११६५</summary>
 
 तुप्पिन् ऎवनावर् मन्गॊल् तुयर्वरवु  
@@ -21323,6 +30654,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामो यदा सुखं दद्यात् तत्सुखं सिन्धुवन्महत् ।  
 वियोगाद् दुःखदे कामे तद् दुःखं जलधेर्महत् ॥ ११६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११६६</summary>
+
+6\. இன்பம் கடல்மற்றுக் காமம் அஃதடுங்கால்  
+துன்பம் அதனிற் பெரிது.  
+The pleasure in love is oceanful  
+But its pangs are more painful.        1166  
 </details>
 
 <details><summary>मूलम् - ११६६</summary>
@@ -21343,6 +30682,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गाढान्धकाररात्र्यां तु वसाम्येकाकिनी ह्महम् ॥ ११६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११६७</summary>
+
+7\. காமக் கடும்புனல் நீந்திக் கரைகாணேன்  
+யாமத்தும் யானே உளேன்.  
+Wild waves of love I swim shoreless  
+Pining alone in midnight hush.        1167  
+</details>
+
 <details><summary>मूलम् - ११६७</summary>
 
 कामक् कडुम्बुनल् नीन्दिक् करैगाणेन्  
@@ -21359,6 +30706,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सर्वलोक्जनान् निद्रावशान् कृत्वा तु मां परम् ।  
 सहायं प्राप्य तिष्ठन्ती यामिनी शोच्यतां गता ॥ ११६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११६८</summary>
+
+8\. மன்னுயி ரெல்லாம் துயிற்றி அளித்திரா  
+என்னல்லது இல்லை துணை.  
+Night's mercy lulls all souls to sleep  
+Keeping but me for companionship.        1168  
 </details>
 
 <details><summary>मूलम् - ११६८</summary>
@@ -21379,12 +30734,19 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वियुक्तनायकाच्चापि ताः क्रराः किल भान्ति मे ॥ ११६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११६९</summary>
+
+9\. கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்  
+நெடிய கழியும் இரா.  
+Crueller than that cruel he  
+Are midnight hours gliding slowly.        1169  
+</details>
+
 <details><summary>मूलम् - ११६९</summary>
 
 कॊडियार् कॊडुमैयिन् ताम्गॊडिय इन्नाळ्  
 नॆडिय कऴियुम् इरा।       ११६९
 </details>
-
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७०</summary>
 
@@ -21396,6 +30758,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियसामीप्यगमनशक्तिर्नेत्रस्य चित्तवत् ।  
 यदि स्यात् तर्हि मन्नेत्रे न स्यातां सलिलाकुले ॥ ११७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११७०</summary>
+
+10\. உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர்  
+நீந்தல மன்னோஎன் கண்.  
+Like heart, if my sight reaches him  
+It won't in floods of tears swim!        1170  
 </details>
 
 <details><summary>मूलम् - ११७०</summary>
@@ -21418,6 +30788,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कामाधिर्ववृधे तेन कम्मात् त्वं रुदसि वृथा ॥ ११७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११७१</summary>
+
+1\. கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய்  
+தாம்காட்ட யாம் கண்டது.  
+The eye pointed him to me; why then  
+They weep with malady and pine?        1171  
+</details>
+
 <details><summary>मूलम् - ११७१</summary>
 
 कण्दाम् कलुऴ्व तॆवन्गॊलो तण्डानोय्  
@@ -21434,6 +30812,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अविचार्य पुरा दृष्ट्वा प्रियं प्रीतिपुरस्सरम् ।  
 अद्याज्ञानात् कुतो नेत्रे खिद्येते प्रीतिसंयुते ॥ ११७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११७२</summary>
+
+2\. தெரிந்துணரா நோக்கிய உண்கண் பரிந்துணராப்  
+பைதல் உழப்பது எவன்.  
+Why should these dyed eyes grieve now sans  
+Regrets for their thoughtless glance?        1172  
 </details>
 
 <details><summary>मूलम् - ११७२</summary>
@@ -21454,6 +30840,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 रुदतः स्वयमद्यात्र, परीहासपदं हि तत् ॥ ११७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११७३</summary>
+
+3\. கதுமெனத் தாம்நோக்கித் தாமே கலுழும்  
+இதுநகத் தக்கது உடைத்து.  
+Eyes darted eager glance that day  
+It's funny that they weep today.        1173  
+</details>
+
 <details><summary>मूलम् - ११७३</summary>
 
 कदुमॆनत् तानोक्कित् तामे कलुऴुम्  
@@ -21470,6 +30864,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अनिवार्य कामरोगं शाश्वतं मम चक्षुषी ।  
 मह्मं दत्त्वा क्रन्दितुं ते ह्यशक्ते नीरवर्जिते ॥ ११७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११७४</summary>
+
+4\. பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா  
+உய்வில்நோய் என்கண் நிறுத்து.  
+These eyes left me to endless grief  
+Crying adry without relief.        1174  
 </details>
 
 <details><summary>मूलम् - ११७४</summary>
@@ -21490,6 +30892,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अयच्छतामिदानीं ते खिद्येते निद्रया विना ॥ ११७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११७५</summary>
+
+5\. படலாற்றா பைதல் உழக்கும் கடலாற்றாக்  
+காமநோய் செய்தஎன் கண்.  
+My eyes causing lust more than sea  
+Suffer that torture sleeplessly.        1175  
+</details>
+
 <details><summary>मूलम् - ११७५</summary>
 
 पडलाट्रा पैदल् उऴक्कुम् कडलाट्राक्  
@@ -21506,6 +30916,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामरोगप्रदाभ्यां मे नयनाभ्यां यदद्य तु ।  
 तुल्पोऽनुभूयते खेदः तत्तस्य खलु युज्यते ॥ ११७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११७६</summary>
+
+6\. ஓஒ இனிதே எமக்கிந்நோய் செய்தகண்  
+தாஅம் இதற்பட் டது.  
+Lo! eyes that wrought this love-sickness  
+Are victims of the same themselves.        1176  
 </details>
 
 <details><summary>मूलम् - ११७६</summary>
@@ -21526,6 +30944,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निर्निद्रे तेऽद्य खेदेन स्यातामश्रुविवर्जिते ॥ ११७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११७७</summary>
+
+7\. உழந்துழந்து உள்நீர் அறுக விழைந்திழைந்து  
+வேண்டி யவர்க்கண்ட கண்.  
+Let tears dry up pining pining  
+In eyes that eyed him longing longing.        1177  
+</details>
+
 <details><summary>मूलम् - ११७७</summary>
 
 उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु  
@@ -21542,6 +30968,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 हार्द प्रेम विना वाक्यमात्रात् प्रेमदर्शकः ।  
 अस्ति कश्रिददृष्ट्वा तं न नेत्रे शान्तिमापतुः ॥ ११७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११७८</summary>
+
+8\. பேணாது பெட்டார் உளர்மன்னோ மற்றவர்க்  
+காணாது அமைவில கண்.  
+Ther's he whose lips loved, not his heart  
+Yet my eyes pine seeing him not.        1178  
 </details>
 
 <details><summary>मूलम् - ११७८</summary>
@@ -21562,6 +30996,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 नायाति निद्रा तस्मान्मे विषण्णे नयने भृशम् ॥ ११७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११७९</summary>
+
+9\. வாராக்கால் துஞ்சா வரின்துஞ்சா ஆயிடை  
+ஆரஞர் உற்றன கண்.  
+He comes; no sleep; he goes; no sleep  
+This is the fate of eyes that weep.        1179  
+</details>
+
 <details><summary>मूलम् - ११७९</summary>
 
 वाराक्काल् तुञ्जा वरिन्दुञ्जा आयिडै  
@@ -21578,6 +31020,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गुह्यप्रकाशपटहतुल्यनेत्रयुता वयम् ।  
 अतोऽस्मन्नयने दृष्ट्वा रहस्यं जनाः ॥ ११८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११८०</summary>
+
+10\. மறைபெறல் ஊரார்க்கு அரிதன்றால் எம்போல்  
+அறைபறை கண்ணா ரகத்து.  
+Like drum beats eyes declare my heart;  
+From people who could hide his secret?        1180  
 </details>
 
 <details><summary>मूलम् - ११८०</summary>
@@ -21600,6 +31050,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ततोऽभून्मयि वैवर्ण्य कस्मै तत्कथयाम्यहम् ॥ ११८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११८१</summary>
+
+1\. நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தஎன்  
+பண்பியார்க்கு உரைக்கோ பிற.  
+My lover's parting, I allowed  
+Whom to complain my hue pallid?        1181  
+</details>
+
 <details><summary>मूलम् - ११८१</summary>
 
 नयन्दवर्क्कु नल्गामै नेर्न्देन् पसन्दवॆन्  
@@ -21616,6 +31074,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''नायकेनार्पितं चेदमि'' ति सन्तोषहेतुना ।  
 वैवर्ण्य मम देहेऽस्मिन् व्याप्य सर्वत्र वर्तते ॥ ११८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११८२</summary>
+
+2\. அவர்தந்தார் என்னும் தகையால் இவர்தந்தென்  
+மேனிமேல் ஊரும் பசப்பு.  
+Claiming it is begot through him  
+Pallor creeps and rides over my frame.        1182  
 </details>
 
 <details><summary>मूलम् - ११८२</summary>
@@ -21636,6 +31102,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मत्तः सौन्दर्यलज्जे तु प्रत्यगृह्णान्मुदान्वितः ॥ ११८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११८३</summary>
+
+3\. சாயலும் நாணும் அவர்கொண்டார் கைம்மாறா  
+நோயும் பசலையும் தந்து.  
+He seized my beauty and modesty  
+Leaving pangs and Pallor to me.        1183  
+</details>
+
 <details><summary>मूलम् - ११८३</summary>
 
 सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा  
@@ -21652,6 +31126,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्मरामि नायकेनोक्तं तद्वीर्य च वदाम्यहम् ।  
 अथापि जातं वैवर्ण्य, न जाने वञ्चनामिमाम् ॥ ११८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११८४</summary>
+
+4\. உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால்  
+கள்ளம் பிறவோ பசப்பு.  
+He is my thought, his praise my theme  
+Yet this pallor steals over my frame.        1184  
 </details>
 
 <details><summary>मूलम् - ११८४</summary>
@@ -21672,6 +31154,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 पश्यात्र सद्यो वैवर्ण्य मम देहमुपागमत् ॥ ११८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११८५</summary>
+
+5\. உவக்காண்எம் காதலர் செல்வார் இவக்காண்என்  
+மேனி பசப்பூர் வது.  
+My lover departed me there  
+And pallor usurped my body here.        1185  
+</details>
+
 <details><summary>मूलम् - ११८५</summary>
 
 उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎन्  
@@ -21688,6 +31178,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 यथा दीपतिरोधानं प्रतीक्षद्वर्तते तमः ।  
 तथाऽऽलिङ्गनविच्छेदं वैवर्ण्य संप्रतीक्षते ॥ ११८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११८६</summary>
+
+6\. விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கன்  
+முயக்கற்றம் பார்க்கும் பசப்பு.  
+Just as darkness waits for light-off  
+Pallor looks for lover's arms-off.        1186  
 </details>
 
 <details><summary>मूलम् - ११८६</summary>
@@ -21708,6 +31206,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अत्रान्तरे तु वैवर्ण्य मद्देहे व्यापृतं वभौ ॥ ११८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११८७</summary>
+
+7\. புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்  
+அள்ளிக்கொள் வற்றே பசப்பு.  
+From his embrace I turned a nonce  
+This pallor swallowed me at once.        1187  
+</details>
+
 <details><summary>मूलम् - ११८७</summary>
 
 पुल्लिक् किडन्देन् पुडैबॆयर्न्देन् अव्वळविल्  
@@ -21724,6 +31230,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''वैवर्ण्य प्रापदेषे'' ति वक्तारः मन्ति भृरिशः ।  
 ''प्रियो ययौ वियुज्यैनामि'' ति वक्ता न विद्यते ॥ ११८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११८८</summary>
+
+8\. பசந்தாள் இவள்என்பது அல்லால் இவளைத்  
+துறந்தார் அவர்என்பார் இல்.  
+On my pallor they cast a slur  
+But none says "lo he parted her".        1188  
 </details>
 
 <details><summary>मूलम् - ११८८</summary>
@@ -21744,6 +31258,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यदि स्यात्तर्हि मद्देहवैवर्ण्यान्नास्ति मे व्यथा ॥ ११८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११८९</summary>
+
+9\. பசக்கமன் பட்டாங்கென் மேனி நயப்பித்தார்  
+நல்நிலையார் ஆவர் எனின்.  
+Let all my body become pale  
+If he who took my leave fares well.        1189  
+</details>
+
 <details><summary>मूलम् - ११८९</summary>
 
 पसक्कमन् पट्टाङ्गॆन् मेनि नयप्पित्तार्  
@@ -21760,6 +31282,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वियुक्त मम सम्मत्या प्रियं खिन्न जना यदि ।  
 न निन्देयुस्तदा श्लाघ्या विवर्णेयमिति प्रथा ॥ ११९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११९०</summary>
+
+10\. பசப்பெஎனப் பேர்பெறுதல் நன்றே நயப்பித்தார்  
+நல்காமை தூற்றார் எனின்.  
+Let people call me all pallid  
+But my lover let them not deride.        1190  
 </details>
 
 <details><summary>मूलम् - ११९०</summary>
@@ -21782,6 +31312,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बीजावापं विना लब्धफला स्याल्लक्ष्यजीविते ॥ ११९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११९१</summary>
+
+1\. தாம்விழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே  
+காமத்துக் காழில் கனி.  
+Stoneless fruit of love they have  
+Who are beloved by those they love.        1191  
+</details>
+
 <details><summary>मूलम् - ११९१</summary>
 
 ताम्वीऴ्वार् तम्वीऴप् पॆट्रवर् पॆट्रारे  
@@ -21798,6 +31336,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वानुरक्तासु नारीषु नायकैः प्रेमदर्शनम् ।  
 जन्तूनां विषये मेघकृतवृष्टिसमं भवेत् ॥ ११९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११९२</summary>
+
+2\. வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு  
+வீழ்வார் அளிக்கும் அளி.  
+The lover - and -beloved's self-givings  
+Are like rains to living beings.        1192  
 </details>
 
 <details><summary>मूलम् - ११९२</summary>
@@ -21818,6 +31364,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जातेऽपि सङ्गमो भूयादिति गर्वयुतास्तु ताः ॥ ११९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११९३</summary>
+
+3\. வீழுநர் வீழப் படுவார்க்கு அமையுமே  
+வாழுநம் என்னும் செருக்கு.  
+The pride of living is for those  
+Whose love is returned by love so close.        1193  
+</details>
+
 <details><summary>मूलम् - ११९३</summary>
 
 वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे  
@@ -21834,6 +31388,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्ववाञ्छितप्रियतमो यस्यां प्रीतिं न दर्शयेत् ।  
 अन्येषां स्पृहणीयां च भाग्यहीनां हि तां विदुः ॥ ११९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११९४</summary>
+
+4\. வீழப் படுவார் கெழீஇயிலர் தாம்வீழ்வார்  
+வீழப் படாஅர் எனின்.  
+Whose love is void of love in turn  
+Are luckless with all esteems they earn.        1194  
 </details>
 
 <details><summary>मूलम् - ११९४</summary>
@@ -21854,6 +31416,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न कुर्यच्चेत् तदा स्त्रीणां किं तैरस्ति प्रयोजनम् ॥ ११९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११९५</summary>
+
+5\. நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ  
+தாம்காதல் கொள்ளாக் கடை.  
+What can our lover do us now  
+If he does not requite our love?        1195  
+</details>
+
 <details><summary>मूलम् - ११९५</summary>
 
 नाम्गादल् कॊण्डार् नमक्कॆवन् सॆय्बवो  
@@ -21870,6 +31440,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 एकपक्षानुरागास्तु जनयेद्यसनं महत् ।  
 कामस्तुलाभारसमो द्विपक्षस्थः सुखप्रदः ॥ ११९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११९६</summary>
+
+6\. ஒருதலையான் இன்னாது காமம்காப் போல  
+இருதலை யானும் இனிது.  
+One sided pains; love in both souls  
+Poises well like shoulder poles.        1196  
 </details>
 
 <details><summary>मूलम् - ११९६</summary>
@@ -21890,6 +31468,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मदीयदुःखवैवर्ण्ये जानीयान्मदनः कथम् ॥ ११९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११९७</summary>
+
+7\. பருவரலும் பைதலும் காணான்கொல் காமன்  
+ஒருவர்கண் நின்றொழுகு வான்.  
+This cupid aims at me alone;  
+Knows he not my pallor and pain?        1197  
+</details>
+
 <details><summary>मूलम् - ११९७</summary>
 
 परुवरलुम् पैदलुम् काणान्गॊल् कामन्  
@@ -21906,6 +31492,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वानुरक्तप्रियेणोक्तमश्रुत्वा मधुरं वचः ।  
 वियुज्य भुवि जीवन्त्यो भवन्ति क्लेशभाजनम् ॥ ११९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११९८</summary>
+
+8\. வீழ்வாரின் இன்சொல் பெறாஅது உலகத்து  
+வாழ்வாரின் வன்கணார் இல்.  
+None is so firm as she who loves  
+Without kind words from whom she dotes.        1198  
 </details>
 
 <details><summary>मूलम् - ११९८</summary>
@@ -21926,6 +31520,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तत्कीर्तिश्रवणं नूनं श्रवणानन्दं मम ॥ ११९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - ११९९</summary>
+
+9\. நசைஇயார் நல்கார் எனினும் அவர்மாட்டு  
+இசையும் இனிய செவிக்கு.  
+The lover accords not my desires  
+And yet his words sweeten my ears.        1199  
+</details>
+
 <details><summary>मूलम् - ११९९</summary>
 
 नसैइयार् नल्गार् ऎनिनुम् अवर्माट्टु  
@@ -21942,6 +31544,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रेमहीने तु पुरुषे हे चित्त! वदसि व्यथाम् ।  
 न तेन तव लाभोऽस्ति जलघेर्गोपनं यथा ॥ १२००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२००</summary>
+
+10\. உறாஅர்க்கு உறுநோய் உரைப்பாய் கடலைச்  
+செறாஅஅய் வாழிய நெஞ்சு.  
+You tell your grief to listless he  
+Bless my heart! rather fill up sea!        1200  
 </details>
 
 <details><summary>मूलम् - १२००</summary>
@@ -21964,6 +31574,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्मृतमात्रेण चानन्ददाता कामो विशिष्यते ॥ १२०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२०१</summary>
+
+1\. உள்ளினும் தீராப் பெருமகிழ் செய்தலால்  
+கள்ளினும் காமம் இனிது.  
+Love is sweeter than wine; for vast  
+Is its delight at very thought.        1201  
+</details>
+
 <details><summary>मूलम् - १२०१</summary>
 
 उळ्ळिनुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्  
@@ -21980,6 +31598,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विश्लेपेऽपि प्रियः स्वीयप्रियां चित्तं यदि स्मरेत् ।  
 तदेव वारयेत् खेदं, सर्वदा मोददः स्मरः ॥ १२०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२०२</summary>
+
+2\. எனைத்தொன்று இனிதேகாண் காமம்தாம் வீழ்வார்  
+நினைப்ப வருவதொன்று இல்.  
+Pains are off at the lover's thought  
+In all aspects this love is sweet.        1202  
 </details>
 
 <details><summary>मूलम् - १२०२</summary>
@@ -22000,6 +31626,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञायते तेन मां स्मृत्वा प्रियो व्यस्मरदिप्यपि ॥ १२०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२०३</summary>
+
+3\. நினைப்பவர் போன்று நினையார்கொல் தும்மல்  
+சினைப்பது போன்று கெடும்.  
+To sneeze I tried hence but could not  
+Me he tried to think but did not.        1203  
+</details>
+
 <details><summary>मूलम् - १२०३</summary>
 
 निनैप्पवर् पोण्ड्रु निनैयार्गॊल् तुम्मल्  
@@ -22016,6 +31650,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वासं करोति मच्चिते सर्वदा प्रियकामुकः ।  
 तथा तदीयचित्तेऽपि वसामि किमहं न वा? ॥ १२०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२०४</summary>
+
+4\. யாமும் உளேம்கொல் அவர்நெஞ்சத்து எந்நெஞ்சத்து  
+ஓஒ உளரே அவர்.  
+Have I a place within his heart?  
+Ah from mine he will never depart.        1204  
 </details>
 
 <details><summary>मूलम् - १२०४</summary>
@@ -22036,6 +31678,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हृदये मम निर्लजं कथं नित्यं वसेदसौ ॥ १२०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२०५</summary>
+
+5\. தம்நெஞ்சத்து எம்மைக் கடிகொண்டார் நாணார்கொல்  
+எம்நெஞ்சத்து ஓவா வரல்.  
+Shame! My heart often he enters  
+Banning me entry into his.        1205  
+</details>
+
 <details><summary>मूलम् - १२०५</summary>
 
 तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्  
@@ -22052,6 +31702,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियेण भुक्तदिवसान् स्मृत्वा जीवामि संप्रति ।  
 तदभावे जीवनं मे सर्वदा दुर्लभं भवेत् ॥ १२०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२०६</summary>
+
+6\. மற்றியான் என்னுளேன் மன்னோ அவரொடுயான்  
+உற்றநாள் உள்ள உளேன்.  
+Beyond the thought of life with him  
+What else of life can I presume?        1206  
 </details>
 
 <details><summary>मूलम् - १२०६</summary>
@@ -22072,6 +31730,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यद्यहं तं विस्मरेयं न जाने किं भवेदिति ॥ १२०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२०७</summary>
+
+7\. மறப்பின் எவனாவன் மற்கொல் மறப்பறியேன்  
+உள்ளினும் உள்ளம் சுடும்.  
+What will happen if I forget  
+When his memory burns my heart?        1207  
+</details>
+
 <details><summary>मूलम् - १२०७</summary>
 
 मऱप्पिन् ऎवनावन् मऱ्‌कॊल् मऱप्पऱियेन्  
@@ -22088,6 +31754,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियं स्मराम्यहोरात्रं तदर्थ न स कुप्यानि ।  
 महोपकारं मन्येऽहमिदं तेन कृतं मम ॥ १२०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२०८</summary>
+
+8\. எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ  
+காதலர் செய்யும் சிறப்பு.  
+I bring him to ceaseless memory  
+He chides not; and thus honours me.        1208  
 </details>
 
 <details><summary>मूलम् - १२०८</summary>
@@ -22108,6 +31782,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ???? तत्कृत्यं ???? ॥ १२०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२०९</summary>
+
+9\. விளியும்என் இன்னுயிர் வேறல்லம் என்பார்  
+அளியின்மை ஆற்ற நினைத்து.  
+Dear life ebbs away by thought  
+Of him who said we are one heart.        1209  
+</details>
+
 <details><summary>मूलम् - १२०९</summary>
 
 विळियुमॆन् इन्नुयिर् वेऱल्लम् ऎन्बार्  
@@ -22124,6 +31806,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियो मया सह स्थित्वा वियुज्याद्य जगाम ।  
 ???? चन्द्रमाः ! ॥ १२१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१०</summary>
+
+10\. விடாஅது சென்றாரைக் கண்ணினால் காணப்  
+படாஅதி வாழி மதி.  
+Hail moon! Set not so that I find  
+Him who left me but not my mind.        1210  
 </details>
 
 <details><summary>मूलम् - १२१०</summary>
@@ -22146,6 +31836,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निद्रायां तस्य चातिथ्यं कीदृशं करवाण्यहम् ॥ १२११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२११</summary>
+
+1\. காதலர் தூதொடு வந்த கனவினுக்கு  
+யாதுசெய் வேன்கொல் விருந்து.  
+How shall I feast this dream-vision  
+That brings the beloved's love-mission?        1211  
+</details>
+
 <details><summary>मूलम् - १२११</summary>
 
 कादलर् तूदॊडु वन्द कनविनुक्कु  
@@ -22162,6 +31860,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 नेत्रे निद्रावशं प्राप्ते स्वप्ने प्राप्तं प्रियं प्रति ।  
 कथं ''कृच्छेण जीवामी'' त्येतद् ब्रूयां विहेषतः ॥ १२१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१२</summary>
+
+2\. கயலுண்கண் யானிரப்பத் துஞ்சிற் கலந்தார்க்கு  
+உயலுண்மை சாற்றுவேன் மன்.  
+I beg these fish-like dark eyes sleep  
+To tell my lover how life I keep.        1212  
 </details>
 
 <details><summary>मूलम् - १२१२</summary>
@@ -22182,6 +31888,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वप्ने वा दर्शनात्तस्य जीवाम्यत्र कथञ्चन ॥ १२१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२१३</summary>
+
+3\. நனவினால் நல்கா தவரைக் கனவினால்  
+காண்டலின் உண்டென் உயிர்.  
+In wakeful hours who sees me not  
+I meet in dreams and linger yet.        1213  
+</details>
+
 <details><summary>मूलम् - १२१३</summary>
 
 ननविनाल् नल्गा तवरैक् कनविनाल्  
@@ -22198,6 +31912,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मयि जाग्रति यः प्रीतिं कामुको नाकरोन्मयि ।  
 स्वप्नेन स समानीतस्तत्न प्रीतिं करोम्यहम् ॥ १२१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१४</summary>
+
+4\. கனவினான் உண்டாகும் காமம் நனவினான்  
+நல்காரை நாடித் தரற்கு.  
+In dreams I enjoy his love-bliss  
+Who in wakeful hours I miss.        1214  
 </details>
 
 <details><summary>मूलम् - १२१४</summary>
@@ -22218,6 +31940,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अद्य स्वप्नगतानन्दो यः सोऽपि क्षणिकोऽभवत् ॥ १२१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२१५</summary>
+
+5\. நனவினாற் கண்டதூஉம் ஆங்கே கனவுந்தான்  
+கண்ட பொழுதெ இனிது.  
+Dream-sight of him delights at once  
+Awake- What of seeing him -hence.        1215  
+</details>
+
 <details><summary>मूलम् - १२१५</summary>
 
 ननविनाल् कण्डदूउम् आङ्गे कनवुन्दान्  
@@ -22234,6 +31964,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भुवि जाग्रदवस्थेयं सर्वदा न भवेद्यदि ।  
 तदा प्रियः स्वप्नदृष्टो मां वियुज्य न यास्पति ॥ १२१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१६</summary>
+
+6\. நனவென ஒன்றில்லை யாயின் கனவினால்  
+காதலர் நீங்கலர் மன்.  
+If wakeful hours cometo nought  
+My lov'r in dreams would nev'r depart        1216  
 </details>
 
 <details><summary>मूलम् - १२१६</summary>
@@ -22254,6 +31992,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वप्नो परं समागत्य मां कुतो व्यथयत्यसौ ॥ १२१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२१७</summary>
+
+7\. நனவினால் நல்காக் கொடியார் கனவினால்  
+என்எம்மைப் பீழிப் பது.  
+Awake he throws my overtures  
+Adream, ah cruel! he tortures!        1217  
+</details>
+
 <details><summary>मूलम् - १२१७</summary>
 
 ननविनाल् नल्गाक् कॊडियार् कनवनाल्  
@@ -22270,6 +32016,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मत्स्वप्ने कामुकः प्राप्य स्कन्धमारुह्य वर्तते ।  
 निद्रान्ते पूर्ववत्सोऽयं मम मानसमाविशेत् ॥ १२१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१८</summary>
+
+8\. துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்  
+நெஞ்சத்தர் ஆவர் விரைந்து.  
+Asleep he embraces me fast;  
+Awake he enters quick my heart.        1218  
 </details>
 
 <details><summary>मूलम् - १२१८</summary>
@@ -22290,6 +32044,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रियं प्रीतिमकुर्वन्तं स्मृत्वा खेदयुताः स्त्रियः ॥ १२१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२१९</summary>
+
+9\. நனவினால் நல்காரை நோவர் கனவினால்  
+காதலர்க் காணா தவர்.  
+In dreams who don't discern lovers  
+Rue their missing in wakeful hours.        1219  
+</details>
+
 <details><summary>मूलम् - १२१९</summary>
 
 ननविनाल् नल्गारै नोवर् कनविनाल्  
@@ -22306,6 +32068,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''त्याक्तवाऽस्मान् नायकः प्रायादि'' ति निन्दन्ति याः स्त्रियः ।  
 अविर्भवन्तं स्वप्ने तं न निन्दन्ति हि ताः किमु ॥ १२२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२०</summary>
+
+10\. நனவினால் நம்நீத்தார் என்பர் கனவினால்  
+காணார்கொல் இவ்வூ ரவர்.  
+The townsmen say he left me thus  
+In dreams failing to see him close.        1220  
 </details>
 
 <details><summary>मूलम् - १२२०</summary>
@@ -22328,6 +32098,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्राणभुग्यमरूपस्त्वं सायङ्काल ! विभासि मे ॥ १२२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२२१</summary>
+
+1\. மாலையோ அல்லை மணந்தார் உயிர்உண்ணும்  
+வேலைநீ வாழி பொழுது.  
+Bless you! you are not eventide  
+But killing dart to wedded bride!        1221  
+</details>
+
 <details><summary>मूलम् - १२२१</summary>
 
 मालैयो अल्लै मणन्दार् उयिरुण्णुम्  
@@ -22344,6 +32122,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सायंसन्ध्ये ! अयि भ्रान्ते ! खिन्ना त्वं दृश्यसेऽधुना ।  
 तव प्रियो मत्प्रियवद् दयाशून्योऽभवत् किमु? ॥ १२२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२२</summary>
+
+2\. புன்கண்ணை வாழி மருள்மாலை எம்கேள்போல்  
+வன்கண்ண தோநின் துணை.  
+Hail sad eventide dim and grim  
+Has your mate like mine, cruel whim!        1222  
 </details>
 
 <details><summary>मूलम् - १२२२</summary>
@@ -22364,6 +32150,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सैवाद्य मम नैराश्यमृलकं खेदमातनोत् ॥ १२२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२२३</summary>
+
+3\. பனிஅரும்பிப் பைதல்கொள் மாலைதுனி அரும்பித்  
+துன்பம் வளர வரும்.  
+Wet eve came pale and trembling then  
+Now it makes bold with growing pain.        1223  
+</details>
+
 <details><summary>मूलम् - १२२३</summary>
 
 पनिअरुम्बिप् पैदल्गॊळ् मालै तुनिअरुम्बित्  
@@ -22380,6 +32174,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रिये दूरं गते वध्यस्थलं घातकवत् स्वयम् ।  
 सायङ्कालः समागत्य मम प्राणान् हरत्ययम् ॥ १२२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२४</summary>
+
+4\. காதலர் இல்வழி மாலை கொலைக்களத்து  
+ஏதிலர் போல வரும்.  
+Lover away, comes eventide  
+Like slayer to field of homicide.        1224  
 </details>
 
 <details><summary>मूलम् - १२२४</summary>
@@ -22400,6 +32202,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सायङ्कालकृते कोऽयमपकारो मया कृतः ॥ १२२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२२५</summary>
+
+5\. காலைக்குச் செய்தநன்று என்கொல்? எவன்கொல்யான்  
+மாலைக்குச் செய்த பகை.  
+What good have I done to morning  
+And what evil to this evening?        1225  
+</details>
+
 <details><summary>मूलम् - १२२५</summary>
 
 कालैक्कुच् चॆय्दनण्ड्रु ऎन्गॊल् ऎवन्गॊल्यान्  
@@ -22416,6 +32226,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामुकेन यदाऽहं तु न्यवसं प्रेमपूर्वकम् ।  
 सायङ्कालो व्यथां कुर्योदित्येतन्नाविदं पुरा ॥ १२२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२६</summary>
+
+6\. மாலைநோய் செய்தல் மணந்தார் அகலாத  
+காலை அறிந்தது இலேன்.  
+Evening pangs I have not known  
+When my lord nev'r left me alone.        1226  
 </details>
 
 <details><summary>मूलम् - १२२६</summary>
@@ -22436,6 +32254,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मध्याह्ने पक्कतां प्राप्य सायं विकसति स्वयम् ॥ १२२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२२७</summary>
+
+7\. காலை அரும்பிப் பகலெல்லாம் போதாகி  
+மாலை மலரும்இந் நோய்.  
+Budding at dawn burgeoning all day  
+This disease blooms in evening gay.        1227  
+</details>
+
 <details><summary>मूलम् - १२२७</summary>
 
 कालै अरुम्बिप् पगलॆल्लाम् पोदागि  
@@ -22452,6 +32278,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सायङ्कालस्य तीक्ष्णस्य दूतो भूत्वा स्वयं किल ।  
 गोपहस्तगतो वेणुरायुधात्मा हिनस्ति माम् ॥ १२२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२८</summary>
+
+8\. அழல்போலும் மாலைக்குத் தூதாகி ஆயன்  
+குழல்போலும் கொல்லும் படை.  
+A deadly arm, this shepherd's flute  
+Hails flaming eve and slays my heart.        1228  
 </details>
 
 <details><summary>मूलम् - १२२८</summary>
@@ -22472,6 +32306,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यथाऽहं तद्वदन्येऽपि ग्रामीणाः खेदमाप्नुयुः ॥ १२२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२२९</summary>
+
+9\. பதிமருண்டு பைதல் உழக்கும் மதிமருண்டு  
+மாலை படர்தரும் போழ்து.  
+Deluding eve if it prolongs  
+The whole town will suffer love-pangs.        1229  
+</details>
+
 <details><summary>मूलम् - १२२९</summary>
 
 पदिमरुण्डु पैदल् उऴक्कुम् मदिमरुण्डु  
@@ -22488,6 +32330,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 पत्युर्वियोगकालेऽपि स्थिताः प्राणाः, धनात्यये ।  
 गतं प्रियं विचिन्त्याद्य सायं निर्यान्ति देहतः ॥ १२३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२३०</summary>
+
+10\. பொருள்மாலை யாளரை உள்ளி மருள்மாலை  
+மாயும்என் மாயா உயிர்.  
+Thinking of him whose quest is wealth  
+My life outlives the twilight stealth.        1230  
 </details>
 
 <details><summary>मूलम् - १२३०</summary>
@@ -22509,6 +32359,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तं स्मृत्वा रोदनान्नेत्रे पुष्पैः स्यातां जितेऽधुना ॥ १२३१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२३१</summary>
+
+1\. சிறுமை நமக்குஒழியச் சேட்சென்றார் உள்ளி  
+நறுமலர் நாணின கண்.  
+To lift from want he left me afar  
+His thought makes my eyes blush the flower.        1231  
+</details>
+
 <details><summary>मूलम् - १२३१</summary>
 
 सिऱुमै नमक्कॊऴियच् चेट्चॆण्ड्रार् उळ्ळि  
@@ -22525,6 +32383,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ???? करोदिति ।  
 वार्तामश्रुनिभान्नेत्रे विवर्णे वदतः किमु ॥ १२३२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२३२</summary>
+
+2\. நயந்தவர் நல்காமை சொல்லுவ போலும்  
+பசந்து பனிவாரும் கண்.  
+My pale tearful eyes betray  
+The hardness of my husband, away.        1232  
 </details>
 
 <details><summary>मूलम् - १२३२</summary>
@@ -22545,6 +32411,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कृशौ भूत्वाद्य विश्लेषं बोधयन्ताविव स्थितौ ॥ १२३३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२३३</summary>
+
+3\. தணந்தமை சால அறிவிப்ப போலும்  
+மணந்தநாள் வீங்கிய தோள்.  
+These arms that swelled on nuptial day  
+Now shrunk proclaim "He is away".        1233  
+</details>
+
 <details><summary>मूलम् - १२३३</summary>
 
 तणन्दमै साल अऱिविप्प पोलुम्  
@@ -22561,6 +32435,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्कन्धौ नायकविश्लेषात् क्षीणौ शोभाविवर्जितौ ।  
 तदर्थ क्षीणहस्तभ्यां बभूवुर्वलयाश्च्युताः ॥ १२३४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२३४</summary>
+
+4\. பணைநீங்கிப் பைந்தொடி சோரும் துணைநீங்கித்  
+தொல்கவின் வாடிய தோள்.  
+Bracelets slip off the arms that have  
+Lost old beauty for He took leave.        1234  
 </details>
 
 <details><summary>मूलम् - १२३४</summary>
@@ -22581,6 +32463,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 निर्दयस्य प्रियस्यास्य काठिन्यगुणमूचतुः ॥ १२३५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२३५</summary>
+
+5\. கொடியார் கொடுமை உரைக்கும் தொடியொடு  
+தொல்கவின் வாடிய தோள்.  
+Bereft of bracelets and old beauty  
+Arms tell the cruel's cruelty.        1235  
+</details>
+
 <details><summary>मूलम् - १२३५</summary>
 
 कॊडियार् कॊडुमै उरैक्कुम् तॊडियॊडु  
@@ -22597,6 +32487,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्कन्धक्षयं ततो भ्रशं वलयानां निरोक्ष्य च ।  
 प्रियं निन्दन्ति कठिनं जनाः, खिन्नस्ततोऽस्म्यहम् ॥ १२३६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२३६</summary>
+
+6\. தொடியொடு தோள்நெகிழ நோவல் அவரைக்  
+கொடியர் எனக்கூறல் நொந்து.  
+Arms thin, armlets loose make you call  
+My sire cruel; that pains my soul.        1236  
 </details>
 
 <details><summary>मूलम् - १२३६</summary>
@@ -22617,6 +32515,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 विनिवेद्य ततो जातं महत्त्वं प्राप्यतां त्वया ॥ १२३७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२३७</summary>
+
+7\. பாடு பெறுதியோ நெஞ்சே கொடியார்க்கென்  
+வாடுதோள் பூசல் உரைத்து.  
+Go and tell the cruel, O mind  
+Bruit ov'r my arms and glory find.        1237  
+</details>
+
 <details><summary>मूलम् - १२३७</summary>
 
 पाडु पॆऱुदियो नॆञ्जे कॊडियार्क्कॆन्  
@@ -22633,6 +32539,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 परिष्यवज्य प्रियं हस्तो यदा तु शिथिलीकृतः ।  
 तदा वलयहस्तायाः भालमासित्तु निष्प्रभम् ॥ १२३८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२३८</summary>
+
+8\. முயங்கிய கைகளை ஊக்கப் பசந்தது  
+பைந்தொடிப் பேதை நுதல்.  
+The front of this fair one O paled  
+As my clasping arms loosed their hold.        1238  
 </details>
 
 <details><summary>मूलम् - १२३८</summary>
@@ -22653,6 +32567,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्यास्तदा शीतनेत्रे स्यातां वैवर्ण्यसंयुते ॥ १२३९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२३९</summary>
+
+9\. முயக்கிடைத் தண்வளி போழப் பசப்புற்ற  
+பேதை பெருமழைக் கண்.  
+Cool breeze crept between our embrace  
+Her large rain-cloud-eyes paled at once.        1239  
+</details>
+
 <details><summary>मूलम् - १२३९</summary>
 
 मुयक्किडैत् तण्वळि पोऴप् पसप्पुट्र  
@@ -22669,6 +32591,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियायाः भालदेशस्थवैवर्ण्यं समुदीक्ष्य तु ।  
 तदीयनयनाक्रान्तवैवर्ण्यं प्राप खिन्नताम् ॥ १२४०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२४०</summary>
+
+10\. கண்ணின் பசப்போ பருவரல் எய்தின்றே  
+ஒண்ணுதல் செய்தது கண்டு.  
+Pale eyes pained seeing the pallor  
+Of the bright forehead of this fair.        1240  
 </details>
 
 <details><summary>मूलम् - १२४०</summary>
@@ -22691,6 +32621,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हे चित्त ! सम्यगालेच्य न ब्रूयाः किन्तु तत्तु मे ॥ १२४१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२४१</summary>
+
+1\. நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்  
+எவ்வநோய் தீர்க்கும் மருந்து.  
+Think of, O heart, some remedy  
+To cure this chronic malady.        1241  
+</details>
+
 <details><summary>मूलम् - १२४१</summary>
 
 निनैत्तॊण्ड्रु सॊल्लायो नॆञ्जे ऎनैत्तॊण्ड्रुम्  
@@ -22707,6 +32645,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामुके मयि चाप्रीते हे चित्त ! त्वं परं कुतः ? ।  
 स्मृत्वा तं दुःखमाप्नोषि भ्रान्तस्त्वं विजयी भवा ॥ १२४२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२४२</summary>
+
+2\. காதல் அவரில ராகநீ நோவது  
+பேதைமை வாழிஎன் நெஞ்சு.  
+Bless O mind! you pine in vain  
+For me he has no love serene.        1242  
 </details>
 
 <details><summary>मूलम् - १२४२</summary>
@@ -22727,6 +32673,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 खेदप्रदः प्रियो मां तु स्मृत्वा नायाति चान्तिकम् ॥ १२४३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२४३</summary>
+
+3\. இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்  
+பைதல்நோய் செய்தார்கண் இல்.  
+O mind, why pine and sit moody?  
+Who made you so pale lacks pity.        1243  
+</details>
+
 <details><summary>मूलम् - १२४३</summary>
 
 इरुन्दुळ्ळि ऎन्बरिदल् नॆञ्जे परिन्दुळ्ळल्  
@@ -22743,6 +32697,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 हे मानस ! प्रियं ???? ष्टुं मन्नेत्रे ।  
 इमे नेत्रे त्वया साकं नीत्वा गच्छ तदन्तिकम् ॥ १२४४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२४४</summary>
+
+4\. கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத்  
+தின்னும் அவர்காண லுற்று.  
+Take these eyes and meet him, O heart  
+Or their hunger will eat me out.        1244  
 </details>
 
 <details><summary>मूलम् - १२४४</summary>
@@ -22763,6 +32725,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 हे चित्त ! कथमस्माभिरयं त्यक्तुं हि शक्यते ॥ १२४५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२४५</summary>
+
+5\. செற்றா ரெனக்கை விடல்உண்டோ நெஞ்சேயாம்  
+உற்றால் உறாஅ தவர்.  
+He spurns our love and yet, O mind,  
+Can we desert him as unkind?        1245  
+</details>
+
 <details><summary>मूलम् - १२४५</summary>
 
 सॆट्रार् ऎनक्कै विडल्उण्डो नॆञ्जेयाम्  
@@ -22779,6 +32749,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 त्वत्प्रियस्त्वां वियुज्याथ मिलेद्यदि तदा पुनः ।  
 रतिं न कुरुषे धैर्यात् पश्चात्कुप्यसि हे मनः ! ॥ १२४६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२४६</summary>
+
+6\. கலந்துணர்ந்தும் காதலர்க் கண்டால் புலந்துணராய்  
+பொய்க்காய்வு காய்திஎன் நெஞ்சு.  
+Wrath is false, O heart, face-to face.  
+Sans huff, you rush to his sweet embrace.        1246  
 </details>
 
 <details><summary>मूलम् - १२४६</summary>
@@ -22799,6 +32777,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदेतदुभयं सोढुमेकदा नैव शक्नुयाम् ॥ १२४७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२४७</summary>
+
+7\. காமம் விடுஒன்றோ நாண்விடு நன்னெஞ்சே  
+யானோ பொறேன்இவ் விரண்டு.  
+Off with love O mind, or shame  
+I cannot endure both of them.        1247  
+</details>
+
 <details><summary>मूलम् - १२४७</summary>
 
 कामम् विडुऒण्ड्रो नाण्विडु नन्नॆञ्जे  
@@ -22815,6 +32801,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वियोगसमये नाथो नाकरोत् प्रीतिमित्यत्ः ।  
 खिन्नस्तमनुसृत्य त्वं चित्त ! यासि कुतो भ्रमात् ॥ १२४८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२४८</summary>
+
+8\. பரிந்தவர் நல்காரென்று ஏங்கிப் பிரிந்தவர்  
+பின்செல்வாய் பேதைஎன் நெஞ்சு.  
+Without pity he would depart!  
+You sigh and seek his favour, poor heart!        1248  
 </details>
 
 <details><summary>मूलम् - १२४८</summary>
@@ -22835,6 +32829,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तमन्विष्य बहिः कस्मात् वृथा गच्छसि कुत्र वा ॥ १२४९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२४९</summary>
+
+9\. உள்ளத்தார் காத லவராக உள்ளிநீ  
+யாருழைச் சேறிஎன் நெஞ்சு.  
+The lover lives in Self you know;  
+Whom you think, mind to whom you go?        1249  
+</details>
+
 <details><summary>मूलम् - १२४९</summary>
 
 उळ्ळत्तार् काद लवराल् उळ्ळिनी  
@@ -22851,6 +32853,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 त्यक्त्वाऽस्मान् गतवन्तं तं प्रियं चित्ते निवेश्य ।  
 स्मृत्वा देहः कृशे भूत्वा शोभाविरहितोऽभवत् ॥ १२५०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२५०</summary>
+
+10\. துன்னாத் துறந்தாரை நெஞ்சத்து உடையேமா  
+இன்னும் இழத்தும் கவின்.  
+Without a thought he deserted us  
+To think of him will make us worse.        1250  
 </details>
 
 <details><summary>मूलम् - १२५०</summary>
@@ -22873,6 +32883,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कामनामकुठारोऽय भिनत्ति शतधा किल ॥ १२५१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२५१</summary>
+
+1\. காமக் கணிச்சி உடைக்கும் நிறையென்னும்  
+நாணுத்தாழ் வீழ்த்த கதவு.  
+Passion's axe shall break the door  
+Of reserve bolted with my honour.        1251  
+</details>
+
 <details><summary>मूलम् - १२५१</summary>
 
 कामक् कणिच्चि उडैक्कुम् निऱैयॆन्नुम्  
@@ -22889,6 +32907,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामनात्मकवस्त्वेतत्, नूनं दाक्षिण्यवर्जितम् ।  
 यतो मदीयं चित्तं तद्रात्रावपि नियोजयेत् ॥ १२५२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२५२</summary>
+
+2\. காம மெனஒன்றோ கண்ணின்றென் நெஞ்சத்தை  
+யாமத்தும் ஆளும் தொழில்.  
+The thing called lust is a heartless power  
+It sways my mind at midnight hour.        1252  
 </details>
 
 <details><summary>मूलम् - १२५२</summary>
@@ -22909,6 +32935,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मामतीत्य तु तद्वेगात् निर्याति क्षुतवद्बहिः ॥ १२५३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२५३</summary>
+
+3\. மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்  
+தும்மல்போல் தோன்றி விடும்.  
+How to hide this lust which shows  
+Itself while I sneeze unawares!        1253  
+</details>
+
 <details><summary>मूलम् - १२५३</summary>
 
 मऱैप्पेन्मन् कामत्तै यानो कुऱिप्पिण्ड्रित्  
@@ -22925,6 +32959,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 धैर्यवानहमित्यासीदद्यावधि मतिर्मम् ।  
 किन्त्वद्यान्तः स्थितः कामो निष्क्रम्य प्राविशत् सभाम् ॥ १२५४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२५४</summary>
+
+4\. நிறையுடையேன் என்பேன்மன் யானோஎன் காமம்  
+மறையிறந்து மன்று படும்.  
+I was proud of my sex-reserve  
+Lo lust betrays what I preserve.        1254  
 </details>
 
 <details><summary>मूलम् - १२५४</summary>
@@ -22945,6 +32987,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्थातुं धैर्येण कामिन्यो न जानन्ति कदापि ताः ॥ १२५५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२५५</summary>
+
+5\. செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்  
+உற்றார் அறிவதொன்று அன்று.  
+Dignity seeks not a deserter  
+But Love-sick is its innovator.        1255  
+</details>
+
 <details><summary>मूलम् - १२५५</summary>
 
 सॆट्रार्बिन् सॆल्लाप् पॆरुन्दगैमै कामनोय्  
@@ -22961,6 +33011,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मद्गतः कामरोगोऽयमवाच्यमहिमान्वितः ।  
 विरक्तस्य प्रियस्यानुगमनं मे यतो मतम् ॥ १२५६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२५६</summary>
+
+6\. செற்றவர் பின்சேறல் வேண்டி அளித்தரோ  
+எற்றென்னை உற்ற துயர்.  
+O Grief, my deserter you seek  
+Of your caprice what shall I speak!        1256  
 </details>
 
 <details><summary>मूलम् - १२५६</summary>
@@ -22981,6 +33039,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तर्हि लज्जाभिधं वस्तु नैव ज्ञानं भवेन्मम ॥ १२५७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२५७</summary>
+
+7\. நாணென ஒன்றோ அறியலம் காமத்தால்  
+பேணியார் பெட்ப செயின்.  
+When lover's love does what it desires  
+We forget all shame unawares.        1257  
+</details>
+
 <details><summary>मूलम् - १२५७</summary>
 
 नाणॆन ऒण्ड्रो अऱियलम् कामत्ताल्  
@@ -22997,6 +33063,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्त्र्वर्तिधैर्यसंज्ञाकप्राकारस्य विभेदनम् ।  
 वञ्चकप्रियनम्रोक्तिरूपसैन्येन शक्यते ॥ १२५८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२५८</summary>
+
+8\. பன்மாயக் கள்வன் பணிமொழி அன்றோநம்  
+பெண்மை உடைக்கும் படை.  
+The cheater of many wily arts  
+His tempting words break through women's hearts.        1258  
 </details>
 
 <details><summary>मूलम् - १२५८</summary>
@@ -23017,6 +33091,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 मच्चित्ते तेन संयुक्ते त्वलभे तेन सङ्गमम् ॥ १२५९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२५९</summary>
+
+9\. புலப்ப லெனச் சென்றேன் புல்லினேன் நெஞ்சம்  
+கலத்த லுறுவது கண்டு.  
+In huff I went and felt at ease  
+Heat to heart in sweet embrace.        1259  
+</details>
+
 <details><summary>मूलम् - १२५९</summary>
 
 पुलप्पल् ऎनच्चॆण्ड्रेन् पुल्लिनेन् नॆञ् जम्  
@@ -23033,6 +33115,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अग्निलग्रवसातुल्यं प्रियलग्नं द्रवेन्मनः ।  
 तादृक्चित्तयुता नार्यो वियुक्ताः स्युः कथं प्रियम् ॥ १२६०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२६०</summary>
+
+10\. நிணந்தீயில் இட்டன்ன நெஞ்சினார்க்கு உண்டோ  
+புணர்ந்தூடி நிற்பேம் எனல்.  
+To feign dislike is it not rare  
+For mates who melt like fat in fire?        1260  
 </details>
 
 <details><summary>मूलम् - १२६०</summary>
@@ -23055,6 +33145,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 गाताह्नां गणनात् स्त्रीणामङ्गुल्यः क्षीणतां गताः ॥ १२६१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२६१</summary>
+
+1\. வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற  
+நாளொற்றித் தேய்ந்த விரல்.  
+My eyes are dim lustre-bereft  
+Worn fingers count days since he left.        1261  
+</details>
+
 <details><summary>मूलम् - १२६१</summary>
 
 वाळट्रुप् पुऱ्‌कॆण्ड्र कण्णुम् अवर्सॆण्ड्र  
@@ -23071,6 +33169,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 त्यक्त्वा गतं प्रियं चाहं विस्मरेय यदि प्रिये ! ।  
 स्कन्धाभ्यां हीनशोभाभ्यां स्त्रस्ताः स्युर्वलयास्तदा ॥ १२६२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२६२</summary>
+
+2\. இலங்கிழாய் இன்று மறப்பின்என் தோள்மேல்  
+கலங்கழியும் காரிகை நீத்து.  
+Beauty pales and my bracelets slide;  
+Why not forget him now, bright maid?        1262  
 </details>
 
 <details><summary>मूलम् - १२६२</summary>
@@ -23091,6 +33197,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अहमद्यापि जीवामि तदागमनकाङ्क्ष्या ॥ १२६३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२६३</summary>
+
+3\. உரன்நசைஇ உள்ளம் துணையாகச் சென்றார்  
+வரல்நசைஇ இன்னும் உளேன்.  
+Will as guide he went to win  
+Yet I live-to see him again.        1263  
+</details>
+
 <details><summary>मूलम् - १२६३</summary>
 
 उरन्नसैइ उळ्ळम् तुणैयागच् चॆण्ड्रार्  
@@ -23107,6 +33221,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''अस्मान् विहाय गतवान् प्रत्येगच्छेत् प्रियोऽद्य सः ।  
 इति मत्वा मनो वृक्षशाखामास्थाय पश्यति ॥ १२६४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२६४</summary>
+
+4\. கூடிய காமம் பிரிந்தார் வரவுள்ளிக்  
+கோடுகொ டேறும்என் நெஞ்சு.  
+My heart in rapture heaves to see  
+His retun with love to embrace me.        1264  
 </details>
 
 <details><summary>मूलम् - १२६४</summary>
@@ -23127,6 +33249,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदा क्षीणभुजाभ्यां तु वैवर्ण्यमपयास्यति ॥ १२६५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२६५</summary>
+
+5\. காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்  
+நீங்கும்என் மென்றோள் பசப்பு.  
+Let me but gaze and gaze my spouse  
+sallow on my soft shoulders flies.        1265  
+</details>
+
 <details><summary>मूलम् - १२६५</summary>
 
 काण्गमन् कॊण्गनैक् कण्णारक् कण्डबिन्  
@@ -23143,6 +33273,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 एकदा मां समागच्छेत् मत्प्रियः, तदनन्तरम् ।  
 दुःखव्याधिर्यथा नश्येत् पिबेयं तत्प्रभां तथा ॥ १२६६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२६६</summary>
+
+6\. வருகமன் கொண்கன் ஒருநாள் பருகுவன்  
+பைதல்நோய் எல்லாம் கெட.  
+Let my spouse return just a day  
+Joy-drink shall drive my pain away.        1266  
 </details>
 
 <details><summary>मूलम् - १२६६</summary>
@@ -23163,6 +33301,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 आलिङ्गनमुत त्यागो सम्भोगो वा तदा भवेत् ॥ १२६७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२६७</summary>
+
+7\. புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்  
+கண்அன்ன கேளிர் வரின்.  
+If my eye-like lord returneth  
+Shall I sulk or clasp or do both?        1267  
+</details>
+
 <details><summary>मूलम् - १२६७</summary>
 
 पुलप्पेन्गॊल् पुल्लुवेन् कॊल्लो कलप्पेन्गॊल्  
@@ -23179,6 +33325,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 समाप्तसङ्गरो राजा जयतात् शत्रुमण्डलम् ।  
 सपत्नीका वयं कुर्मः सायं सन्ध्यामलङ्कृताम् ॥ १२६८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२६८</summary>
+
+8\. வினைகலந்து வென்றீக வேந்தன் மனைகலந்து  
+மாலை அயர்கம் விருந்து.  
+May the king fight and win and give  
+And with my wife I will feast this eve!        1268  
 </details>
 
 <details><summary>मूलम् - १२६८</summary>
@@ -23199,6 +33353,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वियुक्तायास्तदेकं तु दिनं सप्तदिनं भवेत् ॥ १२६९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२६९</summary>
+
+9\. ஒருநாள் எழுநாள்போல் செல்லும்சேட் சென்றார்  
+வருநாள்வைத்து ஏங்கு பவர்க்கு.  
+One day seems as seven to those  
+Who yearn return of distant spouse.        1269  
+</details>
+
 <details><summary>मूलम् - १२६९</summary>
 
 ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुम्सेण् सॆण्ड्रार्  
@@ -23215,6 +33377,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भग्रचित्ता कामुकी सा जीवितान्तं व्रजेद्यदि ।  
 प्रियागमेन नो लाभः संश्लेषो वा भवेत् कथम्? ॥ १२७०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२७०</summary>
+
+10\. பெறின்என்னாம் பெற்றக்கால் என்னாம் உறின்என்னாம்  
+உள்ளம் உடைந்துக்கக் கால்.  
+When her heart is broken, what is  
+The good of meeting and love-embrace?        1270  
 </details>
 
 <details><summary>मूलम् - १२७०</summary>
@@ -23237,6 +33407,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अन्तर्गतं रहस्यार्थमचिरान्मम वक्ष्यतः ॥ १२७१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२७१</summary>
+
+1\. கரப்பினுங் கையிகந் தொல்லாநின் உண்கண்  
+உரைக்க லுறுவதொன்று உண்டு.  
+You hide; but your painted eyes  
+Restraint off, report your surmise.        1271  
+</details>
+
 <details><summary>मूलम् - १२७१</summary>
 
 करप्पिनुङ् गैयिगन् दॊल्लानिन् उण्गण्  
@@ -23253,6 +33431,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वंशुतुल्यकरा या तु पूर्णसौन्दर्यशालिनी ।  
 तस्या प्रियायां लज्जाख्यस्त्रीधर्मः पूर्णतां गतः ॥ १२७२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२७२</summary>
+
+2\. கண்நிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப்  
+பெண்நிறைந்த நீர்மை பெரிது.  
+With seemly grace and stem-like arms  
+The simple she has ample charms.        1272  
 </details>
 
 <details><summary>मूलम् - १२७२</summary>
@@ -23273,6 +33459,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रियालावण्यमध्येऽपि स्यादभिज्ञानमुत्तमम् ॥ १२७३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२७३</summary>
+
+3\. மணியில் திகழ்தரு நூல்போல் மடந்நை  
+அணியில் திகழ்வதுஒன்று உண்டு.  
+Something shines through her jewelled charm  
+Like thread shining through wreathed gem.        1273  
+</details>
+
 <details><summary>मूलम् - १२७३</summary>
 
 मणियिल् तिगऴ्दरु नूल्बोल् मडन्दै  
@@ -23289,6 +33483,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रसूनकुट्मलान्तःस्थसौरभेण समं भुवि ।  
 कामिनीहास्यमध्येऽपि सूचना भाति काचन ॥ १२७४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२७४</summary>
+
+4\. முகைமொக்குள் உள்ளது நாற்றம்போல் பேதை  
+நகைமொக்குள் உள்ளதொன்று உண்டு.  
+Like scent in bud secrets conceal  
+In the bosom of her half smile.        1274  
 </details>
 
 <details><summary>मूलम् - १२७४</summary>
@@ -23309,6 +33511,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स तु मद्यसनाधिक्यवारकौषधगार्भितः ॥ १२७५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२७५</summary>
+
+5\. செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்  
+தீர்க்கும் மருந்தொன்று உடைத்து.  
+The close-bangled belle's hidden thought  
+Has a cure for my troubled heart.        1275  
+</details>
+
 <details><summary>मूलम् - १२७५</summary>
 
 सॆऱिदॊडि सॆय्दिऱन्द कळ्ळम् उऱुदुयर्  
@@ -23325,6 +33535,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रेमाधिक्येन चादौ यन्मेलनं, तदितः परम् ।  
 वियोगमूलकप्रेमत्यागचिह्ननिदर्शनम् ॥ १२७६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२७६</summary>
+
+6\. பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றி  
+அன்பின்மை சூழ்வது உடைத்து.  
+His over-kind close embrace sooths;  
+But makes me feel, loveless, he parts.        1276  
 </details>
 
 <details><summary>मूलम् - १२७६</summary>
@@ -23345,6 +33563,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ज्ञात्वेदं वलयाः पूर्व मम हस्ताद्विनिस्सृताः ॥ १२७७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२७७</summary>
+
+7\. தண்ணந் துறைவன் தணந்தமை நம்மினும்  
+முன்னம் உணர்ந்த வளை.  
+Quick, my bracelets read before  
+The mind of my lord of cool shore.        1277  
+</details>
+
 <details><summary>मूलम् - १२७७</summary>
 
 तण्णन् दुऱैवन् तणन्दमै नम्मिनुम्  
@@ -23361,6 +33587,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 मां वियुज्य प्रियः पूर्वदिन एव जगाम सः ।  
 मत्काये किन्तु वैवर्ण्यमभूत् सप्तदिनात्पुरा ॥ १२७८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२७८</summary>
+
+8\. நெருநற்றுச் சென்றார்எம் காதலர் யாமும்  
+எழுநாளேம் மேனி பசந்து.  
+My lover parted but yesterday;  
+With sallowness it is seventh day.        1278  
 </details>
 
 <details><summary>मूलम् - १२७८</summary>
@@ -23381,6 +33615,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदेतद् भाविविश्लेषनिरूप कनिदर्शनम् ॥ १२७९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२७९</summary>
+
+9\. தொடிநோக்கி மென்றோளும் நோக்கி அடிநோக்கி  
+அஃதாண்டு அவள்செய் தது.  
+She views her armlets, her tender arms  
+And then her feet; these are her norms.        1279  
+</details>
+
 <details><summary>मूलम् - १२७९</summary>
 
 तॊडिनोक्कि मॆन्दोळुम् नोक्कि अडिनोक्कि  
@@ -23397,6 +33639,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामरोगं स्वनेत्राभ्यामुक्तवा स्त्रीभिश्च याचनम् ।  
 भवेत् स्त्रीत्वगुणस्यापि स्त्रीत्वधर्मप्रकल्पनम् ॥ १२८०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८०</summary>
+
+10\. பெண்ணினால் பெண்மை உடைத்தென்ப கண்ணினால்  
+காமநோய் சொல்லி இரவு.  
+To express love-pangs by eyes and pray  
+Is womanhood's womanly way.        1280  
 </details>
 
 <details><summary>मूलम् - १२८०</summary>
@@ -23419,6 +33669,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कामार्तो लभते लोके न सुरासेवकस्तथा ॥ १२८१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२८१</summary>
+
+1\. உள்ளக் களித்தலும் காண மகிழ்தலும்  
+கள்ளுக்கில் காமத்திற்கு உண்டு.  
+Rapture at thought and joy when seen  
+Belong to love and not to wine.        1281  
+</details>
+
 <details><summary>मूलम् - १२८१</summary>
 
 उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
@@ -23435,6 +33693,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 तालपादपवत् कामो वृद्धे सति विशेषतः ।  
 वियिगो यववत्स्वल्पोऽप्यकार्यः कामुकैः सह ॥ १२८२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८२</summary>
+
+2\. தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்  
+காமம் நிறைய வரின்.  
+When passion grows palmyra-tall  
+Sulking is wrong though millet-small.        1282  
 </details>
 
 <details><summary>मूलम् - १२८२</summary>
@@ -23455,6 +33721,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अथापि तमदृष्ट्वा मे नेत्रे नावापतुर्मुदम् ॥ १२८३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२८३</summary>
+
+3\. பேணாது பெட்பவே செய்யினும் கொண்கனைக்  
+காணாது அமையல கண்.  
+Though slighting me he acts his will  
+My restless eyes would see him still.        1283  
+</details>
+
 <details><summary>मूलम् - १२८३</summary>
 
 पेणादु पॆट्पवे सॆय्यिनुम् कॊण्गनैक्  
@@ -23471,6 +33745,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वियुज्य तं प्रिय गन्तुमैच्छमादौ सखि प्रिये ! ।  
 मन्मनस्तत्त विस्मृत्य रन्तुं तेन सहागमत् ॥ १२८४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८४</summary>
+
+4\. ஊடற்கண் சென்றேன்மன் தோழி அதுமறந்து  
+கூடற்கண் சென்றதுஎன் நெஞ்சு.  
+Huff I would, maid, but I forget;  
+And leap to embrace him direct.        1284  
 </details>
 
 <details><summary>मूलम् - १२८४</summary>
@@ -23491,6 +33773,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 अञ्जनालङ्कृतं नेत्रं शलाकां विस्मरेद्यथा ॥ १२८५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२८५</summary>
+
+5\. எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன்  
+பழிகாணேன் கண்ட விடத்து.  
+When close I see not lord's blemish  
+Like eyes that see not painter's brush.        1285  
+</details>
+
 <details><summary>मूलम् - १२८५</summary>
 
 ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गन्  
@@ -23507,6 +33797,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रिये दृष्टिपथं याते दोषस्तस्मिन्न दृश्यते ।  
 प्रियाऽदर्शनवेलायां गुणस्तस्मिन्न दृश्यते ॥ १२८६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८६</summary>
+
+6\. காணுங்கால் காணேன் தவறாய காணாக்கால்  
+காணேன் தவறல் லவை.  
+When he's with me I see not fault  
+And nought but fault when he is not.        1286  
 </details>
 
 <details><summary>मूलम् - १२८६</summary>
@@ -23527,6 +33825,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रवाहाकर्षणगुणं ज्ञात्वाऽप्येनं विशेद्यता ॥ १२८७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२८७</summary>
+
+7\. உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்  
+பொய்த்தல் அறிந்தென் புலந்து.  
+To leap in stream which carries off  
+When lord is close to feign a huff.        1287  
+</details>
+
 <details><summary>मूलम् - १२८७</summary>
 
 उय्त्तल् अऱिन्दु पुनल्बाय् पवरेबोल्  
@@ -23543,6 +33849,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 सुरापानाद् भवेद्धानिरिति ज्ञात्वापि मानवः ।  
 हर्षात् पिबेद्यथा तद्वत् तव वक्षः पुनर्वृणे ॥ १२८८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८८</summary>
+
+8\. இளித்தக்க இன்னா செயினும் களித்தார்க்குக்  
+கள்ளற்றே கள்வநின் மார்பு.  
+Like wine to addicts that does disgrace  
+Your breast, O thief, is for my embrace!        1288  
 </details>
 
 <details><summary>मूलम् - १२८८</summary>
@@ -23563,6 +33877,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 बुध्वा तत्त्वमिदं केचित्, लभन्ते फलमुत्तमम् ॥ १२८९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२८९</summary>
+
+9\. மலரினும் மெல்லிது காமம் சிலர்அதன்  
+செவ்வி தலைப்படு வார்.  
+Flower-soft is love; a few alone  
+Know its delicacy so fine.        1289  
+</details>
+
 <details><summary>मूलम् - १२८९</summary>
 
 मलरिनुम् मॆल्लिदु कामम् सिलर्अदन्  
@@ -23579,6 +33901,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वयं पूर्व समागत्य परिष्वङ्ग च काङ्क्षती ।  
 यत्मया सङ्गता तच्च विस्मृत्य कलुषीकृता ॥ १२९०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२९०</summary>
+
+10\. கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்  
+என்னினும் தான்விதுப் புற்று.  
+She feigned dislike awhile but flew  
+Faster for embrace than I do.        1290  
 </details>
 
 <details><summary>मूलम् - १२९०</summary>
@@ -23601,6 +33931,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्थित्वा त्वं मद्धशे चित्त ! न साह्यं कुरुषे मम ॥ १२९१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२९१</summary>
+
+1\. அவர்நெஞ்சு அவர்க்காதல் கண்டும் எவன்நெஞ்சே  
+நீஎமக்கு ஆகா தது.  
+You see, his heart is his alone;  
+Why not my heart be all my own?        1291  
+</details>
+
 <details><summary>मूलम् - १२९१</summary>
 
 अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवन्नॆञ्जे  
@@ -23617,6 +33955,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामुको न वृणोत्यस्मानिति ज्ञात्वापि हे मनः ।  
 न स कुप्येदिति धिया त्वं प्रयासि तदन्तिकम् ॥ १२९२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२९२</summary>
+
+2\. உறாஅ தவர்கண்ட கண்ணும் அவரைச்  
+செறாஅரெனச் சேறிஎன் நெஞ்சு.  
+O heart, you see how he slights me  
+Yet you clasp him as if friendly.        1292  
 </details>
 
 <details><summary>मूलम् - १२९२</summary>
@@ -23637,6 +33983,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 न सन्ति मित्राण्यार्तानामिति किं मन्यसे मनः ! ॥ १२९३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२९३</summary>
+
+3\. கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ  
+பெட்டாங்கு அவர்பின் செலல்.  
+You follow him at will. Is it  
+"The fallen have no friends" my heart?        1293  
+</details>
+
 <details><summary>मूलम् - १२९३</summary>
 
 कॆट्टार्क्कु नट्टार्इल् ऎन्बदो नॆञ्जेनी  
@@ -23653,6 +34007,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विप्रलम्भमकृत्वैव तेन भोगं तु वाञ्छसि ।  
 चित्त ! को वा त्वया सार्ध विचारं कर्तुमीहते ॥ १२९४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२९४</summary>
+
+4\. இனிஅன்ன நின்னோடு சூழ்வார்யார் நெஞ்சே  
+துனிசெய்து துவ்வாய்காண் மற்று.  
+You won't sulk first and then submit  
+Who will then consult you, my heart?        1294  
 </details>
 
 <details><summary>मूलम् - १२९४</summary>
@@ -23673,6 +34035,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 वियोगभीत्या चेत्येवं सर्वदा खिद्यते मनः ॥ १२९५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२९५</summary>
+
+5\. பெறாஅமை அஞ்சும் பெறின்பிரிவு அஞ்சும்  
+அறாஅ இடும்பைத்தென் நெஞ்சு.  
+Frets to gain and fears loss in gain  
+O my heart suffers ceaseless pain.        1295  
+</details>
+
 <details><summary>मूलम् - १२९५</summary>
 
 पॆऱाअमै अञ्जुम् पॆऱिन्बिरिवु अञ्जुम्  
@@ -23689,6 +34059,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वियुक्तप्रियदोषाणां स्मरणावसरे सति ।  
 मां भक्षयति किं चित्तमितीव व्यसनं मम ॥ १२९६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२९६</summary>
+
+6\. தனியே இருந்து நினைத்தக்கால் என்னைத்  
+தினிய இருந்ததுஎன் நெஞ்சு.  
+My itching mind eats me anon  
+As I muse on him all alone.        1296  
 </details>
 
 <details><summary>मूलम् - १२९६</summary>
@@ -23709,6 +34087,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तादृङ्मूढमनोयोगात् लज्जां विस्मृतवत्यहम् ॥ १२९७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२९७</summary>
+
+7\. நாணும் மறந்தேன் அவர்மறக் கல்லாஎன்  
+மாணா மடநெஞ்சிற் பட்டு.  
+forget shame but not his thought  
+In mean foolish mind I'm caught.        1297  
+</details>
+
 <details><summary>मूलम् - १२९७</summary>
 
 नाणुम् मऱन्देन् अवर्मऱक् कल्लाऎन्  
@@ -23725,6 +34111,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अप्रीतनायकोपेक्षा न युक्तेति विचिन्त्य तु ।  
 जीवनाशायुतं चित्तं सदा ध्यायति तद्गुणान् ॥ १२९८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२९८</summary>
+
+8\. எள்ளின் இளிவாம்என்று எண்ணி அவர்திறம்  
+உள்ளும் உயிர்க்காதல் நெஞ்சு.  
+My heart living in love of him  
+Hails his glory ignoring blame.        1298  
 </details>
 
 <details><summary>मूलम् - १२९८</summary>
@@ -23745,6 +34139,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्वस्मै साह्यं न कुर्याच्चेत् के वान्ये साह्यकारिणः ॥ १२९९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १२९९</summary>
+
+9\. துன்பத்திற்கு யாரே துணையாவார் தாமுடைய  
+நெஞ்சம் துணையல் வழி.  
+Who support a man in grief  
+If lover's heart denies relief?        1299  
+</details>
+
 <details><summary>मूलम् - १२९९</summary>
 
 तुन्बत्तिऱ्‌कु यारे तुणैयावार् तामुडैय  
@@ -23761,6 +34163,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 स्वशस्थं स्वीयचित्तं बन्धुतां चेन्न पालयेत् ।  
 बन्धत्वपालनाभावो ह्यन्येषां युज्यते किल ॥ १३००॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३००</summary>
+
+10\. தஞ்சம் தமரல்லர் ஏதிலார் தாமுடைய  
+நெஞ்சம் தமரல் வழி.  
+Why wonder if strangers disown  
+When one's own heart is not his own?        1300  
 </details>
 
 <details><summary>मूलम् - १३००</summary>
@@ -23783,6 +34193,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तस्मात् तमपरिष्वज्य वियुक्ता भव मत्प्रिये ! ॥ १३०१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३०१</summary>
+
+1\. புல்லா திராஅப் புலத்தை அவர்உறும்  
+அல்லல்நோய் காண்கம் சிறிது.  
+Feign sulk; embrace him not so that  
+We can see his distress a bit.        1301  
+</details>
+
 <details><summary>मूलम् - १३०१</summary>
 
 पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
@@ -23799,6 +34217,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 व्यर्थोऽमितवियोगः स्यात् लवणामितभोज्यवत् ।  
 मितो वियोगः स्वाद्यः स्यात् मितं च लवणं यथा ॥ १३०२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३०२</summary>
+
+2\. உப்பமைந் தற்றால் புலவி அதுசிறிது  
+மிக்கற்றால் நீள விடல்.  
+Sulking is the salt of love; but  
+Too much of it spoils the taste.        1302  
 </details>
 
 <details><summary>मूलम् - १३०२</summary>
@@ -23819,6 +34245,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 दुःखितस्य पुनर्दुःखदात्रा तुल्पो भवेदयम् ॥ १३०३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३०३</summary>
+
+3\. அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்  
+புலந்தாரைப் புல்லா விடல்.  
+To leave the sulker unembraced  
+Is to grieve the one sorely grieved.        1303  
+</details>
+
 <details><summary>मूलम् - १३०३</summary>
 
 अलन्दारै अल्लल्नोय् सॆय्दट्राल् तम्मैप्  
@@ -23835,6 +34269,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 गातां स्त्रियं समाश्वास्य मेलनं न क्रियेत् चेत् ।  
 स्वतो म्लानलतायास्तन्मूलविच्छेदवद्भवेत् ॥ १३०४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३०४</summary>
+
+4\. ஊடி யவரை உணராமை வாடிய  
+வள்ளி முதலரிந் தற்று.  
+To comfort not lady in pout  
+Is to cut the fading plant at root.        1304  
 </details>
 
 <details><summary>मूलम् - १३०४</summary>
@@ -23855,6 +34297,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 कुसुमाक्ष्यङ्गनाचित्ते या विश्लेषविशेषता ॥ १३०५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३०५</summary>
+
+5\. நலத்தகை நல்லவர்க்கு ஏஎர் புலத்தகை  
+பூஅன்ன கண்ணா ரகத்து.  
+Pouting of flower-eyed has  
+To pure good mates a lovely grace.        1305  
+</details>
+
 <details><summary>मूलम् - १३०५</summary>
 
 नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै  
@@ -23871,6 +34321,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विना संश्लेषविश्लेषौ कामः स्याद्रसवर्जितः ।  
 अतिपक्कापक्वफले दृश्येते विरसे यथा ॥ १३०६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३०६</summary>
+
+6\. துனியும் புலவியும் இல்லாயின் காமம்  
+கனியும் கருக்காயும் அற்று.  
+Love devoid of frowns and pets  
+Misses its ripe and unripe fruits.        1306  
 </details>
 
 <details><summary>मूलम् - १३०६</summary>
@@ -23891,6 +34349,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 सुखमूलवियोगेऽपि दुःखमेकं प्रदृश्यते ॥ १३०७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३०७</summary>
+
+7\. ஊடலின் உண்டாங்கோர் துன்பம் புணர்வது  
+நீடுவது தன்றுகொல் என்று.  
+"Will union take place soon or late?"  
+In lover's pout this leaves a doubt.        1307  
+</details>
+
 <details><summary>मूलम् - १३०७</summary>
 
 ऊडलिन् उण्डाङ्गोर् तुन्बम् पुणर्वदु  
@@ -23907,6 +34373,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 अस्मत्कृते प्रियः खिद्येदिति मत्वापि या प्रिया ।  
 न खिद्येत्तादृशस्त्रीणां निन्दया किं प्रयोजनम् ॥ १३०८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३०८</summary>
+
+8\. நோதல் எவன்மற்று நொந்தாரென்று அஃதறியும்  
+காதலர் இல்லா வழி.  
+What's the good of grieving lament  
+When concious lover is not present?        1308  
 </details>
 
 <details><summary>मूलम् - १३०८</summary>
@@ -23927,6 +34401,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 प्रेमपूर्णनरैः साकं विप्रलम्भो रसप्रदः ॥ १३०९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३०९</summary>
+
+9\. நீரும் நிழலது இனிதே புலவியும்  
+வீழுநர் கண்ணே இனிது.  
+Water delights in a shady grove  
+And sulking in souls of psychic love.        1309  
+</details>
+
 <details><summary>मूलम् - १३०९</summary>
 
 नीरुम् निऴलदु इनिदे पुलवियुम्  
@@ -23943,6 +34425,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 वियोगेन कृशां नारीं यो निराकुरुते प्रियः ।  
 तेनापि सङ्गं चित्तमाशया वाञ्छति ध्रुवम् ॥ १३१०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३१०</summary>
+
+10\. ஊடல் உணங்க விடுவாரோடு என்நெஞ்சம்  
+கூடுவேம் என்பது அவா.  
+My heart athirst would still unite  
+With her who me in sulking left!        1310  
 </details>
 
 <details><summary>मूलम् - १३१०</summary>
@@ -23965,6 +34455,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 यतो दृष्ट्वाऽनुभूतं तत्, नाहं भोक्तुं वृणे प्रिये ! ॥ १३११॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३११</summary>
+
+1\. பெண்ணியலார் எல்லோரும் கண்ணின் பொதுஉண்பர்  
+நண்ணேன் பரந்தநின் மார்பு.  
+I shrink to clasp you bosom lewd  
+To the gaze of all ladies exposed.        1311  
+</details>
+
 <details><summary>मूलम् - १३११</summary>
 
 पॆण्णियलार् ऎल्लारुम् कण्णिन् पॊदुउण्बर्  
@@ -23981,6 +34479,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दीर्घायुष्मानिति वचः क्षुतादौ कथ्यते जनैः ।  
 श्रोतुमाशीर्वचो मत्तः प्रियः क्षुतमथाऽकरोत् ॥ १३१२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३१२</summary>
+
+2\. ஊடி யிருந்தேமாத் தும்மினார் யாம்தம்மை  
+நீடுவாழ் கென்பாக்கு அறிந்து.  
+He sneezed while we went on sulking  
+Expecting me to say "live long".        1312  
 </details>
 
 <details><summary>मूलम् - १३१२</summary>
@@ -24001,6 +34507,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 इति मालाभूषिताङ्ग प्रियं दृष्ट्वा चुकोप सा ॥ १३१३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३१३</summary>
+
+3\. கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்  
+காட்டிய சூடினீர் என்று.  
+"For which lady?" she widely cries  
+While I adorn myself with flowers.        1313  
+</details>
+
 <details><summary>मूलम् - १३१३</summary>
 
 कोट्टुप् पूच् चूडिनुम् कायुम् ऒरुत्तियैक्  
@@ -24017,6 +34531,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''सर्वस्मादप्यहं प्रीतिविशेषं त्वयि च न्यधाम्'' ।  
 इति प्रियवचः श्रुत्वा का वाऽन्येति चुकोप सा ॥ १३१४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३१४</summary>
+
+4\. யாரினும் காதலம் என்றேனா ஊடினாள்  
+யாரினும் யாரினும் என்று.  
+"I love you more than all" I said  
+"Than whom, than whom?" she sulked and chid.        1314  
 </details>
 
 <details><summary>मूलम् - १३१४</summary>
@@ -24037,6 +34559,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ''भाविजन्मनि विश्लेषो भवेद्वे''त्यरुदत् प्रिया ॥ १३१५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३१५</summary>
+
+5\. இம்மைப் பிறப்பில் பிரியலம் என்றேனாக்  
+கண்ணிறை நீர்கொண் டனள்.  
+"In this life we won't part" I told  
+Her eyes at once with tears were filled.        1315  
+</details>
+
 <details><summary>मूलम् - १३१५</summary>
 
 इम्मैप् पिऱप्पिल् पिरियलम् ऎण्ड्रेनाक्  
@@ -24053,6 +34583,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''त्वं मया तु स्मृते'' त्युक्त, ''विस्मृतस्य हि संस्मृतिः ।  
 तेन मां विस्मृतोऽसि त्वम्''इति तत्याज मां प्रिया ॥ १३१६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३१६</summary>
+
+6\. உள்ளினேன் என்றேன்மற்று என்மறந்தீர் என்றென்னைப்  
+புல்லாள் புலத்தக் கனள்.  
+I said "I thought of you". She left  
+Her embrace crying "Oft you forget".        1316  
 </details>
 
 <details><summary>मूलम् - १३१६</summary>
@@ -24073,6 +34611,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ''कां स्मृत्वा क्षुतमायात'' मिति क्रुद्धा रुरोद सा ॥ १३१७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३१७</summary>
+
+7\. வழுத்தினாள் தும்மினே னாக அழித்தழுதாள்  
+யாருள்ளித் தும்மினீர் என்று.  
+I sneezed; she blessed; then changed and wept  
+"You sneezed now at which lady's thought?"        1317  
+</details>
+
 <details><summary>मूलम् - १३१७</summary>
 
 वऴुत्तिनाळ् तुम्मिनेन् आग अऴित्तऴुदाळ्  
@@ -24089,6 +34635,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 ''कां त्वां स्मृतवतीत्यंशो न ज्ञातः स्याद्यथा मया ।  
 तथा कर्तु क्षुतं रुद्रं र्वय''त्युक्त्वा रुरोद सा ॥ १३१८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३१८</summary>
+
+8\. தும்முச் செறுப்ப அழுதாள் நுமர்உள்ளல்  
+எம்மை மறைத்திரோ என்று.  
+I repressed sneeze; she wept crying  
+"Your thoughts from me you are hiding".        1318  
 </details>
 
 <details><summary>मूलम् - १३१८</summary>
@@ -24109,6 +34663,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 ''स्त्र्यन्तरेऽपि त्वया चेत्थं कृतमि''त्यरुदत् प्रिया ॥ १३१९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३१९</summary>
+
+9\. தன்னை உணர்த்தினும் காயும் பிறர்க்குநீர்  
+இந்நீரர் ஆகுதிர் என்று.  
+I try to coax her and she remarks  
+"Your coaxing others thus this marks".        1319  
+</details>
+
 <details><summary>मूलम् - १३१९</summary>
 
 तन्नै उणर्त्तिनुम् कायुम् पिऱर्क्कुम्नीर्  
@@ -24125,6 +34687,15 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 प्रियाङ्गशोभावैशिष्टयं सम्यक्पश्याम्यहं यदा ।  
 ''मय्यीक्षसे कया साम्यम्''इति क्रुद्धयेत् तदा प्रिया ॥ १३२०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३२०</summary>
+
+10\. நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்  
+யாருள்ளி நோக்கினீர் என்று.  
+I think and gaze at her; she chides:  
+"On whom your thought just now abides?"  
+1320  
 </details>
 
 <details><summary>मूलम् - १३२०</summary>
@@ -24147,6 +34718,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 तदस्मासु विशेषण प्रेमाधिक्यप्रदायकम् ॥ १३२१॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३२१</summary>
+
+1\. இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்  
+வல்லது அவர்அளிக்கு மாறு.  
+He is flawless; but I do pout.  
+So that his loving ways show out.        1321  
+</details>
+
 <details><summary>मूलम् - १३२१</summary>
 
 इल्लै तवऱवर्क्कु आयिनुम् ऊडुदल्  
@@ -24163,6 +34742,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विप्रलम्भेन सञ्जातमत्यल्पं व्ससनं भुवि ।  
 नायकप्रेमविच्छेदकारकं चापि सम्मतम् ॥ १३२२॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३२२</summary>
+
+2\. ஊடலில் தோன்றும் சிறுதுனி நல்லளி  
+வாடினும் பாடு பெறும்.  
+Fading first, love blooms and outlives  
+The petty pricks that pouting gives.        1322  
 </details>
 
 <details><summary>मूलम् - १३२२</summary>
@@ -24183,6 +34770,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 जाताद्वियोगादन्यः किं देवलोको भवेदिह ॥ १३२३॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३२३</summary>
+
+3\. புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு  
+நீரியைந் தன்னா ரகத்து.  
+Is there a heaven like sulk beneath  
+Of hearts that join like water and earth?        1323  
+</details>
+
 <details><summary>मूलम् - १३२३</summary>
 
 पुलत्तलिन् पुत्तेळ्नाडु उण्डो निलत्तॊडु  
@@ -24199,6 +34794,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 दृढभाविपरिष्वङ्गहेतुविश्लेषकर्मणि ।  
 मन्मनोभञ्जिका काचित् सेना सञ्जायते किल ॥ १३२४॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३२४</summary>
+
+4\. புல்லி விடாஅப் புலவியுள் தோன்றுமென்  
+உள்ளம் உடைக்கும் படை.  
+In long pout after embrace sweet  
+A weapon is up to break my heart.        1324  
 </details>
 
 <details><summary>मूलम् - १३२४</summary>
@@ -24219,6 +34822,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 स्पर्शभाग्यविहीनस्य हर्षः काश्चिद् भवेद् ध्रुवम् ॥ १३२५॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३२५</summary>
+
+5\. தவறில ராயினும் தாம்வீழ்வார் மென்றோள்  
+அகறலி னாங்கொன்று உடைத்து.  
+Though free form faults, one feels the charms  
+Of feigned release from lover's arms.        1325  
+</details>
+
 <details><summary>मूलम् - १३२५</summary>
 
 तवऱिलर् आयिनुम् ताम्वीऴ्वार् मॆण्ड्रोळ्  
@@ -24235,6 +34846,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 कामुकस्य तु विश्लेषः संश्लेषादपि मोददः ।  
 भुक्तं जीर्ण सुखं दद्यात् यथा वै भाविभोजनात् ॥ १३२६॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३२६</summary>
+
+6\. உணலினும் உண்டது அறல்இனிது காமம்  
+புணர்தலின் ஊடல் இனிது.  
+Sweeter than meal is digestion  
+And sulk in love than union.        1326  
 </details>
 
 <details><summary>मूलम् - १३२६</summary>
@@ -24255,6 +34874,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 भाविसंश्लेषवेलायां तत्त्वमेतत् स्फुटं भवेत् ॥ १३२७॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३२७</summary>
+
+7\. ஊடலில் தோற்றவர் வென்றார் அதுமன்னும்  
+கூடலில் காணப் படும்.  
+The yielder wins in lover's pout  
+Reunited joy brings it out.        1327  
+</details>
+
 <details><summary>मूलम् - १३२७</summary>
 
 ऊडलिल् तोट्रवर् वॆण्ड्रार् अदुमन्नुम्  
@@ -24271,6 +34898,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 भालस्वेदकरं भोग कृत्वा या सुखमन्वभूत् ।  
 वियुज्यानया सुख तद्वत् किमह प्राप्नुयां पुनः ॥ १३२८॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३२८</summary>
+
+8\. ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக்  
+கூடலில் தோன்றிய உப்பு.  
+Shall not our pouting again give  
+The dew-browed joy of joint love?        1328  
 </details>
 
 <details><summary>मूलम् - १३२८</summary>
@@ -24291,6 +34926,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 संप्रार्थ्य ?त् कोपशान्त्यै मम रात्रिर्विवर्धताम् ॥ १३२९॥
 </details>
 
+<details><summary>शुद्धानन्द-भारती - १३२९</summary>
+
+9\. ஊடுக மன்னோ ஒளியிழை யாம்இரப்ப  
+நீடுக மன்னோ இரா.  
+Sulk on O belle of shining jewels!  
+Prolong O night! our delight swells!        1329  
+</details>
+
 <details><summary>मूलम् - १३२९</summary>
 
 ऊडुग मन्नो ऒळियिऴै यामिरप्प  
@@ -24307,6 +34950,14 @@ TODO: परिष्कार्यम् - तत्र तत्र टङ्
 
 विप्रलम्भात् कामभोगः सुख प्राप्नोति भूतले ।  
 ततो जाताच्च संश्लेषात् विप्रलम्भः सुखं व्रजेत् ॥ १३३०॥
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३३०</summary>
+
+10\. ஊடுதல் காமத்திற்கு இன்பம் அதற்கின்பம்  
+கூடி முயங்கப் பெறின்.  
+Bouderie is lovers' delight  
+Its delight grows when they unite        1330  
 </details>
 
 <details><summary>मूलम् - १३३०</summary>
