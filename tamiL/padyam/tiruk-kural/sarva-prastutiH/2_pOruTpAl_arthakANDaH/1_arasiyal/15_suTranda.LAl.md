@@ -1,0 +1,344 @@
++++
+title = "१५ सुट्रन्दऴाल्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२१</summary>
+
+पट्रट्र कण्णुम् पऴैमैबा राट्टुदल्  
+सुट्रत्तार् कण्णे उळ।       ५२१
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२१</summary>
+
+नष्टायामपि सम्पत्तौ सम्बन्धं पूर्वकालिकम् ।  
+स्मृत्वैव श्लाघनं लोके बन्धुलक्षणमुच्यते ॥ ५२१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२१</summary>
+
+521\. paṟṟu aṟṟakaṇṇum paḻamai pārāṭṭutal  
+cuṟṟattārkaṇṇē uḷa.
+
+521\. It is one’s own kith and kin that cherish their old attachments to men out of suit with fortune.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२१</summary>
+
+1\. பற்றற்ற கண்ணும் பழமைபா ராட்டுதல்  
+சுற்றத்தார் கண்ணே யுள  
+Let fortunes go; yet kinsmen know  
+The old accustomed love to show.        521  
+</details>
+
+<details><summary>मूलम् - ५२१</summary>
+
+पट्रट्र कण्णुम् पऴैमैबा राट्टुदल्  
+सुट्रत्तार् कण्णे उळ।       ५२१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२२</summary>
+
+विरुप्पऱाच् चुट्रम् इयैयिन् अरुप्पऱा  
+आक्कम् पलवुम् तरुम्।       ५२२
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२२</summary>
+
+प्रेमपूर्वकबान्धव्यं कस्यचिल्लभ्यते यदि ।  
+तदेव सम्पदः सर्वाः तस्मै यच्छेत् सदातना ॥ ५२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२२</summary>
+
+522\. viruppu aṟāc cuṟṟam iyaiyiṉ, aṟuppu aṟā  
+ākkam palavum tarum.
+
+522\. One’s unceasing kinship is the source of all one’s fortune.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२२</summary>
+
+2\. விருப்பறாச் சுற்றம் இயையின் அருப்பறா  
+ஆக்கம் பலவுந் தரும்.  
+The gift of loving Kins bestows  
+Fadeless fortune's fresh flowers.        522  
+</details>
+
+<details><summary>मूलम् - ५२२</summary>
+
+विरुप्पऱाच् चुट्रम् इयैयिन् अरुप्पऱा  
+आक्कम् पलवुम् तरुम्।       ५२२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२३</summary>
+
+अळवळा विल्लादान् वाऴ्क्कै कुळवळाक्  
+कोडिण्ड्रि नीर्निऱैन् दट्रु।       ५२३
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२३</summary>
+
+प्रेमपूर्वकबान्धव्यरहितस्य हि जीवनम् ।  
+जलपूर्णतटाकस्य तीराभावसं भवेत् ॥ ५२३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२३</summary>
+
+523\. aḷavaḷāvu illātāṉ vāḻkkai-kuḷavaḷāk  
+kōṭu iṉṟi nīr niṟaintaṟṟu.
+
+523\. The life of one with no kin will be like overflowing waters of a tank with no bund.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२३</summary>
+
+3\. அளவளா வில்லாதான் வாழ்க்கை குளவளாக்  
+கோடின்றி நீர்நிறைந் தற்று.  
+A kinless wealth is like a tank  
+Which overflows without a bank.        523  
+</details>
+
+<details><summary>मूलम् - ५२३</summary>
+
+अळवळा विल्लादान् वाऴ्क्कै कुळवळाक्  
+कोडिण्ड्रि नीर्निऱैन् दट्रु।       ५२३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२४</summary>
+
+सुट्रत्ताल् सुट्रप् पडऒऴुगल् सॆल्वन्दान्  
+पॆट्रत्ताल् पॆट्र पयन्।       ५२४
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२४</summary>
+
+बन्धुसाह्यकरो यस्तु सदा बन्धुभिरावृतः ।  
+तेन सम्पादितं वित्तं प्रयोजनकरं भवेत् ॥ ५२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२४</summary>
+
+524\. cuṟṟattāl cuṟṟappaṭa oḻukal, celvamtāṉ  
+peṟṟattāl peṟṟa payaṉ.
+
+524\. The value of one’s wealth consists in a life surrounded by one’s kinsmen.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२४</summary>
+
+4\. சுற்றத்தால் சுற்றப் படஒழுகல் செல்வந்தான்  
+பெற்றத்தால் பெற்ற பயன்.  
+The fruit of growing wealth is gained  
+When kith and kin are happy found.        524  
+</details>
+
+<details><summary>मूलम् - ५२४</summary>
+
+सुट्रत्ताल् सुट्रप् पडऒऴुगल् सॆल्वन्दान्  
+पॆट्रत्ताल् पॆट्र पयन्।       ५२४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२५</summary>
+
+कॊडुत्तलुम् इन्सॊलुम् आट्रिन् अडुक्किय  
+सुट्रत्ताल् सुट्रप् पडुम्।       ५२५
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२५</summary>
+
+बन्धुनां धनदातारं प्रियभाषणतत्परम् ।  
+तं सर्वदा बन्धुवर्गास्तिष्ठन्ति परिवेष्टिताः ॥ ५२५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२५</summary>
+
+525\. koṭuttalum iṉ colum āṟṟiṉ, aṭukkiya  
+cuṟṟattāl cuṟṟappaṭum.
+
+525\. One delights in the company of one generous of heart and suave of speech.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२५</summary>
+
+5\. கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய  
+சுற்றத்தால் சுற்றப் படும்.  
+Loving words and liberal hand  
+Encircle kith and kin around.        525  
+</details>
+
+<details><summary>मूलम् - ५२५</summary>
+
+कॊडुत्तलुम् इन्सॊलुम् आट्रिन् अडुक्किय  
+सुट्रत्ताल् सुट्रप् पडुम्।       ५२५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२६</summary>
+
+पॆरुङ्गॊडैयान् पेणान् वॆगुळि अवनिन्  
+मरुङ्गुडैयार् मानिलत्तु इल्।       ५२६
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२६</summary>
+
+पृथिव्यां दानशौण्डस्य जितक्रोधस्य भूपतेः ।  
+वशंवदा सदा तिष्ठेत् सकला बन्धुसन्ततिः ॥ ५२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२६</summary>
+
+526\. peruṅ koṭaiyāṉ, pēṇāṉ vekuḷi, avaṉiṉ  
+maruṅku uṭaiyār mā nilattu il.
+
+526\. Nothing excels on earth the love of one large of heart and free of wrath, but shares it with the rest.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२६</summary>
+
+6\. பெரும்கொடையான் பேணான் வெகுளி அவனின்  
+மருங்குஉடையார் மாநிலத்து இல்.  
+Large giver and wrathless man  
+Commands on earth countless kinsmen.        526  
+</details>
+
+<details><summary>मूलम् - ५२६</summary>
+
+पॆरुङ्गॊडैयान् पेणान् वॆगुळि अवनिन्  
+मरुङ्गुडैयार् मानिलत्तु इल्।       ५२६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२७</summary>
+
+काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
+अन्ननी रार्क्के उळ।       ५२७
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२७</summary>
+
+काकः स्वीयान् समाहूय भक्षयेदार्जितं च तैः ।  
+स्वार्जितं बन्धुभिः साकं भुंङ्क्ष्व सम्पत्स्थिरा भवेत् ॥ ५२७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२७</summary>
+
+527\. kākkai karavā karaintu uṇṇum; ākkamum  
+aṉṉa nīrārkkē uḷa.
+
+527\. Fortune smiles on one of like disposition.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२७</summary>
+
+7\. காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்  
+அன்னநீ ரார்க்கே உள.  
+The crows hide not; thy call and eat  
+Welfare abides a man of heart.        527  
+</details>
+
+<details><summary>मूलम् - ५२७</summary>
+
+काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
+अन्ननी रार्क्के उळ।       ५२७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२८</summary>
+
+पॊदुनोक्कान् वेन्दन् वरिसैया नोक्किन्  
+अदुनोक्कि वाऴ्वार् पलर्।       ५२८
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२८</summary>
+
+साम्यबुद्धिं विना राजा योग्यताभेदमूलकम् ।  
+विभज्य सर्वान् यः पश्येत् तस्य स्युर्बान्धवाः समे ॥ ५२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२८</summary>
+
+528\. potu nōkkāṉ, vēntaṉ varicaiyā nōkkiṉ,  
+atu nōkki vāḻvār palar.
+
+528\. The king must not be indifferent to one’s deserts but reward people according to their merit.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२८</summary>
+
+8\. பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின்  
+அதுநோக்கி வாழ்வார் பலர்.  
+From public gaze when kings perceive  
+Each one's merits so many thrive.        528  
+</details>
+
+<details><summary>मूलम् - ५२८</summary>
+
+पॊदुनोक्कान् वेन्दन् वरिसैया नोक्किन्  
+अदुनोक्कि वाऴ्वार् पलर्।       ५२८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५२९</summary>
+
+तमरागिक् तट्रुऱन्दार् सुट्रम् अमरामैक्  
+कारणम् इण्ड्रि वरुम्।       ५२९
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५२९</summary>
+
+स्थितं बान्धव्यमादौ यद् हेतुना केनचित् स्वत्ः ।  
+छिन्नं तद् हेतुनान्येन् पूर्ववत् पुनरेधते ॥ ५२९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५२९</summary>
+
+529\. tamar āki, taṉ-tuṟantār cuṟṟam amarāmaik  
+kāraṇam iṉṟi varum.
+
+529\. Reject none on the score of disagreement. Men who have become estranged will flock to you.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५२९</summary>
+
+9\. தமராகித் தற்றுறந்தார் சுற்றம் அமராமைக்  
+காரணம் இன்றி வரும்.  
+Forsaken friends will come and stay  
+When cause for discord goes away.        529  
+</details>
+
+<details><summary>मूलम् - ५२९</summary>
+
+तमरागिक् तट्रुऱन्दार् सुट्रम् अमरामैक्  
+कारणम् इण्ड्रि वरुम्।       ५२९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३०</summary>
+
+उऴैप्पिरिन्दु कारणत्तिन् वन्दानै वेन्दन्  
+इऴैत् तिरुन्दु ऎण्णिक् कॊळल्।       ५३०
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३०</summary>
+
+स्नेहं छित्वा गतं पश्चादागतं स्वार्यकरणात् ।  
+अलोच्य तं तु गृह्णीयादुपकृत्य महीपतिः ॥ ५३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३०</summary>
+
+530\. uḻaip pirintu kāraṇattiṉ vantāṉai, vēntaṉ  
+iḻaittu iruntu, eṇṇik koḷal.
+
+530\. Let the king embrace his estranged kith and kin by redressing their grievances.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३०</summary>
+
+10\. உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்  
+இழைத்திருந்து எண்ணிக் கொளல்.  
+Who leaves and returns with motive  
+The king should test him and receive.        530  
+</details>
+
+<details><summary>मूलम् - ५३०</summary>
+
+उऴैप्पिरिन्दु कारणत्तिन् वन्दानै वेन्दन्  
+इऴैत् तिरुन्दु ऎण्णिक् कॊळल्।       ५३०
+</details>

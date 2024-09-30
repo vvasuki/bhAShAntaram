@@ -1,0 +1,344 @@
++++
+title = "१६ पॊच्चावामै"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३१</summary>
+
+इऱन्द वॆगुळियिन् तीदे सिऱन्द  
+उवगै मगिऴ्च्चियिऱ्चोर्वु।       ५३१
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३१</summary>
+
+सुखभोगासक्ततया कर्तव्यार्थस्य विस्मृतिः ।  
+चण्डकोपोद्भवानर्थात्, अधिकानिष्टदा भवेत् ॥ ५३१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३१</summary>
+
+531\. iṟanta vekuḷiyiṉ tītē-ciṟanta  
+uvakai makiḻcciyiṉ cōrvu.
+
+531\. Forgetfulness which cometh of mad joy is more dangerous than wild wrath.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३१</summary>
+
+1\. இறந்த வெகுளியின் தீதே சிறந்த  
+உவகை மகிழ்ச்சியிற் சோர்வு.  
+Worse than wrath in excess is  
+Forgetfulness in joy-excess.        531  
+</details>
+
+<details><summary>मूलम् - ५३१</summary>
+
+इऱन्द वॆगुळियिन् तीदे सिऱन्द  
+उवगै मगिऴ्च्चियिऱ्चोर्वु।       ५३१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३२</summary>
+
+पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविनै  
+निच्च निरप्पुक् कॊन् ऱाङ्गु।       ५३२
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३२</summary>
+
+नरस्य नित्यदारिद्र्यं यथा बुद्धिं विनाशयेत् ।  
+विस्मृतिः समये तद्वनाशयेत् प्रथितं यशाः ॥ ५३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३२</summary>
+
+532\. poccāppuk kollum pukaḻai-aṟiviṉai  
+niccam nirappuk koṉṟāṅku.
+
+532\. Poverty freezes knowledge. Forgetfulness blights one’s reputation.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३२</summary>
+
+2\. பொச்சாப்புக் கொல்லும் புகழை அறிவினை  
+நிச்ச நிரப்புக்கொன் றாங்கு.  
+Negligence kills renown just as  
+Ceaseless want wisdom destroys.        532  
+</details>
+
+<details><summary>मूलम् - ५३२</summary>
+
+पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविनै  
+निच्च निरप्पुक् कॊन् ऱाङ्गु।       ५३२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३३</summary>
+
+पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
+ऎप्पाल्नू लोर्क्कुम् तुणिवु।       ५३३
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३३</summary>
+
+पुरुषार्थचतुष्काप्त्यै यत्नमाचरतामपि ।  
+न ते सिध्यन्ति विस्मृत्या नेदं पार्थिवमात्रकम् ॥ ५३३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३३</summary>
+
+533\. poccāppārkku illai pukaḻmai; atu ulakattu  
+ep pāl nūlōrkkum tuṇivu.
+
+533\. Fame is not for the thoughtless, so say the scriptures of the world.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३३</summary>
+
+3\. பொச்சாப்பார்க்கு இல்லை புகழ்மை அதுவுலகத்து  
+எப்பால்நூ லோர்க்கும் துணிவு.  
+Forgetful nature fails of fame  
+All schools of thinkers say the same.        533  
+</details>
+
+<details><summary>मूलम् - ५३३</summary>
+
+पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
+ऎप्पाल्नू लोर्क्कुम् तुणिवु।       ५३३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३४</summary>
+
+अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै  
+पॊच्चाप् पुडैयार्क्कु नन्गु।       ५३४
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३४</summary>
+
+बाह्यदुर्गैर्नास्ति लाभो भये तु हृदये स्थिते ।  
+स्थितोऽपि विभवो व्यर्थो यदि स्याद्विस्मृतिर्नरे ॥ ५३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३४</summary>
+
+534\. accam uṭaiyārkku araṇ illai; āṅku illai,  
+poccāppu uṭaiyārkku naṉku.
+
+534\. Of what avail is a citadel to a crown, what good availeth the thoughtless.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३४</summary>
+
+4\. அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை  
+பொச்சாப் புடையார்க்கு நன்கு.  
+The fearful find no fortress here  
+The forgetful find good never.        534  
+</details>
+
+<details><summary>मूलम् - ५३४</summary>
+
+अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै  
+पॊच्चाप् पुडैयार्क्कु नन्गु।       ५३४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३५</summary>
+
+मुन्नुऱक् कावादु इऴुक्कियान् तन्बिऴै  
+पिन्नूऱु इरङ्गि विडुम्।       ५३५
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३५</summary>
+
+प्रथमं विपदं प्राप्तां विस्मृत्या त्वनिवारयन् ।  
+खेदे समीपमायाते पश्चादुद्विजते नरः ॥ ५३५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३५</summary>
+
+535\. muṉṉuṟak kāvātu iḻukkiyāṉ, taṉ piḻai,  
+piṉ ūṟu, iraṅkiviṭum.
+
+535\. Who is not on his guard against impending evil, rues his folly?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३५</summary>
+
+5\. முன்னுறக் காவாது இழுக்கியான் தன்பிழை  
+பின்னூறு இரங்கி விடும்.  
+Failing foresight the guardless man  
+Shall rue his folly later on.        535  
+</details>
+
+<details><summary>मूलम् - ५३५</summary>
+
+मुन्नुऱक् कावादु इऴुक्कियान् तन्बिऴै  
+पिन्नूऱु इरङ्गि विडुम्।       ५३५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३६</summary>
+
+इऴुक्कामै यार्माट्टुम् ऎण्ड्रुम् वऴुक्कामै  
+वायिन् अदुवॊप्पदु इल्।       ५३६
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३६</summary>
+
+अविस्मृतिसमारव्येन् गुणेन सदृशं वरम् ।  
+सर्वत्र सर्वकालेषु न तिष्ठेत् क्षेमदायकम् ॥ ५३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३६</summary>
+
+536\. iḻukkāmai yārmāṭṭum, eṉṟum, vaḻukkāmai  
+vāyiṉ, aḵtu oppatu il.
+
+536\. There is no greater good than to be ever on the vigil.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३६</summary>
+
+6\. இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை  
+வாயின் அதுவொப்பது இல்.  
+Forget none; watch with wakeful care  
+Miss none; the gain is sans compare.        536  
+</details>
+
+<details><summary>मूलम् - ५३६</summary>
+
+इऴुक्कामै यार्माट्टुम् ऎण्ड्रुम् वऴुक्कामै  
+वायिन् अदुवॊप्पदु इल्।       ५३६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३७</summary>
+
+अरियऎण्ड्रु आगाद इल्लैबॊच् चावाक्  
+करुवियाल् पोट्रिच् चॆयिन्।       ५३७
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३७</summary>
+
+असाध्यमिदमित्येतत् तस्य नास्ति कदाचन ।  
+अविस्मृत्या साधनीयं कर्म कर्तुं यतेत् यः ॥ ५३७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३७</summary>
+
+537\. ariya eṉṟu ākāta illai-poccāvāk  
+karuviyāṉ pōṟṟic ceyiṉ.
+
+537\. Nothing is impossible for the thoughtful.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३७</summary>
+
+7\. அரியஎன்று ஆகாத இல்லைபொச் சாவாக்  
+கருவியால் போற்றிச் செயின்.  
+With cautious care pursue a thing  
+Impossible there is nothing.        537  
+</details>
+
+<details><summary>मूलम् - ५३७</summary>
+
+अरियऎण्ड्रु आगाद इल्लैबॊच् चावाक्  
+करुवियाल् पोट्रिच् चॆयिन्।       ५३७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३८</summary>
+
+पुगऴ्न्दवै पोट्रिच् चॆयल्वेण्डुम् सॆय्यादु  
+इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्।       ५३८
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३८</summary>
+
+श्लाघितं नीतिशास्त्रज्ञैः क्रियतां कर्म सादरम् ।  
+अकुर्वाणस्य विस्मृत्या सप्त जन्म वृथा भवेत् ॥ ५३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३८</summary>
+
+538\. pukaḻntavai pōṟṟic ceyal vēṇṭum; ceyyātu  
+ikaḻntārkku eḻumaiyum il.
+
+538\. No good awaits him in birth to come who fails of his noble deeds.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३८</summary>
+
+8\. புகழ்ந்தவை போற்றிச் செயல்வேண்டும் செய்யாது  
+இகழ்ந்தார்க்கு எழுமையும் இல்.  
+Do what the wise commend as worth  
+If not, for seven births no mirth.        538  
+</details>
+
+<details><summary>मूलम् - ५३८</summary>
+
+पुगऴ्न्दवै पोट्रिच् चॆयल्वेण्डुम् सॆय्यादु  
+इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्।       ५३८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५३९</summary>
+
+इगऴ्च्चियिन् कॆट्टारै उळ्ळुग तान्दम्  
+मगिऴ्च्चियिन् मैन्दुऱुम् पोऴ्दु।       ५३९
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५३९</summary>
+
+सन्तोषकाले गर्वेण कर्तव्यं यस्तु विस्मरेत् ।  
+स्मर्तव्यास्तेन विस्मृत्या पुरा नाशवशङ्गताः ॥ ५३९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५३९</summary>
+
+539\. ikaḻcciyiṉ keṭṭārai uḷḷuka-tām tam  
+makiḻcciyiṉ maintuṟum pōḻtu!.
+
+539\. When drunk with delight, remember those who have perished through wilful neglect.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५३९</summary>
+
+9\. இகழ்ச்சியின் கெட்டாரை உள்ளுக தாந்தம்  
+மகிழ்ச்சியின் மைந்துறும் போழ்து.  
+When joy deludes, their fate recall  
+Whom negligence has made to fall.        539  
+</details>
+
+<details><summary>मूलम् - ५३९</summary>
+
+इगऴ्च्चियिन् कॆट्टारै उळ्ळुग तान्दम्  
+मगिऴ्च्चियिन् मैन्दुऱुम् पोऴ्दु।       ५३९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ५४०</summary>
+
+उळ्ळियदु ऎय्दल् ऎळिदुमन् मट्रुन्दान्  
+उळ्ळियदु उळ्ळप् पॆऱिन्।       ५४०
+</details>
+
+<details><summary>श्री-राम-देशिकः - ५४०</summary>
+
+चिकीर्षितमविस्मृत्य जागरूकतयाऽनिशम् ।  
+तत्प्राप्त्यै यतमानेन वाञ्छितं साध्यते ध्रुवम् ॥ ५४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ५४०</summary>
+
+540\. uḷḷiyatu eytal eḷitumaṉ-maṟṟum tāṉ  
+uḷḷiyatu uḷḷappeṟiṉ.
+
+540\. No task is difficult to the thoughtful and diligent.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ५४०</summary>
+
+10\. உள்ளியது எய்தல் எளிதுமன் மற்றுந்தான்  
+உள்ளியது உள்ளப் பெறின்.  
+Easy it is a thing to get  
+When the mind on it is set.        540  
+</details>
+
+<details><summary>मूलम् - ५४०</summary>
+
+उळ्ळियदु ऎय्दल् ऎळिदुमन् मट्रुन्दान्  
+उळ्ळियदु उळ्ळप् पॆऱिन्।       ५४०
+</details>

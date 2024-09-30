@@ -1,0 +1,354 @@
++++
+title = "०३ नीत्तार् पॆरुमै"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - २१</summary>
+
+ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
+वेण्डुम् पनुवल् तुणिवु।      २१
+</details>
+
+<details><summary>श्री-राम-देशिकः - २१</summary>
+
+संन्यासैनां सदाचारशीलानां विदितात्मनाम् ।  
+आमनन्ति समे ग्रन्थाः मान्या माहात्म्यमुत्तमम् ॥ २१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २१</summary>
+
+21\. oḻukkattu nīttār perumai viḻuppattu  
+vēṇṭum- paṉuval tuṇivu.
+
+21\. The one supreme thing all scriptures affirm is the great renunciation of those who walk in right conduct.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २१</summary>
+
+1\. ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து  
+வேண்டும் பனுவல் துணிவு  
+No merit can be held so high  
+As theirs who sense and self deny.         21  
+</details>
+
+<details><summary>मूलम् - २१</summary>
+
+ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
+वेण्डुम् पनुवल् तुणिवु।      २१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २२</summary>
+
+तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु  
+इऱन्दारै ऎण्णिक्कॊण् डट्रु।      २२
+</details>
+
+<details><summary>श्री-राम-देशिकः - २२</summary>
+
+निराशस्य मुनेः श्रैष्ठयगणनं ''जीवयकोटयः ।  
+कति जाता मृताश्चे''ति गणनेन समं भवेत् ॥ २२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २२</summary>
+
+22\. tuṟantār perumai tuṇaik kūṟiṉ, vaiyattu  
+iṟantārai eṇṇikkoṇṭaṟṟu.
+
+22\. To measure the greatness of one who has renounced is like reckoning the number of the dead in this world.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २२</summary>
+
+2\. துறந்தார் பெருமை துணைக்கூறின் வையத்து  
+இறந்தாரை எண்ணிக்கொண் டற்று  
+To con ascetic glory here  
+Is to count the dead upon the sphere.         22  
+</details>
+
+<details><summary>मूलम् - २२</summary>
+
+तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु  
+इऱन्दारै ऎण्णिक्कॊण् डट्रु।      २२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३</summary>
+
+इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
+पॆरुमै पिऱङ्गिट्रु उलगु।      २३
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३</summary>
+
+विज्ञाय मोक्षभवयोः सम्भवं सुखदुःखयोः ।  
+संन्यासं भजतां मुक्त्यै प्रभावो बहुमन्यते ॥ २३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३</summary>
+
+23\. irumai vakai terintu īṇṭu aṟam pūṇṭār  
+perumai piṟaṅkiṟṟu, ulaku.
+
+23\. The greatest thing on earth is the renunciation of those who understand birth and liberation.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३</summary>
+
+3\. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
+பெருமை பிறங்கிற்று உலகு  
+No lustre can with theirs compare  
+Who know the right and virtue wear.         23  
+</details>
+
+<details><summary>मूलम् - २३</summary>
+
+इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
+पॆरुमै पिऱङ्गिट्रु उलगु।      २३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २४</summary>
+
+उरनॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पान्  
+वरनॆन्नुम् वैप्पिऱ्कोर् वित्तु।      २४
+</details>
+
+<details><summary>श्री-राम-देशिकः - २४</summary>
+
+धैर्याङ्कुशेन् संयम्य गजान् पञ्चेन्द्रियात्मकान् ।  
+यः पालयत्ययं मोक्षफलकृद्वीजवद्भवेत् ॥ २४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४</summary>
+
+24\. uraṉ eṉṉum tōṭṭiyāṉ, ōr aintum kāppāṉ  
+varaṉ eṉṉum vaippiṟku ōr vittu.
+
+24\. He who with firmness bridles the five senses is (himself) the seed of the eternal bliss.  
+Verily he is the seed of the immortals who with firmness bridles the five senses.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४</summary>
+
+4\. உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்  
+வரன்என்னும் வைப்பிற்கோர் வித்து  
+With hook of firmness to restrain  
+The senses five, is heaven to gain.         24  
+</details>
+
+<details><summary>मूलम् - २४</summary>
+
+उरनॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पान्  
+वरनॆन्नुम् वैप्पिऱ्कोर् वित्तु।      २४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २५</summary>
+
+ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
+इन्दिरने सालुङ् गरि।      २५
+</details>
+
+<details><summary>श्री-राम-देशिकः - २५</summary>
+
+आशापञ्चकमुक्तस्य गीयते शक्तिरुत्तमा ।  
+गौतमादात्तशापोऽत्र देवराजो निदर्शनम् ॥ २५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २५</summary>
+
+25\. aintu avittāṉ āṟṟal, akal vicumpuḷār kōmāṉ  
+intiraṉē cālum, kari.
+
+25\. Indra, the Lord of the skies is himself a witness, to the might of those who have conquered their five senses.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २५</summary>
+
+5\. ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்  
+இந்திரனே சாலுங் கரி  
+Indra himself has cause to say  
+How great the power ascetics' sway.         25  
+</details>
+
+<details><summary>मूलम् - २५</summary>
+
+ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
+इन्दिरने सालुङ् गरि।      २५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २६</summary>
+
+सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्  
+सॆयऱ्करिय सॆय्गला तार्।      २६
+</details>
+
+<details><summary>श्री-राम-देशिकः - २६</summary>
+
+सर्वेन्द्रियजयाख्यानं कर्मान्यैर्दुष्करं जनैः ।  
+ये कुर्वन्त्युत्तमास्ते स्युः अन्येत्वधम मध्यमाः ॥ २६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २६</summary>
+
+26\. ceyaṟku ariya ceyvār periyar; ciṟiyar  
+ceyaṟku ariya ceykalātār.
+
+26\. The great achieve the impossible; the little cannot.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २६</summary>
+
+6\. செயற்கரிய செய்வார் பெரியர் சிறியர்  
+செயற்கரிய செய்கலா தார்  
+The small the paths of ease pursue  
+The great achieve things rare to do.         26  
+</details>
+
+<details><summary>मूलम् - २६</summary>
+
+सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्  
+सॆयऱ्करिय सॆय्गला तार्।      २६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७</summary>
+
+सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
+वगैदॆरिवान् कट्टे उलगु।      २७
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७</summary>
+
+रूपगान्धरसादीनां तन्मात्राणां विधां भुवि ।  
+जानाति यः प्रपञ्चोऽयं वशे तस्य भविष्यति ॥ २७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७</summary>
+
+27\. cuvai, oḷi, ūṟu, ōcai, nāṟṟam eṉṟu aintiṉ  
+vakai terivāṉkaṭṭē-ulaku.
+
+27\. The world falls at the feet of one who has realised the true nature of the taste, sight, touch, sound and smell.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७</summary>
+
+7\. சுவைஒளி ஊறுஓசை நாற்றமென்று ஐந்தின்  
+வகைதெரிவான் கட்டே உலகு  
+They gain the world, who grasp and tell  
+Of taste, sight, hearing, touch and smell.         27  
+</details>
+
+<details><summary>मूलम् - २७</summary>
+
+सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
+वगैदॆरिवान् कट्टे उलगु।      २७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २८</summary>
+
+निऱैमॊऴि मान्दर् पॆरुमै निलत्तु  
+मऱैमॊऴि काट्टि विडुम्।      २८
+</details>
+
+<details><summary>श्री-राम-देशिकः - २८</summary>
+
+यतोक्तधर्मनिष्ठानां यतीनां महिमादिकम् ।  
+मन्त्रादि सहितैर्वेदवाक्यैरेव निरूप्यते ॥ २८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८</summary>
+
+28\. niṟaimoḻi māntar perumai nilattu  
+maṟaimoḻi kāṭṭiviṭum.
+
+28\. The greatness of the sages in this world is borne out by their prophetic utterances.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८</summary>
+
+8\. நிறைமொழி மாந்தர் பெருமை நிலத்து  
+மறைமொழி காட்டி விடும்  
+Full-worded men by what they say,  
+Their greatness to the world display.         28  
+</details>
+
+<details><summary>मूलम् - २८</summary>
+
+निऱैमॊऴि मान्दर् पॆरुमै निलत्तु  
+मऱैमॊऴि काट्टि विडुम्।      २८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २९</summary>
+
+कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
+कणमेयुम् कात्तल् अरिदु।      २९
+</details>
+
+<details><summary>श्री-राम-देशिकः - २९</summary>
+
+गुणपर्वतमारूढाः मुनयः कुपिता यदि ।  
+क्षणिकोऽपि स दुर्वारफलःशान्तिप्रसादने ॥ २९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २९</summary>
+
+29\. kuṇam eṉṉum kuṉṟu ēṟi niṉṟār vekuḷi  
+kaṇam ēyum, kāttal aritu.
+
+29\. It is impossible to resist even for a minute the wrath of those who stand on the hill of virtue’s actions.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २९</summary>
+
+9\. குணமென்னும் குன்றேறி நின்றார் வெகுளி  
+கணமேயுங் காத்தல் அரிது.  
+Their wrath, who've climb'd the mount of good,  
+Though transient, cannot be withstood.         29  
+</details>
+
+<details><summary>मूलम् - २९</summary>
+
+कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
+कणमेयुम् कात्तल् अरिदु।      २९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ३०</summary>
+
+अन्दणर् ऎन्बोर् अऱवोर्मऱ्ऱॆव्वुयिर् क्कुम्  
+सॆन्दण्मै पूण्डॊऴुग लान्।      ३०
+</details>
+
+<details><summary>श्री-राम-देशिकः - ३०</summary>
+
+सर्वभूतदयासान्द्राः ये तु धर्मपरायणाः ।  
+त एव ब्राह्मणाः प्रोक्ताः यतयः संशितव्रता ॥ ३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०</summary>
+
+30\. antaṇar eṉpōr aṟavōr-maṟṟu ev uyirkkum  
+cen taṇmai pūṇṭu oḻukalāṉ.
+
+30\. They are the Brahmans who are righteous and love all creation.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ३०</summary>
+
+30\. antaṇar eṉpōr aṟavōr-maṟṟu ev uyirkkum  
+cen taṇmai pūṇṭu oḻukalāṉ.
+
+30\. They are the Brahmans who are righteous and love all creation.
+
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ३०</summary>
+
+10\. அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்  
+செந்தண்மை பூண்டொழுக லான்  
+With gentle mercy towards all,  
+The sage fulfils the vitue's call.         30  
+</details>
+
+<details><summary>मूलम् - ३०</summary>
+
+अन्दणर् ऎन्बोर् अऱवोर्मऱ्ऱॆव्वुयिर् क्कुम्  
+सॆन्दण्मै पूण्डॊऴुग लान्।      ३०
+</details>

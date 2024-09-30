@@ -1,0 +1,347 @@
++++
+title = "२० पुगऴ्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - २३१</summary>
+
+ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
+ऊदियम् इल्लै उयिर्क्कु।      २३१
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३१</summary>
+
+अर्थिभ्यो वाञ्छितं दत्त्वा कीर्त्या सह वसेन्नरः ।  
+नरस्य जन्मसाफल्यं नास्ति कीर्ति विना भुवि ॥ २३१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३१</summary>
+
+231\. ītal! icaipaṭa vāḻtal! atu allatu  
+ūtiyam illai, uyirkku.
+
+231\. Give and make a name. There is no greater gain to man than such a renown.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३१</summary>
+
+1\. ஈதல் இசைபட வாழ்தல் அதுவல்லது  
+ஊதியம் இல்லை உயிர்க்கு  
+They gather fame who freely give  
+The greatest gain for all that live.        231  
+</details>
+
+<details><summary>मूलम् - २३१</summary>
+
+ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
+ऊदियम् इल्लै उयिर्क्कु।      २३१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३२</summary>
+
+उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊण्ड्रु  
+ईवार्मेल् निऱ्कुम् पुगऴ्।       २३२
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३२</summary>
+
+याचकेभ्यो दारिद्र्येभ्यः स्वल्पं वापि प्रयच्छतः ।  
+कीर्तिरेव सदा सद्भिर्गीता भवति शाश्वती ॥ २३२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३२</summary>
+
+232\. uraippār uraippavai ellām irappārkku oṉṟu  
+īvārmēl niṟkum pukaḻ.
+
+232\. The one undying theme of praise is the praise of charity.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३२</summary>
+
+2\. உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று  
+ஈவார்மேல் நிற்கும் புகழ்  
+The glory of the alms-giver  
+Is praised aloud as popular.        232  
+</details>
+
+<details><summary>मूलम् - २३२</summary>
+
+उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊण्ड्रु  
+ईवार्मेल् निऱ्कुम् पुगऴ्।       २३२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३३</summary>
+
+ऒण्ड्रा उलगत्तु उयर्न्द पुगऴल्लाल्  
+पॊण्ड्रादु निऱ्पदॊन् ऱिल्।       २३३
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३३</summary>
+
+बहुकालमभिव्याप्य तिष्ठन्तीं कीर्तिमन्तरा ।  
+लोके निरुपमं नित्यमेकं वस्तु न विद्यते ॥ २३३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३३</summary>
+
+233\. oṉṟā ulakattu uyarnta pukaḻ allāl,  
+poṉṟātu niṟpatu oṉṟu il.
+
+233\. Nothing lasts save one’s fearless renown.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३३</summary>
+
+3\. ஒன்றா உலகத்து உயர்ந்த புகழல்லால்  
+பொன்றாது நிற்பதொன்று இல்  
+Nothing else lasts on earth for e'er  
+Saving high fame of the giver!        233  
+</details>
+
+<details><summary>मूलम् - २३३</summary>
+
+ऒण्ड्रा उलगत्तु उयर्न्द पुगऴल्लाल्  
+पॊण्ड्रादु निऱ्पदॊन् ऱिल्।       २३३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३४</summary>
+
+निलवरै नीळ्बुगऴ् आट्रिन् पुलवरैप्  
+पोट्रादु पुत्तेळ् उलगु।       २३४
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३४</summary>
+
+पृथिव्याः स्थितिपर्यन्तां कीर्ति यो लभते नरः ।  
+स्वर्गलोकोऽपि तं स्तौति न तु ज्ञानसमन्वितान् ॥ २३४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३४</summary>
+
+234\. nila varai nīḷ pukaḻ āṟṟiṉ, pulavaraip  
+pōṟṟātu, puttēḷ ulaku.
+
+234\. The wise are not favoured of the gods; but the' renowned on earth are adored by them.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३४</summary>
+
+4\. நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்  
+போற்றாது புத்தேள் உலகு  
+From hailing gods heavens will cease  
+To hail the men of lasting praise        234  
+</details>
+
+<details><summary>मूलम् - २३४</summary>
+
+निलवरै नीळ्बुगऴ् आट्रिन् पुलवरैप्  
+पोट्रादु पुत्तेळ् उलगु।       २३४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३५</summary>
+
+नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
+वित्तगर्क् कल्लाल् अरिदु।       २३५
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३५</summary>
+
+स्थिरकीर्त्या च मरणं यश्ःकायेन जीवनम् ।  
+महतां ज्ञानिनामेव लभ्यं स्यात् नापरस्य तु ॥ २३५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३५</summary>
+
+235\. nattampōl kēṭum, uḷatākum cākkāṭum,  
+vittakarkku allāl aritu.
+
+235\. Out of death and ruin the wise fashion things enduring.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३५</summary>
+
+5\. நத்தம்போல் கேடும் உளதாகும் சாக்காடும்  
+வித்தகர்க் கல்லால் அரிது  
+Fame in fall and life in death  
+Are rare but for the soulful worth.        235  
+</details>
+
+<details><summary>मूलम् - २३५</summary>
+
+नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
+वित्तगर्क् कल्लाल् अरिदु।       २३५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३६</summary>
+
+तोण्ड्रिन् पुगऴॊडु तोण्ड्रुग अह्दिलार्  
+तोण्ड्रलिन् तोण्ड्रामै नण्ड्रु।       २३६
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३६</summary>
+
+यदीष्टं मानुषं जन्म कीर्त्या जननमुत्तमम् ।  
+अन्यथा मृगजन्मैव श्लाघ्यते मर्त्यजन्मनः ॥ २३६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३६</summary>
+
+236\. tōṉṟiṉ, pukaḻoṭu tōṉṟuka! aḵtu ilār  
+tōṉṟaliṉ tōṉṟāmai naṉṟu.
+
+236\. Let man be born to achieve renown. Let not the unrenowned see the light of day.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३६</summary>
+
+6\. தோன்றின் புகழோடு தோன்றுக அஃதிலார்  
+தோன்றலின் தோன்றாமை நன்று  
+Be born with fame if birth you want  
+If not of birth you must not vaunt.        236  
+</details>
+
+<details><summary>मूलम् - २३६</summary>
+
+तोण्ड्रिन् पुगऴॊडु तोण्ड्रुग अह्दिलार्  
+तोण्ड्रलिन् तोण्ड्रामै नण्ड्रु।       २३६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३७</summary>
+
+पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
+इगऴ्वारै नोवदु ऎवन्?       २३७
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३७</summary>
+
+अशक्तो जीवितुं कीर्त्या न द्वेष्ट्यात्मानमात्मना ।  
+किन्त्वात्मनिन्दकं द्वेष्टि किं भवेदत्र कारणम् ॥ २३७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३७</summary>
+
+237\. pukaḻpaṭa vāḻātār tam nōvār, tammai  
+ikaḻvārai nōvatu evaṉ?.
+
+237\. Let the inglorious blame themselves. Let them not reproach others.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३७</summary>
+
+7\. புகழ்பட வாழாதார் தந்நோவார் தம்மை  
+இகழ்வாரை நோவது எவன்.  
+Why grieve at those who blame the shame  
+Of those who cannot live in fame?        237  
+</details>
+
+<details><summary>मूलम् - २३७</summary>
+
+पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
+इगऴ्वारै नोवदु ऎवन्?       २३७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३८</summary>
+
+वसैयॆन्ब वैयत्तार्क् कॆल्लाम् इसैयॆन्नुम्  
+ऎच्चम् पॆऱाअ विडिन्।       २३८
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३८</summary>
+
+अनवाप्य यशो लोके ये हि जीवन्ति मानवाः ।  
+निन्दितं जीवनं तेषामिति सद्भिः प्रकीर्त्यते ॥ २३८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३८</summary>
+
+238\. 'vacai' eṉpa, vaiyattārkku ellām-’icai’ eṉṉum  
+eccam peṟāaviṭiṉ.
+
+238\. World’s reproach befalls one who does not achieve lasting fame.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३८</summary>
+
+8\. வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்  
+எச்சம் பெறா விடின்  
+To men on earth it is a shame  
+Not to beget the child of fame.        238  
+</details>
+
+<details><summary>मूलम् - २३८</summary>
+
+वसैयॆन्ब वैयत्तार्क् कॆल्लाम् इसैयॆन्नुम्  
+ऎच्चम् पॆऱाअ विडिन्।       २३८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २३९</summary>
+
+वसैयिला वण्बयन् कुण्ड्रुम् इसैयिला  
+याक्कै पॊऱुत्त निलम्।       २३९
+</details>
+
+<details><summary>श्री-राम-देशिकः - २३९</summary>
+
+यशसा तु विहीनस्य कायं या बिभृयान्मही ।  
+निर्दुष्ट सस्यसम्पत्तिविहीना सा भवेद् धुवम् ॥ २३९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २३९</summary>
+
+239\. vacai ilā vaṇ payaṉ kuṉṟum-icai ilā  
+yākkai poṟutta nilam.
+
+239\. In a land which bears the burden of the unrenowned even nature’s bounty is on the wane.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २३९</summary>
+
+9\. வசையிலா வண்பயன் குன்றும் இசையிலா  
+யாக்கை பொறுத்த நிலம்  
+The land will shrink in yield if men  
+O'erburden it without renown.        239  
+</details>
+
+<details><summary>मूलम् - २३९</summary>
+
+वसैयिला वण्बयन् कुण्ड्रुम् इसैयिला  
+याक्कै पॊऱुत्त निलम्।       २३९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २४०</summary>
+
+वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय  
+वाऴ्वारे वाऴा तवर्।       २४०
+</details>
+
+<details><summary>श्री-राम-देशिकः - २४०</summary>
+
+अपवादेन रहितो यो जीवति स जीवति ।  
+जीवन्नप्यपवादेन मृतप्रायो हि गण्यते ॥ २४०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २४०</summary>
+
+240\. vacai oḻiya vāḻvārē vāḻvār; icai oḻiya  
+vāḻvārē vāḻātavar.
+
+240\. The unblemished truly live; the unrenowned merely exist.
+
+**End of the Section on Domestic Life**  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २४०</summary>
+
+10\. வசைஒழிய வாழ்வாரே வாழ்வார் இசையொழிய  
+வாழ்வாரே வாழா தவர்  
+They live who live without blemish  
+The blameful ones do not flourish.        240  
+</details>
+
+<details><summary>मूलम् - २४०</summary>
+
+वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय  
+वाऴ्वारे वाऴा तवर्।       २४०
+</details>
+इल्लऱवियल् मुट्रिट्रु  

@@ -1,0 +1,353 @@
++++
+title = "०४ कूडावॊऴुक्कम्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - २७१</summary>
+
+वञ्ज मनत्तान् पडिट्रॊऴुक्कम् पूदङ्गळ्  
+ऐन्दुम् अगत्ते नगुम्।      २७१
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७१</summary>
+
+वञ्चकस्य दुराचारं तच्छरीरगतान्यपि ।  
+पञ्च भूतानि दृष्टवैव मन्दमन्तर्हसन्ति हि ॥ २७१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७१</summary>
+
+271\. vañca maṉattāṉ paṭiṟṟu oḻukkam pūtaṅkaḷ  
+aintum akattē nakum.
+
+271\. A man’s five senses will laugh within at the false conduct of a deceitful mind.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७१</summary>
+
+1\. வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்  
+ஐந்தும் அகத்தே நகும்.  
+Elements five of feigned life  
+Of a sly hypocrite within laugh.        271  
+</details>
+
+<details><summary>मूलम् - २७१</summary>
+
+वञ्ज मनत्तान् पडिट्रॊऴुक्कम् पूदङ्गळ्  
+ऐन्दुम् अगत्ते नगुम्।      २७१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७२</summary>
+
+वानुयर् तोट्रम् ऎवन्सॆय्युम् तन्नॆञ्जम्  
+तान्अऱि कुट्रप् पडिन्।      २७२
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७२</summary>
+
+अकार्यमिति मत्वापि कुर्वतः पुनरेव तत् ।  
+आकाशेनेव महता तपोवेषेण किं फलम्? ॥ २७२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७२</summary>
+
+272\. vāṉ uyar tōṟṟam evaṉ ceyyum-taṉ neñcam  
+tāṉ aṟi kuṟṟapaṭiṉ?.
+
+272\. Of what avail is a man’s saintly mien, if his mind is bent on evil?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७२</summary>
+
+2\. வானுயர் தோற்றம் எவன்செய்யும் தன்நெஞ்சம்  
+தான்அறி குற்றப் படின்  
+Of what avail are sky-high shows  
+When guild the conscience gnaws and knows.        272  
+</details>
+
+<details><summary>मूलम् - २७२</summary>
+
+वानुयर् तोट्रम् ऎवन्सॆय्युम् तन्नॆञ्जम्  
+तान्अऱि कुट्रप् पडिन्।      २७२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७३</summary>
+
+वलियिल् निलैमैयान् वल्लुरुवम् पॆट्रम्  
+पुलियिन्दोल् पोर्त्तुमेय्न् दट्रु।      २७३
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७३</summary>
+
+मनसो निग्रहं हित्वा मुनिवेषस्य वर्तनम् ।  
+वुआघ्रचर्मवृत्तो घेनुः सस्यं चरति चेत्, तथा ॥ २७३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७३</summary>
+
+273\. vali il nilaimaiyāṉ val uruvam peṟṟam  
+puliyiṉ tōl pōrttu mēyntaṟṟu.
+
+273\. The ascetic appearance of one who has no strength of will, is like that of an ox grazing in the guise of a tiger.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७३</summary>
+
+3\. வலியில் நிலைமையான் வல்லுருவம் பெற்றம்  
+புலியின்தோல் போர்த்துமேய்ந் தற்று.  
+Vaunting sainthood while weak within  
+Seems a grazer with tiger skin.        273  
+</details>
+
+<details><summary>मूलम् - २७३</summary>
+
+वलियिल् निलैमैयान् वल्लुरुवम् पॆट्रम्  
+पुलियिन्दोल् पोर्त्तुमेय्न् दट्रु।      २७३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७४</summary>
+
+तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु  
+वेट्टुवन् पुळ्सिमिऴ्त् तट्रु।      २७४
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७४</summary>
+
+तपोवेषनिलीनेन परदारपरिग्रहः ।  
+गुल्मलीननिषादेन पक्षिग्रहणवद्भवेत् ॥ २७४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७४</summary>
+
+274\. tavam maṟaintu, allavai ceytal-putalmaṟaintu  
+vēṭṭuvaṉ puḷ cimiḻttaṟṟu.
+
+274\. Committing evil under the mask of holiness is like the hunter lying in wait for birds.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७४</summary>
+
+4\. தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து  
+வேட்டுவன் புள்சிமிழ்த் தற்று.  
+Sinning in saintly show is like  
+Fowlers in ambush birds to strike.        274  
+</details>
+
+<details><summary>मूलम् - २७४</summary>
+
+तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु  
+वेट्टुवन् पुळ्सिमिऴ्त् तट्रु।      २७४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७५</summary>
+
+पट्रट्रेम् ऎन्बार् पडिट्रॊऴुक्कम् ऎट्रॆट्रॆण्ड्रु  
+एदम् पलवुन् दरुम्।      २७५
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७५</summary>
+
+''अहं वितक्त'' इत्युत्क्वा दुश्चर्यां यो निषेवते ।  
+''किं कृतं किं कृतं हे'' ति फलकाले स खिद्यते ॥ २७५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७५</summary>
+
+275\. 'paṟṟu aṟṟēm' eṉpār paṭiṟṟu oḻukkam. ‘eṟṟu! eṟṟu!' eṉṟu  
+ētam palavum tarum.
+
+275\. The hypocrisy of one who professes asceticism lands one in endless troubles.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७५</summary>
+
+5\. பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று  
+ஏதம் பலவுந் தரும்.  
+Who false within but freedom feign  
+Shall moan "What have we done" with pain.        275  
+</details>
+
+<details><summary>मूलम् - २७५</summary>
+
+पट्रट्रेम् ऎन्बार् पडिट्रॊऴुक्कम् ऎट्रॆट्रॆण्ड्रु  
+एदम् पलवुन् दरुम्।      २७५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७६</summary>
+
+नॆञ्जिन् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु  
+वाऴ्वारिन् वन्गणार् इल्।      २७६
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७६</summary>
+
+मनोवैराग्यमप्राप्य विरक्त इव यो नरः ।  
+वर्तते कपटाचारः कठिनो नास्ति तत्समः ॥ २७६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७६</summary>
+
+276\. neñciṉ tuṟavār, tuṟantārpōl vañcittu,  
+vāḻvāriṉ vaṉkaṇār il.
+
+276\. There is none so hardened in vice as one who though hollow at heart, wears the mask of saintliness.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७६</summary>
+
+6\. நெஞ்சில் துறவார் துறந்தார்போல் வஞ்சித்து  
+வாழ்வாரின் வன்கணார் இல்  
+Vilest is he who seems a saint  
+Cheating the world without restraint.        276  
+</details>
+
+<details><summary>मूलम् - २७६</summary>
+
+नॆञ्जिन् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु  
+वाऴ्वारिन् वन्गणार् इल्।      २७६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७७</summary>
+
+पुऱङ्गुण्ड्रि कण्डनैय रेनुम् अगङ्गुण्ड्रि  
+मुक्किऱ्करियार् उडैत्तु।      २७७
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७७</summary>
+
+बहिर्गुञ्जासमाकाराः बहवो रक्तवाससः ।  
+अज्ञान मन्तरेतेर्षां गुञाग्रे श्यामता यथा ॥ २७७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७७</summary>
+
+277\. puṟam kuṉṟi kaṇṭaṉaiyarēṉum, akam kuṉṟi  
+mūkkil kariyār uṭaittu.
+
+277\. This world contains (many) men who like the Kunri seed are fair of face but foul of heart.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७७</summary>
+
+7\. புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி  
+மூக்கிற் கரியார் உடைத்து  
+Berry-red is his outward view,  
+Black like its nose his inward hue.        277  
+</details>
+
+<details><summary>मूलम् - २७७</summary>
+
+पुऱङ्गुण्ड्रि कण्डनैय रेनुम् अगङ्गुण्ड्रि  
+मुक्किऱ्करियार् उडैत्तु।      २७७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७८</summary>
+
+मनत्तदु मासाग माण्डार् नीराडि  
+मऱैन्दॊऴुगु मान्दर् पलर्।      २७८
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७८</summary>
+
+दुष्टचित्तास्तपस्सिद्धा इव स्नानेन केवलम् ।  
+कपटाचारसञ्छन्ना वञ्चकाः सन्ति भूरिशः ॥ २७८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७८</summary>
+
+278\. maṉattatu mācu āka, māṇṭār nīr āṭi,  
+maṟaintu oḻukum māntar palar.
+
+278\. There are many insincere men who frequent sacred waters to pass for holy men.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७८</summary>
+
+8\. மனத்தது மாசாக மாண்டார்நீ ராடி  
+மறைந்தொழுகும் மாந்தர் பலர்.  
+Filthy in mind some bathe in streams  
+Hiding sins in showy extremes.        278  
+</details>
+
+<details><summary>मूलम् - २७८</summary>
+
+मनत्तदु मासाग माण्डार् नीराडि  
+मऱैन्दॊऴुगु मान्दर् पलर्।      २७८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २७९</summary>
+
+कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गन्न  
+विनैबडु पालाल् कॊळल्।      २७९
+</details>
+
+<details><summary>श्री-राम-देशिकः - २७९</summary>
+
+काठिन्यमार्दवे बाणवीणरोः कर्मणा ग्रथा ।  
+मुनावपि तथा ज्ञेयं न वेषस्तत्र कारणम् ॥ २७९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २७९</summary>
+
+279\. kaṇai koṭitu; yāḻ kōṭu cevvitu; āṅku aṉṉa  
+viṉaipaṭu pālāl koḷal.
+
+279\. The arrow, though straight is deadly; the yāl though crooked is sweet. Let people be judged by their actions.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २७९</summary>
+
+9\. கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன  
+வினைபடு பாலால் கொளல்.  
+Know men by acts and not by forms  
+Strait arrow kills, bent lute but charms.        279  
+</details>
+
+<details><summary>मूलम् - २७९</summary>
+
+कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गन्न  
+विनैबडु पालाल् कॊळल्।      २७९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २८०</summary>
+
+मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्  
+पऴित्तदु ऒऴित्तु विडिन्।      २८०
+</details>
+
+<details><summary>श्री-राम-देशिकः - २८०</summary>
+
+लोकदूष्ये दुराचारस्त्यज्यतेचेत् तपस्विभिः ।  
+कुतो वा मुण्डनं तेषां जटाभारेण वा किमु ॥ २८०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८०</summary>
+
+280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
+paḻittatu oḻittuviṭiṉ.
+
+280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २८०</summary>
+
+280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
+paḻittatu oḻittuviṭiṉ.
+
+280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
+
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २८०</summary>
+
+10\. மழித்தலும் நீட்டலும் வேண்டா உலகம்  
+பழித்தது ஒழித்து விடின்.  
+No balding nor tangling the hair!  
+Abstain from condemned acts with care.        280  
+</details>
+
+<details><summary>मूलम् - २८०</summary>
+
+मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्  
+पऴित्तदु ऒऴित्तु विडिन्।      २८०
+</details>

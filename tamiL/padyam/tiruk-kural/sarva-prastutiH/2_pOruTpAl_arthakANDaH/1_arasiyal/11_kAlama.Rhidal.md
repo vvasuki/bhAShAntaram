@@ -1,0 +1,344 @@
++++
+title = "११ कालमऱिदल्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८१</summary>
+
+पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
+वेन्दर्क्कु वेण्डुम् पॊऴुदु।       ४८१
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८१</summary>
+
+उलूको बलवानह्नि काकेनाल्पेन जीयते ।  
+जयैषिणस्तथा राज्ञः कालः ख्रलु निरीक्ष्यते ॥ ४८१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८१</summary>
+
+481\. pakal vellum, kūkaiyaik kākkai;- ikal vellum  
+vēntarkku vēṇṭum, poḻutu.
+
+481\. During the day the crow conquers the owl. So the monarch who wishes to defeat the enemy must choose the proper time.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८१</summary>
+
+1\. பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்  
+வேந்தர்க்கு வேண்டும் பொழுது.  
+By day the crow defeats the owl  
+Kings need right time their foes to quell.        481  
+</details>
+
+<details><summary>मूलम् - ४८१</summary>
+
+पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
+वेन्दर्क्कु वेण्डुम् पॊऴुदु।       ४८१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८२</summary>
+
+परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविनैत्  
+तीरामै आर्क्कुङ् गयिऱु।       ४८२
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८२</summary>
+
+काले कर्म समारब्धं विचार्य च कृतं पुनः ।  
+अस्थिरामपि सम्पत्तिं बघ्नात्येकत्र सुस्थिराम् ॥ ४८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८२</summary>
+
+482\. paruvattoṭu oṭṭa oḻukal-tiruviṉait  
+tīrāmai ārkkum kayiṟu.
+
+482\. Action at the appropriate hour is the rope that holds for ever the Goddess of Fortune to the King.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८२</summary>
+
+2\. பருவத்தோடு ஒட்ட ஒழுகல் திருவினைத்  
+தீராமை ஆர்க்கும் கயிறு.  
+Well-ordered seasoned act is cord  
+That fortune binds in bon accord.        482  
+</details>
+
+<details><summary>मूलम् - ४८२</summary>
+
+परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविनैत्  
+तीरामै आर्क्कुङ् गयिऱु।       ४८२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८३</summary>
+
+अरुविनै यॆन्ब उळवो करुवियान्  
+कालम् अऱिन्दु सॆयिन्।       ४८३
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८३</summary>
+
+क्रियोपयुक्तकरणैः कार्यं काले करोति यः ।  
+साध्यते सुलभं तेन नासाध्यं भुवि किञ्चन ॥ ४८३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८३</summary>
+
+483\. aru viṉai eṉpa uḷavō-karuviyāṉ  
+kālam aṟintu ceyiṉ.
+
+483\. Is there anything impossible if one acts at the right time and with the proper equipment?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८३</summary>
+
+3\. அருவினை என்ப உளவோ கருவியான்  
+காலம் அறிந்து செயின்  
+What is hard for him who acts  
+With proper means and time and tacts?        483  
+</details>
+
+<details><summary>मूलम् - ४८३</summary>
+
+अरुविनै यॆन्ब उळवो करुवियान्  
+कालम् अऱिन्दु सॆयिन्।       ४८३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८४</summary>
+
+ञालम् करुदिनुङ् गैगूडुङ् गालम्  
+करुदि इडत्ताऱ्चॆयिन्।       ४८४
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८४</summary>
+
+कृत्स्नामपि महीं भोक्तुं स शक्नोति महीतले ।  
+काले देशे च कर्माणि यः करोति समाहितः ॥ ४८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८४</summary>
+
+484\. ñālam karutiṉum, kaikūṭum-kālam  
+karuti, iṭattāṉ ceyiṉ.
+
+484\. One can succeed in the attempt to conquer the world if the right time and the right place are chosen.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८४</summary>
+
+4\. ஞாலம் கருதினுங் கைகூடும் காலம்  
+கருதி இடத்தாற் செயின்.  
+Choose proper time and act and place  
+Even the world you win with ease.        484  
+</details>
+
+<details><summary>मूलम् - ४८४</summary>
+
+ञालम् करुदिनुङ् गैगूडुङ् गालम्  
+करुदि इडत्ताऱ्चॆयिन्।       ४८४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८५</summary>
+
+कालम् करुदि इरुप्पर् कलङ्गादु  
+ञालम् करुदु पवर्।       ४८५
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८५</summary>
+
+कृत्स्नस्य जगतो वाञ्छा यदि स्यात् किन्नु चिन्तया ।  
+युक्तकालं प्रतीक्षस्व निष्क्रियस्त्वं भज क्षमाम् ॥ ४८५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८५</summary>
+
+485\. kālam karuti iruppar-kalaṅkātu  
+ñālam karutupavar.
+
+485\. He who without any fear aims at the conquest of the world will await the season for it.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८५</summary>
+
+5\. காலம் கருதி இருப்பர் கலங்காது  
+ஞாலம் கருது பவர்.  
+Who want to win the world sublime  
+Wait unruffled biding their time.        485  
+</details>
+
+<details><summary>मूलम् - ४८५</summary>
+
+कालम् करुदि इरुप्पर् कलङ्गादु  
+ञालम् करुदु पवर्।       ४८५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८६</summary>
+
+ऊक्क मुडैयान् ऒडुक्कम् पॊरुदगर्  
+ताक्कऱ्कुप् पेरुन् दगैत्तु।      ४८६
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८६</summary>
+
+राज्ञः कालार्थिनो मौनाद् वर्तनं युद्धमन्तरा ।  
+मेषस्य युद्धतः पृष्ठगमनेन समं भवेत् ॥ ४८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८६</summary>
+
+486\. ūkkam uṭaiyāṉ oṭukkam poru takar  
+tākkaṟkup pērum takaittu.
+
+486\. The self-restraint of the mighty is like the drawing back of the fighting ram just before its attack.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८६</summary>
+
+6\. ஊக்க முடையான் ஒடுக்கம் பொருதகர்  
+தாக்கற்குப் பேருந் தகைத்து.  
+By self-restraint stalwarts keep fit  
+Like rams retreating but to butt.        486  
+</details>
+
+<details><summary>मूलम् - ४८६</summary>
+
+ऊक्क मुडैयान् ऒडुक्कम् पॊरुदगर्  
+ताक्कऱ्कुप् पेरुन् दगैत्तु।      ४८६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८७</summary>
+
+पॊळ्ळॆन आङ्गे पुऱम्वेरार् कालम्बार्त्तु  
+उळ्वेर्प्पर् ऒळ्ळि यवर्।       ४८७
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८७</summary>
+
+शत्रोरग्रे बुधाः क्रोधं विसृजेर्युन वै वहिः ।  
+अन्तर्निगूह्य ते कोपं काले स्युः कार्यसाधकाः ॥ ४८७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८७</summary>
+
+487\. poḷḷeṉa āṅkē puṟam vērār; kālam pārttu,  
+uḷ vērppar, oḷḷiyavar.
+
+487\. The wise will not fly into a passion when assailed; they allow their anger to smoulder within till the right time comes.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८७</summary>
+
+7\. பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்து  
+உள்வேர்ப்பர் ஒள்ளி யவர்.  
+The wise jut not their vital fire  
+They watch their time with hidden ire.        487  
+</details>
+
+<details><summary>मूलम् - ४८७</summary>
+
+पॊळ्ळॆन आङ्गे पुऱम्वेरार् कालम्बार्त्तु  
+उळ्वेर्प्पर् ऒळ्ळि यवर्।       ४८७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८८</summary>
+
+सॆऱुनरैक् काणिन् सुमक्क इऱुवरै  
+काणिन् किऴक्काम् तलै।       ४८८
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८८</summary>
+
+नाशकाले समायाते रिपोः शीर्षमघः पतेत् ।  
+तावता मौनमास्थेयं क्षमया जयकाङ्क्षिणा ॥ ४८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८८</summary>
+
+488\. ceṟunaraik kāṇiṉ cumakka; iṟuvarai  
+kāṇiṉ kiḻakkām talai.
+
+488\. Bow before the enemy till the time of his destruction. When the hour comes, strike him down.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८८</summary>
+
+8\. செறுநரைக் காணின் சுமக்க இறுவரை  
+காணின் கிழக்காம் தலை.  
+Bear with hostiles when you meet them  
+Fell down their head in fateful time.        488  
+</details>
+
+<details><summary>मूलम् - ४८८</summary>
+
+सॆऱुनरैक् काणिन् सुमक्क इऱुवरै  
+काणिन् किऴक्काम् तलै।       ४८८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४८९</summary>
+
+ऎय्दऱ्करियदु इयैन्दक्काल् अन्निलैये  
+सॆय्दऱ्करिय सॆयल्।       ४८९
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४८९</summary>
+
+कालेऽनुकूले संप्राप्ते तमलभ्यं विभाव्य च ।  
+तदैव कुरु कर्तव्यं तं कालं न हि द्रक्ष्यसि ॥ ४८९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४८९</summary>
+
+489\. eytaṟku ariyatu iyaintakkāl, an nilaiyē  
+ceytaṟku ariya ceyal.
+
+489\. Do not let slip a golden opportunity; when the hour dawns, attempt the impossible.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४८९</summary>
+
+9\. எய்தற் கரியது இயைந்தக்கால் அந்நிலையே  
+செய்தற் கரிய செயல்.  
+When comes the season ripe and rare  
+Dare and do hard things then and there.        489  
+</details>
+
+<details><summary>मूलम् - ४८९</summary>
+
+ऎय्दऱ्करियदु इयैन्दक्काल् अन्निलैये  
+सॆय्दऱ्करिय सॆयल्।       ४८९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ४९०</summary>
+
+कॊक्कॊक्क कूम्बुम् परुवत्तु मट्रदन्  
+कुत्तॊक्क सीर्त्त इडत्तु।       ४९०
+</details>
+
+<details><summary>श्री-राम-देशिकः - ४९०</summary>
+
+कार्यसाधनपर्यन्तं बकवत्तिष्ठ निष्क्रियः ।  
+कुरु कार्यं क्षणात् काले चञ्च्वा मीनं बको यथा ॥ ४९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ४९०</summary>
+
+490\. kokku okka, kūmpum paruvattu; maṟṟu ataṉ  
+kuttu okka, cīrtta iṭattu.
+
+490\. When the time is not ripe, be still as a heron. But at the ripe hour, attack the enemy without missing your aim.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ४९०</summary>
+
+10\. கொக்கொக்க கூம்பும் பருவத்து மற்றதன்  
+குத்தொக்க சீர்த்த இடத்து.  
+In waiting time feign peace like stork  
+In fighting time strike like its peck.        490  
+</details>
+
+<details><summary>मूलम् - ४९०</summary>
+
+कॊक्कॊक्क कूम्बुम् परुवत्तु मट्रदन्  
+कुत्तॊक्क सीर्त्त इडत्तु।       ४९०
+</details>

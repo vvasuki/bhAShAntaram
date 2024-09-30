@@ -1,0 +1,344 @@
++++
+title = "०७ कनवुनिलैयुरैत्तल्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - १२११</summary>
+
+कादलर् तूदॊडु वन्द कनविनुक्कु  
+यादुसॆय् वेन्गॊल् विरुन्दु।       १२११
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२११</summary>
+
+प्रियान्देशसहितः स्वप्नो यः समुपागतः ।  
+निद्रायां तस्य चातिथ्यं कीदृशं करवाण्यहम् ॥ १२११॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२११</summary>
+
+1211 kātalar tūtoṭu vanta kaṉaviṉukku  
+yātucey vēṉkol viruntu.
+
+1211\. With what feast may I entertain the dream that has brought glad tidings of my lover?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२११</summary>
+
+1\. காதலர் தூதொடு வந்த கனவினுக்கு  
+யாதுசெய் வேன்கொல் விருந்து.  
+How shall I feast this dream-vision  
+That brings the beloved's love-mission?        1211  
+</details>
+
+<details><summary>मूलम् - १२११</summary>
+
+कादलर् तूदॊडु वन्द कनविनुक्कु  
+यादुसॆय् वेन्गॊल् विरुन्दु।       १२११
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१२</summary>
+
+कयलुण्गण् यानिरप्पत् तुञ्जिऱ्कलन्दार्क्कु  
+उयलुण्मै साट्रुवेन् मन्।      १२१२
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१२</summary>
+
+नेत्रे निद्रावशं प्राप्ते स्वप्ने प्राप्तं प्रियं प्रति ।  
+कथं ''कृच्छेण जीवामी'' त्येतद् ब्रूयां विहेषतः ॥ १२१२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१२</summary>
+
+1212 kayaluṇkaṇ yāṉirappat tuñciṉ kalantārkku  
+uyaluṇmai cāṟṟuvēṉ maṉ.
+
+1212\. If only my eyes would close in sleep at my request, how I would meet him in dreams!  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१२</summary>
+
+2\. கயலுண்கண் யானிரப்பத் துஞ்சிற் கலந்தார்க்கு  
+உயலுண்மை சாற்றுவேன் மன்.  
+I beg these fish-like dark eyes sleep  
+To tell my lover how life I keep.        1212  
+</details>
+
+<details><summary>मूलम् - १२१२</summary>
+
+कयलुण्गण् यानिरप्पत् तुञ्जिऱ्कलन्दार्क्कु  
+उयलुण्मै साट्रुवेन् मन्।      १२१२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१३</summary>
+
+ननविनाल् नल्गा तवरैक् कनविनाल्  
+काण्डलिन् उण्डॆन् उयिर्।      १२१३
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१३</summary>
+
+जाग्रद्दशायां यो नैव मयि प्रीतिं व्यधात् प्रियः ।  
+स्वप्ने वा दर्शनात्तस्य जीवाम्यत्र कथञ्चन ॥ १२१३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१३</summary>
+
+1213 naṉaviṉāl nalkā tavaraik kaṉaviṉāl  
+kāṇṭaliṉ uṇṭeṉ uyir.
+
+1213\. The merciless one favours me not in waking hours but in dreams I feast on him and thus manage to live.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१३</summary>
+
+3\. நனவினால் நல்கா தவரைக் கனவினால்  
+காண்டலின் உண்டென் உயிர்.  
+In wakeful hours who sees me not  
+I meet in dreams and linger yet.        1213  
+</details>
+
+<details><summary>मूलम् - १२१३</summary>
+
+ननविनाल् नल्गा तवरैक् कनविनाल्  
+काण्डलिन् उण्डॆन् उयिर्।      १२१३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१४</summary>
+
+कनविनान् उण्डागुम् कामम् ननविनान्  
+नल्गारै नाडित् तरऱ्कु।       १२१४
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१४</summary>
+
+मयि जाग्रति यः प्रीतिं कामुको नाकरोन्मयि ।  
+स्वप्नेन स समानीतस्तत्न प्रीतिं करोम्यहम् ॥ १२१४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१४</summary>
+
+1214 kaṉaviṉāṉ uṇṭākum kāmam naṉaviṉāl  
+nalkārai nāṭit taraṟku.
+
+1214\. Why do I love dreams? It is because they bring before me the one who in waking hours favours me not.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१४</summary>
+
+4\. கனவினான் உண்டாகும் காமம் நனவினான்  
+நல்காரை நாடித் தரற்கு.  
+In dreams I enjoy his love-bliss  
+Who in wakeful hours I miss.        1214  
+</details>
+
+<details><summary>मूलम् - १२१४</summary>
+
+कनविनान् उण्डागुम् कामम् ननविनान्  
+नल्गारै नाडित् तरऱ्कु।       १२१४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१५</summary>
+
+ननविनाल् कण्डदूउम् आङ्गे कनवुन्दान्  
+कण्ड पॊऴुदे इनिदु।       १२१५
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१५</summary>
+
+जाग्रद्दशायां यद् दृष्टं तदासीत् क्षणिकं सुखम् ।  
+अद्य स्वप्नगतानन्दो यः सोऽपि क्षणिकोऽभवत् ॥ १२१५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१५</summary>
+
+1215 naṉaviṉāl kaṇṭatūum āṅkē kaṉavuntāṉ  
+kaṇṭa poḻutē iṉitu.
+
+1215\. Sweet is his presence in the waking hours; sweet too is his appearance in a dream. What then do I miss in seeing him in my dreams?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१५</summary>
+
+5\. நனவினாற் கண்டதூஉம் ஆங்கே கனவுந்தான்  
+கண்ட பொழுதெ இனிது.  
+Dream-sight of him delights at once  
+Awake- What of seeing him -hence.        1215  
+</details>
+
+<details><summary>मूलम् - १२१५</summary>
+
+ननविनाल् कण्डदूउम् आङ्गे कनवुन्दान्  
+कण्ड पॊऴुदे इनिदु।       १२१५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१६</summary>
+
+ननवॆन ऒण्ड्रिल्लै आयिन् कनविनाल्  
+कादलर् नीङ्गलर् मन्।       १२१६
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१६</summary>
+
+भुवि जाग्रदवस्थेयं सर्वदा न भवेद्यदि ।  
+तदा प्रियः स्वप्नदृष्टो मां वियुज्य न यास्पति ॥ १२१६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१६</summary>
+
+1216 naṉaveṉa oṉṟuillai āyiṉ kaṉaviṉāl  
+kātalar nīṅkalar maṉ.
+
+1216\. If only there was no such thing as waking hours, my lover would never desert me in my dreams.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१६</summary>
+
+6\. நனவென ஒன்றில்லை யாயின் கனவினால்  
+காதலர் நீங்கலர் மன்.  
+If wakeful hours cometo nought  
+My lov'r in dreams would nev'r depart        1216  
+</details>
+
+<details><summary>मूलम् - १२१६</summary>
+
+ननवॆन ऒण्ड्रिल्लै आयिन् कनविनाल्  
+कादलर् नीङ्गलर् मन्।       १२१६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१७</summary>
+
+ननविनाल् नल्गाक् कॊडियार् कनवनाल्  
+ऎन्ऎम्मैप् पीऴिप् पदु।       १२१७
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१७</summary>
+
+मयि जाग्रति संयुज्य यः क्रूरो नाकरोत् प्रियम् ।  
+स्वप्नो परं समागत्य मां कुतो व्यथयत्यसौ ॥ १२१७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१७</summary>
+
+1217 naṉaviṉāl nalkāk koṭiyār kaṉaviṉāl  
+eṉemmaip pīḻip patu.
+
+1217\. Why does the cruel one plague me in my dreams when he shows no compassion on me in my waking state?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१७</summary>
+
+7\. நனவினால் நல்காக் கொடியார் கனவினால்  
+என்எம்மைப் பீழிப் பது.  
+Awake he throws my overtures  
+Adream, ah cruel! he tortures!        1217  
+</details>
+
+<details><summary>मूलम् - १२१७</summary>
+
+ननविनाल् नल्गाक् कॊडियार् कनवनाल्  
+ऎन्ऎम्मैप् पीऴिप् पदु।       १२१७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१८</summary>
+
+तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्  
+नॆञ्जत्तर् आवर् विरैन्दु।       १२१८
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१८</summary>
+
+मत्स्वप्ने कामुकः प्राप्य स्कन्धमारुह्य वर्तते ।  
+निद्रान्ते पूर्ववत्सोऽयं मम मानसमाविशेत् ॥ १२१८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१८</summary>
+
+1218 tuñcuṅkāl tōḷmēlar āki viḻikkuṅkāl  
+neñcattar āvar viraintu.
+
+1218\. She says to her companion: “He embraces me in my dreams but the moment I awake he quickly vanishes into my heart.”  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१८</summary>
+
+8\. துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்  
+நெஞ்சத்தர் ஆவர் விரைந்து.  
+Asleep he embraces me fast;  
+Awake he enters quick my heart.        1218  
+</details>
+
+<details><summary>मूलम् - १२१८</summary>
+
+तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्  
+नॆञ्जत्तर् आवर् विरैन्दु।       १२१८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२१९</summary>
+
+ननविनाल् नल्गारै नोवर् कनविनाल्  
+कादलर्क् काणा तवर्।      १२१९
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२१९</summary>
+
+अदृश्यं स्वप्नवेलायां तथा जाग्रद्दशास्वपि ।  
+प्रियं प्रीतिमकुर्वन्तं स्मृत्वा खेदयुताः स्त्रियः ॥ १२१९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२१९</summary>
+
+1219 naṉaviṉāl nalkārai nōvar kaṉaviṉāl  
+kātalark kāṇā tavar.
+
+1219\. Only those women who do not see their lovers in dreams, blame them for their cruelty in walking hours.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२१९</summary>
+
+9\. நனவினால் நல்காரை நோவர் கனவினால்  
+காதலர்க் காணா தவர்.  
+In dreams who don't discern lovers  
+Rue their missing in wakeful hours.        1219  
+</details>
+
+<details><summary>मूलम् - १२१९</summary>
+
+ननविनाल् नल्गारै नोवर् कनविनाल्  
+कादलर्क् काणा तवर्।      १२१९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२२०</summary>
+
+ननविनाल् नम्नीत्तार् ऎन्बर् कनविनाल्  
+काणार्गॊल् इव्वू रवर्।      १२२०
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२२०</summary>
+
+''त्याक्तवाऽस्मान् नायकः प्रायादि'' ति निन्दन्ति याः स्त्रियः ।  
+अविर्भवन्तं स्वप्ने तं न निन्दन्ति हि ताः किमु ॥ १२२०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२२०</summary>
+
+1220 naṉaviṉāl namnīttār eṉpar kaṉaviṉāl  
+kāṇārkol ivvū ravar.
+
+1220\. Folk say: “He has abandoned her in sooth.” Verily they do not know how he visits me in my dreams.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२२०</summary>
+
+10\. நனவினால் நம்நீத்தார் என்பர் கனவினால்  
+காணார்கொல் இவ்வூ ரவர்.  
+The townsmen say he left me thus  
+In dreams failing to see him close.        1220  
+</details>
+
+<details><summary>मूलम् - १२२०</summary>
+
+ननविनाल् नम्नीत्तार् ऎन्बर् कनविनाल्  
+काणार्गॊल् इव्वू रवर्।      १२२०
+</details>

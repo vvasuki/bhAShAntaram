@@ -1,0 +1,353 @@
++++
+title = "०२ वान्सिऱप्पु"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - ११</summary>
+
+वान्निण्ड्रु उलगम् वऴङ्गि वरुदलाल्  
+तान्अमिऴ्दम् ऎण्ड्रुणरऱ्पाट्रु।     ११
+</details>
+
+<details><summary>श्री-राम-देशिकः - ११</summary>
+
+लोकोऽयं जीवति सदा यतो वर्षेण् हेतुना ।  
+लोकस्थितिकरं वर्षे ततोऽमृतमिदं विदुः ॥ ११॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ११</summary>
+
+11\. vāṉ niṉṟu ulakam vaḻaṅki varutalāṉ,  
+tāṉ amiḻtam eṉṟu uṇaral pāṟṟu.
+
+11\. The world for its existence depends on unfailing rainfall; the rain may well be regarded as the nectar of life.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ११</summary>
+
+1\. வான்நின்று உலகம் வழங்கி வருதலால்  
+தான்அமிழ்தம் என்றுணரற் பாற்று  
+The genial rain ambrosia call:  
+The world but lasts while rain shall fall.         11  
+</details>
+
+<details><summary>मूलम् - ११</summary>
+
+वान्निण्ड्रु उलगम् वऴङ्गि वरुदलाल्  
+तान्अमिऴ्दम् ऎण्ड्रुणरऱ्पाट्रु।     ११
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२</summary>
+
+तुप्पार्क्कुत् तुप्पाय तुप्पाक्कित् तुप्पार्क्कुत्  
+तुप्पाय तूउम् मऴै।     १२
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२</summary>
+
+आहारापेक्षलोकस्य भोज्यं धान्यादिकं बहु ।  
+उत्पाथ पेयतामेति स्वयं वर्षे जलात्मना ॥ १२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२</summary>
+
+12\. tuppārkkut tuppu āya tuppu ākki, tuppārkkut  
+tuppu āyatūum maḻai.
+
+12\. The rain is the source of all articles of food that man needs. It becomes his drink too.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२</summary>
+
+2\. துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்  
+துப்பாய தூஉம் மழை  
+The rain begets the food we eat  
+And forms a food and drink concrete.         12  
+</details>
+
+<details><summary>मूलम् - १२</summary>
+
+तुप्पार्क्कुत् तुप्पाय तुप्पाक्कित् तुप्पार्क्कुत्  
+तुप्पाय तूउम् मऴै।     १२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १३</summary>
+
+विण्इण्ड्रु पॊय्प्पिन् विरिनीर् वियनुलगत्तु  
+उळ्निण्ड्रु उडट्रुम् पसि।      १३
+</details>
+
+<details><summary>श्री-राम-देशिकः - १३</summary>
+
+चतुर्भिः सागरैः देशे व्याप्तेपि क्षुदियं स्थिता ।  
+प्राणिनो बाधते मेघे यथाकालमवर्षति ॥ १३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १३</summary>
+
+13\. viṇ iṉṟu poyppiṉ, virinīr viyaṉ ulakattu-  
+uḷ niṉṟu uṭaṟṟum paci.
+
+13\. Hunger would stalk abroad and torment this wide sea-girt world were the rims to fail in time.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १३</summary>
+
+3\. விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து  
+உள்நின்று உடற்றும் பசி  
+Let clouds their visits stay, and dearth  
+Distresses all the sea-girt earth.         13  
+</details>
+
+<details><summary>मूलम् - १३</summary>
+
+विण्इण्ड्रु पॊय्प्पिन् विरिनीर् वियनुलगत्तु  
+उळ्निण्ड्रु उडट्रुम् पसि।      १३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १४</summary>
+
+एरिन् उऴाअर् उऴवर् पुयल्ऎन्नुम्  
+वारि वळङ्गुण्ड्रिक् काल्।      १४
+</details>
+
+<details><summary>श्री-राम-देशिकः - १४</summary>
+
+नष्टायां वर्षसम्पत्तौ धान्योत्पादनतत्पराः ।  
+लाङ्गलेन भुवं नैव कर्षयेयुः कृषीवलाः ॥ १४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १४</summary>
+
+14\. ēriṉ uḻāar uḻavar, puyal eṉṉum  
+vāri vaḷam kuṉṟikkāl.
+
+14\. The cultivators would cease to plough were the clouds’ free supply of water to fail.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १४</summary>
+
+4\. ஏரின் உழாஅர் உழவர் புயலென்னும்  
+வாரி வளங்குன்றிக் கால்  
+Unless the fruitful shower descend,  
+The ploughman's sacred toil must end.         14  
+</details>
+
+<details><summary>मूलम् - १४</summary>
+
+एरिन् उऴाअर् उऴवर् पुयल्ऎन्नुम्  
+वारि वळङ्गुण्ड्रिक् काल्।      १४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १५</summary>
+
+कॆडुप्पदूउम् कॆट्टार्क्कुच् चार्वाय्मऱ्ऱाङ्गे  
+ऎडुप्पदूउम् ऎल्लाम् मऴै।      १५
+</details>
+
+<details><summary>श्री-राम-देशिकः - १५</summary>
+
+वर्षे त्ववर्षत् जगतीं नाशयित्वा कदाचन् ।  
+अथ स्वयमनावृष्टि बाधितामपि रक्षति ॥ १५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १५</summary>
+
+15\. keṭuppatūum, keṭṭārkkuc cārvāy maṟṟu āṅkē  
+eṭuppatūum, ellām maḻai.
+
+15\. It is the rain that afflicts man and it is its fall that relieves him.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १५</summary>
+
+5\. கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே  
+எடுப்பதூஉம் எல்லாம் மழை  
+Destruction it may sometimes pour,  
+But only rain can life restore.         15  
+</details>
+
+<details><summary>मूलम् - १५</summary>
+
+कॆडुप्पदूउम् कॆट्टार्क्कुच् चार्वाय्मऱ्ऱाङ्गे  
+ऎडुप्पदूउम् ऎल्लाम् मऴै।      १५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १६</summary>
+
+विसुम्बिन् तुळिवीऴिन् अल्लाल्मऱ्ऱाङ्गे  
+पसुम्बुल् तलैगाण्बु अरिदु।      १६
+</details>
+
+<details><summary>श्री-राम-देशिकः - १६</summary>
+
+जलानां बिन्दवो मेघात् न पतेयुर्यदि क्षितौ ।  
+लोके द्रष्टुं न शक्यन्ते हरितास्तृणसम्पदः ॥ १६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १६</summary>
+
+16\. vicumpiṉ tuḷi vīḻiṉ allāl, maṟṟu āṅkē  
+pacum pul talai kāṇpu aritu.
+
+16\. If the clouds were to withhold rain not even a blade of grass would rustle on earth.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १६</summary>
+
+6\. விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே  
+பசும்புல் தலைகாண்பு அரிது  
+No grassy blade its head will rear,  
+If from the cloud no drop appear.         16  
+</details>
+
+<details><summary>मूलम् - १६</summary>
+
+विसुम्बिन् तुळिवीऴिन् अल्लाल्मऱ्ऱाङ्गे  
+पसुम्बुल् तलैगाण्बु अरिदु।      १६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १७</summary>
+
+नॆडुङ्गडलुम् तन्नीर्मै कुण्ड्रुम् तडिन्दॆऴिलि  
+तान्नल्गा तागि विडिन्।      १७
+</details>
+
+<details><summary>श्री-राम-देशिकः - १७</summary>
+
+पीत्वा जलनिधिं लोके यदि मेघो न वर्षति ।  
+अगाघोऽप्युदधिस्तेन समृद्धिरहितो भवेत् ॥ १७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १७</summary>
+
+17\. neṭuṅ kaṭalum taṉ nīrmai kuṉṟum, taṭintu eḻili-  
+tāṉ nalkātu ākiviṭiṉ.
+
+17\. Even the illimitable deep shrinks if the clouds do not pour and replenish it.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १७</summary>
+
+7\. நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி  
+தான்நல்கா தாகி விடின்  
+The ocean's wealth will waste away,  
+Except the cloud its stores repay.         17  
+</details>
+
+<details><summary>मूलम् - १७</summary>
+
+नॆडुङ्गडलुम् तन्नीर्मै कुण्ड्रुम् तडिन्दॆऴिलि  
+तान्नल्गा तागि विडिन्।      १७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १८</summary>
+
+सिऱप्पॊडु पूसनै सॆल्लादु वानम्  
+वऱक्कुमेल् वानोर्क्कुम् ईण्डु।      १८
+</details>
+
+<details><summary>श्री-राम-देशिकः - १८</summary>
+
+देवताराधनं नित्यं विशेषादुत्सवादिकम् ।  
+लोके नैव प्रवर्तेत मेघो यदि न वर्षति ॥ १८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १८</summary>
+
+18\. ciṟappoṭu pūcaṉai cellātu-vāṉam  
+vaṟakkumēl, vāṉōrkkum, īṇṭu.
+
+18\. If the rains were to fail there would be no more o£ferings and festivals to the gods.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १८</summary>
+
+8\. சிறப்பொடு பூசனை செல்லாது வானம்  
+வறக்குமேல் வானோர்க்கும் ஈண்டு  
+The earth, beneath a barren sky,  
+Would offerings for the gods deny.         18  
+</details>
+
+<details><summary>मूलम् - १८</summary>
+
+सिऱप्पॊडु पूसनै सॆल्लादु वानम्  
+वऱक्कुमेल् वानोर्क्कुम् ईण्डु।      १८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १९</summary>
+
+तानम् तवम्इरण्डुम् तङ्गा वियन्उलगम्  
+वानम् वऴङ्गा तॆनिन्।      १९
+</details>
+
+<details><summary>श्री-राम-देशिकः - १९</summary>
+
+परार्थमिह यद्दानमात्मार्थञ्चेह यत् तपः ।  
+अभयं न भवेल्लोके यदि देवो न वर्षति ॥ १९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १९</summary>
+
+19\. tāṉam tavam iraṇṭum taṅkā, viyaṉ ulakam  
+vāṉam vaḻaṅkātu eṉiṉ.
+
+19\. If the rains were to fail, there would neither be alms nor penance on this wide earth.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १९</summary>
+
+9\. தானம் தவம்இரண்டும் தங்கா வியன்உலகம்  
+வானம் வழங்கா தெனின்.  
+Were heaven above to fail below  
+Nor alms nor penance earth would show.         19  
+</details>
+
+<details><summary>मूलम् - १९</summary>
+
+तानम् तवम्इरण्डुम् तङ्गा वियन्उलगम्  
+वानम् वऴङ्गा तॆनिन्।      १९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - २०</summary>
+
+नीर्इण्ड्रु अमैयादु उलगॆनिन् यार्यार्क्कुम्  
+वान्इण्ड्रु अमैयादु ऒऴुक्कु।      २०
+</details>
+
+<details><summary>श्री-राम-देशिकः - २०</summary>
+
+जलाभावे लोकयात्रा सर्वेषामेव देहिनाम् ।  
+न स्यात्; वर्ष विना नैतत्; सदाचारादिकं तथा ॥ २०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०</summary>
+
+20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
+vāṉ iṉṟu amaiyātu oḻukku.
+
+20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - २०</summary>
+
+20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
+vāṉ iṉṟu amaiyātu oḻukku.
+
+20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
+
+</details>
+
+<details><summary>शुद्धानन्द-भारती - २०</summary>
+
+10\. நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்  
+வான்இன்று அமையாது ஒழுக்கு  
+Water is life that comes from rain  
+Sans rain our duties go in vain.         20  
+</details>
+
+<details><summary>मूलम् - २०</summary>
+
+नीर्इण्ड्रु अमैयादु उलगॆनिन् यार्यार्क्कुम्  
+वान्इण्ड्रु अमैयादु ऒऴुक्कु।      २०
+</details>

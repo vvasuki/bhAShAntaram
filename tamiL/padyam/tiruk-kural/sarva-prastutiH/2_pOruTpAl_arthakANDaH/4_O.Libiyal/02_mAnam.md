@@ -1,0 +1,347 @@
++++
+title = "०२ मानम्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६१</summary>
+
+इण्ड्रि अमैयाच् चिऱप्पिन आयिनुम्  
+कुण्ड्र वरुब विडल्।      ९६१
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६१</summary>
+
+अधिकारः ९७. मानम्  
+केनचिद्रचितं कार्यं भवेदपि महत्तरम् ।  
+कुलगौरवनाशाय यदि तत् स्याद्विसृज्यताम् ॥ ९६१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६१</summary>
+
+961 iṉṟi amaiyāc ciṟappiṉ āyiṉum  
+kuṉṟa varupa viṭal.
+
+961\. Reject mean actions, even if they bring glory in their turn.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६१</summary>
+
+97\. மானம் - Honour
+
+1\. இன்றி யமையாச் சிறப்பின ஆயினும்  
+குன்ற வருப விடல்.  
+Though needed for your life in main,  
+From mean degrading acts refrain.        961  
+</details>
+
+<details><summary>मूलम् - ९६१</summary>
+
+इण्ड्रि अमैयाच् चिऱप्पिन आयिनुम्  
+कुण्ड्र वरुब विडल्।      ९६१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६२</summary>
+
+सीरिनुम् सीरल्ल सॆय्यारे सीरॊडु  
+पेराण्मै वेण्डु पवर्।       ९६२
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६२</summary>
+
+पौरुषं यशसा साकं लब्धुमाशासमन्वितः ।  
+यशःकृते कुलश्रैष्ठ्यघातकं कर्म नाचरेत् ॥ ९६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६२</summary>
+
+962 cīriṉum cīralla ceyyārē cīroṭu  
+pērāṇmai vēṇṭu pavar.
+
+962\. Those who desire honour and name will not do mean things in their thirst for glory.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६२</summary>
+
+2\. சீரினும் சீரல்ல செய்யாரே சீரொடு  
+பேராண்மை வேண்டு பவர்.  
+Who seek honour and manly fame  
+Don't do mean deeds even for name.        962  
+</details>
+
+<details><summary>मूलम् - ९६२</summary>
+
+सीरिनुम् सीरल्ल सॆय्यारे सीरॊडु  
+पेराण्मै वेण्डु पवर्।       ९६२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६३</summary>
+
+पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
+सुरुक्कत्तु वेण्डुम् उयर्वु।       ९६३
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६३</summary>
+
+सम्पत्समृद्धिवेलायां विनयः सर्वदा वरः ।  
+सम्पनाशे पौरुषं तु वरं स्याद्विनयादपि ॥ ९६३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६३</summary>
+
+963 perukkattu vēṇṭum paṇital ciṟiya  
+curukkattu vēṇṭum uyarvu.
+
+963\. During prosperity practise humility. Even in adversity keep dignity.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६३</summary>
+
+3\. பெருக்கத்து வேண்டும் பணிதல் சிறிய  
+சுருக்கத்து வேண்டும் உயர்வு.  
+Be humble in prosperity  
+In decline uphold dignity.        963  
+</details>
+
+<details><summary>मूलम् - ९६३</summary>
+
+पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
+सुरुक्कत्तु वेण्डुम् उयर्वु।       ९६३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६४</summary>
+
+तलैयिन् इऴिन्द मयिरनैयर् मान्दर्  
+निलैयिन् इऴिन्दक् कडै।       ९६४
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६४</summary>
+
+सम्भूता अपि सद्वेशं लोके श्रेष्ठपदच्युताः ।  
+उत्तमाङ्गपरिभ्रष्टकेशतुल्या भवन्ति ते ॥ ९६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६४</summary>
+
+964 talaiyiṉ iḻinta mayiraṉaiyar māntar  
+nilaiyiṉ iḻintak kaṭai.
+
+964\. Men fallen from a high estate are like the hair fallen from the head.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६४</summary>
+
+4\. தலையின் இழிந்த மயிரனையர் மாந்தர்  
+நிலையின் இழிந்தக் கடை.  
+Like hair fallen from head are those  
+Who fall down from their high status.        964  
+</details>
+
+<details><summary>मूलम् - ९६४</summary>
+
+तलैयिन् इऴिन्द मयिरनैयर् मान्दर्  
+निलैयिन् इऴिन्दक् कडै।       ९६४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६५</summary>
+
+कुण्ड्रिन् अनैयारुम् कुण्ड्रुवर् कुण्ड्रुव  
+कुण्ड्रि अनैय सॆयिन्।       ९६५
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६५</summary>
+
+महीधरसमाः सन्तः स्वल्पं गुञ्जाफलोपमम् ।  
+पतनोन्मुखकार्यं च कुर्वन्तस्ते पतन्त्य्धः ॥ ९६५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६५</summary>
+
+965 kuṉṟiṉ aṉaiyārum kuṉṟuvar kuṉṟuva  
+kuṉṟi aṉaiya ceyiṉ.
+
+965\. Even a trivial mean act will drag down a man from the hill top of his eminence.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६५</summary>
+
+5\. குன்றின் அனையாரும் குன்றுவர் குன்றுவ  
+குன்றி அனைய செயின்.  
+Even hill-like men will sink to nought  
+With abrus-grain-like small default.        965  
+</details>
+
+<details><summary>मूलम् - ९६५</summary>
+
+कुण्ड्रिन् अनैयारुम् कुण्ड्रुवर् कुण्ड्रुव  
+कुण्ड्रि अनैय सॆयिन्।       ९६५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६६</summary>
+
+पुगऴ्इण्ड्राल् पुत्तेळ्नाट्टु उय्यादाल् ऎन्मट्रु  
+इगऴ्वार्बिन् सॆण्ड्रु निलै।       ९६६
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६६</summary>
+
+तिरस्कर्तुः पुरोभागे स्थितिः पौरुषमन्तरा ।  
+नेह कीर्तिं परे स्वर्गं न यच्छेत् किं प्रयोजनम् ॥ ९६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६६</summary>
+
+966 pukaḻiṉṟāl puttēḷnāṭṭu uyyātāl eṉmaṟṟu  
+ikaḻvārpiṉ ceṉṟu nilai.
+
+966\. Of what use is servility to one who despises you? It brings neither fame nor does it show the path to heaven.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६६</summary>
+
+6\. புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்று  
+இகழ்வார்பின் சென்று நிலை.  
+Why fawn on men that scorn you here  
+It yields no fame, heaven's bliss neither.        966  
+</details>
+
+<details><summary>मूलम् - ९६६</summary>
+
+पुगऴ्इण्ड्राल् पुत्तेळ्नाट्टु उय्यादाल् ऎन्मट्रु  
+इगऴ्वार्बिन् सॆण्ड्रु निलै।       ९६६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६७</summary>
+
+ऒट् टार्बिन् सॆण्ड्रॊरुवन् वाऴ्दलिन् अन्निलैये  
+कॆट्टान् ऎनप्पडुदल् नण्ड्रु।       ९६७
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६७</summary>
+
+तिरस्कर्तारमाश्रित्य सलाभं जीवनादपि ।  
+''तदकृत्वा मृतिं प्रापद्''इति कीर्तिर्विशिष्यते ॥ ९६७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६७</summary>
+
+967 oṭṭārpiṉ ceṉṟoruvaṉ vāḻtaliṉ annilaiyē  
+keṭṭāṉ eṉappaṭutal nṉṟu.
+
+967\. Better to die in poverty than to be servile to one that scorns you.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६७</summary>
+
+7\. ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே  
+கெட்டான் எனப்படுதல் நன்று.  
+Better it is to die forlorn  
+Than live as slaves of those who scorn.        967  
+</details>
+
+<details><summary>मूलम् - ९६७</summary>
+
+ऒट् टार्बिन् सॆण्ड्रॊरुवन् वाऴ्दलिन् अन्निलैये  
+कॆट्टान् ऎनप्पडुदल् नण्ड्रु।       ९६७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६८</summary>
+
+मरुन्दोमट्रु ऊन्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
+पीडऴिय वन्द इडत्तु।       ९६८
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६८</summary>
+
+कुलीनत्वं पौरुषं च यदा नाशोन्मुखं भवेत् ।  
+जीवनं देहरक्षार्थं तदा किं स्वर्गदायकम् ॥ ९६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६८</summary>
+
+968 maruntōmaṟṟu ūṉōmpum vāḻkkai peruntakaimai  
+pīṭu aḻiyavanta iṭattu
+
+968\. When one’s honour is ruined, will the life that sustains the body confer immortality?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६८</summary>
+
+8\. மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமை  
+பீடழிய வந்த இடத்து.  
+Is nursing body nectar sweet  
+Even when one's honour is lost?        968  
+</details>
+
+<details><summary>मूलम् - ९६८</summary>
+
+मरुन्दोमट्रु ऊन्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
+पीडऴिय वन्द इडत्तु।       ९६८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९६९</summary>
+
+मयिर्नीप्पिन् वाऴाक् कवरिमा अन्नार्  
+उयिर्नीप्पर् मानम् वरिन्।      ९६९
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९६९</summary>
+
+रोमौकमात्रपतनात् चमरो मरणं व्रजेत् ।  
+माननाशो प्रसक्ते तु न जीवन्ति कुलोद्भवाः ॥ ९६९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९६९</summary>
+
+969 mayirnīppiṉ vāḻāk kavarimā aṉṉār  
+uyirnīppar māṉam variṉ.
+
+969\. He whose honour is at stake lays down his life like the Yak that is shorn of its single hair.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९६९</summary>
+
+9\. மயிர்நீப்பின் வாழாக் கவரிமா அன்னார்  
+உயிர்நீப்பர் மானம் வரின்.  
+Honour lost, the noble expire  
+Like a yak that loses its hair.        969  
+</details>
+
+<details><summary>मूलम् - ९६९</summary>
+
+मयिर्नीप्पिन् वाऴाक् कवरिमा अन्नार्  
+उयिर्नीप्पर् मानम् वरिन्।      ९६९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ९७०</summary>
+
+इळिवरिन् वाऴाद मानम् उडैयार्  
+ऒळिदॊऴुदु एत्तुम् उलगु।       ९७०
+</details>
+
+<details><summary>श्री-राम-देशिकः - ९७०</summary>
+
+मानहान्या विनष्टानां मानिनां महितं यशः ।  
+यशस्य बहुधा लोको मानयेत् पृथिवीतले ॥ ९७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ९७०</summary>
+
+970 iḷivariṉ vāḻāta māṉam uṭaiyār  
+oḷitoḻutu ēttum ulaku
+
+970\. The world sings in praise of those noble persons who prefer death to dishonour.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ९७०</summary>
+
+10\. இளிவரின் வாழாத மானம் உடையார்  
+ஒளிதொழுது ஏத்தும் உலகு.  
+Their light the world adores and hails  
+Who will not live when honour fails.        970  
+</details>
+
+<details><summary>मूलम् - ९७०</summary>
+
+इळिवरिन् वाऴाद मानम् उडैयार्  
+ऒळिदॊऴुदु एत्तुम् उलगु।       ९७०
+</details>

@@ -1,0 +1,344 @@
++++
+title = "१४ पुणर्च्चिविदुम्बल्"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८१</summary>
+
+उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
+कळ्ळुक्किल् कामत्तिऱ्कुण्डु।      १२८१
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८१</summary>
+
+तुष्टिं दर्शनमात्रेण मोदं च स्मरणात् ततः ।  
+कामार्तो लभते लोके न सुरासेवकस्तथा ॥ १२८१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८१</summary>
+
+1281 uḷḷak kaḷittalum kāṇa makiḻtalum  
+kaḷḷukkuil kāmattiṟku uṇṭu.
+
+1281\. To become pleased with the thought and happy at the sight of the lover, these are the fruits not of wine but of love.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८१</summary>
+
+1\. உள்ளக் களித்தலும் காண மகிழ்தலும்  
+கள்ளுக்கில் காமத்திற்கு உண்டு.  
+Rapture at thought and joy when seen  
+Belong to love and not to wine.        1281  
+</details>
+
+<details><summary>मूलम् - १२८१</summary>
+
+उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
+कळ्ळुक्किल् कामत्तिऱ्कुण्डु।      १२८१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८२</summary>
+
+तिनैत्तुणैयुम् ऊडामै वेण्डुम् पनैत् तुणैयुम्  
+कामम् निऱैय वरिन्।      १२८२
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८२</summary>
+
+तालपादपवत् कामो वृद्धे सति विशेषतः ।  
+वियिगो यववत्स्वल्पोऽप्यकार्यः कामुकैः सह ॥ १२८२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८२</summary>
+
+1282 tiṉaittuṇaiyum ūṭāmai vēṇṭum paṉaittuṇaiyum  
+kāmam niṟaiya variṉ.
+
+1282\. If a woman’s passion becomes excessive, she should avoid even slight misunderstanding.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८२</summary>
+
+2\. தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்  
+காமம் நிறைய வரின்.  
+When passion grows palmyra-tall  
+Sulking is wrong though millet-small.        1282  
+</details>
+
+<details><summary>मूलम् - १२८२</summary>
+
+तिनैत्तुणैयुम् ऊडामै वेण्डुम् पनैत् तुणैयुम्  
+कामम् निऱैय वरिन्।      १२८२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८३</summary>
+
+पेणादु पॆट्पवे सॆय्यिनुम् कॊण्गनैक्  
+काणा तमैयल कण्।       १२८३
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८३</summary>
+
+वक्कृत्य ???? ।  
+अथापि तमदृष्ट्वा मे नेत्रे नावापतुर्मुदम् ॥ १२८३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८३</summary>
+
+1283 pēṇātu peṭpavē ceyyiṉum koṇkaṉaik  
+kāṇātu amaiyala kaṇ.
+
+1283\. Though my husband acts regardless of me, yet my eyes cannot be satisfied without seeing him.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८३</summary>
+
+3\. பேணாது பெட்பவே செய்யினும் கொண்கனைக்  
+காணாது அமையல கண்.  
+Though slighting me he acts his will  
+My restless eyes would see him still.        1283  
+</details>
+
+<details><summary>मूलम् - १२८३</summary>
+
+पेणादु पॆट्पवे सॆय्यिनुम् कॊण्गनैक्  
+काणा तमैयल कण्।       १२८३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८४</summary>
+
+ऊडऱ्कण् सॆण्ड्रेन्मन् तोऴि अदुमऱन्दु  
+कूडऱ्कण् सॆण्ड्रदु ऎन् नॆञ्जु।      १२८४
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८४</summary>
+
+वियुज्य तं प्रिय गन्तुमैच्छमादौ सखि प्रिये ! ।  
+मन्मनस्तत्त विस्मृत्य रन्तुं तेन सहागमत् ॥ १२८४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८४</summary>
+
+1284 ūṭalkaṇ ceṉṟēṉmaṉ tōḻi atumaṟantu  
+kūṭaṟkaṇ ceṉṟatueṉ neñcu.
+
+1284\. O Friend! I went to quarrel with him; but forgetting it my heart sought for reconciliation.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८४</summary>
+
+4\. ஊடற்கண் சென்றேன்மன் தோழி அதுமறந்து  
+கூடற்கண் சென்றதுஎன் நெஞ்சு.  
+Huff I would, maid, but I forget;  
+And leap to embrace him direct.        1284  
+</details>
+
+<details><summary>मूलम् - १२८४</summary>
+
+ऊडऱ्कण् सॆण्ड्रेन्मन् तोऴि अदुमऱन्दु  
+कूडऱ्कण् सॆण्ड्रदु ऎन् नॆञ्जु।      १२८४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८५</summary>
+
+ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गन्  
+पऴिगाणेन् कण्ड इडत्तु।      १२८५
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८५</summary>
+
+प्रिये दृष्टिं गते दोषान् तदीयान् विस्मराम्यहम् ।  
+अञ्जनालङ्कृतं नेत्रं शलाकां विस्मरेद्यथा ॥ १२८५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८५</summary>
+
+1285 eḻutuṅkāl kōlkāṇāk kaṇṇēpōl koṇkaṉ  
+paḻikāṇēṉ kaṇṭa viṭattu.
+
+1285\. Just as our eyes do not see the pen when writing I could not see my lover’s faults when I saw him.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८५</summary>
+
+5\. எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன்  
+பழிகாணேன் கண்ட விடத்து.  
+When close I see not lord's blemish  
+Like eyes that see not painter's brush.        1285  
+</details>
+
+<details><summary>मूलम् - १२८५</summary>
+
+ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गन्  
+पऴिगाणेन् कण्ड इडत्तु।      १२८५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८६</summary>
+
+काणुङ्गाल् काणेन् तवऱाय काणाक्काल्  
+काणेन् तवऱल् लवै।      १२८६
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८६</summary>
+
+प्रिये दृष्टिपथं याते दोषस्तस्मिन्न दृश्यते ।  
+प्रियाऽदर्शनवेलायां गुणस्तस्मिन्न दृश्यते ॥ १२८६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८६</summary>
+
+1286 kāṇuṅkāl kāṇēṉ tavaṟāya kāṇākkāl  
+kāṇēṉ tavaṟual lavai.
+
+1286\. When I see my husband I cannot see his faults. In his absence I cannot see anything else.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८६</summary>
+
+6\. காணுங்கால் காணேன் தவறாய காணாக்கால்  
+காணேன் தவறல் லவை.  
+When he's with me I see not fault  
+And nought but fault when he is not.        1286  
+</details>
+
+<details><summary>मूलम् - १२८६</summary>
+
+काणुङ्गाल् काणेन् तवऱाय काणाक्काल्  
+काणेन् तवऱल् लवै।      १२८६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८७</summary>
+
+उय्त्तल् अऱिन्दु पुनल्बाय् पवरेबोल्  
+पॊय्त्तल् अऱिन्दॆन् पुलन्दु।      १२८७
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८७</summary>
+
+बुध्वापि यत्नवैफल्यं विप्रलम्भं करोति सा ।  
+प्रवाहाकर्षणगुणं ज्ञात्वाऽप्येनं विशेद्यता ॥ १२८७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८७</summary>
+
+1287 uyttal aṟintu puṉalpāy pavarēpōl  
+poyttal aṟinteṉ pulantu.
+
+1287\. Of what avail is it to sift all the lies of one’s husband! It is as ineffectual as a diver battling with an irresistible current.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८७</summary>
+
+7\. உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்  
+பொய்த்தல் அறிந்தென் புலந்து.  
+To leap in stream which carries off  
+When lord is close to feign a huff.        1287  
+</details>
+
+<details><summary>मूलम् - १२८७</summary>
+
+उय्त्तल् अऱिन्दु पुनल्बाय् पवरेबोल्  
+पॊय्त्तल् अऱिन्दॆन् पुलन्दु।      १२८७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८८</summary>
+
+इळित्तक्क इन्ना सॆयिनुम् कळित्तार्क्कुक्  
+कळ्ळट्रे कळ्वनिन् मार्बु।      १२८८
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८८</summary>
+
+सुरापानाद् भवेद्धानिरिति ज्ञात्वापि मानवः ।  
+हर्षात् पिबेद्यथा तद्वत् तव वक्षः पुनर्वृणे ॥ १२८८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८८</summary>
+
+1288 iḷittakka iṉṉā ceyiṉum kaḷittārkkuk  
+kaḷḷaṟṟē kaḷvaniṉ mārpu.
+
+1288\. O cheat! your breast is coveted more and more even as liquor with all its harm is by the drunkard.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८८</summary>
+
+8\. இளித்தக்க இன்னா செயினும் களித்தார்க்குக்  
+கள்ளற்றே கள்வநின் மார்பு.  
+Like wine to addicts that does disgrace  
+Your breast, O thief, is for my embrace!        1288  
+</details>
+
+<details><summary>मूलम् - १२८८</summary>
+
+इळित्तक्क इन्ना सॆयिनुम् कळित्तार्क्कुक्  
+कळ्ळट्रे कळ्वनिन् मार्बु।      १२८८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२८९</summary>
+
+मलरिनुम् मॆल्लिदु कामम् सिलर्अदन्  
+सॆव्वि तलैप्पडु वार्।      १२८९
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२८९</summary>
+
+लोके कामसुखं पुष्पादपि मादवसम्युतम् ।  
+बुध्वा तत्त्वमिदं केचित्, लभन्ते फलमुत्तमम् ॥ १२८९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२८९</summary>
+
+1289 malariṉum mellitu kāmam cilarataṉ  
+cevvi talaippaṭu vār.
+
+1289\. More tender than a flower is love and few are they who enjoy it fully.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२८९</summary>
+
+9\. மலரினும் மெல்லிது காமம் சிலர்அதன்  
+செவ்வி தலைப்படு வார்.  
+Flower-soft is love; a few alone  
+Know its delicacy so fine.        1289  
+</details>
+
+<details><summary>मूलम् - १२८९</summary>
+
+मलरिनुम् मॆल्लिदु कामम् सिलर्अदन्  
+सॆव्वि तलैप्पडु वार्।      १२८९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १२९०</summary>
+
+कण्णिन् तुनित्ते कलङ्गिनाळ् पुल्लुदल्  
+ऎन्निनुम् तान्विदुप् पुट्रु।      १२९०
+</details>
+
+<details><summary>श्री-राम-देशिकः - १२९०</summary>
+
+स्वयं पूर्व समागत्य परिष्वङ्ग च काङ्क्षती ।  
+यत्मया सङ्गता तच्च विस्मृत्य कलुषीकृता ॥ १२९०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १२९०</summary>
+
+1290 kaṇṇiṉ tuṉittē kalaṅkiṉāḷ pullutal  
+eṉṉiṉum tāṉvitup puṟṟu.
+
+1290\. With resentful eyes, my lady complained: but eager for reconciliation she forgets her anger.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १२९०</summary>
+
+10\. கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்  
+என்னினும் தான்விதுப் புற்று.  
+She feigned dislike awhile but flew  
+Faster for embrace than I do.        1290  
+</details>
+
+<details><summary>मूलम् - १२९०</summary>
+
+कण्णिन् तुनित्ते कलङ्गिनाळ् पुल्लुदल्  
+ऎन्निनुम् तान्विदुप् पुट्रु।      १२९०
+</details>

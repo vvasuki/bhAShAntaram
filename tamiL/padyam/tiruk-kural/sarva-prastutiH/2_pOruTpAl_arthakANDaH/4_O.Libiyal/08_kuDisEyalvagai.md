@@ -1,0 +1,345 @@
++++
+title = "०८ कुडिसॆयल्वगै"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२१</summary>
+
+करुमम् सॆयऒरुवन् कैदूवेन् ऎन्नुम्  
+पॆरुमैयिन् पीडुडैयदु इल्।       १०२१
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२१</summary>
+
+अधिकारः १०३. कुलगौरवक्षणम्  
+''कुलगौरवनिर्माणकृत्याद्भ्रष्टो न चास्म्यहम्'' ।  
+इत्येवं कथनादन्यन्महत्त्वं नास्ति कस्यचित् ॥ १०२१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२१</summary>
+
+1021 karumam ceyaoruvaṉ kaitūvēṉ eṉṉum  
+perumaiyiṉ pīṭuuṭaiyatu il.
+
+1021\. Nothing is more exalted and manly than one’s ceaseless toil to uplift one’s own family.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२१</summary>
+
+1\. கருமம் செயஒருவன் கைதூவேன் என்னும்  
+பெருமையின் பீடுடையது இல்.  
+No greatness is grander like  
+Saying "I shall work without slack".        1021  
+</details>
+
+<details><summary>मूलम् - १०२१</summary>
+
+करुमम् सॆयऒरुवन् कैदूवेन् ऎन्नुम्  
+पॆरुमैयिन् पीडुडैयदु इल्।       १०२१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२२</summary>
+
+आळ्विनैयुम् आण्ड्र अऱिवुम् ऎनइरण्डिन्  
+नीळ्विनैयाल् नीळुम् कुडि।      १०२२
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२२</summary>
+
+पूर्णज्ञानप्रयत्नाभ्यां युक्तेनाकुण्ठितेन च ।  
+कर्मणा कस्यचिद्वंशगौरवं बहु वर्धते ॥ १०२२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२२</summary>
+
+1022 āḷviṉaiyum āṉṟa aṟivum eṉa_iraṇṭiṉ  
+nīḷviṉaiyāl nīḷum kuṭi.
+
+1022\. Manly effort and ripe wisdom exalt one’s family.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२२</summary>
+
+2\. ஆள்வினையும் ஆன்ற அறிவும் எனஇரண்டின்  
+நீள்வினையால் நீளும் குடி.  
+These two exalt a noble home  
+Ardent effort and ripe wisdom.        1022  
+</details>
+
+<details><summary>मूलम् - १०२२</summary>
+
+आळ्विनैयुम् आण्ड्र अऱिवुम् ऎनइरण्डिन्  
+नीळ्विनैयाल् नीळुम् कुडि।      १०२२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२३</summary>
+
+कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्कुत् तॆय्वम्  
+मडिदट्रुत् तान्मुन् दुऱुम्।      १०२३
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२३</summary>
+
+वंशौन्नत्यकरे कार्ये सदा प्रयततां नृणाम् ।  
+बद्ध्वा वस्त्रं दृढं कटतां साह्यं कुर्याद्विधिः स्वयम् ॥ १०२३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२३</summary>
+
+1023 kuṭiceyval eṉṉum oruvaṟkut teyvam  
+maṭitaṟṟut tāṉmun tuṟum.
+
+1023\. Even God girds up His loins in the service of one who strives for the glory of one’s family.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२३</summary>
+
+3\. குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்  
+மடிதற்றுத் தான்முந் துறும்.  
+When one resolves to raise his race  
+Loin girt up God leads his ways.        1023  
+</details>
+
+<details><summary>मूलम् - १०२३</summary>
+
+कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्कुत् तॆय्वम्  
+मडिदट्रुत् तान्मुन् दुऱुम्।      १०२३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२४</summary>
+
+सूऴामल् ताने मुडिवॆय्दुम् तम्गुडियैत्  
+ताऴादु उञट्रु पवर्क्कु।      १०२४
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२४</summary>
+
+स्वकुलौन्नत्यसिद्धयर्थं त्वरया यततां नृणाम् ।  
+विमर्शमन्तरा कार्यं निर्विघ्नं सेत्स्यति क्षणे ॥ १०२४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२४</summary>
+
+1024 cūḻāmal tāṉē muṭiveytum taṅkuṭiyait  
+tāḻātu uñaṟṟu pavarkku.
+
+1024\. Success comes unbidden to one who exalts one’s family with unremitting toil.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२४</summary>
+
+4\. சூழாமல் தானே முடிவெய்தும் தம்குடியைத்  
+தாழாது உஞற்று பவர்க்கு.  
+Who raise their races with ceaseless pain  
+No need for plan; their ends will gain.        1024  
+</details>
+
+<details><summary>मूलम् - १०२४</summary>
+
+सूऴामल् ताने मुडिवॆय्दुम् तम्गुडियैत्  
+ताऴादु उञट्रु पवर्क्कु।      १०२४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२५</summary>
+
+कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
+चुट्रमाच् चुट्रुम् उलगु।      १०२५
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२५</summary>
+
+वंशप्रभावं संरक्ष्य जीवता शास्त्रवर्त्मनि ।  
+तेन बान्धव्यमिच्छंस्तु लोकस्तमनुवर्तते ॥ १०२५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२५</summary>
+
+1025 kuṟṟam ilaṉāyk kuṭiceytu vāḻvāṉaic  
+cuṟṟamāc cuṟṟum ulaku.
+
+1025\. The world becomes kin to one who leads an unblemished householder’s life.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२५</summary>
+
+5\. குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்  
+சுற்றமாச் சுற்றும் உலகு.  
+Who keeps his house without a blame  
+People around, his kinship claim.        1025  
+</details>
+
+<details><summary>मूलम् - १०२५</summary>
+
+कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
+चुट्रमाच् चुट्रुम् उलगु।      १०२५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२६</summary>
+
+नल्लाण्मै ऎन्बदु ऒरुवऱ्कुत् तान्बिऱन्द  
+इल्लाण्मै आक्किक् कॊळल्।      १०२६
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२६</summary>
+
+स्वोत्पन्नकुलनिर्वाहशक्तिं सम्पाद्य जीवनम् ।  
+तात्त्विकं पौरुषं ताद्धि पुरुषाणां प्रशस्यते ॥ १०२६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२६</summary>
+
+1026 nallāṇmai eṉpatu oruvaṟkut tāṉpiṟanta  
+illāṇmai ākkik koḷal.
+
+1026\. What is true manliness except perfect ordering of the house for its own glory?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२६</summary>
+
+6\. நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்த  
+இல்லாண்மை ஆக்கிக் கொளல்.  
+Who raise their race which gave them birth  
+Are deemed as men of manly worth.        1026  
+</details>
+
+<details><summary>मूलम् - १०२६</summary>
+
+नल्लाण्मै ऎन्बदु ऒरुवऱ्कुत् तान्बिऱन्द  
+इल्लाण्मै आक्किक् कॊळल्।      १०२६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२७</summary>
+
+अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
+आट्रुवार् मेट्रे पॊऱै।      १०२७
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२७</summary>
+
+धीरो वहेद्युद्धभारं यथा बहुषु सत्स्वापि ।  
+शक्तस्तथा वहेद्वंशभारमन्येषु सत्स्वापि ॥ १०२७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२७</summary>
+
+1027 amarakattu vaṉkaṇṇar pōlat tamarakattu  
+āṟṟuvār mēṟṟē poṟai.
+
+1027\. The brunt of the battle falls on the victorious; the burden of the family on the competent few.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२७</summary>
+
+7\. அமரகத்து வன்கண்ணார் போலத் தமரகத்தும்  
+ஆற்றுவார் மேற்றே பொறை.  
+Like dauntless heroes in battle field  
+The home-burden rests on the bold.        1027  
+</details>
+
+<details><summary>मूलम् - १०२७</summary>
+
+अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
+आट्रुवार् मेट्रे पॊऱै।      १०२७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२८</summary>
+
+कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु  
+मानङ् गरुदक् कॆडुम्।      १०२८
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२८</summary>
+
+कुलगौरवरक्षार्थं कालो नात्र प्रतीक्ष्यताम् ।  
+आलस्यात् कालकाङ्क्षायां हीयते कुलगौरवम् ॥ १०२८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२८</summary>
+
+1028 kuṭiceyvārkku illai paruvam maṭiceytu  
+māṉam karutak keṭum.
+
+1028\. To pure householders there is no cessation of work. One’s false prestige leads to the ruin of one’s family.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२८</summary>
+
+8\. குடிசெய்வார்க்கு இல்லை பருவம் மடிசெய்து  
+மானம் கருதக் கெடும்.  
+No season have they who raise their race  
+Sloth and pride will honour efface.        1028  
+</details>
+
+<details><summary>मूलम् - १०२८</summary>
+
+कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु  
+मानङ् गरुदक् कॆडुम्।      १०२८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०२९</summary>
+
+इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
+कुट्र मऱैप्पान् उडम्बु।      १०२९
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०२९</summary>
+
+कुलसम्भावितानार्थवारणे यत्नशालिनः ।  
+शरीरं कस्यचित्किन्नु दुःखमात्रैकभाजनम् ॥ १०२९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०२९</summary>
+
+1029 iṭumpaikkē koḷkalam kollō kuṭumpattaik  
+kuṟṟam maṟaippāṉ uṭampu.
+
+1029\. Is he who protects his family from the ills of life a mere vessel of suffering?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०२९</summary>
+
+9\. இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்  
+குற்றம் மறைப்பான் உடம்பு.  
+Is not his frame a vase for woes  
+Who from mishaps shields his house?        1029  
+</details>
+
+<details><summary>मूलम् - १०२९</summary>
+
+इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
+कुट्र मऱैप्पान् उडम्बु।      १०२९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - १०३०</summary>
+
+इडुक्कण्गाल् कॊण्ड्रिड वीऴुम् अडुत्तूण्ड्रुम्  
+नल्लाळ् इलाद कुडि।      १०३०
+</details>
+
+<details><summary>श्री-राम-देशिकः - १०३०</summary>
+
+???? ।  
+यस्मिन कुले भाविदुःखकुठाराभिहतः पतेत् ॥ १०३०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - १०३०</summary>
+
+1030 iṭukkaṇkāl koṉṟiṭa vīḻum aṭuttūṉṟum  
+nallāḷ ilāta kuṭi.
+
+1030\. The axe of adversity falls on the family which has no noble son to shield it.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - १०३०</summary>
+
+10\. இடுக்கண்கால் கொன்றிட வீழும் அடுத்தூன்றும்  
+நல்லாள் இலாத குடி.  
+A house will fall by a mishap  
+With no good man to prop it up.         1030  
+</details>
+
+<details><summary>मूलम् - १०३०</summary>
+
+इडुक्कण्गाल् कॊण्ड्रिड वीऴुम् अडुत्तूण्ड्रुम्  
+नल्लाळ् इलाद कुडि।      १०३०
+</details>

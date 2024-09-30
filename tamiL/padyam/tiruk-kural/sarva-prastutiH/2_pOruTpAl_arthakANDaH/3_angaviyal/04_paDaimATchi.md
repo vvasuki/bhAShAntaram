@@ -1,0 +1,345 @@
++++
+title = "०४ पडैमाट्चि"
+
++++
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६१</summary>
+
+उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दन्  
+वॆऱुक्कैयुळ् ऎल्लाम् तलै।       ७६१
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६१</summary>
+
+अधिकारः ७७. सैन्यप्रयोजनम्  
+चतुरङ्गसमायुक्तं मृतिभीतिविवर्जितम् ।  
+सैन्यं जयप्रदं राज्ञामुत्तं भाग्यमुच्यते ॥ ७६१॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६१</summary>
+
+761\. uṟuppu amaintu, ūṟu añcā, vel paṭai-vēntaṉ  
+veṟukkaiyuḷ ellām talai.
+
+761\. A well-equipped and fearlessly conquering army is the foremost wealth of a king.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६१</summary>
+
+1\. உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன்  
+வெறுக்கையு ளெல்லாம் தலை  
+The daring well-armed winning force  
+Is king's treasure and main resource.        761  
+</details>
+
+<details><summary>मूलम् - ७६१</summary>
+
+उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दन्  
+वॆऱुक्कैयुळ् ऎल्लाम् तलै।       ७६१
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६२</summary>
+
+उलैविडत्तु ऊऱञ्जा वन्गण् तॊलैविडत्तुत्  
+तॊल्बडैक् कल्लाल् अरिदु।       ७६२
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६२</summary>
+
+विपत्काले स्वयं शीर्णं भृत्वापि धृतिमत्तया ।  
+स्थातुं शक्नोति तत् सैन्यं यन्मूलबलसंज्ञितम् ॥ ७६२॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६२</summary>
+
+762\. ulaivu iṭattu ūṟu añcā vaṉkaṇ, tolaivu iṭattu,  
+tol paṭaikku allāl, aritu.
+
+762\. The heroic valour of rallying round the king even in adversity is peculiar to hereditary force, and not to others.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६२</summary>
+
+2\. உலைவிடத்து ஊறஞ்சா வன்கண் தொலைவிடத்துத்  
+தொல்படைக் கல்லால் அரிது  
+Through shots and wounds brave heroes hold  
+Quailing not in fall, the field.        762  
+</details>
+
+<details><summary>मूलम् - ७६२</summary>
+
+उलैविडत्तु ऊऱञ्जा वन्गण् तॊलैविडत्तुत्  
+तॊल्बडैक् कल्लाल् अरिदु।       ७६२
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६३</summary>
+
+ऒलित्तक्काल् ऎन्नाम् उवरि ऎलिप्पगै  
+नागम् उयिर्प्पक् कॆडुम्।       ७६३
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६३</summary>
+
+मृषका मिलिताः शब्दं कुर्वन्तु भुजगान्तिके ।  
+वृथा तद् भुजगोच्छवासस्पर्शान्नश्यन्ति ते क्षणात् ॥ ७६३॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६३</summary>
+
+763\. olittakkāl eṉ ām, uvari elippakai?  
+nākam uyirppa, keṭum.
+
+763\. The hiss of a cobra stills for ever an army of rats as vast as the ocean.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६३</summary>
+
+3\. ஒலித்தக்கால் என்னாம் உவரி எலிப்பகை  
+நாகம் உயிர்ப்பக் கெடும்  
+Sea-like ratfoes roar ... What if?  
+They perish at a cobra's whiff.        763  
+</details>
+
+<details><summary>मूलम् - ७६३</summary>
+
+ऒलित्तक्काल् ऎन्नाम् उवरि ऎलिप्पगै  
+नागम् उयिर्प्पक् कॆडुम्।       ७६३
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६४</summary>
+
+अऴिविण्ड्रि अऱैबोगा तागि वऴिवन्द  
+वन्ग णदुवे पडै।       ७६४
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६४</summary>
+
+अप्रधर्ष्या परैर्नैव शक्या वञ्चयितुं परैः ।  
+परम्परागता धैर्ययुता सेनेति कथ्यते ॥ ७६४॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६४</summary>
+
+764\. aḻivu iṉṟu, aṟaipōkātu āki, vaḻivanta  
+vaṉkaṇatuvē-paṭai.
+
+764\. It is a heroic force that is hereditary, undiminished in powers and not undermined by the enemy.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६४</summary>
+
+4\. அழிவின்று அறைபோகா தாகி வழிவந்த  
+வன்க ணதுவே படை.  
+The army guards its genial flame  
+Not crushed, routed nor marred in name.        764  
+</details>
+
+<details><summary>मूलम् - ७६४</summary>
+
+अऴिविण्ड्रि अऱैबोगा तागि वऴिवन्द  
+वन्ग णदुवे पडै।       ७६४
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६५</summary>
+
+कूट्रुडण्ड्रु मेल्वरिनुम् कूडि ऎदिर्निऱ्कुम्  
+आट्र लदुवे पडै।       ७६५
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६५</summary>
+
+युद्धं करोतु कुपितः स्वयमागत्य चान्तकः ।  
+स्थातुं धैर्येण तस्याग्रे या शक्ता सैव वाहिनी ॥ ७६५॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६५</summary>
+
+765\. kūṟṟu uṭaṉṟu mēlvariṉum, kūṭi, etir niṟkum  
+āṟṟalatuvē-paṭai.
+
+765\. A valiant army faces courageously the advancing foe even when led by the God of Death.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६५</summary>
+
+5\. கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்  
+ஆற்ற லதுவே படை.  
+The real army with rallied force  
+Resists even Death-God fierce.        765  
+</details>
+
+<details><summary>मूलम् - ७६५</summary>
+
+कूट्रुडण्ड्रु मेल्वरिनुम् कूडि ऎदिर्निऱ्कुम्  
+आट्र लदुवे पडै।       ७६५
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६६</summary>
+
+मऱमानम् माण्ड वऴिच्चॆलवु तेट्रम्  
+ऎननान्गे एमम् पडैक्कु।       ७६६
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६६</summary>
+
+वीर्यं मानं तथा पूर्ववीराणां मार्गगामिता ।  
+राजविश्वसपात्रत्वं चत्वारः सैन्यगा गुणाः ॥ ७६६॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६६</summary>
+
+766\. maṟam, māṉam, māṇṭa vaḻic celavu, tēṟṟam,  
+eṉa nāṉkē ēmam, paṭaikku.
+
+766\. Heroism, honour, tried policy and fidelity to the king, these four are an army’s shelter.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६६</summary>
+
+6\. மறமானம் மாண்ட வழிச்செலவு தேற்றம்  
+எனநான்கே ஏமம் படைக்கு.  
+Manly army has merits four:-  
+Stately-march, faith, honour, valour.        766  
+</details>
+
+<details><summary>मूलम् - ७६६</summary>
+
+मऱमानम् माण्ड वऴिच्चॆलवु तेट्रम्  
+ऎननान्गे एमम् पडैक्कु।       ७६६
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६७</summary>
+
+तार्दाङ्गिच् चॆल्वदु तानै तलैवन्द  
+पोर्दाङ्गुम् तन्मै अऱिन्दु।       ७६७
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६७</summary>
+
+प्राप्तारिवारणोपायं बुद्ध्वा व्युहं विद्याय च ।  
+रिपुसैन्यविनाशाय प्रस्थानं सैन्यलक्षणम् ॥ ७६७॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६७</summary>
+
+767\. tār tāṅkic celvatu tāṉai-talaivanta  
+pōr tāṅkum taṉmai aṟintu.
+
+767\. That alone is an army which understands the enemy’s tactics, and fearlessly advances.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६७</summary>
+
+7\. தார்தாங்கிச் செல்வது தானை தலைவந்த  
+போர்தாங்கும் தன்மை அறிந்து.  
+Army sets on to face the foes  
+Knowing how the trend of war goes.        767  
+</details>
+
+<details><summary>मूलम् - ७६७</summary>
+
+तार्दाङ्गिच् चॆल्वदु तानै तलैवन्द  
+पोर्दाङ्गुम् तन्मै अऱिन्दु।       ७६७
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६८</summary>
+
+अडल्दगैयुम् आट्रलुम् इल्लॆनिनुम् तानै  
+पडैत्तगैयाल् पाडु पॆऱुम्।       ७६८
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६८</summary>
+
+पराभिघातसहनं युद्धकर्मप्रवीणता ।  
+अभयं मास्तु वा व्यूहमात्रात् सेना वरा भवेत् ॥ ७६८॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६८</summary>
+
+768\. aṭaltakaiyum, āṟṟalum, il eṉiṉum, tāṉai  
+paṭait takaiyāṉ pāṭu peṟum.
+
+768\. An army by mere show can achieve distinction though it may lack bold advance or even self-protection.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६८</summary>
+
+8\. அடற்றகையும் ஆற்றலும் இல்லெனினும் தானை  
+படைத்தகையால் பாடு பெறும்.  
+Army gains force by grand array  
+Lacking in stay or dash in fray.        768  
+</details>
+
+<details><summary>मूलम् - ७६८</summary>
+
+अडल्दगैयुम् आट्रलुम् इल्लॆनिनुम् तानै  
+पडैत्तगैयाल् पाडु पॆऱुम्।       ७६८
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७६९</summary>
+
+सिऱुमैयुम् सॆल्लात् तुनियुम् वऱुमैयुम्  
+इल्लायिन् वॆल्लुम् पडै।       ७६९
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७६९</summary>
+
+यजमानेष्वविश्वासो दारिद्र्यमधिकं तथा ।  
+द्वयं न स्याद्यादि तदा स्वल्पा सेनापि जेष्यति ॥ ७६९॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७६९</summary>
+
+769\. ciṟumaiyum, cellāt tuṉiyum, vaṟumaiyum,  
+illāyiṉ vellum, paṭai.
+
+769\. It is a winning army which has neither littleness, nor irremovable bitterness and poverty.  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७६९</summary>
+
+9\. சிறுமையும் செல்லாத் துனியும் வறுமையும்  
+இல்லாயின் வெல்லும் படை.  
+Army shall win if it is free  
+From weakness, aversion, poverty.        769  
+</details>
+
+<details><summary>मूलम् - ७६९</summary>
+
+सिऱुमैयुम् सॆल्लात् तुनियुम् वऱुमैयुम्  
+इल्लायिन् वॆल्लुम् पडै।       ७६९
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः - ७७०</summary>
+
+निलैमक्कळ् साल उडैत्तॆनिनुम् तानै  
+तलैमक्कळ् इल्वऴि इल्।       ७७०
+</details>
+
+<details><summary>श्री-राम-देशिकः - ७७०</summary>
+
+चिरानुभवशीलैश्च वीरैर्युक्तापि वाहिनी ।  
+सेनापतिविहीना सा महिमानं न विन्दते ॥ ७७०॥
+</details>
+
+<details><summary>रामचन्द्र-दीक्षितः - ७७०</summary>
+
+770\. nilai makkaḷ cāla uṭaittueṉiṉum, tāṉai  
+talaimakkaḷ ilvaḻi il.
+
+770\. Of what avail is the army of heroic warriors if there be no general to guide them?  
+</details>
+
+<details><summary>शुद्धानन्द-भारती - ७७०</summary>
+
+10\. நிலைமக்கள் சால உடைத்தெனினும் தானை  
+தலைமக்கள் இல்வழி இல்.  
+With troops in large numbers on rolls  
+Army can't march missing gen'rals.        770  
+</details>
+
+<details><summary>मूलम् - ७७०</summary>
+
+निलैमक्कळ् साल उडैत्तॆनिनुम् तानै  
+तलैमक्कळ् इल्वऴि इल्।       ७७०
+</details>
