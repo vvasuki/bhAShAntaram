@@ -20,7 +20,7 @@ Sri Varamanga Godha Sametha Sri Deivanayaka Perumal - Vanamama
 மொழிப்பெயர்ப்பு   
 AUTHOR   
 Dr. V.S. SUNDARARAJAN, M.A., B.Ed.,   
-(M.A., In Sanskrit, Hindi, Tamil & English] Vyakarana Siromani, Rashtrabhasha Praveen & Pracharak, Sahityaratna, Tamil Vidvan.   
+(M.A., In Sanskrit, Hindi, Tamil & English) Vyakarana Siromani, Rashtrabhasha Praveen & Pracharak, Sahityaratna, Tamil Vidvan.   
 &   
 Currently Srimath Paramahamsetyadi Jagadguru Sri Kaliyan Vanamamalai Ramanuja Jeeyar Swami, Sri Vanamamalai Mutt, Nanguneri - 627108.   
 
