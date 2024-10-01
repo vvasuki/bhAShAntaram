@@ -545,15 +545,6 @@ tuṟantār tuṟantār tuṇai.
 310\. Men given to wrath are one with the devil; Men free from it are one with the immortals.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३१०</summary>
-
-310\. iṟantār iṟantār aṉaiyar; ciṉattait  
-tuṟantār tuṟantār tuṇai.
-
-310\. Men given to wrath are one with the devil; Men free from it are one with the immortals.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३१०</summary>
 
 10\. இறந்தார் இறந்தார் அனையர் சினத்தைத்  

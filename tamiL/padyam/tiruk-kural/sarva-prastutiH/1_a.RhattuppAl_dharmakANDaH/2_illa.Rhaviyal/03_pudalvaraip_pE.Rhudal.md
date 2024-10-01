@@ -527,15 +527,6 @@ eṉ nōṟṟāṉkol!’ eṉum col.
 70\. The service a son can do his father is to make the public exclaim ‘see, the fruit of his father’s good deeds.’
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ७०</summary>
-
-70\. makaṉ tantaikku āṟṟum utavi, ‘ivaṉ tantai  
-eṉ nōṟṟāṉkol!’ eṉum col.
-
-70\. The service a son can do his father is to make the public exclaim ‘see, the fruit of his father’s good deeds.’
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ७०</summary>
 
 10\. மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தை  

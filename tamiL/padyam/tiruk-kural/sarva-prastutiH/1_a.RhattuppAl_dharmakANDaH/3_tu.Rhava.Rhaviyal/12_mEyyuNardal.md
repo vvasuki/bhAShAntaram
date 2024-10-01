@@ -545,15 +545,6 @@ nāmam keṭa, keṭum nōy.
 360\. Wipe out the very names of lust, anger and delusion; you will be wiping out the pause of re-birth.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३६०</summary>
-
-360\. kāmam, vekuḷi, mayakkam, ivai mūṉṟaṉ  
-nāmam keṭa, keṭum nōy.
-
-360\. Wipe out the very names of lust, anger and delusion; you will be wiping out the pause of re-birth.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३६०</summary>
 
 10\. காமம் வெகுளி மயக்கம் இவை மூன்றன்  

@@ -527,15 +527,6 @@ collil payaṉ ilāc col!.
 200\. Speak profitable words; avoid nonsense.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २००</summary>
-
-200\. colluka, collil payaṉ uṭaiya! collaṟka,  
-collil payaṉ ilāc col!.
-
-200\. Speak profitable words; avoid nonsense.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २००</summary>
 
 10\. சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க  

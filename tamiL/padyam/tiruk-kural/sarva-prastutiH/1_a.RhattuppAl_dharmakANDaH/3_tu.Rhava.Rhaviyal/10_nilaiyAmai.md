@@ -536,15 +536,6 @@ tuccil irunta uyirkku!.
 340\. Why should the soul seek a temporary shelter in the perishable body? Is there not a durable habitation for it?
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३४०</summary>
-
-340\. pukkil amaintiṉṟukollō-uṭampiṉuḷ  
-tuccil irunta uyirkku!.
-
-340\. Why should the soul seek a temporary shelter in the perishable body? Is there not a durable habitation for it?
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३४०</summary>
 
 10\. புக்கில் அமைந்தின்று கொல்லோ உடம்பினுள்  

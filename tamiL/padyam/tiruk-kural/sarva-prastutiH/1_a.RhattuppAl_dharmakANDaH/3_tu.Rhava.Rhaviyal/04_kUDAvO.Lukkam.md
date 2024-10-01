@@ -544,15 +544,6 @@ paḻittatu oḻittuviṭiṉ.
 280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २८०</summary>
-
-280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
-paḻittatu oḻittuviṭiṉ.
-
-280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २८०</summary>
 
 10\. மழித்தலும் நீட்டலும் வேண்டா உலகம்  

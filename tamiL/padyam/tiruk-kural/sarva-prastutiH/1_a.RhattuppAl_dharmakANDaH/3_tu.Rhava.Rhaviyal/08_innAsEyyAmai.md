@@ -546,15 +546,6 @@ nōy iṉmai vēṇṭupavar.
 320\. All sufferings befall those who inflict harm on others. Those who desire immunity from suffering never commit injury.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३२०</summary>
-
-320\. nōy ellām nōy ceytār mēlavām; nōy ceyyār,  
-nōy iṉmai vēṇṭupavar.
-
-320\. All sufferings befall those who inflict harm on others. Those who desire immunity from suffering never commit injury.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३२०</summary>
 
 10\. நோய்எல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்  

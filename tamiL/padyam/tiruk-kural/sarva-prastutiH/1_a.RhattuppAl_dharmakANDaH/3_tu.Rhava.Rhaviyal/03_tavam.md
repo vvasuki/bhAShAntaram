@@ -542,15 +542,6 @@ cilar; palar nōlātavar.
 270\. Many are the indigent; for only a few practise penance.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २७०</summary>
-
-270\. ilar palar ākiya kāraṇam-nōṟpār  
-cilar; palar nōlātavar.
-
-270\. Many are the indigent; for only a few practise penance.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २७०</summary>
 
 10\. இலர்பல ராகிய காரணம் நோற்பார்  

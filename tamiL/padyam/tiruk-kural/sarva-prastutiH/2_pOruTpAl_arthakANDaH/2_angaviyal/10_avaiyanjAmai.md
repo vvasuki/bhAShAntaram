@@ -89,14 +89,6 @@ kaṟṟa celac colluvār.
 722\. Those will be deemed foremost among the learned, who can speak learned things acceptable to the learned.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ७२२</summary>
-
-722\. kaṟṟāruḷ kaṟṟār eṉappaṭuvar-kaṟṟārmuṉ  
-kaṟṟa celac colluvār.
-
-722\. Those will be deemed foremost among the learned, who can speak learned things acceptable to the learned.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ७२२</summary>
 
 2\. கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்  

@@ -530,15 +530,6 @@ cellāt tī vāḻkkaiyavar'.
 330\. Behold the Lazarus, he is guilty of acts of violence in his former birth.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३३०</summary>
-
-330\. 'uyir uṭampiṉ nīkkiyār' eṉpa-'ceyir uṭampiṉ  
-cellāt tī vāḻkkaiyavar'.
-
-330\. Behold the Lazarus, he is guilty of acts of violence in his former birth.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३३०</summary>
 
 10\. உயிர்உடம்பின் நீக்கியார் என்ப செயிர்உடம்பின்  

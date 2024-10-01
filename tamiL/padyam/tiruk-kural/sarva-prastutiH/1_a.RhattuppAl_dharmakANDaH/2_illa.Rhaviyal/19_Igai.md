@@ -88,14 +88,6 @@ il’ eṉiṉum, ītalē naṉṟu.
 222\. Receiving gifts is bad though one is assured of heaven. Bestowing gifts is good, though thereby one should be bereft of it.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २२२</summary>
-
-222\. 'nallāṟu' eṉiṉum, koḷal tītu; ‘mēl ulakam  
-il’ eṉiṉum, ītalē naṉṟu.
-
-222\. Receiving gifts is bad though one is assured of heaven. Bestowing gifts is good, though thereby one should be bereft of it.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २२२</summary>
 
 2\. நல்லாறு எனினும் கொளல்தீது மேலுலகம்  
@@ -538,15 +530,6 @@ If one can't help the poor. *
 ītal iyaiyākkaṭai.
 
 230\. Death indeed is the greatest calamity; worse than death is one’s failure in charity.
-</details>
-
-<details><summary>रामचन्द्र-दीक्षितः (en) - २३०</summary>
-
-230\. cātaliṉ iṉṉātatu illai; iṉitu, atūum  
-ītal iyaiyākkaṭai.
-
-230\. Death indeed is the greatest calamity; worse than death is one’s failure in charity.
-
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - २३०</summary>

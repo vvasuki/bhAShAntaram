@@ -542,15 +542,6 @@ ceynnaṉṟi koṉṟa makaṟku.
 110\. There is salvation to those guilty of any other sin; but there is no redemption for the sin of ingratitude.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ११०</summary>
-
-110\. en naṉṟi koṉṟārkkum uyvu uṇṭām; uyvu illai,  
-ceynnaṉṟi koṉṟa makaṟku.
-
-110\. There is salvation to those guilty of any other sin; but there is no redemption for the sin of ingratitude.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ११०</summary>
 
 10\. எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம்: உய்வில்லை  

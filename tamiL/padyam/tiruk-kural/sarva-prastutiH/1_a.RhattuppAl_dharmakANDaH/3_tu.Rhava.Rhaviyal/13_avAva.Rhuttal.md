@@ -531,15 +531,6 @@ pērā iyaṟkai tarum.
 370\. Give up your insatiable longings; you will be conferring on yourself an eternal life.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३७०</summary>
-
-370\. ārā iyaṟkai avā nīppiṉ, an nilaiyē  
-pērā iyaṟkai tarum.
-
-370\. Give up your insatiable longings; you will be conferring on yourself an eternal life.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३७०</summary>
 
 10\. ஆரா இயற்கை அவாநீப்பின் அந்நிலையே  

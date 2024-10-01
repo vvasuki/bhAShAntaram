@@ -552,15 +552,6 @@ viṟṟuk kōḷ takkatu uṭaittu.
 220\. The poverty that results from a just course of action is worth purchasing by going into the very bond of slavery.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २२०</summary>
-
-220\. 'oppuraviṉāl varum, kēṭu' eṉiṉ, aḵtu oruvaṉ  
-viṟṟuk kōḷ takkatu uṭaittu.
-
-220\. The poverty that results from a just course of action is worth purchasing by going into the very bond of slavery.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २२०</summary>
 
 10\. ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்  

@@ -531,15 +531,6 @@ taḷḷātu, puttēḷ ulaku.
 290\. Their very bodies fail the defrauding. The world of the gods fail not the upright.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २९०</summary>
-
-290\. kaḷvārkkut taḷḷum, uyirnilai; kaḷḷārkkut  
-taḷḷātu, puttēḷ ulaku.
-
-290\. Their very bodies fail the defrauding. The world of the gods fail not the upright.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २९०</summary>
 
 10\. கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத்  

@@ -532,15 +532,6 @@ vāṉ iṉṟu amaiyātu oḻukku.
 20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २०</summary>
-
-20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
-vāṉ iṉṟu amaiyātu oḻukku.
-
-20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २०</summary>
 
 10\. நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்  

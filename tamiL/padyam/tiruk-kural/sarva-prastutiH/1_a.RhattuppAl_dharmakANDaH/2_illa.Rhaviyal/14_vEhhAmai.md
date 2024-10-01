@@ -532,15 +532,6 @@ vēṇṭāmai eṉṉum cerukku.
 180\. A blind covetousness brings about one’s ruin. Freedom from it begets one’s triumph.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - १८०</summary>
-
-180\. iṟal īṉum, eṇṇātu veḵkiṉ; viṟal īṉum,  
-vēṇṭāmai eṉṉum cerukku.
-
-180\. A blind covetousness brings about one’s ruin. Freedom from it begets one’s triumph.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - १८०</summary>
 
 10\. இறல்ஈனும் எண்ணாது வெஃகின் விறல்ஈனும்  

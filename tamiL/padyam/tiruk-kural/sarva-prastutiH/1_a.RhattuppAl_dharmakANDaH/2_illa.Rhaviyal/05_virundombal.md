@@ -547,15 +547,6 @@ nōkkak kuḻaiyum viruntu.
 90\. The aniccam flower withers when smelt, and the guest under a displeased look.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ९०</summary>
-
-90\. mōppak kuḻaiyum aṉiccam;- mukam tirintu  
-nōkkak kuḻaiyum viruntu.
-
-90\. The aniccam flower withers when smelt, and the guest under a displeased look.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ९०</summary>
 
 10\. மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து  

@@ -543,15 +543,6 @@ ellā uyirum toḻum.
 260\. The whole world folds its hands in prayer to one who kills not and abjures flesh.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २६०</summary>
-
-260\. kollāṉ, pulālai maṟuttāṉaik kaikūppi,  
-ellā uyirum toḻum.
-
-260\. The whole world folds its hands in prayer to one who kills not and abjures flesh.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २६०</summary>
 
 10\. கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி  

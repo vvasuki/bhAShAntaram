@@ -537,15 +537,6 @@ eṉpu tōl pōrtta uṭampu.
 80\. That body where love dwells is the seat of life; all others are but skin-clad bones.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ८०</summary>
-
-80\. aṉpiṉ vaḻiyatu uyirnilai; aḵtu ilārkku  
-eṉpu tōl pōrtta uṭampu.
-
-80\. That body where love dwells is the seat of life; all others are but skin-clad bones.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ८०</summary>
 
 10\. அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு  

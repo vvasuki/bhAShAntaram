@@ -546,15 +546,6 @@ meliyārmēl cellum iṭattu.
 250\. Oppress not the weak; remember your fate in stronger hands.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २५०</summary>
-
-250\. valiyār muṉ taṉṉai niṉaikka-tāṉ taṉṉiṉ  
-meliyārmēl cellum iṭattu.
-
-250\. Oppress not the weak; remember your fate in stronger hands.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २५०</summary>
 
 10\. வலியார்முன் தன்னை நினைக்கதான் தன்னின்  

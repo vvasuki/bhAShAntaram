@@ -34,14 +34,6 @@ To the other three orders in their virtuous paths.
 41\. Kallāmai
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४१</summary>
-
-41\. ilvāḻvāṉ eṉpāṉ iyalpu uṭaiya mūvarkkum  
-nallāṟṟiṉ niṉṟa tuṇai.
-
-41\. The householder is the prop of the three orders of life in the conduct of their virtue.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ४१</summary>
 
 5\. இல்வாழ்க்கை - Married Life
@@ -96,14 +88,6 @@ Renunciates, ancestors and the poor.
 42\. Kēļvi
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४२</summary>
-
-42\. tuṟantārkkum, tuvvātavarkkum, iṟantārkkum,  
-ilvāḻvāṉ eṉpāṉ tuṇai.
-
-42\. The householder is the mainstay of the ascetics, the needy and the dead.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ४२</summary>
 
 2\. துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்  
@@ -154,14 +138,6 @@ God, guests, kindred, ancestors and himself. *
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३</summary>
 
 43\. Aŗivuḑaimai
-</details>
-
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४३</summary>
-
-43\. teṉpulattār, teyvam, viruntu, okkal, tāṉ, eṉṟu āṅku  
-aimpulattu āṟu ōmpal talai.
-
-43\. It is the supreme virtue (of the householder) to fulfil his obligations to forefathers, gods, guests, relatives and himself.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - ४३</summary>
@@ -216,14 +192,6 @@ who shuns blame and shares his food.
 44\. Kuŗŗam Kaţital
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४४</summary>
-
-44\. paḻi añcip pāttu ūṇ uṭaittāyiṉ, vāḻkkai  
-vaḻi eñcal, eññāṉṟum, il.
-
-44\. If one were to live in fear of infamy and partake of the remains of food (offered) one’s line would never perish.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ४४</summary>
 
 4\. பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை  
@@ -274,14 +242,6 @@ Endows it with character and happiness
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५</summary>
 
 45\. Periyārait Tuņaikkõṭal
-</details>
-
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४५</summary>
-
-45\. aṉpum aṟaṉum uṭaittuāyiṉ, ilvāḻkkai  
-paṇpum payaṉum atu.
-
-45\. The life of householder marked by love and rectitude is itself virtue and its fruit.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - ४५</summary>
@@ -336,14 +296,6 @@ When one leads the virtuous path of householder?
 46\. Śiŗŗinañ cērāmai
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४६</summary>
-
-46\. aṟattu āṟṟiṉ ilvāḻkkai āṟṟiṉ, puṟattu āṟṟil  
-pōoyp peṟuvatu evaṉ?.
-
-46\. Is there any gain greater in resorting to other orders of life than by pursuing the right path of the householder?  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ४६</summary>
 
 6\. அறத்தாற்றின் இல்வாழ்க்கை யாற்றின் புறத்தாற்றிற்  
@@ -396,14 +348,6 @@ Are the householders leading a righteous life. *
 47\. Terindu Śeyal Vakai
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४७</summary>
-
-47\. iyalpiṉāṉ ilvāḻkkai vāḻpavaṉ eṉpāṉ  
-muyalvāruḷ ellām talai.
-
-47\. The life of the householder is far greater than that of one in the path of renunciation.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ४७</summary>
 
 7\. இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்  
@@ -454,14 +398,6 @@ More than the penance of the penance doer. *
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८</summary>
 
 48\. Valiyaŗital
-</details>
-
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४८</summary>
-
-48\. āṟṟiṉ oḻukki, aṟaṉ iḻukkā ilvāḻkkai  
-nōṟpāriṉ nōṉmai uṭaittu.
-
-48\. The householder who keeps others in the right path and himself does not deviate from his, does greater penance than the anchorite.  
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - ४८</summary>
@@ -521,14 +457,6 @@ And it is praiseworthy if free from blame. *
 49\. Kālam Aŗital
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ४९</summary>
-
-49\. aṟaṉ eṉappaṭṭatē ilvāḻkkai; aḵtum  
-piṟaṉ paḻippatu il āyiṉ naṉṟu.
-
-49\. What is Dharma but the life of the householder? There is no greater life if it is free from reproach.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ४९</summary>
 
 9\. அறனெனப் பட்டதே இல்வாழ்க்கை அஃதும்  
@@ -582,15 +510,6 @@ Ranks with the gods in the heaven.
 teyvattuḷ vaikkappaṭum.
 
 50\. He who lives the true life of the householder on earth becomes one among the gods in Heaven.
-</details>
-
-<details><summary>रामचन्द्र-दीक्षितः (en) - ५०</summary>
-
-50\. vaiyattuḷ vāḻvāṅku vāḻpavaṉ vāṉ uṟaiyum  
-teyvattuḷ vaikkappaṭum.
-
-50\. He who lives the true life of the householder on earth becomes one among the gods in Heaven.
-
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - ५०</summary>

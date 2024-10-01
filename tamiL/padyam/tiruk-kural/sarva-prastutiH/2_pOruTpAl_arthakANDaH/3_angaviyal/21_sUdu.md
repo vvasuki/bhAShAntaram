@@ -94,14 +94,6 @@ naṉṟueyti vāḻvatōr āṟu.
 932\. Can gamblers who lose a hundred times before winning once ever dream of an upright life?  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ९३२</summary>
-
-932 oṉṟueyti nūṟuiḻakkum cūtarkkum uṇṭāṅkol  
-naṉṟueyti vāḻvatōr āṟu.
-
-932\. Can gamblers who lose a hundred times before winning once ever dream of an upright life?  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ९३२</summary>
 
 2\. ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்  

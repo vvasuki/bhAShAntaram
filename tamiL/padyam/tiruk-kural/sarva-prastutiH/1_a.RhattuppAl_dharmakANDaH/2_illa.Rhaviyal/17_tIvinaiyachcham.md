@@ -539,15 +539,6 @@ tīviṉai ceyyāṉ eṉiṉ?.
 210\. Hardly doth sorrow befall one who does not deviate from right.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - २१०</summary>
-
-210\. aruṅ kēṭaṉ eṉpatu aṟika-maruṅku ōṭit  
-tīviṉai ceyyāṉ eṉiṉ?.
-
-210\. Hardly doth sorrow befall one who does not deviate from right.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - २१०</summary>
 
 10\. அருங்கேடன் என்பது அறிக மருங்கோடித்  

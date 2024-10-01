@@ -368,14 +368,6 @@ peṇṇiṉ peruntakkatu il.
 1137\. Woman tossed about in a sea of the anguish of love think not of mounting the madal — there is nothing greater than this.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ११३७</summary>
-
-1137 kaṭalaṉṉa kāmam uḻantum maṭalēṟāp  
-peṇṇiṉ peruntakkatu il.
-
-1137\. Woman tossed about in a sea of the anguish of love think not of mounting the madal — there is nothing greater than this.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ११३७</summary>
 
 7\. கடலன்ன காமம் உழந்தும் மடலேறாப்  

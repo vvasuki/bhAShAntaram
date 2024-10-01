@@ -536,15 +536,6 @@ vāymaiyiṉ nalla piṟa.
 300\. In all the scriptures we have read, there is no virtue greater than truth.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ३००</summary>
-
-300\. yām meyyāk kaṇṭavaṟṟuḷ, illai-eṉaittu oṉṟum  
-vāymaiyiṉ nalla piṟa.
-
-300\. In all the scriptures we have read, there is no virtue greater than truth.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ३००</summary>
 
 10\. யாமெய்யாக் கண்டவற்றுள் இல்லை எனைத்தொன்றும்  

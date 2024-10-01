@@ -474,14 +474,6 @@ piṟpayakkum, naṟpālavai.
 659\. What is secured by causing tears to others will be lost with tears. But good deeds will result in good later.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ६५९</summary>
-
-659\. aḻak koṇṭa ellām aḻap pōm; iḻappiṉum,  
-piṟpayakkum, naṟpālavai.
-
-659\. What is secured by causing tears to others will be lost with tears. But good deeds will result in good later.  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ६५९</summary>
 
 9\. அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்  

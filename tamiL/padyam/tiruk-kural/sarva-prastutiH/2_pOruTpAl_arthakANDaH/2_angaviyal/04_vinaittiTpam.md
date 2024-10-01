@@ -377,14 +377,6 @@ accu āṇi aṉṉār uṭaittu.
 667\. Do not despise one for lack of personality. Does not the little nail of the chariot keep the wheel going?  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - ६६७</summary>
-
-667\. uruvu kaṇṭu eḷḷāmai vēṇṭum-uruḷ perun tērkku  
-accu āṇi aṉṉār uṭaittu.
-
-667\. Do not despise one for lack of personality. Does not the little nail of the chariot keep the wheel going?  
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - ६६७</summary>
 
 7\. உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்கு  

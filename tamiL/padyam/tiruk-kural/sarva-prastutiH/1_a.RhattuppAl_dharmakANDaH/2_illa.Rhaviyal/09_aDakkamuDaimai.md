@@ -526,15 +526,6 @@ aṟam pārkkum āṟṟiṉ nuḻaintu.
 130\. The God of righteousness seeks one who is on guard against anger and attains self-control through knowledge.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - १३०</summary>
-
-130\. katam kāttu, kaṟṟu, aṭaṅkal āṟṟuvāṉ cevvi  
-aṟam pārkkum āṟṟiṉ nuḻaintu.
-
-130\. The God of righteousness seeks one who is on guard against anger and attains self-control through knowledge.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - १३०</summary>
 
 10\. கதங்காத்து கற்றடங்கல் ஆற்றுவான் செவ்வி  

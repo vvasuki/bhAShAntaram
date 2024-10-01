@@ -537,15 +537,6 @@ kaṉi iruppa, kāy kavarntaṟṟu.
 100\. Indulging in offensive words and avoiding sweet ones is like prefering the raw to a ripe fruit.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - १००</summary>
-
-100\. iṉiya uḷavāka iṉṉāta kūṟal-  
-kaṉi iruppa, kāy kavarntaṟṟu.
-
-100\. Indulging in offensive words and avoiding sweet ones is like prefering the raw to a ripe fruit.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - १००</summary>
 
 10\. இனிய உளவாக இன்னாத கூறல்  

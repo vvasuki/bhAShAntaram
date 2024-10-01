@@ -532,15 +532,6 @@ piṟavum tamapōl ceyiṉ.
 120\. To deal with others’ goods as their own is the only true trade among traders.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः (en) - १२०</summary>
-
-120\. vāṇikam ceyvārkku vāṇikam-pēṇip  
-piṟavum tamapōl ceyiṉ.
-
-120\. To deal with others’ goods as their own is the only true trade among traders.
-
-</details>
-
 <details><summary>शुद्धानन्द-भारती (en) - १२०</summary>
 
 10\. வாணிகஞ் செய்வார்க்கு வாணிகம் பேணிப்  
