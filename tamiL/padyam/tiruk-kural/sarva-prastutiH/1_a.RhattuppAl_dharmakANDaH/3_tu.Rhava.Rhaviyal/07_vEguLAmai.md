@@ -410,6 +410,8 @@ And those renounced it on par with saints.
 <details><summary>NVK Ashraf notes (en) - ३१०</summary>
 
 ३१०. A different but equally valid translation is given by (Satguru Subramuniyaswami):
+
+"As men who have died resemble the dead, so men who have renounced anger resemble renunciates"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>

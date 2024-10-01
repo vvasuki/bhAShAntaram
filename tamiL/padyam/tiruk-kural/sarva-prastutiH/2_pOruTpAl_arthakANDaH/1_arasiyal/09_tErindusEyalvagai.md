@@ -373,6 +373,11 @@ Imperfection in the division of labour.
 <details><summary>NVK Ashraf notes (en) - ४६९</summary>
 
 ४६९. This couplet can be rendered with different meanings:
+
+Even worthy schemes can fail when there is dearth in apportionment of tasks - (N.V.K. Ashraf)  
+Even good works go wrong if they don't match the recipient's nature - (K.R. Srinivasa Iyengar)  
+Even a good scheme goes awry when contributions don't come equally from all - (P.S. Sundaram), (N.V.K. Ashraf)  
+Even reliable schemes can fail when responsibilities are not shared equally - (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६९</summary>

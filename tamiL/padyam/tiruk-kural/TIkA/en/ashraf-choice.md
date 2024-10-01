@@ -3,129 +3,6 @@ title = "Ashraf choice"
 
 +++
 
-Division I. Virtue
-
-००१
-Praise of God
-Translators
-Notes
-
-Notes:
-
-००२	
-Glory of rain
-Translators
-Notes
-
-Notes:
-
-००३	
-Greatness of ascetics
-Translators
-Notes
-
-Notes:
-
-००४
-Emphasizing virtue	
-Translators
-Notes
-
-Notes:
-
-००५
-Domestic life
-Translators
-Notes
-
-Notes:
-
-००६
-Good life partner
-Translators
-Notes
-
-Notes:
-
-००७
-Begetting children
-Translators
-Notes
-
-००८
-Possession of love
-Translators
-Notes
-
-Notes:
-
-००९
-Hospitality
-Translators
-Notes
-
-Notes:
-
-०१०
-Pleasant speech
-Translators
-Notes
-
-Notes:
-
-Division I. Virtue (Continued॥॥.)
-
-०११
-Realizing gratitude
-Translators
-Notes
-
-Notes:
-
-०१२
-Impartiality
-Translators
-Notes
-
-Notes:
-
-०१३
-Possession of self control
-Translators
-Notes
-
-०१४
-Possession of decorum
-Translators
-Notes
-
-Notes:
-
-०१५
-Not coveting another's Wife
-Translators
-Notes
-
-०१६
-Forbearance
-Translators
-Notes
-
-Notes:
-
-०१७
-Not envying
-Translators
-Notes
-
-Notes:
-
-०१८
-Not coveting
-Translators
-Notes
-
-Notes:
 
 ०१९
 Avoiding slander
@@ -134,7 +11,6 @@ Notes
 
 Notes: 
 
-"Slander not a man behind his back even if he has insulted thee in thy very face"
 
 ०२०
 Avoiding vain speech
@@ -169,9 +45,7 @@ Notes
 
 Notes:
 
-"To live without blame is life; without fame death" - * (P.S. Sundaram)
-"They only live who live without blame. And not those who live without fame" – (N.V.K. Ashraf)
-"A life without blame lasts for ever; a life without fame lasts never" - (N.V.K. Ashraf).
+
 
 ०२५
 Kindness
@@ -220,7 +94,6 @@ Notes
 
 Notes:
 
-"As men who have died resemble the dead, so men who have renounced anger resemble renunciates" 
 
 ०३२
 Not hurting
@@ -330,10 +203,6 @@ Notes
 
 Notes:
 
-Even worthy schemes can fail when there is dearth in apportionment of tasks - (N.V.K. Ashraf)
-Even good works go wrong if they don't match the recipient's nature - (K.R. Srinivasa Iyengar)
-Even a good scheme goes awry when contributions don't come equally from all - (P.S. Sundaram), (N.V.K. Ashraf)
-Even reliable schemes can fail when responsibilities are not shared equally - (N.V.K. Ashraf)
 
 ०४८
 Knowing the strength
@@ -808,7 +677,7 @@ Translators
 Notes
 
 Notes:
-११३१, ११३२, ११३३, ११३५, ११३६, ११३७. madal [मडल्]: In the Tamil literary convention, a disappointed lover mounts a hobby horse made of dried palmyra leaves and has it dragged along the streets while he proclaims his intention to die if his lady-love continues to disappoint him. 
+
 
 ११५
 Spreading romours

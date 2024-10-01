@@ -405,6 +405,10 @@ The one without fame fades.
 <details><summary>NVK Ashraf notes (en) - २४०</summary>
 
 २४०. There are many interesting ways of translating this couplet. 
+
+"To live without blame is life; without fame death" - * (P.S. Sundaram)  
+"They only live who live without blame. And not those who live without fame" – (N.V.K. Ashraf)  
+"A life without blame lasts for ever; a life without fame lasts never" - (N.V.K. Ashraf).
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४०</summary>

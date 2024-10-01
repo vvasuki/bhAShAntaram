@@ -24,6 +24,12 @@ Have nothing but the madal for strength.
 (G.U. Pope), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११३१</summary>
+
+११३१, ११३२, ११३३, ११३५, ११३६, ११३७. madal [मडल्]: In the Tamil literary convention, a disappointed lover mounts a hobby horse made of dried palmyra leaves and has it dragged along the streets while he proclaims his intention to die if his lady-love continues to disappoint him. 
+</details>
+
+
 <details><summary>रामचन्द्र-दीक्षितः - ११३१</summary>
 
 1131 kāmam uḻantu varuntiṉārkku ēmam  
