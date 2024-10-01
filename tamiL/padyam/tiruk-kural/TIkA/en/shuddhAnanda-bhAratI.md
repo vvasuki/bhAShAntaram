@@ -498,7 +498,7 @@ measured with his feet the three worlds.
 
 #### 114\. நாணுத் துறவுரைத்தல் - Decorum defied
 
-\* Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved. The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs. The parents of the lovers first reproach them and then consent to their marriage.  
+
 \-\-\-\-\-\-\-  
 
 #### 115\. அலரறிவுறுத்தல் - Public clamour

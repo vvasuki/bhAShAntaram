@@ -250,6 +250,14 @@ A man's stature by the level of his mind.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९५</summary>
+
+595\. ākkam atar viṉāyc cellum-acaivu ilā  
+ūkkam uṭaiyāṉuḻai.
+
+595\. The length of a watery plant is determined by the depth of the water. Likewise the greatness of a person is proportionate to the strength of his will power.
+</details>
+
 <details><summary>शुद्धानन्द-भारती (en) - ५९५</summary>
 
 5\. வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்  
@@ -257,6 +265,8 @@ A man's stature by the level of his mind.
 Water depth is lotus height  
 Mental strength is men's merit.        595  
 </details>
+
+
 
 <details><summary>वेङ्कटकृष्ण (हि) - ५९५</summary>
 

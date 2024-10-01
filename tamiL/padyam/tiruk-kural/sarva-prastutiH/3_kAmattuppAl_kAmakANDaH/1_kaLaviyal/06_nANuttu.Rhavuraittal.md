@@ -43,6 +43,8 @@ maṭalallatu illai vali.
 மடலல்லது இல்லை வலி.  
 Pangs of passion find no recourse  
 Except riding *'palmyra horse'.        1131  
+
+\* Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved. The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs. The parents of the lovers first reproach them and then consent to their marriage.
 </details>
 
 <details><summary>वेङ्कटकृष्ण (हि) - ११३१</summary>

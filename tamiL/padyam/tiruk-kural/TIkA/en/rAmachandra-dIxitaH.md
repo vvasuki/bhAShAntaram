@@ -2,11 +2,9 @@
 title = "रामचन्द्र-दीक्षितः"
 
 +++
-![](pmdr0.gif)
 
 * * *
 
-##   
 திருக்குறள் \- ஆங்கில மொழிபெயர்ப்பு  
 ஆசிரியர் : இராமசந்திர தீக்‌ஷிதர்
 
@@ -746,10 +744,7 @@ On the Pleasures of Lovers' Misunderstanding
 
 ##### 60\. ūkkam uṭaimai - CHAPTER 60— ON EXERTION
 
-594\. ākkam atar viṉāyc cellum-acaivu ilā  
-ūkkam uṭaiyāṉuḻai.
 
-595\. The length of a watery plant is determined by the depth of the water. Likewise the greatness of a person is proportionate to the strength of his will power.  
 
 ##### 61\. maṭi iṉmai - CHAPTER 61— AGAINST SLOTH
 
