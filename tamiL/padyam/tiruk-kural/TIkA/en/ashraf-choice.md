@@ -11,60 +11,60 @@ Notes
 0001
 With alpha begins all alphabets;
 And the world with the first Bagavan. *
-KN, SI
+(K.N. Subramanyam), (K.R. Srinivasa Iyengar)
 Yes
 0002
 Of what avail is learning if one worships not
 The holy feet of Pure Intelligence? *
-VS, GV
+(V.V.S. Aiyar), (G. Vanmikanathan)
 
 0003
 Long life on earth is theirs who reach
 The glorious feet of Him who walked on flowers.
-PS, VS
+(P.S. Sundaram), (V.V.S. Aiyar)
 Yes
 0004
 No evil will befall those who reach the feet
 Of the One beyond likes and dislikes.
-NV
+(N.V.K. Ashraf)
 
 0005
 The twin deeds of dark illusion do not affect those
 Who delight meaningfully in Lord's praise. *
-DZ
+(S.M. Diaz)
 Yes
 0006
 Long life is theirs who tread the path of Him
 Who conquered the five senses.
-PS
+(P.S. Sundaram)
 Yes
 0007
 They alone escape from sorrows who take refuge
 In the feet of Him beyond compare. *
-VS
+(V.V.S. Aiyar)
 
 0008
 None can swim the sea of births, but those united
 To the feet of that Being, a sea of virtue. *
-DL
+(W.H. Drew and  J. Lazarus)
 Yes
 0009
 Depraved, senseless and worthless is the head
 Unbowed at the feet of Him with eight qualities.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 Yes
 0010
 The ocean of births can be crossed by none other than
 Those who reach the feet of the Lord. *
-PS
+(P.S. Sundaram)
 
  
 Notes:
 1. "Bagavan". Scholars differ in their opinion as to what this word stands for. Most traditional and modern scholars, based on the title of the chapter "In praise of God", render the word to mean "Creator God". However Jaina scholars claim that the word "ஆதி பகவன்" [Ādi bagavan] is a clear reference to the name of the first Jina Thirthankara "ādeenath" or rashabha (Chakravarti, 1951; Subramanyam, 1987). It is interesting to note that Valluvar who has used very few words of Sanskrit origin in his whole work, opted for the twin word "ஆதி பகவன்" here. .Moreover, since the simile "எழுத்தெல்லாம்" is plural, the emphasis "உலகு" should also be taken in plural. The "world" could thus means the "people of the world" (உலகத்தார்க்கு).
-3. An alternate 'mystical' translation, but not implied in the original: "The Supreme dwells within the lotus of the heart. Those who reach His Splendid Feet dwell endearingly within unearthly realms" - SS.  Other translators who adopted this interpretation Parithiyār and Kālingar (two of the five known ancient commentators of Tirukkural) include GV, KV and CR.
+3. An alternate 'mystical' translation, but not implied in the original: "The Supreme dwells within the lotus of the heart. Those who reach His Splendid Feet dwell endearingly within unearthly realms" - (Satguru  Subramuniyaswami).  Other translators who adopted this interpretation Parithiyār and Kālingar (two of the five known ancient commentators of Tirukkural) include (G. Vanmikanathan), KV and (C. Rajagopalachari).
 5. Twin deeds [of dark illusion] are fruits of both good and evil deeds.
 6. This cannot be a reference to God, for God is beyond the senses and only mortals will be required to control the five senses. Almost all translators, however, have taken this as a reference to God. Some translators have attempted to get over this difficulty by employing non-committal renderings like this one: "He who has controlled the five senses and is established in the path of righteousness will lead a life of fulfillment" - KV.  It is worth noting that the word 'Jina' literally means "conqueror or victorious", i.e. the conqueror of five senses. This couplet could actually be a reference to a Jaina Tirthankara. Buddha also conquered the five senses, but neither Gautama nor the preceding Buddhas were called Adi Bagavan.
-8. The word "அறவாழி" can be taken to mean, either "sea of virtue" or "wheel of the virtue". Similarly, the word "பிற" could either mean "birth" or "other".  Depending on the combination of these meanings chosen, the couplet can also be translated in the following ways: (i) "Only those who reach the feet of the lord, the ocean of virtue, can cross those other oceans." - * NC. The other two oceans could be oceans of Wealth and Pleasure. (ii) "Only by clinging to the feet of the Lord of the wheel of virtue, that one can swim the ocean of this life" * - SG.
+8. The word "அறவாழி" can be taken to mean, either "sea of virtue" or "wheel of the virtue". Similarly, the word "பிற" could either mean "birth" or "other".  Depending on the combination of these meanings chosen, the couplet can also be translated in the following ways: (i) "Only those who reach the feet of the lord, the ocean of virtue, can cross those other oceans." - * (Norman Cutler). The other two oceans could be oceans of Wealth and Pleasure. (ii) "Only by clinging to the feet of the Lord of the wheel of virtue, that one can swim the ocean of this life" * - (G. Siromoney, S. Govindaraju & M. Chandrasekaran).
 9. This couplet could refer to one of the five Parméstins, the Siddhās (liberated souls) of Jainism, because they only are designated with 8 guñas (qualities) (Malaiya, 1998). The other four Arhats, Āchāryās, Upādhyāyās and Sādhus (Ashta Pahuda VI:104) are identified as Jinas with 12, 36, 25 and 27 guñas respectively (Malaiya, 1998). What are the eight qualities or guñas of Siddhās? Ananta jnāna, Ananta darshana, Ananta labdhi, Ananta sukha, Akshaya sthiti, Being vitāraga, Being arupa and Aguruladhutaa. Ancient commentator Parithiyar lists these eight qualities (அனந்த ஞானம், அனந்த வீரியம், கோத்திரமின்மை, அனந்த தரிசனம், அனந்த குணம், அழியா இயல்பு, நாமமின்மை, அவாவின்மை) as qualities of Lord Shiva!
 
 002	
@@ -74,56 +74,56 @@ Notes
 0011
 Rain is deemed a nectar of life
 As its unfailing fall sustains the world. *
-SS
+(Satguru  Subramuniyaswami)
 
 0012
 Rain is not only a consumable for the consumer
 But also begets other consumables.
-KK
+(K. Kannan)
 
 0013
 This vast world, with expanse of seas,
 Will still suffer with famine if clouds deceive rain.
-NV
+(N.V.K. Ashraf)
 
 0014
 If that bounty called rain decrease,
 Ploughing by ploughmen would also cease.
-NV
+(N.V.K. Ashraf)
 
 0015
 Rain holds the power of ruin.
 Rain also lifts up those it has ruined.
-NC
+(Norman Cutler)
 
 0016
 If clouds stop dropping raindrops,
 Even blades of grass will stop rising. *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0017
 Even the vast sea will lose its richness,
 If clouds cease and fail to bestow.
-NV, JN
+(N.V.K. Ashraf), (J. Narayanaswamy)
 
 0018
 If the heavens dry up, the very gods
 Will lack festival and worship.
-PS
+(P.S. Sundaram)
 
 0019
 Both charity and penance would cease in this vast world,
 Should heavens fail to deliver.
-NV
+(N.V.K. Ashraf)
 
 0020
 If the world cannot exist without water,
 Neither can water exist without rain. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 Yes
 
 Notes:
-20. The word "ஒழுக்கு" could be taken to mean either "conduct/virtue" or "flow/discharge/water". Thus, an alternate, but equally valid translation is: "If life cannot be sustained without water, virtue too depends on rain" - DZ. Using the other meaning, the couplet could also be translated as: "Life cannot exist without water, nor can flowing water without rain" – NV. 
+20. The word "ஒழுக்கு" could be taken to mean either "conduct/virtue" or "flow/discharge/water". Thus, an alternate, but equally valid translation is: "If life cannot be sustained without water, virtue too depends on rain" - (S.M. Diaz). Using the other meaning, the couplet could also be translated as: "Life cannot exist without water, nor can flowing water without rain" – (N.V.K. Ashraf). 
 
 003	
 Greatness of ascetics
@@ -132,52 +132,52 @@ Notes
 0021
 Scriptures ought to exalt with firmness
 The greatness of disciplined ascetics. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0022
 To recount an ascetic's greatness
 Is to count the world's dead. *
-PS
+(P.S. Sundaram)
 
 0023
 The world shines on the greatness of those who,
 Knowing both, choose renunciation. *
-PS
+(P.S. Sundaram)
 Yes
 0024
 The restraint of senses five by the ankush of firmness
 Is the seed for the bliss of heaven.
-NV
+(N.V.K. Ashraf)
 Yes
 0025
 Even the celestial king Indra will vouch the strength
 Of one who rules his senses five. *
-KK, PS
+(K. Kannan), (P.S. Sundaram)
 Yes
 0026
 Great people take on difficult tasks;
 Small people avoid them.
-NC
+(Norman Cutler)
 
 0027
 This world is his who knows for what these five are:
 Taste, sight, touch, sound and smell. *
-PS
+(P.S. Sundaram)
 
 0028
 The scriptures of the world proclaim
 The potent utterance of the great.
-PS
+(P.S. Sundaram)
 
 0029
 The wrath of those who have scaled the heights of character
 Can't be endured even for a moment. *
-KK, JN
+(K. Kannan), (J. Narayanaswamy)
 
 0030
 Ascetics are called men of virtue
 For they assume the role of mercy for all that live.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
@@ -193,56 +193,56 @@ Notes
 0031
 What gain greater than virtue can a living man obtain,
 Which yields fame and fortune?
-GU, KK
+(G.U. Pope), (K. Kannan)
 
 0032
 There is no greater gain than virtue.
 No surer path to ruin than its neglect.
-NC
+(Norman Cutler)
 
 0033
 The right thing to do is to be righteous
 At all places and all times. *
-KK
+(K. Kannan)
 
 0034
 A blemishless mind is the basis of all virtue.
 Everything else is empty show.
-DZ
+(S.M. Diaz)
 
 0035
 Envy, greed, wrath and harsh words:
 These four avoided is virtue.
-PS
+(P.S. Sundaram)
 
 0036
 Defer not virtue but practice now.
 At the dying hour she will be your undying friend. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0037
 Inquiring about virtues' benefits? See that between
 The rider and bearer of a palanquin. *
-SS, MS
+(Satguru  Subramuniyaswami), (M.S. Poornalingam Pillai)
 Yes
 0038
 The good you do without wasting a day
 Is the stone that blocks the way to rebirth. *
-PS
+(P.S. Sundaram)
 
 0039
 Virtue alone brings happiness;
 All else is naught, and without praise. *
-PS
+(P.S. Sundaram)
 
 0040
 Virtue is that which should be done.
 And vice is that which should be shun.  
-GU, KS
+(G.U. Pope), (Kasthuri Sreenivasan)
 
 
 Notes:
-37. VS's translation would explain this better: "Ask me not, What will it profit a man if he is righteous? Look at the bearer of the palanquin and him that rideth on it."
+37. (V.V.S. Aiyar)'s translation would explain this better: "Ask me not, What will it profit a man if he is righteous? Look at the bearer of the palanquin and him that rideth on it."
 
 005
 Domestic life
@@ -251,42 +251,42 @@ Notes
 0041
 A householder is a steadfast friend
 To the other three orders in their virtuous paths.
-PS
+(P.S. Sundaram)
 Yes
 0042
 The householder supports the needs of
 Renunciates, ancestors and the poor.
-SS
+(Satguru  Subramuniyaswami)
 
 0043
 A householder's main duty is to serve these five:
 God, guests, kindred, ancestors and himself. *
-SS
+(Satguru  Subramuniyaswami)
 
 0044
 His life and lineage will never end
 who shuns blame and shares his food.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0045
 Family life actuated by love and virtue,
 Endows it with character and happiness
-DZ
+(S.M. Diaz)
 
 0046
 What gains are there in other paths
 When one leads the virtuous path of householder?
-NV
+(N.V.K. Ashraf)
 
 0047
 Foremost among those who strive for release,
 Are the householders leading a righteous life. *
-SS
+(Satguru  Subramuniyaswami)
 
 0048
 A virtuous householder endures
 More than the penance of the penance doer.  *
-DZ, DL
+(S.M. Diaz), (W.H. Drew and  J. Lazarus)
 
 0049
 Domestic life is proclaimed virtuous
@@ -296,12 +296,12 @@ Yes
 0050
 He who lives his life in this world as he should,
 Ranks with the gods in the heaven.
-CR
+(C. Rajagopalachari)
 
 
 Notes:
 41. The three orders possibly refer to these stages: Student, Elders and Renunciates
-49. There are two different renderings of this couplet. The word "அஃதும்" is taken to mean "especially or that too" and also as "the other one also". The other one is obviously a reference to monastic or ascetic life. SS, SB, GU and DL have followed the latter interpretation. PS, KK, KV, JN, VS, KV and SI have translated the couplet the other way. SS has translated as:  "Domestic life is called virtue, but the other one is also good if lived beyond blame". *  
+49. There are two different renderings of this couplet. The word "அஃதும்" is taken to mean "especially or that too" and also as "the other one also". The other one is obviously a reference to monastic or ascetic life. (Satguru  Subramuniyaswami), ( Shuddhananda Bharatiar), (G.U. Pope) and (W.H. Drew and  J. Lazarus) have followed the latter interpretation. (P.S. Sundaram), (K. Kannan), KV, (J. Narayanaswamy), (V.V.S. Aiyar), KV and (K.R. Srinivasa Iyengar) have translated the couplet the other way. (Satguru  Subramuniyaswami) has translated as:  "Domestic life is called virtue, but the other one is also good if lived beyond blame". *  
 
 006
 Good life partner
@@ -310,56 +310,56 @@ Notes
 0051
 An ideal wife is a virtuous life partner
 Living within her husband's means.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0052
 If the wife lacks household excellence,
 All other excellence in life comes to nil.
-GU, NV
+(G.U. Pope), (N.V.K. Ashraf)
 
 0053
 With a good wife, what is lacking?
 And when she is lacking, what is good?
-PS
+(P.S. Sundaram)
 
 0054
 What more grandeur does a woman need
 Than possessing the strength of chastity?
-NV
+(N.V.K. Ashraf)
 
 0055
 Even rains fall at the command of the wife
 Who upon rising worships not God, but her husband.
-SS
+(Satguru  Subramuniyaswami)
 
 0056
 A tireless woman guards herself,
 Cares for her spouse and upholds family name.
-NV
+(N.V.K. Ashraf)
 
 0057
 What use is physical restraint to a woman
 When her moral restraint is the best?
-KK
+(K. Kannan)
 
 0058
 The woman who gains her husband's love
 Gains great glory in the heaven. *
-PS, DZ
+(P.S. Sundaram), (S.M. Diaz)
 
 0059
 He whose wife is not praiseworthy
 Cannot walk with leonine gait before his critics.
-KV, NV
+KV, (N.V.K. Ashraf)
 Yes
 0060
 A good wife is called boon to a house;
 Besides that, good children its jewels. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-59. An alternate translation: "Where there is no reputation at home, there is no chance for proud leonine gaits outside" - NV. JN provides us an interesting translation: "The mind is without fear and the head is held high" when you are joined by a praiseworthy partner life. 
+59. An alternate translation: "Where there is no reputation at home, there is no chance for proud leonine gaits outside" - (N.V.K. Ashraf). (J. Narayanaswamy) provides us an interesting translation: "The mind is without fear and the head is held high" when you are joined by a praiseworthy partner life. 
 
 007
 Begetting children
@@ -368,32 +368,32 @@ Notes
 0061
 Of all blessings we know,
 Nothing worth than begetting intelligent children.
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0062
 No harm will befall in all seven births
 If one begets blameless children.
-PS
+(P.S. Sundaram)
 
 0063
 Children are called one's fortune;
 And their fortune the result of their own deeds. *
-TD
+(S. Thandapani Desikar)
 
 0064
 Sweeter than nectar is the porridge messed up
 By the tiny hands of one’s children. *
-GV
+(G. Vanmikanathan)
 
 0065
 To be touched by children is a delight to the body,
 And to hear their speech a joy to the ear.
-NV
+(N.V.K. Ashraf)
 
 0066
 "The flute is sweet", "The lute is sweet",
 Say those who never heard their children lisp.
-PS
+(P.S. Sundaram)
 
 0067
 The good a father can do to his child
@@ -403,17 +403,17 @@ KV
 0068
 The wisdom of one's own children
 Brings joy to all life on the earth.
-NV
+(N.V.K. Ashraf)
 
 0069
 A woman rejoices at the birth of a son,
 But even more when he is praised.
-PS
+(P.S. Sundaram)
 
 0070
 The son's duty to his father is to make world ask,
 "By what austerities did he merit such a son! *
-SS
+(Satguru  Subramuniyaswami)
 
 
 008
@@ -423,57 +423,57 @@ Notes
 0071
 Can love be latched and hidden?
 A trickling tear will proclaim it loud.
-PS
+(P.S. Sundaram)
 Yes
 0072
 The unloving belong only to themselves,
 But the loving belong to others to their very bones.
-SS
+(Satguru  Subramuniyaswami)
 
 0073
 They say it is to know the union with love
 That the soul takes union with the body.
-SS
+(Satguru  Subramuniyaswami)
 
 0074
 Love begets desire: and that begets
 The priceless excellence called friendship. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0075
 The excellence of worldly happiness, they say,
 Is attained by those leading a loving life. *
-MS
+(M.S. Poornalingam Pillai)
 
 0076
 "Love supports virtue alone", say the fools.
 It supports vice as well.
-TK
+(T.K. Chidambaranatha Mudaliar)
 Yes
 0077
 As the blazing sun dries up a boneless worm,
 So does virtue scorch a loveless being.
-SS
+(Satguru  Subramuniyaswami)
 
 0078
 The life of a loveless soul is a sapless tree
 In a barren desert failing to shoot.
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 0079
 Of what avail is body frame - the external,
 To those who lack love - the internal?
-NV
+(N.V.K. Ashraf)
 
 0080
 The throb of life is love. Without it,
 Humans are bodies of bones clad with skin. *
-JN, PS
+(J. Narayanaswamy), (P.S. Sundaram)
 
 
 Notes:
-71. Compare with 125: "The axe of love can break open the door of chastity secured by the bolt of modesty." * - DL, JN.
-76. Usual translation is: "The naïve say that love aids virtue, but it safeguards against vice as well. – SI [the same way by SB, PS, VS, KV].  But there is no evidence in the original to support such an interpretation. Kalingar and Manakkudavar interpret the couplet as TK. Interestingly CR, JN and KK take the word "மறம்" as "valour/soldier". 
+71. Compare with 125: "The axe of love can break open the door of chastity secured by the bolt of modesty." * - (W.H. Drew and  J. Lazarus), (J. Narayanaswamy).
+76. Usual translation is: "The naïve say that love aids virtue, but it safeguards against vice as well. – (K.R. Srinivasa Iyengar) [the same way by ( Shuddhananda Bharatiar), (P.S. Sundaram), (V.V.S. Aiyar), KV].  But there is no evidence in the original to support such an interpretation. Kalingar and Manakkudavar interpret the couplet as (T.K. Chidambaranatha Mudaliar). Interestingly (C. Rajagopalachari), (J. Narayanaswamy) and (K. Kannan) take the word "மறம்" as "valour/soldier". 
 
 009
 Hospitality
@@ -482,58 +482,58 @@ Notes
 0081
 It is to exercise the benevolence of hospitality
 That people earn a living and establish homes.
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 Yes
 0082
 With a guest outside, it is wrong to eat alone,
 Even the nectar of immortality. *
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0083
 His life won’t suffer from want,
 Who always cherishes his flowing guests.
-MR, NV
+MR, (N.V.K. Ashraf)
 
 0084
 The goddess of fortune will dwell in the house of one
 Who plays host with a smile. *
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0085
 Should his field be sown,
 Who first feeds the guests and eats the rest?
-SB
+( Shuddhananda Bharatiar)
 
 0086
 Who hosts the passing guests and waits for hosting more
 Will be hosted by the gods. *
-PS
+(P.S. Sundaram)
 
 0087
 The gains of hospitality cannot be reckoned.
 Their worth depends on the guest.
-PS
+(P.S. Sundaram)
 Yes
 0088
 "We toiled, stored and lost", lament those
 Who never sacrificed for hospitality.
-NV
+(N.V.K. Ashraf)
 Yes
 0089
 To have no guests is to want amidst plenty:
 Such poverty belongs to fools.
-PS
+(P.S. Sundaram)
 
 0090
 Flower aniccham withers when merely smelt.
 An unwelcome look is enough to wither a guest. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 
 Notes:
-81. Compare with 212. "All the wealth earned by toils is meant to serve those who deserve" * - SB
-87. Compare with 105. "Not according to the aid but its receiver is its recompense determined" - PS
-88. By way of interpretation, this translation by SS would help: "Those who never sacrifice to care for guests will later lament: We hoarded wealth, estranged ourselves, now none will care for us"
+81. Compare with 212. "All the wealth earned by toils is meant to serve those who deserve" * - ( Shuddhananda Bharatiar)
+87. Compare with 105. "Not according to the aid but its receiver is its recompense determined" - (P.S. Sundaram)
+88. By way of interpretation, this translation by (Satguru  Subramuniyaswami) would help: "Those who never sacrifice to care for guests will later lament: We hoarded wealth, estranged ourselves, now none will care for us"
 90. Aniccham is a flower known for its fragility. Valluvar uses this flower in four places in Kural. The remaining couplets are in the third book "Love". [see 1111, 1115, 1120]
 
 010
@@ -543,57 +543,57 @@ Notes
 0091
 The speech of the enlightened is sweet words
 Soaked in love, free from pretence.
-JN, NV
+(J. Narayanaswamy), (N.V.K. Ashraf)
 
 0092
 More pleasing than a gracious gift
 Are sweet words with a smiling face.
-PS
+(P.S. Sundaram)
 
 0093
 This is virtue: A welcome face, smiling look,
 And sweet words from the heart.
-NV
+(N.V.K. Ashraf)
 
 0094
 Want and sorrow shall never be theirs
 Who have a pleasant word for all.
-PS
+(P.S. Sundaram)
 
 0095
 Humility and pleasant speech constitute one's ornaments.
 Other things do not count.
-DZ
+(S.M. Diaz)
 
 0096
 Virtues will wax and vices wane
 If one seeks the good and speaks sweet. *
-SS
+(Satguru  Subramuniyaswami)
 
 0097
 Helpful words yoked with courtesy
 Breed justice and strengthen virtue.
-PS
+(P.S. Sundaram)
 
 0098
 Sweet words free of meanness yield joy,
 Both here and hereafter.
-PS
+(P.S. Sundaram)
 
 0099
 How can anyone speak harsh words,
 Having seen what kind words do?
-NV
+(N.V.K. Ashraf)
 Yes
 0100
 To use harsh words, when sweet ones are at hand,
 Is to prefer raw fruit to ripe.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-93. Compare with 786. “A smiling face alone makes no friendship, but the heart should also smile with the face” * - VR
-99. Compare with 318 for style. "Why does one hurt others knowing what it is to be hurt?" - PS
+93. Compare with 786. “A smiling face alone makes no friendship, but the heart should also smile with the face” * - (V. Ramasamy)
+99. Compare with 318 for style. "Why does one hurt others knowing what it is to be hurt?" - (P.S. Sundaram)
 
 Division I. Virtue (Continued.....)
 
@@ -604,58 +604,58 @@ Notes
 0101
 Neither earth nor heaven can truly repay
 Spontaneous aid.
-PS
+(P.S. Sundaram)
 
 0102
 A timely help, though small,
 Is of greater value than all the earth.
-DZ
+(S.M. Diaz)
 
 0103
 The help given without weighing the return,
 When weighed, outweighs the sea.
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 0104
 To the discerning even millet of aid
 Is as big as a palm tree. *
-PS
+(P.S. Sundaram)
 
 0105
 Not according to the aid but its receiver
 Is its recompense determined.
-PS
+(P.S. Sundaram)
 Yes
 0106
 Forget not the friendship of the pure,
 Nor forsake friends who supported in trouble. *
-VS
+(V.V.S. Aiyar)
 
 0107
 The good remember through all seven births
 The friends who wiped their tears.
-PS
+(P.S. Sundaram)
 
 0108
 To forget a good turn is not good, and good it is
 To forget at once what isn't good.
-PS
+(P.S. Sundaram)
 
 0109
 Even a deadly hurt is soon effaced,
 If one recollects a past good turn.
-DZ
+(S.M. Diaz)
 
 0110
 One may slain every goodness and yet escape,
 But no escape for one who slain gratitude.
-SS
+(Satguru  Subramuniyaswami)
 Yes
 
 Notes:
 104. Compare with couplets 433 & 1282 for the use of same similes “Millet” and “Palm tree”. “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” and “Where love is as large as a palm tree, even millet of sulk is misplaced”.
-105. Compare with 87. "The gains of hospitality cannot be reckoned. Their worth depends on the guest" - PS
-110. Crisp alternate translation, but not close to original: "All other sins may be redeemed, except ingratitude" - PS 
+105. Compare with 87. "The gains of hospitality cannot be reckoned. Their worth depends on the guest" - (P.S. Sundaram)
+110. Crisp alternate translation, but not close to original: "All other sins may be redeemed, except ingratitude" - (P.S. Sundaram) 
 
 012
 Impartiality
@@ -664,52 +664,52 @@ Notes
 0111
 Justice may be called good only when it acts impartially
 Regardless of the class of men. *
-SS, DL
+(Satguru  Subramuniyaswami), (W.H. Drew and  J. Lazarus)
 Yes
 0112
 The wealth of a just man, without decline,
 Passes intact to his posterity. *
-PS
+(P.S. Sundaram)
 
 0113
 Though profitable, turn away
 From unjust gains without delay.
-SB
+( Shuddhananda Bharatiar)
 
 0114
 The just and unjust shall be known
 By what they leave behind.
-PS
+(P.S. Sundaram)
 
 0115
 Adversity and prosperity come and go,
 But an unbiased heart adorns the noble.
-NV
+(N.V.K. Ashraf)
 
 0116
 If your thoughts show signs of doing injustice,
 Know that misfortune awaits you. *
-CR
+(C. Rajagopalachari)
 
 0117
 The world will not deem as poverty
 The low estate of virtuous men who dwell in equity. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0118
 To be unbiased like an unswerving weighing scale
 Is an ornament for the great. *
-PS, SI
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
 
 0119
 Equity is words without bias
 And it comes from a firm, unbiased mind. *
-PS
+(P.S. Sundaram)
 
 0120
 A merchant's best merchandise
 Is tending other's goods as his own.
-PS
+(P.S. Sundaram)
 
 
 Notes:
@@ -722,52 +722,52 @@ Notes
 0121
 Self-control takes one to the gods;
 Want of it will push one into utter darkness.
-CR
+(C. Rajagopalachari)
 
 0122
 Guard self-control as a treasure;
 There is nothing more precious in life.
-PS
+(P.S. Sundaram)
 
 0123
 Those who follow the wise path of self-restraint
 Are conferred with virtuous fame.
-NV
+(N.V.K. Ashraf)
 
 0124
 More imposing than a mountain
 Is the stature of the steadfast and self-controlled. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0125
 Humility is good for all
 But is an added richness to the rich.
-PS
+(P.S. Sundaram)
 
 0126
 Like a tortoise, withdraw your five senses in one birth,
 To protect you in the next seven.
-NV  
+(N.V.K. Ashraf)  
 
 0127
 Guard your tongue if nothing else;
 For words unguarded cause distress.
-PS
+(P.S. Sundaram)
 
 0128
 A bitter word, even if said once,
 Can undo all the good intended.
-NV
+(N.V.K. Ashraf)
 
 0129
 The wound caused by fire will heal within,
 But not the scar left by the tongue.
-PS
+(P.S. Sundaram)
 
 0130
 Virtue waits for a timely entry on the path of one
 Who curbs wrath and learns self restraint.
-NV
+(N.V.K. Ashraf)
 
 
 014
@@ -777,22 +777,22 @@ Notes
 0131
 Discipline is more precious than life itself,
 For it is discipline that confers eminence. *
-CR, GV
+(C. Rajagopalachari), (G. Vanmikanathan)
 
 0132
 Strive and preserve good conduct;
 By any reckoning, you will find it your sole companion. *
-JN
+(J. Narayanaswamy)
 
 0133
 Propriety of conduct is great birth,
 And impropriety will sink into a mean birth. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0134
 Scriptures forgot can be recapitulated;
 Bad conduct debases a Brahmin and his birth. *
-PS, JN
+(P.S. Sundaram), (J. Narayanaswamy)
 
 0135
 Just as jealousy can’t lead to prosperity,
@@ -802,32 +802,32 @@ KV
 0136
 The strong-willed do not shrink from right conduct;
 They know its breach will spell ruin. *
-DZ
+(S.M. Diaz)
 
 0137
 Right conduct exalts one, while a bad name
 Exposes one to undeserved disgrace.
-PS
+(P.S. Sundaram)
 
 0138
 Good conduct sows good,
 And from bad springs eternal trouble.
-PS
+(P.S. Sundaram)
 
 0139
 Men of good conduct cannot speak ill
 Even by a slip of tongue.
-PS, JN
+(P.S. Sundaram), (J. Narayanaswamy)
 
 0140
 Those are fools, however learned,
 Who have not learnt to walk with the world.
-PS
+(P.S. Sundaram)
 Yes
 
 Notes:
 
-140. Compare with 426. "It is a part of wisdom to conform to the ways of the world" - VS
+140. Compare with 426. "It is a part of wisdom to conform to the ways of the world" - (V.V.S. Aiyar)
 
 015
 Not coveting another's Wife
@@ -836,52 +836,52 @@ Notes
 141
 Those who realize the benefit of virtue
 Don't commit the folly of desiring another's wife.
-JN, NV
+(J. Narayanaswamy), (N.V.K. Ashraf)
 
 0142
 No sinner so foolish as he who lurks
 At the door of another's wife.
-PS
+(P.S. Sundaram)
 
 0143
 No different from the dead are those
 Who wickedly desire the wife of a friend.
-SS
+(Satguru  Subramuniyaswami)
 
 0144
 What does greatness avail if one without even least guilt
 Goes into another's home? *
-DL, PS
+(W.H. Drew and  J. Lazarus), (P.S. Sundaram)
 
 0145
 Erring with another's wife may seem easy,
 But disgrace will be irredeemable for all time.*
-CR
+(C. Rajagopalachari)
 
 0146
 The adulterer has no respite from these four:
 Hatred, sin, fear and disgrace. *
-VS
+(V.V.S. Aiyar)
 
 0147
 He is a virtuous householder
 Who does not covet another's wife. *
-PS
+(P.S. Sundaram)
 
 0148
 The manliness that scorns adultery
 Is both virtue and propriety for the great. *
-PS
+(P.S. Sundaram)
 
 0149
 Who deserves all the good in this world?
 He who clasps not the arms of another's wife! *
-VS, SB
+(V.V.S. Aiyar), ( Shuddhananda Bharatiar)
 
 0150
 You may trespass the bounds of other virtues,
 But not the bounds of another's wife.
-NV
+(N.V.K. Ashraf)
 
 
 016
@@ -891,56 +891,56 @@ Notes
 0151
 To bear insults is best, like the earth
 Which bears and maintains its diggers.
-PS
+(P.S. Sundaram)
 
 0152
 Forgive transgressions always,
 Better still forget them.
-PS
+(P.S. Sundaram)
 
 0153
 The want of wants is to be inhospitable,
 The might of might to suffer fools.
-PS
+(P.S. Sundaram)
 
 0154
 If you desire that greatness should never leave,
 Foster the conduct of forbearance.
-DL, SS
+(W.H. Drew and  J. Lazarus), (Satguru  Subramuniyaswami)
 
 0155
 Avengers are despised as worthless,
 Forbearers are prized as gold.
-PS, GU
+(P.S. Sundaram), (G.U. Pope)
 
 0156
 Retaliation gives but a day's joy;
 Forbearance brings glory for all time.
-CR
+(C. Rajagopalachari)
 
 0157
 Though unjustly afflicted by others, pity them
 And refrain from unrighteous response. *
-SS
+(Satguru  Subramuniyaswami)
 
 0158
 Let a man conquer by his forbearance
 Those who wrong him with arrogance. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0159
 More pure than ascetics are they
 Who bear the insult of transgressors. *
-SB
+( Shuddhananda Bharatiar)
 
 0160
 Fasting and penance of the great
 Come next only to bearing insults of others.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 
 Notes:
-158: Alternate translation but not close to original: "Conquer with forbearance the excess of insolence" - PS
+158: Alternate translation but not close to original: "Conquer with forbearance the excess of insolence" - (P.S. Sundaram)
 
 017
 Not envying
@@ -949,52 +949,52 @@ Notes
 0161
 Deem virtuous that heart of men
 Who by nature are not jealous. *
-SB
+( Shuddhananda Bharatiar)
 
 0162
 No blessing is so great as a nature
 That is free from all envy.
-VS
+(V.V.S. Aiyar)
 
 0163
 One who eyes the growth of others with envy
 Forfeits the wealth of virtue.
-JN
+(J. Narayanaswamy)
 
 0164
 Those who know the woes of evil deeds,
 Dare not do wrong out of envy. *
-JN
+(J. Narayanaswamy)
 
 0165
 The envious need no other foes;
 Their envy is more than enough. *
-PS
+(P.S. Sundaram)
 
 0166
 A man who envies charitable deeds
 Will see his folk perish - naked and starving. *
-PS
+(P.S. Sundaram)
 
 0167
 The goddess of fortune departs the envious,
 Introducing him to her elder sister. *
-DL
+(W.H. Drew and  J. Lazarus)
 Notes
 0168
 That sin called envy slays fortune
 And leads one to the swirl pool of evil. *
-GU, JN
+(G.U. Pope), (J. Narayanaswamy)
 
 0169
 The prosperity of the envious
 And the poverty of the righteous will be pondered. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0170
 None has gained through envy,
 Nor have the un-envious ever lost. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
@@ -1007,56 +1007,56 @@ Notes
 0171
 Unjust desire to covet others’ honest wealth
 At once ruins home and begets evil. *
-GU, SB
+(G.U. Pope), ( Shuddhananda Bharatiar)
 
 0172
 Those who deem injustice a shame,
 Refrain from covetousness that brings blame.
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 0173
 They will not sin for fleeting pleasures
 Who seek eternal joy.
-PS
+(P.S. Sundaram)
 
 0174
 Their senses conquered,
 The clear-eyed cite not their poverty to covet. *
-PS
+(P.S. Sundaram)
 Yes
 0175
 Of what avail is a keen and sharp intellect,
 If greed seizes one to covet? *
-DZ
+(S.M. Diaz)
 
 0176
 Even he whom grace beckons, if beckoned by greed,
 Will perish beckoned with evil. *
-PS
+(P.S. Sundaram)
 
 0177
 Avoid wealth though greed.
 Out of it comes no good.
-PS
+(P.S. Sundaram)
 
 0178
 Do not covet another's wealth
 If you would keep your own un-shrunk.
-PS
+(P.S. Sundaram)
 
 0179
 Fortune finds the worth and draws near to those
 Who know the worth of non-coveting. *
-SS
+(Satguru  Subramuniyaswami)
 
 0180
 Mindless coveting brings ruin.
 The pride of freedom from desire yields success.
-JN
+(J. Narayanaswamy)
 
 
 Notes:
-174. Compare with 205: "Plead not poverty for doing ill, whereby you will become poorer still" - PS
+174. Compare with 205: "Plead not poverty for doing ill, whereby you will become poorer still" - (P.S. Sundaram)
 
 019
 Avoiding slander
@@ -1065,57 +1065,57 @@ Notes
 0181
 One may not preach or practice virtue,
 But not being called a slanderer is pleasing. *
-KK, MS
+(K. Kannan), (M.S. Poornalingam Pillai)
 Notes
 0182
 Viler than violating virtue for committing vile,
 Is to smile before and vilify behind.
-SS, VS
+(Satguru  Subramuniyaswami), (V.V.S. Aiyar)
 
 0183
 Better die in virtue than live a life of slanderer
 Under false pretences.
-DZ
+(S.M. Diaz)
 
 0184
 Better heartless words to man's face
 Than thoughtless ones at his back.
-PS
+(P.S. Sundaram)
 Notes
 0185
 The meanness in the heart of one posing virtuous,
 Shall be known by his slanderous tongue.
-NV
+(N.V.K. Ashraf)
 
 0186
 His failings will be found and shown,
 If one makes another's failings known.
-SB
+( Shuddhananda Bharatiar)
 
 0187
 Those who cannot laugh and make friends
 Can only slander and make foes.
-PS
+(P.S. Sundaram)
 
 0188
 What won't they do to strangers
 Who broadcast their friends' faults?
-PS
+(P.S. Sundaram)
 
 0189
 The earth bears the weights of scandalmongers
 Only for the sake of duty.
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0190
 Will any evil befall mankind if we can see,
 Like others' faults, ours as well?
-NV
+(N.V.K. Ashraf)
 
 
 Notes: 
-181. It is Valluvar's style to emphasize on a particular quality by exalting it over other virtues. In 297 he says: "If one speaks the truth and only truth, he need not seek other virtues" [DZ]. In 150 he says: "You may trespass the bounds of other virtues, but not the bounds of another's wife" [NV]
-184. An equally valid, but different translation is given by VS:
+181. It is Valluvar's style to emphasize on a particular quality by exalting it over other virtues. In 297 he says: "If one speaks the truth and only truth, he need not seek other virtues" [(S.M. Diaz)]. In 150 he says: "You may trespass the bounds of other virtues, but not the bounds of another's wife" [(N.V.K. Ashraf)]
+184. An equally valid, but different translation is given by (V.V.S. Aiyar):
 "Slander not a man behind his back even if he has insulted thee in thy very face"
 
 020
@@ -1125,52 +1125,52 @@ Notes
 0191
 To disgust people with empty words 
 Is to be despised by all.
-PS
+(P.S. Sundaram)
 
 0192
 Vain speech in public is worse
 Than a wrong done to a friend.
-PS
+(P.S. Sundaram)
 
 0193
 He that multiplies empty words
 Declares loud his want of worth.
-VS
+(V.V.S. Aiyar)
 
 0194
 Vain words of inconsequence in an assembly
 Rob one of any gain or goodness.
-JN
+(J. Narayanaswamy)
 
 0195
 Men of worth, speaking nonsense,
 Will lose greatness and esteem.
-PS
+(P.S. Sundaram)
 
 0196
 Call him not a man who loves idle words.
 Call him rather chaff among men.
-VS
+(V.V.S. Aiyar)
 
 0197
 Even unpleasant words may be spoken,
 But the wise should avoid idle speech. *
-PS
+(P.S. Sundaram)
 
 0198
 The wise who weigh their worth
 Refrain from words that have no grain of worth. *
-SB
+( Shuddhananda Bharatiar)
 
 0199
 The clear-eyed and spotless never even forgetfully
 Say things that are meaningless. *
-PS
+(P.S. Sundaram)
 
 0200
 Should you speak, speak useful words.
 Never indulge in vain speech.
-NV
+(N.V.K. Ashraf)
 
 Division I. Virtue (Continued….)
 
@@ -1181,27 +1181,27 @@ Notes
 0201
 The sinful will not dread; the great will dread
 The wanton pride of sinful action.
-MS
+(M.S. Poornalingam Pillai)
 Yes
 0202
 Evil begets evil and hence
 Fear evil more than fire. *
-KK, SI
+(K. Kannan), (K.R. Srinivasa Iyengar)
 
 0203
 The height of wisdom, it is said,
 Is not to return ill even to foes. *
-PS
+(P.S. Sundaram)
 
 0204
 Plot not thy neighbour's fall, even forgetfully;
 Else, justice will plot the plotter's fall. *
-GU, NV
+(G.U. Pope), (N.V.K. Ashraf)
 
 0205
 Plead not poverty for doing ill,
 Whereby you will become poorer still.
-PS
+(P.S. Sundaram)
 
 0206
 Let him, who seeks to be free from suffering,
@@ -1211,27 +1211,27 @@ KV
 0207
 Escape from other enemies is likely,
 But not from the relentless pursuit of evil deeds. *
-CR
+(C. Rajagopalachari)
 
 0208
 The consequences of evil deeds leave not
 Like the persistent shadow under the feet.
-NV
+(N.V.K. Ashraf)
 
 0209
 If you love yourself,
 Refrain from causing ill of any degree. *
-PS
+(P.S. Sundaram)
 
 0210
 Know that no harm shall ever befall the one
 Who never strays into evil. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-201. Compare with 428. "It is folly not to fear what ought to be feared. The wise dread what ought to be dreaded" * - SS
-203. Compare with 312. “The code of the pure in heart is not to hurt in return any hurt caused in hate” * - PS
+201. Compare with 428. "It is folly not to fear what ought to be feared. The wise dread what ought to be dreaded" * - (Satguru  Subramuniyaswami)
+203. Compare with 312. “The code of the pure in heart is not to hurt in return any hurt caused in hate” * - (P.S. Sundaram)
 
 022
 Knowledge of obligation
@@ -1240,58 +1240,58 @@ Notes
 0211
 Duty is not for reward.
 Does the world recompense the rain-cloud?
-PS
+(P.S. Sundaram)
 
 0212
 All the wealth earned by toils
 Is meant to serve those who deserve. *
-SB
+( Shuddhananda Bharatiar)
 Yes
 0213
 Rare it is to find another good equal to benevolence,
 Either here or in the heaven. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0214
 He who realizes what is oneness, lives;
 The rest will be placed among the dead.
-GV
+(G. Vanmikanathan)
 
 0215
 The wealth of a wise philanthropist
 Is a village pool ever full.
-PS
+(P.S. Sundaram)
 
 0216
 When wealth comes to the generous,
 It is like the village tree coming to fruit. *
-CR
+(C. Rajagopalachari)
 
 0217
 When wealth comes to the large-hearted,
 It is like an unfailing medicine tree. *
-PS
+(P.S. Sundaram)
 
 0218
 Those known for their duty will not slacken to help
 Even during times of poverty.
-NV
+(N.V.K. Ashraf)
 
 0219
 The poverty of a generous man is nothing but
 His inability to exercise his generosity. *
-DL
+(W.H. Drew and  J. Lazarus)
 Yes
 0220
 If poverty comes of doing good,
 One's self may be sold to do it.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-212. Compare with 81. "It is to exercise the benevolence of hospitality that people earn a living and establish homes" -DL, NV. The word "தக்கார்க்கு" in this couplet can be translated as "deserving" or "worthy". Using the latter meaning, PS and VS translate this couplet as: "The worthy work and earn their wealth in order to help others" – PS.
-215. Compare with 523. “The life of an unattached man is like a boundless pond flowing unbound” - PS, NV
-219. Compare with 1010. "The brief want of the benign rich is like the monsoon clouds just shed its moisture" - SB, NV
+212. Compare with 81. "It is to exercise the benevolence of hospitality that people earn a living and establish homes" -(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf). The word "தக்கார்க்கு" in this couplet can be translated as "deserving" or "worthy". Using the latter meaning, (P.S. Sundaram) and (V.V.S. Aiyar) translate this couplet as: "The worthy work and earn their wealth in order to help others" – (P.S. Sundaram).
+215. Compare with 523. “The life of an unattached man is like a boundless pond flowing unbound” - (P.S. Sundaram), (N.V.K. Ashraf)
+219. Compare with 1010. "The brief want of the benign rich is like the monsoon clouds just shed its moisture" - ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 023
 Charity
@@ -1300,52 +1300,52 @@ Notes
 0221
 To give to the needy alone is charity;
 All the rest is investment for a return.
-DZ
+(S.M. Diaz)
 
 0222
 To receive is bad, even for good cause;
 And to give is good even if there is no heaven.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0223
 The mark of the well-born is to give
 Without uttering the wretched excuse, "I have nothing."
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0224
 To be begged is agonizing, till you give
 And see the smiling face of the beggar. *
-SM
+(S. Maharajan)
 
 0225
 Strong is the strength of enduring hunger,
 But stronger still is the strength of relieving it.
-NV
+(N.V.K. Ashraf)
 
 0226
 Wiping out the hunger of the have-nots,
 Is the treasury the haves have deposited their wealth. *
-SM
+(S. Maharajan)
 
 0227
 That dreaded disease called hunger touches not the one
 Who shares his food by habit.
-NV
+(N.V.K. Ashraf)
 
 0228
 Unaware of the joys of giving,
 The hard-hearted waste their wealth hoarding it. *
-SS
+(Satguru  Subramuniyaswami)
 
 0229
 To eat alone what one has hoarded
 Is worse than begging.
-PS
+(P.S. Sundaram)
 
 0230
 Nothing is worse than death; but even death is sweet
 If one can't help the poor. *
-PS
+(P.S. Sundaram)
 
 
 024
@@ -1355,59 +1355,59 @@ Notes
 0231
 No greater income in life than to live with fame
 That comes out of charity.
-NV
+(N.V.K. Ashraf)
 
 0232
 The fame of men who give to those in need
 Will live for ever in the words of all. *
-KS
+(Kasthuri Sreenivasan)
 
 0233
 Nothing imperishable lasts long in this world
 Than glorious fame beyond compare.
-NV
+(N.V.K. Ashraf)
 
 0234
 Even celestials will cease praising saints
 When you gain world-wide lasting fame. *
-SS, VS
+(Satguru  Subramuniyaswami), (V.V.S. Aiyar)
 
 0235
 None other than the wise can have
 Some gain in loss and fame in death.
-NV
+(N.V.K. Ashraf)
 
 0236
 Be born, if you must, for fame;
 Or else better not to be born at all.
-PS
+(P.S. Sundaram)
 
 0237
 Why blame those who blame the shame of those
 Who cannot live in fame? *
-SB
+( Shuddhananda Bharatiar)
 
 0238
 The whole world will blame, they say,
 If you fail to earn that renown called fame.
-NV
+(N.V.K. Ashraf)
 
 0239
 The land that bears inglorious bodies
 Will shrink in its glory of yield.
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0240
 Life without blame alone blooms.
 The one without fame fades.
-NV
+(N.V.K. Ashraf)
 Yes
 
 Notes:
 240. There are many interesting ways of translating this couplet. 
-"To live without blame is life; without fame death" - * PS
-"They only live who live without blame. And not those who live without fame" – NV
-"A life without blame lasts for ever; a life without fame lasts never" - NV.
+"To live without blame is life; without fame death" - * (P.S. Sundaram)
+"They only live who live without blame. And not those who live without fame" – (N.V.K. Ashraf)
+"A life without blame lasts for ever; a life without fame lasts never" - (N.V.K. Ashraf).
  
 025
 Kindness
@@ -1416,57 +1416,57 @@ Notes
 0241
 The wealth of wealth is the wealth of grace.
 Material wealth, even the mean possess. *
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 0242
 Obtain grace by seeking the path of goodness.
 That is the aid cited in all paths.
-NV
+(N.V.K. Ashraf)
 
 0243
 Those who are kind-hearted enter not
 Into the terrible world of darkness.
-NV
+(N.V.K. Ashraf)
 
 0244
 Those who protect other life with kindness
 Need not fear for their own lives.
-NV
+(N.V.K. Ashraf)
 
 0245
 This great earth and its biosphere declare
 That sorrows are not for the merciful.
-NV
+(N.V.K. Ashraf)
 
 0246
 Those who do ill forsaking kindness, they say,
 Must be oblivious of forsaking morality.
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0247
 This world is not for the poor,
 Nor the next for the unkind.
-PS
+(P.S. Sundaram)
 
 0248
 The poor may be rich one day,
 But the graceless will always lack grace.
-PS
+(P.S. Sundaram)
 
 0249
 The good acts of the graceless, if examined,
 Resemble the muddled head seeing Truth.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 Yes
 0250
 When you threaten one weaker than yourself,
 Think of yourself before a bully.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-249. A good explanatory translation is given by SS. "Practicing charity without compassion is as inconceivable as realizing Truth without clarity of mind".
-250. Compare with 894 where Valluvar says “For the weak to challenge the mighty is to summon yama with the hand. (PS, SS)
+249. A good explanatory translation is given by (Satguru  Subramuniyaswami). "Practicing charity without compassion is as inconceivable as realizing Truth without clarity of mind".
+250. Compare with 894 where Valluvar says “For the weak to challenge the mighty is to summon yama with the hand. ((P.S. Sundaram), (Satguru  Subramuniyaswami))
  
 026
 Shunning meat
@@ -1475,52 +1475,52 @@ Notes
 0251
 How can one command grace
 Who eats the flesh of others to swell his own flesh?
-NV
+(N.V.K. Ashraf)
 
 0252
 No scope for wealth with a spendthrift.
 So too compassion with a meat eater.
-NV
+(N.V.K. Ashraf)
 
 0253
 No mercy in the hearts of those armed to kill
 And those who feast on flesh.
-NV
+(N.V.K. Ashraf)
 Yes
 0254
 What is grace? It is not killing; To kill, disgrace.
 And senseless to eat that meat. *
-PS
+(P.S. Sundaram)
 
 0255
 Abstain from meat to save life.
 The clenched jaws of hell hold those who don't. *
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 0256
 The world may say: "Meat we eat, but don't kill'.
 But no one will sell if there is none to buy. *
-KS
+(Kasthuri Sreenivasan)
 Yes
 0257
 Abstain from eating flesh realizing it
 As the wound of another  *
-KS
+(Kasthuri Sreenivasan)
 
 0258
 Those visionaries freed of ignorance
 Will not feed on a flesh freed of its life.
-NV
+(N.V.K. Ashraf)
 
 0259
 Better than a thousand burnt offerings
 Is one life un-killed, un-eaten.
-PS
+(P.S. Sundaram)
 
 0260
 All living things will fold their hands
 And bow to one who refuses to kill or eat meat. *
-PS
+(P.S. Sundaram)
 
 Notes: 
 253. This basically implies that both soldiers armed to kill enemies and hunters armed to kill animals are the same.
@@ -1532,56 +1532,56 @@ Notes
 0261
 The characteristic of penance lies in
 Enduring hardships and harming no life.
-NV
+(N.V.K. Ashraf)
 Yes
 0262
 Penance is for the capable.
 It is futile for others to attempt it.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0263
 Is it to support those who do penance
 That others have forgotten it?
-NV
+(N.V.K. Ashraf)
 Yes
 0264
 In penance lies the power
 To save friends and foil foes. *
-SB
+( Shuddhananda Bharatiar)
 
 0265
 Men do penance in this world
 For the fulfillment of their desired desires. *
-SS
+(Satguru  Subramuniyaswami)
 
 0266
 While the austere are engaged in their duties,
 Others toil in vain ensnared by desire. *
-NV, GU
+(N.V.K. Ashraf), (G.U. Pope)
 
 0267
 As the intense fire makes gold shine,
 So does the burning austerities relieve pain.
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 0268
 All souls will worship him who, losing his ego,
 Gets control of his own soul.
-SM
+(S. Maharajan)
 
 0269
 Those who have achieved the strength of penance
 Could defeat even the Lord of Death.
-DZ
+(S.M. Diaz)
 
 0270
 The have-nots outnumber the haves
 Because penance is not for the many.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-261. Compare with 984: "The characteristic of penance is non-killing, and that of goodness not speaking others' faults" - NV
+261. Compare with 984: "The characteristic of penance is non-killing, and that of goodness not speaking others' faults" - (N.V.K. Ashraf)
 263. "Supports" include food, clothing and water. "Others" here mean householders. 
 
 028
@@ -1591,17 +1591,17 @@ Notes
 0271
 The five elements will laugh within
 At a hypocrite's lying conduct.
-PS
+(P.S. Sundaram)
 Yes
 0272
 What use is a sky-high pose to one 
 Who knowingly does wrong?
-PS
+(P.S. Sundaram)
 
 0273
 A weakling posing a giant form
 Is an ox grazing in a tiger's skin. *
-PS
+(P.S. Sundaram)
 
 0274
 A posing ascetic who sins secretly
@@ -1611,38 +1611,38 @@ KV
 0275
 The deceitful acts of those claiming dispassion
 Will make them exclaim in pain, "Alas! Alas!" *
-SS
+(Satguru  Subramuniyaswami)
 
 0276
 None so cruel as the posing ascetic
 Who lives by deceit without renouncing by heart. *
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0277
 Like the kunri - red to view but black on top
 Are many, ochre-robed but black within.
-PS
+(P.S. Sundaram)
 Yes
 0278
 Many spotted minds bathe in holy streams
 And lead a double life.
-PS
+(P.S. Sundaram)
 
 0279
 The lute is bent, the arrow straight:
 Judge men not by their looks but acts.
-PS
+(P.S. Sundaram)
 
 0280
 No need of tonsure or long hair,
 If one avoids what the world condemns.
-PS
+(P.S. Sundaram)
 
 
 Notes:
 211. Five elements [pancha bhuta] are earth, water, fire, air and ether.
 277. Konri is the seeds of Abrus precatorius, a tree not uncommon in South India.
-279.  Compare with 667. “Despise not by looks! Even linchpins hold in place the wheels of mighty chariots!” – PS, NV
+279.  Compare with 667. “Despise not by looks! Even linchpins hold in place the wheels of mighty chariots!” – (P.S. Sundaram), (N.V.K. Ashraf)
 
 029
 Avoiding fraud
@@ -1651,52 +1651,52 @@ Notes
 0281
 Let him guard against every thought of fraud
 If he wishes not to be scorned.
-VS, SS
+(V.V.S. Aiyar), (Satguru  Subramuniyaswami)
 
 0282
 Even to harbour in mind
 The idea of defrauding another's wealth is sin.
-MS
+(M.S. Poornalingam Pillai)
 
 0283
 Stolen wealth may seem to swell
 But in the end will burst.
-PS
+(P.S. Sundaram)
 
 0284
 The excessive love for fraudulent gain
 Leads to everlasting pain. *
-KS
+(Kasthuri Sreenivasan)
 
 0285
 Love and grace are alien virtues to one
 Who plots for innocent's wealth. *
-JN
+(J. Narayanaswamy)
 
 0286
 Those who love stealing
 Can never be content with what they have.
-NV
+(N.V.K. Ashraf)
 
 0287
 Those gifted with the faculty of contentment
 Never have that shady skill called fraud.
-NV
+(N.V.K. Ashraf)
 
 0288
 As virtue in the hearts of the righteous,
 Deceit dwells in the hearts of thieves. *
-SS
+(Satguru  Subramuniyaswami)
 
 0289
 Discontented men who know nothing but fraud
 Perish as and when they corrupt.
-NV
+(N.V.K. Ashraf)
 
 0290
 Even life abandons him who defrauds others,
 But heaven never forsakes the honest. *
-SS
+(Satguru  Subramuniyaswami)
 
 
 030
@@ -1706,56 +1706,56 @@ Notes
 0291
 What is truthfulness? It is nothing but utterance
 Wholly devoid of ill.
-VS, PS
+(V.V.S. Aiyar), (P.S. Sundaram)
 
 0292
 Even a lie would take the place of truth,
 If it brings blameless benefit.
-NV, VR
+(N.V.K. Ashraf), (V. Ramasamy)
 
 0293
 Lie not against your conscience,
 Lest your own conscience burn you. *
-PS
+(P.S. Sundaram)
 
 0294
 He who lives truly in his own heart,
 Truly lives in the hearts of all people.
-SS
+(Satguru  Subramuniyaswami)
 
 0295
 Truthfulness in thought and word 
 Outweighs penance and charity.
-PS
+(P.S. Sundaram)
 
 0296
 Nothing but the fame of truthfulness
 Can give all other virtues effortlessly. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0297
 If one speaks the truth and only truth,
 He need not seek other virtues.
-DZ
+(S.M. Diaz)
 Yes
 0298
 Water ensures external purity
 And truthfulness shows the internal.
-PS
+(P.S. Sundaram)
 
 0299
 Not all lights cause illumination; For the wise,
 Only the light of truth is illuminant.
-NV
+(N.V.K. Ashraf)
 
 0300
 Amidst all that we have seen as real,
 There is nothing as good as truthfulness.
-DL
+(W.H. Drew and  J. Lazarus)
 
 
 Notes:
-297. A short crisp translation: "To be unfailingly true is to be unfailing in other virtues" - PS
+297. A short crisp translation: "To be unfailingly true is to be unfailing in other virtues" - (P.S. Sundaram)
 
 
 031
@@ -1765,57 +1765,57 @@ Notes
 0301
 Curb wrath in places where it matters. In other places,
 What matters if curbed or uncurbed? *
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0302
 Even where it cannot hurt others, anger is bad;
 But where it does, there is nothing worse.
-DZ
+(S.M. Diaz)
 
 0303
 From anger is born all evil.
 Forget provocation given by anyone. *
-CR
+(C. Rajagopalachari)
 
 0304
 Can there be a greater foe than anger
 Which kills laughter and joy? *
-CR
+(C. Rajagopalachari)
 
 0305
 If you want to guard yourself, guard against anger;
 If unguarded, anger will kill you. *
-DZ
+(S.M. Diaz)
 
 0306
 The fire of anger which kills kinsmen
 Burns the life-saving boat of kith and kin.
-NV, JN
+(N.V.K. Ashraf), (J. Narayanaswamy)
 
 0307
 He who holds anger worthy will be hurt
 Like the hands that smash the earth. *
-CR, KK
+(C. Rajagopalachari), (K. Kannan)
 
 0308
 Better curb one's wrath even if tortured
 Like being forced into blazing fire.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0309
 All wishes are realized at once
 If they keep away wrath from their mind.
-NV
+(N.V.K. Ashraf)
 Yes
 0310
 Deem those given to anger dead
 And those renounced it on par with saints.
-NV
+(N.V.K. Ashraf)
 Yes
 
 Notes:
-309. Compare with 540 and 666 for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – NV and "What is sought will be got as desired if only the seeker is determined" - NV
-310. A different but equally valid translation is given by SS:
+309. Compare with 540 and 666 for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "What is sought will be got as desired if only the seeker is determined" - (N.V.K. Ashraf)
+310. A different but equally valid translation is given by (Satguru  Subramuniyaswami):
 "As men who have died resemble the dead, so men who have renounced anger resemble renunciates" 
 
 032
@@ -1825,58 +1825,58 @@ Notes
 0311
 The pure in heart will never hurt others
 Even for wealth that confers renown. *
-PS
+(P.S. Sundaram)
 
 0312
 The code of the pure in heart
 Is not to hurt in return any hurt caused in hate. *
-PS
+(P.S. Sundaram)
 Yes
 0313
 Vengeance even against a wanton insult
 Brings unbearable woes. *
-PS
+(P.S. Sundaram)
 
 0314
 Punish an evil-doer
 By shaming him with a good deed.*
-PS
+(P.S. Sundaram)
 
 0315
 What does a man gain from his wisdom
 If he pines not at others' pain as his own? *
-SB
+( Shuddhananda Bharatiar)
 
 0316
 Do not do to others what you know
 Has hurt yourself.
-PS
+(P.S. Sundaram)
 
 0317
 It is best to refrain from willfully hurting
 Anyone, anytime, anyway.
-PS
+(P.S. Sundaram)
 
 0318
 Why does one hurt others
 Knowing what it is to be hurt?
-PS
+(P.S. Sundaram)
 Yes
 0319
 The pain you inflict on others in the morn,
 Will come back at you on its own by eve.
-NV
+(N.V.K. Ashraf)
 
 0320
 Hurt comes to the hurtful; hence it is those
 Who don't want to be hurt cause no hurt. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-312. Compare with 203: "The height of wisdom, it is said, is not to return ill for ill" - PS
-314. Compare with 987: "What good is that goodness if it does not return good even to those who cause evil?" * - PS
-318. Compare with 99. "How can anyone speak harsh words, having seen what kind words do?" - NV
+312. Compare with 203: "The height of wisdom, it is said, is not to return ill for ill" - (P.S. Sundaram)
+314. Compare with 987: "What good is that goodness if it does not return good even to those who cause evil?" * - (P.S. Sundaram)
+318. Compare with 99. "How can anyone speak harsh words, having seen what kind words do?" - (N.V.K. Ashraf)
 
 033
 Not killing
@@ -1885,52 +1885,52 @@ Notes
 0321
 What is virtue? It is not to kill,
 For killing causes every ill.
-SB
+( Shuddhananda Bharatiar)
 
 0322
 The chief of all codes ever written
 Is to share your food and protect all life.
-NV
+(N.V.K. Ashraf)
 
 0323
 The first and foremost good is 'Non killing'.
 Next to it in rank comes 'Not lying'.
-NV
+(N.V.K. Ashraf)
 
 0324
 What is the perfect path?
 It is the path of avoiding killing anything.
-NV
+(N.V.K. Ashraf)
 
 0325
 Of all who renounce fearing instability, the foremost is he
 Who avoids killing fearing murder. *
-MS
+(M.S. Poornalingam Pillai)
 
 0326
 Death that eats up life spares the breath of him
 Who puts no life to death.
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0327
 Avoid removing the dear life of another
 Even when your own life is under threat.
-NV
+(N.V.K. Ashraf)
 
 0328
 However great its gains,
 The wise despise the profits of slaughter.
-PS
+(P.S. Sundaram)
 
 0329
 Men who practice slaughter as a profession
 Are placed amongst men of disgrace. *
-DZ
+(S.M. Diaz)
 
 0330
 A deprived life of diseased bodies, they say,
 Comes from depriving the life of another. *
-SS, DL
+(Satguru  Subramuniyaswami), (W.H. Drew and  J. Lazarus)
 
 
 034
@@ -1940,56 +1940,56 @@ Notes
 0331
 No baser folly than the infatuation
 That takes the fleeting for the permanent.
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0332
 Great wealth, like a crowd at a concert,
 Gathers and melts.
-PS
+(P.S. Sundaram)
 
 0333
 Perishable is the nature of wealth; if you obtain it,
 Forthwith do something not perishable.*
-SM
+(S. Maharajan)
 
 0334
 A day in reality is nothing but
 A relentless slicing of a saw through one's life. *
-DZ
+(S.M. Diaz)
 
 0335
 Better commit some good acts before the tongue
 Benumbs and deadly hiccup descends. *
-KK, SB
+(K. Kannan), ( Shuddhananda Bharatiar)
 
 0336
 The one who existed yesterday is no more today.
 That is the glory of earthly life.
-SM
+(S. Maharajan)
 
 0337
 Men unsure of living the next moment,
 Make more than a million plans. *
-PS
+(P.S. Sundaram)
 
 0338
 The soul's link to the body
 Is like the bird that flies away from the nest.
-KK, PS
+(K. Kannan), (P.S. Sundaram)
 Yes
 0339
 Death is like sleep,
 And birth an awakening from it.
-DZ
+(S.M. Diaz)
 
 0340
 Is there no permanent refuge for the soul,
 Which takes a temporary shelter in the body?
-SM
+(S. Maharajan)
 
 
 Notes:
-338. Most translators render the word "குடம்பை" as "egg-shell" [PS, JN, SB, VS, DL, KV, SS, SI], while KK and GU take it as "nest". VR discusses the drawback in translating the word as "egg-shell" at length and says this meaning came to be associated with the word only after Parimelazhagar's time [Ramasamy, 2001]. Mamakkudavar and Kalingar, whose commentaries appeared before Parimelazhagar, mention that the meaning of "குடம்பை" is nest. VR adds that no fledging flies when it comes out of the egg-shell and only to an intact nest could be compared to the human body, which remains intact even after the soul has left. Pertinent to bring here a reference to the same from the Semitic world: "Our soul has escaped as a bird out of the snare of the trapper" [Psalm, 124:7].
+338. Most translators render the word "குடம்பை" as "egg-shell" [(P.S. Sundaram), (J. Narayanaswamy), ( Shuddhananda Bharatiar), (V.V.S. Aiyar), (W.H. Drew and  J. Lazarus), KV, (Satguru  Subramuniyaswami), (K.R. Srinivasa Iyengar)], while (K. Kannan) and (G.U. Pope) take it as "nest". (V. Ramasamy) discusses the drawback in translating the word as "egg-shell" at length and says this meaning came to be associated with the word only after Parimelazhagar's time [Ramasamy, 2001]. Mamakkudavar and Kalingar, whose commentaries appeared before Parimelazhagar, mention that the meaning of "குடம்பை" is nest. (V. Ramasamy) adds that no fledging flies when it comes out of the egg-shell and only to an intact nest could be compared to the human body, which remains intact even after the soul has left. Pertinent to bring here a reference to the same from the Semitic world: "Our soul has escaped as a bird out of the snare of the trapper" [Psalm, 124:7].
 
 035
 Renunciation
@@ -1998,55 +1998,55 @@ Notes
 0341
 'Whatever thing of whatever kind' a man relinquishes,
 Suffering 'there from, there from' he has none.
-GV, MS
+(G. Vanmikanathan), (M.S. Poornalingam Pillai)
 
 0342
 Renounce early if you seek joy;
 For many are the delights in store after renouncing.
-PS, VS
+(P.S. Sundaram), (V.V.S. Aiyar)
 
 0343
 To be controlled are the senses five
 And to be given up at once are all cravings.
-NV
+(N.V.K. Ashraf)
 
 0344
 Nature of penance is giving up everything.
 Else, it is a return to snares once given up.
-NV
+(N.V.K. Ashraf)
 
 0345
 When the body itself is a burden on the way to liberation,
 Why carry other attachments? *
-PS
+(P.S. Sundaram)
 
 0346
 His is the world beyond heaven
 Who is free of the delusion of "I" and "Mine".
-PS
+(P.S. Sundaram)
 
 0347
 Sorrows will never give up its hold on those
 Who never give up their hold of desire. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0348
 Those who give up all are saved.
 The rest are caught in the snare of delusion. *
-PS
+(P.S. Sundaram)
 
 0349
 Detachment alone severs rebirth.
 All else will be found transient.
-NV, MS
+(N.V.K. Ashraf), (M.S. Poornalingam Pillai)
 
 0350
 Cling to the one who clings to nothing;
 And so clinging, cease to cling.
-PS
+(P.S. Sundaram)
 
 
-350. Moreover, “To one who does not cling realizing what to cling, clinging ills will not cling. * - PS - Kural 359  
+350. Moreover, “To one who does not cling realizing what to cling, clinging ills will not cling. * - (P.S. Sundaram) - Kural 359  
 
 036
 Truth realization
@@ -2055,57 +2055,57 @@ Notes
 0351
 The misery of birth arises out of the delusion
 Which takes the unreal for the Real. *
-PS
+(P.S. Sundaram)
 
 0352
 Darkness disappears and bliss descends
 Upon men of clear vision and free of delusion. *
-SM
+(S. Maharajan)
 
 0353
 To those enlightened souls freed of doubt,
 More than earth is heaven near.
-NV, SB
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 
 0354
 Where a sense of the Real is lacking,
 The other five senses are useless.
-PS
+(P.S. Sundaram)
 
 0355
 Wisdom is to ascertain the reality
 In whatever way things are presented.
-KK
+(K. Kannan)
 Yes
 0356
 Those who have learnt to see the reality here
 Will have learnt not to come back here.
-PS
+(P.S. Sundaram)
 
 0357
 Reality once searched and seized,
 No need to think of rebirth.
-PS
+(P.S. Sundaram)
 
 0358
 Wisdom lies in realizing that unique Reality
 To remove the folly of rebirth.
-KV, PS
+KV, (P.S. Sundaram)
 
 0359
 To one who does not cling, realizing what to cling,
 Clinging ills will not cling. *
-PS
+(P.S. Sundaram)
 Yes
 0360
 Lust, wrath and delusion: Where these three are unknown,
 Sorrows shall not be. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-355. Alternate translations, but not close to original: 'The mark of wisdom is to see the reality behind each appearance' - PS. Compare with 423. "The mark of wisdom is to discern the truth from whatever source it is heard" - NV
-359. i.e. those who cling [to God] but does not cling [to the world]. Compare with 350 for similar word play. “Cling to the one who clings to nothing; and so clinging, cease to cling” - PS
+355. Alternate translations, but not close to original: 'The mark of wisdom is to see the reality behind each appearance' - (P.S. Sundaram). Compare with 423. "The mark of wisdom is to discern the truth from whatever source it is heard" - (N.V.K. Ashraf)
+359. i.e. those who cling [to God] but does not cling [to the world]. Compare with 350 for similar word play. “Cling to the one who clings to nothing; and so clinging, cease to cling” - (P.S. Sundaram)
 
 037
 Eradicating desire
@@ -2114,47 +2114,47 @@ Notes
 0361
 Desire, they say, is the seed of ceaseless birth
 For all things living at all times.
-PS
+(P.S. Sundaram)
 
 0362
 Must you desire, desire freedom from birth.
 That comes only by desiring desirelessness.
-SS
+(Satguru  Subramuniyaswami)
 
 0363
 No greater fortune here than not to yearn, 
 And none to excel it hereafter too!
-PS
+(P.S. Sundaram)
 
 0364
 Purity is freedom from yearning
 And that comes of seeking Truth. *
-PS
+(P.S. Sundaram)
 
 0365
 Those are free who are free of yearning.
 Others, of all else free, remain un-free. *
-PS
+(P.S. Sundaram)
 
 0366
 If you love virtue, flee from desire;
 For desire is a great betrayer.
-VS, PS
+(V.V.S. Aiyar), (P.S. Sundaram)
 
 0367
 When all deeds of desire are uprooted,
 Liberation comes as and when desired.
-NV
+(N.V.K. Ashraf)
 
 0368
 Where there is no desire, there is no sorrow.
 Where there is, it comes over and above.
-NV
+(N.V.K. Ashraf)
 
 0369
 When the misery of miseries called desire ends,
 The result is never-ending joy.
-NV
+(N.V.K. Ashraf)
 
 0370
 The state of eternal bliss will result
@@ -2169,59 +2169,59 @@ Notes
 0371
 The gains of labour, and loss due to languor,
 Are both outcomes of fate.
-NV, KV
+(N.V.K. Ashraf), KV
 
 0372
 Adverse fate befools, and when time serves
 A harmless fate expands knowledge. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0373
 A man may have studied many subtle works,
 But what survives is his innate wisdom.
-PS
+(P.S. Sundaram)
 
 0374
 The world ordains two different ways:
 Acquiring wealth is one, attaining wisdom another. *
-SS
+(Satguru  Subramuniyaswami)
 
 0375
 In business dealings, fate can turn
 All good things bad and even bad good.
-NV
+(N.V.K. Ashraf)
 
 0376
 What is not naturally ours cannot be got,
 Nor what is natural, ejected. *
-PS
+(P.S. Sundaram)
 Yes
 0377
 Except as disposed by the Disposer,
 Even millions amassed may not be enjoyed. *
-PS
+(P.S. Sundaram)
 Yes
 0378
 That the destitute have not renounced
 Is because fate has not relieved them of their share. *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0379
 Why do those who take good luck in their stride,
 Struggle when encountered with bad?
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0380
 What is there mightier than fate? For it overtakes us
 In spite of our plans to overcome it. *
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 
 Notes:
-376. Compare with 609 under Avoiding Sloth. "Inherent flaws that are natural can be overcome by getting rid of indolence" – NV
+376. Compare with 609 under Avoiding Sloth. "Inherent flaws that are natural can be overcome by getting rid of indolence" – (N.V.K. Ashraf)
 377. The word "வகுத்தான்" [Disposer] here is invariably taken to mean God. Most translators have obviously followed Parimelalagar's interpretation of the word "வகுத்தான்" as "தெய்வம்".  Chakravarti [1953] translates the word as "destiny". Relevant here is the translation of a similar passage from Naladiyar – a Jaina classic beyond doubt. "Though fortune forsake him and fate frown on him......" Translator S. Anavaratavinayakam Pillai here has chosen to render the word "தெய்வம்" as "fate". 
-378. Valluvar says in couplet 1050: “The poverty stricken has a chance to renounce, lest he hang around for salt and gruel”. * (KK). Here in couplet 378 he cites fate as the reason why the destitute have not renounced in spite of their poverty.
-380. The same Valluvar says under “Manliness” in couplet 620: “Those who never get tired of striving undauntedly shall leave even Fate behind”. (SB, PS)
+378. Valluvar says in couplet 1050: “The poverty stricken has a chance to renounce, lest he hang around for salt and gruel”. * ((K. Kannan)). Here in couplet 378 he cites fate as the reason why the destitute have not renounced in spite of their poverty.
+380. The same Valluvar says under “Manliness” in couplet 620: “Those who never get tired of striving undauntedly shall leave even Fate behind”. (( Shuddhananda Bharatiar), (P.S. Sundaram))
 
 References:
 Chakravarti, A. 1953. Tirukkural. Deccan Press, Vepery, Madras. Pp 1-22 
@@ -2238,52 +2238,52 @@ Notes
 0381
 Who has these six is a lion among kings:
 An army, subjects, food, ministers, allies and forts.
-PS
+(P.S. Sundaram)
 
 0382
 These four unfailing mark a king:
 Courage, liberality, wisdom and energy.
-PS
+(P.S. Sundaram)
 
 0383
 A ruler should never lack these three:
 Diligence, learning and boldness.
-PS
+(P.S. Sundaram)
 
 0384
 He is a honourable king who sticks to virtue,
 Removes evil, and is spotless in valour. *
-PS
+(P.S. Sundaram)
 
 0385
 He is a king who can do these:
 Produce, acquire, conserve and dispense.
-PS
+(P.S. Sundaram)
 
 0386
 That king, who is easy of access and soft-spoken,
 Is extolled in his kingdom. *
-PS
+(P.S. Sundaram)
 
 0387
 The world listens to all the commands of the king
 Who is sweet-spoken and liberal. *
-GU, PS
+(G.U. Pope), (P.S. Sundaram)
 
 0388
 A just king, who guards over his subjects,
 Will be deemed god by them.
-NV
+(N.V.K. Ashraf)
 
 0389
 The world is secure under the parasol of the worthy king
 Who brooks bitter counsel. *
-MS
+(M.S. Poornalingam Pillai)
 
 0390
 A light among kings is he who has these four:
 Grace, bounty, justice and concern. *
-PS
+(P.S. Sundaram)
 
 
 040
@@ -2293,57 +2293,57 @@ Notes
 0391
 Learn thoroughly what should be learnt.
 And having learnt, stand according to that.
-NV
+(N.V.K. Ashraf)
 
 0392
 They say: Numbers and other one called Letters
 Are the two eyes to live with. *
-VC, PS
+(V.C. Kulandai Swamy), (P.S. Sundaram)
 
 0393
 Only the learned have eyes.
 The unlearned have two sores on their face! *
-PS
+(P.S. Sundaram)
 Yes
 0394
 It is the prowess of scholars that meetings bring delight
 And departures leave memories. *
-SS
+(Satguru  Subramuniyaswami)
 
 0395
 The learned learn to humble, like destitute before the rich;
 Only the low never learn.
-NV, SB
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 
 0396
 The more you dig a sand-spring, more the flow.
 The more you learn more the wisdom.
-NV
+(N.V.K. Ashraf)
 
 0397
 Why does one stop learning till he dies
 When it makes all lands and place his?
-PS
+(P.S. Sundaram)
 
 0398
 The learning acquired in one birth
 Protects a man in the next seven. *
-PS
+(P.S. Sundaram)
 
 0399
 Seeing that what delights him delights the world,
 Gets a scholar also delighted. *
-PS
+(P.S. Sundaram)
 
 0400
 The wealth that never declines is learning.
 All others are not riches.
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 
 Notes:
-393. Compare with couple 575 where Valluvar uses the same idea to emphasize compassion in eyes: “Compassion is an ornament of the eyes. Without it eyes are deemed sores” (SS)
-397. SI's alternate translation: "The learned can feel at home everywhere. Why then shun learning all one's life?"
+393. Compare with couple 575 where Valluvar uses the same idea to emphasize compassion in eyes: “Compassion is an ornament of the eyes. Without it eyes are deemed sores” ((Satguru  Subramuniyaswami))
+397. (K.R. Srinivasa Iyengar)'s alternate translation: "The learned can feel at home everywhere. Why then shun learning all one's life?"
 
 041
 Illiteracy
@@ -2352,52 +2352,52 @@ Notes
 0401
 Addressing a gathering with poor scholarship
 Is like playing dice without a board.
-NV
+(N.V.K. Ashraf)
 
 0402
 An illiterate's lust for words is like the lust of a woman
 Who has neither of her breasts.
-SM
+(S. Maharajan)
 
 0403
 Even a fool is fine
 If he can hold his tongue before the wise! *
-PS
+(P.S. Sundaram)
 
 0404
 The learned will not acknowledge
 An ignoramus' occasional knowledge.
-PS
+(P.S. Sundaram)
 
 0405
 An unlettered man's conceit will find its end
 When the occasion for speech arrives.
-CR
+(C. Rajagopalachari)
 
 0406
 The ignorant are like barren land:
 They are there, but useless. *
-PS
+(P.S. Sundaram)
 
 0407
 A handsome man without subtle and sharp intellect
 Has the beauty of a mud-doll.  *
-PS
+(P.S. Sundaram)
 
 0408
 The wealth of the ignorant does more harm
 Than the want of the learned. *
-PS
+(P.S. Sundaram)
 
 0409
 The ignorant, however high-born,
 Is lower than the low-born learned.
-PS
+(P.S. Sundaram)
 
 0410
 Amid scholars of celebrated works,
 Are others like beasts among men.
-NV, DL
+(N.V.K. Ashraf), (W.H. Drew and  J. Lazarus)
 
 
 042
@@ -2407,56 +2407,56 @@ Notes
 0411
 The wealth of wealths is the wealth of hearing;
 That wealth out-tops all else. *
-PS
+(P.S. Sundaram)
 Yes
 0412
 When there is no food for the ear,
 A little can be given to the stomach as well.
-GV
+(G. Vanmikanathan)
 
 0413
 As gods in heaven are fed through fire,
 So men on earth are fed through their ears.
-PS
+(P.S. Sundaram)
 
 0414
 Though unlettered, listen;
 You will find this a great help in distress.
-PS
+(P.S. Sundaram)
 
 0415
 Words from the lips of upright men
 Are like a steadying staff in a slippery place.
-SS
+(Satguru  Subramuniyaswami)
 
 0416
 Listen to the good however little
 And even that much will bring great dignity.
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0417
 Those who have sought and heard much
 Will not talk nonsense even by mistake.
-PS
+(P.S. Sundaram)
 
 0418
 Ears may hear and yet remain deaf,
 If not drilled by words of instruction.
-SS, VS
+(Satguru  Subramuniyaswami), (V.V.S. Aiyar)
 
 0419
 A modest mouth is hard for those
 Whose ears lend not to wise counsels.
-SB, JN
+( Shuddhananda Bharatiar), (J. Narayanaswamy)
 
 0420
 What matters if they live or die
 Whose taste is in their tongues, not ears?
-PS
+(P.S. Sundaram)
 
 
 Notes:
-411. It is Valluvar's style to use the same idea to emphasize an important point. Here he emphasizes the wealth of hearing, at other places on the wealth of grace and learning. i.e. 241. The wealth of wealth is the wealth of grace. Material wealth, even the mean possess. * - SB, PS. 400. The wealth that never declines is learning. All others are not riches - PS, DL.
+411. It is Valluvar's style to use the same idea to emphasize an important point. Here he emphasizes the wealth of hearing, at other places on the wealth of grace and learning. i.e. 241. The wealth of wealth is the wealth of grace. Material wealth, even the mean possess. * - ( Shuddhananda Bharatiar), (P.S. Sundaram). 400. The wealth that never declines is learning. All others are not riches - (P.S. Sundaram), (W.H. Drew and  J. Lazarus).
 
 043
 Possession of Wisdom
@@ -2465,59 +2465,59 @@ Notes
 0421
 Wisdom is a weapon of defence,
 An inner fortress no foe can raze.
-PS
+(P.S. Sundaram)
 
 0422
 Wisdom checks the wandering mind
 And pulls it from ill to good.
-PS
+(P.S. Sundaram)
 
 0423
 The mark of wisdom is to discern the truth
 From whatever source it is heard.
-NV
+(N.V.K. Ashraf)
 Yes
 0424
 Wisdom lies in simplifying intricate facts
 And grasping that of others, however intricate. *
-NV, KV
+(N.V.K. Ashraf), KV
 Yes
 0425
 Prudence goes with the world,
 But wisdom is not a lotus to open and shut at will. *
-PS
+(P.S. Sundaram)
 
 0426
 It is a part of wisdom to conform
 To the ways of the world.
-VS
+(V.V.S. Aiyar)
 Yes
 0427
 The wise know what comes next.
 The unwise lack that wisdom.
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0428
 It is folly not to fear what ought to be feared.
 The wise dread what ought to be dreaded. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0429
 No frightful evil shocks the wise
 Who guard against surprises.
-SB
+( Shuddhananda Bharatiar)
 
 0430
 Those who have wisdom have all:
 Fools with all have nothing.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-423. Compare with 355. "Wisdom is to ascertain reality in whatever way things are presented" - KK
+423. Compare with 355. "Wisdom is to ascertain reality in whatever way things are presented" - (K. Kannan)
 424. KV's full explanatory translation. "Wisdom lies in making anything easy for others to understand, and easily understanding what others say, however intricate"  
-426. Compare with 140. "Those are fools, however learned, who have not learnt to walk with the world" - PS
-428. Compare with 201. "The sinful will not dread; the great will dread the wanton pride of sinful action" - MS
+426. Compare with 140. "Those are fools, however learned, who have not learnt to walk with the world" - (P.S. Sundaram)
+428. Compare with 201. "The sinful will not dread; the great will dread the wanton pride of sinful action" - (M.S. Poornalingam Pillai)
 
 044
 Faults
@@ -2526,52 +2526,52 @@ Notes
 0431
 Freedom from arrogance, anger and meanness
 Spells dignity in greatness.
-DZ
+(S.M. Diaz)
 
 0432
 Miserliness, undignified pride and fraudulent indulgence
 Are flaws in a king.
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 
 0433
 To those ashamed of wrong doings,
 Even millet of fault is as big as a palm-tree. *
-VR, PS
+(V. Ramasamy), (P.S. Sundaram)
 Yes
 0434
 Guard against error as you would guard wealth,
 For error is a foe that kills.
-PS
+(P.S. Sundaram)
 
 0435
 A life that does not guard against faults
 Would vanish like a heap of straw before fire. *
-PS
+(P.S. Sundaram)
 
 0436
 How can a king be faulted who removes his own fault
 Before seeing that of others? *
-PS
+(P.S. Sundaram)
 
 0437
 The miser's wealth, unspent on what should be spent,
 Does not increase but cease. *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0438
 That miserliness which clings to men
 Is one thing that stands out among all sins.
-NV
+(N.V.K. Ashraf)
 
 0439
 Never flatter yourself,
 Nor delight in deeds that bring no good. *
-PS
+(P.S. Sundaram)
 
 0440
 Keep your delights in pleasures unknown
 To keep the designs of your foes at bay.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
@@ -2584,17 +2584,17 @@ Notes
 0441
 Value and secure the friendship
 Of the virtuous, mature and wise.
-PS
+(P.S. Sundaram)
 
 0442
 Ally with them who can allay your present ills
 And avert those to come. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0443
 The rarest of rare things is to seek and secure
 The friendship of the great.
-PS
+(P.S. Sundaram)
 
 0444
 The greatest of all strengths come from
@@ -2604,36 +2604,36 @@ KV
 0445
 A king's counselors are his eyes
 To be chosen with careful counseling.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0446
 Foes are rendered ineffective by one
 Who lives in fellowship with the worthy. *
-SS
+(Satguru  Subramuniyaswami)
 
 0447
 Who can ruin the man who commands
 The friendship of those who can reprove him?
-VS
+(V.V.S. Aiyar)
 
 0448
 A king unguarded with reproving counsel
 Needs no foes to come to grief. *
-PS
+(P.S. Sundaram)
 
 0449
 There can be no gain without capital,
 And no stability unpropped by wise counsel.
-PS
+(P.S. Sundaram)
 
 0450
 To give up good friends is ten times worse than
 Being hated by countless foes.
-SB
+( Shuddhananda Bharatiar)
 
 
 Notes:
-447. Compare with 795 and 784. "Seek a friend who will make you cry, rail and rate when you go astray" – PS. "Friendship is not for merriment but for stern reproach when friends go astray" - NV
+447. Compare with 795 and 784. "Seek a friend who will make you cry, rail and rate when you go astray" – (P.S. Sundaram). "Friendship is not for merriment but for stern reproach when friends go astray" - (N.V.K. Ashraf)
 
 046
 Avoiding mean company
@@ -2642,56 +2642,56 @@ Notes
 0451
 The great fear the company of the base.
 Only the mean take them as kinsmen.
-NV
+(N.V.K. Ashraf)
 
 0452
 Nature of soil governs the quality of water.
 One's wisdom by the nature of company.
-NV
+(N.V.K. Ashraf)
 
 0453
 Perceptions spring from nature
 And character from company.
-PS
+(P.S. Sundaram)
 
 0454
 Wisdom which seems to come from the mind
 Comes really from one's company.
-PS
+(P.S. Sundaram)
 
 0455
 The pure thought and the pure deed, these two,
 Come from pure company. *
-PS
+(P.S. Sundaram)
 
 0456
 Good legacy is for the pure-minded.
 No evil deeds befall men of pure company.
-NV
+(N.V.K. Ashraf)
 
 0457
 A good mind is an asset to everyone
 While good company contributes to glory.
-PS
+(P.S. Sundaram)
 
 0458
 Even though the wise have a good mind,
 They strengthen it by good company. *
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0459
 Purity of mind leads to heaven,
 But even that is secured by good company.
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0460
 There is no greater aid than good company,
 Nor worse affliction than bad.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-452. Compare with 959. Nature of sprout indicates the quality of soil; so does the quality of speech one’s descent. (NV)
+452. Compare with 959. Nature of sprout indicates the quality of soil; so does the quality of speech one’s descent. ((N.V.K. Ashraf))
 
 047
 Planned action
@@ -2700,62 +2700,62 @@ Notes
 0461
 Act after taking into account the cost,
 The benefit and the resultant net. *
-PS
+(P.S. Sundaram)
 
 0462
 Nothing is hard for him who acts with
 Worthy counsels weighing facts.
-SB
+( Shuddhananda Bharatiar)
 
 0463
 The wise will never, in the hope of profit,
 Launch an undertaking to lose their capital.*
-DL
+(W.H. Drew and  J. Lazarus)
 Yes
 0464
 Those who fear the disgrace of failure
 Will not launch thoughtless ventures. *
-PS
+(P.S. Sundaram)
 
 0465
 Ill considered aggressive operations serve
 Only to mobilize and strengthen the enemy.
-CR
+(C. Rajagopalachari)
 
 0466
 It is ruinous to do what should not be done,
 And ruinous to leave undone what should be done.
-PS
+(P.S. Sundaram)
 
 0467
 Think before you launch.
 To launch and then think is disgrace.
-NV
+(N.V.K. Ashraf)
 Yes
 0468
 Undetermined efforts of any scheme
 Are bound to fail even if backed by many.
-NV
+(N.V.K. Ashraf)
 
 0469
 Even perfect schemes can fail when there is
 Imperfection in the division of labour.
-NV
+(N.V.K. Ashraf)
 Yes
 0470
 Think and act without incurring scorn.
 The world will not approve what is improper. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-461. Compare with 676. "Weigh well before you plunge: the inputs, impediments and gain" - PS
-463. PS would say: "It is not wisdom to lose the capital for the sake of interest"
+461. Compare with 676. "Weigh well before you plunge: the inputs, impediments and gain" - (P.S. Sundaram)
+463. (P.S. Sundaram) would say: "It is not wisdom to lose the capital for the sake of interest"
 469. This couplet can be rendered with different meanings:
-Even worthy schemes can fail when there is dearth in apportionment of tasks - NV
-Even good works go wrong if they don't match the recipient's nature - SI
-Even a good scheme goes awry when contributions don't come equally from all - PS, NV
-Even reliable schemes can fail when responsibilities are not shared equally - NV
+Even worthy schemes can fail when there is dearth in apportionment of tasks - (N.V.K. Ashraf)
+Even good works go wrong if they don't match the recipient's nature - (K.R. Srinivasa Iyengar)
+Even a good scheme goes awry when contributions don't come equally from all - (P.S. Sundaram), (N.V.K. Ashraf)
+Even reliable schemes can fail when responsibilities are not shared equally - (N.V.K. Ashraf)
  
 048
 Knowing the strength
@@ -2764,56 +2764,56 @@ Notes
 0471
 Weigh the strengths of the task, yourselves,
 Opponents, and allies before acting. *
-KK
+(K. Kannan)
 
 0472
 Nothing is impossible for him
 Who knows his task and strength, and is well set.
-PS
+(P.S. Sundaram)
 
 0473
 Ignorant of their strengths,
 Many in their zeal have perished midway.
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0474
 The inadaptable have speedy end
 Who boast unconcerned of their real strengths.
-NV
+(N.V.K. Ashraf)
 
 0475
 Too great a load of even peacock-feathers
 Will break the axle-tree of the cart.
-CR
+(C. Rajagopalachari)
 
 0476
 Persisting to climb beyond the terminal branches of a tree
 Will forfeit one's life.
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0477
 Know the limit and grant with measure.
 This is the way to guard your treasure. *
-SB
+( Shuddhananda Bharatiar)
 
 0478
 No harm if income is narrow
 If outgoings are not broad.
-PS
+(P.S. Sundaram)
 
 0479
 A life lived without adjustment to the means
 May seem to prosper but will perish.
-NV
+(N.V.K. Ashraf)
 Yes
 0480
 He who is generous beyond his means
 Will quickly lose the measure of his wealth.
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 Yes
 
 Notes:
-479. A short and crisp way of putting it: "A spendthrift's life is a phantom that will fade" – PS.
+479. A short and crisp way of putting it: "A spendthrift's life is a phantom that will fade" – (P.S. Sundaram).
 480. Idea expressed here is very similar to the one in 477. 
 
 049
@@ -2823,57 +2823,57 @@ Notes
 0481
 A crow can defeat an owl by day.
 Kings need the right time to win.
-PS
+(P.S. Sundaram)
 
 0482
 The rope that binds Fortune
 Is deeds done at the right time.
-PS
+(P.S. Sundaram)
 
 0483
 What is impossible
 If right means are adopted at the right time? *
-PS
+(P.S. Sundaram)
 
 0484
 Even the world will be yours,
 If you act choosing the right time and place.
-NV
+(N.V.K. Ashraf)
 
 0485
 Those who hope for the world wait unperturbed
 Hoping for the right moment. *
-KK
+(K. Kannan)
 
 0486
 The restraint of an active person
 Is akin to the retreat of a butting ram.
-NV
+(N.V.K. Ashraf)
 
 0487
 The wise do not burst with rage.
 They hold it for the right time.
-PS
+(P.S. Sundaram)
 
 0488
 The best is to bear with your enemy
 Till the time comes to topple him. *
-PS
+(P.S. Sundaram)
 Yes
 0489
 Hesitate not to seize opportunities rare,
 And achieve tasks otherwise hard. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0490
 Bide your time like the stork, and like it
 Strike at the opportune moment.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 
 Notes:
-488. SB has a daring interpretation. He takes the word "தலை" to mean "head" instead of the usual meaning "chief". His translation reads thus: "Bear with hostilities when you meet them. Fell down their head in fateful time" – SB
-489. Compare with 975. If the great achieve anything, it will be deeds rare in achievement. * PS
+488. ( Shuddhananda Bharatiar) has a daring interpretation. He takes the word "தலை" to mean "head" instead of the usual meaning "chief". His translation reads thus: "Bear with hostilities when you meet them. Fell down their head in fateful time" – ( Shuddhananda Bharatiar)
+489. Compare with 975. If the great achieve anything, it will be deeds rare in achievement. * (P.S. Sundaram)
 
 050
 Knowing the place
@@ -2882,52 +2882,52 @@ Notes
 0491
 Don't despise your foe, nor start any action
 Till you find a place to besiege him. *
-PS
+(P.S. Sundaram)
 
 0492
 A fortress gives numerous advantages
 Even to men of strength and valour. *
-PS
+(P.S. Sundaram)
 
 0493
 Even the weak can fight enemies with determination
 If they choose the right place.
-NV
+(N.V.K. Ashraf)
 
 0494
 When fighters fight from strategic locations,
 Enemies lose their strategic plans.
-NV
+(N.V.K. Ashraf)
 
 0495
 A crocodile prevails in deep waters;
 But when out of water, others prevail over it.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0496
 A mighty chariot cannot run in the sea,
 Nor a boat navigate land.
-PS
+(P.S. Sundaram)
 
 0497
 No other aid than courage is needed
 If one ponders from which place to pounce.
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0498
 A large army will lose its morale
 If driven to a place meant for a small one.
-NV
+(N.V.K. Ashraf)
 
 0499
 Men on their own ground are hard to tackle
 Even when they lack fortress and strength.
-PS
+(P.S. Sundaram)
 
 0500
 A fearless tusker that defies spearman, if caught in a bog,
 Will be overcome by jackals. *
-JN, PS
+(J. Narayanaswamy), (P.S. Sundaram)
 
 
 Division II. Wealth (Continued…..)
@@ -2940,52 +2940,52 @@ Notes
 0501
 Before you trust, test people's attitude to these four:
 Virtue, wealth, love and survival. *
-JN
+(J. Narayanaswamy)
 
 0502
 Noble heritage, freedom from faults and shame of blame
 Are some norms to choose.
-JN
+(J. Narayanaswamy)
 
 0503
 Even the widely-read and faultless, when scrutinized,
 Are rarely found free of ignorance.
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0504
 Weigh a man's merits and also his defects.
 Whichever weighs more is his nature.
-VS, PS
+(V.V.S. Aiyar), (P.S. Sundaram)
 
 0505
 A man's deeds are the touchstone of his
 Greatness and littleness.
-DL
+(W.H. Drew and  J. Lazarus)
 
 0506
 Choose not men who have no kindred.
 With no bonds to restrain, they dread no shame. *
-PS, GU
+(P.S. Sundaram), (G.U. Pope)
 
 0507
 To favour and select the incompetent out of love,
 Leads to folly in all forms. *
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0508
 To choose a stranger untried
 Will trouble one's line without end.
-PS
+(P.S. Sundaram)
 
 0509
 Trust none untried, and after trial
 Entrust him with the trusted job.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0510
 Trusting those untested and suspecting those tested,
 Both lead to endless trouble. *
-SI
+(K.R. Srinivasa Iyengar)
 Yes
 
 
@@ -2999,52 +2999,52 @@ Notes
 0511
 Employ those who prefer to do the good
 After scanning both good and bad.
-NV
+(N.V.K. Ashraf)
 
 0512
 Entrust the job to one who can augment revenue,
 Foster wealth and find out hurdles. *
-JN
+(J. Narayanaswamy)
 
 0513
 The qualified possess these four:
 Affection, wisdom, clarity and contentment.
-NV
+(N.V.K. Ashraf)
 
 0514
 Put into many tests, they pass.
 Yet when subjected to different tasks, many fail.
-NV
+(N.V.K. Ashraf)
 
 0515
 Where knowledge and diligence are required,
 Don't entrust tasks on personal loyalty.
-KV, PS
+KV, (P.S. Sundaram)
 
 0516
 Weigh well the agent, the task
 And the time before you act.
-PS
+(P.S. Sundaram)
 
 0517
 Assured this man will do this task this way,
 Leave it to him.
-PS
+(P.S. Sundaram)
 Yes
 0518
 After ascertaining what work befits a man,
 Assign him the responsibility. *
-SS
+(Satguru  Subramuniyaswami)
 
 0519
 Fortune deserts him who doubts
 The liberties taken by a devout worker. *
-PS, VSS
+(P.S. Sundaram), VSS
 
 0520
 Nothing goes wrong in the state of a king
 Who often checks his officials for any wrong.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
@@ -3057,56 +3057,56 @@ Notes
 0521
 Only the kindred, because of their old contact,
 Show attachment even in adversity.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0522
 When kindred show unfailing love,
 Wealth of all kinds never fail to flow. *
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 0523
 The life of an unattached man
 Is like a boundless pond flowing unbound.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 Yes
 0524
 To be circled by circles of kin is the benefit
 One gains by gaining wealth.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0525
 Generosity and sweet words enable a man
 To be circled by circles of kin. *
-PS
+(P.S. Sundaram)
 
 0526
 None in this world has a larger kinship than he
 Who is liberal and curbs his wrath. *
-PS
+(P.S. Sundaram)
 
 0527
 Crows trumpet their finds and share them.
 Prosperity also abides with such men.
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0528
 Many thrive seeing a king who sees case by case,
 Not seeing mere sameness in all.
-SS, NV
+(Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 0529
 Associates who left will return,
 Once the cause of dissociation is removed.
-NV
+(N.V.K. Ashraf)
 
 0530
 The king should ascertain the motive of the deserters
 Who wish to come back.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
-523. Compare with 215. “The wealth of a wise philanthropist is a village pool ever full” - PS
+523. Compare with 215. “The wealth of a wise philanthropist is a village pool ever full” - (P.S. Sundaram)
  
 054
 Avoiding slackness
@@ -3115,7 +3115,7 @@ Notes
 0531
 Worse than too much wrath is the laxity
 Due to too much exultation.
-PS
+(P.S. Sundaram)
 
 0532
 Just as constant want crushes the intellect,
@@ -3125,46 +3125,46 @@ KV
 0533
 All writings of the world conclude the same
 That fame is not for the lax. *
-PS
+(P.S. Sundaram)
 
 0534
 There is no refuge for the coward,
 Nor is there anything good for the lax.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0535
 The negligent unmindful of threats beforehand
 Will repent for the mistakes later on.
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0536
 Nothing can equal never being lax
 With anyone at any time without fail. *
-PS
+(P.S. Sundaram)
 
 0537
 There is nothing too difficult for a man
 Armed with vigilance.
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0538
 Cherish and perform praiseworthy acts.
 To neglect and put off deprives one in seven births. *
-SS, MS
+(Satguru  Subramuniyaswami), (M.S. Poornalingam Pillai)
 
 0539
 When the mind is elated with joy,
 Think of those who were ruined by neglect. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0540
 What is aimed is easy to achieve,
 If only the mind is set on what is aimed.
-NV
+(N.V.K. Ashraf)
 Yes
 
 Notes:
-540. Compare with couplets 666 and 309. "What is sought will be got as desired if only the seeker is determined" – NV and "All wishes are realized at once if they keep away wrath from their mind" - NV
+540. Compare with couplets 666 and 309. "What is sought will be got as desired if only the seeker is determined" – (N.V.K. Ashraf) and "All wishes are realized at once if they keep away wrath from their mind" - (N.V.K. Ashraf)
 
 055
 Right governance
@@ -3173,52 +3173,52 @@ Notes
 0541
 The way is to launch an enquiry, investigate with impartiality,
 And dispense as per norms.
-NV
+(N.V.K. Ashraf)
 
 0542
 All the world looks up to heaven for rain
 And the subjects to their king for justice. *
-PS
+(P.S. Sundaram)
 
 0543
 The scepter of the king furnishes the basic support
 To virtue and scriptures.
-SM
+(S. Maharajan)
 
 0544
 A great kingdom's monarch who rules embracing his subjects
 Has the world embrace his feet. *
-SS
+(Satguru  Subramuniyaswami)
 
 0545
 The king who rules according to the law
 Never lacks rain and corn.
-PS
+(P.S. Sundaram)
 
 0546
 Not his spear but a straight scepter
 Is what gives a monarch his triumph.
-PS
+(P.S. Sundaram)
 
 0547
 The king guards all the land, and his own rule
 Will guard him if he is straight.
-PS
+(P.S. Sundaram)
 
 0548
 An indifferent unjust king beyond the reach of his subjects
 Will sink beyond and perish.
-NV
+(N.V.K. Ashraf)
 
 0549
 For a king who would guard and cherish his people,
 To punish crimes is a duty, not defect.
-PS
+(P.S. Sundaram)
 
 0550
 A king punishing criminals by execution
 Is like a farmer removing weeds from his fields.*
-SS
+(Satguru  Subramuniyaswami)
 
 
 Notes:
@@ -3231,52 +3231,52 @@ Notes
 0551
 More malicious than a murderer is the king
 Who rules with injustice and oppression.*
-SS
+(Satguru  Subramuniyaswami)
 
 0552
 A tyrant taxing his subjects
 Is like an armed dacoit extorting money. *
-KK
+(K. Kannan)
 
 0553
 A king who fails in his day today affairs
 Loses his kingdom day by day.
-KK
+(K. Kannan)
 
 0554
 A thoughtless king who abuses his scepter
 Will lose at once his wealth and subjects.
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0555
 It is the tears of those groaning under oppression
 That wear out the prosperity of the king.
-VS
+(V.V.S. Aiyar)
 Yes
 0556
 Just rule stabilizes a king.
 Lacking it his glory fades.
-PS
+(P.S. Sundaram)
 
 0557
 How fares the earth without rain?
 So fares life under a ruthless king.
-PS
+(P.S. Sundaram)
 
 0558
 Possessions are worse than poverty
 Under the scepter of an unjust king.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0559
 If a king acts contrary to justice,
 Monsoons fail and clouds shed no rain.
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 
 0560
 Cows yield less and priests forget their hymns
 If the protector fails to protect. *
-PS
+(P.S. Sundaram)
 Yes
 
 Notes:
@@ -3291,7 +3291,7 @@ Notes
 0561
 Call him king who probes and whose punishment
 Is deterrent and proportionate.
-PS
+(P.S. Sundaram)
 
 0562
 Raise your hand forcibly but bring it lightly
@@ -3301,46 +3301,46 @@ Yes
 0563
 A dictator causing oppression
 Will have a speedy and certain end.
-NV
+(N.V.K. Ashraf)
 
 0564
 When a king is decried a tyrant,
 His life is shortened and end becomes imminent.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0565
 The great wealth of one inaccessible and sour-faced
 Is no better than a demon's. *
-PS
+(P.S. Sundaram)
 
 0566
 If he is unkind and speaks harsh,
 His lofty wealth ends there without lasting long. *
-SS
+(Satguru  Subramuniyaswami)
 
 0567
 Harsh words and excessive punishments
 Are files that grind down a king's might. *
-PS
+(P.S. Sundaram)
 
 0568
 The king who rages but not reflect on his counsel,
 Will soon see his wealth shrink. *
-KK
+(K. Kannan)
 
 0569
 A king who neglects his defences,
 Will die of fright at the time of war. *
-PS
+(P.S. Sundaram)
 
 0570
 The earth bears no heavier burden
 Than a tyrant surrounded by ignorant men. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-562. What is meant by this statement is this: "Pretend to be harsh, but act mildly if you want long lasting effect" - KK
+562. What is meant by this statement is this: "Pretend to be harsh, but act mildly if you want long lasting effect" - (K. Kannan)
 
 058
 Compassion
@@ -3349,7 +3349,7 @@ Notes
 0571
 What truly moves this world
 Is that ravishing beauty called compassion.
-NV, VS
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 
 0572
 Compassion sustains the world.
@@ -3359,48 +3359,48 @@ KV
 0573
 What use is a rāgā that cannot be sung?
 Or eyes without sympathy?
-PS
+(P.S. Sundaram)
 Yes
 0574
 What use are eyes that look like eyes
 But lack boundless sympathy?
-PS
+(P.S. Sundaram)
 
 0575
 Compassion is an ornament of the eyes.
 Without it eyes are deemed sores. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0576
 Like trees earth-bound which cannot move
 Are eyes unmoved by pity.
-PS
+(P.S. Sundaram)
 
 0577
 Men without sympathy have no eyes;
 Nor those who have eyes lack sympathy.
-NV
+(N.V.K. Ashraf)
 
 0578
 This world is theirs who compassionately perform
 Their duties without fail.
-NV
+(N.V.K. Ashraf)
 
 0579
 That quality of forbearance and sympathy is the best,
 Even to those who hurt us.
-NV
+(N.V.K. Ashraf)
 Yes
 0580
 Those desirous of refinement will drink with smile
 Even hemlock when offered. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
 573. The word "rāgā" means tune or melody.
-575. Not only compassion, but also learning is must says Valluvar employing the same idea in couplet 393: “Only the learned have eyes. The unlearned have two sores on their face!” (PS).
-579. Compare with 158. "Let a man conquer by his forbearance those who wrong him with arrogance" * -SS
+575. Not only compassion, but also learning is must says Valluvar employing the same idea in couplet 393: “Only the learned have eyes. The unlearned have two sores on their face!” ((P.S. Sundaram)).
+579. Compare with 158. "Let a man conquer by his forbearance those who wrong him with arrogance" * -(Satguru  Subramuniyaswami)
 
 059
 Espionage
@@ -3409,52 +3409,52 @@ Notes
 0581
 Spies and classics on statecraft:
 These two are a king's pair of eyes. *
-PS
+(P.S. Sundaram)
 
 0582
 A king's job is to know in time everything
 That happens to everyone every day. *
-PS
+(P.S. Sundaram)
 
 0583
 No king has ever succeeded
 Without considering the news of the spies.
-NV
+(N.V.K. Ashraf)
 
 0584
 Employees, kinsmen and enemies
 Are the people a spy should cover.
-PS
+(P.S. Sundaram)
 
 0585
 Able spies are always elusive
 With perfect guise and fearless eyes.
-NV
+(N.V.K. Ashraf)
 
 0586
 Disguised as a monk a spy should probe all places
 Unperturbed despite hardships. *
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0587
 A spy should ferret out hidden facts
 And get them verified beyond doubt.
-SS, KV
+(Satguru  Subramuniyaswami), KV
 
 0588
 Even what one spy has spied
 Must be spied through another. *
-PS
+(P.S. Sundaram)
 
 0589
 Let not one spy know another.
 And act when three spies agree.
-PS
+(P.S. Sundaram)
 
 0590
 Never honour a spy in public
 Lest your secret should be out.
-PS
+(P.S. Sundaram)
 
 
 060
@@ -3464,57 +3464,57 @@ Notes
 0591
 What is one's own is one's vigour.
 Without it what does one own?
-PS
+(P.S. Sundaram)
 Yes
 0592
 Real asset is the asset of a resolute mind.
 Material assets stay not but flee.  *
-PS
+(P.S. Sundaram)
 
 0593
 Those who have vigour will not lament saying:
 "We have suffered loss".
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0594
 To a man of unshaken vigour,
 Wealth will ask and find its way.
-PS
+(P.S. Sundaram)
 
 0595
 Water level determines the lotus height.
 A man's stature by the level of his mind.
-NV
+(N.V.K. Ashraf)
 
 0596
 Let all thy aims be high.
 Failure then is as good as success. *
-PS
+(P.S. Sundaram)
 Yes
 0597
 An elephant pierced by arrows stands unperturbed.
 The courageous relent not in adversities. *
-JN
+(J. Narayanaswamy)
 
 0598
 The poor in spirit can never attain the pride of being
 The generous patrons of the world.
-KS, NV
+(Kasthuri Sreenivasan), (N.V.K. Ashraf)
 
 0599
 Though huge and sharp-tusked,
 An elephant fears a tiger when attacked. *
-PS
+(P.S. Sundaram)
 
 0600
 Energy is a man's strength: the immobile are
 Trees in human form. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-591. Compare with 53 and 591 for similar style: "With a good wife, what is lacking? And when she is lacking, what is good?" – PS and "What is one's own is one's vigour. Without it what does one own?" - PS
-596. Compare with 540 for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – NV and "What is sought will be got as desired if only the seeker is determined" - NV
+591. Compare with 53 and 591 for similar style: "With a good wife, what is lacking? And when she is lacking, what is good?" – (P.S. Sundaram) and "What is one's own is one's vigour. Without it what does one own?" - (P.S. Sundaram)
+596. Compare with 540 for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "What is sought will be got as desired if only the seeker is determined" - (N.V.K. Ashraf)
 
 Division II. Wealth (Continuation)
 
@@ -3526,56 +3526,56 @@ Notes
 0601
 The eternal flame of a family vanishes
 When eclipsed by that dark cloud called laziness.
-SS
+(Satguru  Subramuniyaswami)
 
 0602
 Sloth is dismissed as sloth by those
 Who wish to retain their family repute.
-NV
+(N.V.K. Ashraf)
 
 0603
 A fool, who holds on to sloth,
 Will ruin his household before he gets ruined.
-NV
+(N.V.K. Ashraf)
 
 0604
 The society that broods in sloth without striving,
 Decays and steeps in crime. *
-JN
+(J. Narayanaswamy)
 
 0605
 The pleasure-junks of destruction are four:
 Procrastination, forgetfulness, sloth and sleep.
-PS
+(P.S. Sundaram)
 
 0606
 Seldom do men possessed by sloth achieve anything great
 Even if they possess worldly wealth. *
-SS
+(Satguru  Subramuniyaswami)
 
 0607
 The lazy ones, inept in noble exertion,
 Must endure scolding and scorn. *
-SS
+(Satguru  Subramuniyaswami)
 
 0608
 If sloth inhabits a family,
 The family will soon be enslaved to its foes. *
-VS
+(V.V.S. Aiyar)
 Yes
 0609
 Even inherent flaws in a family can be overcome
 By getting rid of indolence.
-NV
+(N.V.K. Ashraf)
 
 0610
 A king freed of sloth can get at once
 All that the Lord had measured by his feet. *
-PS, KV
+(P.S. Sundaram), KV
 Yes
 
 Notes:
-608. Ahort crisp translations, but not close to original: "Sloth enslaves a house to its enemies" - PS
+608. Ahort crisp translations, but not close to original: "Sloth enslaves a house to its enemies" - (P.S. Sundaram)
 610. The word "அடி அளந்தான்" [who measured by his feet] refers to the belief that Lord Vishnu's measured the whole universe in three strides.
 
 062
@@ -3585,59 +3585,59 @@ Notes
 0611
 Do not give up saying "It is impossible".
 Effort will overcome.
-PS
+(P.S. Sundaram)
 Yes
 0612
 Leave no task incomplete,
 For the world gives up those who give up. *
-PS
+(P.S. Sundaram)
 
 0613
 The pride of being a philanthropist belongs to those
 Who have that quality called perseverance. * 
-GV
+(G. Vanmikanathan)
 
 0614
 The liberality of the indolent man will not endure,
 Like a sword in eunuch's hand.*
-VS
+(V.V.S. Aiyar)
 
 0615
 A pillar of comfort to his friends is he
 Who scorns delight and loves labour. *
-PS
+(P.S. Sundaram)
 
 0616
 Exertion leads to wealth;
 Lack of it brings forth poverty. *
-PS
+(P.S. Sundaram)
 
 0617
 The black ogress 'misfortune' lurks in laziness,
 While goddess 'fortune' lingers in active men. *
-SS
+(Satguru  Subramuniyaswami)
 
 0618
 Ill-luck is never blamed. What is blamed
 Is knowledge without exertion.
-PS
+(P.S. Sundaram)
 
 0619
 Even though God be against,
 Effort is bound to pay the wages of labour. *
-VS
+(V.V.S. Aiyar)
 Yes
 0620
 Those who never get tired of striving undauntedly
 Shall leave even Fate behind.
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 Yes
 
 Notes:
-614. Valluvar has used this simile of “sword in eunuch’s hand” at least thrice in the Kural. In 726 he asks “What use is a sword to cowards and books to those who fear assembly?” * (PS, NV). And in 727, he says “As a sword to a eunuch before his foes, is the learning to one who fears assembly.” * (GU, VS)
-617. JN provides an interesting translation, though not close to the original: "Where sloth resides total darkness prevails; where industry thrives, brightness radiates like lotus". The meaning of the couplet is best summed by KV: "Misfortune will befall the indolent, while the goddess of wealth will attend the hardworking".
+614. Valluvar has used this simile of “sword in eunuch’s hand” at least thrice in the Kural. In 726 he asks “What use is a sword to cowards and books to those who fear assembly?” * ((P.S. Sundaram), (N.V.K. Ashraf)). And in 727, he says “As a sword to a eunuch before his foes, is the learning to one who fears assembly.” * ((G.U. Pope), (V.V.S. Aiyar))
+617. (J. Narayanaswamy) provides an interesting translation, though not close to the original: "Where sloth resides total darkness prevails; where industry thrives, brightness radiates like lotus". The meaning of the couplet is best summed by KV: "Misfortune will befall the indolent, while the goddess of wealth will attend the hardworking".
 619. The word "தெய்வம்" has also been translated sometimes as "fate" as in the case of "வகுத்தான்" in couplet 377. Relevant here is the translation of a similar passage from Naladiyar – a Jaina classic beyond doubt. "Though fortune forsake him and fate frown on him......" Translator S. Anavaratavinayakam Pillai here has chosen to render the word "தெய்வம்" as "fate".
-620. Compare with 380 "What is there mightier than fate? For it overtakes us in spite of our plans to overcome it" * - SS, NV
+620. Compare with 380 "What is there mightier than fate? For it overtakes us in spite of our plans to overcome it" * - (Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 063
 Courage in trouble
@@ -3646,52 +3646,52 @@ Notes
 0621
 Laugh at misfortune. There is nothing so able,
 To triumph over it. *
-PS
+(P.S. Sundaram)
 
 0622
 Misfortune may rise like a flood,
 But the wise counter it by firm thoughts.*
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0623
 Those whom grief cannot grieve
 Can grieve grief itself. *
-PS
+(P.S. Sundaram)
 
 0624
 Trouble is troubled by him who like a bull
 Drags his cart through every hurdle.
-PS
+(P.S. Sundaram)
 
 0625
 The resolute can put their troubles to trouble
 Even if it comes relentlessly.
-NV
+(N.V.K. Ashraf)
 
 0626
 Will they whine "We have nothing",
 Who never crowed "We have much?"
-PS
+(P.S. Sundaram)
 Yes
 0627
 Knowing body a target of miseries,
 The great are not troubled in calamities. *
-SS, VS
+(Satguru  Subramuniyaswami), (V.V.S. Aiyar)
 
 0628
 He will never be sad who scorns delight
 And takes sorrow in his stride.
-PS
+(P.S. Sundaram)
 
 0629
 He who never exulted in joy
 Will not be depressed by sorrow.
-PS
+(P.S. Sundaram)
 
 0630
 To take pain as pleasure
 Is to gain your foe's esteem.
-PS
+(P.S. Sundaram)
 
 
 Notes:
@@ -3703,58 +3703,58 @@ Notes
 0631
 Call him minister who best contrives the means,
 The time, the mode and the deed.
-PS
+(P.S. Sundaram)
 
 0632
 A minister excels in firmness, protection,
 Learning and perseverance, besides the five tactics. *
-VR
+(V. Ramasamy)
 Yes
 0633
 An able minister can disunite allies,
 Cherish friends and reunite enemies. *
-VS
+(V.V.S. Aiyar)
 
 0634
 Call him a minister who comprehends things,
 Executes them and directs others. *
-SS
+(Satguru  Subramuniyaswami)
 
 0635
 A helpful counsellor knows the codes,
 Is learned in discourse and ever resourceful.
-PS
+(P.S. Sundaram)
 
 0636
 What is there too subtle to stand before men
 Who add learning to their intelligence? *
-VS
+(V.V.S. Aiyar)
 Yes
 0637
 Even if well-versed in theory,
 Act as per the ways of the world. *
-CR
+(C. Rajagopalachari)
 Yes
 0638
 It is a minister's duty to advise aright
 Though the ruler in ignorance may refute wisdom.
-PS, JN
+(P.S. Sundaram), (J. Narayanaswamy)
 
 0639
 Better seventy million open foes
 Than one treacherous minister inside. *
-PS
+(P.S. Sundaram)
 
 0640
 The inefficient will leave undone
 Even well-planned schemes.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-632.  VR considers that the phrase "ஐந்துடன்" in this Kural has made this couplet a difficult one to translate. It is not clear if these five tactics are amongst those mentioned in other couplets in this chapter.
-636. A short and crisp translations of these couplets [but not close to original]: "What can oppose a keen intelligence combined with learning?" - PS
-637. Another abstract translation: "However well-versed in books, be practical" - PS
+632.  (V. Ramasamy) considers that the phrase "ஐந்துடன்" in this Kural has made this couplet a difficult one to translate. It is not clear if these five tactics are amongst those mentioned in other couplets in this chapter.
+636. A short and crisp translations of these couplets [but not close to original]: "What can oppose a keen intelligence combined with learning?" - (P.S. Sundaram)
+637. Another abstract translation: "However well-versed in books, be practical" - (P.S. Sundaram)
 
 065
 Persuasiveness
@@ -3763,57 +3763,57 @@ Notes
 0641
 Real asset is the gift of speech.
 That gift is a class apart from all other gifts.
-NV
+(N.V.K. Ashraf)
 
 0642
 Speech can both make and mar,
 And hence guard it from negligence. *
-PS
+(P.S. Sundaram)
 
 0643
 A speech should hold fast the convinced
 And be pleasing even to the unconvinced.
-CR
+(C. Rajagopalachari)
 
 0644
 Speak to the capacity of the audience.
 Nothing more virtuous or valuable than this. *
-SS, CR
+(Satguru  Subramuniyaswami), (C. Rajagopalachari)
 
 0645
 Utter not a word without making sure
 There is no other word to beat it.
-SM
+(S. Maharajan)
 Yes
 0646
 To speak as desired and gain from what others say
 Is the hallmark of spotless men. *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0647
 An eloquent, tireless and fearless speaker
 Can rarely be prevailed upon by any one.
-NV
+(N.V.K. Ashraf)
 
 0648
 The world will rush and listen to those
 Who can to speak orderly and pleasingly.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 Yes
 0649
 Those fond of talking much
 Cannot be brief and faultless.
-PS
+(P.S. Sundaram)
 
 0650
 Those who can't express what they have learnt
 Are a bunch of flowers without scent. *
-SB
+( Shuddhananda Bharatiar)
 
 
 Notes:
 645. A short and crisp translation but not close to original: "One must speak only after considering possible counter arguments" - KV
-648. An interesting alternate translation: "Swiftly will the world gather around men who can speak weighty themes in lighter vein" - GU, NV
+648. An interesting alternate translation: "Swiftly will the world gather around men who can speak weighty themes in lighter vein" - (G.U. Pope), (N.V.K. Ashraf)
 
 066
 Honest dealing
@@ -3822,52 +3822,52 @@ Notes
 0651
 Good alliance brings success;
 And good deeds all one needs. *
-MS, PS
+(M.S. Poornalingam Pillai), (P.S. Sundaram)
 
 0652
 Avoid always deeds that do not lead to
 Lasting good and fame. *
-PS
+(P.S. Sundaram)
 
 0653
 Those who seek greatness must avoid
 What will stain their name.
-PS
+(P.S. Sundaram)
 
 0654
 Men of clear understanding
 Will not do mean acts even in distress.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0655
 Do not do what you will regret; and if you do,
 Better not repeat the same.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0656
 Do not do what the wise condemn
 Even to save your starving mother.
-PS
+(P.S. Sundaram)
 
 0657
 Better the pinching poverty of the wise
 Than the pile of wealth hoarded by vice.
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 0658
 Ends achieved without any regard to the means
 Will bring grief..
-NV
+(N.V.K. Ashraf)
 
 0659
 What's gained with other's tears will go in tears;
 What's won fair, though lost, will surge again. *
-PS, SI
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
 
 0660
 Stocking ill-got wealth is like storing
 Water in an unbaked pot. *
-PS, SI
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
 
 
 067
@@ -3877,57 +3877,57 @@ Notes
 0661
 Efficiency consists in a resolute mind.
 Other things come thereafter.
-CR
+(C. Rajagopalachari)
 
 0662
 To avoid failures and not to give up despite failures
 Are the two traits scholars emphasize.
-NV
+(N.V.K. Ashraf)
 
 0663
 Reveal thy means in the end. Premature disclosure
 Can cause irrevocable damage.
-NV, KV
+(N.V.K. Ashraf), KV
 
 0664
 It is easy for anyone to speak,
 But difficult to execute what has been spoken. *
-SS
+(Satguru  Subramuniyaswami)
 
 0665
 Dynamic deeds of brave souls
 Will reach the king to win his praise.
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 0666
 What is sought will be got as desired
 If only the seeker is determined.
-NV
+(N.V.K. Ashraf)
 Yes
 0667
 Despise not by looks! Even linchpins hold in place
 The wheels of mighty chariots! *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0668
 Acts resolved without ambiguity
 Should be unwaveringly carried out without delay.
-NV
+(N.V.K. Ashraf)
 Yes
 0669
 However great the hardship,
 Pursue with firmness the act that yields bliss.
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0670
 The world has no place for those who,
 Despite other strengths, have no strength of firmness.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 
 Notes:
-666. Compare with couplets 540 and 309.  "What is aimed is easy to achieve, if only the mind is set on what is aimed" – NV and "All wishes are realized at once if they keep away wrath from their mind" – NV.
-667. Compare with 279. “The lute is bent, the arrow straight: judge men not by their looks but acts” – PS 668. Compare with 671. "The end of deliberation is decision. To decide and dawdle is bad" – PS
+666. Compare with couplets 540 and 309.  "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "All wishes are realized at once if they keep away wrath from their mind" – (N.V.K. Ashraf).
+667. Compare with 279. “The lute is bent, the arrow straight: judge men not by their looks but acts” – (P.S. Sundaram) 668. Compare with 671. "The end of deliberation is decision. To decide and dawdle is bad" – (P.S. Sundaram)
 
 068
 Mode of execution
@@ -3936,37 +3936,37 @@ Notes
 0671
 The end of deliberation is decision.
 To decide and dawdle is bad.
-PS
+(P.S. Sundaram)
 Yes
 0672
 Delay where delay is needed,
 But do not delay when you must act.
-PS
+(P.S. Sundaram)
 
 0673
 Better strike wherever possible;
 Elsewhere, consider other feasible means. *
-PS
+(P.S. Sundaram)
 
 0674
 Both tasks and foes, if left unfinished,
 Will destroy like fire left un-extinguished. *
-SS, SB
+(Satguru  Subramuniyaswami), ( Shuddhananda Bharatiar)
 
 0675
 Five things should be pondered before you act:
 Resources, weapons, time, place and deed.
-PS
+(P.S. Sundaram)
 
 0676
 Weigh well before you plunge:
 The inputs, impediments and gain.
-PS
+(P.S. Sundaram)
 Yes
 0677
 Experts have the expertise.
 Get that expertise by knowing him inside out.
-DZ, NV
+(S.M. Diaz), (N.V.K. Ashraf)
 Yes
 0678
 Let one target be achieved through one's action,
@@ -3981,13 +3981,13 @@ KV
 0680
 If you are weak and fear internal trouble,
 Seize conciliation with the strong. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-671. Compare with 668. "Acts resolved without ambiguity should be unwaveringly carried out without delay" - NV
-676. Compare with 461. Act after taking into account the cost, the benefit and the net. - PS
-677. Different renderings, though not literal: [i] "The way to do a thing is to get inside an insider" - PS [ii] "In considering how to accomplish a task, one must go by the experience of others" - KV 
+671. Compare with 668. "Acts resolved without ambiguity should be unwaveringly carried out without delay" - (N.V.K. Ashraf)
+676. Compare with 461. Act after taking into account the cost, the benefit and the net. - (P.S. Sundaram)
+677. Different renderings, though not literal: [i] "The way to do a thing is to get inside an insider" - (P.S. Sundaram) [ii] "In considering how to accomplish a task, one must go by the experience of others" - KV 
 
 069
 Envoys
@@ -3996,52 +3996,52 @@ Notes
 0681
 Kindliness, high birth, and a nature pleasing to kings
 Are the qualities of an envoy. *
-SS
+(Satguru  Subramuniyaswami)
 
 0682
 An envoy's three essentials
 Are loyalty, intelligence and sagacious speech.
-PS
+(P.S. Sundaram)
 
 0683
 An envoy should be a scholar among the learned
 To succeed among the powerful.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0684
 Let him go on a mission who has these three:
 Wisdom, personality and scholarship. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0685
 An envoy's words should be compact,
 Unoffending, pleasant and useful.
-PS
+(P.S. Sundaram)
 
 0686
 An envoy should be well-read, fearless, persuasive,
 And know what fits the occasion. *
-PS, MS
+(P.S. Sundaram), (M.S. Poornalingam Pillai)
 
 0687
 The best know their mission, bide their time,
 Wait for the occasion and think before speaking.
-NV
+(N.V.K. Ashraf)
 
 0688
 A truthful messenger should have these three qualities:
 Goodness, friendliness and boldness.
-NV
+(N.V.K. Ashraf)
 
 0689
 A king's herald will not even negligently
 Utter words that leave a stain.
-PS
+(P.S. Sundaram)
 
 0690
 A brave envoy braves his life to safeguard
 The ruler's interests at any cost. *
-JN
+(J. Narayanaswamy)
 
 
 070
@@ -4051,56 +4051,56 @@ Notes
 0691
 Courtiers round a king, like men before a fire,
 Should be neither too far nor too near.
-PS
+(P.S. Sundaram)
 
 0692
 The way to gain gifts from a king
 Is not to covet what he covets.
-PS
+(P.S. Sundaram)
 
 0693
 Beware and ward off faults.
 Suspicion once aroused is hard to clear. *
-PS
+(P.S. Sundaram)
 
 0694
 Whisper not, nor exchange smiles,
 Amidst illustrious august men. *
-SB
+( Shuddhananda Bharatiar)
 
 0695
 Don't eavesdrop or pursue a king's secret.
 Rather listen when secrets are revealed. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0696
 Know his mood, consider the moment,
 Avoid the unpleasant and speak the needful.
-NV
+(N.V.K. Ashraf)
 
 0697
 Tell the useful and even when asked
 Avoid always the useless.
-PS
+(P.S. Sundaram)
 
 0698
 Don't treat him lightly as young or kin
 But act as befits his splendour.
-PS
+(P.S. Sundaram)
 
 0699
 Those with unwavering vision
 Do not misuse their privileges and do wrong.
-NV, JN
+(N.V.K. Ashraf), (J. Narayanaswamy)
 
 0700
 Unworthy acts under the trust of old friendship
 Lead to ruinous woes.
-JN
+(J. Narayanaswamy)
 Yes
 
 Notes:
-700. In couplet 805 Valluvar says "When friends hurt, attribute it to either ignorance or privileges of friendship" * - SS
+700. In couplet 805 Valluvar says "When friends hurt, attribute it to either ignorance or privileges of friendship" * - (Satguru  Subramuniyaswami)
 
 
 Division II. Wealth (Continued)
@@ -4112,52 +4112,52 @@ Notes
 0701
 He is a jewel on this sea-girt earth
 Who can read a thought without being told.
- PS
+ (P.S. Sundaram)
 
 0702
 Deem that man on par with God
 Who can divine with conviction what is in the heart.
- NV, VS
+ (N.V.K. Ashraf), (V.V.S. Aiyar)
 
 0703
 He is worth any price who by intuition
 can read another's thought.
- PS
+ (P.S. Sundaram)
 
 0704
 A thought reader may resemble other men
 But is a class apart.
- PS, NV
+ (P.S. Sundaram), (N.V.K. Ashraf)
 
 0705
 What use are the eyes among senses,
 If they cannot read a man's thoughts on his face? *
- PS
+ (P.S. Sundaram)
 
 0706
 Like a mirror that shows what is in front,
 The face reveals the affairs of the mind. *
- PS, NV
+ (P.S. Sundaram), (N.V.K. Ashraf)
 
 0707
 What can be more expressive than the face
 To reveal the mind's pleasure and pain?
- NV
+ (N.V.K. Ashraf)
 
 0708
 Just standing in front would suffice
 For those who can read the mind on face.
- SB
+ ( Shuddhananda Bharatiar)
 
 0709
 Those familiar with the language of eyes
 Can read from eyes both love and hatred. *
- SS, JN
+ (Satguru  Subramuniyaswami), (J. Narayanaswamy)
 
 0710
 You will find smart people use nothing but eyes
 As a yardstick for measure.
- NV
+ (N.V.K. Ashraf)
 
 
 072
@@ -4167,52 +4167,52 @@ Notes
 0711
 Meticulous masters of words
 Must judge the council before they speak.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0712
 Should skilled orators wish to speak,
 Let them study the occasion with care. *
-PS
+(P.S. Sundaram)
 Yes
 0713
 Only poor orators, good for nothing, speak at length
 Without knowing the audience. *
-PS
+(P.S. Sundaram)
 
 0714
 Before the bright, be brilliant light.
 Before the dull, assume mortar white. *
-SB
+( Shuddhananda Bharatiar)
 Yes
 0715
 The best amongst all good qualities
 Is the modesty to holdback before elders. *
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0716
 To slip before men of wide learning
 Is like slipping from the path of righteousness. *
-SB
+( Shuddhananda Bharatiar)
 Yes
 0717
 The scholarship of a scholar shines
 In an assembly of meticulous scholars. *
-PS
+(P.S. Sundaram)
 
 0718
 Speaking before a receptive audience
 Is like watering a nursery of growing plants.
-NV
+(N.V.K. Ashraf)
 
 0719
 Don't tell an assembly of fools even forgetfully
 Things meant for the wise.
-PS
+(P.S. Sundaram)
 
 0720
 To deliberate with people of dissimilar interests
 Is like spilling nectar in the drain. *
-KK
+(K. Kannan)
 
 
 Notes:
@@ -4226,55 +4226,55 @@ Notes
 0721
 The pure skillful orators, knowing the council's strength,
 Never fail in their speech. *
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 0722
 Most learned among the learned is he
 Whose learning the learned accept.
-PS
+(P.S. Sundaram)
 
 0723
 Many are ready to even die in battle,
 But few can face an assembly without nerves.
-NV
+(N.V.K. Ashraf)
 
 0724
 Let the learned learn from you,
 And you from one more learned.
-PS
+(P.S. Sundaram)
 
 0725
 Study the science of logic so that you may
 Fearlessly reply in any assembly.
-SS
+(Satguru  Subramuniyaswami)
 
 0726
 What use is a sword to cowards
 And books to those who fear assembly? *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0727
 As a sword to a eunuch before his foes,
 Is the learning to one who fears assembly. *
-GU, VS
+(G.U. Pope), (V.V.S. Aiyar)
 Yes
 0728
 They are useless however learned
 Who cannot impress a learned assembly. *
-PS
+(P.S. Sundaram)
 
 0729
 Scholars dread of facing an assembly of good men
 Are ranked lower than the ignorant.
-NV
+(N.V.K. Ashraf)
 
 0730
 Those stage-fearing who keep their learning to themselves,
 Though living, are dead. *
-PS 
+(P.S. Sundaram) 
 
 Notes:
-727: Compare with 726. Very similar import but words employed by Valluvar for composition are different. Also with 614: “The liberality of the indolent man will not endure, like a sword in eunuch’s hand”.* (VS)
+727: Compare with 726. Very similar import but words employed by Valluvar for composition are different. Also with 614: “The liberality of the indolent man will not endure, like a sword in eunuch’s hand”.* ((V.V.S. Aiyar))
 074
 Country
 Translators
@@ -4282,56 +4282,56 @@ Notes
 0731
 Unfailing harvests, learned men and honest traders
 Constitute a country. *
-PS
+(P.S. Sundaram)
 
 0732
 A land is known for its great wealth
 Of abundant produce that never declines.
-NV
+(N.V.K. Ashraf)
 
 0733
 An ideal land bears all burdens that befall
 And yet pays all taxes to the king. *
-PS
+(P.S. Sundaram)
 
 0734
 That is a land which is free of much hunger,
 Incessant plagues and ravaging enemies.
-NV
+(N.V.K. Ashraf)
 
 0735
 That is a land free from factions,
 Ruinous traitors and terrorists harassing kings.
-MS, JN
+(M.S. Poornalingam Pillai), (J. Narayanaswamy)
 
 0736
 Call that a leading land that knows no evil days,
 And whose yields don't cease even if they come. *
-PS
+(P.S. Sundaram)
 
 0737
 A land's limbs are waters from rains,
 Springs and well placed hills, and strong fortress. *
-PS
+(P.S. Sundaram)
 Yes
 0738
 A country's jewels are these five: Unfailing health,
 Fertility, joy, security and wealth. *
-GU
+(G.U. Pope)
 
 0739
 Call that a land which yields without toil.
 That is no land where toil precedes yield. *
-PS
+(P.S. Sundaram)
 
 0740
 Even if endowed with all blessings, a country is no worth
 If not blessed with a ruler. *
-VS
+(V.V.S. Aiyar)
 
 
 Notes:
-737. Compare with 742. "Blue water, open space, hills and thick forests constitute a fortress. - PS
+737. Compare with 742. "Blue water, open space, hills and thick forests constitute a fortress. - (P.S. Sundaram)
 075
 Fortress
 Translators
@@ -4339,56 +4339,56 @@ Notes
 0741
 A fortress is an asset to the offender
 As well as to those who seek refuge in defence.
-NV
+(N.V.K. Ashraf)
 
 0742
 Blue water, open space, hills and thick forests
 Constitute a fortress.
-PS
+(P.S. Sundaram)
 Yes
 0743
 Books declare that a fort should have these four:
 Height, breadth, strength and difficult access. *
-GU
+(G.U. Pope)
 
 0744
 A fortress, ample in space and easy to defend,
 Spoils the might of the foe. *
-JN
+(J. Narayanaswamy)
 
 0745
 A good fortress is hard to seize, well-supplied
 And suited to those within.
-PS
+(P.S. Sundaram)
 
 0746
 With all materials stocked inside,
 A fort should have brave soldiers as well. *
-KV, PS
+KV, (P.S. Sundaram)
 
 0747
 Hard to capture a fort that withstands
 Besieging, artillery and treachery.
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0748
 Even if encircled by besieging foes,
 A fortress enables the besieged to win.
-NV
+(N.V.K. Ashraf)
 
 0749
 A good fort gains fame frustrating its siege
 At the outset of the battle. *
-PS
+(P.S. Sundaram)
 
 0750
 A fortress, however grand, amounts to nothing
 If its defenders are meek.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
-742. Compare with 737. "A land's limbs are waters from rains, springs and well placed hills, and strong fortress" * - PS
+742. Compare with 737. "A land's limbs are waters from rains, springs and well placed hills, and strong fortress" * - (P.S. Sundaram)
 076
 Acquiring wealth
 Translators
@@ -4396,55 +4396,55 @@ Notes
 0751
 There is nothing like wealth
 To make the worthless worthy.
-PS
+(P.S. Sundaram)
 
 0752
 Everyone despises the poor
 While the rich are exalted by all.
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0753
 The unfailing light called wealth can dispel darkness
 Even in far reaching lands.
-NV
+(N.V.K. Ashraf)
 
 0754
 Wealth acquired sinless and well,
 Yields both virtue and happiness.
-PS
+(P.S. Sundaram)
 
 0755
 Discard and let go the wealth
 Obtained without love and grace.
-NV
+(N.V.K. Ashraf)
 Yes
 0756
 Unclaimed wealth, spoils of war and wealth from taxes
 Are all rulers' wealth. *
-DL, SS
+(W.H. Drew and  J. Lazarus), (Satguru  Subramuniyaswami)
 
 0757
 The offspring of love 'graciousness' is nursed
 By that generous foster-mother 'wealth'.
-JN, NV
+(J. Narayanaswamy), (N.V.K. Ashraf)
 
 0758
 A wealthy man's undertakings
 Are like elephant-fights witnessed from a hill.
-PS
+(P.S. Sundaram)
 
 0759
 Stock wealth: no steel sharper than that
 To cut down your foe's pride.
-PS
+(P.S. Sundaram)
 
 0760
 He who makes glorious wealth in plenty,
 Gains the other two treasures together. *
- MS
+ (M.S. Poornalingam Pillai)
 Yes
 Notes:
-755: A short and crisp translations, but not close to original: "Wealth unblessed by giver and taker should not be touched" – PS
+755: A short and crisp translations, but not close to original: "Wealth unblessed by giver and taker should not be touched" – (P.S. Sundaram)
 760. The other two of Trivarga: i.e. Virtue and Love.
 077
 Excellence of an army
@@ -4453,55 +4453,55 @@ Notes
 0761
 A well organized army unafraid of obstacles
 Is a ruler's greatest of all possessions.
-NV
+(N.V.K. Ashraf)
 
 0762
 Only seasoned armies show courage in dire straits,
 To stand fearless despite decimation.
-PS, KK
+(P.S. Sundaram), (K. Kannan)
 Yes
 0763
 So what if an army of rats roar like the sea?
 The hiss of a cobra will silence it.
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0764
 A true army has a long tradition of valour
 And knows neither defeat nor desertion. *
-SS
+(Satguru  Subramuniyaswami)
 
 0765
 A capable army stands together and defies
 Even if yama attacks in fury. *
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0766
 Valour, honour, tradition of chivalry and credibility;
 These four alone are an army's safeguards. *
-DL
+(W.H. Drew and  J. Lazarus)
 Yes
 0767
 An army should withstand and confound
 The foe's tactics, and advance.
-PS
+(P.S. Sundaram)
 
 0768
 Even if lacking in virtue of offence and defence,
 An army can gain fame by virtue of its size
-NV
+(N.V.K. Ashraf)
 
 0769
 An army can triumph if it is free from diminution,
 Irrevocable aversion and poverty. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0770
 However many and solid the soldiers,
 An army without a chief will lose its way. *
-PS
+(P.S. Sundaram)
 
 Notes:
-762. SI gives an abstract translation: "When things go wrong, only veterans can stem the rot and turn the tide"
+762. (K.R. Srinivasa Iyengar) gives an abstract translation: "When things go wrong, only veterans can stem the rot and turn the tide"
 976. yama = God of Death.
  
 078
@@ -4511,52 +4511,52 @@ Notes
 0771
 "Foes! Don't stand before my chief.
 Many who stood now stand as stones!" *
-PS
+(P.S. Sundaram)
 
 0772
 Better collect the spear that missed an elephant
 Than the arrow that killed a hare. *
-PS
+(P.S. Sundaram)
 
 0773
 Fierce courage is what they call valour,
 But to help a foe in distress cuts deeper. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0774
 Losing his spear hurled at a tusker,
 A hero grabs happily the one that pierced him. *
-PS
+(P.S. Sundaram)
 Yes
 0775
 Is it not shameful for a hero to even let his
 Watchful eyes wink when a spear is hurled?
-NV
+(N.V.K. Ashraf)
 
 0776
 The brave shall deem all the days devoid of battle wounds
 As days gone waste.
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 0777
 That hero, who gives up his life for fame,
 Is worthy of being adorned with the anklet. *
-PS
+(P.S. Sundaram)
 
 0778
 Even a king's wrath cannot hold back heroes
 Who do not fear their lives in battle. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0779
 Who dares to despise a man for not fulfilling
 A pledge he died to fulfill?
-PS
+(P.S. Sundaram)
 
 0780
 If death lies in glory that draws tears from the ruler,
 It is worth seeking even in alms. *
-JN
+(J. Narayanaswamy)
 
 
 Notes:
@@ -4568,58 +4568,58 @@ Notes
 0781
 What greater security exists than a secure friendship
 As a protection against foes? *
-SS
+(Satguru  Subramuniyaswami)
 
 0782
 Wise men's friendship waxes like the crescent
 And fools', like the full moon, wanes.
-PS
+(P.S. Sundaram)
 
 0783
 Being with good friends is like reading good books.
 More time you spend, more the delight.
-NV
+(N.V.K. Ashraf)
 
 0784
 Friendship is not for merriment
 But for stern reproach when friends go astray.
-NV
+(N.V.K. Ashraf)
 Yes
 0785
 Identity of feelings makes friendship.
 No need for friends to meet and long together. *
-CR
+(C. Rajagopalachari)
 
 0786
 A smiling face alone makes no friendship,
 But the heart should also smile with the face. *
-VR
+(V. Ramasamy)
 
 0787
 Friendship saves from ruin, guides towards right,
 And shares the pain of distress. *
-PS, GU
+(P.S. Sundaram), (G.U. Pope)
 
 0788
 Swift as the hand seizing a slipping garment,
 Friendship acts to assuage a friend in distress. *
-SS
+(Satguru  Subramuniyaswami)
 
 0789
 What is the throne of friendship? It is that resolve
 Of unfailing support given at all time.
-NV
+(N.V.K. Ashraf)
 
 0790
 To boast, "He means so much to me and I to him,"
 Merely demeans a friendship.
-SS
+(Satguru  Subramuniyaswami)
 Yes
 
 Notes:
-784. Compare with 447 and 795. "Who can ruin the man who commands the friendship of those who can reprove him?" –VS. "Seek a friend who will make you cry, rail and rate when you go astray" – PS
-786. Compare with 824. "Beware of those deceits who, with a smiling face, conceal bitterness in their hearts." - NV. Also with 786. Also with 93: “This alone is charity: A welcome with a smiling face and sweet words from the heart” PS, NV
-790. In other words: "Where competing claims are boastfully made, that friendship is demeaning" * - SI
+784. Compare with 447 and 795. "Who can ruin the man who commands the friendship of those who can reprove him?" –(V.V.S. Aiyar). "Seek a friend who will make you cry, rail and rate when you go astray" – (P.S. Sundaram)
+786. Compare with 824. "Beware of those deceits who, with a smiling face, conceal bitterness in their hearts." - (N.V.K. Ashraf). Also with 786. Also with 93: “This alone is charity: A welcome with a smiling face and sweet words from the heart” (P.S. Sundaram), (N.V.K. Ashraf)
+790. In other words: "Where competing claims are boastfully made, that friendship is demeaning" * - (K.R. Srinivasa Iyengar)
 080
 Choosing friends
 Translators
@@ -4627,57 +4627,57 @@ Notes
 0791
 Nothing worse than befriending one untried,
 For friends once made should last forever.
-NV, KS
+(N.V.K. Ashraf), (Kasthuri Sreenivasan)
 
 0792
 Friendship made without enquiries
 Can cause lifetime trouble. *
-SI
+(K.R. Srinivasa Iyengar)
 Yes
 0793
 Make one a friend after knowing his nature,
 Family, fellows and flaws.
-PS
+(P.S. Sundaram)
 
 0794
 A man of birth and scrupulous honour
 Is worth seeking even at a price.
-PS
+(P.S. Sundaram)
 
 0795
 Seek a friend who will make you cry,
 Rail and rate when you go astray.
-PS
+(P.S. Sundaram)
 Yes
 0796
 Is there any yardstick better than adversity,
 To spread out and measure friends? *
-PS
+(P.S. Sundaram)
 
 0797
 It is a gain by itself if one gets away
 From the friendship of fools.
-CR
+(C. Rajagopalachari)
 
 0798
 Dwell not in thoughts that dim your spirit
 And befriend not those who desert in affliction. *
-SS
+(Satguru  Subramuniyaswami)
 
 0799
 The thought of friend's betrayal in need
 Rankles even on the deathbed. *
-PS
+(P.S. Sundaram)
 
 0800
 Seek the friendship of the pure, and shake off
 The worthless even at a price.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-792. Short and crisp translation of this couplet [but not close to original]: "Make friends in haste and repent at leisure" – PS
-795. Compare with 784: "Friendship is not for merriment but for stern reproach when friends go astray" - NV
+792. Short and crisp translation of this couplet [but not close to original]: "Make friends in haste and repent at leisure" – (P.S. Sundaram)
+795. Compare with 784: "Friendship is not for merriment but for stern reproach when friends go astray" - (N.V.K. Ashraf)
 800. Compare with 794 for similar ideas.  Seek the worthy and shake off the worthless, even at a price.
 
 
@@ -4690,56 +4690,56 @@ Notes
 0801
 Call that an old friendship
 Where liberties are not resented.
-PS
+(P.S. Sundaram)
 
 0802
 True friendship permits liberties and to concede to it
 Is the duty of the wise. *
-KK
+(K. Kannan)
 
 0803
 What is that intimacy which does not approve
 And reciprocate liberties?
-PS
+(P.S. Sundaram)
 
 0804
 The wise take in good spirit if friends, by right of familiarity,
 Do things without asking. *
-SS, DL
+(Satguru  Subramuniyaswami), (W.H. Drew and  J. Lazarus)
 
 0805
 When friends hurt, attribute it to either ignorance
 Or privileges of friendship. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0806
 Those bound by intimacy never desert their old pals
 Even if they bring loss. *
-SS
+(Satguru  Subramuniyaswami)
 
 0807
 In a friendship built on love, friends do not cease to love
 Even when there is betrayal. *
-GU, NV
+(G.U. Pope), (N.V.K. Ashraf)
 
 0808
 Close friends who won't listen to friend's faults,
 Hail in silence the day they offend. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0809
 The world will cherish those friends
 Who never forsake old, unbroken friendships.
-SS
+(Satguru  Subramuniyaswami)
 
 0810
 Even adversaries admire the character of old friends
 Who don't part.
-NV, JN
+(N.V.K. Ashraf), (J. Narayanaswamy)
 
 
 Notes:
-805. Compare with 700. "Unworthy acts under the trust of old friendship lead to ruinous woes" - JN
+805. Compare with 700. "Unworthy acts under the trust of old friendship lead to ruinous woes" - (J. Narayanaswamy)
 082
 Bad friendship
 Translators
@@ -4747,56 +4747,56 @@ Notes
 0811
 The hypocrite's flattering friendship pleases more
 As it wanes than as it grows. *
-SI
+(K.R. Srinivasa Iyengar)
 
 0812
 What matters if one gain or lose that unsettling friendship
 Which sticks and ends at will?
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 Yes
 0813
 Those who weigh friendship for gain
 Are no different from whores and frauds.
-NV
+(N.V.K. Ashraf)
 
 0814
 Better to be alone than befriend those,
 Who, like a broken horse, throw you down.
-NV
+(N.V.K. Ashraf)
 
 0815
 Better to forfeit than seek the friendship of the base
 Who betray at need. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0816
 A wise man's enmity is a million of times better
 Than a fool's fast friendship. *
-PS
+(P.S. Sundaram)
 
 0817
 Ten million times better the enmity of foes
 Than the friendship of jesters and fools. *
-PS
+(P.S. Sundaram)
 
 0818
 Drop silently the friends who pose
 And won't help when they can.
-PS
+(P.S. Sundaram)
 
 0819
 Friends whose words differ from their deeds
 Distress even in dreams.
-PS
+(P.S. Sundaram)
 
 0820
 Keep them far off who are friends at home
 And foes in public.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-812: A short and crisp translation, but not close to original:  "What matters if one gain or lose a motivated friendship?" – PS
+812: A short and crisp translation, but not close to original:  "What matters if one gain or lose a motivated friendship?" – (P.S. Sundaram)
 
 083
 False friendship
@@ -4805,57 +4805,57 @@ Notes
 0821
 Posing friends treat you like an anvil
 To strike you at the opportune time. *
- DZ, KV
+ (S.M. Diaz), KV
 
 0822
 Fickle as a woman's heart is the friendship of those
 Who act like friends.
- PS, NV
+ (P.S. Sundaram), (N.V.K. Ashraf)
 
 0823
 Hard for the ignoble to be good-hearted,
 No matter how well educated they are. *
- MS
+ (M.S. Poornalingam Pillai)
 
 0824
 Beware of those deceits who, with a smiling face,
 Conceal bitterness in their hearts.
- NV
+ (N.V.K. Ashraf)
 
 0825
 Trust not the mere words of those
 Whose minds don't agree with us. *
- PS
+ (P.S. Sundaram)
 Yes
 0826
 A foe's words though seem friendly and good
 Can be read at once. *
- PS
+ (P.S. Sundaram)
 
 0827
 Trust not the bowing speech of your foe.
 A bending bow is a sign of imminent danger.
- PS, NV
+ (P.S. Sundaram), (N.V.K. Ashraf)
 
 0828
 Like a dagger concealed in folded hands
 Is the mourning tears of foes. *
- PS, NV
+ (P.S. Sundaram), (N.V.K. Ashraf)
 
 0829
 Cajole and crush with friendly guise
 Those who flatter you but despise within. *
- SB, PS
+ ( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 0830
 While playing a friend to foes, keep a friendly face
 But banish them from thy heart.
-  JN, SS
+  (J. Narayanaswamy), (Satguru  Subramuniyaswami)
 
 
 Notes:
-824. Compare with 786. "A smiling face alone makes no friendship, but the heart should also smile with the face." * - VR
-825: A short and crisp translation but not close to original: "When minds do not agree don't trust mere words" - PS
+824. Compare with 786. "A smiling face alone makes no friendship, but the heart should also smile with the face." * - (V. Ramasamy)
+825: A short and crisp translation but not close to original: "When minds do not agree don't trust mere words" - (P.S. Sundaram)
 084
 Folly
 Translators
@@ -4863,56 +4863,56 @@ Notes
 0831
 If there is a thing called folly,
 It is seizing what brings ill and letting the good slip. *
-PS
+(P.S. Sundaram)
 
 0832
 Folly among follies is the fondness for doing things
 Beyond one's reach. *
-JN, CR
+(J. Narayanaswamy), (C. Rajagopalachari)
 Yes
 0833
 Shamelessness, aimlessness, callousness and listlessness
 Are marks of foolishness. *
-SB
+( Shuddhananda Bharatiar)
 
 0834
 There is no greater fool than he
 Who has studied and taught, but lacks control.
-PS
+(P.S. Sundaram)
 
 0835
 A fool does deeds in a single birth
 That will plunge him in hell in the succeeding seven.
-PS
+(P.S. Sundaram)
 
 0836
 When a half-baked fool takes on a task,
 The task is undone, and so is he! *
-PS
+(P.S. Sundaram)
 
 0837
 Should a fool get hold of a great fortune,
 Strangers will feast while his kindred starve. *
-VS
+(V.V.S. Aiyar)
 
 0838
 A fool getting hold of wealth
 Is like a lunatic getting drunk.
-PS
+(P.S. Sundaram)
 
 0839
 Sweet indeed is a fool's friendship,
 For when it breaks there is no pain.
-PS
+(P.S. Sundaram)
 
 0840
 A fool's entry into a learned assembly
 Is like entering a shrine with unclean legs.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 Yes
 
 Notes:
-832. The interpretation of this couplet could vary depending on how the words in the second line are combined and read. One way is to split as: "கை அல்லதன்கண் செயல்".  The other way is: "கைஅல்ல தன்கண் செயல்." The translation given above is based on the second method of word combination. If we are to follow the first, an equally valid translation is "The folly of all follies is to enjoy doing what one is forbidden to do" – SS.
+832. The interpretation of this couplet could vary depending on how the words in the second line are combined and read. One way is to split as: "கை அல்லதன்கண் செயல்".  The other way is: "கைஅல்ல தன்கண் செயல்." The translation given above is based on the second method of word combination. If we are to follow the first, an equally valid translation is "The folly of all follies is to enjoy doing what one is forbidden to do" – (Satguru  Subramuniyaswami).
 840. The word "பள்ளி" here is usually taken by almost all translators as "bed". If we are to translate "கழாக் கால் பள்ளியுள் வைத்தற்றால்" as "placing a dirty foot on a clean bed" – as it is usually done – then the phrase employed by Valluvar should have been "பள்ளிமேல்" and not "பள்ளியுள்" as is the case here. The monasteries of the Jains and Buddhist monks were called "பள்ளி" in the ancient Tamil country [Varadarajan, 1988]. Following the near total disappearance of Buddhism and Jainism from Southern India, this word has now been used to denote the places of worship of Muslims and Christians. Hindu temples were always called by the names கோயில், ஆலயம், அம்பலம் and never by the word பள்ளி. 
 
 085
@@ -4922,52 +4922,52 @@ Notes
 0841
 The lack of lacks is the lack of knowledge.
 Other lacks are not deemed such by the world.
-PS
+(P.S. Sundaram)
 
 0842
 Should a fool gift a thing heartily, it is nothing but
 Due to the penance of the recipient. *
-SM
+(S. Maharajan)
 
 0843
 The harm fools do to themselves
 Is beyond anything their foes do to them.
-PS
+(P.S. Sundaram)
 
 0844
 What is stupidity? It is that vanity
 Which dares to declare, "I am wise."
-SS
+(Satguru  Subramuniyaswami)
 
 0845
 Pretence to learning not learnt,
 Calls in question the learning learnt.
-PS
+(P.S. Sundaram)
 
 0846
 Can a fool be said to be clothed
 When his faults lie exposed?
-PS
+(P.S. Sundaram)
 
 0847
 A fool who can't hold on to rare secrets
 Does great harm to himself.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0848
 Heeds no advice; knows nothing wise;
 His life is an illness till he dies.
-KS
+(Kasthuri Sreenivasan)
 
 0849
 He is a fool, who tries to open the eyes of a fool,
 For a fool sees things only his own way. *
-VS
+(V.V.S. Aiyar)
 
 0850
 He who denies what the world affirms
 Will be thought a demon on earth. *
- PS
+ (P.S. Sundaram)
 
 
 086
@@ -4977,22 +4977,22 @@ Notes
 0851
 Hatred, they say, is the disease
 That spreads the plague of discord among all life. *
-SS
+(Satguru  Subramuniyaswami)
 
 0852
 Even if disagreeable things are done to cause rift,
 Better do nothing painful to avoid conflict. *
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 
 0853
 If that dire disease called hostility is discarded,
 What yields is undying everlasting fame. *
-MS
+(M.S. Poornalingam Pillai)
 
 0854
 When the misery of miseries called malice ceases,
 There comes the joy of joys. *
-PS
+(P.S. Sundaram)
 
 0855
 Who can ever overcome the one,
@@ -5002,27 +5002,27 @@ KV
 0856
 Want and ruin will soon befall the life of one
 Who delights in excess hostility. *
-KS, NV
+(Kasthuri Sreenivasan), (N.V.K. Ashraf)
 Yes
 0857
 Those learned rapt up in destructive hate
 Will never see the triumphant nature of truth. *
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0858
 To resist hatred is a gain.
 Yielding to it, one is overcome by ruin. *
-PS, KV
+(P.S. Sundaram), KV
 
 0859
 Destined to prosper one will not look at hatred.
 Destined for ruin, one will see it all the time.
-PS
+(P.S. Sundaram)
 
 0860
 From hatred comes all evil.
 And from friendship the pride of goodness.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 
 Notes:
@@ -5034,47 +5034,47 @@ Notes
 0861
 Avoid opposing the strong.
 Cherish your desire of enmity with the weak. *
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 
 0862
 No love, great support, or own strength has he!
 How can he survive a strong enemy? *
-MS, SB
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 
 0863
 A coward, ignorant, unsocial and mean
 Is an easy prey to his enemy.
-PS
+(P.S. Sundaram)
 
 0864
 The unrestrained and angry are an easy prey
 To anyone, anytime, anywhere.
-PS
+(P.S. Sundaram)
 
 0865
 Foes prefer the tactless and shameless one
 Who cares not for codes and scorns.
-NV
+(N.V.K. Ashraf)
 
 0866
 Those with blind fury and inordinate lust
 Are vulnerable enemies to be nursed with.
-NV
+(N.V.K. Ashraf)
 
 0867
 He is a foe worth purchasing
 Who starts a fight and does all wrong.
-PS
+(P.S. Sundaram)
 
 0868
 Enemies will rejoice the one
 With no virtues, many vices, and no allies. *
-VS
+(V.V.S. Aiyar)
 
 0869
 Enemies' joy has no bounds
 When they get a fool and coward as a foe. *
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 0870
 No glory or gain can ever come to one
@@ -5083,7 +5083,7 @@ KV
 Yes
 
 Notes:
-870. A couplet that has been translated differently by different authors: SS puts it as: "Fame will escape the grasp of those who fail to grasp the wealth of fools who failed to learn". Manakkudavar, one of the great ancient commentators of Kural, takes these words "கல்லான், வெகுளும், சிறுபொருள்" to mean "ignorant, angry and deficient" as attributes of an enemy [Diaz, 2000]. Other interesting translation is: "Fame will escape him who lets escape an easy victory over a fool" – PS. 
+870. A couplet that has been translated differently by different authors: (Satguru  Subramuniyaswami) puts it as: "Fame will escape the grasp of those who fail to grasp the wealth of fools who failed to learn". Manakkudavar, one of the great ancient commentators of Kural, takes these words "கல்லான், வெகுளும், சிறுபொருள்" to mean "ignorant, angry and deficient" as attributes of an enemy [Diaz, 2000]. Other interesting translation is: "Fame will escape him who lets escape an easy victory over a fool" – (P.S. Sundaram). 
 
 088
 Knowing enemy's strength
@@ -5092,56 +5092,56 @@ Notes
 0871
 One should never wish for the accursed thing
 Called enmity, even in jest.
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0872
 Make foes, if you must, with bowmen
 And never of men whose weapon is their tongue. *
-PS, VS
+(P.S. Sundaram), (V.V.S. Aiyar)
 
 0873
 It is worse than madness for one who has no allies,
 To make numerous enemies.
-CR
+(C. Rajagopalachari)
 
 0874
 The world is secure under one
 Whose nature can make friends of foes.
-PS
+(P.S. Sundaram)
 
 0875
 While facing two foes, unaided and alone,
 Make one your friend. *
-PS
+(P.S. Sundaram)
 
 0876
 In times of crisis, be wary of joining or opposing any,
 Whether tested or untested. *
-KV, NV
+KV, (N.V.K. Ashraf)
 
 0877
 Keep your sorrows from strangers
 And your weakness from foes. *
-PS
+(P.S. Sundaram)
 
 0878
 Engineer, execute and defend.
 Thus keep the pride of your foes at bay.
-SS, JN
+(Satguru  Subramuniyaswami), (J. Narayanaswamy)
 
 0879
 Cut a thorny shrub when young.
 Allowed to grow, it injures the hand that cuts.
-NV
+(N.V.K. Ashraf)
 
 0880
 Those who can't crush the pride of defying foes
 Will cease to breathe long. *
-VS
+(V.V.S. Aiyar)
 
 
 Notes:
-871. Compare with 995. "Mockery hurts even in jest, and hence the considerate are courteous even to their foes" * - PS
+871. Compare with 995. "Mockery hurts even in jest, and hence the considerate are courteous even to their foes" * - (P.S. Sundaram)
 
 089
 Foe within
@@ -5149,8 +5149,8 @@ Translators
 Notes
 0881
 Even shade and water unwholesome can harm
-Likewise one’s kinsmen if they hurt. * (PS)
-PS
+Likewise one’s kinsmen if they hurt. * ((P.S. Sundaram))
+(P.S. Sundaram)
 
 0882
 No need to fear an enemy wielding a sword.
@@ -5160,42 +5160,42 @@ KV
 0883
 Guard against the foe within, lest he strike you
 In times of peril like the potter's knife. *
-KK, PS
+(K. Kannan), (P.S. Sundaram)
 
 0884
 When hidden hatreds lurk in the mind,
 Myriad miseries manifest among kin. *
-SS
+(Satguru  Subramuniyaswami)
 
 0885
 Hidden hatred amongst kinsman
 Can cause all sorts of deadly sorrows. *
-SS, KV
+(Satguru  Subramuniyaswami), KV
 
 0886
 Unanimity will disappear for ever
 Once disunity arises within a union.
-NV
+(N.V.K. Ashraf)
 
 0887
 A house that harbours hatred, like a vial and its lid,
 Seems one but comes apart. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0888
 A family with internal frictions wears out
 And loses its strength like gold being filed. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0889
 Even a dissent as small as a seed,
 Can trigger that destructive internal hatred.
-NV
+(N.V.K. Ashraf)
 
 0890
 To partner one with a hidden hate
 Is to share a hut with a cobra.
-PS
+(P.S. Sundaram)
 
 
 090
@@ -5205,58 +5205,58 @@ Notes
 0891
 The best way to guard oneself is to not spite
 The powers of the prowess. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0892
 Irreverence to the great will lead
 To endless trouble through them.
-PS
+(P.S. Sundaram)
 
 0893
 If destruction you desire, provoke those
 Who in turn can destroy as they desire. *
-SS
+(Satguru  Subramuniyaswami)
 Yes
 0894
 For the weak to challenge the mighty
 Is to summon yama with the hand.
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 Yes
 0895
 Where can he go and how can he thrive,
 Who falls foul of a powerful king?
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 0896
 One may survive even if burnt in fire
 But no survival for those who offend the great. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0897
 What avails glorious life and great wealth
 If one incurs the wrath of the virtuous great? *
-SS
+(Satguru  Subramuniyaswami)
 
 0898
 If you underestimate the eminent,
 You will be shaken off the earth of all your ties. *
-MS, JN
+(M.S. Poornalingam Pillai), (J. Narayanaswamy)
 
 0899
 Even the mightiest of kings can perish midway
 If men of high repute burst in rage. *
-DL, KV
+(W.H. Drew and  J. Lazarus), KV
 
 0900
 Even men with all their might and aid
 Cannot be saved if great sages frown. *
-NV, VS
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 
 
 Notes:
-893. The import of the couplet can be summed up this way: “To offend the powerful wantonly is to ask for trouble” - PS
-894. yama is ‘god of death’.  Compare with couplet 250 where Valluvar says “When you threaten one weaker than yourself, think of yourself before a bully”. (PS)
-896. Compare with 1049 for similar idea: “One may sleep even in the midst of fire, but by no means in the midst of poverty” * - DL
+893. The import of the couplet can be summed up this way: “To offend the powerful wantonly is to ask for trouble” - (P.S. Sundaram)
+894. yama is ‘god of death’.  Compare with couplet 250 where Valluvar says “When you threaten one weaker than yourself, think of yourself before a bully”. ((P.S. Sundaram))
+896. Compare with 1049 for similar idea: “One may sleep even in the midst of fire, but by no means in the midst of poverty” * - (W.H. Drew and  J. Lazarus)
 
 References:
 Diaz, S.M. 2000. [Translator]. Tirukkural. Ramanandha Adigalar Foundation, Coimbatore. Pp 878
@@ -5271,56 +5271,56 @@ Notes
 0901
 Wives unduly exalted impede greatness.
 Ambitious men avoid that very thing. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 0902
 The affluence of a careless uxorious man
 Will buy him only shameful shame. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 0903
 Habitual submission to one’s wife
 Will always bring disrepute among the good.
-NV
+(N.V.K. Ashraf)
 
 0904
 The deeds of one who dreads his wife
 Merits little in this life or the next. *
-SS, GU
+(Satguru  Subramuniyaswami), (G.U. Pope)
 
 0905
 A man who fears his wife will always fear
 To do good things to good people. *
-GV
+(G. Vanmikanathan)
 
 0906
 Those who fear their wives' slender shoulders
 May live like gods but are not men.
-PS
+(P.S. Sundaram)
 
 0907
 Modest womanhood is greater than the manhood
 Which thrives on obeisance to wife. *
-DZ
+(S.M. Diaz)
 
 0908
 Men governed by their fair ladies cannot address
 The needs of friends nor do any good.
-VS, NV
+(V.V.S. Aiyar), (N.V.K. Ashraf)
 Yes
 0909
 Virtuous deeds, exalted wealth and other deeds
 Are not for the henpecked. *
-PS
+(P.S. Sundaram)
 
 0910
 The thoughtful and firm-willed never indulge
 In the folly of doting on their wives. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 
 
 Notes:
-908. A short and crisp translations of this couplet [but not close to original]: “A doting husband will have no time for friends or virtuous deeds” - PS
+908. A short and crisp translations of this couplet [but not close to original]: “A doting husband will have no time for friends or virtuous deeds” - (P.S. Sundaram)
 
 092
 Public women
@@ -5329,52 +5329,52 @@ Notes
 0911
 Fraught with disgrace are the sweet words
 Of jeweled women who desire wealth, not love. *
-PS
+(P.S. Sundaram)
 
 0912
 See through and avoid the immoral women
 Who talk of morals with a purpose.
-PS
+(P.S. Sundaram)
 
 0913
 A harlot’s false embrace for money is like one hired
 To clasp an alien corpse in a dark room. *
-PS, GV
+(P.S. Sundaram), (G. Vanmikanathan)
 Yes
 0914
 The wise who treasure grace desire not the false charms
 Of those who treasure wealth. *
-DL, SS
+(W.H. Drew and  J. Lazarus), (Satguru  Subramuniyaswami)
 
 0915
 Sensible men of lofty wisdom will find no joy
 In the cheap delight of public women. *
-PS, GU
+(P.S. Sundaram), (G.U. Pope)
 
 0916
 Those who would spread their own good will not touch
 Others who spread their charms for money. *
-PS
+(P.S. Sundaram)
 
 0917
 The empty-hearted alone will embrace
 The hearts that go not with their bodies.
-PS
+(P.S. Sundaram)
 
 0918
 Only those who can’t see through a false woman’s embrace
 Consider her to be an angel. *
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 0919
 The soft arms of those who sell their charm
 Are a hell that plunge the base. *
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 0920
 Fortune leaves those whose associates are
 Treacherous women, wine and dice. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
@@ -5386,32 +5386,32 @@ Notes
 0921
 Those who always love wine
 Will neither inspire fear in others nor retain their fame. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0922
 Drink no wine, or let them drink
 Who do not care what wise men think.
-PS
+(P.S. Sundaram)
 
 0923
 When a drunkard's glee hurts his own mother,
 Why speak of the wise?
-PS
+(P.S. Sundaram)
 
 0924
 The good lady Shame turns her back to men
 Addicted to the grave vice drunkenness. *
-PS, DZ
+(P.S. Sundaram), (S.M. Diaz)
 
 0925
 It is sheer ignorance to spend one’s substance
 And obtain in return only insensibility. *
-VS
+(V.V.S. Aiyar)
 
 0926
 Slumbers are no different from the dead.
 Nor alcoholics from consumers of poison.
-NV
+(N.V.K. Ashraf)
 
 0927
 Those who often get drunk in private
@@ -5421,21 +5421,21 @@ KV
 0928
 Drop saying, "I never drank":
 Hidden secrets will be out when drunk. *
-PS
+(P.S. Sundaram)
 
 0929
 To reason with one drowned in drink is like
 Searching with a candle for a man drowned in water. *
-PS
+(P.S. Sundaram)
 Yes
 0930
 When a drunkard sober sees another drunk,
 Why does he not note his own damage?
-PS
+(P.S. Sundaram)
 
 
 Notes:
-930. Compare with 99 and 318 for the typical style of Valluvar: “How can anyone speak harsh words, having seen what kind words do?” - NV and “Why does one hurt others knowing what it is to be hurt?” - PS
+930. Compare with 99 and 318 for the typical style of Valluvar: “How can anyone speak harsh words, having seen what kind words do?” - (N.V.K. Ashraf) and “Why does one hurt others knowing what it is to be hurt?” - (P.S. Sundaram)
 
 094
 Gambling
@@ -5444,58 +5444,58 @@ Notes
 0931
 Don’t gamble even if you win for it draws you in
 Like fishes drawn to shining baits.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 Yes
 0932
 Can gamblers gain anything good in life
 Who gain one and lose a hundred? *
-PS
+(P.S. Sundaram)
 
 0933
 To be lost all the time in the rolling dice
 Is to lose your hoarded wealth to others.
-PS
+(P.S. Sundaram)
 
 0934
 There is nothing like gambling to bring
 Poverty, sorrow and disgrace.
-PS
+(P.S. Sundaram)
 
 0935
 They lose all who will not give up the dice,
 The board and the throw.
-PS
+(P.S. Sundaram)
 
 0936
 Those blindfolded by the dark ogress called dice
 Will starve and suffer in distress. *
-NV, DZ
+(N.V.K. Ashraf), (S.M. Diaz)
 
 0937
 Time wasted in a gambling house
 Will end one’s ancestral wealth and worth. *
-PS
+(P.S. Sundaram)
 
 0938
 Dicing loses wealth, imposes lies,
 Kills grace and causes sorrow.
-PS
+(P.S. Sundaram)
 
 0939
 Gambling will make one lose these five:
 Riches, food, fame, learning and clothes.
-NV
+(N.V.K. Ashraf)
 
 0940
 Like the attachment to life despite sufferings
 Is the love for gambling despite loss. *
-KK
+(K. Kannan)
 Yes
 
 Notes:
 931. Padmanabhan [2003] refers to the practice amongst fishermen of Kanyakumari [Muttom area] to use glittering golden lace as bait for fishing. However, none of the 20 translations from different sources compared in this exercise has interpreted this way. However Kālingar, one of the five traditional commentators of Kural interpret the phrase “தூண்டில் பொன்” as “bait of gold”. On the contrary, the phrase has been invariably taken to mean “metal hook” with the word “பொன்” once actually being used as a reference to any “metal”. The type of metal implied has to be inferred from the context [Sethu Pillai, 1974].
 
-940. PS would say: "Life goes on in spite of loss and stakes in spite of loss!"
+940. (P.S. Sundaram) would say: "Life goes on in spite of loss and stakes in spite of loss!"
 
 095
 Medicine
@@ -5504,52 +5504,52 @@ Notes
 0941
 Three things beginning with wind, say the experts,
 In excess or lacking cause disease.
-PS
+(P.S. Sundaram)
 Yes
 0942
 The body needs no drugs if what is eaten
 Is digested before the next meal.
-NV
+(N.V.K. Ashraf)
 
 0943
 Once digested, eat with moderation.
 That prolongs the life of one embodied. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0944
 Assured of digestion and real hunger,
 Eat with care what is agreeable. *
-PS
+(P.S. Sundaram)
 
 0945
 No harm to life if what is eaten
 Does not include disagreeable food.
-NV
+(N.V.K. Ashraf)
 
 0946
 As pleasure dwells with a moderate eater,
 So is disease with a voracious glutton. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0947
 Unlimited eating beyond one’s measure
 Leads to unlimited number of ills.
-NV
+(N.V.K. Ashraf)
 
 0948
 Diagnose the illness, trace its cause,
 Seek the proper remedy and apply it with skill.
-SS
+(Satguru  Subramuniyaswami)
 
 0949
 A doctor should have the measure of the patient,
 Disease and its stage, and treat.
-NV
+(N.V.K. Ashraf)
 Yes
 0950
 Any treatment involves these four orders:
 The patient, doctor, medicine and the nurse.
-NV, SB
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 
 
 Notes:
@@ -5563,57 +5563,57 @@ Notes
 0951
 None except the well-born
 Have that natural sense of integrity and shame. *
-PS
+(P.S. Sundaram)
 
 0952
 Men of birth will never deviate from these three:
 Good manners, truthfulness and modesty. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0953
 A smiling face, a generous heart, sweet words and no scorn;
 These four are said to mark the well-born. *
-PS
+(P.S. Sundaram)
 
 0954
 Men of birth will not indulge in mean acts
 Even if offered millions manifold.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 0955
 An ancient family may default in charity,
 But never in their conduct. *
-PS
+(P.S. Sundaram)
 
 0956
 Those wedded to their spotless heritage
 Will do nothing deceitful and ignoble. *
-PS
+(P.S. Sundaram)
 
 0957
 Defects in people of noble descent
 Appear prominently as spots on the moon.
-JN
+(J. Narayanaswamy)
 Yes
 0958
 Want of affection from one of good family
 Calls in question his descent from it. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 0959
 Nature of sprout indicates the quality of soil;
 So does the quality of speech one’s descent.
-NV
+(N.V.K. Ashraf)
 
 0960
 There is no good without a sense of shame,
 Nor high birth without politeness.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-957. Compare with 1117. “Are there spots on my love’s face like the spots on the shining moon?” – NV, SB
-959. Compare with 452. Nature of soil governs the quality of water; one’s wisdom by the nature of company. (NV)
+957. Compare with 1117. “Are there spots on my love’s face like the spots on the shining moon?” – (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+959. Compare with 452. Nature of soil governs the quality of water; one’s wisdom by the nature of company. ((N.V.K. Ashraf))
 
 097
 Honour
@@ -5622,58 +5622,58 @@ Notes
 0961
 Reject base actions even if such rejection
 Makes life impossible.
-PS
+(P.S. Sundaram)
 
 0962
 Those who desire fame with honour
 Will not sacrifice honour for fame.
-PS
+(P.S. Sundaram)
 Yes
 0963
 In prosperity, bend low.
 In adversity, stand straight.
-PS
+(P.S. Sundaram)
 
 0964
 Men fallen from high stature
 Are like hair fallen from the head. *
-PS
+(P.S. Sundaram)
 
 0965
 Even a hill-like eminence can be brought low
 By deeds as small as a speck. *
-PS
+(P.S. Sundaram)
 Yes
 0966
 Why go behind those who scorn when it yields
 Neither fame nor place in heaven? *
-KS
+(Kasthuri Sreenivasan)
 
 0967
 Better said doomed that state of life
 Spent clinging on to those who scorn.
-NV
+(N.V.K. Ashraf)
 
 0968
 Is body as precious as ambrosia that men desire to save it
 Even at the cost of honour?
-MS, VS
+(M.S. Poornalingam Pillai), (V.V.S. Aiyar)
 Yes
 0969
 The yak, sheared of its hair, does not survive.
 The noble, stripped of their honour, prefer death.
-NV
+(N.V.K. Ashraf)
 Yes
 0970
 The world will admire and worship the glory of men
 Who prefer death to dishonour. *
-CR
+(C. Rajagopalachari)
 
 
 Notes:
-962. Compare with 1017. “Men of honour give up life for honour’s sake, but never abandon honour to save life” * - CR
-965. 965. That’s why in Kural 433, the author says: “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” * - VR, PS
-968. A difficult verse to translate. The word “ஊன்” has been taken by different translators as “life”, “skin”, “body” and the word “மருந்தோ” to mean “nectar” or “medicine”. VS provides an interesting but daring translation: “Is the skin forsooth immortality that men desire to save it at the cost of honour?” Another interesting translation, but not close to original: “Does life saved at the cost of honour, put off death for ever?” - PS
+962. Compare with 1017. “Men of honour give up life for honour’s sake, but never abandon honour to save life” * - (C. Rajagopalachari)
+965. 965. That’s why in Kural 433, the author says: “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” * - (V. Ramasamy), (P.S. Sundaram)
+968. A difficult verse to translate. The word “ஊன்” has been taken by different translators as “life”, “skin”, “body” and the word “மருந்தோ” to mean “nectar” or “medicine”. (V.V.S. Aiyar) provides an interesting but daring translation: “Is the skin forsooth immortality that men desire to save it at the cost of honour?” Another interesting translation, but not close to original: “Does life saved at the cost of honour, put off death for ever?” - (P.S. Sundaram)
 969. The exact meaning of the word “கவரிமா” has not been established for this context. Since Valluvar is referring to the advantage of a wooly coat for surviving cold climates in high altitudes and polar regions, the word has been translated as “yak” here, as many translators do. 
 
 098
@@ -5683,52 +5683,52 @@ Notes
 0971
 Honour is to crave for excellence.
 Dishonor is to say: “I shall live without it”.
-NV
+(N.V.K. Ashraf)
 
 0972
 By birth all men are equal. Differences in their action
 Render their worth unequal.
-SM
+(S. Maharajan)
 
 0973
 Neither the high-born who act low are high,
 Nor the low-born who act high, low. *
-PS
+(P.S. Sundaram)
 
 0974
 Even greatness, like a woman’s chastity,
 Belongs only to him who guards himself.
-DL
+(W.H. Drew and  J. Lazarus)
 
 0975
 If the great achieve anything,
 It will be deeds rare in achievement. *
-PS
+(P.S. Sundaram)
 
 0976
 It is not in the nature of the small to have
 That outlook of emulating the great. *
-DZ
+(S.M. Diaz)
 
 0977
 If any distinction falls on the little minded,
 Their insolence will know no bounds. *
-VS
+(V.V.S. Aiyar)
 
 0978
 The great are always humble,
 And the small lost in self-admiration.
-PS
+(P.S. Sundaram)
 
 0979
 The great are never puffed up,
 While the small are inordinately proud. *
-PS
+(P.S. Sundaram)
 
 0980
 The great hide others' faults.
 Only the small talk of nothing else.
-PS
+(P.S. Sundaram)
 
 
 099
@@ -5738,58 +5738,58 @@ Notes
 0981
 All virtues are said to be natural to those
 Who acquire character as a duty.
-PS
+(P.S. Sundaram)
 
 0982
 No other goodness than good character
 Is deemed good by the noble.
-NV
+(N.V.K. Ashraf)
 
 0983
 The pillars of excellence are five:
 Love, modesty, altruism, compassion, truthfulness.
-PS
+(P.S. Sundaram)
 
 0984
 The characteristic of penance is non-killing,
 And that of goodness not speaking others’ faults.
-NV
+(N.V.K. Ashraf)
 Yes
 0985
 Humility is the strength of the strong and the weapon
 The wise use to conquer their foes.
-SS
+(Satguru  Subramuniyaswami)
 
 0986
 The touchstone of goodness is to own
 One's defeat even to inferiors.
-PS
+(P.S. Sundaram)
 
 0987
 What good is that goodness if it does not return good
 Even to those who cause evil? *
-PS
+(P.S. Sundaram)
 Yes
 0988
 Poverty is no disgrace to one
 Who has the strength called character.
-PS, VS
+(P.S. Sundaram), (V.V.S. Aiyar)
 
 0989
 The depth of goodness is said to be the never changing attitude
 In spite of ever changing fortunes.
-NV
+(N.V.K. Ashraf)
 Yes
 0990
 The earth will cease to bear its burden
 If perfect men fall short of perfection.
-SM, GV
+(S. Maharajan), (G. Vanmikanathan)
 
 
 Notes:
-984. Compare with 261: “The characteristic of penance lies in enduring hardships and harming no life” - NV
-987. Compare with 314. Punish an evil-doer by shaming him with a good deed.* - PS
-989: A difficult couplet to translate. Most translations follow Parimelazhagar’s view of taking ‘ஆழி’ as sea shore and ‘ஊழி பெயரினும்’ as ‘even if a whelming sea breaks its bounds”. PS, therefore, translates this verse as “Seas may whelm, but men of character will stand like the shore”.  However, the word ‘ஊழி’ in general refers to ‘fate’ or ‘fortune’ and the word ‘ஆழி’ to either ‘sea’ or ‘depth’. I have used these direct meanings to translate this couplet. Kalingar takes this interpretation. From Parimelazhagar’s standpoint, Sundaram’s translation may be improved like this: “Fortunes like seas may whelm, but men of character will remain unperturbed like the shore”.
+984. Compare with 261: “The characteristic of penance lies in enduring hardships and harming no life” - (N.V.K. Ashraf)
+987. Compare with 314. Punish an evil-doer by shaming him with a good deed.* - (P.S. Sundaram)
+989: A difficult couplet to translate. Most translations follow Parimelazhagar’s view of taking ‘ஆழி’ as sea shore and ‘ஊழி பெயரினும்’ as ‘even if a whelming sea breaks its bounds”. (P.S. Sundaram), therefore, translates this verse as “Seas may whelm, but men of character will stand like the shore”.  However, the word ‘ஊழி’ in general refers to ‘fate’ or ‘fortune’ and the word ‘ஆழி’ to either ‘sea’ or ‘depth’. I have used these direct meanings to translate this couplet. Kalingar takes this interpretation. From Parimelazhagar’s standpoint, Sundaram’s translation may be improved like this: “Fortunes like seas may whelm, but men of character will remain unperturbed like the shore”.
 
 100
 Courtesy
@@ -5798,56 +5798,56 @@ Notes
 0991
 The demeanor called courtesy, they say,
 Comes easily to those easily accessible to all.
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 0992
 Kindness and exalted birth: these two
 Constitute the demeanor called courtesy.
-NV
+(N.V.K. Ashraf)
 
 0993
 What binds humanity together is not physical proximity,
 But that binding of courteousness.
-NV
+(N.V.K. Ashraf)
 
 0994
 The world applauds the conduct of those
 Who help with impartiality and generosity. *
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 
 0995
 Mockery hurts even in jest, and hence the considerate
 Are courteous even to their foes. *
-PS
+(P.S. Sundaram)
 Yes
 0996
 The world goes on because of civilized men.
 Without them it would collapse into dust. *
-SS
+(Satguru  Subramuniyaswami)
 
 0997
 Men without character, despite their sharp minds,
 Are no better than blocks of wood.
-NV, DZ
+(N.V.K. Ashraf), (S.M. Diaz)
 
 0998
 It is disgraceful to be discourteous,
 Even towards the unfriendly who treat you unjustly.
-SS
+(Satguru  Subramuniyaswami)
 
 0999
 To those who cannot laugh,
 This big world is all darkness even during the day.
-CR
+(C. Rajagopalachari)
 
 1000
 The great wealth kept by the uncultured
 Is clean milk gone sour in a can unclean.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
-995. Compare with 871. One should never wish for the accursed thing called enmity, even in jest. SS
+995. Compare with 871. One should never wish for the accursed thing called enmity, even in jest. (Satguru  Subramuniyaswami)
 
 References:
 
@@ -5864,57 +5864,57 @@ Notes
 1001
 A miser makes of his pile of vast wealth,
 No more use than a corpse. *
-PS
+(P.S. Sundaram)
 
 1002
 Believing wealth is everything, yet giving nothing,
 The miser is ensnared in the misery of birth. *
-SS
+(Satguru  Subramuniyaswami)
 
 1003
 Their very sight is a burden to earth
 Who hoard wealth and not renown. *
-SS
+(Satguru  Subramuniyaswami)
 
 1004
 What legacy can one, who is loved by none,
 Think of leaving behind?
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 1005
 Wealth, though millions manifold, amounts to nothing
 If one neither gives nor enjoys it.
-NV
+(N.V.K. Ashraf)
 
 1006
 Riches are a curse when neither enjoyed,
 Nor given to the worthy.
-PS
+(P.S. Sundaram)
 
 1007
 Wealth not given to the needy goes waste
 Like a lovely spinster growing old. *
-PS
+(P.S. Sundaram)
 
 1008
 The wealth of the unloved is like a poisonous tree
 That ripens in the heart of a village.*
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 Yes
 1009
 Strangers shall possess that wealth
 Amassed without love, comfort or scruples.
-PS
+(P.S. Sundaram)
 
 1010
 The brief want of the benign rich
 Is like the monsoon clouds just shed its moisture.
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 Yes
 
 Notes:
-1008. Compare with 216. “When wealth comes to the large-hearted, it is like the village tree coming to fruit” * - CR
-1010. Compare with 219. “The poverty of a generous man is nothing but his inability to exercise his generosity” * - DL
+1008. Compare with 216. “When wealth comes to the large-hearted, it is like the village tree coming to fruit” * - (C. Rajagopalachari)
+1010. Compare with 219. “The poverty of a generous man is nothing but his inability to exercise his generosity” * - (W.H. Drew and  J. Lazarus)
 
 102
 Being ashamed
@@ -5923,58 +5923,58 @@ Notes
 1011
 Real shyness is to shy away from shameful acts.
 The rest are like shyness of pretty women.
- NV
+ (N.V.K. Ashraf)
 Yes
 1012
 Food, clothing and the rest are common to all.
 Distinction comes from sensitivity to shame. *
- PS
+ (P.S. Sundaram)
 
 1013
 All souls abide in the body
 And the goodness called modesty in perfection.
- NV
+ (N.V.K. Ashraf)
 
 1014
 Is not modesty the jewel of the great,
 And without it a curse for their pride and demeanor? *
- SS, NV
+ (Satguru  Subramuniyaswami), (N.V.K. Ashraf)
 
 1015
 To the world, the sense of shame resides in them
 Who blush for their and others’ blame. *
- SB
+ ( Shuddhananda Bharatiar)
 
 1016
 The great would rather defend with modesty's barricade
 Than breach it to acquire the vast world. *
- SS
+ (Satguru  Subramuniyaswami)
 
 1017
 Men of honour give up life for honour’s sake,
 But never abandon honour to save life. *
- CR
+ (C. Rajagopalachari)
 Yes
 1018
 Virtue will shy away from one who does not shy away
 From what others shy from. *
- PS
+ (P.S. Sundaram)
 
 1019
 Lapse in manners injures the family,
 But every good is lost by lack of shame. *
- SB, PS
+ ( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 1020
 The moves of those devoid of conscience
 Are like those of puppets moved by a string. *
- KK
+ (K. Kannan)
 Yes
 
 Notes:
-1011. An alternate translation given by JN will explain this better: “Sense of shame to harmful acts and the blushing of pretty faces in modesty, are not the same”.
-1017. Compare with 962. “Those who desire fame with honour will not sacrifice honour for fame” – PS
-1020. Compare with 1058. “Without beggars this vast scenic world would be a stage of puppets that come and go” - NV
+1011. An alternate translation given by (J. Narayanaswamy) will explain this better: “Sense of shame to harmful acts and the blushing of pretty faces in modesty, are not the same”.
+1017. Compare with 962. “Those who desire fame with honour will not sacrifice honour for fame” – (P.S. Sundaram)
+1020. Compare with 1058. “Without beggars this vast scenic world would be a stage of puppets that come and go” - (N.V.K. Ashraf)
 103
 Social service
 Translators
@@ -5982,52 +5982,52 @@ Notes
 1021
 There is nothing more glorious than to persist
 In the advance of the community.
-PS
+(P.S. Sundaram)
 
 1022
 Manly exertion and sound knowledge:
 A community progresses with these two. *
-VS, NV
+(V.V.S. Aiyar), (N.V.K. Ashraf)
 
 1023
 The Lord himself will wrap his robes
 And lead the one bent on social service. *
-SS, PS
+(Satguru  Subramuniyaswami), (P.S. Sundaram)
 Yes
 1024
 Success will come by itself to the one
 Who tirelessly strives for his society.
-NV
+(N.V.K. Ashraf)
 
 1025
 The world will flock round the one
 Leading a blameless life doing social service. *
-PS
+(P.S. Sundaram)
 
 1026
 True valour lies in raising the community
 One is born into. *
-CR, VS
+(C. Rajagopalachari), (V.V.S. Aiyar)
 
 1027
 As in the battlefield, the burden of social work
 Also falls on the capable. *
-PS
+(P.S. Sundaram)
 
 1028
 There is no set time for social service.
 To put off is to ruin repute. *
-PS
+(P.S. Sundaram)
 
 1029
 Is the body that protects one’s family against hurdles
 A receptacle for hardships alone? *
-VS
+(V.V.S. Aiyar)
 
 1030
 Society will crash axed by misfortune
 Without good men to support it.
-PS
+(P.S. Sundaram)
 
 
 Notes:
@@ -6040,52 +6040,52 @@ Notes
 1031
 Wherever it whirls, the world must follow the farmer.
 Thus despite hardships, farming is the best. *
-SS
+(Satguru  Subramuniyaswami)
 
 1032
 Farmers are the linchpin of the world
 For they support all others who cannot till. *
-SM
+(S. Maharajan)
 
 1033
 They only live who live by the plough.
 The rest must stoop and trail behind. *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1034
 The reign of many kingdoms comes under
 The reign of those with abundant grain. *
-PS, KK
+(P.S. Sundaram), (K. Kannan)
 
 1035
 Those who eat what their hands produce
 Neither beg nor refuse a beggar.
-PS
+(P.S. Sundaram)
 
 1036
 Even the desire-free hermits will lose their state
 If ploughmen fold their hands. *
-PS, KV
+(P.S. Sundaram), KV
 
 1037
 If ploughed and dried to quarter its size,
 The soil yields plenty sans even handful manure. *
-JN, MS
+(J. Narayanaswamy), (M.S. Poornalingam Pillai)
 
 1038
 Manuring is crucial than ploughing. After weeding,
 Protection is crucial than watering. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1039
 If the landlord neglects his field visits,
 The angry land will sulk like a neglected wife. *
-SS
+(Satguru  Subramuniyaswami)
 
 1040
 Mother Earth laughs at the sight of those
 Who remain idle pleading poverty. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 
 105
@@ -6095,56 +6095,56 @@ Notes
 1041
 What is more painful than poverty?
 The pain of poverty itself!
- NV
+ (N.V.K. Ashraf)
 
 1042
 The demon of poverty takes away
 The joys of this life and the next.
- KV, DZ
+ KV, (S.M. Diaz)
 
 1043
 That cancer called poverty destroys at once
 The honor of ancient descent and clout.
- SI, SS
+ (K.R. Srinivasa Iyengar), (Satguru  Subramuniyaswami)
 
 1044
 Even in those of high birth, poverty will produce
 The fault of uttering mean words.
- DL
+ (W.H. Drew and  J. Lazarus)
 
 1045
 That misery called poverty brings with it
 A diversity of sufferings.
- NV
+ (N.V.K. Ashraf)
 
 1046
 A poor man's words carry no weight,
 However meaningful and profound. *
- PS
+ (P.S. Sundaram)
 
 1047
 Poverty, destitute of all virtues, alienates a man
 Even from the mother who bore him.
- SS
+ (Satguru  Subramuniyaswami)
 
 1048
 Will that hunger which almost killed me yesterday,
 Pester me even today? *
- PS, SB
+ (P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 1049
 One may sleep even in the midst of fire,
 But by no means in the midst of poverty. *
- DL
+ (W.H. Drew and  J. Lazarus)
 
 1050
 The poverty stricken has a chance to renounce,
 Lest he hang around for salt and gruel. *
- KK
+ (K. Kannan)
 Yes
 
 Notes:
-1049. Compare with 896 for the use of same simile: “One may survive even if burnt in the fire, but no survival for those who offend the great” * - SS, PS
+1049. Compare with 896 for the use of same simile: “One may survive even if burnt in the fire, but no survival for those who offend the great” * - (Satguru  Subramuniyaswami), (P.S. Sundaram)
 1050. Explanation: The poor might as well renounce and follow the path of asceticism, instead of depending on others for survival. Valluvar says in couplet 378 that “fate” is the reason why the poverty stricken have failed to renounce.
 106
 Begging
@@ -6153,56 +6153,56 @@ Notes
 1051
 Beg if you meet men of means.
 If they refuse, the fault is theirs, not yours. *
-SS
+(Satguru  Subramuniyaswami)
 
 1052
 Begging is a pleasure if what is asked
 Comes without pain.
-PS
+(P.S. Sundaram)
 
 1053
 There is beauty even in begging
 If it is before dutiful men with generous heart. *
-PS, SS
+(P.S. Sundaram), (Satguru  Subramuniyaswami)
 
 1054
 Begging from men who do not refuse even in their dreams
 Is as honorable as bestowing.
-NV, VS
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 
 1055
 Men stand expectant only because
 The world has a few who won't refuse.
-PS
+(P.S. Sundaram)
 
 1056
 All ills of begging will flee at the sight of those
 Who are free from the ills of refusal. *
-SS
+(Satguru  Subramuniyaswami)
 
 1057
 The glad heart rejoices within
 When it sees one who gives without scorn.
-PS
+(P.S. Sundaram)
 
 1058
 Without beggars this vast scenic world
 Would be a stage of puppets that come and go.
-NV
+(N.V.K. Ashraf)
 
 1059
 What fame can givers achieve
 If there is none to beg and receive?
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1060
 The denied suppliant should not chafe.
 His own want is proof enough. *
-PS
+(P.S. Sundaram)
 Yes
 
 Notes:
-1060. i.e. proof enough to gauge the miserable condition of the one who refused. JN’s translation will help understand the import of the verse explicitly: “Seekers should disdain anger; the givers with good intent may also be in dire straits”. 
+1060. i.e. proof enough to gauge the miserable condition of the one who refused. (J. Narayanaswamy)’s translation will help understand the import of the verse explicitly: “Seekers should disdain anger; the givers with good intent may also be in dire straits”. 
 
 107
 Dread of begging
@@ -6211,52 +6211,52 @@ Notes
 1061
 It is worth millions not to beg
 Even from the precious ones who delight in giving.
-JN, NV
+(J. Narayanaswamy), (N.V.K. Ashraf)
 
 1062
 If some must beg and live, let the Creator of the world
 Himself roam and perish!
-PS, SI
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
 
 1063
 No greater folly than the hope that
 Begging will rid the misery of poverty. *
-PS
+(P.S. Sundaram)
 
 1064
 No place can hold the greatness of those
 Who don’t beg even during troubled times.
-NV
+(N.V.K. Ashraf)
 
 1065
 There is nothing sweeter than even the watery gruel
 Earned by one's own labour. *
-PS
+(P.S. Sundaram)
 
 1066
 No greater disgrace for the tongue than to beg
 Even if only water for a cow.
-PS
+(P.S. Sundaram)
 
 1067
 This I beg of all beggars,
 "If beg you must, beg not from misers."
-SS
+(Satguru  Subramuniyaswami)
 
 1068
 The hapless ship of begging will split
 The moment it strikes the rock of refusal. *
-VS
+(V.V.S. Aiyar)
 
 1069
 The heart melts at the thought of begging
 And dies at the thought of denial.
-PS
+(P.S. Sundaram)
 
 1070
 Where will the niggard’s life seek refuge
 When the beggar’s life is taken by refusal?
-MS, SB
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 
 
 108
@@ -6266,56 +6266,56 @@ Notes
 1071
 The wicked look utterly like men!
 Such close mimics we have never seen! *
-SM
+(S. Maharajan)
 
 1072
 More blessed than the good are the base,
 For they have no scruples.
-PS
+(P.S. Sundaram)
 
 1073
 The base are like the gods.
 They also do whatever they like.
-PS
+(P.S. Sundaram)
 
 1074
 The base are proud when they find men
 Meaner than themselves.
-PS
+(P.S. Sundaram)
 
 1075
 Fear is the base man's only code;
 Sometimes, greed a little. *
-PS, GU
+(P.S. Sundaram), (G.U. Pope)
 
 1076
 The base are like drum, for they sound off to others
 Every secret they hear. *
-SS
+(Satguru  Subramuniyaswami)
 
 1077
 The base won’t even shake their wet hands
 Unless their jaws are shaken with clenched fists. *
-SB, SS
+( Shuddhananda Bharatiar), (Satguru  Subramuniyaswami)
 Yes
 1078
 A word will move the noble;
 While the base, like sugarcane, must be crushed.
-PS
+(P.S. Sundaram)
 
 1079
 The base excel in finding faults of others
 When they see them well clothed and fed.
-NV, SS
+(N.V.K. Ashraf), (Satguru  Subramuniyaswami)
 
 1080
 What use are the base in a crisis,
 Save to rush and sell themselves?
-PS
+(P.S. Sundaram)
 
 
 Notes:
-1077. This couplet is well explained in this translation by SS: “The wretched are too inhospitable to even shake the moisture from their just-washed hands, unless the visitor can shatter their jaw with clenched fist”. 
+1077. This couplet is well explained in this translation by (Satguru  Subramuniyaswami): “The wretched are too inhospitable to even shake the moisture from their just-washed hands, unless the visitor can shatter their jaw with clenched fist”. 
 
 Division III. Love
 109
@@ -6325,56 +6325,56 @@ Notes
 1081
 "A goddess, a rare peahen or a woman
 Decked with jewels?" My heart is amazed! *
-PS
+(P.S. Sundaram)
 
 1082
 She returns my look with looks that strike
 Like darts of an armed angel.
-NV, KV
+(N.V.K. Ashraf), KV
 
 1083
 I never knew yama before, but now I realize
 That it is feminine and has warring eyes. *
-KK
+(K. Kannan)
 
 1084
 She may have that feminine grace
 But her look sucks life out of men who gaze. *
-NV, SB
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 
 1085
 Is it death's dart, or eye's beams, or fawn's glance?
 Her look has all these three. *
-GU
+(G.U. Pope)
 
 1086
 It’s only when her callous eyebrows bend and veil her eyes
 That my heart’s flutters cease. *
-SI
+(K.R. Srinivasa Iyengar)
 
 1087
 Like the veil over the face of a rutting elephant
 Is the vest that veils her buxom breasts.
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 1088
 Ah, there goes all my might which foes dread in fight,
 When I face her brows beaming bright!
-KV, GU
+KV, (G.U. Pope)
 
 1089
 What use are jewels to a damsel
 Adorned with modesty and meek looks of a hind? *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1090
 Wine delights only when imbibed,
 But never at mere look like love! *
-VS, PS
+(V.V.S. Aiyar), (P.S. Sundaram)
 Yes
 
 Notes:
-1090. Compare with 1201: “Love is sweeter than wine; its mere thought intoxicates” - PS and with also 1281: “To please with the thought and delight with the sight, belongs not to liquor but love” - PS
+1090. Compare with 1201: “Love is sweeter than wine; its mere thought intoxicates” - (P.S. Sundaram) and with also 1281: “To please with the thought and delight with the sight, belongs not to liquor but love” - (P.S. Sundaram)
 110
 Reading hints
 Translators
@@ -6382,52 +6382,52 @@ Notes
 1091
 Her painted eyes have a double effect:
 One glance brings pain and the other cures.
-NV
+(N.V.K. Ashraf)
 
 1092
 A single sneaky glance of her eyes
 Is more than half the pleasure of love. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1093
 She looked, and dropped her head,
 And so watered the plant of love.
-PS
+(P.S. Sundaram)
 
 1094
 When I look, she looks to the ground.
 When I don't, she looks and gently smiles! *
-PS
+(P.S. Sundaram)
 
 1095
 Without looking straight,
 She passes a slanting glance and smiles. *
-KK
+(K. Kannan)
 
 1096
 They may speak like strangers, but the words
 Will soon reveal their intimacy.
-NV
+(N.V.K. Ashraf)
 Yes
 1097
 Words that look unfriendly and looks that look offending
 Are signs of love in disguise.
-DZ, MS
+(S.M. Diaz), (M.S. Poornalingam Pillai)
 
 1098
 Her gentle smile to my pleading look
 Adds beauty to her gentle nature. *
-PS, MS
+(P.S. Sundaram), (M.S. Poornalingam Pillai)
 
 1099
 To look at each other as if they were strangers
 Belongs to lovers alone.
-PS
+(P.S. Sundaram)
 
 1100
 When eyes with eyes commingle,
 What do words avail?
-PS
+(P.S. Sundaram)
 
 
 Notes:
@@ -6440,27 +6440,27 @@ Notes
 1101
 In her alone, my jewel, can I find the five senses of
 Sight, smell, hearing, taste and touch. *
-PS
+(P.S. Sundaram)
 
 1102
 The cure for a disease is always different.
 But this jewel is both disease and cure.
-DL, PS
+(W.H. Drew and  J. Lazarus), (P.S. Sundaram)
 Yes
 1103
 Is heaven sweeter than slumbering
 On the soft shoulders of the women you love?
-SM
+(S. Maharajan)
 
 1104
 Whence did she get the fire
 Which burns when far, and cools when near?
-PS
+(P.S. Sundaram)
 Yes
 1105
 Her flower-decked shoulders
 Give me whatever I need, then and there.
-MS, PS
+(M.S. Poornalingam Pillai), (P.S. Sundaram)
 
 1106
 Her shoulders must verily be nectar
@@ -6470,27 +6470,27 @@ KV
 1107
 Like sharing one’s food at one’s own home
 Is the embrace of this fair maid. *
-KK
+(K. Kannan)
 
 1108
 Sweet indeed is that embrace
 Wherein not a breath comes between.
-PS
+(P.S. Sundaram)
 
 1109
 To fall out, make up, and unite again are the gains
 Reaped by those obsessed with love. *
-PS, DL
+(P.S. Sundaram), (W.H. Drew and  J. Lazarus)
 
 1110
 The more you indulge, the more you realize your ignorance.
 Be it love or learning.
-NV
+(N.V.K. Ashraf)
 
 
 Notes:
 1102. Compare with 1275. “The trickery caused by the braceleted one carries the medicine to cure my ills as well” * - KV
-1104. Compare with 1159. “Can fire, which hurts when touched, hurt like the passion of love even untouched?” - NV
+1104. Compare with 1159. “Can fire, which hurts when touched, hurt like the passion of love even untouched?” - (N.V.K. Ashraf)
 
 112
 Expressing her charms
@@ -6499,57 +6499,57 @@ Notes
 1111
 Hail thee, aniccham, the soft flower!
 The damsel I dote is softer than thee! *
-JN
+(J. Narayanaswamy)
 
 1112
 O heart, why get distracted seeing common flowers
 And match them with her eyes! *
-PS, VS
+(P.S. Sundaram), (V.V.S. Aiyar)
 
 1113
 She has a slender frame, pearly smile, fragrant breath,
 Lancet eyes and bamboo shoulders. *
-KK, JN
+(K. Kannan), (J. Narayanaswamy)
 
 1114
 Unable to match the eyes of this jewel,
 Lilies droop down earthwards in shame.
-KK, KV
+(K. Kannan), KV
 
 1115
 The solemn drums will blare if her waist is crushed
 By the aniccham she wore with its stalk. *
-JN
+(J. Narayanaswamy)
 Yes
 1116
 The perplexed stars are all over the place,
 Unable to tell the moon from her face.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 1117
 Are there spots on my love’s face
 Like the spots on the shining moon?
-NV, SB
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 Yes
 1118
 Hail O moon! If you could also shine as my love’s face,
 You too I shall love. *
-PS
+(P.S. Sundaram)
 
 1119
 O moon, if you imitate my flower-eyed jewel’s face,
 Stop revealing thyself to all.
-NV
+(N.V.K. Ashraf)
 
 1120
 Even aniccham flower and swan's down
 Are as nerunji fruit to my maidens’ feet. *
- VS
+ (V.V.S. Aiyar)
 Yes
 
 Notes:
 1115. aniccham – a flower known for its delicate nature. The idea here is that a woman’s waist is so delicate that it can’t even bear the weight of a delicate flower like aniccham if it is worn without removing its stalk.
-1117. This couplet may look simple but has been translated differently. The word “அறுவாய்” has been usually taken to mean “variable, changing or inconstant” [PS, SB] and thereby interpreted by many as “waning and waxing moon” [JN, KK, GU, MS]. However, the very next word “நிறைந்த” [which means “filled with”] clearly implies that this word means the ‘spots or craters’ on the moon [“அறு” can mean “break, crack, split” and “வாய்” “mouth”].  Though the couplets in Kural are usually discrete and independent of each other, there are occasions – especially in division “LOVE” – where the succeeding ones appear in sequence [chapter 132 is a fine example]. Here it appears that the preceding couplet 1116 compares the lady’s face to the moon, with even the stars being unable to differentiate the two. This couplet takes the love’s face a step further and attempts to differentiate the two. Perhaps this is what is implied here: “Even the shining moon has spots of craters, but none on my love’s face”.  Commentator Manakkudavar’s gives a fitting explanation. He says: “இவள் முகத்து மறுவில்லை யாதலான், அது மதியோடு ஒவ்வாது என்று கூறியது”.
+1117. This couplet may look simple but has been translated differently. The word “அறுவாய்” has been usually taken to mean “variable, changing or inconstant” [(P.S. Sundaram), ( Shuddhananda Bharatiar)] and thereby interpreted by many as “waning and waxing moon” [(J. Narayanaswamy), (K. Kannan), (G.U. Pope), (M.S. Poornalingam Pillai)]. However, the very next word “நிறைந்த” [which means “filled with”] clearly implies that this word means the ‘spots or craters’ on the moon [“அறு” can mean “break, crack, split” and “வாய்” “mouth”].  Though the couplets in Kural are usually discrete and independent of each other, there are occasions – especially in division “LOVE” – where the succeeding ones appear in sequence [chapter 132 is a fine example]. Here it appears that the preceding couplet 1116 compares the lady’s face to the moon, with even the stars being unable to differentiate the two. This couplet takes the love’s face a step further and attempts to differentiate the two. Perhaps this is what is implied here: “Even the shining moon has spots of craters, but none on my love’s face”.  Commentator Manakkudavar’s gives a fitting explanation. He says: “இவள் முகத்து மறுவில்லை யாதலான், அது மதியோடு ஒவ்வாது என்று கூறியது”.
 1120. Simply, it means: “Even flower petals and down feathers are prickly to my damsel’s feet”. Flower aniccham is known for its softness and the fruit nerunji for its thorns.
 
 113
@@ -6563,27 +6563,27 @@ He
 1121
 Like a mixture of milk and honey,
 Is the drool that drips through her pearly teeth.
-NV
+(N.V.K. Ashraf)
 
 1122
 The bond between me and this damsel
 Is like the union of body and soul. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1123
 O pupil of my eye! Be gone,
 For there is no place for the maiden I love. *
-MS
+(M.S. Poornalingam Pillai)
 
 1124
 Life is lively when she is around,
 But dreadful when she leaves.
-NV
+(N.V.K. Ashraf)
 Yes
 1125
 Recollection is needed if only I forget.
 How can I forget her dazzling warring eyes!
-NV
+(N.V.K. Ashraf)
 
 She
 
@@ -6592,31 +6592,31 @@ She
 1126
 So subtle is my lover’s form that he neither leaves my eyes
 Nor is he hurt when I wink. *
-SB, VS
+( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 
 1127
 I will not paint my eyes and so lose
 Even for a trice the sight of my love.
-PS
+(P.S. Sundaram)
 
 1128
 I dare not swallow anything hot
 Lest it hurt my lover within me!
-PS
+(P.S. Sundaram)
 
 1129
 My eyes don’t close for fear of losing him.
 Seeing this, folks blame him for desertion.
-NV
+(N.V.K. Ashraf)
 
 1130
 He dwells gladly forever in my heart.
 And the folks say he is loveless and has left me. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-1124. Other ways of translating this couplet: “She brings life to my life when together, but death when she leaves” – NV. “Being with my love is life, separation from her death” * - PS
+1124. Other ways of translating this couplet: “She brings life to my life when together, but death when she leaves” – (N.V.K. Ashraf). “Being with my love is life, separation from her death” * - (P.S. Sundaram)
 
 114
 Abandonment of reserve
@@ -6625,52 +6625,52 @@ Notes
 1131
 Those that enjoyed love and now mourn in affliction
 Have nothing but the madal for strength.
- GU, PS
+ (G.U. Pope), (P.S. Sundaram)
 
 1132
 Away with shame! Soul and body can bear no more,
 And will mount the madal.
- PS
+ (P.S. Sundaram)
 
 1133
 Modesty and manliness once I owned,
 But now only the madal ridden by the lustful. *
- DL
+ (W.H. Drew and  J. Lazarus)
 
 1134
 Alas, the raft of modesty and manliness is swept away
 By the rushing tide of lust!
- DL, GU
+ (W.H. Drew and  J. Lazarus), (G.U. Pope)
 
 1135
 The maiden with her armlets of garland
 Gave me the madal and the pangs of eventide. *
- MS, SB
+ (M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 
 1136
 Even at midnight I think of riding the madal,
 Unable to close my eyes because of her. *
- PS, NV
+ (P.S. Sundaram), (N.V.K. Ashraf)
 
 1137
 Nothing grandeur than women! Their love may rage like sea,
 Yet don’t mount the madal!
- NV
+ (N.V.K. Ashraf)
 
 1138
 Pitiless love with no regard for modesty,
 Betrays itself to reveal the secrets public. *
- SM, PS
+ (S. Maharajan), (P.S. Sundaram)
 
 1139
 Perplexed is my passion that it roves in public
 With complaints of being unnoticed. *
- JN, NV
+ (J. Narayanaswamy), (N.V.K. Ashraf)
 
 1140
 Fools laugh so as to be seen by us,
 Not having endured what we have.
- DL, PS
+ (W.H. Drew and  J. Lazarus), (P.S. Sundaram)
 
 
 Notes:
@@ -6683,17 +6683,17 @@ Notes
 1141
 Rumours revive hope; Those that spread them
 Luckily don't know this.
-PS
+(P.S. Sundaram)
 
 1142
 Rumours have gifted me this flowery-eyed belle;
 The public know not her preciousness. *
-JN
+(J. Narayanaswamy)
 
 1143
 Should I not welcome their rumours
 Which give that feel of owning whom I own not?
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1144
 Rumours enhance my love which might have
@@ -6703,36 +6703,36 @@ KV
 1145
 Wine delights with every sip.
 So does love with every disclosure.
-NV
+(N.V.K. Ashraf)
 
 1146
 Our meeting was but for a day, but the outcry is
 As if a serpent has swallowed the moon. *
-VS
+(V.V.S. Aiyar)
 Yes
 1147
 The village gossip manures my love,
 And my mother's reproaches water it.
-PS
+(P.S. Sundaram)
 
 1148
 To suppress love with scandal
 Is to put fire out with ghee!
-PS
+(P.S. Sundaram)
 
 1149
 He who said “fear not” has flared up rumour.
 Why then should I blush for this outcry? *
-SB
+( Shuddhananda Bharatiar)
 
 1150
 This village gossip is what we desire,
 For it serves the desire of my lover. *
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 
 Notes:
-1146. In ancient India, a lunar eclipse was considered the outcome of a serpent swallowing the moon. An alternate translation would be: “An eclipse is much noised however brief. So my one day's meeting with my love” - PS. We see this belief being mentioned in other texts. For instance by Chanakya in Rajaniti-Sastra: “Brave men do not become sad when they beget trouble. Does not the moon which enters the dragon’s mouth come out again?” Tirumoolar uses this belief to good effect to depict upsurge of Kundalini: “The Kundalini serpent consumes kalas of Moon, the Fire consumes kalas of Sun……” [Tirumandiram 871].
+1146. In ancient India, a lunar eclipse was considered the outcome of a serpent swallowing the moon. An alternate translation would be: “An eclipse is much noised however brief. So my one day's meeting with my love” - (P.S. Sundaram). We see this belief being mentioned in other texts. For instance by Chanakya in Rajaniti-Sastra: “Brave men do not become sad when they beget trouble. Does not the moon which enters the dragon’s mouth come out again?” Tirumoolar uses this belief to good effect to depict upsurge of Kundalini: “The Kundalini serpent consumes kalas of Moon, the Fire consumes kalas of Sun……” [Tirumandiram 871].
 
 116
 Sufferings of separation
@@ -6741,58 +6741,58 @@ Notes
 1151
 Tell me if you are not leaving. Bid farewell to those
 Who can survive to see your return.
-NV
+(N.V.K. Ashraf)
 Yes
 1152
 His mere look was once a delight; but now
 Even his embrace saddens, fearing separation. *	
-VS
+(V.V.S. Aiyar)
 
 1153
 How hard it is to trust when even he who knows
 Breaks his word and goes!
-PS
+(P.S. Sundaram)
 
 1154
 How can I be blamed for trusting one
 Who left me after assuring “fear not”? *
-KK
+(K. Kannan)
 
 1155
 If you would serve me, stop him going.
 Gone we shall not meet again.
-PS
+(P.S. Sundaram)
 
 1156
 When he is stubborn to announce separation,
 It is futile to hope for reunion. *
-JN
+(J. Narayanaswamy)
 
 1157
 Do not the bangles sliding down my arms
 Forebode the departure of my lord? *
-DL
+(W.H. Drew and  J. Lazarus)
 Yes
 1158
 It is bitter to live among strangers.
 Bitter still is to part with one's love. *
-PS
+(P.S. Sundaram)
 
 1159
 Can fire, which hurts when touched,
 Hurt like the passion of love even untouched?
-NV
+(N.V.K. Ashraf)
 Yes
 1160
 Strange how many can bear separation,
 Survive sorrow, and live!
-PS
+(P.S. Sundaram)
 
 
 Notes:
-1151. Another way of putting it: “What use is telling me of your departure? Inform that to those who survive to see your return”- NV]
+1151. Another way of putting it: “What use is telling me of your departure? Inform that to those who survive to see your return”- (N.V.K. Ashraf)]
 1157. A convention in ancient Tamil poetry was that separation from her lover makes a woman’s hands thin and her bangles loose [Sundaram, 1989]. The idea is repeated in couplet 1277.
-1159. Compare with 1104. “Whence did she get the fire which burns when far, and cools when near?” - PS
+1159. Compare with 1104. “Whence did she get the fire which burns when far, and cools when near?” - (P.S. Sundaram)
 
 117
 Love sickness
@@ -6801,57 +6801,57 @@ Notes
 1161
 I would hide this sickness, but it wells up
 Like water drawn from a spring. *
-PS
+(P.S. Sundaram)
 
 1162
 Hide this sickness, I cannot.
 To tell him who caused it, I am ashamed.
-PS
+(P.S. Sundaram)
 
 1163
 Love and shame hang poised on my life.
 My body unable to bear them.
-PS
+(P.S. Sundaram)
 
 1164
 There is indeed a flood of lust;
 But no safe raft to swim across it. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1165
 If his friendship can bring so much misery,
 How will it be in enmity? *
-GV, PS
+(G. Vanmikanathan), (P.S. Sundaram)
 Yes
 1166
 The pleasure of love is as vast as the sea.
 Vaster still is the sorrow of its hurt.
-NV
+(N.V.K. Ashraf)
 
 1167
 Whirling in the stormy sea of love, I find no shore;
 Even at midnight I am alone.
-KK, PS
+(K. Kannan), (P.S. Sundaram)
 
 1168
 Poor night, putting all things to sleep,
 Has only me for company.
-PS
+(P.S. Sundaram)
 
 1169
 Even crueler than my cruel lord
 Are the long nights of these days. *
-PS
+(P.S. Sundaram)
 
 1170
 If eyes could also reach him like the heart,
 They won’t be swimming in a flood of tears.
-NV
+(N.V.K. Ashraf)
 Yes
 
 Notes:
-1165: An explanatory translation: “If in friendship he can hurt so much, imagine the fate when there is trouble?” - KK. Also compare with 1207:  “What will happen if I forget him, when his memory itself burns my heart?” * - SB
-1170. Compare with 1244. “Rid me of these eyes, O my heart! For they, longing to see him, wear my life away” - GU
+1165: An explanatory translation: “If in friendship he can hurt so much, imagine the fate when there is trouble?” - (K. Kannan). Also compare with 1207:  “What will happen if I forget him, when his memory itself burns my heart?” * - ( Shuddhananda Bharatiar)
+1170. Compare with 1244. “Rid me of these eyes, O my heart! For they, longing to see him, wear my life away” - (G.U. Pope)
 
 118
 Languishing eyes
@@ -6860,58 +6860,58 @@ Notes
 1171
 Why the same eyes that showed him to me
 And caused this fever, now cry in anguish?
-NV
+(N.V.K. Ashraf)
 Yes
 1172
 Why do these eyes, once thoughtlessly looked at him,
 Now not repent but grieve?
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1173
 Funny the very same eyes that once
 Eagerly looked at him are now in tears!
-NV
+(N.V.K. Ashraf)
 
 1174
 Having driven me to this incurable fever,
 My eyes have dried up, drained of all tears. *
-SI
+(K.R. Srinivasa Iyengar)
 
 1175
 My eyes plunged me in a raging sea of love
 And for this must suffer sleepless pain. *
-PS
+(P.S. Sundaram)
 
 1176
 How nice! The eyes that caused this torment
 Are themselves tormented. *
-PS
+(P.S. Sundaram)
 
 1177
 Let tears dry up pining and pining in the eyes
 That eyed him longing and longing.
-SB
+( Shuddhananda Bharatiar)
 
 1178
 He made love with words, not with heart.
 Yet my eyes pine, seeing him not. *
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 1179
 Sleepless when he is not here, sleepless when he is,
 Either way my eyes never rest.
-PS
+(P.S. Sundaram)
 Yes
 1180
 With eyes that drum up and declare my grief,
 It is hard to conceal secrets from these folks! *
-JN
+(J. Narayanaswamy)
 
 
 Notes:
 1171. An interesting alternate translation, but not close to the original: “My eyes only showed him and filled me with passion. Why now filled with tears?” * - KV
 1178. Compare with 1283. Five of the seven seers (metrical feet) between these two couplets are same! “Let him neglect me and do what he will. My eyes will not rest till they see him”
-1179. Compare with 1295 for style and word play. “Anxious of not getting and of losing when got, either way my heart is always anxious” - NV, PS
+1179. Compare with 1295 for style and word play. “Anxious of not getting and of losing when got, either way my heart is always anxious” - (N.V.K. Ashraf), (P.S. Sundaram)
 
 119
 The hues of pallor
@@ -6920,22 +6920,22 @@ Notes
 1181
 Having agreed to part my love,
 How can I complain of my pallor to others? *
-SB, SI
+( Shuddhananda Bharatiar), (K.R. Srinivasa Iyengar)
 Yes
 1182
 Claiming that it begot through him,
 Pallor creeps over my body with pride. *
-SB
+( Shuddhananda Bharatiar)
 
 1183
 He robbed me first of my beauty and shame,
 And gave in exchange sickness and pallor.
-PS
+(P.S. Sundaram)
 
 1184
 His words I recollect and prowess I chant.
 Yet, how does pallor sneak in?
-DZ, PS
+(S.M. Diaz), (P.S. Sundaram)
 
 1185
 There goes my lover and here comes the pallor
@@ -6945,31 +6945,31 @@ KV
 1186
 Darkness lies in wait for the lamp to go out,
 And pallor for the embrace to break.
-PS
+(P.S. Sundaram)
 
 1187
 Locked in embrace, I turned a little.
 Seizing that moment, pallor seized me in full. *
-PS, JN
+(P.S. Sundaram), (J. Narayanaswamy)
 
 1188
 "Pallid has she become” blame everyone,
 But none say “He parted her”.
-NV
+(N.V.K. Ashraf)
 
 1189
 If my lord who left me remains free of guilt,
 My pallor is worth all the grief. *
-DL, DZ
+(W.H. Drew and  J. Lazarus), (S.M. Diaz)
 
 1190
 I don’t mind being called pallid, so long as
 They don’t blame him for causing it. *
-SI, SB
+(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
 
 
 Notes:
-1181. An alternate translation, but not close to the original is given by PS. “I agreed to part and so have lost the right to complain of my pallor”.
+1181. An alternate translation, but not close to the original is given by (P.S. Sundaram). “I agreed to part and so have lost the right to complain of my pallor”.
 120
 Torture of loneliness
 Translators
@@ -6977,22 +6977,22 @@ Notes
 1191
 Only those blessed with the love of being loved
 Are blessed with the seedless fruit of love. *
-JN, SI
+(J. Narayanaswamy), (K.R. Srinivasa Iyengar)
 
 1192
 Like the heavenly showers to living men
 Is the blessing of grace by lovers to their beloved. *
-GU
+(G.U. Pope)
 
 1193
 They alone can have the pride of living together
 Who are loved by their beloved. *
-VS
+(V.V.S. Aiyar)
 
 1194
 Even if loved by others, they are luckless
 Unless loved by those they love. *
-PS
+(P.S. Sundaram)
 
 1195
 What more can I expect of my lord
@@ -7002,27 +7002,27 @@ KV
 1196
 One-sided love pains like lopsided kavadi.
 It is sweet only when shared by both sides.
-NV
+(N.V.K. Ashraf)
 Yes
 1197
 Can't the god of Love, lodged in me alone
 Causing distress, see my pallor and pain? *
-PS
+(P.S. Sundaram)
 
 1198
 Hard is the heart that can survive this world
 Without a word of love from the beloved. *
-PS
+(P.S. Sundaram)
 
 1199
 Though my beloved bestows nothing,
 Still any news about him is sweet to my ears. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1200
 O heart, why pour your concerns to the unconcerned?
 As well dump into the sea! *
-SI, NV
+(K.R. Srinivasa Iyengar), (N.V.K. Ashraf)
 Yes
 
 Notes:
@@ -7037,7 +7037,7 @@ Notes
 1201
 Love is sweeter than wine;
 Its mere thought intoxicates.
-PS
+(P.S. Sundaram)
 Yes
 1202
 Nothing better than sweet memories of love
@@ -7047,48 +7047,48 @@ KV
 1203
 Is it because of my lover’s incomplete thoughts
 That my sneeze passes off incomplete?
-NV
+(N.V.K. Ashraf)
 
 1204
 No doubt my lord abides in my heart.
 Do I also likewise abide in his?
-NV
+(N.V.K. Ashraf)
 
 1205
 Having kept me out of his heart,
 Is he not ashamed to enter mine?
-SI, KV
+(K.R. Srinivasa Iyengar), KV
 
 1206
 You know why I live? To live in remembrance of the days
 I lived in union with him.
-SM
+(S. Maharajan)
 
 1207
 What will happen if I forget him,
 When his memory itself burns my heart? *
-SB
+( Shuddhananda Bharatiar)
 Yes
 1208
 He never resents, however much I think of him.
 Isn’t it an honor from my lover? *
-MS
+(M.S. Poornalingam Pillai)
 Yes
 1209
 My dear life wastes thinking of his cruelty;
 For once he said we are not different. *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1210
 Hail Moon! Set not till I set my eyes on him
 Who left me but not from my heart.
-SB, KV
+( Shuddhananda Bharatiar), KV
 
 
 Notes:
-1201. Compare with: 1090: "Wine won't delight unless imbibed, but love with a look delights!" - PS and with 1281 "To please with the thought and delight with the sight, belongs not to liquor but love" –PS
-1207. Compare with 1165. "If his friendship can bring so much misery, how will it be in enmity?" * - GV, PS
-1208. An explanatory translation: "The greatness of my love is that he never finds fault with me for remembering him often" - KK
+1201. Compare with: 1090: "Wine won't delight unless imbibed, but love with a look delights!" - (P.S. Sundaram) and with 1281 "To please with the thought and delight with the sight, belongs not to liquor but love" –(P.S. Sundaram)
+1207. Compare with 1165. "If his friendship can bring so much misery, how will it be in enmity?" * - (G. Vanmikanathan), (P.S. Sundaram)
+1208. An explanatory translation: "The greatness of my love is that he never finds fault with me for remembering him often" - (K. Kannan)
 
 122
 Dream remembered
@@ -7097,7 +7097,7 @@ Notes
 1211
 How shall I feast this dream which brought
 A message from my lord?
- PS
+ (P.S. Sundaram)
 
 1212
 If only my painted eyes could sleep,
@@ -7107,47 +7107,47 @@ I will tell him in my dream of my true predicament. *
 1213
 Though I miss him when I am awake,
 My life lingers on as I see him in my dreams. *
- JN
+ (J. Narayanaswamy)
 
 1214
 Dreams sustain my love for in it I seek him
 Who visits not while I am awake.
- DL, KV
+ (W.H. Drew and  J. Lazarus), KV
 
 1215
 The very sight of him is joyous.
 Be it in dreams or while I am awake.
- NV
+ (N.V.K. Ashraf)
 
 1216
 Save for that thing called waking,
 My dream-lover won't leave me indeed.
- PS
+ (P.S. Sundaram)
 Yes
 1217
 Why does he haunt me in my dreams
 When he cruelly deserts me when awake? *
- VS
+ (V.V.S. Aiyar)
 
 1218
 Asleep he is round my shoulders.
 Awake he hurries back to my heart. *
- PS
+ (P.S. Sundaram)
 
 1219
 Only those starved of love dreams,
 Rue missing their beloved in wakefulness. *
- JN
+ (J. Narayanaswamy)
 Yes
 1220
 He is a deserter, people say.
 But how can they see his visits in my dreams?
- NV, PS
+ (N.V.K. Ashraf), (P.S. Sundaram)
 
 
 Notes:
-1216. In other words: "But for this state of wakefulness, I would have my beloved always in my dreams" * - KV, DL
-1219. A good alternate translation is given by SI: "They blame him for not visiting me; they know not what dreams can do"
+1216. In other words: "But for this state of wakefulness, I would have my beloved always in my dreams" * - KV, (W.H. Drew and  J. Lazarus)
+1219. A good alternate translation is given by (K.R. Srinivasa Iyengar): "They blame him for not visiting me; they know not what dreams can do"
 
 123
 Evening sorrows
@@ -7156,56 +7156,56 @@ Notes
 1221
 Farewell, evening! You are no more just,
 For you devour the souls of brides!
-GU, DZ
+(G.U. Pope), (S.M. Diaz)
 
 1222
 Bless you, muddled, lack-lustre twilight!
 Is your love too heartless like mine? *
-PS
+(P.S. Sundaram)
 
 1223
 The evening that once sighed with unease,
 Now comes with growing hatred causing pain.
-NV
+(N.V.K. Ashraf)
 
 1224
 There goes my love and in strides the evening,
 Like slayers at the slaughter *
-PS, JN
+(P.S. Sundaram), (J. Narayanaswamy)
 
 1225
 What good did I do to dawn?
 And what harm to evening? *
-PS
+(P.S. Sundaram)
 
 1226
 When my love was with me, I did not know
 How cruel evening could be.
-PS
+(P.S. Sundaram)
 
 1227
 Budding at dawn and growing all day,
 This disease blooms by evening. *
-SB
+( Shuddhananda Bharatiar)
 
 1228
 The cowboy’s flutes now sound as envoys of death
 Forecasting the fiery evening.
-NV
+(N.V.K. Ashraf)
 
 1229
 This place will all be dizzy and grieved
 When the evening spreads and smothers me.
-PS
+(P.S. Sundaram)
 
 1230
 Longing for him who left longing for wealth,
 The evenings take toll of my undying soul.
-NV
+(N.V.K. Ashraf)
 Yes
 
 Notes:
-1230. Compare with 1263. "He parted from me longing for conquests; and if I live yet, it is longing for his return" * - VS
+1230. Compare with 1263. "He parted from me longing for conquests; and if I live yet, it is longing for his return" * - (V.V.S. Aiyar)
 
 124
 Wasting away
@@ -7215,54 +7215,54 @@ Her friend to her
 1231
 To lift us from want, he left us afar. Brooding over him,
 Your eyes now quail before flowers.
-SB, PS
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 1232
 The pale and tear-filled eyes seem to convey
 That your lover has been unkind. *
-KK
+(K. Kannan)
 
 1233
 Sagging shoulders that once stood firm on the bridal day
 Seem to clearly point to parting.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1234
 Your lord away, your think shoulders droop,
 Beauty and bracelets lost.
-PS
+(P.S. Sundaram)
 
 1235
 Drooping shoulders, its fading beauty
 And slipping bracelets declare his cruelty.
-NV
+(N.V.K. Ashraf)
 
 She
 1236
 Drooping shoulders and slipping bracelets,
 These I bear; to call him cruel, unbearable. *
-PS
+(P.S. Sundaram)
 
 1237
 Can you, O heart, gain glory by relating that cruel man
 The woes of my fading shoulders? *
-DL, JN
+(W.H. Drew and  J. Lazarus), (J. Narayanaswamy)
 
 He
 1238
 For once I relaxed my hugging arms,
 This poor girl’s forehead turned pale. *
-PS, KV
+(P.S. Sundaram), KV
 
 1239
 Cool breeze crept between our embrace;
 Her large rain-cloud eyes paled at once.
-SB
+( Shuddhananda Bharatiar)
 
 1240
 Seeing the once bright forehead grow pale,
 Her eyes too suffered and grew pale!
-DZ, KV
+(S.M. Diaz), KV
 
 
 125
@@ -7272,56 +7272,56 @@ Notes
 1241
 My heart, can't you suggest any remedy at all
 For this incurable sickness?
-PS
+(P.S. Sundaram)
 
 1242
 O my heart! How foolish you are to grieve for him
 Who has no love for me!
-KV, PS
+KV, (P.S. Sundaram)
 
 1243
 O heart, what use to stay here and pine
 When he who caused this sickness is heartless?
-PS
+(P.S. Sundaram)
 
 1244
 Rid me of these eyes, O my heart! For they,
 Longing to see him, wear my life away.
-GU
+(G.U. Pope)
 Yes
 1245
 O heart, can I call him a foe and dump him
 Who longs not for me though I long for him? *
-GU
+(G.U. Pope)
 
 1246
 My heart that pretends to be angry will at once
 Yield and jell seeing my lover.
-NV
+(N.V.K. Ashraf)
 
 1247
 O my good heart! Either shed shame or shed love
 For I cannot bear both. *
-KK
+(K. Kannan)
 
 1248
 O my poor soul! You persist in pursuit of the departed,
 Longing for his favours! *
-JN
+(J. Narayanaswamy)
 
 1249
 Where are you searching my heart
 While you know my dear one is within? *
-KK, PS
+(K. Kannan), (P.S. Sundaram)
 
 1250
 To retain the deserter still in my heart
 Is to suffer losing more charm. *
-KK
+(K. Kannan)
 
 
 Notes:
-1244. Compare with 1170. "If eyes could also reach him like the heart, they won’t be swimming in a flood of tears" - NV
+1244. Compare with 1170. "If eyes could also reach him like the heart, they won’t be swimming in a flood of tears" - (N.V.K. Ashraf)
 
 126
 Loss of modesty
@@ -7330,27 +7330,27 @@ Notes
 1251
 The axe of love can break open the door of chastity
 Secured by the bolt of modesty. *
- DL, JN
+ (W.H. Drew and  J. Lazarus), (J. Narayanaswamy)
 Yes
 1252
 That pitiless thing called Love
 Exploits my heart even at night. *
- PS
+ (P.S. Sundaram)
 
 1253
 Fain would I hide my love, but it breaks out
 Unawares like a sneeze. *
- PS
+ (P.S. Sundaram)
 
 1254
 In modesty I deemed myself beyond assail;
 But love has now cast away the veil. *
- GU
+ (G.U. Pope)
 
 1255
 The dignity of not pursuing the indifferent
 Is one thing unknown to the love-sick. *
- MS
+ (M.S. Poornalingam Pillai)
 
 1256
 What sort of passion is this that induces me
@@ -7360,27 +7360,27 @@ To follow the very one who deserted me?
 1257
 When the lover does all we desire,
 We forget all shame unawares.
- SB
+ ( Shuddhananda Bharatiar)
 
 1258
 Are not the enticing words of this wily fraud
 Weapons that break my feminine reserve? *
- DL
+ (W.H. Drew and  J. Lazarus)
 
 1259
 Determined to sulk I went, but when my heart merged,
 I too went and clasped him. *
- JN, PS
+ (J. Narayanaswamy), (P.S. Sundaram)
 
 1260
 Can they ever think of refusing to be reconciled,
 Whose hearts melt like fat in fire?
- VS
+ (V.V.S. Aiyar)
 
 
 Notes:
-1251. Compare with 71. "Can love be latched and hidden? A trickling tear will proclaim it loud" - PS
-1259. Compare with 1284. “My friend, I went all set to quarrel, but my heart forgot and clasped him”. (PS)
+1251. Compare with 71. "Can love be latched and hidden? A trickling tear will proclaim it loud" - (P.S. Sundaram)
+1259. Compare with 1284. “My friend, I went all set to quarrel, but my heart forgot and clasped him”. ((P.S. Sundaram))
 
 127
 Mutual longings
@@ -7390,59 +7390,59 @@ She
 1261
 My eyes have lost their glow and my fingers worn out
 Marking the days of his absence. *
-KK
+(K. Kannan)
 
 1262
 What if I forget him now, my bright jewel?
 For it costs my beauty and armlets! *
-SI, DZ
+(K.R. Srinivasa Iyengar), (S.M. Diaz)
 Yes
 1263
 He parted from me longing for conquests;
 And if I live yet, it is longing for his return. *
-VS
+(V.V.S. Aiyar)
 Yes
 1264
 The thought of reunion when my love returns
 Makes my heart burgeon higher and higher.
-PS
+(P.S. Sundaram)
 Yes
 1265
 Pallor will soon disappear from my slim shoulders,
 Once my eyes feast seeing him.
-NV
+(N.V.K. Ashraf)
 
 1266
 Enough if he returns for a day,
 I will gorge him till all my ills vanish.
-NV
+(N.V.K. Ashraf)
 
 1267
 When he, dear as my eyes, returns,
 Should I frown or embrace him or do both? *
-SI
+(K.R. Srinivasa Iyengar)
 
 He
 1268
 May the king succeed in his efforts!
 I can then join my wife and party in the evenings.
-NV
+(N.V.K. Ashraf)
 
 1269
 Even a day will seem seven to those
 Who long for the day of their mate’s return.
-NV
+(N.V.K. Ashraf)
 
 1270
 To one dead of a broken heart, what avails my return,
 Meeting or even embrace?
-VS, PS
+(V.V.S. Aiyar), (P.S. Sundaram)
 
 
 Notes:
-1262. Can be translated differently based on how the word "என்" is being interpreted, whether as "what" or "mine". The phrase "மறப்பின் என்" could therefore mean either "What if I forget" or "If I forget, my" and thus giving different meanings. SI, SB, VS, DZ and KV have preferred the first one, while PS, KK, JN, MS, GU and DL have opted for the second interpretation. The first one has been preferred here. If the second rendering is chosen, then the couplet would be taken to mean: "My bright jewel, if I forget him now, bracelets will slide off my shoulders, losing its beauty" *- MS, JN. On the contrary, bracelets should actually slip and shoulders lose their beauty only when the lady keeps remembering her lover, not when she forgets!
-1263. An alternate good translation but not close to original: "With his mind set on conquests he left, while I live here with my eyes set on his return" - KV. Compare this with 1230: "Longing for him who left longing for wealth, the evenings have their toll on my undying soul" - NV
-1264. The phrase "கூடிய காமம் பிரிந்தார்" has been taken to mean differently. As [i] "One who embraced and parted" by MS, DZ, VS and [ii] "reunion when my love returns" by SB, PS. Both views seem to be correct, but KV and DL take somewhat a middle path "the lover returning with enhanced love" by taking the word "கூடிய" as enhanced. But the context of the buoyant heart going higher and higher at the thought of the lover’s return imply that she is thinking about the reunion of love.
+1262. Can be translated differently based on how the word "என்" is being interpreted, whether as "what" or "mine". The phrase "மறப்பின் என்" could therefore mean either "What if I forget" or "If I forget, my" and thus giving different meanings. (K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar), (V.V.S. Aiyar), (S.M. Diaz) and KV have preferred the first one, while (P.S. Sundaram), (K. Kannan), (J. Narayanaswamy), (M.S. Poornalingam Pillai), (G.U. Pope) and (W.H. Drew and  J. Lazarus) have opted for the second interpretation. The first one has been preferred here. If the second rendering is chosen, then the couplet would be taken to mean: "My bright jewel, if I forget him now, bracelets will slide off my shoulders, losing its beauty" *- (M.S. Poornalingam Pillai), (J. Narayanaswamy). On the contrary, bracelets should actually slip and shoulders lose their beauty only when the lady keeps remembering her lover, not when she forgets!
+1263. An alternate good translation but not close to original: "With his mind set on conquests he left, while I live here with my eyes set on his return" - KV. Compare this with 1230: "Longing for him who left longing for wealth, the evenings have their toll on my undying soul" - (N.V.K. Ashraf)
+1264. The phrase "கூடிய காமம் பிரிந்தார்" has been taken to mean differently. As [i] "One who embraced and parted" by (M.S. Poornalingam Pillai), (S.M. Diaz), (V.V.S. Aiyar) and [ii] "reunion when my love returns" by ( Shuddhananda Bharatiar), (P.S. Sundaram). Both views seem to be correct, but KV and (W.H. Drew and  J. Lazarus) take somewhat a middle path "the lover returning with enhanced love" by taking the word "கூடிய" as enhanced. But the context of the buoyant heart going higher and higher at the thought of the lover’s return imply that she is thinking about the reunion of love.
 128
 Sign language
 Translators
@@ -7451,22 +7451,22 @@ He
 1271
 Even if you hide, your divulging eyes reveal
 That something lurks your mind.
-NV
+(N.V.K. Ashraf)
 
 1272
 Her eye catching beauty and bamboo shoulders
 Simply enhance her feminine reserve!
-NV, JN
+(N.V.K. Ashraf), (J. Narayanaswamy)
 
 1273
 Something shines in her jeweled charm,
 Like the thread shining in a crystal bead.
-PS, SB
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 1274
 Something lurks behind her half smile
 Like the fragrance in a flower bud. *
-PS
+(P.S. Sundaram)
 
 1275
 The trickery caused by the braceleted one
@@ -7482,28 +7482,28 @@ KV
 1277
 Even before I could, my bangles figured out
 The immanent separation from my lord.
-NV
+(N.V.K. Ashraf)
 
 1278
 My lord left only yesterday,
 And I already have a week's pallor. *
-PS
+(P.S. Sundaram)
 Her friend to Him
 
 
 1279
 She did no more than show me her loose bracelets,
 Slender shoulders and swollen feet.
-KV, JN
+KV, (J. Narayanaswamy)
 Yes
 1280
 They say a woman is most womanly
 When she makes her eyes declare and plead. *
-PS
+(P.S. Sundaram)
 
 
 Notes:
-1275. Compare with 1102. "The cure for a disease is always different. But this jewel is both disease and cure" - DL, PS
+1275. Compare with 1102. "The cure for a disease is always different. But this jewel is both disease and cure" - (W.H. Drew and  J. Lazarus), (P.S. Sundaram)
 1279. This statement is made by the lady drawing the attention of the now returned husband to the changes her physique has undergone owing to separation.
 129
 Yearning for union
@@ -7512,59 +7512,59 @@ Notes
 1281
 To please with the thought and delight with the sight,
 Belongs not to liquor but love.
-PS
+(P.S. Sundaram)
 Yes
 1282
 Where love is as large as a palm tree,
 Even millet of sulk is misplaced. *
-KV, PS
+KV, (P.S. Sundaram)
 
 1283
 Let him neglect me and do what he will.
 My eyes will not rest till they see him.
-PS
+(P.S. Sundaram)
 
 1284
 My friend, I went all set to quarrel,
 But my heart forgot and clasped him.
-PS
+(P.S. Sundaram)
 Yes
 1285
 Like eyes that can’t see the painting brush,
 I don’t see his faults when I see him. *
-MS
+(M.S. Poornalingam Pillai)
 
 1286
 When I see him I see no faults, and when I don't,
 I see nothing but faults! *
-PS
+(P.S. Sundaram)
 
 1287
 It is folly to plunge into a known raging stream.
 Likewise, why sulk and plumb known lies? *
-PS
+(P.S. Sundaram)
 
 1288
 The drunkard seeks wine knowing well its shame;
 So does your bosom to me, O thief! *
-SI
+(K.R. Srinivasa Iyengar)
 Yes
 1289
 Love is more delicate than flower;
 Not many handle it properly. *
-JN
+(J. Narayanaswamy)
 
 1290
 Though hostile in the eyes, she was faster than me
 To break down and unite.
-KK
+(K. Kannan)
 
 
 Notes:
-1281. Compare with 1090: "Wine won't delight unless imbibed, but love with a look delights!" - PS and with 1201: "Love is sweeter than wine; its mere thought intoxicates" – PS
+1281. Compare with 1090: "Wine won't delight unless imbibed, but love with a look delights!" - (P.S. Sundaram) and with 1201: "Love is sweeter than wine; its mere thought intoxicates" – (P.S. Sundaram)
 1282. Compare with couplets 104 & 433 for the use of same similes “Millet” and “Palm tree”. “To the discerning even millet of aid is as big as a palm tree.” and “To those ashamed of wrong doings, even a millet of fault is as big as a palm-tree”
 1283. Compare with 1178. Five of the seven seers (metrical feet) between these two couplets are same! “பேணாது பெட்டார் உளர்-மன்னோ மற்று அவர்க் காணாது அமைவு இல கண்.”
-1284. Compare with 1294. "Who will consult you hereafter, my heart, having failed to sulk before yielding?" * - MS, PS. Also with 1259. “Determined to sulk I went, but when my heart merged, I too went and clasped him.” * (JN, PS)
+1284. Compare with 1294. "Who will consult you hereafter, my heart, having failed to sulk before yielding?" * - (M.S. Poornalingam Pillai), (P.S. Sundaram). Also with 1259. “Determined to sulk I went, but when my heart merged, I too went and clasped him.” * ((J. Narayanaswamy), (P.S. Sundaram))
 1288. Through disgraceful, drunkards seek to drink again. Even so, I long for your bosom in spite of your trickery.
 130
 Complaint to the heart
@@ -7573,57 +7573,57 @@ Notes
 1291
 My heart! You see his heart and stand by him,
 But why don’t you stand by me? *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1292
 My heart! Having seen his indifference,
 Why do you go after him in hope? *
-PS, KV
+(P.S. Sundaram), KV
 
 1293
 O my heart! Is it because the fallen have no friends
 That you madly run after him?
-SB, NV
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 
 1294
 Who will consult you hereafter, my heart,
 Having failed to sulk before yielding? *
-MS, PS
+(M.S. Poornalingam Pillai), (P.S. Sundaram)
 Yes
 1295
 Anxious of not getting, and of losing when got,
 Either way my heart is always anxious.
-NV, PS
+(N.V.K. Ashraf), (P.S. Sundaram)
 Yes
 1296
 If my heart stays with me here,
 It is to devour me when I am musing alone. *
-PS, VS
+(P.S. Sundaram), (V.V.S. Aiyar)
 
 1297
 Even modesty I have forgotten,
 Due to my meek and foolish heart unable to forget him. *
-DL, PS
+(W.H. Drew and  J. Lazarus), (P.S. Sundaram)
 
 1298
 My dear loving heart decrees, my lord is not to be shamed
 And thus hails only his glory. *
-SI, SB
+(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
 
 1299
 Who will help one in distress,
 When one’s own heart refuses to help? *
-DL
+(W.H. Drew and  J. Lazarus)
 
 1300
 When one's own heart behaves like a stranger,
 Why talk of strangers?
-PS
+(P.S. Sundaram)
 
 
 Notes:
-1294. Compare with 1284. "My friend, I went all set to quarrel, but my heart forgot and clasped him" - PS
-1295. Compare with 1179. "Sleepless when he is not here, sleepless when he is, either way my eyes never rest" - PS
+1294. Compare with 1284. "My friend, I went all set to quarrel, but my heart forgot and clasped him" - (P.S. Sundaram)
+1295. Compare with 1179. "Sleepless when he is not here, sleepless when he is, either way my eyes never rest" - (P.S. Sundaram)
 
 131
 Coyness
@@ -7632,12 +7632,12 @@ Notes
 1301
 Let me feign to be angry
 And see his pain of suffering for a while.
-NV
+(N.V.K. Ashraf)
 Yes
 1302
 Sulking is the salt of love. To prolong it
 Is like salt a little too much. *
-SB, DL
+( Shuddhananda Bharatiar), (W.H. Drew and  J. Lazarus)
 Yes
 She to Him
 
@@ -7645,12 +7645,12 @@ She to Him
 1303
 To leave a sulky woman alone
 Is to cause more pain to the suffering.
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1304
 To ignore a lady in pout is to cut
 An already withering climber at its root. *
-SB
+( Shuddhananda Bharatiar)
 
 He to Himself
 
@@ -7658,22 +7658,22 @@ He to Himself
 1305
 The beauty of her feigned anger has an attraction
 Even for the spotlessly pure men.
-NV, VS
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 
 1306
 Without frowns and sulking,
 Love is like a fruit unripe or overripe. *
-KK, JN
+(K. Kannan), (J. Narayanaswamy)
 
 1307
 Coyness has this one drawback.
 That is the worry of delayed union. *
-PS, NV
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 1308
 Why grieve when the lover is not there
 To know whether you are grieving? *
-PS
+(P.S. Sundaram)
 
 1309
 Just as the refreshing water in the shade,
@@ -7683,12 +7683,12 @@ KV
 1310
 Only my desire makes my heart pine for union
 With one who keeps on sulking.
-PS
+(P.S. Sundaram)
 
 
 Notes:
-1301. Compare with 1321. "Though he is not to blame, I feign sulking to bring out the best from of him" - NV
-1302. An alternate translation, easy to comprehend, but not close to original: "Love's salt is sulk. A pinch of it is welcome but too much will ruin the taste" - PS
+1301. Compare with 1321. "Though he is not to blame, I feign sulking to bring out the best from of him" - (N.V.K. Ashraf)
+1302. An alternate translation, easy to comprehend, but not close to original: "Love's salt is sulk. A pinch of it is welcome but too much will ruin the taste" - (P.S. Sundaram)
 
 132
 Lovers’ quarrels
@@ -7698,18 +7698,18 @@ She
 1311
 I won't clasp your broad chest,
 A common dish for all women's eyes to gorge! *
-PS
+(P.S. Sundaram)
 Yes
 1312
 When I sulked, he sneezed: hoping
 I would forget and say "Bless you".
-PS
+(P.S. Sundaram)
 
 He
 1313
 If I wear a wreath, she cries enraged:
 "For which woman's sake is this?" *
-PS
+(P.S. Sundaram)
 
 1314
 If I say "I love you more than any one",
@@ -7719,36 +7719,36 @@ KV
 1315
 The moment I said we won’t part in this life,
 Her eyes were filled with tears.
-DZ
+(S.M. Diaz)
 Yes
 1316
 "I remembered you", I said;
 "After forgetting?" said she withdrawing herself! *
-PS
+(P.S. Sundaram)
 
 1317
 She blessed as I sneezed, but soon recalled it crying:
 "Thinking whom did you sneeze?" *
-VS
+(V.V.S. Aiyar)
 
 1318
 When I suppressed my sneeze, she wept saying,
 "Whom are you hiding from me?"
-DL, NV
+(W.H. Drew and  J. Lazarus), (N.V.K. Ashraf)
 
 1319
 If I try making up with her, she would ask enraged,
 "Is this how you coax others as well?" *
-PS, JN
+(P.S. Sundaram), (J. Narayanaswamy)
 
 1320
 If I gaze at her in silence, she would fume and ask,
 "Thinking of whom this comparison?" *
-SI, PS
+(K.R. Srinivasa Iyengar), (P.S. Sundaram)
 
 
 Notes:
-1311. SI’s translation, though not literal, would explain this scenario: "All women graze on your breast, O false one! I reject your advances"
+1311. (K.R. Srinivasa Iyengar)’s translation, though not literal, would explain this scenario: "All women graze on your breast, O false one! I reject your advances"
 1315. ….. thinking of next birth
 
 133
@@ -7759,55 +7759,55 @@ She
 1321
 Though he is not to blame, I feign sulking
 To bring out the best in him.
- NV
+ (N.V.K. Ashraf)
 
 1322
 The pinpricks of sulking do not discourage
 But strengthen love.
- PS
+ (P.S. Sundaram)
 
 1323
 Is there a heaven higher than love’s sulk
 With hearts that join like earth and water?
- SB, VS
+ ( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 
 1324
 From this prolonged pout arises the weapon
 To break the defence of my heart.
- JN, NV
+ (J. Narayanaswamy), (N.V.K. Ashraf)
 
 He
 1325
 Even for the guiltless it is a joy to forgo briefly
 The shoulders from one’s clasp. *
-  PS
+  (P.S. Sundaram)
 
 1326
 More joyous than the meal is its digestion.
 So is sulking more joyous than union.
- NV, VS
+ (N.V.K. Ashraf), (V.V.S. Aiyar)
 
 1327
 In lovers' quarrels the loser wins,
 As shown when they make up.
- PS
+ (P.S. Sundaram)
 
 1328
 Will she sulk again to bring back the pleasure
 Of that union drenched in sweat? *
- KK
+ (K. Kannan)
 
 1329
 May the bright-jewel sulk,
 And may the night be prolonged for me to implore her! *
- DL
+ (W.H. Drew and  J. Lazarus)
 
 1330
 The joy of love lies in sulking, for that joy is realized
 While embracing in union.
- NV
+ (N.V.K. Ashraf)
 
 
 Notes:
-1321. Compare with 1301: "Let me feign to be angry and see his pain of suffering for a while" - NV 
+1321. Compare with 1301: "Let me feign to be angry and see his pain of suffering for a while" - (N.V.K. Ashraf) 
 
