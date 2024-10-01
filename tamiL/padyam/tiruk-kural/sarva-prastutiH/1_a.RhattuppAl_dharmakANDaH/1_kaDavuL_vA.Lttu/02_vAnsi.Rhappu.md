@@ -45,7 +45,13 @@ The world but lasts while rain shall fall.         11
 11
 उचित समय की वृष्टि से, जीवित है संसार ।  
 मानी जाती है तभी, वृष्टि अमृत की धार ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - ११</summary>
+
+11. मळयिन्दले लोकवु वर्धिसुत्तदॆ; अदुदरिन्द अदु अमृतक्कॆ सम   
+
+</details>
 
 <details><summary>मूलम् - ११</summary>
 
@@ -94,7 +100,13 @@ And forms a food and drink concrete.         12
 12
 आहारी को अति रुचिर‍, अन्नरूप आहार ।  
 वृष्ति सृष्टि कर फिर स्वयं, बनती है आहार ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १२</summary>
+
+12. उण्णुववरिगॆ तक्क उणिसन्नु बॆळॆयॆलु नॆरवागुवुदु मळॆ ; नीरडिकॆयिन्द बळलिदवरिगॆ ताने उणिसागुवुदु मळॆ.
+
+</details>
 
 <details><summary>मूलम् - १२</summary>
 
@@ -143,7 +155,13 @@ Distresses all the sea-girt earth.         13
 13
 बादल-दल बरसे नहीं, यदि मौसम में चूक ।  
 जलधि-धिरे भूलोक में, क्षुत से हो आति हूक ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १३</summary>
+
+13. मळॆ बारदॆ होदरॆ सुत्तलू नीरिनिन्द व्यापिसिद ई लोकवन्नु हसिवु काडुत्तदॆ.
+
+</details>
 
 <details><summary>मूलम् - १३</summary>
 
@@ -192,7 +210,13 @@ The ploughman's sacred toil must end.         14
 14
 कर्षक जन से खेत में, हल न चलाया जाय ।  
 धन-वर्षा-संपत्ति की, कम होती यदि आय ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १४</summary>
+
+14. मोडदिन्द सुरियुव मळॆय नीरिनाश्रयवु बलगुन्दितादरॆ रैतर व्यवसायवू निन्तन्तॆये
+
+</details>
 
 <details><summary>मूलम् - १४</summary>
 
@@ -241,7 +265,13 @@ But only rain can life restore.         15
 15
 वर्षा है ही आति प्रबल, सब को कर बरबाद ।  
 फिर दुखियों का साथ दे, करे वही आबाद ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १५</summary>
+
+15. सकालक्कॆ सुरियदॆ, मळॆ मनुष्यन बाळन्नु कॆडिसुत्तदॆ. अदे रीति सकालक्कॆ सुरिदु, कॆट्ट मनुष्यनन्नु मेलॆत्तुवुदू मळॆये.
+
+</details>
 
 <details><summary>मूलम् - १५</summary>
 
@@ -290,7 +320,13 @@ If from the cloud no drop appear.         16
 16
 बिना हुए आकाश से, रिमझिम रिमझिम वृष्टि ।  
 हरि भरी तृण नोक भी, आयेगी नहीं दृष्टि ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १६</summary>
+
+16. आकाशदिन्द मळॆहनि बेळदॆ, हसिरु हुल्लु कूड तलॆयॆत्तदु.
+
+</details>
 
 <details><summary>मूलम् - १६</summary>
 
@@ -339,7 +375,13 @@ Except the cloud its stores repay.         17
 17
 घटा घटा कर जल‍धि को, यदि न करे फिर दान ।  
 विस्तृत बड़े समुद्र का, पानी उतरा जान ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १७</summary>
+
+17. मोडवु मळॆयन्नु सुरिसुव कृपॆतोरदॆ होदल्लि, कडलिन अपार जलसम्पत्तु कूड कुग्गिहोगुवुदु.
+
+</details>
 
 <details><summary>मूलम् - १७</summary>
 
@@ -388,7 +430,13 @@ Would offerings for the gods deny.         18
 18
 देवाराधन नित्य का, उत्सव सहित अमंद ।  
 वृष्टि न हो तो भूमि पर, हो जावेगा बंद ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १८</summary>
+
+18. ई लोकदल्लि मळॆ सुरियदिद्दरॆ, मेलु लोकदल्लिरुव देवतॆगळिगू जनरु पूजॆ, उत्सवगळन्नु वैभवदिन्द नडॆसुवुदिल्ल.
+
+</details>
 
 <details><summary>मूलम् - १८</summary>
 
@@ -437,7 +485,13 @@ Nor alms nor penance earth would show.         19
 19
 इस विस्तृत संसार में, दान पुण्य तप कर्म ।  
 यदि पानी बरसे नहीं, टिकें न दोनों कर्म ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - १९</summary>
+
+19. मळॆयागदे होदरॆ ई लोकदल्लि दान, तपस्सु ऎरडू नॆलॆसि इरुवुदिल्ल.
+
+</details>
 
 <details><summary>मूलम् - १९</summary>
 
@@ -500,7 +554,12 @@ Sans rain our duties go in vain.         20
 20
 नीर बिना भूलोक का, ज्यों न चले व्यापार ।  
 कभी किसी में नहिं टिके, वर्षा बिन आचार ॥
-  </details>
+</details>
+
+<details><summary>श्रीनिवास (क) - २०</summary>
+
+20. नीरिनिन्दले लोकाचार ऎल्ल; मळॆ बारदिद्दरॆ, ऒळ्ळॆय आचार नडवळिकॆगळू नॆलॆयागि निल्लुवुदिल्ल.
+</details>
 
 <details><summary>मूलम् - २०</summary>
 
