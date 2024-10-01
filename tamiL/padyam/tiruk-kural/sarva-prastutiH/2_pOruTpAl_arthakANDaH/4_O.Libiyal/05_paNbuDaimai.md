@@ -4,7 +4,7 @@ title = "०५ पण्बुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९१</summary>
 
 ऎण्बदत्ताल् ऎय्दल् ऎळिदॆन्ब यार्माट्टुम्  
 पण्बुडैमै ऎन्नुम् वऴक्कु।      ९९१
@@ -61,7 +61,7 @@ Easily comes courteousness.        991
 पण्बुडैमै ऎन्नुम् वऴक्कु।      ९९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९२</summary>
 
 अन्बुडैमै आण्ड्र कुडिप्पिऱत्तल् इव्विरण्डुम्  
 पण्बुडैमै ऎन्नुम् वऴक्कु।       ९९२
@@ -117,7 +117,7 @@ Develop courtesy and moral worth.        992
 पण्बुडैमै ऎन्नुम् वऴक्कु।       ९९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९३</summary>
 
 उऱुप्पॊत्तल् मक्कळॊप्पु अण्ड्राल् वॆऱुत्तक्क  
 पण्बॊत्तल् ऒप्पदाम् ऒप्पु।       ९९३
@@ -173,7 +173,7 @@ It's likeness in kind courteousness.        993
 पण्बॊत्तल् ऒप्पदाम् ऒप्पु।       ९९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९४</summary>
 
 यनॊडु नण्ड्रि पुरिन्द पयनुडैयार्  
 पण्बुबा राट्टुम् उलगु।      ९९४
@@ -229,7 +229,7 @@ Whose actions are just and benign.        994
 पण्बुबा राट्टुम् उलगु।      ९९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९५</summary>
 
 नगैयुळ्ळुम् इन्ना तिगऴ्च्चि पगैयुळ्ळुम्  
 पण्बुळ पाडऱिवार् माट्टु।      ९९५
@@ -290,7 +290,7 @@ For contempt offends even in jest.        995
 पण्बुळ पाडऱिवार् माट्टु।      ९९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९६</summary>
 
 पण्बुडैयार्प् पट्टुण्डु उलगम् अदुइण्ड्रेल्  
 मण्बुक्कु माय्वदु मन्।      ९९६
@@ -346,7 +346,7 @@ Or it crumbles and falls to dust.        996
 मण्बुक्कु माय्वदु मन्।      ९९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९७</summary>
 
 अरम्बोलुम् कूर्मैय रेनुम् मरम्बोल्वर्  
 मक्कट्पण्बु इल्ला तवर्।      ९९७
@@ -402,7 +402,7 @@ Are like wooden blocks indocile.        997
 मक्कट्पण्बु इल्ला तवर्।      ९९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९८</summary>
 
 नण्बाट्रार् आगि नयमिल सॆय्वार्क्कुम्  
 पण्बाट्रार् आदल् कडै।       ९९८
@@ -457,7 +457,7 @@ E'en to a base unfriendly breed.        998
 पण्बाट्रार् आदल् कडै।       ९९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९९</summary>
 
 नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्  
 पगलुम्बाऱ्पट्टण्ड्रु इरुळ्।       ९९९
@@ -512,7 +512,7 @@ Even in day the earth is night.        999
 पगलुम्बाऱ्पट्टण्ड्रु इरुळ्।       ९९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०००</summary>
 
 पण्बिलान् पॆट्र पॆरुञ्जॆल्वम् नन्बाल्  
 कलन्दीमै याल्दिरिन् दट्रु।      १०००

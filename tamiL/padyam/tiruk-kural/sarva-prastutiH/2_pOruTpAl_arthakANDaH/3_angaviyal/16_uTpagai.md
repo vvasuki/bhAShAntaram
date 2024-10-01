@@ -4,7 +4,7 @@ title = "१६ उट्पगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८१</summary>
 
 निऴल्नीरुम् इन्नाद इन्ना तमर्नीरुम्  
 इन्नावाम् इन्ना सॆयिन्।       ८८१
@@ -61,7 +61,7 @@ As water and shade do harm when bad.        881
 इन्नावाम् इन्ना सॆयिन्।       ८८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८२</summary>
 
 वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग  
 केळ्बोल् पगैवर् तॊडर्बु।       ८८२
@@ -117,7 +117,7 @@ Fear foes who feign as kinsmen dear.        882
 केळ्बोल् पगैवर् तॊडर्बु।       ८८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८३</summary>
 
 उट्पगै अञ्जित्तऱ्काक्क उलैविडत्तु  
 मट्पगैयिन् माणत् तॆऱुम्।      ८८३
@@ -173,7 +173,7 @@ Will cut you, beware, like potters' steel.        883
 मट्पगैयिन् माणत् तॆऱुम्।      ८८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८४</summary>
 
 मनमाणा उट्पगै तोण्ड्रिन् इनमाणा  
 एदम् पलवुम् तरुम्।       ८८४
@@ -229,7 +229,7 @@ Foments trouble, spoils kinsmen!        884
 एदम् पलवुम् तरुम्।       ८८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८५</summary>
 
 उऱल्मुऱैयान् उट्पगै तोण्ड्रिन् इऱल्मुऱैयान्  
 एदम् पलवुम् तरुम्।       ८८५
@@ -285,7 +285,7 @@ Bring life-endangering evil.        885
 एदम् पलवुम् तरुम्।       ८८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८६</summary>
 
 ऒण्ड्रामै ऒण्ड्रियार् कट्पडिन् ऎञ्ञाण्ड्रुम्  
 पॊण्ड्रामै ऒण्ड्रल् अरिदु।      ८८६
@@ -340,7 +340,7 @@ Life-destroying deadly evils.        886
 पॊण्ड्रामै ऒण्ड्रल् अरिदु।      ८८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८७</summary>
 
 सॆप्पिन् पुणर्च्चिबोल् कूडिनुम् कूडादे  
 उट्पगै उट्र कुडि।      ८८७
@@ -396,7 +396,7 @@ Just seems on like the lid in jar.        887
 उट्पगै उट्र कुडि।      ८८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८८</summary>
 
 अरम्बॊरुद पॊन्बोलत् तेयुम् उरम्बॊरुदु  
 उट्पगै उट्र कुडि।      ८८८
@@ -451,7 +451,7 @@ Like gold crumbling by file's contact.        888
 उट्पगै उट्र कुडि।      ८८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८९</summary>
 
 ऎट्पग वन्न सिऱुमैत्ते आयिनुम्  
 उट्पगै उळ्ळदाङ् गेडु।       ८८९
@@ -506,7 +506,7 @@ As slit in sesame though it be.        889
 उट्पगै उळ्ळदाङ् गेडु।       ८८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९०</summary>
 
 उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्  
 पाम्बोडु उडनुऱैन् दट्रु।      ८९०

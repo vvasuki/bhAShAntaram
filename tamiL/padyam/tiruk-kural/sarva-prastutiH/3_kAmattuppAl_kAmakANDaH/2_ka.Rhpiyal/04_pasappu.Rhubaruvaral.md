@@ -4,7 +4,7 @@ title = "०४ पसप्पुऱुबरुवरल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८१</summary>
 
 नयन्दवर्क्कु नल्गामै नेर्न्देन् पसन्दवॆन्  
 पण्बियार्क्कु उरैक्को पिऱ।       ११८१
@@ -65,7 +65,7 @@ Whom to complain my hue pallid?        1181
 पण्बियार्क्कु उरैक्को पिऱ।       ११८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८२</summary>
 
 अवर्दन्दार् ऎन्नुम् तगैयाल् इवर्दन्दॆन्  
 मेनिमेल् ऊरुम् पसप्पु।       ११८२
@@ -120,7 +120,7 @@ Pallor creeps and rides over my frame.        1182
 मेनिमेल् ऊरुम् पसप्पु।       ११८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८३</summary>
 
 सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा  
 नोयुम् पसलैयुम् तन्दु।       ११८३
@@ -176,7 +176,7 @@ Leaving pangs and Pallor to me.        1183
 नोयुम् पसलैयुम् तन्दु।       ११८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८४</summary>
 
 उळ्ळुवन् मन्यान् उरैप्पदु अवर्दिऱमाल्  
 कळ्ळम् पिऱवो पसप्पु।       ११८४
@@ -232,7 +232,7 @@ Yet this pallor steals over my frame.        1184
 कळ्ळम् पिऱवो पसप्पु।       ११८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८५</summary>
 
 उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎन्  
 मेनि पसप्पूर् वदु।       ११८५
@@ -287,7 +287,7 @@ And pallor usurped my body here.        1185
 मेनि पसप्पूर् वदु।       ११८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८६</summary>
 
 विळक्कट्रम् पार्क्कुम् इरुळेबोल् कॊण्गन्  
 मुयक्कट्रम् पार्क्कुम् पसप्पु।       ११८६
@@ -342,7 +342,7 @@ Pallor looks for lover's arms-off.        1186
 मुयक्कट्रम् पार्क्कुम् पसप्पु।       ११८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८७</summary>
 
 पुल्लिक् किडन्देन् पुडैबॆयर्न्देन् अव्वळविल्  
 अळ्ळिक्कॊळ् वट्रे पसप्पु।       ११८७
@@ -398,7 +398,7 @@ This pallor swallowed me at once.        1187
 अळ्ळिक्कॊळ् वट्रे पसप्पु।       ११८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८८</summary>
 
 पसन्दाळ् इवळ्ऎन्बदु अल्लाल् इवळैत्  
 तुऱन्दार् अवर्ऎन्बार् इल्।       ११८८
@@ -454,7 +454,7 @@ But none says "lo he parted her".        1188
 तुऱन्दार् अवर्ऎन्बार् इल्।       ११८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८९</summary>
 
 पसक्कमन् पट्टाङ्गॆन् मेनि नयप्पित्तार्  
 नन्निलैयर् आवर् ऎनिन्।       ११८९
@@ -509,7 +509,7 @@ If he who took my leave fares well.        1189
 नन्निलैयर् आवर् ऎनिन्।       ११८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९०</summary>
 
 पसप्पॆनप् पेर्बॆऱुदल् नण्ड्रे नयप्पित्तार्  
 नल्गामै तूट्रार् ऎनिन्।       ११९०

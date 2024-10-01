@@ -4,7 +4,7 @@ title = "१० कूडानट्पु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२१</summary>
 
 सीरिडम् काणिन् ऎऱिदऱ्कुप् पट् टडै  
 नेरा निरन्दवर् नट्पु।       ८२१
@@ -60,7 +60,7 @@ Is anvil in time, to strike you down.        821
 नेरा निरन्दवर् नट्पु।       ८२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
 
 इनम्बोण्ड्रु इनमल्लार् केण्मै मगळिर्  
 मनम्बोल वेऱु पडुम्।       ८२२
@@ -115,7 +115,7 @@ Their friendship's fickle like woman's heart.        822
 मनम्बोल वेऱु पडुम्।       ८२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
 
 पलनल्ल कट्रक् कडैत्तु मननल्लर्  
 आगुदल् माणार्क् करिदु।      ८२३
@@ -170,7 +170,7 @@ But heartfelt-love is hard for foes.        823
 आगुदल् माणार्क् करिदु।      ८२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२४</summary>
 
 मुगत्तिन् इनिय नगाअ अगत्तिन्ना  
 वञ्जरै अञ्जप् पडुम्।       ८२४
@@ -230,7 +230,7 @@ Whose heart is full of cunning guiles.        824
 वञ्जरै अञ्जप् पडुम्।       ८२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
 
 मनत्तिन् अमैया तवरै ऎनैत्तॊण्ड्रुम्  
 सॊल्लिनाल् तेऱऱ्पाट्रु अण्ड्रु।      ८२५
@@ -290,7 +290,7 @@ Whose mind with your mind goes ill.        825
 सॊल्लिनाल् तेऱऱ्पाट्रु अण्ड्रु।      ८२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
 
 नट्टार्बोल् नल्लवै सॊल्लिनुम् ऒट्टार्सॊल्  
 ऒल्लै उणरप् पडुम्।       ८२६
@@ -345,7 +345,7 @@ Though they speak like friends in fine.        826
 ऒल्लै उणरप् पडुम्।       ८२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२७</summary>
 
 सॊल्वणक्कम् ऒन्नार्गण् कॊळ्ळऱ्क विल्वणक्कम्  
 तीङ्गु कुऱित्तमै यान्।      ८२७
@@ -400,7 +400,7 @@ Danger darts from bending bows.        827
 तीङ्गु कुऱित्तमै यान्।      ८२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२८</summary>
 
 तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒन्नार्  
 अऴुदगण् णीरुम् अनैत्तु।      ८२८
@@ -455,7 +455,7 @@ Their sobbing tears have lurking harms.        828
 अऴुदगण् णीरुम् अनैत्तु।      ८२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
 
 मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
 नट्पिनुळ् साप्पुल्लऱ्पाट्रु।       ८२९
@@ -510,7 +510,7 @@ Cajole and crush them in friendly guise.        829
 नट्पिनुळ् साप्पुल्लऱ्पाट्रु।       ८२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
 
 पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु  
 अगनट्पु ऒरीइ विडल्।       ८३०

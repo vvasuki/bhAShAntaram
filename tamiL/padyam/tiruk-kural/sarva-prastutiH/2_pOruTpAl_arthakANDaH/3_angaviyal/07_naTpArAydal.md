@@ -4,7 +4,7 @@ title = "०७ नट्पाराय्दल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९१</summary>
 
 नाडादु नट् टलिऱ्केडिल्लै नट्टबिन्  
 वीडिल्लै नट्पाळ् पवर्क्कु।      ७९१
@@ -60,7 +60,7 @@ For contacts formed will scarcely cease.        791
 वीडिल्लै नट्पाळ् पवर्क्कु।      ७९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९२</summary>
 
 आय्न्दाय्न्दु कॊळ्ळादान् केण्मै कडैमुऱै  
 तान्साम् तुयरम् तरुम्।       ७९२
@@ -120,7 +120,7 @@ Shall end in grief and death at last.        792
 तान्साम् तुयरम् तरुम्।       ७९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९३</summary>
 
 कुणमुम् कुडिमैयुम् कुट्रमुम् कुण्ड्रा  
 इननुम् अऱिन्दियाक्क नट्पु।      ७९३
@@ -175,7 +175,7 @@ Trace well and take companions.        793
 इननुम् अऱिन्दियाक्क नट्पु।      ७९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९४</summary>
 
 कुडिप्पिऱन्दु तन्गण् पऴिनाणु वानैक्  
 कॊडुत्तुम् कॊळल्वेण्डुम् नट्पु।       ७९४
@@ -230,7 +230,7 @@ The nobly born who shun disgrace.        794
 कॊडुत्तुम् कॊळल्वेण्डुम् नट्पु।       ७९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९५</summary>
 
 अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय  
 वल्लार्नडबु आय्न्दु कॊळल्।       ७९५
@@ -290,7 +290,7 @@ And lead you right are worthy friends.        795
 वल्लार्नडबु आय्न्दु कॊळल्।       ७९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९६</summary>
 
 केट्टिनुम् उण्डो र् उऱुदि किळैञरै  
 नीट्टि अळप्पदोर् कोल्।       ७९६
@@ -345,7 +345,7 @@ A rod to measure out kinsmen?        796
 नीट्टि अळप्पदोर् कोल्।       ७९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९७</summary>
 
 ऊदियम् ऎन्बदु ऒरुवऱ्कुप् पेदैयार्  
 केण्मै ऒरीइ विडल्।       ७९७
@@ -400,7 +400,7 @@ The greatest gain so say the wise.        797
 केण्मै ऒरीइ विडल्।       ७९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९८</summary>
 
 उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क  
 अल्लऱ्कण् आट्रऱुप्पार् नट्पु।       ७९८
@@ -455,7 +455,7 @@ Off with friends that in woe depart.        798
 अल्लऱ्कण् आट्रऱुप्पार् नट्पु।       ७९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९९</summary>
 
 कॆडुङ्गालैक् कैविडुवार् केण्मै अडुङ्गालै  
 उळ्ळिनुम् उळ्ळञ् जुडुम्।       ७९९
@@ -510,7 +510,7 @@ Burn our mind ev'n at death to think.        799
 उळ्ळिनुम् उळ्ळञ् जुडुम्।       ७९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८००</summary>
 
 मरुवुग मासट्रार् केण्मैऒन् ऱीत्तुम्  
 ऒरुवुग ऒप्पिलार् नट्पु।      ८००

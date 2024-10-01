@@ -4,7 +4,7 @@ title = "०१ तगैयणङ्गुऱुत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८१</summary>
 
 अणङ्गुगॊल् आय्मयिल् कॊल्लो कनङ्गुऴै  
 मादर्गॊल् मालुम् ऎन् नॆञ्जु।      १०८१
@@ -59,7 +59,7 @@ Or jewelled belle? To my mind a shock!        1081
 मादर्गॊल् मालुम् ऎन् नॆञ्जु।      १०८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८२</summary>
 
 नोक्किनाळ् नोक्कॆदिर् नोक्कुदल् ताक्कणङ्गु  
 तानैक्कॊण् डन्न तुडैत्तु।       १०८२
@@ -114,7 +114,7 @@ Are armied dart of the Love-Angel.        1082
 तानैक्कॊण् डन्न तुडैत्तु।       १०८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८३</summary>
 
 पण्डऱियेन् कूट्रॆन् पदनै इनियऱिन्देन्  
 पॆण्डगैयाल् पेरमर्क् कट्टु।       १०८३
@@ -169,7 +169,7 @@ In woman's guise with battling eyes.        1083
 पॆण्डगैयाल् पेरमर्क् कट्टु।       १०८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८४</summary>
 
 कण्डार् उयिरुण्णुम् तोट्रत्ताल् पॆण्डगैप्  
 पेदैक्कु अमर्त्तन कण्।       १०८४
@@ -224,7 +224,7 @@ That drink the life of men who gaze.        1084
 पेदैक्कु अमर्त्तन कण्।       १०८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८५</summary>
 
 कूट्रमो कण्णो पिणैयो मडवरल्  
 नोक्कमिम् मूण्ड्रुम् उडैत्तु।       १०८५
@@ -279,7 +279,7 @@ In winsome woman's look I see.        1085
 नोक्कमिम् मूण्ड्रुम् उडैत्तु।       १०८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८६</summary>
 
 कॊडुम्बुरुवम् कोडा मऱैप्पिन् नडुङ्गञर्  
 सॆय्यल मन्इवळ् कण्।       १०८६
@@ -334,7 +334,7 @@ Her eyes won't cause me trembling pain.        1086
 सॆय्यल मन्इवळ् कण्।       १०८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८७</summary>
 
 कडाअक् कळिट्रिन्मेऱ्कट्पडाम् मादर्  
 पडाअ मुलैमेल् तुगिल्।       १०८७
@@ -389,7 +389,7 @@ Looks like rutting tusker's eye-cover.        1087
 पडाअ मुलैमेल् तुगिल्।       १०८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८८</summary>
 
 ऒण्णुदऱ्कोऒ उडैन्ददे ञाट्पिनुळ्  
 नण्णारुम् उट्कुमॆन् पीडु।       १०८८
@@ -444,7 +444,7 @@ Feared by foemen yet to meet.        1088
 नण्णारुम् उट्कुमॆन् पीडु।       १०८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८९</summary>
 
 पिणैयेर् मडनोक्कुम् नाणुम् उडैयाट्कु  
 अणियॆवनो एदिल तन्दु।       १०८९
@@ -499,7 +499,7 @@ With fawn-like looks and modesty?        1089
 अणियॆवनो एदिल तन्दु।       १०८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०९०</summary>
 
 उण्डार्गण् अल्लदु अडुनऱाक् कामम्बोल्  
 कण्डार् मगिऴ्सॆय्दल् इण्ड्रु।      १०९०

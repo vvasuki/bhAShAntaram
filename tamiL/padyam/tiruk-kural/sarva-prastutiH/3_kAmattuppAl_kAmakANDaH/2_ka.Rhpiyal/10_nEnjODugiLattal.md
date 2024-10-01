@@ -4,7 +4,7 @@ title = "१० नॆञ्जॊडुगिळत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४१</summary>
 
 निनैत्तॊण्ड्रु सॊल्लायो नॆञ्जे ऎनैत्तॊण्ड्रुम्  
 ऎव्वनोय् तीर्क्कुम् मरुन्दु।      १२४१
@@ -59,7 +59,7 @@ To cure this chronic malady.        1241
 ऎव्वनोय् तीर्क्कुम् मरुन्दु।      १२४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४२</summary>
 
 कादल् अवरिलर् आगनी नोवदु  
 पेदैमै वाऴियॆन् नॆञ्जु।       १२४२
@@ -115,7 +115,7 @@ For me he has no love serene.        1242
 पेदैमै वाऴियॆन् नॆञ्जु।       १२४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४३</summary>
 
 इरुन्दुळ्ळि ऎन्बरिदल् नॆञ्जे परिन्दुळ्ळल्  
 पैदल्नोय् सॆय्दार्गण् इल्।       १२४३
@@ -171,7 +171,7 @@ Who made you so pale lacks pity.        1243
 पैदल्नोय् सॆय्दार्गण् इल्।       १२४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४४</summary>
 
 कण्णुम् कॊळच्चेऱि नॆञ्जे इवैयॆन्नैत्  
 तिन्नुम् अवर्क्काणल् उट्रु।       १२४४
@@ -232,7 +232,7 @@ Or their hunger will eat me out.        1244
 तिन्नुम् अवर्क्काणल् उट्रु।       १२४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४५</summary>
 
 सॆट्रार् ऎनक्कै विडल्उण्डो नॆञ्जेयाम्  
 उट्राल् उऱाअ तवर्।      १२४५
@@ -287,7 +287,7 @@ Can we desert him as unkind?        1245
 उट्राल् उऱाअ तवर्।      १२४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४६</summary>
 
 कलन्दुणर्त्तुम् कादलर्क् कण्डाऱ्पुलन्दुणराय्  
 पॊय्क्काय्वु काय्दिऎन् नॆञ्जु।       १२४६
@@ -343,7 +343,7 @@ Sans huff, you rush to his sweet embrace.        1246
 पॊय्क्काय्वु काय्दिऎन् नॆञ्जु।       १२४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४७</summary>
 
 कामम् विडुऒण्ड्रो नाण्विडु नन्नॆञ्जे  
 यानो पॊऱेन्इव् विरण्डु।       १२४७
@@ -399,7 +399,7 @@ I cannot endure both of them.        1247
 यानो पॊऱेन्इव् विरण्डु।       १२४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४८</summary>
 
 परिन्दवर् नल्गारॆण्ड्रु एङ्गिप् पिरिन्दवर्  
 पिन्सॆल्वाय् पेदैऎन् नॆञ्जु।       १२४८
@@ -455,7 +455,7 @@ You sigh and seek his favour, poor heart!        1248
 पिन्सॆल्वाय् पेदैऎन् नॆञ्जु।       १२४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४९</summary>
 
 उळ्ळत्तार् काद लवराल् उळ्ळिनी  
 यारुऴैच् चेऱियॆन् नॆञ्जु।       १२४९
@@ -510,7 +510,7 @@ Whom you think, mind to whom you go?        1249
 यारुऴैच् चेऱियॆन् नॆञ्जु।       १२४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२५०</summary>
 
 तुन्नात् तुऱन्दारै नॆञ्जत्तु उडैयेमा  
 इन्नुम् इऴत्तुम् कविन्।       १२५०

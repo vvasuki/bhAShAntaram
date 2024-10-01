@@ -4,7 +4,7 @@ title = "२४ आळ्विनैयुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६११</summary>
 
 अरुमै उडैत्तॆण्ड्रु असावामै वेण्डुम्  
 पॆरुमै मुयऱ्चि तरुम्।       ६११
@@ -60,7 +60,7 @@ Who tries attains striving's reward.        611
 पॆरुमै मुयऱ्चि तरुम्।       ६११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१२</summary>
 
 विनैक्कण् विनैगॆडल् ओम्बल् विनैक्कुऱै  
 तीर्न्दारिन् तीर्न्दण्ड्रु उलगु।       ६१२
@@ -116,7 +116,7 @@ The world will quit who quits his work.        612
 तीर्न्दारिन् तीर्न्दण्ड्रु उलगु।       ६१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१३</summary>
 
 ताळाण्मै ऎन्नुम् तगैमैक्कण् तङ्गिट्रे  
 वेळाण्मै ऎन्नुञ् जॆरुक्कु।       ६१३
@@ -171,7 +171,7 @@ Depends magnanimous bounty.        613
 वेळाण्मै ऎन्नुञ् जॆरुक्कु।       ६१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१४</summary>
 
 ताळाण्मै इल्लादान् वेळाण्मै पेडिगै  
 वाळाण्मै पोलक् कॆडुम्।       ६१४
@@ -232,7 +232,7 @@ Like sword in eunuch's hand it fails.        614
 वाळाण्मै पोलक् कॆडुम्।       ६१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१५</summary>
 
 इन्बम् विऴैयान् विनैविऴैवान् तन्गेळिर्  
 तुन्बम् तुडैत्तूण्ड्रुम् तूण्।       ६१५
@@ -288,7 +288,7 @@ Wipes grief of friends, pillar secure.        615
 तुन्बम् तुडैत्तूण्ड्रुम् तूण्।       ६१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१६</summary>
 
 मुयऱ्चि तिरुविनै आक्कुम् मुयट्रिन्मै  
 इन्मै पुगुत्ति विडुम्।       ६१६
@@ -343,7 +343,7 @@ Indolence brings but poverty.        616
 इन्मै पुगुत्ति विडुम्।       ६१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१७</summary>
 
 मडियुळाळ् मामुगडि ऎन्ब मडियिलान्  
 ताळुळान् तामरैयि नाळ्।       ६१७
@@ -404,7 +404,7 @@ Illuck abides with sloth they say
 ताळुळान् तामरैयि नाळ्।       ६१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१८</summary>
 
 पॊऱियिन्मै यार्क्कुम् पऴियण्ड्रु अऱिवऱिन्दु  
 आळ्विनै इन्मै पऴि।       ६१८
@@ -459,7 +459,7 @@ The shame is nothing learnt or done.        618
 आळ्विनै इन्मै पऴि।       ६१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१९</summary>
 
 तॆय्वत्तान् आगा तॆनिनुम् मुयऱ्चिदन्  
 मॆय्वरुत्तक् कूलि तरुम्।       ६१९
@@ -519,7 +519,7 @@ Hard labour has ready payment.        619
 मॆय्वरुत्तक् कूलि तरुम्।       ६१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२०</summary>
 
 ऊऴैयुम् उप्पक्कम् काण्बर् उलैविण्ड्रित्  
 ताऴादु उञट्रु पवर्।       ६२०

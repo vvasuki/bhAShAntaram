@@ -4,7 +4,7 @@ title = "१४ पुणर्च्चिविदुम्बल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८१</summary>
 
 उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
 कळ्ळुक्किल् कामत्तिऱ्कुण्डु।      १२८१
@@ -65,7 +65,7 @@ Belong to love and not to wine.        1281
 कळ्ळुक्किल् कामत्तिऱ्कुण्डु।      १२८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८२</summary>
 
 तिनैत्तुणैयुम् ऊडामै वेण्डुम् पनैत् तुणैयुम्  
 कामम् निऱैय वरिन्।      १२८२
@@ -126,7 +126,7 @@ Sulking is wrong though millet-small.        1282
 कामम् निऱैय वरिन्।      १२८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८३</summary>
 
 पेणादु पॆट्पवे सॆय्यिनुम् कॊण्गनैक्  
 काणा तमैयल कण्।       १२८३
@@ -187,7 +187,7 @@ My restless eyes would see him still.        1283
 काणा तमैयल कण्।       १२८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८४</summary>
 
 ऊडऱ्कण् सॆण्ड्रेन्मन् तोऴि अदुमऱन्दु  
 कूडऱ्कण् सॆण्ड्रदु ऎन् नॆञ्जु।      १२८४
@@ -248,7 +248,7 @@ And leap to embrace him direct.        1284
 कूडऱ्कण् सॆण्ड्रदु ऎन् नॆञ्जु।      १२८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८५</summary>
 
 ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गन्  
 पऴिगाणेन् कण्ड इडत्तु।      १२८५
@@ -304,7 +304,7 @@ Like eyes that see not painter's brush.        1285
 पऴिगाणेन् कण्ड इडत्तु।      १२८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८६</summary>
 
 काणुङ्गाल् काणेन् तवऱाय काणाक्काल्  
 काणेन् तवऱल् लवै।      १२८६
@@ -360,7 +360,7 @@ And nought but fault when he is not.        1286
 काणेन् तवऱल् लवै।      १२८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८७</summary>
 
 उय्त्तल् अऱिन्दु पुनल्बाय् पवरेबोल्  
 पॊय्त्तल् अऱिन्दॆन् पुलन्दु।      १२८७
@@ -416,7 +416,7 @@ When lord is close to feign a huff.        1287
 पॊय्त्तल् अऱिन्दॆन् पुलन्दु।      १२८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८८</summary>
 
 इळित्तक्क इन्ना सॆयिनुम् कळित्तार्क्कुक्  
 कळ्ळट्रे कळ्वनिन् मार्बु।      १२८८
@@ -477,7 +477,7 @@ Your breast, O thief, is for my embrace!        1288
 कळ्ळट्रे कळ्वनिन् मार्बु।      १२८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८९</summary>
 
 मलरिनुम् मॆल्लिदु कामम् सिलर्अदन्  
 सॆव्वि तलैप्पडु वार्।      १२८९
@@ -532,7 +532,7 @@ Know its delicacy so fine.        1289
 सॆव्वि तलैप्पडु वार्।      १२८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९०</summary>
 
 कण्णिन् तुनित्ते कलङ्गिनाळ् पुल्लुदल्  
 ऎन्निनुम् तान्विदुप् पुट्रु।      १२९०

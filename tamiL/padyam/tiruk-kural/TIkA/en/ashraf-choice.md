@@ -3,6 +3,10 @@ title = "Ashraf choice"
 
 +++
 
+Source: [TW](https://kuraltranslations.blogspot.com/2010/08/1-10_1.html)
+
+
+## Translating
 
 ०१९
 Avoiding slander

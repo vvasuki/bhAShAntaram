@@ -4,7 +4,7 @@ title = "१७ तीविनैयच्चम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०१</summary>
 
 तीविनैयार् अञ्जार् विऴुमियार् अञ्जुवर्  
 तीविनै ऎन्नुम् सॆरुक्कु।       २०१
@@ -64,7 +64,7 @@ The worthy dread the ill within.        201
 तीविनै ऎन्नुम् सॆरुक्कु।       २०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०२</summary>
 
 तीयवै तीय पयत्तलाल् तीयवै  
 तीयिनुम् अञ्जप् पडुम्।       २०२
@@ -119,7 +119,7 @@ Fear ye evil more than fire.        202
 तीयिनुम् अञ्जप् पडुम्।       २०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०३</summary>
 
 अऱिविनुळ् ऎल्लान् दलैयॆन्ब तीय  
 सॆऱुवार्क्कुम् सॆय्या विडल्।       २०३
@@ -179,7 +179,7 @@ Who injure not even their foes.        203
 सॆऱुवार्क्कुम् सॆय्या विडल्।       २०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०४</summary>
 
 मऱन्दुम् पिऱन्गेडु सूऴऱ्क सूऴिन्  
 अऱञ्जूऴम् सूऴ्न्दवन् केडु।       २०४
@@ -234,7 +234,7 @@ The ruin of another man's.        204
 अऱञ्जूऴम् सूऴ्न्दवन् केडु।       २०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०५</summary>
 
 इलन् ऎण्ड्रु तीयवै सॆय्यऱ्क सॆय्यिन्  
 इलनागुम् मट्रुम् पॆयर्त्तु।       २०५
@@ -289,7 +289,7 @@ Shall reduce himself poorer still.        205
 इलनागुम् मट्रुम् पॆयर्त्तु।       २०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०६</summary>
 
 तीप्पाल तान्बिऱर्गण् सॆय्यऱ्क नोय्प्पाल  
 तन्नै अडल्वेण्डा तान्।       २०६
@@ -345,7 +345,7 @@ Who would from harm himself remain.        206
 तन्नै अडल्वेण्डा तान्।       २०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०७</summary>
 
 ऎनैप्पगै युट्रारुम् उय्वर् विनैप्पगै  
 वीयादु पिन्सॆण्ड्रु अडुम्।       २०७
@@ -400,7 +400,7 @@ But sin its deadly blow will give.        207
 वीयादु पिन्सॆण्ड्रु अडुम्।       २०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०८</summary>
 
 तीयवै सॆय्दार् कॆडुदल् निऴल्दन्नै  
 वीयादु अइउऱैन् दट्रु।       २०८
@@ -456,7 +456,7 @@ As shadow follows as they go.        208
 वीयादु अइउऱैन् दट्रु।       २०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०९</summary>
 
 तन्नैत्तान् कादल नायिन् ऎनैत्तॊण्ड्रुम्  
 तुन्नऱ्क तीविनैप् पाल्।       २०९
@@ -511,7 +511,7 @@ Think of evil however small.        209
 तुन्नऱ्क तीविनैप् पाल्।       २०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१०</summary>
 
 अरुङ्गेडन् ऎन्बदु अऱिग मरुङ्गोडित्  
 तीविनै सॆय्यान् ऎनिन्।       २१०

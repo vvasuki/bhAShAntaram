@@ -4,7 +4,7 @@ title = "०७ सॆय्न्नण्ड्रि अऱिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१</summary>
 
 सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्  
 वानगमुम् आट्रल् अरिदु।      १०१
@@ -59,7 +59,7 @@ Exceeds in worth earth and heaven.         101
 वानगमुम् आट्रल् अरिदु।      १०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२</summary>
 
 कालत्ति नाऱ्चॆय्द नण्ड्रि सिऱिदॆनिनुम्  
 ञालत्तिन् माणप् पॆरिदु।      १०२
@@ -114,7 +114,7 @@ Though small is greater than the world.         102
 ञालत्तिन् माणप् पॆरिदु।      १०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०३</summary>
 
 पयन्दूक्कार् सॆय्द उदवि नयन्दूक्किन्  
 नन्मै कडलिन् पॆरिदु।      १०३
@@ -169,7 +169,7 @@ Outweighs the sea in grand effects.         103
 नन्मै कडलिन् पॆरिदु।      १०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४</summary>
 
 तिनैत्तुणै नण्ड्रि सॆयिनुम् पनैत्तुणैयाक्  
 कॊळ्वर् पयन्दॆरि वार्।      १०४
@@ -229,7 +229,7 @@ Knowers count its good palm- tree tall.         104
 कॊळ्वर् पयन्दॆरि वार्।      १०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५</summary>
 
 उदवि वरैत्तण्ड्रु उदवि उदवि  
 सॆयप्पट्टार् साल्बिन् वरैत्तु।      १०५
@@ -289,7 +289,7 @@ It is gainer's worth and pleasure.         105
 सॆयप्पट्टार् साल्बिन् वरैत्तु।      १०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६</summary>
 
 मऱवऱ्क मासट्रार् केण्मै तुऱवऱ्क  
 तुन्बत्तुळ् तुप्पायार् नट्पु।      १०६
@@ -344,7 +344,7 @@ Forsake not timely helpers sure.         106
 तुन्बत्तुळ् तुप्पायार् नट्पु।      १०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७</summary>
 
 ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्  
 विऴुमन् दुडैत्तवर् नट्पु।      १०७
@@ -399,7 +399,7 @@ The willing friend who wiped one's tears.         107
 विऴुमन् दुडैत्तवर् नट्पु।      १०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८</summary>
 
 नण्ड्रि मऱप्पदु नण्ड्रण्ड्रु नण्ड्रल्लदु  
 अण्ड्रे मऱप्पदु नण्ड्रु।      १०८
@@ -454,7 +454,7 @@ Good it is over wrong not to brood.         108
 अण्ड्रे मऱप्पदु नण्ड्रु।      १०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०९</summary>
 
 कॊण्ड्रन्न इन्ना सॆयिनुम् अवर्सॆय्द  
 ऒण्ड्रुनण्ड्रु उळ्ळक् कॆडुम्।      १०९
@@ -509,7 +509,7 @@ While remembering one good-turn.         109
 ऒण्ड्रुनण्ड्रु उळ्ळक् कॆडुम्।      १०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०</summary>
 
 ऎन्नण्ड्रि कॊण्ड्रार्क्कुम् उय्वुण्डाम् उय्विल्लै  
 सॆय्न्नण्ड्रि कॊण्ड्र मगऱ्कु।      ११०

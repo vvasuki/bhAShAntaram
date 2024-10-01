@@ -4,7 +4,7 @@ title = "०६ निनैन्दवर्बुलम्बल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०१</summary>
 
 उळ्ळिनुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्  
 कळ्ळिनुम् कामम् इनिदु।       १२०१
@@ -65,7 +65,7 @@ Is its delight at very thought.        1201
 कळ्ळिनुम् कामम् इनिदु।       १२०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०२</summary>
 
 ऎनैत्तॊनऱु एनिदेगाण् कामम्दाम् वीऴ्वार्  
 निनैप्प वरुवदॊण्ड्रु एल्।       १२०२
@@ -121,7 +121,7 @@ In all aspects this love is sweet.        1202
 निनैप्प वरुवदॊण्ड्रु एल्।       १२०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०३</summary>
 
 निनैप्पवर् पोण्ड्रु निनैयार्गॊल् तुम्मल्  
 सिनैप्पदु पोण्ड्रु कॆडुम्।       १२०३
@@ -177,7 +177,7 @@ Me he tried to think but did not.        1203
 सिनैप्पदु पोण्ड्रु कॆडुम्।       १२०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०४</summary>
 
 यामुम् उळेङ्गॊल् अवर्नॆञ्जत्तु ऎन्नॆञ्जत्तु  
 ओऒ उळरे अवर्।       १२०४
@@ -232,7 +232,7 @@ Ah from mine he will never depart.        1204
 ओऒ उळरे अवर्।       १२०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०५</summary>
 
 तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्  
 ऎम्नॆञ्जत्तु ओवा वरल्।       १२०५
@@ -288,7 +288,7 @@ Banning me entry into his.        1205
 ऎम्नॆञ्जत्तु ओवा वरल्।       १२०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०६</summary>
 
 मट्रियान् ऎन्नुळेन् मन्नो अवरॊडि यान्  
 उट्रनाळ् उळ्ळ उळेन्।       १२०६
@@ -344,7 +344,7 @@ What else of life can I presume?        1206
 उट्रनाळ् उळ्ळ उळेन्।       १२०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०७</summary>
 
 मऱप्पिन् ऎवनावन् मऱ्कॊल् मऱप्पऱियेन्  
 उळ्ळिनुम् उळ्ळम् सुडुम्।       १२०७
@@ -405,7 +405,7 @@ When his memory burns my heart?        1207
 उळ्ळिनुम् उळ्ळम् सुडुम्।       १२०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०८</summary>
 
 ऎनैत्तु निनैप्पिनुम् कायार् अनैत्तण्ड्रो  
 कादलर् सॆय्युम् सिऱप्पु।       १२०८
@@ -465,7 +465,7 @@ He chides not; and thus honours me.        1208
 कादलर् सॆय्युम् सिऱप्पु।       १२०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०९</summary>
 
 विळियुमॆन् इन्नुयिर् वेऱल्लम् ऎन्बार्  
 अळियिन्मै आट्र निनैन्दु।       १२०९
@@ -521,7 +521,7 @@ Of him who said we are one heart.        1209
 अळियिन्मै आट्र निनैन्दु।       १२०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१०</summary>
 
 विडाअदु सॆण्ड्रारैक् कण्णिनाल् काणप्  
 पडाअदि वाऴि मदि।       १२१०

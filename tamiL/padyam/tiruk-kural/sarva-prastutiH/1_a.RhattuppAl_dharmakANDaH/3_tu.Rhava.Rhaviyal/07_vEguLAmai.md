@@ -4,7 +4,7 @@ title = "०७ वॆगुळामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०१</summary>
 
 सॆल्लिडत्तुक् काप्पान् सिनङ्गाप्पान् अल्लिडत्तुक्  
 काक्किन्ऎन् कावाक्काल् ऎन्?      ३०१
@@ -60,7 +60,7 @@ It is futile against the strong.        301
 काक्किन्ऎन् कावाक्काल् ऎन्?      ३०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०२</summary>
 
 सॆल्ला इडत्तुच् चिनन्दीदु सॆल्लिडत्तुम्  
 इल्अदनिन् तीय पिऱ।      ३०२
@@ -116,7 +116,7 @@ Against the meek it is still worse.        302
 इल्अदनिन् तीय पिऱ।      ३०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०३</summary>
 
 मऱत्तल् वॆगुळियै यार्माट्टुम् तीय  
 पिऱत्तल् अदनान् वरुम्।      ३०३
@@ -171,7 +171,7 @@ It is the source of sin and pain.        303
 पिऱत्तल् अदनान् वरुम्।      ३०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०४</summary>
 
 नगैयुम् उवगैयुम् कॊल्लुम् सिनत्तिन्  
 पगैयुम् उळवो पिऱ।      ३०४
@@ -226,7 +226,7 @@ Which kills the smile and joyful cheer?        304
 पगैयुम् उळवो पिऱ।      ३०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०५</summary>
 
 तन्नैत्तान् काक्किन् सिनङ्गाक्क कावाक्काल्  
 तन्नैये कॊल्लुञ् जिनम्।      ३०५
@@ -282,7 +282,7 @@ If not thyself the wrath will slay.        305
 तन्नैये कॊल्लुञ् जिनम्।      ३०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०६</summary>
 
 सिनमॆन्नुम् सेर्न्दारैक् कॊल्लि इनमॆन्नुम्  
 एमप् पुणैयैच् चुडुम्।      ३०६
@@ -338,7 +338,7 @@ It burns the helpful kinship-barge.        306
 एमप् पुणैयैच् चुडुम्।      ३०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०७</summary>
 
 सिनत्तैप् पॊरुळॆण्ड्रु कॊण्डवन् केडु  
 निलत्तऱैन्दान् कैबिऴैया तट्रु।      ३०७
@@ -394,7 +394,7 @@ Like failless-hand that strikes the ground.        307
 निलत्तऱैन्दान् कैबिऴैया तट्रु।      ३०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०८</summary>
 
 इणर्ऎरि तोय्वन्न इन्ना सॆयिनुम्  
 पुणरिन् वॆगुळामै नण्ड्रु।      ३०८
@@ -450,7 +450,7 @@ Though tortured like the touch of fire.        308
 पुणरिन् वॆगुळामै नण्ड्रु।      ३०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०९</summary>
 
 उळ्ळिय तॆल्लाम् उडनॆय्दुम् उळ्ळत्ताल्  
 उळ्ळान् वॆगुळि ऎनिन्।      ३०९
@@ -510,7 +510,7 @@ If man refrains from rage vicious!        309
 उळ्ळान् वॆगुळि ऎनिन्।      ३०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१०</summary>
 
 इऱन्दार् इऱन्दार् अनैयर् सिनत्तैत्  
 तुऱन्दार् तुऱन्दार् तुणै।      ३१०

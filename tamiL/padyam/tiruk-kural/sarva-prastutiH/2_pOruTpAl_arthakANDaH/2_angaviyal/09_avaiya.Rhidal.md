@@ -4,7 +4,7 @@ title = "०९ अवैयऱिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७११</summary>
 
 अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिन्  
 तॊगैयऱिन्द तूय्मै यवर्।       ७११
@@ -60,7 +60,7 @@ Adapt their words to audience.        711
 तॊगैयऱिन्द तूय्मै यवर्।       ७११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१२</summary>
 
 इडैदॆरिन्दु नन्गुणर्न्दु सॊल्लुग सॊल्लिन्  
 नडैदॆरिन्द नन्मै यवर्।       ७१२
@@ -120,7 +120,7 @@ Their chosen words to time in fact.        712
 नडैदॆरिन्द नन्मै यवर्।       ७१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१३</summary>
 
 अवैयऱियार् सॊल्लल्मेऱ्कॊळ्बवर् सॊल्लिन्  
 वगैयऱियार् वल्लदूउम् इल्।       ७१३
@@ -176,7 +176,7 @@ Words unversed which ears don't take.        713
 वगैयऱियार् वल्लदूउम् इल्।       ७१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१४</summary>
 
 ऒळियार्मुन् ऒळ्ळिय रादल् वॆळियार्मुन्  
 वान्सुदै वण्णम् कॊळल्।       ७१४
@@ -236,7 +236,7 @@ Before the muff be mortar white.        714
 वान्सुदै वण्णम् कॊळल्।       ७१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१५</summary>
 
 नण्ड्रॆण्ड्र वट्रुळ्ळुम् नण्ड्रे मुदुवरुळ्  
 मुन्दु किळवाच् चॆऱिवु।       ७१५
@@ -292,7 +292,7 @@ Which argues not before elders.        715
 मुन्दु किळवाच् चॆऱिवु।       ७१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१६</summary>
 
 आट्रिन् निलैदळर्न् दट्रे वियन्बुलम्  
 एट्रुणर्वार् मुन्नर् इऴुक्कु।       ७१६
@@ -353,7 +353,7 @@ Is like slipping from righteous ways.        716
 एट्रुणर्वार् मुन्नर् इऴुक्कु।       ७१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१७</summary>
 
 कट्रऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
 चॊल्दॆरिदल् वल्लार् अगत्तु।       ७१७
@@ -409,7 +409,7 @@ Valued by flawless scholar-minds.        717
 चॊल्दॆरिदल् वल्लार् अगत्तु।       ७१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१८</summary>
 
 उणर्व तुडैयार्मुन् सॊल्लल् वळर्वदन्  
 पात्तियुळ् नीर्सॊरिन् दट्रु।       ७१८
@@ -465,7 +465,7 @@ Is to water beds of growing grains.        718
 पात्तियुळ् नीर्सॊरिन् दट्रु।       ७१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१९</summary>
 
 पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्क नल्लवैयुळ्  
 नन्गुसलच् चॊल्लु वार्।       ७१९
@@ -521,7 +521,7 @@ Forgetful, address not the mean.        719
 नन्गुसलच् चॊल्लु वार्।       ७१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२०</summary>
 
 अङ्गणत्तुळ् उक्क अमिऴ्दट्राल् तङ्गणत्तार्  
 अल्लार्मुन् कोट्टि कॊळल्।       ७२०

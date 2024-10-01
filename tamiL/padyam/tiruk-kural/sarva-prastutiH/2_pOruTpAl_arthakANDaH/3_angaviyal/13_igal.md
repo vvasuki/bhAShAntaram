@@ -4,7 +4,7 @@ title = "१३ इगल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५१</summary>
 
 इगलॆन्ब ऎल्ला उयिर्क्कुम् पगलॆन्नुम्  
 पण्बिन्मै पारिक्कुम् नोय्।       ८५१
@@ -60,7 +60,7 @@ And rouses illwill on all sides.        851
 पण्बिन्मै पारिक्कुम् नोय्।       ८५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५२</summary>
 
 पगल्गरुदिप् पट्रा सॆयिनुम् इगल्गरुदि  
 इन्नासॆय् यामै तलै।       ८५२
@@ -115,7 +115,7 @@ Though foes provoke disunion        852
 इन्नासॆय् यामै तलै।       ८५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५३</summary>
 
 इगलॆन्नुम् ऎव्वनोय् नीक्किन् तवलिल्लात्  
 ताविल् विळक्कम् तरुम्।       ८५३
@@ -170,7 +170,7 @@ And win everlasting glory.        853
 ताविल् विळक्कम् तरुम्।       ८५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५४</summary>
 
 इन्बत्तुळ् इन्बम् पयक्कुम् इगलॆन्नुम्  
 तुन्बत्तुळ् तुन्बङ् गॆडिन्।       ८५४
@@ -225,7 +225,7 @@ Then joy of joys you can enjoy.        854
 तुन्बत्तुळ् तुन्बङ् गॆडिन्।       ८५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५५</summary>
 
 इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे  
 मिक्लूक्कुम् तन्मै यवर्।       ८५५
@@ -280,7 +280,7 @@ That are free from enmity?        855
 मिक्लूक्कुम् तन्मै यवर्।       ८५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५६</summary>
 
 इगलिन् मिगलिनिदु ऎन्बवन् वाऴ्क्कै  
 तवलुम् कॆडलुम् नणित्तु।       ८५६
@@ -340,7 +340,7 @@ Who holds enmity sweet and dear.        856
 तवलुम् कॆडलुम् नणित्तु।       ८५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५७</summary>
 
 मिगल्मेवल् मॆय्प्पॊरुळ् काणार् इगल्मेवल्  
 इन्ना अऱिवि नवर्।       ८५७
@@ -395,7 +395,7 @@ Who hate and injure without ruth.        857
 इन्ना अऱिवि नवर्।       ८५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५८</summary>
 
 इगलिऱ्कु ऎदिर्साय्दल् आक्कम् अदनै  
 मिक्लूक्किन् ऊक्कुमाम् केडु।      ८५८
@@ -450,7 +450,7 @@ Fomenting it brings fast ruin.        858
 मिक्लूक्किन् ऊक्कुमाम् केडु।      ८५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५९</summary>
 
 इगल्गाणान् आक्कम् वरुङ्गाल् अदनै  
 मिगल्गाणुम् केडु तरऱ्कु।      ८५९
@@ -505,7 +505,7 @@ Hatred exceeding ruin breeds.        859
 मिगल्गाणुम् केडु तरऱ्कु।      ८५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६०</summary>
 
 इगलानाम् इन्नाद ऎल्लाम् नगलानाम्  
 नन्नयम् ऎन्नुम् सॆरुक्कु।       ८६०

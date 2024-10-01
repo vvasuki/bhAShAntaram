@@ -4,7 +4,7 @@ title = "०३ विनैत्तूय्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५१</summary>
 
 तुणैनलम् आक्कम् त्रुउम् विनैनलम्  
 वेण्डिय ऎल्लान् दरुम्।       ६५१
@@ -60,7 +60,7 @@ Does every good thing we desire.        651
 वेण्डिय ऎल्लान् दरुम्।       ६५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५२</summary>
 
 ऎण्ड्रुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु  
 नण्ड्रि पयवा विनै।       ६५२
@@ -115,7 +115,7 @@ Bring good nor glory on their part.        652
 नण्ड्रि पयवा विनै।       ६५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५३</summary>
 
 ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विनै  
 आअदुम् ऎन्नु मवर्।       ६५३
@@ -170,7 +170,7 @@ Should shun the deed that dims their name.        653
 आअदुम् ऎन्नु मवर्।       ६५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५४</summary>
 
 इडुक्कण् पडिनुम् इळिवन्द सॆय्यार्  
 नडुक्कट्र काट्चि यवर्।       ६५४
@@ -225,7 +225,7 @@ Shun deeds of mean, shameful device.        654
 नडुक्कट्र काट्चि यवर्।       ६५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५५</summary>
 
 ऎट्रॆण्ड्रु इरङ्गुव सॆय्यऱ्क सॆय्वानेल्  
 मट्रन्न सॆय्यामै नण्ड्रु।       ६५५
@@ -281,7 +281,7 @@ If done, do not repeat it twice.        655
 मट्रन्न सॆय्यामै नण्ड्रु।       ६५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५६</summary>
 
 ईण्ड्राळ् पसिगाण्बान् आयिनुञ् जॆय्यऱ्क  
 साण्ड्रोर् पऴिक्कुम् विनै।       ६५६
@@ -336,7 +336,7 @@ Shun acts denounced by ancient seers.        656
 साण्ड्रोर् पऴिक्कुम् विनै।       ६५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५७</summary>
 
 पऴिमलैन्दु ऎय्दिय आक्कत्तिन् साण्ड्रोर्  
 कऴिनल् कुरवे तलै।       ६५७
@@ -391,7 +391,7 @@ Is more than wealth hoarded by Vice.        657
 कऴिनल् कुरवे तलै।       ६५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५८</summary>
 
 कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्  
 मुडिन्दालुम् पीऴै तरुम्।       ६५८
@@ -446,7 +446,7 @@ Suffer troubles though they succeed.        658
 मुडिन्दालुम् पीऴै तरुम्।       ६५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५९</summary>
 
 अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिनुम्  
 पिऱ्पयक्कुम् नऱ्पा लवै।       ६५९
@@ -502,7 +502,7 @@ Though lost, from good deeds blessings flow.        659
 पिऱ्पयक्कुम् नऱ्पा लवै।       ६५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६०</summary>
 
 सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्  
 कलत्तुळ्नीर् पॆय्दिरीइ यट्रु।       ६६०

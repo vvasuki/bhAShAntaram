@@ -4,7 +4,7 @@ title = "०१ नाडु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३१</summary>
 
 तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
 चॆल्वरुम् सेर्वदु नाडु।       ७३१
@@ -63,7 +63,7 @@ Unfailing yields and ample wealth.        731
 चॆल्वरुम् सेर्वदु नाडु।       ७३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३२</summary>
 
 पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्  
 आट्र विळैवदु नाडु।       ७३२
@@ -118,7 +118,7 @@ Where pests are nil and yields are sure.        732
 आट्र विळैवदु नाडु।       ७३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३३</summary>
 
 पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु  
 इऱैयॊरुङ्गु नेर्वदु नाडु।       ७३३
@@ -174,7 +174,7 @@ And pays its tax which king demands.        733
 इऱैयॊरुङ्गु नेर्वदु नाडु।       ७३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३४</summary>
 
 उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्  
 सेरा तियल्वदु नाडु।       ७३४
@@ -230,7 +230,7 @@ Fierce famine, plague and foemen's harm.        734
 सेरा तियल्वदु नाडु।       ७३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३५</summary>
 
 पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्  
 कॊल्गुऱुम्बुम् इल्लदु नाडु।       ७३५
@@ -286,7 +286,7 @@ No traitors in a land tranquil.        735
 कॊल्गुऱुम्बुम् इल्लदु नाडु।       ७३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३६</summary>
 
 केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुण्ड्रा  
 नाडॆन्ब नाट्टिन् तलै।       ७३६
@@ -342,7 +342,7 @@ Even in grief its wealth yet grows.        736
 नाडॆन्ब नाट्टिन् तलै।       ७३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३७</summary>
 
 इरुबुनलुम् वाय्न्द मलैयुम् वरुबुनलुम्  
 वल्लरणुम् नाट्टिऱ्कु उऱुप्पु।       ७३७
@@ -403,7 +403,7 @@ With strong forts as limbs country beams.        737
 वल्लरणुम् नाट्टिऱ्कु उऱुप्पु।       ७३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३८</summary>
 
 पिणियिन्मै सॆल्वम् विळैविन्बम् एमम्  
 अणियॆन्ब नाट्टिव् वैन्दु।       ७३८
@@ -458,7 +458,7 @@ Are jewels of lands with blooming health.        738
 अणियॆन्ब नाट्टिव् वैन्दु।       ७३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३९</summary>
 
 नाडॆन्ब नाडा वळत्तन नाडल्ल  
 नाड वळन्दरु नाडु।       ७३९
@@ -514,7 +514,7 @@ Needing hard work the land is nought.        739
 नाड वळन्दरु नाडु।       ७३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४०</summary>
 
 आङ्गमै वॆय्दियक् कण्णुम् पयमिण्ड्रे  
 वेन्दमै विल्लाद नाडु।       ७४०

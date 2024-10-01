@@ -4,7 +4,7 @@ title = "१४ तॆरिन्दुविनैयाडल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५११</summary>
 
 नन्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द  
 तन्मैयान् आळप् पडुम्।       ५११
@@ -59,7 +59,7 @@ The good and bad and do good turn.        511
 तन्मैयान् आळप् पडुम्।       ५११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१२</summary>
 
 वारि पॆरुक्कि वळम्बडुत्तु उट्रवै  
 आराय्वान् सॆय्ग विनै।       ५१२
@@ -114,7 +114,7 @@ Fosters wealth and prevents ills.        512
 आराय्वान् सॆय्ग विनै।       ५१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१३</summary>
 
 अन्बऱिवु तेट्रम् अवाविन्मै इन्नान्गुम्  
 नन्गुडैयान् कट्टे तॆळिवु।       ५१३
@@ -169,7 +169,7 @@ Love, wit, non-craving, clarity.        513
 नन्गुडैयान् कट्टे तॆळिवु।       ५१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१४</summary>
 
 ऎनैवगैयान् तेऱियक् कण्णुम् विनैवगैयान्  
 वेऱागुम् मान्दर् पलर्।       ५१४
@@ -224,7 +224,7 @@ Many differ before duty.        514
 वेऱागुम् मान्दर् पलर्।       ५१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१५</summary>
 
 अऱिन्दाट्रिच् चॆय्गिऱ्पाऱ्कु अल्लाल् विनैदान्  
 सिऱन्दानॆण्ड्रु एवऱ्पाऱ्ऱण्ड्रु।       ५१५
@@ -279,7 +279,7 @@ Not by fondness but by hard test.        515
 सिऱन्दानॆण्ड्रु एवऱ्पाऱ्ऱण्ड्रु।       ५१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१६</summary>
 
 सॆय्वानै नाडि विनैनाडिक् कालत्तोडु  
 ऎय्द उणर्न्दु सॆयल्।       ५१६
@@ -334,7 +334,7 @@ And just in proper time proceed.        516
 ऎय्द उणर्न्दु सॆयल्।       ५१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१७</summary>
 
 इदनै इदनाल् इवन्मुडिक्कुम् ऎण्ड्राय्न्दु  
 अदनै अवन्गण् विडल्।       ५१७
@@ -394,7 +394,7 @@ Like this entrust the duty due.        517
 अदनै अवन्गण् विडल्।       ५१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१८</summary>
 
 विनैक् कुरिमै नाडिय पिण्ड्रै अवनै  
 अदऱ्कुरिय नागच् चॆयल्।       ५१८
@@ -449,7 +449,7 @@ Leave him to do the best he can.        518
 अदऱ्कुरिय नागच् चॆयल्।       ५१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१९</summary>
 
 विनैक्कण् विनैयुडैयान् केण्मैवे ऱाग  
 निनैप्पानै नीङ्गुम् तिरु।       ५१९
@@ -504,7 +504,7 @@ Doubt them; and fortune departs quick.        519
 निनैप्पानै नीङ्गुम् तिरु।       ५१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२०</summary>
 
 नाडो ऱुम् नाडुग मन्नन् विनैसॆय्वान्  
 कोडामै कोडा तुलगु।       ५२०

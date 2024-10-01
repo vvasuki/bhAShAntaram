@@ -4,7 +4,7 @@ title = "०१ इल्वाऴ्क्कै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१</summary>
 
 इल्वाऴ्वान् ऎन्बान् इयल्बुडैय मूवर्क्कुम्  
 नल्लाट्रिन् निण्ड्र तुणै।      ४१
@@ -63,7 +63,7 @@ Who aids the natural orders there.         41
 नल्लाट्रिन् निण्ड्र तुणै।      ४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२</summary>
 
 तुऱन्दार्क्कुम् तुव्वादवर्क्कुम् इऱन्दार्क्कुम्  
 इल्वाऴ्वान् ऎन्बान् तुणै।      ४२
@@ -115,7 +115,7 @@ And celebrate students are his care.         42
 इल्वाऴ्वान् ऎन्बान् तुणै।      ४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३</summary>
 
 तॆन्बुलत्तार् तॆय्वम् विरुन्दॊक्कल् तानॆण्ड्राङ्गु  
 ऐम्बुलत्ताऱु ओम्बल् तलै।      ४३
@@ -167,7 +167,7 @@ God, manes, kin, self and guests are served.         43
 ऐम्बुलत्ताऱु ओम्बल् तलै।      ४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४</summary>
 
 पऴियञ्जिप् पात्तूण् उडैत्तायिन् वाऴ्क्कै  
 वऴियॆञ्जल् ऎञ्ञाण्ड्रुम् इल्।      ४४
@@ -219,7 +219,7 @@ His home is bright and brighter fares.         44
 वऴियॆञ्जल् ऎञ्ञाण्ड्रुम् इल्।      ४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५</summary>
 
 अन्बुम् अऱनुम् उडैत्तायिन् इल्वाऴ्क्कै  
 पण्बुम् पयनुम् अदु।      ४५
@@ -271,7 +271,7 @@ Where love with virtue sweetly dwells.         45
 पण्बुम् पयनुम् अदु।      ४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६</summary>
 
 अऱत्ताट्रिन् इल्वाऴ्क्कै आट्रिन् पुऱत्ताट्रिल्  
 पोऒय्प् पॆऱुव तॆवन्?      ४६
@@ -323,7 +323,7 @@ To be a monk, what profits he?         46
 पोऒय्प् पॆऱुव तॆवन्?      ४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७</summary>
 
 इयल्बिनान् इल्वाऴ्क्कै वाऴ्बवन् ऎन्बान्  
 मुयल्वारुळ् ऎल्लाम् तलै।      ४७
@@ -375,7 +375,7 @@ Is he who leads the married state.         47
 मुयल्वारुळ् ऎल्लाम् तलै।      ४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८</summary>
 
 आट्रिन् ऒऴुक् कि अऱनिऴुक्का इल्वाऴ् क्कै  
 नोऱ्पारिन् नोन्मै उडैत्तु।      ४८
@@ -427,7 +427,7 @@ Make men brighter than monks praying.         48
 नोऱ्पारिन् नोन्मै उडैत्तु।      ४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९</summary>
 
 अऱन् ऎनप् पट्टदे इल्वाऴ्क्कै अह्दुम्  
 पिऱन्बऴिप्प तिल्लायिन् नण्ड्रु।      ४९
@@ -484,7 +484,7 @@ Which spotless monkhood too can claim.         49
 पिऱन्बऴिप्प तिल्लायिन् नण्ड्रु।      ४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०</summary>
 
 वैयत्तुळ् वाऴ्वाङ्गु वाऴ्बवन् वान्उनऱ्युम्  
 तॆय्वत्तुळ् वैक्कप् पडुम्।      ५०

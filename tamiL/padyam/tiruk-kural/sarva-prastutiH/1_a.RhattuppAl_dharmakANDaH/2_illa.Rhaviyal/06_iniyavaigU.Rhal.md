@@ -4,7 +4,7 @@ title = "०६ इनियवैगूऱल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१</summary>
 
 इन्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
 सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्।      ९१
@@ -59,7 +59,7 @@ Merciful and free from deceit.         91
 सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्।      ९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२</summary>
 
 अगन्अमर्न्दु ईदलिन् नण्ड्रे मुगनमर्न्दु  
 इन्सॊलन् आगप् पॆऱिन्।      ९२
@@ -114,7 +114,7 @@ More joys than heart's beneficence.         92
 इन्सॊलन् आगप् पॆऱिन्।      ९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३</summary>
 
 मुगत्तान् अमर्न् दुइनिदु नोक्कि अगत्तानाम्  
 इन्सॊ लिनदे अऱम्।      ९३
@@ -174,7 +174,7 @@ Such is the gracious virtue's part.         93
 इन्सॊ लिनदे अऱम्।      ९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४</summary>
 
 तुन्बुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्  
 इन्बुऱूउम् इन्सॊ लवर्क्कु।      ९४
@@ -229,7 +229,7 @@ The woe of want from them is gone.         94
 इन्बुऱूउम् इन्सॊ लवर्क्कु।      ९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५</summary>
 
 पणिवुडैयन् इन्सॊलन् आदल् ऒरुवऱ्कु  
 अणियल्ल मट्रुप् पिऱ।      ९५
@@ -284,7 +284,7 @@ No other jewel do wise men seek.         95
 अणियल्ल मट्रुप् पिऱ।      ९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६</summary>
 
 अल्लवै तेय अऱम्बॆरुगुम् नल्लवै  
 नाडि इनिय सॊलिन्।      ९६
@@ -339,7 +339,7 @@ Whose fruitful words with sweetness flow.         96
 नाडि इनिय सॊलिन्।      ९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७</summary>
 
 नयन् ईण्ड्रु नण्ड्रि पयक्कुम् पयन्ईण्ड्रु  
 पण्बिन् तलैप्पिरियाच् चॊल्।      ९७
@@ -394,7 +394,7 @@ Lead to goodness and graceful deeds.         97
 पण्बिन् तलैप्पिरियाच् चॊल्।      ९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८</summary>
 
 सिऱुमैयुवु नीङ्गिय इन्सॊल् मऱुमैयुम्  
 इम्मैयुम् इन्बम् तरुम्।      ९८
@@ -449,7 +449,7 @@ This life on earth and life the next.         98
 इम्मैयुम् इन्बम् तरुम्।      ९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९</summary>
 
 इन्सॊल् इनिदीण्ड्रल् काण्बान् ऎवन्गॊलो  
 वन्सॊल् वऴङ्गु वदु?      ९९
@@ -509,7 +509,7 @@ To use harsh words how can he dare?         99
 वन्सॊल् वऴङ्गु वदु?      ९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००</summary>
 
 इनिय उळवाग इन्नाद कूऱल्  
 कनिइरुप्पक् काय्गवर्न् दट्रु।      १००

@@ -4,7 +4,7 @@ title = "२२ ऊक्कमुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९१</summary>
 
 उडैयर् ऎनप्पडुवदु ऊक्कम् अह् तिल्लार्  
 उडैयदु उडैयरो मट्रु।       ५९१
@@ -65,7 +65,7 @@ All others own but lethargy.        591
 उडैयदु उडैयरो मट्रु।       ५९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९२</summary>
 
 उळ्ळम् उडैमै उडैमै पॊरुळुडैमै  
 निल्लादु नीङ्गि विडुम्।       ५९२
@@ -120,7 +120,7 @@ Worldly wealth departs in speed.        592
 निल्लादु नीङ्गि विडुम्।       ५९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९३</summary>
 
 क्कम् इऴन्देमॆण्ड्रु अल्लावार् ऊक्कम्  
 ऒरुवन्दम् कैत्तुडै यार्।       ५९३
@@ -175,7 +175,7 @@ The loss of worldly wealth and gain.        593
 ऒरुवन्दम् कैत्तुडै यार्।       ५९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९४</summary>
 
 क्कम् अदर्विनाय्च् चॆल्लुम् असैविला  
 ऊक्क मुडैया नुऴै।       ५९४
@@ -230,7 +230,7 @@ Where tireless strivers have their home.        594
 ऊक्क मुडैया नुऴै।       ५९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९५</summary>
 
 वॆळ्ळत् तनैय मलर्नीट्टम् मान्दर्दम्  
 उळ्ळत् तनैयदु उयर्वु।       ५९५
@@ -278,7 +278,7 @@ Mental strength is men's merit.        595
 उळ्ळत् तनैयदु उयर्वु।       ५९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९६</summary>
 
 उळ्ळुव तॆल्लाम् उयर्वुळ्ळल् मट्रदु  
 तळ्ळिनुन् दळ्ळामै नीर्त्तु।       ५९६
@@ -339,7 +339,7 @@ Though they fail their virtues stand.        596
 तळ्ळिनुन् दळ्ळामै नीर्त्तु।       ५९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९७</summary>
 
 सिदैविडत्तु ऒल्गार् उरवोर् पुदैयम्बिऱ्
 पट्टुप्पा टूण्ड्रुङ् गळिऱु।       ५९७
@@ -395,7 +395,7 @@ Great minds keep fit ev'n in defeat.        597
 पट्टुप्पा टूण्ड्रुङ् गळिऱु।       ५९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९८</summary>
 
 उळ्ळम् इलादवर् ऎय्दार् उलगत्तु  
 वळ्ळियम् ऎन्नुञ् जॆरुक्कु।       ५९८
@@ -451,7 +451,7 @@ Heartless persons cannot boast
 वळ्ळियम् ऎन्नुञ् जॆरुक्कु।       ५९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९९</summary>
 
 परियदु कूर्ङ्गोट्टदु आयिनुम् यानै  
 ஦व्रुउम् पुलिदाक् कुऱिन्।       ५९९
@@ -506,7 +506,7 @@ When tiger, less in form, assails.        599
 ஦व्रुउम् पुलिदाक् कुऱिन्।       ५९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६००</summary>
 
 उरमॊरुवऱ्कु उळ्ळ वॆऱुक्कैअह् तिल्लार्  
 मरम्मक्क ळादले वेऱु।       ६००

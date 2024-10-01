@@ -4,7 +4,7 @@ title = "०२ वान्सिऱप्पु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११</summary>
 
 वान्निण्ड्रु उलगम् वऴङ्गि वरुदलाल्  
 तान्अमिऴ्दम् ऎण्ड्रुणरऱ्पाट्रु।     ११
@@ -59,7 +59,7 @@ The world but lasts while rain shall fall.         11
 तान्अमिऴ्दम् ऎण्ड्रुणरऱ्पाट्रु।     ११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२</summary>
 
 तुप्पार्क्कुत् तुप्पाय तुप्पाक्कित् तुप्पार्क्कुत्  
 तुप्पाय तूउम् मऴै।     १२
@@ -114,7 +114,7 @@ And forms a food and drink concrete.         12
 तुप्पाय तूउम् मऴै।     १२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३</summary>
 
 विण्इण्ड्रु पॊय्प्पिन् विरिनीर् वियनुलगत्तु  
 उळ्निण्ड्रु उडट्रुम् पसि।      १३
@@ -169,7 +169,7 @@ Distresses all the sea-girt earth.         13
 उळ्निण्ड्रु उडट्रुम् पसि।      १३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४</summary>
 
 एरिन् उऴाअर् उऴवर् पुयल्ऎन्नुम्  
 वारि वळङ्गुण्ड्रिक् काल्।      १४
@@ -224,7 +224,7 @@ The ploughman's sacred toil must end.         14
 वारि वळङ्गुण्ड्रिक् काल्।      १४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५</summary>
 
 कॆडुप्पदूउम् कॆट्टार्क्कुच् चार्वाय्मऱ्ऱाङ्गे  
 ऎडुप्पदूउम् ऎल्लाम् मऴै।      १५
@@ -279,7 +279,7 @@ But only rain can life restore.         15
 ऎडुप्पदूउम् ऎल्लाम् मऴै।      १५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६</summary>
 
 विसुम्बिन् तुळिवीऴिन् अल्लाल्मऱ्ऱाङ्गे  
 पसुम्बुल् तलैगाण्बु अरिदु।      १६
@@ -334,7 +334,7 @@ If from the cloud no drop appear.         16
 पसुम्बुल् तलैगाण्बु अरिदु।      १६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७</summary>
 
 नॆडुङ्गडलुम् तन्नीर्मै कुण्ड्रुम् तडिन्दॆऴिलि  
 तान्नल्गा तागि विडिन्।      १७
@@ -389,7 +389,7 @@ Except the cloud its stores repay.         17
 तान्नल्गा तागि विडिन्।      १७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८</summary>
 
 सिऱप्पॊडु पूसनै सॆल्लादु वानम्  
 वऱक्कुमेल् वानोर्क्कुम् ईण्डु।      १८
@@ -444,7 +444,7 @@ Would offerings for the gods deny.         18
 वऱक्कुमेल् वानोर्क्कुम् ईण्डु।      १८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९</summary>
 
 तानम् तवम्इरण्डुम् तङ्गा वियन्उलगम्  
 वानम् वऴङ्गा तॆनिन्।      १९
@@ -499,16 +499,18 @@ Nor alms nor penance earth would show.         19
 वानम् वऴङ्गा तॆनिन्।      १९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०</summary>
 
-नीर्इण्ड्रु अमैयादु उलगॆनिन् यार्यार्क्कुम्  
-वान्इण्ड्रु अमैयादु ऒऴुक्कु।      २०
+नीर् इण्ड्रु अमैयादु उलगॆनिन् यार्-यार्क्क् उम्,  
+वान् इण्ड्रु अमैयादु ऒऴुक्कु।      २०
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०</summary>
 
-जलाभावे लोकयात्रा सर्वेषामेव देहिनाम् ।  
-न स्यात्; वर्ष विना नैतत्; सदाचारादिकं तथा ॥ २०॥
+जलाभावे **लोकयात्रा**  
+सर्वेषाम् एव देहिनाम् ।  
+**न** स्यात्; वर्षं विना नैतत्;  
+सदाचारादिकं तथा ॥ २०॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - २०</summary>

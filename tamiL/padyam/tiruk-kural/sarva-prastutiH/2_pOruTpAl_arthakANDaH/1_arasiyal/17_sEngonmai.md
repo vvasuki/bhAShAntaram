@@ -4,7 +4,7 @@ title = "१७ सॆङ्गोन्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४१</summary>
 
 ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्  
 तेर्न्दुसॆय् वह्दे मुऱै।       ५४१
@@ -59,7 +59,7 @@ Consult and act the laws justly.        541
 तेर्न्दुसॆय् वह्दे मुऱै।       ५४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४२</summary>
 
 वानोक्कि वाऴुम् उलगॆल्लाम् मन्नवन्  
 कोल् नोक्कि वाऴुङ् गुडि।       ५४२
@@ -114,7 +114,7 @@ And mankind to king's rod of justice.        542
 कोल् नोक्कि वाऴुङ् गुडि।       ५४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४३</summary>
 
 अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्  
 निण्ड्रदु मन्नवन् कोल्।       ५४३
@@ -169,7 +169,7 @@ From the sceptre of a stately king.        543
 निण्ड्रदु मन्नवन् कोल्।       ५४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४४</summary>
 
 कुडिदऴीइक् कोलोच्चुम् मानिल मन्नन्  
 अडिदऴीइ निऱ्कुम् उलगु।       ५४४
@@ -224,7 +224,7 @@ Whose sceptre clasps the people's heart.        544
 अडिदऴीइ निऱ्कुम् उलगु।       ५४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४५</summary>
 
 इयल्बुळिक् कोलोच्चुम् मन्नवन् नाट्ट  
 पॆयलुम् विळैयुळुम् तॊक्कु।       ५४५
@@ -284,7 +284,7 @@ Which is ruled by a righteous hand.        545
 पॆयलुम् विळैयुळुम् तॊक्कु।       ५४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४६</summary>
 
 वेलण्ड्रु वॆण्ड्रि तरुवदु मन्नवन्  
 कोलदूउङ् गोडा तॆनिन्।       ५४६
@@ -339,7 +339,7 @@ That brings success to monarch's might.        546
 कोलदूउङ् गोडा तॆनिन्।       ५४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४७</summary>
 
 इऱैगाक्कुम् वैयगम् ऎल्लाम् अवनै  
 मुऱैगाक्कुम् मुट्टाच् चॆयिन्।       ५४७
@@ -394,7 +394,7 @@ And justice protects his royal worth.        547
 मुऱैगाक्कुम् मुट्टाच् चॆयिन्।       ५४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४८</summary>
 
 ऎण्बदत्तान् ओरा मुऱैसॆय्या मन्नवन्  
 तण्बदत्तान् ताने कॆडुम्।       ५४८
@@ -449,7 +449,7 @@ He shall himself his ruin bring.        548
 तण्बदत्तान् ताने कॆडुम्।       ५४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४९</summary>
 
 कुडिबुऱङ् गात्तोम्बिक् कुट्रम् कडिदल्  
 वडुवण्ड्रु वेन्दन् तॊऴिल्।       ५४९
@@ -504,7 +504,7 @@ Is flawless duty of a king.        549
 वडुवण्ड्रु वेन्दन् तॊऴिल्।       ५४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५०</summary>
 
 कॊलैयिऱ्कॊडियारै वेन्दॊऱुत्तल् पैङ्गूऴ्  
 कळैगट् टदनॊडु नेर्।       ५५०

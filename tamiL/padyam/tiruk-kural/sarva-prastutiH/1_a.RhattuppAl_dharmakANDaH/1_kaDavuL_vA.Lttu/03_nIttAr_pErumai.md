@@ -4,7 +4,7 @@ title = "०३ नीत्तार् पॆरुमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१</summary>
 
 ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
 वेण्डुम् पनुवल् तुणिवु।      २१
@@ -64,7 +64,7 @@ As theirs who sense and self deny.         21
 वेण्डुम् पनुवल् तुणिवु।      २१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२</summary>
 
 तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु  
 इऱन्दारै ऎण्णिक्कॊण् डट्रु।      २२
@@ -119,7 +119,7 @@ Is to count the dead upon the sphere.         22
 इऱन्दारै ऎण्णिक्कॊण् डट्रु।      २२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३</summary>
 
 इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
 पॆरुमै पिऱङ्गिट्रु उलगु।      २३
@@ -179,7 +179,7 @@ Who know the right and virtue wear.         23
 पॆरुमै पिऱङ्गिट्रु उलगु।      २३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४</summary>
 
 उरनॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पान्  
 वरनॆन्नुम् वैप्पिऱ्कोर् वित्तु।      २४
@@ -240,7 +240,7 @@ The senses five, is heaven to gain.         24
 वरनॆन्नुम् वैप्पिऱ्कोर् वित्तु।      २४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५</summary>
 
 ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
 इन्दिरने सालुङ् गरि।      २५
@@ -300,7 +300,7 @@ How great the power ascetics' sway.         25
 इन्दिरने सालुङ् गरि।      २५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६</summary>
 
 सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्  
 सॆयऱ्करिय सॆय्गला तार्।      २६
@@ -355,7 +355,7 @@ The great achieve things rare to do.         26
 सॆयऱ्करिय सॆय्गला तार्।      २६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७</summary>
 
 सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
 वगैदॆरिवान् कट्टे उलगु।      २७
@@ -410,7 +410,7 @@ Of taste, sight, hearing, touch and smell.         27
 वगैदॆरिवान् कट्टे उलगु।      २७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८</summary>
 
 निऱैमॊऴि मान्दर् पॆरुमै निलत्तु  
 मऱैमॊऴि काट्टि विडुम्।      २८
@@ -465,7 +465,7 @@ Their greatness to the world display.         28
 मऱैमॊऴि काट्टि विडुम्।      २८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९</summary>
 
 कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
 कणमेयुम् कात्तल् अरिदु।      २९
@@ -520,7 +520,7 @@ Though transient, cannot be withstood.         29
 कणमेयुम् कात्तल् अरिदु।      २९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०</summary>
 
 अन्दणर् ऎन्बोर् अऱवोर्मऱ्ऱॆव्वुयिर् क्कुम्  
 सॆन्दण्मै पूण्डॊऴुग लान्।      ३०

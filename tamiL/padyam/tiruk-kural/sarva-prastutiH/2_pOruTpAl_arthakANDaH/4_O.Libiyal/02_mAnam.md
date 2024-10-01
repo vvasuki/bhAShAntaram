@@ -4,7 +4,7 @@ title = "०२ मानम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६१</summary>
 
 इण्ड्रि अमैयाच् चिऱप्पिन आयिनुम्  
 कुण्ड्र वरुब विडल्।      ९६१
@@ -62,7 +62,7 @@ From mean degrading acts refrain.        961
 कुण्ड्र वरुब विडल्।      ९६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६२</summary>
 
 सीरिनुम् सीरल्ल सॆय्यारे सीरॊडु  
 पेराण्मै वेण्डु पवर्।       ९६२
@@ -123,7 +123,7 @@ Don't do mean deeds even for name.        962
 पेराण्मै वेण्डु पवर्।       ९६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६३</summary>
 
 पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
 सुरुक्कत्तु वेण्डुम् उयर्वु।       ९६३
@@ -178,7 +178,7 @@ In decline uphold dignity.        963
 सुरुक्कत्तु वेण्डुम् उयर्वु।       ९६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६४</summary>
 
 तलैयिन् इऴिन्द मयिरनैयर् मान्दर्  
 निलैयिन् इऴिन्दक् कडै।       ९६४
@@ -234,7 +234,7 @@ Who fall down from their high status.        964
 निलैयिन् इऴिन्दक् कडै।       ९६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६५</summary>
 
 कुण्ड्रिन् अनैयारुम् कुण्ड्रुवर् कुण्ड्रुव  
 कुण्ड्रि अनैय सॆयिन्।       ९६५
@@ -294,7 +294,7 @@ With abrus-grain-like small default.        965
 कुण्ड्रि अनैय सॆयिन्।       ९६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६६</summary>
 
 पुगऴ्इण्ड्राल् पुत्तेळ्नाट्टु उय्यादाल् ऎन्मट्रु  
 इगऴ्वार्बिन् सॆण्ड्रु निलै।       ९६६
@@ -350,7 +350,7 @@ It yields no fame, heaven's bliss neither.        966
 इगऴ्वार्बिन् सॆण्ड्रु निलै।       ९६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६७</summary>
 
 ऒट् टार्बिन् सॆण्ड्रॊरुवन् वाऴ्दलिन् अन्निलैये  
 कॆट्टान् ऎनप्पडुदल् नण्ड्रु।       ९६७
@@ -406,7 +406,7 @@ Than live as slaves of those who scorn.        967
 कॆट्टान् ऎनप्पडुदल् नण्ड्रु।       ९६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६८</summary>
 
 मरुन्दोमट्रु ऊन्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
 पीडऴिय वन्द इडत्तु।       ९६८
@@ -467,7 +467,7 @@ Even when one's honour is lost?        968
 पीडऴिय वन्द इडत्तु।       ९६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६९</summary>
 
 मयिर्नीप्पिन् वाऴाक् कवरिमा अन्नार्  
 उयिर्नीप्पर् मानम् वरिन्।      ९६९
@@ -528,7 +528,7 @@ Like a yak that loses its hair.        969
 उयिर्नीप्पर् मानम् वरिन्।      ९६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७०</summary>
 
 इळिवरिन् वाऴाद मानम् उडैयार्  
 ऒळिदॊऴुदु एत्तुम् उलगु।       ९७०

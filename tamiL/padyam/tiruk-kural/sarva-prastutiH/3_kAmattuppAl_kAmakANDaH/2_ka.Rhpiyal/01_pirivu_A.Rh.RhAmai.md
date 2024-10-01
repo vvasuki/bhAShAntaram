@@ -4,7 +4,7 @@ title = "०१ पिरिवु आऱ्\u200cऱामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५१</summary>
 
 सॆल्लामै उण्डेल् ऎनक्कुरै मट्रुनिन्  
 वल्वरवु वाऴ्वार्क् कुरै।      ११५१
@@ -64,7 +64,7 @@ Your quick return to those who live.        1151
 वल्वरवु वाऴ्वार्क् कुरै।      ११५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५२</summary>
 
 इन्गण् उडैत्तवर् पार्वल् पिरिवञ्जुम्  
 पुन्गण् उडैत्ताल् पुणर्वु।       ११५२
@@ -119,7 +119,7 @@ Embrace pains now by partings fear.        1152
 पुन्गण् उडैत्ताल् पुणर्वु।       ११५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५३</summary>
 
 अरिदरो तेट्रम् अऱिवुडैयार् कण्णुम्  
 पिरिवो रिडत्तुण्मै यान्।       ११५३
@@ -174,7 +174,7 @@ While parting lurks in knowing ones?        1153
 पिरिवो रिडत्तुण्मै यान्।       ११५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५४</summary>
 
 अळित्तञ्जल् ऎण्ड्रवर् नीप्पिन् तॆळित्तसॊल्  
 तेऱियार्क्कु उण्डो तवऱु।       ११५४
@@ -229,7 +229,7 @@ Is my trust in him at default?        1154
 तेऱियार्क्कु उण्डो तवऱु।       ११५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५५</summary>
 
 ओम्बिन् अमैन्दार् पिरिवोम्बल् मट्रवर्  
 नीङ्गिन् अरिदाल् पुणर्वु।       ११५५
@@ -284,7 +284,7 @@ Meeting is rare if he would leave.        1155
 नीङ्गिन् अरिदाल् पुणर्वु।       ११५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५६</summary>
 
 पिरिवुरैक्कुम् वन्गण्णर् आयिन् अरिदवर्  
 नल्गुवर् ऎन्नुम् नसै।       ११५६
@@ -339,7 +339,7 @@ Is there hope of his renewed love?        1156
 नल्गुवर् ऎन्नुम् नसै।       ११५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५७</summary>
 
 तुऱैवन् तुऱन्दमै तूट्रागॊल् मुन्गै  
 इऱैइऱवा निण्ड्र वळै।       ११५७
@@ -399,7 +399,7 @@ The parting of my lord betray?        1157
 इऱैइऱवा निण्ड्र वळै।       ११५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५८</summary>
 
 इन्नादु इनन्इल्ऊर् वाऴ्दल् अदनिनुम्  
 इन्नादु इनियार्प् पिरिवु।       ११५८
@@ -454,7 +454,7 @@ Worse is parting love's embrace!        1158
 इन्नादु इनियार्प् पिरिवु।       ११५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५९</summary>
 
 तॊडिऱ्चुडिन् अल्लदु कामनोय् पोल  
 विडिऱ्चुडल् आट्रुमो ती।       ११५९
@@ -514,7 +514,7 @@ Parting of the hearts love-sick?        1159
 विडिऱ्चुडल् आट्रुमो ती।       ११५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६०</summary>
 
 अरिदाट्रि अल्लल्नोय् नीक्किप् पिरिवाट्रिप्  
 पिन्इरुन्दु वाऴ्वार् पलर्।       ११६०

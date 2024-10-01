@@ -4,7 +4,7 @@ title = "०६ नण्ड्रियिल्सॆल्वम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १००१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००१</summary>
 
 वैत्तान्वाय् साण्ड्र पॆरुम्बॊरुळ् अह्दुण्णान्  
 सॆत्तान् सॆयक्किडन्ददु इल्।       १००१
@@ -61,7 +61,7 @@ Unenjoyed, it is futile.        1001
 सॆत्तान् सॆयक्किडन्ददु इल्।       १००१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००२</summary>
 
 पॊरुळानाम् ऎल्लामॆण्ड्रु ईयादु इवऱुम्  
 मरुळानाम् माणाप् पिऱप्पु       १००२
@@ -117,7 +117,7 @@ He hoards, gives not is born devil.        1002
 मरुळानाम् माणाप् पिऱप्पु       १००२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००३</summary>
 
 ईट्टम् इवऱि इसैवेण्डा आडवर्  
 तोट्रम् निलक्कुप् पॊऱै।      १००३
@@ -172,7 +172,7 @@ Who hoards without a worthy deed.        1003
 तोट्रम् निलक्कुप् पॊऱै।      १००३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००४</summary>
 
 ऎच्चमॆण्ड्रु ऎन्ऎण्णुङ् गॊल्लो ऒरुवराल्  
 नच्चप् पडाअ तवन्।      १००४
@@ -228,7 +228,7 @@ Who is for approach too unkind.        1004
 नच्चप् पडाअ तवन्।      १००४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००५</summary>
 
 कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय  
 कोडियुण् डायिनुम् इल्।      १००५
@@ -284,7 +284,7 @@ To give and enjoy whose heart is hard.        1005
 कोडियुण् डायिनुम् इल्।      १००५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००६</summary>
 
 एदम् पॆरुञ्जॆल्वम् तान्दुव्वान् तक्कार्क्कॊण्ड्रु  
 ईदल् इयल्बिला तान्।      १००६
@@ -340,7 +340,7 @@ To worthy men is but a slur.        1006
 ईदल् इयल्बिला तान्।      १००६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००७</summary>
 
 अट्रार्क्कॊण्ड्रु आट्रादान् सॆल्वम् मिगनलम्  
 पॆट्राळ् तमियळ्मूत् तट्रु।      १००७
@@ -396,7 +396,7 @@ Is like a spinster-belle grown old.        1007
 पॆट्राळ् तमियळ्मूत् तट्रु।      १००७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००८</summary>
 
 नच्चप् पडादवन् सॆल्वम् नडुवूरुळ्  
 नच्चु मरम्बऴुत् तट्रु।       १००८
@@ -457,7 +457,7 @@ Is poison-fruit-tree amidst a town.        1008
 नच्चु मरम्बऴुत् तट्रु।       १००८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १००९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १००९</summary>
 
 अन्बॊरीइत् तऱ्चॆट्रु अऱनोक्कादु ईट्टिय  
 ऒण्बॊरुळ् कॊळ्वार् पिऱर्।       १००९
@@ -513,7 +513,7 @@ In loveless, stingy, vicious hold.        1009
 ऒण्बॊरुळ् कॊळ्वार् पिऱर्।       १००९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१०</summary>
 
 सीरुडैच् चॆल्वर् सिऱुदुनि मारि  
 वऱङ्गूर्न् दनैयदु उडैत्तु।       १०१०

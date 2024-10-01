@@ -4,7 +4,7 @@ title = "०७ अलरऱिवुऱुत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४१</summary>
 
 अलरॆऴ आरुयिर् निऱ्कुम् अदनैप्  
 पलरऱियार् पाक्कियत् ताल्।       ११४१
@@ -59,7 +59,7 @@ Good luck! many know not its sense.        1141
 पलरऱियार् पाक्कियत् ताल्।       ११४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४२</summary>
 
 मलरन्न कण्णाळ् अरुमै अऱियादु  
 अलरॆमक्कु ईन्ददिव् वूर्।       ११४२
@@ -114,7 +114,7 @@ People know not what rare angel.        1142
 अलरॆमक्कु ईन्ददिव् वूर्।       ११४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४३</summary>
 
 उऱाअदो ऊरऱिन्द कॆळवै अदनैप्  
 पॆऱाअदु पॆट्रन्न नीर्त्तु।       ११४३
@@ -169,7 +169,7 @@ Having not, I feel, I have her.        1143
 पॆऱाअदु पॆट्रन्न नीर्त्तु।       ११४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४४</summary>
 
 कव्वैयाल् कव्विदु कामम् अदुविण्ड्रेल्  
 तव्वॆन्नुम् तन्मै इऴन्दु।       ११४४
@@ -224,7 +224,7 @@ Or else it becomes bleak and weak.        1144
 तव्वॆन्नुम् तन्मै इऴन्दु।       ११४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४५</summary>
 
 कळित्तॊऱुम् कळ्ळुण्डल् वेट्टट्राल् कामम्  
 वॆळिप्पडुन् दोऱुम् इनिदु।       ११४५
@@ -279,7 +279,7 @@ Love delights as rumour grows.        1145
 वॆळिप्पडुन् दोऱुम् इनिदु।       ११४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४६</summary>
 
 कण्डदु मन्नुम् ऒरुनाळ् अलर्मन्नुम्  
 तिङ्गळैप् पाम्बुगॊण् डट्रु।       ११४६
@@ -339,7 +339,7 @@ Lasting rumours eclipse our moon.        1146
 तिङ्गळैप् पाम्बुगॊण् डट्रु।       ११४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४७</summary>
 
 ऊरवर् कॆळवै ऎरुवाग अन्नैसॊल्  
 नीराग नीळुम्इन् नोय्।       ११४७
@@ -394,7 +394,7 @@ Waters the growth of this love-pain.        1147
 नीराग नीळुम्इन् नोय्।       ११४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४८</summary>
 
 नॆय्याल् ऎरिनुदुप्पेम् ऎण्ड्रट्राल् कॆळवैयाल्  
 कामम् नुदुप्पेम् ऎनल्।       ११४८
@@ -449,7 +449,7 @@ Is to quench fire by pouring ghee.        1148
 कामम् नुदुप्पेम् ऎनल्।       ११४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४९</summary>
 
 अलर्नाण ऒल्वदो अञ्जलोम्बु ऎण्ड्रार्  
 पलर्नाण नीत्तक् कडै।       ११४९
@@ -504,7 +504,7 @@ Why then should I blush this clamour?        1149
 पलर्नाण नीत्तक् कडै।       ११४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५०</summary>
 
 ताम्वेण्डिन् नल्गुवर् कादलर् याम्वेण्डुम्  
 कॆळवै ऎडुक्कुम्इव् वूर्।       ११५०

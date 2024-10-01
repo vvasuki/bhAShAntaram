@@ -4,7 +4,7 @@ title = "०४ केळ्वि"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४११</summary>
 
 सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्  
 सॆल्वत्तु ळॆल्लान् दलै।       ४११
@@ -64,7 +64,7 @@ It is the best of wealths on earth.        411
 सॆल्वत्तु ळॆल्लान् दलै।       ४११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१२</summary>
 
 सॆवुक्कुण विल्लाद पोऴ्दु सिऱिदु  
 वयिट्रुक्कुम् ईयप् पडुम्।       ४१२
@@ -119,7 +119,7 @@ When the ear gets no food for thought.        412
 वयिट्रुक्कुम् ईयप् पडुम्।       ४१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१३</summary>
 
 सॆवियुणविऱ्केळ्वि युडैयार् अवियुणविन्  
 आण्ड्रारो टॊप्पर् निलत्तु।       ४१३
@@ -174,7 +174,7 @@ Equal gods on oblations fed.        413
 आण्ड्रारो टॊप्पर् निलत्तु।       ४१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१४</summary>
 
 कट्रिल नायिनुङ् गेट्क अह्दॊरुवऱ्कु  
 ऒऱ्कत्तिन् ऊट्रान् दुणै।       ४१४
@@ -229,7 +229,7 @@ That serves a staff and stay in need.        414
 ऒऱ्कत्तिन् ऊट्रान् दुणै।       ४१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१५</summary>
 
 इऴुक्कल् उडैयुऴि ऊट्रुक्कोल् अट्रे  
 ऒऴुक्क मुडैयार्वाय्च् चॊल्।       ४१५
@@ -284,7 +284,7 @@ A strong staff on slippery ground.        415
 ऒऴुक्क मुडैयार्वाय्च् चॊल्।       ४१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१६</summary>
 
 ऎनैत्तानुम् नल्लवै केट्क अनैत्तानुम्  
 आण्ड्र पॆरुमै तरुम्।       ४१६
@@ -339,7 +339,7 @@ That much will highly exalt you.        416
 आण्ड्र पॆरुमै तरुम्।       ४१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१७</summary>
 
 पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्  
 दीण्डिय केळ्वि यवर्।       ४१७
@@ -394,7 +394,7 @@ Not ev'n by slip speak foolishly.        417
 दीण्डिय केळ्वि यवर्।       ४१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१८</summary>
 
 केट्पिनुङ् गेळात् तगैयवे केळ्वियाल्  
 तोट्कप् पडाद सॆवि।       ४१८
@@ -449,7 +449,7 @@ Which is not by wisdom drilled.        418
 तोट्कप् पडाद सॆवि।       ४१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१९</summary>
 
 नुणङ्गिय केळ्विय रल्लार् वणङ्गिय  
 वायिन रादल् अरिदु।       ४१९
@@ -504,7 +504,7 @@ Who care little to counsels wise.        419
 वायिन रादल् अरिदु।       ४१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२०</summary>
 
 सॆवियिऱ्चुवैयुणरा वायुणर्विन् माक्कळ्  
 अवियिनुम् वाऴिनुम् ऎन्?       ४२०

@@ -4,7 +4,7 @@ title = "०३ पुदल्वरैप् पॆऱुदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१</summary>
 
 पॆऱुमवट्रुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
 मक्कट्पेऱु अल्ल पिऱ।      ६१
@@ -59,7 +59,7 @@ Than children virtuous and wise.         61
 मक्कट्पेऱु अल्ल पिऱ।      ६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२</summary>
 
 ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्  
 पण्बुडै मक्कट् पॆऱिन्।      ६२
@@ -114,7 +114,7 @@ Noble sons bring all we wish.         62
 पण्बुडै मक्कट् पॆऱिन्।      ६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३</summary>
 
 तम्बॊरुळ् ऎन्बदम् मक्कळ् अवर्बॊरुळ्  
 तम्दम् विनैयान् वरुम्।      ६३
@@ -169,7 +169,7 @@ Their wealth is measured by their deed.         63
 तम्दम् विनैयान् वरुम्।      ६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४</summary>
 
 अमिऴ्दिनुम् आट्र इनिदेदम् मक्कळ्  
 सिऱुगै अळाविय कूऴ्।      ६४
@@ -224,7 +224,7 @@ In which one's children hands insert.         64
 सिऱुगै अळाविय कूऴ्।      ६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५</summary>
 
 मक्कळ्मॆय् तीण्डल् उडऱ्किन्बम् मट्रु अवर्  
 सॊऱ्केट्टल् इन्बम् सॆविक्कु।      ६५
@@ -279,7 +279,7 @@ Sweet to ears are their words lovely.         65
 सॊऱ्केट्टल् इन्बम् सॆविक्कु।      ६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६</summary>
 
 कुऴल् इनिदु याऴ्इनिदु ऎन्बदम् मक्कळ्  
 मऴलैच्चॊल् केळा तवर्।      ६६
@@ -334,7 +334,7 @@ Deaf to baby's babble's lay!         66
 मऴलैच्चॊल् केळा तवर्।      ६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७</summary>
 
 तन्दै मगऱ्काट्रु नण्ड्रि अवैयत्तु  
 मुन्दि इरुप्पच् चॆयल्।      ६७
@@ -389,7 +389,7 @@ To seat him in front of the wise.         67
 मुन्दि इरुप्पच् चॆयल्।      ६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८</summary>
 
 तम्मिन्दम् मक्कळ् अऱिवुडैमै मानिलत्तु  
 मन्नुयिर्क् कॆल्लाम् इनिदु।      ६८
@@ -444,7 +444,7 @@ To see their children themselves excel.         68
 मन्नुयिर्क् कॆल्लाम् इनिदु।      ६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९</summary>
 
 ईण्ड्र पॊऴुदिन् पॆरिदुवक्कुम् तन्मगनैच्  
 चाण्ड्रोन् ऎनक्केट्ट ताय्।      ६९
@@ -499,7 +499,7 @@ Delights more than when she begot.         69
 चाण्ड्रोन् ऎनक्केट्ट ताय्।      ६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७०</summary>
 
 मगन्दन्दैक्कु आट्रुम् उदवि इवन्दन्दै  
 ऎन्नोट्रान् कॊल् ऎनुम् सॊल्।      ७०

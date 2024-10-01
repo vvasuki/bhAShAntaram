@@ -4,7 +4,7 @@ title = "१२ पुल्लऱिवाण्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४१</summary>
 
 अऱिविन्मै इन्मैयुळ् इन्मै पिऱिदिन्मै  
 इन्मैया वैया तुलगु।       ८४१
@@ -60,7 +60,7 @@ Want of aught else the world nev'r counts.        841
 इन्मैया वैया तुलगु।       ८४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४२</summary>
 
 अऱिविलान् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्  
 इल्लै पॆऱुवान् तवम्।       ८४२
@@ -115,7 +115,7 @@ It comes but by getter's merit.        842
 इल्लै पॆऱुवान् तवम्।       ८४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४३</summary>
 
 अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै  
 सॆऱुवार्क्कुम् सॆय्दल् अरिदु।       ८४३
@@ -170,7 +170,7 @@ Ev'n tortures of their foes indeed.        843
 सॆऱुवार्क्कुम् सॆय्दल् अरिदु।       ८४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४४</summary>
 
 वॆण्मै ऎनप्पडुव तियादॆनिन् ऒण्मै  
 उडैयम्याम् ऎन्नुम् सॆरुक्कु।       ८४४
@@ -225,7 +225,7 @@ That cries "We have sagacity"        844
 उडैयम्याम् ऎन्नुम् सॆरुक्कु।       ८४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४५</summary>
 
 कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ  
 वल्लदूउम् ऐयम् तरुम्।       ८४५
@@ -280,7 +280,7 @@ Leads to doubt ev'n that he has got.        845
 वल्लदूउम् ऐयम् तरुम्।       ८४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४६</summary>
 
 अट्रम् मऱैत्तलो पुल्लऱिवु तम्वयिन्  
 कुट्रम् मऱैया वऴि।       ८४६
@@ -335,7 +335,7 @@ And yet their glaring faults reveal.        846
 कुट्रम् मऱैया वऴि।       ८४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४७</summary>
 
 अरुमऱै सोरुम् अऱिविलान् सॆय्युम्  
 पॆरुमिऱै ताने तनक्कु।       ८४७
@@ -390,7 +390,7 @@ Upon himself great harm entails.        847
 पॆरुमिऱै ताने तनक्कु।       ८४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४८</summary>
 
 एववुम् सॆय्गलान् तान्देऱान् अव्वुयिर्  
 पोऒम् अळवुमोर् नोय्।       ८४८
@@ -445,7 +445,7 @@ Plague is his life until it goes.        848
 पोऒम् अळवुमोर् नोय्।       ८४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४९</summary>
 
 काणादान् काट्टुवान् तान्गाणान् काणादान्  
 कण्डानाम् तान्गण्ड वाऱु।       ८४९
@@ -500,7 +500,7 @@ To the blind who bet their sight as right.        849
 कण्डानाम् तान्गण्ड वाऱु।       ८४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५०</summary>
 
 उलगत्तार् उण्डॆन्बदु इल्लॆन्बान् वैयत्तु  
 अलगैया वैक्कप् पडुम्।       ८५०

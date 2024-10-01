@@ -4,7 +4,7 @@ title = "१४ पगैमाट्चि"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६१</summary>
 
 वलियार्क्कु माऱेट्रल् ओम्बुग ओम्बा  
 मॆलियार्मेल् मेग पगै।       ८६१
@@ -60,7 +60,7 @@ With the feeble for battle long.        861
 मॆलियार्मेल् मेग पगै।       ८६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६२</summary>
 
 अन्बिलन् आण्ड्र तुणैयिलन् तान्दुव्वान्  
 ऎन्बरियुम् एदिलान् तुप्पु।       ८६२
@@ -115,7 +115,7 @@ Can he withstand an enemy strong?        862
 ऎन्बरियुम् एदिलान् तुप्पु।       ८६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६३</summary>
 
 अञ्जुम् अऱियान् अमैविलन् ईगलान्  
 तञ्जम् ऎळियन् पगैक्कु।       ८६३
@@ -170,7 +170,7 @@ He is easy for foes to hit.        863
 तञ्जम् ऎळियन् पगैक्कु।       ८६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६४</summary>
 
 नीङ्गान् वॆगुळि निऱैयिलन् ऎञ्ञाण्ड्रुम्  
 याङ्गणुम् यार्क्कुम् ऎळिदु।       ८६४
@@ -225,7 +225,7 @@ To any, anywhere any day.        864
 याङ्गणुम् यार्क्कुम् ऎळिदु।       ८६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६५</summary>
 
 वऴिनोक्कान् वाय्प्पन सॆय्यान् पऴिनोक्कान्  
 पण्बिलन् पट्रार्क्कु इनिदु।      ८६५
@@ -280,7 +280,7 @@ Any foe can fell him with ease.        865
 पण्बिलन् पट्रार्क्कु इनिदु।      ८६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६६</summary>
 
 काणाच् चिनत्तान् कऴिबॆरुङ् गामत्तान्  
 पेणामै पेणप् पडुम्।       ८६६
@@ -335,7 +335,7 @@ To have his hatred is but just.        866
 पेणामै पेणप् पडुम्।       ८६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६७</summary>
 
 कॊडुत्तुम् कॊळल्वेण्डुम् मण्ड्र अडुत्तिरुन्दु  
 माणाद सॆय्वान् पगै।       ८६७
@@ -390,7 +390,7 @@ Who muddles chance with oddity.        867
 माणाद सॆय्वान् पगै।       ८६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६८</summary>
 
 कुणनिलनाय्क् कुट्रम् पलवायिन् माट्रार्क्कु  
 इननिलनाम् एमाप् पुडैत्तु।      ८६८
@@ -445,7 +445,7 @@ He loses friends and delights foes.        868
 इननिलनाम् एमाप् पुडैत्तु।      ८६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६९</summary>
 
 सॆऱुवार्क्कुच् चेणिगवा इन्बम् अऱिविला  
 अञ्जुम् पगैवर्प् पॆऱिन्।       ८६९
@@ -500,7 +500,7 @@ When timid fools are opponents.        869
 अञ्जुम् पगैवर्प् पॆऱिन्।       ८६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७०</summary>
 
 कल्लान् वॆगुळुम् सिऱुबॊरुळ् ऎञ्ञाण्ड्रुम्  
 ऒल्लानै ऒल्ला तॊळि।       ८७०

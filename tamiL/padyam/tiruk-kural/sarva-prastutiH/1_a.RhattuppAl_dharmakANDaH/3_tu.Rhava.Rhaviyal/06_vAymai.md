@@ -4,7 +4,7 @@ title = "०६ वाय्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९१</summary>
 
 वाय्मै ऎनप्पडुवदु यादॆनिन् यादॊण्ड्रुम्  
 तीमै इलाद सॊलल्।      २९१
@@ -59,7 +59,7 @@ It is to speak out evil-free.        291
 तीमै इलाद सॊलल्।      २९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९२</summary>
 
 पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द  
 नन्मै पयक्कुम् ऎनिन्।      २९२
@@ -114,7 +114,7 @@ When good it brings removing vice.        292
 नन्मै पयक्कुम् ऎनिन्।      २९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९३</summary>
 
 तन्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिन्  
 तन्नॆञ्जे तन्नैच् चुडुम्।      २९३
@@ -170,7 +170,7 @@ Conscience will scorch and make him sigh.        293
 तन्नॆञ्जे तन्नैच् चुडुम्।      २९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९४</summary>
 
 उळ्ळत्ताऱ्पॊय्या तॊऴुगिन् उलगत्तार्  
 उळ्ळत्तु ळॆल्लाम् उळन्।      २९४
@@ -226,7 +226,7 @@ Who serves the Truth serene in soul.        294
 उळ्ळत्तु ळॆल्लाम् उळन्।      २९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९५</summary>
 
 मनत्तॊडु वाय्मै मॊऴियिन् तवत्तॊडु  
 तानञ्जॆय् वारिन् तलै।      २९५
@@ -282,7 +282,7 @@ Is more than giving and living austere.        295
 तानञ्जॆय् वारिन् तलै।      २९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९६</summary>
 
 पॊय्यामै अन्न पुगऴिल्लै ऎय्यामै  
 ऎल्ला अऱमुन् दरुम्।      २९६
@@ -338,7 +338,7 @@ All virtues from Truth arise.        296
 ऎल्ला अऱमुन् दरुम्।      २९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९७</summary>
 
 पॊय्यामै पॊय्यामै आट्रिन् अऱम्बिऱ  
 सॆय्यामै सॆय्यामै नण्ड्रु।      २९७
@@ -398,7 +398,7 @@ All virtues are in Truth indeed.        297
 सॆय्यामै सॆय्यामै नण्ड्रु।      २९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९८</summary>
 
 पुऱळ्दूय्मै नीरान् अमैयुम् अगन्दूय्मै  
 वाय्मैयाल् काणप् पडुम्।      २९८
@@ -453,7 +453,7 @@ Truth renders you pure inward.        298
 वाय्मैयाल् काणप् पडुम्।      २९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९९</summary>
 
 ऎल्ला विळक्कुम् विळक्कल्ल साण्ड्रोर्क्कुप्  
 पॊय्या विळक्के विळक्कु।      २९९
@@ -508,7 +508,7 @@ Truth light is light bright like sun-light        299
 पॊय्या विळक्के विळक्कु।      २९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३००</summary>
 
 यामॆय्याक् कण्डवट्रुळ् इल्लै ऎनैत्तॊण्ड्रुम्  
 वाय्मैयिन् नल्ल पिऱ।      ३००

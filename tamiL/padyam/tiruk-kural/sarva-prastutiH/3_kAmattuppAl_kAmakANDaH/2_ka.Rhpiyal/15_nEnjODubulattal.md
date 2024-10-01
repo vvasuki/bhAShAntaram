@@ -4,7 +4,7 @@ title = "१५ नॆञ्जॊडुबुलत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९१</summary>
 
 अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवन्नॆञ्जे  
 नीऎमक्कु आगा तदु।       १२९१
@@ -60,7 +60,7 @@ Why not my heart be all my own?        1291
 नीऎमक्कु आगा तदु।       १२९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९२</summary>
 
 उऱाअ तवर्क्कण्ड कण्णुम् अवरैच्  
 चॆऱाअरॆनच् चेऱियॆन् नॆञ्जु।      १२९२
@@ -116,7 +116,7 @@ Yet you clasp him as if friendly.        1292
 चॆऱाअरॆनच् चेऱियॆन् नॆञ्जु।      १२९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९३</summary>
 
 कॆट्टार्क्कु नट्टार्इल् ऎन्बदो नॆञ्जेनी  
 पॆट्टाङ्गु अवर्बिन् सॆलल्।      १२९३
@@ -172,7 +172,7 @@ You follow him at will. Is it
 पॆट्टाङ्गु अवर्बिन् सॆलल्।      १२९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९४</summary>
 
 इनिअन्न निन्नॊडु सूऴ्वार्यार् नॆञ्जे  
 तुनिसॆय्दु तुव्वाय्गाण् मट्रु।       १२९४
@@ -233,7 +233,7 @@ Who will then consult you, my heart?        1294
 तुनिसॆय्दु तुव्वाय्गाण् मट्रु।       १२९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९५</summary>
 
 पॆऱाअमै अञ्जुम् पॆऱिन्बिरिवु अञ्जुम्  
 अऱाअ इडुम्बैत्तॆन् नॆञ्जु।       १२९५
@@ -294,7 +294,7 @@ O my heart suffers ceaseless pain.        1295
 अऱाअ इडुम्बैत्तॆन् नॆञ्जु।       १२९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९६</summary>
 
 तनिये इरुन्दु निनैत्तक्काल् ऎन्नैत्  
 तिनिय इरुन्ददॆन् नॆञ्जु।       १२९६
@@ -350,7 +350,7 @@ As I muse on him all alone.        1296
 तिनिय इरुन्ददॆन् नॆञ्जु।       १२९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९७</summary>
 
 नाणुम् मऱन्देन् अवर्मऱक् कल्लाऎन्  
 माणा मडनॆञ्जिऱ्पट्टु।       १२९७
@@ -405,7 +405,7 @@ In mean foolish mind I'm caught.        1297
 माणा मडनॆञ्जिऱ्पट्टु।       १२९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९८</summary>
 
 ऎळ्ळिन् इळिवाम्ऎण्ड्रु ऎण्णि अवर्दिऱम्  
 उळ्ळुम् उयिर्क्कादल् नॆञ्जु।       १२९८
@@ -461,7 +461,7 @@ Hails his glory ignoring blame.        1298
 उळ्ळुम् उयिर्क्कादल् नॆञ्जु।       १२९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९९</summary>
 
 तुन्बत्तिऱ्कु यारे तुणैयावार् तामुडैय  
 नॆञ्जन् दुणैयल् वऴि।       १२९९
@@ -516,7 +516,7 @@ If lover's heart denies relief?        1299
 नॆञ्जन् दुणैयल् वऴि।       १२९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३००</summary>
 
 तञ्जम् तमरल्लर् एदिलार् तामुडैय  
 नॆञ्जम् तमरल् वऴि।       १३००

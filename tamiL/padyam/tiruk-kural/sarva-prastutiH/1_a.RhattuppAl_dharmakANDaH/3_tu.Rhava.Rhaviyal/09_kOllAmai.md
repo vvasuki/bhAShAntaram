@@ -4,7 +4,7 @@ title = "०९ कॊल्लामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२१</summary>
 
 अऱविनै यादॆनिन् कॊल्लामै कोऱल्  
 पिऱविनै ऎल्लान् दरुम्।      ३२१
@@ -59,7 +59,7 @@ For killing causes every ill.        321
 पिऱविनै ऎल्लान् दरुम्।      ३२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२२</summary>
 
 पगुत्तुण्डु पल्लुयिर् ओम्बुदल् नूलोर्  
 तॊगुत्तवट्रुळ् ऎल्लान् दलै।      ३२२
@@ -114,7 +114,7 @@ This is the law of all the laws.        322
 तॊगुत्तवट्रुळ् ऎल्लान् दलै।      ३२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२३</summary>
 
 ऒण्ड्राग नल्लदु कॊल्लामै मट्रदन्  
 पिन्सारप् पॊय्यामै नण्ड्रु।      ३२३
@@ -169,7 +169,7 @@ The next, not to utter falsehood.        323
 पिन्सारप् पॊय्यामै नण्ड्रु।      ३२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२४</summary>
 
 नल्लाऱु ऎनप्पडुवदु यादॆनिन् यादॊण्ड्रुम्  
 कॊल्लामै सूऴुम् नॆऱि।      ३२४
@@ -224,7 +224,7 @@ The way away from heat to slay.        324
 कॊल्लामै सूऴुम् नॆऱि।      ३२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२५</summary>
 
 निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्  
 कॊल्लामै सूऴ्वान् तलै।      ३२५
@@ -280,7 +280,7 @@ The head is he who dreads killing.        325
 कॊल्लामै सूऴ्वान् तलै।      ३२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२६</summary>
 
 कॊल्लामै मेऱ्कॊण् डॊऴुगुवान् वाऴ्नाळ्मेल्  
 सॆल्लादु उयिरुण्णुङ् गूट्रु।      ३२६
@@ -336,7 +336,7 @@ Of him who no life puts to death.        326
 सॆल्लादु उयिरुण्णुङ् गूट्रु।      ३२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२७</summary>
 
 तन्नुयिर् नीप्पिनुम् सॆय्यऱ्क तान्बिऱिदु  
 इन्नुयिर् नीक्कुम् विनै।      ३२७
@@ -391,7 +391,7 @@ Even when your life must perish.        327
 इन्नुयिर् नीक्कुम् विनै।      ३२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२८</summary>
 
 नण्ड्रागुम् आक्कम् पॆरिदॆनिनुम् साण्ड्रोर्क् कुक्  
 कॊण्ड्रागुम् आक्कङ् गडै।      ३२८
@@ -447,7 +447,7 @@ Though deemed good in sacrifice.        328
 कॊण्ड्रागुम् आक्कङ् गडै।      ३२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२९</summary>
 
 कॊलैविनैय रागिय माक्कळ् पुलैविनैयर्  
 पुन्मै तॆरिवा रगत्तु।      ३२९
@@ -502,7 +502,7 @@ Eaters of carrion bizarre!        329
 पुन्मै तॆरिवा रगत्तु।      ३२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३०</summary>
 
 उयिर् उडम्बिन् नीक्कियार् ऎन्ब सॆयिर् उडम्बिन्  
 सॆल्लात्ती वाऴ्क्कै यवर्।      ३३०

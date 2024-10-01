@@ -4,7 +4,7 @@ title = "१० वलियऱिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७१</summary>
 
 विनैवलियुम् तन्वलियुम् माट्रान् वलियुम्  
 तुणैवलियुम् तूक्किच् चॆयल्।       ४७१
@@ -59,7 +59,7 @@ The allies' strength and go at length.        471
 तुणैवलियुम् तूक्किच् चॆयल्।       ४७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७२</summary>
 
 ऒल्व तऱिवदु अऱिन्ददन् कण्दङ्गिच्  
 चॆल्वार्क्कुच् चॆल्लाददु इल्।       ४७२
@@ -114,7 +114,7 @@ What they can and how to go.        472
 चॆल्वार्क्कुच् चॆल्लाददु इल्।       ४७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७३</summary>
 
 उडैत्तम् वलियऱियार् ऊक्कत्तिन् ऊक्कि  
 इडैक्कण् मुरिन्दार् पलर्।       ४७३
@@ -169,7 +169,7 @@ Their pride breaks up in boastful fight.        473
 इडैक्कण् मुरिन्दार् पलर्।       ४७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७४</summary>
 
 अमैन्दाङ् गॊऴुगान् अळवऱियान् तन्नै  
 वियन्दान् विरैन्दु कॆडुम्।       ४७४
@@ -224,7 +224,7 @@ And brags himself-his fall is sure.        474
 वियन्दान् विरैन्दु कॆडुम्।       ४७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७५</summary>
 
 पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्  
 जाल मिगुत्तुप् पॆयिन्।       ४७५
@@ -279,7 +279,7 @@ Cart's axle breaks by gross volume.        475
 जाल मिगुत्तुप् पॆयिन्।       ४७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७६</summary>
 
 नुनिक्कॊम्बर् एऱिनार् अह्दिऱन् दूक्किन्  
 उयिर्क्किऱुदि आगि विडुम्।       ४७६
@@ -334,7 +334,7 @@ Ends the life as his body rips.        476
 उयिर्क्किऱुदि आगि विडुम्।       ४७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७७</summary>
 
 आट्रिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
 पोट्रि वऴङ्गु नॆऱि।       ४७७
@@ -389,7 +389,7 @@ This way give and guard your treasure.        477
 पोट्रि वऴङ्गु नॆऱि।       ४७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७८</summary>
 
 आगाऱु अळविट्टि तायिनुङ् गेडिल्लै  
 पोगाऱु अगलाक् कडै।       ४७८
@@ -444,7 +444,7 @@ No matter how small income is.        478
 पोगाऱु अगलाक् कडै।       ४७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७९</summary>
 
 अळवऱ஧न्दु वाऴादान् वाऴ्क्कै उळबोल  
 इल्लागित् तोण्ड्राक् कॆडुम्।       ४७९
@@ -504,7 +504,7 @@ His life seems rich but thins and ends.        479
 इल्लागित् तोण्ड्राक् कॆडुम्।       ४७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८०</summary>
 
 उळवरै तूक्काद ऒप्पुर वाण्मै  
 वळवरै वल्लैक् कॆडुम्।       ४८०

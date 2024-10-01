@@ -4,7 +4,7 @@ title = "१२ मॆय्युणर्दल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५१</summary>
 
 पॊरुळल्ल वट्रैप् पॊरुळॆण्ड्रु उणरुम्  
 मरुळानाम् माणाप् पिऱप्पु।      ३५१
@@ -59,7 +59,7 @@ Which deems vain things as things of worth.        351
 मरुळानाम् माणाप् पिऱप्पु।      ३५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५२</summary>
 
 इरुळ्नीङ्गि इन्बम् पयक्कुम् मरुळ्नीङ्गि  
 मासऱु काट्चि यवर्क्कु।      ३५२
@@ -115,7 +115,7 @@ Enjoy delight devoid of night.        352
 मासऱु काट्चि यवर्क्कु।      ३५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५३</summary>
 
 ऐयत्तिन् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिन्  
 वानम् नणिय तुडैत्तु।      ३५३
@@ -171,7 +171,7 @@ More than earth heaven is near.        353
 वानम् नणिय तुडैत्तु।      ३५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५४</summary>
 
 ऐयुणर्वु ऎय्दियक् कण्णुम् पयमिण्ड्रे  
 मॆय्युणर्वु इल्ला तवर्क्कु।      ३५४
@@ -227,7 +227,7 @@ Without knowing the Truth within.        354
 मॆय्युणर्वु इल्ला तवर्क्कु।      ३५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५५</summary>
 
 ऎप्पॊरुळ् ऎत्तन्मैत् तायिनुम् अप्पॊरुळ्  
 मॆय्प्पॊरुळ् काण्बदु अऱिवु।      ३५५
@@ -288,7 +288,7 @@ In every case of every kind.        355
 मॆय्प्पॊरुळ् काण्बदु अऱिवु।      ३५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५६</summary>
 
 कट्रीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्  
 मट्रीण्डु वारा नॆऱि।      ३५६
@@ -344,7 +344,7 @@ Enter the path of non-return.        356
 मट्रीण्डु वारा नॆऱि।      ३५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५७</summary>
 
 ओर्त्तुळ्ळम् उळ्ळदु उणरान् ऒरुदलैयाप्  
 पेर्त्तुळ्ळ वेण्डा पिऱप्पु।      ३५७
@@ -400,7 +400,7 @@ He is free from thoughts of rebirth.        357
 पेर्त्तुळ्ळ वेण्डा पिऱप्पु।      ३५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५८</summary>
 
 पिऱप्पॆन्नुम् पेदैमै नीङ्गच् चिऱप्पॆन्नुम्  
 सॆम्बॊरुळ् काण्बदु अऱिवु।      ३५८
@@ -456,7 +456,7 @@ And remove the folly of birth.        358
 सॆम्बॊरुळ् काण्बदु अऱिवु।      ३५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५९</summary>
 
 सार्बुणर्न्दु सार्बु कॆडऒऴुगिन् मट्रऴित्तुच्  
 चार्दरा सार्दरु नोय्।      ३५९
@@ -517,7 +517,7 @@ Be free from ills of thraldom, O sage.        359
 चार्दरा सार्दरु नोय्।      ३५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६०</summary>
 
 कामम् वॆगुळि मयक्कम् इनव्मुण्ड्रन्  
 नामम् कॆडक्कॆडुम् नोय्।      ३६०

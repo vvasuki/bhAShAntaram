@@ -4,7 +4,7 @@ title = "२१ ऒट्राडल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८१</summary>
 
 ऒट्रुम् उरैसाण्ड्र नूलुम् इवैयिरण्डुम्  
 तॆट्रॆन्ग मन्नवन् कण्।       ५८१
@@ -60,7 +60,7 @@ The code of laws and careful spies.        581
 तॆट्रॆन्ग मन्नवन् कण्।       ५८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८२</summary>
 
 ऎल्लार्क्कुम् ऎल्लाम् निगऴ्बवै ऎञ्ञाण्ड्रुम्  
 वल्लऱिदल् वेन्दन् तॊऴिल्।       ५८२
@@ -116,7 +116,7 @@ The king should know in full detail.        582
 वल्लऱिदल् वेन्दन् तॊऴिल्।       ५८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८३</summary>
 
 ऒट्रिनान् ऒट्रिप् पॊरुळ्दॆरिया मन्नवन्  
 कॊट्रङ् गॊळक्किडन्ददु इल्।       ५८३
@@ -172,7 +172,7 @@ Who cares not for the Spy's remark.        583
 कॊट्रङ् गॊळक्किडन्ददु इल्।       ५८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८४</summary>
 
 विनैसॆय्वार् तम्सुट्रम् वेण्डादार् ऎण्ड्राङ्गु  
 अनैवरैयुम् आराय्वदु ऒट्रु।       ५८४
@@ -228,7 +228,7 @@ Who watch keenly are worthy spies.        584
 अनैवरैयुम् आराय्वदु ऒट्रु।       ५८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८५</summary>
 
 कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्  
 उगाअमै वल्लदे ऒट्रु।       ५८५
@@ -284,7 +284,7 @@ Guarding secrets mark the spies.        585
 उगाअमै वल्लदे ऒट्रु।       ५८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८६</summary>
 
 तुऱन्दार् पडिवत्त रागि इऱन्दाराय्न्दु  
 ऎन्सॆयिनुम् सोर्विलदु ऒट्रु।       ५८६
@@ -340,7 +340,7 @@ They betray them not under threats.        586
 ऎन्सॆयिनुम् सोर्विलदु ऒट्रु।       ५८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८७</summary>
 
 मऱैन्दवै केट्कवऱ्ऱागि अऱिन्दवै  
 ऐयप्पाडु इल्लदे ऒट्रु।       ५८७
@@ -396,7 +396,7 @@ Beyond a doubt he clears his facts.        587
 ऐयप्पाडु इल्लदे ऒट्रु।       ५८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८८</summary>
 
 ऒट्रॊट्रित् तन्द पॊरुळैयुम् मट्रुमोर्  
 ऒट्रिनाल् ऒट्रिक् कॊळल्।       ५८८
@@ -452,7 +452,7 @@ By another spy verify.        588
 ऒट्रिनाल् ऒट्रिक् कॊळल्।       ५८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८९</summary>
 
 ऒट्रॆऱ्ऱुणरामै आळ्ग उडन्मूवर्  
 सॊट्रॊक्क तेऱप् पडुम्।       ५८९
@@ -508,7 +508,7 @@ When three agree confirm report.        589
 सॊट्रॊक्क तेऱप् पडुम्।       ५८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९०</summary>
 
 सिऱप्पऱिय ऒट्रिन्गण् सॆय्यऱ्क सॆय्यिन्  
 पुऱप्पडुत्तान् आगुम् मऱै।       ५९०

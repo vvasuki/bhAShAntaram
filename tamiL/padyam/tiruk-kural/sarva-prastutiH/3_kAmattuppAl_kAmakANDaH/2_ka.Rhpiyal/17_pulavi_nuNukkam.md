@@ -4,7 +4,7 @@ title = "१७ पुलवि नुणुक्कम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १३११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३११</summary>
 
 पॆण्णियलार् ऎल्लारुम् कण्णिन् पॊदुउण्बर्  
 नण्णेन् परत्तनिन् मार्बु।       १३११
@@ -65,7 +65,7 @@ To the gaze of all ladies exposed.        1311
 नण्णेन् परत्तनिन् मार्बु।       १३११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१२</summary>
 
 ऊडि इरुन्देमात् तुम्मिनार् याम्दम्मै  
 नीडुवाऴ् कॆन्बाक् कऱिन्दु।       १३१२
@@ -121,7 +121,7 @@ Expecting me to say "live long".        1312
 नीडुवाऴ् कॆन्बाक् कऱिन्दु।       १३१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१३</summary>
 
 कोट्टुप् पूच् चूडिनुम् कायुम् ऒरुत्तियैक्  
 काट्टिय सूडिनीर् ऎण्ड्रु।       १३१३
@@ -177,7 +177,7 @@ While I adorn myself with flowers.        1313
 काट्टिय सूडिनीर् ऎण्ड्रु।       १३१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१४</summary>
 
 यारिनुम् कादलम् ऎण्ड्रेना ऊडिनाळ्  
 यारिनुम् यारिनुम् ऎण्ड्रु।       १३१४
@@ -233,7 +233,7 @@ yāriṉum yāriṉum eṉṟu.
 यारिनुम् यारिनुम् ऎण्ड्रु।       १३१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१५</summary>
 
 इम्मैप् पिऱप्पिल् पिरियलम् ऎण्ड्रेनाक्  
 कण्निऱै नीर्गॊण् डनळ्।       १३१५
@@ -294,7 +294,7 @@ Her eyes at once with tears were filled.        1315
 कण्निऱै नीर्गॊण् डनळ्।       १३१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१६</summary>
 
 उळ्ळिनेन् ऎण्ड्रेन्मऱ्ऱॆन्मऱन्दीर् ऎण्ड्रॆन्नैप्  
 पुल्लाळ् पुलत्तक् कनळ्।       १३१६
@@ -350,7 +350,7 @@ Her embrace crying "Oft you forget".        1316
 पुल्लाळ् पुलत्तक् कनळ्।       १३१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१७</summary>
 
 वऴुत्तिनाळ् तुम्मिनेन् आग अऴित्तऴुदाळ्  
 यारुळ्ळित् तुम्मिनीर् ऎण्ड्रु।       १३१७
@@ -406,7 +406,7 @@ I sneezed; she blessed; then changed and wept
 यारुळ्ळित् तुम्मिनीर् ऎण्ड्रु।       १३१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१८</summary>
 
 तुम्मुच् चॆऱुप्प अऴुदाळ् नुमर्उळ्ळल्  
 ऎम्मै मऱैत्तिरो ऎण्ड्रु।       १३१८
@@ -462,7 +462,7 @@ I repressed sneeze; she wept crying
 ऎम्मै मऱैत्तिरो ऎण्ड्रु।       १३१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१९</summary>
 
 तन्नै उणर्त्तिनुम् कायुम् पिऱर्क्कुम्नीर्  
 इन्नीरर् आगुदिर् ऎण्ड्रु।       १३१९
@@ -518,7 +518,7 @@ I try to coax her and she remarks
 इन्नीरर् आगुदिर् ऎण्ड्रु।       १३१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२०</summary>
 
 निनैत्तिरुन्दु नोक्किनुम् कायुम् अनैत्तुनीर्  
 यारुळ्ळि नोक्किनीर् ऎण्ड्रु।       १३२०

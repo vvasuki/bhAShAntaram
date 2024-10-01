@@ -4,7 +4,7 @@ title = "०४ नलम्बुनैन्दुरैत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११११</summary>
 
 नन्नीरै वाऴि अनिच्चमे निन्निनुम्  
 मॆन्नीरळ् याम्वीऴ् पवळ्।      ११११
@@ -59,7 +59,7 @@ On whom I dote is softer still.        1111
 मॆन्नीरळ् याम्वीऴ् पवळ्।      ११११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११२</summary>
 
 मलर्गाणिन् मैयात्ति नॆञ्जे इवळ्गण्  
 पलर्गाणुम् पूवॊक्कुम् ऎण्ड्रु।       १११२
@@ -114,7 +114,7 @@ To her bright eyes, O mind dismayed.        1112
 पलर्गाणुम् पूवॊक्कुम् ऎण्ड्रु।       १११२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११३</summary>
 
 मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाट्रम्  
 वेलुण्गण् वेय्त्तो ळवट्कु।       १११३
@@ -169,7 +169,7 @@ Fragrant breath and lance-like eyes.        1113
 वेलुण्गण् वेय्त्तो ळवट्कु।       १११३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११४</summary>
 
 काणिन् कुवळै कविऴ्न्दु निलन्नोक्कुम्  
 माणिऴै कण्णॊव्वेम् ऎण्ड्रु।       १११४
@@ -224,7 +224,7 @@ I can't equal the jewelled-one's eyes.        1114
 माणिऴै कण्णॊव्वेम् ऎण्ड्रु।       १११४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११५</summary>
 
 अनिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्कु  
 नल्ल पडाअ पऱै।       १११५
@@ -284,7 +284,7 @@ To her breaking waist sad-drum-blares!        1115
 नल्ल पडाअ पऱै।       १११५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११६</summary>
 
 मदियुम् मडन्दै मुगनुम् अऱिया  
 पदियिन् कलङ्गिय मीन्।       १११६
@@ -339,7 +339,7 @@ The moon and which is woman's face.        1116
 पदियिन् कलङ्गिय मीन्।       १११६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११७</summary>
 
 अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल  
 मऱुवुण्डो मादर् मुगत्तु।       १११७
@@ -399,7 +399,7 @@ Just as in moon that changes phase?        1117
 मऱुवुण्डो मादर् मुगत्तु।       १११७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११८</summary>
 
 मादर् मुगम्बोल् ऒळिविड वल्लैयेल्  
 कादलै वाऴि मदि।       १११८
@@ -454,7 +454,7 @@ All my love to you; hail O moon!        1118
 कादलै वाऴि मदि।       १११८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११९</summary>
 
 मलरन्न कण्णाळ् मुगमॊत्ति यायिन्  
 पलर्गाणत् तोण्ड्रल् मदि।       १११९
@@ -509,7 +509,7 @@ If you look, then shine alone O moon!        1119
 पलर्गाणत् तोण्ड्रल् मदि।       १११९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२०</summary>
 
 अनिच्चमुम् अन्नत्तिन् तूवियुम् मादर्  
 अडिक्कु नॆरुञ्जिप् पऴम्।       ११२०

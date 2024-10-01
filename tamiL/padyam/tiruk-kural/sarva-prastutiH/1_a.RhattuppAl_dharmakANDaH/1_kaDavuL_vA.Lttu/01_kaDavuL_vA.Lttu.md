@@ -4,10 +4,10 @@ title = "०१ कडवुळ् वाऴ्त्तु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १</summary>
 
-अ-कर मुदल ऎऴुत्त् ऎल्लाम् आदि  
-भगवन् मुदट्र् ए उलगु।       १
+अ-कर मुदल ऎऴुत्त् ऎल्लाम्, आदि  
+भगवन् मुद् अट्र् ए उलगु।       १
 </details>
 
 <details><summary>श्री-राम-देशिकः - १</summary>
@@ -22,13 +22,13 @@ title = "०१ कडवुळ् वाऴ्त्तु"
 
 ०००१
 With alpha begins all alphabets;
-And the world with the first Bagavan. *
+And the world with the first Bhagavan. *
 (K.N. Subramanyam), (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १</summary>
 
-१. "Bagavan". Scholars differ in their opinion as to what this word stands for. Most traditional and modern scholars, based on the title of the chapter "In praise of God", render the word to mean "Creator God". However Jaina scholars claim that the word "आदि भगवन्" [Ādi bagavan] is a clear reference to the name of the first Jina Thirthankara "ādeenath" or rashabha (Chakravarti, १९५१; Subramanyam, १९८७). It is interesting to note that Valluvar who has used very few words of Sanskrit origin in his whole work, opted for the twin word "आदि भगवन्" here. Moreover, since the simile "ऎऴुत्तॆल्लाम्" is plural, the emphasis "उलगु" should also be taken in plural. The "world" could thus means the "people of the world" (उलगत्तार्क्कु).
+१. "Bhagavan". Scholars differ in their opinion as to what this word stands for. Most traditional and modern scholars, based on the title of the chapter "In praise of God", render the word to mean "Creator God". However Jaina scholars claim that the word "आदि भगवन्" [Ādi bhagavan] is a clear reference to the name of the first Jina Thirthankara "ādeenath" or rashabha (Chakravarti, १९५१; Subramanyam, १९८७). It is interesting to note that Valluvar who has used very few words of Sanskrit origin in his whole work, opted for the twin word "आदि भगवन्" here. Moreover, since the simile "ऎऴुत्तॆल्लाम्" is plural, the emphasis "उलगु" should also be taken in plural. The "world" could thus means the "people of the world" (उलगत्तार्क्कु).
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १</summary>
@@ -66,9 +66,9 @@ Leads and lords the entire world.         1
 पगवन् मुदट्रे उलगु।       १
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २</summary>
 
-कट्रदनाल्+++(=शिक्षया)+++ आय पयन्+++(=फलम्)+++ ऎन्कॊल्+++(=??)+++ वाल्+++(=??-)+++-अऱिवन्  
+कट्रदनाल्+++(=शिक्षया)+++ आय पयन्+++(=फलम्)+++ ऎन् कॊल्+++(=नु),+++ वाल्+++(=शुद्ध)+++-अऱिवन्  
 नल्+ताळ्+++(=पाद)+++-तॊऴा+++(=पूजा)+++-अऱ् ऎनिन्।       २
 </details>
 
@@ -123,7 +123,7 @@ At His good feet who knoweth all.         2
 नट्राळ् तॊऴाअर् ऎनिन्।       २
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३</summary>
 
 मलर्-मिसै एकिनान् माण्+++(=महत्)+++-अडि सेर्न्दार्  
 निल+++(=भू)+++-मिसै+++(=खं)+++ नीडु+++(=चिरं)+++ वाऴ्वार्।      ३
@@ -185,7 +185,7 @@ The feet of God in florid brain.         3
 निलमिसै नीडु वाऴ्वार्।      ३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४</summary>
 
 वेण्डुदल् वेण्डामै इलान् अडि सेर्न्दार्क्कु  
 याण्ड्+++(=कदाचन)+++ उम् इडुम्बै+++(=दुःखं)+++ इल।       ४
@@ -242,9 +242,9 @@ Are free from woes of human births.         4
 याण्डुम् इडुम्बै इल।       ४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५</summary>
 
-इरुळ्-सेर् इरु विनैय्+++(=कर्मस्)+++ उम् सेरा, इऱैवन्+++(=दोव)+++  
+इरुळ्-सेर् इरु+++(=२)+++ विनैय्+++(=कर्मस्)+++ उम् सेरा, इऱैवन्+++(=दोव)+++  
 पॊरुळ्-सेर् पुगऴ् पुरिन्दार् माट्टु।      ५
 </details>
 
@@ -304,7 +304,7 @@ And wrong, the twins of dreaming night.         5
 पॊरुळ्सेर् पुगऴ्बुरिन्दार् माट्टु।      ५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६</summary>
 
 पॊऱि वायिल् ऐन्द् अवित्तान् पॊय् तीर् ऒऴुक्क  
 नॆऱि-निण्ड्रार् नीडु वाऴ्वार्।       ६
@@ -366,7 +366,7 @@ Who has the senses signed away.         6
 नॆऱिनिण्ड्रार् नीडुवाऴ्वार्।       ६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७</summary>
 
 तनक्कुवमै इल्लादान् ताळ्सेर्न्दार्क् कल्लाल्  
 मनक्कवलै माट्रल् अरिदु।      ७
@@ -421,7 +421,7 @@ Alone can ease the anxious mind.         7
 मनक्कवलै माट्रल् अरिदु।      ७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८</summary>
 
 अऱवाऴि अन्दणन् ताळ्सेर्न्दार्क् कल्लाल्  
 पिऱवाऴि नीन्दल् अरिदु।      ८
@@ -481,7 +481,7 @@ Who clasps the feet of Virtue's sea.         8
 पिऱवाऴि नीन्दल् अरिदु।      ८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९</summary>
 
 कोळिल् पॊऱियिन् कुणमिलवे ऎण्गुणत्तान्  
 ताळै वणङ्गात् तलै।      ९
@@ -541,7 +541,7 @@ Which bows not to Eight-Virtued Divine.         9
 ताळै वणङ्गात् तलै।      ९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०</summary>
 
 पिऱविप् पॆरुङ्गडल् नीन्दुवर् नीन्दार्  
 इऱैवन् अडिसेरा तार्।       १०

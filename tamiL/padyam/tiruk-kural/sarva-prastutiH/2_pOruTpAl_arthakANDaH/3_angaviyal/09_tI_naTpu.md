@@ -4,7 +4,7 @@ title = "०९ ती नट्पु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८११</summary>
 
 परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
 पॆरुगलिऱ्कुण्ड्रल् इनिदु।      ८११
@@ -60,7 +60,7 @@ Had better wane than wax anon.        811
 पॆरुगलिऱ्कुण्ड्रल् इनिदु।      ८११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१२</summary>
 
 उऱिन्नट्टु अऱिन्ङरुउम् ऒप्पिलार् केण्मै  
 पॆऱिनुम् इऴप्पिनुम् ऎन्?       ८१२
@@ -120,7 +120,7 @@ Gain or lose; such friends have no worth.        812
 पॆऱिनुम् इऴप्पिनुम् ऎन्?       ८१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१३</summary>
 
 उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु  
 कॊळ्वारुम् कळ्वरुम् नेर्।       ८१३
@@ -175,7 +175,7 @@ Are like thieves and whores wicked.        813
 कॊळ्वारुम् कळ्वरुम् नेर्।       ८१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१४</summary>
 
 अमरगत्तु आट्रऱुक्कुम् कल्लामा अन्नार्  
 तमरिन् तनिमै तलै।       ८१४
@@ -230,7 +230,7 @@ That throw in field like faithless horse.        814
 तमरिन् तनिमै तलै।       ८१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१५</summary>
 
 सॆय्देमञ् जाराच् चिऱियवर् पुन्गेण्मै  
 ऎय्दलिन् ऎय्दामै नण्ड्रु।      ८१५
@@ -285,7 +285,7 @@ Leave them is better than to keep.        815
 ऎय्दलिन् ऎय्दामै नण्ड्रु।      ८१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१६</summary>
 
 पेदै पॆरुङ्गॆऴीइ नट्पिन् अऱिवुडैयार्  
 एदिन्मै कोडि उऱुम्।       ८१६
@@ -340,7 +340,7 @@ Is better than a fool intimate.        816
 एदिन्मै कोडि उऱुम्।       ८१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१७</summary>
 
 नगैवगैय रागिय नट्पिन् पगैवराल्  
 पत्तडुत्त कोडि उऱुम्।       ८१७
@@ -395,7 +395,7 @@ Than from friends who are vain laughers.        817
 पत्तडुत्त कोडि उऱुम्।       ८१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१८</summary>
 
 ऒल्लुम् करुमम् उडट्रु पवर्गेण्मै  
 सॊल्लाडार् सोर विडल्।       ८१८
@@ -450,7 +450,7 @@ Who spoil deeds which they can do.        818
 सॊल्लाडार् सोर विडल्।       ८१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१९</summary>
 
 कनविनुम् इन्नादु मन्नो विनैवेऱु  
 सॊल्वेऱु पट्टार् तॊडर्बु।       ८१९
@@ -505,7 +505,7 @@ With those whose deed is far from word.        819
 सॊल्वेऱु पट्टार् तॊडर्बु।       ८१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२०</summary>
 
 ऎनैत्तुम् कुऱुगुदल् ओम्बल् मनैक्कॆऴीइ  
 मण्ड्रिल् पऴिप्पार् तॊडर्बु।      ८२०

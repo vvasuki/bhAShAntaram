@@ -4,7 +4,7 @@ title = "१७ पॆरियारैप् पिऴैयामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९१</summary>
 
 आट्रुवार् आट्रल् इगऴामै पोट्रुवार्  
 पोट्रलुळ् ऎल्लाम् तलै।      ८९१
@@ -60,7 +60,7 @@ Safest safeguard to living brings.        891
 पोट्रलुळ् ऎल्लाम् तलै।      ८९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९२</summary>
 
 पॆरियारैप् पेणादु ऒऴुगिऱ्पॆरियाराल्  
 पेरा इडुम्बै तरुम्।      ८९२
@@ -115,7 +115,7 @@ Shall great troubles ceaseless create.        892
 पेरा इडुम्बै तरुम्।      ८९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९३</summary>
 
 कॆडल्वेण्डिन् केळादु सॆय्ग अडल्वेण्डिन्  
 आट्रु पवर्गण् इऴुक्कु।      ८९३
@@ -176,7 +176,7 @@ Offence against the mighty great.        893
 आट्रु पवर्गण् इऴुक्कु।      ८९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९४</summary>
 
 कूट्रत्तैक् कैयाल् विळित्तट्राल् आट्रुवार्क्कु  
 आट्रादार् इन्ना सॆयल्।      ८९४
@@ -236,7 +236,7 @@ Death with their own hands invite.        894
 आट्रादार् इन्ना सॆयल्।      ८९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९५</summary>
 
 याण्डुच्चॆन् ऱियाण्डु मुळरागार् वॆन्दुप्पिन्  
 वेन्दु सॆऱप्पट् टवर्।       ८९५
@@ -291,7 +291,7 @@ Pursued by powerful monarch's ire?        895
 वेन्दु सॆऱप्पट् टवर्।       ८९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९६</summary>
 
 ऎरियाल् सुडप्पडिनुम् उय्वुण्डाम् उय्यार्  
 पॆरियार्प् पिऴैत्तॊऴुगु वार्।      ८९६
@@ -352,7 +352,7 @@ The great who offends escapes not.        896
 पॆरियार्प् पिऴैत्तॊऴुगु वार्।      ८९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९७</summary>
 
 वगैमाण्ड वाऴ्क्कैयुम् वान्बॊरुळुम् ऎन्नाम्  
 तगैमाण्ड तक्कार् सॆऱिन्।      ८९७
@@ -408,7 +408,7 @@ Stately gifts and stores who can own?        897
 तगैमाण्ड तक्कार् सॆऱिन्।      ८९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९८</summary>
 
 कुण्ड्रन्नार् कुण्ड्र मदिप्पिन् कुडियॊडु  
 निण्ड्रन्नार् माय्वर् निलत्तु।      ८९८
@@ -464,7 +464,7 @@ The firm on earth lose home and all.        898
 निण्ड्रन्नार् माय्वर् निलत्तु।      ८९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९९</summary>
 
 एन्दिय कॊळ्गैयार् सीऱिन् इडैमुरिन्दु  
 वेन्दनुम् वेन्दु कॆडुम्।       ८९९
@@ -520,7 +520,7 @@ Ev'n Indra's empire meets damage.        899
 वेन्दनुम् वेन्दु कॆडुम्।       ८९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९००</summary>
 
 इऱन्दमैन्द सार्बुडैयर् आयिनुम् उय्यार्  
 सिऱन्दमैन्द सीरार् सॆऱिन्।       ९००

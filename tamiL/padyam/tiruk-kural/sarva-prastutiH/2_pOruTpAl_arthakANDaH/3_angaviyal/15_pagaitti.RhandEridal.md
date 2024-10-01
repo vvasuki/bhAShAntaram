@@ -4,7 +4,7 @@ title = "१५ पगैत्तिऱन्दॆरिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७१</summary>
 
 पगैऎन्नुम् पण्बि लदनै ऒरुवन्  
 नगैयेयुम् वेण्डऱ्पाट्रु अण्ड्रु।       ८७१
@@ -65,7 +65,7 @@ The ill-natured enmity court.        871
 नगैयेयुम् वेण्डऱ्पाट्रु अण्ड्रु।       ८७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७२</summary>
 
 विल्लेर् उऴवर् पगैगॊळिनुम् कॊळ्ळऱ्क  
 सॊल्लेर् उऴवर् पगै।      ८७२
@@ -120,7 +120,7 @@ But not the hate of word-ploughers.        872
 सॊल्लेर् उऴवर् पगै।      ८७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७३</summary>
 
 एमुऱ्ऱवरिनुम् एऴै तमियनाय्प्  
 पल्लार् पगैगॊळ् पवन्।      ८७३
@@ -175,7 +175,7 @@ The worst insanity betrays.        873
 पल्लार् पगैगॊळ् पवन्।      ८७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७४</summary>
 
 पगैनट्पाक् कॊण्डॊऴुगुम् पण्बुडै याळन्  
 तगैमैक्कण् तङ्गिट्रु उलगु।      ८७४
@@ -230,7 +230,7 @@ Whose heart makes friends even of foes.        874
 तगैमैक्कण् तङ्गिट्रु उलगु।      ८७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७५</summary>
 
 तन्दुणै इण्ड्राल् पगैयिरण्डाल् तान्ऒरुवन्  
 इन्दुणैयाक् कॊळ्गवट्रिन् ऒण्ड्रु।      ८७५
@@ -285,7 +285,7 @@ Make one of them your ally close.        875
 इन्दुणैयाक् कॊळ्गवट्रिन् ऒण्ड्रु।      ८७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७६</summary>
 
 तेऱिनुम् तेऱा विडिनुम् अऴिविन्गण्  
 तेऱान् पगाअन् विडल्।      ८७६
@@ -340,7 +340,7 @@ Keep aloof; don't mix with foes.        876
 तेऱान् पगाअन् विडल्।      ८७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७७</summary>
 
 नोवऱ्क नॊन्ददु अऱियार्क्कु मेवऱ्क  
 मॆन्मै पगैवर् अगत्तु।      ८७७
@@ -395,7 +395,7 @@ Nor your weakness to foes explain.        877
 मॆन्मै पगैवर् अगत्तु।      ८७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७८</summary>
 
 वगैयऱिन्दु तऱ्चॆय्दु तऱ्काप्प मायुम्  
 पगैवर्गण् पट्ट सॆरुक्कु।      ८७८
@@ -450,7 +450,7 @@ The pride of enemies shall fall.        878
 पगैवर्गण् पट्ट सॆरुक्कु।      ८७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७९</summary>
 
 इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्  
 कैगॊल्लुम् काऴ्त्त इडत्तु।       ८७९
@@ -505,7 +505,7 @@ Grown hard, they cut your hands beware.        879
 कैगॊल्लुम् काऴ्त्त इडत्तु।       ८७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८०</summary>
 
 उयिर्प्प उळरल्लर् मण्ड्र सॆयिर्प्पवर्  
 सॆम्मल् सिदैक्कला तार्।      ८८०

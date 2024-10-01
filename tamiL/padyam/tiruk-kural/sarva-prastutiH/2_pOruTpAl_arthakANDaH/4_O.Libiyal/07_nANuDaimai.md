@@ -4,7 +4,7 @@ title = "०७ नाणुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०११</summary>
 
 करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्  
 नल्लवर् नाणुप् पिऱ।       १०११
@@ -66,7 +66,7 @@ The rest is blush of fair-faced dame.        1011
 नल्लवर् नाणुप् पिऱ।       १०११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१२</summary>
 
 ऊणुडै ऎच्चम् उयिर्क्कॆल्लाम् वेऱल्ल  
 नाणुडैमै मान्दर् सिऱप्पु।       १०१२
@@ -122,7 +122,7 @@ Modesty marks the higher soul.        1012
 नाणुडैमै मान्दर् सिऱप्पु।       १०१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१३</summary>
 
 ऊनैक् कुऱित्त उयिरॆल्लाम् नाण्ऎन्नुम्  
 नन्मै कुऱित्तदु साल्बु।       १०१३
@@ -178,7 +178,7 @@ Perfection has its home in blush.        1013
 नन्मै कुऱित्तदु साल्बु।       १०१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१४</summary>
 
 अणिअण्ड्रो नाणुडैमै साण्ड्रोर्क्कु अह्दिण्ड्रेल्  
 पिणिअण्ड्रो पीडु नडै।      १०१४
@@ -234,7 +234,7 @@ Shameless swagger is vanity.        1014
 पिणिअण्ड्रो पीडु नडै।      १०१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१५</summary>
 
 पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु  
 उऱैबदि ऎन्नुम् उलगु।      १०१५
@@ -290,7 +290,7 @@ Who blush for their and other's blame.        1015
 उऱैबदि ऎन्नुम् उलगु।      १०१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१६</summary>
 
 नाण्वेलि कॊळ्ळादु मन्नो वियन्ञालम्  
 पेणलर् मेला यवर्।      १०१६
@@ -346,7 +346,7 @@ Without modesty's hedge and shield.        1016
 पेणलर् मेला यवर्।      १०१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१७</summary>
 
 नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्  
 नाण्दुऱवार् नाणाळ् पवर्।       १०१७
@@ -407,7 +407,7 @@ Loss of shame they won't outlive.        1017
 नाण्दुऱवार् नाणाळ् पवर्।       १०१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१८</summary>
 
 पिऱर्नाणत् तक्कदु तान्नाणा नायिन्  
 अऱम्नाणत् तक्कदु उडैत्तु।       १०१८
@@ -462,7 +462,7 @@ Who shameless does what others shame.        1018
 अऱम्नाणत् तक्कदु उडैत्तु।       १०१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१९</summary>
 
 कुलञ्जुडुम् कॊळ्गै पिऴैप्पिन् नलञ्जुडुम्  
 नाणिन्मै निण्ड्रक् कडै।      १०१९
@@ -518,7 +518,7 @@ Want of shame harms every good grace.        1019
 नाणिन्मै निण्ड्रक् कडै।      १०१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२०</summary>
 
 नाण्अगत् तिल्लार् इयक्कम् मरप्पावै  
 नाणाल् उयिर्मरुट्टि अट्रु।      १०२०

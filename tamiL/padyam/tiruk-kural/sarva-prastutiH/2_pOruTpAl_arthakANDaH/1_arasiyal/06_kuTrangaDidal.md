@@ -4,7 +4,7 @@ title = "०६ कुट्रङ्गडिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३१</summary>
 
 सॆरुक्कुञ् जिनमुम् सिऱुमैयुम् इल्लार्  
 पॆरुक्कम् पॆरुमिद नीर्त्तु।       ४३१
@@ -56,7 +56,7 @@ Who're free from wrath pride lust petty.        431
 पॆरुक्कम् पॆरुमिद नीर्त्तु।       ४३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३२</summary>
 
 इवऱलुम् माण्बिऱन्द मानमुम् माणा  
 उवगैयुम् एदम् इऱैक्कु।       ४३२
@@ -108,7 +108,7 @@ These add blemishes to a prince.        432
 उवगैयुम् एदम् इऱैक्कु।       ४३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३३</summary>
 
 तिनैत्तुणैयाङ् गुट्रम् वरिनुम् पनैत्तुणैयाक्  
 कॊळ्वर् पऴिनाणु वार्।       ४३३
@@ -165,7 +165,7 @@ Men fearing disgrace, Palm-tall deem.        433
 कॊळ्वर् पऴिनाणु वार्।       ४३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३४</summary>
 
 कुट्रमे काक्क पॊरुळागक् कुट्रमे  
 अट्रन् द्रूउम् पगै।       ४३४
@@ -217,7 +217,7 @@ Our fatal foe is that default.        434
 अट्रन् द्रूउम् पगै।       ४३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३५</summary>
 
 वरुमुन्नर्क् कावादान् वाऴ्क्कै ऎरिमुन्नर्  
 वैत्तूऱु पोलक् कॆडुम्।       ४३५
@@ -269,7 +269,7 @@ Loses his life like flame-lit straw.        435
 वैत्तूऱु पोलक् कॆडुम्।       ४३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३६</summary>
 
 तन्गुट्रम् नीक्किप् पिऱर्गुट्रङ् गाण्गिऱ्पिन्  
 ऎन्गुट्र मागुम् इऱैक्कु?       ४३६
@@ -321,7 +321,7 @@ First his faults, then scans others.        436
 ऎन्गुट्र मागुम् इऱैक्कु?       ४३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३७</summary>
 
 सॆयऱ्पाल सॆय्या तिवऱियान् सॆल्वम्  
 उयऱ्पाल तण्ड्रिक् कॆडुम्।       ४३७
@@ -373,7 +373,7 @@ Who would not for a good cause spend.        437
 उयऱ्पाल तण्ड्रिक् कॆडुम्।       ४३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३८</summary>
 
 पट्रुळ्ळम् ऎन्नुम् इवऱन्मै ऎट्रुळ्ळुम्  
 ऎण्णप् पडुवदॊन् ऱण्ड्रु।       ४३८
@@ -425,7 +425,7 @@ Is more than fault the worst apart.        438
 ऎण्णप् पडुवदॊन् ऱण्ड्रु।       ४३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३९</summary>
 
 वियवऱ्क ऎञ्ञाण्ड्रुम् तन्नै नयवऱ्क  
 नण्ड्रि पयवा विनै।       ४३९
@@ -477,7 +477,7 @@ Nor do a deed that does no good.        439
 नण्ड्रि पयवा विनै।       ४३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४०</summary>
 
 कादल कादल् अऱियामै उय्क्किऱ्पिन्  
 एदिल एदिलार् नूल्।       ४४०

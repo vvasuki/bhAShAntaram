@@ -4,7 +4,7 @@ title = "०३ कण्विदुप्पऴिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७१</summary>
 
 कण्दाम् कलुऴ्व तॆवन्गॊलो तण्डानोय्  
 ताम्गाट्ट याम्गण् डदु।      ११७१
@@ -64,7 +64,7 @@ They weep with malady and pine?        1171
 ताम्गाट्ट याम्गण् डदु।      ११७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७२</summary>
 
 तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्  
 पैदल् उऴप्पदु ऎवन्?       ११७२
@@ -119,7 +119,7 @@ Regrets for their thoughtless glance?        1172
 पैदल् उऴप्पदु ऎवन्?       ११७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७३</summary>
 
 कदुमॆनत् तानोक्कित् तामे कलुऴुम्  
 इदुनगत् तक्क तुडैत्तु।       ११७३
@@ -174,7 +174,7 @@ It's funny that they weep today.        1173
 इदुनगत् तक्क तुडैत्तु।       ११७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७४</summary>
 
 पॆयलाट्रा नीरुलन्द उण्गण् उयलाट्रा  
 उय्विल्नोय् ऎन्गण् निऱुत्तु।       ११७४
@@ -229,7 +229,7 @@ Crying adry without relief.        1174
 उय्विल्नोय् ऎन्गण् निऱुत्तु।       ११७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७५</summary>
 
 पडलाट्रा पैदल् उऴक्कुम् कडलाट्राक्  
 कामनोय् सॆय्दऎन् कण्।       ११७५
@@ -284,7 +284,7 @@ Suffer that torture sleeplessly.        1175
 कामनोय् सॆय्दऎन् कण्।       ११७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७६</summary>
 
 ओऒ इनिदे ऎमक्किन्नोय् सॆय्दगण्  
 ताअम् इदऱ्पट् टदु।       ११७६
@@ -339,7 +339,7 @@ Are victims of the same themselves.        1176
 ताअम् इदऱ्पट् टदु।       ११७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७७</summary>
 
 उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु  
 वेण्डि अवर्क्कण्ड कण्।       ११७७
@@ -394,7 +394,7 @@ In eyes that eyed him longing longing.        1177
 वेण्डि अवर्क्कण्ड कण्।       ११७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७८</summary>
 
 पेणादु पॆट्टार् उळर्मन्नो मट्रवर्क्  
 काणादु अमैविल कण्।       ११७८
@@ -454,7 +454,7 @@ Yet my eyes pine seeing him not.        1178
 काणादु अमैविल कण्।       ११७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७९</summary>
 
 वाराक्काल् तुञ्जा वरिन्दुञ्जा आयिडै  
 आरञर् उट्रन कण्।       ११७९
@@ -514,7 +514,7 @@ This is the fate of eyes that weep.        1179
 आरञर् उट्रन कण्।       ११७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८०</summary>
 
 मऱैबॆऱल् ऊरार्क्कु अरिदण्ड्राल् ऎम्बोल्  
 अऱैबऱै कण्णार् अगत्तु।       ११८०

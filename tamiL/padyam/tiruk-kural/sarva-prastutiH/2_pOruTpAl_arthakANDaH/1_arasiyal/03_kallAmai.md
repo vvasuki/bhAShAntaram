@@ -4,7 +4,7 @@ title = "०३ कल्लामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०१</summary>
 
 अरङ्गिण्ड्रि वट्टाडि यट्रे निरम्बिय  
 नूलिण्ड्रिक् कोट्टि कॊळल्।       ४०१
@@ -59,7 +59,7 @@ Vain is imperfect loreless word.        401
 नूलिण्ड्रिक् कोट्टि कॊळल्।       ४०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०२</summary>
 
 कल्लादान् सॊऱ्का मुऱुदल् मुलैयिरण्डुम्  
 इल्लादाळ् पॆण्गामुऱ्ऱट्रु।       ४०२
@@ -114,7 +114,7 @@ Is breastless lady's love-approach.        402
 इल्लादाळ् पॆण्गामुऱ्ऱट्रु।       ४०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०३</summary>
 
 कल्ला तवरुम् ननिनल्लर् कट्रार्मुन्  
 सॊल्ला तिरुक्कप् पॆऱिन्।       ४०३
@@ -169,7 +169,7 @@ If before the wise, they hold their peace.        403
 सॊल्ला तिरुक्कप् पॆऱिन्।       ४०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०४</summary>
 
 कल्लादान् ऒट्पम् कऴियनन् ऱायिनुम्  
 कॊळ्ळार् अऱिवुडै यार्।       ४०४
@@ -224,7 +224,7 @@ Is not valued by the savant.        404
 कॊळ्ळार् अऱिवुडै यार्।       ४०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०५</summary>
 
 कल्ला ऒरुवन् तगैमै तलैप्पॆय्दु  
 सॊल्लाडच् चोर्वु पडुम्।       ४०५
@@ -279,7 +279,7 @@ Sadly fails before savants.        405
 सॊल्लाडच् चोर्वु पडुम्।       ४०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०६</summary>
 
 उळरॆन्नुम् मात्तिरैयर् अल्लाल् पयवाक्  
 कळरनैयर् कल्ला तवर्।       ४०६
@@ -334,7 +334,7 @@ People speak of untaught minds
 कळरनैयर् कल्ला तवर्।       ४०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०७</summary>
 
 नुण्माण् नुऴैबुलम् इल्लान् ऎऴिल्नलम्  
 मण्माण् पुनैबावै यट्रु।       ४०७
@@ -389,7 +389,7 @@ Grand subtle lore who fails to know.        407
 मण्माण् पुनैबावै यट्रु।       ४०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०८</summary>
 
 नल्लार्गण् पट्ट वऱुमैयिन् इन्नादे  
 कल्लार्गण् पट् ट तिरु।       ४०८
@@ -444,7 +444,7 @@ Than a learned man's empty purse.        408
 कल्लार्गण् पट् ट तिरु।       ४०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०९</summary>
 
 मेऱ्पिऱन्दा रायिनुम् कल्लादार् कीऴ्प्पिऱन्दुम्  
 कट्रार् अनैत्तिलर् पाडु।       ४०९
@@ -499,7 +499,7 @@ Than low-born men of learning's worth.        409
 कट्रार् अनैत्तिलर् पाडु।       ४०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१०</summary>
 
 विलङ्गॊडु मक्कळ् अनैयर् इलङ्गुनूल्  
 कट्रारोडु एनै यवर्।       ४१०

@@ -4,7 +4,7 @@ title = "०७ मन्नरैच् चेर्न्दॊऴुदल्
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९१</summary>
 
 अगलादु अणुगादु तीक्काय्वार् पोल्ग  
 इगल्वेन्दर्च् चेर्न्दॊऴुगु वार्।       ६९१
@@ -60,7 +60,7 @@ Not coming close nor going far.        691
 इगल्वेन्दर्च् चेर्न्दॊऴुगु वार्।       ६९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९२</summary>
 
 मन्नर् विऴैब विऴैयामै मन्नराल्  
 मन्निय आक्कन् दरुम्।       ६९२
@@ -116,7 +116,7 @@ This brings thee their fruitful favour.        692
 मन्निय आक्कन् दरुम्।       ६९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९३</summary>
 
 पोट्रिन् अरियवै पोट्रल् कडुत्तबिन्  
 तेट्रुदल् यार्क्कुम् अरिदु।       ६९३
@@ -172,7 +172,7 @@ Suspected least, there's no redress.        693
 तेट्रुदल् यार्क्कुम् अरिदु।       ६९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९४</summary>
 
 सॆविच्चॊल्लुम् सेर्न्द नगैयुम् अवित्तॊऴुगल्  
 आण्ड्र पॆरिया रगत्तु।       ६९४
@@ -228,7 +228,7 @@ Amidst august men's assemblage.        694
 आण्ड्र पॆरिया रगत्तु।       ६९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९५</summary>
 
 ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ्ऱप्पॊरुळै  
 विट्टक्काल् केट्क मऱै।       ६९५
@@ -284,7 +284,7 @@ Hear only when he lets it out.        695
 विट्टक्काल् केट्क मऱै।       ६९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९६</summary>
 
 कुऱिप्पऱिन्दु कालङ् गरुदि वॆऱुप्पिल  
 वेण्डुब वेट्पच् चॊलल्।       ६९६
@@ -340,7 +340,7 @@ No dislikes but what king likes well.        696
 वेण्डुब वेट्पच् चॊलल्।       ६९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९७</summary>
 
 वेट्पन सॊल्लि विनैयिल ऎञ्ञाण्ड्रुम्  
 केट्पिनुम् सॊल्ला विडल्।       ६९७
@@ -396,7 +396,7 @@ Even if pressed what is futile.        697
 केट्पिनुम् सॊल्ला विडल्।       ६९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९८</summary>
 
 इळैयर् इनमुऱैयर् ऎण्ड्रिगऴार् निण्ड्र  
 ऒळियोडु ऒऴुगप् पडुम्।       ६९८
@@ -452,7 +452,7 @@ Look with awe king's light and might.        698
 ऒळियोडु ऒऴुगप् पडुम्।       ६९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९९</summary>
 
 कॊळप्पट्टेम् ऎण्ड्रॆण्णिक् कॊळ्ळाद सॆय्यार्  
 तुळक्कट्र काट्चि यवर्।       ६९९
@@ -507,7 +507,7 @@ Deeming they have the monarch's grace.        699
 तुळक्कट्र काट्चि यवर्।       ६९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७००</summary>
 
 पऴैयम् ऎनक्करुदिप् पण्बल्ल सॆय्युम्  
 कॆऴुदगैमै केडु तरुम्।       ७००

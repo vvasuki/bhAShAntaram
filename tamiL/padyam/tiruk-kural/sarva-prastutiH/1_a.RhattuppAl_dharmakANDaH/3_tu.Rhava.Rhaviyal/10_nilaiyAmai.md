@@ -4,7 +4,7 @@ title = "१० निलैयामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३१</summary>
 
 निल्लाद वट्रै निलैयिन ऎण्ड्रुणरुम्  
 पुल्लऱि वाण्मै कडै।      ३३१
@@ -59,7 +59,7 @@ The fleeting as lasting to hold.        331
 पुल्लऱि वाण्मै कडै।      ३३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३२</summary>
 
 कूत्ताट्टु अवैक् कुऴात् तट्रे पॆरुञ्जॆल्वम्  
 पोक्कुम् अदुविळिन् दट्रु।      ३३२
@@ -115,7 +115,7 @@ Like passing show its pride too goes.        332
 पोक्कुम् अदुविळिन् दट्रु।      ३३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३३</summary>
 
 अऱ्का इयल्बिट्रुच् चॆल्वम् अदुबॆट्राल्  
 अऱ्कुब आङ्गे सॆयल्।      ३३३
@@ -170,7 +170,7 @@ Take care to do enduring things.        333
 अऱ्कुब आङ्गे सॆयल्।      ३३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३४</summary>
 
 नाळॆन ऒण्ड्रुबोऱ्काट्टि उयिर् ईरुम्  
 वाळदु उणर्वार्प् पॆऱिन्।      ३३४
@@ -226,7 +226,7 @@ Your life, know that, to file and gnaw.        334
 वाळदु उणर्वार्प् पॆऱिन्।      ३३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३५</summary>
 
 नाच्चॆट्रु विक्कुळ्मेल् वारामुन् नल्विनै  
 मेऱ्चॆण्ड्रु सॆय्यप् पडुम्      ३३५
@@ -282,7 +282,7 @@ Rise up to do good deeds betimes.        335
 मेऱ्चॆण्ड्रु सॆय्यप् पडुम्      ३३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३६</summary>
 
 नॆरुनल् उळनॊरुवन् इण्ड्रिल्लै ऎन्नुम्  
 पॆरुमै उडैत्तुइव् वुलगु।      ३३६
@@ -337,7 +337,7 @@ The wonder of the world's way!        336
 पॆरुमै उडैत्तुइव् वुलगु।      ३३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३७</summary>
 
 ऒरुबॊऴुदुम् वाऴ्वदु अऱियार् करुदुब  
 कोडियुम् अल्ल पल।      ३३७
@@ -393,7 +393,7 @@ On crores of things he is intent.        337
 कोडियुम् अल्ल पल।      ३३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३८</summary>
 
 कुडम्बै तनित्तु ऒऴियप् पुळ्बऱन् दट्रे  
 उडम्बॊडु उयिरिडै नट्पु।      ३३८
@@ -453,7 +453,7 @@ Like bird from egg-shell flies away.        338
 उडम्बॊडु उयिरिडै नट्पु।      ३३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३९</summary>
 
 उऱङ्गु वदुबोलुञ् जाक्काडु उऱङ्गि  
 विऴिप्पदु पोलुम् पिऱप्पु।      ३३९
@@ -508,7 +508,7 @@ And birth like waking from that sleep.        339
 विऴिप्पदु पोलुम् पिऱप्पु।      ३३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४०</summary>
 
 पुक्किल् अमैन्दिण्ड्रु कॊल्लो उडम्बिनुळ्  
 तुच्चिल् इरुन्द उयिर्क्कु।      ३४०

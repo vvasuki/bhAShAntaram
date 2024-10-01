@@ -4,7 +4,7 @@ title = "१० नल्गुरवु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४१</summary>
 
 इन्मैयिन् इन्नाददु यादॆनिन् इन्मैयिन्  
 इन्मैये इन्ना तदु।      १०४१
@@ -60,7 +60,7 @@ No pain pinches like poverty.        1041
 इन्मैये इन्ना तदु।      १०४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४२</summary>
 
 इन्मै ऎनवॊरु पावि मऱुमैयुम्  
 इम्मैयुम् इण्ड्रि वरुम्।       १०४२
@@ -116,7 +116,7 @@ Of joys of earth and heaven there.        1042
 इम्मैयुम् इण्ड्रि वरुम्।       १०४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४३</summary>
 
 तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग  
 नल्गुरवु ऎन्नुम् नसै।       १०४३
@@ -172,7 +172,7 @@ Kills graceful words and ancestry.        1043
 नल्गुरवु ऎन्नुम् नसै।       १०४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४४</summary>
 
 इऱ्पिऱन्दार् कण्णेयुम् इन्मै इळिवन्द  
 सॊऱ्पिऱक्कुम् सोर्वु तरुम्।      १०४४
@@ -227,7 +227,7 @@ Utter words that are low and mean.        1044
 सॊऱ्पिऱक्कुम् सोर्वु तरुम्।      १०४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४५</summary>
 
 नल्गुरवु ऎन्नुम् इडुम्बैयुळ् पल्गुरैत्  
 तुन्बङ्गळ् सॆण्ड्रु पडुम्।      १०४५
@@ -282,7 +282,7 @@ Brings a train of misery.        1045
 तुन्बङ्गळ् सॆण्ड्रु पडुम्।      १०४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४६</summary>
 
 नऱ्पॊरुळ् नन्गुणर्न्दु सॊल्लिनुम् नल्गूर्न्दार्  
 सॊऱ्पॊरुळ् सोर्वु पडुम्।      १०४६
@@ -338,7 +338,7 @@ Though from heart good things they say.        1046
 सॊऱ्पॊरुळ् सोर्वु पडुम्।      १०४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४७</summary>
 
 अऱञ्जारा नल्गुरवु ईण्ड्रदा यानुम्  
 पिऱन्बोल नोक्कप् पडुम्।       १०४७
@@ -393,7 +393,7 @@ The poor devoid of character.        1047
 पिऱन्बोल नोक्कप् पडुम्।       १०४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४८</summary>
 
 इण्ड्रुम् वरुवदु कॊल्लो नॆरुनलुम्  
 कॊण्ड्रदु पोलुम् निरप्पु।      १०४८
@@ -449,7 +449,7 @@ Will it pester me even to-day?        1048
 कॊण्ड्रदु पोलुम् निरप्पु।      १०४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४९</summary>
 
 नॆरुप्पिनुळ् तुञ्जलुम् आगुम् निरप्पिनुळ्  
 यादॊण्ड्रुम् कण्बाडु अरिदु।      १०४९
@@ -509,7 +509,7 @@ In want a wink of sleep is rare.        1049
 यादॊण्ड्रुम् कण्बाडु अरिदु।      १०४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५०</summary>
 
 तुप्पुर विल्लार् तुवरत् तुऱवामै  
 उप्पिऱ्कुम् काडिक्कुम् कूट्रु।      १०५०

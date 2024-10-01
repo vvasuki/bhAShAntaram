@@ -4,7 +4,7 @@ title = "०९ तॆरिन्दुसॆयल्वगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६१</summary>
 
 अऴिवदूउम् आवदूउम् आगि वऴिबयक्कुम्  
 ऊदियमुम् सूऴ्न्दु सॆयल्।       ४६१
@@ -64,7 +64,7 @@ And proper action ascertain.        461
 ऊदियमुम् सूऴ्न्दु सॆयल्।       ४६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६२</summary>
 
 तॆरिन्द इनत्तॊडु तेर्न्दॆण्णिच् चॆय्वार्क्कु  
 अरुम्बॊरुळ् यादॊण्ड्रुम् इल्       ४६२
@@ -119,7 +119,7 @@ With worthy counsels weighing facts.        462
 अरुम्बॊरुळ् यादॊण्ड्रुम् इल्       ४६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६३</summary>
 
 आक्कम् करुदि मुदलिऴक्कुम् सॆय्विनै  
 ऊक्कार् अऱिवुडै यार्।       ४६३
@@ -179,7 +179,7 @@ In doubtful gains and lose their all.        463
 ऊक्कार् अऱिवुडै यार्।       ४६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६४</summary>
 
 तॆळिवि लदनैत् तॊडङ्गार् इळिवॆन्नुम्  
 एदप्पाडु अञ्जु पवर्।       ४६४
@@ -234,7 +234,7 @@ Commence no work not made clear.        464
 एदप्पाडु अञ्जु पवर्।       ४६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६५</summary>
 
 वगैयऱच् चूऴा तॆऴुदल् पगैवरैप्  
 पात्तिप् पडुप्पदो राऱु।       ४६५
@@ -289,7 +289,7 @@ His field is sure to foster foes.        465
 पात्तिप् पडुप्पदो राऱु।       ४६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६६</summary>
 
 सॆय्दक्क अल्ल सॆयक् कॆडुम् सॆय्दक्क  
 सॆय्यामै यानुङ् गॆडुम्।       ४६६
@@ -344,7 +344,7 @@ Failing fit-act also ruins.        466
 सॆय्यामै यानुङ् गॆडुम्।       ४६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६७</summary>
 
 ऎण्णित् तुणिग करुमम् तुणिन्दबिन्  
 ऎण्णुवम् ऎन्बदु इऴुक्कु।       ४६७
@@ -399,7 +399,7 @@ Dare and think is bad in need.        467
 ऎण्णुवम् ऎन्बदु इऴुक्कु।       ४६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६८</summary>
 
 आट्रिन् वरुन्दा वरुत्तम् पलर्निण्ड्रु  
 पोट्रिनुम् पॊत्तुप् पडुम्।       ४६८
@@ -454,7 +454,7 @@ Is doomed to fall though supported.        468
 पोट्रिनुम् पॊत्तुप् पडुम्।       ४६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६९</summary>
 
 नण्ड्राट्र लुळ्ळुन् दवुऱुण्डु अवरवर्  
 पण्बऱिन् दाट्राक् कडै।       ४६९
@@ -519,7 +519,7 @@ Or ev'n good leads to evil feud.        469
 पण्बऱिन् दाट्राक् कडै।       ४६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७०</summary>
 
 ऎळ्ळाद ऎण्णिच् चॆयल्वेण्डुम् तम्मोडु  
 कॊळ्ळाद कॊळ्ळादु उलगु।       ४७०

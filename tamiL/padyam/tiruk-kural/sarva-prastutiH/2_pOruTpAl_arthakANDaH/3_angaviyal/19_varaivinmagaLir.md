@@ -4,7 +4,7 @@ title = "१९ वरैविन्मगळिर्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९११</summary>
 
 अन्बिन् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्  
 इन्सॊल् इऴुक्कुत् तरुम्।      ९११
@@ -61,7 +61,7 @@ Men are ruined by bangled belles.        911
 इन्सॊल् इऴुक्कुत् तरुम्।      ९११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१२</summary>
 
 पयन्दूक्किप् पण्बुरैक्कुम् पण्बिन् मगळिर्  
 नयन्दूक्कि नळ्ळा विडल्।      ९१२
@@ -117,7 +117,7 @@ Love only for their selfish gain.        912
 नयन्दूक्कि नळ्ळा विडल्।      ९१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१३</summary>
 
 पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
 एदिल् पिणन्दऴीइ अट्रु।      ९१३
@@ -177,7 +177,7 @@ That of a damned corpse in the dark.        913
 एदिल् पिणन्दऴीइ अट्रु।      ९१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१४</summary>
 
 पॊरुट्पॊरुळार् पुन्नलन् दोयार् अरुट्पॊरुळ्  
 आयुम् अऱिवि नवर्।      ९१४
@@ -233,7 +233,7 @@ Look not for harlots' low embrace.        914
 आयुम् अऱिवि नवर्।      ९१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१५</summary>
 
 पॊदुनलत्तार् पुन्नलम् तोयार् मदिनलत्तिन्  
 माण्ड अऱिवि नवर्।      ९१५
@@ -289,7 +289,7 @@ The open charms of a vile harlot.        915
 माण्ड अऱिवि नवर्।      ९१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१६</summary>
 
 तन्नलम् पारिप्पार् तोयार् तगैसॆरुक्किप्  
 पुन्नलम् पारिप्पार् तोळ्।       ९१६
@@ -345,7 +345,7 @@ Shun the wanton's vaunting charm.        916
 पुन्नलम् पारिप्पार् तोळ्।       ९१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१७</summary>
 
 निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्
 पेणिप् पुणर्बवर् तोळ्।      ९१७
@@ -401,7 +401,7 @@ The arms of whores with hearts elsewere.        917
 पेणिप् पुणर्बवर् तोळ्।      ९१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१८</summary>
 
 आयुम् अऱिविनर् अल्लार्क्कु अणङ्गॆन्ब  
 माय मगळिर् मुयक्कु।      ९१८
@@ -457,7 +457,7 @@ By arms of sirens who lead astray.        918
 माय मगळिर् मुयक्कु।      ९१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१९</summary>
 
 वरैविला माणिऴैयार् मॆन्दोळ् पुरैयिलाप्  
 पूरियर्गळ् आऴुम् अळऱु।      ९१९
@@ -513,7 +513,7 @@ Into which the degraded fall.        919
 पूरियर्गळ् आऴुम् अळऱु।      ९१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२०</summary>
 
 इरुमनप् पॆण्डिरुम् कळ्ळुम् कवऱुम्  
 तिरुनीक्कप् पट्टार् तॊडर्बु।       ९२०

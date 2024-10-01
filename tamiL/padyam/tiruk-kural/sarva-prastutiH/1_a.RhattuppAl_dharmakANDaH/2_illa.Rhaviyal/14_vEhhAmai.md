@@ -4,7 +4,7 @@ title = "१४ वॆह्हा³मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७१</summary>
 
 नडुविण्ड्रि नन्बॊरुळ् वॆह्हि³न् कुडिबॊण्ड्रिक्  
 कुट्रमुम् आङ्गे तरुम्।       १७१
@@ -59,7 +59,7 @@ That greed ruins his house forthwith.         171
 कुट्रमुम् आङ्गे तरुम्।       १७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७२</summary>
 
 पडुबयन् वॆह्हि³प् पऴिप्पडुव सॆय्यार्  
 नडुवन्मै नाणु पवर्।       १७२
@@ -114,7 +114,7 @@ From coveting which brings ruin.         172
 नडुवन्मै नाणु पवर्।       १७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७३</summary>
 
 सिट्रिन्बम् वॆह्हि³ अऱनल्ल सॆय्यारे  
 मट्रिन्बम् वेण्डु पवर्।       १७३
@@ -169,7 +169,7 @@ For fleeting joy commit no wrong.         173
 मट्रिन्बम् वेण्डु पवर्।       १७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७४</summary>
 
 इलमॆण्ड्रु वॆह्हु³दल् सॆय्यार् पुलम्वॆण्ड्र  
 पुन्मैयिल् काट्चि यवर्।       १७४
@@ -229,7 +229,7 @@ Though in want covet not at all.         174
 पुन्मैयिल् काट्चि यवर्।       १७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७५</summary>
 
 अह्हि³ अगण्ड्र अऱिवॆन्नाम् यार्माट्टुम्  
 वॆह्हि³ वॆऱिय सॆयिन्।       १७५
@@ -284,7 +284,7 @@ If it deals ill with all on earth.         175
 वॆह्हि³ वॆऱिय सॆयिन्।       १७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७६</summary>
 
 अरुळ्वॆह्हि³ आट्रिन्गण् निण्ड्रान् पॊरुळ्वॆह्हि³प्  
 पॊल्लाद सूऴक् कॆडुम्।       १७६
@@ -339,7 +339,7 @@ Suffers by evil covetous wealth.         176
 पॊल्लाद सूऴक् कॆडुम्।       १७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७७</summary>
 
 वेण्डऱ्क वॆह्हि³याम् आक्कम् विळैवयिन्  
 माण्डऱ्करिदाम् पयन्।       १७७
@@ -394,7 +394,7 @@ All its yield is inglorious.         177
 माण्डऱ्करिदाम् पयन्।       १७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७८</summary>
 
 अह्हा³मै सॆल्वत्तिऱ्कु यादॆनिन् वॆह्हा³मै  
 वेण्डुम् पिऱन्गैप् पॊरुळ्।       १७८
@@ -449,7 +449,7 @@ By not coveting others' own.         178
 वेण्डुम् पिऱन्गैप् पॊरुळ्।       १७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७९</summary>
 
 अऱनऱिन्दु वॆह्हा³ अऱिवुडैयार्च् चेरुम्  
 तिऱन्अऱिन् दाङ्गे तिरु।       १७९
@@ -504,7 +504,7 @@ Who are free from coveting vice.         179
 तिऱन्अऱिन् दाङ्गे तिरु।       १७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८०</summary>
 
 इऱलीनुम् ऎण्णादु वॆह्हि³न् विऱल्ईनुम्  
 वेण्डामै ऎन्नुञ् जॆरुक्कु।       १८०

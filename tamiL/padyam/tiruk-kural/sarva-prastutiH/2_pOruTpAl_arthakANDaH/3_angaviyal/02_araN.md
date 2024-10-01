@@ -4,7 +4,7 @@ title = "०२ अरण्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४१</summary>
 
 आट्रु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्
 पोट्रु पवर्क्कुम् पॊरुळ्।       ७४१
@@ -61,7 +61,7 @@ Who fear the foes has its defence.        741
 पोट्रु पवर्क्कुम् पॊरुळ्।       ७४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४२</summary>
 
 मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्
 काडुम् उडैय तरण्।       ७४२
@@ -122,7 +122,7 @@ Thick woods form a fort paramount.        742
 काडुम् उडैय तरण्।       ७४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४३</summary>
 
 उयर्वगलम् तिण्मै अरुमैइन् नान्गिन्  
 अमैवरण् ऎण्ड्रुरैक्कुम् नूल्।       ७४३
@@ -178,7 +178,7 @@ High, broad, strong and hard for access.        743
 अमैवरण् ऎण्ड्रुरैक्कुम् नूल्।       ७४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४४</summary>
 
 सिऱुगाप्पिऱ्पेरिडत्त तागि उऱुबगै  
 ऊक्कम् अऴिप्प तरण्।       ७४४
@@ -234,7 +234,7 @@ The fort foils enemies bold.        744
 ऊक्कम् अऴिप्प तरण्।       ७४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४५</summary>
 
 कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्  
 निलैक्कॆळिदाम् नीरदु अरण्।       ७४५
@@ -290,7 +290,7 @@ Cosy to live-That fort is good.        745
 निलैक्कॆळिदाम् नीरदु अरण्।       ७४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४६</summary>
 
 ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्  
 नल्लाळ् उडैयदु अरण्।       ७४६
@@ -346,7 +346,7 @@ And brave heroes to meet alarms.        746
 नल्लाळ् उडैयदु अरण्।       ७४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४७</summary>
 
 मुट्रियुम् मुट्रा तॆऱिन्दुम् अऱैप्पडुत्तुम्  
 पट्रऱ्करियदु अरण्।       ७४७
@@ -402,7 +402,7 @@ Darts and mines of treacherous hands.        747
 पट्रऱ्करियदु अरण्।       ७४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४८</summary>
 
 मुट्राट्रि मुट्रि यवरैयुम् पट्राट्रिप्  
 पट्रियार् वॆल्वदु अरण्।       ७४८
@@ -458,7 +458,7 @@ The attacks of encircling foes.        748
 पट्रियार् वॆल्वदु अरण्।       ७४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४९</summary>
 
 मुनैमुगत्तु माट्रलर् साय विनैमुगत्तु  
 वीऱॆय्दि माण्ड तरण्।       ७४९
@@ -514,7 +514,7 @@ And gains by deeds a name glorious.        749
 वीऱॆय्दि माण्ड तरण्।       ७४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५०</summary>
 
 ऎनैमाट्चित् तागियक् कण्णुम् विनैमाट्चि  
 इल्लार्गण् इल्लदु अरण्।       ७५०

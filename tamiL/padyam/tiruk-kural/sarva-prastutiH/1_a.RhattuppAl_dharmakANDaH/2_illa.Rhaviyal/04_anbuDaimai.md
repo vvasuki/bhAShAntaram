@@ -4,7 +4,7 @@ title = "०४ अन्बुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१</summary>
 
 अन्बिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
 पुन्गणीर् पूसल् तरुम्।      ७१
@@ -64,7 +64,7 @@ The trickling tears reveal the heart.         71
 पुन्गणीर् पूसल् तरुम्।      ७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२</summary>
 
 अन्बिलार् ऎल्लाम् तमक्कुरियर् अन्बुडैयार्  
 ऎन्बुम् उरियर् पिऱर्क्कु।      ७२
@@ -119,7 +119,7 @@ To oth'rs the loving e'en to bones.         72
 ऎन्बुम् उरियर् पिऱर्क्कु।      ७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३</summary>
 
 अन्बोडु इयैन्द वऴक्कॆन्ब आरुयिर्क्कु  
 ऎन्बोडु इयैन्द तॊडर्बु।      ७३
@@ -174,7 +174,7 @@ To taste the life of love alone.         73
 ऎन्बोडु इयैन्द तॊडर्बु।      ७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४</summary>
 
 अन्बु ईनुम् आर्वम् उडैमै अदुईनुम्  
 नण्बु ऎन्नुम् नाडाच् चिऱप्पु।      ७४
@@ -229,7 +229,7 @@ Friendship springs up in excellence.         74
 नण्बु ऎन्नुम् नाडाच् चिऱप्पु।      ७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५</summary>
 
 अन्बुट्रु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
 इन्बुट्रार् ऎय्दुम् सिऱप्पु।      ७५
@@ -284,7 +284,7 @@ From peaceful psychic love always.         75
 इन्बुट्रार् ऎय्दुम् सिऱप्पु।      ७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६</summary>
 
 अऱत्तिऱ्के अन्बुसार् पॆन्ब अऱियार्  
 मऱत्तिऱ्कुम् अह्दे तुणै।      ७६
@@ -344,7 +344,7 @@ It helps us against evil plots.         76
 मऱत्तिऱ्कुम् अह्दे तुणै।      ७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७</summary>
 
 ऎन्बि लदनै वॆयिल्बोलक् कायुमे  
 अन्बि लदनै अऱम्।      ७७
@@ -399,7 +399,7 @@ Like solar blaze the boneless worm.         77
 अन्बि लदनै अऱम्।      ७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८</summary>
 
 अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्बाऱ्कण्  
 वट्रल् मरन्दळिर्त् तट्रु।      ७८
@@ -454,7 +454,7 @@ Can sapless tree in desert bloom?         78
 वट्रल् मरन्दळिर्त् तट्रु।      ७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९</summary>
 
 पुऱत्तुऱुप् पॆल्लाम् ऎवन्सॆय्बु म् याक्कै  
 अगत्तुऱुप्पु अन्बि लवर्क्कु।      ७९
@@ -509,7 +509,7 @@ Or vain the outer parts will prove.         79
 अगत्तुऱुप्पु अन्बि लवर्क्कु।      ७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८०</summary>
 
 अन्बिन् वऴियदु उयिर्निलै अह्दिलार्क्कु  
 ऎन्बुदोल् पोर्त्त उडम्बु।      ८०

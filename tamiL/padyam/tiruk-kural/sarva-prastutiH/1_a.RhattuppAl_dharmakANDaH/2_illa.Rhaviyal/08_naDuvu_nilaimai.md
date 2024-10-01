@@ -4,7 +4,7 @@ title = "०८ नडुवु निलैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११</summary>
 
 तगुदि ऎनवॊण्ड्रु नण्ड्रे पगुदियाल्  
 पाऱ्पट्टु ऒऴुगप् पॆऱिन्।      १११
@@ -64,7 +64,7 @@ It is to give each man his due.         111
 पाऱ्पट्टु ऒऴुगप् पॆऱिन्।      १११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२</summary>
 
 सॆप्पम् उडैयवन् आक्कञ् जिदैविण्ड्रि  
 ऎच्चत्तिऱ्केमाप्पु उडैत्तु।      ११२
@@ -119,7 +119,7 @@ Grows and lasts to posterity.         112
 ऎच्चत्तिऱ्केमाप्पु उडैत्तु।      ११२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३</summary>
 
 नण्ड्रे तरिनुम् नडुविगन्दाम् आक्कत्तै  
 अण्ड्रे यॊऴिय विडल्।      ११३
@@ -174,7 +174,7 @@ From unjust gains without delay.         113
 अण्ड्रे यॊऴिय विडल्।      ११३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४</summary>
 
 तक्कार् तगविलर् ऎन्बदु अवरवर्  
 ऎच्चत्ताऱ्काणप्प पडुम्।      ११४
@@ -229,7 +229,7 @@ Are seen in their posterity.         114
 ऎच्चत्ताऱ्काणप्प पडुम्।      ११४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५</summary>
 
 केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्  
 कोडामै साण्ड्रोर्क् कणि।      ११५
@@ -284,7 +284,7 @@ Equal mind adorns the wise.         115
 कोडामै साण्ड्रोर्क् कणि।      ११५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६</summary>
 
 कॆडुवल्यान् ऎन्बदु अऱिगदन् नॆञ्जम्  
 नडुवॊरीइ अल्ल सॆयिन्।      ११६
@@ -339,7 +339,7 @@ Who leaves justice to sinful lure.         116
 नडुवॊरीइ अल्ल सॆयिन्।      ११६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७</summary>
 
 कॆडुवाग वैयादु उलगम् नडुवाग  
 नण्ड्रिक्कण् तङ्गियान् ताऴ्वु।      ११७
@@ -394,7 +394,7 @@ Is not held down by equity.         117
 नण्ड्रिक्कण् तङ्गियान् ताऴ्वु।      ११७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८</summary>
 
 समन्सॆय्दु सीर्दूक्कुङ् गोल्बोल् अमैन्दॊरुबाल्  
 कोडामै साण्ड्रोर्क् कणि।      ११८
@@ -449,7 +449,7 @@ A well poised mind is jewel of the wise.         118
 कोडामै साण्ड्रोर्क् कणि।      ११८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९</summary>
 
 सॊऱ्कोट्टम् इल्लदु सॆप्पम् ऒरुदलैया  
 उट्कोट्टम् इन्मै पॆऱिन्।      ११९
@@ -504,7 +504,7 @@ And free from crooked word-twisting.         119
 उट्कोट्टम् इन्मै पॆऱिन्।      ११९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२०</summary>
 
 वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्  
 पिऱवुम् तमबोल् सॆयिन्।      १२०

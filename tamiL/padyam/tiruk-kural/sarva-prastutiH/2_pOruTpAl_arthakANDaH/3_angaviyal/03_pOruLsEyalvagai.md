@@ -4,7 +4,7 @@ title = "०३ पॊरुळ्सॆयल्वगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५१</summary>
 
 पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्  
 पॊरुळल्लदु इल्लै पॊरुळ्।       ७५१
@@ -60,7 +60,7 @@ Make the worthless as men of worth.        751
 पॊरुळल्लदु इल्लै पॊरुळ्।       ७५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५२</summary>
 
 इल्लारै ऎल्लारुम् ऎळ्ळुवर् सॆल्वरै  
 ऎल्लारुम् सॆय्वर् सिऱप्पु।       ७५२
@@ -116,7 +116,7 @@ The men of wealth all raise and praise.        752
 ऎल्लारुम् सॆय्वर् सिऱप्पु।       ७५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५३</summary>
 
 पॊरुळॆन्नुम् पॊय्या विळक्कम् इरुळऱुक्कुम्  
 ऎण्णिय तेयत्तुच् चॆण्ड्रु।       ७५३
@@ -172,7 +172,7 @@ To every land and gloom removes.        753
 ऎण्णिय तेयत्तुच् चॆण्ड्रु।       ७५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५४</summary>
 
 अऱन्ईनुम् इन्बमुम् ईनुम् तिऱनऱिन्दु  
 तीदिण्ड्रि वन्द पॊरुळ्।       ७५४
@@ -228,7 +228,7 @@ Brings good virtue and also bliss.        754
 तीदिण्ड्रि वन्द पॊरुळ्।       ७५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५५</summary>
 
 अरुळॊडुम् अन्बॊडुम् वाराप् पॊरुळाक्कम्  
 पुल्लार् पुरळ विडल्।       ७५५
@@ -288,7 +288,7 @@ Off with it; it is disgrace!        755
 पुल्लार् पुरळ विडल्।       ७५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५६</summary>
 
 उऱुबॊरुळुम् उल्गु पॊरुळुम्दन् ऒन्नार्त्  
 तॆऱुबॊरुळुम् वेन्दन् पॊरुळ्।       ७५६
@@ -344,7 +344,7 @@ Taxes duties are king's treasure.        756
 तॆऱुबॊरुळुम् वेन्दन् पॊरुळ्।       ७५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५७</summary>
 
 अरुळॆन्नुम् अन्बीन् कुऴवि पॊरुळॆन्नुम्  
 सॆल्वच् चॆविलियाल् उण्डु।       ७५७
@@ -399,7 +399,7 @@ By the wet-nurse of wealth cherished.        757
 सॆल्वच् चॆविलियाल् उण्डु।       ७५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५८</summary>
 
 कुण्ड्रेऱि यानैप् पोर् कण्डट्राल् तन्गैत्तॊण्ड्रु  
 उण्डागच् चॆय्वान् विनै।       ७५८
@@ -455,7 +455,7 @@ Like hill-tuskers the wars of kings.        758
 उण्डागच् चॆय्वान् विनै।       ७५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५९</summary>
 
 सॆय्ग पॊरुळैच् चॆऱुनर् सॆरुक्कऱुक्कुम्  
 ऎह्ह³दनिऱ्कूरिय तिल्।       ७५९
@@ -511,7 +511,7 @@ The insolence of foes to quell.        759
 ऎह्ह³दनिऱ्कूरिय तिल्।       ७५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६०</summary>
 
 ऒण्बॊरुळ् काऴ्प्प इयट्रियार्क्कु ऎण्बॊरुळ्  
 एनै इरण्डुम् ऒरुङ्गु।       ७६०

@@ -4,7 +4,7 @@ title = "०८ इन्नासॆय्यामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३११</summary>
 
 सिऱप्पीनुम् सॆल्वम् पॆऱिनुम् पिऱर्क्कु इन्ना  
 सॆय्यामै मासट्रार् कोळ्।      ३११
@@ -60,7 +60,7 @@ Though princely wealth by that is won.        311
 सॆय्यामै मासट्रार् कोळ्।      ३११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१२</summary>
 
 कऱुत्तुइन्ना सॆय्दवक् कण्णुम् मऱुत्तिन्ना  
 सॆय्यामै मासट्रार् कोळ्।       ३१२
@@ -120,7 +120,7 @@ Though Malice does the worst in rage.        312
 सॆय्यामै मासट्रार् कोळ्।       ३१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१३</summary>
 
 सॆय्यामल् सॆट्रार्क्कुम् इन्नाद सॆय्दबिन्  
 उय्या विऴुमन् दरुम्।      ३१३
@@ -176,7 +176,7 @@ Bad-blood breeds and baneful heat.        313
 उय्या विऴुमन् दरुम्।      ३१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१४</summary>
 
 इन्नासॆय् तारै ऒऱुत्तल् अवर्नाण  
 नन्नयञ् जॆय्दु विडल्।      ३१४
@@ -237,7 +237,7 @@ Thus chide the evil who do harm.        314
 नन्नयञ् जॆय्दु विडल्।      ३१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१५</summary>
 
 अऱिविनान् आगुव तुण्डो पिऱिदिन्नोय्  
 तन्नोय्बोल् पोट्राक् कडै।      ३१५
@@ -292,7 +292,7 @@ If he pines not at other's pain?        315
 तन्नोय्बोल् पोट्राक् कडै।      ३१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१६</summary>
 
 इन्ना ऎनत्तान् उणर्न्दवै तुन्नामै  
 वेण्डुम् पिऱन्गण् सॆयल्।      ३१६
@@ -347,7 +347,7 @@ Do it not to the other-self        316
 वेण्डुम् पिऱन्गण् सॆयल्।      ३१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१७</summary>
 
 ऎनैत्तानुम् ऎञ्ञाण्ड्रुम् यार्क्कुम् मनत्तानाम्  
 माणासॆय् यामै तलै।      ३१७
@@ -403,7 +403,7 @@ At any time even in thought.        317
 माणासॆय् यामै तलै।      ३१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१८</summary>
 
 तन्नुयिर्गगु एन्नामै तानऱिवान् ऎन्गॊलो  
 मन्नुयिर्क्कु इन्ना सॆयल्।      ३१८
@@ -463,7 +463,7 @@ Who in his life injury feels.        318
 मन्नुयिर्क्कु इन्ना सॆयल्।      ३१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१९</summary>
 
 पिऱर्क्किन्ना मुऱ्पगल् सॆय्यिन् तमक्कु इन्ना  
 पिऱ्पगल् तामे वरुम्।      ३१९
@@ -518,7 +518,7 @@ Harm seeks thee in afternoon.        319
 पिऱ्पगल् तामे वरुम्।      ३१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२०</summary>
 
 नोयॆल्लाम् नोय्सॆय्दार् मेलवाम् नोय्सॆय्यार्  
 नोयिन्मै वेण्डु पवर्।      ३२०

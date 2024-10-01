@@ -4,7 +4,7 @@ title = "२५ इडुक्कणऴियामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२१</summary>
 
 इडुक्कण् वरुङ्गाल् नगुग अदनै  
 अडुत्तूर्वदु अह्दॊप्प तिल्।       ६२१
@@ -60,7 +60,7 @@ No other way to conquer woes.        621
 अडुत्तूर्वदु अह्दॊप्प तिल्।       ६२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२२</summary>
 
 वॆळ्ळत् तनैय इडुम्बै अऱिवुडैयान्  
 उळ्ळत्तिन् उळ्ळक् कॆडुम्।       ६२२
@@ -116,7 +116,7 @@ When wise men face them with firm thought.        622
 उळ्ळत्तिन् उळ्ळक् कॆडुम्।       ६२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२३</summary>
 
 इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु  
 इडुम्बै पडाअ तवर्।       ६२३
@@ -171,7 +171,7 @@ Who grieve not grief by mind's relief.        623
 इडुम्बै पडाअ तवर्।       ६२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२४</summary>
 
 मडुत्तवा यॆल्लाम् पगडन्नान् उट्र  
 इडुक्कण् इडर्प्पाडु उडैत्तु।       ६२४
@@ -227,7 +227,7 @@ Causes grief to grieve anon.        624
 इडुक्कण् इडर्प्पाडु उडैत्तु।       ६२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२५</summary>
 
 अडुक्कि वरिनुम् अऴिविलान् उट्र  
 इडुक्कण् इडुक्कट् पडुम्।       ६२५
@@ -283,7 +283,7 @@ Who dare a host of pressing woes.        625
 इडुक्कण् इडुक्कट् पडुम्।       ६२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२६</summary>
 
 अट्रेमॆण्ड्रु अल्लऱ्पडुबवो पॆट्रेमॆण्ड्रु  
 ओम्बुदल् तेट्रा तवर्।       ६२६
@@ -344,7 +344,7 @@ Do not fret in fateful ruin.        626
 ओम्बुदल् तेट्रा तवर्।       ६२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२७</summary>
 
 इलक्कम् उडम्बिडुम्बैक् कॆण्ड्रु कलक्कत्तैक्  
 कैयाऱाक् कॊळ्ळादाम् मेल्।       ६२७
@@ -399,7 +399,7 @@ Knowing body's butt of sorrows.        627
 कैयाऱाक् कॊळ्ळादाम् मेल्।       ६२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२८</summary>
 
 इन्बम् विऴैयान् इडुम्बै इयल्बॆन्बान्  
 तुन्बम् उऱुदल् इलन्।       ६२८
@@ -455,7 +455,7 @@ By sorrows do not come to harm.        628
 तुन्बम् उऱुदल् इलन्।       ६२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२९</summary>
 
 इन्बत्तुळ् इन्बम् विऴैयादान् तुन्बत्तुळ्  
 तुन्बम् उऱुदल् इलन्।       ६२९
@@ -510,7 +510,7 @@ In grief he grieves not dual round!        629
 तुन्बम् उऱुदल् इलन्।       ६२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३०</summary>
 
 इन्नामै इन्बम् ऎनक्कॊळिन् आगुन्दन्  
 ऒन्नार् विऴैयुञ् जिऱप्पु।       ६३०

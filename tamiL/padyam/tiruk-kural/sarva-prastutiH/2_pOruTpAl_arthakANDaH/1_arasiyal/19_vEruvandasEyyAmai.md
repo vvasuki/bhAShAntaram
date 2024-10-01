@@ -4,7 +4,7 @@ title = "१९ वॆरुवन्दसॆय्यामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६१</summary>
 
 तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्  
 ऒत्ताङ्गु ऒऱुप्पदु वेन्दु।       ५६१
@@ -59,7 +59,7 @@ Just to prevent future offence.        561
 ऒत्ताङ्गु ऒऱुप्पदु वेन्दु।       ५६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६२</summary>
 
 कडिदोच्चि मॆल्ल ऎऱिग नॆडिदाक्कम्  
 नीङ्गामै वेण्डु पवर्।       ५६२
@@ -119,7 +119,7 @@ This strict mildness prolongs the sway.        562
 नीङ्गामै वेण्डु पवर्।       ५६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६३</summary>
 
 वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्गोल नायिन्  
 ऒरुवन्दम् ऒल्लैक् कॆडुम्।       ५६३
@@ -174,7 +174,7 @@ Brings king's ruin quick indeed.        563
 ऒरुवन्दम् ऒल्लैक् कॆडुम्।       ५६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६४</summary>
 
 इऱैगडियन् ऎण्ड्रुरैक्कुम् इन्नाच्चॊल् वेन्दन्  
 उऱैगडुगि ऒल्लैक् कॆडुम्।       ५६४
@@ -229,7 +229,7 @@ His days dwindled, hasten his fall.        564
 उऱैगडुगि ऒल्लैक् कॆडुम्।       ५६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६५</summary>
 
 अरुञ्जॆव्वि इन्ना मुगत्तान् पॆरुञ्जॆल्वम्  
 पेऎय्गण् डन्नदु उडैत्तु।       ५६५
@@ -284,7 +284,7 @@ His wealth seems watched by a ghoul.        565
 पेऎय्गण् डन्नदु उडैत्तु।       ५६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६६</summary>
 
 कडुञ्जॊल्लन् कण्णिलन् आयिन् नॆडुञ्जॆल्वम्  
 नीडिण्ड्रि आङ्गे कॆडुम्।       ५६६
@@ -339,7 +339,7 @@ His wealth and power quickly fade.        566
 नीडिण्ड्रि आङ्गे कॆडुम्।       ५६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६७</summary>
 
 कडुमॊऴियुम् कैयिगन्द तण्डमुम् वेन्दन्  
 अडुमुरण् तेय्क्कुम् अरम्।       ५६७
@@ -394,7 +394,7 @@ Like files conquering power corrode.        567
 अडुमुरण् तेय्क्कुम् अरम्।       ५६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६८</summary>
 
 इनत्ताट्रि ऎण्णाद वेन्दन् सिनत्ताट्रिच्  
 चीऱिऱ्चिऱुगुम् तिरु।       ५६८
@@ -449,7 +449,7 @@ Rages with wrath-his fortune fails.        568
 चीऱिऱ्चिऱुगुम् तिरु।       ५६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६९</summary>
 
 सॆरुवन्द पोऴ्दिऱ्चिऱैसॆय्या वेन्दन्  
 वॆरुवन्दु वॆय्दु कॆडुम्।       ५६९
@@ -504,7 +504,7 @@ Fears his foes in wars and dies.        569
 वॆरुवन्दु वॆय्दु कॆडुम्।       ५६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७०</summary>
 
 कल्लार्प् पिणिक्कुम् कडुङ्गोल् अदुवल्लदु  
 इल्लै निलक्कुप् पॊऱै।       ५७०

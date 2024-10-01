@@ -4,7 +4,7 @@ title = "०३ पॆरुमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७१</summary>
 
 ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु  
 अह्दिऱन्दु वाऴ्दुम् ऎनल्।       ९७१
@@ -61,7 +61,7 @@ Devoid of that one's life is night.        971
 अह्दिऱन्दु वाऴ्दुम् ऎनल्।       ९७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७२</summary>
 
 पिऱप्पॊक्कुम् ऎल्ला उयिर्क्कुम् सिऱप्पॊव्वा  
 सॆय्दॊऴिल् वेट्रुमै यान्।      ९७२
@@ -117,7 +117,7 @@ But work decides their varied worth.        972
 सॆय्दॊऴिल् वेट्रुमै यान्।      ९७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७३</summary>
 
 मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्  
 कीऴल्लार् कीऴल् लवर्।      ९७३
@@ -173,7 +173,7 @@ The noble low not low they fare.        973
 कीऴल्लार् कीऴल् लवर्।      ९७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७४</summary>
 
 ऒरुमै मगळिरे पोलप् पॆरुमैयुम्  
 तन्नैत्तान् कॊण्डॊऴुगिन् उण्डु।       ९७४
@@ -228,7 +228,7 @@ Is guarded by self-varacity.        974
 तन्नैत्तान् कॊण्डॊऴुगिन् उण्डु।       ९७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७५</summary>
 
 पॆरुमै युडैयवर् आट्रुवार् आट्रिन्  
 अरुमै उडैय सॆयल्।       ९७५
@@ -284,7 +284,7 @@ Do mighty deeds rare to achieve.        975
 अरुमै उडैय सॆयल्।       ९७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७६</summary>
 
 सिऱियार् उणर्च्चियुळ् इल्लै पॆरियारैप्  
 पेणिक् कॊळ् वेम् ऎन्नुम् नोक्कु।       ९७६
@@ -344,7 +344,7 @@ The mind to seek and befriend the great.        976
 पेणिक् कॊळ् वेम् ऎन्नुम् नोक्कु।       ९७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७७</summary>
 
 इऱप्पे पुरिन्द तॊऴिट्राम् सिऱप्पुन्दान्  
 सीरल् लवर्गण् पडिन्।       ९७७
@@ -399,7 +399,7 @@ Wax with deeds of insolence.        977
 सीरल् लवर्गण् पडिन्।       ९७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७८</summary>
 
 पणियुमाम् ऎण्ड्रुम् पॆरुमै सिऱुमै  
 अणियुमाम् तन्नै वियन्दु।       ९७८
@@ -454,7 +454,7 @@ Meanness vaunts with vanity        978
 अणियुमाम् तन्नै वियन्दु।       ९७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९७९</summary>
 
 पॆरुमै पॆरुमिदम् इन्मै सिऱुमै  
 पॆरुमिदम् ऊर्न्दु विडल्।      ९७९
@@ -509,7 +509,7 @@ Littleness swells with that offence.        979
 पॆरुमिदम् ऊर्न्दु विडल्।      ९७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८०</summary>
 
 अट्रम् मऱैक्कुम् पॆरुमै सिऱुमैदान्  
 कुट्रमे कूऱि विडुम्।       ९८०

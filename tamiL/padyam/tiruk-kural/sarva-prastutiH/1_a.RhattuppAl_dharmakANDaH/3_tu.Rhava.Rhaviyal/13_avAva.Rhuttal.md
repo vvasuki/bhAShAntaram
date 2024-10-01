@@ -4,7 +4,7 @@ title = "१३ अवावऱुत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६१</summary>
 
 अवाऎन्ब ऎल्ला उयिर्क्कुम् ऎञ् ञाण्ड्रुम्  
 तवाअप् पिऱप्पीनुम् वित्तु।      ३६१
@@ -60,7 +60,7 @@ From which ceaseless births proceed.        361
 तवाअप् पिऱप्पीनुम् वित्तु।      ३६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६२</summary>
 
 वेण्डुङ्गाल् वेण्डुम् पिऱवामै मट्रदु  
 वेण्डामै वेण्ड वरुम्।      ३६२
@@ -115,7 +115,7 @@ It comes by longing no more for earth.        362
 वेण्डामै वेण्ड वरुम्।      ३६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६३</summary>
 
 वेण्डामै अन्न विऴुच्चॆल्वम् ईण्डिल्लै  
 आण्डुम् अह्दॊप्पदु इल्।      ३६३
@@ -171,7 +171,7 @@ As peerless wealth of non-desire.        363
 आण्डुम् अह्दॊप्पदु इल्।      ३६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६४</summary>
 
 तूउय्मै ऎन्बदु अवाविन्मै मट्रदु  
 वाअय्मै वेण्ड वरुम्।      ३६४
@@ -227,7 +227,7 @@ That is the fruit of verity.        364
 वाअय्मै वेण्ड वरुम्।      ३६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६५</summary>
 
 अट्रवर् ऎन्बार् अवाअट्रार् मट्रैयार्  
 अट्राग अट्रदु इलर्।      ३६५
@@ -282,7 +282,7 @@ The rest not free in bonds are caught.        365
 अट्राग अट्रदु इलर्।      ३६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६६</summary>
 
 अञ्जुव तोरुम् अऱने ऒरुवनै  
 वञ्जिप्प तोरुम् अवा।      ३६६
@@ -337,7 +337,7 @@ To every soul desire is snare!        366
 वञ्जिप्प तोरुम् अवा।      ३६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६७</summary>
 
 अवाविनै आट्र अऱुप्पिन् तवाविनै  
 तान्वेण्डु माट्रान् वरुम्।      ३६७
@@ -393,7 +393,7 @@ Comes as much as you aspire hence.        367
 तान्वेण्डु माट्रान् वरुम्।      ३६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६८</summary>
 
 अवाइल्लार्क् किल्लागुन् दुन्बम् अह्दुण्डेल्  
 तवाअदु मेन्मेल् वरुम्।      ३६८
@@ -448,7 +448,7 @@ Grief comes on grief where it pretends.        368
 तवाअदु मेन्मेल् वरुम्।      ३६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६९</summary>
 
 इन्बम् इडैयऱा तीण्डुम् अवावॆन्नुम्  
 तुन्बत्तुळ् तुन्बङ् गॆडिन्।      ३६९
@@ -503,7 +503,7 @@ Joy of joys here you enjoy.        369
 तुन्बत्तुळ् तुन्बङ् गॆडिन्।      ३६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७०</summary>
 
 आरा इयऱ्कै अवानीप्पिन् अन्निलैये  
 पेरा इयऱ्कै तरुम्।      ३७०

@@ -4,7 +4,7 @@ title = "०९ अडक्कमुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१</summary>
 
 अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै  
 आरिरुळ् उय्त्तु विडुम्।      १२१
@@ -58,7 +58,7 @@ Indulgence leads to gloomy hades.         121
 आरिरुळ् उय्त्तु विडुम्।      १२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२२</summary>
 
 काक्क पॊरुळा अडक्कत्तै आक्कम्  
 अदनिनूउङ् गिल्लै उयिर्क्कु।      १२२
@@ -113,7 +113,7 @@ Guard with care this great treasure.         122
 अदनिनूउङ् गिल्लै उयिर्क्कु।      १२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२३</summary>
 
 सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु  
 आट्रिन् अडङ्गप् पॆऱिन्।      १२३
@@ -168,7 +168,7 @@ Name and fame seek him untold.         123
 आट्रिन् अडङ्गप् पॆऱिन्।      १२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४</summary>
 
 निलैयिन् तिरियादु अडङ्गियान् तोट्रम्  
 मलैयिनुम् माणप् पॆरिदु।      १२४
@@ -223,7 +223,7 @@ The sage looks grander than mountain.         124
 मलैयिनुम् माणप् पॆरिदु।      १२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२५</summary>
 
 ऎल्लार्क्कुम् नण्ड्राम् पणिदल् अवरुळ्ळुम्  
 सॆल्वर्क्के सॆल्वम् तगैत्तु।      १२५
@@ -278,7 +278,7 @@ To the rich it adds a wealth special.         125
 सॆल्वर्क्के सॆल्वम् तगैत्तु।      १२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६</summary>
 
 ऒरुमैयुळ् आमैबोल् ऐन्दडक्कल् आट्रिन्  
 ऎऴुमैयुम् एमाप् पुडैत्तु।      १२६
@@ -333,7 +333,7 @@ Their joy prolongs to births sevenfold.         126
 ऎऴुमैयुम् एमाप् पुडैत्तु।      १२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२७</summary>
 
 यागावा रायिनुम् नागाक्क कावाक्काल्  
 सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु।      १२७
@@ -388,7 +388,7 @@ Or slips of tongue bring all the woes.         127
 सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु।      १२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८</summary>
 
 ऒण्ड्रानुन् दीच्चॊल् पॊरुट्पयन् उण्डायिन्  
 नण्ड्रागा तागि विडुम्।      १२८
@@ -443,7 +443,7 @@ Will turn all good results to bad.         128
 नण्ड्रागा तागि विडुम्।      १२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९</summary>
 
 तीयिनाऱ्चुट्टबुण् उळ्ळाऱुम् आऱादे  
 नाविनाऱ्चुट्ट वडु।      १२९
@@ -498,7 +498,7 @@ Tongue-burnt wound rests a running sore.         129
 नाविनाऱ्चुट्ट वडु।      १२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०</summary>
 
 कदङ्गात्तुक् कट्रडङ्गल् आट्रुवान् सॆव्वि  
 अऱम्बार्क्कुम् आट्रिन् नुऴैन्दु।      १३०

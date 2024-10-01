@@ -4,7 +4,7 @@ title = "०१ अरुळुडैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४१</summary>
 
 अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्  
 पूरियार् कण्णुम् उळ।      २४१
@@ -61,7 +61,7 @@ Earthly wealth e'en the basest has.        241
 पूरियार् कण्णुम् उळ।      २४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४२</summary>
 
 नल्लाट्राळ् नाडि अरुळाळ्ग पल्लाट्राल्  
 तेरिनुम् अह्दे तुणै।      २४२
@@ -117,7 +117,7 @@ All faiths mark that for-salvation.        242
 तेरिनुम् अह्दे तुणै।      २४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४३</summary>
 
 अरुळ्सेर्न्द नॆञ्जिनार्क् किल्लै इरुळ्सेर्न्द  
 इन्ना उलगम् पुगल्।      २४३
@@ -172,7 +172,7 @@ Into dark worlds of gruesome woe.        243
 इन्ना उलगम् पुगल्।      २४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४४</summary>
 
 मन्नुयिर् ओम्बि अरुळाळ्वार्क् कु इल्लॆन्ब  
 तन्नुयिर् अञ्जुम् विनै।      २४४
@@ -228,7 +228,7 @@ Whose mercy serveth all beings.        244
 तन्नुयिर् अञ्जुम् विनै।      २४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४५</summary>
 
 अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्  
 मल्लन्मा ञालङ् गरि।      २४५
@@ -284,7 +284,7 @@ Men of mercy meet not sorrows.        245
 मल्लन्मा ञालङ् गरि।      २४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४६</summary>
 
 पॊरुळ्नीङ्गिप् पॊच्चान्दार् ऎन्बर् अरुळ्नीङ्गि  
 अल्लवै सॆय्दॊऴुगु वार्।      २४६
@@ -340,7 +340,7 @@ The former loss and woes forget.        246
 अल्लवै सॆय्दॊऴुगु वार्।      २४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४७</summary>
 
 अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु  
 इव्वुलगम् इल्लागि याङ्गु।      २४७
@@ -396,7 +396,7 @@ That world is not for graceless swines.        247
 इव्वुलगम् इल्लागि याङ्गु।      २४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४८</summary>
 
 पॊरुळट्रार् पूप्पर् ऒरुगाल् अरुळट्रार्  
 अट्रार्मऱ्ऱादल् अरिदु।      २४८
@@ -452,7 +452,7 @@ The graceless never bloom agay.        248
 अट्रार्मऱ्ऱादल् अरिदु।      २४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४९</summary>
 
 तॆरुळादान् मॆय्प्पॊरुळ् कण्डट्राल् तेरिन्  
 अरुळादान् सॆय्युम् अऱम्।      २४९
@@ -513,7 +513,7 @@ Wisdom is vain in hearts unkind.        249
 अरुळादान् सॆय्युम् अऱम्।      २४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५०</summary>
 
 वलियार्मुन् तन्नै निनैक्क तान् तन्निन्  
 मॆलियार्मेल् सॆल्लु मिडत्तु।      २५०

@@ -4,7 +4,7 @@ title = "११ इरवु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५१</summary>
 
 इरक्क इरत्तक्कार्क् काणिन् करप्पिन्  
 अवर्बऴि तम्बऴि अण्ड्रु।      १०५१
@@ -61,7 +61,7 @@ Default is theirs when they deny.        1051
 अवर्बऴि तम्बऴि अण्ड्रु।      १०५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५२</summary>
 
 इन्बम् ऒरुवऱ्कु इरत्तल् इरन्दवै  
 तुन्बम् उऱाअ वरिन्।       १०५२
@@ -116,7 +116,7 @@ When the things comes without annoy.        1052
 तुन्बम् उऱाअ वरिन्।       १०५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५३</summary>
 
 करप्पिला नॆञ्जिन् कडनऱिवार् मुन्निण्ड्रु  
 इरप्पुमो रेऎर् उडैत्तु।      १०५३
@@ -172,7 +172,7 @@ Who know the duty on their part.        1053
 इरप्पुमो रेऎर् उडैत्तु।      १०५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५४</summary>
 
 इरत्तलुम् ईदले पोलुम् करत्तल्  
 कनविलुम् तेट्रादार् माट्टु।      १०५४
@@ -227,7 +227,7 @@ From those who hide not even in dreams.        1054
 कनविलुम् तेट्रादार् माट्टु।      १०५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५५</summary>
 
 करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिण्ड्रु  
 इरप्पवर् मेऱ्कॊळ् वदु।       १०५५
@@ -283,7 +283,7 @@ The world has men who don't refuse.        1055
 इरप्पवर् मेऱ्कॊळ् वदु।       १०५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५६</summary>
 
 करप्पिडुम्बै यिल्लारैक् काणिन् निरप्पिडुम्बै  
 ऎल्लाम् ऒरुङ्गु कॆडुम्।       १०५६
@@ -338,7 +338,7 @@ Before the free who don't deny.        1056
 ऎल्लाम् ऒरुङ्गु कॆडुम्।       १०५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५७</summary>
 
 इगऴ्न्दॆळ्ळादु ईवारैक् काणिन् मगिऴ्न्दुळ्ळम्  
 उळ्ळुळ् उवप्पदु उडैत्तु।      १०५७
@@ -394,7 +394,7 @@ A thrill of delight fills the heart.        1057
 उळ्ळुळ् उवप्पदु उडैत्तु।      १०५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५८</summary>
 
 इरप्पारै इल्लायिन् ईर्ङ्गण्मा ञालम्  
 मरप्पावै सॆण्ड्रुवन् दट्रु।      १०५८
@@ -450,7 +450,7 @@ Sans Askers like a puppet show.        1058
 मरप्पावै सॆण्ड्रुवन् दट्रु।      १०५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५९</summary>
 
 ईवार्गण् ऎन्नुण्डाम् तोट्रम् इरन्दुगोळ्  
 मेवार् इलाअक् कडै।      १०५९
@@ -505,7 +505,7 @@ Without obligation seekers?        1059
 मेवार् इलाअक् कडै।      १०५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६०</summary>
 
 इरप्पान् वॆगुळामै वेण्डुम् निरप्पिडुम्बै  
 तानेयुम् सालुम् करि।      १०६०

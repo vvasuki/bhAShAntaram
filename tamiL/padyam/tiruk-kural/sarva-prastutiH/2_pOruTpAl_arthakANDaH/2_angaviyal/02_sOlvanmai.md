@@ -4,7 +4,7 @@ title = "०२ सॊल्वन्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४१</summary>
 
 नानलम् ऎन्नुम् नलनुडैमै अन्नलम्  
 यानलत्तु उळ्ळदूउम् अण्ड्रु।       ६४१
@@ -60,7 +60,7 @@ Is goodness which nothing can reach.        641
 यानलत्तु उळ्ळदूउम् अण्ड्रु।       ६४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४२</summary>
 
 आक्कमुङ् गेडुम् अदनाल् वरुदलाल्  
 कात्तोम्बल् सॊल्लिन्गट् चोर्वु।       ६४२
@@ -116,7 +116,7 @@ Guard against the slips of tongue.        642
 कात्तोम्बल् सॊल्लिन्गट् चोर्वु।       ६४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४३</summary>
 
 केट्टार्प् पिणिक्कुम् तगैयवाय्क् केळारुम्  
 वेट्प मॊऴिवदाम् सॊल्।       ६४३
@@ -172,7 +172,7 @@ And attracts ev'n those that are averse.        643
 वेट्प मॊऴिवदाम् सॊल्।       ६४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४४</summary>
 
 तिऱनऱिन्दु सॊल्लुग सॊल्लै अऱनुम्  
 पॊरुळुम् अदनिनूउङ्गु इल्।       ६४४
@@ -227,7 +227,7 @@ No wealth or virtue words surpass.        644
 पॊरुळुम् अदनिनूउङ्गु इल्।       ६४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४५</summary>
 
 सॊल्लुग सॊल्लैप् पिऱिदोर्सॊल् अच्चॊल्लै  
 वॆल्लुञ्जॊल् इन्मै अऱिन्दु।       ६४५
@@ -287,7 +287,7 @@ Can win it and say untoward.        645
 वॆल्लुञ्जॊल् इन्मै अऱिन्दु।       ६४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४६</summary>
 
 वेट्पत्ताञ् जॊल्लिप् पिऱर्सॊल् पयन्गोडल्  
 माट्चियिन् मासट्रार् कोळ्।       ६४६
@@ -343,7 +343,7 @@ And grasp in others what is meet.        646
 माट्चियिन् मासट्रार् कोळ्।       ६४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४७</summary>
 
 सॊलल्वल्लन् सोर्विलन् अञ्जान् अवनै  
 इगल्वॆल्लल् यार्क्कुम् अरिदु।       ६४७
@@ -398,7 +398,7 @@ Flawless, puissant, and free from fear.        647
 इगल्वॆल्लल् यार्क्कुम् अरिदु।       ६४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४८</summary>
 
 विरैन्दु तॊऴिल्गेट्कुम् ञालम् निरन्दिनिदु  
 सॊल्लुदल् वल्लार्प् पॆऱिन्।       ६४८
@@ -459,7 +459,7 @@ The words of counsellors astute.        648
 सॊल्लुदल् वल्लार्प् पॆऱिन्।       ६४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४९</summary>
 
 पलसॊल्लक् कामुऱुवर् मण्ड्रमा सट्र  
 सिलसॊल्लल् तेट्रा तवर्।       ६४९
@@ -515,7 +515,7 @@ A few and flawless words to speak.        649
 सिलसॊल्लल् तेट्रा तवर्।       ६४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५०</summary>
 
 इण्रुऴ्त्तुम् नाऱा मलरनैयर् कट्रदु  
 उणर विरित्तुरैया तार्।       ६५०

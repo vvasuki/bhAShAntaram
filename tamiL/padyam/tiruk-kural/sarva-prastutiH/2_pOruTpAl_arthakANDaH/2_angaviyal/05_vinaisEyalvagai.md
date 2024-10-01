@@ -4,7 +4,7 @@ title = "०५ विनैसॆयल्वगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७१</summary>
 
 सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु  
 ताऴ्च्चियुळ् तङ्गुदल् तीदु।       ६७१
@@ -66,7 +66,7 @@ Weak delay of action is wrong.        671
 ताऴ्च्चियुळ् तङ्गुदल् तीदु।       ६७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७२</summary>
 
 तूङ्गुग तूङ्गिच् चॆयऱ्पाल तूङ्गऱ्क  
 तूङ्गादु सॆय्युम् विनै।       ६७२
@@ -122,7 +122,7 @@ Delay not acts that need display.        672
 तूङ्गादु सॆय्युम् विनै।       ६७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७३</summary>
 
 ङल्लुम्वा यॆल्लाम् विनैनण्ड्रे ऒल्लाक्काल्  
 सॆल्लुम्वाय् नोक्किच् चॆयल्।       ६७३
@@ -178,7 +178,7 @@ If not see what is possible.        673
 सॆल्लुम्वाय् नोक्किच् चॆयल्।       ६७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७४</summary>
 
 विनैबगै ऎण्ड्रिरण्डिन् ऎच्चम् निनैयुङ्गाल्  
 तीयॆच्चम् पोलत् तॆऱुम्।       ६७४
@@ -234,7 +234,7 @@ Flare up like fire unextinguished.        674
 तीयॆच्चम् पोलत् तॆऱुम्।       ६७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७५</summary>
 
 पॊरुळ्गरुवि कालम् विनैयिडनॊडु ऐन्दुम्  
 इरुळ्दीर ऎण्णिच् चॆयल्।       ६७५
@@ -289,7 +289,7 @@ Decide these five and then proceed.        675
 इरुळ्दीर ऎण्णिच् चॆयल्।       ६७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७६</summary>
 
 मुडिवुम् इडैयूऱुम् मुट्रियाङ्गु ऎय्दुम्  
 पडुबयनुम् पार्त्तुच् चॆयल्।       ६७६
@@ -350,7 +350,7 @@ And then pursue a fitting act.        676
 पडुबयनुम् पार्त्तुच् चॆयल्।       ६७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७७</summary>
 
 सॆय्विनै सॆय्वान् सॆयन्मुऱै अव्विनै  
 उळ्ळऱिवान् उळ्ळम् कॊळल्।       ६७७
@@ -411,7 +411,7 @@ That is the way of fruitful acts.        677
 उळ्ळऱिवान् उळ्ळम् कॊळल्।       ६७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७८</summary>
 
 विनैयान् विनैयाक्किक् कोडल् ननैगवुळ्  
 यानैयाल् यानैयात् तट्रु।       ६७८
@@ -467,7 +467,7 @@ Achieve a deed by deed better.        678
 यानैयाल् यानैयात् तट्रु।       ६७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७९</summary>
 
 नट्टार्क्कु नल्ल सॆयलिन् विरैन्ददे  
 ऒट्टारै ऒट्टिक् कॊळल्।       ६७९
@@ -523,7 +523,7 @@ More urgent to befriend the foes.        679
 ऒट्टारै ऒट्टिक् कॊळल्।       ६७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८०</summary>
 
 उऱैसिऱियार् उळ्नडुङ्गल् अञ्जिक् कुऱैबॆऱिन्  
 कॊळ्वर् पॆरियार्प् पणिन्दु।       ६८०

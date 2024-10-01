@@ -4,7 +4,7 @@ title = "०३ तवम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६१</summary>
 
 उट्रनोय् नोण्ड्रल् उयिर्क्कुऱुगण् सॆय्यामै  
 अट्रे तवत्तिऱ्कुरु।      २६१
@@ -64,7 +64,7 @@ This is the type of true penance.        261
 अट्रे तवत्तिऱ्कुरु।      २६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६२</summary>
 
 तवमुम् तवमुडैयार्क्कु आगुम् अदनै  
 अह्दिलार् मेऱ्कॊळ् वदु।      २६२
@@ -120,7 +120,7 @@ Not for him who in vain pretends.        262
 अह्दिलार् मेऱ्कॊळ् वदु।      २६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६३</summary>
 
 तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्  
 मट्रै यवर्गळ् तवम्।      २६३
@@ -181,7 +181,7 @@ That others austere path avoid?        263
 मट्रै यवर्गळ् तवम्।      २६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६४</summary>
 
 ऒन्नार्त् तॆऱलुम् उवन्दारै आक्कलुम्  
 ऎण्णिन् तवत्तान् वरुम्।      २६४
@@ -236,7 +236,7 @@ The friends and foil the foe and knave.        264
 ऎण्णिन् तवत्तान् वरुम्।      २६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६५</summary>
 
 वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्  
 ईण्डु मुयलप् पडुम्।      २६५
@@ -292,7 +292,7 @@ Here hence by men penance is done.        265
 ईण्डु मुयलप् पडुम्।      २६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६६</summary>
 
 तवञ् जॆय्वार् तङ्गरुमञ् जॆय्वार्मऱ्ऱल्लार्  
 अवञ्जॆय्वार् आसैयुट् पट्टु।      २६६
@@ -348,7 +348,7 @@ Others desire-rid themselves harm.        266
 अवञ्जॆय्वार् आसैयुट् पट्टु।      २६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६७</summary>
 
 सुडच्चुडरुम् पॊन्बोल् ऒळिविडुम् तुन्बञ्  
 जुडच्चुड नोऱ्किऱ्पवर्क्कु।      २६७
@@ -403,7 +403,7 @@ and so the life by pain austere.        267
 जुडच्चुड नोऱ्किऱ्पवर्क्कु।      २६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६८</summary>
 
 तन्नुयिर् तान्अऱप् पॆट्रानै एनैय  
 मन्नुयि रॆल्लान् दॊऴुम्।      २६८
@@ -459,7 +459,7 @@ Who Master is by soul control.        268
 मन्नुयि रॆल्लान् दॊऴुम्।      २६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६९</summary>
 
 कूट्रम् कुदित्तलुम् कैगूडुम् नोट्रलिन्  
 आट्रल् तलैप्पट् टवर्क्कुल्।      २६९
@@ -514,7 +514,7 @@ Who get by penance godly strength.        269
 आट्रल् तलैप्पट् टवर्क्कुल्।      २६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७०</summary>
 
 इलर्बल रागिय कारणम् नोऱ्पार्  
 सिलर्बलर् नोला तवर्।      २७०

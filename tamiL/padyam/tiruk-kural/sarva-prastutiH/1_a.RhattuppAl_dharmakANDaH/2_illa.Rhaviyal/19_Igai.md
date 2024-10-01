@@ -4,7 +4,7 @@ title = "१९ ईगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२१</summary>
 
 वऱियार्क्कॊण्ड्रु ईवदे ईगैमऱ्ऱॆल्लाम्  
 कुऱियॆदिर्प्पै नीर तुडैत्तु।       २२१
@@ -60,7 +60,7 @@ The rest is loan and vanity.        221
 कुऱियॆदिर्प्पै नीर तुडैत्तु।       २२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२२</summary>
 
 नल्लाऱु ऎनिनुम् कॊळल्दीदु मेलुलगम्  
 इल्लॆनिनुम् ईदले नण्ड्रु।       २२२
@@ -116,7 +116,7 @@ To give is good, were heaven forbid.        222
 इल्लॆनिनुम् ईदले नण्ड्रु।       २२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२३</summary>
 
 इलनॆन्नुम् ऎव्वम् उरैयामै ईदल्  
 कुलनुडैयान् कण्णे युळ।       २२३
@@ -172,7 +172,7 @@ But giving marks a noble birth.        223
 कुलनुडैयान् कण्णे युळ।       २२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२४</summary>
 
 इन्नादु इरक्कप् पडुदल् इरन्दवर्  
 इन्मुगङ् गाणुम् अळवु।       २२४
@@ -228,7 +228,7 @@ Until the giver sees him bright.        224
 इन्मुगङ् गाणुम् अळवु।       २२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२५</summary>
 
 आट्रुवार् आट्रल् पसिआट्रल् अप्पसियै  
 माट्रुवार् आट्रलिन् पिन्।       २२५
@@ -284,7 +284,7 @@ Than that of penance which endures.        225
 माट्रुवार् आट्रलिन् पिन्।       २२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२६</summary>
 
 अट्रार् अऴिबसि तीर्त्तल् अह्दॊरुवन्  
 पॆट्रान् पॊरुळ्वैप् पुऴि।       २२६
@@ -339,7 +339,7 @@ If room you seek to store your gains.        226
 पॆट्रान् पॊरुळ्वैप् पुऴि।       २२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२७</summary>
 
 पात्तूण् मरीइ यवनैप् पसियॆन्नुम्  
 तीप्पिणि तीण्डल् अरिदु।       २२७
@@ -394,7 +394,7 @@ Hunger shall not harm his creed.        227
 तीप्पिणि तीण्डल् अरिदु।       २२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२८</summary>
 
 ईत्तुवक्कुम् इन्बम् अऱियार्गॊल् तामुडैमै  
 वैत्तिऴक्कुम् वन्ग णवर्।       २२८
@@ -449,7 +449,7 @@ Hard-hearted rich whose hoarding fails.        228
 वैत्तिऴक्कुम् वन्ग णवर्।       २२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२९</summary>
 
 इरत्तलिन् इन्नादु मण्ड्र निरप्पिय  
 तामे तमियर् उणल्।       २२९
@@ -504,7 +504,7 @@ Alone what one's greed is hoarding.        229
 तामे तमियर् उणल्।       २२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३०</summary>
 
 सादलिन् इन्नाद तिल्लै इनिददूउम्  
 ईदल् इयैयाक् कडै।       २३०

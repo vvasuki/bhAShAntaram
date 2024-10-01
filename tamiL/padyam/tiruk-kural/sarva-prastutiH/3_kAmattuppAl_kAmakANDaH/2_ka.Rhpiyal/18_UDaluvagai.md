@@ -4,7 +4,7 @@ title = "१८ ऊडलुवगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२१</summary>
 
 इल्लै तवऱवर्क्कु आयिनुम् ऊडुदल्  
 वल्लदु अवर्अळिक्कु माऱु।       १३२१
@@ -65,7 +65,7 @@ So that his loving ways show out.        1321
 वल्लदु अवर्अळिक्कु माऱु।       १३२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२२</summary>
 
 ऊडलिन् तोण्ड्रुम् सिऱुदुनि नल्लळि  
 वाडिनुम् पाडु पॆऱुम्।       १३२२
@@ -121,7 +121,7 @@ The petty pricks that pouting gives.        1322
 वाडिनुम् पाडु पॆऱुम्।       १३२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२३</summary>
 
 पुलत्तलिन् पुत्तेळ्नाडु उण्डो निलत्तॊडु  
 नीरियैन् दन्नार् अगत्तु।       १३२३
@@ -177,7 +177,7 @@ Of hearts that join like water and earth?        1323
 नीरियैन् दन्नार् अगत्तु।       १३२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२४</summary>
 
 पुल्लि विडाअप् पुलवियुळ् तोण्ड्रुमॆन्  
 उळ्ळम् उडैक्कुम् पडै।       १३२४
@@ -233,7 +233,7 @@ A weapon is up to break my heart.        1324
 उळ्ळम् उडैक्कुम् पडै।       १३२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२५</summary>
 
 तवऱिलर् आयिनुम् ताम्वीऴ्वार् मॆण्ड्रोळ्  
 अगऱलिन् आङ्गॊन् ऱुडैत्तु।       १३२५
@@ -289,7 +289,7 @@ Of feigned release from lover's arms.        1325
 अगऱलिन् आङ्गॊन् ऱुडैत्तु।       १३२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२६</summary>
 
 उणलिनुम् उण्डदु अऱल्इनिदु कामम्  
 पुणर्दलिन् ऊडल् इनिदु।       १३२६
@@ -345,7 +345,7 @@ And sulk in love than union.        1326
 पुणर्दलिन् ऊडल् इनिदु।       १३२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२७</summary>
 
 ऊडलिल् तोट्रवर् वॆण्ड्रार् अदुमन्नुम्  
 कूडलिऱ्काणप् पडुम्।       १३२७
@@ -401,7 +401,7 @@ Reunited joy brings it out.        1327
 कूडलिऱ्काणप् पडुम्।       १३२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२८</summary>
 
 ऊडिप् पॆऱुगुवम् कॊल्लो नुदल्वॆयर्प्पक्  
 कूडलिल् तोण्ड्रिय उप्पु।       १३२८
@@ -457,7 +457,7 @@ The dew-browed joy of joint love?        1328
 कूडलिल् तोण्ड्रिय उप्पु।       १३२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२९</summary>
 
 ऊडुग मन्नो ऒळियिऴै यामिरप्प  
 नीडुग मन्नो इरा।       १३२९
@@ -513,7 +513,7 @@ Prolong O night! our delight swells!        1329
 नीडुग मन्नो इरा।       १३२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३३०</summary>
 
 ऊडुदल् कामत्तिऱ्कु इन्बम् अदऱ्किन्बम्  
 कूडि मुयङ्गप् पॆऱिन्।       १३३०

@@ -4,7 +4,7 @@ title = "१२ इरवच्चम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६१</summary>
 
 करवादु उवन्दीयुम् कण्णन्नार् कण्णुम्  
 इरवामै कोडि उऱुम्।       १०६१
@@ -61,7 +61,7 @@ E'en from eye-like friends who give with mirth.        1061
 इरवामै कोडि उऱुम्।       १०६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६२</summary>
 
 इरन्दुम् उयिर्वाऴ्दल् वेण्डिन् परन्दु  
 कॆडुग उलगियट्रि यान्।       १०६२
@@ -117,7 +117,7 @@ If "beg and live" be human fate.        1062
 कॆडुग उलगियट्रि यान्।       १०६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६३</summary>
 
 इन्मै इडुम्बै इरन्दुदीर् वामॆन्नुम्  
 वन्मैयिन् वन्बाट्ट तिल्।       १०६३
@@ -173,7 +173,7 @@ Nothing is hard like hard saying
 वन्मैयिन् वन्बाट्ट तिल्।       १०६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६४</summary>
 
 इडमॆल्लाम् कॊळ्ळात् तगैत्ते इडमिल्लाक्  
 कालुम् इरवॊल्लाच् चाल्बु।       १०६४
@@ -229,7 +229,7 @@ Who beg not e'en in want acute.        1064
 कालुम् इरवॊल्लाच् चाल्बु।       १०६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६५</summary>
 
 तॆण्णीर् अडुबुऱ्कै आयिनुम् ताळ्दन्ददु  
 उण्णलिन् ऊङ्गिनिय तिल्।      १०६५
@@ -285,7 +285,7 @@ Like the food earned by labour's sweat.        1065
 उण्णलिन् ऊङ्गिनिय तिल्।      १०६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६६</summary>
 
 आविऱ्कु नीरॆण्ड्रु इरप्पिनुम् नाविऱ्कु  
 इरविन् इळिवन्द तिल्।       १०६६
@@ -341,7 +341,7 @@ Begging tongue is mean anyhow.        1066
 इरविन् इळिवन्द तिल्।       १०६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६७</summary>
 
 इरप्पन् इरप्पारै ऎल्लाम् इरप्पिन्  
 करप्पार् इरवन्मिन् ऎण्ड्रु।       १०६७
@@ -396,7 +396,7 @@ Not to beg from shrinking misers.        1067
 करप्पार् इरवन्मिन् ऎण्ड्रु।       १०६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६८</summary>
 
 इरवॆन्नुम् एमाप्पिल् तोणि करवॆन्नुम्  
 पार्दाक्कप् पक्कु विडुम्।       १०६८
@@ -451,7 +451,7 @@ On the rock of refusing hits.        1068
 पार्दाक्कप् पक्कु विडुम्।       १०६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६९</summary>
 
 इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
 उळ्ळदूउम् इण्ड्रिक् कॆडुम्।      १०६९
@@ -507,7 +507,7 @@ It dies at repulsing insults.        1069
 उळ्ळदूउम् इण्ड्रिक् कॆडुम्।      १०६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७०</summary>
 
 करप्पवर्क्कु याङ्गॊळिक्कुम् कॊल्लो इरप्पवर्  
 सॊल्लाडप् पोऒम् उयिर्।       १०७०

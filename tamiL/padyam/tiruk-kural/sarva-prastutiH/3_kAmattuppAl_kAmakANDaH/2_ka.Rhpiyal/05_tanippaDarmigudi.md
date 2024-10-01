@@ -4,7 +4,7 @@ title = "०५ तनिप्पडर्मिगुदि"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९१</summary>
 
 ताम्वीऴ्वार् तम्वीऴप् पॆट्रवर् पॆट्रारे  
 कामत्तुक् काऴिल् कनि।       ११९१
@@ -60,7 +60,7 @@ Who are beloved by those they love.        1191
 कामत्तुक् काऴिल् कनि।       ११९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९२</summary>
 
 वाऴ्वार्क्कु वानम् पयन्दट्राल् वीऴ्वार्क्कु  
 वीऴ्वार् अळिक्कुम् अळि।       ११९२
@@ -116,7 +116,7 @@ Are like rains to living beings.        1192
 वीऴ्वार् अळिक्कुम् अळि।       ११९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९३</summary>
 
 वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे  
 वाऴुनम् ऎन्नुम् सॆरुक्कु।       ११९३
@@ -172,7 +172,7 @@ Whose love is returned by love so close.        1193
 वाऴुनम् ऎन्नुम् सॆरुक्कु।       ११९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९४</summary>
 
 वीऴप् पडुवार् कॆऴीइयिलर् ताम्वीऴ्वार्  
 वीऴप् पडाअर् ऎनिन्।       ११९४
@@ -227,7 +227,7 @@ Are luckless with all esteems they earn.        1194
 वीऴप् पडाअर् ऎनिन्।       ११९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९५</summary>
 
 नाम्गादल् कॊण्डार् नमक्कॆवन् सॆय्बवो  
 ताम्गादल् कॊळ्ळाक् कडै।       ११९५
@@ -282,7 +282,7 @@ If he does not requite our love?        1195
 ताम्गादल् कॊळ्ळाक् कडै।       ११९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९६</summary>
 
 ऒरुदलैयान् इन्नादु कामम्गाप् पोल  
 इरुदलै यानुम् इनिदु।       ११९६
@@ -343,7 +343,7 @@ Poises well like shoulder poles.        1196
 इरुदलै यानुम् इनिदु।       ११९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९७</summary>
 
 परुवरलुम् पैदलुम् काणान्गॊल् कामन्  
 ऒरुवर्गण् निण्ड्रॊऴुगु वान्।       ११९७
@@ -399,7 +399,7 @@ Knows he not my pallor and pain?        1197
 ऒरुवर्गण् निण्ड्रॊऴुगु वान्।       ११९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९८</summary>
 
 वीऴ्वारिन् इन्सॊल् पॆऱाअदु उलगत्तु  
 वाऴ्वारिन् वन्गणार् इल्।       ११९८
@@ -454,7 +454,7 @@ Without kind words from whom she dotes.        1198
 वाऴ्वारिन् वन्गणार् इल्।       ११९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९९</summary>
 
 नसैइयार् नल्गार् ऎनिनुम् अवर्माट्टु  
 इसैयुम् इनिय सॆविक्कु।       ११९९
@@ -509,7 +509,7 @@ And yet his words sweeten my ears.        1199
 इसैयुम् इनिय सॆविक्कु।       ११९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२००</summary>
 
 उऱाअर्क्कु उऱुनोय् उरैप्पाय् कडलैच्  
 चॆऱाअअय् वाऴिय नॆञ्जु।       १२००

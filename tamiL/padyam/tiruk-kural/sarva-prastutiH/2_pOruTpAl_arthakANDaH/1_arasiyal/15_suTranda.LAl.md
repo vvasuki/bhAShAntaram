@@ -4,7 +4,7 @@ title = "१५ सुट्रन्दऴाल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२१</summary>
 
 पट्रट्र कण्णुम् पऴैमैबा राट्टुदल्  
 सुट्रत्तार् कण्णे उळ।       ५२१
@@ -59,7 +59,7 @@ The old accustomed love to show.        521
 सुट्रत्तार् कण्णे उळ।       ५२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२२</summary>
 
 विरुप्पऱाच् चुट्रम् इयैयिन् अरुप्पऱा  
 आक्कम् पलवुम् तरुम्।       ५२२
@@ -114,7 +114,7 @@ Fadeless fortune's fresh flowers.        522
 आक्कम् पलवुम् तरुम्।       ५२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२३</summary>
 
 अळवळा विल्लादान् वाऴ्क्कै कुळवळाक्  
 कोडिण्ड्रि नीर्निऱैन् दट्रु।       ५२३
@@ -174,7 +174,7 @@ Which overflows without a bank.        523
 कोडिण्ड्रि नीर्निऱैन् दट्रु।       ५२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२४</summary>
 
 सुट्रत्ताल् सुट्रप् पडऒऴुगल् सॆल्वन्दान्  
 पॆट्रत्ताल् पॆट्र पयन्।       ५२४
@@ -229,7 +229,7 @@ When kith and kin are happy found.        524
 पॆट्रत्ताल् पॆट्र पयन्।       ५२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२५</summary>
 
 कॊडुत्तलुम् इन्सॊलुम् आट्रिन् अडुक्किय  
 सुट्रत्ताल् सुट्रप् पडुम्।       ५२५
@@ -284,7 +284,7 @@ Encircle kith and kin around.        525
 सुट्रत्ताल् सुट्रप् पडुम्।       ५२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२६</summary>
 
 पॆरुङ्गॊडैयान् पेणान् वॆगुळि अवनिन्  
 मरुङ्गुडैयार् मानिलत्तु इल्।       ५२६
@@ -339,7 +339,7 @@ Commands on earth countless kinsmen.        526
 मरुङ्गुडैयार् मानिलत्तु इल्।       ५२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२७</summary>
 
 काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
 अन्ननी रार्क्के उळ।       ५२७
@@ -394,7 +394,7 @@ Welfare abides a man of heart.        527
 अन्ननी रार्क्के उळ।       ५२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२८</summary>
 
 पॊदुनोक्कान् वेन्दन् वरिसैया नोक्किन्  
 अदुनोक्कि वाऴ्वार् पलर्।       ५२८
@@ -449,7 +449,7 @@ Each one's merits so many thrive.        528
 अदुनोक्कि वाऴ्वार् पलर्।       ५२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२९</summary>
 
 तमरागिक् तट्रुऱन्दार् सुट्रम् अमरामैक्  
 कारणम् इण्ड्रि वरुम्।       ५२९
@@ -504,7 +504,7 @@ When cause for discord goes away.        529
 कारणम् इण्ड्रि वरुम्।       ५२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३०</summary>
 
 उऴैप्पिरिन्दु कारणत्तिन् वन्दानै वेन्दन्  
 इऴैत् तिरुन्दु ऎण्णिक् कॊळल्।       ५३०

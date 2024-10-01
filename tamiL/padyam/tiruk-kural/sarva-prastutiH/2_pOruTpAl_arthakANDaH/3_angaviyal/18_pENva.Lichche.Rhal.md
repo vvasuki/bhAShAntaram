@@ -4,7 +4,7 @@ title = "१८ पॆण्वऴिच्चेऱल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०१</summary>
 
 मनैविऴैवार् माण्बयन् ऎय्दार् विनैविऴैयार्  
 वेण्डाप् पॊरुळुम् अदु।       ९०१
@@ -61,7 +61,7 @@ That lust, dynamic men disdain.        901
 वेण्डाप् पॊरुळुम् अदु।       ९०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०२</summary>
 
 पेणादु पॆण्विऴैवान् आक्कम् पॆरियदोर्  
 नाणाग नाणुत् तरुम्।      ९०२
@@ -116,7 +116,7 @@ His wealth to him and all is shame.        902
 नाणाग नाणुत् तरुम्।      ९०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०३</summary>
 
 इल्लाळ्गण् ताऴ्न्द इयल्बिन्मै ऎञ्ञाण्ड्रुम्  
 नल्लारुळ् नाणुत् तरुम्।      ९०३
@@ -171,7 +171,7 @@ Shy he feels before the wise.        903
 नल्लारुळ् नाणुत् तरुम्।      ९०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०४</summary>
 
 मनैयाळै अञ्जुम् मऱुमैयि लाळन्  
 विनैयाण्मै वीऱॆय्द लिण्ड्रु।      ९०४
@@ -227,7 +227,7 @@ The weaklings' action has no grace.        904
 विनैयाण्मै वीऱॆय्द लिण्ड्रु।      ९०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०५</summary>
 
 इल्लाळै अञ्जुवान् अञ्जुमऱ्ऱॆञ्ञाण्ड्रुम्  
 नल्लार्क्कु नल्ल सॆयल्।      ९०५
@@ -282,7 +282,7 @@ Good to do to the good and wise.        905
 नल्लार्क्कु नल्ल सॆयल्।      ९०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०६</summary>
 
 इमैयारिन् वाऴिनुम् पाडिलरे इल्लाळ्  
 अमैयार्दोळ् अञ्जु पवर्।      ९०६
@@ -338,7 +338,7 @@ Look petty even with god-like lives.        906
 अमैयार्दोळ् अञ्जु पवर्।      ९०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०७</summary>
 
 पॆण्णेवल् सॆय्दॊऴुगुम् आण्मैयिन् नाणुडैप्  
 पॆण्णे पॆरुमै उडैत्तु।      ९०७
@@ -393,7 +393,7 @@ Than man servile unto her will.        907
 पॆण्णे पॆरुमै उडैत्तु।      ९०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०८</summary>
 
 नट्टार् कुऱैमुडियार् नण्ड्राट्रार् नन्नुदलाळ्  
 पॆट् टाङ्गु ऒऴुगु पवर्।       ९०८
@@ -454,7 +454,7 @@ Help no friends nor goodness tend.        908
 पॆट् टाङ्गु ऒऴुगु पवर्।       ९०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०९</summary>
 
 अऱविनैयुम् आण्ड्र पॊरुळुम् पिऱविनैयुम्  
 पॆण्एवल् सॆय्वार्गण् इल्।      ९०९
@@ -510,7 +510,7 @@ In those who submit to women        909
 पॆण्एवल् सॆय्वार्गण् इल्।      ९०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१०</summary>
 
 ऎण्सेर्न्द नॆञ्जत् तिडनुडैयार्क्कु ऎञ्ञाण्ड्रुम्  
 पॆण्सेर्न्दाम् पेदैमै इल्।       ९१०

@@ -4,7 +4,7 @@ title = "१३ तॆरिन्दुदॆळिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०१</summary>
 
 अऱम्बॊरुळ् इन्बम् उयिरच्चम् नान्गिन्  
 तिऱन्दॆरिन्दु तेऱप् पडुम्।       ५०१
@@ -59,7 +59,7 @@ Test by these four and trust the true.        501
 तिऱन्दॆरिन्दु तेऱप् पडुम्।       ५०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०२</summary>
 
 कुडिप्पिऱन्दु कुट्रत्तिन् नीङ्गि वडुप्परियुम्  
 नाणुडैयान् सुट्टे तॆळिवु।       ५०२
@@ -114,7 +114,7 @@ Shamed of stain-that choice is worth.        502
 नाणुडैयान् सुट्टे तॆळिवु।       ५०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०३</summary>
 
 अरियगट्रु आसट्रार् कण्णुम् तॆरियुङ्गाल्  
 इन्मै अरिदे वॆळिऱु।       ५०३
@@ -169,7 +169,7 @@ Rare is freedom from ignorance.        503
 इन्मै अरिदे वॆळिऱु।       ५०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०४</summary>
 
 कुणम्नाडिक् कुट्रमुम् नाडि अवट्रुळ्  
 मिगैनाडि मिक्क कॊळल्।       ५०४
@@ -224,7 +224,7 @@ Judge him by virtues which prevail.        504
 मिगैनाडि मिक्क कॊळल्।       ५०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०५</summary>
 
 पॆरुमैक्कुम् एनैच् चिऱुमैक्कुम् तत्तम्  
 करुममे कट्टळैक् कल्।       ५०५
@@ -279,7 +279,7 @@ If any one is great or mean.        505
 करुममे कट्टळैक् कल्।       ५०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०६</summary>
 
 अट्रारैत् तेऱुदल् ओम्बुग मट्रवर्  
 पट्रिलर् नाणार् पऴि।       ५०६
@@ -334,7 +334,7 @@ Without affine or shame of sin.        506
 पट्रिलर् नाणार् पऴि।       ५०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०७</summary>
 
 कादन्मै कन्दा अऱिवऱियार्त् तेऱुदल्  
 पेदैमै ऎल्लान् दरुम्।       ५०७
@@ -389,7 +389,7 @@ Folly in all its forms ensues.        507
 पेदैमै ऎल्लान् दरुम्।       ५०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०८</summary>
 
 तेरान् पिऱनैत् तॆळिन्दान् वऴिमुऱै  
 तीरा इडुम्बै तरुम्।       ५०८
@@ -444,7 +444,7 @@ Endless troubles on all our kins.        508
 तीरा इडुम्बै तरुम्।       ५०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०९</summary>
 
 ते ऱऱ्क यारैयुम् तेरादु तेर्न्दबिन्  
 तेऱुग तेऱुम् पॊरुळ्।       ५०९
@@ -499,7 +499,7 @@ Find proper work for trusted men.        509
 तेऱुग तेऱुम् पॊरुळ्।       ५०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१०</summary>
 
 तेरान् तॆळिवुम् तॆळिन्दान्गण् ऐयुऱवुम्  
 तीरा इडुम्बै तरुम्।       ५१०

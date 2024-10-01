@@ -4,7 +4,7 @@ title = "२३ मडियिन्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०१</summary>
 
 कुडियॆन्नुम् कुण्ड्रा विळक्कम् मडियॆन्नुम्  
 मासूर माय्न्दु कॆडुम्।       ६०१
@@ -60,7 +60,7 @@ When foul idleness encloses.        601
 मासूर माय्न्दु कॆडुम्।       ६०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०२</summary>
 
 मडियै मडिया ऒऴुगल् कुडियैक्  
 कुडियाग वेण्डु पवर्।       ६०२
@@ -115,7 +115,7 @@ Loath sloth as sloth; refuse it room.        602
 कुडियाग वेण्डु पवर्।       ६०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०३</summary>
 
 मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द  
 कुडिमडियुम् तन्निनुम् मुन्दु।       ६०३
@@ -170,7 +170,7 @@ Before he dies ruins his house.        603
 कुडिमडियुम् तन्निनुम् मुन्दु।       ६०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०४</summary>
 
 कुडिमडिन्दु कुट्रम् पॆरुगुम् मडिमडिन्दु  
 माण्ड उञट्रि लवर्क्कु।       ६०४
@@ -225,7 +225,7 @@ Ruin their house by evil growth.        604
 माण्ड उञट्रि लवर्क्कु।       ६०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०५</summary>
 
 नॆडुनीर् मऱवि मडिदुयिल् नान्गुम्  
 कॆडुनीरार् कामक् कलन्।       ६०५
@@ -281,7 +281,7 @@ These four are pleasure boats of loss.        605
 कॆडुनीरार् कामक् कलन्।       ६०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०६</summary>
 
 पडियुडैयार् पट्रमैन्दक् कण्णुम् मडियुडैयार्  
 माण्बयन् ऎय्दल् अरिदु।       ६०६
@@ -336,7 +336,7 @@ The slothful gain nothing of worth.        606
 माण्बयन् ऎय्दल् अरिदु।       ६०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०७</summary>
 
 इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु  
 माण्ड उञट्रि लवर्।       ६०७
@@ -391,7 +391,7 @@ Subject themselves to scornful words.        607
 माण्ड उञट्रि लवर्।       ६०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०८</summary>
 
 मडिमै कुडिमैक्कण् तङ्गिन्दन् ऒन्नार्क्कु  
 अडिमै पुगुत्ति विडुम्।       ६०८
@@ -451,7 +451,7 @@ It will become a slave of foes.        608
 अडिमै पुगुत्ति विडुम्।       ६०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६०९</summary>
 
 कुडियाण्मै युळ्वन्द कुट्रम् ऒरुवन्  
 मडियाण्मै माट्रक् कॆडुम्।       ६०९
@@ -506,7 +506,7 @@ When one from sloth gets his release.        609
 मडियाण्मै माट्रक् कॆडुम्।       ६०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१०</summary>
 
 मडियिला मन्नवन् ऎय्दुम् अडियळन्दान्  
 ताअय तॆल्लाम् ऒरुङ्गु।       ६१०

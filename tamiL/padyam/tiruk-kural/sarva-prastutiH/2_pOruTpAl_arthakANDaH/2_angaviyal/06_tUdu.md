@@ -4,7 +4,7 @@ title = "०६ तूदु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८१</summary>
 
 अन्बुडैमै आण्ड्र कुडिप्पिऱत्तल् वेन्दवाम्  
 पण्बुडैमै तूदुरैप्पान् पण्बु।       ६८१
@@ -61,7 +61,7 @@ Pleasing kings mark true embassy.        681
 पण्बुडैमै तूदुरैप्पान् पण्बु।       ६८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८२</summary>
 
 अन्बऱिवु आराय्न्द सॊल्वन्मै तूदुरैप्पार्क्कु  
 इण्ड्रि यमैयाद मूण्ड्रु।       ६८२
@@ -116,7 +116,7 @@ Knowledge and learned eloquence.        682
 इण्ड्रि यमैयाद मूण्ड्रु।       ६८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८३</summary>
 
 नूलारुळ् नूल्वल्लन् आगुदल् वेलारुळ्  
 वॆण्ड्रि विनैयुरैप्पान् पण्बु।       ६८३
@@ -172,7 +172,7 @@ Before lanced king, triumphant words.        683
 वॆण्ड्रि विनैयुरैप्पान् पण्बु।       ६८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८४</summary>
 
 अऱिवुरु वाराय्न्द कल्विइम् मूण्ड्रन्  
 सॆऱिवुडैयान् सॆल्ग विनैक्कु।       ६८४
@@ -228,7 +228,7 @@ Can act as bold ambassador.        684
 सॆऱिवुडैयान् सॆल्ग विनैक्कु।       ६८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८५</summary>
 
 तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि  
 नण्ड्रि पयप्पदान् दूदु।       ६८५
@@ -284,7 +284,7 @@ Does good by pleasant words concise.        685
 नण्ड्रि पयप्पदान् दूदु।       ६८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८६</summary>
 
 कट्रुक्कण् अञ्जान् सॆलच्चॊल्लिक् कालत्ताल्  
 तक्कदु अऱिवदाम् तूदु।       ६८६
@@ -340,7 +340,7 @@ Convincing words which time demands.        686
 तक्कदु अऱिवदाम् तूदु।       ६८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८७</summary>
 
 कडनऱिन्दु कालङ् गरुदि इडनऱिन्दु  
 ऎण्णि उरैप्पान् तलै।       ६८७
@@ -396,7 +396,7 @@ The envoy employs mature phrase.        687
 ऎण्णि उरैप्पान् तलै।       ६८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८८</summary>
 
 तूय्मै तुणैमै तुणिवुडैमै इम्मूण्ड्रिन्  
 वाय्मै वऴियुरैप्पान् पण्बु।       ६८८
@@ -452,7 +452,7 @@ Is pure helpful and bold in views.        688
 वाय्मै वऴियुरैप्पान् पण्बु।       ६८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८९</summary>
 
 विडुमाट्रम् वेन्दर्क्कु उरैप्पान् वडुमाट्रम्  
 वाय्सेरा वन्ग णवन्।       ६८९
@@ -508,7 +508,7 @@ Has flawless words and heart's courage.        689
 वाय्सेरा वन्ग णवन्।       ६८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९०</summary>
 
 इऱुदि पयप्पिनुम् ऎञ्जादु इऱैवऱ्कु  
 उऱुदि पयप्पदाम् तूदु।       ६९०

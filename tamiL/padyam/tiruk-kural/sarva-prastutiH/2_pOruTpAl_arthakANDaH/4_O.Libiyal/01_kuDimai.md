@@ -4,7 +4,7 @@ title = "०१ कुडिमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५१</summary>
 
 इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्  
 चॆप्पमुम् नाणुम् ऒरुङ्गु।       ९५१
@@ -60,7 +60,7 @@ By nature only the noble-born.        951
 चॆप्पमुम् नाणुम् ऒरुङ्गु।       ९५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५२</summary>
 
 ऒऴुक्कमुम् वाय्मैयुम् नाणुम् इम् मूण्ड्रुम्  
 इऴुक्कार् कुडिप्पिऱन् दार्।       ९५२
@@ -115,7 +115,7 @@ Good conduct, truth and modesty.        952
 इऴुक्कार् कुडिप्पिऱन् दार्।       ९५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५३</summary>
 
 नगैईगै इन्सॊल् इगऴामै नान्गुम्  
 वगैयॆन्ब वाय्मैक् कुडिक्कु।       ९५३
@@ -171,7 +171,7 @@ These four mark true nobility.        953
 वगैयॆन्ब वाय्मैक् कुडिक्कु।       ९५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५४</summary>
 
 अडुक्किय कोडि पॆऱिनुम् कुडिप्पिऱन्दार्  
 कुण्ड्रुव सॆय्दल् इलर्।       ९५४
@@ -227,7 +227,7 @@ Cannot bend to degrading deed.        954
 कुण्ड्रुव सॆय्दल् इलर्।       ९५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५५</summary>
 
 वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि  
 पण्बिल् तलैप्पिरिदल् इण्ड्रु।       ९५५
@@ -283,7 +283,7 @@ Ancient homes guard their noble trait.        955
 पण्बिल् तलैप्पिरिदल् इण्ड्रु।       ९५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५६</summary>
 
 सलम्बट्रिच् चाल्बिल सॆय्यार्मा सट्र  
 कुलम्बट्रि वाऴ्दुम् ऎन् पार्।       ९५६
@@ -338,7 +338,7 @@ Stoop not to acts of cunning lure.        956
 कुलम्बट्रि वाऴ्दुम् ऎन् पार्।       ९५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५७</summary>
 
 कुडिप्पिऱन्दार् कण्विळङ्गुम् कुट्रम् विसुम्बिन्  
 मदिक्कण् मऱुप्पोल् उयर्न्दु।       ९५७
@@ -399,7 +399,7 @@ Like on the sky the spots of moon.        957
 मदिक्कण् मऱुप्पोल् उयर्न्दु।       ९५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५८</summary>
 
 नलत्तिन्गण् नारिन्मै तोण्ड्रिन् अवनैक्  
 कुलत्तिन्गण् ऐयप् पडुम्।       ९५८
@@ -455,7 +455,7 @@ People deem their pedigree crude.        958
 कुलत्तिन्गण् ऐयप् पडुम्।       ९५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५९</summary>
 
 निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्  
 कुलत्तिल् पिऱन्दार्वाय्च् चॊल्।       ९५९
@@ -515,7 +515,7 @@ The worth of birth from words flow out.        959
 कुलत्तिल् पिऱन्दार्वाय्च् चॊल्।       ९५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९६०</summary>
 
 नलम्वेण्डिन् नाणुडैमै वेण्डुम् कुलम् वेण्डिन्  
 वेण्डुग यार्क्कुम् पणिवु।      ९६०

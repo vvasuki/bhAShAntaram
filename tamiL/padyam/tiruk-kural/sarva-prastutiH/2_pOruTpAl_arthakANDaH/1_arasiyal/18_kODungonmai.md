@@ -4,7 +4,7 @@ title = "१८ कॊडुङ्गोन्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५१</summary>
 
 कॊलैमेऱ्कॊण् डारिऱ्कॊडिदे अलैमेऱ्कॊण्डु  
 अल्लवै सॆय्दॊऴुगुम् वेन्दु।       ५५१
@@ -59,7 +59,7 @@ Is worse than cruel murderer.        551
 अल्लवै सॆय्दॊऴुगुम् वेन्दु।       ५५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५२</summary>
 
 वेलॊडु निण्ड्रान् इडुवॆन् ऱदुबोलुम्  
 कोलॊडु निण्ड्रान् इरवु।       ५५२
@@ -114,7 +114,7 @@ Is "give" of lanced robber bold.        552
 कोलॊडु निण्ड्रान् इरवु।       ५५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५३</summary>
 
 नाडॊऱुम् नाडि मुऱैसॆय्या मन्नवन्  
 नाडॊऱुम् नाडु कॆडुम्।       ५५३
@@ -169,7 +169,7 @@ Or day by day the realm decays.        553
 नाडॊऱुम् नाडु कॆडुम्।       ५५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५४</summary>
 
 कूऴुङ् गुडियुम् ऒरुङ्गिऴक्कुम् कोल्गोडिच्  
 चूऴादु सॆय्युम् अरसु।       ५५४
@@ -224,7 +224,7 @@ If his sceptre he dares abuse.        554
 चूऴादु सॆय्युम् अरसु।       ५५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५५</summary>
 
 अल्लऱ्पट्टु आट्रादु अऴुदगण् णीरण्ड्रे  
 सॆल्वत्तैत् तेय्क्कुम् पडै       ५५५
@@ -284,7 +284,7 @@ File the royal wealth away.        555
 सॆल्वत्तैत् तेय्क्कुम् पडै       ५५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५६</summary>
 
 मन्नर्क्कु मन्नुदल् सॆङ्गोन्मै अह्दिण्ड्रेल्  
 मन्नावाम् मन्नर्क् कॊळि।       ५५६
@@ -339,7 +339,7 @@ Without it wanes the royal light.        556
 मन्नावाम् मन्नर्क् कॊळि।       ५५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५७</summary>
 
 तुळियिन्मै ञालत्तिऱ्कु ऎट्रट्रे वेन्दन्  
 अळियिन्मै वाऴुम् उयिर्क्कु।       ५५७
@@ -399,7 +399,7 @@ Is graceless king to creatures all.        557
 अळियिन्मै वाऴुम् उयिर्क्कु।       ५५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५८</summary>
 
 इन्मैयिन् इन्नादु उडैमै मुऱैसॆय्या  
 मन्नवन् कोऱ्कीऴ्प् पडिन्।       ५५८
@@ -454,7 +454,7 @@ If ruler is unjust despot.        558
 मन्नवन् कोऱ्कीऴ्प् पडिन्।       ५५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५९</summary>
 
 मुऱैगोडि मन्नवन् सॆय्यिन् उऱैगोडि  
 ऒल्लादु वानम् पॆयल्।       ५५९
@@ -509,7 +509,7 @@ If the king misuses his power.        559
 ऒल्लादु वानम् पॆयल्।       ५५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६०</summary>
 
 आबयन् कुण्ड्रुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
 कावलन् कावान् ऎनिन्।       ५६०

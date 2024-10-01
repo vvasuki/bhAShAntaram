@@ -4,7 +4,7 @@ title = "२० कळ्ळुण्णामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२१</summary>
 
 उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाण्ड्रुम्  
 कट्कादल् कॊण्डॊऴुगु वार्।      ९२१
@@ -61,7 +61,7 @@ The addicts daily their glory lose.        921
 कट्कादल् कॊण्डॊऴुगु वार्।      ९२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२२</summary>
 
 उण्णऱ्क कळ्ळै उणिल्उण्ग साण्ड्रोरान्  
 ऎण्णप् पडवेण्डा तार्।      ९२२
@@ -116,7 +116,7 @@ Whom with esteem the wise won't think.        922
 ऎण्णप् पडवेण्डा तार्।      ९२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२३</summary>
 
 ईण्ड्राळ् मुगत्तेयुम् इन्नादाल् ऎन्मट्रुच्  
 चाण्ड्रोर् मुगत्तुक् कळि।      ९२३
@@ -172,7 +172,7 @@ How vile must it look for the wise?        923
 चाण्ड्रोर् मुगत्तुक् कळि।      ९२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२४</summary>
 
 नाण्ऎन्नुम् नल्लाळ् पुऱङ्गॊडुक्कुम् कळ्ळॆन्नुम्  
 पेणाप् पॆरुङ्गुट्रत् तार्क्कु।      ९२४
@@ -228,7 +228,7 @@ Who is guilty of wine condemned.        924
 पेणाप् पॆरुङ्गुट्रत् तार्क्कु।      ९२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२५</summary>
 
 कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु  
 मॆय्यऱि यामै कॊळल्।      ९२५
@@ -284,7 +284,7 @@ Is nothing but rank ignorance.        925
 मॆय्यऱि यामै कॊळल्।      ९२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२६</summary>
 
 तुञ्जिनार् सॆत्तारिन् वेऱल्लर् ऎञ्ञाण्ड्रुम्  
 नञ्जुण्बार् कळ्ळुण् पवर्।      ९२६
@@ -339,7 +339,7 @@ And doze ev'n like a dead body.        926
 नञ्जुण्बार् कळ्ळुण् पवर्।      ९२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२७</summary>
 
 उळ्ळॊट्रि उळ्ळूर् नगप्पडुवर् ऎञ्ञाण्ड्रुम्  
 कळ्ळॊट्रिक् कण्साय् पवर्३       ९२७
@@ -395,7 +395,7 @@ Make the prying public laugh.        927
 कळ्ळॊट्रिक् कण्साय् पवर्३       ९२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२८</summary>
 
 कळित्तऱियेन् ऎन्बदु कैविडुग नॆञ्जत्तु  
 ऒळित्तदूउम् आङ्गे मिगुम्।      ९२८
@@ -451,7 +451,7 @@ The hidden fraud is known abroad.        928
 ऒळित्तदूउम् आङ्गे मिगुम्।      ९२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२९</summary>
 
 कळित्तानैक् कारणम् काट्टुदल् कीऴ्नीर्क्  
 कुळित्तानैत् तीत्तुरीइ अट्रु।      ९२९
@@ -507,7 +507,7 @@ Can reason reach the raving drunk?        929
 कुळित्तानैत् तीत्तुरीइ अट्रु।      ९२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३०</summary>
 
 कळ्ळुण्णाप् पोऴ्दिऱ्कळित्तानैक् काणुङ्गाल्  
 उळ्ळान्गॊल् उण्डदन् सोर्वु।      ९३०

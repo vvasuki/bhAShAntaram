@@ -4,7 +4,7 @@ title = "०४ विनैत्तिट्पम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६१</summary>
 
 विनैत्तिट्पम् ऎन्बदु ऒरुवन् मनत्तिट्पम्  
 मट्रैय ऎल्लाम् पिऱ।       ६६१
@@ -60,7 +60,7 @@ And all the rest are imperfect.        661
 मट्रैय ऎल्लाम् पिऱ।       ६६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६२</summary>
 
 ऊऱॊराल् उट्रबिन् ऒल्गामै इव्विरण्डिन्  
 आऱॆन्बर् आय्न्दवर् कोळ्।       ६६२
@@ -116,7 +116,7 @@ These two are maxims of the wise.        662
 आऱॆन्बर् आय्न्दवर् कोळ्।       ६६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६३</summary>
 
 कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किन्  
 ऎट्रा विऴुमन् दरुम्।       ६६३
@@ -172,7 +172,7 @@ Woe unto work displayed midway.        663
 ऎट्रा विऴुमन् दरुम्।       ६६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६४</summary>
 
 सॊल्लुदल् यार्क्कुम् ऎळिय अरियवाम्  
 सॊल्लिय वण्णम् सॆयल्।       ६६४
@@ -227,7 +227,7 @@ But hard it is to know and act.        664
 सॊल्लिय वण्णम् सॆयल्।       ६६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६५</summary>
 
 वीऱॆय्दि माण्डार् विनैत्तिट्पम् वेन्दन्गण्  
 ऊऱॆय्दि उळ्ळप् पडुम्।       ६६५
@@ -283,7 +283,7 @@ Shall win the praise of king and all.        665
 ऊऱॆय्दि उळ्ळप् पडुम्।       ६६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६६</summary>
 
 ऎण्णिय ऎण्णियाङ्गु ऎय्दु ऎण्णियार्  
 तिण्णियर् आगप् पॆऱिन्।       ६६६
@@ -344,7 +344,7 @@ When mind that wills is strong indeed.        666
 तिण्णियर् आगप् पॆऱिन्।       ६६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६७</summary>
 
 उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु  
 अच्चाणि अन्नार् उडैत्तु।       ६६७
@@ -405,7 +405,7 @@ Like linchpin of big rolling car.        667
 अच्चाणि अन्नार् उडैत्तु।       ६६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६८</summary>
 
 कलङ्गादु कण्ड विनैक्कण् तुळङ्गादु  
 तूक्कङ् गडिन्दु सॆयल्।       ६६८
@@ -460,7 +460,7 @@ The deed resolved purposefully.        668
 तूक्कङ् गडिन्दु सॆयल्।       ६६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६९</summary>
 
 तुन्बम् उऱवरिनुम् सॆय्ग तुणिवाट्रि  
 इन्बम् पयक्कुम् विनै।       ६६९
@@ -516,7 +516,7 @@ The deed that brings delight at last.        669
 इन्बम् पयक्कुम् विनै।       ६६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७०</summary>
 
 ऎनैत्तिट्पम् ऎय् तियक् कण्णुम् विनैत्तिट्पम्  
 वेण्डारै वेण्डादु उलगु।       ६७०

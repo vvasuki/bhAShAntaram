@@ -4,7 +4,7 @@ title = "०५ कादऱ्\u200cचिऱप्पुरैत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२१</summary>
 
 पालॊडु तेन्गलन् दट्रे पणिमॊऴि  
 वालॆयिऱु ऊऱिय नीर्।       ११२१
@@ -58,7 +58,7 @@ From her white teeth whose word is soft.        1121
 वालॆयिऱु ऊऱिय नीर्।       ११२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२२</summary>
 
 उडम्बॊडु उयिरिडै ऎन्नमऱ्ऱन्न  
 मडन्दैयॊडु ऎम्मिडै नट्पु।       ११२२
@@ -113,7 +113,7 @@ Is like bond between soul and body.        1122
 मडन्दैयॊडु ऎम्मिडै नट्पु।       ११२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२३</summary>
 
 करुमणियिऱ्पावाय्नी पोदायाम् वीऴुम्  
 तिरुनुदऱ्कु इल्लै इडम्।       ११२३
@@ -168,7 +168,7 @@ Giving room to my fair-browed belle!        1123
 तिरुनुदऱ्कु इल्लै इडम्।       ११२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२४</summary>
 
 वाऴ्दल् उयिर्क्कन्नळ् आयिऴै सादल्  
 अदऱ्कन्नळ् नीङ्गुम् इडत्तु।       ११२४
@@ -228,7 +228,7 @@ Death it is her severance.        1124
 अदऱ्कन्नळ् नीङ्गुम् इडत्तु।       ११२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२५</summary>
 
 उळ्ळुवन् मन्यान् मऱप्पिन् मऱप्पऱियेन्  
 ऒळ्ळमर्क् कण्णाळ् कुणम्।       ११२५
@@ -283,7 +283,7 @@ The charms of her bright battling eyes.        1125
 ऒळ्ळमर्क् कण्णाळ् कुणम्।       ११२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२६</summary>
 
 कण्णुळ्ळिन् पोगार् इमैप्पिन् परुगुवरा  
 नुण्णियर्ऎम् काद लवर्।       ११२६
@@ -338,7 +338,7 @@ Ever in my eyes winking, no harm.        1126
 नुण्णियर्ऎम् काद लवर्।       ११२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२७</summary>
 
 कण्णुळ्ळार् काद लवरागक् कण्णुम्  
 ऎऴुदेम् करप्पाक्कु अऱिन्दु।       ११२७
@@ -393,7 +393,7 @@ I paint them not lest he hides.        1127
 ऎऴुदेम् करप्पाक्कु अऱिन्दु।       ११२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२८</summary>
 
 नॆञ्जत्तार् काद लवराग वॆय्दुण्डल्  
 अञ्जुदुम् वेबाक् कऱिन्दु।       ११२८
@@ -448,7 +448,7 @@ I fear hot food lest he feels hot.        1128
 अञ्जुदुम् वेबाक् कऱिन्दु।       ११२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२९</summary>
 
 इमैप्पिन् करप्पाक्कु अऱिवल् अनैत्तिऱ्के  
 एदिलर् ऎन्नुम् इव् वूर्।       ११२९
@@ -503,7 +503,7 @@ And him as cruel the townsmen chide.        1129
 एदिलर् ऎन्नुम् इव् वूर्।       ११२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३०</summary>
 
 उवन्दुऱैवर् उळ्ळत्तुळ् ऎण्ड्रुम् इगन्दुऱैवर्  
 एदिलर् ऎन्नुम् इव् वूर्।       ११३०

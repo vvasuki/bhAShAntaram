@@ -4,7 +4,7 @@ title = "०३ पुणर्च्चिमगिऴ्दल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०१</summary>
 
 कण्डुगेट्टु उण्डुयिर्त्तु उट्रऱियुम् ऐम्बुलनुम्  
 ऒण्दॊडि कण्णे उळ।       ११०१
@@ -59,7 +59,7 @@ The joys of sight sound touch taste smell.        1101
 ऒण्दॊडि कण्णे उळ।       ११०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०२</summary>
 
 पिणिक्कु मरुन्दु पिऱमन् अणियिऴै  
 तन्नोय्क्कुत् ताने मरुन्दु।       ११०२
@@ -119,7 +119,7 @@ For fair maid's ill she is the cure.        1102
 तन्नोय्क्कुत् ताने मरुन्दु।       ११०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०३</summary>
 
 ताम्वीऴ्वार् मॆण्ड्रोळ् तुयिलिन् इनिदुगॊल्  
 तामरैक् कण्णान् उलगु।       ११०३
@@ -174,7 +174,7 @@ As sleep in lover's arms so soft?        1103
 तामरैक् कण्णान् उलगु।       ११०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०४</summary>
 
 नीङ्गिन् तॆऱूउम् कुऱुगुङ्गाल् तण्णॆन्नुम्  
 तीयाण्डुप् पॆट्राळ् इवळ्?       ११०४
@@ -234,7 +234,7 @@ Wherefrom did she get this fire?        1104
 तीयाण्डुप् पॆट्राळ् इवळ्?       ११०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०५</summary>
 
 वेट् ट पॊऴुदिन् अवैयवै पोलुमे  
 तोट् टार् कदुप्पिनाळ् तोळ्।       ११०५
@@ -289,7 +289,7 @@ Whatever I wish that that accord.        1105
 तोट् टार् कदुप्पिनाळ् तोळ्।       ११०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०६</summary>
 
 उऱुदोऱु उयिर्दळिर्प्पत् तीण्डलाल् पेदैक्कु  
 अमिऴ्दिन् इयण्ड्रन तोळ्।       ११०६
@@ -344,7 +344,7 @@ Each embrace brings life-thrilling charms.        1106
 अमिऴ्दिन् इयण्ड्रन तोळ्।       ११०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०७</summary>
 
 तम्मिल् इरुन्दु तमदुबात्तु उण्डट्राल्  
 अम्मा अरिवै मुयक्कु।       ११०७
@@ -399,7 +399,7 @@ Is like sharing one's food at home.        1107
 अम्मा अरिवै मुयक्कु।       ११०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०८</summary>
 
 वीऴुम् इरुवर्क्कु इनिदे वळियिडै  
 पोऴप् पडाअ मुयक्कु।       ११०८
@@ -454,7 +454,7 @@ Not admit e'en air between both.        1108
 पोऴप् पडाअ मुयक्कु।       ११०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११०९</summary>
 
 ऊडल् उणर्दल् पुणर्दल् इवैगामम्  
 कूडियार् पॆट्र पयन्।       ११०९
@@ -509,7 +509,7 @@ These three are sweets of lover's tryst.        1109
 कूडियार् पॆट्र पयन्।       ११०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १११०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११०</summary>
 
 अऱिदोऱु अऱियामै कण्डट्राल् कामम्  
 सॆऱिदोऱुम् सेयिऴै माट्टु।       १११०

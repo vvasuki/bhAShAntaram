@@ -4,7 +4,7 @@ title = "०४ साण्ड्राण्मै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८१</summary>
 
 कडन्ऎन्ब नल्लवै ऎल्लाम् कडन्अऱिन्दु  
 साण्ड्राण्मै मेऱ्कॊळ् पवर्क्कु।      ९८१
@@ -61,7 +61,7 @@ Who are dutiful and sublime.        981
 साण्ड्राण्मै मेऱ्कॊळ् पवर्क्कु।      ९८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८२</summary>
 
 कुणनलम् साण्ड्रोर् नलने पिऱनलम्  
 ऎन्नलत्तु उळ्ळदूउम् अण्ड्रु।       ९८२
@@ -117,7 +117,7 @@ Than that there is nothing better.        982
 ऎन्नलत्तु उळ्ळदूउम् अण्ड्रु।       ९८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८३</summary>
 
 अन्बुनाण् ऒप्पुरवु कण्णोट्टम् वाय्मैयॊडु  
 ऐन्दुसाल् ऊण्ड्रिय तूण्।       ९८३
@@ -173,7 +173,7 @@ These five are virtue's resting place.        983
 ऐन्दुसाल् ऊण्ड्रिय तूण्।       ९८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८४</summary>
 
 कॊल्ला नलत्तदु नोन्मै पिऱर्दीमै  
 सॊल्ला नलत्तदु साल्बु।       ९८४
@@ -233,7 +233,7 @@ Not to slander virtue sure.        984
 सॊल्ला नलत्तदु साल्बु।       ९८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८५</summary>
 
 आट्रुवार् आट्रल् पणिदल् अदुसाण्ड्रोर्  
 माट्रारै माट्रुम् पडै।       ९८५
@@ -289,7 +289,7 @@ A force that averts foes at length.        985
 माट्रारै माट्रुम् पडै।       ९८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८६</summary>
 
 साल्बिऱ्कुक् कट्टळै यादॆनिन् तोल्वि  
 तुलैयल्लार् कण्णुम् कॊळल्।       ९८६
@@ -344,7 +344,7 @@ Is the touch-stone of worthy men.        986
 तुलैयल्लार् कण्णुम् कॊळल्।       ९८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८७</summary>
 
 इन्नासॆय् तार्क्कुम् इनियवे सॆय्याक्काल्  
 ऎन्न पयत्तदो साल्बु।       ९८७
@@ -404,7 +404,7 @@ If it returns not joy for pain?        987
 ऎन्न पयत्तदो साल्बु।       ९८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८८</summary>
 
 इन्मै ऒरुवऱ्कु इळिवण्ड्रु साल्बॆन्नुम्  
 तिण्मै उण् डागप् पॆऱिन्।      ९८८
@@ -459,7 +459,7 @@ To one strong in good quality.        988
 तिण्मै उण् डागप् पॆऱिन्।      ९८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९८९</summary>
 
 ऊऴि पॆयरिनुम् ताम्बॆयरार् साण्ड्राण्मैक्कु  
 आऴि ऎनप्पडु वार्।       ९८९
@@ -519,7 +519,7 @@ Who is a sea of virtue pure.        989
 आऴि ऎनप्पडु वार्।       ९८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९९०</summary>
 
 साण्ड्रवर् साण्ड्राण्मै कुण्ड्रिन् इरुनिलन्दान्  
 ताङ्गादु मन्नो पॊऱै।      ९९०

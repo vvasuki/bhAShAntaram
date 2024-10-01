@@ -4,7 +4,7 @@ title = "१६ पॊच्चावामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३१</summary>
 
 इऱन्द वॆगुळियिन् तीदे सिऱन्द  
 उवगै मगिऴ्च्चियिऱ्चोर्वु।       ५३१
@@ -59,7 +59,7 @@ Forgetfulness in joy-excess.        531
 उवगै मगिऴ्च्चियिऱ्चोर्वु।       ५३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३२</summary>
 
 पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविनै  
 निच्च निरप्पुक् कॊन् ऱाङ्गु।       ५३२
@@ -114,7 +114,7 @@ Ceaseless want wisdom destroys.        532
 निच्च निरप्पुक् कॊन् ऱाङ्गु।       ५३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३३</summary>
 
 पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
 ऎप्पाल्नू लोर्क्कुम् तुणिवु।       ५३३
@@ -169,7 +169,7 @@ All schools of thinkers say the same.        533
 ऎप्पाल्नू लोर्क्कुम् तुणिवु।       ५३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३४</summary>
 
 अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै  
 पॊच्चाप् पुडैयार्क्कु नन्गु।       ५३४
@@ -224,7 +224,7 @@ The forgetful find good never.        534
 पॊच्चाप् पुडैयार्क्कु नन्गु।       ५३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३५</summary>
 
 मुन्नुऱक् कावादु इऴुक्कियान् तन्बिऴै  
 पिन्नूऱु इरङ्गि विडुम्।       ५३५
@@ -279,7 +279,7 @@ Shall rue his folly later on.        535
 पिन्नूऱु इरङ्गि विडुम्।       ५३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३६</summary>
 
 इऴुक्कामै यार्माट्टुम् ऎण्ड्रुम् वऴुक्कामै  
 वायिन् अदुवॊप्पदु इल्।       ५३६
@@ -334,7 +334,7 @@ Miss none; the gain is sans compare.        536
 वायिन् अदुवॊप्पदु इल्।       ५३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३७</summary>
 
 अरियऎण्ड्रु आगाद इल्लैबॊच् चावाक्  
 करुवियाल् पोट्रिच् चॆयिन्।       ५३७
@@ -389,7 +389,7 @@ Impossible there is nothing.        537
 करुवियाल् पोट्रिच् चॆयिन्।       ५३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३८</summary>
 
 पुगऴ्न्दवै पोट्रिच् चॆयल्वेण्डुम् सॆय्यादु  
 इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्।       ५३८
@@ -444,7 +444,7 @@ If not, for seven births no mirth.        538
 इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्।       ५३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३९</summary>
 
 इगऴ्च्चियिन् कॆट्टारै उळ्ळुग तान्दम्  
 मगिऴ्च्चियिन् मैन्दुऱुम् पोऴ्दु।       ५३९
@@ -499,7 +499,7 @@ Whom negligence has made to fall.        539
 मगिऴ्च्चियिन् मैन्दुऱुम् पोऴ्दु।       ५३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४०</summary>
 
 उळ्ळियदु ऎय्दल् ऎळिदुमन् मट्रुन्दान्  
 उळ्ळियदु उळ्ळप् पॆऱिन्।       ५४०

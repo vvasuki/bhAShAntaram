@@ -4,7 +4,7 @@ title = "०२ कल्वि"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९१</summary>
 
 कऱ्क कसडऱक् कऱ्पवै कट्रबिन्  
 निऱ्क अदऱ्कुत् तग।      ३९१
@@ -59,7 +59,7 @@ Live by that learning thoroughly.        391
 निऱ्क अदऱ्कुत् तग।      ३९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९२</summary>
 
 ऎण्णॆन्ब एनै ऎऴुत्तॆन्ब इव्विरण् डुम्  
 कण्णॆन्ब वाऴुम् उयिर्क्कु।      ३९२
@@ -114,7 +114,7 @@ Of living kind both are the eyes.        392
 कण्णॆन्ब वाऴुम् उयिर्क्कु।      ३९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९३</summary>
 
 कण्णुडैयर् ऎन्बवर् कट्रोर् मुगत्तिरण्डु  
 पुण्णुडैयर् कल्ला तवर्।      ३९३
@@ -174,7 +174,7 @@ The ignorant two sores of disgrace.        393
 पुण्णुडैयर् कल्ला तवर्।      ३९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९४</summary>
 
 उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्  
 अनैत्ते पुलवर् तॊऴिल्।      ३९४
@@ -229,7 +229,7 @@ Of learned men this is the art.        394
 अनैत्ते पुलवर् तॊऴिल्।      ३९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९५</summary>
 
 उडैयार्मुन् इल्लार्बोल् एक्कट्रुङ् गट्रार्  
 कडैयरे कल्ला तवर्।      ३९५
@@ -284,7 +284,7 @@ For knowledge: the low never learn.        395
 कडैयरे कल्ला तवर्।      ३९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९६</summary>
 
 तॊट्टनैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्  
 कट्रनैत् तूऱुम् अऱिवु।       ३९६
@@ -339,7 +339,7 @@ As deep you learn the knowledge grows.        396
 कट्रनैत् तूऱुम् अऱिवु।       ३९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९७</summary>
 
 यादानुम् नाडामाल् ऊरामाल् ऎन्नॊरुवन्  
 सान्दुणैयुङ् गल्लाद वाऱु।      ३९७
@@ -399,7 +399,7 @@ Why not till death learning go on!        397
 सान्दुणैयुङ् गल्लाद वाऱु।      ३९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९८</summary>
 
 ऒरुमैक्कण् तान् कट्र कल्वि ऒरुवऱ्कु  
 ऎऴुमैयुम् एमाप् पुडैत्तु।      ३९८
@@ -454,7 +454,7 @@ Exalts man upto his seventh.        398
 ऎऴुमैयुम् एमाप् पुडैत्तु।      ३९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ३९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९९</summary>
 
 तामिन् पुऱुवदु उलगिन् पुऱक् कण्डु  
 कामुऱुवर् कट्रऱिन् दार्।       ३९९
@@ -509,7 +509,7 @@ On seeing the world enjoy their lore.        399
 कामुऱुवर् कट्रऱिन् दार्।       ३९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४००</summary>
 
 केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु  
 माडल्ल मट्रै यवै।       ४००

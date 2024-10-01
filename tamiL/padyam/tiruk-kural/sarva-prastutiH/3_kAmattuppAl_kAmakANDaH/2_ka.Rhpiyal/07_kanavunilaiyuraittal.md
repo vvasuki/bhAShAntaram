@@ -4,7 +4,7 @@ title = "०७ कनवुनिलैयुरैत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२११</summary>
 
 कादलर् तूदॊडु वन्द कनविनुक्कु  
 यादुसॆय् वेन्गॊल् विरुन्दु।       १२११
@@ -60,7 +60,7 @@ That brings the beloved's love-mission?        1211
 यादुसॆय् वेन्गॊल् विरुन्दु।       १२११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१२</summary>
 
 कयलुण्गण् यानिरप्पत् तुञ्जिऱ्कलन्दार्क्कु  
 उयलुण्मै साट्रुवेन् मन्।      १२१२
@@ -116,7 +116,7 @@ To tell my lover how life I keep.        1212
 उयलुण्मै साट्रुवेन् मन्।      १२१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१३</summary>
 
 ननविनाल् नल्गा तवरैक् कनविनाल्  
 काण्डलिन् उण्डॆन् उयिर्।      १२१३
@@ -171,7 +171,7 @@ I meet in dreams and linger yet.        1213
 काण्डलिन् उण्डॆन् उयिर्।      १२१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१४</summary>
 
 कनविनान् उण्डागुम् कामम् ननविनान्  
 नल्गारै नाडित् तरऱ्कु।       १२१४
@@ -227,7 +227,7 @@ Who in wakeful hours I miss.        1214
 नल्गारै नाडित् तरऱ्कु।       १२१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१५</summary>
 
 ननविनाल् कण्डदूउम् आङ्गे कनवुन्दान्  
 कण्ड पॊऴुदे इनिदु।       १२१५
@@ -283,7 +283,7 @@ Awake- What of seeing him -hence.        1215
 कण्ड पॊऴुदे इनिदु।       १२१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१६</summary>
 
 ननवॆन ऒण्ड्रिल्लै आयिन् कनविनाल्  
 कादलर् नीङ्गलर् मन्।       १२१६
@@ -344,7 +344,7 @@ My lov'r in dreams would nev'r depart        1216
 कादलर् नीङ्गलर् मन्।       १२१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१७</summary>
 
 ननविनाल् नल्गाक् कॊडियार् कनवनाल्  
 ऎन्ऎम्मैप् पीऴिप् पदु।       १२१७
@@ -399,7 +399,7 @@ Adream, ah cruel! he tortures!        1217
 ऎन्ऎम्मैप् पीऴिप् पदु।       १२१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१८</summary>
 
 तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्  
 नॆञ्जत्तर् आवर् विरैन्दु।       १२१८
@@ -455,7 +455,7 @@ Awake he enters quick my heart.        1218
 नॆञ्जत्तर् आवर् विरैन्दु।       १२१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१९</summary>
 
 ननविनाल् नल्गारै नोवर् कनविनाल्  
 कादलर्क् काणा तवर्।      १२१९
@@ -516,7 +516,7 @@ Rue their missing in wakeful hours.        1219
 कादलर्क् काणा तवर्।      १२१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२२०</summary>
 
 ननविनाल् नम्नीत्तार् ऎन्बर् कनविनाल्  
 काणार्गॊल् इव्वू रवर्।      १२२०

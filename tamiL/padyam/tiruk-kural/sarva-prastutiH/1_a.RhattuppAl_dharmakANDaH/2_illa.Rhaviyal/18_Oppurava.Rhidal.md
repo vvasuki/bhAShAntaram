@@ -4,7 +4,7 @@ title = "१८ ऒप्पुरवऱिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २११</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २११</summary>
 
 कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु  
 ऎन् आट्रुङ् गॊल्लो उलगु।       २११
@@ -65,7 +65,7 @@ How can the world recompense rain?        211
 ऎन् आट्रुङ् गॊल्लो उलगु।       २११
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१२</summary>
 
 ताळाट्रित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु  
 वेळाण्मै सॆय्दऱ्पॊरुट्टु।       २१२
@@ -125,7 +125,7 @@ Is meant to serve those who deserve.        212
 वेळाण्मै सॆय्दऱ्पॊरुट्टु।       २१२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१३</summary>
 
 पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे  
 ऒप्पुरविन् नल्ल पिऱ।       २१३
@@ -180,7 +180,7 @@ A greater good than being kind.        213
 ऒप्पुरविन् नल्ल पिऱ।       २१३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१४</summary>
 
 ऒत्त तऱवोन् उयिर्वाऴ्वान् मट्रैयान्  
 सॆत्तारुळ् वैक्कप् पडुम्।       २१४
@@ -236,7 +236,7 @@ Others are deemed as dead in fact.        214
 सॆत्तारुळ् वैक्कप् पडुम्।       २१४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१५</summary>
 
 ऊरुणि नीर्निऱैन् दट्रे उलगवाम्  
 पेरऱि वाळन् तिरु।       २१५
@@ -297,7 +297,7 @@ Is like water that fills a lake.        215
 पेरऱि वाळन् तिरु।       २१५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१६</summary>
 
 पयन्मरम् उळ्ळूर्प् पऴुत्तट्राल् सॆल्वम्  
 नयनुडै यान्गण् पडिन्।       २१६
@@ -352,7 +352,7 @@ Is like town-tree teeming with fruits.        216
 नयनुडै यान्गण् पडिन्।       २१६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१७</summary>
 
 मरुन्दागित् तप्पा मरत्तट्राल् सॆल्वम्  
 पॆरुन्दगै यान्गण् पडिन्।       २१७
@@ -408,7 +408,7 @@ Is a herbal tree that healeth all.        217
 पॆरुन्दगै यान्गण् पडिन्।       २१७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१८</summary>
 
 इडनिल् परुवत्तुम् ऒप्पुरविऱ्कु ऒल्गार्  
 कडनऱि काट्चि यवर्।       २१८
@@ -463,7 +463,7 @@ Their sense of duty never strays.        218
 कडनऱि काट्चि यवर्।       २१८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २१९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१९</summary>
 
 नयनुडैयान् नल्गूर्न्दा नादल् सॆयुम्नीर  
 सॆय्यादु अमैगला वाऱु।       २१९
@@ -524,7 +524,7 @@ Is want of means to give relief.        219
 सॆय्यादु अमैगला वाऱु।       २१९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २२०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२०</summary>
 
 ऒप्पुरवि नाल्वरुम् केडॆनिन् अह्दॊरुवन्  
 विट्रुक्कोळ् तक्क तुडैत्तु।       २२०

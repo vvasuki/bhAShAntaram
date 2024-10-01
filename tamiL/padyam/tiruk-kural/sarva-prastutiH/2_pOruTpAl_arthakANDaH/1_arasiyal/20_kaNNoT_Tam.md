@@ -4,7 +4,7 @@ title = "२० कण्णोट् टम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७१</summary>
 
 कण्णोट्टम् ऎन्नुम् कऴिबॆरुङ् गारिगै  
 उण्मैयान् उण्डिव् वुलगु।       ५७१
@@ -59,7 +59,7 @@ The bounteous dame of benign eyes.        571
 उण्मैयान् उण्डिव् वुलगु।       ५७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७२</summary>
 
 कण्णोट्टत् तुळ्ळदु उलगियल् अह्दिलार्  
 उण्मै निलक्कुप् पॊऱै।       ५७२
@@ -114,7 +114,7 @@ Who lack them are burdens of earth.        572
 उण्मै निलक्कुप् पॊऱै।       ५७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७३</summary>
 
 पण्ऎन्नाम् पाडऱ्कु इयैबिण्ड्रेल् कण्ऎन्नाम्  
 कण्णोट्टम् इल्लाद कण्।       ५७३
@@ -174,7 +174,7 @@ Without gracious looks what are eyes?        573
 कण्णोट्टम् इल्लाद कण्।       ५७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७४</summary>
 
 उळबोल् मुगत्तॆवन् सॆय्युम् अळविनाल्  
 कण्णोट्टम् इल्लाद कण्।       ५७४
@@ -229,7 +229,7 @@ What for are eyes sans measured grace.        574
 कण्णोट्टम् इल्लाद कण्।       ५७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७५</summary>
 
 कण्णिऱ्कु अणिगलम् कण्णोट्टम् अह्दिण्ड्रेल्  
 पुण्णॆण्ड्रु उणरप् पडुम्       ५७५
@@ -289,7 +289,7 @@ Without them they are felt as sore.        575
 पुण्णॆण्ड्रु उणरप् पडुम्       ५७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७६</summary>
 
 मण्णो टियैन्द मरत्तनैयर् कण्णो  
 टियैन्दुगण् णोडा तवर्।       ५७६
@@ -344,7 +344,7 @@ Who don't eye to eye kindness show.        576
 टियैन्दुगण् णोडा तवर्।       ५७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७७</summary>
 
 कण्णोट् टम् इल्लवर् कण्णिलर् कण्णुडैयार्  
 कण्णोट्टम् इन्मैयुम् इल्।       ५७७
@@ -399,7 +399,7 @@ Men of real eyes show benign grace.        577
 कण्णोट्टम् इन्मैयुम् इल्।       ५७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७८</summary>
 
 करुमम् सिदैयामल् कण्णोड वल्लार्क्कु  
 उरिमै उडैत्तिव् वुलगु।       ५७८
@@ -454,7 +454,7 @@ Have right for this earth beautiful.        578
 उरिमै उडैत्तिव् वुलगु।       ५७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७९</summary>
 
 ऒऱुत्ताट्रुम् पण्बिनार् कण्णुम्गण् णोडिप्  
 पॊऱुत्ताट्रुम् पण्बे तलै।       ५७९
@@ -514,7 +514,7 @@ Who vex us is true virtue's phase.        579
 पॊऱुत्ताट्रुम् पण्बे तलै।       ५७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८०</summary>
 
 पॆयक्कण्डुम् नञ्जुण् डमैवर् नयत्तक्क  
 नागरिगम् वेण्डु पवर्।       ५८०

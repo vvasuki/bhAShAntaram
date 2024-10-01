@@ -4,7 +4,7 @@ title = "०१ अमैच्चु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३१</summary>
 
 करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्  
 अरुविनैयुम् माण्डदु अमैच्चु।       ६३१
@@ -63,7 +63,7 @@ Right means, time, mode and rare ventures.        631
 अरुविनैयुम् माण्डदु अमैच्चु।       ६३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३२</summary>
 
 वन्गण् कुडिगात्तल् कट्रऱिदल् आळ्विनैयोडु  
 ऐन्दुडन् माण्डदु अमैच्चु।       ६३२
@@ -124,7 +124,7 @@ Knowledge, firmness and manliness.        632
 ऐन्दुडन् माण्डदु अमैच्चु।       ६३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३३</summary>
 
 पिरित्तलुम् पेणिक् कॊळलुम् पिरिन्दार्प्  
 पॊरुत्तलुम् वल्ल तमैच्चु।       ६३३
@@ -180,7 +180,7 @@ Divides foes and the parted blends.        633
 पॊरुत्तलुम् वल्ल तमैच्चु।       ६३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३४</summary>
 
 तॆरिदलुम् तेर्न्दु सॆयलुम् ऒरुदलैयाच्  
 चॊल्ललुम् वल्लदु अमैच्चु।       ६३४
@@ -236,7 +236,7 @@ Select and say surely one fact.        634
 चॊल्ललुम् वल्लदु अमैच्चु।       ६३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३५</summary>
 
 अऱनऱिन्दु आण्ड्रमैन्द सॊल्लान्ऎञ् ञाण्ड्रुन्  
 दिऱनऱिन्दान् तेर्च्चित् तुणै।       ६३५
@@ -292,7 +292,7 @@ Right wisdom speaks, ever apt in acts.        635
 दिऱनऱिन्दान् तेर्च्चित् तुणै।       ६३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३६</summary>
 
 मदिनुट्पम् नूलोडु उडैयार्क्कु अदिनुट्पम्  
 यावुळ मुन्निऱ्पवै।       ६३६
@@ -353,7 +353,7 @@ The keen in brain with learned love?        636
 यावुळ मुन्निऱ्पवै।       ६३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३७</summary>
 
 सॆयऱ्कै अऱिन्दक् कडैत्तुम् उलगत्तु  
 इयऱ्कै अऱिन्दु सॆयल्।       ६३७
@@ -413,7 +413,7 @@ Act after knowing world's outlooks.        637
 इयऱ्कै अऱिन्दु सॆयल्।       ६३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३८</summary>
 
 अऱिगॊण्ड्रु अऱियान् ऎनिनुम् उऱुदि  
 उऴैयिरुन्दान् कूऱल् कडन्।       ६३८
@@ -468,7 +468,7 @@ Though the ignorant king refutes.        638
 उऴैयिरुन्दान् कूऱल् कडन्।       ६३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३९</summary>
 
 पऴुदॆण्णुम् मन्दिरियिन् पक्कददुळ् तॆव्वोर्  
 ऎऴुबदु कोडि उऱुम्।       ६३९
@@ -523,7 +523,7 @@ Than a minister with mind bitter.        639
 ऎऴुबदु कोडि उऱुम्।       ६३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ६४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४०</summary>
 
 मुऱैप्पडच् चूऴ्न्दुम् मुडिविलवे सॆय्वर्  
 तिऱप्पाडु इलाअ तवर्।       ६४०

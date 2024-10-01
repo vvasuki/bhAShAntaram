@@ -4,7 +4,7 @@ title = "२१ सूदु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३१</summary>
 
 वेण्डऱ्क वॆण्ड्रिडिनुम् सूदिनै वॆण्ड्रदूउम्  
 तूण्डिऱ्पॊन् मीन्विऴुङ्गि अट्रु।       ९३१
@@ -66,7 +66,7 @@ Gulping bait-hook what does fish gain?        931
 तूण्डिऱ्पॊन् मीन्विऴुङ्गि अट्रु।       ९३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३२</summary>
 
 ऒण्ड्रॆय्दि नूऱिऴक्कुम् सूदर्क्कुम् उण्डाङ्गॊल्  
 नण्ड्रॆय्दि वाऴ्वदोर् आऱु।      ९३२
@@ -121,7 +121,7 @@ Who lose a hundred one to gain?        932
 नण्ड्रॆय्दि वाऴ्वदोर् आऱु।      ९३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३३</summary>
 
 उरुळायम् ओवादु कूऱिन् पॊरुळायम्  
 पोऒय्प् पुऱमे पडुम्।      ९३३
@@ -177,7 +177,7 @@ All their fortune will flow to foes.        933
 पोऒय्प् पुऱमे पडुम्।      ९३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३४</summary>
 
 सिऱुमै पलसॆय्दु सीरऴिक्कुम् सूदिन्  
 वऱुमै तरुवदॊण्ड्रु इल्।      ९३४
@@ -232,7 +232,7 @@ Which adds to woes and ruins fame.        934
 वऱुमै तरुवदॊण्ड्रु इल्।      ९३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३५</summary>
 
 कवऱुम् कऴगमुम् कैयुम् तरुक्कि  
 इवऱियार् इल्लागि यार्।      ९३५
@@ -288,7 +288,7 @@ Who sought with glee have come to nought.        935
 इवऱियार् इल्लागि यार्।      ९३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३६</summary>
 
 अगडारार् अल्लल् उऴप्पर्सू तॆन्नुम्  
 मुगडियान् मूडप्पट् टार्।       ९३६
@@ -344,7 +344,7 @@ Suffer grief and want by that vice.        936
 मुगडियान् मूडप्पट् टार्।       ९३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३७</summary>
 
 पऴगिय सॆल्वमुम् पण्बुम् कॆडुक्कुम्  
 कऴगत्तुक् कालै पुगिन्।      ९३७
@@ -400,7 +400,7 @@ Ancestral wealth and virtues end.        937
 कऴगत्तुक् कालै पुगिन्।      ९३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३८</summary>
 
 पॊरुळ् कॆडुत्तुप् पॊय्मेऱ्कॊळीइ अरुळ्गॆडुत्तु  
 अल्लल् उऴप्पिक्कुम् सूदु।       ९३८
@@ -456,7 +456,7 @@ Leads to lies and wretched woes.        938
 अल्लल् उऴप्पिक्कुम् सूदु।       ९३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९३९</summary>
 
 उडैसॆल्वम् ऊण्ऒळि कल्विऎण्ड्रु ऐन्दुम्  
 अडैयावाम् आयङ् गॊळिन्।       ९३९
@@ -511,7 +511,7 @@ In gambler's hand will never thrive.        939
 अडैयावाम् आयङ् गॊळिन्।       ९३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४०</summary>
 
 इऴत्तॊऱूउम् कादलिक्कुम् सूदेबोल् तुन्बम्  
 उऴत्तॊऱूउम् कादट्रु उयिर्।       ९४०

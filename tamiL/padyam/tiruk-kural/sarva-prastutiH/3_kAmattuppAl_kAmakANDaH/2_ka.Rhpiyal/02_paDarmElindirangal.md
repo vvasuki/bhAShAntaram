@@ -4,7 +4,7 @@ title = "०२ पडर्मॆलिन्दिरङ्गल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६१</summary>
 
 मऱैप्पेन्मन् यानिह्दो नोयै इऱैप्पवर्क्कु  
 ऊट्रुनीर् पोल मिगुम्।       ११६१
@@ -59,7 +59,7 @@ How to bear this pain so writhing?        1161
 ऊट्रुनीर् पोल मिगुम्।       ११६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६२</summary>
 
 करत्तलुम् आट्रेन्इन् नोयैनोय् सॆय्दार्क्कु  
 उरैत्तलुम् नाणुत् तरुम्।       ११६२
@@ -114,7 +114,7 @@ For shame to him who caused this pain.        1162
 उरैत्तलुम् नाणुत् तरुम्।       ११६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६३</summary>
 
 काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎन्  
 नोना उडम्बिन् अगत्तु।       ११६३
@@ -169,7 +169,7 @@ Are poised the weights of lust and shame.        1163
 नोना उडम्बिन् अगत्तु।       ११६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६४</summary>
 
 कामक् कडल्मन्नुम् उण्डे अदुनीन्दुम्  
 एमप् पुणैमन्नुम् इल्।       ११६४
@@ -224,7 +224,7 @@ A raft to go across safely.        1164
 एमप् पुणैमन्नुम् इल्।       ११६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६५</summary>
 
 तुप्पिन् ऎवनावर् मन्गॊल् तुयर्वरवु  
 नट्पिनुळ् आट्रु पवर्।       ११६५
@@ -284,7 +284,7 @@ Who in friendship bring me woes!        1165
 नट्पिनुळ् आट्रु पवर्।       ११६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६६</summary>
 
 इन्बम् कडल्मट्रुक् कामम् अह्दडुङ्गाल्  
 तुन्बम् अदनिऱ्पॆरिदु।       ११६६
@@ -339,7 +339,7 @@ But its pangs are more painful.        1166
 तुन्बम् अदनिऱ्पॆरिदु।       ११६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६७</summary>
 
 कामक् कडुम्बुनल् नीन्दिक् करैगाणेन्  
 यामत्तुम् याने उळेन्।       ११६७
@@ -394,7 +394,7 @@ Pining alone in midnight hush.        1167
 यामत्तुम् याने उळेन्।       ११६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६८</summary>
 
 मन्नुयिर् ऎल्लाम् तुयिट्रि अळित्तिरा  
 ऎन्नल्लदु इल्लै तुणै।       ११६८
@@ -504,7 +504,7 @@ Are midnight hours gliding slowly.        1169
 नॆडिय कऴियुम् इरा।       ११६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७०</summary>
 
 उळ्ळम्बोण्ड्रु उळ्वऴिच् चॆल्गिऱ्पिन् वॆळ्ळनीर्  
 नीन्दल मन्नोऎन् कण्।       ११७०

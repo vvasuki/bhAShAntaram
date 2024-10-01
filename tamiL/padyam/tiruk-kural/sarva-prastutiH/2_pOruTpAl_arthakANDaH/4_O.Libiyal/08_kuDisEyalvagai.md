@@ -4,7 +4,7 @@ title = "०८ कुडिसॆयल्वगै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२१</summary>
 
 करुमम् सॆयऒरुवन् कैदूवेन् ऎन्नुम्  
 पॆरुमैयिन् पीडुडैयदु इल्।       १०२१
@@ -61,7 +61,7 @@ Saying "I shall work without slack".        1021
 पॆरुमैयिन् पीडुडैयदु इल्।       १०२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२२</summary>
 
 आळ्विनैयुम् आण्ड्र अऱिवुम् ऎनइरण्डिन्  
 नीळ्विनैयाल् नीळुम् कुडि।      १०२२
@@ -116,7 +116,7 @@ Ardent effort and ripe wisdom.        1022
 नीळ्विनैयाल् नीळुम् कुडि।      १०२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२३</summary>
 
 कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्कुत् तॆय्वम्  
 मडिदट्रुत् तान्मुन् दुऱुम्।      १०२३
@@ -177,7 +177,7 @@ Loin girt up God leads his ways.        1023
 मडिदट्रुत् तान्मुन् दुऱुम्।      १०२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२४</summary>
 
 सूऴामल् ताने मुडिवॆय्दुम् तम्गुडियैत्  
 ताऴादु उञट्रु पवर्क्कु।      १०२४
@@ -233,7 +233,7 @@ No need for plan; their ends will gain.        1024
 ताऴादु उञट्रु पवर्क्कु।      १०२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२५</summary>
 
 कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
 चुट्रमाच् चुट्रुम् उलगु।      १०२५
@@ -289,7 +289,7 @@ People around, his kinship claim.        1025
 चुट्रमाच् चुट्रुम् उलगु।      १०२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२६</summary>
 
 नल्लाण्मै ऎन्बदु ऒरुवऱ्कुत् तान्बिऱन्द  
 इल्लाण्मै आक्किक् कॊळल्।      १०२६
@@ -344,7 +344,7 @@ Are deemed as men of manly worth.        1026
 इल्लाण्मै आक्किक् कॊळल्।      १०२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२७</summary>
 
 अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
 आट्रुवार् मेट्रे पॊऱै।      १०२७
@@ -400,7 +400,7 @@ The home-burden rests on the bold.        1027
 आट्रुवार् मेट्रे पॊऱै।      १०२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२८</summary>
 
 कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु  
 मानङ् गरुदक् कॆडुम्।      १०२८
@@ -456,7 +456,7 @@ Sloth and pride will honour efface.        1028
 मानङ् गरुदक् कॆडुम्।      १०२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२९</summary>
 
 इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
 कुट्र मऱैप्पान् उडम्बु।      १०२९
@@ -512,7 +512,7 @@ Who from mishaps shields his house?        1029
 कुट्र मऱैप्पान् उडम्बु।      १०२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०३०</summary>
 
 इडुक्कण्गाल् कॊण्ड्रिड वीऴुम् अडुत्तूण्ड्रुम्  
 नल्लाळ् इलाद कुडि।      १०३०

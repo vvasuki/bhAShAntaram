@@ -4,7 +4,7 @@ title = "१३ कयमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७१</summary>
 
 मक्कळे पोल्वर् कयवर् अवरन्न  
 ऒप्पारि याङ्गण्ड तिल्।       १०७१
@@ -61,7 +61,7 @@ We have never seen such a sham.        1071
 ऒप्पारि याङ्गण्ड तिल्।       १०७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७२</summary>
 
 नण्ड्रऱि वारिऱ्कयवर् तिरुवुडैयर्  
 नॆञ्जत्तु अवलम् इलर्।       १०७२
@@ -117,7 +117,7 @@ For no care enters their heart or head.        1072
 नॆञ्जत्तु अवलम् इलर्।       १०७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७३</summary>
 
 तेवर् अनैयर् कयवर् अवरुन्दाम्  
 मेवन सॆय्दॊऴुग लान्।       १०७३
@@ -172,7 +172,7 @@ As prompted by their desire do.        1073
 मेवन सॆय्दॊऴुग लान्।       १०७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७४</summary>
 
 अगप्पट्टि आवारैक् काणिन् अवरिन्  
 मिगप्पट्टुच् चॆम्माक्कुम् कीऴ्।       १०७४
@@ -227,7 +227,7 @@ Him he will exceed, exult and smile.        1074
 मिगप्पट्टुच् चॆम्माक्कुम् कीऴ्।       १०७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७५</summary>
 
 अच्चमे कीऴ्गळदु आसारम् ऎच्चम्  
 अवावुण्डेल् उण्डाम् सिऱिदु।      १०७५
@@ -283,7 +283,7 @@ Craving avails a bit below.        1075
 अवावुण्डेल् उण्डाम् सिऱिदु।      १०७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७६</summary>
 
 अऱैबऱै अन्नर् कयवर्दाम् केट्ट  
 मऱैबिऱर्क्कु उय्त्तुरैक्क लान्।       १०७६
@@ -339,7 +339,7 @@ Since other's secrets they proclaim.        1076
 मऱैबिऱर्क्कु उय्त्तुरैक्क लान्।       १०७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७७</summary>
 
 ईर्ङ्गै विदिरार् कयवर् कॊडिऱुडैक्कुम्  
 कून्गैयर् अल्ला तवर्क्कु।       १०७७
@@ -400,7 +400,7 @@ But for fists clenched their jaws to break.        1077
 कून्गैयर् अल्ला तवर्क्कु।       १०७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७८</summary>
 
 सॊल्लप् पयन्बडुवर् साण्ड्रोर् करुम्बुबोल्  
 कॊल्लप् पयन्बडुम् कीऴ्।       १०७८
@@ -456,7 +456,7 @@ The cane-like base when crushed and killed.        1078
 कॊल्लप् पयन्बडुम् कीऴ्।       १०७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७९</summary>
 
 उडुप्पदूउम् उण्बदूउम् काणिन् पिऱर्मेल्  
 वडुक्काण वट्रागुम् कीऴ्।       १०७९
@@ -512,7 +512,7 @@ On seeing how they eat and dress.        1079
 वडुक्काण वट्रागुम् कीऴ्।       १०७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १०८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८०</summary>
 
 ऎट्रिऱ्कुरियर् कयवरॊण्ड्रु उट्रक्काल्  
 विट्रऱ्कु उरियर् विरैन्दु।       १०८०

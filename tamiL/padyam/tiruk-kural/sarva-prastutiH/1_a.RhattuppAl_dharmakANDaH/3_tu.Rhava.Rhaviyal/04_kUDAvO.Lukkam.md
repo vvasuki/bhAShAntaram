@@ -4,7 +4,7 @@ title = "०४ कूडावॊऴुक्कम्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७१</summary>
 
 वञ्ज मनत्तान् पडिट्रॊऴुक्कम् पूदङ्गळ्  
 ऐन्दुम् अगत्ते नगुम्।      २७१
@@ -59,7 +59,7 @@ Of a sly hypocrite within laugh.        271
 ऐन्दुम् अगत्ते नगुम्।      २७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७२</summary>
 
 वानुयर् तोट्रम् ऎवन्सॆय्युम् तन्नॆञ्जम्  
 तान्अऱि कुट्रप् पडिन्।      २७२
@@ -115,7 +115,7 @@ When guild the conscience gnaws and knows.        272
 तान्अऱि कुट्रप् पडिन्।      २७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७३</summary>
 
 वलियिल् निलैमैयान् वल्लुरुवम् पॆट्रम्  
 पुलियिन्दोल् पोर्त्तुमेय्न् दट्रु।      २७३
@@ -171,7 +171,7 @@ Seems a grazer with tiger skin.        273
 पुलियिन्दोल् पोर्त्तुमेय्न् दट्रु।      २७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७४</summary>
 
 तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु  
 वेट्टुवन् पुळ्सिमिऴ्त् तट्रु।      २७४
@@ -227,7 +227,7 @@ Fowlers in ambush birds to strike.        274
 वेट्टुवन् पुळ्सिमिऴ्त् तट्रु।      २७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७५</summary>
 
 पट्रट्रेम् ऎन्बार् पडिट्रॊऴुक्कम् ऎट्रॆट्रॆण्ड्रु  
 एदम् पलवुन् दरुम्।      २७५
@@ -283,7 +283,7 @@ Shall moan "What have we done" with pain.        275
 एदम् पलवुन् दरुम्।      २७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७६</summary>
 
 नॆञ्जिन् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु  
 वाऴ्वारिन् वन्गणार् इल्।      २७६
@@ -338,7 +338,7 @@ Cheating the world without restraint.        276
 वाऴ्वारिन् वन्गणार् इल्।      २७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७७</summary>
 
 पुऱङ्गुण्ड्रि कण्डनैय रेनुम् अगङ्गुण्ड्रि  
 मुक्किऱ्करियार् उडैत्तु।      २७७
@@ -399,7 +399,7 @@ Black like its nose his inward hue.        277
 मुक्किऱ्करियार् उडैत्तु।      २७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७८</summary>
 
 मनत्तदु मासाग माण्डार् नीराडि  
 मऱैन्दॊऴुगु मान्दर् पलर्।      २७८
@@ -455,7 +455,7 @@ Hiding sins in showy extremes.        278
 मऱैन्दॊऴुगु मान्दर् पलर्।      २७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७९</summary>
 
 कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गन्न  
 विनैबडु पालाल् कॊळल्।      २७९
@@ -516,7 +516,7 @@ Strait arrow kills, bent lute but charms.        279
 विनैबडु पालाल् कॊळल्।      २७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८०</summary>
 
 मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्  
 पऴित्तदु ऒऴित्तु विडिन्।      २८०

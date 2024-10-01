@@ -4,7 +4,7 @@ title = "०८ सिट्रिनञ्जेरामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५१</summary>
 
 सिट्रिनम् अञ्जुम् पॆरुमै सिऱुमैदान्  
 सुट्रमाच् चूऴ्न्दु विडुम्।       ४५१
@@ -59,7 +59,7 @@ The mean hold them as kinsmen dear.        451
 सुट्रमाच् चूऴ्न्दु विडुम्।       ४५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५२</summary>
 
 निलत्तियल्बाल् नीर्दिरिन् दट्रागुम् मान्दर्क्कु  
 इनत्तियल्ब तागुम् अऱिवु।       ४५२
@@ -119,7 +119,7 @@ With mates changes the mental state.        452
 इनत्तियल्ब तागुम् अऱिवु।       ४५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५३</summary>
 
 मनत्तानाम् मान्दर्क् कुणर्च्चि इनत्तानाम्  
 इन्नान् ऎनप्पडुञ् जॊल्।       ४५३
@@ -174,7 +174,7 @@ The worth of man upon his friend.        453
 इन्नान् ऎनप्पडुञ् जॊल्।       ४५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५४</summary>
 
 मनत्तु ळदुबोलक् काट्टि ऒरुवऱ्कु  
 इनत्तुळ तागुम् अऱिवु।       ४५४
@@ -229,7 +229,7 @@ But it truly flows from the kind.        454
 इनत्तुळ तागुम् अऱिवु।       ४५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५५</summary>
 
 मनन्दूय्मै सॆय्विनै तूय्मै इरण्डुम्  
 इनन्दूय्मै तूवा वरुम्।       ४५५
@@ -284,7 +284,7 @@ Comes from good company indeed.        455
 इनन्दूय्मै तूवा वरुम्।       ४५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५६</summary>
 
 मनन्दूयार्क् कॆच्चम्नन् ऱागुम् इनन्दूयार्क्कु  
 इल्लैनन् ऱागा विनै।       ४५६
@@ -339,7 +339,7 @@ Pure friendship acts with victory.        456
 इल्लैनन् ऱागा विनै।       ४५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५७</summary>
 
 मननलम् मन्नुयिर्क् काक्कम् इननलम्  
 ऎल्लाप् पुगऴुम् तरुम्।       ४५७
@@ -394,7 +394,7 @@ Good friendship fosters fame again.        457
 ऎल्लाप् पुगऴुम् तरुम्।       ४५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५८</summary>
 
 मननलम् नन्गुडैय रायिनुम् साण्ड्रोर्क्कु  
 इननलम् एमाप् पुडैत्तु।       ४५८
@@ -449,7 +449,7 @@ In friends of worth a new strength find.        458
 इननलम् एमाप् पुडैत्तु।       ४५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५९</summary>
 
 मननलत्तिन् आगुम् मऱुमैमऱ्ऱह्दुम्  
 इननलत्तिन् एमाप् पुडैत्तु।       ४५९
@@ -504,7 +504,7 @@ Good company gains strength to this.        459
 इननलत्तिन् एमाप् पुडैत्तु।       ४५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६०</summary>
 
 नल्लिनत्ति नूङ्गुन् दुणैयिल्लै तीयिनत्तिन्  
 अल्लऱ्पडुप्पदूउम् इल्।       ४६०

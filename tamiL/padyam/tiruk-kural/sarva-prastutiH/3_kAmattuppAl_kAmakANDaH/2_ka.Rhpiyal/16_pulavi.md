@@ -4,7 +4,7 @@ title = "१६ पुलवि"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०१</summary>
 
 पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
 अल्लल्नोय् काण्गम् सिऱिदु।       १३०१
@@ -65,7 +65,7 @@ We can see his distress a bit.        1301
 अल्लल्नोय् काण्गम् सिऱिदु।       १३०१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०२</summary>
 
 उप्पमैन् दट्राल् पुलवि अदुसिऱिदु  
 मिक्कट्राल् नीळ विडल्।       १३०२
@@ -126,7 +126,7 @@ Too much of it spoils the taste.        1302
 मिक्कट्राल् नीळ विडल्।       १३०२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०३</summary>
 
 अलन्दारै अल्लल्नोय् सॆय्दट्राल् तम्मैप्  
 पुलन्दारैप् पुल्ला विडल्।       १३०३
@@ -182,7 +182,7 @@ Is to grieve the one sorely grieved.        1303
 पुलन्दारैप् पुल्ला विडल्।       १३०३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०४</summary>
 
 ऊडि यवरै उणरामै वाडिय  
 वळ्ळि मुदलरिन् दट्रु।       १३०४
@@ -238,7 +238,7 @@ Is to cut the fading plant at root.        1304
 वळ्ळि मुदलरिन् दट्रु।       १३०४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०५</summary>
 
 नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै  
 पूअन्न कण्णार् अगत्तु।       १३०५
@@ -294,7 +294,7 @@ To pure good mates a lovely grace.        1305
 पूअन्न कण्णार् अगत्तु।       १३०५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०६</summary>
 
 तुनियुम् पुलवियुम् इल्लायिन् कामम्  
 कनियुम् करुक्कायुम् अट्रु।       १३०६
@@ -350,7 +350,7 @@ Misses its ripe and unripe fruits.        1306
 कनियुम् करुक्कायुम् अट्रु।       १३०६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०७</summary>
 
 ऊडलिन् उण्डाङ्गोर् तुन्बम् पुणर्वदु  
 नीडुव तण्ड्रु कॊल् ऎण्ड्रु।       १३०७
@@ -406,7 +406,7 @@ In lover's pout this leaves a doubt.        1307
 नीडुव तण्ड्रु कॊल् ऎण्ड्रु।       १३०७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०८</summary>
 
 नोदल् ऎवन्मट्रु नॊन्दारॆण्ड्रु अह्दऱियुम्  
 कादलर् इल्ला वऴि।       १३०८
@@ -461,7 +461,7 @@ When concious lover is not present?        1308
 कादलर् इल्ला वऴि।       १३०८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३०९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३०९</summary>
 
 नीरुम् निऴलदु इनिदे पुलवियुम्  
 वीऴुनर् कण्णे इनिदु।       १३०९
@@ -516,7 +516,7 @@ And sulking in souls of psychic love.        1309
 वीऴुनर् कण्णे इनिदु।       १३०९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १३१०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१०</summary>
 
 ऊडल् उणङ्ग विडुवारोडु ऎन्नॆञ्जम्  
 कूडुवेम् ऎन्बदु अवा।       १३१०

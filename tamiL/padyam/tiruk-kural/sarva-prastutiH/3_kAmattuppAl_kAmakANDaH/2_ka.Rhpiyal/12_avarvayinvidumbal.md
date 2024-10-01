@@ -4,7 +4,7 @@ title = "१२ अवर्वयिन्विदुम्बल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६१</summary>
 
 वाळट्रुप् पुऱ्कॆण्ड्र कण्णुम् अवर्सॆण्ड्र  
 नाळॊट्रित् तेय्न्द विरल्।       १२६१
@@ -60,7 +60,7 @@ Worn fingers count days since he left.        1261
 नाळॊट्रित् तेय्न्द विरल्।       १२६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६२</summary>
 
 इलङ्गिऴाय् इण्ड्रु मऱप्पिन्ऎन् तोळ्मेल्  
 कलङ्गऴियुम् कारिगै नीत्तु।       १२६२
@@ -121,7 +121,7 @@ Why not forget him now, bright maid?        1262
 कलङ्गऴियुम् कारिगै नीत्तु।       १२६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६३</summary>
 
 उरन्नसैइ उळ्ळम् तुणैयागच् चॆण्ड्रार्  
 वरल्नसैइ इन्नुम् उळेन्।       १२६३
@@ -182,7 +182,7 @@ Yet I live-to see him again.        1263
 वरल्नसैइ इन्नुम् उळेन्।       १२६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६४</summary>
 
 कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्  
 कोडुगॊ टेऱुमॆन् नॆञ्जु।       १२६४
@@ -243,7 +243,7 @@ His retun with love to embrace me.        1264
 कोडुगॊ टेऱुमॆन् नॆञ्जु।       १२६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६५</summary>
 
 काण्गमन् कॊण्गनैक् कण्णारक् कण्डबिन्  
 नीङ्गुम्ऎन् मॆन्दोळ् पसप्पु।       १२६५
@@ -299,7 +299,7 @@ sallow on my soft shoulders flies.        1265
 नीङ्गुम्ऎन् मॆन्दोळ् पसप्पु।       १२६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६६</summary>
 
 वरुगमन् कॊण्गन् ऒरुनाळ् परुगुवन्  
 पैदल्नोय् ऎल्लाम् कॆड।      १२६६
@@ -355,7 +355,7 @@ Joy-drink shall drive my pain away.        1266
 पैदल्नोय् ऎल्लाम् कॆड।      १२६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६७</summary>
 
 पुलप्पेन्गॊल् पुल्लुवेन् कॊल्लो कलप्पेन्गॊल्  
 कण्अन्न केळिर् विरन्।       १२६७
@@ -411,7 +411,7 @@ Shall I sulk or clasp or do both?        1267
 कण्अन्न केळिर् विरन्।       १२६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६८</summary>
 
 विनैगलन्दु वॆण्ड्रीग वेन्दन् मनैगलन्दु  
 मालै अयर्गम् विरुन्दु।       १२६८
@@ -467,7 +467,7 @@ And with my wife I will feast this eve!        1268
 मालै अयर्गम् विरुन्दु।       १२६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६९</summary>
 
 ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुम्सेण् सॆण्ड्रार्  
 वरुनाळ्वैत्तु एङ्गु पवर्क्कु।       १२६९
@@ -523,7 +523,7 @@ Who yearn return of distant spouse.        1269
 वरुनाळ्वैत्तु एङ्गु पवर्क्कु।       १२६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १२७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२७०</summary>
 
 पॆऱिन्ऎन्नाम् पॆट्रक्काल् ऎन्नाम् उऱिनॆन्नाम्  
 उळ्ळम् उडैन्दुक्कक् काल्।       १२७०

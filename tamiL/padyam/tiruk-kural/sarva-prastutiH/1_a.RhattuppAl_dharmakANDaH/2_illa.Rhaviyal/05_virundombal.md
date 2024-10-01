@@ -4,7 +4,7 @@ title = "०५ विरुन्दोम्बल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१</summary>
 
 इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि  
 वेळाण्मै सॆय्दऱ्पॊरुट्टु।      ८१
@@ -64,7 +64,7 @@ To tend the guests and do good turn.         81
 वेळाण्मै सॆय्दऱ्पॊरुट्टु।      ८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२</summary>
 
 विरुन्दु पुऱत्तदात् तानुण्डल् सावा  
 मरुन्दॆनिनुम् वेण् डऱ्पाऱ्ऱण्ड्रु।      ८२
@@ -119,7 +119,7 @@ Albeit you eat nectar-like food.         82
 मरुन्दॆनिनुम् वेण् डऱ्पाऱ्ऱण्ड्रु।      ८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३</summary>
 
 वरुविरुन्दु वैगलुम् ओम्बुवान् वाऴ्क्कै  
 परुवन्दु पाऴ्बडुदल् इण्ड्रु।      ८३
@@ -174,7 +174,7 @@ His life in want never wears out.         83
 परुवन्दु पाऴ्बडुदल् इण्ड्रु।      ८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४</summary>
 
 अगनमर्न्दु सॆय्याळ् उऱैयुम् मुगनमर्न्दु  
 नल्विरुन्दु ओम्बुवान् इल्।      ८४
@@ -229,7 +229,7 @@ Where smiles welcome the worthy guest.         84
 नल्विरुन्दु ओम्बुवान् इल्।      ८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५</summary>
 
 वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि  
 मिच्चिल् मिसैवान् पुलम्।      ८५
@@ -284,7 +284,7 @@ Feeds the guests and eats the rest?         85
 मिच्चिल् मिसैवान् पुलम्।      ८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६</summary>
 
 सॆल्विरुन्दु ओम्बि वरुविरुन्दु पार्त्तिरुप्पान्  
 नल्वरुन्दु वानत् तवर्क्कु।      ८६
@@ -339,7 +339,7 @@ Is a welcome guest in heaven's feast.         86
 नल्वरुन्दु वानत् तवर्क्कु।      ८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७</summary>
 
 इनैत्तुणैत् तॆन्बदॊन् ऱिल्लै विरुन्दिन्  
 तुणैत्तुणै वेळ्विप् पयन्।      ८७
@@ -399,7 +399,7 @@ Is worth of hospitality.         87
 तुणैत्तुणै वेळ्विप् पयन्।      ८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८</summary>
 
 परिन्दोम्बिप् पट्रट्रेम् ऎन्बर् विरुन्दोम्बि  
 वेळ्वि तलैप्पडा तार्।      ८८
@@ -459,7 +459,7 @@ Who loathe guest-service one day cry:
 वेळ्वि तलैप्पडा तार्।      ८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९</summary>
 
 उडैमैयुळ् इन्मै विरुन्दोम्बल् ओम्बा  
 मडमै मडवार्गण् उण्डु।      ८९
@@ -514,7 +514,7 @@ Whose folly fails the guest to feed.         89
 मडमै मडवार्गण् उण्डु।      ८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९०</summary>
 
 मोप्पक् कुऴैयुम् अनिच्चम् मुगन्दिरिन्दु  
 नोक्कक् कुनऴ्युम् विरुन्दु।      ९०

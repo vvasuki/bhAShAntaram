@@ -4,7 +4,7 @@ title = "०५ कळ्ळामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८१</summary>
 
 ऎळ्ळामै वेण्डुवान् ऎन्बान् ऎनैत्तॊण्ड्रुम्  
 कळ्ळामै काक्कदन् नॆञ्जु।      २८१
@@ -60,7 +60,7 @@ From all frauds guard his conscience free.        281
 कळ्ळामै काक्कदन् नॆञ्जु।      २८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८२</summary>
 
 उळ्ळत्ताल् उळ्ळलुम् तीदे पिऱन्बॊरुळैक्  
 कळ्ळत्ताल् कळ्वेम् ऎनल्।      २८२
@@ -116,7 +116,7 @@ Even this thought is sin and stealth.        282
 कळ्ळत्ताल् कळ्वेम् ऎनल्।      २८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८३</summary>
 
 कळविनाल् आगिय आक्कम् अळविऱन्दु  
 आवदु पोलक् कॆडुम्।      २८३
@@ -171,7 +171,7 @@ But swift to ruin it shall go.        283
 आवदु पोलक् कॆडुम्।      २८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८४</summary>
 
 कळविन्गण् कण्ड्रिय कादल् विळैविन्गण्  
 वीया विऴुमम् तरुम्।      २८४
@@ -226,7 +226,7 @@ Shall end in endless grief and pain.        284
 वीया विऴुमम् तरुम्।      २८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८५</summary>
 
 अरुळ्गरुदि अन्बुडैय रादल् पॊरुळ्गरुदिप्  
 पॊच्चाप्पुप् पार्प्पार्गण् इल्।      २८५
@@ -282,7 +282,7 @@ Who watch to waylay dozer's wealth.        285
 पॊच्चाप्पुप् पार्प्पार्गण् इल्।      २८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८६</summary>
 
 अळविन्गण् निण्ड्रॊऴुगल् आट्रार् कळविन्गण्  
 कण्ड्रिय काद लवर्।      २८६
@@ -337,7 +337,7 @@ who crave and have covetous ends.        286
 कण्ड्रिय काद लवर्।      २८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८७</summary>
 
 कळवॆन्नुम् कारऱि वाण्मै अळवॆन्नुम्  
 आट्रल् पुरिन्दार्गण्ड इल्।       २८७
@@ -392,7 +392,7 @@ Black art of fraud and what it won.        287
 आट्रल् पुरिन्दार्गण्ड इल्।       २८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८८</summary>
 
 अळवऱान्दार् नॆञ्जत् तऱम्बोल निऱ्कुम्  
 कळवऱिन्दार् नॆञ्जिल् करवु।      २८८
@@ -447,7 +447,7 @@ Into minds of frauds deceit darts.        288
 कळवऱिन्दार् नॆञ्जिल् करवु।      २८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८९</summary>
 
 अळवल्ल सॆय्दाङ्गे वीवर् कळवल्ल  
 मट्रैय तेट्रा तवर्।      २८९
@@ -503,7 +503,7 @@ Who know nothing but pilfery.        289
 मट्रैय तेट्रा तवर्।      २८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९०</summary>
 
 कळ्वार्क्कुत् तळ्ळुम् उयिर्निलै कळ्वार्क्कुत्  
 तळ्ळादु पुत्ते ळुळगु।       २९०

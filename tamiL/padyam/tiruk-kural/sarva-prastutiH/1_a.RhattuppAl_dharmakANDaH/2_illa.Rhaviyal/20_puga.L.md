@@ -4,7 +4,7 @@ title = "२० पुगऴ्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३१</summary>
 
 ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
 ऊदियम् इल्लै उयिर्क्कु।      २३१
@@ -59,7 +59,7 @@ The greatest gain for all that live.        231
 ऊदियम् इल्लै उयिर्क्कु।      २३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३२</summary>
 
 उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊण्ड्रु  
 ईवार्मेल् निऱ्कुम् पुगऴ्।       २३२
@@ -114,7 +114,7 @@ Is praised aloud as popular.        232
 ईवार्मेल् निऱ्कुम् पुगऴ्।       २३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३३</summary>
 
 ऒण्ड्रा उलगत्तु उयर्न्द पुगऴल्लाल्  
 पॊण्ड्रादु निऱ्पदॊन् ऱिल्।       २३३
@@ -169,7 +169,7 @@ Saving high fame of the giver!        233
 पॊण्ड्रादु निऱ्पदॊन् ऱिल्।       २३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३४</summary>
 
 निलवरै नीळ्बुगऴ् आट्रिन् पुलवरैप्  
 पोट्रादु पुत्तेळ् उलगु।       २३४
@@ -224,7 +224,7 @@ To hail the men of lasting praise        234
 पोट्रादु पुत्तेळ् उलगु।       २३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३५</summary>
 
 नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
 वित्तगर्क् कल्लाल् अरिदु।       २३५
@@ -279,7 +279,7 @@ Are rare but for the soulful worth.        235
 वित्तगर्क् कल्लाल् अरिदु।       २३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३६</summary>
 
 तोण्ड्रिन् पुगऴॊडु तोण्ड्रुग अह्दिलार्  
 तोण्ड्रलिन् तोण्ड्रामै नण्ड्रु।       २३६
@@ -334,7 +334,7 @@ If not of birth you must not vaunt.        236
 तोण्ड्रलिन् तोण्ड्रामै नण्ड्रु।       २३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३७</summary>
 
 पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
 इगऴ्वारै नोवदु ऎवन्?       २३७
@@ -390,7 +390,7 @@ Of those who cannot live in fame?        237
 इगऴ्वारै नोवदु ऎवन्?       २३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३८</summary>
 
 वसैयॆन्ब वैयत्तार्क् कॆल्लाम् इसैयॆन्नुम्  
 ऎच्चम् पॆऱाअ विडिन्।       २३८
@@ -446,7 +446,7 @@ Not to beget the child of fame.        238
 ऎच्चम् पॆऱाअ विडिन्।       २३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३९</summary>
 
 वसैयिला वण्बयन् कुण्ड्रुम् इसैयिला  
 याक्कै पॊऱुत्त निलम्।       २३९
@@ -501,7 +501,7 @@ O'erburden it without renown.        239
 याक्कै पॊऱुत्त निलम्।       २३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४०</summary>
 
 वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय  
 वाऴ्वारे वाऴा तवर्।       २४०

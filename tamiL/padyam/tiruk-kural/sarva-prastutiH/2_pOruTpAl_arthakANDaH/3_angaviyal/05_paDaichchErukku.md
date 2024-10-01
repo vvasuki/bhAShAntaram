@@ -4,7 +4,7 @@ title = "०५ पडैच्चॆरुक्कु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७१</summary>
 
 ऎन्नैमुन् निल्लन्मिन् तॆव्विर् पलरॆन्नै  
 मुन्निण्ड्रु कल्निन् ऱवर्।       ७७१
@@ -60,7 +60,7 @@ Many who stood, in stones repose.        771
 मुन्निण्ड्रु कल्निन् ऱवर्।       ७७१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७२</summary>
 
 कान मुयलॆय्द अम्बिनिल् यानै  
 पिऴैत्तवेल् एन्दल् इनिदु।       ७७२
@@ -116,7 +116,7 @@ Is prouder than shaft that hit a hare.        772
 पिऴैत्तवेल् एन्दल् इनिदु।       ७७२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७३</summary>
 
 पेराण्मै ऎन्ब तऱुगण्ऒन् ऱुट्रक्काल्  
 ऊराण्मै मट्रदन् ऎह्हु³।       ७७३
@@ -172,7 +172,7 @@ Mercy to the fallen is its edge.        773
 ऊराण्मै मट्रदन् ऎह्हु³।       ७७३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७४</summary>
 
 कैवेल् कळिट्रॊडु पोक्कि वरुबवन्  
 मॆय्वेल् पऱिया नगुम्।       ७७४
@@ -233,7 +233,7 @@ One in body smiles another chance.        774
 मॆय्वेल् पऱिया नगुम्।       ७७४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७५</summary>
 
 विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिन्  
 ऒट्टण्ड्रो वन्ग णवर्क्कु।       ७७५
@@ -289,7 +289,7 @@ When lances dart if heroes wink
 ऒट्टण्ड्रो वन्ग णवर्क्कु।       ७७५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७६</summary>
 
 विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किनुळ्  
 वैक्कुम्दन् नाळै ऎडुत्तु।       ७७६
@@ -345,7 +345,7 @@ Which did not battle-wounds sustain.        776
 वैक्कुम्दन् नाळै ऎडुत्तु।       ७७६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७७</summary>
 
 सुऴलुम् इसैवेण्डि वेण्डा उयिरार्  
 कऴल्याप्पुक् कारिगै नीर्त्तु।       ७७७
@@ -401,7 +401,7 @@ Who sacrifice their life for fame.        777
 कऴल्याप्पुक् कारिगै नीर्त्तु।       ७७७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७८</summary>
 
 उऱिन्उयिर् अञ्जा मऱवर् इऱैवन्  
 सॆऱिनुम् सीर्गुण्ड्रल् इलर्।       ७७८
@@ -457,7 +457,7 @@ They fear loss of glory; not life.        778
 सॆऱिनुम् सीर्गुण्ड्रल् इलर्।       ७७८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७९</summary>
 
 इऴैत्तदु इगवामैच् चावारै यारे  
 पिऴैत्तदु ऒऱुक्किऱ्पवर्।       ७७९
@@ -513,7 +513,7 @@ Their lives in war to keep their vows?        779
 पिऴैत्तदु ऒऱुक्किऱ्पवर्।       ७७९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८०</summary>
 
 पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिन् साक्काडु  
 इरन्दुगोळ् तक्कदु उडैत्तु।       ७८०
@@ -569,7 +569,7 @@ Which draws the tears of the ruler.        780
 </details>
 २,३।६ नट्पु  
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८१</summary>
 
 सॆयऱ्करिय यावुळ नट्पिन् अदुबोल्  
 विनैक्करिय यावुळ काप्पु।      ७८१
@@ -627,7 +627,7 @@ That guards one against acts villain?        781
 विनैक्करिय यावुळ काप्पु।      ७८१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८२</summary>
 
 निऱैनीर नीरवर् केण्मै पिऱैमदिप्  
 पिन्नीर पेदैयार् नट्पु।       ७८२
@@ -682,7 +682,7 @@ The bad withers like waning moon.        782
 पिन्नीर पेदैयार् नट्पु।       ७८२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८३</summary>
 
 नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्  
 पण्बुडै याळर् तॊडर्बु।       ७८३
@@ -737,7 +737,7 @@ The more one moves the more he knows.        783
 पण्बुडै याळर् तॊडर्बु।       ७८३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८४</summary>
 
 नगुदऱ्पॊरुट्टण्ड्रु नट्टल् मिगुदिक्कण्  
 मेऱ्चॆनऱु इडित्तऱ्पॊरुट्टु।       ७८४
@@ -797,7 +797,7 @@ But to hit when faults exceed.        784
 मेऱ्चॆनऱु इडित्तऱ्पॊरुट्टु।       ७८४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८५</summary>
 
 पुणर्च्चि पऴगुदल् वेण्डा उणर्च्चिदान्  
 नट्पाङ् गिऴमै तरुम्।       ७८५
@@ -852,7 +852,7 @@ Friendship's feeling heart's fellowship.        785
 नट्पाङ् गिऴमै तरुम्।       ७८५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८६</summary>
 
 मुगनग नट्पदु नट्पण्ड्रु नॆञ्जत्तु  
 अगनग नट्पदु नट्पु।       ७८६
@@ -912,7 +912,7 @@ It is the smiling heart's embrace.        786
 अगनग नट्पदु नट्पु।       ७८६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८७</summary>
 
 अऴिवि नवैनीक्कि आऱुय्त्तु अऴिविन्गण्  
 अल्लल् उऴप्पदाम् नट्पु।       ७८७
@@ -967,7 +967,7 @@ The load of pain and right path shows.        787
 अल्लल् उऴप्पदाम् नट्पु।       ७८७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८८</summary>
 
 उडुक्कै इऴन्दवन् कैबोल आङ्गे  
 इडुक्कण् कळैवदाम् नट्पु।       ७८८
@@ -1022,7 +1022,7 @@ Like hands picking up dress that slips.        788
 इडुक्कण् कळैवदाम् नट्पु।       ७८८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७८९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८९</summary>
 
 नट्पिऱ्कु वीट्रिरुक्कै यादॆनिन् कॊट्पिण्ड्रि  
 ऒल्लुम्वाय् ऊण्ड्रुम् निलै।       ७८९
@@ -1077,7 +1077,7 @@ That always helps with utmost warmth.        789
 ऒल्लुम्वाय् ऊण्ड्रुम् निलै।       ७८९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७९०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९०</summary>
 
 इनैयर् इवरॆमक्कु इन्नम्याम् ऎण्ड्रु  
 पुनैयिनुम् पुल्लॆन्नुम् नट्पु।       ७९०

@@ -4,7 +4,7 @@ title = "०४ पडैमाट्चि"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६१</summary>
 
 उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दन्  
 वॆऱुक्कैयुळ् ऎल्लाम् तलै।       ७६१
@@ -61,7 +61,7 @@ Is king's treasure and main resource.        761
 वॆऱुक्कैयुळ् ऎल्लाम् तलै।       ७६१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६२</summary>
 
 उलैविडत्तु ऊऱञ्जा वन्गण् तॊलैविडत्तुत्  
 तॊल्बडैक् कल्लाल् अरिदु।       ७६२
@@ -122,7 +122,7 @@ Quailing not in fall, the field.        762
 तॊल्बडैक् कल्लाल् अरिदु।       ७६२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६३</summary>
 
 ऒलित्तक्काल् ऎन्नाम् उवरि ऎलिप्पगै  
 नागम् उयिर्प्पक् कॆडुम्।       ७६३
@@ -178,7 +178,7 @@ They perish at a cobra's whiff.        763
 नागम् उयिर्प्पक् कॆडुम्।       ७६३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६४</summary>
 
 अऴिविण्ड्रि अऱैबोगा तागि वऴिवन्द  
 वन्ग णदुवे पडै।       ७६४
@@ -234,7 +234,7 @@ Not crushed, routed nor marred in name.        764
 वन्ग णदुवे पडै।       ७६४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६५</summary>
 
 कूट्रुडण्ड्रु मेल्वरिनुम् कूडि ऎदिर्निऱ्कुम्  
 आट्र लदुवे पडै।       ७६५
@@ -289,7 +289,7 @@ Resists even Death-God fierce.        765
 आट्र लदुवे पडै।       ७६५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६६</summary>
 
 मऱमानम् माण्ड वऴिच्चॆलवु तेट्रम्  
 ऎननान्गे एमम् पडैक्कु।       ७६६
@@ -345,7 +345,7 @@ Stately-march, faith, honour, valour.        766
 ऎननान्गे एमम् पडैक्कु।       ७६६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६७</summary>
 
 तार्दाङ्गिच् चॆल्वदु तानै तलैवन्द  
 पोर्दाङ्गुम् तन्मै अऱिन्दु।       ७६७
@@ -401,7 +401,7 @@ Knowing how the trend of war goes.        767
 पोर्दाङ्गुम् तन्मै अऱिन्दु।       ७६७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६८</summary>
 
 अडल्दगैयुम् आट्रलुम् इल्लॆनिनुम् तानै  
 पडैत्तगैयाल् पाडु पॆऱुम्।       ७६८
@@ -457,7 +457,7 @@ Lacking in stay or dash in fray.        768
 पडैत्तगैयाल् पाडु पॆऱुम्।       ७६८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७६९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६९</summary>
 
 सिऱुमैयुम् सॆल्लात् तुनियुम् वऱुमैयुम्  
 इल्लायिन् वॆल्लुम् पडै।       ७६९
@@ -512,7 +512,7 @@ From weakness, aversion, poverty.        769
 इल्लायिन् वॆल्लुम् पडै।       ७६९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७७०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७०</summary>
 
 निलैमक्कळ् साल उडैत्तॆनिनुम् तानै  
 तलैमक्कळ् इल्वऴि इल्।       ७७०

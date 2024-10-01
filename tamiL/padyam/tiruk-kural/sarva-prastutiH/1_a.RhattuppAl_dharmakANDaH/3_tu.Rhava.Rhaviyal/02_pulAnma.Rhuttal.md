@@ -4,7 +4,7 @@ title = "०२ पुलान्मऱुत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - २५१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५१</summary>
 
 तन्नून् पॆरुक्कऱ्कुत् तान्बिऱिदु ऊनुण्बान्  
 ऎङ्ङनम् आळुम् अरुळ्?      २५१
@@ -59,7 +59,7 @@ who feeds his flesh by flesh gourmand.        251
 ऎङ्ङनम् आळुम् अरुळ्?      २५१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५२</summary>
 
 पॊरुळाट्चि पोट्रादार्क्कु इल्लै अरुळाट्चि  
 आङ्गिल्लै ऊन्दिन् पवर्क्कु।      २५२
@@ -115,7 +115,7 @@ And flesh-eaters have no pity.        252
 आङ्गिल्लै ऊन्दिन् पवर्क्कु।      २५२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५३</summary>
 
 पडैगॊण्डार् नॆञ्जम्बोल् नन्नूक्कादु ऒण्ड्रन्  
 उडल्सुवै उण्डार् मनम्।      २५३
@@ -176,7 +176,7 @@ Who tastes body is hard-hearted.        253
 उडल्सुवै उण्डार् मनम्।      २५३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५४</summary>
 
 रुळल्लदु यादॆनिन् कॊल्लामै कोऱल्  
 पॊरुळल्लदु अव्वून् तिनल्।      २५४
@@ -232,7 +232,7 @@ To kill and eat is disgraceful.        254
 पॊरुळल्लदु अव्वून् तिनल्।      २५४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५५</summary>
 
 उण्णामै उळ्ळदु उयिर्निलै ऊनुण्ण  
 अण्णात्तल् सॆय्यादु अळऱु।       २५५
@@ -288,7 +288,7 @@ The eater hell's mouth shall not waive!        255
 अण्णात्तल् सॆय्यादु अळऱु।       २५५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५६</summary>
 
 तिनऱ्पॊरुट्टाल् कॊल्लादु उलगॆनिन् यारुम्  
 विलैप्पॊरुट्टाल् ऊण्ड्ररुवा रिल्।      २५६
@@ -349,7 +349,7 @@ For eating it if they don't wish.        256
 विलैप्पॊरुट्टाल् ऊण्ड्ररुवा रिल्।      २५६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५७</summary>
 
 उण्णामै वेण्डुम् पुलाअल् पिऱिदॊण्ड्रन्  
 पुण्णदु उणर्वार्प् पॆऱिन्।      २५७
@@ -404,7 +404,7 @@ If they but feel the being's pain.        257
 पुण्णदु उणर्वार्प् पॆऱिन्।      २५७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५८</summary>
 
 सॆयिरिन् तलैप्पिरिन्द काट्चियार् उण्णार्  
 उयिरिन् तलैप्पिरिन्द ऊन्।      २५८
@@ -459,7 +459,7 @@ Refuse on lifeless flesh to feed.        258
 उयिरिन् तलैप्पिरिन्द ऊन्।      २५८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २५९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५९</summary>
 
 अविसॊरिन् दायिरम् वेट्टलिन् ऒण्ड्रन्  
 उयिर्सॆगुत् तुण्णामै नण्ड्रु।      २५९
@@ -515,7 +515,7 @@ Excels thousand pourings of ghee!        259
 उयिर्सॆगुत् तुण्णामै नण्ड्रु।      २५९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २६०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६०</summary>
 
 कॊल्लान् पुलालै मऱुत्तानैक् कैगूप्पि  
 ऎल्ला उयिरुन् दॊऴुम्।      २६०

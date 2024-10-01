@@ -4,7 +4,7 @@ title = "०६ नाणुत्तुऱवुरैत्तल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३१</summary>
 
 कामम् उऴन्दु वरुन्दिनार्क्कु एमम्  
 मडलल्लदु इल्लै वलि।       ११३१
@@ -64,7 +64,7 @@ Except riding *'palmyra horse'.        1131
 मडलल्लदु इल्लै वलि।       ११३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३२</summary>
 
 नोना उडम्बुम् उयिरुम् मडलेऱुम्  
 नाणिनै नीक्कि निऱुत्तु।       ११३२
@@ -119,7 +119,7 @@ And take to riding of the palm.        1132
 नाणिनै नीक्कि निऱुत्तु।       ११३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३३</summary>
 
 नाणॊडु नल्लाण्मै पण्डुडैयेन् इण्ड्रुडैयेन्  
 कामुट्रार् एऱुम् मडल्।       ११३३
@@ -174,7 +174,7 @@ My love has now Madal only.        1133
 कामुट्रार् एऱुम् मडल्।       ११३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३४</summary>
 
 कामक् कडुम्बुनल् उय्क्कुम् नाणॊडु  
 नल्लाण्मै ऎन्नुम् पुणै।       ११३४
@@ -229,7 +229,7 @@ The raft of shame and firmness, aye!        1134
 नल्लाण्मै ऎन्नुम् पुणै।       ११३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३५</summary>
 
 तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु  
 मालै उऴक्कुम् तुयर्।       ११३५
@@ -285,7 +285,7 @@ Are gifts of wreath-like bracelet maid.        1135
 मालै उऴक्कुम् तुयर्।       ११३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३६</summary>
 
 मडलूर्दल् यामत्तुम् उळ्ळुवेन् मण्ड्र  
 पडल्ऒल्ला पेदैक्कॆन् कण्।       ११३६
@@ -340,7 +340,7 @@ My eyes sleep not seeing this fair.        1136
 पडल्ऒल्ला पेदैक्कॆन् कण्।       ११३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३७</summary>
 
 कडलन्न कामम् उऴन्दुम् मडलेऱाप्  
 पॆण्णिन् पॆरुन्दक्क तिल्।       ११३७
@@ -395,7 +395,7 @@ Serene is woman's self control.        1137
 पॆण्णिन् पॆरुन्दक्क तिल्।       ११३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३८</summary>
 
 निऱैयरियर् मन्अळियर् ऎन्नादु कामम्  
 मऱैयिऱन्दु मण्ड्रु पडुम्।       ११३८
@@ -450,7 +450,7 @@ Though women are highly soft and chaste.        1138
 मऱैयिऱन्दु मण्ड्रु पडुम्।       ११३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३९</summary>
 
 अऱिगिलार् ऎल्लारुम् ऎण्ड्रेऎन् कामम्  
 मऱुगिन् मऱुगुम् मरुण्डु।       ११३९
@@ -505,7 +505,7 @@ Believing that none knows its secret.        1139
 मऱुगिन् मऱुगुम् मरुण्डु।       ११३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ११४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४०</summary>
 
 याम्गण्णिन् काण नगुब अऱिविल्लार्  
 याम्बट्ट ताम्बडा आऱु।       ११४०

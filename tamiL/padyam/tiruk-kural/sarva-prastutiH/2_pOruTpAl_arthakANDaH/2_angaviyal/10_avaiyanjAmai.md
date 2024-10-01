@@ -4,7 +4,7 @@ title = "१० अवैयञ्जामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२१</summary>
 
 वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिन्  
 तॊगैयऱिन्द तूय्मै यवर्।       ७२१
@@ -61,7 +61,7 @@ Knowing grand council's moods and modes.        721
 तॊगैयऱिन्द तूय्मै यवर्।       ७२१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२२</summary>
 
 कट्रारुळ् कट्रार् ऎनप्पडुवर् कट्रार्मुन्  
 कट्र सॆलच्चॊल्लु वार्।       ७२२
@@ -117,7 +117,7 @@ Who holds scholars with learned lore.        722
 कट्र सॆलच्चॊल्लु वार्।       ७२२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२३</summary>
 
 पगैयगत्तुच् चावार् ऎळियर् अरियर्  
 अवैयगत्तु अञ्जा तवर्।       ७२३
@@ -173,7 +173,7 @@ The fearless few face wise councils.        723
 अवैयगत्तु अञ्जा तवर्।       ७२३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२४</summary>
 
 कट्रार्मुन् कट्र सॆलच्चॊल्लित् ताम्गट्र  
 मिक्कारुळ् मिक्क कॊळल्।       ७२४
@@ -229,7 +229,7 @@ From greater savants learn still more.        724
 मिक्कारुळ् मिक्क कॊळल्।       ७२४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२५</summary>
 
 आट्रिन् अळवऱिन्दु कऱ्क अवैयञ्जा  
 माट्रङ् गॊडुत्तऱ्पॊरुट्टु।       ७२५
@@ -285,7 +285,7 @@ Foes you can boldly retort.        725
 माट्रङ् गॊडुत्तऱ्पॊरुट्टु।       ७२५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२६</summary>
 
 वाळॊडॆन् वन्गण्णर् अल्लार्क्कु नूलॊडॆन्  
 नुण्णवै अञ्जु पवर्क्कु।       ७२६
@@ -341,7 +341,7 @@ And books to those who councils fail?        726
 नुण्णवै अञ्जु पवर्क्कु।       ७२६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२७</summary>
 
 पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु  
 अञ्जु मवन्गट्र नूल्।       ७२७
@@ -401,7 +401,7 @@ His lore who fears men of brain.        727
 अञ्जु मवन्गट्र नूल्।       ७२७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२८</summary>
 
 पल्लवै कट्रुम् पयमिलरे नल्लवैयुळ्  
 नन्गु सॆलच्चॊल्ला तार्।       ७२८
@@ -457,7 +457,7 @@ Who says no good before the good.        728
 नन्गु सॆलच्चॊल्ला तार्।       ७२८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७२९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२९</summary>
 
 कल्ला तवरिन् कडैयॆन्ब कट्रऱिन्दुम्  
 नल्ला रवैयञ्जु वार्।       ७२९
@@ -513,7 +513,7 @@ Are learned idiots, certainly.        729
 नल्ला रवैयञ्जु वार्।       ७२९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ७३०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३०</summary>
 
 उळरॆनिनुम् इल्लारॊडु ऒप्पर् कळन्अञ्जिक्  
 कट्र सॆलच्चॊल्ला तार्।       ७३०

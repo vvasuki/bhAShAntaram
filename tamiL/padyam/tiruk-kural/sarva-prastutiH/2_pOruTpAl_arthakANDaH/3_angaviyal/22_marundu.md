@@ -4,7 +4,7 @@ title = "२२ मरुन्दु"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४१</summary>
 
 मिगिनुम् कुऱैयिनुम् नोय्सॆय्युम् नूलोर्  
 वळिमुदला ऎण्णिय मूण्ड्रु।       ९४१
@@ -66,7 +66,7 @@ So doctors deem it more or less.        941
 वळिमुदला ऎण्णिय मूण्ड्रु।       ९४१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४२</summary>
 
 मरुन्दॆन वेण्डावाम् याक्कैक्कु अरुन्दियदु  
 अट्रदु पोट्रि उणिन्।       ९४२
@@ -121,7 +121,7 @@ His body no medicine needs.        942
 अट्रदु पोट्रि उणिन्।       ९४२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४३</summary>
 
 अट्राल् अऱवऱिन्दु उण्ग अह्दुडम्बु  
 पॆट्रान् नॆडिदुय्क्कुम् आऱु।      ९४३
@@ -177,7 +177,7 @@ Life in body lasts with pleasure.        943
 पॆट्रान् नॆडिदुय्क्कुम् आऱु।      ९४३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४४</summary>
 
 अट्रदु अऱिन्दु कडैप्पिडित्तु माऱल्ल  
 तुय्क्क तुवरप् पसित्तु।      ९४४
@@ -233,7 +233,7 @@ Eat what is suitable and right.        944
 तुय्क्क तुवरप् पसित्तु।      ९४४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४५</summary>
 
 माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिन्  
 ऊऱुबाडु इल्लै उयिर्क्कु।      ९४५
@@ -288,7 +288,7 @@ Cures ills of life and makes you bright        945
 ऊऱुबाडु इल्लै उयिर्क्कु।      ९४५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४६</summary>
 
 इऴिवऱिन्दु उण्बान्गण् इन्बम्बोल् निऱ्कुम्  
 कऴिबेर् इरैयान्गण् नोय्।      ९४६
@@ -344,7 +344,7 @@ With greedy glutton abides ill-health.        946
 कऴिबेर् इरैयान्गण् नोय्।      ९४६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४७</summary>
 
 तीयळ वण्ड्रित् तॆरियान् पॆरिदुण्णिन्  
 नोयळ विण्ड्रिप् पडुम्।       ९४७
@@ -399,7 +399,7 @@ Suffer from untold diseases here.        947
 नोयळ विण्ड्रिप् पडुम्।       ९४७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४८</summary>
 
 नोय्नाडि नोय्मुदल् नाडि अदुदणिक्कुम्  
 वाय्नाडि वाय्प्पच् चॆयल्।      ९४८
@@ -455,7 +455,7 @@ And apply remedy that is sure.        948
 वाय्नाडि वाय्प्पच् चॆयल्।      ९४८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९४९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९४९</summary>
 
 उट्रान् अळवुम् पिणियळवुम् कालमुम्  
 कट्रान् करुदिच् चॆयल्।       ९४९
@@ -516,7 +516,7 @@ The sickmen, sickness, season and treat.        949
 कट्रान् करुदिच् चॆयल्।       ९४९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ९५०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९५०</summary>
 
 उट्रवन् तीर्प्पान् मरुन्दुऴैच् चॆल्वानॆण्ड्रु  
 अप्पाल् नाऱ्कूट्रे मरुन्दु।       ९५०

@@ -4,7 +4,7 @@ title = "१२ इडनऱिदल्"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९१</summary>
 
 तॊडङ्गऱ्क ऎव्विनैयुम् ऎळ्ळऱ्क मुट्रुम्  
 इडङ्गण्ड पिन्अल् लदु।       ४९१
@@ -59,7 +59,7 @@ Until you have surveyed the place.        491
 इडङ्गण्ड पिन्अल् लदु।       ४९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९२</summary>
 
 मुरण्सेर्न्द मॊय्म्बि नवर्क्कुम् अरण्सेर्न्दाम्  
 आक्कम् पलवुन् दरुम्।       ४९२
@@ -114,7 +114,7 @@ Ev'n to kings of power and prowess.        492
 आक्कम् पलवुन् दरुम्।       ४९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९३</summary>
 
 आट्रारुम् आट्रि अडुब इडनऱिन्दु  
 पोट्रार्गण् पोट्रिच् चॆयिन्।       ४९३
@@ -169,7 +169,7 @@ In proper fields of strong defence.        493
 पोट्रार्गण् पोट्रिच् चॆयिन्।       ४९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९४</summary>
 
 ऎण्णियार् ऎण्णम् इऴप्पर् इडनऱिन्दु  
 तुन्नियार् तुन्निच् चॆयिन्।       ४९४
@@ -224,7 +224,7 @@ The plans of foes shall be baffled.        494
 तुन्नियार् तुन्निच् चॆयिन्।       ४९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९५</summary>
 
 नॆडुम्बुनलुळ् वॆल्लुम् मुदलै अडुम्बुनलिन्  
 नीङ्गिन् अदनैप् पिऱ।       ४९५
@@ -279,7 +279,7 @@ In land before others it fails.        495
 नीङ्गिन् अदनैप् पिऱ।       ४९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९६</summary>
 
 कडलोडा काल्वल् नॆडुन्देर् कडलोडुम्  
 नावायुम् ओडा निलत्तु।       ४९६
@@ -334,7 +334,7 @@ Nor on sea the strong-wheeled car.        496
 नावायुम् ओडा निलत्तु।       ४९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९७</summary>
 
 अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै  
 ऎण्णि इडत्ताल् सॆयिन्।       ४९७
@@ -389,7 +389,7 @@ When field is chosen right for deed.        497
 ऎण्णि इडत्ताल् सॆयिन्।       ४९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९८</summary>
 
 सिऱुबडैयान् सॆल्लिडम् सेरिन् उऱुबडैयान्  
 ऊक्कम् अऴिन्दु विडुम्।       ४९८
@@ -444,7 +444,7 @@ One quells a foe of well-armed might.        498
 ऊक्कम् अऴिन्दु विडुम्।       ४९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ४९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९९</summary>
 
 सिऱैनलनुम् सीरुम् इलरॆनिनुम् मान्दर्  
 उऱैनिलत्तोडु ऒट्टल् अरिदु।       ४९९
@@ -499,7 +499,7 @@ Though fort and status are not fine.        499
 उऱैनिलत्तोडु ऒट्टल् अरिदु।       ४९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ५००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५००</summary>
 
 कालाऴ् कळरिल् नरियडुम् कण्णञ्जा  
 वेलाळ् मुगत्त कळिऱु।       ५००

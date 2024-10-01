@@ -4,7 +4,7 @@ title = "१६ पयनिल सॊल्लामै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - १९१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९१</summary>
 
 पल्लार् मुनियप् पयनिल सॊल्लुवान्  
 ऎल्लारुम् ऎळ्ळप् पडुम्।       १९१
@@ -59,7 +59,7 @@ Is held in contempt as banal.         191
 ऎल्लारुम् ऎळ्ळप् पडुम्।       १९१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९२</summary>
 
 पयनिल पल्लार्मुन् सॊल्लल् नयनिल  
 नट्टार्गण् सॆय्दलिऱ्ऱीदु।       १९२
@@ -114,7 +114,7 @@ Than doing to friends deeds adverse.         192
 नट्टार्गण् सॆय्दलिऱ्ऱीदु।       १९२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९३</summary>
 
 नयनिलन् ऎन्बदु सॊल्लुम् पयनिल  
 पारित् तुरैक्कुम् उरै।       १९३
@@ -169,7 +169,7 @@ That "good-for-nothing" is his name.         193
 पारित् तुरैक्कुम् उरै।       १९३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९४</summary>
 
 नयन्सारा नन्मैयिन् नीक्कुम् पयन्साराप्  
 पण्बिल्सॊल् पल्ला रगत्तु।       १९४
@@ -224,7 +224,7 @@ Will make all gains and goodness flee.         194
 पण्बिल्सॊल् पल्ला रगत्तु।       १९४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९५</summary>
 
 सीर्मै सिऱप्पॊडु नीङ्गुम् पयनिल  
 नीर्मै युडैयार् सॊलिन्।       १९५
@@ -279,7 +279,7 @@ When savants silly nonsense say.         195
 नीर्मै युडैयार् सॊलिन्।       १९५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९६</summary>
 
 पयनिल् सॊल् पराट्टु वानै मगन्ऎनल्  
 मक्कट् पदडि यॆनल्।       १९६
@@ -334,7 +334,7 @@ Himself in weightless idle words.         196
 मक्कट् पदडि यॆनल्।       १९६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९७</summary>
 
 नयनिल सॊल्लिनुञ् जॊल्लुग साण्ड्रोर्  
 पयनिल सॊल्लामै नण्ड्रु।       १९७
@@ -389,7 +389,7 @@ Even if they would roughly speak.         197
 पयनिल सॊल्लामै नण्ड्रु।       १९७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९८</summary>
 
 अरुम्बयन् आयुम् अऱिविनार् सॊल्लार्  
 पॆरुम्बयन् इल्लाद सॊल्।       १९८
@@ -444,7 +444,7 @@ From words that have no grain and brain.         198
 पॆरुम्बयन् इल्लाद सॊल्।       १९८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - १९९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९९</summary>
 
 पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द  
 मासऱु काट्चि यवर्।       १९९
@@ -499,7 +499,7 @@ Slip not to silly words-mention.         199
 मासऱु काट्चि यवर्।       १९९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - २००</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २००</summary>
 
 सॊल्लुग सॊल्लिऱ्पयनुडैय सॊल्लऱ्क  
 सॊल्लिऱ्पयनिलाच् चॊल्।       २००

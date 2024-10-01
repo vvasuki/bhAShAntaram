@@ -4,7 +4,7 @@ title = "११ पेदैमै"
 +++
 
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३१</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३१</summary>
 
 पेदैमै ऎन्बदॊण्ड्रु यादॆनिन् एदङ्गॊण्डु  
 ऊदियम् पोग विडल्।      ८३१
@@ -60,7 +60,7 @@ To favour loss and forego gain.        831
 ऊदियम् पोग विडल्।      ८३१
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३२</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३२</summary>
 
 पेदैमैयुळ् ऎल्लाम् पेदैमै कादन्मै  
 कैयल्ल तन्गट् चॆयल्।       ८३२
@@ -120,7 +120,7 @@ A lewd and lawless life so bad.        832
 कैयल्ल तन्गट् चॆयल्।       ८३२
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३३</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३३</summary>
 
 नाणामै नाडामै नारिन्मै यादॊण्ड्रुम्  
 पेणामै पेदै तॊऴिल्       ८३३
@@ -175,7 +175,7 @@ Such are the marks of foolishness.        833
 पेणामै पेदै तॊऴिल्       ८३३
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३४</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३४</summary>
 
 ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् तानडङ्गाप्  
 पेदैयिन् पेदैयार् इल्।       ८३४
@@ -230,7 +230,7 @@ Knows, teaches, but self-control spurns.        834
 पेदैयिन् पेदैयार् इल्।       ८३४
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३५</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३५</summary>
 
 ऒरुमैच् चॆयलाट्रुम् पेदै ऎऴुमैयुम्  
 तान्बुक् कऴुन्दुम् अळऱु।      ८३५
@@ -285,7 +285,7 @@ In single birth of hellish ills.        835
 तान्बुक् कऴुन्दुम् अळऱु।      ८३५
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३६</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३६</summary>
 
 पॊय्बडुम् ऒण्ड्रो पुनैबूणुम् कैयऱियाप्  
 पेदै विनैमेऱ्कॊळिन्।      ८३६
@@ -340,7 +340,7 @@ Not only fails but feels fettered.        836
 पेदै विनैमेऱ्कॊळिन्।      ८३६
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३७</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३७</summary>
 
 एदिलार् आरत् तमर्बसिप्पर् पेदै  
 पॆरुञ्जॆल्वम् उट्रक् कडै।      ८३७
@@ -395,7 +395,7 @@ When fools mishandle fortunes vast.        837
 पॆरुञ्जॆल्वम् उट्रक् कडै।      ८३७
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३८</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३८</summary>
 
 मैयल् ऒरुवन् कळित्तट्राल् पेदैदन्  
 कैयॊण्ड्रु उडैमै पॆऱिन्।      ८३८
@@ -450,7 +450,7 @@ Like dazed and drunken stupids stand.        838
 कैयॊण्ड्रु उडैमै पॆऱिन्।      ८३८
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८३९</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३९</summary>
 
 पॆरिदिनिदु पेदैयार् केण्मै पिरिविन्गण्  
 पीऴै तरुवदॊन् ऱिल्।       ८३९
@@ -505,7 +505,7 @@ For without a groan we part.        839
 पीऴै तरुवदॊन् ऱिल्।       ८३९
 </details>
 
-<details><summary>विश्वास-प्रस्तुतिः - ८४०</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४०</summary>
 
 कऴाअक्काल् पळ्ळियुळ् वैत्तट्राल् साण्ड्रोर्  
 कुऴाअत्तुप् पेदै पुगल्।       ८४०
