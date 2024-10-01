@@ -487,14 +487,16 @@ Who clasps the feet of Virtue's sea.         8
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९</summary>
 
-कोळिल् पॊऱियिन् कुणमिलवे ऎण्गुणत्तान्  
+कोळ्-इल्+++(=अग्राहि)+++-पॊऱियिन्+++(=इन्द्रियस्य)+++ गुणम् इलव् ए - ऎण्+++(ट्)+++-गुणत्तान्  
 ताळै वणङ्गात् तलै।      ९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९</summary>
 
-गुणाष्टकयुतेशस्य पदे येन न वन्दिते ।  
-दृष्टया विरहितं चक्षुरिव तस्य शिरो वृथा ॥ ९॥
+गुणाष्टक-युतेशस्य  
+पदे येन न वन्दिते ।  
+दृष्टया विरहितं चक्षुर्  
+इरिव तस्य शिरो वृथा ॥ ९॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ९</summary>
@@ -507,7 +509,7 @@ Unbowed at the feet of Him with eight qualities.
 
 <details><summary>NVK Ashraf notes (en) - ९</summary>
 
-९. This couplet could refer to one of the five Parméstins, the Siddhās (liberated souls) of Jainism, because they only are designated with ८ guñas (qualities) (Malaiya, १९९८). The other four Arhats, Āchāryās, Upādhyāyās and Sādhus (Ashta Pahuda VI:१०४) are identified as Jinas with १२, ३६, २५ and २७ guñas respectively (Malaiya, १९९८). What are the eight qualities or guñas of Siddhās? Ananta jnāna, Ananta darshana, Ananta labdhi, Ananta sukha, Akshaya sthiti, Being vitāraga, Being arupa and Aguruladhutaa. Ancient commentator Parithiyar lists these eight qualities (अनन्द ज्ञानम्, अनन्द वीरियम्, कोत्तिरमिन्मै, अनन्द तरिसनम्, अनन्द कुणम्, अऴिया इयल्बु, नाममिन्मै, अवाविन्मै) as qualities of Lord Shiva!
+९. This couplet could refer to one of the five Parméstins, the Siddhās (liberated souls) of Jainism, because they only are designated with ८ guñas (qualities) (Malaiya, १९९८). The other four Arhats, Āchāryās, Upādhyāyās and Sādhus (Ashta Pahuda VI:१०४) are identified as Jinas with १२, ३६, २५ and २७ guñas respectively (Malaiya, १९९८). What are the eight qualities or guñas of Siddhās? Ananta jnāna, Ananta darshana, Ananta labdhi, Ananta sukha, Akshaya sthiti, Being vitāraga, Being arupa and Aguruladhutaa. Ancient commentator Parithiyar lists these eight qualities (अनन्त ज्ञानम्, अनन्त वीरियम्, कोत्तिरमिन्मै, अनन्त तरिसनम्, अनन्त कुणम्, अऴिया इयल्बु, नाममिन्मै, अवाविन्मै) as qualities of Lord Shiva!
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९</summary>
@@ -547,14 +549,16 @@ Which bows not to Eight-Virtued Divine.         9
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०</summary>
 
-पिऱविप् पॆरुङ्गडल् नीन्दुवर् नीन्दार्  
-इऱैवन् अडिसेरा तार्।       १०
+पिऱविप् पॆरुङ् कडल् **नीन्दुवर्**+++(=तरन्ति)+++, **नीन्दार्**  
+इऱैवन् अडि **सेरादार्**।       १०
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०</summary>
 
-नावं भगवतः पादरूपिणीं प्राप्नुवन्ति ये ।  
-ते तरन्ति भवाम्भोधिमितरैस्तर्तुमक्षमम् ॥ १०॥
+नावं भगवतः पाद-  
+रूपिणीं **प्राप्नुवन्ति** ये ।  
+ते **तरन्ति** भवाम्भो-धिम्  
+इतरैस् तर्तुम् अक्षमम् ॥ १०॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - १०</summary>
