@@ -59,7 +59,7 @@ The ocean of births can be crossed by none other than
 Those who reach the feet of the Lord. *
 (P.S. Sundaram)
 
-  
+
 Notes:
 १. "Bagavan". Scholars differ in their opinion as to what this word stands for. Most traditional and modern scholars, based on the title of the chapter "In praise of God", render the word to mean "Creator God". However Jaina scholars claim that the word "आदि भगवन्" [Ādi bagavan] is a clear reference to the name of the first Jina Thirthankara "ādeenath" or rashabha (Chakravarti, १९५१; Subramanyam, १९८७). It is interesting to note that Valluvar who has used very few words of Sanskrit origin in his whole work, opted for the twin word "आदि भगवन्" here. Moreover, since the simile "ऎऴुत्तॆल्लाम्" is plural, the emphasis "उलगु" should also be taken in plural. The "world" could thus means the "people of the world" (उलगत्तार्क्कु).
 ३. An alternate 'mystical' translation, but not implied in the original: "The Supreme dwells within the lotus of the heart. Those who reach His Splendid Feet dwell endearingly within unearthly realms" - (Satguru Subramuniyaswami). Other translators who adopted this interpretation Parithiyār and Kālingar (two of the five known ancient commentators of Tirukkural) include (G. Vanmikanathan), KV and (C. Rajagopalachari).
@@ -834,7 +834,8 @@ Notes:
 Not coveting another's Wife
 Translators
 Notes
-१४१
+
+०१४१
 Those who realize the benefit of virtue
 Don't commit the folly of desiring another's wife.
 (J. Narayanaswamy), (N.V.K. Ashraf)
@@ -1409,7 +1410,7 @@ Notes:
 "To live without blame is life; without fame death" - * (P.S. Sundaram)
 "They only live who live without blame. And not those who live without fame" – (N.V.K. Ashraf)
 "A life without blame lasts for ever; a life without fame lasts never" - (N.V.K. Ashraf).
-  
+
 ०२५
 Kindness
 Translators
@@ -1468,7 +1469,7 @@ Think of yourself before a bully.
 Notes:
 २४९. A good explanatory translation is given by (Satguru Subramuniyaswami). "Practicing charity without compassion is as inconceivable as realizing Truth without clarity of mind".
 २५०. Compare with ८९४ where Valluvar says “For the weak to challenge the mighty is to summon yama with the hand. ((P.S. Sundaram), (Satguru Subramuniyaswami))
-  
+
 ०२६
 Shunning meat
 Translators
@@ -2757,7 +2758,7 @@ Even worthy schemes can fail when there is dearth in apportionment of tasks - (N
 Even good works go wrong if they don't match the recipient's nature - (K.R. Srinivasa Iyengar)
 Even a good scheme goes awry when contributions don't come equally from all - (P.S. Sundaram), (N.V.K. Ashraf)
 Even reliable schemes can fail when responsibilities are not shared equally - (N.V.K. Ashraf)
-  
+
 ०४८
 Knowing the strength
 Translators
@@ -3108,7 +3109,7 @@ Who wish to come back.
 
 Notes:
 ५२३. Compare with २१५. “The wealth of a wise philanthropist is a village pool ever full” - (P.S. Sundaram)
-  
+
 ०५४
 Avoiding slackness
 Translators
@@ -4113,52 +4114,52 @@ Notes
 ०७०१
 He is a jewel on this sea-girt earth
 Who can read a thought without being told.
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 ०७०२
 Deem that man on par with God
 Who can divine with conviction what is in the heart.
- (N.V.K. Ashraf), (V.V.S. Aiyar)
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 
 ०७०३
 He is worth any price who by intuition
 can read another's thought.
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 ०७०४
 A thought reader may resemble other men
 But is a class apart.
- (P.S. Sundaram), (N.V.K. Ashraf)
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 ०७०५
 What use are the eyes among senses,
 If they cannot read a man's thoughts on his face? *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 ०७०६
 Like a mirror that shows what is in front,
 The face reveals the affairs of the mind. *
- (P.S. Sundaram), (N.V.K. Ashraf)
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 ०७०७
 What can be more expressive than the face
 To reveal the mind's pleasure and pain?
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 ०७०८
 Just standing in front would suffice
 For those who can read the mind on face.
- ( Shuddhananda Bharatiar)
+( Shuddhananda Bharatiar)
 
 ०७०९
 Those familiar with the language of eyes
 Can read from eyes both love and hatred. *
- (Satguru Subramuniyaswami), (J. Narayanaswamy)
+(Satguru Subramuniyaswami), (J. Narayanaswamy)
 
 ०७१०
 You will find smart people use nothing but eyes
 As a yardstick for measure.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 
 ०७२
@@ -4442,7 +4443,7 @@ To cut down your foe's pride.
 ०७६०
 He who makes glorious wealth in plenty,
 Gains the other two treasures together. *
- (M.S. Poornalingam Pillai)
+(M.S. Poornalingam Pillai)
 
 Notes:
 ७५५: A short and crisp translations, but not close to original: "Wealth unblessed by giver and taker should not be touched" – (P.S. Sundaram)
@@ -4504,7 +4505,7 @@ An army without a chief will lose its way. *
 Notes:
 ७६२. (K.R. Srinivasa Iyengar) gives an abstract translation: "When things go wrong, only veterans can stem the rot and turn the tide"
 ९७६. yama = God of Death.
-  
+
 ०७८
 Pride of an army
 Translators
@@ -4806,52 +4807,52 @@ Notes
 ०८२१
 Posing friends treat you like an anvil
 To strike you at the opportune time. *
- (S.M. Diaz), KV
+(S.M. Diaz), KV
 
 ०८२२
 Fickle as a woman's heart is the friendship of those
 Who act like friends.
- (P.S. Sundaram), (N.V.K. Ashraf)
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 ०८२३
 Hard for the ignoble to be good-hearted,
 No matter how well educated they are. *
- (M.S. Poornalingam Pillai)
+(M.S. Poornalingam Pillai)
 
 ०८२४
 Beware of those deceits who, with a smiling face,
 Conceal bitterness in their hearts.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 ०८२५
 Trust not the mere words of those
 Whose minds don't agree with us. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 ०८२६
 A foe's words though seem friendly and good
 Can be read at once. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 ०८२७
 Trust not the bowing speech of your foe.
 A bending bow is a sign of imminent danger.
- (P.S. Sundaram), (N.V.K. Ashraf)
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 ०८२८
 Like a dagger concealed in folded hands
 Is the mourning tears of foes. *
- (P.S. Sundaram), (N.V.K. Ashraf)
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 ०८२९
 Cajole and crush with friendly guise
 Those who flatter you but despise within. *
- ( Shuddhananda Bharatiar), (P.S. Sundaram)
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 ०८३०
 While playing a friend to foes, keep a friendly face
 But banish them from thy heart.
-  (J. Narayanaswamy), (Satguru Subramuniyaswami)
+(J. Narayanaswamy), (Satguru Subramuniyaswami)
 
 
 Notes:
@@ -4968,7 +4969,7 @@ For a fool sees things only his own way. *
 ०८५०
 He who denies what the world affirms
 Will be thought a demon on earth. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 
 ०८६
@@ -5924,52 +5925,52 @@ Notes
 १०११
 Real shyness is to shy away from shameful acts.
 The rest are like shyness of pretty women.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 १०१२
 Food, clothing and the rest are common to all.
 Distinction comes from sensitivity to shame. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १०१३
 All souls abide in the body
 And the goodness called modesty in perfection.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 १०१४
 Is not modesty the jewel of the great,
 And without it a curse for their pride and demeanor? *
- (Satguru Subramuniyaswami), (N.V.K. Ashraf)
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
 
 १०१५
 To the world, the sense of shame resides in them
 Who blush for their and others’ blame. *
- ( Shuddhananda Bharatiar)
+( Shuddhananda Bharatiar)
 
 १०१६
 The great would rather defend with modesty's barricade
 Than breach it to acquire the vast world. *
- (Satguru Subramuniyaswami)
+(Satguru Subramuniyaswami)
 
 १०१७
 Men of honour give up life for honour’s sake,
 But never abandon honour to save life. *
- (C. Rajagopalachari)
+(C. Rajagopalachari)
 
 १०१८
 Virtue will shy away from one who does not shy away
 From what others shy from. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १०१९
 Lapse in manners injures the family,
 But every good is lost by lack of shame. *
- ( Shuddhananda Bharatiar), (P.S. Sundaram)
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 
 १०२०
 The moves of those devoid of conscience
 Are like those of puppets moved by a string. *
- (K. Kannan)
+(K. Kannan)
 
 
 Notes:
@@ -6096,52 +6097,52 @@ Notes
 १०४१
 What is more painful than poverty?
 The pain of poverty itself!
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 १०४२
 The demon of poverty takes away
 The joys of this life and the next.
- KV, (S.M. Diaz)
+KV, (S.M. Diaz)
 
 १०४३
 That cancer called poverty destroys at once
 The honor of ancient descent and clout.
- (K.R. Srinivasa Iyengar), (Satguru Subramuniyaswami)
+(K.R. Srinivasa Iyengar), (Satguru Subramuniyaswami)
 
 १०४४
 Even in those of high birth, poverty will produce
 The fault of uttering mean words.
- (W.H. Drew and J. Lazarus)
+(W.H. Drew and J. Lazarus)
 
 १०४५
 That misery called poverty brings with it
 A diversity of sufferings.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 १०४६
 A poor man's words carry no weight,
 However meaningful and profound. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १०४७
 Poverty, destitute of all virtues, alienates a man
 Even from the mother who bore him.
- (Satguru Subramuniyaswami)
+(Satguru Subramuniyaswami)
 
 १०४८
 Will that hunger which almost killed me yesterday,
 Pester me even today? *
- (P.S. Sundaram), ( Shuddhananda Bharatiar)
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 
 १०४९
 One may sleep even in the midst of fire,
 But by no means in the midst of poverty. *
- (W.H. Drew and J. Lazarus)
+(W.H. Drew and J. Lazarus)
 
 १०५०
 The poverty stricken has a chance to renounce,
 Lest he hang around for salt and gruel. *
- (K. Kannan)
+(K. Kannan)
 
 
 Notes:
@@ -6545,7 +6546,7 @@ Stop revealing thyself to all.
 ११२०
 Even aniccham flower and swan's down
 Are as nerunji fruit to my maidens’ feet. *
- (V.V.S. Aiyar)
+(V.V.S. Aiyar)
 
 
 Notes:
@@ -6626,52 +6627,52 @@ Notes
 ११३१
 Those that enjoyed love and now mourn in affliction
 Have nothing but the madal for strength.
- (G.U. Pope), (P.S. Sundaram)
+(G.U. Pope), (P.S. Sundaram)
 
 ११३२
 Away with shame! Soul and body can bear no more,
 And will mount the madal.
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 ११३३
 Modesty and manliness once I owned,
 But now only the madal ridden by the lustful. *
- (W.H. Drew and J. Lazarus)
+(W.H. Drew and J. Lazarus)
 
 ११३४
 Alas, the raft of modesty and manliness is swept away
 By the rushing tide of lust!
- (W.H. Drew and J. Lazarus), (G.U. Pope)
+(W.H. Drew and J. Lazarus), (G.U. Pope)
 
 ११३५
 The maiden with her armlets of garland
 Gave me the madal and the pangs of eventide. *
- (M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 
 ११३६
 Even at midnight I think of riding the madal,
 Unable to close my eyes because of her. *
- (P.S. Sundaram), (N.V.K. Ashraf)
+(P.S. Sundaram), (N.V.K. Ashraf)
 
 ११३७
 Nothing grandeur than women! Their love may rage like sea,
 Yet don’t mount the madal!
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 ११३८
 Pitiless love with no regard for modesty,
 Betrays itself to reveal the secrets public. *
- (S. Maharajan), (P.S. Sundaram)
+(S. Maharajan), (P.S. Sundaram)
 
 ११३९
 Perplexed is my passion that it roves in public
 With complaints of being unnoticed. *
- (J. Narayanaswamy), (N.V.K. Ashraf)
+(J. Narayanaswamy), (N.V.K. Ashraf)
 
 ११४०
 Fools laugh so as to be seen by us,
 Not having endured what we have.
- (W.H. Drew and J. Lazarus), (P.S. Sundaram)
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)
 
 
 Notes:
@@ -7098,52 +7099,52 @@ Notes
 १२११
 How shall I feast this dream which brought
 A message from my lord?
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १२१२
 If only my painted eyes could sleep,
 I will tell him in my dream of my true predicament. *
- KV
+KV
 
 १२१३
 Though I miss him when I am awake,
 My life lingers on as I see him in my dreams. *
- (J. Narayanaswamy)
+(J. Narayanaswamy)
 
 १२१४
 Dreams sustain my love for in it I seek him
 Who visits not while I am awake.
- (W.H. Drew and J. Lazarus), KV
+(W.H. Drew and J. Lazarus), KV
 
 १२१५
 The very sight of him is joyous.
 Be it in dreams or while I am awake.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 १२१६
 Save for that thing called waking,
 My dream-lover won't leave me indeed.
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १२१७
 Why does he haunt me in my dreams
 When he cruelly deserts me when awake? *
- (V.V.S. Aiyar)
+(V.V.S. Aiyar)
 
 १२१८
 Asleep he is round my shoulders.
 Awake he hurries back to my heart. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १२१९
 Only those starved of love dreams,
 Rue missing their beloved in wakefulness. *
- (J. Narayanaswamy)
+(J. Narayanaswamy)
 
 १२२०
 He is a deserter, people say.
 But how can they see his visits in my dreams?
- (N.V.K. Ashraf), (P.S. Sundaram)
+(N.V.K. Ashraf), (P.S. Sundaram)
 
 
 Notes:
@@ -7331,52 +7332,52 @@ Notes
 १२५१
 The axe of love can break open the door of chastity
 Secured by the bolt of modesty. *
- (W.H. Drew and J. Lazarus), (J. Narayanaswamy)
+(W.H. Drew and J. Lazarus), (J. Narayanaswamy)
 
 १२५२
 That pitiless thing called Love
 Exploits my heart even at night. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १२५३
 Fain would I hide my love, but it breaks out
 Unawares like a sneeze. *
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १२५४
 In modesty I deemed myself beyond assail;
 But love has now cast away the veil. *
- (G.U. Pope)
+(G.U. Pope)
 
 १२५५
 The dignity of not pursuing the indifferent
 Is one thing unknown to the love-sick. *
- (M.S. Poornalingam Pillai)
+(M.S. Poornalingam Pillai)
 
 १२५६
 What sort of passion is this that induces me
 To follow the very one who deserted me?
- KV
+KV
 
 १२५७
 When the lover does all we desire,
 We forget all shame unawares.
- ( Shuddhananda Bharatiar)
+( Shuddhananda Bharatiar)
 
 १२५८
 Are not the enticing words of this wily fraud
 Weapons that break my feminine reserve? *
- (W.H. Drew and J. Lazarus)
+(W.H. Drew and J. Lazarus)
 
 १२५९
 Determined to sulk I went, but when my heart merged,
 I too went and clasped him. *
- (J. Narayanaswamy), (P.S. Sundaram)
+(J. Narayanaswamy), (P.S. Sundaram)
 
 १२६०
 Can they ever think of refusing to be reconciled,
 Whose hearts melt like fat in fire?
- (V.V.S. Aiyar)
+(V.V.S. Aiyar)
 
 
 Notes:
@@ -7760,53 +7761,53 @@ She
 १३२१
 Though he is not to blame, I feign sulking
 To bring out the best in him.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 १३२२
 The pinpricks of sulking do not discourage
 But strengthen love.
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १३२३
 Is there a heaven higher than love’s sulk
 With hearts that join like earth and water?
- ( Shuddhananda Bharatiar), (V.V.S. Aiyar)
+( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 
 १३२४
 From this prolonged pout arises the weapon
 To break the defence of my heart.
- (J. Narayanaswamy), (N.V.K. Ashraf)
+(J. Narayanaswamy), (N.V.K. Ashraf)
 
 He
 १३२५
 Even for the guiltless it is a joy to forgo briefly
 The shoulders from one’s clasp. *
-  (P.S. Sundaram)
+(P.S. Sundaram)
 
 १३२६
 More joyous than the meal is its digestion.
 So is sulking more joyous than union.
- (N.V.K. Ashraf), (V.V.S. Aiyar)
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 
 १३२७
 In lovers' quarrels the loser wins,
 As shown when they make up.
- (P.S. Sundaram)
+(P.S. Sundaram)
 
 १३२८
 Will she sulk again to bring back the pleasure
 Of that union drenched in sweat? *
- (K. Kannan)
+(K. Kannan)
 
 १३२९
 May the bright-jewel sulk,
 And may the night be prolonged for me to implore her! *
- (W.H. Drew and J. Lazarus)
+(W.H. Drew and J. Lazarus)
 
 १३३०
 The joy of love lies in sulking, for that joy is realized
 While embracing in union.
- (N.V.K. Ashraf)
+(N.V.K. Ashraf)
 
 
 Notes:
