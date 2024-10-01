@@ -43,6 +43,13 @@ It's country which has souls of worth
 Unfailing yields and ample wealth.        731  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७३१</summary>
+
+731
+अक्षय उपज सुयोग्य जन, ह्रासहीन धनवान ।  
+मिल कर रहते हैं जहाँ, है वह राष्ट्र महान ॥
+  </details>
+
 <details><summary>मूलम् - ७३१</summary>
 
 तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
@@ -84,6 +91,13 @@ Of abundant produce that never declines.
 The Land has large luring treasure  
 Where pests are nil and yields are sure.        732  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७३२</summary>
+
+732
+अति धन से कमनीय बन, नाशहीनता युक्त ।  
+प्रचुर उपज होती जहाँ, राष्ट्र वही है उक्त ॥
+  </details>
 
 <details><summary>मूलम् - ७३२</summary>
 
@@ -127,6 +141,13 @@ It's land that bears pressing burdens
 And pays its tax which king demands.        733  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७३३</summary>
+
+733
+एक साथ जब आ पड़ें, तब भी सह सब भार ।  
+देता जो राजस्व सब, है वह राष्ट्र अपार ॥
+  </details>
+
 <details><summary>मूलम् - ७३३</summary>
 
 पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु  
@@ -168,6 +189,13 @@ cērātu iyalvatu-nāṭu.
 It is country which is free from  
 Fierce famine, plague and foemen's harm.        734  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७३४</summary>
+
+734
+भूख अपार न है जहाँ, रोग निरंतर है न ।  
+और न नाशक शत्रु भी, श्रेष्ठ राष्ट्र की सैन ॥
+  </details>
 
 <details><summary>मूलम् - ७३४</summary>
 
@@ -211,6 +239,13 @@ Sects and ruinous foes are nil
 No traitors in a land tranquil.        735  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७३५</summary>
+
+735
+होते नहीं, विभिन्न दल, नाशक अंतर-वैर ।  
+नृप-कंटक खूनी नहीं, वही राष्ट्र है, ख़ैर ॥
+  </details>
+
 <details><summary>मूलम् - ७३५</summary>
 
 पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्  
@@ -252,6 +287,13 @@ nāṭu, eṉpa, nāṭṭiṉ talai.
 The land of lands no ruin knows  
 Even in grief its wealth yet grows.        736  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७३६</summary>
+
+736
+नाश न होता, यदि हुआ, तो भी उपज यथेष्ट ।  
+जिसमें कम होती नहीं, वह राष्ट्रों में श्रेष्ठ ॥
+  </details>
 
 <details><summary>मूलम् - ७३६</summary>
 
@@ -300,6 +342,13 @@ Waters up and down, hills and streams
 With strong forts as limbs country beams.        737  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७३७</summary>
+
+737
+कूप सरोवर नद-नदी, इनके पानी संग ।  
+सुस्थित पर्वत सुदृढ़ गढ़, बनते राष्ट्र-सुअंग ॥
+  </details>
+
 <details><summary>मूलम् - ७३७</summary>
 
 इरुबुनलुम् वाय्न्द मलैयुम् वरुबुनलुम्  
@@ -341,6 +390,13 @@ aṇi eṉpa, nāṭṭiṟku-iv aintu.
 Rich yield, delight, defence and wealth  
 Are jewels of lands with blooming health.        738  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७३८</summary>
+
+738
+प्रचुर उपज, नीरोगता, प्रसन्नता, ऐश्वर्य ।  
+और सुरक्षा, पाँच हैं, राष्ट्र-अलंकृति वर्य ॥
+  </details>
 
 <details><summary>मूलम् - ७३८</summary>
 
@@ -384,6 +440,13 @@ A land is land which yields unsought
 Needing hard work the land is nought.        739  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७३९</summary>
+
+739
+राष्ट्र वही जिसकी उपज, होती है बिन यत्न ।  
+राष्ट्र नहीं वह यदि उपज, होती है कर यत्न ॥
+  </details>
+
 <details><summary>मूलम् - ७३९</summary>
 
 नाडॆन्ब नाडा वळत्तन नाडल्ल  
@@ -425,6 +488,13 @@ vēntu amaivu illāta nāṭu.
 Though a land has thus every thing  
 It is worthless without a king.        740  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७४०</summary>
+
+740
+उपर्युक्त साधन सभी, होते हुए अपार ।  
+प्रजा-भूप-सद्‍भाव बिन, राष्ट्र रहा बेकार ॥
+  </details>
 
 <details><summary>मूलम् - ७४०</summary>
 

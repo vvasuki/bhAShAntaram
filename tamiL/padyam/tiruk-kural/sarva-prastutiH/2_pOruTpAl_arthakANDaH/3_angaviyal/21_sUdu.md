@@ -46,6 +46,13 @@ Avoid gambling, albeit you win
 Gulping bait-hook what does fish gain?        931  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९३१</summary>
+
+931
+चाह जुए की हो नहीं, यद्यपि जय स्वाधीन ।  
+जय भी तो कांटा सदृश, जिसे निगलता मीन ॥
+  </details>
+
 <details><summary>मूलम् - ९३१</summary>
 
 वेण्डऱ्क वॆण्ड्रिडिनुम् सूदिनै वॆण्ड्रदूउम्  
@@ -96,6 +103,13 @@ Can gamblers in life good obtain
 Who lose a hundred one to gain?        932  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९३२</summary>
+
+932
+लाभ, जुआरी, एक कर, फिर सौ को खो जाय ।  
+वह भी क्या सुख प्राप्ति का, जीवन-पथ पा जाय ॥
+  </details>
+
 <details><summary>मूलम् - ९३२</summary>
 
 ऒण्ड्रॆय्दि नूऱिऴक्कुम् सूदर्क्कुम् उण्डाङ्गॊल्  
@@ -137,6 +151,13 @@ pōoyp puṟamē paṭum.
 If kings indulge in casting dice  
 All their fortune will flow to foes.        933  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९३३</summary>
+
+933
+पासा फेंक सदा रहा, करते धन की आस ।  
+उसका धन औ’ आय सब, चलें शत्रु के पास ॥
+  </details>
 
 <details><summary>मूलम् - ९३३</summary>
 
@@ -180,6 +201,13 @@ Nothing will make you poor like game
 Which adds to woes and ruins fame.        934  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९३४</summary>
+
+934
+करता यश का नाश है, दे कर सब दुख-जाल ।  
+और न कोई द्यूत सम, बनायगा कंगाल ॥
+  </details>
+
 <details><summary>मूलम् - ९३४</summary>
 
 सिऱुमै पलसॆय्दु सीरऴिक्कुम् सूदिन्  
@@ -221,6 +249,13 @@ ivaṟiyār illāki yār.
 The game, game-hall and gambler's art  
 Who sought with glee have come to nought.        935  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९३५</summary>
+
+935
+पासा, जुआ-घर तथा, हस्य-कुशलता मान ।  
+जुए को हठ से पकड़, निर्धन हुए निदान ॥
+  </details>
 
 <details><summary>मूलम् - ९३५</summary>
 
@@ -264,6 +299,13 @@ Men swallowed by the ogress, dice
 Suffer grief and want by that vice.        936  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९३६</summary>
+
+936
+जुआरूप ज्येष्ठा जिन्हें, मूँह में लेती ड़ाल ।  
+उन्हें न मिलता पेट भर, भोगें दुख कराल ॥
+  </details>
+
 <details><summary>मूलम् - ९३६</summary>
 
 अगडारार् अल्लल् उऴप्पर्सू तॆन्नुम्  
@@ -305,6 +347,13 @@ kaḻakattuk kālai pukiṉ.
 If men their time in game-den spend  
 Ancestral wealth and virtues end.        937  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९३७</summary>
+
+937
+द्यूत-भुमि में काल सब, जो करना है वास ।  
+करता पैतृक धन तथा, श्रेष्ठ गुणों का नाश ॥
+  </details>
 
 <details><summary>मूलम् - ९३७</summary>
 
@@ -348,6 +397,13 @@ Game ruins wealth and spoils grace
 Leads to lies and wretched woes.        938  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९३८</summary>
+
+938
+पेरित मिथ्या-कर्म में, करके धन को नष्ट ।  
+दया-धर्म का नाश कर, जुआ दिलाता कष्ट ॥
+  </details>
+
 <details><summary>मूलम् - ९३८</summary>
 
 पॊरुळ् कॆडुत्तुप् पॊय्मेऱ्कॊळीइ अरुळ्गॆडुत्तु  
@@ -389,6 +445,13 @@ aṭaiyāvām āyam koḷiṉ.
 Dress, wealth, food, fame, learning-these five  
 In gambler's hand will never thrive.        939  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९३९</summary>
+
+939
+रोटी कपड़ा संपदा, विद्या औ’ सम्मान ।  
+पाँचों नहिं उनके यहाँ, जिन्हें जुए की बान ॥
+  </details>
 
 <details><summary>मूलम् - ९३९</summary>
 
@@ -436,6 +499,13 @@ uḻattoṟūum kātaṟṟu uyir.
 Love for game grows with every loss  
 As love for life with sorrows grows.        940  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९४०</summary>
+
+940
+खोते खोते धन सभी, यथा जुएँ में मोह ।  
+सहते सहते दुःख भी, है जीने में मोह ॥
+  </details>
 
 <details><summary>मूलम् - ९४०</summary>
 

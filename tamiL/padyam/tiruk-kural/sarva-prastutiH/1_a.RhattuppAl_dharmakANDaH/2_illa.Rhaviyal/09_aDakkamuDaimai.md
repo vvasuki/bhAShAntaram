@@ -40,6 +40,13 @@ Self-rule leads to realms of gods
 Indulgence leads to gloomy hades.         121  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२१</summary>
+
+121
+संयम देता मनुज को, अमर लोक का वास ।  
+झोंक असंयम नरक में, करता सत्यानास ॥
+  </details>
+
 <details><summary>मूलम् - १२१</summary>
 
 अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै  
@@ -81,6 +88,13 @@ ataṉiṉ ūṅku illai, uyirkku!.
 No gains with self-control measure  
 Guard with care this great treasure.         122  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२२</summary>
+
+122
+संयम की रक्षा करो, निधि अनमोल समान ।  
+श्रेय नहीं है जीव को, उससे अधिक महान ॥
+  </details>
 
 <details><summary>मूलम् - १२२</summary>
 
@@ -124,6 +138,13 @@ Knowing wisdom who lives controlled
 Name and fame seek him untold.         123  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२३</summary>
+
+123
+कोई संयमशील हो, अगर जानकर तत्व ।  
+संयम पा कर मान्यता, देगा उसे महत्व ॥
+  </details>
+
 <details><summary>मूलम् - १२३</summary>
 
 सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु  
@@ -165,6 +186,13 @@ malaiyiṉum māṇap peritu.
 Firmly fixed in self serene  
 The sage looks grander than mountain.         124  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२४</summary>
+
+124
+बिना टले निज धर्म से, जो हो संयमशील ।  
+पर्वत से भी उच्चतर, होगा उसका डील ॥
+  </details>
 
 <details><summary>मूलम् - १२४</summary>
 
@@ -208,6 +236,13 @@ Humility is good for all
 To the rich it adds a wealth special.         125  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२५</summary>
+
+125
+संयम उत्तम वस्तु है, जन के लिये अशेष ।  
+वह भी धनिकों में रहे, तो वह धन सुविशेष ॥
+  </details>
+
 <details><summary>मूलम् - १२५</summary>
 
 ऎल्लार्क्कुम् नण्ड्राम् पणिदल् अवरुळ्ळुम्  
@@ -249,6 +284,13 @@ eḻumaiyum ēmāppu uṭaittu.
 Who senses five like tortoise hold  
 Their joy prolongs to births sevenfold.         126  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२६</summary>
+
+126
+पंचेन्द्रिय-निग्राह किया, कछुआ सम इस जन्म ।  
+तो उससे रक्षा सुदृढ़, होगी सातों जन्म ॥
+  </details>
 
 <details><summary>मूलम् - १२६</summary>
 
@@ -292,6 +334,13 @@ Rein the tongue if nothing else
 Or slips of tongue bring all the woes.         127  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२७</summary>
+
+127
+चाहे औरोंको नहीं, रख लें वश में जीभ ।  
+शब्द-दोष से हों दुखी, यदि न वशी हो जीभ ॥
+  </details>
+
 <details><summary>मूलम् - १२७</summary>
 
 यागावा रायिनुम् नागाक्क कावाक्काल्  
@@ -334,6 +383,13 @@ Even a single evil word
 Will turn all good results to bad.         128  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८</summary>
+
+128
+एक बार भी कटुवचन, पहुँचाये यदि कष्ट ।  
+सत्कर्मों के सुफल सब, हो जायेंगे नष्ट ॥
+  </details>
+
 <details><summary>मूलम् - १२८</summary>
 
 ऒण्ड्रानुन् दीच्चॊल् पॊरुट्पयन् उण्डायिन्  
@@ -375,6 +431,13 @@ nāviṉāl cuṭṭa vaṭu.
 The fire-burnt wounds do find a cure  
 Tongue-burnt wound rests a running sore.         129  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२९</summary>
+
+129
+घाव लगा जो आग से, संभव है भर जाय ।  
+चोट लगी यदि जीभ की, कभी न मोटी जाय ॥
+  </details>
 
 <details><summary>मूलम् - १२९</summary>
 
@@ -426,6 +489,13 @@ aṟam pārkkum āṟṟiṉ nuḻaintu.
 Virtue seeks and peeps to see  
 Self-controlled savant anger free.         130  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३०</summary>
+
+130
+क्रोध दमन कर जो हुआ, पंडित यमी समर्थ ।  
+धर्म-देव भी जोहता, बाट भेंट के अर्थ ॥
+  </details>
 
 <details><summary>मूलम् - १३०</summary>
 

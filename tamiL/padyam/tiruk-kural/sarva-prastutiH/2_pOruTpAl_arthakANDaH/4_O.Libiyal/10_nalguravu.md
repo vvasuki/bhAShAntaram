@@ -41,6 +41,13 @@ What gives more pain than scarcity?
 No pain pinches like poverty.        1041  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०४१</summary>
+
+1041
+यदि पूछो दारिद्र्य सम, दुःखद कौन महान ।  
+तो दुःखद दारिद्र्य सम, दारिद्रता ही जान ॥
+  </details>
+
 <details><summary>मूलम् - १०४१</summary>
 
 इन्मैयिन् इन्नाददु यादॆनिन् इन्मैयिन्  
@@ -82,6 +89,13 @@ immaiyum iṉṟi varum.
 The sinner Want is enemy dire  
 Of joys of earth and heaven there.        1042  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०४२</summary>
+
+1042
+निर्धनता की पापिनी, यदि रहती है साथ ।  
+लोक तथा परलोक से, धोना होगा हाथ ॥
+  </details>
 
 <details><summary>मूलम् - १०४२</summary>
 
@@ -125,6 +139,13 @@ The craving itch of poverty
 Kills graceful words and ancestry.        1043  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०४३</summary>
+
+1043
+निर्धनता के नाम से, जो है आशा-पाश ।  
+कुलीनता, यश का करे,  एक साथ ही नाश ॥
+  </details>
+
 <details><summary>मूलम् - १०४३</summary>
 
 तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग  
@@ -166,6 +187,13 @@ colpiṟakkum cōrvu tarum.
 Want makes even good familymen  
 Utter words that are low and mean.        1044  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०४४</summary>
+
+1044
+निर्धनता पैदा करे, कुलीन में भी ढील ।  
+जिसके वश वह कह उठे, हीन वचन अश्लील ॥
+  </details>
 
 <details><summary>मूलम् - १०४४</summary>
 
@@ -209,6 +237,13 @@ The pest of wanton poverty
 Brings a train of misery.        1045  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०४५</summary>
+
+1045
+निर्धनता के रूप में, जो है दुख का हाल ।  
+उसमें होती है उपज, कई तरह की साल ॥
+  </details>
+
 <details><summary>मूलम् - १०४५</summary>
 
 नल्गुरवु ऎन्नुम् इडुम्बैयुळ् पल्गुरैत्  
@@ -250,6 +285,13 @@ coṟporuḷ cōrvu paṭum.
 The poor men's words are thrown away  
 Though from heart good things they say.        1046  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०४६</summary>
+
+1046
+यद्यपि अनुसंधान कर, कहे तत्व का अर्थ ।  
+फिर भी प्रवचन दिन का, हो जाता है व्यर्थ ॥
+  </details>
 
 <details><summary>मूलम् - १०४६</summary>
 
@@ -293,6 +335,13 @@ Even the mother looks as stranger
 The poor devoid of character.        1047  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०४७</summary>
+
+1047
+जिस दरिद्र का धर्म से, कुछ भी न अभिप्राय ।  
+जननी से भी अन्य सम, वह तो देखा जाय ॥
+  </details>
+
 <details><summary>मूलम् - १०४७</summary>
 
 अऱञ्जारा नल्गुरवु ईण्ड्रदा यानुम्  
@@ -334,6 +383,13 @@ koṉṟatu pōlum nirappu.
 The killing Want of yesterday  
 Will it pester me even to-day?        1048  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०४८</summary>
+
+1048
+कंगाली जो कर चुकी, कल मेरा संहार ।  
+अयोगी क्या आज भी, करने उसी प्रकार ॥
+  </details>
 
 <details><summary>मूलम् - १०४८</summary>
 
@@ -382,6 +438,13 @@ One may sleep in the midst of fire
 In want a wink of sleep is rare.        1049  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०४९</summary>
+
+1049
+अन्तराल में आग के, सोना भी है साध्य ।  
+आँख झपकना भी ज़रा, दारिद में नहिं साध्य ॥
+  </details>
+
 <details><summary>मूलम् - १०४९</summary>
 
 नॆरुप्पिनुळ् तुञ्जलुम् आगुम् निरप्पिनुळ्  
@@ -428,6 +491,13 @@ uppiṟkum kāṭikkum kūṟṟu.
 Renounce their lives the poor must  
 Or salt and gruel go to waste.        1050  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०५०</summary>
+
+1050
+भोग्य-हीन रह, दिन का, लेना नहिं सन्यास ।  
+माँड-नमक का यम बने, करने हित है नाश ॥
+  </details>
 
 <details><summary>मूलम् - १०५०</summary>
 

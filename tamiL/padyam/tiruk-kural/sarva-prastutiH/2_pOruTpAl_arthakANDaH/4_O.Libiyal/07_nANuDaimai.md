@@ -46,6 +46,13 @@ To shrink from evil deed is shame
 The rest is blush of fair-faced dame.        1011  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०११</summary>
+
+1011
+लज्जित होना कर्म से, लज्जा रही बतौर ।  
+सुमुखी कुलांगना-सुलभ, लज्जा है कुछ और ॥
+  </details>
+
 <details><summary>मूलम् - १०११</summary>
 
 करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्  
@@ -87,6 +94,13 @@ nāṇuṭaimai māntar ciṟappu.
 Food, dress and such are one for all  
 Modesty marks the higher soul.        1012  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०१२</summary>
+
+1012
+अन्न वस्त्र इत्यादि हैं, सब के लिये समान ।  
+सज्जन की है श्रेष्ठता, होना लज्जावान ॥
+  </details>
 
 <details><summary>मूलम् - १०१२</summary>
 
@@ -130,6 +144,13 @@ All lives have their lodge in flesh
 Perfection has its home in blush.        1013  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०१३</summary>
+
+1013
+सभी प्राणियों के लिये, आश्रय तो है देह ।  
+रखती है गुण-पूर्णता, लज्जा का शुभ गेह ॥
+  </details>
+
 <details><summary>मूलम् - १०१३</summary>
 
 ऊनैक् कुऱित्त उयिरॆल्लाम् नाण्ऎन्नुम्  
@@ -171,6 +192,13 @@ piṇiyaṉṟō pīṭu naṭai.
 Shame is the jewel of dignity  
 Shameless swagger is vanity.        1014  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०१४</summary>
+
+1014
+भूषण महानुभाव का, क्या नहिं लज्जा-भाव ।  
+उसके बिन गंभीर गति, क्या नहिं रोग-तनाव ॥
+  </details>
 
 <details><summary>मूलम् - १०१४</summary>
 
@@ -214,6 +242,13 @@ In them resides the sense of shame
 Who blush for their and other's blame.        1015  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०१५</summary>
+
+1015
+लज्जित है, जो देख निज, तथा पराया दोष ।  
+उनको कहता है जगत, ‘यह लज्जा का कोष’ ॥
+  </details>
+
 <details><summary>मूलम् - १०१५</summary>
 
 पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु  
@@ -255,6 +290,13 @@ pēṇalar mēlā yavar.
 The great refuse the wonder-world  
 Without modesty's hedge and shield.        1016  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०१६</summary>
+
+1016
+लज्जा को घेरा किये, बिना सुरक्षण-योग ।  
+चाहेंगे नहिं श्रेष्ठ जन, विस्तृत जग का भोग ॥
+  </details>
 
 <details><summary>मूलम् - १०१६</summary>
 
@@ -303,6 +345,13 @@ For shame their life the shame-sensed give
 Loss of shame they won't outlive.        1017  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०१७</summary>
+
+1017
+लज्जा-पालक त्याग दें, लज्जा के हित प्राण ।  
+लज्जा को छोड़ें नहीं, रक्षित रखने जान ॥
+  </details>
+
 <details><summary>मूलम् - १०१७</summary>
 
 नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्  
@@ -345,6 +394,13 @@ Virtue is much ashamed of him
 Who shameless does what others shame.        1018  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०१८</summary>
+
+1018
+अन्यों को लज्जित करे, करते ऐसे कर्म ।  
+उससे खुद लज्जित नहीं, तो लज्जित हो धर्म ॥
+  </details>
+
 <details><summary>मूलम् - १०१८</summary>
 
 पिऱर्नाणत् तक्कदु तान्नाणा नायिन्  
@@ -386,6 +442,13 @@ nāṇiṉmai niṉṟak kaṭai.
 Lapse in manners injures the race  
 Want of shame harms every good grace.        1019  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०१९</summary>
+
+1019
+यदि चूके सिद्धान्त से, तो होगा कुल नष्ट ।  
+स्थाई हो निर्लज्जता, तो हों सब गुण नष्ट ॥
+  </details>
 
 <details><summary>मूलम् - १०१९</summary>
 
@@ -433,6 +496,13 @@ nāṇāl uyirmaruṭṭi aṟṟu.
 Movements of the shameless in heart  
 Are string-led puppet show in fact.        1020  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०२०</summary>
+
+1020
+कठपुथली में सूत्र से, है जीवन-आभास ।  
+त्यों है लज्जाहीन में, चैतन्य का निवास ॥
+  </details>
 
 <details><summary>मूलम् - १०२०</summary>
 

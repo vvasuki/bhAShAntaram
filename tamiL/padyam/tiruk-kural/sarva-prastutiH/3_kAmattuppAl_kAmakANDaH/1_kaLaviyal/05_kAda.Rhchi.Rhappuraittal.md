@@ -39,6 +39,13 @@ Like milk and honey the dew is sweet
 From her white teeth whose word is soft.        1121  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११२१</summary>
+
+1121
+मधुर भाषिणी सुतुनु का, सित रद निःसृत नीर ।  
+यों लगता है मधुर वह, ज्यों मधु-मिश्रित क्षीर ॥
+  </details>
+
 <details><summary>मूलम् - ११२१</summary>
 
 पालॊडु तेन्गलन् दट्रे पणिमॊऴि  
@@ -81,6 +88,13 @@ Love between me and this lady
 Is like bond between soul and body.        1122  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११२२</summary>
+
+1122
+जैसा देही देह का, होता है सम्बन्ध ।  
+वैसा मेरे, नारि के, बीच रहा सम्बन्ध ॥
+  </details>
+
 <details><summary>मूलम् - ११२२</summary>
 
 उडम्बॊडु उयिरिडै ऎन्नमऱ्ऱन्न  
@@ -122,6 +136,13 @@ tirunutaṟku illai iṭam.
 Depart image in my pupil  
 Giving room to my fair-browed belle!        1123  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११२३</summary>
+
+1123
+पुतली में पुतली अरी, हट जाओ यह जान ।  
+मेरी ललित ललाटयुत, प्यारी को नहिं स्थान ॥
+  </details>
 
 <details><summary>मूलम् - ११२३</summary>
 
@@ -170,6 +191,13 @@ Life with my jewel is existence
 Death it is her severance.        1124  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११२४</summary>
+
+1124
+जीना सम है प्राण हित, बाला, जब संयोग ।  
+मरना सम उसके लिये, होता अगर वियोग ॥
+  </details>
+
 <details><summary>मूलम् - ११२४</summary>
 
 वाऴ्दल् उयिर्क्कन्नळ् आयिऴै सादल्  
@@ -211,6 +239,13 @@ oḷḷamark kaṇṇāḷ kuṇam.
 Can I forget? I recall always  
 The charms of her bright battling eyes.        1125  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११२५</summary>
+
+1125
+लड़ते दृग युत बाल के, गुण यदि जाऊँ भूल ।  
+तब तो कर सकता स्मरण, पर जाता नहिं भूल ॥
+  </details>
 
 <details><summary>मूलम् - ११२५</summary>
 
@@ -254,6 +289,13 @@ So subtle is my lover's form
 Ever in my eyes winking, no harm.        1126  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११२६</summary>
+
+1126
+दृग में से निकलें नहीं, मेरे सुभग सुजान ।  
+झपकी लूँ तो हो न दुख, वे हैं सूक्ष्म प्राण ॥
+  </details>
+
 <details><summary>मूलम् - ११२६</summary>
 
 कण्णुळ्ळिन् पोगार् इमैप्पिन् परुगुवरा  
@@ -295,6 +337,13 @@ eḻutēm karappākku aṟintu.
 My lover in my eyes abides  
 I paint them not lest he hides.        1127  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११२७</summary>
+
+1127
+यों विचार कर नयन में, करते वास सुजान ।  
+नहीं आंजतीं हम नयन, छिप जायेंगे जान ॥
+  </details>
 
 <details><summary>मूलम् - ११२७</summary>
 
@@ -338,6 +387,13 @@ My lover abides in my heart
 I fear hot food lest he feels hot.        1128  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११२८</summary>
+
+1128
+यों विचार कर हृदय में, करते वास सुजान ।  
+खाने से डर है गरम, जल जायेंगे जान ॥
+  </details>
+
 <details><summary>मूलम् - ११२८</summary>
 
 नॆञ्जत्तार् काद लवराग वॆय्दुण्डल्  
@@ -380,6 +436,13 @@ My eyes wink not lest he should hide
 And him as cruel the townsmen chide.        1129  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११२९</summary>
+
+1129
+झपकी लूँ तो ज्ञात है, होंगे नाथ विलीन ।  
+पर इससे पुरजन उन्हें, कहते प्रेम विहीन ॥
+  </details>
+
 <details><summary>मूलम् - ११२९</summary>
 
 इमैप्पिन् करप्पाक्कु अऱिवल् अनैत्तिऱ्के  
@@ -421,6 +484,13 @@ And the folks say he is loveless and has left me. *
 He abides happy in my heart  
 But people mistake he is apart.        1130  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११३०</summary>
+
+1130
+यद्यपि दिल में प्रिय सदा, रहे मज़े में लीन ।  
+पुरजन कहते तज चले, कहते प्रेम विहीन ॥
+  </details>
 
 <details><summary>मूलम् - ११३०</summary>
 

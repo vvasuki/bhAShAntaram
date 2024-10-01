@@ -46,6 +46,13 @@ Wind, bile and phlegm three cause disease
 So doctors deem it more or less.        941  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९४१</summary>
+
+941
+वातादिक जिनको गिना, शास्त्रज्ञों ने तीन ।  
+बढ़ते घटते दुःख दें, करके रोगाधीन ॥
+  </details>
+
 <details><summary>मूलम् - ९४१</summary>
 
 मिगिनुम् कुऱैयिनुम् नोय्सॆय्युम् नूलोर्  
@@ -87,6 +94,13 @@ aṟṟatu pōṟṟi uṇiṉ.
 After digestion one who feeds  
 His body no medicine needs.        942  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९४२</summary>
+
+942
+खादित का पचना समझ, फिर दे भोजन-दान ।  
+तो तन को नहिं चाहिये, कोई औषध-पान ॥
+  </details>
 
 <details><summary>मूलम् - ९४२</summary>
 
@@ -130,6 +144,13 @@ Eat food to digestive measure
 Life in body lasts with pleasure.        943  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९४३</summary>
+
+943
+जीर्ण हुआ तो खाइये, जान उचित परिमाण ।  
+देहवान हित है वही, चिरायु का सामान ॥
+  </details>
+
 <details><summary>मूलम् - ९४३</summary>
 
 अट्राल् अऱवऱिन्दु उण्ग अह्दुडम्बु  
@@ -171,6 +192,13 @@ tuykka tuvarap pacittu.
 Know digestion; with keen appetite  
 Eat what is suitable and right.        944  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९४४</summary>
+
+944
+जीर्ण कुआ यह जान फिर, खूब लगे यदि भूख ।  
+खाओ जो जो पथ्य हैं, रखते ध्यान अचूक ॥
+  </details>
 
 <details><summary>मूलम् - ९४४</summary>
 
@@ -214,6 +242,13 @@ With fasting adjusted food right
 Cures ills of life and makes you bright        945  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९४५</summary>
+
+945
+करता पथ्याहार का, संयम से यदि भोग ।  
+तो होता नहिं जीव को, कोई दुःखद रोग ॥
+  </details>
+
 <details><summary>मूलम् - ९४५</summary>
 
 माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिन्  
@@ -255,6 +290,13 @@ kaḻipēr iraiyāṉkaṇ nōy.
 Who eats with clean stomach gets health  
 With greedy glutton abides ill-health.        946  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९४६</summary>
+
+946
+भला समझ मित भोज का, जीमे तो सुख-वास ।  
+वैसे टिकता रोग है, अति पेटू के पास ॥
+  </details>
 
 <details><summary>मूलम् - ९४६</summary>
 
@@ -298,6 +340,13 @@ who glut beyond the hunger's fire
 Suffer from untold diseases here.        947  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९४७</summary>
+
+947
+जाठराग्नि की शक्ति का, बिना किये सुविचार ।  
+यदि खाते हैं अत्याधिक, बढ़ते रोग अपार ॥
+  </details>
+
 <details><summary>मूलम् - ९४७</summary>
 
 तीयळ वण्ड्रित् तॆरियान् पॆरिदुण्णिन्  
@@ -339,6 +388,13 @@ vāynāṭi vāyppac ceyal.
 Test disease, its cause and cure  
 And apply remedy that is sure.        948  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९४८</summary>
+
+948
+ठीक समझ कर रोग क्या, उसका समझ निदान ।  
+समझ युक्ति फिर शमन का, करना यथा विधान ॥
+  </details>
 
 <details><summary>मूलम् - ९४८</summary>
 
@@ -387,6 +443,13 @@ Let the skilful doctor note
 The sickmen, sickness, season and treat.        949  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९४९</summary>
+
+949
+रोगी का वय, रोग का, काल तथा विस्तार ।  
+सोच समझकर वैद्य को, करना है उपचार ॥
+  </details>
+
 <details><summary>मूलम् - ९४९</summary>
 
 उट्रान् अळवुम् पिणियळवुम् कालमुम्  
@@ -428,6 +491,13 @@ appālnāṟ kūṟṟē maruntu.
 Patient, doctor, medicine and nurse  
 Are four-fold codes of treating course.        950  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९५०</summary>
+
+950
+रोगी वैद्य देवा तथा, तीमारदार संग ।  
+चार तरह के तो रहे, वैद्य शास्त्र के अंग ॥
+  </details>
 
 <details><summary>मूलम् - ९५०</summary>
 

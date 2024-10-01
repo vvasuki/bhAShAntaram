@@ -41,6 +41,13 @@ Want of wisdom is want of wants
 Want of aught else the world nev'r counts.        841  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८४१</summary>
+
+841
+सबसे बुरा अभाव है, सद्बुद्धि का अभाव ।  
+दुनिया अन्य अभाव को, नहिं मानती अभाव ॥
+  </details>
+
 <details><summary>मूलम् - ८४१</summary>
 
 अऱिविन्मै इन्मैयुळ् इन्मै पिऱिदिन्मै  
@@ -82,6 +89,13 @@ illai peṟuvāṉ tavam.
 When fool bestows with glee a gift  
 It comes but by getter's merit.        842  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८४२</summary>
+
+842
+बुद्धिहीन नर हृदय से, करता है यदि दान ।  
+प्रातिग्राही का सुकृत वह, और नहीं कुछ जान ॥
+  </details>
 
 <details><summary>मूलम् - ८४२</summary>
 
@@ -125,6 +139,13 @@ The self-torments of fools exceed
 Ev'n tortures of their foes indeed.        843  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८४३</summary>
+
+843
+जितनी पीड़ा मूढ़ नर, निज को देता आप ।  
+रिपु को भी संभव नहीं, देना उतना ताप ॥
+  </details>
+
 <details><summary>मूलम् - ८४३</summary>
 
 अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै  
@@ -166,6 +187,13 @@ uṭaiyamyām eṉṉum cerukku.
 Stupidity is vanity  
 That cries "We have sagacity"        844  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८४४</summary>
+
+844
+हीन-बुद्धि किसको कहें, यदि पूछोगे बात ।  
+स्वयं मान ‘हम हैं सुधी’, भ्रम में पड़ना ज्ञात ॥
+  </details>
 
 <details><summary>मूलम् - ८४४</summary>
 
@@ -209,6 +237,13 @@ Feigning knowledge that one has not
 Leads to doubt ev'n that he has got.        845  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८४५</summary>
+
+845
+अपठित में ज्यों पठित का, व्यंजित करना भाव ।  
+सुपठित में भी दोष बिन, जनमे संशय-भाध ॥
+  </details>
+
 <details><summary>मूलम् - ८४५</summary>
 
 कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ  
@@ -250,6 +285,13 @@ kuṟṟam maṟaiyā vaḻi.
 Fools their nakedness conceal  
 And yet their glaring faults reveal.        846  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८४६</summary>
+
+846
+मिटा न कर निज दोष को, गोपन कर अज्ञान ।  
+ढकना पट से गुहय को, अल्प बुद्धि की बान ॥
+  </details>
 
 <details><summary>मूलम् - ८४६</summary>
 
@@ -293,6 +335,13 @@ The fool that slights sacred counsels
 Upon himself great harm entails.        847  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८४७</summary>
+
+847
+प्रकट करे मतिहीन जो, अति सहस्य की बात ।  
+अपने पर खुद ही बड़ा, कर लेगा आघात ॥
+  </details>
+
 <details><summary>मूलम् - ८४७</summary>
 
 अरुमऱै सोरुम् अऱिविलान् सॆय्युम्  
@@ -334,6 +383,13 @@ pōom aḷavumōr nōy.
 He listens not nor himself knows  
 Plague is his life until it goes.        848  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८४८</summary>
+
+848
+समझाने पर ना करे, और न समझे आप ।  
+मरण समय तक जीव वह, रहा रोग-अभिशाप ॥
+  </details>
 
 <details><summary>मूलम् - ८४८</summary>
 
@@ -377,6 +433,13 @@ Sans Self-sight in vain one opens Sight
 To the blind who bet their sight as right.        849  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८४९</summary>
+
+849
+समझाते नासमझ को, रहे नासमझ आप ।  
+समझदार सा नासमझ, स्वयं दिखेगा आप ॥
+  </details>
+
 <details><summary>मूलम् - ८४९</summary>
 
 काणादान् काट्टुवान् तान्गाणान् काणादान्  
@@ -418,6 +481,13 @@ alakaiyā vaikkap paṭum.
 To people's "Yes" who proffer "No"  
 Deemed as ghouls on earth they go.        850  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८५०</summary>
+
+850
+जग जिसके अस्तित्व को, ‘है’ कह लेता मान ।  
+जो न मानता वह रहा, जग में प्रेत समान ॥
+  </details>
 
 <details><summary>मूलम् - ८५०</summary>
 

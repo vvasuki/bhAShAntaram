@@ -40,6 +40,13 @@ Lore worth learning, learn flawlessly
 Live by that learning thoroughly.        391  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३९१</summary>
+
+391
+सीख सीखने योग्य सब, भ्रम संशय बिन सीख ।  
+कर उसके अनुसार फिर, योग्य आचरण ठीक ॥
+  </details>
+
 <details><summary>मूलम् - ३९१</summary>
 
 कऱ्क कसडऱक् कऱ्पवै कट्रबिन्  
@@ -81,6 +88,13 @@ Are the two eyes to live with. *
 Letter, number, art and science  
 Of living kind both are the eyes.        392  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३९२</summary>
+
+392
+अक्षर कहते है जिसे, जिसको कहते आँक ।  
+दोनों जीवित मनुज के, कहलाते हैं आँख ॥
+  </details>
 
 <details><summary>मूलम् - ३९२</summary>
 
@@ -129,6 +143,13 @@ The learned alone have eyes on face
 The ignorant two sores of disgrace.        393  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३९३</summary>
+
+393
+कहलाते हैं नेत्रयुत, जो हैं विद्यावान ।  
+मुख पर रखते घाव दो, जो है अपढ़ अजान ॥
+  </details>
+
 <details><summary>मूलम् - ३९३</summary>
 
 कण्णुडैयर् ऎन्बवर् कट्रोर् मुगत्तिरण्डु  
@@ -170,6 +191,13 @@ aṉaittē-pulavar toḻil.
 To meet with joy and part with thought  
 Of learned men this is the art.        394  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३९४</summary>
+
+394
+हर्षप्रद होता मिलन, चिन्ताजनक वियोग ।  
+विद्वज्जन का धर्म है, ऐसा गुण-संयोग ॥
+  </details>
 
 <details><summary>मूलम् - ३९४</summary>
 
@@ -213,6 +241,13 @@ Like poor before rich they yearn:
 For knowledge: the low never learn.        395  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३९५</summary>
+
+395
+धनी समक्ष दरिद्र सम, झुक झुक हो कर दीन ।  
+शिक्षित बनना श्रेष्ठ है, निकृष्ट विद्याहीन ॥
+  </details>
+
 <details><summary>मूलम् - ३९५</summary>
 
 उडैयार्मुन् इल्लार्बोल् एक्कट्रुङ् गट्रार्  
@@ -254,6 +289,13 @@ kaṟṟaṉaittu ūṟum, aṟivu.
 As deep you dig the sand spring flows  
 As deep you learn the knowledge grows.        396  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३९६</summary>
+
+396
+जितना खोदो पुलिन में, उतना नीर-निकास ।  
+जितना शिक्षित नर बने, उतना बुद्धि-विकास ॥
+  </details>
 
 <details><summary>मूलम् - ३९६</summary>
 
@@ -302,6 +344,13 @@ All lands and towns are learner's own
 Why not till death learning go on!        397  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३९७</summary>
+
+397
+अपना है विद्वान का, कोई पुर या राज ।  
+फिर क्यों रहता मृत्यु तक, कोई अपढ़ अकाज ॥
+  </details>
+
 <details><summary>मूलम् - ३९७</summary>
 
 यादानुम् नाडामाल् ऊरामाल् ऎन्नॊरुवन्  
@@ -343,6 +392,13 @@ eḻumaiyum ēmāppu uṭaittu.
 The joy of learning in one birth  
 Exalts man upto his seventh.        398  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३९८</summary>
+
+398
+जो विद्या इक जन्म में, नर से पायी जाय ।  
+सात जन्म तक भी उसे, करती वही सहाय ॥
+  </details>
 
 <details><summary>मूलम् - ३९८</summary>
 
@@ -386,6 +442,13 @@ The learned foster learning more
 On seeing the world enjoy their lore.        399  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३९९</summary>
+
+399
+हर्ष हेतु अपने लिये, वैसे जग हित जान ।  
+उस विद्या में और रत, होते हैं विद्वान ॥
+  </details>
+
 <details><summary>मूलम् - ३९९</summary>
 
 तामिन् पुऱुवदु उलगिन् पुऱक् कण्डु  
@@ -427,6 +490,13 @@ māṭu alla, maṟṟaiyavai.
 Learning is wealth none could destroy  
 Nothing else gives genuine joy.        400  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४००</summary>
+
+400
+शिक्षा-धन है मनुज हित, अक्षय और यथेष्ट ।  
+अन्य सभी संपत्तियाँ, होती हैं नहिं श्रेष्ठ ॥
+  </details>
 
 <details><summary>मूलम् - ४००</summary>
 

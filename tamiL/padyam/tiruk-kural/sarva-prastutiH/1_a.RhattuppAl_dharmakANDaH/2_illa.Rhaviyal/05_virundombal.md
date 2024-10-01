@@ -45,6 +45,13 @@ Men set up home, toil and earn
 To tend the guests and do good turn.         81  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८१</summary>
+
+81
+योग-क्षेम निबाह कर, चला रहा घर-बार ।  
+आदर करके अतिथि का, करने को उपकार ॥
+  </details>
+
 <details><summary>मूलम् - ८१</summary>
 
 इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि  
@@ -86,6 +93,13 @@ maruntu eṉiṉum vēṇṭaṟpāṟṟu aṉṟu.
 To keep out guests cannot be good  
 Albeit you eat nectar-like food.         82  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८२</summary>
+
+82
+बाहर ठहरा अतिथि को, अन्दर बैठे आप ।  
+देवामृत का क्यों न हो, भोजन करना पाप ॥
+  </details>
 
 <details><summary>मूलम् - ८२</summary>
 
@@ -129,6 +143,13 @@ Who tends his guests day in and out
 His life in want never wears out.         83  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८३</summary>
+
+83
+दिन दिन आये अतिथि का, करता जो सत्कार ।  
+वह जीवन दारिद्रय का, बनता नहीं शिकार ॥
+  </details>
+
 <details><summary>मूलम् - ८३</summary>
 
 वरुविरुन्दु वैगलुम् ओम्बुवान् वाऴ्क्कै  
@@ -170,6 +191,13 @@ nal viruntu ōmpuvāṉ il.
 The goddess of wealth will gladly rest  
 Where smiles welcome the worthy guest.         84  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८४</summary>
+
+84
+मुख प्रसन्न हो जो करे, योग्य अतिथि-सत्कार ।  
+उसके घर में इन्दिरा, करती सदा बहार ॥
+  </details>
 
 <details><summary>मूलम् - ८४</summary>
 
@@ -213,6 +241,13 @@ Should his field be sown who first
 Feeds the guests and eats the rest?         85  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५</summary>
+
+85
+खिला पिला कर अतिथि को, अन्नशेष जो खाय ।  
+ऐसों के भी खेत को, काहे बोया जाया ॥
+  </details>
+
 <details><summary>मूलम् - ८५</summary>
 
 वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि  
@@ -254,6 +289,13 @@ nal viruntu, vāṉattavarkku.
 Who tends a guest and looks for next  
 Is a welcome guest in heaven's feast.         86  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८६</summary>
+
+86
+प्राप्त अतिथि को पूज कर, और अतिथि को देख ।  
+जो रहता, वह स्वर्ग का, अतिथि बनेगा नेक ॥
+  </details>
 
 <details><summary>मूलम् - ८६</summary>
 
@@ -302,6 +344,13 @@ Worth of the guest of quality
 Is worth of hospitality.         87  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८७</summary>
+
+87
+अतिथि-यज्ञ के सुफल की, महिमा का नहिं मान ।  
+जितना अतिथि महान है, उतना ही वह मान ॥
+  </details>
+
 <details><summary>मूलम् - ८७</summary>
 
 इनैत्तुणैत् तॆन्बदॊन् ऱिल्लै विरुन्दिन्  
@@ -349,6 +398,13 @@ Who loathe guest-service one day cry:
 "We toil and store; but life is dry".         88  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८८</summary>
+
+88
+'कठिन यत्न से जो जुड़ा, सब धन हुआ समाप्त' ।  
+यों रोवें, जिनको नहीं, अतिथि-यज्ञ-फल प्राप्त ॥
+  </details>
+
 <details><summary>मूलम् - ८८</summary>
 
 परिन्दोम्बिप् पट्रट्रेम् ऎन्बर् विरुन्दोम्बि  
@@ -390,6 +446,13 @@ maṭamai; maṭavārkaṇ uṇṭu.
 The man of wealth is poor indeed  
 Whose folly fails the guest to feed.         89  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८९</summary>
+
+89
+निर्धनता संपत्ति में, अतिथि-उपेक्षा जान ।  
+मूर्ख जनों में मूर्ख यह, पायी जाती बान ॥
+  </details>
 
 <details><summary>मूलम् - ८९</summary>
 
@@ -446,6 +509,13 @@ nōkkak kuḻaiyum viruntu.
 Anicham smelt withers: like that  
 A wry-faced look withers the guest.         90  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९०</summary>
+
+90
+सूंघा ‘अनिच्च’ पुष्प को, तो वह मुरझा जाय ।  
+मुँह फुला कर ताकते, सूख अतिथि-मुख जाय ॥
+  </details>
 
 <details><summary>मूलम् - ९०</summary>
 

@@ -40,6 +40,13 @@ Is it an angel? A fair peacock
 Or jewelled belle? To my mind a shock!        1081  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०८१</summary>
+
+1081
+क्या यह है देवांगना, या सुविशेष मयूर ।  
+या नारी कुंड़ल-सजी, मन है भ्रम में चूर ॥
+  </details>
+
 <details><summary>मूलम् - १०८१</summary>
 
 अणङ्गुगॊल् आय्मयिल् कॊल्लो कनङ्गुऴै  
@@ -81,6 +88,13 @@ tāṉaikkoṇ ṭaṉṉatu uṭaittu.
 The counter glances of this belle  
 Are armied dart of the Love-Angel.        1082  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०८२</summary>
+
+1082
+दृष्टि मिलाना सुतनु का, होते दृष्टि-निपान ।  
+हो कर खुद चँडी यथा, चढ़ आये दल साथ ॥
+  </details>
 
 <details><summary>मूलम् - १०८२</summary>
 
@@ -124,6 +138,13 @@ Not known before - I spy Demise
 In woman's guise with battling eyes.        1083  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०८३</summary>
+
+1083
+पहले देखा है नहीं, अब देखा यम कौन ।  
+लडते विशाल नेत्रयुत, वह है स्त्री-गुण-भौन ॥
+  </details>
+
 <details><summary>मूलम् - १०८३</summary>
 
 पण्डऱियेन् कूट्रॆन् पदनै इनियऱिन्देन्  
@@ -165,6 +186,13 @@ pētaikku amarttaṉa kaṇ.
 This artless dame has darting eyes  
 That drink the life of men who gaze.        1084  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०८४</summary>
+
+1084
+मुग्धा इस स्त्री-रत्न के, दिखी दृगों की रीत ।  
+खाते दर्शक-प्राण हैं, यों है गुण विपरीत ॥
+  </details>
 
 <details><summary>मूलम् - १०८४</summary>
 
@@ -208,6 +236,13 @@ Is it death, eye or doe? All three
 In winsome woman's look I see.        1085  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०८५</summary>
+
+1085
+क्या यम है, या आँख है, या है मृगी सुरंग ।  
+इस मुग्धा की दृष्टि में, है तीनों का ढंग ॥
+  </details>
+
 <details><summary>मूलम् - १०८५</summary>
 
 कूट्रमो कण्णो पिणैयो मडवरल्  
@@ -249,6 +284,13 @@ ceyyala maṉivaḷ kaṇ.
 If cruel brows unbent, would screen  
 Her eyes won't cause me trembling pain.        1086  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०८६</summary>
+
+1086
+ऋजु हो टेढ़ी भृकुटियाँ, मना करें दे छाँह ।  
+तो इसकी आँखें मुझे, हिला, न लेंगी आह ॥
+  </details>
 
 <details><summary>मूलम् - १०८६</summary>
 
@@ -292,6 +334,13 @@ Vest on the buxom breast of her
 Looks like rutting tusker's eye-cover.        1087  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०८७</summary>
+
+1087
+अनत कुचों पर नारि के, पड़ा रहा जो पाट ।  
+मद-गज के दृग ढ़ांकता, मुख-पट सम वह ठाट ॥
+  </details>
+
 <details><summary>मूलम् - १०८७</summary>
 
 कडाअक् कळिट्रिन्मेऱ्कट्पडाम् मादर्  
@@ -334,6 +383,13 @@ Ah these fair brows shatter my might
 Feared by foemen yet to meet.        1088  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०८८</summary>
+
+1088
+उज्जवल माथे से अहो, गयी शक्ति वह रीत ।  
+भिड़े बिना रण-भूमि में, जिससे रिपु हों भीत ॥
+  </details>
+
 <details><summary>मूलम् - १०८८</summary>
 
 ऒण्णुदऱ्कोऒ उडैन्ददे ञाट्पिनुळ्  
@@ -375,6 +431,13 @@ aṇiyavaṉō ētila tantu.
 Which jewel can add to her beauty  
 With fawn-like looks and modesty?        1089  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०८९</summary>
+
+1089
+सरल दृष्टि हरिणी सदृश, औ’ रखती जो लाज ।  
+उसके हित गहने बना, पहनाना क्या काज ॥
+  </details>
 
 <details><summary>मूलम् - १०८९</summary>
 
@@ -422,6 +485,13 @@ kaṇṭār makiḻceytal iṉṟu.
 To the drunk alone is wine delight  
 Nothing delights like love at sight.        1090  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०९०</summary>
+
+1090
+हर्षक है केवल उसे, जो करता है पान ।  
+दर्शक को हर्षक नहीं, मधु तो काम समान ॥
+  </details>
 
 <details><summary>मूलम् - १०९०</summary>
 

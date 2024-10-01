@@ -40,6 +40,13 @@ Employ the wise who will discern
 The good and bad and do good turn.        511  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५११</summary>
+
+511
+भले-बुरे को परख जो, करता भला पसंद ।  
+उसके योग्य नियुक्ति को, करना सही प्रबन्ध ॥
+  </details>
+
 <details><summary>मूलम् - ५११</summary>
 
 नन्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द  
@@ -81,6 +88,13 @@ Foster wealth and find out hurdles. *
 Let him act who resource swells;  
 Fosters wealth and prevents ills.        512  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५१२</summary>
+
+512
+आय-वृद्धि-साधन बढ़ा, धन-वर्द्धक कर कार्य ।  
+विघ्न परख जो टालता, वही करे नृप-कार्य ॥
+  </details>
 
 <details><summary>मूलम् - ५१२</summary>
 
@@ -124,6 +138,13 @@ Trust him in whom these four you see:
 Love, wit, non-craving, clarity.        513  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५१३</summary>
+
+513
+प्रेम, बुद्धि, दृढ़-चित्तता, निर्लोभता-सुनीति ।  
+चारों जिसमें पूर्ण हों, उसपर करो प्रतीति ॥
+  </details>
+
 <details><summary>मूलम् - ५१३</summary>
 
 अन्बऱिवु तेट्रम् अवाविन्मै इन्नान्गुम्  
@@ -165,6 +186,13 @@ vēṟākum māntar palar.
 Though tried and found fit, yet we see  
 Many differ before duty.        514  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५१४</summary>
+
+514
+सभी तरह की परख से,  योग्य दिखें जो लोग ।  
+उनमें कार्य निबाहते, विकृत बने बहु लोग ॥
+  </details>
 
 <details><summary>मूलम् - ५१४</summary>
 
@@ -208,6 +236,13 @@ Wise able men with power invest
 Not by fondness but by hard test.        515  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५१५</summary>
+
+515
+जो करता है धैर्य से, खूब समझ सदुपाय ।  
+उसे छोड़ प्रिय बन्धु को, कार्य न सौंपा जाय ॥
+  </details>
+
 <details><summary>मूलम् - ५१५</summary>
 
 अऱिन्दाट्रिच् चॆय्गिऱ्पाऱ्कु अल्लाल् विनैदान्  
@@ -249,6 +284,13 @@ eyta uṇarntu, ceyal!.
 Discern the agent and the deed  
 And just in proper time proceed.        516  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५१६</summary>
+
+516
+कर्ता का लक्षण परख, परख कर्म की रीति ।  
+संयोजित कर काल से, सौंपों सहित प्रतीति ॥
+  </details>
 
 <details><summary>मूलम् - ५१६</summary>
 
@@ -297,6 +339,13 @@ This work, by this, this man can do
 Like this entrust the duty due.        517  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५१७</summary>
+
+517
+इस साधन से व्यक्ति यह, कर सकता यह कार्य ।  
+परिशीलन कर इस तरह, सौंप उसे वह कार्य ॥
+  </details>
+
 <details><summary>मूलम् - ५१७</summary>
 
 इदनै इदनाल् इवन्मुडिक्कुम् ऎण्ड्राय्न्दु  
@@ -338,6 +387,13 @@ ataṟku uriyaṉ ākac ceyal.
 His fitness for the duty scan  
 Leave him to do the best he can.        518  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५१८</summary>
+
+518
+यदि पाया इक व्यक्ति को, परख कार्य के योग्य ।  
+तो फिर उसे नियुक्त कर, पदवी देना योग्य ॥
+  </details>
 
 <details><summary>मूलम् - ५१८</summary>
 
@@ -381,6 +437,13 @@ Who do duty for duty's sake
 Doubt them; and fortune departs quick.        519  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५१९</summary>
+
+519
+तत्परता-वश कार्य में, हुआ मित्र व्यवहार ।  
+उसको समझे अन्यता, तो श्री जावे पार ॥
+  </details>
+
 <details><summary>मूलम् - ५१९</summary>
 
 विनैक्कण् विनैयुडैयान् केण्मैवे ऱाग  
@@ -422,6 +485,13 @@ kōṭāmaik kōṭātu ulaku.
 Worker straight the world is straight  
 The king must look to this aright.        520  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५२०</summary>
+
+520
+राज-भृत्य यदि विकृत नहिं, विकृत न होगा राज ।  
+रोज़ परखना चाहिये, नृप को उसका काज ॥
+  </details>
 
 <details><summary>मूलम् - ५२०</summary>
 

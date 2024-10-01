@@ -42,6 +42,13 @@ The wealth of wealth is wealth of grace
 Earthly wealth e'en the basest has.        241  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २४१</summary>
+
+241
+सर्व धनों में श्रेष्ठ है, दयारूप संपत्ति ।  
+नीच जनों के पास भी, है भौतिक संपत्ति ॥
+  </details>
+
 <details><summary>मूलम् - २४१</summary>
 
 अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्  
@@ -83,6 +90,13 @@ tēriṉum aḵtē tuṇai.
 Seek by sound ways good compassion;  
 All faiths mark that for-salvation.        242  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २४२</summary>
+
+242
+सत्-पथ पर चल परख कर, दयाव्रती बन जाय ।  
+धर्म-विवेचन सकल कर, पाया वही सहाय ॥
+  </details>
 
 <details><summary>मूलम् - २४२</summary>
 
@@ -126,6 +140,13 @@ The hearts of mercy shall not go
 Into dark worlds of gruesome woe.        243  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २४३</summary>
+
+243
+अन्धकारमय नरक है, जहाँ न सुख लवलेश ।  
+दयापूर्ण का तो वहाँ, होता नहीं प्रवेश ॥
+  </details>
+
 <details><summary>मूलम् - २४३</summary>
 
 अरुळ्सेर्न्द नॆञ्जिनार्क् किल्लै इरुळ्सेर्न्द  
@@ -167,6 +188,13 @@ Need not fear for their own lives.
 His soul is free from dread of sins  
 Whose mercy serveth all beings.        244  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २४४</summary>
+
+244
+सब जीवों को पालते, दयाव्रती जो लोग ।  
+प्राण-भयंकर पाप का, उन्हें न होगा योग ॥
+  </details>
 
 <details><summary>मूलम् - २४४</summary>
 
@@ -210,6 +238,13 @@ The wide wind-fed world witness bears:
 Men of mercy meet not sorrows.        245  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २४५</summary>
+
+245
+दुःख- दर्द उनको नहीं, जो है दयानिधान ।  
+पवन संचरित उर्वरा, महान भूमि प्रमाण ॥
+  </details>
+
 <details><summary>मूलम् - २४५</summary>
 
 अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्  
@@ -251,6 +286,13 @@ allavai ceytu oḻukuvār'.
 Who grace forsake and graceless act  
 The former loss and woes forget.        246  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २४६</summary>
+
+246
+जो निर्दय हैं पापरत, यों कहते धीमान ।  
+तज कर वे पुरुषार्थ को, भूले दुःख महान ॥
+  </details>
 
 <details><summary>मूलम् - २४६</summary>
 
@@ -294,6 +336,13 @@ This world is not for weathless ones
 That world is not for graceless swines.        247  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २४७</summary>
+
+247
+प्राप्य नहीं धनरहित को, ज्यों इहलौकिक भोग ।  
+प्राप्य नहीं परलोक का, दयारहित को योग ॥
+  </details>
+
 <details><summary>मूलम् - २४७</summary>
 
 अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु  
@@ -335,6 +384,13 @@ aṟṟār; maṟṟu ātal aritu.
 The wealthless may prosper one day;  
 The graceless never bloom agay.        248  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २४८</summary>
+
+248
+निर्धन भी फूले-फले, स्यात् धनी बन जाय ।  
+निर्दय है निर्धन सदा, काया पलट न जाय ॥
+  </details>
 
 <details><summary>मूलम् - २४८</summary>
 
@@ -382,6 +438,13 @@ aruḷātāṉ ceyyum aṟam.
 Like Truth twisted by confused mind  
 Wisdom is vain in hearts unkind.        249  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २४९</summary>
+
+249
+निर्दय-जन-कृत सुकृत पर, अगर विचारा जाय ।  
+तत्व-दर्श ज्यों अज्ञ का, वह तो जाना जाय ॥
+  </details>
 
 <details><summary>मूलम् - २४९</summary>
 
@@ -438,6 +501,13 @@ meliyārmēl cellum iṭattu.
 Think how you feel before the strong  
 When to the feeble you do wrong.        250  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २५०</summary>
+
+250
+रोब जमाते निबल पर, निर्दय करे विचार ।  
+अपने से भी प्रभल के, सम्मुख खुद लाचार ॥
+  </details>
 
 <details><summary>मूलम् - २५०</summary>
 

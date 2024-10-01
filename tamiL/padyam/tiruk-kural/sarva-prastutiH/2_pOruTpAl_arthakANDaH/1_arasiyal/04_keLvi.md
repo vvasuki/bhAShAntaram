@@ -45,6 +45,13 @@ Wealth of wealths is listening's wealth
 It is the best of wealths on earth.        411  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४११</summary>
+
+411
+धन धन में तो श्रवण-धन, रहता अधिक प्रधान ।  
+सभी धनों में धन वही, पाता शीर्षस्थान ॥
+  </details>
+
 <details><summary>मूलम् - ४११</summary>
 
 सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्  
@@ -86,6 +93,13 @@ vayiṟṟukkum īyappaṭum.
 Some food for the stomach is brought  
 When the ear gets no food for thought.        412  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४१२</summary>
+
+412
+कानों को जब ना मिले, श्रवण रूप रस पान ।  
+दिया जाय तब पेट को, कुछ भोजन का दान ॥
+  </details>
 
 <details><summary>मूलम् - ४१२</summary>
 
@@ -129,6 +143,13 @@ Whose ears get lots of wisdom-food
 Equal gods on oblations fed.        413  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४१३</summary>
+
+413
+जिनके कानों को मिला, श्रवण रूप में भोग ।  
+हवि के भोजी देव सम, भुवि में हैं वे लोग ॥
+  </details>
+
 <details><summary>मूलम् - ४१३</summary>
 
 सॆवियुणविऱ्केळ्वि युडैयार् अवियुणविन्  
@@ -170,6 +191,13 @@ oṟkattiṉ ūṟṟu ām tuṇai.
 Though not learned, hear and heed  
 That serves a staff and stay in need.        414  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४१४</summary>
+
+414
+यद्यपि शिक्षित है नहीं, करे श्रवण सविवेक ।  
+क्लांत दशा में वह उसे, देगा सहाय टेक ॥
+  </details>
 
 <details><summary>मूलम् - ४१४</summary>
 
@@ -213,6 +241,13 @@ Virtuous men's wisdom is found
 A strong staff on slippery ground.        415  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४१५</summary>
+
+415
+फिसलन पर चलते हुए, ज्यों लाठी की टेक ।  
+त्यों हैं, चरित्रवान के, मूँह के वच सविवेक ॥
+  </details>
+
 <details><summary>मूलम् - ४१५</summary>
 
 इऴुक्कल् उडैयुऴि ऊट्रुक्कोल् अट्रे  
@@ -254,6 +289,13 @@ And even that much will bring great dignity.
 Lend ear to good words however few  
 That much will highly exalt you.        416  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४१६</summary>
+
+416
+श्रवण करो सद्विषय का, जितना ही हो अल्प ।  
+अल्प श्रवण भी तो तुम्हें, देगा मान अनल्प ॥
+  </details>
 
 <details><summary>मूलम् - ४१६</summary>
 
@@ -297,6 +339,13 @@ Who listen well and learn sharply
 Not ev'n by slip speak foolishly.        417  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४१७</summary>
+
+417
+जो जन अनुसंधान कर, रहें बहु-श्रुत साथ ।  
+यद्यपि भूलें मोहवश, करें न जड़ की बात ॥
+  </details>
+
 <details><summary>मूलम् - ४१७</summary>
 
 पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्  
@@ -338,6 +387,13 @@ tōṭkap paṭāta cevi.
 That ear though hearing is dulled  
 Which is not by wisdom drilled.        418  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४१८</summary>
+
+418
+श्रवण श्रवण करके भला, छिद न गये जो कान ।  
+श्रवण-शक्ति रखते हुए, बहरे कान समान ॥
+  </details>
 
 <details><summary>मूलम् - ४१८</summary>
 
@@ -381,6 +437,13 @@ A modest mouth is hard for those
 Who care little to counsels wise.        419  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४१९</summary>
+
+419
+जिन लोगों को है नहीं, सूक्ष्म श्रवण का ज्ञान ।  
+नम्र वचन भी बोलना, उनको दुष्कर जान ॥
+  </details>
+
 <details><summary>मूलम् - ४१९</summary>
 
 नुणङ्गिय केळ्विय रल्लार् वणङ्गिय  
@@ -422,6 +485,13 @@ aviyiṉum vāḻiṉum eṉ.
 Who taste by mouth and not by ear  
 What if they fare ill or well here?        420  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४२०</summary>
+
+420
+जो जाने बिन श्रवण रस, रखता जिह्‍वा-स्वाद ।  
+चाहे जीये या मरे, उससे सुख न विषाद ॥
+  </details>
 
 <details><summary>मूलम् - ४२०</summary>
 

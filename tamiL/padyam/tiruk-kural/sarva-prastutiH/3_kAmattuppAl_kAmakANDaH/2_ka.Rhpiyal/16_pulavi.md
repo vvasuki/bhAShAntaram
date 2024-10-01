@@ -45,6 +45,13 @@ Feign sulk; embrace him not so that
 We can see his distress a bit.        1301  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३०१</summary>
+
+1301
+आलिंगन करना नहीं, ठहरो करके मान ।  
+देखें हम उनको ज़रा, सहते ताप अमान ॥
+  </details>
+
 <details><summary>मूलम् - १३०१</summary>
 
 पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
@@ -92,6 +99,13 @@ Sulking is the salt of love; but
 Too much of it spoils the taste.        1302  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३०२</summary>
+
+1302
+ज्यों भोजन में नमक हो, प्रणय-कलह त्यों जान ।  
+ज़रा बढ़ाओ तो उसे, ज्यादा नमक समान ॥
+  </details>
+
 <details><summary>मूलम् - १३०२</summary>
 
 उप्पमैन् दट्राल् पुलवि अदुसिऱिदु  
@@ -133,6 +147,13 @@ pulantāraip pullā viṭal.
 To leave the sulker unembraced  
 Is to grieve the one sorely grieved.        1303  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३०३</summary>
+
+1303
+अगर मना कर ना मिलो, जो करती है मान ।  
+तो वह, दुखिया को यथा, देना दुख महान ॥
+  </details>
 
 <details><summary>मूलम् - १३०३</summary>
 
@@ -176,6 +197,13 @@ To comfort not lady in pout
 Is to cut the fading plant at root.        1304  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३०४</summary>
+
+1304
+उसे मनाया यदि नहीं, जो कर बैठी मान ।  
+सूखी वल्ली का यथा, मूल काटना जान ॥
+  </details>
+
 <details><summary>मूलम् - १३०४</summary>
 
 ऊडि यवरै उणरामै वाडिय  
@@ -217,6 +245,13 @@ pūaṉṉa kaṇṇār akattu.
 Pouting of flower-eyed has  
 To pure good mates a lovely grace.        1305  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३०५</summary>
+
+1305
+कुसुम-नेत्रयुत प्रियतमा, रूठे अगर यथेष्ट ।  
+शोभा देती सुजन को, जिनके गुण हैं श्रेष्ठ ॥
+  </details>
 
 <details><summary>मूलम् - १३०५</summary>
 
@@ -260,6 +295,13 @@ Love devoid of frowns and pets
 Misses its ripe and unripe fruits.        1306  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३०६</summary>
+
+1306
+प्रणय-कलह यदि नहिं हुआ, और न थोड़ा मान ।  
+कच्चा या अति पक्व सम, काम-भोग-फल जान ॥
+  </details>
+
 <details><summary>मूलम् - १३०६</summary>
 
 तुनियुम् पुलवियुम् इल्लायिन् कामम्  
@@ -301,6 +343,13 @@ nīṭuvatu aṉṟukol eṉṟu.
 "Will union take place soon or late?"  
 In lover's pout this leaves a doubt.        1307  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३०७</summary>
+
+1307
+‘क्या न बढ़ेगा मिलन-सुख’, यों है शंका-भाव ।  
+प्रणय-कलह में इसलिये, रहता दुखद स्वभाव ॥
+  </details>
 
 <details><summary>मूलम् - १३०७</summary>
 
@@ -344,6 +393,13 @@ What's the good of grieving lament
 When concious lover is not present?        1308  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३०८</summary>
+
+1308
+‘पीड़ित है’ यों समझती, प्रिया नहीं रह जाय ।  
+तो सहने से वेदना, क्या ही फल हो जाय ॥
+  </details>
+
 <details><summary>मूलम् - १३०८</summary>
 
 नोदल् ऎवन्मट्रु नॊन्दारॆण्ड्रु अह्दऱियुम्  
@@ -386,6 +442,13 @@ Water delights in a shady grove
 And sulking in souls of psychic love.        1309  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३०९</summary>
+
+1309
+छाया के नीचे रहा, तो है सुमधुर नीर ।  
+प्रिय से हो तो मधुर है, प्रणय कलह-तासीर ॥
+  </details>
+
 <details><summary>मूलम् - १३०९</summary>
 
 नीरुम् निऴलदु इनिदे पुलवियुम्  
@@ -427,6 +490,13 @@ kūṭuvēm eṉpatu avā.
 My heart athirst would still unite  
 With her who me in sulking left!        1310  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३१०</summary>
+
+1310
+सूख गयी जो मान से, और रही बिन छोह ।  
+मिलनेच्छा उससे रहा, मेरे दिल का मोह ॥
+  </details>
 
 <details><summary>मूलम् - १३१०</summary>
 

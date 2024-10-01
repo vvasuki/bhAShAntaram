@@ -40,6 +40,13 @@ Let him who would reproachless be
 From all frauds guard his conscience free.        281  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २८१</summary>
+
+281
+निन्दित जीवन से अगर, इच्छा है बच जाय ।  
+चोरी से पर-वस्तु की, हृदय बचाया जाय ॥
+  </details>
+
 <details><summary>मूलम् - २८१</summary>
 
 ऎळ्ळामै वेण्डुवान् ऎन्बान् ऎनैत्तॊण्ड्रुम्  
@@ -81,6 +88,13 @@ kaḷḷattāl kaḷvēm’ eṉal!.
 "We will by fraud win other's wealth"  
 Even this thought is sin and stealth.        282  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २८२</summary>
+
+282
+चोरी से पर-संपदा, पाने का कुविचार ।  
+लाना भी मन में बुरा, है यह पापाचार ॥
+  </details>
 
 <details><summary>मूलम् - २८२</summary>
 
@@ -124,6 +138,13 @@ The gain by fraud may overflow
 But swift to ruin it shall go.        283  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २८३</summary>
+
+283
+चोरी-कृत धन में रहे, बढ़्ने का आभास ।  
+पर उसका सीमारहित, होता ही है नाश ॥
+  </details>
+
 <details><summary>मूलम् - २८३</summary>
 
 कळविनाल् आगिय आक्कम् अळविऱन्दु  
@@ -165,6 +186,13 @@ vīyā viḻumam tarum.
 The fruit that fraud and greed obtain  
 Shall end in endless grief and pain.        284  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २८४</summary>
+
+284
+चोरी के प्रति लालसा, जो होती अत्यन्त ।  
+फल पोने के समय पर, देती दुःख अनन्त ॥
+  </details>
 
 <details><summary>मूलम् - २८४</summary>
 
@@ -208,6 +236,13 @@ Love and Grace are not their worth
 Who watch to waylay dozer's wealth.        285  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २८५</summary>
+
+285
+है गफलत की ताक में, पर-धन की है चाह ।  
+दयाशीलता प्रेम की, लोभ न पकड़े राह ॥
+  </details>
+
 <details><summary>मूलम् - २८५</summary>
 
 अरुळ्गरुदि अन्बुडैय रादल् पॊरुळ्गरुदिप्  
@@ -249,6 +284,13 @@ kaṉṟiya kātalavar.
 They cannot walk in measured bounds  
 who crave and have covetous ends.        286  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २८६</summary>
+
+286
+चौर्य-कर्म प्रति हैं जिन्हें, रहती अति आसक्ति ।  
+मर्यादा पर टिक उन्हें, चलने को नहिं शक्ति ॥
+  </details>
 
 <details><summary>मूलम् - २८६</summary>
 
@@ -292,6 +334,13 @@ Men of measured wisdom shun
 Black art of fraud and what it won.        287  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २८७</summary>
+
+287
+मर्यादा को पालते, जो रहते सज्ञान ।  
+उनमें होता है नहीं, चोरी का अज्ञान ॥
+  </details>
+
 <details><summary>मूलम् - २८७</summary>
 
 कळवॆन्नुम् कारऱि वाण्मै अळवॆन्नुम्  
@@ -334,6 +383,13 @@ Virtue abides in righteous hearts
 Into minds of frauds deceit darts.        288  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २८८</summary>
+
+288
+ज्यों मर्यादा-पाल के, मन में स्थिर है धर्म ।  
+त्यों प्रवंचना-पाल के, मन में वंचक कर्म ॥
+  </details>
+
 <details><summary>मूलम् - २८८</summary>
 
 अळवऱान्दार् नॆञ्जत् तऱम्बोल निऱ्कुम्  
@@ -375,6 +431,13 @@ maṟṟaiya tēṟṟātavar.
 They perish in their perfidy  
 Who know nothing but pilfery.        289  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २८९</summary>
+
+289
+जिन्हें चौर्य को छोड़ कर, औ’ न किसी का ज्ञान ।  
+मर्यादा बिन कर्म कर, मिटते तभी अजान ॥
+  </details>
 
 <details><summary>मूलम् - २८९</summary>
 
@@ -426,6 +489,13 @@ taḷḷātu, puttēḷ ulaku.
 Even the body rejects thieves;  
 The honest men, heaven receives.        290  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २९०</summary>
+
+290
+चिरों को निज देह भी, ढकेल कर दे छोड़ ।  
+पालक को अस्तेय व्रत, स्वर्ग न देगा छोड़ ॥
+  </details>
 
 <details><summary>मूलम् - २९०</summary>
 

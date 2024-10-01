@@ -41,6 +41,13 @@ Stand not before my chief, O foes!
 Many who stood, in stones repose.        771  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७७१</summary>
+
+771
+डटे रहो मत शत्रुओ, मेरे अधिप समक्ष ।  
+डट कर कई शिला हुए, मेरे अधिप समक्ष ॥
+  </details>
+
 <details><summary>मूलम् - ७७१</summary>
 
 ऎन्नैमुन् निल्लन्मिन् तॆव्विर् पलरॆन्नै  
@@ -83,6 +90,13 @@ To lift a lance that missed a tusker
 Is prouder than shaft that hit a hare.        772  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७७२</summary>
+
+772
+वन में शश पर जो लगा, धरने से वह बाण ।  
+गज पर चूके भाल को, धरने में है मान ॥
+  </details>
+
 <details><summary>मूलम् - ७७२</summary>
 
 कान मुयलॆय्द अम्बिनिल् यानै  
@@ -124,6 +138,13 @@ But to help a foe in distress cuts deeper. *
 Valour is fight with fierce courage  
 Mercy to the fallen is its edge.        773  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७७३</summary>
+
+773
+निर्दय साहस को कहें, महा धीरता सार ।  
+संकट में उपकार है, उसकी तीक्षण धार ॥
+  </details>
 
 <details><summary>मूलम् - ७७३</summary>
 
@@ -172,6 +193,13 @@ At the tusker he flings his lance
 One in body smiles another chance.        774  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७७४</summary>
+
+774
+कर-भाला गज पर चला, फिरा खोजते अन्य ।  
+खींच भाल छाती लगा, हर्षित हुआ सुधन्य ॥
+  </details>
+
 <details><summary>मूलम् - ७७४</summary>
 
 कैवेल् कळिट्रॊडु पोक्कि वरुबवन्  
@@ -213,6 +241,13 @@ Watchful eyes wink when a spear is hurled?
 When lances dart if heroes wink  
 "It is a rout" the world will think.        775  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७७५</summary>
+
+775
+क्रुद्ध नेत्र यदि देख कर, रिपु का भाल-प्रहार ।  
+झपकेंगे तो क्या नहीं, वह वीरों को हार ॥
+  </details>
 
 <details><summary>मूलम् - ७७५</summary>
 
@@ -256,6 +291,13 @@ The brave shall deem the days as vain
 Which did not battle-wounds sustain.        776  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७७६</summary>
+
+776
+‘गहरा घाव लगा नहीं’, ऐसे दिन सब व्यर्थ ।  
+बीते निज दिन गणन कर, यों मानता समर्थ ॥
+  </details>
+
 <details><summary>मूलम् - ७७६</summary>
 
 विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किनुळ्  
@@ -297,6 +339,13 @@ kaḻal yāppuk kārikai nīrttu.
 Their anklets aloud jingle their name  
 Who sacrifice their life for fame.        777  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७७७</summary>
+
+777
+जग व्यापी यश चाहते, प्राणों की नहिं चाह ।  
+ऐसों का धरना कड़ा, शोभाकर है, वाह ॥
+  </details>
 
 <details><summary>मूलम् - ७७७</summary>
 
@@ -340,6 +389,13 @@ The king may chide, they pursue strife;
 They fear loss of glory; not life.        778  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७७८</summary>
+
+778
+प्राण-भय-रहित वीर जो, जब छिड़ता है युद्ध ।  
+साहस खो कर ना रुकें, नृप भी रोकें क्रुद्ध ॥
+  </details>
+
 <details><summary>मूलम् - ७७८</summary>
 
 उऱिन्उयिर् अञ्जा मऱवर् इऱैवन्  
@@ -382,6 +438,13 @@ Who will blame the heroes that lose
 Their lives in war to keep their vows?        779  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७७९</summary>
+
+779
+प्रण रखने हित प्राण भी, छोड़ेंगे जो चण्ड ।  
+कौन उन्हें प्रण-भंग का, दे सकता है दण्ड़ ॥
+  </details>
+
 <details><summary>मूलम् - ७७९</summary>
 
 इऴैत्तदु इगवामैच् चावारै यारे  
@@ -423,6 +486,13 @@ irantu kōḷ-takkatu uṭaittu.
 Such a death shall be prayed for  
 Which draws the tears of the ruler.        780  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७८०</summary>
+
+780
+दृग भर आये भूप के, सुन जिसका देहांत ।  
+ग्रहण योग्य है माँग कर, उसका जैसा अंत ॥
+  </details>
 
 <details><summary>मूलम् - ७८०</summary>
 
@@ -470,6 +540,13 @@ Like friendship what's so hard to gain?
 That guards one against acts villain?        781  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७८१</summary>
+
+781
+करने को मैत्री सदृश, कृति है कौन महान ।  
+दुर्लभ-रक्षक शत्रु से, उसके कौन समान ॥
+  </details>
+
 <details><summary>मूलम् - ७८१</summary>
 
 सॆयऱ्करिय यावुळ नट्पिन् अदुबोल्  
@@ -512,6 +589,13 @@ Good friendship shines like waxing moon,
 The bad withers like waning moon.        782  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७८२</summary>
+
+782
+प्राज्ञ मित्रता यों बढ़े, यथा दूज का चाँद ।  
+मूर्ख मित्रता यों घटे, ज्यों पूनो के बाद ॥
+  </details>
+
 <details><summary>मूलम् - ७८२</summary>
 
 निऱैनीर नीरवर् केण्मै पिऱैमदिप्  
@@ -553,6 +637,13 @@ paṇpu uṭaiyāḷar toṭarpu.
 Like taste in books good friendship grows  
 The more one moves the more he knows.        783  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७८३</summary>
+
+783
+करते करते अध्ययन्, अधिक सुखद ज्यों ग्रन्थ ।  
+परिचय बढ़ बढ़ सुजन की, मैत्री दे आनन्द ॥
+  </details>
 
 <details><summary>मूलम् - ७८३</summary>
 
@@ -601,6 +692,13 @@ Not to laugh is friendship made
 But to hit when faults exceed.        784  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७८४</summary>
+
+784
+हँसी-खेल करना नहीं, मैत्री का उपकार ।  
+आगे बढ़ अति देख कर, करना है फटकार ॥
+  </details>
+
 <details><summary>मूलम् - ७८४</summary>
 
 नगुदऱ्पॊरुट्टण्ड्रु नट्टल् मिगुदिक्कण्  
@@ -642,6 +740,13 @@ naṭpu ām kiḻamai tarum.
 No close living nor clasping grip  
 Friendship's feeling heart's fellowship.        785  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७८५</summary>
+
+785
+परिचय औ’ संपर्क की, नहीं ज़रूरत यार ।  
+देता है भावैक्य ही, मैत्री का अधिकार ॥
+  </details>
 
 <details><summary>मूलम् - ७८५</summary>
 
@@ -690,6 +795,13 @@ Friendship is not more smile on face
 It is the smiling heart's embrace.        786  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७८६</summary>
+
+786
+केवल मुख खिल जाय तो, मैत्री कहा न जाय ।  
+सही मित्रता है वही, जिससे जी खिल जाय ॥
+  </details>
+
 <details><summary>मूलम् - ७८६</summary>
 
 मुगनग नट्पदु नट्पण्ड्रु नॆञ्जत्तु  
@@ -731,6 +843,13 @@ allal uḻappatu ām-naṭpu.
 From ruin friendship saves and shares  
 The load of pain and right path shows.        787  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७८७</summary>
+
+787
+चला सुपथ पर मित्र को, हटा कुपथ से दूर ।  
+सह सकती दुख विपद में, मैत्री वही ज़रूर ॥
+  </details>
 
 <details><summary>मूलम् - ७८७</summary>
 
@@ -774,6 +893,13 @@ Friendship hastens help in mishaps
 Like hands picking up dress that slips.        788  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७८८</summary>
+
+788
+ज्यों धोती के खिसकते, थाम उसे ले हस्त ।  
+मित्र वही जो दुःख हो, तो झट कर दे पस्त ॥
+  </details>
+
 <details><summary>मूलम् - ७८८</summary>
 
 उडुक्कै इऴन्दवन् कैबोल आङ्गे  
@@ -815,6 +941,13 @@ ollumvāy ūṉṟum nilai.
 Friendship is enthroned on the strength  
 That always helps with utmost warmth.        789  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७८९</summary>
+
+789
+यथा शक्ति सब काल में, भेद बिना उपकार ।  
+करने की क्षमता सुदृढ़, है मैत्री-दरबार ॥
+  </details>
 
 <details><summary>मूलम् - ७८९</summary>
 
@@ -862,6 +995,13 @@ puṉaiyiṉum, pulleṉṉum-naṭpu.
 "Such we are and such they are"  
 Ev'n this boast will friendship mar.        790  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७९०</summary>
+
+790
+‘ऐसे ये मेरे लिये’, ‘मैं हूँ इनका यार’ ।  
+मैत्री की महिमा गयी, यों करते उपचार ॥
+  </details>
 
 <details><summary>मूलम् - ७९०</summary>
 

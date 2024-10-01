@@ -40,6 +40,13 @@ The ignoble the noble fear
 The mean hold them as kinsmen dear.        451  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५१</summary>
+
+451
+ओछों से डरना रहा, उत्तम जन की बान ।  
+गले लगाना बन्धु सम, है ओछों की बान ॥
+  </details>
+
 <details><summary>मूलम् - ४५१</summary>
 
 सिट्रिनम् अञ्जुम् पॆरुमै सिऱुमैदान्  
@@ -87,6 +94,13 @@ With soil changes water's taste
 With mates changes the mental state.        452  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५२</summary>
+
+452
+मिट्टी गुणानुसार ज्यों, बदले वारि-स्वभाव ।  
+संगति से त्यों मनुज का, बदले बुद्धि-स्वभाव ॥
+  </details>
+
 <details><summary>मूलम् - ४५२</summary>
 
 निलत्तियल्बाल् नीर्दिरिन् दट्रागुम् मान्दर्क्कु  
@@ -128,6 +142,13 @@ And character from company.
 Wisdom depends upon the mind  
 The worth of man upon his friend.        453  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४५३</summary>
+
+453
+मनोजन्य है मनुज का, प्राकृत इन्द्रियज्ञान ।  
+ऐसा यह  यों नाम तो, संग-जन्य है जान ॥
+  </details>
 
 <details><summary>मूलम् - ४५३</summary>
 
@@ -171,6 +192,13 @@ Wisdom seems to come from mind
 But it truly flows from the kind.        454  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५४</summary>
+
+454
+मनोजन्य सा दीखता, भले बुरे का ज्ञान ।  
+संग-जन्य रहता मगर, नर का ऐसा ज्ञान ॥
+  </details>
+
 <details><summary>मूलम् - ४५४</summary>
 
 मनत्तु ळदुबोलक् काट्टि ऒरुवऱ्कु  
@@ -212,6 +240,13 @@ iṉam tūymai tūvā varum.
 Purity of the thought and deed  
 Comes from good company indeed.        455  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४५५</summary>
+
+455
+मन की होना शुद्धता, तथा कर्म की शुद्धि ।  
+दोनों का अवलंब है, संगति की परिशुद्धि ॥
+  </details>
 
 <details><summary>मूलम् - ४५५</summary>
 
@@ -255,6 +290,13 @@ Pure-hearted get good progeny
 Pure friendship acts with victory.        456  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५६</summary>
+
+456
+पातें सत्सन्तान हैं, जिनका है मन शुद्ध ।  
+विफल कर्म होता नहीं, जिनका रंग विशुद्ध ॥
+  </details>
+
 <details><summary>मूलम् - ४५६</summary>
 
 मनन्दूयार्क् कॆच्चम्नन् ऱागुम् इनन्दूयार्क्कु  
@@ -296,6 +338,13 @@ ellāp pukaḻum tarum.
 Goodness of mind increases gain  
 Good friendship fosters fame again.        457  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४५७</summary>
+
+457
+मन की शुद्धि मनुष्य को, देती है ऐश्वर्य ।  
+सत्संगति तो फिर उसे, देती सब यश वर्य ॥
+  </details>
 
 <details><summary>मूलम् - ४५७</summary>
 
@@ -339,6 +388,13 @@ Men of wisdom, though good in mind
 In friends of worth a new strength find.        458  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५८</summary>
+
+458
+शुद्ध चित्तवाले स्वतः, रहते साधु महान ।  
+सत्संगति फिर भी उन्हें, करती शक्ति प्रदान ॥
+  </details>
+
 <details><summary>मूलम् - ४५८</summary>
 
 मननलम् नन्गुडैय रायिनुम् साण्ड्रोर्क्कु  
@@ -381,6 +437,13 @@ Good mind decides the future bliss
 Good company gains strength to this.        459  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५९</summary>
+
+459
+चित्त-शुद्धि परलोक का, देती है आनन्द ।  
+वही शुद्धि सत्संग से होती और बुलन्द ॥
+  </details>
+
 <details><summary>मूलम् - ४५९</summary>
 
 मननलत्तिन् आगुम् मऱुमैमऱ्ऱह्दुम्  
@@ -422,6 +485,13 @@ allaṟpaṭuppatūum il.
 No help good company exeeds;  
 The bad to untold anguish leads.        460  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४६०</summary>
+
+460
+साथी कोई है नहीं, साध- संग से उच्च ।  
+बढ़ कर कुसंग से नहीं, शत्रु हानिकर तुच्छ ॥
+  </details>
 
 <details><summary>मूलम् - ४६०</summary>
 

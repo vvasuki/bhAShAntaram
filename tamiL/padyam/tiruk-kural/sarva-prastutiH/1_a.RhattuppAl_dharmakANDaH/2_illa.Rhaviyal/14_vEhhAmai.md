@@ -40,6 +40,13 @@ Who covets others' honest wealth
 That greed ruins his house forthwith.         171  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १७१</summary>
+
+171
+न्याय-बुद्धि को छोड़ कर, यदि हो पर-धन-लोभ ।  
+हो कर नाश कुटुम्ब का, होगा दोषारोप ॥
+  </details>
+
 <details><summary>मूलम् - १७१</summary>
 
 नडुविण्ड्रि नन्बॊरुळ् वॆह्हि³न् कुडिबॊण्ड्रिक्  
@@ -82,6 +89,13 @@ Who shrink with shame from sin, refrain
 From coveting which brings ruin.         172  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १७२</summary>
+
+172
+न्याय-पक्ष के त्याग से, जिनको होती लाज ।  
+लोभित पर-धन-लाभ से, करते नहीं अकाज ॥
+  </details>
+
 <details><summary>मूलम् - १७२</summary>
 
 पडुबयन् वॆह्हि³प् पऴिप्पडुव सॆय्यार्  
@@ -123,6 +137,13 @@ maṟṟu iṉpam vēṇṭupavar.
 For spiritual bliss who long  
 For fleeting joy commit no wrong.         173  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १७३</summary>
+
+173
+नश्वर सुख के लोभ में, वे न करें दुष्कृत्य ।  
+जिनको इच्छा हो रही, पाने को सुख नित्य ॥
+  </details>
 
 <details><summary>मूलम् - १७३</summary>
 
@@ -171,6 +192,13 @@ The truth-knowers of sense-control
 Though in want covet not at all.         174  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १७४</summary>
+
+174
+जो हैं इन्द्रियजित तथा, ज्ञानी भी अकलंक ।  
+दारिदवश भी लालची, होते नहीं अशंक ॥
+  </details>
+
 <details><summary>मूलम् - १७४</summary>
 
 इलमॆण्ड्रु वॆह्हु³दल् सॆय्यार् पुलम्वॆण्ड्र  
@@ -212,6 +240,13 @@ veḵki, veṟiya ceyiṉ?.
 What is one's subtle wisdom worth  
 If it deals ill with all on earth.         175  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १७५</summary>
+
+175
+तीखे विस्तृत ज्ञान से, क्या होगा उपकार ।  
+लालचवश सबसे करें, अनुचित व्यवहार ॥
+  </details>
 
 <details><summary>मूलम् - १७५</summary>
 
@@ -255,6 +290,13 @@ Who seeks for grace on righteous path
 Suffers by evil covetous wealth.         176  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १७६</summary>
+
+176
+ईश-कृपा की चाह से, जो न धर्म से भ्रष्ट ।  
+दुष्ट-कर्म धन-लोभ से, सोचे तो वह नष्ट ॥
+  </details>
+
 <details><summary>मूलम् - १७६</summary>
 
 अरुळ्वॆह्हि³ आट्रिन्गण् निण्ड्रान् पॊरुळ्वॆह्हि³प्  
@@ -296,6 +338,13 @@ māṇṭaṟku aritu ām payaṉ!.
 Shun the fruit of covetousness  
 All its yield is inglorious.         177  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १७७</summary>
+
+177
+चाहो मत संपत्ति को, लालच से उत्पन्न ।  
+उसका फल होता नहीं कभी सुगुण-संपन्न ॥
+  </details>
 
 <details><summary>मूलम् - १७७</summary>
 
@@ -339,6 +388,13 @@ Against covetousness - The mark of lasting wealth is shown
 By not coveting others' own.         178  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १७८</summary>
+
+178
+निज धन का क्षय हो नहीं, इसका क्या सदुपाय ।  
+अन्यों की संपत्ति का, लोभ किया नहिं जाय ॥
+  </details>
+
 <details><summary>मूलम् - १७८</summary>
 
 अह्हा³मै सॆल्वत्तिऱ्कु यादॆनिन् वॆह्हा³मै  
@@ -380,6 +436,13 @@ tiṟaṉ aṟintu āṅkē tiru.
 Fortune seeks the just and wise  
 Who are free from coveting vice.         179  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १७९</summary>
+
+179
+निर्लोभता ग्रहण करें, धर्म मान धीमान ।  
+श्री पहुँचे उनके यहाँ, युक्त काल थल जान ॥
+  </details>
 
 <details><summary>मूलम् - १७९</summary>
 
@@ -431,6 +494,13 @@ vēṇṭāmai eṉṉum cerukku.
 Desireless, greatness conquers all;  
 Coveting misers ruined fall.         180  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १८०</summary>
+
+180
+अविचारी के लोभ से, होगा उसका अन्त ।  
+लोभ- हीनता- विभव से, होगी विजय अनन्त ॥
+  </details>
 
 <details><summary>मूलम् - १८०</summary>
 

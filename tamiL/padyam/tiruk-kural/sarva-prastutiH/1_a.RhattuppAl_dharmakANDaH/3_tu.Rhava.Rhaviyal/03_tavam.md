@@ -45,6 +45,13 @@ Pains endure; pain not beings
 This is the type of true penance.        261  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २६१</summary>
+
+261
+तप नियमों को पालते, सहना कष्ट महान ।  
+जीव-हानि-वर्जन तथा, तप का यही निशान ॥
+  </details>
+
 <details><summary>मूलम् - २६१</summary>
 
 उट्रनोय् नोण्ड्रल् उयिर्क्कुऱुगण् सॆय्यामै  
@@ -86,6 +93,13 @@ aḵtu ilār mēṟkoḷvatu.
 Penance is fit for penitents  
 Not for him who in vain pretends.        262  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २६२</summary>
+
+262
+तप भी बस उनका रहा, जिनको है वह प्राप्त ।  
+यत्न वृथा उसके लिये, यदि हो वह अप्राप्त ॥
+  </details>
 
 <details><summary>मूलम् - २६२</summary>
 
@@ -134,6 +148,13 @@ Is it to true penitent's aid,
 That others austere path avoid?        263  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २६३</summary>
+
+263
+भोजनादि उपचार से, तपसी सेवा-धर्म ।  
+करने हित क्या अन्य सब, भूल गये तप-कर्म ॥
+  </details>
+
 <details><summary>मूलम् - २६३</summary>
 
 तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्  
@@ -175,6 +196,13 @@ eṇṇiṉ, tavattāṉ varum.
 In penance lies the power to save  
 The friends and foil the foe and knave.        264  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २६४</summary>
+
+264
+दुखदायी रिपु का दमन, प्रिय जन क उत्थान ।  
+स्मरण मात्र से हो सके, तप के बल अम्लान ॥
+  </details>
 
 <details><summary>मूलम् - २६४</summary>
 
@@ -218,6 +246,13 @@ What they wish as they wish is won
 Here hence by men penance is done.        265  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २६५</summary>
+
+265
+तप से सब कुछ प्राप्य हैं, जो चाहे जिस काल ।  
+इससे तप-साधन यहाँ, करना है तत्काल ॥
+  </details>
+
 <details><summary>मूलम् - २६५</summary>
 
 वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्  
@@ -259,6 +294,13 @@ avam ceyvār, ācaiyuḷ paṭṭu.
 Who do penance achieve their aim  
 Others desire-rid themselves harm.        266  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २६६</summary>
+
+266
+वही पुरुष कृतकृत्य है, जो करता तप-कर्म ।  
+करें कामवश अन्य सब, स्वहानिकारक कर्म ॥
+  </details>
 
 <details><summary>मूलम् - २६६</summary>
 
@@ -302,6 +344,13 @@ Pure and bright gets the gold in fire;
 and so the life by pain austere.        267  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २६७</summary>
+
+267
+तप तप कर ज्यों स्वर्ण की, होती निर्मल कान्ति ।  
+तपन ताप से ही तपी, चमक उठें उस भाँति ॥
+  </details>
+
 <details><summary>मूलम् - २६७</summary>
 
 सुडच्चुडरुम् पॊन्बोल् ऒळिविडुम् तुन्बञ्  
@@ -344,6 +393,13 @@ He worship wins from every soul
 Who Master is by soul control.        268  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २६८</summary>
+
+268
+आत्म-बोध जिनको हुआ, करके वश निज जीव ।  
+उनको करते वंदना, शेष जगत के जीव ॥
+  </details>
+
 <details><summary>मूलम् - २६८</summary>
 
 तन्नुयिर् तान्अऱप् पॆट्रानै एनैय  
@@ -385,6 +441,13 @@ Could defeat even the Lord of Death.
 They can even defy death  
 Who get by penance godly strength.        269  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २६९</summary>
+
+269
+जिस तपसी को प्राप्त है, तप की शक्ति महान ।  
+यम पर भी उसकी विजय, संभव है तू जान ॥
+  </details>
 
 <details><summary>मूलम् - २६९</summary>
 
@@ -436,6 +499,13 @@ cilar; palar nōlātavar.
 Many are poor and few are rich  
 For they care not for penance much.        270  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २७०</summary>
+
+270
+निर्धन जन-गणना अधिक, इसका कौन निदान ।  
+तप नहिं करते बहुत जन, कम हैं तपोनिधान ॥
+  </details>
 
 <details><summary>मूलम् - २७०</summary>
 

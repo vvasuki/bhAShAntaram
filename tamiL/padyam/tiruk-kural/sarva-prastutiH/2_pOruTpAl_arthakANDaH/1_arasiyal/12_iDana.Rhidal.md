@@ -40,6 +40,13 @@ No action take, no foe despise
 Until you have surveyed the place.        491  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४९१</summary>
+
+491
+कोई काम न कर शुरू, तथा न कर उपहास ।  
+जब तक रिपु को घेरने, स्थल की है नहिं आस ॥
+  </details>
+
 <details><summary>मूलम् - ४९१</summary>
 
 तॊडङ्गऱ्क ऎव्विनैयुम् ऎळ्ळऱ्क मुट्रुम्  
@@ -81,6 +88,13 @@ Even to men of strength and valour. *
 Many are gains of fortresses  
 Ev'n to kings of power and prowess.        492  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४९२</summary>
+
+492
+शत्रु-भाव से पुष्ट औ’, जो हों अति बलवान ।  
+उनको भी गढ़-रक्ष तो, बहु फल करे प्रदान ॥
+  </details>
 
 <details><summary>मूलम् - ४९२</summary>
 
@@ -124,6 +138,13 @@ Weaklings too withstand foe's offence
 In proper fields of strong defence.        493  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४९३</summary>
+
+493
+निर्बल भी बन कर सबल, पावें जय-सम्मान ।  
+यदि रिपु पर धावा करें, ख़ोज सुरक्षित स्थान ॥
+  </details>
+
 <details><summary>मूलम् - ४९३</summary>
 
 आट्रारुम् आट्रि अडुब इडनऱिन्दु  
@@ -165,6 +186,13 @@ tuṉṉiyār tuṉṉic ceyiṉ.
 If fighters fight in vantage field  
 The plans of foes shall be baffled.        494  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४९४</summary>
+
+494
+रिपु निज विजय विचार से, धो बैठेंगे हाथ ।  
+स्थान समझ यदि कार्य में, जुड़ते दृढ नरनाथ ॥
+  </details>
 
 <details><summary>मूलम् - ४९४</summary>
 
@@ -208,6 +236,13 @@ In water crocodile prevails
 In land before others it fails.        495  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४९५</summary>
+
+495
+गहरे जल में मगर की, अन्यों पर हो जीत ।  
+जल से बाहर अन्य सब, पावें जय विपरीत ॥
+  </details>
+
 <details><summary>मूलम् - ४९५</summary>
 
 नॆडुम्बुनलुळ् वॆल्लुम् मुदलै अडुम्बुनलिन्  
@@ -249,6 +284,13 @@ nāvāyum ōṭā, nilattu.
 Sea-going ship goes not on shore  
 Nor on sea the strong-wheeled car.        496  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४९६</summary>
+
+496
+भारी रथ दृढ चक्रयुत, चले न सागर पार ।  
+सागरगामी नाव भी, चले न भू पर तार ॥
+  </details>
 
 <details><summary>मूलम् - ४९६</summary>
 
@@ -292,6 +334,13 @@ No aid but daring dash they need
 When field is chosen right for deed.        497  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४९७</summary>
+
+497
+निर्भय के अतिरिक्त तो, चाहिये न सहकार ।  
+उचित जगह पर यदि करें, खूब सोच कर कार ॥
+  </details>
+
 <details><summary>मूलम् - ४९७</summary>
 
 अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै  
@@ -333,6 +382,13 @@ If driven to a place meant for a small one.
 Though force is small, if place is right  
 One quells a foe of well-armed might.        498  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४९८</summary>
+
+498
+यदि पाता लघु-सैन्य-युत, आश्रय स्थल अनुकूल ।  
+उसपर चढ़ बहु-सैन्य युत, होगा नष्ट समूल ॥
+  </details>
 
 <details><summary>मूलम् - ४९८</summary>
 
@@ -376,6 +432,13 @@ To face a foe at home is vain
 Though fort and status are not fine.        499  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४९९</summary>
+
+499
+सदृढ़ दुर्ग साधन बड़ा, है नहिं रिपु के पास ।  
+फिर भी उसके क्षेत्र में, भिड़ना व्यर्थ प्रयास ॥
+  </details>
+
 <details><summary>मूलम् - ४९९</summary>
 
 सिऱैनलनुम् सीरुम् इलरॆनिनुम् मान्दर्  
@@ -417,6 +480,13 @@ vēl āḷ mukatta kaḷiṟu.
 A fox can kill a war tusker  
 Fearless with feet in deep quagmire.        500  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५००</summary>
+
+500
+जिस निर्भय गजराज के, दन्तलग्न बरछैत ।  
+गीदड़ भी मारे उसे, जब दलदल में कैंद ॥
+  </details>
 
 <details><summary>मूलम् - ५००</summary>
 

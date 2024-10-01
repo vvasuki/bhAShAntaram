@@ -41,6 +41,13 @@ The friendship by an enemy shown
 Is anvil in time, to strike you down.        821  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८२१</summary>
+
+821
+अंतरंग मैत्री नहीं, पर केवल बहिरंग ।  
+अवसर पा वह पीटती, पकड़ निहाई ढ़ंग ।  
+  </details>
+
 <details><summary>मूलम् - ८२१</summary>
 
 सीरिडम् काणिन् ऎऱिदऱ्कुप् पट् टडै  
@@ -83,6 +90,13 @@ Who pretend kinship but are not
 Their friendship's fickle like woman's heart.        822  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८२२</summary>
+
+822
+बन्धु सदृश पर बन्धु नहिं, उनकी मैत्री-बान ।  
+है परिवर्तनशील ही, नारी-चित्त समान ॥
+  </details>
+
 <details><summary>मूलम् - ८२२</summary>
 
 इनम्बोण्ड्रु इनमल्लार् केण्मै मगळिर्  
@@ -124,6 +138,13 @@ No matter how well educated they are. *
 They may be vast in good studies  
 But heartfelt-love is hard for foes.        823  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८२३</summary>
+
+823
+सद्‍ग्रंथों का अध्ययन, यद्यपि किया अनेक ।  
+शत्रु कभी होंगे नहीं, स्नेह-मना सविवेक ॥
+  </details>
 
 <details><summary>मूलम् - ८२३</summary>
 
@@ -172,6 +193,13 @@ Fear foes whose face has winning smiles
 Whose heart is full of cunning guiles.        824  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८२४</summary>
+
+824
+मुख पर मधुर हँसी सहित, हृदय वैर से पूर ।  
+ऐसे लोगों से डरो, ये हैं वंचक कूर ॥
+  </details>
+
 <details><summary>मूलम् - ८२४</summary>
 
 मुगत्तिन् इनिय नगाअ अगत्तिन्ना  
@@ -219,6 +247,13 @@ Do not trust in what they tell
 Whose mind with your mind goes ill.        825  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८२५</summary>
+
+825
+जिससे मन मिलता नहीं, उसका सुन वच मात्र ।  
+किसी विषय में मत समझ, उसे भरोसा पात्र ॥
+  </details>
+
 <details><summary>मूलम् - ८२५</summary>
 
 मनत्तिन् अमैया तवरै ऎनैत्तॊण्ड्रुम्  
@@ -260,6 +295,13 @@ ollai uṇarap paṭum.
 The words of foes is quickly seen  
 Though they speak like friends in fine.        826  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८२६</summary>
+
+826
+यद्यपि बोलें मित्र सम, हितकर वचन गढ़ंत ।  
+शत्रु-वचन की व्यर्थता, होती प्रकट तुरंत ॥
+  </details>
 
 <details><summary>मूलम् - ८२६</summary>
 
@@ -303,6 +345,13 @@ Trust not the humble words of foes
 Danger darts from bending bows.        827  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८२७</summary>
+
+827
+सूचक है आपत्ति का, धनुष नमन की बान ।  
+सो रिपु-वचन-विनम्रता, निज हितकर मत जान ॥
+  </details>
+
 <details><summary>मूलम् - ८२७</summary>
 
 सॊल्वणक्कम् ऒन्नार्गण् कॊळ्ळऱ्क विल्वणक्कम्  
@@ -344,6 +393,13 @@ aḻutakaṇ ṇīrum aṉaittu.
 Adoring hands of foes hide arms  
 Their sobbing tears have lurking harms.        828  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८२८</summary>
+
+828
+जुड़े हाथ में शत्रु के, छिप रहता हथियार ।  
+वैसी ही रिपु की रही, रुदन-अश्रु-जल-धार ॥
+  </details>
 
 <details><summary>मूलम् - ८२८</summary>
 
@@ -387,6 +443,13 @@ In open who praise, at heart despise
 Cajole and crush them in friendly guise.        829  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८२९</summary>
+
+829
+जो अति मैत्री प्रकट कर, मन में करता हास ।  
+खुश कर मैत्री भाव से, करना उसका नाश ॥
+  </details>
+
 <details><summary>मूलम् - ८२९</summary>
 
 मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
@@ -428,6 +491,13 @@ akanaṭpu orīi viṭal.
 When foes, in time, play friendship's part  
 Feign love on face but not in heart.        830  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८३०</summary>
+
+830
+शत्रु, मित्र जैसा बने, जब आवे यह काल ।  
+मुख पर मैत्री प्रकट कर, मन से उसे निकाल ॥
+  </details>
 
 <details><summary>मूलम् - ८३०</summary>
 

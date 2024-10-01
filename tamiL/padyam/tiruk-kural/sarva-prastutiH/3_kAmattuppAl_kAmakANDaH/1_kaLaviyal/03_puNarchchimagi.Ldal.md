@@ -40,6 +40,13 @@ In this bangled beauty dwell
 The joys of sight sound touch taste smell.        1101  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११०१</summary>
+
+1101
+पंचेन्द्रिय सुख, रूप औ’, स्पर्श गंध रस शब्द ।  
+उज्ज्वल चूड़ी से सजी, इसमें सब उपलब्ध ॥
+  </details>
+
 <details><summary>मूलम् - ११०१</summary>
 
 कण्डुगेट्टु उण्डुयिर्त्तु उट्रऱियुम् ऐम्बुलनुम्  
@@ -87,6 +94,13 @@ The cure for ailment is somewhere
 For fair maid's ill she is the cure.        1102  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११०२</summary>
+
+1102
+रोगों की तो है दवा, उनसे अलग पदार्थ ।  
+जो सुतनू का रोग है, दवा वही रोगार्थ ॥
+  </details>
+
 <details><summary>मूलम् - ११०२</summary>
 
 पिणिक्कु मरुन्दु पिऱमन् अणियिऴै  
@@ -128,6 +142,13 @@ tāmaraik kaṇṇāṉ ulaku.
 Is lotus-eyed lord's heaven so sweet  
 As sleep in lover's arms so soft?        1103  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११०३</summary>
+
+1103
+निज दयिता मृदु स्कंध पर, सोते जो आराम ।  
+उससे क्या रमणीय है, कमल-नयन का धाम ॥
+  </details>
 
 <details><summary>मूलम् - ११०३</summary>
 
@@ -176,6 +197,13 @@ Away it burns and cools anear
 Wherefrom did she get this fire?        1104  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११०४</summary>
+
+1104
+हटने पर देती जला, निकट गया तो शीत ।  
+आग कहाँ से पा गयी, बाला यह विपरीत ॥
+  </details>
+
 <details><summary>मूलम् - ११०४</summary>
 
 नीङ्गिन् तॆऱूउम् कुऱुगुङ्गाल् तण्णॆन्नुम्  
@@ -217,6 +245,13 @@ tōṭṭār katuppiṉāḷ tōḷ.
 The arms of my flower-tressed maid  
 Whatever I wish that that accord.        1105  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११०५</summary>
+
+1105
+इच्छित ज्यों इच्छित समय, आकर दें आनन्द ।  
+पुष्पालंकृत केशयुत, हैं बाला के स्कंध ॥
+  </details>
 
 <details><summary>मूलम् - ११०५</summary>
 
@@ -260,6 +295,13 @@ My simple maid has nectar arms
 Each embrace brings life-thrilling charms.        1106  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११०६</summary>
+
+1106
+लगने से हर बार है, नवजीवन का स्पंद ।  
+बने हुए हैं अमृत के, इस मुग्धा के स्कंध ॥
+  </details>
+
 <details><summary>मूलम् - ११०६</summary>
 
 उऱुदोऱु उयिर्दळिर्प्पत् तीण्डलाल् पेदैक्कु  
@@ -301,6 +343,13 @@ ammā arivai muyakku.
 Ah the embrace of this fair dame  
 Is like sharing one's food at home.        1107  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११०७</summary>
+
+1107
+स्वगृह में स्वपादर्थ का, यथा बाँट कर भोग ।  
+रहा गेहुँए रंग की, बाला से संयोग ॥
+  </details>
 
 <details><summary>मूलम् - ११०७</summary>
 
@@ -344,6 +393,13 @@ Joy is the fast embrace that doth
 Not admit e'en air between both.        1108  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११०८</summary>
+
+1108
+आलिंगन जो यों रहा, बीच हवा-गति बंद ।  
+दोनों को, प्रिय औ’ प्रिया, देता है आनन्द ॥
+  </details>
+
 <details><summary>मूलम् - ११०८</summary>
 
 वीऴुम् इरुवर्क्कु इनिदे वळियिडै  
@@ -386,6 +442,13 @@ Sulking, feeling and clasping fast
 These three are sweets of lover's tryst.        1109  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११०९</summary>
+
+1109
+मान मनावन मिलनसुख, ये जो हैं फल-भोग ।  
+प्रेम-पाश में जो पड़े, उनको है यह भोग ॥
+  </details>
+
 <details><summary>मूलम् - ११०९</summary>
 
 ऊडल् उणर्दल् पुणर्दल् इवैगामम्  
@@ -427,6 +490,13 @@ ceṟitōṟum cēyiḻai māṭṭu.
 As knowledge reveals past ignorance  
 So is the belle as love gets close.        1110  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १११०</summary>
+
+1110
+होते होते ज्ञान के, यथा ज्ञात अज्ञान ।  
+मिलते मिलते सुतनु से, होता प्रणय-ज्ञान ॥
+  </details>
 
 <details><summary>मूलम् - १११०</summary>
 

@@ -40,6 +40,13 @@ If "What is truth"? the question be,
 It is to speak out evil-free.        291  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २९१</summary>
+
+291
+परिभाषा है सत्य की, वचन विनिर्गत हानि ।  
+सत्य-कथन से अल्प भी न हो किसी को ग्लानि ॥
+  </details>
+
 <details><summary>मूलम् - २९१</summary>
 
 वाय्मै ऎनप्पडुवदु यादॆनिन् यादॊण्ड्रुम्  
@@ -81,6 +88,13 @@ naṉmai payakkum eṉiṉ.
 E'en falsehood may for truth suffice,  
 When good it brings removing vice.        292  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २९२</summary>
+
+292
+मिथ्या-भाषण यदि करे, दोषरहित कल्याण ।  
+तो यह मिथ्या-कथन भी, मानो सत्य समान ॥
+  </details>
 
 <details><summary>मूलम् - २९२</summary>
 
@@ -124,6 +138,13 @@ Let not a man knowingly lie;
 Conscience will scorch and make him sigh.        293  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २९३</summary>
+
+293
+निज मन समझे जब स्वयं, झूठ न बोलें आप ।  
+बोलें तो फिर आप को, निज मन दे संताप ॥
+  </details>
+
 <details><summary>मूलम् - २९३</summary>
 
 तन्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिन्  
@@ -165,6 +186,13 @@ uḷḷattuḷ ellām uḷaṉ.
 He lives in loving hearts of all  
 Who serves the Truth serene in soul.        294  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २९४</summary>
+
+294
+मन से सत्याचरण का, जो करता अभ्यास ।  
+जग के सब के हृदय में, करता है वह वास ॥
+  </details>
 
 <details><summary>मूलम् - २९४</summary>
 
@@ -208,6 +236,13 @@ To speak the truth from heart sincere
 Is more than giving and living austere.        295  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २९५</summary>
+
+295
+दान-पुण्य तप-कर्म भी, करते हैं जो लोग ।  
+उनसे बढ़ हैं, हृदय से, सच बोलें जो लोग ॥
+  </details>
+
 <details><summary>मूलम् - २९५</summary>
 
 मनत्तॊडु वाय्मै मॊऴियिन् तवत्तॊडु  
@@ -249,6 +284,13 @@ ellā aṟamum tarum.
 Not to lie brings all the praise  
 All virtues from Truth arise.        296  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २९६</summary>
+
+296
+मिथ्या-भाषण त्याग सम, रहा न कीर्ति-विकास ।  
+उससे सारा धर्म-फल, पाये बिना प्रयास ॥
+  </details>
 
 <details><summary>मूलम् - २९६</summary>
 
@@ -297,6 +339,13 @@ Lie not lie not. Naught else you need
 All virtues are in Truth indeed.        297  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २९७</summary>
+
+297
+सत्य-धर्म का आचरण, सत्य-धर्म ही मान ।  
+अन्य धर्म सब त्यागना, अच्छा ही है जान ॥
+  </details>
+
 <details><summary>मूलम् - २९७</summary>
 
 पॊय्यामै पॊय्यामै आट्रिन् अऱम्बिऱ  
@@ -339,6 +388,13 @@ Water makes you pure outward
 Truth renders you pure inward.        298  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २९८</summary>
+
+298
+बाह्‍य-शुद्धता देह को, देता ही है तोय ।  
+अन्तः करण-विशुद्धता, प्रकट सत्य से जोंय ॥
+  </details>
+
 <details><summary>मूलम् - २९८</summary>
 
 पुऱळ्दूय्मै नीरान् अमैयुम् अगन्दूय्मै  
@@ -380,6 +436,13 @@ poyyā viḷakkē viḷakku.
 All lights are not lights for the wise;  
 Truth light is light bright like sun-light        299  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २९९</summary>
+
+299
+दीपक सब दीपक नहीं, जिनसे हो तम-नाश ।  
+सत्य-दीप ही दीप है, पावें साधु प्रकाश ॥
+  </details>
 
 <details><summary>मूलम् - २९९</summary>
 
@@ -431,6 +494,13 @@ vāymaiyiṉ nalla piṟa.
 Of all the things we here have seen  
 Nothing surpasses Truth serene !        300  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३००</summary>
+
+300
+हमने अनुसन्धान से, जितने पाये तत्व ।  
+उनमें कोई सत्य सम, पाता नहीं महत्व ॥
+  </details>
 
 <details><summary>मूलम् - ३००</summary>
 

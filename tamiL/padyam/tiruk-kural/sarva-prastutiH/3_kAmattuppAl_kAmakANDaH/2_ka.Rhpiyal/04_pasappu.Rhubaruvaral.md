@@ -45,6 +45,13 @@ My lover's parting, I allowed
 Whom to complain my hue pallid?        1181  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११८१</summary>
+
+1181
+प्रिय को जाने के लिये, सम्मति दी उस काल ।  
+अब जा कर किससे कहूँ, निज पीलापन-हाल ॥
+  </details>
+
 <details><summary>मूलम् - ११८१</summary>
 
 नयन्दवर्क्कु नल्गामै नेर्न्देन् पसन्दवॆन्  
@@ -86,6 +93,13 @@ mēṉimēl ūrum pacappu.
 Claiming it is begot through him  
 Pallor creeps and rides over my frame.        1182  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११८२</summary>
+
+1182
+पीलापन यह गर्व कर, ‘मैं हूँ उनसे प्राप्त’ ।  
+चढ़ कर मेरी देह में, हो जाता है व्याप्त ॥
+  </details>
 
 <details><summary>मूलम् - ११८२</summary>
 
@@ -129,6 +143,13 @@ He seized my beauty and modesty
 Leaving pangs and Pallor to me.        1183  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११८३</summary>
+
+1183
+पीलापन औ’ रोग का, करके वे प्रतिदान ।  
+मेरी छवि औ’ लाज का, ले कर चले सुदान ॥
+  </details>
+
 <details><summary>मूलम् - ११८३</summary>
 
 सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा  
@@ -170,6 +191,13 @@ kaḷḷam piṟavō pacappu.
 He is my thought, his praise my theme  
 Yet this pallor steals over my frame.        1184  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११८४</summary>
+
+1184
+उनके गुण का स्मरण कर, करती हूँ गुण-गान ।  
+फिर भी पीलापन चढ़ा, तो क्या यह धोखा न ॥
+  </details>
 
 <details><summary>मूलम् - ११८४</summary>
 
@@ -213,6 +241,13 @@ My lover departed me there
 And pallor usurped my body here.        1185  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११८५</summary>
+
+1185
+वह देखो, जाते बिछुड़, मेरे प्रियतम आप्त ।  
+यह देखो, इस देह पर, पीलापन है व्याप्त ॥
+  </details>
+
 <details><summary>मूलम् - ११८५</summary>
 
 उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎन्  
@@ -254,6 +289,13 @@ muyakkuaṟṟam pārkkum pacappu.
 Just as darkness waits for light-off  
 Pallor looks for lover's arms-off.        1186  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११८६</summary>
+
+1186
+दीपक बुझने की यथा, तम की जो है ताक ।  
+प्रिय-आलिंगन ढील पर, पैलापन की ताक ॥
+  </details>
 
 <details><summary>मूलम् - ११८६</summary>
 
@@ -297,6 +339,13 @@ From his embrace I turned a nonce
 This pallor swallowed me at once.        1187  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११८७</summary>
+
+1187
+आलिंगन करके रही, करवट बदली थोर ।  
+उस क्षण जम कर छा गया, पीलापन यह घोर ॥
+  </details>
+
 <details><summary>मूलम् - ११८७</summary>
 
 पुल्लिक् किडन्देन् पुडैबॆयर्न्देन् अव्वळविल्  
@@ -338,6 +387,13 @@ tuṟantār evareṉpār il.
 On my pallor they cast a slur  
 But none says "lo he parted her".        1188  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११८८</summary>
+
+1188
+‘यह है पीली पड़ गयी’, यों करते हैं बात ।  
+इसे त्याग कर वे गये, यों करते नहिं बात ॥
+  </details>
 
 <details><summary>मूलम् - ११८८</summary>
 
@@ -381,6 +437,13 @@ Let all my body become pale
 If he who took my leave fares well.        1189  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११८९</summary>
+
+1189
+मुझे मना कर तो गये, यदि सकुशल हों नाथ ।  
+तो मेरा तन भी रहे, पीलापन के साथ ॥
+  </details>
+
 <details><summary>मूलम् - ११८९</summary>
 
 पसक्कमन् पट्टाङ्गॆन् मेनि नयप्पित्तार्  
@@ -422,6 +485,13 @@ nalkāmai tūṟṟār eṉiṉ.
 Let people call me all pallid  
 But my lover let them not deride.        1190  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११९०</summary>
+
+1190
+अच्छा है पाना स्वयं, पीलापन का नाम ।  
+प्रिय का तजना बन्धुजन, यदि न करें बदनाम ॥
+  </details>
 
 <details><summary>मूलम् - ११९०</summary>
 

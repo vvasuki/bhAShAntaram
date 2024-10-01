@@ -41,6 +41,13 @@ Not to beg is billions worth
 E'en from eye-like friends who give with mirth.        1061  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०६१</summary>
+
+1061
+जो न छिपा कर, प्रेम से, करते दान यथेष्ट ।  
+उनसे भी नहिं माँगना, कोटि गुना है श्रेष्ठ ॥
+  </details>
+
 <details><summary>मूलम् - १०६१</summary>
 
 करवादु उवन्दीयुम् कण्णन्नार् कण्णुम्  
@@ -82,6 +89,13 @@ keṭuka ulakiyaṟṟi yāṉ.
 Let World-Maker loiter and rot  
 If "beg and live" be human fate.        1062  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०६२</summary>
+
+1062
+यदि विधि की करतार ने, भीख माँग नर खाय ।  
+मारा मारा फिर वही, नष्ट-भ्रष्ट हो जाय ॥
+  </details>
 
 <details><summary>मूलम् - १०६२</summary>
 
@@ -125,6 +139,13 @@ Nothing is hard like hard saying
 "We end poverty by begging".        1063  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०६३</summary>
+
+1063
+‘निर्धनता के दुःख को, करें माँग कर दूर’ ।  
+इस विचार से क्रूरतर, और न है कुछ क्रूर ॥
+  </details>
+
 <details><summary>मूलम् - १०६३</summary>
 
 इन्मै इडुम्बै इरन्दुदीर् वामॆन्नुम्  
@@ -166,6 +187,13 @@ kālum iravollāc cālpu.
 All space is small before the great  
 Who beg not e'en in want acute.        1064  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०६४</summary>
+
+1064
+दारिदवश भी याचना, जिसे नहीं स्वीकार ।  
+भरने उसके पूर्ण-गुण, काफी नहिं संसार ॥
+  </details>
 
 <details><summary>मूलम् - १०६४</summary>
 
@@ -209,6 +237,13 @@ Though gruel thin, nothing is sweet
 Like the food earned by labour's sweat.        1065  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०६५</summary>
+
+1065
+पका माँड ही क्यों न हो, निर्मल नीर समान ।  
+खाने से श्रम से कमा, बढ़ कर मधुर न जान ॥
+  </details>
+
 <details><summary>मूलम् - १०६५</summary>
 
 तॆण्णीर् अडुबुऱ्कै आयिनुम् ताळ्दन्ददु  
@@ -250,6 +285,13 @@ iraviṉ iḷivantatu il.
 It may be water for the cow  
 Begging tongue is mean anyhow.        1066  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०६६</summary>
+
+1066
+यद्यपि माँगे गाय हित, पानी का ही दान ।  
+याचन से बदतर नहीं, जिह्वा को अपमान ॥
+  </details>
 
 <details><summary>मूलम् - १०६६</summary>
 
@@ -293,6 +335,13 @@ If beg they must I beg beggers
 Not to beg from shrinking misers.        1067  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०६७</summary>
+
+1067
+याचक सबसे याचना, यही कि जो भर स्वाँग ।  
+याचन करने पर न दें, उनसे कभी न माँग ॥
+  </details>
+
 <details><summary>मूलम् - १०६७</summary>
 
 इरप्पन् इरप्पारै ऎल्लाम् इरप्पिन्  
@@ -334,6 +383,13 @@ pārtākkap pakku viṭum.
 The hapless bark of beggary splits  
 On the rock of refusing hits.        1068  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०६८</summary>
+
+1068
+याचन रूपी नाव यदि, जो रक्षा बिन नग्न ।  
+गोपन की चट्टान से, टकराये तो भग्न ॥
+  </details>
 
 <details><summary>मूलम् - १०६८</summary>
 
@@ -377,6 +433,13 @@ The heart at thought of beggars melts;
 It dies at repulsing insults.        1069  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०६९</summary>
+
+1069
+दिल गलता है, ख्याल कर, याचन का बदहाल ।  
+गले बिना ही नष्ट हो, गोपन का कर ख्याल ॥
+  </details>
+
 <details><summary>मूलम् - १०६९</summary>
 
 इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
@@ -418,6 +481,13 @@ collāṭap pōom uyir.
 The word "No" kills the begger's life  
 Where can the niggard's life be safe?        1070  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०७०</summary>
+
+1070
+‘नहीं’ शब्द सुन जायगी, याचक जन की जान ।  
+गोपन करते मनुज के, कहाँ छिपेंगे प्राण ॥
+  </details>
 
 <details><summary>मूलम् - १०७०</summary>
 

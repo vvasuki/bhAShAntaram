@@ -41,6 +41,13 @@ Demand from those who can supply
 Default is theirs when they deny.        1051  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०५१</summary>
+
+1051
+याचन करने योग्य हों, तो माँगना ज़रूर ।  
+उनका गोपन-दोष हो, तेरा कुछ न कसूर ॥
+  </details>
+
 <details><summary>मूलम् - १०५१</summary>
 
 इरक्क इरत्तक्कार्क् काणिन् करप्पिन्  
@@ -82,6 +89,13 @@ tuṉpam uṟāa variṉ.
 Even demand becomes a joy  
 When the things comes without annoy.        1052  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०५२</summary>
+
+1052
+यचित चीज़ें यदि मिलें, बिना दिये दुख-द्वन्द ।  
+याचन करना मनुज को, देता है आनन्द ॥
+  </details>
 
 <details><summary>मूलम् - १०५२</summary>
 
@@ -125,6 +139,13 @@ Request has charm form open hearts
 Who know the duty on their part.        1053  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०५३</summary>
+
+1053
+खुला हृदय रखते हुए, जो मानेंगे मान ।  
+उनके सम्मुख जा खड़े, याचन में भी शान ॥
+  </details>
+
 <details><summary>मूलम् - १०५३</summary>
 
 करप्पिला नॆञ्जिन् कडनऱिवार् मुन्निण्ड्रु  
@@ -166,6 +187,13 @@ kaṉavilum tēṟṟātār māṭṭu.
 Like giving even asking seems  
 From those who hide not even in dreams.        1054  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०५४</summary>
+
+1054
+जिन्हें स्वप्न में भी ‘नहीं’, कहने की नहिं बान ।  
+उनसे याचन भी रहा, देना ही सम जान ॥
+  </details>
 
 <details><summary>मूलम् - १०५४</summary>
 
@@ -209,6 +237,13 @@ The needy demand for help because
 The world has men who don't refuse.        1055  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०५५</summary>
+
+1055
+सम्मुख होने मात्र से, बिना किये इनकार ।  
+दाता हैं जग में, तभी, याचन है स्वीकार ॥
+  </details>
+
 <details><summary>मूलम् - १०५५</summary>
 
 करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिण्ड्रु  
@@ -250,6 +285,13 @@ ellām oruṅku keṭum.
 The pain of poverty shall die  
 Before the free who don't deny.        1056  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०५६</summary>
+
+1056
+उन्हें देख जिनको नहीं, ‘ना’, कह सहना कष्ट ।  
+दुःख सभी दारिद्र्य के, एक साथ हों नष्ट ॥
+  </details>
 
 <details><summary>मूलम् - १०५६</summary>
 
@@ -293,6 +335,13 @@ When givers without scorn impart
 A thrill of delight fills the heart.        1057  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०५७</summary>
+
+1057
+बिना किये अवहेलना, देते जन को देख ।  
+मन ही मन आनन्द से, रहा हर्ष-अतिरेक ॥
+  </details>
+
 <details><summary>मूलम् - १०५७</summary>
 
 इगऴ्न्दॆळ्ळादु ईवारैक् काणिन् मगिऴ्न्दुळ्ळम्  
@@ -335,6 +384,13 @@ This grand cool world shall move to and fro
 Sans Askers like a puppet show.        1058  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०५८</summary>
+
+1058
+शीतल थलयुत विपुल जग, यदि हो याचक-हीन ।  
+कठपुथली सम वह रहे, चलती सूत्राधीन ॥
+  </details>
+
 <details><summary>मूलम् - १०५८</summary>
 
 इरप्पारै इल्लायिन् ईर्ङ्गण्मा ञालम्  
@@ -376,6 +432,13 @@ mēvāril ilāak kaṭai.
 Where stands the glory of givers  
 Without obligation seekers?        1059  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०५९</summary>
+
+1059
+जब कि प्रतिग्रह चाहते, मिलें न याचक लोग ।  
+दाताओं को क्या मिले, यश पाने का योग ॥
+  </details>
 
 <details><summary>मूलम् - १०५९</summary>
 
@@ -423,6 +486,13 @@ tāṉēyum cālum kari.
 The needy should not scowl at "No"  
 His need anothers' need must show.        1060  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०६०</summary>
+
+1060
+याचक को तो चाहिये, ग्रहण करे अक्रोध ।  
+निज दरिद्रता-दुःख ही, करे उसे यह बोध ॥
+  </details>
 
 <details><summary>मूलम् - १०६०</summary>
 

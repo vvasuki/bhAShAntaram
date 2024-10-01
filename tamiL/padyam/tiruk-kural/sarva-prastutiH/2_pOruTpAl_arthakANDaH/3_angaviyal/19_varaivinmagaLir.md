@@ -41,6 +41,13 @@ For gold, not love their tongue cajoles
 Men are ruined by bangled belles.        911  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९११</summary>
+
+911
+चाह नहीं है प्रेमवश, धनमूलक है चाह ।  
+ऐसी स्त्री का मधुर वच, ले लेता है आह ॥
+  </details>
+
 <details><summary>मूलम् - ९११</summary>
 
 अन्बिन् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्  
@@ -82,6 +89,13 @@ nayaṉtūkki naḷḷā viṭal.
 Avoid ill-natured whores who feign  
 Love only for their selfish gain.        912  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९१२</summary>
+
+912
+मधुर वचन है बोलती, तोल लाभ का भाग ।  
+वेश्या के व्यवहार को, सोच समागम त्याग ॥
+  </details>
 
 <details><summary>मूलम् - ९१२</summary>
 
@@ -130,6 +144,13 @@ The false embrace of whores is like
 That of a damned corpse in the dark.        913  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९१३</summary>
+
+913
+पण-स्त्री आलिंगन रहा, यों झूठा ही जान ।  
+ज्यों लिपटे तम-कोष्ठ में, मुरदे से अनजान ॥
+  </details>
+
 <details><summary>मूलम् - ९१३</summary>
 
 पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
@@ -171,6 +192,13 @@ Of those who treasure wealth. *
 The wise who seek the wealth of grace  
 Look not for harlots' low embrace.        914  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९१४</summary>
+
+914
+रहता है परमार्थ में, जिनका मनोनियोग ।  
+अर्थ-अर्थिनी तुच्छ सुख, करते नहिं वे भोग ॥
+  </details>
 
 <details><summary>मूलम् - ९१४</summary>
 
@@ -214,6 +242,13 @@ The lofty wise will never covet
 The open charms of a vile harlot.        915  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९१५</summary>
+
+915
+सहज बुद्धि के साथ है, जिनका विशिष्ट ज्ञान ।  
+पण्य-स्त्री का तुच्छ सुख, भोगेंगे नहिं जान ॥
+  </details>
+
 <details><summary>मूलम् - ९१५</summary>
 
 पॊदुनलत्तार् पुन्नलम् तोयार् मदिनलत्तिन्  
@@ -255,6 +290,13 @@ puṉṉalam pārippār tōḷ.
 Those who guard their worthy fame  
 Shun the wanton's vaunting charm.        916  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९१६</summary>
+
+916
+रूप-दृप्त हो तुच्छ सुख, जो देती हैं बेच ।  
+निज यश-पालक श्रेष्ठ जन, गले लगें नहिं, हेच ॥
+  </details>
 
 <details><summary>मूलम् - ९१६</summary>
 
@@ -298,6 +340,13 @@ Hollow hearts alone desire
 The arms of whores with hearts elsewere.        917  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९१७</summary>
+
+917
+करती है संभोग जो, लगा अन्य में चित्त ।  
+उससे गले लगे वही, जिसका चंचल चित्त ॥
+  </details>
+
 <details><summary>मूलम् - ९१७</summary>
 
 निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्
@@ -339,6 +388,13 @@ māya makaḷir muyakku.
 Senseless fools are lured away  
 By arms of sirens who lead astray.        918  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९१८</summary>
+
+918
+जो स्त्री है मायाविनी, उसका भोग विलास ।  
+अविवेकी जन के लिये, रहा मोहिनी-पाश ॥
+  </details>
 
 <details><summary>मूलम् - ९१८</summary>
 
@@ -382,6 +438,13 @@ The soft jewelled arms of whores are hell
 Into which the degraded fall.        919  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९१९</summary>
+
+919
+वेश्या का कंधा मृदुल, भूषित है जो खूब ।  
+मूढ-नीच उस नरक में, रहते हैं कर डूब ॥
+  </details>
+
 <details><summary>मूलम् - ९१९</summary>
 
 वरैविला माणिऴैयार् मॆन्दोळ् पुरैयिलाप्  
@@ -423,6 +486,13 @@ tirunīkkap paṭṭār toṭarpu.
 Double-minded whores, wine and dice  
 Are lures of those whom fortune flies.        920  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९२०</summary>
+
+920
+द्वैध-मना व्यभिचारिणी, मद्य, जुए का खेल ।  
+लक्ष्मी से जो त्यक्त हैं, उनका इनसे मेल ॥
+  </details>
 
 <details><summary>मूलम् - ९२०</summary>
 

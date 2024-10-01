@@ -40,6 +40,13 @@ Unhelped in turn good help given
 Exceeds in worth earth and heaven.         101  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०१</summary>
+
+101
+उपकृत हुए बिना करे, यदि कोइ उपकार ।  
+दे कर भू सुर-लोक भी, मुक्त न हो आभार ॥
+  </details>
+
 <details><summary>मूलम् - १०१</summary>
 
 सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्  
@@ -82,6 +89,13 @@ A help rendered in hour of need
 Though small is greater than the world.         102  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०२</summary>
+
+102
+अति संकट के समय पर, किया गया उपकार ।  
+भू से अधिक महान है, यद्यपि अल्पाकार ॥
+  </details>
+
 <details><summary>मूलम् - १०२</summary>
 
 कालत्ति नाऱ्चॆय्द नण्ड्रि सिऱिदॆनिनुम्  
@@ -123,6 +137,13 @@ naṉmai kaṭaliṉ peritu.
 Help rendered without weighing fruits  
 Outweighs the sea in grand effects.         103  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०३</summary>
+
+103
+स्वार्थरहित कृत मदद का, यदि गुण आंका जाय ।  
+उदधि-बड़ाई से बड़ा, वह गुण माना जाय ॥
+  </details>
 
 <details><summary>मूलम् - १०३</summary>
 
@@ -171,6 +192,13 @@ Help given though millet- small
 Knowers count its good palm- tree tall.         104  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०४</summary>
+
+104
+उपकृति तिल भर ही हुई, तो भी उसे सुजान ।  
+मानें ऊँचे ताड़ सम, सुफल इसी में जान ॥
+  </details>
+
 <details><summary>मूलम् - १०४</summary>
 
 तिनैत्तुणै नण्ड्रि सॆयिनुम् पनैत्तुणैयाक्  
@@ -218,6 +246,13 @@ A help is not the help's measure
 It is gainer's worth and pleasure.         105  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०५</summary>
+
+105
+सीमित नहिं, उपकार तक, प्रत्युपकार- प्रमाण ।  
+जितनी उपकृत-योग्यता, उतना उसका मान ॥
+  </details>
+
 <details><summary>मूलम् - १०५</summary>
 
 उदवि वरैत्तण्ड्रु उदवि उदवि  
@@ -259,6 +294,13 @@ tuṉpattuḷ tuppu āyār naṭpu!.
 Forget not friendship of the pure  
 Forsake not timely helpers sure.         106  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०६</summary>
+
+106
+निर्दोषों की मित्रता, कभी न जाना भूल ।  
+आपद-बंधु स्नेह को, कभी न तजना भूल ॥
+  </details>
 
 <details><summary>मूलम् - १०६</summary>
 
@@ -302,6 +344,13 @@ Through sevenfold births, in memory fares
 The willing friend who wiped one's tears.         107  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०७</summary>
+
+107
+जिसने दुःख मिटा दिया, उसका स्नेह स्वभाव ।  
+सात जन्म तक भी स्मरण, करते महानुभाव ॥
+  </details>
+
 <details><summary>मूलम् - १०७</summary>
 
 ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्  
@@ -344,6 +393,13 @@ To forget good turns is not good
 Good it is over wrong not to brood.         108  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०८</summary>
+
+108
+भला नहीं है भूलना, जो भी हो उपकार ।  
+भला यही झट भूलना, कोई भी अपकार ॥
+  </details>
+
 <details><summary>मूलम् - १०८</summary>
 
 नण्ड्रि मऱप्पदु नण्ड्रण्ड्रु नण्ड्रल्लदु  
@@ -385,6 +441,13 @@ oṉṟum naṉṟu uḷḷa,keṭum.
 Let deadly harms be forgotten  
 While remembering one good-turn.         109  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०९</summary>
+
+109
+हत्या सम कोई करे, अगर बड़ी कुछ हानि ।  
+उसकी इक उपकार-स्मृति, करे हानि की हानि ॥
+  </details>
 
 <details><summary>मूलम् - १०९</summary>
 
@@ -441,6 +504,13 @@ ceynnaṉṟi koṉṟa makaṟku.
 The virtue-killer may be saved  
 Not benefit-killer who is damned.         110  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११०</summary>
+
+110
+जो भी पातक नर करें, संभव है उद्धार ।  
+पर है नहीं कृतघ्न का, संभव ही निस्तार ॥
+  </details>
 
 <details><summary>मूलम् - ११०</summary>
 

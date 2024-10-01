@@ -43,6 +43,13 @@ He is minister who chooses
 Right means, time, mode and rare ventures.        631  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३१</summary>
+
+631
+साधन, काल, उपाय औ’, कार्यसिद्धि दुस्साध्य ।  
+इनका श्रेष्ठ विधान जो, करता वही अमात्य ॥
+  </details>
+
 <details><summary>मूलम् - ६३१</summary>
 
 करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्  
@@ -90,6 +97,13 @@ With these he guards people, - by his
 Knowledge, firmness and manliness.        632  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३२</summary>
+
+632
+दृढ़ता, कुल-रक्षण तथा, यत्न, सुशिक्षा, ज्ञान ।  
+पाँच गुणों से युक्त जो, वही अमात्य सुजान ॥
+  </details>
+
 <details><summary>मूलम् - ६३२</summary>
 
 वन्गण् कुडिगात्तल् कट्रऱिदल् आळ्विनैयोडु  
@@ -131,6 +145,13 @@ poruttalum, vallatu-amaiccu.
 A minister cherishes friends  
 Divides foes and the parted blends.        633  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६३३</summary>
+
+633
+फूट डालना शत्रु में, पालन मैत्री-भाव ।  
+लेना बिछुड़ों को मिला,  योग्य आमात्य-स्वभाव ॥
+  </details>
 
 <details><summary>मूलम् - ६३३</summary>
 
@@ -174,6 +195,13 @@ A minister must sift reflect
 Select and say surely one fact.        634  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३४</summary>
+
+634
+विश्लेषण करता तथा, परख कार्य को साध्य ।  
+दृढ़ता पूर्वक मंत्रणा, देता योग्य अमात्य ॥
+  </details>
+
 <details><summary>मूलम् - ६३४</summary>
 
 तॆरिदलुम् तेर्न्दु सॆयलुम् ऒरुदलैयाच्  
@@ -215,6 +243,13 @@ tiṟaṉ aṟintāṉ, tērccit tuṇai.
 Have him for help who virtue knows  
 Right wisdom speaks, ever apt in acts.        635  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६३५</summary>
+
+635
+धर्म जान, संयम सहित, ज्ञानपूर्ण कर बात ।  
+सदा समझता शक्ति को, साथी है वह ख्यात ॥
+  </details>
 
 <details><summary>मूलम् - ६३५</summary>
 
@@ -263,6 +298,13 @@ Which subtler brain can stand before
 The keen in brain with learned love?        636  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३६</summary>
+
+636
+शास्त्र जानते जो रहा, सूक्ष्म बुद्धि का भौन ।  
+उसका करते सामना, सूक्ष्म प्रश्न अति कौन ॥
+  </details>
+
 <details><summary>मूलम् - ६३६</summary>
 
 मदिनुट्पम् नूलोडु उडैयार्क्कु अदिनुट्पम्  
@@ -310,6 +352,13 @@ Albeit you know to act from books
 Act after knowing world's outlooks.        637  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३७</summary>
+
+637
+यद्यपि विधियों का रहा, शास्त्र रीति से ज्ञान ।  
+फिर भी करना चाहिये, लोकरीति को जान ॥
+  </details>
+
 <details><summary>मूलम् - ६३७</summary>
 
 सॆयऱ्कै अऱिन्दक् कडैत्तुम् उलगत्तु  
@@ -351,6 +400,13 @@ uḻaiyiruntāṉ kūṟal kaṭaṉ.
 The man in place must tell the facts  
 Though the ignorant king refutes.        638  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६३८</summary>
+
+638
+हत्या कर उपदेश की, खुद हो अज्ञ नरेश ।  
+फिर भी धर्म अमात्य का, देना दृढ़ उपदेश ॥
+  </details>
 
 <details><summary>मूलम् - ६३८</summary>
 
@@ -394,6 +450,13 @@ Seventy crores of foes are better
 Than a minister with mind bitter.        639  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३९</summary>
+
+639
+हानि विचारे निकट रह, यदि दुर्मंत्री एक ।  
+उससे सत्तर कोटि रिपु, मानों बढ़ कर नेक ॥
+  </details>
+
 <details><summary>मूलम् - ६३९</summary>
 
 पऴुदॆण्णुम् मन्दिरियिन् पक्कददुळ् तॆव्वोर्  
@@ -435,6 +498,13 @@ tiṟappāṭu ilāatavar.
 The unresolved, though well designed  
 To fulfil an act they have no mind.        640  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६४०</summary>
+
+640
+यद्यपि क्रम से सोच कर, शुरू करे सब कर्म ।  
+जिनमें दृढ़ क्षमता नहीं, करें अधूरा कर्म ॥
+  </details>
 
 <details><summary>मूलम् - ६४०</summary>
 

@@ -41,6 +41,13 @@ Not to spite the mighty ones
 Safest safeguard to living brings.        891  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८९१</summary>
+
+891
+सक्षम की करना नहीं, क्षमता का अपमान ।  
+रक्षा हित जो कार्य हैं, उनमें यही महान ॥
+  </details>
+
 <details><summary>मूलम् - ८९१</summary>
 
 आट्रुवार् आट्रल् इगऴामै पोट्रुवार्  
@@ -82,6 +89,13 @@ pērā iṭumpai tarum.
 To walk unmindful of the great  
 Shall great troubles ceaseless create.        892  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८९२</summary>
+
+892
+आदर न कर महान का, करे अगर व्यवहार ।  
+होगा उसे महान से, दारुण दुःख अपार ॥
+  </details>
 
 <details><summary>मूलम् - ८९२</summary>
 
@@ -130,6 +144,13 @@ Heed not and do, if ruin you want
 Offence against the mighty great.        893  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८९३</summary>
+
+893
+करने की सामर्थ्य है, जब चाहें तब नाश ।  
+उनका अपचारी बनो, यदि चाहो निज नाश ॥
+  </details>
+
 <details><summary>मूलम् - ८९३</summary>
 
 कॆडल्वेण्डिन् केळादु सॆय्ग अडल्वेण्डिन्  
@@ -177,6 +198,13 @@ The weak who insult men of might
 Death with their own hands invite.        894  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८९४</summary>
+
+894
+करना जो असमर्थ का, समर्थ का नुक़सान ।  
+है वह यम को हाथ से, करना ज्यों आह्‍वान ॥
+  </details>
+
 <details><summary>मूलम् - ८९४</summary>
 
 कूट्रत्तैक् कैयाल् विळित्तट्राल् आट्रुवार्क्कु  
@@ -218,6 +246,13 @@ vēntu ceṟappaṭ ṭavar.
 Where can they go and thrive where  
 Pursued by powerful monarch's ire?        895  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८९५</summary>
+
+895
+जो पराक्रमी भूप के, बना कोप का पात्र ।  
+बच कर रह सकता कहाँ, कहीं न रक्षा मात्र ॥
+  </details>
 
 <details><summary>मूलम् - ८९५</summary>
 
@@ -266,6 +301,13 @@ One can escape in fire caught
 The great who offends escapes not.        896  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८९६</summary>
+
+896
+जल जाने पर आग से, बचना संभव जान ।  
+बचता नहीं महान का, जो करता अपमान ॥
+  </details>
+
 <details><summary>मूलम् - ८९६</summary>
 
 ऎरियाल् सुडप्पडिनुम् उय्वुण्डाम् उय्यार्  
@@ -307,6 +349,13 @@ takaimāṇṭa takkār ceṟiṉ.
 If holy mighty sages frown  
 Stately gifts and stores who can own?        897  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८९७</summary>
+
+897
+तप:श्रेष्ठ हैं जो महा, यदि करते हैं कोप ।  
+क्या हो धन संपत्ति की, और विभव की ओप ॥
+  </details>
 
 <details><summary>मूलम् - ८९७</summary>
 
@@ -350,6 +399,13 @@ When hill-like sages are held small
 The firm on earth lose home and all.        898  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८९८</summary>
+
+898
+जो महान हैं  अचल सम, करते अगर विचार ।  
+जग में शाश्वत सम धनी, मिटता सह परिवार ॥
+  </details>
+
 <details><summary>मूलम् - ८९८</summary>
 
 कुण्ड्रन्नार् कुण्ड्र मदिप्पिन् कुडियॊडु  
@@ -392,6 +448,13 @@ Before the holy sage's rage
 Ev'n Indra's empire meets damage.        899  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८९९</summary>
+
+899
+उत्तम व्रतधारी अगर, होते हैं नाराज ।  
+मिट जायेगा इन्द्र भी, गँवा बीच में राज ॥
+  </details>
+
 <details><summary>मूलम् - ८९९</summary>
 
 एन्दिय कॊळ्गैयार् सीऱिन् इडैमुरिन्दु  
@@ -433,6 +496,13 @@ ciṟantuamainta cīrār ceṟiṉ.
 Even mighty aided men shall quail  
 If the enraged holy seers will.        900  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९००</summary>
+
+900
+तप:श्रेष्ठ यदि क्रुद्ध हों, रखते बडा प्रभाव ।  
+रखते बड़े सहाय भी, होता नहीं बचाव ॥
+  </details>
 
 <details><summary>मूलम् - ९००</summary>
 

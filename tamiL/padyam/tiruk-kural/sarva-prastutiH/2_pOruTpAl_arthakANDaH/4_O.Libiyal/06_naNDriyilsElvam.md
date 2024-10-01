@@ -41,6 +41,13 @@ Dead is he with wealth in pile
 Unenjoyed, it is futile.        1001  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १००१</summary>
+
+1001
+भर कर घर भर प्रचुर धन, जो करता नहिं भोग ।  
+धन के नाते मृतक है, जब है नहिं उपयोग ॥
+  </details>
+
 <details><summary>मूलम् - १००१</summary>
 
 वैत्तान्वाय् साण्ड्र पॆरुम्बॊरुळ् अह्दुण्णान्  
@@ -82,6 +89,13 @@ maruḷāṉām māṇāp piṟappu.
 The niggard miser thinks wealth is all  
 He hoards, gives not is born devil.        1002  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १००२</summary>
+
+1002
+‘सब होता है अर्थ से’, रख कर ऐसा ज्ञान ।  
+कंजूसी के मोह से, प्रेत-जन्म हो मलान ॥
+  </details>
 
 <details><summary>मूलम् - १००२</summary>
 
@@ -125,6 +139,13 @@ A burden he is to earth indeed
 Who hoards without a worthy deed.        1003  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १००३</summary>
+
+1003
+लोलुप संग्रह मात्र का, यश का नहीं विचार ।  
+ऐसे लोभी का जनम, है पृथ्वी को भार ॥
+  </details>
+
 <details><summary>मूलम् - १००३</summary>
 
 ईट्टम् इवऱि इसैवेण्डा आडवर्  
@@ -166,6 +187,13 @@ naccap paṭāa tavaṉ.
 What legacy can he leave behind  
 Who is for approach too unkind.        1004  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १००४</summary>
+
+1004
+किसी एक से भी नहीं, किया गया जो प्यार ।  
+निज अवशेष स्वरूप वह, किसको करे विचार ॥
+  </details>
 
 <details><summary>मूलम् - १००४</summary>
 
@@ -209,6 +237,13 @@ What is the good of crores they hoard
 To give and enjoy whose heart is hard.        1005  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १००५</summary>
+
+1005
+जो करते नहिं दान ही, करते भी नहिं भोग ।  
+कोटि कोटि धन क्यों न हो, निर्धन हैं वे लोग ॥
+  </details>
+
 <details><summary>मूलम् - १००५</summary>
 
 कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय  
@@ -251,6 +286,13 @@ Great wealth unused for oneself nor
 To worthy men is but a slur.        1006  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १००६</summary>
+
+1006
+योग्य व्यक्ति को कुछ न दे, स्वयं न करता भोग ।  
+विपुल संपदा के लिये, इस गुण का नर रोग ॥
+  </details>
+
 <details><summary>मूलम् - १००६</summary>
 
 एदम् पॆरुञ्जॆल्वम् तान्दुव्वान् तक्कार्क्कॊण्ड्रु  
@@ -292,6 +334,13 @@ peṟṟāṉ tamiyaḷmūt taṟṟu.
 Who loaths to help have-nots, his gold  
 Is like a spinster-belle grown old.        1007  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १००७</summary>
+
+1007
+कुछ देता नहिं अधन को, ऐसों का धन जाय ।  
+क्वाँरी रह अति गुणवती, ज्यों बूढ़ी हो जाय ॥
+  </details>
 
 <details><summary>मूलम् - १००७</summary>
 
@@ -340,6 +389,13 @@ The idle wealth of unsought men
 Is poison-fruit-tree amidst a town.        1008  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १००८</summary>
+
+1008
+अप्रिय जन के पास यदि, आश्रित हो संपत्ति ।  
+ग्राम-मध्य विष-वृक्ष ज्यों, पावे फल-संपत्ति ॥
+  </details>
+
 <details><summary>मूलम् - १००८</summary>
 
 नच्चप् पडादवन् सॆल्वम् नडुवूरुळ्  
@@ -381,6 +437,13 @@ oṇporuḷ koḷvār piṟar.
 Others usurp the shining gold  
 In loveless, stingy, vicious hold.        1009  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १००९</summary>
+
+1009
+प्रेम-भाव तज कर तथा, भाव धर्म से जन्य ।  
+आत्म-द्रोह कर जो जमा, धन हथियाते अन्य ॥
+  </details>
 
 <details><summary>मूलम् - १००९</summary>
 
@@ -428,6 +491,13 @@ vaṟaṅkūrn taṉaiyatu uṭaittu.
 The brief want of the rich benign  
 Is like rainclouds growing thin.        1010  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०१०</summary>
+
+1010
+उनकी क्षणिक दरिद्रता, जो नामी धनवान ।  
+जल से खाली जलद का, है स्वभाव समान ॥
+  </details>
 
 <details><summary>मूलम् - १०१०</summary>
 

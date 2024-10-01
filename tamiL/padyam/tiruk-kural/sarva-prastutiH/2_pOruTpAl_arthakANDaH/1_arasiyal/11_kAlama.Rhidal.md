@@ -40,6 +40,13 @@ By day the crow defeats the owl
 Kings need right time their foes to quell.        481  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४८१</summary>
+
+481
+दिन में उल्लू पर विजय, पा लेता है काक ।  
+नृप जिगीषु को चाहिये, उचित समय की ताक ॥
+  </details>
+
 <details><summary>मूलम् - ४८१</summary>
 
 पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
@@ -81,6 +88,13 @@ tīrāmai ārkkum kayiṟu.
 Well-ordered seasoned act is cord  
 That fortune binds in bon accord.        482  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४८२</summary>
+
+482
+लगना जो है कार्य में, अवसर को पहचान ।  
+श्री को जाने से जकड़, रखती रस्सी जान ॥
+  </details>
 
 <details><summary>मूलम् - ४८२</summary>
 
@@ -124,6 +138,13 @@ What is hard for him who acts
 With proper means and time and tacts?        483  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४८३</summary>
+
+483
+है क्या कार्य असाध्य भी, यदि अवसर को जान ।  
+समिचित साधन के सहित, करता कार्य सुजान ॥
+  </details>
+
 <details><summary>मूलम् - ४८३</summary>
 
 अरुविनै यॆन्ब उळवो करुवियान्  
@@ -165,6 +186,13 @@ karuti, iṭattāṉ ceyiṉ.
 Choose proper time and act and place  
 Even the world you win with ease.        484  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४८४</summary>
+
+484
+चाहे तो भूलोक भी, आ जायेगा हाथ ।  
+समय समझ कर यदि करे, युक्त स्थान के साथ ॥
+  </details>
 
 <details><summary>मूलम् - ४८४</summary>
 
@@ -208,6 +236,13 @@ Who want to win the world sublime
 Wait unruffled biding their time.        485  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४८५</summary>
+
+485
+जिनको निश्चित रूप से, विश्व-विजय की चाह ।  
+उचित समय की ताक में, वें हैं बेपरवाह ॥
+  </details>
+
 <details><summary>मूलम् - ४८५</summary>
 
 कालम् करुदि इरुप्पर् कलङ्गादु  
@@ -250,6 +285,13 @@ By self-restraint stalwarts keep fit
 Like rams retreating but to butt.        486  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४८६</summary>
+
+486
+रहता है यों सिकुड़ नृप, रखते हुए बिसात ।  
+ज्यों मेढ़ा पीछे हटे, करने को आघात ॥
+  </details>
+
 <details><summary>मूलम् - ४८६</summary>
 
 ऊक्क मुडैयान् ऒडुक्कम् पॊरुदगर्  
@@ -291,6 +333,13 @@ uḷ vērppar, oḷḷiyavar.
 The wise jut not their vital fire  
 They watch their time with hidden ire.        487  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४८७</summary>
+
+487
+रूठते न झट प्रगट कर, रिपु-अति से नरनाह ।  
+पर कुढ़ते हैं वे सुधी, देख समय की राह ॥
+  </details>
 
 <details><summary>मूलम् - ४८७</summary>
 
@@ -339,6 +388,13 @@ Bear with hostiles when you meet them
 Fell down their head in fateful time.        488  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४८८</summary>
+
+488
+रिपु को असमय देख कर, सिर पर ढो संभाल ।  
+सिर के बल गिर वह मिटे, आते अन्तिम काल ॥
+  </details>
+
 <details><summary>मूलम् - ४८८</summary>
 
 सॆऱुनरैक् काणिन् सुमक्क इऱुवरै  
@@ -386,6 +442,13 @@ When comes the season ripe and rare
 Dare and do hard things then and there.        489  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४८९</summary>
+
+489
+दुर्लभ अवसर यदि मिले, उसको खोने पूर्व ।  
+करना कार्य उसी समय, जो दुष्कर था पूर्व ॥
+  </details>
+
 <details><summary>मूलम् - ४८९</summary>
 
 ऎय्दऱ्करियदु इयैन्दक्काल् अन्निलैये  
@@ -427,6 +490,13 @@ kuttu okka, cīrtta iṭattu.
 In waiting time feign peace like stork  
 In fighting time strike like its peck.        490  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४९०</summary>
+
+490
+बक सम रहना सिकुड़ कर, जब करना नहिं वार ।  
+चोंच-मार उसकी यथा, पा कर समय, प्रहार ॥
+  </details>
 
 <details><summary>मूलम् - ४९०</summary>
 

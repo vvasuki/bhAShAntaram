@@ -41,6 +41,13 @@ Friendship brings gain; but action pure
 Does every good thing we desire.        651  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६५१</summary>
+
+651
+साथी की परिशुद्धता, दे देती है प्रेय ।  
+कर्मों की परिशुद्धता, देती है सब श्रेय ॥
+  </details>
+
 <details><summary>मूलम् - ६५१</summary>
 
 तुणैनलम् आक्कम् त्रुउम् विनैनलम्  
@@ -82,6 +89,13 @@ naṉṟi payavā viṉai.
 Eschew always acts that do not  
 Bring good nor glory on their part.        652  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६५२</summary>
+
+652
+सदा त्यागना चाहिये, जो हैं ऐसे कर्म ।  
+कीर्ति-लाभ के साथ जो, देते हैं नहिं धर्म ॥
+  </details>
 
 <details><summary>मूलम् - ६५२</summary>
 
@@ -125,6 +139,13 @@ Those in the world desire for fame
 Should shun the deed that dims their name.        653  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६५३</summary>
+
+653
+‘उन्नति करनी चाहिये’, यों जिनको हो राग ।  
+निज गौरव को हानिकर, करें कर्म वे त्याग ॥
+  </details>
+
 <details><summary>मूलम् - ६५३</summary>
 
 ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विनै  
@@ -166,6 +187,13 @@ naṭukku aṟṟa kāṭciyavar.
 Though perils press the faultless wise  
 Shun deeds of mean, shameful device.        654  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६५४</summary>
+
+654
+यद्यपि संकट-ग्रस्त हों, जिनका निश्चल ज्ञान ।  
+निंद्य कर्म फिर भी सुधी, नहीं करेंगे जान ॥
+  </details>
 
 <details><summary>मूलम् - ६५४</summary>
 
@@ -209,6 +237,13 @@ Do not wrong act and grieve, "Alas"
 If done, do not repeat it twice.        655  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६५५</summary>
+
+655
+जिससे पश्चात्ताप हो, करो न ऐसा कार्य ।  
+अगर किया तो फिर भला, ना कर ऐसा कार्य ॥
+  </details>
+
 <details><summary>मूलम् - ६५५</summary>
 
 ऎट्रॆण्ड्रु इरङ्गुव सॆय्यऱ्क सॆय्वानेल्  
@@ -250,6 +285,13 @@ cāṉṟōr paḻikkum viṉai.
 Though she who begot thee hungers  
 Shun acts denounced by ancient seers.        656  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६५६</summary>
+
+656
+जननी को भूखी सही, यद्यपि देखा जाय ।  
+सज्जन-निन्दित कार्य को, तो भी किया न जाय ॥
+  </details>
 
 <details><summary>मूलम् - ६५६</summary>
 
@@ -293,6 +335,13 @@ Pinching poverty of the wise
 Is more than wealth hoarded by Vice.        657  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६५७</summary>
+
+657
+दोष वहन कर प्राप्त जो, सज्जन को ऐश्वर्य ।  
+उससे अति दारिद्रय ही, सहना उसको वर्य ॥
+  </details>
+
 <details><summary>मूलम् - ६५७</summary>
 
 पऴिमलैन्दु ऎय्दिय आक्कत्तिन् साण्ड्रोर्  
@@ -334,6 +383,13 @@ muṭintālum, pīḻai tarum.
 Those who dare a forbidden deed  
 Suffer troubles though they succeed.        658  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६५८</summary>
+
+658
+वर्ज किये बिन वर्ज्य सब, जो करता दुष्कर्म ।  
+कार्य-पूर्ति ही क्यों न हो, पीड़ा दें वे कर्म ॥
+  </details>
 
 <details><summary>मूलम् - ६५८</summary>
 
@@ -385,6 +441,13 @@ Gains from weeping, weeping go
 Though lost, from good deeds blessings flow.        659  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६५९</summary>
+
+659
+रुला अन्य को प्राप्त सब, रुला उसे वह जाय ।  
+खो कर भी सत्संपदा, पीछे फल दे जाय ॥
+  </details>
+
 <details><summary>मूलम् - ६५९</summary>
 
 अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिनुम्  
@@ -426,6 +489,13 @@ kalattuḷ nīr peytu, irīiyaṟṟu.
 The wealth gathered in guilty ways  
 Is water poured in wet clay vase.        660  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६६०</summary>
+
+660
+छल से धन को जोड़ कर, रखने की तदबीर ।  
+कच्चे मिट्टी कलश में, भर रखना ज्यों नीर ॥
+  </details>
 
 <details><summary>मूलम् - ६६०</summary>
 

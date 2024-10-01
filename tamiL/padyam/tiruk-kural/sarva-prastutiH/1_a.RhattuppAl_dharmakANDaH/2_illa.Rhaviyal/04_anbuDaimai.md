@@ -45,6 +45,13 @@ What bolt can bar true love in fact
 The trickling tears reveal the heart.         71  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७१</summary>
+
+71
+अर्गल है क्या जो रखे, प्रेमी उर में प्यार ।  
+घोषण करती साफ़ ही, तुच्छ नयन-जल-धार ॥
+  </details>
+
 <details><summary>मूलम् - ७१</summary>
 
 अन्बिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
@@ -86,6 +93,13 @@ eṉpum uriyar, piṟarkku.
 To selves belong the loveless ones;  
 To oth'rs the loving e'en to bones.         72  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७२</summary>
+
+72
+प्रेम-शून्य जन स्वार्थरत, साधें सब निज काम ।  
+प्रेमी अन्यों के लिये, त्यागें हड्डी-चाम ॥
+  </details>
 
 <details><summary>मूलम् - ७२</summary>
 
@@ -129,6 +143,13 @@ Soul is encased in frame of bone
 To taste the life of love alone.         73  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७३</summary>
+
+73
+सिद्ध हुआ प्रिय जीव का, जो तन से संयोग ।  
+मिलन-यत्न-फल प्रेम से, कहते हैं बुध लोग ॥
+  </details>
+
 <details><summary>मूलम् - ७३</summary>
 
 अन्बोडु इयैन्द वऴक्कॆन्ब आरुयिर्क्कु  
@@ -171,6 +192,13 @@ Love yields aspiration and thence
 Friendship springs up in excellence.         74  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४</summary>
+
+74
+मिलनसार के भाव को, जनन करेगा प्रेम ।  
+वह मैत्री को जन्म दे, जो है उत्तम क्षेम ॥
+  </details>
+
 <details><summary>मूलम् - ७४</summary>
 
 अन्बु ईनुम् आर्वम् उडैमै अदुईनुम्  
@@ -212,6 +240,13 @@ iṉpuṟṟār eytum ciṟappu'.
 The crowning joy of home life flows  
 From peaceful psychic love always.         75  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७५</summary>
+
+75
+इहलौकिक सुख भोगते, निश्रेयस का योग ।  
+प्रेमपूर्ण गार्हस्थ्य का, फल मानें बुध लोग ॥
+  </details>
 
 <details><summary>मूलम् - ७५</summary>
 
@@ -260,6 +295,13 @@ maṟattiṟkum aḵtē tuṇai.
 It helps us against evil plots.         76  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६</summary>
+
+76
+साथी केवल धर्म का, मानें  प्रेम, अजान ।  
+त्राण करे वह प्रेम ही, अधर्म से भी जान ॥
+  </details>
+
 <details><summary>मूलम् - ७६</summary>
 
 अऱत्तिऱ्के अन्बुसार् पॆन्ब अऱियार्  
@@ -301,6 +343,13 @@ aṉpu ilataṉai aṟam.
 Justice burns the loveless form  
 Like solar blaze the boneless worm.         77  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७७</summary>
+
+77
+कीड़े अस्थिविहीन को, झुलसेगा ज्यों धर्म ।  
+प्राणी प्रेम विहीन को, भस्म करेगा धर्म ॥
+  </details>
 
 <details><summary>मूलम् - ७७</summary>
 
@@ -344,6 +393,13 @@ Life bereft of love is gloom
 Can sapless tree in desert bloom?         78  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७८</summary>
+
+78
+नीरस तरु मरु भूमि पर, क्या हो किसलय-युक्त ।  
+गृही जीव वैसा समझ, प्रेम-रहित मन-युक्त ॥
+  </details>
+
 <details><summary>मूलम् - ७८</summary>
 
 अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्बाऱ्कण्  
@@ -385,6 +441,13 @@ akattu uṟuppu aṉpu ilavarkku?.
 Love is the heart which limbs must move,  
 Or vain the outer parts will prove.         79  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७९</summary>
+
+79
+प्रेम देह में यदि नहीं, बन भातर का अंग ।  
+क्या फल हो यदि पास हों, सब बाहर के अंग ॥
+  </details>
 
 <details><summary>मूलम् - ७९</summary>
 
@@ -436,6 +499,13 @@ eṉpu tōl pōrtta uṭampu.
 The seat of life is love alone;  
 Or beings are but skin and bone!         80  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८०</summary>
+
+80
+प्रेम-मार्ग पर जो चले, देह वही सप्राण ।  
+चर्म-लपेटी अस्थि है, प्रेम-हीन की मान ॥
+  </details>
 
 <details><summary>मूलम् - ८०</summary>
 

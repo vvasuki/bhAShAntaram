@@ -41,6 +41,13 @@ Love, noble birth, good courtesy
 Pleasing kings mark true embassy.        681  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६८१</summary>
+
+681
+स्नेहशीलता उच्चकुल, नृप-इच्छित आचार ।  
+राज-दूत में चाहिये, यह उत्तम संस्कार ॥
+  </details>
+
 <details><summary>मूलम् - ६८१</summary>
 
 अन्बुडैमै आण्ड्र कुडिप्पिऱत्तल् वेन्दवाम्  
@@ -82,6 +89,13 @@ iṉṟiyamaiyāta mūṉṟu.
 Envoys must bear love for their prince  
 Knowledge and learned eloquence.        682  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६८२</summary>
+
+682
+प्रेम बुद्धिमानी तथा, वाक्शक्ति सविवेक ।  
+ये तीनों अनिवार्य हैं, राजदूत को एक ॥
+  </details>
 
 <details><summary>मूलम् - ६८२</summary>
 
@@ -125,6 +139,13 @@ Savant among savants, he pleads
 Before lanced king, triumphant words.        683  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६८३</summary>
+
+683
+रिपु-नृप से जा जो करे, निज नृप की जय-बात ।  
+लक्षण उसका वह रहे, विज्ञों में विख्यात ॥
+  </details>
+
 <details><summary>मूलम् - ६८३</summary>
 
 नूलारुळ् नूल्वल्लन् आगुदल् वेलारुळ्  
@@ -166,6 +187,13 @@ ceṟivu uṭaiyāṉ celka, viṉaikku.
 Who has these three: good form, sense, lore  
 Can act as bold ambassador.        684  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६८४</summary>
+
+684
+दूत कार्य हित वह चले, जिसके रहें अधीन ।  
+शिक्षा अनुसंधानयुत, बुद्धि, रूप ये तीन ॥
+  </details>
 
 <details><summary>मूलम् - ६८४</summary>
 
@@ -209,6 +237,13 @@ Not harsh, the envoy's winsome ways
 Does good by pleasant words concise.        685  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६८५</summary>
+
+685
+पुरुष वचन को त्याग कर, करे समन्वित बात ।  
+लाभ करे प्रिय बोल कर, वही दूत है ज्ञात ॥
+  </details>
+
 <details><summary>मूलम् - ६८५</summary>
 
 तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि  
@@ -250,6 +285,13 @@ takkatu aṟivatu ām-tūtu.
 Learned; fearless, the envoy tends  
 Convincing words which time demands.        686  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६८६</summary>
+
+686
+नीति सीख हर, हो निडर, कर प्रभावकर बात ।  
+समयोचित जो जान ले, वही दूत है ज्ञात ॥
+  </details>
 
 <details><summary>मूलम् - ६८६</summary>
 
@@ -293,6 +335,13 @@ Knowing duty time and place
 The envoy employs mature phrase.        687  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६८७</summary>
+
+687
+स्थान समय कर्तव्य भी, इनका कर सुविचार ।  
+बात करे जो सोच कर, उत्तम दूत निहार ॥
+  </details>
+
 <details><summary>मूलम् - ६८७</summary>
 
 कडनऱिन्दु कालङ् गरुदि इडनऱिन्दु  
@@ -334,6 +383,13 @@ vāymai-vaḻi uraippāṉ paṇpu.
 The true envoy of three virtues  
 Is pure helpful and bold in views.        688  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६८८</summary>
+
+688
+शुद्ध आचरण संग-बल, तथा धैर्य ये तीन ।  
+इनके ऊपर सत्यता, लक्षण दूत प्रवीण ॥
+  </details>
 
 <details><summary>मूलम् - ६८८</summary>
 
@@ -377,6 +433,13 @@ The envoy who ports the king's message
 Has flawless words and heart's courage.        689  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६८९</summary>
+
+689
+नृप को जो संदेशवह, यों हो वह गुण-सिद्ध ।  
+भूल चूक भी निंद्य वच, कहे न वह दृढ़-चित्त ॥
+  </details>
+
 <details><summary>मूलम् - ६८९</summary>
 
 विडुमाट्रम् वेन्दर्क्कु उरैप्पान् वडुमाट्रम्  
@@ -418,6 +481,13 @@ uṟuti payappatu ām-tūtu.
 Braving death the bold envoy  
 Assures his king's safety and joy.        690  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६९०</summary>
+
+690
+चाहे हो प्राणान्त भी, निज नृप का गुण-गान ।  
+करता जो भय के बिना, दूत उसी को जान ॥
+  </details>
 
 <details><summary>मूलम् - ६९०</summary>
 

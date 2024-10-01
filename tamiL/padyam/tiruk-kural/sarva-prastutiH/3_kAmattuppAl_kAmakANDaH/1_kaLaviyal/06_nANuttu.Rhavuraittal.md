@@ -29,7 +29,6 @@ Have nothing but the madal for strength.
 ११३१, ११३२, ११३३, ११३५, ११३६, ११३७. madal [मडल्]: In the Tamil literary convention, a disappointed lover mounts a hobby horse made of dried palmyra leaves and has it dragged along the streets while he proclaims his intention to die if his lady-love continues to disappoint him. 
 </details>
 
-
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३१</summary>
 
 1131 kāmam uḻantu varuntiṉārkku ēmam  
@@ -45,6 +44,13 @@ maṭalallatu illai vali.
 Pangs of passion find no recourse  
 Except riding *'palmyra horse'.        1131  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११३१</summary>
+
+1131
+जो चखने पर प्रेम रस, सहें वेदना हाय ।  
+‘मडल’-सुरक्षा के बिना, उन्हें न सबल सहाय ॥
+  </details>
 
 <details><summary>मूलम् - ११३१</summary>
 
@@ -88,6 +94,13 @@ Pining body and mind lose shame
 And take to riding of the palm.        1132  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११३२</summary>
+
+1132
+आत्मा और शरीर भी, सह न सके जो आग ।  
+चढ़े ‘मडल’ पर धैर्य से, करके लज्जा त्याग ॥
+  </details>
+
 <details><summary>मूलम् - ११३२</summary>
 
 नोना उडम्बुम् उयिरुम् मडलेऱुम्  
@@ -130,6 +143,13 @@ Once I was modest and manly
 My love has now Madal only.        1133  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११३३</summary>
+
+1133
+पहले मेरे पास थीं, सुधीरता और लाज ।  
+कामी जन जिसपर चढ़ें, वही ‘मडल’ है आज ॥
+  </details>
+
 <details><summary>मूलम् - ११३३</summary>
 
 नाणॊडु नल्लाण्मै पण्डुडैयेन् इण्ड्रुडैयेन्  
@@ -171,6 +191,13 @@ nallāṇmai eṉṉum puṉai.
 Rushing flood of love sweeps away  
 The raft of shame and firmness, aye!        1134  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११३४</summary>
+
+1134
+मेरी थी लज्जा तथा, सुधीरता की नाव ।  
+उसे बहा कर ले गया, भीषण काम-बहाव ॥
+  </details>
 
 <details><summary>मूलम् - ११३४</summary>
 
@@ -215,6 +242,13 @@ Palm-ride and pangs of eventide
 Are gifts of wreath-like bracelet maid.        1135  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११३५</summary>
+
+1135
+माला सम चूड़ी सजे, जिस बाला के हाथ ।  
+उसने संध्या-विरह-दुख, दिया ‘मडल’ के साथ ॥
+  </details>
+
 <details><summary>मूलम् - ११३५</summary>
 
 तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु  
@@ -256,6 +290,13 @@ paṭalollā pētaikkueṉ kaṇ.
 Madal I ride at midnight for  
 My eyes sleep not seeing this fair.        1136  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११३६</summary>
+
+1136
+कटती मुग्धा की वजह, आँखों में ही रात ।  
+अर्द्ध-रात्रि में भी ‘मडल’, आता ही है याद ॥
+  </details>
 
 <details><summary>मूलम् - ११३६</summary>
 
@@ -307,6 +348,13 @@ Her sea-like lust seeks not Madal!
 Serene is woman's self control.        1137  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११३७</summary>
+
+1137
+काम-वेदना जलधि में, रहती मग्न यथेष्ट ।  
+फिर भी ‘मडल’ न जो चढे, उस स्त्री से नहिं श्रेष्ठ ॥
+  </details>
+
 <details><summary>मूलम् - ११३७</summary>
 
 कडलन्न कामम् उऴन्दुम् मडलेऱाप्  
@@ -348,6 +396,13 @@ maṟaiiṟantu maṉṟu paṭum.
 Lust betrays itself in haste  
 Though women are highly soft and chaste.        1138  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११३८</summary>
+
+1138
+संयम से रहती तथा, दया-पात्र अति वाम ।  
+यह न सोच कर छिप न रह, प्रकट हुआ है काम ॥
+  </details>
 
 <details><summary>मूलम् - ११३८</summary>
 
@@ -391,6 +446,13 @@ My perplexed love roves public street
 Believing that none knows its secret.        1139  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११३९</summary>
+
+1139
+मेरा काम यही समझ, सबको वह नहिं ज्ञात ।  
+नगर-वीथि में घूमता, है मस्ती के साथ ॥
+  </details>
+
 <details><summary>मूलम् - ११३९</summary>
 
 अऱिगिलार् ऎल्लारुम् ऎण्ड्रेऎन् कामम्  
@@ -432,6 +494,13 @@ yāmpaṭṭa tāmpaṭā vāṟu.
 Fools laugh at me before my eyes  
 For they feel not my pangs and sighs.        1140  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११४०</summary>
+
+1140
+रहे भुक्त-भोगी नहीं, यथा चुकी हूँ भोग ।  
+हँसते मेरे देखते, बुद्धि हीन जो लोग ॥
+  </details>
 
 <details><summary>मूलम् - ११४०</summary>
 

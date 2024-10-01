@@ -40,6 +40,13 @@ Elements five of feigned life
 Of a sly hypocrite within laugh.        271  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २७१</summary>
+
+271
+वंचक के आचार को, मिथ्यापूर्ण विलोक ।  
+पाँचों भूत शरीरगत, हँस दे मन में रोक ॥
+  </details>
+
 <details><summary>मूलम् - २७१</summary>
 
 वञ्ज मनत्तान् पडिट्रॊऴुक्कम् पूदङ्गळ्  
@@ -81,6 +88,13 @@ tāṉ aṟi kuṟṟapaṭiṉ?.
 Of what avail are sky-high shows  
 When guild the conscience gnaws and knows.        272  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २७२</summary>
+
+272
+उच्च गगन सम वेष तो, क्या आवेगा काम ।  
+समझ- बूंझ यदि मन करे, जो है दूषित काम ॥
+  </details>
 
 <details><summary>मूलम् - २७२</summary>
 
@@ -124,6 +138,13 @@ Vaunting sainthood while weak within
 Seems a grazer with tiger skin.        273  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २७३</summary>
+
+273
+महा साधु का वेष धर, दमन-शक्ति नहिं, हाय ।  
+व्याघ्र-चर्म आढे हुए, खेत चरे ज्यों गाय ॥
+  </details>
+
 <details><summary>मूलम् - २७३</summary>
 
 वलियिल् निलैमैयान् वल्लुरुवम् पॆट्रम्  
@@ -165,6 +186,13 @@ vēṭṭuvaṉ puḷ cimiḻttaṟṟu.
 Sinning in saintly show is like  
 Fowlers in ambush birds to strike.        274  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २७४</summary>
+
+274
+रहते तापस भेस में, करना पापाचार ।  
+झाड़-आड़ चिड़िहार ज्यों, पंछी पकड़े मार ॥
+  </details>
 
 <details><summary>मूलम् - २७४</summary>
 
@@ -208,6 +236,13 @@ Who false within but freedom feign
 Shall moan "What have we done" with pain.        275  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २७५</summary>
+
+275
+‘हूँ विरक्त’ कह जो मनुज, करता मिथ्याचार ।  
+कष्ट अनेकों हों उसे, स्वयं करे धिक्कार ॥
+  </details>
+
 <details><summary>मूलम् - २७५</summary>
 
 पट्रट्रेम् ऎन्बार् पडिट्रॊऴुक्कम् ऎट्रॆट्रॆण्ड्रु  
@@ -249,6 +284,13 @@ vāḻvāriṉ vaṉkaṇār il.
 Vilest is he who seems a saint  
 Cheating the world without restraint.        276  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २७६</summary>
+
+276
+मोह-मुक्त मन तो नहीं, है निर्मम की बान ।  
+मिथ्याचारी के सदृश, निष्ठुर नहीं महान ॥
+  </details>
 
 <details><summary>मूलम् - २७६</summary>
 
@@ -297,6 +339,13 @@ Berry-red is his outward view,
 Black like its nose his inward hue.        277  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २७७</summary>
+
+277
+बाहर से है लालिमा, हैं घुंघची समान ।  
+उसका काला अग्र सम, अन्दर है अज्ञान ॥
+  </details>
+
 <details><summary>मूलम् - २७७</summary>
 
 पुऱङ्गुण्ड्रि कण्डनैय रेनुम् अगङ्गुण्ड्रि  
@@ -338,6 +387,13 @@ maṟaintu oḻukum māntar palar.
 Filthy in mind some bathe in streams  
 Hiding sins in showy extremes.        278  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २७८</summary>
+
+278
+नहा तीर्थ में ठाट से, रखते तापस भेस ।  
+मित्थ्याचारी हैं बहुत, हृदय शुद्ध नहिं लेश ॥
+  </details>
 
 <details><summary>मूलम् - २७८</summary>
 
@@ -385,6 +441,13 @@ viṉaipaṭu pālāl koḷal.
 Know men by acts and not by forms  
 Strait arrow kills, bent lute but charms.        279  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २७९</summary>
+
+279
+टेढ़ी वीणा है मधुर, सीधा तीर कठोर ।  
+वैसे ही कृति से परख, किसी साधु की कोर ॥
+  </details>
 
 <details><summary>मूलम् - २७९</summary>
 
@@ -436,6 +499,13 @@ paḻittatu oḻittuviṭiṉ.
 No balding nor tangling the hair!  
 Abstain from condemned acts with care.        280  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २८०</summary>
+
+280
+साधक ने यदि तज दिया, जग-निन्दित सब काम ।  
+उसको मुंडा या जटिल, बनना है बेकाम ॥
+  </details>
 
 <details><summary>मूलम् - २८०</summary>
 

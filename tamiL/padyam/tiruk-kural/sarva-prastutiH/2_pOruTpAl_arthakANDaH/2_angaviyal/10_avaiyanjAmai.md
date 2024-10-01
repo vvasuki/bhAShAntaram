@@ -41,6 +41,13 @@ The pure fail not in power of words
 Knowing grand council's moods and modes.        721  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७२१</summary>
+
+721
+शब्द शक्ति के ज्ञानयुत, जो जन हैं निर्दोष ।  
+प्राज्ञ-सभा में ढब समझ, करें न शब्द सदोष ॥
+  </details>
+
 <details><summary>मूलम् - ७२१</summary>
 
 वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिन्  
@@ -91,6 +98,13 @@ Among scholars he is scholar
 Who holds scholars with learned lore.        722  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७२२</summary>
+
+722
+जो प्रभावकर ढ़ंग से, आर्जित शास्त्र-ज्ञान ।  
+प्रगटे विज्ञ-समझ, वह, विज्ञों में विद्वान ॥
+  </details>
+
 <details><summary>मूलम् - ७२२</summary>
 
 कट्रारुळ् कट्रार् ऎनप्पडुवर् कट्रार्मुन्  
@@ -132,6 +146,13 @@ avaiyakattu añcātavar.
 Many brave foes and die in fields  
 The fearless few face wise councils.        723  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७२३</summary>
+
+723
+शत्रु-मध्य मरते निडर, मिलते सुलभ अनेक ।  
+सभा-मध्य भाषण निडर, करते दुर्लभ एक ॥
+  </details>
 
 <details><summary>मूलम् - ७२३</summary>
 
@@ -175,6 +196,13 @@ Impress the learned with your lore
 From greater savants learn still more.        724  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७२४</summary>
+
+724
+विज्ञ-मध्य स्वज्ञान की, कर प्रभावकर बात ।  
+अपने से भी विज्ञ से, सीखो विशेष बात ॥
+  </details>
+
 <details><summary>मूलम् - ७२४</summary>
 
 कट्रार्मुन् कट्र सॆलच्चॊल्लित् ताम्गट्र  
@@ -217,6 +245,13 @@ Grammar and logic learn so that
 Foes you can boldly retort.        725  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७२५</summary>
+
+725
+सभा-मध्य निर्भीक हो, उत्तर देने ठीक ।  
+शब्द-शास्त्र, फिर ध्यान से, तर्क-शास्त्र भी सीख ॥
+  </details>
+
 <details><summary>मूलम् - ७२५</summary>
 
 आट्रिन् अळवऱिन्दु कऱ्क अवैयञ्जा  
@@ -258,6 +293,13 @@ nuṇ avai añcupavarkku?.
 To cowards what can sword avail  
 And books to those who councils fail?        726  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७२६</summary>
+
+726
+निडर नहीं हैं जो उन्हें, खाँडे से क्या काम ।  
+सभा-भीरु जो हैं उन्हें, पोथी से क्या काम ॥
+  </details>
 
 <details><summary>मूलम् - ७२६</summary>
 
@@ -306,6 +348,13 @@ Like eunuch's sword in field, is vain
 His lore who fears men of brain.        727  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७२७</summary>
+
+727
+सभा-भीरु को प्राप्त है, जो भी शास्त्र-ज्ञान ।  
+कायर-कर रण-भूमि में, तीक्षण खड्ग समान ॥
+  </details>
+
 <details><summary>मूलम् - ७२७</summary>
 
 पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु  
@@ -347,6 +396,13 @@ naṉku celac collātār.
 Though learned much his lore is dead  
 Who says no good before the good.        728  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७२८</summary>
+
+728
+रह कर भी बहु शास्त्रविद, है ही नहिं उपयोग ।  
+विज्ञ-सभा पर असर कर, कह न सके जो लोग ॥
+  </details>
 
 <details><summary>मूलम् - ७२८</summary>
 
@@ -390,6 +446,13 @@ Who fear to face good assembly
 Are learned idiots, certainly.        729  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७२९</summary>
+
+729
+जो होते भयभीत हैं, विज्ञ-सभा के बीच ।  
+रखते शास्त्रज्ञान भी, अनपढ़ से हैं नीच ॥
+  </details>
+
 <details><summary>मूलम् - ७२९</summary>
 
 कल्ला तवरिन् कडैयॆन्ब कट्रऱिन्दुम्  
@@ -431,6 +494,13 @@ kaṟṟa celac collātār.
 They are breathing dead who dare not  
 Empress before the wise their art.        730  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७३०</summary>
+
+730
+जो प्रभावकर ढ़ंग से, कह न सका निज ज्ञान ।  
+सभा-भीरु वह मृतक सम, यद्यपि है सप्राण ॥
+  </details>
 
 <details><summary>मूलम् - ७३०</summary>
 

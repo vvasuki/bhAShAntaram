@@ -40,6 +40,13 @@ The genial rain ambrosia call:
 The world but lasts while rain shall fall.         11  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११</summary>
+
+11
+उचित समय की वृष्टि से, जीवित है संसार ।  
+मानी जाती है तभी, वृष्टि अमृत की धार ॥
+  </details>
+
 <details><summary>मूलम् - ११</summary>
 
 वान्निण्ड्रु उलगम् वऴङ्गि वरुदलाल्  
@@ -81,6 +88,13 @@ tuppu āyatūum maḻai.
 The rain begets the food we eat  
 And forms a food and drink concrete.         12  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२</summary>
+
+12
+आहारी को अति रुचिर‍, अन्नरूप आहार ।  
+वृष्ति सृष्टि कर फिर स्वयं, बनती है आहार ॥
+  </details>
 
 <details><summary>मूलम् - १२</summary>
 
@@ -124,6 +138,13 @@ Let clouds their visits stay, and dearth
 Distresses all the sea-girt earth.         13  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३</summary>
+
+13
+बादल-दल बरसे नहीं, यदि मौसम में चूक ।  
+जलधि-धिरे भूलोक में, क्षुत से हो आति हूक ॥
+  </details>
+
 <details><summary>मूलम् - १३</summary>
 
 विण्इण्ड्रु पॊय्प्पिन् विरिनीर् वियनुलगत्तु  
@@ -165,6 +186,13 @@ vāri vaḷam kuṉṟikkāl.
 Unless the fruitful shower descend,  
 The ploughman's sacred toil must end.         14  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १४</summary>
+
+14
+कर्षक जन से खेत में, हल न चलाया जाय ।  
+धन-वर्षा-संपत्ति की, कम होती यदि आय ॥
+  </details>
 
 <details><summary>मूलम् - १४</summary>
 
@@ -208,6 +236,13 @@ Destruction it may sometimes pour,
 But only rain can life restore.         15  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १५</summary>
+
+15
+वर्षा है ही आति प्रबल, सब को कर बरबाद ।  
+फिर दुखियों का साथ दे, करे वही आबाद ॥
+  </details>
+
 <details><summary>मूलम् - १५</summary>
 
 कॆडुप्पदूउम् कॆट्टार्क्कुच् चार्वाय्मऱ्ऱाङ्गे  
@@ -249,6 +284,13 @@ pacum pul talai kāṇpu aritu.
 No grassy blade its head will rear,  
 If from the cloud no drop appear.         16  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १६</summary>
+
+16
+बिना हुए आकाश से, रिमझिम रिमझिम वृष्टि ।  
+हरि भरी तृण नोक भी, आयेगी नहीं दृष्टि ॥
+  </details>
 
 <details><summary>मूलम् - १६</summary>
 
@@ -292,6 +334,13 @@ The ocean's wealth will waste away,
 Except the cloud its stores repay.         17  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १७</summary>
+
+17
+घटा घटा कर जल‍धि को, यदि न करे फिर दान ।  
+विस्तृत बड़े समुद्र का, पानी उतरा जान ॥
+  </details>
+
 <details><summary>मूलम् - १७</summary>
 
 नॆडुङ्गडलुम् तन्नीर्मै कुण्ड्रुम् तडिन्दॆऴिलि  
@@ -334,6 +383,13 @@ The earth, beneath a barren sky,
 Would offerings for the gods deny.         18  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १८</summary>
+
+18
+देवाराधन नित्य का, उत्सव सहित अमंद ।  
+वृष्टि न हो तो भूमि पर, हो जावेगा बंद ॥
+  </details>
+
 <details><summary>मूलम् - १८</summary>
 
 सिऱप्पॊडु पूसनै सॆल्लादु वानम्  
@@ -375,6 +431,13 @@ vāṉam vaḻaṅkātu eṉiṉ.
 Were heaven above to fail below  
 Nor alms nor penance earth would show.         19  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १९</summary>
+
+19
+इस विस्तृत संसार में, दान पुण्य तप कर्म ।  
+यदि पानी बरसे नहीं, टिकें न दोनों कर्म ॥
+  </details>
 
 <details><summary>मूलम् - १९</summary>
 
@@ -431,6 +494,13 @@ vāṉ iṉṟu amaiyātu oḻukku.
 Water is life that comes from rain  
 Sans rain our duties go in vain.         20  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २०</summary>
+
+20
+नीर बिना भूलोक का, ज्यों न चले व्यापार ।  
+कभी किसी में नहिं टिके, वर्षा बिन आचार ॥
+  </details>
 
 <details><summary>मूलम् - २०</summary>
 

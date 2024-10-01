@@ -40,6 +40,13 @@ The pure by faith mean pain to none
 Though princely wealth by that is won.        311  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३११</summary>
+
+311
+तप-प्राप्र धन भी मिले, फिर भी साधु-सुजान ।  
+हानि न करना अन्य की, मानें लक्ष्य महान ॥
+  </details>
+
 <details><summary>मूलम् - ३११</summary>
 
 सिऱप्पीनुम् सॆल्वम् पॆऱिनुम् पिऱर्क्कु इन्ना  
@@ -87,6 +94,13 @@ The spotless hearts seek not revenge
 Though Malice does the worst in rage.        312  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३१२</summary>
+
+312
+बुरा किया यदि क्रोध से, फिर भी सधु-सुजान ।  
+ना करना प्रतिकार ही, मानें लक्ष्य महान ॥
+  </details>
+
 <details><summary>मूलम् - ३१२</summary>
 
 कऱुत्तुइन्ना सॆय्दवक् कण्णुम् मऱुत्तिन्ना  
@@ -128,6 +142,13 @@ uyyā viḻumam tarum.
 Revenging even causeless hate  
 Bad-blood breeds and baneful heat.        313  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३१३</summary>
+
+313
+‘बुरा किया कारण बिना’, करके यही विचार ।  
+किया अगर प्रतिकार तो, होगा दुःख अपार ॥
+  </details>
 
 <details><summary>मूलम् - ३१३</summary>
 
@@ -176,6 +197,13 @@ Doing good-turns, put them to shame
 Thus chide the evil who do harm.        314  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३१४</summary>
+
+314
+बुरा किया तो कर भला, बुरा भला फिर भूल ।  
+पानी पानी हो रहा, बस उसको यह शूल ॥
+  </details>
+
 <details><summary>मूलम् - ३१४</summary>
 
 इन्नासॆय् तारै ऒऱुत्तल् अवर्नाण  
@@ -217,6 +245,13 @@ tam nōypōl pōṟṟākkaṭai?.
 What does a man from wisdom gain  
 If he pines not at other's pain?        315  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३१५</summary>
+
+315
+माने नहिं पर दुःख को, यदि निज दुःख समान ।  
+तो होता क्या लाभ है, रखते तत्वज्ञान ॥
+  </details>
 
 <details><summary>मूलम् - ३१५</summary>
 
@@ -260,6 +295,13 @@ What you feel as 'pain' to yourself
 Do it not to the other-self        316  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३१६</summary>
+
+316
+कोई समझे जब स्वयं, बुरा फलाना कर्म ।  
+अन्यों पर उस कर्म को, नहीं करे, यह धर्म ॥
+  </details>
+
 <details><summary>मूलम् - ३१६</summary>
 
 इन्ना ऎनत्तान् उणर्न्दवै तुन्नामै  
@@ -301,6 +343,13 @@ māṇā ceyyāmai talai.
 Any, anywhere injure not  
 At any time even in thought.        317  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३१७</summary>
+
+317
+किसी व्यक्ति को उल्प भी, जो भी समय अनिष्ट ।  
+मनपूर्वक करना नहीं, सबसे यही वरिष्ठ ॥
+  </details>
 
 <details><summary>मूलम् - ३१७</summary>
 
@@ -349,6 +398,13 @@ How can he injure other souls
 Who in his life injury feels.        318  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३१८</summary>
+
+318
+जिससे अपना अहित हो, उसका है दृढ़ ज्ञान ।  
+फिर अन्यों का अहित क्यों, करता है नादान ॥
+  </details>
+
 <details><summary>मूलम् - ३१८</summary>
 
 तन्नुयिर्गगु एन्नामै तानऱिवान् ऎन्गॊलो  
@@ -390,6 +446,13 @@ piṟpakal tāmē varum.
 Harm others in the forenoon  
 Harm seeks thee in afternoon.        319  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३१९</summary>
+
+319
+दिया सबेरे अन्य को, यदि तुमने संताप ।  
+वही ताप फिर साँझ को, तुमपर आवे आप ॥
+  </details>
 
 <details><summary>मूलम् - ३१९</summary>
 
@@ -441,6 +504,13 @@ nōy iṉmai vēṇṭupavar.
 No harm is done by peace-lovers  
 For pains rebound on pain-givers.        320  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३२०</summary>
+
+320
+जो दुःख देगा अन्य को, स्वयं करे दुःख-भोग ।  
+दुःख-वर्जन की चाह से, दुःख न दें बुध  लोग ॥
+  </details>
 
 <details><summary>मूलम् - ३२०</summary>
 

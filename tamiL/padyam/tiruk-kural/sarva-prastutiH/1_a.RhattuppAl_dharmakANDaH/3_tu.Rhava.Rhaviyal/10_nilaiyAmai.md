@@ -40,6 +40,13 @@ The worst of follies it is told
 The fleeting as lasting to hold.        331  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३३१</summary>
+
+331
+जो है अनित्य  वस्तुएँ, नित्य वस्तु सम भाव ।  
+अल्पबुद्धिवश जो रहा, है यह नीच स्वभाव ॥
+  </details>
+
 <details><summary>मूलम् - ३३१</summary>
 
 निल्लाद वट्रै निलैयिन ऎण्ड्रुणरुम्  
@@ -81,6 +88,13 @@ pōkkum, atu viḷintaṟṟu.
 Like a drama-crowd wealth gathers  
 Like passing show its pride too goes.        332  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३३२</summary>
+
+332
+रंग-भूमि में ज्यो जमे, दर्शक गण की भीड़ ।  
+जुड़े प्रचुर संपत्ति त्यों, छँटे यथा वह भीड़ ॥
+  </details>
 
 <details><summary>मूलम् - ३३२</summary>
 
@@ -124,6 +138,13 @@ Wealth wanes away; but when it comes
 Take care to do enduring things.        333  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३३३</summary>
+
+333
+धन की प्रकृति अनित्य है, यदि पावे ऐश्वर्य ।  
+तो करना तत्काल ही, नित्य धर्म सब वर्य ॥
+  </details>
+
 <details><summary>मूलम् - ३३३</summary>
 
 अऱ्का इयल्बिट्रुच् चॆल्वम् अदुबॆट्राल्  
@@ -165,6 +186,13 @@ vāḷatu-uṇarvārp peṟiṉ.
 The showy day is but a saw  
 Your life, know that, to file and gnaw.        334  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३३४</summary>
+
+334
+काल-मान सम भासता, दिन है आरी-दांत ।  
+सोचो तो वह आयु को, चीर रहा दुर्दान्त ॥
+  </details>
 
 <details><summary>मूलम् - ३३४</summary>
 
@@ -208,6 +236,13 @@ Ere tongue benumbs and hiccough comes
 Rise up to do good deeds betimes.        335  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३३५</summary>
+
+335
+जीभ बंद हो, हिचकियाँ लगने से ही पूर्व ।  
+चटपट करना चाहिये, जो है कर्म अपूर्व ॥
+  </details>
+
 <details><summary>मूलम् - ३३५</summary>
 
 नाच्चॆट्रु विक्कुळ्मेल् वारामुन् नल्विनै  
@@ -250,6 +285,13 @@ One was yesterday; not today!
 The wonder of the world's way!        336  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३३६</summary>
+
+336
+कल जो था, बस, आज तो, प्राप्त किया पंचत्व ।  
+पाया है संसार ने, ऐसा बड़ा महत्व ॥
+  </details>
+
 <details><summary>मूलम् - ३३६</summary>
 
 नॆरुनल् उळनॊरुवन् इण्ड्रिल्लै ऎन्नुम्  
@@ -291,6 +333,13 @@ kōṭiyum alla, pala.
 Man knows not his next moment  
 On crores of things he is intent.        337  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३३७</summary>
+
+337
+अगले क्षण क्या जी रहें, इसका है नहिं बोध ।  
+चिंतन कोटिन, अनगिनत, करते रहें अबोध ॥
+  </details>
 
 <details><summary>मूलम् - ३३७</summary>
 
@@ -339,6 +388,13 @@ The soul from body any day
 Like bird from egg-shell flies away.        338  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३३८</summary>
+
+338
+अंडा फूट हुआ अलग, तो पंछी उड़ जाय ।  
+वैसा देही-देह का, नाता जाना जाय ॥
+  </details>
+
 <details><summary>मूलम् - ३३८</summary>
 
 कुडम्बै तनित्तु ऒऴियप् पुळ्बऱन् दट्रे  
@@ -380,6 +436,13 @@ viḻippatu pōlum, piṟappu.
 Death is like a slumber deep  
 And birth like waking from that sleep.        339  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३३९</summary>
+
+339
+निद्रा सम ही जानिये, होता है देहान्त ।  
+जगना सम है जनन फिर, निद्रा के उपरान्त ॥
+  </details>
 
 <details><summary>मूलम् - ३३९</summary>
 
@@ -431,6 +494,13 @@ tuccil irunta uyirkku!.
 The life berthed in this body shows  
 A fixed home it never knows.        340  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३४०</summary>
+
+340
+आत्मा का क्या है नहीं, कोई स्थायी धाम ।  
+सो तो रहती देह में, भाड़े का सा धाम ॥
+  </details>
 
 <details><summary>मूलम् - ३४०</summary>
 

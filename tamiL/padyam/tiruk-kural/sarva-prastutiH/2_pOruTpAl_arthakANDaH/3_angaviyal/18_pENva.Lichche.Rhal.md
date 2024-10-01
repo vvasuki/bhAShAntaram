@@ -41,6 +41,13 @@ Who dote on wives lose mighty gain
 That lust, dynamic men disdain.        901  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९०१</summary>
+
+901
+स्त्री पर जो आसक्त हैं, उनको मिले न धर्म ।  
+अर्थार्थी के हित रहा, घृणित वस्तु वह कर्म ॥
+  </details>
+
 <details><summary>मूलम् - ९०१</summary>
 
 मनैविऴैवार् माण्बयन् ऎय्दार् विनैविऴैयार्  
@@ -82,6 +89,13 @@ nāṇāka nāṇut tarum.
 Who dotes, unmanly, on his dame  
 His wealth to him and all is shame.        902  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९०२</summary>
+
+902
+स्त्री लोलुप की संपदा, वह है पौरुष-त्यक्त ।  
+लज्जास्पद बन कर बड़ी, लज्जित करती सख्त ॥
+  </details>
 
 <details><summary>मूलम् - ९०२</summary>
 
@@ -125,6 +139,13 @@ Who's servile to his wife always
 Shy he feels before the wise.        903  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९०३</summary>
+
+903
+डरने की जो बान है, स्त्री से दब कर नीच ।  
+सदा रही लज्जाजनक, भले जनों के बीच ॥
+  </details>
+
 <details><summary>मूलम् - ९०३</summary>
 
 इल्लाळ्गण् ताऴ्न्द इयल्बिन्मै ऎञ्ञाण्ड्रुम्  
@@ -166,6 +187,13 @@ viṉaiyāṇmai vīṟeytal iṉṟu.
 Fearing his wife salvationless  
 The weaklings' action has no grace.        904  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९०४</summary>
+
+904
+गृहिणी से डर है जिसे, औ’ न मोक्ष की सिद्धि ।  
+उसकी कर्म-विदग्धता, पाती नहीं प्रसिद्धि ॥
+  </details>
 
 <details><summary>मूलम् - ९०४</summary>
 
@@ -209,6 +237,13 @@ Who fears his wife fears always
 Good to do to the good and wise.        905  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९०५</summary>
+
+905
+पत्नी-भीरु सदा डरे, करने से वह कार्य ।  
+सज्जन लोगों के लिये, जो होते सत्कार्य ॥
+  </details>
+
 <details><summary>मूलम् - ९०५</summary>
 
 इल्लाळै अञ्जुवान् अञ्जुमऱ्ऱॆञ्ञाण्ड्रुम्  
@@ -251,6 +286,13 @@ Who fear douce arms of their wives
 Look petty even with god-like lives.        906  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९०६</summary>
+
+906
+जो डरते स्त्री-स्कंध से, जो है बाँस समान ।  
+यद्यपि रहते देव सम, उनका है नहिं मान ॥
+  </details>
+
 <details><summary>मूलम् - ९०६</summary>
 
 इमैयारिन् वाऴिनुम् पाडिलरे इल्लाळ्  
@@ -292,6 +334,13 @@ peṇṇē perumai yuṭaittu.
 Esteemed more is women bashful  
 Than man servile unto her will.        907  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९०७</summary>
+
+907
+स्त्री की आज्ञा पालता, जो पौरुष निर्लज्ज ॥
+उससे बढ कर श्रेष्ठ है, स्त्री का स्त्रीत्व सलज्ज ॥
+  </details>
 
 <details><summary>मूलम् - ९०७</summary>
 
@@ -340,6 +389,13 @@ By fair-browed wives who are governed
 Help no friends nor goodness tend.        908  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९०८</summary>
+
+908
+चारु मुखी वंछित वही, करते हैं जो कर्म ।  
+भरते कमी न मित्र की, करते नहीं सुधर्म ॥
+  </details>
+
 <details><summary>मूलम् - ९०८</summary>
 
 नट्टार् कुऱैमुडियार् नण्ड्राट्रार् नन्नुदलाळ्  
@@ -382,6 +438,13 @@ No virtue riches nor joy is seen
 In those who submit to women        909  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९०९</summary>
+
+909
+धर्म-कर्म औ’ प्रचुर धन, तथा अन्य जो काम ।  
+स्त्री के आज्ञापाल को, इनका नहिं अंजाम ॥
+  </details>
+
 <details><summary>मूलम् - ९०९</summary>
 
 अऱविनैयुम् आण्ड्र पॊरुळुम् पिऱविनैयुम्  
@@ -423,6 +486,13 @@ peṇcērntām pētaimai il.
 Thinkers strong and broad of heart  
 By folly on fair sex do not dote.        910  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९१०</summary>
+
+910
+जिनका मन हो कर्मरत, औ’ जो हों धनवान ।  
+स्त्री-वशिता से उन्हें, कभी न है अज्ञान ॥
+  </details>
 
 <details><summary>मूलम् - ९१०</summary>
 

@@ -40,6 +40,13 @@ Living in the world implies
 The bounteous dame of benign eyes.        571  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५७१</summary>
+
+571
+करुणा रूपी सोहती, सुषमा रही अपार ।  
+नृप में उसके राजते, टिकता है संसार ॥
+  </details>
+
 <details><summary>मूलम् - ५७१</summary>
 
 कण्णोट्टम् ऎन्नुम् कऴिबॆरुङ् गारिगै  
@@ -81,6 +88,13 @@ uṇmai nilakkup poṟai.
 World lives by looks of lovely worth  
 Who lack them are burdens of earth.        572  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५७२</summary>
+
+572
+करुणा से है चल रहा, सांसारिक व्यवहार ।  
+जो नर उससे रहित है, केवल भू का भार ॥
+  </details>
 
 <details><summary>मूलम् - ५७२</summary>
 
@@ -129,6 +143,13 @@ Of tuneless song what is the use?
 Without gracious looks what are eyes?        573  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५७३</summary>
+
+573
+मेल न हो तो गान से, तान करे क्या काम ।  
+दया न हो तो दृष्टि में, दृग आये क्या काम ॥
+  </details>
+
 <details><summary>मूलम् - ५७३</summary>
 
 पण्ऎन्नाम् पाडऱ्कु इयैबिण्ड्रेल् कण्ऎन्नाम्  
@@ -170,6 +191,13 @@ kaṇṇōṭṭam illāta kaṇ.
 Except that they are on the face  
 What for are eyes sans measured grace.        574  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५७४</summary>
+
+574
+करुणा कलित नयन नहीं, समुचित सीमाबद्ध ।  
+तो क्या आवें काम वे, मुख से रह संबन्ध ॥
+  </details>
 
 <details><summary>मूलम् - ५७४</summary>
 
@@ -218,6 +246,13 @@ Kind looks are jewels for eyes to wear
 Without them they are felt as sore.        575  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५७५</summary>
+
+575
+आभूषण है नेत्र का, करुणा का सद्‍भाव ।  
+उसके बिन जाने उसे, केवल मुख पर घाव ॥
+  </details>
+
 <details><summary>मूलम् - ५७५</summary>
 
 कण्णिऱ्कु अणिगलम् कण्णोट्टम् अह्दिण्ड्रेल्  
@@ -259,6 +294,13 @@ iyaintu, kaṇṇōṭātavar.
 Like trees on inert earth they grow  
 Who don't eye to eye kindness show.        576  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५७६</summary>
+
+576
+रहने पर भी आँख के, जिसके है नहिं आँख ।  
+यथा ईख भू में लगी, जिसके भी हैं आँख ॥
+  </details>
 
 <details><summary>मूलम् - ५७६</summary>
 
@@ -302,6 +344,13 @@ Ungracious men lack real eyes
 Men of real eyes show benign grace.        577  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५७७</summary>
+
+577
+आँखहीन ही हैं मनुज, यदि न आँख का भाव ।  
+आँखयुक्त में आँख का, होता भी न अभाव ॥
+  </details>
+
 <details><summary>मूलम् - ५७७</summary>
 
 कण्णोट् टम् इल्लवर् कण्णिलर् कण्णुडैयार्  
@@ -343,6 +392,13 @@ urimai uṭaittu, iv ulaku.
 Who gracious are but dutiful  
 Have right for this earth beautiful.        578  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५७८</summary>
+
+578
+हानि बिना निज धर्म की, करुणा का व्यवहार ।  
+जो कर सकता है उसे, जग पर है अधिकार ॥
+  </details>
 
 <details><summary>मूलम् - ५७८</summary>
 
@@ -391,6 +447,13 @@ To be benign and bear with foes
 Who vex us is true virtue's phase.        579  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५७९</summary>
+
+579
+अपनी क्षति भी जो करे, उसपर करुणा-भाव ।  
+धारण कर, करना क्षमा, नृप का श्रेष्ठ स्वभाव ॥
+  </details>
+
 <details><summary>मूलम् - ५७९</summary>
 
 ऒऱुत्ताट्रुम् पण्बिनार् कण्णुम्गण् णोडिप्  
@@ -432,6 +495,13 @@ nākarikam vēṇṭupavar.
 Men of graceful courtesy  
 Take hemlock and look cheerfully.        580  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५८०</summary>
+
+580
+देख मिलाते गरल भी, खा जाते वह भोग ।  
+वाँछनीय दाक्षिण्य के, इच्छुक हैं जो लोग ॥
+  </details>
 
 <details><summary>मूलम् - ५८०</summary>
 

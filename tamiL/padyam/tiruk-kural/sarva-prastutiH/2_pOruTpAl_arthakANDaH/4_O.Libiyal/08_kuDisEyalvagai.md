@@ -41,6 +41,13 @@ No greatness is grander like
 Saying "I shall work without slack".        1021  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०२१</summary>
+
+1021
+‘हाथ न खींचूँ कर्म से, जो कुल हित कर्तव्य ।  
+इसके सम नहिं श्रेष्ठता, यों है जो मन्तव्य ॥
+  </details>
+
 <details><summary>मूलम् - १०२१</summary>
 
 करुमम् सॆयऒरुवन् कैदूवेन् ऎन्नुम्  
@@ -82,6 +89,13 @@ nīḷviṉaiyāl nīḷum kuṭi.
 These two exalt a noble home  
 Ardent effort and ripe wisdom.        1022  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०२२</summary>
+
+1022
+सत् प्रयत्न गंभीर मति, ये दोनों ही अंश ।  
+क्रियाशील जब हैं सतत, उन्नत होता वंश ॥
+  </details>
 
 <details><summary>मूलम् - १०२२</summary>
 
@@ -130,6 +144,13 @@ When one resolves to raise his race
 Loin girt up God leads his ways.        1023  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०२३</summary>
+
+1023
+‘कुल को अन्नत में करूँ’, कहता है दृढ बात ।  
+तो आगे बढ़ कमर कस, दैव बँटावे हाथ ॥
+  </details>
+
 <details><summary>मूलम् - १०२३</summary>
 
 कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्कुत् तॆय्वम्  
@@ -171,6 +192,13 @@ tāḻātu uñaṟṟu pavarkku.
 Who raise their races with ceaseless pain  
 No need for plan; their ends will gain.        1024  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०२४</summary>
+
+1024
+कुल हित जो अविलम्ब ही, हैं प्रयत्न में चूर ।  
+अनजाने ही यत्न वह, बने सफलता पूर ॥
+  </details>
 
 <details><summary>मूलम् - १०२४</summary>
 
@@ -214,6 +242,13 @@ Who keeps his house without a blame
 People around, his kinship claim.        1025  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०२५</summary>
+
+1025
+कुल अन्नति हित दोष बिन, जिसका है आचार ।  
+बन्धु बनाने को उसे, घेर रहा संसार ॥
+  </details>
+
 <details><summary>मूलम् - १०२५</summary>
 
 कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
@@ -255,6 +290,13 @@ illāṇmai ākkik koḷal.
 Who raise their race which gave them birth  
 Are deemed as men of manly worth.        1026  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०२६</summary>
+
+1026
+स्वयं जनित निज वंश का, परिपालन का मान ।  
+अपनाना है मनुज को, उत्तम पौरुष जान ॥
+  </details>
 
 <details><summary>मूलम् - १०२६</summary>
 
@@ -298,6 +340,13 @@ Like dauntless heroes in battle field
 The home-burden rests on the bold.        1027  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०२७</summary>
+
+1027
+महावीर रणक्षेत्र में, ज्यों हैं जिम्मेदार ।  
+त्यों है सुयोग्य व्यक्ति पर, निज कुटुंब का भार ॥
+  </details>
+
 <details><summary>मूलम् - १०२७</summary>
 
 अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
@@ -339,6 +388,13 @@ māṉam karutak keṭum.
 No season have they who raise their race  
 Sloth and pride will honour efface.        1028  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०२८</summary>
+
+1028
+कुल-पालक का है नहीं, कोई अवसर खास ।  
+आलसवश मानी बने, तो होता है नाश ॥
+  </details>
 
 <details><summary>मूलम् - १०२८</summary>
 
@@ -382,6 +438,13 @@ Is not his frame a vase for woes
 Who from mishaps shields his house?        1029  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०२९</summary>
+
+1029
+जो होने देता नहीं, निज कुटुंब में दोष ।  
+उसका बने शरीर क्या, दुख-दर्दों का कोष ॥
+  </details>
+
 <details><summary>मूलम् - १०२९</summary>
 
 इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
@@ -423,6 +486,13 @@ nallāḷ ilāta kuṭi.
 A house will fall by a mishap  
 With no good man to prop it up.         1030  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०३०</summary>
+
+1030
+योग्य व्यक्ति कुल में नहीं, जो थामेगा टेक ।  
+जड़ में विपदा काटते, गिर जाये कुल नेक ॥
+  </details>
 
 <details><summary>मूलम् - १०३०</summary>
 

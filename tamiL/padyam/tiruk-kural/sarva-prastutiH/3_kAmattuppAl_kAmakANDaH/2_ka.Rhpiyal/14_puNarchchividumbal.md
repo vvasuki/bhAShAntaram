@@ -45,6 +45,13 @@ Rapture at thought and joy when seen
 Belong to love and not to wine.        1281  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८१</summary>
+
+1281
+मुद होना स्मृति मात्र से, दर्शन से उल्लास ।  
+ये गुण नहीं शराब में, रहे काम के पास ॥
+  </details>
+
 <details><summary>मूलम् - १२८१</summary>
 
 उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
@@ -91,6 +98,13 @@ kāmam niṟaiya variṉ.
 When passion grows palmyra-tall  
 Sulking is wrong though millet-small.        1282  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२८२</summary>
+
+1282
+यदि आवेगा काम तो, बढ़ कर ताड़ समान ।  
+तिल भर भी नहिं चाहिये, करना प्रिय से मान ॥
+  </details>
 
 <details><summary>मूलम् - १२८२</summary>
 
@@ -139,6 +153,13 @@ Though slighting me he acts his will
 My restless eyes would see him still.        1283  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८३</summary>
+
+1283
+यद्यपि मनमानी करें, बिन आदर की सैन ।  
+प्रियतम को देखे बिना, नयनों को नहिं चैन ॥
+  </details>
+
 <details><summary>मूलम् - १२८३</summary>
 
 पेणादु पॆट्पवे सॆय्यिनुम् कॊण्गनैक्  
@@ -186,6 +207,13 @@ Huff I would, maid, but I forget;
 And leap to embrace him direct.        1284  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८४</summary>
+
+1284
+गयी रूठने री सखी, करके मान-विचार ।  
+मेरा दिल वह भूल कर, मिलने को तैयार ॥
+  </details>
+
 <details><summary>मूलम् - १२८४</summary>
 
 ऊडऱ्कण् सॆण्ड्रेन्मन् तोऴि अदुमऱन्दु  
@@ -227,6 +255,13 @@ paḻikāṇēṉ kaṇṭa viṭattu.
 When close I see not lord's blemish  
 Like eyes that see not painter's brush.        1285  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२८५</summary>
+
+1285
+कूँची को नहिं देखते, यथा आंजते अक्ष ।  
+उनकी भूल न देखती, जब हैं नाथ समक्ष ॥
+  </details>
 
 <details><summary>मूलम् - १२८५</summary>
 
@@ -270,6 +305,13 @@ When he's with me I see not fault
 And nought but fault when he is not.        1286  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८६</summary>
+
+1286
+जब प्रिय को मैं देखती, नहीं देखती दोष ।  
+ना देखूँ तो देखती, कुछ न छोड़ कर दोष ॥
+  </details>
+
 <details><summary>मूलम् - १२८६</summary>
 
 काणुङ्गाल् काणेन् तवऱाय काणाक्काल्  
@@ -311,6 +353,13 @@ poyttal aṟinteṉ pulantu.
 To leap in stream which carries off  
 When lord is close to feign a huff.        1287  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२८७</summary>
+
+1287
+कूदे यथा प्रवाह में, बाढ़ बहाती जान ।  
+निष्फलता को जान कर, क्या हो करते मान ॥
+  </details>
 
 <details><summary>मूलम् - १२८७</summary>
 
@@ -359,6 +408,13 @@ Like wine to addicts that does disgrace
 Your breast, O thief, is for my embrace!        1288  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८८</summary>
+
+1288
+निन्दाप्रद दुख क्यों न दे, मद्यप को ज्यों पान ।  
+त्यों है, वंचक रे, हमें, तेरी छाती जान ॥
+  </details>
+
 <details><summary>मूलम् - १२८८</summary>
 
 इळित्तक्क इन्ना सॆयिनुम् कळित्तार्क्कुक्  
@@ -401,6 +457,13 @@ Flower-soft is love; a few alone
 Know its delicacy so fine.        1289  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२८९</summary>
+
+1289
+मृदुतर हो कर सुमन से, जो रहता है काम ।  
+बिरले जन को प्राप्त है, उसका शुभ परिणाम ॥
+  </details>
+
 <details><summary>मूलम् - १२८९</summary>
 
 मलरिनुम् मॆल्लिदु कामम् सिलर्अदन्  
@@ -442,6 +505,13 @@ eṉṉiṉum tāṉvitup puṟṟu.
 She feigned dislike awhile but flew  
 Faster for embrace than I do.        1290  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२९०</summary>
+
+1290
+उत्कंठित मुझसे अधिक, रही मिलन हित बाल ।  
+मान दिखा कर नयन से, गले लगी तत्काल ॥
+  </details>
 
 <details><summary>मूलम् - १२९०</summary>
 

@@ -41,6 +41,13 @@ Feel not frustrate saying "Tis hard".
 Who tries attains striving's reward.        611  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६११</summary>
+
+611
+दुष्कर यह यों समझकर, होना नहीं निरास ।  
+जानो योग्य महानता, देगा सतत प्रयास ॥
+  </details>
+
 <details><summary>मूलम् - ६११</summary>
 
 अरुमै उडैत्तॆण्ड्रु असावामै वेण्डुम्  
@@ -83,6 +90,13 @@ In doing work don't break and shirk
 The world will quit who quits his work.        612  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६१२</summary>
+
+612
+ढीला पड़ना यत्न में, कर दो बिलकुल त्याग ।  
+त्यागेंगे जो यत्न को, उन्हें करे जग त्याग ॥
+  </details>
+
 <details><summary>मूलम् - ६१२</summary>
 
 विनैक्कण् विनैगॆडल् ओम्बल् विनैक्कुऱै  
@@ -124,6 +138,13 @@ vēḷāṇmai eṉṉum cerukku.
 On excellence of industry  
 Depends magnanimous bounty.        613  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६१३</summary>
+
+613
+यत्नशीलता जो रही, उत्तम गुणस्वरूप ।  
+उसपर स्थित है श्रेष्ठता, परोपकार स्वरूप ॥
+  </details>
 
 <details><summary>मूलम् - ६१३</summary>
 
@@ -172,6 +193,13 @@ Bounty of man who never strives
 Like sword in eunuch's hand it fails.        614  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६१४</summary>
+
+614
+यों है उद्यमरहित का, करना परोपकार ।  
+कोई कायर व्यर्थ ज्यों, चला रहा तलवार ॥
+  </details>
+
 <details><summary>मूलम् - ६१४</summary>
 
 ताळाण्मै इल्लादान् वेळाण्मै पेडिगै  
@@ -214,6 +242,13 @@ Work who likes and not pleasure
 Wipes grief of friends, pillar secure.        615  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६१५</summary>
+
+615
+जिसे न सुख की चाह है, कर्म-पूर्ति है चाह ।  
+स्तंभ बने वह थामता, मिटा बन्धुजन-आह ॥
+  </details>
+
 <details><summary>मूलम् - ६१५</summary>
 
 इन्बम् विऴैयान् विनैविऴैवान् तन्गेळिर्  
@@ -255,6 +290,13 @@ iṉmai pukuttiviṭum.
 Industry adds prosperity  
 Indolence brings but poverty.        616  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६१६</summary>
+
+616
+बढ़ती धन-संपत्ति की, कर देता है यत्न ।  
+दारिद्रय को घुसेड़ कर, देता रहे अयत्न ॥
+  </details>
 
 <details><summary>मूलम् - ६१६</summary>
 
@@ -303,6 +345,13 @@ Illuck abides with sloth they say
 *Laxmi's gifts with labourers stay.        617  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६१७</summary>
+
+617
+करती है आलस्य में, काली ज्येष्ठा वास ।  
+यत्नशील के यत्न में, कमला का है वास ॥
+  </details>
+
 <details><summary>मूलम् - ६१७</summary>
 
 मडियुळाळ् मामुगडि ऎन्ब मडियिलान्  
@@ -344,6 +393,13 @@ Is knowledge without exertion.
 Misfortune is disgrace to none  
 The shame is nothing learnt or done.        618  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६१८</summary>
+
+618
+यदि विधि नहिं अनुकूल है, तो न किसी का दोष ।  
+खूब जान ज्ञातव्य को, यत्न न करना दोष ॥
+  </details>
 
 <details><summary>मूलम् - ६१८</summary>
 
@@ -392,6 +448,13 @@ Though fate is against fulfilment
 Hard labour has ready payment.        619  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६१९</summary>
+
+619
+यद्यपि मिले न दैववश, इच्छित फल जो भोग्य ।  
+श्रम देगा पारिश्रमिक, निज देह-श्रम-योग्य ॥
+  </details>
+
 <details><summary>मूलम् - ६१९</summary>
 
 तॆय्वत्तान् आगा तॆनिनुम् मुयऱ्चिदन्  
@@ -438,6 +501,13 @@ tāḻātu uñaṟṟupavar.
 Tireless Toiler's striving hand  
 Shall leave even the fate behind.        620  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६२०</summary>
+
+620
+विधि पर भी पाते विजय, जो हैं उद्यमशील ।  
+सतत यत्न करते हुए, बिना किये कुछ ढील ॥
+  </details>
 
 <details><summary>मूलम् - ६२०</summary>
 

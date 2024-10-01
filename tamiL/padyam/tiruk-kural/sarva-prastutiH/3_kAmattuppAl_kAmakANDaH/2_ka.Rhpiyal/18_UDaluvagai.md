@@ -45,6 +45,13 @@ He is flawless; but I do pout.
 So that his loving ways show out.        1321  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३२१</summary>
+
+1321
+यद्यपि उनकी भूल नहिं, उनका प्रणय-विधान ।  
+प्रेरित करता है मुझे, करने के हित मान ॥
+  </details>
+
 <details><summary>मूलम् - १३२१</summary>
 
 इल्लै तवऱवर्क्कु आयिनुम् ऊडुदल्  
@@ -86,6 +93,13 @@ vāṭiṉum pāṭu peṟum.
 Fading first, love blooms and outlives  
 The petty pricks that pouting gives.        1322  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३२२</summary>
+
+1322
+मान जनित लघु दुःख से, यद्यपि प्रिय का प्रेम ।  
+मुरझा जाता है ज़रा, फिर भी पाता क्षेम ॥
+  </details>
 
 <details><summary>मूलम् - १३२२</summary>
 
@@ -129,6 +143,13 @@ Is there a heaven like sulk beneath
 Of hearts that join like water and earth?        1323  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३२३</summary>
+
+1323
+मिट्‍टी-पानी मिलन सम, जिस प्रिय का संपर्क ।  
+उनसे होते कलह से, बढ़ कर है क्या स्वर्ग ॥
+  </details>
+
 <details><summary>मूलम् - १३२३</summary>
 
 पुलत्तलिन् पुत्तेळ्नाडु उण्डो निलत्तॊडु  
@@ -170,6 +191,13 @@ uḷḷam uṭaikkum paṭai.
 In long pout after embrace sweet  
 A weapon is up to break my heart.        1324  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३२४</summary>
+
+1324
+मिलन साध्य कर, बिछुड़ने, देता नहिं जो मान ।  
+उससे आविर्भूत हो, हृत्स्फोटक सामान ॥
+  </details>
 
 <details><summary>मूलम् - १३२४</summary>
 
@@ -213,6 +241,13 @@ Though free form faults, one feels the charms
 Of feigned release from lover's arms.        1325  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३२५</summary>
+
+1325
+यद्यपि प्रिय निर्दोष है, मृदुल प्रिया का स्कंध ।  
+छूट रहे जब मिलन से, तब है इक आनन्द ॥
+  </details>
+
 <details><summary>मूलम् - १३२५</summary>
 
 तवऱिलर् आयिनुम् ताम्वीऴ्वार् मॆण्ड्रोळ्  
@@ -254,6 +289,13 @@ puṇartaliṉ ūṭal iṉitu.
 Sweeter than meal is digestion  
 And sulk in love than union.        1326  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३२६</summary>
+
+1326
+खाने से, खाया हुआ, पचना सुखकर जान ।  
+काम-भोग हित मिलन से, अधिक सुखद है मान ॥
+  </details>
 
 <details><summary>मूलम् - १३२६</summary>
 
@@ -297,6 +339,13 @@ The yielder wins in lover's pout
 Reunited joy brings it out.        1327  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३२७</summary>
+
+1327
+प्रणय-कलह में जो विजित, उसे रहा जय योग ।  
+वह तो जाना जायगा, जब होगा संयोग ॥
+  </details>
+
 <details><summary>मूलम् - १३२७</summary>
 
 ऊडलिल् तोट्रवर् वॆण्ड्रार् अदुमन्नुम्  
@@ -338,6 +387,13 @@ kūṭalil tōṉṟiya uppu.
 Shall not our pouting again give  
 The dew-browed joy of joint love?        1328  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३२८</summary>
+
+1328
+स्वेद-जनक सुललाट पर, मिलन जन्य आनन्द ।  
+प्रणय-कलह कर क्या मिले, फिर वह हमें अमन्द ॥
+  </details>
 
 <details><summary>मूलम् - १३२८</summary>
 
@@ -381,6 +437,13 @@ Sulk on O belle of shining jewels!
 Prolong O night! our delight swells!        1329  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३२९</summary>
+
+1329
+रत्नाभरण सजी प्रिया, करे और भी मान ।  
+करें मनौती हम यथा, बढ़े रात्रि का मान ॥
+  </details>
+
 <details><summary>मूलम् - १३२९</summary>
 
 ऊडुग मन्नो ऒळियिऴै यामिरप्प  
@@ -422,6 +485,13 @@ kūṭi muyaṅkap peṟiṉ.
 Bouderie is lovers' delight  
 Its delight grows when they unite        1330  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३३०</summary>
+
+1330
+रहा काम का मधुर रस, प्रणय-कलह अवगाह ।  
+फिर उसका है मधुर रस, मधुर मिलन सोत्साह ॥
+  </details>
 
 <details><summary>मूलम् - १३३०</summary>
 

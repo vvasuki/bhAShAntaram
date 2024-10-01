@@ -47,6 +47,13 @@ pakavaṉ mutaṟṟē, ulaku.
 Leads and lords the entire world.         1  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १</summary>
+
+1
+अक्षर सबके आदि में, है अकार का स्थान ।  
+अखिल लोक का आदि तो, रहा आदि भगवान ॥
+  </details>
+
 <details><summary>मूलम् - १</summary>
 
 अगर मुदल ऎऴुत्तॆल्लाम् आदि  
@@ -90,6 +97,13 @@ nal tāḷ toḻāar eṉiṉ?.
 That lore is vain which does not fall  
 At His good feet who knoweth all.         2  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २</summary>
+
+2
+विद्योपार्जन भी भला, क्या आयेगा काम ।  
+श्रीपद पर सत्याज्ञ के, यदि नहिं किया प्रणाम ॥
+  </details>
 
 <details><summary>मूलम् - २</summary>
 
@@ -140,6 +154,13 @@ Long they live on earth who gain
 The feet of God in florid brain.         3  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३</summary>
+
+3
+हृदय-पद्‍म-गत ईश के, पाद-पद्‍म जो पाय ।  
+श्रेयस्कर वरलोक में, चिरजीवी रह जाय ॥
+  </details>
+
 <details><summary>मूलम् - ३</summary>
 
 मलर्मिसै एगिनान् माणडि सेर्न्दार्  
@@ -183,6 +204,13 @@ yāṇṭum iṭumpai ila.
 Who hold His feet who likes nor loathes  
 Are free from woes of human births.         4  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४</summary>
+
+4
+राग-द्वेष विहीन के, चरणाश्रित जो लोग ।  
+दुःख न दे उनको कभी, भव-बाधा का रोग ॥
+  </details>
 
 <details><summary>मूलम् - ४</summary>
 
@@ -233,6 +261,13 @@ God's praise who tell, are free from right
 And wrong, the twins of dreaming night.         5  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५</summary>
+
+5
+जो रहते हैं ईश के, सत्य भजन में लिप्त ।  
+अज्ञानाश्रित कर्म दो, उनको करें न लिप्त ॥
+  </details>
+
 <details><summary>मूलम् - ५</summary>
 
 इरुळ्सेर् इरुविनैयुम् सेरा इऱैवन्  
@@ -282,6 +317,13 @@ They prosper long who walk His way
 Who has the senses signed away.         6  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६</summary>
+
+6
+पंचेन्द्रिय-निग्रह किये, प्रभु का किया विधान ।  
+धर्म-पंथ के पथिक जो, हों चिर आयुष्मान ॥
+  </details>
+
 <details><summary>मूलम् - ६</summary>
 
 पॊऱिवायिल् ऐन्दवित्तान् पॊय्दीर् ऒऴुक्क  
@@ -323,6 +365,13 @@ maṉak kavalai māṟṟal aritu.
 His feet, whose likeness none can find,  
 Alone can ease the anxious mind.         7  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७</summary>
+
+7
+ईश्वर उपमारहित का, नहीं पदाश्रय-युक्त ।  
+तो निश्चय संभव नहीं, होना चिन्ता-मुक्त ॥
+  </details>
 
 <details><summary>मूलम् - ७</summary>
 
@@ -371,6 +420,13 @@ Who swims the sea of vice is he
 Who clasps the feet of Virtue's sea.         8  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८</summary>
+
+8
+धर्म-सिन्धु करुणेश के, शरणागत है धन्य ।  
+उसे छोड दुख-सिन्धु को, पार‍ न पाये अन्य ॥
+  </details>
+
 <details><summary>मूलम् - ८</summary>
 
 अऱवाऴि अन्दणन् ताळ्सेर्न्दार्क् कल्लाल्  
@@ -418,6 +474,13 @@ Like senses stale that head is vain
 Which bows not to Eight-Virtued Divine.         9  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९</summary>
+
+9
+निष्क्रिय इन्द्रिय सदृश ही, 'सिर' है केवल नाम ।  
+अष्टगुणी के चरण पर, यदि नहिं किया प्रणाम ॥
+  </details>
+
 <details><summary>मूलम् - ९</summary>
 
 कोळिल् पॊऱियिन् कुणमिलवे ऎण्गुणत्तान्  
@@ -452,7 +515,6 @@ iṟaivaṉ aṭi cērātār.
 10\. Those who gain the feet of the Lord cross the great ocean of births; others cannot.
 </details>
 
-
 <details><summary>शुद्धानन्द-भारती (en) - १०</summary>
 
 10\. பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்  
@@ -460,6 +522,13 @@ iṟaivaṉ aṭi cērātār.
 The sea of births they alone swim  
 Who clench His feet and cleave to Him.        10  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०</summary>
+
+10
+भव-सागर विस्तार से, पाते हैं निस्तार ।  
+ईश-शरण बिन जीव तो, कर नहीं पाये पार ॥
+  </details>
 
 <details><summary>मूलम् - १०</summary>
 

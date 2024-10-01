@@ -45,6 +45,13 @@ I shrink to clasp you bosom lewd
 To the gaze of all ladies exposed.        1311  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३११</summary>
+
+1311
+सभी स्त्रियाँ सम भाव से, करतीं दृग से भोग ।  
+रे विट् तेरे वक्ष से, मैं न करूँ संयोग ॥
+  </details>
+
 <details><summary>मूलम् - १३११</summary>
 
 पॆण्णियलार् ऎल्लारुम् कण्णिन् पॊदुउण्बर्  
@@ -86,6 +93,13 @@ nīṭuvāḻ keṉpākku aṟintu.
 He sneezed while we went on sulking  
 Expecting me to say "live long".        1312  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३१२</summary>
+
+1312
+हम बैठी थीं मान कर, छींक गये तब नाथ ।  
+यों विचार ‘चिर जीव’ कह, हम कर लेंगी बात ॥
+  </details>
 
 <details><summary>मूलम् - १३१२</summary>
 
@@ -129,6 +143,13 @@ kāṭṭiya cūṭiṉīr eṉṟu.
 While I adorn myself with flowers.        1313  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३१३</summary>
+
+1313
+धरूँ डाल का फूल तो, यों होती नाराज़ ।  
+दर्शनार्थ औ’ नारि से, करते हैं यह साज ॥
+  </details>
+
 <details><summary>मूलम् - १३१३</summary>
 
 कोट्टुप् पूच् चूडिनुम् कायुम् ऒरुत्तियैक्  
@@ -170,6 +191,13 @@ yāriṉum yāriṉum eṉṟu.
 "I love you more than all" I said  
 "Than whom, than whom?" she sulked and chid.        1314  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३१४</summary>
+
+1314
+‘सब से बढ़’, मैंने कहा, ‘हम करते हैं प्यार’ ।  
+‘किस किस से’ कहती हुई, लगी रुठने यार ॥
+  </details>
 
 <details><summary>मूलम् - १३१४</summary>
 
@@ -218,6 +246,13 @@ kaṇniṟai nīrkoṇ ṭaṉaḷ.
 Her eyes at once with tears were filled.        1315  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३१५</summary>
+
+1315
+यों कहने पर- हम नहीं, ‘बिछुड़ेंगे इस जन्म’ ।  
+भर लायी दृग, सोच यह, क्या हो अगले जन्म ॥
+  </details>
+
 <details><summary>मूलम् - १३१५</summary>
 
 इम्मैप् पिऱप्पिल् पिरियलम् ऎण्ड्रेनाक्  
@@ -259,6 +294,13 @@ pullāḷ pulattak kaṉaḷ.
 I said "I thought of you". She left  
 Her embrace crying "Oft you forget".        1316  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३१६</summary>
+
+1316
+‘स्मरण किया’ मैंने कहा, तो क्यों बैठे भूल ।  
+यों कह मिले बिना रही, पकड़ मान का तूल ॥
+  </details>
 
 <details><summary>मूलम् - १३१६</summary>
 
@@ -302,6 +344,13 @@ I sneezed; she blessed; then changed and wept
 "You sneezed now at which lady's thought?"        1317  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३१७</summary>
+
+1317
+छींका तो, कह शुभ वचन, तभी बदल दी बात ।  
+‘कौन स्मरण कर छींक दी’, कह रोयी सविषाद ॥
+  </details>
+
 <details><summary>मूलम् - १३१७</summary>
 
 वऴुत्तिनाळ् तुम्मिनेन् आग अऴित्तऴुदाळ्  
@@ -343,6 +392,13 @@ emmai maṟaittirō eṉṟu.
 I repressed sneeze; she wept crying  
 "Your thoughts from me you are hiding".        1318  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३१८</summary>
+
+1318
+छींक दबाता मैं रहा, रोयी कह यह बैन ।  
+अपनी जो करती स्मरण, उसे छिपाते हैं न ॥
+  </details>
 
 <details><summary>मूलम् - १३१८</summary>
 
@@ -386,6 +442,13 @@ I try to coax her and she remarks
 "Your coaxing others thus this marks".        1319  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १३१९</summary>
+
+1319
+अगर मनाऊँ तो सही, यों कह होती रुष्ट ।  
+करते होंगे अन्य को, इसी तरह से तुष्ट ॥
+  </details>
+
 <details><summary>मूलम् - १३१९</summary>
 
 तन्नै उणर्त्तिनुम् कायुम् पिऱर्क्कुम्नीर्  
@@ -428,6 +491,13 @@ I think and gaze at her; she chides:
 "On whom your thought just now abides?"  
 1320  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३२०</summary>
+
+1320
+देखूँ यदि मैं मुग्ध हो, यों कह करती रार ।  
+देख रहे हैं आप सब, दिल में किसे विचार ॥
+  </details>
 
 <details><summary>मूलम् - १३२०</summary>
 

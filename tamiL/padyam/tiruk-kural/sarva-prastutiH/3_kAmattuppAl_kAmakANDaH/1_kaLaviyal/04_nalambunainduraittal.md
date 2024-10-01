@@ -40,6 +40,13 @@ Soft blessed anicha flower, hail
 On whom I dote is softer still.        1111  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११११</summary>
+
+1111
+रे अनिच्च तू धन्य है, तू है कोमल प्राण ।  
+मेरी जो है प्रियतमा, तुझसे मृदुतर जान ॥
+  </details>
+
 <details><summary>मूलम् - ११११</summary>
 
 नन्नीरै वाऴि अनिच्चमे निन्निनुम्  
@@ -81,6 +88,13 @@ palarkāṇum pūvokkum eṉṟu.
 You can't liken flowers by many eyed,  
 To her bright eyes, O mind dismayed.        1112  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १११२</summary>
+
+1112
+बहु-जन-दृष्ट सुमन सदृश, इसके दृग को मान ।  
+रे मन यदि देखो सुमन, तुम हो भ्रमित अजान ॥
+  </details>
 
 <details><summary>मूलम् - १११२</summary>
 
@@ -124,6 +138,13 @@ The bamboo-shouldered has pearl-like smiles
 Fragrant breath and lance-like eyes.        1113  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १११३</summary>
+
+1113
+पल्लव तन, मोती रदन, प्राकृत गंध सुगंध ।  
+भाला कजरारा नयन, जिसके बाँस-स्कंध ॥
+  </details>
+
 <details><summary>मूलम् - १११३</summary>
 
 मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाट्रम्  
@@ -165,6 +186,13 @@ māṇiḻai kaṇṇovvēm eṉṟu.
 Lily droops down to ground and says  
 I can't equal the jewelled-one's eyes.        1114  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १११४</summary>
+
+1114
+कुवलय दल यदि देखता, सोच झुका कर सीस ।  
+इसके दृग सम हम नहीं, होती उसको खीस ॥
+  </details>
 
 <details><summary>मूलम् - १११४</summary>
 
@@ -213,6 +241,13 @@ Anicha flower with stem she wears
 To her breaking waist sad-drum-blares!        1115  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १११५</summary>
+
+1115
+धारण किया अनिच्च को, बिना निकाले वृन्त ।  
+इसकी कटि हिन ना बजे, मंगल बाजा-वृन्द ॥
+  </details>
+
 <details><summary>मूलम् - १११५</summary>
 
 अनिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्कु  
@@ -254,6 +289,13 @@ patiyiṉ kalaṅkiya mīṉ.
 Stars are confused to know which is  
 The moon and which is woman's face.        1116  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १११६</summary>
+
+1116
+महिला मुख औ’ चन्द्र में, उड्डगण भेद न जान ।  
+निज कक्षा से छूट कर, होते चलायमान ॥
+  </details>
 
 <details><summary>मूलम् - १११६</summary>
 
@@ -302,6 +344,13 @@ Are there spots on the lady's face
 Just as in moon that changes phase?        1117  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १११७</summary>
+
+1117
+क्षय पाकर फिर पूर्ण हो, शोभित रहा मयंक ।  
+इस नारी के वदन पर, रहता कहाँ कलंक ॥
+  </details>
+
 <details><summary>मूलम् - १११७</summary>
 
 अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल  
@@ -344,6 +393,13 @@ Like my lady's face if you shine
 All my love to you; hail O moon!        1118  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १११८</summary>
+
+1118
+इस नारी के वदन सम, चमक सके तो चाँद ।  
+प्रेम-पात्र मेरा बने, चिरजीवी रह चाँद ॥
+  </details>
+
 <details><summary>मूलम् - १११८</summary>
 
 मादर् मुगम्बोल् ऒळिविड वल्लैयेल्  
@@ -385,6 +441,13 @@ palarkāṇat tōṉṟal mati.
 Like the face of my flower-eyed one  
 If you look, then shine alone O moon!        1119  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १११९</summary>
+
+1119
+सुमन-नयन युत वदन सम, यदि होने की चाह ।  
+सबके सम्मुख चन्द्र तू चमक न बेपरवाह ॥
+  </details>
 
 <details><summary>मूलम् - १११९</summary>
 
@@ -432,6 +495,13 @@ aṭikku neruñcip paḻam.
 The soft flower and the swan's down are  
 Like nettles to the feet of the fair.        1120  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११२०</summary>
+
+1120
+मृदु अनिच्च का फूल औ’, हंसी का मृदु तूल ।  
+बाला के मृदु पाद हित, रहे गोखरू शूल ॥
+  </details>
 
 <details><summary>मूलम् - ११२०</summary>
 

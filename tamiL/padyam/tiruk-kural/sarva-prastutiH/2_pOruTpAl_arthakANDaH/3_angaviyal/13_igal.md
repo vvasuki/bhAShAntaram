@@ -41,6 +41,13 @@ Hatred is a plague that divides
 And rouses illwill on all sides.        851  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५१</summary>
+
+851
+सब जीवों में फूट ही, कहते हैं बुध लोग ।  
+अनमिल-भाव-अनर्थ का, पोषण करता रोग ॥
+  </details>
+
 <details><summary>मूलम् - ८५१</summary>
 
 इगलॆन्ब ऎल्ला उयिर्क्कुम् पगलॆन्नुम्  
@@ -82,6 +89,13 @@ iṉṉācey yāmai talai.
 Rouse not hatred and confusion  
 Though foes provoke disunion        852  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८५२</summary>
+
+852
+कोई अनमिल भाव से, कर्म करे यदि पोच ।  
+अहित न करना है भला, भेद-भाव को सोच ॥
+  </details>
 
 <details><summary>मूलम् - ८५२</summary>
 
@@ -125,6 +139,13 @@ Shun the plague of enmity
 And win everlasting glory.        853  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५३</summary>
+
+853
+रहता है दुःखद बड़ा, भेद-भाव का रोग ।  
+उसके वर्जन से मिले, अमर कीर्तिका भोग ॥
+  </details>
+
 <details><summary>मूलम् - ८५३</summary>
 
 इगलॆन्नुम् ऎव्वनोय् नीक्किन् तवलिल्लात्  
@@ -167,6 +188,13 @@ Hate-the woe of woes destroy;
 Then joy of joys you can enjoy.        854  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५४</summary>
+
+854
+दुःखों में सबसे बड़ा, है विभेद का दुःख ।  
+जब होता है नष्ट वह, होता सुख ही सुक्ख ॥
+  </details>
+
 <details><summary>मूलम् - ८५४</summary>
 
 इन्बत्तुळ् इन्बम् पयक्कुम् इगलॆन्नुम्  
@@ -208,6 +236,13 @@ mikalūkkum taṉmai yavar.
 Who can overcome them in glory  
 That are free from enmity?        855  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८५५</summary>
+
+855
+उठते देख विभेद को, हट कर रहे समर्थ ।  
+उसपर कौन समर्थ जो, सोचे जय के अर्थ ॥
+  </details>
 
 <details><summary>मूलम् - ८५५</summary>
 
@@ -256,6 +291,13 @@ His fall and ruin are quite near
 Who holds enmity sweet and dear.        856  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५६</summary>
+
+856
+भेद-वृद्धि से मानता, मिलता है आनन्द ।  
+जीवन उसका चूक कर, होगा नष्ट तुरन्त ॥
+  </details>
+
 <details><summary>मूलम् - ८५६</summary>
 
 इगलिन् मिगलिनिदु ऎन्बवन् वाऴ्क्कै  
@@ -297,6 +339,13 @@ iṉṉā aṟivi ṉavar.
 They cannot see the supreme Truth  
 Who hate and injure without ruth.        857  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८५७</summary>
+
+857
+करते जो दुर्बुद्धि हैं, भेद-भाव से प्रति ।  
+तत्व-दर्श उनको नहीं, जो देता है जीत ॥
+  </details>
 
 <details><summary>मूलम् - ८५७</summary>
 
@@ -340,6 +389,13 @@ To turn from enmity is gain
 Fomenting it brings fast ruin.        858  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५८</summary>
+
+858
+हट कर रहना भेद से, देता है संपत्ति ।  
+उससे अड़ कर जीतना, लाता पास विपत्ति ॥
+  </details>
+
 <details><summary>मूलम् - ८५८</summary>
 
 इगलिऱ्कु ऎदिर्साय्दल् आक्कम् अदनै  
@@ -382,6 +438,13 @@ Fortune favours when hate recedes
 Hatred exceeding ruin breeds.        859  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८५९</summary>
+
+859
+भेद-भाव नहिं देखता, तो होती संपत्ति ।  
+अधिक देखना है उसे, पाना है आपत्ति ॥
+  </details>
+
 <details><summary>मूलम् - ८५९</summary>
 
 इगल्गाणान् आक्कम् वरुङ्गाल् अदनै  
@@ -423,6 +486,13 @@ naṉṉayam eṉṉum cerukku.
 All evils come from enmity  
 All goodness flow from amity.        860  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८६०</summary>
+
+860
+होती हैं सब हानियाँ, भेद-भाव से प्राप्त ।  
+मैत्री से शुभ नीति का, उत्तम धन है प्राप्त ॥
+  </details>
 
 <details><summary>मूलम् - ८६०</summary>
 

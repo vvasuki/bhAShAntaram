@@ -40,6 +40,13 @@ My eyes are dim lustre-bereft
 Worn fingers count days since he left.        1261  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२६१</summary>
+
+1261
+छू कर गिनते विरह दिन, घिस अंगुलियाँ क्षीण ।  
+तथा नेत्र भी हो गये, राह देख छवि-हीन ॥
+  </details>
+
 <details><summary>मूलम् - १२६१</summary>
 
 वाळट्रुप् पुऱ्कॆण्ड्र कण्णुम् अवर्सॆण्ड्र  
@@ -86,6 +93,13 @@ kalaṅkaḻiyum kārikai nīttu.
 Beauty pales and my bracelets slide;  
 Why not forget him now, bright maid?        1262  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२६२</summary>
+
+1262
+उज्ज्वल भूषण सज्जिते ! यदि मैं भूलूँ आज ।  
+गिरें बाँह से चुड़ियाँ, औ’ खोऊँ छवि-साज ॥
+  </details>
 
 <details><summary>मूलम् - १२६२</summary>
 
@@ -134,6 +148,13 @@ Will as guide he went to win
 Yet I live-to see him again.        1263  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२६३</summary>
+
+1263
+विजय-कामना से चले, साथ लिये उत्साह ।  
+सो अब भी जीती रही, ‘लौटेंगे’ यों चाह ॥
+  </details>
+
 <details><summary>मूलम् - १२६३</summary>
 
 उरन्नसैइ उळ्ळम् तुणैयागच् चॆण्ड्रार्  
@@ -181,6 +202,13 @@ My heart in rapture heaves to see
 His retun with love to embrace me.        1264  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२६४</summary>
+
+1264
+प्रेम सहित हैं लौटते, बिछुड़ गये जो नाथ ।  
+उमड़ रहा यों सोच कर, हृदय खुशी के साथ ॥
+  </details>
+
 <details><summary>मूलम् - १२६४</summary>
 
 कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्  
@@ -222,6 +250,13 @@ nīṅkumeṉ meṉtōḷ pacappu.
 Let me but gaze and gaze my spouse  
 sallow on my soft shoulders flies.        1265  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२६५</summary>
+
+1265
+प्रियतम को मैं देख लूँ, आँखों से भरपूर ।  
+फिर पीलापन स्कंध का, हो जायेगा दूर ॥
+  </details>
 
 <details><summary>मूलम् - १२६५</summary>
 
@@ -265,6 +300,13 @@ Let my spouse return just a day
 Joy-drink shall drive my pain away.        1266  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२६६</summary>
+
+1266
+प्रिय आवें तो एक दिन,यों कर लूँ रसपान ।  
+जिससे पूरा ही मिटे, दुःखद रोग निदान ॥
+  </details>
+
 <details><summary>मूलम् - १२६६</summary>
 
 वरुगमन् कॊण्गन् ऒरुनाळ् परुगुवन्  
@@ -306,6 +348,13 @@ kaṇaṉṉa kēḷir variṉ.
 If my eye-like lord returneth  
 Shall I sulk or clasp or do both?        1267  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२६७</summary>
+
+1267
+नेत्र सदृश प्रिय आ मिलें, तो कर बैठूँ मान ?
+या आलिंगन ही करूँ, या दोनों, हे प्राण ॥
+  </details>
 
 <details><summary>मूलम् - १२६७</summary>
 
@@ -349,6 +398,13 @@ May the king fight and win and give
 And with my wife I will feast this eve!        1268  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२६८</summary>
+
+1268
+क्रियाशील हो युद्ध कर, राजा पावें जीत ।  
+सपत्नीक हम भोज दें, संध्या हित सप्रीत ॥
+  </details>
+
 <details><summary>मूलम् - १२६८</summary>
 
 विनैगलन्दु वॆण्ड्रीग वेन्दन् मनैगलन्दु  
@@ -391,6 +447,13 @@ One day seems as seven to those
 Who yearn return of distant spouse.        1269  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२६९</summary>
+
+1269
+जिसे प्रवासी पुरुष के, प्रत्यागम का सोच ।  
+एक रोज़ है सात सम, लंबा होता रोज़ ॥
+  </details>
+
 <details><summary>मूलम् - १२६९</summary>
 
 ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुम्सेण् सॆण्ड्रार्  
@@ -432,6 +495,13 @@ uḷḷam uṭaintuukkak kāl.
 When her heart is broken, what is  
 The good of meeting and love-embrace?        1270  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२७०</summary>
+
+1270
+प्राप्य हुई या प्राप्त ही, या हो भी संयोग ।  
+हृदय भग्न हो चल बसी, तो क्या हो उपयोग ॥
+  </details>
 
 <details><summary>मूलम् - १२७०</summary>
 

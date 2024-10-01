@@ -52,6 +52,13 @@ The ideal householder is he
 Who aids the natural orders there.         41  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४१</summary>
+
+41
+धर्मशील जो आश्रमी, गृही छोड़ कर तीन ।  
+स्थिर आश्रयदाता रहा, उनको गृही अदीन ॥
+  </details>
+
 <details><summary>मूलम् - ४१</summary>
 
 इल्वाऴ्वान् ऎन्बान् इयल्बुडैय मूवर्क्कुम्  
@@ -98,6 +105,13 @@ ilvāḻvāṉ eṉpāṉ tuṇai.
 His help the monk and retired share,  
 And celebrate students are his care.         42  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४२</summary>
+
+42
+उनका रक्षक है गृही, जो होते हैं दीन ।  
+जो अनाथ हैं, और जो, मृतजन आश्रयहीन ॥
+  </details>
 
 <details><summary>मूलम् - ४२</summary>
 
@@ -146,6 +160,13 @@ By dutiful householder's aid
 God, manes, kin, self and guests are served.         43  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४३</summary>
+
+43
+पितर देव फिर अतिथि जन, बन्धु स्वयं मिल पाँच ।  
+इनके प्रति कर्तव्य का, भरण धर्म है साँच ॥
+  </details>
+
 <details><summary>मूलम् - ४३</summary>
 
 तॆन्बुलत्तार् तॆय्वम् विरुन्दॊक्कल् तानॆण्ड्राङ्गु  
@@ -192,6 +213,13 @@ vaḻi eñcal, eññāṉṟum, il.
 Sin he shuns and food he shares  
 His home is bright and brighter fares.         44  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४४</summary>
+
+44
+पापभीरु हो धन कमा, बाँट यथोचित अंश ।  
+जो भोगे उस पुरुष का, नष्ट न होगा वंश ॥
+  </details>
 
 <details><summary>मूलम् - ४४</summary>
 
@@ -240,6 +268,13 @@ In grace and gain the home excels,
 Where love with virtue sweetly dwells.         45  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४५</summary>
+
+45
+प्रेम- युक्त गार्हस्थ्य हो, तथा धर्म से पूर्ण ।  
+तो समझो वह धन्य है, तथा सुफल से पूर्ण ॥
+  </details>
+
 <details><summary>मूलम् - ४५</summary>
 
 अन्बुम् अऱनुम् उडैत्तायिन् इल्वाऴ्क्कै  
@@ -286,6 +321,13 @@ pōoyp peṟuvatu evaṉ?.
 Who turns from righteous family  
 To be a monk, what profits he?         46  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४६</summary>
+
+46
+धर्म मार्ग पर यदि गृही, चलायगा निज धर्म ।  
+ग्रहण करे वह किसलिये, फिर अपराश्रम धर्म ॥
+  </details>
 
 <details><summary>मूलम् - ४६</summary>
 
@@ -334,6 +376,13 @@ Of all who strive for bliss, the great
 Is he who leads the married state.         47  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४७</summary>
+
+47
+भरण गृहस्थी धर्म का, जो भी करे गृहस्थ ।  
+साधकगण के मध्य वह, होता है अग्रस्थ ॥
+  </details>
+
 <details><summary>मूलम् - ४७</summary>
 
 इयल्बिनान् इल्वाऴ्क्कै वाऴ्बवन् ऎन्बान्  
@@ -380,6 +429,13 @@ nōṟpāriṉ nōṉmai uṭaittu.
 Straight in virtue, right in living  
 Make men brighter than monks praying.         48  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४८</summary>
+
+48
+अच्युत रह निज धर्म पर, सबको चला सुराह ।  
+क्षमाशील गार्हस्थ्य है, तापस्य से अचाह ॥
+  </details>
 
 <details><summary>मूलम् - ४८</summary>
 
@@ -433,6 +489,13 @@ Home-life and virtue, are the same;
 Which spotless monkhood too can claim.         49  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४९</summary>
+
+49
+जीवन ही गार्हस्थ्य का, कहलाता है धर्म ।  
+अच्छा हो यदि वह बना, जन-निन्दा बिन धर्म ॥
+  </details>
+
 <details><summary>मूलम् - ४९</summary>
 
 अऱन् ऎनप् पट्टदे इल्वाऴ्क्कै अह्दुम्  
@@ -483,6 +546,13 @@ teyvattuḷ vaikkappaṭum.
 He is a man of divine worth  
 Who lives in ideal home on earth.         50  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५०</summary>
+
+50
+इस जग में है जो गृही, धर्मनिष्ठ मतिमान ।  
+देवगणों में स्वर्ग के, पावेगा सम्मान ॥
+  </details>
 
 <details><summary>मूलम् - ५०</summary>
 

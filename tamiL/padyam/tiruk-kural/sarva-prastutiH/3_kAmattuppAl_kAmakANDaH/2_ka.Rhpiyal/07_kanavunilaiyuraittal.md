@@ -40,6 +40,13 @@ How shall I feast this dream-vision
 That brings the beloved's love-mission?        1211  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२११</summary>
+
+1211
+प्रियतम का जो दूत बन, आया स्वप्नाकार ।  
+उसका मैं कैसे करूँ, युग्य अतिथि-सत्कार ॥
+  </details>
+
 <details><summary>मूलम् - १२११</summary>
 
 कादलर् तूदॊडु वन्द कनविनुक्कु  
@@ -81,6 +88,13 @@ uyaluṇmai cāṟṟuvēṉ maṉ.
 I beg these fish-like dark eyes sleep  
 To tell my lover how life I keep.        1212  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२१२</summary>
+
+1212
+यदि सुन मेरी प्रार्थना, दृग हों निद्रावान ।  
+दुख सह बचने की कथा, प्रिय से कहूँ बखान ॥
+  </details>
 
 <details><summary>मूलम् - १२१२</summary>
 
@@ -124,6 +138,13 @@ In wakeful hours who sees me not
 I meet in dreams and linger yet.        1213  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२१३</summary>
+
+1213
+जाग्रत रहने पर कृपा, करते नहीं सुजान ।  
+दर्शन देते स्वप्न में, तब तो रखती प्राण ॥
+  </details>
+
 <details><summary>मूलम् - १२१३</summary>
 
 ननविनाल् नल्गा तवरैक् कनविनाल्  
@@ -166,6 +187,13 @@ In dreams I enjoy his love-bliss
 Who in wakeful hours I miss.        1214  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२१४</summary>
+
+1214
+जाग्रति में करते नहीं, नाथ कृपा कर योग ।  
+खोज स्वप्न ने ला दिया, सो उसमें सुख-भोग ॥
+  </details>
+
 <details><summary>मूलम् - १२१४</summary>
 
 कनविनान् उण्डागुम् कामम् ननविनान्  
@@ -207,6 +235,13 @@ kaṇṭa poḻutē iṉitu.
 Dream-sight of him delights at once  
 Awake- What of seeing him -hence.        1215  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२१५</summary>
+
+1215
+आँखों में जब तक रहे, जाग्रति में सुख-भोग ।  
+सपने में भी सुख रहा, जब तक दर्शन-योग ॥
+  </details>
 
 <details><summary>मूलम् - १२१५</summary>
 
@@ -255,6 +290,13 @@ If wakeful hours cometo nought
 My lov'r in dreams would nev'r depart        1216  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२१६</summary>
+
+1216
+यदि न रहे यह जागरण, तो मेरे प्रिय नाथ ।  
+जो आते हैं स्वप्न में, छोड़ न जावें साथ ॥
+  </details>
+
 <details><summary>मूलम् - १२१६</summary>
 
 ननवॆन ऒण्ड्रिल्लै आयिन् कनविनाल्  
@@ -297,6 +339,13 @@ Awake he throws my overtures
 Adream, ah cruel! he tortures!        1217  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२१७</summary>
+
+1217
+कृपा न कर जागरण में, निष्ठुर रहे सुजन ।  
+पीड़ित करते किसलिये, मुझे स्वप्न में प्राण ॥
+  </details>
+
 <details><summary>मूलम् - १२१७</summary>
 
 ननविनाल् नल्गाक् कॊडियार् कनवनाल्  
@@ -338,6 +387,13 @@ neñcattar āvar viraintu.
 Asleep he embraces me fast;  
 Awake he enters quick my heart.        1218  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२१८</summary>
+
+1218
+गले लगाते नींद में, पर जब पडती जाग ।  
+तब दिल के अन्दर सुजन, झट जाते हैं भाग ॥
+  </details>
 
 <details><summary>मूलम् - १२१८</summary>
 
@@ -386,6 +442,13 @@ In dreams who don't discern lovers
 Rue their missing in wakeful hours.        1219  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२१९</summary>
+
+1219
+जाग्रति में अप्राप्त को, कोसेंगी वे वाम ।  
+जिनके प्रिय ने स्वप्न में, मिल न दिया आराम ॥
+  </details>
+
 <details><summary>मूलम् - १२१९</summary>
 
 ननविनाल् नल्गारै नोवर् कनविनाल्  
@@ -427,6 +490,13 @@ kāṇārkol ivvū ravar.
 The townsmen say he left me thus  
 In dreams failing to see him close.        1220  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२२०</summary>
+
+1220
+यों कहते प्रिय का मुझे, जाग्रति में नहिं योग ।  
+सपने में ना देखते, क्या इस पुर के लोग ॥
+  </details>
 
 <details><summary>मूलम् - १२२०</summary>
 

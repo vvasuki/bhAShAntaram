@@ -45,6 +45,13 @@ Weigh well output the loss and gain
 And proper action ascertain.        461  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४६१</summary>
+
+461
+कर विचार व्यय-आय का, करना लाभ-विचार ।  
+फिर हो प्रवृत्त कार्य में, करके सोच-विचार ॥
+  </details>
+
 <details><summary>मूलम् - ४६१</summary>
 
 अऴिवदूउम् आवदूउम् आगि वऴिबयक्कुम्  
@@ -86,6 +93,13 @@ arum poruḷ yātu oṉṟum il.
 Nothing is hard for him who acts  
 With worthy counsels weighing facts.        462  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४६२</summary>
+
+462
+आप्तों से कर मंत्रणा, करता स्वयं विचार ।  
+उस कर्मी को है नहीं, कुछ भी असाध्य कार ॥
+  </details>
 
 <details><summary>मूलम् - ४६२</summary>
 
@@ -134,6 +148,13 @@ The wise risk not their capital
 In doubtful gains and lose their all.        463  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४६३</summary>
+
+463
+कितना भावी लाभ हो, इसपर दे कर ध्यान ।  
+पूँजी-नाशक कर्म तो, करते नहिं मतिमान ॥
+  </details>
+
 <details><summary>मूलम् - ४६३</summary>
 
 आक्कम् करुदि मुदलिऴक्कुम् सॆय्विनै  
@@ -175,6 +196,13 @@ Will not launch thoughtless ventures. *
 They who scornful reproach fear  
 Commence no work not made clear.        464  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४६४</summary>
+
+464
+अपयश के आरोप से, जो होते हैं भीत ।  
+शुरू न करते कर्म वे, स्पष्ट न जिसकी रीत ॥
+  </details>
 
 <details><summary>मूलम् - ४६४</summary>
 
@@ -218,6 +246,13 @@ Who marches without plans and ways
 His field is sure to foster foes.        465  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४६५</summary>
+
+465
+टूट पडे जो शत्रु पर, बिन सोचे सब मर्म ।  
+शत्रु-गुल्म हित तो बने, क्यारी ज्यों वह कर्म ॥
+  </details>
+
 <details><summary>मूलम् - ४६५</summary>
 
 वगैयऱच् चूऴा तॆऴुदल् पगैवरैप्  
@@ -259,6 +294,13 @@ ceyyāmaiyāṉum keṭum.
 Doing unfit action ruins  
 Failing fit-act also ruins.        466  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४६६</summary>
+
+466
+करता अनुचित कर्म तो, होता है नर नष्ट ।  
+उचित कर्म को छोड़ता, तो भी होता नष्ट ॥
+  </details>
 
 <details><summary>मूलम् - ४६६</summary>
 
@@ -302,6 +344,13 @@ Think and dare a proper deed
 Dare and think is bad in need.        467  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४६७</summary>
+
+467
+होना प्रवृत्त कर्म में, करके सोच-विचार ।  
+‘हो कर प्रवृत्त सोच लें’, है यह गलत विचार ॥
+  </details>
+
 <details><summary>मूलम् - ४६७</summary>
 
 ऎण्णित् तुणिग करुमम् तुणिन्दबिन्  
@@ -343,6 +392,13 @@ pōṟṟiṉum, pottuppaṭum.
 Toil without a plan ahead  
 Is doomed to fall though supported.        468  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४६८</summary>
+
+468
+जो भी साध्य उपाय बिन, किया जायगा यत्न ।  
+कई समर्थक क्यों न हों, खाली हो वह यत्न ॥
+  </details>
 
 <details><summary>मूलम् - ४६८</summary>
 
@@ -396,6 +452,13 @@ Attune the deeds to habitude
 Or ev'n good leads to evil feud.        469  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४६९</summary>
+
+469
+बिन जाने गुण शत्रु का, यदि उसके अनुकूल ।  
+किया गया सदुपाय तो, उससे भी हो भूल ॥
+  </details>
+
 <details><summary>मूलम् - ४६९</summary>
 
 नण्ड्राट्र लुळ्ळुन् दवुऱुण्डु अवरवर्  
@@ -437,6 +500,13 @@ koḷḷāta koḷḷātu ulaku.
 Do deeds above reproachfulness  
 The world refutes uncomely mess.        470  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४७०</summary>
+
+470
+अनुपयुक्त जो है तुम्हें, जग न करे स्वीकार ।  
+करना अनिंध कार्य ही, करके सोच-विचार ॥
+  </details>
 
 <details><summary>मूलम् - ४७०</summary>
 

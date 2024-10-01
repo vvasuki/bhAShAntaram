@@ -41,6 +41,13 @@ Quenchless lamp of ancestry goes
 When foul idleness encloses.        601  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६०१</summary>
+
+601
+जब तम से आलस्य के, आच्छादित हो जाय ।  
+अक्षय दीप कुटुंब का, मंद मंद बुझ जाय ॥
+  </details>
+
 <details><summary>मूलम् - ६०१</summary>
 
 कुडियॆन्नुम् कुण्ड्रा विळक्कम् मडियॆन्नुम्  
@@ -82,6 +89,13 @@ kuṭiyāka vēṇṭupavar!.
 To make your home an ideal home  
 Loath sloth as sloth; refuse it room.        602  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६०२</summary>
+
+602
+जो चाहें निज वंश का, बना रहे उत्कर्ष ।  
+नाश करें आलस्य का, करते उसका धर्ष ॥
+  </details>
 
 <details><summary>मूलम् - ६०२</summary>
 
@@ -125,6 +139,13 @@ The fool who fosters sluggishness
 Before he dies ruins his house.        603  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६०३</summary>
+
+603
+गोद लिये आलस्य को, जो जड़ करे विलास ।  
+होगा उसके पूर्व ही, जात-वंश का नाश ॥
+  </details>
+
 <details><summary>मूलम् - ६०३</summary>
 
 मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द  
@@ -166,6 +187,13 @@ māṇṭa uñaṟṟu ilavarkku.
 Who strive not high, sunk deep in sloth  
 Ruin their house by evil growth.        604  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६०४</summary>
+
+604
+जो सुस्ती में मग्न हों, यत्न बिना सुविशेष ।  
+तो उनका कुल नष्ट हो, बढ़ें दोष निःशेष ॥
+  </details>
 
 <details><summary>मूलम् - ६०४</summary>
 
@@ -209,6 +237,13 @@ To lag, forget, idle and doze
 These four are pleasure boats of loss.        605  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६०५</summary>
+
+605
+दीर्घसूत्रता, विस्मरण, सुस्ती, निद्रा-चाव ।  
+जो जन चाहें डूबना, चारों हैं प्रिय नाव ॥
+  </details>
+
 <details><summary>मूलम् - ६०५</summary>
 
 नॆडुनीर् मऱवि मडिदुयिल् नान्गुम्  
@@ -251,6 +286,13 @@ With all the wealth of lords of earth
 The slothful gain nothing of worth.        606  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६०६</summary>
+
+606
+सार्वभौम की श्री स्वयं, चाहे आवे पास ।  
+तो भी जो हैं आलसी, पावें नहिं फल ख़ास ॥
+  </details>
+
 <details><summary>मूलम् - ६०६</summary>
 
 पडियुडैयार् पट्रमैन्दक् कण्णुम् मडियुडैयार्  
@@ -292,6 +334,13 @@ māṇṭa uñaṟṟu ilavar.
 The slothful lacking noble deeds  
 Subject themselves to scornful words.        607  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६०७</summary>
+
+607
+सुस्ती-प्रिय बन, यत्न सुठि, करते नहिं जो लोग ।  
+डांट तथा उपहास भी, सुनते हैं वे लोग ॥
+  </details>
 
 <details><summary>मूलम् - ६०७</summary>
 
@@ -340,6 +389,13 @@ If sloth invades a noble house
 It will become a slave of foes.        608  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६०८</summary>
+
+608
+घर कर ले आलस्य यदि, रह कुलीन के पास ।  
+उसके रिपु के वश उसे, बनायगा वह दास ॥
+  </details>
+
 <details><summary>मूलम् - ६०८</summary>
 
 मडिमै कुडिमैक्कण् तङ्गिन्दन् ऒन्नार्क्कु  
@@ -381,6 +437,13 @@ maṭi āṇmai māṟṟa, keṭum.
 The blots on race and rule shall cease  
 When one from sloth gets his release.        609  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६०९</summary>
+
+609
+सुस्ती-पालन बान का, कर देगा यदि अंत ।  
+वंश और पुरुषार्थ में, लगे दोष हों अंत ॥
+  </details>
 
 <details><summary>मूलम् - ६०९</summary>
 
@@ -428,6 +491,13 @@ tāayatu ellām oruṅku.
 The slothless king shall gain en masse  
 *All regions trod by Lord apace.        610  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६१०</summary>
+
+610
+क़दम बढ़ा कर विष्णु ने, जिसे किया था व्याप्त ।  
+वह सब आलसहीन नृप, करे एकदम प्राप्त ॥
+  </details>
 
 <details><summary>मूलम् - ६१०</summary>
 

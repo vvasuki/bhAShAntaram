@@ -41,6 +41,13 @@ The daring well-armed winning force
 Is king's treasure and main resource.        761  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६१</summary>
+
+761
+सब अंगों से युक्त हो, क्षत से जो निर्भीक ।  
+जयी सैन्य है भूप के, ऐश्वर्यों में नीक ॥
+  </details>
+
 <details><summary>मूलम् - ७६१</summary>
 
 उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दन्  
@@ -88,6 +95,13 @@ Through shots and wounds brave heroes hold
 Quailing not in fall, the field.        762  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६२</summary>
+
+762
+छोटा फिर भी विपद में, निर्भय सहना चोट ।  
+यह साहस संभव नहीं, मूल सैन्य को छोड़ ॥
+  </details>
+
 <details><summary>मूलम् - ७६२</summary>
 
 उलैविडत्तु ऊऱञ्जा वन्गण् तॊलैविडत्तुत्  
@@ -129,6 +143,13 @@ nākam uyirppa, keṭum.
 Sea-like ratfoes roar ... What if?  
 They perish at a cobra's whiff.        763  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७६३</summary>
+
+763
+चूहे-शत्रु समुद्र सम, गरजें तो क्या कष्ट ।  
+सर्पराज फुफकारते, होते हैं सब नष्ट ॥
+  </details>
 
 <details><summary>मूलम् - ७६३</summary>
 
@@ -172,6 +193,13 @@ The army guards its genial flame
 Not crushed, routed nor marred in name.        764  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६४</summary>
+
+764
+अविनाशी रहते हुए, छल का हो न शिकार ।  
+पुश्तैनी साहस जहाँ, वही सैन्य निर्धार ॥
+  </details>
+
 <details><summary>मूलम् - ७६४</summary>
 
 अऴिविण्ड्रि अऱैबोगा तागि वऴिवन्द  
@@ -213,6 +241,13 @@ Even if yama attacks in fury. *
 The real army with rallied force  
 Resists even Death-God fierce.        765  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७६५</summary>
+
+765
+क्रोधिक हो यम आ भिड़े, फिर भी हो कर एक ।  
+जो समर्थ मुठ-भेड़ में, सैन्य वही है नेक ॥
+  </details>
 
 <details><summary>मूलम् - ७६५</summary>
 
@@ -256,6 +291,13 @@ Manly army has merits four:-
 Stately-march, faith, honour, valour.        766  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६६</summary>
+
+766
+शौर्य, मान, विश्वस्तता, करना सद्‍व्यवहार ।  
+ये ही सेना के लिये, रक्षक गुण हैं चार ॥
+  </details>
+
 <details><summary>मूलम् - ७६६</summary>
 
 मऱमानम् माण्ड वऴिच्चॆलवु तेट्रम्  
@@ -297,6 +339,13 @@ pōr tāṅkum taṉmai aṟintu.
 Army sets on to face the foes  
 Knowing how the trend of war goes.        767  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७६७</summary>
+
+767
+चढ़ आने पर शत्रु के, व्यूह समझ रच व्यूह ।  
+रोक चढ़ाई खुद चढ़े, यही सैन्य की रूह ॥
+  </details>
 
 <details><summary>मूलम् - ७६७</summary>
 
@@ -340,6 +389,13 @@ Army gains force by grand array
 Lacking in stay or dash in fray.        768  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६८</summary>
+
+768
+यद्यपि संहारक तथा, सहन शक्ति से हीन ।  
+तड़क-भड़क से पायगी, सेना नाम धुरीण ॥
+  </details>
+
 <details><summary>मूलम् - ७६८</summary>
 
 अडल्दगैयुम् आट्रलुम् इल्लॆनिनुम् तानै  
@@ -382,6 +438,13 @@ Army shall win if it is free
 From weakness, aversion, poverty.        769  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७६९</summary>
+
+769
+लगातार करना घृणा, क्षय होना औ’ दैन्य ।  
+जिसमें ये होते नहीं, पाता जय वह सैन्य ॥
+  </details>
+
 <details><summary>मूलम् - ७६९</summary>
 
 सिऱुमैयुम् सॆल्लात् तुनियुम् वऱुमैयुम्  
@@ -423,6 +486,13 @@ talaimakkaḷ ilvaḻi il.
 With troops in large numbers on rolls  
 Army can't march missing gen'rals.        770  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७७०</summary>
+
+770
+रखने पर भी सैन्य में, अगणित स्थायी वीर ।  
+स्थायी वह रहता नहीं, बिन सेनापति धीर ॥
+  </details>
 
 <details><summary>मूलम् - ७७०</summary>
 

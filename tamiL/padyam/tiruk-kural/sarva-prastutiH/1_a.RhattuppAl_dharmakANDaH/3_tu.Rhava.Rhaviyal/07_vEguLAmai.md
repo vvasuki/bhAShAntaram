@@ -40,6 +40,13 @@ Anger against the weak is wrong
 It is futile against the strong.        301  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३०१</summary>
+
+301
+जहाँ चले वश क्रोध का, कर उसका अवरोध ।  
+अवश क्रोध का क्या किया, क्या न किया उपरोध ॥
+  </details>
+
 <details><summary>मूलम् - ३०१</summary>
 
 सॆल्लिडत्तुक् काप्पान् सिनङ्गाप्पान् अल्लिडत्तुक्  
@@ -81,6 +88,13 @@ il, ataṉiṉ tīya piṟa.
 Vain is wrath against men of force  
 Against the meek it is still worse.        302  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३०२</summary>
+
+302
+वश न चले जब क्रोध का, तब है क्रोध खराब ।  
+अगर चले बश फिर वही, सबसे रहा खराब ॥
+  </details>
 
 <details><summary>मूलम् - ३०२</summary>
 
@@ -124,6 +138,13 @@ Off with wrath with any one.
 It is the source of sin and pain.        303  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३०३</summary>
+
+303
+किसी व्यक्ति पर भी कभी, क्रोध न कर, जा भूल ।  
+क्योंकि अनर्थों का वही, क्रोध बनेगा मूल ॥
+  </details>
+
 <details><summary>मूलम् - ३०३</summary>
 
 मऱत्तल् वॆगुळियै यार्माट्टुम् तीय  
@@ -165,6 +186,13 @@ pakaiyum uḷavō, piṟa?.
 Is there a foe like harmful ire  
 Which kills the smile and joyful cheer?        304  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३०४</summary>
+
+304
+हास और उल्लास को, हनन करेगा क्रोध ।  
+उससे बढ़ कर कौन है, रिपु जो करे विरोध ॥
+  </details>
 
 <details><summary>मूलम् - ३०४</summary>
 
@@ -208,6 +236,13 @@ Thyself to save, from wrath away!
 If not thyself the wrath will slay.        305  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३०५</summary>
+
+305
+रक्षा हित अपनी स्वयं, बचो क्रोध से साफ़ ।  
+यदि न बचो तो क्रोध ही, तुम्हें करेगा साफ़ ॥
+  </details>
+
 <details><summary>मूलम् - ३०५</summary>
 
 तन्नैत्तान् काक्किन् सिनङ्गाक्क कावाक्काल्  
@@ -249,6 +284,13 @@ Burns the life-saving boat of kith and kin.
 Friend-killer is the fatal rage  
 It burns the helpful kinship-barge.        306  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३०६</summary>
+
+306
+आश्रित जन का नाश जो, करे क्रोध की आग ।  
+इष्ट-बन्धु-जन-नाव को, जलायगी वह आग ॥
+  </details>
 
 <details><summary>मूलम् - ३०६</summary>
 
@@ -292,6 +334,13 @@ The wrath-lover to doom is bound
 Like failless-hand that strikes the ground.        307  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३०७</summary>
+
+307
+मान्य वस्तु सम क्रोध को, जो माने वह जाय ।  
+हाथ मार ज्यों भूमि पर, चोट से न बच जाय ॥
+  </details>
+
 <details><summary>मूलम् - ३०७</summary>
 
 सिनत्तैप् पॊरुळॆण्ड्रु कॊण्डवन् केडु  
@@ -333,6 +382,13 @@ puṇariṉ vekuḷāmai naṉṟu.
 Save thy soul from burning ire  
 Though tortured like the touch of fire.        308  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३०८</summary>
+
+308
+अग्निज्वाला जलन ज्यों, किया अनिष्ट यथेष्ट ।  
+फिर भी यदि संभव हुआ, क्रोध-दमन है श्रेष्ठ ॥
+  </details>
 
 <details><summary>मूलम् - ३०८</summary>
 
@@ -380,6 +436,13 @@ uḷḷāṉ vekuḷi eṉiṉ.
 Wishes he gains as he wishes  
 If man refrains from rage vicious!        309  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३०९</summary>
+
+309
+जो मन में नहिं लायगा, कभी क्रोध का ख्याल ।  
+मनचाही सब वस्तुएँ, उसे प्राप्य तत्काल ॥
+  </details>
 
 <details><summary>मूलम् - ३०९</summary>
 
@@ -438,6 +501,13 @@ tuṟantār tuṟantār tuṇai.
 Dead are they who are anger-fed  
 Saints are they from whom wrath has fled.        310  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३१०</summary>
+
+310
+जो होते अति क्रोधवश, हैं वे मृतक समान ।  
+त्यागी हैं जो क्रोध के, त्यक्त-मृत्यु सम मान ॥
+  </details>
 
 <details><summary>मूलम् - ३१०</summary>
 

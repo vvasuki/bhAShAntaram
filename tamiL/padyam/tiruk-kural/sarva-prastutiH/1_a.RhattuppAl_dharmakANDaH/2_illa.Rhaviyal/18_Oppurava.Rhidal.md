@@ -45,6 +45,13 @@ Duty demands nothing in turn;
 How can the world recompense rain?        211  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २११</summary>
+
+211
+उपकारी नहिं चाहते, पाना प्रत्युपकार ।  
+बादल को बदला भला, क्या देता संसार ॥
+  </details>
+
 <details><summary>मूलम् - २११</summary>
 
 कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु  
@@ -92,6 +99,13 @@ All the wealth that toils give
 Is meant to serve those who deserve.        212  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २१२</summary>
+
+212
+बहु प्रयत्न से जो जुड़ा, योग्य व्यक्ति के पास ।  
+लोगों के उपकार हित, है वह सब धन-रास ॥
+  </details>
+
 <details><summary>मूलम् - २१२</summary>
 
 ताळाट्रित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु  
@@ -134,6 +148,13 @@ In heav'n and earth 'tis hard to find
 A greater good than being kind.        213  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २१३</summary>
+
+213
+किया भाव निष्काम से, जनोपकार समान ।  
+स्वर्ग तथा भू लोक में दुष्कर जान ॥
+  </details>
+
 <details><summary>मूलम् - २१३</summary>
 
 पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे  
@@ -175,6 +196,13 @@ cettāruḷ vaikkappaṭum.
 He lives who knows befitting act  
 Others are deemed as dead in fact.        214  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २१४</summary>
+
+214
+ज्ञाता शिष्टाचार का, है मनुष्य सप्राण ॥
+मृत लोगों में अन्य की, गिनती होती जान ॥
+  </details>
 
 <details><summary>मूलम् - २१४</summary>
 
@@ -223,6 +251,13 @@ The wealth that wise and kind do make
 Is like water that fills a lake.        215  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २१५</summary>
+
+215
+पानी भरा तड़ाग ज्यों, आवे जग का काम ।  
+महा सुधी की संपदा, है जन-मन-सुख धाम ॥
+  </details>
+
 <details><summary>मूलम् - २१५</summary>
 
 ऊरुणि नीर्निऱैन् दट्रे उलगवाम्  
@@ -264,6 +299,13 @@ nayaṉ uṭaiyāṉkaṇ paṭiṉ.
 Who plenty gets and plenty gives  
 Is like town-tree teeming with fruits.        216  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २१६</summary>
+
+216
+शिष्ट जनों के पास यदि, आश्रित हो संपत्ति ।  
+ग्राम-मध्य ज्यों वृक्षवर, पावे फल-संपत्ति ॥
+  </details>
 
 <details><summary>मूलम् - २१६</summary>
 
@@ -307,6 +349,13 @@ The wealth of a wide-hearted soul
 Is a herbal tree that healeth all.        217  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २१७</summary>
+
+217
+चूके बिन ज्यों वृक्ष का, दवा बने हर अंग ।  
+त्यों धन हो यदि वह रहे, उपकारी के संग ॥
+  </details>
+
 <details><summary>मूलम् - २१७</summary>
 
 मरुन्दागित् तप्पा मरत्तट्राल् सॆल्वम्  
@@ -348,6 +397,13 @@ kaṭaṉ aṟi kāṭciyavar.
 Though seers may fall on evil days  
 Their sense of duty never strays.        218  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २१८</summary>
+
+218
+सामाजिक कर्तव्य का, जिन सज्जन को ज्ञान ।  
+उपकृति से नहिं चूकते, दारिदवश भी जान ॥
+  </details>
 
 <details><summary>मूलम् - २१८</summary>
 
@@ -395,6 +451,13 @@ ceyyātu amaikalā āṟu.
 The good man's poverty and grief  
 Is want of means to give relief.        219  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २१९</summary>
+
+219
+उपकारी को है नहीं, दरिद्रता की सोच ।  
+‘मैं कृतकृत्य नहीं हुआ’ उसे यही संकोच ॥
+  </details>
 
 <details><summary>मूलम् - २१९</summary>
 
@@ -446,6 +509,13 @@ viṟṟuk kōḷ takkatu uṭaittu.
 By good if ruin comes across  
 Sell yourself to save that loss.        220  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २२०</summary>
+
+220
+लोकोपकारिता किये, यदि होगा ही नाश ।  
+अपने को भी बेच कर, क्रय-लायक वह नाश ॥
+  </details>
 
 <details><summary>मूलम् - २२०</summary>
 

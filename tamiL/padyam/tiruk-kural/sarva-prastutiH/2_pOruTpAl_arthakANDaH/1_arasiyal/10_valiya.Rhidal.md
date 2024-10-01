@@ -40,6 +40,13 @@ Judge act and might and foeman's strength
 The allies' strength and go at length.        471  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४७१</summary>
+
+471
+निज बल रिपु-बल कार्य-बल, साथी-बल भी जान ।  
+सोच-समझ कर चाहिये, करना कार्य निदान ॥
+  </details>
+
 <details><summary>मूलम् - ४७१</summary>
 
 विनैवलियुम् तन्वलियुम् माट्रान् वलियुम्  
@@ -81,6 +88,13 @@ celvārkkuc cellātatu il.
 Nothing hampers the firm who know  
 What they can and how to go.        472  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४७२</summary>
+
+472
+साध्य कार्य को समझ कर, समझ कार्य हित ज्ञेय ।  
+जम कर धावा जो करे, उसको कुछ न अजेय ॥
+  </details>
 
 <details><summary>मूलम् - ४७२</summary>
 
@@ -124,6 +138,13 @@ Many know not their meagre might
 Their pride breaks up in boastful fight.        473  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४७३</summary>
+
+473
+बोध नहीं निज शक्ति का, वश हो कर उत्साह ।  
+कार्य शुरू कर, बीच में, मिटे कई नरनाह ॥
+  </details>
+
 <details><summary>मूलम् - ४७३</summary>
 
 उडैत्तम् वलियऱियार् ऊक्कत्तिन् ऊक्कि  
@@ -165,6 +186,13 @@ viyantāṉ, viraintu keṭum.
 Who adapts not, outsteps measure  
 And brags himself-his fall is sure.        474  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४७४</summary>
+
+474
+शान्ति-युक्त बरबात बिन, निज बल मान न जान ।  
+अहम्मन्य भी जो रहे, शीघ्र मिटेगा जान ॥
+  </details>
 
 <details><summary>मूलम् - ४७४</summary>
 
@@ -208,6 +236,13 @@ Even the gentle peacock's plume
 Cart's axle breaks by gross volume.        475  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४७५</summary>
+
+475
+मोर-पंख से ही सही, छकड़ा लादा जाय ।  
+यदि लादो वह अत्यधिक, अक्ष भग्न हो जाय ॥
+  </details>
+
 <details><summary>मूलम् - ४७५</summary>
 
 पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्  
@@ -249,6 +284,13 @@ uyirkku iṟuti ākiviṭum.
 Beyond the branches' tip who skips  
 Ends the life as his body rips.        476  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४७६</summary>
+
+476
+चढ़ा उच्चतम डाल पर, फिर भी जोश अनंत ।  
+करके यदि आगे बढ़े, होगा जीवन-अंत ॥
+  </details>
 
 <details><summary>मूलम् - ४७६</summary>
 
@@ -292,6 +334,13 @@ Know the limit; grant with measure
 This way give and guard your treasure.        477  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४७७</summary>
+
+477
+निज धन की मात्रा समझ, करो रीती से दान ।  
+जीने को है क्षेम से, उचित मार्ग वह जान ॥
+  </details>
+
 <details><summary>मूलम् - ४७७</summary>
 
 आट्रिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
@@ -333,6 +382,13 @@ pōku āṟu akalākkaṭai.
 The outflow must not be excess  
 No matter how small income is.        478  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४७८</summary>
+
+478
+तंग रहा तो कुछ नहीं, धन आने का मार्ग ।  
+यदि विस्तृत भी ना रहा, धन जाने का मार्ग ॥
+  </details>
 
 <details><summary>मूलम् - ४७८</summary>
 
@@ -381,6 +437,13 @@ Who does not know to live in bounds
 His life seems rich but thins and ends.        479  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४७९</summary>
+
+479
+निज धन की सीमा समझ, यदि न किया निर्वाह ।  
+जीवन समृद्ध भासता, हो जायगा तबाह ॥
+  </details>
+
 <details><summary>मूलम् - ४७९</summary>
 
 अळवऱ஧न्दु वाऴादान् वाऴ्क्कै उळबोल  
@@ -427,6 +490,13 @@ vaḷa varai vallaik keṭum.
 Wealth amassed quickly vanishes  
 Sans level if one lavishes.        480  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४८०</summary>
+
+480
+लोकोपकारिता हुई, धन-सीमा नहिं जान ।  
+तो सीमा संपत्ति की, शीघ्र मिटेगी जान ॥
+  </details>
 
 <details><summary>मूलम् - ४८०</summary>
 

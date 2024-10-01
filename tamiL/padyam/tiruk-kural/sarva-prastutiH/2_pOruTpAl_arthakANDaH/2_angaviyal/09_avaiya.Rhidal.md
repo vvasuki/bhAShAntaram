@@ -41,6 +41,13 @@ The pure in thought and eloquence
 Adapt their words to audience.        711  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७११</summary>
+
+711
+शब्द-शक्ति के ज्ञानयुत, जो हैं पावन लोग ।  
+समझ सभा को, सोच कर, करना शब्द-प्रयोग ॥
+  </details>
+
 <details><summary>मूलम् - ७११</summary>
 
 अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिन्  
@@ -88,6 +95,13 @@ Who know the art of speech shall suit
 Their chosen words to time in fact.        712  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७१२</summary>
+
+712
+शब्दों की शैली समझ, जिनको है अधिकार ।  
+सभासदों का देख रुख़, बोलें स्पष्ट प्रकार ॥
+  </details>
+
 <details><summary>मूलम् - ७१२</summary>
 
 इडैदॆरिन्दु नन्गुणर्न्दु सॊल्लुग सॊल्लिन्  
@@ -129,6 +143,13 @@ vakai aṟiyār; vallatūum il.
 They speak in vain at length who talk  
 Words unversed which ears don't take.        713  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७१३</summary>
+
+713
+उद्यत हो जो बोलने, सभा-प्रकृति से अज्ञ ।  
+भाषण में असमर्थ वे, शब्द-रीति से अज्ञ ॥
+  </details>
 
 <details><summary>मूलम् - ७१३</summary>
 
@@ -177,6 +198,13 @@ Before the bright be brilliant light
 Before the muff be mortar white.        714  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७१४</summary>
+
+714
+प्राज्ञों के सम्मुख रहो, तुम भी प्राज्ञ सुजान ।  
+मूर्खों के सम्मुख बनो, चून सफेद समान ॥
+  </details>
+
 <details><summary>मूलम् - ७१४</summary>
 
 ऒळियार्मुन् ऒळ्ळिय रादल् वॆळियार्मुन्  
@@ -218,6 +246,13 @@ muntu kiḷavāc ceṟivu.
 Modest restraint all good excels  
 Which argues not before elders.        715  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७१५</summary>
+
+715
+भले गुणों में है भला, ज्ञानी गुरुजन मध्य ।  
+आगे बढ़ बोलें नहीं, ऐसा संयम पथ्य ॥
+  </details>
 
 <details><summary>मूलम् - ७१५</summary>
 
@@ -266,6 +301,13 @@ Tongue-slip before the talented wise
 Is like slipping from righteous ways.        716  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७१६</summary>
+
+716
+विद्वानों के सामने, जिनका विस्तृत ज्ञान ।  
+जो पा गया कलंक, वह, योग-भ्रष्ट समान ॥
+  </details>
+
 <details><summary>मूलम् - ७१६</summary>
 
 आट्रिन् निलैदळर्न् दट्रे वियन्बुलम्  
@@ -307,6 +349,13 @@ col terital vallār akattu.
 The learning of the learned shines  
 Valued by flawless scholar-minds.        717  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७१७</summary>
+
+717
+निपुण पारखी शब्द के, जो हैं, उनके पास ।  
+विद्वत्ता शास्त्रज्ञ की, पाती खूब प्रकाश ॥
+  </details>
 
 <details><summary>मूलम् - ७१७</summary>
 
@@ -350,6 +399,13 @@ To address understanding ones
 Is to water beds of growing grains.        718  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७१८</summary>
+
+718
+बुद्धिमान के सामने, जो बोलता सुजान ।  
+क्यारी बढ़ती फसल की, यथा सींचना जान ॥
+  </details>
+
 <details><summary>मूलम् - ७१८</summary>
 
 उणर्व तुडैयार्मुन् सॊल्लल् वळर्वदन्  
@@ -392,6 +448,13 @@ O ye who speak before the keen
 Forgetful, address not the mean.        719  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७१९</summary>
+
+719
+सज्जन-मण्डल में करें, जो प्रभावकर बात ।  
+मूर्ख-सभा में भूल भी, करें न कोई बात ॥
+  </details>
+
 <details><summary>मूलम् - ७१९</summary>
 
 पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्क नल्लवैयुळ्  
@@ -433,6 +496,13 @@ allārmuṉ kōṭṭi koḷal!.
 To hostiles who wise words utters  
 Pours ambrosia into gutters.        720  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७२०</summary>
+
+720
+यथा उँडेला अमृत है, आंगन में अपवित्र ।  
+भाषण देना है वहाँ, जहाँ न गण हैं मित्र ॥
+  </details>
 
 <details><summary>मूलम् - ७२०</summary>
 

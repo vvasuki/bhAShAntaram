@@ -40,6 +40,13 @@ That error entails ignoble birth
 Which deems vain things as things of worth.        351  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३५१</summary>
+
+351
+मिथ्या में जब सत्य का, होता भ्रम से भान ।  
+देता है भव-दुःख को, भ्रममूलक वह ज्ञान ।  
+  </details>
+
 <details><summary>मूलम् - ३५१</summary>
 
 पॊरुळल्ल वट्रैप् पॊरुळॆण्ड्रु उणरुम्  
@@ -81,6 +88,13 @@ mācu aṟu kāṭciyavarkku.
 Men of spotless pure insight  
 Enjoy delight devoid of night.        352  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३५२</summary>
+
+352
+मोह-मुक्त हो पा गये, निर्मल तत्वज्ञान ।  
+भव-तम को वह दूर कर, दे आनन्द महान ॥
+  </details>
 
 <details><summary>मूलम् - ३५२</summary>
 
@@ -124,6 +138,13 @@ To doubtless minds whose heart is clear
 More than earth heaven is near.        353  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३५३</summary>
+
+353
+जिसने संशय-मुक्त हो, पाया ज्ञान-प्रदीप ।  
+उसको पृथ्वी से अधिक, रहता मोक्ष समीप ॥
+  </details>
+
 <details><summary>मूलम् - ३५३</summary>
 
 ऐयत्तिन् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिन्  
@@ -165,6 +186,13 @@ mey uṇarvu illātavarkku.
 Knowledge of five senses is vain  
 Without knowing the Truth within.        354  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३५४</summary>
+
+354
+वशीभूत मन हो गया, हुई धारणा सिद्ध ।  
+फिर भी तत्वज्ञान बिन, फल होगा नहिं सिद्ध ॥
+  </details>
 
 <details><summary>मूलम् - ३५४</summary>
 
@@ -213,6 +241,13 @@ Knowledge is Truth of things to find
 In every case of every kind.        355  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३५५</summary>
+
+355
+किसी तरह भी क्यों नहीं, भासे अमुक पदार्थ ।  
+तथ्य-बोध उस वस्तु का, जानो ज्ञान पथार्थ ॥
+  </details>
+
 <details><summary>मूलम् - ३५५</summary>
 
 ऎप्पॊरुळ् ऎत्तन्मैत् तायिनुम् अप्पॊरुळ्  
@@ -254,6 +289,13 @@ maṟṟu īṇṭu vārā neṟi.
 Who learn and here the Truth discern  
 Enter the path of non-return.        356  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३५६</summary>
+
+356
+जिसने पाया श्रवण से, यहीं तत्व का ज्ञान ।  
+मोक्ष-मार्ग में अग्रसर, होता वह धीमान ॥
+  </details>
 
 <details><summary>मूलम् - ३५६</summary>
 
@@ -297,6 +339,13 @@ One-minded sage sees inner-truth
 He is free from thoughts of rebirth.        357  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३५७</summary>
+
+357
+उपदेशों को मनन कर, सत्य-बोध हो जाय ।  
+पुनर्जन्म की तो उन्हें, चिन्ता नहिं रह जाय ॥
+  </details>
+
 <details><summary>मूलम् - ३५७</summary>
 
 ओर्त्तुळ्ळम् उळ्ळदु उणरान् ऒरुदलैयाप्  
@@ -338,6 +387,13 @@ cemporuḷ kāṇpatu aṟivu.
 It is knowledge to know Self-Truth  
 And remove the folly of birth.        358  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३५८</summary>
+
+358
+जन्म-मूल अज्ञान है, उसके निवारणार्थ ।  
+मोक्ष-मूल परमार्थ का, दर्शन ज्ञान पथार्थ ॥
+  </details>
 
 <details><summary>मूलम् - ३५८</summary>
 
@@ -385,6 +441,13 @@ cārtarā, cārtarum nōy.
 Know the Refuge; off with bondage  
 Be free from ills of thraldom, O sage.        359  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३५९</summary>
+
+359
+जगदाश्रय को समझ यदि, बनो स्वयं निर्लिप्त ।  
+नाशक भावी दुःख सब, करें कभी नहिं लिप्त ॥
+  </details>
 
 <details><summary>मूलम् - ३५९</summary>
 
@@ -436,6 +499,13 @@ nāmam keṭa, keṭum nōy.
 Woes expire when lust, wrath, folly  
 Expire even to name, fully.        360  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३६०</summary>
+
+360
+काम क्रोध औ’ मोह का न हो नाम का योग ।  
+तीनों के मिटते, मिटे, कर्म-फलों का रोग ॥
+  </details>
 
 <details><summary>मूलम् - ३६०</summary>
 

@@ -41,6 +41,13 @@ A heart of courage lives in light
 Devoid of that one's life is night.        971  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७१</summary>
+
+971
+मानव को विख्याति दे, रहना सहित उमंग ।  
+‘जीयेंगे उसके बिना’, है यों कथन कलक ॥
+  </details>
+
 <details><summary>मूलम् - ९७१</summary>
 
 ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु  
@@ -82,6 +89,13 @@ ceytoḻil vēṟṟumai yāṉ.
 All beings are the same in birth  
 But work decides their varied worth.        972  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९७२</summary>
+
+972
+सभी मनुज हैं जन्म से, होते एक समान ।  
+गुण-विशेष फिर सम नहीं, कर्म-भेद से जान ॥
+  </details>
 
 <details><summary>मूलम् - ९७२</summary>
 
@@ -125,6 +139,13 @@ Ignoble high not high they are
 The noble low not low they fare.        973  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७३</summary>
+
+973
+छोटे नहिं होते बड़े, यद्यपि स्थिति है उच्च ।  
+निचली स्थिति में भी बड़े, होते हैं नहिं तुच्छ ॥
+  </details>
+
 <details><summary>मूलम् - ९७३</summary>
 
 मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्  
@@ -167,6 +188,13 @@ Greatness like woman's chastity
 Is guarded by self-varacity.        974  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७४</summary>
+
+974
+एक निष्ठ रहती हुई, नारी सती समान ।  
+आत्म-संयमी जो रहा, उसका हो बहुमान ॥
+  </details>
+
 <details><summary>मूलम् - ९७४</summary>
 
 ऒरुमै मगळिरे पोलप् पॆरुमैयुम्  
@@ -208,6 +236,13 @@ arumai uṭaiya ceyal.
 Great souls when their will is active  
 Do mighty deeds rare to achieve.        975  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९७५</summary>
+
+975
+जो जन महानुभव हैं, उनको है यह साध्य ।  
+कर चुकना है रीति से, जो हैं कार्य असाध्य ॥
+  </details>
 
 <details><summary>मूलम् - ९७५</summary>
 
@@ -256,6 +291,13 @@ The petty-natured ones have not
 The mind to seek and befriend the great.        976  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७६</summary>
+
+976
+छोटों के मन में नहीं, होता यों सुविचार ।  
+पावें गुण नर श्रेष्ठ का, कर उनका सत्कार ॥
+  </details>
+
 <details><summary>मूलम् - ९७६</summary>
 
 सिऱियार् उणर्च्चियुळ् इल्लै पॆरियारैप्  
@@ -297,6 +339,13 @@ cīral lavarkaṇ paṭiṉ.
 The base with power and opulence  
 Wax with deeds of insolence.        977  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९७७</summary>
+
+977
+लगती है संपन्नता, जब ओछों के हाथ ।  
+तब भी अत्याचार ही, करे गर्व के साथ ॥
+  </details>
 
 <details><summary>मूलम् - ९७७</summary>
 
@@ -340,6 +389,13 @@ Greatness bends with modesty
 Meanness vaunts with vanity        978  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७८</summary>
+
+978
+है तो महानुभावता, विनयशील सब पर्व ।  
+अहम्मन्य हो तुच्छता, करती है अति गर्व ॥
+  </details>
+
 <details><summary>मूलम् - ९७८</summary>
 
 पणियुमाम् ऎण्ड्रुम् पॆरुमै सिऱुमै  
@@ -382,6 +438,13 @@ Greatness is free from insolence
 Littleness swells with that offence.        979  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७९</summary>
+
+979
+अहम्मन्यता-हीनता, है महानता बान ।  
+अहम्मन्यता-सींव ही, ओछापन है जान ॥
+  </details>
+
 <details><summary>मूलम् - ९७९</summary>
 
 पॆरुमै पॆरुमिदम् इन्मै सिऱुमै  
@@ -423,6 +486,13 @@ kuṟṟamē kūṟi viṭum.
 Weakness of others greatness screens  
 Smallness defects alone proclaims.        980  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९८०</summary>
+
+980
+दोषों को देना छिपा, है महानता-भाव ।  
+दोषों की ही घोषणा, है तुच्छत- स्वभाव ॥
+  </details>
 
 <details><summary>मूलम् - ९८०</summary>
 

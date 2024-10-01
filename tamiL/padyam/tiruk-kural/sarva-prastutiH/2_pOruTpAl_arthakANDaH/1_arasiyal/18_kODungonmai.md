@@ -40,6 +40,13 @@ The unjust tyrant oppressor
 Is worse than cruel murderer.        551  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५५१</summary>
+
+551
+हत्यारे से भी अधिक, वह राजा है क्रूर ।  
+जो जन को हैरान कर, करे पाप भरपूर ॥
+  </details>
+
 <details><summary>मूलम् - ५५१</summary>
 
 कॊलैमेऱ्कॊण् डारिऱ्कॊडिदे अलैमेऱ्कॊण्डु  
@@ -81,6 +88,13 @@ kōloṭu niṉṟāṉ iravu.
 Sceptered tyrant exacting gold  
 Is "give" of lanced robber bold.        552  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५५२</summary>
+
+552
+भाला ले कर हो खड़े, डाकू की ज्यों माँग ।  
+राजदण्डयुत की रही, त्यों भिक्षा की माँग ॥
+  </details>
 
 <details><summary>मूलम् - ५५२</summary>
 
@@ -124,6 +138,13 @@ Spy wrongs daily and do justice
 Or day by day the realm decays.        553  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५५३</summary>
+
+553
+दिन दिन नीति विचार कर, नृप न करे यदि राज ।  
+ह्रासोन्मुख होता रहे, दिन दिन उसका राज ॥
+  </details>
+
 <details><summary>मूलम् - ५५३</summary>
 
 नाडॊऱुम् नाडि मुऱैसॆय्या मन्नवन्  
@@ -165,6 +186,13 @@ cūḻātu, ceyyum aracu.
 The king shall wealth and subjects lose  
 If his sceptre he dares abuse.        554  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५५४</summary>
+
+554
+नीतिहीन शासन करे, बिन सोचे नरनाथ ।  
+तो वह प्रजा व वित्त को, खो बैठे इक साथ ॥
+  </details>
 
 <details><summary>मूलम् - ५५४</summary>
 
@@ -213,6 +241,13 @@ Groaning tears caused by tyrant's sway
 File the royal wealth away.        555  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५५५</summary>
+
+555
+उतपीड़ित जन रो पड़े, जब वेदना अपार ।  
+श्री का नाशक शास्त्र है, क्या न नेत्र-जल-धार ॥
+  </details>
+
 <details><summary>मूलम् - ५५५</summary>
 
 अल्लऱ्पट्टु आट्रादु अऴुदगण् णीरण्ड्रे  
@@ -254,6 +289,13 @@ maṉṉāvām, maṉṉarkku oḷi.
 Glory endures by sceptre right  
 Without it wanes the royal light.        556  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५५६</summary>
+
+556
+नीतिपूर्ण शासन रखे, नृप का वश चिरकाल ।  
+नीति न हो तो, भूप का, यश न रहे सब काल ॥
+  </details>
 
 <details><summary>मूलम् - ५५६</summary>
 
@@ -302,6 +344,13 @@ Dry like the earth without rainfall
 Is graceless king to creatures all.        557  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५५७</summary>
+
+557
+अनावृष्टि से दुःख जो, पाती भूमि अतीव ।  
+दयावृष्टि बिन भूप की, पाते हैं सब जिव ॥
+  </details>
+
 <details><summary>मूलम् - ५५७</summary>
 
 तुळियिन्मै ञालत्तिऱ्कु ऎट्रट्रे वेन्दन्  
@@ -344,6 +393,13 @@ To have is worse than having not
 If ruler is unjust despot.        558  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५५८</summary>
+
+558
+अति दुःखद है सधनता, रहने से धनहीन ।  
+यदि अन्यायी राज के, रहना पड़े अधीन ॥
+  </details>
+
 <details><summary>मूलम् - ५५८</summary>
 
 इन्मैयिन् इन्नादु उडैमै मुऱैसॆय्या  
@@ -385,6 +441,13 @@ ollātu, vāṉam peyal.
 The sky withdraws season's shower  
 If the king misuses his power.        559  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५५९</summary>
+
+559
+यदि राजा शासन करे, राजधर्म से चूक ।  
+पानी बरसेगा नहीं, ऋतु में बादल चूक ॥
+  </details>
 
 <details><summary>मूलम् - ५५९</summary>
 
@@ -432,6 +495,13 @@ kāvalaṉ kāvāṉ eṉiṉ.
 The *six-functioned forget their lore  
 Cows give less if kings guard no more.         560  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५६०</summary>
+
+560
+षटकर्मी को स्मृति नहीं, दूध न देगी गाय ।  
+यदि जन-रक्षक भूप से, रक्षा की नहिं जाय ॥
+  </details>
 
 <details><summary>मूलम् - ५६०</summary>
 

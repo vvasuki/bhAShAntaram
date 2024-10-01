@@ -40,6 +40,13 @@ You see, his heart is his alone;
 Why not my heart be all my own?        1291  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२९१</summary>
+
+1291
+उनका दिल उनका रहा, देते उनका साथ ।  
+उसे देख भी, हृदय तू, क्यों नहिं मेरे साथ ॥
+  </details>
+
 <details><summary>मूलम् - १२९१</summary>
 
 अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवन्नॆञ्जे  
@@ -82,6 +89,13 @@ O heart, you see how he slights me
 Yet you clasp him as if friendly.        1292  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२९२</summary>
+
+1292
+प्रिय को निर्मम देख भी, ‘वे नहिं हो नाराज़’ ।  
+यों विचार कर तू चला, रे दिल, उनके पास ॥
+  </details>
+
 <details><summary>मूलम् - १२९२</summary>
 
 उऱाअ तवर्क्कण्ड कण्णुम् अवरैच्  
@@ -123,6 +137,13 @@ peṭṭāṅku avarpiṉ celal.
 You follow him at will. Is it  
 "The fallen have no friends" my heart?        1293  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२९३</summary>
+
+1293
+रे दिल, जो हैं कष्ट में, उनके हैं नहिं इष्ट ।  
+सो क्या उनका पिछलगा, बना यथा निज इष्ट ॥
+  </details>
 
 <details><summary>मूलम् - १२९३</summary>
 
@@ -171,6 +192,13 @@ You won't sulk first and then submit
 Who will then consult you, my heart?        1294  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२९४</summary>
+
+1294
+रे दिल तू तो रूठ कर, बाद न ले सुख-स्वाद ।  
+तुझसे कौन करे अभी, तत्सम्बन्धी बात ॥
+  </details>
+
 <details><summary>मूलम् - १२९४</summary>
 
 इनिअन्न निन्नॊडु सूऴ्वार्यार् नॆञ्जे  
@@ -218,6 +246,13 @@ Frets to gain and fears loss in gain
 O my heart suffers ceaseless pain.        1295  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२९५</summary>
+
+1295
+न मिल तो भय, या मिले, तो भेतव्य वियोग ।  
+मेरा दिल है चिर दुखी, वियोग या संयोग ॥
+  </details>
+
 <details><summary>मूलम् - १२९५</summary>
 
 पॆऱाअमै अञ्जुम् पॆऱिन्बिरिवु अञ्जुम्  
@@ -259,6 +294,13 @@ tiṉiya iruntatueṉ neñcu.
 My itching mind eats me anon  
 As I muse on him all alone.        1296  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२९६</summary>
+
+1296
+विरह दशा में अलग रह, जब करती थी याद ।  
+मानों मेरा दिल मुझे, खाता था रह साथ ॥
+  </details>
 
 <details><summary>मूलम् - १२९६</summary>
 
@@ -302,6 +344,13 @@ forget shame but not his thought
 In mean foolish mind I'm caught.        1297  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२९७</summary>
+
+1297
+मूढ हृदय बहुमति रहित, नहीं भूलता नाथ ।  
+मैं भूली निज लाज भी, पड़ कर इसके साथ ॥
+  </details>
+
 <details><summary>मूलम् - १२९७</summary>
 
 नाणुम् मऱन्देन् अवर्मऱक् कल्लाऎन्  
@@ -343,6 +392,13 @@ uḷḷum uyirkkātal neñcu.
 My heart living in love of him  
 Hails his glory ignoring blame.        1298  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२९८</summary>
+
+1298
+नाथ-उपेक्षा निंद्य है, यों करके सुविचार ।  
+करता उनका गुण-स्मरण, यह दिल जीवन-प्यार ॥
+  </details>
 
 <details><summary>मूलम् - १२९८</summary>
 
@@ -386,6 +442,13 @@ Who support a man in grief
 If lover's heart denies relief?        1299  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२९९</summary>
+
+1299
+संकट होने पर मदद, कौन करेगा हाय ।  
+जब कि निजी दिल आपना, करता नहीं सहाय ॥
+  </details>
+
 <details><summary>मूलम् - १२९९</summary>
 
 तुन्बत्तिऱ्कु यारे तुणैयावार् तामुडैय  
@@ -427,6 +490,13 @@ neñcam tamaral vaḻi. tiṟaṉ kāṭṭuka
 Why wonder if strangers disown  
 When one's own heart is not his own?        1300  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १३००</summary>
+
+1300
+बन्धु बनें नहिं अन्य जन, है यह सहज, विचार ।  
+जब अपना दिल ही नहीं, बनता नातेदार ॥
+  </details>
 
 <details><summary>मूलम् - १३००</summary>
 

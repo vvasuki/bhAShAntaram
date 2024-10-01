@@ -40,6 +40,13 @@ The words of Seers are lovely sweet
 Merciful and free from deceit.         91  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९१</summary>
+
+91
+जो मूँह से तत्वज्ञ के, हो कर निर्गत शब्द ।  
+प्रेम-सिक्त निष्कपट हैं, मधुर वचन वे शब्द ॥
+  </details>
+
 <details><summary>मूलम् - ९१</summary>
 
 इन्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
@@ -81,6 +88,13 @@ iṉcolaṉ ākappeṟiṉ.
 Sweet words from smiling lips dispense  
 More joys than heart's beneficence.         92  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९२</summary>
+
+92
+मन प्रसन्न हो कर सही, करने से भी दान ।  
+मुख प्रसन्न भाषी मधुर, होना उत्तम मान ॥
+  </details>
 
 <details><summary>मूलम् - ९२</summary>
 
@@ -129,6 +143,13 @@ Calm face, sweet look, kind words from heart
 Such is the gracious virtue's part.         93  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९३</summary>
+
+93
+ले कर मुख में सौम्यता, देखा भर प्रिय भाव ।  
+बिला हृद्‍गत मृदु वचन, यही धर्म का भाव ॥
+  </details>
+
 <details><summary>मूलम् - ९३</summary>
 
 मुगत्तान् अमर्न् दुइनिदु नोक्कि अगत्तानाम्  
@@ -170,6 +191,13 @@ iṉpuṟūum iṉcolavarkku.
 Whose loving words delight each one  
 The woe of want from them is gone.         94  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९४</summary>
+
+94
+दुख-वर्धक दारिद्र्य भी, छोड़ जायगा साथ ।  
+सुख-वर्धक प्रिय वचन यदि, बोले सब के साथ ॥
+  </details>
 
 <details><summary>मूलम् - ९४</summary>
 
@@ -213,6 +241,13 @@ To be humble and sweet words speak
 No other jewel do wise men seek.         95  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९५</summary>
+
+95
+मृदुभाषी होना तथा, नम्र-भाव से युक्त ।  
+सच्चे भूषण मनुज के, अन्य नहीं है उक्त ॥
+  </details>
+
 <details><summary>मूलम् - ९५</summary>
 
 पणिवुडैयन् इन्सॊलन् आदल् ऒरुवऱ्कु  
@@ -254,6 +289,13 @@ nāṭi, iṉiya coliṉ.
 His sins vanish, his virtues grow  
 Whose fruitful words with sweetness flow.         96  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९६</summary>
+
+96
+होगा ह्रास अधर्म का, सुधर्म का उत्थान ।  
+चुन चुन कर यदि शुभ वचन, कहे मधुरता-सान ॥
+  </details>
 
 <details><summary>मूलम् - ९६</summary>
 
@@ -297,6 +339,13 @@ The fruitful courteous kindly words
 Lead to goodness and graceful deeds.         97  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९७</summary>
+
+97
+मधुर शब्द संस्कारयुत, पर को कर वरदान ।  
+वक्ता को नय-नीति दे, करता पुण्य प्रदान ॥
+  </details>
+
 <details><summary>मूलम् - ९७</summary>
 
 नयन् ईण्ड्रु नण्ड्रि पयक्कुम् पयन्ईण्ड्रु  
@@ -338,6 +387,13 @@ immaiyum, iṉpam tarum.
 Kind words free from meanness delight  
 This life on earth and life the next.         98  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९८</summary>
+
+98
+ओछापन से रहित जो, मीठा वचन प्रयोग ।  
+लोक तथा परलोक में, देता है सुख-भोग ॥
+  </details>
 
 <details><summary>मूलम् - ९८</summary>
 
@@ -385,6 +441,13 @@ vaṉ col vaḻaṅkuvatu?.
 Who sees the sweets of sweetness here  
 To use harsh words how can he dare?         99  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९९</summary>
+
+99
+मधुर वचन का मधुर फल, जो भोगे खुद आप ।  
+कटुक वचन फिर क्यों कहे, जो देता संताप ॥
+  </details>
 
 <details><summary>मूलम् - ९९</summary>
 
@@ -436,6 +499,13 @@ kaṉi iruppa, kāy kavarntaṟṟu.
 Leaving ripe fruits the raw he eats  
 Who speaks harsh words when sweet word suits.         100  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १००</summary>
+
+100
+रहते सुमधुर वचन के, कटु कहने की बान ।  
+यों ही पक्का छोड़ फल, कच्चा ग्रहण समान ॥
+  </details>
 
 <details><summary>मूलम् - १००</summary>
 

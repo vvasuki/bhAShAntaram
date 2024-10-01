@@ -41,6 +41,13 @@ A king should treat these two as eyes
 The code of laws and careful spies.        581  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५८१</summary>
+
+581
+जो अपने चर हैं तथा, नीतिशास्त्र विख्यात ।  
+ये दोनों निज नेत्र हैं, नृप को होना ज्ञात ॥
+  </details>
+
 <details><summary>मूलम् - ५८१</summary>
 
 ऒट्रुम् उरैसाण्ड्र नूलुम् इवैयिरण्डुम्  
@@ -82,6 +89,13 @@ vallaṟital, vēntaṉ toḻil.
 All that happens, always, to all  
 The king should know in full detail.        582  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५८२</summary>
+
+582
+सब पर जो जो घटित हों, सब बातें सब काल ।  
+राजधर्म है जानना, चारों से तत्काल ॥
+  </details>
 
 <details><summary>मूलम् - ५८२</summary>
 
@@ -125,6 +139,13 @@ Conquests are not for the monarch
 Who cares not for the Spy's remark.        583  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५८३</summary>
+
+583
+बात चरों से जानते, आशय का नहिं ज्ञान ।  
+तो उस नृप की विजय का, मार्ग नहीं है आन ॥
+  </details>
+
 <details><summary>मूलम् - ५८३</summary>
 
 ऒट्रिनान् ऒट्रिप् पॊरुळ्दॆरिया मन्नवन्  
@@ -166,6 +187,13 @@ aṉaivaraiyum ārāyvatu-oṟṟu.
 His officers, kinsmen and foes  
 Who watch keenly are worthy spies.        584  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५८४</summary>
+
+584
+राजकर्मचारी, स्वजन, तथा शत्रु जो वाम ।  
+सब के सब को परखना, रहा गुप्तचर-काम ॥
+  </details>
 
 <details><summary>मूलम् - ५८४</summary>
 
@@ -209,6 +237,13 @@ Fearless gaze, suspectless guise
 Guarding secrets mark the spies.        585  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५८५</summary>
+
+585
+रूप देख कर शक न हो, आँख हुई, निर्भीक ।  
+कहीं कहे नहिं मर्म को, सक्षम वह चर ठीक ॥
+  </details>
+
 <details><summary>मूलम् - ५८५</summary>
 
 कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्  
@@ -250,6 +285,13 @@ eṉ ceyiṉum cōrvu ilatu-oṟṟu.
 Guised as monks they gather secrets  
 They betray them not under threats.        586  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५८६</summary>
+
+586
+साधु वेष में घुस चले, पता लगाते मर्म ।  
+फिर कुछ भी हो चुप रहे, यही गुप्तचर-कर्म ॥
+  </details>
 
 <details><summary>मूलम् - ५८६</summary>
 
@@ -293,6 +335,13 @@ A spy draws out other's secrets
 Beyond a doubt he clears his facts.        587  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५८७</summary>
+
+587
+भेद लगाने में चतुर, फिर जो बातें ज्ञात ।  
+उनमें संशयरहित हो, वही भेदिया ख्यात ॥
+  </details>
+
 <details><summary>मूलम् - ५८७</summary>
 
 मऱैन्दवै केट्कवऱ्ऱागि अऱिन्दवै  
@@ -334,6 +383,13 @@ oṟṟiṉāl oṟṟi, koḷal.
 The reports given by one spy  
 By another spy verify.        588  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५८८</summary>
+
+588
+पता लगा कर भेद का, लाया यदि इक चार ।  
+भेद लगा फिर अन्य से, तुलना कर स्वीकार ॥
+  </details>
 
 <details><summary>मूलम् - ५८८</summary>
 
@@ -377,6 +433,13 @@ Engage the spies alone, apart
 When three agree confirm report.        589  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५८९</summary>
+
+589
+चर चर को जाने नहीं, यों कर शासन-कर्म ।  
+सत्य मान, जब तीन चर, कहें एक सा मर्म ॥
+  </details>
+
 <details><summary>मूलम् - ५८९</summary>
 
 ऒट्रॆऱ्ऱुणरामै आळ्ग उडन्मूवर्  
@@ -418,6 +481,13 @@ puṟappaṭuttāṉ ākum, maṟai.
 Give not the spy open reward  
 It would divulge the secret heard!        590  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५९०</summary>
+
+590
+खुले आम जासूस का, करना मत सम्मान ।  
+अगर किया तो भेद को, प्रकट किया खुद जान ॥
+  </details>
 
 <details><summary>मूलम् - ५९०</summary>
 

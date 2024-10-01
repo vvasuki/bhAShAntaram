@@ -41,6 +41,13 @@ Foes fear not who for toddy craze
 The addicts daily their glory lose.        921  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९२१</summary>
+
+921
+जो मधु पर आसक्त हैं, खोते हैं सम्मान ।  
+शत्रु कभी डरते नहीं, उनसे कुछ भय मान ॥
+  </details>
+
 <details><summary>मूलम् - ९२१</summary>
 
 उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाण्ड्रुम्  
@@ -82,6 +89,13 @@ eṇṇap paṭavēṇṭā tār.
 Drink not liquor; but let them drink  
 Whom with esteem the wise won't think.        922  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९२२</summary>
+
+922
+मद्य न पीना, यदि पिये, वही पिये सोत्साह ।  
+साधु जनों के मान की, जिसे नहीं परवाह ॥
+  </details>
 
 <details><summary>मूलम् - ९२२</summary>
 
@@ -125,6 +139,13 @@ The drunkard's joy pains ev'n mother's face
 How vile must it look for the wise?        923  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९२३</summary>
+
+923
+माँ के सम्मुख भी रही, मद-मत्तता खराब ।  
+तो फिर सम्मुख साधु के, कितनी बुरी शराब ॥
+  </details>
+
 <details><summary>मूलम् - ९२३</summary>
 
 ईण्ड्राळ् मुगत्तेयुम् इन्नादाल् ऎन्मट्रुच्  
@@ -166,6 +187,13 @@ pēṇāp peruṅkuṟṟat tārkku.
 Good shame turns back from him ashamed  
 Who is guilty of wine condemned.        924  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९२४</summary>
+
+924
+जग-निंदित अति दोषयुत, जो हैं शराबखोर ।  
+उनसे लज्जा-सुन्दरी, मूँह लेती है मोड़ ॥
+  </details>
 
 <details><summary>मूलम् - ९२४</summary>
 
@@ -209,6 +237,13 @@ To pay and drink and lose the sense
 Is nothing but rank ignorance.        925  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९२५</summary>
+
+925
+विस्मृति अपनी देह की, क्रय करना दे दाम ।  
+यों जाने बिन कर्म-फल, कर देना है काम ॥
+  </details>
+
 <details><summary>मूलम् - ९२५</summary>
 
 कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु  
@@ -250,6 +285,13 @@ nañcuṇpār kaḷḷuṇ pavar.
 They take poison who take toddy  
 And doze ev'n like a dead body.        926  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९२६</summary>
+
+926
+सोते जन तो मृतक से, होते हैं नहिं भिन्न ।  
+विष पीते जन से सदा, मद्यप रहे अभिन्न ॥
+  </details>
 
 <details><summary>मूलम् - ९२६</summary>
 
@@ -293,6 +335,13 @@ The secret drunkards' senses off
 Make the prying public laugh.        927  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९२७</summary>
+
+927
+जो लुक-छिप मधु पान कर, खोते होश-हवास ।  
+भेद जान पुर-जन सदा, करते हैं परिहास ॥
+  </details>
+
 <details><summary>मूलम् - ९२७</summary>
 
 उळ्ळॊट्रि उळ्ळूर् नगप्पडुवर् ऎञ्ञाण्ड्रुम्  
@@ -335,6 +384,13 @@ Don't say "I'm not a drunkard hard"
 The hidden fraud is known abroad.        928  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९२८</summary>
+
+928
+‘मधु पीना जाना नहीं’, तज देना यह घोष ।  
+पीने पर झट हो प्रकट, मन में गोपित दोष ॥
+  </details>
+
 <details><summary>मूलम् - ९२८</summary>
 
 कळित्तऱियेन् ऎन्बदु कैविडुग नॆञ्जत्तु  
@@ -376,6 +432,13 @@ kuḷittāṉait tītturīi aṟṟu.
 Can torch search one in water sunk?  
 Can reason reach the raving drunk?        929  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९२९</summary>
+
+929
+मद्यप का उपदेश से, होना होश-हवास ।  
+दीपक ले जल-मग्न की, करना यथा तलाश ॥
+  </details>
 
 <details><summary>मूलम् - ९२९</summary>
 
@@ -423,6 +486,13 @@ uḷḷāṉkol uṇṭataṉ cōrvu.
 The sober seeing the drunkard's plight  
 On selves can't they feel same effect?        930  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९३०</summary>
+
+930
+बिना पिये रहते समय, मद-मस्त को निहार ।  
+सुस्ती का, पीते स्वयं, करता क्यों न विचार ॥
+  </details>
 
 <details><summary>मूलम् - ९३०</summary>
 

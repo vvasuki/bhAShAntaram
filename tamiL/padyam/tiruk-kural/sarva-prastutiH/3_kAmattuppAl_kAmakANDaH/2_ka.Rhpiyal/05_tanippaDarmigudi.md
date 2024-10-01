@@ -40,6 +40,13 @@ Stoneless fruit of love they have
 Who are beloved by those they love.        1191  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११९१</summary>
+
+1191
+जिससे अपना प्यार है, यदि पाती वह प्यार ।  
+बीज रहित फल प्रेम का, पाती है निर्धार ॥
+  </details>
+
 <details><summary>मूलम् - ११९१</summary>
 
 ताम्वीऴ्वार् तम्वीऴप् पॆट्रवर् पॆट्रारे  
@@ -81,6 +88,13 @@ vīḻvār aḷikkum aḷi.
 The lover - and -beloved's self-givings  
 Are like rains to living beings.        1192  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११९२</summary>
+
+1192
+जीवों का करता जलद, ज्यों जल दे कर क्षेम ।  
+प्राण-पियारे का रहा, प्राण-प्रिया से प्रेम ॥
+  </details>
 
 <details><summary>मूलम् - ११९२</summary>
 
@@ -124,6 +138,13 @@ The pride of living is for those
 Whose love is returned by love so close.        1193  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११९३</summary>
+
+1193
+जिस नारी को प्राप्त है, प्राण-नाथ का प्यार ।  
+‘जीऊँगी’ यों गर्व का, उसको है अधिकार ॥
+  </details>
+
 <details><summary>मूलम् - ११९३</summary>
 
 वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे  
@@ -166,6 +187,13 @@ Whose love is void of love in turn
 Are luckless with all esteems they earn.        1194  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११९४</summary>
+
+1194
+उसकी प्रिया बनी नहीं, जो उसका है प्रेय ।  
+तो बहुमान्या नारि भी, पुण्यवति नहिं ज्ञेय ॥
+  </details>
+
 <details><summary>मूलम् - ११९४</summary>
 
 वीऴप् पडुवार् कॆऴीइयिलर् ताम्वीऴ्वार्  
@@ -207,6 +235,13 @@ tāmkātal koḷḷāk kaṭai.
 What can our lover do us now  
 If he does not requite our love?        1195  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११९५</summary>
+
+1195
+प्यार किया मैंने जिन्हें, यदि खुद किया न प्यार ।  
+तो उनसे क्या हो सके, मेरा कुछ उपकार ॥
+  </details>
 
 <details><summary>मूलम् - ११९५</summary>
 
@@ -255,6 +290,13 @@ One sided pains; love in both souls
 Poises well like shoulder poles.        1196  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११९६</summary>
+
+1196
+प्रेम एक-तरफ़ा रहे, तो है दुखद अपार ।  
+दोय तरफ़ हो तो सुखद, ज्यों डंडी पर भार ॥
+  </details>
+
 <details><summary>मूलम् - ११९६</summary>
 
 ऒरुदलैयान् इन्नादु कामम्गाप् पोल  
@@ -296,6 +338,13 @@ oruvarkaṇ niṉṟoḻuku vāṉ.
 This cupid aims at me alone;  
 Knows he not my pallor and pain?        1197  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११९७</summary>
+
+1197
+जम कर सक्रिय एक में, रहा मदन बेदर्द ।  
+क्या वह समझेगा नहीं, मेरा दुःख व दर्द ॥
+  </details>
 
 <details><summary>मूलम् - ११९७</summary>
 
@@ -339,6 +388,13 @@ None is so firm as she who loves
 Without kind words from whom she dotes.        1198  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११९८</summary>
+
+1198
+प्रियतम से पाये बिना, उसका मधुमय बैन ।  
+जग में जीती स्त्री सदृश, कोई निष्ठुर है न ॥
+  </details>
+
 <details><summary>मूलम् - ११९८</summary>
 
 वीऴ्वारिन् इन्सॊल् पॆऱाअदु उलगत्तु  
@@ -380,6 +436,13 @@ icaiyum iṉiya cevikku.
 The lover accords not my desires  
 And yet his words sweeten my ears.        1199  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११९९</summary>
+
+1199
+प्रेम रहित प्रियतम रहे, यद्यपि है यह ज्ञात ।  
+कर्ण मधुर ही जो मिले, उनकी कोई बात ॥
+  </details>
 
 <details><summary>मूलम् - ११९९</summary>
 
@@ -427,6 +490,13 @@ ceṟāaay vāḻiya neñcu.
 You tell your grief to listless he  
 Bless my heart! rather fill up sea!        1200  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२००</summary>
+
+1200
+प्रेम हीन से कठिन रुज, कहने को तैयार ।  
+रे दिल ! तू चिरजीव रह ! सुखा समुद्र अपार ॥
+  </details>
 
 <details><summary>मूलम् - १२००</summary>
 

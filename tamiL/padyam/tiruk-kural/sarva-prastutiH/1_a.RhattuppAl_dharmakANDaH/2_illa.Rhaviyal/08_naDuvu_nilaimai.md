@@ -45,6 +45,13 @@ Equity is supreme virtue
 It is to give each man his due.         111  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १११</summary>
+
+111
+मध्यस्थता यथेष्ट है, यदि हो यह संस्कार ।  
+शत्रु मित्र औ’ अन्य से, न्यायोचित व्यवहार ॥
+  </details>
+
 <details><summary>मूलम् - १११</summary>
 
 तगुदि ऎनवॊण्ड्रु नण्ड्रे पगुदियाल्  
@@ -86,6 +93,13 @@ eccattiṟku ēmāppu uṭaittu.
 Wealth of the man of equity  
 Grows and lasts to posterity.         112  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११२</summary>
+
+112
+न्यायनिष्ठ की संपदा, बिना हुए क्षयशील ।  
+वंश वंश का वह रहे, अवलंबन स्थितिशील ॥
+  </details>
 
 <details><summary>मूलम् - ११२</summary>
 
@@ -129,6 +143,13 @@ Though profitable, turn away
 From unjust gains without delay.         113  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११३</summary>
+
+113
+तजने से निष्पक्षता, जो धन मिले अनन्त ।  
+भला, भले ही, वह करे तजना उसे तुरन्त ॥
+  </details>
+
 <details><summary>मूलम् - ११३</summary>
 
 नण्ड्रे तरिनुम् नडुविगन्दाम् आक्कत्तै  
@@ -170,6 +191,13 @@ eccattāl kāṇappaṭum.
 The worthy and the unworthy  
 Are seen in their posterity.         114  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११४</summary>
+
+114
+कोई ईमान्दार है, अथवा बेईमान ।  
+उन उनके अवशेष से, होती यह पहचान ॥
+  </details>
 
 <details><summary>मूलम् - ११४</summary>
 
@@ -213,6 +241,13 @@ Loss and gain by cause arise;
 Equal mind adorns the wise.         115  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११५</summary>
+
+115
+संपन्नता विपन्नता, इनका है न अभाव ।  
+सज्जन का भूषण रहा, न्यायनिष्ठता भाव ॥
+  </details>
+
 <details><summary>मूलम् - ११५</summary>
 
 केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्  
@@ -254,6 +289,13 @@ naṭuvu ōrīi, alla ceyiṉ.
 Of perdition let him be sure  
 Who leaves justice to sinful lure.         116  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११६</summary>
+
+116
+सर्वनाश मेरा हुआ, यों जाने निर्धार ।  
+चूक न्याय-पथ यदि हुआ, मन में बुरा विचार ॥
+  </details>
 
 <details><summary>मूलम् - ११६</summary>
 
@@ -297,6 +339,13 @@ The just reduced to poverty
 Is not held down by equity.         117  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७</summary>
+
+117
+न्यायवान धर्मिष्ठ की, निर्धनता अवलोक ।  
+मानेगा नहिं हीनता, बुद्धिमान का लोक ॥
+  </details>
+
 <details><summary>मूलम् - ११७</summary>
 
 कॆडुवाग वैयादु उलगम् नडुवाग  
@@ -339,6 +388,13 @@ Like balance holding equal scales
 A well poised mind is jewel of the wise.         118  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११८</summary>
+
+118
+सम रेखा पर हो तुला, ज्यों तोले सामान ।  
+भूषण महानुभाव का, पक्ष न लेना मान ॥
+  </details>
+
 <details><summary>मूलम् - ११८</summary>
 
 समन्सॆय्दु सीर्दूक्कुङ् गोल्बोल् अमैन्दॊरुबाल्  
@@ -380,6 +436,13 @@ uṭ kōṭṭam iṉmai peṟiṉ.
 Justice is upright, unbending  
 And free from crooked word-twisting.         119  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११९</summary>
+
+119
+कहना सीधा वचन है, मध्यस्थता ज़रूर ।  
+दृढ़ता से यदि हो गयी, चित्त-वक्रता दूर ॥
+  </details>
 
 <details><summary>मूलम् - ११९</summary>
 
@@ -431,6 +494,13 @@ piṟavum tamapōl ceyiṉ.
 A trader's trade prospers fairly  
 When his dealings are neighbourly.         120  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२०</summary>
+
+120
+यदि रखते पर माल को, अपना माल समान ।  
+वणिक करे वाणीज्य तो, वही सही तू जान ॥
+  </details>
 
 <details><summary>मूलम् - १२०</summary>
 

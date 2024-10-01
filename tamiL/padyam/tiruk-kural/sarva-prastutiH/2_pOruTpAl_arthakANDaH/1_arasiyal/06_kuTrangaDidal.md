@@ -37,6 +37,13 @@ Plenty is their prosperity
 Who're free from wrath pride lust petty.        431  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४३१</summary>
+
+431
+काम क्रोध मद दोष से, जो होते हैं मुक्त ।  
+उनकी जो बढ़ती हुई, होती महिमा-युक्त ॥
+  </details>
+
 <details><summary>मूलम् - ४३१</summary>
 
 सॆरुक्कुञ् जिनमुम् सिऱुमैयुम् इल्लार्  
@@ -75,6 +82,13 @@ Are flaws in a king.
 Mean pride, low pleasure, avarice  
 These add blemishes to a prince.        432  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४३२</summary>
+
+432
+हाथ खींचना दान से, रखना मिथ्या मान ।  
+नृप का अति दाक्षिण्य भी, मानो दोष अमान ॥
+  </details>
 
 <details><summary>मूलम् - ४३२</summary>
 
@@ -120,6 +134,13 @@ Though millet-small their faults might seem
 Men fearing disgrace, Palm-tall deem.        433  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४३३</summary>
+
+433
+निन्दा का डर है जोन्हें, तिलभर निज अपराध ।  
+होता तो बस ताड़ सम, मानें उसे अगाध ॥
+  </details>
+
 <details><summary>मूलम् - ४३३</summary>
 
 तिनैत्तुणैयाङ् गुट्रम् वरिनुम् पनैत्तुणैयाक्  
@@ -158,6 +179,13 @@ For error is a foe that kills.
 Watch like treasure freedom from fault  
 Our fatal foe is that default.        434  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४३४</summary>
+
+434
+बचकर रहना दोष से, लक्ष्य मान अत्यंत ।  
+परम शत्रु है दोष ही, जो कर देगा अंत ॥
+  </details>
 
 <details><summary>मूलम् - ४३४</summary>
 
@@ -198,6 +226,13 @@ Who fails to guard himself from flaw
 Loses his life like flame-lit straw.        435  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४३५</summary>
+
+435
+दोष उपस्थिति पूर्व ही, किया न जीवन रक्ष ।  
+तो वह मिटता है यथा, भूसा अग्नि समक्ष ॥
+  </details>
+
 <details><summary>मूलम् - ४३५</summary>
 
 वरुमुन्नर्क् कावादान् वाऴ्क्कै ऎरिमुन्नर्  
@@ -236,6 +271,13 @@ Before seeing that of others? *
 What fault can be the king's who cures  
 First his faults, then scans others.        436  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४३६</summary>
+
+436
+दोष-मुक्त कर आपको, बाद पराया दाष ।  
+जो देखे उस भूप में, हो सकता क्या दोष ॥
+  </details>
 
 <details><summary>मूलम् - ४३६</summary>
 
@@ -276,6 +318,13 @@ That miser's wealth shall waste and end
 Who would not for a good cause spend.        437  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४३७</summary>
+
+437
+जो धन में आसक्त है, बिना किये कर्तव्य ।  
+जमता उसके पास जो, व्यर्थ जाय वह द्रव्य ॥
+  </details>
+
 <details><summary>मूलम् - ४३७</summary>
 
 सॆयऱ्पाल सॆय्या तिवऱियान् सॆल्वम्  
@@ -314,6 +363,13 @@ Is one thing that stands out among all sins.
 The gripping greed of miser's heart  
 Is more than fault the worst apart.        438  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४३८</summary>
+
+438
+धनासक्ति जो लोभ है, वह है दोष विशेश |
+अन्तर्गत उनके नहीं, जितने दोष अशेष ॥
+  </details>
 
 <details><summary>मूलम् - ४३८</summary>
 
@@ -354,6 +410,13 @@ Never boast yourself in any mood
 Nor do a deed that does no good.        439  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४३९</summary>
+
+439
+श्रेष्ठ समझ कर आपको, कभी न कर अभिमान ।  
+चाह न हो उस कर्म की, जो न करे कल्याण ॥
+  </details>
+
 <details><summary>मूलम् - ४३९</summary>
 
 वियवऱ्क ऎञ्ञाण्ड्रुम् तन्नै नयवऱ्क  
@@ -392,6 +455,13 @@ To keep the designs of your foes at bay.
 All designs of the foes shall fail  
 If one his wishes guards in veil.        440  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४४०</summary>
+
+440
+भोगेगा यदि गुप्त रख, मनचाहा सब काम ।  
+रिपुओं का षड्‍यंत्र तब, हो जावे बेकाम ॥
+  </details>
 
 <details><summary>मूलम् - ४४०</summary>
 

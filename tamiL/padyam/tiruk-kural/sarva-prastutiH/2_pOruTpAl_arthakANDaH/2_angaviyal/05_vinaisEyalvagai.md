@@ -46,6 +46,13 @@ When counsel takes a resolve strong
 Weak delay of action is wrong.        671  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७१</summary>
+
+671
+निश्चय कर लेना रहा, विचार का परिणाम ।  
+हानि करेगा देर से, रुकना निश्चित काम ॥
+  </details>
+
 <details><summary>मूलम् - ६७१</summary>
 
 सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु  
@@ -87,6 +94,13 @@ tūṅkātu ceyyum viṉai.
 Delay such acts as need delay  
 Delay not acts that need display.        672  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६७२</summary>
+
+672
+जो विलम्ब के योग्य है, करो उसे सविलम्ब ।  
+जो होना अविलम्ब ही, करो उसे अविलम्ब ॥
+  </details>
 
 <details><summary>मूलम् - ६७२</summary>
 
@@ -130,6 +144,13 @@ It's best to act when feasible
 If not see what is possible.        673  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७३</summary>
+
+673
+जहाँ जहाँ वश चल सके, भलाकार्य हो जाय ।  
+वश न चले तो कीजिये, संभव देख उपाय ॥
+  </details>
+
 <details><summary>मूलम् - ६७३</summary>
 
 ङल्लुम्वा यॆल्लाम् विनैनण्ड्रे ऒल्लाक्काल्  
@@ -172,6 +193,13 @@ Work or foe left unfinished
 Flare up like fire unextinguished.        674  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७४</summary>
+
+674
+कर्म-शेष रखना तथा, शत्रु जनों में शेष ।  
+अग्नि-शेष सम ही करें, दोनों हानि विशेष ॥
+  </details>
+
 <details><summary>मूलम् - ६७४</summary>
 
 विनैबगै ऎण्ड्रिरण्डिन् ऎच्चम् निनैयुङ्गाल्  
@@ -213,6 +241,13 @@ iruḷ tīra eṇṇic ceyal!.
 Money and means, time, place and deed  
 Decide these five and then proceed.        675  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६७५</summary>
+
+675
+धन साधन अवसर तथा, स्थान व निश्चित कर्म ।  
+पाँचों पर भ्रम के बिना, विचार कर कर कर्म ॥
+  </details>
 
 <details><summary>मूलम् - ६७५</summary>
 
@@ -261,6 +296,13 @@ Weigh well the end, hindrance, profit
 And then pursue a fitting act.        676  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७६</summary>
+
+676
+साधन में श्रम, विघ्न भी, पूरा हो जब कर्म ।  
+प्राप लाभ कितना बड़ा, देख इन्हें कर कर्म ॥
+  </details>
+
 <details><summary>मूलम् - ६७६</summary>
 
 मुडिवुम् इडैयूऱुम् मुट्रियाङ्गु ऎय्दुम्  
@@ -308,6 +350,13 @@ Know first the secret from experts
 That is the way of fruitful acts.        677  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७७</summary>
+
+677
+विधि है कर्मी को यही, जब करता है कर्म ।  
+उसके अति मर्मज्ञ से, ग्रहण करे वह मर्म ॥
+  </details>
+
 <details><summary>मूलम् - ६७७</summary>
 
 सॆय्विनै सॆय्वान् सॆयन्मुऱै अव्विनै  
@@ -349,6 +398,13 @@ yāṉaiyāl yāṉai yāttaṟṟu.
 Lure a tusker by a tusker  
 Achieve a deed by deed better.        678  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६७८</summary>
+
+678
+एक कर्म करते हुए, और कर्म हो जाय ।  
+मद गज से मद-मत्त गज, जैसे पकड़ा जाय ॥
+  </details>
 
 <details><summary>मूलम् - ६७८</summary>
 
@@ -392,6 +448,13 @@ Than doing good to friends it is
 More urgent to befriend the foes.        679  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७९</summary>
+
+679
+करने से हित कार्य भी, मित्रों के उपयुक्त ।  
+शत्रु जनों को शीघ्र ही, मित्र बनाना युक्त ॥
+  </details>
+
 <details><summary>मूलम् - ६७९</summary>
 
 नट्टार्क्कु नल्ल सॆयलिन् विरैन्ददे  
@@ -433,6 +496,13 @@ koḷvar periyārp paṇintu.
 Small statesmen fearing people's fear  
 Submit to foes superior.        680  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६८०</summary>
+
+680
+भीति समझकर स्वजन की, मंत्री जो कमज़ोर ।  
+संधि करेंगे नमन कर, रिपु यदि है बरज़ोर ॥
+  </details>
 
 <details><summary>मूलम् - ६८०</summary>
 

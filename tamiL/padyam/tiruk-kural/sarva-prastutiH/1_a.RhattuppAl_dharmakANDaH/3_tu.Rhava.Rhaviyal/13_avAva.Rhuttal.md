@@ -40,6 +40,13 @@ Desire to all, always is seed
 From which ceaseless births proceed.        361  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३६१</summary>
+
+361
+सर्व जीव को सर्वदा, तृष्णा-बीज अचूक ।  
+पैदा करता है वही, जन्म-मरण की हूक ॥
+  </details>
+
 <details><summary>मूलम् - ३६१</summary>
 
 अवाऎन्ब ऎल्ला उयिर्क्कुम् ऎञ् ञाण्ड्रुम्  
@@ -81,6 +88,13 @@ vēṇṭāmai vēṇṭa, varum.
 If long thou must, long for non-birth  
 It comes by longing no more for earth.        362  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३६२</summary>
+
+362
+जन्म-नाश की चाह हो, यदि होनी है चाह ।  
+चाह-नाश की चाह से, पूरी हो वह चाह ॥
+  </details>
 
 <details><summary>मूलम् - ३६२</summary>
 
@@ -124,6 +138,13 @@ No such wealth is here and there
 As peerless wealth of non-desire.        363  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३६३</summary>
+
+363
+तृष्णा-त्याग सदृश नहीं, यहाँ श्रेष्ठ धन-धाम ।  
+स्वर्ग-धाम में भी नहीं, उसके सम धन-धाम ॥
+  </details>
+
 <details><summary>मूलम् - ३६३</summary>
 
 वेण्डामै अन्न विऴुच्चॆल्वम् ईण्डिल्लै  
@@ -165,6 +186,13 @@ vā aymai vēṇṭa, varum.
 To nothing crave is purity  
 That is the fruit of verity.        364  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३६४</summary>
+
+364
+चाह गई तो है वही, पवित्रता या मुक्ति ।  
+करो सत्य की चाह तो, होगी चाह-विमुक्ति ॥
+  </details>
 
 <details><summary>मूलम् - ३६४</summary>
 
@@ -208,6 +236,13 @@ The free are those who desire not
 The rest not free in bonds are caught.        365  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३६५</summary>
+
+365
+कहलाते वे मुक्त हैं, जो हैं तृष्णा-मुक्त ।  
+सब प्रकार से, अन्य सब, उतने नहीं विमुक्त ॥
+  </details>
+
 <details><summary>मूलम् - ३६५</summary>
 
 अट्रवर् ऎन्बार् अवाअट्रार् मट्रैयार्  
@@ -249,6 +284,13 @@ vañcippatu ōrum avā.
 Dread desire; Virtue is there  
 To every soul desire is snare!        366  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३६६</summary>
+
+366
+तृष्णा से डरते बचे, है यह धर्म महान ।  
+न तो फँसाये जाल में, पा कर असावधान ॥
+  </details>
 
 <details><summary>मूलम् - ३६६</summary>
 
@@ -292,6 +334,13 @@ Destroy desire; deliverance
 Comes as much as you aspire hence.        367  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३६७</summary>
+
+367
+तृष्णा को यदि कर दिया, पूरा नष्ट समूल ।  
+धर्म-कर्म सब आ मिले, इच्छा के अनुकूल ॥
+  </details>
+
 <details><summary>मूलम् - ३६७</summary>
 
 अवाविनै आट्र अऱुप्पिन् तवाविनै  
@@ -334,6 +383,13 @@ Desire extinct no sorrow-taints
 Grief comes on grief where it pretends.        368  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३६८</summary>
+
+368
+तृष्णा-त्यागी को कभी, होगा ही नहिं दुःख ।  
+तृष्णा के वश यदि पड़े,  होगा दुःख पर दुःख ॥
+  </details>
+
 <details><summary>मूलम् - ३६८</summary>
 
 अवाइल्लार्क् किल्लागुन् दुन्बम् अह्दुण्डेल्  
@@ -375,6 +431,13 @@ tuṉpattuḷ tuṉpam keṭiṉ.
 Desire, the woe of woes destroy  
 Joy of joys here you enjoy.        369  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३६९</summary>
+
+369
+तृष्णा का यदि नाश हो, जो है दुःख कराल ।  
+इस जीवन में भी मनुज, पावे सुख चिरकाल ॥
+  </details>
 
 <details><summary>मूलम् - ३६९</summary>
 
@@ -426,6 +489,13 @@ pērā iyaṟkai tarum.
 Off with desire insatiate  
 You gain the native blissful state.        370  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३७०</summary>
+
+370
+तृष्णा को त्यागो अगर, जिसकी कभी न तुष्टि ।  
+वही दशा दे मुक्ति जो, रही सदा सन्तुष्टि ॥
+  </details>
 
 <details><summary>मूलम् - ३७०</summary>
 

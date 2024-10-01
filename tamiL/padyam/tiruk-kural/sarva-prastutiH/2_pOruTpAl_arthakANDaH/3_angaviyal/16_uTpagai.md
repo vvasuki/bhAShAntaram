@@ -41,6 +41,13 @@ Traitorous kinsmen will make you sad
 As water and shade do harm when bad.        881  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८८१</summary>
+
+881
+छाया, जल भी हैं बुरे, जब करते हैं हानि ।  
+स्वजन-भाव भी हैं बुरे, यदि देते हैं ग्लानि ॥
+  </details>
+
 <details><summary>मूलम् - ८८१</summary>
 
 निऴल्नीरुम् इन्नाद इन्ना तमर्नीरुम्  
@@ -82,6 +89,13 @@ kēḷpōl pakaivar toṭarpu.
 You need not sword-like kinsmen fear  
 Fear foes who feign as kinsmen dear.        882  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८८२</summary>
+
+882
+डरना मत उस शत्रु से, जो है खड्ग समान ।  
+डर उस रिपु के मेल से, जो है मित्र समान ॥
+  </details>
 
 <details><summary>मूलम् - ८८२</summary>
 
@@ -125,6 +139,13 @@ The secret foe in days evil
 Will cut you, beware, like potters' steel.        883  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८८३</summary>
+
+883
+बचना अन्त: शत्रु से, उनके खा कर त्रास ।  
+मिट्टी-छेदक ज्यों करें, थका देख वे नाश ॥
+  </details>
+
 <details><summary>मूलम् - ८८३</summary>
 
 उट्पगै अञ्जित्तऱ्काक्क उलैविडत्तु  
@@ -166,6 +187,13 @@ Myriad miseries manifest among kin. *
 The evil-minded foe within  
 Foments trouble, spoils kinsmen!        884  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८८४</summary>
+
+884
+मन में बिना लगाव के, यदि हो अन्तवैंर ।  
+बन्धु-भेद-कारक कई, करता है वह गैर ॥
+  </details>
 
 <details><summary>मूलम् - ८८४</summary>
 
@@ -209,6 +237,13 @@ A traitor among kinsmen will
 Bring life-endangering evil.        885  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८८५</summary>
+
+885
+यदि होता बन्धुत्व में, कोई अन्तवैंर ।  
+मृत्युजनक जो सो कई, करता है वह गैर ॥
+  </details>
+
 <details><summary>मूलम् - ८८५</summary>
 
 उऱल्मुऱैयान् उट्पगै तोण्ड्रिन् इऱल्मुऱैयान्  
@@ -250,6 +285,13 @@ poṉṟāmai oṉṟal aritu.
 Discord in kings' circle entails  
 Life-destroying deadly evils.        886  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८८६</summary>
+
+886
+आश्रित लोगों से निजी, यदि होता है वैर ।  
+सदा असंभव तो रहा, बचना नाश-बगैर ॥
+  </details>
 
 <details><summary>मूलम् - ८८६</summary>
 
@@ -293,6 +335,13 @@ A house hiding hostiles in core
 Just seems on like the lid in jar.        887  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८८७</summary>
+
+887
+डब्बा-ढक्कन योग सम, रहने पर भी मेल ।  
+गृह में अन्तवैंर हो, तो होगा नहिं मेल ॥
+  </details>
+
 <details><summary>मूलम् - ८८७</summary>
 
 सॆप्पिन् पुणर्च्चिबोल् कूडिनुम् कूडादे  
@@ -334,6 +383,13 @@ uṭpakai uṟṟa kuṭi.
 By secret spite the house wears out  
 Like gold crumbling by file's contact.        888  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८८८</summary>
+
+888
+रेती से घिस कर यथा, लोहा होता क्षीण ।  
+गृह भी अन्तवैंर से, होता है बलहीन ॥
+  </details>
 
 <details><summary>मूलम् - ८८८</summary>
 
@@ -377,6 +433,13 @@ Ruin lurks in enmity
 As slit in sesame though it be.        889  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८८९</summary>
+
+889
+अति छोटा ही क्यों न हो, तिल में यथा दरार ।  
+फिर भी अन्तवैंर तो, है ही विनाशकार ॥
+  </details>
+
 <details><summary>मूलम् - ८८९</summary>
 
 ऎट्पग वन्न सिऱुमैत्ते आयिनुम्  
@@ -418,6 +481,13 @@ pāmpōṭu uṭaṉuṟain taṟṟu.
 Dwell with traitors that hate in heart  
 Is dwelling with snake in selfsame hut.        890  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८९०</summary>
+
+890
+जिनसे मन मिलता नहीं, जीवन उनके संग ।  
+एक झोंपड़ी में यथा, रहना सहित भुजंग ॥
+  </details>
 
 <details><summary>मूलम् - ८९०</summary>
 

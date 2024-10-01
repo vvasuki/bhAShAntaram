@@ -40,6 +40,13 @@ Test and attest impartially
 Consult and act the laws justly.        541  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५४१</summary>
+
+541
+सबसे निर्दाक्षिण्य हो, सोच दोष की रीती ।  
+उचित दण्ड़ निष्पक्ष रह, देना ही है नीति ॥
+  </details>
+
 <details><summary>मूलम् - ५४१</summary>
 
 ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्  
@@ -81,6 +88,13 @@ kōl nōkki vāḻum kuṭi.
 The earth looks up to sky and thrives  
 And mankind to king's rod of justice.        542  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५४२</summary>
+
+542
+जीवित हैं ज्यों जीव सब, ताक मेघ की ओर ।  
+प्रजा ताक कर जी रही, राजदण्ड की ओर ॥
+  </details>
 
 <details><summary>मूलम् - ५४२</summary>
 
@@ -124,6 +138,13 @@ The Sage's scripture and virtue spring
 From the sceptre of a stately king.        543  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५४३</summary>
+
+543
+ब्राहमण-पोषित वेद औ’, उसमें प्रस्तुत धर्म ।  
+इनका स्थिर आधार है, राजदण्ड का धर्म ॥
+  </details>
+
 <details><summary>मूलम् - ५४३</summary>
 
 अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्  
@@ -165,6 +186,13 @@ aṭi taḻīi niṟkum, ulaku.
 The world clings to the ruler's feet  
 Whose sceptre clasps the people's heart.        544  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५४४</summary>
+
+544
+प्रजा-पाल जो हो रहा, ढोता शासन-भार ।  
+पाँव पकड़ उस भूप के, टिकता है संसार ॥
+  </details>
 
 <details><summary>मूलम् - ५४४</summary>
 
@@ -213,6 +241,13 @@ Full rains and yields enrich the land
 Which is ruled by a righteous hand.        545  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५४५</summary>
+
+545
+है जिस नृप के देश में, शासन सुनीतिपूर्ण ।  
+साथ मौसिमी वृष्टि के, रहे उपज भी पूर्ण ॥
+  </details>
+
 <details><summary>मूलम् - ५४५</summary>
 
 इयल्बुळिक् कोलोच्चुम् मन्नवन् नाट्ट  
@@ -254,6 +289,13 @@ kōl; atūum, kōṭātu eṉiṉ.
 Not the spear but the sceptre straight  
 That brings success to monarch's might.        546  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५४६</summary>
+
+546
+रजा को भाला नहीं, जो देता है जीत ।  
+राजदण्ड ही दे विजय, यदि उसमें है सीध ॥
+  </details>
 
 <details><summary>मूलम् - ५४६</summary>
 
@@ -297,6 +339,13 @@ The king protects the entire earth
 And justice protects his royal worth.        547  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५४७</summary>
+
+547
+रक्षा सारे जगत की, करता है नरनाथ ।  
+उसका रक्षक नीति है, यदि वह चले अबाध ॥
+  </details>
+
 <details><summary>मूलम् - ५४७</summary>
 
 इऱैगाक्कुम् वैयगम् ऎल्लाम् अवनै  
@@ -338,6 +387,13 @@ taṇ patattāṉ tāṉē keṭum.
 Hard of access, the unjust king  
 He shall himself his ruin bring.        548  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५४८</summary>
+
+548
+न्याय करे नहिं सोच कर, तथा भेंट भी कष्ट ।  
+ऐसा नृप हो कर पतित, होता खुद ही नष्ट ॥
+  </details>
 
 <details><summary>मूलम् - ५४८</summary>
 
@@ -381,6 +437,13 @@ Save his subjects and chide the wrong
 Is flawless duty of a king.        549  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५४९</summary>
+
+549
+जन-रक्षण कर शत्रु से, करता पालन-कर्म ।  
+दोषी को दे दण्ड तो, दोष न, पर नृप-धर्म ॥
+  </details>
+
 <details><summary>मूलम् - ५४९</summary>
 
 कुडिबुऱङ् गात्तोम्बिक् कुट्रम् कडिदल्  
@@ -422,6 +485,13 @@ kaḷai kaṭṭataṉoṭu nēr.
 Killing killers, the king, behold  
 Weeds removes from cropful field.        550  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५५०</summary>
+
+550
+यथा निराता खेत को, रखने फसल किसान ।  
+मृत्यु-दण्ड नृप का उन्हें, जो हैं दुष्ट महान ॥
+  </details>
 
 <details><summary>मूलम् - ५५०</summary>
 

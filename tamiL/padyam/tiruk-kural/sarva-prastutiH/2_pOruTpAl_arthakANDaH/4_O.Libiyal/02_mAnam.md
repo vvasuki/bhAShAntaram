@@ -43,6 +43,13 @@ Though needed for your life in main,
 From mean degrading acts refrain.        961  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६१</summary>
+
+961
+जीवित रहने के लिये, यद्यपि है अनिवार्य ।  
+फिर भी जो कुल-हानिकर, तज देना वे कार्य ॥
+  </details>
+
 <details><summary>मूलम् - ९६१</summary>
 
 इण्ड्रि अमैयाच् चिऱप्पिन आयिनुम्  
@@ -90,6 +97,13 @@ Who seek honour and manly fame
 Don't do mean deeds even for name.        962  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६२</summary>
+
+962
+जो हैं पाना चाहते, कीर्ति सहित सम्मान ।  
+यश-हित भी करते नहीं, जो कुल-हित अपमान ॥
+  </details>
+
 <details><summary>मूलम् - ९६२</summary>
 
 सीरिनुम् सीरल्ल सॆय्यारे सीरॊडु  
@@ -132,6 +146,13 @@ Be humble in prosperity
 In decline uphold dignity.        963  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६३</summary>
+
+963
+सविनय रहना चाहिये, रहते अति संपन्न ।  
+तन कर रहना चाहिये, रहते बड़ा विपन्न ॥
+  </details>
+
 <details><summary>मूलम् - ९६३</summary>
 
 पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
@@ -173,6 +194,13 @@ nilaiyiṉ iḻintak kaṭai.
 Like hair fallen from head are those  
 Who fall down from their high status.        964  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९६४</summary>
+
+964
+गिरते हैं जब छोड़कर, निज सम्मानित स्थान ।  
+नर बनते हैं यों गिरे, सिर से बाल समान ॥
+  </details>
 
 <details><summary>मूलम् - ९६४</summary>
 
@@ -221,6 +249,13 @@ Even hill-like men will sink to nought
 With abrus-grain-like small default.        965  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६५</summary>
+
+965
+अल्प घुंघची मात्र भी, करते जो दुष्काम ।  
+गिरि सम ऊँचे क्यों न हों, होते हैं बदनाम ॥
+  </details>
+
 <details><summary>मूलम् - ९६५</summary>
 
 कुण्ड्रिन् अनैयारुम् कुण्ड्रुवर् कुण्ड्रुव  
@@ -263,6 +298,13 @@ Why fawn on men that scorn you here
 It yields no fame, heaven's bliss neither.        966  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६६</summary>
+
+966
+न तो कीर्ति की प्राप्ति हो, न हो स्वर्ग भी प्राप्त ।  
+निंदक का अनुचर बना, तो औ’ क्या हो प्राप्त ॥
+  </details>
+
 <details><summary>मूलम् - ९६६</summary>
 
 पुगऴ्इण्ड्राल् पुत्तेळ्नाट्टु उय्यादाल् ऎन्मट्रु  
@@ -304,6 +346,13 @@ keṭṭāṉ eṉappaṭutal nṉṟu.
 Better it is to die forlorn  
 Than live as slaves of those who scorn.        967  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९६७</summary>
+
+967
+निंदक का अनुचर बने, जीवन से भी हेय ।  
+‘ज्यों का त्यों रह मर गया’, कहलाना है श्रेय ॥
+  </details>
 
 <details><summary>मूलम् - ९६७</summary>
 
@@ -352,6 +401,13 @@ Is nursing body nectar sweet
 Even when one's honour is lost?        968  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६८</summary>
+
+968
+नाश काल में मान के, जो कुलीनता-सत्व ।  
+तन-रक्षित-जीवन भला, क्या देगा अमरत्व ॥
+  </details>
+
 <details><summary>मूलम् - ९६८</summary>
 
 मरुन्दोमट्रु ऊन्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
@@ -399,6 +455,13 @@ Honour lost, the noble expire
 Like a yak that loses its hair.        969  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९६९</summary>
+
+969
+बाल कटा तो त्याग दे, चमरी-मृग निज प्राण ।  
+उसके सम नर प्राण दें, रक्षा-हित निज मान ॥
+  </details>
+
 <details><summary>मूलम् - ९६९</summary>
 
 मयिर्नीप्पिन् वाऴाक् कवरिमा अन्नार्  
@@ -440,6 +503,13 @@ oḷitoḻutu ēttum ulaku
 Their light the world adores and hails  
 Who will not live when honour fails.        970  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९७०</summary>
+
+970
+जो मानी जीते नहीं, होने पर अपमान ।  
+उनके यश को पूज कर, लोक करे गुण-गान ॥
+  </details>
 
 <details><summary>मूलम् - ९७०</summary>
 

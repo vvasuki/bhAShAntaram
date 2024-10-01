@@ -45,6 +45,13 @@ Sinners fear not the pride of sin.
 The worthy dread the ill within.        201  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २०१</summary>
+
+201
+पाप-कर्म के मोह से, डरें न पापी लोग ।  
+उससे डरते हैं वही, पुण्य-पुरुष जो लोग ॥
+  </details>
+
 <details><summary>मूलम् - २०१</summary>
 
 तीविनैयार् अञ्जार् विऴुमियार् अञ्जुवर्  
@@ -86,6 +93,13 @@ tīyiṉum añcappaṭum.
 Since evil begets evil dire  
 Fear ye evil more than fire.        202  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २०२</summary>
+
+202
+पाप- कर्म दुखजनक हैं, यह है उनकी रीत ।  
+पावक से भीषण समझ, सो होना भयभीत ॥
+  </details>
 
 <details><summary>मूलम् - २०२</summary>
 
@@ -134,6 +148,13 @@ The wisest of the wise are those
 Who injure not even their foes.        203  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २०३</summary>
+
+203
+श्रेष्ठ बुद्धिमत्ता कहें, करके सुधी विचार ।  
+अपने रिपु का भी कभी, नहिं करना अपकार ॥
+  </details>
+
 <details><summary>मूलम् - २०३</summary>
 
 अऱिविनुळ् ऎल्लान् दलैयॆन्ब तीय  
@@ -175,6 +196,13 @@ aṟam cūḻum, cūḻntavaṉ kēṭu.
 His ruin virtue plots who plans  
 The ruin of another man's.        204  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २०४</summary>
+
+204
+विस्मृति से भी नर नहीं, सोचे पर की हानि ।  
+यदि सोचे तो धर्म भी, सोचे उसकी हानि ॥
+  </details>
 
 <details><summary>मूलम् - २०४</summary>
 
@@ -218,6 +246,13 @@ Who makes poverty plea for ill
 Shall reduce himself poorer still.        205  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २०५</summary>
+
+205
+‘निर्धन हूँ मैं’, यों समझ, करे न कोई पाप ।  
+अगर किया तो फिर मिले, निर्धनता-अभिशाप ॥
+  </details>
+
 <details><summary>मूलम् - २०५</summary>
 
 इलन् ऎण्ड्रु तीयवै सॆय्यऱ्क सॆय्यिन्  
@@ -259,6 +294,13 @@ taṉṉai aṭal vēṇṭātāṉ!.
 From wounding others let him refrain  
 Who would from harm himself remain.        206  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २०६</summary>
+
+206
+दुख से यदि दुष्कर्म के, बचने की है राय ।  
+अन्यों के प्रति दुष्टता, कभी नहीं की जाय ॥
+  </details>
 
 <details><summary>मूलम् - २०६</summary>
 
@@ -302,6 +344,13 @@ Men may escape other foes and live
 But sin its deadly blow will give.        207  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २०७</summary>
+
+207
+अति भयकारी शत्रु से, संभव है बच जाय ।  
+पाप-कर्म की शत्रुता, पीछा किये सताय ॥
+  </details>
+
 <details><summary>मूलम् - २०७</summary>
 
 ऎनैप्पगै युट्रारुम् उय्वर् विनैप्पगै  
@@ -344,6 +393,13 @@ Ruin follows who evil do
 As shadow follows as they go.        208  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २०८</summary>
+
+208
+दुष्ट- कर्म जो भी करे, यों पायेगा नाश ।  
+छोड़े बिन पौरों तले, छाँह करे ज्यों वास ॥
+  </details>
+
 <details><summary>मूलम् - २०८</summary>
 
 तीयवै सॆय्दार् कॆडुदल् निऴल्दन्नै  
@@ -385,6 +441,13 @@ tuṉṉaṟka, tīviṉaip pāl!.
 Let none who loves himself at all  
 Think of evil however small.        209  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २०९</summary>
+
+209
+कोई अपने आपको, यदि करता है प्यार ।  
+करे नहीं अत्यल्प भी, अन्यों का अपचार ॥
+  </details>
 
 <details><summary>मूलम् - २०९</summary>
 
@@ -436,6 +499,13 @@ tīviṉai ceyyāṉ eṉiṉ?.
 He is secure, know ye, from ills  
 Who slips not right path to do evils.        210  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २१०</summary>
+
+210
+नाशरहित उसको समझ, जो तजकर सन्मार्ग ।  
+पाप-कर्म हो नहिं करे, पकड़े नहीं कुमार्ग ॥
+  </details>
 
 <details><summary>मूलम् - २१०</summary>
 

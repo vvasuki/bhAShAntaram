@@ -40,6 +40,13 @@ Worse than wrath in excess is
 Forgetfulness in joy-excess.        531  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५३१</summary>
+
+531
+अमित हर्ष से मस्त हो, रहना असावधान ।  
+अमित क्रोध से भी अधिक, हानि करेगा जान ॥
+  </details>
+
 <details><summary>मूलम् - ५३१</summary>
 
 इऱन्द वॆगुळियिन् तीदे सिऱन्द  
@@ -81,6 +88,13 @@ niccam nirappuk koṉṟāṅku.
 Negligence kills renown just as  
 Ceaseless want wisdom destroys.        532  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५३२</summary>
+
+532
+ज्यों है नित्यदारिद्रता, करती बुद्धि-विनाश ।  
+त्यों है असावधानता, करती कीर्ति-विनाश ॥
+  </details>
 
 <details><summary>मूलम् - ५३२</summary>
 
@@ -124,6 +138,13 @@ Forgetful nature fails of fame
 All schools of thinkers say the same.        533  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५३३</summary>
+
+533
+जो विस्मृत हैं वे नहीं, यश पाने के योग ।  
+जग में यों हैं एकमत, शास्त्रकार सब लोग ॥
+  </details>
+
 <details><summary>मूलम् - ५३३</summary>
 
 पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
@@ -165,6 +186,13 @@ poccāppu uṭaiyārkku naṉku.
 The fearful find no fortress here  
 The forgetful find good never.        534  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५३४</summary>
+
+534
+लाभ नहीं है दुर्ग से, उनको जो भयशील ।  
+वैसे उनको ना भला, जो हैं विस्मृतिशील ॥
+  </details>
 
 <details><summary>मूलम् - ५३४</summary>
 
@@ -208,6 +236,13 @@ Failing foresight the guardless man
 Shall rue his folly later on.        535  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५३५</summary>
+
+535
+पहले से रक्षा न की, रह कर असावधान ।  
+विपदा आने पर रहा, पछताता अज्ञान ॥
+  </details>
+
 <details><summary>मूलम् - ५३५</summary>
 
 मुन्नुऱक् कावादु इऴुक्कियान् तन्बिऴै  
@@ -249,6 +284,13 @@ vāyiṉ, aḵtu oppatu il.
 Forget none; watch with wakeful care  
 Miss none; the gain is sans compare.        536  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५३६</summary>
+
+536
+सब जन से सब काल में, अविस्मरण की बान ।  
+बरती जाय अचूक तो, उसके है न समान ॥
+  </details>
 
 <details><summary>मूलम् - ५३६</summary>
 
@@ -292,6 +334,13 @@ With cautious care pursue a thing
 Impossible there is nothing.        537  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५३७</summary>
+
+537
+रह कर विस्मृति के बिना, सोच-समझ कर कार्य ।  
+यदि करता है तो उसे, कुछ नहिं असाध्य कार्य ॥
+  </details>
+
 <details><summary>मूलम् - ५३७</summary>
 
 अरियऎण्ड्रु आगाद इल्लैबॊच् चावाक्  
@@ -334,6 +383,13 @@ Do what the wise commend as worth
 If not, for seven births no mirth.        538  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५३८</summary>
+
+538
+करना श्रद्धा-भाव से, शास्त्रकार-स्तुत काम ।  
+रहा उपेक्षक, यदि न कर, सात जन्म बेकाम ॥
+  </details>
+
 <details><summary>मूलम् - ५३८</summary>
 
 पुगऴ्न्दवै पोट्रिच् चॆयल्वेण्डुम् सॆय्यादु  
@@ -375,6 +431,13 @@ makiḻcciyiṉ maintuṟum pōḻtu!.
 When joy deludes, their fate recall  
 Whom negligence has made to fall.        539  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५३९</summary>
+
+539
+जब अपने संतोष में, मस्त बनेंगे आप ।  
+गफलत से जो हैं मिटे, उन्हें विचारो आप ॥
+  </details>
 
 <details><summary>मूलम् - ५३९</summary>
 
@@ -422,6 +485,13 @@ uḷḷiyatu uḷḷappeṟiṉ.
 Easy it is a thing to get  
 When the mind on it is set.        540  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५४०</summary>
+
+540
+बना रहेगा यदि सदा, लक्ष्य मात्र का ध्यान ।  
+अपने इच्छित लक्ष्य को, पाना है आसान ॥
+  </details>
 
 <details><summary>मूलम् - ५४०</summary>
 

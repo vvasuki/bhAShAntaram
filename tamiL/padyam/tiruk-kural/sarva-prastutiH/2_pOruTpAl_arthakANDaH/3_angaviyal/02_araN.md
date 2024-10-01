@@ -41,6 +41,13 @@ The fort is vital for offence
 Who fear the foes has its defence.        741  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४१</summary>
+
+741
+आक्रामक को दुर्ग है, साधन महत्वपूर्ण ।  
+शरणार्थी-रक्षक वही, जो रिपु-भय से चूर्ण ॥
+  </details>
+
 <details><summary>मूलम् - ७४१</summary>
 
 आट्रु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्
@@ -88,6 +95,13 @@ A crystal fount, a space a mount
 Thick woods form a fort paramount.        742  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४२</summary>
+
+742
+मणि सम जल, मरु भूमि औ’, जंगल घना पहाड़ ।  
+कहलाता है दुर्ग वह, जब हो इनसे आड़ ॥
+  </details>
+
 <details><summary>मूलम् - ७४२</summary>
 
 मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्
@@ -129,6 +143,13 @@ amaivu araṇ'.eṉṟu uraikkum nūl.
 An ideal fort's so says science:  
 High, broad, strong and hard for access.        743  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७४३</summary>
+
+743
+उँचा, चौड़ा और दृढ़, अगम्य भी अत्यंत ।  
+चारों गुणयुत दुर्ग है, यों कहते हैं ग्रन्थ ॥
+  </details>
 
 <details><summary>मूलम् - ७४३</summary>
 
@@ -172,6 +193,13 @@ Ample in space, easy to hold
 The fort foils enemies bold.        744  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४४</summary>
+
+744
+अति विस्तृत होते हुए, रक्षणीय थल तंग ।  
+दुर्ग वही जो शत्रु का, करता नष्ट उमंग ॥
+  </details>
+
 <details><summary>मूलम् - ७४४</summary>
 
 सिऱुगाप्पिऱ्पेरिडत्त तागि उऱुबगै  
@@ -213,6 +241,13 @@ nilaikku eḷitu ām nīratu-araṇ.
 Impregnable with stores of food  
 Cosy to live-That fort is good.        745  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७४५</summary>
+
+745
+जो रहता दुर्जेय है, रखता यथेष्ट अन्न ।  
+अंतरस्थ टिकते सुलभ, दुर्ग वही संपन्न ॥
+  </details>
 
 <details><summary>मूलम् - ७४५</summary>
 
@@ -256,6 +291,13 @@ A fort is full of stores and arms
 And brave heroes to meet alarms.        746  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४६</summary>
+
+746
+कहलाता है दुर्ग वह, जो रख सभी पदार्थ ।  
+देता संकट काल में, योग्य वीर रक्षार्थ ॥
+  </details>
+
 <details><summary>मूलम् - ७४६</summary>
 
 ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्  
@@ -297,6 +339,13 @@ paṟṟaṟku ariyatu-araṇ.
 Besieging foes a fort withstands  
 Darts and mines of treacherous hands.        747  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७४७</summary>
+
+747
+पिल पड़ कर या घेर कर, या करके छलछिद्र ।  
+जिसको हथिया ना सके, है वह दुर्ग विचित्र ॥
+  </details>
 
 <details><summary>मूलम् - ७४७</summary>
 
@@ -340,6 +389,13 @@ A fort holds itself and defies
 The attacks of encircling foes.        748  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४८</summary>
+
+748
+दुर्ग वही यदि चतुर रिपु, घेरा डालें घोर ।  
+अंतरस्थ डट कर लडें, पावें जय बरज़ोर ॥
+  </details>
+
 <details><summary>मूलम् - ७४८</summary>
 
 मुट्राट्रि मुट्रि यवरैयुम् पट्राट्रिप्  
@@ -382,6 +438,13 @@ A fort it is that fells the foes
 And gains by deeds a name glorious.        749  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७४९</summary>
+
+749
+शत्रु-नाश हो युद्ध में, ऐसे शस्त्र प्रयोग ।  
+करने के साधन जहाँ, है गढ़ वही अमोघ ॥
+  </details>
+
 <details><summary>मूलम् - ७४९</summary>
 
 मुनैमुगत्तु माट्रलर् साय विनैमुगत्तु  
@@ -423,6 +486,13 @@ illārkaṇ illatu-araṇ.
 But a fort however grand  
 Is nil if heroes do not stand.        750  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७५०</summary>
+
+750
+गढ़-रक्षक रण-कार्य में, यदि हैं नहीं समर्थ ।  
+अत्युत्तम गढ़ क्यों न हो, होता है वह व्यर्थ ॥
+  </details>
 
 <details><summary>मूलम् - ७५०</summary>
 

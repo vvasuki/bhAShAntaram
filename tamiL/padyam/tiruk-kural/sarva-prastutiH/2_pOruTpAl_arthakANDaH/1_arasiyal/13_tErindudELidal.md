@@ -40,6 +40,13 @@ Pleasure, gold, fear of life Virtue-
 Test by these four and trust the true.        501  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५०१</summary>
+
+501
+धर्म-अर्थ औ’ काम से, मिला प्राण-भय चार ।  
+इन उपधाओं से परख, विश्वस्त है विचार ॥
+  </details>
+
 <details><summary>मूलम् - ५०१</summary>
 
 अऱम्बॊरुळ् इन्बम् उयिरच्चम् नान्गिन्  
@@ -81,6 +88,13 @@ nāṇ uṭaiyāṉkaṭṭē teḷivu.
 Spotless name of noble birth  
 Shamed of stain-that choice is worth.        502  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५०२</summary>
+
+502
+जो कुलीन निर्दोष हो, निन्दा से भयभीत ।  
+तथा लजीला हो वही, विश्वस्त है पुनीत ॥
+  </details>
 
 <details><summary>मूलम् - ५०२</summary>
 
@@ -124,6 +138,13 @@ Though deep scholars of stainless sense
 Rare is freedom from ignorance.        503  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५०३</summary>
+
+503
+ज्ञाता विशिष्ट शास्त्र के, औ’ निर्दोष स्वभाव ।  
+फिर भी परखो तो उन्हें, नहिं अज्ञता-अभाव ॥
+  </details>
+
 <details><summary>मूलम् - ५०३</summary>
 
 अरियगट्रु आसट्रार् कण्णुम् तॆरियुङ्गाल्  
@@ -165,6 +186,13 @@ mikai nāṭi, mikka koḷal!.
 Good and evil in man weigh well  
 Judge him by virtues which prevail.        504  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५०४</summary>
+
+504
+परख गुणों को फिर परख, दोषों को भी छान ।  
+उनमें बहुतायत परख, उससे कर पहचान ॥
+  </details>
 
 <details><summary>मूलम् - ५०४</summary>
 
@@ -208,6 +236,13 @@ By the touchstone of deeds is seen
 If any one is great or mean.        505  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५०५</summary>
+
+505
+महिमा या लघिमा सही, इनकी करने जाँच ।  
+नर के निज निज कर्म ही, बनें कसौटी साँच ॥
+  </details>
+
 <details><summary>मूलम् - ५०५</summary>
 
 पॆरुमैक्कुम् एनैच् चिऱुमैक्कुम् तत्तम्  
@@ -249,6 +284,13 @@ paṟṟu ilar; nāṇār paḻi.
 Choose not those men without kinsmen  
 Without affine or shame of sin.        506  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५०६</summary>
+
+506
+विश्वसनीय न मानिये, बन्धुहीन जो लोग ।  
+निन्दा से लज्जित न हैं, स्नेह शून्य वे लोग ॥
+  </details>
 
 <details><summary>मूलम् - ५०६</summary>
 
@@ -292,6 +334,13 @@ On favour leaning fools you choose;
 Folly in all its forms ensues.        507  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५०७</summary>
+
+507
+मूर्ख जनों पर प्रेमवश, जो करता विश्वास ।  
+सभी तरह से वह बने, जड़ता का आवास ।  
+  </details>
+
 <details><summary>मूलम् - ५०७</summary>
 
 कादन्मै कन्दा अऱिवऱियार्त् तेऱुदल्  
@@ -334,6 +383,13 @@ To trust an untried stranger brings
 Endless troubles on all our kins.        508  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५०८</summary>
+
+508
+परखे बिन अज्ञात पर, किया अगर विश्वास ।  
+संतित को चिरकाल तक, लेनी पड़े असाँस ॥
+  </details>
+
 <details><summary>मूलम् - ५०८</summary>
 
 तेरान् पिऱनैत् तॆळिन्दान् वऴिमुऱै  
@@ -375,6 +431,13 @@ tēṟuka, tēṟum poruḷ.
 Trust not without testing and then  
 Find proper work for trusted men.        509  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५०९</summary>
+
+509
+किसी व्यक्ति पर मत करो, परखे बिन विश्वास ।  
+बेशक सौंपो योग्य यद, करने पर विश्वास ॥
+  </details>
 
 <details><summary>मूलम् - ५०९</summary>
 
@@ -422,6 +485,13 @@ tīrā iṭumpai tarum.
 Trust without test; The trusted doubt;  
 Both entail troubles in and out.        510  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५१०</summary>
+
+510
+परखे बिन विश्वास भी, औ’ करके विश्वास ।  
+फिर करना सन्देह भी, देते हैं चिर नाश ॥ 
+  </details>
 
 <details><summary>मूलम् - ५१०</summary>
 

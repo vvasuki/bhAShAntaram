@@ -41,6 +41,13 @@ The mean seem men only in form
 We have never seen such a sham.        1071  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०७१</summary>
+
+1071
+हैं मनुष्य के सदृश ही, नीच लोग भी दृश्य ।  
+हमने तो देखा नहीं, ऐसा जो सादृश्य ॥
+  </details>
+
 <details><summary>मूलम् - १०७१</summary>
 
 मक्कळे पोल्वर् कयवर् अवरन्न  
@@ -82,6 +89,13 @@ neñcattu avalam ilar.
 The base seem richer than the good  
 For no care enters their heart or head.        1072  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०७२</summary>
+
+1072
+चिन्ता धर्माधर्म की, नहीं हृदय के बीच ।  
+सो बढ़ कर धर्मज्ञ से, भाग्यवान हैं नीच ॥
+  </details>
 
 <details><summary>मूलम् - १०७२</summary>
 
@@ -125,6 +139,13 @@ The base are like gods; for they too
 As prompted by their desire do.        1073  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०७३</summary>
+
+1073
+नीच लोग हैं देव सम, क्योंकि निरंकुश जीव ।  
+वे भी करते आचरण, मनमानी बिन सींव ॥
+  </details>
+
 <details><summary>मूलम् - १०७३</summary>
 
 तेवर् अनैयर् कयवर् अवरुन्दाम्  
@@ -166,6 +187,13 @@ mikappaṭṭuc cemmākkum kīḻ.
 When the base meets a rake so vile  
 Him he will exceed, exult and smile.        1074  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०७४</summary>
+
+1074
+मनमौजी ऐसा मिले, जो अपने से खर्व ।  
+तो उससे बढ़ खुद समझ, नीच करेगा गर्व ॥
+  </details>
 
 <details><summary>मूलम् - १०७४</summary>
 
@@ -209,6 +237,13 @@ Fear forms the conduct of the low
 Craving avails a bit below.        1075  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०७५</summary>
+
+1075
+नीचों के आचार का, भय ही है आधार ।  
+भय बिन भी कुछ तो रहे, यदि हो लाभ-विचार ॥
+  </details>
+
 <details><summary>मूलम् - १०७५</summary>
 
 अच्चमे कीऴ्गळदु आसारम् ऎच्चम्  
@@ -250,6 +285,13 @@ maṟaipiṟarkku uytturaikka lāṉ.
 The base are like the beaten drum  
 Since other's secrets they proclaim.        1076  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०७६</summary>
+
+1076
+नीच मनुज ऐसा रहा, जैसा पिटता ढोल ।  
+स्वयं सुने जो भेद हैं, ढो अन्यों को खोल ॥
+  </details>
 
 <details><summary>मूलम् - १०७६</summary>
 
@@ -298,6 +340,13 @@ The base their damp hand will not shake
 But for fists clenched their jaws to break.        1077  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०७७</summary>
+
+1077
+गाल-तोड़ घूँसा बिना, जो फैलाये हाथ ।  
+झाडेंगे नहिं अधम जन, निज झूठा भी हाथ ॥
+  </details>
+
 <details><summary>मूलम् - १०७७</summary>
 
 ईर्ङ्गै विदिरार् कयवर् कॊडिऱुडैक्कुम्  
@@ -339,6 +388,13 @@ kollap payaṉpaṭum kīḻ.
 The good by soft words profits yield  
 The cane-like base when crushed and killed.        1078  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०७८</summary>
+
+1078
+सज्जन प्रार्थन मात्र से, देते हैं फल-दान ।  
+नीच निचोड़ों ईख सम, तो देते रस-पान ॥
+  </details>
 
 <details><summary>मूलम् - १०७८</summary>
 
@@ -382,6 +438,13 @@ Faults in others the mean will guess
 On seeing how they eat and dress.        1079  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १०७९</summary>
+
+1079
+खाते पीते पहनते, देख पराया तोष ।  
+छिद्रान्वेषण-चतुर जो, नीच निकाले दोष ॥
+  </details>
+
 <details><summary>मूलम् - १०७९</summary>
 
 उडुप्पदूउम् उण्बदूउम् काणिन् पिऱर्मेल्  
@@ -423,6 +486,13 @@ viṟṟaṟku uriyar viraintu.
 The base hasten to sell themselves  
 From doom to flit and nothing else.        1080  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०८०</summary>
+
+1080
+नीच लोग किस योग्य हों, आयेंगे क्या काम ।  
+संकट हो तो झट स्वयं, बिक कर बनें गुलाम ॥
+  </details>
 
 <details><summary>मूलम् - १०८०</summary>
 

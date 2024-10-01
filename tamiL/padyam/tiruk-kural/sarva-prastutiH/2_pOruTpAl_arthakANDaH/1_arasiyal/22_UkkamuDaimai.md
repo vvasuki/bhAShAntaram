@@ -46,6 +46,13 @@ To own is to own energy
 All others own but lethargy.        591  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५९१</summary>
+
+591
+धनी कहाने योग्य है, यदि हो धन उत्साह ।  
+उसके बिन यदि अन्य धन, हो तो क्या परवाह ॥
+  </details>
+
 <details><summary>मूलम् - ५९१</summary>
 
 उडैयर् ऎनप्पडुवदु ऊक्कम् अह् तिल्लार्  
@@ -87,6 +94,13 @@ nillātu nīṅkiviṭum.
 Psychic heart is wealth indeed  
 Worldly wealth departs in speed.        592  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५९२</summary>
+
+592
+एक स्वत्व उत्साह है, स्थायी स्वत्व ज़रूर ।  
+अस्थायी रह अन्य धन, हो जायेंगे दूर ॥
+  </details>
 
 <details><summary>मूलम् - ५९२</summary>
 
@@ -130,6 +144,13 @@ he strong in will do not complain
 The loss of worldly wealth and gain.        593  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५९३</summary>
+
+593
+रहता जिनके हाथ में, उमंग का स्थिर वित्त ।  
+‘वित्त गया’ कहते हुए, ना हों अधीर-चित्त ॥
+  </details>
+
 <details><summary>मूलम् - ५९३</summary>
 
 क्कम् इऴन्देमॆण्ड्रु अल्लावार् ऊक्कम्  
@@ -172,6 +193,13 @@ Fortune enquires, enters with boom
 Where tireless strivers have their home.        594  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५९४</summary>
+
+594
+जिस उत्साही पुरुष का, अचल रहे उत्साह ।  
+वित्त चले उसके यहाँ, पूछ-ताछ कर राह ॥
+  </details>
+
 <details><summary>मूलम् - ५९४</summary>
 
 क्कम् अदर्विनाय्च् चॆल्लुम् असैविला  
@@ -205,6 +233,13 @@ A man's stature by the level of his mind.
 Water depth is lotus height  
 Mental strength is men's merit.        595  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५९५</summary>
+
+595
+जलज-नाल उतनी बड़ी, जितनी जल की थाह ।  
+नर होता उतना बड़ा, जितना हो उत्साह ॥
+  </details>
 
 <details><summary>मूलम् - ५९५</summary>
 
@@ -253,6 +288,13 @@ Let thoughts be always great and grand
 Though they fail their virtues stand.        596  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५९६</summary>
+
+596
+जो विचार मन में उठें, सब हों उच्च विचार ।  
+यद्यपि सिद्ध न उच्चता, विफल न वे सुविचार ॥
+  </details>
+
 <details><summary>मूलम् - ५९६</summary>
 
 उळ्ळुव तॆल्लाम् उयर्वुळ्ळल् मट्रदु  
@@ -294,6 +336,13 @@ paṭṭup pāṭu ūṉṟum kaḷiṟu.
 Elephants are firm when arrows hit  
 Great minds keep fit ev'n in defeat.        597  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५९७</summary>
+
+597
+दुर्गति में भी उद्यमी, होते नहीं अधीर ।  
+घायल भी शर-राशि से, गज रहता है धीर ॥
+  </details>
 
 <details><summary>मूलम् - ५९७</summary>
 
@@ -337,6 +386,13 @@ Heartless persons cannot boast
 "We are liberal to our best".        598  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५९८</summary>
+
+598
+‘हम तो हैं इस जगत में, दानी महा धुरीण’ ।  
+कर सकते नहिं गर्व यों, जो हैं जोश-विहीन ॥
+  </details>
+
 <details><summary>मूलम् - ५९८</summary>
 
 उळ्ळम् इलादवर् ऎय्दार् उलगत्तु  
@@ -379,6 +435,13 @@ Huge elephant sharp in tusk quails
 When tiger, less in form, assails.        599  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५९९</summary>
+
+599
+यद्यपि विशालकाय है, तथा तेज़ हैं दांत ।  
+डरता है गज बाघ से, होने पर आक्रांत ॥
+  </details>
+
 <details><summary>मूलम् - ५९९</summary>
 
 परियदु कूर्ङ्गोट्टदु आयिनुम् यानै  
@@ -420,6 +483,13 @@ maram; makkaḷ ātalē vēṟu.
 Mental courage is true manhood  
 Lacking that man is like a wood        600  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६००</summary>
+
+600
+सच्ची शक्ति मनुष्य की, है उत्साह अपार ।  
+उसके बिन नर वृक्ष सम, केवल नर आकार ॥
+  </details>
 
 <details><summary>मूलम् - ६००</summary>
 

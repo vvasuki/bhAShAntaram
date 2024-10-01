@@ -41,6 +41,13 @@ Than testless friendship nought is worse
 For contacts formed will scarcely cease.        791  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७९१</summary>
+
+791
+जाँचे बिन मैत्री सदृश, हानि नहीं है अन्य ।  
+मित्र बना तो छूट नहीं, जिसमें वह सौजन्य ॥
+  </details>
+
 <details><summary>मूलम् - ७९१</summary>
 
 नाडादु नट् टलिऱ्केडिल्लै नट्टबिन्  
@@ -88,6 +95,13 @@ Friendship made without frequent test
 Shall end in grief and death at last.        792  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७९२</summary>
+
+792
+परख परख कर जो नहीं, किया गया सौहार्द ।  
+मरण दिलाता अन्त में, यों, करता वह आर्त ॥
+  </details>
+
 <details><summary>मूलम् - ७९२</summary>
 
 आय्न्दाय्न्दु कॊळ्ळादान् केण्मै कडैमुऱै  
@@ -130,6 +144,13 @@ Temper, descent, defects and kins
 Trace well and take companions.        793  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७९३</summary>
+
+793
+गुण को कुल को दोष को, जितने बन्धु अनल्प ।  
+उन सब को भी परख कर, कर मैत्री का कल्प ॥
+  </details>
+
 <details><summary>मूलम् - ७९३</summary>
 
 कुणमुम् कुडिमैयुम् कुट्रमुम् कुण्ड्रा  
@@ -171,6 +192,13 @@ koṭuttum koḷal vēṇṭum, naṭpu.
 Take as good friend at any price  
 The nobly born who shun disgrace.        794  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७९४</summary>
+
+794
+जो लज्जित बदनाम से, रहते हैं कुलवान ।  
+कर लो उनकी मित्रता, कर भी मूल्य-प्रदान ॥
+  </details>
 
 <details><summary>मूलम् - ७९४</summary>
 
@@ -219,6 +247,13 @@ Who make you weep and chide wrong trends
 And lead you right are worthy friends.        795  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७९५</summary>
+
+795
+झिड़की दे कर या रुला, समझावे व्यवहार ।  
+ऐसे समर्थ को परख, मैत्री कर स्वीकार ॥
+  </details>
+
 <details><summary>मूलम् - ७९५</summary>
 
 अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय  
@@ -260,6 +295,13 @@ nīṭṭi aḷappatu ōr kōl.
 Is there a test like misfortune  
 A rod to measure out kinsmen?        796  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७९६</summary>
+
+796
+होने पर भी विपद के, बड़ा लाभ है एक ।  
+मित्र-खेत सब मापता, मान-दंड वह एक ॥
+  </details>
 
 <details><summary>मूलम् - ७९६</summary>
 
@@ -303,6 +345,13 @@ Keep off contacts with fools; that is
 The greatest gain so say the wise.        797  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७९७</summary>
+
+797
+मूर्खों के सौहार्द से, बच कर तजना साफ़ ।  
+इसको ही नर के लिये, कहा गया है लाभ ॥
+  </details>
+
 <details><summary>मूलम् - ७९७</summary>
 
 ऊदियम् ऎन्बदु ऒरुवऱ्कुप् पेदैयार्  
@@ -345,6 +394,13 @@ Off with thoughts that depress the heart
 Off with friends that in woe depart.        798  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७९८</summary>
+
+798
+ऐसे कर्म न सोचिये, जिनसे घटे उमंग ।  
+मित्र न हो जो दुख में, छोड़ जायगा संग ॥
+  </details>
+
 <details><summary>मूलम् - ७९८</summary>
 
 उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क  
@@ -386,6 +442,13 @@ uḷḷiṉum, uḷḷam cuṭum.
 Friends who betray at ruin's brink  
 Burn our mind ev'n at death to think.        799  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७९९</summary>
+
+799
+विपद समय जो बन्धु जन, साथ छोड़ दें आप ।  
+मरण समय भी वह स्मरण, दिल को देगा ताप ॥
+  </details>
 
 <details><summary>मूलम् - ७९९</summary>
 
@@ -433,6 +496,13 @@ oruvuka, oppu ilār naṭpu!.
 The blameless ones as friends embarace;  
 Give something and give up the base.        800  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८००</summary>
+
+800
+निर्मल चरित्रवान की, मैत्री लेना जोड़ ।  
+कुछ दे सही अयोग्य की, मैत्री देना छोड़ ॥
+  </details>
 
 <details><summary>मूलम् - ८००</summary>
 

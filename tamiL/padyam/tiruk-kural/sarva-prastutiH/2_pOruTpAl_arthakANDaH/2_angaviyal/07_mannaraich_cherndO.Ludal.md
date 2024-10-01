@@ -40,6 +40,13 @@ Move with hostile kings as with fire
 Not coming close nor going far.        691  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६९१</summary>
+
+691
+दूर न पास न रह यथा, तापों उसी प्रकार ।  
+भाव-बदलते भूप से, करना है व्यवहार ॥
+  </details>
+
 <details><summary>मूलम् - ६९१</summary>
 
 अगलादु अणुगादु तीक्काय्वार् पोल्ग  
@@ -81,6 +88,13 @@ maṉṉiya ākkam tarum.
 Crave not for things which kings desire  
 This brings thee their fruitful favour.        692  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६९२</summary>
+
+692
+राजा को जो प्रिय रहें, उनकी हो नहिं चाह ।  
+उससे स्थायी संपदा, दिलायगा नरनाह ॥
+  </details>
 
 <details><summary>मूलम् - ६९२</summary>
 
@@ -124,6 +138,13 @@ Guard thyself from petty excess
 Suspected least, there's no redress.        693  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६९३</summary>
+
+693
+यदि बचना है तो बचो, दोषों से विकराल ।  
+समाधान सभव नहीं, शक करते नरपाल ॥
+  </details>
+
 <details><summary>मूलम् - ६९३</summary>
 
 पोट्रिन् अरियवै पोट्रल् कडुत्तबिन्  
@@ -165,6 +186,13 @@ Amidst illustrious august men. *
 Whisper not; nor smile exchange  
 Amidst august men's assemblage.        694  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६९४</summary>
+
+694
+कानाफूसी साथ ही, हँसी अन्य के साथ ।  
+महाराज के साथ में, छोड़ो इनका साथ ॥
+  </details>
 
 <details><summary>मूलम् - ६९४</summary>
 
@@ -208,6 +236,13 @@ Hear not, ask not the king's secret
 Hear only when he lets it out.        695  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६९५</summary>
+
+695
+छिपे सुनो मत भेद को, पूछो मत 'क्या बात' ।  
+प्रकट करे यदि नृप स्वयं, तो सुन लो वह बात ॥
+  </details>
+
 <details><summary>मूलम् - ६९५</summary>
 
 ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ्ऱप्पॊरुळै  
@@ -249,6 +284,13 @@ vēṇṭupa, vēṭpac colal!.
 Discern his mood and time and tell  
 No dislikes but what king likes well.        696  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६९६</summary>
+
+696
+भाव समझ समयज्ञ हो, छोड़ घृणित सब बात ।  
+नृप-मनचाहा ढंग से, कह आवश्यक बात ॥
+  </details>
 
 <details><summary>मूलम् - ६९६</summary>
 
@@ -292,6 +334,13 @@ Tell pleasing things; and never tell
 Even if pressed what is futile.        697  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६९७</summary>
+
+697
+नृप से वांछित बात कह, मगर निरर्थक बात ।  
+पूछें तो भी बिन कहे, सदा त्याग वह बात ॥
+  </details>
+
 <details><summary>मूलम् - ६९७</summary>
 
 वेट्पन सॊल्लि विनैयिल ऎञ्ञाण्ड्रुम्  
@@ -334,6 +383,13 @@ As young and kinsman do not slight;
 Look with awe king's light and might.        698  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६९८</summary>
+
+698
+‘छोटे हैं, ये बन्धु हैं’, यों नहिं कर अपमान ।  
+किया जाय नरपाल का, देव तुल्य सम्मान ॥
+  </details>
+
 <details><summary>मूलम् - ६९८</summary>
 
 इळैयर् इनमुऱैयर् ऎण्ड्रिगऴार् निण्ड्र  
@@ -375,6 +431,13 @@ tuḷakku aṟṟa kāṭciyavar.
 The clear-visioned do nothing base  
 Deeming they have the monarch's grace.        699  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६९९</summary>
+
+699
+‘नृप के प्रिय हम बन गये’, ऐसा कर सुविचार ।  
+जो हैं निश्चल बुद्धि के, करें न अप्रिय कार ॥
+  </details>
 
 <details><summary>मूलम् - ६९९</summary>
 
@@ -422,6 +485,13 @@ keḻutakaimai kēṭu tarum.
 Worthless acts based on friendship old  
 Shall spell ruin and woe untold.        700  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७००</summary>
+
+700
+‘चिरपरिचित हैं’, यों समझ, नृप से दुर्व्यवहार ।  
+करने का अधिकार तो, करता हानि अपार ॥
+  </details>
 
 <details><summary>मूलम् - ७००</summary>
 

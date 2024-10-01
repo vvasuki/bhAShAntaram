@@ -40,6 +40,13 @@ Let fortunes go; yet kinsmen know
 The old accustomed love to show.        521  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५२१</summary>
+
+521
+यद्यपि निर्धन हो गये, पहले कृत उपकार ।  
+कहते रहे बखान कर, केवल नातेदार ॥
+  </details>
+
 <details><summary>मूलम् - ५२१</summary>
 
 पट्रट्र कण्णुम् पऴैमैबा राट्टुदल्  
@@ -81,6 +88,13 @@ Wealth of all kinds never fail to flow. *
 The gift of loving Kins bestows  
 Fadeless fortune's fresh flowers.        522  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५२२</summary>
+
+522
+बन्धु-वर्ग ऐसा मिले, जिसका प्रेम अटूट ।  
+तो वह दे संपत्ति सब , जिसकी वृद्धि  अटूट ॥
+  </details>
 
 <details><summary>मूलम् - ५२२</summary>
 
@@ -129,6 +143,13 @@ A kinless wealth is like a tank
 Which overflows without a bank.        523  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५२३</summary>
+
+523
+मिलनसार जो है नहीं, जीवन उसका व्यर्थ ।  
+तट बिन विस्तृत ताल ज्यों, भरता जल से व्यर्थ ॥
+  </details>
+
 <details><summary>मूलम् - ५२३</summary>
 
 अळवळा विल्लादान् वाऴ्क्कै कुळवळाक्  
@@ -170,6 +191,13 @@ peṟṟattāl peṟṟa payaṉ.
 The fruit of growing wealth is gained  
 When kith and kin are happy found.        524  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५२४</summary>
+
+524
+अपने को पाया धनी, तो फल हो यह प्राप्त ।  
+बन्धु-मंडली घिर रहे, यों रहना बन आप्त ॥
+  </details>
 
 <details><summary>मूलम् - ५२४</summary>
 
@@ -213,6 +241,13 @@ Loving words and liberal hand
 Encircle kith and kin around.        525  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५२५</summary>
+
+525
+मधुर वचन जो बोलता, करता भी है दान ।  
+बन्धुवर्ग के वर्ग से, घिरा रहेगा जान ॥
+  </details>
+
 <details><summary>मूलम् - ५२५</summary>
 
 कॊडुत्तलुम् इन्सॊलुम् आट्रिन् अडुक्किय  
@@ -254,6 +289,13 @@ maruṅku uṭaiyār mā nilattu il.
 Large giver and wrathless man  
 Commands on earth countless kinsmen.        526  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५२६</summary>
+
+526
+महादान करते हुए, जो है क्रोध-विमुक्त ।  
+उसके सम भू में नहीं, बन्धुवर्ग से युक्त ॥
+  </details>
 
 <details><summary>मूलम् - ५२६</summary>
 
@@ -297,6 +339,13 @@ The crows hide not; thy call and eat
 Welfare abides a man of heart.        527  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५२७</summary>
+
+527
+बिना छिपाये काँव कर, कौआ खाता भोज्य ।  
+जो हैं उसी स्वभाव के, पाते हैं सब भोग्य ॥
+  </details>
+
 <details><summary>मूलम् - ५२७</summary>
 
 काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
@@ -338,6 +387,13 @@ atu nōkki vāḻvār palar.
 From public gaze when kings perceive  
 Each one's merits so many thrive.        528  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५२८</summary>
+
+528
+सब को सम देखे नहीं, देखे क्षमता एक ।  
+इस गुण से स्थायी रहें, नृप के बन्धु अनेक ॥
+  </details>
 
 <details><summary>मूलम् - ५२८</summary>
 
@@ -381,6 +437,13 @@ Forsaken friends will come and stay
 When cause for discord goes away.        529  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ५२९</summary>
+
+529
+बन्धु बने जो जन रहे, तोड़े यदि बन्धुत्व ।  
+अनबन का कारण मिटे, तो बनता बन्धुत्व ॥
+  </details>
+
 <details><summary>मूलम् - ५२९</summary>
 
 तमरागिक् तट्रुऱन्दार् सुट्रम् अमरामैक्  
@@ -422,6 +485,13 @@ iḻaittu iruntu, eṇṇik koḷal.
 Who leaves and returns with motive  
 The king should test him and receive.        530  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ५३०</summary>
+
+530
+कारण बिन जो बिछुड़ कर, लौटे कारण साथ ।  
+साध-पूर्ति कर नृप उसे, परख, मिला के साथ ॥
+  </details>
 
 <details><summary>मूलम् - ५३०</summary>
 

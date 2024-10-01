@@ -41,6 +41,13 @@ Naught exists that can, save wealth
 Make the worthless as men of worth.        751  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७५१</summary>
+
+751
+धन जो देता है बना, नगण्य को भी गण्य ।  
+उसे छोड़ कर मनुज को, गण्य वस्तु नहिं अन्य ॥
+  </details>
+
 <details><summary>मूलम् - ७५१</summary>
 
 पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्  
@@ -82,6 +89,13 @@ ellārum ceyvar, ciṟappu.
 The have-nothing poor all despise  
 The men of wealth all raise and praise.        752  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७५२</summary>
+
+752
+निर्धन लोगो का सभी, करते हैं अपमान ।  
+धनवनों का तो सभी, करते हैं सम्मन ॥
+  </details>
 
 <details><summary>मूलम् - ७५२</summary>
 
@@ -125,6 +139,13 @@ Waneless wealth is light that goes
 To every land and gloom removes.        753  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७५३</summary>
+
+753
+धनरूपी दीपक अमर, देता हुआ प्रकाश ।  
+मनचाहा सब देश चल, करता है नम-नाश ॥
+  </details>
+
 <details><summary>मूलम् - ७५३</summary>
 
 पॊरुळॆन्नुम् पॊय्या विळक्कम् इरुळऱुक्कुम्  
@@ -166,6 +187,13 @@ tītu iṉṟi vanta poruḷ.
 The blameless wealth from fairest means  
 Brings good virtue and also bliss.        754  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७५४</summary>
+
+754
+पाप-मार्ग को छोड़कर, न्याय रीति को जान ।  
+अर्जित धन है सुखद औ’, करता धर्म प्रदान ॥
+  </details>
 
 <details><summary>मूलम् - ७५४</summary>
 
@@ -214,6 +242,13 @@ Riches devoid of love and grace
 Off with it; it is disgrace!        755  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७५५</summary>
+
+755
+दया और प्रिय भाव से, प्राप्त नहीं जो वित्त ।  
+जाने दो उस लाभ को, जमे न उसपर चित्त ॥
+  </details>
+
 <details><summary>मूलम् - ७५५</summary>
 
 अरुळॊडुम् अन्बॊडुम् वाराप् पॊरुळाक्कम्  
@@ -255,6 +290,13 @@ teṟu poruḷum,-vēntaṉ poruḷ.
 Escheats, derelicts; spoils of war  
 Taxes duties are king's treasure.        756  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७५६</summary>
+
+756
+धन जिसका वारिस नहीं, धन चूँगी से प्राप्त ।  
+विजित शत्रु का भेंट-धन, धन हैं नृप हित आप्त ॥
+  </details>
 
 <details><summary>मूलम् - ७५६</summary>
 
@@ -298,6 +340,13 @@ Grace the child of love is nourished
 By the wet-nurse of wealth cherished.        757  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७५७</summary>
+
+757
+जन्माता है प्रेम जो, दयारूप शिशु सुष्ट ।  
+पालित हो धन-धाय से, होता है बह पुष्ट ॥
+  </details>
+
 <details><summary>मूलम् - ७५७</summary>
 
 अरुळॆन्नुम् अन्बीन् कुऴवि पॊरुळॆन्नुम्  
@@ -340,6 +389,13 @@ Treasures in hand fulfil all things
 Like hill-tuskers the wars of kings.        758  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ७५८</summary>
+
+758
+निज धन रखते हाथ में, करना कोई कार्य ।  
+गिरि पर चढ़ गज-समर का, ईक्षण सदृश विचार्य ॥
+  </details>
+
 <details><summary>मूलम् - ७५८</summary>
 
 कुण्ड्रेऱि यानैप् पोर् कण्डट्राल् तन्गैत्तॊण्ड्रु  
@@ -381,6 +437,13 @@ eḵku ataṉiṉ kūriyatu il.
 Make wealth; there is no sharper steel  
 The insolence of foes to quell.        759  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७५९</summary>
+
+759
+शत्रु-गर्व को चिरने, तेज शास्त्र जो सिद्ध ।  
+धन से बढ़ कर है नहीं, सो संग्रह कर वित्त ॥
+  </details>
 
 <details><summary>मूलम् - ७५९</summary>
 
@@ -428,6 +491,13 @@ Gains the other two treasures together. *
 They have joy and virtue at hand  
 Who acquire treasures abundant.        760  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७६०</summary>
+
+760
+धर्म, काम दोनों सुलभ, मिलते हैं इक साथ ।  
+न्यायार्जित धन प्रचुर हो, लगता जिसके हाथ ॥
+  </details>
 
 <details><summary>मूलम् - ७६०</summary>
 

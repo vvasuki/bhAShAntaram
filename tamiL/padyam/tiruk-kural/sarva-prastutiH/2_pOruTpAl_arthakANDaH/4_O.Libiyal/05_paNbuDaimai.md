@@ -41,6 +41,13 @@ To the polite free of access
 Easily comes courteousness.        991  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९९१</summary>
+
+991
+मिलनसार रहते अगर, सब लोगों को मान ।  
+पाना शिष्टाचार है, कहते हैं आसान ॥
+  </details>
+
 <details><summary>मूलम् - ९९१</summary>
 
 ऎण्बदत्ताल् ऎय्दल् ऎळिदॆन्ब यार्माट्टुम्  
@@ -82,6 +89,13 @@ paṇpuṭaimai eṉṉum vaḻakku.
 Humanity and noble birth  
 Develop courtesy and moral worth.        992  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९९२</summary>
+
+992
+उत्तम कुल में जन्म औ’, प्रेम पूर्ण व्यवहार ।  
+दोनों शिष्टाचार के, हैं ही श्रेष्ठ प्रकार ॥
+  </details>
 
 <details><summary>मूलम् - ९९२</summary>
 
@@ -125,6 +139,13 @@ Likeness in limbs is not likeness
 It's likeness in kind courteousness.        993  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९९३</summary>
+
+993
+न हो देह के मेल से, श्रेष्ठ जनों का मेल ।  
+आत्माओं के योग्य तो, हैं संस्कृति का मेल ॥
+  </details>
+
 <details><summary>मूलम् - ९९३</summary>
 
 उऱुप्पॊत्तल् मक्कळॊप्पु अण्ड्राल् वॆऱुत्तक्क  
@@ -166,6 +187,13 @@ paṇpupā rāṭṭum ulaku.
 The world applauds those helpful men  
 Whose actions are just and benign.        994  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९९४</summary>
+
+994
+नीति धर्म को चाहते, जो करते उपकार ।  
+उनके शिष्ट स्वभाव को, सराहता संसार ॥
+  </details>
 
 <details><summary>मूलम् - ९९४</summary>
 
@@ -214,6 +242,13 @@ The courteous don't even foes detest
 For contempt offends even in jest.        995  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९९५</summary>
+
+995
+हँसी खेल में भी नहीं, निंदा करना इष्ट ।  
+पर-स्वभाव ज्ञाता रहें, रिपुता में भी शिष्ट ॥
+  </details>
+
 <details><summary>मूलम् - ९९५</summary>
 
 नगैयुळ्ळुम् इन्ना तिगऴ्च्चि पगैयुळ्ळुम्  
@@ -255,6 +290,13 @@ maṇpukku māyvatu maṉ.
 The world rests with the mannered best  
 Or it crumbles and falls to dust.        996  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९९६</summary>
+
+996
+शिष्टों के आधार पर, टिकता है संसार ।  
+उनके बिन तो वह मिले, मिट्टी में निर्धार ॥
+  </details>
 
 <details><summary>मूलम् - ९९६</summary>
 
@@ -298,6 +340,13 @@ The mannerless though sharp like file
 Are like wooden blocks indocile.        997  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९९७</summary>
+
+997
+यद्यपि हैं रेती सदृश, तीक्षण बुद्धि-निधान ।  
+मानव-संस्कृति के बिना, नर हैं वृक्ष समान ॥
+  </details>
+
 <details><summary>मूलम् - ९९७</summary>
 
 अरम्बोलुम् कूर्मैय रेनुम् मरम्बोल्वर्  
@@ -339,6 +388,13 @@ paṇpāṟṟār ātal kaṭai.
 Discourtesy is mean indeed  
 E'en to a base unfriendly breed.        998  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९९८</summary>
+
+998
+मित्र न रह जो शत्रु हैं, उनसे भी व्यवहार ।  
+सभ्य पुरुष का नहिं किया, तो वह अधम विचार ॥
+  </details>
 
 <details><summary>मूलम् - ९९८</summary>
 
@@ -382,6 +438,13 @@ To those bereft of smiling light
 Even in day the earth is night.        999  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९९९</summary>
+
+999
+जो जन कर सकते नहीं, प्रसन्न मन व्यवहार ।  
+दिन में भी तम में पड़ा, है उनका संसार ॥
+  </details>
+
 <details><summary>मूलम् - ९९९</summary>
 
 नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्  
@@ -423,6 +486,13 @@ kalantīmai yāltirintu aṟṟu.
 The wealth heaped by the churlish base  
 Is pure milk soured by impure vase.        1000  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १०००</summary>
+
+1000
+जो है प्राप्त असभ्य को, धन-सम्पत्ति अमेय ।  
+कलश-दोष से फट गया, शुद्ध दूध सम ज्ञेय ॥
+  </details>
 
 <details><summary>मूलम् - १०००</summary>
 

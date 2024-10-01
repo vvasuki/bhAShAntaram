@@ -40,6 +40,13 @@ Like play of chess on squareless board
 Vain is imperfect loreless word.        401  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४०१</summary>
+
+401
+सभा-मध्य यों बोलना, बिना पढ़े सदग्रन्थ ।  
+है पासे का खेल ज्यों, बिन चौसर का बंध ॥
+  </details>
+
 <details><summary>मूलम् - ४०१</summary>
 
 अरङ्गिण्ड्रि वट्टाडि यट्रे निरम्बिय  
@@ -81,6 +88,13 @@ illātāḷ peṇ kāmuṟṟaṟṟu.
 Unlearned man aspiring speech  
 Is breastless lady's love-approach.        402  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४०२</summary>
+
+402
+यों है अपढ़ मनुष्य की, भाषण-पटुता-चाह ।  
+ज्यों दोनों कुचरहित की, स्त्रीत्व-भोग की चाह ॥
+  </details>
 
 <details><summary>मूलम् - ४०२</summary>
 
@@ -124,6 +138,13 @@ Ev'n unread men are good and wise
 If before the wise, they hold their peace.        403  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४०३</summary>
+
+403
+अपढ़ लोग भी मानिये, उत्तम गुण का भौन ।  
+विद्वानों के सामने, यदि साधेंगे मौन ॥
+  </details>
+
 <details><summary>मूलम् - ४०३</summary>
 
 कल्ला तवरुम् ननिनल्लर् कट्रार्मुन्  
@@ -165,6 +186,13 @@ koḷḷār, aṟivu uṭaiyār.
 The unread's wit though excellent  
 Is not valued by the savant.        404  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४०४</summary>
+
+404
+बहुत श्रेष्ठ ही क्यों न हो, कभी मूर्ख का ज्ञान ।  
+विद्वज्जन का तो उसे, नहीं मिलेगा मान ॥
+  </details>
 
 <details><summary>मूलम् - ४०४</summary>
 
@@ -208,6 +236,13 @@ A man untaught when speech he vaunts
 Sadly fails before savants.        405  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४०५</summary>
+
+405
+माने यदि कोई अपढ़, बुद्धिमान ही आप ।  
+मिटे भाव वह जब करें, बुध से वार्त्तालाप ॥
+  </details>
+
 <details><summary>मूलम् - ४०५</summary>
 
 कल्ला ऒरुवन् तगैमै तलैप्पॆय्दु  
@@ -249,6 +284,13 @@ kaḷar aṉaiyar-kallātavar.
 People speak of untaught minds  
 "They just exist like barren lands".        406  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४०६</summary>
+
+406
+जीवित मात्र रहा अपढ़, और न कुछ वह, जान ।  
+उत्पादक जो ना रही, ऊसर भूमि समान ॥
+  </details>
 
 <details><summary>मूलम् - ४०६</summary>
 
@@ -292,6 +334,13 @@ Like painted clay-doll is his show
 Grand subtle lore who fails to know.        407  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४०७</summary>
+
+407
+सूक्ष्म बुद्धि जिसकी नहीं, प्रतिभा नहीं अनूप ।  
+मिट्टी की सुठि मूर्ति सम, उसका खिलता रूप ॥
+  </details>
+
 <details><summary>मूलम् - ४०७</summary>
 
 नुण्माण् नुऴैबुलम् इल्लान् ऎऴिल्नलम्  
@@ -333,6 +382,13 @@ kallārkaṇ paṭṭa tiru.
 Wealth in the hand of fools is worse  
 Than a learned man's empty purse.        408  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४०८</summary>
+
+408
+शिक्षित के दारिद्रय से, करती अधिक विपत्ति ।  
+मूर्ख जनों के पास जो, जमी हुई संपत्ति ॥
+  </details>
 
 <details><summary>मूलम् - ४०८</summary>
 
@@ -376,6 +432,13 @@ Lower are fools of higher birth
 Than low-born men of learning's worth.        409  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४०९</summary>
+
+409
+उच्छ जाति का क्यों न हो, तो भी अपढ़ अजान ।  
+नीच किन्तु शिक्षित सदृश, पाता नहिं सम्मान ॥
+  </details>
+
 <details><summary>मूलम् - ४०९</summary>
 
 मेऱ्पिऱन्दा रायिनुम् कल्लादार् कीऴ्प्पिऱन्दुम्  
@@ -417,6 +480,13 @@ kaṟṟāroṭu ēṉaiyavar.
 Like beasts before men, dunces are  
 Before scholars of shining lore.        410  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४१०</summary>
+
+410
+नर से पशु की जो रहा, तुलना में अति भेद ।  
+अध्येत सद्‍ग्रन्थ के, तथा अपढ़ में भेद ॥
+  </details>
 
 <details><summary>मूलम् - ४१०</summary>
 

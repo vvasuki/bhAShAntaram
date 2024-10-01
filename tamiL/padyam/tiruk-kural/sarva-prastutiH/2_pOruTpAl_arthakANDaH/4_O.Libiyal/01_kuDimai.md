@@ -41,6 +41,13 @@ Right-sense and bashfulness adorn
 By nature only the noble-born.        951  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९५१</summary>
+
+951
+लज्जा, त्रिकरण-एकता, इन दोनों का जोड़ ।  
+सहज मिले नहिं और में, बस कुलीन को छोड़ ॥
+  </details>
+
 <details><summary>मूलम् - ९५१</summary>
 
 इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्  
@@ -82,6 +89,13 @@ iḻukkār kuṭippiṟan tār.
 The noble-born lack not these three:  
 Good conduct, truth and modesty.        952  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९५२</summary>
+
+952
+सदाचार लज्जा तथा, सच्चाई ये तीन ।  
+इन सब से विचलित कभी, होते नहीं कुलीन ॥
+  </details>
 
 <details><summary>मूलम् - ९५२</summary>
 
@@ -125,6 +139,13 @@ Smile, gift, sweet words and courtesy
 These four mark true nobility.        953  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९५३</summary>
+
+953
+सुप्रसन्न मुख प्रिय वचन, निंदा-वर्जन दान ।  
+सच्चे श्रेष्ठ कुलीन हैं, चारों का संस्थान ॥
+  </details>
+
 <details><summary>मूलम् - ९५३</summary>
 
 नगैईगै इन्सॊल् इगऴामै नान्गुम्  
@@ -166,6 +187,13 @@ kuṉṟuva ceytal ilar.
 Even for crores, the noble mood  
 Cannot bend to degrading deed.        954  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९५४</summary>
+
+954
+कोटि कोटि धन ही सही, पायें पुरुष कुलीन ।  
+तो भी वे करते नहीं, रहे कर्म जो हीन ॥
+  </details>
 
 <details><summary>मूलम् - ९५४</summary>
 
@@ -209,6 +237,13 @@ The means of gift may dwindle; yet
 Ancient homes guard their noble trait.        955  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९५५</summary>
+
+955
+हाथ खींचना ही पड़े, यद्यपि हो कर दीन ।  
+छोडें वे न उदारता, जिनका कुल प्राचीन ॥
+  </details>
+
 <details><summary>मूलम् - ९५५</summary>
 
 वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि  
@@ -250,6 +285,13 @@ kulampaṟṟi vāḻtumeṉ pār.
 Who guard their family prestige pure  
 Stoop not to acts of cunning lure.        956  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९५६</summary>
+
+956
+पालन करते जी रहें, जो निर्मल कुल धर्म ।  
+यों जो हैं वे ना करें, छल से अनुचित कर्म ॥
+  </details>
 
 <details><summary>मूलम् - ९५६</summary>
 
@@ -298,6 +340,13 @@ The faults of nobly-born are seen
 Like on the sky the spots of moon.        957  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९५७</summary>
+
+957
+जो जन बडे कुलीन हैं, उन पर लगा कलंक ।  
+नभ में चन्द्र-कलंक सम, प्रकटित हो अत्तंग ॥
+  </details>
+
 <details><summary>मूलम् - ९५७</summary>
 
 कुडिप्पिऱन्दार् कण्विळङ्गुम् कुट्रम् विसुम्बिन्  
@@ -339,6 +388,13 @@ kulattiṉkaṇ aiyap paṭum.
 If manners of the good are rude  
 People deem their pedigree crude.        958  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९५८</summary>
+
+958
+रखते सुगुण कुलीन के, जो निकले निःस्नेह ।  
+उसके कुल के विषय में, होगा ही संदेह ॥
+  </details>
 
 <details><summary>मूलम् - ९५८</summary>
 
@@ -387,6 +443,13 @@ Soil's nature is seen in sprout
 The worth of birth from words flow out.        959  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९५९</summary>
+
+959
+अंकुर करता है प्रकट, भू के गुण की बात ।  
+कुल का गुण, कुल-जात की, वाणी करती ज्ञात ॥
+  </details>
+
 <details><summary>मूलम् - ९५९</summary>
 
 निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्  
@@ -428,6 +491,13 @@ vēṇṭuka yārkkum paṇivu.
 All gain good name by modesty  
 Nobility by humility.        960  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९६०</summary>
+
+960
+जो चाहे अपना भला, पकडे लज्जा-रीत ।  
+जो चाहे कुल-कानि को, सब से रहे विनीत ॥
+  </details>
 
 <details><summary>मूलम् - ९६०</summary>
 

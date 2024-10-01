@@ -40,6 +40,13 @@ Think of, O heart, some remedy
 To cure this chronic malady.        1241  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२४१</summary>
+
+1241
+रोग-शमन हित रे हृदय, जो यह हुआ असाध्य ।  
+क्या न कहोगे सोच कर, कोई औषध साध्य ॥
+  </details>
+
 <details><summary>मूलम् - १२४१</summary>
 
 निनैत्तॊण्ड्रु सॊल्लायो नॆञ्जे ऎनैत्तॊण्ड्रुम्  
@@ -82,6 +89,13 @@ Bless O mind! you pine in vain
 For me he has no love serene.        1242  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२४२</summary>
+
+1242
+हृदय ! जिओ तुम, नाथ तो, करते हैं नहिं प्यार ।  
+पर तुम होते हो व्यथित, यह मूढ़ता अपार ॥
+  </details>
+
 <details><summary>मूलम् - १२४२</summary>
 
 कादल् अवरिलर् आगनी नोवदु  
@@ -123,6 +137,13 @@ paitalnōy ceytārkaṇ il.
 O mind, why pine and sit moody?  
 Who made you so pale lacks pity.        1243  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२४३</summary>
+
+1243
+रे दिल ! बैठे स्मरण कर, क्यों हो दुख में चूर ।  
+दुःख-रोग के जनक से, स्नेह-स्मरण है दूर ॥
+  </details>
 
 <details><summary>मूलम् - १२४३</summary>
 
@@ -171,6 +192,13 @@ Take these eyes and meet him, O heart
 Or their hunger will eat me out.        1244  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२४४</summary>
+
+1244
+नेत्रों को भी ले चलो, अरे हृदय, यह जान ।  
+उनके दर्शन के लिये, खाते मेरी जान ॥
+  </details>
+
 <details><summary>मूलम् - १२४४</summary>
 
 कण्णुम् कॊळच्चेऱि नॆञ्जे इवैयॆन्नैत्  
@@ -212,6 +240,13 @@ uṟṟāl uṟāa tavar.
 He spurns our love and yet, O mind,  
 Can we desert him as unkind?        1245  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२४५</summary>
+
+1245
+यद्यपि हम अनुरक्त हैं, वे हैं नहिं अनुरक्त ।  
+रे दिल, यों निर्मम समझ, हो सकते क्या त्यक्त ॥
+  </details>
 
 <details><summary>मूलम् - १२४५</summary>
 
@@ -255,6 +290,13 @@ Wrath is false, O heart, face-to face.
 Sans huff, you rush to his sweet embrace.        1246  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२४६</summary>
+
+1246
+जब प्रिय देते मिलन सुख, गया नहीं तू रूठ ।  
+दिल, तू जो अब क्रुद्ध है, वह है केवल झूठ ॥
+  </details>
+
 <details><summary>मूलम् - १२४६</summary>
 
 कलन्दुणर्त्तुम् कादलर्क् कण्डाऱ्पुलन्दुणराय्  
@@ -296,6 +338,13 @@ yāṉō poṟēṉiv viraṇṭu.
 Off with love O mind, or shame  
 I cannot endure both of them.        1247  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२४७</summary>
+
+1247
+अरे सुदिल, तज काम को, या लज्जा को त्याग ।  
+मैं तो सह सकती नहीं, इन दोनों की आग ॥
+  </details>
 
 <details><summary>मूलम् - १२४७</summary>
 
@@ -339,6 +388,13 @@ Without pity he would depart!
 You sigh and seek his favour, poor heart!        1248  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२४८</summary>
+
+1248
+रे मेरे दिल, यों समझ, नहीं दयार्द्र सुजान ।  
+बिछुड़े के पीछे लगा, चिन्ताग्रस्त अजान ॥
+  </details>
+
 <details><summary>मूलम् - १२४८</summary>
 
 परिन्दवर् नल्गारॆण्ड्रु एङ्गिप् पिरिन्दवर्  
@@ -381,6 +437,13 @@ The lover lives in Self you know;
 Whom you think, mind to whom you go?        1249  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२४९</summary>
+
+1249
+तेरे अन्दर जब रहा, प्रियतम का आवास ।  
+रे दिल, उनका स्मरण कर, जावे किसके पास ॥
+  </details>
+
 <details><summary>मूलम् - १२४९</summary>
 
 उळ्ळत्तार् काद लवराल् उळ्ळिनी  
@@ -422,6 +485,13 @@ iṉṉum iḻantum kaviṉ.
 Without a thought he deserted us  
 To think of him will make us worse.        1250  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२५०</summary>
+
+1250
+फिर न मिले यों तज दिया, उनको दिल में ठौर ।  
+देने से मैं खो रही, अभ्यन्तर छवि और ॥
+  </details>
 
 <details><summary>मूलम् - १२५०</summary>
 

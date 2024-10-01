@@ -45,6 +45,13 @@ The eye pointed him to me; why then
 They weep with malady and pine?        1171  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७१</summary>
+
+1171
+अब राते हैं क्यों नयन, स्वयं दिखा आराध्य ।  
+मुझे हुआ यह रोग है, जो बन गया असाध्य ॥
+  </details>
+
 <details><summary>मूलम् - ११७१</summary>
 
 कण्दाम् कलुऴ्व तॆवन्गॊलो तण्डानोय्  
@@ -86,6 +93,13 @@ paital uḻappatu evaṉ.
 Why should these dyed eyes grieve now sans  
 Regrets for their thoughtless glance?        1172  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११७२</summary>
+
+1172
+सोचे समझे बिन नयन, प्रिय को उस दिन देख ।  
+अब क्यों होते हैं व्यक्ति, रखते कुछ न विवेक ॥
+  </details>
 
 <details><summary>मूलम् - ११७२</summary>
 
@@ -129,6 +143,13 @@ Eyes darted eager glance that day
 It's funny that they weep today.        1173  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७३</summary>
+
+1173
+नयनों ने देखा स्वयं, आतुरता के साथ ।  
+अब जो रोते हैं स्वयं, है हास्यास्पद बात ॥
+  </details>
+
 <details><summary>मूलम् - ११७३</summary>
 
 कदुमॆनत् तानोक्कित् तामे कलुऴुम्  
@@ -170,6 +191,13 @@ uyvilnōy eṉkaṇ niṟuttu.
 These eyes left me to endless grief  
 Crying adry without relief.        1174  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११७४</summary>
+
+1174
+मुझमें रुज उत्पन्न कर, असाध्य औ’ अनिवार्य ।  
+सूख गये, ना कर सके, दृग रोने का कार्य ॥
+  </details>
 
 <details><summary>मूलम् - ११७४</summary>
 
@@ -213,6 +241,13 @@ My eyes causing lust more than sea
 Suffer that torture sleeplessly.        1175  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७५</summary>
+
+1175
+काम-रोग उत्पन्न कर, सागर से विस्तार ।  
+नींद न पा मेरे नयन, सहते दुःख अपार ॥
+  </details>
+
 <details><summary>मूलम् - ११७५</summary>
 
 पडलाट्रा पैदल् उऴक्कुम् कडलाट्राक्  
@@ -255,6 +290,13 @@ Lo! eyes that wrought this love-sickness
 Are victims of the same themselves.        1176  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७६</summary>
+
+1176
+ओहो यह अति सुखद है, मुझको दुख में डाल ।  
+अब ये दृग सहते स्वयं, यह दुख, हो बेहाल ॥
+  </details>
+
 <details><summary>मूलम् - ११७६</summary>
 
 ओऒ इनिदे ऎमक्किन्नोय् सॆय्दगण्  
@@ -296,6 +338,13 @@ vēṇṭi avarkaṇṭa kaṇ.
 Let tears dry up pining pining  
 In eyes that eyed him longing longing.        1177  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११७७</summary>
+
+1177
+दिल पसीज, थे देखते, सदा उन्हें दृग सक्त ।  
+सूख जाय दृग-स्रोत अब, सह सह पीड़ा सख्त ॥
+  </details>
 
 <details><summary>मूलम् - ११७७</summary>
 
@@ -344,6 +393,13 @@ Ther's he whose lips loved, not his heart
 Yet my eyes pine seeing him not.        1178  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७८</summary>
+
+1178
+वचन मात्र से प्रेम कर, दिल से किया न प्रेम ।  
+उस जन को देखे बिना, नेत्रों को नहिं क्षेम ॥
+  </details>
+
 <details><summary>मूलम् - ११७८</summary>
 
 पेणादु पॆट्टार् उळर्मन्नो मट्रवर्क्  
@@ -391,6 +447,13 @@ He comes; no sleep; he goes; no sleep
 This is the fate of eyes that weep.        1179  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११७९</summary>
+
+1179
+ना आवें तो नींद नहिं, आवें, नींद न आय ।  
+दोनों हालों में नयन, सहते हैं अति हाय ॥
+  </details>
+
 <details><summary>मूलम् - ११७९</summary>
 
 वाराक्काल् तुञ्जा वरिन्दुञ्जा आयिडै  
@@ -432,6 +495,13 @@ aṟaipaṟai kaṇṇār akattu.
 Like drum beats eyes declare my heart;  
 From people who could hide his secret?        1180  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११८०</summary>
+
+1180
+मेरे सम जिनके नयन, पिटते ढोल समान ।  
+उससे पुरजन को नहीं, कठिन भेद का ज्ञान ॥
+  </details>
 
 <details><summary>मूलम् - ११८०</summary>
 

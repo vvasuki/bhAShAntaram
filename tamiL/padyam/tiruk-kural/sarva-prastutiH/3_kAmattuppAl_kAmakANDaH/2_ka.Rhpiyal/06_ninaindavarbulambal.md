@@ -45,6 +45,13 @@ Love is sweeter than wine; for vast
 Is its delight at very thought.        1201  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२०१</summary>
+
+1201
+स्मरण मात्र से दे सके, अक्षय परमानन्द ।  
+सो तो मधु से काम है, बढ़ कर मधुर अमन्द ॥
+  </details>
+
 <details><summary>मूलम् - १२०१</summary>
 
 उळ्ळिनुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्  
@@ -86,6 +93,13 @@ niṉaippa varuvatoṉṟu il.
 Pains are off at the lover's thought  
 In all aspects this love is sweet.        1202  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२०२</summary>
+
+1202
+दुख-नाशक उसका स्मरण, जिससे है निज प्रेम ।  
+जो सुखदायक ही रहा, किसी हाल में प्रेम ॥
+  </details>
 
 <details><summary>मूलम् - १२०२</summary>
 
@@ -129,6 +143,13 @@ To sneeze I tried hence but could not
 Me he tried to think but did not.        1203  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२०३</summary>
+
+1203
+छींका ही मैं चाहती, छींक गयी दब साथ ।  
+स्मरण किया ही चाहते, भूल गये क्या नाथ ॥
+  </details>
+
 <details><summary>मूलम् - १२०३</summary>
 
 निनैप्पवर् पोण्ड्रु निनैयार्गॊल् तुम्मल्  
@@ -170,6 +191,13 @@ Do I also likewise abide in his?
 Have I a place within his heart?  
 Ah from mine he will never depart.        1204  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२०४</summary>
+
+1204
+उनके दिल में क्या रहा, मेरा भी आवास ।  
+मेरे दिल में, ओह, है, उनका सदा निवास ॥
+  </details>
 
 <details><summary>मूलम् - १२०४</summary>
 
@@ -213,6 +241,13 @@ Shame! My heart often he enters
 Banning me entry into his.        1205  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२०५</summary>
+
+1205
+निज दिल से मुझको हटा, कर पहरे का साज़ ।  
+मेरे दिल आते सदा, आती क्या नहिं लाज ॥
+  </details>
+
 <details><summary>मूलम् - १२०५</summary>
 
 तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्  
@@ -254,6 +289,13 @@ uṟṟanāḷ uḷḷa uḷēṉ.
 Beyond the thought of life with him  
 What else of life can I presume?        1206  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२०६</summary>
+
+1206
+मिलन-दिवस की, प्रिय सहित, स्मृति से हूँ सप्राण ।  
+उस स्मृति के बिन किस तरह, रह सकती सप्राण ॥
+  </details>
 
 <details><summary>मूलम् - १२०६</summary>
 
@@ -302,6 +344,13 @@ What will happen if I forget
 When his memory burns my heart?        1207  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२०७</summary>
+
+1207
+मुझे ज्ञात नहिं भूलना, हृदय जलाती याद ।  
+भूलूँगी मैं भी अगर, जाने क्या हो बाद ॥
+  </details>
+
 <details><summary>मूलम् - १२०७</summary>
 
 मऱप्पिन् ऎवनावन् मऱ्कॊल् मऱप्पऱियेन्  
@@ -349,6 +398,13 @@ I bring him to ceaseless memory
 He chides not; and thus honours me.        1208  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२०८</summary>
+
+1208
+कितनी ही स्मृति मैं करूँ, होते नहिं नाराज़ ।  
+करते हैं प्रिय नाथ तो, इतना बड़ा लिहाज़ ॥
+  </details>
+
 <details><summary>मूलम् - १२०८</summary>
 
 ऎनैत्तु निनैप्पिनुम् कायार् अनैत्तण्ड्रो  
@@ -391,6 +447,13 @@ Dear life ebbs away by thought
 Of him who said we are one heart.        1209  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १२०९</summary>
+
+1209
+‘भिन्न न हम’, जिसने कहा, उसकी निर्दय बान ।  
+सोच सोच चलते बने, मेरे ये प्रिय प्राण ॥
+  </details>
+
 <details><summary>मूलम् - १२०९</summary>
 
 विळियुमॆन् इन्नुयिर् वेऱल्लम् ऎन्बार्  
@@ -432,6 +495,13 @@ paṭāati vāḻi mati.
 Hail moon! Set not so that I find  
 Him who left me but not my mind.        1210  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १२१०</summary>
+
+1210
+बिछुड़ गये संबद्ध रह, जो मेरे प्रिय कांत ।  
+जब तक देख न लें नयन, डूब न, जय जय चांद ॥
+  </details>
 
 <details><summary>मूलम् - १२१०</summary>
 

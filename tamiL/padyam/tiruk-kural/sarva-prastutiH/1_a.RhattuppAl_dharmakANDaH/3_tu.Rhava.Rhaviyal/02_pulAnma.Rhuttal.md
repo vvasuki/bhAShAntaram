@@ -40,6 +40,13 @@ What graciousness can one command
 who feeds his flesh by flesh gourmand.        251  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २५१</summary>
+
+251
+माँस-वृद्धि अपनी समझ, जो खाता पर माँस ।  
+कैसे दयार्द्रता-सुगुण, रहता उसके पास ॥
+  </details>
+
 <details><summary>मूलम् - २५१</summary>
 
 तन्नून् पॆरुक्कऱ्कुत् तान्बिऱिदु ऊनुण्बान्  
@@ -81,6 +88,13 @@ So too compassion with a meat eater.
 The thriftless have no property  
 And flesh-eaters have no pity.        252  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २५२</summary>
+
+252
+धन का भोग उन्हें नहीं, जो न करेंगे क्षेम ।  
+माँसाहारी को नहीं, दयालुता का नेम ॥
+  </details>
 
 <details><summary>मूलम् - २५२</summary>
 
@@ -129,6 +143,13 @@ Who wields a steel is steel-hearted
 Who tastes body is hard-hearted.        253  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २५३</summary>
+
+253
+ज्यों सशस्त्र का मन कभी, होता नहीं दयाल ।  
+रुच रुच खावे माँस जो, उसके मन का हाल ॥
+  </details>
+
 <details><summary>मूलम् - २५३</summary>
 
 पडैगॊण्डार् नॆञ्जम्बोल् नन्नूक्कादु ऒण्ड्रन्  
@@ -171,6 +192,13 @@ If merciless it is to kill,
 To kill and eat is disgraceful.        254  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २५४</summary>
+
+254
+निर्दयता है जीववध. दया अहिंसा धर्म ।  
+करना माँसाहार है, धर्म हीन दुष्कर्म ॥
+  </details>
+
 <details><summary>मूलम् - २५४</summary>
 
 रुळल्लदु यादॆनिन् कॊल्लामै कोऱल्  
@@ -212,6 +240,13 @@ aṇṇāttal ceyyātu, aḷaṟu.
 Off with flesh; a life you save  
 The eater hell's mouth shall not waive!        255  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २५५</summary>
+
+255
+रक्षण है सब जीव का, वर्जन करना माँस ।  
+बचे नरक से वह नहीं, जो खाता है माँस ॥
+  </details>
 
 <details><summary>मूलम् - २५५</summary>
 
@@ -260,6 +295,13 @@ None would kill and sell the flesh
 For eating it if they don't wish.        256  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २५६</summary>
+
+256
+वध न करेंगे लोग यदि, करने को आहार ।  
+आमिष लावेगा नहीं, कोई विक्रयकार ॥
+  </details>
+
 <details><summary>मूलम् - २५६</summary>
 
 तिनऱ्पॊरुट्टाल् कॊल्लादु उलगॆनिन् यारुम्  
@@ -301,6 +343,13 @@ puṇ; atu uṇarvārp peṟiṉ.
 From eating flesh men must abstain  
 If they but feel the being's pain.        257  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २५७</summary>
+
+257
+आमिष तो इक जन्तु का, व्रण है यों सुविचार ।  
+यदि होगा तो चाहिए, तजना माँसाहार ॥
+  </details>
 
 <details><summary>मूलम् - २५७</summary>
 
@@ -344,6 +393,13 @@ Whose mind from illusion is freed
 Refuse on lifeless flesh to feed.        258  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २५८</summary>
+
+258
+जीव-हनन से छिन्न जो, मृत शरीर है माँस ।  
+दोषरहित तत्वज्ञ तो, खायेंगे नहिं माँस ॥
+  </details>
+
 <details><summary>मूलम् - २५८</summary>
 
 सॆयिरिन् तलैप्पिरिन्द काट्चियार् उण्णार्  
@@ -385,6 +441,13 @@ uyir cekuttu uṇṇāmai naṉṟu.
 Not to-kill-and-eat, truly  
 Excels thousand pourings of ghee!        259  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २५९</summary>
+
+259
+यज्ञ हज़रों क्या किया, दे दे हवन यथेष्ट ।  
+किसी जीव को हनन कर, माँस न खाना श्रेष्ठ ॥
+  </details>
 
 <details><summary>मूलम् - २५९</summary>
 
@@ -436,6 +499,13 @@ ellā uyirum toḻum.
 All lives shall lift their palms to him  
 Who eats not flesh nor kills with whim.        260  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २६०</summary>
+
+260
+जो न करेगा जीव-वध, और न माँसाहार ।  
+हाथ जोड़ सारा जगत, करता उसे जुहार ॥
+  </details>
 
 <details><summary>मूलम् - २६०</summary>
 

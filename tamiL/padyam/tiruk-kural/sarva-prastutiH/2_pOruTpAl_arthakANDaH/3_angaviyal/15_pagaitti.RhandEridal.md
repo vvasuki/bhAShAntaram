@@ -46,6 +46,13 @@ Let not one even as a sport
 The ill-natured enmity court.        871  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८७१</summary>
+
+871
+रिपुता नामक है वही, असभ्यता-अवगाह ।  
+हँसी-मज़े में भी मनुज, उसकी करे न चाह ॥
+  </details>
+
 <details><summary>मूलम् - ८७१</summary>
 
 पगैऎन्नुम् पण्बि लदनै ऒरुवन्  
@@ -87,6 +94,13 @@ collēr uḻavar pakai.
 Incur the hate of bow-ploughers  
 But not the hate of word-ploughers.        872  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८७२</summary>
+
+872
+धनु-हल-धारी कृषक से, करो भले ही वैर ।  
+वाणी-हल-धर कृषक से, करना छोड़ो वैर ॥
+  </details>
 
 <details><summary>मूलम् - ८७२</summary>
 
@@ -130,6 +144,13 @@ Forlorn, who rouses many foes
 The worst insanity betrays.        873  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८७३</summary>
+
+873
+एकाकी रह जो करे, बहुत जनों से वैर ।  
+पागल से बढ़ कर रहा, बुद्धिहीन वह, खैर ॥
+  </details>
+
 <details><summary>मूलम् - ८७३</summary>
 
 एमुऱ्ऱवरिनुम् एऴै तमियनाय्प्  
@@ -171,6 +192,13 @@ takaimaikkaṇ taṅkiṟṟu ulaku.
 This world goes safely in his grace  
 Whose heart makes friends even of foes.        874  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८७४</summary>
+
+874
+मित्र बना कर शत्रु को, जो करता व्यवहार ।  
+महिमा पर उस सभ्य की, टिकता है संसार ॥
+  </details>
 
 <details><summary>मूलम् - ८७४</summary>
 
@@ -214,6 +242,13 @@ Alone, if two foes you oppose
 Make one of them your ally close.        875  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८७५</summary>
+
+875
+अपना तो साथी नहीं, रिपु हैं दो, खुद एक ।  
+तो उनमें से ले बना, उचित सहायक एक ॥
+  </details>
+
 <details><summary>मूलम् - ८७५</summary>
 
 तन्दुणै इण्ड्राल् पगैयिरण्डाल् तान्ऒरुवन्  
@@ -255,6 +290,13 @@ tēṟāṉ pakāaṉ viṭal.
 Trust or distrust; during distress  
 Keep aloof; don't mix with foes.        876  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८७६</summary>
+
+876
+पूर्व-ज्ञात हो परख कर, अथवा हा अज्ञात् ।  
+नाश-काल में छोड़ दो, शत्रु-मित्रता बात ॥
+  </details>
 
 <details><summary>मूलम् - ८७६</summary>
 
@@ -298,6 +340,13 @@ To those who know not, tell not your pain
 Nor your weakness to foes explain.        877  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८७७</summary>
+
+877
+दुःख न कह उस मित्र से, यदि खुद उसे न ज्ञात ।  
+प्रकट न करना शत्रु से, कमज़ोरी की बात ॥
+  </details>
+
 <details><summary>मूलम् - ८७७</summary>
 
 नोवऱ्क नॊन्ददु अऱियार्क्कु मेवऱ्क  
@@ -339,6 +388,13 @@ pakaivarkaṇ paṭṭa cerukku.
 Know how and act and defend well  
 The pride of enemies shall fall.        878  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८७८</summary>
+
+878
+ढ़ंग समझ कर कर्म का, निज बल को कर चंड ।  
+अपनी रक्षा यदि करे, रिपु का मिटे घमंड ॥
+  </details>
 
 <details><summary>मूलम् - ८७८</summary>
 
@@ -382,6 +438,13 @@ Cut off thorn-trees when young they are;
 Grown hard, they cut your hands beware.        879  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८७९</summary>
+
+879
+जब पौधा है काटना, जो तरु कांटेदार ।  
+बढ़ने पर घायल करे, छेदक का कर दार ॥
+  </details>
+
 <details><summary>मूलम् - ८७९</summary>
 
 इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्  
@@ -423,6 +486,13 @@ cemmal citaikkalā tār.
 To breathe on earth they are not fit  
 Defying foes who don't defeat.        880  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८८०</summary>
+
+880
+जो रिपुओं के दर्प का, कर सकते नहिं नाश ।  
+निश्चय रिपु के फूँकते, होता उनका नाश ॥
+  </details>
 
 <details><summary>मूलम् - ८८०</summary>
 

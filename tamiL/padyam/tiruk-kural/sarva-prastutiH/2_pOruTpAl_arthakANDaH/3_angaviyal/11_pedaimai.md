@@ -41,6 +41,13 @@ This is folly's prominent vein
 To favour loss and forego gain.        831  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८३१</summary>
+
+831
+किसको कहना मूढ़ता, जो है दारुण दाग ।  
+हानिप्रद को ग्रहण कर, लाभप्रद का त्याग ॥
+  </details>
+
 <details><summary>मूलम् - ८३१</summary>
 
 पेदैमै ऎन्बदॊण्ड्रु यादॆनिन् एदङ्गॊण्डु  
@@ -88,6 +95,13 @@ Folly of follies is to lead
 A lewd and lawless life so bad.        832  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८३२</summary>
+
+832
+परम मूढ़ता मूढ़ में, जानो उसे प्रसिद्ध ।  
+उन सब में आसक्ति हो, जो हैं कर्म निषिद्ध ॥
+  </details>
+
 <details><summary>मूलम् - ८३२</summary>
 
 पेदैमैयुळ् ऎल्लाम् पेदैमै कादन्मै  
@@ -129,6 +143,13 @@ pēṇāmai pētai toḻil.
 Shameless, aimless, callous, listless  
 Such are the marks of foolishness.        833  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८३३</summary>
+
+833
+निर्दयता, निर्लज्जता, निर्विचार का भाव ।  
+पोषण भी नहिं पोष्य का, ये हैं मूढ़ स्वभाव ॥
+  </details>
 
 <details><summary>मूलम् - ८३३</summary>
 
@@ -172,6 +193,13 @@ No fool equals the fool who learns
 Knows, teaches, but self-control spurns.        834  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८३४</summary>
+
+834
+शास्त्रों का कर अध्यपन, अर्थ जानते गूढ़ ।  
+शिक्षक भी, पर नहिं वशी, उनसे बडा न मूढ़ ॥
+  </details>
+
 <details><summary>मूलम् - ८३४</summary>
 
 ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् तानडङ्गाप्  
@@ -213,6 +241,13 @@ tāṉpukku aḻuntum aḷaṟu.
 The fool suffers seven fold hells  
 In single birth of hellish ills.        835  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८३५</summary>
+
+835
+सात जन्म जो यातना, मिले नरक के गर्त्त ।  
+मूढ़ एक ही में बना, लेने में सुसमर्थ ॥
+  </details>
 
 <details><summary>मूलम् - ८३५</summary>
 
@@ -256,6 +291,13 @@ A know-nothing fool daring a deed
 Not only fails but feels fettered.        836  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८३६</summary>
+
+836
+प्रविधि-ज्ञान बिन मूढ़ यदि, शुरू करेगा काम ।  
+वह पहनेगा हथकड़ी, बिगड़ेगा ही काम ॥
+  </details>
+
 <details><summary>मूलम् - ८३६</summary>
 
 पॊय्बडुम् ऒण्ड्रो पुनैबूणुम् कैयऱियाप्  
@@ -297,6 +339,13 @@ peruñcelvam uṟṟak kaṭai.
 Strangers feast and kinsmen fast  
 When fools mishandle fortunes vast.        837  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८३७</summary>
+
+837
+जम जाये तो प्रचुर धन, अगर मूढ़ के पास ।  
+भोग करेंगे अन्य जन, परिजन तो उपवास ॥
+  </details>
 
 <details><summary>मूलम् - ८३७</summary>
 
@@ -340,6 +389,13 @@ Fools possessing something on hand
 Like dazed and drunken stupids stand.        838  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८३८</summary>
+
+838
+लगना है संपत्ति का, एक मूढ़ के हस्त ।  
+पागल का होना यथा, ताड़ी पी कर मस्त ॥
+  </details>
+
 <details><summary>मूलम् - ८३८</summary>
 
 मैयल् ऒरुवन् कळित्तट्राल् पेदैदन्  
@@ -381,6 +437,13 @@ pīḻai taruvatoṉṟu il.
 Friendship with fools is highly sweet  
 For without a groan we part.        839  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८३९</summary>
+
+839
+पीड़ा तो देती नहीं, जब होती है भंग ।  
+सो मूढ़ों की मित्रता, है अति मधुर प्रसंग ॥
+  </details>
 
 <details><summary>मूलम् - ८३९</summary>
 
@@ -428,6 +491,13 @@ kuḻāattup pētai pukal.
 Entrance of fools where Savants meet  
 Looks like couch trod by unclean feet.        840  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८४०</summary>
+
+840
+सुधी-सभा में मूढ़ का, घुसना है यों, ख़ैर ।  
+ज्यों रखना धोये बिना, स्वच्छ सेज पर पैर ॥
+  </details>
 
 <details><summary>मूलम् - ८४०</summary>
 

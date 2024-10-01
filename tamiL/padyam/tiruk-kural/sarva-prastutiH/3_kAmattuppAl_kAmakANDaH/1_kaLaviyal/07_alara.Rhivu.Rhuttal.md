@@ -40,6 +40,13 @@ Rumour sustains my existence
 Good luck! many know not its sense.        1141  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११४१</summary>
+
+1141
+प्रचलन हुआ प्रवाद का, सो टिकता प्रिय प्राण ।  
+इसका मेरे भाग्य से, लोगों को नहिं ज्ञान ॥
+  </details>
+
 <details><summary>मूलम् - ११४१</summary>
 
 अलरॆऴ आरुयिर् निऱ्कुम् अदनैप्  
@@ -81,6 +88,13 @@ alaremakku īntatuiv vūr.
 Rumour gives me the flower-like belle  
 People know not what rare angel.        1142  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११४२</summary>
+
+1142
+सुमन-नयन-युत बाल की, दुर्लभता नहिं जान ।  
+इस पुर ने अफवाह तो, की है मुझे प्रदान ॥
+  </details>
 
 <details><summary>मूलम् - ११४२</summary>
 
@@ -124,6 +138,13 @@ I profit by this public rumour
 Having not, I feel, I have her.        1143  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११४३</summary>
+
+1143
+क्या मेरे लायक नहीं, पुरजन-ज्ञात प्रवाह ।  
+प्राप्त किये बिन मिलन तो, हुई प्राप्त सी बात ॥
+  </details>
+
 <details><summary>मूलम् - ११४३</summary>
 
 उऱाअदो ऊरऱिन्द कॆळवै अदनैप्  
@@ -166,6 +187,13 @@ Rumour inflames the love I seek
 Or else it becomes bleak and weak.        1144  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११४४</summary>
+
+1144
+पुरजन के अपवाद से, बढ़ जाता है काम ।  
+घट जायेगा अन्यथा, खो कर निज गुण-नाम ॥
+  </details>
+
 <details><summary>मूलम् - ११४४</summary>
 
 कव्वैयाल् कव्विदु कामम् अदुविण्ड्रेल्  
@@ -207,6 +235,13 @@ veḷippaṭun tōṟum iṉitu.
 Drink delights as liquor flows  
 Love delights as rumour grows.        1145  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११४५</summary>
+
+1145
+होते होते मस्त ज्यों, प्रिय लगता मधु-पान ।  
+हो हो प्रकट प्रवाद से, मधुर काम की बान ॥
+  </details>
 
 <details><summary>मूलम् - ११४५</summary>
 
@@ -255,6 +290,13 @@ One lasting day we met alone
 Lasting rumours eclipse our moon.        1146  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११४६</summary>
+
+1146
+प्रिय से केवल एक दिन, हुई मिलन की बात ।  
+लेकिन चन्द्रग्रहण सम, व्यापक हुआ प्रवाद ॥
+  </details>
+
 <details><summary>मूलम् - ११४६</summary>
 
 कण्डदु मन्नुम् ऒरुनाळ् अलर्मन्नुम्  
@@ -296,6 +338,13 @@ nīrāka nīḷumin nōy.
 Scandal manures; mother's refrain  
 Waters the growth of this love-pain.        1147  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११४७</summary>
+
+1147
+पुरजन-निंदा खाद है, माँ का कटु वच नीर ।  
+इनसे पोषित रोग यह, बढ़ता रहा अधीर ॥
+  </details>
 
 <details><summary>मूलम् - ११४७</summary>
 
@@ -339,6 +388,13 @@ To quench the lust by rumour free
 Is to quench fire by pouring ghee.        1148  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११४८</summary>
+
+1148
+काम-शमन की सोचना, कर अपवाद प्रचार ।  
+अग्नि-शमन घी डाल कर, करना सदृश विचार ॥
+  </details>
+
 <details><summary>मूलम् - ११४८</summary>
 
 नॆय्याल् ऎरिनुदुप्पेम् ऎण्ड्रट्राल् कॆळवैयाल्  
@@ -381,6 +437,13 @@ Who said "fear not" flared up rumour
 Why then should I blush this clamour?        1149  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११४९</summary>
+
+1149
+अपवादें से क्यों डरूँ, जब कर अभय प्रदान ।  
+सब को लज्जित कर गये, छोड़ मुझे प्रिय प्राण ॥
+  </details>
+
 <details><summary>मूलम् - ११४९</summary>
 
 अलर्नाण ऒल्वदो अञ्जलोम्बु ऎण्ड्रार्  
@@ -422,6 +485,13 @@ kauvai eṭukkumiv vūr.
 Town raising this cry, I desire  
 Consent is easy from my sire.        1150  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११५०</summary>
+
+1150
+निज वांछित अपवाद का, पुर कर रहा प्रचार ।  
+चाहूँ तो प्रिय नाथ भी, कर देंगे उपकार ॥
+  </details>
 
 <details><summary>मूलम् - ११५०</summary>
 

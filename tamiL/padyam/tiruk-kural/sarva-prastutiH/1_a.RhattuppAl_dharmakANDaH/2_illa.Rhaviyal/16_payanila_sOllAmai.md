@@ -40,6 +40,13 @@ With silly words who insults all
 Is held in contempt as banal.         191  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १९१</summary>
+
+191
+बहु जन सुन करते घृणा, यों जो करे प्रलाप ।  
+सर्व जनों का वह बने, उपहासास्पद आप ॥
+  </details>
+
 <details><summary>मूलम् - १९१</summary>
 
 पल्लार् मुनियप् पयनिल सॊल्लुवान्  
@@ -81,6 +88,13 @@ naṭṭārkaṇ ceytaliṉ tītu.
 Vain talk before many is worse  
 Than doing to friends deeds adverse.         192  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १९२</summary>
+
+192
+बुद्धिमान जनवृन्द के,  सम्मुख किया प्रलाप ।  
+अप्रिय करनी मित्र प्रति, करने से अति पाप ॥
+  </details>
 
 <details><summary>मूलम् - १९२</summary>
 
@@ -124,6 +138,13 @@ The babbler's hasty lips proclaim
 That "good-for-nothing" is his name.         193  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १९३</summary>
+
+193
+लम्बी-चौड़ी बात जो, होती अर्थ-विहीन ।  
+घोषित करती है वही, वक्ता नीति-विहीन ॥
+  </details>
+
 <details><summary>मूलम् - १९३</summary>
 
 नयनिलन् ऎन्बदु सॊल्लुम् पयनिल  
@@ -165,6 +186,13 @@ paṇpu il col pallārakattu.
 Vain words before an assembly  
 Will make all gains and goodness flee.         194  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १९४</summary>
+
+194
+संस्कृत नहीं, निरर्थ हैं, सभा मध्य हैं उक्त ।  
+करते ऐसे शब्द हैं, सुगुण व नीति-वियुक्त ॥
+  </details>
 
 <details><summary>मूलम् - १९४</summary>
 
@@ -208,6 +236,13 @@ Glory and grace will go away
 When savants silly nonsense say.         195  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १९५</summary>
+
+195
+निब्फल शब्द अगर कहे, कोई चरित्रवान ।  
+हो जावे उससे अलग, कीर्ति तथा सम्मान ॥
+  </details>
+
 <details><summary>मूलम् - १९५</summary>
 
 सीर्मै सिऱप्पॊडु नीङ्गुम् पयनिल  
@@ -249,6 +284,13 @@ makkaṭ pataṭi eṉal!.
 Call him a human chaff who prides  
 Himself in weightless idle words.         196  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १९६</summary>
+
+196
+जिसको निब्फल शब्द में, रहती है आसक्ति ।  
+कह ना तू उसको मनुज, कहना थोथा व्यक्ति ॥
+  </details>
 
 <details><summary>मूलम् - १९६</summary>
 
@@ -292,6 +334,13 @@ Let not men of worth vainly quack
 Even if they would roughly speak.         197  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १९७</summary>
+
+197
+कहें भले ही साधुजन, कहीं अनय के शब्द ।  
+मगर इसी में है भला, कहें न निब्फल शब्द ॥
+  </details>
+
 <details><summary>मूलम् - १९७</summary>
 
 नयनिल सॊल्लिनुञ् जॊल्लुग साण्ड्रोर्  
@@ -334,6 +383,13 @@ The wise who weigh the worth refrain
 From words that have no grain and brain.         198  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - १९८</summary>
+
+198
+उत्तम फल की परख का, जिनमें होगा ज्ञान ।  
+महा प्रयोजन रहित वच, बोलेंगे नहिं जान ॥
+  </details>
+
 <details><summary>मूलम् - १९८</summary>
 
 अरुम्बयन् आयुम् अऱिविनार् सॊल्लार्  
@@ -375,6 +431,13 @@ mācu aṟu kāṭciyavar.
 The wise of spotless self-vision  
 Slip not to silly words-mention.         199  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - १९९</summary>
+
+199
+तत्वज्ञानी पुरुष जो, माया-भ्रम से मुक्त ।  
+विस्मृति से भी ना कहें, वच जो अर्थ-वियुक्त ॥
+  </details>
 
 <details><summary>मूलम् - १९९</summary>
 
@@ -426,6 +489,13 @@ collil payaṉ ilāc col!.
 To purpose speak the fruitful word  
 And never indulge in useless load.         200  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २००</summary>
+
+200
+कहना ऐसा शब्द ही, जिससे होवे लाभ ।  
+कहना मत ऐसा वचन, जिससे कुछ नहिं लाभ ॥
+  </details>
 
 <details><summary>मूलम् - २००</summary>
 

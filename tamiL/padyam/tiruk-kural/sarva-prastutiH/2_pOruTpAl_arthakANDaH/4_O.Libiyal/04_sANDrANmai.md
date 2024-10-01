@@ -41,6 +41,13 @@ All goodness is duty to them
 Who are dutiful and sublime.        981  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९८१</summary>
+
+981
+जो सब गुण हैं पालते, समझ योग्य कर्तव्य ।  
+उनकों अच्छे कार्य सब, सहज बने कर्तव्य ॥
+  </details>
+
 <details><summary>मूलम् - ९८१</summary>
 
 कडन्ऎन्ब नल्लवै ऎल्लाम् कडन्अऱिन्दु  
@@ -83,6 +90,13 @@ Good in the great is character
 Than that there is nothing better.        982  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९८२</summary>
+
+982
+गुण-श्रेष्ठता-लाभ ही, महापुरुष को श्रेय ।  
+अन्य लाभ की प्राप्ति से, श्रेय न कुछ भी ज्ञेय ॥
+  </details>
+
 <details><summary>मूलम् - ९८२</summary>
 
 कुणनलम् साण्ड्रोर् नलने पिऱनलम्  
@@ -124,6 +138,13 @@ aintucālpu ūṉṟiya tūṇ.
 Love, truth, regard, modesty, grace  
 These five are virtue's resting place.        983  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९८३</summary>
+
+983
+लोकोपकारिता, दया, प्रेम हया औ’ साँच ।  
+सुगुणालय के थामते, खंभे हैं ये पाँच ॥
+  </details>
 
 <details><summary>मूलम् - ९८३</summary>
 
@@ -172,6 +193,13 @@ Not to kill is penance pure
 Not to slander virtue sure.        984  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९८४</summary>
+
+984
+वध-निषेध-व्रत-लाभ ही, तप को रहा प्रधान ।  
+पर-निंदा वर्जन रही, गुणपूर्णता महान ॥
+  </details>
+
 <details><summary>मूलम् - ९८४</summary>
 
 कॊल्ला नलत्तदु नोन्मै पिऱर्दीमै  
@@ -214,6 +242,13 @@ Humility is valour's strength
 A force that averts foes at length.        985  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९८५</summary>
+
+985
+विनयशीलता जो रही, बलवानों का सार ।  
+है रिपु-रिपुता नाश-हित, सज्जन का हथियार ॥
+  </details>
+
 <details><summary>मूलम् - ९८५</summary>
 
 आट्रुवार् आट्रल् पणिदल् अदुसाण्ड्रोर्  
@@ -255,6 +290,13 @@ tulaiyallār kaṇṇum koḷal.
 To bear repulse e'en from the mean  
 Is the touch-stone of worthy men.        986  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९८६</summary>
+
+986
+कौन कसौटी जो परख, जाने गुण-आगार ।  
+है वह गुण जो मान ले, नीचों से भी हार ॥
+  </details>
 
 <details><summary>मूलम् - ९८६</summary>
 
@@ -303,6 +345,13 @@ Of perfection what is the gain
 If it returns not joy for pain?        987  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९८७</summary>
+
+987
+अपकारी को भी अगर, किया नहीं उपकार ।  
+होता क्या उपयोग है, हो कर गुण-आगार ॥
+  </details>
+
 <details><summary>मूलम् - ९८७</summary>
 
 इन्नासॆय् तार्क्कुम् इनियवे सॆय्याक्काल्  
@@ -344,6 +393,13 @@ tiṇmaiuṇ ṭākap peṟiṉ.
 No shame there is in poverty  
 To one strong in good quality.        988  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९८८</summary>
+
+988
+निर्धनता नर के लिये, होता नहिं अपमान ।  
+यदि बल है जिसको कहें, सर्व गुणों की खान ॥
+  </details>
 
 <details><summary>मूलम् - ९८८</summary>
 
@@ -392,6 +448,13 @@ Aeons may change but not the seer
 Who is a sea of virtue pure.        989  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ९८९</summary>
+
+989
+गुण-सागर के कूल सम, जो मर्यादा-पाल ।  
+मर्यादा छोड़े नहीं, यद्यपि युगान्त-काल ॥
+  </details>
+
 <details><summary>मूलम् - ९८९</summary>
 
 ऊऴि पॆयरिनुम् ताम्बॆयरार् साण्ड्राण्मैक्कु  
@@ -433,6 +496,13 @@ tāṅkātu maṉṉō poṟai.
 The world will not more bear its weight  
 If from high virtue fall the great.        990  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ९९०</summary>
+
+990
+घटता है गुण-पूर्ण का, यदि गुण का आगार ।  
+तो विस्तृत संसार भी, ढो सकता नहिं भार ॥
+  </details>
 
 <details><summary>मूलम् - ९९०</summary>
 

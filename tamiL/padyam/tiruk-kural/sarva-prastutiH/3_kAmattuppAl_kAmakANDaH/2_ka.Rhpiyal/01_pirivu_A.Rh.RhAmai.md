@@ -45,6 +45,13 @@ Tell me if you but do not leave,
 Your quick return to those who live.        1151  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११५१</summary>
+
+1151
+अगर बिछुड़ जाते नहीं, मुझे जताओ नाथ ।  
+जो जियें उनसे कहो, झट फिरने की बात ॥
+  </details>
+
 <details><summary>मूलम् - ११५१</summary>
 
 सॆल्लामै उण्डेल् ऎनक्कुरै मट्रुनिन्  
@@ -86,6 +93,13 @@ puṉkaṇ uṭaittāl puṇarvu.
 His sight itself was pleasing, near  
 Embrace pains now by partings fear.        1152  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११५२</summary>
+
+1152
+पहले उनकी दृष्टि तो, देती थी सुख-भोग ।  
+विरह-भीति से दुखद है, अब उनका संयोग ॥
+  </details>
 
 <details><summary>मूलम् - ११५२</summary>
 
@@ -129,6 +143,13 @@ On whom shall I lay my trust hence
 While parting lurks in knowing ones?        1153  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११५३</summary>
+
+1153
+विज्ञ नाथ का भी कभी, संभव रहा प्रवास ।  
+सो करना संभव नहीं, इनपर भी विश्वास ॥
+  </details>
+
 <details><summary>मूलम् - ११५३</summary>
 
 अरिदरो तेट्रम् अऱिवुडैयार् कण्णुम्  
@@ -170,6 +191,13 @@ tēṟiyārkku uṇṭō tavaṟu.
 He parts whose love told me - fear not  
 Is my trust in him at default?        1154  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११५४</summary>
+
+1154
+छोड़ चलेंगे यदि सदय, कर निर्भय का घोष ।  
+जो दृढ़-वच विश्वासिनी, उसका है क्या दोष ॥
+  </details>
 
 <details><summary>मूलम् - ११५४</summary>
 
@@ -213,6 +241,13 @@ Stop his parting - my life to save
 Meeting is rare if he would leave.        1155  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११५५</summary>
+
+1155
+बचा सके तो यों बचा, जिससे चलें न नाथ ।  
+फिर मिलना संभव नहीं, छोड़ गये यदि साथ ॥
+  </details>
+
 <details><summary>मूलम् - ११५५</summary>
 
 ओम्बिन् अमैन्दार् पिरिवोम्बल् मट्रवर्  
@@ -254,6 +289,13 @@ nalkuvar eṉṉum nacai.
 His hardness says, "I leave you now"  
 Is there hope of his renewed love?        1156  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११५६</summary>
+
+1156
+विरह बताने तक हुए, इतने निठुर समर्थ ।  
+प्रेम करेंगे लौट कर, यह आशा है व्यर्थ ॥
+  </details>
 
 <details><summary>मूलम् - ११५६</summary>
 
@@ -302,6 +344,13 @@ Will not my gliding bangles' cry
 The parting of my lord betray?        1157  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११५७</summary>
+
+1157
+नायक ने जो छोड़ कर, गमन किया, वह बात ।  
+वलय कलाई से पतित, क्या न करें विख्यात ॥
+  </details>
+
 <details><summary>मूलम् - ११५७</summary>
 
 तुऱैवन् तुऱन्दमै तूट्रागॊल् मुन्गै  
@@ -343,6 +392,13 @@ iṉṉātu iṉiyārp pirivu.
 Bitter is life in friendless place;  
 Worse is parting love's embrace!        1158  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११५८</summary>
+
+1158
+उस पुर में रहना दुखद, जहाँ न साथिन लोग ।  
+उससे भी बढ़ कर दुखद, प्रिय से रहा वियोग ॥
+  </details>
 
 <details><summary>मूलम् - ११५८</summary>
 
@@ -391,6 +447,13 @@ Can fire that burns by touch burn like
 Parting of the hearts love-sick?        1159  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११५९</summary>
+
+1159
+छूने पर ही तो जला, सकती है, बस आग ।  
+काम-ज्वर सम वह जला, सकती क्या, कर त्याग ॥
+  </details>
+
 <details><summary>मूलम् - ११५९</summary>
 
 तॊडिऱ्चुडिन् अल्लदु कामनोय् पोल  
@@ -431,6 +494,13 @@ piṉiruntu vāḻvār palar.
 Many survive pangs of parting  
 Not I this sore so distressing.        1160  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११६०</summary>
+
+1160
+दुखद विरह को मानती, चिन्ता; व्याधि न नेक ।  
+विरह-वेदना सहन कर, जीवित रहीं अनेक ॥
+  </details>
 
 <details><summary>मूलम् - ११६०</summary>
 

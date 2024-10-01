@@ -40,6 +40,13 @@ What is Virtue? 'Tis not to kill
 For killing causes every ill.        321  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३२१</summary>
+
+321
+धर्म-कृत्य का अर्थ है, प्राणी-वध का त्याग ।  
+प्राणी-हनन दिलायगा, सर्व-पाप-फल-भाग ॥
+  </details>
+
 <details><summary>मूलम् - ३२१</summary>
 
 अऱविनै यादॆनिन् कॊल्लामै कोऱल्  
@@ -81,6 +88,13 @@ tokuttavaṟṟuḷ ellām talai.
 Share the food and serve all lives  
 This is the law of all the laws.        322  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३२२</summary>
+
+322
+खाना बाँट क्षुधार्त्त को, पालन कर सब जीव ।  
+शास्त्रकार मत में यही, उत्तम नीति अतीव ॥
+  </details>
 
 <details><summary>मूलम् - ३२२</summary>
 
@@ -124,6 +138,13 @@ Not to kill is unique good
 The next, not to utter falsehood.        323  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३२३</summary>
+
+323
+प्राणी-हनन निषेध का, अद्वितीय है स्थान ।  
+तदनन्तर ही श्रेष्ठ है, मिथ्या-वर्जन मान ॥
+  </details>
+
 <details><summary>मूलम् - ३२३</summary>
 
 ऒण्ड्राग नल्लदु कॊल्लामै मट्रदन्  
@@ -165,6 +186,13 @@ kollāmai cūḻum neṟi.
 What way is good? That we can say  
 The way away from heat to slay.        324  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३२४</summary>
+
+324
+लक्षण क्या उस पंथ का, जिसको कहें सुपंथ ।  
+जीव-हनन वर्जन करे, जो पथ वही सुपंथ ॥
+  </details>
 
 <details><summary>मूलम् - ३२४</summary>
 
@@ -208,6 +236,13 @@ Of saints who renounce birth-fearing
 The head is he who dreads killing.        325  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३२५</summary>
+
+325
+जीवन से भयभीत हो, जो होते हैं संत ।  
+वध-भय से वध त्याग दे, उनमें वही महंत ॥
+  </details>
+
 <details><summary>मूलम् - ३२५</summary>
 
 निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्  
@@ -249,6 +284,13 @@ cellātu, uyir uṇṇum kūṟṟu.
 Life-eating-Death shall spare the breath  
 Of him who no life puts to death.        326  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३२६</summary>
+
+326
+हाथ उठावेगा नहीं जीवन-भक्षक काल ।  
+उस जीवन पर, जो रहें, वध-निषेध-व्रत-पाल ॥
+  </details>
 
 <details><summary>मूलम् - ३२६</summary>
 
@@ -292,6 +334,13 @@ Kill not life that others cherish
 Even when your life must perish.        327  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३२७</summary>
+
+327
+प्राण-हानि अपनी हुई, तो भी हो निज धर्म ।  
+अन्यों के प्रिय प्राण का, करें न नाशक कर्म ॥
+  </details>
+
 <details><summary>मूलम् - ३२७</summary>
 
 तन्नुयिर् नीप्पिनुम् सॆय्यऱ्क तान्बिऱिदु  
@@ -334,6 +383,13 @@ The gain of slaughter is a vice
 Though deemed good in sacrifice.        328  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ३२८</summary>
+
+328
+वध-मूलक धन प्राप्ति से, यद्यपि हो अति प्रेय ।  
+संत महात्मा को वही, धन निकृष्ट है ज्ञेय ॥
+  </details>
+
 <details><summary>मूलम् - ३२८</summary>
 
 नण्ड्रागुम् आक्कम् पॆरिदॆनिनुम् साण्ड्रोर्क् कुक्  
@@ -375,6 +431,13 @@ puṉmai terivār akattu.
 Those who live by slaying are  
 Eaters of carrion bizarre!        329  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३२९</summary>
+
+329
+प्राणी-हत्या की जिन्हें, निकृष्टता का भान ।  
+उनके मत में वधिक जन, हैं चण्डाल मलान ॥
+  </details>
 
 <details><summary>मूलम् - ३२९</summary>
 
@@ -426,6 +489,13 @@ cellāt tī vāḻkkaiyavar'.
 The loathsome poor sickly and sore  
 Are killers stained by blood before        330  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३३०</summary>
+
+330
+जीवन नीच दरिद्र हो, जिसका रुग्ण शरीर ।  
+कहते बुथ, उसने किया, प्राण-वियुक्त शरीर ॥
+  </details>
 
 <details><summary>मूलम् - ३३०</summary>
 

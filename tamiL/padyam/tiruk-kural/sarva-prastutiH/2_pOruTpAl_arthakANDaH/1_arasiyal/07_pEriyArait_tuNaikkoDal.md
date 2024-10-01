@@ -37,6 +37,13 @@ Weigh their worth and friendship gain
 Of men of virtue and mature brain.        441  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४४१</summary>
+
+441
+ज्ञानवृद्ध जो बन गये, धर्म-सूक्ष्म को जान ।  
+मैत्री उनकी, ढ़ंग से, पा लो महत्व जान ॥
+  </details>
+
 <details><summary>मूलम् - ४४१</summary>
 
 अऱनऱिन्दु मूत्त अऱिवुडैयार् केण्मै  
@@ -75,6 +82,13 @@ And avert those to come. *
 Cherish the help of men of skill  
 Who ward and safe-guard you from ill.        442  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४४२</summary>
+
+442
+आगत दुःख निवार कर, भावी दुःख से त्राण ।  
+करते जो, अपना उन्हें, करके आदर-मान ॥
+  </details>
 
 <details><summary>मूलम् - ४४२</summary>
 
@@ -115,6 +129,13 @@ Honour and have the great your own
 Is rarest of the rare things known.        443  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४४३</summary>
+
+443
+दुर्लभ सब में है यही, दुर्लभ भाग्य महान ।  
+स्वजन बनाना मान से, जो हैं पुरुष महान ॥
+  </details>
+
 <details><summary>मूलम् - ४४३</summary>
 
 अरियवट्रु ळॆल्लाम् अरिदे पॆरियारैप्  
@@ -153,6 +174,13 @@ Associating with one greater than oneself. *
 To have betters as intimates  
 Power of all powers promotes.        444  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४४४</summary>
+
+444
+करना ऐसा आचरण, जिससे पुरुष महान ।  
+बन जावें आत्मीय जन, उत्तम बल यह जान ॥
+  </details>
 
 <details><summary>मूलम् - ४४४</summary>
 
@@ -193,6 +221,13 @@ Ministers are the monarch's eyes
 Round him should be the right and wise.        445  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४४५</summary>
+
+445
+आँख बना कर सचिव को, ढोता शासन-भार ।  
+सो नृप चुन ले सचिव को, करके सोच विचार ॥
+  </details>
+
 <details><summary>मूलम् - ४४५</summary>
 
 सूऴ्वार्गण् णाग ऒऴुगलान् मन्नवन्  
@@ -231,6 +266,13 @@ Who lives in fellowship with the worthy. *
 To move with worthy friends who knows  
 Has none to fear from frightful foes.        446  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४४६</summary>
+
+446
+योग्य जनों का बन्धु बन, करता जो व्यवहार ।  
+उसका कर सकते नहीं, शत्रु लोग अपकार ॥
+  </details>
 
 <details><summary>मूलम् - ४४६</summary>
 
@@ -276,6 +318,13 @@ No foe can foil his powers
 whose friends reprove him when he errs.        447  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४४७</summary>
+
+447
+दोष देख कर डाँटने जब हैं मित्र सुयोग्य ।  
+तब नृप का करने अहित, कौन शत्रु है योग्य ॥
+  </details>
+
 <details><summary>मूलम् - ४४७</summary>
 
 इडिक्कुन् दुणैयारै याळ्वरै यारे  
@@ -314,6 +363,13 @@ Needs no foes to come to grief. *
 The careless king whom none reproves  
 Ruins himself sans harmful foes.        448  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४४८</summary>
+
+448
+डांट-डपटते मित्र की, रक्षा बिन नरकंत ।  
+शत्रु बिना भी हानिकर, पा जाता है अंत ॥
+  </details>
 
 <details><summary>मूलम् - ४४८</summary>
 
@@ -354,6 +410,13 @@ No capital, no gain in trade
 No prop secure sans good comrade.        449  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ४४९</summary>
+
+449
+बिना मूलधन वणिक जन, पावेंगे नहिं लाभ ।  
+सहचर-आश्रय रहित नृप, करें न स्थिरता लाभ ॥
+  </details>
+
 <details><summary>मूलम् - ४४९</summary>
 
 मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्  
@@ -392,6 +455,13 @@ Being hated by countless foes.
 To give up good friends is ten times worse  
 Than being hated by countless foes.        450  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ४५०</summary>
+
+450
+बहुत जनों की शत्रुता, करने में जो हानि ।  
+उससे बढ़ सत्संग को, तजने में है हानि ॥
+  </details>
 
 <details><summary>मूलम् - ४५०</summary>
 

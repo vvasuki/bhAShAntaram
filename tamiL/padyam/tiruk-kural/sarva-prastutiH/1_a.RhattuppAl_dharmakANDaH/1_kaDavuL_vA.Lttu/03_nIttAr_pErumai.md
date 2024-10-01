@@ -45,6 +45,13 @@ No merit can be held so high
 As theirs who sense and self deny.         21  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २१</summary>
+
+21
+सदाचार संपन्न जो, यदि यति हों वे श्रेष्ठ ।  
+धर्मशास्त्र सब मानते, उनकी महिमा श्रेष्ठ ॥
+  </details>
+
 <details><summary>मूलम् - २१</summary>
 
 ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
@@ -86,6 +93,13 @@ iṟantārai eṇṇikkoṇṭaṟṟu.
 To con ascetic glory here  
 Is to count the dead upon the sphere.         22  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २२</summary>
+
+22
+यति-महिमा को आंकने, यदि हो कोई यत्न ।  
+जग में मृत-जन-गणन सम, होता है वह यत्न ॥
+  </details>
 
 <details><summary>मूलम् - २२</summary>
 
@@ -133,6 +147,13 @@ perumai piṟaṅkiṟṟu, ulaku.
 No lustre can with theirs compare  
 Who know the right and virtue wear.         23  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २३</summary>
+
+23
+जन्म-मोक्ष के ज्ञान से, ग्रहण किया सन्यास ।  
+उनकी महिमा का बहुत, जग में रहा प्रकाश ॥
+  </details>
 
 <details><summary>मूलम् - २३</summary>
 
@@ -182,6 +203,13 @@ With hook of firmness to restrain
 The senses five, is heaven to gain.         24  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २४</summary>
+
+24
+अंकुश से दृढ़ ज्ञान के, इन्द्रिय राखे आप ।  
+ज्ञानी वह वर लोक का, बीज बनेगा आप ॥
+  </details>
+
 <details><summary>मूलम् - २४</summary>
 
 उरनॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पान्  
@@ -229,6 +257,13 @@ Indra himself has cause to say
 How great the power ascetics' sway.         25  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २५</summary>
+
+25
+जो है इन्द्रिय-निग्रही, उसकी शक्ति अथाह ।  
+स्वर्गाधीश्वर इन्द्र ही, इसका रहा गवाह ॥
+  </details>
+
 <details><summary>मूलम् - २५</summary>
 
 ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
@@ -270,6 +305,13 @@ ceyaṟku ariya ceykalātār.
 The small the paths of ease pursue  
 The great achieve things rare to do.         26  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २६</summary>
+
+26
+करते दुष्कर कर्म हैं, जो हैं साधु महान ।  
+दुष्कर जो नहिं कर सके, अधम लोक वे जान ॥
+  </details>
 
 <details><summary>मूलम् - २६</summary>
 
@@ -313,6 +355,13 @@ They gain the world, who grasp and tell
 Of taste, sight, hearing, touch and smell.         27  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २७</summary>
+
+27
+स्पर्श रूप रस गन्ध औ', शब्द मिला कर पंच ।  
+समझे इन्के तत्व जो, समझे वही प्रपंच ॥
+  </details>
+
 <details><summary>मूलम् - २७</summary>
 
 सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
@@ -354,6 +403,13 @@ maṟaimoḻi kāṭṭiviṭum.
 Full-worded men by what they say,  
 Their greatness to the world display.         28  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २८</summary>
+
+28
+भाषी वचन अमोध की, जो है महिमा सिद्ध ।  
+गूढ़ मंत्र उनके कहे, जग में करें प्रसिद्ध ॥
+  </details>
 
 <details><summary>मूलम् - २८</summary>
 
@@ -397,6 +453,13 @@ Their wrath, who've climb'd the mount of good,
 Though transient, cannot be withstood.         29  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २९</summary>
+
+29
+सद्गुण रूपी अचल पर, जो हैं चढ़े सुजान ।  
+उनके क्षण का क्रोध भी, सहना दुष्कर जान ॥
+  </details>
+
 <details><summary>मूलम् - २९</summary>
 
 कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
@@ -438,6 +501,13 @@ cen taṇmai pūṇṭu oḻukalāṉ.
 With gentle mercy towards all,  
 The sage fulfils the vitue's call.         30  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ३०</summary>
+
+30
+करते हैं सब जीव से, करुणामय व्यवहार ।  
+कहलाते हैं तो तभी, साधु दया-आगार ॥
+  </details>
 
 <details><summary>मूलम् - ३०</summary>
 

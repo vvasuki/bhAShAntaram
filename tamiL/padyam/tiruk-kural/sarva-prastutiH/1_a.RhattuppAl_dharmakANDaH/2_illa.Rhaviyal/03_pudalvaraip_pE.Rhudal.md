@@ -40,6 +40,13 @@ The world no higher bliss bestows
 Than children virtuous and wise.         61  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६१</summary>
+
+61
+बुद्धिमान सन्तान से, बढ़ कर विभव सुयोग्य ।  
+हम तो मानेंगे नहीं, हैं पाने के योग्य ॥
+  </details>
+
 <details><summary>मूलम् - ६१</summary>
 
 पॆऱुमवट्रुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
@@ -81,6 +88,13 @@ paṇpuṭai makkaṭ peṟiṉ.
 No evil comes and no blemish;  
 Noble sons bring all we wish.         62  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६२</summary>
+
+62
+सात जन्म तक भी उसे, छू नहिं सकता ताप ।  
+यदि पावे संतान जो, शीलवान निष्पाप ॥
+  </details>
 
 <details><summary>मूलम् - ६२</summary>
 
@@ -124,6 +138,13 @@ Children are one's wealth indeed
 Their wealth is measured by their deed.         63  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६३</summary>
+
+63
+निज संतान-सुकर्म से, स्वयं धन्य हों जान ।  
+अपना अर्थ सुधी कहें, है अपनी संतान ॥
+  </details>
+
 <details><summary>मूलम् - ६३</summary>
 
 तम्बॊरुळ् ऎन्बदम् मक्कळ् अवर्बॊरुळ्  
@@ -165,6 +186,13 @@ ciṟu kai aḷāviya kūḻ.
 The food is more than nectar sweet  
 In which one's children hands insert.         64  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६४</summary>
+
+64
+नन्हे निज संतान के, हाथ विलोड़ा भात ।  
+देवों के भी अमृत का, स्वाद करेगा मात ॥
+  </details>
 
 <details><summary>मूलम् - ६४</summary>
 
@@ -208,6 +236,13 @@ Children's touch delights the body
 Sweet to ears are their words lovely.         65  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६५</summary>
+
+65
+निज शिशु अंग-स्पर्श से, तन को है सुख-लाभ ।  
+टूटी- फूटी बात से, श्रुति को है सुख-लाभ ॥
+  </details>
+
 <details><summary>मूलम् - ६५</summary>
 
 मक्कळ्मॆय् तीण्डल् उडऱ्किन्बम् मट्रु अवर्  
@@ -249,6 +284,13 @@ maḻalaic col kēḷātavar.
 The flute and lute are sweet they say  
 Deaf to baby's babble's lay!         66  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६६</summary>
+
+66
+मुरली-नाद मधुर कहें, सुमधुर वीणा-गान ।  
+तुतलाना संतान का, जो न सुना निज कान ॥
+  </details>
 
 <details><summary>मूलम् - ६६</summary>
 
@@ -292,6 +334,13 @@ A father's duty to his son is
 To seat him in front of the wise.         67  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६७</summary>
+
+67
+पिता करे उपकार यह, जिससे निज संतान ।  
+पंडित-सभा-समाज में, पावे अग्रस्थान ॥
+  </details>
+
 <details><summary>मूलम् - ६७</summary>
 
 तन्दै मगऱ्काट्रु नण्ड्रि अवैयत्तु  
@@ -334,6 +383,13 @@ With joy the hearts of parents swell
 To see their children themselves excel.         68  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६८</summary>
+
+68
+विद्यार्जन संतान का, अपने को दे तोष ।  
+उससे बढ़ सब जगत को, देगा वह संतोष ॥
+  </details>
+
 <details><summary>मूलम् - ६८</summary>
 
 तम्मिन्दम् मक्कळ् अऱिवुडैमै मानिलत्तु  
@@ -375,6 +431,13 @@ cāṉṟōṉ eṉak kēṭṭa tāy.
 The mother, hearing her son's merit  
 Delights more than when she begot.         69  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६९</summary>
+
+69
+पुत्र जनन पर जो हुआ, उससे बढ़ आनन्द ।  
+माँ को हो जब वह सुने, महापुरुष निज नन्द ॥
+  </details>
 
 <details><summary>मूलम् - ६९</summary>
 
@@ -426,6 +489,13 @@ eṉ nōṟṟāṉkol!’ eṉum col.
 The son to sire this word is debt  
 "What penance such a son begot!"         70  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ७०</summary>
+
+70
+पुत्र पिता का यह करे, बदले में उपकार ।  
+`धन्य धन्य इसके पिता’, यही कहे संसार ॥
+  </details>
 
 <details><summary>मूलम् - ७०</summary>
 

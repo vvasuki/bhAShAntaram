@@ -40,6 +40,13 @@ It swells out like baled out spring
 How to bear this pain so writhing?        1161  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११६१</summary>
+
+1161
+यथा उलीचे सोत का, बढ़ता रहे बहाव ।  
+बढ़ता है यह रोग भी, यदि मैं करूँ छिपाव ॥
+  </details>
+
 <details><summary>मूलम् - ११६१</summary>
 
 मऱैप्पेन्मन् यानिह्दो नोयै इऱैप्पवर्क्कु  
@@ -81,6 +88,13 @@ uraittalum nāṇut tarum.
 I can't conceal this nor complain  
 For shame to him who caused this pain.        1162  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११६२</summary>
+
+1162
+गोपन भी इस रोग का, है नहिं वश की बात ।  
+कहना भी लज्जाजनक, रोगकार से बात ॥
+  </details>
 
 <details><summary>मूलम् - ११६२</summary>
 
@@ -124,6 +138,13 @@ In life - poles of this wearied frame
 Are poised the weights of lust and shame.        1163  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११६३</summary>
+
+1163
+मेरी दुबली देह में, प्राणरूप जो डांड ।  
+लटके उसके छोर में, काम व लज्जा कांड ॥
+  </details>
+
 <details><summary>मूलम् - ११६३</summary>
 
 काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎन्  
@@ -165,6 +186,13 @@ But no safe raft to swim across it. *
 My lust is a sea, I do not see  
 A raft to go across safely.        1164  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११६४</summary>
+
+1164
+काम-रोग का तो रहा, पारावार अपार ।  
+पर रक्षक बेड़ा नहीं, उसको करने पार ॥
+  </details>
 
 <details><summary>मूलम् - ११६४</summary>
 
@@ -213,6 +241,13 @@ What wilt they prove when they are foes
 Who in friendship bring me woes!        1165  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११६५</summary>
+
+1165
+जो देते हैं वेदना, रह कर प्रिय जन, खैर ।  
+क्या कर बैठेंगे अहो, यदि रखते हैं वैर ॥
+  </details>
+
 <details><summary>मूलम् - ११६५</summary>
 
 तुप्पिन् ऎवनावर् मन्गॊल् तुयर्वरवु  
@@ -254,6 +289,13 @@ tuṉpam ataṉiṉ peritu.
 The pleasure in love is oceanful  
 But its pangs are more painful.        1166  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११६६</summary>
+
+1166
+जो है, बस, यह काम तो, सुख का पारावार ।  
+पीडा दे तो दुःख है, उससे बड़ा अपार ॥
+  </details>
 
 <details><summary>मूलम् - ११६६</summary>
 
@@ -297,6 +339,13 @@ Wild waves of love I swim shoreless
 Pining alone in midnight hush.        1167  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११६७</summary>
+
+1167
+पार न पाती पैर कर, काम-समुद्र महान ।  
+अर्द्ध रात्रि में भी निविड़, रही अकेली जान ॥
+  </details>
+
 <details><summary>मूलम् - ११६७</summary>
 
 कामक् कडुम्बुनल् नीन्दिक् करैगाणेन्  
@@ -339,6 +388,13 @@ Night's mercy lulls all souls to sleep
 Keeping but me for companionship.        1168  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ११६८</summary>
+
+1168
+सुला जीव सब को रही, दया-पात्र यह रात ।  
+इसको मुझको छोड़ कर, और न कोई साथ ॥
+  </details>
+
 <details><summary>मूलम् - ११६८</summary>
 
 मन्नुयिर् ऎल्लाम् तुयिट्रि अळित्तिरा  
@@ -380,6 +436,13 @@ neṭiya kaḻiyum irā.
 Crueller than that cruel he  
 Are midnight hours gliding slowly.        1169  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११६९</summary>
+
+1169
+ये रातें जो आजकल, लम्बी हुई अथोर ।  
+निष्ठुर के नैष्ठुर्य से, हैं खुद अधिक कठोर ॥
+  </details>
 
 <details><summary>मूलम् - ११६९</summary>
 
@@ -427,6 +490,13 @@ nīntala maṉṉōeṉ kaṇ.
 Like heart, if my sight reaches him  
 It won't in floods of tears swim!        1170  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ११७०</summary>
+
+1170
+चल सकते हैं प्रिय के यहाँ, यदि झट हृदय समान ।  
+नहीं तैरते बाढ़ में, यों मेरे दृग, जान ॥
+  </details>
 
 <details><summary>मूलम् - ११७०</summary>
 

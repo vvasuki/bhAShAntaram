@@ -40,6 +40,13 @@ They gather fame who freely give
 The greatest gain for all that live.        231  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २३१</summary>
+
+231
+देना दान गरिब को, जीना कर यश-लाभ ।  
+इससे बढ़ कर जीव को, और नहीं है लाभ ॥
+  </details>
+
 <details><summary>मूलम् - २३१</summary>
 
 ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
@@ -81,6 +88,13 @@ Will live for ever in the words of all. *
 The glory of the alms-giver  
 Is praised aloud as popular.        232  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २३२</summary>
+
+232
+करता है संसार तो, उसका ही गुण-गान ।  
+याचक को जो दान में, कुछ भी करें प्रदान ॥
+  </details>
 
 <details><summary>मूलम् - २३२</summary>
 
@@ -124,6 +138,13 @@ Nothing else lasts on earth for e'er
 Saving high fame of the giver!        233  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २३३</summary>
+
+233
+टिकती है संसार में, अनुपम कीर्ति महान ।  
+अविनाशी केवल वही, और न कोई जान ॥
+  </details>
+
 <details><summary>मूलम् - २३३</summary>
 
 ऒण्ड्रा उलगत्तु उयर्न्द पुगऴल्लाल्  
@@ -165,6 +186,13 @@ pōṟṟātu, puttēḷ ulaku.
 From hailing gods heavens will cease  
 To hail the men of lasting praise        234  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २३४</summary>
+
+234
+यदि कोई भूलोक में, पाये कीर्ति महान ।  
+देवलोक तो ना करें, ज्ञानी का गुण-गान ॥
+  </details>
 
 <details><summary>मूलम् - २३४</summary>
 
@@ -208,6 +236,13 @@ Fame in fall and life in death
 Are rare but for the soulful worth.        235  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २३५</summary>
+
+235
+ह्रास बने यशवृद्धिकर, मृत्यु बने अमरत्व ।  
+ज्ञानवान बिन और में, संभव न यह महत्व ॥
+  </details>
+
 <details><summary>मूलम् - २३५</summary>
 
 नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
@@ -249,6 +284,13 @@ tōṉṟaliṉ tōṉṟāmai naṉṟu.
 Be born with fame if birth you want  
 If not of birth you must not vaunt.        236  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २३६</summary>
+
+236
+जन्मा तो यों जन्म हो, जिसमें होवे नाम ।  
+जन्म न होना है भला, यदि न कमाया नाम ॥
+  </details>
 
 <details><summary>मूलम् - २३६</summary>
 
@@ -292,6 +334,13 @@ Why grieve at those who blame the shame
 Of those who cannot live in fame?        237  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २३७</summary>
+
+237
+कीर्तिमान बन ना जिया, कुढ़ता स्वयं न आप ।  
+निन्दक पर कुढ़ते हुए, क्यों होता है ताप ॥
+  </details>
+
 <details><summary>मूलम् - २३७</summary>
 
 पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
@@ -334,6 +383,13 @@ To men on earth it is a shame
 Not to beget the child of fame.        238  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २३८</summary>
+
+238
+यदि नहिं मिली परंपरा, जिसका है यश नाम ।  
+तो जग में सब के लिये, वही रहा अपनाम ॥
+  </details>
+
 <details><summary>मूलम् - २३८</summary>
 
 वसैयॆन्ब वैयत्तार्क् कॆल्लाम् इसैयॆन्नुम्  
@@ -375,6 +431,13 @@ yākkai poṟutta nilam.
 The land will shrink in yield if men  
 O'erburden it without renown.        239  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २३९</summary>
+
+239
+कीर्तिहीन की देह का, भू जब ढोती भार ।  
+पावन प्रभूत उपज का, क्षय होता निर्धार ॥
+  </details>
 
 <details><summary>मूलम् - २३९</summary>
 
@@ -428,6 +491,13 @@ vāḻvārē vāḻātavar.
 They live who live without blemish  
 The blameful ones do not flourish.        240  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २४०</summary>
+
+240
+निन्दा बिन जो जी रहा, जीवित वही सुजान ।  
+कीर्ति बिना जो जी रहा, उसे मरा ही जान ॥
+  </details>
 
 <details><summary>मूलम् - २४०</summary>
 

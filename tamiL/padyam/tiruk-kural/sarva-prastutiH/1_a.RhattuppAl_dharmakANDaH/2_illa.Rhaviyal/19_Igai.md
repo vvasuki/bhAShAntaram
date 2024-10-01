@@ -40,6 +40,13 @@ To give the poor is charity
 The rest is loan and vanity.        221  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २२१</summary>
+
+221
+देना दान गरीब को, है यथार्थ में दान ।  
+प्रत्याशा प्रतिदान की, है अन्य में निदान ॥
+  </details>
+
 <details><summary>मूलम् - २२१</summary>
 
 वऱियार्क्कॊण्ड्रु ईवदे ईगैमऱ्ऱॆल्लाम्  
@@ -90,6 +97,13 @@ To beg is bad e'en from the good
 To give is good, were heaven forbid.        222  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २२२</summary>
+
+222
+मोक्ष-मार्ग ही क्यों न हो, दान- ग्रहण अश्रेय ।  
+यद्यपि मोक्ष नहीं मिले, दान-धर्म ही श्रेय ॥
+  </details>
+
 <details><summary>मूलम् - २२२</summary>
 
 नल्लाऱु ऎनिनुम् कॊळल्दीदु मेलुलगम्  
@@ -131,6 +145,13 @@ kulaṉ uṭaiyāṉkaṇṇē uḷa.
 No pleading, "I am nothing worth,"  
 But giving marks a noble birth.        223  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २२३</summary>
+
+223
+‘दीन-हीन हूँ’ ना कहे, करता है यों दान ।  
+केवल प्राप्य कुलीन में, ऐसी उत्तम बान ॥
+  </details>
 
 <details><summary>मूलम् - २२३</summary>
 
@@ -174,6 +195,13 @@ The cry for alms is painful sight
 Until the giver sees him bright.        224  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २२४</summary>
+
+224
+याचित होने की दशा, तब तक रहे विषण्ण ।  
+जब तक याचक का वदन, होगा नहीं प्रसन्न ॥
+  </details>
+
 <details><summary>मूलम् - २२४</summary>
 
 इन्नादु इरक्कप् पडुदल् इरन्दवर्  
@@ -215,6 +243,13 @@ māṟṟuvār āṟṟaliṉ piṉ.
 Higher's power which hunger cures  
 Than that of penance which endures.        225  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २२५</summary>
+
+225
+क्षुधा-नियन्त्रण जो रहा, तपोनिष्ठ की शक्ति ।  
+क्षुधा-निवारक शक्ति के, पीछे ही वह शक्ति ॥
+  </details>
 
 <details><summary>मूलम् - २२५</summary>
 
@@ -258,6 +293,13 @@ Drive from the poor their gnawing pains
 If room you seek to store your gains.        226  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २२६</summary>
+
+226
+नाशक-भूक दरिद्र की, कर मिटा कर दूर ।  
+वह धनिकों को चयन हित, बनता कोष ज़रूर ॥
+  </details>
+
 <details><summary>मूलम् - २२६</summary>
 
 अट्रार् अऴिबसि तीर्त्तल् अह्दॊरुवन्  
@@ -299,6 +341,13 @@ tīp piṇi tīṇṭal aritu.
 Who shares his food with those who need  
 Hunger shall not harm his creed.        227  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २२७</summary>
+
+227
+भोजन को जो बाँट कर, किया करेगा भोग ।  
+उसे नहीं पीड़ित करे, क्षुधा भयंकर रोग ॥
+  </details>
 
 <details><summary>मूलम् - २२७</summary>
 
@@ -342,6 +391,13 @@ The joy of give and take they lose
 Hard-hearted rich whose hoarding fails.        228  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - २२८</summary>
+
+228
+धन-संग्रह कर खो रहा, जो निर्दय धनवान ।  
+दे कर होते हर्ष का, क्या उसको नहिं ज्ञान ॥
+  </details>
+
 <details><summary>मूलम् - २२८</summary>
 
 ईत्तुवक्कुम् इन्बम् अऱियार्गॊल् तामुडैमै  
@@ -383,6 +439,13 @@ tāmē tamiyar uṇal.
 Worse than begging is that boarding  
 Alone what one's greed is hoarding.        229  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २२९</summary>
+
+229
+स्वयं अकेले जीमना, पूर्ति के हेतु ।  
+याचन करने से अधिक, निश्चय दुख का हेतु ॥
+  </details>
 
 <details><summary>मूलम् - २२९</summary>
 
@@ -434,6 +497,13 @@ If one can't help the poor. *
 Nothing is more painful than death  
 Yet more is pain of giftless dearth.        230  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - २३०</summary>
+
+230
+मरने से बढ़ कर नहीं, दुख देने के अर्थ ।  
+सुखद वही जब दान में, देने को असमर्थ ॥
+  </details>
 
 <details><summary>मूलम् - २३०</summary>
 

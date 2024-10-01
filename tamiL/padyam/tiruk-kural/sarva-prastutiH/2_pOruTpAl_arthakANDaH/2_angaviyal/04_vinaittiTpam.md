@@ -41,6 +41,13 @@ A powerful mind does powerful act
 And all the rest are imperfect.        661  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६६१</summary>
+
+661
+दृढ़ रहना ही कर्म में, मन की दृढ़ता जान ।  
+दृढ़ता कहलाती नहीं, जो है दृढ़ता आन ॥
+  </details>
+
 <details><summary>मूलम् - ६६१</summary>
 
 विनैत्तिट्पम् ऎन्बदु ऒरुवन् मनत्तिट्पम्  
@@ -82,6 +89,13 @@ Are the two traits scholars emphasize.
 Shun failing fuss; fail not purpose  
 These two are maxims of the wise.        662  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६६२</summary>
+
+662
+दुष्ट न करना, यदि हुआ, तो फिर न हो अधीर ।  
+मत यह है नीतिज्ञ का, दो पथ मानें मीर ॥
+  </details>
 
 <details><summary>मूलम् - ६६२</summary>
 
@@ -125,6 +139,13 @@ The strong achieve and then display
 Woe unto work displayed midway.        663  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६६३</summary>
+
+663
+प्रकट किया कर्मान्त में, तो है योग्य सुधीर ।  
+प्रकट किया यदि बीच में, देगा अनन्त पीर ॥
+  </details>
+
 <details><summary>मूलम् - ६६३</summary>
 
 कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किन्  
@@ -167,6 +188,13 @@ Easy it is to tell a fact
 But hard it is to know and act.        664  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६६४</summary>
+
+664
+कहना तो सब के लिये, रहता है आसान ।  
+करना जो जैसा कहे, है दुस्साध्य निदान ॥
+  </details>
+
 <details><summary>मूलम् - ६६४</summary>
 
 सॊल्लुदल् यार्क्कुम् ऎळिय अरियवाम्  
@@ -208,6 +236,13 @@ Will reach the king to win his praise.
 Dynamic deeds of a doughty soul  
 Shall win the praise of king and all.        665  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६६५</summary>
+
+665
+कीर्ति दिला कर सचित को, कर्म-निष्ठता-बान ।  
+नृप पर डाल प्रभाव वह, पावेगी सम्मान ॥
+  </details>
 
 <details><summary>मूलम् - ६६५</summary>
 
@@ -255,6 +290,13 @@ tiṇṇiyar ākappeṟiṉ.
 The will-to-do achieves the deed  
 When mind that wills is strong indeed.        666  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६६६</summary>
+
+666
+संकल्पित सब वस्तुएँ, यथा किया संकल्प ।  
+संकल्पक का जायगा, यदि वह दृढ़-संकल्प ॥
+  </details>
 
 <details><summary>मूलम् - ६६६</summary>
 
@@ -311,6 +353,13 @@ Scorn not the form: for men there are
 Like linchpin of big rolling car.        667  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६६७</summary>
+
+667
+तिरस्कार करना नहीं, छोटा क़द अवलोक ।  
+चलते भारी यान में, अक्ष-आणि सम लोग ॥
+  </details>
+
 <details><summary>मूलम् - ६६७</summary>
 
 उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु  
@@ -352,6 +401,13 @@ tūkkam kaṭintu ceyal.
 Waver not; do wakefully  
 The deed resolved purposefully.        668  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६६८</summary>
+
+668
+सोच समझ निश्चय किया, करने का जो कर्म ।  
+हिचके बिन अविलम्ब ही, कर देना वह कर्म ॥
+  </details>
 
 <details><summary>मूलम् - ६६८</summary>
 
@@ -395,6 +451,13 @@ Do with firm will though pains beset
 The deed that brings delight at last.        669  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६६९</summary>
+
+669
+यद्यपि होगा बहुत दुख, दृढ़ता से काम ।  
+सुख-फल दायक ही रहा, जिसका शुभ परिणाम ॥
+  </details>
+
 <details><summary>मूलम् - ६६९</summary>
 
 तुन्बम् उऱवरिनुम् सॆय्ग तुणिवाट्रि  
@@ -436,6 +499,13 @@ vēṇṭārai vēṇṭātu, ulaku.
 The world merits no other strength  
 But strength of will-to-do at length.        670  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६७०</summary>
+
+670
+अन्य विषय में सदृढ़ता, रखते सचिव सुजान ।  
+यदि दृढ़ता नहिं कर्म की, जग न करेगा मान ॥
+  </details>
 
 <details><summary>मूलम् - ६७०</summary>
 

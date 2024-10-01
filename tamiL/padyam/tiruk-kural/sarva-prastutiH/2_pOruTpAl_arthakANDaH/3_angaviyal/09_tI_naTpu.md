@@ -41,6 +41,13 @@ Swallowing love of soulless men
 Had better wane than wax anon.        811  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८११</summary>
+
+811
+यद्यपि अतिशय मित्र सम, दिखते हैं गुणहीन ।  
+बढ़ने से वह मित्रता, अच्छा यदि हो क्षीण ॥
+  </details>
+
 <details><summary>मूलम् - ८११</summary>
 
 परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
@@ -88,6 +95,13 @@ Who fawn in wealth and fail in dearth
 Gain or lose; such friends have no worth.        812  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८१२</summary>
+
+812
+पा या खो कर क्या हुआ, अयोग्य का सौहार्द ।  
+जो मैत्री कर स्वार्थवश, तज दे जब नहिं स्वार्थ ॥
+  </details>
+
 <details><summary>मूलम् - ८१२</summary>
 
 उऱिन्नट्टु अऱिन्ङरुउम् ऒप्पिलार् केण्मै  
@@ -129,6 +143,13 @@ koḷvārum kaḷvarum nēr.
 Cunning friends who calculate  
 Are like thieves and whores wicked.        813  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८१३</summary>
+
+813
+मित्र बने जो गणन कर, स्वार्थ-लाभ का मान ।  
+धन-गाहक गणिका तथा, चोर एक सा जान ॥
+  </details>
 
 <details><summary>मूलम् - ८१३</summary>
 
@@ -172,6 +193,13 @@ Better be alone than trust in those
 That throw in field like faithless horse.        814  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८१४</summary>
+
+814
+अनभ्यस्त हय युद्ध में, पटक चले ज्यों भाग ।  
+ऐसों के सौहार्द से, एकाकी बड़भाग ॥
+  </details>
+
 <details><summary>मूलम् - ८१४</summary>
 
 अमरगत्तु आट्रऱुक्कुम् कल्लामा अन्नार्  
@@ -213,6 +241,13 @@ eytaliṉ eytāmai naṉṟu.
 Friends low and mean that give no help-  
 Leave them is better than to keep.        815  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८१५</summary>
+
+815
+तुच्छ मित्रता विपद में, जो देती न सहाय ।  
+ना होने में है भला, होने से भी, हाय ॥
+  </details>
 
 <details><summary>मूलम् - ८१५</summary>
 
@@ -256,6 +291,13 @@ Million times the wise man's hate
 Is better than a fool intimate.        816  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८१६</summary>
+
+816
+अति धनिष्ठ बन मूर्ख का, हो जाने से इष्ट ।  
+समझदार की शत्रुता, लाखों गुणा वरिष्ठ ॥
+  </details>
+
 <details><summary>मूलम् - ८१६</summary>
 
 पेदै पॆरुङ्गॆऴीइ नट्पिन् अऱिवुडैयार्  
@@ -297,6 +339,13 @@ pattaṭutta kōṭi uṟum.
 Ten-fold crore you gain from foes  
 Than from friends who are vain laughers.        817  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८१७</summary>
+
+817
+हास्य-रसिक की मित्रता, करने से भी प्राप्त ।  
+भले बनें दस कोटि गुण, रिपु से जो हों प्राप्त ॥
+  </details>
 
 <details><summary>मूलम् - ८१७</summary>
 
@@ -340,6 +389,13 @@ Without a word those friends eschew
 Who spoil deeds which they can do.        818  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८१८</summary>
+
+818
+यों असाध्य कह साध्य को, जो करता न सहाय ।  
+चुपके से उस ढोंग की, मैत्री छोड़ी जाय ॥
+  </details>
+
 <details><summary>मूलम् - ८१८</summary>
 
 ऒल्लुम् करुमम् उडट्रु पवर्गेण्मै  
@@ -382,6 +438,13 @@ Even in dreams the tie is bad
 With those whose deed is far from word.        819  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८१९</summary>
+
+819
+कहना कुछ करना अलग, जिनकी है यह बान ।  
+उनकी मैत्री खायगी, सपने में भी जान ॥
+  </details>
+
 <details><summary>मूलम् - ८१९</summary>
 
 कनविनुम् इन्नादु मन्नो विनैवेऱु  
@@ -423,6 +486,13 @@ maṉṟil paḻippār toṭarpu.
 Keep aloof from those that smile  
 At home and in public revile.        820  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८२०</summary>
+
+820
+घर पर मैत्री पालते, सभा-मध्य धिक्कार ।  
+जो करते वे तनिक भी, निकट न आवें, यार ॥
+  </details>
 
 <details><summary>मूलम् - ८२०</summary>
 

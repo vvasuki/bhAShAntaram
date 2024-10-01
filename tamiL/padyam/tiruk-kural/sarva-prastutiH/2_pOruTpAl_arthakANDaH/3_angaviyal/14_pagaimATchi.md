@@ -41,6 +41,13 @@ Turn from strife with foes too strong
 With the feeble for battle long.        861  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८६१</summary>
+
+861
+बलवानों से मत भिड़ो, करके उनसे वैर ।  
+कमज़ोरों की शत्रुता, सदा चाहना ख़ैर ॥
+  </details>
+
 <details><summary>मूलम् - ८६१</summary>
 
 वलियार्क्कु माऱेट्रल् ओम्बुग ओम्बा  
@@ -82,6 +89,13 @@ eṉpariyum ētilāṉ tuppu.
 Loveless, aidless, powerless king  
 Can he withstand an enemy strong?        862  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८६२</summary>
+
+862
+प्रेम रहित निज बल रहित, सबल सहाय न पास ।  
+कर सकता है किस तरह, शत्रु शक्ति का नाश ॥
+  </details>
 
 <details><summary>मूलम् - ८६२</summary>
 
@@ -125,6 +139,13 @@ Unskilled, timid, miser, misfit
 He is easy for foes to hit.        863  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८६३</summary>
+
+863
+अनमिल है कंजूस है, कायर और अजान ।  
+उसपर जय पाना रहा, रिपु को अति आसान ॥
+  </details>
+
 <details><summary>मूलम् - ८६३</summary>
 
 अञ्जुम् अऱियान् अमैविलन् ईगलान्  
@@ -166,6 +187,13 @@ yāṅkaṇum yārkkum eḷitu.
 The wrathful restive man is prey  
 To any, anywhere any day.        864  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८६४</summary>
+
+864
+क्रोधी हो फिर हृदय से, जो दे भेद निकाल ।  
+उसपर जय सबको सुलभ, सब थल में, सब काल ॥
+  </details>
 
 <details><summary>मूलम् - ८६४</summary>
 
@@ -209,6 +237,13 @@ Crooked, cruel, tactless and base
 Any foe can fell him with ease.        865  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८६५</summary>
+
+865
+नीतिशास्त्र जो ना पढे, विधिवत् करे न काम ।  
+दुर्जन निंदा-भय-रहित, रिपु हित है सुख-धाम ॥
+  </details>
+
 <details><summary>मूलम् - ८६५</summary>
 
 वऴिनोक्कान् वाय्प्पन सॆय्यान् पऴिनोक्कान्  
@@ -250,6 +285,13 @@ pēṇāmai pēṇap paṭum.
 Blind in rage and mad in lust  
 To have his hatred is but just.        866  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८६६</summary>
+
+866
+जो रहता क्रोधान्ध है, कामी भी अत्यन्त ।  
+है उसका शत्रुत्व तो, वांछनीय सानन्द ॥
+  </details>
 
 <details><summary>मूलम् - ८६६</summary>
 
@@ -293,6 +335,13 @@ Pay and buy his enmity
 Who muddles chance with oddity.        867  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८६७</summary>
+
+867
+करके कार्यारम्भ जो, करता फिर प्रतिकूल ।  
+निश्चय उसकी शत्रुता, करना दे भी मूल ॥
+  </details>
+
 <details><summary>मूलम् - ८६७</summary>
 
 कॊडुत्तुम् कॊळल्वेण्डुम् मण्ड्र अडुत्तिरुन्दु  
@@ -335,6 +384,13 @@ With no virtue but full of vice
 He loses friends and delights foes.        868  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ८६८</summary>
+
+868
+गुणविहीन रहते हुए, यदि हैं भी बहुदोष ।  
+तो है वह साथी रहित, रिपु को है संतोष ॥
+  </details>
+
 <details><summary>मूलम् - ८६८</summary>
 
 कुणनिलनाय्क् कुट्रम् पलवायिन् माट्रार्क्कु  
@@ -376,6 +432,13 @@ añcum pakaivarp peṟiṉ.
 The joy of heroes knows no bounds  
 When timid fools are opponents.        869  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८६९</summary>
+
+869
+यदि वैरी कायर तथा, नीतिशास्त्र अज्ञात ।  
+उनसे भिड़ते, उच्च सुख, छोड़ेंगे नहिं साथ ॥
+  </details>
 
 <details><summary>मूलम् - ८६९</summary>
 
@@ -423,6 +486,13 @@ ollāṉai ollātu oḷi.
 Glory's light he will not gain  
 Who fails to fight a fool and win.        870  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ८७०</summary>
+
+870
+अनपढ़ की कर शत्रुता, लघुता से जय-लाभ ।  
+पाने में असमर्थ जो, उसे नहीं यश-लाभ ॥
+  </details>
 
 <details><summary>मूलम् - ८७०</summary>
 

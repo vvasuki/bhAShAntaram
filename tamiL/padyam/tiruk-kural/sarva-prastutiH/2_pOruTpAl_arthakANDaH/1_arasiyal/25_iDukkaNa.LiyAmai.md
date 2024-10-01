@@ -41,6 +41,13 @@ Laugh away troubles; there is
 No other way to conquer woes.        621  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६२१</summary>
+
+621
+जब दुख-संकट आ पड़े, तब करना उल्लास ।  
+तत्सम कोई ना करे, भिड़ कर उसका नाश ॥
+  </details>
+
 <details><summary>मूलम् - ६२१</summary>
 
 इडुक्कण् वरुङ्गाल् नगुग अदनै  
@@ -82,6 +89,13 @@ uḷḷattiṉ uḷḷa, keṭum.
 Deluging sorrows come to nought  
 When wise men face them with firm thought.        622  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६२२</summary>
+
+622
+जो आवेगा बाढ़ सा, बुद्धिमान को कष्ट ।  
+मनोधैर्य से सोचते, हो जावे वह नष्ट ॥
+  </details>
 
 <details><summary>मूलम् - ६२२</summary>
 
@@ -125,6 +139,13 @@ Grief they face and put to grief
 Who grieve not grief by mind's relief.        623  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६२३</summary>
+
+623
+दुख-संकट जब आ पड़े, दुखी न हो जो लोग ।  
+दुख-संकट को दुख में, डालेंगे वे लोग ॥
+  </details>
+
 <details><summary>मूलम् - ६२३</summary>
 
 इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु  
@@ -167,6 +188,13 @@ Who pulls like bulls patiently on
 Causes grief to grieve anon.        624  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६२४</summary>
+
+624
+ऊबट में भी खींचते, बैल सदृष जो जाय ।  
+उसपर जो दुख आ पड़े, उस दुख पर दुख आय ॥
+  </details>
+
 <details><summary>मूलम् - ६२४</summary>
 
 मडुत्तवा यॆल्लाम् पगडन्नान् उट्र  
@@ -208,6 +236,13 @@ iṭukkaṇ iṭukkaṇ paṭum.
 Before the brave grief grieves and goes  
 Who dare a host of pressing woes.        625  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६२५</summary>
+
+625
+दुख निरंतर हो रहा, फिर भी धैर्य न जाय ।  
+ऐसों को यदि दुख हुआ, उस दुख पर दुख आय ॥
+  </details>
 
 <details><summary>मूलम् - ६२५</summary>
 
@@ -256,6 +291,13 @@ The wise that never gloat in gain
 Do not fret in fateful ruin.        626  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६२६</summary>
+
+626
+धन पा कर, आग्रह सहित, जो नहिं करते लोभ ।  
+धन खो कर क्या खिन्न हो, कभी करेंगे क्षोभ ॥
+  </details>
+
 <details><summary>मूलम् - ६२६</summary>
 
 अट्रेमॆण्ड्रु अल्लऱ्पडुबवो पॆट्रेमॆण्ड्रु  
@@ -297,6 +339,13 @@ kaiyāṟāk koḷḷātām, mēl.
 The wise worry no more of woes  
 Knowing body's butt of sorrows.        627  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६२७</summary>
+
+627
+देह दुख का लक्ष्य तो, होती है यों जान ।  
+क्षुब्ध न होते दुख से, जो हैं पुरुष महान ॥
+  </details>
 
 <details><summary>मूलम् - ६२७</summary>
 
@@ -340,6 +389,13 @@ Who seek not joy, deem grief norm
 By sorrows do not come to harm.        628  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६२८</summary>
+
+628
+विधिवश होता दुख है, यों जिसको है ज्ञान ।  
+तथा न सुख की चाह भी, दुखी न हो वह प्राण ॥
+  </details>
+
 <details><summary>मूलम् - ६२८</summary>
 
 इन्बम् विऴैयान् इडुम्बै इयल्बॆन्बान्  
@@ -382,6 +438,13 @@ In joy to joy who is not bound
 In grief he grieves not dual round!        629  
 </details>
 
+<details><summary>वेङ्कटकृष्ण (हि) - ६२९</summary>
+
+629
+सुख में सुख की चाह से, जो न करेगा भोग ।  
+दुःखी होकर दुःख में, वह न करेगा शोक ॥
+  </details>
+
 <details><summary>मूलम् - ६२९</summary>
 
 इन्बत्तुळ् इन्बम् विऴैयादान् तुन्बत्तुळ्  
@@ -423,6 +486,13 @@ oṉṉār viḻaiyum ciṟappu.
 His glory is esteemed by foes  
 Who sees weal in wanton woes!        630  
 </details>
+
+<details><summary>वेङ्कटकृष्ण (हि) - ६३०</summary>
+
+630
+दुख को भी सुख सदृश ही, यदि ले कोई मान ।  
+तो उसको उपलब्ध हो, रिपु से मानित मान ॥
+  </details>
 
 <details><summary>मूलम् - ६३०</summary>
 
