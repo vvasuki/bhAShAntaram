@@ -25,7 +25,7 @@ Have that natural sense of integrity and shame. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५१</summary>
 
 951 ilpiṟantār kaṇallatu illai iyalpākac  
 ceppamum nāṇum oruṅku.
@@ -33,7 +33,7 @@ ceppamum nāṇum oruṅku.
 951\. Probity and a sense of shame are virtues innate only in men of noble lineage.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५१</summary>
 
 1\. இற்பிறந்தார் கண்அல்லது இல்லை இயல்பாகச்  
 செப்பமும் நாணும் ஒருங்கு.  
@@ -67,7 +67,7 @@ Good manners, truthfulness and modesty. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५२</summary>
 
 952 oḻukkamum vāymaiyum nāṇumim mūṉṟum  
 iḻukkār kuṭippiṟan tār.
@@ -75,7 +75,7 @@ iḻukkār kuṭippiṟan tār.
 952\. Men of noble descent never forsake good conduct, truthfulness and modesty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५२</summary>
 
 2\. ஒழுக்கமும் வாய்மையும் நாணும்இம் மூன்றும்  
 இழுக்கார் குடிப்பிறந் தார்.  
@@ -109,7 +109,7 @@ These four are said to mark the well-born. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५३</summary>
 
 953 nakaiīkai iṉcol ikaḻāmai nāṉkum  
 vakaieṉpa vāymaik kuṭikku.
@@ -117,7 +117,7 @@ vakaieṉpa vāymaik kuṭikku.
 953\. A cheerful countenance, charity, soft words and sweet learning all these characterise men of noble birth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५३</summary>
 
 3\. நகைஈகை இன்சொல் இகழாமை நான்கும்  
 வகைஎன்ப வாய்மைக் குடிக்கு.  
@@ -151,7 +151,7 @@ Even if offered millions manifold.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५४</summary>
 
 954 aṭukkiya kōṭi peṟiṉum kuṭippiṟantār  
 kuṉṟuva ceytal ilar.
@@ -159,7 +159,7 @@ kuṉṟuva ceytal ilar.
 954\. Men of noble birth never stoop to mean acts, though they may thereby gain untold riches.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५४</summary>
 
 4\. அடுக்கிய கோடி பெறினும் குடிப்பிறந்தார்  
 குன்றுவ செய்தல் இலர்.  
@@ -193,7 +193,7 @@ But never in their conduct. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५५</summary>
 
 955 vaḻaṅkuvatu uḷvīḻntak kaṇṇum paḻaṅkuṭi  
 paṇpiṉ talaippirital iṉṟu.
@@ -201,7 +201,7 @@ paṇpiṉ talaippirital iṉṟu.
 955\. A family of ancient dignity never fails of its charity even when fallen on evil days.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५५</summary>
 
 5\. வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி  
 பண்பில் தலைப்பிரிதல் இன்று.  
@@ -235,7 +235,7 @@ Will do nothing deceitful and ignoble. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५६</summary>
 
 956 calampaṟṟic cārpila ceyyārmā caṟṟa  
 kulampaṟṟi vāḻtumeṉ pār.
@@ -243,7 +243,7 @@ kulampaṟṟi vāḻtumeṉ pār.
 956\. Those who walk in the untarnished traditions of their noble family never do wrong even in poverty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५६</summary>
 
 6\. சலம்பற்றிச் சால்பில செய்யார்மா சற்ற  
 குலம்பற்றி வாழ்தும்என் பார்.  
@@ -282,7 +282,7 @@ Appear prominently as spots on the moon.
 ९५७. Compare with १११७. “Are there spots on my love’s face like the spots on the shining moon?” – (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५७</summary>
 
 957 kuṭippiṟantār kaṇviḷaṅkum kuṟṟam vicumpiṉ  
 matikkaṇ maṟuppōl uyarntu.
@@ -290,7 +290,7 @@ matikkaṇ maṟuppōl uyarntu.
 957\. Dark as the spot of the Moon in the sky doth the stain of the noble family loom large.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५७</summary>
 
 7\. குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்  
 மதிக்கண் மறுப்போல் உயர்ந்து.  
@@ -324,7 +324,7 @@ Calls in question his descent from it. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५८</summary>
 
 958 nalattiṉkaṇ nāriṉmai tōṉṟiṉ avaṉaik  
 kulattiṉkaṇ aiyap paṭum.
@@ -332,7 +332,7 @@ kulattiṉkaṇ aiyap paṭum.
 958\. The world suspects the noble lineage of one who lacks in sympathy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५८</summary>
 
 8\. நலத்தின்கண் நாரின்மை தோன்றின் அவனைக்  
 குலத்தின்கண் ஐயப் படும்.  
@@ -371,7 +371,7 @@ So does the quality of speech one’s descent.
 ९५९. Compare with ४५२. Nature of soil governs the quality of water; one’s wisdom by the nature of company. ((N.V.K. Ashraf))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५९</summary>
 
 959 nilattil kiṭantamai kālkāṭṭum kāṭṭum  
 kulattil piṟantārvāyc col.
@@ -379,7 +379,7 @@ kulattil piṟantārvāyc col.
 959\. The plants are quite racy of the soil. The words of men of high birth betoken their ancestral dignity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५९</summary>
 
 9\. நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும்  
 குலத்தில் பிறந்தார்வாய்ச் சொல்.  
@@ -413,7 +413,7 @@ Nor high birth without politeness.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६०</summary>
 
 960 nalamvēṇṭiṉ nāṇuṭaimai vēṇṭum kulamvēṇṭiṉ  
 vēṇṭuka yārkkum paṇivu.
@@ -421,7 +421,7 @@ vēṇṭuka yārkkum paṇivu.
 960\. Out of modesty springs one’s greatness. Out of humility rises the honour of family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६०</summary>
 
 10\. நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்  
 வேண்டுக யார்க்கும் பணிவு.  

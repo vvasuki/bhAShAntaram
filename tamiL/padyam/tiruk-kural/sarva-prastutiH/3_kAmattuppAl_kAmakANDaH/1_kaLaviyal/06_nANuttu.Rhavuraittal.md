@@ -30,7 +30,7 @@ Have nothing but the madal for strength.
 </details>
 
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३१</summary>
 
 1131 kāmam uḻantu varuntiṉārkku ēmam  
 maṭalallatu illai vali.
@@ -38,7 +38,7 @@ maṭalallatu illai vali.
 1131\. Men anguished by unrequited love find no stronger solace than mounting the madal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३१</summary>
 
 1\. காமம் உழந்து வருந்தினார்க்கு ஏமம்  
 மடலல்லது இல்லை வலி.  
@@ -72,7 +72,7 @@ And will mount the madal.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३२</summary>
 
 1132 nōṉā uṭampum uyirum maṭalēṟum  
 nāṇiṉai nīkki niṟuttu.
@@ -80,7 +80,7 @@ nāṇiṉai nīkki niṟuttu.
 1132\. My body and soul, unequal to the pangs of love, seek to mount the madal; bashfulness and reserve are swept away.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३२</summary>
 
 2\. நோனா உடம்பும் உயிரும் மடலேறும்  
 நாணினை நீக்கி நிறுத்து.  
@@ -114,7 +114,7 @@ But now only the madal ridden by the lustful. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३३</summary>
 
 1133 nāṇoṭu nallāṇmai paṇṭuṭaiyēṉ iṉṟuṭaiyēṉ  
 kāmuṟṟār ēṟum maṭal.
@@ -122,7 +122,7 @@ kāmuṟṟār ēṟum maṭal.
 1133\. Reserve and dignified manliness once I had; but today I possess the madal which the helpless love-sick resort to.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३३</summary>
 
 3\. நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்  
 காமுற்றோர் ஏறும் மடல்.  
@@ -156,7 +156,7 @@ By the rushing tide of lust!
 (W.H. Drew and J. Lazarus), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३४</summary>
 
 1134 kāmak kaṭumpuṉal uykkumē nāṇoṭu  
 nallāṇmai eṉṉum puṉai.
@@ -164,7 +164,7 @@ nallāṇmai eṉṉum puṉai.
 1134\. The giant force of the floods of love has carried away the raft of my manliness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३४</summary>
 
 4\. காமக் கடும்புனல் உய்க்குமே நாணொடு  
 நல்லாண்மை என்னும் புணை.  
@@ -198,7 +198,7 @@ Gave me the madal and the pangs of eventide. *
 (M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३५</summary>
 
 1135 toṭalaik kuṟuntoṭi tantāḷ maṭaloṭu  
 mālai uḻakkum tuyar.
@@ -207,7 +207,7 @@ mālai uḻakkum tuyar.
 them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३५</summary>
 
 5\. தொடலைக் குறுந்தொடி தந்தாள் மடலொடு  
 மாலை உழக்கும் துயர்.  
@@ -241,7 +241,7 @@ Unable to close my eyes because of her. *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३६</summary>
 
 1136 maṭalūrtal yāmattum uḷḷuvēṉ maṉṟa  
 paṭalollā pētaikkueṉ kaṇ.
@@ -249,7 +249,7 @@ paṭalollā pētaikkueṉ kaṇ.
 1136\. Thinking of this maid, my eyelids never close in slumber; even in dead of night my thoughts run, on the suicidal madal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३६</summary>
 
 6\. மடலூர்தல் யாமத்தும் உள்ளுவேன் மன்ற  
 படல்ஒல்லா பேதைக்கென் கண்.  
@@ -283,7 +283,7 @@ Yet don’t mount the madal!
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३७</summary>
 
 1137 kaṭalaṉṉa kāmam uḻantum maṭalēṟāp  
 peṇṇiṉ peruntakkatu il.
@@ -291,7 +291,7 @@ peṇṇiṉ peruntakkatu il.
 1137\. Woman tossed about in a sea of the anguish of love think not of mounting the madal — there is nothing greater than this.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३७</summary>
 
 1137 kaṭalaṉṉa kāmam uḻantum maṭalēṟāp  
 peṇṇiṉ peruntakkatu il.
@@ -299,7 +299,7 @@ peṇṇiṉ peruntakkatu il.
 1137\. Woman tossed about in a sea of the anguish of love think not of mounting the madal — there is nothing greater than this.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३७</summary>
 
 7\. கடலன்ன காமம் உழந்தும் மடலேறாப்  
 பெண்ணின் பெருந்தக்கது இல்.  
@@ -333,7 +333,7 @@ Betrays itself to reveal the secrets public. *
 (S. Maharajan), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३८</summary>
 
 1138 niṟaiyariyar maṉaḷiyar eṉṉātu kāmam  
 maṟaiiṟantu maṉṟu paṭum.
@@ -341,7 +341,7 @@ maṟaiiṟantu maṉṟu paṭum.
 1138\. Oh my beloved I Wanton is my love which has no sympathy for my modesty or my helplessness; How it compels me to unpack my hidden secret and drag it out to the open!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३८</summary>
 
 8\. நிறையரியர் மன்அளியர் என்னாது காமம்  
 மறையிறந்து மன்று படும்.  
@@ -375,7 +375,7 @@ With complaints of being unnoticed. *
 (J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३९</summary>
 
 1139 aṟikilār ellārum eṉṟēeṉ kāmam  
 maṟukiṉ maṟukum maruṇṭu.
@@ -383,7 +383,7 @@ maṟukiṉ maṟukum maruṇṭu.
 1139\. ‘Nobody knows my secret’ I said to myself; but my angry love rages in the market-place to my utter disgrace.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३९</summary>
 
 9\. அறிகிலார் எல்லாரும் என்றேஎன் காமம்  
 மறுகின் மறுகும் மருண்டு.  
@@ -417,7 +417,7 @@ Not having endured what we have.
 (W.H. Drew and J. Lazarus), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४०</summary>
 
 1140 yāmkaṇṇiṉ kāṇa nakupa aṟivillār  
 yāmpaṭṭa tāmpaṭā vāṟu.
@@ -425,7 +425,7 @@ yāmpaṭṭa tāmpaṭā vāṟu.
 1140\. Foolish people laugh at me before my very eyes; verily they have not experienced agony of love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४०</summary>
 
 10\. யாங்கண்ணின் காண நகுப அறிவில்லார்  
 யாம்பட்ட தாம்படா வாறு.  

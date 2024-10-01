@@ -24,7 +24,7 @@ Is that ravishing beauty called compassion.
 (N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७१</summary>
 
 571\. kaṇṇōṭṭam eṉṉum kaḻiperuṅ kārikai  
 uṇmaiyāṉ, uṇṭu iv ulaku.
@@ -32,7 +32,7 @@ uṇmaiyāṉ, uṇṭu iv ulaku.
 571\. The world exists because of the existence of the most beautiful virtue called kindliness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७१</summary>
 
 1\. கண்ணோட்டம் என்னும் கழிபெருங் காரிகை  
 உண்மையான் உண்டிவ் வுலகு.  
@@ -66,7 +66,7 @@ Without it men are but a burden on earth. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७२</summary>
 
 572\. kaṇṇōṭṭattu uḷḷatu ulakiyal; aḵtu ilār  
 uṇmai nilakkup poṟai.
@@ -74,7 +74,7 @@ uṇmai nilakkup poṟai.
 572\. The world lives through kindliness; those who do not have it are a burden to the earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७२</summary>
 
 2\. கண்ணோட்டத் துள்ளது உலகியல் அஃதிலார்  
 உண்மை நிலக்குப் பொறை.  
@@ -113,7 +113,7 @@ Or eyes without sympathy?
 ५७३. The word "rāgā" means tune or melody.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७३</summary>
 
 573\. paṇ eṉ ām, pāṭaṟku iyaipu iṉṟēl?-kaṇ eṉ ām,  
 kaṇṇōṭṭam illāta kaṇ?.
@@ -121,7 +121,7 @@ kaṇṇōṭṭam illāta kaṇ?.
 573\. What is the use of a song that could not be enjoyed? Likewise, what is the use of the eyes that have no kindliness?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७३</summary>
 
 3\. பண்என்னாம் பாடற்கு இயைபின்றேல் கண்என்னாம்  
 கண்ணோட்டம் இல்லாத கண்  
@@ -155,7 +155,7 @@ But lack boundless sympathy?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७४</summary>
 
 574\. uḷapōl mukattu evaṉ ceyyum-aḷaviṉāl  
 kaṇṇōṭṭam illāta kaṇ.
@@ -163,7 +163,7 @@ kaṇṇōṭṭam illāta kaṇ.
 574\. What is the use of one’s eyes if they do not beam with immeasurable love?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७४</summary>
 
 4\. உளபோல் முகத்தெவன் செய்யும் அளவினால்  
 கண்ணேட்டம் இல்லாத கண்.  
@@ -202,7 +202,7 @@ Without it eyes are deemed sores. *
 ५७५. Not only compassion, but also learning is must says Valluvar employing the same idea in couplet ३९३: “Only the learned have eyes. The unlearned have two sores on their face!” ((P.S. Sundaram)).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७५</summary>
 
 575\. kaṇṇiṟku aṇikalam kaṇṇōṭṭam; aḵtu iṉṟēl,  
 puṇ eṉṟu uṇarappaṭum.
@@ -210,7 +210,7 @@ puṇ eṉṟu uṇarappaṭum.
 575\. Kindliness is the fitting ornament for the eyes. They are a sore, where it is absent.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७५</summary>
 
 5\. கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல்  
 புண்ணென்று உணரப் படும்.  
@@ -244,7 +244,7 @@ Are eyes unmoved by pity.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७६</summary>
 
 576\. maṇṇoṭu iyainta marattu aṉaiyar-kaṇṇoṭu  
 iyaintu, kaṇṇōṭātavar.
@@ -252,7 +252,7 @@ iyaintu, kaṇṇōṭātavar.
 576\. Those whose eyes do not reflect love resemble trees that stand on the earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७६</summary>
 
 6\. மண்ணோ டியைந்த மரத்தனையர் கண்ணோ  
 டியைந்துகண் ணோடா தவர்.  
@@ -286,7 +286,7 @@ Nor those who have eyes lack sympathy.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७७</summary>
 
 577\. kaṇṇōṭṭam illavar kaṇ ilar; kaṇ uṭaiyār  
 kaṇṇōṭṭam iṉmaiyum il.
@@ -294,7 +294,7 @@ kaṇṇōṭṭam iṉmaiyum il.
 577\. Verily they are blind who have no kindly look.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७७</summary>
 
 7\. கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்  
 கண்ணோட்டம் இன்மையும் இல்.  
@@ -328,7 +328,7 @@ Their duties without fail.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७८</summary>
 
 578\. karumam citaiyāmal kaṇṇōṭa vallārkku  
 urimai uṭaittu, iv ulaku.
@@ -336,7 +336,7 @@ urimai uṭaittu, iv ulaku.
 578\. The world belongs to a king who can do his duty and yet be courteous.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७८</summary>
 
 8\. கருமஞ் சிதையாமல் கண்ணோட வல்லார்க்கு  
 உரிமை உடைத்திவ் வுலகு.  
@@ -375,7 +375,7 @@ Even to those who hurt us.
 ५७९. Compare with १५८. "Let a man conquer by his forbearance those who wrong him with arrogance" * -(Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७९</summary>
 
 579\. oṟuttāṟṟum paṇpiṉārkaṇṇum, kaṇṇōṭip  
 poṟuttāṟṟum paṇpē talai.
@@ -383,7 +383,7 @@ poṟuttāṟṟum paṇpē talai.
 579\. It behoves a king to put up with the doer of harm and even be kind to him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७९</summary>
 
 9\. ஒறுத்தாற்றும் பண்பினார் கண்ணும்கண் ணோடிப்  
 பொறுத்தாற்றும் பண்பே தலை.  
@@ -417,7 +417,7 @@ Even hemlock when offered. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८०</summary>
 
 580\. peyak kaṇṭum, nañcu uṇṭu amaivar-nayattakka  
 nākarikam vēṇṭupavar.
@@ -425,7 +425,7 @@ nākarikam vēṇṭupavar.
 580\. Those who wish to acquire loveable urbanity will knowingly swallow even the poison served.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८०</summary>
 
 10\. பெயக்கண்டும் நஞ்சுண் டமைவர் நயத்தக்க  
 நாகரிகம் வேண்டு பவர்.  

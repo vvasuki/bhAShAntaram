@@ -29,7 +29,7 @@ Enduring hardships and harming no life.
 २६१. Compare with ९८४: "The characteristic of penance is non-killing, and that of goodness not speaking others' faults" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६१</summary>
 
 261\. uṟṟa nōy nōṉṟal, uyirkku uṟukaṇ ceyyāmai,  
 aṟṟē-tavattiṟku uru.
@@ -37,7 +37,7 @@ aṟṟē-tavattiṟku uru.
 261\. The true form of penance is to put up with all pain and to abstain from injury.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६१</summary>
 
 1\. உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமை  
 அற்றே தவத்திற் குரு.  
@@ -71,7 +71,7 @@ It is futile for others to attempt it.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६२</summary>
 
 262\. tavamum tavam uṭaiyārkku ākum; avam, ataṉai  
 aḵtu ilār mēṟkoḷvatu.
@@ -79,7 +79,7 @@ aḵtu ilār mēṟkoḷvatu.
 262\. Penance is possible only for the disciplined. Disgrace attends the undisciplined.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६२</summary>
 
 2\. தவமும் தவமுடையார்க்கு ஆகும் அவம் அதனை  
 அஃதிலார் மேற்கொள் வது.  
@@ -118,7 +118,7 @@ That others have forgotten it?
 २६३. "Supports" include food, clothing and water. "Others" here mean householders. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६३</summary>
 
 263\. tuṟantārkkut tuppuravu vēṇṭi, maṟantārkol-  
 maṟṟaiyavarkaḷ, tavam!.
@@ -126,7 +126,7 @@ maṟṟaiyavarkaḷ, tavam!.
 263\. In their ministering to the needs of the ascetic, verily the householders have become oblivious of their penance.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६३</summary>
 
 3\. துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்  
 மற்றை யவர்கள் தவம  
@@ -160,7 +160,7 @@ To save friends and foil foes. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६४</summary>
 
 264\. oṉṉārt teṟalum, uvantārai ākkalum,  
 eṇṇiṉ, tavattāṉ varum.
@@ -168,7 +168,7 @@ eṇṇiṉ, tavattāṉ varum.
 264\. Penance, if it wills can mar its foe, or bless its friend.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६४</summary>
 
 4\. ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும்  
 எண்ணின் தவத்தான் வரும்  
@@ -202,7 +202,7 @@ For the fulfillment of their desired desires. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६५</summary>
 
 265\. vēṇṭiya vēṇṭiyāṅku eytalāṉ, cey tavam  
 īṇṭu muyalappaṭum.
@@ -210,7 +210,7 @@ For the fulfillment of their desired desires. *
 265\. They persevere in penance; for through penance they achieve their desired goal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६५</summary>
 
 5\. வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம்  
 ஈண்டு முயலப் படும்  
@@ -244,7 +244,7 @@ Others toil in vain ensnared by desire. *
 (N.V.K. Ashraf), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६६</summary>
 
 266\. tavam ceyvār tam karumam ceyvār; maṟṟu allār  
 avam ceyvār, ācaiyuḷ paṭṭu.
@@ -252,7 +252,7 @@ avam ceyvār, ācaiyuḷ paṭṭu.
 266\. To do penance is to be alive to one’s duty; those enmeshed in desire come to ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६६</summary>
 
 6\. தவஞ்செய்வார் தங்கமருமஞ் செய்வார்மற் றல்லார்  
 அவஞ்செய்வார் ஆசையுட் பட்டு  
@@ -286,7 +286,7 @@ So does the burning austerities relieve pain.
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६७</summary>
 
 267\. cuṭac cuṭarum poṉpōl oḷiviṭum-tuṉpam  
 cuṭaccuṭa nōṟkiṟpavarkku.
@@ -294,7 +294,7 @@ cuṭaccuṭa nōṟkiṟpavarkku.
 267\. Gold shines all the more in fire; those who do penance become mellowed through suffering.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६७</summary>
 
 7\. சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பஞ்  
 சுடக்சுட நோற்கிற் பவர்க்கு  
@@ -328,7 +328,7 @@ Gets control of his own soul.
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६८</summary>
 
 268\. taṉ uyir tāṉ aṟap peṟṟāṉai ēṉaiya  
 maṉ uyir ellām toḻum.
@@ -336,7 +336,7 @@ maṉ uyir ellām toḻum.
 268\. The world worships one who has regained one’s soul.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६८</summary>
 
 8\. தன்னுயிர் தான் அறப் பெற்றானை ஏனைய  
 மன்னுயி ரெல்லாம் தொழும்.  
@@ -370,7 +370,7 @@ Could defeat even the Lord of Death.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६९</summary>
 
 269\. kūṟṟam kutittalum kaikūṭum-nōṟṟaliṉ  
 āṟṟal talaippaṭṭavarkku.
@@ -378,7 +378,7 @@ Could defeat even the Lord of Death.
 269\. Men at the height of their penance can triumph over even death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६९</summary>
 
 9\. கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்  
 ஆற்றல் தலைப்பட் டவர்க்கு.  
@@ -412,7 +412,7 @@ Because penance is not for the many.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७०</summary>
 
 270\. ilar palar ākiya kāraṇam-nōṟpār  
 cilar; palar nōlātavar.
@@ -420,7 +420,7 @@ cilar; palar nōlātavar.
 270\. Many are the indigent; for only a few practise penance.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७०</summary>
 
 270\. ilar palar ākiya kāraṇam-nōṟpār  
 cilar; palar nōlātavar.
@@ -429,7 +429,7 @@ cilar; palar nōlātavar.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७०</summary>
 
 10\. இலர்பல ராகிய காரணம் நோற்பார்  
 சிலர்பலர் நோலா தவர்.  

@@ -24,7 +24,7 @@ And dispense as per norms.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४१</summary>
 
 541\. ōrntu, kaṇṇōṭātu, iṟai purintu, yārmāṭṭum  
 tērntu, ceyvaḵtē muṟai.
@@ -32,7 +32,7 @@ tērntu, ceyvaḵtē muṟai.
 541\. Strict enquiry and impartial justice mark the rule of a just monarch.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४१</summary>
 
 1\. ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்  
 தேர்ந்துசெய் வஃதே முறை.  
@@ -66,7 +66,7 @@ And the subjects to their king for justice. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४२</summary>
 
 542\. vāṉ nōkki vāḻum ulaku ellām;-maṉṉavaṉ  
 kōl nōkki vāḻum kuṭi.
@@ -74,7 +74,7 @@ kōl nōkki vāḻum kuṭi.
 542\. The world looks to rain for its existence. The subjects look to the sceptre for their existence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४२</summary>
 
 2\. வானோக்கி வாழும் உலகெல்லாம் மன்னவன்  
 கோல்நோக்கி வாழும் குடி.  
@@ -108,7 +108,7 @@ To virtue and scriptures.
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४३</summary>
 
 543\. antaṇar nūṟkum, aṟattiṟkum, ātiyāy  
 niṉṟatu-maṉṉavaṉ kōl.
@@ -116,7 +116,7 @@ niṉṟatu-maṉṉavaṉ kōl.
 543\. The king’s sceptre is the standing proof of Brahminical books and their teachings.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४३</summary>
 
 3\. அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய்  
 நின்றது மன்னவன் கோல்.  
@@ -150,7 +150,7 @@ Has the world embrace his feet. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४४</summary>
 
 544\. kuṭi taḻīik kōl ōccum mā nila maṉṉaṉ  
 aṭi taḻīi niṟkum, ulaku.
@@ -158,7 +158,7 @@ aṭi taḻīi niṟkum, ulaku.
 544\. The world falls at the feet of a great King who wields the sceptre for his subjects’ welfare.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४४</summary>
 
 4\. குடிதழீஇக் கோலோச்சும் மாநில மன்னன்  
 அடிதழீஇ நிற்கும் உலகு.  
@@ -197,7 +197,7 @@ Never lacks rain and corn.
 ५४५. Relationship between King and Rain has been emphasized by Valluvar in at least three places in Kural. Very similar ideas are conveyed in two couplets of the next chapter on “Misrule”. In ५५७, Valluvar says “How fares the earth without rain? So fares life under a ruthless king” and in ५५९ he says “If a king acts contrary to justice, monsoons fail and clouds shed no rain”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४५</summary>
 
 545\. iyalpuḷik kōl ōccum maṉṉavaṉ nāṭṭa-  
 peyalum viḷaiyuḷum tokku.
@@ -205,7 +205,7 @@ peyalum viḷaiyuḷum tokku.
 545\. Both seasonal rains and waving corn are seen in the land of a righteous monarch.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४५</summary>
 
 5\. இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட  
 பெயலும் விளையுளும் தொக்கு  
@@ -239,7 +239,7 @@ Is what gives a monarch his triumph.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४६</summary>
 
 546\. vēl aṉṟu, veṉṟi taruvatu; maṉṉavaṉ  
 kōl; atūum, kōṭātu eṉiṉ.
@@ -247,7 +247,7 @@ kōl; atūum, kōṭātu eṉiṉ.
 546\. Victory is won not by the spear but by the unswerving sceptre of a monarch.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४६</summary>
 
 6\. வேலன்று வென்றி தருவது மன்னவன்  
 கோலதூஉம் கோடா தெனின்  
@@ -281,7 +281,7 @@ Will guard him if he is straight.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४७</summary>
 
 547\. iṟai kākkum, vaiyakam ellām; avaṉai  
 muṟai kākkum, muṭṭāc ceyiṉ.
@@ -289,7 +289,7 @@ muṟai kākkum, muṭṭāc ceyiṉ.
 547\. The king protects the whole world and justice protects him if unfailingly admonished.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४७</summary>
 
 7\. இறைகாக்கும் வையக மெல்லாம் அவனை  
 முறைகாக்கும் முட்டாச் செயின்.  
@@ -323,7 +323,7 @@ Will sink beyond and perish.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४८</summary>
 
 548\. eṇ patattāṉ ōrā, muṟai ceyyā, maṉṉavaṉ  
 taṇ patattāṉ tāṉē keṭum.
@@ -331,7 +331,7 @@ taṇ patattāṉ tāṉē keṭum.
 548\. The king who does not administer impartial justice goes to ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४८</summary>
 
 8\. எண்பதத்தான் ஓரா முறைசெய்யா மன்னவன்  
 தண்பதத்தான் தானே கெடும்.  
@@ -365,7 +365,7 @@ To punish crimes is a duty, not defect.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४९</summary>
 
 549\. kuṭi puṟaṅkāttu, ōmpi, kuṟṟam kaṭital  
 vaṭu aṉṟu; vēntaṉ toḻil.
@@ -373,7 +373,7 @@ vaṭu aṉṟu; vēntaṉ toḻil.
 549\. To punish crime is the duty, not the fault of the king who attends to the welfare of his subjects.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४९</summary>
 
 9\. குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்  
 வடுவன்று வேந்தன் தொழில்.  
@@ -407,7 +407,7 @@ Is like a farmer removing weeds from his fields.*
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५०</summary>
 
 550\. kolaiyil, koṭiyārai, vēntu oṟuttal paiṅkūḻ  
 kaḷai kaṭṭataṉoṭu nēr.
@@ -415,7 +415,7 @@ kaḷai kaṭṭataṉoṭu nēr.
 550\. Punishing murderers with death is like plucking out weeds among the crops.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५०</summary>
 
 10\. கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்  
 களைகட் டதனொடு நேர்.  

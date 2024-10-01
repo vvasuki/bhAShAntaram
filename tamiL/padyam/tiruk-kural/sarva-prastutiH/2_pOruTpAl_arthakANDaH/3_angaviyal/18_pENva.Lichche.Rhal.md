@@ -25,7 +25,7 @@ Ambitious men avoid that very thing. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०१</summary>
 
 901 maṉaiviḻaivār māṇpayaṉ eytār viṉaiviḻaivār  
 vēṇṭāp poruḷum atu.
@@ -33,7 +33,7 @@ vēṇṭāp poruḷum atu.
 901\. To follow one’s wife’s advice is to lose one’s honour and fortune.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०१</summary>
 
 1\. மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழைவார்  
 வேண்டாப் பொருளும் அது.  
@@ -67,7 +67,7 @@ Will buy him only shameful shame. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०२</summary>
 
 902 pēṇātu peṇviḻaivāṉ ākkam periyatōr  
 nāṇāka nāṇut tarum.
@@ -75,7 +75,7 @@ nāṇāka nāṇut tarum.
 902\. The wealth of a henpecked husband is a mere mockery to him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०२</summary>
 
 2\. பேணாது பெண்விழைவான் ஆக்கம் பெரியதோர்  
 நாணாக நாணுத் தரும்.  
@@ -109,7 +109,7 @@ Will always bring disrepute among the good.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०३</summary>
 
 903 illāḷkaṇ tāḻnta iyalpiṉmai eññāṉṟum  
 nallāruḷ nāṇut tarum.
@@ -117,7 +117,7 @@ nallāruḷ nāṇut tarum.
 903\. The cowardice of one who submits to one’s wife makes one shrink from the company of the good.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०३</summary>
 
 3\. இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்  
 நல்லாருள் நாணுத் தரும்.  
@@ -151,7 +151,7 @@ Merits little in this life or the next. *
 (Satguru Subramuniyaswami), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०४</summary>
 
 904 maṉaiyāḷai añcum maṟumaiyi lāḷaṉ  
 viṉaiyāṇmai vīṟeytal iṉṟu.
@@ -159,7 +159,7 @@ viṉaiyāṇmai vīṟeytal iṉṟu.
 904\. He who dreads his wife denies himself the joys of Heaven. Even his noble actions are held in scorn.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०४</summary>
 
 4\. மனையாளை அஞ்சும் மறுமையி லாளன்  
 வினையாண்மை வீறெய்தல் இன்று.  
@@ -193,7 +193,7 @@ To do good things to good people. *
 (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०५</summary>
 
 905 illāḷai yañcuvāṉ añcumaṟṟu eññāṉṟum  
 nallārkku nalla ceyal.
@@ -201,7 +201,7 @@ nallārkku nalla ceyal.
 905\. He who fears his wife fails in his offices to the good and the virtuous.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०५</summary>
 
 5\. இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும்  
 நல்லார்க்கு நல்ல செயல்.  
@@ -235,7 +235,7 @@ May live like gods but are not men.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०६</summary>
 
 906 imaiyāriṉ vāḻiṉum pāṭilarē illāḷ  
 amaiyārtōḷ añcu pavar.
@@ -243,7 +243,7 @@ amaiyārtōḷ añcu pavar.
 906\. Those who are under the spell of their bamboo-shouldered bewitching wives cease to be men even though they are like Gods on earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०६</summary>
 
 6\. இமையாரின் வாழினும் பாடிலரே இல்லாள்  
 அமையார்தோள் அஞ்சு பவர்.  
@@ -277,7 +277,7 @@ Which thrives on obeisance to wife. *
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०७</summary>
 
 907 peṇṇēval ceytoḻukum āṇmaiyiṉ nāṇuṭaip  
 peṇṇē perumai yuṭaittu.
@@ -285,7 +285,7 @@ peṇṇē perumai yuṭaittu.
 907\. More respectful is the bashfulness of a woman than the ignoble conduct of one who is a slave to one’s wife.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०७</summary>
 
 7\. பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்  
 பெண்ணே பெருமை உடைத்து.  
@@ -324,7 +324,7 @@ The needs of friends nor do any good.
 ९०८. A short and crisp translations of this couplet [but not close to original]: “A doting husband will have no time for friends or virtuous deeds” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०८</summary>
 
 908 naṭṭār kuṟaimuṭiyār naṉṟāṟṟār naṉṉutalāḷ  
 peṭṭāṅku oḻuku pavar.
@@ -332,7 +332,7 @@ peṭṭāṅku oḻuku pavar.
 908\. An infatuated husband can never be a friend in need; nor can he hope to do virtuous deeds.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०८</summary>
 
 8\. நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள்  
 பெட்டாங்கு ஒழுகு பவர்.  
@@ -366,7 +366,7 @@ Are not for the henpecked. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०९</summary>
 
 909\. Pleasures of life are not for the henpecked husband.
 
@@ -374,7 +374,7 @@ Are not for the henpecked. *
 peṇēval ceyvārkaṇ il.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०९</summary>
 
 9\. அறவினையும் ஆன்ற பொருளும் பிறவினையும்  
 பெண்ஏவல் செய்வார்கண் இல்.  
@@ -408,7 +408,7 @@ In the folly of doting on their wives. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१०</summary>
 
 910 eṇcērnta neñcattu iṭaṉuṭaiyārkku eññāṉṟum  
 peṇcērntām pētaimai il.
@@ -416,7 +416,7 @@ peṇcērntām pētaimai il.
 910\. Men of resolute will never commit the folly of slaving for women.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१०</summary>
 
 10\. எண்சேர்ந்த நெஞ்சத் திடனுடையார்க்கு எஞ்ஞான்றும்  
 பெண்சேர்ந்தாம் பேதைமை இல்.  

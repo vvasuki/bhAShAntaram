@@ -24,12 +24,12 @@ Spells dignity in greatness.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३१</summary>
 
 431\. Exalted is the wealth that is free from pride, wrath and lust.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३१</summary>
 
 1\. செருக்குஞ் சினமும் சிறுமையும் இல்லார்  
 பெருக்கம் பெருமித நீர்த்து.  
@@ -63,12 +63,12 @@ Are flaws in a king.
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३२</summary>
 
 432\. Niggardliness, empty honour, blind favouritism, are all the faults of a King.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३२</summary>
 
 2\. இவறலும் மாண்பிறந்த மானமும் மாணா  
 உவகையும் ஏதம் இறைக்கு.  
@@ -107,12 +107,12 @@ Even millet of fault is as big as a palm-tree. *
 ४३३. It is simply because, as Valluvar says in couplet ९६५, “Even a hill-like eminence can be brought low by deeds as small as a speck.” Also compare with couplets १०४ & १२८२ for the use of same similes “Millet” and “Palm tree”. “To the discerning even millet of aid is as big as a palm tree.” and “Where love is as large as a palm tree, even millet of sulk is misplaced”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३३</summary>
 
 433\. Even the slightest fault looms large in the eyes of those who dread dishonour.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३३</summary>
 
 3\. தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்  
 கொள்வர் பழிநாணு வார்.  
@@ -146,12 +146,12 @@ For error is a foe that kills.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३४</summary>
 
 434\. Guard against your error as you would your wealth. For error spells your ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३४</summary>
 
 4\. குற்றமே காக்க பொருளாகக் குற்றமே  
 அற்றம் தரூஉம் பகை.  
@@ -185,12 +185,12 @@ Would vanish like a heap of straw before fire. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३५</summary>
 
 435\. Like a piece of straw in a consuming flame, will be destroyed the life of one who does not guard against faults.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३५</summary>
 
 5\. வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்  
 வைத்தூறு போலக் கெடும்.  
@@ -224,12 +224,12 @@ Before seeing that of others? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३६</summary>
 
 436\. What fault will befall a King who is free from guilt and detects guilt in others?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३६</summary>
 
 6\. தன்குற்றம் நீக்கிப் பிறர்குற்றம் காண்பிற்பின்  
 என்குற்ற மாகும் இறைக்கு  
@@ -263,12 +263,12 @@ Does not increase but cease. *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३७</summary>
 
 437\. The hoarded wealth of the miser who fails in his offices perishes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३७</summary>
 
 7\. செயற்பால செய்யா திவறியான் செல்வம்  
 உயற்பால தன்றிக் கெடும்.  
@@ -302,12 +302,12 @@ Is one thing that stands out among all sins.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३८</summary>
 
 438\. A clutching greedy heart that knows no charity commits the greatest folly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३८</summary>
 
 8\. பற்றுள்ளம் என்னும் இவறன்மை எற்றுள்ளும்  
 எண்ணப் படுவதொன் றன்று.  
@@ -341,12 +341,12 @@ Nor delight in deeds that bring no good. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४३९</summary>
 
 439\. Let not conceit enter your heart at any time of your life; do not run after trifles.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४३९</summary>
 
 9\. வியவற்க எஞ்ஞான்றும் தன்னை நயவற்க  
 நன்றி பயவா வினை.  
@@ -380,12 +380,12 @@ To keep the designs of your foes at bay.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४०</summary>
 
 440\. Of what avail are the designs of the foe, if one does not betray one’s secrets?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४०</summary>
 
 10\. காதல காதல் அறியாமை உய்க்கிற்பின்  
 ஏதில ஏதிலார் நூல்.  

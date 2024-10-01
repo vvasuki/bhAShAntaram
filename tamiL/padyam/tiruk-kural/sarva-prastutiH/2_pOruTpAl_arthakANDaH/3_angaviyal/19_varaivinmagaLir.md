@@ -25,7 +25,7 @@ Of jeweled women who desire wealth, not love. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९११</summary>
 
 911 aṉpiṉ viḻaiyār poruḷviḻaiyum āytoṭiyār  
 iṉcol iḻukkut tarum.
@@ -33,7 +33,7 @@ iṉcol iḻukkut tarum.
 911\. Honeyed words of public women who serve not for love but for money become gall and wormwood in the end.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९११</summary>
 
 1\. அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்  
 இன்சொல் இழுக்குத் தரும்.  
@@ -67,7 +67,7 @@ Who talk of morals with a purpose.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१२</summary>
 
 912 payaṉtūkkip paṇpuraikkum paṇpuil makaḷir  
 nayaṉtūkki naḷḷā viṭal.
@@ -75,7 +75,7 @@ nayaṉtūkki naḷḷā viṭal.
 912\. Beware of public women sweet of tongue but greedy of gain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१२</summary>
 
 2\. பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்  
 நயன்தூக்கி நள்ளா விடல்.         
@@ -114,7 +114,7 @@ To clasp an alien corpse in a dark room. *
 ९१३. There existed, according to French writer Abbe J.A. Dubois of the १८th century A.D. [Hindu Manners, Customs and Ceremonies, page १७ and Edgar Thurston, Castes and Tribes of Southern India, Volume V, page १०७], a practice amongst the Nambudris of Kerala to hire someone to embrace the dead corpse of girls who die as virgins [Padmanabhan, २००३]. Valluvar could be referring to this custom. Though two of the five traditional commentators of Tirukkural, namely Manakkudavar and Pariperumal, interpret this way [… पिणत्तै कूलिक्कु तऴुवियदु पोलुम्…॥], they do not refer to this as a practice amongst Nambudris.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१३</summary>
 
 913 poruṭpeṇṭir poymmai muyakkam iruṭṭaṟaiyil  
 ētil piṇantaḻīi aṟṟu.
@@ -122,7 +122,7 @@ To clasp an alien corpse in a dark room. *
 913\. Embracing false women bent on gain is like embracing a strange corpse in a dark room.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१३</summary>
 
 3\. பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்  
 ஏதில் பிணந்தழீஇ யற்று.  
@@ -156,7 +156,7 @@ Of those who treasure wealth. *
 (W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१४</summary>
 
 914 poruṭporuḷār puṉṉalam tōyā aruṭporuḷ  
 āyum aṟivi ṉavar.
@@ -164,7 +164,7 @@ Of those who treasure wealth. *
 914\. Men seeking the light of grace turn away in scorn from the fleshy delights of prostitutes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१४</summary>
 
 4\. பொருட்பொருளார் புன்னலம் தோயார் அருட்பொருள்  
 ஆயும் அறிவி னவர்.  
@@ -198,7 +198,7 @@ In the cheap delight of public women. *
 (P.S. Sundaram), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१५</summary>
 
 915 potunalattār puṉṉalam tōyār matinalattiṉ  
 māṇṭa aṟivi ṉavar.
@@ -206,7 +206,7 @@ māṇṭa aṟivi ṉavar.
 915\. Men of great wisdom care not for the barren pleasures of women who sell themselves for hire.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१५</summary>
 
 5\. பொதுநலத்தார் புன்னலம் தோயார் மதிநலத்தின்  
 மாண்ட அறிவி னவர்.  
@@ -240,7 +240,7 @@ Others who spread their charms for money. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१६</summary>
 
 916 tannalam pārippār tōyār takaicerukkip  
 puṉṉalam pārippār tōḷ.
@@ -248,7 +248,7 @@ puṉṉalam pārippār tōḷ.
 916\. Men aspiring to fame do not long for the delights of women who sell themselves.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१६</summary>
 
 6\. தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப்  
 புன்னலம் பாரிப்பார் தோள்.  
@@ -282,7 +282,7 @@ The hearts that go not with their bodies.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१७</summary>
 
 917 niṟaineñcam illavar tōyvar piṟaneñcil  
 pēṇip puṇarpavar tōḷ.
@@ -290,7 +290,7 @@ pēṇip puṇarpavar tōḷ.
 917\. Only men of unruly desires go in search of the shoulders of women who sell themselves.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१७</summary>
 
 7\. நிறைநெஞ்சம் இல்லவர் தோய்வர் பிறநெஞ்சிற்  
 பேணிப் புணர்பவர் தோள்.  
@@ -324,7 +324,7 @@ Consider her to be an angel. *
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१८</summary>
 
 918 āyum aṟiviṉar allārkku aṇaṅkeṉpa  
 māya makaḷir muyakku.
@@ -332,7 +332,7 @@ māya makaḷir muyakku.
 918\. False women’s embraces which only the ignorant desire are like the possession of evil spirits.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१८</summary>
 
 8\. ஆயும் அறிவினர் அல்லார்க்கு அணங்கென்ப  
 மாய மகளிர் முயக்கு.  
@@ -366,7 +366,7 @@ Are a hell that plunge the base. *
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१९</summary>
 
 919 varaivilā māṇiḻaiyār meṉtōḷ puraiyilāp  
 pūriyarkaḷ āḻum aḷaṟu.
@@ -374,7 +374,7 @@ pūriyarkaḷ āḻum aḷaṟu.
 919\. The soft shoulders of women who deck themselves for attraction are the hell into which undiscerning fools sink.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१९</summary>
 
 9\. வரைவிலா மாணிழையார் மென்றோள் புரையிலாப்  
 பூரியர்கள் ஆழும் அளறு.  
@@ -408,7 +408,7 @@ Treacherous women, wine and dice. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२०</summary>
 
 920 irumaṉap peṇṭirum kaḷḷum kavaṟum  
 tirunīkkap paṭṭār toṭarpu.
@@ -416,7 +416,7 @@ tirunīkkap paṭṭār toṭarpu.
 920\. Double-tongued women, wine and dice are the allies of those abandoned by the goddess of fortune.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२०</summary>
 
 10\. இருமனப் பெண்டிரும் கள்ளும் கவறும்  
 திருநீக்கப் பட்டார் தொடர்பு.  

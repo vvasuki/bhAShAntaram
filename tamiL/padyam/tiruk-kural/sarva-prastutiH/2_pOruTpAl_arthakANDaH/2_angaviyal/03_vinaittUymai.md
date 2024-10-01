@@ -25,7 +25,7 @@ And good deeds all one needs. *
 (M.S. Poornalingam Pillai), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५१</summary>
 
 651\. tuṇai nalam ākkam tarūum; viṉai nalam  
 vēṇṭiya ellām tarum.
@@ -33,7 +33,7 @@ vēṇṭiya ellām tarum.
 651\. A man’s friends bring prosperity to him; but his good acts fetch him his wish.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५१</summary>
 
 1\. துணைநலம் ஆக்கம் தரூஉம் வினைநலம்  
 வேண்டிய எல்லாம் தரும்.  
@@ -67,7 +67,7 @@ Lasting good and fame. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५२</summary>
 
 652\. eṉṟum oruvutal vēṇṭum-pukaḻoṭu  
 naṉṟi payavā viṉai.
@@ -75,7 +75,7 @@ naṉṟi payavā viṉai.
 652\. That deed must always be discarded which does not promote virtue and produce fame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५२</summary>
 
 2\. என்றும் ஒருவுதல் வேண்டும் புகழொடு  
 நன்றி பயவா வினை.  
@@ -109,7 +109,7 @@ What will stain their name.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५३</summary>
 
 653\. ōotal vēṇṭum, oḷi māḻkum ceyviṉai-  
 ‘āatum!’ eṉṉumavar.
@@ -117,7 +117,7 @@ What will stain their name.
 653\. Those who wish to become great must always avoid deeds which darken the lustre of their reputation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५३</summary>
 
 3\. ஓஒதல் வேண்டும் ஒளிமாழ்கும் செய்வினை  
 ஆஅதும் என்னு மவர்.  
@@ -151,7 +151,7 @@ Will not do mean acts even in distress.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५४</summary>
 
 654\. iṭukkaṇ paṭiṉum, iḷivanta ceyyār-  
 naṭukku aṟṟa kāṭciyavar.
@@ -159,7 +159,7 @@ naṭukku aṟṟa kāṭciyavar.
 654\. Even adversity does not prompt men of unswerving purity to do mean things.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५४</summary>
 
 4\. இடுக்கண் படினும் இளிவந்த செய்யார்  
 நடுக்கற்ற காட்சி யவர்.  
@@ -193,7 +193,7 @@ Better not repeat the same.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५५</summary>
 
 655\. 'eṟṟu!' eṉṟu iraṅkuva ceyyaṟka; ceyvāṉēl,  
 maṟṟu aṉṉa ceyyāmai naṉṟu.
@@ -201,7 +201,7 @@ maṟṟu aṉṉa ceyyāmai naṉṟu.
 655\. Desist from deeds which you may regret later; but if you once happen to do such a deed, repeat it not.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५५</summary>
 
 5\. எற்றென்று இரங்குவ செய்யற்க செய்வானேல்  
 மற்றன்ன செய்யாமை நன்று.  
@@ -235,7 +235,7 @@ Even to save your starving mother.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५६</summary>
 
 656\. īṉṟāḷ paci kāṇpāṉ āyiṉum, ceyyaṟka  
 cāṉṟōr paḻikkum viṉai.
@@ -243,7 +243,7 @@ cāṉṟōr paḻikkum viṉai.
 656\. Though you find your mother starving, do not do anything which will be condemned by the great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५६</summary>
 
 6\. ஈன்றான் பசிகாண்பான் ஆயினுஞ் செய்யற்க  
 சான்றோர் பழிக்கும் வினை.  
@@ -277,7 +277,7 @@ Than the pile of wealth hoarded by vice.
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५७</summary>
 
 657\. paḻi malaintu eytiya ākkattiṉ, cāṉṟōr  
 kaḻi nalkuravē talai.
@@ -285,7 +285,7 @@ kaḻi nalkuravē talai.
 657\. Better the poverty adopted by the great than the wealth resulting from sin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५७</summary>
 
 7\. பழிமலைந்து எய்திய ஆக்கத்தின் சான்றோர்  
 கழிநல் குரவே தலை.  
@@ -319,7 +319,7 @@ Will bring grief॥
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५८</summary>
 
 658\. kaṭinta kaṭintu orār ceytārkku avaitām  
 muṭintālum, pīḻai tarum.
@@ -327,7 +327,7 @@ muṭintālum, pīḻai tarum.
 658\. Those who do knowingly forbidden things will suffer in the end, although they may succeed in doing them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५८</summary>
 
 8\. கடிந்த கடிந்தொரார் செய்தார்க்கு அவைதாம்  
 முடிந்தாலும் பீழை தரும்.  
@@ -361,7 +361,7 @@ What's won fair, though lost, will surge again. *
 (P.S. Sundaram), (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५९</summary>
 
 659\. aḻak koṇṭa ellām aḻap pōm; iḻappiṉum,  
 piṟpayakkum, naṟpālavai.
@@ -369,7 +369,7 @@ piṟpayakkum, naṟpālavai.
 659\. What is secured by causing tears to others will be lost with tears. But good deeds will result in good later.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५९</summary>
 
 659\. aḻak koṇṭa ellām aḻap pōm; iḻappiṉum,  
 piṟpayakkum, naṟpālavai.
@@ -377,7 +377,7 @@ piṟpayakkum, naṟpālavai.
 659\. What is secured by causing tears to others will be lost with tears. But good deeds will result in good later.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५९</summary>
 
 9\. அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்  
 பிற்பயக்கும் நற்பா லவை.  
@@ -411,7 +411,7 @@ Water in an unbaked pot. *
 (P.S. Sundaram), (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६०</summary>
 
 660\. calattāl poruḷ ceytu ēmākkal-pacu maṇ-  
 kalattuḷ nīr peytu, irīiyaṟṟu.
@@ -419,7 +419,7 @@ kalattuḷ nīr peytu, irīiyaṟṟu.
 660\. A minister who promotes his king’s resources by fraud is like one who tries to store up water in a pot of unburnt clay.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६०</summary>
 
 10\. சலத்தால் பொருள்செய்தே மார்த்தல் பசுமட்  
 கலத்துள்நீர் பெய்திரீஇ யற்று  

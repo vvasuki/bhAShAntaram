@@ -24,7 +24,7 @@ Sight, smell, hearing, taste and touch. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०१</summary>
 
 1101 kaṇṭukēṭṭu uṇṭuuyirttu uṟṟaṟiyum aimpulaṉum  
 oṇṭoṭi kaṇṇē uḷa.
@@ -32,7 +32,7 @@ oṇṭoṭi kaṇṇē uḷa.
 1101\. All the pleasures that the five senses give us are garnered in this lady with glittering bracelets. What a thrill she gives me!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०१</summary>
 
 1\. கண்டுகேட்டு உண்டுயிர்த்து உற்றறியும் ஐம்புலனும்  
 ஓண்டொடி கண்ணே உள.  
@@ -71,7 +71,7 @@ But this jewel is both disease and cure.
 ११०२. Compare with १२७५. “The trickery caused by the braceleted one carries the medicine to cure my ills as well” * - (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०२</summary>
 
 1102 piṇikku maruntu piṟamaṉ aṇiyiḻai  
 taṉnōykkut tāṉē maruntu.
@@ -79,7 +79,7 @@ taṉnōykkut tāṉē maruntu.
 1102\. The remedy for a disease lies not in the disease but in some healing balm; but not so the loved one who is at once the disease and the cure for the pangs of love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०२</summary>
 
 2\. பிணிக்கு மருந்து பிறமன் அணியிழை  
 தன்நோய்க்குத் தானே மருந்து.  
@@ -113,7 +113,7 @@ On the soft shoulders of the women you love?
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०३</summary>
 
 1103 tāmvīḻvār meṉtōḷ tuyiliṉ iṉitukol  
 tāmaraik kaṇṇāṉ ulaku.
@@ -121,7 +121,7 @@ tāmaraik kaṇṇāṉ ulaku.
 1103\. Are the pleasures of the world of the lotus-eyed lord sweeter than reclining on the soft shoulder of the beloved?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०३</summary>
 
 3\. தாம்வீழ்வார் மென்றோள் துயிலின் இனிதுகொல்  
 தாமரைக் கண்ணான் உலகு.  
@@ -160,7 +160,7 @@ Which burns when far, and cools when near?
 ११०४. Compare with ११५९. “Can fire, which hurts when touched, hurt like the passion of love even untouched?” - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०४</summary>
 
 1104 nīṅkiṉ teṟūum kuṟukuṅkāl taṇṇeṉṉum  
 tīyāṇṭup peṟṟāḷ ivaḷ.
@@ -168,7 +168,7 @@ tīyāṇṭup peṟṟāḷ ivaḷ.
 1104\. This lady has a fire which burns me with passion when I am away; but it cools down when I see her. Can anyone say where she has acquired this power?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०४</summary>
 
 4\. நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்  
 தீயாண்டுப் பெற்றாள் இவள்.  
@@ -202,7 +202,7 @@ Give me whatever I need, then and there.
 (M.S. Poornalingam Pillai), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०५</summary>
 
 1105 vēṭṭa poḻutiṉ avaiyavai pōlumē  
 tōṭṭār katuppiṉāḷ tōḷ.
@@ -210,7 +210,7 @@ tōṭṭār katuppiṉāḷ tōḷ.
 1105\. Like the dreams of pleasures sought, the embrace of this sweet-shouldered, flower-decked maiden gives me untold pleasure.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०५</summary>
 
 5\. வேட்ட பொழுதின் அவையவை போலுமே  
 தோட்டார் கதுப்பினாள் தோள்.  
@@ -244,7 +244,7 @@ For they refresh my life whenever I touch. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०६</summary>
 
 1106 uṟutōṟu uyirtaḷippat tīṇṭalāl pētaikku  
 amiḻtiṉ iyaṉṟaṉa tōḷ.
@@ -252,7 +252,7 @@ amiḻtiṉ iyaṉṟaṉa tōḷ.
 1106\. Her embrace ever kindles new warm life in me. Verily her shoulders are packed with ambrosia.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०६</summary>
 
 6\. உறுதோறு உயிர்தளிர்ப்பத் தீண்டலால் பேதைக்கு  
 அமிழ்தின் இயன்றன தோள்.  
@@ -286,7 +286,7 @@ Is the embrace of this fair maid. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०७</summary>
 
 1107 tammil iruntu tamatupāttu uṇṭaṟṟāl  
 ammā arivai muyakku.
@@ -294,7 +294,7 @@ ammā arivai muyakku.
 1107\. The embrace of my golden-coloured love reminds me of the joy of a householder who delights in fulfilling the laws of hospitality.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०७</summary>
 
 7\. தம்மில் இருந்து தமதுபாத்து உண்டற்றால்  
 அம்மா அரிவை முயக்கு.  
@@ -328,7 +328,7 @@ Wherein not a breath comes between.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०८</summary>
 
 1108 vīḻum iruvarkku iṉitē vaḷiyiṭai  
 pōḻap paṭāa muyakku.
@@ -336,7 +336,7 @@ pōḻap paṭāa muyakku.
 1108\. Sweet indeed to both the lover and his beloved is that close embrace which allows not even a wisp of air to steal in between their arms.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०८</summary>
 
 8\. வீழும் இருவர்க்கு இனிதே வளியிடை  
 போழப் படாஅ முயக்கு.  
@@ -370,7 +370,7 @@ Reaped by those obsessed with love. *
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०९</summary>
 
 1109 ūṭal uṇartal puṇartal ivaikāmam  
 kūṭiyār peṟṟa payaṉ.
@@ -378,7 +378,7 @@ kūṭiyār peṟṟa payaṉ.
 1109\. Separation, reconciliation and reunion are the pleasures vouchsafed to those stricken with love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०९</summary>
 
 9\. ஊடல் உணர்தல் புணர்தல் இவைகாமம்  
 கூடியார் பெற்ற பயன்.  
@@ -412,7 +412,7 @@ Be it love or learning.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११०</summary>
 
 1110 aṟitōṟu aṟiyāmai kaṇṭaṟṟāl kāmam  
 ceṟitōṟum cēyiḻai māṭṭu.
@@ -420,7 +420,7 @@ ceṟitōṟum cēyiḻai māṭṭu.
 1110\. The more I taste the charms of my beloved the more do d hunger for them. Verily what is already experienced pales into insignificance before the promise of the future.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११०</summary>
 
 10\. அறிதோறு அறியாமை கண்டற்றால் காமம்  
 செறிதோறும் சேயிழை மாட்டு.  

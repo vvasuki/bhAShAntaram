@@ -25,7 +25,7 @@ Other lacks are not deemed such by the world.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४१</summary>
 
 841 aṟiviṉmai iṉmaiyuḷ iṉmai piṟitiṉmai  
 iṉmaiyā vaiyātu ulaku.
@@ -33,7 +33,7 @@ iṉmaiyā vaiyātu ulaku.
 841\. Of all forms of poverty, poverty of intellect is the most serious; other forms of poverty are not regarded serious by the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४१</summary>
 
 1\. அறிவின்மை இன்மையுள் இன்மை பிறிதின்மை  
 இன்மையா வையாது உலகு.  
@@ -67,7 +67,7 @@ Due to the penance of the recipient. *
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४२</summary>
 
 842 aṟivilāṉ neñcuvantu ītal piṟituyātum  
 illai peṟuvāṉ tavam.
@@ -75,7 +75,7 @@ illai peṟuvāṉ tavam.
 842\. If a fool makes a gift with pleasure, it is due to the recipient’s luck.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४२</summary>
 
 2\. அறிவிலான் நெஞ்சுவந்து ஈதல் பிறிதுயாதும்  
 இல்லை பெறுவான் தவம்.  
@@ -109,7 +109,7 @@ Is beyond anything their foes do to them.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४३</summary>
 
 843 aṟivilār tāmtammaip pīḻikkum pīḻai  
 ceṟuvārkkum ceytal aritu.
@@ -117,7 +117,7 @@ ceṟuvārkkum ceytal aritu.
 843\. The unwise inflict upon themselves more harm than the enemies can think of.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४३</summary>
 
 3\. அறிவிலார் தாம்தம்மைப் பீழிக்கும் பீழை  
 செறுவார்க்கும் செய்தல் அரிது.  
@@ -151,7 +151,7 @@ Which dares to declare, "I am wise."
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४४</summary>
 
 844 veṇmai eṉappaṭuvatu yāteṉiṉ oṇmai  
 uṭaiyamyām eṉṉum cerukku.
@@ -159,7 +159,7 @@ uṭaiyamyām eṉṉum cerukku.
 844\. Where does conceit dwell but in the immature mind?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४४</summary>
 
 4\. வெண்மை எனப்படுவது யாதெனின் ஒண்மை  
 உடையம்யாம் என்னுஞ் செருக்கு.  
@@ -193,7 +193,7 @@ Calls in question the learning learnt.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४५</summary>
 
 845 kallāta mēṟkoṇṭu oḻukal kacaṭaṟa  
 vallatūum aiyam tarum.
@@ -201,7 +201,7 @@ vallatūum aiyam tarum.
 845\. Pretension to knowledge beyond one’s province makes men suspect the proficiency in one’s own province.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४५</summary>
 
 5\. கல்லாத மேற்கொண்டு ஒழுகல் கசடற  
 வல்லதூஉம் ஐயம் தரும்.  
@@ -235,7 +235,7 @@ When his faults lie exposed?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४६</summary>
 
 846 aṟṟam maṟaittalō pullaṟivu tamvayiṉ  
 kuṟṟam maṟaiyā vaḻi.
@@ -243,7 +243,7 @@ kuṟṟam maṟaiyā vaḻi.
 846\. What availeth one’s garment if one’s defects lie naked to the world?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४६</summary>
 
 6\. அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்  
 குற்றம் மறையா வழி.  
@@ -277,7 +277,7 @@ Does great harm to himself.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४७</summary>
 
 847 arumaṟai cōrum aṟivilāṉ ceyyum  
 perumiṟai tāṉē taṉakku.
@@ -285,7 +285,7 @@ perumiṟai tāṉē taṉakku.
 847\. A learned fool doth harm to himself.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४७</summary>
 
 7\. அருமறை சோரும் அறிவிலான் செய்யும்  
 பெருமிறை தானே தனக்கு.  
@@ -319,7 +319,7 @@ His life is an illness till he dies.
 (Kasthuri Sreenivasan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४८</summary>
 
 848 ēvavuñam ceykalāṉ tāṉtēṟāṉ avvuyir  
 pōom aḷavumōr nōy.
@@ -327,7 +327,7 @@ pōom aḷavumōr nōy.
 848\. A fool neither listens to wise counsel nor exerts himself. He will be a plague to the world till his death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४८</summary>
 
 8\. ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர்  
 போஒம் அளவுமோர் நோய்.  
@@ -361,7 +361,7 @@ For a fool sees things only his own way. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४९</summary>
 
 849 kāṇātāṉ kāṭṭuvāṉ tāṉkāṇāṉ kāṇātāṉ  
 kaṇṭāṉām tāṉkaṇṭa vāṟu.
@@ -369,7 +369,7 @@ kaṇṭāṉām tāṉkaṇṭa vāṟu.
 849\. He who seeks to enlighten a fool befools himself i For the conceited fool thinks that he knows everything.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४९</summary>
 
 9\. காணாதான் காட்டுவான் தான்காணான் காணாதான்  
 கண்டானாம் தான்கண்ட வாறு.  
@@ -403,7 +403,7 @@ Will be thought a demon on earth. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५०</summary>
 
 850 ulakattār uṇṭeṉpatu illeṉpāṉ vaiyattu  
 alakaiyā vaikkap paṭum.
@@ -411,7 +411,7 @@ alakaiyā vaikkap paṭum.
 850\. He who is out of tune with the world is regarded a demon.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५०</summary>
 
 10\. உலகத்தார் உண்டென்பது இல்லென்பான் வையத்து  
 அலகையா வைக்கப் படும்.  

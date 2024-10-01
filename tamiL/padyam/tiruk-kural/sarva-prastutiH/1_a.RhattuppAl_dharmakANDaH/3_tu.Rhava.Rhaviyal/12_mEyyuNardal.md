@@ -24,7 +24,7 @@ Which takes the unreal for the Real. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५१</summary>
 
 351\. poruḷ allavaṟṟaip poruḷ eṉṟu uṇarum  
 maruḷāṉ ām, māṇāp piṟappu.
@@ -32,7 +32,7 @@ maruḷāṉ ām, māṇāp piṟappu.
 351\. Out of ignorance which mistakes things unreal for things real springs the wretched cycle of births.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५१</summary>
 
 1\. பொருளல்ல வற்றைப் பொருளென்று உணரும்  
 மருளானாம் மாணாப் பிறப்பு.  
@@ -66,7 +66,7 @@ Upon men of clear vision and free of delusion. *
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५२</summary>
 
 352\. iruḷ nīṅki iṉpam payakkum-maruḷ nīṅki  
 mācu aṟu kāṭciyavarkku.
@@ -74,7 +74,7 @@ mācu aṟu kāṭciyavarkku.
 352\. Men of pure vision are led from darkness to light.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५२</summary>
 
 2\. இருள்நீங்கி இன்பம் பயக்கும் மருள் நீங்கி  
 மாசறு காட்சி யவர்க்கு  
@@ -108,7 +108,7 @@ More than earth is heaven near.
 (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५३</summary>
 
 353\. aiyattiṉ nīṅkit teḷintārkku vaiyattiṉ  
 vāṉam naṇiyatu uṭaittu.
@@ -116,7 +116,7 @@ vāṉam naṇiyatu uṭaittu.
 353\. To men of unclouded wisdom heaven is nearer than earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५३</summary>
 
 3\. ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்  
 வானம் நணிய துடைத்து  
@@ -150,7 +150,7 @@ The other five senses are useless.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५४</summary>
 
 354\. aiuṇarvu eytiyak kaṇṇum payam iṉṟē-  
 mey uṇarvu illātavarkku.
@@ -158,7 +158,7 @@ mey uṇarvu illātavarkku.
 354\. What profits one’s perfect senses if one is not endowed with true knowledge.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५४</summary>
 
 4\. ஐயுணர்வு எய்தியக் கண்ணும் பயமின்றே  
 மெய்யுணர்வு இல்லா தவர்க்கு.  
@@ -197,7 +197,7 @@ In whatever way things are presented.
 ३५५. Alternate translations, but not close to original: 'The mark of wisdom is to see the reality behind each appearance' - (P.S. Sundaram). Compare with ४२३. "The mark of wisdom is to discern the truth from whatever source it is heard" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५५</summary>
 
 355\. ep poruḷ et taṉmaittuāyiṉum, ap poruḷ  
 meypporuḷ kāṇpatu aṟivu.
@@ -205,7 +205,7 @@ meypporuḷ kāṇpatu aṟivu.
 355\. To track all things to their subtlest retreats is true knowledge.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५५</summary>
 
 5\. எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்  
 மெய்ப்பொருள் காண்பது அறிவு.  
@@ -239,7 +239,7 @@ Will have learnt not to come back here.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५६</summary>
 
 356\. kaṟṟu īṇṭu meypporuḷ kaṇṭār talaippaṭuvar,  
 maṟṟu īṇṭu vārā neṟi.
@@ -247,7 +247,7 @@ maṟṟu īṇṭu vārā neṟi.
 356\. Those who have learnt the truth never enter back to this world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५६</summary>
 
 6\. கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்  
 மற்றீண்டு வாரா நெறி  
@@ -281,7 +281,7 @@ No need to think of rebirth.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५७</summary>
 
 357\. ōrttu uḷḷam uḷḷatu uṇariṉ oru talaiyā,  
 pērttu uḷḷavēṇṭā piṟappu.
@@ -289,7 +289,7 @@ pērttu uḷḷavēṇṭā piṟappu.
 357\. There is no fear of one’s re-birth if one seeks and finds the truth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५७</summary>
 
 7\. ஓர்த்துள்ளம் உள்ளது உணரின் ஒருதலையாப்  
 பேர்த்துள்ள வேண்டா பிறப்பு.  
@@ -323,7 +323,7 @@ To remove the folly of rebirth.
 (K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५८</summary>
 
 358\. piṟappu eṉṉum pētaimai nīṅka, ciṟappu eṉṉum  
 cemporuḷ kāṇpatu aṟivu.
@@ -331,7 +331,7 @@ cemporuḷ kāṇpatu aṟivu.
 358\. Seek the truth to remove delusion; that is wisdom.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५८</summary>
 
 8\. பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்  
 செம்பொருள் காண்பது அறிவு.  
@@ -370,7 +370,7 @@ Clinging ills will not cling. *
 ३५९. i.e. those who cling [to God] but does not cling [to the world]. Compare with ३५० for similar word play. “Cling to the one who clings to nothing; and so clinging, cease to cling” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३५९</summary>
 
 359\. cārpu uṇarntu, cārpu keṭa oḻukiṉ, maṟṟu aḻittuc  
 cārtarā, cārtarum nōy.
@@ -378,7 +378,7 @@ cārtarā, cārtarum nōy.
 359\. Seek the truth on which everything rests; you will be free from all the ills that assail life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३५९</summary>
 
 9\. சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்  
 சார்தரா சார்தரு நோய்.  
@@ -412,7 +412,7 @@ Sorrows shall not be. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६०</summary>
 
 360\. kāmam, vekuḷi, mayakkam, ivai mūṉṟaṉ  
 nāmam keṭa, keṭum nōy.
@@ -420,7 +420,7 @@ nāmam keṭa, keṭum nōy.
 360\. Wipe out the very names of lust, anger and delusion; you will be wiping out the pause of re-birth.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६०</summary>
 
 360\. kāmam, vekuḷi, mayakkam, ivai mūṉṟaṉ  
 nāmam keṭa, keṭum nōy.
@@ -429,7 +429,7 @@ nāmam keṭa, keṭum nōy.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६०</summary>
 
 10\. காமம் வெகுளி மயக்கம் இவை மூன்றன்  
 நாமம் கெடக்கெடும் நோய்  

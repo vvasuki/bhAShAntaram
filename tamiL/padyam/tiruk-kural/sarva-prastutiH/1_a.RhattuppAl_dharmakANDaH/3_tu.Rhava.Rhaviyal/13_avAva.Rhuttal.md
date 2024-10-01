@@ -24,7 +24,7 @@ For all things living at all times.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६१</summary>
 
 361\. 'avā' eṉpa-'ellā uyirkkum, eñ ñāṉṟum,  
 tavāap piṟappu īṉum vittu'.
@@ -32,7 +32,7 @@ tavāap piṟappu īṉum vittu'.
 361\. The learned say desire is the eternal seed of life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६१</summary>
 
 1\. அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும்  
 தவாஅப் பிறப்பீனும் வித்து.  
@@ -66,7 +66,7 @@ That comes only by desiring desirelessness.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६२</summary>
 
 362\. vēṇṭuṅkāl, vēṇṭum piṟavāmai; maṟṟu atu  
 vēṇṭāmai vēṇṭa, varum.
@@ -74,7 +74,7 @@ vēṇṭāmai vēṇṭa, varum.
 362\. Do you long for anything? Long for not being born again; this you can achieve if you cease your desires.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६२</summary>
 
 2\. வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது  
 வேண்டாமை வேண்ட வரும்.  
@@ -108,7 +108,7 @@ And none to excel it hereafter too!
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६३</summary>
 
 363\. vēṇṭāmai aṉṉa viḻuc celvam īṇṭu illai;  
 yāṇṭum aḵtu oppatu il.
@@ -116,7 +116,7 @@ yāṇṭum aḵtu oppatu il.
 363\. There is no greater possession than freedom from desire either here or in the world beyond.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६३</summary>
 
 3\. வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டில்லை  
 யாண்டும் அஃதொப்பது இல்.  
@@ -150,7 +150,7 @@ And that comes of seeking Truth. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६४</summary>
 
 364\. tūuymai eṉpatu avā iṉmai; maṟṟu atu  
 vā aymai vēṇṭa, varum.
@@ -158,7 +158,7 @@ vā aymai vēṇṭa, varum.
 364\. What is purity of mind but absence of desire? It will follow if one burns for truth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६४</summary>
 
 4\. தூஉய்மை என்பது அவாவின்மை மற்றது  
 வாஅய்மை வேண்ட வரும்  
@@ -192,7 +192,7 @@ Others, of all else free, remain un-free. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६५</summary>
 
 365\. aṟṟavar eṉpār avā aṟṟār; maṟṟaiyār  
 aṟṟu āka aṟṟatu ilar.
@@ -200,7 +200,7 @@ aṟṟu āka aṟṟatu ilar.
 365\. Only those who have renounced are free; others are not.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६५</summary>
 
 5\. அற்றவர் என்பார் அவாஅற்றார் மற்றையார்  
 அற்றாக அற்றது இலர்  
@@ -234,7 +234,7 @@ For desire is a great betrayer.
 (V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६६</summary>
 
 366\. añcuvatu ōrum aṟaṉē; oruvaṉai  
 vañcippatu ōrum avā.
@@ -242,7 +242,7 @@ vañcippatu ōrum avā.
 366\. It is desire that seduces men into sin; Asceticism dreads desires.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६६</summary>
 
 6\. அஞ்சுவ தோரும் அறனே ஒருவனை  
 வஞ்சிப்ப தோரும் அவா  
@@ -276,7 +276,7 @@ Liberation comes as and when desired.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६७</summary>
 
 367\. avāviṉai āṟṟa aṟuppiṉ, tavā viṉai  
 tāṉvēṇṭum āṟṟāṉ varum.
@@ -284,7 +284,7 @@ tāṉvēṇṭum āṟṟāṉ varum.
 367\. The desired path of virtue is open to one who kills desire.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६७</summary>
 
 7\. அவாவினை ஆற்ற அறுப்பின் தவாவினை  
 தான்வேண்டு மாற்றான் வரும்  
@@ -318,7 +318,7 @@ Where there is, it comes over and above.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६८</summary>
 
 368\. avā illārkku illākum tuṉpam; aḵtu uṇṭēl,  
 tavāatu mēṉmēl varum.
@@ -326,7 +326,7 @@ tavāatu mēṉmēl varum.
 368\. There is no sorrow for those who are free from desire. Endless sorrows befall men with desire.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६८</summary>
 
 8\. அவாஇல்லார்க் கில்லாகுந் துன்பம் அஃதுண்டேல்  
 தவாஅது மேன்மேல் வரும்.  
@@ -360,7 +360,7 @@ The result is never-ending joy.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३६९</summary>
 
 369\. iṉpam iṭaiyaṟātu, īṇṭum-avā eṉṉum  
 tuṉpattuḷ tuṉpam keṭiṉ.
@@ -368,7 +368,7 @@ tuṉpattuḷ tuṉpam keṭiṉ.
 369\. There is an eternal flow of life’s happiness when desire, the evil of ail evils, dies out.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३६९</summary>
 
 9\. இன்பம் இடையறா தீண்டும் அவாவென்னும்  
 துன்பத்துள் துன்பம் கெடின்.  
@@ -402,7 +402,7 @@ When desire that is insatiable is conquered.
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३७०</summary>
 
 370\. ārā iyaṟkai avā nīppiṉ, an nilaiyē  
 pērā iyaṟkai tarum.
@@ -410,7 +410,7 @@ pērā iyaṟkai tarum.
 370\. Give up your insatiable longings; you will be conferring on yourself an eternal life.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३७०</summary>
 
 370\. ārā iyaṟkai avā nīppiṉ, an nilaiyē  
 pērā iyaṟkai tarum.
@@ -419,7 +419,7 @@ pērā iyaṟkai tarum.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३७०</summary>
 
 10\. ஆரா இயற்கை அவாநீப்பின் அந்நிலையே  
 பேரா இயற்கை தரும்.  

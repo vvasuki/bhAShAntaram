@@ -29,7 +29,7 @@ To bring out the best in him.
 १३२१. Compare with १३०१: "Let me feign to be angry and see his pain of suffering for a while" - (N.V.K. Ashraf) 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२१</summary>
 
 1321 illai tavaṟuavarkku āyiṉum ūṭutal  
 vallatu avaraḷikkum āṟu.
@@ -37,7 +37,7 @@ vallatu avaraḷikkum āṟu.
 1321\. Though he is guiltless, false accusations make him more attached.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२१</summary>
 
 1\. இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்  
 வல்லது அவர்அளிக்கு மாறு.  
@@ -71,7 +71,7 @@ But strengthen love.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२२</summary>
 
 1322 ūṭalil tōṉṟum ciṟutuṉi nalaḷi  
 vāṭiṉum pāṭu peṟum.
@@ -79,7 +79,7 @@ vāṭiṉum pāṭu peṟum.
 1322\. The little resentment resulting from lover’s quarrels yields delight in the end, though it may for the moment seem to cause pain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२२</summary>
 
 2\. ஊடலில் தோன்றும் சிறுதுனி நல்லளி  
 வாடினும் பாடு பெறும்.  
@@ -113,7 +113,7 @@ With hearts that join like earth and water?
 ( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२३</summary>
 
 1323 pulattaliṉ puttēḷnāṭu uṇṭō nilattoṭu  
 nīriyain taṉṉār akattu.
@@ -121,7 +121,7 @@ nīriyain taṉṉār akattu.
 1323\. Is there any other heaven than the quarrel between lovers whose minds are united even as earth and water?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२३</summary>
 
 3\. புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு  
 நீரியைந் தன்னா ரகத்து.  
@@ -155,7 +155,7 @@ To break the defence of my heart.
 (J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२४</summary>
 
 1324 pulli viṭāap pulaviyuḷ tōṉṟumeṉ  
 uḷḷam uṭaikkum paṭai.
@@ -163,7 +163,7 @@ uḷḷam uṭaikkum paṭai.
 1324\. The weapon that breaks my obstinate heart lies in the quarrel itself.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२४</summary>
 
 4\. புல்லி விடாஅப் புலவியுள் தோன்றுமென்  
 உள்ளம் உடைக்கும் படை.  
@@ -197,7 +197,7 @@ The shoulders from one’s clasp. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२५</summary>
 
 1325 tavaṟilar āyiṉum tāmvīḻvār meṉtōḷ  
 akaṟaliṉ āṅkoṉṟu uṭaittu.
@@ -205,7 +205,7 @@ akaṟaliṉ āṅkoṉṟu uṭaittu.
 1325\. Though guiltless being denied, there is a pleasure in the embrace of the soft beautiful shoulders of the sweetheart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२५</summary>
 
 5\. தவறில ராயினும் தாம்வீழ்வார் மென்றோள்  
 அகறலி னாங்கொன்று உடைத்து.  
@@ -239,7 +239,7 @@ So is sulking more joyous than union.
 (N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२६</summary>
 
 1326 uṇaliṉum uṇṭatu aṟaliṉitu kāmam  
 puṇartaliṉ ūṭal iṉitu.
@@ -247,7 +247,7 @@ puṇartaliṉ ūṭal iṉitu.
 1326\. Sweeter than eating is the pause in the process. Likewise misunderstanding by lovers affords more joy than union itself.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२६</summary>
 
 6\. உணலினும் உண்டது அறல்இனிது காமம்  
 புணர்தலின் ஊடல் இனிது.  
@@ -281,7 +281,7 @@ As shown when they make up.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२७</summary>
 
 1327 ūṭalil tōṟṟavar veṉṟār atumaṉṉum  
 kūṭalil kāṇap paṭum.
@@ -289,7 +289,7 @@ kūṭalil kāṇap paṭum.
 1327\. In a lovers’ quarrel, the vanquished becomes the victor; this is revealed when they reunite.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२७</summary>
 
 7\. ஊடலில் தோற்றவர் வென்றார் அதுமன்னும்  
 கூடலில் காணப் படும்.  
@@ -323,7 +323,7 @@ Of that union drenched in sweat? *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२८</summary>
 
 1328 ūṭip peṟukuvam kollō nutalveyarppak  
 kūṭalil tōṉṟiya uppu.
@@ -331,7 +331,7 @@ kūṭalil tōṉṟiya uppu.
 1328\. Am I likely to gain, after a friendly quarrel, the delight now experienced in the union with her moistened forehead?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२८</summary>
 
 8\. ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக்  
 கூடலில் தோன்றிய உப்பு.  
@@ -365,7 +365,7 @@ And may the night be prolonged for me to implore her! *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२९</summary>
 
 1329 ūṭuka maṉṉō oḷiyiḻai yāmirappa  
 nīṭuka maṉṉō irā.
@@ -373,7 +373,7 @@ nīṭuka maṉṉō irā.
 1329\. May the jewelled lady-love go on quarrelling; may also the night be long enough to conciliate her!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२९</summary>
 
 9\. ஊடுக மன்னோ ஒளியிழை யாம்இரப்ப  
 நீடுக மன்னோ இரா.  
@@ -407,7 +407,7 @@ While embracing in union.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३३०</summary>
 
 1330 ūṭutal kāmattiṟku iṉpam ataṟkuiṉpam  
 kūṭi muyaṅkap peṟiṉ.
@@ -415,7 +415,7 @@ kūṭi muyaṅkap peṟiṉ.
 1330\. The delight of love is the lovers’ quarrel; greater delight is the loving reunion.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३३०</summary>
 
 10\. ஊடுதல் காமத்திற்கு இன்பம் அதற்கின்பம்  
 கூடி முயங்கப் பெறின்.  

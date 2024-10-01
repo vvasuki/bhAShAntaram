@@ -29,7 +29,7 @@ Its mere thought intoxicates.
 १२०१. Compare with: १०९०: "Wine won't delight unless imbibed, but love with a look delights!" - (P.S. Sundaram) and with १२८१ "To please with the thought and delight with the sight, belongs not to liquor but love" –(P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०१</summary>
 
 1201 uḷḷiṉum tīrāp perumakiḻ ceytalāl  
 kaḷḷiṉum kāmam iṉitu.
@@ -37,7 +37,7 @@ kaḷḷiṉum kāmam iṉitu.
 1201\. Love is far sweeter than wine; for unlike wine the very thought of love intoxicates me.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०१</summary>
 
 1\. உள்ளினும் தீராப் பெருமகிழ் செய்தலால்  
 கள்ளினும் காமம் இனிது.  
@@ -71,7 +71,7 @@ To overcome the pain of loneliness! *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०२</summary>
 
 1202 eṉaittoṉṟu iṉitēkāṇ kāmamtām vīḻvār  
 niṉaippa varuvatoṉṟu il.
@@ -79,7 +79,7 @@ niṉaippa varuvatoṉṟu il.
 1202\. Love is sweet in all respects; the thought of the dear one even in separation tastes sweet.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०२</summary>
 
 2\. எனைத்தொன்று இனிதேகாண் காமம்தாம் வீழ்வார்  
 நினைப்ப வருவதொன்று இல்.  
@@ -113,7 +113,7 @@ That my sneeze passes off incomplete?
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०३</summary>
 
 1203 niṉaippavar pōṉṟu niṉaiyārkol tummal  
 ciṉaippatu pōṉṟu keṭum.
@@ -121,7 +121,7 @@ ciṉaippatu pōṉṟu keṭum.
 1203\. She says to her companion: “A sneeze comes upon me but goes away all of a sudden; perhaps a thought of me occurs to him and then he forgets it.”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०३</summary>
 
 3\. நினைப்பவர் போன்று நினையார்கொல் தும்மல்  
 சினைப்பது போன்று கெடும்.  
@@ -155,7 +155,7 @@ Do I also likewise abide in his?
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०४</summary>
 
 1204 yāmum uḷēmkol avarneñcattu emneñcattu  
 ōo uḷarē avar.
@@ -163,7 +163,7 @@ Do I also likewise abide in his?
 1204\. He is ever present in my thoughts. Am I or am I not ever present in his thoughts?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०४</summary>
 
 4\. யாமும் உளேம்கொல் அவர்நெஞ்சத்து எந்நெஞ்சத்து  
 ஓஒ உளரே அவர்.  
@@ -197,7 +197,7 @@ Is he not ashamed to enter mine?
 (K.R. Srinivasa Iyengar), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०५</summary>
 
 1205 tamneñcattu emmaik kaṭikoṇṭār nāṇārkol  
 emneñcattu ōvā varal.
@@ -205,7 +205,7 @@ emneñcattu ōvā varal.
 1205\. He keeps me away from his heart; does he not feel ashamed of constantly stealing into my heart?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०५</summary>
 
 5\. தம்நெஞ்சத்து எம்மைக் கடிகொண்டார் நாணார்கொல்  
 எம்நெஞ்சத்து ஓவா வரல்.  
@@ -239,7 +239,7 @@ I lived in union with him.
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०६</summary>
 
 1206 maṟṟuyāṉ eṉṉuḷēṉ maṉṉō avaroṭuyāṉ  
 uṟṟanāḷ uḷḷa uḷēṉ.
@@ -247,7 +247,7 @@ uṟṟanāḷ uḷḷa uḷēṉ.
 1206\. Only the recollection of those ecstatic days with him makes me live. What else can sustain me?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०६</summary>
 
 6\. மற்றியான் என்னுளேன் மன்னோ அவரொடுயான்  
 உற்றநாள் உள்ள உளேன்.  
@@ -286,7 +286,7 @@ When his memory itself burns my heart? *
 १२०७. Compare with ११६५. "If his friendship can bring so much misery, how will it be in enmity?" * - (G. Vanmikanathan), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०७</summary>
 
 1207 maṟappiṉ evaṉāvaṉ maṉkol maṟappaṟiyēṉ  
 uḷḷiṉum uḷḷañ cuṭum.
@@ -294,7 +294,7 @@ uḷḷiṉum uḷḷañ cuṭum.
 1207\. Never have I forgotten the golden days with my beloved; his separation now burns into my heart; certain is death if ever the memory of him forsakes my luckless heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०७</summary>
 
 7\. மறப்பின் எவனாவன் மற்கொல் மறப்பறியேன்  
 உள்ளினும் உள்ளம் சுடும்.  
@@ -333,7 +333,7 @@ Isn’t it an honor from my lover? *
 १२०८. An explanatory translation: "The greatness of my love is that he never finds fault with me for remembering him often" - (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०८</summary>
 
 1208 eṉaittu niṉaippiṉum kāyār aṉaittaṉṟō  
 kātalar ceyyum ciṟappu.
@@ -341,7 +341,7 @@ kātalar ceyyum ciṟappu.
 1208\. However much I may think of him, he is never angry with me. Inimitable is my lover's grace.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०८</summary>
 
 8\. எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ  
 காதலர் செய்யும் சிறப்பு.  
@@ -375,7 +375,7 @@ For once he said we are not different. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०९</summary>
 
 1209 viḷiyumeṉ iṉṉuyir vēṟallam eṉpā  
 aḷiyiṉmai āṟṟa niṉaintu.
@@ -383,7 +383,7 @@ aḷiyiṉmai āṟṟa niṉaintu.
 1209\. As I think and think of the cruelty of my love who swore that our lives were inseparable, my soul ebbs away.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०९</summary>
 
 9\. விளியும்என் இன்னுயிர் வேறல்லம் என்பார்  
 அளியின்மை ஆற்ற நினைத்து.  
@@ -417,7 +417,7 @@ Who left me but not from my heart.
 ( Shuddhananda Bharatiar), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१०</summary>
 
 1210 viṭāatu ceṉṟāraik kaṇṇiṉāl kāṇap  
 paṭāati vāḻi mati.
@@ -425,7 +425,7 @@ paṭāati vāḻi mati.
 1210\. She says to the moon : “O blessed moon I ceaselessly pour your rays till I am able to see with my eyes the loved one who has forsaken me but yet dwells forever in my heart.”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१०</summary>
 
 10\. விடாஅது சென்றாரைக் கண்ணினால் காணப்  
 படாஅதி வாழி மதி.  

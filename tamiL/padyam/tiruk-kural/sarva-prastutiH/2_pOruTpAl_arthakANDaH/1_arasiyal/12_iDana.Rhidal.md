@@ -24,7 +24,7 @@ Till you find a place to besiege him. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९१</summary>
 
 491\. toṭaṅkaṟka ev viṉaiyum; eḷḷaṟka-muṟṟum  
 iṭam kaṇṭapiṉ allatu!.
@@ -32,7 +32,7 @@ iṭam kaṇṭapiṉ allatu!.
 491\. Scorn not the foe; embark not on any action till you secure a coign of vantage to overwhelm him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९१</summary>
 
 1\. தொடங்கற்க எவ்வினையும் எள்ளற்க முற்றும்  
 இடங்கண்ட பின்அல் லது  
@@ -66,7 +66,7 @@ Even to men of strength and valour. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९२</summary>
 
 492\. muraṇ cērnta moympiṉavarkkum araṇ cērntu ām  
 ākkam palavum tarum.
@@ -74,7 +74,7 @@ Even to men of strength and valour. *
 492\. Even to men of great valour and power, manifold are the advantages yielded by a fortress.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९२</summary>
 
 2\. முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம்  
 ஆக்கம் பலவுந் தரும்  
@@ -108,7 +108,7 @@ If they choose the right place.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९३</summary>
 
 493\. āṟṟārum āṟṟi aṭupa-iṭaṉ aṟintu  
 pōṟṟārkaṇ pōṟṟic ceyiṉ.
@@ -116,7 +116,7 @@ pōṟṟārkaṇ pōṟṟic ceyiṉ.
 493\. Even the weak are able to win if they choose the right place to assail the foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९३</summary>
 
 3\. ஆற்றாரும் ஆற்றி அடுப இடனறிந்து  
 போற்றார்கண் போற்றிச் செயின்.  
@@ -150,7 +150,7 @@ Enemies lose their strategic plans.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९४</summary>
 
 494\. eṇṇiyār eṇṇam iḻappar-iṭaṉ aṟintu  
 tuṉṉiyār tuṉṉic ceyiṉ.
@@ -158,7 +158,7 @@ tuṉṉiyār tuṉṉic ceyiṉ.
 494\. If a king stations himself at a right place the conquering foe loses all hope.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९४</summary>
 
 4\. எண்ணியார் எண்ணம் இழப்பர் இடனறிந்து  
 துன்னியார் துன்னிச் செயின்  
@@ -192,7 +192,7 @@ But when out of water, others prevail over it.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९५</summary>
 
 495\. neṭum puṉaluḷ vellum mutalai; aṭum, puṉaliṉ  
 nīṅkiṉ, ataṉaip piṟa.
@@ -200,7 +200,7 @@ nīṅkiṉ, ataṉaip piṟa.
 495\. The crocodile in waters deep overpowers all; once it leaves the waters, he falls an easy prey to its foes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९५</summary>
 
 5\. நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின்  
 நீங்கின் அதனைப் பிற.  
@@ -234,7 +234,7 @@ Nor a boat navigate land.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९६</summary>
 
 496\. kaṭal ōṭā, kāl val neṭun tēr; kaṭal ōṭum  
 nāvāyum ōṭā, nilattu.
@@ -242,7 +242,7 @@ nāvāyum ōṭā, nilattu.
 496\. The strong wheeled lofty chariot cannot cross the seas, nor can ocean sailing ships move on land.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९६</summary>
 
 6\. கடலோடா கால்வல் நெடுந்தேர் கடலோடும்  
 நாவாயும் ஓடா நிலத்து  
@@ -276,7 +276,7 @@ If one ponders from which place to pounce.
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९७</summary>
 
 497\. añcāmai allāl, tuṇai vēṇṭā-eñcāmai  
 eṇṇi iṭattāṉ ceyiṉ.
@@ -284,7 +284,7 @@ eṇṇi iṭattāṉ ceyiṉ.
 497\. If one selects a suitable place by one’s discretion, no other help is needed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९७</summary>
 
 7\. அஞ்சாமை அல்லால் துணைவேண்டா எஞ்சாமை  
 எண்ணி இடத்தால் செயின்  
@@ -318,7 +318,7 @@ If driven to a place meant for a small one.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९८</summary>
 
 498\. ciṟu paṭaiyāṉ cel iṭam cēriṉ, uṟu paṭaiyāṉ  
 ūkkam aḻintu viṭum.
@@ -326,7 +326,7 @@ If driven to a place meant for a small one.
 498\. Ruined will be the strength of one who takes a large army to a place where the enemy of small forces is entrenched.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९८</summary>
 
 8\. சிறுபடையான் செல்லிடம் சேரின் உறுபடையான்  
 ஊக்கம் அழிந்து விடும்  
@@ -360,7 +360,7 @@ Even when they lack fortress and strength.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९९</summary>
 
 499\. ciṟai nalaṉum cīrum ilar eṉiṉum, māntar  
 uṟai nilattoṭu oṭṭal aritu.
@@ -368,7 +368,7 @@ uṟai nilattoṭu oṭṭal aritu.
 499\. A people may not have either strength or strongholds; still it is difficult to fight with them on their own soil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९९</summary>
 
 9\. சிறைநலனும் சீரும் இலரெனினும் மாந்தர்  
 உறைநிலத்தோடு ஒட்டல் அரிது  
@@ -402,7 +402,7 @@ Will be overcome by jackals. *
 (J. Narayanaswamy), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५००</summary>
 
 500\. kāl āḻ kaḷaril nari aṭum, kaṇ añcā  
 vēl āḷ mukatta kaḷiṟu.
@@ -410,7 +410,7 @@ vēl āḷ mukatta kaḷiṟu.
 500\. A mad elephant that kills the bold spearman is killed even by a jackal when it gets stuck up in the mire.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५००</summary>
 
 10\. காலாழ் களரில் நரியடும் கண்ணஞ்சா  
 வேளாள் முகத்த களிறு.  

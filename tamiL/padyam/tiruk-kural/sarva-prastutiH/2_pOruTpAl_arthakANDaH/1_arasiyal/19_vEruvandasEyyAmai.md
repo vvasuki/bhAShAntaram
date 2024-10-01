@@ -24,7 +24,7 @@ Is deterrent and proportionate.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६१</summary>
 
 561\. takkāṅku nāṭi, talaiccellā vaṇṇattāl  
 ottāṅku oṟuppatu vēntu.
@@ -32,7 +32,7 @@ ottāṅku oṟuppatu vēntu.
 561\. A righteous king investigates and fittingly punishes the wrongdoer so that he may not repeat it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६१</summary>
 
 1\. தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்  
 ஒத்தாங்கு ஒறுப்பது வேந்து.  
@@ -71,7 +71,7 @@ SDR
 ५६२. What is meant by this statement is this: "Pretend to be harsh, but act mildly if you want long lasting effect" - (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६२</summary>
 
 562\. kaṭitu ōcci, mella eṟika-neṭitu ākkam  
 nīṅkāmai vēṇṭupavar.
@@ -79,7 +79,7 @@ nīṅkāmai vēṇṭupavar.
 562\. If you wish enduring prosperity behave as if you punish excessively, but do it mildly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६२</summary>
 
 2\. கடிதோச்சி மெல்ல எறிக நெடிதாக்கம்  
 நீங்காமை வேண்டு பவர்.  
@@ -113,7 +113,7 @@ Will have a speedy and certain end.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६३</summary>
 
 563\. veruvanta ceytu oḻukum veṅkōlaṉ āyiṉ,  
 oruvantam ollaik keṭum.
@@ -121,7 +121,7 @@ oruvantam ollaik keṭum.
 563\. The tyrant who terrifies his subjects will soon perish.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६३</summary>
 
 3\. வெருவந்த செய்துஒழுகும் வெங்கோல னாயின்  
 ஒருவந்தம் ஒல்லைக் கெடும்.  
@@ -155,7 +155,7 @@ His life is shortened and end becomes imminent.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६४</summary>
 
 564\. 'iṟai kaṭiyaṉ' eṉṟu uraikkum iṉṉāc col vēntaṉ  
 uṟai kaṭuki ollaik keṭum.
@@ -163,7 +163,7 @@ uṟai kaṭuki ollaik keṭum.
 564\. That king whom people speak of as a tyrant will rapidly perish.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६४</summary>
 
 4\. இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்  
 உறைகடுகி ஒல்லைக் கெடும்.  
@@ -197,7 +197,7 @@ Is no better than a demon's. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६५</summary>
 
 565\. aruñ cevvi, iṉṉā mukattāṉ peruñ celvam  
 pēey kaṇṭaṉṉatu uṭaittu.
@@ -205,7 +205,7 @@ pēey kaṇṭaṉṉatu uṭaittu.
 565\. The great wealth of a king who is inaccessible and assumes a fearful look, is no better than in the possession of a demon.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६५</summary>
 
 5\. அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்  
 பேஎய்கண் டன்னது உடைத்து.  
@@ -239,7 +239,7 @@ His lofty wealth ends there without lasting long. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६६</summary>
 
 566\. kaṭuñ collaṉ, kaṇ ilaṉ āyiṉ, neṭuñ celvam  
 nīṭu iṉṟi, āṅkē keṭum.
@@ -247,7 +247,7 @@ nīṭu iṉṟi, āṅkē keṭum.
 566\. The abundant wealth of a king who utters harsh words and puts on unkind looks will not last long.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६६</summary>
 
 6\. கடுஞ்சொல்லன் கண்ணில னாயின் நெடுஞ்செல்வம்  
 நீடின்றி ஆங்கே கெடும்.  
@@ -281,7 +281,7 @@ Are files that grind down a king's might. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६७</summary>
 
 567\. kaṭu moḻiyum, kaiyikanta taṇṭamum, vēntaṉ  
 aṭu muraṇ tēykkum aram.
@@ -289,7 +289,7 @@ aṭu muraṇ tēykkum aram.
 567\. Severity in speech and excess in punishment are like the file which removes his capacity to destroy (his enemies).  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६७</summary>
 
 7\. கடுமொழியும் கையிகந்த தண்டமும் வேந்தன்  
 அடுமுரண் தேய்க்கும் அரம்.  
@@ -323,7 +323,7 @@ Will soon see his wealth shrink. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६८</summary>
 
 568\. iṉattu āṟṟi, eṇṇāta vēntaṉ ciṉattu āṟṟic  
 cīṟiṉ, ciṟukum tiru.
@@ -331,7 +331,7 @@ cīṟiṉ, ciṟukum tiru.
 568\. The prosperity of a king who does not consult his advisers but makes them the victims of his fury will shrink.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६८</summary>
 
 8\. இனத்தாற்றி எண்ணாத வேந்தன் சினத்தாற்றிச்  
 சீறின் சிறுகும் திரு  
@@ -365,7 +365,7 @@ Will die of fright at the time of war. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६९</summary>
 
 569\. ceru vanta pōḻtil, ciṟai ceyyā vēntaṉ,  
 veruvantu, veytu keṭum.
@@ -373,7 +373,7 @@ veruvantu, veytu keṭum.
 569\. If a king who has no fortress meets a foe, he will be ruined by fear.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६९</summary>
 
 9\. செருவந்த போழ்திற் சிறைசெய்யா வேந்தன்  
 வெருவந்து வெய்து கெடும்.  
@@ -407,7 +407,7 @@ Than a tyrant surrounded by ignorant men. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५७०</summary>
 
 570\. kallārp piṇikkum, kaṭuṅkōl; atu allatu  
 illai, nilakkup poṟai.
@@ -415,7 +415,7 @@ illai, nilakkup poṟai.
 570\. No burden is harder for the earth to bear than the cruel sceptre wielded by the unwise.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५७०</summary>
 
 10\. கல்லார்ப் பிணிக்கும் கடுங்கோல் அதுவல்லது  
 இல்லை நிலக்குப் பொறை.  

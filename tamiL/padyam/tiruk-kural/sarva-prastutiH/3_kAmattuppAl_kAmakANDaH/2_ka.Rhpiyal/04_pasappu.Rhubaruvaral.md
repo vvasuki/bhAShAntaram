@@ -29,7 +29,7 @@ How can I complain of my pallor to others? *
 ११८१. An alternate translation, but not close to the original is given by (P.S. Sundaram). “I agreed to part and so have lost the right to complain of my pallor”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८१</summary>
 
 1181 nayantavarkku nalkāmai nērntēṉ pacantaveṉ  
 paṇpiyārkku uraikkō piṟa.
@@ -37,7 +37,7 @@ paṇpiyārkku uraikkō piṟa.
 1181\. I did not assent to my lover’s parting. To whom can I now complain of the pallor of my body, stricken with separation?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८१</summary>
 
 1\. நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தஎன்  
 பண்பியார்க்கு உரைக்கோ பிற.  
@@ -71,7 +71,7 @@ Pallor creeps over my body with pride. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८२</summary>
 
 1182 avartantār eṉṉum takaiyāl ivartantueṉ  
 mēṉimēl ūrum pacappu.
@@ -79,7 +79,7 @@ mēṉimēl ūrum pacappu.
 1182\. The pallor spread over my body, exalting in the fact that he gave its birth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८२</summary>
 
 2\. அவர்தந்தார் என்னும் தகையால் இவர்தந்தென்  
 மேனிமேல் ஊரும் பசப்பு.  
@@ -113,7 +113,7 @@ And gave in exchange sickness and pallor.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८३</summary>
 
 1183 cāyalum nāṇum avarkoṇṭār kaimmāṟā  
 nōyum pacalaiyum tantu.
@@ -121,7 +121,7 @@ nōyum pacalaiyum tantu.
 1183\. For my beauty and my bashfulness which he took away with him, my lover rewarded me with anguish and pallor.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८३</summary>
 
 3\. சாயலும் நாணும் அவர்கொண்டார் கைம்மாறா  
 நோயும் பசலையும் தந்து.  
@@ -155,7 +155,7 @@ Yet, how does pallor sneak in?
 (S.M. Diaz), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८४</summary>
 
 1184 uḷḷuvaṉ maṉyāṉ uraippatu avartiṟamāl  
 kaḷḷam piṟavō pacappu.
@@ -163,7 +163,7 @@ kaḷḷam piṟavō pacappu.
 1184\. I think only of him and I open my lips only to sing his praises. Yet this pallor has come over me — O what cunning is this!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८४</summary>
 
 4\. உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால்  
 கள்ளம் பிறவோ பசப்பு.  
@@ -197,7 +197,7 @@ To creep over my body. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८५</summary>
 
 1185 uvakkāṇem kātalar celvār ivakkāṇeṉ  
 mēṉi pacappuūr vatu.
@@ -205,7 +205,7 @@ mēṉi pacappuūr vatu.
 1185\. Lo! Yonder is my lover gone. And here is the pallid hue spreading over my frame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८५</summary>
 
 5\. உவக்காண்எம் காதலர் செல்வார் இவக்காண்என்  
 மேனி பசப்பூர் வது.  
@@ -239,7 +239,7 @@ And pallor for the embrace to break.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८६</summary>
 
 1186 viḷakkuaṟṟam pārkkum iruḷēpōl koṇkaṉ  
 muyakkuaṟṟam pārkkum pacappu.
@@ -247,7 +247,7 @@ muyakkuaṟṟam pārkkum pacappu.
 1186\. Pallor awaits me the moment I am away from my lord’s embrace, even as darkness lies in wait for the light to fade.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८६</summary>
 
 6\. விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கன்  
 முயக்கற்றம் பார்க்கும் பசப்பு.  
@@ -281,7 +281,7 @@ Seizing that moment, pallor seized me in full. *
 (P.S. Sundaram), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८७</summary>
 
 1187 pullik kiṭantēṉ puṭaipeyarntēṉ avvaḷavil  
 aḷḷikkoḷ vaṟṟē pacappu.
@@ -289,7 +289,7 @@ aḷḷikkoḷ vaṟṟē pacappu.
 1187\. I lay locked up in my lover’s embrace; I moved away so little from him; when lo! pallor sprang up as it were to devour me.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८७</summary>
 
 7\. புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்  
 அள்ளிக்கொள் வற்றே பசப்பு.  
@@ -323,7 +323,7 @@ But none say “He parted her”.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८८</summary>
 
 1188 pacantāḷ ivaḷeṉpatu allāl ivaḷait  
 tuṟantār evareṉpār il.
@@ -331,7 +331,7 @@ tuṟantār evareṉpār il.
 1188\. People say that I have gone sickly pale; never do they blame him that has abandoned me.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८८</summary>
 
 8\. பசந்தாள் இவள்என்பது அல்லால் இவளைத்  
 துறந்தார் அவர்என்பார் இல்.  
@@ -365,7 +365,7 @@ My pallor is worth all the grief. *
 (W.H. Drew and J. Lazarus), (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८९</summary>
 
 1189 pacakkamaṉ paṭṭāṅkueṉ mēṉi nayappittār  
 nalnilaiyar āvar eṉiṉ.
@@ -373,7 +373,7 @@ nalnilaiyar āvar eṉiṉ.
 1189\. If only he would keep his promise to return, my frame would gladly endure all the pallor of love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८९</summary>
 
 9\. பசக்கமன் பட்டாங்கென் மேனி நயப்பித்தார்  
 நல்நிலையார் ஆவர் எனின்.  
@@ -407,7 +407,7 @@ They don’t blame him for causing it. *
 (K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९०</summary>
 
 1190 pacappeṉap pērpeṟutal naṉṟē nayappittār  
 nalkāmai tūṟṟār eṉiṉ.
@@ -415,7 +415,7 @@ nalkāmai tūṟṟār eṉiṉ.
 1190\. Good it is for me to be known as pallor incarnate if only people do not call my lover merciless.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९०</summary>
 
 10\. பசப்பெஎனப் பேர்பெறுதல் நன்றே நயப்பித்தார்  
 நல்காமை தூற்றார் எனின்.  

@@ -25,7 +25,7 @@ Other things come thereafter.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६१</summary>
 
 661\. viṉait tiṭpam eṉpatu oruvaṉ maṉat tiṭpam;  
 maṟṟaiya ellām piṟa.
@@ -33,7 +33,7 @@ maṟṟaiya ellām piṟa.
 661\. Determination in action is one’s resolution. All others are nothing.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६१</summary>
 
 1\. வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம்  
 மற்றைய எல்லாம் பிற.  
@@ -67,7 +67,7 @@ Are the two traits scholars emphasize.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६२</summary>
 
 662\. ūṟu orāl, uṟṟapiṉ olkāmai, iv iraṇṭiṉ  
 āṟu eṉpar-āyntavar kōḷ.
@@ -75,7 +75,7 @@ Are the two traits scholars emphasize.
 662\. Ministers versed in lore will not do unprofitable deeds, and if they do, they will not regret it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६२</summary>
 
 2\. ஊறொராவ் உற்றபின் ஒல்காமை இவ்விரண்டின்  
 ஆறென்பர் ஆய்ந்தவர் கோள்.  
@@ -109,7 +109,7 @@ Can cause irrevocable damage.
 (N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६३</summary>
 
 663\. kaṭaik koṭkac ceytakkatu āṇmai; iṭaik koṭkiṉ,  
 eṟṟā viḻumam tarum.
@@ -117,7 +117,7 @@ eṟṟā viḻumam tarum.
 663\. A clever minister publishes a deed after its completion; if it becomes public in the intermediate stage, it will end in trouble.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६३</summary>
 
 3\. கடைகொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்  
 எற்றா விழுமந் தரும்.  
@@ -151,7 +151,7 @@ But difficult to execute what has been spoken. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६४</summary>
 
 664\. collutal yārkkum eḷiya; ariya ām,  
 colliya vaṇṇam ceyal.
@@ -159,7 +159,7 @@ colliya vaṇṇam ceyal.
 664\. It is easy for one to say, but it is difficult to do it in the said manner.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६४</summary>
 
 4\. சொல்லுதல் யார்க்கும் எளிய அரியவாம்  
 சொல்லிய வண்ணம் செயல்.  
@@ -193,7 +193,7 @@ Will reach the king to win his praise.
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६५</summary>
 
 665\. vīṟu eyti māṇṭār viṉait tiṭpam, vēntaṉkaṇ  
 ūṟu eyti, uḷḷappaṭum.
@@ -201,7 +201,7 @@ Will reach the king to win his praise.
 665\. The resolution of a thoughtful and good minister in strengthening his monarch will earn all praise.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६५</summary>
 
 5\. வீறெய்தி மாண்டார் வினைதிட்பம் வேந்தன்கண்  
 ஊறெய்தி உள்ளப் படும்.  
@@ -240,7 +240,7 @@ If only the seeker is determined.
 ६६६. Compare with couplets ५४० and ३०९. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "All wishes are realized at once if they keep away wrath from their mind" – (N.V.K. Ashraf).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६६</summary>
 
 666\. eṇṇiya eṇṇiyāṅku eytupa-eṇṇiyār  
 tiṇṇiyar ākappeṟiṉ.
@@ -248,7 +248,7 @@ tiṇṇiyar ākappeṟiṉ.
 666\. Firm of purpose, ministers carry out their resolution.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६६</summary>
 
 6\. எண்ணிய எண்ணியாங்கு எய்துப எண்ணியார்  
 திண்ணிய ராகப் பெறின்.  
@@ -287,7 +287,7 @@ The wheels of mighty chariots! *
 ६६७. Compare with २७९. “The lute is bent, the arrow straight: judge men not by their looks but acts” – (P.S. Sundaram) ६६८. Compare with ६७१. "The end of deliberation is decision. To decide and dawdle is bad" – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६७</summary>
 
 667\. uruvu kaṇṭu eḷḷāmai vēṇṭum-uruḷ perun tērkku  
 accu āṇi aṉṉār uṭaittu.
@@ -295,7 +295,7 @@ accu āṇi aṉṉār uṭaittu.
 667\. Do not despise one for lack of personality. Does not the little nail of the chariot keep the wheel going?  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६७</summary>
 
 667\. uruvu kaṇṭu eḷḷāmai vēṇṭum-uruḷ perun tērkku  
 accu āṇi aṉṉār uṭaittu.
@@ -303,7 +303,7 @@ accu āṇi aṉṉār uṭaittu.
 667\. Do not despise one for lack of personality. Does not the little nail of the chariot keep the wheel going?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६७</summary>
 
 7\. உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்கு  
 அச்சாணி அன்னார் உடைத்து.  
@@ -337,7 +337,7 @@ Should be unwaveringly carried out without delay.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६८</summary>
 
 668\. kalaṅkātu kaṇṭa viṉaikkaṇ, tuḷaṅkātu  
 tūkkam kaṭintu ceyal.
@@ -345,7 +345,7 @@ tūkkam kaṭintu ceyal.
 668\. What you have clearly decided to do, do it without hesitation and delay.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६८</summary>
 
 8\. கலங்காது கண்ட வினைக்கண் துளங்காது  
 தூக்கம் கடிந்து செயல்.  
@@ -379,7 +379,7 @@ Pursue with firmness the act that yields bliss.
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६९</summary>
 
 669\. tuṉpam uṟavariṉum ceyka, tuṇivu āṟṟi-  
 iṉpam payakkum viṉai.
@@ -387,7 +387,7 @@ iṉpam payakkum viṉai.
 669\. Be resolute in deed which ends in happiness, though troublesome at the beginning.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६९</summary>
 
 9\. துன்பம் உறவரினும் செய்க துணிவாற்றி  
 இன்பம் பயக்கும் வினை.  
@@ -421,7 +421,7 @@ Despite other strengths, have no strength of firmness.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७०</summary>
 
 670\. eṉait tiṭpam eytiyakkaṇṇum, viṉait tiṭpam  
 vēṇṭārai vēṇṭātu, ulaku.
@@ -429,7 +429,7 @@ vēṇṭārai vēṇṭātu, ulaku.
 670\. The world will not esteem him who has no determined will, notwithstanding his other strong virtues.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७०</summary>
 
 10\. எனைத்திட்பம் எய்தியக் கண்ணும் வினைத்திட்பம்  
 வேண்டாரை வேண்டாது உலகு.  

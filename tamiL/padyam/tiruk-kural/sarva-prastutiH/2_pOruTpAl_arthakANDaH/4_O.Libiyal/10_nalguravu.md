@@ -25,7 +25,7 @@ The pain of poverty itself!
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४१</summary>
 
 1041 iṉmaiyiṉ iṉṉātatu yāteṉiṉ iṉmaiyiṉ  
 iṉmaiyē iṉṉā tatu.
@@ -33,7 +33,7 @@ iṉmaiyē iṉṉā tatu.
 1041\. There is no greater evil than poverty!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४१</summary>
 
 1\. இன்மையின் இன்னாதது யாதெனின் இன்மையின்  
 இன்மையே இன்னா தது.  
@@ -67,7 +67,7 @@ The joys of this life and the next.
 (K. Krishnaswamy & Vijaya Ramkumar), (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४२</summary>
 
 1042 iṉmai eṉaoru pāvi maṟumaiyum  
 immaiyum iṉṟi varum.
@@ -75,7 +75,7 @@ immaiyum iṉṟi varum.
 1042\. Poverty is an evil which blasts at once the joys of earth and of heaven.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४२</summary>
 
 2\. இன்மை எனஒரு பாவி மறுமையும்  
 இம்மையும் இன்றி வரும்.  
@@ -109,7 +109,7 @@ The honor of ancient descent and clout.
 (K.R. Srinivasa Iyengar), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४३</summary>
 
 1043 tolvaravum tōlum keṭukkum tokaiyāka  
 nalkuravu eṉṉum nacai.
@@ -117,7 +117,7 @@ nalkuravu eṉṉum nacai.
 1043\. Poverty which springs of avarice ruins one’s ancestry and its fair name.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४३</summary>
 
 3\. தொல்வரவும் தோலும் கெடுக்கும் தொகையாக  
 நல்குரவு என்னும் நசை.  
@@ -151,7 +151,7 @@ The fault of uttering mean words.
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४४</summary>
 
 1044 iṟpiṟantār kaṇṇēyum iṉmai iḷivanta  
 colpiṟakkum cōrvu tarum.
@@ -159,7 +159,7 @@ colpiṟakkum cōrvu tarum.
 1044\. Dejection due to poverty makes the noble utter the language of the base.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४४</summary>
 
 4\. இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த  
 சொற்பிறக்கும் சோர்வு தரும்.  
@@ -193,7 +193,7 @@ A diversity of sufferings.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४५</summary>
 
 1045 nalkuravu eṉṉum iṭumpaiyuḷ palkurait  
 tuṉpaṅkaḷ ceṉṟu paṭum.
@@ -201,7 +201,7 @@ tuṉpaṅkaḷ ceṉṟu paṭum.
 1045\. Poverty in itself an evil is the mother of all ills.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४५</summary>
 
 5\. நல்குரவு என்னும் இடும்பையுள் பல்குரைத்  
 துன்பங்கள் சென்று படும்.  
@@ -235,7 +235,7 @@ However meaningful and profound. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४६</summary>
 
 1046 naṟporuḷ naṉkuṇarntu colliṉum nalkūrntār  
 coṟporuḷ cōrvu paṭum.
@@ -243,7 +243,7 @@ coṟporuḷ cōrvu paṭum.
 1046 The words of the poor, though born of experience and wisdom are not listened to.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४६</summary>
 
 6\. நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்  
 சொற்பொருள் சோர்வு படும்.  
@@ -277,7 +277,7 @@ Even from the mother who bore him.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४७</summary>
 
 1047 aṟañcārā nalkuravu īṉṟatā yāṉum  
 piṟaṉpōla nōkkap paṭum.
@@ -285,7 +285,7 @@ piṟaṉpōla nōkkap paṭum.
 1047\. Even a mother turns her back on one whose poverty is devoid of probity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४७</summary>
 
 7\. அறஞ்சாரா நல்குரவு ஈன்றதா யானும்  
 பிறன்போல நோக்கப் படும்.  
@@ -319,7 +319,7 @@ Pester me even today? *
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४८</summary>
 
 1048 iṉṟum varuvatu kollō nerunalum  
 koṉṟatu pōlum nirappu.
@@ -327,7 +327,7 @@ koṉṟatu pōlum nirappu.
 1048\. Oh, how I dread it I Will that beggary that almost killed me yesterday assail me today also?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४८</summary>
 
 8\. இன்றும் வருவது கொல்லோ நெருநலும்  
 கொன்றது போலும் நிரப்பு.  
@@ -366,7 +366,7 @@ But by no means in the midst of poverty. *
 १०४९. Compare with ८९६ for the use of same simile: “One may survive even if burnt in the fire, but no survival for those who offend the great” * - (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४९</summary>
 
 1049 neruppiṉuḷ tuñcalum ākum nirappiṉuḷ  
 yātoṉṟum kaṇpāṭu aritu.
@@ -374,7 +374,7 @@ yātoṉṟum kaṇpāṭu aritu.
 1049\. One may sleep in the midst of scorching fire. But the poverty-stricken know no sleep.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४९</summary>
 
 9\. நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்  
 யாதொன்றும் கண்பாடு அரிது.  
@@ -413,7 +413,7 @@ Lest he hang around for salt and gruel. *
 १०५०. Explanation: The poor might as well renounce and follow the path of asceticism, instead of depending on others for survival. Valluvar says in couplet ३७८ that “fate” is the reason why the poverty stricken have failed to renounce.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५०</summary>
 
 1050 tuppuravu illār tuvarat tuṟavāmai  
 uppiṟkum kāṭikkum kūṟṟu.
@@ -421,7 +421,7 @@ uppiṟkum kāṭikkum kūṟṟu.
 1050\. The indigent that do not renounce the world batten on other man’s salt and porridge.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५०</summary>
 
 10\. துப்புரவு இல்லார் துவரத் துறவாமை  
 உப்பிற்கும் காடிக்கும் கூற்று.  

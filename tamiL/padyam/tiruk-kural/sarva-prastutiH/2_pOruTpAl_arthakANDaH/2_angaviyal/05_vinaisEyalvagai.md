@@ -30,7 +30,7 @@ To decide and dawdle is bad.
 ६७१. Compare with ६६८. "Acts resolved without ambiguity should be unwaveringly carried out without delay" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७१</summary>
 
 671\. cūḻcci muṭivu tuṇivu eytal; at tuṇivu  
 tāḻcciyuḷ taṅkutal tītu.
@@ -38,7 +38,7 @@ tāḻcciyuḷ taṅkutal tītu.
 671\. Decision is the result of deliberation. It is harmful to rest it low.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७१</summary>
 
 1\. சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு  
 தாழ்ச்சியுள் தங்குதல் தீது.  
@@ -72,7 +72,7 @@ But do not delay when you must act.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७२</summary>
 
 672\. tūṅkuka, tūṅkic ceyaṟpāla; tūṅkaṟka,  
 tūṅkātu ceyyum viṉai.
@@ -80,7 +80,7 @@ tūṅkātu ceyyum viṉai.
 672\. Delay such things as call for delay. But never delay that which cannot be delayed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७२</summary>
 
 2\. தூங்குக தூங்கிச் செயற்பால தூங்கற்க  
 தூங்காது செய்யும் வினை.  
@@ -114,7 +114,7 @@ Elsewhere, consider other feasible means. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७३</summary>
 
 673\. ollum vāy ellām viṉai naṉṟē; ollākkāl,  
 cellum vāy nōkkic ceyal.
@@ -122,7 +122,7 @@ cellum vāy nōkkic ceyal.
 673\. Achieve a thing wherever possible; if it were not possible adopt a cautious policy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७३</summary>
 
 3\. ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்  
 செல்லும்வாய் நோக்கிச் செயல்.  
@@ -156,7 +156,7 @@ Will destroy like fire left un-extinguished. *
 (Satguru Subramuniyaswami), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७४</summary>
 
 674\. viṉai, pakai eṉṟu iraṇṭiṉ eccam, niṉaiyuṅkāl,  
 tī eccam pōlat teṟum.
@@ -164,7 +164,7 @@ tī eccam pōlat teṟum.
 674\. An unfinished deed and an unfinished fight will like a half extinguished fire, cause ultimate harm.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७४</summary>
 
 4\. வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால்  
 தீயெச்சம் போலத் தெறும்.  
@@ -198,7 +198,7 @@ Resources, weapons, time, place and deed.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७५</summary>
 
 675\. poruḷ, karuvi, kālam, viṉai, iṭaṉoṭu aintum  
 iruḷ tīra eṇṇic ceyal!.
@@ -206,7 +206,7 @@ iruḷ tīra eṇṇic ceyal!.
 675\. Do a thing after carefully deliberating on five things; resources, means, the time, the nature of the deed, and the place.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७५</summary>
 
 5\. பொருள்கருவி காலம் வினையிடனொடு ஐந்தும்  
 இருள்தீர எண்ணிச் செயல்.  
@@ -245,7 +245,7 @@ The inputs, impediments and gain.
 ६७६. Compare with ४६१. Act after taking into account the cost, the benefit and the net. - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७६</summary>
 
 676\. muṭivum, iṭaiyūṟum, muṟṟiyāṅku eytum  
 paṭupayaṉum, pārttuc ceyal!.
@@ -253,7 +253,7 @@ paṭupayaṉum, pārttuc ceyal!.
 676\. In doing a thing, weigh deeply your aim, the hindrances and the final gain thereof.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७६</summary>
 
 6\. முடிவும் இடையூறும் முற்றியாங்கு எய்தும்  
 படுபயனும் பார்த்துச் செயல்.  
@@ -292,7 +292,7 @@ Get that expertise by knowing him inside out.
 ६७७. Different renderings, though not literal: [i] "The way to do a thing is to get inside an insider" - (P.S. Sundaram) [ii] "In considering how to accomplish a task, one must go by the experience of others" - (K. Krishnaswamy & Vijaya Ramkumar) 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७७</summary>
 
 677\. ceyviṉai ceyvāṉ ceyalmuṟai, av viṉai  
 uḷ aṟivāṉ uḷḷam koḷal.
@@ -300,7 +300,7 @@ uḷ aṟivāṉ uḷḷam koḷal.
 677\. The manner in which a thing should be done is to be determined after consulting an expert.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७७</summary>
 
 7\. செய்வினை செய்வான் செயல்முறை அவ்வினை  
 உள்ளறிவான் உள்ளம் கொளல்.  
@@ -334,7 +334,7 @@ Like an elephant through another. *
 SDR
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७८</summary>
 
 678\. viṉaiyāṉ viṉai ākkikkōṭal-naṉai kavuḷ  
 yāṉaiyāl yāṉai yāttaṟṟu.
@@ -342,7 +342,7 @@ yāṉaiyāl yāṉai yāttaṟṟu.
 678\. Use one act to achieve another just as one wild elephant is used to capture another.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७८</summary>
 
 8\. வினையால் வினையாக்கிக் கோடல் நனைகவுள்  
 யானையால் யானையாத் தற்று.  
@@ -376,7 +376,7 @@ Is to befriend enemies. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७९</summary>
 
 679\. naṭṭārkku nalla ceyaliṉ viraintatē-  
 oṭṭārai oṭṭikkoḷal.
@@ -384,7 +384,7 @@ oṭṭārai oṭṭikkoḷal.
 679\. It is much more urgent to secure the alliance of one’s enemies, than to do good to one’s friends.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७९</summary>
 
 9\. நட்டார்க்கு நல்ல செயலின் விரைந்ததே  
 ஒட்டாரை ஒட்டிக் கொளல்.  
@@ -418,7 +418,7 @@ Seize conciliation with the strong. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८०</summary>
 
 680\. uṟai ciṟiyār uḷ naṭuṅkal añci, kuṟai peṟiṉ,  
 koḷvar periyārp paṇintu.
@@ -426,7 +426,7 @@ koḷvar periyārp paṇintu.
 680\. Fearing that their weak king may quake with fear, ministers will bow before superior kings and accept their terms.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८०</summary>
 
 10\. உறைசிறியார் உள்நடுங்கல் அஞ்சிக் குறைபெறின்  
 கொள்வர் பெரியார்ப் பணிந்து.  

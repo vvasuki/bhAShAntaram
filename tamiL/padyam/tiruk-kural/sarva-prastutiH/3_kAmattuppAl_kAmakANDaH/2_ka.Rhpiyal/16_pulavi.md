@@ -29,7 +29,7 @@ And see his pain of suffering for a while.
 १३०१. Compare with १३२१. "Though he is not to blame, I feign sulking to bring out the best from of him" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०१</summary>
 
 1301 pullātu irāap pulattai avaruṟum  
 allalnōy kāṇkam ciṟitu.
@@ -37,7 +37,7 @@ allalnōy kāṇkam ciṟitu.
 1301\. Let us see a little his distress in passion, by showing reserve. ^  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०१</summary>
 
 1\. புல்லா திராஅப் புலத்தை அவர்உறும்  
 அல்லல்நோய் காண்கம் சிறிது.  
@@ -76,7 +76,7 @@ Is like salt a little too much. *
 १३०२. An alternate translation, easy to comprehend, but not close to original: "Love's salt is sulk. A pinch of it is welcome but too much will ruin the taste" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०२</summary>
 
 1302 uppamain taṟṟāl pulavi atuciṟitu  
 mikkaṟṟāl nīḷa viṭal.
@@ -84,7 +84,7 @@ mikkaṟṟāl nīḷa viṭal.
 1302\. Reserve like a pinch of salt adds to enjoyment, If excessive, it spoils the taste.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०२</summary>
 
 2\. உப்பமைந் தற்றால் புலவி அதுசிறிது  
 மிக்கற்றால் நீள விடல்.  
@@ -118,7 +118,7 @@ Is to cause more pain to the suffering.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०३</summary>
 
 1303 alantārai allalnōy ceytaṟṟāl tammaip  
 pulantāraip pullā viṭal.
@@ -126,7 +126,7 @@ pulantāraip pullā viṭal.
 1303\. If men do not pacify women who feign coolness, it is like causing more pain to those who already suffer.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०३</summary>
 
 3\. அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்  
 புலந்தாரைப் புல்லா விடல்.  
@@ -160,7 +160,7 @@ An already withering climber at its root. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०४</summary>
 
 1304 ūṭi yavarai uṇarāmai vāṭiya  
 vaḷḷi mutalarin taṟṟu.
@@ -168,7 +168,7 @@ vaḷḷi mutalarin taṟṟu.
 1304\. Not to pacify the lady who feigns coolness is to cut the withering creeper away at the root.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०४</summary>
 
 4\. ஊடி யவரை உணராமை வாடிய  
 வள்ளி முதலரிந் தற்று.  
@@ -202,7 +202,7 @@ Even for the spotlessly pure men.
 (N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०५</summary>
 
 1305 nalattakai nallavarkku ēer pulattakai  
 pūaṉṉa kaṇṇār akattu.
@@ -210,7 +210,7 @@ pūaṉṉa kaṇṇār akattu.
 1305\. The beauty of a loyal lover is only enhanced by the reserve of his flower-eyed lady.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०५</summary>
 
 5\. நலத்தகை நல்லவர்க்கு ஏஎர் புலத்தகை  
 பூஅன்ன கண்ணா ரகத்து.  
@@ -244,7 +244,7 @@ Love is like a fruit unripe or overripe. *
 (K. Kannan), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०६</summary>
 
 1306 tuṉiyum pulaviyum illāyiṉ kāmam  
 kaṉiyum karukkāyum aṟṟu.
@@ -252,7 +252,7 @@ kaṉiyum karukkāyum aṟṟu.
 1306\. If indignation and gentle resentment are absent, love will be like fruit over-ripe or unripe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०६</summary>
 
 6\. துனியும் புலவியும் இல்லாயின் காமம்  
 கனியும் கருக்காயும் அற்று.  
@@ -286,7 +286,7 @@ That is the worry of delayed union. *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०७</summary>
 
 1307 ūṭaliṉ uṇṭāṅkōr tuṉpam puṇarvatu  
 nīṭuvatu aṉṟukol eṉṟu.
@@ -294,7 +294,7 @@ nīṭuvatu aṉṟukol eṉṟu.
 1307\. There is anxiety and pain in lovers’ uncertain quarrels.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०७</summary>
 
 7\. ஊடலின் உண்டாங்கோர் துன்பம் புணர்வது  
 நீடுவது தன்றுகொல் என்று.  
@@ -328,7 +328,7 @@ To know whether you are grieving? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०८</summary>
 
 1308 nōtal evaṉmaṟṟu nontāreṉṟu aḵtaṟiyum  
 kātalar illā vaḻi.
@@ -336,7 +336,7 @@ kātalar illā vaḻi.
 1308\. If a lover were to be blind to the suffering of the lady-love, then the suffering would be in vain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०८</summary>
 
 8\. நோதல் எவன்மற்று நொந்தாரென்று அஃதறியும்  
 காதலர் இல்லா வழி.  
@@ -370,7 +370,7 @@ Pouting has its charms only between lovers. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०९</summary>
 
 1309 nīrum niḻalatu iṉitē pulaviyum  
 vīḻunar kaṇṇē iṉitu.
@@ -378,7 +378,7 @@ vīḻunar kaṇṇē iṉitu.
 1309\. Just as water in the shade is sweet, so lovers’ quarrels become sweet only to people deep-rooted in love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०९</summary>
 
 9\. நீரும் நிழலது இனிதே புலவியும்  
 வீழுநர் கண்ணே இனிது.  
@@ -412,7 +412,7 @@ With one who keeps on sulking.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१०</summary>
 
 1310 ūṭal uṇaṅka viṭuvārōṭu eṉṉeñcam  
 kūṭuvēm eṉpatu avā.
@@ -420,7 +420,7 @@ kūṭuvēm eṉpatu avā.
 1310\. My heart longs for reunion with him who cares not for my sufferings in the quarrel.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१०</summary>
 
 10\. ஊடல் உணங்க விடுவாரோடு என்நெஞ்சம்  
 கூடுவேம் என்பது அவா.  

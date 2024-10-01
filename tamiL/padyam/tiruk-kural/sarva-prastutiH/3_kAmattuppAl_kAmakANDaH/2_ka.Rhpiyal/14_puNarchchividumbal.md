@@ -29,7 +29,7 @@ Belongs not to liquor but love.
 १२८१. Compare with १०९०: "Wine won't delight unless imbibed, but love with a look delights!" - (P.S. Sundaram) and with १२०१: "Love is sweeter than wine; its mere thought intoxicates" – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८१</summary>
 
 1281 uḷḷak kaḷittalum kāṇa makiḻtalum  
 kaḷḷukkuil kāmattiṟku uṇṭu.
@@ -37,7 +37,7 @@ kaḷḷukkuil kāmattiṟku uṇṭu.
 1281\. To become pleased with the thought and happy at the sight of the lover, these are the fruits not of wine but of love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८१</summary>
 
 1\. உள்ளக் களித்தலும் காண மகிழ்தலும்  
 கள்ளுக்கில் காமத்திற்கு உண்டு.  
@@ -76,7 +76,7 @@ Even millet of sulk is misplaced. *
 १२८२. Compare with couplets १०४ & ४३३ for the use of same similes “Millet” and “Palm tree”. “To the discerning even millet of aid is as big as a palm tree.” and “To those ashamed of wrong doings, even a millet of fault is as big as a palm-tree”
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८२</summary>
 
 1282 tiṉaittuṇaiyum ūṭāmai vēṇṭum paṉaittuṇaiyum  
 kāmam niṟaiya variṉ.
@@ -84,7 +84,7 @@ kāmam niṟaiya variṉ.
 1282\. If a woman’s passion becomes excessive, she should avoid even slight misunderstanding.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८२</summary>
 
 2\. தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்  
 காமம் நிறைய வரின்.  
@@ -123,7 +123,7 @@ My eyes will not rest till they see him.
 १२८३. Compare with ११७८. Five of the seven seers (metrical feet) between these two couplets are same! “पेणादु पॆट्टार् उळर्-मन्नो मट्रु अवर्क् काणादु अमैवु इल कण्.”
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८३</summary>
 
 1283 pēṇātu peṭpavē ceyyiṉum koṇkaṉaik  
 kāṇātu amaiyala kaṇ.
@@ -131,7 +131,7 @@ kāṇātu amaiyala kaṇ.
 1283\. Though my husband acts regardless of me, yet my eyes cannot be satisfied without seeing him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८३</summary>
 
 3\. பேணாது பெட்பவே செய்யினும் கொண்கனைக்  
 காணாது அமையல கண்.  
@@ -170,7 +170,7 @@ But my heart forgot and clasped him.
 १२८४. Compare with १२९४. "Who will consult you hereafter, my heart, having failed to sulk before yielding?" * - (M.S. Poornalingam Pillai), (P.S. Sundaram). Also with १२५९. “Determined to sulk I went, but when my heart merged, I too went and clasped him.” * ((J. Narayanaswamy), (P.S. Sundaram))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८४</summary>
 
 1284 ūṭalkaṇ ceṉṟēṉmaṉ tōḻi atumaṟantu  
 kūṭaṟkaṇ ceṉṟatueṉ neñcu.
@@ -178,7 +178,7 @@ kūṭaṟkaṇ ceṉṟatueṉ neñcu.
 1284\. O Friend! I went to quarrel with him; but forgetting it my heart sought for reconciliation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८४</summary>
 
 4\. ஊடற்கண் சென்றேன்மன் தோழி அதுமறந்து  
 கூடற்கண் சென்றதுஎன் நெஞ்சு.  
@@ -212,7 +212,7 @@ I don’t see his faults when I see him. *
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८५</summary>
 
 1285 eḻutuṅkāl kōlkāṇāk kaṇṇēpōl koṇkaṉ  
 paḻikāṇēṉ kaṇṭa viṭattu.
@@ -220,7 +220,7 @@ paḻikāṇēṉ kaṇṭa viṭattu.
 1285\. Just as our eyes do not see the pen when writing I could not see my lover’s faults when I saw him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८५</summary>
 
 5\. எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன்  
 பழிகாணேன் கண்ட விடத்து.  
@@ -254,7 +254,7 @@ I see nothing but faults! *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८६</summary>
 
 1286 kāṇuṅkāl kāṇēṉ tavaṟāya kāṇākkāl  
 kāṇēṉ tavaṟual lavai.
@@ -262,7 +262,7 @@ kāṇēṉ tavaṟual lavai.
 1286\. When I see my husband I cannot see his faults. In his absence I cannot see anything else.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८६</summary>
 
 6\. காணுங்கால் காணேன் தவறாய காணாக்கால்  
 காணேன் தவறல் லவை.  
@@ -296,7 +296,7 @@ Likewise, why sulk and plumb known lies? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८७</summary>
 
 1287 uyttal aṟintu puṉalpāy pavarēpōl  
 poyttal aṟinteṉ pulantu.
@@ -304,7 +304,7 @@ poyttal aṟinteṉ pulantu.
 1287\. Of what avail is it to sift all the lies of one’s husband! It is as ineffectual as a diver battling with an irresistible current.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८७</summary>
 
 7\. உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்  
 பொய்த்தல் அறிந்தென் புலந்து.  
@@ -343,7 +343,7 @@ So does your bosom to me, O thief! *
 १२८८. Through disgraceful, drunkards seek to drink again. Even so, I long for your bosom in spite of your trickery.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८८</summary>
 
 1288 iḷittakka iṉṉā ceyiṉum kaḷittārkkuk  
 kaḷḷaṟṟē kaḷvaniṉ mārpu.
@@ -351,7 +351,7 @@ kaḷḷaṟṟē kaḷvaniṉ mārpu.
 1288\. O cheat! your breast is coveted more and more even as liquor with all its harm is by the drunkard.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८८</summary>
 
 8\. இளித்தக்க இன்னா செயினும் களித்தார்க்குக்  
 கள்ளற்றே கள்வநின் மார்பு.  
@@ -385,7 +385,7 @@ Not many handle it properly. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८९</summary>
 
 1289 malariṉum mellitu kāmam cilarataṉ  
 cevvi talaippaṭu vār.
@@ -393,7 +393,7 @@ cevvi talaippaṭu vār.
 1289\. More tender than a flower is love and few are they who enjoy it fully.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८९</summary>
 
 9\. மலரினும் மெல்லிது காமம் சிலர்அதன்  
 செவ்வி தலைப்படு வார்.  
@@ -427,7 +427,7 @@ To break down and unite.
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९०</summary>
 
 1290 kaṇṇiṉ tuṉittē kalaṅkiṉāḷ pullutal  
 eṉṉiṉum tāṉvitup puṟṟu.
@@ -435,7 +435,7 @@ eṉṉiṉum tāṉvitup puṟṟu.
 1290\. With resentful eyes, my lady complained: but eager for reconciliation she forgets her anger.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९०</summary>
 
 10\. கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்  
 என்னினும் தான்விதுப் புற்று.  

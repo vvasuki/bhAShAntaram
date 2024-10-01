@@ -24,7 +24,7 @@ If he wishes not to be scorned.
 (V.V.S. Aiyar), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८१</summary>
 
 281\. eḷḷāmai vēṇṭuvāṉ eṉpāṉ eṉaittu oṉṟum  
 kaḷḷāmai kākka, taṉ neñcu!.
@@ -32,7 +32,7 @@ kaḷḷāmai kākka, taṉ neñcu!.
 281\. He who wants to command respect must guard his mind against robbing others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८१</summary>
 
 1\. எள்ளாமை வேண்டுவான் என்பான் எனைத்தொன்றும்  
 கள்ளாமை காக்கதன் நெஞ்சு.  
@@ -66,7 +66,7 @@ The idea of defrauding another's wealth is sin.
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८२</summary>
 
 282\. uḷḷattāl uḷḷalum tītē; ‘piṟaṉ poruḷaik  
 kaḷḷattāl kaḷvēm’ eṉal!.
@@ -74,7 +74,7 @@ kaḷḷattāl kaḷvēm’ eṉal!.
 282\. It is a sin to lust for another’s belongings.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८२</summary>
 
 2\. உள்ளத்தால் உள்ளலும் தீதே பிறன்பொருளைக்  
 கள்ளத்தால் கள்வேம் எனல்.  
@@ -108,7 +108,7 @@ But in the end will burst.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८३</summary>
 
 283\. kaḷaviṉāl ākiya ākkam, aḷavu iṟantu,  
 āvatu pōla, keṭum.
@@ -116,7 +116,7 @@ But in the end will burst.
 283\. Ill-gotten wealth however vast comes to nought.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८३</summary>
 
 3\. களவினால் ஆகிய ஆக்கம் அளவிறந்து  
 ஆவது போலக் கெடும்.  
@@ -150,7 +150,7 @@ Leads to everlasting pain. *
 (Kasthuri Sreenivasan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८४</summary>
 
 284\. kaḷaviṉkaṇ kaṉṟiya kātal viḷaiviṉkaṇ  
 vīyā viḻumam tarum.
@@ -158,7 +158,7 @@ vīyā viḻumam tarum.
 284\. Inordinate desire to steal brings in its train endless suffering.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८४</summary>
 
 4\. களவின்கண் கன்றிய காதல் விளைவின்கண்  
 வீயா விழுமம் தரும்.  
@@ -192,7 +192,7 @@ Who plots for innocent's wealth. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८५</summary>
 
 285\. aruḷ karuti aṉpuṭaiyar ātal poruḷ karutip  
 poccāppup pārppārkaṇ il.
@@ -200,7 +200,7 @@ poccāppup pārppārkaṇ il.
 285\. Can ever grace and love be found in one who exploits the unwary?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८५</summary>
 
 5\. அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்  
 பொச்சாப்புப் பார்ப்பார்கண் இல்.  
@@ -234,7 +234,7 @@ Can never be content with what they have.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८६</summary>
 
 286\. aḷaviṉkaṇ niṉṟu oḻukalāṟṟār-kaḷaviṉkaṇ  
 kaṉṟiya kātalavar.
@@ -242,7 +242,7 @@ kaṉṟiya kātalavar.
 286\. Those who have a burning desire to steal cannot walk in the path of virtue.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८६</summary>
 
 6\. அளவின்கண் நின்றொழுகல் ஆற்றார் களவின்கண்  
 கன்றிய காத லவர்  
@@ -276,7 +276,7 @@ Never have that shady skill called fraud.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८७</summary>
 
 287\. kaḷavu eṉṉum kār aṟivu āṇmai aḷavu eṉṉum  
 āṟṟal purintārkaṇ il.
@@ -284,7 +284,7 @@ Never have that shady skill called fraud.
 287\. The dark thought of stealing is absent in those who are alive to the value of life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८७</summary>
 
 7\. களவென்னும் காரறி வாண்மை அளவென்னும்  
 ஆற்றல் புரிந்தார்கண் இல்.  
@@ -318,7 +318,7 @@ Deceit dwells in the hearts of thieves. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८८</summary>
 
 288\. aḷavu aṟintār neñcattu aṟampōla, niṟkum,  
 kaḷavu aṟintār neñcil karavu.
@@ -326,7 +326,7 @@ kaḷavu aṟintār neñcil karavu.
 288\. Virtue dwells in the person of known probity; deceit dwells in persons addicted to stealing.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८८</summary>
 
 8\. அளவறிந்தார் நெஞ்சத் தறம்போல் நிற்கும்  
 களவறிந்தார் நெஞ்சில் கரவு.  
@@ -360,7 +360,7 @@ Perish as and when they corrupt.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८९</summary>
 
 289\. aḷavu alla ceytu, āṅkē vīvar-kaḷavu alla  
 maṟṟaiya tēṟṟātavar.
@@ -368,7 +368,7 @@ maṟṟaiya tēṟṟātavar.
 289\. Those who know nothing else than stealing will indulge in unrighteous acts and forthwith perish.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८९</summary>
 
 9\. அளவல்ல செய்தாங்கே வீவர் களவல்ல  
 மற்றைய தேற்றா தவர்.  
@@ -402,7 +402,7 @@ But heaven never forsakes the honest. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९०</summary>
 
 290\. kaḷvārkkut taḷḷum, uyirnilai; kaḷḷārkkut  
 taḷḷātu, puttēḷ ulaku.
@@ -410,7 +410,7 @@ taḷḷātu, puttēḷ ulaku.
 290\. Their very bodies fail the defrauding. The world of the gods fail not the upright.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९०</summary>
 
 290\. kaḷvārkkut taḷḷum, uyirnilai; kaḷḷārkkut  
 taḷḷātu, puttēḷ ulaku.
@@ -419,7 +419,7 @@ taḷḷātu, puttēḷ ulaku.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९०</summary>
 
 10\. கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத்  
 தள்ளாது புத்தே ளுலகு  

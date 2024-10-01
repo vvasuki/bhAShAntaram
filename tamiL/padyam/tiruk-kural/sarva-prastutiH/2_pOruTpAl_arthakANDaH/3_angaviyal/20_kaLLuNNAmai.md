@@ -25,7 +25,7 @@ Will neither inspire fear in others nor retain their fame. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२१</summary>
 
 921 uṭkap paṭāar oḷiyiḻappar eññāṉṟum  
 kaṭkātal koṇṭoḻuku vār.
@@ -33,7 +33,7 @@ kaṭkātal koṇṭoḻuku vār.
 921\. He who is addicted to wine can never strike fear in the heart of his foe; nor can he retain his ancient splendour.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२१</summary>
 
 1\. உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும்  
 கட்காதல் கொண்டொழுகு வார்.  
@@ -67,7 +67,7 @@ Who do not care what wise men think.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२२</summary>
 
 922 uṇṇaṟka kaḷḷai uṇiluṇka cāṉṟōrāl  
 eṇṇap paṭavēṇṭā tār.
@@ -75,7 +75,7 @@ eṇṇap paṭavēṇṭā tār.
 922\. Do not drink wine, for a drunkard can never command the homage of the great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२२</summary>
 
 2\. உண்ணற்க கள்ளை உணில்உண்க சான்றோரான்  
 எண்ணப் படவேண்டா தார்.  
@@ -109,7 +109,7 @@ Why speak of the wise?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२३</summary>
 
 923 īṉṟāḷ mukattēyum iṉṉātāl eṉmaṟṟuc  
 cāṉṟōr mukattuk kaḷi.
@@ -117,7 +117,7 @@ cāṉṟōr mukattuk kaḷi.
 923\. Even an indulgent mother never puts up with a drunkard; will the virtuous ever tolerate him?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२३</summary>
 
 3\. ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்  
 சான்றோர் முகத்துக் களி.  
@@ -151,7 +151,7 @@ Addicted to the grave vice drunkenness. *
 (P.S. Sundaram), (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२४</summary>
 
 924 nāṇeṉṉum nallāḷ puṟamkoṭukkum kaḷḷeṉṉum  
 pēṇāp peruṅkuṟṟat tārkku.
@@ -159,7 +159,7 @@ pēṇāp peruṅkuṟṟat tārkku.
 924\. The good lady of modesty averts her face from him guilty of hateful drink.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२४</summary>
 
 4\. நாண்என்னும் நல்லாள் புறம்கொடுக்கும் கள்ளென்னும்  
 பேணாப் பெருங்குற்றத் தார்க்கு.  
@@ -193,7 +193,7 @@ And obtain in return only insensibility. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२५</summary>
 
 925 kaiyaṟi yāmai uṭaittē poruḷkoṭuttu  
 meyyaṟi yāmai koḷal.
@@ -201,7 +201,7 @@ meyyaṟi yāmai koḷal.
 925\. To acquire forgetfulness at a price is indeed the fruit of past sin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२५</summary>
 
 5\. கையறியாமை யுடைத்தே பொருள் கொடுத்து  
 மெய்யறி யாமை கொளல்.  
@@ -235,7 +235,7 @@ Nor alcoholics from consumers of poison.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२६</summary>
 
 926 tuñciṉār cettāriṉ vēṟallar eññāṉṟum  
 nañcuṇpār kaḷḷuṇ pavar.
@@ -243,7 +243,7 @@ nañcuṇpār kaḷḷuṇ pavar.
 926\. To be asleep is to be dead. To drink wine is to drink poison.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२६</summary>
 
 6\. துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்  
 நஞ்சுண்பார் கள்ளுண் பவர்.  
@@ -277,7 +277,7 @@ Will soon become a laughing stock in public.
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२७</summary>
 
 927 uḷḷoṟṟi uḷḷūr nakappaṭuvar eññāṉṟum  
 kaḷoṟṟik kaṇcāy pavar.
@@ -285,7 +285,7 @@ kaḷoṟṟik kaṇcāy pavar.
 927\. A drunkard who has lost his senses becomes an object of ridicule to his sober neighbours.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२७</summary>
 
 7\. உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும்  
 கள்ளொற்றிக் கண்சாய் பவர்.  
@@ -319,7 +319,7 @@ Hidden secrets will be out when drunk. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२८</summary>
 
 928 kaḷittaṟiyēṉ eṉpatu kaiviṭuka neñcattu  
 oḷittatūum āṅkē mikum.
@@ -327,7 +327,7 @@ oḷittatūum āṅkē mikum.
 928\. Let not a drunkard boast that he has not tasted wine; for that which is hidden shows itself with greater force when drunk.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२८</summary>
 
 8\. களித்தறியேன் என்பது கைவிடுக நெஞ்சத்து  
 ஒளித்ததூஉம் ஆங்கே மிகும்.  
@@ -361,7 +361,7 @@ Searching with a candle for a man drowned in water. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२९</summary>
 
 929 kaḷittāṉaik kāraṇam kāṭṭutal kīḻnīrk  
 kuḷittāṉait tītturīi aṟṟu.
@@ -369,7 +369,7 @@ kuḷittāṉait tītturīi aṟṟu.
 929\. To reason a drunkard into his senses is like searching with a candle for one lost in deep waters.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२९</summary>
 
 9\. களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்  
 குளித்தானைத் தீத்துரீஇ யற்று.  
@@ -408,7 +408,7 @@ Why does he not note his own damage?
 ९३०. Compare with ९९ and ३१८ for the typical style of Valluvar: “How can anyone speak harsh words, having seen what kind words do?” - (N.V.K. Ashraf) and “Why does one hurt others knowing what it is to be hurt?” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३०</summary>
 
 930 kaḷḷuṇṇāp pōḻtil kaḷittāṉaik kāṇuṅkāl  
 uḷḷāṉkol uṇṭataṉ cōrvu.
@@ -416,7 +416,7 @@ uḷḷāṉkol uṇṭataṉ cōrvu.
 930\. If a drunkard in sober moments sees, another under the influence of wine, will he fail to realise his own state when drunk?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३०</summary>
 
 10\. கள்ளுண்ணாப் போழ்தில் களித்தானைக் காணுங்கால்  
 உள்ளான்கொல் உண்டதன் சோர்வு.  

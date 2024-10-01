@@ -25,7 +25,7 @@ If they refuse, the fault is theirs, not yours. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५१</summary>
 
 1051 irakka irattakkārk kāṇiṉ karappiṉ  
 avarpaḻi tampaḻi aṉṟu.
@@ -33,7 +33,7 @@ avarpaḻi tampaḻi aṉṟu.
 1051\. Beg if you meet people who can give. If they refuse, it is their fault, not yours.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५१</summary>
 
 1\. இரக்க இரத்தக்கார்க் காணின் கரப்பின்  
 அவர்பழி தம்பழி யன்று.  
@@ -67,7 +67,7 @@ Comes without pain.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५२</summary>
 
 1052 iṉpam oruvaṟku irattal irantavai  
 tuṉpam uṟāa variṉ.
@@ -75,7 +75,7 @@ tuṉpam uṟāa variṉ.
 1052\. Begging would be pleasant to one if one were to achieve one’s object without causing pain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५२</summary>
 
 2\. இன்பம் ஒருவற்கு இரத்தல் இரந்தவை  
 துன்பம் உறாஅ வரின்.  
@@ -109,7 +109,7 @@ If it is before dutiful men with generous heart. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५३</summary>
 
 1053 karappilā neñciṉ kaṭaṉaṟivār muṉniṉṟu  
 irappumōr ēr uṭaittu.
@@ -117,7 +117,7 @@ irappumōr ēr uṭaittu.
 1053\. There is a grace even in begging of one noble and generous of heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५३</summary>
 
 3\. கரப்பிலா நெஞ்சின் கடனறிவார் முன்நின்று  
 இரப்புமோ ரேஎர் உடைத்து.  
@@ -151,7 +151,7 @@ Is as honorable as bestowing.
 (N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५४</summary>
 
 1054 irattalum ītalē pōlum karattal  
 kaṉavilum tēṟṟātār māṭṭu.
@@ -159,7 +159,7 @@ kaṉavilum tēṟṟātār māṭṭu.
 1054\. Begging is endowed with all the grace of giving when the noble guest does not fail of his gifts even in dreams.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५४</summary>
 
 4\. இரத்தலும் ஈதலே போலும் கரத்தல்  
 கனவிலும் தேற்றாதார் மாட்டு.  
@@ -193,7 +193,7 @@ The world has a few who won't refuse.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५५</summary>
 
 1055 karappilār vaiyakattu uṇmaiyāṉ kaṇṇiṉṟu  
 irappavar mēṟkoḷ vatu.
@@ -201,7 +201,7 @@ irappavar mēṟkoḷ vatu.
 1055\. There is beggary because of persons touched by its very presence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५५</summary>
 
 5\. கரப்பிலார் வையகத்து உண்மையால் கண்ணின்று  
 இரப்பவர் மேற்கொள் வது.  
@@ -235,7 +235,7 @@ Who are free from the ills of refusal. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५६</summary>
 
 1056 karappiṭumpai illāraik kāṇiṉ nirappiṭumpai  
 ellām oruṅku keṭum.
@@ -243,7 +243,7 @@ ellām oruṅku keṭum.
 1056\. All the indignities of begging vanish in the presence of the truly generous who know not the sin of withholding gifts.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५६</summary>
 
 6\. கரப்பிடும்பை இல்லாரைக் காணின் நிரப்பிடும்பை  
 எல்லாம் ஒருங்கு கெடும்.  
@@ -277,7 +277,7 @@ When it sees one who gives without scorn.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५७</summary>
 
 1057 ikaḻntueḷḷātu īvāraik kāṇiṉ makiḻntuḷḷam  
 uḷḷuḷ uvappatu uṭaittu.
@@ -285,7 +285,7 @@ uḷḷuḷ uvappatu uṭaittu.
 1057\. Mendicancy inwardly rejoices in the bounty of the generous free of scorn.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५७</summary>
 
 7\. இகழ்ந்தெள்ளாது ஈவாரைக் காணின் மகிழ்ந்துள்ளம்  
 உள்ளுள் உடைப்பது உடைத்து.  
@@ -319,7 +319,7 @@ Would be a stage of puppets that come and go.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५८</summary>
 
 1058 irappārai illāyiṉ īrṅkaṇmā ñālam  
 marappāvai ceṉṟuvan taṟṟu.
@@ -327,7 +327,7 @@ marappāvai ceṉṟuvan taṟṟu.
 1058\. Were there to be no mendicancy the vast world would be peopled with men moving like dolls.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५८</summary>
 
 8\. இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம்  
 மரப்பாவை சென்றுவந் தற்று.  
@@ -361,7 +361,7 @@ If there is none to beg and receive?
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५९</summary>
 
 1059 īvārkaṇ eṉṉuṇṭām tōṟṟam irantukōḷ  
 mēvāril ilāak kaṭai.
@@ -369,7 +369,7 @@ mēvāril ilāak kaṭai.
 1059\. If there be no beggars in the world, will there be any glory for the bountiful?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५९</summary>
 
 9\. ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள்  
 மேவார் இலாஅக் கடை.  
@@ -408,7 +408,7 @@ His own want is proof enough. *
 १०६०. i.e. proof enough to gauge the miserable condition of the one who refused. (J. Narayanaswamy)’s translation will help understand the import of the verse explicitly: “Seekers should disdain anger; the givers with good intent may also be in dire straits”. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६०</summary>
 
 1060 irappāṉ vekuḷāmai vēṇṭum nirappiṭumpai  
 tāṉēyum cālum kari.
@@ -416,7 +416,7 @@ tāṉēyum cālum kari.
 1060\. Do not chafe against the hunks for inevitable is the pain of poverty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६०</summary>
 
 10\. இரப்பான் வெகுளாமை வேண்டும் நிரப்புஇடும்பை  
 தானேயும் சாலும் கரி.  

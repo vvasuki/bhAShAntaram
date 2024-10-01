@@ -24,7 +24,7 @@ Is like playing dice without a board.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०१</summary>
 
 401\. araṅku iṉṟi vaṭṭu āṭiyaṟṟē-nirampiya  
 nūl iṉṟik kōṭṭi koḷal.
@@ -32,7 +32,7 @@ nūl iṉṟik kōṭṭi koḷal.
 401\. Entering an assembly without sufficient knowledge is like playing at a dice board without its knowledge.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०१</summary>
 
 1\. அரங்கின்றி வட்டாடி யற்றே நிரம்பிய  
 நூலின்றிக் கோட்டி கொளல்.  
@@ -66,7 +66,7 @@ Who has neither of her breasts.
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०२</summary>
 
 402\. kallātāṉ col kāmuṟutal, mulai iraṇṭum  
 illātāḷ peṇ kāmuṟṟaṟṟu.
@@ -74,7 +74,7 @@ illātāḷ peṇ kāmuṟṟaṟṟu.
 402\. The desire of the ignorant to speak is like the desire of a woman without breasts claiming womanhood.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०२</summary>
 
 2\. கல்லாதான் சொற்கா முறுதல் முலையிரண்டும்  
 இல்லாதாள் பெண்காமுற் றற்று.  
@@ -108,7 +108,7 @@ If he can hold his tongue before the wise! *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०३</summary>
 
 403\. kallātavarum naṉi nallar-kaṟṟārmuṉ  
 collātu irukkappeṟiṉ.
@@ -116,7 +116,7 @@ collātu irukkappeṟiṉ.
 403\. Blessed are the ignorant if they venture not to address the assembly of the learned.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०३</summary>
 
 3\. கல்லா தவரும் நனிநல்லர் கற்றார்முன்  
 சொல்லா திருக்கப் பெறின்.  
@@ -150,7 +150,7 @@ An ignoramus' occasional knowledge.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०४</summary>
 
 404\. kallātāṉ oṭpam kaḻiya naṉṟu āyiṉum,  
 koḷḷār, aṟivu uṭaiyār.
@@ -158,7 +158,7 @@ koḷḷār, aṟivu uṭaiyār.
 404\. The learned value not the intelligence of the illiterate.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०४</summary>
 
 4\. கல்லாதான் ஓட்பம் கழியநன் றாயினும்  
 கொள்ளார் அறிவுடை யார்.  
@@ -192,7 +192,7 @@ When the occasion for speech arrives.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०५</summary>
 
 405\. kallā oruvaṉ takaimai, talaippeytu  
 collāṭa, cōrvupaṭum.
@@ -200,7 +200,7 @@ collāṭa, cōrvupaṭum.
 405\. The pretensions of the illiterate disappear the moment they launch upon a discussion with the learned.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०५</summary>
 
 5\. கல்லா ஒருவன் தகைமை தலைப்பெய்து  
 சொல்லாடச் சோர்வு படும்.  
@@ -234,7 +234,7 @@ They are there, but useless. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०६</summary>
 
 406\. uḷar eṉṉum māttiraiyar allāl, payavāk  
 kaḷar aṉaiyar-kallātavar.
@@ -242,7 +242,7 @@ kaḷar aṉaiyar-kallātavar.
 406\. The ignorant just exist; they are like a piece of barren land.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०६</summary>
 
 6\. உளரென்னும் மாத்திரையர் அல்லால் பயவாக்  
 களரனையர் கல்லா தவர்.  
@@ -276,7 +276,7 @@ Has the beauty of a mud-doll. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०७</summary>
 
 407\. nuṇ māṇ nuḻai pulam illāṉ eḻil nalam  
 maṇ māṇ puṉai pāvai aṟṟu.
@@ -284,7 +284,7 @@ maṇ māṇ puṉai pāvai aṟṟu.
 407\. The imposing position of one who lacks penetrating intellect reminds us of the external glitter of clay.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०७</summary>
 
 7\. நுண்மாண் நுழைபுலம் இல்லான் எழில்நலம்  
 மண்மாண் புனைபாவை யற்று  
@@ -318,7 +318,7 @@ Than the want of the learned. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०८</summary>
 
 408\. nallārkaṇ paṭṭa vaṟumaiyiṉ iṉṉātē-  
 kallārkaṇ paṭṭa tiru.
@@ -326,7 +326,7 @@ kallārkaṇ paṭṭa tiru.
 408\. Far sweeter is the poverty of the learned than the riches of the ignorant.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०८</summary>
 
 8\. நல்லார்கண் பட்ட வறுமையின் இன்னாதே  
 கல்லார்கண் பட்ட திரு  
@@ -360,7 +360,7 @@ Is lower than the low-born learned.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४०९</summary>
 
 409\. mēṟpiṟantār āyiṉum kallātār, kīḻppiṟantum  
 kaṟṟār aṉaittu ilar pāṭu.
@@ -368,7 +368,7 @@ kaṟṟār aṉaittu ilar pāṭu.
 409\. The highborn ignorant sink low in the scale while the learned even of humble birth are exalted.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४०९</summary>
 
 9\. மேற்பிறந்தா ராயினும் கல்லாதார் கீழ்ப்பிறந்தும்  
 கற்றார் அனைத்திலர் பாடு.  
@@ -402,7 +402,7 @@ Are others like beasts among men.
 (N.V.K. Ashraf), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१०</summary>
 
 410\. vilaṅkoṭu makkaḷ aṉaiyar-ilaṅku nūl  
 kaṟṟāroṭu ēṉaiyavar.
@@ -410,7 +410,7 @@ kaṟṟāroṭu ēṉaiyavar.
 410\. The ignorant are but beasts by the side of men of wide learning.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१०</summary>
 
 10\. விலங்கொடு மக்கள் அனையர் இலங்குநூல்  
 கற்றாரோடு ஏனை யவர்.  

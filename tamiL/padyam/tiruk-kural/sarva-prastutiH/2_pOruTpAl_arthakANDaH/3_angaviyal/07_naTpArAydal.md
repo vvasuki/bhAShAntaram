@@ -25,7 +25,7 @@ For friends once made should last forever.
 (N.V.K. Ashraf), (Kasthuri Sreenivasan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९१</summary>
 
 791\. nāṭātu naṭṭaliṉ kēṭu illai; naṭṭapiṉ,  
 vīṭu illai, naṭpu āḷpavarkku.
@@ -33,7 +33,7 @@ vīṭu illai, naṭpu āḷpavarkku.
 791\. Nothing causes greater harm than the indiscriminate choice of friends; for one cannot give up one’s chosen friends.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९१</summary>
 
 1\. நாடாது நட்டலிற் கேடில்லை நட்டபின்  
 வீடில்லை நட்பாள் பவர்க்கு.  
@@ -72,7 +72,7 @@ Can cause lifetime trouble. *
 ७९२. Short and crisp translation of this couplet [but not close to original]: "Make friends in haste and repent at leisure" – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९२</summary>
 
 792\. āyntu āyntu koḷḷātāṉ kēṇmai, kaṭaimuṟai,  
 tāṉ cām tuyaram tarum.
@@ -80,7 +80,7 @@ tāṉ cām tuyaram tarum.
 792\. The friendship entered into without repeated tests causes grief till the end of one’s life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९२</summary>
 
 2\. ஆய்ந்தாய்ந்து கொள்ளாதான் கேண்மை கடைமுறை  
 தான்சாந் துயரம் தரும்.  
@@ -114,7 +114,7 @@ Family, fellows and flaws.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९३</summary>
 
 793\. kuṇaṉum, kuṭimaiyum, kuṟṟamum, kuṉṟā  
 iṉaṉum, aṟintu yākka naṭpu.
@@ -122,7 +122,7 @@ iṉaṉum, aṟintu yākka naṭpu.
 793\. Make friends with one after knowing one’s character, ancestry, defects and one’s great associates.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९३</summary>
 
 3\. குணனுங் குடிமையும் குற்றமுங் குன்றா  
 வினனு மறிந்தியாக்க நட்பு.  
@@ -156,7 +156,7 @@ Is worth seeking even at a price.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९४</summary>
 
 794\. kuṭip piṟantu, taṉkaṇ paḻi nāṇuvāṉaik  
 koṭuttum koḷal vēṇṭum, naṭpu.
@@ -164,7 +164,7 @@ koṭuttum koḷal vēṇṭum, naṭpu.
 794\. Even by paying a price secure the friendship of one of noble family who fears a blot on his character.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९४</summary>
 
 4\. குடிப்பிறந்து தன்கட் பழிநாணு வானைக்  
 கொடுத்துங் கொளல்வேண்டும் நட்பு.  
@@ -203,7 +203,7 @@ Rail and rate when you go astray.
 ७९५. Compare with ७८४: "Friendship is not for merriment but for stern reproach when friends go astray" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९५</summary>
 
 795\. aḻac colli, allatu iṭittu, vaḻakku aṟiya  
 vallār naṭpu āyntu koḷal!.
@@ -211,7 +211,7 @@ vallār naṭpu āyntu koḷal!.
 795\. Make after proper test friendship with the wise who make you weep for a crime and chastise when you err.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९५</summary>
 
 5\. அழச்சொல்லி யல்ல திடித்து வழக்கறிய  
 வல்லார்நட் பாய்ந்து கொளல்.  
@@ -245,7 +245,7 @@ To spread out and measure friends? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९६</summary>
 
 796\. kēṭṭiṉum uṇṭu, ōr uṟuti-kiḷaiñarai  
 nīṭṭi aḷappatu ōr kōl.
@@ -253,7 +253,7 @@ nīṭṭi aḷappatu ōr kōl.
 796\. Adversity has its uses, for it is the touchstone that tries the genuine friend.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९६</summary>
 
 6\. கேட்டினு முண்டோ ருறுதி கிளைஞரை  
 நீட்டி யளப்பதோர் கோல்.  
@@ -287,7 +287,7 @@ From the friendship of fools.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९७</summary>
 
 797\. ūtiyam eṉpatu oruvaṟkup pētaiyār  
 kēṇmai orīi viṭal.
@@ -295,7 +295,7 @@ kēṇmai orīi viṭal.
 797\. One must regard it as a windfall if one is able to shake off unwise friends.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९७</summary>
 
 7\. ஊதிய மென்ப தொருவற்குப் பேதையார்  
 கேண்மை யொரீஇ விடல்.  
@@ -329,7 +329,7 @@ And befriend not those who desert in affliction. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९८</summary>
 
 798\. uḷḷaṟka, uḷḷam ciṟukuva! koḷḷaṟka,  
 allaṟkaṇ āṟṟaṟuppār naṭpu!.
@@ -337,7 +337,7 @@ allaṟkaṇ āṟṟaṟuppār naṭpu!.
 798\. Refrain from doing things which make your heart shrink. Likewise avoid friends who desert you in adversity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९८</summary>
 
 8\. உள்ளற்க வுள்ளஞ் சிறுகுவ கொள்ளற்க  
 அல்லற்கண் ணாற்றறுப்பார் நட்பு.  
@@ -371,7 +371,7 @@ Rankles even on the deathbed. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९९</summary>
 
 799\. keṭum kālaik kaiviṭuvār kēṇmai, aṭum kālai  
 uḷḷiṉum, uḷḷam cuṭum.
@@ -379,7 +379,7 @@ uḷḷiṉum, uḷḷam cuṭum.
 799\. Friendship of those who fall off in adversity continues to rankle in your heart of hearts till your death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९९</summary>
 
 9\. கெடுங்காலைக் கைவிடுவார் கேண்மை யடுங்காலை  
 யுள்ளினு முள்ளஞ் சுடும்.  
@@ -418,7 +418,7 @@ The worthless even at a price.
 ८००. Compare with ७९४ for similar ideas. Seek the worthy and shake off the worthless, even at a price.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८००</summary>
 
 800\. maruvuka, mācu aṟṟār kēṇmai! oṉṟu īttum  
 oruvuka, oppu ilār naṭpu!.
@@ -426,7 +426,7 @@ oruvuka, oppu ilār naṭpu!.
 800\. Count the friendship of the faultless and release yourself even at a price from friends not of approved conduct.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८००</summary>
 
 10\. மருவுக மாசற்றார் கேண்மையொன் றீந்தும்  
 ஒருவுக வொப்பிலார் நட்பு.  

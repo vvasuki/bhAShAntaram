@@ -24,7 +24,7 @@ Who rules with injustice and oppression.*
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५१</summary>
 
 551\. kolai mēṟkoṇṭāriṉ koṭitē-alai mēṟkoṇṭu  
 allavai ceytu oḻukum vēntu.
@@ -32,7 +32,7 @@ allavai ceytu oḻukum vēntu.
 551\. The unrighteous king who oppresses his subjects is more cruel than the one who leads the life of a murderer.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५१</summary>
 
 1\. கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண்டு  
 அல்லவை செய்துஒழுகும் வேந்து.  
@@ -66,7 +66,7 @@ Is like an armed dacoit extorting money. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५२</summary>
 
 552\. vēloṭu niṉṟāṉ, ‘iṭu’ eṉṟatu pōlum-  
 kōloṭu niṉṟāṉ iravu.
@@ -74,7 +74,7 @@ kōloṭu niṉṟāṉ iravu.
 552\. The wielder of the sceptre asking for gifts, is like the spearman asking the way-farer ‘give.’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५२</summary>
 
 2\. வேலொடு நின்றான் இடுஎன் றதுபோலும்  
 கோலொடு நின்றான் இரவு.  
@@ -108,7 +108,7 @@ Loses his kingdom day by day.
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५३</summary>
 
 553\. nāḷtoṟum nāṭi, muṟaiceyyā maṉṉavaṉ  
 nāḷtoṟum nāṭu keṭum.
@@ -116,7 +116,7 @@ nāḷtoṟum nāṭu keṭum.
 553\. That country will perish any day whose monarch does not administer justice day by day.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५३</summary>
 
 3\. நாடொறும் நாடி முறைசெய்யா மன்னவன்  
 நாடொறும் நாடு கெடும்.  
@@ -150,7 +150,7 @@ Will lose at once his wealth and subjects.
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५४</summary>
 
 554\. kūḻum kuṭiyum oruṅku iḻakkum-kōl kōṭi,  
 cūḻātu, ceyyum aracu.
@@ -158,7 +158,7 @@ cūḻātu, ceyyum aracu.
 554\. That king who allows his sceptre to bend indiscriminately will lose his wealth together with his subjects.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५४</summary>
 
 4\. கூழும் குடியும் ஒருங்கிழக்கும் கோல்கோடிச்  
 சூழாது செய்யும் அரசு.  
@@ -197,7 +197,7 @@ That wear out the prosperity of the king.
 ५५५. The couplet is sometimes shown ending with a question mark. The phrase is "कण्णीरण्ड्रे" and not "कण्णीरण्ड्रो". A good abridgment of the verse is given by (K. Krishnaswamy & Vijaya Ramkumar): "The tears resulting from suffering caused by the king will be the cause of his undoing"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५५</summary>
 
 555\. allaṟpaṭṭu, āṟṟātu, aḻuta kaṇṇīr aṉṟē-  
 celvattait tēykkum paṭai.
@@ -205,7 +205,7 @@ celvattait tēykkum paṭai.
 555\. Are not the tears, shed as a result of oppression, the weapons which destroy the prosperity of the monarch?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५५</summary>
 
 5\. அல்லற்பட்டு ஆற்றாது அழுதகண் ணீரன்றே  
 செல்வத்தைத் தேய்க்கும் படை.  
@@ -239,7 +239,7 @@ Lacking it his glory fades.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५६</summary>
 
 556\. maṉṉarkku maṉṉutal ceṅkōṉmai; aḵtu iṉṟēl,  
 maṉṉāvām, maṉṉarkku oḷi.
@@ -247,7 +247,7 @@ maṉṉāvām, maṉṉarkku oḷi.
 556\. Good Government makes one’s rule enduring. Where it is not found, his lustre will not last long?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५६</summary>
 
 6\. மன்னர்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல்  
 மன்னாவாம் மன்னர்க் கொளி.  
@@ -286,7 +286,7 @@ So fares life under a ruthless king.
 ५५७. Relationship between King and Rain has been emphasized by Valluvar in at least three places in Kural. In the very next verse ५५९ Valluvar says “If a king acts contrary to justice, monsoons fail and clouds shed no rain”. Only in the previous chapter on "Just Government" had he stated that "The king who rules according to the law never lacks rain and corn".
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५७</summary>
 
 557\. tuḷi iṉmai ñālattiṟku eṟṟu? aṟṟē, vēntaṉ  
 aḷi iṉmai vāḻum uyirkku.
@@ -294,7 +294,7 @@ aḷi iṉmai vāḻum uyirkku.
 557\. The people who live under a graceless king suffer like the earth unvisited by drops of rain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५७</summary>
 
 7\. துளியின்மை ஞாலத்திற்கு எற்றற்றே வேந்தன்  
 அளியின்மை வாழும் உயிர்க்கு.  
@@ -328,7 +328,7 @@ Under the scepter of an unjust king.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५८</summary>
 
 558\. iṉmaiyiṉ iṉṉātu, uṭaimai-muṟai ceyyā  
 maṉṉavaṉ kōṟkīḻp paṭiṉ.
@@ -336,7 +336,7 @@ maṉṉavaṉ kōṟkīḻp paṭiṉ.
 558\. Where people possess a king, who does not enforce justice, wealth does not confer more happiness than poverty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५८</summary>
 
 8\. இன்மையின் இன்னாது உடைமை முறைசெய்யா  
 மன்னவன் கோற்கீழ்ப் படின்.  
@@ -370,7 +370,7 @@ Monsoons fail and clouds shed no rain.
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५५९</summary>
 
 559\. muṟai kōṭi maṉṉavaṉ ceyyiṉ, uṟai kōṭi  
 ollātu, vāṉam peyal.
@@ -378,7 +378,7 @@ ollātu, vāṉam peyal.
 559\. Were the king to rule unjustly, the Heavens would withhold rains?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५५९</summary>
 
 9\. முறைகோடி மன்னவன் செய்யின் உறைகோடி  
 ஒல்லாது வானம் பெயல்.  
@@ -417,7 +417,7 @@ If the protector fails to protect. *
 ५६०. "अऱुदॊऴिलोर्" here has been taken to mean priests. "Brahmins are they who perform the six duties" says Tirumandiram [२२४]. While commenting on this mantra, translator B. Natarajan mentions that the six duties of a Brahmin are: To learn, to instruct, to give alms, to receive gifts, to perform sacrifice and to persuade other to perform sacrifices. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५६०</summary>
 
 560\. ā payaṉ kuṉṟum; aṟutoḻilōr nūl maṟappar;-  
 kāvalaṉ kāvāṉ eṉiṉ.
@@ -425,7 +425,7 @@ kāvalaṉ kāvāṉ eṉiṉ.
 560\. If the protecting monarch fails in his duties, the yield of cows will diminish and Brahmans with their six duties will forget their Vedas.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५६०</summary>
 
 10\. ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்  
 காவலன் காவான் எனின்.  

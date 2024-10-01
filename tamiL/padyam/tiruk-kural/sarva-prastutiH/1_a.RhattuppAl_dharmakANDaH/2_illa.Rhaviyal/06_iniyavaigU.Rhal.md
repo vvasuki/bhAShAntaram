@@ -24,7 +24,7 @@ Soaked in love, free from pretence.
 (J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९१</summary>
 
 91\. iṉ col-āl īram aḷaii, paṭiṟu ilaām  
 cemporuḷ kaṇṭār vāyc col.
@@ -32,7 +32,7 @@ cemporuḷ kaṇṭār vāyc col.
 91\. Sweet are the words that fall from the lips of those who are full of guileless love and truth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९१</summary>
 
 1\. இன்சொலால் ஈரம் அளைஇப் படிறுஇலவாஞ்  
 செம்பொருள் கண்டார்வாய்ச் சொல்  
@@ -66,7 +66,7 @@ Are sweet words with a smiling face.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९२</summary>
 
 92\. akaṉ amarntu ītaliṉ naṉṟēmukaṉ amarntu  
 iṉcolaṉ ākappeṟiṉ.
@@ -74,7 +74,7 @@ iṉcolaṉ ākappeṟiṉ.
 92\. To speak with a pleasant look is better than to give with a cheerful heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९२</summary>
 
 2\. அகனமர்ந்து ஈதலின் நன்றே முகனமர்ந்து  
 இன்சொல் னாகப் பெறின்  
@@ -113,7 +113,7 @@ And sweet words from the heart.
 ९३. Compare with ७८६. “A smiling face alone makes no friendship, but the heart should also smile with the face” * - (V. Ramasamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३</summary>
 
 93\. mukattāṉ amarntu, iṉitu nōkki, akattāṉ ām  
 iṉ coliṉatē aṟam.
@@ -121,7 +121,7 @@ iṉ coliṉatē aṟam.
 93\. To welcome one with a pleasant look and loving words is righteousness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३</summary>
 
 3\. முகத்தான் அமர்ந்துஇனிது நோக்கி அகத்தானாம்  
 இன்சொ லினதே அறம்  
@@ -155,7 +155,7 @@ Who have a pleasant word for all.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४</summary>
 
 94\. tuṉpuṟūum tuvvāmai illākum yārmāṭṭum  
 iṉpuṟūum iṉcolavarkku.
@@ -163,7 +163,7 @@ iṉpuṟūum iṉcolavarkku.
 94\. The torment of poverty does not befall those who have a good word to say to all.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४</summary>
 
 4\. துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்  
 இன்புறூஉம் இன்சொ லவர்க்கு  
@@ -197,7 +197,7 @@ Other things do not count.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५</summary>
 
 95\. paṇivu uṭaiyaṉ, iṉcolaṉ ātal oruvaṟku  
 aṇi; alla, maṟṟup piṟa.
@@ -205,7 +205,7 @@ aṇi; alla, maṟṟup piṟa.
 95\. Humility and loving words are only true ornaments. Others are not.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५</summary>
 
 5\. பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு  
 அணியல்ல மற்றுப் பிற  
@@ -239,7 +239,7 @@ If one seeks the good and speaks sweet. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६</summary>
 
 96\. allavai tēya aṟam perukum nallavai  
 nāṭi, iṉiya coliṉ.
@@ -247,7 +247,7 @@ nāṭi, iṉiya coliṉ.
 96\. Vice wears out and virtue grows in one who speaks kind and wholesome words.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६</summary>
 
 6\. அல்லவை தேய அறம்பெருகும் நல்லவை  
 நாடி இனிய சொலின்  
@@ -281,7 +281,7 @@ Breed justice and strengthen virtue.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७</summary>
 
 97\. nayaṉ īṉṟu naṉṟi payakkumpayaṉ īṉṟu  
 paṇpiṉ talaippiriyāc col.
@@ -289,7 +289,7 @@ paṇpiṉ talaippiriyāc col.
 97\. Sweetly uttered words that do good to others will light up the path of virtue.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७</summary>
 
 7\. நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று  
 பண்பின் தலைப்பிரியாச் சொல்  
@@ -323,7 +323,7 @@ Both here and hereafter.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८</summary>
 
 98\. ciṟumaiyuḷ nīṅkiya iṉcol, maṟumaiyum  
 immaiyum, iṉpam tarum.
@@ -331,7 +331,7 @@ immaiyum, iṉpam tarum.
 98\. Sweet and inoffensive words yield one happiness both here and hereafter.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८</summary>
 
 8\. சிறுமையுள் நீங்கிய இன்சொல் மறுமையும்  
 இம்மையும் இன்பந் தரும்  
@@ -370,7 +370,7 @@ Having seen what kind words do?
 ९९. Compare with ३१८ for style. "Why does one hurt others knowing what it is to be hurt?" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९</summary>
 
 99\. iṉ col iṉitu īṉṟal kāṇpāṉ, evaṉkolō-  
 vaṉ col vaḻaṅkuvatu?.
@@ -378,7 +378,7 @@ vaṉ col vaḻaṅkuvatu?.
 99\. Why should a man use harsh words, knowing the pleasure that sweet speech kindles?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९</summary>
 
 9\. இன் சொல் இனிதீன்றல் காண்பான் எவன்கொலோ  
 வன்சொல் வழங்கு வது  
@@ -412,7 +412,7 @@ Is to prefer raw fruit to ripe.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००</summary>
 
 100\. iṉiya uḷavāka iṉṉāta kūṟal-  
 kaṉi iruppa, kāy kavarntaṟṟu.
@@ -420,7 +420,7 @@ kaṉi iruppa, kāy kavarntaṟṟu.
 100\. Indulging in offensive words and avoiding sweet ones is like prefering the raw to a ripe fruit.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००</summary>
 
 100\. iṉiya uḷavāka iṉṉāta kūṟal-  
 kaṉi iruppa, kāy kavarntaṟṟu.
@@ -429,7 +429,7 @@ kaṉi iruppa, kāy kavarntaṟṟu.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००</summary>
 
 10\. இனிய உளவாக இன்னாத கூறல்  
 கனியிருப்பக் காய்கவர்ந் தற்று  

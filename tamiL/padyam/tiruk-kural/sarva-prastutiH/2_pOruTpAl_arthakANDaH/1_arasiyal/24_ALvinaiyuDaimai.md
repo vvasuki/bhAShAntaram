@@ -25,7 +25,7 @@ Effort will overcome.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६११</summary>
 
 611\. arumai uṭaittu eṉṟu acāvāmai vēṇṭum;  
 perumai muyaṟci tarum.
@@ -33,7 +33,7 @@ perumai muyaṟci tarum.
 611\. “Do not give up (your task) saying ‘O’ It is very difficult." The art of doing it comes of exertion.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६११</summary>
 
 1\. அருமை உடைத்தென்று அசாவாமை வேண்டும்  
 பெருமை முயற்சி தரும்.  
@@ -67,7 +67,7 @@ For the world gives up those who give up. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१२</summary>
 
 612\. viṉaikkaṇ viṉaikeṭal ōmpal-viṉaik kuṟai  
 tīrntāriṉ tīrntaṉṟu, ulaku!.
@@ -75,7 +75,7 @@ tīrntāriṉ tīrntaṉṟu, ulaku!.
 612\. Do not give up your task in the middle; for the world will abandon those who leave their task unfinished.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१२</summary>
 
 2\. வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறை  
 தீர்ந்தாரின் தீர்ந்தன்று உலகு.  
@@ -109,7 +109,7 @@ Who have that quality called perseverance. *
 (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१३</summary>
 
 613\. tāḷāṇmai eṉṉum takaimaikkaṇ taṅkiṟṟē-  
 vēḷāṇmai eṉṉum cerukku.
@@ -117,7 +117,7 @@ vēḷāṇmai eṉṉum cerukku.
 613\. The greatness which consists in helping others dwells in the virtue of persevering effort.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१३</summary>
 
 3\. தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றே  
 வேளாண்மை என்னுஞ் செருக்கு.  
@@ -156,7 +156,7 @@ Like a sword in eunuch's hand.*
 ६१४. Valluvar has used this simile of “sword in eunuch’s hand” at least thrice in the Kural. In ७२६ he asks “What use is a sword to cowards and books to those who fear assembly?” * ((P.S. Sundaram), (N.V.K. Ashraf)). And in ७२७, he says “As a sword to a eunuch before his foes, is the learning to one who fears assembly.” * ((G.U. Pope), (V.V.S. Aiyar))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१४</summary>
 
 614\. tāḷāṇmai illātāṉ vēḷāṇmai, pēṭi kai  
 vāḷ āṇmai pōla, keṭum.
@@ -164,7 +164,7 @@ vāḷ āṇmai pōla, keṭum.
 614\. The service of one with no persevering effort is vain like the sword wielded by a hermaphrodite.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१४</summary>
 
 4\. தாளாண்மை இல்லாதான் வேளாண்மை பேடிகை  
 வாளாண்மை போலக் கெடும்.  
@@ -198,7 +198,7 @@ Who scorns delight and loves labour. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१५</summary>
 
 615\. iṉpam viḻaiyāṉ, viṉai viḻaivāṉ taṉ kēḷir  
 tuṉpam tuṭaittu ūṉṟum tūṇ.
@@ -206,7 +206,7 @@ tuṉpam tuṭaittu ūṉṟum tūṇ.
 615\. One who does not seek pleasure but delights in work will be a pillar of support to one’s relatives in their sorrow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१५</summary>
 
 5\. இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்  
 துன்பம் துடைத்தூன்றும் தூண்.  
@@ -240,7 +240,7 @@ Lack of it brings forth poverty. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१६</summary>
 
 616\. muyaṟci-tiruviṉai ākkum; muyaṟṟu iṉmai  
 iṉmai pukuttiviṭum.
@@ -248,7 +248,7 @@ iṉmai pukuttiviṭum.
 616\. Exertion achieves wealth; absence of it brings on poverty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१६</summary>
 
 6\. முயற்சி திருவினை யாக்கும் முயற்றின்மை  
 இன்மை புகுத்தி விடும்.  
@@ -287,7 +287,7 @@ While goddess 'fortune' lingers in active men. *
 ६१७. (J. Narayanaswamy) provides an interesting translation, though not close to the original: "Where sloth resides total darkness prevails; where industry thrives, brightness radiates like lotus". The meaning of the couplet is best summed by (K. Krishnaswamy & Vijaya Ramkumar): "Misfortune will befall the indolent, while the goddess of wealth will attend the hardworking".
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१७</summary>
 
 617\. 'maṭi uḷāḷ, mā mukaṭi' eṉpa; maṭi ilāṉ  
 tāḷ uḷāḷ, tāmaraiyiṉāḷ.
@@ -295,7 +295,7 @@ tāḷ uḷāḷ, tāmaraiyiṉāḷ.
 617\. Goddess of misfortune dwells in sloth; the Goddess of fortune lives in exertion.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१७</summary>
 
 7\. மடியுளாள் மாமுகடி என்ப மடியிலான்  
 தாளுளாள் தாமரையி னாள்.  
@@ -329,7 +329,7 @@ Is knowledge without exertion.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१८</summary>
 
 618\. poṟi iṉmai yārkkum paḻi aṉṟu; aṟivu aṟintu,  
 āḷviṉai iṉmai paḻi.
@@ -337,7 +337,7 @@ Is knowledge without exertion.
 618\. Ill-luck is no disgrace; but it is a disgrace if one does not exert himself as to what should be done.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१८</summary>
 
 8\. பொறியின்மை யார்க்கும் பழியன்று அறிவறிந்து  
 ஆள்வினை இன்மை பழி.  
@@ -376,7 +376,7 @@ Effort is bound to pay the wages of labour. *
 ६१९. The word "तॆय्वम्" has also been translated sometimes as "fate" as in the case of "वगुत्तान्" in couplet ३७७. Relevant here is the translation of a similar passage from Naladiyar – a Jaina classic beyond doubt. "Though fortune forsake him and fate frown on him॥॥॥" Translator S. Anavaratavinayakam Pillai here has chosen to render the word "तॆय्वम्" as "fate".
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१९</summary>
 
 619\. teyvattāṉ ākātueṉiṉum, muyaṟci taṉ  
 mey varuttak kūli tarum.
@@ -384,7 +384,7 @@ mey varuttak kūli tarum.
 619\. Though fate should ordain failure, bodily exertion will yield its own reward.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१९</summary>
 
 9\. தெய்வத்தான் ஆகாது எனினும் முயற்சிதன்  
 மெய்வருத்தக் கூலி தரும்.  
@@ -423,7 +423,7 @@ Shall leave even Fate behind.
 ६२०. Compare with ३८० "What is there mightier than fate? For it overtakes us in spite of our plans to overcome it" * - (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२०</summary>
 
 620\. ūḻaiyum uppakkam kāṇpar-ulaivu iṉṟit  
 tāḻātu uñaṟṟupavar.
@@ -431,7 +431,7 @@ tāḻātu uñaṟṟupavar.
 620\. Those who labour hard, undaunted by obstacles will overcome destiny.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२०</summary>
 
 10\. ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித்  
 தாழாது உஞற்று பவர்  

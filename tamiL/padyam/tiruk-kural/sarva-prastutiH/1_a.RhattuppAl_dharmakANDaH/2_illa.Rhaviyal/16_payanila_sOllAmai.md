@@ -24,7 +24,7 @@ Is to be despised by all.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९१</summary>
 
 191\. pallār muṉiyap payaṉ ila colluvāṉ  
 ellārum eḷḷappaṭum.
@@ -32,7 +32,7 @@ ellārum eḷḷappaṭum.
 191\. He who revels in frivolous talk will be despised by all.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९१</summary>
 
 1\. பல்லார் முனியப் பயனில சொல்லுவான்  
 எல்லாரும் எள்ளப் படும்  
@@ -66,7 +66,7 @@ Than a wrong done to a friend.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९२</summary>
 
 192\. payaṉ ila pallārmuṉ collal, nayaṉ ila  
 naṭṭārkaṇ ceytaliṉ tītu.
@@ -74,7 +74,7 @@ naṭṭārkaṇ ceytaliṉ tītu.
 192\. To talk frivolously in the presence of many is worse than an unjust act towards friends.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९२</summary>
 
 2\. பயனில பல்லார்முன் சொல்லல் நயனில  
 நட்டார்கண் செய்தலின் தீது  
@@ -108,7 +108,7 @@ Declares loud his want of worth.
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९३</summary>
 
 193\. nayaṉ ilaṉ eṉpatu collum-payaṉ ila  
 pārittu uraikkum urai.
@@ -116,7 +116,7 @@ pārittu uraikkum urai.
 193\. Indulgence in useless words at once betrays one’s lack of probity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९३</summary>
 
 3\. நயனிலன் என்பது சொல்லும் பயனில  
 பாரித் துரைக்கும் உரை  
@@ -150,7 +150,7 @@ Rob one of any gain or goodness.
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९४</summary>
 
 194\. nayaṉ cārā naṉmaiyiṉ nīkkum-payaṉ cārāp  
 paṇpu il col pallārakattu.
@@ -158,7 +158,7 @@ paṇpu il col pallārakattu.
 194\. Uttering empty words before all deprives one of one’s sense of justice and mars one’s noble qualities.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९४</summary>
 
 4\. நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்  
 பண்பில்சொல் பல்லா ரகத்து  
@@ -192,7 +192,7 @@ Will lose greatness and esteem.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९५</summary>
 
 195\. cīrmai ciṟappoṭu nīṅkum-payaṉ ila  
 nīrmai uṭaiyār coliṉ.
@@ -200,7 +200,7 @@ nīrmai uṭaiyār coliṉ.
 195\. If good-natured men speak profitless words, their greatness and glory will disappear.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९५</summary>
 
 5\. சீர்மை சிறப்பொடு நீங்கும் பயனில  
 நீர்மை யுடையார் சொலின்  
@@ -234,7 +234,7 @@ Call him rather chaff among men.
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९६</summary>
 
 196\. payaṉ il col pārāṭṭuvāṉai makaṉ eṉal!  
 makkaṭ pataṭi eṉal!.
@@ -242,7 +242,7 @@ makkaṭ pataṭi eṉal!.
 196\. He is not a man but the chaff among men, who indulges in vain words.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९६</summary>
 
 6\. பயனில்சொல் பாராட்டு வானை மகன்எனல்  
 மக்கட் பதடி யெனல்  
@@ -276,7 +276,7 @@ But the wise should avoid idle speech. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९७</summary>
 
 197\. nayaṉ ila colliṉum colluka! cāṉṟōr  
 payaṉ ila collāmai naṉṟu.
@@ -284,7 +284,7 @@ payaṉ ila collāmai naṉṟu.
 197\. Let great men speak untruth; it is better they refrain from uttering useless words.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९७</summary>
 
 7\. நயனில சொல்லினுஞ் சொல்லுக சான்றோர்  
 பயனில சொல்லாமை நன்று  
@@ -318,7 +318,7 @@ Refrain from words that have no grain of worth. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९८</summary>
 
 198\. arum payaṉ āyum aṟiviṉār collār-  
 perum payaṉ illāta col.
@@ -326,7 +326,7 @@ perum payaṉ illāta col.
 198\. Men of great discernment will never speak words devoid of great import.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९८</summary>
 
 8\. அரும்பயன் ஆயும் அறிவினார் சொல்லார்  
 பெரும்பயன் இல்லாத சொல்  
@@ -360,7 +360,7 @@ Say things that are meaningless. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९९</summary>
 
 199\. poruḷ tīrnta poccāntum collār-maruḷ tīrnta  
 mācu aṟu kāṭciyavar.
@@ -368,7 +368,7 @@ mācu aṟu kāṭciyavar.
 199\. Men of unclouded wisdom never utter nonsense even in a forgetful mood.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९९</summary>
 
 9\. பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த  
 மாசறு காட்சி யவர்  
@@ -402,7 +402,7 @@ Never indulge in vain speech.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २००</summary>
 
 200\. colluka, collil payaṉ uṭaiya! collaṟka,  
 collil payaṉ ilāc col!.
@@ -410,7 +410,7 @@ collil payaṉ ilāc col!.
 200\. Speak profitable words; avoid nonsense.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २००</summary>
 
 200\. colluka, collil payaṉ uṭaiya! collaṟka,  
 collil payaṉ ilāc col!.
@@ -419,7 +419,7 @@ collil payaṉ ilāc col!.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २००</summary>
 
 10\. சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க  
 சொல்லிற் பயனிலாச் சொல்  

@@ -24,7 +24,7 @@ At a hypocrite's lying conduct.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७१</summary>
 
 271\. vañca maṉattāṉ paṭiṟṟu oḻukkam pūtaṅkaḷ  
 aintum akattē nakum.
@@ -32,7 +32,7 @@ aintum akattē nakum.
 271\. A man’s five senses will laugh within at the false conduct of a deceitful mind.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७१</summary>
 
 1\. வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்  
 ஐந்தும் அகத்தே நகும்.  
@@ -66,7 +66,7 @@ Who knowingly does wrong?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७२</summary>
 
 272\. vāṉ uyar tōṟṟam evaṉ ceyyum-taṉ neñcam  
 tāṉ aṟi kuṟṟapaṭiṉ?.
@@ -74,7 +74,7 @@ tāṉ aṟi kuṟṟapaṭiṉ?.
 272\. Of what avail is a man’s saintly mien, if his mind is bent on evil?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७२</summary>
 
 2\. வானுயர் தோற்றம் எவன்செய்யும் தன்நெஞ்சம்  
 தான்அறி குற்றப் படின்  
@@ -108,7 +108,7 @@ Is an ox grazing in a tiger's skin. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७३</summary>
 
 273\. vali il nilaimaiyāṉ val uruvam peṟṟam  
 puliyiṉ tōl pōrttu mēyntaṟṟu.
@@ -116,7 +116,7 @@ puliyiṉ tōl pōrttu mēyntaṟṟu.
 273\. The ascetic appearance of one who has no strength of will, is like that of an ox grazing in the guise of a tiger.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७३</summary>
 
 3\. வலியில் நிலைமையான் வல்லுருவம் பெற்றம்  
 புலியின்தோல் போர்த்துமேய்ந் தற்று.  
@@ -150,7 +150,7 @@ Is like a fowler hiding in bush to trap birds. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७४</summary>
 
 274\. tavam maṟaintu, allavai ceytal-putalmaṟaintu  
 vēṭṭuvaṉ puḷ cimiḻttaṟṟu.
@@ -158,7 +158,7 @@ vēṭṭuvaṉ puḷ cimiḻttaṟṟu.
 274\. Committing evil under the mask of holiness is like the hunter lying in wait for birds.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७४</summary>
 
 4\. தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து  
 வேட்டுவன் புள்சிமிழ்த் தற்று.  
@@ -192,7 +192,7 @@ Will make them exclaim in pain, "Alas! Alas!" *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७५</summary>
 
 275\. 'paṟṟu aṟṟēm' eṉpār paṭiṟṟu oḻukkam. ‘eṟṟu! eṟṟu!' eṉṟu  
 ētam palavum tarum.
@@ -200,7 +200,7 @@ Will make them exclaim in pain, "Alas! Alas!" *
 275\. The hypocrisy of one who professes asceticism lands one in endless troubles.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७५</summary>
 
 5\. பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று  
 ஏதம் பலவுந் தரும்.  
@@ -234,7 +234,7 @@ Who lives by deceit without renouncing by heart. *
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७६</summary>
 
 276\. neñciṉ tuṟavār, tuṟantārpōl vañcittu,  
 vāḻvāriṉ vaṉkaṇār il.
@@ -242,7 +242,7 @@ vāḻvāriṉ vaṉkaṇār il.
 276\. There is none so hardened in vice as one who though hollow at heart, wears the mask of saintliness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७६</summary>
 
 6\. நெஞ்சில் துறவார் துறந்தார்போல் வஞ்சித்து  
 வாழ்வாரின் வன்கணார் இல்  
@@ -281,7 +281,7 @@ Are many, ochre-robed but black within.
 २७७. Konri is the seeds of Abrus precatorius, a tree not uncommon in South India.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७७</summary>
 
 277\. puṟam kuṉṟi kaṇṭaṉaiyarēṉum, akam kuṉṟi  
 mūkkil kariyār uṭaittu.
@@ -289,7 +289,7 @@ mūkkil kariyār uṭaittu.
 277\. This world contains (many) men who like the Kunri seed are fair of face but foul of heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७७</summary>
 
 7\. புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி  
 மூக்கிற் கரியார் உடைத்து  
@@ -323,7 +323,7 @@ And lead a double life.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७८</summary>
 
 278\. maṉattatu mācu āka, māṇṭār nīr āṭi,  
 maṟaintu oḻukum māntar palar.
@@ -331,7 +331,7 @@ maṟaintu oḻukum māntar palar.
 278\. There are many insincere men who frequent sacred waters to pass for holy men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७८</summary>
 
 8\. மனத்தது மாசாக மாண்டார்நீ ராடி  
 மறைந்தொழுகும் மாந்தர் பலர்.  
@@ -370,7 +370,7 @@ Judge men not by their looks but acts.
 २७९. Compare with ६६७. “Despise not by looks! Even linchpins hold in place the wheels of mighty chariots!” – (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७९</summary>
 
 279\. kaṇai koṭitu; yāḻ kōṭu cevvitu; āṅku aṉṉa  
 viṉaipaṭu pālāl koḷal.
@@ -378,7 +378,7 @@ viṉaipaṭu pālāl koḷal.
 279\. The arrow, though straight is deadly; the yāl though crooked is sweet. Let people be judged by their actions.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७९</summary>
 
 9\. கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன  
 வினைபடு பாலால் கொளல்.  
@@ -412,7 +412,7 @@ If one avoids what the world condemns.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८०</summary>
 
 280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
 paḻittatu oḻittuviṭiṉ.
@@ -420,7 +420,7 @@ paḻittatu oḻittuviṭiṉ.
 280\. If persons abstain from deeds condemned by the world there is no need either for tonsure or for matted locks.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८०</summary>
 
 280\. maḻittalum nīṭṭalum vēṇṭā- ulakam  
 paḻittatu oḻittuviṭiṉ.
@@ -429,7 +429,7 @@ paḻittatu oḻittuviṭiṉ.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८०</summary>
 
 10\. மழித்தலும் நீட்டலும் வேண்டா உலகம்  
 பழித்தது ஒழித்து விடின்.  

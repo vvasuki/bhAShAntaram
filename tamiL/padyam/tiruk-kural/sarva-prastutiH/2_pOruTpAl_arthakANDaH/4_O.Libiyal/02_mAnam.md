@@ -25,7 +25,7 @@ Makes life impossible.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६१</summary>
 
 961 iṉṟi amaiyāc ciṟappiṉ āyiṉum  
 kuṉṟa varupa viṭal.
@@ -33,7 +33,7 @@ kuṉṟa varupa viṭal.
 961\. Reject mean actions, even if they bring glory in their turn.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६१</summary>
 
 97\. மானம் - Honour
 
@@ -74,7 +74,7 @@ Will not sacrifice honour for fame.
 ९६२. Compare with १०१७. “Men of honour give up life for honour’s sake, but never abandon honour to save life” * - (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६२</summary>
 
 962 cīriṉum cīralla ceyyārē cīroṭu  
 pērāṇmai vēṇṭu pavar.
@@ -82,7 +82,7 @@ pērāṇmai vēṇṭu pavar.
 962\. Those who desire honour and name will not do mean things in their thirst for glory.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६२</summary>
 
 2\. சீரினும் சீரல்ல செய்யாரே சீரொடு  
 பேராண்மை வேண்டு பவர்.  
@@ -116,7 +116,7 @@ In adversity, stand straight.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६३</summary>
 
 963 perukkattu vēṇṭum paṇital ciṟiya  
 curukkattu vēṇṭum uyarvu.
@@ -124,7 +124,7 @@ curukkattu vēṇṭum uyarvu.
 963\. During prosperity practise humility. Even in adversity keep dignity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६३</summary>
 
 3\. பெருக்கத்து வேண்டும் பணிதல் சிறிய  
 சுருக்கத்து வேண்டும் உயர்வு.  
@@ -158,7 +158,7 @@ Are like hair fallen from the head. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६४</summary>
 
 964 talaiyiṉ iḻinta mayiraṉaiyar māntar  
 nilaiyiṉ iḻintak kaṭai.
@@ -166,7 +166,7 @@ nilaiyiṉ iḻintak kaṭai.
 964\. Men fallen from a high estate are like the hair fallen from the head.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६४</summary>
 
 4\. தலையின் இழிந்த மயிரனையர் மாந்தர்  
 நிலையின் இழிந்தக் கடை.  
@@ -205,7 +205,7 @@ By deeds as small as a speck. *
 ९६५. ९६५. That’s why in Kural ४३३, the author says: “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” * - (V. Ramasamy), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६५</summary>
 
 965 kuṉṟiṉ aṉaiyārum kuṉṟuvar kuṉṟuva  
 kuṉṟi aṉaiya ceyiṉ.
@@ -213,7 +213,7 @@ kuṉṟi aṉaiya ceyiṉ.
 965\. Even a trivial mean act will drag down a man from the hill top of his eminence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६५</summary>
 
 5\. குன்றின் அனையாரும் குன்றுவர் குன்றுவ  
 குன்றி அனைய செயின்.  
@@ -247,7 +247,7 @@ Neither fame nor place in heaven? *
 (Kasthuri Sreenivasan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६६</summary>
 
 966 pukaḻiṉṟāl puttēḷnāṭṭu uyyātāl eṉmaṟṟu  
 ikaḻvārpiṉ ceṉṟu nilai.
@@ -255,7 +255,7 @@ ikaḻvārpiṉ ceṉṟu nilai.
 966\. Of what use is servility to one who despises you? It brings neither fame nor does it show the path to heaven.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६६</summary>
 
 6\. புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்று  
 இகழ்வார்பின் சென்று நிலை.  
@@ -289,7 +289,7 @@ Spent clinging on to those who scorn.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६७</summary>
 
 967 oṭṭārpiṉ ceṉṟoruvaṉ vāḻtaliṉ annilaiyē  
 keṭṭāṉ eṉappaṭutal nṉṟu.
@@ -297,7 +297,7 @@ keṭṭāṉ eṉappaṭutal nṉṟu.
 967\. Better to die in poverty than to be servile to one that scorns you.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६७</summary>
 
 7\. ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே  
 கெட்டான் எனப்படுதல் நன்று.  
@@ -336,7 +336,7 @@ Even at the cost of honour?
 ९६८. A difficult verse to translate. The word “ऊन्” has been taken by different translators as “life”, “skin”, “body” and the word “मरुन्दो” to mean “nectar” or “medicine”. (V.V.S. Aiyar) provides an interesting but daring translation: “Is the skin forsooth immortality that men desire to save it at the cost of honour?” Another interesting translation, but not close to original: “Does life saved at the cost of honour, put off death for ever?” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६८</summary>
 
 968 maruntōmaṟṟu ūṉōmpum vāḻkkai peruntakaimai  
 pīṭu aḻiyavanta iṭattu
@@ -344,7 +344,7 @@ pīṭu aḻiyavanta iṭattu
 968\. When one’s honour is ruined, will the life that sustains the body confer immortality?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६८</summary>
 
 8\. மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமை  
 பீடழிய வந்த இடத்து.  
@@ -383,7 +383,7 @@ The noble, stripped of their honour, prefer death.
 ९६९. The exact meaning of the word “कवरिमा” has not been established for this context. Since Valluvar is referring to the advantage of a wooly coat for surviving cold climates in high altitudes and polar regions, the word has been translated as “yak” here, as many translators do. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९६९</summary>
 
 969 mayirnīppiṉ vāḻāk kavarimā aṉṉār  
 uyirnīppar māṉam variṉ.
@@ -391,7 +391,7 @@ uyirnīppar māṉam variṉ.
 969\. He whose honour is at stake lays down his life like the Yak that is shorn of its single hair.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९६९</summary>
 
 9\. மயிர்நீப்பின் வாழாக் கவரிமா அன்னார்  
 உயிர்நீப்பர் மானம் வரின்.  
@@ -425,7 +425,7 @@ Who prefer death to dishonour. *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७०</summary>
 
 970 iḷivariṉ vāḻāta māṉam uṭaiyār  
 oḷitoḻutu ēttum ulaku
@@ -433,7 +433,7 @@ oḷitoḻutu ēttum ulaku
 970\. The world sings in praise of those noble persons who prefer death to dishonour.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७०</summary>
 
 10\. இளிவரின் வாழாத மானம் உடையார்  
 ஒளிதொழுது ஏத்தும் உலகு.  

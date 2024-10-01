@@ -24,7 +24,7 @@ Marking the days of his absence. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६१</summary>
 
 1261 vāḷaṟṟup puṟkeṉṟa kaṇṇum avarceṉṟa  
 nāḷoṟṟit tēynta viral.
@@ -32,7 +32,7 @@ nāḷoṟṟit tēynta viral.
 1261\. Counting the days of his separation, my fingers have become wasted and worn out; my eyes have grown dim and faint.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६१</summary>
 
 1\. வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற  
 நாளொற்றித் தேய்ந்த விரல்.  
@@ -71,7 +71,7 @@ For it costs my beauty and armlets! *
 १२६२. Can be translated differently based on how the word "ऎन्" is being interpreted, whether as "what" or "mine". The phrase "मऱप्पिन् ऎन्" could therefore mean either "What if I forget" or "If I forget, my" and thus giving different meanings. (K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar), (V.V.S. Aiyar), (S.M. Diaz) and (K. Krishnaswamy & Vijaya Ramkumar) have preferred the first one, while (P.S. Sundaram), (K. Kannan), (J. Narayanaswamy), (M.S. Poornalingam Pillai), (G.U. Pope) and (W.H. Drew and J. Lazarus) have opted for the second interpretation. The first one has been preferred here. If the second rendering is chosen, then the couplet would be taken to mean: "My bright jewel, if I forget him now, bracelets will slide off my shoulders, losing its beauty" *- (M.S. Poornalingam Pillai), (J. Narayanaswamy). On the contrary, bracelets should actually slip and shoulders lose their beauty only when the lady keeps remembering her lover, not when she forgets!
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६२</summary>
 
 1262 ilaṅkiḻāy iṉṟu maṟappiṉeṉ tōḷmēl  
 kalaṅkaḻiyum kārikai nīttu.
@@ -79,7 +79,7 @@ kalaṅkaḻiyum kārikai nīttu.
 1262\. O! bright girl, if I forget my lord today, then my shoulders will become thin and my bangles loose.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६२</summary>
 
 2\. இலங்கிழாய் இன்று மறப்பின்என் தோள்மேல்  
 கலங்கழியும் காரிகை நீத்து.  
@@ -118,7 +118,7 @@ And if I live yet, it is longing for his return. *
 १२६३. An alternate good translation but not close to original: "With his mind set on conquests he left, while I live here with my eyes set on his return" - (K. Krishnaswamy & Vijaya Ramkumar). Compare this with १२३०: "Longing for him who left longing for wealth, the evenings have their toll on my undying soul" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६३</summary>
 
 1263 uraṉnacaii uḷḷam tuṇaiyākac ceṉṟār  
 varalnacaii iṉṉum uḷēṉ.
@@ -126,7 +126,7 @@ varalnacaii iṉṉum uḷēṉ.
 1263\. I continue to live in eager expectation of the return of my lover. He took with him as his friend his own brave heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६३</summary>
 
 3\. உரன்நசைஇ உள்ளம் துணையாகச் சென்றார்  
 வரல்நசைஇ இன்னும் உளேன்.  
@@ -165,7 +165,7 @@ Makes my heart burgeon higher and higher.
 १२६४. The phrase "कूडिय कामम् पिरिन्दार्" has been taken to mean differently. As [i] "One who embraced and parted" by (M.S. Poornalingam Pillai), (S.M. Diaz), (V.V.S. Aiyar) and [ii] "reunion when my love returns" by ( Shuddhananda Bharatiar), (P.S. Sundaram). Both views seem to be correct, but (K. Krishnaswamy & Vijaya Ramkumar) and (W.H. Drew and J. Lazarus) take somewhat a middle path "the lover returning with enhanced love" by taking the word "कूडिय" as enhanced. But the context of the buoyant heart going higher and higher at the thought of the lover’s return imply that she is thinking about the reunion of love.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६४</summary>
 
 1264 kūṭiya kāmam pirintār varavuḷḷik  
 kōṭukoṭu ēṟumeṉ neñcu.
@@ -173,7 +173,7 @@ kōṭukoṭu ēṟumeṉ neñcu.
 1264\. With the thought of my lover’s return anxious for reunion, my heart goes on climbing higher and higher.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६४</summary>
 
 4\. கூடிய காமம் பிரிந்தார் வரவுள்ளிக்  
 கோடுகொ டேறும்என் நெஞ்சு.  
@@ -207,7 +207,7 @@ Once my eyes feast seeing him.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६५</summary>
 
 1265 kāṇkamaṉ koṇkaṉaik kaṇṇārak kaṇṭapiṉ  
 nīṅkumeṉ meṉtōḷ pacappu.
@@ -215,7 +215,7 @@ nīṅkumeṉ meṉtōḷ pacappu.
 1265\. After feasting my eyes with the sight of my husband, my soft shoulders will lose their pallor.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६५</summary>
 
 5\. காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்  
 நீங்கும்என் மென்றோள் பசப்பு.  
@@ -249,7 +249,7 @@ I will gorge him till all my ills vanish.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६६</summary>
 
 1266 varukamaṉ koṇkaṉ orunāḷ parukuvaṉ  
 paitalnōy ellām keṭa.
@@ -257,7 +257,7 @@ paitalnōy ellām keṭa.
 1266\. Let my husband come here one day. Then my wasting disease will be completely cured.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६६</summary>
 
 6\. வருகமன் கொண்கன் ஒருநாள் பருகுவன்  
 பைதல்நோய் எல்லாம் கெட.  
@@ -291,7 +291,7 @@ Should I frown or embrace him or do both? *
 (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६७</summary>
 
 1267 pulappēṉkol pulluvēṉ kollō kalappēṉkol  
 kaṇaṉṉa kēḷir variṉ.
@@ -299,7 +299,7 @@ kaṇaṉṉa kēḷir variṉ.
 1267\. When my husband, dear to me as my eyes, returns, shall I be indifferent or complaining? Shall I not be one with him?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६७</summary>
 
 7\. புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்  
 கண்அன்ன கேளிர் வரின்.  
@@ -333,7 +333,7 @@ I can then join my wife and party in the evenings.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६८</summary>
 
 1268 viṉaikalantu veṉṟīka vēntaṉ maṉaikalantu  
 mālai ayarkam viruntu.
@@ -341,7 +341,7 @@ mālai ayarkam viruntu.
 1268\. May my lord be victorious in action and may I also go home to enjoy my evening repast with a guest.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६८</summary>
 
 8\. வினைகலந்து வென்றீக வேந்தன் மனைகலந்து  
 மாலை அயர்கம் விருந்து.  
@@ -375,7 +375,7 @@ Who long for the day of their mate’s return.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६९</summary>
 
 1269 orunāḷ eḻunāḷpōl cellumcēṇ ceṉṟār  
 varunāḷvaittu ēṅku pavarkku.
@@ -383,7 +383,7 @@ varunāḷvaittu ēṅku pavarkku.
 1269\. To one who awaits the day of arrival of her husband, one day appears as long as seven.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६९</summary>
 
 9\. ஒருநாள் எழுநாள்போல் செல்லும்சேட் சென்றார்  
 வருநாள்வைத்து ஏங்கு பவர்க்கு.  
@@ -417,7 +417,7 @@ Meeting or even embrace?
 (V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२७०</summary>
 
 1270 peṟiṉeṉṉām peṟṟakkāl eṉṉām uṉeṉṉām  
 uḷḷam uṭaintuukkak kāl.
@@ -425,7 +425,7 @@ uḷḷam uṭaintuukkak kāl.
 1270\. If her heart has been broken, of what avail is it if I become available to her, reach her or even join her?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२७०</summary>
 
 10\. பெறின்என்னாம் பெற்றக்கால் என்னாம் உறின்என்னாம்  
 உள்ளம் உடைந்துக்கக் கால்.  

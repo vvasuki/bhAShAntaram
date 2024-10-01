@@ -25,7 +25,7 @@ These two are a king's pair of eyes. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८१</summary>
 
 581\. oṟṟum, urai cāṉṟa nūlum, ivai iraṇṭum  
 teṟṟeṉka, maṉṉavaṉ kaṇ.
@@ -33,7 +33,7 @@ teṟṟeṉka, maṉṉavaṉ kaṇ.
 581\. Verily the two eyes of a king are espionage and the celebrated code of laws.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८१</summary>
 
 1\. ஒற்றும் உரைசான்ற நூலும் இவையிரண்டும்  
 தெற்றென்க மன்னவன் கண்.  
@@ -67,7 +67,7 @@ That happens to everyone every day. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८२</summary>
 
 582\. ellārkkum ellām nikaḻpavai eññāṉṟum  
 vallaṟital, vēntaṉ toḻil.
@@ -75,7 +75,7 @@ vallaṟital, vēntaṉ toḻil.
 582\. A king’s duty is to get day to day knowledge of everything that happens.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८२</summary>
 
 2\. எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும்  
 வல்லறிதல் வேந்தன் தொழில்.  
@@ -109,7 +109,7 @@ Without considering the news of the spies.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८३</summary>
 
 583\. oṟṟiṉāṉ oṟṟi, poruḷ teriyā maṉṉavaṉ  
 koṟṟam koḷak kiṭantatu il.
@@ -117,7 +117,7 @@ koṟṟam koḷak kiṭantatu il.
 583\. The sure way of achieving success for a king is to get correct information from spies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८३</summary>
 
 3\. ஒற்றினான் ஒற்றி பொருள்தெரியா மன்னவன்  
 கொற்றங் கொளக்கிடந்தது இல்.  
@@ -151,7 +151,7 @@ Are the people a spy should cover.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८४</summary>
 
 584\. viṉaiceyvār, tam cuṟṟam, vēṇṭātār, eṉṟu āṅku  
 aṉaivaraiyum ārāyvatu-oṟṟu.
@@ -159,7 +159,7 @@ aṉaivaraiyum ārāyvatu-oṟṟu.
 584\. Espionage consists of watching all people, to wit, the king’s employees, his relations and his enemies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८४</summary>
 
 4\. வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு  
 அனைவரையும் ஆராய்வது ஒற்று.  
@@ -193,7 +193,7 @@ With perfect guise and fearless eyes.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८५</summary>
 
 585\. kaṭāa uruvoṭu kaṇ añcātu, yāṇṭum  
 ukā amai vallatē-oṟṟu.
@@ -201,7 +201,7 @@ ukā amai vallatē-oṟṟu.
 585\. An able spy puts on undoubted disguise, does not fear when detected, and never reveals his purpose.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८५</summary>
 
 5\. கடாஅ உருவொடு கண்ணஞ்சாது யாண்டும்  
 உகாஅமை வல்லதே ஒற்று.  
@@ -235,7 +235,7 @@ Unperturbed despite hardships. *
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८६</summary>
 
 586\. tuṟantār paṭivattar āki iṟantu, ārāyntu,  
 eṉ ceyiṉum cōrvu ilatu-oṟṟu.
@@ -243,7 +243,7 @@ eṉ ceyiṉum cōrvu ilatu-oṟṟu.
 586\. A spy in the guise of an ascetic should gather information however difficult and should never be tired whatever be the troubles.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८६</summary>
 
 6\. துறந்தார் படிவத்த ராகி இறந்தாராய்ந்து  
 என்செயினும் சோர்விலது ஒற்று.  
@@ -277,7 +277,7 @@ And get them verified beyond doubt.
 (Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८७</summary>
 
 587\. maṟaintavai kēṭka vaṟṟu āki, aṟintavai  
 aiyappāṭu illatē-oṟṟu.
@@ -285,7 +285,7 @@ aiyappāṭu illatē-oṟṟu.
 587\. A spy should secure knowledge of things secret and should have no doubt about his information.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८७</summary>
 
 7\. மறைந்தவை கேட்கவற் றாகி அறிந்தவை  
 ஐயப்பாடு இல்லதே ஒற்று.  
@@ -319,7 +319,7 @@ Must be spied through another. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८८</summary>
 
 588\. oṟṟu oṟṟit tanta poruḷaiyum, maṟṟum ōr  
 oṟṟiṉāl oṟṟi, koḷal.
@@ -327,7 +327,7 @@ oṟṟiṉāl oṟṟi, koḷal.
 588\. One must get confirmed the information supplied by one spy, by that of another.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८८</summary>
 
 8\. ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர்  
 ஒற்றினால் ஒற்றிக் கொளல்.  
@@ -361,7 +361,7 @@ And act when three spies agree.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५८९</summary>
 
 589\. oṟṟu oṟṟu uṇarāmai āḷka; uṭaṉ mūvar  
 col tokka tēṟappaṭum.
@@ -369,7 +369,7 @@ col tokka tēṟappaṭum.
 589\. Let the engagement of one spy be not known to another. Accept the information supplied independently by three spies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५८९</summary>
 
 9\. ஒற்றொற் றுணராமை ஆள்க உடன்மூவர்  
 சொல்தொக்க தேறப் படும்.  
@@ -403,7 +403,7 @@ Lest your secret should be out.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९०</summary>
 
 590\. ciṟappu aṟiya oṟṟiṉkaṇ ceyyaṟka; ceyyiṉ,  
 puṟappaṭuttāṉ ākum, maṟai.
@@ -411,7 +411,7 @@ puṟappaṭuttāṉ ākum, maṟai.
 590\. Let not a king honour the spy publicly; for, by so doing he will be letting out his own secret.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९०</summary>
 
 10\. சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யின்  
 புறப்படுத்தா னாகும் மறை  

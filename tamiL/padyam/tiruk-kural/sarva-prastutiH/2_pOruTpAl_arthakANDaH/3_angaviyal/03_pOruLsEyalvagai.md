@@ -25,7 +25,7 @@ To make the worthless worthy.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५१</summary>
 
 751\. poruḷ allavaraip poruḷākac ceyyum  
 poruḷ allatu, illai poruḷ.
@@ -33,7 +33,7 @@ poruḷ allatu, illai poruḷ.
 751\. There is nothing else than riches that make insignificant men prominent.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५१</summary>
 
 1\. பொருளல் லவரைப் பொருளாகச் செய்யும்  
 பொருளல்லது இல்லை பொருள்.  
@@ -67,7 +67,7 @@ While the rich are exalted by all.
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५२</summary>
 
 752\. illārai ellārum eḷḷuvar; celvarai  
 ellārum ceyvar, ciṟappu.
@@ -75,7 +75,7 @@ ellārum ceyvar, ciṟappu.
 752\. All will despise the poor; all will accord honour to the wealthy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५२</summary>
 
 2\. இல்லாரை எல்லோரும் எள்ளுவர் செல்வரை  
 எல்லாரும் செய்வர் சிறப்பு.  
@@ -109,7 +109,7 @@ Even in far reaching lands.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५३</summary>
 
 753\. poruḷ eṉṉum poyyā viḷakkam, iruḷ aṟukkum-  
 eṇṇiya tēyattuc ceṉṟu.
@@ -117,7 +117,7 @@ eṇṇiya tēyattuc ceṉṟu.
 753\. The faultless lamp of riches will dispel the darkness (of trouble) in any country to which it is taken.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५३</summary>
 
 3\. பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்  
 எண்ணிய தேயத்துச் சென்று.  
@@ -151,7 +151,7 @@ Yields both virtue and happiness.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५४</summary>
 
 754\. aṟaṉ īṉum; iṉpamum īṉum;-tiṟaṉ aṟintu,  
 tītu iṉṟi vanta poruḷ.
@@ -159,7 +159,7 @@ tītu iṉṟi vanta poruḷ.
 754\. The wealth accumulated justly and without sin will confer virtue and happiness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५४</summary>
 
 4\. அறன்ஈனும் இன்பமும் ஈனும் திறனறிந்து  
 தீதின்றி வந்த பொருள்.  
@@ -198,7 +198,7 @@ Obtained without love and grace.
 ७५५: A short and crisp translations, but not close to original: "Wealth unblessed by giver and taker should not be touched" – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५५</summary>
 
 755\. aruḷoṭum, aṉpoṭum vārāp poruḷ ākkam  
 pullār, puraḷa viṭal!.
@@ -206,7 +206,7 @@ pullār, puraḷa viṭal!.
 755\. Let not the king accept the wealth not acquired through mercy and love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५५</summary>
 
 5\. அருளொடும் அன்பொடும் வாராப் பொருளாக்கம்  
 புல்லார் புரள விடல்.  
@@ -240,7 +240,7 @@ Are all rulers' wealth. *
 (W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५६</summary>
 
 756\. uṟu poruḷum, ulku poruḷum, taṉ oṉṉārt  
 teṟu poruḷum,-vēntaṉ poruḷ.
@@ -248,7 +248,7 @@ teṟu poruḷum,-vēntaṉ poruḷ.
 756\. Unclaimed wealth, tolls and tributes by the subdued chieftains are the king’s property.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५६</summary>
 
 6\. உறுபொருளும் உல்கு பொருளும்தன் ஒன்னார்த்  
 தெறுபொருளும் வேந்தன் பொருள்.  
@@ -282,7 +282,7 @@ By that generous foster-mother 'wealth'.
 (J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५७</summary>
 
 757\. aruḷ eṉṉum aṉpu īṉ kuḻavi, poruḷ eṉṉum  
 celvac ceviliyāl, uṇṭu.
@@ -290,7 +290,7 @@ celvac ceviliyāl, uṇṭu.
 757\. What is mercy, but the child of love? What is wealth, but the nurse of mercy?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५७</summary>
 
 7\. அருளென்னும் அன்பீன் குழவி பொருளென்னும்  
 செல்வச் செவிலியால் உண்டு  
@@ -324,7 +324,7 @@ Are like elephant-fights witnessed from a hill.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५८</summary>
 
 758\. kuṉṟu ēṟi, yāṉaip pōr kaṇṭaṟṟāl-taṉ kaittu oṉṟu  
 uṇṭākac ceyvāṉ viṉai.
@@ -332,7 +332,7 @@ uṇṭākac ceyvāṉ viṉai.
 758\. The deeds of the wealthy are like elephant fights witnessed from a hill.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५८</summary>
 
 8\. குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்று  
 உண்டாகச் செய்வான் வினை.  
@@ -366,7 +366,7 @@ To cut down your foe's pride.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५९</summary>
 
 759\. ceyka poruḷai! ceṟunar cerukku aṟukkum  
 eḵku ataṉiṉ kūriyatu il.
@@ -374,7 +374,7 @@ eḵku ataṉiṉ kūriyatu il.
 759\. Store up wealth; no other weapon is sharper than that to destroy the enemy’s pride.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५९</summary>
 
 9\. செய்க பொருளை செறுநர் செருக்கறுக்கும்  
 எஃகதனிற் கூரியது இல்  
@@ -413,7 +413,7 @@ Gains the other two treasures together. *
 ७६०. The other two of Trivarga: i.e. Virtue and Love.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६०</summary>
 
 760\. oṇ poruḷ kāḻppa iyaṟṟiyārkku, eṇ poruḷ-  
 ēṉai iraṇṭum oruṅku.
@@ -421,7 +421,7 @@ Gains the other two treasures together. *
 760\. Amass wealth by lawful means; the other two (virtue and happiness) will follow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६०</summary>
 
 10\. ஒண்பொருள் காழ்ப்ப இயற்றியார்க்கு எண்பொருள்  
 ஏனை இரண்டும் ஒருங்கு          

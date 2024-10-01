@@ -24,7 +24,7 @@ And having learnt, stand according to that.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९१</summary>
 
 391\. kaṟka, kacaṭu aṟa, kaṟpavai! kaṟṟapiṉ,  
 niṟka, ataṟkut taka!.
@@ -32,7 +32,7 @@ niṟka, ataṟkut taka!.
 391\. Faultlessly pursue knowledge and abide by it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९१</summary>
 
 1\. கற்க கசடறக் கற்பவை கற்றபின்  
 நிற்க அதற்குத் தக.  
@@ -66,7 +66,7 @@ Are the two eyes to live with. *
 (V.C. Kulandai Swamy), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९२</summary>
 
 392\. 'eṇ' eṉpa, ēṉai ‘eḻuttu’ eṉpa, iv iraṇṭum  
 ‘kaṇ’ eṉpa, vāḻum uyirkku.
@@ -74,7 +74,7 @@ Are the two eyes to live with. *
 392\. Verily the numbers and letters are the eyes of the living one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९२</summary>
 
 2\. எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்  
 கண்ணென்ப வாழும் உயிர்க்கு.  
@@ -113,7 +113,7 @@ The unlearned have two sores on their face! *
 ३९३. Compare with couple ५७५ where Valluvar uses the same idea to emphasize compassion in eyes: “Compassion is an ornament of the eyes. Without it eyes are deemed sores” ((Satguru Subramuniyaswami))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९३</summary>
 
 393\. kaṇ uṭaiyar eṉpavar kaṟṟōr; mukattu iraṇṭu  
 puṇ uṭaiyar, kallātavar.
@@ -121,7 +121,7 @@ puṇ uṭaiyar, kallātavar.
 393\. The learned alone are said to possess eyes; but they are only sores in the face of the unlettered.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९३</summary>
 
 3\. கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு  
 புண்ணுடையர் கல்லா தவர்.  
@@ -155,7 +155,7 @@ And departures leave memories. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९४</summary>
 
 394\. uvappat talaikkūṭi, uḷḷap pirital  
 aṉaittē-pulavar toḻil.
@@ -163,7 +163,7 @@ aṉaittē-pulavar toḻil.
 394\. The duty of the learned is to delight man by their company. Hunger ever more for it even while parting.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९४</summary>
 
 4\. உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்  
 அனைத்தே புலவர் தொழில்  
@@ -197,7 +197,7 @@ Only the low never learn.
 (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९५</summary>
 
 395\. uṭaiyārmuṉ illārpōl ēkkaṟṟum kaṟṟār;  
 kaṭaiyarē, kallātavar.
@@ -205,7 +205,7 @@ kaṭaiyarē, kallātavar.
 395\. Eager like the beggars at the door of the wealthy is the sufferer of knowledge; the illiterate are held in scorn.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९५</summary>
 
 5\. உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்  
 கடையரே கல்லா தவர்  
@@ -239,7 +239,7 @@ The more you learn more the wisdom.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९६</summary>
 
 396\. toṭṭaṉaittu ūṟum, maṇaṟ kēṇi;-māntarkkuk  
 kaṟṟaṉaittu ūṟum, aṟivu.
@@ -247,7 +247,7 @@ kaṟṟaṉaittu ūṟum, aṟivu.
 396\. The deeper you delve into the earth, the greater will be the flow of water. Likewise knowledge is in proportion to your learning.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९६</summary>
 
 6\. தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்  
 கற்றனைத் தூறும் அறிவு.  
@@ -286,7 +286,7 @@ When it makes all lands and place his?
 ३९७. (K.R. Srinivasa Iyengar)'s alternate translation: "The learned can feel at home everywhere. Why then shun learning all one's life?"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९७</summary>
 
 397\. yātāṉum nāṭu āmāl; ūr āmāl; eṉ, oruvaṉ  
 cām tuṇaiyum kallātavāṟu?.
@@ -294,7 +294,7 @@ cām tuṇaiyum kallātavāṟu?.
 397\. No country and no place is alien to the learned. How is it that persons remain in ignorance to the end of their lives?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९७</summary>
 
 7\. யாதானும் நாடாமால் ஊராமால் என்னொருவன்  
 சாந்துணையுங் கல்லாத வாறு.  
@@ -328,7 +328,7 @@ Protects a man in the next seven. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९८</summary>
 
 398\. orumaikkaṇ tāṉ kaṟṟa kalvi oruvaṟku  
 eḻumaiyum ēmāppu uṭaittu.
@@ -336,7 +336,7 @@ eḻumaiyum ēmāppu uṭaittu.
 398\. The knowledge that a person gains in one birth stands him in good stead for seven births.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९८</summary>
 
 8\. ஒருமைக்கண் தான்கற்ற கல்வி ஒருவற்கு  
 எழுமையும் ஏமாப் புடைத்து  
@@ -370,7 +370,7 @@ Gets a scholar also delighted. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३९९</summary>
 
 399\. tām iṉpuṟuvatu ulaku iṉpuṟak kaṇṭu,  
 kāmuṟuvar, kaṟṟu aṟintār.
@@ -378,7 +378,7 @@ kāmuṟuvar, kaṟṟu aṟintār.
 399\. The learned thirst for knowledge more and more, because what gives them pleasure delights the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३९९</summary>
 
 9\. தாமின் புறுவது உலகின் புறக்கண்டு  
 காமுறுவர் கற்றறிந் தார்.  
@@ -412,7 +412,7 @@ All others are not riches.
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४००</summary>
 
 400\. kēṭu il viḻuc celvam kalvi; oruvaṟku  
 māṭu alla, maṟṟaiyavai.
@@ -420,7 +420,7 @@ māṭu alla, maṟṟaiyavai.
 400\. The precious undecaying wealth of a man is his learning. All other riches are no wealth at all.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४००</summary>
 
 10\. கேடில் விழுச்செல்வம் கல்வி ஒருவற்கு  
 மாடல்ல மற்றை யவை.  

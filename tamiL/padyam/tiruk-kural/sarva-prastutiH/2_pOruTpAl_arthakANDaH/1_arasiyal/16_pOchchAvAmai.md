@@ -24,7 +24,7 @@ Due to too much exultation.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३१</summary>
 
 531\. iṟanta vekuḷiyiṉ tītē-ciṟanta  
 uvakai makiḻcciyiṉ cōrvu.
@@ -32,7 +32,7 @@ uvakai makiḻcciyiṉ cōrvu.
 531\. Forgetfulness which cometh of mad joy is more dangerous than wild wrath.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३१</summary>
 
 1\. இறந்த வெகுளியின் தீதே சிறந்த  
 உவகை மகிழ்ச்சியிற் சோர்வு.  
@@ -66,7 +66,7 @@ Negligence kills repute. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३२</summary>
 
 532\. poccāppuk kollum pukaḻai-aṟiviṉai  
 niccam nirappuk koṉṟāṅku.
@@ -74,7 +74,7 @@ niccam nirappuk koṉṟāṅku.
 532\. Poverty freezes knowledge. Forgetfulness blights one’s reputation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३२</summary>
 
 2\. பொச்சாப்புக் கொல்லும் புகழை அறிவினை  
 நிச்ச நிரப்புக்கொன் றாங்கு.  
@@ -108,7 +108,7 @@ That fame is not for the lax. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३३</summary>
 
 533\. poccāppārkku illai pukaḻmai; atu ulakattu  
 ep pāl nūlōrkkum tuṇivu.
@@ -116,7 +116,7 @@ ep pāl nūlōrkkum tuṇivu.
 533\. Fame is not for the thoughtless, so say the scriptures of the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३३</summary>
 
 3\. பொச்சாப்பார்க்கு இல்லை புகழ்மை அதுவுலகத்து  
 எப்பால்நூ லோர்க்கும் துணிவு.  
@@ -150,7 +150,7 @@ Nor is there anything good for the lax.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३४</summary>
 
 534\. accam uṭaiyārkku araṇ illai; āṅku illai,  
 poccāppu uṭaiyārkku naṉku.
@@ -158,7 +158,7 @@ poccāppu uṭaiyārkku naṉku.
 534\. Of what avail is a citadel to a crown, what good availeth the thoughtless.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३४</summary>
 
 4\. அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை  
 பொச்சாப் புடையார்க்கு நன்கு.  
@@ -192,7 +192,7 @@ Will repent for the mistakes later on.
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३५</summary>
 
 535\. muṉṉuṟak kāvātu iḻukkiyāṉ, taṉ piḻai,  
 piṉ ūṟu, iraṅkiviṭum.
@@ -200,7 +200,7 @@ piṉ ūṟu, iraṅkiviṭum.
 535\. Who is not on his guard against impending evil, rues his folly?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३५</summary>
 
 5\. முன்னுறக் காவாது இழுக்கியான் தன்பிழை  
 பின்னூறு இரங்கி விடும்.  
@@ -234,7 +234,7 @@ With anyone at any time without fail. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३६</summary>
 
 536\. iḻukkāmai yārmāṭṭum, eṉṟum, vaḻukkāmai  
 vāyiṉ, aḵtu oppatu il.
@@ -242,7 +242,7 @@ vāyiṉ, aḵtu oppatu il.
 536\. There is no greater good than to be ever on the vigil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३६</summary>
 
 6\. இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை  
 வாயின் அதுவொப்பது இல்.  
@@ -276,7 +276,7 @@ Armed with vigilance.
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३७</summary>
 
 537\. ariya eṉṟu ākāta illai-poccāvāk  
 karuviyāṉ pōṟṟic ceyiṉ.
@@ -284,7 +284,7 @@ karuviyāṉ pōṟṟic ceyiṉ.
 537\. Nothing is impossible for the thoughtful.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३७</summary>
 
 7\. அரியஎன்று ஆகாத இல்லைபொச் சாவாக்  
 கருவியால் போற்றிச் செயின்.  
@@ -318,7 +318,7 @@ To neglect and put off deprives one in seven births. *
 (Satguru Subramuniyaswami), (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३८</summary>
 
 538\. pukaḻntavai pōṟṟic ceyal vēṇṭum; ceyyātu  
 ikaḻntārkku eḻumaiyum il.
@@ -326,7 +326,7 @@ ikaḻntārkku eḻumaiyum il.
 538\. No good awaits him in birth to come who fails of his noble deeds.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३८</summary>
 
 8\. புகழ்ந்தவை போற்றிச் செயல்வேண்டும் செய்யாது  
 இகழ்ந்தார்க்கு எழுமையும் இல்.  
@@ -360,7 +360,7 @@ Think of those who were ruined by neglect. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३९</summary>
 
 539\. ikaḻcciyiṉ keṭṭārai uḷḷuka-tām tam  
 makiḻcciyiṉ maintuṟum pōḻtu!.
@@ -368,7 +368,7 @@ makiḻcciyiṉ maintuṟum pōḻtu!.
 539\. When drunk with delight, remember those who have perished through wilful neglect.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३९</summary>
 
 9\. இகழ்ச்சியின் கெட்டாரை உள்ளுக தாந்தம்  
 மகிழ்ச்சியின் மைந்துறும் போழ்து.  
@@ -407,7 +407,7 @@ If only the mind is set on what is aimed.
 ५४०. Compare with couplets ६६६ and ३०९. "What is sought will be got as desired if only the seeker is determined" – (N.V.K. Ashraf) and "All wishes are realized at once if they keep away wrath from their mind" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५४०</summary>
 
 540\. uḷḷiyatu eytal eḷitumaṉ-maṟṟum tāṉ  
 uḷḷiyatu uḷḷappeṟiṉ.
@@ -415,7 +415,7 @@ uḷḷiyatu uḷḷappeṟiṉ.
 540\. No task is difficult to the thoughtful and diligent.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५४०</summary>
 
 10\. உள்ளியது எய்தல் எளிதுமன் மற்றுந்தான்  
 உள்ளியது உள்ளப் பெறின்.  

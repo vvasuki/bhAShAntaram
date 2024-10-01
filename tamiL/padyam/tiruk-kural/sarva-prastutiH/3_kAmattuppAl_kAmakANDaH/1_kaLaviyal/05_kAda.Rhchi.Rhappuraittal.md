@@ -24,14 +24,14 @@ Is the drool that drips through her pearly teeth.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२१</summary>
 
 1121 pāloṭu tēṉkalan taṟṟē paṇimoḻi  
 vāleyiṟu ūṟiya nīr.  
 1121\. The kiss of the tender lips of my modest maid is like the taste of honey with milk.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२१</summary>
 
 1\. பாலொடு தேன்கலந் தற்றே பணிமொழி  
 வாலெயிறு ஊறிய நீர்.  
@@ -65,7 +65,7 @@ Is like the union of body and soul. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२२</summary>
 
 1122 uṭampoṭu uyiriṭai eṉṉamaṟṟu aṉṉa  
 maṭantaiyoṭu emmiṭai naṭpu.
@@ -73,7 +73,7 @@ maṭantaiyoṭu emmiṭai naṭpu.
 1122\. The love that has sprung up between me and my beloved is constant, even as body and soul are inseparable.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२२</summary>
 
 2\. உடம்பொடு உயிரிடை என்னமற் றன்ன  
 மடந்தையொடு எம்மிடை நட்பு.  
@@ -107,7 +107,7 @@ For there is no place for the maiden I love. *
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२३</summary>
 
 1123 karumaṇiyiṉ pāvāynī pōtāyām vīḻum  
 tirunutaṟku illai iṭam.
@@ -115,7 +115,7 @@ tirunutaṟku illai iṭam.
 1123\. O Image in the pupil of my eye, begone! How can my fair-browed lady sit enthroned, unless you give place to her?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२३</summary>
 
 3\. கருமணியிற் பாவாய்நீ போதாயாம் வீழும்  
 திருநுதற்கு இல்லை இடம்.  
@@ -154,7 +154,7 @@ But dreadful when she leaves.
 ११२४. Other ways of translating this couplet: “She brings life to my life when together, but death when she leaves” – (N.V.K. Ashraf). “Being with my love is life, separation from her death” * - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२४</summary>
 
 1124 vāḻtal uyirkkaṉṉaḷ āyiḻai cātal  
 ataṟkaṉṉaḷ nīṅku miṭattu.
@@ -162,7 +162,7 @@ ataṟkaṉṉaḷ nīṅku miṭattu.
 1124\. Embracing the arms of my choicely adorned lady I feel all the thrill and joy of life, but the moment I separate, I feel the wretchedness of death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२४</summary>
 
 4\. வாழ்தல் உயிர்க்கன்னள் ஆயிழை சாதல்  
 அதற்கன்னள் நீங்கு மிடத்து.  
@@ -196,7 +196,7 @@ How can I forget her dazzling warring eyes!
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२५</summary>
 
 1125 uḷḷuvaṉ maṉyāṉ maṟappiṉ maṟappaṟiyēṉ  
 oḷḷamark kaṇṇāḷ kuṇam.
@@ -204,7 +204,7 @@ oḷḷamark kaṇṇāḷ kuṇam.
 1125\. I cannot forget the noble quality of my love of the sparkling eyes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२५</summary>
 
 5\. உள்ளுவன் மன்யான் மறப்பின் மறப்பறியேன்  
 ஒள்ளமர்க் கண்ணாள் குணம்.  
@@ -238,7 +238,7 @@ Nor is he hurt when I wink. *
 ( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२६</summary>
 
 1126 kaṇṇuḷḷiṉ pōkār imaippiṉ paruvarār  
 nuṇṇiyarem kāta lavar.
@@ -246,7 +246,7 @@ nuṇṇiyarem kāta lavar.
 1126\. My lover will never vanish from my eyes; nor will he be disturbed if I close them. He is so ethereal as to be invisible.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२६</summary>
 
 6\. கண்ணுன்ளின் போகார் இமைப்பின் பருவரார்  
 நுண்ணியர்எங் காத லவர்.  
@@ -280,7 +280,7 @@ Even for a trice the sight of my love.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२७</summary>
 
 1127 kaṇṇuḷḷār kāta lavarākak kaṇṇum  
 eḻutēm karappākku aṟintu.
@@ -288,7 +288,7 @@ eḻutēm karappākku aṟintu.
 1127\. I fear to paint ray eyes, lest it should hide the vision of my lord dwelling within.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२७</summary>
 
 7\. கண்ணுள்ளார் காத லவராகக் கண்ணும்  
 எழுதேம் கரப்பாக்கு அறிந்து.  
@@ -322,7 +322,7 @@ Lest it hurt my lover within me!
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२८</summary>
 
 1128 neñcattār kāta lavarāka veytuṇṭal  
 añcutum vēpākku aṟintu.
@@ -330,7 +330,7 @@ añcutum vēpākku aṟintu.
 1128\. With my lover in my heart I do not eat anything hot lest it should harm the delicate one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२८</summary>
 
 8\. நெஞ்சத்தார் காத லவராக வெய்துஉண்டல்  
 அஞ்சுதும் வேபாக்கு அறிந்து.  
@@ -364,7 +364,7 @@ Seeing this, folks blame him for desertion.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२९</summary>
 
 1129 imaippiṉ karappākku aṟival aṉaittiṟkē  
 ētilar eṉṉumiv vūr.
@@ -372,7 +372,7 @@ Seeing this, folks blame him for desertion.
 1129\. My eyes wink not lest they should lose the vision of my lord within; not knowing this people blame him for my sleeplessness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२९</summary>
 
 9\. இமைப்பின் கரப்பாக்கு அறிவல் அனைத்திற்கே  
 எதிலர் என்னும்இவ் வூர்.  
@@ -406,7 +406,7 @@ And the folks say he is loveless and has left me. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३०</summary>
 
 1130 uvantuṟaivr uḷḷattuḷ eṉṟum ikantuṟaivar  
 ētilar eṉṉumiv vūr.
@@ -414,7 +414,7 @@ And the folks say he is loveless and has left me. *
 1130\. Delightfully my lover makes my heart for ever his abode; but villainous people say he is cruel and dwells apart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३०</summary>
 
 10\. உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்  
 ஏதிலர் என்னும்இவ் வூர்.  

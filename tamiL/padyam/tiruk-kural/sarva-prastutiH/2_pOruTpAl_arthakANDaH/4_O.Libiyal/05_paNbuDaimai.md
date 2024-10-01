@@ -25,7 +25,7 @@ Comes easily to those easily accessible to all.
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९१</summary>
 
 991 eṇpatattāl eytal eḷiteṉpa yārmāṭṭum  
 paṇpuṭaimai eṉṉum vaḻakku.
@@ -33,7 +33,7 @@ paṇpuṭaimai eṉṉum vaḻakku.
 991\. Be cautious and easy of access. You will command the homage of the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९१</summary>
 
 1\. எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்  
 பண்புடைமை என்னும் வழக்கு.  
@@ -67,7 +67,7 @@ Constitute the demeanor called courtesy.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९२</summary>
 
 992 aṉpuṭaimai āṉṟa kuṭippiṟattal ivviraṇṭum  
 paṇpuṭaimai eṉṉum vaḻakku.
@@ -75,7 +75,7 @@ paṇpuṭaimai eṉṉum vaḻakku.
 992\. Courtesy springs from love and noble lineage.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९२</summary>
 
 2\. அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்  
 பண்புடைமை என்னும் வழக்கு.  
@@ -109,7 +109,7 @@ But that binding of courteousness.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९३</summary>
 
 993 uṟuppottal makkaḷoppu aṉṟāl veṟuttakka  
 paṇpottal oppatām oppu.
@@ -117,7 +117,7 @@ paṇpottal oppatām oppu.
 993\. Mere physical features do not rank with men but only courtesy makes them ascend the scale.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९३</summary>
 
 3\. உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்க  
 பண்பொத்தல் ஒப்பதாம் ஒப்பு.  
@@ -151,7 +151,7 @@ Who help with impartiality and generosity. *
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९४</summary>
 
 994 nayaṉoṭu naṉṟi purinta payaṉuṭaiyār  
 paṇpupā rāṭṭum ulaku.
@@ -159,7 +159,7 @@ paṇpupā rāṭṭum ulaku.
 994\. The world respects the courtesy of those who are just and willing to do good.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९४</summary>
 
 4\. நயனொடு நன்றி புரிந்த பயனுடையார்  
 பண்புபா ராட்டும் உலகு.  
@@ -198,7 +198,7 @@ Are courteous even to their foes. *
 ९९५. Compare with ८७१. One should never wish for the accursed thing called enmity, even in jest. (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९५</summary>
 
 995 nakaiyuḷḷum iṉṉātu ikaḻcci pakaiyuḷḷum  
 paṇpuḷa pāṭaṟivār māṭṭu.
@@ -206,7 +206,7 @@ paṇpuḷa pāṭaṟivār māṭṭu.
 995\. Do not mock at others even in a sportive mood. There is virtue in being courteous even to a foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९५</summary>
 
 5\. நகையுள்ளும் இன்னாது இகழ்ச்சி பகையுள்ளும்  
 பண்புஉள பாடறிவார் மாட்டு.  
@@ -240,7 +240,7 @@ Without them it would collapse into dust. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९६</summary>
 
 996 paṇpuṭaiyārp paṭṭuṇṭu ulakam atuiṉṟēl  
 maṇpukku māyvatu maṉ.
@@ -248,7 +248,7 @@ maṇpukku māyvatu maṉ.
 996\. The world is built on the wisdom of the noble and the good; but for them the entire world would be a heap of ruins.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९६</summary>
 
 6\. பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்  
 மண்புக்கு மாய்வது மன்.  
@@ -282,7 +282,7 @@ Are no better than blocks of wood.
 (N.V.K. Ashraf), (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९७</summary>
 
 997 arampōlum kūrmaiya rēṉum marampōlvar  
 makkaḷpaṇpu illā tavar.
@@ -290,7 +290,7 @@ makkaḷpaṇpu illā tavar.
 997\. Of what avail is one’s intelligence keen as the edge of the chist^? One is with the socks and gloves if one is not affable.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९७</summary>
 
 7\. அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்  
 மக்கட்பண்பு இல்லா தவர்.  
@@ -324,7 +324,7 @@ Even towards the unfriendly who treat you unjustly.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९८</summary>
 
 998 naṇpāṟṟār āki nayamila ceyvārkkum  
 paṇpāṟṟār ātal kaṭai.
@@ -332,7 +332,7 @@ paṇpāṟṟār ātal kaṭai.
 998\. To be failing in one’s courtesy even to one’s foe is sin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९८</summary>
 
 8\. நண்பாற்றா ராகி நயமில செய்வார்க்கும்  
 பண்பாற்றா ராதல் கடை.  
@@ -366,7 +366,7 @@ This big world is all darkness even during the day.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९९</summary>
 
 999 nakalvallar allārkku māyiru ñālam  
 pakalumpāṟ paṭṭaṉṟ iruḷ.
@@ -374,7 +374,7 @@ pakalumpāṟ paṭṭaṉṟ iruḷ.
 999\. Even the wide world darkens at noon to the sullen who fails to gladden the hearts of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९९</summary>
 
 9\. நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம்  
 பகலும்பாற் பட்டன்று இருள்.  
@@ -408,7 +408,7 @@ Is clean milk gone sour in a can unclean.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०००</summary>
 
 1000 paṇpilāṉ peṟṟa peruñcelvam naṉpāl  
 kalantīmai yāltirintu aṟṟu.
@@ -416,7 +416,7 @@ kalantīmai yāltirintu aṟṟu.
 1000\. Of what' use is the wealth of the discourteous? It is like good milk spoilt by an unclean vessel.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०००</summary>
 
 10\. பண்பிலான் பெற்ற பெருஞ் செல்வம் நன்பால்  
 கலந்தீமை யால்திரிந்த தற்று.  

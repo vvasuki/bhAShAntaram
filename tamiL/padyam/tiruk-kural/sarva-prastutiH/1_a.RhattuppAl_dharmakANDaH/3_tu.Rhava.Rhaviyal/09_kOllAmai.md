@@ -24,7 +24,7 @@ For killing causes every ill.
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२१</summary>
 
 321\. 'aṟaviṉai yātu?' eṉiṉ, kollāmai; kōṟal  
 piṟa viṉai ellām tarum.
@@ -32,7 +32,7 @@ piṟa viṉai ellām tarum.
 321\. If you ask what is the sum total of virtues, it is non-killing; killing begets sin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२१</summary>
 
 1\. அறவினை யாதெனில் கொல்லாமை கோறல்  
 பிறவினை எல்லாம் தரும்  
@@ -66,7 +66,7 @@ Is to share your food and protect all life.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२२</summary>
 
 322\. pakuttu uṇṭu, pal uyir ōmputal nūlōr  
 tokuttavaṟṟuḷ ellām talai.
@@ -74,7 +74,7 @@ tokuttavaṟṟuḷ ellām talai.
 322\. All the scriptures emphasise the virtue of hospitality and the creed of non-violence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२२</summary>
 
 2\. பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்  
 தொகுத்தவற்றுள் எல்லாந் தலை.  
@@ -108,7 +108,7 @@ Next to it in rank comes 'Not lying'.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२३</summary>
 
 323\. oṉṟāka nallatu kollāmai; maṟṟu ataṉ  
 piṉcārap poyyāmai naṉṟu.
@@ -116,7 +116,7 @@ piṉcārap poyyāmai naṉṟu.
 323\. The crown of all virtues is non-violence. Next comes non-lying.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२३</summary>
 
 3\. ஒன்றாக நல்லது கொல்லாமை மற்றுஅதன்  
 பின்சாரப் பொய்யாமை நன்று.  
@@ -150,7 +150,7 @@ It is the path of avoiding killing anything.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२४</summary>
 
 324\. 'nallāṟu eṉappaṭuvatu yātu?' eṉiṉ, yātu oṉṟum  
 kollāmai cūḻum neṟi.
@@ -158,7 +158,7 @@ kollāmai cūḻum neṟi.
 324\. The path of rectitude is the path of non-violence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२४</summary>
 
 4\. நல்லாறு எனப்படுவது யாதெனின் யாதொன்றும்  
 கொல்லாமை சூழும் நெறி.  
@@ -192,7 +192,7 @@ Who avoids killing fearing murder. *
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२५</summary>
 
 325\. nilai añci nīttāruḷ ellām, kolai añcik  
 kollāmai cūḻvāṉ, talai.
@@ -200,7 +200,7 @@ kollāmai cūḻvāṉ, talai.
 325\. Far greater than an ascetic who renounces the fleeting world is the follower of non-violence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२५</summary>
 
 5\. நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக்  
 கொல்லாமை சூழ்வான் தலை  
@@ -234,7 +234,7 @@ Who puts no life to death.
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२६</summary>
 
 326\. kollāmai mēṟkoṇṭu oḻukuvāṉ vāḻnāḷmēl  
 cellātu, uyir uṇṇum kūṟṟu.
@@ -242,7 +242,7 @@ cellātu, uyir uṇṇum kūṟṟu.
 326\. Yama, the Destroyer of life, never invades the realm where non-violence prevails.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२६</summary>
 
 6\. கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்  
 செல்லாது உயிருண்ணுங் கூற்று.  
@@ -276,7 +276,7 @@ Even when your own life is under threat.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२७</summary>
 
 327\. taṉ uyir nīppiṉum ceyyaṟka-tāṉ piṟitu  
 iṉ uyir nīkkum viṉai.
@@ -284,7 +284,7 @@ iṉ uyir nīkkum viṉai.
 327\. Do not commit any act of violence though your life is in peril.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२७</summary>
 
 7\. தன்னுயிர் நீப்பினும் செய்யற்க தான்பிறிது  
 இன்னுயிர் நீக்கும் வினை.  
@@ -318,7 +318,7 @@ The wise despise the profits of slaughter.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२८</summary>
 
 328\. naṉṟu ākum ākkam peritu eṉiṉum, cāṉṟōrkkuk  
 koṉṟu ākum ākkam kaṭai.
@@ -326,7 +326,7 @@ koṉṟu ākum ākkam kaṭai.
 328\. The truly great scorn the riches acquired through slaughter.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२८</summary>
 
 8\. நன்றாகும் ஆக்கம் பெரிதெனினும் சான்றோர்க்குக்  
 கொன்றாகும் ஆக்கம் கடை.  
@@ -360,7 +360,7 @@ Are placed amongst men of disgrace. *
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२९</summary>
 
 329\. kolai viṉaiyar ākiya mākkaḷ pulai viṉaiyar,  
 puṉmai terivār akattu.
@@ -368,7 +368,7 @@ puṉmai terivār akattu.
 329\. In the eyes of the discerning, men given to slaughter are but churls.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२९</summary>
 
 9\. கொலைவினைய ராகிய மாக்கள் புலைவினையர்  
 புன்மை தெரிவா ரகத்து.  
@@ -402,7 +402,7 @@ Comes from depriving the life of another. *
 (Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३०</summary>
 
 330\. 'uyir uṭampiṉ nīkkiyār' eṉpa-'ceyir uṭampiṉ  
 cellāt tī vāḻkkaiyavar'.
@@ -410,7 +410,7 @@ cellāt tī vāḻkkaiyavar'.
 330\. Behold the Lazarus, he is guilty of acts of violence in his former birth.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३०</summary>
 
 330\. 'uyir uṭampiṉ nīkkiyār' eṉpa-'ceyir uṭampiṉ  
 cellāt tī vāḻkkaiyavar'.
@@ -419,7 +419,7 @@ cellāt tī vāḻkkaiyavar'.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३०</summary>
 
 10\. உயிர்உடம்பின் நீக்கியார் என்ப செயிர்உடம்பின்  
 செல்லாத்தீ வாழ்க்கை யவர்  

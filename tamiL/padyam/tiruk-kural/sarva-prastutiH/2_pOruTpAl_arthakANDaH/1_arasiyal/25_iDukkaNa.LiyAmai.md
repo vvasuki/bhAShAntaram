@@ -25,7 +25,7 @@ To triumph over it. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२१</summary>
 
 621\. iṭukkaṇ varuṅkāl nakuka! ataṉai  
 aṭuttu ūrvatu aḵtu oppatu il.
@@ -33,7 +33,7 @@ aṭuttu ūrvatu aḵtu oppatu il.
 621\. Laugh over your obstacles; nothing like it to push them further and further.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२१</summary>
 
 1\. இடுக்கண் வருங்கால் நகுக அதனை  
 அடுத்தூர்வது அஃதொப்பது இல்.  
@@ -67,7 +67,7 @@ But the wise counter it by firm thoughts.*
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२२</summary>
 
 622\. veḷḷattu aṉaiya iṭumpai, aṟivu uṭaiyāṉ  
 uḷḷattiṉ uḷḷa, keṭum.
@@ -75,7 +75,7 @@ uḷḷattiṉ uḷḷa, keṭum.
 622\. Troubles like a flood will be overcome by a courageous thought rising in the minds of the wise.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२२</summary>
 
 2\. வெள்ளத் தனைய இடும்பை அறிவுடையான்  
 உள்ளத்தின் உள்ளக் கெடும்.  
@@ -109,7 +109,7 @@ Can grieve grief itself. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२३</summary>
 
 623\. iṭumpaikku iṭumpai paṭuppar-iṭumpaikku  
 iṭumpai paṭāatavar.
@@ -117,7 +117,7 @@ iṭumpai paṭāatavar.
 623\. The courageous will be causing sorrow to sorrow itself.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२३</summary>
 
 3\. இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு  
 இடும்பை படாஅ தவர்.  
@@ -151,7 +151,7 @@ Drags his cart through every hurdle.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२४</summary>
 
 624\. maṭutta vāy ellām pakaṭu aṉṉāṉ uṟṟa  
 iṭukkaṇ iṭarppāṭu uṭaittu.
@@ -159,7 +159,7 @@ iṭukkaṇ iṭarppāṭu uṭaittu.
 624\. Just as the buffalo drags a cart through miry depth, one who fights on will overcome his difficulties.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२४</summary>
 
 4\. மடுத்தவா யெல்லாம் பகடன்னான் உற்ற  
 இடுக்கண் இடர்ப்பாடு உடைத்து.  
@@ -193,7 +193,7 @@ Even if it comes relentlessly.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२५</summary>
 
 625\. aṭukki variṉum, aḻivu ilāṉ uṟṟa  
 iṭukkaṇ iṭukkaṇ paṭum.
@@ -201,7 +201,7 @@ iṭukkaṇ iṭukkaṇ paṭum.
 625\. The troubles of one who braves a series of adversity wear out and disappear.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२५</summary>
 
 5\. அடுக்கி வரினும் அழிவிலான் உற்ற  
 இடுக்கண் இடுக்கட் படும்.  
@@ -240,7 +240,7 @@ Who never crowed "We have much?"
 ६२६. Compare with couplets ६२८ and ६२९ in this same chapter. All convey the same idea.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२६</summary>
 
 626\. 'aṟṟēm!' eṉṟu allaṟpaṭupavō-'peṟṟēm!' eṉṟu  
 ōmputal tēṟṟātavar.
@@ -248,7 +248,7 @@ Who never crowed "We have much?"
 626\. Will those who do not during prosperity exultingly say “we are rich”, cry out (during adversity) “Oh, we are destitute”?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२६</summary>
 
 6\. அற்றேமென்று அல்லற்படுபவோ பெற்றேமென்று  
 ஓம்புதல் தேற்றா தவர்  
@@ -282,7 +282,7 @@ The great are not troubled in calamities. *
 (Satguru Subramuniyaswami), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२७</summary>
 
 627\. 'ilakkam, uṭampu iṭumpaikku' eṉṟu, kalakkattaik  
 kaiyāṟāk koḷḷātām, mēl.
@@ -290,7 +290,7 @@ kaiyāṟāk koḷḷātām, mēl.
 627\. The great know that the body is ever the target of trouble and will not regard trouble as trouble at all.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२७</summary>
 
 7\. இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்  
 கையாறாக் கொள்ளாதாம் மேல்.  
@@ -324,7 +324,7 @@ And takes sorrow in his stride.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२८</summary>
 
 628\. iṉpam viḻaiyāṉ, ‘iṭumpai iyalpu’ eṉpāṉ,  
 tuṉpam uṟutal ilaṉ.
@@ -332,7 +332,7 @@ tuṉpam uṟutal ilaṉ.
 628\. He who never gives way to sorrow, will not long for pleasure; he will regard trouble as quite natural.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२८</summary>
 
 8\. இன்பம் விழையான் இடும்பை இயல்பென்பான்  
 துன்பம் உறுதல் இலன்.  
@@ -366,7 +366,7 @@ Will not be depressed by sorrow.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२९</summary>
 
 629\. iṉpattuḷ iṉpam viḻaiyātāṉ, tuṉpattuḷ  
 tuṉpam uṟutal ilaṉ.
@@ -374,7 +374,7 @@ tuṉpam uṟutal ilaṉ.
 629\. He who does seek for pleasure in pleasure will not be vexed in sorrow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२९</summary>
 
 9\. இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்  
 துன்பம் உறுதல் இலன்.  
@@ -408,7 +408,7 @@ Is to gain your foe's esteem.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३०</summary>
 
 630\. iṉṉāmai iṉpam eṉak koḷiṉ, ākum, taṉ  
 oṉṉār viḻaiyum ciṟappu.
@@ -416,7 +416,7 @@ oṉṉār viḻaiyum ciṟappu.
 630\. One who regards trouble as pleasure will gain the elevation which his enemies desire (for themselves).  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३०</summary>
 
 10\. இன்னாமை இன்பம் எனக்கொளின் ஆகுந்தன்  
 ஒன்னார் விழையுஞ் சிறப்பு.  

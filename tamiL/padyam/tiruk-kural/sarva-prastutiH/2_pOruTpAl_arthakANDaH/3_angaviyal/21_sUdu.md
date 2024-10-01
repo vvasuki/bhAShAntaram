@@ -30,7 +30,7 @@ Like fishes drawn to shining baits.
 ९३१. Padmanabhan [२००३] refers to the practice amongst fishermen of Kanyakumari [Muttom area] to use glittering golden lace as bait for fishing. However, none of the २० translations from different sources compared in this exercise has interpreted this way. However Kālingar, one of the five traditional commentators of Kural interpret the phrase “तूण्डिल् पॊन्” as “bait of gold”. On the contrary, the phrase has been invariably taken to mean “metal hook” with the word “पॊन्” once actually being used as a reference to any “metal”. The type of metal implied has to be inferred from the context [Sethu Pillai, १९७४].
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३१</summary>
 
 931 vēṇṭaṟka veṉṟiṭiṉum cūtiṉai veṉṟatūum  
 tūṇṭiṟpoṉ mīṉviḻuṅki aṟṟu.
@@ -38,7 +38,7 @@ tūṇṭiṟpoṉ mīṉviḻuṅki aṟṟu.
 931\. Do not desire to gamble even if you win; for your gain is like the bait to a fish.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३१</summary>
 
 1\. வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம்  
 தூண்டிற்பொன் மீன்விழுங்கி யற்று.  
@@ -72,7 +72,7 @@ Who gain one and lose a hundred? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३२</summary>
 
 932 oṉṟueyti nūṟuiḻakkum cūtarkkum uṇṭāṅkol  
 naṉṟueyti vāḻvatōr āṟu.
@@ -80,7 +80,7 @@ naṉṟueyti vāḻvatōr āṟu.
 932\. Can gamblers who lose a hundred times before winning once ever dream of an upright life?  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३२</summary>
 
 932 oṉṟueyti nūṟuiḻakkum cūtarkkum uṇṭāṅkol  
 naṉṟueyti vāḻvatōr āṟu.
@@ -88,7 +88,7 @@ naṉṟueyti vāḻvatōr āṟu.
 932\. Can gamblers who lose a hundred times before winning once ever dream of an upright life?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३२</summary>
 
 2\. ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்  
 நன்றெய்தி வாழ்வதோர் ஆறு.  
@@ -122,7 +122,7 @@ Is to lose your hoarded wealth to others.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३३</summary>
 
 933 uruḷāyam ōvātu kūṟiṉ poruḷāyam  
 pōoyp puṟamē paṭum.
@@ -130,7 +130,7 @@ pōoyp puṟamē paṭum.
 933\. If one continually plays with the rolling dice one’s riches desert one to enrich one’s enemies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३३</summary>
 
 3\. உருளாயம் ஓவாது கூறின் பொருளாயம்  
 போஒய்ப் புறமே படும்.  
@@ -164,7 +164,7 @@ Poverty, sorrow and disgrace.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३४</summary>
 
 934 ciṟumai palaceytu cīraḻikkum cūtiṉ  
 vaṟumai taruvatuoṉṟu il.
@@ -172,7 +172,7 @@ vaṟumai taruvatuoṉṟu il.
 934\. Nothing brings on poverty more than gambling. It ruins one’s fame and is the mother of all evils.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३४</summary>
 
 4\. சிறுமை பலசெய்து சீரழிக்கும் சூதின்  
 வறுமை தருவதொன்று இல்.  
@@ -206,7 +206,7 @@ The board and the throw.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३५</summary>
 
 935 kavaṟum kaḻakamum kaiyum tarukki  
 ivaṟiyār illāki yār.
@@ -214,7 +214,7 @@ ivaṟiyār illāki yār.
 935\. None but those who dream of dice and the gaming table will come to grief.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३५</summary>
 
 5\. கவறும் கழகமும் கையும் தருக்கி  
 இவறியார் இல்லாகி யார்.  
@@ -248,7 +248,7 @@ Will starve and suffer in distress. *
 (N.V.K. Ashraf), (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३६</summary>
 
 936 akaṭārār allal uḻapparcūtu eṉṉum  
 mukaṭiyāl mūṭappaṭ ṭār.
@@ -256,7 +256,7 @@ mukaṭiyāl mūṭappaṭ ṭār.
 936\. Torments of poverty and hell befall one who is seized by the demon of gambling.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३६</summary>
 
 6\. அகடாரார் அல்லல் உழப்பர் சூதென்னும்  
 முகடியால் மூடப்பட்ட டார்.  
@@ -290,7 +290,7 @@ Will end one’s ancestral wealth and worth. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३७</summary>
 
 937 paḻakiya celvamum paṇpum keṭukkum  
 kaḻakattuk kālai pukiṉ.
@@ -298,7 +298,7 @@ kaḻakattuk kālai pukiṉ.
 937\. Ceaseless gambling destroys one’s ancestral wealth and fame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३७</summary>
 
 7\. பழகிய செல்வமும் பண்பும் கெடுக்கும்  
 கழகத்துக் காலை புகின்.  
@@ -332,7 +332,7 @@ Kills grace and causes sorrow.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३८</summary>
 
 938 poruḷkoṭuttup poymēṟ koḷīi aruḷkeṭuttu  
 allal uḻappikkum cūtu.
@@ -340,7 +340,7 @@ allal uḻappikkum cūtu.
 938\. Gambling destroys wealth, makes one play false, kills all virtues, and brings on distress.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३८</summary>
 
 8\. பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்து  
 அல்லல் உழப்பிக்கும் சூது.  
@@ -374,7 +374,7 @@ Riches, food, fame, learning and clothes.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९३९</summary>
 
 939 uṭaicelvam ūṇoḷi kalviyeṉṟu aintum  
 aṭaiyāvām āyam koḷiṉ.
@@ -382,7 +382,7 @@ aṭaiyāvām āyam koḷiṉ.
 939\. A king whose hobby is gambling has neither raiment nor food, nor wealth nor renown nor learning.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९३९</summary>
 
 9\. உடைசெல்வம் ஊண்ஒளி கல்விஎன்று ஐந்தும்  
 அடையாவாம் ஆயம் கொளின்.  
@@ -421,7 +421,7 @@ Is the love for gambling despite loss. *
 ९४०. (P.S. Sundaram) would say: "Life goes on in spite of loss and stakes in spite of loss!"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४०</summary>
 
 940 iḻattoṟūum kātalikkum cūtēpōl tuṉpam  
 uḻattoṟūum kātaṟṟu uyir.
@@ -429,7 +429,7 @@ uḻattoṟūum kātaṟṟu uyir.
 940\. In spite of all the ills of life we cling to it. In spite of all losses, a gambler clings to his dice.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४०</summary>
 
 10\. இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம்  
 உழத்தொறூஉம் காதற்று உயிர்.  

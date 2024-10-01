@@ -25,14 +25,14 @@ Should be neither too far nor too near.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९१</summary>
 
 691\. akalātu, aṇukātu, tīk kāyvār pōlka-  
 ikal vēntarc cērntu oḻukuvār.  
 691\. Those who personally serve the monarch do not go too near him or too far away from him, like those who warm themselves by the fire side.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९१</summary>
 
 1\. அகலாது அணுகாது தீக்காய்வார் போல்க  
 இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்.  
@@ -66,7 +66,7 @@ Is not to covet what he covets.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९२</summary>
 
 692\. maṉṉar viḻaipa viḻaiyāmai, maṉṉarāṉ  
 maṉṉiya ākkam tarum.
@@ -74,7 +74,7 @@ maṉṉiya ākkam tarum.
 692\. Not to covet those things which are desired by the monarch produce lasting wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९२</summary>
 
 2\. மன்னர் விழைப விழையாமை மன்னரால்  
 மன்னிய ஆக்கம் தரும்.  
@@ -108,7 +108,7 @@ Suspicion once aroused is hard to clear. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९३</summary>
 
 693\. pōṟṟiṉ ariyavai pōṟṟal-kaṭuttapiṉ,  
 tēṟṟutal yārkkum aritu.
@@ -116,7 +116,7 @@ tēṟṟutal yārkkum aritu.
 693\. To save himself a minister must avoid gross faults, for it is difficult to please, once being found fault with.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९३</summary>
 
 3\. போற்றின் அரியவை போற்றல் கடுத்தபின்  
 தேற்றுதல் யார்க்கும் அரிது.  
@@ -150,7 +150,7 @@ Amidst illustrious august men. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९४</summary>
 
 694\. cevic collum, cērnta nakaiyum, avittu oḻukal-  
 āṉṟa periyār akattu!.
@@ -158,7 +158,7 @@ Amidst illustrious august men. *
 694\. In the presence of the great avoid whispering and smiling.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९४</summary>
 
 4\. செவிச்சொல்லும் சேர்ந்த நகையும் அவித்தொழுகல்  
 ஆன்ற பெரியா ரகத்து.  
@@ -192,7 +192,7 @@ Rather listen when secrets are revealed. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९५</summary>
 
 695\. ep poruḷum ōrār, toṭarār, maṟṟu ap poruḷai  
 viṭṭakkāl kēṭka, maṟai!.
@@ -200,7 +200,7 @@ viṭṭakkāl kēṭka, maṟai!.
 695\. Let not the minister lend ear to the king’s secret or be inquisitive to know it. But let him listen to it when the king reveals it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९५</summary>
 
 5\. எப்பொருளும் ஓரார் தொடரார்மற் றப்பொருளை  
 விட்டக்கால் கேட்க மறை.  
@@ -234,7 +234,7 @@ Avoid the unpleasant and speak the needful.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९६</summary>
 
 696\. kuṟippu aṟintu, kālam karuti, veṟuppu ila  
 vēṇṭupa, vēṭpac colal!.
@@ -242,7 +242,7 @@ vēṇṭupa, vēṭpac colal!.
 696\. Watch the mood of the monarch. Talk to him pleasantly and inoffensively.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९६</summary>
 
 6\. குறிப்பறிந்து காலம் கருதி வெறுப்பில்  
 வேண்டுப வேட்பச் சொலல்.  
@@ -276,7 +276,7 @@ Avoid always the useless.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९७</summary>
 
 697\. vēṭpaṉa colli, viṉai ila eññāṉṟum  
 kēṭpiṉum, collā viṭal!.
@@ -284,7 +284,7 @@ kēṭpiṉum, collā viṭal!.
 697\. Speak desirable things though unasked, but abstain from profitless talk although solicited by him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९७</summary>
 
 7\. வேட்பன சொல்லி வினையில எஞ்ஞான்றும்  
 கேட்பினும் சொல்லா விடல்.  
@@ -318,7 +318,7 @@ But act as befits his splendour.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९८</summary>
 
 698\. 'iḷaiyar, iṉa muṟaiyar' eṉṟu ikaḻār, niṉṟa  
 oḷiyoṭu oḻukappaṭum.
@@ -326,7 +326,7 @@ oḷiyoṭu oḻukappaṭum.
 698\. Do not disrespect a king on the ground of age or kinship, but behave as befits his royalty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९८</summary>
 
 8\. இளையர் இனமுறையர் என்றிகழார் நின்ற  
 ஒளியோடு ஒழுகப் படும்.  
@@ -360,7 +360,7 @@ Do not misuse their privileges and do wrong.
 (N.V.K. Ashraf), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९९</summary>
 
 699\. 'koḷappaṭṭēm' eṉṟu eṇṇi, koḷḷāta ceyyār-  
 tuḷakku aṟṟa kāṭciyavar.
@@ -368,7 +368,7 @@ tuḷakku aṟṟa kāṭciyavar.
 699\. Men of high intelligence, respected by a king will not indulge in things revolting to him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९९</summary>
 
 9\. கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்  
 துளக்கற்ற காட்சி யவர்.  
@@ -407,7 +407,7 @@ Lead to ruinous woes.
 ७००. In couplet ८०५ Valluvar says "When friends hurt, attribute it to either ignorance or privileges of friendship" * - (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७००</summary>
 
 700\. paḻaiyam eṉak karuti, paṇpu alla ceyyum  
 keḻutakaimai kēṭu tarum.
@@ -415,7 +415,7 @@ keḻutakaimai kēṭu tarum.
 700\. To take liberty under the cover of old acquaintance and do unwanted things is to court ill.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७००</summary>
 
 10\. பழையம் எனக்கருதிப் பண்பல்ல செய்யும்  
 கெழுதகைமை கேடு தரும்.  

@@ -24,7 +24,7 @@ After scanning both good and bad.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५११</summary>
 
 511\. naṉmaiyum tīmaiyum nāṭi, nalam purinta  
 taṉmaiyāṉ āḷappaṭum.
@@ -32,7 +32,7 @@ taṉmaiyāṉ āḷappaṭum.
 511\. After examining the good and the bad, cling to the good.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५११</summary>
 
 1\. நன்மையும் தீமையும் நாடி நலம்புரிந்த  
 தன்மையான் ஆளப் படும்.  
@@ -66,7 +66,7 @@ Foster wealth and find out hurdles. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१२</summary>
 
 512\. vāri perukki, vaḷam paṭuttu, uṟṟavai  
 ārāyvāṉ ceyka viṉai!.
@@ -74,7 +74,7 @@ Foster wealth and find out hurdles. *
 512\. He who taps all productive sources and guards against losses is the true servant.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१२</summary>
 
 2\. வாரி பெருக்கி வளம்படுத்து உற்றவை  
 ஆராய்வான் செய்க வினை  
@@ -108,7 +108,7 @@ Affection, wisdom, clarity and contentment.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१३</summary>
 
 513\. aṉpu, aṟivu, tēṟṟam, avā iṉmai, in nāṉkum  
 naṉku uṭaiyāṉkaṭṭē teḷivu.
@@ -116,7 +116,7 @@ naṉku uṭaiyāṉkaṭṭē teḷivu.
 513\. Choose men, who are endowed with love, wisdom, clever vision and freedom from covetousness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१३</summary>
 
 3\. அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்  
 நன்குடையான் கட்டே தெளிவு  
@@ -150,7 +150,7 @@ Yet when subjected to different tasks, many fail.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१४</summary>
 
 514\. eṉai vakaiyāṉ tēṟiyakkaṇṇum, viṉai vakaiyāṉ  
 vēṟākum māntar palar.
@@ -158,7 +158,7 @@ vēṟākum māntar palar.
 514\. Position corrupts even the men of our own deliberate choice.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१४</summary>
 
 4\. எனைவகையான் தேறியக் கண்ணும் வினைவகையான்  
 வேறாகும் மாந்தர் பலர்  
@@ -192,7 +192,7 @@ Don't entrust tasks on personal loyalty.
 (K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१५</summary>
 
 515\. aṟintu, āṟṟi, ceykiṟpāṟku allāl, viṉaitāṉ  
 ciṟantāṉ eṉṟu ēvaṟpāṟṟu aṉṟu.
@@ -200,7 +200,7 @@ ciṟantāṉ eṉṟu ēvaṟpāṟṟu aṉṟu.
 515\. Let worth prevail. Let not blind affection dictate the choice of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१५</summary>
 
 5\. அறிந்தாற்றிச் செய்கிற்பாற்கு அல்லால் வினைதான்  
 சிறந்தானென்று ஏவற்பாற் றன்று.  
@@ -234,7 +234,7 @@ And the time before you act.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१६</summary>
 
 516\. ceyvāṉai nāṭi, viṉai nāṭi, kālattōṭu  
 eyta uṇarntu, ceyal!.
@@ -242,7 +242,7 @@ eyta uṇarntu, ceyal!.
 516\. The thing to be done, the proper person for it and the appropriate time for doing it, must all be duly weighed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१६</summary>
 
 6\. செய்வானை நாடி வினைநாடிக் காலத்தோடு  
 எய்த உணர்ந்து செயல்  
@@ -281,7 +281,7 @@ Leave it to him.
 ५१७. In other words, "Delegation is best made to the one who's decidedly well equipped to perform well" - SDR
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१७</summary>
 
 517\. 'itaṉai, itaṉāl, ivaṉ muṭikkum' eṉṟu āyntu,  
 ataṉai avaṉkaṇ viṭal!.
@@ -289,7 +289,7 @@ ataṉai avaṉkaṇ viṭal!.
 517\. Let the king be first convinced of the competency of a person; then he shall allow him to move freely in the sphere of his appointed task.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१७</summary>
 
 7\. இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து  
 அதனை அவன்கண் விடல்.  
@@ -323,7 +323,7 @@ Assign him the responsibility. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१८</summary>
 
 518\. viṉaikku urimai nāṭiya piṉṟai, avaṉai  
 ataṟku uriyaṉ ākac ceyal.
@@ -331,7 +331,7 @@ ataṟku uriyaṉ ākac ceyal.
 518\. Choose men of approved merit and then make them worthy of the station.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१८</summary>
 
 8\. வினைக்குரிமை நாடிய பின்றை அவனை  
 அதற்குரிய னாகச் செயல்.  
@@ -365,7 +365,7 @@ The liberties taken by a devout worker. *
 (P.S. Sundaram), VSS
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१९</summary>
 
 519\. viṉaikkaṇ viṉaiyuṭaiyāṉ kēṇmai vēṟāka  
 niṉaippāṉai nīṅkum, tiru.
@@ -373,7 +373,7 @@ niṉaippāṉai nīṅkum, tiru.
 519\. Prosperity deserts one who suspects the motives of a servant ever loyal to his work.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१९</summary>
 
 9\. வினைக்கண் வினையுடையான் கேண்மைவே றாக  
 நினைப்பானை நீங்கும் திரு.  
@@ -407,7 +407,7 @@ Who often checks his officials for any wrong.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२०</summary>
 
 520\. nāḷtōṟum nāṭuka, maṉṉaṉ-viṉaiceyvāṉ  
 kōṭāmaik kōṭātu ulaku.
@@ -415,7 +415,7 @@ kōṭāmaik kōṭātu ulaku.
 520\. Let them not swerve from the right path; for on them rests the just conduct of the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२०</summary>
 
 10\. நாடோறும் நாடுக மன்னன் வினைசெய்வான்  
 கோடாமை கோடா துலகு  

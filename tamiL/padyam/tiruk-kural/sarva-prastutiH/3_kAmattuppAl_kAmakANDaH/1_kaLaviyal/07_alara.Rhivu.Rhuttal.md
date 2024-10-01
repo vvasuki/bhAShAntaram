@@ -24,7 +24,7 @@ Luckily don't know this.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४१</summary>
 
 1141 alaraḻa āruyir niṟkum ataṉaip  
 palaraṟiyār pākkiyat tāl.
@@ -32,7 +32,7 @@ palaraṟiyār pākkiyat tāl.
 1141\. The many scandals about our love do indeed give me fresh hope and sustain my wretched life. Luckily for me the village folk do not know what their scandals have done.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४१</summary>
 
 1\. அலரெழ ஆருயிர் நிற்கும் அதனைப்  
 பலரறியார் பாக்கியத் தால்.  
@@ -66,7 +66,7 @@ The public know not her preciousness. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४२</summary>
 
 1142 malaraṉṉa kaṇṇāḷ arumai aṟiyātu  
 alaremakku īntatuiv vūr.
@@ -74,7 +74,7 @@ alaremakku īntatuiv vūr.
 1142\. Blind to the esteem of my lady of flower-like eyes, the village folk have linked her name with mine.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४२</summary>
 
 2\. மலரன்ன கண்ணாள் அருமை அறியாது  
 அலரெமக்கு ஈந்ததிவ் வூர்.  
@@ -108,7 +108,7 @@ Which give that feel of owning whom I own not?
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४३</summary>
 
 1143 uṟāatō ūraṟinta kauvai ataṉaip  
 peṟāatu peṟṟaṉṉa nīrttu.
@@ -116,7 +116,7 @@ peṟāatu peṟṟaṉṉa nīrttu.
 1143\. Is not the rumour of this village sweet to me? For it makes me feel that I have attained the bliss of love even without my lover at my side.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४३</summary>
 
 3\. உறாஅதோ ஊரறிந்த கௌவை அதனைப்  
 பெறாஅது பெற்றன்ன நீர்த்து.  
@@ -150,7 +150,7 @@ Otherwise waned losing its power. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४४</summary>
 
 1144 kavvaiyāl kavvitu kāmam atuviṉṟēl  
 tavveṉṉum taṉmai iḻantu.
@@ -158,7 +158,7 @@ tavveṉṉum taṉmai iḻantu.
 1144\. The rumours set afloat have heightened my love; but for these, it might lose its sweetness and wither away.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४४</summary>
 
 4\. கவ்வையால் கவ்விது காமம் அதுஇன்றேல்  
 தவ்வென்னும் தன்மை இழந்து.  
@@ -192,7 +192,7 @@ So does love with every disclosure.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४५</summary>
 
 1145 kaḷittoṟum kaḷḷuṇṭal vēṭṭaṟṟāl kāmam  
 veḷippaṭun tōṟum iṉitu.
@@ -200,7 +200,7 @@ veḷippaṭun tōṟum iṉitu.
 1145\. Each cup adds to the gaiety of a revelling drunkard. Even so each rumour of our love adds to my delight.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४५</summary>
 
 5\. களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்  
 வெளிப்படுந் தோறும் இனிது.  
@@ -239,7 +239,7 @@ As if a serpent has swallowed the moon. *
 ११४६. In ancient India, a lunar eclipse was considered the outcome of a serpent swallowing the moon. An alternate translation would be: “An eclipse is much noised however brief. So my one day's meeting with my love” - (P.S. Sundaram). We see this belief being mentioned in other texts. For instance by Chanakya in Rajaniti-Sastra: “Brave men do not become sad when they beget trouble. Does not the moon which enters the dragon’s mouth come out again?” Tirumoolar uses this belief to good effect to depict upsurge of Kundalini: “The Kundalini serpent consumes kalas of Moon, the Fire consumes kalas of Sun……” [Tirumandiram ८७१].
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४६</summary>
 
 1146 kaṇṭatu maṉṉum orunāḷ alarmaṉṉum  
 tiṅkaḷaip pāmpukoṇ ṭaṟṟu.
@@ -247,7 +247,7 @@ tiṅkaḷaip pāmpukoṇ ṭaṟṟu.
 1146\. Only once have I seen him; but oh! rumours of our secret love have spread all over the vast world, even as the news of the serpent devouring
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४६</summary>
 
 6\. கண்டது மன்னும் ஒருநாள் அலர்மன்னும்  
 திங்களைப் பாம்புகொண் டற்று.  
@@ -281,7 +281,7 @@ And my mother's reproaches water it.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४७</summary>
 
 1147 ūravar kauvai eruvāka aṉṉaicol  
 nīrāka nīḷumin nōy.
@@ -289,7 +289,7 @@ nīrāka nīḷumin nōy.
 1147\. How this plant of sickness grows on! The gossip of the village manures it and the frown of my mother waters it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४७</summary>
 
 7\. ஊரவர் கௌவை எருவாக அன்னைசொல்  
 நீராக நீளும்இந் நோய்.  
@@ -323,7 +323,7 @@ Is to put fire out with ghee!
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४८</summary>
 
 1148 neyyāl erinutuppēm eṉṟaṟṟāl kauvaiyāṟal  
 kāmam nutuppēm eṉal.
@@ -331,7 +331,7 @@ kāmam nutuppēm eṉal.
 1148\. With the scandals of the village one can never stifle love; it is like smothering fire with ghee.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४८</summary>
 
 8\. நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்  
 காமம் நுதுப்பேம் எனல்.  
@@ -365,7 +365,7 @@ Why then should I blush for this outcry? *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४९</summary>
 
 1149 alarnāṇa olvatō añcalōmpu eṉṟār  
 palarnāṇa nīttak kaṭai.
@@ -373,7 +373,7 @@ palarnāṇa nīttak kaṭai.
 1149\. When my lover who swore not to leave me alone has abandoned me to the mockery of the many, why need I fear these tittle-tattle?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४९</summary>
 
 9\. அலர்நாண ஒல்வதோ அஞ்சலோம்பு என்றார்  
 பலர்நாண நீத்தக் கடை.  
@@ -407,7 +407,7 @@ For it serves the desire of my lover. *
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५०</summary>
 
 1150 tāmvēṇṭiṉ nalkuvar kātalar yāmvēṇṭum  
 kauvai eṭukkumiv vūr.
@@ -415,7 +415,7 @@ kauvai eṭukkumiv vūr.
 1150\. This village rumour is useful; it has coupled you and your lover; the moment he desires, the lover can thus help us.
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५०</summary>
 
 10\. தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்  
 கௌவை எடுக்கும்இவ் வூர்.  

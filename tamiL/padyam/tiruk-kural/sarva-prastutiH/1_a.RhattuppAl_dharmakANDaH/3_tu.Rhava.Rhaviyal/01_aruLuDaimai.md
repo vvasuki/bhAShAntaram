@@ -24,7 +24,7 @@ Material wealth, even the mean possess. *
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४१</summary>
 
 241\. aruṭ celvam, celvattuḷ celvam; poruṭ celvam  
 pūriyārkaṇṇum uḷa.
@@ -32,7 +32,7 @@ pūriyārkaṇṇum uḷa.
 241\. The crown of wealth is one’s compassion; all other wealth is found even among meanest of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४१</summary>
 
 25\. அருளுடைமை - Compassion
 
@@ -68,7 +68,7 @@ That is the aid cited in all paths.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४२</summary>
 
 242\. nal āṟṟāṉ nāṭi aruḷ āḷka! pal āṟṟāṉ  
 tēriṉum aḵtē tuṇai.
@@ -76,7 +76,7 @@ tēriṉum aḵtē tuṇai.
 242\. Be compassionate; for compassion is the pivot of all tenets.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४२</summary>
 
 2\. நல்லாற்றால் நாடி அருளாள்க பல்லாற்றால்  
 தேரினும் அஃதே துணை.  
@@ -110,7 +110,7 @@ Into the terrible world of darkness.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४३</summary>
 
 243\. aruḷ cērnta neñciṉārkku illai-iruḷ cērnta  
 iṉṉā ulakam pukal.
@@ -118,7 +118,7 @@ iṉṉā ulakam pukal.
 243\. The compassionate know not hell.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४३</summary>
 
 3\. அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த  
 இன்னா உலகம் புகல்.  
@@ -152,7 +152,7 @@ Need not fear for their own lives.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४४</summary>
 
 244\. 'maṉ uyir ōmpi, aruḷ āḷvāṟku il' eṉpa-  
 ‘taṉ uyir añcum viṉai'.
@@ -160,7 +160,7 @@ Need not fear for their own lives.
 244\. Freedom from dread of sin is only for the compassionate that love all creation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४४</summary>
 
 4\. மன்னுயிர் ஓம்பி அருளாள்வாற்கு இல்லென்ப  
 தன்னுயிர் அஞ்சும் வினை.  
@@ -194,7 +194,7 @@ That sorrows are not for the merciful.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४५</summary>
 
 245\. allal, aruḷ āḷvārkku illai; vaḷi vaḻaṅkum  
 mallal mā ñālam kari.
@@ -202,7 +202,7 @@ mallal mā ñālam kari.
 245\. The compassionate know not life’s agonies; verily the wind-blown earth is witness to it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४५</summary>
 
 5\. அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்  
 மல்லல்மா ஞாலம் கரி  
@@ -236,7 +236,7 @@ Must be oblivious of forsaking morality.
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४६</summary>
 
 246\. 'poruḷ nīṅkip poccāntār' eṉpar-'aruḷ nīṅki  
 allavai ceytu oḻukuvār'.
@@ -244,7 +244,7 @@ allavai ceytu oḻukuvār'.
 246\. The cruel that delight in sin perhaps know not what awaits them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४६</summary>
 
 6\. பொருள் நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி  
 அல்லவை செய்தொழுகு வார்  
@@ -278,7 +278,7 @@ Nor the next for the unkind.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४७</summary>
 
 247\. aruḷ illārkku av ulakam illai-poruḷ illārkku  
 iv ulakam illākiyāṅku.
@@ -286,7 +286,7 @@ iv ulakam illākiyāṅku.
 247\. Heaven is not for the unfeeling; earth is not for the indigent.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४७</summary>
 
 7\. அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு  
 இவ்வுலகம் இல்லாகி யாங்கு.  
@@ -320,7 +320,7 @@ But the graceless will always lack grace.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४८</summary>
 
 248\. poruḷ aṟṟār pūppar orukāl; aruḷ aṟṟār  
 aṟṟār; maṟṟu ātal aritu.
@@ -328,7 +328,7 @@ aṟṟār; maṟṟu ātal aritu.
 248\. Fortune may smile on the ruined; the un feeling are the unredeemed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४८</summary>
 
 8\. பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்  
 அற்றார்மற் றாதல் அரிது.  
@@ -367,7 +367,7 @@ Resemble the muddled head seeing Truth.
 २४९. A good explanatory translation is given by (Satguru Subramuniyaswami). "Practicing charity without compassion is as inconceivable as realizing Truth without clarity of mind".
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४९</summary>
 
 249\. teruḷātāṉ meypporuḷ kaṇṭaṟṟāl-tēriṉ,  
 aruḷātāṉ ceyyum aṟam.
@@ -375,7 +375,7 @@ aruḷātāṉ ceyyum aṟam.
 249\. Behold the unfeeling seeking virtue; it is like ignorance seeing light.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४९</summary>
 
 9\. தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்  
 அருளாதான் செய்யும் அறம்  
@@ -414,7 +414,7 @@ Think of yourself before a bully.
 २५०. Compare with ८९४ where Valluvar says “For the weak to challenge the mighty is to summon yama with the hand. ((P.S. Sundaram), (Satguru Subramuniyaswami))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५०</summary>
 
 250\. valiyār muṉ taṉṉai niṉaikka-tāṉ taṉṉiṉ  
 meliyārmēl cellum iṭattu.
@@ -422,7 +422,7 @@ meliyārmēl cellum iṭattu.
 250\. Oppress not the weak; remember your fate in stronger hands.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५०</summary>
 
 250\. valiyār muṉ taṉṉai niṉaikka-tāṉ taṉṉiṉ  
 meliyārmēl cellum iṭattu.
@@ -431,7 +431,7 @@ meliyārmēl cellum iṭattu.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५०</summary>
 
 10\. வலியார்முன் தன்னை நினைக்கதான் தன்னின்  
 மெலியார்மேல் செல்லும் இடத்து.  

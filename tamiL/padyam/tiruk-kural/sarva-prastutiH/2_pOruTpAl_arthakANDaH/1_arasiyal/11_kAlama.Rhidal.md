@@ -24,7 +24,7 @@ Kings need the right time to win.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८१</summary>
 
 481\. pakal vellum, kūkaiyaik kākkai;- ikal vellum  
 vēntarkku vēṇṭum, poḻutu.
@@ -32,7 +32,7 @@ vēntarkku vēṇṭum, poḻutu.
 481\. During the day the crow conquers the owl. So the monarch who wishes to defeat the enemy must choose the proper time.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८१</summary>
 
 1\. பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும்  
 வேந்தர்க்கு வேண்டும் பொழுது.  
@@ -66,7 +66,7 @@ Is deeds done at the right time.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८२</summary>
 
 482\. paruvattoṭu oṭṭa oḻukal-tiruviṉait  
 tīrāmai ārkkum kayiṟu.
@@ -74,7 +74,7 @@ tīrāmai ārkkum kayiṟu.
 482\. Action at the appropriate hour is the rope that holds for ever the Goddess of Fortune to the King.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८२</summary>
 
 2\. பருவத்தோடு ஒட்ட ஒழுகல் திருவினைத்  
 தீராமை ஆர்க்கும் கயிறு.  
@@ -108,7 +108,7 @@ If right means are adopted at the right time? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८३</summary>
 
 483\. aru viṉai eṉpa uḷavō-karuviyāṉ  
 kālam aṟintu ceyiṉ.
@@ -116,7 +116,7 @@ kālam aṟintu ceyiṉ.
 483\. Is there anything impossible if one acts at the right time and with the proper equipment?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८३</summary>
 
 3\. அருவினை என்ப உளவோ கருவியான்  
 காலம் அறிந்து செயின்  
@@ -150,7 +150,7 @@ If you act choosing the right time and place.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८४</summary>
 
 484\. ñālam karutiṉum, kaikūṭum-kālam  
 karuti, iṭattāṉ ceyiṉ.
@@ -158,7 +158,7 @@ karuti, iṭattāṉ ceyiṉ.
 484\. One can succeed in the attempt to conquer the world if the right time and the right place are chosen.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८४</summary>
 
 4\. ஞாலம் கருதினுங் கைகூடும் காலம்  
 கருதி இடத்தாற் செயின்.  
@@ -192,7 +192,7 @@ Hoping for the right moment. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८५</summary>
 
 485\. kālam karuti iruppar-kalaṅkātu  
 ñālam karutupavar.
@@ -200,7 +200,7 @@ Hoping for the right moment. *
 485\. He who without any fear aims at the conquest of the world will await the season for it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८५</summary>
 
 5\. காலம் கருதி இருப்பர் கலங்காது  
 ஞாலம் கருது பவர்.  
@@ -234,7 +234,7 @@ Is akin to the retreat of a butting ram.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८६</summary>
 
 486\. ūkkam uṭaiyāṉ oṭukkam poru takar  
 tākkaṟkup pērum takaittu.
@@ -242,7 +242,7 @@ tākkaṟkup pērum takaittu.
 486\. The self-restraint of the mighty is like the drawing back of the fighting ram just before its attack.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८६</summary>
 
 6\. ஊக்க முடையான் ஒடுக்கம் பொருதகர்  
 தாக்கற்குப் பேருந் தகைத்து.  
@@ -276,7 +276,7 @@ They hold it for the right time.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८७</summary>
 
 487\. poḷḷeṉa āṅkē puṟam vērār; kālam pārttu,  
 uḷ vērppar, oḷḷiyavar.
@@ -284,7 +284,7 @@ uḷ vērppar, oḷḷiyavar.
 487\. The wise will not fly into a passion when assailed; they allow their anger to smoulder within till the right time comes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८७</summary>
 
 7\. பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்து  
 உள்வேர்ப்பர் ஒள்ளி யவர்.  
@@ -323,7 +323,7 @@ Till the time comes to topple him. *
 ४८८. ( Shuddhananda Bharatiar) has a daring interpretation. He takes the word "तलै" to mean "head" instead of the usual meaning "chief". His translation reads thus: "Bear with hostilities when you meet them. Fell down their head in fateful time" – ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८८</summary>
 
 488\. ceṟunaraik kāṇiṉ cumakka; iṟuvarai  
 kāṇiṉ kiḻakkām talai.
@@ -331,7 +331,7 @@ kāṇiṉ kiḻakkām talai.
 488\. Bow before the enemy till the time of his destruction. When the hour comes, strike him down.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८८</summary>
 
 8\. செறுநரைக் காணின் சுமக்க இறுவரை  
 காணின் கிழக்காம் தலை.  
@@ -370,7 +370,7 @@ And achieve tasks otherwise hard. *
 ४८९. Compare with ९७५. If the great achieve anything, it will be deeds rare in achievement. * (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८९</summary>
 
 489\. eytaṟku ariyatu iyaintakkāl, an nilaiyē  
 ceytaṟku ariya ceyal.
@@ -378,7 +378,7 @@ ceytaṟku ariya ceyal.
 489\. Do not let slip a golden opportunity; when the hour dawns, attempt the impossible.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८९</summary>
 
 9\. எய்தற் கரியது இயைந்தக்கால் அந்நிலையே  
 செய்தற் கரிய செயல்.  
@@ -412,7 +412,7 @@ Strike at the opportune moment.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४९०</summary>
 
 490\. kokku okka, kūmpum paruvattu; maṟṟu ataṉ  
 kuttu okka, cīrtta iṭattu.
@@ -420,7 +420,7 @@ kuttu okka, cīrtta iṭattu.
 490\. When the time is not ripe, be still as a heron. But at the ripe hour, attack the enemy without missing your aim.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४९०</summary>
 
 10\. கொக்கொக்க கூம்பும் பருவத்து மற்றதன்  
 குத்தொக்க சீர்த்த இடத்து.  

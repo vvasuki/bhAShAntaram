@@ -25,7 +25,7 @@ When eclipsed by that dark cloud called laziness.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०१</summary>
 
 601\. kuṭi eṉṉum kuṉṟā viḷakkam, maṭi eṉṉum  
 mācu ūra, māyntu keṭum.
@@ -33,7 +33,7 @@ mācu ūra, māyntu keṭum.
 601\. If sloth extends its darkness it will extinguish the lustrous lamp of one’s family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०१</summary>
 
 1\. குடியென்னும் குன்றா விளக்கம் மடியென்னும்  
 மாசூர மாய்ந்து கெடும்.  
@@ -67,7 +67,7 @@ Who wish to retain their family repute.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०२</summary>
 
 602\. maṭiyai maṭiyā oḻukal-kuṭiyaik  
 kuṭiyāka vēṇṭupavar!.
@@ -75,7 +75,7 @@ kuṭiyāka vēṇṭupavar!.
 602\. Those who wish the esteem of their family should never encourage sloth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०२</summary>
 
 2\. மடியை மடியா ஒழுகல் குடியைக்  
 குடியாக வேண்டு பவர்.  
@@ -109,7 +109,7 @@ Will ruin his household before he gets ruined.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०३</summary>
 
 603\. maṭi maṭik koṇṭu oḻukum pētai piṟanta  
 kuṭi maṭiyum, taṉṉiṉum muntu.
@@ -117,7 +117,7 @@ kuṭi maṭiyum, taṉṉiṉum muntu.
 603\. The family of the fool who hugs sloth in his own lap fades away before him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०३</summary>
 
 3\. மடிமடிக் கொண்டொழுகும் பேதை பிறந்த  
 குடிமடியும் தன்னினும் முந்து.  
@@ -151,7 +151,7 @@ Decays and steeps in crime. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०४</summary>
 
 604\. kuṭi maṭintu, kuṟṟam perukum-maṭi maṭintu,  
 māṇṭa uñaṟṟu ilavarkku.
@@ -159,7 +159,7 @@ māṇṭa uñaṟṟu ilavarkku.
 604\. Faults will be many among those who are devoid of exertion and will result in the ruin of their families.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०४</summary>
 
 4\. குடிமடிந்து குற்றம் பெருகும் மடிமடிந்து  
 மாண்ட உஞற்றில வர்க்கு.  
@@ -193,7 +193,7 @@ Procrastination, forgetfulness, sloth and sleep.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०५</summary>
 
 605\. neṭu nīr, maṟavi, maṭi, tuyil, nāṉkum  
 keṭum nīrār kāmak kalaṉ.
@@ -201,7 +201,7 @@ keṭum nīrār kāmak kalaṉ.
 605\. Procrastination, carelessness, sluggardliness and sleep are the four boats fondly entered into by those who go to ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०५</summary>
 
 5\. நெடுநீர் மறவி மடிதுயில் நான்கும்  
 கெடுநீரார் காமக் கலன்.  
@@ -235,7 +235,7 @@ Even if they possess worldly wealth. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०६</summary>
 
 606\. paṭi uṭaiyār paṟṟu amaintakkaṇṇum, maṭi uṭaiyār  
 māṇ payaṉ eytal aritu.
@@ -243,7 +243,7 @@ māṇ payaṉ eytal aritu.
 606\. Even when the wealth of the rulers of all earth is within his reach, the slothful will hardly derive any great benefit from it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०६</summary>
 
 6\. படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார்  
 மாண்பயன் எய்தல் அரிது.  
@@ -277,7 +277,7 @@ Must endure scolding and scorn. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०७</summary>
 
 607\. iṭipurintu, eḷḷum col kēṭpar-maṭipurintu  
 māṇṭa uñaṟṟu ilavar.
@@ -285,7 +285,7 @@ māṇṭa uñaṟṟu ilavar.
 607\. Lovers of idleness with no praiseworthy exertion will be the butt of disgrace and will receive words of rebuke.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०७</summary>
 
 7\. இடிபுரிந்து எள்ளுஞ்சொல் கேட்பர் மடிபுரிந்து  
 மாண்ட உஞற்றி லவர்.  
@@ -324,7 +324,7 @@ The family will soon be enslaved to its foes. *
 ६०८. Ahort crisp translations, but not close to original: "Sloth enslaves a house to its enemies" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०८</summary>
 
 608\. maṭimai kuṭimaikkaṇ taṅkiṉ, taṉ oṉṉārkku  
 aṭimai pukuttiviṭum.
@@ -332,7 +332,7 @@ aṭimai pukuttiviṭum.
 608\. If sloth comes to stay in one’s family, it will make one the slave of one’s enemies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०८</summary>
 
 8\. மடிமை குடிமைக்கண் தங்கின்தன் ஒன்னார்க்கு  
 அடிமை புகுத்தி விடும்.  
@@ -366,7 +366,7 @@ By getting rid of indolence.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६०९</summary>
 
 609\. kuṭi, āṇmaiyuḷ vanta kuṟṟam, oruvaṉ  
 maṭi āṇmai māṟṟa, keṭum.
@@ -374,7 +374,7 @@ maṭi āṇmai māṟṟa, keṭum.
 609\. By conquering sloth, one can wipe out the reproach that has come over one’s family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६०९</summary>
 
 9\. குடியாண்மை யுள்வந்த குற்றம் ஒருவன்  
 மடியாண்மை மாற்றக் கெடும்.  
@@ -413,7 +413,7 @@ All that the Lord had measured by his feet. *
 ६१०. The word "अडि अळन्दान्" [who measured by his feet] refers to the belief that Lord Vishnu's measured the whole universe in three strides.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१०</summary>
 
 610\. maṭi ilā maṉṉavaṉ eytum-aṭi aḷantāṉ  
 tāayatu ellām oruṅku.
@@ -421,7 +421,7 @@ tāayatu ellām oruṅku.
 610\. All the universe once measured by God will be with the king of no sloth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१०</summary>
 
 10\. மடியிலா மன்னவன் எய்தும் அடியளந்தான்  
 தாஅய தெல்லாம் ஒருங்கு.  

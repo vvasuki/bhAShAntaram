@@ -24,7 +24,7 @@ What matters if curbed or uncurbed? *
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०१</summary>
 
 301\. cel iṭattuk kāppāṉ ciṉam kāppāṉ; al iṭattu,  
 kākkiṉ eṉ? kāvākkāl eṉ?.
@@ -32,7 +32,7 @@ kākkiṉ eṉ? kāvākkāl eṉ?.
 301\. He who restrains his wrath where it can be vented shows real restraint. What does it matter whether one restrains it or not in an unavailing hour?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०१</summary>
 
 1\. செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்  
 காக்கின்என் காவாக்கால் என்  
@@ -66,7 +66,7 @@ But where it does, there is nothing worse.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०२</summary>
 
 302\. cellā iṭattuc ciṉam tītu; cel iṭattum,  
 il, ataṉiṉ tīya piṟa.
@@ -74,7 +74,7 @@ il, ataṉiṉ tīya piṟa.
 302\. Anger is bad even where it is unavailing; but where it can be effectively exercised there is no worse evil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०२</summary>
 
 2\. செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்  
 இல்அதனின் தீய பிற  
@@ -108,7 +108,7 @@ Forget provocation given by anyone. *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०३</summary>
 
 303\. maṟattal, vekuḷiyai yārmāṭṭum-tīya  
 piṟattal ataṉāṉ varum.
@@ -116,7 +116,7 @@ piṟattal ataṉāṉ varum.
 303\. Do not get angry with any one; for out of anger springs forth a host of evils.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०३</summary>
 
 3\. மறத்தல் வெகுளியை யார்மாட்டும் தீய  
 பிறத்தல் அதனான் வரும்  
@@ -150,7 +150,7 @@ Which kills laughter and joy? *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०४</summary>
 
 304\. nakaiyum uvakaiyum kollum ciṉattiṉ  
 pakaiyum uḷavō, piṟa?.
@@ -158,7 +158,7 @@ pakaiyum uḷavō, piṟa?.
 304\. Is there any enemy other than anger that kills both joy and pleasure?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०४</summary>
 
 4\. நகையும் உவகையும் கொல்லும் சினத்தின்  
 பகையும் உளவோ பிற.  
@@ -192,7 +192,7 @@ If unguarded, anger will kill you. *
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०५</summary>
 
 305\. taṉṉait tāṉ kākkiṉ, ciṉam kākka! kāvākkāl,  
 taṉṉaiyē kollum, ciṉam.
@@ -200,7 +200,7 @@ taṉṉaiyē kollum, ciṉam.
 305\. If a man were to guard himself let him restrain anger. Otherwise anger gets the better of him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०५</summary>
 
 5\. தன்னைத்தான் காக்கின் சினம்காக்க காவாக்கால்  
 தன்னையே கொல்லும் சினம்.  
@@ -234,7 +234,7 @@ Burns the life-saving boat of kith and kin.
 (N.V.K. Ashraf), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०६</summary>
 
 306\. ciṉam eṉṉum cērntāraikkolli iṉam eṉṉum  
 ēmap puṇaiyaic cuṭum.
@@ -242,7 +242,7 @@ Burns the life-saving boat of kith and kin.
 306\. Anger destroys even one’s kindred who is the canoe of his life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०६</summary>
 
 6\. சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும்  
 ஏமப் புணையைச் சுடும்.  
@@ -276,7 +276,7 @@ Like the hands that smash the earth. *
 (C. Rajagopalachari), (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०७</summary>
 
 307\. ciṉattaip poruḷ eṉṟu koṇṭavaṉ kēṭu  
 nilattu aṟaintāṉ kai piḻaiyātaṟṟu.
@@ -284,7 +284,7 @@ nilattu aṟaintāṉ kai piḻaiyātaṟṟu.
 307\. The ruin of one who nourishes wrath is as certain as the injury to one’s hands when beat on the ground.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०७</summary>
 
 7\. சினத்தைப் பொருளென்று கொண்டவன் கேடு  
 நிலத்தறைந்தான் கைபிழையா தற்று.  
@@ -318,7 +318,7 @@ Like being forced into blazing fire.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०८</summary>
 
 308\. iṇar eri tōyvaṉṉa iṉṉā ceyiṉum,  
 puṇariṉ vekuḷāmai naṉṟu.
@@ -326,7 +326,7 @@ puṇariṉ vekuḷāmai naṉṟu.
 308\. It is better you show no wrath even against one who inflicts on you harm scorching you like a thousand-tongued flame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०८</summary>
 
 8\. இணர்எரி தோய்வன்ன இன்னா செயினும்  
 புணரின் வெகுளாமை நன்று.  
@@ -365,7 +365,7 @@ If they keep away wrath from their mind.
 ३०९. Compare with ५४० and ६६६ for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "What is sought will be got as desired if only the seeker is determined" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०९</summary>
 
 309\. uḷḷiya ellām uṭaṉ eytum-uḷḷattāl  
 uḷḷāṉ vekuḷi eṉiṉ.
@@ -373,7 +373,7 @@ uḷḷāṉ vekuḷi eṉiṉ.
 309\. Banish anger from your mind; you get all that you long for.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०९</summary>
 
 9\. உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்  
 உள்ளான் வெகுளி எனின்.  
@@ -414,7 +414,7 @@ And those renounced it on par with saints.
 "As men who have died resemble the dead, so men who have renounced anger resemble renunciates"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१०</summary>
 
 310\. iṟantār iṟantār aṉaiyar; ciṉattait  
 tuṟantār tuṟantār tuṇai.
@@ -422,7 +422,7 @@ tuṟantār tuṟantār tuṇai.
 310\. Men given to wrath are one with the devil; Men free from it are one with the immortals.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१०</summary>
 
 310\. iṟantār iṟantār aṉaiyar; ciṉattait  
 tuṟantār tuṟantār tuṇai.
@@ -431,7 +431,7 @@ tuṟantār tuṟantār tuṇai.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१०</summary>
 
 10\. இறந்தார் இறந்தார் அனையர் சினத்தைத்  
 துறந்தார் துறந்தார் துணை.  

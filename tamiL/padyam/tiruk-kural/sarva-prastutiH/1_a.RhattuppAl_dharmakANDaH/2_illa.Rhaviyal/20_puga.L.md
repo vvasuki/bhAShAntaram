@@ -24,7 +24,7 @@ That comes out of charity.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३१</summary>
 
 231\. ītal! icaipaṭa vāḻtal! atu allatu  
 ūtiyam illai, uyirkku.
@@ -32,7 +32,7 @@ That comes out of charity.
 231\. Give and make a name. There is no greater gain to man than such a renown.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३१</summary>
 
 1\. ஈதல் இசைபட வாழ்தல் அதுவல்லது  
 ஊதியம் இல்லை உயிர்க்கு  
@@ -66,7 +66,7 @@ Will live for ever in the words of all. *
 (Kasthuri Sreenivasan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३२</summary>
 
 232\. uraippār uraippavai ellām irappārkku oṉṟu  
 īvārmēl niṟkum pukaḻ.
@@ -74,7 +74,7 @@ Will live for ever in the words of all. *
 232\. The one undying theme of praise is the praise of charity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३२</summary>
 
 2\. உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று  
 ஈவார்மேல் நிற்கும் புகழ்  
@@ -108,7 +108,7 @@ Than glorious fame beyond compare.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३३</summary>
 
 233\. oṉṟā ulakattu uyarnta pukaḻ allāl,  
 poṉṟātu niṟpatu oṉṟu il.
@@ -116,7 +116,7 @@ poṉṟātu niṟpatu oṉṟu il.
 233\. Nothing lasts save one’s fearless renown.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३३</summary>
 
 3\. ஒன்றா உலகத்து உயர்ந்த புகழல்லால்  
 பொன்றாது நிற்பதொன்று இல்  
@@ -150,7 +150,7 @@ When you gain world-wide lasting fame. *
 (Satguru Subramuniyaswami), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३४</summary>
 
 234\. nila varai nīḷ pukaḻ āṟṟiṉ, pulavaraip  
 pōṟṟātu, puttēḷ ulaku.
@@ -158,7 +158,7 @@ pōṟṟātu, puttēḷ ulaku.
 234\. The wise are not favoured of the gods; but the' renowned on earth are adored by them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३४</summary>
 
 4\. நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்  
 போற்றாது புத்தேள் உலகு  
@@ -192,7 +192,7 @@ Some gain in loss and fame in death.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३५</summary>
 
 235\. nattampōl kēṭum, uḷatākum cākkāṭum,  
 vittakarkku allāl aritu.
@@ -200,7 +200,7 @@ vittakarkku allāl aritu.
 235\. Out of death and ruin the wise fashion things enduring.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३५</summary>
 
 5\. நத்தம்போல் கேடும் உளதாகும் சாக்காடும்  
 வித்தகர்க் கல்லால் அரிது  
@@ -234,7 +234,7 @@ Or else better not to be born at all.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३६</summary>
 
 236\. tōṉṟiṉ, pukaḻoṭu tōṉṟuka! aḵtu ilār  
 tōṉṟaliṉ tōṉṟāmai naṉṟu.
@@ -242,7 +242,7 @@ tōṉṟaliṉ tōṉṟāmai naṉṟu.
 236\. Let man be born to achieve renown. Let not the unrenowned see the light of day.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३६</summary>
 
 6\. தோன்றின் புகழோடு தோன்றுக அஃதிலார்  
 தோன்றலின் தோன்றாமை நன்று  
@@ -276,7 +276,7 @@ Who cannot live in fame? *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३७</summary>
 
 237\. pukaḻpaṭa vāḻātār tam nōvār, tammai  
 ikaḻvārai nōvatu evaṉ?.
@@ -284,7 +284,7 @@ ikaḻvārai nōvatu evaṉ?.
 237\. Let the inglorious blame themselves. Let them not reproach others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३७</summary>
 
 7\. புகழ்பட வாழாதார் தந்நோவார் தம்மை  
 இகழ்வாரை நோவது எவன்.  
@@ -318,7 +318,7 @@ If you fail to earn that renown called fame.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३८</summary>
 
 238\. 'vacai' eṉpa, vaiyattārkku ellām-’icai’ eṉṉum  
 eccam peṟāaviṭiṉ.
@@ -326,7 +326,7 @@ eccam peṟāaviṭiṉ.
 238\. World’s reproach befalls one who does not achieve lasting fame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३८</summary>
 
 8\. வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்  
 எச்சம் பெறா விடின்  
@@ -360,7 +360,7 @@ Will shrink in its glory of yield.
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३९</summary>
 
 239\. vacai ilā vaṇ payaṉ kuṉṟum-icai ilā  
 yākkai poṟutta nilam.
@@ -368,7 +368,7 @@ yākkai poṟutta nilam.
 239\. In a land which bears the burden of the unrenowned even nature’s bounty is on the wane.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३९</summary>
 
 9\. வசையிலா வண்பயன் குன்றும் இசையிலா  
 யாக்கை பொறுத்த நிலம்  
@@ -411,7 +411,7 @@ The one without fame fades.
 "A life without blame lasts for ever; a life without fame lasts never" - (N.V.K. Ashraf).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४०</summary>
 
 240\. vacai oḻiya vāḻvārē vāḻvār; icai oḻiya  
 vāḻvārē vāḻātavar.
@@ -421,7 +421,7 @@ vāḻvārē vāḻātavar.
 **End of the Section on Domestic Life**  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४०</summary>
 
 10\. வசைஒழிய வாழ்வாரே வாழ்வார் இசையொழிய  
 வாழ்வாரே வாழா தவர்  

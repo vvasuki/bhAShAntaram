@@ -29,7 +29,7 @@ That people earn a living and establish homes.
 ८१. Compare with २१२. "All the wealth earned by toils is meant to serve those who deserve" * - ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१</summary>
 
 81\. iruntu ōmpi il vāḻvatu ellām viruntu ōmpi  
 vēḷāṇmai ceytaṟporuṭṭu.
@@ -37,7 +37,7 @@ vēḷāṇmai ceytaṟporuṭṭu.
 81\. To keep house and to acquire wealth is only to minister to guests.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१</summary>
 
 1\. இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி  
 வேளாண்மை செய்தற் பொருட்டு  
@@ -71,7 +71,7 @@ Even the nectar of immortality. *
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२</summary>
 
 82\. viruntu puṟattatāt tāṉ uṇṭal, cāvā  
 maruntu eṉiṉum vēṇṭaṟpāṟṟu aṉṟu.
@@ -79,7 +79,7 @@ maruntu eṉiṉum vēṇṭaṟpāṟṟu aṉṟu.
 82\. With a guest waiting it would not be proper to eat even though it were nectar.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२</summary>
 
 2\. விருந்து புறத்ததாத் தானுண்டல் சாவா  
 மருந்தெனினும் வேண்டற்பாற் றன்று  
@@ -113,7 +113,7 @@ Who always cherishes his flowing guests.
 MR, (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३</summary>
 
 83\. varu viruntu vaikalum ōmpuvāṉ vāḻkkai  
 paruvantu pāḻpaṭutal iṉṟu.
@@ -121,7 +121,7 @@ paruvantu pāḻpaṭutal iṉṟu.
 83\. A life of one who daily looks after the incoming guests will never suffer from poverty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३</summary>
 
 3\. வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை  
 பருவந்து பாழ்படுதல் இன்று  
@@ -155,7 +155,7 @@ Who plays host with a smile. *
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४</summary>
 
 84\. akaṉ amarntu ceyyāḷ uṟaiyum-mukaṉ amarntu  
 nal viruntu ōmpuvāṉ il.
@@ -163,7 +163,7 @@ nal viruntu ōmpuvāṉ il.
 84\. Fortune smiles on the house of one who entertains with cheerful face worthy guests.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४</summary>
 
 4\. அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து  
 நல்விருந்து ஓம்புவான் இல்.  
@@ -197,7 +197,7 @@ Who first feeds the guests and eats the rest?
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५</summary>
 
 85\. vittum iṭalvēṇṭum kollō-viruntu ōmpi,  
 miccil micaivāṉ pulam?.
@@ -205,7 +205,7 @@ miccil micaivāṉ pulam?.
 85\. Does the field of one who partakes of what remains after entertaining the guest, need to be sown with seeds?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५</summary>
 
 5\. வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி  
 மிச்சில் மிசைவான் புலம்.  
@@ -239,7 +239,7 @@ Will be hosted by the gods. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६</summary>
 
 86\. cel viruntu ōmpi, varu viruntu pārttiruppāṉ  
 nal viruntu, vāṉattavarkku.
@@ -247,7 +247,7 @@ nal viruntu, vāṉattavarkku.
 86\. He who cherishes the guests who come to him, and looks forward to new guests, will himself be the honoured guest of the gods.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६</summary>
 
 6\. செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்  
 நல்விருந்து வானத் தவர்க்கு  
@@ -286,7 +286,7 @@ Their worth depends on the guest.
 ८७. Compare with १०५. "Not according to the aid but its receiver is its recompense determined" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७</summary>
 
 87\. iṉait tuṇaittu eṉpatu oṉṟu illai; viruntiṉ  
 tuṇait tuṇai-vēḷvip payaṉ.
@@ -294,7 +294,7 @@ tuṇait tuṇai-vēḷvip payaṉ.
 87\. The effects of hospitality cannot be exactly measured. They are proportionate to the worth of the guest.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७</summary>
 
 7\. இனைத்துணைத் தென்பதொன் றில்லை: விருந்தின்  
 துணைத்துணை வேள்விப் பயன்  
@@ -333,7 +333,7 @@ Who never sacrificed for hospitality.
 ८८. By way of interpretation, this translation by (Satguru Subramuniyaswami) would help: "Those who never sacrifice to care for guests will later lament: We hoarded wealth, estranged ourselves, now none will care for us"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८</summary>
 
 88\. 'parintu ōmpi, paṟṟu aṟṟēm' eṉpar-viruntu ōmpi  
 vēḷvi talaippaṭātār.
@@ -341,7 +341,7 @@ vēḷvi talaippaṭātār.
 88\. Those who have failed in their duties to guests will regret the folly of mere hoarding.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८</summary>
 
 8\. பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி  
 வேள்வி தலைப்படா தார்  
@@ -375,7 +375,7 @@ Such poverty belongs to fools.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९</summary>
 
 89\. uṭaimaiyuḷ iṉmai viruntu ōmpal ōmpā  
 maṭamai; maṭavārkaṇ uṇṭu.
@@ -383,7 +383,7 @@ maṭamai; maṭavārkaṇ uṇṭu.
 89\. To be poor amidst plenty is to despise hospitality. Such folly is only of the ignorant.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९</summary>
 
 9\. உடமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
 மடமை மடவார்கண் உண்டு  
@@ -422,7 +422,7 @@ An unwelcome look is enough to wither a guest. *
 ९०. Aniccham is a flower known for its fragility. Valluvar uses this flower in four places in Kural. The remaining couplets are in the third book "Love". [see ११११, १११५, ११२०]
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०</summary>
 
 90\. mōppak kuḻaiyum aṉiccam;- mukam tirintu  
 nōkkak kuḻaiyum viruntu.
@@ -430,7 +430,7 @@ nōkkak kuḻaiyum viruntu.
 90\. The aniccam flower withers when smelt, and the guest under a displeased look.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९०</summary>
 
 90\. mōppak kuḻaiyum aṉiccam;- mukam tirintu  
 nōkkak kuḻaiyum viruntu.
@@ -439,7 +439,7 @@ nōkkak kuḻaiyum viruntu.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९०</summary>
 
 10\. மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து  
 நோக்கக் குழையும் விருந்து  

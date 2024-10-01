@@ -24,7 +24,7 @@ A message from my lord?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२११</summary>
 
 1211 kātalar tūtoṭu vanta kaṉaviṉukku  
 yātucey vēṉkol viruntu.
@@ -32,7 +32,7 @@ yātucey vēṉkol viruntu.
 1211\. With what feast may I entertain the dream that has brought glad tidings of my lover?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२११</summary>
 
 1\. காதலர் தூதொடு வந்த கனவினுக்கு  
 யாதுசெய் வேன்கொல் விருந்து.  
@@ -66,7 +66,7 @@ I will tell him in my dream of my true predicament. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१२</summary>
 
 1212 kayaluṇkaṇ yāṉirappat tuñciṉ kalantārkku  
 uyaluṇmai cāṟṟuvēṉ maṉ.
@@ -74,7 +74,7 @@ uyaluṇmai cāṟṟuvēṉ maṉ.
 1212\. If only my eyes would close in sleep at my request, how I would meet him in dreams!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१२</summary>
 
 2\. கயலுண்கண் யானிரப்பத் துஞ்சிற் கலந்தார்க்கு  
 உயலுண்மை சாற்றுவேன் மன்.  
@@ -108,7 +108,7 @@ My life lingers on as I see him in my dreams. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१३</summary>
 
 1213 naṉaviṉāl nalkā tavaraik kaṉaviṉāl  
 kāṇṭaliṉ uṇṭeṉ uyir.
@@ -116,7 +116,7 @@ kāṇṭaliṉ uṇṭeṉ uyir.
 1213\. The merciless one favours me not in waking hours but in dreams I feast on him and thus manage to live.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१३</summary>
 
 3\. நனவினால் நல்கா தவரைக் கனவினால்  
 காண்டலின் உண்டென் உயிர்.  
@@ -150,7 +150,7 @@ Who visits not while I am awake.
 (W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१४</summary>
 
 1214 kaṉaviṉāṉ uṇṭākum kāmam naṉaviṉāl  
 nalkārai nāṭit taraṟku.
@@ -158,7 +158,7 @@ nalkārai nāṭit taraṟku.
 1214\. Why do I love dreams? It is because they bring before me the one who in waking hours favours me not.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१४</summary>
 
 4\. கனவினான் உண்டாகும் காமம் நனவினான்  
 நல்காரை நாடித் தரற்கு.  
@@ -192,7 +192,7 @@ Be it in dreams or while I am awake.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१५</summary>
 
 1215 naṉaviṉāl kaṇṭatūum āṅkē kaṉavuntāṉ  
 kaṇṭa poḻutē iṉitu.
@@ -200,7 +200,7 @@ kaṇṭa poḻutē iṉitu.
 1215\. Sweet is his presence in the waking hours; sweet too is his appearance in a dream. What then do I miss in seeing him in my dreams?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१५</summary>
 
 5\. நனவினாற் கண்டதூஉம் ஆங்கே கனவுந்தான்  
 கண்ட பொழுதெ இனிது.  
@@ -239,7 +239,7 @@ My dream-lover won't leave me indeed.
 १२१६. In other words: "But for this state of wakefulness, I would have my beloved always in my dreams" * - (K. Krishnaswamy & Vijaya Ramkumar), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१६</summary>
 
 1216 naṉaveṉa oṉṟuillai āyiṉ kaṉaviṉāl  
 kātalar nīṅkalar maṉ.
@@ -247,7 +247,7 @@ kātalar nīṅkalar maṉ.
 1216\. If only there was no such thing as waking hours, my lover would never desert me in my dreams.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१६</summary>
 
 6\. நனவென ஒன்றில்லை யாயின் கனவினால்  
 காதலர் நீங்கலர் மன்.  
@@ -281,7 +281,7 @@ When he cruelly deserts me when awake? *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१७</summary>
 
 1217 naṉaviṉāl nalkāk koṭiyār kaṉaviṉāl  
 eṉemmaip pīḻip patu.
@@ -289,7 +289,7 @@ eṉemmaip pīḻip patu.
 1217\. Why does the cruel one plague me in my dreams when he shows no compassion on me in my waking state?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१७</summary>
 
 7\. நனவினால் நல்காக் கொடியார் கனவினால்  
 என்எம்மைப் பீழிப் பது.  
@@ -323,7 +323,7 @@ Awake he hurries back to my heart. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१८</summary>
 
 1218 tuñcuṅkāl tōḷmēlar āki viḻikkuṅkāl  
 neñcattar āvar viraintu.
@@ -331,7 +331,7 @@ neñcattar āvar viraintu.
 1218\. She says to her companion: “He embraces me in my dreams but the moment I awake he quickly vanishes into my heart.”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१८</summary>
 
 8\. துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்  
 நெஞ்சத்தர் ஆவர் விரைந்து.  
@@ -370,7 +370,7 @@ Rue missing their beloved in wakefulness. *
 १२१९. A good alternate translation is given by (K.R. Srinivasa Iyengar): "They blame him for not visiting me; they know not what dreams can do"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१९</summary>
 
 1219 naṉaviṉāl nalkārai nōvar kaṉaviṉāl  
 kātalark kāṇā tavar.
@@ -378,7 +378,7 @@ kātalark kāṇā tavar.
 1219\. Only those women who do not see their lovers in dreams, blame them for their cruelty in walking hours.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१९</summary>
 
 9\. நனவினால் நல்காரை நோவர் கனவினால்  
 காதலர்க் காணா தவர்.  
@@ -412,7 +412,7 @@ But how can they see his visits in my dreams?
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२२०</summary>
 
 1220 naṉaviṉāl namnīttār eṉpar kaṉaviṉāl  
 kāṇārkol ivvū ravar.
@@ -420,7 +420,7 @@ kāṇārkol ivvū ravar.
 1220\. Folk say: “He has abandoned her in sooth.” Verily they do not know how he visits me in my dreams.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२२०</summary>
 
 10\. நனவினால் நம்நீத்தார் என்பர் கனவினால்  
 காணார்கொல் இவ்வூ ரவர்.  

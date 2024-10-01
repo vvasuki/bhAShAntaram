@@ -24,7 +24,7 @@ Opponents, and allies before acting. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७१</summary>
 
 471\. viṉai valiyum, taṉ valiyum, māṟṟāṉ valiyum,  
 tuṇai valiyum, tūkkic ceyal.
@@ -32,7 +32,7 @@ tuṇai valiyum, tūkkic ceyal.
 471\. A king must act after measuring the strength of his plan, his own resources, the strength of the enemy and that of the ally.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७१</summary>
 
 1\. வினைவலியும் தன்வலியும் மாற்றான் வலியும்  
 துணைவலியும் தூக்கிச் செயல்.  
@@ -66,7 +66,7 @@ Who knows his task and strength, and is well set.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७२</summary>
 
 472\. olvatu aṟivatu aṟintu, ataṉkaṇ taṅkic  
 celvārkkuc cellātatu il.
@@ -74,7 +74,7 @@ celvārkkuc cellātatu il.
 472\. Nothing is impossible for them who know the nature of their task and throw themselves heart and soul into it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७२</summary>
 
 2\. ஒல்வ தறிவது அறிந்ததன் கண்தங்கிச்  
 செல்வார்க்குச் செல்லாதது இல்.  
@@ -108,7 +108,7 @@ Many in their zeal have perished midway.
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७३</summary>
 
 473\. uṭait tam vali aṟiyār, ūkkattiṉ ūkki,  
 iṭaikkaṇ murintār palar.
@@ -116,7 +116,7 @@ iṭaikkaṇ murintār palar.
 473\. Many kings have failed in the middle of their enterprise, for they have launched on it in their blind ignorant zeal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७३</summary>
 
 3\. உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி  
 இடைக்கண் முரிந்தார் பலர்.  
@@ -150,7 +150,7 @@ Who boast unconcerned of their real strengths.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७४</summary>
 
 474\. amaintu āṅku oḻukāṉ, aḷavu aṟiyāṉ, taṉṉai  
 viyantāṉ, viraintu keṭum.
@@ -158,7 +158,7 @@ viyantāṉ, viraintu keṭum.
 474\. He who is ignorant of the might of his foe and who thinks too much of himself will come to grief.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७४</summary>
 
 4\. அமைந்தாங் கொழுகான் அளவறியான் தன்னை  
 வியந்தான் விரைந்து கெடும்.  
@@ -192,7 +192,7 @@ Will break the axle-tree of the cart.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७५</summary>
 
 475\. pīli pey cākāṭum accu iṟum-ap paṇṭam  
 cāla mikuttup peyiṉ.
@@ -200,7 +200,7 @@ cāla mikuttup peyiṉ.
 475\. The axle of a cart breaks even under the overload of a peacock’s feathers.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७५</summary>
 
 5\. பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்  
 சால மிகுத்துப் பெயின்.  
@@ -234,7 +234,7 @@ Will forfeit one's life.
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७६</summary>
 
 476\. nuṉik kompar ēṟiṉār aḵtu iṟantu ūkkiṉ  
 uyirkku iṟuti ākiviṭum.
@@ -242,7 +242,7 @@ uyirkku iṟuti ākiviṭum.
 476\. Over-vaulting ambition perishes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७६</summary>
 
 6\. நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்  
 உயிர்க்கிறுதி யாகி விடும்.  
@@ -276,7 +276,7 @@ This is the way to guard your treasure. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७७</summary>
 
 477\. āṟṟiṉ aḷavu aṟintu īka; atu poruḷ  
 pōṟṟi vaḻaṅkum neṟi.
@@ -284,7 +284,7 @@ pōṟṟi vaḻaṅkum neṟi.
 477\. Let your charity be according to the measure of your wealth. That is the way to preserve it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७७</summary>
 
 7\. ஆற்றின் அளவறிந்து ஈக அதுபொருள்  
 போற்றி வழங்கும் நெறி.  
@@ -318,7 +318,7 @@ If outgoings are not broad.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७८</summary>
 
 478\. āku āṟu aḷavu iṭṭitu āyiṉum, kēṭu illai-  
 pōku āṟu akalākkaṭai.
@@ -326,7 +326,7 @@ pōku āṟu akalākkaṭai.
 478\. No harm comes of one’s small earnings. Let not one’s expense out-run one’s income.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७८</summary>
 
 8\. ஆகாறு அளவிட்டி தாயினும் கேடில்லை  
 போகாறு அகலாக் கடை.  
@@ -365,7 +365,7 @@ May seem to prosper but will perish.
 ४७९. A short and crisp way of putting it: "A spendthrift's life is a phantom that will fade" – (P.S. Sundaram).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७९</summary>
 
 479\. aḷavu aṟintu vāḻātāṉ vāḻkkai uḷapōla  
 illāki, tōṉṟāk keṭum.
@@ -373,7 +373,7 @@ illāki, tōṉṟāk keṭum.
 479\. The seeming prosperity of the extravagant perishes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७९</summary>
 
 9\. அளவறிந்து வாழாதான் வாழ்க்கை உளபோல  
 இல்லாகித் தோன்றாக் கெடும்.  
@@ -412,7 +412,7 @@ Will quickly lose the measure of his wealth.
 ४८०. Idea expressed here is very similar to the one in ४७७. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४८०</summary>
 
 480\. uḷa varai tūkkāta oppuravu āṇmai,  
 vaḷa varai vallaik keṭum.
@@ -420,7 +420,7 @@ vaḷa varai vallaik keṭum.
 480\. The fortune of one, lavish of charity beyond measure, goes to rack and rain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४८०</summary>
 
 10\. உளவரை தூக்காத ஒப்புர வாண்மை  
 வளவரை வல்லைக் கெடும்.  

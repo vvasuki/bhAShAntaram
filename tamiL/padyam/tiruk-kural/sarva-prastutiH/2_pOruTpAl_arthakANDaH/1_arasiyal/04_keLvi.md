@@ -29,7 +29,7 @@ That wealth out-tops all else. *
 ४११. It is Valluvar's style to use the same idea to emphasize an important point. Here he emphasizes the wealth of hearing, at other places on the wealth of grace and learning. i.e. २४१. The wealth of wealth is the wealth of grace. Material wealth, even the mean possess. * - ( Shuddhananda Bharatiar), (P.S. Sundaram). ४००. The wealth that never declines is learning. All others are not riches - (P.S. Sundaram), (W.H. Drew and J. Lazarus).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४११</summary>
 
 411\. celvattuḷ celvam ceviccelvam; ac celvam  
 celvattuḷ ellām talai.
@@ -37,7 +37,7 @@ celvattuḷ ellām talai.
 411\. The wealth of all wealth is the wealth of hearing. It out-tops all other wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४११</summary>
 
 1\. செல்வத்துள் செல்வஞ் செவிச்செல்வம் அச்செல்வம்  
 செல்வத்து ளெல்லாந் தலை.  
@@ -71,7 +71,7 @@ A little can be given to the stomach as well.
 (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१२</summary>
 
 412\. cevikku uṇavu illāta pōḻtu, ciṟitu,  
 vayiṟṟukkum īyappaṭum.
@@ -79,7 +79,7 @@ vayiṟṟukkum īyappaṭum.
 412\. Men think a little of the stomach only when the ear is not fed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१२</summary>
 
 2\. செவிக்குண வில்லாத போழ்து சிறிது  
 வயிற்றுக்கும் ஈயப் படும்.  
@@ -113,7 +113,7 @@ So men on earth are fed through their ears.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१३</summary>
 
 413\. ceviyuṇaviṉ kēḷvi uṭaiyār, aviyuṇaviṉ  
 āṉṟāroṭu oppar, nilattu.
@@ -121,7 +121,7 @@ So men on earth are fed through their ears.
 413\. Those mortals who feast their ears with learning are one with the immortals with their sacrificial offerings.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१३</summary>
 
 3\. செவியுணவிற் கேள்வி யுடையார் அவியுணவின்  
 ஆன்றாரோ டொப்பர் நிலத்து.  
@@ -155,7 +155,7 @@ You will find this a great help in distress.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१४</summary>
 
 414\. kaṟṟilaṉ āyiṉum kēṭka; aḵtu oruvaṟku  
 oṟkattiṉ ūṟṟu ām tuṇai.
@@ -163,7 +163,7 @@ oṟkattiṉ ūṟṟu ām tuṇai.
 414\. Though devoid of learning let one fill one’s ear with knowledge. It is his prop in his hour of gloom.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१४</summary>
 
 4\. கற்றில னாயினும் கேட்க அஃதொருவற்கு  
 ஒற்கத்தின் ஊற்றாந் துணை.  
@@ -197,7 +197,7 @@ Are like a steadying staff in a slippery place.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१५</summary>
 
 415\. iḻukkal uṭai uḻi ūṟṟukkōl aṟṟē-  
 oḻukkam uṭaiyār vāyc col.
@@ -205,7 +205,7 @@ oḻukkam uṭaiyār vāyc col.
 415\. The counsel of the upright is like a staff over a slippery ground.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१५</summary>
 
 5\. இழுக்கல் உடையுழி ஊற்றுக்கோல் அற்றே  
 ஒழுக்க முடையார்வாய்ச் சொல்.  
@@ -239,7 +239,7 @@ And even that much will bring great dignity.
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१६</summary>
 
 416\. eṉaittāṉum nallavai kēṭka! aṉaittāṉum  
 āṉṟa perumai tarum.
@@ -247,7 +247,7 @@ And even that much will bring great dignity.
 416\. Listen to wholesome counsel however meagre; for out of it springs great good.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१६</summary>
 
 6\. எனைத்தானும் நல்லவை கேட்க அனைத்தானும்  
 ஆன்ற பெருமை தரும்.  
@@ -281,7 +281,7 @@ Will not talk nonsense even by mistake.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१७</summary>
 
 417\. piḻaittu uṇarntum pētaimai collār-iḻaittu uṇarntu  
 īṇṭiya kēḷviyavar.
@@ -289,7 +289,7 @@ Will not talk nonsense even by mistake.
 417\. Men of searching understanding do not speak foolishly even in a thoughtless mood.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१७</summary>
 
 7\. பிழைத்துணர்ந்தும் பேதைமை சொல்லார் இழைத்துணர்ந்  
 தீண்டிய கேள்வி யவர்.  
@@ -323,7 +323,7 @@ If not drilled by words of instruction.
 (Satguru Subramuniyaswami), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१८</summary>
 
 418\. kēṭpiṉum kēḷāt takaiyavē-kēḷviyāl  
 tōṭkap paṭāta cevi.
@@ -331,7 +331,7 @@ tōṭkap paṭāta cevi.
 418\. The ear that is not filled with understanding is really deaf.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१८</summary>
 
 8\. கேட்பினுங் கேளாத் தகையவே கேள்வியால்  
 தோட்கப் படாத செவி.  
@@ -365,7 +365,7 @@ Whose ears lend not to wise counsels.
 ( Shuddhananda Bharatiar), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४१९</summary>
 
 419\. nuṇaṅkiya kēḷviyar allār vaṇaṅkiya  
 vāyiṉar ātal aritu.
@@ -373,7 +373,7 @@ vāyiṉar ātal aritu.
 419\. Men that lack subtle understanding lack modesty in speech.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४१९</summary>
 
 9\. நுணங்கிய கேள்வியர் ரல்லார் வணங்கிய  
 வாயின ராதல் அரிது  
@@ -407,7 +407,7 @@ Whose taste is in their tongues, not ears?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४२०</summary>
 
 420\. ceviyiṉ cuvai uṇarā, vāy uṇarviṉ, mākkaḷ  
 aviyiṉum vāḻiṉum eṉ.
@@ -415,7 +415,7 @@ aviyiṉum vāḻiṉum eṉ.
 420\. What avails it whether men live or die, if they merely satisfy the palate and not feed the ear with wisdom.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४२०</summary>
 
 10\. செவியிற் சுவையுணரா வாயுணர்வின் மாக்கள்  
 அவியினும் வாழினும் என்.  

@@ -25,7 +25,7 @@ It is seizing what brings ill and letting the good slip. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३१</summary>
 
 831 pētaimai eṉpatuoṉṟu yātueṉiṉ ētamkoṇṭu  
 ūtiyam pōka viṭal.
@@ -33,7 +33,7 @@ It is seizing what brings ill and letting the good slip. *
 831\. Stupidity clings to the evil and lets slip the good.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३१</summary>
 
 1\. பேதைமை என்பதொன்று யாதெனின் ஏதங்கொண்டு  
 ஊதியம் போக விடல்.  
@@ -72,7 +72,7 @@ Beyond one's reach. *
 ८३२. The interpretation of this couplet could vary depending on how the words in the second line are combined and read. One way is to split as: "कै अल्लदन्गण् सॆयल्". The other way is: "कैअल्ल तन्गण् सॆयल्." The translation given above is based on the second method of word combination. If we are to follow the first, an equally valid translation is "The folly of all follies is to enjoy doing what one is forbidden to do" – (Satguru Subramuniyaswami).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३२</summary>
 
 832 pētaimaiyuḷ ellām pētaimai kātaṉmai  
 kaiyalla taṉkaṇ ceyal.
@@ -80,7 +80,7 @@ kaiyalla taṉkaṇ ceyal.
 832\. The crown of stupidity is the desire to do evil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३२</summary>
 
 2\. பேதைமையு ளெல்லாம் பேதைமை காதன்மை  
 கையல்ல தன்கட் செயல்.  
@@ -114,7 +114,7 @@ Are marks of foolishness. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३३</summary>
 
 833 nāṇāmai nāṭāmai nāriṉmai yātoṉṟum  
 pēṇāmai pētai toḻil.
@@ -122,7 +122,7 @@ pēṇāmai pētai toḻil.
 833\. Shamelessness, negligence, arrogance and giddiness mark the stupid.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३३</summary>
 
 3\. நாணாமை நாடாமை நாரின்மை யாதொன்றும்  
 பேணாமை பேதை தொழில்.  
@@ -156,7 +156,7 @@ Who has studied and taught, but lacks control.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३४</summary>
 
 834 ōti uṇarntum piṟarkkuraittum tāṉaṭaṅkāp  
 pētaiyiṉ pētaiyār il.
@@ -164,7 +164,7 @@ pētaiyiṉ pētaiyār il.
 834\. Most stupid is the learned fool who remains disloyal to his own noble teaching.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३४</summary>
 
 4\. ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்  
 பேதையின் பேதையார் இல்.  
@@ -198,7 +198,7 @@ That will plunge him in hell in the succeeding seven.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३५</summary>
 
 835 orumaic ceyalāṟṟum pētai eḻumaiyum  
 tāṉpukku aḻuntum aḷaṟu.
@@ -206,7 +206,7 @@ tāṉpukku aḻuntum aḷaṟu.
 835\. Acts of folly done in one birth cause misery to him in seven more births to come.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३५</summary>
 
 5\. ஒருமைச் செயலாற்றும் பேதை எழுமையும்  
 தான்புக் கழுந்தும் அளறு.  
@@ -240,7 +240,7 @@ The task is undone, and so is he! *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३६</summary>
 
 836 poypaṭum oṉṟō puṉaipūṇum kaiyaṟiyāp  
 pētai viṉaimēṟ koḷiṉ.
@@ -248,7 +248,7 @@ pētai viṉaimēṟ koḷiṉ.
 836\. The task undertaken by a foolish man is spoiled and also ruined.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३६</summary>
 
 6\. பொய்படும் ஒன்றொ புனைபூணும் கையறியாப்  
 பேதை வினைமேற் கொளின்.  
@@ -282,7 +282,7 @@ Strangers will feast while his kindred starve. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३७</summary>
 
 837 ētilār ārat tamarpacippar pētai  
 peruñcelvam uṟṟak kaṭai.
@@ -290,7 +290,7 @@ peruñcelvam uṟṟak kaṭai.
 837\. Strangers and not relatives fatten on the unlimited wealth of a fool.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३७</summary>
 
 7\. ஏதிலார் ஆரத் தமர்பசிப்பர் பேதை  
 பெருஞ்செல்வம் உற்றக் கடை.  
@@ -324,7 +324,7 @@ Is like a lunatic getting drunk.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३८</summary>
 
 838 maiyal oruvaṉ kaḷittaṟṟāl pētaitaṉ  
 kaiyoṉṟu uṭaimai peṟiṉ.
@@ -332,7 +332,7 @@ kaiyoṉṟu uṭaimai peṟiṉ.
 838\. A fool that lives by a fortune is like a mad man in his drunken glee.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३८</summary>
 
 8\. மையல் ஒருவன் களித்தற்றால் பேதைதன்  
 கையொன்று உடைமை பெறின்.  
@@ -366,7 +366,7 @@ For when it breaks there is no pain.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३९</summary>
 
 839 peritiṉitu pētaiyār kēṇmai piriviṉkaṇ  
 pīḻai taruvatoṉṟu il.
@@ -374,7 +374,7 @@ pīḻai taruvatoṉṟu il.
 839\. Verily sweet are the uses of fools’ love. For nothing is lost in a separation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३९</summary>
 
 9\. பெரிதினிது பேதையார் கேண்மை பிரிவின்கண்  
 பீழை தருவதொன்று இல்.  
@@ -413,7 +413,7 @@ Is like entering a shrine with unclean legs.
 ८४०. The word "पळ्ळि" here is usually taken by almost all translators as "bed". If we are to translate "कऴाक् काल् पळ्ळियुळ् वैत्तट्राल्" as "placing a dirty foot on a clean bed" – as it is usually done – then the phrase employed by Valluvar should have been "पळ्ळिमेल्" and not "पळ्ळियुळ्" as is the case here. The monasteries of the Jains and Buddhist monks were called "पळ्ळि" in the ancient Tamil country [Varadarajan, १९८८]. Following the near total disappearance of Buddhism and Jainism from Southern India, this word has now been used to denote the places of worship of Muslims and Christians. Hindu temples were always called by the names कोयिल्, आलयम्, अम्बलम् and never by the word पळ्ळि. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८४०</summary>
 
 840 kaḻāakkāl paḷḷiyuḷ vaittaṟṟāl cāṉṟōr  
 kuḻāattup pētai pukal.
@@ -421,7 +421,7 @@ kuḻāattup pētai pukal.
 840\. A fool’s entry into the assembly of the wise is like one’s unclean foot on the bed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८४०</summary>
 
 10\. கழாஅக்கால் பள்ளியுள் வைத்தற்றால் சான்றோர்  
 குழாஅத்துப் பேதை புகல்.  

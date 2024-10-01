@@ -25,7 +25,7 @@ Even from the precious ones who delight in giving.
 (J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६१</summary>
 
 1061 karavātu uvantīyum kaṇṇaṉṉār kaṇṇum  
 iravāmai kōṭi uṟum.
@@ -33,7 +33,7 @@ iravāmai kōṭi uṟum.
 1061\. A million times blessed is he who refrains from begging even from the generous delighting in charity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६१</summary>
 
 1\. கரவாது உவந்தீயும் கண்ணன்னார் கண்ணும்  
 இரவாமை கோடி யுறும்.  
@@ -67,7 +67,7 @@ Himself roam and perish!
 (P.S. Sundaram), (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६२</summary>
 
 1062 irantum uyirvāḻtal vēṇṭiṉ parantu  
 keṭuka ulakiyaṟṟi yāṉ.
@@ -75,7 +75,7 @@ keṭuka ulakiyaṟṟi yāṉ.
 1062\. May the creator of the world perish if he has ordained life only through mendicancy?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६२</summary>
 
 2\. இரந்தும் உயிர்வாழ்தல் வேண்டின் பரந்து  
 கெடுக உலகியற்றி யான்.  
@@ -109,7 +109,7 @@ Begging will rid the misery of poverty. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६३</summary>
 
 1063 iṉmai iṭumpai irantutīr vāmeṉṉum  
 vaṉmaiyiṉ vaṉpāṭṭatu il.
@@ -117,7 +117,7 @@ vaṉmaiyiṉ vaṉpāṭṭatu il.
 1063\. There is no greater folly than the thought of wiping out poverty by beggary.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६३</summary>
 
 3\. இன்மை இடும்பை இரந்துதீர் வாமென்னும்  
 வன்மையின் வன்பாட்டது இல்.  
@@ -151,7 +151,7 @@ Who don’t beg even during troubled times.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६४</summary>
 
 1064 iṭamellām koḷḷāt takaittē iṭamillāk  
 kālum iravollāc cālpu.
@@ -159,7 +159,7 @@ kālum iravollāc cālpu.
 1064\. The greatness of refusing to beg even in adversity transcends the glory of the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६४</summary>
 
 4\. இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்  
 காலும் இரவொல்லாச் சால்பு.  
@@ -193,7 +193,7 @@ Earned by one's own labour. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६५</summary>
 
 1065 teṇṇīr aṭupuṟkai āyiṉum tāḷtantatu  
 uṇṇaliṉ ūṅkuiṉiyatu il.
@@ -201,7 +201,7 @@ uṇṇaliṉ ūṅkuiṉiyatu il.
 1065\. Nothing is sweeter than the thin porridge earned by the sweat of one’s brow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६५</summary>
 
 5\. தெண்ணீர் அடுபுற்கை யாயினும் தாள்தந்தது  
 உண்ணலி னூங்கினியது இல்.  
@@ -235,7 +235,7 @@ Even if only water for a cow.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६६</summary>
 
 1066 āviṟku nīreṉṟu irappiṉum nāviṟku  
 iraviṉ iḷivantatu il.
@@ -243,7 +243,7 @@ iraviṉ iḷivantatu il.
 1066\. It is a heinous sin to beg for water even for a cow crying of thirst.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६६</summary>
 
 6\. ஆவிற்கு நீரென்று இரப்பினும் நாவிற்கு  
 இரவின் இளிவந்தது இல்.  
@@ -277,7 +277,7 @@ This I beg of all beggars,
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६७</summary>
 
 1067 irappaṉ irappārai ellām irappiṉ  
 karappār iravaṉmiṉ eṉṟu.
@@ -285,7 +285,7 @@ karappār iravaṉmiṉ eṉṟu.
 1067\. I implore beggars not to beg of people who hide their wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६७</summary>
 
 7\. இரப்பன் இரப்பாரை எல்லாம் இரப்பின்  
 கரப்பார் இரவன்மின் என்று.  
@@ -319,7 +319,7 @@ The moment it strikes the rock of refusal. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६८</summary>
 
 1068 iravueṉṉum ēmāppil tōṇi karavueṉṉum  
 pārtākkap pakku viṭum.
@@ -327,7 +327,7 @@ pārtākkap pakku viṭum.
 1068\. The unavailing canoe of begging gets wrecked on the rock of refusal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६८</summary>
 
 8\. இரவென்னும் ஏமாப்பில் தோணி கரவென்னும்  
 பார்தாக்கப் பக்கு விடும்.  
@@ -361,7 +361,7 @@ And dies at the thought of denial.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६९</summary>
 
 1069 iravuḷḷa uḷḷam urukum karavuḷḷa  
 uḷḷatūum iṉṟik keṭum.
@@ -369,7 +369,7 @@ uḷḷatūum iṉṟik keṭum.
 1069\. The mere thought of begging melts one’s heart. It breaks at one’s denial.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६९</summary>
 
 9\. இரவுள்ள உள்ளம் உருகும் கரவுள்ள  
 உள்ளதூஉம் இன்றிக் கெடும்.  
@@ -403,7 +403,7 @@ When the beggar’s life is taken by refusal?
 (M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७०</summary>
 
 1070 karappavarkku yāṅkoḷikkum kollō irappavar  
 collāṭap pōom uyir.
@@ -411,7 +411,7 @@ collāṭap pōom uyir.
 1070\. A rebuff takes the life out of the beggar. But can the deceitful escape death?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७०</summary>
 
 10\. கரப்பவர்க்கு யாஙகொளிக்குங் கொல்லோ இரப்பவர்  
 சொல்லாடப் போஒம் உயிர்.  

@@ -25,7 +25,7 @@ That spreads the plague of discord among all life. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५१</summary>
 
 851 ikaleṉpa ellā uyirkkum pakaleṉṉum  
 paṇpiṉmai pārikkum nōy.
@@ -33,7 +33,7 @@ paṇpiṉmai pārikkum nōy.
 851\. Hatred is a foul disease that brings discord among men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५१</summary>
 
 1\. இகலென்ப எல்லா உயிர்க்கும் பகலென்னும்  
 பண்பின்மை பாரிக்கும் நோய்.  
@@ -67,7 +67,7 @@ Better do nothing painful to avoid conflict. *
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५२</summary>
 
 852 pakalkarutip paṟṟā ceyiṉum ikalkaruti  
 iṉṉācey yāmai talai.
@@ -75,7 +75,7 @@ iṉṉācey yāmai talai.
 852\. What if one does us harm out of hatred? It is the height of wisdom to resist not evil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५२</summary>
 
 2\. பகல்கருதிப் பற்றா செயினும் இகல்கருதி  
 இன்னாசெய் யாமை தலை.  
@@ -109,7 +109,7 @@ What yields is undying everlasting fame. *
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५३</summary>
 
 853 ikaleṉṉum evvanōy nīkkiṉ tavalillāt  
 tāvil viḷakkam tarum.
@@ -117,7 +117,7 @@ tāvil viḷakkam tarum.
 853\. He who is rid of the full disease of hatred crowns himself with eternal glory.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५३</summary>
 
 3\. இகலென்னும் எவ்வநோய் நீக்கின் தவவில்லாத்  
 தாவில் விளக்கம் தரும்.  
@@ -151,7 +151,7 @@ There comes the joy of joys. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५४</summary>
 
 854 iṉpattuḷ iṉpam payakkum ikaleṉṉum  
 tuṉpattuḷ tuṉpam keṭiṉ.
@@ -159,7 +159,7 @@ tuṉpattuḷ tuṉpam keṭiṉ.
 854\. It is the joy of joys to bury hatred, the evil of all evils.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५४</summary>
 
 4\. இன்பத்துள் இன்பம் பயக்கும் இகலென்னும்  
 துன்பத்துள் துன்பம் கெடின்.  
@@ -193,7 +193,7 @@ Who refuses to give in to feelings of hatred?
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५५</summary>
 
 855 ikaletir cāyntoḻuka vallārai yārē  
 mikalūkkum taṉmai yavar.
@@ -201,7 +201,7 @@ mikalūkkum taṉmai yavar.
 855\. Can anyone overcome him who has conquered hatred?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५५</summary>
 
 5\. இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே  
 மிகலூக்கும் தன்மை யவர்.  
@@ -240,7 +240,7 @@ Who delights in excess hostility. *
 ८५६. An alternate translation, though not close to original: "He who revels in discord will soon be overtaken by suffering" – (K. Krishnaswamy & Vijaya Ramkumar).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५६</summary>
 
 856 ikaliṉ mikaliṉitu eṉpavaṉ vāḻkkai  
 tavalum keṭalum naṇittu.
@@ -248,7 +248,7 @@ tavalum keṭalum naṇittu.
 856\. Swift ruin awaits one who delights in discord.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५६</summary>
 
 6\. இகலின் மிகலினிது என்பவன் வாழ்க்கை  
 தவலும் கெடலும் நணித்து.  
@@ -282,7 +282,7 @@ Will never see the triumphant nature of truth. *
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५७</summary>
 
 857 mikalmēvaval meypporuḷ kāṇār ikalmēval  
 iṉṉā aṟivi ṉavar.
@@ -290,7 +290,7 @@ iṉṉā aṟivi ṉavar.
 857\. Those who nourish hatred will never see the triumphant light of truth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५७</summary>
 
 7\. மிகல்மேவல் மெய்ப்பொருள் காணார் இகல்மேவல்  
 இன்னா அறிவி னவர்.  
@@ -324,7 +324,7 @@ Yielding to it, one is overcome by ruin. *
 (P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५८</summary>
 
 858 ikaliṟku etircāytal ākkam ataṉai  
 mikalūkkiṉ ūkkumām kēṭu.
@@ -332,7 +332,7 @@ mikalūkkiṉ ūkkumām kēṭu.
 858\. To fight against hatred is to save one’s soul; to harbour it is to court one’s own ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५८</summary>
 
 8\. இகலிற்கு எதிர்சாய்தல் ஆக்கம் அதனை  
 மிகலூக்கின் ஊக்குமாம் கேடு.  
@@ -366,7 +366,7 @@ Destined for ruin, one will see it all the time.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८५९</summary>
 
 859 ikalkāṇāṉ ākkam varuṅkāl ataṉai  
 mikalkāṇum kēṭu taraṟku.
@@ -374,7 +374,7 @@ mikalkāṇum kēṭu taraṟku.
 859\. Freedom from hatred is the sign of one’s prosperity. Presence of hatred foreshadows decline of one’s fortune.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८५९</summary>
 
 9\. இகல்காணான் ஆக்கம் வருங்கால் அதனை  
 மிகல்காணும் கேடு தரற்கு.  
@@ -408,7 +408,7 @@ And from friendship the pride of goodness.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६०</summary>
 
 860 ikalāṉām iṉṉāta ellām nakalāṉām  
 naṉṉayam eṉṉum cerukku.
@@ -416,7 +416,7 @@ naṉṉayam eṉṉum cerukku.
 860\. From love springs the proud joy of a righteous life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६०</summary>
 
 10\. இகலானாம் இன்னாத எல்லாம் நகலானாம்  
 நன்னயம் என்னும் செருக்கு.  

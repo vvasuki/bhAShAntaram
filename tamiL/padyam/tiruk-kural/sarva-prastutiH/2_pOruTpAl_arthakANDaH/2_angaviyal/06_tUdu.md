@@ -25,7 +25,7 @@ Are the qualities of an envoy. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८१</summary>
 
 681\. aṉpu uṭaimai, āṉṟa kuṭippiṟattal, vēntu avām  
 paṇpu uṭaimai,- tūtu uraippāṉ paṇpu.
@@ -33,7 +33,7 @@ paṇpu uṭaimai,- tūtu uraippāṉ paṇpu.
 681\. The characteristics of an ambassador are lovability, noble birth and other qualities which evoke the monarch’s respect.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८१</summary>
 
 1\. அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்  
 பண்புடைமை தூதுரைப்பான் பண்பு.  
@@ -67,7 +67,7 @@ Are loyalty, intelligence and sagacious speech.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८२</summary>
 
 682\. aṉpu, aṟivu, ārāynta colvaṉmai-tūtu uraippārkku  
 iṉṟiyamaiyāta mūṉṟu.
@@ -75,7 +75,7 @@ iṉṟiyamaiyāta mūṉṟu.
 682\. Love, wisdom, ability to talk with full knowledge, are the three indispensable qualities of an ambassador.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८२</summary>
 
 2\. அன்பறிவு ஆராய்ந்த சொல்வன்மை தூதுரைப்பார்க்கு  
 இன்றி யமையாத மூன்று.  
@@ -109,7 +109,7 @@ To succeed among the powerful.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८३</summary>
 
 683\. nūlāruḷ nūl vallaṉ ākutal-vēlāruḷ  
 veṉṟi viṉai uraippāṉ paṇpu.
@@ -117,7 +117,7 @@ veṉṟi viṉai uraippāṉ paṇpu.
 683\. A skilful ambassador who wishes to gain his mission among other monarchs wielding the spear must be more learned than the learned.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८३</summary>
 
 3\. நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள்  
 வென்றி வினையுரைப்பான் பண்பு.  
@@ -151,7 +151,7 @@ Wisdom, personality and scholarship. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८४</summary>
 
 684\. aṟivu, uru, ārāynta kalvi, im mūṉṟaṉ  
 ceṟivu uṭaiyāṉ celka, viṉaikku.
@@ -159,7 +159,7 @@ ceṟivu uṭaiyāṉ celka, viṉaikku.
 684\. Only those who have wisdom, personality and mature scholarship must be sent on a mission.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८४</summary>
 
 4\. அறிவுரு ஆராய்ந்த கல்விஇம் மூன்றன்  
 செறிவுடையான் செல்க வினைக்கு.  
@@ -193,7 +193,7 @@ Unoffending, pleasant and useful.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८५</summary>
 
 685\. tokac colli, tūvāta nīkki, nakac colli,  
 naṉṟi payappatu ām-tūtu.
@@ -201,7 +201,7 @@ naṉṟi payappatu ām-tūtu.
 685\. A good ambassador is he who can talk cogently and sweetly and who is not offensive even in saying things that are disagreeable.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८५</summary>
 
 5\. தொகச்சொல்லித் தூவாத நீக்கி நகச்சொல்லி  
 நன்றி பயப்பதாம் தூது.  
@@ -235,7 +235,7 @@ And know what fits the occasion. *
 (P.S. Sundaram), (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८६</summary>
 
 686\. kaṟṟu, kaṇ añcāṉ, celac colli, kālattāl  
 takkatu aṟivatu ām-tūtu.
@@ -243,7 +243,7 @@ takkatu aṟivatu ām-tūtu.
 686\. The envoy must be learned, fearless, persuasive and expedient.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८६</summary>
 
 6\. கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால்  
 தக்கது அறிவதாம் தூது.  
@@ -277,7 +277,7 @@ Wait for the occasion and think before speaking.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८७</summary>
 
 687\. kaṭaṉ aṟintu, kālam karuti, iṭaṉ aṟintu,  
 eṇṇi, uraippāṉ talai.
@@ -285,7 +285,7 @@ eṇṇi, uraippāṉ talai.
 687\. The best envoy states his case convincingly knowing his duty at the proper time and place.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८७</summary>
 
 7\. கடனறிந்து காலம் கருதி இடனறிந்து  
 எண்ணி உரைப்பான் தலை.  
@@ -319,7 +319,7 @@ Goodness, friendliness and boldness.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८८</summary>
 
 688\. tūymai, tuṇaimai, tuṇivu uṭaimai, im mūṉṟiṉ  
 vāymai-vaḻi uraippāṉ paṇpu.
@@ -327,7 +327,7 @@ vāymai-vaḻi uraippāṉ paṇpu.
 688\. The qualifications of a true envoy are morality, loyalty to his monarch and courage.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८८</summary>
 
 8\. தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்  
 வாய்மை வழியுரைப்பான் பண்பு.  
@@ -361,7 +361,7 @@ Utter words that leave a stain.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८९</summary>
 
 689\. viṭu māṟṟam vēntarkku uraippāṉ-vaṭu māṟṟam  
 vāy cōrā vaṉkaṇavaṉ.
@@ -369,7 +369,7 @@ vāy cōrā vaṉkaṇavaṉ.
 689\. He who does not falter even when faced with personal danger is fit to deliver his king’s message.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८९</summary>
 
 9\. விடுமாற்றம் வேந்தர்க்கு உரைப்பான் வடுமாற்றம் -  
 வாய்சோரா வன்க ணவன்.  
@@ -403,7 +403,7 @@ The ruler's interests at any cost. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९०</summary>
 
 690\. iṟuti payappiṉum, eñcātu, iṟaivaṟku  
 uṟuti payappatu ām-tūtu.
@@ -411,7 +411,7 @@ uṟuti payappatu ām-tūtu.
 690\. A true envoy delivers his message even at the risk of death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९०</summary>
 
 10\. இறுதி பயப்பினும் எஞ்சாது இறைவர்க்கு  
 உறுதி பயப்பதாம் தூது.  

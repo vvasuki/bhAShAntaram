@@ -25,7 +25,7 @@ That gift is a class apart from all other gifts.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४१</summary>
 
 641\. 'nā nalam' eṉṉum nalaṉ uṭaimai; an nalam  
 yā nalattu uḷḷatūum aṉṟu.
@@ -33,7 +33,7 @@ yā nalattu uḷḷatūum aṉṟu.
 641\. The virtue of good speech is greater than all the other good qualities found in one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४१</summary>
 
 1\. நாநலம் என்னும் நலனுடைமை அந்நலம்  
 யாநலத்து உள்ளதூஉம் அன்று.  
@@ -67,7 +67,7 @@ And hence guard it from negligence. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४२</summary>
 
 642\. ākkamum, kēṭum, ataṉāl varutalāl,  
 kāttu ōmpal, colliṉkaṇ cōrvu.
@@ -75,7 +75,7 @@ kāttu ōmpal, colliṉkaṇ cōrvu.
 642\. As I both prosperity and ruin are caused by words, a minister must guard against imperfection in his speech.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४२</summary>
 
 2\. ஆக்கமுங் கேடும் அதனால் வருதலால்  
 காத்தோம்பல் சொல்லின்கண் சோர்வு.  
@@ -109,7 +109,7 @@ And be pleasing even to the unconvinced.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४३</summary>
 
 643\. kēṭṭārp piṇikkum takai avāy, kēḷārum  
 vēṭpa, moḻivatu ām-col.
@@ -117,7 +117,7 @@ vēṭpa, moḻivatu ām-col.
 643\. The minister must use such words as have the effect of strengthening the approval of those who agree and differ.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४३</summary>
 
 3\. கேட்டார்ப் பிணிக்குந் தகையவாய்க் கோளாரும்  
 வேட்ப மொழிவதாஞ் சொல்.  
@@ -151,7 +151,7 @@ Nothing more virtuous or valuable than this. *
 (Satguru Subramuniyaswami), (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४४</summary>
 
 644\. tiṟaṉ aṟintu colluka, collai; aṟaṉum  
 poruḷum ataṉiṉ ūṅku il.
@@ -159,7 +159,7 @@ poruḷum ataṉiṉ ūṅku il.
 644\. Speak having regard to one’s capacity to listen; for there is no greater virtue nor wealth than that.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४४</summary>
 
 4\. திறனறிந்து சொல்லுக சொல்லை அறனும்  
 பொருளும் அதனினூஉங்கு இல்.  
@@ -198,7 +198,7 @@ There is no other word to beat it.
 ६४५. A short and crisp translation but not close to original: "One must speak only after considering possible counter arguments" - (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४५</summary>
 
 645\. colluka collai-piṟitu ōr col ac collai  
 vellum col iṉmai aṟintu.
@@ -206,7 +206,7 @@ vellum col iṉmai aṟintu.
 645\. Speak out what you have to say only after knowing that your own argument will not be turned against you.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४५</summary>
 
 5\. சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை  
 வெல்லுஞ்சொல் இன்மை அறிந்து  
@@ -240,7 +240,7 @@ Is the hallmark of spotless men. *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४६</summary>
 
 646\. vēṭpat tām colli, piṟar col payaṉ kōṭal  
 māṭciyiṉ mācu aṟṟār kōḷ.
@@ -248,7 +248,7 @@ māṭciyiṉ mācu aṟṟār kōḷ.
 646\. A good minister wins the approval of the listener by persuasive speech.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४६</summary>
 
 6\. வேட்பத்தாஞ் சொல்லிப் பிறர்சொல் பயன்கோடல்  
 மாட்சியின் மாசற்றார் கோள்.  
@@ -282,7 +282,7 @@ Can rarely be prevailed upon by any one.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४७</summary>
 
 647\. colal vallaṉ, cōrvu ilaṉ, añcāṉ, avaṉai  
 ikal vellal yārkkum aritu.
@@ -290,7 +290,7 @@ ikal vellal yārkkum aritu.
 647\. A clever speaker is neither tired nor fearful; none can defeat him in a debate.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४७</summary>
 
 7\. சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை  
 இகல்வெல்லல் யார்க்கும் அரிது.  
@@ -329,7 +329,7 @@ Who can to speak orderly and pleasingly.
 ६४८. An interesting alternate translation: "Swiftly will the world gather around men who can speak weighty themes in lighter vein" - (G.U. Pope), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४८</summary>
 
 648\. viraintu toḻil kēṭkum ñālam-nirantu iṉitu  
 collutal vallārp peṟiṉ.
@@ -337,7 +337,7 @@ collutal vallārp peṟiṉ.
 648\. Cogent reasoning and soft speech can bring the people over to one’s side.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४८</summary>
 
 8\. விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது  
 சொல்லுதல் வல்லார்ப் பெறின்.  
@@ -371,7 +371,7 @@ Cannot be brief and faultless.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४९</summary>
 
 649\. pala collak kāmuṟuvar maṉṟa- mācu aṟṟa  
 cila collal tēṟṟātavar.
@@ -379,7 +379,7 @@ cila collal tēṟṟātavar.
 649\. Those who cannot say a few words correctly will evince a desire to speak much.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४९</summary>
 
 9\. பலசொல்லக் காமுறுவர் மன்றமா சற்ற  
 சிலசொல்லல் தேற்றா தவர்.  
@@ -413,7 +413,7 @@ Are a bunch of flowers without scent. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५०</summary>
 
 650\. iṇar ūḻttum nāṟā malar aṉaiyar-kaṟṟatu  
 uṇara virittu uraiyātār.
@@ -421,7 +421,7 @@ uṇara virittu uraiyātār.
 650\. Those who cannot explain well what they have learnt resemble the odourless flowers with their petals open.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५०</summary>
 
 10\. இணரூழ்த்தும் நாறா மலரனையர் கற்றது  
 உணர விரித்துரையா தார்.  

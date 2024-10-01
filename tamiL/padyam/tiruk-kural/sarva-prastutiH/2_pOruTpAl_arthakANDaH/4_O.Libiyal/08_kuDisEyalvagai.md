@@ -25,7 +25,7 @@ In the advance of the community.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२१</summary>
 
 1021 karumam ceyaoruvaṉ kaitūvēṉ eṉṉum  
 perumaiyiṉ pīṭuuṭaiyatu il.
@@ -33,7 +33,7 @@ perumaiyiṉ pīṭuuṭaiyatu il.
 1021\. Nothing is more exalted and manly than one’s ceaseless toil to uplift one’s own family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२१</summary>
 
 1\. கருமம் செயஒருவன் கைதூவேன் என்னும்  
 பெருமையின் பீடுடையது இல்.  
@@ -67,7 +67,7 @@ A community progresses with these two. *
 (V.V.S. Aiyar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२२</summary>
 
 1022 āḷviṉaiyum āṉṟa aṟivum eṉa_iraṇṭiṉ  
 nīḷviṉaiyāl nīḷum kuṭi.
@@ -75,7 +75,7 @@ nīḷviṉaiyāl nīḷum kuṭi.
 1022\. Manly effort and ripe wisdom exalt one’s family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२२</summary>
 
 2\. ஆள்வினையும் ஆன்ற அறிவும் எனஇரண்டின்  
 நீள்வினையால் நீளும் குடி.  
@@ -114,7 +114,7 @@ And lead the one bent on social service. *
 १०२३. The phrase “मडि तट्रु” means “tightening one’s loin clothes”. Does this in any way refer to the Jaina deities that are always depicted naked? 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२३</summary>
 
 1023 kuṭiceyval eṉṉum oruvaṟkut teyvam  
 maṭitaṟṟut tāṉmun tuṟum.
@@ -122,7 +122,7 @@ maṭitaṟṟut tāṉmun tuṟum.
 1023\. Even God girds up His loins in the service of one who strives for the glory of one’s family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२३</summary>
 
 3\. குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்  
 மடிதற்றுத் தான்முந் துறும்.  
@@ -156,7 +156,7 @@ Who tirelessly strives for his society.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२४</summary>
 
 1024 cūḻāmal tāṉē muṭiveytum taṅkuṭiyait  
 tāḻātu uñaṟṟu pavarkku.
@@ -164,7 +164,7 @@ tāḻātu uñaṟṟu pavarkku.
 1024\. Success comes unbidden to one who exalts one’s family with unremitting toil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२४</summary>
 
 4\. சூழாமல் தானே முடிவெய்தும் தம்குடியைத்  
 தாழாது உஞற்று பவர்க்கு.  
@@ -198,7 +198,7 @@ Leading a blameless life doing social service. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२५</summary>
 
 1025 kuṟṟam ilaṉāyk kuṭiceytu vāḻvāṉaic  
 cuṟṟamāc cuṟṟum ulaku.
@@ -206,7 +206,7 @@ cuṟṟamāc cuṟṟum ulaku.
 1025\. The world becomes kin to one who leads an unblemished householder’s life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२५</summary>
 
 5\. குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்  
 சுற்றமாச் சுற்றும் உலகு.  
@@ -240,7 +240,7 @@ One is born into. *
 (C. Rajagopalachari), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२६</summary>
 
 1026 nallāṇmai eṉpatu oruvaṟkut tāṉpiṟanta  
 illāṇmai ākkik koḷal.
@@ -248,7 +248,7 @@ illāṇmai ākkik koḷal.
 1026\. What is true manliness except perfect ordering of the house for its own glory?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२६</summary>
 
 6\. நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்த  
 இல்லாண்மை ஆக்கிக் கொளல்.  
@@ -282,7 +282,7 @@ Also falls on the capable. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२७</summary>
 
 1027 amarakattu vaṉkaṇṇar pōlat tamarakattu  
 āṟṟuvār mēṟṟē poṟai.
@@ -290,7 +290,7 @@ Also falls on the capable. *
 1027\. The brunt of the battle falls on the victorious; the burden of the family on the competent few.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२७</summary>
 
 7\. அமரகத்து வன்கண்ணார் போலத் தமரகத்தும்  
 ஆற்றுவார் மேற்றே பொறை.  
@@ -324,7 +324,7 @@ To put off is to ruin repute. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२८</summary>
 
 1028 kuṭiceyvārkku illai paruvam maṭiceytu  
 māṉam karutak keṭum.
@@ -332,7 +332,7 @@ māṉam karutak keṭum.
 1028\. To pure householders there is no cessation of work. One’s false prestige leads to the ruin of one’s family.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२८</summary>
 
 8\. குடிசெய்வார்க்கு இல்லை பருவம் மடிசெய்து  
 மானம் கருதக் கெடும்.  
@@ -366,7 +366,7 @@ A receptacle for hardships alone? *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२९</summary>
 
 1029 iṭumpaikkē koḷkalam kollō kuṭumpattaik  
 kuṟṟam maṟaippāṉ uṭampu.
@@ -374,7 +374,7 @@ kuṟṟam maṟaippāṉ uṭampu.
 1029\. Is he who protects his family from the ills of life a mere vessel of suffering?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२९</summary>
 
 9\. இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்  
 குற்றம் மறைப்பான் உடம்பு.  
@@ -408,7 +408,7 @@ Without good men to support it.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०३०</summary>
 
 1030 iṭukkaṇkāl koṉṟiṭa vīḻum aṭuttūṉṟum  
 nallāḷ ilāta kuṭi.
@@ -416,7 +416,7 @@ nallāḷ ilāta kuṭi.
 1030\. The axe of adversity falls on the family which has no noble son to shield it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०३०</summary>
 
 10\. இடுக்கண்கால் கொன்றிட வீழும் அடுத்தூன்றும்  
 நல்லாள் இலாத குடி.  

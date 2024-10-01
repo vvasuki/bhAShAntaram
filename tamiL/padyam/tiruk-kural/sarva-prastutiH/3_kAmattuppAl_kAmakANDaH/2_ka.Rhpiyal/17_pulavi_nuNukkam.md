@@ -29,7 +29,7 @@ A common dish for all women's eyes to gorge! *
 १३११. (K.R. Srinivasa Iyengar)’s translation, though not literal, would explain this scenario: "All women graze on your breast, O false one! I reject your advances"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३११</summary>
 
 1311 peṇiyalār ellārum kaṇṇiṉ potuuṇpar  
 naṇṇēṉ parattaniṉ mārpu.
@@ -37,7 +37,7 @@ naṇṇēṉ parattaniṉ mārpu.
 1311\. You yielded yourself to all sorts of women to look at you with their eyes. Therefore I shall not approach your breast.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३११</summary>
 
 1\. பெண்ணியலார் எல்லோரும் கண்ணின் பொதுஉண்பர்  
 நண்ணேன் பரந்தநின் மார்பு.  
@@ -71,7 +71,7 @@ I would forget and say "Bless you".
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१२</summary>
 
 1312 ūṭi iruntēmāt tummiṉār yāmtammai  
 nīṭuvāḻ keṉpākku aṟintu.
@@ -79,7 +79,7 @@ nīṭuvāḻ keṉpākku aṟintu.
 1312\. When I sat away from him, he sneezed knowing that I would bless him, saying "May you live long.”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१२</summary>
 
 2\. ஊடி யிருந்தேமாத் தும்மினார் யாம்தம்மை  
 நீடுவாழ் கென்பாக்கு அறிந்து.  
@@ -113,7 +113,7 @@ If I wear a wreath, she cries enraged:
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१३</summary>
 
 1313 kōṭṭuppūc cūṭiṉum kāyum oruttiyaik  
 kāṭṭiya cūṭiṉīr eṉṟu.
@@ -121,7 +121,7 @@ kāṭṭiya cūṭiṉīr eṉṟu.
 1313\. Even if I put on a garland of hill-flowers, my sweetheart will say “You wore this to please some mistress of yours.”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१३</summary>
 
 3\. கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்  
 காட்டிய சூடினீர் என்று.  
@@ -155,7 +155,7 @@ She frowned asking, "Than whom, than whom?" *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१४</summary>
 
 1314 yāriṉum kātalam eṉṟēṉā ūṭiṉāḷ  
 yāriṉum yāriṉum eṉṟu.
@@ -163,7 +163,7 @@ yāriṉum yāriṉum eṉṟu.
 1314\. When I said my beloved was greater than anybody else, she grew angry and repeatedly asked me “Greater than whom?”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१४</summary>
 
 4\. யாரினும் காதலம் என்றேனா ஊடினாள்  
 யாரினும் யாரினும் என்று.  
@@ -202,7 +202,7 @@ Her eyes were filled with tears.
 १३१५. …॥ thinking of next birth
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१५</summary>
 
 1315 immaip piṟappil piriyalam eṉṟēṉāk  
 kaṇniṟai nīrkoṇ ṭaṉaḷ.
@@ -210,7 +210,7 @@ kaṇniṟai nīrkoṇ ṭaṉaḷ.
 1315\. When I said “We shall not separate in this life”, her eyes were full of tears meaning that I would separate from her in the next life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१५</summary>
 
 5\. இம்மைப் பிறப்பில் பிரியலம் என்றேனாக்  
 கண்ணிறை நீர்கொண் டனள்.  
@@ -244,7 +244,7 @@ Her eyes at once with tears were filled.        1315
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१६</summary>
 
 1316 uḷḷiṉēṉ eṉṟēṉmaṟṟu eṉmaṟantīr eṉṟemmaip  
 pullāḷ pulattak kaṉaḷ.
@@ -252,7 +252,7 @@ pullāḷ pulattak kaṉaḷ.
 1316\. When I said ‘I thought of you’, she replied “So you forgot me before” and felt displeased.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१६</summary>
 
 6\. உள்ளினேன் என்றேன்மற்று என்மறந்தீர் என்றென்னைப்  
 புல்லாள் புலத்தக் கனள்.  
@@ -286,7 +286,7 @@ She blessed as I sneezed, but soon recalled it crying:
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१७</summary>
 
 1317 vaḻuttiṉāḷ tummiṉēṉ āka aḻittaḻutāḷ  
 yāruḷḷit tummiṉīr eṉṟu.
@@ -294,7 +294,7 @@ yāruḷḷit tummiṉīr eṉṟu.
 1317\. When I sneezed she blessed me; but she wept and asked me which maiden thought of me when I sneezed.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१७</summary>
 
 7\. வழுத்தினாள் தும்மினே னாக அழித்தழுதாள்  
 யாருள்ளித் தும்மினீர் என்று.  
@@ -328,7 +328,7 @@ When I suppressed my sneeze, she wept saying,
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१८</summary>
 
 1318 tummuc ceṟuppa aḻutāḷ numaruḷḷal  
 emmai maṟaittirō eṉṟu.
@@ -336,7 +336,7 @@ emmai maṟaittirō eṉṟu.
 1318\. When I controlled sneezing, she shed fretful tears and asked whether I tried to conceal the fact that others think of me.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१८</summary>
 
 8\. தும்முச் செறுப்ப அழுதாள் நுமர்உள்ளல்  
 எம்மை மறைத்திரோ என்று.  
@@ -370,7 +370,7 @@ If I try making up with her, she would ask enraged,
 (P.S. Sundaram), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३१९</summary>
 
 1319 taṉṉai uṇarttiṉum kāyum piṟarkkunīr  
 innīrar ākutir eṉṟu.
@@ -378,7 +378,7 @@ innīrar ākutir eṉṟu.
 1319\. She will quarrel with me even if I fully satisfy her, saying “You will behave thus to every woman.”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३१९</summary>
 
 9\. தன்னை உணர்த்தினும் காயும் பிறர்க்குநீர்  
 இந்நீரர் ஆகுதிர் என்று.  
@@ -412,7 +412,7 @@ If I gaze at her in silence, she would fume and ask,
 (K.R. Srinivasa Iyengar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३२०</summary>
 
 1320 niṉaittiruntu nōkkiṉum kāyum aṉaittunīr  
 yāruḷḷi nōkkiṉīr eṉṟu.
@@ -420,7 +420,7 @@ yāruḷḷi nōkkiṉīr eṉṟu.
 1320\. If I look at her silently and appreciate her beauty, she will ask me querulously, “whom you are thinking of?”  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३२०</summary>
 
 10\. நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்  
 யாருள்ளி நோக்கினீர் என்று.  

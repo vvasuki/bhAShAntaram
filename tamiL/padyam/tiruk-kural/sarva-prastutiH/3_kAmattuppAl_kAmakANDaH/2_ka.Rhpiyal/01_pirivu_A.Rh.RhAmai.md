@@ -29,7 +29,7 @@ Who can survive to see your return.
 ११५१. Another way of putting it: “What use is telling me of your departure? Inform that to those who survive to see your return”- (N.V.K. Ashraf)]
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५१</summary>
 
 1151 cellāmai uṇṭēl eṉakkuurai maṟṟuniṉ  
 valvaravu vāḻvārkku urai.
@@ -37,7 +37,7 @@ valvaravu vāḻvārkku urai.
 1151\. If you are not to go away, tell me so that I may sustain my lingering life. If you are to go, return soon.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५१</summary>
 
 1\. செல்லாமை உண்டேல் எனக்குரை மற்றுநின்  
 வல்வரவு வாழ்வார்க்கு உரை.  
@@ -71,7 +71,7 @@ Even his embrace saddens, fearing separation. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५२</summary>
 
 1152 iṉkaṇ uṭaittavar pārval pirivañcum  
 puṉkaṇ uṭaittāl puṇarvu.
@@ -79,7 +79,7 @@ puṉkaṇ uṭaittāl puṇarvu.
 1152\. In the days of courtship what pleasure lay in each glance of his! Now after our union, the prospect of his separation brings gloom even in moments of happiness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५२</summary>
 
 2\. இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்  
 புன்கண் உடைத்தால் புணர்வு.  
@@ -113,7 +113,7 @@ Breaks his word and goes!
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५३</summary>
 
 1153 aritarō tēṟṟam aṟivuṭaiyār kaṇṇum  
 pirivōr iṭattuuṇmai yāṉ.
@@ -121,7 +121,7 @@ pirivōr iṭattuuṇmai yāṉ.
 1153\. Hard it is for me to rest assured; the lover who knows full well my miseries in separation still may part from me, making promises of quick return.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५३</summary>
 
 3\. அரிதரோ தேற்றம் அறிவுடையார் கண்ணும்  
 பிரிவோ ரிடத்துண்மை யான்.  
@@ -155,7 +155,7 @@ Who left me after assuring “fear not”? *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५४</summary>
 
 1154 aḷittañcal eṉṟavar nīppiṉ teḷittacol  
 tēṟiyārkku uṇṭō tavaṟu.
@@ -163,7 +163,7 @@ tēṟiyārkku uṇṭō tavaṟu.
 1154\. How can there be blame on one who has put implicit trust in the comforting words of him who promised to shelter me forever?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५४</summary>
 
 4\. அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்  
 தேறியார்க்கு உண்டோ தவறு.  
@@ -197,7 +197,7 @@ Gone we shall not meet again.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५५</summary>
 
 1155 ōmpiṉ amaintār pirivōmpal maṟṟavar  
 nīṅkiṉ aritāl puṇarvu.
@@ -205,7 +205,7 @@ nīṅkiṉ aritāl puṇarvu.
 1155\. Stop my lord from leaving me; only then can you save my life. Else it will flee at his parting and never again shall we meet.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५५</summary>
 
 5\. ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்  
 நீங்கின் அரிதால் புணர்வு.  
@@ -239,7 +239,7 @@ It is futile to hope for reunion. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५६</summary>
 
 1156 pirivuraikkum vaṉkaṇṇar āyiṉ aritavar  
 nalkuvar eṉṉum nacai.
@@ -247,7 +247,7 @@ nalkuvar eṉṉum nacai.
 1156\. If he is cruel enough to speak of leaving me, I am lost; false it is to entertain any hope of his mercy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५६</summary>
 
 6\. பிரிவுரைக்கும் வன்கண்ண ராயின் அரிதவர்  
 நல்குவர் என்னும் நசை.  
@@ -286,7 +286,7 @@ Forebode the departure of my lord? *
 ११५७. A convention in ancient Tamil poetry was that separation from her lover makes a woman’s hands thin and her bangles loose [Sundaram, १९८९]. The idea is repeated in couplet १२७७.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५७</summary>
 
 1157 tuṟaivaṉ tuṟantamai tūṟṟākol muṉkai  
 iṟaiiṟavā niṉṟa vaḷai.
@@ -294,7 +294,7 @@ iṟaiiṟavā niṉṟa vaḷai.
 1157\. Will not the bracelets slipping loose from my wrist, tell the tale of the separation of my husband?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५७</summary>
 
 7\. துறைவன் துறந்தமை தூற்றாகொல் முன்கை  
 இறைஇறவா நின்ற வளை.  
@@ -328,7 +328,7 @@ Bitter still is to part with one's love. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५८</summary>
 
 1158 iṉṉātu iṉaṉilūr vāḻtal ataṉiṉum  
 iṉṉātu iṉiyārp pirivu.
@@ -336,7 +336,7 @@ iṉṉātu iṉiyārp pirivu.
 1158\. Painful it is to live removed from familiar friends in a far-off village; but far more painful is the parting of the dearest one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५८</summary>
 
 8\. இன்னாது இனன்இல்ஊர் வாழ்தல் அதனினும்  
 இன்னாது இனியார்ப் பிரிவு.  
@@ -375,7 +375,7 @@ Hurt like the passion of love even untouched?
 ११५९. Compare with ११०४. “Whence did she get the fire which burns when far, and cools when near?” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५९</summary>
 
 1159 toṭiṟcuṭiṉ allatu kāmanōy pōla  
 viṭiṉcuṭal āṟṟumō tī.
@@ -383,7 +383,7 @@ viṭiṉcuṭal āṟṟumō tī.
 1159\. Fire can scorch only when touched, but can it, like love, scorch persons away from it?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५९</summary>
 
 9\. தொடின்கடின் அல்லது காமநோய் போல  
 விடிற்சுடல் ஆற்றுமோ தீ.  
@@ -417,14 +417,14 @@ Survive sorrow, and live!
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६०</summary>
 
 1160 aritāṟṟi allalnōy nīkkip pirivāṟṟip  
 piṉiruntu vāḻvār palar.  
 1160\. Many ladies have gracefully borne news of separation, steered clear of sorrow, endured the parting of the loved one and still survived I  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६०</summary>
 
 10\. அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்  
 பின்இருந்து வாழ்வார் பலர்.  

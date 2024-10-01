@@ -25,7 +25,7 @@ Cherish your desire of enmity with the weak. *
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६१</summary>
 
 861 valiyārkku māṟēṟṟal ōmpuka ōmpā  
 meliyārmēṉ mēka pakai.
@@ -33,7 +33,7 @@ meliyārmēṉ mēka pakai.
 861\. Avoid hostility towards the powerful do not cease from hostility towards the weak.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६१</summary>
 
 1\. வலியார்க்கு மாறேற்றல் ஓம்புக ஓம்பா  
 மெலியார்மேல் மேக பகை.  
@@ -67,7 +67,7 @@ How can he survive a strong enemy? *
 (M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६२</summary>
 
 862 aṉpilaṉ āṉṟa tuṇaiyilaṉ tāṉtuvvāṉ  
 eṉpariyum ētilāṉ tuppu.
@@ -75,7 +75,7 @@ eṉpariyum ētilāṉ tuppu.
 862\. One devoid of love has neither the strength nor support. How can he stem the tide of the advancing foe?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६२</summary>
 
 2\. அன்பிலன் ஆன்ற துணையிலன் தான்துவ்வான்  
 என்பரியும் ஏதிலான் துப்பு.  
@@ -109,7 +109,7 @@ Is an easy prey to his enemy.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६३</summary>
 
 863 añcum aṟiyāṉ amaivilaṉ īkalāṉ  
 tañcam eḷiyaṉ pakaikku.
@@ -117,7 +117,7 @@ tañcam eḷiyaṉ pakaikku.
 863\. He who is cowardly, ignorant, restless and niggardly, falls an easy prey to his enemy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६३</summary>
 
 3\. அஞ்சும் அறியான் அமைவிலன் ஈகலான்  
 தஞ்சம் எளியன் பகைக்கு.  
@@ -151,7 +151,7 @@ To anyone, anytime, anywhere.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६४</summary>
 
 864 nīṅkāṉ vekuḷi niṟaiyilaṉ eññāṉṟum  
 yāṅkaṇum yārkkum eḷitu.
@@ -159,7 +159,7 @@ yāṅkaṇum yārkkum eḷitu.
 864\. He who does not abstain from anger and has insufficient resources can be attacked by any one at any time.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६४</summary>
 
 4\. நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்  
 யாங்கணும் யார்க்கும் எளிது.  
@@ -193,7 +193,7 @@ Who cares not for codes and scorns.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६५</summary>
 
 865 vaḻinōkkāṉ vāyppaṉa ceyyāṉ paḻinōkkāṉ  
 paṇpilaṉ paṟṟārkku iṉitu.
@@ -201,7 +201,7 @@ paṇpilaṉ paṟṟārkku iṉitu.
 865\. He who does not walk in the right path or follow the rule, who is callous to public odium falls an easy victim to his enemies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६५</summary>
 
 5\. வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்  
 பண்பிலன் பற்றார்க்கு இனிது.  
@@ -235,7 +235,7 @@ Are vulnerable enemies to be nursed with.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६६</summary>
 
 866 kāṇāc ciṉattāṉ kaḻiperum kāmattāṉ  
 pēṇāmai pēṇap paṭum.
@@ -243,7 +243,7 @@ pēṇāmai pēṇap paṭum.
 866\. One can court the enmity of the blindly wrathful and the inordinately lustful.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६६</summary>
 
 6\. காணாச் சினத்தான் கழிபெருங் காமத்தான்  
 பேணாமை பேணப் படும்.  
@@ -277,7 +277,7 @@ Who starts a fight and does all wrong.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६७</summary>
 
 867 koṭuttum koḷalvēṇṭum maṉṟa aṭuttiruntu  
 māṇāta ceyvāṉ pakai.
@@ -285,7 +285,7 @@ māṇāta ceyvāṉ pakai.
 867\. It is good to get the enmity of one who is blind to one’s purpose.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६७</summary>
 
 7\. கொடுத்தும் கொளல்வேண்டும் மன்ற அடுத்திருந்து  
 மாணாத செய்வான் பகை.  
@@ -319,7 +319,7 @@ With no virtues, many vices, and no allies. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६८</summary>
 
 868 kuṇaṉilaṉāyk kuṟṟam palavāyiṉ māṟṟārkku  
 iṉaṉilaṉām ēmāppu uṭaittu.
@@ -327,7 +327,7 @@ iṉaṉilaṉām ēmāppu uṭaittu.
 868\. One who is void of virtue but full of vice invites the foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६८</summary>
 
 8\. குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்கு  
 இனனிலனாம் ஏமாப்பு உடைத்து.  
@@ -361,7 +361,7 @@ When they get a fool and coward as a foe. *
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८६९</summary>
 
 869 ceṟuvārkkuc cēṇikavā iṉpam aṟivilā  
 añcum pakaivarp peṟiṉ.
@@ -369,7 +369,7 @@ añcum pakaivarp peṟiṉ.
 869\. The cowardly and the foolish gladden the heart of the foe beyond measure.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८६९</summary>
 
 9\. செறுவார்க்குச் சேணிகவா இன்பம் அறிவிலா  
 அஞ்சும் பகைவர்ப் பெறின்.  
@@ -408,7 +408,7 @@ Who cannot overcome an ignorant foe. *
 ८७०. A couplet that has been translated differently by different authors: (Satguru Subramuniyaswami) puts it as: "Fame will escape the grasp of those who fail to grasp the wealth of fools who failed to learn". Manakkudavar, one of the great ancient commentators of Kural, takes these words "कल्लान्, वॆगुळुम्, सिऱुबॊरुळ्" to mean "ignorant, angry and deficient" as attributes of an enemy [Diaz, २०००]. Other interesting translation is: "Fame will escape him who lets escape an easy victory over a fool" – (P.S. Sundaram). 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७०</summary>
 
 870 kallāṉ vekuḷum ciṟuporuḷ eññāṉṟum  
 ollāṉai ollātu oḷi.
@@ -416,7 +416,7 @@ ollāṉai ollātu oḷi.
 870\. Glory awaits one who does not exploit the ignorant.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७०</summary>
 
 10\. கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும்  
 ஒல்லானை ஒல்லாது ஒளி.  

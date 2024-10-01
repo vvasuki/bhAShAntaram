@@ -24,7 +24,7 @@ Show attachment even in adversity.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२१</summary>
 
 521\. paṟṟu aṟṟakaṇṇum paḻamai pārāṭṭutal  
 cuṟṟattārkaṇṇē uḷa.
@@ -32,7 +32,7 @@ cuṟṟattārkaṇṇē uḷa.
 521\. It is one’s own kith and kin that cherish their old attachments to men out of suit with fortune.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२१</summary>
 
 1\. பற்றற்ற கண்ணும் பழமைபா ராட்டுதல்  
 சுற்றத்தார் கண்ணே யுள  
@@ -66,7 +66,7 @@ Wealth of all kinds never fail to flow. *
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२२</summary>
 
 522\. viruppu aṟāc cuṟṟam iyaiyiṉ, aṟuppu aṟā  
 ākkam palavum tarum.
@@ -74,7 +74,7 @@ Wealth of all kinds never fail to flow. *
 522\. One’s unceasing kinship is the source of all one’s fortune.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२२</summary>
 
 2\. விருப்பறாச் சுற்றம் இயையின் அருப்பறா  
 ஆக்கம் பலவுந் தரும்.  
@@ -113,7 +113,7 @@ Is like a boundless pond flowing unbound.
 ५२३. Compare with २१५. “The wealth of a wise philanthropist is a village pool ever full” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२३</summary>
 
 523\. aḷavaḷāvu illātāṉ vāḻkkai-kuḷavaḷāk  
 kōṭu iṉṟi nīr niṟaintaṟṟu.
@@ -121,7 +121,7 @@ kōṭu iṉṟi nīr niṟaintaṟṟu.
 523\. The life of one with no kin will be like overflowing waters of a tank with no bund.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२३</summary>
 
 3\. அளவளா வில்லாதான் வாழ்க்கை குளவளாக்  
 கோடின்றி நீர்நிறைந் தற்று.  
@@ -155,7 +155,7 @@ One gains by gaining wealth.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२४</summary>
 
 524\. cuṟṟattāl cuṟṟappaṭa oḻukal, celvamtāṉ  
 peṟṟattāl peṟṟa payaṉ.
@@ -163,7 +163,7 @@ peṟṟattāl peṟṟa payaṉ.
 524\. The value of one’s wealth consists in a life surrounded by one’s kinsmen.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२४</summary>
 
 4\. சுற்றத்தால் சுற்றப் படஒழுகல் செல்வந்தான்  
 பெற்றத்தால் பெற்ற பயன்.  
@@ -197,7 +197,7 @@ To be circled by circles of kin. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२५</summary>
 
 525\. koṭuttalum iṉ colum āṟṟiṉ, aṭukkiya  
 cuṟṟattāl cuṟṟappaṭum.
@@ -205,7 +205,7 @@ cuṟṟattāl cuṟṟappaṭum.
 525\. One delights in the company of one generous of heart and suave of speech.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२५</summary>
 
 5\. கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய  
 சுற்றத்தால் சுற்றப் படும்.  
@@ -239,7 +239,7 @@ Who is liberal and curbs his wrath. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२६</summary>
 
 526\. peruṅ koṭaiyāṉ, pēṇāṉ vekuḷi, avaṉiṉ  
 maruṅku uṭaiyār mā nilattu il.
@@ -247,7 +247,7 @@ maruṅku uṭaiyār mā nilattu il.
 526\. Nothing excels on earth the love of one large of heart and free of wrath, but shares it with the rest.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२६</summary>
 
 6\. பெரும்கொடையான் பேணான் வெகுளி அவனின்  
 மருங்குஉடையார் மாநிலத்து இல்.  
@@ -281,7 +281,7 @@ Prosperity also abides with such men.
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२७</summary>
 
 527\. kākkai karavā karaintu uṇṇum; ākkamum  
 aṉṉa nīrārkkē uḷa.
@@ -289,7 +289,7 @@ aṉṉa nīrārkkē uḷa.
 527\. Fortune smiles on one of like disposition.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२७</summary>
 
 7\. காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்  
 அன்னநீ ரார்க்கே உள.  
@@ -323,7 +323,7 @@ Not seeing mere sameness in all.
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२८</summary>
 
 528\. potu nōkkāṉ, vēntaṉ varicaiyā nōkkiṉ,  
 atu nōkki vāḻvār palar.
@@ -331,7 +331,7 @@ atu nōkki vāḻvār palar.
 528\. The king must not be indifferent to one’s deserts but reward people according to their merit.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२८</summary>
 
 8\. பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின்  
 அதுநோக்கி வாழ்வார் பலர்.  
@@ -365,7 +365,7 @@ Once the cause of dissociation is removed.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५२९</summary>
 
 529\. tamar āki, taṉ-tuṟantār cuṟṟam amarāmaik  
 kāraṇam iṉṟi varum.
@@ -373,7 +373,7 @@ kāraṇam iṉṟi varum.
 529\. Reject none on the score of disagreement. Men who have become estranged will flock to you.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५२९</summary>
 
 9\. தமராகித் தற்றுறந்தார் சுற்றம் அமராமைக்  
 காரணம் இன்றி வரும்.  
@@ -407,7 +407,7 @@ Who wish to come back.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५३०</summary>
 
 530\. uḻaip pirintu kāraṇattiṉ vantāṉai, vēntaṉ  
 iḻaittu iruntu, eṇṇik koḷal.
@@ -415,7 +415,7 @@ iḻaittu iruntu, eṇṇik koḷal.
 530\. Let the king embrace his estranged kith and kin by redressing their grievances.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५३०</summary>
 
 10\. உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்  
 இழைத்திருந்து எண்ணிக் கொளல்.  

@@ -30,7 +30,7 @@ The rest are like shyness of pretty women.
 १०११. An alternate translation given by (J. Narayanaswamy) will explain this better: “Sense of shame to harmful acts and the blushing of pretty faces in modesty, are not the same”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०११</summary>
 
 1011 karumattāl nāṇutal nāṇut tirunutal  
 nallavar nāṇup piṟa.
@@ -38,7 +38,7 @@ nallavar nāṇup piṟa.
 1011\. True modesty shrinks from littleness. All other forms of modesty are womanish.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०११</summary>
 
 1\. கருமத்தால் நாணுதல் நாணுத்; திருநுதல்  
 நல்லவர் நாணுப் பிற.  
@@ -72,7 +72,7 @@ Distinction comes from sensitivity to shame. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१२</summary>
 
 1012 ūṇuṭai eccam uyirkkellām vēṟalla  
 nāṇuṭaimai māntar ciṟappu.
@@ -80,7 +80,7 @@ nāṇuṭaimai māntar ciṟappu.
 1012\. Common to all human beings are food and clothing and other necessaries of life. But what distinguishes them is modesty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१२</summary>
 
 2\. ஊணுடை எச்சம் உயிர்க்கெல்லாம் வேறல்ல  
 நாணுடைமை மாந்தர் சிறப்பு.  
@@ -114,7 +114,7 @@ And the goodness called modesty in perfection.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१३</summary>
 
 1013 ūṉaik kuṟitta uyirellām nāṇeṉṉum  
 naṉmai kuṟittatu cālpu.
@@ -122,7 +122,7 @@ naṉmai kuṟittatu cālpu.
 1013\. Man clings to his body. The noble clings to modesty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१३</summary>
 
 3\. ஊனைக் குறித்த உயிரெல்லாம் நாண்என்னும்  
 நன்மை குறித்தது சால்பு.  
@@ -156,7 +156,7 @@ And without it a curse for their pride and demeanor? *
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१४</summary>
 
 1014 aṇiyaṉṟō nāṇuṭaimai cāṉṟōrkku aḵtiṉṟēl  
 piṇiyaṉṟō pīṭu naṭai.
@@ -164,7 +164,7 @@ piṇiyaṉṟō pīṭu naṭai.
 1014\. Disgraceful is the painted pomp of the life of the immodest.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१४</summary>
 
 4\. அணிஅன்றோ நாணுடைமை சான்றோர்க்கு அஃதின்றேல்  
 பிணிஅன்றோ பீடு நடை.  
@@ -198,7 +198,7 @@ Who blush for their and others’ blame. *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१५</summary>
 
 1015 piṟarpaḻiyum tampaḻipōl nāṇuvār nāṇukku  
 uṟaipati eṉṉum ulaku.
@@ -206,7 +206,7 @@ uṟaipati eṉṉum ulaku.
 1015\. The world finds the very abode of modesty in one who dreads one’s infamy and that of others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१५</summary>
 
 5\. பிறர்பழியும் தம்பழியும் நாணுவார் நாணுக்கு  
 உறைபதி என்னும் உலகு.  
@@ -240,7 +240,7 @@ Than breach it to acquire the vast world. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१६</summary>
 
 1016 nāṇvēli koḷḷātu maṉṉō viyaṉñālam  
 pēṇalar mēlā yavar.
@@ -248,7 +248,7 @@ pēṇalar mēlā yavar.
 1016\. The great prefer modesty to the riches of the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१६</summary>
 
 6\. நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்  
 பேணலர் மேலா யவர்.  
@@ -287,7 +287,7 @@ But never abandon honour to save life. *
 १०१७. Compare with ९६२. “Those who desire fame with honour will not sacrifice honour for fame” – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१७</summary>
 
 1017 nāṇāl uyirait tuṟappar uyirpporuṭṭāl  
 nāṇtuṟavār nāṇāḷ pavar.
@@ -295,7 +295,7 @@ nāṇtuṟavār nāṇāḷ pavar.
 1017\. Better retain modesty than cling to life. The noble would rather die than lose modesty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१७</summary>
 
 7\. நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்  
 நாண்துறவார் நாண்ஆள் பவர்.  
@@ -329,7 +329,7 @@ From what others shy from. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१८</summary>
 
 1018 piṟarnāṇat takkatu tāṉnāṇāṉ āyiṉ  
 aṟamnāṇat takkatu uṭaittu.
@@ -337,7 +337,7 @@ aṟamnāṇat takkatu uṭaittu.
 1018\. One who does not shrink from what others blush at knows no righteousness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१८</summary>
 
 8\. பிறர்நாணத் தக்கது தான்நாணா னாயின்  
 அறம்நாணத் தக்கது உடைத்து.  
@@ -371,7 +371,7 @@ But every good is lost by lack of shame. *
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१९</summary>
 
 1019 kulañcuṭum koḷkai piḻaippiṉ nalañcuṭum  
 nāṇiṉmai niṉṟak kaṭai.
@@ -379,7 +379,7 @@ nāṇiṉmai niṉṟak kaṭai.
 1019\. Lack of decorum disgraces a home; lack of modesty destroys everything good.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१९</summary>
 
 9\. குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும்  
 நாணின்மை நின்றக் கடை.  
@@ -418,7 +418,7 @@ Are like those of puppets moved by a string. *
 १०२०. Compare with १०५८. “Without beggars this vast scenic world would be a stage of puppets that come and go” - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२०</summary>
 
 1020 nāṇakattu illār iyakkam marappāvai  
 nāṇāl uyirmaruṭṭi aṟṟu.
@@ -426,7 +426,7 @@ nāṇāl uyirmaruṭṭi aṟṟu.
 1020\. The activity of those lacking in modesty is like that of a marionette.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२०</summary>
 
 10\. நாண்அகத் தில்லார் இயக்கம் மரப்பாவை  
 நாணால் உயிர்மருட்டி யற்று.  

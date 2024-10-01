@@ -29,7 +29,7 @@ The wanton pride of sinful action.
 २०१. Compare with ४२८. "It is folly not to fear what ought to be feared. The wise dread what ought to be dreaded" * - (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०१</summary>
 
 201\. tīviṉaiyār añcār; viḻumiyār añcuvar-  
 tīviṉai eṉṉum cerukku.
@@ -37,7 +37,7 @@ tīviṉai eṉṉum cerukku.
 201\. Men hardened in sins do not fear evil; but the good dread it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०१</summary>
 
 1\. தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்  
 தீவினை என்னுஞ் செருக்கு  
@@ -71,7 +71,7 @@ Fear evil more than fire. *
 (K. Kannan), (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०२</summary>
 
 202\. tīyavai tīya payattalāṉ, tīyavai  
 tīyiṉum añcappaṭum.
@@ -79,7 +79,7 @@ tīyiṉum añcappaṭum.
 202\. Evil is to be dreaded more than fire; for it lands one in disaster.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०२</summary>
 
 2\. தீயவை தீய பயத்தலால் தீயவை  
 தீயினும் அஞ்சப் படும்  
@@ -118,7 +118,7 @@ Is not to return ill even to foes. *
 २०३. Compare with ३१२. “The code of the pure in heart is not to hurt in return any hurt caused in hate” * - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०३</summary>
 
 203\. aṟiviṉuḷ ellām talai eṉpa-tīya  
 ceṟuvārkkum ceyyā viṭal.
@@ -126,7 +126,7 @@ ceṟuvārkkum ceyyā viṭal.
 203\. Not to return evil to those who do evil unto you, is, they say, the crown of wisdom.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०३</summary>
 
 3\. அறிவினுள் எல்லாந் தலையென்ப தீய  
 செறுவார்க்கும் செய்யா விடல்  
@@ -160,7 +160,7 @@ Else, justice will plot the plotter's fall. *
 (G.U. Pope), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०४</summary>
 
 204\. maṟantum piṟaṉ kēṭu cūḻaṟka! cūḻiṉ,  
 aṟam cūḻum, cūḻntavaṉ kēṭu.
@@ -168,7 +168,7 @@ aṟam cūḻum, cūḻntavaṉ kēṭu.
 204\. Let none plot evil to others even in forgetfulness. If he does so, the God of Righteousness will compass his ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०४</summary>
 
 4\. மறந்தும் பிறன்கேடு சூழற்க சூழின்  
 அறஞ்சூழும் சூழ்ந்தவன் கேடு  
@@ -202,7 +202,7 @@ Whereby you will become poorer still.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०५</summary>
 
 205\. 'ilaṉ' eṉṟu tīyavai ceyyaṟka! ceyyiṉ,  
 ilaṉ ākum, maṟṟum peyarttu.
@@ -210,7 +210,7 @@ ilaṉ ākum, maṟṟum peyarttu.
 205\. Let none do wrong on account of poverty; if he does so he becomes poorer still.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०५</summary>
 
 5\. இலன்என்று தீயவை செய்யற்க செய்யின்  
 இலனாகும் மற்றும் பெயர்த்து  
@@ -244,7 +244,7 @@ Not be a cause of suffering to others.
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०६</summary>
 
 206\. tīp pāla tāṉ piṟarkaṇ ceyyaṟka-nōyp pāla  
 taṉṉai aṭal vēṇṭātāṉ!.
@@ -252,7 +252,7 @@ taṉṉai aṭal vēṇṭātāṉ!.
 206\. Let not one do evil unto others, if one wants to be free from affliction.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०६</summary>
 
 6\. தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால  
 தன்னை அடல்வேண்டா தான்  
@@ -286,7 +286,7 @@ But not from the relentless pursuit of evil deeds. *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०७</summary>
 
 207\. eṉaip pakai uṟṟārum uyvar; viṉaip pakai  
 vīyātu, piṉ ceṉṟu, aṭum.
@@ -294,7 +294,7 @@ vīyātu, piṉ ceṉṟu, aṭum.
 207\. You may escape your enemies but your evil follows you and hunts you down relentlessly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०७</summary>
 
 7\. எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை  
 வீயாது பின்சென்று அடும்  
@@ -328,7 +328,7 @@ Like the persistent shadow under the feet.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०८</summary>
 
 208\. tīyavai ceytār keṭutal niḻal taṉṉai  
 vīyātu aṭi uṟaintaṟṟu.
@@ -336,7 +336,7 @@ vīyātu aṭi uṟaintaṟṟu.
 208\. Evil dogs you close on your heels like a shadow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०८</summary>
 
 8\. தீயவை செய்தார் கெடுதல் நிழல்தன்னை  
 வீயாது அடிஉரைந் தற்று  
@@ -370,7 +370,7 @@ Refrain from causing ill of any degree. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०९</summary>
 
 209\. taṉṉait tāṉ kātalaṉ āyiṉ, eṉaittu oṉṟum  
 tuṉṉaṟka, tīviṉaip pāl!.
@@ -378,7 +378,7 @@ tuṉṉaṟka, tīviṉaip pāl!.
 209\. If one really loves oneself let one not do any harm to others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०९</summary>
 
 9\. தன்னைத்தான் காதல னாயின் எனைத்தொன்றும்  
 துன்னற்க தீவினைப் பால்  
@@ -412,7 +412,7 @@ Who never strays into evil. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१०</summary>
 
 210\. aruṅ kēṭaṉ eṉpatu aṟika-maruṅku ōṭit  
 tīviṉai ceyyāṉ eṉiṉ?.
@@ -420,7 +420,7 @@ tīviṉai ceyyāṉ eṉiṉ?.
 210\. Hardly doth sorrow befall one who does not deviate from right.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१०</summary>
 
 210\. aruṅ kēṭaṉ eṉpatu aṟika-maruṅku ōṭit  
 tīviṉai ceyyāṉ eṉiṉ?.
@@ -429,7 +429,7 @@ tīviṉai ceyyāṉ eṉiṉ?.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१०</summary>
 
 10\. அருங்கேடன் என்பது அறிக மருங்கோடித்  
 தீவினை செய்யான் எனின்  

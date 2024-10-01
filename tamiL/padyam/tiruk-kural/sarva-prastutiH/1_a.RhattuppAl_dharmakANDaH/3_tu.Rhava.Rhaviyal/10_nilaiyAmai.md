@@ -24,7 +24,7 @@ That takes the fleeting for the permanent.
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३१</summary>
 
 331\. nillātavaṟṟai nilaiyiṉa eṉṟu uṇarum  
 pullaṟivu āṇmai kaṭai.
@@ -32,7 +32,7 @@ pullaṟivu āṇmai kaṭai.
 331\. It is contemptible folly to mistake the unstable for the stable.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३१</summary>
 
 1\. நில்லாத வற்றை நிலையின என்றுணரும்  
 புல்லறி வாண்மை கடை.  
@@ -66,7 +66,7 @@ Gathers and melts.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३२</summary>
 
 332\. kūttāṭṭu avaikkuḻāttaṟṟē, peruñ celvam;  
 pōkkum, atu viḷintaṟṟu.
@@ -74,7 +74,7 @@ pōkkum, atu viḷintaṟṟu.
 332\. The flow of fortune is like the gathering of a crowd at a concert; its ebb is like the melting of the crowd at its close.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३२</summary>
 
 2\. கூத்தாட்டு அவைக்குழாத் தற்றே பெருஞ்செல்வம்  
 போக்கும் அதுவிளிந் தற்று.  
@@ -108,7 +108,7 @@ Forthwith do something not perishable.*
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३३</summary>
 
 333\. aṟkā iyalpiṟṟuc celvam; atu peṟṟāl,  
 aṟkupa āṅkē ceyal.
@@ -116,7 +116,7 @@ aṟkupa āṅkē ceyal.
 333\. Fortune is fickle; if you come by it delay not; put it to proper use.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३३</summary>
 
 3\. அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால்  
 அற்குப ஆங்கே செயல்.  
@@ -150,7 +150,7 @@ A relentless slicing of a saw through one's life. *
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३४</summary>
 
 334\. nāḷ eṉa oṉṟupōl kāṭṭi, uyir, īrum  
 vāḷatu-uṇarvārp peṟiṉ.
@@ -158,7 +158,7 @@ vāḷatu-uṇarvārp peṟiṉ.
 334\. Time seems all laughter; but to the discerning it is a saw sawing away the life of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३४</summary>
 
 4\. நாளென ஒன்றுபோல் காட்டி உயிர்ஈரும்  
 வாளது உணர்வார்ப் பெறின்  
@@ -192,7 +192,7 @@ Benumbs and deadly hiccup descends. *
 (K. Kannan), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३५</summary>
 
 335\. nāc ceṟṟu, vikkuḷ mēlvārāmuṉ, nal viṉai  
 mēṟceṉṟu ceyyappaṭum.
@@ -200,7 +200,7 @@ mēṟceṉṟu ceyyappaṭum.
 335\. Before hiccough arises and before the tongue is paralysed, do good that leads to salvation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३५</summary>
 
 5\. நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை  
 மேற்சென்று செய்யப் படும்  
@@ -234,7 +234,7 @@ That is the glory of earthly life.
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३६</summary>
 
 336\. 'nerunal uḷaṉ, oruvaṉ; iṉṟu illai!' eṉṉum  
 perumai uṭaittu, iv ulaku.
@@ -242,7 +242,7 @@ perumai uṭaittu, iv ulaku.
 336\. Yesterday he was but to-day he is not; this is the glory of the earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३६</summary>
 
 6\. நெருநல் உளனொருவன் இன்றில்லை என்னும்  
 பெருமை உடைத்துஇவ் வுலகு.  
@@ -276,7 +276,7 @@ Make more than a million plans. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३७</summary>
 
 337\. oru poḻutum vāḻvatu aṟiyār, karutupa-  
 kōṭiyum alla, pala.
@@ -284,7 +284,7 @@ kōṭiyum alla, pala.
 337\. One is not sure what awaits him the next moment; but he becomes a prey to a thousand and one thoughts.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३७</summary>
 
 7\. ஒருபொழுதும் வாழ்வது அறியார் கருதுப  
 கோடியும் அல்ல பல.  
@@ -323,7 +323,7 @@ Is like the bird that flies away from the nest.
 ३३८. Most translators render the word "कुडम्बै" as "egg-shell" [(P.S. Sundaram), (J. Narayanaswamy), ( Shuddhananda Bharatiar), (V.V.S. Aiyar), (W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar), (Satguru Subramuniyaswami), (K.R. Srinivasa Iyengar)], while (K. Kannan) and (G.U. Pope) take it as "nest". (V. Ramasamy) discusses the drawback in translating the word as "egg-shell" at length and says this meaning came to be associated with the word only after Parimelazhagar's time [Ramasamy, २००१]. Mamakkudavar and Kalingar, whose commentaries appeared before Parimelazhagar, mention that the meaning of "कुडम्बै" is nest. (V. Ramasamy) adds that no fledging flies when it comes out of the egg-shell and only to an intact nest could be compared to the human body, which remains intact even after the soul has left. Pertinent to bring here a reference to the same from the Semitic world: "Our soul has escaped as a bird out of the snare of the trapper" [Psalm, १२४:७].
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३८</summary>
 
 338\. kuṭampai taṉittu oḻiyap puḷ paṟantaṟṟē-  
 uṭampoṭu uyiriṭai naṭpu.
@@ -331,7 +331,7 @@ uṭampoṭu uyiriṭai naṭpu.
 338\. The attachment of life to the body is like that of a full-fledged bird flying from its broken shell.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३८</summary>
 
 8\. குடம்பை தனித்துஒழியப் புள்பறந் தற்றே  
 உடம்போடு உயிரிடை நட்பு.  
@@ -365,7 +365,7 @@ And birth an awakening from it.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३३९</summary>
 
 339\. uṟaṅkuvatu pōlum, cākkāṭu; uṟaṅki  
 viḻippatu pōlum, piṟappu.
@@ -373,7 +373,7 @@ viḻippatu pōlum, piṟappu.
 339\. Death is like sleep, birth is that awakening from sleep.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३३९</summary>
 
 9\. உறங்கு வதுபோலும் சாக்காடு உறங்கி  
 விழிப்பது போலும் பிறப்பு.  
@@ -407,7 +407,7 @@ Which takes a temporary shelter in the body?
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३४०</summary>
 
 340\. pukkil amaintiṉṟukollō-uṭampiṉuḷ  
 tuccil irunta uyirkku!.
@@ -415,7 +415,7 @@ tuccil irunta uyirkku!.
 340\. Why should the soul seek a temporary shelter in the perishable body? Is there not a durable habitation for it?
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३४०</summary>
 
 340\. pukkil amaintiṉṟukollō-uṭampiṉuḷ  
 tuccil irunta uyirkku!.
@@ -424,7 +424,7 @@ tuccil irunta uyirkku!.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३४०</summary>
 
 10\. புக்கில் அமைந்தின்று கொல்லோ உடம்பினுள்  
 துச்சில் இருந்த உயிர்க்கு  

@@ -25,7 +25,7 @@ As it wanes than as it grows. *
 (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८११</summary>
 
 811 parukuvār pōliṉum paṇpilār kēṇmai  
 perukalil kuṉṟal iṉitu.
@@ -33,7 +33,7 @@ perukalil kuṉṟal iṉitu.
 811\. Let that kind of friendship diminish rather than increase if it is really pretentious and devoid of genuine feeling.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८११</summary>
 
 1\. பருகுவார் போலினும் பண்பிலார் கேண்மை  
 பெருகலிற் குன்றல் இனிது.  
@@ -72,7 +72,7 @@ Which sticks and ends at will?
 ८१२: A short and crisp translation, but not close to original: "What matters if one gain or lose a motivated friendship?" – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१२</summary>
 
 812 uṟiṉnaṭṭu aṟiṉorūum oppilār kēṇmai  
 peṟiṉum iḻappiṉum eṉ.
@@ -80,7 +80,7 @@ peṟiṉum iḻappiṉum eṉ.
 812\. What does it matter whether we gain or lose the equal friendship of those who befriend if advantageous to them and betray if disadvantageous?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१२</summary>
 
 2\. உறின்நட்டு அறின்ஒரூஉம் ஒப்பிலார் கேண்மை  
 பெறினும் இழப்பினும் என்.  
@@ -114,7 +114,7 @@ Are no different from whores and frauds.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१३</summary>
 
 813 uṟuvatu cīrtūkkum naṭpum peṟuvatu  
 koḷvārum kaḷvarum nēr.
@@ -122,7 +122,7 @@ koḷvārum kaḷvarum nēr.
 813\. Those who value friendship for the gain thereof are only avaricious prostitutes and thieves.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१३</summary>
 
 3\. உறுவது சீர்தூக்கும் நட்பும் பெறுவது  
 கொள்வாரும் கள்வரும் நேர்.  
@@ -156,7 +156,7 @@ Who, like a broken horse, throw you down.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१४</summary>
 
 814 amarakattu āṟṟaṟukkum kallāmā aṉṉār  
 tamariṉ taṉimai talai.
@@ -164,7 +164,7 @@ tamariṉ taṉimai talai.
 814\. Better solitude than the alliance of the wicked who fail like the unbroken steed its rider in the battlefield.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१४</summary>
 
 4\. அமரகத்து ஆற் றறுக்கும் கல்லாமா அன்னார்  
 தமரின் தனிமை தலை.  
@@ -198,7 +198,7 @@ Who betray at need. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१५</summary>
 
 815 ceytēmam cārāc ciṟiyavar puṉkēṇmai  
 eytaliṉ eytāmai naṉṟu.
@@ -206,7 +206,7 @@ eytaliṉ eytāmai naṉṟu.
 815\. Better to abandon than contract the friendship of the lowly who do not aid you in adversity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१५</summary>
 
 5\. செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை  
 எய்தலின் எய்தாமை நன்று.  
@@ -240,7 +240,7 @@ Than a fool's fast friendship. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१६</summary>
 
 816 pētai peruṅkeḻīi naṭpiṉ aṟivuṭaiyār  
 ētiṉmai kōṭi uṟum.
@@ -248,7 +248,7 @@ Than a fool's fast friendship. *
 816\. Very much more valuable is the hatred of the wise than the doting friendship of fools.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१६</summary>
 
 6\. பேதை பெருங்கெழீஇ நட்பின் அறிவுடையார்  
 ஏதின்மை கோடி உறும்.  
@@ -282,7 +282,7 @@ Than the friendship of jesters and fools. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१७</summary>
 
 817 nakaivakaiyar ākiya naṭpiṉ pakaivarāl  
 pattaṭutta kōṭi uṟum.
@@ -290,7 +290,7 @@ pattaṭutta kōṭi uṟum.
 817\. Ten thousand times better is the enmity of foes than the friendship which makes one a laughing stock.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१७</summary>
 
 7\. நகைவகைய ராகிய நட்பின் பகைவரால்  
 பத்தடுத்த கோடி உறும்.  
@@ -324,7 +324,7 @@ And won't help when they can.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१८</summary>
 
 818 olluṅ karumam uṭaṟṟu pavarkēṇmai  
 collāṭār cōra viṭal.
@@ -332,7 +332,7 @@ collāṭār cōra viṭal.
 818\. Abandon without fuss friends who make a possible thing impossible.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१८</summary>
 
 8\. ஒல்லும் கருமம் உடற்று பவர்கேண்மை  
 சொல்லாடார் சோர விடல்.  
@@ -366,7 +366,7 @@ Distress even in dreams.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८१९</summary>
 
 819 kaṉaviṉum iṉṉātu maṉṉō viṉaivēṟu  
 colvēṟu paṭṭār toṭarpu.
@@ -374,7 +374,7 @@ colvēṟu paṭṭār toṭarpu.
 819\. The alliances of men whose words are different from their deeds afford no pleasure even in a dream.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८१९</summary>
 
 9\. கனவினும் இன்னாது மன்னோ வினைவேறு  
 சொல்வேறு பட்டார் தொடர்பு.  
@@ -408,7 +408,7 @@ And foes in public.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२०</summary>
 
 820 eṉaittum kuṟukutal ōmpal maṉaikkeḻīi  
 maṉṟil paḻippār toṭarpu.
@@ -416,7 +416,7 @@ maṉṟil paḻippār toṭarpu.
 820\. Avoid the friendship however little, of those who befriend you at home but betray you in the assembly (public).  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२०</summary>
 
 10\. எனைத்தும் குறுகுதல் ஓம்பல் மனைக்கெழீஇ  
 மன்றில் பழிப்பார் தொடர்பு.  

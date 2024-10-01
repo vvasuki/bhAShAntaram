@@ -24,7 +24,7 @@ But why don’t you stand by me? *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९१</summary>
 
 1291 avarneñcu avarkkātal kaṇṭum evaṉneñcē  
 nīemakku ākā tatu.
@@ -32,7 +32,7 @@ nīemakku ākā tatu.
 1291\. O! My heart, though you know that my husband’s heart thinks only o^ himself, how is it you think of him and not of me?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९१</summary>
 
 1\. அவர்நெஞ்சு அவர்க்காதல் கண்டும் எவன்நெஞ்சே  
 நீஎமக்கு ஆகா தது.  
@@ -66,7 +66,7 @@ Why do you go after him in hope? *
 (P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९२</summary>
 
 1292 uṟāa tavarkaṇṭa kaṇṇum avaraic  
 ceṟāareṉac cēṟieṉ neñcu.
@@ -74,7 +74,7 @@ ceṟāareṉac cēṟieṉ neñcu.
 1292\. O! My heart, knowing that he has no thought for you, still you run after him expecting no refusal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९२</summary>
 
 2\. உறாஅ தவர்கண்ட கண்ணும் அவரைச்  
 செறாஅரெனச் சேறிஎன் நெஞ்சு.  
@@ -108,7 +108,7 @@ That you madly run after him?
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९३</summary>
 
 1293 keṭṭārkku naṭṭāril eṉpatō neñcēnī  
 peṭṭāṅku avarpiṉ celal.
@@ -116,7 +116,7 @@ peṭṭāṅku avarpiṉ celal.
 1293\. 0! My heart, you go after him without my permission. Is it because none will befriend those in adversity?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९३</summary>
 
 3\. கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ  
 பெட்டாங்கு அவர்பின் செலல்.  
@@ -155,7 +155,7 @@ Having failed to sulk before yielding? *
 १२९४. Compare with १२८४. "My friend, I went all set to quarrel, but my heart forgot and clasped him" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९४</summary>
 
 1294 iṉiaṉṉa niṉṉoṭu cūḻvāryār neñcē  
 tuṉiceytu tuvvāykāṇ maṟṟu.
@@ -163,7 +163,7 @@ tuṉiceytu tuvvāykāṇ maṟṟu.
 1294\. O! My heart, if you see him, you do not resent his faults. Who can consult you for advice?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९४</summary>
 
 4\. இனிஅன்ன நின்னோடு சூழ்வார்யார் நெஞ்சே  
 துனிசெய்து துவ்வாய்காண் மற்று.  
@@ -202,7 +202,7 @@ Either way my heart is always anxious.
 १२९५. Compare with ११७९. "Sleepless when he is not here, sleepless when he is, either way my eyes never rest" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९५</summary>
 
 1295 peṟāamai añcum peṟiṉpirivu añcum  
 aṟāa iṭumpaittueṉ neñcu.
@@ -210,7 +210,7 @@ aṟāa iṭumpaittueṉ neñcu.
 1295\. My mind can have only endless anxiety; for I fear both when he is with me and also without me.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९५</summary>
 
 5\. பெறாஅமை அஞ்சும் பெறின்பிரிவு அஞ்சும்  
 அறாஅ இடும்பைத்தென் நெஞ்சு.  
@@ -244,7 +244,7 @@ It is to devour me when I am musing alone. *
 (P.S. Sundaram), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९६</summary>
 
 1296 taṉiyē iruntu niṉaittakkāl eṉṉait  
 tiṉiya iruntatueṉ neñcu.
@@ -252,7 +252,7 @@ tiṉiya iruntatueṉ neñcu.
 1296\. My heart eats me up when I think of him in my loneliness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९६</summary>
 
 6\. தனியே இருந்து நினைத்தக்கால் என்னைத்  
 தினிய இருந்ததுஎன் நெஞ்சு.  
@@ -286,7 +286,7 @@ Due to my meek and foolish heart unable to forget him. *
 (W.H. Drew and J. Lazarus), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९७</summary>
 
 1297 nāṇum maṟantēṉ avarmaṟak kallāeṉ  
 māṇā maṭaneñcil paṭṭu.
@@ -294,7 +294,7 @@ māṇā maṭaneñcil paṭṭu.
 1297\. With my foolish heart remembering him who has forgotten me, I have forgotten even my sense of shame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९७</summary>
 
 7\. நாணும் மறந்தேன் அவர்மறக் கல்லாஎன்  
 மாணா மடநெஞ்சிற் பட்டு.  
@@ -328,7 +328,7 @@ And thus hails only his glory. *
 (K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९८</summary>
 
 1298 eḷḷiṉ iḷivāmeṉṟu eṇṇi avartiṟam  
 uḷḷum uyirkkātal neñcu.
@@ -336,7 +336,7 @@ uḷḷum uyirkkātal neñcu.
 1298\. My heart that loves life and views it ignoble to blame and to deny access to him, ever thinks of his success.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९८</summary>
 
 8\. எள்ளின் இளிவாம்என்று எண்ணி அவர்திறம்  
 உள்ளும் உயிர்க்காதல் நெஞ்சு.  
@@ -370,7 +370,7 @@ When one’s own heart refuses to help? *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९९</summary>
 
 1299 tuṉpattiṟku yārē tuṇaiyāvār tāmuṭaiya  
 neñcam tuṇaiyal vaḻi.
@@ -378,7 +378,7 @@ neñcam tuṇaiyal vaḻi.
 1299\. Who will be a friend in misery but one’s own heart?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९९</summary>
 
 9\. துன்பத்திற்கு யாரே துணையாவார் தாமுடைய  
 நெஞ்சம் துணையல் வழி.  
@@ -412,7 +412,7 @@ Why talk of strangers?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३००</summary>
 
 1300 tañcam tamarallar ētilār tāmuṭaiya  
 neñcam tamaral vaḻi. tiṟaṉ kāṭṭuka
@@ -420,7 +420,7 @@ neñcam tamaral vaḻi. tiṟaṉ kāṭṭuka
 1300\. If one’s own heart turns against one, how can one expect anything but hostility from others?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३००</summary>
 
 10\. தஞ்சம் தமரல்லர் ஏதிலார் தாமுடைய  
 நெஞ்சம் தமரல் வழி.  

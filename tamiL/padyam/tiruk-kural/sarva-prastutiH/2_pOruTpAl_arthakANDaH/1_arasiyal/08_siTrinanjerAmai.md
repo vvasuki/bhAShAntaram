@@ -24,7 +24,7 @@ Only the mean take them as kinsmen.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५१</summary>
 
 451\. ciṟṟiṉam añcum, perumai; ciṟumaitāṉ  
 cuṟṟamāc cūḻntuviṭum.
@@ -32,7 +32,7 @@ cuṟṟamāc cūḻntuviṭum.
 451\. The great dread the company of the ignoble, for the ignoble delight in the company of the mean.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५१</summary>
 
 1\. சிற்றினம் அஞ்சும் பெருமை சிறுமைதான்  
 சுற்றமாச் சூழ்ந்து விடும்.  
@@ -71,7 +71,7 @@ One's wisdom by the nature of company.
 ४५२. Compare with ९५९. Nature of sprout indicates the quality of soil; so does the quality of speech one’s descent. ((N.V.K. Ashraf))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५२</summary>
 
 452\. nilattu iyalpāṉ nīr tirintu, aṟṟu ākum;- māntarkku  
 ‘iṉattu’ iyalpatu ākum, aṟivu.
@@ -79,7 +79,7 @@ One's wisdom by the nature of company.
 452\. Water smacks of the soil; The wisdom of man takes the colour of the company he keeps.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५२</summary>
 
 2\. நிலத்தியல்பால் நீர்திரிந் தற்றாகும் மாந்தர்க்கு  
 இனத்தியல்ப தாகும் அறிவு.  
@@ -113,7 +113,7 @@ And character from company.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५३</summary>
 
 453\. maṉattāṉ ām, māntarkku uṇarcci; iṉattāṉ ām,  
 ‘iṉṉāṉ’ eṉappaṭum col.
@@ -121,7 +121,7 @@ And character from company.
 453\. It is the mind that helps a man to gain knowledge; but it is one’s association that makes people say what sort of man he is.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५३</summary>
 
 3\. மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்  
 இன்னான் எனப்படுஞ் சொல்.  
@@ -155,7 +155,7 @@ Comes really from one's company.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५४</summary>
 
 454\. maṉattu uḷatu pōlak kāṭṭi, oruvaṟku  
 iṉattu uḷatu ākum-aṟivu.
@@ -163,7 +163,7 @@ iṉattu uḷatu ākum-aṟivu.
 454\. One’s wisdom partakes of the nature of one’s mind and one is known by the company he keeps.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५४</summary>
 
 4\. மனத்து ளதுபோலக் காட்டி ஒருவற்கு  
 இனத்துள தாகும் அறிவு.  
@@ -197,7 +197,7 @@ Come from pure company. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५५</summary>
 
 455\. maṉam tūymai, ceyviṉai tūymai, iraṇṭum  
 iṉam tūymai tūvā varum.
@@ -205,7 +205,7 @@ iṉam tūymai tūvā varum.
 455\. Purity of mind and purity of action are of a piece with the purity of one’s associates.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५५</summary>
 
 5\. மனந்தூய்மை செய்வினை தூய்மை இரண்டும்  
 இனம்தூய்மை தூவா வரும்.  
@@ -239,7 +239,7 @@ No evil deeds befall men of pure company.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५६</summary>
 
 456\. maṉam tūyārkku eccam naṉṟu ākum; iṉam tūyārkku  
 illai, naṉṟu ākā viṉai.
@@ -247,7 +247,7 @@ illai, naṉṟu ākā viṉai.
 456\. A good progeny awaits the pure. There is no effort of one endowed with good company but bears fruit.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५६</summary>
 
 6\. மனம்தூயார்க் கெச்சம்நன் றாகும் இனம்தூயார்க்கு  
 இல்லைநன் றாகா வினை.  
@@ -281,7 +281,7 @@ While good company contributes to glory.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५७</summary>
 
 457\. maṉa nalam maṉ uyirkku ākkam; iṉa nalam  
 ellāp pukaḻum tarum.
@@ -289,7 +289,7 @@ ellāp pukaḻum tarum.
 457\. Company of the pure brings one all glory.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५७</summary>
 
 7\. மனநலம் மன்னுயிர்க் காக்கம் இனநலம்  
 எல்லாப் புகழும் தரும்.  
@@ -323,7 +323,7 @@ They strengthen it by good company. *
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५८</summary>
 
 458\. maṉa nalam naṉku uṭaiyar āyiṉum, cāṉṟōrkku  
 iṉa nalam ēmāppu uṭaittu.
@@ -331,7 +331,7 @@ iṉa nalam ēmāppu uṭaittu.
 458\. The wise may be pure in mind. Good company is the source of one’s strength.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५८</summary>
 
 8\. மனநலம் நன்குடைய ராயினும் சான்றோர்க்கு  
 இனநலம் ஏமாப் புடைத்து.  
@@ -365,7 +365,7 @@ But even that is secured by good company.
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५९</summary>
 
 459\. maṉa nalattiṉ ākum, maṟumai; maṟṟu aḵtum  
 iṉa nalattiṉ ēmāppu uṭaittu.
@@ -373,7 +373,7 @@ iṉa nalattiṉ ēmāppu uṭaittu.
 459\. Heaven awaits the pure of heart; verily it is the reward of good company.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५९</summary>
 
 9\. மனநலத்தின் ஆகும் மறுமைமற் றஃதும்  
 இனநலத்தின் ஏமாப் புடைத்து.  
@@ -407,7 +407,7 @@ Nor worse affliction than bad.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६०</summary>
 
 460\. nal iṉattiṉ ūṅkum tuṇai illai; tī iṉattiṉ  
 allaṟpaṭuppatūum il.
@@ -415,7 +415,7 @@ allaṟpaṭuppatūum il.
 460\. There is no greater evil than the company of the wicked.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६०</summary>
 
 10\. நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின்  
 அல்லற் படுப்பதூஉம் இல்.  

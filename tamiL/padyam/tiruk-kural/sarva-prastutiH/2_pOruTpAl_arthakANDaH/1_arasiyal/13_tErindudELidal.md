@@ -24,7 +24,7 @@ Virtue, wealth, love and survival. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०१</summary>
 
 501\. aṟam, poruḷ, iṉpam, uyir accam, nāṉkiṉ  
 tiṟam terintu tēṟappaṭum.
@@ -32,7 +32,7 @@ tiṟam terintu tēṟappaṭum.
 501\. One should be chosen after patting one to a fourfold test of righteousness, wealth, inclination and fear of life and death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०१</summary>
 
 1\. அறம்பொருள் இன்பம் உயிரெச்சம் நான்கின்  
 திறந்தெரிந்து தேறப் படும்  
@@ -66,7 +66,7 @@ Are some norms to choose.
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०२</summary>
 
 502\. kuṭip piṟantu, kuṟṟattiṉ nīṅki, vaṭup pariyum  
 nāṇ uṭaiyāṉkaṭṭē teḷivu.
@@ -74,7 +74,7 @@ nāṇ uṭaiyāṉkaṭṭē teḷivu.
 502\. One of good family, free of faults, and possessed of a wholesome fear of sin, should be chosen.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०२</summary>
 
 2\. குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்  
 நாணுடையான் கட்டே தெளிவு  
@@ -108,7 +108,7 @@ Are rarely found free of ignorance.
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०३</summary>
 
 503\. ariya kaṟṟu, ācu aṟṟārkaṇṇum, teriyuṅkāl  
 iṉmai aritē, veḷiṟu.
@@ -116,7 +116,7 @@ iṉmai aritē, veḷiṟu.
 503\. One may be an unblemished man and of vast learning; but it is rare to find one free from ignorance.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०३</summary>
 
 3\. அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்  
 இன்மை அரிதே வெளிறு  
@@ -150,7 +150,7 @@ Whichever weighs more is his nature.
 (V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०४</summary>
 
 504\. kuṇam nāṭi, kuṟṟamum nāṭi, avaṟṟuḷ  
 mikai nāṭi, mikka koḷal!.
@@ -158,7 +158,7 @@ mikai nāṭi, mikka koḷal!.
 504\. Examine the good and bad in a person and judge his character according to what predominates in his composition.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०४</summary>
 
 4\. குணம்நாடிக் குற்றமும் நாடி அவற்றுள்  
 மிகைநாடி மிக்க கொளல்  
@@ -192,7 +192,7 @@ Greatness and littleness.
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०५</summary>
 
 505\. perumaikkum, ēṉaic ciṟumaikkum, tattam  
 karumamē kaṭṭaḷaik kal.
@@ -200,7 +200,7 @@ karumamē kaṭṭaḷaik kal.
 505\. One’s own deed is the touchstone of one’s greatness and littleness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०५</summary>
 
 5\. பெருமைக்கும் ஏனைச் சிறுமைக்கும் தத்தம்  
 கருமமே கட்டளைக் கல்  
@@ -234,7 +234,7 @@ With no bonds to restrain, they dread no shame. *
 (P.S. Sundaram), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०६</summary>
 
 506\. aṟṟārait tēṟutal ōmpuka; maṟṟu avar  
 paṟṟu ilar; nāṇār paḻi.
@@ -242,7 +242,7 @@ paṟṟu ilar; nāṇār paḻi.
 506\. Choose not persons who have no kith and kin, and who possesses no social instincts, they will be callous of heart and dread no crime.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०६</summary>
 
 6\. அற்றாரைத் தேறுதல் ஓம்புக மற்றவர்  
 பற்றிலர் நாணார் பழி  
@@ -276,7 +276,7 @@ Leads to folly in all forms. *
 (P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०७</summary>
 
 507\. kātaṉmai kantā, aṟivu aṟiyārt tēṟutal  
 pētaimai ellām tarum.
@@ -284,7 +284,7 @@ pētaimai ellām tarum.
 507\. It is the height of folly to choose the ignorant blinded by affection.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०७</summary>
 
 7\. காதன்மை கந்தா அறிவறியார்த் தேறுதல்  
 பேதைமை யெல்லாம் தரும்  
@@ -318,7 +318,7 @@ Will trouble one's line without end.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०८</summary>
 
 508\. tērāṉ, piṟaṉait teḷintāṉ vaḻimuṟai  
 tīrā iṭumpai tarum.
@@ -326,7 +326,7 @@ tīrā iṭumpai tarum.
 508\. To choose a stranger without knowing his traits results in one’s grief.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०८</summary>
 
 8\. தேரான் பிறனைத் தெளிந்தான் வழிமுறை  
 தீரா இடும்பை தரும்  
@@ -360,7 +360,7 @@ Entrust him with the trusted job.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५०९</summary>
 
 509\. tēṟaṟka yāraiyum, tērātu; tērnta piṉ,  
 tēṟuka, tēṟum poruḷ.
@@ -368,7 +368,7 @@ tēṟuka, tēṟum poruḷ.
 509\. Let men be chosen with deliberate care; when once the choice is made, let no suspicions crump into your soul.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५०९</summary>
 
 9\. தேறற்க யாரையும் தேராது தேர்ந்தபின்  
 தேறுக தேறும் பொருள்  
@@ -407,7 +407,7 @@ Both lead to endless trouble. *
 ५१०. If this verse is taken out of this context of "Testing and choosing", and placed under "Realization" [Chapter ३६: मॆय्युणर्दल्], the words "तेरान्" could mean 'muddled', “तॆळिन्दान्" could mean "Clarified/realized" and "ऐयुऱवुम्" could be taken to mean 'doubts'. The couplet then could well mean "The clarity claimed by a muddled-head and the doubts of a Realized, both cause endless trouble". The idea is that the realized souls should have no doubts and the unrealized cannot claim to be free of doubts.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५१०</summary>
 
 510\. tērāṉ teḷivum, teḷintāṉkaṇ aiyuṟavum,  
 tīrā iṭumpai tarum.
@@ -415,7 +415,7 @@ tīrā iṭumpai tarum.
 510\. To choose men with no forethought and to suspect them will land you in endless woes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५१०</summary>
 
 10\. தேரான் தெளிவும் தெளிந்தான்கண் ஐயுறவும்  
 தீரா இடும்பை தரும்.  

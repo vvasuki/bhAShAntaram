@@ -24,7 +24,7 @@ Who eats the flesh of others to swell his own flesh?
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५१</summary>
 
 251\. taṉ ūṉ perukkaṟkut tāṉ piṟitu ūṉ uṇpāṉ  
 eṅṅaṉam āḷum aruḷ?.
@@ -32,7 +32,7 @@ eṅṅaṉam āḷum aruḷ?.
 251\. He who fattens on the flesh of animals, can he ever understand the rule of love?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५१</summary>
 
 1\. தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான்  
 எங்ஙனம் ஆளும் அருள்  
@@ -66,7 +66,7 @@ So too compassion with a meat eater.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५२</summary>
 
 252\. poruḷ āṭci pōṟṟātārkku illai; aruḷ āṭci  
 āṅku illai, ūṉ tiṉpavarkku.
@@ -74,7 +74,7 @@ So too compassion with a meat eater.
 252\. Wealth is not for the unwary. Compassion is not for the flesh-eater.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५२</summary>
 
 2\. பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சி  
 ஆங்கில்லை ஊன்தின் பவர்க்கு  
@@ -113,7 +113,7 @@ And those who feast on flesh.
 २५३. This basically implies that both soldiers armed to kill enemies and hunters armed to kill animals are the same.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५३</summary>
 
 253\. paṭai koṇṭār neñcam pōl naṉṟu ūkkātu-oṉṟaṉ  
 uṭal cuvai uṇṭār maṉam.
@@ -121,7 +121,7 @@ uṭal cuvai uṇṭār maṉam.
 253\. The heart of a flesh-eater is devoid of love like that of the wielder of a deadly weapon.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५३</summary>
 
 3\. படைகொண்டார் நெஞ்சம்போல் நன்றூக்காது ஒன்றன்  
 உடல்சுவை உண்டார் மனம்.  
@@ -155,7 +155,7 @@ And senseless to eat that meat. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५४</summary>
 
 254\. 'aruḷ', allatu, yātu?' eṉiṉ,-kollāmai, kōṟal:  
 poruḷ allatu, av ūṉ tiṉal.
@@ -163,7 +163,7 @@ poruḷ allatu, av ūṉ tiṉal.
 254\. What is compassion but refraining from killing; what is sin but eating flesh?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५४</summary>
 
 4\. அருளல்லது யாதெனில் கொல்லாமை கோறல்  
 பொருளல்லது அவ்வூன் தினல்.  
@@ -197,7 +197,7 @@ The clenched jaws of hell hold those who don't. *
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५५</summary>
 
 255\. uṇṇāmai uḷḷatu uyirnilai; ūṉ uṇṇa,  
 aṇṇāttal ceyyātu, aḷaṟu.
@@ -205,7 +205,7 @@ aṇṇāttal ceyyātu, aḷaṟu.
 255\. Will there be throb of life when there is flesh-eating? Will there be any escape from hell for the flesh-eater?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५५</summary>
 
 5\. உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண  
 அண்ணாத்தல் செய்யாது அளறு  
@@ -244,7 +244,7 @@ But no one will sell if there is none to buy. *
 २५६. This couplet seems to have obvious reference to Buddhists who do not kill, but are not required to be vegetarian.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५६</summary>
 
 256\. tiṉaṟporuṭṭāl kollātu ulaku eṉiṉ, yārum  
 vilaip poruṭṭāl ūṉ taruvār il.
@@ -252,7 +252,7 @@ vilaip poruṭṭāl ūṉ taruvār il.
 256\. Would there be meat for sale, if men were not to kill animals for eating flesh?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५६</summary>
 
 6\. தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்  
 விலைப்பொருட்டால் ஊன்தருவார் இல்  
@@ -286,7 +286,7 @@ As the wound of another *
 (Kasthuri Sreenivasan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५७</summary>
 
 257\. uṇṇāmai vēṇṭum, pulāal-piṟitu oṉṟaṉ  
 puṇ; atu uṇarvārp peṟiṉ.
@@ -294,7 +294,7 @@ puṇ; atu uṇarvārp peṟiṉ.
 257\. If one realises that meat is nothing but the wound of another creature, one refrains from eating it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५७</summary>
 
 7\. உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்  
 புண்ணது உணர்வார்ப் பெறின்  
@@ -328,7 +328,7 @@ Will not feed on a flesh freed of its life.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५८</summary>
 
 258\. ceyiriṉ talaip pirinta kāṭciyār uṇṇār,  
 uyiriṉ talaippirinta ūṉ.
@@ -336,7 +336,7 @@ uyiriṉ talaippirinta ūṉ.
 258\. Men of clear vision abstain from the flesh of a slaughtered animal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५८</summary>
 
 8\. செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார்  
 உயிரின் தலைப்பிரிந்த ஊன்.  
@@ -370,7 +370,7 @@ Is one life un-killed, un-eaten.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५९</summary>
 
 259\. avi corintu āyiram vēṭṭaliṉ, oṉṟaṉ  
 uyir cekuttu uṇṇāmai naṉṟu.
@@ -378,7 +378,7 @@ uyir cekuttu uṇṇāmai naṉṟu.
 259\. Far nobler than a thousand oblations on fire is an act of abstinence from flesh.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५९</summary>
 
 9\. அவிசொரிந் தாயிரம் வேட்டலின் ஒன்றன்  
 உயிர்செகுத் துண்ணாமை நன்று.  
@@ -412,7 +412,7 @@ And bow to one who refuses to kill or eat meat. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६०</summary>
 
 260\. kollāṉ, pulālai maṟuttāṉaik kaikūppi,  
 ellā uyirum toḻum.
@@ -420,7 +420,7 @@ ellā uyirum toḻum.
 260\. The whole world folds its hands in prayer to one who kills not and abjures flesh.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६०</summary>
 
 260\. kollāṉ, pulālai maṟuttāṉaik kaikūppi,  
 ellā uyirum toḻum.
@@ -429,7 +429,7 @@ ellā uyirum toḻum.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६०</summary>
 
 10\. கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி  
 எல்லா உயிரும் தொழும்  

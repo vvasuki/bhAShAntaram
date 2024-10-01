@@ -24,7 +24,7 @@ Like water drawn from a spring. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६१</summary>
 
 1161 maṟaippēṉmaṉ yāṉiḵtō nōyai iṟaippavarkku  
 ūṟṟunīr pōla mikum.
@@ -32,7 +32,7 @@ Like water drawn from a spring. *
 1161\. This my disease I seek to hide; but how endlessly it wells up like the waters of the spring.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६१</summary>
 
 1\. மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்கு  
 ஊற்றுநீர் போல மிகும்.  
@@ -66,7 +66,7 @@ To tell him who caused it, I am ashamed.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६२</summary>
 
 1162 karattalum āṟṟēṉin nōyainōy ceytārkku  
 uraittalum nāṇut tarum.
@@ -74,7 +74,7 @@ uraittalum nāṇut tarum.
 1162\. It lies not in my power to conceal the disease of my love. Nor am I able to speak of it unabashed to him who caused it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६२</summary>
 
 2\. கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்கு  
 உரைத்தலும் நாணுத் தரும்.  
@@ -108,7 +108,7 @@ My body unable to bear them.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६३</summary>
 
 1163 kāmamum nāṇum uyirkāvāt tūṅkumeṉ  
 nōṉā uṭampiṉ akattu.
@@ -116,7 +116,7 @@ nōṉā uṭampiṉ akattu.
 1163\. My frail body is harassed by love and my bashfulness bids me be quiet. My soul is torn between them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६३</summary>
 
 3\. காமமும் நாணும் உயிர்காவாத் தூங்கும்என்  
 நோனா உடம்பி னகத்து.  
@@ -150,7 +150,7 @@ But no safe raft to swim across it. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६४</summary>
 
 1164 kāmak kaṭalmaṉṉum uṇṭē atunīntum  
 ēmap puṇaimaṉṉum il.
@@ -158,7 +158,7 @@ But no safe raft to swim across it. *
 1164\. Verily the endless sea of love stretches before me; but I find not even a raft to cross the limitless expanse.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६४</summary>
 
 4\. காமக் கடல்மன்னும் உண்டோ அதுநீந்தும்  
 ஏமப் புணைமன்னும் இல்.  
@@ -197,7 +197,7 @@ How will it be in enmity? *
 ११६५: An explanatory translation: “If in friendship he can hurt so much, imagine the fate when there is trouble?” - (K. Kannan). Also compare with १२०७: “What will happen if I forget him, when his memory itself burns my heart?” * - ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६५</summary>
 
 1165 tuppiṉ evaṉāvar maṉkol tuyarvaravu  
 naṭpiṉuḷ āṟṟu pavar.
@@ -205,7 +205,7 @@ naṭpiṉuḷ āṟṟu pavar.
 1165\. Even to the loving one, he brings so much suffering; how much more pain will he cause to his enemy!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६५</summary>
 
 5\. துப்பின் எவனாவர் மற்கொல் துயர்வரவு  
 நட்பினுள் ஆற்று பவர்.  
@@ -239,7 +239,7 @@ Vaster still is the sorrow of its hurt.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६६</summary>
 
 1166 iṉpam kaṭalmaṟṟuk kāmam aḵtaṭuṅkāl  
 tuṉpam ataṉiṉ peritu.
@@ -247,7 +247,7 @@ tuṉpam ataṉiṉ peritu.
 1166\. Vast as the sea is the delight of wedded love; but vaster still are the sorrows of parting.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६६</summary>
 
 6\. இன்பம் கடல்மற்றுக் காமம் அஃதடுங்கால்  
 துன்பம் அதனிற் பெரிது.  
@@ -281,7 +281,7 @@ Even at midnight I am alone.
 (K. Kannan), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६७</summary>
 
 1167 kāmak kaṭumpuṉal nīntik karaikāṇēṉ  
 yāmattum yāṉē uḷēṉ.
@@ -289,7 +289,7 @@ yāmattum yāṉē uḷēṉ.
 1167\. Tossed in the troubled waters of love, I reach no shore; 1 am all alone in the still watches of the night.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६७</summary>
 
 7\. காமக் கடும்புனல் நீந்திக் கரைகாணேன்  
 யாமத்தும் யானே உளேன்.  
@@ -323,7 +323,7 @@ Has only me for company.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६८</summary>
 
 1168 maṉṉuyir ellām tuyiṟṟi aḷittirā  
 eṉṉallatu illai tuṇai.
@@ -331,7 +331,7 @@ eṉṉallatu illai tuṇai.
 1168\. Beneficent night which has rocked all living creatures to sleep finds in me her lone sleepless companion.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६८</summary>
 
 8\. மன்னுயி ரெல்லாம் துயிற்றி அளித்திரா  
 என்னல்லது இல்லை துணை.  
@@ -365,7 +365,7 @@ Are the long nights of these days. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६९</summary>
 
 1169 koṭiyār koṭumaiyiṉ tāmkoṭiya innāḷ  
 neṭiya kaḻiyum irā.
@@ -373,7 +373,7 @@ neṭiya kaḻiyum irā.
 1169\. These nights, all too short in those sweet days, now lengthen their heavy hours, surpassing in cruelty even my lord.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६९</summary>
 
 9\. கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்  
 நெடிய கழியும் இரா.  
@@ -412,7 +412,7 @@ They won’t be swimming in a flood of tears.
 ११७०. Compare with १२४४. “Rid me of these eyes, O my heart! For they, longing to see him, wear my life away” - (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७०</summary>
 
 1170 uḷḷampōṉṟu uḷvaḻic celkiṟpiṉ veḷḷanīr  
 nīntala maṉṉōeṉ kaṇ.
@@ -420,7 +420,7 @@ nīntala maṉṉōeṉ kaṇ.
 1170\. If only my eyes like my mind had the speedy power of fleeing to my lover, they need not now swim in a flood of tears.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७०</summary>
 
 10\. உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர்  
 நீந்தல மன்னோஎன் கண்.  

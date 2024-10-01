@@ -24,7 +24,7 @@ Want of it will push one into utter darkness.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२१</summary>
 
 121\. aṭakkam amararuḷ uykkum; aṭaṅkāmai  
 ār iruḷ uyttuviṭum.
@@ -32,7 +32,7 @@ Want of it will push one into utter darkness.
 121\. Self-control places one among the gods; lack of it leads one to the darkness of hell.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२१</summary>
 
 1\. அடக்கம் அமரருள் உய்க்கும்: அடங்காமை  
 ஆரிருள் உய்த்து விடும்  
@@ -66,7 +66,7 @@ There is nothing more precious in life.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२२</summary>
 
 122\. kākka, poruḷā aṭakkattai-ākkam  
 ataṉiṉ ūṅku illai, uyirkku!.
@@ -74,7 +74,7 @@ ataṉiṉ ūṅku illai, uyirkku!.
 122\. There is no greater wealth than self-control; treasure it as your wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२२</summary>
 
 2\. காக்க பொருளா அடக்கத்தை ஆக்கம்  
 அதனினூஉங் கில்லை உயிர்க்கு  
@@ -108,7 +108,7 @@ Are conferred with virtuous fame.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२३</summary>
 
 123\. ceṟivu aṟintu cīrmai payakkum-aṟivu aṟintu  
 āṟṟiṉ aṭaṅkap peṟiṉ.
@@ -116,7 +116,7 @@ Are conferred with virtuous fame.
 123\. If one knows the value of self-control and restrains oneself it will bring one fame.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२३</summary>
 
 3\. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
 ஆற்றின் அடங்கப் பெறின்  
@@ -150,7 +150,7 @@ Is the stature of the steadfast and self-controlled. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४</summary>
 
 124\. nilaiyiṉ tiriyātu aṭaṅkiyāṉ tōṟṟam  
 malaiyiṉum māṇap peritu.
@@ -158,7 +158,7 @@ malaiyiṉum māṇap peritu.
 124\. Loftier than a mountain is the greatness of one who practises self-control.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४</summary>
 
 4\. நிலையில் திரியாது அடங்கியான் தோற்றம்  
 மலையினும் மாணப் பெரிது  
@@ -192,7 +192,7 @@ But is an added richness to the rich.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२५</summary>
 
 125\. ellārkkum naṉṟu ām, paṇital; avaruḷḷum  
 celvarkkē celvam takaittu.
@@ -200,7 +200,7 @@ celvarkkē celvam takaittu.
 125\. Humility becomes all; but it crowns anew the wealthy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२५</summary>
 
 5\. எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்  
 செல்வர்க்கே செல்வந் தகைத்து.  
@@ -234,7 +234,7 @@ To protect you in the next seven.
 (N.V.K. Ashraf)  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२६</summary>
 
 126\. orumaiyuḷ, āmaipōl, aintu aṭakkal āṟṟiṉ,  
 eḻumaiyum ēmāppu uṭaittu.
@@ -242,7 +242,7 @@ eḻumaiyum ēmāppu uṭaittu.
 126\. If one were to withdraw within oneself the five senses like a tortoise, it would afford him protection all the seven births.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२६</summary>
 
 6\. ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்  
 எழுமையும் ஏமாப் புடைத்து.  
@@ -276,7 +276,7 @@ For words unguarded cause distress.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२७</summary>
 
 127\. yā kāvār āyiṉum, nā kākka; kāvākkāl,  
 cōkāppar, col iḻukkup paṭṭu.
@@ -284,7 +284,7 @@ cōkāppar, col iḻukkup paṭṭu.
 127\. Whatever else you may not control, control your tongue, lest you should repent your indiscreet words.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२७</summary>
 
 7\. யாகாவா ராயினும் நாகாக்க காவாக்கால்  
 சோகாப்பர் சொல்லிழுக்குப் பட்டு  
@@ -318,7 +318,7 @@ Can undo all the good intended.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२८</summary>
 
 128\. oṉṟāṉum tīccoṟ poruṭ payaṉ uṇṭāyiṉ,  
 naṉṟu ākātu ākiviṭum.
@@ -326,7 +326,7 @@ naṉṟu ākātu ākiviṭum.
 128\. One would lose the fruits of one’s good actions, if one word of evil were to land another in trouble.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२८</summary>
 
 8\. ஒன்றானும் தீச்சொல் பொருட்பயன் உண்டாயின்  
 நன்றாகா தாகி விடும்  
@@ -360,7 +360,7 @@ But not the scar left by the tongue.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२९</summary>
 
 129\. tīyiṉāl cuṭṭa puṇ uḷ āṟum;- āṟātē  
 nāviṉāl cuṭṭa vaṭu.
@@ -368,7 +368,7 @@ nāviṉāl cuṭṭa vaṭu.
 129\. The blister caused by fire will heal. But the brand of a bitter tongue will never heal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२९</summary>
 
 9\. தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே  
 நாவினாற் சுட்ட வடு  
@@ -402,7 +402,7 @@ Who curbs wrath and learns self restraint.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०</summary>
 
 130\. katam kāttu, kaṟṟu, aṭaṅkal āṟṟuvāṉ cevvi  
 aṟam pārkkum āṟṟiṉ nuḻaintu.
@@ -410,7 +410,7 @@ aṟam pārkkum āṟṟiṉ nuḻaintu.
 130\. The God of righteousness seeks one who is on guard against anger and attains self-control through knowledge.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३०</summary>
 
 130\. katam kāttu, kaṟṟu, aṭaṅkal āṟṟuvāṉ cevvi  
 aṟam pārkkum āṟṟiṉ nuḻaintu.
@@ -419,7 +419,7 @@ aṟam pārkkum āṟṟiṉ nuḻaintu.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३०</summary>
 
 10\. கதங்காத்து கற்றடங்கல் ஆற்றுவான் செவ்வி  
 அறம்பார்க்கும் ஆற்றின் நுழைந்து  

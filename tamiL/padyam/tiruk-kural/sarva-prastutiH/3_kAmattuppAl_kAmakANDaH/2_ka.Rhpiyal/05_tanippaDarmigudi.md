@@ -24,7 +24,7 @@ Are blessed with the seedless fruit of love. *
 (J. Narayanaswamy), (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९१</summary>
 
 1191 tāmvīḻvār tamvīḻap peṟṟavar peṟṟārē  
 kāmattuk kāḻil kaṉi.
@@ -32,7 +32,7 @@ kāmattuk kāḻil kaṉi.
 1191\. Only those women taste all the juice of the seedless fruit of love, whose love is returned by their lovers.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९१</summary>
 
 1\. தாம்விழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே  
 காமத்துக் காழில் கனி.  
@@ -66,7 +66,7 @@ Is the blessing of grace by lovers to their beloved. *
 (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९२</summary>
 
 1192 vāḻvārkku vāṉam payantaṟṟāl vīḻvārkku  
 vīḻvār aḷikkum aḷi.
@@ -74,7 +74,7 @@ vīḻvār aḷikkum aḷi.
 1192\. Welcome as the rain to the tillers of the earth is the grace of the lover to his loved one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९२</summary>
 
 2\. வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு  
 வீழ்வார் அளிக்கும் அளி.  
@@ -108,7 +108,7 @@ Who are loved by their beloved. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९३</summary>
 
 1193 vīḻunar vīḻap paṭuvārkku amaiyumē  
 vāḻunam eṉṉum cerukku.
@@ -116,7 +116,7 @@ vāḻunam eṉṉum cerukku.
 1193\. Justly may those women feel proud of their life who are endowed with lovers who requite their love in all its fullness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९३</summary>
 
 3\. வீழுநர் வீழப் படுவார்க்கு அமையுமே  
 வாழுநம் என்னும் செருக்கு.  
@@ -150,7 +150,7 @@ Unless loved by those they love. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९४</summary>
 
 1194 vīḻap paṭuvār keḻīiyilar tāmvīḻvār  
 vīḻap paṭāar eṉiṉ.
@@ -158,7 +158,7 @@ vīḻap paṭāar eṉiṉ.
 1194\. Those whose love is not returned by their sweet ones are unlucky beyond measure. Of what avail to them is the esteem of others?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९४</summary>
 
 4\. வீழப் படுவார் கெழீஇயிலர் தாம்வீழ்வார்  
 வீழப் படாஅர் எனின்.  
@@ -192,7 +192,7 @@ If he does not love me as much as I love him?
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९५</summary>
 
 1195 nāmkātal koṇṭār namakkevaṉ ceypavō  
 tāmkātal koḷḷāk kaṭai.
@@ -200,7 +200,7 @@ tāmkātal koḷḷāk kaṭai.
 1195\. When he does not return my love, what favour can I expect of him?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९५</summary>
 
 5\. நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ  
 தாம்காதல் கொள்ளாக் கடை.  
@@ -239,7 +239,7 @@ It is sweet only when shared by both sides.
 ११९६. The word “kaavadi” [कावडि, appearing as “का” in Kural] refers to the shoulder pole used to carry heavy articles on either side.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९६</summary>
 
 1196 orutalaiyāṉ iṉṉātu kāmamkāp pōla  
 irutalai yāṉum iṉitu.
@@ -247,7 +247,7 @@ irutalai yāṉum iṉitu.
 1196\. Bitter is unrequited love; sweet it is if returned in equal measure like the well-poised even scales.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९६</summary>
 
 6\. ஒருதலையான் இன்னாது காமம்காப் போல  
 இருதலை யானும் இனிது.  
@@ -281,7 +281,7 @@ Causing distress, see my pallor and pain? *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९७</summary>
 
 1197 paruvaralum paitalum kāṇāṉkol kāmaṉ  
 oruvarkaṇ niṉṟoḻuku vāṉ.
@@ -289,7 +289,7 @@ oruvarkaṇ niṉṟoḻuku vāṉ.
 1197\. Cannot the god of love, who pays his attention to me alone, behold all my anguish and sorrow?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९७</summary>
 
 7\. பருவரலும் பைதலும் காணான்கொல் காமன்  
 ஒருவர்கண் நின்றொழுகு வான்.  
@@ -323,7 +323,7 @@ Without a word of love from the beloved. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९८</summary>
 
 1198 vīḻvāriṉ iṉcol peṟāatu ulakattu  
 vāḻvāriṉ vaṉkaṇār il.
@@ -331,7 +331,7 @@ vāḻvāriṉ vaṉkaṇār il.
 1198\. Breathes there a more cruel soul on this earth than the one who lives on without the encouraging words of the loved one?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९८</summary>
 
 8\. வீழ்வாரின் இன்சொல் பெறாஅது உலகத்து  
 வாழ்வாரின் வன்கணார் இல்.  
@@ -365,7 +365,7 @@ Still any news about him is sweet to my ears. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९९</summary>
 
 1199 nacaiiyār nalkār eṉiṉum avarmāṭṭu  
 icaiyum iṉiya cevikku.
@@ -373,7 +373,7 @@ icaiyum iṉiya cevikku.
 1199\. Though the loved one favours me not, delightful indeed is stray news of him that reaches my ears.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९९</summary>
 
 9\. நசைஇயார் நல்கார் எனினும் அவர்மாட்டு  
 இசையும் இனிய செவிக்கு.  
@@ -412,7 +412,7 @@ As well dump into the sea! *
 १२००. There are differing renderings of this couplet. The word “उऱार्क्कु” is sometimes taken to mean “strangers or people” and the word “सॆऱाय्” to mean “not to be angry or furious”.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२००</summary>
 
 1200 uṟāarkku uṟunōy uraippāy kaṭalaic  
 ceṟāaay vāḻiya neñcu.
@@ -420,7 +420,7 @@ ceṟāaay vāḻiya neñcu.
 1200\. Oh my heart! try to tell gnawing cares to your unresponsive lover; you may as well strive to dry up the surging sea.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२००</summary>
 
 10\. உறாஅர்க்கு உறுநோய் உரைப்பாய் கடலைச்  
 செறாஅஅய் வாழிய நெஞ்சு.  

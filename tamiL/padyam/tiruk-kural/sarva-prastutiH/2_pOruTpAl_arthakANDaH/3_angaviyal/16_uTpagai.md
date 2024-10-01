@@ -25,7 +25,7 @@ Likewise one’s kinsmen if they hurt. * ((P.S. Sundaram))
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८१</summary>
 
 881 niḻaṉīrum iṉṉāta iṉṉā tamarnīrum  
 iṉṉāvām iṉṉā ceyiṉ.
@@ -33,7 +33,7 @@ iṉṉāvām iṉṉā ceyiṉ.
 881\. Even shade and water, wholesome as they are, become pernicious where not needed; our kith and kin likewise are.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८१</summary>
 
 1\. நிழல்நீரும் இன்னாத இன்னா தமர்நீரும்  
 இன்னாவாம் இன்னா செயின்.  
@@ -67,7 +67,7 @@ Beware of enemies posing as friends. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८२</summary>
 
 882 vāḷpōl pakaivarai añcaṟka añcuka  
 kēḷpōl pakaivar toṭarpu.
@@ -75,7 +75,7 @@ kēḷpōl pakaivar toṭarpu.
 882\. Be not afraid of open enemies with drawn swords; but beware of false friends.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८२</summary>
 
 2\. வாள்போல் பகைவரை அஞ்சற்க அஞ்சுக  
 கேள்போல் பகைவர் தொடர்பு.  
@@ -109,7 +109,7 @@ In times of peril like the potter's knife. *
 (K. Kannan), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८३</summary>
 
 883 uṭpakai añcittaṟ kākka ulaiviṭattu  
 maṭpakaiyiṉ māṇat teṟum.
@@ -117,7 +117,7 @@ maṭpakaiyiṉ māṇat teṟum.
 883\. Guard yourselves against your enemies from within. In your trying hour they will undermine your strength, like the potter’s knife, cleaving the mind asunder.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८३</summary>
 
 3\. உட்பகை அஞ்சித்தற் காக்க உலைவுஇடத்து  
 மட்பகையின் மாணத் தெறும்.  
@@ -151,7 +151,7 @@ Myriad miseries manifest among kin. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८४</summary>
 
 884 maṉammāṇā uṭpakai tōṉṟiṉ iṉammāṇā  
 ētam palavum tarum.
@@ -159,7 +159,7 @@ Myriad miseries manifest among kin. *
 884\. The land is seething with dissensions when the foes from within, appear on the scene.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८४</summary>
 
 4\. மனமாணா உட்பகை தோன்றின் இனமாணா  
 ஏதம் பலவுந் தரும்.  
@@ -193,7 +193,7 @@ Can cause all sorts of deadly sorrows. *
 (Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८५</summary>
 
 885 uṟaṉmuṟaiyāṉ uṭpakai tōṉṟiṉ iṟalmuṟaiyāṉ  
 ētam palavum tarum.
@@ -201,7 +201,7 @@ Can cause all sorts of deadly sorrows. *
 885\. Many evils dark as death befall a king, when his own kith and kin sow dissensions in the land.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८५</summary>
 
 5\. உறல்முறையான் உட்பகை தோன்றின் இறல்முறையான்  
 ஏதம் பலவுந் தரும்.  
@@ -235,7 +235,7 @@ Once disunity arises within a union.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८६</summary>
 
 886 oṉṟāmai oṉṟiyār kaṇpaṭiṉ eññāṉṟum  
 poṉṟāmai oṉṟal aritu.
@@ -243,7 +243,7 @@ poṉṟāmai oṉṟal aritu.
 886\. If kinsmen were to play to the traitor it would be difficult to escape death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८६</summary>
 
 6\. ஒன்றாமை ஒன்றியார் கட்படின் எஞ்ஞான்றும்  
 பொன்றாமை ஒன்றல் அரிது.  
@@ -277,7 +277,7 @@ Seems one but comes apart. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८७</summary>
 
 887 ceppiṉ puṇarccipōl kūṭiṉum kūṭātē  
 uṭpakai uṟṟa kuṭi.
@@ -285,7 +285,7 @@ uṭpakai uṟṟa kuṭi.
 887\. There will be no real union in a house divided. The apparent unity is like the appearance of the casket and the lid seen as one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८७</summary>
 
 7\. செப்பின் புணர்ச்சிபோல் கூடினும் கூடாதே  
 உட்பகை உற்ற குடி.  
@@ -319,7 +319,7 @@ And loses its strength like gold being filed. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८८</summary>
 
 888 aramporuta poṉpōlat tēyum uramporutu  
 uṭpakai uṟṟa kuṭi.
@@ -327,7 +327,7 @@ uṭpakai uṟṟa kuṭi.
 888\. The family torn with internal dissensions dwindles in strength just like pure gold filed away by an iron file.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८८</summary>
 
 8\. அரம்பொருத பொன்போலத் தேயும் உரம்பொருது  
 உட்பகை உற்ற குடி.  
@@ -361,7 +361,7 @@ Can trigger that destructive internal hatred.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८९</summary>
 
 889 eṭpakavu aṉṉa ciṟumaittē āyiṉum  
 uṭpakai uḷḷatām kēṭu.
@@ -369,7 +369,7 @@ uṭpakai uḷḷatām kēṭu.
 889\. Internal hostility little as it is, like a tiny seed, hides within a mighty evil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८९</summary>
 
 9\. எட்பக வன்ன சிறுமைத்தே ஆயினும்  
 உட்பகை உள்ளதாம் கேடு.  
@@ -403,7 +403,7 @@ Is to share a hut with a cobra.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९०</summary>
 
 890 uṭampāṭu ilātavar vāḻkkai kuṭaṅkaruḷ  
 pāmpōṭu uṭaṉuṟain taṟṟu.
@@ -411,7 +411,7 @@ pāmpōṭu uṭaṉuṟain taṟṟu.
 890\. Dwelling among men of hidden hate is like dwelling in a hamlet which harbours a snake.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९०</summary>
 
 10\. உடம்பாடு இலாதவர் வாழ்க்கை குடங்கருள்  
 பாம்போடு உடனுறைந் தற்று.  

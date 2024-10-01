@@ -24,7 +24,7 @@ Spontaneous aid.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१</summary>
 
 101\. ceyyāmal ceyta utavikku vaiyakamum  
 vāṉakamum āṟṟal aritu.
@@ -32,7 +32,7 @@ vāṉakamum āṟṟal aritu.
 101\. For the help rendered expecting no return even earth and heaven will prove no recompense.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१</summary>
 
 1\. செய்யாமற் செய்த உதவிக்கு வையகமும்  
 வானகமும் ஆற்ற லரிது  
@@ -66,7 +66,7 @@ Is of greater value than all the earth.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०२</summary>
 
 102\. kālattiṉāl ceyta naṉṟi ciṟitu eṉiṉum,  
 ñālattiṉ māṇap peritu.
@@ -74,7 +74,7 @@ Is of greater value than all the earth.
 102\. A help timely, though small, transcends the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०२</summary>
 
 2\. காலத்தி னாற்செய்த நன்றி சிறிதெனினும்  
 ஞாலத்தின் மாணப் பெரிது.  
@@ -108,7 +108,7 @@ When weighed, outweighs the sea.
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०३</summary>
 
 103\. payaṉ tūkkār ceyta utavi nayaṉ tūkkiṉ,  
 naṉmai kaṭaliṉ peritu.
@@ -116,7 +116,7 @@ naṉmai kaṭaliṉ peritu.
 103\. Help done expecting no return, if weighed will be vaster than the sea.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०३</summary>
 
 3\. பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்  
 நன்மை கடலிற் பெரிது  
@@ -155,7 +155,7 @@ Is as big as a palm tree. *
 १०४. Compare with couplets ४३३ & १२८२ for the use of same similes “Millet” and “Palm tree”. “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” and “Where love is as large as a palm tree, even millet of sulk is misplaced”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०४</summary>
 
 104\. tiṉait tuṇai naṉṟi ceyiṉum, paṉait tuṇaiyāk  
 koḷvar-payaṉ terivār.
@@ -163,7 +163,7 @@ koḷvar-payaṉ terivār.
 104\. Small as millet is the help given, the wise hold it as big as a palmyra fruit.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०४</summary>
 
 4\. தினைத்துணை நன்றி செயினும் பனைத்துணையாக்  
 கொள்வர் பயன்தெரி வார்.  
@@ -202,7 +202,7 @@ Is its recompense determined.
 १०५. Compare with ८७. "The gains of hospitality cannot be reckoned. Their worth depends on the guest" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०५</summary>
 
 105\. utavi varaittu aṉṟu, utavi; utavi  
 ceyappaṭṭār cālpiṉ varaittu.
@@ -210,7 +210,7 @@ ceyappaṭṭār cālpiṉ varaittu.
 105\. Help rendered is not in terms of the return but its value depends on the receiver.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०५</summary>
 
 5\. உதவி வரைத்தன்று உதவி: உதவி  
 செயப்பட்டார் சால்பின் வரைத்து  
@@ -244,7 +244,7 @@ Nor forsake friends who supported in trouble. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०६</summary>
 
 106\. maṟavaṟka, mācu aṟṟār kēṇmai! tuṟavaṟka,  
 tuṉpattuḷ tuppu āyār naṭpu!.
@@ -252,7 +252,7 @@ tuṉpattuḷ tuppu āyār naṭpu!.
 106\. Forget not the companionship of the pure of heart. Give up not the friendship of those who have stood by you in hour of sorrow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०६</summary>
 
 6\. மறவற்க மாசற்றார் கேண்மை: துறவற்க  
 துன்பத்துள் துப்பாயார் நட்பு  
@@ -286,7 +286,7 @@ The friends who wiped their tears.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७</summary>
 
 107\. eḻumai eḻu piṟappum uḷḷuvar-tamkaṇ  
 viḻumam tuṭaittavar naṭpu.
@@ -294,7 +294,7 @@ viḻumam tuṭaittavar naṭpu.
 107\. The good remember with gratitude, all through seven births, the friendship of those who have wiped out their suffering.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७</summary>
 
 7\. எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்  
 விழுமம் துடைத்தவர் நட்பு  
@@ -328,7 +328,7 @@ To forget at once what isn't good.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८</summary>
 
 108\. naṉṟi maṟappatu naṉṟu aṉṟu; naṉṟu allatu  
 aṉṟē maṟappatu naṉṟu.
@@ -336,7 +336,7 @@ aṉṟē maṟappatu naṉṟu.
 108\. It is not good to forget the benefit received; but it is good to forget then and there the injury done by another.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८</summary>
 
 8\. நன்றி மறப்பது நன்றன்று: நன்றல்லது  
 அன்றே மறப்பது நன்று.  
@@ -370,7 +370,7 @@ If one recollects a past good turn.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०९</summary>
 
 109\. koṉṟaṉṉa iṉṉā ceyiṉum, avar ceyta  
 oṉṟum naṉṟu uḷḷa,keṭum.
@@ -378,7 +378,7 @@ oṉṟum naṉṟu uḷḷa,keṭum.
 109\. The remembrance of one good act done removes from our mind the sting of a deadly injury.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०९</summary>
 
 9\. கொன்றன்ன இன்னா செயினும் அவர்செய்த  
 ஒன்றுநன்று உள்ளக் கெடும்  
@@ -417,7 +417,7 @@ But no escape for one who slain gratitude.
 ११०. Crisp alternate translation, but not close to original: "All other sins may be redeemed, except ingratitude" - (P.S. Sundaram) 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०</summary>
 
 110\. en naṉṟi koṉṟārkkum uyvu uṇṭām; uyvu illai,  
 ceynnaṉṟi koṉṟa makaṟku.
@@ -425,7 +425,7 @@ ceynnaṉṟi koṉṟa makaṟku.
 110\. There is salvation to those guilty of any other sin; but there is no redemption for the sin of ingratitude.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११०</summary>
 
 110\. en naṉṟi koṉṟārkkum uyvu uṇṭām; uyvu illai,  
 ceynnaṉṟi koṉṟa makaṟku.
@@ -434,7 +434,7 @@ ceynnaṉṟi koṉṟa makaṟku.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११०</summary>
 
 10\. எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம்: உய்வில்லை  
 செய்ந்நன்றி கொன்ற மகற்கு  

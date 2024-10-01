@@ -24,7 +24,7 @@ As its unfailing fall sustains the world. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११</summary>
 
 11\. vāṉ niṉṟu ulakam vaḻaṅki varutalāṉ,  
 tāṉ amiḻtam eṉṟu uṇaral pāṟṟu.
@@ -32,7 +32,7 @@ tāṉ amiḻtam eṉṟu uṇaral pāṟṟu.
 11\. The world for its existence depends on unfailing rainfall; the rain may well be regarded as the nectar of life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११</summary>
 
 1\. வான்நின்று உலகம் வழங்கி வருதலால்  
 தான்அமிழ்தம் என்றுணரற் பாற்று  
@@ -66,7 +66,7 @@ But also begets other consumables.
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२</summary>
 
 12\. tuppārkkut tuppu āya tuppu ākki, tuppārkkut  
 tuppu āyatūum maḻai.
@@ -74,7 +74,7 @@ tuppu āyatūum maḻai.
 12\. The rain is the source of all articles of food that man needs. It becomes his drink too.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२</summary>
 
 2\. துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்  
 துப்பாய தூஉம் மழை  
@@ -108,7 +108,7 @@ Will still suffer with famine if clouds deceive rain.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १३</summary>
 
 13\. viṇ iṉṟu poyppiṉ, virinīr viyaṉ ulakattu-  
 uḷ niṉṟu uṭaṟṟum paci.
@@ -116,7 +116,7 @@ uḷ niṉṟu uṭaṟṟum paci.
 13\. Hunger would stalk abroad and torment this wide sea-girt world were the rims to fail in time.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १३</summary>
 
 3\. விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து  
 உள்நின்று உடற்றும் பசி  
@@ -150,7 +150,7 @@ Ploughing by ploughmen would also cease.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १४</summary>
 
 14\. ēriṉ uḻāar uḻavar, puyal eṉṉum  
 vāri vaḷam kuṉṟikkāl.
@@ -158,7 +158,7 @@ vāri vaḷam kuṉṟikkāl.
 14\. The cultivators would cease to plough were the clouds’ free supply of water to fail.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १४</summary>
 
 4\. ஏரின் உழாஅர் உழவர் புயலென்னும்  
 வாரி வளங்குன்றிக் கால்  
@@ -192,7 +192,7 @@ Rain also lifts up those it has ruined.
 (Norman Cutler)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १५</summary>
 
 15\. keṭuppatūum, keṭṭārkkuc cārvāy maṟṟu āṅkē  
 eṭuppatūum, ellām maḻai.
@@ -200,7 +200,7 @@ eṭuppatūum, ellām maḻai.
 15\. It is the rain that afflicts man and it is its fall that relieves him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १५</summary>
 
 5\. கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே  
 எடுப்பதூஉம் எல்லாம் மழை  
@@ -234,7 +234,7 @@ Even blades of grass will stop rising. *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १६</summary>
 
 16\. vicumpiṉ tuḷi vīḻiṉ allāl, maṟṟu āṅkē  
 pacum pul talai kāṇpu aritu.
@@ -242,7 +242,7 @@ pacum pul talai kāṇpu aritu.
 16\. If the clouds were to withhold rain not even a blade of grass would rustle on earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १६</summary>
 
 6\. விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே  
 பசும்புல் தலைகாண்பு அரிது  
@@ -276,7 +276,7 @@ If clouds cease and fail to bestow.
 (N.V.K. Ashraf), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७</summary>
 
 17\. neṭuṅ kaṭalum taṉ nīrmai kuṉṟum, taṭintu eḻili-  
 tāṉ nalkātu ākiviṭiṉ.
@@ -284,7 +284,7 @@ tāṉ nalkātu ākiviṭiṉ.
 17\. Even the illimitable deep shrinks if the clouds do not pour and replenish it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७</summary>
 
 7\. நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி  
 தான்நல்கா தாகி விடின்  
@@ -318,7 +318,7 @@ Will lack festival and worship.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १८</summary>
 
 18\. ciṟappoṭu pūcaṉai cellātu-vāṉam  
 vaṟakkumēl, vāṉōrkkum, īṇṭu.
@@ -326,7 +326,7 @@ vaṟakkumēl, vāṉōrkkum, īṇṭu.
 18\. If the rains were to fail there would be no more o£ferings and festivals to the gods.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १८</summary>
 
 8\. சிறப்பொடு பூசனை செல்லாது வானம்  
 வறக்குமேல் வானோர்க்கும் ஈண்டு  
@@ -360,7 +360,7 @@ Should heavens fail to deliver.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १९</summary>
 
 19\. tāṉam tavam iraṇṭum taṅkā, viyaṉ ulakam  
 vāṉam vaḻaṅkātu eṉiṉ.
@@ -368,7 +368,7 @@ vāṉam vaḻaṅkātu eṉiṉ.
 19\. If the rains were to fail, there would neither be alms nor penance on this wide earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १९</summary>
 
 9\. தானம் தவம்இரண்டும் தங்கா வியன்உலகம்  
 வானம் வழங்கா தெனின்.  
@@ -407,7 +407,7 @@ Neither can water exist without rain. *
 २०. The word "ऒऴुक्कु" could be taken to mean either "conduct/virtue" or "flow/discharge/water". Thus, an alternate, but equally valid translation is: "If life cannot be sustained without water, virtue too depends on rain" - (S.M. Diaz). Using the other meaning, the couplet could also be translated as: "Life cannot exist without water, nor can flowing water without rain" – (N.V.K. Ashraf). 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०</summary>
 
 20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
 vāṉ iṉṟu amaiyātu oḻukku.
@@ -415,7 +415,7 @@ vāṉ iṉṟu amaiyātu oḻukku.
 20\. The world cannot exist without water; there will be no ceaseless supply without rainfall.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २०</summary>
 
 20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  
 vāṉ iṉṟu amaiyātu oḻukku.
@@ -424,7 +424,7 @@ vāṉ iṉṟu amaiyātu oḻukku.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २०</summary>
 
 10\. நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்  
 வான்இன்று அமையாது ஒழுக்கு  

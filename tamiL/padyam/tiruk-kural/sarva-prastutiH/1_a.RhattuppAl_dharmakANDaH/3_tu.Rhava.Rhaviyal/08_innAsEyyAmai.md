@@ -24,7 +24,7 @@ Even for wealth that confers renown. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३११</summary>
 
 311\. ciṟappu īṉum celvam peṟiṉum, piṟarkku iṉṉā  
 ceyyāmai mācu aṟṟār kōḷ.
@@ -32,7 +32,7 @@ ceyyāmai mācu aṟṟār kōḷ.
 311\. It is the nature of the spotless not to inflict suffering on others, though by it they may get wealth and renown.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३११</summary>
 
 1\. சிறப்புஈனும் செல்வம் பெறினும் பிறர்க்குஇன்னா  
 செய்யாமை மாசற்றார் கோள்  
@@ -71,7 +71,7 @@ Is not to hurt in return any hurt caused in hate. *
 ३१२. Compare with २०३: "The height of wisdom, it is said, is not to return ill for ill" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१२</summary>
 
 312\. kaṟuttu iṉṉā ceyta akkaṇṇum, maṟuttu iṉṉā  
 ceyyāmai mācu aṟṟār kōḷ.
@@ -79,7 +79,7 @@ ceyyāmai mācu aṟṟār kōḷ.
 312\. It is the nature of the stainless not to resist evil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१२</summary>
 
 2\. கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்துஇன்னா  
 செய்யாமை மாசற்றார் கோள்.  
@@ -113,7 +113,7 @@ Brings unbearable woes. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१३</summary>
 
 313\. ceyyāmal ceṟṟārkkum iṉṉāta ceytapiṉ,  
 uyyā viḻumam tarum.
@@ -121,7 +121,7 @@ uyyā viḻumam tarum.
 313\. Even our vengeance for a wanton injury results in our own unbearable sorrow.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१३</summary>
 
 3\. செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின்  
 உய்யா விழுமம் தரும்.  
@@ -160,7 +160,7 @@ By shaming him with a good deed.*
 ३१४. Compare with ९८७: "What good is that goodness if it does not return good even to those who cause evil?" * - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१४</summary>
 
 314\. iṉṉā ceytārai oṟuttal avar nāṇa  
 nal nayam ceytu, viṭal.
@@ -168,7 +168,7 @@ nal nayam ceytu, viṭal.
 314\. The noblest revenge is to put the foe to the blush by our acts of kindness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१४</summary>
 
 4\. இன்னாசெய் தாரை ஒறுத்தல் அவர் நாண  
 நன்னயம் செய்து விடல்.  
@@ -202,7 +202,7 @@ If he pines not at others' pain as his own? *
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१५</summary>
 
 315\. aṟiviṉāṉ ākuvatu uṇṭō-piṟitiṉ nōy  
 tam nōypōl pōṟṟākkaṭai?.
@@ -210,7 +210,7 @@ tam nōypōl pōṟṟākkaṭai?.
 315\. What profiteth one’s reason, if one does not feel others’ sufferings as his own and guard against them?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१५</summary>
 
 5\. அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்  
 தந்நோய்போல் போற்றாக் கடை.  
@@ -244,7 +244,7 @@ Has hurt yourself.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१६</summary>
 
 316\. iṉṉā eṉat tāṉ uṇarntavai, tuṉṉāmai  
 vēṇṭum, piṟaṉkaṇ ceyal.
@@ -252,7 +252,7 @@ vēṇṭum, piṟaṉkaṇ ceyal.
 316\. Avoid all that causes pain to others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१६</summary>
 
 6\. இன்னா எனத்தான் உணர்ந்தவை துன்னாமை  
 வேண்டும் பிறன்கண் செயல்.  
@@ -286,7 +286,7 @@ Anyone, anytime, anyway.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१७</summary>
 
 317\. eṉaittāṉum, eññāṉṟum, yārkkum, maṉattāṉ ām  
 māṇā ceyyāmai talai.
@@ -294,7 +294,7 @@ māṇā ceyyāmai talai.
 317\. It is the supremest virtue not to commit at any time even slight injury to others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१७</summary>
 
 7\. எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்  
 மாணாசெய் யாமை தலை.  
@@ -333,7 +333,7 @@ Knowing what it is to be hurt?
 ३१८. Compare with ९९. "How can anyone speak harsh words, having seen what kind words do?" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१८</summary>
 
 318\. taṉ uyirkku iṉṉāmai tāṉ aṟivāṉ, eṉkolō,  
 maṉ uyirkku iṉṉā ceyal?.
@@ -341,7 +341,7 @@ maṉ uyirkku iṉṉā ceyal?.
 318\. How is it a man inflicts injury upon others knowing how painful it would be to himself?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१८</summary>
 
 8\. தன்னுயிர்க்கு இன்னாமை தானறிவான் என்கொலோ  
 மன்னுயிர்க்கு இன்னா செயல்.  
@@ -375,7 +375,7 @@ Will come back at you on its own by eve.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३१९</summary>
 
 319\. piṟarkku iṉṉā muṟpakal ceyyiṉ, tamakku iṉṉā  
 piṟpakal tāmē varum.
@@ -383,7 +383,7 @@ piṟpakal tāmē varum.
 319\. As the night follows day, evil that we do recoils on us.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३१९</summary>
 
 9\. பிறர்க்குஇன்னா முற்பகல் செய்யின் தமக்குஇன்னா  
 பிற்பகல் தாமே வரும்.  
@@ -417,7 +417,7 @@ Who don't want to be hurt cause no hurt. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२०</summary>
 
 320\. nōy ellām nōy ceytār mēlavām; nōy ceyyār,  
 nōy iṉmai vēṇṭupavar.
@@ -425,7 +425,7 @@ nōy iṉmai vēṇṭupavar.
 320\. All sufferings befall those who inflict harm on others. Those who desire immunity from suffering never commit injury.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३२०</summary>
 
 320\. nōy ellām nōy ceytār mēlavām; nōy ceyyār,  
 nōy iṉmai vēṇṭupavar.
@@ -434,7 +434,7 @@ nōy iṉmai vēṇṭupavar.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३२०</summary>
 
 10\. நோய்எல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்  
 நோயின்மை வேண்டு பவர்.  

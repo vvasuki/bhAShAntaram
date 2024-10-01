@@ -25,7 +25,7 @@ Constitute a country. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३१</summary>
 
 731\. taḷḷā viḷaiyuḷum, takkārum, tāḻvu ilāc  
 celvarum, cērvatu- nāṭu.
@@ -33,7 +33,7 @@ celvarum, cērvatu- nāṭu.
 731\. That is a kingdom which has undiminishing produce, righteous people and fadeless riches.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३१</summary>
 
 74\. நாடு - The country
 
@@ -69,7 +69,7 @@ Of abundant produce that never declines.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३२</summary>
 
 732\. perum poruḷāṉ peṭṭakkatu āki, aruṅ kēṭṭāl,  
 āṟṟa viḷaivatu-nāṭu.
@@ -77,7 +77,7 @@ Of abundant produce that never declines.
 732\. That is a kingdom which has boundless wealth coveted for by other nations and has imperishable fertile resources.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३२</summary>
 
 2\. பெரும்பொருளால் பெட்டக்க தாகி அருங்கேட்டால்  
 ஆற்ற விளைவது நாடு.  
@@ -111,7 +111,7 @@ And yet pays all taxes to the king. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३३</summary>
 
 733\. poṟai oruṅku mēlvaruṅkāl tāṅki, iṟaivaṟku  
 iṟai oruṅku nērvatu-nāṭu.
@@ -119,7 +119,7 @@ iṟai oruṅku nērvatu-nāṭu.
 733\. That alone is a kingdom which accommodates immigrants and whose king receives taxes willingly paid.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३३</summary>
 
 3\. பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்கு  
 இறையொருங்கு நேர்வது நாடு.  
@@ -153,7 +153,7 @@ Incessant plagues and ravaging enemies.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३४</summary>
 
 734\. uṟu paciyum, ōvāp piṇiyum, ceṟu pakaiyum,  
 cērātu iyalvatu-nāṭu.
@@ -161,7 +161,7 @@ cērātu iyalvatu-nāṭu.
 734\. That is a kingdom where excessive hunger, incurable diseases and destructive enemies are absent.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३४</summary>
 
 4\. உறுபசியும் ஓவாப் பிணியும் செறுபகையும்  
 சேரா தியல்வது நாடு  
@@ -195,7 +195,7 @@ Ruinous traitors and terrorists harassing kings.
 (M.S. Poornalingam Pillai), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३५</summary>
 
 735\. pal kuḻuvum, pāḻceyyum uṭpakaiyum, vēntu alaikkum  
 kol kuṟumpum illatu-nāṭu.
@@ -203,7 +203,7 @@ kol kuṟumpum illatu-nāṭu.
 735\. That is a kingdom where there are not many (disloyal) associations, destructive internal dissensions and disturbing murderous chieftains.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३५</summary>
 
 5\. பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும்  
 கொல்குறும்பும் இல்லது நாடு.  
@@ -237,7 +237,7 @@ And whose yields don't cease even if they come. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३६</summary>
 
 736\. kēṭu aṟiyā, keṭṭa iṭattum vaḷam kuṉṟā  
 nāṭu, eṉpa, nāṭṭiṉ talai.
@@ -245,7 +245,7 @@ nāṭu, eṉpa, nāṭṭiṉ talai.
 736\. That is the top kingdom which is not harassed by an enemy, and which even if harassed does not experience want.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३६</summary>
 
 6\. கேடறியாக் கெட்ட விடத்தும் வளங்குன்றா  
 நாடென்ப நாட்டின் தலை  
@@ -284,7 +284,7 @@ Springs and well placed hills, and strong fortress. *
 ७३७. Compare with ७४२. "Blue water, open space, hills and thick forests constitute a fortress. - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३७</summary>
 
 737\. iru puṉalum, vāynta malaiyum, varu puṉalum,  
 val araṇum-nāṭṭiṟku uṟuppu.
@@ -292,7 +292,7 @@ val araṇum-nāṭṭiṟku uṟuppu.
 737\. Surface and subsoil water, well situated hills from which flow waters and an invincible fort are the limbs of a kingdom.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३७</summary>
 
 7\. இருபுனலும் வாய்ந்த மலையும் வருபுனலும்  
 வல்லரணும் நாட்டிற்கு உறுப்பு.  
@@ -326,7 +326,7 @@ Fertility, joy, security and wealth. *
 (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३८</summary>
 
 738\. piṇi iṉmai, celvam, viḷaivu, iṉpam, ēmam-  
 aṇi eṉpa, nāṭṭiṟku-iv aintu.
@@ -334,7 +334,7 @@ aṇi eṉpa, nāṭṭiṟku-iv aintu.
 738\. Five are the ornaments of a kingdom - absence of disease, wealth, fertility, happiness and security.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३८</summary>
 
 8\. பிணியின்மை செல்வம் விளைவுஇன்பம் ஏமம்  
 அணியென்ப நாட்டிற்கிவ் வைந்து.  
@@ -368,7 +368,7 @@ That is no land where toil precedes yield. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३९</summary>
 
 739\. nāṭu eṉpa, nāṭā vaḷattaṉa; nāṭu alla,  
 nāṭa, vaḷam tarum nāṭu.
@@ -376,7 +376,7 @@ nāṭa, vaḷam tarum nāṭu.
 739\. That is a kingdom which has rich natural resources. That is no kingdom which yields wealth by toil.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३९</summary>
 
 9\. நாடென்ப நாடா வளத்தன நாடல்ல  
 நாட வளந்தரு நாடு  
@@ -410,7 +410,7 @@ If not blessed with a ruler. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४०</summary>
 
 740\. āṅku amaivu eytiyakkaṇṇum payam iṉṟē-  
 vēntu amaivu illāta nāṭu.
@@ -418,7 +418,7 @@ vēntu amaivu illāta nāṭu.
 740\. Vain is the kingdom which may have all the excellence except harmony between the ruler and the ruled.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४०</summary>
 
 10\. ஆங்கமை வெய்தியக் கண்ணும் பயமின்றே  
 வேந்தமை வில்லாத நாடு  

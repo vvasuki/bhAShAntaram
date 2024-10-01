@@ -24,7 +24,7 @@ All the rest is investment for a return.
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२१</summary>
 
 221\. vaṟiyārkku oṉṟu īvatē īkai; maṟṟu ellām  
 kuṟiyetirppai nīratu uṭaittu.
@@ -32,7 +32,7 @@ kuṟiyetirppai nīratu uṭaittu.
 221\. Gift to the poor alone is true charity. Everything else is of the nature of a barter.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२१</summary>
 
 1\. வறியார்க்கொன்று ஈவதே ஈகைமற் றெல்லாம்  
 குறியெதிர்ப்பை நீர துடைத்து  
@@ -66,7 +66,7 @@ And to give is good even if there is no heaven.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२२</summary>
 
 222\. 'nallāṟu' eṉiṉum, koḷal tītu; ‘mēl ulakam  
 il’ eṉiṉum, ītalē naṉṟu.
@@ -74,7 +74,7 @@ il’ eṉiṉum, ītalē naṉṟu.
 222\. Receiving gifts is bad though one is assured of heaven. Bestowing gifts is good, though thereby one should be bereft of it.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२२</summary>
 
 222\. 'nallāṟu' eṉiṉum, koḷal tītu; ‘mēl ulakam  
 il’ eṉiṉum, ītalē naṉṟu.
@@ -82,7 +82,7 @@ il’ eṉiṉum, ītalē naṉṟu.
 222\. Receiving gifts is bad though one is assured of heaven. Bestowing gifts is good, though thereby one should be bereft of it.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२२</summary>
 
 2\. நல்லாறு எனினும் கொளல்தீது மேலுலகம்  
 இல்லெனினும் ஈதலே நன்று  
@@ -116,7 +116,7 @@ Without uttering the wretched excuse, "I have nothing."
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२३</summary>
 
 223\. 'ilaṉ' eṉṉum evvam uraiyāmai ītal  
 kulaṉ uṭaiyāṉkaṇṇē uḷa.
@@ -124,7 +124,7 @@ kulaṉ uṭaiyāṉkaṇṇē uḷa.
 223\. The innately noble never beg but give ere charity begins.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२३</summary>
 
 3\. இலனென்னும் எவ்வம் உரையாமை ஈதல்  
 குலனுடையான் கண்ணே உள  
@@ -158,7 +158,7 @@ And see the smiling face of the beggar. *
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२४</summary>
 
 224\. iṉṉātu, irakkappaṭutal-irantavar  
 iṉ mukam kāṇum aḷavu.
@@ -166,7 +166,7 @@ iṉ mukam kāṇum aḷavu.
 224\. Even to be begged is miserable for we feel wretched till the beggar’s face is lit with joy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२४</summary>
 
 4\. இன்னாது இரக்கப் படுதல் இரந்தவர்  
 இன்முகங் காணும் அளவு  
@@ -200,7 +200,7 @@ But stronger still is the strength of relieving it.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२५</summary>
 
 225\. āṟṟuvār āṟṟal paci āṟṟal; ap paciyai  
 māṟṟuvār āṟṟaliṉ piṉ.
@@ -208,7 +208,7 @@ māṟṟuvār āṟṟaliṉ piṉ.
 225\. Endurance of one’s hunger is the test of one’s penance. Far greater than that endurance is the spirit of appeasing the hunger of others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२५</summary>
 
 5\. ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை  
 மாற்றுவார் ஆற்றலின் பின்  
@@ -242,7 +242,7 @@ Is the treasury the haves have deposited their wealth. *
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२६</summary>
 
 226\. aṟṟār aḻi paci tīrttal! aḵtu oruvaṉ  
 peṟṟāṉ poruḷ vaippu uḻi.
@@ -250,7 +250,7 @@ peṟṟāṉ poruḷ vaippu uḻi.
 226\. Let the rich appease the devouring hunger of the indigent poor. It is a charity rendered unto themselves.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२६</summary>
 
 6\. அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்  
 பெற்றான் பொருள்வைப் புழி  
@@ -284,7 +284,7 @@ Who shares his food by habit.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२७</summary>
 
 227\. pāttu ūṇ marīiyavaṉaip paci eṉṉum  
 tīp piṇi tīṇṭal aritu.
@@ -292,7 +292,7 @@ tīp piṇi tīṇṭal aritu.
 227\. The pest of hunger never touches one who shares one’s food with the poor.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२७</summary>
 
 7\. பாத்தூண் மரீஇ யவனைப் பசிஎன்னும்  
 தீப்பிணி தீண்டல் அரிது  
@@ -326,7 +326,7 @@ The hard-hearted waste their wealth hoarding it. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२८</summary>
 
 228\. īttu uvakkum iṉpam aṟiyārkol-tām uṭaimai  
 vaittu iḻakkum vaṉ kaṇavar?.
@@ -334,7 +334,7 @@ vaittu iḻakkum vaṉ kaṇavar?.
 228\. The callous rich hide their barren metal; perhaps they know not the joy of giving.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२८</summary>
 
 8\. ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை  
 வைத்திழக்கும் வன்க ணவர்  
@@ -368,7 +368,7 @@ Is worse than begging.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२९</summary>
 
 229\. irattaliṉ iṉṉātu maṉṟa-nirappiya  
 tāmē tamiyar uṇal.
@@ -376,7 +376,7 @@ tāmē tamiyar uṇal.
 229\. More squalid than begging is a life of self-indulgence.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२९</summary>
 
 9\. இரத்தலின் இன்னாது மன்ற நிரப்பிய  
 தாமே தமியர் உணல்  
@@ -410,7 +410,7 @@ If one can't help the poor. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३०</summary>
 
 230\. cātaliṉ iṉṉātatu illai; iṉitu, atūum  
 ītal iyaiyākkaṭai.
@@ -418,7 +418,7 @@ If one can't help the poor. *
 230\. Death indeed is the greatest calamity; worse than death is one’s failure in charity.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३०</summary>
 
 230\. cātaliṉ iṉṉātatu illai; iṉitu, atūum  
 ītal iyaiyākkaṭai.
@@ -427,7 +427,7 @@ If one can't help the poor. *
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३०</summary>
 
 10\. சாதலின் இன்னாத தில்லை இனிததூஉம்  
 ஈதல் இயையாக் கடை  

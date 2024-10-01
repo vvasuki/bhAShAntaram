@@ -24,7 +24,7 @@ Decked with jewels?" My heart is amazed! *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८१</summary>
 
 1081 aṇaṅkukol āymayil kollō kaṉaṅkuḻai  
 mātarkol mālumeṉ neñcu.
@@ -32,7 +32,7 @@ mātarkol mālumeṉ neñcu.
 1081\. Is this a goddess fair? Or is it a rare peacock? Or, is it a mortal with heavy ear-rings? My mind is perplexed in the extreme.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८१</summary>
 
 1\. அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை  
 மாதர்கொல் மாலும்என் நெஞ்சு.  
@@ -66,7 +66,7 @@ Like darts of an armed angel.
 (N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८२</summary>
 
 1082 nōkkiṉāḷ nōkketir nōkkutal tākkaṇaṅku  
 tāṉaikkoṇ ṭaṉṉatu uṭaittu.
@@ -74,7 +74,7 @@ tāṉaikkoṇ ṭaṉṉatu uṭaittu.
 1082\. The glance she returns for mine resembles that of a terrible goddess leading an army.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८२</summary>
 
 2\. நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு  
 தானைக்கொண் டன்னது உடைத்து.  
@@ -108,7 +108,7 @@ That it is feminine and has warring eyes. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८३</summary>
 
 1083 paṇṭaṟiyēṉ kūṟṟueṉ pataṉai iṉiyaṟintēṉ  
 peṇṭakaiyāl pēramark kaṭṭu.
@@ -116,7 +116,7 @@ peṇṭakaiyāl pēramark kaṭṭu.
 1083\. The god of death I never knew. Now I behold him in the shape of this woman with battling eyes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८३</summary>
 
 3\. பண்டறியேன் கூறறென் பதனை இனியறிந்தேன்  
 பெண்டகையால் பேரமர்க் கட்டு.  
@@ -150,7 +150,7 @@ But her look sucks life out of men who gaze. *
 (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८४</summary>
 
 1084 kaṇṭār uyiruṇṇum tōṟṟattāl peṇtakaip  
 pētaikku amarttaṉa kaṇ.
@@ -158,7 +158,7 @@ pētaikku amarttaṉa kaṇ.
 1084\. The cruel eyes of this woman seem to devour the lives of those on whom they fall.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८४</summary>
 
 4\. கண்டார் உயிருண்ணும் தோற்றத்தால் பெண்டகைப்  
 பேதைக்கு அமர்த்தன கண்.  
@@ -192,7 +192,7 @@ Her look has all these three. *
 (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८५</summary>
 
 1085 kūṟṟamō kaṇṇō piṇaiyō maṭavaral  
 nōkkamim mūṉṟum uṭaittu.
@@ -200,7 +200,7 @@ nōkkamim mūṉṟum uṭaittu.
 1085\. Oh, how the death-dealing antelope-eyes of the lady charm and puzzle me!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८५</summary>
 
 5\. கூற்றமோ கண்ணோ பிணையோ மடவரல்  
 நோக்கம்இம் மூன்றும் உடைத்து.  
@@ -234,7 +234,7 @@ That my heart’s flutters cease. *
 (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८६</summary>
 
 1086 koṭumpuruvam kōṭā maṟaippiṉ naṭuṅkañar  
 ceyyala maṉivaḷ kaṇ.
@@ -242,7 +242,7 @@ ceyyala maṉivaḷ kaṇ.
 1086\. Her cruel eyes, had they not been shaded by her brows, would have made me quail and shudder.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८६</summary>
 
 6\. கொடும்புருவம் கோடா மறைப்பின் நடுங்கஞர்  
 செய்யல மன்இவள் கண்.  
@@ -276,7 +276,7 @@ Is the vest that veils her buxom breasts.
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८७</summary>
 
 1087 kaṭāak kaḷiṟṟiṉmēl kaṭpaṭām mātar  
 paṭāa mulaimēl tukil.
@@ -284,7 +284,7 @@ paṭāa mulaimēl tukil.
 1087\. The garment over the ample swell of her bosom is like the cloth on the face of a wild elephant.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८७</summary>
 
 7\. கடாஅக் களிற்றின்மேல் கட்படாம் மாதர்  
 படாஅ முலைமேல் துகில்.  
@@ -318,7 +318,7 @@ When I face her brows beaming bright!
 (K. Krishnaswamy & Vijaya Ramkumar), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८८</summary>
 
 1088 oṇṇutaṟ kōo uṭaintatē ñāṭpiṉuḷ  
 naṇṇārum uṭkumeṉ pīṭu.
@@ -326,7 +326,7 @@ naṇṇārum uṭkumeṉ pīṭu.
 1088\. My might which has struck terror in the heart of the foe who has only heard of my prowess lies overthrown before her splendid face.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८८</summary>
 
 8\. ஒண்ணுதற் கோஒ உடைந்ததே ஞாட்பினுள்  
 நண்ணாரும் உட்கும்என் பீடு.  
@@ -360,7 +360,7 @@ Adorned with modesty and meek looks of a hind? *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८९</summary>
 
 1089 piṇaiyēr maṭanōkkum nāṇum uṭaiyāṭku  
 aṇiyavaṉō ētila tantu.
@@ -368,7 +368,7 @@ aṇiyavaṉō ētila tantu.
 1089\. What need of ornament has this lady of modesty, adorned with the glances of an antelope?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८९</summary>
 
 9\. பிணையேர் மடநோக்கும் நாணும் உடையாட்கு  
 அணிஎவனோ ஏதில தந்து.  
@@ -407,7 +407,7 @@ But never at mere look like love! *
 १०९०. Compare with १२०१: “Love is sweeter than wine; its mere thought intoxicates” - (P.S. Sundaram) and with also १२८१: “To please with the thought and delight with the sight, belongs not to liquor but love” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०९०</summary>
 
 1090 uṇṭārkaṇ allatu aṭunaṟāk kāmampōl  
 kaṇṭār makiḻceytal iṉṟu.
@@ -415,7 +415,7 @@ kaṇṭār makiḻceytal iṉṟu.
 1090\. Wine intoxicates the person when only drunk but love inebriates the soul even by a mere look.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०९०</summary>
 
 10\. உண்டார்கண் அல்லது அடுநறாக் காமம்போல்  
 கண்டார் மகிழ்செய்தல் இன்று.  

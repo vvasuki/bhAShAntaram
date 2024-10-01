@@ -25,7 +25,7 @@ To strike you at the opportune time. *
 (S.M. Diaz), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२१</summary>
 
 821 cīrviṭam kāṇiṉ eṟitaṟkup paṭṭaṭai  
 nērā nirantavar naṭpu.
@@ -33,7 +33,7 @@ nērā nirantavar naṭpu.
 821\. Friendship of the wicked is but a pretext to stab you cunningly in an unwary mood.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२१</summary>
 
 1\. சீரிடம் காணின் எறிதற்குப் பட்டடை  
 நேரா நிரந்தவர் நட்பு.  
@@ -67,7 +67,7 @@ Who act like friends.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२२</summary>
 
 822 iṉampōṉṟu iṉamallār kēṇmai makaḷir  
 maṉampōla vēṟu paṭum.
@@ -75,7 +75,7 @@ maṉampōla vēṟu paṭum.
 822\. Inconstant as the heart of a woman is the false friendship of seeming friends.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२२</summary>
 
 2\. இனம்போன்று இனமல்லார் கேண்மை மகளிர்  
 மனம்போல வேறு படும்.  
@@ -109,7 +109,7 @@ No matter how well educated they are. *
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२३</summary>
 
 823 palanalla kaṟṟak kaṭaittum maṉanallar  
 ākutal māṇārkku aritu.
@@ -117,7 +117,7 @@ No matter how well educated they are. *
 823\. A wicked heart never mellows with learning.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२३</summary>
 
 3\. பலநல்ல கற்றக் கடைத்தும் மனம்நல்லர்  
 ஆகுதல் மாணார்க்கு அரிது.  
@@ -156,7 +156,7 @@ Conceal bitterness in their hearts.
 ८२४. Compare with ७८६. "A smiling face alone makes no friendship, but the heart should also smile with the face." * - (V. Ramasamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२४</summary>
 
 824 mukattiṉ iṉiya nakāa akattuiṉṉā  
 vañcarai añcap paṭum.
@@ -164,7 +164,7 @@ vañcarai añcap paṭum.
 824\. Fear those who smile and smile but are villainy at heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२४</summary>
 
 4\. முகத்தின் இனிய நகாஅ அகத்தின்னா  
 வஞ்சரை அஞ்சப் படும்.  
@@ -203,7 +203,7 @@ Whose minds don't agree with us. *
 ८२५: A short and crisp translation but not close to original: "When minds do not agree don't trust mere words" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२५</summary>
 
 825 maṉattiṉ amaiyā tavarai eṉaittoṉṟum  
 colliṉāl tēṟaṟpāṟṟu aṉṟu.
@@ -211,7 +211,7 @@ colliṉāl tēṟaṟpāṟṟu aṉṟu.
 825\. It is impossible to convince those whose minds do not agree.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२५</summary>
 
 5\. மனத்தின் அமையா தவரை எனைத்தொன்றும்  
 சொல்லினால் தேறற்பாற்று அன்று.  
@@ -245,7 +245,7 @@ Can be read at once. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२६</summary>
 
 826 naṭṭārpōl nallavai colliṉum oṭṭārcol  
 ollai uṇarap paṭum.
@@ -253,7 +253,7 @@ ollai uṇarap paṭum.
 826\. Of what avail are the friendly words of your foe?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२६</summary>
 
 6\. நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல்  
 ஒல்லை உணரப் படும்.  
@@ -287,7 +287,7 @@ A bending bow is a sign of imminent danger.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२७</summary>
 
 827 colvaṇakkam oṉṉārkaṇ koḷḷaṟka vilvaṇakkam  
 tīṅku kuṟittamai yāṉ.
@@ -295,7 +295,7 @@ tīṅku kuṟittamai yāṉ.
 827\. Do not trust the seeming humility of the enemy’s speech for the bow bends only to do harm.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२७</summary>
 
 7\. சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்  
 தீங்கு குறித்தமை யான்.  
@@ -329,7 +329,7 @@ Is the mourning tears of foes. *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२८</summary>
 
 828 toḻutakai yuḷḷum paṭaiyoṭuṅkum oṉṉār  
 aḻutakaṇ ṇīrum aṉaittu.
@@ -337,7 +337,7 @@ aḻutakaṇ ṇīrum aṉaittu.
 828\. The folded hands of the enemy in an attitude of devotion conceal a weapon. Likewise are his false tears.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२८</summary>
 
 8\. தொழுதகை யுள்ளும் படையொடுங்கும் ஒன்னார்  
 அழுதகண் ணீரும் அனைத்து.  
@@ -371,7 +371,7 @@ Those who flatter you but despise within. *
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८२९</summary>
 
 829 mikacceytu tammauḷu vārai nakacceytu  
 naṭpiṉuḷ cāppullaṟ pāṟṟu.
@@ -379,7 +379,7 @@ naṭpiṉuḷ cāppullaṟ pāṟṟu.
 829\. Policy requires that hostility to a foe should be hidden under a smile.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८२९</summary>
 
 9\. மிகச்செய்து தம்எள்ளு வாரை நகச்செய்து  
 நட்பினுள் சாப்புல்லற் பாற்று.  
@@ -413,7 +413,7 @@ But banish them from thy heart.
 (J. Narayanaswamy), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८३०</summary>
 
 830 pakainaṭpām kālam varuṅkāl mukanaṭṭu  
 akanaṭpu orīi viṭal.
@@ -421,7 +421,7 @@ akanaṭpu orīi viṭal.
 830\. When the enemy pretends alliance, receive him with outward smile and inward distrust.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८३०</summary>
 
 10\. பகைநட்பாம் காலம் வருங்கால் முகநட்டு  
 அகநட்பு ஒரீஇ விடல்  

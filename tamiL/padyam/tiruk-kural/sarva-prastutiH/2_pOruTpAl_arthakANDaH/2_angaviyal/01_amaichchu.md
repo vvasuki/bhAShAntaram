@@ -25,7 +25,7 @@ The time, the mode and the deed.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३१</summary>
 
 631\. karuviyum, kālamum, ceykaiyum, ceyyum  
 aruviṉaiyum, māṇṭatu-amaiccu.
@@ -33,7 +33,7 @@ aruviṉaiyum, māṇṭatu-amaiccu.
 631\. He is the minister who, finds out the means, the time, the deed and its full accomplishment.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३१</summary>
 
 64\. அமைச்சு - Ministers
 
@@ -74,7 +74,7 @@ Learning and perseverance, besides the five tactics. *
 ६३२. (V. Ramasamy) considers that the phrase "ऐन्दुडन्" in this Kural has made this couplet a difficult one to translate. It is not clear if these five tactics are amongst those mentioned in other couplets in this chapter.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३२</summary>
 
 632\. vaṉkaṇ, kuṭikāttal, kaṟṟu aṟital, āḷviṉaiyōṭu  
 aintuṭaṉ māṇṭatu-amaiccu.
@@ -82,7 +82,7 @@ aintuṭaṉ māṇṭatu-amaiccu.
 632\. A minister should have five qualities; tenacity of purpose, birth in a respectable family, welfare of the people, profound learning and perseverance.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३२</summary>
 
 2\. வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு  
 ஐந்துடன் மாண்டது அமைச்சு.  
@@ -116,7 +116,7 @@ Cherish friends and reunite enemies. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३३</summary>
 
 633\. pirittalum, pēṇikkoḷalum, pirintārp  
 poruttalum, vallatu-amaiccu.
@@ -124,7 +124,7 @@ poruttalum, vallatu-amaiccu.
 633\. A minister must be able to separate a foe from his ally, befriend allies and reunite separated allies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३३</summary>
 
 3\. பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்  
 பொருத்தலும் வல்லது அமைச்சு.  
@@ -158,7 +158,7 @@ Executes them and directs others. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३४</summary>
 
 634\. teritalum, tērntu ceyalum, orutalaiyāc  
 collalum vallatu-amaiccu.
@@ -166,7 +166,7 @@ collalum vallatu-amaiccu.
 634\. A minister should study the consequences of an act and carry it successfully by a decisive speech.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३४</summary>
 
 4\. தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச்  
 சொல்லலும் வல்லது அமைச்சு.  
@@ -200,7 +200,7 @@ Is learned in discourse and ever resourceful.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३५</summary>
 
 635\. aṟaṉ aṟintu, āṉṟu amainta collāṉ, eññāṉṟum  
 tiṟaṉ aṟintāṉ, tērccit tuṇai.
@@ -208,7 +208,7 @@ tiṟaṉ aṟintāṉ, tērccit tuṇai.
 635\. He is a helpful counselor who is righteous and considerate in his speech, and always knows how to act.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३५</summary>
 
 5\. அறனறிந்து ஆன்றமைந்த சொல்லான்எஞ் ஞான்றும்  
 திறனறிந்தான் தேர்ச்சித் துணை.  
@@ -247,7 +247,7 @@ Who add learning to their intelligence? *
 ६३६. A short and crisp translations of these couplets [but not close to original]: "What can oppose a keen intelligence combined with learning?" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३६</summary>
 
 636\. matinuṭpam nūlōṭu uṭaiyārkku ati nuṭpam  
 yā uḷa, muṉ niṟpavai?.
@@ -255,7 +255,7 @@ yā uḷa, muṉ niṟpavai?.
 636\. To a keen intellect combined with learning no difficulty stands in the way.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३६</summary>
 
 6\. மதிநுட்பம் நூலோடு உடையார்க்கு அதிநுட்பம்  
 யாஉள முன்னிற் பவை.  
@@ -294,7 +294,7 @@ Act as per the ways of the world. *
 ६३७. Another abstract translation: "However well-versed in books, be practical" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३७</summary>
 
 637\. ceyaṟkai aṟintakkaṭaittum, ulakattu  
 iyaṟkai aṟintu, ceyal!.
@@ -302,7 +302,7 @@ iyaṟkai aṟintu, ceyal!.
 637\. Even though you know the rules, act in conformity with the world opinion.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३७</summary>
 
 7\. செயற்கை அறிந்தக் கடைத்தும் உலகத்து  
 இயற்கை அறிந்து செயல்.  
@@ -336,7 +336,7 @@ Though the ruler in ignorance may refute wisdom.
 (P.S. Sundaram), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३८</summary>
 
 638\. aṟi koṉṟu, aṟiyāṉ eṉiṉum, uṟuti  
 uḻaiyiruntāṉ kūṟal kaṭaṉ.
@@ -344,7 +344,7 @@ uḻaiyiruntāṉ kūṟal kaṭaṉ.
 638\. Though a king listens not to wise words it is the duty of the minister to speak firmly to him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३८</summary>
 
 8\. அறிகொன்று அறியான் எனினும் உறுதி  
 உழையிருந்தான் கூறல் கடன்.  
@@ -378,7 +378,7 @@ Than one treacherous minister inside. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३९</summary>
 
 639\. paḻutu eṇṇum mantiriyiṉ, pakkattuḷ tev ōr  
 eḻupatu kōṭi uṟum.
@@ -386,7 +386,7 @@ eḻupatu kōṭi uṟum.
 639\. A treacherous minister by the king’s side is equal to seventy crores of enemies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३९</summary>
 
 9\. பழுதெண்ணும் மந்திரியின் பக்கத்துள் தெவ்வோர்  
 எழுபது கோடி உறும்.  
@@ -420,7 +420,7 @@ Even well-planned schemes.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४०</summary>
 
 640\. muṟaippaṭac cūḻntum, muṭivilavē ceyvar-  
 tiṟappāṭu ilāatavar.
@@ -428,7 +428,7 @@ tiṟappāṭu ilāatavar.
 640\. Ministers who have no requisite ability will leave a task unfinished though well begun.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४०</summary>
 
 10\. முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர்  
 திறப்பாடு இலாஅ தவர்.  

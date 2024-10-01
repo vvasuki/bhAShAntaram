@@ -29,7 +29,7 @@ And caused this fever, now cry in anguish?
 ११७१. An interesting alternate translation, but not close to the original: “My eyes only showed him and filled me with passion. Why now filled with tears?” * - (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७१</summary>
 
 1171 kaṇtām kaluḻvatu evaṉkolō taṇṭānōy  
 tāmkāṭṭa yāṅkaṇ ṭatu.
@@ -37,7 +37,7 @@ tāmkāṭṭa yāṅkaṇ ṭatu.
 1171\. Did you not show him to me and push me into the incurable sickness of love? Then why do you weep now to sft him, the cause of all your woe?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७१</summary>
 
 1\. கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய்  
 தாம்காட்ட யாம் கண்டது.  
@@ -71,7 +71,7 @@ Now not repent but grieve?
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७२</summary>
 
 1172 terintuṇarā nōkkiya uṇkaṇ parintuṇarāp  
 paital uḻappatu evaṉ.
@@ -79,7 +79,7 @@ paital uḻappatu evaṉ.
 1172\. Oh Eyes! Having thoughtlessly feasted upon the lover, how can you now grieve for your own folly?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७२</summary>
 
 2\. தெரிந்துணரா நோக்கிய உண்கண் பரிந்துணராப்  
 பைதல் உழப்பது எவன்.  
@@ -113,7 +113,7 @@ Eagerly looked at him are now in tears!
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७३</summary>
 
 1173 katumeṉat tāmnōkkit tāmē kaluḻum  
 itunakat takkatu uṭaittu.
@@ -121,7 +121,7 @@ itunakat takkatu uṭaittu.
 1173\. Those eyes once leapt to see the lover; now they weep by themselves. Is it not laughable?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७३</summary>
 
 3\. கதுமெனத் தாம்நோக்கித் தாமே கலுழும்  
 இதுநகத் தக்கது உடைத்து.  
@@ -155,7 +155,7 @@ My eyes have dried up, drained of all tears. *
 (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७४</summary>
 
 1174 peyalāṟṟā nīrulanta uṇkaṇ uyalāṟṟā  
 uyvilnōy eṉkaṇ niṟuttu.
@@ -163,7 +163,7 @@ uyvilnōy eṉkaṇ niṟuttu.
 1174\. Plunging me into an inevitable and incurable disease, these eyes of mine pour out their tears and run dry.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७४</summary>
 
 4\. பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா  
 உய்வில்நோய் என்கண் நிறுத்து.  
@@ -197,7 +197,7 @@ And for this must suffer sleepless pain. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७५</summary>
 
 1175 paṭalāṟṟā paital uḻakkum kaṭalāṟṟāk  
 kāmanōy ceytaeṉ kaṇ.
@@ -205,7 +205,7 @@ kāmanōy ceytaeṉ kaṇ.
 1175\. My eyes that caused a disease of love vaster than the sea itself, do not now close themselves in sleep; they languish in grief.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७५</summary>
 
 5\. படலாற்றா பைதல் உழக்கும் கடலாற்றாக்  
 காமநோய் செய்தஎன் கண்.  
@@ -239,7 +239,7 @@ Are themselves tormented. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७६</summary>
 
 1176 ōo iṉitē emakkuinnōy ceytakaṇ  
 tāam itaṉpaṭ ṭatu.
@@ -247,7 +247,7 @@ tāam itaṉpaṭ ṭatu.
 1176\. The very eyes that have caused me all those woes languish in sorrow by themselves. This is indeed just!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७६</summary>
 
 6\. ஓஒ இனிதே எமக்கிந்நோய் செய்தகண்  
 தாஅம் இதற்பட் டது.  
@@ -281,7 +281,7 @@ That eyed him longing and longing.
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७७</summary>
 
 1177 uḻantuuḻantu uḷnīr aṟuka viḻaintuiḻaintu  
 vēṇṭi avarkaṇṭa kaṇ.
@@ -289,7 +289,7 @@ vēṇṭi avarkaṇṭa kaṇ.
 1177\. These eyes hungered, wept, and repeatedly sent their glances to him. May they grieve and dry up all their stock of tears!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७७</summary>
 
 7\. உழந்துழந்து உள்நீர் அறுக விழைந்திழைந்து  
 வேண்டி யவர்க்கண்ட கண்.  
@@ -328,7 +328,7 @@ Yet my eyes pine, seeing him not. *
 ११७८. Compare with १२८३. Five of the seven seers (metrical feet) between these two couplets are same! “Let him neglect me and do what he will. My eyes will not rest till they see him”
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७८</summary>
 
 1178 pēṇātu peṭṭār uḷarmaṉṉō maṟṟavark  
 kāṇātu amaivila kaṇ.
@@ -336,7 +336,7 @@ kāṇātu amaivila kaṇ.
 1178\. She says to her companion: ‘Did you not say that he who loves with words gets the wearing. Unless I see him straight before me, my eyelids do not close in sleep.’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७८</summary>
 
 8\. பேணாது பெட்டார் உளர்மன்னோ மற்றவர்க்  
 காணாது அமைவில கண்.  
@@ -375,7 +375,7 @@ Either way my eyes never rest.
 ११७९. Compare with १२९५ for style and word play. “Anxious of not getting and of losing when got, either way my heart is always anxious” - (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७९</summary>
 
 1179 vārākkāl tuñcā variṉtuñcā āyiṭai  
 ārañar uṟṟaṉa kaṇ.
@@ -383,7 +383,7 @@ Either way my eyes never rest.
 1179\. When he is away, my eyes are restless. When he comes, they are sleepless. Lost between these extremities my eyes endure untold suffering.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७९</summary>
 
 9\. வாராக்கால் துஞ்சா வரின்துஞ்சா ஆயிடை  
 ஆரஞர் உற்றன கண்.  
@@ -417,7 +417,7 @@ It is hard to conceal secrets from these folks! *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८०</summary>
 
 1180 maṟaipeṟal ūrārkku aritaṉṟāl empōl  
 aṟaipaṟai kaṇṇār akattu.
@@ -425,7 +425,7 @@ aṟaipaṟai kaṇṇār akattu.
 1180\. It is certainly not hard for the villagers to read my secret love. My tell-tale eyes proclaim it to the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८०</summary>
 
 10\. மறைபெறல் ஊரார்க்கு அரிதன்றால் எம்போல்  
 அறைபறை கண்ணா ரகத்து.  

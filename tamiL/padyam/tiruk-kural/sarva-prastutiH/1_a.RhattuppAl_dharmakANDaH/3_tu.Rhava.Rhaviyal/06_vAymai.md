@@ -24,7 +24,7 @@ Wholly devoid of ill.
 (V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९१</summary>
 
 291\. 'vāymai eṉappaṭuvatu yātu?' eṉiṉ, yātu oṉṟum  
 tīmai ilāta colal.
@@ -32,7 +32,7 @@ tīmai ilāta colal.
 291\. What is truth but unsullied utterance?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९१</summary>
 
 1\. வாய்மை எனப்படுவது யாதெனின் யாதொன்றும்  
 தீமை இலாத சொலல்  
@@ -66,7 +66,7 @@ If it brings blameless benefit.
 (N.V.K. Ashraf), (V. Ramasamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९२</summary>
 
 292\. poymmaiyum vāymai iṭatta-purai tīrnta  
 naṉmai payakkum eṉiṉ.
@@ -74,7 +74,7 @@ naṉmai payakkum eṉiṉ.
 292\. Even untruth has the stamp of truth, if it is free from harm.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९२</summary>
 
 2\. பொய்ம்மையும் வாய்மை யிடத்த புரைதீர்ந்த  
 நன்மை பயக்கும் எனின்.  
@@ -108,7 +108,7 @@ Lest your own conscience burn you. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९३</summary>
 
 293\. taṉ neñcu aṟivatu poyyaṟka; poyttapiṉ,  
 taṉ neñcē taṉṉaic cuṭum.
@@ -116,7 +116,7 @@ taṉ neñcē taṉṉaic cuṭum.
 293\. Let none utter a falsehood against his conscience lest it should torment him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९३</summary>
 
 3\. தன்னெஞ் சறிவது பொய்யற்க பொய்த்தபின்  
 தன்னெஞ்சே தன்னைச் சுடும்.  
@@ -150,7 +150,7 @@ Truly lives in the hearts of all people.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९४</summary>
 
 294\. uḷḷattāl poyyātu oḻukiṉ, ulakattār  
 uḷḷattuḷ ellām uḷaṉ.
@@ -158,7 +158,7 @@ uḷḷattuḷ ellām uḷaṉ.
 294\. One sits high in the hearts of all who is true to oneself.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९४</summary>
 
 4\. உள்ளத்தால் பொய்யா தொழுகின் உலகத்தார்  
 உள்ளத்து ளெல்லாம் உளன்.  
@@ -192,7 +192,7 @@ Outweighs penance and charity.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९५</summary>
 
 295\. maṉattoṭu vāymai moḻiyiṉ, tavattoṭu  
 tāṉam ceyvāriṉ talai.
@@ -200,7 +200,7 @@ tāṉam ceyvāriṉ talai.
 295\. Far greater than a benefactor or an ascetic is one whose words come from the depths of truth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९५</summary>
 
 5\. மனத்தொடு வாய்மை மொழியின் தவத்தொடு  
 தானஞ்செய் வாரின் தலை.  
@@ -234,7 +234,7 @@ Can give all other virtues effortlessly. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९६</summary>
 
 296\. poyyāmai aṉṉa pukaḻ illai; eyyāmai,  
 ellā aṟamum tarum.
@@ -242,7 +242,7 @@ ellā aṟamum tarum.
 296\. One’s renown is rooted only in truth; it leads one easily to every other virtue.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९६</summary>
 
 6\. பொய்யாமை அன்ன புகழில்லை எய்யாமை  
 எல்லா அறமும் தரும்.  
@@ -281,7 +281,7 @@ He need not seek other virtues.
 २९७. A short crisp translation: "To be unfailingly true is to be unfailing in other virtues" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९७</summary>
 
 297\. poyyāmai poyyāmai āṟṟiṉ, aṟam piṟa  
 ceyyāmai ceyyāmai naṉṟu.
@@ -289,7 +289,7 @@ ceyyāmai ceyyāmai naṉṟu.
 297\. Practise truth, you need not practise any other virtue.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९७</summary>
 
 7\. பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிற  
 செய்யாமை செய்யாமை நன்று.  
@@ -323,7 +323,7 @@ And truthfulness shows the internal.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९८</summary>
 
 298\. puṟam tūymai nīrāl amaiyum;- akam tūymai  
 vāymaiyāl kāṇappaṭum.
@@ -331,7 +331,7 @@ vāymaiyāl kāṇappaṭum.
 298\. Water cleanses the body; truth cleanses the soul.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९८</summary>
 
 8\. புறந்தூய்மை நீரான் அமையும் அகந்தூய்மை  
 வாய்மையால் காணப் படும்.  
@@ -365,7 +365,7 @@ Only the light of truth is illuminant.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९९</summary>
 
 299\. ellā viḷakkum viḷakku alla; cāṉṟōrkkup  
 poyyā viḷakkē viḷakku.
@@ -373,7 +373,7 @@ poyyā viḷakkē viḷakku.
 299\. All lamps are not lamps. To the great the lamp of truth is the lamp.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९९</summary>
 
 9\. எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்  
 பொய்யா விளக்கே விளக்கு.  
@@ -407,7 +407,7 @@ There is nothing as good as truthfulness.
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३००</summary>
 
 300\. yām meyyāk kaṇṭavaṟṟuḷ, illai-eṉaittu oṉṟum  
 vāymaiyiṉ nalla piṟa.
@@ -415,7 +415,7 @@ vāymaiyiṉ nalla piṟa.
 300\. In all the scriptures we have read, there is no virtue greater than truth.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३००</summary>
 
 300\. yām meyyāk kaṇṭavaṟṟuḷ, illai-eṉaittu oṉṟum  
 vāymaiyiṉ nalla piṟa.
@@ -424,7 +424,7 @@ vāymaiyiṉ nalla piṟa.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३००</summary>
 
 10\. யாமெய்யாக் கண்டவற்றுள் இல்லை எனைத்தொன்றும்  
 வாய்மையின் நல்ல பிற.  

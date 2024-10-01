@@ -29,7 +29,7 @@ Does the world recompense the rain-cloud?
 २११. Five elements [pancha bhuta] are earth, water, fire, air and ether.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २११</summary>
 
 211\. kaimmāṟu vēṇṭā kaṭappāṭu; mārimāṭṭu  
 eṉ āṟṟum kollō, ulaku?.
@@ -37,7 +37,7 @@ eṉ āṟṟum kollō, ulaku?.
 211\. Do not expect any return for the services (duty) done. What does the world give in exchange for the clouds that pour rain?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २११</summary>
 
 1\. கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு  
 என்ஆற்றுங் கொல்லோ உலகு  
@@ -76,7 +76,7 @@ Is meant to serve those who deserve. *
 २१२. Compare with ८१. "It is to exercise the benevolence of hospitality that people earn a living and establish homes" -(W.H. Drew and J. Lazarus), (N.V.K. Ashraf). The word "तक्कार्क्कु" in this couplet can be translated as "deserving" or "worthy". Using the latter meaning, (P.S. Sundaram) and (V.V.S. Aiyar) translate this couplet as: "The worthy work and earn their wealth in order to help others" – (P.S. Sundaram).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१२</summary>
 
 212\. tāḷ āṟṟit tanta poruḷ ellām takkārkku  
 vēḷāṇmai ceytaṟporuṭṭu.
@@ -84,7 +84,7 @@ vēḷāṇmai ceytaṟporuṭṭu.
 212\. All the wealth one earns is for rendering help to the deserving.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१२</summary>
 
 2\. தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு  
 வேளாண்மை செய்தற் பொருட்டு  
@@ -118,7 +118,7 @@ Either here or in the heaven. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१३</summary>
 
 213\. puttēḷ ulakattum, īṇṭum, peṟal aritē-  
 oppuraviṉ nalla piṟa.
@@ -126,7 +126,7 @@ oppuraviṉ nalla piṟa.
 213\. Is there anything greater than decorum either here or in the world to come?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१३</summary>
 
 3\. புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே  
 ஒப்புரவின் நல்ல பிற  
@@ -160,7 +160,7 @@ The rest will be placed among the dead.
 (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१४</summary>
 
 214\. ottatu aṟivāṉ uyir vāḻvāṉ; maṟṟaiyāṉ  
 cettāruḷ vaikkappaṭum.
@@ -168,7 +168,7 @@ cettāruḷ vaikkappaṭum.
 214\. Verily he is alive who is in harmony with the world; others should be ranked with the dead.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१४</summary>
 
 4\. ஒத்த தறிவான் உயிர்வாழ்வான் மற்றையான்  
 செத்தாருள் வைக்கப் படும்  
@@ -207,7 +207,7 @@ Is a village pool ever full.
 २१५. Compare with ५२३. “The life of an unattached man is like a boundless pond flowing unbound” - (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१५</summary>
 
 215\. ūruṇi nīr niṟaintaṟṟē-ulaku avām  
 pēr aṟivāḷaṉ tiru.
@@ -215,7 +215,7 @@ pēr aṟivāḷaṉ tiru.
 215\. The wealth of the wise is a never-failing spring.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१५</summary>
 
 5\. ஊருணி நீர்நிறைந் தற்றே உலகவாம்  
 பேரறி வாளன் திரு  
@@ -249,7 +249,7 @@ It is like the village tree coming to fruit. *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१६</summary>
 
 216\. payaṉ maram uḷḷūrp paḻuttaṟṟāl-celvam  
 nayaṉ uṭaiyāṉkaṇ paṭiṉ.
@@ -257,7 +257,7 @@ nayaṉ uṭaiyāṉkaṇ paṭiṉ.
 216\. The wealth of the truly liberal is like a tree ripening in the heart of a village.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१६</summary>
 
 6\. பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்  
 நயனுடை யான்கண் படின்  
@@ -291,7 +291,7 @@ It is like an unfailing medicine tree. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१७</summary>
 
 217\. maruntu ākit tappā marattaṟṟāl-celvam  
 peruntakaiyāṉkaṇ paṭiṉ.
@@ -299,7 +299,7 @@ peruntakaiyāṉkaṇ paṭiṉ.
 217\. The wealth of the generous is like a healing medicinal tree.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१७</summary>
 
 7\. மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்  
 பெருந்தகை யான்கண் படின்  
@@ -333,7 +333,7 @@ Even during times of poverty.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१८</summary>
 
 218\. iṭaṉ il paruvattum, oppuraviṟku olkār-  
 kaṭaṉ aṟi kāṭciyavar.
@@ -341,7 +341,7 @@ kaṭaṉ aṟi kāṭciyavar.
 218\. Even in poverty the truly discerning never ceases to be liberal.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१८</summary>
 
 8\. இடனில் பருவத்தும் ஒப்புரவிற்கு ஒல்கார்  
 கடனறி காட்சி யவர்  
@@ -380,7 +380,7 @@ His inability to exercise his generosity. *
 २१९. Compare with १०१०. "The brief want of the benign rich is like the monsoon clouds just shed its moisture" - ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१९</summary>
 
 219\. nayaṉ uṭaiyāṉ nalkūrntāṉ ātal ceyum nīra  
 ceyyātu amaikalā āṟu.
@@ -388,7 +388,7 @@ ceyyātu amaikalā āṟu.
 219\. The poverty of the liberal of heart is his failure in the offices of tenderness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१९</summary>
 
 9\. நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீர  
 செய்யாது அமைகலா வாறு  
@@ -422,7 +422,7 @@ One's self may be sold to do it.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२०</summary>
 
 220\. 'oppuraviṉāl varum, kēṭu' eṉiṉ, aḵtu oruvaṉ  
 viṟṟuk kōḷ takkatu uṭaittu.
@@ -430,7 +430,7 @@ viṟṟuk kōḷ takkatu uṭaittu.
 220\. The poverty that results from a just course of action is worth purchasing by going into the very bond of slavery.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२०</summary>
 
 220\. 'oppuraviṉāl varum, kēṭu' eṉiṉ, aḵtu oruvaṉ  
 viṟṟuk kōḷ takkatu uṭaittu.
@@ -439,7 +439,7 @@ viṟṟuk kōḷ takkatu uṭaittu.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२०</summary>
 
 10\. ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்  
 விற்றுக்கோள் தக்க துடைத்து  

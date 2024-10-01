@@ -29,7 +29,7 @@ A trickling tear will proclaim it loud.
 ७१. Compare with १२५: "The axe of love can break open the door of chastity secured by the bolt of modesty." * - (W.H. Drew and J. Lazarus), (J. Narayanaswamy).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१</summary>
 
 71\. aṉpiṟkum uṇṭō, aṭaikkum tāḻ?ārvalar  
 puṉkaṇnīr pūcal tarum.
@@ -37,7 +37,7 @@ puṉkaṇnīr pūcal tarum.
 71\. Is there a bolt to fasten one’s love? The trickling tears at the distress of one’s friends will proclaim the love within.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१</summary>
 
 1\. அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்  
 புன்கண்நீர் பூசல் தரும்  
@@ -71,7 +71,7 @@ But the loving belong to others to their very bones.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२</summary>
 
 72\. aṉpu ilār ellām tamakku uriyar; aṉpu uṭaiyār  
 eṉpum uriyar, piṟarkku.
@@ -79,7 +79,7 @@ eṉpum uriyar, piṟarkku.
 72\. The loveless are full of themselves but the loving lay down their lives for others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२</summary>
 
 2\. அன்பிலார் எல்லாந் தமக்குரியர்: அன்புடையார்  
 என்பும் உரியர் பிறர்க்கு  
@@ -113,7 +113,7 @@ That the soul takes union with the body.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३</summary>
 
 73\. 'aṉpōṭu iyainta vaḻakku' eṉpa-'ār uyirkku  
 eṉpōṭu iyainta toṭarpu'.
@@ -121,7 +121,7 @@ eṉpōṭu iyainta toṭarpu'.
 73\. They say the endless incarnation of one’s spirit is for the fulfilment of love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३</summary>
 
 3\. அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு  
 என்போடு இயைந்த தொடர்பு  
@@ -155,7 +155,7 @@ The priceless excellence called friendship. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४</summary>
 
 74\. aṉpu īṉum ārvam uṭaimai; atu īṉum,  
 ‘naṇpu’ eṉṉum nāṭāc ciṟappu.
@@ -163,7 +163,7 @@ The priceless excellence called friendship. *
 74\. Out of love springs kindness. It in turn grows into inestimable prize of friendship.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४</summary>
 
 4\. அன்புஈனும் ஆர்வம் உடமை: அதுஈனும்  
 நண்பென்னும் நாடாச் சிறப்பு  
@@ -197,7 +197,7 @@ Is attained by those leading a loving life. *
 (M.S. Poornalingam Pillai)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५</summary>
 
 75\. 'aṉpuṟṟu amarnta vaḻakku' eṉpa-'vaiyakattu  
 iṉpuṟṟār eytum ciṟappu'.
@@ -205,7 +205,7 @@ iṉpuṟṟār eytum ciṟappu'.
 75\. The joy of heaven is but the fruit of righteous life rooted in love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५</summary>
 
 5\. அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து  
 இன்புற்றார் எய்துஞ் சிறப்பு  
@@ -244,7 +244,7 @@ It supports vice as well.
 ७६. Usual translation is: "The naïve say that love aids virtue, but it safeguards against vice as well. – (K.R. Srinivasa Iyengar) [the same way by ( Shuddhananda Bharatiar), (P.S. Sundaram), (V.V.S. Aiyar), (K. Krishnaswamy & Vijaya Ramkumar)]. But there is no evidence in the original to support such an interpretation. Kalingar and Manakkudavar interpret the couplet as (T.K. Chidambaranatha Mudaliar). Interestingly (C. Rajagopalachari), (J. Narayanaswamy) and (K. Kannan) take the word "मऱम्" as "valour/soldier". 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६</summary>
 
 76\. 'aṟattiṟkē aṉpu cārpu' eṉpa, aṟiyār;  
 maṟattiṟkum aḵtē tuṇai.
@@ -252,7 +252,7 @@ maṟattiṟkum aḵtē tuṇai.
 76\. The ignorant say that kindness is an ally of virtue. No, it is a defence against evil too.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६</summary>
 
 6\. அறத்திற்கே அன்புசார்பு யென்ப அறியார்  
 மறத்திற்கும் அஃதே துணை  
@@ -286,7 +286,7 @@ So does virtue scorch a loveless being.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७</summary>
 
 77\. eṉpu ilataṉai veyil pōlak kāyumē-  
 aṉpu ilataṉai aṟam.
@@ -294,7 +294,7 @@ aṉpu ilataṉai aṟam.
 77\. The sun dries up a boneless body. Likewise the god of righteousness destroys the loveless one.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७</summary>
 
 7\. என்பி லதனை வெயில்போலக் காயுமே  
 அன்பிலதனை அறம்  
@@ -328,7 +328,7 @@ In a barren desert failing to shoot.
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८</summary>
 
 78\. aṉpu akattu illā uyir vāḻkkai vaṉpāṟkaṇ  
 vaṟṟalmaram taḷirttaṟṟu.
@@ -336,7 +336,7 @@ vaṟṟalmaram taḷirttaṟṟu.
 78\. To live a life void of love is like a withered tree bursting into leaf in a barren land.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८</summary>
 
 8\. அன்பகத்தில்லா உயிர்வாழ்க்கை வன்பற்கண்  
 வற்றல் மரந்தளிர்த் தற்று  
@@ -370,7 +370,7 @@ To those who lack love - the internal?
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९</summary>
 
 79\. puṟattu uṟuppu ellām evaṉ ceyyum-yākkai  
 akattu uṟuppu aṉpu ilavarkku?.
@@ -378,7 +378,7 @@ akattu uṟuppu aṉpu ilavarkku?.
 79\. What profits one’s outward feature if one's heart is devoid of love?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९</summary>
 
 9\. புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை  
 அகத்துறுப்பு அன்பி லவர்க்கு  
@@ -412,7 +412,7 @@ Humans are bodies of bones clad with skin. *
 (J. Narayanaswamy), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८०</summary>
 
 80\. aṉpiṉ vaḻiyatu uyirnilai; aḵtu ilārkku  
 eṉpu tōl pōrtta uṭampu.
@@ -420,7 +420,7 @@ eṉpu tōl pōrtta uṭampu.
 80\. That body where love dwells is the seat of life; all others are but skin-clad bones.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८०</summary>
 
 80\. aṉpiṉ vaḻiyatu uyirnilai; aḵtu ilārkku  
 eṉpu tōl pōrtta uṭampu.
@@ -429,7 +429,7 @@ eṉpu tōl pōrtta uṭampu.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८०</summary>
 
 10\. அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு  
 என்புதோல் போர்த்த உடம்பு  

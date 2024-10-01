@@ -25,7 +25,7 @@ Never fail in their speech. *
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२१</summary>
 
 721\. vakai aṟintu, val avai, vāycōrār-colliṉ  
 tokai aṟinta tūymaiyavar.
@@ -33,7 +33,7 @@ tokai aṟinta tūymaiyavar.
 721\. The expert in the art of speaking will not flounder, addressing an assembly of the learned.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२१</summary>
 
 1\. வகையறிந்து வல்லவை வாய்சோரார் சொல்லின்  
 தொகையறிந்த தூய்மை யவர்  
@@ -67,7 +67,7 @@ Whose learning the learned accept.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२२</summary>
 
 722\. kaṟṟāruḷ kaṟṟār eṉappaṭuvar-kaṟṟārmuṉ  
 kaṟṟa celac colluvār.
@@ -75,7 +75,7 @@ kaṟṟa celac colluvār.
 722\. Those will be deemed foremost among the learned, who can speak learned things acceptable to the learned.  
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२२</summary>
 
 722\. kaṟṟāruḷ kaṟṟār eṉappaṭuvar-kaṟṟārmuṉ  
 kaṟṟa celac colluvār.
@@ -83,7 +83,7 @@ kaṟṟa celac colluvār.
 722\. Those will be deemed foremost among the learned, who can speak learned things acceptable to the learned.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२२</summary>
 
 2\. கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்  
 கற்ற செலச்சொல்லு வார்  
@@ -117,7 +117,7 @@ But few can face an assembly without nerves.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२३</summary>
 
 723\. pakaiyakattuc cāvār eḷiyar; ariyar  
 avaiyakattu añcātavar.
@@ -125,7 +125,7 @@ avaiyakattu añcātavar.
 723\. Many die in the field of battle. But few are those who can fear fools addressing an assembly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२३</summary>
 
 3\. பகையகத்துச் சாவார் எளியர் அரியர்  
 அவையகத்து அஞ்சா தவர்.  
@@ -159,7 +159,7 @@ And you from one more learned.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२४</summary>
 
 724\. kaṟṟārmuṉ kaṟṟa celac colli, tām kaṟṟa,  
 mikkāruḷ, mikka koḷal.
@@ -167,7 +167,7 @@ mikkāruḷ, mikka koḷal.
 724\. Speak to the learned what you have learnt, and receive from them much that you have to learn.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२४</summary>
 
 4\. கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற  
 மிக்காருள் மிக்க கொளல்.  
@@ -201,7 +201,7 @@ Fearlessly reply in any assembly.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२५</summary>
 
 725\. āṟṟiṉ, aḷavu aṟintu kaṟka-avai añcā  
 māṟṟam koṭuttaṟporuṭṭu.
@@ -209,7 +209,7 @@ māṟṟam koṭuttaṟporuṭṭu.
 725\. Understand the full scope of learning and learn, so that you may, without fear, reply effectively in an assembly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२५</summary>
 
 5\. ஆற்றின் அளவறிந்து கற்க அவையஞ்சா  
 மாற்றம் கொடுத்தற் பொருட்டு  
@@ -243,7 +243,7 @@ And books to those who fear assembly? *
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२६</summary>
 
 726\. vāḷoṭu eṉ, vaṉkaṇṇar allārkku?-nūloṭu eṉ,  
 nuṇ avai añcupavarkku?.
@@ -251,7 +251,7 @@ nuṇ avai añcupavarkku?.
 726\. Of what use is the sword for the unvaliant? Likewise of what use is learning for the timid to face an assembly?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२६</summary>
 
 6\. வாளொடென் வன்கண்ணர் அல்லார்க்கு நூலொடென்  
 நுண்ணவை அஞ்சு பவர்க்கு.  
@@ -290,7 +290,7 @@ Is the learning to one who fears assembly. *
 ७२७: Compare with ७२६. Very similar import but words employed by Valluvar for composition are different. Also with ६१४: “The liberality of the indolent man will not endure, like a sword in eunuch’s hand”.* ((V.V.S. Aiyar))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२७</summary>
 
 727\. pakaiyakattup pēṭi kai oḷ vāḷ-avaiyakattu  
 añcumavaṉ kaṟṟa nūl.
@@ -298,7 +298,7 @@ añcumavaṉ kaṟṟa nūl.
 727\. The learning of one afraid of an assembly is like the shining sword in the hands of an eunuch in a battle-field.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२७</summary>
 
 7\. பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து  
 அஞ்சு மவன்கற்ற நூல்.  
@@ -332,7 +332,7 @@ Who cannot impress a learned assembly. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२८</summary>
 
 728\. pallavai kaṟṟum, payam ilarē-nal avaiyuḷ  
 naṉku celac collātār.
@@ -340,7 +340,7 @@ naṉku celac collātār.
 728\. Vain is the versed learning of one who can not address with profit a learned assembly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२८</summary>
 
 8\. பல்லவை கற்றும் பயமிலரே நல்லவையுள்  
 நன்கு செலச்சொல்லா தார்.  
@@ -374,7 +374,7 @@ Are ranked lower than the ignorant.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२९</summary>
 
 729\. 'kallātavariṉ kaṭai' eṉpa- ‘kaṟṟu aṟintum,  
 nallār avai añcuvār'.
@@ -382,7 +382,7 @@ nallār avai añcuvār'.
 729\. The learned who are afraid of a good assembly will be regarded as worse than the illiterate.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२९</summary>
 
 9\. கல்லா தவரின் கடையென்ப கற்றறிந்தும்  
 நல்லார் அவையஞ்சு வார்.  
@@ -416,7 +416,7 @@ Though living, are dead. *
 (P.S. Sundaram) 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७३०</summary>
 
 730\. uḷar eṉiṉum, illāroṭu oppar-kaḷaṉ añci,  
 kaṟṟa celac collātār.
@@ -424,7 +424,7 @@ kaṟṟa celac collātār.
 730\. Dead though alive are those who are afraid to address an assembly on what they have learnt.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७३०</summary>
 
 10\. உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக்  
 கற்ற செலச்சொல்லா தார்.  

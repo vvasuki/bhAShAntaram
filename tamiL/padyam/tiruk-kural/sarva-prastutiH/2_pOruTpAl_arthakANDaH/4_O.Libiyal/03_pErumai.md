@@ -25,7 +25,7 @@ Dishonor is to say: “I shall live without it”.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७१</summary>
 
 971 oḷioruvaṟku uḷḷa veṟukkai iḷioruvaṟku  
 aḵtuiṟantu vāḻtum eṉal.
@@ -33,7 +33,7 @@ aḵtuiṟantu vāḻtum eṉal.
 971\. The glory of life is to achieve greatness. The poverty of life is to be lost to all glory.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७१</summary>
 
 1\. ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்கு  
 அஃதிறந்து வாழ்தும் எனல்.  
@@ -67,7 +67,7 @@ Render their worth unequal.
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७२</summary>
 
 972 piṟappuokkum ellā uyirkkum ciṟappuovvā  
 ceytoḻil vēṟṟumai yāṉ.
@@ -75,7 +75,7 @@ ceytoḻil vēṟṟumai yāṉ.
 972\. It is not birth but deeds that mark men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७२</summary>
 
 2\. பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா  
 செய்தொழில் வேற்றுமை யான்.  
@@ -109,7 +109,7 @@ Nor the low-born who act high, low. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७३</summary>
 
 973 mēliruntum mēlallār mēlallar kīḻiruntum  
 kīḻallār kīḻal lavar.
@@ -117,7 +117,7 @@ kīḻallār kīḻal lavar.
 973\. One is not great because of one’s birth in a noble family; one is not low because of one’s low birth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७३</summary>
 
 3\. மேலிருந்தும் மேலல்லார் மேலல்லர் கீழிருந்தும்  
 கீழல்லார் கீழல் லவர்.  
@@ -151,7 +151,7 @@ Belongs only to him who guards himself.
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७४</summary>
 
 974 orumai makaḷirē pōlap perumaiyum  
 taṉṉaittāṉ koṇṭuoḻukiṉ uṇṭu.
@@ -159,7 +159,7 @@ taṉṉaittāṉ koṇṭuoḻukiṉ uṇṭu.
 974\. Greatness springs from one’s own good conduct preserved like the sacred honour of a woman.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७४</summary>
 
 4\. ஒருமை மகளிரே போலப் பெருமையும்  
 தன்னைத்தான் கொண்டொழுகின் உண்டு.  
@@ -193,7 +193,7 @@ It will be deeds rare in achievement. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७५</summary>
 
 975 perumai uṭaiyavar āṟṟuvār āṟṟiṉ  
 arumai uṭaiya ceyal.
@@ -201,7 +201,7 @@ arumai uṭaiya ceyal.
 975\. Greatness achieves things difficult for others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७५</summary>
 
 5\. பெருமை உடையவர் ஆற்றுவார் ஆற்றின்  
 அருமை உடைய செயல்.  
@@ -240,7 +240,7 @@ That outlook of emulating the great. *
 ९७६. yama = God of Death.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७६</summary>
 
 976 ciṟiyār uṇarcciyuḷ illai periyāraip  
 pēṇikkoḷ vēmeṉṉum nōkku.
@@ -248,7 +248,7 @@ pēṇikkoḷ vēmeṉṉum nōkku.
 976\. Littleness feels no reverence for the great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७६</summary>
 
 6\. சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்  
 பேணிக்கொள் வேம்என்னும் நோக்கு.  
@@ -282,7 +282,7 @@ Their insolence will know no bounds. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७७</summary>
 
 977 iṟappōr irunta toḻiṟṟām ciṟappuntāṉ  
 cīral lavarkaṇ paṭiṉ.
@@ -290,7 +290,7 @@ cīral lavarkaṇ paṭiṉ.
 977\. Littleness is proud of its virtues.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७७</summary>
 
 7\. இறப்பே புரிந்த தொழிற்றாம் சிறப்புந்தான்  
 சீரல் லவர்கட் படின்.  
@@ -324,7 +324,7 @@ And the small lost in self-admiration.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७८</summary>
 
 978 paṇiyumām eṉṟum perumai ciṟumai  
 aṇiyumām taṉṉai viyantu.
@@ -332,7 +332,7 @@ aṇiyumām taṉṉai viyantu.
 978\. Greatness is all humility; littleness is all arrogance.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७८</summary>
 
 8\. பணியுமாம் என்றும் பெருமை சிறுமை  
 அணியுமாம் தன்னை வியந்து.  
@@ -366,7 +366,7 @@ While the small are inordinately proud. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९७९</summary>
 
 979 perumai perumitam iṉmai ciṟumai  
 perumitam ūrntu viṭal.
@@ -374,7 +374,7 @@ perumitam ūrntu viṭal.
 979\. Greatness is not conscious of its worth. Littleness is rooted in pride.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९७९</summary>
 
 9\. பெருமை பெருமிதம் இன்மை சிறுமை  
 பெருமிதம் ஊர்ந்து விடல்.  
@@ -408,7 +408,7 @@ Only the small talk of nothing else.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८०</summary>
 
 980 aṟṟam maṟaikkum perumai ciṟumaitāṉ  
 kuṟṟamē kūṟi viṭum.
@@ -416,7 +416,7 @@ kuṟṟamē kūṟi viṭum.
 980\. Greatness hides the faults of others; littleness trumpets their faults alone.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८०</summary>
 
 10\. அற்றம் மறைக்கும் பெருமை சிறுமைதான்  
 குற்றமே கூறி விடும்.  

@@ -25,7 +25,7 @@ Must judge the council before they speak.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७११</summary>
 
 711\. avai aṟintu, ārāyntu, colluka-colliṉ  
 tokai aṟinta tūymaiyavar!.
@@ -33,7 +33,7 @@ tokai aṟinta tūymaiyavar!.
 711\. Men should weigh their words in speaking when addressing an audience.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७११</summary>
 
 1\. அவையறிந்து ஆராய்ந்து சொல்லுக சொல்லின்  
 தொகையறிந்த தூய்மை யவர்.  
@@ -72,7 +72,7 @@ Let them study the occasion with care. *
 ७१२. (K. Krishnaswamy & Vijaya Ramkumar)'s translation is a fitting explanation: "The style and content of a speech should be in tune with the mood and atmosphere of the assembly"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१२</summary>
 
 712\. iṭai terintu, naṉku uṇarntu, colluka- colliṉ  
 naṭai terinta naṉmaiyavar!.
@@ -80,7 +80,7 @@ naṭai terinta naṉmaiyavar!.
 712\. Good people who know the value of the language they employ, must speak noting how their words are received.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१२</summary>
 
 2\. இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்  
 நடைதெரிந்த நன்மை யவர்.  
@@ -114,7 +114,7 @@ Without knowing the audience. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१३</summary>
 
 713\. avai aṟiyār, collal mēṟkoḷpavar colliṉ  
 vakai aṟiyār; vallatūum il.
@@ -122,7 +122,7 @@ vakai aṟiyār; vallatūum il.
 713\. The learning of those who speak without taking into consideration the assembly addressed or ignorant of the art of speaking can be of no use to them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१३</summary>
 
 3\. அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்  
 வகையறியார் வல்லதூஉம் இல்.  
@@ -161,7 +161,7 @@ Before the dull, assume mortar white. *
 ७१४. "Where ignorance is bliss, it is folly to be wise" – Gray.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१४</summary>
 
 714\. oḷiyārmuṉ oḷḷiyar ātal! veḷiyārmuṉ  
 vāṉ cutai vaṇṇam koḷal!.
@@ -169,7 +169,7 @@ vāṉ cutai vaṇṇam koḷal!.
 714\. Before brilliant people be brilliant; before plain people be as plain as white chalk.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१४</summary>
 
 4\. ஓளியார்முன் ஒள்ளிய ராதல் வெளியார்முன்  
 வான்சுதை வண்ணம் கொளல்.  
@@ -203,7 +203,7 @@ Is the modesty to holdback before elders. *
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१५</summary>
 
 715\. 'naṉṟu' eṉṟavaṟṟuḷḷum naṉṟē-mutuvaruḷ  
 muntu kiḷavāc ceṟivu.
@@ -211,7 +211,7 @@ muntu kiḷavāc ceṟivu.
 715\. The humility to maintain silence before superiors is the best of all good qualities.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१५</summary>
 
 5\. நன்றென்ற வற்றுள்ளும் நன்றே முதுவருள்  
 முந்து கிளவாச் செறிவு.  
@@ -250,7 +250,7 @@ Is like slipping from the path of righteousness. *
 ७१६. This is yet another couplet in Tirukkural where the interpretation of a single word could change the simile [like couplet २०]. Here the word "आट्रिन्" could mean either "path" or "river". The phrase could be read as "आट्रिल्" or "आट्रिन्" निलै तळर्न्दु अट्रे. Parimelazhagar interprets this as "spiritual path", Kalingar, Manakkudavar and Pariperumal as "righteous path" and Parithiyar alone as "river".
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१६</summary>
 
 716\. āṟṟiṉ nilaitaḷarntaṟṟē-viyaṉ pulam  
 ēṟṟu, uṇarvārmuṉṉar iḻukku.
@@ -258,7 +258,7 @@ Is like slipping from the path of righteousness. *
 716\. To be censured by an assembly of the learned wise is like losing one’s balance while on the road to salvation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१६</summary>
 
 6\. ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்  
 ஏற்றுணர்வார் முன்னர் இழுக்கு  
@@ -292,7 +292,7 @@ In an assembly of meticulous scholars. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१७</summary>
 
 717\. kaṟṟu aṟintār kalvi viḷaṅkum-kacaṭu aṟac  
 col terital vallār akattu.
@@ -300,7 +300,7 @@ col terital vallār akattu.
 717\. The scholarship of the learned shines brilliantly before those who can appreciate faultless speech.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१७</summary>
 
 7\. கற்றறிந்தார் கல்வி விளங்கும் கசடறச்  
 சொல்தெரிதல் வல்லா ரகத்து.  
@@ -334,7 +334,7 @@ Is like watering a nursery of growing plants.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१८</summary>
 
 718\. uṇarvatu uṭaiyārmuṉ collal-vaḷarvataṉ  
 pāttiyuḷ nīr corintaṟṟu.
@@ -342,7 +342,7 @@ pāttiyuḷ nīr corintaṟṟu.
 718\. Speaking before the wise is like feeding crops with water.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१८</summary>
 
 8\. உணர்வ துடையார்முன் சொல்லல் வளர்வதன்  
 பாத்தியுள் நீர்சொரிந் தற்று.  
@@ -376,7 +376,7 @@ Things meant for the wise.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७१९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७१९</summary>
 
 719\. pul avaiyuḷ poccāntum collaṟka-nal avaiyuḷ  
 naṉku celac colluvār!.
@@ -384,7 +384,7 @@ naṉku celac colluvār!.
 719\. Those who say good things before a good assembly should not even in forgetfulness say the same before the illiterate.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७१९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७१९</summary>
 
 9\. புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்  
 நன்கு செலச்சொல்லு வார்.  
@@ -418,7 +418,7 @@ Is like spilling nectar in the drain. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७२०</summary>
 
 720\. aṅkaṇattuḷ ukka amiḻtu aṟṟāl-tam kaṇattar  
 allārmuṉ kōṭṭi koḷal!.
@@ -426,7 +426,7 @@ allārmuṉ kōṭṭi koḷal!.
 720\. Entering an assembly of men of unequal respectability will be like pouring nectar in an unclean courtyard.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७२०</summary>
 
 10\. அங்கணத்துள் உக்க அமிழ்தற்றால் தம்கணத்தார்  
 அல்லார்முன் கோட்டி கொளல்.  

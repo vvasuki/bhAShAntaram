@@ -25,7 +25,7 @@ Who acquire character as a duty.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८१</summary>
 
 981 kaṭaṉeṉpa nallavai ellām kaṭaṉaṟintu  
 cāṉṟāṇmai mēṟkoḷ pavarkku.
@@ -33,7 +33,7 @@ cāṉṟāṇmai mēṟkoḷ pavarkku.
 981\. All virtues dwell in one who is alive to one’s nobility of conduct.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८१</summary>
 
 1\. கடன்என்ப நல்லவை எல்லாம் கடன்அறிந்து  
 சான்றாண்மை மேற்கொள் பவர்க்கு.  
@@ -67,7 +67,7 @@ Is deemed good by the noble.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८२</summary>
 
 982 kuṇanalam cāṉṟōr nalaṉē piṟanalam  
 ennalattu uḷḷatūam aṉṟu.
@@ -75,7 +75,7 @@ ennalattu uḷḷatūam aṉṟu.
 982\. Good conduct is the virtue of the great; all other things are but dross.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८२</summary>
 
 2\. குணநலம் சான்றோர் நலனே பிறநலம்  
 எந்நலத்து உள்ளதூஉம் அன்று.  
@@ -109,7 +109,7 @@ Love, modesty, altruism, compassion, truthfulness.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८३</summary>
 
 983 aṉpunāṇ oppuravu kaṇṇōṭṭam vāymaiyoṭu  
 aintucālpu ūṉṟiya tūṇ.
@@ -117,7 +117,7 @@ aintucālpu ūṉṟiya tūṇ.
 983\. Love, modesty, impartiality, sympathy and truthfulness are the five pillars of nobility.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८३</summary>
 
 3\. அன்புநாண் ஓப்புரவு கண்ணோட்டம் வாய்மையொடு  
 ஐந்துசால்பு ஊன்றிய தூண்.  
@@ -156,7 +156,7 @@ And that of goodness not speaking others’ faults.
 ९८४. Compare with २६१: “The characteristic of penance lies in enduring hardships and harming no life” - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८४</summary>
 
 984 kollā nalattatu nōṉmai piṟartīmai  
 collā nalattatu cālpu.
@@ -164,7 +164,7 @@ collā nalattatu cālpu.
 984\. Penance kills not, nobility slanders not.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८४</summary>
 
 4\. கொல்லா நலத்தது நோன்மை பிறர்தீமை  
 சொல்லா நலத்தது சால்பு.  
@@ -198,7 +198,7 @@ The wise use to conquer their foes.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८५</summary>
 
 985 āṟṟuvār āṟṟal paṇital atucāṉṟōr  
 māṟṟārai māṟṟum paṭai.
@@ -206,7 +206,7 @@ māṟṟārai māṟṟum paṭai.
 985\. Humility is the strength of the great. It is the weapon that disarms the foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८५</summary>
 
 5\. ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்  
 மாற்றாரை மாற்றும் படை.  
@@ -240,7 +240,7 @@ One's defeat even to inferiors.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८६</summary>
 
 986 cālpiṟkuk kaṭṭaḷai yāteṉiṉ tōlvi  
 tulaiyallār kaṇṇum koḷal.
@@ -248,7 +248,7 @@ tulaiyallār kaṇṇum koḷal.
 986\. The touchstone of nobility is to accept defeat even at the hands of inferiors.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८६</summary>
 
 6\. சால்பிற்குக் கட்டளை யாதெனில் தோல்வி  
 துலையல்லார் கண்ணும் கொளல்.  
@@ -287,7 +287,7 @@ Even to those who cause evil? *
 ९८७. Compare with ३१४. Punish an evil-doer by shaming him with a good deed.* - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८७</summary>
 
 987 iṉṉācey tārkkum iṉiyavē ceyyākkāl  
 eṉṉa payattatō cālpu.
@@ -295,7 +295,7 @@ eṉṉa payattatō cālpu.
 987\. What profits one’s nobility if good is not done even to those who do harm?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८७</summary>
 
 7\. இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால்  
 என்ன பயத்ததோ சால்பு.  
@@ -329,7 +329,7 @@ Who has the strength called character.
 (P.S. Sundaram), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८८</summary>
 
 988 iṉmai oruvaṟku iḷivaṉṟu cālpeṉṉum  
 tiṇmaiuṇ ṭākap peṟiṉ.
@@ -337,7 +337,7 @@ tiṇmaiuṇ ṭākap peṟiṉ.
 988\. Poverty is no disgrace to one of enduring nobility.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८८</summary>
 
 8\. இன்மை ஒருவற்கு இளிவன்று சால்புஎன்னும்  
 திண்மைஉண் டாகப் பெறின்.  
@@ -376,7 +376,7 @@ In spite of ever changing fortunes.
 ९८९: A difficult couplet to translate. Most translations follow Parimelazhagar’s view of taking ‘आऴि’ as sea shore and ‘ऊऴि पॆयरिनुम्’ as ‘even if a whelming sea breaks its bounds”. (P.S. Sundaram), therefore, translates this verse as “Seas may whelm, but men of character will stand like the shore”. However, the word ‘ऊऴि’ in general refers to ‘fate’ or ‘fortune’ and the word ‘आऴि’ to either ‘sea’ or ‘depth’. I have used these direct meanings to translate this couplet. Kalingar takes this interpretation. From Parimelazhagar’s standpoint, Sundaram’s translation may be improved like this: “Fortunes like seas may whelm, but men of character will remain unperturbed like the shore”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९८९</summary>
 
 989 ūḻi peyariṉum tāmpeyarār cāṉṟāṇmaikku  
 āḻi eṉappaṭu vār.
@@ -384,7 +384,7 @@ In spite of ever changing fortunes.
 989\. The sea may recede but noble men will remain steadfast.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९८९</summary>
 
 9\. ஊழி பெயரினும் தாம்பெயரார் சான்றாண்மைக்கு  
 ஆழி எனப்படு வார்.  
@@ -418,7 +418,7 @@ If perfect men fall short of perfection.
 (S. Maharajan), (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९९०</summary>
 
 990 cāṉṟavar cāṉṟāṇmai kuṉṟiṉ irunilantāṉ  
 tāṅkātu maṉṉō poṟai.
@@ -426,7 +426,7 @@ tāṅkātu maṉṉō poṟai.
 990\. Were the nobility of the noble to shrink, the vast firm earth would totter.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९९०</summary>
 
 10\. சான்றவர் சான்றாண்மை குன்றின் இருநிலம்தான்  
 தாங்காது மன்னோ பொறை.  

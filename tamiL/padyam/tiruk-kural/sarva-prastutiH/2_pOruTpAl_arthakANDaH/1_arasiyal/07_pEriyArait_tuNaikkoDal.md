@@ -24,12 +24,12 @@ Of the virtuous, mature and wise.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४१</summary>
 
 441\. The friendship of virtuous men of mature wisdom is to be appreciated and secured.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४१</summary>
 
 1\. அறனறிந்து மூத்த அறிவுடையார் கேண்மை  
 திறனறிந்து தேர்ந்து கொளல்.  
@@ -63,12 +63,12 @@ And avert those to come. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४२</summary>
 
 442\. Seek the friendship of those who can remove existing distress and guard against future.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४२</summary>
 
 2\. உற்றநோய் நீக்கி உறாஅமை முற்காக்கும்  
 பெற்றியார்ப் பேணிக் கொளல்.  
@@ -102,12 +102,12 @@ The friendship of the great.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४३</summary>
 
 443\. To seek and win the alliance of the great is the rarest of all blessings.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४३</summary>
 
 3\. அரியவற்று ளெல்லாம் அரிதே பெரியாரைப்  
 பேணித் தமராக் கொளல்.  
@@ -141,12 +141,12 @@ Associating with one greater than oneself. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४४</summary>
 
 444\. To follow in the footsteps of those that are greater than oneself is the crown of one’s strength.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४४</summary>
 
 4\. தம்மிற் பெரியார் தமரா ஒழுகுதல்  
 வன்மையு ளெல்லாந் தலை.  
@@ -180,12 +180,12 @@ To be chosen with careful counseling.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४५</summary>
 
 445\. Verily the ministers are the eyes of the monarch; let the monarch have tried ones.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४५</summary>
 
 5\. சூழ்வார்கண் ணாக ஒழுகலான் மன்னவன்  
 சூழ்வாரைச் சூழ்ந்து கொளல்.  
@@ -219,12 +219,12 @@ Who lives in fellowship with the worthy. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४६</summary>
 
 446\. No adversary can ruin the King who relies on his efficient counselors.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४६</summary>
 
 6\. தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்  
 செற்றார் செயக்கிடந்த தில்.  
@@ -263,12 +263,12 @@ The friendship of those who can reprove him?
 ४४७. Compare with ७९५ and ७८४. "Seek a friend who will make you cry, rail and rate when you go astray" – (P.S. Sundaram). "Friendship is not for merriment but for stern reproach when friends go astray" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४७</summary>
 
 447\. None can harm the ruler who seeks the wholesome counsel of his ministers though bitter.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४७</summary>
 
 7\. இடிக்குந் துணையாரை ஆள்வாரை யாரே  
 கெடுக்குந் தகைமை யவர்  
@@ -302,12 +302,12 @@ Needs no foes to come to grief. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४८</summary>
 
 448\. The King who is not guarded by men of firm counsel will perish even though he has no enemies.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४८</summary>
 
 8\. இடிப்பாரை இல்லாத ஏமரா மன்னன்  
 கெடுப்பா ரிலானுங் கெடும்.  
@@ -341,12 +341,12 @@ And no stability unpropped by wise counsel.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४४९</summary>
 
 449\. Is there profit without capital? Is there security for the monarch devoid of wise counselors?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४४९</summary>
 
 9\. முதலிலார்க்கு ஊதியம் இல்லை மதலையாஞ்  
 சார்பிலார்க்கு இல்லை நிலை.  
@@ -380,12 +380,12 @@ Being hated by countless foes.
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४५०</summary>
 
 450\. Greatly injurious is the forsaking of the friendship of the good; it is like encountering singlehanded many foes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४५०</summary>
 
 10\. பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே  
 நல்லார் தொடர்கை விடல்.  

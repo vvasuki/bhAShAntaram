@@ -30,7 +30,7 @@ Without it what does one own?
 ५९१. Compare with ५३ and ५९१ for similar style: "With a good wife, what is lacking? And when she is lacking, what is good?" – (P.S. Sundaram) and "What is one's own is one's vigour. Without it what does one own?" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९१</summary>
 
 591\. uṭaiyar eṉappaṭuvatu ūkkam; aḵtu illār  
 uṭaiyatu uṭaiyarō, maṟṟu?.
@@ -38,7 +38,7 @@ uṭaiyatu uṭaiyarō, maṟṟu?.
 591\. One’s real possession is one’s exertion. If one does not have it, can one be said to really possess anything else?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९१</summary>
 
 1\. உடைய ரெனப்படுவது ஊக்கம் அஃதில்லார்  
 உடையது உடையரோ மற்று.  
@@ -72,7 +72,7 @@ Material assets stay not but flee. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९२</summary>
 
 592\. uḷḷam uṭaimai uṭaimai; poruḷ uṭaimai  
 nillātu nīṅkiviṭum.
@@ -80,7 +80,7 @@ nillātu nīṅkiviṭum.
 592\. Exertion alone is one’s wealth; inconstant material wealth will pass away.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९२</summary>
 
 2\. உள்ளம் உடைமை உடைமை பொருளுடைமை  
 நில்லாது நீங்கி விடும்.  
@@ -114,7 +114,7 @@ Those who have vigour will not lament saying:
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९३</summary>
 
 593\. 'ākkam iḻantēm!' eṉṟu allāvār-ūkkam  
 oruvantam kaittu uṭaiyār.
@@ -122,7 +122,7 @@ oruvantam kaittu uṭaiyār.
 593\. Those who possess constant exertion will not grieve over the loss of their wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९३</summary>
 
 3\. ஆக்கம் இழந்தேமென்று அல்லாவார் ஊக்கம்  
 ஒருவந்தம் கைத்துடை யார்.  
@@ -156,7 +156,7 @@ Wealth will ask and find its way.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९४</summary>
 
 594\. ākkam atar viṉāyc cellum-acaivu ilā  
 ūkkam uṭaiyāṉuḻai.
@@ -164,7 +164,7 @@ Wealth will ask and find its way.
 594\. Prosperity will discover a route to a person of undaunted will.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९४</summary>
 
 4\. ஆக்கம் அதர்வினாய்ச் செல்லும் அசைவிலா  
 ஊக்க் முடையா னுழை.  
@@ -198,7 +198,7 @@ A man's stature by the level of his mind.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९५</summary>
 
 5\. வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்  
 உள்ளத் தனையது உயர்வு.  
@@ -237,7 +237,7 @@ Failure then is as good as success. *
 ५९६. Compare with ५४० for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "What is sought will be got as desired if only the seeker is determined" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९६</summary>
 
 596\. uḷḷuvatu ellām uyarvu uḷḷal! maṟṟu atu  
 taḷḷiṉum, taḷḷāmai nīrttu.
@@ -245,7 +245,7 @@ taḷḷiṉum, taḷḷāmai nīrttu.
 596\. In all acts and deeds, let exertion be one’s ideal. Even if it were unattainable, its presence is enough.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९६</summary>
 
 6\. உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது  
 தள்ளினும் தள்ளாமை நீர்த்து.  
@@ -279,7 +279,7 @@ The courageous relent not in adversities. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९७</summary>
 
 597\. citaiviṭattu olkār, uravōr;-putai ampiṉ  
 paṭṭup pāṭu ūṉṟum kaḷiṟu.
@@ -287,7 +287,7 @@ paṭṭup pāṭu ūṉṟum kaḷiṟu.
 597\. The elephant stands undaunted despite piercing arrows; so too, a person of strong will, will not get discouraged even in a losing concern.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९७</summary>
 
 7\. சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற்  
 பட்டுப்பா டூன்றும் களிறு.  
@@ -321,7 +321,7 @@ The generous patrons of the world.
 (Kasthuri Sreenivasan), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९८</summary>
 
 598\. uḷḷam ilātavar eytār-'ulakattu  
 vaḷḷiyam' eṉṉum cerukku.
@@ -329,7 +329,7 @@ vaḷḷiyam' eṉṉum cerukku.
 598\. A man of no strong will, cannot win the esteem of the world for his action.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९८</summary>
 
 8\. உள்ளம் இலாதவர் எய்தார் உலகத்து  
 வள்ளியம் என்னும் செருக்கு.  
@@ -363,7 +363,7 @@ An elephant fears a tiger when attacked. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५९९</summary>
 
 599\. pariyatu kūrṅ kōṭṭatu āyiṉum, yāṉai  
 verūum, puli tākkuṟiṉ.
@@ -371,7 +371,7 @@ verūum, puli tākkuṟiṉ.
 599\. Even the huge elephant with sharp tusks dreads the attacking tiger.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५९९</summary>
 
 9\. பரியது கூர்ங்கோட்டது ஆயினும் யானை  
 வெரூஉம் புலிதாக் குறின்.  
@@ -405,7 +405,7 @@ Trees in human form. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६००</summary>
 
 600\. uram oruvaṟku uḷḷa veṟukkai; aḵtu illār  
 maram; makkaḷ ātalē vēṟu.
@@ -413,7 +413,7 @@ maram; makkaḷ ātalē vēṟu.
 600\. One’s strength is one’s exertion. Without it persons are only trees in the form of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६००</summary>
 
 10\. உரமொருவற்கு உள்ள வெறுக்கை அஃதில்லார்  
 மரம்மக்க ளாதலே வேறு.  

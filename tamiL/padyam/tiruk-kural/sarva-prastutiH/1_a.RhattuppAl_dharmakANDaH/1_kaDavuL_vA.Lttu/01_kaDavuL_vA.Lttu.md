@@ -31,7 +31,7 @@ And the world with the first Bagavan. *
 १. "Bagavan". Scholars differ in their opinion as to what this word stands for. Most traditional and modern scholars, based on the title of the chapter "In praise of God", render the word to mean "Creator God". However Jaina scholars claim that the word "आदि भगवन्" [Ādi bagavan] is a clear reference to the name of the first Jina Thirthankara "ādeenath" or rashabha (Chakravarti, १९५१; Subramanyam, १९८७). It is interesting to note that Valluvar who has used very few words of Sanskrit origin in his whole work, opted for the twin word "आदि भगवन्" here. Moreover, since the simile "ऎऴुत्तॆल्लाम्" is plural, the emphasis "उलगु" should also be taken in plural. The "world" could thus means the "people of the world" (उलगत्तार्क्कु).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १</summary>
 
 1\. akaram mutala, eḻuttu ellām; āti-  
 pakavaṉ mutaṟṟē, ulaku.
@@ -39,7 +39,7 @@ pakavaṉ mutaṟṟē, ulaku.
 1\. All the letters have the letter ‘A’ as their Origin; this world has God as its origin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १</summary>
 
 1\. அகர முதல எழுத்தெல்லாம் ஆதி  
 பகவன் முதற்றே உலகு  
@@ -75,7 +75,7 @@ The holy feet of Pure Intelligence? *
 (V.V.S. Aiyar), (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २</summary>
 
 2\. kaṟṟataṉāl āya payaṉ eṉkol-vāl-aṟivaṉ  
 nal tāḷ toḻāar eṉiṉ?.
@@ -83,7 +83,7 @@ nal tāḷ toḻāar eṉiṉ?.
 2\. Of what avail is learning, if the learned do not adore the good feet of Him who is Immaculate Wisdom?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २</summary>
 
 2\. கற்றதனா லாய பயனென்கொல் வாலறிவன்  
 நற்றாள் தொழாஅர் எனின்  
@@ -124,7 +124,7 @@ The glorious feet of Him who walked on flowers.
 ३. An alternate 'mystical' translation, but not implied in the original: "The Supreme dwells within the lotus of the heart. Those who reach His Splendid Feet dwell endearingly within unearthly realms" - (Satguru Subramuniyaswami). Other translators who adopted this interpretation Parithiyār and Kālingar (two of the five known ancient commentators of Tirukkural) include (G. Vanmikanathan), (K. Krishnaswamy & Vijaya Ramkumar) and (C. Rajagopalachari).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३</summary>
 
 3\. malarmicai ēkiṉāṉ māṇ aṭi cērntār  
 nilamicai nīṭu vāḻvār.
@@ -132,7 +132,7 @@ nilamicai nīṭu vāḻvār.
 3\. Those who find refuge in the great feet (of Him) who lives in the lotus of the heart (of the devotee) live eternally in heaven.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३</summary>
 
 3\. மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்  
 நிலமிசை நீடுவாழ் வார்  
@@ -168,7 +168,7 @@ Of the One beyond likes and dislikes.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४</summary>
 
 4\. vēṇṭutal vēṇṭāmai ilāṉ aṭi cērntārkku  
 yāṇṭum iṭumpai ila.
@@ -176,7 +176,7 @@ yāṇṭum iṭumpai ila.
 4\. Those who have attained the feet of Him who has no likes or dislikes will be rid of all troubles.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४</summary>
 
 4\. வேண்டுதல் வேண்டாமை இலர்ன்அடி சேர்ந்தார்க்கு  
 யாண்டும் இடும்பை இல  
@@ -217,7 +217,7 @@ Who delight meaningfully in Lord's praise. *
 ५. Twin deeds [of dark illusion] are fruits of both good and evil deeds.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ५</summary>
 
 5\. iruḷ cēr iru viṉaiyum cērā, iṟaivaṉ  
 poruḷ cēr pukaḻ purintārmāṭṭu.
@@ -225,7 +225,7 @@ poruḷ cēr pukaḻ purintārmāṭṭu.
 5\. Actions, both good and bad that spring from darkness of the mind will never touch those who ever chant the glories of the Lord.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ५</summary>
 
 5\. இருள்சேர் இருவினையும் சேரா இறைவன்  
 பொருள்சேர் புகழ்புரிந்தார் மாட்டு  
@@ -266,7 +266,7 @@ Who conquered the five senses.
 ६. This cannot be a reference to God, for God is beyond the senses and only mortals will be required to control the five senses. Almost all translators, however, have taken this as a reference to God. Some translators have attempted to get over this difficulty by employing non-committal renderings like this one: "He who has controlled the five senses and is established in the path of righteousness will lead a life of fulfillment" - (K. Krishnaswamy & Vijaya Ramkumar). It is worth noting that the word 'Jina' literally means "conqueror or victorious", i.e. the conqueror of five senses. This couplet could actually be a reference to a Jaina Tirthankara. Buddha also conquered the five senses, but neither Gautama nor the preceding Buddhas were called Adi Bagavan.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६</summary>
 
 6\. poṟi vāyil aintu avittāṉ poy tīr oḻukka  
 neṟi niṉṟār nīṭu vāḻvār.
@@ -274,7 +274,7 @@ neṟi niṉṟār nīṭu vāḻvār.
 6\. Those who still the five senses and walk in truth and right will ever live.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६</summary>
 
 6\. பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க  
 நெறிநின்றார் நீடுவாழ் வார்  
@@ -308,7 +308,7 @@ In the feet of Him beyond compare. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७</summary>
 
 7\. taṉakku uvamai illātāṉ tāḷ cērntārkku allāl,  
 maṉak kavalai māṟṟal aritu.
@@ -316,7 +316,7 @@ maṉak kavalai māṟṟal aritu.
 7\. Only those who have sought refuge in the feet of the peerless can shake off anxiety. Others cannot.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७</summary>
 
 7\. தனக்குஉவமை இல்லாதான் தாள்சேர்ந்தார்க்கு கல்லால்  
 மனக்கவலை மாற்றல் அரிது  
@@ -355,7 +355,7 @@ To the feet of that Being, a sea of virtue. *
 ८. The word "अऱवाऴि" can be taken to mean, either "sea of virtue" or "wheel of the virtue". Similarly, the word "पिऱ" could either mean "birth" or "other". Depending on the combination of these meanings chosen, the couplet can also be translated in the following ways: (i) "Only those who reach the feet of the lord, the ocean of virtue, can cross those other oceans." - * (Norman Cutler). The other two oceans could be oceans of Wealth and Pleasure. (ii) "Only by clinging to the feet of the Lord of the wheel of virtue, that one can swim the ocean of this life" * - (G. Siromoney, S. Govindaraju & M. Chandrasekaran).
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८</summary>
 
 8\. aṟa āḻi antaṇaṉ tāḷ cērntārkku allāl,  
 piṟa āḻi nīntal aritu.
@@ -363,7 +363,7 @@ piṟa āḻi nīntal aritu.
 8\. Only those who have clung to the feet of the Lord who is the sea of righteousness, will be able to sail the other seas. Others cannot.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८</summary>
 
 8\. அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்  
 பிறவாழி நீந்தல் அரிது  
@@ -402,7 +402,7 @@ Unbowed at the feet of Him with eight qualities.
 ९. This couplet could refer to one of the five Parméstins, the Siddhās (liberated souls) of Jainism, because they only are designated with ८ guñas (qualities) (Malaiya, १९९८). The other four Arhats, Āchāryās, Upādhyāyās and Sādhus (Ashta Pahuda VI:१०४) are identified as Jinas with १२, ३६, २५ and २७ guñas respectively (Malaiya, १९९८). What are the eight qualities or guñas of Siddhās? Ananta jnāna, Ananta darshana, Ananta labdhi, Ananta sukha, Akshaya sthiti, Being vitāraga, Being arupa and Aguruladhutaa. Ancient commentator Parithiyar lists these eight qualities (अनन्द ज्ञानम्, अनन्द वीरियम्, कोत्तिरमिन्मै, अनन्द तरिसनम्, अनन्द कुणम्, अऴिया इयल्बु, नाममिन्मै, अवाविन्मै) as qualities of Lord Shiva!
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९</summary>
 
 9\. kōḷ il poṟiyil kuṇam ilavē-eṇkuṇattāṉ  
 tāḷai vaṇaṅkāt talai.
@@ -410,7 +410,7 @@ tāḷai vaṇaṅkāt talai.
 9\. The head that does not bow down before and worship the feet of the Lord of the eight attributes, will be as like the palsied senses.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९</summary>
 
 9\. கோளில் பொறியில் குணமிலவே எண்குணத்தான்  
 தாளை வணங்காத் தலை.  
@@ -444,7 +444,7 @@ Those who reach the feet of the Lord. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०</summary>
 
 10\. piṟavip peruṅ kaṭal nīntuvar; nīntār,  
 iṟaivaṉ aṭi cērātār.
@@ -452,16 +452,8 @@ iṟaivaṉ aṭi cērātār.
 10\. Those who gain the feet of the Lord cross the great ocean of births; others cannot.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०</summary>
 
-10\. piṟavip peruṅ kaṭal nīntuvar; nīntār,  
-iṟaivaṉ aṭi cērātār.
-
-10\. Those who gain the feet of the Lord cross the great ocean of births; others cannot.
-
-</details>
-
-<details><summary>शुद्धानन्द-भारती - १०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०</summary>
 
 10\. பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்  
 இறைவன் அடிசேரா தார்  

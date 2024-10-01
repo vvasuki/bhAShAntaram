@@ -30,7 +30,7 @@ Called enmity, even in jest.
 ८७१. Compare with ९९५. "Mockery hurts even in jest, and hence the considerate are courteous even to their foes" * - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७१</summary>
 
 871 pakaiyeṉṉum paṇpi lataṉai oruvaṉ  
 nakaiyēyum vēṇṭaṟpāṟṟu aṉṟu.
@@ -38,7 +38,7 @@ nakaiyēyum vēṇṭaṟpāṟṟu aṉṟu.
 871\. One should not desire, even in a sportive mood, the evil known as enmity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७१</summary>
 
 1\. பகைஎன்னும் பண்பி லதனை ஒருவன்  
 நகையேயும் வேண்டற்பாற்று அன்று.  
@@ -72,7 +72,7 @@ And never of men whose weapon is their tongue. *
 (P.S. Sundaram), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७२</summary>
 
 872 villēr uḻavar pakaikoḷiṉum koḷḷaṟka  
 collēr uḻavar pakai.
@@ -80,7 +80,7 @@ collēr uḻavar pakai.
 872\. You may not fear the sword; but beware of the pen.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७२</summary>
 
 2\. வில்லே ருழவர் பகைகொளினும் கொள்ளற்க  
 சொல்லே ருழவர் பகை.  
@@ -114,7 +114,7 @@ To make numerous enemies.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७३</summary>
 
 873 ēmuṟ ṟavariṉum ēḻai tamiyaṉāyp  
 pallār pakaikoḷ pavaṉ.
@@ -122,7 +122,7 @@ pallār pakaikoḷ pavaṉ.
 873\. One who incurs the wrath of the enemy is blinder than the mad.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७३</summary>
 
 3\. ஏமுற் றவரினும் ஏழை தமியனாய்ப்  
 பல்லார் பகைகொள் பவன்.  
@@ -156,7 +156,7 @@ Whose nature can make friends of foes.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७४</summary>
 
 874 pakainaṭpāk koṇṭoḻukum paṇpuṭai yāḷaṉ  
 takaimaikkaṇ taṅkiṟṟu ulaku.
@@ -164,7 +164,7 @@ takaimaikkaṇ taṅkiṟṟu ulaku.
 874\. The world is under the sway of one who has the art of converting an enemy into a friend.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७४</summary>
 
 4\. பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்  
 தகைமைக்கண் தங்கிற்று உலகு.  
@@ -198,7 +198,7 @@ Make one your friend. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७५</summary>
 
 875 taṉtuṇai iṉṟāl pakaiyiraṇṭāl tāṉoruvaṉ  
 iṉtuṇaiyāk koḷkavaṟṟiṉ oṉṟu.
@@ -206,7 +206,7 @@ iṉtuṇaiyāk koḷkavaṟṟiṉ oṉṟu.
 875\. One who has no ally but two adversaries must befriend one of them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७५</summary>
 
 5\. தன்துணை இன்றால் பகைஇரண்டால் தான்ஒருவன்  
 இன்துணையாக் கொள்கவற்றின் ஒன்று.  
@@ -240,7 +240,7 @@ Whether tested or untested. *
 (K. Krishnaswamy & Vijaya Ramkumar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७६</summary>
 
 876 tēṟiṉum tēṟā viṭiṉum aḻiviṉkaṇ  
 tēṟāṉ pakāaṉ viṭal.
@@ -248,7 +248,7 @@ tēṟāṉ pakāaṉ viṭal.
 876\. In a dark hour assume a neutral attitude either to your known enemy or to an unknown foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७६</summary>
 
 6\. தேறினும் தேறா விடினும் அழிவின்கண்  
 தேறான் பகாஅன் விடல்.  
@@ -282,7 +282,7 @@ And your weakness from foes. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७७</summary>
 
 877 nōvaṟka nontatu aṟiyārkku mēvaṟka  
 meṉmai pakaivar akattu.
@@ -290,7 +290,7 @@ meṉmai pakaivar akattu.
 877\. Whisper not your troubles to friends who cannot divine them; betray not your weakness to your enemy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७७</summary>
 
 7\. நோவற்க நொந்தது அறியார்க்கு மேவற்க  
 மென்மை பகைவ ரகத்து  
@@ -324,7 +324,7 @@ Thus keep the pride of your foes at bay.
 (Satguru Subramuniyaswami), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७८</summary>
 
 878 vakaiyaṟintu taṟceytu taṟkāppa māyum  
 pakaivarkaṇ paṭṭa cerukku.
@@ -332,7 +332,7 @@ pakaivarkaṇ paṭṭa cerukku.
 878\. Plan well your design and arm yourself with all the sinews of war.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७८</summary>
 
 8\. வகையறிந்து தற்செய்து தற்காப்ப மாயும்  
 பகைவர்கண் பட்ட செருக்கு.  
@@ -366,7 +366,7 @@ Allowed to grow, it injures the hand that cuts.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८७९</summary>
 
 879 iḷaitāka muḷmaram kolka kaḷaiyunar  
 kaikollum kāḻtta iṭattu.
@@ -374,7 +374,7 @@ kaikollum kāḻtta iṭattu.
 879\. Nip the thorn in the bud lest it should hurt the hands of those who seek to cut it when hardened into a tree.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८७९</summary>
 
 9\. இளைதாக முள்மரம் கொல்க களையுநர்  
 கைகொல்லும் காழ்த்த விடத்து  
@@ -408,7 +408,7 @@ Will cease to breathe long. *
 (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८८०</summary>
 
 880 uyirppa uḷarallar maṉṟa ceyippavar  
 cemmal citaikkalā tār.
@@ -416,7 +416,7 @@ cemmal citaikkalā tār.
 880\. He is one among the dead who fails to subdue his naughty foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८८०</summary>
 
 10\. உயிர்ப்ப உளரல்லர் மன்ற செயிர்ப்பவர்  
 செம்மல் சிதைக்கலா தார்.  

@@ -25,7 +25,7 @@ Such close mimics we have never seen! *
 (S. Maharajan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७१</summary>
 
 1071 makkaḷē pōlvar kayavar avaraṉṉa  
 oppāri yāmkaṇṭatu il.
@@ -33,7 +33,7 @@ oppāri yāmkaṇṭatu il.
 1071\. Ignoble men are only touched with human shapes. Rare indeed are such specimens.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७१</summary>
 
 1\. மக்களே போல்வர் கயவர் அவரன்ன  
 ஒப்பாரி யாங்கண்டது இல்.  
@@ -67,7 +67,7 @@ For they have no scruples.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७२</summary>
 
 1072 naṉṟaṟi vāriṉ kayavar tiruvuṭaiyār  
 neñcattu avalam ilar.
@@ -75,7 +75,7 @@ neñcattu avalam ilar.
 1072\. Blessed are the base who are ignorant of the good. Verily they are never ill at ease.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७२</summary>
 
 2\. நன்றறி வாரிற் கயவர் திருவுடையர்  
 நெஞ்சத்து அவலம் இலர்.  
@@ -109,7 +109,7 @@ They also do whatever they like.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७३</summary>
 
 1073 tēvar aṉaiyar kayavar avarumtām  
 mēvaṉa ceytuoḻuka lāṉ.
@@ -117,7 +117,7 @@ mēvaṉa ceytuoḻuka lāṉ.
 1073\. Mean men resemble unruly gods, for they know no law.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७३</summary>
 
 3\. தேவர் அனையர் கயவர் அவருந்தாம்  
 மேவன செய்தொழுக லான்.  
@@ -151,7 +151,7 @@ Meaner than themselves.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७४</summary>
 
 1074 akappaṭṭi āvāraik kāṇiṉ avariṉ  
 mikappaṭṭuc cemmākkum kīḻ.
@@ -159,7 +159,7 @@ mikappaṭṭuc cemmākkum kīḻ.
 1074\. The mean fought their superiority among men baser than them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७४</summary>
 
 4\. அகப்பட்டி ஆவாரைக் காணின் அவரின்  
 மிகப்பட்டுச் செம்மாக்கும் கீழ்.  
@@ -193,7 +193,7 @@ Sometimes, greed a little. *
 (P.S. Sundaram), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७५</summary>
 
 1075 accamē kīḻkaḷatu ācāram eccam  
 avāvuṇṭēl uṇṭām ciṟitu.
@@ -201,7 +201,7 @@ avāvuṇṭēl uṇṭām ciṟitu.
 1075\. Fear and desire rule the conduct of the base.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७५</summary>
 
 5\. அச்சமே கீழ்களது ஆசாரம் எச்சம்  
 அவாஉண்டேல் உண்டாம் சிறிது.  
@@ -235,7 +235,7 @@ Every secret they hear. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७६</summary>
 
 1076 aṟaipaṟai aṉṉar kayavartām kēṭṭa  
 maṟaipiṟarkku uytturaikka lāṉ.
@@ -243,7 +243,7 @@ maṟaipiṟarkku uytturaikka lāṉ.
 1076\. The base are like the drum for they noise abroad the secrets of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७६</summary>
 
 6\. அறைபறை அன்னர் கயவர்தாம் கேட்ட  
 மறைபிறர்க்கு உய்த்துரைக்க லான்.  
@@ -282,7 +282,7 @@ Unless their jaws are shaken with clenched fists. *
 १०७७. This couplet is well explained in this translation by (Satguru Subramuniyaswami): “The wretched are too inhospitable to even shake the moisture from their just-washed hands, unless the visitor can shatter their jaw with clenched fist”. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७७</summary>
 
 1077 īrṅkai vitirār kayavar koṭiṟuṭaikkum  
 kūṉkaiyar allā tavarkku.
@@ -290,7 +290,7 @@ kūṉkaiyar allā tavarkku.
 1077\. The base part with their crumbs only to a clenched hand.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७७</summary>
 
 7\. ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்கும்  
 கூன்கைய ரல்லா தவர்க்கு.  
@@ -324,7 +324,7 @@ While the base, like sugarcane, must be crushed.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७८</summary>
 
 1078 collap payaṉpaṭuvar cāṉṟōr karumpupōl  
 kollap payaṉpaṭum kīḻ.
@@ -332,7 +332,7 @@ kollap payaṉpaṭum kīḻ.
 1078\. Even the least cry of distress touches the heart of the good; but squeezing goodness out of the vile is like crushing the sugar-cane.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७८</summary>
 
 8\. சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல்  
 கொல்லப் பயன்படும் கீழ்.  
@@ -366,7 +366,7 @@ When they see them well clothed and fed.
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०७९</summary>
 
 1079 uṭuppatūum uṇpatūum kāṇiṉ piṟarmēl  
 vaṭukkāṇa vaṟṟākum kīḻ.
@@ -374,7 +374,7 @@ vaṭukkāṇa vaṟṟākum kīḻ.
 1079\. The base envy others in their food and clothing and slander them.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०७९</summary>
 
 9\. உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்  
 வடுக்காண வற்றாகும் கீழ்.  
@@ -408,7 +408,7 @@ Save to rush and sell themselves?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०८०</summary>
 
 1080 eṟṟiṟku uriyar kayavaroṉṟu uṟṟakkāl  
 viṟṟaṟku uriyar viraintu.
@@ -416,7 +416,7 @@ viṟṟaṟku uriyar viraintu.
 1080\. What are the base men fit for? They hasten only to sell themselves in adversity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०८०</summary>
 
 10\. எற்றிற் குரியர் கயவரொன்று உற்றக்கால்  
 விற்றற்கு உரியர் விரைந்து.  

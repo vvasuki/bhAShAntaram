@@ -25,7 +25,7 @@ Many who stood now stand as stones!" *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७१</summary>
 
 771\. eṉṉai muṉ nillaṉmiṉ-tevvir! palar, eṉṉai  
 muṉ niṉṟu kal niṉṟavar.
@@ -33,7 +33,7 @@ muṉ niṉṟu kal niṉṟavar.
 771\. O, Enemies! Do not stand in front of our Lord; for many who stood before him are now standing as hero-stones.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७१</summary>
 
 1\. என்னைமுன் நில்லன்மின் தெவ்விர் பலர்என்னை  
 முன்நின்று கல்நின் றவர்.  
@@ -67,7 +67,7 @@ Than the arrow that killed a hare. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७२</summary>
 
 772\. kāṉa muyal eyta ampiṉil, yāṉai  
 piḻaitta vēl ēntal iṉitu.
@@ -75,7 +75,7 @@ piḻaitta vēl ēntal iṉitu.
 772\. Better to bear the spear hurled against an elephant, though it misses its aim, than the arrow aimed against a hare in the forest.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७२</summary>
 
 2\. கான முயலெய்த அம்பினில் யானை  
 பிழைத்தவேல் ஏந்தல் இனிது.  
@@ -109,7 +109,7 @@ But to help a foe in distress cuts deeper. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७३</summary>
 
 773\. pēr āṇmai eṉpa, taṟukaṇ; oṉṟu uṟṟakkāl,  
 ūrāṇmai maṟṟu ataṉ eḵku.
@@ -117,7 +117,7 @@ But to help a foe in distress cuts deeper. *
 773\. Fearlessness is a manly virtue; but in distress, mercy is its keen edge.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७३</summary>
 
 3\. பேராண்மை என்ப தறுகண்ஒன் றுற்றக்கால்  
 ஊராண்மை மற்றதன் எஃகு.  
@@ -156,7 +156,7 @@ A hero grabs happily the one that pierced him. *
 ७७४. i.e. having wounded an approaching elephant with his spike, the soldier looks around for another. Soon spots the one stuck to his body and happily pull it out.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७४</summary>
 
 774\. kai vēl kaḷiṟṟoṭu pōkki varupavaṉ  
 mey vēl paṟiyā, nakum.
@@ -164,7 +164,7 @@ mey vēl paṟiyā, nakum.
 774\. The warrior who hurls his spear against an advancing elephant enjoys to pull it from his body.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७४</summary>
 
 4\. கைவேல் களிற்றொடு போக்கி வருபவன்  
 மெய்வேல் பறியா நகும்.  
@@ -198,7 +198,7 @@ Watchful eyes wink when a spear is hurled?
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७५</summary>
 
 775\. viḻitta kaṇ vēl koṇṭu eṟiya, aḻittu imaippiṉ,  
 ōṭṭu aṉṟō, vaṉkaṇavarkku?.
@@ -206,7 +206,7 @@ Watchful eyes wink when a spear is hurled?
 775\. If the fierce look (of a warrior) winks at a dart aimed at him, it is tantamount to a retreat.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७५</summary>
 
 5\. விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்  
 ஒட்டன்றோ வன்க ணவர்க்கு.  
@@ -240,7 +240,7 @@ As days gone waste.
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७६</summary>
 
 776\. viḻuppuṇ paṭāta nāḷ ellām vaḻukkiṉuḷ  
 vaikkum, taṉ nāḷai eṭuttu.
@@ -248,7 +248,7 @@ vaikkum, taṉ nāḷai eṭuttu.
 776\. Reflecting on the days past, a hero regards those days vain in which he has not received a wound.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७६</summary>
 
 6\. விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்  
 வைக்கும்தன் நாளை எடுத்து.  
@@ -282,7 +282,7 @@ Is worthy of being adorned with the anklet. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७७</summary>
 
 777\. cuḻalum icai vēṇṭi, vēṇṭā uyirār  
 kaḻal yāppuk kārikai nīrttu.
@@ -290,7 +290,7 @@ kaḻal yāppuk kārikai nīrttu.
 777\. The anklet is a fitting adornment to warriors who fight fearless of life for a world-wide reputation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७७</summary>
 
 7\. சுழலும் இசைவேண்டி வேண்டா உயிரார்  
 கழல்யாப்புக் காரிகை நீர்த்து.  
@@ -324,7 +324,7 @@ Who do not fear their lives in battle. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७८</summary>
 
 778\. uṟiṉ, uyir añcā maṟavar, iṟaivaṉ  
 ceṟiṉum, cīr kuṉṟal ilar.
@@ -332,7 +332,7 @@ ceṟiṉum, cīr kuṉṟal ilar.
 778\. Warriors unmindful of their lives in battle will not be daunted even by the wrath of their obstructing monarch.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७८</summary>
 
 8\. உறின்உயிர் அஞ்சா மறவர் இறைவன்  
 செறினும்சீர் குன்றல் இலர்.  
@@ -366,7 +366,7 @@ A pledge he died to fulfill?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७९</summary>
 
 779\. iḻaittatu ikavāmaic cāvārai, yārē,  
 piḻaittatu oṟukkiṟpavar?.
@@ -374,7 +374,7 @@ piḻaittatu oṟukkiṟpavar?.
 779\. Who can find fault with those (soldiers) who will lay down their lives to fulfil their vow?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७९</summary>
 
 9\. இழைத்தது இகவாமைச் சாவாரை யாரே  
 பிழைத்தது ஒறுக்கிற் பவர்.  
@@ -408,7 +408,7 @@ It is worth seeking even in alms. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८०</summary>
 
 780\. purantār kaṇ nīr malkac cākiṟpiṉ, cākkāṭu  
 irantu kōḷ-takkatu uṭaittu.
@@ -416,7 +416,7 @@ irantu kōḷ-takkatu uṭaittu.
 780\. Ye! Soldiers, endeavour to earn a death of glory which will move your chief to tears.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८०</summary>
 
 10\. புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு  
 இரந்துகோள் தக்கது உடைத்து.  
@@ -452,7 +452,7 @@ As a protection against foes? *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८१</summary>
 
 781\. ceyaṟku ariya yā uḷa, naṭpiṉ?-atupōl  
 viṉaikku ariya yā uḷa, kāppu?.
@@ -460,7 +460,7 @@ viṉaikku ariya yā uḷa, kāppu?.
 781\. What is there more important than an ally; and what is more helpful than securing his aid.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८१</summary>
 
 79\. நட்பு - Friendship
 
@@ -496,7 +496,7 @@ And fools', like the full moon, wanes.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८२</summary>
 
 782\. niṟai nīra, nīravar kēṇmai, piṟai; matip  
 piṉ nīra, pētaiyār naṭpu.
@@ -504,7 +504,7 @@ piṉ nīra, pētaiyār naṭpu.
 782\. The friendship of the wise resembles the waxing crescent; the friendship of the unwise fades away like the waning moon.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८२</summary>
 
 2\. நிறைநீர நீரவர் கேண்மை பிறைமதிப்  
 பின்நீர பேதையார் நட்பு \- Friendship .  
@@ -538,7 +538,7 @@ More time you spend, more the delight.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८३</summary>
 
 783\. naviltoṟum nūl nayam pōlum-payiltoṟum,  
 paṇpu uṭaiyāḷar toṭarpu.
@@ -546,7 +546,7 @@ paṇpu uṭaiyāḷar toṭarpu.
 783\. Even as good literature enraptures its reader the attachment of good men increases a king’s happiness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८३</summary>
 
 3\. நவில்தொறும் நூல்நயம் போலும் பயில்தொறும்  
 பண்புடை யாளர் தொடர்பு.  
@@ -585,7 +585,7 @@ But for stern reproach when friends go astray.
 ७८४. Compare with ४४७ and ७९५. "Who can ruin the man who commands the friendship of those who can reprove him?" –(V.V.S. Aiyar). "Seek a friend who will make you cry, rail and rate when you go astray" – (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८४</summary>
 
 784\. nakutaṟporuṭṭu aṉṟu, naṭṭal; mikutikkaṇ  
 mēṟceṉṟu iṭittaṟporuṭṭu.
@@ -593,7 +593,7 @@ mēṟceṉṟu iṭittaṟporuṭṭu.
 784\. Friendship is made not for pleasure but it is a corrective to him who errs on the other side.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८४</summary>
 
 4\. நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்  
 மேற்சென்று இடித்தற் பொருட்டு  
@@ -627,7 +627,7 @@ No need for friends to meet and long together. *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८५</summary>
 
 785\. puṇarcci, paḻakutal vēṇṭā; uṇarccitāṉ  
 naṭpu ām kiḻamai tarum.
@@ -635,7 +635,7 @@ naṭpu ām kiḻamai tarum.
 785\. Friendship is not cultivated by mere acquaintance. It is the harmony that cements the bond of friendship.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८५</summary>
 
 5\. புணர்ச்சி பழகுதல் வேண்டா உணர்ச்சிதான்  
 நட்பாம் கிழமை தரும்.  
@@ -674,7 +674,7 @@ But the heart should also smile with the face. *
 ७८६. Compare with ८२४. "Beware of those deceits who, with a smiling face, conceal bitterness in their hearts." - (N.V.K. Ashraf). Also with ७८६. Also with ९३: “This alone is charity: A welcome with a smiling face and sweet words from the heart” (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८६</summary>
 
 786\. mukam naka, naṭpatu naṭpu aṉṟu; neñcattu  
 akam naka, naṭpatu-naṭpu.
@@ -682,7 +682,7 @@ akam naka, naṭpatu-naṭpu.
 786\. Smile is no index for friendship. Real friendship makes the heart also smile.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८६</summary>
 
 6\. முகநக நட்பது நட்பன்று நெஞ்சத்து  
 அகநக நட்பது நட்பு.  
@@ -716,7 +716,7 @@ And shares the pain of distress. *
 (P.S. Sundaram), (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८७</summary>
 
 787\. aḻiviṉavai nīkki, āṟu uyttu, aḻiviṉkaṇ  
 allal uḻappatu ām-naṭpu.
@@ -724,7 +724,7 @@ allal uḻappatu ām-naṭpu.
 787\. Friendship prevents harmful deeds being committed and does beneficial things sharing the other’s misfortunes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८७</summary>
 
 7\. அழிவி னவைநீக்கி ஆறுய்த்து அழிவின்கண்  
 அல்லல் உழப்பதாம் நட்பு.  
@@ -758,7 +758,7 @@ Friendship acts to assuage a friend in distress. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८८</summary>
 
 788\. uṭukkai iḻantavaṉ kai pōla, āṅkē  
 iṭukkaṇ kaḷaivatu ām-naṭpu.
@@ -766,7 +766,7 @@ iṭukkaṇ kaḷaivatu ām-naṭpu.
 788\. Friendship removes suffering even as promptly as the hand which clutches the slipping garment.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८८</summary>
 
 8\. உடுக்கை இழந்தவன் கைபோல ஆங்கே  
 இடுக்கண் களைவதுஆம் நட்பு.  
@@ -800,7 +800,7 @@ Of unfailing support given at all time.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७८९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७८९</summary>
 
 789\. 'naṭpiṟku vīṟṟirukkai yātu?' eṉiṉ, koṭpu iṉṟi  
 ollumvāy ūṉṟum nilai.
@@ -808,7 +808,7 @@ ollumvāy ūṉṟum nilai.
 789\. If one asks where friendship abides, it lies in timely aid.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७८९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७८९</summary>
 
 9\. நட்பிற்கு வீற்றிருக்கை யாதெனில் கொட்பின்றி  
 ஒல்லும்வாய் ஊன்றும் நிலை.  
@@ -847,7 +847,7 @@ Merely demeans a friendship.
 ७९०. In other words: "Where competing claims are boastfully made, that friendship is demeaning" * - (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७९०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७९०</summary>
 
 790\. 'iṉaiyar, ivar emakku; iṉṉam yām' eṉṟu  
 puṉaiyiṉum, pulleṉṉum-naṭpu.
@@ -855,7 +855,7 @@ puṉaiyiṉum, pulleṉṉum-naṭpu.
 790\. Even one may say, “These are my friends; I am deeply attached to them". Yet, it may be insignificant friendship.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७९०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७९०</summary>
 
 10\. இனையர் இவரெமக்கு இன்னம்யாம் என்று  
 புனையினும் புல்லென்னும் நட்பு.  

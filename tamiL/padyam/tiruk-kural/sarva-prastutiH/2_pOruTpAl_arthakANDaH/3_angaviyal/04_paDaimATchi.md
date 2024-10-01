@@ -25,7 +25,7 @@ Is a ruler's greatest of all possessions.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६१</summary>
 
 761\. uṟuppu amaintu, ūṟu añcā, vel paṭai-vēntaṉ  
 veṟukkaiyuḷ ellām talai.
@@ -33,7 +33,7 @@ veṟukkaiyuḷ ellām talai.
 761\. A well-equipped and fearlessly conquering army is the foremost wealth of a king.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६१</summary>
 
 1\. உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன்  
 வெறுக்கையு ளெல்லாம் தலை  
@@ -72,7 +72,7 @@ To stand fearless despite decimation.
 ७६२. (K.R. Srinivasa Iyengar) gives an abstract translation: "When things go wrong, only veterans can stem the rot and turn the tide"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६२</summary>
 
 762\. ulaivu iṭattu ūṟu añcā vaṉkaṇ, tolaivu iṭattu,  
 tol paṭaikku allāl, aritu.
@@ -80,7 +80,7 @@ tol paṭaikku allāl, aritu.
 762\. The heroic valour of rallying round the king even in adversity is peculiar to hereditary force, and not to others.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६२</summary>
 
 2\. உலைவிடத்து ஊறஞ்சா வன்கண் தொலைவிடத்துத்  
 தொல்படைக் கல்லால் அரிது  
@@ -114,7 +114,7 @@ The hiss of a cobra will silence it.
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६३</summary>
 
 763\. olittakkāl eṉ ām, uvari elippakai?  
 nākam uyirppa, keṭum.
@@ -122,7 +122,7 @@ nākam uyirppa, keṭum.
 763\. The hiss of a cobra stills for ever an army of rats as vast as the ocean.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६३</summary>
 
 3\. ஒலித்தக்கால் என்னாம் உவரி எலிப்பகை  
 நாகம் உயிர்ப்பக் கெடும்  
@@ -156,7 +156,7 @@ And knows neither defeat nor desertion. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६४</summary>
 
 764\. aḻivu iṉṟu, aṟaipōkātu āki, vaḻivanta  
 vaṉkaṇatuvē-paṭai.
@@ -164,7 +164,7 @@ vaṉkaṇatuvē-paṭai.
 764\. It is a heroic force that is hereditary, undiminished in powers and not undermined by the enemy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६४</summary>
 
 4\. அழிவின்று அறைபோகா தாகி வழிவந்த  
 வன்க ணதுவே படை.  
@@ -198,7 +198,7 @@ Even if yama attacks in fury. *
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६५</summary>
 
 765\. kūṟṟu uṭaṉṟu mēlvariṉum, kūṭi, etir niṟkum  
 āṟṟalatuvē-paṭai.
@@ -206,7 +206,7 @@ Even if yama attacks in fury. *
 765\. A valiant army faces courageously the advancing foe even when led by the God of Death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६५</summary>
 
 5\. கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்  
 ஆற்ற லதுவே படை.  
@@ -240,7 +240,7 @@ These four alone are an army's safeguards. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६६</summary>
 
 766\. maṟam, māṉam, māṇṭa vaḻic celavu, tēṟṟam,  
 eṉa nāṉkē ēmam, paṭaikku.
@@ -248,7 +248,7 @@ eṉa nāṉkē ēmam, paṭaikku.
 766\. Heroism, honour, tried policy and fidelity to the king, these four are an army’s shelter.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६६</summary>
 
 6\. மறமானம் மாண்ட வழிச்செலவு தேற்றம்  
 எனநான்கே ஏமம் படைக்கு.  
@@ -282,7 +282,7 @@ The foe's tactics, and advance.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६७</summary>
 
 767\. tār tāṅkic celvatu tāṉai-talaivanta  
 pōr tāṅkum taṉmai aṟintu.
@@ -290,7 +290,7 @@ pōr tāṅkum taṉmai aṟintu.
 767\. That alone is an army which understands the enemy’s tactics, and fearlessly advances.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६७</summary>
 
 7\. தார்தாங்கிச் செல்வது தானை தலைவந்த  
 போர்தாங்கும் தன்மை அறிந்து.  
@@ -324,7 +324,7 @@ An army can gain fame by virtue of its size
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६८</summary>
 
 768\. aṭaltakaiyum, āṟṟalum, il eṉiṉum, tāṉai  
 paṭait takaiyāṉ pāṭu peṟum.
@@ -332,7 +332,7 @@ paṭait takaiyāṉ pāṭu peṟum.
 768\. An army by mere show can achieve distinction though it may lack bold advance or even self-protection.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६८</summary>
 
 8\. அடற்றகையும் ஆற்றலும் இல்லெனினும் தானை  
 படைத்தகையால் பாடு பெறும்.  
@@ -366,7 +366,7 @@ Irrevocable aversion and poverty. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७६९</summary>
 
 769\. ciṟumaiyum, cellāt tuṉiyum, vaṟumaiyum,  
 illāyiṉ vellum, paṭai.
@@ -374,7 +374,7 @@ illāyiṉ vellum, paṭai.
 769\. It is a winning army which has neither littleness, nor irremovable bitterness and poverty.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७६९</summary>
 
 9\. சிறுமையும் செல்லாத் துனியும் வறுமையும்  
 இல்லாயின் வெல்லும் படை.  
@@ -408,7 +408,7 @@ An army without a chief will lose its way. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७७०</summary>
 
 770\. nilai makkaḷ cāla uṭaittueṉiṉum, tāṉai  
 talaimakkaḷ ilvaḻi il.
@@ -416,7 +416,7 @@ talaimakkaḷ ilvaḻi il.
 770\. Of what avail is the army of heroic warriors if there be no general to guide them?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७७०</summary>
 
 10\. நிலைமக்கள் சால உடைத்தெனினும் தானை  
 தலைமக்கள் இல்வழி இல்.  

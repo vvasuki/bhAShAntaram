@@ -29,7 +29,7 @@ The greatness of disciplined ascetics. *
 २१. Compare with couplet २८ for similarity.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २१</summary>
 
 21\. oḻukkattu nīttār perumai viḻuppattu  
 vēṇṭum- paṉuval tuṇivu.
@@ -37,7 +37,7 @@ vēṇṭum- paṉuval tuṇivu.
 21\. The one supreme thing all scriptures affirm is the great renunciation of those who walk in right conduct.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २१</summary>
 
 1\. ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து  
 வேண்டும் பனுவல் துணிவு  
@@ -71,7 +71,7 @@ Is to count the world's dead. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २२</summary>
 
 22\. tuṟantār perumai tuṇaik kūṟiṉ, vaiyattu  
 iṟantārai eṇṇikkoṇṭaṟṟu.
@@ -79,7 +79,7 @@ iṟantārai eṇṇikkoṇṭaṟṟu.
 22\. To measure the greatness of one who has renounced is like reckoning the number of the dead in this world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २२</summary>
 
 2\. துறந்தார் பெருமை துணைக்கூறின் வையத்து  
 இறந்தாரை எண்ணிக்கொண் டற்று  
@@ -118,7 +118,7 @@ Knowing both, choose renunciation. *
 २३. "Both" here refer to the paths of 'householder' and 'ascetic'.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २३</summary>
 
 23\. irumai vakai terintu īṇṭu aṟam pūṇṭār  
 perumai piṟaṅkiṟṟu, ulaku.
@@ -126,7 +126,7 @@ perumai piṟaṅkiṟṟu, ulaku.
 23\. The greatest thing on earth is the renunciation of those who understand birth and liberation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २३</summary>
 
 3\. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
 பெருமை பிறங்கிற்று உலகு  
@@ -165,7 +165,7 @@ Is the seed for the bliss of heaven.
 २४. The word "तोट्टि" here mean a "hook", implying the prod or ankush employed by mahouts to restrain elephants.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २४</summary>
 
 24\. uraṉ eṉṉum tōṭṭiyāṉ, ōr aintum kāppāṉ  
 varaṉ eṉṉum vaippiṟku ōr vittu.
@@ -174,7 +174,7 @@ varaṉ eṉṉum vaippiṟku ōr vittu.
 Verily he is the seed of the immortals who with firmness bridles the five senses.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २४</summary>
 
 4\. உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்  
 வரன்என்னும் வைப்பிற்கோர் வித்து  
@@ -213,7 +213,7 @@ Of one who rules his senses five. *
 २५. S.M. Diaz (२०००), citing Manakkudavar's commentary, says it only refers to the insecurity of Indra had whenever a sage effectively controls his five senses and reached the heights of penance, lest he should ultimately endanger his own position - and so Valluvar used him as the witness to the ascetic's prowess.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २५</summary>
 
 25\. aintu avittāṉ āṟṟal, akal vicumpuḷār kōmāṉ  
 intiraṉē cālum, kari.
@@ -221,7 +221,7 @@ intiraṉē cālum, kari.
 25\. Indra, the Lord of the skies is himself a witness, to the might of those who have conquered their five senses.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २५</summary>
 
 5\. ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்  
 இந்திரனே சாலுங் கரி  
@@ -255,7 +255,7 @@ Small people avoid them.
 (Norman Cutler)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २६</summary>
 
 26\. ceyaṟku ariya ceyvār periyar; ciṟiyar  
 ceyaṟku ariya ceykalātār.
@@ -263,7 +263,7 @@ ceyaṟku ariya ceykalātār.
 26\. The great achieve the impossible; the little cannot.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २६</summary>
 
 6\. செயற்கரிய செய்வார் பெரியர் சிறியர்  
 செயற்கரிய செய்கலா தார்  
@@ -297,7 +297,7 @@ Taste, sight, touch, sound and smell. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २७</summary>
 
 27\. cuvai, oḷi, ūṟu, ōcai, nāṟṟam eṉṟu aintiṉ  
 vakai terivāṉkaṭṭē-ulaku.
@@ -305,7 +305,7 @@ vakai terivāṉkaṭṭē-ulaku.
 27\. The world falls at the feet of one who has realised the true nature of the taste, sight, touch, sound and smell.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २७</summary>
 
 7\. சுவைஒளி ஊறுஓசை நாற்றமென்று ஐந்தின்  
 வகைதெரிவான் கட்டே உலகு  
@@ -339,7 +339,7 @@ The potent utterance of the great.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २८</summary>
 
 28\. niṟaimoḻi māntar perumai nilattu  
 maṟaimoḻi kāṭṭiviṭum.
@@ -347,7 +347,7 @@ maṟaimoḻi kāṭṭiviṭum.
 28\. The greatness of the sages in this world is borne out by their prophetic utterances.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २८</summary>
 
 8\. நிறைமொழி மாந்தர் பெருமை நிலத்து  
 மறைமொழி காட்டி விடும்  
@@ -381,7 +381,7 @@ Can't be endured even for a moment. *
 (K. Kannan), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - २९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - २९</summary>
 
 29\. kuṇam eṉṉum kuṉṟu ēṟi niṉṟār vekuḷi  
 kaṇam ēyum, kāttal aritu.
@@ -389,7 +389,7 @@ kaṇam ēyum, kāttal aritu.
 29\. It is impossible to resist even for a minute the wrath of those who stand on the hill of virtue’s actions.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - २९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - २९</summary>
 
 9\. குணமென்னும் குன்றேறி நின்றார் வெகுளி  
 கணமேயுங் காத்தல் அரிது.  
@@ -423,7 +423,7 @@ For they assume the role of mercy for all that live.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ३०</summary>
 
 30\. antaṇar eṉpōr aṟavōr-maṟṟu ev uyirkkum  
 cen taṇmai pūṇṭu oḻukalāṉ.
@@ -431,16 +431,7 @@ cen taṇmai pūṇṭu oḻukalāṉ.
 30\. They are the Brahmans who are righteous and love all creation.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ३०</summary>
-
-30\. antaṇar eṉpōr aṟavōr-maṟṟu ev uyirkkum  
-cen taṇmai pūṇṭu oḻukalāṉ.
-
-30\. They are the Brahmans who are righteous and love all creation.
-
-</details>
-
-<details><summary>शुद्धानन्द-भारती - ३०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ३०</summary>
 
 10\. அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்  
 செந்தண்மை பூண்டொழுக லான்  

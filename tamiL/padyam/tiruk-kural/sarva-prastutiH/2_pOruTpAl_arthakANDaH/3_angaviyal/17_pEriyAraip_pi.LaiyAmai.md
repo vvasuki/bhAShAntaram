@@ -25,7 +25,7 @@ The powers of the prowess. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९१</summary>
 
 891 āṟṟuvār āṟṟal ikaḻāmai pōṟṟuvār  
 pōṟṟaluḷ ellām talai.
@@ -33,7 +33,7 @@ pōṟṟaluḷ ellām talai.
 891\. Not to offend the mighty is the crowning means of shielding one self.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९१</summary>
 
 1\. ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார்  
 போற்றலு ளெல்லாம் தலை.  
@@ -67,7 +67,7 @@ To endless trouble through them.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९२</summary>
 
 892 periyāraip pēṇātu oḻukiṉ periyārāl  
 pērā iṭumpai tarum.
@@ -75,7 +75,7 @@ pērā iṭumpai tarum.
 892\. Lack of reverence for the great results in endless troubles.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९२</summary>
 
 2\. பெரியாரைப் பேணாது ஒழுகின் பெரியாரால்  
 பேரா இடும்பை தரும்.  
@@ -114,7 +114,7 @@ Who in turn can destroy as they desire. *
 ८९३. The import of the couplet can be summed up this way: “To offend the powerful wantonly is to ask for trouble” - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९३</summary>
 
 893 keṭalvēṇṭiṉ kēḷātu ceyka aṭalvēṇṭiṉ  
 āṟṟu pavarkaṇ iḻukku.
@@ -122,7 +122,7 @@ Who in turn can destroy as they desire. *
 893\. To pick a quarrel with the mighty is to court one’s own ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९३</summary>
 
 3\. கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின்  
 ஆற்று பவர்கண் இழுக்கு.  
@@ -161,7 +161,7 @@ Is to summon yama with the hand.
 ८९४. yama is ‘god of death’. Compare with couplet २५० where Valluvar says “When you threaten one weaker than yourself, think of yourself before a bully”. ((P.S. Sundaram))
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९४</summary>
 
 894 kūṟṟattaik kaiyāl viḷittaṟṟāl āṟṟuvārkku  
 āṟṟātār iṉṉā ceyal.
@@ -169,7 +169,7 @@ Is to summon yama with the hand.
 894\. Behold the weak trying to do harm to the mighty. It is like beckoning unto death.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९४</summary>
 
 4\. கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்கு  
 ஆற்றாதார் இன்னா செயல்  
@@ -203,7 +203,7 @@ Who falls foul of a powerful king?
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९५</summary>
 
 895 yāṇṭucceṉṟu yāṇṭum uḷarākār ventuppiṉ  
 vēntu ceṟappaṭ ṭavar.
@@ -211,7 +211,7 @@ vēntu ceṟappaṭ ṭavar.
 895\. Where is the refuge for one who incurs the wrath of the mighty monarch?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९५</summary>
 
 5\. யாண்டுச்சென்று யாண்டும் உளராகார் வெந்துப்பின்  
 வேந்து செறப்பட் டவர்.  
@@ -250,7 +250,7 @@ But no survival for those who offend the great. *
 ८९६. Compare with १०४९ for similar idea: “One may sleep even in the midst of fire, but by no means in the midst of poverty” * - (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९६</summary>
 
 896 eriyāl cuṭappaṭiṉum uyvuṇṭām uyyār  
 periyārp piḻaittoḻuku vār.
@@ -258,7 +258,7 @@ periyārp piḻaittoḻuku vār.
 896\. There is just a chance of saving oneself if one gets caught in a fire; but there is no hope for men who insult the great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९६</summary>
 
 6\. எரியால் சுடப்படினும் உய்வுண்டாம் உய்யார்  
 பெரியார்ப் பிழைத்தொழுகு வார்.  
@@ -292,7 +292,7 @@ If one incurs the wrath of the virtuous great? *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९७</summary>
 
 897 vakaimāṇṭa vāḻkkaiyum vāṉporuḷum eṉṉām  
 takaimāṇṭa takkār ceṟiṉ.
@@ -300,7 +300,7 @@ takaimāṇṭa takkār ceṟiṉ.
 897\. What avails one’s proof of prosperity and mighty riches if one rouses the wrath of the great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९७</summary>
 
 7\. வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்  
 தகைமாண்ட தக்கார் செறின்.  
@@ -334,7 +334,7 @@ You will be shaken off the earth of all your ties. *
 (M.S. Poornalingam Pillai), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९८</summary>
 
 898 kuṉṟaṉṉār kuṉṟa matippiṉ kuṭiyoṭu  
 niṉṟaṉṉār māyvar nilattu.
@@ -342,7 +342,7 @@ niṉṟaṉṉār māyvar nilattu.
 898\. The fury of the sages like the lofty hills destroys the great race of pure men of stable fortune.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९८</summary>
 
 8\. குன்றன்னார் குன்ற மதிப்பின் குடியொடு  
 நின்றன்னார் மாய்வர் நிலத்து.  
@@ -376,7 +376,7 @@ If men of high repute burst in rage. *
 (W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ८९९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ८९९</summary>
 
 899 ēntiya koḷkaiyār cīṟiṉ iṭaimurintu  
 vēntaṉum vēntu keṭum.
@@ -384,7 +384,7 @@ vēntaṉum vēntu keṭum.
 899\. Even the Lord of Heaven will be humbled from his throne if he rouses the wrath of men of mighty penance.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ८९९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ८९९</summary>
 
 9\. ஏந்திய கொள்கையார் சீறின் இடைமுரிந்து  
 வேந்தனும் வேந்து கெடும்.  
@@ -418,7 +418,7 @@ Cannot be saved if great sages frown. *
 (N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९००</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९००</summary>
 
 900 iṟantuamainta cārpuuṭaiyar āyiṉum uyyār  
 ciṟantuamainta cīrār ceṟiṉ.
@@ -426,7 +426,7 @@ ciṟantuamainta cīrār ceṟiṉ.
 900\. Even kings of ancient renown perish before the wrath of the great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९००</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९००</summary>
 
 10\. இறந்தமைந்த சார்புடைய ரா யினும் உய்யார்  
 சிறந்தமைந்த சீரார் செறின்.  

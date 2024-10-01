@@ -24,7 +24,7 @@ The damsel I dote is softer than thee! *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११११</summary>
 
 1111 naṉṉīrai vāḻi aṉiccamē niṉṉiṉum  
 meṉṉīraḷ yāmvīḻ pavaḷ.
@@ -32,7 +32,7 @@ meṉṉīraḷ yāmvīḻ pavaḷ.
 1111\. O aniccam flower, the best and softest of all flowers, may you be blest; but do not forget that my lady is yet more tender.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११११</summary>
 
 1\. நன்னீரை வாழி அனிச்சமே நின்னினும்  
 மென்னீரள் யாம்வீழ் பவள்.  
@@ -66,7 +66,7 @@ And match them with her eyes! *
 (P.S. Sundaram), (V.V.S. Aiyar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११२</summary>
 
 1112 malarkāṇiṉ maiyātti neñcē ivaḷkaṇ  
 palarkāṇum pūvokkum eṉṟu.
@@ -74,7 +74,7 @@ palarkāṇum pūvokkum eṉṟu.
 1112\. O Mind, when you behold flowers you think that your beloved’s eyes are like these and pine away.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११२</summary>
 
 2\. மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்  
 பலர்காணும் பூவொக்கும் என்று.  
@@ -108,7 +108,7 @@ Lancet eyes and bamboo shoulders. *
 (K. Kannan), (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११३</summary>
 
 1113 muṟimēṉi muttam muṟuval veṟināṟṟam  
 vēluṇkaṇ vēyttōḷ avaṭku.
@@ -116,7 +116,7 @@ vēluṇkaṇ vēyttōḷ avaṭku.
 1113\. Her body is of rich gold, her teeth pearls. She is fragrant, her eyes dart forth glances like a lance, her shoulders gently curve as the bamboo. O! what a varied charm my beloved has!  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११३</summary>
 
 3\. முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்  
 வேலுண்கண் வேய்த்தோ ளவட்கு.  
@@ -150,7 +150,7 @@ Lilies droop down earthwards in shame.
 (K. Kannan), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११४</summary>
 
 1114 kāṇiṉ kuvaḷai kaviḻntu nilaṉnōkkum  
 māṇiḻai kaṇṇovvēm eṉṟu.
@@ -158,7 +158,7 @@ māṇiḻai kaṇṇovvēm eṉṟu.
 1114\. The kundalai flower hangs down in shame before the eyes of my tastefully adorned lady-love.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११४</summary>
 
 4\. காணின் குவளை கவிழ்ந்து நிலன்நோக்கும்  
 மாணிழை கண்ணொவ்வேம் என்று.  
@@ -197,7 +197,7 @@ By the aniccham she wore with its stalk. *
 १११५. aniccham – a flower known for its delicate nature. The idea here is that a woman’s waist is so delicate that it can’t even bear the weight of a delicate flower like aniccham if it is worn without removing its stalk.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११५</summary>
 
 1115 aṉiccappūk kālkaḷaiyāḷ peytāḷ nucuppiṟku  
 nalla paṭāa paṟai.
@@ -205,7 +205,7 @@ nalla paṭāa paṟai.
 1115\. She decks herself with aniccam flowers without removing the stalks. It is the death-knell of her slender waist.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११५</summary>
 
 5\. அனிச்சப்பூக் கால்களையாள் பெய்தாள் நுசுப்பிற்கு  
 நல்ல படாஅ பறை.  
@@ -239,7 +239,7 @@ Unable to tell the moon from her face.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११६</summary>
 
 1116 matiyum maṭantai mukaṉum aṟiyā  
 patiyiṉ kalaṅkiya mīṉ.
@@ -247,7 +247,7 @@ patiyiṉ kalaṅkiya mīṉ.
 1116\. Even the stars of heaven veer their usual courses mistaking my lady’s face for their queen moon.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११६</summary>
 
 6\. மதியும் மடந்தை முகனும் அறியா  
 பதியின் கலங்கிய மீன்.  
@@ -286,7 +286,7 @@ Like the spots on the shining moon?
 १११७. This couplet may look simple but has been translated differently. The word “अऱुवाय्” has been usually taken to mean “variable, changing or inconstant” [(P.S. Sundaram), ( Shuddhananda Bharatiar)] and thereby interpreted by many as “waning and waxing moon” [(J. Narayanaswamy), (K. Kannan), (G.U. Pope), (M.S. Poornalingam Pillai)]. However, the very next word “निऱैन्द” [which means “filled with”] clearly implies that this word means the ‘spots or craters’ on the moon [“अऱु” can mean “break, crack, split” and “वाय्” “mouth”]. Though the couplets in Kural are usually discrete and independent of each other, there are occasions – especially in division “LOVE” – where the succeeding ones appear in sequence [chapter १३२ is a fine example]. Here it appears that the preceding couplet १११६ compares the lady’s face to the moon, with even the stars being unable to differentiate the two. This couplet takes the love’s face a step further and attempts to differentiate the two. Perhaps this is what is implied here: “Even the shining moon has spots of craters, but none on my love’s face”. Commentator Manakkudavar’s gives a fitting explanation. He says: “इवळ् मुगत्तु मऱुविल्लै यादलान्, अदु मदियोडु ऒव्वादु ऎण्ड्रु कूऱियदु”.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११७</summary>
 
 1117 aṟuvāy niṟainta avirmatikkup pōla  
 maṟuvuṇṭō mātar mukattu.
@@ -294,7 +294,7 @@ maṟuvuṇṭō mātar mukattu.
 1117\. Is there a dark spot on the face of my lady-love as on the shining moon which waxes and wanes?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११७</summary>
 
 7\. அறுவாய் நிறைந்த அவிர்மதிக்குப் போல  
 மறுவுண்டோ மாதர் முகத்து.  
@@ -328,7 +328,7 @@ You too I shall love. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११८</summary>
 
 1118 mātar mukampōl oḷiviṭa vallaiyēl  
 kātalai vāḻi mati.
@@ -336,7 +336,7 @@ kātalai vāḻi mati.
 1118\. Blest indeed are you. Moon! If you will be resplendent without a spot even as the face of my lady, I shall love you with all my heart.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११८</summary>
 
 8\. மாதர் முகம்போல் ஒளிவிட வல்லையேல்  
 காதலை வாழி மதி.  
@@ -370,7 +370,7 @@ Stop revealing thyself to all.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११९</summary>
 
 1119 malaraṉṉa kaṇṇāḷ mukamotti yāyiṉ  
 palarkāṇat tōṉṟal mati.
@@ -378,7 +378,7 @@ palarkāṇat tōṉṟal mati.
 1119\. Moon, if you wish to equal the face of my lady then hide yourself from this world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११९</summary>
 
 9\. மலர்ன்ன கண்ணாள் முகமொத்தி யாயின்  
 பலர்காணத் தோன்றல் மதி.  
@@ -417,7 +417,7 @@ Are as nerunji fruit to my maidens’ feet. *
 ११२०. Simply, it means: “Even flower petals and down feathers are prickly to my damsel’s feet”. Flower aniccham is known for its softness and the fruit nerunji for its thorns.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२०</summary>
 
 1120 aṉiccamum aṉṉattiṉ tūviyum mātar  
 aṭikku neruñcip paḻam.
@@ -425,7 +425,7 @@ aṭikku neruñcip paḻam.
 1120\. The soft aniccam flower and the down of the swan are but thistles before the soft feet of my lady.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२०</summary>
 
 10\. அனிச்சமும் அன்னத்தின் தூவியும் மாதர்  
 அடிக்கு நெருஞ்சிப் பழம்.  

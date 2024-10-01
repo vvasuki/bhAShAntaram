@@ -24,7 +24,7 @@ At once ruins home and begets evil. *
 (G.U. Pope), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७१</summary>
 
 171\. naṭuvu iṉṟi naṉ poruḷ veḵkiṉ, kuṭi poṉṟi,  
 kuṟṟamum āṅkē tarum.
@@ -32,7 +32,7 @@ kuṟṟamum āṅkē tarum.
 171\. Iniquitous coveting of wealth results in the ruin of one's home and brings in its train many sins.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७१</summary>
 
 1\. நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக்  
 குற்றமும் ஆங்கே தரும்  
@@ -66,7 +66,7 @@ Refrain from covetousness that brings blame.
 (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७२</summary>
 
 172\. paṭu payaṉ veḵki, paḻippaṭuva ceyyār-  
 naṭuvu aṉmai nāṇupavar.
@@ -74,7 +74,7 @@ naṭuvu aṉmai nāṇupavar.
 172\. Those who stand for equity do not commit sinful acts through covetousness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७२</summary>
 
 2\. படுபயன் வெஃகிப் பழிப்படுவ செய்யார்  
 நடுவன்மை நாணுவர் பவர்  
@@ -108,7 +108,7 @@ Who seek eternal joy.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७३</summary>
 
 173\. ciṟṟiṉpam veḵki, aṟaṉ alla ceyyārē-  
 maṟṟu iṉpam vēṇṭupavar.
@@ -116,7 +116,7 @@ maṟṟu iṉpam vēṇṭupavar.
 173\. Those who seek eternal happiness will never commit unrighteous acts through love of low pleasures.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७३</summary>
 
 3\. சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே  
 மற்றின்பம் வேண்டு பவர்  
@@ -155,7 +155,7 @@ The clear-eyed cite not their poverty to covet. *
 १७४. Compare with २०५: "Plead not poverty for doing ill, whereby you will become poorer still" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७४</summary>
 
 174\. 'ilam' eṉṟu veḵkutal ceyyār-pulam veṉṟa  
 puṉmai il kāṭciyavar.
@@ -163,7 +163,7 @@ puṉmai il kāṭciyavar.
 174\. The spotless wise who have conquered their senses though destitute, will not covet other’s wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७४</summary>
 
 4\. இலமென்று வெஃகுதல் செய்யார் புலம்வென்ற  
 புன்மையில் காட்சி யவர்  
@@ -197,7 +197,7 @@ If greed seizes one to covet? *
 (S.M. Diaz)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७५</summary>
 
 175\. aḵki akaṉṟa aṟivu eṉ ām-yārmāṭṭum  
 veḵki, veṟiya ceyiṉ?.
@@ -205,7 +205,7 @@ veḵki, veṟiya ceyiṉ?.
 175\. Of what avail is one’s keen and penetrating intellect if one through covetousness acts foolishly?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७५</summary>
 
 5\. அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்  
 வெஃகி வெறிய செயின்  
@@ -239,7 +239,7 @@ Will perish beckoned with evil. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७६</summary>
 
 176\. aruḷ veḵki, āṟṟiṉkaṇ niṉṟāṉ, poruḷ veḵkip  
 pollāta cūḻa, keṭum.
@@ -247,7 +247,7 @@ pollāta cūḻa, keṭum.
 176\. Even he who treads the path of grace comes to ruin through covetous intentions.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७६</summary>
 
 6\. அருள்வெஃகி ஆற்றின்கண் நின்றான் பொருள்வெஃகிப்  
 பொல்லாத சூழக் கெடும்  
@@ -281,7 +281,7 @@ Out of it comes no good.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७७</summary>
 
 177\. vēṇṭaṟka, veḵki ām ākkam-viḷaivayiṉ  
 māṇṭaṟku aritu ām payaṉ!.
@@ -289,7 +289,7 @@ māṇṭaṟku aritu ām payaṉ!.
 177\. Covet not other’s wealth for out of covetousness spring evils.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७७</summary>
 
 7\. வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின்  
 மாண்டற் கரிதாம் பயன்  
@@ -323,7 +323,7 @@ If you would keep your own un-shrunk.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७८</summary>
 
 178\. 'aḵkāmai celvattiṟku yātu?' eṉiṉ, veḵkāmai  
 vēṇṭum piṟaṉ kaip poruḷ.
@@ -331,7 +331,7 @@ vēṇṭum piṟaṉ kaip poruḷ.
 178\. Preservation of one’s property lies through one’s freedom from covetousness.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७८</summary>
 
 8\. அஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமை  
 வேண்டும் பிறன்கைப் பொருள்.  
@@ -365,7 +365,7 @@ Who know the worth of non-coveting. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १७९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १७९</summary>
 
 179\. aṟaṉ aṟintu veḵkā aṟivu uṭaiyārc cērum-  
 tiṟaṉ aṟintu āṅkē tiru.
@@ -373,7 +373,7 @@ tiṟaṉ aṟintu āṅkē tiru.
 179\. The wise who know what is righteous covet not; the Goddess of Fortune would seek them unbidden.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १७९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १७९</summary>
 
 9\. அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்  
 திறன்அறிந் தாங்கே திரு.  
@@ -407,7 +407,7 @@ The pride of freedom from desire yields success.
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १८०</summary>
 
 180\. iṟal īṉum, eṇṇātu veḵkiṉ; viṟal īṉum,  
 vēṇṭāmai eṉṉum cerukku.
@@ -415,7 +415,7 @@ vēṇṭāmai eṉṉum cerukku.
 180\. A blind covetousness brings about one’s ruin. Freedom from it begets one’s triumph.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १८०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १८०</summary>
 
 180\. iṟal īṉum, eṇṇātu veḵkiṉ; viṟal īṉum,  
 vēṇṭāmai eṉṉum cerukku.
@@ -424,7 +424,7 @@ vēṇṭāmai eṉṉum cerukku.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १८०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १८०</summary>
 
 10\. இறல்ஈனும் எண்ணாது வெஃகின் விறல்ஈனும்  
 வேண்டாமை என்னுஞ் செருக்கு  

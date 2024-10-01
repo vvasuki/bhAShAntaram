@@ -25,7 +25,7 @@ As well as to those who seek refuge in defence.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४१</summary>
 
 741\. āṟṟupavarkkum araṇ poruḷ; añcit taṟ  
 pōṟṟupavarkkum poruḷ.
@@ -33,7 +33,7 @@ pōṟṟupavarkkum poruḷ.
 741\. A fortress is important alike to a conquering foe and a timid defender.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४१</summary>
 
 1\. ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற்  
 போற்று பவர்க்கும் பொருள்.  
@@ -72,7 +72,7 @@ Constitute a fortress.
 ७४२. Compare with ७३७. "A land's limbs are waters from rains, springs and well placed hills, and strong fortress" * - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४२</summary>
 
 742\. maṇi nīrum, maṇṇum, malaiyum, aṇi niḻal  
 kāṭum, uṭaiyatu-araṇ.
@@ -80,7 +80,7 @@ kāṭum, uṭaiyatu-araṇ.
 742\. It is a fortress which has sparkling water, open spaces, hills and cool and shady forests round.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४२</summary>
 
 2\. மணிநீரும் மண்ணும் மலையும் அணிநிழற்  
 காடும் உடையது அரண்.  
@@ -114,7 +114,7 @@ Height, breadth, strength and difficult access. *
 (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४३</summary>
 
 743\. 'uyarvu, akalam, tiṇmai, arumai, in nāṉkiṉ  
 amaivu araṇ'.eṉṟu uraikkum nūl.
@@ -122,7 +122,7 @@ amaivu araṇ'.eṉṟu uraikkum nūl.
 743\. Treatises on fortification state that the walls of a stronghold should be lofty, broad, strong and inaccessible.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४३</summary>
 
 3\. உயர்வகலம் திண்மை அருமைஇந் நான்கின்  
 அமைவரண் என்றுரைக்கும் நூல்  
@@ -156,7 +156,7 @@ Spoils the might of the foe. *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४४</summary>
 
 744\. ciṟu kāppiṉ pēr iṭattatu āki, uṟu pakai  
 ūkkam aḻippatu-araṇ.
@@ -164,7 +164,7 @@ Spoils the might of the foe. *
 744\. A fortress which has a name as a natural defence cools the heat of the attacking foe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४४</summary>
 
 4\. சிறுகாப்பிற் பேரிடத்த தாகி உறுபகை  
 ஊக்கம் அழிப்பது அரண்.  
@@ -198,7 +198,7 @@ And suited to those within.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४५</summary>
 
 745\. koḷaṟku aritāy, koṇṭa kūḻttu āki, akattār  
 nilaikku eḷitu ām nīratu-araṇ.
@@ -206,7 +206,7 @@ nilaikku eḷitu ām nīratu-araṇ.
 745\. A good fortress is that which is inaccessible, is sufficiently provided and is easily defensible from within.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४५</summary>
 
 5\. கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்  
 நிலைக்கெளிதாம் நீரது அரண்.  
@@ -240,7 +240,7 @@ A fort should have brave soldiers as well. *
 (K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४६</summary>
 
 746\. ellāp poruḷum uṭaittāy, iṭattu utavum  
 nal āḷ uṭaiyatu-araṇ.
@@ -248,7 +248,7 @@ nal āḷ uṭaiyatu-araṇ.
 746\. A fortress shall have all things needed by its residents including capable warriors.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४६</summary>
 
 6\. எல்லாப் பொருளும் உடைத்தாய் இடத்துதவும்  
 நல்லாள் உடையது அரண்.  
@@ -282,7 +282,7 @@ Besieging, artillery and treachery.
 (N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४७</summary>
 
 747\. muṟṟiyum, muṟṟātu eṟintum, aṟaippaṭuttum,  
 paṟṟaṟku ariyatu-araṇ.
@@ -290,7 +290,7 @@ paṟṟaṟku ariyatu-araṇ.
 747\. A good fortress cannot be besieged or taken by storm or be undermined.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४७</summary>
 
 7\. முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும்  
 பற்றற் கரியது அரண்  
@@ -324,7 +324,7 @@ A fortress enables the besieged to win.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४८</summary>
 
 748\. muṟṟu āṟṟi muṟṟiyavaraiyum, paṟṟu āṟṟi,  
 paṟṟiyār velvatu-araṇ.
@@ -332,7 +332,7 @@ paṟṟiyār velvatu-araṇ.
 748\. The inmates of a good fortress can defend themselves even when besieged on all sides.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४८</summary>
 
 8\. முற்றாற்றி முற்றி யவரையும் பற்றாற்றிப்  
 பற்றியார் வெல்வது அரண்  
@@ -366,7 +366,7 @@ At the outset of the battle. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७४९</summary>
 
 749\. muṉai mukattu māṟṟalar cāya, viṉaimukattu  
 vīṟu eyti māṇṭatu-araṇ.
@@ -374,7 +374,7 @@ vīṟu eyti māṇṭatu-araṇ.
 749\. That fortress is famous which makes it possible for its defenders to destroy the besiegers even at the outset.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७४९</summary>
 
 9\. முனைமுகத்து மாற்றலர் சாய வினைமுகத்து  
 வீறெய்தி மாண்டது அரண்.  
@@ -408,7 +408,7 @@ If its defenders are meek.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७५०</summary>
 
 750\. eṉai māṭcittu ākiyakkaṇṇum, viṉai māṭci  
 illārkaṇ illatu-araṇ.
@@ -416,7 +416,7 @@ illārkaṇ illatu-araṇ.
 750\. Of what use are these barriers of defence to a stronghold if it possesses no men of valour.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७५०</summary>
 
 10\. எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி  
 இல்லார்கண் இல்லது அரண்.  

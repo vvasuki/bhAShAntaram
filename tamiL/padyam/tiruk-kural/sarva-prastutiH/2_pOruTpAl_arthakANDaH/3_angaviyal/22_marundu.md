@@ -30,7 +30,7 @@ In excess or lacking cause disease.
 ९४१. The other two are considered to be bile and phlegm.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४१</summary>
 
 941 mikiṉum kuṟaiyiṉum nōyceyyum nūlōr  
 vaḷimutalā eṇṇiya mūṉṟu.
@@ -38,7 +38,7 @@ vaḷimutalā eṇṇiya mūṉṟu.
 941\. Overfeeding and underfeeding upset the three humours and cause disease, says the physician.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४१</summary>
 
 1\. மிகினும் குறையினும் நோய்செய்யும் நூலோர்  
 வளிமுதலா எண்ணிய மூன்று.  
@@ -72,7 +72,7 @@ Is digested before the next meal.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४२</summary>
 
 942 marunteṉa vēṇṭāvām yākkaikku aruntiyatu  
 aṟṟatu pōṟṟi uṇiṉ.
@@ -80,7 +80,7 @@ aṟṟatu pōṟṟi uṇiṉ.
 942\. There is no need for medicine if one eats with appetite.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४२</summary>
 
 2\. மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது  
 அற்றது போற்றி உணின்.  
@@ -114,7 +114,7 @@ That prolongs the life of one embodied. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४३</summary>
 
 943 aṟṟāl aḷavaṟintu uṇka aḵtuuṭampu  
 peṟṟāṉ neṭituykkum āṟu.
@@ -122,7 +122,7 @@ peṟṟāṉ neṭituykkum āṟu.
 943\. Let there be measure and moderation in eating. It leads to long life.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४३</summary>
 
 3\. அற்றால் அளவறிந்து உண்க அஃதுடம்பு  
 பெற்றான் நெடிதுஉய்க்கு மாறு.  
@@ -156,7 +156,7 @@ Eat with care what is agreeable. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४४</summary>
 
 944 aṟṟatu aṟintu kaṭaippiṭittu māṟalla  
 tuykka tuvarap pacittu.
@@ -164,7 +164,7 @@ tuykka tuvarap pacittu.
 944\. Eat wholesome food when you feel hungry.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४४</summary>
 
 4\. அற்றது அறிந்து கடைப்பிடித்து மாறல்ல  
 துய்க்க துவரப் பசித்து.  
@@ -198,7 +198,7 @@ Does not include disagreeable food.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४५</summary>
 
 945 māṟupāṭu illāta uṇṭi maṟuttuṇṇiṉ  
 ūṟupāṭu illai uyirkku.
@@ -206,7 +206,7 @@ Does not include disagreeable food.
 945\. No disease attacks the person who eats with moderation the food which agrees with him.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४५</summary>
 
 5\. மாறுபாடு இல்லாத உண்டி மறுத்துண்ணின்  
 ஊறுபாடு இல்லை உயிர்க்கு.  
@@ -240,7 +240,7 @@ So is disease with a voracious glutton. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४६</summary>
 
 946 iḻivaṟintu uṇpāṉkaṇ iṉpampōl niṟkum  
 kaḻipēr iraiyāṉkaṇ nōy.
@@ -248,7 +248,7 @@ kaḻipēr iraiyāṉkaṇ nōy.
 946\. Health dwells in a man of temperance, disease invades a glutton.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४६</summary>
 
 6\. இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்கும்  
 கழிபே ரிரையான்கண் நோய்.  
@@ -282,7 +282,7 @@ Leads to unlimited number of ills.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४७</summary>
 
 947 tīyaḷavu aṉṟit teriyāṉ perituṇṇiṉ  
 nōyaḷavu iṉṟip paṭum.
@@ -290,7 +290,7 @@ nōyaḷavu iṉṟip paṭum.
 947\. Countless are the ills that befall a glutton.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४७</summary>
 
 7\. தீயள வன்றித் தெரியான் பெரிதுண்ணின்  
 நோயள வின்றிப் படும்.  
@@ -324,7 +324,7 @@ Seek the proper remedy and apply it with skill.
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४८</summary>
 
 948 nōynāṭi nōymutal nāṭi atutaṇikkum  
 vāynāṭi vāyppac ceyal.
@@ -332,7 +332,7 @@ vāynāṭi vāyppac ceyal.
 948\. Diagnose the disease, find out its cure after tracing its root and apply the proper remedy.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४८</summary>
 
 8\. நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்  
 வாய்நாடி வாய்ப்பச் செயல்.  
@@ -371,7 +371,7 @@ Disease and its stage, and treat.
 ९४९. These three could be: condition of the patient [stable, unstable], nature of the disease [infectious, non-infectious or chronic/acute] and stage of illness [early/terminal].
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९४९</summary>
 
 949 uṟṟāṉ aḷavum piṇiaḷavum kālamum  
 kaṟṟāṉ karutic ceyal.
@@ -379,7 +379,7 @@ kaṟṟāṉ karutic ceyal.
 949\. Let the learned physician know the nature of the patient and the duration of ailment and then treat.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९४९</summary>
 
 9\. உற்றான் அளவும் பிணியளவும் காலமும்  
 கற்றான் கருதிச் செயல்.  
@@ -413,7 +413,7 @@ The patient, doctor, medicine and the nurse.
 (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ९५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ९५०</summary>
 
 950 uṟṟavaṉ tīrppāṉ maruntuuḻaic celvāṉeṉṟu  
 appālnāṟ kūṟṟē maruntu.
@@ -421,7 +421,7 @@ appālnāṟ kūṟṟē maruntu.
 950\. The science of medicine deals with the patient, the physician, the medicine and the recipe.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ९५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ९५०</summary>
 
 10\. உற்றவன் தீர்ப்பான் மருந்து - Medicine உழைச் செல்வானென்று  
 அப்பால்நாற் கூற்றே மருந்து.  

@@ -24,7 +24,7 @@ For this incurable sickness?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४१</summary>
 
 1241 niṉaittuoṉṟu collāyō neñcē eṉaittoṉṟum  
 evvanōy tīrkkum maruntu.
@@ -32,7 +32,7 @@ evvanōy tīrkkum maruntu.
 1241\. O heart! can you not cast about and find a remedy for my lovesickness which causes me such sorrow?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४१</summary>
 
 1\. நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்  
 எவ்வநோய் தீர்க்கும் மருந்து.  
@@ -66,7 +66,7 @@ Who has no love for me!
 (K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४२</summary>
 
 1242 kātal avarilar ākanī nōvatu  
 pētamai vāḻieṉ neñcu.
@@ -74,7 +74,7 @@ pētamai vāḻieṉ neñcu.
 1242\. ‘Blessed may you be O heart! how foolish of you to bemoan separation when he has no love for you!’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४२</summary>
 
 2\. காதல் அவரில ராகநீ நோவது  
 பேதைமை வாழிஎன் நெஞ்சு.  
@@ -108,7 +108,7 @@ When he who caused this sickness is heartless?
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४३</summary>
 
 1243 iruntuḷḷi eṉparital neñcē parintuḷḷal  
 paitalnōy ceytārkaṇ il.
@@ -116,7 +116,7 @@ paitalnōy ceytārkaṇ il.
 1243\. ‘O heart! Why stay in vain here and feel wretched? There is no sympathy in the heart of him who has caused you this wasting disease.’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४३</summary>
 
 3\. இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்  
 பைதல்நோய் செய்தார்கண் இல்.  
@@ -155,7 +155,7 @@ Longing to see him, wear my life away.
 १२४४. Compare with ११७०. "If eyes could also reach him like the heart, they won’t be swimming in a flood of tears" - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४४</summary>
 
 1244 kaṇṇum koḷaccēṟi neñcē ivaiyeṉṉait  
 tiṉṉum avarkāṇal uṟṟu.
@@ -163,7 +163,7 @@ tiṉṉum avarkāṇal uṟṟu.
 1244\. ‘O my heart! if you go to him, take my eyes also with you. They eat into my being in their craving to see him.’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४४</summary>
 
 4\. கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத்  
 தின்னும் அவர்காண லுற்று.  
@@ -197,7 +197,7 @@ Who longs not for me though I long for him? *
 (G.U. Pope)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४५</summary>
 
 1245 ceṟṟār eṉakkai viṭaluṇṭō neñcēyām  
 uṟṟāl uṟāa tavar.
@@ -205,7 +205,7 @@ uṟṟāl uṟāa tavar.
 1245\. ‘O heart! can I really forsake him as cruel though he has used me cruelly when I clung to him.’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४५</summary>
 
 5\. செற்றா ரெனக்கை விடல்உண்டோ நெஞ்சேயாம்  
 உற்றால் உறாஅ தவர்.  
@@ -239,7 +239,7 @@ Yield and jell seeing my lover.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४६</summary>
 
 1246 kalantuṇarntum kātalark kaṇṭāl pulantuṇarāy  
 poykkāyvu kāytieṉ neñcu.
@@ -247,7 +247,7 @@ poykkāyvu kāytieṉ neñcu.
 1246\. ‘O my heart I could you ever bear even a mock quarrel with your lover to sweeten his company Then why call him cruel now for your own fault?’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४६</summary>
 
 6\. கலந்துணர்ந்தும் காதலர்க் கண்டால் புலந்துணராய்  
 பொய்க்காய்வு காய்திஎன் நெஞ்சு.  
@@ -281,7 +281,7 @@ For I cannot bear both. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४७</summary>
 
 1247 kāmam viṭuoṉṟō nāṇviṭu naṉṉeñcē  
 yāṉō poṟēṉiv viraṇṭu.
@@ -289,7 +289,7 @@ yāṉō poṟēṉiv viraṇṭu.
 1247\. My good heart I cast off one of the two - love or bashfulness. I cannot bear the insupportable weight of them both.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४७</summary>
 
 7\. காமம் விடுஒன்றோ நாண்விடு நன்னெஞ்சே  
 யானோ பொறேன்இவ் விரண்டு.  
@@ -323,7 +323,7 @@ Longing for his favours! *
 (J. Narayanaswamy)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४८</summary>
 
 1248 parintavar nalkāreṉṟu ēṅkip pirintavar  
 piṉcelvāy pētaieṉ neñcu.
@@ -331,7 +331,7 @@ piṉcelvāy pētaieṉ neñcu.
 1248\. ‘You go seeking with a hopeless aching heart after the far-off lover, because he has not understood and favoured you with his mercy. O foolish heart!’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४८</summary>
 
 8\. பரிந்தவர் நல்காரென்று ஏங்கிப் பிரிந்தவர்  
 பின்செல்வாய் பேதைஎன் நெஞ்சு.  
@@ -365,7 +365,7 @@ While you know my dear one is within? *
 (K. Kannan), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२४९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२४९</summary>
 
 1249 uḷḷattār kāta lavarāka uḷḷinī  
 yāruḻaic cēṟieṉ neñcu.
@@ -373,7 +373,7 @@ yāruḻaic cēṟieṉ neñcu.
 1249\. ‘O my heart, is it you keep your lover within you? Then whom do you search in your thoughts? Why search for him outside? Whom do you hope to reach?’  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२४९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२४९</summary>
 
 9\. உள்ளத்தார் காத லவராக உள்ளிநீ  
 யாருழைச் சேறிஎன் நெஞ்சு.  
@@ -407,7 +407,7 @@ Is to suffer losing more charm. *
 (K. Kannan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२५०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२५०</summary>
 
 1250 tuṉṉāt tuṟantārai neñcattu uṭaiyēmā  
 iṉṉum iḻantum kaviṉ.
@@ -415,7 +415,7 @@ iṉṉum iḻantum kaviṉ.
 1250\. The more I have him in my heart who has left me never to come back, the more my beauty wastes away.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२५०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२५०</summary>
 
 10\. துன்னாத் துறந்தாரை நெஞ்சத்து உடையேமா  
 இன்னும் இழத்தும் கவின்.  

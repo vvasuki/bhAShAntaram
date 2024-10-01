@@ -29,7 +29,7 @@ Regardless of the class of men. *
 १११. The three class or divisions of men are said to enemies, strangers and friends. 
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १११</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १११</summary>
 
 111\. takuti eṉa oṉṟum naṉṟē-pakutiyāṉ  
 pāṟpaṭṭu oḻukappeṟiṉ.
@@ -37,7 +37,7 @@ pāṟpaṭṭu oḻukappeṟiṉ.
 111\. An equity which knows no partiality is in itself a unique virtue.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १११</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १११</summary>
 
 1\. தகுதி எனவொன்று நன்றே பகுதியால்  
 பாற்பட்டு ஒழுகப் பெறின்  
@@ -71,7 +71,7 @@ Passes intact to his posterity. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११२</summary>
 
 112\. ceppam uṭaiyavaṉ ākkam citaivu iṉṟi,  
 eccattiṟku ēmāppu uṭaittu.
@@ -79,7 +79,7 @@ eccattiṟku ēmāppu uṭaittu.
 112\. The wealth of the upright dwindles not and passes on to their posterity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११२</summary>
 
 2\. செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி  
 எச்சத்திற் கேமாப்பு உடைத்து  
@@ -113,7 +113,7 @@ From unjust gains without delay.
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११३</summary>
 
 113\. naṉṟē tariṉum, naṭuvu ikantu ām ākkattai  
 aṉṟē oḻiyaviṭal!.
@@ -121,7 +121,7 @@ aṉṟē oḻiyaviṭal!.
 113\. Give up ill-gotten wealth though it brings in its train prosperity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११३</summary>
 
 3\. நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை  
 அன்றே ஒழிய விடல்  
@@ -155,7 +155,7 @@ By what they leave behind.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११४</summary>
 
 114\. takkār takavu ilar eṉpatu avar avar  
 eccattāl kāṇappaṭum.
@@ -163,7 +163,7 @@ eccattāl kāṇappaṭum.
 114\. The just and the unjust are known by the progeny.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११४</summary>
 
 4\. தக்கார் தகவிலர் என்பது அவரவர்  
 எச்சத்தாற் காணப் படும்  
@@ -197,7 +197,7 @@ But an unbiased heart adorns the noble.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११५</summary>
 
 115\. kēṭum perukkamum il alla; neñcattuk  
 kōṭāmai cāṉṟōrkku aṇi.
@@ -205,7 +205,7 @@ kōṭāmai cāṉṟōrkku aṇi.
 115\. To hold the scales even unmindful of prosperity or adversity is the ornament of the wise.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११५</summary>
 
 5\. கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்  
 கோடாமை சான்றோர்க் கணி  
@@ -239,7 +239,7 @@ Know that misfortune awaits you. *
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११६</summary>
 
 116\. 'keṭuval yāṉ' eṉpatu aṟika-taṉ neñcam  
 naṭuvu ōrīi, alla ceyiṉ.
@@ -247,7 +247,7 @@ naṭuvu ōrīi, alla ceyiṉ.
 116\. Even an iniquitous thought spells one's ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११६</summary>
 
 6\. கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்  
 நடுஒரீஇ அல்ல செயின்.  
@@ -281,7 +281,7 @@ The low estate of virtuous men who dwell in equity. *
 (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११७</summary>
 
 117\. keṭuvāka vaiyātu ulakam-naṭuvāka  
 naṉṟikkaṇ taṅkiyāṉ tāḻvu.
@@ -289,7 +289,7 @@ naṉṟikkaṇ taṅkiyāṉ tāḻvu.
 117\. The world despises not the poverty of the just.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११७</summary>
 
 7\. கெடுவாக வையாது உலகம் நடுவாக  
 நன்றிக்கண் தங்கியான் தாழ்வு  
@@ -323,7 +323,7 @@ Is an ornament for the great. *
 (P.S. Sundaram), (K.R. Srinivasa Iyengar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११८</summary>
 
 118\. camaṉ ceytu cīr tūkkum kōlpōl amaintu, orupāl  
 kōṭāmai-cāṉṟōrkku aṇi.
@@ -331,7 +331,7 @@ kōṭāmai-cāṉṟōrkku aṇi.
 118\. Not to tilt like the well poised balance is the grace of the wise.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११८</summary>
 
 8\. சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்  
 கோடாமை சான்றோர்க் கணி  
@@ -365,7 +365,7 @@ And it comes from a firm, unbiased mind. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ११९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ११९</summary>
 
 119\. coṟ kōṭṭam illatu, ceppam-orutalaiyā  
 uṭ kōṭṭam iṉmai peṟiṉ.
@@ -373,7 +373,7 @@ uṭ kōṭṭam iṉmai peṟiṉ.
 119\. Equity is the impartial expression of an unbiased mind.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ११९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ११९</summary>
 
 9\. சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா  
 உட்கோட்டம் இன்மை பெறின்  
@@ -407,7 +407,7 @@ Is tending other's goods as his own.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०</summary>
 
 120\. vāṇikam ceyvārkku vāṇikam-pēṇip  
 piṟavum tamapōl ceyiṉ.
@@ -415,7 +415,7 @@ piṟavum tamapōl ceyiṉ.
 120\. To deal with others’ goods as their own is the only true trade among traders.
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १२०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १२०</summary>
 
 120\. vāṇikam ceyvārkku vāṇikam-pēṇip  
 piṟavum tamapōl ceyiṉ.
@@ -424,7 +424,7 @@ piṟavum tamapōl ceyiṉ.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १२०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १२०</summary>
 
 10\. வாணிகஞ் செய்வார்க்கு வாணிகம் பேணிப்  
 பிறவும் தமபோற் செயின்  

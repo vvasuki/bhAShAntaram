@@ -29,7 +29,7 @@ The benefit and the resultant net. *
 ४६१. Compare with ६७६. "Weigh well before you plunge: the inputs, impediments and gain" - (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६१</summary>
 
 461\. aḻivatūum āvatūum āki, vaḻipayakkum  
 ūtiyamum cūḻntu, ceyal!.
@@ -37,7 +37,7 @@ The benefit and the resultant net. *
 461\. After much deliberation over profit and loss and the final gains, launch on a task.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६१</summary>
 
 1\. அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும்  
 ஊதியமும் சூழ்ந்து செயல்.  
@@ -71,7 +71,7 @@ Worthy counsels weighing facts.
 ( Shuddhananda Bharatiar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६२</summary>
 
 462\. terinta iṉattoṭu tērntu eṇṇic ceyvārkku  
 arum poruḷ yātu oṉṟum il.
@@ -79,7 +79,7 @@ arum poruḷ yātu oṉṟum il.
 462\. Nothing is impossible for those who act after listening to the counsel of persons of known probity.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६२</summary>
 
 2\. தெரிந்த இனத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்கு  
 அரும்பொருள் யாதொன்றும் இல்.  
@@ -118,7 +118,7 @@ Launch an undertaking to lose their capital.*
 ४६३. (P.S. Sundaram) would say: "It is not wisdom to lose the capital for the sake of interest"
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६३</summary>
 
 463\. ākkam karuti, mutal iḻakkum ceyviṉai  
 ūkkār, aṟivu uṭaiyār.
@@ -126,7 +126,7 @@ Launch an undertaking to lose their capital.*
 463\. The wise do not approve of the action of those who lose their capital anticipating some distant gain.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६३</summary>
 
 3\. ஆக்கம் கருதி முதலிழக்கும் செய்வினை  
 ஊக்கார் அறிவுடை யார்,  
@@ -160,7 +160,7 @@ Will not launch thoughtless ventures. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६४</summary>
 
 464\. teḷivu ilataṉait toṭaṅkār-iḷivu eṉṉum  
 ētappāṭu añcupavar.
@@ -168,7 +168,7 @@ Will not launch thoughtless ventures. *
 464\. Men who dread ignominy never embark on a work without deliberation.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६४</summary>
 
 4\. தெளிவி லதனைத் தொடங்கார் இளிவென்னும்  
 ஏதப்பாடு அஞ்சு பவர்.  
@@ -202,7 +202,7 @@ Only to mobilize and strengthen the enemy.
 (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६५</summary>
 
 465\. vakai aṟac cūḻātu eḻutal, pakaivaraip  
 pāttip paṭuppatu ōr āṟu.
@@ -210,7 +210,7 @@ pāttip paṭuppatu ōr āṟu.
 465\. A thoughtless expedition only fosters the might of one’s foes.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६५</summary>
 
 5\. வகையறச் சூழா தெழுதல் பகைவரைப்  
 பாத்திப் படுப்பதோ ராறு.  
@@ -244,7 +244,7 @@ And ruinous to leave undone what should be done.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६६</summary>
 
 466\. ceytakka alla ceyak keṭum; ceytakka  
 ceyyāmaiyāṉum keṭum.
@@ -252,7 +252,7 @@ ceyyāmaiyāṉum keṭum.
 466\. To do a thing which ought not to be done is to court trouble; to fail to do a thing which ought to be done is to land oneself in ruin.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६६</summary>
 
 6\. செய்தக்க அல்ல செயக்கெடும் செய்தக்க  
 செய்யாமை யானும் கெடும்.  
@@ -286,7 +286,7 @@ To launch and then think is disgrace.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६७</summary>
 
 467\. eṇṇit tuṇika, karumam; tuṇintapiṉ,  
 eṇṇuvam eṉpatu iḻukku.
@@ -294,7 +294,7 @@ eṇṇuvam eṉpatu iḻukku.
 467\. Begin your task after much deliberation. To think after launching action is to court a grievous blunder.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६७</summary>
 
 7\. எண்ணித் துணிக கருமம் துணிந்தபின்  
 எண்ணுவம் என்பது இழுக்கு.  
@@ -328,7 +328,7 @@ Are bound to fail even if backed by many.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६८</summary>
 
 468\. āṟṟiṉ varuntā varuttam, palar niṉṟu  
 pōṟṟiṉum, pottuppaṭum.
@@ -336,7 +336,7 @@ pōṟṟiṉum, pottuppaṭum.
 468\. An ill-organised scheme though supported by many goes to pieces.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६८</summary>
 
 8\. ஆற்றின் வருந்தா வருத்தம் பலர்நின்று  
 போற்றினும் பொத்துப் படும்.  
@@ -380,7 +380,7 @@ Even a good scheme goes awry when contributions don't come equally from all - (P
 Even reliable schemes can fail when responsibilities are not shared equally - (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४६९</summary>
 
 469\. naṉṟu āṟṟaluḷḷum tavaṟu uṇṭu-avaravar  
 paṇpu aṟintu āṟṟākkaṭai.
@@ -388,7 +388,7 @@ paṇpu aṟintu āṟṟākkaṭai.
 469\. Even a good scheme falls through if we do not divine aright the disposition of men.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४६९</summary>
 
 9\. நன்றாற்ற லுள்ளும் தவறுண்டு அவரவர்  
 பண்பறிந் தாற்றாக் கடை.  
@@ -422,7 +422,7 @@ The world will not approve what is improper. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ४७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ४७०</summary>
 
 470\. eḷḷāta eṇṇic ceyalvēṇṭum-tammoṭu  
 koḷḷāta koḷḷātu ulaku.
@@ -430,7 +430,7 @@ koḷḷāta koḷḷātu ulaku.
 470\. Let not the king do; any unwise act lest the world should hold him in scorn.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ४७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ४७०</summary>
 
 10\. எள்ளாத எண்ணிச் செயல்வேண்டும் தம்மொடு  
 கொள்ளாத கொள்ளாது உலகு.  

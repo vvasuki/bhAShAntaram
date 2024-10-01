@@ -25,7 +25,7 @@ No more use than a corpse. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००१</summary>
 
 1001 vaittāṉvāy cāṉṟa perumporuL aḵtuṇṇāṉ  
 cettāṉ ceyakkiṭantatu il.
@@ -33,7 +33,7 @@ cettāṉ ceyakkiṭantatu il.
 1001\. He who does not make use of his hoarded wealth is really dead, though aliye; for he cannot do anything great.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००१</summary>
 
 1\. வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்  
 செத்தான் செயக்கிடந்தது இல்.  
@@ -67,7 +67,7 @@ The miser is ensnared in the misery of birth. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००२</summary>
 
 1002 poruḷāṉām ellāmeṉṟu īyātu ivaṟum  
 maruḷāṉām māṇāp piṟappu.
@@ -75,7 +75,7 @@ maruḷāṉām māṇāp piṟappu.
 1002\. The birth of a ghost awaits a miser who thinks he gains everything by hoarding wealth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००२</summary>
 
 2\. பொருளானாம் எல்லாமென்று ஈயாது இவறும்  
 மருளானாம் மாணாப் பிறப்பு.  
@@ -109,7 +109,7 @@ Who hoard wealth and not renown. *
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००३</summary>
 
 1003 īṭṭam ivaṟi icaivēṇṭā vāṭavar  
 tōṟṟam nilakkup poṟai.
@@ -117,7 +117,7 @@ tōṟṟam nilakkup poṟai.
 1003\. He who prefers mere accumulation of wealth to glory is a burden unto the earth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००३</summary>
 
 3\. ஈட்டம் இவறி இசைவேண்டா ஆடவர்  
 தோற்றம் நிலக்குப் பொறை.  
@@ -151,7 +151,7 @@ Think of leaving behind?
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००४</summary>
 
 1004 eccameṉṟu eṉeṇṇum kollō oruvarāl  
 naccap paṭāa tavaṉ.
@@ -159,7 +159,7 @@ naccap paṭāa tavaṉ.
 1004\. What awaits one if one cannot win the affections of others?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००४</summary>
 
 4\. எச்சமென்று என்எண்ணுங் கொல்லோ ஒருவரால்  
 நச்சப் படாஅ தவன்.  
@@ -193,7 +193,7 @@ If one neither gives nor enjoys it.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००५</summary>
 
 1005 koṭuppatūum tuyppatūum illārkku aṭukkiya  
 kōṭiuṇ ṭāyiṉum il.
@@ -201,7 +201,7 @@ kōṭiuṇ ṭāyiṉum il.
 1005\. Of what avail is the untold wealth of one who neither gives nor enjoys it?  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००५</summary>
 
 5\. கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க்கு அடுக்கிய  
 கோடிஉண் டாயினும் இல்.  
@@ -235,7 +235,7 @@ Nor given to the worthy.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००६</summary>
 
 1006 ētam peruñcelvam tāṉtuvvāṉ takkārkkuoṉṟu  
 ītal iliyalpilā tāṉ.
@@ -243,7 +243,7 @@ Nor given to the worthy.
 1006\. Abundance of wealth is not a blessing but a curse to one who can neither enjoy it nor spend it on the deserving.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००६</summary>
 
 6\. ஏதம் பெருஞ்செல்வம் தான்றுவ்வான் தக்கார்க்கொன்று  
 ஈதல் இயல்பிலா தான்.  
@@ -277,7 +277,7 @@ Like a lovely spinster growing old. *
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००७</summary>
 
 1007 aṟṟārkkoṉṟu āṟṟātāṉ celvam mikanalam  
 peṟṟāṉ tamiyaḷmūt taṟṟu.
@@ -285,7 +285,7 @@ peṟṟāṉ tamiyaḷmūt taṟṟu.
 1007\. The wealth that is not spent on the needy is as barren as the withering charm of a spinster.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००७</summary>
 
 7\. அற்றார்க்கொன்று ஆற்றாதான் செல்வம் மிகநலம்  
 பெற்றாள் தமியள்மூத் தற்று.  
@@ -324,7 +324,7 @@ That ripens in the heart of a village.*
 १००८. Compare with २१६. “When wealth comes to the large-hearted, it is like the village tree coming to fruit” * - (C. Rajagopalachari)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००८</summary>
 
 1008 naccap paṭātavaṉ celvam naṭuvūruḷ  
 naccu marampaḻut taṟṟu.
@@ -332,7 +332,7 @@ naccu marampaḻut taṟṟu.
 1008\. The wealth of a miser is like the fruit of a poison-tree in the heart of a village.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००८</summary>
 
 8\. நச்சப் படாதவன் செல்வம் நடுவூருள்  
 நச்சு மரம்பழுத் தற்று.  
@@ -366,7 +366,7 @@ Amassed without love, comfort or scruples.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १००९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १००९</summary>
 
 1009 aṉporīit taṉceṟṟu aṟamnōkkātu īṭṭiya  
 oṇporuḷ koḷvār piṟar.
@@ -374,7 +374,7 @@ oṇporuḷ koḷvār piṟar.
 1009\. Strangers inherit the great wealth of a miser who neither enjoys it nor gives.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १००९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १००९</summary>
 
 9\. அன்பொரீஇத் தற்செற்று அறநோக்காது ஈட்டிய  
 ஒண்பொருள் கொள்வார் பிறர்.  
@@ -413,7 +413,7 @@ Is like the monsoon clouds just shed its moisture.
 १०१०. Compare with २१९. “The poverty of a generous man is nothing but his inability to exercise his generosity” * - (W.H. Drew and J. Lazarus)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - १०१०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - १०१०</summary>
 
 1010 cīruṭaic celvar ciṟutuṉi māri  
 vaṟaṅkūrn taṉaiyatu uṭaittu.
@@ -421,7 +421,7 @@ vaṟaṅkūrn taṉaiyatu uṭaittu.
 1010\. The short-lived poverty of the generous rich is the drought of rain-laden clouds.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - १०१०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - १०१०</summary>
 
 10\. சீருடைச் செல்வர் சிறுதுனி மாரி  
 வறங்கூர்ந் தனையது உடைத்து.  

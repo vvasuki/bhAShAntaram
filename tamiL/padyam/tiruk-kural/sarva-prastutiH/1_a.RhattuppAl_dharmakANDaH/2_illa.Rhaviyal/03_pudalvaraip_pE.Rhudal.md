@@ -24,7 +24,7 @@ Nothing worth than begetting intelligent children.
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६१</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६१</summary>
 
 61\. peṟumavaṟṟuḷ yām aṟivatu illai-aṟivu aṟinta  
 makkaṭpēṟu alla piṟa.
@@ -32,7 +32,7 @@ makkaṭpēṟu alla piṟa.
 61\. We do not know of any other asset than that of intelligent off-spring.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६१</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६१</summary>
 
 1\. பெறுமவற்றுள் யாமறிவது இல்லை அறிவறிந்த  
 மக்கட்பேறு அல்ல பிற  
@@ -66,7 +66,7 @@ If one begets blameless children.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६२</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६२</summary>
 
 62\. eḻupiṟappum tīyavai tīṇṭā-paḻi piṟaṅkāp  
 paṇpuṭai makkaṭ peṟiṉ.
@@ -74,7 +74,7 @@ paṇpuṭai makkaṭ peṟiṉ.
 62\. All the seven births no evil befalls one who is blest with good and unstained children.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६२</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६२</summary>
 
 2\. எழுபிறப்பும் தீயவை தீண்டா பழிபிறங்காப்  
 பண்புடை மக்கட் பெறின்  
@@ -108,7 +108,7 @@ And their fortune the result of their own deeds. *
 (S. Thandapani Desikar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६३</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६३</summary>
 
 63\. tam poruḷ eṉpa tam makkaḷ; avar poruḷ  
 tamtam viṉaiyāl varum.
@@ -116,7 +116,7 @@ tamtam viṉaiyāl varum.
 63\. A man’s riches are his children; their riches are the fruit of their actions.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६३</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६३</summary>
 
 3\. தம்பொருள் என்பதம் மக்கள் அவர்பொருள்  
 தம்தம் வினையான் வரும்  
@@ -150,7 +150,7 @@ By the tiny hands of one’s children. *
 (G. Vanmikanathan)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६४</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६४</summary>
 
 64\. amiḻtiṉum āṟṟa iṉitē-tam makkaḷ  
 ciṟu kai aḷāviya kūḻ.
@@ -158,7 +158,7 @@ ciṟu kai aḷāviya kūḻ.
 64\. Sweeter than ambrosia is the food handled by the tender hand of one’s children.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६४</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६४</summary>
 
 4\. அமிர்தினும் ஆற்ற இனிதேதம் மக்கள்  
 சிறுகை அளாவிய கூழ்  
@@ -192,7 +192,7 @@ And to hear their speech a joy to the ear.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६५</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६५</summary>
 
 65\. makkaḷ mey tīṇṭal uṭaṟku iṉpam; maṟṟu avar  
 col kēṭṭal iṉpam, cevikku.
@@ -200,7 +200,7 @@ col kēṭṭal iṉpam, cevikku.
 65\. The delight of the body is the touch of one’s children. The delight of the ear is their lisp.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६५</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६५</summary>
 
 5\. மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர்  
 சொற்கேட்டல் இன்பம் செவிக்கு  
@@ -234,7 +234,7 @@ Say those who never heard their children lisp.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६६</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६६</summary>
 
 66\. 'kuḻal iṉitu; yāḻ iṉitu' eṉpa-tam makkaḷ  
 maḻalaic col kēḷātavar.
@@ -242,7 +242,7 @@ maḻalaic col kēḷātavar.
 66\. The ‘lute is sweet’, ‘the Veena is sweet’, they say who have not heard the lisp of their little ones.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६६</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६६</summary>
 
 6\. குழல்இனிது யாழ்இனிது என்பதம் மக்கள்  
 மழலைச்சொல் கேளா தவர்  
@@ -276,7 +276,7 @@ Is to make him excel in the midst of the learned. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६७</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६७</summary>
 
 67\. tantai makaṟku āṟṟum naṉṟi avaiyattu  
 munti iruppac ceyal.
@@ -284,7 +284,7 @@ munti iruppac ceyal.
 67\. The good a father can do his son is to make him occupy the first rank in an assembly.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६७</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६७</summary>
 
 7\. தந்தை மகற்குஆற்றும் நன்றி அவையத்து  
 முந்தி யிருப்பச் செயல்  
@@ -318,7 +318,7 @@ Brings joy to all life on the earth.
 (N.V.K. Ashraf)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६८</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६८</summary>
 
 68\. tammiṉ, tam makkaḷ aṟivuṭaimai mā nilattu  
 maṉ uyirkku ellām iṉitu.
@@ -326,7 +326,7 @@ maṉ uyirkku ellām iṉitu.
 68\. Wisdom of the child is not merely the father’s delight but the delight of the world.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६८</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६८</summary>
 
 8\. தம்மின்தம் மக்கள் அறிவுடமை மாநிலத்து  
 மன்னுயிர்க் கெல்லாம் இனிது  
@@ -360,7 +360,7 @@ But even more when he is praised.
 (P.S. Sundaram)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ६९</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ६९</summary>
 
 69\. īṉṟa poḻutiṉ peritu uvakkum-taṉ makaṉaic  
 cāṉṟōṉ eṉak kēṭṭa tāy.
@@ -368,7 +368,7 @@ cāṉṟōṉ eṉak kēṭṭa tāy.
 69\. A mother’s joy to hear of her son’s greatness transcends that at his birth.  
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ६९</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ६९</summary>
 
 9\. ஈன்ற பொழுதிற் பெரிதுவக்கும் தன்மகனைச்  
 சான்றோன் எனக்கேட்ட தாய்  
@@ -402,7 +402,7 @@ The son's duty to his father is to make world ask,
 (Satguru Subramuniyaswami)
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७०</summary>
 
 70\. makaṉ tantaikku āṟṟum utavi, ‘ivaṉ tantai  
 eṉ nōṟṟāṉkol!’ eṉum col.
@@ -410,7 +410,7 @@ eṉ nōṟṟāṉkol!’ eṉum col.
 70\. The service a son can do his father is to make the public exclaim ‘see, the fruit of his father’s good deeds.’
 </details>
 
-<details><summary>रामचन्द्र-दीक्षितः - ७०</summary>
+<details><summary>रामचन्द्र-दीक्षितः (en) - ७०</summary>
 
 70\. makaṉ tantaikku āṟṟum utavi, ‘ivaṉ tantai  
 eṉ nōṟṟāṉkol!’ eṉum col.
@@ -419,7 +419,7 @@ eṉ nōṟṟāṉkol!’ eṉum col.
 
 </details>
 
-<details><summary>शुद्धानन्द-भारती - ७०</summary>
+<details><summary>शुद्धानन्द-भारती (en) - ७०</summary>
 
 10\. மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தை  
 என்னோற்றான் கொல்எனுஞ் சொல்  
