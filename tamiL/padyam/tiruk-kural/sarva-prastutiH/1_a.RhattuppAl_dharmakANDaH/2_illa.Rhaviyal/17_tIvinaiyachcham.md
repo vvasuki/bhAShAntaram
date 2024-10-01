@@ -24,6 +24,11 @@ The wanton pride of sinful action.
 (M.S. Poornalingam Pillai)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २०१</summary>
+
+२०१. Compare with ४२८. "It is folly not to fear what ought to be feared. The wise dread what ought to be dreaded" * - (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०१</summary>
 
 201\. tīviṉaiyār añcār; viḻumiyār añcuvar-  
@@ -106,6 +111,11 @@ Fear ye evil more than fire.        202
 The height of wisdom, it is said,
 Is not to return ill even to foes. *
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २०३</summary>
+
+२०३. Compare with ३१२. “The code of the pure in heart is not to hurt in return any hurt caused in hate” * - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २०३</summary>

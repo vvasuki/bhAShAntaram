@@ -109,6 +109,11 @@ To clasp an alien corpse in a dark room. *
 (P.S. Sundaram), (G. Vanmikanathan)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९१३</summary>
+
+९१३. There existed, according to French writer Abbe J.A. Dubois of the १८th century A.D. [Hindu Manners, Customs and Ceremonies, page १७ and Edgar Thurston, Castes and Tribes of Southern India, Volume V, page १०७], a practice amongst the Nambudris of Kerala to hire someone to embrace the dead corpse of girls who die as virgins [Padmanabhan, २००३]. Valluvar could be referring to this custom. Though two of the five traditional commentators of Tirukkural, namely Manakkudavar and Pariperumal, interpret this way [… पिणत्तै कूलिक्कु तऴुवियदु पोलुम्…॥], they do not refer to this as a practice amongst Nambudris.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९१३</summary>
 
 913 poruṭpeṇṭir poymmai muyakkam iruṭṭaṟaiyil  

@@ -276,6 +276,11 @@ He need not seek other virtues.
 (S.M. Diaz)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २९७</summary>
+
+२९७. A short crisp translation: "To be unfailingly true is to be unfailing in other virtues" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९७</summary>
 
 297\. poyyāmai poyyāmai āṟṟiṉ, aṟam piṟa  

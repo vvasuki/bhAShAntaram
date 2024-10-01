@@ -150,6 +150,11 @@ The clear-eyed cite not their poverty to covet. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १७४</summary>
+
+१७४. Compare with २०५: "Plead not poverty for doing ill, whereby you will become poorer still" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १७४</summary>
 
 174\. 'ilam' eṉṟu veḵkutal ceyyār-pulam veṉṟa  

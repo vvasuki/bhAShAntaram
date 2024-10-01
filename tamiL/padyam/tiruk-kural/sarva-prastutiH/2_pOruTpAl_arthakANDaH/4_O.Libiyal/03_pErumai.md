@@ -235,6 +235,11 @@ That outlook of emulating the great. *
 (S.M. Diaz)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९७६</summary>
+
+९७६. yama = God of Death.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९७६</summary>
 
 976 ciṟiyār uṇarcciyuḷ illai periyāraip  

@@ -108,6 +108,11 @@ The unlearned have two sores on their face! *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ३९३</summary>
+
+३९३. Compare with couple ५७५ where Valluvar uses the same idea to emphasize compassion in eyes: “Compassion is an ornament of the eyes. Without it eyes are deemed sores” ((Satguru Subramuniyaswami))
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३९३</summary>
 
 393\. kaṇ uṭaiyar eṉpavar kaṟṟōr; mukattu iraṇṭu  
@@ -274,6 +279,11 @@ As deep you learn the knowledge grows.        396
 Why does one stop learning till he dies
 When it makes all lands and place his?
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ३९७</summary>
+
+३९७. (K.R. Srinivasa Iyengar)'s alternate translation: "The learned can feel at home everywhere. Why then shun learning all one's life?"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३९७</summary>

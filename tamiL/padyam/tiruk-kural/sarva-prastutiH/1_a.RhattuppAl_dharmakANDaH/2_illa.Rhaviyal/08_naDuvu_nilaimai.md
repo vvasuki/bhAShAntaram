@@ -24,6 +24,11 @@ Regardless of the class of men. *
 (Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १११</summary>
+
+१११. The three class or divisions of men are said to enemies, strangers and friends. 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११</summary>
 
 111\. takuti eṉa oṉṟum naṉṟē-pakutiyāṉ  

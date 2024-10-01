@@ -25,6 +25,11 @@ The rest are like shyness of pretty women.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०११</summary>
+
+१०११. An alternate translation given by (J. Narayanaswamy) will explain this better: “Sense of shame to harmful acts and the blushing of pretty faces in modesty, are not the same”.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०११</summary>
 
 1011 karumattāl nāṇutal nāṇut tirunutal  
@@ -277,6 +282,11 @@ But never abandon honour to save life. *
 (C. Rajagopalachari)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०१७</summary>
+
+१०१७. Compare with ९६२. “Those who desire fame with honour will not sacrifice honour for fame” – (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०१७</summary>
 
 1017 nāṇāl uyirait tuṟappar uyirpporuṭṭāl  
@@ -401,6 +411,11 @@ Want of shame harms every good grace.        1019
 The moves of those devoid of conscience
 Are like those of puppets moved by a string. *
 (K. Kannan)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १०२०</summary>
+
+१०२०. Compare with १०५८. “Without beggars this vast scenic world would be a stage of puppets that come and go” - (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०२०</summary>

@@ -24,6 +24,11 @@ The benefit and the resultant net. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४६१</summary>
+
+४६१. Compare with ६७६. "Weigh well before you plunge: the inputs, impediments and gain" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६१</summary>
 
 461\. aḻivatūum āvatūum āki, vaḻipayakkum  
@@ -106,6 +111,11 @@ With worthy counsels weighing facts.        462
 The wise will never, in the hope of profit,
 Launch an undertaking to lose their capital.*
 (W.H. Drew and J. Lazarus)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ४६३</summary>
+
+४६३. (P.S. Sundaram) would say: "It is not wisdom to lose the capital for the sake of interest"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६३</summary>
@@ -358,6 +368,11 @@ Is doomed to fall though supported.        468
 Even perfect schemes can fail when there is
 Imperfection in the division of labour.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ४६९</summary>
+
+४६९. This couplet can be rendered with different meanings:
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६९</summary>

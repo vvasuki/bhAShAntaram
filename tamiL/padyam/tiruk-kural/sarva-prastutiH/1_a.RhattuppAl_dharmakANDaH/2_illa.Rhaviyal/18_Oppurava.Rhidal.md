@@ -24,6 +24,11 @@ Does the world recompense the rain-cloud?
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २११</summary>
+
+२११. Five elements [pancha bhuta] are earth, water, fire, air and ether.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २११</summary>
 
 211\. kaimmāṟu vēṇṭā kaṭappāṭu; mārimāṭṭu  
@@ -64,6 +69,11 @@ How can the world recompense rain?        211
 All the wealth earned by toils
 Is meant to serve those who deserve. *
 ( Shuddhananda Bharatiar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २१२</summary>
+
+२१२. Compare with ८१. "It is to exercise the benevolence of hospitality that people earn a living and establish homes" -(W.H. Drew and J. Lazarus), (N.V.K. Ashraf). The word "तक्कार्क्कु" in this couplet can be translated as "deserving" or "worthy". Using the latter meaning, (P.S. Sundaram) and (V.V.S. Aiyar) translate this couplet as: "The worthy work and earn their wealth in order to help others" – (P.S. Sundaram).
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१२</summary>
@@ -190,6 +200,11 @@ Others are deemed as dead in fact.        214
 The wealth of a wise philanthropist
 Is a village pool ever full.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २१५</summary>
+
+२१५. Compare with ५२३. “The life of an unattached man is like a boundless pond flowing unbound” - (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१५</summary>
@@ -358,6 +373,11 @@ Their sense of duty never strays.        218
 The poverty of a generous man is nothing but
 His inability to exercise his generosity. *
 (W.H. Drew and J. Lazarus)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २१९</summary>
+
+२१९. Compare with १०१०. "The brief want of the benign rich is like the monsoon clouds just shed its moisture" - ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१९</summary>

@@ -25,6 +25,11 @@ In excess or lacking cause disease.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९४१</summary>
+
+९४१. The other two are considered to be bile and phlegm.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४१</summary>
 
 941 mikiṉum kuṟaiyiṉum nōyceyyum nūlōr  
@@ -359,6 +364,11 @@ And apply remedy that is sure.        948
 A doctor should have the measure of the patient,
 Disease and its stage, and treat.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९४९</summary>
+
+९४९. These three could be: condition of the patient [stable, unstable], nature of the disease [infectious, non-infectious or chronic/acute] and stage of illness [early/terminal].
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४९</summary>

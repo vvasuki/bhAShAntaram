@@ -192,6 +192,11 @@ How will it be in enmity? *
 (G. Vanmikanathan), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११६५</summary>
+
+११६५: An explanatory translation: “If in friendship he can hurt so much, imagine the fate when there is trouble?” - (K. Kannan). Also compare with १२०७: “What will happen if I forget him, when his memory itself burns my heart?” * - ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६५</summary>
 
 1165 tuppiṉ evaṉāvar maṉkol tuyarvaravu  
@@ -400,6 +405,11 @@ Are midnight hours gliding slowly.        1169
 If eyes could also reach him like the heart,
 They won’t be swimming in a flood of tears.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ११७०</summary>
+
+११७०. Compare with १२४४. “Rid me of these eyes, O my heart! For they, longing to see him, wear my life away” - (G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७०</summary>

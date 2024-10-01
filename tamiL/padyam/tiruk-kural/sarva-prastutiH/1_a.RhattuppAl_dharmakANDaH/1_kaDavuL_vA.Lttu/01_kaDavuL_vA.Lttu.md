@@ -26,6 +26,11 @@ And the world with the first Bagavan. *
 (K.N. Subramanyam), (K.R. Srinivasa Iyengar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १</summary>
+
+१. "Bagavan". Scholars differ in their opinion as to what this word stands for. Most traditional and modern scholars, based on the title of the chapter "In praise of God", render the word to mean "Creator God". However Jaina scholars claim that the word "आदि भगवन्" [Ādi bagavan] is a clear reference to the name of the first Jina Thirthankara "ādeenath" or rashabha (Chakravarti, १९५१; Subramanyam, १९८७). It is interesting to note that Valluvar who has used very few words of Sanskrit origin in his whole work, opted for the twin word "आदि भगवन्" here. Moreover, since the simile "ऎऴुत्तॆल्लाम्" is plural, the emphasis "उलगु" should also be taken in plural. The "world" could thus means the "people of the world" (उलगत्तार्क्कु).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १</summary>
 
 1\. akaram mutala, eḻuttu ellām; āti-  
@@ -112,6 +117,11 @@ At His good feet who knoweth all.         2
 Long life on earth is theirs who reach
 The glorious feet of Him who walked on flowers.
 (P.S. Sundaram), (V.V.S. Aiyar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ३</summary>
+
+३. An alternate 'mystical' translation, but not implied in the original: "The Supreme dwells within the lotus of the heart. Those who reach His Splendid Feet dwell endearingly within unearthly realms" - (Satguru Subramuniyaswami). Other translators who adopted this interpretation Parithiyār and Kālingar (two of the five known ancient commentators of Tirukkural) include (G. Vanmikanathan), (K. Krishnaswamy & Vijaya Ramkumar) and (C. Rajagopalachari).
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३</summary>
@@ -202,6 +212,11 @@ Who delight meaningfully in Lord's praise. *
 (S.M. Diaz)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५</summary>
+
+५. Twin deeds [of dark illusion] are fruits of both good and evil deeds.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५</summary>
 
 5\. iruḷ cēr iru viṉaiyum cērā, iṟaivaṉ  
@@ -244,6 +259,11 @@ And wrong, the twins of dreaming night.         5
 Long life is theirs who tread the path of Him
 Who conquered the five senses.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६</summary>
+
+६. This cannot be a reference to God, for God is beyond the senses and only mortals will be required to control the five senses. Almost all translators, however, have taken this as a reference to God. Some translators have attempted to get over this difficulty by employing non-committal renderings like this one: "He who has controlled the five senses and is established in the path of righteousness will lead a life of fulfillment" - (K. Krishnaswamy & Vijaya Ramkumar). It is worth noting that the word 'Jina' literally means "conqueror or victorious", i.e. the conqueror of five senses. This couplet could actually be a reference to a Jaina Tirthankara. Buddha also conquered the five senses, but neither Gautama nor the preceding Buddhas were called Adi Bagavan.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६</summary>
@@ -330,6 +350,11 @@ To the feet of that Being, a sea of virtue. *
 (W.H. Drew and J. Lazarus)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८</summary>
+
+८. The word "अऱवाऴि" can be taken to mean, either "sea of virtue" or "wheel of the virtue". Similarly, the word "पिऱ" could either mean "birth" or "other". Depending on the combination of these meanings chosen, the couplet can also be translated in the following ways: (i) "Only those who reach the feet of the lord, the ocean of virtue, can cross those other oceans." - * (Norman Cutler). The other two oceans could be oceans of Wealth and Pleasure. (ii) "Only by clinging to the feet of the Lord of the wheel of virtue, that one can swim the ocean of this life" * - (G. Siromoney, S. Govindaraju & M. Chandrasekaran).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८</summary>
 
 8\. aṟa āḻi antaṇaṉ tāḷ cērntārkku allāl,  
@@ -370,6 +395,11 @@ Who clasps the feet of Virtue's sea.         8
 Depraved, senseless and worthless is the head
 Unbowed at the feet of Him with eight qualities.
 (P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९</summary>
+
+९. This couplet could refer to one of the five Parméstins, the Siddhās (liberated souls) of Jainism, because they only are designated with ८ guñas (qualities) (Malaiya, १९९८). The other four Arhats, Āchāryās, Upādhyāyās and Sādhus (Ashta Pahuda VI:१०४) are identified as Jinas with १२, ३६, २५ and २७ guñas respectively (Malaiya, १९९८). What are the eight qualities or guñas of Siddhās? Ananta jnāna, Ananta darshana, Ananta labdhi, Ananta sukha, Akshaya sthiti, Being vitāraga, Being arupa and Aguruladhutaa. Ancient commentator Parithiyar lists these eight qualities (अनन्द ज्ञानम्, अनन्द वीरियम्, कोत्तिरमिन्मै, अनन्द तरिसनम्, अनन्द कुणम्, अऴिया इयल्बु, नाममिन्मै, अवाविन्मै) as qualities of Lord Shiva!
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९</summary>

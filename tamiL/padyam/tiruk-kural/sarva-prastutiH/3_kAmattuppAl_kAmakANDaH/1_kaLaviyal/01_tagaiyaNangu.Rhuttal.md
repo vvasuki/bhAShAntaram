@@ -402,6 +402,11 @@ But never at mere look like love! *
 (V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०९०</summary>
+
+१०९०. Compare with १२०१: “Love is sweeter than wine; its mere thought intoxicates” - (P.S. Sundaram) and with also १२८१: “To please with the thought and delight with the sight, belongs not to liquor but love” - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०९०</summary>
 
 1090 uṇṭārkaṇ allatu aṭunaṟāk kāmampōl  

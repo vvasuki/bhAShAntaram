@@ -403,6 +403,11 @@ Who cannot overcome an ignorant foe. *
 (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८७०</summary>
+
+८७०. A couplet that has been translated differently by different authors: (Satguru Subramuniyaswami) puts it as: "Fame will escape the grasp of those who fail to grasp the wealth of fools who failed to learn". Manakkudavar, one of the great ancient commentators of Kural, takes these words "कल्लान्, वॆगुळुम्, सिऱुबॊरुळ्" to mean "ignorant, angry and deficient" as attributes of an enemy [Diaz, २०००]. Other interesting translation is: "Fame will escape him who lets escape an easy victory over a fool" – (P.S. Sundaram). 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७०</summary>
 
 870 kallāṉ vekuḷum ciṟuporuḷ eññāṉṟum  

@@ -277,6 +277,11 @@ Unless their jaws are shaken with clenched fists. *
 ( Shuddhananda Bharatiar), (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०७७</summary>
+
+१०७७. This couplet is well explained in this translation by (Satguru Subramuniyaswami): “The wretched are too inhospitable to even shake the moisture from their just-washed hands, unless the visitor can shatter their jaw with clenched fist”. 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०७७</summary>
 
 1077 īrṅkai vitirār kayavar koṭiṟuṭaikkum  

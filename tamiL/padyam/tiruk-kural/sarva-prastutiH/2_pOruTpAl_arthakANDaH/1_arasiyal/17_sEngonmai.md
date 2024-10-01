@@ -192,6 +192,11 @@ Never lacks rain and corn.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५४५</summary>
+
+५४५. Relationship between King and Rain has been emphasized by Valluvar in at least three places in Kural. Very similar ideas are conveyed in two couplets of the next chapter on “Misrule”. In ५५७, Valluvar says “How fares the earth without rain? So fares life under a ruthless king” and in ५५९ he says “If a king acts contrary to justice, monsoons fail and clouds shed no rain”.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४५</summary>
 
 545\. iyalpuḷik kōl ōccum maṉṉavaṉ nāṭṭa-  

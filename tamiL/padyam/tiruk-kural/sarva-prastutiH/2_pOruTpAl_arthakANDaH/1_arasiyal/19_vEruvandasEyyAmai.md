@@ -66,6 +66,11 @@ To have a lasting effect.
 SDR
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५६२</summary>
+
+५६२. What is meant by this statement is this: "Pretend to be harsh, but act mildly if you want long lasting effect" - (K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५६२</summary>
 
 562\. kaṭitu ōcci, mella eṟika-neṭitu ākkam  

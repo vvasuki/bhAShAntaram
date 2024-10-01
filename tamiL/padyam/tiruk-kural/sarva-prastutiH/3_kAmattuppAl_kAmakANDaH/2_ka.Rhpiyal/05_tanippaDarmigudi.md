@@ -234,6 +234,11 @@ It is sweet only when shared by both sides.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११९६</summary>
+
+११९६. The word “kaavadi” [कावडि, appearing as “का” in Kural] refers to the shoulder pole used to carry heavy articles on either side.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९६</summary>
 
 1196 orutalaiyāṉ iṉṉātu kāmamkāp pōla  
@@ -400,6 +405,11 @@ And yet his words sweeten my ears.        1199
 O heart, why pour your concerns to the unconcerned?
 As well dump into the sea! *
 (K.R. Srinivasa Iyengar), (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२००</summary>
+
+१२००. There are differing renderings of this couplet. The word “उऱार्क्कु” is sometimes taken to mean “strangers or people” and the word “सॆऱाय्” to mean “not to be angry or furious”.  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२००</summary>

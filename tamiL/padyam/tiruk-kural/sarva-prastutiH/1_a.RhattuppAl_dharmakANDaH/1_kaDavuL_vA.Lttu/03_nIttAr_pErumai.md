@@ -24,6 +24,11 @@ The greatness of disciplined ascetics. *
 (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २१</summary>
+
+२१. Compare with couplet २८ for similarity.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २१</summary>
 
 21\. oḻukkattu nīttār perumai viḻuppattu  
@@ -108,6 +113,11 @@ Knowing both, choose renunciation. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २३</summary>
+
+२३. "Both" here refer to the paths of 'householder' and 'ascetic'.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३</summary>
 
 23\. irumai vakai terintu īṇṭu aṟam pūṇṭār  
@@ -148,6 +158,11 @@ Who know the right and virtue wear.         23
 The restraint of senses five by the ankush of firmness
 Is the seed for the bliss of heaven.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २४</summary>
+
+२४. The word "तोट्टि" here mean a "hook", implying the prod or ankush employed by mahouts to restrain elephants.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४</summary>
@@ -191,6 +206,11 @@ The senses five, is heaven to gain.         24
 Even the celestial king Indra will vouch the strength
 Of one who rules his senses five. *
 (K. Kannan), (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २५</summary>
+
+२५. S.M. Diaz (२०००), citing Manakkudavar's commentary, says it only refers to the insecurity of Indra had whenever a sage effectively controls his five senses and reached the heights of penance, lest he should ultimately endanger his own position - and so Valluvar used him as the witness to the ascetic's prowess.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५</summary>

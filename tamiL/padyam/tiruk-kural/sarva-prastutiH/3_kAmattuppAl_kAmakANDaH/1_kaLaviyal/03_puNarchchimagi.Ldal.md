@@ -66,6 +66,11 @@ But this jewel is both disease and cure.
 (W.H. Drew and J. Lazarus), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११०२</summary>
+
+११०२. Compare with १२७५. “The trickery caused by the braceleted one carries the medicine to cure my ills as well” * - (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११०२</summary>
 
 1102 piṇikku maruntu piṟamaṉ aṇiyiḻai  
@@ -148,6 +153,11 @@ As sleep in lover's arms so soft?        1103
 Whence did she get the fire
 Which burns when far, and cools when near?
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ११०४</summary>
+
+११०४. Compare with ११५९. “Can fire, which hurts when touched, hurt like the passion of love even untouched?” - (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०४</summary>

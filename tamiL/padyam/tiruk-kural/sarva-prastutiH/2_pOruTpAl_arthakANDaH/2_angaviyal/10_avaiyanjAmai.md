@@ -285,6 +285,11 @@ Is the learning to one who fears assembly. *
 (G.U. Pope), (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७२७</summary>
+
+७२७: Compare with ७२६. Very similar import but words employed by Valluvar for composition are different. Also with ६१४: “The liberality of the indolent man will not endure, like a sword in eunuch’s hand”.* ((V.V.S. Aiyar))
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७२७</summary>
 
 727\. pakaiyakattup pēṭi kai oḷ vāḷ-avaiyakattu  

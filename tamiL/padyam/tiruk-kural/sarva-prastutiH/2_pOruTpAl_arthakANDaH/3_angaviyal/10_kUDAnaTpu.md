@@ -151,6 +151,11 @@ Conceal bitterness in their hearts.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८२४</summary>
+
+८२४. Compare with ७८६. "A smiling face alone makes no friendship, but the heart should also smile with the face." * - (V. Ramasamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२४</summary>
 
 824 mukattiṉ iṉiya nakāa akattuiṉṉā  
@@ -191,6 +196,11 @@ Whose heart is full of cunning guiles.        824
 Trust not the mere words of those
 Whose minds don't agree with us. *
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ८२५</summary>
+
+८२५: A short and crisp translation but not close to original: "When minds do not agree don't trust mere words" - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८२५</summary>

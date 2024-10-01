@@ -402,6 +402,11 @@ Neither can water exist without rain. *
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २०</summary>
+
+२०. The word "ऒऴुक्कु" could be taken to mean either "conduct/virtue" or "flow/discharge/water". Thus, an alternate, but equally valid translation is: "If life cannot be sustained without water, virtue too depends on rain" - (S.M. Diaz). Using the other meaning, the couplet could also be translated as: "Life cannot exist without water, nor can flowing water without rain" – (N.V.K. Ashraf). 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०</summary>
 
 20\. nīr iṉṟu amaiyātu ulakueṉiṉ, yāryārkkum  

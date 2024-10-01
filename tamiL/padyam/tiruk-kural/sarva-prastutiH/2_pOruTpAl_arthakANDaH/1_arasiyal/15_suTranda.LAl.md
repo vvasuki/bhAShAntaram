@@ -108,6 +108,11 @@ Is like a boundless pond flowing unbound.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५२३</summary>
+
+५२३. Compare with २१५. “The wealth of a wise philanthropist is a village pool ever full” - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५२३</summary>
 
 523\. aḷavaḷāvu illātāṉ vāḻkkai-kuḷavaḷāk  

@@ -24,6 +24,11 @@ Enduring hardships and harming no life.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २६१</summary>
+
+२६१. Compare with ९८४: "The characteristic of penance is non-killing, and that of goodness not speaking others' faults" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २६१</summary>
 
 261\. uṟṟa nōy nōṉṟal, uyirkku uṟukaṇ ceyyāmai,  
@@ -106,6 +111,11 @@ Not for him who in vain pretends.        262
 Is it to support those who do penance
 That others have forgotten it?
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २६३</summary>
+
+२६३. "Supports" include food, clothing and water. "Others" here mean householders. 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६३</summary>

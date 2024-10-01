@@ -402,6 +402,11 @@ The one without fame fades.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २४०</summary>
+
+२४०. There are many interesting ways of translating this couplet. 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४०</summary>
 
 240\. vacai oḻiya vāḻvārē vāḻvār; icai oḻiya  

@@ -66,6 +66,11 @@ Is not to hurt in return any hurt caused in hate. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ३१२</summary>
+
+३१२. Compare with २०३: "The height of wisdom, it is said, is not to return ill for ill" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३१२</summary>
 
 312\. kaṟuttu iṉṉā ceyta akkaṇṇum, maṟuttu iṉṉā  
@@ -148,6 +153,11 @@ Bad-blood breeds and baneful heat.        313
 Punish an evil-doer
 By shaming him with a good deed.*
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ३१४</summary>
+
+३१४. Compare with ९८७: "What good is that goodness if it does not return good even to those who cause evil?" * - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१४</summary>
@@ -316,6 +326,11 @@ At any time even in thought.        317
 Why does one hurt others
 Knowing what it is to be hurt?
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ३१८</summary>
+
+३१८. Compare with ९९. "How can anyone speak harsh words, having seen what kind words do?" - (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१८</summary>

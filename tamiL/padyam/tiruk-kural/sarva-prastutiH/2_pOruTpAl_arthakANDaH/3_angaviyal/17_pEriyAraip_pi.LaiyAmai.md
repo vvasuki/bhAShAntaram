@@ -109,6 +109,11 @@ Who in turn can destroy as they desire. *
 (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८९३</summary>
+
+८९३. The import of the couplet can be summed up this way: “To offend the powerful wantonly is to ask for trouble” - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९३</summary>
 
 893 keṭalvēṇṭiṉ kēḷātu ceyka aṭalvēṇṭiṉ  
@@ -149,6 +154,11 @@ Offence against the mighty great.        893
 For the weak to challenge the mighty
 Is to summon yama with the hand.
 (P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ८९४</summary>
+
+८९४. yama is ‘god of death’. Compare with couplet २५० where Valluvar says “When you threaten one weaker than yourself, think of yourself before a bully”. ((P.S. Sundaram))
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९४</summary>
@@ -233,6 +243,11 @@ Pursued by powerful monarch's ire?        895
 One may survive even if burnt in fire
 But no survival for those who offend the great. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ८९६</summary>
+
+८९६. Compare with १०४९ for similar idea: “One may sleep even in the midst of fire, but by no means in the midst of poverty” * - (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९६</summary>

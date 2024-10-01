@@ -109,6 +109,11 @@ And lead the one bent on social service. *
 (Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०२३</summary>
+
+१०२३. The phrase “मडि तट्रु” means “tightening one’s loin clothes”. Does this in any way refer to the Jaina deities that are always depicted naked? 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२३</summary>
 
 1023 kuṭiceyval eṉṉum oruvaṟkut teyvam  

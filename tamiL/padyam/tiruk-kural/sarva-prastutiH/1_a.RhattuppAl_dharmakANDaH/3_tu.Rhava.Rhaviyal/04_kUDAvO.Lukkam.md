@@ -276,6 +276,11 @@ Are many, ochre-robed but black within.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २७७</summary>
+
+२७७. Konri is the seeds of Abrus precatorius, a tree not uncommon in South India.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७७</summary>
 
 277\. puṟam kuṉṟi kaṇṭaṉaiyarēṉum, akam kuṉṟi  
@@ -358,6 +363,11 @@ Hiding sins in showy extremes.        278
 The lute is bent, the arrow straight:
 Judge men not by their looks but acts.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २७९</summary>
+
+२७९. Compare with ६६७. “Despise not by looks! Even linchpins hold in place the wheels of mighty chariots!” – (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २७९</summary>

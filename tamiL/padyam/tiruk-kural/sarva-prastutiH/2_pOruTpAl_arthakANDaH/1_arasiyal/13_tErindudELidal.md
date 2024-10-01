@@ -402,6 +402,11 @@ Both lead to endless trouble. *
 (K.R. Srinivasa Iyengar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५१०</summary>
+
+५१०. If this verse is taken out of this context of "Testing and choosing", and placed under "Realization" [Chapter ३६: मॆय्युणर्दल्], the words "तेरान्" could mean 'muddled', “तॆळिन्दान्" could mean "Clarified/realized" and "ऐयुऱवुम्" could be taken to mean 'doubts'. The couplet then could well mean "The clarity claimed by a muddled-head and the doubts of a Realized, both cause endless trouble". The idea is that the realized souls should have no doubts and the unrealized cannot claim to be free of doubts.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१०</summary>
 
 510\. tērāṉ teḷivum, teḷintāṉkaṇ aiyuṟavum,  

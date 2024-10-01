@@ -193,6 +193,11 @@ Obtained without love and grace.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७५५</summary>
+
+७५५: A short and crisp translations, but not close to original: "Wealth unblessed by giver and taker should not be touched" – (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७५५</summary>
 
 755\. aruḷoṭum, aṉpoṭum vārāp poruḷ ākkam  
@@ -401,6 +406,11 @@ The insolence of foes to quell.        759
 He who makes glorious wealth in plenty,
 Gains the other two treasures together. *
 (M.S. Poornalingam Pillai)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ७६०</summary>
+
+७६०. The other two of Trivarga: i.e. Virtue and Love.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६०</summary>

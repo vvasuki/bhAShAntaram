@@ -403,6 +403,11 @@ His own want is proof enough. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०६०</summary>
+
+१०६०. i.e. proof enough to gauge the miserable condition of the one who refused. (J. Narayanaswamy)’s translation will help understand the import of the verse explicitly: “Seekers should disdain anger; the givers with good intent may also be in dire straits”. 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६०</summary>
 
 1060 irappāṉ vekuḷāmai vēṇṭum nirappiṭumpai  

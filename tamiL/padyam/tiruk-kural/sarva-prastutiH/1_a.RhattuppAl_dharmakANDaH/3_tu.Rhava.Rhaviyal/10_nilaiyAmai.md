@@ -318,6 +318,11 @@ Is like the bird that flies away from the nest.
 (K. Kannan), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ३३८</summary>
+
+३३८. Most translators render the word "कुडम्बै" as "egg-shell" [(P.S. Sundaram), (J. Narayanaswamy), ( Shuddhananda Bharatiar), (V.V.S. Aiyar), (W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar), (Satguru Subramuniyaswami), (K.R. Srinivasa Iyengar)], while (K. Kannan) and (G.U. Pope) take it as "nest". (V. Ramasamy) discusses the drawback in translating the word as "egg-shell" at length and says this meaning came to be associated with the word only after Parimelazhagar's time [Ramasamy, २००१]. Mamakkudavar and Kalingar, whose commentaries appeared before Parimelazhagar, mention that the meaning of "कुडम्बै" is nest. (V. Ramasamy) adds that no fledging flies when it comes out of the egg-shell and only to an intact nest could be compared to the human body, which remains intact even after the soul has left. Pertinent to bring here a reference to the same from the Semitic world: "Our soul has escaped as a bird out of the snare of the trapper" [Psalm, १२४:७].
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३३८</summary>
 
 338\. kuṭampai taṉittu oḻiyap puḷ paṟantaṟṟē-  

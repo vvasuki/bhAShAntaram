@@ -192,6 +192,11 @@ By the aniccham she wore with its stalk. *
 (J. Narayanaswamy)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १११५</summary>
+
+१११५. aniccham – a flower known for its delicate nature. The idea here is that a woman’s waist is so delicate that it can’t even bear the weight of a delicate flower like aniccham if it is worn without removing its stalk.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११५</summary>
 
 1115 aṉiccappūk kālkaḷaiyāḷ peytāḷ nucuppiṟku  
@@ -274,6 +279,11 @@ The moon and which is woman's face.        1116
 Are there spots on my love’s face
 Like the spots on the shining moon?
 (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १११७</summary>
+
+१११७. This couplet may look simple but has been translated differently. The word “अऱुवाय्” has been usually taken to mean “variable, changing or inconstant” [(P.S. Sundaram), ( Shuddhananda Bharatiar)] and thereby interpreted by many as “waning and waxing moon” [(J. Narayanaswamy), (K. Kannan), (G.U. Pope), (M.S. Poornalingam Pillai)]. However, the very next word “निऱैन्द” [which means “filled with”] clearly implies that this word means the ‘spots or craters’ on the moon [“अऱु” can mean “break, crack, split” and “वाय्” “mouth”]. Though the couplets in Kural are usually discrete and independent of each other, there are occasions – especially in division “LOVE” – where the succeeding ones appear in sequence [chapter १३२ is a fine example]. Here it appears that the preceding couplet १११६ compares the lady’s face to the moon, with even the stars being unable to differentiate the two. This couplet takes the love’s face a step further and attempts to differentiate the two. Perhaps this is what is implied here: “Even the shining moon has spots of craters, but none on my love’s face”. Commentator Manakkudavar’s gives a fitting explanation. He says: “इवळ् मुगत्तु मऱुविल्लै यादलान्, अदु मदियोडु ऒव्वादु ऎण्ड्रु कूऱियदु”.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १११७</summary>
@@ -400,6 +410,11 @@ If you look, then shine alone O moon!        1119
 Even aniccham flower and swan's down
 Are as nerunji fruit to my maidens’ feet. *
 (V.V.S. Aiyar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ११२०</summary>
+
+११२०. Simply, it means: “Even flower petals and down feathers are prickly to my damsel’s feet”. Flower aniccham is known for its softness and the fruit nerunji for its thorns.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२०</summary>

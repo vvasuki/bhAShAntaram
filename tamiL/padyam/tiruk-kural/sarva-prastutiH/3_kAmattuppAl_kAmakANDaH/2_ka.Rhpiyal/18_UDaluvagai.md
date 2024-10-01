@@ -24,6 +24,11 @@ To bring out the best in him.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १३२१</summary>
+
+१३२१. Compare with १३०१: "Let me feign to be angry and see his pain of suffering for a while" - (N.V.K. Ashraf) 
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३२१</summary>
 
 1321 illai tavaṟuavarkku āyiṉum ūṭutal  

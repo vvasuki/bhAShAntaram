@@ -67,6 +67,11 @@ Constitute a fortress.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७४२</summary>
+
+७४२. Compare with ७३७. "A land's limbs are waters from rains, springs and well placed hills, and strong fortress" * - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४२</summary>
 
 742\. maṇi nīrum, maṇṇum, malaiyum, aṇi niḻal  

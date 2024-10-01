@@ -24,6 +24,11 @@ Who can survive to see your return.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११५१</summary>
+
+११५१. Another way of putting it: “What use is telling me of your departure? Inform that to those who survive to see your return”- (N.V.K. Ashraf)]
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५१</summary>
 
 1151 cellāmai uṇṭēl eṉakkuurai maṟṟuniṉ  
@@ -276,6 +281,11 @@ Forebode the departure of my lord? *
 (W.H. Drew and J. Lazarus)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११५७</summary>
+
+११५७. A convention in ancient Tamil poetry was that separation from her lover makes a woman’s hands thin and her bangles loose [Sundaram, १९८९]. The idea is repeated in couplet १२७७.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५७</summary>
 
 1157 tuṟaivaṉ tuṟantamai tūṟṟākol muṉkai  
@@ -358,6 +368,11 @@ Worse is parting love's embrace!        1158
 Can fire, which hurts when touched,
 Hurt like the passion of love even untouched?
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ११५९</summary>
+
+११५९. Compare with ११०४. “Whence did she get the fire which burns when far, and cools when near?” - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५९</summary>

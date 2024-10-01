@@ -24,6 +24,11 @@ Belongs not to liquor but love.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२८१</summary>
+
+१२८१. Compare with १०९०: "Wine won't delight unless imbibed, but love with a look delights!" - (P.S. Sundaram) and with १२०१: "Love is sweeter than wine; its mere thought intoxicates" – (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८१</summary>
 
 1281 uḷḷak kaḷittalum kāṇa makiḻtalum  
@@ -64,6 +69,11 @@ Belong to love and not to wine.        1281
 Where love is as large as a palm tree,
 Even millet of sulk is misplaced. *
 (K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२८२</summary>
+
+१२८२. Compare with couplets १०४ & ४३३ for the use of same similes “Millet” and “Palm tree”. “To the discerning even millet of aid is as big as a palm tree.” and “To those ashamed of wrong doings, even a millet of fault is as big as a palm-tree”
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८२</summary>
@@ -108,6 +118,11 @@ My eyes will not rest till they see him.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२८३</summary>
+
+१२८३. Compare with ११७८. Five of the seven seers (metrical feet) between these two couplets are same! “पेणादु पॆट्टार् उळर्-मन्नो मट्रु अवर्क् काणादु अमैवु इल कण्.”
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८३</summary>
 
 1283 pēṇātu peṭpavē ceyyiṉum koṇkaṉaik  
@@ -148,6 +163,11 @@ My restless eyes would see him still.        1283
 My friend, I went all set to quarrel,
 But my heart forgot and clasped him.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२८४</summary>
+
+१२८४. Compare with १२९४. "Who will consult you hereafter, my heart, having failed to sulk before yielding?" * - (M.S. Poornalingam Pillai), (P.S. Sundaram). Also with १२५९. “Determined to sulk I went, but when my heart merged, I too went and clasped him.” * ((J. Narayanaswamy), (P.S. Sundaram))
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८४</summary>
@@ -316,6 +336,11 @@ When lord is close to feign a huff.        1287
 The drunkard seeks wine knowing well its shame;
 So does your bosom to me, O thief! *
 (K.R. Srinivasa Iyengar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२८८</summary>
+
+१२८८. Through disgraceful, drunkards seek to drink again. Even so, I long for your bosom in spite of your trickery.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८८</summary>

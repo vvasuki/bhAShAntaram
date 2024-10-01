@@ -234,6 +234,11 @@ As if a serpent has swallowed the moon. *
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११४६</summary>
+
+११४६. In ancient India, a lunar eclipse was considered the outcome of a serpent swallowing the moon. An alternate translation would be: “An eclipse is much noised however brief. So my one day's meeting with my love” - (P.S. Sundaram). We see this belief being mentioned in other texts. For instance by Chanakya in Rajaniti-Sastra: “Brave men do not become sad when they beget trouble. Does not the moon which enters the dragon’s mouth come out again?” Tirumoolar uses this belief to good effect to depict upsurge of Kundalini: “The Kundalini serpent consumes kalas of Moon, the Fire consumes kalas of Sun……” [Tirumandiram ८७१].
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४६</summary>
 
 1146 kaṇṭatu maṉṉum orunāḷ alarmaṉṉum  

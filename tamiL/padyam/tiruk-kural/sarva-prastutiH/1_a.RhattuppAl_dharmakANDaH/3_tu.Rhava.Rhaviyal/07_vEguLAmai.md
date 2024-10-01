@@ -360,6 +360,11 @@ If they keep away wrath from their mind.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ३०९</summary>
+
+३०९. Compare with ५४० and ६६६ for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "What is sought will be got as desired if only the seeker is determined" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३०९</summary>
 
 309\. uḷḷiya ellām uṭaṉ eytum-uḷḷattāl  
@@ -400,6 +405,11 @@ If man refrains from rage vicious!        309
 Deem those given to anger dead
 And those renounced it on par with saints.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ३१०</summary>
+
+३१०. A different but equally valid translation is given by (Satguru Subramuniyaswami):
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>

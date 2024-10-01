@@ -24,6 +24,11 @@ A trickling tear will proclaim it loud.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७१</summary>
+
+७१. Compare with १२५: "The axe of love can break open the door of chastity secured by the bolt of modesty." * - (W.H. Drew and J. Lazarus), (J. Narayanaswamy).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१</summary>
 
 71\. aṉpiṟkum uṇṭō, aṭaikkum tāḻ?ārvalar  
@@ -232,6 +237,11 @@ From peaceful psychic love always.         75
 "Love supports virtue alone", say the fools.
 It supports vice as well.
 (T.K. Chidambaranatha Mudaliar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ७६</summary>
+
+७६. Usual translation is: "The naïve say that love aids virtue, but it safeguards against vice as well. – (K.R. Srinivasa Iyengar) [the same way by ( Shuddhananda Bharatiar), (P.S. Sundaram), (V.V.S. Aiyar), (K. Krishnaswamy & Vijaya Ramkumar)]. But there is no evidence in the original to support such an interpretation. Kalingar and Manakkudavar interpret the couplet as (T.K. Chidambaranatha Mudaliar). Interestingly (C. Rajagopalachari), (J. Narayanaswamy) and (K. Kannan) take the word "मऱम्" as "valour/soldier". 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६</summary>

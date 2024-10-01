@@ -24,6 +24,11 @@ A common dish for all women's eyes to gorge! *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १३११</summary>
+
+१३११. (K.R. Srinivasa Iyengar)’s translation, though not literal, would explain this scenario: "All women graze on your breast, O false one! I reject your advances"
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३११</summary>
 
 1311 peṇiyalār ellārum kaṇṇiṉ potuuṇpar  
@@ -190,6 +195,11 @@ yāriṉum yāriṉum eṉṟu.
 The moment I said we won’t part in this life,
 Her eyes were filled with tears.
 (S.M. Diaz)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १३१५</summary>
+
+१३१५. …॥ thinking of next birth
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३१५</summary>

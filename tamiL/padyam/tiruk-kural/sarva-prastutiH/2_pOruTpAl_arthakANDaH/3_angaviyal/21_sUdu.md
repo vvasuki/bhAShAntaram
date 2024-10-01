@@ -25,6 +25,11 @@ Like fishes drawn to shining baits.
 (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९३१</summary>
+
+९३१. Padmanabhan [२००३] refers to the practice amongst fishermen of Kanyakumari [Muttom area] to use glittering golden lace as bait for fishing. However, none of the २० translations from different sources compared in this exercise has interpreted this way. However Kālingar, one of the five traditional commentators of Kural interpret the phrase “तूण्डिल् पॊन्” as “bait of gold”. On the contrary, the phrase has been invariably taken to mean “metal hook” with the word “पॊन्” once actually being used as a reference to any “metal”. The type of metal implied has to be inferred from the context [Sethu Pillai, १९७४].
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३१</summary>
 
 931 vēṇṭaṟka veṉṟiṭiṉum cūtiṉai veṉṟatūum  
@@ -409,6 +414,11 @@ In gambler's hand will never thrive.        939
 Like the attachment to life despite sufferings
 Is the love for gambling despite loss. *
 (K. Kannan)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९४०</summary>
+
+९४०. (P.S. Sundaram) would say: "Life goes on in spite of loss and stakes in spite of loss!"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४०</summary>

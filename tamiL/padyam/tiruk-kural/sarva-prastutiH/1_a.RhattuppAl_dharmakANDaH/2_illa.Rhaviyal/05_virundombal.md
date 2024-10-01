@@ -24,6 +24,11 @@ That people earn a living and establish homes.
 (W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८१</summary>
+
+८१. Compare with २१२. "All the wealth earned by toils is meant to serve those who deserve" * - ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१</summary>
 
 81\. iruntu ōmpi il vāḻvatu ellām viruntu ōmpi  
@@ -276,6 +281,11 @@ Their worth depends on the guest.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८७</summary>
+
+८७. Compare with १०५. "Not according to the aid but its receiver is its recompense determined" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७</summary>
 
 87\. iṉait tuṇaittu eṉpatu oṉṟu illai; viruntiṉ  
@@ -316,6 +326,11 @@ Is worth of hospitality.         87
 "We toiled, stored and lost", lament those
 Who never sacrificed for hospitality.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ८८</summary>
+
+८८. By way of interpretation, this translation by (Satguru Subramuniyaswami) would help: "Those who never sacrifice to care for guests will later lament: We hoarded wealth, estranged ourselves, now none will care for us"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८८</summary>
@@ -400,6 +415,11 @@ Whose folly fails the guest to feed.         89
 Flower aniccham withers when merely smelt.
 An unwelcome look is enough to wither a guest. *
 (Satguru Subramuniyaswami)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९०</summary>
+
+९०. Aniccham is a flower known for its fragility. Valluvar uses this flower in four places in Kural. The remaining couplets are in the third book "Love". [see ११११, १११५, ११२०]
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९०</summary>

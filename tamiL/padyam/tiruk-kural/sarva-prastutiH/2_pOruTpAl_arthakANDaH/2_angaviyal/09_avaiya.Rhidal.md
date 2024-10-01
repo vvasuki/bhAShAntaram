@@ -67,6 +67,11 @@ Let them study the occasion with care. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७१२</summary>
+
+७१२. (K. Krishnaswamy & Vijaya Ramkumar)'s translation is a fitting explanation: "The style and content of a speech should be in tune with the mood and atmosphere of the assembly"
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१२</summary>
 
 712\. iṭai terintu, naṉku uṇarntu, colluka- colliṉ  
@@ -151,6 +156,11 @@ Before the dull, assume mortar white. *
 ( Shuddhananda Bharatiar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७१४</summary>
+
+७१४. "Where ignorance is bliss, it is folly to be wise" – Gray.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१४</summary>
 
 714\. oḷiyārmuṉ oḷḷiyar ātal! veḷiyārmuṉ  
@@ -233,6 +243,11 @@ Which argues not before elders.        715
 To slip before men of wide learning
 Is like slipping from the path of righteousness. *
 ( Shuddhananda Bharatiar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ७१६</summary>
+
+७१६. This is yet another couplet in Tirukkural where the interpretation of a single word could change the simile [like couplet २०]. Here the word "आट्रिन्" could mean either "path" or "river". The phrase could be read as "आट्रिल्" or "आट्रिन्" निलै तळर्न्दु अट्रे. Parimelazhagar interprets this as "spiritual path", Kalingar, Manakkudavar and Pariperumal as "righteous path" and Parithiyar alone as "river".
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७१६</summary>

@@ -402,6 +402,11 @@ If only the mind is set on what is aimed.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५४०</summary>
+
+५४०. Compare with couplets ६६६ and ३०९. "What is sought will be got as desired if only the seeker is determined" – (N.V.K. Ashraf) and "All wishes are realized at once if they keep away wrath from their mind" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४०</summary>
 
 540\. uḷḷiyatu eytal eḷitumaṉ-maṟṟum tāṉ  

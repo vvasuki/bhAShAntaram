@@ -193,6 +193,11 @@ Are courteous even to their foes. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९९५</summary>
+
+९९५. Compare with ८७१. One should never wish for the accursed thing called enmity, even in jest. (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९५</summary>
 
 995 nakaiyuḷḷum iṉṉātu ikaḻcci pakaiyuḷḷum  

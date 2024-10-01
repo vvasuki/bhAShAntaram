@@ -149,6 +149,11 @@ But dreadful when she leaves.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११२४</summary>
+
+११२४. Other ways of translating this couplet: “She brings life to my life when together, but death when she leaves” – (N.V.K. Ashraf). “Being with my love is life, separation from her death” * - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११२४</summary>
 
 1124 vāḻtal uyirkkaṉṉaḷ āyiḻai cātal  

@@ -25,6 +25,11 @@ To decide and dawdle is bad.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६७१</summary>
+
+६७१. Compare with ६६८. "Acts resolved without ambiguity should be unwaveringly carried out without delay" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७१</summary>
 
 671\. cūḻcci muṭivu tuṇivu eytal; at tuṇivu  
@@ -235,6 +240,11 @@ The inputs, impediments and gain.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६७६</summary>
+
+६७६. Compare with ४६१. Act after taking into account the cost, the benefit and the net. - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७६</summary>
 
 676\. muṭivum, iṭaiyūṟum, muṟṟiyāṅku eytum  
@@ -275,6 +285,11 @@ And then pursue a fitting act.        676
 Experts have the expertise.
 Get that expertise by knowing him inside out.
 (S.M. Diaz), (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६७७</summary>
+
+६७७. Different renderings, though not literal: [i] "The way to do a thing is to get inside an insider" - (P.S. Sundaram) [ii] "In considering how to accomplish a task, one must go by the experience of others" - (K. Krishnaswamy & Vijaya Ramkumar) 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७७</summary>

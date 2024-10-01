@@ -150,6 +150,11 @@ Longing to see him, wear my life away.
 (G.U. Pope)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२४४</summary>
+
+१२४४. Compare with ११७०. "If eyes could also reach him like the heart, they won’t be swimming in a flood of tears" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४४</summary>
 
 1244 kaṇṇum koḷaccēṟi neñcē ivaiyeṉṉait  

@@ -102,6 +102,11 @@ Even millet of fault is as big as a palm-tree. *
 (V. Ramasamy), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४३३</summary>
+
+४३३. It is simply because, as Valluvar says in couplet ९६५, “Even a hill-like eminence can be brought low by deeds as small as a speck.” Also compare with couplets १०४ & १२८२ for the use of same similes “Millet” and “Palm tree”. “To the discerning even millet of aid is as big as a palm tree.” and “Where love is as large as a palm tree, even millet of sulk is misplaced”.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४३३</summary>
 
 433\. Even the slightest fault looms large in the eyes of those who dread dishonour.  

@@ -151,6 +151,11 @@ Like a sword in eunuch's hand.*
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६१४</summary>
+
+६१४. Valluvar has used this simile of “sword in eunuch’s hand” at least thrice in the Kural. In ७२६ he asks “What use is a sword to cowards and books to those who fear assembly?” * ((P.S. Sundaram), (N.V.K. Ashraf)). And in ७२७, he says “As a sword to a eunuch before his foes, is the learning to one who fears assembly.” * ((G.U. Pope), (V.V.S. Aiyar))
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१४</summary>
 
 614\. tāḷāṇmai illātāṉ vēḷāṇmai, pēṭi kai  
@@ -277,6 +282,11 @@ While goddess 'fortune' lingers in active men. *
 (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६१७</summary>
+
+६१७. (J. Narayanaswamy) provides an interesting translation, though not close to the original: "Where sloth resides total darkness prevails; where industry thrives, brightness radiates like lotus". The meaning of the couplet is best summed by (K. Krishnaswamy & Vijaya Ramkumar): "Misfortune will befall the indolent, while the goddess of wealth will attend the hardworking".
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१७</summary>
 
 617\. 'maṭi uḷāḷ, mā mukaṭi' eṉpa; maṭi ilāṉ  
@@ -361,6 +371,11 @@ Effort is bound to pay the wages of labour. *
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६१९</summary>
+
+६१९. The word "तॆय्वम्" has also been translated sometimes as "fate" as in the case of "वगुत्तान्" in couplet ३७७. Relevant here is the translation of a similar passage from Naladiyar – a Jaina classic beyond doubt. "Though fortune forsake him and fate frown on him॥॥॥" Translator S. Anavaratavinayakam Pillai here has chosen to render the word "तॆय्वम्" as "fate".
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१९</summary>
 
 619\. teyvattāṉ ākātueṉiṉum, muyaṟci taṉ  
@@ -401,6 +416,11 @@ Hard labour has ready payment.        619
 Those who never get tired of striving undauntedly
 Shall leave even Fate behind.
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६२०</summary>
+
+६२०. Compare with ३८० "What is there mightier than fate? For it overtakes us in spite of our plans to overcome it" * - (Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६२०</summary>

@@ -151,6 +151,11 @@ And that of goodness not speaking others’ faults.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९८४</summary>
+
+९८४. Compare with २६१: “The characteristic of penance lies in enduring hardships and harming no life” - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८४</summary>
 
 984 kollā nalattatu nōṉmai piṟartīmai  
@@ -277,6 +282,11 @@ Even to those who cause evil? *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९८७</summary>
+
+९८७. Compare with ३१४. Punish an evil-doer by shaming him with a good deed.* - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८७</summary>
 
 987 iṉṉācey tārkkum iṉiyavē ceyyākkāl  
@@ -359,6 +369,11 @@ To one strong in good quality.        988
 The depth of goodness is said to be the never changing attitude
 In spite of ever changing fortunes.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९८९</summary>
+
+९८९: A difficult couplet to translate. Most translations follow Parimelazhagar’s view of taking ‘आऴि’ as sea shore and ‘ऊऴि पॆयरिनुम्’ as ‘even if a whelming sea breaks its bounds”. (P.S. Sundaram), therefore, translates this verse as “Seas may whelm, but men of character will stand like the shore”. However, the word ‘ऊऴि’ in general refers to ‘fate’ or ‘fortune’ and the word ‘आऴि’ to either ‘sea’ or ‘depth’. I have used these direct meanings to translate this couplet. Kalingar takes this interpretation. From Parimelazhagar’s standpoint, Sundaram’s translation may be improved like this: “Fortunes like seas may whelm, but men of character will remain unperturbed like the shore”.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९८९</summary>

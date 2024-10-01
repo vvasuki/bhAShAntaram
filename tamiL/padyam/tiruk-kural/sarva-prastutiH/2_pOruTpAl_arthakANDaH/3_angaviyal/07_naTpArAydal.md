@@ -67,6 +67,11 @@ Can cause lifetime trouble. *
 (K.R. Srinivasa Iyengar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७९२</summary>
+
+७९२. Short and crisp translation of this couplet [but not close to original]: "Make friends in haste and repent at leisure" – (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९२</summary>
 
 792\. āyntu āyntu koḷḷātāṉ kēṇmai, kaṭaimuṟai,  
@@ -191,6 +196,11 @@ The nobly born who shun disgrace.        794
 Seek a friend who will make you cry,
 Rail and rate when you go astray.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ७९५</summary>
+
+७९५. Compare with ७८४: "Friendship is not for merriment but for stern reproach when friends go astray" - (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९५</summary>
@@ -401,6 +411,11 @@ Burn our mind ev'n at death to think.        799
 Seek the friendship of the pure, and shake off
 The worthless even at a price.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ८००</summary>
+
+८००. Compare with ७९४ for similar ideas. Seek the worthy and shake off the worthless, even at a price.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८००</summary>

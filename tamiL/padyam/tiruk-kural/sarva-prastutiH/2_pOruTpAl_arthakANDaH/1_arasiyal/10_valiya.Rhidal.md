@@ -360,6 +360,11 @@ May seem to prosper but will perish.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४७९</summary>
+
+४७९. A short and crisp way of putting it: "A spendthrift's life is a phantom that will fade" – (P.S. Sundaram).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४७९</summary>
 
 479\. aḷavu aṟintu vāḻātāṉ vāḻkkai uḷapōla  
@@ -400,6 +405,11 @@ His life seems rich but thins and ends.        479
 He who is generous beyond his means
 Will quickly lose the measure of his wealth.
 (P.S. Sundaram), (W.H. Drew and J. Lazarus)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ४८०</summary>
+
+४८०. Idea expressed here is very similar to the one in ४७७. 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८०</summary>

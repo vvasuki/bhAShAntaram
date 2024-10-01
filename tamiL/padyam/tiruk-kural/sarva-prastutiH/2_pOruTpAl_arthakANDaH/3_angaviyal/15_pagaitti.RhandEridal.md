@@ -25,6 +25,11 @@ Called enmity, even in jest.
 (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८७१</summary>
+
+८७१. Compare with ९९५. "Mockery hurts even in jest, and hence the considerate are courteous even to their foes" * - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७१</summary>
 
 871 pakaiyeṉṉum paṇpi lataṉai oruvaṉ  

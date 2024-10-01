@@ -66,6 +66,11 @@ One's wisdom by the nature of company.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४५२</summary>
+
+४५२. Compare with ९५९. Nature of sprout indicates the quality of soil; so does the quality of speech one’s descent. ((N.V.K. Ashraf))
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४५२</summary>
 
 452\. nilattu iyalpāṉ nīr tirintu, aṟṟu ākum;- māntarkku  

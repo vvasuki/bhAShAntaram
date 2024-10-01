@@ -24,6 +24,11 @@ Its mere thought intoxicates.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२०१</summary>
+
+१२०१. Compare with: १०९०: "Wine won't delight unless imbibed, but love with a look delights!" - (P.S. Sundaram) and with १२८१ "To please with the thought and delight with the sight, belongs not to liquor but love" –(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०१</summary>
 
 1201 uḷḷiṉum tīrāp perumakiḻ ceytalāl  
@@ -276,6 +281,11 @@ When his memory itself burns my heart? *
 ( Shuddhananda Bharatiar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२०७</summary>
+
+१२०७. Compare with ११६५. "If his friendship can bring so much misery, how will it be in enmity?" * - (G. Vanmikanathan), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०७</summary>
 
 1207 maṟappiṉ evaṉāvaṉ maṉkol maṟappaṟiyēṉ  
@@ -316,6 +326,11 @@ When his memory burns my heart?        1207
 He never resents, however much I think of him.
 Isn’t it an honor from my lover? *
 (M.S. Poornalingam Pillai)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२०८</summary>
+
+१२०८. An explanatory translation: "The greatness of my love is that he never finds fault with me for remembering him often" - (K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२०८</summary>

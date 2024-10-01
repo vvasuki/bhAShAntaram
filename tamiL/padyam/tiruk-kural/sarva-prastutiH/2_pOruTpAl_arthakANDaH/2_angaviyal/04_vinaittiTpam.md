@@ -235,6 +235,11 @@ If only the seeker is determined.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६६६</summary>
+
+६६६. Compare with couplets ५४० and ३०९. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "All wishes are realized at once if they keep away wrath from their mind" – (N.V.K. Ashraf).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६६</summary>
 
 666\. eṇṇiya eṇṇiyāṅku eytupa-eṇṇiyār  
@@ -275,6 +280,11 @@ When mind that wills is strong indeed.        666
 Despise not by looks! Even linchpins hold in place
 The wheels of mighty chariots! *
 (P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६६७</summary>
+
+६६७. Compare with २७९. “The lute is bent, the arrow straight: judge men not by their looks but acts” – (P.S. Sundaram) ६६८. Compare with ६७१. "The end of deliberation is decision. To decide and dawdle is bad" – (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६६७</summary>

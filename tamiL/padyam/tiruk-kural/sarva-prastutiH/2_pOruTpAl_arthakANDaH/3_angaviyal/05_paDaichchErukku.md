@@ -151,6 +151,11 @@ A hero grabs happily the one that pierced him. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७७४</summary>
+
+७७४. i.e. having wounded an approaching elephant with his spike, the soldier looks around for another. Soon spots the one stuck to his body and happily pull it out.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७७४</summary>
 
 774\. kai vēl kaḷiṟṟoṭu pōkki varupavaṉ  
@@ -575,6 +580,11 @@ But for stern reproach when friends go astray.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७८४</summary>
+
+७८४. Compare with ४४७ and ७९५. "Who can ruin the man who commands the friendship of those who can reprove him?" –(V.V.S. Aiyar). "Seek a friend who will make you cry, rail and rate when you go astray" – (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८४</summary>
 
 784\. nakutaṟporuṭṭu aṉṟu, naṭṭal; mikutikkaṇ  
@@ -657,6 +667,11 @@ Friendship's feeling heart's fellowship.        785
 A smiling face alone makes no friendship,
 But the heart should also smile with the face. *
 (V. Ramasamy)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ७८६</summary>
+
+७८६. Compare with ८२४. "Beware of those deceits who, with a smiling face, conceal bitterness in their hearts." - (N.V.K. Ashraf). Also with ७८६. Also with ९३: “This alone is charity: A welcome with a smiling face and sweet words from the heart” (P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७८६</summary>
@@ -825,6 +840,11 @@ That always helps with utmost warmth.        789
 To boast, "He means so much to me and I to him,"
 Merely demeans a friendship.
 (Satguru Subramuniyaswami)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ७९०</summary>
+
+७९०. In other words: "Where competing claims are boastfully made, that friendship is demeaning" * - (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९०</summary>

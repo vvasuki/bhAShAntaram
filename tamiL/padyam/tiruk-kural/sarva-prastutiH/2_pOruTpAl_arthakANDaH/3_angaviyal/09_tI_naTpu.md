@@ -67,6 +67,11 @@ Which sticks and ends at will?
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८१२</summary>
+
+८१२: A short and crisp translation, but not close to original: "What matters if one gain or lose a motivated friendship?" – (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१२</summary>
 
 812 uṟiṉnaṭṭu aṟiṉorūum oppilār kēṇmai  

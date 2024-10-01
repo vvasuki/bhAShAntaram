@@ -258,6 +258,11 @@ The friendship of those who can reprove him?
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४४७</summary>
+
+४४७. Compare with ७९५ and ७८४. "Seek a friend who will make you cry, rail and rate when you go astray" – (P.S. Sundaram). "Friendship is not for merriment but for stern reproach when friends go astray" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४७</summary>
 
 447\. None can harm the ruler who seeks the wholesome counsel of his ministers though bitter.  

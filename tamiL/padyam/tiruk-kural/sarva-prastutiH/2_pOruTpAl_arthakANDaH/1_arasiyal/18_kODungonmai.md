@@ -192,6 +192,11 @@ That wear out the prosperity of the king.
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५५५</summary>
+
+५५५. The couplet is sometimes shown ending with a question mark. The phrase is "कण्णीरण्ड्रे" and not "कण्णीरण्ड्रो". A good abridgment of the verse is given by (K. Krishnaswamy & Vijaya Ramkumar): "The tears resulting from suffering caused by the king will be the cause of his undoing"
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५५५</summary>
 
 555\. allaṟpaṭṭu, āṟṟātu, aḻuta kaṇṇīr aṉṟē-  
@@ -274,6 +279,11 @@ Without it wanes the royal light.        556
 How fares the earth without rain?
 So fares life under a ruthless king.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ५५७</summary>
+
+५५७. Relationship between King and Rain has been emphasized by Valluvar in at least three places in Kural. In the very next verse ५५९ Valluvar says “If a king acts contrary to justice, monsoons fail and clouds shed no rain”. Only in the previous chapter on "Just Government" had he stated that "The king who rules according to the law never lacks rain and corn".
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५५७</summary>
@@ -400,6 +410,11 @@ If the king misuses his power.        559
 Cows yield less and priests forget their hymns
 If the protector fails to protect. *
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ५६०</summary>
+
+५६०. "अऱुदॊऴिलोर्" here has been taken to mean priests. "Brahmins are they who perform the six duties" says Tirumandiram [२२४]. While commenting on this mantra, translator B. Natarajan mentions that the six duties of a Brahmin are: To learn, to instruct, to give alms, to receive gifts, to perform sacrifice and to persuade other to perform sacrifices. 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५६०</summary>

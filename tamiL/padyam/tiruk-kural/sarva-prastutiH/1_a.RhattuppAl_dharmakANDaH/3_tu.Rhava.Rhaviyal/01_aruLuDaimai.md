@@ -362,6 +362,11 @@ Resemble the muddled head seeing Truth.
 (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २४९</summary>
+
+२४९. A good explanatory translation is given by (Satguru Subramuniyaswami). "Practicing charity without compassion is as inconceivable as realizing Truth without clarity of mind".
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४९</summary>
 
 249\. teruḷātāṉ meypporuḷ kaṇṭaṟṟāl-tēriṉ,  
@@ -402,6 +407,11 @@ Wisdom is vain in hearts unkind.        249
 When you threaten one weaker than yourself,
 Think of yourself before a bully.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २५०</summary>
+
+२५०. Compare with ८९४ where Valluvar says “For the weak to challenge the mighty is to summon yama with the hand. ((P.S. Sundaram), (Satguru Subramuniyaswami))
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५०</summary>

@@ -24,6 +24,11 @@ To the other three orders in their virtuous paths.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४१</summary>
+
+४१. The three orders possibly refer to these stages: Student, Elders and Renunciates
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४१</summary>
 
 41\. Kallāmai
@@ -400,6 +405,11 @@ Make men brighter than monks praying.         48
 Domestic life is proclaimed virtuous
 And it is praiseworthy if free from blame. *
 (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ४९</summary>
+
+४९. There are two different renderings of this couplet. The word "अह्दुम्" is taken to mean "especially or that too" and also as "the other one also". The other one is obviously a reference to monastic or ascetic life. (Satguru Subramuniyaswami), ( Shuddhananda Bharatiar), (G.U. Pope) and (W.H. Drew and J. Lazarus) have followed the latter interpretation. (P.S. Sundaram), (K. Kannan), (K. Krishnaswamy & Vijaya Ramkumar), (J. Narayanaswamy), (V.V.S. Aiyar), (K. Krishnaswamy & Vijaya Ramkumar) and (K.R. Srinivasa Iyengar) have translated the couplet the other way. (Satguru Subramuniyaswami) has translated as: "Domestic life is called virtue, but the other one is also good if lived beyond blame". *  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९</summary>

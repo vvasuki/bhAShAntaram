@@ -319,6 +319,11 @@ That ripens in the heart of a village.*
 (P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १००८</summary>
+
+१००८. Compare with २१६. “When wealth comes to the large-hearted, it is like the village tree coming to fruit” * - (C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १००८</summary>
 
 1008 naccap paṭātavaṉ celvam naṭuvūruḷ  
@@ -401,6 +406,11 @@ In loveless, stingy, vicious hold.        1009
 The brief want of the benign rich
 Is like the monsoon clouds just shed its moisture.
 ( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १०१०</summary>
+
+१०१०. Compare with २१९. “The poverty of a generous man is nothing but his inability to exercise his generosity” * - (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०१०</summary>

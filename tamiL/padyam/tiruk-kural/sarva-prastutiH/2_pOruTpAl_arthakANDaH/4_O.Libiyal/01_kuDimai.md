@@ -277,6 +277,11 @@ Appear prominently as spots on the moon.
 (J. Narayanaswamy)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९५७</summary>
+
+९५७. Compare with १११७. “Are there spots on my love’s face like the spots on the shining moon?” – (N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९५७</summary>
 
 957 kuṭippiṟantār kaṇviḷaṅkum kuṟṟam vicumpiṉ  
@@ -359,6 +364,11 @@ People deem their pedigree crude.        958
 Nature of sprout indicates the quality of soil;
 So does the quality of speech one’s descent.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९५९</summary>
+
+९५९. Compare with ४५२. Nature of soil governs the quality of water; one’s wisdom by the nature of company. ((N.V.K. Ashraf))
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५९</summary>

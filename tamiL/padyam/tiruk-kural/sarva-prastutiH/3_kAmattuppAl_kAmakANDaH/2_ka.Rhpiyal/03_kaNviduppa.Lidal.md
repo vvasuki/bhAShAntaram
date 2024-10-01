@@ -24,6 +24,11 @@ And caused this fever, now cry in anguish?
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११७१</summary>
+
+११७१. An interesting alternate translation, but not close to the original: “My eyes only showed him and filled me with passion. Why now filled with tears?” * - (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७१</summary>
 
 1171 kaṇtām kaluḻvatu evaṉkolō taṇṭānōy  
@@ -318,6 +323,11 @@ Yet my eyes pine, seeing him not. *
 ( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११७८</summary>
+
+११७८. Compare with १२८३. Five of the seven seers (metrical feet) between these two couplets are same! “Let him neglect me and do what he will. My eyes will not rest till they see him”
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७८</summary>
 
 1178 pēṇātu peṭṭār uḷarmaṉṉō maṟṟavark  
@@ -358,6 +368,11 @@ Yet my eyes pine seeing him not.        1178
 Sleepless when he is not here, sleepless when he is,
 Either way my eyes never rest.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ११७९</summary>
+
+११७९. Compare with १२९५ for style and word play. “Anxious of not getting and of losing when got, either way my heart is always anxious” - (N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७९</summary>

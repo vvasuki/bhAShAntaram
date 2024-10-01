@@ -235,6 +235,11 @@ Who delights in excess hostility. *
 (Kasthuri Sreenivasan), (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८५६</summary>
+
+८५६. An alternate translation, though not close to original: "He who revels in discord will soon be overtaken by suffering" – (K. Krishnaswamy & Vijaya Ramkumar).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८५६</summary>
 
 856 ikaliṉ mikaliṉitu eṉpavaṉ vāḻkkai  

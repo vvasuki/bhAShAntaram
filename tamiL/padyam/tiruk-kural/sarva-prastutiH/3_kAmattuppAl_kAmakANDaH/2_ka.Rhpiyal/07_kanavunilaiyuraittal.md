@@ -234,6 +234,11 @@ My dream-lover won't leave me indeed.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२१६</summary>
+
+१२१६. In other words: "But for this state of wakefulness, I would have my beloved always in my dreams" * - (K. Krishnaswamy & Vijaya Ramkumar), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२१६</summary>
 
 1216 naṉaveṉa oṉṟuillai āyiṉ kaṉaviṉāl  
@@ -358,6 +363,11 @@ Awake he enters quick my heart.        1218
 Only those starved of love dreams,
 Rue missing their beloved in wakefulness. *
 (J. Narayanaswamy)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२१९</summary>
+
+१२१९. A good alternate translation is given by (K.R. Srinivasa Iyengar): "They blame him for not visiting me; they know not what dreams can do"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२१९</summary>

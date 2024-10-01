@@ -235,6 +235,11 @@ Who never crowed "We have much?"
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६२६</summary>
+
+६२६. Compare with couplets ६२८ and ६२९ in this same chapter. All convey the same idea.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२६</summary>
 
 626\. 'aṟṟēm!' eṉṟu allaṟpaṭupavō-'peṟṟēm!' eṉṟu  

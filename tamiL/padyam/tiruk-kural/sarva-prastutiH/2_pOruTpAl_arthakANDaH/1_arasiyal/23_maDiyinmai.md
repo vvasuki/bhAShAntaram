@@ -319,6 +319,11 @@ The family will soon be enslaved to its foes. *
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६०८</summary>
+
+६०८. Ahort crisp translations, but not close to original: "Sloth enslaves a house to its enemies" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६०८</summary>
 
 608\. maṭimai kuṭimaikkaṇ taṅkiṉ, taṉ oṉṉārkku  
@@ -401,6 +406,11 @@ When one from sloth gets his release.        609
 A king freed of sloth can get at once
 All that the Lord had measured by his feet. *
 (P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६१०</summary>
+
+६१०. The word "अडि अळन्दान्" [who measured by his feet] refers to the belief that Lord Vishnu's measured the whole universe in three strides.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६१०</summary>

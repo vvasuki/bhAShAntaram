@@ -66,6 +66,11 @@ For it costs my beauty and armlets! *
 (K.R. Srinivasa Iyengar), (S.M. Diaz)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२६२</summary>
+
+१२६२. Can be translated differently based on how the word "ऎन्" is being interpreted, whether as "what" or "mine". The phrase "मऱप्पिन् ऎन्" could therefore mean either "What if I forget" or "If I forget, my" and thus giving different meanings. (K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar), (V.V.S. Aiyar), (S.M. Diaz) and (K. Krishnaswamy & Vijaya Ramkumar) have preferred the first one, while (P.S. Sundaram), (K. Kannan), (J. Narayanaswamy), (M.S. Poornalingam Pillai), (G.U. Pope) and (W.H. Drew and J. Lazarus) have opted for the second interpretation. The first one has been preferred here. If the second rendering is chosen, then the couplet would be taken to mean: "My bright jewel, if I forget him now, bracelets will slide off my shoulders, losing its beauty" *- (M.S. Poornalingam Pillai), (J. Narayanaswamy). On the contrary, bracelets should actually slip and shoulders lose their beauty only when the lady keeps remembering her lover, not when she forgets!
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६२</summary>
 
 1262 ilaṅkiḻāy iṉṟu maṟappiṉeṉ tōḷmēl  
@@ -108,6 +113,11 @@ And if I live yet, it is longing for his return. *
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२६३</summary>
+
+१२६३. An alternate good translation but not close to original: "With his mind set on conquests he left, while I live here with my eyes set on his return" - (K. Krishnaswamy & Vijaya Ramkumar). Compare this with १२३०: "Longing for him who left longing for wealth, the evenings have their toll on my undying soul" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६३</summary>
 
 1263 uraṉnacaii uḷḷam tuṇaiyākac ceṉṟār  
@@ -148,6 +158,11 @@ Yet I live-to see him again.        1263
 The thought of reunion when my love returns
 Makes my heart burgeon higher and higher.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२६४</summary>
+
+१२६४. The phrase "कूडिय कामम् पिरिन्दार्" has been taken to mean differently. As [i] "One who embraced and parted" by (M.S. Poornalingam Pillai), (S.M. Diaz), (V.V.S. Aiyar) and [ii] "reunion when my love returns" by ( Shuddhananda Bharatiar), (P.S. Sundaram). Both views seem to be correct, but (K. Krishnaswamy & Vijaya Ramkumar) and (W.H. Drew and J. Lazarus) take somewhat a middle path "the lover returning with enhanced love" by taking the word "कूडिय" as enhanced. But the context of the buoyant heart going higher and higher at the thought of the lover’s return imply that she is thinking about the reunion of love.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२६४</summary>

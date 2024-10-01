@@ -24,6 +24,11 @@ How can I complain of my pallor to others? *
 ( Shuddhananda Bharatiar), (K.R. Srinivasa Iyengar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ११८१</summary>
+
+११८१. An alternate translation, but not close to the original is given by (P.S. Sundaram). “I agreed to part and so have lost the right to complain of my pallor”.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८१</summary>
 
 1181 nayantavarkku nalkāmai nērntēṉ pacantaveṉ  

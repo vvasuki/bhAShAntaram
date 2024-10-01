@@ -69,6 +69,11 @@ Will not sacrifice honour for fame.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९६२</summary>
+
+९६२. Compare with १०१७. “Men of honour give up life for honour’s sake, but never abandon honour to save life” * - (C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६२</summary>
 
 962 cīriṉum cīralla ceyyārē cīroṭu  
@@ -193,6 +198,11 @@ Who fall down from their high status.        964
 Even a hill-like eminence can be brought low
 By deeds as small as a speck. *
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९६५</summary>
+
+९६५. ९६५. That’s why in Kural ४३३, the author says: “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” * - (V. Ramasamy), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६५</summary>
@@ -321,6 +331,11 @@ Even at the cost of honour?
 (M.S. Poornalingam Pillai), (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९६८</summary>
+
+९६८. A difficult verse to translate. The word “ऊन्” has been taken by different translators as “life”, “skin”, “body” and the word “मरुन्दो” to mean “nectar” or “medicine”. (V.V.S. Aiyar) provides an interesting but daring translation: “Is the skin forsooth immortality that men desire to save it at the cost of honour?” Another interesting translation, but not close to original: “Does life saved at the cost of honour, put off death for ever?” - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६८</summary>
 
 968 maruntōmaṟṟu ūṉōmpum vāḻkkai peruntakaimai  
@@ -361,6 +376,11 @@ Even when one's honour is lost?        968
 The yak, sheared of its hair, does not survive.
 The noble, stripped of their honour, prefer death.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९६९</summary>
+
+९६९. The exact meaning of the word “कवरिमा” has not been established for this context. Since Valluvar is referring to the advantage of a wooly coat for surviving cold climates in high altitudes and polar regions, the word has been translated as “yak” here, as many translators do. 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६९</summary>

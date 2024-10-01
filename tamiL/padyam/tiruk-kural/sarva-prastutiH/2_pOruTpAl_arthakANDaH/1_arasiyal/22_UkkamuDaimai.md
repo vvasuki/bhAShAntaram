@@ -25,6 +25,11 @@ Without it what does one own?
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५९१</summary>
+
+५९१. Compare with ५३ and ५९१ for similar style: "With a good wife, what is lacking? And when she is lacking, what is good?" – (P.S. Sundaram) and "What is one's own is one's vigour. Without it what does one own?" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५९१</summary>
 
 591\. uṭaiyar eṉappaṭuvatu ūkkam; aḵtu illār  
@@ -225,6 +230,11 @@ Mental strength is men's merit.        595
 Let all thy aims be high.
 Failure then is as good as success. *
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ५९६</summary>
+
+५९६. Compare with ५४० for similar idea. "What is aimed is easy to achieve, if only the mind is set on what is aimed" – (N.V.K. Ashraf) and "What is sought will be got as desired if only the seeker is determined" - (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५९६</summary>

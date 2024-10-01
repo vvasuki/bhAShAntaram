@@ -403,6 +403,11 @@ Why does he not note his own damage?
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९३०</summary>
+
+९३०. Compare with ९९ and ३१८ for the typical style of Valluvar: “How can anyone speak harsh words, having seen what kind words do?” - (N.V.K. Ashraf) and “Why does one hurt others knowing what it is to be hurt?” - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३०</summary>
 
 930 kaḷḷuṇṇāp pōḻtil kaḷittāṉaik kāṇuṅkāl  

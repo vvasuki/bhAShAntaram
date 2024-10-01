@@ -276,6 +276,11 @@ Leave it to him.
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५१७</summary>
+
+५१७. In other words, "Delegation is best made to the one who's decidedly well equipped to perform well" - SDR
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१७</summary>
 
 517\. 'itaṉai, itaṉāl, ivaṉ muṭikkum' eṉṟu āyntu,  

@@ -150,6 +150,11 @@ Having failed to sulk before yielding? *
 (M.S. Poornalingam Pillai), (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १२९४</summary>
+
+१२९४. Compare with १२८४. "My friend, I went all set to quarrel, but my heart forgot and clasped him" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९४</summary>
 
 1294 iṉiaṉṉa niṉṉoṭu cūḻvāryār neñcē  
@@ -190,6 +195,11 @@ Who will then consult you, my heart?        1294
 Anxious of not getting, and of losing when got,
 Either way my heart is always anxious.
 (N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १२९५</summary>
+
+१२९५. Compare with ११७९. "Sleepless when he is not here, sleepless when he is, either way my eyes never rest" - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२९५</summary>

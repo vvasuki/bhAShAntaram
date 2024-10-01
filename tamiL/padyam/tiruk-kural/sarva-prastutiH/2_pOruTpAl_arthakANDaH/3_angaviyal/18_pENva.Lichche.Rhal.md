@@ -319,6 +319,11 @@ The needs of friends nor do any good.
 (V.V.S. Aiyar), (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९०८</summary>
+
+९०८. A short and crisp translations of this couplet [but not close to original]: “A doting husband will have no time for friends or virtuous deeds” - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९०८</summary>
 
 908 naṭṭār kuṟaimuṭiyār naṉṟāṟṟār naṉṉutalāḷ  

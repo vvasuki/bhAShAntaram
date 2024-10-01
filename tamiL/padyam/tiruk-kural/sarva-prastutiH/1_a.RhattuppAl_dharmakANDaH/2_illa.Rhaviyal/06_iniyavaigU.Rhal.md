@@ -108,6 +108,11 @@ And sweet words from the heart.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ९३</summary>
+
+९३. Compare with ७८६. “A smiling face alone makes no friendship, but the heart should also smile with the face” * - (V. Ramasamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३</summary>
 
 93\. mukattāṉ amarntu, iṉitu nōkki, akattāṉ ām  
@@ -358,6 +363,11 @@ This life on earth and life the next.         98
 How can anyone speak harsh words,
 Having seen what kind words do?
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ९९</summary>
+
+९९. Compare with ३१८ for style. "Why does one hurt others knowing what it is to be hurt?" - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९९</summary>

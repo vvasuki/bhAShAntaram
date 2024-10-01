@@ -318,6 +318,11 @@ Till the time comes to topple him. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४८८</summary>
+
+४८८. ( Shuddhananda Bharatiar) has a daring interpretation. He takes the word "तलै" to mean "head" instead of the usual meaning "chief". His translation reads thus: "Bear with hostilities when you meet them. Fell down their head in fateful time" – ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८८</summary>
 
 488\. ceṟunaraik kāṇiṉ cumakka; iṟuvarai  
@@ -358,6 +363,11 @@ Fell down their head in fateful time.        488
 Hesitate not to seize opportunities rare,
 And achieve tasks otherwise hard. *
 (Satguru Subramuniyaswami)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ४८९</summary>
+
+४८९. Compare with ९७५. If the great achieve anything, it will be deeds rare in achievement. * (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८९</summary>

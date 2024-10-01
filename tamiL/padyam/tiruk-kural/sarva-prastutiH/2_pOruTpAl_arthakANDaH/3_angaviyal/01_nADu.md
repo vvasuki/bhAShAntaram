@@ -279,6 +279,11 @@ Springs and well placed hills, and strong fortress. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७३७</summary>
+
+७३७. Compare with ७४२. "Blue water, open space, hills and thick forests constitute a fortress. - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७३७</summary>
 
 737\. iru puṉalum, vāynta malaiyum, varu puṉalum,  

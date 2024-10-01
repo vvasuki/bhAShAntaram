@@ -67,6 +67,11 @@ Beyond one's reach. *
 (J. Narayanaswamy), (C. Rajagopalachari)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ८३२</summary>
+
+८३२. The interpretation of this couplet could vary depending on how the words in the second line are combined and read. One way is to split as: "कै अल्लदन्गण् सॆयल्". The other way is: "कैअल्ल तन्गण् सॆयल्." The translation given above is based on the second method of word combination. If we are to follow the first, an equally valid translation is "The folly of all follies is to enjoy doing what one is forbidden to do" – (Satguru Subramuniyaswami).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८३२</summary>
 
 832 pētaimaiyuḷ ellām pētaimai kātaṉmai  
@@ -401,6 +406,11 @@ For without a groan we part.        839
 A fool's entry into a learned assembly
 Is like entering a shrine with unclean legs.
 (N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ८४०</summary>
+
+८४०. The word "पळ्ळि" here is usually taken by almost all translators as "bed". If we are to translate "कऴाक् काल् पळ्ळियुळ् वैत्तट्राल्" as "placing a dirty foot on a clean bed" – as it is usually done – then the phrase employed by Valluvar should have been "पळ्ळिमेल्" and not "पळ्ळियुळ्" as is the case here. The monasteries of the Jains and Buddhist monks were called "पळ्ळि" in the ancient Tamil country [Varadarajan, १९८८]. Following the near total disappearance of Buddhism and Jainism from Southern India, this word has now been used to denote the places of worship of Muslims and Christians. Hindu temples were always called by the names कोयिल्, आलयम्, अम्बलम् and never by the word पळ्ळि. 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८४०</summary>

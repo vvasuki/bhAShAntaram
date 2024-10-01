@@ -150,6 +150,11 @@ Is as big as a palm tree. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०४</summary>
+
+१०४. Compare with couplets ४३३ & १२८२ for the use of same similes “Millet” and “Palm tree”. “To those ashamed of wrong doings, even millet of fault is as big as a palm-tree” and “Where love is as large as a palm tree, even millet of sulk is misplaced”.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४</summary>
 
 104\. tiṉait tuṇai naṉṟi ceyiṉum, paṉait tuṇaiyāk  
@@ -190,6 +195,11 @@ Knowers count its good palm- tree tall.         104
 Not according to the aid but its receiver
 Is its recompense determined.
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १०५</summary>
+
+१०५. Compare with ८७. "The gains of hospitality cannot be reckoned. Their worth depends on the guest" - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५</summary>
@@ -400,6 +410,11 @@ While remembering one good-turn.         109
 One may slain every goodness and yet escape,
 But no escape for one who slain gratitude.
 (Satguru Subramuniyaswami)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ११०</summary>
+
+११०. Crisp alternate translation, but not close to original: "All other sins may be redeemed, except ingratitude" - (P.S. Sundaram) 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०</summary>

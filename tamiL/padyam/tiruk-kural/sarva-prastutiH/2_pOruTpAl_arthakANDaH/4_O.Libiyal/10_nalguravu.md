@@ -361,6 +361,11 @@ But by no means in the midst of poverty. *
 (W.H. Drew and J. Lazarus)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १०४९</summary>
+
+१०४९. Compare with ८९६ for the use of same simile: “One may survive even if burnt in the fire, but no survival for those who offend the great” * - (Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४९</summary>
 
 1049 neruppiṉuḷ tuñcalum ākum nirappiṉuḷ  
@@ -401,6 +406,11 @@ In want a wink of sleep is rare.        1049
 The poverty stricken has a chance to renounce,
 Lest he hang around for salt and gruel. *
 (K. Kannan)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १०५०</summary>
+
+१०५०. Explanation: The poor might as well renounce and follow the path of asceticism, instead of depending on others for survival. Valluvar says in couplet ३७८ that “fate” is the reason why the poverty stricken have failed to renounce.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५०</summary>

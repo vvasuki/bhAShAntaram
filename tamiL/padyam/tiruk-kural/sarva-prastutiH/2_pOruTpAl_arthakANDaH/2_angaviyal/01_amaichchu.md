@@ -69,6 +69,11 @@ Learning and perseverance, besides the five tactics. *
 (V. Ramasamy)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६३२</summary>
+
+६३२. (V. Ramasamy) considers that the phrase "ऐन्दुडन्" in this Kural has made this couplet a difficult one to translate. It is not clear if these five tactics are amongst those mentioned in other couplets in this chapter.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३२</summary>
 
 632\. vaṉkaṇ, kuṭikāttal, kaṟṟu aṟital, āḷviṉaiyōṭu  
@@ -237,6 +242,11 @@ Who add learning to their intelligence? *
 (V.V.S. Aiyar)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६३६</summary>
+
+६३६. A short and crisp translations of these couplets [but not close to original]: "What can oppose a keen intelligence combined with learning?" - (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३६</summary>
 
 636\. matinuṭpam nūlōṭu uṭaiyārkku ati nuṭpam  
@@ -277,6 +287,11 @@ The keen in brain with learned love?        636
 Even if well-versed in theory,
 Act as per the ways of the world. *
 (C. Rajagopalachari)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६३७</summary>
+
+६३७. Another abstract translation: "However well-versed in books, be practical" - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३७</summary>

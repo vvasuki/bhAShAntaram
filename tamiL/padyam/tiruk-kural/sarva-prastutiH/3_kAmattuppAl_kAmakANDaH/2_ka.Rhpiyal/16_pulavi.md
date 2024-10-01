@@ -24,6 +24,11 @@ And see his pain of suffering for a while.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - १३०१</summary>
+
+१३०१. Compare with १३२१. "Though he is not to blame, I feign sulking to bring out the best from of him" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३०१</summary>
 
 1301 pullātu irāap pulattai avaruṟum  
@@ -64,6 +69,11 @@ We can see his distress a bit.        1301
 Sulking is the salt of love. To prolong it
 Is like salt a little too much. *
 ( Shuddhananda Bharatiar), (W.H. Drew and J. Lazarus)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - १३०२</summary>
+
+१३०२. An alternate translation, easy to comprehend, but not close to original: "Love's salt is sulk. A pinch of it is welcome but too much will ruin the taste" - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३०२</summary>

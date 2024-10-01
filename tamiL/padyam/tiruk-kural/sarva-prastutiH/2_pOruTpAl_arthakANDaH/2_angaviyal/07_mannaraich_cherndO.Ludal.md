@@ -402,6 +402,11 @@ Lead to ruinous woes.
 (J. Narayanaswamy)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७००</summary>
+
+७००. In couplet ८०५ Valluvar says "When friends hurt, attribute it to either ignorance or privileges of friendship" * - (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७००</summary>
 
 700\. paḻaiyam eṉak karuti, paṇpu alla ceyyum  

@@ -193,6 +193,11 @@ There is no other word to beat it.
 (S. Maharajan)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ६४५</summary>
+
+६४५. A short and crisp translation but not close to original: "One must speak only after considering possible counter arguments" - (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४५</summary>
 
 645\. colluka collai-piṟitu ōr col ac collai  
@@ -317,6 +322,11 @@ Flawless, puissant, and free from fear.        647
 The world will rush and listen to those
 Who can to speak orderly and pleasingly.
 (P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ६४८</summary>
+
+६४८. An interesting alternate translation: "Swiftly will the world gather around men who can speak weighty themes in lighter vein" - (G.U. Pope), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६४८</summary>

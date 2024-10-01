@@ -67,6 +67,11 @@ To stand fearless despite decimation.
 (P.S. Sundaram), (K. Kannan)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ७६२</summary>
+
+७६२. (K.R. Srinivasa Iyengar) gives an abstract translation: "When things go wrong, only veterans can stem the rot and turn the tide"
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६२</summary>
 
 762\. ulaivu iṭattu ūṟu añcā vaṉkaṇ, tolaivu iṭattu,  

@@ -192,6 +192,11 @@ In whatever way things are presented.
 (K. Kannan)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ३५५</summary>
+
+३५५. Alternate translations, but not close to original: 'The mark of wisdom is to see the reality behind each appearance' - (P.S. Sundaram). Compare with ४२३. "The mark of wisdom is to discern the truth from whatever source it is heard" - (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३५५</summary>
 
 355\. ep poruḷ et taṉmaittuāyiṉum, ap poruḷ  
@@ -358,6 +363,11 @@ And remove the folly of birth.        358
 To one who does not cling, realizing what to cling,
 Clinging ills will not cling. *
 (P.S. Sundaram)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ३५९</summary>
+
+३५९. i.e. those who cling [to God] but does not cling [to the world]. Compare with ३५० for similar word play. “Cling to the one who clings to nothing; and so clinging, cease to cling” - (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३५९</summary>

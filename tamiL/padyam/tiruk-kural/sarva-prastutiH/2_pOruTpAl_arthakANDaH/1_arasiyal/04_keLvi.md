@@ -24,6 +24,11 @@ That wealth out-tops all else. *
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ४११</summary>
+
+४११. It is Valluvar's style to use the same idea to emphasize an important point. Here he emphasizes the wealth of hearing, at other places on the wealth of grace and learning. i.e. २४१. The wealth of wealth is the wealth of grace. Material wealth, even the mean possess. * - ( Shuddhananda Bharatiar), (P.S. Sundaram). ४००. The wealth that never declines is learning. All others are not riches - (P.S. Sundaram), (W.H. Drew and J. Lazarus).
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४११</summary>
 
 411\. celvattuḷ celvam ceviccelvam; ac celvam  

@@ -108,6 +108,11 @@ And those who feast on flesh.
 (N.V.K. Ashraf)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - २५३</summary>
+
+२५३. This basically implies that both soldiers armed to kill enemies and hunters armed to kill animals are the same.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५३</summary>
 
 253\. paṭai koṇṭār neñcam pōl naṉṟu ūkkātu-oṉṟaṉ  
@@ -232,6 +237,11 @@ The eater hell's mouth shall not waive!        255
 The world may say: "Meat we eat, but don't kill'.
 But no one will sell if there is none to buy. *
 (Kasthuri Sreenivasan)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - २५६</summary>
+
+२५६. This couplet seems to have obvious reference to Buddhists who do not kill, but are not required to be vegetarian.  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५६</summary>

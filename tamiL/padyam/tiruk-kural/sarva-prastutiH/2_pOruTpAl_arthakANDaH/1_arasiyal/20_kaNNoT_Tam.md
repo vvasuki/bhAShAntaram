@@ -108,6 +108,11 @@ Or eyes without sympathy?
 (P.S. Sundaram)
 </details>
 
+<details><summary>NVK Ashraf notes (en) - ५७३</summary>
+
+५७३. The word "rāgā" means tune or melody.
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५७३</summary>
 
 573\. paṇ eṉ ām, pāṭaṟku iyaipu iṉṟēl?-kaṇ eṉ ām,  
@@ -190,6 +195,11 @@ What for are eyes sans measured grace.        574
 Compassion is an ornament of the eyes.
 Without it eyes are deemed sores. *
 (Satguru Subramuniyaswami)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ५७५</summary>
+
+५७५. Not only compassion, but also learning is must says Valluvar employing the same idea in couplet ३९३: “Only the learned have eyes. The unlearned have two sores on their face!” ((P.S. Sundaram)).
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७५</summary>
@@ -358,6 +368,11 @@ Have right for this earth beautiful.        578
 That quality of forbearance and sympathy is the best,
 Even to those who hurt us.
 (N.V.K. Ashraf)
+</details>
+
+<details><summary>NVK Ashraf notes (en) - ५७९</summary>
+
+५७९. Compare with १५८. "Let a man conquer by his forbearance those who wrong him with arrogance" * -(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७९</summary>
