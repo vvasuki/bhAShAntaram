@@ -3,6 +3,7 @@ title = "१४ तॆरिन्दुविनैयाडल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५११</summary>
 
 नन्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द  
@@ -13,6 +14,14 @@ title = "१४ तॆरिन्दुविनैयाडल्"
 
 शुभाशुभे परामृश्य शुभकार्यैककारिणम् ।  
 पुरुषं योजयेत् कार्ये निर्भयं पृथिवीपतिः ॥ ५११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५११</summary>
+
+०५११
+Employ those who prefer to do the good
+After scanning both good and bad.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५११</summary>
@@ -49,6 +58,14 @@ The good and bad and do good turn.        511
 तद्रक्षको विना विघ्नं राजकार्ये नियुज्यताम् ॥ ५१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५१२</summary>
+
+०५१२
+Entrust the job to one who can augment revenue,
+Foster wealth and find out hurdles. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१२</summary>
 
 512\. vāri perukki, vaḷam paṭuttu, uṟṟavai  
@@ -81,6 +98,14 @@ Fosters wealth and prevents ills.        512
 
 ज्ञानं प्रीतिरकालुष्यं निराशा धनसञ्चये ।  
 गुणैरेतैः समायुक्तो राजकार्ये नियोज्यताम् ॥ ५१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५१३</summary>
+
+०५१३
+The qualified possess these four:
+Affection, wisdom, clarity and contentment.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५१३</summary>
@@ -117,6 +142,14 @@ Love, wit, non-craving, clarity.        513
 अन्ते केचित् स्थानदोषात् जायन्ते दुष्टबुद्धयः ॥ ५१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५१४</summary>
+
+०५१४
+Put into many tests, they pass.
+Yet when subjected to different tasks, many fail.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१४</summary>
 
 514\. eṉai vakaiyāṉ tēṟiyakkaṇṇum, viṉai vakaiyāṉ  
@@ -149,6 +182,14 @@ Many differ before duty.        514
 
 बुध्वोपायं विघ्नराशिमपोह्य कृतिसाधने ।  
 समर्थमन्तरा नान्यं राजकार्ये निवेशयेत् ॥ ५१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५१५</summary>
+
+०५१५
+Where knowledge and diligence are required,
+Don't entrust tasks on personal loyalty.
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५१५</summary>
@@ -185,6 +226,14 @@ Not by fondness but by hard test.        515
 सम्यग्विज्ञाय कार्येषु नरो योज्यो नराधिपैः ॥ ५१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५१६</summary>
+
+०५१६
+Weigh well the agent, the task
+And the time before you act.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१६</summary>
 
 516\. ceyvāṉai nāṭi, viṉai nāṭi, kālattōṭu  
@@ -217,6 +266,14 @@ And just in proper time proceed.        516
 
 अनेन हेतुना कार्यमेतत् कर्तुमयं क्षमः ।  
 इत्थमालोच्य तत्कार्ये स एव प्रेर्यतां नृपैः ॥ ५१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५१७</summary>
+
+०५१७
+Assured this man will do this task this way,
+Leave it to him.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५१७</summary>
@@ -253,6 +310,14 @@ Like this entrust the duty due.        517
 निक्षिप्य राज्ञा दातव्यं स्वातन्त्र्यं कार्यसाधने ॥ ५१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५१८</summary>
+
+०५१८
+After ascertaining what work befits a man,
+Assign him the responsibility. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१८</summary>
 
 518\. viṉaikku urimai nāṭiya piṉṟai, avaṉai  
@@ -287,6 +352,14 @@ Leave him to do the best he can.        518
 दूरीकरोति दुर्वाधात् यस्तु तं विसृजेद्रमा ॥ ५१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५१९</summary>
+
+०५१९
+Fortune deserts him who doubts
+The liberties taken by a devout worker. *
+(P.S. Sundaram), VSS
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५१९</summary>
 
 519\. viṉaikkaṇ viṉaiyuṭaiyāṉ kēṇmai vēṟāka  
@@ -319,6 +392,14 @@ Doubt them; and fortune departs quick.        519
 
 तृप्तेषु कर्मकारेषु लोकः स्यात् क्लेशवर्जितः ।  
 तत्तर्पणविधौ राज्ञा यत्नः स्वीक्रियतां सदा ॥ ५२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५२०</summary>
+
+०५२०
+Nothing goes wrong in the state of a king
+Who often checks his officials for any wrong.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५२०</summary>

@@ -3,6 +3,7 @@ title = "१७ सॆङ्गोन्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५४१</summary>
 
 ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्  
@@ -13,6 +14,14 @@ title = "१७ सॆङ्गोन्मै"
 
 पक्षपातं विना राज्ञा माध्यस्थ्यमवलम्बता ।  
 यथाशास्त्रं दण्डदानं नीतिपालनमुच्यते ॥ ५४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५४१</summary>
+
+०५४१
+The way is to launch an enquiry, investigate with impartiality,
+And dispense as per norms.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५४१</summary>
@@ -49,6 +58,14 @@ Consult and act the laws justly.        541
 देशे जनास्तथा राज्ञः काङ्क्षन्ते नीतिपालनम् ॥ ५४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५४२</summary>
+
+०५४२
+All the world looks up to heaven for rain
+And the subjects to their king for justice. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४२</summary>
 
 542\. vāṉ nōkki vāḻum ulaku ellām;-maṉṉavaṉ  
@@ -81,6 +98,14 @@ And mankind to king's rod of justice.        542
 
 विप्रप्रवर्तितं वेदं धर्मं वेदेषु बोधितम् ।  
 लक्ष्यीकृत्य न्याय्यमार्गे रक्षणं राजलक्षणम् ॥ ५४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५४३</summary>
+
+०५४३
+The scepter of the king furnishes the basic support
+To virtue and scriptures.
+(S. Maharajan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५४३</summary>
@@ -117,6 +142,14 @@ From the sceptre of a stately king.        543
 महीपतिं प्रजाः सर्वाः प्रेक्षन्ते प्रीतिपूर्वकम् ॥ ५४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५४४</summary>
+
+०५४४
+A great kingdom's monarch who rules embracing his subjects
+Has the world embrace his feet. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४४</summary>
 
 544\. kuṭi taḻīik kōl ōccum mā nila maṉṉaṉ  
@@ -149,6 +182,14 @@ Whose sceptre clasps the people's heart.        544
 
 नीतिशास्त्रानुरोधेन रक्षतो धर्मवर्त्मना ।  
 राज्ञो देशे कालवृष्टिः सस्यावृद्धिश्च जायते ॥ ५४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५४५</summary>
+
+०५४५
+The king who rules according to the law
+Never lacks rain and corn.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५४५</summary>
@@ -185,6 +226,14 @@ Which is ruled by a righteous hand.        545
 लभते नीतिदण्डेन जयं, दण्डो ऋजुर्यदि ॥ ५४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५४६</summary>
+
+०५४६
+Not his spear but a straight scepter
+Is what gives a monarch his triumph.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४६</summary>
 
 546\. vēl aṉṟu, veṉṟi taruvatu; maṉṉavaṉ  
@@ -217,6 +266,14 @@ That brings success to monarch's might.        546
 
 नीतिदण्डेन सकलं जगद्यः पाति पार्थिवः ।  
 स एव नीतिदण्डस्तं पालयेन्नात्र संशयः ॥ ५४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५४७</summary>
+
+०५४७
+The king guards all the land, and his own rule
+Will guard him if he is straight.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५४७</summary>
@@ -253,6 +310,14 @@ And justice protects his royal worth.        547
 अयच्छन् पार्थिवो नीतिं सापवादो विनश्यति ॥ ५४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५४८</summary>
+
+०५४८
+An indifferent unjust king beyond the reach of his subjects
+Will sink beyond and perish.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४८</summary>
 
 548\. eṇ patattāṉ ōrā, muṟai ceyyā, maṉṉavaṉ  
@@ -287,6 +352,14 @@ He shall himself his ruin bring.        548
 पापापनोदनं, राज्ञां धर्म एव न पापदम् ॥ ५४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५४९</summary>
+
+०५४९
+For a king who would guard and cherish his people,
+To punish crimes is a duty, not defect.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५४९</summary>
 
 549\. kuṭi puṟaṅkāttu, ōmpi, kuṟṟam kaṭital  
@@ -319,6 +392,14 @@ Is flawless duty of a king.        549
 
 मृतिदण्डप्रदानं तु पापिनामाततायिनाम् ।  
 तृणानिर्मूलनसमं रूढसस्याभिवृद्धये ॥ ५५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५५०</summary>
+
+०५५०
+A king punishing criminals by execution
+Is like a farmer removing weeds from his fields.*
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५५०</summary>

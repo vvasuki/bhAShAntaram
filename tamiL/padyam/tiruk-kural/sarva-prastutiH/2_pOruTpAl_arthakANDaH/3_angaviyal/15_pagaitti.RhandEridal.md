@@ -3,6 +3,7 @@ title = "१५ पगैत्तिऱन्दॆरिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८७१</summary>
 
 पगैऎन्नुम् पण्बि लदनै ऒरुवन्  
@@ -14,6 +15,14 @@ title = "१५ पगैत्तिऱन्दॆरिदल्"
 अधिकारः ८८. विरोधतत्त्वपरिज्ञानम्  
 वस्तुतः परिहासार्थमप्यनर्थप्रदायकः ।  
 विरोधस्तु न केनापि न कदाचिच्चिकीर्ष्यताम् ॥ ८७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८७१</summary>
+
+०८७१
+One should never wish for the accursed thing
+Called enmity, even in jest.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८७१</summary>
@@ -50,6 +59,14 @@ The ill-natured enmity court.        871
 वागाख्यलाङ्गलकरैर्बुधैर्वैरं न साम्प्रतम् ॥ ८७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८७२</summary>
+
+०८७२
+Make foes, if you must, with bowmen
+And never of men whose weapon is their tongue. *
+(P.S. Sundaram), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७२</summary>
 
 872 villēr uḻavar pakaikoḷiṉum koḷḷaṟka  
@@ -82,6 +99,14 @@ But not the hate of word-ploughers.        872
 
 नानाजनविरोधी यो बन्धुमित्रविवर्जितः ।  
 उन्मत्तपुरुषाच्चापि ज्ञानहीनः स गण्यते ॥ ८७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८७३</summary>
+
+०८७३
+It is worse than madness for one who has no allies,
+To make numerous enemies.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८७३</summary>
@@ -118,6 +143,14 @@ The worst insanity betrays.        873
 यो भवेत् तत्प्रभावस्य वश्यं स्यात् सकलं जगत् ॥ ८७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८७४</summary>
+
+०८७४
+The world is secure under one
+Whose nature can make friends of foes.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७४</summary>
 
 874 pakainaṭpāk koṇṭoḻukum paṇpuṭai yāḷaṉ  
@@ -150,6 +183,14 @@ Whose heart makes friends even of foes.        874
 
 एकस्य निस्सहायस्य यद्युभौ तु विरोधिनौ ।  
 सन्भवेतां तयोरेकं मित्रं कुर्वीत् तत्क्षणात् ॥ ८७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८७५</summary>
+
+०८७५
+While facing two foes, unaided and alone,
+Make one your friend. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८७५</summary>
@@ -186,6 +227,14 @@ Make one of them your ally close.        875
 क्लेशे प्राप्ते तु माध्यस्थ्यभावमालम्ब्य पश्य तम् ॥ ८७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८७६</summary>
+
+०८७६
+In times of crisis, be wary of joining or opposing any,
+Whether tested or untested. *
+(K. Krishnaswamy & Vijaya Ramkumar), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७६</summary>
 
 876 tēṟiṉum tēṟā viṭiṉum aḻiviṉkaṇ  
@@ -218,6 +267,14 @@ Keep aloof; don't mix with foes.        876
 
 नूत्नमित्रस्य सविधे स्वदुःखं न निवेदयेत् ।  
 शत्रूणां सन्निधौ स्वीयदौर्बल्यं न प्रकाशयेत् ॥ ८७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८७७</summary>
+
+०८७७
+Keep your sorrows from strangers
+And your weakness from foes. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८७७</summary>
@@ -254,6 +311,14 @@ Nor your weakness to foes explain.        877
 यदि कश्चिद्भवेत्तस्य शत्रवो लयमाप्नुयुः ॥ ८७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८७८</summary>
+
+०८७८
+Engineer, execute and defend.
+Thus keep the pride of your foes at bay.
+(Satguru Subramuniyaswami), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७८</summary>
 
 878 vakaiyaṟintu taṟceytu taṟkāppa māyum  
@@ -288,6 +353,14 @@ The pride of enemies shall fall.        878
 स एव वृद्धश्छिन्नश्चेत् छेत्तुश्छिन्नो भवेत्करः ॥ ८७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८७९</summary>
+
+०८७९
+Cut a thorny shrub when young.
+Allowed to grow, it injures the hand that cuts.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८७९</summary>
 
 879 iḷaitāka muḷmaram kolka kaḷaiyunar  
@@ -320,6 +393,14 @@ Grown hard, they cut your hands beware.        879
 
 गर्वो रिपुणामादौ न हन्यते केनचिद्यदि ।  
 श्वासग्रहणकालं च न शक्यं तेन जीवितुम् ॥ ८८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८८०</summary>
+
+०८८०
+Those who can't crush the pride of defying foes
+Will cease to breathe long. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८८०</summary>

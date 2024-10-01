@@ -3,6 +3,7 @@ title = "०२ सॊल्वन्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६४१</summary>
 
 नानलम् ऎन्नुम् नलनुडैमै अन्नलम्  
@@ -14,6 +15,14 @@ title = "०२ सॊल्वन्मै"
 अधिकारः ६५. वाग्मित्वम्  
 वाग्मित्वगुणसम्पूर्त्या सचिवः श्रेष्ठ्यमाप्नुयात् ।  
 गुणमध्ये विशेषेण वाग्मिता राजते यतः ॥ ६४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६४१</summary>
+
+०६४१
+Real asset is the gift of speech.
+That gift is a class apart from all other gifts.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६४१</summary>
@@ -50,6 +59,14 @@ Is goodness which nothing can reach.        641
 आलोच्य सावधानेन तस्माद्वाक्यं प्रजुज्यताम् ॥ ६४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६४२</summary>
+
+०६४२
+Speech can both make and mar,
+And hence guard it from negligence. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४२</summary>
 
 642\. ākkamum, kēṭum, ataṉāl varutalāl,  
@@ -82,6 +99,14 @@ Guard against the slips of tongue.        642
 
 यद्वचः श्रुतमात्रेण जनानावर्जयेद् गुणैः ।  
 अश्रुतानां च शुश्रूषा भवेत् तत्तात्त्विकं वच ॥ ६४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६४३</summary>
+
+०६४३
+A speech should hold fast the convinced
+And be pleasing even to the unconvinced.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६४३</summary>
@@ -118,6 +143,14 @@ And attracts ev'n those that are averse.        643
 तादृग्वचःप्रयोगेण धर्मार्थौ भुवि सिद्धयतः ॥ ६४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६४४</summary>
+
+०६४४
+Speak to the capacity of the audience.
+Nothing more virtuous or valuable than this. *
+(Satguru Subramuniyaswami), (C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४४</summary>
 
 644\. tiṟaṉ aṟintu colluka, collai; aṟaṉum  
@@ -150,6 +183,14 @@ No wealth or virtue words surpass.        644
 
 विवक्षा ते यदि भवेदुच्यतां तादृशं वच ।  
 इतरेषां वचोभिश्च यज्जेतुं नैव शक्यते ॥ ६४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६४५</summary>
+
+०६४५
+Utter not a word without making sure
+There is no other word to beat it.
+(S. Maharajan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६४५</summary>
@@ -186,6 +227,14 @@ Can win it and say untoward.        645
 त्यक्तवा दोषान् भावमात्रग्रहणं मन्त्रिणां गुणः ॥ ६४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६४६</summary>
+
+०६४६
+To speak as desired and gain from what others say
+Is the hallmark of spotless men. *
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४६</summary>
 
 646\. vēṭpat tām colli, piṟar col payaṉ kōṭal  
@@ -218,6 +267,14 @@ And grasp in others what is meet.        646
 
 वादे कस्तं जेतुमिशः परमानसरञ्जकम् ।  
 विस्मृत्या रहितं धीरं वाक्यं यः समुदीरयेत् ॥ ६४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६४७</summary>
+
+०६४७
+An eloquent, tireless and fearless speaker
+Can rarely be prevailed upon by any one.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६४७</summary>
@@ -254,6 +311,14 @@ Flawless, puissant, and free from fear.        647
 प्रयुञ्जानस्य वचनं लोको गृह्णाति सादरम् ॥ ६४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६४८</summary>
+
+०६४८
+The world will rush and listen to those
+Who can to speak orderly and pleasingly.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४८</summary>
 
 648\. viraintu toḻil kēṭkum ñālam-nirantu iṉitu  
@@ -288,6 +353,14 @@ The words of counsellors astute.        648
 वाक्यजालमनुस्यूतं वक्तुमेव हि ते क्षमाः ॥ ६४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६४९</summary>
+
+०६४९
+Those fond of talking much
+Cannot be brief and faultless.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४९</summary>
 
 649\. pala collak kāmuṟuvar maṉṟa- mācu aṟṟa  
@@ -320,6 +393,14 @@ A few and flawless words to speak.        649
 
 अधीतग्रन्थमन्येषां ये बोधयितुमक्षमाः ।  
 निर्गन्धफुल्लकुसुमैः ते भजन्ते समानताम् ॥ ६५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५०</summary>
+
+०६५०
+Those who can't express what they have learnt
+Are a bunch of flowers without scent. *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५०</summary>

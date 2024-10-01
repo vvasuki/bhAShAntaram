@@ -3,6 +3,7 @@ title = "०४ कूडावॊऴुक्कम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २७१</summary>
 
 वञ्ज मनत्तान् पडिट्रॊऴुक्कम् पूदङ्गळ्  
@@ -13,6 +14,14 @@ title = "०४ कूडावॊऴुक्कम्"
 
 वञ्चकस्य दुराचारं तच्छरीरगतान्यपि ।  
 पञ्च भूतानि दृष्टवैव मन्दमन्तर्हसन्ति हि ॥ २७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २७१</summary>
+
+०२७१
+The five elements will laugh within
+At a hypocrite's lying conduct.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २७१</summary>
@@ -49,6 +58,14 @@ Of a sly hypocrite within laugh.        271
 आकाशेनेव महता तपोवेषेण किं फलम्? ॥ २७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २७२</summary>
+
+०२७२
+What use is a sky-high pose to one 
+Who knowingly does wrong?
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७२</summary>
 
 272\. vāṉ uyar tōṟṟam evaṉ ceyyum-taṉ neñcam  
@@ -81,6 +98,14 @@ When guild the conscience gnaws and knows.        272
 
 मनसो निग्रहं हित्वा मुनिवेषस्य वर्तनम् ।  
 वुआघ्रचर्मवृत्तो घेनुः सस्यं चरति चेत्, तथा ॥ २७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २७३</summary>
+
+०२७३
+A weakling posing a giant form
+Is an ox grazing in a tiger's skin. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २७३</summary>
@@ -117,6 +142,14 @@ Seems a grazer with tiger skin.        273
 गुल्मलीननिषादेन पक्षिग्रहणवद्भवेत् ॥ २७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २७४</summary>
+
+०२७४
+A posing ascetic who sins secretly
+Is like a fowler hiding in bush to trap birds. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७४</summary>
 
 274\. tavam maṟaintu, allavai ceytal-putalmaṟaintu  
@@ -149,6 +182,14 @@ Fowlers in ambush birds to strike.        274
 
 ''अहं वितक्त'' इत्युत्क्वा दुश्चर्यां यो निषेवते ।  
 ''किं कृतं किं कृतं हे'' ति फलकाले स खिद्यते ॥ २७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २७५</summary>
+
+०२७५
+The deceitful acts of those claiming dispassion
+Will make them exclaim in pain, "Alas! Alas!" *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २७५</summary>
@@ -185,6 +226,14 @@ Shall moan "What have we done" with pain.        275
 वर्तते कपटाचारः कठिनो नास्ति तत्समः ॥ २७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २७६</summary>
+
+०२७६
+None so cruel as the posing ascetic
+Who lives by deceit without renouncing by heart. *
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७६</summary>
 
 276\. neñciṉ tuṟavār, tuṟantārpōl vañcittu,  
@@ -217,6 +266,14 @@ Cheating the world without restraint.        276
 
 बहिर्गुञ्जासमाकाराः बहवो रक्तवाससः ।  
 अज्ञान मन्तरेतेर्षां गुञाग्रे श्यामता यथा ॥ २७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २७७</summary>
+
+०२७७
+Like the kunri - red to view but black on top
+Are many, ochre-robed but black within.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २७७</summary>
@@ -253,6 +310,14 @@ Black like its nose his inward hue.        277
 कपटाचारसञ्छन्ना वञ्चकाः सन्ति भूरिशः ॥ २७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २७८</summary>
+
+०२७८
+Many spotted minds bathe in holy streams
+And lead a double life.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७८</summary>
 
 278\. maṉattatu mācu āka, māṇṭār nīr āṭi,  
@@ -287,6 +352,14 @@ Hiding sins in showy extremes.        278
 मुनावपि तथा ज्ञेयं न वेषस्तत्र कारणम् ॥ २७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २७९</summary>
+
+०२७९
+The lute is bent, the arrow straight:
+Judge men not by their looks but acts.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७९</summary>
 
 279\. kaṇai koṭitu; yāḻ kōṭu cevvitu; āṅku aṉṉa  
@@ -319,6 +392,14 @@ Strait arrow kills, bent lute but charms.        279
 
 लोकदूष्ये दुराचारस्त्यज्यतेचेत् तपस्विभिः ।  
 कुतो वा मुण्डनं तेषां जटाभारेण वा किमु ॥ २८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २८०</summary>
+
+०२८०
+No need of tonsure or long hair,
+If one avoids what the world condemns.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २८०</summary>

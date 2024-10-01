@@ -3,6 +3,7 @@ title = "०३ पुदल्वरैप् पॆऱुदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६१</summary>
 
 पॆऱुमवट्रुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
@@ -13,6 +14,14 @@ title = "०३ पुदल्वरैप् पॆऱुदल्"
 
 शास्त्रानुगतबुद्धीनां पुत्राणां लाभ एव तु ।  
 लव्धव्येषु महद्भाग्यं अन्यन्नेह प्रशस्यते ॥ ६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६१</summary>
+
+००६१
+Of all blessings we know,
+Nothing worth than begetting intelligent children.
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६१</summary>
@@ -49,6 +58,14 @@ Than children virtuous and wise.         61
 दुःखानि तं न बाधन्ते भाविजन्मसु सप्तसु ॥ ६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६२</summary>
+
+००६२
+No harm will befall in all seven births
+If one begets blameless children.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२</summary>
 
 62\. eḻupiṟappum tīyavai tīṇṭā-paḻi piṟaṅkāp  
@@ -81,6 +98,14 @@ Noble sons bring all we wish.         62
 
 तनयेन पितुः स्वर्गलोकार्थे दानकारणात् ।  
 पुत्रं स्वार्जितवित्तेन समं वै मन्यते पिता ॥ ६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६३</summary>
+
+००६३
+Children are called one's fortune;
+And their fortune the result of their own deeds. *
+(S. Thandapani Desikar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३</summary>
@@ -117,6 +142,14 @@ Their wealth is measured by their deed.         63
 अमृतादधिकं तत्तु वर्तते मधुरं पितुः ॥ ६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६४</summary>
+
+००६४
+Sweeter than nectar is the porridge messed up
+By the tiny hands of one’s children. *
+(G. Vanmikanathan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६४</summary>
 
 64\. amiḻtiṉum āṟṟa iṉitē-tam makkaḷ  
@@ -149,6 +182,14 @@ In which one's children hands insert.         64
 
 पुत्रदेहपरिष्वङ्गो देहानन्दं विवर्धयेत् ।  
 जनयेच्छ्रवणानन्दं तेषां स्खलितभाषितम् ॥ ६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५</summary>
+
+००६५
+To be touched by children is a delight to the body,
+And to hear their speech a joy to the ear.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५</summary>
@@ -185,6 +226,14 @@ Sweet to ears are their words lovely.         65
 स एव कथयेत् रम्यं वीणावेण्वादि वादितम् ॥ ६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६६</summary>
+
+००६६
+"The flute is sweet", "The lute is sweet",
+Say those who never heard their children lisp.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६</summary>
 
 66\. 'kuḻal iṉitu; yāḻ iṉitu' eṉpa-tam makkaḷ  
@@ -217,6 +266,14 @@ Deaf to baby's babble's lay!         66
 
 पिता विद्याप्रदानेन पण्डिताग्रेसरं सुतम् ।  
 यदि कुर्यात्सुतस्यैतत् महत् साह्यमुदीर्यते ॥ ६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६७</summary>
+
+००६७
+The good a father can do to his child
+Is to make him excel in the midst of the learned. *
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७</summary>
@@ -253,6 +310,14 @@ To seat him in front of the wise.         67
 अधिकं तेन तुष्यन्ति सर्वे भूतलवासिनः ॥ ६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६८</summary>
+
+००६८
+The wisdom of one's own children
+Brings joy to all life on the earth.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६८</summary>
 
 68\. tammiṉ, tam makkaḷ aṟivuṭaimai mā nilattu  
@@ -287,6 +352,14 @@ To see their children themselves excel.         68
 श्रुत्वैव जननी तस्य जननादपि तुष्यति ॥ ६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६९</summary>
+
+००६९
+A woman rejoices at the birth of a son,
+But even more when he is praised.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६९</summary>
 
 69\. īṉṟa poḻutiṉ peritu uvakkum-taṉ makaṉaic  
@@ -319,6 +392,14 @@ Delights more than when she begot.         69
 
 किंवा तपः कृतं पित्रा प्राप्तुमेतादृरां सुतम् ।  
 इति लोकैः स्तुत्ः पुत्रः पितुः स्यादुपकारकः ॥ ७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७०</summary>
+
+००७०
+The son's duty to his father is to make world ask,
+"By what austerities did he merit such a son! *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७०</summary>

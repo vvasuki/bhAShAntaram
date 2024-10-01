@@ -3,6 +3,7 @@ title = "११ इरवु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०५१</summary>
 
 इरक्क इरत्तक्कार्क् काणिन् करप्पिन्  
@@ -14,6 +15,14 @@ title = "११ इरवु"
 अधिकारः १०६. याचना  
 दातुर्दर्शनवेलायां तस्मिन युक्तं हि याचनम् ।  
 दातुर्नेति वचस्तस्य दोषाय स्यान्न चार्थिनाम् ॥ १०५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०५१</summary>
+
+१०५१
+Beg if you meet men of means.
+If they refuse, the fault is theirs, not yours. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५१</summary>
@@ -50,6 +59,14 @@ Default is theirs when they deny.        1051
 याचनापि तदा तस्य मोददा न तु दुःखदा ॥ १०५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०५२</summary>
+
+१०५२
+Begging is a pleasure if what is asked
+Comes without pain.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०५२</summary>
 
 1052 iṉpam oruvaṟku irattal irantavai  
@@ -82,6 +99,14 @@ When the things comes without annoy.        1052
 
 वञ्चनातीतचित्तानां धर्मज्ञानां समक्षतः ।  
 अर्थिनां याचनं चापि नूनं श्रेष्ठ्याय भूयते ॥ १०५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०५३</summary>
+
+१०५३
+There is beauty even in begging
+If it is before dutiful men with generous heart. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५३</summary>
@@ -118,6 +143,14 @@ Who know the duty on their part.        1053
 दातुरग्रे याचनापि दानेन सादृशं भवेत् ॥ १०५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०५४</summary>
+
+१०५४
+Begging from men who do not refuse even in their dreams
+Is as honorable as bestowing.
+(N.V.K. Ashraf), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०५४</summary>
 
 1054 irattalum ītalē pōlum karattal  
@@ -150,6 +183,14 @@ From those who hide not even in dreams.        1054
 
 नेत्यनुक्त्वा स्थितं वस्तु दातुमिष्टस्य कस्यचित् ।  
 अद्यापि सत्वाद्दातृणामग्रे तिष्ठन्ति याचकाः ॥ १०५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०५५</summary>
+
+१०५५
+Men stand expectant only because
+The world has a few who won't refuse.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५५</summary>
@@ -186,6 +227,14 @@ The world has men who don't refuse.        1055
 याचकानां सुदारिद्र्यदुःखं नश्येत्स्वतोऽखिलम् ॥ १०५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०५६</summary>
+
+१०५६
+All ills of begging will flee at the sight of those
+Who are free from the ills of refusal. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०५६</summary>
 
 1056 karappiṭumpai illāraik kāṇiṉ nirappiṭumpai  
@@ -218,6 +267,14 @@ Before the free who don't deny.        1056
 
 प्रीतिपूर्वं गौरवेण याचकेभ्यः प्रयच्छतः ।  
 दातृन् दृष्ट्वा याचकस्तु मनस्यन्तः प्रमोदते ॥ १०५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०५७</summary>
+
+१०५७
+The glad heart rejoices within
+When it sees one who gives without scorn.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५७</summary>
@@ -254,6 +311,14 @@ A thrill of delight fills the heart.        1057
 सूत्राकृष्टचलद्दारुबिम्बवत् कृत्रिमं भवेत् ॥ १०५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०५८</summary>
+
+१०५८
+Without beggars this vast scenic world
+Would be a stage of puppets that come and go.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०५८</summary>
 
 1058 irappārai illāyiṉ īrṅkaṇmā ñālam  
@@ -288,6 +353,14 @@ Sans Askers like a puppet show.        1058
 न याचन्ते यदि तदा महिमा स्यात् कथं प्रभोः ॥ १०५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०५९</summary>
+
+१०५९
+What fame can givers achieve
+If there is none to beg and receive?
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०५९</summary>
 
 1059 īvārkaṇ eṉṉuṇṭām tōṟṟam irantukōḷ  
@@ -320,6 +393,14 @@ Without obligation seekers?        1059
 
 अर्थिभिर्विजितक्रोधैर्भाव्यं क्षेमार्थिभिः सदा ।  
 दारिद्र्यं स्वगतं स्वस्य भवेद् ज्ञानप्रदायकम् ॥ १०६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०६०</summary>
+
+१०६०
+The denied suppliant should not chafe.
+His own want is proof enough. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०६०</summary>

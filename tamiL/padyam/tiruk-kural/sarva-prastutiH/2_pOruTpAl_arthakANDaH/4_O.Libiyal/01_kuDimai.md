@@ -3,6 +3,7 @@ title = "०१ कुडिमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९५१</summary>
 
 इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्  
@@ -14,6 +15,14 @@ title = "०१ कुडिमै"
 अधिकारः ९६. कुलीनत्वम्  
 असत्कुलप्रसूतेषु मनुष्येषु स्वभावतः ।  
 लज्जामाध्यस्थ्यनामानौ स्यातां न सङ्गतौ ॥ ९५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९५१</summary>
+
+०९५१
+None except the well-born
+Have that natural sense of integrity and shame. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५१</summary>
@@ -50,6 +59,14 @@ By nature only the noble-born.        951
 तिष्ठेत् सत्कुलजातेषु विद्याविरहितेष्वपि ॥ ९५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९५२</summary>
+
+०९५२
+Men of birth will never deviate from these three:
+Good manners, truthfulness and modesty. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९५२</summary>
 
 952 oḻukkamum vāymaiyum nāṇumim mūṉṟum  
@@ -82,6 +99,14 @@ Good conduct, truth and modesty.        952
 
 प्रसन्नवदनं दानमनिन्दा रम्यभाषणम् ।  
 इतीमे सुगुणाः शुद्धकुलीने सहजा मताः ॥ ९५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९५३</summary>
+
+०९५३
+A smiling face, a generous heart, sweet words and no scorn;
+These four are said to mark the well-born. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५३</summary>
@@ -118,6 +143,14 @@ These four mark true nobility.        953
 न कुर्युः सत्कुलोत्पन्ना दोषं कुलविद्यातकम् ॥ ९५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९५४</summary>
+
+०९५४
+Men of birth will not indulge in mean acts
+Even if offered millions manifold.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९५४</summary>
 
 954 aṭukkiya kōṭi peṟiṉum kuṭippiṟantār  
@@ -150,6 +183,14 @@ Cannot bend to degrading deed.        954
 
 प्रसिद्धसत्कुलोत्पन्नो दारिद्र्येण युतोऽप्ययम् ।  
 परोपकारकरणान्न कदाचिन्निवर्तते ॥ ९५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९५५</summary>
+
+०९५५
+An ancient family may default in charity,
+But never in their conduct. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५५</summary>
@@ -186,6 +227,14 @@ Ancient homes guard their noble trait.        955
 इत्यं दृढप्रतिज्ञास्तु निन्दितं न वितन्वते ॥ ९५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९५६</summary>
+
+०९५६
+Those wedded to their spotless heritage
+Will do nothing deceitful and ignoble. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९५६</summary>
 
 956 calampaṟṟic cārpila ceyyārmā caṟṟa  
@@ -218,6 +267,14 @@ Stoop not to acts of cunning lure.        956
 
 महाकुलप्रसूतेषु स्थितः स्वल्पोऽपि दुर्गुणाः ।  
 व्योमचन्द्रकलङ्केन समं दृश्येत् सुस्फुटम् ॥ ९५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९५७</summary>
+
+०९५७
+Defects in people of noble descent
+Appear prominently as spots on the moon.
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५७</summary>
@@ -254,6 +311,14 @@ Like on the sky the spots of moon.        957
 तथाविधे कुलीनत्वसन्देहो जायते नृणाम् ॥ ९५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९५८</summary>
+
+०९५८
+Want of affection from one of good family
+Calls in question his descent from it. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९५८</summary>
 
 958 nalattiṉkaṇ nāriṉmai tōṉṟiṉ avaṉaik  
@@ -288,6 +353,14 @@ People deem their pedigree crude.        958
 तथा वाक्यप्रयोगेण कुलं ज्ञायेत कस्यचित् ॥ ९५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९५९</summary>
+
+०९५९
+Nature of sprout indicates the quality of soil;
+So does the quality of speech one’s descent.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९५९</summary>
 
 959 nilattil kiṭantamai kālkāṭṭum kāṭṭum  
@@ -320,6 +393,14 @@ The worth of birth from words flow out.        959
 
 श्रेयोऽभिलाषिणां लज्जावत्वं नूनमपेक्ष्यते ।  
 विनीतेन सदा भाव्यं कुलगौरवकाङ्क्षिणा ॥ ९६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९६०</summary>
+
+०९६०
+There is no good without a sense of shame,
+Nor high birth without politeness.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६०</summary>

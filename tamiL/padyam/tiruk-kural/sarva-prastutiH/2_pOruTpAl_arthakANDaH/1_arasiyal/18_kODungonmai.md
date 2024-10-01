@@ -3,6 +3,7 @@ title = "१८ कॊडुङ्गोन्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५५१</summary>
 
 कॊलैमेऱ्कॊण् डारिऱ्कॊडिदे अलैमेऱ्कॊण्डु  
@@ -13,6 +14,14 @@ title = "१८ कॊडुङ्गोन्मै"
 
 जनहिंसापरो राजा न्यायातीतपदानुगाः ।  
 निर्घुणाद् घातकाच्चापि भुवि क्रूरतमो मतः ॥ ५५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५५१</summary>
+
+०५५१
+More malicious than a murderer is the king
+Who rules with injustice and oppression.*
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५५१</summary>
@@ -49,6 +58,14 @@ Is worse than cruel murderer.        551
 चोरेण शूलिना पान्थात् वित्तचौर्यसमं मतम् ॥ ५५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५५२</summary>
+
+०५५२
+A tyrant taxing his subjects
+Is like an armed dacoit extorting money. *
+(K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५५२</summary>
 
 552\. vēloṭu niṉṟāṉ, ‘iṭu’ eṉṟatu pōlum-  
@@ -81,6 +98,14 @@ Is "give" of lanced robber bold.        552
 
 देशे दिने दिने जाताननर्थान् विमृशन् नृपः ।  
 परिहारमकुर्वाणः क्षीणराज्यः क्रमाद्भवेत् ॥ ५५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५५३</summary>
+
+०५५३
+A king who fails in his day today affairs
+Loses his kingdom day by day.
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५५३</summary>
@@ -117,6 +142,14 @@ Or day by day the realm decays.        553
 भूपस्य रक्षतो वित्तं नश्येत् तेन प्रजा अपि ॥ ५५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५५४</summary>
+
+०५५४
+A thoughtless king who abuses his scepter
+Will lose at once his wealth and subjects.
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५५४</summary>
 
 554\. kūḻum kuṭiyum oruṅku iḻakkum-kōl kōṭi,  
@@ -149,6 +182,14 @@ If his sceptre he dares abuse.        554
 
 अधर्मपालनोद्भूतक्लेशभाजां नुणां भुवि ।  
 अश्रुपातः श्रियं राज्ञो नाशयेदायुधात्मना ॥ ५५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५५५</summary>
+
+०५५५
+It is the tears of those groaning under oppression
+That wear out the prosperity of the king.
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५५५</summary>
@@ -185,6 +226,14 @@ File the royal wealth away.        555
 अनीत्या पालयन् राजा नष्टकीर्तिर्भविष्यति ॥ ५५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५५६</summary>
+
+०५५६
+Just rule stabilizes a king.
+Lacking it his glory fades.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५५६</summary>
 
 556\. maṉṉarkku maṉṉutal ceṅkōṉmai; aḵtu iṉṟēl,  
@@ -217,6 +266,14 @@ Without it wanes the royal light.        556
 
 दयाधून्यमहीपालपाल्यमाननृणां स्थितम् ।  
 वृष्टिहीनप्रदेशस्थजनास्थितिसमां विदुः ॥ ५५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५५७</summary>
+
+०५५७
+How fares the earth without rain?
+So fares life under a ruthless king.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५५७</summary>
@@ -253,6 +310,14 @@ Is graceless king to creatures all.        557
 देशे सतां तु दारिद्र्यात् सम्पत्क्लेशाय कल्पते ॥ ५५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५५८</summary>
+
+०५५८
+Possessions are worse than poverty
+Under the scepter of an unjust king.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५५८</summary>
 
 558\. iṉmaiyiṉ iṉṉātu, uṭaimai-muṟai ceyyā  
@@ -287,6 +352,14 @@ If ruler is unjust despot.        558
 धर्म्य पन्थानमुल्लङ्घ्य नृपे शासति मेदिनीम् ॥ ५५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५५९</summary>
+
+०५५९
+If a king acts contrary to justice,
+Monsoons fail and clouds shed no rain.
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५५९</summary>
 
 559\. muṟai kōṭi maṉṉavaṉ ceyyiṉ, uṟai kōṭi  
@@ -319,6 +392,14 @@ If the king misuses his power.        559
 
 अरक्षति भुवं भूपे पथा न्यायानुरोधिना ।  
 विप्राः क्षुतिं विस्मरेयुः न दद्युः पशवः पयः ॥ ५६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५६०</summary>
+
+०५६०
+Cows yield less and priests forget their hymns
+If the protector fails to protect. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५६०</summary>

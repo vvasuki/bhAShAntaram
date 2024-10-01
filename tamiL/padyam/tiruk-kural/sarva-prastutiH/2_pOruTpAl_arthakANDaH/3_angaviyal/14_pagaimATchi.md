@@ -3,6 +3,7 @@ title = "१४ पगैमाट्चि"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८६१</summary>
 
 वलियार्क्कु माऱेट्रल् ओम्बुग ओम्बा  
@@ -14,6 +15,14 @@ title = "१४ पगैमाट्चि"
 अधिकारः ८७. शत्रुनिर्णयः  
 आत्मनोऽपि बलाढ्यैस्तु वैरभावो विमुच्यताम् ।  
 न त्याज्यं सर्वदा वैरं स्वस्मादल्पबलान्वितैः ॥ ८६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८६१</summary>
+
+०८६१
+Avoid opposing the strong.
+Cherish your desire of enmity with the weak. *
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८६१</summary>
@@ -50,6 +59,14 @@ With the feeble for battle long.        861
 स्वयं च बलहीनश्चेत् कथं शत्रून् विजेष्यति ॥ ८६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८६२</summary>
+
+०८६२
+No love, great support, or own strength has he!
+How can he survive a strong enemy? *
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८६२</summary>
 
 862 aṉpilaṉ āṉṟa tuṇaiyilaṉ tāṉtuvvāṉ  
@@ -82,6 +99,14 @@ Can he withstand an enemy strong?        862
 
 भेतव्ये भयहीनस्य ज्ञातव्यं चाप्यजानतः ।  
 अदातुर्मित्रहीनस्य सुलभा शत्रुवश्यता ॥ ८६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८६३</summary>
+
+०८६३
+A coward, ignorant, unsocial and mean
+Is an easy prey to his enemy.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८६३</summary>
@@ -118,6 +143,14 @@ He is easy for foes to hit.        863
 यः क्रोधवशमापन्नस्त्वशक्तश्चित्तनिग्रहे ॥ ८६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८६४</summary>
+
+०८६४
+The unrestrained and angry are an easy prey
+To anyone, anytime, anywhere.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८६४</summary>
 
 864 nīṅkāṉ vekuḷi niṟaiyilaṉ eññāṉṟum  
@@ -150,6 +183,14 @@ To any, anywhere any day.        864
 
 अज्ञात नीतिशास्त्राणामकर्ता शास्त्रकर्मणाम् ।  
 अभीरुरपवादानां निर्गुणः स्याद्रिपोर्वशे ॥ ८६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८६५</summary>
+
+०८६५
+Foes prefer the tactless and shameless one
+Who cares not for codes and scorns.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८६५</summary>
@@ -186,6 +227,14 @@ Any foe can fell him with ease.        865
 विजृम्भत्कामनिचयुक्तः क्षीयेत् सत्वरम् ॥ ८६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८६६</summary>
+
+०८६६
+Those with blind fury and inordinate lust
+Are vulnerable enemies to be nursed with.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८६६</summary>
 
 866 kāṇāc ciṉattāṉ kaḻiperum kāmattāṉ  
@@ -218,6 +267,14 @@ To have his hatred is but just.        866
 
 स्वारब्धस्यैव कार्यस्य विरुद्धं कुरुते च यः ।  
 वैरं सम्पाद्यतां तेन साकमर्थं प्रदाय वा ॥ ८६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८६७</summary>
+
+०८६७
+He is a foe worth purchasing
+Who starts a fight and does all wrong.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८६७</summary>
@@ -254,6 +311,14 @@ Who muddles chance with oddity.        867
 तदेव मैत्रीराहित्यं रिपणां जयदं भवेत् ॥ ८६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८६८</summary>
+
+०८६८
+Enemies will rejoice the one
+With no virtues, many vices, and no allies. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८६८</summary>
 
 868 kuṇaṉilaṉāyk kuṟṟam palavāyiṉ māṟṟārkku  
@@ -288,6 +353,14 @@ He loses friends and delights foes.        868
 रिपुर्भियुद्धकर्ता तु जित्वा श्रेष्ठसुखं व्रजेत् ॥ ८६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८६९</summary>
+
+०८६९
+Enemies' joy has no bounds
+When they get a fool and coward as a foe. *
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८६९</summary>
 
 869 ceṟuvārkkuc cēṇikavā iṉpam aṟivilā  
@@ -320,6 +393,14 @@ When timid fools are opponents.        869
 
 अज्ञातनीतिशास्त्रैस्तु साकं वैरं फलप्रदम् ।  
 तथा कर्तुमशक्तो यस्तस्य कीर्तिर्न सिध्यति ॥ ८७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८७०</summary>
+
+०८७०
+No glory or gain can ever come to one
+Who cannot overcome an ignorant foe. *
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८७०</summary>

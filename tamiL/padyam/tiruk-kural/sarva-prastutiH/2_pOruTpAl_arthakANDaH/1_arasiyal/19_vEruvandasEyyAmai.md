@@ -3,6 +3,7 @@ title = "१९ वॆरुवन्दसॆय्यामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५६१</summary>
 
 तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्  
@@ -13,6 +14,14 @@ title = "१९ वॆरुवन्दसॆय्यामै"
 
 दुष्ट विचार्य ताटस्थ्यात् पुनस्तं दोषकर्मणः ।  
 निवारयन् पालयेद् यः स भूपाल इतीर्यते ॥ ५६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५६१</summary>
+
+०५६१
+Call him king who probes and whose punishment
+Is deterrent and proportionate.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५६१</summary>
@@ -49,6 +58,14 @@ Just to prevent future offence.        561
 लघु दण्डयतो राज्ञः सम्पत्तिष्ठेदचञ्चला ॥ ५६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५६२</summary>
+
+०५६२
+Raise your hand forcibly but bring it lightly
+To have a lasting effect.
+SDR
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५६२</summary>
 
 562\. kaṭitu ōcci, mella eṟika-neṭitu ākkam  
@@ -81,6 +98,14 @@ This strict mildness prolongs the sway.        562
 
 अधर्मपालनाद्यस्य प्रजाः स्युर्भयाविह्वलाः ।  
 अचिरादेव भूपालः स लयं यास्यति ध्रुवम् ॥ ५६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५६३</summary>
+
+०५६३
+A dictator causing oppression
+Will have a speedy and certain end.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५६३</summary>
@@ -117,6 +142,14 @@ Brings king's ruin quick indeed.        563
 य एतच्छुणुयाद्वाक्य> क्षीणायुः स विनश्यति ॥ ५६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५६४</summary>
+
+०५६४
+When a king is decried a tyrant,
+His life is shortened and end becomes imminent.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५६४</summary>
 
 564\. 'iṟai kaṭiyaṉ' eṉṟu uraikkum iṉṉāc col vēntaṉ  
@@ -149,6 +182,14 @@ His days dwindled, hasten his fall.        564
 
 अप्रसन्नमुखो नृणामगम्यः सुलभेन यः ।  
 महीपालस्तस्य वित्तं भूताविष्टमिव वृथा ॥ ५६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५६५</summary>
+
+०५६५
+The great wealth of one inaccessible and sour-faced
+Is no better than a demon's. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५६५</summary>
@@ -185,6 +226,14 @@ His wealth seems watched by a ghoul.        565
 भूपस्य निखिलं वित्तमस्थिरं क्षीयते क्षणात् ॥ ५६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५६६</summary>
+
+०५६६
+If he is unkind and speaks harsh,
+His lofty wealth ends there without lasting long. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५६६</summary>
 
 566\. kaṭuñ collaṉ, kaṇ ilaṉ āyiṉ, neṭuñ celvam  
@@ -217,6 +266,14 @@ His wealth and power quickly fade.        566
 
 कटुवाक्यमधर्मेण पालनं च महीभुजाम् ।  
 अरिविध्वंसनापेक्षिसत्त्वनिर्मूलहेतुकम् ॥ ५६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५६७</summary>
+
+०५६७
+Harsh words and excessive punishments
+Are files that grind down a king's might. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५६७</summary>
@@ -253,6 +310,14 @@ Like files conquering power corrode.        567
 यः कुप्येत् सचिवान् राजा क्षीयन्ते तस्य सम्पदः ॥ ५६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५६८</summary>
+
+०५६८
+The king who rages but not reflect on his counsel,
+Will soon see his wealth shrink. *
+(K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५६८</summary>
 
 568\. iṉattu āṟṟi, eṇṇāta vēntaṉ ciṉattu āṟṟic  
@@ -287,6 +352,14 @@ Rages with wrath-his fortune fails.        568
 विमेक्तोऽनुचरैः सर्वैर्भीतः सन् क्षयमाप्नुयात् ॥ ५६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५६९</summary>
+
+०५६९
+A king who neglects his defences,
+Will die of fright at the time of war. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५६९</summary>
 
 569\. ceru vanta pōḻtil, ciṟai ceyyā vēntaṉ,  
@@ -319,6 +392,14 @@ Fears his foes in wars and dies.        569
 
 नियुज्य विद्यारहितान् मुख्यस्थानेषु भूपति ।  
 पालयेद्यादि तर्ह्येतैः भूमेर्भारो निरर्थकः ॥ ५७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५७०</summary>
+
+०५७०
+The earth bears no heavier burden
+Than a tyrant surrounded by ignorant men. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७०</summary>

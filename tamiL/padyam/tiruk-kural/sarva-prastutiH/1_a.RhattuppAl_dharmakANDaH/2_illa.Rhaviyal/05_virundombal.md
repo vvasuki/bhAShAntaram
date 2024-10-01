@@ -3,6 +3,7 @@ title = "०५ विरुन्दोम्बल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८१</summary>
 
 इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि  
@@ -13,6 +14,14 @@ title = "०५ विरुन्दोम्बल्"
 
 सम्भाराः सम्भ्रियन्ते ये गृहस्थाश्रमवासिना ।  
 सर्वे ते विनियोक्तव्याः सदैवातिथिपूजने ॥ ८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८१</summary>
+
+००८१
+It is to exercise the benevolence of hospitality
+That people earn a living and establish homes.
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८१</summary>
@@ -49,6 +58,14 @@ To tend the guests and do good turn.         81
 साक्षादमृतमेवास्तु न तच्छ्लाघ्यं कदाचन ॥ ८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८२</summary>
+
+००८२
+With a guest outside, it is wrong to eat alone,
+Even the nectar of immortality. *
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२</summary>
 
 82\. viruntu puṟattatāt tāṉ uṇṭal, cāvā  
@@ -81,6 +98,14 @@ Albeit you eat nectar-like food.         82
 
 स्वगृहप्राप्तमतिथिं भक्त्या सत्कुर्वतः सदा ।  
 दारिद्र्यं न भवेत् किन्तु धनं चाप्यभिवर्धते ॥ ८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८३</summary>
+
+००८३
+His life won’t suffer from want,
+Who always cherishes his flowing guests.
+MR, (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८३</summary>
@@ -117,6 +142,14 @@ His life in want never wears out.         83
 नरस्य गेहे वसति प्रसन्ना पद्मसम्भवा ॥ ८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८४</summary>
+
+००८४
+The goddess of fortune will dwell in the house of one
+Who plays host with a smile. *
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८४</summary>
 
 84\. akaṉ amarntu ceyyāḷ uṟaiyum-mukaṉ amarntu  
@@ -149,6 +182,14 @@ Where smiles welcome the worthy guest.         84
 
 भोजयित्वाऽतिथिं पूर्वे शिष्टं स्वीकृत्य जीवत्ः ।  
 बीजावापं विना क्षेत्रे जातन्ते सस्यसम्पदः ॥ ८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८५</summary>
+
+००८५
+Should his field be sown,
+Who first feeds the guests and eats the rest?
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८५</summary>
@@ -185,6 +226,14 @@ Feeds the guests and eats the rest?         85
 यो हि प्रतीक्षते सोऽयं देवानामतिथिर्भवेत् ॥ ८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८६</summary>
+
+००८६
+Who hosts the passing guests and waits for hosting more
+Will be hosted by the gods. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८६</summary>
 
 86\. cel viruntu ōmpi, varu viruntu pārttiruppāṉ  
@@ -217,6 +266,14 @@ Is a welcome guest in heaven's feast.         86
 
 सदाराधनयज्ञस्य फलं वाचामगोचरम् ।  
 अतिथेर्योग्यता भेदात् फलमेदोऽपि सम्मत्ः ॥ ८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८७</summary>
+
+००८७
+The gains of hospitality cannot be reckoned.
+Their worth depends on the guest.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८७</summary>
@@ -253,6 +310,14 @@ Is worth of hospitality.         87
 लब्धं वस्तु परिभ्रष्टं भवेदिति स चिन्तयेत् ॥ ८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८८</summary>
+
+००८८
+"We toiled, stored and lost", lament those
+Who never sacrificed for hospitality.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८८</summary>
 
 88\. 'parintu ōmpi, paṟṟu aṟṟēm' eṉpar-viruntu ōmpi  
@@ -287,6 +352,14 @@ Who loathe guest-service one day cry:
 भातिथ्यदानविमुखो यो भवेद् भुवने जडः ॥ ८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८९</summary>
+
+००८९
+To have no guests is to want amidst plenty:
+Such poverty belongs to fools.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९</summary>
 
 89\. uṭaimaiyuḷ iṉmai viruntu ōmpal ōmpā  
@@ -319,6 +392,14 @@ Whose folly fails the guest to feed.         89
 
 शिरीषपुष्पमाघ्राणात् म्लानं सञ्जायते यथा ।  
 तथाऽतिथीनां वदनं स्याद् गृहस्थे पराङ्मुखे ॥ ९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९०</summary>
+
+००९०
+Flower aniccham withers when merely smelt.
+An unwelcome look is enough to wither a guest. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९०</summary>

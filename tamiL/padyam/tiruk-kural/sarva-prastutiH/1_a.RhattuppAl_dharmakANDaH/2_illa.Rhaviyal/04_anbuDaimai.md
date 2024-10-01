@@ -3,6 +3,7 @@ title = "०४ अन्बुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७१</summary>
 
 अन्बिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
@@ -13,6 +14,14 @@ title = "०४ अन्बुडैमै"
 
 अर्गलं नास्ति हि प्रीतेः प्रीतानामश्रुबिन्दवः ।  
 प्रकाशयन्ति सर्वेषां प्रीतिमन्तःस्थितामपि ॥ ७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७१</summary>
+
+००७१
+Can love be latched and hidden?
+A trickling tear will proclaim it loud.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७१</summary>
@@ -49,6 +58,14 @@ The trickling tears reveal the heart.         71
 प्रेमवान् स्वशरीरं च परार्थमिति मन्यते ॥ ७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७२</summary>
+
+००७२
+The unloving belong only to themselves,
+But the loving belong to others to their very bones.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७२</summary>
 
 72\. aṉpu ilār ellām tamakku uriyar; aṉpu uṭaiyār  
@@ -81,6 +98,14 @@ To oth'rs the loving e'en to bones.         72
 
 सर्वत्र प्रियभावेन कुर्वन् जीवनमात्मनः ।  
 जीवस्य देहसम्बन्धफलं पूर्णमिहाश्नुते ॥ ७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७३</summary>
+
+००७३
+They say it is to know the union with love
+That the soul takes union with the body.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७३</summary>
@@ -117,6 +142,14 @@ To taste the life of love alone.         73
 तदेव वर्धयेत् स्नेहमधिकं सर्वजन्तुषु ॥ ७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७४</summary>
+
+००७४
+Love begets desire: and that begets
+The priceless excellence called friendship. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४</summary>
 
 74\. aṉpu īṉum ārvam uṭaimai; atu īṉum,  
@@ -149,6 +182,14 @@ Friendship springs up in excellence.         74
 
 प्रेमार्द्रहृदयो यस्तु वर्तसे स्वीयबन्धुषु ।  
 सोऽत्र कीर्ति सुखं चैत्य स्वर्गलोके सुखं वसेत् ॥ ७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७५</summary>
+
+००७५
+The excellence of worldly happiness, they say,
+Is attained by those leading a loving life. *
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७५</summary>
@@ -185,6 +226,14 @@ From peaceful psychic love always.         75
 अधर्मवर्जनेऽप्येतत् साधनं वस्तुतत्त्वतः ॥ ७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७६</summary>
+
+००७६
+"Love supports virtue alone", say the fools.
+It supports vice as well.
+(T.K. Chidambaranatha Mudaliar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६</summary>
 
 76\. 'aṟattiṟkē aṉpu cārpu' eṉpa, aṟiyār;  
@@ -217,6 +266,14 @@ It helps us against evil plots.         76
 
 निरस्थिकान् कीटगणान् आतपो बाघते यथा ।  
 जीवं प्रेम्णा विरहितं तथा धर्मोऽपि बाघते ॥ ७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७७</summary>
+
+००७७
+As the blazing sun dries up a boneless worm,
+So does virtue scorch a loveless being.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७७</summary>
@@ -253,6 +310,14 @@ Like solar blaze the boneless worm.         77
 गृहेषु हृदये प्रें विना जीवन् मुच्यते ॥ ७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८</summary>
+
+००७८
+The life of a loveless soul is a sapless tree
+In a barren desert failing to shoot.
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८</summary>
 
 78\. aṉpu akattu illā uyir vāḻkkai vaṉpāṟkaṇ  
@@ -287,6 +352,14 @@ Can sapless tree in desert bloom?         78
 बाहयाङ्गसामवायेन फलं नैव भवेद् ध्रुवम् ॥ ७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७९</summary>
+
+००७९
+Of what avail is body frame - the external,
+To those who lack love - the internal?
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९</summary>
 
 79\. puṟattu uṟuppu ellām evaṉ ceyyum-yākkai  
@@ -319,6 +392,14 @@ Or vain the outer parts will prove.         79
 
 स देहो जीवसहित्ः यः प्रेमवशमागतः ।  
 चर्मावृतास्थिकृटःस्यात् प्रेम्णा विरहितस्तु यः ॥ ८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८०</summary>
+
+००८०
+The throb of life is love. Without it,
+Humans are bodies of bones clad with skin. *
+(J. Narayanaswamy), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८०</summary>

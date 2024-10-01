@@ -3,6 +3,7 @@ title = "०१ अरुळुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २४१</summary>
 
 अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्  
@@ -13,6 +14,14 @@ title = "०१ अरुळुडैमै"
 
 दयारूपं धनं सर्वधनादुत्तम मुच्यते ।  
 इतराणि धनानीह सन्ति नीचजनेष्वपि ॥ २४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २४१</summary>
+
+०२४१
+The wealth of wealth is the wealth of grace.
+Material wealth, even the mean possess. *
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४१</summary>
@@ -51,6 +60,14 @@ Earthly wealth e'en the basest has.        241
 सर्वशास्त्र परामर्शेदयैका साह्याकारिणी ॥ २४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २४२</summary>
+
+०२४२
+Obtain grace by seeking the path of goodness.
+That is the aid cited in all paths.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४२</summary>
 
 242\. nal āṟṟāṉ nāṭi aruḷ āḷka! pal āṟṟāṉ  
@@ -83,6 +100,14 @@ All faiths mark that for-salvation.        242
 
 अन्धकारमयं धोरं नरकं न भजन्ति ते ।  
 ये वै दयाद्रहृदया वर्तन्ते सर्वजन्तुषु ॥ २४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २४३</summary>
+
+०२४३
+Those who are kind-hearted enter not
+Into the terrible world of darkness.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४३</summary>
@@ -119,6 +144,14 @@ Into dark worlds of gruesome woe.        243
 नरो न लभते नूनं दुष्कर्म नरकप्रदम् ॥ २४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २४४</summary>
+
+०२४४
+Those who protect other life with kindness
+Need not fear for their own lives.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४४</summary>
 
 244\. 'maṉ uyir ōmpi, aruḷ āḷvāṟku il' eṉpa-  
@@ -151,6 +184,14 @@ Whose mercy serveth all beings.        244
 
 दयार्द्रहृदयो भूत्वा दुःखं नाप्नोति भूतले ।  
 निदर्शनं भवेदत्र लोकोऽयं प्राणिसङ्कुलः ॥ २४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २४५</summary>
+
+०२४५
+This great earth and its biosphere declare
+That sorrows are not for the merciful.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४५</summary>
@@ -187,6 +228,14 @@ Men of mercy meet not sorrows.        245
 धर्मत्यागागतं जन्मदुःखं नाद्यापि तैः स्मृतम् ॥ २४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २४६</summary>
+
+०२४६
+Those who do ill forsaking kindness, they say,
+Must be oblivious of forsaking morality.
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४६</summary>
 
 246\. 'poruḷ nīṅkip poccāntār' eṉpar-'aruḷ nīṅki  
@@ -219,6 +268,14 @@ The former loss and woes forget.        246
 
 वित्तहीनो न लभते इहलोके यथा सुखम् ।  
 परलोके न लभते दयाशून्यः सुखं तथा ॥ २४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २४७</summary>
+
+०२४७
+This world is not for the poor,
+Nor the next for the unkind.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४७</summary>
@@ -255,6 +312,14 @@ That world is not for graceless swines.        247
 निर्दयस्य कुतः सौख्यं न कदापि स वर्धते ॥ २४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २४८</summary>
+
+०२४८
+The poor may be rich one day,
+But the graceless will always lack grace.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४८</summary>
 
 248\. poruḷ aṟṟār pūppar orukāl; aruḷ aṟṟār  
@@ -289,6 +354,14 @@ The graceless never bloom agay.        248
 निर्दयः स्वकृताद्धर्मात्तथा न लभते फलम् ॥ २४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २४९</summary>
+
+०२४९
+The good acts of the graceless, if examined,
+Resemble the muddled head seeing Truth.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २४९</summary>
 
 249\. teruḷātāṉ meypporuḷ kaṇṭaṟṟāl-tēriṉ,  
@@ -321,6 +394,14 @@ Wisdom is vain in hearts unkind.        249
 
 यदा करुणया हीनो हिंसयेद्दुर्बलं तदा ।  
 स्वस्माद्वलीयसामग्रे चिन्तयेत् स्वभयस्थितिम् ॥ २५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २५०</summary>
+
+०२५०
+When you threaten one weaker than yourself,
+Think of yourself before a bully.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५०</summary>

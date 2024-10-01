@@ -3,6 +3,7 @@ title = "०१ पिरिवु आऱ्\u200cऱामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११५१</summary>
 
 सॆल्लामै उण्डेल् ऎनक्कुरै मट्रुनिन्  
@@ -13,6 +14,14 @@ title = "०१ पिरिवु आऱ्\u200cऱामै"
 
 वितोगाभावविषयो यदि स्याद् ब्रुहि तन्मम ।  
 वियुज्यागमनं चेत्तु वद तत् सहतां नृणाम् ॥ ११५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११५१</summary>
+
+११५१
+Tell me if you are not leaving. Bid farewell to those
+Who can survive to see your return.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५१</summary>
@@ -49,6 +58,14 @@ Your quick return to those who live.        1151
 वियोगभीतिं जनयेत् अद्य, जातोऽपि सङ्गमः ॥ ११५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११५२</summary>
+
+११५२
+His mere look was once a delight; but now
+Even his embrace saddens, fearing separation. *	
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५२</summary>
 
 1152 iṉkaṇ uṭaittavar pārval pirivañcum  
@@ -81,6 +98,14 @@ Embrace pains now by partings fear.        1152
 
 स्याद्वियोगः क्कचित साकं विश्वस्तेन प्रियेण च ।  
 तस्मात् प्रियेण रचितां प्रतिज्ञां नैव विश्वसेत् ॥ ११५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११५३</summary>
+
+११५३
+How hard it is to trust when even he who knows
+Breaks his word and goes!
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५३</summary>
@@ -117,6 +142,14 @@ While parting lurks in knowing ones?        1153
 प्रियस्य वचनं वक्तुर्दोषाय स्यात्, न श‍ृण्वतः ॥ ११५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११५४</summary>
+
+११५४
+How can I be blamed for trusting one
+Who left me after assuring “fear not”? *
+(K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५४</summary>
 
 1154 aḷittañcal eṉṟavar nīppiṉ teḷittacol  
@@ -149,6 +182,14 @@ Is my trust in him at default?        1154
 
 यथा प्रियेण विरहो न स्यात्कार्य तथा त्वया ।  
 वियोगे प्रथमं प्राप्ते सङ्गमो दुर्लभस्ततः ॥ ११५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११५५</summary>
+
+११५५
+If you would serve me, stop him going.
+Gone we shall not meet again.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५५</summary>
@@ -185,6 +226,14 @@ Meeting is rare if he would leave.        1155
 प्रत्यागत्य पुनः प्रीतिं स कथं दर्शयेत् त्वयि ॥ ११५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११५६</summary>
+
+११५६
+When he is stubborn to announce separation,
+It is futile to hope for reunion. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५६</summary>
 
 1156 pirivuraikkum vaṉkaṇṇar āyiṉ aritavar  
@@ -217,6 +266,14 @@ Is there hope of his renewed love?        1156
 
 कृशहस्तप्रकोष्ठाभ्यां निस्सृता वलयालयः ।  
 किं नायकवियोगं न कथयेयुर्जनान् प्रति ॥ ११५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११५७</summary>
+
+११५७
+Do not the bangles sliding down my arms
+Forebode the departure of my lord? *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५७</summary>
@@ -253,6 +310,14 @@ The parting of my lord betray?        1157
 प्रियनायकविश्लेषस्ततोऽपि व्यसनप्रदः ॥ ११५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११५८</summary>
+
+११५८
+It is bitter to live among strangers.
+Bitter still is to part with one's love. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५८</summary>
 
 1158 iṉṉātu iṉaṉilūr vāḻtal ataṉiṉum  
@@ -287,6 +352,14 @@ Worse is parting love's embrace!        1158
 कामरोगसमानोऽयं न दहेद् दूरवत्यपि ॥ ११५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११५९</summary>
+
+११५९
+Can fire, which hurts when touched,
+Hurt like the passion of love even untouched?
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११५९</summary>
 
 1159 toṭiṟcuṭiṉ allatu kāmanōy pōla  
@@ -319,6 +392,14 @@ Parting of the hearts love-sick?        1159
 
 अङ्गीकृत च विश्लेषमनवाप्य ततो व्यथाम् ।  
 सोढ्वा वियोगं जीवन्त्यः सन्त्यनेकाः स्त्रियो भुवि ॥ ११६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११६०</summary>
+
+११६०
+Strange how many can bear separation,
+Survive sorrow, and live!
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११६०</summary>

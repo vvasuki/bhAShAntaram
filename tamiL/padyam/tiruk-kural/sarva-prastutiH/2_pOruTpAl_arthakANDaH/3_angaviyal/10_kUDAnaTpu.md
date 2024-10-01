@@ -3,6 +3,7 @@ title = "१० कूडानट्पु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८२१</summary>
 
 सीरिडम् काणिन् ऎऱिदऱ्कुप् पट् टडै  
@@ -14,6 +15,14 @@ title = "१० कूडानट्पु"
 अधिकारः ८३. आन्तरस्नेहशून्यता  
 हार्दस्नेहविहीनस्य बाह्यस्नेहं वितन्वतः ।  
 मैत्री भग्ना भवेत् स्वर्णमयःखण्डगतं यथा ॥ ८२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८२१</summary>
+
+०८२१
+Posing friends treat you like an anvil
+To strike you at the opportune time. *
+(S.M. Diaz), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८२१</summary>
@@ -50,6 +59,14 @@ Is anvil in time, to strike you down.        821
 सौहार्दमङ्गनाचित्तसमं परिणतं भवेत् ॥ ८२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८२२</summary>
+
+०८२२
+Fickle as a woman's heart is the friendship of those
+Who act like friends.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२२</summary>
 
 822 iṉampōṉṟu iṉamallār kēṇmai makaḷir  
@@ -82,6 +99,14 @@ Their friendship's fickle like woman's heart.        822
 
 अधीतेष्वपि शास्त्रेषु हार्दमैत्र्या प्रवर्तनम् ।  
 नैव साध्यं भवेत्तेषां ये भवन्ति विरोधिनः ॥ ८२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८२३</summary>
+
+०८२३
+Hard for the ignoble to be good-hearted,
+No matter how well educated they are. *
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८२३</summary>
@@ -118,6 +143,14 @@ But heartfelt-love is hard for foes.        823
 वञ्चकस्य तु सौहर्दं दूरे कुरु भयान्वितः ॥ ८२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८२४</summary>
+
+०८२४
+Beware of those deceits who, with a smiling face,
+Conceal bitterness in their hearts.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२४</summary>
 
 824 mukattiṉ iṉiya nakāa akattuiṉṉā  
@@ -150,6 +183,14 @@ Whose heart is full of cunning guiles.        824
 
 कृत्वान्यभावं मनसि स्नेहमाचरतो बहिः ।  
 श्रुत्वा वार्तां च कार्येषु प्रवृत्तिर्न वरा मता ॥ ८२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८२५</summary>
+
+०८२५
+Trust not the mere words of those
+Whose minds don't agree with us. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८२५</summary>
@@ -186,6 +227,14 @@ Whose mind with your mind goes ill.        825
 अथापि तद्वचोभङ्ग्या तत्त्वं ज्ञायेत शीघ्रतः ॥ ८२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८२६</summary>
+
+०८२६
+A foe's words though seem friendly and good
+Can be read at once. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२६</summary>
 
 826 naṭṭārpōl nallavai colliṉum oṭṭārcol  
@@ -218,6 +267,14 @@ Though they speak like friends in fine.        826
 
 प्राप्यापि नम्रतां चापः स्वभावाद् दुःखदो यथा ।  
 विनयाढ्यं शत्रुवाक्यं तथानर्थकरं भवेत् ॥ ८२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८२७</summary>
+
+०८२७
+Trust not the bowing speech of your foe.
+A bending bow is a sign of imminent danger.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८२७</summary>
@@ -254,6 +311,14 @@ Danger darts from bending bows.        827
 तथा शत्रोरश्रुपातः क्रूरायुधसमो भवेत् ॥ ८२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८२८</summary>
+
+०८२८
+Like a dagger concealed in folded hands
+Is the mourning tears of foes. *
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२८</summary>
 
 828 toḻutakai yuḷḷum paṭaiyoṭuṅkum oṉṉār  
@@ -288,6 +353,14 @@ Their sobbing tears have lurking harms.        828
 तमेव मार्गमाश्रित्य तस्य मैत्रीं विनाशय ॥ ८२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८२९</summary>
+
+०८२९
+Cajole and crush with friendly guise
+Those who flatter you but despise within. *
+( Shuddhananda Bharatiar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८२९</summary>
 
 829 mikacceytu tammauḷu vārai nakacceytu  
@@ -320,6 +393,14 @@ Cajole and crush them in friendly guise.        829
 
 शत्रुभिः सह मैत्र्यां च प्रसक्तायां मुखे परम् ।  
 प्रसर्श्य मैत्रीं हार्दां तां मैत्रीं छिन्धि निरन्तरम् ॥ ८३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८३०</summary>
+
+०८३०
+While playing a friend to foes, keep a friendly face
+But banish them from thy heart.
+(J. Narayanaswamy), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८३०</summary>

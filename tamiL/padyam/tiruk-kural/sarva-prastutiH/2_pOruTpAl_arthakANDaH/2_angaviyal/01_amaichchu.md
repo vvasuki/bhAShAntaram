@@ -3,6 +3,7 @@ title = "०१ अमैच्चु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६३१</summary>
 
 करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्  
@@ -14,6 +15,14 @@ title = "०१ अमैच्चु"
 अधिकारः ६४. अमात्यः  
 उचितः समयः, कार्यसाधिके सैन्यसम्पदौ ।  
 क्रियाप्रकारस्तच्छ्रैष्ठ्यमिमे मन्त्रिगुणाः स्मृताः ॥ ६३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६३१</summary>
+
+०६३१
+Call him minister who best contrives the means,
+The time, the mode and the deed.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३१</summary>
@@ -52,6 +61,14 @@ Right means, time, mode and rare ventures.        631
 विद्येति पञ्चभिश्चैतैः सहितः सचिवो मतः ॥ ६३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६३२</summary>
+
+०६३२
+A minister excels in firmness, protection,
+Learning and perseverance, besides the five tactics. *
+(V. Ramasamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३२</summary>
 
 632\. vaṉkaṇ, kuṭikāttal, kaṟṟu aṟital, āḷviṉaiyōṭu  
@@ -84,6 +101,14 @@ Knowledge, firmness and manliness.        632
 
 रिपुपक्षजनत्यक्ता स्वपक्षजनरक्षकः ।  
 गातानां पुनरानेता भवेत् सचिवसत्तमः ॥ ६३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६३३</summary>
+
+०६३३
+An able minister can disunite allies,
+Cherish friends and reunite enemies. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३३</summary>
@@ -120,6 +145,14 @@ Divides foes and the parted blends.        633
 भावाविष्करणे धीरः सचिचश्रेष्ठ उच्यते ॥ ६३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६३४</summary>
+
+०६३४
+Call him a minister who comprehends things,
+Executes them and directs others. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३४</summary>
 
 634\. teritalum, tērntu ceyalum, orutalaiyāc  
@@ -152,6 +185,14 @@ Select and say surely one fact.        634
 
 राजधर्मे च निपुणः स्वशास्त्रार्थविशारदः ।  
 कालोचितमतिः कार्ये भवेत् सचिवसत्तमः ॥ ६३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६३५</summary>
+
+०६३५
+A helpful counsellor knows the codes,
+Is learned in discourse and ever resourceful.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३५</summary>
@@ -188,6 +229,14 @@ Right wisdom speaks, ever apt in acts.        635
 मन्त्रिणस्तस्य पुरतः किं कुर्युः शत्रुवञ्चनाः ॥ ६३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६३६</summary>
+
+०६३६
+What is there too subtle to stand before men
+Who add learning to their intelligence? *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३६</summary>
 
 636\. matinuṭpam nūlōṭu uṭaiyārkku ati nuṭpam  
@@ -220,6 +269,14 @@ The keen in brain with learned love?        636
 
 नीतिशास्त्रप्रकारेण न युक्तं कार्यसाधनम् ।  
 देशकालानुरोधेन कार्यसाधनमुत्तमम् ॥ ६३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६३७</summary>
+
+०६३७
+Even if well-versed in theory,
+Act as per the ways of the world. *
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३७</summary>
@@ -256,6 +313,14 @@ Act after knowing world's outlooks.        637
 नृपस्य समये तत्त्वकथनं मन्त्रिलक्षणम् ॥ ६३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६३८</summary>
+
+०६३८
+It is a minister's duty to advise aright
+Though the ruler in ignorance may refute wisdom.
+(P.S. Sundaram), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३८</summary>
 
 638\. aṟi koṉṟu, aṟiyāṉ eṉiṉum, uṟuti  
@@ -290,6 +355,14 @@ Though the ignorant king refutes.        638
 कोटिसप्ततिशत्रूणां मध्ये वासोऽपि साम्प्रतम् ॥ ६३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६३९</summary>
+
+०६३९
+Better seventy million open foes
+Than one treacherous minister inside. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६३९</summary>
 
 639\. paḻutu eṇṇum mantiriyiṉ, pakkattuḷ tev ōr  
@@ -322,6 +395,14 @@ Than a minister with mind bitter.        639
 
 स्मृत्वा यथावत्कार्याणि सम्यकू तत्कर्तुमुद्यतः ।  
 नैतानि पूर्णतां यान्ति सामर्थ्य न भवेद्यदि ॥ ६४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६४०</summary>
+
+०६४०
+The inefficient will leave undone
+Even well-planned schemes.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६४०</summary>

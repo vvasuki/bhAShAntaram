@@ -3,6 +3,7 @@ title = "०३ तवम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २६१</summary>
 
 उट्रनोय् नोण्ड्रल् उयिर्क्कुऱुगण् सॆय्यामै  
@@ -13,6 +14,14 @@ title = "०३ तवम्"
 
 उपवासादिदुःखानां सहनं जीवसन्त्तेः ।  
 दुःखानुत्पादनं चेति तपोलक्षणमुच्यते ॥ २६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २६१</summary>
+
+०२६१
+The characteristic of penance lies in
+Enduring hardships and harming no life.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६१</summary>
@@ -49,6 +58,14 @@ This is the type of true penance.        261
 तपः स्यादत्र निर्विघ्नं विपरीते वृथाश्रमः ॥ २६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २६२</summary>
+
+०२६२
+Penance is for the capable.
+It is futile for others to attempt it.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २६२</summary>
 
 262\. tavamum tavam uṭaiyārkku ākum; avam, ataṉai  
@@ -81,6 +98,14 @@ Not for him who in vain pretends.        262
 
 आहारादिप्रदानेन प्रशस्तानां तपस्विनाम् ।  
 गृहस्थाः साह्यमिच्छन्तो निवृत्तास्तपसः किमु ॥ २६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २६३</summary>
+
+०२६३
+Is it to support those who do penance
+That others have forgotten it?
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६३</summary>
@@ -117,6 +142,14 @@ That others austere path avoid?        263
 शक्तिःस्मरणमात्रेण महतां स्यात्तपोबलात् ॥ २६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २६४</summary>
+
+०२६४
+In penance lies the power
+To save friends and foil foes. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २६४</summary>
 
 264\. oṉṉārt teṟalum, uvantārai ākkalum,  
@@ -149,6 +182,14 @@ The friends and foil the foe and knave.        264
 
 तथैवाभीप्सितं सर्वे प्रयत्नाद्भाजन्मसु ।  
 लभ्यते हि गृहस्थेन तपः कर्तुमिह क्षणम् ॥ २६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २६५</summary>
+
+०२६५
+Men do penance in this world
+For the fulfillment of their desired desires. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६५</summary>
@@ -185,6 +226,14 @@ Here hence by men penance is done.        265
 आशापाशवशा हन्त क्लिश्यन्त इतरे जनाः ॥ २६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २६६</summary>
+
+०२६६
+While the austere are engaged in their duties,
+Others toil in vain ensnared by desire. *
+(N.V.K. Ashraf), (G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २६६</summary>
 
 266\. tavam ceyvār tam karumam ceyvār; maṟṟu allār  
@@ -217,6 +266,14 @@ Others desire-rid themselves harm.        266
 
 असकृद्वह्निसन्तप्तं सुवर्णे सुष्ठु राजते ।  
 तपः क्लेशितकायस्य ज्ञानं सम्यक् प्रकाशते ॥ २६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २६७</summary>
+
+०२६७
+As the intense fire makes gold shine,
+So does the burning austerities relieve pain.
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६७</summary>
@@ -253,6 +310,14 @@ and so the life by pain austere.        267
 सर्वे नरा नमस्यन्ति बहुमानपुरस्सरम् ॥ २६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २६८</summary>
+
+०२६८
+All souls will worship him who, losing his ego,
+Gets control of his own soul.
+(S. Maharajan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २६८</summary>
 
 268\. taṉ uyir tāṉ aṟap peṟṟāṉai ēṉaiya  
@@ -287,6 +352,14 @@ Who Master is by soul control.        268
 कालपाशविनिर्मुक्ताः प्राप्नुवन्ति परां गतिम् ॥ २६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २६९</summary>
+
+०२६९
+Those who have achieved the strength of penance
+Could defeat even the Lord of Death.
+(S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २६९</summary>
 
 269\. kūṟṟam kutittalum kaikūṭum-nōṟṟaliṉ  
@@ -319,6 +392,14 @@ Who get by penance godly strength.        269
 
 बहवस्तपसा हीनाः, विरलास्तु तपस्विनः ।  
 धनिकास्तेन विरला इतरे बहवोऽभवन् ॥ २७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २७०</summary>
+
+०२७०
+The have-nots outnumber the haves
+Because penance is not for the many.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २७०</summary>

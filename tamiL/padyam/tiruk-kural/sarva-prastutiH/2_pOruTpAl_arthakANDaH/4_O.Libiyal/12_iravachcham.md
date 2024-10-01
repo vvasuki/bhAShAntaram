@@ -3,6 +3,7 @@ title = "१२ इरवच्चम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०६१</summary>
 
 करवादु उवन्दीयुम् कण्णन्नार् कण्णुम्  
@@ -14,6 +15,14 @@ title = "१२ इरवच्चम्"
 अधिकारः १०७. याचनाभीतिः  
 कापट्यमन्तरा हर्षपूर्वकं दामकिरणम् ।  
 अग्रेऽपि याचनाभावः श्रेष्ठः कोटिगुणो मतः ॥ १०६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०६१</summary>
+
+१०६१
+It is worth millions not to beg
+Even from the precious ones who delight in giving.
+(J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०६१</summary>
@@ -50,6 +59,14 @@ E'en from eye-like friends who give with mirth.        1061
 लोककर्ता निर्दयोऽसौ स्वयं भवतु याचकः ॥ १०६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०६२</summary>
+
+१०६२
+If some must beg and live, let the Creator of the world
+Himself roam and perish!
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६२</summary>
 
 1062 irantum uyirvāḻtal vēṇṭiṉ parantu  
@@ -82,6 +99,14 @@ If "beg and live" be human fate.        1062
 
 दारिद्र्यं याचनान्नश्येदिति निर्णयकारिणा ।  
 यत्नशून्येन सदृशो मूर्खो नास्ति व्यथाकरः ॥ १०६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०६३</summary>
+
+१०६३
+No greater folly than the hope that
+Begging will rid the misery of poverty. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०६३</summary>
@@ -118,6 +143,14 @@ Nothing is hard like hard saying
 महत्वं सकलां पृथ्वीं समभिव्याप्य राजते ॥ १०६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०६४</summary>
+
+१०६४
+No place can hold the greatness of those
+Who don’t beg even during troubled times.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६४</summary>
 
 1064 iṭamellām koḷḷāt takaittē iṭamillāk  
@@ -150,6 +183,14 @@ Who beg not e'en in want acute.        1064
 
 स्वप्रयत्नबलावाप्तयवागूजलवस्तुनः ।  
 पानादप्यधिको मोददायको नास्ति कश्चन ॥ १०६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०६५</summary>
+
+१०६५
+There is nothing sweeter than even the watery gruel
+Earned by one's own labour. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०६५</summary>
@@ -186,6 +227,14 @@ Like the food earned by labour's sweat.        1065
 कर्मापि याचनाकर्तुः जिह्वाया दोषदं भवेत् ॥ १०६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०६६</summary>
+
+१०६६
+No greater disgrace for the tongue than to beg
+Even if only water for a cow.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६६</summary>
 
 1066 āviṟku nīreṉṟu irappiṉum nāviṟku  
@@ -218,6 +267,14 @@ Begging tongue is mean anyhow.        1066
 
 याचनीयं यदि भवेद्दातुः कपटिनः पुरः ।  
 न कार्या याचनेत्युक्त्वा याचेऽहं याचकान् प्रति ॥ १०६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०६७</summary>
+
+१०६७
+This I beg of all beggars,
+"If beg you must, beg not from misers."
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०६७</summary>
@@ -254,6 +311,14 @@ Not to beg from shrinking misers.        1067
 कापट्याख्यशिलाभूम्या घर्षिता शिथिला भवेत् ॥ १०६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०६८</summary>
+
+१०६८
+The hapless ship of begging will split
+The moment it strikes the rock of refusal. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६८</summary>
 
 1068 iravueṉṉum ēmāppil tōṇi karavueṉṉum  
@@ -288,6 +353,14 @@ On the rock of refusing hits.        1068
 कापट्यदोषस्मरणे न द्रवेत्, किन्तु नश्यति ॥ १०६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०६९</summary>
+
+१०६९
+The heart melts at the thought of begging
+And dies at the thought of denial.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६९</summary>
 
 1069 iravuḷḷa uḷḷam urukum karavuḷḷa  
@@ -320,6 +393,14 @@ It dies at repulsing insults.        1069
 
 नेति श्रवणमात्रेण प्राणो गच्छति चार्थिनाम् ।  
 स्थितेऽपि नेति ब्रुवतां प्राणश्छन्नो वसेत् किमु ॥ १०७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०७०</summary>
+
+१०७०
+Where will the niggard’s life seek refuge
+When the beggar’s life is taken by refusal?
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०७०</summary>

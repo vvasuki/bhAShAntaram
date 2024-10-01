@@ -3,6 +3,7 @@ title = "०५ कळ्ळामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २८१</summary>
 
 ऎळ्ळामै वेण्डुवान् ऎन्बान् ऎनैत्तॊण्ड्रुम्  
@@ -13,6 +14,14 @@ title = "०५ कळ्ळामै"
 
 परैरनिन्दितो लोके यो वै जीवितुमिच्छति ।  
 विना वस्त्वपहारेच्छां तेन रक्ष्यं सदा मनः ॥ २८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २८१</summary>
+
+०२८१
+Let him guard against every thought of fraud
+If he wishes not to be scorned.
+(V.V.S. Aiyar), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २८१</summary>
@@ -49,6 +58,14 @@ From all frauds guard his conscience free.        281
 अज्ञात्वैवापहर्तव्यमिति त्याज्या मतिस्ततः ॥ २८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २८२</summary>
+
+०२८२
+Even to harbour in mind
+The idea of defrauding another's wealth is sin.
+(M.S. Poornalingam Pillai)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २८२</summary>
 
 282\. uḷḷattāl uḷḷalum tītē; ‘piṟaṉ poruḷaik  
@@ -81,6 +98,14 @@ Even this thought is sin and stealth.        282
 
 चौर्यदुपार्जितं वित्तं प्रवृद्धमिव पश्यताम् ।  
 भूत्वा न्यायार्जितैर्वित्तैस्सह पश्चाद्विनश्यति ॥ २८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २८३</summary>
+
+०२८३
+Stolen wealth may seem to swell
+But in the end will burst.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २८३</summary>
@@ -117,6 +142,14 @@ But swift to ruin it shall go.        283
 पश्चात्कर्मेपरीपाके दद्यात् दुःखं हि शाश्वतम् ॥ २८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २८४</summary>
+
+०२८४
+The excessive love for fraudulent gain
+Leads to everlasting pain. *
+(Kasthuri Sreenivasan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २८४</summary>
 
 284\. kaḷaviṉkaṇ kaṉṟiya kātal viḷaiviṉkaṇ  
@@ -149,6 +182,14 @@ Shall end in endless grief and pain.        284
 
 चौर्यमाचरितुं युक्तकालं यस्तु प्रतीक्षते ।  
 सर्व भूतदयायां स स्नेहयुक्तो न जायते ॥ २८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २८५</summary>
+
+०२८५
+Love and grace are alien virtues to one
+Who plots for innocent's wealth. *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २८५</summary>
@@ -185,6 +226,14 @@ Who watch to waylay dozer's wealth.        285
 व्ययीकृत्य मितं वित्तं जीवन्ति न हि ते सुखम् ॥ २८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २८६</summary>
+
+०२८६
+Those who love stealing
+Can never be content with what they have.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २८६</summary>
 
 286\. aḷaviṉkaṇ niṉṟu oḻukalāṟṟār-kaḷaviṉkaṇ  
@@ -217,6 +266,14 @@ who crave and have covetous ends.        286
 
 आत्मानात्म विवेकादौ समर्थानां मनीषिणाम् ।  
 चौर्य कारणमज्ञानं जायते न कदाचन ॥ २८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २८७</summary>
+
+०२८७
+Those gifted with the faculty of contentment
+Never have that shady skill called fraud.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २८७</summary>
@@ -253,6 +310,14 @@ Black art of fraud and what it won.        287
 अभ्यस्त चौर्य विद्यानां चित्ते स्याद्वञ्चना स्थिरा ॥ २८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २८८</summary>
+
+०२८८
+As virtue in the hearts of the righteous,
+Deceit dwells in the hearts of thieves. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २८८</summary>
 
 288\. aḷavu aṟintār neñcattu aṟampōla, niṟkum,  
@@ -287,6 +352,14 @@ Into minds of frauds deceit darts.        288
 अकृत्यमधिकं कृत्वा सद्यो नश्यन्ति ते ध्रुवम् ॥ २८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २८९</summary>
+
+०२८९
+Discontented men who know nothing but fraud
+Perish as and when they corrupt.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २८९</summary>
 
 289\. aḷavu alla ceytu, āṅkē vīvar-kaḷavu alla  
@@ -319,6 +392,14 @@ Who know nothing but pilfery.        289
 
 जीवनं स्पष्टमाकृत्या चोराणामिह दुर्लभम् ।  
 चौर्यकर्मविहीनानां स्वर्गेऽपि सुलभायते ॥ २९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २९०</summary>
+
+०२९०
+Even life abandons him who defrauds others,
+But heaven never forsakes the honest. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २९०</summary>

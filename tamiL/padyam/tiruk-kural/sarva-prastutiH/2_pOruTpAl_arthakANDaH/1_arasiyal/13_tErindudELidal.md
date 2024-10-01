@@ -3,6 +3,7 @@ title = "१३ तॆरिन्दुदॆळिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५०१</summary>
 
 अऱम्बॊरुळ् इन्बम् उयिरच्चम् नान्गिन्  
@@ -13,6 +14,14 @@ title = "१३ तॆरिन्दुदॆळिदल्"
 
 धर्मकामार्थभीत्याद्यैः उपायैः सुपरीक्ष्य तान् ।  
 लब्धप्रत्ययवान् भूपः कार्ये भ्रुत्यान् नियोजयेत् ॥ ५०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५०१</summary>
+
+०५०१
+Before you trust, test people's attitude to these four:
+Virtue, wealth, love and survival. *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५०१</summary>
@@ -49,6 +58,14 @@ Test by these four and trust the true.        501
 एतैर्गुणैतान् राजा विश्वसेन्निजसेवकान् ॥ ५०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५०२</summary>
+
+०५०२
+Noble heritage, freedom from faults and shame of blame
+Are some norms to choose.
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५०२</summary>
 
 502\. kuṭip piṟantu, kuṟṟattiṉ nīṅki, vaṭup pariyum  
@@ -81,6 +98,14 @@ Shamed of stain-that choice is worth.        502
 
 पूर्वोक्तदोषशून्येषु पण्डिताग्रेसरेष्वपि ।  
 विचार्यमाणेत्वज्ञानं नूनं द्रष्टुं हि शक्यते ॥ ५०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५०३</summary>
+
+०५०३
+Even the widely-read and faultless, when scrutinized,
+Are rarely found free of ignorance.
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५०३</summary>
@@ -117,6 +142,14 @@ Rare is freedom from ignorance.        503
 ग्राह्यः स्याद् गुणभूयिष्ठः त्याज्यो विविधदोषभाक् ॥ ५०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५०४</summary>
+
+०५०४
+Weigh a man's merits and also his defects.
+Whichever weighs more is his nature.
+(V.V.S. Aiyar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५०४</summary>
 
 504\. kuṇam nāṭi, kuṟṟamum nāṭi, avaṟṟuḷ  
@@ -149,6 +182,14 @@ Judge him by virtues which prevail.        504
 
 महत्वं कस्यचित् पुंसो नीचत्वमपरस्य च ।  
 ज्ञातुं तयोर्वृत्तिरेव निकषोपलतां व्रजेत् ॥ ५०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५०५</summary>
+
+०५०५
+A man's deeds are the touchstone of his
+Greatness and littleness.
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५०५</summary>
@@ -185,6 +226,14 @@ If any one is great or mean.        505
 बन्धुबन्धविहीनत्वात् न निन्दां गणयन्ति ते ॥ ५०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५०६</summary>
+
+०५०६
+Choose not men who have no kindred.
+With no bonds to restrain, they dread no shame. *
+(P.S. Sundaram), (G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५०६</summary>
 
 506\. aṟṟārait tēṟutal ōmpuka; maṟṟu avar  
@@ -217,6 +266,14 @@ Without affine or shame of sin.        506
 
 कृत्वा प्रत्ययमज्ञेषु तेषां कार्ये नियोजनात् ।  
 न केवलं कार्यहानिरज्ञतां विन्दते नृपः ॥ ५०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५०७</summary>
+
+०५०७
+To favour and select the incompetent out of love,
+Leads to folly in all forms. *
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५०७</summary>
@@ -253,6 +310,14 @@ Folly in all its forms ensues.        507
 न केवलमयं नश्येत् किन्तु भाविपरम्परा ॥ ५०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५०८</summary>
+
+०५०८
+To choose a stranger untried
+Will trouble one's line without end.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५०८</summary>
 
 508\. tērāṉ, piṟaṉait teḷintāṉ vaḻimuṟai  
@@ -287,6 +352,14 @@ Endless troubles on all our kins.        508
 अविश्वासं विना तेषां युक्तं कार्येषु योजनम् ॥ ५०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५०९</summary>
+
+०५०९
+Trust none untried, and after trial
+Entrust him with the trusted job.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५०९</summary>
 
 509\. tēṟaṟka yāraiyum, tērātu; tērnta piṉ,  
@@ -319,6 +392,14 @@ Find proper work for trusted men.        509
 
 अविमृश्यैव विश्वासः विमृष्टस्य परिग्रहे ।  
 अविश्वासः इतीत्येतदुभयं खेददायकम् ॥ ५१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५१०</summary>
+
+०५१०
+Trusting those untested and suspecting those tested,
+Both lead to endless trouble. *
+(K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५१०</summary>

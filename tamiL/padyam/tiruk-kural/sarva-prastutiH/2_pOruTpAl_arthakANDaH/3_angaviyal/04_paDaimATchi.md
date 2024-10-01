@@ -3,6 +3,7 @@ title = "०४ पडैमाट्चि"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७६१</summary>
 
 उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दन्  
@@ -14,6 +15,14 @@ title = "०४ पडैमाट्चि"
 अधिकारः ७७. सैन्यप्रयोजनम्  
 चतुरङ्गसमायुक्तं मृतिभीतिविवर्जितम् ।  
 सैन्यं जयप्रदं राज्ञामुत्तं भाग्यमुच्यते ॥ ७६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७६१</summary>
+
+०७६१
+A well organized army unafraid of obstacles
+Is a ruler's greatest of all possessions.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६१</summary>
@@ -50,6 +59,14 @@ Is king's treasure and main resource.        761
 स्थातुं शक्नोति तत् सैन्यं यन्मूलबलसंज्ञितम् ॥ ७६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७६२</summary>
+
+०७६२
+Only seasoned armies show courage in dire straits,
+To stand fearless despite decimation.
+(P.S. Sundaram), (K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६२</summary>
 
 762\. ulaivu iṭattu ūṟu añcā vaṉkaṇ, tolaivu iṭattu,  
@@ -82,6 +99,14 @@ Quailing not in fall, the field.        762
 
 मृषका मिलिताः शब्दं कुर्वन्तु भुजगान्तिके ।  
 वृथा तद् भुजगोच्छवासस्पर्शान्नश्यन्ति ते क्षणात् ॥ ७६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७६३</summary>
+
+०७६३
+So what if an army of rats roar like the sea?
+The hiss of a cobra will silence it.
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६३</summary>
@@ -118,6 +143,14 @@ They perish at a cobra's whiff.        763
 परम्परागता धैर्ययुता सेनेति कथ्यते ॥ ७६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७६४</summary>
+
+०७६४
+A true army has a long tradition of valour
+And knows neither defeat nor desertion. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६४</summary>
 
 764\. aḻivu iṉṟu, aṟaipōkātu āki, vaḻivanta  
@@ -150,6 +183,14 @@ Not crushed, routed nor marred in name.        764
 
 युद्धं करोतु कुपितः स्वयमागत्य चान्तकः ।  
 स्थातुं धैर्येण तस्याग्रे या शक्ता सैव वाहिनी ॥ ७६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७६५</summary>
+
+०७६५
+A capable army stands together and defies
+Even if yama attacks in fury. *
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६५</summary>
@@ -186,6 +227,14 @@ Resists even Death-God fierce.        765
 राजविश्वसपात्रत्वं चत्वारः सैन्यगा गुणाः ॥ ७६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७६६</summary>
+
+०७६६
+Valour, honour, tradition of chivalry and credibility;
+These four alone are an army's safeguards. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६६</summary>
 
 766\. maṟam, māṉam, māṇṭa vaḻic celavu, tēṟṟam,  
@@ -218,6 +267,14 @@ Stately-march, faith, honour, valour.        766
 
 प्राप्तारिवारणोपायं बुद्ध्वा व्युहं विद्याय च ।  
 रिपुसैन्यविनाशाय प्रस्थानं सैन्यलक्षणम् ॥ ७६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७६७</summary>
+
+०७६७
+An army should withstand and confound
+The foe's tactics, and advance.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६७</summary>
@@ -254,6 +311,14 @@ Knowing how the trend of war goes.        767
 अभयं मास्तु वा व्यूहमात्रात् सेना वरा भवेत् ॥ ७६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७६८</summary>
+
+०७६८
+Even if lacking in virtue of offence and defence,
+An army can gain fame by virtue of its size
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६८</summary>
 
 768\. aṭaltakaiyum, āṟṟalum, il eṉiṉum, tāṉai  
@@ -288,6 +353,14 @@ Lacking in stay or dash in fray.        768
 द्वयं न स्याद्यादि तदा स्वल्पा सेनापि जेष्यति ॥ ७६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७६९</summary>
+
+०७६९
+An army can triumph if it is free from diminution,
+Irrevocable aversion and poverty. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७६९</summary>
 
 769\. ciṟumaiyum, cellāt tuṉiyum, vaṟumaiyum,  
@@ -320,6 +393,14 @@ From weakness, aversion, poverty.        769
 
 चिरानुभवशीलैश्च वीरैर्युक्तापि वाहिनी ।  
 सेनापतिविहीना सा महिमानं न विन्दते ॥ ७७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७७०</summary>
+
+०७७०
+However many and solid the soldiers,
+An army without a chief will lose its way. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७७०</summary>

@@ -3,6 +3,7 @@ title = "११ पेदैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८३१</summary>
 
 पेदैमै ऎन्बदॊण्ड्रु यादॆनिन् एदङ्गॊण्डु  
@@ -14,6 +15,14 @@ title = "११ पेदैमै"
 अधिकारः ८४. मौढ्यम्  
 क्षेमदायककार्यस्यपरित्यागस्तथैव च ।  
 अनर्थप्रदकार्यस्य स्वीकारो मौढ्यलक्षणम् ॥ ८३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८३१</summary>
+
+०८३१
+If there is a thing called folly,
+It is seizing what brings ill and letting the good slip. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८३१</summary>
@@ -50,6 +59,14 @@ To favour loss and forego gain.        831
 यच्छास्त्रनिन्दिते हेये दुराचारे तु भोग्यधीः ॥ ८३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८३२</summary>
+
+०८३२
+Folly among follies is the fondness for doing things
+Beyond one's reach. *
+(J. Narayanaswamy), (C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८३२</summary>
 
 832 pētaimaiyuḷ ellām pētaimai kātaṉmai  
@@ -82,6 +99,14 @@ A lewd and lawless life so bad.        832
 
 लज्जाविहीनता प्रेमशून्यता श्रेष्ठवस्तुनि ।  
 नैराश्यं निर्विवेकत्वमिमे मौढ्यगुणा मताः ॥ ८३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८३३</summary>
+
+०८३३
+Shamelessness, aimlessness, callousness and listlessness
+Are marks of foolishness. *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८३३</summary>
@@ -118,6 +143,14 @@ Such are the marks of foolishness.        833
 यस्तु नाचरते तेन समो मूढो न विद्यते ॥ ८३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८३४</summary>
+
+०८३४
+There is no greater fool than he
+Who has studied and taught, but lacks control.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८३४</summary>
 
 834 ōti uṇarntum piṟarkkuraittum tāṉaṭaṅkāp  
@@ -150,6 +183,14 @@ Knows, teaches, but self-control spurns.        834
 
 यत्यापं नरकं दद्यात् भावि सप्तसु जन्मसु ।  
 तत्पापमखिलं म्ढः करोत्यत्रैव जन्मनि ॥ ८३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८३५</summary>
+
+०८३५
+A fool does deeds in a single birth
+That will plunge him in hell in the succeeding seven.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८३५</summary>
@@ -186,6 +227,14 @@ In single birth of hellish ills.        835
 विघ्नितं नैति पूर्णत्वं कर्तारमपि नाशयेत् ॥ ८३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८३६</summary>
+
+०८३६
+When a half-baked fool takes on a task,
+The task is undone, and so is he! *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८३६</summary>
 
 836 poypaṭum oṉṟō puṉaipūṇum kaiyaṟiyāp  
@@ -218,6 +267,14 @@ Not only fails but feels fettered.        836
 
 मूढस्य यदि लभ्येत् धनं तेन परे जनाः ।  
 प्राप्नुयुः सकलं सौख्यं न लाभो बन्धुमित्रयोः ॥ ८३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८३७</summary>
+
+०८३७
+Should a fool get hold of a great fortune,
+Strangers will feast while his kindred starve. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८३७</summary>
@@ -254,6 +311,14 @@ When fools mishandle fortunes vast.        837
 या तून्मादकरावस्था मूढः प्राप्नोति तां दशाम् ॥ ८३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८३८</summary>
+
+०८३८
+A fool getting hold of wealth
+Is like a lunatic getting drunk.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८३८</summary>
 
 838 maiyal oruvaṉ kaḷittaṟṟāl pētaitaṉ  
@@ -288,6 +353,14 @@ Like dazed and drunken stupids stand.        838
 तस्मान्मूढेन मैत्री तु भवेदानन्दायिनी ॥ ८३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८३९</summary>
+
+०८३९
+Sweet indeed is a fool's friendship,
+For when it breaks there is no pain.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८३९</summary>
 
 839 peritiṉitu pētaiyār kēṇmai piriviṉkaṇ  
@@ -320,6 +393,14 @@ For without a groan we part.        839
 
 अमेध्यस्पृष्टपादस्य पर्यङ्के क्षालनं विना ।  
 निक्षेपतुल्यं, मूढस्य विद्वद्गोष्ठीप्रवेशनम् ॥ ८४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८४०</summary>
+
+०८४०
+A fool's entry into a learned assembly
+Is like entering a shrine with unclean legs.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८४०</summary>

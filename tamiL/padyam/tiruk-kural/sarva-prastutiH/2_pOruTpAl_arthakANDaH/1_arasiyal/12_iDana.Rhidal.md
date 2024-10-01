@@ -3,6 +3,7 @@ title = "१२ इडनऱिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४९१</summary>
 
 तॊडङ्गऱ्क ऎव्विनैयुम् ऎळ्ळऱ्क मुट्रुम्  
@@ -13,6 +14,14 @@ title = "१२ इडनऱिदल्"
 
 समरे निजसैन्यानां स्थपनार्हस्थलीं स्थिराम् ।  
 अनिश्चित्य न कुर्वीत युद्ध शत्रुं न द्वषयेत् ॥ ४९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४९१</summary>
+
+०४९१
+Don't despise your foe, nor start any action
+Till you find a place to besiege him. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९१</summary>
@@ -49,6 +58,14 @@ Until you have surveyed the place.        491
 यो जयः प्राप्यते राज्ञा स तु सर्वार्थसाधकः ॥ ४९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४९२</summary>
+
+०४९२
+A fortress gives numerous advantages
+Even to men of strength and valour. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४९२</summary>
 
 492\. muraṇ cērnta moympiṉavarkkum araṇ cērntu ām  
@@ -81,6 +98,14 @@ Ev'n to kings of power and prowess.        492
 
 लब्ध्वा सुरक्षितं देशमात्मानं चापि पालयन् ।  
 रणभूमिं विशन् राजा दुर्बलोऽपि बली भवेत् ॥ ४९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४९३</summary>
+
+०४९३
+Even the weak can fight enemies with determination
+If they choose the right place.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९३</summary>
@@ -117,6 +142,14 @@ In proper fields of strong defence.        493
 यो विशेद् भूपतिस्तस्य नष्टाशाः स्युर्विरोधिनः ॥ ४९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४९४</summary>
+
+०४९४
+When fighters fight from strategic locations,
+Enemies lose their strategic plans.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४९४</summary>
 
 494\. eṇṇiyār eṇṇam iḻappar-iṭaṉ aṟintu  
@@ -149,6 +182,14 @@ The plans of foes shall be baffled.        494
 
 अगाधसलिलावासो नक्नः सर्वान् जयेद् ध्रुवम् ।  
 स एव तीरमापन्नो हन्यते दुर्बलैरपि ॥ ४९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४९५</summary>
+
+०४९५
+A crocodile prevails in deep waters;
+But when out of water, others prevail over it.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९५</summary>
@@ -185,6 +226,14 @@ In land before others it fails.        495
 महीतले न प्रयान्ति नौका जलधिगामिनः ॥ ४९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४९६</summary>
+
+०४९६
+A mighty chariot cannot run in the sea,
+Nor a boat navigate land.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४९६</summary>
 
 496\. kaṭal ōṭā, kāl val neṭun tēr; kaṭal ōṭum  
@@ -217,6 +266,14 @@ Nor on sea the strong-wheeled car.        496
 
 विमृश्य विविधोपायान् स्थले युक्ततमे वरे ।  
 कार्यमाचरतो राज्ञः चित्तधैर्यमलं जये ॥ ४९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४९७</summary>
+
+०४९७
+No other aid than courage is needed
+If one ponders from which place to pounce.
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९७</summary>
@@ -253,6 +310,14 @@ When field is chosen right for deed.        497
 समक्षं बहुसैन्यानामीशोऽपि लयमाप्नुयात् ॥ ४९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४९८</summary>
+
+०४९८
+A large army will lose its morale
+If driven to a place meant for a small one.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४९८</summary>
 
 498\. ciṟu paṭaiyāṉ cel iṭam cēriṉ, uṟu paṭaiyāṉ  
@@ -287,6 +352,14 @@ One quells a foe of well-armed might.        498
 जेतुं न शक्यो भूपालः स्वस्थले निवसेद्यदि ॥ ४९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४९९</summary>
+
+०४९९
+Men on their own ground are hard to tackle
+Even when they lack fortress and strength.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४९९</summary>
 
 499\. ciṟai nalaṉum cīrum ilar eṉiṉum, māntar  
@@ -319,6 +392,14 @@ Though fort and status are not fine.        499
 
 शूलहस्तमहावीरहन्तृदन्तयुतोऽपि सन् ।  
 पङ्कं विशन् मदगजः सृगालेनापि हन्यते ॥ ५००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५००</summary>
+
+०५००
+A fearless tusker that defies spearman, if caught in a bog,
+Will be overcome by jackals. *
+(J. Narayanaswamy), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५००</summary>

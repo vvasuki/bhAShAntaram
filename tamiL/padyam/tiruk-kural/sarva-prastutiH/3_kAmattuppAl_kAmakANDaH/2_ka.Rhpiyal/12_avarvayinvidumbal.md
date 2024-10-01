@@ -3,6 +3,7 @@ title = "१२ अवर्वयिन्विदुम्बल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२६१</summary>
 
 वाळट्रुप् पुऱ्कॆण्ड्र कण्णुम् अवर्सॆण्ड्र  
@@ -13,6 +14,14 @@ title = "१२ अवर्वयिन्विदुम्बल्"
 
 प्रियगमपथं प्रेक्ष्य नेत्रे स्यातं च निष्प्रभे ।  
 गाताह्नां गणनात् स्त्रीणामङ्गुल्यः क्षीणतां गताः ॥ १२६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२६१</summary>
+
+१२६१
+My eyes have lost their glow and my fingers worn out
+Marking the days of his absence. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२६१</summary>
@@ -49,6 +58,14 @@ Worn fingers count days since he left.        1261
 स्कन्धाभ्यां हीनशोभाभ्यां स्त्रस्ताः स्युर्वलयास्तदा ॥ १२६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२६२</summary>
+
+१२६२
+What if I forget him now, my bright jewel?
+For it costs my beauty and armlets! *
+(K.R. Srinivasa Iyengar), (S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६२</summary>
 
 1262 ilaṅkiḻāy iṉṟu maṟappiṉeṉ tōḷmēl  
@@ -81,6 +98,14 @@ Why not forget him now, bright maid?        1262
 
 जयैषी धैर्यसाह्येन प्रियो देशान्तरं ययौ ।  
 अहमद्यापि जीवामि तदागमनकाङ्क्ष्या ॥ १२६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२६३</summary>
+
+१२६३
+He parted from me longing for conquests;
+And if I live yet, it is longing for his return. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२६३</summary>
@@ -117,6 +142,14 @@ Yet I live-to see him again.        1263
 इति मत्वा मनो वृक्षशाखामास्थाय पश्यति ॥ १२६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२६४</summary>
+
+१२६४
+The thought of reunion when my love returns
+Makes my heart burgeon higher and higher.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६४</summary>
 
 1264 kūṭiya kāmam pirintār varavuḷḷik  
@@ -149,6 +182,14 @@ His retun with love to embrace me.        1264
 
 पश्येयं तु यथेच्छं तं प्रिये प्रत्यागते सति ।  
 तदा क्षीणभुजाभ्यां तु वैवर्ण्यमपयास्यति ॥ १२६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२६५</summary>
+
+१२६५
+Pallor will soon disappear from my slim shoulders,
+Once my eyes feast seeing him.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२६५</summary>
@@ -185,6 +226,14 @@ sallow on my soft shoulders flies.        1265
 दुःखव्याधिर्यथा नश्येत् पिबेयं तत्प्रभां तथा ॥ १२६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२६६</summary>
+
+१२६६
+Enough if he returns for a day,
+I will gorge him till all my ills vanish.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६६</summary>
 
 1266 varukamaṉ koṇkaṉ orunāḷ parukuvaṉ  
@@ -217,6 +266,14 @@ Joy-drink shall drive my pain away.        1266
 
 नेत्रतुल्यः कामुको मे यद्यागच्छेन्मदन्तिकम् ।  
 आलिङ्गनमुत त्यागो सम्भोगो वा तदा भवेत् ॥ १२६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२६७</summary>
+
+१२६७
+When he, dear as my eyes, returns,
+Should I frown or embrace him or do both? *
+(K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२६७</summary>
@@ -253,6 +310,14 @@ Shall I sulk or clasp or do both?        1267
 सपत्नीका वयं कुर्मः सायं सन्ध्यामलङ्कृताम् ॥ १२६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२६८</summary>
+
+१२६८
+May the king succeed in his efforts!
+I can then join my wife and party in the evenings.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६८</summary>
 
 1268 viṉaikalantu veṉṟīka vēntaṉ maṉaikalantu  
@@ -287,6 +352,14 @@ And with my wife I will feast this eve!        1268
 वियुक्तायास्तदेकं तु दिनं सप्तदिनं भवेत् ॥ १२६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२६९</summary>
+
+१२६९
+Even a day will seem seven to those
+Who long for the day of their mate’s return.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६९</summary>
 
 1269 orunāḷ eḻunāḷpōl cellumcēṇ ceṉṟār  
@@ -319,6 +392,14 @@ Who yearn return of distant spouse.        1269
 
 भग्रचित्ता कामुकी सा जीवितान्तं व्रजेद्यदि ।  
 प्रियागमेन नो लाभः संश्लेषो वा भवेत् कथम्? ॥ १२७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२७०</summary>
+
+१२७०
+To one dead of a broken heart, what avails my return,
+Meeting or even embrace?
+(V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२७०</summary>

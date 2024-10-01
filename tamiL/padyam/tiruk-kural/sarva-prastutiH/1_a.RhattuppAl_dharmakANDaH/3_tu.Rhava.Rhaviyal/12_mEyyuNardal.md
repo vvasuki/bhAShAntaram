@@ -3,6 +3,7 @@ title = "१२ मॆय्युणर्दल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ३५१</summary>
 
 पॊरुळल्ल वट्रैप् पॊरुळॆण्ड्रु उणरुम्  
@@ -13,6 +14,14 @@ title = "१२ मॆय्युणर्दल्"
 
 असत्यं सत्यमित्येव पश्यद्भिर्भ्रममूलतः ।  
 प्राप्यते जन्म चाज्ञानात् गर्हितं दुःखदायकम् ॥ ३५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३५१</summary>
+
+०३५१
+The misery of birth arises out of the delusion
+Which takes the unreal for the Real. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३५१</summary>
@@ -49,6 +58,14 @@ Which deems vain things as things of worth.        351
 जन्मदुःखमलब्ध्वैव प्राप्यते ब्रह्मणः पदम् ॥ ३५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३५२</summary>
+
+०३५२
+Darkness disappears and bliss descends
+Upon men of clear vision and free of delusion. *
+(S. Maharajan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३५२</summary>
 
 352\. iruḷ nīṅki iṉpam payakkum-maruḷ nīṅki  
@@ -81,6 +98,14 @@ Enjoy delight devoid of night.        352
 
 असंशयमधीत्यात स्तत्त्वज्ञान मुपेयुषाम् ।  
 भूलोकादपि दूरस्थमत्के स्याह्ब्रह्मणः पदम् ॥ ३५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३५३</summary>
+
+०३५३
+To those enlightened souls freed of doubt,
+More than earth is heaven near.
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३५३</summary>
@@ -117,6 +142,14 @@ More than earth heaven is near.        353
 स्थापनेनापि किं कार्ये तत्त्वज्ञानं न चेद्भवेत् ॥ ३५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३५४</summary>
+
+०३५४
+Where a sense of the Real is lacking,
+The other five senses are useless.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३५४</summary>
 
 354\. aiuṇarvu eytiyak kaṇṇum payam iṉṟē-  
@@ -149,6 +182,14 @@ Without knowing the Truth within.        354
 
 तेषु तेषु पदार्थेषु पदार्थान्तर विभ्रमम् ।  
 विहाय तत्त्वतो ज्ञानं तत्त्वज्ञानमितीर्यते ॥ ३५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३५५</summary>
+
+०३५५
+Wisdom is to ascertain the reality
+In whatever way things are presented.
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३५५</summary>
@@ -185,6 +226,14 @@ In every case of every kind.        355
 तत्त्वार्थज्ञान सम्पन्ना यान्ति मोक्षपथं स्थिरम् ॥ ३५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३५६</summary>
+
+०३५६
+Those who have learnt to see the reality here
+Will have learnt not to come back here.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३५६</summary>
 
 356\. kaṟṟu īṇṭu meypporuḷ kaṇṭār talaippaṭuvar,  
@@ -217,6 +266,14 @@ Enter the path of non-return.        356
 
 श्रुतार्थस्य परामर्शात् तत्त्वमाघं विजानतः ।  
 जन्मास्य पुनरस्तीति न मन्तव्यं कदाचन ॥ ३५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३५७</summary>
+
+०३५७
+Reality once searched and seized,
+No need to think of rebirth.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३५७</summary>
@@ -253,6 +310,14 @@ He is free from thoughts of rebirth.        357
 ब्रह्मणो दर्शनं यत्तु तत्त्वज्ञानं तदुच्यते ॥ ३५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३५८</summary>
+
+०३५८
+Wisdom lies in realizing that unique Reality
+To remove the folly of rebirth.
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३५८</summary>
 
 358\. piṟappu eṉṉum pētaimai nīṅka, ciṟappu eṉṉum  
@@ -287,6 +352,14 @@ And remove the folly of birth.        358
 जन्ममृत्युमयं दुःखं न जायेत कदाचन ॥ ३५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३५९</summary>
+
+०३५९
+To one who does not cling, realizing what to cling,
+Clinging ills will not cling. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३५९</summary>
 
 359\. cārpu uṇarntu, cārpu keṭa oḻukiṉ, maṟṟu aḻittuc  
@@ -319,6 +392,14 @@ Be free from ills of thraldom, O sage.        359
 
 कामः क्रोधस्तथाऽज्ञानमिति दोषास्त्रयो हृदि ।  
 नाम्नापि न भवेयुश्वेद्भवदुःखं विनश्यति ॥ ३६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३६०</summary>
+
+०३६०
+Lust, wrath and delusion: Where these three are unknown,
+Sorrows shall not be. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३६०</summary>

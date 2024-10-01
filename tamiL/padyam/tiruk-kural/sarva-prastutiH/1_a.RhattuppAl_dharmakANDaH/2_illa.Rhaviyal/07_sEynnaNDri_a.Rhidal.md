@@ -3,6 +3,7 @@ title = "०७ सॆय्न्नण्ड्रि अऱिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०१</summary>
 
 सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्  
@@ -13,6 +14,14 @@ title = "०७ सॆय्न्नण्ड्रि अऱिदल्"
 
 अस्माभिरकृते साह्ये यस्तु साह्यं करोति नः ।  
 लोकद्वयप्रदानेऽपि तस्य नास्ति प्रतिक्रिया ॥ १०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०१</summary>
+
+०१०१
+Neither earth nor heaven can truly repay
+Spontaneous aid.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०१</summary>
@@ -49,6 +58,14 @@ Exceeds in worth earth and heaven.         101
 तदेव कालमेदेन् महत् स्याद् भुवनादपि ॥ १०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०२</summary>
+
+०१०२
+A timely help, though small,
+Is of greater value than all the earth.
+(S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२</summary>
 
 102\. kālattiṉāl ceyta naṉṟi ciṟitu eṉiṉum,  
@@ -81,6 +98,14 @@ Though small is greater than the world.         102
 
 अनालोच्य प्रतिफलं साह्यं प्रेम्णा विनिर्मितम् ।  
 विमृष्ट सत् समुद्रादप्यधिकं स्यान्न संशयः ॥ १०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०३</summary>
+
+०१०३
+The help given without weighing the return,
+When weighed, outweighs the sea.
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०३</summary>
@@ -117,6 +142,14 @@ Outweighs the sea in grand effects.         103
 तालवृक्षादपि महत् तन्मन्यन्ते नरोत्तमाः ॥ १०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०४</summary>
+
+०१०४
+To the discerning even millet of aid
+Is as big as a palm tree. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४</summary>
 
 104\. tiṉait tuṇai naṉṟi ceyiṉum, paṉait tuṇaiyāk  
@@ -149,6 +182,14 @@ Knowers count its good palm- tree tall.         104
 
 कृते च प्रतिकर्तव्यं स्वीयशक्तयनुसारतः ।  
 प्राप्तलाभानुसारेण प्रतिकारो विगह्र्यते ॥ १०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०५</summary>
+
+०१०५
+Not according to the aid but its receiver
+Is its recompense determined.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५</summary>
@@ -185,6 +226,14 @@ It is gainer's worth and pleasure.         105
 आपत्सहायभूतनां मैत्रीं नैव परित्यजेत् ॥ १०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०६</summary>
+
+०१०६
+Forget not the friendship of the pure,
+Nor forsake friends who supported in trouble. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०६</summary>
 
 106\. maṟavaṟka, mācu aṟṟār kēṇmai! tuṟavaṟka,  
@@ -217,6 +266,14 @@ Forsake not timely helpers sure.         106
 
 कष्टकाले समायाते उपकुर्वन्ति ये नराः ।  
 सन्तः स्मरन्ति तन्मैत्रीं सप्तसप्तसु जन्मसु ॥ १०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०७</summary>
+
+०१०७
+The good remember through all seven births
+The friends who wiped their tears.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०७</summary>
@@ -253,6 +310,14 @@ The willing friend who wiped one's tears.         107
 विस्मृतिस्त्वपकाराणां सद्यो धर्मः स कथ्यते ॥ १०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०८</summary>
+
+०१०८
+To forget a good turn is not good, and good it is
+To forget at once what isn't good.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०८</summary>
 
 108\. naṉṟi maṟappatu naṉṟu aṉṟu; naṉṟu allatu  
@@ -287,6 +352,14 @@ Good it is over wrong not to brood.         108
 उपकारा अपि कृताः लीयन्ते तत्र चैव ते ॥ १०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०९</summary>
+
+०१०९
+Even a deadly hurt is soon effaced,
+If one recollects a past good turn.
+(S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०९</summary>
 
 109\. koṉṟaṉṉa iṉṉā ceyiṉum, avar ceyta  
@@ -319,6 +392,14 @@ While remembering one good-turn.         109
 
 धर्मान्तरविहीनानां विद्यते पापमोचनम् ।  
 कृतज्ञताधर्महीने नास्ति वै पापमोक्षणम् ॥ ११०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११०</summary>
+
+०११०
+One may slain every goodness and yet escape,
+But no escape for one who slain gratitude.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०</summary>

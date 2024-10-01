@@ -3,6 +3,7 @@ title = "११ कालमऱिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४८१</summary>
 
 पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
@@ -13,6 +14,14 @@ title = "११ कालमऱिदल्"
 
 उलूको बलवानह्नि काकेनाल्पेन जीयते ।  
 जयैषिणस्तथा राज्ञः कालः ख्रलु निरीक्ष्यते ॥ ४८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४८१</summary>
+
+०४८१
+A crow can defeat an owl by day.
+Kings need the right time to win.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८१</summary>
@@ -49,6 +58,14 @@ Kings need right time their foes to quell.        481
 अस्थिरामपि सम्पत्तिं बघ्नात्येकत्र सुस्थिराम् ॥ ४८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४८२</summary>
+
+०४८२
+The rope that binds Fortune
+Is deeds done at the right time.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८२</summary>
 
 482\. paruvattoṭu oṭṭa oḻukal-tiruviṉait  
@@ -81,6 +98,14 @@ That fortune binds in bon accord.        482
 
 क्रियोपयुक्तकरणैः कार्यं काले करोति यः ।  
 साध्यते सुलभं तेन नासाध्यं भुवि किञ्चन ॥ ४८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४८३</summary>
+
+०४८३
+What is impossible
+If right means are adopted at the right time? *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८३</summary>
@@ -117,6 +142,14 @@ With proper means and time and tacts?        483
 काले देशे च कर्माणि यः करोति समाहितः ॥ ४८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४८४</summary>
+
+०४८४
+Even the world will be yours,
+If you act choosing the right time and place.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८४</summary>
 
 484\. ñālam karutiṉum, kaikūṭum-kālam  
@@ -149,6 +182,14 @@ Even the world you win with ease.        484
 
 कृत्स्नस्य जगतो वाञ्छा यदि स्यात् किन्नु चिन्तया ।  
 युक्तकालं प्रतीक्षस्व निष्क्रियस्त्वं भज क्षमाम् ॥ ४८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४८५</summary>
+
+०४८५
+Those who hope for the world wait unperturbed
+Hoping for the right moment. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८५</summary>
@@ -185,6 +226,14 @@ Wait unruffled biding their time.        485
 मेषस्य युद्धतः पृष्ठगमनेन समं भवेत् ॥ ४८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४८६</summary>
+
+०४८६
+The restraint of an active person
+Is akin to the retreat of a butting ram.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८६</summary>
 
 486\. ūkkam uṭaiyāṉ oṭukkam poru takar  
@@ -217,6 +266,14 @@ Like rams retreating but to butt.        486
 
 शत्रोरग्रे बुधाः क्रोधं विसृजेर्युन वै वहिः ।  
 अन्तर्निगूह्य ते कोपं काले स्युः कार्यसाधकाः ॥ ४८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४८७</summary>
+
+०४८७
+The wise do not burst with rage.
+They hold it for the right time.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८७</summary>
@@ -253,6 +310,14 @@ They watch their time with hidden ire.        487
 तावता मौनमास्थेयं क्षमया जयकाङ्क्षिणा ॥ ४८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४८८</summary>
+
+०४८८
+The best is to bear with your enemy
+Till the time comes to topple him. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८८</summary>
 
 488\. ceṟunaraik kāṇiṉ cumakka; iṟuvarai  
@@ -287,6 +352,14 @@ Fell down their head in fateful time.        488
 तदैव कुरु कर्तव्यं तं कालं न हि द्रक्ष्यसि ॥ ४८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४८९</summary>
+
+०४८९
+Hesitate not to seize opportunities rare,
+And achieve tasks otherwise hard. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८९</summary>
 
 489\. eytaṟku ariyatu iyaintakkāl, an nilaiyē  
@@ -319,6 +392,14 @@ Dare and do hard things then and there.        489
 
 कार्यसाधनपर्यन्तं बकवत्तिष्ठ निष्क्रियः ।  
 कुरु कार्यं क्षणात् काले चञ्च्वा मीनं बको यथा ॥ ४९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४९०</summary>
+
+०४९०
+Bide your time like the stork, and like it
+Strike at the opportune moment.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४९०</summary>

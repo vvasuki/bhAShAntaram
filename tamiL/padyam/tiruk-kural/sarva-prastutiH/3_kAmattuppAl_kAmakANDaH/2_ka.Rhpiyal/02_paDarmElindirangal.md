@@ -3,6 +3,7 @@ title = "०२ पडर्मॆलिन्दिरङ्गल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११६१</summary>
 
 मऱैप्पेन्मन् यानिह्दो नोयै इऱैप्पवर्क्कु  
@@ -13,6 +14,14 @@ title = "०२ पडर्मॆलिन्दिरङ्गल्"
 
 लज्जया कामरोगं तु छादयामि, न शाम्यति ।  
 निर्गते निर्गते वारि वर्धते स्त्रोतसो यथा ॥ ११६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११६१</summary>
+
+११६१
+I would hide this sickness, but it wells up
+Like water drawn from a spring. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११६१</summary>
@@ -49,6 +58,14 @@ How to bear this pain so writhing?        1161
 रोगदात्रे नायकाय वक्तुं लज्जा तु जायते ॥ ११६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११६२</summary>
+
+११६२
+Hide this sickness, I cannot.
+To tell him who caused it, I am ashamed.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६२</summary>
 
 1162 karattalum āṟṟēṉin nōyainōy ceytārkku  
@@ -81,6 +98,14 @@ For shame to him who caused this pain.        1162
 
 खेदं सोदुमशक्तऽस्मिन शरीरे प्राणनामकम् ।  
 यष्टिमालम्व्य लम्बेते लज्जाकामौ तु पार्श्वयोः ॥ ११६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११६३</summary>
+
+११६३
+Love and shame hang poised on my life.
+My body unable to bear them.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११६३</summary>
@@ -117,6 +142,14 @@ Are poised the weights of lust and shame.        1163
 तत्तीर्त्वा गन्तुमुचितो दृढः पोतो न विद्यते ॥ ११६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११६४</summary>
+
+११६४
+There is indeed a flood of lust;
+But no safe raft to swim across it. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६४</summary>
 
 1164 kāmak kaṭalmaṉṉum uṇṭē atunīntum  
@@ -149,6 +182,14 @@ A raft to go across safely.        1164
 
 सुखप्रदायां मैत्र्यां ये दुःखोत्पादनतत्पराः ।  
 खेदप्रदविरोधस्य निरासे ते कथं क्षमाः ॥ ११६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११६५</summary>
+
+११६५
+If his friendship can bring so much misery,
+How will it be in enmity? *
+(G. Vanmikanathan), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११६५</summary>
@@ -185,6 +226,14 @@ Who in friendship bring me woes!        1165
 वियोगाद् दुःखदे कामे तद् दुःखं जलधेर्महत् ॥ ११६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११६६</summary>
+
+११६६
+The pleasure of love is as vast as the sea.
+Vaster still is the sorrow of its hurt.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६६</summary>
 
 1166 iṉpam kaṭalmaṟṟuk kāmam aḵtaṭuṅkāl  
@@ -217,6 +266,14 @@ But its pangs are more painful.        1166
 
 कामप्रवाहे तीर्णेऽपि पारं मे नैव दृश्यते ।  
 गाढान्धकाररात्र्यां तु वसाम्येकाकिनी ह्महम् ॥ ११६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११६७</summary>
+
+११६७
+Whirling in the stormy sea of love, I find no shore;
+Even at midnight I am alone.
+(K. Kannan), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११६७</summary>
@@ -253,6 +310,14 @@ Pining alone in midnight hush.        1167
 सहायं प्राप्य तिष्ठन्ती यामिनी शोच्यतां गता ॥ ११६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११६८</summary>
+
+११६८
+Poor night, putting all things to sleep,
+Has only me for company.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६८</summary>
 
 1168 maṉṉuyir ellām tuyiṟṟi aḷittirā  
@@ -287,6 +352,14 @@ Keeping but me for companionship.        1168
 वियुक्तनायकाच्चापि ताः क्रराः किल भान्ति मे ॥ ११६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११६९</summary>
+
+११६९
+Even crueler than my cruel lord
+Are the long nights of these days. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६९</summary>
 
 1169 koṭiyār koṭumaiyiṉ tāmkoṭiya innāḷ  
@@ -319,6 +392,14 @@ Are midnight hours gliding slowly.        1169
 
 प्रियसामीप्यगमनशक्तिर्नेत्रस्य चित्तवत् ।  
 यदि स्यात् तर्हि मन्नेत्रे न स्यातां सलिलाकुले ॥ ११७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११७०</summary>
+
+११७०
+If eyes could also reach him like the heart,
+They won’t be swimming in a flood of tears.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७०</summary>

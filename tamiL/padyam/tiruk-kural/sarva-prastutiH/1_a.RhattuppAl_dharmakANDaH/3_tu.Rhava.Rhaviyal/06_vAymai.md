@@ -3,6 +3,7 @@ title = "०६ वाय्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २९१</summary>
 
 वाय्मै ऎनप्पडुवदु यादॆनिन् यादॊण्ड्रुम्  
@@ -13,6 +14,14 @@ title = "०६ वाय्मै"
 
 वचनेन प्रयुक्तेन कस्यचित् मात्रयाऽपि चेत् ।  
 दुःखानुत्पादनं लोके सत्यलक्षणमुच्यते ॥ २९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २९१</summary>
+
+०२९१
+What is truthfulness? It is nothing but utterance
+Wholly devoid of ill.
+(V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २९१</summary>
@@ -49,6 +58,14 @@ It is to speak out evil-free.        291
 अनिन्दितोपकाराय तत् सत्यवचनं मतम् ॥ २९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २९२</summary>
+
+०२९२
+Even a lie would take the place of truth,
+If it brings blameless benefit.
+(N.V.K. Ashraf), (V. Ramasamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९२</summary>
 
 292\. poymmaiyum vāymai iṭatta-purai tīrnta  
@@ -81,6 +98,14 @@ When good it brings removing vice.        292
 
 असत्यमिति मत्वापि कथयन्ननृतं वचः ।  
 पश्चात्तप्तमना भूत्वा ततो दुःखं स विन्दति ॥ २९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २९३</summary>
+
+०२९३
+Lie not against your conscience,
+Lest your own conscience burn you. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २९३</summary>
@@ -117,6 +142,14 @@ Conscience will scorch and make him sigh.        293
 कृत्वा मनसि सर्वेऽपि प्रशंसन्ति नरोत्तमाः ॥ २९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २९४</summary>
+
+०२९४
+He who lives truly in his own heart,
+Truly lives in the hearts of all people.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९४</summary>
 
 294\. uḷḷattāl poyyātu oḻukiṉ, ulakattār  
@@ -149,6 +182,14 @@ Who serves the Truth serene in soul.        294
 
 मनोवाक्समभावेन सत्यवादी नरो भुवि ।  
 तपोदानगुणाढ्येभ्यो नरेभ्योप्युत्तमः स्मृतः ॥ २९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २९५</summary>
+
+०२९५
+Truthfulness in thought and word 
+Outweighs penance and charity.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २९५</summary>
@@ -185,6 +226,14 @@ Is more than giving and living austere.        295
 कायक्लेशं विना वक्तुस्तत् स्वर्गमपि यच्छति ॥ २९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २९६</summary>
+
+०२९६
+Nothing but the fame of truthfulness
+Can give all other virtues effortlessly. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९६</summary>
 
 296\. poyyāmai aṉṉa pukaḻ illai; eyyāmai,  
@@ -217,6 +266,14 @@ All virtues from Truth arise.        296
 
 अनृतं वाक्य मुत्सृज्य जीवद्भर्भुवि मानवैः ।  
 समेषामन्यधर्मणां त्यागोऽपि किल सम्मतः ॥ २९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २९७</summary>
+
+०२९७
+If one speaks the truth and only truth,
+He need not seek other virtues.
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २९७</summary>
@@ -253,6 +310,14 @@ All virtues are in Truth indeed.        297
 अन्तर्हृदयसंशुद्धिस्तथा स्यात् सत्यभाषणात् ॥ २९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २९८</summary>
+
+०२९८
+Water ensures external purity
+And truthfulness shows the internal.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९८</summary>
 
 298\. puṟam tūymai nīrāl amaiyum;- akam tūymai  
@@ -287,6 +352,14 @@ Truth renders you pure inward.        298
 हृत्तमोनाशकं सत्यवचनं दीप उच्यते ॥ २९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २९९</summary>
+
+०२९९
+Not all lights cause illumination; For the wise,
+Only the light of truth is illuminant.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९९</summary>
 
 299\. ellā viḷakkum viḷakku alla; cāṉṟōrkkup  
@@ -319,6 +392,14 @@ Truth light is light bright like sun-light        299
 
 सर्व शास्त्रपरामर्शादिदमेकं सुनिश्चितम् ।  
 यत् सत्यवचनादन्यो धर्मो नास्ति महीतले ॥ ३००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३००</summary>
+
+०३००
+Amidst all that we have seen as real,
+There is nothing as good as truthfulness.
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३००</summary>

@@ -3,6 +3,7 @@ title = "१० नॆञ्जॊडुगिळत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२४१</summary>
 
 निनैत्तॊण्ड्रु सॊल्लायो नॆञ्जे ऎनैत्तॊण्ड्रुम्  
@@ -13,6 +14,14 @@ title = "१० नॆञ्जॊडुगिळत्तल्"
 
 दुःखरूपामयं हन्तुमेकं भेषजमस्ति चेत् ।  
 हे चित्त ! सम्यगालेच्य न ब्रूयाः किन्तु तत्तु मे ॥ १२४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२४१</summary>
+
+१२४१
+My heart, can't you suggest any remedy at all
+For this incurable sickness?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२४१</summary>
@@ -49,6 +58,14 @@ To cure this chronic malady.        1241
 स्मृत्वा तं दुःखमाप्नोषि भ्रान्तस्त्वं विजयी भवा ॥ १२४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२४२</summary>
+
+१२४२
+O my heart! How foolish you are to grieve for him
+Who has no love for me!
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४२</summary>
 
 1242 kātal avarilar ākanī nōvatu  
@@ -81,6 +98,14 @@ For me he has no love serene.        1242
 
 हे चित्त ! मय्युषित्वा त्वं स्मृत्वा तं खिद्यसे कुतः ।  
 खेदप्रदः प्रियो मां तु स्मृत्वा नायाति चान्तिकम् ॥ १२४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२४३</summary>
+
+१२४३
+O heart, what use to stay here and pine
+When he who caused this sickness is heartless?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२४३</summary>
@@ -117,6 +142,14 @@ Who made you so pale lacks pity.        1243
 इमे नेत्रे त्वया साकं नीत्वा गच्छ तदन्तिकम् ॥ १२४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२४४</summary>
+
+१२४४
+Rid me of these eyes, O my heart! For they,
+Longing to see him, wear my life away.
+(G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४४</summary>
 
 1244 kaṇṇum koḷaccēṟi neñcē ivaiyeṉṉait  
@@ -149,6 +182,14 @@ Or their hunger will eat me out.        1244
 
 कामुको वाञ्छितोऽस्माभिः, अस्मान्नासौ वृणेतु वा ।  
 हे चित्त ! कथमस्माभिरयं त्यक्तुं हि शक्यते ॥ १२४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२४५</summary>
+
+१२४५
+O heart, can I call him a foe and dump him
+Who longs not for me though I long for him? *
+(G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२४५</summary>
@@ -185,6 +226,14 @@ Can we desert him as unkind?        1245
 रतिं न कुरुषे धैर्यात् पश्चात्कुप्यसि हे मनः ! ॥ १२४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२४६</summary>
+
+१२४६
+My heart that pretends to be angry will at once
+Yield and jell seeing my lover.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४६</summary>
 
 1246 kalantuṇarntum kātalark kaṇṭāl pulantuṇarāy  
@@ -217,6 +266,14 @@ Sans huff, you rush to his sweet embrace.        1246
 
 सच्चित्त ! त्यज कामं वा लज्जां वा त्वं परित्यज ।  
 तदेतदुभयं सोढुमेकदा नैव शक्नुयाम् ॥ १२४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२४७</summary>
+
+१२४७
+O my good heart! Either shed shame or shed love
+For I cannot bear both. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२४७</summary>
@@ -253,6 +310,14 @@ I cannot endure both of them.        1247
 खिन्नस्तमनुसृत्य त्वं चित्त ! यासि कुतो भ्रमात् ॥ १२४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२४८</summary>
+
+१२४८
+O my poor soul! You persist in pursuit of the departed,
+Longing for his favours! *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४८</summary>
 
 1248 parintavar nalkāreṉṟu ēṅkip pirintavar  
@@ -287,6 +352,14 @@ You sigh and seek his favour, poor heart!        1248
 तमन्विष्य बहिः कस्मात् वृथा गच्छसि कुत्र वा ॥ १२४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२४९</summary>
+
+१२४९
+Where are you searching my heart
+While you know my dear one is within? *
+(K. Kannan), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४९</summary>
 
 1249 uḷḷattār kāta lavarāka uḷḷinī  
@@ -319,6 +392,14 @@ Whom you think, mind to whom you go?        1249
 
 त्यक्त्वाऽस्मान् गतवन्तं तं प्रियं चित्ते निवेश्य ।  
 स्मृत्वा देहः कृशे भूत्वा शोभाविरहितोऽभवत् ॥ १२५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२५०</summary>
+
+१२५०
+To retain the deserter still in my heart
+Is to suffer losing more charm. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२५०</summary>

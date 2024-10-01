@@ -3,6 +3,7 @@ title = "०४ पसप्पुऱुबरुवरल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११८१</summary>
 
 नयन्दवर्क्कु नल्गामै नेर्न्देन् पसन्दवॆन्  
@@ -13,6 +14,14 @@ title = "०४ पसप्पुऱुबरुवरल्"
 
 ???? ङ्गयकारि ???? ।  
 ततोऽभून्मयि वैवर्ण्य कस्मै तत्कथयाम्यहम् ॥ ११८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११८१</summary>
+
+११८१
+Having agreed to part my love,
+How can I complain of my pallor to others? *
+( Shuddhananda Bharatiar), (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११८१</summary>
@@ -49,6 +58,14 @@ Whom to complain my hue pallid?        1181
 वैवर्ण्य मम देहेऽस्मिन् व्याप्य सर्वत्र वर्तते ॥ ११८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११८२</summary>
+
+११८२
+Claiming that it begot through him,
+Pallor creeps over my body with pride. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८२</summary>
 
 1182 avartantār eṉṉum takaiyāl ivartantueṉ  
@@ -81,6 +98,14 @@ Pallor creeps and rides over my frame.        1182
 
 वैवर्ण्य कामरोगं च दत्वा मह्यं स नायकः ।  
 मत्तः सौन्दर्यलज्जे तु प्रत्यगृह्णान्मुदान्वितः ॥ ११८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११८३</summary>
+
+११८३
+He robbed me first of my beauty and shame,
+And gave in exchange sickness and pallor.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११८३</summary>
@@ -117,6 +142,14 @@ Leaving pangs and Pallor to me.        1183
 अथापि जातं वैवर्ण्य, न जाने वञ्चनामिमाम् ॥ ११८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११८४</summary>
+
+११८४
+His words I recollect and prowess I chant.
+Yet, how does pallor sneak in?
+(S.M. Diaz), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८४</summary>
 
 1184 uḷḷuvaṉ maṉyāṉ uraippatu avartiṟamāl  
@@ -149,6 +182,14 @@ Yet this pallor steals over my frame.        1184
 
 मम प्रियो मां वियुज्य याति त्वं पश्य तत्र तु ।  
 पश्यात्र सद्यो वैवर्ण्य मम देहमुपागमत् ॥ ११८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११८५</summary>
+
+११८५
+There goes my lover and here comes the pallor
+To creep over my body. *
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११८५</summary>
@@ -185,6 +226,14 @@ And pallor usurped my body here.        1185
 तथाऽऽलिङ्गनविच्छेदं वैवर्ण्य संप्रतीक्षते ॥ ११८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११८६</summary>
+
+११८६
+Darkness lies in wait for the lamp to go out,
+And pallor for the embrace to break.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८६</summary>
 
 1186 viḷakkuaṟṟam pārkkum iruḷēpōl koṇkaṉ  
@@ -217,6 +266,14 @@ Pallor looks for lover's arms-off.        1186
 
 परिष्वज्य प्रियं पार्श्चे यदाऽहं परिवर्तिता ।  
 अत्रान्तरे तु वैवर्ण्य मद्देहे व्यापृतं वभौ ॥ ११८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११८७</summary>
+
+११८७
+Locked in embrace, I turned a little.
+Seizing that moment, pallor seized me in full. *
+(P.S. Sundaram), (J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११८७</summary>
@@ -253,6 +310,14 @@ This pallor swallowed me at once.        1187
 ''प्रियो ययौ वियुज्यैनामि'' ति वक्ता न विद्यते ॥ ११८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११८८</summary>
+
+११८८
+"Pallid has she become” blame everyone,
+But none say “He parted her”.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८८</summary>
 
 1188 pacantāḷ ivaḷeṉpatu allāl ivaḷait  
@@ -287,6 +352,14 @@ But none says "lo he parted her".        1188
 यदि स्यात्तर्हि मद्देहवैवर्ण्यान्नास्ति मे व्यथा ॥ ११८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११८९</summary>
+
+११८९
+If my lord who left me remains free of guilt,
+My pallor is worth all the grief. *
+(W.H. Drew and J. Lazarus), (S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८९</summary>
 
 1189 pacakkamaṉ paṭṭāṅkueṉ mēṉi nayappittār  
@@ -319,6 +392,14 @@ If he who took my leave fares well.        1189
 
 वियुक्त मम सम्मत्या प्रियं खिन्न जना यदि ।  
 न निन्देयुस्तदा श्लाघ्या विवर्णेयमिति प्रथा ॥ ११९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११९०</summary>
+
+११९०
+I don’t mind being called pallid, so long as
+They don’t blame him for causing it. *
+(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११९०</summary>

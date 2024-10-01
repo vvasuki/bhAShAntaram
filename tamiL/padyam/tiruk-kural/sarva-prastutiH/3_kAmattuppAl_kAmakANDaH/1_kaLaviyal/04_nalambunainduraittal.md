@@ -3,6 +3,7 @@ title = "०४ नलम्बुनैन्दुरैत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११११</summary>
 
 नन्नीरै वाऴि अनिच्चमे निन्निनुम्  
@@ -13,6 +14,14 @@ title = "०४ नलम्बुनैन्दुरैत्तल्"
 
 सुमेषु मृदु त्व हि शिराष! विजया मव ।  
 वत्तोऽपि मार्दवयुता मत्प्रिया, गर्वमुत्सृज ॥ ११११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११११</summary>
+
+११११
+Hail thee, aniccham, the soft flower!
+The damsel I dote is softer than thee! *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११११</summary>
@@ -49,6 +58,14 @@ On whom I dote is softer still.        1111
 वस्तीति किं धिया चित्त! दृष्ट्वा पुष्पाणि मुह्यसि ॥ १११२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १११२</summary>
+
+१११२
+O heart, why get distracted seeing common flowers
+And match them with her eyes! *
+(P.S. Sundaram), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११२</summary>
 
 1112 malarkāṇiṉ maiyātti neñcē ivaḷkaṇ  
@@ -81,6 +98,14 @@ To her bright eyes, O mind dismayed.        1112
 
 देहस्तु चिकुरस्तस्याः चक्षुषी शूलरूपिणी ।  
 मुक्ता दन्ताश्चारुगन्धः करौ वंशानुकारिणौ ॥ १११३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १११३</summary>
+
+१११३
+She has a slender frame, pearly smile, fragrant breath,
+Lancet eyes and bamboo shoulders. *
+(K. Kannan), (J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १११३</summary>
@@ -117,6 +142,14 @@ Fragrant breath and lance-like eyes.        1113
 नतं कुवलयं भूमिं दश्येद्, दृष्टिं लभेत चेत् ॥ १११४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १११४</summary>
+
+१११४
+Unable to match the eyes of this jewel,
+Lilies droop down earthwards in shame.
+(K. Kannan), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११४</summary>
 
 1114 kāṇiṉ kuvaḷai kaviḻntu nilaṉnōkkum  
@@ -149,6 +182,14 @@ I can't equal the jewelled-one's eyes.        1114
 
 मृदुकाये नालयुक्तं सा शिरीपमधारयत् ।  
 नालाभाराद्भग्नमध्यमभूदशुभनादनम् ॥ १११५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १११५</summary>
+
+१११५
+The solemn drums will blare if her waist is crushed
+By the aniccham she wore with its stalk. *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १११५</summary>
@@ -185,6 +226,14 @@ To her breaking waist sad-drum-blares!        1115
 दिवि ताराः स्वप्रदेशाद् भ्रान्ताः किन्तु भ्रमन्त्यहो ॥ १११६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १११६</summary>
+
+१११६
+The perplexed stars are all over the place,
+Unable to tell the moon from her face.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११६</summary>
 
 1116 matiyum maṭantai mukaṉum aṟiyā  
@@ -217,6 +266,14 @@ The moon and which is woman's face.        1116
 
 आदौ नष्टकलश्चन्द्रः पुनः प्राप्नोति यः कलाः ।  
 कलङ्कस्तद्गतो नारीवदने किन्तु वर्तते ॥ १११७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १११७</summary>
+
+१११७
+Are there spots on my love’s face
+Like the spots on the shining moon?
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १११७</summary>
@@ -253,6 +310,14 @@ Just as in moon that changes phase?        1117
 मत्प्रीतिपात्रं त्वं मूयाः सर्वदा विजयी भव ॥ १११८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १११८</summary>
+
+१११८
+Hail O moon! If you could also shine as my love’s face,
+You too I shall love. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११८</summary>
 
 1118 mātar mukampōl oḷiviṭa vallaiyēl  
@@ -287,6 +352,14 @@ All my love to you; hail O moon!        1118
 हे चन्द्र! सर्वदृश्यस्त्वं तदा मा तिष्ठ सर्वदा ॥ १११९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १११९</summary>
+
+१११९
+O moon, if you imitate my flower-eyed jewel’s face,
+Stop revealing thyself to all.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १११९</summary>
 
 1119 malaraṉṉa kaṇṇāḷ mukamotti yāyiṉ  
@@ -319,6 +392,14 @@ If you look, then shine alone O moon!        1119
 
 शिरीषकुसमं हंसपक्षौ चेत्युभयं भुवि ।  
 स्त्रीपादमार्दवे दृष्टे नूनं स्यात्यण्टकोपमम् ॥ ११२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११२०</summary>
+
+११२०
+Even aniccham flower and swan's down
+Are as nerunji fruit to my maidens’ feet. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२०</summary>

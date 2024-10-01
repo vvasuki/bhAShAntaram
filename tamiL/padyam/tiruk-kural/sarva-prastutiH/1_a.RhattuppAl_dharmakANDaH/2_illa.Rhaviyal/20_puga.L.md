@@ -3,6 +3,7 @@ title = "२० पुगऴ्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २३१</summary>
 
 ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
@@ -13,6 +14,14 @@ title = "२० पुगऴ्"
 
 अर्थिभ्यो वाञ्छितं दत्त्वा कीर्त्या सह वसेन्नरः ।  
 नरस्य जन्मसाफल्यं नास्ति कीर्ति विना भुवि ॥ २३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २३१</summary>
+
+०२३१
+No greater income in life than to live with fame
+That comes out of charity.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २३१</summary>
@@ -49,6 +58,14 @@ The greatest gain for all that live.        231
 कीर्तिरेव सदा सद्भिर्गीता भवति शाश्वती ॥ २३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २३२</summary>
+
+०२३२
+The fame of men who give to those in need
+Will live for ever in the words of all. *
+(Kasthuri Sreenivasan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३२</summary>
 
 232\. uraippār uraippavai ellām irappārkku oṉṟu  
@@ -81,6 +98,14 @@ Is praised aloud as popular.        232
 
 बहुकालमभिव्याप्य तिष्ठन्तीं कीर्तिमन्तरा ।  
 लोके निरुपमं नित्यमेकं वस्तु न विद्यते ॥ २३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २३३</summary>
+
+०२३३
+Nothing imperishable lasts long in this world
+Than glorious fame beyond compare.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २३३</summary>
@@ -117,6 +142,14 @@ Saving high fame of the giver!        233
 स्वर्गलोकोऽपि तं स्तौति न तु ज्ञानसमन्वितान् ॥ २३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २३४</summary>
+
+०२३४
+Even celestials will cease praising saints
+When you gain world-wide lasting fame. *
+(Satguru Subramuniyaswami), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३४</summary>
 
 234\. nila varai nīḷ pukaḻ āṟṟiṉ, pulavaraip  
@@ -149,6 +182,14 @@ To hail the men of lasting praise        234
 
 स्थिरकीर्त्या च मरणं यश्ःकायेन जीवनम् ।  
 महतां ज्ञानिनामेव लभ्यं स्यात् नापरस्य तु ॥ २३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २३५</summary>
+
+०२३५
+None other than the wise can have
+Some gain in loss and fame in death.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २३५</summary>
@@ -185,6 +226,14 @@ Are rare but for the soulful worth.        235
 अन्यथा मृगजन्मैव श्लाघ्यते मर्त्यजन्मनः ॥ २३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २३६</summary>
+
+०२३६
+Be born, if you must, for fame;
+Or else better not to be born at all.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३६</summary>
 
 236\. tōṉṟiṉ, pukaḻoṭu tōṉṟuka! aḵtu ilār  
@@ -217,6 +266,14 @@ If not of birth you must not vaunt.        236
 
 अशक्तो जीवितुं कीर्त्या न द्वेष्ट्यात्मानमात्मना ।  
 किन्त्वात्मनिन्दकं द्वेष्टि किं भवेदत्र कारणम् ॥ २३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २३७</summary>
+
+०२३७
+Why blame those who blame the shame of those
+Who cannot live in fame? *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २३७</summary>
@@ -253,6 +310,14 @@ Of those who cannot live in fame?        237
 निन्दितं जीवनं तेषामिति सद्भिः प्रकीर्त्यते ॥ २३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २३८</summary>
+
+०२३८
+The whole world will blame, they say,
+If you fail to earn that renown called fame.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३८</summary>
 
 238\. 'vacai' eṉpa, vaiyattārkku ellām-’icai’ eṉṉum  
@@ -287,6 +352,14 @@ Not to beget the child of fame.        238
 निर्दुष्ट सस्यसम्पत्तिविहीना सा भवेद् धुवम् ॥ २३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २३९</summary>
+
+०२३९
+The land that bears inglorious bodies
+Will shrink in its glory of yield.
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३९</summary>
 
 239\. vacai ilā vaṇ payaṉ kuṉṟum-icai ilā  
@@ -319,6 +392,14 @@ O'erburden it without renown.        239
 
 अपवादेन रहितो यो जीवति स जीवति ।  
 जीवन्नप्यपवादेन मृतप्रायो हि गण्यते ॥ २४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २४०</summary>
+
+०२४०
+Life without blame alone blooms.
+The one without fame fades.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४०</summary>

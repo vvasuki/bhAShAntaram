@@ -3,6 +3,7 @@ title = "२१ सूदु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९३१</summary>
 
 वेण्डऱ्क वॆण्ड्रिडिनुम् सूदिनै वॆण्ड्रदूउम्  
@@ -14,6 +15,14 @@ title = "२१ सूदु"
 अधिकारः ९४. द्यूतः  
 न कुर्याज्जयशीलोऽपि द्यूतं, नश्येज्जितं धनम् ।  
 मक्ष्याशया मीनभुक्तजलोद्गारसमं भवेत् ॥ ९३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३१</summary>
+
+०९३१
+Don’t gamble even if you win for it draws you in
+Like fishes drawn to shining baits.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३१</summary>
@@ -48,6 +57,14 @@ Gulping bait-hook what does fish gain?        931
 
 प्राप्यौकांशं शतांशानां त्यक्ता द्यूतोपसेवकः ।  
 धर्मकामप्राप्तिमार्गं न लभेत कदाचन ॥ ९३२॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३२</summary>
+
+०९३२
+Can gamblers gain anything good in life
+Who gain one and lose a hundred? *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३२</summary>
@@ -92,6 +109,14 @@ Who lose a hundred one to gain?        932
 सञ्चितार्थस्तथा लाभो रिपूणां सविधं व्रजेत् ॥ ९३३॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९३३</summary>
+
+०९३३
+To be lost all the time in the rolling dice
+Is to lose your hoarded wealth to others.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३३</summary>
 
 933 uruḷāyam ōvātu kūṟiṉ poruḷāyam  
@@ -124,6 +149,14 @@ All their fortune will flow to foes.        933
 
 स्वाश्रितानां बहुक्लेशप्रदानात् कीर्तिनाशनात् ।  
 दारिद्र्यदायकं द्यूतसदृशं नास्ति किञ्चन ॥ ९३४॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३४</summary>
+
+०९३४
+There is nothing like gambling to bring
+Poverty, sorrow and disgrace.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३४</summary>
@@ -160,6 +193,14 @@ Which adds to woes and ruins fame.        934
 अक्षं द्यूतस्थलं द्यूतकृत्यं यः सेवते सदा ॥ ९३५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९३५</summary>
+
+०९३५
+They lose all who will not give up the dice,
+The board and the throw.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३५</summary>
 
 935 kavaṟum kaḻakamum kaiyum tarukki  
@@ -192,6 +233,14 @@ Who sought with glee have come to nought.        935
 
 दारिद्र्यदेवता द्यूतनाम्नी यं तु समाश्रयेत् ।  
 इह सर्वसुखैर्मुक्तः स परे नरकं व्रजेत् ॥ ९३६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३६</summary>
+
+०९३६
+Those blindfolded by the dark ogress called dice
+Will starve and suffer in distress. *
+(N.V.K. Ashraf), (S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३६</summary>
@@ -228,6 +277,14 @@ Suffer grief and want by that vice.        936
 द्यूतक्रीडाङ्गणे येन सर्वः कालोऽपि याप्यते ॥ ९३७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९३७</summary>
+
+०९३७
+Time wasted in a gambling house
+Will end one’s ancestral wealth and worth. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३७</summary>
 
 937 paḻakiya celvamum paṇpum keṭukkum  
@@ -260,6 +317,14 @@ Ancestral wealth and virtues end.        937
 
 असत्यभाषणं वित्तनाशः कारुण्यवर्जनम् ।  
 सर्वनिमाननर्थांश्च द्यूतकर्म प्रयच्छति ॥ ९३८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३८</summary>
+
+०९३८
+Dicing loses wealth, imposes lies,
+Kills grace and causes sorrow.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३८</summary>
@@ -296,6 +361,14 @@ Leads to lies and wretched woes.        938
 तं विहाय विनिर्याति सेवते द्यूतकर्म यः ॥ ९३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९३९</summary>
+
+०९३९
+Gambling will make one lose these five:
+Riches, food, fame, learning and clothes.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९३९</summary>
 
 939 uṭaicelvam ūṇoḷi kalviyeṉṟu aintum  
@@ -328,6 +401,14 @@ In gambler's hand will never thrive.        939
 
 असकृन्नष्टत्तोऽपि द्यूतं कुर्याद्यथेपस्या ।  
 रोगार्तोऽप्यसकृत्तद्वन्मर्त्यो वाञ्छति जीवितुम् ॥ ९४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९४०</summary>
+
+०९४०
+Like the attachment to life despite sufferings
+Is the love for gambling despite loss. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४०</summary>

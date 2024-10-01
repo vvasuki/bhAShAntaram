@@ -3,6 +3,7 @@ title = "०७ पॆरियारैत् तुणैक्कोडल्
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४४१</summary>
 
 अऱनऱिन्दु मूत्त अऱिवुडैयार् केण्मै  
@@ -13,6 +14,14 @@ title = "०७ पॆरियारैत् तुणैक्कोडल्
 
 वयोवृद्धैर्धर्मविद्भिः बुद्धिमद्भिर्महात्माभिः ।  
 कुर्यान्मैत्रीं महीपालो विमृश्य बहुधा बहु ॥ ४४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४४१</summary>
+
+०४४१
+Value and secure the friendship
+Of the virtuous, mature and wise.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४४१</summary>
@@ -46,6 +55,14 @@ Of men of virtue and mature brain.        441
 जगरूकेण विदुषा स्नेहं कुर्याच्च सेवया ॥ ४४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४४२</summary>
+
+०४४२
+Ally with them who can allay your present ills
+And avert those to come. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४२</summary>
 
 442\. Seek the friendship of those who can remove existing distress and guard against future.  
@@ -75,6 +92,14 @@ Who ward and safe-guard you from ill.        442
 
 महात्मनः समाश्रित्य स्ववशे तान् करोति यः ।  
 महच्भाग्यं तदेवास्य किमन्यैर्भाग्यकोटिभिः ॥ ४४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४४३</summary>
+
+०४४३
+The rarest of rare things is to seek and secure
+The friendship of the great.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४४३</summary>
@@ -108,6 +133,14 @@ Is rarest of the rare things known.        443
 महद् बलं भवेद् राज्ञां चतुरङ्गबलैः किमु ॥ ४४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४४४</summary>
+
+०४४४
+The greatest of all strengths come from
+Associating with one greater than oneself. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४४</summary>
 
 444\. To follow in the footsteps of those that are greater than oneself is the crown of one’s strength.  
@@ -137,6 +170,14 @@ Power of all powers promotes.        444
 
 विमृश्य सचिवो ग्राह्यो नेत्रतुल्यो नृपेण तु ।  
 यतोऽमात्यो राज्यभारं वहन् राज्ञः सहायकृत् ॥ ४४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४४५</summary>
+
+०४४५
+A king's counselors are his eyes
+To be chosen with careful counseling.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४४५</summary>
@@ -170,6 +211,14 @@ Round him should be the right and wise.        445
 पालयन् पृथिवीपालः शत्रुभिर्नैव बाध्यते ॥ ४४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४४६</summary>
+
+०४४६
+Foes are rendered ineffective by one
+Who lives in fellowship with the worthy. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४६</summary>
 
 446\. No adversary can ruin the King who relies on his efficient counselors.  
@@ -199,6 +248,14 @@ Has none to fear from frightful foes.        446
 
 स्खालित्ये कठिनैर्वाक्यैः दण्डयन्तं सुमन्त्रिणम् ।  
 यो राजा लभते तस्मिन् निर्वीर्याः किल शत्रवः ॥ ४४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४४७</summary>
+
+०४४७
+Who can ruin the man who commands
+The friendship of those who can reprove him?
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४४७</summary>
@@ -232,6 +289,14 @@ whose friends reprove him when he errs.        447
 शत्रुबाधाविहीनोऽपि स्वयमेव विनश्यति ॥ ४४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४४८</summary>
+
+०४४८
+A king unguarded with reproving counsel
+Needs no foes to come to grief. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४८</summary>
 
 448\. The King who is not guarded by men of firm counsel will perish even though he has no enemies.  
@@ -263,6 +328,14 @@ Ruins himself sans harmful foes.        448
 मह्त्साह्यं विना राज्ञां तथा स्थैर्य सुदुर्लभम् ॥ ४४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४४९</summary>
+
+०४४९
+There can be no gain without capital,
+And no stability unpropped by wise counsel.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४९</summary>
 
 449\. Is there profit without capital? Is there security for the monarch devoid of wise counselors?  
@@ -292,6 +365,14 @@ No prop secure sans good comrade.        449
 
 अनेकशत्रुबाधातो दुःखं दशगुणान्वितम् ।  
 भुपो विन्देत सत्सङ्गं प्राप्तं यः सन्त्यजेन्नृपः ॥ ४५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४५०</summary>
+
+०४५०
+To give up good friends is ten times worse than
+Being hated by countless foes.
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५०</summary>

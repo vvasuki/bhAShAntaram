@@ -3,6 +3,7 @@ title = "१५ नॆञ्जॊडुबुलत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२९१</summary>
 
 अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवन्नॆञ्जे  
@@ -13,6 +14,14 @@ title = "१५ नॆञ्जॊडुबुलत्तल्"
 
 विस्मृत नः प्रियाधीनं वर्तते तस्य मानसम् ।  
 स्थित्वा त्वं मद्धशे चित्त ! न साह्यं कुरुषे मम ॥ १२९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२९१</summary>
+
+१२९१
+My heart! You see his heart and stand by him,
+But why don’t you stand by me? *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२९१</summary>
@@ -49,6 +58,14 @@ Why not my heart be all my own?        1291
 न स कुप्येदिति धिया त्वं प्रयासि तदन्तिकम् ॥ १२९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२९२</summary>
+
+१२९२
+My heart! Having seen his indifference,
+Why do you go after him in hope? *
+(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९२</summary>
 
 1292 uṟāa tavarkaṇṭa kaṇṇum avaraic  
@@ -81,6 +98,14 @@ Yet you clasp him as if friendly.        1292
 
 मां विहाय यथेच्छं हि प्रयासि त्वं प्रियं प्रति ।  
 न सन्ति मित्राण्यार्तानामिति किं मन्यसे मनः ! ॥ १२९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२९३</summary>
+
+१२९३
+O my heart! Is it because the fallen have no friends
+That you madly run after him?
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२९३</summary>
@@ -117,6 +142,14 @@ You follow him at will. Is it
 चित्त ! को वा त्वया सार्ध विचारं कर्तुमीहते ॥ १२९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२९४</summary>
+
+१२९४
+Who will consult you hereafter, my heart,
+Having failed to sulk before yielding? *
+(M.S. Poornalingam Pillai), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९४</summary>
 
 1294 iṉiaṉṉa niṉṉoṭu cūḻvāryār neñcē  
@@ -149,6 +182,14 @@ Who will then consult you, my heart?        1294
 
 अप्राप्ते नायके तस्य प्राप्त्यर्थ, प्राप्त्यनन्तरम् ।  
 वियोगभीत्या चेत्येवं सर्वदा खिद्यते मनः ॥ १२९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२९५</summary>
+
+१२९५
+Anxious of not getting, and of losing when got,
+Either way my heart is always anxious.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२९५</summary>
@@ -185,6 +226,14 @@ O my heart suffers ceaseless pain.        1295
 मां भक्षयति किं चित्तमितीव व्यसनं मम ॥ १२९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२९६</summary>
+
+१२९६
+If my heart stays with me here,
+It is to devour me when I am musing alone. *
+(P.S. Sundaram), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९६</summary>
 
 1296 taṉiyē iruntu niṉaittakkāl eṉṉait  
@@ -217,6 +266,14 @@ As I muse on him all alone.        1296
 
 विस्मर्तु कामुको येन मनसा नैव शक्यते ।  
 तादृङ्मूढमनोयोगात् लज्जां विस्मृतवत्यहम् ॥ १२९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२९७</summary>
+
+१२९७
+Even modesty I have forgotten,
+Due to my meek and foolish heart unable to forget him. *
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२९७</summary>
@@ -253,6 +310,14 @@ In mean foolish mind I'm caught.        1297
 जीवनाशायुतं चित्तं सदा ध्यायति तद्गुणान् ॥ १२९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२९८</summary>
+
+१२९८
+My dear loving heart decrees, my lord is not to be shamed
+And thus hails only his glory. *
+(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९८</summary>
 
 1298 eḷḷiṉ iḷivāmeṉṟu eṇṇi avartiṟam  
@@ -287,6 +352,14 @@ Hails his glory ignoring blame.        1298
 स्वस्मै साह्यं न कुर्याच्चेत् के वान्ये साह्यकारिणः ॥ १२९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२९९</summary>
+
+१२९९
+Who will help one in distress,
+When one’s own heart refuses to help? *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९९</summary>
 
 1299 tuṉpattiṟku yārē tuṇaiyāvār tāmuṭaiya  
@@ -319,6 +392,14 @@ If lover's heart denies relief?        1299
 
 स्वशस्थं स्वीयचित्तं बन्धुतां चेन्न पालयेत् ।  
 बन्धत्वपालनाभावो ह्यन्येषां युज्यते किल ॥ १३००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३००</summary>
+
+१३००
+When one's own heart behaves like a stranger,
+Why talk of strangers?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३००</summary>

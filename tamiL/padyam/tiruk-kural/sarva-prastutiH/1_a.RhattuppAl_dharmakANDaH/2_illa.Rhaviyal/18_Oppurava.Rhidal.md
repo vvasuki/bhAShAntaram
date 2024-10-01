@@ -3,6 +3,7 @@ title = "१८ ऒप्पुरवऱिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २११</summary>
 
 कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु  
@@ -13,6 +14,14 @@ title = "१८ ऒप्पुरवऱिदल्"
 
 मेघानं वर्षतां नित्यं कि साह्यं कुर्वते जनाः ।  
 मेघतुल्या महान्तोऽपि निष्काममुपकुर्वते ॥ २११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २११</summary>
+
+०२११
+Duty is not for reward.
+Does the world recompense the rain-cloud?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २११</summary>
@@ -49,6 +58,14 @@ How can the world recompense rain?        211
 सत्पात्रे दीयमानं सत् प्रयोजनकरं भवेत् ॥ २१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २१२</summary>
+
+०२१२
+All the wealth earned by toils
+Is meant to serve those who deserve. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २१२</summary>
 
 212\. tāḷ āṟṟit tanta poruḷ ellām takkārkku  
@@ -81,6 +98,14 @@ Is meant to serve those who deserve.        212
 
 लोकोपकारिताख्येन धर्मेण भुवि जीवनात् ।  
 सत्कार्यमुत्तमं नास्ति स्वर्गे वा भूतलेऽपि वा ॥ २१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २१३</summary>
+
+०२१३
+Rare it is to find another good equal to benevolence,
+Either here or in the heaven. *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१३</summary>
@@ -117,6 +142,14 @@ A greater good than being kind.        213
 स जीवति शरीरेण मृतप्रायो नरोऽपरः ॥ २१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २१४</summary>
+
+०२१४
+He who realizes what is oneness, lives;
+The rest will be placed among the dead.
+(G. Vanmikanathan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २१४</summary>
 
 214\. ottatu aṟivāṉ uyir vāḻvāṉ; maṟṟaiyāṉ  
@@ -149,6 +182,14 @@ Others are deemed as dead in fact.        214
 
 जलपूर्णतटाकेन भवन्ति सुखिनो जनाः ।  
 लोकोपकारिणो भाग्यं लोकसौख्यं प्रयच्छति ॥ २१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २१५</summary>
+
+०२१५
+The wealth of a wise philanthropist
+Is a village pool ever full.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१५</summary>
@@ -185,6 +226,14 @@ Is like water that fills a lake.        215
 लोकोपकारी वित्ताढयस्तथा स्यादुपकारकः ॥ २१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २१६</summary>
+
+०२१६
+When wealth comes to the generous,
+It is like the village tree coming to fruit. *
+(C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २१६</summary>
 
 216\. payaṉ maram uḷḷūrp paḻuttaṟṟāl-celvam  
@@ -217,6 +266,14 @@ Is like town-tree teeming with fruits.        216
 
 सर्वभागैर्यथा वृक्षः रुग्णानामौषधायते ।  
 लोकोपकारिणो वित्तं तथा सर्वोपकारकम् ॥ २१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २१७</summary>
+
+०२१७
+When wealth comes to the large-hearted,
+It is like an unfailing medicine tree. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१७</summary>
@@ -253,6 +310,14 @@ Is a herbal tree that healeth all.        217
 स्वस्य दारिद्र्यकालेऽपि परेषामुपकर्वते ॥ २१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २१८</summary>
+
+०२१८
+Those known for their duty will not slacken to help
+Even during times of poverty.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २१८</summary>
 
 218\. iṭaṉ il paruvattum, oppuraviṟku olkār-  
@@ -287,6 +352,14 @@ Their sense of duty never strays.        218
 न शक्नोम्यधिकं दान्तु दारुद्र्ययेति यन्मतम् ॥ २१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २१९</summary>
+
+०२१९
+The poverty of a generous man is nothing but
+His inability to exercise his generosity. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २१९</summary>
 
 219\. nayaṉ uṭaiyāṉ nalkūrntāṉ ātal ceyum nīra  
@@ -319,6 +392,14 @@ Is want of means to give relief.        219
 
 लोकोपकारात् दारिद्र्यं जायेतेति वदेत् यदि ।  
 भप्यात्मविक्रयेणैतत् दारिद्र्यक्रयणं वरम् ॥ २२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २२०</summary>
+
+०२२०
+If poverty comes of doing good,
+One's self may be sold to do it.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २२०</summary>

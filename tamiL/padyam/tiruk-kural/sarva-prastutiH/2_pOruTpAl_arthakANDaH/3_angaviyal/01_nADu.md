@@ -3,6 +3,7 @@ title = "०१ नाडु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७३१</summary>
 
 तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
@@ -14,6 +15,14 @@ title = "०१ नाडु"
 अधिकारः ७४. देशः  
 कृषिकर्मविदां श्रेष्ठैः स्वधर्मनिरतैः सदा ।  
 धनार्जनपरैर्वैश्यैः युक्तो देश इतीर्यते ॥ ७३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७३१</summary>
+
+०७३१
+Unfailing harvests, learned men and honest traders
+Constitute a country. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७३१</summary>
@@ -52,6 +61,14 @@ Unfailing yields and ample wealth.        731
 देशान्तरजनश्लाघ्यं देशमाहुर्मनीषिणः ॥ ७३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७३२</summary>
+
+०७३२
+A land is known for its great wealth
+Of abundant produce that never declines.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७३२</summary>
 
 732\. perum poruḷāṉ peṭṭakkatu āki, aruṅ kēṭṭāl,  
@@ -84,6 +101,14 @@ Where pests are nil and yields are sure.        732
 
 देशान्तरादागतानां जनानां वहनात् स्वयम् ।  
 वस्तून्युत्पाध राज्ञे च दानाद् देश इति स्मृतः ॥ ७३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७३३</summary>
+
+०७३३
+An ideal land bears all burdens that befall
+And yet pays all taxes to the king. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७३३</summary>
@@ -120,6 +145,14 @@ And pays its tax which king demands.        733
 विमुक्तमेधमानं च ब्रुवते देशसंज्ञया ॥ ७३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७३४</summary>
+
+०७३४
+That is a land which is free of much hunger,
+Incessant plagues and ravaging enemies.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७३४</summary>
 
 734\. uṟu paciyum, ōvāp piṇiyum, ceṟu pakaiyum,  
@@ -152,6 +185,14 @@ Fierce famine, plague and foemen's harm.        734
 
 भिन्नलक्ष्यवतां सङ्घरन्तश्छिद्रैरनर्थदैः ।  
 घातकैः क्षुद्रभूपैश्च मुक्तो देशः स कथ्यते ॥ ७३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७३५</summary>
+
+०७३५
+That is a land free from factions,
+Ruinous traitors and terrorists harassing kings.
+(M.S. Poornalingam Pillai), (J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७३५</summary>
@@ -188,6 +229,14 @@ No traitors in a land tranquil.        735
 समृद्धिसहितो देशो देशेषूत्तमतां व्रजेत् ॥ ७३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७३६</summary>
+
+०७३६
+Call that a leading land that knows no evil days,
+And whose yields don't cease even if they come. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७३६</summary>
 
 736\. kēṭu aṟiyā, keṭṭa iṭattum vaḷam kuṉṟā  
@@ -220,6 +269,14 @@ Even in grief its wealth yet grows.        736
 
 तटाकैर्दृढदुर्गैश्च पर्वतैर्निझरैस्ततः ।  
 नदीमिः पञ्चभिश्चाङ्गः युक्तं देशं प्रचक्षते ॥ ७३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७३७</summary>
+
+०७३७
+A land's limbs are waters from rains,
+Springs and well placed hills, and strong fortress. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७३७</summary>
@@ -256,6 +313,14 @@ With strong forts as limbs country beams.        737
 दुर्गश्च पञ्च देशस्य मण्डनानि भवन्ति हि ॥ ७३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७३८</summary>
+
+०७३८
+A country's jewels are these five: Unfailing health,
+Fertility, joy, security and wealth. *
+(G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७३८</summary>
 
 738\. piṇi iṉmai, celvam, viḷaivu, iṉpam, ēmam-  
@@ -290,6 +355,14 @@ Are jewels of lands with blooming health.        738
 अन्विष्य यतमानोभ्यो दाता देशो न चोत्तमः ॥ ७३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७३९</summary>
+
+०७३९
+Call that a land which yields without toil.
+That is no land where toil precedes yield. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७३९</summary>
 
 739\. nāṭu eṉpa, nāṭā vaḷattaṉa; nāṭu alla,  
@@ -322,6 +395,14 @@ Needing hard work the land is nought.        739
 
 उक्तसर्वगुणाढयेऽपि देशे नास्ति प्रयोजनम् ।  
 यदि राज्ञः प्रजानां च मिथः प्रीतिर्न वर्तते ॥ ७४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७४०</summary>
+
+०७४०
+Even if endowed with all blessings, a country is no worth
+If not blessed with a ruler. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७४०</summary>

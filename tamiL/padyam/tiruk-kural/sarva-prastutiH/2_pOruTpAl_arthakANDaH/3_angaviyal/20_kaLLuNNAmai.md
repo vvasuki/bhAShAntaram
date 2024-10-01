@@ -3,6 +3,7 @@ title = "२० कळ्ळुण्णामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९२१</summary>
 
 उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाण्ड्रुम्  
@@ -14,6 +15,14 @@ title = "२० कळ्ळुण्णामै"
 अधिकारः ९३. मद्यपाननिषेधः  
 मद्यपानप्रियान् दृष्टा न बिभ्यति विरोधिनः ।  
 तथा तैरार्जिता कीर्तीः अचिरात् क्षीयते भुवि ॥ ९२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९२१</summary>
+
+०९२१
+Those who always love wine
+Will neither inspire fear in others nor retain their fame. *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९२१</summary>
@@ -50,6 +59,14 @@ The addicts daily their glory lose.        921
 महाद्भिर्माननीयोऽसौ न कदाचिद्भविष्यति ॥ ९२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९२२</summary>
+
+०९२२
+Drink no wine, or let them drink
+Who do not care what wise men think.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९२२</summary>
 
 922 uṇṇaṟka kaḷḷai uṇiluṇka cāṉṟōrāl  
@@ -82,6 +99,14 @@ Whom with esteem the wise won't think.        922
 
 जनन्याः पुरतो मद्यपानं क्लेशप्रदं यदि ।  
 पानं महात्मनामग्रे कियदुःखकरं भवेत् ॥ ९२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९२३</summary>
+
+०९२३
+When a drunkard's glee hurts his own mother,
+Why speak of the wise?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९२३</summary>
@@ -118,6 +143,14 @@ How vile must it look for the wise?        923
 लज्जाख्यरमणी स्थातुमशक्ता दूरतो व्रजेत् ॥ ९२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९२४</summary>
+
+०९२४
+The good lady Shame turns her back to men
+Addicted to the grave vice drunkenness. *
+(P.S. Sundaram), (S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९२४</summary>
 
 924 nāṇeṉṉum nallāḷ puṟamkoṭukkum kaḷḷeṉṉum  
@@ -150,6 +183,14 @@ Who is guilty of wine condemned.        924
 
 धनं दत्वा सुरां पीत्वा चोन्मादावस्थया स्थितिः ।  
 इतिकर्तव्यतामूढरूपाज्ञाननिरूपिका ॥ ९२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९२५</summary>
+
+०९२५
+It is sheer ignorance to spend one’s substance
+And obtain in return only insensibility. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९२५</summary>
@@ -186,6 +227,14 @@ Is nothing but rank ignorance.        925
 विषपायी सुरापायी द्वामिवौ च तथा समौ ॥ ९२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९२६</summary>
+
+०९२६
+Slumbers are no different from the dead.
+Nor alcoholics from consumers of poison.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९२६</summary>
 
 926 tuñciṉār cettāriṉ vēṟallar eññāṉṟum  
@@ -218,6 +267,14 @@ And doze ev'n like a dead body.        926
 
 सुरां रहसि संसेव्य नष्टप्रज्ञान् मदान्वितान् ।  
 ग्रामीणा हेतुभिस्तत्त्वमूह्य नूनं हसन्ति हि ॥ ९२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९२७</summary>
+
+०९२७
+Those who often get drunk in private
+Will soon become a laughing stock in public.
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९२७</summary>
@@ -254,6 +311,14 @@ Make the prying public laugh.        927
 पानमात्रेण चित्तस्थसत्यं किल विनिस्सरेत् ॥ ९२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९२८</summary>
+
+०९२८
+Drop saying, "I never drank":
+Hidden secrets will be out when drunk. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९२८</summary>
 
 928 kaḷittaṟiyēṉ eṉpatu kaiviṭuka neñcattu  
@@ -288,6 +353,14 @@ The hidden fraud is known abroad.        928
 दीपसाह्यान्नीरमग्रवस्त्वन्वेषणवाद् वृथा ॥ ९२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९२९</summary>
+
+०९२९
+To reason with one drowned in drink is like
+Searching with a candle for a man drowned in water. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९२९</summary>
 
 929 kaḷittāṉaik kāraṇam kāṭṭutal kīḻnīrk  
@@ -320,6 +393,14 @@ Can reason reach the raving drunk?        929
 
 अपीतमदिरः कश्चिद् दृष्ट्वा पानमदान्वितम् ।  
 ''इयं दशा ममापि स्यात् पानेन'' ति किं स्मरेत् ॥ ९३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३०</summary>
+
+०९३०
+When a drunkard sober sees another drunk,
+Why does he not note his own damage?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३०</summary>

@@ -3,6 +3,7 @@ title = "०३ नीत्तार् पॆरुमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २१</summary>
 
 ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
@@ -13,6 +14,14 @@ title = "०३ नीत्तार् पॆरुमै"
 
 संन्यासैनां सदाचारशीलानां विदितात्मनाम् ।  
 आमनन्ति समे ग्रन्थाः मान्या माहात्म्यमुत्तमम् ॥ २१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २१</summary>
+
+००२१
+Scriptures ought to exalt with firmness
+The greatness of disciplined ascetics. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१</summary>
@@ -49,6 +58,14 @@ As theirs who sense and self deny.         21
 कति जाता मृताश्चे''ति गणनेन समं भवेत् ॥ २२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २२</summary>
+
+००२२
+To recount an ascetic's greatness
+Is to count the world's dead. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २२</summary>
 
 22\. tuṟantār perumai tuṇaik kūṟiṉ, vaiyattu  
@@ -83,6 +100,14 @@ Is to count the dead upon the sphere.         22
 संन्यासं भजतां मुक्त्यै प्रभावो बहुमन्यते ॥ २३॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २३</summary>
+
+००२३
+The world shines on the greatness of those who,
+Knowing both, choose renunciation. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २३</summary>
 
 23\. irumai vakai terintu īṇṭu aṟam pūṇṭār  
@@ -115,6 +140,14 @@ Who know the right and virtue wear.         23
 
 धैर्याङ्कुशेन् संयम्य गजान् पञ्चेन्द्रियात्मकान् ।  
 यः पालयत्ययं मोक्षफलकृद्वीजवद्भवेत् ॥ २४॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २४</summary>
+
+००२४
+The restraint of senses five by the ankush of firmness
+Is the seed for the bliss of heaven.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २४</summary>
@@ -152,6 +185,14 @@ The senses five, is heaven to gain.         24
 गौतमादात्तशापोऽत्र देवराजो निदर्शनम् ॥ २५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २५</summary>
+
+००२५
+Even the celestial king Indra will vouch the strength
+Of one who rules his senses five. *
+(K. Kannan), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५</summary>
 
 25\. aintu avittāṉ āṟṟal, akal vicumpuḷār kōmāṉ  
@@ -184,6 +225,14 @@ How great the power ascetics' sway.         25
 
 सर्वेन्द्रियजयाख्यानं कर्मान्यैर्दुष्करं जनैः ।  
 ये कुर्वन्त्युत्तमास्ते स्युः अन्येत्वधम मध्यमाः ॥ २६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २६</summary>
+
+००२६
+Great people take on difficult tasks;
+Small people avoid them.
+(Norman Cutler)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६</summary>
@@ -220,6 +269,14 @@ The great achieve things rare to do.         26
 जानाति यः प्रपञ्चोऽयं वशे तस्य भविष्यति ॥ २७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २७</summary>
+
+००२७
+This world is his who knows for what these five are:
+Taste, sight, touch, sound and smell. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २७</summary>
 
 27\. cuvai, oḷi, ūṟu, ōcai, nāṟṟam eṉṟu aintiṉ  
@@ -252,6 +309,14 @@ Of taste, sight, hearing, touch and smell.         27
 
 यतोक्तधर्मनिष्ठानां यतीनां महिमादिकम् ।  
 मन्त्रादि सहितैर्वेदवाक्यैरेव निरूप्यते ॥ २८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २८</summary>
+
+००२८
+The scriptures of the world proclaim
+The potent utterance of the great.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २८</summary>
@@ -288,6 +353,14 @@ Their greatness to the world display.         28
 क्षणिकोऽपि स दुर्वारफलःशान्तिप्रसादने ॥ २९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २९</summary>
+
+००२९
+The wrath of those who have scaled the heights of character
+Can't be endured even for a moment. *
+(K. Kannan), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २९</summary>
 
 29\. kuṇam eṉṉum kuṉṟu ēṟi niṉṟār vekuḷi  
@@ -320,6 +393,14 @@ Though transient, cannot be withstood.         29
 
 सर्वभूतदयासान्द्राः ये तु धर्मपरायणाः ।  
 त एव ब्राह्मणाः प्रोक्ताः यतयः संशितव्रता ॥ ३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३०</summary>
+
+००३०
+Ascetics are called men of virtue
+For they assume the role of mercy for all that live.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३०</summary>

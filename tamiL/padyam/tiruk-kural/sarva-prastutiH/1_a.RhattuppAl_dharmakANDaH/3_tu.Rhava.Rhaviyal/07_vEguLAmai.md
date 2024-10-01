@@ -3,6 +3,7 @@ title = "०७ वॆगुळामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ३०१</summary>
 
 सॆल्लिडत्तुक् काप्पान् सिनङ्गाप्पान् अल्लिडत्तुक्  
@@ -13,6 +14,14 @@ title = "०७ वॆगुळामै"
 
 अशक्ते कोपरहितः जितक्रोध इतीर्यते ।  
 शक्ते क्रोधं जयतु वा मा वा स विषयः परः ॥ ३०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३०१</summary>
+
+०३०१
+Curb wrath in places where it matters. In other places,
+What matters if curbed or uncurbed? *
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३०१</summary>
@@ -49,6 +58,14 @@ It is futile against the strong.        301
 अशक्ते कुपितो निन्दां पापं च लभते द्वयम् ॥ ३०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३०२</summary>
+
+०३०२
+Even where it cannot hurt others, anger is bad;
+But where it does, there is nothing worse.
+(S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३०२</summary>
 
 302\. cellā iṭattuc ciṉam tītu; cel iṭattum,  
@@ -81,6 +98,14 @@ Against the meek it is still worse.        302
 
 विस्मृत्य वर्तितव्यं तु सर्वत्र क्रोधमन्तरा ।  
 क्रोधाद्भवन्ति दुःखानां परिणामास्त्वनेकधा ॥ ३०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३०३</summary>
+
+०३०३
+From anger is born all evil.
+Forget provocation given by anyone. *
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३०३</summary>
@@ -117,6 +142,14 @@ It is the source of sin and pain.        303
 तस्मात् क्रोधसमः शत्रुः को न्वस्ति भुवि देहिनाम्? ॥ ३०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३०४</summary>
+
+०३०४
+Can there be a greater foe than anger
+Which kills laughter and joy? *
+(C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३०४</summary>
 
 304\. nakaiyum uvakaiyum kollum ciṉattiṉ  
@@ -149,6 +182,14 @@ Which kills the smile and joyful cheer?        304
 
 य आत्मरक्षणे व्यग्रः स कोपं परिवर्जयेत् ।  
 अन्यथा शत्रु भूतोऽसौ नाशयेत् कोपशालिनम् ॥ ३०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३०५</summary>
+
+०३०५
+If you want to guard yourself, guard against anger;
+If unguarded, anger will kill you. *
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३०५</summary>
@@ -185,6 +226,14 @@ If not thyself the wrath will slay.        305
 ज्ञानोपदेष्टन् दूरस्थान दहेन्नौकासमान् गुरून् ॥ ३०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३०६</summary>
+
+०३०६
+The fire of anger which kills kinsmen
+Burns the life-saving boat of kith and kin.
+(N.V.K. Ashraf), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३०६</summary>
 
 306\. ciṉam eṉṉum cērntāraikkolli iṉam eṉṉum  
@@ -217,6 +266,14 @@ It burns the helpful kinship-barge.        306
 
 वस्तुना कोपरूपेण स्वप्रभाव प्रकाशकः ।  
 महीं ताडयते हस्त इव नृनं प्रबाध्यते ॥ ३०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३०७</summary>
+
+०३०७
+He who holds anger worthy will be hurt
+Like the hands that smash the earth. *
+(C. Rajagopalachari), (K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३०७</summary>
@@ -253,6 +310,14 @@ Like failless-hand that strikes the ground.        307
 कुर्वत्यपि नरे क्रोधो न कार्यो यदि शक्यते ॥ ३०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३०८</summary>
+
+०३०८
+Better curb one's wrath even if tortured
+Like being forced into blazing fire.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३०८</summary>
 
 308\. iṇar eri tōyvaṉṉa iṉṉā ceyiṉum,  
@@ -287,6 +352,14 @@ Though tortured like the touch of fire.        308
 वाञ्छिताः सम्पदः सर्वाः सद्य एवाप्नुवन्ति तम् ॥ ३०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३०९</summary>
+
+०३०९
+All wishes are realized at once
+If they keep away wrath from their mind.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३०९</summary>
 
 309\. uḷḷiya ellām uṭaṉ eytum-uḷḷattāl  
@@ -319,6 +392,14 @@ If man refrains from rage vicious!        309
 
 नराः क्रोधवशं प्राप्ता मृतप्राया भवन्ति हि ।  
 जितक्रोधा नराः सर्वे मन्यन्ते योगिभिः समाः ॥ ३१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३१०</summary>
+
+०३१०
+Deem those given to anger dead
+And those renounced it on par with saints.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१०</summary>

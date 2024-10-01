@@ -3,6 +3,7 @@ title = "०३ पॆरुमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९७१</summary>
 
 ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु  
@@ -14,6 +15,14 @@ title = "०३ पॆरुमै"
 अधिकारः ९८. महत्त्वम्  
 लोके कस्यचिदुत्साहो महत्त्वमिति कथ्यते ।  
 विनोत्साहं जीवनेच्छा महत्वाभाव उच्यते ॥ ९७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९७१</summary>
+
+०९७१
+Honour is to crave for excellence.
+Dishonor is to say: “I shall live without it”.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९७१</summary>
@@ -50,6 +59,14 @@ Devoid of that one's life is night.        971
 महत्त्वतदाभावौ तु भिन्नौ जीवेषु तिष्ठतः ॥ ९७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९७२</summary>
+
+०९७२
+By birth all men are equal. Differences in their action
+Render their worth unequal.
+(S. Maharajan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९७२</summary>
 
 972 piṟappuokkum ellā uyirkkum ciṟappuovvā  
@@ -82,6 +99,14 @@ But work decides their varied worth.        972
 
 श्रेष्ठकर्म विन श्रेष्ठकृत्यात् सामान्योऽपि महान् भवेत् ।  
 विना स्थानां श्रेष्ठकृत्यात् सामान्योऽपि महान् भवेत् ॥ ९७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९७३</summary>
+
+०९७३
+Neither the high-born who act low are high,
+Nor the low-born who act high, low. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९७३</summary>
@@ -118,6 +143,14 @@ The noble low not low they fare.        973
 महिमानं स विन्देत दृढचित्ता सती यथा ॥ ९७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९७४</summary>
+
+०९७४
+Even greatness, like a woman’s chastity,
+Belongs only to him who guards himself.
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९७४</summary>
 
 974 orumai makaḷirē pōlap perumaiyum  
@@ -150,6 +183,14 @@ Is guarded by self-varacity.        974
 
 महत्त्वगुणसम्पन्नाः कर्तव्यं कार्यमुत्तमम् ।  
 विहितेन पथा कर्तुं भवेयुः शक्तिशालिनः ॥ ९७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९७५</summary>
+
+०९७५
+If the great achieve anything,
+It will be deeds rare in achievement. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९७५</summary>
@@ -186,6 +227,14 @@ Do mighty deeds rare to achieve.        975
 इति न स्यान्मतिर्नीचेष्वात्मश्लाघापरेषु च ॥ ९७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९७६</summary>
+
+०९७६
+It is not in the nature of the small to have
+That outlook of emulating the great. *
+(S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९७६</summary>
 
 976 ciṟiyār uṇarcciyuḷ illai periyāraip  
@@ -218,6 +267,14 @@ The mind to seek and befriend the great.        976
 
 सज्जनार्हमहत्वाख्यगुणो विद्यादिवर्जितम् ।  
 अस्थानपुरुषं प्राप्य तं कुर्याद् गर्वपूरितम् ॥ ९७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९७७</summary>
+
+०९७७
+If any distinction falls on the little minded,
+Their insolence will know no bounds. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९७७</summary>
@@ -254,6 +311,14 @@ Wax with deeds of insolence.        977
 तद्विहीना निजस्तोत्रकरणैकपरायणाः ॥ ९७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९७८</summary>
+
+०९७८
+The great are always humble,
+And the small lost in self-admiration.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९७८</summary>
 
 978 paṇiyumām eṉṟum perumai ciṟumai  
@@ -288,6 +353,14 @@ Meanness vaunts with vanity        978
 निष्कारणमहङ्कारवत्ता नीचत्वलक्षणम् ॥ ९७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९७९</summary>
+
+०९७९
+The great are never puffed up,
+While the small are inordinately proud. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९७९</summary>
 
 979 perumai perumitam iṉmai ciṟumai  
@@ -320,6 +393,14 @@ Littleness swells with that offence.        979
 
 महान्तः परदोषाणां दर्शने विमुखाः किल ।  
 अधमाः परदोषैकदर्शने नितरां प्रियाः ॥ ९८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९८०</summary>
+
+०९८०
+The great hide others' faults.
+Only the small talk of nothing else.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९८०</summary>

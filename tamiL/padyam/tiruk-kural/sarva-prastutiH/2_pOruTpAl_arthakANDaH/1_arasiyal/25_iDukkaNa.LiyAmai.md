@@ -3,6 +3,7 @@ title = "२५ इडुक्कणऴियामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६२१</summary>
 
 इडुक्कण् वरुङ्गाल् नगुग अदनै  
@@ -14,6 +15,14 @@ title = "२५ इडुक्कणऴियामै"
 अधिकारः ६३. औत्सुक्यम्  
 प्राप्तेऽपि व्यसने खेदं त्यक्तवोत्साहपरो भव ।  
 खापनोदनपटुरुत्साहानास्ति कश्चन ॥ ६२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६२१</summary>
+
+०६२१
+Laugh at misfortune. There is nothing so able,
+To triumph over it. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६२१</summary>
@@ -50,6 +59,14 @@ No other way to conquer woes.        621
 हृदये सुखरूपेण जानन् दुःखाद्विमुच्यते ॥ ६२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६२२</summary>
+
+०६२२
+Misfortune may rise like a flood,
+But the wise counter it by firm thoughts.*
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२२</summary>
 
 622\. veḷḷattu aṉaiya iṭumpai, aṟivu uṭaiyāṉ  
@@ -82,6 +99,14 @@ When wise men face them with firm thought.        622
 
 दुःखेष्वचञ्चलो भूत्वा नरो धैर्यगुणान्वितः ।  
 दुःखस्य दुःखं जनयन्नारब्धं कर्म साधयेत् ॥ ६२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६२३</summary>
+
+०६२३
+Those whom grief cannot grieve
+Can grieve grief itself. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६२३</summary>
@@ -118,6 +143,14 @@ Who grieve not grief by mind's relief.        623
 व्यवसायपरस्तद्वद् दुःखं दूरीकरोत्यहो ॥ ६२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६२४</summary>
+
+०६२४
+Trouble is troubled by him who like a bull
+Drags his cart through every hurdle.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२४</summary>
 
 624\. maṭutta vāy ellām pakaṭu aṉṉāṉ uṟṟa  
@@ -150,6 +183,14 @@ Causes grief to grieve anon.        624
 
 उपर्युपरि दुःखेषु प्राप्तेष्वपि मनोधृतिम् ।  
 यो विन्दते स वै मर्त्यो दुःखं दुःखस्य यच्छति ॥ ६२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६२५</summary>
+
+०६२५
+The resolute can put their troubles to trouble
+Even if it comes relentlessly.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६२५</summary>
@@ -186,6 +227,14 @@ Who dare a host of pressing woes.        625
 दारिद्र्ये नष्टमित्युक्त्वा व्यसनं न स विन्दते ॥ ६२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६२६</summary>
+
+०६२६
+Will they whine "We have nothing",
+Who never crowed "We have much?"
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२६</summary>
 
 626\. 'aṟṟēm!' eṉṟu allaṟpaṭupavō-'peṟṟēm!' eṉṟu  
@@ -218,6 +267,14 @@ Do not fret in fateful ruin.        626
 
 दुःखाश्रयो देह'' इति ज्ञात्वा तत्त्वविदां वराः ।  
 दुःखकाले समायते न मुञ्चन्ति मनोधृतिम् ॥ ६२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६२७</summary>
+
+०६२७
+Knowing body a target of miseries,
+The great are not troubled in calamities. *
+(Satguru Subramuniyaswami), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६२७</summary>
@@ -254,6 +311,14 @@ Knowing body's butt of sorrows.        627
 इति भावयतो दुःखं स्वप्रयत्नान्न जायते ॥ ६२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६२८</summary>
+
+०६२८
+He will never be sad who scorns delight
+And takes sorrow in his stride.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२८</summary>
 
 628\. iṉpam viḻaiyāṉ, ‘iṭumpai iyalpu’ eṉpāṉ,  
@@ -288,6 +353,14 @@ By sorrows do not come to harm.        628
 दुःखानुभववेलायां दुःखं तं नैव बाधते ॥ ६२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६२९</summary>
+
+०६२९
+He who never exulted in joy
+Will not be depressed by sorrow.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६२९</summary>
 
 629\. iṉpattuḷ iṉpam viḻaiyātāṉ, tuṉpattuḷ  
@@ -320,6 +393,14 @@ In grief he grieves not dual round!        629
 
 शत्रुणापि श्लघनीयमौन्नत्यं प्राप्नुयादयम् ।  
 दुःखमापतितं यस्तु सुखरूपेण भावयेत् ॥ ६३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६३०</summary>
+
+०६३०
+To take pain as pleasure
+Is to gain your foe's esteem.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६३०</summary>

@@ -3,6 +3,7 @@ title = "१७ पॆरियारैप् पिऴैयामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८९१</summary>
 
 आट्रुवार् आट्रल् इगऴामै पोट्रुवार्  
@@ -14,6 +15,14 @@ title = "१७ पॆरियारैप् पिऴैयामै"
 अधिकारः ९०. महात्मनिन्दानिराकरणम्  
 आत्मरक्षासाधनेषु श्रेष्ठं तत् तु प्रकीर्त्यते ।  
 यत्कार्यसाधनपटोः सामर्थ्यस्य परिग्रहः ॥ ८९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८९१</summary>
+
+०८९१
+The best way to guard oneself is to not spite
+The powers of the prowess. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९१</summary>
@@ -50,6 +59,14 @@ Safest safeguard to living brings.        891
 कस्यचित्सकलं दुःखं प्रददाति न संशयः ॥ ८९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८९२</summary>
+
+०८९२
+Irreverence to the great will lead
+To endless trouble through them.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९२</summary>
 
 892 periyāraip pēṇātu oḻukiṉ periyārāl  
@@ -82,6 +99,14 @@ Shall great troubles ceaseless create.        892
 
 शत्रुनिर्मूलनकृतिमिच्छामात्रेण कुर्वता ।  
 राज्ञा सह कुरु द्वेषं यदि त्वं नाशमिच्छसि ॥ ८९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८९३</summary>
+
+०८९३
+If destruction you desire, provoke those
+Who in turn can destroy as they desire. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९३</summary>
@@ -118,6 +143,14 @@ Offence against the mighty great.        893
 हन्तुर्यमस्य हस्ताभ्यामाह्वानसदृशं हि तत् ॥ ८९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८९४</summary>
+
+०८९४
+For the weak to challenge the mighty
+Is to summon yama with the hand.
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९४</summary>
 
 894 kūṟṟattaik kaiyāl viḷittaṟṟāl āṟṟuvārkku  
@@ -150,6 +183,14 @@ Death with their own hands invite.        894
 
 क्रूरसत्त्वसमायुक्तभृपक्रोधवशं गतः ।  
 आत्मनो रक्षणं तस्मात् कुत्र गत्वा करिष्यति ॥ ८९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८९५</summary>
+
+०८९५
+Where can he go and how can he thrive,
+Who falls foul of a powerful king?
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९५</summary>
@@ -186,6 +227,14 @@ Pursued by powerful monarch's ire?        895
 महातामपकारी तु जीवितुं न भवेत् क्षमः ॥ ८९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८९६</summary>
+
+०८९६
+One may survive even if burnt in fire
+But no survival for those who offend the great. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९६</summary>
 
 896 eriyāl cuṭappaṭiṉum uyvuṇṭām uyyār  
@@ -218,6 +267,14 @@ The great who offends escapes not.        896
 
 महात्मा सुतपःशीलः कुप्वेद्यदि महीपतिम् ।  
 तस्य भॄपस्य वित्तेन साम्राज्येनापि किं फलम् ॥ ८९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८९७</summary>
+
+०८९७
+What avails glorious life and great wealth
+If one incurs the wrath of the virtuous great? *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९७</summary>
@@ -254,6 +311,14 @@ Stately gifts and stores who can own?        897
 स्थिरप्रतिष्ठाः सन्तोऽपि क्षीयन्ते ते सबान्धवाः ॥ ८९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८९८</summary>
+
+०८९८
+If you underestimate the eminent,
+You will be shaken off the earth of all your ties. *
+(M.S. Poornalingam Pillai), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९८</summary>
 
 898 kuṉṟaṉṉār kuṉṟa matippiṉ kuṭiyoṭu  
@@ -288,6 +353,14 @@ The firm on earth lose home and all.        898
 देवेन्द्रो वा भवत्वेषः स्थानाद्भ्रष्टः पतत्यधः ॥ ८९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८९९</summary>
+
+०८९९
+Even the mightiest of kings can perish midway
+If men of high repute burst in rage. *
+(W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८९९</summary>
 
 899 ēntiya koḷkaiyār cīṟiṉ iṭaimurintu  
@@ -320,6 +393,14 @@ Ev'n Indra's empire meets damage.        899
 
 नानातपोबलवतां प्राप्ता ये कोपपात्रताम् ।  
 भूपास्ते बलवन्तोऽपि लभेरन् विलयं क्षणात् ॥ ९००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९००</summary>
+
+०९००
+Even men with all their might and aid
+Cannot be saved if great sages frown. *
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९००</summary>

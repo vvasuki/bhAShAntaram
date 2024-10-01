@@ -3,6 +3,7 @@ title = "२३ मडियिन्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६०१</summary>
 
 कुडियॆन्नुम् कुण्ड्रा विळक्कम् मडियॆन्नुम्  
@@ -14,6 +15,14 @@ title = "२३ मडियिन्मै"
 अधिकारः ६१. आलस्याभावः  
 कुलदीपं प्रभायुक्तमालस्याभिहिन्त तमः ।  
 क्रमेण समभिव्याप्य शमयेत् प्रभया विना ॥ ६०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६०१</summary>
+
+०६०१
+The eternal flame of a family vanishes
+When eclipsed by that dark cloud called laziness.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६०१</summary>
@@ -50,6 +59,14 @@ When foul idleness encloses.        601
 कुलगौरवहानिः स्याद् दोषाः स्युस्तस्य जीविते ॥ ६०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६०२</summary>
+
+०६०२
+Sloth is dismissed as sloth by those
+Who wish to retain their family repute.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६०२</summary>
 
 602\. maṭiyai maṭiyā oḻukal-kuṭiyaik  
@@ -82,6 +99,14 @@ Loath sloth as sloth; refuse it room.        602
 
 अनर्थकरमालस्यं जडो यः कुरुते वशे ।  
 तन्नाशात्पूर्वमेवास्य कुलं विलयमाप्नुयात् ॥ ६०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६०३</summary>
+
+०६०३
+A fool, who holds on to sloth,
+Will ruin his household before he gets ruined.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६०३</summary>
@@ -118,6 +143,14 @@ Before he dies ruins his house.        603
 तस्य दोषाः सम्भवन्ति लीयते च कुलोन्नतिः ॥ ६०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६०४</summary>
+
+०६०४
+The society that broods in sloth without striving,
+Decays and steeps in crime. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६०४</summary>
 
 604\. kuṭi maṭintu, kuṟṟam perukum-maṭi maṭintu,  
@@ -150,6 +183,14 @@ Ruin their house by evil growth.        604
 
 दीर्घनिद्रादीर्घसूत्रविस्मृत्यालस्यसंयुताः ।  
 नौकां मग्नोन्मुखां प्राप्ता इव नश्यन्ति ते ध्रुवम् ॥ ६०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६०५</summary>
+
+०६०५
+The pleasure-junks of destruction are four:
+Procrastination, forgetfulness, sloth and sleep.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६०५</summary>
@@ -186,6 +227,14 @@ These four are pleasure boats of loss.        605
 न कोऽपि लाभस्तेन स्यात् आलस्यगुणवान् यदि ॥ ६०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६०६</summary>
+
+०६०६
+Seldom do men possessed by sloth achieve anything great
+Even if they possess worldly wealth. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६०६</summary>
 
 606\. paṭi uṭaiyār paṟṟu amaintakkaṇṇum, maṭi uṭaiyār  
@@ -218,6 +267,14 @@ The slothful gain nothing of worth.        606
 
 विशेषयत्नरहिताः कार्येष्वालस्यभाग्जनाः ।  
 क्रूरवाक्यैर्विनिन्द्यास्ते भवन्ति सुहृदां पुरः ॥ ६०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६०७</summary>
+
+०६०७
+The lazy ones, inept in noble exertion,
+Must endure scolding and scorn. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६०७</summary>
@@ -254,6 +311,14 @@ Subject themselves to scornful words.        607
 यद्याप्नोति झाडित्येषः शत्रूणां वशमानयेत् ॥ ६०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६०८</summary>
+
+०६०८
+If sloth inhabits a family,
+The family will soon be enslaved to its foes. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६०८</summary>
 
 608\. maṭimai kuṭimaikkaṇ taṅkiṉ, taṉ oṉṉārkku  
@@ -288,6 +353,14 @@ It will become a slave of foes.        608
 आलस्यरूपदोषेण यो भवेन्न वशीकृतः ॥ ६०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६०९</summary>
+
+०६०९
+Even inherent flaws in a family can be overcome
+By getting rid of indolence.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६०९</summary>
 
 609\. kuṭi, āṇmaiyuḷ vanta kuṟṟam, oruvaṉ  
@@ -320,6 +393,14 @@ When one from sloth gets his release.        609
 
 विष्णुस्त्रिविक्रमो भूत्वा मितवान् यज्जगत्त्रयम् ।  
 विन्देत् तज्जगत्सर्वमालस्यरहितो नृपः ॥ ६१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६१०</summary>
+
+०६१०
+A king freed of sloth can get at once
+All that the Lord had measured by his feet. *
+(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६१०</summary>

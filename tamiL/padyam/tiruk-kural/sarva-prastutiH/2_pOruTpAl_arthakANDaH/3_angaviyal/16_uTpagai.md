@@ -3,6 +3,7 @@ title = "१६ उट्पगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८८१</summary>
 
 निऴल्नीरुम् इन्नाद इन्ना तमर्नीरुम्  
@@ -14,6 +15,14 @@ title = "१६ उट्पगै"
 अधिकारः ८९. आन्तरवैरम्  
 रोगप्रदे यदि जलच्छाये त्याज्ये यथा जनैः ।  
 ज्ञातयो दुःखदास्तद्वत् त्यज्या ह्यान्तरवैरिणः ॥ ८८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८८१</summary>
+
+०८८१
+Even shade and water unwholesome can harm
+Likewise one’s kinsmen if they hurt. * ((P.S. Sundaram))
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८८१</summary>
@@ -50,6 +59,14 @@ As water and shade do harm when bad.        881
 बन्धुवेषान् गूढशत्रून् दृष्ट्वा मेतव्य मेव हि ॥ ८८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८८२</summary>
+
+०८८२
+No need to fear an enemy wielding a sword.
+Beware of enemies posing as friends. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८८२</summary>
 
 882 vāḷpōl pakaivarai añcaṟka añcuka  
@@ -82,6 +99,14 @@ Fear foes who feign as kinsmen dear.        882
 
 गूढशत्रुभयादात्मरक्षणं युज्यते सदा ।  
 अन्यथा नाशमाप्नोति सूचीच्छिन्नघटो यथा ॥ ८८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८८३</summary>
+
+०८८३
+Guard against the foe within, lest he strike you
+In times of peril like the potter's knife. *
+(K. Kannan), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८८३</summary>
@@ -118,6 +143,14 @@ Will cut you, beware, like potters' steel.        883
 बन्धुनाशकरान् दोषान् तदा प्राप्नोत्ययं जनः ॥ ८८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८८४</summary>
+
+०८८४
+When hidden hatreds lurk in the mind,
+Myriad miseries manifest among kin. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८८४</summary>
 
 884 maṉammāṇā uṭpakai tōṉṟiṉ iṉammāṇā  
@@ -150,6 +183,14 @@ Foments trouble, spoils kinsmen!        884
 
 बान्धव्यमूलकं गूढवैरं भवेद्यदिः ।  
 मरणान्तानि दुःखानि लभते तत एव सः ॥ ८८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८८५</summary>
+
+०८८५
+Hidden hatred amongst kinsman
+Can cause all sorts of deadly sorrows. *
+(Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८८५</summary>
@@ -186,6 +227,14 @@ Bring life-endangering evil.        885
 न तस्य मरणाभावो भविष्यति कदाचन ॥ ८८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८८६</summary>
+
+०८८६
+Unanimity will disappear for ever
+Once disunity arises within a union.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८८६</summary>
 
 886 oṉṟāmai oṉṟiyār kaṇpaṭiṉ eññāṉṟum  
@@ -218,6 +267,14 @@ Life-destroying deadly evils.        886
 
 बहिर्यथा ताम्रखण्डौ युक्तौ स्यातां न चान्तरा ।  
 तथाऽन्तःशत्रवोऽन्योन्यं बहिर्युक्तौ न वै हृदा ॥ ८८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८८७</summary>
+
+०८८७
+A house that harbours hatred, like a vial and its lid,
+Seems one but comes apart. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८८७</summary>
@@ -254,6 +311,14 @@ Just seems on like the lid in jar.        887
 अयःपिण्डः कृपाणेन घृष्टो नाशं व्रजेद्यथा ॥ ८८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८८८</summary>
+
+०८८८
+A family with internal frictions wears out
+And loses its strength like gold being filed. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८८८</summary>
 
 888 aramporuta poṉpōlat tēyum uramporutu  
@@ -288,6 +353,14 @@ Like gold crumbling by file's contact.        888
 कुलनाशकरानिष्टं महान्तं जनयेत् किल ॥ ८८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८८९</summary>
+
+०८८९
+Even a dissent as small as a seed,
+Can trigger that destructive internal hatred.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८८९</summary>
 
 889 eṭpakavu aṉṉa ciṟumaittē āyiṉum  
@@ -320,6 +393,14 @@ As slit in sesame though it be.        889
 
 लोके भिन्नमनस्तत्त्वैर्मानवैस्सह जीवनम् ।  
 एकत्रैव गृहे सर्पैः सहवाससमं भवेत् ॥ ८९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८९०</summary>
+
+०८९०
+To partner one with a hidden hate
+Is to share a hut with a cobra.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८९०</summary>

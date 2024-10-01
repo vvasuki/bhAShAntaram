@@ -3,6 +3,7 @@ title = "०१ कडवुळ् वाऴ्त्तु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १</summary>
 
 अ-कर मुदल ऎऴुत्त् ऎल्लाम् आदि  
@@ -15,6 +16,14 @@ title = "०१ कडवुळ् वाऴ्त्तु"
 समस्तान्य् अक्षराणि च ।  
 चराचर-प्रपञ्चोऽयम्  
 ईश्वराद् एव **जायते** ॥ १॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १</summary>
+
+०००१
+With alpha begins all alphabets;
+And the world with the first Bagavan. *
+(K.N. Subramanyam), (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १</summary>
@@ -53,6 +62,14 @@ Leads and lords the entire world.         1
 **न** तैर् अस्ति **प्रयोजनम्** ॥ २॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २</summary>
+
+०००२
+Of what avail is learning if one worships not
+The holy feet of Pure Intelligence? *
+(V.V.S. Aiyar), (G. Vanmikanathan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २</summary>
 
 2\. kaṟṟataṉāl āya payaṉ eṉkol-vāl-aṟivaṉ  
@@ -87,6 +104,14 @@ At His good feet who knoweth all.         2
 वासिनो जगद्-ईशितुः ।  
 **भजतां** पाद-युगलं  
 **जायन्ते** नित्य-सम्पदः ॥ ३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३</summary>
+
+०००३
+Long life on earth is theirs who reach
+The glorious feet of Him who walked on flowers.
+(P.S. Sundaram), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३</summary>
@@ -125,6 +150,14 @@ The feet of God in florid brain.         3
 **न** स्याद् **दुःखं** कदाचन ॥ ४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४</summary>
+
+०००४
+No evil will befall those who reach the feet
+Of the One beyond likes and dislikes.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४</summary>
 
 4\. vēṇṭutal vēṇṭāmai ilāṉ aṭi cērntārkku  
@@ -159,6 +192,14 @@ Are free from woes of human births.         4
 **ज्ञात्वा** तं **भजतां** नृणाम् ।  
 अज्ञान-मूलकं कर्म  
 द्विविधं चापि **नश्यति** ॥ ५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५</summary>
+
+०००५
+The twin deeds of dark illusion do not affect those
+Who delight meaningfully in Lord's praise. *
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५</summary>
@@ -197,6 +238,14 @@ And wrong, the twins of dreaming night.         5
 **गच्छन्** नित्य-**सुखी** भवेत् ॥ ६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६</summary>
+
+०००६
+Long life is theirs who tread the path of Him
+Who conquered the five senses.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६</summary>
 
 6\. poṟi vāyil aintu avittāṉ poy tīr oḻukka  
@@ -229,6 +278,14 @@ Who has the senses signed away.         6
 
 ईशं निरुपमं नित्यं यो वै शरणमाश्रितः ।  
 स एवदुःखरहितो नित्यं सुखमिहाश्नुते ॥ ७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७</summary>
+
+०००७
+They alone escape from sorrows who take refuge
+In the feet of Him beyond compare. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७</summary>
@@ -265,6 +322,14 @@ Alone can ease the anxious mind.         7
 अलब्ध्वा दुःखजलधेः पारं गन्तुं न शक्यते ॥ ८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८</summary>
+
+०००८
+None can swim the sea of births, but those united
+To the feet of that Being, a sea of virtue. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८</summary>
 
 8\. aṟa āḻi antaṇaṉ tāḷ cērntārkku allāl,  
@@ -299,6 +364,14 @@ Who clasps the feet of Virtue's sea.         8
 दृष्टया विरहितं चक्षुरिव तस्य शिरो वृथा ॥ ९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९</summary>
+
+०००९
+Depraved, senseless and worthless is the head
+Unbowed at the feet of Him with eight qualities.
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९</summary>
 
 9\. kōḷ il poṟiyil kuṇam ilavē-eṇkuṇattāṉ  
@@ -331,6 +404,14 @@ Which bows not to Eight-Virtued Divine.         9
 
 नावं भगवतः पादरूपिणीं प्राप्नुवन्ति ये ।  
 ते तरन्ति भवाम्भोधिमितरैस्तर्तुमक्षमम् ॥ १०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०</summary>
+
+००१०
+The ocean of births can be crossed by none other than
+Those who reach the feet of the Lord. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०</summary>

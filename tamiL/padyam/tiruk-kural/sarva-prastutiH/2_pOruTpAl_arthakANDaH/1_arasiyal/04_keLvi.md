@@ -3,6 +3,7 @@ title = "०४ केळ्वि"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४११</summary>
 
 सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्  
@@ -13,6 +14,14 @@ title = "०४ केळ्वि"
 
 श्रुत्वा यद् ज्ञायते तत्त्वं तदप्योकं भवेत् ।  
 सत्सु वित्तेषु बहुषु मुख्यमेतद्विभाव्यते ॥ ४११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४११</summary>
+
+०४११
+The wealth of wealths is the wealth of hearing;
+That wealth out-tops all else. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४११</summary>
@@ -49,6 +58,14 @@ It is the best of wealths on earth.        411
 देयं देहस्य चाप्यन्नं श्रोत्राभावे कयं श्रुति ॥ ४१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४१२</summary>
+
+०४१२
+When there is no food for the ear,
+A little can be given to the stomach as well.
+(G. Vanmikanathan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४१२</summary>
 
 412\. cevikku uṇavu illāta pōḻtu, ciṟitu,  
@@ -81,6 +98,14 @@ When the ear gets no food for thought.        412
 
 श्रोत्रैः श्रवणरूपान्नसेविनो भूगता अपि ।  
 हविर्भुग्भिरमर्त्यैस्तु भवेयुः सदृशा नराः ॥ ४१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४१३</summary>
+
+०४१३
+As gods in heaven are fed through fire,
+So men on earth are fed through their ears.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४१३</summary>
@@ -117,6 +142,14 @@ Equal gods on oblations fed.        413
 तद् ज्ञानं साह्यदं खेदे करयष्टिसमं तव ॥ ४१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४१४</summary>
+
+०४१४
+Though unlettered, listen;
+You will find this a great help in distress.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४१४</summary>
 
 414\. kaṟṟilaṉ āyiṉum kēṭka; aḵtu oruvaṟku  
@@ -149,6 +182,14 @@ That serves a staff and stay in need.        414
 
 वचांस्याचारशीलानां साह्यदानि सदा नृणाम् ।  
 पङ्कदेशे विचरतो हस्तालम्बनदण्डवत् ॥ ४१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४१५</summary>
+
+०४१५
+Words from the lips of upright men
+Are like a steadying staff in a slippery place.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४१५</summary>
@@ -185,6 +226,14 @@ A strong staff on slippery ground.        415
 असकृत् श्रवणात् तत्त्वं ज्ञातं सत् पूर्णतां व्रजेत् ॥ ४१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४१६</summary>
+
+०४१६
+Listen to the good however little
+And even that much will bring great dignity.
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४१६</summary>
 
 416\. eṉaittāṉum nallavai kēṭka! aṉaittāṉum  
@@ -217,6 +266,14 @@ That much will highly exalt you.        416
 
 बहुश्रुता बहुज्ञाश्च सन्तो मोहवशात् कचित् ।  
 अजानन्तोऽपि याथार्थ्ये न ब्रूयुर्मोहदं वचः ॥ ४१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४१७</summary>
+
+०४१७
+Those who have sought and heard much
+Will not talk nonsense even by mistake.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४१७</summary>
@@ -253,6 +310,14 @@ Not ev'n by slip speak foolishly.        417
 ग्राहकं त्वन्यशब्दानां श्रोत्रं बाधिर्यवन्मतम् ॥ ४१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४१८</summary>
+
+०४१८
+Ears may hear and yet remain deaf,
+If not drilled by words of instruction.
+(Satguru Subramuniyaswami), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४१८</summary>
 
 418\. kēṭpiṉum kēḷāt takaiyavē-kēḷviyāl  
@@ -287,6 +352,14 @@ Which is not by wisdom drilled.        418
 ते विनीतवचोयुक्ता भवेयु र्न तथा परे ॥ ४१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४१९</summary>
+
+०४१९
+A modest mouth is hard for those
+Whose ears lend not to wise counsels.
+( Shuddhananda Bharatiar), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४१९</summary>
 
 419\. nuṇaṅkiya kēḷviyar allār vaṇaṅkiya  
@@ -319,6 +392,14 @@ Who care little to counsels wise.        419
 
 श्रोत्रैर्नवरसास्वादमकृत्वा जिह्वया परम् ।  
 षड्सास्वादचतुरा जीवन्तोऽपि मृतैः समाः ॥ ४२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४२०</summary>
+
+०४२०
+What matters if they live or die
+Whose taste is in their tongues, not ears?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४२०</summary>

@@ -3,6 +3,7 @@ title = "०८ सिट्रिनञ्जेरामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४५१</summary>
 
 सिट्रिनम् अञ्जुम् पॆरुमै सिऱुमैदान्  
@@ -13,6 +14,14 @@ title = "०८ सिट्रिनञ्जेरामै"
 
 महान्तो दुष्टसाङ्गत्यात् भीतास्तिष्ठन्ति दूरतः ।  
 दुष्टान् बन्धुसमान् कृत्वा नीचास्तुष्यन्ति तैः सह ॥ ४५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४५१</summary>
+
+०४५१
+The great fear the company of the base.
+Only the mean take them as kinsmen.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५१</summary>
@@ -49,6 +58,14 @@ The mean hold them as kinsmen dear.        451
 तथा नरः सङ्गभेदाद् भिन्नभिन्नमतिर्भवेत् ॥ ४५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४५२</summary>
+
+०४५२
+Nature of soil governs the quality of water.
+One's wisdom by the nature of company.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४५२</summary>
 
 452\. nilattu iyalpāṉ nīr tirintu, aṟṟu ākum;- māntarkku  
@@ -81,6 +98,14 @@ With mates changes the mental state.        452
 
 सामान्यज्ञानजनने मनः कारणमिष्यते ।  
 अयं योग्यो न वेत्येतद् ज्ञानं साङ्गत्यहेतुकम् ॥ ४५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४५३</summary>
+
+०४५३
+Perceptions spring from nature
+And character from company.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५३</summary>
@@ -117,6 +142,14 @@ The worth of man upon his friend.        453
 विमर्शे सापि साङ्गत्यमूलैवेति स्थितिर्धुवा ॥ ४५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४५४</summary>
+
+०४५४
+Wisdom which seems to come from the mind
+Comes really from one's company.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४५४</summary>
 
 454\. maṉattu uḷatu pōlak kāṭṭi, oruvaṟku  
@@ -149,6 +182,14 @@ But it truly flows from the kind.        454
 
 चित्तशुद्धिः कार्यशुद्धिरित्येतदुभयं नृणाम् ।  
 सत्साङ्गत्यवशादेव भवेदिति विभाव्यताम् ॥ ४५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४५५</summary>
+
+०४५५
+The pure thought and the pure deed, these two,
+Come from pure company. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५५</summary>
@@ -185,6 +226,14 @@ Comes from good company indeed.        455
 सत्साङ्गत्यसमेतानां जायते सकलं शुभम् ॥ ४५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४५६</summary>
+
+०४५६
+Good legacy is for the pure-minded.
+No evil deeds befall men of pure company.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४५६</summary>
 
 456\. maṉam tūyārkku eccam naṉṟu ākum; iṉam tūyārkku  
@@ -217,6 +266,14 @@ Pure friendship acts with victory.        456
 
 प्रणिनां चित्तसंशुद्धया सम्पत् सञ्जायते ध्रुवम् ।  
 सत्साङ्गत्यान्मनःशुद्धया सह कीर्तिरपि ध्रुवा ॥ ४५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४५७</summary>
+
+०४५७
+A good mind is an asset to everyone
+While good company contributes to glory.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५७</summary>
@@ -253,6 +310,14 @@ Good friendship fosters fame again.        457
 सत्साङ्गत्यं चित्तशुद्धिं वर्धयेत् तादृशेष्वपि ॥ ४५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४५८</summary>
+
+०४५८
+Even though the wise have a good mind,
+They strengthen it by good company. *
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४५८</summary>
 
 458\. maṉa nalam naṉku uṭaiyar āyiṉum, cāṉṟōrkku  
@@ -287,6 +352,14 @@ In friends of worth a new strength find.        458
 सत्सङ्गतिः सुखस्यास्य प्राप्तौ विघ्नं निवारयेत् ॥ ४५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४५९</summary>
+
+०४५९
+Purity of mind leads to heaven,
+But even that is secured by good company.
+(Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४५९</summary>
 
 459\. maṉa nalattiṉ ākum, maṟumai; maṟṟu aḵtum  
@@ -319,6 +392,14 @@ Good company gains strength to this.        459
 
 सत्सङ्गतिसमं मित्रं न भवेत् सुखसाधनम् ।  
 दुसङ्गतिसमः शत्रुरपकर्ता न विद्यते ॥ ४६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४६०</summary>
+
+०४६०
+There is no greater aid than good company,
+Nor worse affliction than bad.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६०</summary>

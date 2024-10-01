@@ -3,6 +3,7 @@ title = "०९ अवैयऱिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७११</summary>
 
 अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिन्  
@@ -14,6 +15,14 @@ title = "०९ अवैयऱिदल्"
 अधिकारः ७२. सभास्वरूपम्  
 समास्वरूपं विज्ञाय वक्तव्यार्थं विचार्य च ।  
 सभायां शब्दजालज्ञैः वक्तव्यं सद्गुणान्वितैः ॥ ७११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७११</summary>
+
+०७११
+Meticulous masters of words
+Must judge the council before they speak.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७११</summary>
@@ -50,6 +59,14 @@ Adapt their words to audience.        711
 न ज्ञायेत तथा स्पष्टं सभायामुच्यतां वचः ॥ ७१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७१२</summary>
+
+०७१२
+Should skilled orators wish to speak,
+Let them study the occasion with care. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१२</summary>
 
 712\. iṭai terintu, naṉku uṇarntu, colluka- colliṉ  
@@ -82,6 +99,14 @@ Their chosen words to time in fact.        712
 
 सभिकानां तु रासिक्यमज्ञात्वा भाषणोद्यताः ।  
 असमर्थाश्च कथने निर्विद्याश्च मताः समैः ॥ ७१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७१३</summary>
+
+०७१३
+Only poor orators, good for nothing, speak at length
+Without knowing the audience. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७१३</summary>
@@ -118,6 +143,14 @@ Words unversed which ears don't take.        713
 मूढानां पुरतो युक्तं न पाण्डित्यप्रदर्शनम् ॥ ७१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७१४</summary>
+
+०७१४
+Before the bright, be brilliant light.
+Before the dull, assume mortar white. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१४</summary>
 
 714\. oḷiyārmuṉ oḷḷiyar ātal! veḷiyārmuṉ  
@@ -150,6 +183,14 @@ Before the muff be mortar white.        714
 
 ज्ञानिनां भाषणात्पूर्वं सभायां स्वीतभाषणम् ।  
 अनारभ्य विनीतेन स्थितिः स्यादुत्तमो गुणः ॥ ७१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७१५</summary>
+
+०७१५
+The best amongst all good qualities
+Is the modesty to holdback before elders. *
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७१५</summary>
@@ -186,6 +227,14 @@ Which argues not before elders.        715
 मुक्तिमार्गच्युतेनासौ तुल्यो दुष्यत्वमाप्नुयात् ॥ ७१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७१६</summary>
+
+०७१६
+To slip before men of wide learning
+Is like slipping from the path of righteousness. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१६</summary>
 
 716\. āṟṟiṉ nilaitaḷarntaṟṟē-viyaṉ pulam  
@@ -218,6 +267,14 @@ Is like slipping from righteous ways.        716
 
 शब्दतत्त्वपरिष्कारधुरीणानां सभाग्रतः ।  
 अधीतशास्त्रग्रन्थानां विद्या विभ्राजते भृशम् ॥ ७१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७१७</summary>
+
+०७१७
+The scholarship of a scholar shines
+In an assembly of meticulous scholars. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७१७</summary>
@@ -254,6 +311,14 @@ Valued by flawless scholar-minds.        717
 रूढसस्ये त्वालवाले जलसेचनवद्भवेत् ॥ ७१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७१८</summary>
+
+०७१८
+Speaking before a receptive audience
+Is like watering a nursery of growing plants.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१८</summary>
 
 718\. uṇarvatu uṭaiyārmuṉ collal-vaḷarvataṉ  
@@ -288,6 +353,14 @@ Is to water beds of growing grains.        718
 प्रमाद्यापि न भाषेत कुपण्डितसभाङ्गणे ॥ ७१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७१९</summary>
+
+०७१९
+Don't tell an assembly of fools even forgetfully
+Things meant for the wise.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७१९</summary>
 
 719\. pul avaiyuḷ poccāntum collaṟka-nal avaiyuḷ  
@@ -320,6 +393,14 @@ Forgetful, address not the mean.        719
 
 स्वतुल्यज्ञानिशून्यायां सभायां ज्ञानिभाषणम् ।  
 अशुद्धजलधाराग्रशीर्णामृतसमं भवेत् ॥ ७२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७२०</summary>
+
+०७२०
+To deliberate with people of dissimilar interests
+Is like spilling nectar in the drain. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७२०</summary>

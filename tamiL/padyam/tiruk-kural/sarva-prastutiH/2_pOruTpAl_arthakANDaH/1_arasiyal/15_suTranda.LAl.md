@@ -3,6 +3,7 @@ title = "१५ सुट्रन्दऴाल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५२१</summary>
 
 पट्रट्र कण्णुम् पऴैमैबा राट्टुदल्  
@@ -13,6 +14,14 @@ title = "१५ सुट्रन्दऴाल्"
 
 नष्टायामपि सम्पत्तौ सम्बन्धं पूर्वकालिकम् ।  
 स्मृत्वैव श्लाघनं लोके बन्धुलक्षणमुच्यते ॥ ५२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५२१</summary>
+
+०५२१
+Only the kindred, because of their old contact,
+Show attachment even in adversity.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५२१</summary>
@@ -49,6 +58,14 @@ The old accustomed love to show.        521
 तदेव सम्पदः सर्वाः तस्मै यच्छेत् सदातना ॥ ५२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५२२</summary>
+
+०५२२
+When kindred show unfailing love,
+Wealth of all kinds never fail to flow. *
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५२२</summary>
 
 522\. viruppu aṟāc cuṟṟam iyaiyiṉ, aṟuppu aṟā  
@@ -81,6 +98,14 @@ Fadeless fortune's fresh flowers.        522
 
 प्रेमपूर्वकबान्धव्यरहितस्य हि जीवनम् ।  
 जलपूर्णतटाकस्य तीराभावसं भवेत् ॥ ५२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५२३</summary>
+
+०५२३
+The life of an unattached man
+Is like a boundless pond flowing unbound.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५२३</summary>
@@ -117,6 +142,14 @@ Which overflows without a bank.        523
 तेन सम्पादितं वित्तं प्रयोजनकरं भवेत् ॥ ५२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५२४</summary>
+
+०५२४
+To be circled by circles of kin is the benefit
+One gains by gaining wealth.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५२४</summary>
 
 524\. cuṟṟattāl cuṟṟappaṭa oḻukal, celvamtāṉ  
@@ -149,6 +182,14 @@ When kith and kin are happy found.        524
 
 बन्धुनां धनदातारं प्रियभाषणतत्परम् ।  
 तं सर्वदा बन्धुवर्गास्तिष्ठन्ति परिवेष्टिताः ॥ ५२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५२५</summary>
+
+०५२५
+Generosity and sweet words enable a man
+To be circled by circles of kin. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५२५</summary>
@@ -185,6 +226,14 @@ Encircle kith and kin around.        525
 वशंवदा सदा तिष्ठेत् सकला बन्धुसन्ततिः ॥ ५२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५२६</summary>
+
+०५२६
+None in this world has a larger kinship than he
+Who is liberal and curbs his wrath. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५२६</summary>
 
 526\. peruṅ koṭaiyāṉ, pēṇāṉ vekuḷi, avaṉiṉ  
@@ -217,6 +266,14 @@ Commands on earth countless kinsmen.        526
 
 काकः स्वीयान् समाहूय भक्षयेदार्जितं च तैः ।  
 स्वार्जितं बन्धुभिः साकं भुंङ्क्ष्व सम्पत्स्थिरा भवेत् ॥ ५२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५२७</summary>
+
+०५२७
+Crows trumpet their finds and share them.
+Prosperity also abides with such men.
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५२७</summary>
@@ -253,6 +310,14 @@ Welfare abides a man of heart.        527
 विभज्य सर्वान् यः पश्येत् तस्य स्युर्बान्धवाः समे ॥ ५२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५२८</summary>
+
+०५२८
+Many thrive seeing a king who sees case by case,
+Not seeing mere sameness in all.
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५२८</summary>
 
 528\. potu nōkkāṉ, vēntaṉ varicaiyā nōkkiṉ,  
@@ -287,6 +352,14 @@ Each one's merits so many thrive.        528
 छिन्नं तद् हेतुनान्येन् पूर्ववत् पुनरेधते ॥ ५२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५२९</summary>
+
+०५२९
+Associates who left will return,
+Once the cause of dissociation is removed.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५२९</summary>
 
 529\. tamar āki, taṉ-tuṟantār cuṟṟam amarāmaik  
@@ -319,6 +392,14 @@ When cause for discord goes away.        529
 
 स्नेहं छित्वा गतं पश्चादागतं स्वार्यकरणात् ।  
 अलोच्य तं तु गृह्णीयादुपकृत्य महीपतिः ॥ ५३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५३०</summary>
+
+०५३०
+The king should ascertain the motive of the deserters
+Who wish to come back.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५३०</summary>

@@ -3,6 +3,7 @@ title = "०२ अरण्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७४१</summary>
 
 आट्रु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्
@@ -14,6 +15,14 @@ title = "०२ अरण्"
 अधिकारः ७५. दुर्गः  
 समर्थानां युयुत्सूनां राज्ञां दुर्गः सहायदः ।  
 त्रस्तान्तःस्थितराज्ञां च दुर्गो भवति पालकः ॥ ७४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७४१</summary>
+
+०७४१
+A fortress is an asset to the offender
+As well as to those who seek refuge in defence.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७४१</summary>
@@ -50,6 +59,14 @@ Who fear the foes has its defence.        741
 सुच्छायाढयनेनापि वृतो दुर्गः समीर्यते ॥ ७४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७४२</summary>
+
+०७४२
+Blue water, open space, hills and thick forests
+Constitute a fortress.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४२</summary>
 
 742\. maṇi nīrum, maṇṇum, malaiyum, aṇi niḻal  
@@ -82,6 +99,14 @@ Thick woods form a fort paramount.        742
 
 औन्नत्यदैर्घ्यनिर्भेदस्थैर्यैर्युक्तं चतुर्विधैः ।  
 प्रकारं दुर्गशब्दएन ब्रुवते शास्त्रवेदिनः ॥ ७४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७४३</summary>
+
+०७४३
+Books declare that a fort should have these four:
+Height, breadth, strength and difficult access. *
+(G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७४३</summary>
@@ -118,6 +143,14 @@ High, broad, strong and hard for access.        743
 प्राप्तारिधैर्यहन्ता च दुर्गशब्देन कथ्यते ॥ ७४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७४४</summary>
+
+०७४४
+A fortress, ample in space and easy to defend,
+Spoils the might of the foe. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४४</summary>
 
 744\. ciṟu kāppiṉ pēr iṭattatu āki, uṟu pakai  
@@ -150,6 +183,14 @@ The fort foils enemies bold.        744
 
 अप्राप्यः शत्रुवृन्दानां नानाहारसमन्वितः ।  
 म्वगतानां सुखवासप्रदोदुर्गः प्रकीर्त्यते ॥ ७४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७४५</summary>
+
+०७४५
+A good fortress is hard to seize, well-supplied
+And suited to those within.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७४५</summary>
@@ -186,6 +227,14 @@ Cosy to live-That fort is good.        745
 सर्ववस्तुसमृद्धिश्च पत्रासौ दुर्गसंज्ञकः ॥ ७४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७४६</summary>
+
+०७४६
+With all materials stocked inside,
+A fort should have brave soldiers as well. *
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४६</summary>
 
 746\. ellāp poruḷum uṭaittāy, iṭattu utavum  
@@ -218,6 +267,14 @@ And brave heroes to meet alarms.        746
 
 साक्षात्सैन्यप्रवेशन परितः ऐन्यवेष्टनात् ।  
 कैतवेनापि दुष्प्रापो दुर्ग इत्यभिघीयते ॥ ७४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७४७</summary>
+
+०७४७
+Hard to capture a fort that withstands
+Besieging, artillery and treachery.
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७४७</summary>
@@ -254,6 +311,14 @@ Darts and mines of treacherous hands.        747
 रिपुवारणकृद्वीरैः वृतो दुर्गः स कथ्यते ॥ ७४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७४८</summary>
+
+०७४८
+Even if encircled by besieging foes,
+A fortress enables the besieged to win.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४८</summary>
 
 748\. muṟṟu āṟṟi muṟṟiyavaraiyum, paṟṟu āṟṟi,  
@@ -288,6 +353,14 @@ The attacks of encircling foes.        748
 प्राप्तो महत्त्वं ख्यातश्च दुर्गो भवति सार्थकः ॥ ७४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७४९</summary>
+
+०७४९
+A good fort gains fame frustrating its siege
+At the outset of the battle. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७४९</summary>
 
 749\. muṉai mukattu māṟṟalar cāya, viṉaimukattu  
@@ -320,6 +393,14 @@ And gains by deeds a name glorious.        749
 
 पर्वोक्तगुणयुक्तोऽपिदुर्गः किं वा करिष्यति ।  
 युद्दोपायसमर्थानां सान्निध्यं न भवेद्यदि ॥ ७५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७५०</summary>
+
+०७५०
+A fortress, however grand, amounts to nothing
+If its defenders are meek.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७५०</summary>

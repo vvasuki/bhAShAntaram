@@ -3,6 +3,7 @@ title = "०९ तॆरिन्दुसॆयल्वगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४६१</summary>
 
 अऴिवदूउम् आवदूउम् आगि वऴिबयक्कुम्  
@@ -13,6 +14,14 @@ title = "०९ तॆरिन्दुसॆयल्वगै"
 
 व्ययमादौ ततश्चायं ततो लाभं च शाश्वतम् ।  
 कार्यरम्भे विमृश्याथ कार्यमारभ्यतां बुधैः ॥ ४६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४६१</summary>
+
+०४६१
+Act after taking into account the cost,
+The benefit and the resultant net. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६१</summary>
@@ -49,6 +58,14 @@ And proper action ascertain.        461
 स्वयं चालोच्य यः कुर्यादसाध्यं तस्य किं भवेत् ॥ ४६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४६२</summary>
+
+०४६२
+Nothing is hard for him who acts with
+Worthy counsels weighing facts.
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६२</summary>
 
 462\. terinta iṉattoṭu tērntu eṇṇic ceyvārkku  
@@ -81,6 +98,14 @@ With worthy counsels weighing facts.        462
 
 भाविलाभेच्छया हस्ते स्थितं मूलधनं बहु ।  
 बुद्धिमान्तो नरा नैव व्ययीकुर्वन्ति सर्वदा ॥ ४६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४६३</summary>
+
+०४६३
+The wise will never, in the hope of profit,
+Launch an undertaking to lose their capital.*
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६३</summary>
@@ -117,6 +142,14 @@ In doubtful gains and lose their all.        463
 सहसा न प्रवर्तन्ते मानहानिभयार्दिताः ॥ ४६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४६४</summary>
+
+०४६४
+Those who fear the disgrace of failure
+Will not launch thoughtless ventures. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६४</summary>
 
 464\. teḷivu ilataṉait toṭaṅkār-iḷivu eṉṉum  
@@ -149,6 +182,14 @@ Commence no work not made clear.        464
 
 कालं देशं बलं शत्रोरज्ञात्वा समराङ्गणम् ।  
 प्रविशन् पार्थिवः शत्रुवर्धकः स्यान्न घातकः ॥ ४६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४६५</summary>
+
+०४६५
+Ill considered aggressive operations serve
+Only to mobilize and strengthen the enemy.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६५</summary>
@@ -185,6 +226,14 @@ His field is sure to foster foes.        465
 इत्येतदुभयं नृणां विनाशास्पदमिष्यते ॥ ४६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४६६</summary>
+
+०४६६
+It is ruinous to do what should not be done,
+And ruinous to leave undone what should be done.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६६</summary>
 
 466\. ceytakka alla ceyak keṭum; ceytakka  
@@ -217,6 +266,14 @@ Failing fit-act also ruins.        466
 
 कार्यनिर्वहणोपायमादौ ज्ञात्वा क्रियां कुरु ।  
 प्रविश्य कार्ये नोपायचिन्तनं कार्यसाधकम् ॥ ४६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४६७</summary>
+
+०४६७
+Think before you launch.
+To launch and then think is disgrace.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४६७</summary>
@@ -253,6 +310,14 @@ Dare and think is bad in need.        467
 उपायांश्चतुरो यस्तु न प्रयुङ्क्ते यथायथम् ॥ ४६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४६८</summary>
+
+०४६८
+Undetermined efforts of any scheme
+Are bound to fail even if backed by many.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६८</summary>
 
 468\. āṟṟiṉ varuntā varuttam, palar niṉṟu  
@@ -287,6 +352,14 @@ Is doomed to fall though supported.        468
 नाचरेद्यस्तु तस्यस्युर्यत्ना दोषसमन्विताः ॥ ४६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४६९</summary>
+
+०४६९
+Even perfect schemes can fail when there is
+Imperfection in the division of labour.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६९</summary>
 
 469\. naṉṟu āṟṟaluḷḷum tavaṟu uṇṭu-avaravar  
@@ -319,6 +392,14 @@ Or ev'n good leads to evil feud.        469
 
 निजस्थित्यनुरोधेन कुरु सर्वं विमृश्य च ।  
 न चेन्निन्देत् त्वां हि लोकः क्रियतां लोकसङ्ग्रहः ॥ ४७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४७०</summary>
+
+०४७०
+Think and act without incurring scorn.
+The world will not approve what is improper. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७०</summary>

@@ -3,6 +3,7 @@ title = "१६ पयनिल सॊल्लामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १९१</summary>
 
 पल्लार् मुनियप् पयनिल सॊल्लुवान्  
@@ -13,6 +14,14 @@ title = "१६ पयनिल सॊल्लामै"
 
 जुगुप्साजनकं व्यर्थभाषणं जनसंसदि ।  
 प्रयुङ्क्ते यः स सर्वेषां परीहास पदं भवेत् ॥ १९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १९१</summary>
+
+०१९१
+To disgust people with empty words 
+Is to be despised by all.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १९१</summary>
@@ -49,6 +58,14 @@ Is held in contempt as banal.         191
 वृथाप्रलापो विज्ञेयो महानिष्टफलप्रदः ॥ १९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १९२</summary>
+
+०१९२
+Vain speech in public is worse
+Than a wrong done to a friend.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १९२</summary>
 
 192\. payaṉ ila pallārmuṉ collal, nayaṉ ila  
@@ -81,6 +98,14 @@ Than doing to friends deeds adverse.         192
 
 अविनीतिपरः सोऽयमिति स्पष्टं प्रतीयते ।  
 निरर्थकानि वाक्यानि ब्रूते यस्तु विशेषतः ॥ १९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १९३</summary>
+
+०१९३
+He that multiplies empty words
+Declares loud his want of worth.
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १९३</summary>
@@ -117,6 +142,14 @@ That "good-for-nothing" is his name.         193
 नीत्या विरहितं तत्तु नाशयेत् सद्गुणानपि ॥ १९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १९४</summary>
+
+०१९४
+Vain words of inconsequence in an assembly
+Rob one of any gain or goodness.
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १९४</summary>
 
 194\. nayaṉ cārā naṉmaiyiṉ nīkkum-payaṉ cārāp  
@@ -149,6 +182,14 @@ Will make all gains and goodness flee.         194
 
 ब्रूयुर्निरर्थकं वाक्यं महास्थानगता यदि ।  
 तदा कीर्तिप्रतिष्ठाभ्याम्भवन्ति रहिता अमी ॥ १९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १९५</summary>
+
+०१९५
+Men of worth, speaking nonsense,
+Will lose greatness and esteem.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १९५</summary>
@@ -185,6 +226,14 @@ When savants silly nonsense say.         195
 न नरः स हि मन्तव्यो ऋजीषं स्यान्नरेष्वयम् ॥ १९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १९६</summary>
+
+०१९६
+Call him not a man who loves idle words.
+Call him rather chaff among men.
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १९६</summary>
 
 196\. payaṉ il col pārāṭṭuvāṉai makaṉ eṉal!  
@@ -217,6 +266,14 @@ Himself in weightless idle words.         196
 
 अधर्मसहितं वाक्यं महान्तः कथयन्त्वपि ।  
 अप्रयोजकवाक्यानि वर्जनीयानि तैरपि ॥ १९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १९७</summary>
+
+०१९७
+Even unpleasant words may be spoken,
+But the wise should avoid idle speech. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १९७</summary>
@@ -253,6 +310,14 @@ Even if they would roughly speak.         197
 अल्पलाभकरं वाक्यं न ते ब्रूयुर्मनीषिणः ॥ १९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १९८</summary>
+
+०१९८
+The wise who weigh their worth
+Refrain from words that have no grain of worth. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १९८</summary>
 
 198\. arum payaṉ āyum aṟiviṉār collār-  
@@ -287,6 +352,14 @@ From words that have no grain and brain.         198
 विस्मृत्याप्यर्थविधुरं वाक्यं नैव प्रयुञ्जते ॥ १९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १९९</summary>
+
+०१९९
+The clear-eyed and spotless never even forgetfully
+Say things that are meaningless. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १९९</summary>
 
 199\. poruḷ tīrnta poccāntum collār-maruḷ tīrnta  
@@ -319,6 +392,14 @@ Slip not to silly words-mention.         199
 
 वाच्यं तदेव वाक्येषु यल्लाभजनकं वचः ।  
 त्याज्यं तदेव वाक्येषु यल्लाभरहितं वचः ॥ २००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २००</summary>
+
+०२००
+Should you speak, speak useful words.
+Never indulge in vain speech.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २००</summary>

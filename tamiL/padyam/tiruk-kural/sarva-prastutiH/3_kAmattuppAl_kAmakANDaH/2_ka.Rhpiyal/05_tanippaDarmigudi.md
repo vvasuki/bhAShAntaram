@@ -3,6 +3,7 @@ title = "०५ तनिप्पडर्मिगुदि"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११९१</summary>
 
 ताम्वीऴ्वार् तम्वीऴप् पॆट्रवर् पॆट्रारे  
@@ -13,6 +14,14 @@ title = "०५ तनिप्पडर्मिगुदि"
 
 वृतः स्वेन प्रियः स्वां च कामयेद्याद् प्रिया ।  
 बीजावापं विना लब्धफला स्याल्लक्ष्यजीविते ॥ ११९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११९१</summary>
+
+११९१
+Only those blessed with the love of being loved
+Are blessed with the seedless fruit of love. *
+(J. Narayanaswamy), (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११९१</summary>
@@ -49,6 +58,14 @@ Who are beloved by those they love.        1191
 जन्तूनां विषये मेघकृतवृष्टिसमं भवेत् ॥ ११९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११९२</summary>
+
+११९२
+Like the heavenly showers to living men
+Is the blessing of grace by lovers to their beloved. *
+(G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९२</summary>
 
 1192 vāḻvārkku vāṉam payantaṟṟāl vīḻvārkku  
@@ -81,6 +98,14 @@ Are like rains to living beings.        1192
 
 नायकासक्तनारीणां खेदे विश्लेषमूलके ।  
 जातेऽपि सङ्गमो भूयादिति गर्वयुतास्तु ताः ॥ ११९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११९३</summary>
+
+११९३
+They alone can have the pride of living together
+Who are loved by their beloved. *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११९३</summary>
@@ -117,6 +142,14 @@ Whose love is returned by love so close.        1193
 अन्येषां स्पृहणीयां च भाग्यहीनां हि तां विदुः ॥ ११९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११९४</summary>
+
+११९४
+Even if loved by others, they are luckless
+Unless loved by those they love. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९४</summary>
 
 1194 vīḻap paṭuvār keḻīiyilar tāmvīḻvār  
@@ -149,6 +182,14 @@ Are luckless with all esteems they earn.        1194
 
 अङ्गनाप्रीतिपात्रं यः कामुकः प्रेम तासु च ।  
 न कुर्यच्चेत् तदा स्त्रीणां किं तैरस्ति प्रयोजनम् ॥ ११९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११९५</summary>
+
+११९५
+What more can I expect of my lord
+If he does not love me as much as I love him?
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११९५</summary>
@@ -185,6 +226,14 @@ If he does not requite our love?        1195
 कामस्तुलाभारसमो द्विपक्षस्थः सुखप्रदः ॥ ११९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११९६</summary>
+
+११९६
+One-sided love pains like lopsided kavadi.
+It is sweet only when shared by both sides.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९६</summary>
 
 1196 orutalaiyāṉ iṉṉātu kāmamkāp pōla  
@@ -217,6 +266,14 @@ Poises well like shoulder poles.        1196
 
 रक्तकामुकयोर्मध्ये वसन्नेकत्र केवलम् ।  
 मदीयदुःखवैवर्ण्ये जानीयान्मदनः कथम् ॥ ११९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११९७</summary>
+
+११९७
+Can't the god of Love, lodged in me alone
+Causing distress, see my pallor and pain? *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११९७</summary>
@@ -253,6 +310,14 @@ Knows he not my pallor and pain?        1197
 वियुज्य भुवि जीवन्त्यो भवन्ति क्लेशभाजनम् ॥ ११९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११९८</summary>
+
+११९८
+Hard is the heart that can survive this world
+Without a word of love from the beloved. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९८</summary>
 
 1198 vīḻvāriṉ iṉcol peṟāatu ulakattu  
@@ -287,6 +352,14 @@ Without kind words from whom she dotes.        1198
 तत्कीर्तिश्रवणं नूनं श्रवणानन्दं मम ॥ ११९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११९९</summary>
+
+११९९
+Though my beloved bestows nothing,
+Still any news about him is sweet to my ears. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९९</summary>
 
 1199 nacaiiyār nalkār eṉiṉum avarmāṭṭu  
@@ -319,6 +392,14 @@ And yet his words sweeten my ears.        1199
 
 प्रेमहीने तु पुरुषे हे चित्त! वदसि व्यथाम् ।  
 न तेन तव लाभोऽस्ति जलघेर्गोपनं यथा ॥ १२००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२००</summary>
+
+१२००
+O heart, why pour your concerns to the unconcerned?
+As well dump into the sea! *
+(K.R. Srinivasa Iyengar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२००</summary>

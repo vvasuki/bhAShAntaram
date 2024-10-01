@@ -3,6 +3,7 @@ title = "०९ अडक्कमुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२१</summary>
 
 अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै  
@@ -13,6 +14,14 @@ title = "०९ अडक्कमुडैमै"
 
 तनोति निग्रहो मर्त्यमुत्तं देवपूजितम् ।  
 अनिग्रहो नरं घोरे नरके पतयत्यपि ॥ १२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२१</summary>
+
+०१२१
+Self-control takes one to the gods;
+Want of it will push one into utter darkness.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२१</summary>
@@ -49,6 +58,14 @@ Indulgence leads to gloomy hades.         121
 निग्रहादधिकं श्रेयो मानवानं न विद्यते ॥ १२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२२</summary>
+
+०१२२
+Guard self-control as a treasure;
+There is nothing more precious in life.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२२</summary>
 
 122\. kākka, poruḷā aṭakkattai-ākkam  
@@ -81,6 +98,14 @@ Guard with care this great treasure.         122
 
 ज्ञातव्यं तत्त्वतो ज्ञात्वा संयमी यो भवेन्नरः ।  
 महात्मनां गुणाज्ञानां कृपया स सुखी वसेत् ॥ १२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२३</summary>
+
+०१२३
+Those who follow the wise path of self-restraint
+Are conferred with virtuous fame.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२३</summary>
@@ -117,6 +142,14 @@ Name and fame seek him untold.         123
 महोन्नता स्थिति स्तस्य शैलादप्यधिका भवेत् ॥ १२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२४</summary>
+
+०१२४
+More imposing than a mountain
+Is the stature of the steadfast and self-controlled. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२४</summary>
 
 124\. nilaiyiṉ tiriyātu aṭaṅkiyāṉ tōṟṟam  
@@ -149,6 +182,14 @@ The sage looks grander than mountain.         124
 
 सदा निग्रहशीलत्वं सर्वेषामुत्तं मतम् ।  
 तेषु चाप्यग्रगण्यस्य तद्भवेदधिकं धनम् ॥ १२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२५</summary>
+
+०१२५
+Humility is good for all
+But is an added richness to the rich.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२५</summary>
@@ -185,6 +226,14 @@ To the rich it adds a wealth special.         125
 आत्मरक्षणशक्तिः स्यात् सप्तस्वपि च जन्मसु ॥ १२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२६</summary>
+
+०१२६
+Like a tortoise, withdraw your five senses in one birth,
+To protect you in the next seven.
+(N.V.K. Ashraf)  
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२६</summary>
 
 126\. orumaiyuḷ, āmaipōl, aintu aṭakkal āṟṟiṉ,  
@@ -217,6 +266,14 @@ Their joy prolongs to births sevenfold.         126
 
 निरोद्धव्येषु बहुषु जिह्वां वा रोध्दुमर्हति ।  
 अन्यथा शब्ददोषेण जायते दुःखभाजनम् ॥ १२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२७</summary>
+
+०१२७
+Guard your tongue if nothing else;
+For words unguarded cause distress.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२७</summary>
@@ -253,6 +310,14 @@ Or slips of tongue bring all the woes.         127
 तात्कृताश्चान्यधर्माः स्युरनिष्टफलदायकाः ॥ १२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२८</summary>
+
+०१२८
+A bitter word, even if said once,
+Can undo all the good intended.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८</summary>
 
 128\. oṉṟāṉum tīccoṟ poruṭ payaṉ uṇṭāyiṉ,  
@@ -287,6 +352,14 @@ Will turn all good results to bad.         128
 वागग्निजव्रणस्येह नैवोपशमनं भवेत् ॥ १२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२९</summary>
+
+०१२९
+The wound caused by fire will heal within,
+But not the scar left by the tongue.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२९</summary>
 
 129\. tīyiṉāl cuṭṭa puṇ uḷ āṟum;- āṟātē  
@@ -319,6 +392,14 @@ Tongue-burnt wound rests a running sore.         129
 
 अक्रोधः संयमी यस्तु विद्यया च निषेवितः ।  
 स्वत् एव समागम्य तं रक्षेद्धर्मदेवता ॥ १३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३०</summary>
+
+०१३०
+Virtue waits for a timely entry on the path of one
+Who curbs wrath and learns self restraint.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३०</summary>

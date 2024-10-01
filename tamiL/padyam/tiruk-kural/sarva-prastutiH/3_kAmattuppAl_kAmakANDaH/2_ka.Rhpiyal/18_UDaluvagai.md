@@ -3,6 +3,7 @@ title = "१८ ऊडलुवगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १३२१</summary>
 
 इल्लै तवऱवर्क्कु आयिनुम् ऊडुदल्  
@@ -13,6 +14,14 @@ title = "१८ ऊडलुवगै"
 
 निर्दुष्टेन प्रियेणापि विप्रलम्भो भवेद्यति ।  
 तदस्मासु विशेषण प्रेमाधिक्यप्रदायकम् ॥ १३२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३२१</summary>
+
+१३२१
+Though he is not to blame, I feign sulking
+To bring out the best in him.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३२१</summary>
@@ -49,6 +58,14 @@ So that his loving ways show out.        1321
 नायकप्रेमविच्छेदकारकं चापि सम्मतम् ॥ १३२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३२२</summary>
+
+१३२२
+The pinpricks of sulking do not discourage
+But strengthen love.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३२२</summary>
 
 1322 ūṭalil tōṉṟum ciṟutuṉi nalaḷi  
@@ -81,6 +98,14 @@ The petty pricks that pouting gives.        1322
 
 जलं भुम्यं यथा शोलष्टं तथा स्निग्धप्रियैः सह ।  
 जाताद्वियोगादन्यः किं देवलोको भवेदिह ॥ १३२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३२३</summary>
+
+१३२३
+Is there a heaven higher than love’s sulk
+With hearts that join like earth and water?
+( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३२३</summary>
@@ -117,6 +142,14 @@ Of hearts that join like water and earth?        1323
 मन्मनोभञ्जिका काचित् सेना सञ्जायते किल ॥ १३२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३२४</summary>
+
+१३२४
+From this prolonged pout arises the weapon
+To break the defence of my heart.
+(J. Narayanaswamy), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३२४</summary>
 
 1324 pulli viṭāap pulaviyuḷ tōṉṟumeṉ  
@@ -149,6 +182,14 @@ A weapon is up to break my heart.        1324
 
 अकारणं वियुक्तस्य कामिनीमृदुहस्तयोः ।  
 स्पर्शभाग्यविहीनस्य हर्षः काश्चिद् भवेद् ध्रुवम् ॥ १३२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३२५</summary>
+
+१३२५
+Even for the guiltless it is a joy to forgo briefly
+The shoulders from one’s clasp. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३२५</summary>
@@ -185,6 +226,14 @@ Of feigned release from lover's arms.        1325
 भुक्तं जीर्ण सुखं दद्यात् यथा वै भाविभोजनात् ॥ १३२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३२६</summary>
+
+१३२६
+More joyous than the meal is its digestion.
+So is sulking more joyous than union.
+(N.V.K. Ashraf), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३२६</summary>
 
 1326 uṇaliṉum uṇṭatu aṟaliṉitu kāmam  
@@ -217,6 +266,14 @@ And sulk in love than union.        1326
 
 पराजितो विप्रलम्भे यः स्यान म विजयी मतः ।  
 भाविसंश्लेषवेलायां तत्त्वमेतत् स्फुटं भवेत् ॥ १३२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३२७</summary>
+
+१३२७
+In lovers' quarrels the loser wins,
+As shown when they make up.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३२७</summary>
@@ -253,6 +310,14 @@ Reunited joy brings it out.        1327
 वियुज्यानया सुख तद्वत् किमह प्राप्नुयां पुनः ॥ १३२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३२८</summary>
+
+१३२८
+Will she sulk again to bring back the pleasure
+Of that union drenched in sweat? *
+(K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३२८</summary>
 
 1328 ūṭip peṟukuvam kollō nutalveyarppak  
@@ -287,6 +352,14 @@ The dew-browed joy of joint love?        1328
 संप्रार्थ्य ?त् कोपशान्त्यै मम रात्रिर्विवर्धताम् ॥ १३२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३२९</summary>
+
+१३२९
+May the bright-jewel sulk,
+And may the night be prolonged for me to implore her! *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३२९</summary>
 
 1329 ūṭuka maṉṉō oḷiyiḻai yāmirappa  
@@ -319,6 +392,14 @@ Prolong O night! our delight swells!        1329
 
 विप्रलम्भात् कामभोगः सुख प्राप्नोति भूतले ।  
 ततो जाताच्च संश्लेषात् विप्रलम्भः सुखं व्रजेत् ॥ १३३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३३०</summary>
+
+१३३०
+The joy of love lies in sulking, for that joy is realized
+While embracing in union.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३३०</summary>

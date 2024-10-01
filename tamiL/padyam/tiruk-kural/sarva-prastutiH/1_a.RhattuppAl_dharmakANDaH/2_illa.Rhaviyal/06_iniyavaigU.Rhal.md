@@ -3,6 +3,7 @@ title = "०६ इनियवैगूऱल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९१</summary>
 
 इन्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
@@ -13,6 +14,14 @@ title = "०६ इनियवैगूऱल्"
 
 यत् कथ्यते धर्मविद्भिः सदयं प्रेमपूर्वकम् ।  
 वञ्चनारहितं तत्तु भवेन्मधुरभाषणम् ॥ ९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९१</summary>
+
+००९१
+The speech of the enlightened is sweet words
+Soaked in love, free from pretence.
+(J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९१</summary>
@@ -49,6 +58,14 @@ Merciful and free from deceit.         91
 प्रसन्नवदनस्यैतत् श्रेष्ठं मधुरभाषणम् ॥ ९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९२</summary>
+
+००९२
+More pleasing than a gracious gift
+Are sweet words with a smiling face.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९२</summary>
 
 92\. akaṉ amarntu ītaliṉ naṉṟēmukaṉ amarntu  
@@ -81,6 +98,14 @@ More joys than heart's beneficence.         92
 
 दृष्ट्वा प्रसन्नमधुरं यद्वै हृदयपूर्वकम् ।  
 उच्यते सुहितं सत्यं स धर्मः परमो मतः ॥ ९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९३</summary>
+
+००९३
+This is virtue: A welcome face, smiling look,
+And sweet words from the heart.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९३</summary>
@@ -117,6 +142,14 @@ Such is the gracious virtue's part.         93
 सर्वदा दुःखजनकं दारिद्य्रमपि नाशयेत् ॥ ९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९४</summary>
+
+००९४
+Want and sorrow shall never be theirs
+Who have a pleasant word for all.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४</summary>
 
 94\. tuṉpuṟūum tuvvāmai illākum yārmāṭṭum  
@@ -149,6 +182,14 @@ The woe of want from them is gone.         94
 
 विनयो मधुरालापः द्वयमाभरणं नृणाम् ।  
 ताभ्यां द्वाभ्यां विहीनस्य किमन्यैर्भूषणैः फलम् ॥ ९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९५</summary>
+
+००९५
+Humility and pleasant speech constitute one's ornaments.
+Other things do not count.
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५</summary>
@@ -185,6 +226,14 @@ No other jewel do wise men seek.         95
 तस्य पपानि नश्यन्ति धर्म एवाभिवर्धते ॥ ९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९६</summary>
+
+००९६
+Virtues will wax and vices wane
+If one seeks the good and speaks sweet. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६</summary>
 
 96\. allavai tēya aṟam perukum nallavai  
@@ -217,6 +266,14 @@ Whose fruitful words with sweetness flow.         96
 
 परोपकारजनकं माधुर्यसाहितं वचः ।  
 वक्तारं सुखिनं कृत्वा पुण्यं चापि प्रयच्छति ॥ ९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९७</summary>
+
+००९७
+Helpful words yoked with courtesy
+Breed justice and strengthen virtue.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९७</summary>
@@ -253,6 +310,14 @@ Lead to goodness and graceful deeds.         97
 ऐहिकामुष्मिकं सौख्यं प्रयोक्तुर्वितरन्ति ताः ॥ ९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९८</summary>
+
+००९८
+Sweet words free of meanness yield joy,
+Both here and hereafter.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८</summary>
 
 98\. ciṟumaiyuḷ nīṅkiya iṉcol, maṟumaiyum  
@@ -287,6 +352,14 @@ This life on earth and life the next.         98
 दुःखदं कठिनं वाक्यं कुतो वा वक्ति मानवः ॥ ९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९९</summary>
+
+००९९
+How can anyone speak harsh words,
+Having seen what kind words do?
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९</summary>
 
 99\. iṉ col iṉitu īṉṟal kāṇpāṉ, evaṉkolō-  
@@ -319,6 +392,14 @@ To use harsh words how can he dare?         99
 
 कथनं कठिनोक्तीनां मधुरे वचसि स्थिते ।  
 मधुरं फलमुत्सृज्य कषायस्याशनं भवेत् ॥ १००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १००</summary>
+
+०१००
+To use harsh words, when sweet ones are at hand,
+Is to prefer raw fruit to ripe.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १००</summary>

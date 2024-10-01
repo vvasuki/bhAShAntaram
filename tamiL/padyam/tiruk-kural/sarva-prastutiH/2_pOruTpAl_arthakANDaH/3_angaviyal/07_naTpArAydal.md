@@ -3,6 +3,7 @@ title = "०७ नट्पाराय्दल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७९१</summary>
 
 नाडादु नट् टलिऱ्केडिल्लै नट्टबिन्  
@@ -14,6 +15,14 @@ title = "०७ नट्पाराय्दल्"
 अधिकारः ८०. स्नेहपरीक्षा  
 स्नेहे कृते पुनस्तस्य परित्यागो न युज्यते ।  
 तस्मादनालोच्य मैत्रीकरणं जनयेत् व्यथाम् ॥ ७९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७९१</summary>
+
+०७९१
+Nothing worse than befriending one untried,
+For friends once made should last forever.
+(N.V.K. Ashraf), (Kasthuri Sreenivasan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९१</summary>
@@ -50,6 +59,14 @@ For contacts formed will scarcely cease.        791
 मरणान्तकरं दुःखमान्तं तस्मै प्रयच्छति ॥ ७९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७९२</summary>
+
+०७९२
+Friendship made without enquiries
+Can cause lifetime trouble. *
+(K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९२</summary>
 
 792\. āyntu āyntu koḷḷātāṉ kēṇmai, kaṭaimuṟai,  
@@ -82,6 +99,14 @@ Shall end in grief and death at last.        792
 
 कुलीनत्वं गुणं दोषं बन्धुपालनशीलताम् ।  
 विमृश्य सम्यक् ज्ञात्वाऽथ मैत्रीं केनचिदाचर ॥ ७९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७९३</summary>
+
+०७९३
+Make one a friend after knowing his nature,
+Family, fellows and flaws.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९३</summary>
@@ -118,6 +143,14 @@ Trace well and take companions.        793
 कुरु मित्रं वाञ्छितार्थप्रदानेनापि सर्वदा ॥ ७९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७९४</summary>
+
+०७९४
+A man of birth and scrupulous honour
+Is worth seeking even at a price.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९४</summary>
 
 794\. kuṭip piṟantu, taṉkaṇ paḻi nāṇuvāṉaik  
@@ -150,6 +183,14 @@ The nobly born who shun disgrace.        794
 
 कटुवाक्यं प्रयुज्यापि दुर्मार्गाद् यो निवारयेत् ।  
 लोकज्ञानवता तेन विमृश्य स्नेहमाचर ॥ ७९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७९५</summary>
+
+०७९५
+Seek a friend who will make you cry,
+Rail and rate when you go astray.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९५</summary>
@@ -186,6 +227,14 @@ And lead you right are worthy friends.        795
 तस्मात् दुःखस्य संप्राप्तिरपि क्षेमाय कल्पते ॥ ७९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७९६</summary>
+
+०७९६
+Is there any yardstick better than adversity,
+To spread out and measure friends? *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९६</summary>
 
 796\. kēṭṭiṉum uṇṭu, ōr uṟuti-kiḷaiñarai  
@@ -218,6 +267,14 @@ A rod to measure out kinsmen?        796
 
 प्रमादाद् बुद्धिहीनेन साकं स्नेहस्य सम्भवे ।  
 ज्ञात्वा तस्य परित्यागात अन्यो लाभो न वर्तते ॥ ७९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७९७</summary>
+
+०७९७
+It is a gain by itself if one gets away
+From the friendship of fools.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९७</summary>
@@ -254,6 +311,14 @@ The greatest gain so say the wise.        797
 तथा मैत्री न कर्तव्या खेदे साह्यमकुर्वता ॥ ७९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७९८</summary>
+
+०७९८
+Dwell not in thoughts that dim your spirit
+And befriend not those who desert in affliction. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९८</summary>
 
 798\. uḷḷaṟka, uḷḷam ciṟukuva! koḷḷaṟka,  
@@ -288,6 +353,14 @@ Off with friends that in woe depart.        798
 स्मृता मरणकालेऽपि निर्दहेच्चित्तमुग्रतः ॥ ७९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७९९</summary>
+
+०७९९
+The thought of friend's betrayal in need
+Rankles even on the deathbed. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७९९</summary>
 
 799\. keṭum kālaik kaiviṭuvār kēṇmai, aṭum kālai  
@@ -320,6 +393,14 @@ Burn our mind ev'n at death to think.        799
 
 निर्दुष्टपुरुषैः साकं नूनं मैत्री विधीयताम् ।  
 गुणहीननरस्नेहं दत्वाऽर्थं वा परित्यज ॥ ८००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८००</summary>
+
+०८००
+Seek the friendship of the pure, and shake off
+The worthless even at a price.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८००</summary>

@@ -3,6 +3,7 @@ title = "०४ विनैत्तिट्पम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६६१</summary>
 
 विनैत्तिट्पम् ऎन्बदु ऒरुवन् मनत्तिट्पम्  
@@ -14,6 +15,14 @@ title = "०४ विनैत्तिट्पम्"
 अधिकारः ६७. क्रियादार्ढ्यम्  
 कर्तुर्मनसि यद्दार्ढ्यं तत्क्रियादार्ढ्यमीर्यते ।  
 सैन्यदुर्गादिदार्ढ्य तु नात्र दार्ढ्यपदेरितम् ॥ ६६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६६१</summary>
+
+०६६१
+Efficiency consists in a resolute mind.
+Other things come thereafter.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६६१</summary>
@@ -50,6 +59,14 @@ And all the rest are imperfect.        661
 चित्तदार्ढ्यापरित्याग इतीमौ प्रकृते मतौ ॥ ६६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६६२</summary>
+
+०६६२
+To avoid failures and not to give up despite failures
+Are the two traits scholars emphasize.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६२</summary>
 
 662\. ūṟu orāl, uṟṟapiṉ olkāmai, iv iraṇṭiṉ  
@@ -82,6 +99,14 @@ These two are maxims of the wise.        662
 
 कर्मारब्धमितीत्येतदन्ते चेज्ज्ञायते परैः ।  
 दृढं भवति तत्, मध्ये ज्ञातं चेद् दुःखमापतेत् ॥ ६६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६६३</summary>
+
+०६६३
+Reveal thy means in the end. Premature disclosure
+Can cause irrevocable damage.
+(N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६६३</summary>
@@ -118,6 +143,14 @@ Woe unto work displayed midway.        663
 यथोक्तं कार्यकरणे समर्थो नास्ति कश्चन ॥ ६६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६६४</summary>
+
+०६६४
+It is easy for anyone to speak,
+But difficult to execute what has been spoken. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६४</summary>
 
 664\. collutal yārkkum eḷiya; ariya ām,  
@@ -150,6 +183,14 @@ But hard it is to know and act.        664
 
 कार्यसाधनशीलस्य क्रियादार्ढ्यं तु मन्त्रिणः ।  
 महत्वजननाद्राज्ञः सर्वैरपि महीयते ॥ ६६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६६५</summary>
+
+०६६५
+Dynamic deeds of brave souls
+Will reach the king to win his praise.
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६६५</summary>
@@ -186,6 +227,14 @@ Shall win the praise of king and all.        665
 चिकीर्षितं फलं चापि प्राप्नुवन्ति तथैव ते ॥ ६६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६६६</summary>
+
+०६६६
+What is sought will be got as desired
+If only the seeker is determined.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६६</summary>
 
 666\. eṇṇiya eṇṇiyāṅku eytupa-eṇṇiyār  
@@ -218,6 +267,14 @@ When mind that wills is strong indeed.        666
 
 महारथाक्षक्षुद्राऽऽणिसमाः सन्तो दृढक्रियाः ।  
 महत्वे नाकृतिर्हेतुः दार्ढ्यं स्यात्तत्र कारणम् ॥ ६६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६६७</summary>
+
+०६६७
+Despise not by looks! Even linchpins hold in place
+The wheels of mighty chariots! *
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६६७</summary>
@@ -262,6 +319,14 @@ Like linchpin of big rolling car.        667
 आलस्यदीर्घसूत्रत्वमन्तरा तद्विधीयताम् ॥ ६६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६६८</summary>
+
+०६६८
+Acts resolved without ambiguity
+Should be unwaveringly carried out without delay.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६८</summary>
 
 668\. kalaṅkātu kaṇṭa viṉaikkaṇ, tuḷaṅkātu  
@@ -296,6 +361,14 @@ The deed resolved purposefully.        668
 अवश्यमेव कर्तव्यं दृढचित्तसमन्वितैः ॥ ६६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६६९</summary>
+
+०६६९
+However great the hardship,
+Pursue with firmness the act that yields bliss.
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६६९</summary>
 
 669\. tuṉpam uṟavariṉum ceyka, tuṇivu āṟṟi-  
@@ -328,6 +401,14 @@ The deed that brings delight at last.        669
 
 दार्ढ्ये स्थितेऽप्यन्यकार्ये स्वीकृते पूतकर्मणि ।  
 मनोदार्ढ्यविहीनांस्तु मानयन्ति न मानवाः ॥ ६७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६७०</summary>
+
+०६७०
+The world has no place for those who,
+Despite other strengths, have no strength of firmness.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७०</summary>

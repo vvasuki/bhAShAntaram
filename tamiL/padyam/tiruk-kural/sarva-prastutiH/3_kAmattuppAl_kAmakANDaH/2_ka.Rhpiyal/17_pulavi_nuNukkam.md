@@ -3,6 +3,7 @@ title = "१७ पुलवि नुणुक्कम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १३११</summary>
 
 पॆण्णियलार् ऎल्लारुम् कण्णिन् पॊदुउण्बर्  
@@ -13,6 +14,14 @@ title = "१७ पुलवि नुणुक्कम्"
 
 त्वद्वक्षः सकलस्त्रीभिः स्वनेत्राभ्यां यथेच्छया ।  
 यतो दृष्ट्वाऽनुभूतं तत्, नाहं भोक्तुं वृणे प्रिये ! ॥ १३११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३११</summary>
+
+१३११
+I won't clasp your broad chest,
+A common dish for all women's eyes to gorge! *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३११</summary>
@@ -49,6 +58,14 @@ To the gaze of all ladies exposed.        1311
 श्रोतुमाशीर्वचो मत्तः प्रियः क्षुतमथाऽकरोत् ॥ १३१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३१२</summary>
+
+१३१२
+When I sulked, he sneezed: hoping
+I would forget and say "Bless you".
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३१२</summary>
 
 1312 ūṭi iruntēmāt tummiṉār yāmtammai  
@@ -81,6 +98,14 @@ Expecting me to say "live long".        1312
 
 ''प्रदर्शनार्थमन्यासां त्वयैतन्मण्डनं कृतम्'' ।  
 इति मालाभूषिताङ्ग प्रियं दृष्ट्वा चुकोप सा ॥ १३१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३१३</summary>
+
+१३१३
+If I wear a wreath, she cries enraged:
+"For which woman's sake is this?" *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३१३</summary>
@@ -117,6 +142,14 @@ While I adorn myself with flowers.        1313
 इति प्रियवचः श्रुत्वा का वाऽन्येति चुकोप सा ॥ १३१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३१४</summary>
+
+१३१४
+If I say "I love you more than any one",
+She frowned asking, "Than whom, than whom?" *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३१४</summary>
 
 1314 yāriṉum kātalam eṉṟēṉā ūṭiṉāḷ  
@@ -149,6 +182,14 @@ yāriṉum yāriṉum eṉṟu.
 
 ''इह जन्मनि विश्लेषो न स्यादि'' त्यवदं प्रियाम् ।  
 ''भाविजन्मनि विश्लेषो भवेद्वे''त्यरुदत् प्रिया ॥ १३१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३१५</summary>
+
+१३१५
+The moment I said we won’t part in this life,
+Her eyes were filled with tears.
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३१५</summary>
@@ -185,6 +226,14 @@ Her eyes at once with tears were filled.        1315
 तेन मां विस्मृतोऽसि त्वम्''इति तत्याज मां प्रिया ॥ १३१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३१६</summary>
+
+१३१६
+"I remembered you", I said;
+"After forgetting?" said she withdrawing herself! *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३१६</summary>
 
 1316 uḷḷiṉēṉ eṉṟēṉmaṟṟu eṉmaṟantīr eṉṟemmaip  
@@ -217,6 +266,14 @@ Her embrace crying "Oft you forget".        1316
 
 क्षुतं कृतं मया, सद्य आशिषं प्राह मां प्रिया ।  
 ''कां स्मृत्वा क्षुतमायात'' मिति क्रुद्धा रुरोद सा ॥ १३१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३१७</summary>
+
+१३१७
+She blessed as I sneezed, but soon recalled it crying:
+"Thinking whom did you sneeze?" *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३१७</summary>
@@ -253,6 +310,14 @@ I sneezed; she blessed; then changed and wept
 तथा कर्तु क्षुतं रुद्रं र्वय''त्युक्त्वा रुरोद सा ॥ १३१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३१८</summary>
+
+१३१८
+When I suppressed my sneeze, she wept saying,
+"Whom are you hiding from me?"
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३१८</summary>
 
 1318 tummuc ceṟuppa aḻutāḷ numaruḷḷal  
@@ -287,6 +352,14 @@ I repressed sneeze; she wept crying
 ''स्त्र्यन्तरेऽपि त्वया चेत्थं कृतमि''त्यरुदत् प्रिया ॥ १३१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३१९</summary>
+
+१३१९
+If I try making up with her, she would ask enraged,
+"Is this how you coax others as well?" *
+(P.S. Sundaram), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३१९</summary>
 
 1319 taṉṉai uṇarttiṉum kāyum piṟarkkunīr  
@@ -319,6 +392,14 @@ I try to coax her and she remarks
 
 प्रियाङ्गशोभावैशिष्टयं सम्यक्पश्याम्यहं यदा ।  
 ''मय्यीक्षसे कया साम्यम्''इति क्रुद्धयेत् तदा प्रिया ॥ १३२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३२०</summary>
+
+१३२०
+If I gaze at her in silence, she would fume and ask,
+"Thinking of whom this comparison?" *
+(K.R. Srinivasa Iyengar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३२०</summary>

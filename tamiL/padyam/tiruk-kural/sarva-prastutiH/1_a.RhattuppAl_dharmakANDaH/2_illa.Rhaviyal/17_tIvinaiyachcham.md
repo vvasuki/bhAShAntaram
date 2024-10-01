@@ -3,6 +3,7 @@ title = "१७ तीविनैयच्चम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २०१</summary>
 
 तीविनैयार् अञ्जार् विऴुमियार् अञ्जुवर्  
@@ -13,6 +14,14 @@ title = "१७ तीविनैयच्चम्"
 
 दुष्कर्मनिरता लोकाः पापेभ्यो न हि बिम्यति ।  
 सत्कर्मनिरता सन्त पापाद्विभ्यति सर्वदा ॥ २०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २०१</summary>
+
+०२०१
+The sinful will not dread; the great will dread
+The wanton pride of sinful action.
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २०१</summary>
@@ -49,6 +58,14 @@ The worthy dread the ill within.        201
 वह्नेरप्यधिक मत्वा मेतव्यं दुष्टकर्मणः ॥ २०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २०२</summary>
+
+०२०२
+Evil begets evil and hence
+Fear evil more than fire. *
+(K. Kannan), (K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०२</summary>
 
 202\. tīyavai tīya payattalāṉ, tīyavai  
@@ -81,6 +98,14 @@ Fear ye evil more than fire.        202
 
 तदात्मक्षेमजनकमुत्तमं ज्ञानमुच्यते ।  
 दुःखानुत्पादबुद्धिर्या स्वापराधिजनेष्वपि ॥ २०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २०३</summary>
+
+०२०३
+The height of wisdom, it is said,
+Is not to return ill even to foes. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २०३</summary>
@@ -117,6 +142,14 @@ Who injure not even their foes.        203
 अन्यथा स्मरतोऽस्यैव धर्मो नाशं विचिन्तयेत् ॥ २०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २०४</summary>
+
+०२०४
+Plot not thy neighbour's fall, even forgetfully;
+Else, justice will plot the plotter's fall. *
+(G.U. Pope), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०४</summary>
 
 204\. maṟantum piṟaṉ kēṭu cūḻaṟka! cūḻiṉ,  
@@ -149,6 +182,14 @@ The ruin of another man's.        204
 
 ''अहं दरिद्र'' इत्युक्त्वा न कुर्यात्कर्म निन्दितम् ।  
 न चेत् दरिद्र एव स्यात् भाविजन्मसु सप्तसु ॥ २०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २०५</summary>
+
+०२०५
+Plead not poverty for doing ill,
+Whereby you will become poorer still.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २०५</summary>
@@ -185,6 +226,14 @@ Shall reduce himself poorer still.        205
 इति चिन्तयताऽन्येषां न कार्या दुष्कृतिः सदा ॥ २०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २०६</summary>
+
+०२०६
+Let him, who seeks to be free from suffering,
+Not be a cause of suffering to others.
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०६</summary>
 
 206\. tīp pāla tāṉ piṟarkaṇ ceyyaṟka-nōyp pāla  
@@ -217,6 +266,14 @@ Who would from harm himself remain.        206
 
 इतरैः शत्रुभिर्जातु मुच्येतेहापि जन्मनि ।  
 दुष्कर्मनामा शत्रुस्तु बाधते भाविजन्मसु ॥ २०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २०७</summary>
+
+०२०७
+Escape from other enemies is likely,
+But not from the relentless pursuit of evil deeds. *
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २०७</summary>
@@ -253,6 +310,14 @@ But sin its deadly blow will give.        207
 प्रतिजन्म तथा यान्ती दुष्कृतिर्बाधते नरम् ॥ २०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २०८</summary>
+
+०२०८
+The consequences of evil deeds leave not
+Like the persistent shadow under the feet.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०८</summary>
 
 208\. tīyavai ceytār keṭutal niḻal taṉṉai  
@@ -287,6 +352,14 @@ As shadow follows as they go.        208
 ईषदप्यत्र दुष्कर्म न कुर्यात् स परस्य तु ॥ २०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २०९</summary>
+
+०२०९
+If you love yourself,
+Refrain from causing ill of any degree. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २०९</summary>
 
 209\. taṉṉait tāṉ kātalaṉ āyiṉ, eṉaittu oṉṟum  
@@ -319,6 +392,14 @@ Think of evil however small.        209
 
 अधर्मेण पथा गच्छन् अन्येभ्यो दुष्कृति नरः ।  
 यदि कश्चिन्न कुरुते तं दुःखं दूरतस्त्यजेत् ॥ २१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २१०</summary>
+
+०२१०
+Know that no harm shall ever befall the one
+Who never strays into evil. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २१०</summary>

@@ -3,6 +3,7 @@ title = "२२ ऊक्कमुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५९१</summary>
 
 उडैयर् ऎनप्पडुवदु ऊक्कम् अह् तिल्लार्  
@@ -14,6 +15,14 @@ title = "२२ ऊक्कमुडैमै"
 अधिकारः ६०. उत्साहसम्पत्तिः  
 उत्साहहितो लोके सम्पन्न इति कथ्यते ।  
 तदभावे भवेद्रिक्त इतरैः सहितोऽपि सः ॥ ५९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५९१</summary>
+
+०५९१
+What is one's own is one's vigour.
+Without it what does one own?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५९१</summary>
@@ -50,6 +59,14 @@ All others own but lethargy.        591
 धनमन्यत्क्रमाच्छीघ्रं ध्रुवं विलयमेष्यति ॥ ५९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५९२</summary>
+
+०५९२
+Real asset is the asset of a resolute mind.
+Material assets stay not but flee. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५९२</summary>
 
 592\. uḷḷam uṭaimai uṭaimai; poruḷ uṭaimai  
@@ -82,6 +99,14 @@ Worldly wealth departs in speed.        592
 
 नष्तायामपि सम्पत्तौ स तु खेदं न विन्दते ।  
 उत्साहरूपसम्पत्त्या सदा यः सहितो भुवि ॥ ५९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५९३</summary>
+
+०५९३
+Those who have vigour will not lament saying:
+"We have suffered loss".
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५९३</summary>
@@ -118,6 +143,14 @@ The loss of worldly wealth and gain.        593
 यस्मिन्नकुण्ठितोत्साहो विद्यते सर्वदा नरे ॥ ५९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५९४</summary>
+
+०५९४
+To a man of unshaken vigour,
+Wealth will ask and find its way.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५९४</summary>
 
 594\. ākkam atar viṉāyc cellum-acaivu ilā  
@@ -152,6 +185,14 @@ Where tireless strivers have their home.        594
 तथा जीवितवृद्धिश्र स्यादुत्साहनिबन्धना ॥ ५९५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५९५</summary>
+
+०५९५
+Water level determines the lotus height.
+A man's stature by the level of his mind.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>शुद्धानन्द-भारती - ५९५</summary>
 
 5\. வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்  
@@ -176,6 +217,14 @@ Mental strength is men's merit.        595
 
 भूपेन चिन्त्यतां स्वीयमौन्नत्यं प्रति सर्वदा ।  
 कार्यं भवतु वा मा वा श्लाघ्यते यत्नवान्नरै ॥ ५९६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५९६</summary>
+
+०५९६
+Let all thy aims be high.
+Failure then is as good as success. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५९६</summary>
@@ -212,6 +261,14 @@ Though they fail their virtues stand.        596
 तद्वदुत्साहवन्तोऽपि न विघ्नाद्विरमन्ति हि ॥ ५९७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५९७</summary>
+
+०५९७
+An elephant pierced by arrows stands unperturbed.
+The courageous relent not in adversities. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५९७</summary>
 
 597\. citaiviṭattu olkār, uravōr;-putai ampiṉ  
@@ -244,6 +301,14 @@ Great minds keep fit ev'n in defeat.        597
 
 उत्साहवर्जितनृपा ᳚वयं दानागुणान्विताः'' ।  
 इति मत्वा न वै दोषमाप्नुवन्ति कदापि ते ॥ ५९८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५९८</summary>
+
+०५९८
+The poor in spirit can never attain the pride of being
+The generous patrons of the world.
+(Kasthuri Sreenivasan), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५९८</summary>
@@ -280,6 +345,14 @@ Heartless persons cannot boast
 गजेऽपि व्याघ्रमालोक्य भीतः सद्यः पलायते ॥ ५९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५९९</summary>
+
+०५९९
+Though huge and sharp-tusked,
+An elephant fears a tiger when attacked. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५९९</summary>
 
 599\. pariyatu kūrṅ kōṭṭatu āyiṉum, yāṉai  
@@ -312,6 +385,14 @@ When tiger, less in form, assails.        599
 
 नराणां बलमुत्साहः तद्विहीननरा द्रुमाः ।  
 आकारेणैव ते वृक्षाः निष्फलाश्च निरर्थकाः ॥ ६००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६००</summary>
+
+०६००
+Energy is a man's strength: the immobile are
+Trees in human form. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६००</summary>

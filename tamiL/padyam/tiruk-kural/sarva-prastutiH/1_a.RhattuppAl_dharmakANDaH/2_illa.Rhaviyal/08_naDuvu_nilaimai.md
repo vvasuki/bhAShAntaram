@@ -3,6 +3,7 @@ title = "०८ नडुवु निलैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १११</summary>
 
 तगुदि ऎनवॊण्ड्रु नण्ड्रे पगुदियाल्  
@@ -13,6 +14,14 @@ title = "०८ नडुवु निलैमै"
 
 शत्रुमित्रतृतीयेषु न्यायमार्गानुसारिणः ।  
 निष्पक्षपाततारूपो धर्मे योऽस्य फलं भवेत् ॥ १११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १११</summary>
+
+०१११
+Justice may be called good only when it acts impartially
+Regardless of the class of men. *
+(Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १११</summary>
@@ -49,6 +58,14 @@ It is to give each man his due.         111
 स्थिरं सत्पुत्रपौत्रादि सन्ततेः स्यात् सुखावहम् ॥ ११२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११२</summary>
+
+०११२
+The wealth of a just man, without decline,
+Passes intact to his posterity. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११२</summary>
 
 112\. ceppam uṭaiyavaṉ ākkam citaivu iṉṟi,  
@@ -81,6 +98,14 @@ Grows and lasts to posterity.         112
 
 पक्षपातार्जितं वित्तं सुखं नैव प्रयच्छति ।  
 कदाचित् सुखदं भायादथापि परिवर्जयेत् ॥ ११३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११३</summary>
+
+०११३
+Though profitable, turn away
+From unjust gains without delay.
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११३</summary>
@@ -117,6 +142,14 @@ From unjust gains without delay.         113
 सदसत्पुत्रजन्मभ्यां ज्ञातुं शक्यं विशेषतः ॥ ११४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११४</summary>
+
+०११४
+The just and unjust shall be known
+By what they leave behind.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४</summary>
 
 114\. takkār takavu ilar eṉpatu avar avar  
@@ -149,6 +182,14 @@ Are seen in their posterity.         114
 
 सुखदुःखे हि संसारे कर्माधीने भविष्यतः ।  
 अतो मध्यस्थवृत्तिः स्यात् श्रेष्ठमाभरणं सताम् ॥ ११५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११५</summary>
+
+०११५
+Adversity and prosperity come and go,
+But an unbiased heart adorns the noble.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५</summary>
@@ -185,6 +226,14 @@ Equal mind adorns the wise.         115
 तदुत्पात इति ज्ञेयं भाविनाशस्य मूचकम् ॥ ११६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११६</summary>
+
+०११६
+If your thoughts show signs of doing injustice,
+Know that misfortune awaits you. *
+(C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११६</summary>
 
 116\. 'keṭuval yāṉ' eṉpatu aṟika-taṉ neñcam  
@@ -217,6 +266,14 @@ Who leaves justice to sinful lure.         116
 
 निष्पक्षपातिनो धर्मशीलस्य समुपागतम् ।  
 दारिद्र्यमपि मन्यन्ते भाग्यमेव मनीषिणः ॥ ११७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११७</summary>
+
+०११७
+The world will not deem as poverty
+The low estate of virtuous men who dwell in equity. *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७</summary>
@@ -253,6 +310,14 @@ Is not held down by equity.         117
 तथा निष्पक्षपातित्वं माध्यस्थं लक्षणं सताम् ॥ ११८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११८</summary>
+
+०११८
+To be unbiased like an unswerving weighing scale
+Is an ornament for the great. *
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११८</summary>
 
 118\. camaṉ ceytu cīr tūkkum kōlpōl amaintu, orupāl  
@@ -287,6 +352,14 @@ A well poised mind is jewel of the wise.         118
 वाचि मध्यस्थभावोऽपि तदा नूनं भविष्यति ॥ ११९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११९</summary>
+
+०११९
+Equity is words without bias
+And it comes from a firm, unbiased mind. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११९</summary>
 
 119\. coṟ kōṭṭam illatu, ceppam-orutalaiyā  
@@ -319,6 +392,14 @@ And free from crooked word-twisting.         119
 
 अन्येषामपि वस्तूनि स्वकीयानीव पश्यता ।  
 क्रियते यत्तु वाणिज्यं तद्वाणिज्यमितीर्यते ॥ १२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२०</summary>
+
+०१२०
+A merchant's best merchandise
+Is tending other's goods as his own.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२०</summary>

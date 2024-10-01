@@ -3,6 +3,7 @@ title = "०३ कण्विदुप्पऴिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११७१</summary>
 
 कण्दाम् कलुऴ्व तॆवन्गॊलो तण्डानोय्  
@@ -13,6 +14,14 @@ title = "०३ कण्विदुप्पऴिदल्"
 
 त्वमेव प्रथमं नेत्र! मह्मं प्रियमदशेयः ।  
 कामाधिर्ववृधे तेन कम्मात् त्वं रुदसि वृथा ॥ ११७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११७१</summary>
+
+११७१
+Why the same eyes that showed him to me
+And caused this fever, now cry in anguish?
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७१</summary>
@@ -49,6 +58,14 @@ They weep with malady and pine?        1171
 अद्याज्ञानात् कुतो नेत्रे खिद्येते प्रीतिसंयुते ॥ ११७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११७२</summary>
+
+११७२
+Why do these eyes, once thoughtlessly looked at him,
+Now not repent but grieve?
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७२</summary>
 
 1172 terintuṇarā nōkkiya uṇkaṇ parintuṇarāp  
@@ -81,6 +98,14 @@ Regrets for their thoughtless glance?        1172
 
 नेत्रे पूर्व स्वयं गत्वा तं नायकमपश्यताम् ।  
 रुदतः स्वयमद्यात्र, परीहासपदं हि तत् ॥ ११७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११७३</summary>
+
+११७३
+Funny the very same eyes that once
+Eagerly looked at him are now in tears!
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७३</summary>
@@ -117,6 +142,14 @@ It's funny that they weep today.        1173
 मह्मं दत्त्वा क्रन्दितुं ते ह्यशक्ते नीरवर्जिते ॥ ११७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११७४</summary>
+
+११७४
+Having driven me to this incurable fever,
+My eyes have dried up, drained of all tears. *
+(K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७४</summary>
 
 1174 peyalāṟṟā nīrulanta uṇkaṇ uyalāṟṟā  
@@ -149,6 +182,14 @@ Crying adry without relief.        1174
 
 मन्नेत्रे ये पुरा कामरोगं सागरसन्निभम् ।  
 अयच्छतामिदानीं ते खिद्येते निद्रया विना ॥ ११७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११७५</summary>
+
+११७५
+My eyes plunged me in a raging sea of love
+And for this must suffer sleepless pain. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७५</summary>
@@ -185,6 +226,14 @@ Suffer that torture sleeplessly.        1175
 तुल्पोऽनुभूयते खेदः तत्तस्य खलु युज्यते ॥ ११७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११७६</summary>
+
+११७६
+How nice! The eyes that caused this torment
+Are themselves tormented. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७६</summary>
 
 1176 ōo iṉitē emakkuinnōy ceytakaṇ  
@@ -217,6 +266,14 @@ Are victims of the same themselves.        1176
 
 प्रेम्णा सहर्ष ये नेत्रे प्रियं पूर्वमपश्यताम् ।  
 निर्निद्रे तेऽद्य खेदेन स्यातामश्रुविवर्जिते ॥ ११७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११७७</summary>
+
+११७७
+Let tears dry up pining and pining in the eyes
+That eyed him longing and longing.
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११७७</summary>
@@ -253,6 +310,14 @@ In eyes that eyed him longing longing.        1177
 अस्ति कश्रिददृष्ट्वा तं न नेत्रे शान्तिमापतुः ॥ ११७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११७८</summary>
+
+११७८
+He made love with words, not with heart.
+Yet my eyes pine, seeing him not. *
+( Shuddhananda Bharatiar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७८</summary>
 
 1178 pēṇātu peṭṭār uḷarmaṉṉō maṟṟavark  
@@ -287,6 +352,14 @@ Yet my eyes pine seeing him not.        1178
 नायाति निद्रा तस्मान्मे विषण्णे नयने भृशम् ॥ ११७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११७९</summary>
+
+११७९
+Sleepless when he is not here, sleepless when he is,
+Either way my eyes never rest.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११७९</summary>
 
 1179 vārākkāl tuñcā variṉtuñcā āyiṭai  
@@ -319,6 +392,14 @@ This is the fate of eyes that weep.        1179
 
 गुह्यप्रकाशपटहतुल्यनेत्रयुता वयम् ।  
 अतोऽस्मन्नयने दृष्ट्वा रहस्यं जनाः ॥ ११८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११८०</summary>
+
+११८०
+With eyes that drum up and declare my grief,
+It is hard to conceal secrets from these folks! *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११८०</summary>

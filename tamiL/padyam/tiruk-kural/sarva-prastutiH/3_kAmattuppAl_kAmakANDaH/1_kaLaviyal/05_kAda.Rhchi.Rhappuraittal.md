@@ -3,6 +3,7 @@ title = "०५ कादऱ्\u200cचिऱप्पुरैत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११२१</summary>
 
 पालॊडु तेन्गलन् दट्रे पणिमॊऴि  
@@ -13,6 +14,14 @@ title = "०५ कादऱ्\u200cचिऱप्पुरैत्तल्"
 
 अस्यास्तु मृदुभाषिण्याः श्वेतदन्तोद्भवं जलम् ।  
 मधुसम्मिश्रितं क्षीरमिवातिमधुरं भवेत् ॥ ११२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११२१</summary>
+
+११२१
+Like a mixture of milk and honey,
+Is the drool that drips through her pearly teeth.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२१</summary>
@@ -46,6 +55,14 @@ From her white teeth whose word is soft.        1121
 
 जीवस्य देहसम्बन्धो यादृशो दृश्यते भुवि ।  
 स्नेहबन्धो ममाप्यस्यां वर्तते तादृशो दृढः ॥ ११२२॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११२२</summary>
+
+११२२
+The bond between me and this damsel
+Is like the union of body and soul. *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२२</summary>
@@ -82,6 +99,14 @@ Is like bond between soul and body.        1122
 नो चेन्मत्प्रियया तस्तुमत्र नैव हि शक्यते ॥ ११२३॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११२३</summary>
+
+११२३
+O pupil of my eye! Be gone,
+For there is no place for the maiden I love. *
+(M.S. Poornalingam Pillai)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११२३</summary>
 
 1123 karumaṇiyiṉ pāvāynī pōtāyām vīḻum  
@@ -114,6 +139,14 @@ Giving room to my fair-browed belle!        1123
 
 संयोगे भूषणाङ्गीयं मम जीवनदायिनी ।  
 वियोगे सैव मे नूनं भवेन्मरणदायिनी ॥ ११२४॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११२४</summary>
+
+११२४
+Life is lively when she is around,
+But dreadful when she leaves.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२४</summary>
@@ -150,6 +183,14 @@ Death it is her severance.        1124
 तदैव स्मरणं युक्तं, न मया विस्मृता गुणाः ॥ ११२५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११२५</summary>
+
+११२५
+Recollection is needed if only I forget.
+How can I forget her dazzling warring eyes!
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११२५</summary>
 
 1125 uḷḷuvaṉ maṉyāṉ maṟappiṉ maṟappaṟiyēṉ  
@@ -182,6 +223,14 @@ The charms of her bright battling eyes.        1125
 
 नापयाति प्रियो नेत्रान्निमेषसमयोऽपि सः ।  
 नैति खेदं, यतोऽन्येषामदृश्यः सूक्ष्मरूपधृत् ॥ ११२६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११२६</summary>
+
+११२६
+So subtle is my lover’s form that he neither leaves my eyes
+Nor is he hurt when I wink. *
+( Shuddhananda Bharatiar), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२६</summary>
@@ -218,6 +267,14 @@ Ever in my eyes winking, no harm.        1126
 अञ्जनाद्यैरलङ्कारो नेत्रयोर्न विधीयते ॥ ११२७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११२७</summary>
+
+११२७
+I will not paint my eyes and so lose
+Even for a trice the sight of my love.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११२७</summary>
 
 1127 kaṇṇuḷḷār kāta lavarākak kaṇṇum  
@@ -250,6 +307,14 @@ I paint them not lest he hides.        1127
 
 य्ष्णवस्त्वशनेनासौ हृदयस्थो मम प्रिय ः ।  
 दग्धः स्यादिति भीत्या, तदुष्णं वस्तु न भुज्यते ॥ ११२८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११२८</summary>
+
+११२८
+I dare not swallow anything hot
+Lest it hurt my lover within me!
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११२८</summary>
@@ -286,6 +351,14 @@ I fear hot food lest he feels hot.        1128
 ज्ञात्वदं निर्निमेषं तं कठिन ब्रुवते जनाः ॥ ११२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११२९</summary>
+
+११२९
+My eyes don’t close for fear of losing him.
+Seeing this, folks blame him for desertion.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११२९</summary>
 
 1129 imaippiṉ karappākku aṟival aṉaittiṟkē  
@@ -318,6 +391,14 @@ And him as cruel the townsmen chide.        1129
 
 हृदयेऽस्ति प्रियो नित्यं तदज्ञात्वा जना भुवि ।  
 निन्दन्ति ᳚प्रीतिहीनोऽयं वियोगं बहती'' ति च ॥ ११३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११३०</summary>
+
+११३०
+He dwells gladly forever in my heart.
+And the folks say he is loveless and has left me. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११३०</summary>

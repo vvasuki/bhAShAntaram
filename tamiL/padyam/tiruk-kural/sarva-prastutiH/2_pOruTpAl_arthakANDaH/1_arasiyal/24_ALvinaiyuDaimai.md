@@ -3,6 +3,7 @@ title = "२४ आळ्विनैयुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६११</summary>
 
 अरुमै उडैत्तॆण्ड्रु असावामै वेण्डुम्  
@@ -14,6 +15,14 @@ title = "२४ आळ्विनैयुडैमै"
 अधिकारः ६२. प्रयत्नशीलत्वम्  
 साध्यमिदमित्येतां मतिं त्यक्त्वा प्रयत्यताम् ।  
 स एव यत्नस्ते दद्यात् बलं कार्यसमापने ॥ ६११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६११</summary>
+
+०६११
+Do not give up saying "It is impossible".
+Effort will overcome.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६११</summary>
@@ -50,6 +59,14 @@ Who tries attains striving's reward.        611
 तस्मात् प्रयत्नशून्यत्वं मुञ्च कर्तव्यकर्मसु ॥ ६१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६१२</summary>
+
+०६१२
+Leave no task incomplete,
+For the world gives up those who give up. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१२</summary>
 
 612\. viṉaikkaṇ viṉaikeṭal ōmpal-viṉaik kuṟai  
@@ -82,6 +99,14 @@ The world will quit who quits his work.        612
 
 परोपकरणे बुद्धिस्तेषामेव प्रवर्तते ।  
 अकुण्ठितप्रयत्नारव्यगुणेन सहितास्तु ये ॥ ६१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६१३</summary>
+
+०६१३
+The pride of being a philanthropist belongs to those
+Who have that quality called perseverance. * 
+(G. Vanmikanathan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६१३</summary>
@@ -118,6 +143,14 @@ Depends magnanimous bounty.        613
 करवर्तिकृपाणोऽपि भीरुः किं कर्तुमर्हति ॥ ६१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६१४</summary>
+
+०६१४
+The liberality of the indolent man will not endure,
+Like a sword in eunuch's hand.*
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१४</summary>
 
 614\. tāḷāṇmai illātāṉ vēḷāṇmai, pēṭi kai  
@@ -150,6 +183,14 @@ Like sword in eunuch's hand it fails.        614
 
 यः सुखेच्छां परित्यज्य कर्मण्येव कृतादर्ः ।  
 स तु स्वीयजनक्लेशं वारयेत् स्तम्भतां गतः ॥ ६१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६१५</summary>
+
+०६१५
+A pillar of comfort to his friends is he
+Who scorns delight and loves labour. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६१५</summary>
@@ -186,6 +227,14 @@ Wipes grief of friends, pillar secure.        615
 दारिद्र्यं तस्य जनयेत् व्यवसायविहीनता ॥ ६१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६१६</summary>
+
+०६१६
+Exertion leads to wealth;
+Lack of it brings forth poverty. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१६</summary>
 
 616\. muyaṟci-tiruviṉai ākkum; muyaṟṟu iṉmai  
@@ -218,6 +267,14 @@ Indolence brings but poverty.        616
 
 अलक्ष्मीः स्ग्यामला ज्येष्ठा निवसेदलसाश्रिता ।  
 आलस्यवर्जिते पुंसि वर्तते पद्मसम्भवा ॥ ६१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६१७</summary>
+
+०६१७
+The black ogress 'misfortune' lurks in laziness,
+While goddess 'fortune' lingers in active men. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६१७</summary>
@@ -254,6 +311,14 @@ Illuck abides with sloth they say
 विधिना निष्फले यत्ने न निन्द्यस्त्वं भविष्यसि ॥ ६१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६१८</summary>
+
+०६१८
+Ill-luck is never blamed. What is blamed
+Is knowledge without exertion.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१८</summary>
 
 618\. poṟi iṉmai yārkkum paḻi aṉṟu; aṟivu aṟintu,  
@@ -288,6 +353,14 @@ The shame is nothing learnt or done.        618
 अलब्धेऽपि फले कायक्लेशो नैव वृथा भवेत् ॥ ६१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६१९</summary>
+
+०६१९
+Even though God be against,
+Effort is bound to pay the wages of labour. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६१९</summary>
 
 619\. teyvattāṉ ākātueṉiṉum, muyaṟci taṉ  
@@ -320,6 +393,14 @@ Hard labour has ready payment.        619
 
 विनालस्यं कर्मलोपमन्तरा यत्नवान् नरः ।  
 प्रतिकूलं विघिं चापि स कदाचिद्विजेष्यति ॥ ६२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६२०</summary>
+
+०६२०
+Those who never get tired of striving undauntedly
+Shall leave even Fate behind.
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६२०</summary>

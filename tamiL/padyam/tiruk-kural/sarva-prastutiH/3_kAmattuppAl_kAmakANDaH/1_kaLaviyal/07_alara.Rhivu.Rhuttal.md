@@ -3,6 +3,7 @@ title = "०७ अलरऱिवुऱुत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११४१</summary>
 
 अलरॆऴ आरुयिर् निऱ्कुम् अदनैप्  
@@ -13,6 +14,14 @@ title = "०७ अलरऱिवुऱुत्तल्"
 
 कामसम्बन्धिवार्तायाः प्रसाराज्जीव्यते मया ।  
 स्थितिमेनां न जानन्ति जनाः पुष्यवशादहो ॥ ११४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११४१</summary>
+
+११४१
+Rumours revive hope; Those that spread them
+Luckily don't know this.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११४१</summary>
@@ -49,6 +58,14 @@ Good luck! many know not its sense.        1141
 अज्ञात्वा दुष्प्रचारेण मम साह्यं वितन्वते ॥ ११४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११४२</summary>
+
+११४२
+Rumours have gifted me this flowery-eyed belle;
+The public know not her preciousness. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४२</summary>
 
 1142 malaraṉṉa kaṇṇāḷ arumai aṟiyātu  
@@ -81,6 +98,14 @@ People know not what rare angel.        1142
 
 दुष्प्रचारो लोककृतो मम साह्यप्रदोऽभवत् ।  
 दुस्साधञ्च सुसाधं मे भविता दुष्प्रचारतः ॥ ११४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११४३</summary>
+
+११४३
+Should I not welcome their rumours
+Which give that feel of owning whom I own not?
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११४३</summary>
@@ -117,6 +142,14 @@ Having not, I feel, I have her.        1143
 कामः प्रचाररहित्ये नूनं सङ्कुचितो भवेत् ॥ ११४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११४४</summary>
+
+११४४
+Rumours enhance my love which might have
+Otherwise waned losing its power. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४४</summary>
 
 1144 kavvaiyāl kavvitu kāmam atuviṉṟēl  
@@ -149,6 +182,14 @@ Or else it becomes bleak and weak.        1144
 
 प्रचाराद् बहुभिर्ज्ञातः कामः स्यान्मोददायकः ।  
 मोदं मोदं मद्यपायी सेवते तद्यथा पुनः ॥ ११४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११४५</summary>
+
+११४५
+Wine delights with every sip.
+So does love with every disclosure.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११४५</summary>
@@ -185,6 +226,14 @@ Love delights as rumour grows.        1145
 सर्पेण चन्द्रग्रहणवार्तेव प्रसृतोऽभवत् ॥ ११४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११४६</summary>
+
+११४६
+Our meeting was but for a day, but the outcry is
+As if a serpent has swallowed the moon. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४६</summary>
 
 1146 kaṇṭatu maṉṉum orunāḷ alarmaṉṉum  
@@ -217,6 +266,14 @@ Lasting rumours eclipse our moon.        1146
 
 ववृधे कामरोगोऽयमपवादाख्यदोहदात् ।  
 मातृक्रोधवचोरूपसलिलेनापि पोषितः ॥ ११४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११४७</summary>
+
+११४७
+The village gossip manures my love,
+And my mother's reproaches water it.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११४७</summary>
@@ -253,6 +310,14 @@ Waters the growth of this love-pain.        1147
 यथा घृतेन वह्नेस्तु शमनं दुष्करं भुवि ॥ ११४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११४८</summary>
+
+११४८
+To suppress love with scandal
+Is to put fire out with ghee!
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४८</summary>
 
 1148 neyyāl erinutuppēm eṉṟaṟṟāl kauvaiyāṟal  
@@ -287,6 +352,14 @@ Is to quench fire by pouring ghee.        1148
 तथा सत्यपवादार्थ न विभेमि कदाचन ॥ ११४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११४९</summary>
+
+११४९
+He who said “fear not” has flared up rumour.
+Why then should I blush for this outcry? *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११४९</summary>
 
 1149 alarnāṇa olvatō añcalōmpu eṉṟār  
@@ -319,6 +392,14 @@ Why then should I blush this clamour?        1149
 
 अपवादं ममाभीष्टं ग्रामीणा ब्रुवरे यतः ।  
 कामुकैर्वाञ्छितं सर्व साध्यते तत्तु तैस्ततः ॥ ११५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११५०</summary>
+
+११५०
+This village gossip is what we desire,
+For it serves the desire of my lover. *
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११५०</summary>

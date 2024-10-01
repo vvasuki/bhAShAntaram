@@ -3,6 +3,7 @@ title = "०९ कॊल्लामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ३२१</summary>
 
 अऱविनै यादॆनिन् कॊल्लामै कोऱल्  
@@ -13,6 +14,14 @@ title = "०९ कॊल्लामै"
 
 प्राणिनामवधेनैव सर्वपुण्यफलं भवेत् ।  
 हननात्प्राणिवर्गाणां सर्व पापफलं भवेत् ॥ ३२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३२१</summary>
+
+०३२१
+What is virtue? It is not to kill,
+For killing causes every ill.
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३२१</summary>
@@ -49,6 +58,14 @@ For killing causes every ill.        321
 शास्त्रकारोक्त धर्मेषु प्रशस्तमिदमीर्यते ॥ ३२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३२२</summary>
+
+०३२२
+The chief of all codes ever written
+Is to share your food and protect all life.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३२२</summary>
 
 322\. pakuttu uṇṭu, pal uyir ōmputal nūlōr  
@@ -81,6 +98,14 @@ This is the law of all the laws.        322
 
 आद्यो निरुपमो धर्मः प्राणिनामवधो मतः ।  
 विमृष्टे सत्यकथनं द्वितीयं स्थानमर्हति ॥ ३२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३२३</summary>
+
+०३२३
+The first and foremost good is 'Non killing'.
+Next to it in rank comes 'Not lying'.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३२३</summary>
@@ -117,6 +142,14 @@ The next, not to utter falsehood.        323
 मोक्षादिलोकजनकः सन्मार्ग इति मन्यते ॥ ३२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३२४</summary>
+
+०३२४
+What is the perfect path?
+It is the path of avoiding killing anything.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३२४</summary>
 
 324\. 'nallāṟu eṉappaṭuvatu yātu?' eṉiṉ, yātu oṉṟum  
@@ -149,6 +182,14 @@ The way away from heat to slay.        324
 
 अवधाख्यं वरं धर्मे यः सदा परिरक्षति ।  
 संसारभीत्या संन्यास भाजिनोऽप्युत्तमो हि सः ॥ ३२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३२५</summary>
+
+०३२५
+Of all who renounce fearing instability, the foremost is he
+Who avoids killing fearing murder. *
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३२५</summary>
@@ -185,6 +226,14 @@ The head is he who dreads killing.        325
 जीवितेऽग्रये कृतान्तोऽपि न विशेत् प्राणभक्षकः ॥ ३२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३२६</summary>
+
+०३२६
+Death that eats up life spares the breath of him
+Who puts no life to death.
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३२६</summary>
 
 326\. kollāmai mēṟkoṇṭu oḻukuvāṉ vāḻnāḷmēl  
@@ -217,6 +266,14 @@ Of him who no life puts to death.        326
 
 आत्मानो मरणं वापि जायतां प्राणिमूलकम् ।  
 न कार्या प्राणिनां हत्या स्वात्मरक्षणमिच्छता ॥ ३२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३२७</summary>
+
+०३२७
+Avoid removing the dear life of another
+Even when your own life is under threat.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३२७</summary>
@@ -253,6 +310,14 @@ Even when your life must perish.        327
 वधमूलगातं भाग्यं सन्तः पश्यन्ति गार्हितम् ॥ ३२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३२८</summary>
+
+०३२८
+However great its gains,
+The wise despise the profits of slaughter.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३२८</summary>
 
 328\. naṉṟu ākum ākkam peritu eṉiṉum, cāṉṟōrkkuk  
@@ -287,6 +352,14 @@ Though deemed good in sacrifice.        328
 कुलीनानपि चण्डालसमान् पश्यन्ति कर्मणा ॥ ३२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३२९</summary>
+
+०३२९
+Men who practice slaughter as a profession
+Are placed amongst men of disgrace. *
+(S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३२९</summary>
 
 329\. kolai viṉaiyar ākiya mākkaḷ pulai viṉaiyar,  
@@ -319,6 +392,14 @@ Eaters of carrion bizarre!        329
 
 रुग्णान् दरिद्रान् शास्त्रज्ञाः पश्यन्तो नीवजीवनान् ।  
 ᳚इमे जन्मान्तरे जघ्नुः प्राणा'' नित्येव जानते ॥ ३३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३३०</summary>
+
+०३३०
+A deprived life of diseased bodies, they say,
+Comes from depriving the life of another. *
+(Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३३०</summary>

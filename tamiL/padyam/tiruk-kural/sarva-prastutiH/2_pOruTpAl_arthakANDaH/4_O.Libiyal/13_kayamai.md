@@ -3,6 +3,7 @@ title = "१३ कयमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०७१</summary>
 
 मक्कळे पोल्वर् कयवर् अवरन्न  
@@ -14,6 +15,14 @@ title = "१३ कयमै"
 अधिकारः १०८. नीचत्वम्  
 आकारेण समैः साकं नीचानामस्ति तुल्यता ।  
 इदं साम्यन्त्वन्यवस्तुद्विके द्रष्टुं न शक्यते ॥ १०७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०७१</summary>
+
+१०७१
+The wicked look utterly like men!
+Such close mimics we have never seen! *
+(S. Maharajan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०७१</summary>
@@ -50,6 +59,14 @@ We have never seen such a sham.        1071
 यतस्तैः सदसच्चिन्ता कापि न क्रियते किल ॥ १०७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०७२</summary>
+
+१०७२
+More blessed than the good are the base,
+For they have no scruples.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०७२</summary>
 
 1072 naṉṟaṟi vāriṉ kayavar tiruvuṭaiyār  
@@ -82,6 +99,14 @@ For no care enters their heart or head.        1072
 
 लोके नीचस्तथा श्रीश इतीमै भवतः समौ ।  
 स्वेच्छया वाञ्छितं कार्यमुभाभ्यां क्रियते यतः ॥ १०७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०७३</summary>
+
+१०७३
+The base are like the gods.
+They also do whatever they like.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०७३</summary>
@@ -118,6 +143,14 @@ As prompted by their desire do.        1073
 ''तस्मादपि वयं श्रेष्ठं'' इति स्युर्ममतापराः ॥ १०७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०७४</summary>
+
+१०७४
+The base are proud when they find men
+Meaner than themselves.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०७४</summary>
 
 1074 akappaṭṭi āvāraik kāṇiṉ avariṉ  
@@ -150,6 +183,14 @@ Him he will exceed, exult and smile.        1074
 
 राजदण्डभयान्नीचा भवन्ति गुणशालिनः ।  
 सच्चारित्रसमेताः स्युस्ते लब्धुं वाञ्छितं क्कचित् ॥ १०७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०७५</summary>
+
+१०७५
+Fear is the base man's only code;
+Sometimes, greed a little. *
+(P.S. Sundaram), (G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०७५</summary>
@@ -186,6 +227,14 @@ Craving avails a bit below.        1075
 प्रसारणात् प्रचारार्थपटहाः सन्ति दुर्जनाः ॥ १०७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०७६</summary>
+
+१०७६
+The base are like drum, for they sound off to others
+Every secret they hear. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०७६</summary>
 
 1076 aṟaipaṟai aṉṉar kayavartām kēṭṭa  
@@ -218,6 +267,14 @@ Since other's secrets they proclaim.        1076
 
 बद्ध्वा कण्ठे करं बाधाकारकान् घातकान् विना ।  
 परेषामधमो भुक्तसिक्तहस्तं न दर्शयेत् ॥ १०७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०७७</summary>
+
+१०७७
+The base won’t even shake their wet hands
+Unless their jaws are shaken with clenched fists. *
+( Shuddhananda Bharatiar), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०७७</summary>
@@ -254,6 +311,14 @@ But for fists clenched their jaws to break.        1077
 नीचाः स्युरिक्षुवत्पिष्टा भवन्ति सहकारिणः ॥ १०७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०७८</summary>
+
+१०७८
+A word will move the noble;
+While the base, like sugarcane, must be crushed.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०७८</summary>
 
 1078 collap payaṉpaṭuvar cāṉṟōr karumpupōl  
@@ -288,6 +353,14 @@ The cane-like base when crushed and killed.        1078
 असूयया मृषादोषान् सदा शंसन्ति तेष्वपि ॥ १०७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०७९</summary>
+
+१०७९
+The base excel in finding faults of others
+When they see them well clothed and fed.
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०७९</summary>
 
 1079 uṭuppatūum uṇpatūum kāṇiṉ piṟarmēl  
@@ -320,6 +393,14 @@ On seeing how they eat and dress.        1079
 
 आत्मानमपि नीचास्तु विक्रेतुं व्यसनागमे ।  
 सज्जा भवेयुः, सत्कर्म नान्यत् तैः कर्तुमिष्यते ॥ १०८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०८०</summary>
+
+१०८०
+What use are the base in a crisis,
+Save to rush and sell themselves?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०८०</summary>

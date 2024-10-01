@@ -3,6 +3,7 @@ title = "०६ नाणुत्तुऱवुरैत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११३१</summary>
 
 कामम् उऴन्दु वरुन्दिनार्क्कु एमम्  
@@ -13,6 +14,14 @@ title = "०६ नाणुत्तुऱवुरैत्तल्"
 
 अनुभूय प्रियं पश्चात् वियुज्य बहुखिद्यत्ः ।  
 प्रियस्य तालतुरगारोहणान्नास्ति रक्षकम् ॥ ११३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११३१</summary>
+
+११३१
+Those that enjoyed love and now mourn in affliction
+Have nothing but the madal for strength.
+(G.U. Pope), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११३१</summary>
@@ -49,6 +58,14 @@ Except riding *'palmyra horse'.        1131
 तौ लज्जां च परित्यज्य तुरगारे हणोद्यतौ ॥ ११३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११३२</summary>
+
+११३२
+Away with shame! Soul and body can bear no more,
+And will mount the madal.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११३२</summary>
 
 1132 nōṉā uṭampum uyirum maṭalēṟum  
@@ -81,6 +98,14 @@ And take to riding of the palm.        1132
 
 पुस्त्वलज्जे पुरा पूर्णे मस्यास्तां अद्य ते विना ।  
 करोमि तालतुरगारोहणं कामुको यथा ॥ ११३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११३३</summary>
+
+११३३
+Modesty and manliness once I owned,
+But now only the madal ridden by the lustful. *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११३३</summary>
@@ -117,6 +142,14 @@ My love has now Madal only.        1133
 लज्जापुस्त्वाभिधौ पोतौ वेगेन नयति क्षणात् ॥ ११३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११३४</summary>
+
+११३४
+Alas, the raft of modesty and manliness is swept away
+By the rushing tide of lust!
+(W.H. Drew and J. Lazarus), (G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११३४</summary>
 
 1134 kāmak kaṭumpuṉal uykkumē nāṇoṭu  
@@ -149,6 +182,14 @@ The raft of shame and firmness, aye!        1134
 
 सायङ्कालोद्भवं दुःखं कृत्रिमाश्चाधिरोहणम् ।  
 द्वयमेतददान्मह्यं मालाकुलकरा प्रिया ॥ ११३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११३५</summary>
+
+११३५
+The maiden with her armlets of garland
+Gave me the madal and the pangs of eventide. *
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११३५</summary>
@@ -186,6 +227,14 @@ Are gifts of wreath-like bracelet maid.        1135
 तेनार्घरात्रिकालेऽपि कृत्रिमाश्चं स्मराम्यहम् ॥ ११३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११३६</summary>
+
+११३६
+Even at midnight I think of riding the madal,
+Unable to close my eyes because of her. *
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११३६</summary>
 
 1136 maṭalūrtal yāmattum uḷḷuvēṉ maṉṟa  
@@ -218,6 +267,14 @@ My eyes sleep not seeing this fair.        1136
 
 पयोधिसमकामाधिमनुभूयापि चाङ्गनाः ।  
 तालाश्चान्नाधिरोहन्ति स्त्रीजन्मातो विशिष्यते ॥ ११३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११३७</summary>
+
+११३७
+Nothing grandeur than women! Their love may rage like sea,
+Yet don’t mount the madal!
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११३७</summary>
@@ -262,6 +319,14 @@ Serene is woman's self control.        1137
 स्त्रीणं कामो विनिष्क्रम्य'' विथीपर्गन्तमाययौ ॥ ११३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११३८</summary>
+
+११३८
+Pitiless love with no regard for modesty,
+Betrays itself to reveal the secrets public. *
+(S. Maharajan), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११३८</summary>
 
 1138 niṟaiyariyar maṉaḷiyar eṉṉātu kāmam  
@@ -296,6 +361,14 @@ Though women are highly soft and chaste.        1138
 इतीव मम कामोऽयं वीथ्यां भ्रमति मोहितः ॥ ११३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११३९</summary>
+
+११३९
+Perplexed is my passion that it roves in public
+With complaints of being unnoticed. *
+(J. Narayanaswamy), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११३९</summary>
 
 1139 aṟikilār ellārum eṉṟēeṉ kāmam  
@@ -328,6 +401,14 @@ Believing that none knows its secret.        1139
 
 ''अस्मस्समसखीभिस्तु न प्राप्तं व्यसनं पुरा'' ।  
 ''अस्मस्समसखीभिस्तु'' ???? ॥ ११४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११४०</summary>
+
+११४०
+Fools laugh so as to be seen by us,
+Not having endured what we have.
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११४०</summary>

@@ -3,6 +3,7 @@ title = "०७ नाणुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०११</summary>
 
 करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्  
@@ -14,6 +15,14 @@ title = "०७ नाणुडैमै"
 अधिकारः १०२. लज्जशीलता  
 अकृत्यकरणोत्पन्नलज्जा लज्जेति कथ्यते ।  
 नारीणां सहजा लज्जा ततो भिन्नैव दृश्यते ॥ १०११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०११</summary>
+
+१०११
+Real shyness is to shy away from shameful acts.
+The rest are like shyness of pretty women.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०११</summary>
@@ -50,6 +59,14 @@ The rest is blush of fair-faced dame.        1011
 सतां लज्जाविशिष्टत्वं विशेषगुण उच्यते ॥ १०१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०१२</summary>
+
+१०१२
+Food, clothing and the rest are common to all.
+Distinction comes from sensitivity to shame. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०१२</summary>
 
 1012 ūṇuṭai eccam uyirkkellām vēṟalla  
@@ -82,6 +99,14 @@ Modesty marks the higher soul.        1012
 
 यथा शरीरमालम्ब्य वर्तन्ते जीवराशयः ।  
 लज्जामाश्रित्य वर्तेत् महत्वाख्यगुणस्तथा ॥ १०१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०१३</summary>
+
+१०१३
+All souls abide in the body
+And the goodness called modesty in perfection.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०१३</summary>
@@ -118,6 +143,14 @@ Perfection has its home in blush.        1013
 गभीरगमनं तेषां लज्जाभावे न शोभते ॥ १०१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०१४</summary>
+
+१०१४
+Is not modesty the jewel of the great,
+And without it a curse for their pride and demeanor? *
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०१४</summary>
 
 1014 aṇiyaṉṟō nāṇuṭaimai cāṉṟōrkku aḵtiṉṟēl  
@@ -150,6 +183,14 @@ Shameless swagger is vanity.        1014
 
 अन्यैः प्राप्तापवादं च स्वेन प्राप्तमभूदिति ।  
 मत्वा यो लज्जते लज्जास्थानं तं मन्यते जनः ॥ १०१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०१५</summary>
+
+१०१५
+To the world, the sense of shame resides in them
+Who blush for their and others’ blame. *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०१५</summary>
@@ -186,6 +227,14 @@ Who blush for their and other's blame.        1015
 विपुलां पृथिवीं चापि लब्धुं नेच्छन्ति सर्वदा ॥ १०१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०१६</summary>
+
+१०१६
+The great would rather defend with modesty's barricade
+Than breach it to acquire the vast world. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०१६</summary>
 
 1016 nāṇvēli koḷḷātu maṉṉō viyaṉñālam  
@@ -218,6 +267,14 @@ Without modesty's hedge and shield.        1016
 
 लज्जायुता नराः प्राणान् लज्जार्थं विसृजन्त्यपि ।  
 प्राणरक्षाकृते लज्जां न मुञ्चन्ति कदापि ते ॥ १०१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०१७</summary>
+
+१०१७
+Men of honour give up life for honour’s sake,
+But never abandon honour to save life. *
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०१७</summary>
@@ -254,6 +311,14 @@ Loss of shame they won't outlive.        1017
 स्वयं न लज्जितो भूयात् तं धर्मो व्रीडया त्यजेत् ॥ १०१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०१८</summary>
+
+१०१८
+Virtue will shy away from one who does not shy away
+From what others shy from. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०१८</summary>
 
 1018 piṟarnāṇat takkatu tāṉnāṇāṉ āyiṉ  
@@ -288,6 +353,14 @@ Who shameless does what others shame.        1018
 कस्यचित् सकलं श्रेयो लज्जाभावो व्यपोहति ॥ १०१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०१९</summary>
+
+१०१९
+Lapse in manners injures the family,
+But every good is lost by lack of shame. *
+( Shuddhananda Bharatiar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०१९</summary>
 
 1019 kulañcuṭum koḷkai piḻaippiṉ nalañcuṭum  
@@ -320,6 +393,14 @@ Want of shame harms every good grace.        1019
 
 लज्जाहीनमनस्कानां प्राणेन सह जीवनम् ।  
 सूत्रबद्धचलद्दारुप्रतिमातौल्यमावहेत् ॥ १०२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०२०</summary>
+
+१०२०
+The moves of those devoid of conscience
+Are like those of puppets moved by a string. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०२०</summary>

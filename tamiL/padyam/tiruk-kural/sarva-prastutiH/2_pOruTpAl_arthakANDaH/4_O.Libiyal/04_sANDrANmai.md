@@ -3,6 +3,7 @@ title = "०४ साण्ड्राण्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९८१</summary>
 
 कडन्ऎन्ब नल्लवै ऎल्लाम् कडन्अऱिन्दु  
@@ -14,6 +15,14 @@ title = "०४ साण्ड्राण्मै"
 अधिकारः ९९. विशिष्टगुणसम्पत्तिः  
 युक्तमेतदिति ज्ञात्वा विशिष्टगुणशालिनाम् ।  
 सहजास्तद्गुणास्तेषां भवेयुरिति शास्त्रिणः ॥ ९८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९८१</summary>
+
+०९८१
+All virtues are said to be natural to those
+Who acquire character as a duty.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९८१</summary>
@@ -50,6 +59,14 @@ Who are dutiful and sublime.        981
 बाह्यं शरीरसौन्दर्यं न सौन्दर्यपदेरितम् ॥ ९८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९८२</summary>
+
+०९८२
+No other goodness than good character
+Is deemed good by the noble.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८२</summary>
 
 982 kuṇanalam cāṉṟōr nalaṉē piṟanalam  
@@ -82,6 +99,14 @@ Than that there is nothing better.        982
 
 उपकारप्रीतिलज्जासत्यदाक्षिण्यमित्यपि ।  
 गुणाः पञ्च स्तम्भरूपाः श्रेष्ठ्यभारसमावहाः ॥ ९८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९८३</summary>
+
+०९८३
+The pillars of excellence are five:
+Love, modesty, altruism, compassion, truthfulness.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९८३</summary>
@@ -118,6 +143,14 @@ These five are virtue's resting place.        983
 परापकारवैमुख्यगुणः श्रेष्ठ्यमुपाश्रयेत् ॥ ९८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९८४</summary>
+
+०९८४
+The characteristic of penance is non-killing,
+And that of goodness not speaking others’ faults.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८४</summary>
 
 984 kollā nalattatu nōṉmai piṟartīmai  
@@ -150,6 +183,14 @@ Not to slander virtue sure.        984
 
 कार्यसिद्धिसमर्थानां सामर्थ्यं विनयो मतः ।  
 शत्रून् स्ववशमानेतुं विनयः कारणं भवेत् ॥ ९८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९८५</summary>
+
+०९८५
+Humility is the strength of the strong and the weapon
+The wise use to conquer their foes.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९८५</summary>
@@ -186,6 +227,14 @@ A force that averts foes at length.        985
 तन्महत्त्वं परिज्ञातुं निकषोपालतां व्रजेत् ॥ ९८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९८६</summary>
+
+०९८६
+The touchstone of goodness is to own
+One's defeat even to inferiors.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८६</summary>
 
 986 cālpiṟkuk kaṭṭaḷai yāteṉiṉ tōlvi  
@@ -218,6 +267,14 @@ Is the touch-stone of worthy men.        986
 
 अपकर्तुर्नरस्यापि साह्यं न क्रियते यदि ।  
 महत्वगुणवत्तपि तदा व्यर्था भवेत् सताम् ॥ ९८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९८७</summary>
+
+०९८७
+What good is that goodness if it does not return good
+Even to those who cause evil? *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९८७</summary>
@@ -254,6 +311,14 @@ If it returns not joy for pain?        987
 लब्धं दारिद्र्यमप्येषां नापकर्षाय जायते ॥ ९८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९८८</summary>
+
+०९८८
+Poverty is no disgrace to one
+Who has the strength called character.
+(P.S. Sundaram), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८८</summary>
 
 988 iṉmai oruvaṟku iḷivaṉṟu cālpeṉṉum  
@@ -288,6 +353,14 @@ To one strong in good quality.        988
 प्राप्ते प्रलयकालेऽपि शौथिल्यं न हि विन्दते ॥ ९८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९८९</summary>
+
+०९८९
+The depth of goodness is said to be the never changing attitude
+In spite of ever changing fortunes.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९८९</summary>
 
 989 ūḻi peyariṉum tāmpeyarār cāṉṟāṇmaikku  
@@ -320,6 +393,14 @@ Who is a sea of virtue pure.        989
 
 महात्मनां महत्वाख्यगुणो यदि लयं व्रजेत् ।  
 सुविशाला मेदिनीयं भारं बोढं न शक्नुयात् ॥ ९९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९९०</summary>
+
+०९९०
+The earth will cease to bear its burden
+If perfect men fall short of perfection.
+(S. Maharajan), (G. Vanmikanathan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९९०</summary>

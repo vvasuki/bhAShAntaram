@@ -3,6 +3,7 @@ title = "०१ इल्वाऴ्क्कै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४१</summary>
 
 इल्वाऴ्वान् ऎन्बान् इयल्बुडैय मूवर्क्कुम्  
@@ -13,6 +14,14 @@ title = "०१ इल्वाऴ्क्कै"
 
 त्रयाणामपि वर्णानां स्वधर्ममनुतिष्ठताम् ।  
 गृहस्थो धर्मनिरतो नित्यं साह्यकरो मत्ः ॥ ४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४१</summary>
+
+००४१
+A householder is a steadfast friend
+To the other three orders in their virtuous paths.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४१</summary>
@@ -56,6 +65,14 @@ Who aids the natural orders there.         41
 गृहस्थोऽन्नादिदानेन स्वाश्रितानपि रक्षति ॥ ४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४२</summary>
+
+००४२
+The householder supports the needs of
+Renunciates, ancestors and the poor.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४२</summary>
 
 42\. Kēļvi
@@ -93,6 +110,14 @@ And celebrate students are his care.         42
 
 पितृदेवातिथीनां च बन्धूनामात्मनस्तथा ।  
 सत्कृतिर्धर्ममागेण्ण गृहस्थस्य वरा मता ॥ ४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४३</summary>
+
+००४३
+A householder's main duty is to serve these five:
+God, guests, kindred, ancestors and himself. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४३</summary>
@@ -134,6 +159,14 @@ God, manes, kin, self and guests are served.         43
 भुञ्जानस्य गृहस्थास्य निर्दुष्टं जीवनं भवेत् ॥ ४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४४</summary>
+
+००४४
+His life and lineage will never end
+who shuns blame and shares his food.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४४</summary>
 
 44\. Kuŗŗam Kaţital
@@ -171,6 +204,14 @@ His home is bright and brighter fares.         44
 
 गार्हस्थ्यजीवनं यत् स्यात् स्नेहधर्मसमन्वितम् ।  
 तदेव सार्थकं लोके तद्धि गार्हस्थ्यमुच्यते ॥ ४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४५</summary>
+
+००४५
+Family life actuated by love and virtue,
+Endows it with character and happiness
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४५</summary>
@@ -212,6 +253,14 @@ Where love with virtue sweetly dwells.         45
 किं वा प्रयोजनं तस्य वानप्रस्थादिना पथा ॥ ४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४६</summary>
+
+००४६
+What gains are there in other paths
+When one leads the virtuous path of householder?
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४६</summary>
 
 46\. Śiŗŗinañ cērāmai
@@ -249,6 +298,14 @@ To be a monk, what profits he?         46
 
 धर्मेण वर्त्मना यस्तु गार्हस्थ्यमुपसेवते ।  
 मार्गन्तरोपजीविभ्यः स प्रशस्तो निगद्यते ॥ ४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४७</summary>
+
+००४७
+Foremost among those who strive for release,
+Are the householders leading a righteous life. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७</summary>
@@ -290,6 +347,14 @@ Is he who leads the married state.         47
 जीवनं च गृगस्थस्य श्लाघ्यते यतिजीवनात् ॥ ४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४८</summary>
+
+००४८
+A virtuous householder endures
+More than the penance of the penance doer. *
+(S.M. Diaz), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४८</summary>
 
 48\. Valiyaŗital
@@ -329,6 +394,14 @@ Make men brighter than monks praying.         48
 गृहस्थधर्म एवात्र धर्मशब्देन कथ्यते ॥ ४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४९</summary>
+
+००४९
+Domestic life is proclaimed virtuous
+And it is praiseworthy if free from blame. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४९</summary>
 
 49\. Kālam Aŗital
@@ -366,6 +439,14 @@ Which spotless monkhood too can claim.         49
 
 धर्ममार्गमनुल्लङ्घय गृहस्थो यदि जीवति ।  
 देववत्पूजितः सोऽत्र देवलोकं ततो व्रजेत् ॥ ५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५०</summary>
+
+००५०
+He who lives his life in this world as he should,
+Ranks with the gods in the heaven.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५०</summary>

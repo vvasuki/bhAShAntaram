@@ -3,6 +3,7 @@ title = "२० कण्णोट् टम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५७१</summary>
 
 कण्णोट्टम् ऎन्नुम् कऴिबॆरुङ् गारिगै  
@@ -13,6 +14,14 @@ title = "२० कण्णोट् टम्"
 
 तदैव भविता लोके प्रजानां सुखजीवनम् ।  
 दाक्षिण्यगुणसम्पूर्तिः यदा स्यात् पृथ्वीपतौ ॥ ५७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५७१</summary>
+
+०५७१
+What truly moves this world
+Is that ravishing beauty called compassion.
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७१</summary>
@@ -49,6 +58,14 @@ The bounteous dame of benign eyes.        571
 यदि जीवन्ति तैर्भूमेः भार एव न संशयः ॥ ५७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५७२</summary>
+
+०५७२
+Compassion sustains the world.
+Without it men are but a burden on earth. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५७२</summary>
 
 572\. kaṇṇōṭṭattu uḷḷatu ulakiyal; aḵtu ilār  
@@ -81,6 +98,14 @@ Who lack them are burdens of earth.        572
 
 साहित्येन विना गानं यथा स्यान्न मनोहरम् ।  
 दाक्षिण्यवर्जितं कुत्स्नं जगत्तद्वन्निरर्थकम् ॥ ५७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५७३</summary>
+
+०५७३
+What use is a rāgā that cannot be sung?
+Or eyes without sympathy?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७३</summary>
@@ -117,6 +142,14 @@ Without gracious looks what are eyes?        573
 ते ह्यलङ्काररूपेण लसतः केवलं मुखे ॥ ५७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५७४</summary>
+
+०५७४
+What use are eyes that look like eyes
+But lack boundless sympathy?
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५७४</summary>
 
 574\. uḷapōl mukattu evaṉ ceyyum-aḷaviṉāl  
@@ -149,6 +182,14 @@ What for are eyes sans measured grace.        574
 
 नेत्रस्यालङ्करणं पुंसां दाक्षिण्यगुण इष्यते ।  
 तद्विहीनं तु नयनं धत्ते व्रणसमानताम् ॥ ५७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५७५</summary>
+
+०५७५
+Compassion is an ornament of the eyes.
+Without it eyes are deemed sores. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७५</summary>
@@ -185,6 +226,14 @@ Without them they are felt as sore.        575
 अचञ्चलमहीरूढतरुरेव स मानवः ॥ ५७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५७६</summary>
+
+०५७६
+Like trees earth-bound which cannot move
+Are eyes unmoved by pity.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५७६</summary>
 
 576\. maṇṇoṭu iyainta marattu aṉaiyar-kaṇṇoṭu  
@@ -217,6 +266,14 @@ Who don't eye to eye kindness show.        576
 
 दाक्षिण्यवर्जिता मर्त्या नेत्रहीना मता भुवि ।  
 केचिन्नयनवन्तोऽपि सन्ति दाक्षिण्यसंयुताः ॥ ५७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५७७</summary>
+
+०५७७
+Men without sympathy have no eyes;
+Nor those who have eyes lack sympathy.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५७७</summary>
@@ -253,6 +310,14 @@ Men of real eyes show benign grace.        577
 पार्थिवस्य वशे कृत्स्नं जगद्वर्तेत सुस्थिरम् ॥ ५७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५७८</summary>
+
+०५७८
+This world is theirs who compassionately perform
+Their duties without fail.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५७८</summary>
 
 578\. karumam citaiyāmal kaṇṇōṭa vallārkku  
@@ -287,6 +352,14 @@ Have right for this earth beautiful.        578
 तद्देषसहनं राज्ञां भवेत् स्वाभाविको गुणः ॥ ५७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५७९</summary>
+
+०५७९
+That quality of forbearance and sympathy is the best,
+Even to those who hurt us.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५७९</summary>
 
 579\. oṟuttāṟṟum paṇpiṉārkaṇṇum, kaṇṇōṭip  
@@ -319,6 +392,14 @@ Who vex us is true virtue's phase.        579
 
 सुहृद्दत्तं विषं चापि पीत्वा प्रत्ययकारणात् ।  
 मैत्रीं च तेन कुर्वन्ति दाक्षिण्यगुणकाङ्क्षिणः ॥ ५८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५८०</summary>
+
+०५८०
+Those desirous of refinement will drink with smile
+Even hemlock when offered. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५८०</summary>

@@ -3,6 +3,7 @@ title = "२१ ऒट्राडल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५८१</summary>
 
 ऒट्रुम् उरैसाण्ड्र नूलुम् इवैयिरण्डुम्  
@@ -14,6 +15,14 @@ title = "२१ ऒट्राडल्"
 अधिकारः ५९. चारप्रेषणम्  
 पार्थिवश्चारपुरुषं नीतिशास्त्रं तथोत्तमम् ।  
 इमे नेत्रसमे कृत्वा पालयेदनिशं भुवि ॥ ५८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५८१</summary>
+
+०५८१
+Spies and classics on statecraft:
+These two are a king's pair of eyes. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५८१</summary>
@@ -50,6 +59,14 @@ The code of laws and careful spies.        581
 बुध्वा शीघ्रं चारमूलाद्रक्षणं राजलक्षणम् ॥ ५८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५८२</summary>
+
+०५८२
+A king's job is to know in time everything
+That happens to everyone every day. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५८२</summary>
 
 582\. ellārkkum ellām nikaḻpavai eññāṉṟum  
@@ -82,6 +99,14 @@ The king should know in full detail.        582
 
 स शत्रुवशमापन्नः पार्थिवः क्षयमाप्नुयात् ।  
 बुध्वापि विषयान् चारौः यः पूर्वं न विचारयेत् ॥ ५८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५८३</summary>
+
+०५८३
+No king has ever succeeded
+Without considering the news of the spies.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५८३</summary>
@@ -118,6 +143,14 @@ Who cares not for the Spy's remark.        583
 विमृश्य राज्ञे विषयदाता चार इति श्रुतः ॥ ५८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५८४</summary>
+
+०५८४
+Employees, kinsmen and enemies
+Are the people a spy should cover.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५८४</summary>
 
 584\. viṉaiceyvār, tam cuṟṟam, vēṇṭātār, eṉṟu āṅku  
@@ -150,6 +183,14 @@ Who watch keenly are worthy spies.        584
 
 परदुर्ज्ञेयविषयान् निर्भीतः शत्रुसन्निधौ ।  
 गूढार्थगोपनपटुः चार इत्यभिधीयते ॥ ५८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५८५</summary>
+
+०५८५
+Able spies are always elusive
+With perfect guise and fearless eyes.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५८५</summary>
@@ -186,6 +227,14 @@ Guarding secrets mark the spies.        585
 ज्ञातोऽपि शत्रुभिर्धीरो यः स्याच्चारः स गण्यते ॥ ५८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५८६</summary>
+
+०५८६
+Disguised as a monk a spy should probe all places
+Unperturbed despite hardships. *
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५८६</summary>
 
 586\. tuṟantār paṭivattar āki iṟantu, ārāyntu,  
@@ -218,6 +267,14 @@ They betray them not under threats.        586
 
 अनेकगुप्तविषयान् बहिरानाय्य मेधया ।  
 ज्ञात्वा यथावद् भूपाय कथनं चारलक्षणम् ॥ ५८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५८७</summary>
+
+०५८७
+A spy should ferret out hidden facts
+And get them verified beyond doubt.
+(Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५८७</summary>
@@ -254,6 +311,14 @@ Beyond a doubt he clears his facts.        587
 एकार्थकं यदि भवेत् गृह्यतां तत् त्यजेतरम् ॥ ५८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५८८</summary>
+
+०५८८
+Even what one spy has spied
+Must be spied through another. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५८८</summary>
 
 588\. oṟṟu oṟṟit tanta poruḷaiyum, maṟṟum ōr  
@@ -288,6 +353,14 @@ By another spy verify.        588
 त्रिभिरुक्तोऽपि विषयः समश्चेद् गृह्यतामयम् ॥ ५८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५८९</summary>
+
+०५८९
+Let not one spy know another.
+And act when three spies agree.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५८९</summary>
 
 589\. oṟṟu oṟṟu uṇarāmai āḷka; uṭaṉ mūvar  
@@ -320,6 +393,14 @@ When three agree confirm report.        589
 
 चाराय देयं सन्मानं राज्ञा गुप्तं न तद् बहिः ।  
 नो चेद् गुप्तार्थविषयः सर्वैश्च विदितो भवेत् ॥ ५९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५९०</summary>
+
+०५९०
+Never honour a spy in public
+Lest your secret should be out.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५९०</summary>

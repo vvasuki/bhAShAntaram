@@ -3,6 +3,7 @@ title = "०७ मन्नरैच् चेर्न्दॊऴुदल्
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६९१</summary>
 
 अगलादु अणुगादु तीक्काय्वार् पोल्ग  
@@ -14,6 +15,14 @@ title = "०७ मन्नरैच् चेर्न्दॊऴुदल्
 अधिकारः ७०. राजसेवा  
 सचिवो नातिदूरे स्यात् राज्ञो नात्यन्तसन्निधौ ।  
 शैत्यबाधानिवृत्त्यर्थं यथाग्निकटं गतः ॥ ६९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६९१</summary>
+
+०६९१
+Courtiers round a king, like men before a fire,
+Should be neither too far nor too near.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६९१</summary>
@@ -47,6 +56,14 @@ Not coming close nor going far.        691
 
 राजवाञ्छितवस्तूनि स्वयं लब्धुमानिच्छते ।  
 मान्त्रिणे पार्थिवो दद्यादखिलं तेन वाञ्छितम् ॥ ६९२॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६९२</summary>
+
+०६९२
+The way to gain gifts from a king
+Is not to covet what he covets.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६९२</summary>
@@ -83,6 +100,14 @@ This brings thee their fruitful favour.        692
 अप्रसन्ने महिपाले न शक्यं तस्य सान्त्वनम् ॥ ६९३॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६९३</summary>
+
+०६९३
+Beware and ward off faults.
+Suspicion once aroused is hard to clear. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६९३</summary>
 
 693\. pōṟṟiṉ ariyavai pōṟṟal-kaṭuttapiṉ,  
@@ -115,6 +140,14 @@ Suspected least, there's no redress.        693
 
 राज्ञि पश्यति चान्येषां श्रोत्रयोर्गुप्तभाषणम् ।  
 सहान्यैर्हास्यवचनं प्रयोक्तव्यं न मन्त्रिणा ॥ ६९४॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६९४</summary>
+
+०६९४
+Whisper not, nor exchange smiles,
+Amidst illustrious august men. *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६९४</summary>
@@ -151,6 +184,14 @@ Amidst august men's assemblage.        694
 प्रश्नं न कुर्यात् किं वेति तेनोक्तं चेत् तदा श‍ृणु ॥ ६९५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६९५</summary>
+
+०६९५
+Don't eavesdrop or pursue a king's secret.
+Rather listen when secrets are revealed. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६९५</summary>
 
 695\. ep poruḷum ōrār, toṭarār, maṟṟu ap poruḷai  
@@ -183,6 +224,14 @@ Hear only when he lets it out.        695
 
 ज्ञात्वेङ्गितं च कालं च भूपतेर्यत्तु वाञ्छितम् ।  
 अनिराकरणीयं तत् मन्त्री बूयान्मनोहरम् ॥ ६९६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६९६</summary>
+
+०६९६
+Know his mood, consider the moment,
+Avoid the unpleasant and speak the needful.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६९६</summary>
@@ -219,6 +268,14 @@ No dislikes but what king likes well.        696
 पृष्टोऽपि व्यर्थवचनं न वदेत् सचिव ः स्वयम् ॥ ६९७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६९७</summary>
+
+०६९७
+Tell the useful and even when asked
+Avoid always the useless.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६९७</summary>
 
 697\. vēṭpaṉa colli, viṉai ila eññāṉṟum  
@@ -251,6 +308,14 @@ Even if pressed what is futile.        697
 
 ''कनिष्ठो वयसा बन्धुभूतोऽय'' मिति भूपतौ ।  
 निर्लक्ष्यभावमुत्सृज्य दीयतां स्थानगौरवम् ॥ ६९८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६९८</summary>
+
+०६९८
+Don't treat him lightly as young or kin
+But act as befits his splendour.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६९८</summary>
@@ -287,6 +352,14 @@ Look with awe king's light and might.        698
 अनिष्टं भूपतेर्नैव कुर्यान्मन्त्री विशुद्धधीः ॥ ६९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६९९</summary>
+
+०६९९
+Those with unwavering vision
+Do not misuse their privileges and do wrong.
+(N.V.K. Ashraf), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६९९</summary>
 
 699\. 'koḷappaṭṭēm' eṉṟu eṇṇi, koḷḷāta ceyyār-  
@@ -319,6 +392,14 @@ Deeming they have the monarch's grace.        699
 
 ''चिरात् परिचितो राजा ममे''ति ममतापरः ।  
 मन्त्री स्वातन्त्र्यमालम्ब्य नानिष्टं कार्यमाचरेत् ॥ ७००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७००</summary>
+
+०७००
+Unworthy acts under the trust of old friendship
+Lead to ruinous woes.
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७००</summary>

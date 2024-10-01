@@ -3,6 +3,7 @@ title = "०९ ती नट्पु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८११</summary>
 
 परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
@@ -14,6 +15,14 @@ title = "०९ ती नट्पु"
 अधिकारः ८२. निर्गुणजनमैत्री  
 दुर्गुणाः प्रीतिसम्पन्ना इव कुर्युश्च मित्रताम् ।  
 त्यागो दुर्गुणमैत्र्यास्तु वरः स्यात् तस्य वर्धनात् ॥ ८११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८११</summary>
+
+०८११
+The hypocrite's flattering friendship pleases more
+As it wanes than as it grows. *
+(K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८११</summary>
@@ -50,6 +59,14 @@ Had better wane than wax anon.        811
 असमथस्य सौहार्दं सर्वदा निष्प्रयोजनम् ॥ ८१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८१२</summary>
+
+०८१२
+What matters if one gain or lose that unsettling friendship
+Which sticks and ends at will?
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१२</summary>
 
 812 uṟiṉnaṭṭu aṟiṉorūum oppilār kēṇmai  
@@ -82,6 +99,14 @@ Gain or lose; such friends have no worth.        812
 
 धनैकलक्ष्या गणिकाः तस्कराः परवञ्चकाः ।  
 लाभौकलक्ष्याः स्निग्धाश्च त्रयस्तुल्यगुणान्विताः ॥ ८१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८१३</summary>
+
+०८१३
+Those who weigh friendship for gain
+Are no different from whores and frauds.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८१३</summary>
@@ -118,6 +143,14 @@ Are like thieves and whores wicked.        813
 सुहृत् साहयं न कुर्याच्चेत् ऐकान्त्यं वरमिष्यते ॥ ८१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८१४</summary>
+
+०८१४
+Better to be alone than befriend those,
+Who, like a broken horse, throw you down.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१४</summary>
 
 814 amarakattu āṟṟaṟukkum kallāmā aṉṉār  
@@ -150,6 +183,14 @@ That throw in field like faithless horse.        814
 
 अप्रयोजकरा नीचजनमैत्री विगर्हिता ।  
 तादृशस्नेहकरणात् स्नेहभावो वरः किल ॥ ८१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८१५</summary>
+
+०८१५
+Better to forfeit than seek the friendship of the base
+Who betray at need. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८१५</summary>
@@ -186,6 +227,14 @@ Leave them is better than to keep.        815
 विरोधः कोटिसङ्ख्याकलाभं नूनं प्रयच्छति ॥ ८१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८१६</summary>
+
+०८१६
+A wise man's enmity is a million of times better
+Than a fool's fast friendship. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१६</summary>
 
 816 pētai peruṅkeḻīi naṭpiṉ aṟivuṭaiyār  
@@ -218,6 +267,14 @@ Is better than a fool intimate.        816
 
 वहिर्हास्यपरैः साकं मैत्र्यां यज्जायते सुखम् ।  
 रिपुमूलसुखं तस्मात् दशकोटिगुणाधिकम् ॥ ८१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८१७</summary>
+
+०८१७
+Ten million times better the enmity of foes
+Than the friendship of jesters and fools. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८१७</summary>
@@ -254,6 +311,14 @@ Than from friends who are vain laughers.        817
 तेन साकं स्थितां मैत्रीमनुत्तवैव परित्यज ॥ ८१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८१८</summary>
+
+०८१८
+Drop silently the friends who pose
+And won't help when they can.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१८</summary>
 
 818 olluṅ karumam uṭaṟṟu pavarkēṇmai  
@@ -288,6 +353,14 @@ Who spoil deeds which they can do.        818
 मैत्री कृता तु स्वप्नेऽपि व्यसनं जनयिष्यति ॥ ८१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८१९</summary>
+
+०८१९
+Friends whose words differ from their deeds
+Distress even in dreams.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८१९</summary>
 
 819 kaṉaviṉum iṉṉātu maṉṉō viṉaivēṟu  
@@ -320,6 +393,14 @@ With those whose deed is far from word.        819
 
 गेहे रहसि संस्तुत्य सभायां जनमण्डले ।  
 मैत्री निन्दयता साकं सर्वथा न विधीयताम् ॥ ८२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८२०</summary>
+
+०८२०
+Keep them far off who are friends at home
+And foes in public.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८२०</summary>

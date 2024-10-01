@@ -3,6 +3,7 @@ title = "१६ पुलवि"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १३०१</summary>
 
 पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
@@ -13,6 +14,14 @@ title = "१६ पुलवि"
 
 वियुक्तकामुकप्राप्तदुःखं द्रष्टुमहं वृणम् ।  
 तस्मात् तमपरिष्वज्य वियुक्ता भव मत्प्रिये ! ॥ १३०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३०१</summary>
+
+१३०१
+Let me feign to be angry
+And see his pain of suffering for a while.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३०१</summary>
@@ -49,6 +58,14 @@ We can see his distress a bit.        1301
 मितो वियोगः स्वाद्यः स्यात् मितं च लवणं यथा ॥ १३०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३०२</summary>
+
+१३०२
+Sulking is the salt of love. To prolong it
+Is like salt a little too much. *
+( Shuddhananda Bharatiar), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३०२</summary>
 
 1302 uppamain taṟṟāl pulavi atuciṟitu  
@@ -81,6 +98,14 @@ Too much of it spoils the taste.        1302
 
 वियोगदुःखादुन्मोच्य यः स्त्रियं न परिष्वजेत् ।  
 दुःखितस्य पुनर्दुःखदात्रा तुल्पो भवेदयम् ॥ १३०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३०३</summary>
+
+१३०३
+To leave a sulky woman alone
+Is to cause more pain to the suffering.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३०३</summary>
@@ -117,6 +142,14 @@ Is to grieve the one sorely grieved.        1303
 स्वतो म्लानलतायास्तन्मूलविच्छेदवद्भवेत् ॥ १३०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३०४</summary>
+
+१३०४
+To ignore a lady in pout is to cut
+An already withering climber at its root. *
+( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३०४</summary>
 
 1304 ūṭi yavarai uṇarāmai vāṭiya  
@@ -149,6 +182,14 @@ Is to cut the fading plant at root.        1304
 
 गुणशीलनराणां तु तद्धि लावण्यमुच्यते ।  
 कुसुमाक्ष्यङ्गनाचित्ते या विश्लेषविशेषता ॥ १३०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३०५</summary>
+
+१३०५
+The beauty of her feigned anger has an attraction
+Even for the spotlessly pure men.
+(N.V.K. Ashraf), (V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३०५</summary>
@@ -185,6 +226,14 @@ To pure good mates a lovely grace.        1305
 अतिपक्कापक्वफले दृश्येते विरसे यथा ॥ १३०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३०६</summary>
+
+१३०६
+Without frowns and sulking,
+Love is like a fruit unripe or overripe. *
+(K. Kannan), (J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३०६</summary>
 
 1306 tuṉiyum pulaviyum illāyiṉ kāmam  
@@ -217,6 +266,14 @@ Misses its ripe and unripe fruits.        1306
 
 किं सङ्गमसुख पश्चात् स्यान्न वेति विचिन्तनात् ।  
 सुखमूलवियोगेऽपि दुःखमेकं प्रदृश्यते ॥ १३०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३०७</summary>
+
+१३०७
+Coyness has this one drawback.
+That is the worry of delayed union. *
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३०७</summary>
@@ -253,6 +310,14 @@ In lover's pout this leaves a doubt.        1307
 न खिद्येत्तादृशस्त्रीणां निन्दया किं प्रयोजनम् ॥ १३०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३०८</summary>
+
+१३०८
+Why grieve when the lover is not there
+To know whether you are grieving? *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३०८</summary>
 
 1308 nōtal evaṉmaṟṟu nontāreṉṟu aḵtaṟiyum  
@@ -287,6 +352,14 @@ When concious lover is not present?        1308
 प्रेमपूर्णनरैः साकं विप्रलम्भो रसप्रदः ॥ १३०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १३०९</summary>
+
+१३०९
+Just as the refreshing water in the shade,
+Pouting has its charms only between lovers. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १३०९</summary>
 
 1309 nīrum niḻalatu iṉitē pulaviyum  
@@ -319,6 +392,14 @@ And sulking in souls of psychic love.        1309
 
 वियोगेन कृशां नारीं यो निराकुरुते प्रियः ।  
 तेनापि सङ्गं चित्तमाशया वाञ्छति ध्रुवम् ॥ १३१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३१०</summary>
+
+१३१०
+Only my desire makes my heart pine for union
+With one who keeps on sulking.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३१०</summary>

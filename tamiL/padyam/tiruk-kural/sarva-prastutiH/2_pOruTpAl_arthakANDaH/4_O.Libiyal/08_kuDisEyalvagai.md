@@ -3,6 +3,7 @@ title = "०८ कुडिसॆयल्वगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०२१</summary>
 
 करुमम् सॆयऒरुवन् कैदूवेन् ऎन्नुम्  
@@ -14,6 +15,14 @@ title = "०८ कुडिसॆयल्वगै"
 अधिकारः १०३. कुलगौरवक्षणम्  
 ''कुलगौरवनिर्माणकृत्याद्भ्रष्टो न चास्म्यहम्'' ।  
 इत्येवं कथनादन्यन्महत्त्वं नास्ति कस्यचित् ॥ १०२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०२१</summary>
+
+१०२१
+There is nothing more glorious than to persist
+In the advance of the community.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०२१</summary>
@@ -50,6 +59,14 @@ Saying "I shall work without slack".        1021
 कर्मणा कस्यचिद्वंशगौरवं बहु वर्धते ॥ १०२२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०२२</summary>
+
+१०२२
+Manly exertion and sound knowledge:
+A community progresses with these two. *
+(V.V.S. Aiyar), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२२</summary>
 
 1022 āḷviṉaiyum āṉṟa aṟivum eṉa_iraṇṭiṉ  
@@ -82,6 +99,14 @@ Ardent effort and ripe wisdom.        1022
 
 वंशौन्नत्यकरे कार्ये सदा प्रयततां नृणाम् ।  
 बद्ध्वा वस्त्रं दृढं कटतां साह्यं कुर्याद्विधिः स्वयम् ॥ १०२३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०२३</summary>
+
+१०२३
+The Lord himself will wrap his robes
+And lead the one bent on social service. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०२३</summary>
@@ -118,6 +143,14 @@ Loin girt up God leads his ways.        1023
 विमर्शमन्तरा कार्यं निर्विघ्नं सेत्स्यति क्षणे ॥ १०२४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०२४</summary>
+
+१०२४
+Success will come by itself to the one
+Who tirelessly strives for his society.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२४</summary>
 
 1024 cūḻāmal tāṉē muṭiveytum taṅkuṭiyait  
@@ -150,6 +183,14 @@ No need for plan; their ends will gain.        1024
 
 वंशप्रभावं संरक्ष्य जीवता शास्त्रवर्त्मनि ।  
 तेन बान्धव्यमिच्छंस्तु लोकस्तमनुवर्तते ॥ १०२५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०२५</summary>
+
+१०२५
+The world will flock round the one
+Leading a blameless life doing social service. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०२५</summary>
@@ -186,6 +227,14 @@ People around, his kinship claim.        1025
 तात्त्विकं पौरुषं ताद्धि पुरुषाणां प्रशस्यते ॥ १०२६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०२६</summary>
+
+१०२६
+True valour lies in raising the community
+One is born into. *
+(C. Rajagopalachari), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२६</summary>
 
 1026 nallāṇmai eṉpatu oruvaṟkut tāṉpiṟanta  
@@ -218,6 +267,14 @@ Are deemed as men of manly worth.        1026
 
 धीरो वहेद्युद्धभारं यथा बहुषु सत्स्वापि ।  
 शक्तस्तथा वहेद्वंशभारमन्येषु सत्स्वापि ॥ १०२७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०२७</summary>
+
+१०२७
+As in the battlefield, the burden of social work
+Also falls on the capable. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०२७</summary>
@@ -254,6 +311,14 @@ The home-burden rests on the bold.        1027
 आलस्यात् कालकाङ्क्षायां हीयते कुलगौरवम् ॥ १०२८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०२८</summary>
+
+१०२८
+There is no set time for social service.
+To put off is to ruin repute. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२८</summary>
 
 1028 kuṭiceyvārkku illai paruvam maṭiceytu  
@@ -288,6 +353,14 @@ Sloth and pride will honour efface.        1028
 शरीरं कस्यचित्किन्नु दुःखमात्रैकभाजनम् ॥ १०२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०२९</summary>
+
+१०२९
+Is the body that protects one’s family against hurdles
+A receptacle for hardships alone? *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०२९</summary>
 
 1029 iṭumpaikkē koḷkalam kollō kuṭumpattaik  
@@ -320,6 +393,14 @@ Who from mishaps shields his house?        1029
 
 ???? ।  
 यस्मिन कुले भाविदुःखकुठाराभिहतः पतेत् ॥ १०३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०३०</summary>
+
+१०३०
+Society will crash axed by misfortune
+Without good men to support it.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०३०</summary>

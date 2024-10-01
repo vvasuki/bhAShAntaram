@@ -3,6 +3,7 @@ title = "१९ वरैविन्मगळिर्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९११</summary>
 
 अन्बिन् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्  
@@ -14,6 +15,14 @@ title = "१९ वरैविन्मगळिर्"
 अधिकारः ९२. पण्याङ्गना  
 हार्दप्रेम विना वित्तहेतोः प्रीतिं करोति या ।  
 दास्यास्तस्या रम्यवाक्यं दद्याद् व्यसनमन्ततः ॥ ९११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९११</summary>
+
+०९११
+Fraught with disgrace are the sweet words
+Of jeweled women who desire wealth, not love. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९११</summary>
@@ -50,6 +59,14 @@ Men are ruined by bangled belles.        911
 स्नेहं निर्गुणदसीनां विमृश्य विसृजेन्नरः ॥ ९१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९१२</summary>
+
+०९१२
+See through and avoid the immoral women
+Who talk of morals with a purpose.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९१२</summary>
 
 912 payaṉtūkkip paṇpuraikkum paṇpuil makaḷir  
@@ -82,6 +99,14 @@ Love only for their selfish gain.        912
 
 पण्यस्त्रीणामर्थहेतोः कृत्रिमालिङ्गनं तु यत् ।  
 तमोवृतस्थले नूत्नप्रेतालिङ्गनवद्भवेत् ॥ ९१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९१३</summary>
+
+०९१३
+A harlot’s false embrace for money is like one hired
+To clasp an alien corpse in a dark room. *
+(P.S. Sundaram), (G. Vanmikanathan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९१३</summary>
@@ -118,6 +143,14 @@ That of a damned corpse in the dark.        913
 नाद्रियन्ते धर्ममार्गविमर्शनपरा बुधाः ॥ ९१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९१४</summary>
+
+०९१४
+The wise who treasure grace desire not the false charms
+Of those who treasure wealth. *
+(W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९१४</summary>
 
 914 poruṭporuḷār puṉṉalam tōyā aruṭporuḷ  
@@ -150,6 +183,14 @@ Look not for harlots' low embrace.        914
 
 स्वभावज्ञानसहिताः शास्त्रज्ञानेन चान्विताः ।  
 सर्वस्वाम्याङ्गनाभोगं कृत्रिमं न हि वृण्वते ॥ ९१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९१५</summary>
+
+०९१५
+Sensible men of lofty wisdom will find no joy
+In the cheap delight of public women. *
+(P.S. Sundaram), (G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९१५</summary>
@@ -186,6 +227,14 @@ The open charms of a vile harlot.        915
 भुजौ रूपमदान्धानां न स्पृशेयुर्गुणैषिणः ॥ ९१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९१६</summary>
+
+०९१६
+Those who would spread their own good will not touch
+Others who spread their charms for money. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९१६</summary>
 
 916 tannalam pārippār tōyār takaicerukkip  
@@ -218,6 +267,14 @@ Shun the wanton's vaunting charm.        916
 
 कृत्वाऽन्यं हृदि कायेन यच्छन्तीनां स्वसङ्गमम् ।  
 वारस्त्रीणां भुजौ चित्तदार्ढ्यहीनाः स्पृशन्त्यहो ॥ ९१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९१७</summary>
+
+०९१७
+The empty-hearted alone will embrace
+The hearts that go not with their bodies.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९१७</summary>
@@ -254,6 +311,14 @@ The arms of whores with hearts elsewere.        917
 नृणा विवेकशून्यानां भूतं प्राणहरं भवेत् ॥ ९१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९१८</summary>
+
+०९१८
+Only those who can’t see through a false woman’s embrace
+Consider her to be an angel. *
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९१८</summary>
 
 918 āyum aṟiviṉar allārkku aṇaṅkeṉpa  
@@ -288,6 +353,14 @@ By arms of sirens who lead astray.        918
 मूढाधमजनप्राप्यनिरयेन समो भवेत् ॥ ९१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९१९</summary>
+
+०९१९
+The soft arms of those who sell their charm
+Are a hell that plunge the base. *
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९१९</summary>
 
 919 varaivilā māṇiḻaiyār meṉtōḷ puraiyilāp  
@@ -320,6 +393,14 @@ Into which the degraded fall.        919
 
 द्विमनस्का वारनारी द्यूतो मद्यं मदप्रदम् ।  
 त्रिभिरेतैर्युतं मर्त्य विमुञ्चेत् पद्मसम्भवा ॥ ९२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९२०</summary>
+
+०९२०
+Fortune leaves those whose associates are
+Treacherous women, wine and dice. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९२०</summary>

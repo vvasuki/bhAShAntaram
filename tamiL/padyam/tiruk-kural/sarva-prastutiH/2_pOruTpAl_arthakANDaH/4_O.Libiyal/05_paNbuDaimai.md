@@ -3,6 +3,7 @@ title = "०५ पण्बुडैमै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९९१</summary>
 
 ऎण्बदत्ताल् ऎय्दल् ऎळिदॆन्ब यार्माट्टुम्  
@@ -14,6 +15,14 @@ title = "०५ पण्बुडैमै"
 अधिकारः १००. अनुसृत्य प्रवर्तनम्  
 सौलभ्येन समैः साकमनुसृत्य प्रवर्तनात् ।  
 विशिष्टगुणसंप्राप्तिः सुलभेति सतां मतम् ॥ ९९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९९१</summary>
+
+०९९१
+The demeanor called courtesy, they say,
+Comes easily to those easily accessible to all.
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९९१</summary>
@@ -50,6 +59,14 @@ Easily comes courteousness.        991
 द्वयमेतन्महत्वाख्यगुणं यच्छति कस्यचित् ॥ ९९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९९२</summary>
+
+०९९२
+Kindness and exalted birth: these two
+Constitute the demeanor called courtesy.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९२</summary>
 
 992 aṉpuṭaimai āṉṟa kuṭippiṟattal ivviraṇṭum  
@@ -82,6 +99,14 @@ Develop courtesy and moral worth.        992
 
 जनैः साकं देशसाम्यान्न भेदनुवर्तनम् ।  
 गुणेन साम्यमेभिस्तु भवेच्छन्दानुवर्तनम् ॥ ९९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९९३</summary>
+
+०९९३
+What binds humanity together is not physical proximity,
+But that binding of courteousness.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९९३</summary>
@@ -118,6 +143,14 @@ It's likeness in kind courteousness.        993
 महात्मनां गुणं लोकाः प्रशंसन्ति मदान्विताः ॥ ९९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९९४</summary>
+
+०९९४
+The world applauds the conduct of those
+Who help with impartiality and generosity. *
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९४</summary>
 
 994 nayaṉoṭu naṉṟi purinta payaṉuṭaiyār  
@@ -150,6 +183,14 @@ Whose actions are just and benign.        994
 
 परिहासेऽप्यन्यनिन्दाकरणं दुःखमावहेत् ।  
 परानुसरणादज्ञा भवन्ति सुगुणान्विताः ॥ ९९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९९५</summary>
+
+०९९५
+Mockery hurts even in jest, and hence the considerate
+Are courteous even to their foes. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९९५</summary>
@@ -186,6 +227,14 @@ For contempt offends even in jest.        995
 तदभावे प्रपञ्चोऽयं भुवि मग्नो भवेत् किल ॥ ९९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९९६</summary>
+
+०९९६
+The world goes on because of civilized men.
+Without them it would collapse into dust. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९६</summary>
 
 996 paṇpuṭaiyārp paṭṭuṇṭu ulakam atuiṉṟēl  
@@ -218,6 +267,14 @@ Or it crumbles and falls to dust.        996
 
 सज्जनार्हगुणैर्हीनाः तीक्ष्णासिसमशेमुषीम् ।  
 लब्ध्वापि पादपसमा मन्यन्ते मानवैः समैः ॥ ९९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९९७</summary>
+
+०९९७
+Men without character, despite their sharp minds,
+Are no better than blocks of wood.
+(N.V.K. Ashraf), (S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९९७</summary>
@@ -254,6 +311,14 @@ Are like wooden blocks indocile.        997
 गुणवान्न प्रवर्तेत् दोषयुक्तः स गण्यते ॥ ९९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९९८</summary>
+
+०९९८
+It is disgraceful to be discourteous,
+Even towards the unfriendly who treat you unjustly.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९८</summary>
 
 998 naṇpāṟṟār āki nayamila ceyvārkkum  
@@ -288,6 +353,14 @@ E'en to a base unfriendly breed.        998
 दिवसोऽपि प्रभायुक्तो दृश्येत् तमसावृतः ॥ ९९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९९९</summary>
+
+०९९९
+To those who cannot laugh,
+This big world is all darkness even during the day.
+(C. Rajagopalachari)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९९९</summary>
 
 999 nakalvallar allārkku māyiru ñālam  
@@ -320,6 +393,14 @@ Even in day the earth is night.        999
 
 निर्गुणेनार्जितं वित्तं नोपयोगकरं भवेत् ।  
 यथा स्यात् पात्रदोषेण पयो माधुर्यवर्जितः ॥ १०००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०००</summary>
+
+१०००
+The great wealth kept by the uncultured
+Is clean milk gone sour in a can unclean.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०००</summary>

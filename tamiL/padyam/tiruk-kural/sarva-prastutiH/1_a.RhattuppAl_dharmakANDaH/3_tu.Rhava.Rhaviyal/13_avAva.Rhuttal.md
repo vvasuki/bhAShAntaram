@@ -3,6 +3,7 @@ title = "१३ अवावऱुत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ३६१</summary>
 
 अवाऎन्ब ऎल्ला उयिर्क्कुम् ऎञ् ञाण्ड्रुम्  
@@ -13,6 +14,14 @@ title = "१३ अवावऱुत्तल्"
 
 अनुस्यूतं प्रवृत्तस्य सर्वदा सर्वजन्तुषु ।  
 संसारमय दुःखस्य बीजमाशेत्युदीर्यते ॥ ३६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३६१</summary>
+
+०३६१
+Desire, they say, is the seed of ceaseless birth
+For all things living at all times.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३६१</summary>
@@ -49,6 +58,14 @@ From which ceaseless births proceed.        361
 तदपि प्राप्यते सर्व वस्तुनैराश्य बुद्धितः ॥ ३६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३६२</summary>
+
+०३६२
+Must you desire, desire freedom from birth.
+That comes only by desiring desirelessness.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३६२</summary>
 
 362\. vēṇṭuṅkāl, vēṇṭum piṟavāmai; maṟṟu atu  
@@ -81,6 +98,14 @@ It comes by longing no more for earth.        362
 
 निराशासदृशं श्रेष्ठं वित्तं नास्रि जगत्तले ।  
 लोकान्तरेऽपि तत्तुल्यं वस्तु लब्धुं न शक्र्यते ॥ ३६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३६३</summary>
+
+०३६३
+No greater fortune here than not to yearn, 
+And none to excel it hereafter too!
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३६३</summary>
@@ -117,6 +142,14 @@ As peerless wealth of non-desire.        363
 अवस्था सापि तत्त्वस्य ब्रह्मणो भजनाद्भवेत् ॥ ३६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३६४</summary>
+
+०३६४
+Purity is freedom from yearning
+And that comes of seeking Truth. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३६४</summary>
 
 364\. tūuymai eṉpatu avā iṉmai; maṟṟu atu  
@@ -149,6 +182,14 @@ That is the fruit of verity.        364
 
 ते जन्मरहिता ज्ञेया ये निराशास्तु सर्वतः ।  
 आशायुतानां निःशेषं बन्धमुक्तिर्न जायते ॥ ३६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३६५</summary>
+
+०३६५
+Those are free who are free of yearning.
+Others, of all else free, remain un-free. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३६५</summary>
@@ -185,6 +226,14 @@ The rest not free in bonds are caught.        365
 निराशारक्षणं तस्माच्छ्रेष्ठो धर्मः प्रगीयते ॥ ३६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३६६</summary>
+
+०३६६
+If you love virtue, flee from desire;
+For desire is a great betrayer.
+(V.V.S. Aiyar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३६६</summary>
 
 366\. añcuvatu ōrum aṟaṉē; oruvaṉai  
@@ -217,6 +266,14 @@ To every soul desire is snare!        366
 
 सर्वशाविजये प्राप्ते कायशोषण मन्तरा ।  
 लभ्यते जन्मराहित्यं सर्वो धर्मः कृतो भवेत् ॥ ३६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३६७</summary>
+
+०३६७
+When all deeds of desire are uprooted,
+Liberation comes as and when desired.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३६७</summary>
@@ -253,6 +310,14 @@ Comes as much as you aspire hence.        367
 उपर्युपरि दुःखानि समयान्ति निरर्गेलम् ॥ ३६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३६८</summary>
+
+०३६८
+Where there is no desire, there is no sorrow.
+Where there is, it comes over and above.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३६८</summary>
 
 368\. avā illārkku illākum tuṉpam; aḵtu uṇṭēl,  
@@ -287,6 +352,14 @@ Grief comes on grief where it pretends.        368
 न परं ब्रह्मणो लोके, सुखमत्रापि शाश्वतम् ॥ ३६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३६९</summary>
+
+०३६९
+When the misery of miseries called desire ends,
+The result is never-ending joy.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३६९</summary>
 
 369\. iṉpam iṭaiyaṟātu, īṇṭum-avā eṉṉum  
@@ -319,6 +392,14 @@ Joy of joys here you enjoy.        369
 
 सदा दवीयसीमाशां यो वै जयति सर्वदा ।  
 निर्विकारां तथा नित्यं मुक्तिं सद्यः स विन्दति ॥ ३७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३७०</summary>
+
+०३७०
+The state of eternal bliss will result
+When desire that is insatiable is conquered.
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३७०</summary>

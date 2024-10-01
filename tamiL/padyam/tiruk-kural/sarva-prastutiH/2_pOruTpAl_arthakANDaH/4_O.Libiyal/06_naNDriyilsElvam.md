@@ -3,6 +3,7 @@ title = "०६ नण्ड्रियिल्सॆल्वम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १००१</summary>
 
 वैत्तान्वाय् साण्ड्र पॆरुम्बॊरुळ् अह्दुण्णान्  
@@ -14,6 +15,14 @@ title = "०६ नण्ड्रियिल्सॆल्वम्"
 अधिकारः १०१. निरर्थकं वित्तम्  
 अभुक्त्वा स्वार्जितं वित्तं गृहपूर्णं सुपुष्कलम् ।  
 मृतिं प्राप्तवतस्तस्य किं वित्तेन प्रयोजनम् ॥ १००१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १००१</summary>
+
+१००१
+A miser makes of his pile of vast wealth,
+No more use than a corpse. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १००१</summary>
@@ -50,6 +59,14 @@ Unenjoyed, it is futile.        1001
 यो न दद्याद् ज्ञानशून्यः स नीचं जन्म विन्दते ॥ १००२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १००२</summary>
+
+१००२
+Believing wealth is everything, yet giving nothing,
+The miser is ensnared in the misery of birth. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १००२</summary>
 
 1002 poruḷāṉām ellāmeṉṟu īyātu ivaṟum  
@@ -82,6 +99,14 @@ He hoards, gives not is born devil.        1002
 
 धनार्जनैकलक्ष्या ये कृत्वा दानादिसत्क्रियाम् ।  
 नार्जयन्ति परां कीर्तिं भारायन्ते भुवस्तु ते ॥ १००३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १००३</summary>
+
+१००३
+Their very sight is a burden to earth
+Who hoard wealth and not renown. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १००३</summary>
@@ -118,6 +143,14 @@ Who hoards without a worthy deed.        1003
 किं वावशिष्यते तस्य मरणानन्तरं भुवि ॥ १००४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १००४</summary>
+
+१००४
+What legacy can one, who is loved by none,
+Think of leaving behind?
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १००४</summary>
 
 1004 eccameṉṟu eṉeṇṇum kollō oruvarāl  
@@ -150,6 +183,14 @@ Who is for approach too unkind.        1004
 
 दानं परेभ्यः स्वेनापि भोगश्चेत्युभयं नृणाम् ।  
 यदि न स्यात् कोटिसङ्ख्यधनपुञ्जेन किं फलम् ॥ १००५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १००५</summary>
+
+१००५
+Wealth, though millions manifold, amounts to nothing
+If one neither gives nor enjoys it.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १००५</summary>
@@ -186,6 +227,14 @@ To give and enjoy whose heart is hard.        1005
 स्वयं भोक्तुमनिच्छंश्च रोगः स्यात् स्वीयसम्पदाम् ॥ १००६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १००६</summary>
+
+१००६
+Riches are a curse when neither enjoyed,
+Nor given to the worthy.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १००६</summary>
 
 1006 ētam peruñcelvam tāṉtuvvāṉ takkārkkuoṉṟu  
@@ -218,6 +267,14 @@ To worthy men is but a slur.        1006
 
 अदत्वैव दरिद्रेभ्यो रक्षितं केनचिद्धनम् ।  
 अनूढसुन्दरीप्राप्तवार्धकेन समं भवेत् ॥ १००७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १००७</summary>
+
+१००७
+Wealth not given to the needy goes waste
+Like a lovely spinster growing old. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १००७</summary>
@@ -254,6 +311,14 @@ Is like a spinster-belle grown old.        1007
 ग्राममध्ये फलैः पूर्णो यथैव विषपादपः ॥ १००८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १००८</summary>
+
+१००८
+The wealth of the unloved is like a poisonous tree
+That ripens in the heart of a village.*
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १००८</summary>
 
 1008 naccap paṭātavaṉ celvam naṭuvūruḷ  
@@ -288,6 +353,14 @@ Is poison-fruit-tree amidst a town.        1008
 रक्षितं केनचिद्वित्तं लब्ध्वान्यः सुखमाप्नुयात् ॥ १००९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १००९</summary>
+
+१००९
+Strangers shall possess that wealth
+Amassed without love, comfort or scruples.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १००९</summary>
 
 1009 aṉporīit taṉceṟṟu aṟamnōkkātu īṭṭiya  
@@ -320,6 +393,14 @@ In loveless, stingy, vicious hold.        1009
 
 वृष्टमेघः पुनर्नीरलाभाद् वृद्धिं यथाश्नुते ।  
 समृद्धनां च दारिद्र्य तथा तात्कालिकं भवेत् ॥ १०१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०१०</summary>
+
+१०१०
+The brief want of the benign rich
+Is like the monsoon clouds just shed its moisture.
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०१०</summary>

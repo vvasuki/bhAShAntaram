@@ -3,6 +3,7 @@ title = "०३ पॊरुळ्सॆयल्वगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७५१</summary>
 
 पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्  
@@ -14,6 +15,14 @@ title = "०३ पॊरुळ्सॆयल्वगै"
 अधिकारः ७६. अर्थर्जनोपायः  
 अनर्हानप्यर्हतमान् कर्तुं येन धनेने तु ।  
 शक्यते तादृहाद्चित्तात्, अन्यत् किं सार्थकं भवेत् ॥ ७५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७५१</summary>
+
+०७५१
+There is nothing like wealth
+To make the worthless worthy.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७५१</summary>
@@ -50,6 +59,14 @@ Make the worthless as men of worth.        751
 निर्गुणं चाप्यर्थवन्तं मानयन्ति जनाः सदा ॥ ७५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७५२</summary>
+
+०७५२
+Everyone despises the poor
+While the rich are exalted by all.
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७५२</summary>
 
 752\. illārai ellārum eḷḷuvar; celvarai  
@@ -82,6 +99,14 @@ The men of wealth all raise and praise.        752
 
 अशाम्यो धनदीपोऽयं गत्वा सर्वत्र सर्वदा ।  
 स्वाश्रितानां विरोधाख्यमन्धकारं विनाशयेत् ॥ ७५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७५३</summary>
+
+०७५३
+The unfailing light called wealth can dispel darkness
+Even in far reaching lands.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७५३</summary>
@@ -118,6 +143,14 @@ To every land and gloom removes.        753
 तत्तस्य धर्मं कामं च प्रददाति न संशयः ॥ ७५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७५४</summary>
+
+०७५४
+Wealth acquired sinless and well,
+Yields both virtue and happiness.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७५४</summary>
 
 754\. aṟaṉ īṉum; iṉpamum īṉum;-tiṟaṉ aṟintu,  
@@ -150,6 +183,14 @@ Brings good virtue and also bliss.        754
 
 दयाप्रीती परित्यज्य क्रियमाणं धनार्जनम् ।  
 नैवानन्दकरं भूयादिति मत्वा परित्यजेत् ॥ ७५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७५५</summary>
+
+०७५५
+Discard and let go the wealth
+Obtained without love and grace.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७५५</summary>
@@ -186,6 +227,14 @@ Off with it; it is disgrace!        755
 जितारिसविधावाप्तकरो राज्ञां धनं भवेत् ॥ ७५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७५६</summary>
+
+०७५६
+Unclaimed wealth, spoils of war and wealth from taxes
+Are all rulers' wealth. *
+(W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७५६</summary>
 
 756\. uṟu poruḷum, ulku poruḷum, taṉ oṉṉārt  
@@ -218,6 +267,14 @@ Taxes duties are king's treasure.        756
 
 आकिश्चने जायमानं दयारूपं शिशुं स्वयम् ।  
 धनरूपोपमाता तु वर्घयेत् पोषयेदपि ॥ ७५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७५७</summary>
+
+०७५७
+The offspring of love 'graciousness' is nursed
+By that generous foster-mother 'wealth'.
+(J. Narayanaswamy), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७५७</summary>
@@ -254,6 +311,14 @@ By the wet-nurse of wealth cherished.        757
 गजयुद्धं नगारूढो यथा निर्मयमीक्षते ॥ ७५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७५८</summary>
+
+०७५८
+A wealthy man's undertakings
+Are like elephant-fights witnessed from a hill.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७५८</summary>
 
 758\. kuṉṟu ēṟi, yāṉaip pōr kaṇṭaṟṟāl-taṉ kaittu oṉṟu  
@@ -288,6 +353,14 @@ Like hill-tuskers the wars of kings.        758
 द्र्ष्टुं न शक्यते लोके तस्माद्धनमुपार्जय ॥ ७५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७५९</summary>
+
+०७५९
+Stock wealth: no steel sharper than that
+To cut down your foe's pride.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७५९</summary>
 
 759\. ceyka poruḷai! ceṟunar cerukku aṟukkum  
@@ -320,6 +393,14 @@ The insolence of foes to quell.        759
 
 सम्पाद्य पुष्कलं वित्तं धर्ममार्गेण तिष्ठतः ।  
 अर्थकामौ स्वतस्तस्य सिद्धयतः पृथिवीतले ॥ ७६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७६०</summary>
+
+०७६०
+He who makes glorious wealth in plenty,
+Gains the other two treasures together. *
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७६०</summary>

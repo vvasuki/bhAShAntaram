@@ -3,6 +3,7 @@ title = "०६ तूदु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६८१</summary>
 
 अन्बुडैमै आण्ड्र कुडिप्पिऱत्तल् वेन्दवाम्  
@@ -14,6 +15,14 @@ title = "०६ तूदु"
 अधिकारः ६९. दौत्यम्  
 बन्धुप्रीतिः कुलीनत्वं राजवाञ्छितसद्गुणाः ।  
 अतैर्विशेषणैर्युक्तो दूतो भवितुमर्हति ॥ ६८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६८१</summary>
+
+०६८१
+Kindliness, high birth, and a nature pleasing to kings
+Are the qualities of an envoy. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६८१</summary>
@@ -50,6 +59,14 @@ Pleasing kings mark true embassy.        681
 राजप्रीतिरिमे दूतो त्रयः स्वाभाविका गुणाः ॥ ६८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६८२</summary>
+
+०६८२
+An envoy's three essentials
+Are loyalty, intelligence and sagacious speech.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६८२</summary>
 
 682\. aṉpu, aṟivu, ārāynta colvaṉmai-tūtu uraippārkku  
@@ -82,6 +99,14 @@ Knowledge and learned eloquence.        682
 
 निजराजजयोपायकथनं परभूपतौ ।  
 दूतस्य लक्षणं नीतिशास्त्रज्ञत्वं निगद्यते ॥ ६८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६८३</summary>
+
+०६८३
+An envoy should be a scholar among the learned
+To succeed among the powerful.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६८३</summary>
@@ -118,6 +143,14 @@ Before lanced king, triumphant words.        683
 एतत्त्रितयसम्पन्नो दौत्यकर्म समाचरेत् ॥ ६८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६८४</summary>
+
+०६८४
+Let him go on a mission who has these three:
+Wisdom, personality and scholarship. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६८४</summary>
 
 684\. aṟivu, uru, ārāynta kalvi, im mūṉṟaṉ  
@@ -150,6 +183,14 @@ Can act as bold ambassador.        684
 
 ग्रथयित्वा बहून् शब्दानपशब्दानपोह्य च ।  
 पत्युएमनोऽनुकूलं यो वक्ति दूतः स कथ्यते ॥ ६८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६८५</summary>
+
+०६८५
+An envoy's words should be compact,
+Unoffending, pleasant and useful.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६८५</summary>
@@ -186,6 +227,14 @@ Does good by pleasant words concise.        685
 कालानुकूलप्रज्ञावन् दूतः स्यात् शास्त्रसम्मतः ॥ ६८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६८६</summary>
+
+०६८६
+An envoy should be well-read, fearless, persuasive,
+And know what fits the occasion. *
+(P.S. Sundaram), (M.S. Poornalingam Pillai)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६८६</summary>
 
 686\. kaṟṟu, kaṇ añcāṉ, celac colli, kālattāl  
@@ -218,6 +267,14 @@ Convincing words which time demands.        686
 
 कर्तव्यार्थपरिज्ञाता तत्कृतौ देशकालवित् ।  
 विमृश्य कथनीयार्थवक्ता स्याद् दूतसत्तमः ॥ ६८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६८७</summary>
+
+०६८७
+The best know their mission, bide their time,
+Wait for the occasion and think before speaking.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६८७</summary>
@@ -254,6 +311,14 @@ The envoy employs mature phrase.        687
 मनोदार्ढ्य च दूतानां लक्षणं प्रोच्यते बुधैः ॥ ६८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६८८</summary>
+
+०६८८
+A truthful messenger should have these three qualities:
+Goodness, friendliness and boldness.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६८८</summary>
 
 688\. tūymai, tuṇaimai, tuṇivu uṭaimai, im mūṉṟiṉ  
@@ -288,6 +353,14 @@ Is pure helpful and bold in views.        688
 राजवार्तामन्यराज्ञि वक्तुं युक्तः स एव हि ॥ ६८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६८९</summary>
+
+०६८९
+A king's herald will not even negligently
+Utter words that leave a stain.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६८९</summary>
 
 689\. viṭu māṟṟam vēntarkku uraippāṉ-vaṭu māṟṟam  
@@ -320,6 +393,14 @@ Has flawless words and heart's courage.        689
 
 शत्रुबाधामवाप्तोऽपि निर्भयः शत्रुमन्निधौ ।  
 प्रतिप्रभाववक्ता यः तं दूतं ब्रुवते बुधाः ॥ ६९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६९०</summary>
+
+०६९०
+A brave envoy braves his life to safeguard
+The ruler's interests at any cost. *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६९०</summary>

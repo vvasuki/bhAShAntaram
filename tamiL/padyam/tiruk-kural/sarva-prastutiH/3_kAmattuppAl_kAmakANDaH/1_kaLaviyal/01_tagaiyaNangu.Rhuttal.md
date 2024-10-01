@@ -3,6 +3,7 @@ title = "०१ तगैयणङ्गुऱुत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०८१</summary>
 
 अणङ्गुगॊल् आय्मयिल् कॊल्लो कनङ्गुऴै  
@@ -13,6 +14,14 @@ title = "०१ तगैयणङ्गुऱुत्तल्"
 
 रम्यकेशवती चेयं मयूरी किमु देवता ।  
 अथवा मानुषीत्येवं प्राप्नोति मे मनः ॥ १०८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०८१</summary>
+
+१०८१
+"A goddess, a rare peahen or a woman
+Decked with jewels?" My heart is amazed! *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०८१</summary>
@@ -49,6 +58,14 @@ Or jewelled belle? To my mind a shock!        1081
 सैन्येन सह मां योद्धुं कि प्रापदिति तद्वभौ ॥ १०८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०८२</summary>
+
+१०८२
+She returns my look with looks that strike
+Like darts of an armed angel.
+(N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०८२</summary>
 
 1082 nōkkiṉāḷ nōkketir nōkkutal tākkaṇaṅku  
@@ -81,6 +98,14 @@ Are armied dart of the Love-Angel.        1082
 
 अन्तको न मया पूर्व दृष्टः, पश्यामि संप्रति ।  
 क्रूराक्षश्चाङ्गनारूपो जीवत्येष न संशयः ॥ १०८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०८३</summary>
+
+१०८३
+I never knew yama before, but now I realize
+That it is feminine and has warring eyes. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०८३</summary>
@@ -117,6 +142,14 @@ In woman's guise with battling eyes.        1083
 द्रष्टणां प्राणनाशार्थमुद्युक्ते तिष्ठतः सदा ॥ १०८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०८४</summary>
+
+१०८४
+She may have that feminine grace
+But her look sucks life out of men who gaze. *
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०८४</summary>
 
 1084 kaṇṭār uyiruṇṇum tōṟṟattāl peṇtakaip  
@@ -149,6 +182,14 @@ That drink the life of men who gaze.        1084
 
 किं वान्तकः किमु मृगी किन्तु स्यान्नेत्रमेव वा ।  
 त्रयाणामपि सदृश्यं दृष्टयामस्यास्तु दृश्यते ॥ १०८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०८५</summary>
+
+१०८५
+Is it death's dart, or eye's beams, or fawn's glance?
+Her look has all these three. *
+(G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०८५</summary>
@@ -185,6 +226,14 @@ In winsome woman's look I see.        1085
 तस्यास्तदा दृष्टिपातं सा नूनं मयि वारयेत् ॥ १०८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०८६</summary>
+
+१०८६
+It’s only when her callous eyebrows bend and veil her eyes
+That my heart’s flutters cease. *
+(K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०८६</summary>
 
 1086 koṭumpuruvam kōṭā maṟaippiṉ naṭuṅkañar  
@@ -217,6 +266,14 @@ Her eyes won't cause me trembling pain.        1086
 
 प्रङ्गनाधनवक्षाजच्छादक पट्टवस्त्रकम् ।  
 प्रत्तेभकायसञ्च्छन्नमुखवस्त्रसमं भवेत् ॥ १०८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०८७</summary>
+
+१०८७
+Like the veil over the face of a rutting elephant
+Is the vest that veils her buxom breasts.
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०८७</summary>
@@ -253,6 +310,14 @@ Looks like rutting tusker's eye-cover.        1087
 रमणीरम्यफालेन नृनमासीत् पराजितम् ॥ १०८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०८८</summary>
+
+१०८८
+Ah, there goes all my might which foes dread in fight,
+When I face her brows beaming bright!
+(K. Krishnaswamy & Vijaya Ramkumar), (G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०८८</summary>
 
 1088 oṇṇutaṟ kōo uṭaintatē ñāṭpiṉuḷ  
@@ -287,6 +352,14 @@ Feared by foemen yet to meet.        1088
 सहिताया रमण्यास्तु मण्डनैर्मण्डनं वृथा ॥ १०८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०८९</summary>
+
+१०८९
+What use are jewels to a damsel
+Adorned with modesty and meek looks of a hind? *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०८९</summary>
 
 1089 piṇaiyēr maṭanōkkum nāṇum uṭaiyāṭku  
@@ -319,6 +392,14 @@ With fawn-like looks and modesty?        1089
 
 कामो यथा स्वद्रष्टणां विषयोऽपि मुदावहः ।  
 न तथा मदिरा, किन्तु मोदयेत् प्रायिनं परम् ॥ १०९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०९०</summary>
+
+१०९०
+Wine delights only when imbibed,
+But never at mere look like love! *
+(V.V.S. Aiyar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०९०</summary>

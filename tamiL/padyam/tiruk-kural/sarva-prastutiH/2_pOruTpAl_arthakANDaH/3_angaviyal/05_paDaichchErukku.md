@@ -3,6 +3,7 @@ title = "०५ पडैच्चॆरुक्कु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७७१</summary>
 
 ऎन्नैमुन् निल्लन्मिन् तॆव्विर् पलरॆन्नै  
@@ -14,6 +15,14 @@ title = "०५ पडैच्चॆरुक्कु"
 अधिकारः ७८. सेनादार्ढ्यम्  
 बहवोऽस्मत्पतेरग्रे हताः पाषाणतां गताः ।  
 अस्मद्भूपपुरो नैव स्थातव्यं भोश्च शात्रवाः ॥ ७७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७७१</summary>
+
+०७७१
+"Foes! Don't stand before my chief.
+Many who stood now stand as stones!" *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७७१</summary>
@@ -50,6 +59,14 @@ Many who stood, in stones repose.        771
 गजे प्रयुक्तबाणस्तु मोघोऽपि स्याज्जयावहः ॥ ७७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७७२</summary>
+
+०७७२
+Better collect the spear that missed an elephant
+Than the arrow that killed a hare. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७७२</summary>
 
 772\. kāṉa muyal eyta ampiṉil, yāṉai  
@@ -82,6 +99,14 @@ Is prouder than shaft that hit a hare.        772
 
 अरिभिस्सह निर्भीत्या योधनं वीरलक्षणम् ।  
 प्राप्ते खेदे रिपोः साह्यकर्ता वीर्यवतां वरः ॥ ७७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७७३</summary>
+
+०७७३
+Fierce courage is what they call valour,
+But to help a foe in distress cuts deeper. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७७३</summary>
@@ -118,6 +143,14 @@ Mercy to the fallen is its edge.        773
 अन्वेष्टाऽन्यस्य शूलस्य वक्षःस्थं प्राप्य तुष्यति ॥ ७७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७७४</summary>
+
+०७७४
+Losing his spear hurled at a tusker,
+A hero grabs happily the one that pierced him. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७७४</summary>
 
 774\. kai vēl kaḷiṟṟoṭu pōkki varupavaṉ  
@@ -150,6 +183,14 @@ One in body smiles another chance.        774
 
 रिपुशूलागमं रोषात् पश्यतो नयानद्वयम् ।  
 सनिमेषं यदि भवेत् तत् पराजयलक्षणम् ॥ ७७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७७५</summary>
+
+०७७५
+Is it not shameful for a hero to even let his
+Watchful eyes wink when a spear is hurled?
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७७५</summary>
@@ -186,6 +227,14 @@ When lances dart if heroes wink
 अतीतान् दिवसान् युद्धे वीरो व्यर्थान् हि मन्यते ॥ ७७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७७६</summary>
+
+०७७६
+The brave shall deem all the days devoid of battle wounds
+As days gone waste.
+( Shuddhananda Bharatiar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७७६</summary>
 
 776\. viḻuppuṇ paṭāta nāḷ ellām vaḻukkiṉuḷ  
@@ -218,6 +267,14 @@ Which did not battle-wounds sustain.        776
 
 स्थिरकीर्तिकृते युद्धे प्राणानपि विमुञ्चताम् ।  
 पादबद्धा श‍ृङ्खला स्यात् अलङ्कारप्रयोजना ॥ ७७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७७७</summary>
+
+०७७७
+That hero, who gives up his life for fame,
+Is worthy of being adorned with the anklet. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७७७</summary>
@@ -254,6 +311,14 @@ Who sacrifice their life for fame.        777
 वीरा भूपैर्वारिताश्च विरमन्ति न ते ततः ॥ ७७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७७८</summary>
+
+०७७८
+Even a king's wrath cannot hold back heroes
+Who do not fear their lives in battle. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७७८</summary>
 
 778\. uṟiṉ, uyir añcā maṟavar, iṟaivaṉ  
@@ -288,6 +353,14 @@ They fear loss of glory; not life.        778
 वीरस्य दण्डनं दातुं को वा शक्तो भवेद् भुवि ॥ ७७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७७९</summary>
+
+०७७९
+Who dares to despise a man for not fulfilling
+A pledge he died to fulfill?
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७७९</summary>
 
 779\. iḻaittatu ikavāmaic cāvārai, yārē,  
@@ -320,6 +393,14 @@ Their lives in war to keep their vows?        779
 
 स्वीयं भूपं चाश्रुपातपर्वकं शेदयन् भटः ।  
 मृतश्चत् प्रार्थनापूर्वं मृतिनूनमवाप्यताम् ॥ ७८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७८०</summary>
+
+०७८०
+If death lies in glory that draws tears from the ruler,
+It is worth seeking even in alms. *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७८०</summary>
@@ -358,6 +439,14 @@ Which draws the tears of the ruler.        780
 शत्रुभ्यो रक्षकं वस्तु स्नेहादन्यद् भवेत् किमु ॥ ७८१॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८१</summary>
+
+०७८१
+What greater security exists than a secure friendship
+As a protection against foes? *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८१</summary>
 
 781\. ceyaṟku ariya yā uḷa, naṭpiṉ?-atupōl  
@@ -394,6 +483,14 @@ That guards one against acts villain?        781
 बुद्धिहीनैः कृतः स्नेहः क्षीयते क्षीणचन्द्रवत् ॥ ७८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८२</summary>
+
+०७८२
+Wise men's friendship waxes like the crescent
+And fools', like the full moon, wanes.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८२</summary>
 
 782\. niṟai nīra, nīravar kēṇmai, piṟai; matip  
@@ -426,6 +523,14 @@ The bad withers like waning moon.        782
 
 गुणिभिस्तु कृतः स्नेहः क्रमेणानन्ददायकः ।  
 सदर्थः पथनाद्यद्वत् क्रमशो मोददायकः ॥ ७८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७८३</summary>
+
+०७८३
+Being with good friends is like reading good books.
+More time you spend, more the delight.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७८३</summary>
@@ -462,6 +567,14 @@ The more one moves the more he knows.        783
 स्खालित्ये सुहृदस्तस्माद् वारणं सख्यमुच्यते ॥ ७८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८४</summary>
+
+०७८४
+Friendship is not for merriment
+But for stern reproach when friends go astray.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८४</summary>
 
 784\. nakutaṟporuṭṭu aṉṟu, naṭṭal; mikutikkaṇ  
@@ -494,6 +607,14 @@ But to hit when faults exceed.        784
 
 मैत्र्याः परिचयो हेतुः नापि सेशैकवर्तिता ।  
 उभयोर्भावसाम्यं तु मैत्रीमुत्पादयेत् तयोः ॥ ७८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७८५</summary>
+
+०७८५
+Identity of feelings makes friendship.
+No need for friends to meet and long together. *
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७८५</summary>
@@ -530,6 +651,14 @@ Friendship's feeling heart's fellowship.        785
 हृदयस्य विकासोऽपि मैत्र्यां मुख्यमपेक्ष्यते ॥ ७८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८६</summary>
+
+०७८६
+A smiling face alone makes no friendship,
+But the heart should also smile with the face. *
+(V. Ramasamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८६</summary>
 
 786\. mukam naka, naṭpatu naṭpu aṉṟu; neñcattu  
@@ -562,6 +691,14 @@ It is the smiling heart's embrace.        786
 
 निवर्त्य निन्दितात् मार्गात् सन्मार्गे तं प्रवेश्य च ।  
 दुःखे प्राप्ते तुल्यभागभागिता स्नेहलक्षणम् ॥ ७८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७८७</summary>
+
+०७८७
+Friendship saves from ruin, guides towards right,
+And shares the pain of distress. *
+(P.S. Sundaram), (G.U. Pope)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७८७</summary>
@@ -598,6 +735,14 @@ The load of pain and right path shows.        787
 तथा दुःखे स्वयं साह्यकरणं सख्यमुच्यते ॥ ७८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८८</summary>
+
+०७८८
+Swift as the hand seizing a slipping garment,
+Friendship acts to assuage a friend in distress. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८८</summary>
 
 788\. uṭukkai iḻantavaṉ kai pōla, āṅkē  
@@ -632,6 +777,14 @@ Like hands picking up dress that slips.        788
 साह्यं कृत्वा रक्षणं तु मैत्र्याः कोष्ठति कथ्यते ॥ ७८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७८९</summary>
+
+०७८९
+What is the throne of friendship? It is that resolve
+Of unfailing support given at all time.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७८९</summary>
 
 789\. 'naṭpiṟku vīṟṟirukkai yātu?' eṉiṉ, koṭpu iṉṟi  
@@ -664,6 +817,14 @@ That always helps with utmost warmth.        789
 
 ''इयान् स्नेहस्तस्य मयि, तथा तस्मिन ममापि च'' ।  
 एवं विशिष्य कथनात् स्नेहे नास्ति विशिष्टता ॥ ७९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७९०</summary>
+
+०७९०
+To boast, "He means so much to me and I to him,"
+Merely demeans a friendship.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७९०</summary>

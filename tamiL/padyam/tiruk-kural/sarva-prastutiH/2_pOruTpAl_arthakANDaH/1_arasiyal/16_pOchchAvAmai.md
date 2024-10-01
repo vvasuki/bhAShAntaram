@@ -3,6 +3,7 @@ title = "१६ पॊच्चावामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ५३१</summary>
 
 इऱन्द वॆगुळियिन् तीदे सिऱन्द  
@@ -13,6 +14,14 @@ title = "१६ पॊच्चावामै"
 
 सुखभोगासक्ततया कर्तव्यार्थस्य विस्मृतिः ।  
 चण्डकोपोद्भवानर्थात्, अधिकानिष्टदा भवेत् ॥ ५३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५३१</summary>
+
+०५३१
+Worse than too much wrath is the laxity
+Due to too much exultation.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५३१</summary>
@@ -49,6 +58,14 @@ Forgetfulness in joy-excess.        531
 विस्मृतिः समये तद्वनाशयेत् प्रथितं यशाः ॥ ५३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५३२</summary>
+
+०५३२
+Just as constant want crushes the intellect,
+Negligence kills repute. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५३२</summary>
 
 532\. poccāppuk kollum pukaḻai-aṟiviṉai  
@@ -81,6 +98,14 @@ Ceaseless want wisdom destroys.        532
 
 पुरुषार्थचतुष्काप्त्यै यत्नमाचरतामपि ।  
 न ते सिध्यन्ति विस्मृत्या नेदं पार्थिवमात्रकम् ॥ ५३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५३३</summary>
+
+०५३३
+All writings of the world conclude the same
+That fame is not for the lax. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५३३</summary>
@@ -117,6 +142,14 @@ All schools of thinkers say the same.        533
 स्थितोऽपि विभवो व्यर्थो यदि स्याद्विस्मृतिर्नरे ॥ ५३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५३४</summary>
+
+०५३४
+There is no refuge for the coward,
+Nor is there anything good for the lax.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५३४</summary>
 
 534\. accam uṭaiyārkku araṇ illai; āṅku illai,  
@@ -149,6 +182,14 @@ The forgetful find good never.        534
 
 प्रथमं विपदं प्राप्तां विस्मृत्या त्वनिवारयन् ।  
 खेदे समीपमायाते पश्चादुद्विजते नरः ॥ ५३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५३५</summary>
+
+०५३५
+The negligent unmindful of threats beforehand
+Will repent for the mistakes later on.
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५३५</summary>
@@ -185,6 +226,14 @@ Shall rue his folly later on.        535
 सर्वत्र सर्वकालेषु न तिष्ठेत् क्षेमदायकम् ॥ ५३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५३६</summary>
+
+०५३६
+Nothing can equal never being lax
+With anyone at any time without fail. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५३६</summary>
 
 536\. iḻukkāmai yārmāṭṭum, eṉṟum, vaḻukkāmai  
@@ -217,6 +266,14 @@ Miss none; the gain is sans compare.        536
 
 असाध्यमिदमित्येतत् तस्य नास्ति कदाचन ।  
 अविस्मृत्या साधनीयं कर्म कर्तुं यतेत् यः ॥ ५३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५३७</summary>
+
+०५३७
+There is nothing too difficult for a man
+Armed with vigilance.
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५३७</summary>
@@ -253,6 +310,14 @@ Impossible there is nothing.        537
 अकुर्वाणस्य विस्मृत्या सप्त जन्म वृथा भवेत् ॥ ५३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५३८</summary>
+
+०५३८
+Cherish and perform praiseworthy acts.
+To neglect and put off deprives one in seven births. *
+(Satguru Subramuniyaswami), (M.S. Poornalingam Pillai)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५३८</summary>
 
 538\. pukaḻntavai pōṟṟic ceyal vēṇṭum; ceyyātu  
@@ -287,6 +352,14 @@ If not, for seven births no mirth.        538
 स्मर्तव्यास्तेन विस्मृत्या पुरा नाशवशङ्गताः ॥ ५३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ५३९</summary>
+
+०५३९
+When the mind is elated with joy,
+Think of those who were ruined by neglect. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ५३९</summary>
 
 539\. ikaḻcciyiṉ keṭṭārai uḷḷuka-tām tam  
@@ -319,6 +392,14 @@ Whom negligence has made to fall.        539
 
 चिकीर्षितमविस्मृत्य जागरूकतयाऽनिशम् ।  
 तत्प्राप्त्यै यतमानेन वाञ्छितं साध्यते ध्रुवम् ॥ ५४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ५४०</summary>
+
+०५४०
+What is aimed is easy to achieve,
+If only the mind is set on what is aimed.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ५४०</summary>

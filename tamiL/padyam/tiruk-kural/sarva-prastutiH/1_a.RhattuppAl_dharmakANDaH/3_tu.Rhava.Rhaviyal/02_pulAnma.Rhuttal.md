@@ -3,6 +3,7 @@ title = "०२ पुलान्मऱुत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २५१</summary>
 
 तन्नून् पॆरुक्कऱ्कुत् तान्बिऱिदु ऊनुण्बान्  
@@ -13,6 +14,14 @@ title = "०२ पुलान्मऱुत्तल्"
 
 पोषणार्थे स्वदेहस्य कृत्वा यः प्राणिहिंसनम् ।  
 तन्मांसभक्षणपरः स दयावान् कथं भवेत् ॥ २५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २५१</summary>
+
+०२५१
+How can one command grace
+Who eats the flesh of others to swell his own flesh?
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५१</summary>
@@ -49,6 +58,14 @@ who feeds his flesh by flesh gourmand.        251
 तथा मांसशनपरो दयाहीनः प्रकीर्त्यते ॥ २५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २५२</summary>
+
+०२५२
+No scope for wealth with a spendthrift.
+So too compassion with a meat eater.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५२</summary>
 
 252\. poruḷ āṭci pōṟṟātārkku illai; aruḷ āṭci  
@@ -81,6 +98,14 @@ And flesh-eaters have no pity.        252
 
 प्राणिमांसरसास्वाद निमग्नस्य हि मानसम् ।  
 घातकस्यात्तश्स्त्रस्य चित्तवन्निर्दयं भवेत् ॥ २५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २५३</summary>
+
+०२५३
+No mercy in the hearts of those armed to kill
+And those who feast on flesh.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५३</summary>
@@ -117,6 +142,14 @@ Who tastes body is hard-hearted.        253
 प्राणिभांसाशनं लोके पापमाख्यायते ॥ २५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २५४</summary>
+
+०२५४
+What is grace? It is not killing; To kill, disgrace.
+And senseless to eat that meat. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५४</summary>
 
 254\. 'aruḷ', allatu, yātu?' eṉiṉ,-kollāmai, kōṟal:  
@@ -149,6 +182,14 @@ To kill and eat is disgraceful.        254
 
 मांसहारोभिवृद्धश्चेत् सदेहं प्राणिनामिह ।  
 दुर्लभा स्थितिरेव स्यात् नरकश्चापि जायते ॥ २५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २५५</summary>
+
+०२५५
+Abstain from meat to save life.
+The clenched jaws of hell hold those who don't. *
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५५</summary>
@@ -185,6 +226,14 @@ The eater hell's mouth shall not waive!        255
 धनार्थे नैव वर्तेरन् मांसविक्रयिणो नराः ॥ २५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २५६</summary>
+
+०२५६
+The world may say: "Meat we eat, but don't kill'.
+But no one will sell if there is none to buy. *
+(Kasthuri Sreenivasan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५६</summary>
 
 256\. tiṉaṟporuṭṭāl kollātu ulaku eṉiṉ, yārum  
@@ -217,6 +266,14 @@ For eating it if they don't wish.        256
 
 मांसां न भक्षयेत् प्राज्ञः, क्रियमाणे विमर्शने ।  
 व्रणो हि प्राणिनां मांसमिति ज्ञानं भवेत् यतः ॥ २५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २५७</summary>
+
+०२५७
+Abstain from eating flesh realizing it
+As the wound of another *
+(Kasthuri Sreenivasan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २५७</summary>
@@ -253,6 +310,14 @@ If they but feel the being's pain.        257
 शरीरं प्राणरहितं शवं मत्वा न भुञ्जते ॥ २५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २५८</summary>
+
+०२५८
+Those visionaries freed of ignorance
+Will not feed on a flesh freed of its life.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५८</summary>
 
 258\. ceyiriṉ talaip pirinta kāṭciyār uṇṇār,  
@@ -287,6 +352,14 @@ Refuse on lifeless flesh to feed.        258
 मांसाहारपरित्यागाच्छ्रेपः फलमवाप्यते ॥ २५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २५९</summary>
+
+०२५९
+Better than a thousand burnt offerings
+Is one life un-killed, un-eaten.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २५९</summary>
 
 259\. avi corintu āyiram vēṭṭaliṉ, oṉṟaṉ  
@@ -319,6 +392,14 @@ Excels thousand pourings of ghee!        259
 
 प्राणिहिंसा विरहितं विमुखं मांसभक्षणे ।  
 सर्वे देवा नराश्चैव विनमन्ति नरोत्तमम् ॥ २६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २६०</summary>
+
+०२६०
+All living things will fold their hands
+And bow to one who refuses to kill or eat meat. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २६०</summary>

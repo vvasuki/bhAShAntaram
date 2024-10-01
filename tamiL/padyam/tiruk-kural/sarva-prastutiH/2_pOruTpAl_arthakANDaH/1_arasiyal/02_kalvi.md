@@ -3,6 +3,7 @@ title = "०२ कल्वि"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ३९१</summary>
 
 कऱ्क कसडऱक् कऱ्पवै कट्रबिन्  
@@ -13,6 +14,14 @@ title = "०२ कल्वि"
 
 अध्येतव्याः समे ग्रन्थाः निस्सन्देहं यथार्थतः ।  
 अधीतग्रन्थदृष्टेन्न पथा युक्तं प्रवर्तनम् ॥ ३९१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३९१</summary>
+
+०३९१
+Learn thoroughly what should be learnt.
+And having learnt, stand according to that.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३९१</summary>
@@ -49,6 +58,14 @@ Live by that learning thoroughly.        391
 उभे हि चक्षुषी स्यातामिति सद्भिरुदीर्यते ॥ ३९२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३९२</summary>
+
+०३९२
+They say: Numbers and other one called Letters
+Are the two eyes to live with. *
+(V.C. Kulandai Swamy), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३९२</summary>
 
 392\. 'eṇ' eṉpa, ēṉai ‘eḻuttu’ eṉpa, iv iraṇṭum  
@@ -81,6 +98,14 @@ Of living kind both are the eyes.        392
 
 चक्षुष्मन्तस्त एव स्युः ज्ञानचक्षुर्युतास्तु ये ।  
 इतरेषामुभे नेत्रे व्रणे स्यातां मुखोत्थिते ॥ ३९३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३९३</summary>
+
+०३९३
+Only the learned have eyes.
+The unlearned have two sores on their face! *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३९३</summary>
@@ -117,6 +142,14 @@ The ignorant two sores of disgrace.        393
 वियोगकाले वाञ्छेयुः स भवेत्पण्डितोत्तमः ॥ ३९४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३९४</summary>
+
+०३९४
+It is the prowess of scholars that meetings bring delight
+And departures leave memories. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३९४</summary>
 
 394\. uvappat talaikkūṭi, uḷḷap pirital  
@@ -149,6 +182,14 @@ Of learned men this is the art.        394
 
 रिक्तवद्धनिकस्याग्रे विनीता गुरुसन्निधौ ।  
 भूत्वा पठन्ति ये नित्यं शिष्टास्ते निन्दिताः परे ॥ ३९५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३९५</summary>
+
+०३९५
+The learned learn to humble, like destitute before the rich;
+Only the low never learn.
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३९५</summary>
@@ -185,6 +226,14 @@ For knowledge: the low never learn.        395
 खननानुगुणं तोयं वर्धते सैकते यथा ॥ ३९६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३९६</summary>
+
+०३९६
+The more you dig a sand-spring, more the flow.
+The more you learn more the wisdom.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३९६</summary>
 
 396\. toṭṭaṉaittu ūṟum, maṇaṟ kēṇi;-māntarkkuk  
@@ -217,6 +266,14 @@ As deep you learn the knowledge grows.        396
 
 सर्वे देशाः समे ग्रामाः स्वीयाः स्युर्विदुषां भुवि ।  
 तथा सति कुतः कैश्चित् विद्या नाधीयते सदा ॥ ३९७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३९७</summary>
+
+०३९७
+Why does one stop learning till he dies
+When it makes all lands and place his?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३९७</summary>
@@ -253,6 +310,14 @@ Why not till death learning go on!        397
 सप्तजन्मस्वनुगता तस्य साह्यकरी भवेत् ॥ ३९८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३९८</summary>
+
+०३९८
+The learning acquired in one birth
+Protects a man in the next seven. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३९८</summary>
 
 398\. orumaikkaṇ tāṉ kaṟṟa kalvi oruvaṟku  
@@ -287,6 +352,14 @@ Exalts man upto his seventh.        398
 आनन्ददात्रीं विज्ञाय तां प्राज्ञा बहुकुर्वते ॥ ३९९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३९९</summary>
+
+०३९९
+Seeing that what delights him delights the world,
+Gets a scholar also delighted. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३९९</summary>
 
 399\. tām iṉpuṟuvatu ulaku iṉpuṟak kaṇṭu,  
@@ -319,6 +392,14 @@ On seeing the world enjoy their lore.        399
 
 विद्याधनं स्थिरं श्रेष्ठमेकमेव धनं भवेत् ।  
 धनान्यन्यान्यस्थिराणि वस्तुतो न धनानि हि ॥ ४००॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४००</summary>
+
+०४००
+The wealth that never declines is learning.
+All others are not riches.
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४००</summary>

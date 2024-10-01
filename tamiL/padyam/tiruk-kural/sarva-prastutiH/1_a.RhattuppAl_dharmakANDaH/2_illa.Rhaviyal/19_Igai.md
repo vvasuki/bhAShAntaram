@@ -3,6 +3,7 @@ title = "१९ ईगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - २२१</summary>
 
 वऱियार्क्कॊण्ड्रु ईवदे ईगैमऱ्ऱॆल्लाम्  
@@ -13,6 +14,14 @@ title = "१९ ईगै"
 
 अर्थिभ्योऽपेक्षितं यत्तु दीयते दानमुच्यते ।  
 इतराणि तु दानानि स्वार्थमूलानि केवलम् ॥ २२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २२१</summary>
+
+०२२१
+To give to the needy alone is charity;
+All the rest is investment for a return.
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २२१</summary>
@@ -47,6 +56,14 @@ The rest is loan and vanity.        221
 
 मोक्षलाभी भवेत् कामं याचनं न हि सम्मतम् ।  
 नरकेऽपि समायाते दानं सर्वात्मना वरम् ॥ २२२॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २२२</summary>
+
+०२२२
+To receive is bad, even for good cause;
+And to give is good even if there is no heaven.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २२२</summary>
@@ -91,6 +108,14 @@ To give is good, were heaven forbid.        222
 महकुलप्रसूतेषु दृश्यते दानशीलता ॥ २२३॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २२३</summary>
+
+०२२३
+The mark of the well-born is to give
+Without uttering the wretched excuse, "I have nothing."
+(P.S. Sundaram), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २२३</summary>
 
 223\. 'ilaṉ' eṉṉum evvam uraiyāmai ītal  
@@ -123,6 +148,14 @@ But giving marks a noble birth.        223
 
 याचकस्य मुखं दानात् प्रसन्नं न भवेत् यदि ।  
 दातृत्वमपि याञ्चेव जायते दुःखदं सदा ॥ २२४॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २२४</summary>
+
+०२२४
+To be begged is agonizing, till you give
+And see the smiling face of the beggar. *
+(S. Maharajan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २२४</summary>
@@ -159,6 +192,14 @@ Until the giver sees him bright.        224
 तामापाकुर्वतोऽन्नाद्यै गृहस्थानाधिको मतः ॥ २२५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २२५</summary>
+
+०२२५
+Strong is the strength of enduring hunger,
+But stronger still is the strength of relieving it.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २२५</summary>
 
 225\. āṟṟuvār āṟṟal paci āṟṟal; ap paciyai  
@@ -191,6 +232,14 @@ Than that of penance which endures.        225
 
 धनी क्षुघं यदार्तस्य वारयेत्, भाविजन्मसु ।  
 तदात्मफल लाभाय स्थिरं मुलधनं भवेत् ॥ २२६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २२६</summary>
+
+०२२६
+Wiping out the hunger of the have-nots,
+Is the treasury the haves have deposited their wealth. *
+(S. Maharajan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २२६</summary>
@@ -227,6 +276,14 @@ If room you seek to store your gains.        226
 क्षुण्णामाऽयं महारोगो दूरन्नित्यं विमुञ्चित ॥ २२७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २२७</summary>
+
+०२२७
+That dreaded disease called hunger touches not the one
+Who shares his food by habit.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २२७</summary>
 
 227\. pāttu ūṇ marīiyavaṉaip paci eṉṉum  
@@ -259,6 +316,14 @@ Hunger shall not harm his creed.        227
 
 अभुक्तं स्वेन चान्येभ्योऽप्यदत्तं यस्य वै धनम् ।  
 क्षीयते कि न जानाति स सौख्यं दानमूलकम्? ॥ २२८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २२८</summary>
+
+०२२८
+Unaware of the joys of giving,
+The hard-hearted waste their wealth hoarding it. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २२८</summary>
@@ -295,6 +360,14 @@ Hard-hearted rich whose hoarding fails.        228
 दरिद्र्यान्मरणाञ्च स्या दहो कष्टतरं ततः ॥ २२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - २२९</summary>
+
+०२२९
+To eat alone what one has hoarded
+Is worse than begging.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - २२९</summary>
 
 229\. irattaliṉ iṉṉātu maṉṟa-nirappiya  
@@ -327,6 +400,14 @@ Alone what one's greed is hoarding.        229
 
 नास्ति मृत्युसमं दुःखमथाप्यर्थिभिरीप्सितम् ।  
 तेभ्यो दातुमशक्तस्य मृत्युरेव वरो मतः ॥ २३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २३०</summary>
+
+०२३०
+Nothing is worse than death; but even death is sweet
+If one can't help the poor. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २३०</summary>

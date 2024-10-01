@@ -3,6 +3,7 @@ title = "१० नल्गुरवु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १०४१</summary>
 
 इन्मैयिन् इन्नाददु यादॆनिन् इन्मैयिन्  
@@ -14,6 +15,14 @@ title = "१० नल्गुरवु"
 अधिकारः १०५. दारिद्र्यम्  
 दारिद्र्येण समं लोके किं भवेद् दुःखदायकम् ।  
 इति प्रश्नस्य दारिद्र्येमेवेत्युत्तरमुच्यताम् ॥ १०४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०४१</summary>
+
+१०४१
+What is more painful than poverty?
+The pain of poverty itself!
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०४१</summary>
@@ -50,6 +59,14 @@ No pain pinches like poverty.        1041
 ऐहिकामुष्मिकसुखं न विन्देत् स मानवः ॥ १०४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०४२</summary>
+
+१०४२
+The demon of poverty takes away
+The joys of this life and the next.
+(K. Krishnaswamy & Vijaya Ramkumar), (S.M. Diaz)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४२</summary>
 
 1042 iṉmai eṉaoru pāvi maṟumaiyum  
@@ -82,6 +99,14 @@ Of joys of earth and heaven there.        1042
 
 दादिद्र्यसंज्ञिकी त्वाशा यमाश्रित्य वसेन्नरम् ।  
 कुलश्रैष्ठ्यं च कीर्तिश्च तं विहाय विनिःसरेत् ॥ १०४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०४३</summary>
+
+१०४३
+That cancer called poverty destroys at once
+The honor of ancient descent and clout.
+(K.R. Srinivasa Iyengar), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०४३</summary>
@@ -118,6 +143,14 @@ Kills graceful words and ancestry.        1043
 नीचवाक्यप्रयोगाख्यदोषो दारिद्र्यतो भवेत् ॥ १०४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०४४</summary>
+
+१०४४
+Even in those of high birth, poverty will produce
+The fault of uttering mean words.
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४४</summary>
 
 1044 iṟpiṟantār kaṇṇēyum iṉmai iḷivanta  
@@ -150,6 +183,14 @@ Utter words that are low and mean.        1044
 
 दारिद्र्यदुःखतप्तानां नृणां तेनैव हेतुना ।  
 भिन्नभिन्नान्यनेकानि दुःखानि प्रविशन्ति तान् ॥ १०४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०४५</summary>
+
+१०४५
+That misery called poverty brings with it
+A diversity of sufferings.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०४५</summary>
@@ -186,6 +227,14 @@ Brings a train of misery.        1045
 न कोऽपि श्रुणुयाल्लोके व्यर्थमेव भवेद्वचः ॥ १०४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०४६</summary>
+
+१०४६
+A poor man's words carry no weight,
+However meaningful and profound. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४६</summary>
 
 1046 naṟporuḷ naṉkuṇarntu colliṉum nalkūrntār  
@@ -218,6 +267,14 @@ Though from heart good things they say.        1046
 
 अधर्महेतुदारिद्र्यसमाविष्टं नरं भुवि ।  
 जननी तमुदासीनं मत्वा दूरीकरोत्यहो ॥ १०४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०४७</summary>
+
+१०४७
+Poverty, destitute of all virtues, alienates a man
+Even from the mother who bore him.
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०४७</summary>
@@ -254,6 +311,14 @@ The poor devoid of character.        1047
 श्चः पुनः किं भवेद्वेति दरिद्रः चिन्तयेत् सदा ॥ १०४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०४८</summary>
+
+१०४८
+Will that hunger which almost killed me yesterday,
+Pester me even today? *
+(P.S. Sundaram), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४८</summary>
 
 1048 iṉṟum varuvatu kollō nerunalum  
@@ -288,6 +353,14 @@ Will it pester me even to-day?        1048
 परं दरिद्रावस्थायां स्वप्तुं को वा भवेत् क्षमः ॥ १०४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १०४९</summary>
+
+१०४९
+One may sleep even in the midst of fire,
+But by no means in the midst of poverty. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १०४९</summary>
 
 1049 neruppiṉuḷ tuñcalum ākum nirappiṉuḷ  
@@ -320,6 +393,14 @@ In want a wink of sleep is rare.        1049
 
 भोग्यार्थवस्तुरहितदरिद्रा रागवर्जिताः ।  
 यवागूलवणार्थं तैर्भिक्षुत्वं नाप्यगृह्यत ॥ १०५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १०५०</summary>
+
+१०५०
+The poverty stricken has a chance to renounce,
+Lest he hang around for salt and gruel. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १०५०</summary>

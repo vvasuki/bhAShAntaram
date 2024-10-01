@@ -3,6 +3,7 @@ title = "०६ कुट्रङ्गडिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४३१</summary>
 
 सॆरुक्कुञ् जिनमुम् सिऱुमैयुम् इल्लार्  
@@ -13,6 +14,14 @@ title = "०६ कुट्रङ्गडिदल्"
 
 काममोहक्रोधलोभमदमात्सर्यसंज्ञकैः ।  
 दोषैः षड्भ्ः विहीनस्य सम्पत् श्लाघ्या स्थिरा भवेत् ॥ ४३१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४३१</summary>
+
+०४३१
+Freedom from arrogance, anger and meanness
+Spells dignity in greatness.
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४३१</summary>
@@ -46,6 +55,14 @@ Who're free from wrath pride lust petty.        431
 अस्थने हर्ष इत्येते राज्ञो दोषाः प्रकीर्तिताः ॥ ४३२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४३२</summary>
+
+०४३२
+Miserliness, undignified pride and fraudulent indulgence
+Are flaws in a king.
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४३२</summary>
 
 432\. Niggardliness, empty honour, blind favouritism, are all the faults of a King.  
@@ -75,6 +92,14 @@ These add blemishes to a prince.        432
 
 स्वल्पे दोषोऽपि संप्राप्ते तं मत्वा सुमहत्तरम् ।  
 महान्तो जागरूकाः स्युः जननिन्दाभयाकुला ॥ ४३३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४३३</summary>
+
+०४३३
+To those ashamed of wrong doings,
+Even millet of fault is as big as a palm-tree. *
+(V. Ramasamy), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४३३</summary>
@@ -108,6 +133,14 @@ Men fearing disgrace, Palm-tall deem.        433
 दोषातीतैर्जनैर्भाव्यं दोषाभावो गुणाः खलु ॥ ४३४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४३४</summary>
+
+०४३४
+Guard against error as you would guard wealth,
+For error is a foe that kills.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४३४</summary>
 
 434\. Guard against your error as you would your wealth. For error spells your ruin.  
@@ -137,6 +170,14 @@ Our fatal foe is that default.        434
 
 आदावेव नरो दोषान् यः प्राप्तान् न निवारयेत् ।  
 विनश्येत् जीवितं तस्य तृणं वह्निगतं यथा ॥ ४३५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४३५</summary>
+
+०४३५
+A life that does not guard against faults
+Would vanish like a heap of straw before fire. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४३५</summary>
@@ -170,6 +211,14 @@ Loses his life like flame-lit straw.        435
 यतमानो महीपालः कथं स्याद् दोषभाजनम् ॥ ४३६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४३६</summary>
+
+०४३६
+How can a king be faulted who removes his own fault
+Before seeing that of others? *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४३६</summary>
 
 436\. What fault will befall a King who is free from guilt and detects guilt in others?  
@@ -199,6 +248,14 @@ First his faults, then scans others.        436
 
 अदत्वा धर्मकार्यार्थमभुत्तवा च स्वयं धनम् ।  
 रक्षतो लोभिनो नश्येत् पुरुषार्थत्रयं वृथा ॥ ४३७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४३७</summary>
+
+०४३७
+The miser's wealth, unspent on what should be spent,
+Does not increase but cease. *
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४३७</summary>
@@ -232,6 +289,14 @@ Who would not for a good cause spend.        437
 नायं साधारणे दोषः षड्दोषेष्वग्रणीः किल ॥ ४३८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४३८</summary>
+
+०४३८
+That miserliness which clings to men
+Is one thing that stands out among all sins.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४३८</summary>
 
 438\. A clutching greedy heart that knows no charity commits the greatest folly.  
@@ -263,6 +328,14 @@ Is more than fault the worst apart.        438
 निष्फलानि च कार्याणि मनसाऽपि न संस्मरेत् ॥ ४३९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४३९</summary>
+
+०४३९
+Never flatter yourself,
+Nor delight in deeds that bring no good. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४३९</summary>
 
 439\. Let not conceit enter your heart at any time of your life; do not run after trifles.  
@@ -292,6 +365,14 @@ Nor do a deed that does no good.        439
 
 यदवाप्तुं वृणीषे त्वं एकान्ते भज भुङ्क्ष्व तत् ।  
 नो चेत् त्वदीयलक्ष्यस्य विघ्नं कुर्युर्विरोधिनः ॥ ४४०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४४०</summary>
+
+०४४०
+Keep your delights in pleasures unknown
+To keep the designs of your foes at bay.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४४०</summary>

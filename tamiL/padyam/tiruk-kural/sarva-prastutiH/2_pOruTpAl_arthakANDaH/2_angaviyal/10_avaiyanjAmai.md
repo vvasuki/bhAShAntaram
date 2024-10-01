@@ -3,6 +3,7 @@ title = "१० अवैयञ्जामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ७२१</summary>
 
 वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिन्  
@@ -14,6 +15,14 @@ title = "१० अवैयञ्जामै"
 अधिकारः ७३. सभाकम्पविहीनता  
 सभास्वभावविदुषां भयनापि सभाङ्गणे ।  
 न स्यात् स्खालित्यमेतेषां शब्दतत्त्वविदां नृणाम् ॥ ७२१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७२१</summary>
+
+०७२१
+The pure skillful orators, knowing the council's strength,
+Never fail in their speech. *
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७२१</summary>
@@ -48,6 +57,14 @@ Knowing grand council's moods and modes.        721
 
 पण्डितेष्वग्रगण्यास्ते श्लाघ्यन्ते सकलैरपि ।  
 अधीतं विदुषामग्रे विस्पष्टं यैर्निरूप्यते ॥ ७२२॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७२२</summary>
+
+०७२२
+Most learned among the learned is he
+Whose learning the learned accept.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७२२</summary>
@@ -92,6 +109,14 @@ Who holds scholars with learned lore.        722
 विद्वत्सदसि धैर्येण वक्तारो विरलाः किल ॥ ७२३॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७२३</summary>
+
+०७२३
+Many are ready to even die in battle,
+But few can face an assembly without nerves.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७२३</summary>
 
 723\. pakaiyakattuc cāvār eḷiyar; ariyar  
@@ -124,6 +149,14 @@ The fearless few face wise councils.        723
 
 यदधीतं त्वया शास्त्रं स्पष्टं सदसि तद्वद ।  
 अज्ञातं शास्त्रमन्येभ्यो ज्ञानिभ्यस्त्वं भज स्वयम् ॥ ७२४॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७२४</summary>
+
+०७२४
+Let the learned learn from you,
+And you from one more learned.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७२४</summary>
@@ -160,6 +193,14 @@ From greater savants learn still more.        724
 सभायामुत्तरं वक्तुं तद्धैर्यं जनयेत् तव ॥ ७२५॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७२५</summary>
+
+०७२५
+Study the science of logic so that you may
+Fearlessly reply in any assembly.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७२५</summary>
 
 725\. āṟṟiṉ, aḷavu aṟintu kaṟka-avai añcā  
@@ -192,6 +233,14 @@ Foes you can boldly retort.        725
 
 मनोधैर्यविहीनस्य कृपाणो युधि निष्फलः ।  
 भीतस्य निष्फलं शास्त्रं सूक्ष्मज्ञानिसभाङ्गणे ॥ ७२६॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७२६</summary>
+
+०७२६
+What use is a sword to cowards
+And books to those who fear assembly? *
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७२६</summary>
@@ -228,6 +277,14 @@ And books to those who councils fail?        726
 कृपाणो युद्धभूमिस्थनपुंसककरे यथा ॥ ७२७॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७२७</summary>
+
+०७२७
+As a sword to a eunuch before his foes,
+Is the learning to one who fears assembly. *
+(G.U. Pope), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७२७</summary>
 
 727\. pakaiyakattup pēṭi kai oḷ vāḷ-avaiyakattu  
@@ -260,6 +317,14 @@ His lore who fears men of brain.        727
 
 सत्सभायामनेकार्थकथने भीरुणा स्फुटम् ।  
 अधीतास्वपि विद्यासु सकलासु वृथैव ताः ॥ ७२८॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७२८</summary>
+
+०७२८
+They are useless however learned
+Who cannot impress a learned assembly. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७२८</summary>
@@ -296,6 +361,14 @@ Who says no good before the good.        728
 भीतानज्ञातविद्योभ्योऽप्यधमान् मन्यते जनः ॥ ७२९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ७२९</summary>
+
+०७२९
+Scholars dread of facing an assembly of good men
+Are ranked lower than the ignorant.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ७२९</summary>
 
 729\. 'kallātavariṉ kaṭai' eṉpa- ‘kaṟṟu aṟintum,  
@@ -328,6 +401,14 @@ Are learned idiots, certainly.        729
 
 अधीतविद्यान् सद्गोष्ठयां स्फुटं वक्तुं चकातरान् ।  
 जीवतोऽपि मृतप्रायान् लोको जानाति केवलम् ॥ ७३०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ७३०</summary>
+
+०७३०
+Those stage-fearing who keep their learning to themselves,
+Though living, are dead. *
+(P.S. Sundaram) 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ७३०</summary>

@@ -3,6 +3,7 @@ title = "०२ मानम्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९६१</summary>
 
 इण्ड्रि अमैयाच् चिऱप्पिन आयिनुम्  
@@ -14,6 +15,14 @@ title = "०२ मानम्"
 अधिकारः ९७. मानम्  
 केनचिद्रचितं कार्यं भवेदपि महत्तरम् ।  
 कुलगौरवनाशाय यदि तत् स्याद्विसृज्यताम् ॥ ९६१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९६१</summary>
+
+०९६१
+Reject base actions even if such rejection
+Makes life impossible.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६१</summary>
@@ -52,6 +61,14 @@ From mean degrading acts refrain.        961
 यशःकृते कुलश्रैष्ठ्यघातकं कर्म नाचरेत् ॥ ९६२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९६२</summary>
+
+०९६२
+Those who desire fame with honour
+Will not sacrifice honour for fame.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६२</summary>
 
 962 cīriṉum cīralla ceyyārē cīroṭu  
@@ -84,6 +101,14 @@ Don't do mean deeds even for name.        962
 
 सम्पत्समृद्धिवेलायां विनयः सर्वदा वरः ।  
 सम्पनाशे पौरुषं तु वरं स्याद्विनयादपि ॥ ९६३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९६३</summary>
+
+०९६३
+In prosperity, bend low.
+In adversity, stand straight.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६३</summary>
@@ -120,6 +145,14 @@ In decline uphold dignity.        963
 उत्तमाङ्गपरिभ्रष्टकेशतुल्या भवन्ति ते ॥ ९६४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९६४</summary>
+
+०९६४
+Men fallen from high stature
+Are like hair fallen from the head. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६४</summary>
 
 964 talaiyiṉ iḻinta mayiraṉaiyar māntar  
@@ -152,6 +185,14 @@ Who fall down from their high status.        964
 
 महीधरसमाः सन्तः स्वल्पं गुञ्जाफलोपमम् ।  
 पतनोन्मुखकार्यं च कुर्वन्तस्ते पतन्त्य्धः ॥ ९६५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९६५</summary>
+
+०९६५
+Even a hill-like eminence can be brought low
+By deeds as small as a speck. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६५</summary>
@@ -188,6 +229,14 @@ With abrus-grain-like small default.        965
 नेह कीर्तिं परे स्वर्गं न यच्छेत् किं प्रयोजनम् ॥ ९६६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९६६</summary>
+
+०९६६
+Why go behind those who scorn when it yields
+Neither fame nor place in heaven? *
+(Kasthuri Sreenivasan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६६</summary>
 
 966 pukaḻiṉṟāl puttēḷnāṭṭu uyyātāl eṉmaṟṟu  
@@ -220,6 +269,14 @@ It yields no fame, heaven's bliss neither.        966
 
 तिरस्कर्तारमाश्रित्य सलाभं जीवनादपि ।  
 ''तदकृत्वा मृतिं प्रापद्''इति कीर्तिर्विशिष्यते ॥ ९६७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९६७</summary>
+
+०९६७
+Better said doomed that state of life
+Spent clinging on to those who scorn.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९६७</summary>
@@ -256,6 +313,14 @@ Than live as slaves of those who scorn.        967
 जीवनं देहरक्षार्थं तदा किं स्वर्गदायकम् ॥ ९६८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९६८</summary>
+
+०९६८
+Is body as precious as ambrosia that men desire to save it
+Even at the cost of honour?
+(M.S. Poornalingam Pillai), (V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६८</summary>
 
 968 maruntōmaṟṟu ūṉōmpum vāḻkkai peruntakaimai  
@@ -290,6 +355,14 @@ Even when one's honour is lost?        968
 माननाशो प्रसक्ते तु न जीवन्ति कुलोद्भवाः ॥ ९६९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९६९</summary>
+
+०९६९
+The yak, sheared of its hair, does not survive.
+The noble, stripped of their honour, prefer death.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९६९</summary>
 
 969 mayirnīppiṉ vāḻāk kavarimā aṉṉār  
@@ -322,6 +395,14 @@ Like a yak that loses its hair.        969
 
 मानहान्या विनष्टानां मानिनां महितं यशः ।  
 यशस्य बहुधा लोको मानयेत् पृथिवीतले ॥ ९७०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९७०</summary>
+
+०९७०
+The world will admire and worship the glory of men
+Who prefer death to dishonour. *
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९७०</summary>

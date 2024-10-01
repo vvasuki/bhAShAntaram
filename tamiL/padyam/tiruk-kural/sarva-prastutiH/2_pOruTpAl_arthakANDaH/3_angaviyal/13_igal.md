@@ -3,6 +3,7 @@ title = "१३ इगल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८५१</summary>
 
 इगलॆन्ब ऎल्ला उयिर्क्कुम् पगलॆन्नुम्  
@@ -14,6 +15,14 @@ title = "१३ इगल्"
 अधिकारः ८६. भेदबुद्धिः  
 समेषां प्राणिवर्गाणामितरैः प्राणिभिः सह ।  
 दुर्गुणं मेलनाभावरूपं मेदो विवर्घयेत् ॥ ८५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८५१</summary>
+
+०८५१
+Hatred, they say, is the disease
+That spreads the plague of discord among all life. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८५१</summary>
@@ -50,6 +59,14 @@ And rouses illwill on all sides.        851
 तस्याप्यनिष्टकरणान्निवृत्तिः श्लाघ्यते नृणाम् ॥ ८५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८५२</summary>
+
+०८५२
+Even if disagreeable things are done to cause rift,
+Better do nothing painful to avoid conflict. *
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८५२</summary>
 
 852 pakalkarutip paṟṟā ceyiṉum ikalkaruti  
@@ -82,6 +99,14 @@ Though foes provoke disunion        852
 
 हृदयाद्भेदभावाख्यरोगं दुःखप्रदायकम् ।  
 बहिर्निष्कासयन् कश्चित् शाश्वतीं कीर्तिमश्नुते ॥ ८५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८५३</summary>
+
+०८५३
+If that dire disease called hostility is discarded,
+What yields is undying everlasting fame. *
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८५३</summary>
@@ -118,6 +143,14 @@ And win everlasting glory.        853
 नाशयन् स्वयमाप्नोति सुखानामुत्तमं सुखम् ॥ ८५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८५४</summary>
+
+०८५४
+When the misery of miseries called malice ceases,
+There comes the joy of joys. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८५४</summary>
 
 854 iṉpattuḷ iṉpam payakkum ikaleṉṉum  
@@ -150,6 +183,14 @@ Then joy of joys you can enjoy.        854
 
 मेदज्ञानाख्यदोषेण ये भवेयुर्न दूषिताः ।  
 तान् जेतुं भुवि शक्ताः स्युः केवाऽस्मिन धरणीतले ॥ ८५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८५५</summary>
+
+०८५५
+Who can ever overcome the one,
+Who refuses to give in to feelings of hatred?
+(K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८५५</summary>
@@ -186,6 +227,14 @@ That are free from enmity?        855
 तिष्ठतो जीविते सम्पत् क्षीयते नश्यति स्वयम् ॥ ८५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८५६</summary>
+
+०८५६
+Want and ruin will soon befall the life of one
+Who delights in excess hostility. *
+(Kasthuri Sreenivasan), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८५६</summary>
 
 856 ikaliṉ mikaliṉitu eṉpavaṉ vāḻkkai  
@@ -218,6 +267,14 @@ Who holds enmity sweet and dear.        856
 
 भेदज्ञानाख्यदुर्बुद्धिसमेता जयदायकान् ।  
 नीतिशास्त्रोक्ततत्त्वार्थान् ज्ञातुं न प्रभवन्ति ते ॥ ८५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८५७</summary>
+
+०८५७
+Those learned rapt up in destructive hate
+Will never see the triumphant nature of truth. *
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८५७</summary>
@@ -254,6 +311,14 @@ Who hate and injure without ruth.        857
 वशा ये भेदभावस्य ते त्वनर्थानवाप्नुयुः ॥ ८५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८५८</summary>
+
+०८५८
+To resist hatred is a gain.
+Yielding to it, one is overcome by ruin. *
+(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८५८</summary>
 
 858 ikaliṟku etircāytal ākkam ataṉai  
@@ -288,6 +353,14 @@ Fomenting it brings fast ruin.        858
 अश्रेयःप्राप्तिवेलायां भेदबुद्धिं ध्रुवं त्यजेत् ॥ ८५९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८५९</summary>
+
+०८५९
+Destined to prosper one will not look at hatred.
+Destined for ruin, one will see it all the time.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८५९</summary>
 
 859 ikalkāṇāṉ ākkam varuṅkāl ataṉai  
@@ -320,6 +393,14 @@ Hatred exceeding ruin breeds.        859
 
 भेदज्ञानेन चैकस्य बह्वनर्था भवन्ति हि ।  
 सौहार्दान्नितिरूपाख्यभाग्यं जायेत कस्यचित् ॥ ८६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८६०</summary>
+
+०८६०
+From hatred comes all evil.
+And from friendship the pride of goodness.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८६०</summary>

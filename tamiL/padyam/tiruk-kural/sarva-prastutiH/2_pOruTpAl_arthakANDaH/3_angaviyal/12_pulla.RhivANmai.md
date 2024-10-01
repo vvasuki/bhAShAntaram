@@ -3,6 +3,7 @@ title = "१२ पुल्लऱिवाण्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ८४१</summary>
 
 अऱिविन्मै इन्मैयुळ् इन्मै पिऱिदिन्मै  
@@ -14,6 +15,14 @@ title = "१२ पुल्लऱिवाण्मै"
 अधिकारः ८५. अल्पज्ञत्वम्  
 विद्यमानेष्वभावेषु ज्ञानाभावो व्यथाकरः ।  
 अन्याभावान् वेत्ति लोको णाभावत्वेन् सर्वदा ॥ ८४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८४१</summary>
+
+०८४१
+The lack of lacks is the lack of knowledge.
+Other lacks are not deemed such by the world.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८४१</summary>
@@ -50,6 +59,14 @@ Want of aught else the world nev'r counts.        841
 न तत्रान्यत् कारणं स्याद् गृहीतुः पुण्यमन्तरा ॥ ८४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८४२</summary>
+
+०८४२
+Should a fool gift a thing heartily, it is nothing but
+Due to the penance of the recipient. *
+(S. Maharajan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८४२</summary>
 
 842 aṟivilāṉ neñcuvantu ītal piṟituyātum  
@@ -82,6 +99,14 @@ It comes but by getter's merit.        842
 
 यावान् खेदः शत्रुवर्गैरुत्पद्येत ततोऽधिकम् ।  
 प्राप्नुयुः खेदमल्पज्ञाः स्वीयाज्ञानबलात् स्वयम् ॥ ८४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८४३</summary>
+
+०८४३
+The harm fools do to themselves
+Is beyond anything their foes do to them.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८४३</summary>
@@ -118,6 +143,14 @@ Ev'n tortures of their foes indeed.        843
 स एवाल्पज्ञशब्देन प्रकृते संप्रकीर्त्यते ॥ ८४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८४४</summary>
+
+०८४४
+What is stupidity? It is that vanity
+Which dares to declare, "I am wise."
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८४४</summary>
 
 844 veṇmai eṉappaṭuvatu yāteṉiṉ oṇmai  
@@ -150,6 +183,14 @@ That cries "We have sagacity"        844
 
 अल्पज्ञो यदि तु ब्रूयादनधीतमधीतवत् ।  
 तदा क्षुण्णमधीतेऽपि विषये संशयो भवेत् ॥ ८४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८४५</summary>
+
+०८४५
+Pretence to learning not learnt,
+Calls in question the learning learnt.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८४५</summary>
@@ -186,6 +227,14 @@ Leads to doubt ev'n that he has got.        845
 मुख्यं गोप्यं स्थलं त्यक्त्वा यथान्याच्छादको भवेत् ॥ ८४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८४६</summary>
+
+०८४६
+Can a fool be said to be clothed
+When his faults lie exposed?
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८४६</summary>
 
 846 aṟṟam maṟaittalō pullaṟivu tamvayiṉ  
@@ -218,6 +267,14 @@ And yet their glaring faults reveal.        846
 
 परोक्तगोपनीयार्थान् प्रमादादीरयन् बहिः ।  
 अल्पज्ञः स्वस्य नानर्थान् स्वयमेव समानयेत् ॥ ८४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८४७</summary>
+
+०८४७
+A fool who can't hold on to rare secrets
+Does great harm to himself.
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८४७</summary>
@@ -254,6 +311,14 @@ Upon himself great harm entails.        847
 तस्याल्पबुद्धेः प्राणाः स्युः आन्तमामयरूपिणः ॥ ८४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८४८</summary>
+
+०८४८
+Heeds no advice; knows nothing wise;
+His life is an illness till he dies.
+(Kasthuri Sreenivasan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८४८</summary>
 
 848 ēvavuñam ceykalāṉ tāṉtēṟāṉ avvuyir  
@@ -288,6 +353,14 @@ Plague is his life until it goes.        848
 अल्पज्ञो मूढविश्वासाद् भासते ज्ञानवानिव ॥ ८४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ८४९</summary>
+
+०८४९
+He is a fool, who tries to open the eyes of a fool,
+For a fool sees things only his own way. *
+(V.V.S. Aiyar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ८४९</summary>
 
 849 kāṇātāṉ kāṭṭuvāṉ tāṉkāṇāṉ kāṇātāṉ  
@@ -320,6 +393,14 @@ To the blind who bet their sight as right.        849
 
 अस्तीति सद्भिरुक्तार्थान् नास्तीत्येव वदेञ्च यः ।  
 मर्त्यरूपागतं भूतं तं मन्यन्ते नरा भुवि ॥ ८५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ८५०</summary>
+
+०८५०
+He who denies what the world affirms
+Will be thought a demon on earth. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ८५०</summary>

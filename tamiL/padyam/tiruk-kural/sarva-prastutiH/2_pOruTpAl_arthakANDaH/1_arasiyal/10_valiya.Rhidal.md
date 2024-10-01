@@ -3,6 +3,7 @@ title = "१० वलियऱिदल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४७१</summary>
 
 विनैवलियुम् तन्वलियुम् माट्रान् वलियुम्  
@@ -13,6 +14,14 @@ title = "१० वलियऱिदल्"
 
 बलं स्वीकृतकार्यस्य बलं स्वस्य रिपोर्बलम् ।  
 बलं द्वयोः पक्षयोश्च परामृश्य प्रवर्तय ॥ ४७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४७१</summary>
+
+०४७१
+Weigh the strengths of the task, yourselves,
+Opponents, and allies before acting. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७१</summary>
@@ -49,6 +58,14 @@ The allies' strength and go at length.        471
 जानन् दत्तावधानो यः तेन सर्वमवाप्यते ॥ ४७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४७२</summary>
+
+०४७२
+Nothing is impossible for him
+Who knows his task and strength, and is well set.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४७२</summary>
 
 472\. olvatu aṟivatu aṟintu, ataṉkaṇ taṅkic  
@@ -81,6 +98,14 @@ What they can and how to go.        472
 
 ''स्वबलं स्वल्पमि᳚त्येतद् विस्मृत्योत्साहचोदिताः ।  
 कार्यमारभ्य मध्ये तु विघ्निता बहवो भुवि ॥ ४७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४७३</summary>
+
+०४७३
+Ignorant of their strengths,
+Many in their zeal have perished midway.
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७३</summary>
@@ -117,6 +142,14 @@ Their pride breaks up in boastful fight.        473
 आत्मश्लाघापरा लोके नाशं शीघ्रमवाप्नुयुः ॥ ४७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४७४</summary>
+
+०४७४
+The inadaptable have speedy end
+Who boast unconcerned of their real strengths.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४७४</summary>
 
 474\. amaintu āṅku oḻukāṉ, aḷavu aṟiyāṉ, taṉṉai  
@@ -149,6 +182,14 @@ And brags himself-his fall is sure.        474
 
 लघुपिञ्छं भारवस्तु भवेन्नात्र विचारणा ।  
 भारपूर्णे तु शकटे भवेदक्षस्य भञ्जनम् ॥ ४७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४७५</summary>
+
+०४७५
+Too great a load of even peacock-feathers
+Will break the axle-tree of the cart.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७५</summary>
@@ -185,6 +226,14 @@ Cart's axle breaks by gross volume.        475
 उद्यतः शाखया साकं भग्नप्राणोप्यधः पतेत् ॥ ४७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४७६</summary>
+
+०४७६
+Persisting to climb beyond the terminal branches of a tree
+Will forfeit one's life.
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४७६</summary>
 
 476\. nuṉik kompar ēṟiṉār aḵtu iṟantu ūkkiṉ  
@@ -217,6 +266,14 @@ Ends the life as his body rips.        476
 
 स्वशक्तिमनतिक्रम्य धर्ममार्गानुसारतः ।  
 दानशीलस्य विन्त्त तु न कदापि विनश्यति ॥ ४७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४७७</summary>
+
+०४७७
+Know the limit and grant with measure.
+This is the way to guard your treasure. *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४७७</summary>
@@ -253,6 +310,14 @@ This way give and guard your treasure.        477
 आयाद् व्ययस्य चाधिक्ये महान् दोषः प्रसज्यते ॥ ४७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४७८</summary>
+
+०४७८
+No harm if income is narrow
+If outgoings are not broad.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४७८</summary>
 
 478\. āku āṟu aḷavu iṭṭitu āyiṉum, kēṭu illai-  
@@ -287,6 +352,14 @@ No matter how small income is.        478
 जीविते तस्य सम्पत्तिराभासा न तु शाश्वती ॥ ४७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४७९</summary>
+
+०४७९
+A life lived without adjustment to the means
+May seem to prosper but will perish.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४७९</summary>
 
 479\. aḷavu aṟintu vāḻātāṉ vāḻkkai uḷapōla  
@@ -319,6 +392,14 @@ His life seems rich but thins and ends.        479
 
 आयमार्गमनालोच्य परेषामुपकुर्वतः ।  
 जीविते तस्य सम्पत्तिः क्षीयते झटिति स्वयम् ॥ ४८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४८०</summary>
+
+०४८०
+He who is generous beyond his means
+Will quickly lose the measure of his wealth.
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४८०</summary>

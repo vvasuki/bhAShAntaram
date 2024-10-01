@@ -3,6 +3,7 @@ title = "०७ कनवुनिलैयुरैत्तल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२११</summary>
 
 कादलर् तूदॊडु वन्द कनविनुक्कु  
@@ -13,6 +14,14 @@ title = "०७ कनवुनिलैयुरैत्तल्"
 
 प्रियान्देशसहितः स्वप्नो यः समुपागतः ।  
 निद्रायां तस्य चातिथ्यं कीदृशं करवाण्यहम् ॥ १२११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२११</summary>
+
+१२११
+How shall I feast this dream which brought
+A message from my lord?
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२११</summary>
@@ -49,6 +58,14 @@ That brings the beloved's love-mission?        1211
 कथं ''कृच्छेण जीवामी'' त्येतद् ब्रूयां विहेषतः ॥ १२१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२१२</summary>
+
+१२१२
+If only my painted eyes could sleep,
+I will tell him in my dream of my true predicament. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२१२</summary>
 
 1212 kayaluṇkaṇ yāṉirappat tuñciṉ kalantārkku  
@@ -81,6 +98,14 @@ To tell my lover how life I keep.        1212
 
 जाग्रद्दशायां यो नैव मयि प्रीतिं व्यधात् प्रियः ।  
 स्वप्ने वा दर्शनात्तस्य जीवाम्यत्र कथञ्चन ॥ १२१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२१३</summary>
+
+१२१३
+Though I miss him when I am awake,
+My life lingers on as I see him in my dreams. *
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२१३</summary>
@@ -117,6 +142,14 @@ I meet in dreams and linger yet.        1213
 स्वप्नेन स समानीतस्तत्न प्रीतिं करोम्यहम् ॥ १२१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२१४</summary>
+
+१२१४
+Dreams sustain my love for in it I seek him
+Who visits not while I am awake.
+(W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२१४</summary>
 
 1214 kaṉaviṉāṉ uṇṭākum kāmam naṉaviṉāl  
@@ -149,6 +182,14 @@ Who in wakeful hours I miss.        1214
 
 जाग्रद्दशायां यद् दृष्टं तदासीत् क्षणिकं सुखम् ।  
 अद्य स्वप्नगतानन्दो यः सोऽपि क्षणिकोऽभवत् ॥ १२१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२१५</summary>
+
+१२१५
+The very sight of him is joyous.
+Be it in dreams or while I am awake.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२१५</summary>
@@ -185,6 +226,14 @@ Awake- What of seeing him -hence.        1215
 तदा प्रियः स्वप्नदृष्टो मां वियुज्य न यास्पति ॥ १२१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२१६</summary>
+
+१२१६
+Save for that thing called waking,
+My dream-lover won't leave me indeed.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२१६</summary>
 
 1216 naṉaveṉa oṉṟuillai āyiṉ kaṉaviṉāl  
@@ -217,6 +266,14 @@ My lov'r in dreams would nev'r depart        1216
 
 मयि जाग्रति संयुज्य यः क्रूरो नाकरोत् प्रियम् ।  
 स्वप्नो परं समागत्य मां कुतो व्यथयत्यसौ ॥ १२१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२१७</summary>
+
+१२१७
+Why does he haunt me in my dreams
+When he cruelly deserts me when awake? *
+(V.V.S. Aiyar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२१७</summary>
@@ -253,6 +310,14 @@ Adream, ah cruel! he tortures!        1217
 निद्रान्ते पूर्ववत्सोऽयं मम मानसमाविशेत् ॥ १२१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२१८</summary>
+
+१२१८
+Asleep he is round my shoulders.
+Awake he hurries back to my heart. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२१८</summary>
 
 1218 tuñcuṅkāl tōḷmēlar āki viḻikkuṅkāl  
@@ -287,6 +352,14 @@ Awake he enters quick my heart.        1218
 प्रियं प्रीतिमकुर्वन्तं स्मृत्वा खेदयुताः स्त्रियः ॥ १२१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२१९</summary>
+
+१२१९
+Only those starved of love dreams,
+Rue missing their beloved in wakefulness. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२१९</summary>
 
 1219 naṉaviṉāl nalkārai nōvar kaṉaviṉāl  
@@ -319,6 +392,14 @@ Rue their missing in wakeful hours.        1219
 
 ''त्याक्तवाऽस्मान् नायकः प्रायादि'' ति निन्दन्ति याः स्त्रियः ।  
 अविर्भवन्तं स्वप्ने तं न निन्दन्ति हि ताः किमु ॥ १२२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२२०</summary>
+
+१२२०
+He is a deserter, people say.
+But how can they see his visits in my dreams?
+(N.V.K. Ashraf), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२२०</summary>

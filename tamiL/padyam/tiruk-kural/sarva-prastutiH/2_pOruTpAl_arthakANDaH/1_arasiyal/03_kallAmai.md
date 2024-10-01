@@ -3,6 +3,7 @@ title = "०३ कल्लामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ४०१</summary>
 
 अरङ्गिण्ड्रि वट्टाडि यट्रे निरम्बिय  
@@ -13,6 +14,14 @@ title = "०३ कल्लामै"
 
 अनधीत्यैव सद्ग्रन्थान् सद्गोष्ठयां यः प्रभाषते ।  
 विना रङ्गस्थलीमक्षप्रयोक्त्रा स भवेत् समः ॥ ४०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४०१</summary>
+
+०४०१
+Addressing a gathering with poor scholarship
+Is like playing dice without a board.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४०१</summary>
@@ -49,6 +58,14 @@ Vain is imperfect loreless word.        401
 नार्यः कुचाभ्यां हीनायाः स्त्रीत्वकाङ्क्षेव निष्फला ॥ ४०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४०२</summary>
+
+०४०२
+An illiterate's lust for words is like the lust of a woman
+Who has neither of her breasts.
+(S. Maharajan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४०२</summary>
 
 402\. kallātāṉ col kāmuṟutal, mulai iraṇṭum  
@@ -81,6 +98,14 @@ Is breastless lady's love-approach.        402
 
 विद्याविहीनमनुजाः समक्षं ज्ञानशालिनाम् ।  
 मौनमालम्ब्य तिष्ठन्तः भजन्ते नोपहास्याताम् ॥ ४०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४०३</summary>
+
+०४०३
+Even a fool is fine
+If he can hold his tongue before the wise! *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४०३</summary>
@@ -117,6 +142,14 @@ If before the wise, they hold their peace.        403
 निर्दुष्टमपि तद् ज्ञानं न श्र्लाघन्ते बुधोत्तमाः ॥ ४०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४०४</summary>
+
+०४०४
+The learned will not acknowledge
+An ignoramus' occasional knowledge.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४०४</summary>
 
 404\. kallātāṉ oṭpam kaḻiya naṉṟu āyiṉum,  
@@ -149,6 +182,14 @@ Is not valued by the savant.        404
 
 मिथ्याभिमानो मूढस्य विद्याहीनस्य कस्यचित् ।  
 बुधैर्भाषणवेळायां स्वयं विलयमेष्यति ॥ ४०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४०५</summary>
+
+०४०५
+An unlettered man's conceit will find its end
+When the occasion for speech arrives.
+(C. Rajagopalachari)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४०५</summary>
@@ -185,6 +226,14 @@ Sadly fails before savants.        405
 केवलं जनिमन्तस्ते न तेषां सत्तया फलम् ॥ ४०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४०६</summary>
+
+०४०६
+The ignorant are like barren land:
+They are there, but useless. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४०६</summary>
 
 406\. uḷar eṉṉum māttiraiyar allāl, payavāk  
@@ -217,6 +266,14 @@ People speak of untaught minds
 
 सूक्ष्मशास्त्रार्थविज्ञानमन्तरा देहपुष्टितः ।  
 किं वा प्रयोजनं नृणां मृण्मयी प्रतिमैव ते ॥ ४०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४०७</summary>
+
+०४०७
+A handsome man without subtle and sharp intellect
+Has the beauty of a mud-doll. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४०७</summary>
@@ -253,6 +310,14 @@ Grand subtle lore who fails to know.        407
 भवेन्मूढाश्रिता सम्पत् नात्र कार्या विचारणा ॥ ४०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४०८</summary>
+
+०४०८
+The wealth of the ignorant does more harm
+Than the want of the learned. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४०८</summary>
 
 408\. nallārkaṇ paṭṭa vaṟumaiyiṉ iṉṉātē-  
@@ -287,6 +352,14 @@ Than a learned man's empty purse.        408
 महिम्ना नाधिरोहन्ति ते तुलां बुधसत्तमैः ॥ ४०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ४०९</summary>
+
+०४०९
+The ignorant, however high-born,
+Is lower than the low-born learned.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ४०९</summary>
 
 409\. mēṟpiṟantār āyiṉum kallātār, kīḻppiṟantum  
@@ -319,6 +392,14 @@ Than low-born men of learning's worth.        409
 
 मृगाणां मानवानां च यथास्ति महदन्तरम् ।  
 तथा विद्याविहीनानां सतां च ग्रन्थसेविनाम् ॥ ४१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ४१०</summary>
+
+०४१०
+Amid scholars of celebrated works,
+Are others like beasts among men.
+(N.V.K. Ashraf), (W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ४१०</summary>

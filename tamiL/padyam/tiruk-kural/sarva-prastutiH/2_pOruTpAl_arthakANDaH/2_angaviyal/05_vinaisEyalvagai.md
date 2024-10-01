@@ -3,6 +3,7 @@ title = "०५ विनैसॆयल्वगै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६७१</summary>
 
 सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु  
@@ -14,6 +15,14 @@ title = "०५ विनैसॆयल्वगै"
 अधिकारः ६८. कार्याचरणप्रकारः  
 अनिवार्यमिदं चेति विमर्शन्निर्णये सति ।  
 आलस्यं नैव कर्तव्यमन्यथा व्यसनं भवेत् ॥ ६७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६७१</summary>
+
+०६७१
+The end of deliberation is decision.
+To decide and dawdle is bad.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७१</summary>
@@ -50,6 +59,14 @@ Weak delay of action is wrong.        671
 त्वरया करणीयं यत् तत्रालस्यं न शोभनाम् ॥ ६७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६७२</summary>
+
+०६७२
+Delay where delay is needed,
+But do not delay when you must act.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७२</summary>
 
 672\. tūṅkuka, tūṅkic ceyaṟpāla; tūṅkaṟka,  
@@ -82,6 +99,14 @@ Delay not acts that need display.        672
 
 लब्धेऽवकाशो सर्वत्र कृत्वा कार्यं समाप्यताम् ।  
 तदभावे यदा यत्तु साध्यं तत् तत्र साध्यताम् ॥ ६७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६७३</summary>
+
+०६७३
+Better strike wherever possible;
+Elsewhere, consider other feasible means. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७३</summary>
@@ -118,6 +143,14 @@ If not see what is possible.        673
 द्वयं गूढं सदन्ते तु दहेच्छिष्टस्फुलिङ्गवत् ॥ ६७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६७४</summary>
+
+०६७४
+Both tasks and foes, if left unfinished,
+Will destroy like fire left un-extinguished. *
+(Satguru Subramuniyaswami), ( Shuddhananda Bharatiar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७४</summary>
 
 674\. viṉai, pakai eṉṟu iraṇṭiṉ eccam, niṉaiyuṅkāl,  
@@ -150,6 +183,14 @@ Flare up like fire unextinguished.        674
 
 द्रव्यकालक्रियाहेतुस्थलानामनुकूलताम् ।  
 पञ्चानामपि विस्पष्ठं बुध्वा कार्यं विधीयताम् ॥ ६७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६७५</summary>
+
+०६७५
+Five things should be pondered before you act:
+Resources, weapons, time, place and deed.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७५</summary>
@@ -186,6 +227,14 @@ Decide these five and then proceed.        675
 अन्ते महाफलप्राप्तिं त्रयं बुध्वा क्रियां कुरु ॥ ६७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६७६</summary>
+
+०६७६
+Weigh well before you plunge:
+The inputs, impediments and gain.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७६</summary>
 
 676\. muṭivum, iṭaiyūṟum, muṟṟiyāṅku eytum  
@@ -218,6 +267,14 @@ And then pursue a fitting act.        676
 
 कार्ये प्राप्ते क्रियातत्त्वं बुध्वा पूर्वं तु सा क्रिया ।  
 यैः कृता भावमेषां च ज्ञात्वा कार्ये मतिं कुरु ॥ ६७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६७७</summary>
+
+०६७७
+Experts have the expertise.
+Get that expertise by knowing him inside out.
+(S.M. Diaz), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६७७</summary>
@@ -254,6 +311,14 @@ That is the way of fruitful acts.        677
 कृतेनैकेन कार्येण तथान्यदपि साध्यताम् ॥ ६७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६७८</summary>
+
+०६७८
+Let one target be achieved through one's action,
+Like an elephant through another. *
+SDR
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७८</summary>
 
 678\. viṉaiyāṉ viṉai ākkikkōṭal-naṉai kavuḷ  
@@ -288,6 +353,14 @@ Achieve a deed by deed better.        678
 अप्रिया ये स्वशत्रोस्तैः सख्यं प्रथमतः कुरु ॥ ६७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६७९</summary>
+
+०६७९
+More urgent than rewarding friends,
+Is to befriend enemies. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६७९</summary>
 
 679\. naṭṭārkku nalla ceyaliṉ viraintatē-  
@@ -320,6 +393,14 @@ More urgent to befriend the foes.        679
 
 दुर्बलाः स्वाश्रितजनत्रासनिर्मूलनेच्छया ।  
 बलिष्ठैः सह सम्बन्धं कुर्युरर्थं प्रदाय वा ॥ ६८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६८०</summary>
+
+०६८०
+If you are weak and fear internal trouble,
+Seize conciliation with the strong. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६८०</summary>

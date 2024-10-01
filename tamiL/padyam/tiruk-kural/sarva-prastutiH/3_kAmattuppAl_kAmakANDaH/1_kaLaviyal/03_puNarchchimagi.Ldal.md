@@ -3,6 +3,7 @@ title = "०३ पुणर्च्चिमगिऴ्दल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११०१</summary>
 
 कण्डुगेट्टु उण्डुयिर्त्तु उट्रऱियुम् ऐम्बुलनुम्  
@@ -13,6 +14,14 @@ title = "०३ पुणर्च्चिमगिऴ्दल्"
 
 नासानेत्रश्रोत्रजिह्वाघ्राणत्वक्पञ्चकेन्द्रियैः ।  
 जायमानं भोगमेका ददाति वलयाज्ज्वला ॥ ११०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११०१</summary>
+
+११०१
+In her alone, my jewel, can I find the five senses of
+Sight, smell, hearing, taste and touch. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०१</summary>
@@ -49,6 +58,14 @@ The joys of sight sound touch taste smell.        1101
 स्वेनोत्पादितरोगस्य किन्त्वयं भेषजं स्वयम् ॥ ११०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११०२</summary>
+
+११०२
+The cure for a disease is always different.
+But this jewel is both disease and cure.
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११०२</summary>
 
 1102 piṇikku maruntu piṟamaṉ aṇiyiḻai  
@@ -81,6 +98,14 @@ For fair maid's ill she is the cure.        1102
 
 प्रियारम्यस्कन्धलभ्यनिद्रासुखसमं सुखम् ।  
 पङ्कजाक्षमहाविष्णोवैङ्कुण्ठेऽपि न लभ्यते ॥ ११०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११०३</summary>
+
+११०३
+Is heaven sweeter than slumbering
+On the soft shoulders of the women you love?
+(S. Maharajan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०३</summary>
@@ -117,6 +142,14 @@ As sleep in lover's arms so soft?        1103
 योऽग्निः सन्निहितः शीतो दूरस्थः प्रदहत्ययम् ॥ ११०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११०४</summary>
+
+११०४
+Whence did she get the fire
+Which burns when far, and cools when near?
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११०४</summary>
 
 1104 nīṅkiṉ teṟūum kuṟukuṅkāl taṇṇeṉṉum  
@@ -149,6 +182,14 @@ Wherefrom did she get this fire?        1104
 
 वाञ्छितानेकवम्तूनामवाप्त्या यत्सुखं भवेत् ।  
 प्रसूनकुन्तलभरनारीस्कन्धो ददाति तत् ॥ ११०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११०५</summary>
+
+११०५
+Her flower-decked shoulders
+Give me whatever I need, then and there.
+(M.S. Poornalingam Pillai), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०५</summary>
@@ -185,6 +226,14 @@ Whatever I wish that that accord.        1105
 तेनामृतेन रचितौ तस्याः स्कन्धाविति ध्रुवम् ॥ ११०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११०६</summary>
+
+११०६
+Her shoulders must verily be nectar
+For they refresh my life whenever I touch. *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११०६</summary>
 
 1106 uṟutōṟu uyirtaḷippat tīṇṭalāl pētaikku  
@@ -217,6 +266,14 @@ Each embrace brings life-thrilling charms.        1106
 
 स्वगेहे स्वार्जितं चान्यैः विभज्याशनकर्मवत् ।  
 रम्यवर्णाङ्गनाकायपरिष्वङ्गः सुखावहः ॥ ११०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११०७</summary>
+
+११०७
+Like sharing one’s food at one’s own home
+Is the embrace of this fair maid. *
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११०७</summary>
@@ -253,6 +310,14 @@ Is like sharing one's food at home.        1107
 प्रीतिकामुकतोरङ्गपरिष्वङ्गः सुखं वहेत् ॥ ११०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११०८</summary>
+
+११०८
+Sweet indeed is that embrace
+Wherein not a breath comes between.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११०८</summary>
 
 1108 vīḻum iruvarkku iṉitē vaḷiyiṭai  
@@ -287,6 +352,14 @@ Not admit e'en air between both.        1108
 प्रोच्यते परमं भाग्यं प्रेमलक्ष्यैकजीविनाम् ॥ ११०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ११०९</summary>
+
+११०९
+To fall out, make up, and unite again are the gains
+Reaped by those obsessed with love. *
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ११०९</summary>
 
 1109 ūṭal uṇartal puṇartal ivaikāmam  
@@ -319,6 +392,14 @@ These three are sweets of lover's tryst.        1109
 
 असकृद् ग्रन्थपठनादज्ञानं शिष्यते पथा ।  
 अनुस्यूताङ्गनाभोमादमोगः शिष्यते ततः ॥ १११०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १११०</summary>
+
+१११०
+The more you indulge, the more you realize your ignorance.
+Be it love or learning.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १११०</summary>

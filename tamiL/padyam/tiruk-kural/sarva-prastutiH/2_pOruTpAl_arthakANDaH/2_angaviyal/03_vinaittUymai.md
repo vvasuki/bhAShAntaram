@@ -3,6 +3,7 @@ title = "०३ विनैत्तूय्मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ६५१</summary>
 
 तुणैनलम् आक्कम् त्रुउम् विनैनलम्  
@@ -14,6 +15,14 @@ title = "०३ विनैत्तूय्मै"
 अधिकारः ६६. क्रियाशुद्धि  
 समीचीनेन साह्येन सम्पत् केवलमाप्यते ।  
 यदि कर्म भवेत् सुष्ठु सर्वं तेन हि सिद्ध्यति ॥ ६५१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५१</summary>
+
+०६५१
+Good alliance brings success;
+And good deeds all one needs. *
+(M.S. Poornalingam Pillai), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५१</summary>
@@ -50,6 +59,14 @@ Does every good thing we desire.        651
 सर्वदा तन्न कर्तव्यं मन्त्रिणा भूतिमिच्छता ॥ ६५२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६५२</summary>
+
+०६५२
+Avoid always deeds that do not lead to
+Lasting good and fame. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६५२</summary>
 
 652\. eṉṟum oruvutal vēṇṭum-pukaḻoṭu  
@@ -82,6 +99,14 @@ Bring good nor glory on their part.        652
 
 उपर्युपर्यात्मवृद्धिकाङ्क्षायां यत्नमास्थितैः ।  
 त्यज्यतां तादृशं कार्यं यद्गौखविधातकम् ॥ ६५३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५३</summary>
+
+०६५३
+Those who seek greatness must avoid
+What will stain their name.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५३</summary>
@@ -118,6 +143,14 @@ Should shun the deed that dims their name.        653
 निन्द्यं कार्यं न कुर्वन्ति विशुद्धमतयो जनाः ॥ ६५४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६५४</summary>
+
+०६५४
+Men of clear understanding
+Will not do mean acts even in distress.
+(N.V.K. Ashraf), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६५४</summary>
 
 654\. iṭukkaṇ paṭiṉum, iḷivanta ceyyār-  
@@ -150,6 +183,14 @@ Shun deeds of mean, shameful device.        654
 
 पश्चात्तापकरं कार्यं न कुर्वीत कदाचन ।  
 प्रमादेन कृते चापि पश्चातापमतिं त्यज ॥ ६५५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५५</summary>
+
+०६५५
+Do not do what you will regret; and if you do,
+Better not repeat the same.
+(P.S. Sundaram), (N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५५</summary>
@@ -186,6 +227,14 @@ If done, do not repeat it twice.        655
 सद्भिर्विगर्हितं वर्ज्यं कार्यं न हि समाचरेत् ॥ ६५६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६५६</summary>
+
+०६५६
+Do not do what the wise condemn
+Even to save your starving mother.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६५६</summary>
 
 656\. īṉṟāḷ paci kāṇpāṉ āyiṉum, ceyyaṟka  
@@ -218,6 +267,14 @@ Shun acts denounced by ancient seers.        656
 
 विधाय निन्दितं कार्यं सापवादं धनार्जनात् ।  
 विर्दुष्टकर्मजनितदारिद्र्यं हि सतां वरम् ॥ ६५७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५७</summary>
+
+०६५७
+Better the pinching poverty of the wise
+Than the pile of wealth hoarded by vice.
+( Shuddhananda Bharatiar), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५७</summary>
@@ -254,6 +311,14 @@ Is more than wealth hoarded by Vice.        657
 कार्यवसानवेलायां दुःखमेव भवेत् ततः ॥ ६५८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ६५८</summary>
+
+०६५८
+Ends achieved without any regard to the means
+Will bring grief॥
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ६५८</summary>
 
 658\. kaṭinta kaṭintu orār ceytārkku avaitām  
@@ -286,6 +351,14 @@ Suffer troubles though they succeed.        658
 
 परहिंसाबलाल्लब्धं वित्तं मुञ्चेत् तमाश्रितम् ।  
 क्रमप्राप्तधनं नष्टमप्यन्ते मुदमर्पयेत् ॥ ६५९॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६५९</summary>
+
+०६५९
+What's gained with other's tears will go in tears;
+What's won fair, though lost, will surge again. *
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६५९</summary>
@@ -328,6 +401,14 @@ Though lost, from good deeds blessings flow.        659
 
 वञ्चनामार्गसंप्राप्तवित्तरक्षणकर्म तु ।  
 अपक्कामघटक्षिप्तजलरक्षणवद्भवेत् ॥ ६६०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ६६०</summary>
+
+०६६०
+Stocking ill-got wealth is like storing
+Water in an unbaked pot. *
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ६६०</summary>

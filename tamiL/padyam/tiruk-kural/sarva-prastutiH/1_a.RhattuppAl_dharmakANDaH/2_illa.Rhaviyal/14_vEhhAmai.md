@@ -3,6 +3,7 @@ title = "१४ वॆह्हा³मै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १७१</summary>
 
 नडुविण्ड्रि नन्बॊरुळ् वॆह्हि³न् कुडिबॊण्ड्रिक्  
@@ -13,6 +14,14 @@ title = "१४ वॆह्हा³मै"
 
 अधर्मादन्यावस्तूनि योऽपहर्तुमभीच्छति ।  
 कुलनाशं स भजते दोषा अपि भजन्ति तम् ॥ १७१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १७१</summary>
+
+०१७१
+Unjust desire to covet others’ honest wealth
+At once ruins home and begets evil. *
+(G.U. Pope), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १७१</summary>
@@ -49,6 +58,14 @@ That greed ruins his house forthwith.         171
 स्वल्पलाभमभीप्सन्तः निषिद्धं नैव कुर्वते ॥ १७२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १७२</summary>
+
+०१७२
+Those who deem injustice a shame,
+Refrain from covetousness that brings blame.
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १७२</summary>
 
 172\. paṭu payaṉ veḵki, paḻippaṭuva ceyyār-  
@@ -81,6 +98,14 @@ From coveting which brings ruin.         172
 
 न्यायमार्गागतं नित्यसुखं यैः प्रार्थते नरः ।  
 अल्पसौख्यात् न ते कुर्युः लोभमन्येष्वधार्मिकम् ॥ १७३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १७३</summary>
+
+०१७३
+They will not sin for fleeting pleasures
+Who seek eternal joy.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १७३</summary>
@@ -117,6 +142,14 @@ For fleeting joy commit no wrong.         173
 ज्ञात्वापि स्वक दारिद्र्यमलुब्धाः परवस्तुषु ॥ १७४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १७४</summary>
+
+०१७४
+Their senses conquered,
+The clear-eyed cite not their poverty to covet. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १७४</summary>
 
 174\. 'ilam' eṉṟu veḵkutal ceyyār-pulam veṉṟa  
@@ -149,6 +182,14 @@ Though in want covet not at all.         174
 
 परद्रव्यापहारार्थे निन्दितं कर्म कुर्वतः ।  
 सूक्ष्मेण शास्त्रज्ञानेन विद्यते किं प्रयोजनम् ॥ १७५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १७५</summary>
+
+०१७५
+Of what avail is a keen and sharp intellect,
+If greed seizes one to covet? *
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १७५</summary>
@@ -185,6 +226,14 @@ If it deals ill with all on earth.         175
 परवस्तुप्रलोभेन गार्हस्थ्यमपि निष्फलम् ॥ १७६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १७६</summary>
+
+०१७६
+Even he whom grace beckons, if beckoned by greed,
+Will perish beckoned with evil. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १७६</summary>
 
 176\. aruḷ veḵki, āṟṟiṉkaṇ niṉṟāṉ, poruḷ veḵkip  
@@ -217,6 +266,14 @@ Suffers by evil covetous wealth.         176
 
 परद्रव्यापहारेण लब्धं वस्तु परित्यजेत् ।  
 फलप्रदानवेलायां न तच्छ्रेयः प्रदास्यति ॥ १७७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १७७</summary>
+
+०१७७
+Avoid wealth though greed.
+Out of it comes no good.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १७७</summary>
@@ -253,6 +310,14 @@ All its yield is inglorious.         177
 न क्षीयते तस्य भाग्यं भूय एवाभिवर्धते ॥ १७८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १७८</summary>
+
+०१७८
+Do not covet another's wealth
+If you would keep your own un-shrunk.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १७८</summary>
 
 178\. 'aḵkāmai celvattiṟku yātu?' eṉiṉ, veḵkāmai  
@@ -287,6 +352,14 @@ By not coveting others' own.         178
 तानू वासयोग्यान् विज्ञाय तेष्वेव रमते रमा ॥ १७९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १७९</summary>
+
+०१७९
+Fortune finds the worth and draws near to those
+Who know the worth of non-coveting. *
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १७९</summary>
 
 179\. aṟaṉ aṟintu veḵkā aṟivu uṭaiyārc cērum-  
@@ -319,6 +392,14 @@ Who are free from coveting vice.         179
 
 परिणाममनालोच्य परलुब्धो विनश्यति ।  
 अलुब्धो यस्तु वर्तेत राजते स जयी भुवि ॥ १८०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १८०</summary>
+
+०१८०
+Mindless coveting brings ruin.
+The pride of freedom from desire yields success.
+(J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १८०</summary>

@@ -3,6 +3,7 @@ title = "०८ इन्नासॆय्यामै"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ३११</summary>
 
 सिऱप्पीनुम् सॆल्वम् पॆऱिनुम् पिऱर्क्कु इन्ना  
@@ -13,6 +14,14 @@ title = "०८ इन्नासॆय्यामै"
 
 यशः पदे महाभाग्ये प्राप्तेऽपि परहिंसया ।  
 अपकारमतिं त्यक्त्वा लक्ष्ये जीवन्ति साधवः ॥ ३११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३११</summary>
+
+०३११
+The pure in heart will never hurt others
+Even for wealth that confers renown. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३११</summary>
@@ -49,6 +58,14 @@ Though princely wealth by that is won.        311
 अपकारमकृत्वैव लक्ष्ये तिष्ठन्ति साधवः ॥ ३१२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३१२</summary>
+
+०३१२
+The code of the pure in heart
+Is not to hurt in return any hurt caused in hate. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३१२</summary>
 
 312\. kaṟuttu iṉṉā ceyta akkaṇṇum, maṟuttu iṉṉā  
@@ -81,6 +98,14 @@ Though Malice does the worst in rage.        312
 
 कारणेन विना द्रोहं कुर्वतामपि देहिनाम् ।  
 अपकारो न कर्तव्योनो चेत् दुःखं स विन्दति ॥ ३१३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३१३</summary>
+
+०३१३
+Vengeance even against a wanton insult
+Brings unbearable woes. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१३</summary>
@@ -117,6 +142,14 @@ Bad-blood breeds and baneful heat.        313
 विस्मृतिः साधुभिर्दत्तं दण्डनं स्याद्विरोधिषु ॥ ३१४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३१४</summary>
+
+०३१४
+Punish an evil-doer
+By shaming him with a good deed.*
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३१४</summary>
 
 314\. iṉṉā ceytārai oṟuttal avar nāṇa  
@@ -149,6 +182,14 @@ Thus chide the evil who do harm.        314
 
 परदुःखं स्वदुःखेन समं मत्वापि तो जनः ।  
 परान्न त्रायते तस्य तत्त्वज्ञानेन किं फलम्? ॥ ३१५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३१५</summary>
+
+०३१५
+What does a man gain from his wisdom
+If he pines not at others' pain as his own? *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१५</summary>
@@ -185,6 +226,14 @@ If he pines not at other's pain?        315
 इति निर्धारितात् कार्यात् सर्वदा विरतो भवेत् ॥ ३१६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३१६</summary>
+
+०३१६
+Do not do to others what you know
+Has hurt yourself.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३१६</summary>
 
 316\. iṉṉā eṉat tāṉ uṇarntavai, tuṉṉāmai  
@@ -217,6 +266,14 @@ Do it not to the other-self        316
 
 सर्वत्र सर्वदा किञ्चिदपि दुःखप्रदायकम् ।  
 बुद्धिपूर्वे न कर्तव्यं स धर्मः परमो मतः ॥ ३१७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३१७</summary>
+
+०३१७
+It is best to refrain from willfully hurting
+Anyone, anytime, anyway.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३१७</summary>
@@ -253,6 +310,14 @@ At any time even in thought.        317
 प्राणिनामितरेषां च कुतो वा कुर्वते जनाः? ॥ ३१८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३१८</summary>
+
+०३१८
+Why does one hurt others
+Knowing what it is to be hurt?
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३१८</summary>
 
 318\. taṉ uyirkku iṉṉāmai tāṉ aṟivāṉ, eṉkolō,  
@@ -287,6 +352,14 @@ Who in his life injury feels.        318
 अपराह्णे तु दुःखानि स्वत एव भजन्ति तम् ॥ ३१९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ३१९</summary>
+
+०३१९
+The pain you inflict on others in the morn,
+Will come back at you on its own by eve.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ३१९</summary>
 
 319\. piṟarkku iṉṉā muṟpakal ceyyiṉ, tamakku iṉṉā  
@@ -319,6 +392,14 @@ Harm seeks thee in afternoon.        319
 
 परापकारो नो कार्यः निर्दुःखं वस्तुमिच्छता ।  
 परदुःखकरा एव दुःखवन्तो भवन्ति हि ॥ ३२०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ३२०</summary>
+
+०३२०
+Hurt comes to the hurtful; hence it is those
+Who don't want to be hurt cause no hurt. *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ३२०</summary>

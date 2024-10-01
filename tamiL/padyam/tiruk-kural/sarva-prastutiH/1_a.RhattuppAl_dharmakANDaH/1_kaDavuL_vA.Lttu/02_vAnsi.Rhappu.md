@@ -3,6 +3,7 @@ title = "०२ वान्सिऱप्पु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ११</summary>
 
 वान्निण्ड्रु उलगम् वऴङ्गि वरुदलाल्  
@@ -13,6 +14,14 @@ title = "०२ वान्सिऱप्पु"
 
 लोकोऽयं जीवति सदा यतो वर्षेण् हेतुना ।  
 लोकस्थितिकरं वर्षे ततोऽमृतमिदं विदुः ॥ ११॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ११</summary>
+
+००११
+Rain is deemed a nectar of life
+As its unfailing fall sustains the world. *
+(Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ११</summary>
@@ -49,6 +58,14 @@ The world but lasts while rain shall fall.         11
 उत्पाथ पेयतामेति स्वयं वर्षे जलात्मना ॥ १२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२</summary>
+
+००१२
+Rain is not only a consumable for the consumer
+But also begets other consumables.
+(K. Kannan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२</summary>
 
 12\. tuppārkkut tuppu āya tuppu ākki, tuppārkkut  
@@ -81,6 +98,14 @@ And forms a food and drink concrete.         12
 
 चतुर्भिः सागरैः देशे व्याप्तेपि क्षुदियं स्थिता ।  
 प्राणिनो बाधते मेघे यथाकालमवर्षति ॥ १३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १३</summary>
+
+००१३
+This vast world, with expanse of seas,
+Will still suffer with famine if clouds deceive rain.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १३</summary>
@@ -117,6 +142,14 @@ Distresses all the sea-girt earth.         13
 लाङ्गलेन भुवं नैव कर्षयेयुः कृषीवलाः ॥ १४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १४</summary>
+
+००१४
+If that bounty called rain decrease,
+Ploughing by ploughmen would also cease.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १४</summary>
 
 14\. ēriṉ uḻāar uḻavar, puyal eṉṉum  
@@ -149,6 +182,14 @@ The ploughman's sacred toil must end.         14
 
 वर्षे त्ववर्षत् जगतीं नाशयित्वा कदाचन् ।  
 अथ स्वयमनावृष्टि बाधितामपि रक्षति ॥ १५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १५</summary>
+
+००१५
+Rain holds the power of ruin.
+Rain also lifts up those it has ruined.
+(Norman Cutler)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १५</summary>
@@ -185,6 +226,14 @@ But only rain can life restore.         15
 लोके द्रष्टुं न शक्यन्ते हरितास्तृणसम्पदः ॥ १६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १६</summary>
+
+००१६
+If clouds stop dropping raindrops,
+Even blades of grass will stop rising. *
+(P.S. Sundaram), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १६</summary>
 
 16\. vicumpiṉ tuḷi vīḻiṉ allāl, maṟṟu āṅkē  
@@ -217,6 +266,14 @@ If from the cloud no drop appear.         16
 
 पीत्वा जलनिधिं लोके यदि मेघो न वर्षति ।  
 अगाघोऽप्युदधिस्तेन समृद्धिरहितो भवेत् ॥ १७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १७</summary>
+
+००१७
+Even the vast sea will lose its richness,
+If clouds cease and fail to bestow.
+(N.V.K. Ashraf), (J. Narayanaswamy)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १७</summary>
@@ -253,6 +310,14 @@ Except the cloud its stores repay.         17
 लोके नैव प्रवर्तेत मेघो यदि न वर्षति ॥ १८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १८</summary>
+
+००१८
+If the heavens dry up, the very gods
+Will lack festival and worship.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १८</summary>
 
 18\. ciṟappoṭu pūcaṉai cellātu-vāṉam  
@@ -287,6 +352,14 @@ Would offerings for the gods deny.         18
 अभयं न भवेल्लोके यदि देवो न वर्षति ॥ १९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १९</summary>
+
+००१९
+Both charity and penance would cease in this vast world,
+Should heavens fail to deliver.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १९</summary>
 
 19\. tāṉam tavam iraṇṭum taṅkā, viyaṉ ulakam  
@@ -319,6 +392,14 @@ Nor alms nor penance earth would show.         19
 
 जलाभावे लोकयात्रा सर्वेषामेव देहिनाम् ।  
 न स्यात्; वर्ष विना नैतत्; सदाचारादिकं तथा ॥ २०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - २०</summary>
+
+००२०
+If the world cannot exist without water,
+Neither can water exist without rain. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - २०</summary>

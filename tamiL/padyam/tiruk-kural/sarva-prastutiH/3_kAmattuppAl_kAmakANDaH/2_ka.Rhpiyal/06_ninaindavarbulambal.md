@@ -3,6 +3,7 @@ title = "०६ निनैन्दवर्बुलम्बल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२०१</summary>
 
 उळ्ळिनुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्  
@@ -13,6 +14,14 @@ title = "०६ निनैन्दवर्बुलम्बल्"
 
 पानकाले परं नृणां मद्यान्मोदप्रदायकात् ।  
 स्मृतमात्रेण चानन्ददाता कामो विशिष्यते ॥ १२०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२०१</summary>
+
+१२०१
+Love is sweeter than wine;
+Its mere thought intoxicates.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२०१</summary>
@@ -49,6 +58,14 @@ Is its delight at very thought.        1201
 तदेव वारयेत् खेदं, सर्वदा मोददः स्मरः ॥ १२०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२०२</summary>
+
+१२०२
+Nothing better than sweet memories of love
+To overcome the pain of loneliness! *
+(K. Krishnaswamy & Vijaya Ramkumar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०२</summary>
 
 1202 eṉaittoṉṟu iṉitēkāṇ kāmamtām vīḻvār  
@@ -81,6 +98,14 @@ In all aspects this love is sweet.        1202
 
 क्षुतं प्राङ्निस्सेरदास्यात् स्थगितं तद्भवेत्ततः ।  
 ज्ञायते तेन मां स्मृत्वा प्रियो व्यस्मरदिप्यपि ॥ १२०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२०३</summary>
+
+१२०३
+Is it because of my lover’s incomplete thoughts
+That my sneeze passes off incomplete?
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२०३</summary>
@@ -117,6 +142,14 @@ Me he tried to think but did not.        1203
 तथा तदीयचित्तेऽपि वसामि किमहं न वा? ॥ १२०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२०४</summary>
+
+१२०४
+No doubt my lord abides in my heart.
+Do I also likewise abide in his?
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०४</summary>
 
 1204 yāmum uḷēmkol avarneñcattu emneñcattu  
@@ -149,6 +182,14 @@ Ah from mine he will never depart.        1204
 
 मम वस्तुं स्वचित्ते न स्थानं यच्छति यः प्रियः ।  
 हृदये मम निर्लजं कथं नित्यं वसेदसौ ॥ १२०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२०५</summary>
+
+१२०५
+Having kept me out of his heart,
+Is he not ashamed to enter mine?
+(K.R. Srinivasa Iyengar), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२०५</summary>
@@ -185,6 +226,14 @@ Banning me entry into his.        1205
 तदभावे जीवनं मे सर्वदा दुर्लभं भवेत् ॥ १२०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२०६</summary>
+
+१२०६
+You know why I live? To live in remembrance of the days
+I lived in union with him.
+(S. Maharajan)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०६</summary>
 
 1206 maṟṟuyāṉ eṉṉuḷēṉ maṉṉō avaroṭuyāṉ  
@@ -217,6 +266,14 @@ What else of life can I presume?        1206
 
 प्रिये स्मृतेऽपि मच्चित्तं दग्धं विश्लेषदुःखतः ।  
 यद्यहं तं विस्मरेयं न जाने किं भवेदिति ॥ १२०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२०७</summary>
+
+१२०७
+What will happen if I forget him,
+When his memory itself burns my heart? *
+( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२०७</summary>
@@ -253,6 +310,14 @@ When his memory burns my heart?        1207
 महोपकारं मन्येऽहमिदं तेन कृतं मम ॥ १२०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२०८</summary>
+
+१२०८
+He never resents, however much I think of him.
+Isn’t it an honor from my lover? *
+(M.S. Poornalingam Pillai)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०८</summary>
 
 1208 eṉaittu niṉaippiṉum kāyār aṉaittaṉṟō  
@@ -287,6 +352,14 @@ He chides not; and thus honours me.        1208
 ???? तत्कृत्यं ???? ॥ १२०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२०९</summary>
+
+१२०९
+My dear life wastes thinking of his cruelty;
+For once he said we are not different. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२०९</summary>
 
 1209 viḷiyumeṉ iṉṉuyir vēṟallam eṉpā  
@@ -319,6 +392,14 @@ Of him who said we are one heart.        1209
 
 प्रियो मया सह स्थित्वा वियुज्याद्य जगाम ।  
 ???? चन्द्रमाः ! ॥ १२१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२१०</summary>
+
+१२१०
+Hail Moon! Set not till I set my eyes on him
+Who left me but not from my heart.
+( Shuddhananda Bharatiar), (K. Krishnaswamy & Vijaya Ramkumar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२१०</summary>

@@ -3,6 +3,7 @@ title = "१४ पुणर्च्चिविदुम्बल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - १२८१</summary>
 
 उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
@@ -13,6 +14,14 @@ title = "१४ पुणर्च्चिविदुम्बल्"
 
 तुष्टिं दर्शनमात्रेण मोदं च स्मरणात् ततः ।  
 कामार्तो लभते लोके न सुरासेवकस्तथा ॥ १२८१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२८१</summary>
+
+१२८१
+To please with the thought and delight with the sight,
+Belongs not to liquor but love.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८१</summary>
@@ -49,6 +58,14 @@ Belong to love and not to wine.        1281
 वियिगो यववत्स्वल्पोऽप्यकार्यः कामुकैः सह ॥ १२८२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२८२</summary>
+
+१२८२
+Where love is as large as a palm tree,
+Even millet of sulk is misplaced. *
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८२</summary>
 
 1282 tiṉaittuṇaiyum ūṭāmai vēṇṭum paṉaittuṇaiyum  
@@ -81,6 +98,14 @@ Sulking is wrong though millet-small.        1282
 
 वक्कृत्य ???? ।  
 अथापि तमदृष्ट्वा मे नेत्रे नावापतुर्मुदम् ॥ १२८३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२८३</summary>
+
+१२८३
+Let him neglect me and do what he will.
+My eyes will not rest till they see him.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८३</summary>
@@ -117,6 +142,14 @@ My restless eyes would see him still.        1283
 मन्मनस्तत्त विस्मृत्य रन्तुं तेन सहागमत् ॥ १२८४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२८४</summary>
+
+१२८४
+My friend, I went all set to quarrel,
+But my heart forgot and clasped him.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८४</summary>
 
 1284 ūṭalkaṇ ceṉṟēṉmaṉ tōḻi atumaṟantu  
@@ -149,6 +182,14 @@ And leap to embrace him direct.        1284
 
 प्रिये दृष्टिं गते दोषान् तदीयान् विस्मराम्यहम् ।  
 अञ्जनालङ्कृतं नेत्रं शलाकां विस्मरेद्यथा ॥ १२८५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२८५</summary>
+
+१२८५
+Like eyes that can’t see the painting brush,
+I don’t see his faults when I see him. *
+(M.S. Poornalingam Pillai)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८५</summary>
@@ -185,6 +226,14 @@ Like eyes that see not painter's brush.        1285
 प्रियाऽदर्शनवेलायां गुणस्तस्मिन्न दृश्यते ॥ १२८६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२८६</summary>
+
+१२८६
+When I see him I see no faults, and when I don't,
+I see nothing but faults! *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८६</summary>
 
 1286 kāṇuṅkāl kāṇēṉ tavaṟāya kāṇākkāl  
@@ -217,6 +266,14 @@ And nought but fault when he is not.        1286
 
 बुध्वापि यत्नवैफल्यं विप्रलम्भं करोति सा ।  
 प्रवाहाकर्षणगुणं ज्ञात्वाऽप्येनं विशेद्यता ॥ १२८७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२८७</summary>
+
+१२८७
+It is folly to plunge into a known raging stream.
+Likewise, why sulk and plumb known lies? *
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२८७</summary>
@@ -253,6 +310,14 @@ When lord is close to feign a huff.        1287
 हर्षात् पिबेद्यथा तद्वत् तव वक्षः पुनर्वृणे ॥ १२८८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२८८</summary>
+
+१२८८
+The drunkard seeks wine knowing well its shame;
+So does your bosom to me, O thief! *
+(K.R. Srinivasa Iyengar)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८८</summary>
 
 1288 iḷittakka iṉṉā ceyiṉum kaḷittārkkuk  
@@ -287,6 +352,14 @@ Your breast, O thief, is for my embrace!        1288
 बुध्वा तत्त्वमिदं केचित्, लभन्ते फलमुत्तमम् ॥ १२८९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - १२८९</summary>
+
+१२८९
+Love is more delicate than flower;
+Not many handle it properly. *
+(J. Narayanaswamy)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - १२८९</summary>
 
 1289 malariṉum mellitu kāmam cilarataṉ  
@@ -319,6 +392,14 @@ Know its delicacy so fine.        1289
 
 स्वयं पूर्व समागत्य परिष्वङ्ग च काङ्क्षती ।  
 यत्मया सङ्गता तच्च विस्मृत्य कलुषीकृता ॥ १२९०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - १२९०</summary>
+
+१२९०
+Though hostile in the eyes, she was faster than me
+To break down and unite.
+(K. Kannan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - १२९०</summary>

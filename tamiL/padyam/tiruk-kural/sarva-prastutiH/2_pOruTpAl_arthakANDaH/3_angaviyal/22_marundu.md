@@ -3,6 +3,7 @@ title = "२२ मरुन्दु"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९४१</summary>
 
 मिगिनुम् कुऱैयिनुम् नोय्सॆय्युम् नूलोर्  
@@ -14,6 +15,14 @@ title = "२२ मरुन्दु"
 अधिकारः ९५. औषधम्  
 वातपित्तश्लेष्मरूपत्रयाणां विषमां स्थितिम् ।  
 आयुर्वेददविदो व्याधिशब्देन ब्रुवते बुधाः ॥ ९४१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९४१</summary>
+
+०९४१
+Three things beginning with wind, say the experts,
+In excess or lacking cause disease.
+(P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४१</summary>
@@ -50,6 +59,14 @@ So doctors deem it more or less.        941
 भुञ्जानस्य शरीरस्य वृथा भवति भेषजम् ॥ ९४२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९४२</summary>
+
+०९४२
+The body needs no drugs if what is eaten
+Is digested before the next meal.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४२</summary>
 
 942 marunteṉa vēṇṭāvām yākkaikku aruntiyatu  
@@ -82,6 +99,14 @@ His body no medicine needs.        942
 
 भुक्तेऽन्ने जीर्णतां प्राप्ते भुञ्जानः परिमाणतः ।  
 चिरं चानेन देहेन कालं नयति मानवः ॥ ९४३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९४३</summary>
+
+०९४३
+Once digested, eat with moderation.
+That prolongs the life of one embodied. *
+(W.H. Drew and J. Lazarus)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४३</summary>
@@ -118,6 +143,14 @@ Life in body lasts with pleasure.        943
 आहारनियमोपेतो भुञ्जियाच्छास्त्रवर्त्मना ॥ ९४४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९४४</summary>
+
+०९४४
+Assured of digestion and real hunger,
+Eat with care what is agreeable. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४४</summary>
 
 944 aṟṟatu aṟintu kaṭaippiṭittu māṟalla  
@@ -150,6 +183,14 @@ Eat what is suitable and right.        944
 
 यथाशास्त्रं यथामानं स्वल्पान्नस्य निषेवणात् ।  
 मर्त्यं प्राणहरो व्याधिः यावज्जीवं न बाधते ॥ ९४५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९४५</summary>
+
+०९४५
+No harm to life if what is eaten
+Does not include disagreeable food.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४५</summary>
@@ -186,6 +227,14 @@ Cures ills of life and makes you bright        945
 नित्यरोगो भवेत्तस्मिन्नमिताहारसेवके ॥ ९४६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९४६</summary>
+
+०९४६
+As pleasure dwells with a moderate eater,
+So is disease with a voracious glutton. *
+(W.H. Drew and J. Lazarus)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४६</summary>
 
 946 iḻivaṟintu uṇpāṉkaṇ iṉpampōl niṟkum  
@@ -218,6 +267,14 @@ With greedy glutton abides ill-health.        946
 
 जीर्णशक्तिमतिक्रम्य यथावदविमृश्य च ।  
 भूरि भुक्तवतो नानारोगाः प्रदुर्भवन्त्यहो ॥ ९४७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९४७</summary>
+
+०९४७
+Unlimited eating beyond one’s measure
+Leads to unlimited number of ills.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९४७</summary>
@@ -254,6 +311,14 @@ Suffer from untold diseases here.        947
 शमनोपायमालोच्य वैद्यः कुर्यान्निवारणम् ॥ ९४८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९४८</summary>
+
+०९४८
+Diagnose the illness, trace its cause,
+Seek the proper remedy and apply it with skill.
+(Satguru Subramuniyaswami)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४८</summary>
 
 948 nōynāṭi nōymutal nāṭi atutaṇikkum  
@@ -288,6 +353,14 @@ And apply remedy that is sure.        948
 आलोच्य वैद्यशास्त्रज्ञः चिकित्सां सम्यगाचरेत् ॥ ९४९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९४९</summary>
+
+०९४९
+A doctor should have the measure of the patient,
+Disease and its stage, and treat.
+(N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९४९</summary>
 
 949 uṟṟāṉ aḷavum piṇiaḷavum kālamum  
@@ -320,6 +393,14 @@ The sickmen, sickness, season and treat.        949
 
 रुग्णो भिषग्भेषजं च समये भेषजप्रदः ।  
 एतच्चतुष्कसंयोगश्चिकित्सोति प्रकीर्त्यते ॥ ९५०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९५०</summary>
+
+०९५०
+Any treatment involves these four orders:
+The patient, doctor, medicine and the nurse.
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९५०</summary>

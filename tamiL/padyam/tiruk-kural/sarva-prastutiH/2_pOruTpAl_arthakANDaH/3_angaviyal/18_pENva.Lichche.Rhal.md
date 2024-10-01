@@ -3,6 +3,7 @@ title = "१८ पॆण्वऴिच्चेऱल्"
 
 +++
 
+
 <details><summary>विश्वास-प्रस्तुतिः - ९०१</summary>
 
 मनैविऴैवार् माण्बयन् ऎय्दार् विनैविऴैयार्  
@@ -14,6 +15,14 @@ title = "१८ पॆण्वऴिच्चेऱल्"
 अधिकारः ९१. भार्यानुवर्तनम्  
 भार्यावचनकारी न लभते फलमुत्तमम् ।  
 भार्यानुसरणं लक्ष्यसाधने बाधकं भवेत् ॥ ९०१॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९०१</summary>
+
+०९०१
+Wives unduly exalted impede greatness.
+Ambitious men avoid that very thing. *
+(P.S. Sundaram), (Satguru Subramuniyaswami)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९०१</summary>
@@ -50,6 +59,14 @@ That lust, dynamic men disdain.        901
 लब्धं वित्तं भवेत्तेषां नूनं लज्जाप्रदायकम् ॥ ९०२॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९०२</summary>
+
+०९०२
+The affluence of a careless uxorious man
+Will buy him only shameful shame. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९०२</summary>
 
 902 pēṇātu peṇviḻaivāṉ ākkam periyatōr  
@@ -82,6 +99,14 @@ His wealth to him and all is shame.        902
 
 आत्मगौरवमुत्सृज्य यः पत्न्यां भीतिमान् भवेत् ।  
 अतथाभूतमहतामग्रे लज्जां स विन्दते ॥ ९०३॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९०३</summary>
+
+०९०३
+Habitual submission to one’s wife
+Will always bring disrepute among the good.
+(N.V.K. Ashraf)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९०३</summary>
@@ -118,6 +143,14 @@ Shy he feels before the wise.        903
 कार्यनिर्वाहसामर्थ्यं न तस्य श्लाघ्यते बुधैः ॥ ९०४॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९०४</summary>
+
+०९०४
+The deeds of one who dreads his wife
+Merits little in this life or the next. *
+(Satguru Subramuniyaswami), (G.U. Pope)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९०४</summary>
 
 904 maṉaiyāḷai añcum maṟumaiyi lāḷaṉ  
@@ -150,6 +183,14 @@ The weaklings' action has no grace.        904
 
 भार्याभीरुर्महात्मभ्यो बहुभ्यश्च निजेच्छया ।  
 स तु स्वीयधनं चापि दातुं भीतिमवाप्नुयात् ॥ ९०५॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९०५</summary>
+
+०९०५
+A man who fears his wife will always fear
+To do good things to good people. *
+(G. Vanmikanathan)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९०५</summary>
@@ -186,6 +227,14 @@ Good to do to the good and wise.        905
 रम्यहस्तयुतां भार्यां दृष्ट्वा यः कातरो भवेत् ॥ ९०६॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९०६</summary>
+
+०९०६
+Those who fear their wives' slender shoulders
+May live like gods but are not men.
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९०६</summary>
 
 906 imaiyāriṉ vāḻiṉum pāṭilarē illāḷ  
@@ -218,6 +267,14 @@ Look petty even with god-like lives.        906
 
 भार्यायां दास्यकृत्येन जीवतां पौरुषादपि ।  
 स्त्रीणां लज्जासमेतानां स्त्रीत्वमेव विशिष्यते ॥ ९०७॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९०७</summary>
+
+०९०७
+Modest womanhood is greater than the manhood
+Which thrives on obeisance to wife. *
+(S.M. Diaz)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९०७</summary>
@@ -254,6 +311,14 @@ Than man servile unto her will.        907
 न स्यात्पूरयिन्तु शक्तः कुर्याद्धर्मान् न शाश्वतान् ॥ ९०८॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९०८</summary>
+
+०९०८
+Men governed by their fair ladies cannot address
+The needs of friends nor do any good.
+(V.V.S. Aiyar), (N.V.K. Ashraf)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९०८</summary>
 
 908 naṭṭār kuṟaimuṭiyār naṉṟāṟṟār naṉṉutalāḷ  
@@ -288,6 +353,14 @@ Help no friends nor goodness tend.        908
 काम्यकर्माणि कर्तुं च पत्नीदासो न शक्नुयात् ॥ ९०९॥
 </details>
 
+<details><summary>NVK Ashraf choice (en) - ९०९</summary>
+
+०९०९
+Virtuous deeds, exalted wealth and other deeds
+Are not for the henpecked. *
+(P.S. Sundaram)
+</details>
+
 <details><summary>रामचन्द्र-दीक्षितः - ९०९</summary>
 
 909\. Pleasures of life are not for the henpecked husband.
@@ -320,6 +393,14 @@ In those who submit to women        909
 
 ऋजुपूतमनस्कानां श्रेष्ठस्थानमुपेयुषाम् ।  
 पत्नीदास्यकराज्ञानां सर्वथा न भविष्यति ॥ ९१०॥
+</details>
+
+<details><summary>NVK Ashraf choice (en) - ९१०</summary>
+
+०९१०
+The thoughtful and firm-willed never indulge
+In the folly of doting on their wives. *
+(Satguru Subramuniyaswami), (P.S. Sundaram)
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः - ९१०</summary>
