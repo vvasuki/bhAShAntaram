@@ -336,8 +336,8 @@ Himself in weightless idle words.         196
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९७</summary>
 
-नयनिल सॊल्लिनुञ् जॊल्लुग साण्ड्रोर्  
-पयनिल सॊल्लामै नण्ड्रु।       १९७
+नयनिल सॊल्लिनुञ् जॊल्लुग साऩ्ऱोर्  
+पयनिल सॊल्लामै नऩ्ऱु।       १९७
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९७</summary>
@@ -385,8 +385,8 @@ Even if they would roughly speak.         197
 
 <details><summary>मूलम् - १९७</summary>
 
-नयनिल सॊल्लिनुञ् जॊल्लुग साण्ड्रोर्  
-पयनिल सॊल्लामै नण्ड्रु।       १९७
+नयनिल सॊल्लिनुञ् जॊल्लुग साऩ्ऱोर्  
+पयनिल सॊल्लामै नऩ्ऱु।       १९७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९८</summary>

@@ -7,7 +7,7 @@ title = "०४ नलम्बुनैन्दुरैत्तल्"
 <details open><summary>विश्वास-प्रस्तुतिः - ११११</summary>
 
 नन्नीरै वाऴि अनिच्चमे निन्निनुम्  
-मॆन्नीरळ् याम्वीऴ् पवळ्।      ११११
+मॆन्नीरळ् यांवीऴ् पवळ्।      ११११
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११११</summary>
@@ -56,13 +56,13 @@ On whom I dote is softer still.        1111
 <details><summary>मूलम् - ११११</summary>
 
 नन्नीरै वाऴि अनिच्चमे निन्निनुम्  
-मॆन्नीरळ् याम्वीऴ् पवळ्।      ११११
+मॆन्नीरळ् यांवीऴ् पवळ्।      ११११
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १११२</summary>
 
 मलर्गाणिन् मैयात्ति नॆञ्जे इवळ्गण्  
-पलर्गाणुम् पूवॊक्कुम् ऎण्ड्रु।       १११२
+पलर्गाणुम् पूवॊक्कुम् ऎऩ्ऱु।       १११२
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११२</summary>
@@ -111,12 +111,12 @@ To her bright eyes, O mind dismayed.        1112
 <details><summary>मूलम् - १११२</summary>
 
 मलर्गाणिन् मैयात्ति नॆञ्जे इवळ्गण्  
-पलर्गाणुम् पूवॊक्कुम् ऎण्ड्रु।       १११२
+पलर्गाणुम् पूवॊक्कुम् ऎऩ्ऱु।       १११२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १११३</summary>
 
-मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाट्रम्  
+मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाऱ्ऱम्  
 वेलुण्गण् वेय्त्तो ळवट्कु।       १११३
 </details>
 
@@ -165,14 +165,14 @@ Fragrant breath and lance-like eyes.        1113
 
 <details><summary>मूलम् - १११३</summary>
 
-मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाट्रम्  
+मुऱिमेनि मुत्तम् मुऱुवल् वॆऱिनाऱ्ऱम्  
 वेलुण्गण् वेय्त्तो ळवट्कु।       १११३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १११४</summary>
 
 काणिन् कुवळै कविऴ्न्दु निलन्नोक्कुम्  
-माणिऴै कण्णॊव्वेम् ऎण्ड्रु।       १११४
+माणिऴै कण्णॊव्वेम् ऎऩ्ऱु।       १११४
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११४</summary>
@@ -221,7 +221,7 @@ I can't equal the jewelled-one's eyes.        1114
 <details><summary>मूलम् - १११४</summary>
 
 काणिन् कुवळै कविऴ्न्दु निलन्नोक्कुम्  
-माणिऴै कण्णॊव्वेम् ऎण्ड्रु।       १११४
+माणिऴै कण्णॊव्वेम् ऎऩ्ऱु।       १११४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १११५</summary>
@@ -361,7 +361,7 @@ Like the spots on the shining moon?
 
 <details><summary>NVK Ashraf notes (en) - १११७</summary>
 
-१११७. This couplet may look simple but has been translated differently. The word “अऱुवाय्” has been usually taken to mean “variable, changing or inconstant” [(P.S. Sundaram), ( Shuddhananda Bharatiar)] and thereby interpreted by many as “waning and waxing moon” [(J. Narayanaswamy), (K. Kannan), (G.U. Pope), (M.S. Poornalingam Pillai)]. However, the very next word “निऱैन्द” [which means “filled with”] clearly implies that this word means the ‘spots or craters’ on the moon [“अऱु” can mean “break, crack, split” and “वाय्” “mouth”]. Though the couplets in Kural are usually discrete and independent of each other, there are occasions – especially in division “LOVE” – where the succeeding ones appear in sequence [chapter १३२ is a fine example]. Here it appears that the preceding couplet १११६ compares the lady’s face to the moon, with even the stars being unable to differentiate the two. This couplet takes the love’s face a step further and attempts to differentiate the two. Perhaps this is what is implied here: “Even the shining moon has spots of craters, but none on my love’s face”. Commentator Manakkudavar’s gives a fitting explanation. He says: “इवळ् मुगत्तु मऱुविल्लै यादलान्, अदु मदियोडु ऒव्वादु ऎण्ड्रु कूऱियदु”.
+१११७. This couplet may look simple but has been translated differently. The word “अऱुवाय्” has been usually taken to mean “variable, changing or inconstant” [(P.S. Sundaram), ( Shuddhananda Bharatiar)] and thereby interpreted by many as “waning and waxing moon” [(J. Narayanaswamy), (K. Kannan), (G.U. Pope), (M.S. Poornalingam Pillai)]. However, the very next word “निऱैन्द” [which means “filled with”] clearly implies that this word means the ‘spots or craters’ on the moon [“अऱु” can mean “break, crack, split” and “वाय्” “mouth”]. Though the couplets in Kural are usually discrete and independent of each other, there are occasions – especially in division “LOVE” – where the succeeding ones appear in sequence [chapter १३२ is a fine example]. Here it appears that the preceding couplet १११६ compares the lady’s face to the moon, with even the stars being unable to differentiate the two. This couplet takes the love’s face a step further and attempts to differentiate the two. Perhaps this is what is implied here: “Even the shining moon has spots of craters, but none on my love’s face”. Commentator Manakkudavar’s gives a fitting explanation. He says: “इवळ् मुगत्तु मऱुविल्लै यादलान्, अदु मदियोडु ऒव्वादु ऎऩ्ऱु कूऱियदु”.
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११७</summary>
@@ -457,7 +457,7 @@ All my love to you; hail O moon!        1118
 <details open><summary>विश्वास-प्रस्तुतिः - १११९</summary>
 
 मलरन्न कण्णाळ् मुगमॊत्ति यायिन्  
-पलर्गाणत् तोण्ड्रल् मदि।       १११९
+पलर्गाणत् तोऩ्ऱल् मदि।       १११९
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११९</summary>
@@ -506,7 +506,7 @@ If you look, then shine alone O moon!        1119
 <details><summary>मूलम् - १११९</summary>
 
 मलरन्न कण्णाळ् मुगमॊत्ति यायिन्  
-पलर्गाणत् तोण्ड्रल् मदि।       १११९
+पलर्गाणत् तोऩ्ऱल् मदि।       १११९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११२०</summary>

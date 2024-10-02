@@ -238,7 +238,7 @@ Before the muff be mortar white.        714
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७१५</summary>
 
-नण्ड्रॆण्ड्र वट्रुळ्ळुम् नण्ड्रे मुदुवरुळ्  
+नऩ्ऱॆऩ्ऱ वऱ्ऱुळ्ळुम् नऩ्ऱे मुदुवरुळ्  
 मुन्दु किळवाच् चॆऱिवु।       ७१५
 </details>
 
@@ -288,14 +288,14 @@ Which argues not before elders.        715
 
 <details><summary>मूलम् - ७१५</summary>
 
-नण्ड्रॆण्ड्र वट्रुळ्ळुम् नण्ड्रे मुदुवरुळ्  
+नऩ्ऱॆऩ्ऱ वऱ्ऱुळ्ळुम् नऩ्ऱे मुदुवरुळ्  
 मुन्दु किळवाच् चॆऱिवु।       ७१५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७१६</summary>
 
-आट्रिन् निलैदळर्न् दट्रे वियन्बुलम्  
-एट्रुणर्वार् मुन्नर् इऴुक्कु।       ७१६
+आऱ्ऱिन् निलैदळर्न् दऱ्ऱे वियन्बुलम्  
+एऱ्ऱुणर्वार् मुन्नर् इऴुक्कु।       ७१६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१६</summary>
@@ -314,7 +314,7 @@ Is like slipping from the path of righteousness. *
 
 <details><summary>NVK Ashraf notes (en) - ७१६</summary>
 
-७१६. This is yet another couplet in Tirukkural where the interpretation of a single word could change the simile [like couplet २०]. Here the word "आट्रिन्" could mean either "path" or "river". The phrase could be read as "आट्रिल्" or "आट्रिन्" निलै तळर्न्दु अट्रे. Parimelazhagar interprets this as "spiritual path", Kalingar, Manakkudavar and Pariperumal as "righteous path" and Parithiyar alone as "river".
+७१६. This is yet another couplet in Tirukkural where the interpretation of a single word could change the simile [like couplet २०]. Here the word "आऱ्ऱिन्" could mean either "path" or "river". The phrase could be read as "आऱ्ऱिल्" or "आऱ्ऱिन्" निलै तळर्न्दु अऱ्ऱे. Parimelazhagar interprets this as "spiritual path", Kalingar, Manakkudavar and Pariperumal as "righteous path" and Parithiyar alone as "river".
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७१६</summary>
@@ -349,13 +349,13 @@ Is like slipping from righteous ways.        716
 
 <details><summary>मूलम् - ७१६</summary>
 
-आट्रिन् निलैदळर्न् दट्रे वियन्बुलम्  
-एट्रुणर्वार् मुन्नर् इऴुक्कु।       ७१६
+आऱ्ऱिन् निलैदळर्न् दऱ्ऱे वियन्बुलम्  
+एऱ्ऱुणर्वार् मुन्नर् इऴुक्कु।       ७१६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७१७</summary>
 
-कट्रऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
+कऱ्ऱऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
 चॊल्दॆरिदल् वल्लार् अगत्तु।       ७१७
 </details>
 
@@ -405,14 +405,14 @@ Valued by flawless scholar-minds.        717
 
 <details><summary>मूलम् - ७१७</summary>
 
-कट्रऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
+कऱ्ऱऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
 चॊल्दॆरिदल् वल्लार् अगत्तु।       ७१७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७१८</summary>
 
 उणर्व तुडैयार्मुन् सॊल्लल् वळर्वदन्  
-पात्तियुळ् नीर्सॊरिन् दट्रु।       ७१८
+पात्तियुळ् नीर्सॊरिन् दऱ्ऱु।       ७१८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१८</summary>
@@ -462,7 +462,7 @@ Is to water beds of growing grains.        718
 <details><summary>मूलम् - ७१८</summary>
 
 उणर्व तुडैयार्मुन् सॊल्लल् वळर्वदन्  
-पात्तियुळ् नीर्सॊरिन् दट्रु।       ७१८
+पात्तियुळ् नीर्सॊरिन् दऱ्ऱु।       ७१८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७१९</summary>
@@ -523,7 +523,7 @@ Forgetful, address not the mean.        719
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७२०</summary>
 
-अङ्गणत्तुळ् उक्क अमिऴ्दट्राल् तङ्गणत्तार्  
+अङ्गणत्तुळ् उक्क अमिऴ्दऱ्ऱाल् तङ्गणत्तार्  
 अल्लार्मुन् कोट्टि कॊळल्।       ७२०
 </details>
 
@@ -571,6 +571,6 @@ Pours ambrosia into gutters.        720
 
 <details><summary>मूलम् - ७२०</summary>
 
-अङ्गणत्तुळ् उक्क अमिऴ्दट्राल् तङ्गणत्तार्  
+अङ्गणत्तुळ् उक्क अमिऴ्दऱ्ऱाल् तङ्गणत्तार्  
 अल्लार्मुन् कोट्टि कॊळल्।       ७२०
 </details>

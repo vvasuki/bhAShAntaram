@@ -64,7 +64,7 @@ E'en from eye-like friends who give with mirth.        1061
 <details open><summary>विश्वास-प्रस्तुतिः - १०६२</summary>
 
 इरन्दुम् उयिर्वाऴ्दल् वेण्डिन् परन्दु  
-कॆडुग उलगियट्रि यान्।       १०६२
+कॆडुग उलगियऱ्ऱि यान्।       १०६२
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६२</summary>
@@ -114,7 +114,7 @@ If "beg and live" be human fate.        1062
 <details><summary>मूलम् - १०६२</summary>
 
 इरन्दुम् उयिर्वाऴ्दल् वेण्डिन् परन्दु  
-कॆडुग उलगियट्रि यान्।       १०६२
+कॆडुग उलगियऱ्ऱि यान्।       १०६२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०६३</summary>
@@ -287,7 +287,7 @@ Like the food earned by labour's sweat.        1065
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०६६</summary>
 
-आविऱ्कु नीरॆण्ड्रु इरप्पिनुम् नाविऱ्कु  
+आविऱ्कु नीरॆऩ्ऱु इरप्पिनुम् नाविऱ्कु  
 इरविन् इळिवन्द तिल्।       १०६६
 </details>
 
@@ -337,14 +337,14 @@ Begging tongue is mean anyhow.        1066
 
 <details><summary>मूलम् - १०६६</summary>
 
-आविऱ्कु नीरॆण्ड्रु इरप्पिनुम् नाविऱ्कु  
+आविऱ्कु नीरॆऩ्ऱु इरप्पिनुम् नाविऱ्कु  
 इरविन् इळिवन्द तिल्।       १०६६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०६७</summary>
 
 इरप्पन् इरप्पारै ऎल्लाम् इरप्पिन्  
-करप्पार् इरवन्मिन् ऎण्ड्रु।       १०६७
+करप्पार् इरवन्मिन् ऎऩ्ऱु।       १०६७
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६७</summary>
@@ -393,7 +393,7 @@ Not to beg from shrinking misers.        1067
 <details><summary>मूलम् - १०६७</summary>
 
 इरप्पन् इरप्पारै ऎल्लाम् इरप्पिन्  
-करप्पार् इरवन्मिन् ऎण्ड्रु।       १०६७
+करप्पार् इरवन्मिन् ऎऩ्ऱु।       १०६७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०६८</summary>
@@ -454,7 +454,7 @@ On the rock of refusing hits.        1068
 <details open><summary>विश्वास-प्रस्तुतिः - १०६९</summary>
 
 इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
-उळ्ळदूउम् इण्ड्रिक् कॆडुम्।      १०६९
+उळ्ळदूउम् इऩ्ऱिक् कॆडुम्।      १०६९
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६९</summary>
@@ -504,7 +504,7 @@ It dies at repulsing insults.        1069
 <details><summary>मूलम् - १०६९</summary>
 
 इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
-उळ्ळदूउम् इण्ड्रिक् कॆडुम्।      १०६९
+उळ्ळदूउम् इऩ्ऱिक् कॆडुम्।      १०६९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०७०</summary>

@@ -63,7 +63,7 @@ Saying "I shall work without slack".        1021
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२२</summary>
 
-आळ्विनैयुम् आण्ड्र अऱिवुम् ऎनइरण्डिन्  
+आळ्विनैयुम् आऩ्ऱ अऱिवुम् ऎनइरण्डिन्  
 नीळ्विनैयाल् नीळुम् कुडि।      १०२२
 </details>
 
@@ -112,14 +112,14 @@ Ardent effort and ripe wisdom.        1022
 
 <details><summary>मूलम् - १०२२</summary>
 
-आळ्विनैयुम् आण्ड्र अऱिवुम् ऎनइरण्डिन्  
+आळ्विनैयुम् आऩ्ऱ अऱिवुम् ऎनइरण्डिन्  
 नीळ्विनैयाल् नीळुम् कुडि।      १०२२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२३</summary>
 
 कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्कुत् तॆय्वम्  
-मडिदट्रुत् तान्मुन् दुऱुम्।      १०२३
+मडिदऱ्ऱुत् तान्मुन् दुऱुम्।      १०२३
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२३</summary>
@@ -138,7 +138,7 @@ And lead the one bent on social service. *
 
 <details><summary>NVK Ashraf notes (en) - १०२३</summary>
 
-१०२३. The phrase “मडि तट्रु” means “tightening one’s loin clothes”. Does this in any way refer to the Jaina deities that are always depicted naked? 
+१०२३. The phrase “मडि तऱ्ऱु” means “tightening one’s loin clothes”. Does this in any way refer to the Jaina deities that are always depicted naked? 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२३</summary>
@@ -174,13 +174,13 @@ Loin girt up God leads his ways.        1023
 <details><summary>मूलम् - १०२३</summary>
 
 कुडिसॆय्वल् ऎन्नुम् ऒरुवऱ्कुत् तॆय्वम्  
-मडिदट्रुत् तान्मुन् दुऱुम्।      १०२३
+मडिदऱ्ऱुत् तान्मुन् दुऱुम्।      १०२३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२४</summary>
 
 सूऴामल् ताने मुडिवॆय्दुम् तम्गुडियैत्  
-ताऴादु उञट्रु पवर्क्कु।      १०२४
+ताऴादु उञऱ्ऱु पवर्क्कु।      १०२४
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२४</summary>
@@ -230,13 +230,13 @@ No need for plan; their ends will gain.        1024
 <details><summary>मूलम् - १०२४</summary>
 
 सूऴामल् ताने मुडिवॆय्दुम् तम्गुडियैत्  
-ताऴादु उञट्रु पवर्क्कु।      १०२४
+ताऴादु उञऱ्ऱु पवर्क्कु।      १०२४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२५</summary>
 
-कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
-चुट्रमाच् चुट्रुम् उलगु।      १०२५
+कुऱ्ऱम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
+चुऱ्ऱमाच् चुऱ्ऱुम् उलगु।      १०२५
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२५</summary>
@@ -285,8 +285,8 @@ People around, his kinship claim.        1025
 
 <details><summary>मूलम् - १०२५</summary>
 
-कुट्रम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
-चुट्रमाच् चुट्रुम् उलगु।      १०२५
+कुऱ्ऱम् इलनाय्क् कुडिसॆय्दु वाऴ्वानैच्  
+चुऱ्ऱमाच् चुऱ्ऱुम् उलगु।      १०२५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२६</summary>
@@ -347,7 +347,7 @@ Are deemed as men of manly worth.        1026
 <details open><summary>विश्वास-प्रस्तुतिः - १०२७</summary>
 
 अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
-आट्रुवार् मेट्रे पॊऱै।      १०२७
+आऱ्ऱुवार् मेऱ्ऱे पॊऱै।      १०२७
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२७</summary>
@@ -397,7 +397,7 @@ The home-burden rests on the bold.        1027
 <details><summary>मूलम् - १०२७</summary>
 
 अमरगत्तु वन्गण्णर् पोलत् तमरगत्तुम्  
-आट्रुवार् मेट्रे पॊऱै।      १०२७
+आऱ्ऱुवार् मेऱ्ऱे पॊऱै।      १०२७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२८</summary>
@@ -459,7 +459,7 @@ Sloth and pride will honour efface.        1028
 <details open><summary>विश्वास-प्रस्तुतिः - १०२९</summary>
 
 इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
-कुट्र मऱैप्पान् उडम्बु।      १०२९
+कुऱ्ऱ मऱैप्पान् उडम्बु।      १०२९
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२९</summary>
@@ -509,12 +509,12 @@ Who from mishaps shields his house?        1029
 <details><summary>मूलम् - १०२९</summary>
 
 इडुम्बैक्के कॊळ्गलम् कॊल्लो कुडुम्बत्तैक्  
-कुट्र मऱैप्पान् उडम्बु।      १०२९
+कुऱ्ऱ मऱैप्पान् उडम्बु।      १०२९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०३०</summary>
 
-इडुक्कण्गाल् कॊण्ड्रिड वीऴुम् अडुत्तूण्ड्रुम्  
+इडुक्कण्गाल् कॊऩ्ऱिड वीऴुम् अडुत्तूऩ्ऱुम्  
 नल्लाळ् इलाद कुडि।      १०३०
 </details>
 
@@ -563,6 +563,6 @@ With no good man to prop it up.         1030
 
 <details><summary>मूलम् - १०३०</summary>
 
-इडुक्कण्गाल् कॊण्ड्रिड वीऴुम् अडुत्तूण्ड्रुम्  
+इडुक्कण्गाल् कॊऩ्ऱिड वीऴुम् अडुत्तूऩ्ऱुम्  
 नल्लाळ् इलाद कुडि।      १०३०
 </details>

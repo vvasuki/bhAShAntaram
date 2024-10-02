@@ -67,7 +67,7 @@ As theirs who sense and self deny.         21
 <details open><summary>विश्वास-प्रस्तुतिः - २२</summary>
 
 तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु  
-इऱन्दारै ऎण्णिक्कॊण् डट्रु।      २२
+इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु।      २२
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२</summary>
@@ -116,13 +116,13 @@ Is to count the dead upon the sphere.         22
 <details><summary>मूलम् - २२</summary>
 
 तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु  
-इऱन्दारै ऎण्णिक्कॊण् डट्रु।      २२
+इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु।      २२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३</summary>
 
 इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
-पॆरुमै पिऱङ्गिट्रु उलगु।      २३
+पॆरुमै पिऱङ्गिऱ्ऱु उलगु।      २३
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३</summary>
@@ -176,7 +176,7 @@ Who know the right and virtue wear.         23
 <details><summary>मूलम् - २३</summary>
 
 इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
-पॆरुमै पिऱङ्गिट्रु उलगु।      २३
+पॆरुमै पिऱङ्गिऱ्ऱु उलगु।      २३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४</summary>
@@ -242,7 +242,7 @@ The senses five, is heaven to gain.         24
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५</summary>
 
-ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
+ऐन्दवित्तान् आऱ्ऱल् अगल्विसुम्बु ळार्गोमान्  
 इन्दिरने सालुङ् गरि।      २५
 </details>
 
@@ -296,7 +296,7 @@ How great the power ascetics' sway.         25
 
 <details><summary>मूलम् - २५</summary>
 
-ऐन्दवित्तान् आट्रल् अगल्विसुम्बु ळार्गोमान्  
+ऐन्दवित्तान् आऱ्ऱल् अगल्विसुम्बु ळार्गोमान्  
 इन्दिरने सालुङ् गरि।      २५
 </details>
 
@@ -357,7 +357,7 @@ The great achieve things rare to do.         26
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७</summary>
 
-सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
+सुवैऒळि ऊऱुओसै नाऱ्ऱमॆन ऐन्दिन्  
 वगैदॆरिवान् कट्टे उलगु।      २७
 </details>
 
@@ -406,7 +406,7 @@ Of taste, sight, hearing, touch and smell.         27
 
 <details><summary>मूलम् - २७</summary>
 
-सुवैऒळि ऊऱुओसै नाट्रमॆन ऐन्दिन्  
+सुवैऒळि ऊऱुओसै नाऱ्ऱमॆन ऐन्दिन्  
 वगैदॆरिवान् कट्टे उलगु।      २७
 </details>
 
@@ -467,7 +467,7 @@ Their greatness to the world display.         28
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९</summary>
 
-कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
+कुणमॆन्नुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि  
 कणमेयुम् कात्तल् अरिदु।      २९
 </details>
 
@@ -516,7 +516,7 @@ Though transient, cannot be withstood.         29
 
 <details><summary>मूलम् - २९</summary>
 
-कुणमॆन्नुम् कुण्ड्रेऱि निण्ड्रार् वॆगुळि  
+कुणमॆन्नुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि  
 कणमेयुम् कात्तल् अरिदु।      २९
 </details>
 

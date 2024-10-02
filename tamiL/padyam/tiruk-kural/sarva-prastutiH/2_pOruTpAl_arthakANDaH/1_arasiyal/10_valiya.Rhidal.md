@@ -6,7 +6,7 @@ title = "१० वलियऱिदल्"
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७१</summary>
 
-विनैवलियुम् तन्वलियुम् माट्रान् वलियुम्  
+विनैवलियुम् तन्वलियुम् माऱ्ऱान् वलियुम्  
 तुणैवलियुम् तूक्किच् चॆयल्।       ४७१
 </details>
 
@@ -55,7 +55,7 @@ The allies' strength and go at length.        471
 
 <details><summary>मूलम् - ४७१</summary>
 
-विनैवलियुम् तन्वलियुम् माट्रान् वलियुम्  
+विनैवलियुम् तन्वलियुम् माऱ्ऱान् वलियुम्  
 तुणैवलियुम् तूक्किच् चॆयल्।       ४७१
 </details>
 
@@ -336,8 +336,8 @@ Ends the life as his body rips.        476
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७७</summary>
 
-आट्रिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
-पोट्रि वऴङ्गु नॆऱि।       ४७७
+आऱ्ऱिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
+पोऱ्ऱि वऴङ्गु नॆऱि।       ४७७
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७७</summary>
@@ -385,8 +385,8 @@ This way give and guard your treasure.        477
 
 <details><summary>मूलम् - ४७७</summary>
 
-आट्रिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
-पोट्रि वऴङ्गु नॆऱि।       ४७७
+आऱ्ऱिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
+पोऱ्ऱि वऴङ्गु नॆऱि।       ४७७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७८</summary>
@@ -447,7 +447,7 @@ No matter how small income is.        478
 <details open><summary>विश्वास-प्रस्तुतिः - ४७९</summary>
 
 अळवऱ஧न्दु वाऴादान् वाऴ्क्कै उळबोल  
-इल्लागित् तोण्ड्राक् कॆडुम्।       ४७९
+इल्लागित् तोऩ्ऱाक् कॆडुम्।       ४७९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७९</summary>
@@ -501,7 +501,7 @@ His life seems rich but thins and ends.        479
 <details><summary>मूलम् - ४७९</summary>
 
 अळवऱ஧न्दु वाऴादान् वाऴ्क्कै उळबोल  
-इल्लागित् तोण्ड्राक् कॆडुम्।       ४७९
+इल्लागित् तोऩ्ऱाक् कॆडुम्।       ४७९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८०</summary>

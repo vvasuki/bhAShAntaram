@@ -282,8 +282,8 @@ Leads to doubt ev'n that he has got.        845
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४६</summary>
 
-अट्रम् मऱैत्तलो पुल्लऱिवु तम्वयिन्  
-कुट्रम् मऱैया वऴि।       ८४६
+अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिन्  
+कुऱ्ऱम् मऱैया वऴि।       ८४६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४६</summary>
@@ -331,8 +331,8 @@ And yet their glaring faults reveal.        846
 
 <details><summary>मूलम् - ८४६</summary>
 
-अट्रम् मऱैत्तलो पुल्लऱिवु तम्वयिन्  
-कुट्रम् मऱैया वऴि।       ८४६
+अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिन्  
+कुऱ्ऱम् मऱैया वऴि।       ८४६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४७</summary>

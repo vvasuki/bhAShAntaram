@@ -6,7 +6,7 @@ title = "११ पेदैमै"
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३१</summary>
 
-पेदैमै ऎन्बदॊण्ड्रु यादॆनिन् एदङ्गॊण्डु  
+पेदैमै ऎन्बदॊऩ्ऱु यादॆनिन् एदङ्गॊण्डु  
 ऊदियम् पोग विडल्।      ८३१
 </details>
 
@@ -56,7 +56,7 @@ To favour loss and forego gain.        831
 
 <details><summary>मूलम् - ८३१</summary>
 
-पेदैमै ऎन्बदॊण्ड्रु यादॆनिन् एदङ्गॊण्डु  
+पेदैमै ऎन्बदॊऩ्ऱु यादॆनिन् एदङ्गॊण्डु  
 ऊदियम् पोग विडल्।      ८३१
 </details>
 
@@ -122,7 +122,7 @@ A lewd and lawless life so bad.        832
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३३</summary>
 
-नाणामै नाडामै नारिन्मै यादॊण्ड्रुम्  
+नाणामै नाडामै नारिन्मै यादॊऩ्ऱुम्  
 पेणामै पेदै तॊऴिल्       ८३३
 </details>
 
@@ -171,7 +171,7 @@ Such are the marks of foolishness.        833
 
 <details><summary>मूलम् - ८३३</summary>
 
-नाणामै नाडामै नारिन्मै यादॊण्ड्रुम्  
+नाणामै नाडामै नारिन्मै यादॊऩ्ऱुम्  
 पेणामै पेदै तॊऴिल्       ८३३
 </details>
 
@@ -232,7 +232,7 @@ Knows, teaches, but self-control spurns.        834
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३५</summary>
 
-ऒरुमैच् चॆयलाट्रुम् पेदै ऎऴुमैयुम्  
+ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्  
 तान्बुक् कऴुन्दुम् अळऱु।      ८३५
 </details>
 
@@ -281,13 +281,13 @@ In single birth of hellish ills.        835
 
 <details><summary>मूलम् - ८३५</summary>
 
-ऒरुमैच् चॆयलाट्रुम् पेदै ऎऴुमैयुम्  
+ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्  
 तान्बुक् कऴुन्दुम् अळऱु।      ८३५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३६</summary>
 
-पॊय्बडुम् ऒण्ड्रो पुनैबूणुम् कैयऱियाप्  
+पॊय्बडुम् ऒऩ्ऱो पुनैबूणुम् कैयऱियाप्  
 पेदै विनैमेऱ्कॊळिन्।      ८३६
 </details>
 
@@ -336,14 +336,14 @@ Not only fails but feels fettered.        836
 
 <details><summary>मूलम् - ८३६</summary>
 
-पॊय्बडुम् ऒण्ड्रो पुनैबूणुम् कैयऱियाप्  
+पॊय्बडुम् ऒऩ्ऱो पुनैबूणुम् कैयऱियाप्  
 पेदै विनैमेऱ्कॊळिन्।      ८३६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३७</summary>
 
 एदिलार् आरत् तमर्बसिप्पर् पेदै  
-पॆरुञ्जॆल्वम् उट्रक् कडै।      ८३७
+पॆरुञ्जॆल्वम् उऱ्ऱक् कडै।      ८३७
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३७</summary>
@@ -392,13 +392,13 @@ When fools mishandle fortunes vast.        837
 <details><summary>मूलम् - ८३७</summary>
 
 एदिलार् आरत् तमर्बसिप्पर् पेदै  
-पॆरुञ्जॆल्वम् उट्रक् कडै।      ८३७
+पॆरुञ्जॆल्वम् उऱ्ऱक् कडै।      ८३७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३८</summary>
 
-मैयल् ऒरुवन् कळित्तट्राल् पेदैदन्  
-कैयॊण्ड्रु उडैमै पॆऱिन्।      ८३८
+मैयल् ऒरुवन् कळित्तऱ्ऱाल् पेदैदन्  
+कैयॊऩ्ऱु उडैमै पॆऱिन्।      ८३८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३८</summary>
@@ -446,8 +446,8 @@ Like dazed and drunken stupids stand.        838
 
 <details><summary>मूलम् - ८३८</summary>
 
-मैयल् ऒरुवन् कळित्तट्राल् पेदैदन्  
-कैयॊण्ड्रु उडैमै पॆऱिन्।      ८३८
+मैयल् ऒरुवन् कळित्तऱ्ऱाल् पेदैदन्  
+कैयॊऩ्ऱु उडैमै पॆऱिन्।      ८३८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३९</summary>
@@ -507,7 +507,7 @@ For without a groan we part.        839
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४०</summary>
 
-कऴाअक्काल् पळ्ळियुळ् वैत्तट्राल् साण्ड्रोर्  
+कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्  
 कुऴाअत्तुप् पेदै पुगल्।       ८४०
 </details>
 
@@ -527,7 +527,7 @@ Is like entering a shrine with unclean legs.
 
 <details><summary>NVK Ashraf notes (en) - ८४०</summary>
 
-८४०. The word "पळ्ळि" here is usually taken by almost all translators as "bed". If we are to translate "कऴाक् काल् पळ्ळियुळ् वैत्तट्राल्" as "placing a dirty foot on a clean bed" – as it is usually done – then the phrase employed by Valluvar should have been "पळ्ळिमेल्" and not "पळ्ळियुळ्" as is the case here. The monasteries of the Jains and Buddhist monks were called "पळ्ळि" in the ancient Tamil country [Varadarajan, १९८८]. Following the near total disappearance of Buddhism and Jainism from Southern India, this word has now been used to denote the places of worship of Muslims and Christians. Hindu temples were always called by the names कोयिल्, आलयम्, अम्बलम् and never by the word पळ्ळि. 
+८४०. The word "पळ्ळि" here is usually taken by almost all translators as "bed". If we are to translate "कऴाक् काल् पळ्ळियुळ् वैत्तऱ्ऱाल्" as "placing a dirty foot on a clean bed" – as it is usually done – then the phrase employed by Valluvar should have been "पळ्ळिमेल्" and not "पळ्ळियुळ्" as is the case here. The monasteries of the Jains and Buddhist monks were called "पळ्ळि" in the ancient Tamil country [Varadarajan, १९८८]. Following the near total disappearance of Buddhism and Jainism from Southern India, this word has now been used to denote the places of worship of Muslims and Christians. Hindu temples were always called by the names कोयिल्, आलयम्, अम्बलम् and never by the word पळ्ळि. 
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४०</summary>
@@ -560,6 +560,6 @@ Looks like couch trod by unclean feet.        840
 
 <details><summary>मूलम् - ८४०</summary>
 
-कऴाअक्काल् पळ्ळियुळ् वैत्तट्राल् साण्ड्रोर्  
+कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्  
 कुऴाअत्तुप् पेदै पुगल्।       ८४०
 </details>

@@ -120,7 +120,7 @@ Love only for their selfish gain.        912
 <details open><summary>विश्वास-प्रस्तुतिः - ९१३</summary>
 
 पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
-एदिल् पिणन्दऴीइ अट्रु।      ९१३
+एदिल् पिणन्दऴीइ अऱ्ऱु।      ९१३
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१३</summary>
@@ -174,7 +174,7 @@ That of a damned corpse in the dark.        913
 <details><summary>मूलम् - ९१३</summary>
 
 पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
-एदिल् पिणन्दऴीइ अट्रु।      ९१३
+एदिल् पिणन्दऴीइ अऱ्ऱु।      ९१३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९१४</summary>

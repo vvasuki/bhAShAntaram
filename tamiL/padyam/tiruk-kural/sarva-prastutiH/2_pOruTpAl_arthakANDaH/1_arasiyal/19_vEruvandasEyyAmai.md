@@ -176,7 +176,7 @@ Brings king's ruin quick indeed.        563
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५६४</summary>
 
-इऱैगडियन् ऎण्ड्रुरैक्कुम् इन्नाच्चॊल् वेन्दन्  
+इऱैगडियन् ऎऩ्ऱुरैक्कुम् इन्नाच्चॊल् वेन्दन्  
 उऱैगडुगि ऒल्लैक् कॆडुम्।       ५६४
 </details>
 
@@ -225,7 +225,7 @@ His days dwindled, hasten his fall.        564
 
 <details><summary>मूलम् - ५६४</summary>
 
-इऱैगडियन् ऎण्ड्रुरैक्कुम् इन्नाच्चॊल् वेन्दन्  
+इऱैगडियन् ऎऩ्ऱुरैक्कुम् इन्नाच्चॊल् वेन्दन्  
 उऱैगडुगि ऒल्लैक् कॆडुम्।       ५६४
 </details>
 
@@ -287,7 +287,7 @@ His wealth seems watched by a ghoul.        565
 <details open><summary>विश्वास-प्रस्तुतिः - ५६६</summary>
 
 कडुञ्जॊल्लन् कण्णिलन् आयिन् नॆडुञ्जॆल्वम्  
-नीडिण्ड्रि आङ्गे कॆडुम्।       ५६६
+नीडिऩ्ऱि आङ्गे कॆडुम्।       ५६६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६६</summary>
@@ -336,7 +336,7 @@ His wealth and power quickly fade.        566
 <details><summary>मूलम् - ५६६</summary>
 
 कडुञ्जॊल्लन् कण्णिलन् आयिन् नॆडुञ्जॆल्वम्  
-नीडिण्ड्रि आङ्गे कॆडुम्।       ५६६
+नीडिऩ्ऱि आङ्गे कॆडुम्।       ५६६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५६७</summary>
@@ -396,7 +396,7 @@ Like files conquering power corrode.        567
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५६८</summary>
 
-इनत्ताट्रि ऎण्णाद वेन्दन् सिनत्ताट्रिच्  
+इनत्ताऱ्ऱि ऎण्णाद वेन्दन् सिनत्ताऱ्ऱिच्  
 चीऱिऱ्चिऱुगुम् तिरु।       ५६८
 </details>
 
@@ -445,7 +445,7 @@ Rages with wrath-his fortune fails.        568
 
 <details><summary>मूलम् - ५६८</summary>
 
-इनत्ताट्रि ऎण्णाद वेन्दन् सिनत्ताट्रिच्  
+इनत्ताऱ्ऱि ऎण्णाद वेन्दन् सिनत्ताऱ्ऱिच्  
 चीऱिऱ्चिऱुगुम् तिरु।       ५६८
 </details>
 

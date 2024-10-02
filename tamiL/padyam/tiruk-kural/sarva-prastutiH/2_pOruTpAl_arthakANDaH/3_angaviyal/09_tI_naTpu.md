@@ -7,7 +7,7 @@ title = "०९ ती नट्पु"
 <details open><summary>विश्वास-प्रस्तुतिः - ८११</summary>
 
 परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
-पॆरुगलिऱ्कुण्ड्रल् इनिदु।      ८११
+पॆरुगलिऱ्कुऩ्ऱल् इनिदु।      ८११
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८११</summary>
@@ -57,7 +57,7 @@ Had better wane than wax anon.        811
 <details><summary>मूलम् - ८११</summary>
 
 परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
-पॆरुगलिऱ्कुण्ड्रल् इनिदु।      ८११
+पॆरुगलिऱ्कुऩ्ऱल् इनिदु।      ८११
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१२</summary>
@@ -177,7 +177,7 @@ Are like thieves and whores wicked.        813
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१४</summary>
 
-अमरगत्तु आट्रऱुक्कुम् कल्लामा अन्नार्  
+अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अन्नार्  
 तमरिन् तनिमै तलै।       ८१४
 </details>
 
@@ -226,14 +226,14 @@ That throw in field like faithless horse.        814
 
 <details><summary>मूलम् - ८१४</summary>
 
-अमरगत्तु आट्रऱुक्कुम् कल्लामा अन्नार्  
+अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अन्नार्  
 तमरिन् तनिमै तलै।       ८१४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१५</summary>
 
 सॆय्देमञ् जाराच् चिऱियवर् पुन्गेण्मै  
-ऎय्दलिन् ऎय्दामै नण्ड्रु।      ८१५
+ऎय्दलिन् ऎय्दामै नऩ्ऱु।      ८१५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१५</summary>
@@ -282,7 +282,7 @@ Leave them is better than to keep.        815
 <details><summary>मूलम् - ८१५</summary>
 
 सॆय्देमञ् जाराच् चिऱियवर् पुन्गेण्मै  
-ऎय्दलिन् ऎय्दामै नण्ड्रु।      ८१५
+ऎय्दलिन् ऎय्दामै नऩ्ऱु।      ८१५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१६</summary>
@@ -397,7 +397,7 @@ Than from friends who are vain laughers.        817
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१८</summary>
 
-ऒल्लुम् करुमम् उडट्रु पवर्गेण्मै  
+ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै  
 सॊल्लाडार् सोर विडल्।       ८१८
 </details>
 
@@ -446,7 +446,7 @@ Who spoil deeds which they can do.        818
 
 <details><summary>मूलम् - ८१८</summary>
 
-ऒल्लुम् करुमम् उडट्रु पवर्गेण्मै  
+ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै  
 सॊल्लाडार् सोर विडल्।       ८१८
 </details>
 
@@ -508,7 +508,7 @@ With those whose deed is far from word.        819
 <details open><summary>विश्वास-प्रस्तुतिः - ८२०</summary>
 
 ऎनैत्तुम् कुऱुगुदल् ओम्बल् मनैक्कॆऴीइ  
-मण्ड्रिल् पऴिप्पार् तॊडर्बु।      ८२०
+मऩ्ऱिल् पऴिप्पार् तॊडर्बु।      ८२०
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२०</summary>
@@ -556,5 +556,5 @@ At home and in public revile.        820
 <details><summary>मूलम् - ८२०</summary>
 
 ऎनैत्तुम् कुऱुगुदल् ओम्बल् मनैक्कॆऴीइ  
-मण्ड्रिल् पऴिप्पार् तॊडर्बु।      ८२०
+मऩ्ऱिल् पऴिप्पार् तॊडर्बु।      ८२०
 </details>

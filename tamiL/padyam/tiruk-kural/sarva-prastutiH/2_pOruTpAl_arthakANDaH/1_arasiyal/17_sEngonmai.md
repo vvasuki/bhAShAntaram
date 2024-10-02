@@ -117,7 +117,7 @@ And mankind to king's rod of justice.        542
 <details open><summary>विश्वास-प्रस्तुतिः - ५४३</summary>
 
 अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्  
-निण्ड्रदु मन्नवन् कोल्।       ५४३
+निऩ्ऱदु मन्नवन् कोल्।       ५४३
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४३</summary>
@@ -166,7 +166,7 @@ From the sceptre of a stately king.        543
 <details><summary>मूलम् - ५४३</summary>
 
 अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्  
-निण्ड्रदु मन्नवन् कोल्।       ५४३
+निऩ्ऱदु मन्नवन् कोल्।       ५४३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५४४</summary>
@@ -286,7 +286,7 @@ Which is ruled by a righteous hand.        545
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५४६</summary>
 
-वेलण्ड्रु वॆण्ड्रि तरुवदु मन्नवन्  
+वेलऩ्ऱु वॆऩ्ऱि तरुवदु मन्नवन्  
 कोलदूउङ् गोडा तॆनिन्।       ५४६
 </details>
 
@@ -335,7 +335,7 @@ That brings success to monarch's might.        546
 
 <details><summary>मूलम् - ५४६</summary>
 
-वेलण्ड्रु वॆण्ड्रि तरुवदु मन्नवन्  
+वेलऩ्ऱु वॆऩ्ऱि तरुवदु मन्नवन्  
 कोलदूउङ् गोडा तॆनिन्।       ५४६
 </details>
 
@@ -451,8 +451,8 @@ He shall himself his ruin bring.        548
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५४९</summary>
 
-कुडिबुऱङ् गात्तोम्बिक् कुट्रम् कडिदल्  
-वडुवण्ड्रु वेन्दन् तॊऴिल्।       ५४९
+कुडिबुऱङ् गात्तोम्बिक् कुऱ्ऱम् कडिदल्  
+वडुवऩ्ऱु वेन्दन् तॊऴिल्।       ५४९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४९</summary>
@@ -500,8 +500,8 @@ Is flawless duty of a king.        549
 
 <details><summary>मूलम् - ५४९</summary>
 
-कुडिबुऱङ् गात्तोम्बिक् कुट्रम् कडिदल्  
-वडुवण्ड्रु वेन्दन् तॊऴिल्।       ५४९
+कुडिबुऱङ् गात्तोम्बिक् कुऱ्ऱम् कडिदल्  
+वडुवऩ्ऱु वेन्दन् तॊऴिल्।       ५४९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५५०</summary>

@@ -63,7 +63,7 @@ That brings the beloved's love-mission?        1211
 <details open><summary>विश्वास-प्रस्तुतिः - १२१२</summary>
 
 कयलुण्गण् यानिरप्पत् तुञ्जिऱ्कलन्दार्क्कु  
-उयलुण्मै साट्रुवेन् मन्।      १२१२
+उयलुण्मै साऱ्ऱुवेन् मन्।      १२१२
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१२</summary>
@@ -113,7 +113,7 @@ To tell my lover how life I keep.        1212
 <details><summary>मूलम् - १२१२</summary>
 
 कयलुण्गण् यानिरप्पत् तुञ्जिऱ्कलन्दार्क्कु  
-उयलुण्मै साट्रुवेन् मन्।      १२१२
+उयलुण्मै साऱ्ऱुवेन् मन्।      १२१२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२१३</summary>
@@ -285,7 +285,7 @@ Awake- What of seeing him -hence.        1215
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२१६</summary>
 
-ननवॆन ऒण्ड्रिल्लै आयिन् कनविनाल्  
+ननवॆन ऒऩ्ऱिल्लै आयिन् कनविनाल्  
 कादलर् नीङ्गलर् मन्।       १२१६
 </details>
 
@@ -340,7 +340,7 @@ My lov'r in dreams would nev'r depart        1216
 
 <details><summary>मूलम् - १२१६</summary>
 
-ननवॆन ऒण्ड्रिल्लै आयिन् कनविनाल्  
+ननवॆन ऒऩ्ऱिल्लै आयिन् कनविनाल्  
 कादलर् नीङ्गलर् मन्।       १२१६
 </details>
 

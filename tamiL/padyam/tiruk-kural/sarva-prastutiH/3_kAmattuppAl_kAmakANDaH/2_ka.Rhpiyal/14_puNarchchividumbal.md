@@ -148,7 +148,7 @@ My eyes will not rest till they see him.
 
 <details><summary>NVK Ashraf notes (en) - १२८३</summary>
 
-१२८३. Compare with ११७८. Five of the seven seers (metrical feet) between these two couplets are same! “पेणादु पॆट्टार् उळर्-मन्नो मट्रु अवर्क् काणादु अमैवु इल कण्.”
+१२८३. Compare with ११७८. Five of the seven seers (metrical feet) between these two couplets are same! “पेणादु पॆट्टार् उळर्-मन्नो मऱ्ऱु अवर्क् काणादु अमैवु इल कण्.”
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२८३</summary>
@@ -189,8 +189,8 @@ My restless eyes would see him still.        1283
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२८४</summary>
 
-ऊडऱ्कण् सॆण्ड्रेन्मन् तोऴि अदुमऱन्दु  
-कूडऱ्कण् सॆण्ड्रदु ऎन् नॆञ्जु।      १२८४
+ऊडऱ्कण् सॆऩ्ऱेन्मन् तोऴि अदुमऱन्दु  
+कूडऱ्कण् सॆऩ्ऱदु ऎन् नॆञ्जु।      १२८४
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८४</summary>
@@ -244,8 +244,8 @@ And leap to embrace him direct.        1284
 
 <details><summary>मूलम् - १२८४</summary>
 
-ऊडऱ्कण् सॆण्ड्रेन्मन् तोऴि अदुमऱन्दु  
-कूडऱ्कण् सॆण्ड्रदु ऎन् नॆञ्जु।      १२८४
+ऊडऱ्कण् सॆऩ्ऱेन्मन् तोऴि अदुमऱन्दु  
+कूडऱ्कण् सॆऩ्ऱदु ऎन् नॆञ्जु।      १२८४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२८५</summary>
@@ -419,7 +419,7 @@ When lord is close to feign a huff.        1287
 <details open><summary>विश्वास-प्रस्तुतिः - १२८८</summary>
 
 इळित्तक्क इन्ना सॆयिनुम् कळित्तार्क्कुक्  
-कळ्ळट्रे कळ्वनिन् मार्बु।      १२८८
+कळ्ळऱ्ऱे कळ्वनिन् मार्बु।      १२८८
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८८</summary>
@@ -474,7 +474,7 @@ Your breast, O thief, is for my embrace!        1288
 <details><summary>मूलम् - १२८८</summary>
 
 इळित्तक्क इन्ना सॆयिनुम् कळित्तार्क्कुक्  
-कळ्ळट्रे कळ्वनिन् मार्बु।      १२८८
+कळ्ळऱ्ऱे कळ्वनिन् मार्बु।      १२८८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२८९</summary>
@@ -535,7 +535,7 @@ Know its delicacy so fine.        1289
 <details open><summary>विश्वास-प्रस्तुतिः - १२९०</summary>
 
 कण्णिन् तुनित्ते कलङ्गिनाळ् पुल्लुदल्  
-ऎन्निनुम् तान्विदुप् पुट्रु।      १२९०
+ऎन्निनुम् तान्विदुप् पुऱ्ऱु।      १२९०
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९०</summary>
@@ -584,5 +584,5 @@ Faster for embrace than I do.        1290
 <details><summary>मूलम् - १२९०</summary>
 
 कण्णिन् तुनित्ते कलङ्गिनाळ् पुल्लुदल्  
-ऎन्निनुम् तान्विदुप् पुट्रु।      १२९०
+ऎन्निनुम् तान्विदुप् पुऱ्ऱु।      १२९०
 </details>

@@ -61,8 +61,8 @@ Is worse than cruel murderer.        551
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५५२</summary>
 
-वेलॊडु निण्ड्रान् इडुवॆन् ऱदुबोलुम्  
-कोलॊडु निण्ड्रान् इरवु।       ५५२
+वेलॊडु निऩ्ऱान् इडुवॆन् ऱदुबोलुम्  
+कोलॊडु निऩ्ऱान् इरवु।       ५५२
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५२</summary>
@@ -110,8 +110,8 @@ Is "give" of lanced robber bold.        552
 
 <details><summary>मूलम् - ५५२</summary>
 
-वेलॊडु निण्ड्रान् इडुवॆन् ऱदुबोलुम्  
-कोलॊडु निण्ड्रान् इरवु।       ५५२
+वेलॊडु निऩ्ऱान् इडुवॆन् ऱदुबोलुम्  
+कोलॊडु निऩ्ऱान् इरवु।       ५५२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५५३</summary>
@@ -226,7 +226,7 @@ If his sceptre he dares abuse.        554
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५५५</summary>
 
-अल्लऱ्पट्टु आट्रादु अऴुदगण् णीरण्ड्रे  
+अल्लऱ्पट्टु आऱ्ऱादु अऴुदगण् णीरऩ्ऱे  
 सॆल्वत्तैत् तेय्क्कुम् पडै       ५५५
 </details>
 
@@ -246,7 +246,7 @@ That wear out the prosperity of the king.
 
 <details><summary>NVK Ashraf notes (en) - ५५५</summary>
 
-५५५. The couplet is sometimes shown ending with a question mark. The phrase is "कण्णीरण्ड्रे" and not "कण्णीरण्ड्रो". A good abridgment of the verse is given by (K. Krishnaswamy & Vijaya Ramkumar): "The tears resulting from suffering caused by the king will be the cause of his undoing"
+५५५. The couplet is sometimes shown ending with a question mark. The phrase is "कण्णीरऩ्ऱे" and not "कण्णीरऩ्ऱो". A good abridgment of the verse is given by (K. Krishnaswamy & Vijaya Ramkumar): "The tears resulting from suffering caused by the king will be the cause of his undoing"
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५५</summary>
@@ -280,13 +280,13 @@ File the royal wealth away.        555
 
 <details><summary>मूलम् - ५५५</summary>
 
-अल्लऱ्पट्टु आट्रादु अऴुदगण् णीरण्ड्रे  
+अल्लऱ्पट्टु आऱ्ऱादु अऴुदगण् णीरऩ्ऱे  
 सॆल्वत्तैत् तेय्क्कुम् पडै       ५५५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५५६</summary>
 
-मन्नर्क्कु मन्नुदल् सॆङ्गोन्मै अह्दिण्ड्रेल्  
+मन्नर्क्कु मन्नुदल् सॆङ्गोन्मै अह्दिऩ्ऱेल्  
 मन्नावाम् मन्नर्क् कॊळि।       ५५६
 </details>
 
@@ -335,13 +335,13 @@ Without it wanes the royal light.        556
 
 <details><summary>मूलम् - ५५६</summary>
 
-मन्नर्क्कु मन्नुदल् सॆङ्गोन्मै अह्दिण्ड्रेल्  
+मन्नर्क्कु मन्नुदल् सॆङ्गोन्मै अह्दिऩ्ऱेल्  
 मन्नावाम् मन्नर्क् कॊळि।       ५५६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५५७</summary>
 
-तुळियिन्मै ञालत्तिऱ्कु ऎट्रट्रे वेन्दन्  
+तुळियिन्मै ञालत्तिऱ्कु ऎऱ्ऱऱ्ऱे वेन्दन्  
 अळियिन्मै वाऴुम् उयिर्क्कु।       ५५७
 </details>
 
@@ -395,7 +395,7 @@ Is graceless king to creatures all.        557
 
 <details><summary>मूलम् - ५५७</summary>
 
-तुळियिन्मै ञालत्तिऱ्कु ऎट्रट्रे वेन्दन्  
+तुळियिन्मै ञालत्तिऱ्कु ऎऱ्ऱऱ्ऱे वेन्दन्  
 अळियिन्मै वाऴुम् उयिर्क्कु।       ५५७
 </details>
 
@@ -511,7 +511,7 @@ If the king misuses his power.        559
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५६०</summary>
 
-आबयन् कुण्ड्रुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
+आबयन् कुऩ्ऱुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
 कावलन् कावान् ऎनिन्।       ५६०
 </details>
 
@@ -564,6 +564,6 @@ Cows give less if kings guard no more.         560
 
 <details><summary>मूलम् - ५६०</summary>
 
-आबयन् कुण्ड्रुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
+आबयन् कुऩ्ऱुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
 कावलन् कावान् ऎनिन्।       ५६०
 </details>

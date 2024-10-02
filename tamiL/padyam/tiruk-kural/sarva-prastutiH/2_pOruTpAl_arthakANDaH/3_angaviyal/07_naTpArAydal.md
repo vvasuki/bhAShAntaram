@@ -122,7 +122,7 @@ Shall end in grief and death at last.        792
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९३</summary>
 
-कुणमुम् कुडिमैयुम् कुट्रमुम् कुण्ड्रा  
+कुणमुम् कुडिमैयुम् कुऱ्ऱमुम् कुऩ्ऱा  
 इननुम् अऱिन्दियाक्क नट्पु।      ७९३
 </details>
 
@@ -171,7 +171,7 @@ Trace well and take companions.        793
 
 <details><summary>मूलम् - ७९३</summary>
 
-कुणमुम् कुडिमैयुम् कुट्रमुम् कुण्ड्रा  
+कुणमुम् कुडिमैयुम् कुऱ्ऱमुम् कुऩ्ऱा  
 इननुम् अऱिन्दियाक्क नट्पु।      ७९३
 </details>
 
@@ -403,7 +403,7 @@ The greatest gain so say the wise.        797
 <details open><summary>विश्वास-प्रस्तुतिः - ७९८</summary>
 
 उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क  
-अल्लऱ्कण् आट्रऱुप्पार् नट्पु।       ७९८
+अल्लऱ्कण् आऱ्ऱऱुप्पार् नट्पु।       ७९८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९८</summary>
@@ -452,7 +452,7 @@ Off with friends that in woe depart.        798
 <details><summary>मूलम् - ७९८</summary>
 
 उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क  
-अल्लऱ्कण् आट्रऱुप्पार् नट्पु।       ७९८
+अल्लऱ्कण् आऱ्ऱऱुप्पार् नट्पु।       ७९८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९९</summary>
@@ -512,7 +512,7 @@ Burn our mind ev'n at death to think.        799
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८००</summary>
 
-मरुवुग मासट्रार् केण्मैऒन् ऱीत्तुम्  
+मरुवुग मासऱ्ऱार् केण्मैऒन् ऱीत्तुम्  
 ऒरुवुग ऒप्पिलार् नट्पु।      ८००
 </details>
 
@@ -565,6 +565,6 @@ Give something and give up the base.        800
 
 <details><summary>मूलम् - ८००</summary>
 
-मरुवुग मासट्रार् केण्मैऒन् ऱीत्तुम्  
+मरुवुग मासऱ्ऱार् केण्मैऒन् ऱीत्तुम्  
 ऒरुवुग ऒप्पिलार् नट्पु।      ८००
 </details>

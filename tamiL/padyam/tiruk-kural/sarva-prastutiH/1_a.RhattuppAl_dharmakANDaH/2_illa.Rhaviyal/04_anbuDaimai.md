@@ -231,8 +231,8 @@ Friendship springs up in excellence.         74
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७५</summary>
 
-अन्बुट्रु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
-इन्बुट्रार् ऎय्दुम् सिऱप्पु।      ७५
+अन्बुऱ्ऱु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
+इन्बुऱ्ऱार् ऎय्दुम् सिऱप्पु।      ७५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५</summary>
@@ -280,8 +280,8 @@ From peaceful psychic love always.         75
 
 <details><summary>मूलम् - ७५</summary>
 
-अन्बुट्रु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
-इन्बुट्रार् ऎय्दुम् सिऱप्पु।      ७५
+अन्बुऱ्ऱु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
+इन्बुऱ्ऱार् ऎय्दुम् सिऱप्पु।      ७५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७६</summary>
@@ -402,7 +402,7 @@ Like solar blaze the boneless worm.         77
 <details open><summary>विश्वास-प्रस्तुतिः - ७८</summary>
 
 अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्बाऱ्कण्  
-वट्रल् मरन्दळिर्त् तट्रु।      ७८
+वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु।      ७८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८</summary>
@@ -451,7 +451,7 @@ Can sapless tree in desert bloom?         78
 <details><summary>मूलम् - ७८</summary>
 
 अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्बाऱ्कण्  
-वट्रल् मरन्दळिर्त् तट्रु।      ७८
+वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु।      ७८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९</summary>

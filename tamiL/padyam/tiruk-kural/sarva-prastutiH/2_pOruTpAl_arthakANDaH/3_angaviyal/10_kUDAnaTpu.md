@@ -62,7 +62,7 @@ Is anvil in time, to strike you down.        821
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
 
-इनम्बोण्ड्रु इनमल्लार् केण्मै मगळिर्  
+इनम्बोऩ्ऱु इनमल्लार् केण्मै मगळिर्  
 मनम्बोल वेऱु पडुम्।       ८२२
 </details>
 
@@ -111,13 +111,13 @@ Their friendship's fickle like woman's heart.        822
 
 <details><summary>मूलम् - ८२२</summary>
 
-इनम्बोण्ड्रु इनमल्लार् केण्मै मगळिर्  
+इनम्बोऩ्ऱु इनमल्लार् केण्मै मगळिर्  
 मनम्बोल वेऱु पडुम्।       ८२२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
 
-पलनल्ल कट्रक् कडैत्तु मननल्लर्  
+पलनल्ल कऱ्ऱक् कडैत्तु मननल्लर्  
 आगुदल् माणार्क् करिदु।      ८२३
 </details>
 
@@ -166,7 +166,7 @@ But heartfelt-love is hard for foes.        823
 
 <details><summary>मूलम् - ८२३</summary>
 
-पलनल्ल कट्रक् कडैत्तु मननल्लर्  
+पलनल्ल कऱ्ऱक् कडैत्तु मननल्लर्  
 आगुदल् माणार्क् करिदु।      ८२३
 </details>
 
@@ -232,8 +232,8 @@ Whose heart is full of cunning guiles.        824
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
 
-मनत्तिन् अमैया तवरै ऎनैत्तॊण्ड्रुम्  
-सॊल्लिनाल् तेऱऱ्पाट्रु अण्ड्रु।      ८२५
+मनत्तिन् अमैया तवरै ऎनैत्तॊऩ्ऱुम्  
+सॊल्लिनाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु।      ८२५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२५</summary>
@@ -286,8 +286,8 @@ Whose mind with your mind goes ill.        825
 
 <details><summary>मूलम् - ८२५</summary>
 
-मनत्तिन् अमैया तवरै ऎनैत्तॊण्ड्रुम्  
-सॊल्लिनाल् तेऱऱ्पाट्रु अण्ड्रु।      ८२५
+मनत्तिन् अमैया तवरै ऎनैत्तॊऩ्ऱुम्  
+सॊल्लिनाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु।      ८२५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
@@ -458,7 +458,7 @@ Their sobbing tears have lurking harms.        828
 <details open><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
 
 मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
-नट्पिनुळ् साप्पुल्लऱ्पाट्रु।       ८२९
+नट्पिनुळ् साप्पुल्लऱ्पाऱ्ऱु।       ८२९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२९</summary>
@@ -507,7 +507,7 @@ Cajole and crush them in friendly guise.        829
 <details><summary>मूलम् - ८२९</summary>
 
 मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
-नट्पिनुळ् साप्पुल्लऱ्पाट्रु।       ८२९
+नट्पिनुळ् साप्पुल्लऱ्पाऱ्ऱु।       ८२९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
