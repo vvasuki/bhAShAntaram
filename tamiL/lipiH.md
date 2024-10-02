@@ -24,7 +24,7 @@ unicode_script = "devanagari"
     - க ங
     - ச ஞ
     - ட ண
-    - த ந ன (alveolar)
+    - த ந ன (alveolar, oft  used before ற, vowel+? வ or word-end)
     - ப ம
   - अवर्गीयाणि
     - ய 
