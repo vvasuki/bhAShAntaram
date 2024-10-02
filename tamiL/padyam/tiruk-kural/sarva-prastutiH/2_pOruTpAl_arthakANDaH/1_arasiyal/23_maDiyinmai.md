@@ -56,8 +56,8 @@ When foul idleness encloses.        601
 
 <details><summary>मूलम् - ६०१</summary>
 
-कुडियॆन्नुम् कुऩ्ऱा विळक्कम् मडियॆन्नुम्  
-मासूर माय्न्दु कॆडुम्।       ६०१
+कुडियॆऩ्ऩुम् कुऩ्ऱा विळक्कम् मडियॆऩ्ऩुम्
+मासूर माय्न्दु कॆडुम्। ६०१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०२</summary>
@@ -111,8 +111,8 @@ Loath sloth as sloth; refuse it room.        602
 
 <details><summary>मूलम् - ६०२</summary>
 
-मडियै मडिया ऒऴुगल् कुडियैक्  
-कुडियाग वेण्डु पवर्।       ६०२
+मडियै मडिया ऒऴुगल् कुडियैक्
+कुडियाग वेण्डु पवर्। ६०२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०३</summary>
@@ -166,8 +166,8 @@ Before he dies ruins his house.        603
 
 <details><summary>मूलम् - ६०३</summary>
 
-मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द  
-कुडिमडियुम् तन्निनुम् मुन्दु।       ६०३
+मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द
+कुडिमडियुम् तऩ्ऩिऩुम् मुन्दु। ६०३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०४</summary>
@@ -221,8 +221,8 @@ Ruin their house by evil growth.        604
 
 <details><summary>मूलम् - ६०४</summary>
 
-कुडिमडिन्दु कुऱ्ऱम् पॆरुगुम् मडिमडिन्दु  
-माण्ड उञऱ्ऱि लवर्क्कु।       ६०४
+कुडिमडिन्दु कुऱ्ऱम् पॆरुगुम् मडिमडिन्दु
+माण्ड उञऱ्ऱि लवर्क्कु। ६०४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०५</summary>
@@ -277,8 +277,8 @@ These four are pleasure boats of loss.        605
 
 <details><summary>मूलम् - ६०५</summary>
 
-नॆडुनीर् मऱवि मडिदुयिल् नान्गुम्  
-कॆडुनीरार् कामक् कलन्।       ६०५
+नॆडुनीर् मऱवि मडिदुयिल् नाऩ्कुम्
+कॆडुनीरार् कामक् कलऩ्। ६०५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०६</summary>
@@ -332,8 +332,8 @@ The slothful gain nothing of worth.        606
 
 <details><summary>मूलम् - ६०६</summary>
 
-पडियुडैयार् पऱ्ऱमैन्दक् कण्णुम् मडियुडैयार्  
-माण्बयन् ऎय्दल् अरिदु।       ६०६
+पडियुडैयार् पऱ्ऱमैन्दक् कण्णुम् मडियुडैयार्
+माण्बयऩ् ऎय्दल् अरिदु। ६०६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०७</summary>
@@ -387,8 +387,8 @@ Subject themselves to scornful words.        607
 
 <details><summary>मूलम् - ६०७</summary>
 
-इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु  
-माण्ड उञऱ्ऱि लवर्।       ६०७
+इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु
+माण्ड उञऱ्ऱि लवर्। ६०७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०८</summary>
@@ -447,8 +447,8 @@ It will become a slave of foes.        608
 
 <details><summary>मूलम् - ६०८</summary>
 
-मडिमै कुडिमैक्कण् तङ्गिन्दन् ऒन्नार्क्कु  
-अडिमै पुगुत्ति विडुम्।       ६०८
+मडिमै कुडिमैक्कण् तङ्गिऩ्तऩ् ऒऩ्ऩार्क्कु
+अडिमै पुगुत्ति विडुम्। ६०८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६०९</summary>
@@ -502,8 +502,8 @@ When one from sloth gets his release.        609
 
 <details><summary>मूलम् - ६०९</summary>
 
-कुडियाण्मै युळ्वन्द कुऱ्ऱम् ऒरुवन्  
-मडियाण्मै माऱ्ऱक् कॆडुम्।       ६०९
+कुडियाण्मै युळ्वन्द कुऱ्ऱम् ऒरुवऩ्
+मडियाण्मै माऱ्ऱक् कॆडुम्। ६०९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६१०</summary>
@@ -562,6 +562,7 @@ The slothless king shall gain en masse
 
 <details><summary>मूलम् - ६१०</summary>
 
-मडियिला मन्नवन् ऎय्दुम् अडियळन्दान्  
-ताअय तॆल्लाम् ऒरुङ्गु।       ६१०
+मडियिला मऩ्ऩवऩ् ऎय्दुम् अडियळन्दाऩ्
+ताअय तॆल्लाम् ऒरुङ्गु। ६१०
 </details>
+

@@ -58,8 +58,8 @@ From mean degrading acts refrain.        961
 
 <details><summary>मूलम् - ९६१</summary>
 
-इऩ्ऱि अमैयाच् चिऱप्पिन आयिनुम्  
-कुऩ्ऱ वरुब विडल्।      ९६१
+इऩ्ऱि अमैयाच् चिऱप्पिऩ आयिऩुम्
+कुऩ्ऱ वरुब विडल्। ९६१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६२</summary>
@@ -119,8 +119,8 @@ Don't do mean deeds even for name.        962
 
 <details><summary>मूलम् - ९६२</summary>
 
-सीरिनुम् सीरल्ल सॆय्यारे सीरॊडु  
-पेराण्मै वेण्डु पवर्।       ९६२
+सीरिऩुम् सीरल्ल सॆय्यारे सीरॊडु
+पेराण्मै वेण्डु पवर्। ९६२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६३</summary>
@@ -174,8 +174,8 @@ In decline uphold dignity.        963
 
 <details><summary>मूलम् - ९६३</summary>
 
-पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
-सुरुक्कत्तु वेण्डुम् उयर्वु।       ९६३
+पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय
+सुरुक्कत्तु वेण्डुम् उयर्वु। ९६३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६४</summary>
@@ -230,8 +230,8 @@ Who fall down from their high status.        964
 
 <details><summary>मूलम् - ९६४</summary>
 
-तलैयिन् इऴिन्द मयिरनैयर् मान्दर्  
-निलैयिन् इऴिन्दक् कडै।       ९६४
+तलैयिऩ् इऴिन्द मयिरऩैयर् मान्दर्
+निलैयिऩ् इऴिन्दक् कडै। ९६४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६५</summary>
@@ -290,8 +290,8 @@ With abrus-grain-like small default.        965
 
 <details><summary>मूलम् - ९६५</summary>
 
-कुऩ्ऱिन् अनैयारुम् कुऩ्ऱुवर् कुऩ्ऱुव  
-कुऩ्ऱि अनैय सॆयिन्।       ९६५
+कुऩ्ऱिऩ् अऩैयारुम् कुऩ्ऱुवर् कुऩ्ऱुव
+कुऩ्ऱि अऩैय सॆयिऩ्। ९६५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६६</summary>
@@ -346,8 +346,8 @@ It yields no fame, heaven's bliss neither.        966
 
 <details><summary>मूलम् - ९६६</summary>
 
-पुगऴ्इऩ्ऱाल् पुत्तेळ्नाट्टु उय्यादाल् ऎन्मऱ्ऱु  
-इगऴ्वार्बिन् सॆऩ्ऱु निलै।       ९६६
+पुगऴ्इऩ्ऱाल् पुत्तेळ्नाट्टु उय्यादाल् ऎऩ्मऱ्ऱु
+इगऴ्वार्बिऩ् सॆऩ्ऱु निलै। ९६६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६७</summary>
@@ -402,8 +402,8 @@ Than live as slaves of those who scorn.        967
 
 <details><summary>मूलम् - ९६७</summary>
 
-ऒट् टार्बिन् सॆऩ्ऱॊरुवन् वाऴ्दलिन् अन्निलैये  
-कॆट्टान् ऎनप्पडुदल् नऩ्ऱु।       ९६७
+ऒट् टार्बिऩ् सॆऩ्ऱॊरुवऩ् वाऴ्दलिऩ् अन्निलैये
+कॆट्टाऩ् ऎऩप्पडुदल् नऩ्ऱु। ९६७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६८</summary>
@@ -463,8 +463,8 @@ Even when one's honour is lost?        968
 
 <details><summary>मूलम् - ९६८</summary>
 
-मरुन्दोमऱ्ऱु ऊन्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
-पीडऴिय वन्द इडत्तु।       ९६८
+मरुन्दोमऱ्ऱु ऊऩ्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै
+पीडऴिय वन्द इडत्तु। ९६८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६९</summary>
@@ -524,8 +524,8 @@ Like a yak that loses its hair.        969
 
 <details><summary>मूलम् - ९६९</summary>
 
-मयिर्नीप्पिन् वाऴाक् कवरिमा अन्नार्  
-उयिर्नीप्पर् मानम् वरिन्।      ९६९
+मयिर्नीप्पिऩ् वाऴाक् कवरिमा अऩ्ऩार्
+उयिर्नीप्पर् माऩम् वरिऩ्। ९६९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९७०</summary>
@@ -579,6 +579,7 @@ Who will not live when honour fails.        970
 
 <details><summary>मूलम् - ९७०</summary>
 
-इळिवरिन् वाऴाद मानम् उडैयार्  
-ऒळिदॊऴुदु एत्तुम् उलगु।       ९७०
+इळिवरिऩ् वाऴाद माऩम् उडैयार्
+ऒळिदॊऴुदु एत्तुम् उलगु। ९७०
 </details>
+

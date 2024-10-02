@@ -62,8 +62,8 @@ Leads and lords the entire world.         1
 
 <details><summary>मूलम् - १</summary>
 
-अगर मुदल ऎऴुत्तॆल्लाम् आदि  
-पगवन् मुदऱ्ऱे उलगु।       १
+अगर मुदल ऎऴुत्तॆल्लाम् आदि
+भगवऩ् मुदऱ्ऱे उलगु। १
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २</summary>
@@ -119,8 +119,8 @@ At His good feet who knoweth all.         2
 
 <details><summary>मूलम् - २</summary>
 
-कऱ्ऱदनाल् आय पयनॆन्गॊल् वालऱिवन्  
-नऱ्ऱाळ् तॊऴाअर् ऎनिन्।       २
+कऱ्ऱतऩाल् आय पयऩॆऩ्कॊल् वालऱिवऩ्
+नऱ्ऱाळ् तॊऴाअर् ऎऩिऩ्। २
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३</summary>
@@ -181,8 +181,8 @@ The feet of God in florid brain.         3
 
 <details><summary>मूलम् - ३</summary>
 
-मलर्मिसै एगिनान् माणडि सेर्न्दार्  
-निलमिसै नीडु वाऴ्वार्।      ३
+मलर्मिसै एकिऩाऩ् माणडि सेर्न्दार्
+निलमिसै नीडुवाऴ् वार्। ३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४</summary>
@@ -238,8 +238,8 @@ Are free from woes of human births.         4
 
 <details><summary>मूलम् - ४</summary>
 
-वेण्डुदल् वेण्डामै इलानडि सेर्न्दार्क्कु  
-याण्डुम् इडुम्बै इल।       ४
+वेण्डुदल् वेण्डामै इलाऩटि सेर्न्दार्क्कु
+याण्डुम् इडुम्बै इल। ४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५</summary>
@@ -300,8 +300,8 @@ And wrong, the twins of dreaming night.         5
 
 <details><summary>मूलम् - ५</summary>
 
-इरुळ्सेर् इरुविनैयुम् सेरा इऱैवन्  
-पॊरुळ्सेर् पुगऴ्बुरिन्दार् माट्टु।      ५
+इरुळ्सेर् इरुविऩैयुम् सेरा इऱैवऩ्
+पॊरुळ्सेर् पुगऴ्बुरिन्दार् माट्टु। ५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६</summary>
@@ -362,8 +362,8 @@ Who has the senses signed away.         6
 
 <details><summary>मूलम् - ६</summary>
 
-पॊऱिवायिल् ऐन्दवित्तान् पॊय्दीर् ऒऴुक्क  
-नॆऱिनिऩ्ऱार् नीडुवाऴ्वार्।       ६
+पॊऱिवायिल् ऐन्दवित्ताऩ् पॊय्दीर् ऒऴुक्क
+नॆऱिनिऩ्ऱार् नीडुवाऴ् वार्। ६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७</summary>
@@ -419,8 +419,8 @@ Alone can ease the anxious mind.         7
 
 <details><summary>मूलम् - ७</summary>
 
-तनक्कुवमै इल्लादान् ताळ्सेर्न्दार्क् कल्लाल्  
-मनक्कवलै माऱ्ऱल् अरिदु।      ७
+तऩक्कुवमै इल्लादाऩ् ताळ्सेर्न्दार्क् कल्लाल्
+मऩक्कवलै माऱ्ऱल् अरिदु। ७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८</summary>
@@ -481,8 +481,8 @@ Who clasps the feet of Virtue's sea.         8
 
 <details><summary>मूलम् - ८</summary>
 
-अऱवाऴि अन्दणन् ताळ्सेर्न्दार्क् कल्लाल्  
-पिऱवाऴि नीन्दल् अरिदु।      ८
+अऱवाऴि अन्दणऩ् ताळ्सेर्न्दार्क् कल्लाल्
+पिऱवाऴि नीन्दल् अरिदु। ८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९</summary>
@@ -543,8 +543,8 @@ Which bows not to Eight-Virtued Divine.         9
 
 <details><summary>मूलम् - ९</summary>
 
-कोळिल् पॊऱियिन् कुणमिलवे ऎण्गुणत्तान्  
-ताळै वणङ्गात् तलै।      ९
+कोळिल् पॊऱियिऩ् कुणमिलवे ऎण्गुणत्ताऩ्
+ताळै वणङ्गात् तलै। ९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०</summary>
@@ -599,6 +599,7 @@ Who clench His feet and cleave to Him.        10
 
 <details><summary>मूलम् - १०</summary>
 
-पिऱविप् पॆरुङ्गडल् नीन्दुवर् नीन्दार्  
-इऱैवन् अडिसेरा तार्।       १०
+पिऱविप् पॆरुङ्गडल् नीन्दुवर् नीन्दार्
+इऱैवऩ् अडिसेरा तार्। १०
 </details>
+

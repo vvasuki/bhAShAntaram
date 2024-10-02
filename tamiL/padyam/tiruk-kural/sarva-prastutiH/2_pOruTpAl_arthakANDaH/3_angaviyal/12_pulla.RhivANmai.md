@@ -56,8 +56,8 @@ Want of aught else the world nev'r counts.        841
 
 <details><summary>मूलम् - ८४१</summary>
 
-अऱिविन्मै इन्मैयुळ् इन्मै पिऱिदिन्मै  
-इन्मैया वैया तुलगु।       ८४१
+अऱिविऩ्मै इऩ्मैयुळ् इऩ्मै पिऱिदिऩ्मै
+इऩ्मैया वैया तुलगु। ८४१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४२</summary>
@@ -111,8 +111,8 @@ It comes but by getter's merit.        842
 
 <details><summary>मूलम् - ८४२</summary>
 
-अऱिविलान् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्  
-इल्लै पॆऱुवान् तवम्।       ८४२
+अऱिविलाऩ् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्
+इल्लै पॆऱुवाऩ् तवम्। ८४२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४३</summary>
@@ -166,8 +166,8 @@ Ev'n tortures of their foes indeed.        843
 
 <details><summary>मूलम् - ८४३</summary>
 
-अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै  
-सॆऱुवार्क्कुम् सॆय्दल् अरिदु।       ८४३
+अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै
+सॆऱुवार्क्कुम् सॆय्दल् अरिदु। ८४३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४४</summary>
@@ -221,8 +221,8 @@ That cries "We have sagacity"        844
 
 <details><summary>मूलम् - ८४४</summary>
 
-वॆण्मै ऎनप्पडुव तियादॆनिन् ऒण्मै  
-उडैयम्याम् ऎन्नुम् सॆरुक्कु।       ८४४
+वॆण्मै ऎऩप्पडुव तियादॆऩिऩ् ऒण्मै
+उडैयम्याम् ऎऩ्ऩुम् सॆरुक्कु। ८४४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४५</summary>
@@ -276,8 +276,8 @@ Leads to doubt ev'n that he has got.        845
 
 <details><summary>मूलम् - ८४५</summary>
 
-कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ  
-वल्लदूउम् ऐयम् तरुम्।       ८४५
+कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ
+वल्लदूउम् ऐयम् तरुम्। ८४५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४६</summary>
@@ -331,8 +331,8 @@ And yet their glaring faults reveal.        846
 
 <details><summary>मूलम् - ८४६</summary>
 
-अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिन्  
-कुऱ्ऱम् मऱैया वऴि।       ८४६
+अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिऩ्
+कुऱ्ऱम् मऱैया वऴि। ८४६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४७</summary>
@@ -386,8 +386,8 @@ Upon himself great harm entails.        847
 
 <details><summary>मूलम् - ८४७</summary>
 
-अरुमऱै सोरुम् अऱिविलान् सॆय्युम्  
-पॆरुमिऱै ताने तनक्कु।       ८४७
+अरुमऱै सोरुम् अऱिविलाऩ् सॆय्युम्
+पॆरुमिऱै ताऩे तऩक्कु। ८४७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४८</summary>
@@ -441,8 +441,8 @@ Plague is his life until it goes.        848
 
 <details><summary>मूलम् - ८४८</summary>
 
-एववुम् सॆय्गलान् तान्देऱान् अव्वुयिर्  
-पोऒम् अळवुमोर् नोय्।       ८४८
+एववुम् सॆय्गलाऩ् ताऩ्तेऱाऩ् अव्वुयिर्
+पोऒम् अळवुमोर् नोय्। ८४८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४९</summary>
@@ -496,8 +496,8 @@ To the blind who bet their sight as right.        849
 
 <details><summary>मूलम् - ८४९</summary>
 
-काणादान् काट्टुवान् तान्गाणान् काणादान्  
-कण्डानाम् तान्गण्ड वाऱु।       ८४९
+काणादाऩ् काट्टुवाऩ् ताऩ्काणाऩ् काणादाऩ्
+कण्डाऩाम् ताऩ्कण्ड वाऱु। ८४९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८५०</summary>
@@ -550,6 +550,7 @@ Deemed as ghouls on earth they go.        850
 
 <details><summary>मूलम् - ८५०</summary>
 
-उलगत्तार् उण्डॆन्बदु इल्लॆन्बान् वैयत्तु  
-अलगैया वैक्कप् पडुम्।       ८५०
+उलगत्तार् उण्डॆऩ्पदु इल्लॆऩ्पाऩ् वैयत्तु
+अलगैया वैक्कप् पडुम्। ८५०
 </details>
+

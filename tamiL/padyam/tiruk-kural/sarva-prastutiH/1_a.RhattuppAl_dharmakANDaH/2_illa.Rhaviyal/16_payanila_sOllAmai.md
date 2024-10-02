@@ -55,8 +55,8 @@ Is held in contempt as banal.         191
 
 <details><summary>मूलम् - १९१</summary>
 
-पल्लार् मुनियप् पयनिल सॊल्लुवान्  
-ऎल्लारुम् ऎळ्ळप् पडुम्।       १९१
+पल्लार् मुऩियप् पयऩिल सॊल्लुवाऩ्
+ऎल्लारुम् ऎळ्ळप् पडुम्। १९१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९२</summary>
@@ -110,8 +110,8 @@ Than doing to friends deeds adverse.         192
 
 <details><summary>मूलम् - १९२</summary>
 
-पयनिल पल्लार्मुन् सॊल्लल् नयनिल  
-नट्टार्गण् सॆय्दलिऱ्ऱीदु।       १९२
+पयऩिल पल्लार्मुऩ् सॊल्लल् नयऩिल
+नट्टार्गण् सॆय्दलिऱ् ऱीदु। १९२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९३</summary>
@@ -165,8 +165,8 @@ That "good-for-nothing" is his name.         193
 
 <details><summary>मूलम् - १९३</summary>
 
-नयनिलन् ऎन्बदु सॊल्लुम् पयनिल  
-पारित् तुरैक्कुम् उरै।       १९३
+नयऩिलऩ् ऎऩ्पदु सॊल्लुम् पयऩिल
+पारित् तुरैक्कुम् उरै। १९३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९४</summary>
@@ -220,8 +220,8 @@ Will make all gains and goodness flee.         194
 
 <details><summary>मूलम् - १९४</summary>
 
-नयन्सारा नन्मैयिन् नीक्कुम् पयन्साराप्  
-पण्बिल्सॊल् पल्ला रगत्तु।       १९४
+नयऩ्सारा नऩ्मैयिऩ् नीक्कुम् पयऩ्साराप्
+पण्बिल्सॊल् पल्ला रगत्तु। १९४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९५</summary>
@@ -275,8 +275,8 @@ When savants silly nonsense say.         195
 
 <details><summary>मूलम् - १९५</summary>
 
-सीर्मै सिऱप्पॊडु नीङ्गुम् पयनिल  
-नीर्मै युडैयार् सॊलिन्।       १९५
+सीर्मै सिऱप्पॊडु नीङ्गुम् पयऩिल
+नीर्मै युडैयार् सॊलिऩ्। १९५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९६</summary>
@@ -330,8 +330,8 @@ Himself in weightless idle words.         196
 
 <details><summary>मूलम् - १९६</summary>
 
-पयनिल् सॊल् पराट्टु वानै मगन्ऎनल्  
-मक्कट् पदडि यॆनल्।       १९६
+पयऩिल् सॊल् पराट्टु वाऩै मगऩ्ऎऩल्
+मक्कट् पदडि यॆऩल्। १९६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९७</summary>
@@ -385,8 +385,8 @@ Even if they would roughly speak.         197
 
 <details><summary>मूलम् - १९७</summary>
 
-नयनिल सॊल्लिनुञ् जॊल्लुग साऩ्ऱोर्  
-पयनिल सॊल्लामै नऩ्ऱु।       १९७
+नयऩिल सॊल्लिऩुञ् जॊल्लुग साऩ्ऱोर्
+पयऩिल सॊल्लामै नऩ्ऱु। १९७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९८</summary>
@@ -440,8 +440,8 @@ From words that have no grain and brain.         198
 
 <details><summary>मूलम् - १९८</summary>
 
-अरुम्बयन् आयुम् अऱिविनार् सॊल्लार्  
-पॆरुम्बयन् इल्लाद सॊल्।       १९८
+अरुम्बयऩ् आयुम् अऱिविऩार् सॊल्लार्
+पॆरुम्बयऩ् इल्लाद सॊल्। १९८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९९</summary>
@@ -495,8 +495,8 @@ Slip not to silly words-mention.         199
 
 <details><summary>मूलम् - १९९</summary>
 
-पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द  
-मासऱु काट्चि यवर्।       १९९
+पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द
+मासऱु काट्चि यवर्। १९९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २००</summary>
@@ -549,6 +549,7 @@ And never indulge in useless load.         200
 
 <details><summary>मूलम् - २००</summary>
 
-सॊल्लुग सॊल्लिऱ्पयनुडैय सॊल्लऱ्क  
-सॊल्लिऱ्पयनिलाच् चॊल्।       २००
+सॊल्लुग सॊल्लिऱ् पयऩुडैय सॊल्लऱ्क
+सॊल्लिऱ् पयऩिलाच् चॊल्। २००
 </details>
+

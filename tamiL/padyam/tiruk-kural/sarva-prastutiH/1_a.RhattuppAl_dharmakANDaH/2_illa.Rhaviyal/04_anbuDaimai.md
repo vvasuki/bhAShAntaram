@@ -60,8 +60,8 @@ The trickling tears reveal the heart.         71
 
 <details><summary>मूलम् - ७१</summary>
 
-अन्बिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
-पुन्गणीर् पूसल् तरुम्।      ७१
+अऩ्पिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्
+पुऩ्कणीर् पूसल् तरुम्। ७१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७२</summary>
@@ -115,8 +115,8 @@ To oth'rs the loving e'en to bones.         72
 
 <details><summary>मूलम् - ७२</summary>
 
-अन्बिलार् ऎल्लाम् तमक्कुरियर् अन्बुडैयार्  
-ऎन्बुम् उरियर् पिऱर्क्कु।      ७२
+अऩ्पिलार् ऎल्लाम् तमक्कुरियर् अऩ्पुडैयार्
+ऎऩ्पुम् उरियर् पिऱर्क्कु। ७२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३</summary>
@@ -170,8 +170,8 @@ To taste the life of love alone.         73
 
 <details><summary>मूलम् - ७३</summary>
 
-अन्बोडु इयैन्द वऴक्कॆन्ब आरुयिर्क्कु  
-ऎन्बोडु इयैन्द तॊडर्बु।      ७३
+अऩ्पोडु इयैन्द वऴक्कॆऩ्प आरुयिर्क्कु
+ऎऩ्पोडु इयैन्द तॊडर्बु। ७३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४</summary>
@@ -225,8 +225,8 @@ Friendship springs up in excellence.         74
 
 <details><summary>मूलम् - ७४</summary>
 
-अन्बु ईनुम् आर्वम् उडैमै अदुईनुम्  
-नण्बु ऎन्नुम् नाडाच् चिऱप्पु।      ७४
+अऩ्पु ईऩुम् आर्वम् उडैमै अदुईऩुम्
+नण्बु ऎऩ्ऩुम् नाडाच् चिऱप्पु। ७४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७५</summary>
@@ -280,8 +280,8 @@ From peaceful psychic love always.         75
 
 <details><summary>मूलम् - ७५</summary>
 
-अन्बुऱ्ऱु अमर्न्द वऴक्कॆन्ब वैयगत्तु  
-इन्बुऱ्ऱार् ऎय्दुम् सिऱप्पु।      ७५
+अऩ्पुऱ्ऱु अमर्न्द वऴक्कॆऩ्प वैयगत्तु
+इऩ्पुऱ्ऱार् ऎय्दुम् सिऱप्पु। ७५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७६</summary>
@@ -340,8 +340,8 @@ It helps us against evil plots.         76
 
 <details><summary>मूलम् - ७६</summary>
 
-अऱत्तिऱ्के अन्बुसार् पॆन्ब अऱियार्  
-मऱत्तिऱ्कुम् अह्दे तुणै।      ७६
+अऱत्तिऱ्के अऩ्पुसार् पॆऩ्प अऱियार्
+मऱत्तिऱ्कुम् अह्दे तुणै। ७६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७</summary>
@@ -395,8 +395,8 @@ Like solar blaze the boneless worm.         77
 
 <details><summary>मूलम् - ७७</summary>
 
-ऎन्बि लदनै वॆयिल्बोलक् कायुमे  
-अन्बि लदनै अऱम्।      ७७
+ऎऩ्पि लदऩै वॆयिल्बोलक् कायुमे
+अऩ्पि लदऩै अऱम्। ७७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८</summary>
@@ -450,8 +450,8 @@ Can sapless tree in desert bloom?         78
 
 <details><summary>मूलम् - ७८</summary>
 
-अन्बगत् तिल्ला उयिर्वाऴ्क्कै वन्बाऱ्कण्  
-वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु।      ७८
+अऩ्पगत् तिल्ला उयिर्वाऴ्क्कै वऩ्पाऱ्कण्
+वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु। ७८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९</summary>
@@ -505,8 +505,8 @@ Or vain the outer parts will prove.         79
 
 <details><summary>मूलम् - ७९</summary>
 
-पुऱत्तुऱुप् पॆल्लाम् ऎवन्सॆय्बु म् याक्कै  
-अगत्तुऱुप्पु अन्बि लवर्क्कु।      ७९
+पुऱत्तुऱुप् पॆल्लाम् ऎवऩ्सॆय्बु म् याक्कै
+अगत्तुऱुप्पु अऩ्पि लवर्क्कु। ७९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८०</summary>
@@ -559,6 +559,7 @@ Or beings are but skin and bone!         80
 
 <details><summary>मूलम् - ८०</summary>
 
-अन्बिन् वऴियदु उयिर्निलै अह्दिलार्क्कु  
-ऎन्बुदोल् पोर्त्त उडम्बु।      ८०
+अऩ्पिऩ् वऴियदु उयिर्निलै अह्दिलार्क्कु
+ऎऩ्पुदोल् पोर्त्त उडम्बु। ८०
 </details>
+

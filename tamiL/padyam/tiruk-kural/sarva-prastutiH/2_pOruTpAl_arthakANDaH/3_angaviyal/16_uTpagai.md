@@ -57,8 +57,8 @@ As water and shade do harm when bad.        881
 
 <details><summary>मूलम् - ८८१</summary>
 
-निऴल्नीरुम् इन्नाद इन्ना तमर्नीरुम्  
-इन्नावाम् इन्ना सॆयिन्।       ८८१
+निऴल्नीरुम् इऩ्ऩाद इऩ्ऩा तमर्नीरुम्
+इऩ्ऩावाम् इऩ्ऩा सॆयिऩ्। ८८१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८२</summary>
@@ -113,8 +113,8 @@ Fear foes who feign as kinsmen dear.        882
 
 <details><summary>मूलम् - ८८२</summary>
 
-वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग  
-केळ्बोल् पगैवर् तॊडर्बु।       ८८२
+वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग
+केळ्बोल् पगैवर् तॊडर्बु। ८८२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८३</summary>
@@ -169,8 +169,8 @@ Will cut you, beware, like potters' steel.        883
 
 <details><summary>मूलम् - ८८३</summary>
 
-उट्पगै अञ्जित्तऱ्काक्क उलैविडत्तु  
-मट्पगैयिन् माणत् तॆऱुम्।      ८८३
+उट्पगै अञ्जित्तऱ् काक्क उलैविडत्तु
+मट्पगैयिऩ् माणत् तॆऱुम्। ८८३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८४</summary>
@@ -225,8 +225,8 @@ Foments trouble, spoils kinsmen!        884
 
 <details><summary>मूलम् - ८८४</summary>
 
-मनमाणा उट्पगै तोऩ्ऱिन् इनमाणा  
-एदम् पलवुम् तरुम्।       ८८४
+मऩमाणा उट्पगै तोऩ्ऱिऩ् इऩमाणा
+एदम् पलवुम् तरुम्। ८८४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८५</summary>
@@ -281,8 +281,8 @@ Bring life-endangering evil.        885
 
 <details><summary>मूलम् - ८८५</summary>
 
-उऱल्मुऱैयान् उट्पगै तोऩ्ऱिन् इऱल्मुऱैयान्  
-एदम् पलवुम् तरुम्।       ८८५
+उऱल्मुऱैयाऩ् उट्पगै तोऩ्ऱिऩ् इऱल्मुऱैयाऩ्
+एदम् पलवुम् तरुम्। ८८५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८६</summary>
@@ -336,8 +336,8 @@ Life-destroying deadly evils.        886
 
 <details><summary>मूलम् - ८८६</summary>
 
-ऒऩ्ऱामै ऒऩ्ऱियार् कट्पडिन् ऎञ्ञाऩ्ऱुम्  
-पॊऩ्ऱामै ऒऩ्ऱल् अरिदु।      ८८६
+ऒऩ्ऱामै ऒऩ्ऱियार् कट्पडिऩ् ऎञ्ञाऩ्ऱुम्
+पॊऩ्ऱामै ऒऩ्ऱल् अरिदु। ८८६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८७</summary>
@@ -392,8 +392,8 @@ Just seems on like the lid in jar.        887
 
 <details><summary>मूलम् - ८८७</summary>
 
-सॆप्पिन् पुणर्च्चिबोल् कूडिनुम् कूडादे  
-उट्पगै उऱ्ऱ कुडि।      ८८७
+सॆप्पिऩ् पुणर्चिबोल् कूडिऩुम् कूडादे
+उट्पगै उऱ्ऱ कुडि। ८८७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८८</summary>
@@ -447,8 +447,8 @@ Like gold crumbling by file's contact.        888
 
 <details><summary>मूलम् - ८८८</summary>
 
-अरम्बॊरुद पॊन्बोलत् तेयुम् उरम्बॊरुदु  
-उट्पगै उऱ्ऱ कुडि।      ८८८
+अरम्बॊरुद पॊऩ्पोलत् तेयुम् उरम्बॊरुदु
+उट्पगै उऱ्ऱ कुडि। ८८८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८९</summary>
@@ -502,8 +502,8 @@ As slit in sesame though it be.        889
 
 <details><summary>मूलम् - ८८९</summary>
 
-ऎट्पग वन्न सिऱुमैत्ते आयिनुम्  
-उट्पगै उळ्ळदाङ् गेडु।       ८८९
+ऎट्पग वऩ्ऩ सिऱुमैत्ते आयिऩुम्
+उट्पगै उळ्ळदाङ् गेडु। ८८९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८९०</summary>
@@ -556,6 +556,7 @@ Is dwelling with snake in selfsame hut.        890
 
 <details><summary>मूलम् - ८९०</summary>
 
-उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्  
-पाम्बोडु उडनुऱैन् दऱ्ऱु।      ८९०
+उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्
+पाम्बोडु उडऩुऱैन् दऱ्ऱु। ८९०
 </details>
+

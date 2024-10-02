@@ -61,8 +61,8 @@ We can see his distress a bit.        1301
 
 <details><summary>मूलम् - १३०१</summary>
 
-पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
-अल्लल्नोय् काण्गम् सिऱिदु।       १३०१
+पुल्ला तिराअप् पुलत्तै अवर् उऱुम्
+अल्लल्नोय् काण्गम् सिऱिदु। १३०१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०२</summary>
@@ -122,8 +122,8 @@ Too much of it spoils the taste.        1302
 
 <details><summary>मूलम् - १३०२</summary>
 
-उप्पमैन् दऱ्ऱाल् पुलवि अदुसिऱिदु  
-मिक्कऱ्ऱाल् नीळ विडल्।       १३०२
+उप्पमैन् दऱ्ऱाल् पुलवि अदुसिऱिदु
+मिक्कऱ्ऱाल् नीळ विडल्। १३०२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०३</summary>
@@ -178,8 +178,8 @@ Is to grieve the one sorely grieved.        1303
 
 <details><summary>मूलम् - १३०३</summary>
 
-अलन्दारै अल्लल्नोय् सॆय्दऱ्ऱाल् तम्मैप्  
-पुलन्दारैप् पुल्ला विडल्।       १३०३
+अलन्दारै अल्लल्नोय् सॆय्दऱ्ऱाल् तम्मैप्
+पुलन्दारैप् पुल्ला विडल्। १३०३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०४</summary>
@@ -234,8 +234,8 @@ Is to cut the fading plant at root.        1304
 
 <details><summary>मूलम् - १३०४</summary>
 
-ऊडि यवरै उणरामै वाडिय  
-वळ्ळि मुदलरिन् दऱ्ऱु।       १३०४
+ऊडि यवरै उणरामै वाडिय
+वळ्ळि मुदलरिन् दऱ्ऱु। १३०४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०५</summary>
@@ -290,8 +290,8 @@ To pure good mates a lovely grace.        1305
 
 <details><summary>मूलम् - १३०५</summary>
 
-नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै  
-पूअन्न कण्णार् अगत्तु।       १३०५
+नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै
+पूअऩ्ऩ कण्णार् अगत्तु। १३०५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०६</summary>
@@ -346,8 +346,8 @@ Misses its ripe and unripe fruits.        1306
 
 <details><summary>मूलम् - १३०६</summary>
 
-तुनियुम् पुलवियुम् इल्लायिन् कामम्  
-कनियुम् करुक्कायुम् अऱ्ऱु।       १३०६
+तुऩियुम् पुलवियुम् इल्लायिऩ् कामम्
+कऩियुम् करुक्कायुम् अऱ्ऱु। १३०६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०७</summary>
@@ -402,8 +402,8 @@ In lover's pout this leaves a doubt.        1307
 
 <details><summary>मूलम् - १३०७</summary>
 
-ऊडलिन् उण्डाङ्गोर् तुन्बम् पुणर्वदु  
-नीडुव तऩ्ऱु कॊल् ऎऩ्ऱु।       १३०७
+ऊडलिऩ् उण्डाङ्गोर् तुऩ्पम् पुणर्वदु
+नीडुव तऩ्ऱु कॊल् ऎऩ्ऱु। १३०७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०८</summary>
@@ -457,8 +457,8 @@ When concious lover is not present?        1308
 
 <details><summary>मूलम् - १३०८</summary>
 
-नोदल् ऎवन्मऱ्ऱु नॊन्दारॆऩ्ऱु अह्दऱियुम्  
-कादलर् इल्ला वऴि।       १३०८
+नोदल् ऎवऩ्मऱ्ऱु नॊन्दारॆऩ्ऱु अह्दऱियुम्
+कादलर् इल्ला वऴि। १३०८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०९</summary>
@@ -512,8 +512,8 @@ And sulking in souls of psychic love.        1309
 
 <details><summary>मूलम् - १३०९</summary>
 
-नीरुम् निऴलदु इनिदे पुलवियुम्  
-वीऴुनर् कण्णे इनिदु।       १३०९
+नीरुम् निऴलदु इऩिदे पुलवियुम्
+वीऴुनर् कण्णे इऩिदु। १३०९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३१०</summary>
@@ -567,6 +567,7 @@ With her who me in sulking left!        1310
 
 <details><summary>मूलम् - १३१०</summary>
 
-ऊडल् उणङ्ग विडुवारोडु ऎन्नॆञ्जम्  
-कूडुवेम् ऎन्बदु अवा।       १३१०
+ऊडल् उणङ्ग विडुवारोडु ऎऩ्नॆञ्जम्
+कूडुवेम् ऎऩ्पदु अवा। १३१०
 </details>
+

@@ -56,8 +56,8 @@ It is futile against the strong.        301
 
 <details><summary>मूलम् - ३०१</summary>
 
-सॆल्लिडत्तुक् काप्पान् सिनङ्गाप्पान् अल्लिडत्तुक्  
-काक्किन्ऎन् कावाक्काल् ऎन्?      ३०१
+सॆल्लिडत्तुक् काप्पाऩ् सिऩङ्गाप्पाऩ् अल्लिडत्तुक्
+काक्किऩ्ऎऩ् कावाक्काल् ऎऩ्? ३०१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०२</summary>
@@ -112,8 +112,8 @@ Against the meek it is still worse.        302
 
 <details><summary>मूलम् - ३०२</summary>
 
-सॆल्ला इडत्तुच् चिनन्दीदु सॆल्लिडत्तुम्  
-इल्अदनिन् तीय पिऱ।      ३०२
+सॆल्ला इडत्तुच् चिऩन्दीदु सॆल्लिडत्तुम्
+इल्अदऩिऩ् तीय पिऱ। ३०२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०३</summary>
@@ -167,8 +167,8 @@ It is the source of sin and pain.        303
 
 <details><summary>मूलम् - ३०३</summary>
 
-मऱत्तल् वॆगुळियै यार्माट्टुम् तीय  
-पिऱत्तल् अदनान् वरुम्।      ३०३
+मऱत्तल् वॆगुळियै यार्माट्टुम् तीय
+पिऱत्तल् अदऩाऩ् वरुम्। ३०३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०४</summary>
@@ -222,8 +222,8 @@ Which kills the smile and joyful cheer?        304
 
 <details><summary>मूलम् - ३०४</summary>
 
-नगैयुम् उवगैयुम् कॊल्लुम् सिनत्तिन्  
-पगैयुम् उळवो पिऱ।      ३०४
+नगैयुम् उवगैयुम् कॊल्लुम् सिऩत्तिऩ्
+पगैयुम् उळवो पिऱ। ३०४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०५</summary>
@@ -278,8 +278,8 @@ If not thyself the wrath will slay.        305
 
 <details><summary>मूलम् - ३०५</summary>
 
-तन्नैत्तान् काक्किन् सिनङ्गाक्क कावाक्काल्  
-तन्नैये कॊल्लुञ् जिनम्।      ३०५
+तऩ्ऩैत्ताऩ् काक्किऩ् सिऩङ्गाक्क कावाक्काल्
+तऩ्ऩैये कॊल्लुञ् जिऩम्। ३०५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०६</summary>
@@ -334,8 +334,8 @@ It burns the helpful kinship-barge.        306
 
 <details><summary>मूलम् - ३०६</summary>
 
-सिनमॆन्नुम् सेर्न्दारैक् कॊल्लि इनमॆन्नुम्  
-एमप् पुणैयैच् चुडुम्।      ३०६
+सिऩमॆऩ्ऩुम् सेर्न्दारैक् कॊल्लि इऩमॆऩ्ऩुम्
+एमप् पुणैयैच् चुडुम्। ३०६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०७</summary>
@@ -390,8 +390,8 @@ Like failless-hand that strikes the ground.        307
 
 <details><summary>मूलम् - ३०७</summary>
 
-सिनत्तैप् पॊरुळॆऩ्ऱु कॊण्डवन् केडु  
-निलत्तऱैन्दान् कैबिऴैया तऱ्ऱु।      ३०७
+सिऩत्तैप् पॊरुळॆऩ्ऱु कॊण्डवऩ् केडु
+निलत्तऱैन्दाऩ् कैबिऴैया तऱ्ऱु। ३०७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०८</summary>
@@ -446,8 +446,8 @@ Though tortured like the touch of fire.        308
 
 <details><summary>मूलम् - ३०८</summary>
 
-इणर्ऎरि तोय्वन्न इन्ना सॆयिनुम्  
-पुणरिन् वॆगुळामै नऩ्ऱु।      ३०८
+इणर्ऎरि तोय्वऩ्ऩ इऩ्ऩा सॆयिऩुम्
+पुणरिऩ् वॆगुळामै नऩ्ऱु। ३०८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०९</summary>
@@ -506,8 +506,8 @@ If man refrains from rage vicious!        309
 
 <details><summary>मूलम् - ३०९</summary>
 
-उळ्ळिय तॆल्लाम् उडनॆय्दुम् उळ्ळत्ताल्  
-उळ्ळान् वॆगुळि ऎनिन्।      ३०९
+उळ्ळिय तॆल्लाम् उडऩॆय्दुम् उळ्ळत्ताल्
+उळ्ळाऩ् वॆगुळि ऎऩिऩ्। ३०९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१०</summary>
@@ -567,6 +567,7 @@ Saints are they from whom wrath has fled.        310
 
 <details><summary>मूलम् - ३१०</summary>
 
-इऱन्दार् इऱन्दार् अनैयर् सिनत्तैत्  
-तुऱन्दार् तुऱन्दार् तुणै।      ३१०
+इऱन्दार् इऱन्दार् अऩैयर् सिऩत्तैत्
+तुऱन्दार् तुऱन्दार् तुणै। ३१०
 </details>
+

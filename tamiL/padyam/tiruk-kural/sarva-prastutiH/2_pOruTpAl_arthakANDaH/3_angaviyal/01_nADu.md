@@ -59,8 +59,8 @@ Unfailing yields and ample wealth.        731
 
 <details><summary>मूलम् - ७३१</summary>
 
-तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
-चॆल्वरुम् सेर्वदु नाडु।       ७३१
+तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्
+चॆल्वरुम् सेर्वदु नाडु। ७३१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३२</summary>
@@ -114,8 +114,8 @@ Where pests are nil and yields are sure.        732
 
 <details><summary>मूलम् - ७३२</summary>
 
-पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्  
-आऱ्ऱ विळैवदु नाडु।       ७३२
+पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्
+आऱ्ऱ विळैवदु नाडु। ७३२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३३</summary>
@@ -170,8 +170,8 @@ And pays its tax which king demands.        733
 
 <details><summary>मूलम् - ७३३</summary>
 
-पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु  
-इऱैयॊरुङ्गु नेर्वदु नाडु।       ७३३
+पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु
+इऱैयॊरुङ्गु नेर्वदु नाडु। ७३३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३४</summary>
@@ -226,8 +226,8 @@ Fierce famine, plague and foemen's harm.        734
 
 <details><summary>मूलम् - ७३४</summary>
 
-उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्  
-सेरा तियल्वदु नाडु।       ७३४
+उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्
+सेरा तियल्वदु नाडु। ७३४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३५</summary>
@@ -282,8 +282,8 @@ No traitors in a land tranquil.        735
 
 <details><summary>मूलम् - ७३५</summary>
 
-पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्  
-कॊल्गुऱुम्बुम् इल्लदु नाडु।       ७३५
+पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्
+कॊल्गुऱुम्बुम् इल्लदु नाडु। ७३५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३६</summary>
@@ -338,8 +338,8 @@ Even in grief its wealth yet grows.        736
 
 <details><summary>मूलम् - ७३६</summary>
 
-केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुऩ्ऱा  
-नाडॆन्ब नाट्टिन् तलै।       ७३६
+केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुऩ्ऱा
+नाडॆऩ्प नाट्टिऩ् तलै। ७३६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३७</summary>
@@ -399,8 +399,8 @@ With strong forts as limbs country beams.        737
 
 <details><summary>मूलम् - ७३७</summary>
 
-इरुबुनलुम् वाय्न्द मलैयुम् वरुबुनलुम्  
-वल्लरणुम् नाट्टिऱ्कु उऱुप्पु।       ७३७
+इरुबुऩलुम् वाय्न्द मलैयुम् वरुबुऩलुम्
+वल्लरणुम् नाट्टिऱ्कु उऱुप्पु। ७३७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३८</summary>
@@ -454,8 +454,8 @@ Are jewels of lands with blooming health.        738
 
 <details><summary>मूलम् - ७३८</summary>
 
-पिणियिन्मै सॆल्वम् विळैविन्बम् एमम्  
-अणियॆन्ब नाट्टिव् वैन्दु।       ७३८
+पिणियिऩ्मै सॆल्वम् विळैविऩ्पम् एमम्
+अणियॆऩ्प नाट्टिव् वैन्दु। ७३८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३९</summary>
@@ -510,8 +510,8 @@ Needing hard work the land is nought.        739
 
 <details><summary>मूलम् - ७३९</summary>
 
-नाडॆन्ब नाडा वळत्तन नाडल्ल  
-नाड वळन्दरु नाडु।       ७३९
+नाडॆऩ्प नाडा वळत्तऩ नाडल्ल
+नाड वळन्दरु नाडु। ७३९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४०</summary>
@@ -565,6 +565,7 @@ It is worthless without a king.        740
 
 <details><summary>मूलम् - ७४०</summary>
 
-आङ्गमै वॆय्दियक् कण्णुम् पयमिऩ्ऱे  
-वेन्दमै विल्लाद नाडु।       ७४०
+आङ्गमै वॆय्दियक् कण्णुम् पयमिऩ्ऱे
+वेन्दमै विल्लाद नाडु। ७४०
 </details>
+

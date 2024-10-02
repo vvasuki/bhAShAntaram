@@ -55,8 +55,8 @@ The bounteous dame of benign eyes.        571
 
 <details><summary>मूलम् - ५७१</summary>
 
-कण्णोट्टम् ऎन्नुम् कऴिबॆरुङ् गारिगै  
-उण्मैयान् उण्डिव् वुलगु।       ५७१
+कण्णोट्टम् ऎऩ्ऩुम् कऴिबॆरुङ् गारिगै
+उण्मैयाऩ् उण्डिव् वुलगु। ५७१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७२</summary>
@@ -110,8 +110,8 @@ Who lack them are burdens of earth.        572
 
 <details><summary>मूलम् - ५७२</summary>
 
-कण्णोट्टत् तुळ्ळदु उलगियल् अह्दिलार्  
-उण्मै निलक्कुप् पॊऱै।       ५७२
+कण्णोट्टत् तुळ्ळदु उलगियल् अह्दिलार्
+उण्मै निलक्कुप् पॊऱै। ५७२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७३</summary>
@@ -170,8 +170,8 @@ Without gracious looks what are eyes?        573
 
 <details><summary>मूलम् - ५७३</summary>
 
-पण्ऎन्नाम् पाडऱ्कु इयैबिऩ्ऱेल् कण्ऎन्नाम्  
-कण्णोट्टम् इल्लाद कण्।       ५७३
+पण्ऎऩ्ऩाम् पाडऱ्कु इयैबिऩ्ऱेल् कण्ऎऩ्ऩाम्
+कण्णोट्टम् इल्लाद कण्। ५७३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७४</summary>
@@ -225,8 +225,8 @@ What for are eyes sans measured grace.        574
 
 <details><summary>मूलम् - ५७४</summary>
 
-उळबोल् मुगत्तॆवन् सॆय्युम् अळविनाल्  
-कण्णोट्टम् इल्लाद कण्।       ५७४
+उळबोल् मुगत्तॆवऩ् सॆय्युम् अळविऩाल्
+कण्णोट्टम् इल्लाद कण्। ५७४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७५</summary>
@@ -285,8 +285,8 @@ Without them they are felt as sore.        575
 
 <details><summary>मूलम् - ५७५</summary>
 
-कण्णिऱ्कु अणिगलम् कण्णोट्टम् अह्दिऩ्ऱेल्  
-पुण्णॆऩ्ऱु उणरप् पडुम्       ५७५
+कण्णिऱ्कु अणिगलम् कण्णोट्टम् अह्दिऩ्ऱेल्
+पुण्णॆऩ्ऱु उणरप् पडुम् ५७५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७६</summary>
@@ -340,8 +340,8 @@ Who don't eye to eye kindness show.        576
 
 <details><summary>मूलम् - ५७६</summary>
 
-मण्णो टियैन्द मरत्तनैयर् कण्णो  
-टियैन्दुगण् णोडा तवर्।       ५७६
+मण्णो टियैन्द मरत्तऩैयर् कण्णो
+टियैन्दुगण् णोडा तवर्। ५७६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७७</summary>
@@ -395,8 +395,8 @@ Men of real eyes show benign grace.        577
 
 <details><summary>मूलम् - ५७७</summary>
 
-कण्णोट् टम् इल्लवर् कण्णिलर् कण्णुडैयार्  
-कण्णोट्टम् इन्मैयुम् इल्।       ५७७
+कण्णोट् टम् इल्लवर् कण्णिलर् कण्णुडैयार्
+कण्णोट्टम् इऩ्मैयुम् इल्। ५७७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७८</summary>
@@ -450,8 +450,8 @@ Have right for this earth beautiful.        578
 
 <details><summary>मूलम् - ५७८</summary>
 
-करुमम् सिदैयामल् कण्णोड वल्लार्क्कु  
-उरिमै उडैत्तिव् वुलगु।       ५७८
+करुमम् सिदैयामल् कण्णोड वल्लार्क्कु
+उरिमै उडैत्तिव् वुलगु। ५७८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५७९</summary>
@@ -510,8 +510,8 @@ Who vex us is true virtue's phase.        579
 
 <details><summary>मूलम् - ५७९</summary>
 
-ऒऱुत्ताऱ्ऱुम् पण्बिनार् कण्णुम्गण् णोडिप्  
-पॊऱुत्ताऱ्ऱुम् पण्बे तलै।       ५७९
+ऒऱुत्ताऱ्ऱुम् पण्बिऩार् कण्णुम्गण् णोडिप्
+पॊऱुत्ताऱ्ऱुम् पण्बे तलै। ५७९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५८०</summary>
@@ -565,6 +565,7 @@ Take hemlock and look cheerfully.        580
 
 <details><summary>मूलम् - ५८०</summary>
 
-पॆयक्कण्डुम् नञ्जुण् डमैवर् नयत्तक्क  
-नागरिगम् वेण्डु पवर्।       ५८०
+पॆयक्कण्डुम् नञ्जुण् डमैवर् नयत्तक्क
+नागरिगम् वेण्डु पवर्। ५८०
 </details>
+

@@ -55,8 +55,8 @@ Merciful and free from deceit.         91
 
 <details><summary>मूलम् - ९१</summary>
 
-इन्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
-सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्।      ९१
+इऩ्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्
+सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्। ९१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९२</summary>
@@ -110,8 +110,8 @@ More joys than heart's beneficence.         92
 
 <details><summary>मूलम् - ९२</summary>
 
-अगन्अमर्न्दु ईदलिन् नऩ्ऱे मुगनमर्न्दु  
-इन्सॊलन् आगप् पॆऱिन्।      ९२
+अगऩ्अमर्न्दु ईदलिऩ् नऩ्ऱे मुगऩमर्न्दु
+इऩ्सॊलऩ् आगप् पॆऱिऩ्। ९२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९३</summary>
@@ -170,8 +170,8 @@ Such is the gracious virtue's part.         93
 
 <details><summary>मूलम् - ९३</summary>
 
-मुगत्तान् अमर्न् दुइनिदु नोक्कि अगत्तानाम्  
-इन्सॊ लिनदे अऱम्।      ९३
+मुगत्ताऩ् अमर्न् दुइऩिदु नोक्कि अगत्ताऩाम्
+इऩ्सॊ लिऩते अऱम्। ९३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९४</summary>
@@ -225,8 +225,8 @@ The woe of want from them is gone.         94
 
 <details><summary>मूलम् - ९४</summary>
 
-तुन्बुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्  
-इन्बुऱूउम् इन्सॊ लवर्क्कु।      ९४
+तुऩ्पुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्
+इऩ्पुऱूउम् इऩ्सॊ लवर्क्कु। ९४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९५</summary>
@@ -280,8 +280,8 @@ No other jewel do wise men seek.         95
 
 <details><summary>मूलम् - ९५</summary>
 
-पणिवुडैयन् इन्सॊलन् आदल् ऒरुवऱ्कु  
-अणियल्ल मऱ्ऱुप् पिऱ।      ९५
+पणिवुडैयऩ् इऩ्सॊलऩ् आदल् ऒरुवऱ्कु
+अणियल्ल मऱ्ऱुप् पिऱ। ९५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६</summary>
@@ -335,8 +335,8 @@ Whose fruitful words with sweetness flow.         96
 
 <details><summary>मूलम् - ९६</summary>
 
-अल्लवै तेय अऱम्बॆरुगुम् नल्लवै  
-नाडि इनिय सॊलिन्।      ९६
+अल्लवै तेय अऱम्बॆरुगुम् नल्लवै
+नाडि इऩिय सॊलिऩ्। ९६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९७</summary>
@@ -390,8 +390,8 @@ Lead to goodness and graceful deeds.         97
 
 <details><summary>मूलम् - ९७</summary>
 
-नयन् ईऩ्ऱु नऩ्ऱि पयक्कुम् पयन्ईऩ्ऱु  
-पण्बिन् तलैप्पिरियाच् चॊल्।      ९७
+नयऩ् ईऩ्ऱु नऩ्ऱि पयक्कुम् पयऩ्ईऩ्ऱु
+पण्बिऩ् तलैप्पिरियाच् चॊल्। ९७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९८</summary>
@@ -445,8 +445,8 @@ This life on earth and life the next.         98
 
 <details><summary>मूलम् - ९८</summary>
 
-सिऱुमैयुवु नीङ्गिय इन्सॊल् मऱुमैयुम्  
-इम्मैयुम् इन्बम् तरुम्।      ९८
+सिऱुमैयुवु नीङ्गिय इऩ्सॊल् मऱुमैयुम्
+इम्मैयुम् इऩ्पम् तरुम्। ९८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९९</summary>
@@ -505,8 +505,8 @@ To use harsh words how can he dare?         99
 
 <details><summary>मूलम् - ९९</summary>
 
-इन्सॊल् इनिदीऩ्ऱल् काण्बान् ऎवन्गॊलो  
-वन्सॊल् वऴङ्गु वदु?      ९९
+इऩ्सॊल् इऩिदीऩ्ऱल् काण्बाऩ् ऎवऩ्कॊलो
+वऩ्सॊल् वऴङ्गु वदु? ९९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १००</summary>
@@ -559,6 +559,7 @@ Who speaks harsh words when sweet word suits.         100
 
 <details><summary>मूलम् - १००</summary>
 
-इनिय उळवाग इन्नाद कूऱल्  
-कनिइरुप्पक् काय्गवर्न् दऱ्ऱु।      १००
+इऩिय उळवाग इऩ्ऩाद कूऱल्
+कऩिइरुप्पक् काय्गवर्न् दऱ्ऱु। १००
 </details>
+

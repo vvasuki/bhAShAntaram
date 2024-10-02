@@ -60,8 +60,8 @@ They weep with malady and pine?        1171
 
 <details><summary>मूलम् - ११७१</summary>
 
-कण्दाम् कलुऴ्व तॆवन्गॊलो तण्डानोय्  
-ताम्गाट्ट याम्गण् डदु।      ११७१
+कण्दाम् कलुऴ्व तॆवऩ्कॊलो तण्डानोय्
+ताम्गाट्ट याम्गण् डदु। ११७१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७२</summary>
@@ -115,8 +115,8 @@ Regrets for their thoughtless glance?        1172
 
 <details><summary>मूलम् - ११७२</summary>
 
-तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्  
-पैदल् उऴप्पदु ऎवन्?       ११७२
+तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्
+पैदल् उऴप्पदु ऎवऩ्? ११७२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७३</summary>
@@ -170,8 +170,8 @@ It's funny that they weep today.        1173
 
 <details><summary>मूलम् - ११७३</summary>
 
-कदुमॆनत् तानोक्कित् तामे कलुऴुम्  
-इदुनगत् तक्क तुडैत्तु।       ११७३
+कदुमॆऩत् तानोक्कित् तामे कलुऴुम्
+इदुनगत् तक्क तुडैत्तु। ११७३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७४</summary>
@@ -225,8 +225,8 @@ Crying adry without relief.        1174
 
 <details><summary>मूलम् - ११७४</summary>
 
-पॆयलाऱ्ऱा नीरुलन्द उण्गण् उयलाऱ्ऱा  
-उय्विल्नोय् ऎन्गण् निऱुत्तु।       ११७४
+पॆयलाऱ्ऱा नीरुलन्द उण्गण् उयलाऱ्ऱा
+उय्विल्नोय् ऎऩ्कण् निऱुत्तु। ११७४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७५</summary>
@@ -280,8 +280,8 @@ Suffer that torture sleeplessly.        1175
 
 <details><summary>मूलम् - ११७५</summary>
 
-पडलाऱ्ऱा पैदल् उऴक्कुम् कडलाऱ्ऱाक्  
-कामनोय् सॆय्दऎन् कण्।       ११७५
+पडलाऱ्ऱा पैदल् उऴक्कुम् कडलाऱ्ऱाक्
+कामनोय् सॆय्दऎऩ् कण्। ११७५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७६</summary>
@@ -335,8 +335,8 @@ Are victims of the same themselves.        1176
 
 <details><summary>मूलम् - ११७६</summary>
 
-ओऒ इनिदे ऎमक्किन्नोय् सॆय्दगण्  
-ताअम् इदऱ्पट् टदु।       ११७६
+ओऒ इऩिदे ऎमक्किन्नोय् सॆय्दगण्
+ताअम् इदऱ्पट् टदु। ११७६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७७</summary>
@@ -390,8 +390,8 @@ In eyes that eyed him longing longing.        1177
 
 <details><summary>मूलम् - ११७७</summary>
 
-उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु  
-वेण्डि अवर्क्कण्ड कण्।       ११७७
+उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु
+वेण्डि अवर्क्कण्ड कण्। ११७७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७८</summary>
@@ -450,8 +450,8 @@ Yet my eyes pine seeing him not.        1178
 
 <details><summary>मूलम् - ११७८</summary>
 
-पेणादु पॆट्टार् उळर्मन्नो मऱ्ऱवर्क्  
-काणादु अमैविल कण्।       ११७८
+पेणादु पॆट्टार् उळर्मऩ्ऩो मऱ्ऱवर्क्
+काणादु अमैविल कण्। ११७८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७९</summary>
@@ -510,8 +510,8 @@ This is the fate of eyes that weep.        1179
 
 <details><summary>मूलम् - ११७९</summary>
 
-वाराक्काल् तुञ्जा वरिन्दुञ्जा आयिडै  
-आरञर् उऱ्ऱन कण्।       ११७९
+वाराक्काल् तुञ्जा वरिऩ्तुञ्जा आयिडै
+आरञर् उऱ्ऱऩ कण्। ११७९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११८०</summary>
@@ -564,6 +564,7 @@ From people who could hide his secret?        1180
 
 <details><summary>मूलम् - ११८०</summary>
 
-मऱैबॆऱल् ऊरार्क्कु अरिदऩ्ऱाल् ऎम्बोल्  
-अऱैबऱै कण्णार् अगत्तु।       ११८०
+मऱैबॆऱल् ऊरार्क्कु अरिदऩ्ऱाल् ऎम्बोल्
+अऱैबऱै कण्णार् अगत्तु। ११८०
 </details>
+

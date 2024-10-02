@@ -55,8 +55,8 @@ Than children virtuous and wise.         61
 
 <details><summary>मूलम् - ६१</summary>
 
-पॆऱुमवऱ्ऱुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
-मक्कट्पेऱु अल्ल पिऱ।      ६१
+पॆऱुमवऱ्ऱुळ् यामऱिवदु इल्लै अऱिवऱिन्द
+मक्कट्पेऱु अल्ल पिऱ। ६१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६२</summary>
@@ -110,8 +110,8 @@ Noble sons bring all we wish.         62
 
 <details><summary>मूलम् - ६२</summary>
 
-ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्  
-पण्बुडै मक्कट् पॆऱिन्।      ६२
+ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्
+पण्बुडै मक्कट् पॆऱिऩ्। ६२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६३</summary>
@@ -165,8 +165,8 @@ Their wealth is measured by their deed.         63
 
 <details><summary>मूलम् - ६३</summary>
 
-तम्बॊरुळ् ऎन्बदम् मक्कळ् अवर्बॊरुळ्  
-तम्दम् विनैयान् वरुम्।      ६३
+तम्बॊरुळ् ऎऩ्पदम् मक्कळ् अवर्बॊरुळ्
+तम्दम् विऩैयाऩ् वरुम्। ६३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६४</summary>
@@ -220,8 +220,8 @@ In which one's children hands insert.         64
 
 <details><summary>मूलम् - ६४</summary>
 
-अमिऴ्दिनुम् आऱ्ऱ इनिदेदम् मक्कळ्  
-सिऱुगै अळाविय कूऴ्।      ६४
+अमिऴ्दिऩुम् आऱ्ऱ इऩिदेदम् मक्कळ्
+सिऱुगै अळाविय कूऴ्। ६४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६५</summary>
@@ -275,8 +275,8 @@ Sweet to ears are their words lovely.         65
 
 <details><summary>मूलम् - ६५</summary>
 
-मक्कळ्मॆय् तीण्डल् उडऱ्किन्बम् मऱ्ऱु अवर्  
-सॊऱ्केट्टल् इन्बम् सॆविक्कु।      ६५
+मक्कळ्मॆय् तीण्डल् उडऱ्किऩ्पम् मऱ्ऱु अवर्
+सॊऱ्केट्टल् इऩ्पम् सॆविक्कु। ६५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६६</summary>
@@ -330,8 +330,8 @@ Deaf to baby's babble's lay!         66
 
 <details><summary>मूलम् - ६६</summary>
 
-कुऴल् इनिदु याऴ्इनिदु ऎन्बदम् मक्कळ्  
-मऴलैच्चॊल् केळा तवर्।      ६६
+कुऴल् इऩिदु याऴ्इऩिदु ऎऩ्पदम् मक्कळ्
+मऴलैच्चॊल् केळा तवर्। ६६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६७</summary>
@@ -385,8 +385,8 @@ To seat him in front of the wise.         67
 
 <details><summary>मूलम् - ६७</summary>
 
-तन्दै मगऱ्काऱ्ऱु नऩ्ऱि अवैयत्तु  
-मुन्दि इरुप्पच् चॆयल्।      ६७
+तन्दै मगऱ्काऱ्ऱु नऩ्ऱि अवैयत्तु
+मुन्दि इरुप्पच् चॆयल्। ६७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६८</summary>
@@ -440,8 +440,8 @@ To see their children themselves excel.         68
 
 <details><summary>मूलम् - ६८</summary>
 
-तम्मिन्दम् मक्कळ् अऱिवुडैमै मानिलत्तु  
-मन्नुयिर्क् कॆल्लाम् इनिदु।      ६८
+तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु
+मऩ्ऩुयिर्क् कॆल्लाम् इऩिदु। ६८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६९</summary>
@@ -495,8 +495,8 @@ Delights more than when she begot.         69
 
 <details><summary>मूलम् - ६९</summary>
 
-ईऩ्ऱ पॊऴुदिन् पॆरिदुवक्कुम् तन्मगनैच्  
-चाऩ्ऱोन् ऎनक्केट्ट ताय्।      ६९
+ईऩ्ऱ पॊऴुदिऩ् पॆरिदुवक्कुम् तऩ्मगऩैच्
+चाऩ्ऱोऩ् ऎऩक्केट्ट ताय्। ६९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७०</summary>
@@ -549,6 +549,7 @@ The son to sire this word is debt
 
 <details><summary>मूलम् - ७०</summary>
 
-मगन्दन्दैक्कु आऱ्ऱुम् उदवि इवन्दन्दै  
-ऎन्नोऱ्ऱान् कॊल् ऎनुम् सॊल्।      ७०
+मगऩ्तन्दैक्कु आऱ्ऱुम् उदवि इवऩ्तन्दै
+ऎऩ्नोऱ्ऱाऩ् कॊल् ऎऩुम् सॊल्। ७०
 </details>
+

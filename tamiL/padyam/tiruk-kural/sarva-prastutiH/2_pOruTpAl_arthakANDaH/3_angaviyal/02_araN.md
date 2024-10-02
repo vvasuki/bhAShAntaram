@@ -58,7 +58,7 @@ Who fear the foes has its defence.        741
 <details><summary>मूलम् - ७४१</summary>
 
 आऱ्ऱु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्
-पोऱ्ऱु पवर्क्कुम् पॊरुळ्।       ७४१
+पोऱ्ऱु पवर्क्कुम् पॊरुळ्। ७४१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४२</summary>
@@ -119,7 +119,7 @@ Thick woods form a fort paramount.        742
 <details><summary>मूलम् - ७४२</summary>
 
 मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्
-काडुम् उडैय तरण्।       ७४२
+काडुम् उडैय तरण्। ७४२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४३</summary>
@@ -174,8 +174,8 @@ High, broad, strong and hard for access.        743
 
 <details><summary>मूलम् - ७४३</summary>
 
-उयर्वगलम् तिण्मै अरुमैइन् नान्गिन्  
-अमैवरण् ऎऩ्ऱुरैक्कुम् नूल्।       ७४३
+उयर्वगलम् तिण्मै अरुमैइन् नाऩ्किऩ्
+अमैवरण् ऎऩ्ऱुरैक्कुम् नूल्। ७४३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४४</summary>
@@ -230,8 +230,8 @@ The fort foils enemies bold.        744
 
 <details><summary>मूलम् - ७४४</summary>
 
-सिऱुगाप्पिऱ्पेरिडत्त तागि उऱुबगै  
-ऊक्कम् अऴिप्प तरण्।       ७४४
+सिऱुगाप्पिऱ् पेरिडत्त तागि उऱुबगै
+ऊक्कम् अऴिप्प तरण्। ७४४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४५</summary>
@@ -286,8 +286,8 @@ Cosy to live-That fort is good.        745
 
 <details><summary>मूलम् - ७४५</summary>
 
-कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्  
-निलैक्कॆळिदाम् नीरदु अरण्।       ७४५
+कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्
+निलैक्कॆळिदाम् नीरदु अरण्। ७४५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४६</summary>
@@ -342,8 +342,8 @@ And brave heroes to meet alarms.        746
 
 <details><summary>मूलम् - ७४६</summary>
 
-ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्  
-नल्लाळ् उडैयदु अरण्।       ७४६
+ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्
+नल्लाळ् उडैयदु अरण्। ७४६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४७</summary>
@@ -398,8 +398,8 @@ Darts and mines of treacherous hands.        747
 
 <details><summary>मूलम् - ७४७</summary>
 
-मुऱ्ऱियुम् मुऱ्ऱा तॆऱिन्दुम् अऱैप्पडुत्तुम्  
-पऱ्ऱऱ्करियदु अरण्।       ७४७
+मुऱ्ऱियुम् मुऱ्ऱा तॆऱिन्दुम् अऱैप्पडुत्तुम्
+पऱ्ऱऱ् करियदु अरण्। ७४७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४८</summary>
@@ -454,8 +454,8 @@ The attacks of encircling foes.        748
 
 <details><summary>मूलम् - ७४८</summary>
 
-मुऱ्ऱाऱ्ऱि मुऱ्ऱि यवरैयुम् पऱ्ऱाऱ्ऱिप्  
-पऱ्ऱियार् वॆल्वदु अरण्।       ७४८
+मुऱ्ऱाऱ्ऱि मुऱ्ऱि यवरैयुम् पऱ्ऱाऱ्ऱिप्
+पऱ्ऱियार् वॆल्वदु अरण्। ७४८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४९</summary>
@@ -510,8 +510,8 @@ And gains by deeds a name glorious.        749
 
 <details><summary>मूलम् - ७४९</summary>
 
-मुनैमुगत्तु माऱ्ऱलर् साय विनैमुगत्तु  
-वीऱॆय्दि माण्ड तरण्।       ७४९
+मुऩैमुगत्तु माऱ्ऱलर् साय विऩैमुगत्तु
+वीऱॆय्दि माण्ड तरण्। ७४९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७५०</summary>
@@ -564,6 +564,7 @@ Is nil if heroes do not stand.        750
 
 <details><summary>मूलम् - ७५०</summary>
 
-ऎनैमाट्चित् तागियक् कण्णुम् विनैमाट्चि  
-इल्लार्गण् इल्लदु अरण्।       ७५०
+ऎऩैमाट्चित् तागियक् कण्णुम् विऩैमाट्चि
+इल्लार्गण् इल्लदु अरण्। ७५०
 </details>
+

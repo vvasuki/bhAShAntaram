@@ -55,8 +55,8 @@ Live by that learning thoroughly.        391
 
 <details><summary>मूलम् - ३९१</summary>
 
-कऱ्क कसडऱक् कऱ्पवै कऱ्ऱबिन्  
-निऱ्क अदऱ्कुत् तग।      ३९१
+कऱ्क कसडऱक् कऱ्पवै कऱ्ऱपिऩ्
+निऱ्क अदऱ्कुत् तग। ३९१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९२</summary>
@@ -110,8 +110,8 @@ Of living kind both are the eyes.        392
 
 <details><summary>मूलम् - ३९२</summary>
 
-ऎण्णॆन्ब एनै ऎऴुत्तॆन्ब इव्विरण् डुम्  
-कण्णॆन्ब वाऴुम् उयिर्क्कु।      ३९२
+ऎण्णॆऩ्प एऩै ऎऴुत्तॆऩ्प इव्विरण् डुम्
+कण्णॆऩ्प वाऴुम् उयिर्क्कु। ३९२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९३</summary>
@@ -170,8 +170,8 @@ The ignorant two sores of disgrace.        393
 
 <details><summary>मूलम् - ३९३</summary>
 
-कण्णुडैयर् ऎन्बवर् कऱ्ऱोर् मुगत्तिरण्डु  
-पुण्णुडैयर् कल्ला तवर्।      ३९३
+कण्णुडैयर् ऎऩ्पवर् कऱ्ऱोर् मुगत्तिरण्डु
+पुण्णुडैयर् कल्ला तवर्। ३९३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९४</summary>
@@ -225,8 +225,8 @@ Of learned men this is the art.        394
 
 <details><summary>मूलम् - ३९४</summary>
 
-उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्  
-अनैत्ते पुलवर् तॊऴिल्।      ३९४
+उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्
+अऩैत्ते पुलवर् तॊऴिल्। ३९४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९५</summary>
@@ -280,8 +280,8 @@ For knowledge: the low never learn.        395
 
 <details><summary>मूलम् - ३९५</summary>
 
-उडैयार्मुन् इल्लार्बोल् एक्कऱ्ऱुङ् गऱ्ऱार्  
-कडैयरे कल्ला तवर्।      ३९५
+उडैयार्मुऩ् इल्लार्बोल् एक्कऱ्ऱुङ् गऱ्ऱार्
+कडैयरे कल्ला तवर्। ३९५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९६</summary>
@@ -335,8 +335,8 @@ As deep you learn the knowledge grows.        396
 
 <details><summary>मूलम् - ३९६</summary>
 
-तॊट्टनैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्  
-कऱ्ऱनैत् तूऱुम् अऱिवु।       ३९६
+तॊट्टऩैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्
+कऱ्ऱऩैत् तूऱुम् अऱिवु। ३९६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९७</summary>
@@ -395,8 +395,8 @@ Why not till death learning go on!        397
 
 <details><summary>मूलम् - ३९७</summary>
 
-यादानुम् नाडामाल् ऊरामाल् ऎन्नॊरुवन्  
-सान्दुणैयुङ् गल्लाद वाऱु।      ३९७
+यादाऩुम् नाडामाल् ऊरामाल् ऎऩ्ऩॊरुवऩ्
+सान्दुणैयुङ् गल्लाद वाऱु। ३९७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९८</summary>
@@ -450,8 +450,8 @@ Exalts man upto his seventh.        398
 
 <details><summary>मूलम् - ३९८</summary>
 
-ऒरुमैक्कण् तान् कऱ्ऱ कल्वि ऒरुवऱ्कु  
-ऎऴुमैयुम् एमाप् पुडैत्तु।      ३९८
+ऒरुमैक्कण् ताऩ् कऱ्ऱ कल्वि ऒरुवऱ्कु
+ऎऴुमैयुम् एमाप् पुडैत्तु। ३९८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३९९</summary>
@@ -505,8 +505,8 @@ On seeing the world enjoy their lore.        399
 
 <details><summary>मूलम् - ३९९</summary>
 
-तामिन् पुऱुवदु उलगिन् पुऱक् कण्डु  
-कामुऱुवर् कऱ्ऱऱिन् दार्।       ३९९
+तामिऩ् पुऱुवदु उलगिऩ् पुऱक् कण्डु
+कामुऱुवर् कऱ्ऱऱिन् दार्। ३९९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४००</summary>
@@ -559,6 +559,7 @@ Nothing else gives genuine joy.        400
 
 <details><summary>मूलम् - ४००</summary>
 
-केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु  
-माडल्ल मऱ्ऱै यवै।       ४००
+केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु
+माडल्ल मऱ्ऱै यवै। ४००
 </details>
+

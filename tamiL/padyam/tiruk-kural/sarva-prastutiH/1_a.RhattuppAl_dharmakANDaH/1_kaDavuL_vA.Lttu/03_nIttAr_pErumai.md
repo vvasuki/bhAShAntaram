@@ -60,8 +60,8 @@ As theirs who sense and self deny.         21
 
 <details><summary>मूलम् - २१</summary>
 
-ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
-वेण्डुम् पनुवल् तुणिवु।      २१
+ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु
+वेण्डुम् पऩुवल् तुणिवु। २१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२</summary>
@@ -115,8 +115,8 @@ Is to count the dead upon the sphere.         22
 
 <details><summary>मूलम् - २२</summary>
 
-तुऱन्दार् पॆरुमै तुणैक्कूऱिन् वैयत्तु  
-इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु।      २२
+तुऱन्दार् पॆरुमै तुणैक्कूऱिऩ् वैयत्तु
+इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु। २२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३</summary>
@@ -175,8 +175,8 @@ Who know the right and virtue wear.         23
 
 <details><summary>मूलम् - २३</summary>
 
-इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
-पॆरुमै पिऱङ्गिऱ्ऱु उलगु।      २३
+इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्
+पॆरुमै पिऱङ्गिऱ्ऱु उलगु। २३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४</summary>
@@ -236,8 +236,8 @@ The senses five, is heaven to gain.         24
 
 <details><summary>मूलम् - २४</summary>
 
-उरनॆन्नुम् तोट्टियान् ओरैन्दुम् काप्पान्  
-वरनॆन्नुम् वैप्पिऱ्कोर् वित्तु।      २४
+उरऩॆऩ्ऩुम् तोट्टियाऩ् ओरैन्दुम् काप्पाऩ्
+वरऩॆऩ्ऩुम् वैप्पिऱ्कोर् वित्तु। २४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५</summary>
@@ -296,8 +296,8 @@ How great the power ascetics' sway.         25
 
 <details><summary>मूलम् - २५</summary>
 
-ऐन्दवित्तान् आऱ्ऱल् अगल्विसुम्बु ळार्गोमान्  
-इन्दिरने सालुङ् गरि।      २५
+ऐन्दवित्ताऩ् आऱ्ऱल् अगल्विसुम्बु ळार्गोमाऩ्
+इन्दिरऩे सालुङ् गरि। २५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६</summary>
@@ -351,8 +351,8 @@ The great achieve things rare to do.         26
 
 <details><summary>मूलम् - २६</summary>
 
-सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्  
-सॆयऱ्करिय सॆय्गला तार्।      २६
+सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्
+सॆयऱ्करिय सॆय्गला तार्। २६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७</summary>
@@ -406,8 +406,8 @@ Of taste, sight, hearing, touch and smell.         27
 
 <details><summary>मूलम् - २७</summary>
 
-सुवैऒळि ऊऱुओसै नाऱ्ऱमॆन ऐन्दिन्  
-वगैदॆरिवान् कट्टे उलगु।      २७
+सुवैऒळि ऊऱुओसै नाऱ्ऱमॆऩ ऐन्दिऩ्
+वगैदॆरिवाऩ् कट्टे उलगु। २७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८</summary>
@@ -461,8 +461,8 @@ Their greatness to the world display.         28
 
 <details><summary>मूलम् - २८</summary>
 
-निऱैमॊऴि मान्दर् पॆरुमै निलत्तु  
-मऱैमॊऴि काट्टि विडुम्।      २८
+निऱैमॊऴि मान्दर् पॆरुमै निलत्तु
+मऱैमॊऴि काट्टि विडुम्। २८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९</summary>
@@ -516,8 +516,8 @@ Though transient, cannot be withstood.         29
 
 <details><summary>मूलम् - २९</summary>
 
-कुणमॆन्नुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि  
-कणमेयुम् कात्तल् अरिदु।      २९
+कुणमॆऩ्ऩुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि
+कणमेयुम् कात्तल् अरिदु। २९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०</summary>
@@ -570,6 +570,7 @@ The sage fulfils the vitue's call.         30
 
 <details><summary>मूलम् - ३०</summary>
 
-अन्दणर् ऎन्बोर् अऱवोर्मऱ्ऱॆव्वुयिर् क्कुम्  
-सॆन्दण्मै पूण्डॊऴुग लान्।      ३०
+अन्दणर् ऎऩ्पोर् अऱवोर्मऱ् ऱॆव्वुयिर् क्कुम्
+सॆन्दण्मै पूण्डॊऴुग लाऩ्। ३०
 </details>
+

@@ -55,8 +55,8 @@ It is to speak out evil-free.        291
 
 <details><summary>मूलम् - २९१</summary>
 
-वाय्मै ऎनप्पडुवदु यादॆनिन् यादॊऩ्ऱुम्  
-तीमै इलाद सॊलल्।      २९१
+वाय्मै ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्
+तीमै इलाद सॊलल्। २९१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९२</summary>
@@ -110,8 +110,8 @@ When good it brings removing vice.        292
 
 <details><summary>मूलम् - २९२</summary>
 
-पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द  
-नन्मै पयक्कुम् ऎनिन्।      २९२
+पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द
+नऩ्मै पयक्कुम् ऎऩिऩ्। २९२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९३</summary>
@@ -166,8 +166,8 @@ Conscience will scorch and make him sigh.        293
 
 <details><summary>मूलम् - २९३</summary>
 
-तन्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिन्  
-तन्नॆञ्जे तन्नैच् चुडुम्।      २९३
+तऩ्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिऩ्
+तऩ्नॆञ्जे तऩ्ऩैच् चुडुम्। २९३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९४</summary>
@@ -222,8 +222,8 @@ Who serves the Truth serene in soul.        294
 
 <details><summary>मूलम् - २९४</summary>
 
-उळ्ळत्ताऱ्पॊय्या तॊऴुगिन् उलगत्तार्  
-उळ्ळत्तु ळॆल्लाम् उळन्।      २९४
+उळ्ळत्ताऱ् पॊय्या तॊऴुगिऩ् उलगत्तार्
+उळ्ळत्तु ळॆल्लाम् उळऩ्। २९४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९५</summary>
@@ -278,8 +278,8 @@ Is more than giving and living austere.        295
 
 <details><summary>मूलम् - २९५</summary>
 
-मनत्तॊडु वाय्मै मॊऴियिन् तवत्तॊडु  
-तानञ्जॆय् वारिन् तलै।      २९५
+मऩत्तॊडु वाय्मै मॊऴियिऩ् तवत्तॊडु
+ताऩञ्जॆय् वारिऩ् तलै। २९५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९६</summary>
@@ -334,8 +334,8 @@ All virtues from Truth arise.        296
 
 <details><summary>मूलम् - २९६</summary>
 
-पॊय्यामै अन्न पुगऴिल्लै ऎय्यामै  
-ऎल्ला अऱमुन् दरुम्।      २९६
+पॊय्यामै अऩ्ऩ पुगऴिल्लै ऎय्यामै
+ऎल्ला अऱमुन् दरुम्। २९६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९७</summary>
@@ -394,8 +394,8 @@ All virtues are in Truth indeed.        297
 
 <details><summary>मूलम् - २९७</summary>
 
-पॊय्यामै पॊय्यामै आऱ्ऱिन् अऱम्बिऱ  
-सॆय्यामै सॆय्यामै नऩ्ऱु।      २९७
+पॊय्यामै पॊय्यामै आऱ्ऱिऩ् अऱम्बिऱ
+सॆय्यामै सॆय्यामै नऩ्ऱु। २९७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९८</summary>
@@ -449,8 +449,8 @@ Truth renders you pure inward.        298
 
 <details><summary>मूलम् - २९८</summary>
 
-पुऱळ्दूय्मै नीरान् अमैयुम् अगन्दूय्मै  
-वाय्मैयाल् काणप् पडुम्।      २९८
+पुऱळ्दूय्मै नीराऩ् अमैयुम् अगन्दूय्मै
+वाय्मैयाल् काणप् पडुम्। २९८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९९</summary>
@@ -504,8 +504,8 @@ Truth light is light bright like sun-light        299
 
 <details><summary>मूलम् - २९९</summary>
 
-ऎल्ला विळक्कुम् विळक्कल्ल साऩ्ऱोर्क्कुप्  
-पॊय्या विळक्के विळक्कु।      २९९
+ऎल्ला विळक्कुम् विळक्कल्ल साऩ्ऱोर्क्कुप्
+पॊय्या विळक्के विळक्कु। २९९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३००</summary>
@@ -559,6 +559,7 @@ Nothing surpasses Truth serene !        300
 
 <details><summary>मूलम् - ३००</summary>
 
-यामॆय्याक् कण्डवऱ्ऱुळ् इल्लै ऎनैत्तॊऩ्ऱुम्  
-वाय्मैयिन् नल्ल पिऱ।      ३००
+यामॆय्याक् कण्डवऱ्ऱुळ् इल्लै ऎऩैत्तॊऩ्ऱुम्
+वाय्मैयिऩ् नल्ल पिऱ। ३००
 </details>
+

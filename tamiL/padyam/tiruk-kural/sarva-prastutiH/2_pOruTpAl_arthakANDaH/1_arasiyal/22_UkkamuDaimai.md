@@ -61,8 +61,8 @@ All others own but lethargy.        591
 
 <details><summary>मूलम् - ५९१</summary>
 
-उडैयर् ऎनप्पडुवदु ऊक्कम् अह् तिल्लार्  
-उडैयदु उडैयरो मऱ्ऱु।       ५९१
+उडैयर् ऎऩप्पडुवदु ऊक्कम् अह् तिल्लार्
+उडैयदु उडैयरो मऱ्ऱु। ५९१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९२</summary>
@@ -116,8 +116,8 @@ Worldly wealth departs in speed.        592
 
 <details><summary>मूलम् - ५९२</summary>
 
-उळ्ळम् उडैमै उडैमै पॊरुळुडैमै  
-निल्लादु नीङ्गि विडुम्।       ५९२
+उळ्ळम् उडैमै उडैमै पॊरुळुडैमै
+निल्लादु नीङ्गि विडुम्। ५९२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९३</summary>
@@ -171,8 +171,8 @@ The loss of worldly wealth and gain.        593
 
 <details><summary>मूलम् - ५९३</summary>
 
-क्कम् इऴन्देमॆऩ्ऱु अल्लावार् ऊक्कम्  
-ऒरुवन्दम् कैत्तुडै यार्।       ५९३
+क्कम् इऴन्देमॆऩ्ऱु अल्लावार् ऊक्कम्
+ऒरुवन्दम् कैत्तुडै यार्। ५९३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९४</summary>
@@ -226,8 +226,8 @@ Where tireless strivers have their home.        594
 
 <details><summary>मूलम् - ५९४</summary>
 
-क्कम् अदर्विनाय्च् चॆल्लुम् असैविला  
-ऊक्क मुडैया नुऴै।       ५९४
+क्कम् अदर्विऩाय्च् चॆल्लुम् असैविला
+ऊक्क मुडैया ऩुऴै। ५९४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९५</summary>
@@ -266,8 +266,6 @@ Water depth is lotus height
 Mental strength is men's merit.        595  
 </details>
 
-
-
 <details><summary>वेङ्कटकृष्ण (हि) - ५९५</summary>
 
 595
@@ -284,8 +282,8 @@ Mental strength is men's merit.        595
 
 <details><summary>मूलम् - ५९५</summary>
 
-वॆळ्ळत् तनैय मलर्नीट्टम् मान्दर्दम्  
-उळ्ळत् तनैयदु उयर्वु।       ५९५
+वॆळ्ळत् तऩैय मलर्नीट्टम् मान्दर्दम्
+उळ्ळत् तऩैयदु उयर्वु। ५९५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९६</summary>
@@ -345,8 +343,8 @@ Though they fail their virtues stand.        596
 
 <details><summary>मूलम् - ५९६</summary>
 
-उळ्ळुव तॆल्लाम् उयर्वुळ्ळल् मऱ्ऱदु  
-तळ्ळिनुन् दळ्ळामै नीर्त्तु।       ५९६
+उळ्ळुव तॆल्लाम् उयर्वुळ्ळल् मऱ्ऱतु
+तळ्ळिऩुन् दळ्ळामै नीर्त्तु। ५९६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९७</summary>
@@ -402,7 +400,7 @@ Great minds keep fit ev'n in defeat.        597
 <details><summary>मूलम् - ५९७</summary>
 
 सिदैविडत्तु ऒल्गार् उरवोर् पुदैयम्बिऱ्
-पट्टुप्पा टूऩ्ऱुङ् गळिऱु।       ५९७
+पट्टुप्पा टूऩ्ऱुङ् गळिऱु। ५९७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९८</summary>
@@ -457,8 +455,8 @@ Heartless persons cannot boast
 
 <details><summary>मूलम् - ५९८</summary>
 
-उळ्ळम् इलादवर् ऎय्दार् उलगत्तु  
-वळ्ळियम् ऎन्नुञ् जॆरुक्कु।       ५९८
+उळ्ळम् इलादवर् ऎय्दार् उलगत्तु
+वळ्ळियम् ऎऩ्ऩुञ् जॆरुक्कु। ५९८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५९९</summary>
@@ -512,8 +510,8 @@ When tiger, less in form, assails.        599
 
 <details><summary>मूलम् - ५९९</summary>
 
-परियदु कूर्ङ्गोट्टदु आयिनुम् यानै  
-஦व्रुउम् पुलिदाक् कुऱिन्।       ५९९
+परियदु कूर्ङ्गोट्टदु आयिऩुम् याऩै
+஦व्रुउम् पुलिदाक् कुऱिऩ्। ५९९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६००</summary>
@@ -567,6 +565,7 @@ Lacking that man is like a wood        600
 
 <details><summary>मूलम् - ६००</summary>
 
-उरमॊरुवऱ्कु उळ्ळ वॆऱुक्कैअह् तिल्लार्  
-मरम्मक्क ळादले वेऱु।       ६००
+उरमॊरुवऱ्कु उळ्ळ वॆऱुक्कैअह् तिल्लार्
+मरम्मक्क ळादले वेऱु। ६००
 </details>
+

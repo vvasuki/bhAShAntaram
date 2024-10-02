@@ -56,8 +56,8 @@ Had better wane than wax anon.        811
 
 <details><summary>मूलम् - ८११</summary>
 
-परुगुवार् पोलिनुम् पण्बिलार् केण्मै  
-पॆरुगलिऱ्कुऩ्ऱल् इनिदु।      ८११
+परुगुवार् पोलिऩुम् पण्बिलार् केण्मै
+पॆरुगलिऱ् कुऩ्ऱल् इऩिदु। ८११
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१२</summary>
@@ -116,8 +116,8 @@ Gain or lose; such friends have no worth.        812
 
 <details><summary>मूलम् - ८१२</summary>
 
-उऱिन्नट्टु अऱिन्ङरुउम् ऒप्पिलार् केण्मै  
-पॆऱिनुम् इऴप्पिनुम् ऎन्?       ८१२
+उऱिऩ्नट्टु अऱिऩ्ङरुउम् ऒप्पिलार् केण्मै
+पॆऱिऩुम् इऴप्पिऩुम् ऎऩ्? ८१२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१३</summary>
@@ -171,8 +171,8 @@ Are like thieves and whores wicked.        813
 
 <details><summary>मूलम् - ८१३</summary>
 
-उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु  
-कॊळ्वारुम् कळ्वरुम् नेर्।       ८१३
+उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु
+कॊळ्वारुम् कळ्वरुम् नेर्। ८१३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१४</summary>
@@ -226,8 +226,8 @@ That throw in field like faithless horse.        814
 
 <details><summary>मूलम् - ८१४</summary>
 
-अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अन्नार्  
-तमरिन् तनिमै तलै।       ८१४
+अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अऩ्ऩार्
+तमरिऩ् तऩिमै तलै। ८१४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१५</summary>
@@ -281,8 +281,8 @@ Leave them is better than to keep.        815
 
 <details><summary>मूलम् - ८१५</summary>
 
-सॆय्देमञ् जाराच् चिऱियवर् पुन्गेण्मै  
-ऎय्दलिन् ऎय्दामै नऩ्ऱु।      ८१५
+सॆय्देमञ् जाराच् चिऱियवर् पुऩ्केण्मै
+ऎय्दलिऩ् ऎय्दामै नऩ्ऱु। ८१५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१६</summary>
@@ -336,8 +336,8 @@ Is better than a fool intimate.        816
 
 <details><summary>मूलम् - ८१६</summary>
 
-पेदै पॆरुङ्गॆऴीइ नट्पिन् अऱिवुडैयार्  
-एदिन्मै कोडि उऱुम्।       ८१६
+पेदै पॆरुङ्गॆऴीइ नट्पिऩ् अऱिवुडैयार्
+एदिऩ्मै कोडि उऱुम्। ८१६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१७</summary>
@@ -391,8 +391,8 @@ Than from friends who are vain laughers.        817
 
 <details><summary>मूलम् - ८१७</summary>
 
-नगैवगैय रागिय नट्पिन् पगैवराल्  
-पत्तडुत्त कोडि उऱुम्।       ८१७
+नगैवगैय रागिय नट्पिऩ् पगैवराल्
+पत्तडुत्त कोडि उऱुम्। ८१७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१८</summary>
@@ -446,8 +446,8 @@ Who spoil deeds which they can do.        818
 
 <details><summary>मूलम् - ८१८</summary>
 
-ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै  
-सॊल्लाडार् सोर विडल्।       ८१८
+ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै
+सॊल्लाडार् सोर विडल्। ८१८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८१९</summary>
@@ -501,8 +501,8 @@ With those whose deed is far from word.        819
 
 <details><summary>मूलम् - ८१९</summary>
 
-कनविनुम् इन्नादु मन्नो विनैवेऱु  
-सॊल्वेऱु पट्टार् तॊडर्बु।       ८१९
+कऩविऩुम् इऩ्ऩादु मऩ्ऩो विऩैवेऱु
+सॊल्वेऱु पट्टार् तॊडर्बु। ८१९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२०</summary>
@@ -555,6 +555,7 @@ At home and in public revile.        820
 
 <details><summary>मूलम् - ८२०</summary>
 
-ऎनैत्तुम् कुऱुगुदल् ओम्बल् मनैक्कॆऴीइ  
-मऩ्ऱिल् पऴिप्पार् तॊडर्बु।      ८२०
+ऎऩैत्तुम् कुऱुगुदल् ओम्बल् मऩैक्कॆऴीइ
+मऩ्ऱिल् पऴिप्पार् तॊडर्बु। ८२०
 </details>
+

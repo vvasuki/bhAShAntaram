@@ -55,8 +55,8 @@ The allies' strength and go at length.        471
 
 <details><summary>मूलम् - ४७१</summary>
 
-विनैवलियुम् तन्वलियुम् माऱ्ऱान् वलियुम्  
-तुणैवलियुम् तूक्किच् चॆयल्।       ४७१
+विऩैवलियुम् तऩ्वलियुम् माऱ्ऱाऩ् वलियुम्
+तुणैवलियुम् तूक्किच् चॆयल्। ४७१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७२</summary>
@@ -110,8 +110,8 @@ What they can and how to go.        472
 
 <details><summary>मूलम् - ४७२</summary>
 
-ऒल्व तऱिवदु अऱिन्ददन् कण्दङ्गिच्  
-चॆल्वार्क्कुच् चॆल्लाददु इल्।       ४७२
+ऒल्व तऱिवदु अऱिन्ददऩ् कण्दङ्गिच्
+चॆल्वार्क्कुच् चॆल्लाददु इल्। ४७२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७३</summary>
@@ -165,8 +165,8 @@ Their pride breaks up in boastful fight.        473
 
 <details><summary>मूलम् - ४७३</summary>
 
-उडैत्तम् वलियऱियार् ऊक्कत्तिन् ऊक्कि  
-इडैक्कण् मुरिन्दार् पलर्।       ४७३
+उडैत्तम् वलियऱियार् ऊक्कत्तिऩ् ऊक्कि
+इडैक्कण् मुरिन्दार् पलर्। ४७३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७४</summary>
@@ -220,8 +220,8 @@ And brags himself-his fall is sure.        474
 
 <details><summary>मूलम् - ४७४</summary>
 
-अमैन्दाङ् गॊऴुगान् अळवऱियान् तन्नै  
-वियन्दान् विरैन्दु कॆडुम्।       ४७४
+अमैन्दाङ् गॊऴुगाऩ् अळवऱियाऩ् तऩ्ऩै
+वियन्दाऩ् विरैन्दु कॆडुम्। ४७४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७५</summary>
@@ -275,8 +275,8 @@ Cart's axle breaks by gross volume.        475
 
 <details><summary>मूलम् - ४७५</summary>
 
-पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्  
-जाल मिगुत्तुप् पॆयिन्।       ४७५
+पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्
+जाल मिगुत्तुप् पॆयिऩ्। ४७५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७६</summary>
@@ -330,8 +330,8 @@ Ends the life as his body rips.        476
 
 <details><summary>मूलम् - ४७६</summary>
 
-नुनिक्कॊम्बर् एऱिनार् अह्दिऱन् दूक्किन्  
-उयिर्क्किऱुदि आगि विडुम्।       ४७६
+नुऩिक्कॊम्बर् एऱिऩार् अह्दिऱन् दूक्किऩ्
+उयिर्क्किऱुदि आगि विडुम्। ४७६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७७</summary>
@@ -385,8 +385,8 @@ This way give and guard your treasure.        477
 
 <details><summary>मूलम् - ४७७</summary>
 
-आऱ्ऱिन् अऱवऱिन्दु ईग अदुबॊरुळ्  
-पोऱ्ऱि वऴङ्गु नॆऱि।       ४७७
+आऱ्ऱिऩ् अऱवऱिन्दु ईग अदुबॊरुळ्
+पोऱ्ऱि वऴङ्गु नॆऱि। ४७७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७८</summary>
@@ -440,8 +440,8 @@ No matter how small income is.        478
 
 <details><summary>मूलम् - ४७८</summary>
 
-आगाऱु अळविट्टि तायिनुङ् गेडिल्लै  
-पोगाऱु अगलाक् कडै।       ४७८
+आगाऱु अळविट्टि तायिऩुङ् गेडिल्लै
+पोगाऱु अगलाक् कडै। ४७८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७९</summary>
@@ -500,8 +500,8 @@ His life seems rich but thins and ends.        479
 
 <details><summary>मूलम् - ४७९</summary>
 
-अळवऱ஧न्दु वाऴादान् वाऴ्क्कै उळबोल  
-इल्लागित् तोऩ्ऱाक् कॆडुम्।       ४७९
+अळवऱ஧न्दु वाऴादाऩ् वाऴ्क्कै उळबोल
+इल्लागित् तोऩ्ऱाक् कॆडुम्। ४७९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८०</summary>
@@ -559,6 +559,7 @@ Sans level if one lavishes.        480
 
 <details><summary>मूलम् - ४८०</summary>
 
-उळवरै तूक्काद ऒप्पुर वाण्मै  
-वळवरै वल्लैक् कॆडुम्।       ४८०
+उळवरै तूक्काद ऒप्पुर वाण्मै
+वळवरै वल्लैक् कॆडुम्। ४८०
 </details>
+

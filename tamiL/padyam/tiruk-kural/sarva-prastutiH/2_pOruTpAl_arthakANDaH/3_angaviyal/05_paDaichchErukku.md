@@ -56,8 +56,8 @@ Many who stood, in stones repose.        771
 
 <details><summary>मूलम् - ७७१</summary>
 
-ऎन्नैमुन् निल्लन्मिन् तॆव्विर् पलरॆन्नै  
-मुन्निऩ्ऱु कल्निन् ऱवर्।       ७७१
+ऎऩ्ऩैमुऩ् निल्लऩ्मिऩ् तॆव्विर् पलरॆऩ्ऩै
+मुऩ्निऩ्ऱु कल्निऩ् ऱवर्। ७७१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७२</summary>
@@ -112,8 +112,8 @@ Is prouder than shaft that hit a hare.        772
 
 <details><summary>मूलम् - ७७२</summary>
 
-कान मुयलॆय्द अम्बिनिल् यानै  
-पिऴैत्तवेल् एन्दल् इनिदु।       ७७२
+काऩ मुयलॆय्द अम्बिऩिल् याऩै
+पिऴैत्तवेल् एन्दल् इऩिदु। ७७२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७३</summary>
@@ -168,8 +168,8 @@ Mercy to the fallen is its edge.        773
 
 <details><summary>मूलम् - ७७३</summary>
 
-पेराण्मै ऎन्ब तऱुगण्ऒन् ऱुऱ्ऱक्काल्  
-ऊराण्मै मऱ्ऱदन् ऎह्हु³।       ७७३
+पेराण्मै ऎऩ्प तऱुगण्ऒऩ् ऱुऱ्ऱक्काल्
+ऊराण्मै मऱ्ऱतऩ् ऎह्हु³। ७७३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७४</summary>
@@ -229,8 +229,8 @@ One in body smiles another chance.        774
 
 <details><summary>मूलम् - ७७४</summary>
 
-कैवेल् कळिऱ्ऱॊडु पोक्कि वरुबवन्  
-मॆय्वेल् पऱिया नगुम्।       ७७४
+कैवेल् कळिऱ्ऱॊडु पोक्कि वरुबवऩ्
+मॆय्वेल् पऱिया नगुम्। ७७४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७५</summary>
@@ -285,8 +285,8 @@ When lances dart if heroes wink
 
 <details><summary>मूलम् - ७७५</summary>
 
-विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिन्  
-ऒट्टऩ्ऱो वन्ग णवर्क्कु।       ७७५
+विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिऩ्
+ऒट्टऩ्ऱो वऩ्क णवर्क्कु। ७७५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७६</summary>
@@ -341,8 +341,8 @@ Which did not battle-wounds sustain.        776
 
 <details><summary>मूलम् - ७७६</summary>
 
-विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किनुळ्  
-वैक्कुम्दन् नाळै ऎडुत्तु।       ७७६
+विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किऩुळ्
+वैक्कुम्दऩ् नाळै ऎडुत्तु। ७७६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७७</summary>
@@ -397,8 +397,8 @@ Who sacrifice their life for fame.        777
 
 <details><summary>मूलम् - ७७७</summary>
 
-सुऴलुम् इसैवेण्डि वेण्डा उयिरार्  
-कऴल्याप्पुक् कारिगै नीर्त्तु।       ७७७
+सुऴलुम् इसैवेण्डि वेण्डा उयिरार्
+कऴल्याप्पुक् कारिगै नीर्त्तु। ७७७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७८</summary>
@@ -453,8 +453,8 @@ They fear loss of glory; not life.        778
 
 <details><summary>मूलम् - ७७८</summary>
 
-उऱिन्उयिर् अञ्जा मऱवर् इऱैवन्  
-सॆऱिनुम् सीर्गुऩ्ऱल् इलर्।       ७७८
+उऱिऩ्उयिर् अञ्जा मऱवर् इऱैवऩ्
+सॆऱिऩुम् सीर्गुऩ्ऱल् इलर्। ७७८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७९</summary>
@@ -509,8 +509,8 @@ Their lives in war to keep their vows?        779
 
 <details><summary>मूलम् - ७७९</summary>
 
-इऴैत्तदु इगवामैच् चावारै यारे  
-पिऴैत्तदु ऒऱुक्किऱ्पवर्।       ७७९
+इऴैत्तदु इगवामैच् चावारै यारे
+पिऴैत्तदु ऒऱुक्किऱ् पवर्। ७७९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८०</summary>
@@ -564,9 +564,10 @@ Which draws the tears of the ruler.        780
 
 <details><summary>मूलम् - ७८०</summary>
 
-पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिन् साक्काडु  
-इरन्दुगोळ् तक्कदु उडैत्तु।       ७८०
+पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिऩ् साक्काडु
+इरन्दुगोळ् तक्कदु उडैत्तु। ७८०
 </details>
+
 २,३।६ नट्पु  
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८१</summary>
@@ -623,8 +624,8 @@ That guards one against acts villain?        781
 
 <details><summary>मूलम् - ७८१</summary>
 
-सॆयऱ्करिय यावुळ नट्पिन् अदुबोल्  
-विनैक्करिय यावुळ काप्पु।      ७८१
+सॆयऱ्करिय यावुळ नट्पिऩ् अदुबोल्
+विऩैक्करिय यावुळ काप्पु। ७८१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८२</summary>
@@ -678,8 +679,8 @@ The bad withers like waning moon.        782
 
 <details><summary>मूलम् - ७८२</summary>
 
-निऱैनीर नीरवर् केण्मै पिऱैमदिप्  
-पिन्नीर पेदैयार् नट्पु।       ७८२
+निऱैनीर नीरवर् केण्मै पिऱैमदिप्
+पिऩ्ऩीर पेदैयार् नट्पु। ७८२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८३</summary>
@@ -733,8 +734,8 @@ The more one moves the more he knows.        783
 
 <details><summary>मूलम् - ७८३</summary>
 
-नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्  
-पण्बुडै याळर् तॊडर्बु।       ७८३
+नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्
+पण्बुडै याळर् तॊडर्बु। ७८३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८४</summary>
@@ -793,8 +794,8 @@ But to hit when faults exceed.        784
 
 <details><summary>मूलम् - ७८४</summary>
 
-नगुदऱ्पॊरुट्टऩ्ऱु नट्टल् मिगुदिक्कण्  
-मेऱ्चॆनऱु इडित्तऱ्पॊरुट्टु।       ७८४
+नगुदऱ् पॊरुट्टऩ्ऱु नट्टल् मिगुदिक्कण्
+मेऱ्सॆऩऱु इडित्तऱ् पॊरुट्टु। ७८४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८५</summary>
@@ -848,8 +849,8 @@ Friendship's feeling heart's fellowship.        785
 
 <details><summary>मूलम् - ७८५</summary>
 
-पुणर्च्चि पऴगुदल् वेण्डा उणर्च्चिदान्  
-नट्पाङ् गिऴमै तरुम्।       ७८५
+पुणर्चि पऴगुदल् वेण्डा उणर्चिदाऩ्
+नट्पाङ् गिऴमै तरुम्। ७८५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८६</summary>
@@ -908,8 +909,8 @@ It is the smiling heart's embrace.        786
 
 <details><summary>मूलम् - ७८६</summary>
 
-मुगनग नट्पदु नट्पऩ्ऱु नॆञ्जत्तु  
-अगनग नट्पदु नट्पु।       ७८६
+मुगनग नट्पदु नट्पऩ्ऱु नॆञ्जत्तु
+अगनग नट्पदु नट्पु। ७८६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८७</summary>
@@ -963,8 +964,8 @@ The load of pain and right path shows.        787
 
 <details><summary>मूलम् - ७८७</summary>
 
-अऴिवि नवैनीक्कि आऱुय्त्तु अऴिविन्गण्  
-अल्लल् उऴप्पदाम् नट्पु।       ७८७
+अऴिवि ऩवैनीक्कि आऱुय्त्तु अऴिविऩ्कण्
+अल्लल् उऴप्पदाम् नट्पु। ७८७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८८</summary>
@@ -1018,8 +1019,8 @@ Like hands picking up dress that slips.        788
 
 <details><summary>मूलम् - ७८८</summary>
 
-उडुक्कै इऴन्दवन् कैबोल आङ्गे  
-इडुक्कण् कळैवदाम् नट्पु।       ७८८
+उडुक्कै इऴन्दवऩ् कैबोल आङ्गे
+इडुक्कण् कळैवदाम् नट्पु। ७८८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८९</summary>
@@ -1073,8 +1074,8 @@ That always helps with utmost warmth.        789
 
 <details><summary>मूलम् - ७८९</summary>
 
-नट्पिऱ्कु वीऱ्ऱिरुक्कै यादॆनिन् कॊट्पिऩ्ऱि  
-ऒल्लुंवाय् ऊऩ्ऱुम् निलै।       ७८९
+नट्पिऱ्कु वीऱ्ऱिरुक्कै यादॆऩिऩ् कॊट्पिऩ्ऱि
+ऒल्लुंवाय् ऊऩ्ऱुम् निलै। ७८९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९०</summary>
@@ -1132,6 +1133,7 @@ Ev'n this boast will friendship mar.        790
 
 <details><summary>मूलम् - ७९०</summary>
 
-इनैयर् इवरॆमक्कु इन्नम्याम् ऎऩ्ऱु  
-पुनैयिनुम् पुल्लॆन्नुम् नट्पु।       ७९०
+इऩैयर् इवरॆमक्कु इऩ्ऩम्याम् ऎऩ्ऱु
+पुऩैयिऩुम् पुल्लॆऩ्ऩुम् नट्पु। ७९०
 </details>
+

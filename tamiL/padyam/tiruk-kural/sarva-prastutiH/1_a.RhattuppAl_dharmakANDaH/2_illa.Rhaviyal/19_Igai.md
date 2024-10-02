@@ -56,8 +56,8 @@ The rest is loan and vanity.        221
 
 <details><summary>मूलम् - २२१</summary>
 
-वऱियार्क्कॊऩ्ऱु ईवदे ईगैमऱ्ऱॆल्लाम्  
-कुऱियॆदिर्प्पै नीर तुडैत्तु।       २२१
+वऱियार्क्कॊऩ्ऱु ईवदे ईगैमऱ् ऱॆल्लाम्
+कुऱियॆदिर्प्पै नीर तुडैत्तु। २२१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२२</summary>
@@ -112,8 +112,8 @@ To give is good, were heaven forbid.        222
 
 <details><summary>मूलम् - २२२</summary>
 
-नल्लाऱु ऎनिनुम् कॊळल्दीदु मेलुलगम्  
-इल्लॆनिनुम् ईदले नऩ्ऱु।       २२२
+नल्लाऱु ऎऩिऩुम् कॊळल्दीदु मेलुलगम्
+इल्लॆऩिऩुम् ईदले नऩ्ऱु। २२२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२३</summary>
@@ -168,8 +168,8 @@ But giving marks a noble birth.        223
 
 <details><summary>मूलम् - २२३</summary>
 
-इलनॆन्नुम् ऎव्वम् उरैयामै ईदल्  
-कुलनुडैयान् कण्णे युळ।       २२३
+इलऩॆऩ्ऩुम् ऎव्वम् उरैयामै ईदल्
+कुलऩुडैयाऩ् कण्णे युळ। २२३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२४</summary>
@@ -224,8 +224,8 @@ Until the giver sees him bright.        224
 
 <details><summary>मूलम् - २२४</summary>
 
-इन्नादु इरक्कप् पडुदल् इरन्दवर्  
-इन्मुगङ् गाणुम् अळवु।       २२४
+इऩ्ऩादु इरक्कप् पडुदल् इरन्दवर्
+इऩ्मुगङ् गाणुम् अळवु। २२४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२५</summary>
@@ -280,8 +280,8 @@ Than that of penance which endures.        225
 
 <details><summary>मूलम् - २२५</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् पसिआऱ्ऱल् अप्पसियै  
-माऱ्ऱुवार् आऱ्ऱलिन् पिन्।       २२५
+आऱ्ऱुवार् आऱ्ऱल् पसिआऱ्ऱल् अप्पसियै
+माऱ्ऱुवार् आऱ्ऱलिऩ् पिऩ्। २२५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२६</summary>
@@ -335,8 +335,8 @@ If room you seek to store your gains.        226
 
 <details><summary>मूलम् - २२६</summary>
 
-अऱ्ऱार् अऴिबसि तीर्त्तल् अह्दॊरुवन्  
-पॆऱ्ऱान् पॊरुळ्वैप् पुऴि।       २२६
+अऱ्ऱार् अऴिबसि तीर्त्तल् अह्दॊरुवऩ्
+पॆऱ्ऱाऩ् पॊरुळ्वैप् पुऴि। २२६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२७</summary>
@@ -390,8 +390,8 @@ Hunger shall not harm his creed.        227
 
 <details><summary>मूलम् - २२७</summary>
 
-पात्तूण् मरीइ यवनैप् पसियॆन्नुम्  
-तीप्पिणि तीण्डल् अरिदु।       २२७
+पात्तूण् मरीइ यवऩैप् पसियॆऩ्ऩुम्
+तीप्पिणि तीण्डल् अरिदु। २२७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२८</summary>
@@ -445,8 +445,8 @@ Hard-hearted rich whose hoarding fails.        228
 
 <details><summary>मूलम् - २२८</summary>
 
-ईत्तुवक्कुम् इन्बम् अऱियार्गॊल् तामुडैमै  
-वैत्तिऴक्कुम् वन्ग णवर्।       २२८
+ईत्तुवक्कुम् इऩ्पम् अऱियार्गॊल् तामुडैमै
+वैत्तिऴक्कुम् वऩ्क णवर्। २२८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२९</summary>
@@ -500,8 +500,8 @@ Alone what one's greed is hoarding.        229
 
 <details><summary>मूलम् - २२९</summary>
 
-इरत्तलिन् इन्नादु मऩ्ऱ निरप्पिय  
-तामे तमियर् उणल्।       २२९
+इरत्तलिऩ् इऩ्ऩादु मऩ्ऱ निरप्पिय
+तामे तमियर् उणल्। २२९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३०</summary>
@@ -554,6 +554,7 @@ Yet more is pain of giftless dearth.        230
 
 <details><summary>मूलम् - २३०</summary>
 
-सादलिन् इन्नाद तिल्लै इनिददूउम्  
-ईदल् इयैयाक् कडै।       २३०
+सादलिऩ् इऩ्ऩाद तिल्लै इऩिददूउम्
+ईदल् इयैयाक् कडै। २३०
 </details>
+

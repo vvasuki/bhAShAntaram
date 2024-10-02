@@ -52,8 +52,8 @@ Of men of virtue and mature brain.        441
 
 <details><summary>मूलम् - ४४१</summary>
 
-अऱनऱिन्दु मूत्त अऱिवुडैयार् केण्मै  
-तिऱनऱिन्दु तेर्न्दु कॊळल्।       ४४१
+अऱऩऱिन्दु मूत्त अऱिवुडैयार् केण्मै
+तिऱऩऱिन्दु तेर्न्दु कॊळल्। ४४१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४२</summary>
@@ -104,8 +104,8 @@ Who ward and safe-guard you from ill.        442
 
 <details><summary>मूलम् - ४४२</summary>
 
-उऱ्ऱनोय् नीक्कि उऱाअमै मुऱ्काक्कुम्  
-पॆऱ्ऱियार्प् पेणिक् कॊळल्।       ४४२
+उऱ्ऱनोय् नीक्कि उऱाअमै मुऱ्काक्कुम्
+पॆऱ्ऱियार्प् पेणिक् कॊळल्। ४४२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४३</summary>
@@ -156,8 +156,8 @@ Is rarest of the rare things known.        443
 
 <details><summary>मूलम् - ४४३</summary>
 
-अरियवऱ्ऱु ळॆल्लाम् अरिदे पॆरियारैप्  
-पेणित् तमराक् कॊळल्।       ४४३
+अरियवऱ्ऱु ळॆल्लाम् अरिदे पॆरियारैप्
+पेणित् तमराक् कॊळल्। ४४३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४४</summary>
@@ -208,8 +208,8 @@ Power of all powers promotes.        444
 
 <details><summary>मूलम् - ४४४</summary>
 
-तम्मिऱ्पॆरियार् तमरा ऒऴुगुदल्  
-वन्मैयु ळॆल्लान् दलै।       ४४४
+तम्मिऱ् पॆरियार् तमरा ऒऴुगुदल्
+वऩ्मैयु ळॆल्लान् दलै। ४४४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४५</summary>
@@ -260,8 +260,8 @@ Round him should be the right and wise.        445
 
 <details><summary>मूलम् - ४४५</summary>
 
-सूऴ्वार्गण् णाग ऒऴुगलान् मन्नवन्  
-सूऴ्वारैक् सूऴ्न्दु कॊळल्।       ४४५
+सूऴ्वार्गण् णाग ऒऴुगलाऩ् मऩ्ऩवऩ्
+सूऴ्वारैक् सूऴ्न्दु कॊळल्। ४४५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४६</summary>
@@ -312,8 +312,8 @@ Has none to fear from frightful foes.        446
 
 <details><summary>मूलम् - ४४६</summary>
 
-तक्का रिनत्तनाय्त् तानॊऴुग वल्लानैच्  
-चॆऱ्ऱार् सॆयक्किडन्द तिल्।       ४४६
+तक्का रिऩत्तऩाय्त् ताऩॊऴुग वल्लाऩैच्
+चॆऱ्ऱार् सॆयक्किडन्द तिल्। ४४६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४७</summary>
@@ -369,8 +369,8 @@ whose friends reprove him when he errs.        447
 
 <details><summary>मूलम् - ४४७</summary>
 
-इडिक्कुन् दुणैयारै याळ्वरै यारे  
-कॆडुक्कुन् दगैमै यवर्।       ४४७
+इडिक्कुन् दुणैयारै याळ्वरै यारे
+कॆडुक्कुन् दगैमै यवर्। ४४७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४८</summary>
@@ -421,8 +421,8 @@ Ruins himself sans harmful foes.        448
 
 <details><summary>मूलम् - ४४८</summary>
 
-इडिप्पारै इल्लाद एमरा मन्नन्  
-कॆडुप्पा रिलानुङ् गॆडुम्।       ४४८
+इडिप्पारै इल्लाद एमरा मऩ्ऩऩ्
+कॆडुप्पा रिलाऩुङ् गॆडुम्। ४४८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४९</summary>
@@ -473,8 +473,8 @@ No prop secure sans good comrade.        449
 
 <details><summary>मूलम् - ४४९</summary>
 
-मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्  
-जार्बिलार्क् किल्लै निलै।       ४४९
+मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्
+जार्बिलार्क् किल्लै निलै। ४४९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४५०</summary>
@@ -524,6 +524,7 @@ Than being hated by countless foes.        450
 
 <details><summary>मूलम् - ४५०</summary>
 
-पल्लार् पगै कॊळलिऱ्पत्तडुत्त तीमैत्ते  
-नल्लार् तॊडर्गै विडल्।       ४५०
+पल्लार् पगै कॊळलिऱ् पत्तडुत्त तीमैत्ते
+नल्लार् तॊडर्गै विडल्। ४५०
 </details>
+

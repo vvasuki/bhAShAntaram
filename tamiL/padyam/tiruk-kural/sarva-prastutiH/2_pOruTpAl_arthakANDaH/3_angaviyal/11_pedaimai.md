@@ -56,8 +56,8 @@ To favour loss and forego gain.        831
 
 <details><summary>मूलम् - ८३१</summary>
 
-पेदैमै ऎन्बदॊऩ्ऱु यादॆनिन् एदङ्गॊण्डु  
-ऊदियम् पोग विडल्।      ८३१
+पेदैमै ऎऩ्पदॊऩ्ऱु यादॆऩिऩ् एदङ्गॊण्डु
+ऊदियम् पोग विडल्। ८३१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३२</summary>
@@ -116,8 +116,8 @@ A lewd and lawless life so bad.        832
 
 <details><summary>मूलम् - ८३२</summary>
 
-पेदैमैयुळ् ऎल्लाम् पेदैमै कादन्मै  
-कैयल्ल तन्गट् चॆयल्।       ८३२
+पेदैमैयुळ् ऎल्लाम् पेदैमै कादऩ्मै
+कैयल्ल तऩ्कट् चॆयल्। ८३२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३३</summary>
@@ -171,8 +171,8 @@ Such are the marks of foolishness.        833
 
 <details><summary>मूलम् - ८३३</summary>
 
-नाणामै नाडामै नारिन्मै यादॊऩ्ऱुम्  
-पेणामै पेदै तॊऴिल्       ८३३
+नाणामै नाडामै नारिऩ्मै यादॊऩ्ऱुम्
+पेणामै पेदै तॊऴिल् ८३३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३४</summary>
@@ -226,8 +226,8 @@ Knows, teaches, but self-control spurns.        834
 
 <details><summary>मूलम् - ८३४</summary>
 
-ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् तानडङ्गाप्  
-पेदैयिन् पेदैयार् इल्।       ८३४
+ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् ताऩटङ्गाप्
+पेदैयिऩ् पेदैयार् इल्। ८३४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३५</summary>
@@ -281,8 +281,8 @@ In single birth of hellish ills.        835
 
 <details><summary>मूलम् - ८३५</summary>
 
-ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्  
-तान्बुक् कऴुन्दुम् अळऱु।      ८३५
+ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्
+ताऩ्पुक् कऴुन्दुम् अळऱु। ८३५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३६</summary>
@@ -336,8 +336,8 @@ Not only fails but feels fettered.        836
 
 <details><summary>मूलम् - ८३६</summary>
 
-पॊय्बडुम् ऒऩ्ऱो पुनैबूणुम् कैयऱियाप्  
-पेदै विनैमेऱ्कॊळिन्।      ८३६
+पॊय्बडुम् ऒऩ्ऱो पुऩैबूणुम् कैयऱियाप्
+पेदै विऩैमेऱ् कॊळिऩ्। ८३६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३७</summary>
@@ -391,8 +391,8 @@ When fools mishandle fortunes vast.        837
 
 <details><summary>मूलम् - ८३७</summary>
 
-एदिलार् आरत् तमर्बसिप्पर् पेदै  
-पॆरुञ्जॆल्वम् उऱ्ऱक् कडै।      ८३७
+एदिलार् आरत् तमर्बसिप्पर् पेदै
+पॆरुञ्जॆल्वम् उऱ्ऱक् कडै। ८३७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३८</summary>
@@ -446,8 +446,8 @@ Like dazed and drunken stupids stand.        838
 
 <details><summary>मूलम् - ८३८</summary>
 
-मैयल् ऒरुवन् कळित्तऱ्ऱाल् पेदैदन्  
-कैयॊऩ्ऱु उडैमै पॆऱिन्।      ८३८
+मैयल् ऒरुवऩ् कळित्तऱ्ऱाल् पेदैदऩ्
+कैयॊऩ्ऱु उडैमै पॆऱिऩ्। ८३८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३९</summary>
@@ -501,8 +501,8 @@ For without a groan we part.        839
 
 <details><summary>मूलम् - ८३९</summary>
 
-पॆरिदिनिदु पेदैयार् केण्मै पिरिविन्गण्  
-पीऴै तरुवदॊन् ऱिल्।       ८३९
+पॆरिदिऩिदु पेदैयार् केण्मै पिरिविऩ्कण्
+पीऴै तरुवदॊऩ् ऱिल्। ८३९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४०</summary>
@@ -560,6 +560,7 @@ Looks like couch trod by unclean feet.        840
 
 <details><summary>मूलम् - ८४०</summary>
 
-कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्  
-कुऴाअत्तुप् पेदै पुगल्।       ८४०
+कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्
+कुऴाअत्तुप् पेदै पुगल्। ८४०
 </details>
+

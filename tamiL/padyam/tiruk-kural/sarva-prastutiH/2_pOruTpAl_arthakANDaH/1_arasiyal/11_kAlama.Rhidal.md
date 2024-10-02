@@ -55,8 +55,8 @@ Kings need right time their foes to quell.        481
 
 <details><summary>मूलम् - ४८१</summary>
 
-पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
-वेन्दर्क्कु वेण्डुम् पॊऴुदु।       ४८१
+पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्
+वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८२</summary>
@@ -110,8 +110,8 @@ That fortune binds in bon accord.        482
 
 <details><summary>मूलम् - ४८२</summary>
 
-परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविनैत्  
-तीरामै आर्क्कुङ् गयिऱु।       ४८२
+परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविऩैत्
+तीरामै आर्क्कुङ् गयिऱु। ४८२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८३</summary>
@@ -165,8 +165,8 @@ With proper means and time and tacts?        483
 
 <details><summary>मूलम् - ४८३</summary>
 
-अरुविनै यॆन्ब उळवो करुवियान्  
-कालम् अऱिन्दु सॆयिन्।       ४८३
+अरुविऩै यॆऩ्प उळवो करुवियाऩ्
+कालम् अऱिन्दु सॆयिऩ्। ४८३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८४</summary>
@@ -220,8 +220,8 @@ Even the world you win with ease.        484
 
 <details><summary>मूलम् - ४८४</summary>
 
-ञालम् करुदिनुङ् गैगूडुङ् गालम्  
-करुदि इडत्ताऱ्चॆयिन्।       ४८४
+ञालम् करुदिऩुङ् गैगूडुङ् गालम्
+करुदि इडत्ताऱ् सॆयिऩ्। ४८४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८५</summary>
@@ -275,8 +275,8 @@ Wait unruffled biding their time.        485
 
 <details><summary>मूलम् - ४८५</summary>
 
-कालम् करुदि इरुप्पर् कलङ्गादु  
-ञालम् करुदु पवर्।       ४८५
+कालम् करुदि इरुप्पर् कलङ्गादु
+ञालम् करुदु पवर्। ४८५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८६</summary>
@@ -330,8 +330,8 @@ Like rams retreating but to butt.        486
 
 <details><summary>मूलम् - ४८६</summary>
 
-ऊक्क मुडैयान् ऒडुक्कम् पॊरुदगर्  
-ताक्कऱ्कुप् पेरुन् दगैत्तु।      ४८६
+ऊक्क मुडैयाऩ् ऒडुक्कम् पॊरुदगर्
+ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८७</summary>
@@ -385,8 +385,8 @@ They watch their time with hidden ire.        487
 
 <details><summary>मूलम् - ४८७</summary>
 
-पॊळ्ळॆन आङ्गे पुऱंवेरार् कालम्बार्त्तु  
-उळ्वेर्प्पर् ऒळ्ळि यवर्।       ४८७
+पॊळ्ळॆऩ आङ्गे पुऱंवेरार् कालम्बार्त्तु
+उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८८</summary>
@@ -445,8 +445,8 @@ Fell down their head in fateful time.        488
 
 <details><summary>मूलम् - ४८८</summary>
 
-सॆऱुनरैक् काणिन् सुमक्क इऱुवरै  
-काणिन् किऴक्काम् तलै।       ४८८
+सॆऱुनरैक् काणिऩ् सुमक्क इऱुवरै
+काणिऩ् किऴक्काम् तलै। ४८८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८९</summary>
@@ -505,8 +505,8 @@ Dare and do hard things then and there.        489
 
 <details><summary>मूलम् - ४८९</summary>
 
-ऎय्दऱ्करियदु इयैन्दक्काल् अन्निलैये  
-सॆय्दऱ्करिय सॆयल्।       ४८९
+ऎय्दऱ् करियदु इयैन्दक्काल् अन्निलैये
+सॆय्दऱ् करिय सॆयल्। ४८९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४९०</summary>
@@ -559,6 +559,7 @@ In fighting time strike like its peck.        490
 
 <details><summary>मूलम् - ४९०</summary>
 
-कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱदन्  
-कुत्तॊक्क सीर्त्त इडत्तु।       ४९०
+कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱतऩ्
+कुत्तॊक्क सीर्त्त इडत्तु। ४९०
 </details>
+

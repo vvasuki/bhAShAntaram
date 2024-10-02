@@ -56,8 +56,8 @@ Is anvil in time, to strike you down.        821
 
 <details><summary>मूलम् - ८२१</summary>
 
-सीरिडम् काणिन् ऎऱिदऱ्कुप् पट् टडै  
-नेरा निरन्दवर् नट्पु।       ८२१
+सीरिडम् काणिऩ् ऎऱिदऱ्कुप् पट् टडै
+नेरा निरन्दवर् नट्पु। ८२१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
@@ -111,8 +111,8 @@ Their friendship's fickle like woman's heart.        822
 
 <details><summary>मूलम् - ८२२</summary>
 
-इनम्बोऩ्ऱु इनमल्लार् केण्मै मगळिर्  
-मनम्बोल वेऱु पडुम्।       ८२२
+इऩम्बोऩ्ऱु इऩमल्लार् केण्मै मगळिर्
+मऩम्बोल वेऱु पडुम्। ८२२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
@@ -166,8 +166,8 @@ But heartfelt-love is hard for foes.        823
 
 <details><summary>मूलम् - ८२३</summary>
 
-पलनल्ल कऱ्ऱक् कडैत्तु मननल्लर्  
-आगुदल् माणार्क् करिदु।      ८२३
+पलनल्ल कऱ्ऱक् कडैत्तु मऩनल्लर्
+आगुदल् माणार्क् करिदु। ८२३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२४</summary>
@@ -226,8 +226,8 @@ Whose heart is full of cunning guiles.        824
 
 <details><summary>मूलम् - ८२४</summary>
 
-मुगत्तिन् इनिय नगाअ अगत्तिन्ना  
-वञ्जरै अञ्जप् पडुम्।       ८२४
+मुगत्तिऩ् इऩिय नगाअ अगत्तिऩ्ऩा
+वञ्जरै अञ्जप् पडुम्। ८२४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
@@ -286,8 +286,8 @@ Whose mind with your mind goes ill.        825
 
 <details><summary>मूलम् - ८२५</summary>
 
-मनत्तिन् अमैया तवरै ऎनैत्तॊऩ्ऱुम्  
-सॊल्लिनाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु।      ८२५
+मऩत्तिऩ् अमैया तवरै ऎऩैत्तॊऩ्ऱुम्
+सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
@@ -341,8 +341,8 @@ Though they speak like friends in fine.        826
 
 <details><summary>मूलम् - ८२६</summary>
 
-नट्टार्बोल् नल्लवै सॊल्लिनुम् ऒट्टार्सॊल्  
-ऒल्लै उणरप् पडुम्।       ८२६
+नट्टार्बोल् नल्लवै सॊल्लिऩुम् ऒट्टार्सॊल्
+ऒल्लै उणरप् पडुम्। ८२६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२७</summary>
@@ -396,8 +396,8 @@ Danger darts from bending bows.        827
 
 <details><summary>मूलम् - ८२७</summary>
 
-सॊल्वणक्कम् ऒन्नार्गण् कॊळ्ळऱ्क विल्वणक्कम्  
-तीङ्गु कुऱित्तमै यान्।      ८२७
+सॊल्वणक्कम् ऒऩ्ऩार्गण् कॊळ्ळऱ्क विल्वणक्कम्
+तीङ्गु कुऱित्तमै याऩ्। ८२७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२८</summary>
@@ -451,8 +451,8 @@ Their sobbing tears have lurking harms.        828
 
 <details><summary>मूलम् - ८२८</summary>
 
-तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒन्नार्  
-अऴुदगण् णीरुम् अनैत्तु।      ८२८
+तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒऩ्ऩार्
+अऴुदगण् णीरुम् अऩैत्तु। ८२८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
@@ -506,8 +506,8 @@ Cajole and crush them in friendly guise.        829
 
 <details><summary>मूलम् - ८२९</summary>
 
-मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
-नट्पिनुळ् साप्पुल्लऱ्पाऱ्ऱु।       ८२९
+मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु
+नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
@@ -560,6 +560,7 @@ Feign love on face but not in heart.        830
 
 <details><summary>मूलम् - ८३०</summary>
 
-पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु  
-अगनट्पु ऒरीइ विडल्।       ८३०
+पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु
+अगनट्पु ऒरीइ विडल्। ८३०
 </details>
+

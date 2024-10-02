@@ -52,8 +52,8 @@ Who're free from wrath pride lust petty.        431
 
 <details><summary>मूलम् - ४३१</summary>
 
-सॆरुक्कुञ् जिनमुम् सिऱुमैयुम् इल्लार्  
-पॆरुक्कम् पॆरुमिद नीर्त्तु।       ४३१
+सॆरुक्कुञ् जिऩमुम् सिऱुमैयुम् इल्लार्
+पॆरुक्कम् पॆरुमिद नीर्त्तु। ४३१
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३२</summary>
@@ -104,8 +104,8 @@ These add blemishes to a prince.        432
 
 <details><summary>मूलम् - ४३२</summary>
 
-इवऱलुम् माण्बिऱन्द मानमुम् माणा  
-उवगैयुम् एदम् इऱैक्कु।       ४३२
+इवऱलुम् माण्बिऱन्द माऩमुम् माणा
+उवगैयुम् एदम् इऱैक्कु। ४३२
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३३</summary>
@@ -161,8 +161,8 @@ Men fearing disgrace, Palm-tall deem.        433
 
 <details><summary>मूलम् - ४३३</summary>
 
-तिनैत्तुणैयाङ् गुऱ्ऱम् वरिनुम् पनैत्तुणैयाक्  
-कॊळ्वर् पऴिनाणु वार्।       ४३३
+तिऩैत्तुणैयाङ् गुऱ्ऱम् वरिऩुम् पऩैत्तुणैयाक्
+कॊळ्वर् पऴिनाणु वार्। ४३३
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३४</summary>
@@ -213,8 +213,8 @@ Our fatal foe is that default.        434
 
 <details><summary>मूलम् - ४३४</summary>
 
-कुऱ्ऱमे काक्क पॊरुळागक् कुऱ्ऱमे  
-अऱ्ऱन् द्रूउम् पगै।       ४३४
+कुऱ्ऱमे काक्क पॊरुळागक् कुऱ्ऱमे
+अऱ्ऱन् द्रूउम् पगै। ४३४
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३५</summary>
@@ -265,8 +265,8 @@ Loses his life like flame-lit straw.        435
 
 <details><summary>मूलम् - ४३५</summary>
 
-वरुमुन्नर्क् कावादान् वाऴ्क्कै ऎरिमुन्नर्  
-वैत्तूऱु पोलक् कॆडुम्।       ४३५
+वरुमुऩ्ऩर्क् कावादाऩ् वाऴ्क्कै ऎरिमुऩ्ऩर्
+वैत्तूऱु पोलक् कॆडुम्। ४३५
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३६</summary>
@@ -317,8 +317,8 @@ First his faults, then scans others.        436
 
 <details><summary>मूलम् - ४३६</summary>
 
-तन्गुऱ्ऱम् नीक्किप् पिऱर्गुऱ्ऱङ् गाण्गिऱ्पिन्  
-ऎन्गुऱ्ऱ मागुम् इऱैक्कु?       ४३६
+तऩ्कुऱ्ऱम् नीक्किप् पिऱर्गुऱ्ऱङ् गाण्गिऱ्पिऩ्
+ऎऩ्कुऱ्ऱ मागुम् इऱैक्कु? ४३६
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३७</summary>
@@ -369,8 +369,8 @@ Who would not for a good cause spend.        437
 
 <details><summary>मूलम् - ४३७</summary>
 
-सॆयऱ्पाल सॆय्या तिवऱियान् सॆल्वम्  
-उयऱ्पाल तऩ्ऱिक् कॆडुम्।       ४३७
+सॆयऱ्पाल सॆय्या तिवऱियाऩ् सॆल्वम्
+उयऱ्पाल तऩ्ऱिक् कॆडुम्। ४३७
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३८</summary>
@@ -421,8 +421,8 @@ Is more than fault the worst apart.        438
 
 <details><summary>मूलम् - ४३८</summary>
 
-पऱ्ऱुळ्ळम् ऎन्नुम् इवऱन्मै ऎऱ्ऱुळ्ळुम्  
-ऎण्णप् पडुवदॊन् ऱऩ्ऱु।       ४३८
+पऱ्ऱुळ्ळम् ऎऩ्ऩुम् इवऱऩ्मै ऎऱ्ऱुळ्ळुम्
+ऎण्णप् पडुवदॊऩ् ऱऩ्ऱु। ४३८
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३९</summary>
@@ -473,8 +473,8 @@ Nor do a deed that does no good.        439
 
 <details><summary>मूलम् - ४३९</summary>
 
-वियवऱ्क ऎञ्ञाऩ्ऱुम् तन्नै नयवऱ्क  
-नऩ्ऱि पयवा विनै।       ४३९
+वियवऱ्क ऎञ्ञाऩ्ऱुम् तऩ्ऩै नयवऱ्क
+नऩ्ऱि पयवा विऩै। ४३९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४०</summary>
@@ -524,6 +524,7 @@ If one his wishes guards in veil.        440
 
 <details><summary>मूलम् - ४४०</summary>
 
-कादल कादल् अऱियामै उय्क्किऱ्पिन्  
-एदिल एदिलार् नूल्।       ४४०
+कादल कादल् अऱियामै उय्क्किऱ्पिऩ्
+एदिल एदिलार् नूल्। ४४०
 </details>
+
