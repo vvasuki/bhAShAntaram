@@ -4,10 +4,10 @@ title = "११ कालमऱिदल्"
 +++
 
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८१</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८१</summary>
 
-पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
-वेन्दर्क्कु वेण्डुम् पॊऴुदु।       ४८१
+पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्
+वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८१</summary>
@@ -59,10 +59,10 @@ Kings need right time their foes to quell.        481
 वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८२</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८२</summary>
 
-परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविनैत्  
-तीरामै आर्क्कुङ् गयिऱु।       ४८२
+परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविऩैत्
+तीरामै आर्क्कुङ् गयिऱु। ४८२
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८२</summary>
@@ -114,10 +114,10 @@ That fortune binds in bon accord.        482
 तीरामै आर्क्कुङ् गयिऱु। ४८२
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८३</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८३</summary>
 
-अरुविनै यॆन्ब उळवो करुवियान्  
-कालम् अऱिन्दु सॆयिन्।       ४८३
+अरुविऩै यॆऩ्प उळवो करुवियाऩ्
+कालम् अऱिन्दु सॆयिऩ्। ४८३
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८३</summary>
@@ -169,10 +169,10 @@ With proper means and time and tacts?        483
 कालम् अऱिन्दु सॆयिऩ्। ४८३
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८४</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८४</summary>
 
-ञालम् करुदिनुङ् गैगूडुङ् गालम्  
-करुदि इडत्ताऱ्चॆयिन्।       ४८४
+ञालम् करुदिऩुङ् गैगूडुङ् गालम्
+करुदि इडत्ताऱ् सॆयिऩ्। ४८४
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८४</summary>
@@ -224,10 +224,10 @@ Even the world you win with ease.        484
 करुदि इडत्ताऱ् सॆयिऩ्। ४८४
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८५</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८५</summary>
 
-कालम् करुदि इरुप्पर् कलङ्गादु  
-ञालम् करुदु पवर्।       ४८५
+कालम् करुदि इरुप्पर् कलङ्गादु
+ञालम् करुदु पवर्। ४८५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८५</summary>
@@ -279,10 +279,10 @@ Wait unruffled biding their time.        485
 ञालम् करुदु पवर्। ४८५
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८६</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८६</summary>
 
-ऊक्क मुडैयान् ऒडुक्कम् पॊरुदगर्  
-ताक्कऱ्कुप् पेरुन् दगैत्तु।      ४८६
+ऊक्क मुडैयाऩ् ऒडुक्कम् पॊरुदगर्
+ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८६</summary>
@@ -334,10 +334,10 @@ Like rams retreating but to butt.        486
 ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८७</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८७</summary>
 
-पॊळ्ळॆन आङ्गे पुऱंवेरार् कालम्बार्त्तु  
-उळ्वेर्प्पर् ऒळ्ळि यवर्।       ४८७
+पॊळ्ळॆऩ आङ्गे पुऱंवेरार् कालम्बार्त्तु
+उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८७</summary>
@@ -389,10 +389,10 @@ They watch their time with hidden ire.        487
 उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८८</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८८</summary>
 
-सॆऱुनरैक् काणिन् सुमक्क इऱुवरै  
-काणिन् किऴक्काम् तलै।       ४८८
+सॆऱुनरैक् काणिऩ् सुमक्क इऱुवरै
+काणिऩ् किऴक्काम् तलै। ४८८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८८</summary>
@@ -449,10 +449,10 @@ Fell down their head in fateful time.        488
 काणिऩ् किऴक्काम् तलै। ४८८
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४८९</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४८९</summary>
 
-ऎय्दऱ्करियदु इयैन्दक्काल् अन्निलैये  
-सॆय्दऱ्करिय सॆयल्।       ४८९
+ऎय्दऱ् करियदु इयैन्दक्काल् अन्निलैये
+सॆय्दऱ् करिय सॆयल्। ४८९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८९</summary>
@@ -509,10 +509,10 @@ Dare and do hard things then and there.        489
 सॆय्दऱ् करिय सॆयल्। ४८९
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ४९०</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ४९०</summary>
 
-कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱदन्  
-कुत्तॊक्क सीर्त्त इडत्तु।       ४९०
+कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱतऩ्
+कुत्तॊक्क सीर्त्त इडत्तु। ४९०
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९०</summary>

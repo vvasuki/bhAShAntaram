@@ -4,10 +4,10 @@ title = "१० कूडानट्पु"
 +++
 
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२१</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२१</summary>
 
-सीरिडम् काणिन् ऎऱिदऱ्कुप् पट् टडै  
-नेरा निरन्दवर् नट्पु।       ८२१
+सीरिडम् काणिऩ् ऎऱिदऱ्कुप् पट् टडै
+नेरा निरन्दवर् नट्पु। ८२१
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२१</summary>
@@ -60,10 +60,10 @@ Is anvil in time, to strike you down.        821
 नेरा निरन्दवर् नट्पु। ८२१
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
 
-इनम्बोऩ्ऱु इनमल्लार् केण्मै मगळिर्  
-मनम्बोल वेऱु पडुम्।       ८२२
+इऩम्बोऩ्ऱु इऩमल्लार् केण्मै मगळिर्
+मऩम्बोल वेऱु पडुम्। ८२२
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२२</summary>
@@ -115,10 +115,10 @@ Their friendship's fickle like woman's heart.        822
 मऩम्बोल वेऱु पडुम्। ८२२
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
 
-पलनल्ल कऱ्ऱक् कडैत्तु मननल्लर्  
-आगुदल् माणार्क् करिदु।      ८२३
+पलनल्ल कऱ्ऱक् कडैत्तु मऩनल्लर्
+आगुदल् माणार्क् करिदु। ८२३
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२३</summary>
@@ -170,10 +170,10 @@ But heartfelt-love is hard for foes.        823
 आगुदल् माणार्क् करिदु। ८२३
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२४</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२४</summary>
 
-मुगत्तिन् इनिय नगाअ अगत्तिन्ना  
-वञ्जरै अञ्जप् पडुम्।       ८२४
+मुगत्तिऩ् इऩिय नगाअ अगत्तिऩ्ऩा
+वञ्जरै अञ्जप् पडुम्। ८२४
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२४</summary>
@@ -230,10 +230,10 @@ Whose heart is full of cunning guiles.        824
 वञ्जरै अञ्जप् पडुम्। ८२४
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
 
-मनत्तिन् अमैया तवरै ऎनैत्तॊऩ्ऱुम्  
-सॊल्लिनाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु।      ८२५
+मऩत्तिऩ् अमैया तवरै ऎऩैत्तॊऩ्ऱुम्
+सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२५</summary>
@@ -290,10 +290,10 @@ Whose mind with your mind goes ill.        825
 सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
 
-नट्टार्बोल् नल्लवै सॊल्लिनुम् ऒट्टार्सॊल्  
-ऒल्लै उणरप् पडुम्।       ८२६
+नट्टार्बोल् नल्लवै सॊल्लिऩुम् ऒट्टार्सॊल्
+ऒल्लै उणरप् पडुम्। ८२६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२६</summary>
@@ -345,10 +345,10 @@ Though they speak like friends in fine.        826
 ऒल्लै उणरप् पडुम्। ८२६
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२७</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२७</summary>
 
-सॊल्वणक्कम् ऒन्नार्गण् कॊळ्ळऱ्क विल्वणक्कम्  
-तीङ्गु कुऱित्तमै यान्।      ८२७
+सॊल्वणक्कम् ऒऩ्ऩार्गण् कॊळ्ळऱ्क विल्वणक्कम्
+तीङ्गु कुऱित्तमै याऩ्। ८२७
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२७</summary>
@@ -400,10 +400,10 @@ Danger darts from bending bows.        827
 तीङ्गु कुऱित्तमै याऩ्। ८२७
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२८</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२८</summary>
 
-तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒन्नार्  
-अऴुदगण् णीरुम् अनैत्तु।      ८२८
+तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒऩ्ऩार्
+अऴुदगण् णीरुम् अऩैत्तु। ८२८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२८</summary>
@@ -455,10 +455,10 @@ Their sobbing tears have lurking harms.        828
 अऴुदगण् णीरुम् अऩैत्तु। ८२८
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
 
-मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
-नट्पिनुळ् साप्पुल्लऱ्पाऱ्ऱु।       ८२९
+मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु
+नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२९</summary>
@@ -510,10 +510,10 @@ Cajole and crush them in friendly guise.        829
 नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
 
-पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु  
-अगनट्पु ऒरीइ विडल्।       ८३०
+पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु
+अगनट्पु ऒरीइ विडल्। ८३०
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३०</summary>

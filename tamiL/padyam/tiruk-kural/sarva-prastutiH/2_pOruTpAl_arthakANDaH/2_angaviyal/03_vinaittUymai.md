@@ -4,10 +4,10 @@ title = "०३ विनैत्तूय्मै"
 +++
 
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५१</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५१</summary>
 
-तुणैनलम् आक्कम् त्रुउम् विनैनलम्  
-वेण्डिय ऎल्लान् दरुम्।       ६५१
+तुणैनलम् आक्कम् त्रुउम् विऩैनलम्
+वेण्डिय ऎल्लान् दरुम्। ६५१
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५१</summary>
@@ -60,10 +60,10 @@ Does every good thing we desire.        651
 वेण्डिय ऎल्लान् दरुम्। ६५१
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५२</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५२</summary>
 
-ऎऩ्ऱुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु  
-नऩ्ऱि पयवा विनै।       ६५२
+ऎऩ्ऱुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु
+नऩ्ऱि पयवा विऩै। ६५२
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५२</summary>
@@ -115,10 +115,10 @@ Bring good nor glory on their part.        652
 नऩ्ऱि पयवा विऩै। ६५२
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५३</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५३</summary>
 
-ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विनै  
-आअदुम् ऎन्नु मवर्।       ६५३
+ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विऩै
+आअदुम् ऎऩ्ऩु मवर्। ६५३
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५३</summary>
@@ -170,10 +170,10 @@ Should shun the deed that dims their name.        653
 आअदुम् ऎऩ्ऩु मवर्। ६५३
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५४</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५४</summary>
 
-इडुक्कण् पडिनुम् इळिवन्द सॆय्यार्  
-नडुक्कऱ्ऱ काट्चि यवर्।       ६५४
+इडुक्कण् पडिऩुम् इळिवन्द सॆय्यार्
+नडुक्कऱ्ऱ काट्चि यवर्। ६५४
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५४</summary>
@@ -225,10 +225,10 @@ Shun deeds of mean, shameful device.        654
 नडुक्कऱ्ऱ काट्चि यवर्। ६५४
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५५</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५५</summary>
 
-ऎऱ्ऱॆऩ्ऱु इरङ्गुव सॆय्यऱ्क सॆय्वानेल्  
-मऱ्ऱन्न सॆय्यामै नऩ्ऱु।       ६५५
+ऎऱ्ऱॆऩ्ऱु इरङ्गुव सॆय्यऱ्क सॆय्वाऩेल्
+मऱ्ऱऩ्ऩ सॆय्यामै नऩ्ऱु। ६५५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५५</summary>
@@ -281,10 +281,10 @@ If done, do not repeat it twice.        655
 मऱ्ऱऩ्ऩ सॆय्यामै नऩ्ऱु। ६५५
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५६</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५६</summary>
 
-ईऩ्ऱाळ् पसिगाण्बान् आयिनुञ् जॆय्यऱ्क  
-साऩ्ऱोर् पऴिक्कुम् विनै।       ६५६
+ईऩ्ऱाळ् पसिगाण्बाऩ् आयिऩुञ् जॆय्यऱ् क
+साऩ्ऱोर् पऴिक्कुम् विऩै। ६५६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५६</summary>
@@ -336,10 +336,10 @@ Shun acts denounced by ancient seers.        656
 साऩ्ऱोर् पऴिक्कुम् विऩै। ६५६
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५७</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५७</summary>
 
-पऴिमलैन्दु ऎय्दिय आक्कत्तिन् साऩ्ऱोर्  
-कऴिनल् कुरवे तलै।       ६५७
+पऴिमलैन्दु ऎय्दिय आक्कत्तिऩ् साऩ्ऱोर्
+कऴिनल् कुरवे तलै। ६५७
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५७</summary>
@@ -391,10 +391,10 @@ Is more than wealth hoarded by Vice.        657
 कऴिनल् कुरवे तलै। ६५७
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५८</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५८</summary>
 
-कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्  
-मुडिन्दालुम् पीऴै तरुम्।       ६५८
+कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्
+मुडिन्दालुम् पीऴै तरुम्। ६५८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५८</summary>
@@ -446,10 +446,10 @@ Suffer troubles though they succeed.        658
 मुडिन्दालुम् पीऴै तरुम्। ६५८
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६५९</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६५९</summary>
 
-अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिनुम्  
-पिऱ्पयक्कुम् नऱ्पा लवै।       ६५९
+अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिऩुम्
+पिऱ्पयक्कुम् नऱ्पा लवै। ६५९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५९</summary>
@@ -502,10 +502,10 @@ Though lost, from good deeds blessings flow.        659
 पिऱ्पयक्कुम् नऱ्पा लवै। ६५९
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६६०</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६६०</summary>
 
-सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्  
-कलत्तुळ्नीर् पॆय्दिरीइ यऱ्ऱु।       ६६०
+सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्
+कलत्तुळ्नीर् पॆय्दिरीइ यऱ्ऱु। ६६०
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६०</summary>

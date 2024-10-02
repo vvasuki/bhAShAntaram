@@ -4,10 +4,10 @@ title = "२२ ऊक्कमुडैमै"
 +++
 
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९१</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९१</summary>
 
-उडैयर् ऎनप्पडुवदु ऊक्कम् अह् तिल्लार्  
-उडैयदु उडैयरो मऱ्ऱु।       ५९१
+उडैयर् ऎऩप्पडुवदु ऊक्कम् अह् तिल्लार्
+उडैयदु उडैयरो मऱ्ऱु। ५९१
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९१</summary>
@@ -65,10 +65,10 @@ All others own but lethargy.        591
 उडैयदु उडैयरो मऱ्ऱु। ५९१
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९२</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९२</summary>
 
-उळ्ळम् उडैमै उडैमै पॊरुळुडैमै  
-निल्लादु नीङ्गि विडुम्।       ५९२
+उळ्ळम् उडैमै उडैमै पॊरुळुडैमै
+निल्लादु नीङ्गि विडुम्। ५९२
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९२</summary>
@@ -120,10 +120,10 @@ Worldly wealth departs in speed.        592
 निल्लादु नीङ्गि विडुम्। ५९२
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९३</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९३</summary>
 
-क्कम् इऴन्देमॆऩ्ऱु अल्लावार् ऊक्कम्  
-ऒरुवन्दम् कैत्तुडै यार्।       ५९३
+क्कम् इऴन्देमॆऩ्ऱु अल्लावार् ऊक्कम्
+ऒरुवन्दम् कैत्तुडै यार्। ५९३
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९३</summary>
@@ -175,10 +175,10 @@ The loss of worldly wealth and gain.        593
 ऒरुवन्दम् कैत्तुडै यार्। ५९३
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९४</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९४</summary>
 
-क्कम् अदर्विनाय्च् चॆल्लुम् असैविला  
-ऊक्क मुडैया नुऴै।       ५९४
+क्कम् अदर्विऩाय्च् चॆल्लुम् असैविला
+ऊक्क मुडैया ऩुऴै। ५९४
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९४</summary>
@@ -230,10 +230,10 @@ Where tireless strivers have their home.        594
 ऊक्क मुडैया ऩुऴै। ५९४
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९५</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९५</summary>
 
-वॆळ्ळत् तनैय मलर्नीट्टम् मान्दर्दम्  
-उळ्ळत् तनैयदु उयर्वु।       ५९५
+वॆळ्ळत् तऩैय मलर्नीट्टम् मान्दर्दम्
+उळ्ळत् तऩैयदु उयर्वु। ५९५
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९५</summary>
@@ -286,10 +286,10 @@ Mental strength is men's merit.        595
 उळ्ळत् तऩैयदु उयर्वु। ५९५
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९६</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९६</summary>
 
-उळ्ळुव तॆल्लाम् उयर्वुळ्ळल् मऱ्ऱदु  
-तळ्ळिनुन् दळ्ळामै नीर्त्तु।       ५९६
+उळ्ळुव तॆल्लाम् उयर्वुळ्ळल् मऱ्ऱतु
+तळ्ळिऩुन् दळ्ळामै नीर्त्तु। ५९६
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९६</summary>
@@ -347,10 +347,10 @@ Though they fail their virtues stand.        596
 तळ्ळिऩुन् दळ्ळामै नीर्त्तु। ५९६
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९७</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९७</summary>
 
 सिदैविडत्तु ऒल्गार् उरवोर् पुदैयम्बिऱ्
-पट्टुप्पा टूऩ्ऱुङ् गळिऱु।       ५९७
+पट्टुप्पा टूऩ्ऱुङ् गळिऱु। ५९७
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९७</summary>
@@ -403,10 +403,10 @@ Great minds keep fit ev'n in defeat.        597
 पट्टुप्पा टूऩ्ऱुङ् गळिऱु। ५९७
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९८</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९८</summary>
 
-उळ्ळम् इलादवर् ऎय्दार् उलगत्तु  
-वळ्ळियम् ऎन्नुञ् जॆरुक्कु।       ५९८
+उळ्ळम् इलादवर् ऎय्दार् उलगत्तु
+वळ्ळियम् ऎऩ्ऩुञ् जॆरुक्कु। ५९८
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९८</summary>
@@ -459,10 +459,10 @@ Heartless persons cannot boast
 वळ्ळियम् ऎऩ्ऩुञ् जॆरुक्कु। ५९८
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ५९९</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ५९९</summary>
 
-परियदु कूर्ङ्गोट्टदु आयिनुम् यानै  
-஦व्रुउम् पुलिदाक् कुऱिन्।       ५९९
+परियदु कूर्ङ्गोट्टदु आयिऩुम् याऩै
+஦व्रुउम् पुलिदाक् कुऱिऩ्। ५९९
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९९</summary>
@@ -514,10 +514,10 @@ When tiger, less in form, assails.        599
 ஦व्रुउम् पुलिदाक् कुऱिऩ्। ५९९
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ६००</summary>
+<details><summary>विश्वास-प्रस्तुतिः - ६००</summary>
 
-उरमॊरुवऱ्कु उळ्ळ वॆऱुक्कैअह् तिल्लार्  
-मरम्मक्क ळादले वेऱु।       ६००
+उरमॊरुवऱ्कु उळ्ळ वॆऱुक्कैअह् तिल्लार्
+मरम्मक्क ळादले वेऱु। ६००
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६००</summary>
