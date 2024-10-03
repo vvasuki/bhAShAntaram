@@ -12,13 +12,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मूलं धर्मतरोर्विवेकजलधेः पूर्णेन्दुमानन्ददं  
 वैराग्याम्बुजभास्करं ह्यघघनध्वान्तापहं तापहम्‌।  
 मोहाम्भोधरपूगपाटनविधौ स्वःसम्भवं शङ्करं  
 वन्दे ब्रह्मकुलं कलङ्कशमनं श्री रामभूपप्रियम्‌॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -36,13 +33,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सान्द्रानन्दपयोदसौभगतनुं पीताम्बरं सुन्दरं  
 पाणौ बाणशरासनं कटिलसत्तूणीरभारं वरम्‌।  
 राजीवायतलोचनं धृतजटाजूटेन संशोभितं  
 सीतालक्ष्मणसंयुतं पथिगतं रामाभिरामं भजे॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -63,11 +57,8 @@ unicode_script = "devanagari"
 ### 02 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 उमा राम गुन गूढ पण्डित मुनि पावहिं बिरति।  
 पावहिं मोह बिमूढ जे हरि बिमुख न धर्म रति॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -88,11 +79,8 @@ unicode_script = "devanagari"
 ### 03 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पुर नर भरत प्रीति मैं गाई। मति अनुरूप अनूप सुहाई॥  
 अब प्रभु चरित सुनहु अति पावन। करत जे बन सुर नर मुनि भावन॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -108,11 +96,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 एक बार चुनि कुसुम सुहाए। निज कर भूषन राम बनाए॥  
 सीतहि पहिराए प्रभु सादर। बैठे फटिक सिला पर सुन्दर॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -128,11 +113,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुरपति सुत धरि बायस बेषा। सठ चाहत रघुपति बल देखा॥  
 जिमि पिपीलिका सागर थाहा। महा मन्दमति पावन चाहा॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -148,11 +130,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सीता चरन चोञ्च हति भागा। मूढ मन्दमति कारन कागा॥  
 चला रुधिर रघुनायक जाना। सीङ्क धनुष सायक सन्धाना॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -174,11 +153,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अति कृपाल रघुनायक सदा दीन पर नेह।  
 ता सन आइ कीन्ह छलु मूरख अवगुन गेह॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -199,11 +175,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रेरित मन्त्र ब्रह्मसर धावा। चला भाजि बायस भय पावा॥  
 धरि निज रूप गयउ पितु पाहीं। राम बिमुख राखा तेहि नाहीं॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -219,11 +192,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भा निरास उपजी मन त्रासा। जथा चक्र भय रिषि दुर्बासा॥  
 ब्रह्मधाम सिवपुर सब लोका। फिरा श्रमित ब्याकुल भय सोका॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -239,11 +209,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 काहूँ बैठन कहा न ओही। राखि को सकइ राम कर द्रोही ॥  
 मातु मृत्यु पितु समन समाना। सुधा होइ बिष सुनु हरिजाना॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -259,11 +226,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मित्र करइ सत रिपु कै करनी। ता कहँ बिबुधनदी बैतरनी॥  
 सब जगु ताहि अनलहु ते ताता। जो रघुबीर बिमुख सुनु भ्राता॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -279,11 +243,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नारद देखा बिकल जयन्ता। लगि दया कोमल चित सन्ता॥  
 पठवा तुरत राम पहिं ताही। कहेसि पुकारि प्रनत हित पाही॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -299,11 +260,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 आतुर सभय गहेसि पद जाई। त्राहि त्राहि दयाल रघुराई॥  
 अतुलित बल अतुलित प्रभुताई। मैं मतिमन्द जानि नहीं पाई॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -319,11 +277,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 निज कृत कर्म जनित फल पायउँ। अब प्रभु पाहि सरन तकि आयउँ॥  
 सुनि कृपाल अति आरत बानी। एकनयन करि तजा भवानी॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -345,11 +300,8 @@ unicode_script = "devanagari"
 ### 01 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कीन्ह मोह बस द्रोह जद्यपि तेहि कर बध उचित।  
 प्रभु छाडेउ करि छोह को कृपाल रघुबीर सम॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -370,11 +322,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रघुपति चित्रकूट बसि नाना। चरित किए श्रुति सुधा समाना॥  
 बहुरि राम अस मन अनुमाना। होइहि भीर सबहिं मोहि जाना॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -390,11 +339,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सकल मुनिन्ह सन बिदा कराई। सीता सहित चले द्वौ भाई॥  
 अत्रि के आश्रम जब प्रभु गयऊ। सुनत महामुनि हरषित भयऊ॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -410,11 +356,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पुलकित गात अत्रि उठि धाए। देखि रामु आतुर चलि आए॥  
 करत दण्डवत मुनि उर लाए। प्रेम बारि द्वौ जन अन्हवाए॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -430,11 +373,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 देखि राम छबि नयन जुडाने। सादर निज आश्रम तब आने॥  
 करि पूजा कहि बचन सुहाए। दिए मूल फल प्रभु मन भाए॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -456,11 +396,8 @@ unicode_script = "devanagari"
 ### 01 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रभु आसन आसीन भरि लोचन सोभा निरखि।  
 मुनिबर परम प्रबीन जोरि पानि अस्तुति करत॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -480,11 +417,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नमामि भक्त वत्सलं। कृपालु शील कोमलं॥  
 भजामि ते पदाम्बुजं। अकामिनां स्वधामदं॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -500,11 +434,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 निकाम श्याम सुन्दरं। भवाम्बुनाथ मन्दरं॥  
 प्रफुल्ल कञ्ज लोचनं। मदादि दोष मोचनं॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -520,11 +451,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रलम्ब बाहु विक्रमं। प्रभोऽप्रमेय वैभवं॥  
 निषङ्ग चाप सायकं। धरं त्रिलोक नायकं॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -540,11 +468,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 दिनेश वंश मण्डनं। महेश चाप खण्डनं॥  
 मुनीन्द्र सन्त रञ्जनं। सुरारि वृन्द भञ्जनं॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -560,11 +485,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मनोज वैरि वन्दितं। अजादि देव सेवितं॥  
 विशुद्ध बोध विग्रहं। समस्त दूषणापहं॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -580,11 +502,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नमामि इन्दिरा पतिं। सुखाकरं सतां गतिं॥  
 भजे सशक्ति सानुजं। शची पति प्रियानुजं॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -600,11 +519,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 त्वदङ्घ्रि मूल ये नराः। भजन्ति हीन मत्सराः॥  
 पतन्ति नो भवार्णवे। वितर्क वीचि सङ्कुले॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -620,11 +536,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 विविक्त वासिनः सदा। भजन्ति मुक्तये मुदा॥  
 निरस्य इन्द्रियादिकं। प्रयान्तिते गतिं स्वकं॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -640,11 +553,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तमेकमद्भुतं प्रभुं। निरीहमीश्वरं विभुं॥  
 जगद्गुरुं च शाश्वतं। तुरीयमेव केवलं॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -660,11 +570,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भजामि भाव वल्लभं। कुयोगिनां सुदुर्लभं॥  
 स्वभक्त कल्प पादपं। समं सुसेव्यमन्वहं॥10॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -680,11 +587,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अनूप रूप भूपतिं। नतोऽहमुर्विजा पतिं॥  
 प्रसीद मे नमामि ते। पदाब्ज भक्ति देहि मे॥11॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -700,11 +604,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पठन्ति ये स्तवं इदं। नरादरेण ते पदं॥  
 व्रजन्ति नात्र संशयं। त्वदीय भक्ति संयुताः॥12॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -726,11 +627,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 बिनती करि मुनि नाइ सिरु कह कर जोरि बहोरि।  
 चरन सरोरुह नाथ जनि कबहुँ तजै मति मोरि॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -750,11 +648,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अनुसुइया के पद गहि सीता। मिली बहोरि सुसील बिनीता॥  
 रिषिपतिनी मन सुख अधिकाई। आसिष देइ निकट बैठाई॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -770,11 +665,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 दिब्य बसन भूषन पहिराए। जे नित नूतन अमल सुहाए॥  
 कह रिषिबधू सरस मृदु बानी। नारिधर्म कछु ब्याज बखानी॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -790,11 +682,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मातु पिता भ्राता हितकारी। मितप्रद सब सुनु राजकुमारी॥  
 अमित दानि भर्ता बयदेही। अधम सो नारि जो सेव न तेही॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -810,11 +699,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 धीरज धर्म मित्र अरु नारी। आपद काल परिखिअहिं चारी॥  
 बृद्ध रोगबस जड धनहीना। अन्ध बधिर क्रोधी अति दीना॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -830,11 +716,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ऐसेहु पति कर किएँ अपमाना। नारि पाव जमपुर दुख नाना॥  
 एकइ धर्म एक ब्रत नेमा। कायँ बचन मन पति पद प्रेमा॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -850,11 +733,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जग पतिब्रता चारि बिधि अहहीं। बेद पुरान सन्त सब कहहीं॥  
 उत्तम के अस बस मन माहीं। सपनेहुँ आन पुरुष जग नाहीं॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -870,11 +750,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मध्यम परपति देखइ कैसें। भ्राता पिता पुत्र निज जैसें॥  
 धर्म बिचारि समुझि कुल रहई। सो निकिष्ट त्रिय श्रुति अस कहई॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -890,11 +767,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 बिनु अवसर भय तें रह जोई। जानेहु अधम नारि जग सोई॥  
 पति बञ्चक परपति रति करई। रौरव नरक कल्प सत परई॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -910,11 +784,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 छन सुख लागि जनम सत कोटी। दुख न समुझ तेहि सम को खोटी॥  
 बिनु श्रम नारि परम गति लहई। पतिब्रत धर्म छाडि छल गहई॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -930,10 +801,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पति प्रतिकूल जनम जहँ जाई। बिधवा होइ पाइ तरुनाई॥10॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -954,11 +822,8 @@ unicode_script = "devanagari"
 ### 01 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सहज अपावनि नारि पति सेवत सुभ गति लहइ।  
 जसु गावत श्रुति चारि अजहुँ तुलसिका हरिहि प्रिय॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -974,11 +839,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुनु सीता तव नाम सुमिरि नारि पतिब्रत करहिं।  
 तोहि प्रानप्रिय राम कहिउँ कथा संसार हित॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -999,11 +861,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुनि जानकीं परम सुखु पावा। सादर तासु चरन सिरु नावा॥  
 तब मुनि सन कह कृपानिधाना। आयसु होइ जाउँ बन आना॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1019,11 +878,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सन्तत मो पर कृपा करेहू। सेवक जानि तजेहु जनि नेहू॥  
 धर्म धुरन्धर प्रभु कै बानी। सुनि सप्रेम बोले मुनि ग्यानी॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1039,11 +895,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जासु कृपा अज सिव सनकादी। चहत सकल परमारथ बादी॥  
 ते तुम्ह राम अकाम पिआरे। दीन बन्धु मृदु बचन उचारे॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1059,11 +912,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अब जानी मैं श्री चतुराई। भजी तुम्हहि सब देव बिहाई॥  
 जेहि समान अतिसय नहिं कोई। ता कर सील कस न अस होई॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1079,11 +929,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 केहि बिधि कहौं जाहु अब स्वामी। कहहु नाथ तुम्ह अन्तरजामी॥  
 अस कहि प्रभु बिलोकि मुनि धीरा। लोचन जल बह पुलक सरीरा॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1103,13 +950,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तन पुलक निर्भर प्रेम पूरन नयन मुख पङ्कज दिए।  
 मन ग्यान गुन गोतीत प्रभु मैं दीख जप तप का किए॥  
 जप जोग धर्म समूह तें नर भगति अनुपम पावई।  
 रघुबीर चरित पुनीत निसि दिन दास तुलसी गावई॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1133,11 +977,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कलिमल समन दमन मन राम सुजस सुखमूल।  
 सादर सुनहिं जे तिन्ह पर राम रहहिं अनुकूल॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1156,11 +997,8 @@ unicode_script = "devanagari"
 ### 02 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कठिन काल मल कोस धर्म न ग्यान न जोग जप।  
 परिहरि सकल भरोस रामहि भजहिं ते चतुर नर॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1181,11 +1019,8 @@ unicode_script = "devanagari"
 ### 03 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनि पद कमल नाइ करि सीसा। चले बनहि सुर नर मुनि ईसा॥  
 आगें राम अनुज पुनि पाछें। मुनि बर बेष बने अति काछें॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1201,11 +1036,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 उभय बीच श्री सोहइ कैसी। ब्रह्म जीव बिच माया जैसी॥  
 सरिता बन गिरि अवघट घाटा। पति पहिचानि देहिं बर बाटा॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1221,11 +1053,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जहँ जहँ जाहिं देव रघुराया। करहिं मेघ तहँ तहँ नभ छाया॥  
 मिला असुर बिराध मग जाता। आवतहीं रघुबीर निपाता॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1241,11 +1070,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तुरतहिं रुचिर रूप तेहिं पावा। देखि दुखी निज धाम पठावा॥  
 पुनि आए जहँ मुनि सरभङ्गा। सुन्दर अनुज जानकी सङ्गा॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1267,11 +1093,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 देखि राम मुख पङ्कज मुनिबर लोचन भृङ्ग।  
 सादर पान करत अति धन्य जन्म सरभङ्ग॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1292,11 +1115,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कह मुनि सुनु रघुबीर कृपाला। सङ्कर मानस राजमराला॥  
 जात रहेउँ बिरञ्चि के धामा। सुनेउँ श्रवन बन ऐहहिं रामा॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1312,11 +1132,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 चितवत पन्थ रहेउँ दिन राती। अब प्रभु देखि जुडानी छाती॥  
 नाथ सकल साधन मैं हीना। कीन्ही कृपा जानि जन दीना॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1332,11 +1149,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सो कछु देव न मोहि निहोरा। निज पन राखेउ जन मन चोरा॥  
 तब लगि रहहु दीन हित लागी। जब लगि मिलौं तुम्हहि तनु त्यागी॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1352,11 +1166,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जोग जग्य जप तप ब्रत कीन्हा। प्रभु कहँ देइ भगति बर लीन्हा॥  
 एहि बिधि सर रचि मुनि सरभङ्गा। बैठे हृदयँ छाडि सब सङ्गा॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1378,11 +1189,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सीता अनुज समेत प्रभु नील जलद तनु स्याम।  
 मम हियँ बसहु निरन्तर सगुनरूप श्री राम॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1403,11 +1211,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अस कहि जोग अगिनि तनु जारा। राम कृपाँ बैकुण्ठ सिधारा॥  
 ताते मुनि हरि लीन न भयऊ। प्रथमहिं भेद भगति बर लयऊ॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1423,11 +1228,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रिषि निकाय मुनिबर गति देखी। सुखी भए निज हृदयँ बिसेषी॥  
 अस्तुति करहिं सकल मुनि बृन्दा। जयति प्रनत हित करुना कन्दा॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1443,11 +1245,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पुनि रघुनाथ चले बन आगे। मुनिबर बृन्द बिपुल सँग लागे॥  
 अस्थि समूह देखि रघुराया। पूछी मुनिन्ह लागि अति दाया॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1463,11 +1262,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जानतहूँ पूछिअ कस स्वामी। सबदरसी तुम्ह अन्तरजामी॥  
 निसिचर निकर सकल मुनि खाए। सुनि रघुबीर नयन जल छाए॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1489,11 +1285,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 निसिचर हीन करउँ महि भुज उठाइ पन कीन्ह।  
 सकल मुनिन्ह के आश्रमन्हि जाइ जाइ सुख दीन्ह॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1514,11 +1307,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनि अगस्ति कर सिष्य सुजाना। नाम सुतीछन रति भगवाना॥  
 मन क्रम बचन राम पद सेवक। सपनेहुँ आन भरोस न देवक॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1534,11 +1324,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रभु आगवनु श्रवन सुनि पावा। करत मनोरथ आतुर धावा॥  
 हे बिधि दीनबन्धु रघुराया। मो से सठ पर करिहहिं दाया॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1554,11 +1341,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सहित अनुज मोहि राम गोसाईं। मिलिहहिं निज सेवक की नाईं॥  
 मोरे जियँ भरोस दृढ नाहीं। भगति बिरति न ग्यान मन माहीं॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1574,11 +1358,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नहिं सतसङ्ग जोग जप जागा। नहिं दृढ चरन कमल अनुरागा॥  
 एक बानि करुनानिधान की। सो प्रिय जाकें गति न आन की॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1594,11 +1375,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 होइहैं सुफल आजु मम लोचन। देखि बदन पङ्कज भव मोचन॥  
 निर्भर प्रेम मगन मुनि ग्यानी। कहि न जाइ सो दसा भवानी॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1614,11 +1392,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 दिसि अरु बिदिसि पन्थ नहिं सूझा। को मैं चलेउँ कहाँ नहिं बूझा॥  
 कबहुँक फिरि पाछें पुनि जाई। कबहुँक नृत्य करइ गुन गाई॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1634,11 +1409,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अबिरल प्रेम भगति मुनि पाई। प्रभु देखैं तरु ओट लुकाई॥  
 अतिसय प्रीति देखि रघुबीरा। प्रगटे हृदयँ हरन भव भीरा॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1654,11 +1426,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनि मग माझ अचल होइ बैसा। पुलक सरीर पनस फल जैसा॥  
 तब रघुनाथ निकट चलि आए। देखि दसा निज जन मन भाए॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1674,11 +1443,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनिहि राम बहु भाँति जगावा। जाग न ध्यान जनित सुख पावा॥  
 भूप रूप तब राम दुरावा। हृदयँ चतुर्भुज रूप देखावा॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1694,11 +1460,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनि अकुलाइ उठा तब कैसें। बिकल हीन मनि फनिबर जैसें॥  
 आगें देखि राम तन स्यामा। सीता अनुज सहित सुख धामा॥10॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1714,11 +1477,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 परेउ लकुट इव चरनन्हि लागी। प्रेम मगन मुनिबर बडभागी॥  
 भुज बिसाल गहि लिए उठाई। परम प्रीति राखे उर लाई॥11॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1734,11 +1494,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनिहि मिलत अस सोह कृपाला। कनक तरुहि जनु भेण्ट तमाला॥  
 राम बदनु बिलोक मुनि ठाढा। मानहुँ चित्र माझ लिखि काढा॥12॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1760,11 +1517,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तब मुनि हृदयँ धीर धरि गहि पद बारहिं बार।  
 निज आश्रम प्रभु आनि करि पूजा बिबिध प्रकार॥10॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1784,11 +1538,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कह मुनि प्रभु सुनु बिनती मोरी। अस्तुति करौं कवन बिधि तोरी॥  
 महिमा अमित मोरि मति थोरी। रबि सन्मुख खद्योत अँजोरी॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1804,11 +1555,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 श्याम तामरस दाम शरीरं। जटा मुकुट परिधन मुनिचीरं॥  
 पाणि चाप शर कटि तूणीरं। नौमि निरन्तर श्रीरघुवीरं॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1824,11 +1572,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मोह विपिन घन दहन कृशानुः। सन्त सरोरुह कानन भानुः॥  
 निसिचर करि वरूथ मृगराजः। त्रास सदा नो भव खग बाजः॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1844,11 +1589,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अरुण नयन राजीव सुवेशं। सीता नयन चकोर निशेशं॥  
 हर हृदि मानस बाल मरालं। नौमि राम उर बाहु विशालं॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1864,11 +1606,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 संशय सर्प ग्रसन उरगादः। शमन सुकर्कश तर्क विषादः॥  
 भव भञ्जन रञ्जन सुर यूथः। त्रातु सदा नो कृपा वरूथः॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1884,11 +1623,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 निर्गुण सगुण विषम सम रूपं। ज्ञान गिरा गोतीतमनूपं॥  
 अमलमखिलमनवद्यमपारं। नौमि राम भञ्जन महि भारं॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1904,11 +1640,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भक्त कल्पपादप आरामः। तर्जन क्रोध लोभ मद कामः॥  
 अति नागर भव सागर सेतुः। त्रातु सदा दिनकर कुल केतुः॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1924,11 +1657,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अतुलित भुज प्रताप बल धामः। कलि मल विपुल विभञ्जन नामः॥  
 धर्म वर्म नर्मद गुण ग्रामः। सन्तत शं तनोतु मम रामः॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1944,11 +1674,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जदपि बिरज ब्यापक अबिनासी। सब के हृदयँ निरन्तर बासी॥  
 तदपि अनुज श्री सहित खरारी। बसतु मनसि मम काननचारी॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1964,11 +1691,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जे जानहिं ते जानहुँ स्वामी। सगुन अगुन उर अन्तरजामी॥  
 जो कोसलपति राजिव नयना। करउ सो राम हृदय मम अयना॥10॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -1984,11 +1708,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अस अभिमान जाइ जनि भोरे। मैं सेवक रघुपति पति मोरे॥  
 सुनि मुनि बचन राम मन भाए। बहुरि हरषि मुनिबर उर लाए॥11॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2004,11 +1725,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 परम प्रसन्न जानु मुनि मोही। जो बर मागहु देउँ सो तोही॥  
 मुनि कह मैं बर कबहुँ न जाचा। समुझि न परइ झूठ का साचा॥12॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2024,11 +1742,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तुम्हहि नीक लागै रघुराई। सो मोहि देहु दास सुखदाई॥  
 अबिरल भगति बिरति बिग्याना। होहु सकल गुन ग्यान निधाना॥13॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2044,10 +1759,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रभु जो दीन्ह सो बरु मैं पावा। अब सो देहु मोहि जो भावा॥14॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2068,11 +1780,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अनुज जानकी सहित प्रभु चाप बान धर राम।  
 मन हिय गगन इन्दु इव बसहु सदा निहकाम॥11॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2092,11 +1801,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 एवमस्तु करि रमानिवासा। हरषि चले कुम्भज रिषि पासा॥  
 बहुत दिवस गुर दरसनु पाएँ। भए मोहि एहिं आश्रम आएँ॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2112,11 +1818,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अब प्रभु सङ्ग जाउँ गुर पाहीं। तुम्ह कहँ नाथ निहोरा नाहीं॥  
 देखि कृपानिधि मुनि चतुराई। लिए सङ्ग बिहसे द्वौ भाई॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2132,11 +1835,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पन्थ कहत निज भगति अनूपा। मुनि आश्रम पहुँचे सुरभूपा॥  
 तुरत सुतीछन गुर पहिं गयऊ। करि दण्डवत कहत अस भयऊ॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2152,11 +1852,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नाथ कोसलाधीस कुमारा। आए मिलन जगत आधारा॥  
 राम अनुज समेत बैदेही। निसि दिनु देव जपत हहु जेही॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2172,11 +1869,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुनत अगस्ति तुरत उठि धाए। हरि बिलोकि लोचन जल छाए॥  
 मुनि पद कमल परे द्वौ भाई। रिषि अति प्रीति लिए उर लाई॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2192,11 +1886,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सादर कुसल पूछि मुनि ग्यानी। आसन बर बैठारे आनी॥  
 पुनि करि बहु प्रकार प्रभु पूजा। मोहि सम भाग्यवन्त नहिं दूजा॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2212,10 +1903,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जहँ लगि रहे अपर मुनि बृन्दा। हरषे सब बिलोकि सुखकन्दा॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2236,11 +1924,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनि समूह महँ बैठे सन्मुख सब की ओर।  
 सरद इन्दु तन चितवन मानहुँ निकर चकोर॥12॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2261,11 +1946,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तब रघुबीर कहा मुनि पाहीं। तुम्ह सन प्रभु दुराव कछु नाहीं॥  
 तुम्ह जानहु जेहि कारन आयउँ। ताते तात न कहि समुझायउँ॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2281,11 +1963,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अब सो मन्त्र देहु प्रभु मोही। जेहि प्रकार मारौं मुनिद्रोही॥  
 मुनि मुसुकाने सुनि प्रभु बानी। पूछेहु नाथ मोहि का जानी॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2301,11 +1980,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तुम्हरेइँ भजन प्रभाव अघारी। जानउँ महिमा कछुक तुम्हारी॥  
 ऊमरि तरु बिसाल तव माया। फल ब्रह्माण्ड अनेक निकाया॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2321,11 +1997,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जीव चराचर जन्तु समाना। भीतर बसहिं न जानहिं आना॥  
 ते फल भच्छक कठिन कराला। तव भयँ डरत सदा सोउ काला॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2341,11 +2014,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ते तुम्ह सकल लोकपति साईं। पूँछेहु मोहि मनुज की नाईं॥  
 यह बर मागउँ कृपानिकेता। बसहु हृदयँ श्री अनुज समेता॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2361,11 +2031,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अबिरल भगति बिरति सतसङ्गा। चरन सरोरुह प्रीति अभङ्गा॥  
 जद्यपि ब्रह्म अखण्ड अनन्ता। अनुभव गम्य भजहिं जेहि सन्ता॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2381,11 +2048,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अस तव रूप बखानउँ जानउँ। फिरि फिरि सगुन ब्रह्म रति मानउँ॥  
 सन्तत दासन्ह देहु बडाई। तातें मोहि पूँछेहु रघुराई॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2401,11 +2065,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 है प्रभु परम मनोहर ठाऊँ। पावन पञ्चबटी तेहि नाऊँ॥  
 दण्डक बन पुनीत प्रभु करहू। उग्र साप मुनिबर कर हरहू॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2421,11 +2082,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 बास करहु तहँ रघुकुल राया। कीजे सकल मुनिन्ह पर दाया॥  
 चले राम मुनि आयसु पाई। तुरतहिं पञ्चबटी निअराई॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2447,11 +2105,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 गीधराज सै भेण्ट भइ बहु बिधि प्रीति बढाइ।  
 गोदावरी निकट प्रभु रहे परन गृह छाइ॥13॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2472,11 +2127,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जब ते राम कीन्ह तहँ बासा। सुखी भए मुनि बीती त्रासा॥  
 गिरि बन नदीं ताल छबि छाए। दिन दिन प्रति अति होहिं सुहाए॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2492,11 +2144,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 खग मृग बृन्द अनन्दित रहहीं। मधुप मधुर गुञ्जत छबि लहहीं॥  
 सो बन बरनि न सक अहिराजा। जहाँ प्रगट रघुबीर बिराजा॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2512,11 +2161,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 एक बार प्रभु सुख आसीना। लछिमन बचन कहे छलहीना॥  
 सुर नर मुनि सचराचर साईं। मैं पूछउँ निज प्रभु की नाईं॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2532,11 +2178,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मोहि समुझाइ कहहु सोइ देवा। सब तजि करौं चरन रज सेवा॥  
 कहहु ग्यान बिराग अरु माया। कहहु सो भगति करहु जेहिं दाया॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2558,11 +2201,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ईस्वर जीव भेद प्रभु सकल कहौ समुझाइ।  
 जातें होइ चरन रति सोक मोह भ्रम जाइ॥14॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2583,11 +2223,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 थोरेहि महँ सब कहउँ बुझाई। सुनहु तात मति मन चित लाई॥  
 मैं अरु मोर तोर तैं माया। जेहिं बस कीन्हे जीव निकाया॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2603,11 +2240,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 गो गोचर जहँ लगि मन जाई। सो सब माया जानेहु भाई॥  
 तेहि कर भेद सुनहु तुम्ह सोऊ। बिद्या अपर अबिद्या दोऊ॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2623,11 +2257,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 एक दुष्ट अतिसय दुखरूपा। जा बस जीव परा भवकूपा॥  
 एक रचइ जग गुन बस जाकें। प्रभु प्रेरित नहिं निज बल ताकें॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2643,11 +2274,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ग्यान मान जहँ एकउ नाहीं। देख ब्रह्म समान सब माहीं॥  
 कहिअ तात सो परम बिरागी। तृन सम सिद्धि तीनि गुन त्यागी॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2672,11 +2300,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 माया ईस न आपु कहुँ जान कहिअ सो जीव।  
 बन्ध मोच्छ प्रद सर्बपर माया प्रेरक सीव॥15॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2697,11 +2322,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 धर्म तें बिरति जोग तें ग्याना। ग्यान मोच्छप्रद बेद बखाना॥  
 जातें बेगि द्रवउँ मैं भाई। सो मम भगति भगत सुखदाई॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2717,11 +2339,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सो सुतन्त्र अवलम्ब न आना। तेहि आधीन ग्यान बिग्याना॥  
 भगति तात अनुपम सुखमूला। मिलइ जो सन्त होइँ अनुकूला॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2737,11 +2356,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भगति कि साधन कहउँ बखानी। सुगम पन्थ मोहि पावहिं प्रानी॥  
 प्रथमहिं बिप्र चरन अति प्रीती। निज निज कर्म निरत श्रुति रीती॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2757,11 +2373,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 एहि कर फल पुनि बिषय बिरागा। तब मम धर्म उपज अनुरागा॥  
 श्रवनादिक नव भक्ति दृढाहीं। मम लीला रति अति मन माहीं॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2777,11 +2390,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सन्त चरन पङ्कज अति प्रेमा। मन क्रम बचन भजन दृढ नेमा॥  
 गुरु पितु मातु बन्धु पति देवा। सब मोहि कहँ जानै दृढ सेवा॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2797,11 +2407,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मम गुन गावत पुलक सरीरा। गदगद गिरा नयन बह नीरा॥  
 काम आदि मद दम्भ न जाकें। तात निरन्तर बस मैं ताकें॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2823,11 +2430,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 बचन कर्म मन मोरि गति भजनु करहिं निःकाम।  
 तिन्ह के हृदय कमल महुँ करउँ सदा बिश्राम॥16॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2848,11 +2452,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भगति जोग सुनि अति सुख पावा। लछिमन प्रभु चरनन्हि सिरु नावा॥  
 एहि बिधि कछुक दिन बीती। कहत बिराग ग्यान गुन नीती॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2868,11 +2469,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सूपनखा रावन कै बहिनी। दुष्ट हृदय दारुन जस अहिनी॥  
 पञ्चबटी सो गइ एक बारा। देखि बिकल भइ जुगल कुमारा॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2888,11 +2486,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भ्राता पिता पुत्र उरगारी। पुरुष मनोहर निरखत नारी॥  
 होइ बिकल सक मनहि न रोकी। जिमि रबिमनि द्रव रबिहि बिलोकी॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2908,11 +2503,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रुचिर रूप धरि प्रभु पहिं जाई। बोली बचन बहुत मुसुकाई॥  
 तुम्ह सम पुरुष न मो सम नारी। यह सँजोग बिधि रचा बिचारी॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2928,11 +2520,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मम अनुरूप पुरुष जग माहीं। देखेउँ खोजि लोक तिहु नाहीं॥  
 तातें अब लगि रहिउँ कुमारी। मनु माना कछु तुम्हहि निहारी॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2948,11 +2537,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सीतहि चितइ कही प्रभु बाता। अहइ कुआर मोर लघु भ्राता॥  
 गइ लछिमन रिपु भगिनी जानी। प्रभु बिलोकि बोले मृदु बानी॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2968,11 +2554,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुन्दरि सुनु मैं उन्ह कर दासा। पराधीन नहिं तोर सुपासा॥  
 प्रभु समर्थ कोसलपुर राजा। जो कछु करहिं उनहि सब छाजा॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -2988,11 +2571,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सेवक सुख चह मान भिखारी। ब्यसनी धन सुभ गति बिभिचारी॥  
 लोभी जसु चह चार गुमानी। नभ दुहि दूध चहत ए प्रानी॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3008,11 +2588,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पुनि फिरि राम निकट सो आई। प्रभु लछिमन पहिं बहुरि पठाई॥  
 लछिमन कहा तोहि सो बरई। जो तृन तोरि लाज परिहरई॥9॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3028,11 +2605,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तब खिसिआनि राम पहिं गई। रूप भयङ्कर प्रगटत भई॥  
 सीतहि सभय देखि रघुराई। कहा अनुज सन सयन बुझाई॥10॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3054,11 +2628,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 लछिमन अति लाघवँ सो नाक कान बिनु कीन्हि।  
 ताके कर रावन कहँ मनौ चुनौती दीन्हि॥17॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3078,11 +2649,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नाक कान बिनु भइ बिकरारा। जनु स्रव सैल गेरु कै धारा॥  
 खर दूषन पहिं गइ बिलपाता। धिग धिग तव पौरुष बल भ्राता॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3098,11 +2666,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तेहिं पूछा सब कहेसि बुझाई। जातुधान सुनि सेन बनाई॥  
 धाए निसिचर निकर बरूथा। जनु सपच्छ कज्जल गिरि जूथा॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3118,11 +2683,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नाना बाहन नानाकारा। नानायुध धर घोर अपारा॥  
 सूपनखा आगें करि लीनी। असुभ रूप श्रुति नासा हीनी॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3138,11 +2700,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 असगुन अमित होहिं भयकारी। गनहिं न मृत्यु बिबस सब झारी॥  
 गर्जहिं तर्जहिं गगन उडाहीं। देखि कटकु भट अति हरषाहीं॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3158,11 +2717,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कोउ कह जिअत धरहु द्वौ भाई। धरि मारहु तिय लेहु छडाई॥  
 धूरि पूरि नभ मण्डल रहा। राम बोलाइ अनुज सन कहा॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3178,11 +2734,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 लै जानकिहि जाहु गिरि कन्दर। आवा निसिचर कटकु भयङ्कर॥  
 रहेहु सजग सुनि प्रभु कै बानी। चले सहित श्री सर धनु पानी॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3198,11 +2751,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 देखि राम रिपुदल चलि आवा।  
 बिहसि कठिन कोदण्ड चढावा॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3221,13 +2771,10 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कोदण्ड कठिन चढाइ सिर जट जूट बाँधत सोह क्यों।  
 मरकत सयल पर लरत दामिनि कोटि सों जुग भुजग ज्यों॥  
 कटि कसि निषङ्ग बिसाल भुज गहि चाप बिसिख सुधारि कै।  
 चितवत मनहुँ मृगराज प्रभु गजराज घटा निहारि कै॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3251,11 +2798,8 @@ unicode_script = "devanagari"
 ### 01 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 आइ गए बगमेल धरहु धरहु धावत सुभट।  
 जथा बिलोकि अकेल बाल रबिहि घेरत दनुज॥18॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3276,11 +2820,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रभु बिलोकि सर सकहिं न डारी। थकित भई रजनीचर धारी॥  
 सचिव बोलि बोले खर दूषन। यह कोउ नृपबालक नर भूषन॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3296,11 +2837,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नाग असुर सुर नर मुनि जेते। देखे जिते हते हम केते॥  
 हम भरि जन्म सुनहु सब भाई। देखी नहिं असि सुन्दरताई॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3316,11 +2854,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जद्यपि भगिनी कीन्हि कुरूपा। बध लायक नहिं पुरुष अनूपा॥  
 देहु तुरत निज नारि दुराई। जीअत भवन जाहु द्वौ भाई॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3336,11 +2871,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मोर कहा तुम्ह ताहि सुनावहु। तासु बचन सुनि आतुर आवहु॥  
 दूतन्ह कहा राम सन जाई। सुनत राम बोले मुसुकाई॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3356,11 +2888,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 हम छत्री मृगया बन करहीं। तुम्ह से खल मृग खोजत फिरहीं॥  
 रिपु बलवन्त देखि नहिं डरहीं। एक बार कालहु सन लरहीं॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3376,11 +2905,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जद्यपि मनुज दनुज कुल घालक। मुनि पालक खल सालक बालक॥  
 जौं न होइ बल घर फिरि जाहू। समर बिमुख मैं हतउँ न काहू॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3396,11 +2922,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रन चढि करिअ कपट चतुराई। रिपु पर कृपा परम कदराई॥  
 दूतन्ह जाइ तुरत सब कहेऊ। सुनि खर दूषन उर अति दहेऊ॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3419,13 +2942,10 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 उर दहेउ कहेउ कि धरहु धाए बिकट भट रजनीचरा।  
 सर चाप तोमर सक्ति सूल कृपान परिघ परसु धरा॥  
 प्रभु कीन्हि धनुष टकोर प्रथम कठोर घोर भयावहा।  
 भए बधिर ब्याकुल जातुधान न ग्यान तेहि अवसर रहा॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3449,11 +2969,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सावधान होइ धाए जानि सबल आराति।  
 लागे बरषन राम पर अस्त्र सस्त्र बहुभाँति॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3469,11 +2986,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तिन्ह के आयुध तिल सम करि काटे रघुबीर।  
 तानि सरासन श्रवन लगि पुनि छाँडे निज तीर॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3493,11 +3007,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तब चले बान कराल। फुङ्करत जनु बहु ब्याल॥  
 कोपेउ समर श्रीराम। चले बिसिख निसित निकाम॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3513,11 +3024,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अवलोकि खरतर तीर। मुरि चले निसिचर बीर॥  
 भए क्रुद्ध तीनिउ भाइ। जो भागि रन ते जाइ॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3533,11 +3041,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तेहि बधब हम निज पानि। फिरे मरन मन महुँ ठानि॥  
 आयुध अनेक प्रकार। सनमुख ते करहिं प्रहार॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3553,11 +3058,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रिपु परम कोपे जानि। प्रभु धनुष सर सन्धानि॥  
 छाँडे बिपुल नाराच। लगे कटन बिकट पिसाच॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3573,11 +3075,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 उर सीस भुज कर चरन। जहँ तहँ लगे महि परन॥  
 चिक्करत लागत बान। धर परत कुधर समान॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3593,11 +3092,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भट कटत तन सत खण्ड। पुनि उठत करि पाषण्ड॥  
 नभ उडत बहु भुज मुण्ड। बिनु मौलि धावत रुण्ड॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3613,10 +3109,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 खग कङ्क काक सृगाल। कटकटहिं कठिन कराल॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3634,13 +3127,10 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 कटकटहिं जम्बुक भूत प्रेत पिसाच खर्पर सञ्चहीं।  
 बेताल बीर कपाल ताल बजाइ जोगिनि नञ्चहीं॥  
 रघुबीर बान प्रचण्ड खण्डहिं भटन्ह के उर भुज सिरा।  
 जहँ तहँ परहिं उठि लरहिं धर धरु धरु करहिं भयङ्कर गिरा॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3658,13 +3148,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अन्तावरीं गहि उडत गीध पिसाच कर गहि धावहीं।  
 सङ्ग्राम पुर बासी मनहुँ बहु बाल गुडी उडावहीं॥  
 मारे पछारे उर बिदारे बिपुल भट कहँरत परे।  
 अवलोकि निज दल बिकल भट तिसिरादि खर दूषन फिरे॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3682,13 +3169,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सरसक्ति तोमर परसु सूल कृपान एकहि बारहीं।  
 करि कोप श्री रघुबीर पर अगनित निसाचर डारहीं॥  
 प्रभु निमिष महुँ रिपु सर निवारि पचारि डारे सायका।  
 दस दस बिसिख उर माझ मारे सकल निसिचर नायका॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3706,13 +3190,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 महि परत उठि भट भिरत मरत न करत माया अति घनी।  
 सुर डरत चौदह सहस प्रेत बिलोकि एक अवध धनी॥  
 सुर मुनि सभय प्रभु देखि मायानाथ अति कौतुक कर्‌यो।  
 देखहिं परसपर राम करि सङ्ग्राम रिपु दल लरि मर्‌यो॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3736,11 +3217,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 राम राम कहि तनु तजहिं पावहिं पद निर्बान।  
 करि उपाय रिपु मारे छन महुँ कृपानिधान॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3756,11 +3234,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 हरषित बरषहिं सुमन सुर बाजहिं गगन निसान।  
 अस्तुति करि करि सब चले सोभित बिबिध बिमान॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3780,11 +3255,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जब रघुनाथ समर रिपु जीते। सुर नर मुनि सब के भय बीते॥  
 तब लछिमन सीतहि लै आए। प्रभु पद परत हरषि उर लाए॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3800,11 +3272,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सीता चितव स्याम मृदु गाता। परम प्रेम लोचन न अघाता॥  
 पञ्चबटीं बसि श्री रघुनायक। करत चरित सुर मुनि सुखदायक॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3822,11 +3291,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 धुआँ देखि खरदूषन केरा। जाइ सुपनखाँ रावन प्रेरा॥  
 बोली बचन क्रोध करि भारी। देस कोस कै सुरति बिसारी॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3842,13 +3308,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 करसि पान सोवसि दिनु राती। सुधि नहिं तव सिर पर आराती॥  
 राज नीति बिनु धन बिनु धर्मा। हरिहि समर्पे बिनु सतकर्मा॥4॥  
 बिद्या बिनु बिबेक उपजाएँ। श्रम फल पढें किएँ अरु पाएँ॥  
 सङ्ग तें जती कुमन्त्र ते राजा। मान ते ग्यान पान तें लाजा॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3866,10 +3329,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रीति प्रनय बिनु मद ते गुनी। नासहिं बेगि नीति अस सुनी॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3890,11 +3350,8 @@ unicode_script = "devanagari"
 ### 01 सोरठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रिपु रुज पावक पाप प्रभु अहि गनिअ न छोट करि।  
 अस कहि बिबिध बिलाप करि लागी रोदन करन॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3913,11 +3370,8 @@ unicode_script = "devanagari"
 ### 02 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सभा माझ परि ब्याकुल बहु प्रकार कह रोइ।  
 तोहि जिअत दसकन्धर मोरि कि असि गति होइ॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3938,11 +3392,8 @@ unicode_script = "devanagari"
 ### 03 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुनत सभासद उठे अकुलाई। समुझाई गहि बाँह उठाई॥  
 कह लङ्केस कहसि निज बाता। केइँ तव नासा कान निपाता॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3958,11 +3409,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अवध नृपति दसरथ के जाए। पुरुष सिङ्घ बन खेलन आए॥  
 समुझि परी मोहि उन्ह कै करनी। रहित निसाचर करिहहिं धरनी॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3978,11 +3426,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जिन्ह कर भुजबल पाइ दसानन। अभय भए बिचरत मुनि कानन॥  
 देखत बालक काल समाना। परम धीर धन्वी गुन नाना॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -3998,11 +3443,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अतुलित बल प्रताप द्वौ भ्राता। खल बध रत सुर मुनि सुखदाता॥  
 सोभा धाम राम अस नामा। तिन्ह के सङ्ग नारि एक स्यामा॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4018,11 +3460,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 रूप रासि बिधि नारि सँवारी। रति सत कोटि तासु बलिहारी॥  
 तासु अनुज काटे श्रुति नासा। सुनि तव भगिनि करहिं परिहासा॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4038,11 +3477,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 खर दूषन सुनि लगे पुकारा। छन महुँ सकल कटक उन्ह मारा॥  
 खर दूषन तिसिरा कर घाता। सुनि दससीस जरे सब गाता॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4064,11 +3500,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सूपनखहि समुझाइ करि बल बोलेसि बहु भाँति।  
 गयउ भवन अति सोचबस नीद परइ नहिं राति॥22॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4089,11 +3522,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुर नर असुर नाग खग माहीं। मोरे अनुचर कहँ कोउ नाहीं॥  
 खर दूषन मोहि सम बलवन्ता। तिन्हहि को मारइ बिनु भगवन्ता॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4109,11 +3539,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुर रञ्जन भञ्जन महि भारा। जौं भगवन्त लीन्ह अवतारा॥  
 तौ मैं जाइ बैरु हठि करऊँ। प्रभु सर प्रान तजें भव तरऊँ॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4129,11 +3556,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 होइहि भजनु न तामस देहा। मन क्रम बचन मन्त्र दृढ एहा॥  
 जौं नररूप भूपसुत कोऊ। हरिहउँ नारि जीति रन दोऊ॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4149,11 +3573,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 चला अकेल जान चढि तहवाँ। बस मारीच सिन्धु तट जहवाँ॥  
 इहाँ राम जसि जुगुति बनाई। सुनहु उमा सो कथा सुहाई॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4175,11 +3596,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 लछिमन गए बनहिं जब लेन मूल फल कन्द।  
 जनकसुता सन बोले बिहसि कृपा सुख बृन्द॥23॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4199,11 +3617,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सुनहु प्रिया ब्रत रुचिर सुसीला। मैं कछु करबि ललित नरलीला॥  
 तुम्ह पावक महुँ करहु निवासा। जौ लगि करौं निसाचर नासा॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4219,11 +3634,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जबहिं राम सब कहा बखानी। प्रभु पद धरि हियँ अनल समानी॥  
 निज प्रतिबिम्ब राखि तहँ सीता। तैसइ सील रूप सुबिनीता॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4239,11 +3651,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 लछिमनहूँ यह मरमु न जाना। जो कछु चरित रचा भगवाना॥  
 दसमुख गयउ जहाँ मारीचा। नाइ माथ स्वारथ रत नीचा॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4259,11 +3668,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नवनि नीच कै अति दुखदाई। जिमि अङ्कुस धनु उरग बिलाई॥  
 भयदायक खल कै प्रिय बानी। जिमि अकाल के कुसुम भवानी॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4285,11 +3691,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 करि पूजा मारीच तब सादर पूछी बात।  
 कवन हेतु मन ब्यग्र अति अकसर आयहु तात॥24॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4310,11 +3713,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 दसमुख सकल कथा तेहि आगें। कही सहित अभिमान अभागें॥  
 होहु कपट मृग तुम्ह छलकारी। जेहि बिधि हरि आनौं नृपनारी॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4330,11 +3730,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तेहिं पुनि कहा सुनहु दससीसा। ते नररूप चराचर ईसा॥  
 तासों तात बयरु नहिं कीजै। मारें मरिअ जिआएँ जीजै॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4350,11 +3747,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मुनि मख राखन गयउ कुमारा। बिनु फर सर रघुपति मोहि मारा॥  
 सत जोजन आयउँ छन माहीं। तिन्ह सन बयरु किएँ भल नाहीं॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4370,11 +3764,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भइ मम कीट भृङ्ग की नाई। जहँ तहँ मैं देखउँ दोउ भाई॥  
 जौं नर तात तदपि अति सूरा। तिन्हहि बिरोधि न आइहि पूरा॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4396,11 +3787,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जेहिं ताडका सुबाहु हति खण्डेउ हर कोदण्ड।  
 खर दूषन तिसिरा बधेउ मनुज कि अस बरिबण्ड॥25॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4421,11 +3809,8 @@ unicode_script = "devanagari"
 ### 02 चौपाई
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जाहु भवन कुल कुसल बिचारी। सुनत जरा दीन्हिसि बहु गारी॥  
 गुरु जिमि मूढ करसि मम बोधा। कहु जग मोहि समान को जोधा॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4441,11 +3826,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तब मारीच हृदयँ अनुमाना। नवहि बिरोधें नहिं कल्याना॥  
 सस्त्री मर्मी प्रभु सठ धनी। बैद बन्दि कबि भानस गुनी॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4461,11 +3843,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 उभय भाँति देखा निज मरना। तब ताकिसि रघुनायक सरना॥  
 उतरु देत मोहि बधब अभागें। कस न मरौं रघुपति सर लागें॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4481,11 +3860,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अस जियँ जानि दसानन सङ्गा। चला राम पद प्रेम अभङ्गा॥  
 मन अति हरष जनाव न तेही। आजु देखिहउँ परम सनेही॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4504,13 +3880,10 @@ unicode_script = "devanagari"
 ### 03 छन्द
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 निज परम प्रीतम देखि लोचन सुफल करि सुख पाइहौं।  
 श्रीसहित अनुज समेत कृपानिकेत पद मन लाइहौं॥  
 निर्बान दायक क्रोध जा कर भगति अबसहि बसकरी।  
 निज पानि सर सन्धानि सो मोहि बधिहि सुखसागर हरी॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4534,11 +3907,8 @@ unicode_script = "devanagari"
 ### 01 दोहा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मम पाछें धर धावत धरें सरासन बान।  
 फिरि फिरि प्रभुहि बिलोकिहउँ धन्य न मो सम आन॥26॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4558,11 +3928,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तेहि बननिकट दसानन गयऊ। तब मारीच कपटमृग भयऊ॥  
 अति बिचित्र कछु बरनि न जाई। कनक देह मनि रचित बनाई॥1॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4578,11 +3945,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सीता परम रुचिर मृग देखा। अङ्ग अङ्ग सुमनोहर बेषा॥  
 सुनहु देव रघुबीर कृपाला। एहि मृग कर अति सुन्दर छाला॥2॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4598,11 +3962,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सत्यसन्ध प्रभु बधि करि एही। आनहु चर्म कहति बैदेही॥  
 तब रघुपति जानत सब कारन। उठे हरषि सुर काजु सँवारन॥3॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4618,11 +3979,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 मृग बिलोकि कटि परिकर बाँधा। करतल चाप रुचिर सर साँधा॥  
 प्रभु लछिमनहि कहा समुझाई। फिरत बिपिन निसिचर बहु भाई॥4॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4638,11 +3996,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 सीता केरि करेहु रखवारी। बुधि बिबेक बल समय बिचारी॥  
 प्रभुहि बिलोकि चला मृग भाजी। धाए रामु सरासन साजी॥5॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4658,11 +4013,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 निगम नेति सिव ध्यान न पावा। मायामृग पाछें सो धावा॥  
 कबहुँ निकट पुनि दूरि पराई। कबहुँक प्रगटइ कबहुँ छपाई॥6॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4678,11 +4030,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 प्रगटत दुरत करत छल भूरी। एहि बिधि प्रभुहि गयउ लै दूरी॥  
 तब तकि राम कठिन सर मारा। धरनि परेउ करि घोर पुकारा॥7॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
@@ -4698,11 +4047,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 लछिमन कर प्रथमहिं लै नामा। पाछें सुमिरेसि मन महुँ रामा॥  
 प्रान तजत प्रगटेसि निज देहा। सुमिरेसि रामु समेत सनेहा॥8॥  
-</details>
 </details>
 
 <details><summary>मूल</summary>
