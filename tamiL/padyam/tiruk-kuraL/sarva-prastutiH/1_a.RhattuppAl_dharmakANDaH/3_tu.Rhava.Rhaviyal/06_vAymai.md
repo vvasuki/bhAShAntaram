@@ -3,11 +3,10 @@ title = "०६ वाय्मै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २९१</summary>
 
-वाय्मै ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्
-तीमै इलाद सॊलल्। २९१
+वाय्मै ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्  
+तीमै इलाद सॊलल्। २९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९१</summary>
@@ -18,10 +17,10 @@ title = "०६ वाय्मै"
 
 <details><summary>NVK Ashraf choice (en) - २९१</summary>
 
-०२९१
-What is truthfulness? It is nothing but utterance
-Wholly devoid of ill.
-(V.V.S. Aiyar), (P.S. Sundaram)
+०२९१  
+What is truthfulness? It is nothing but utterance  
+Wholly devoid of ill.  
+(V.V.S. Aiyar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९१</summary>
@@ -55,14 +54,14 @@ It is to speak out evil-free.        291
 
 <details><summary>मूलम् - २९१</summary>
 
-वाय्मै ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्
-तीमै इलाद सॊलल्। २९१
+वाय्मै ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्  
+तीमै इलाद सॊलल्। २९१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९२</summary>
 
-पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द
-नऩ्मै पयक्कुम् ऎऩिऩ्। २९२
+पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द  
+नऩ्मै पयक्कुम् ऎऩिऩ्। २९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९२</summary>
@@ -73,10 +72,10 @@ It is to speak out evil-free.        291
 
 <details><summary>NVK Ashraf choice (en) - २९२</summary>
 
-०२९२
-Even a lie would take the place of truth,
-If it brings blameless benefit.
-(N.V.K. Ashraf), (V. Ramasamy)
+०२९२  
+Even a lie would take the place of truth,  
+If it brings blameless benefit.  
+(N.V.K. Ashraf), (V. Ramasamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९२</summary>
@@ -110,14 +109,14 @@ When good it brings removing vice.        292
 
 <details><summary>मूलम् - २९२</summary>
 
-पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द
-नऩ्मै पयक्कुम् ऎऩिऩ्। २९२
+पॊय्मैयुम् वाय्मै यिडत्त पुरैदीर्न्द  
+नऩ्मै पयक्कुम् ऎऩिऩ्। २९२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९३</summary>
 
-तऩ्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिऩ्
-तऩ्नॆञ्जे तऩ्ऩैच् चुडुम्। २९३
+तऩ्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिऩ्  
+तऩ्नॆञ्जे तऩ्ऩैच् चुडुम्। २९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९३</summary>
@@ -128,10 +127,10 @@ When good it brings removing vice.        292
 
 <details><summary>NVK Ashraf choice (en) - २९३</summary>
 
-०२९३
-Lie not against your conscience,
-Lest your own conscience burn you. *
-(P.S. Sundaram)
+०२९३  
+Lie not against your conscience,  
+Lest your own conscience burn you. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९३</summary>
@@ -166,14 +165,14 @@ Conscience will scorch and make him sigh.        293
 
 <details><summary>मूलम् - २९३</summary>
 
-तऩ्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिऩ्
-तऩ्नॆञ्जे तऩ्ऩैच् चुडुम्। २९३
+तऩ्नॆञ् जऱिवदु पॊय्यऱ्क पॊय्त्तबिऩ्  
+तऩ्नॆञ्जे तऩ्ऩैच् चुडुम्। २९३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९४</summary>
 
-उळ्ळत्ताऱ् पॊय्या तॊऴुगिऩ् उलगत्तार्
-उळ्ळत्तु ळॆल्लाम् उळऩ्। २९४
+उळ्ळत्ताऱ् पॊय्या तॊऴुगिऩ् उलगत्तार्  
+उळ्ळत्तु ळॆल्लाम् उळऩ्। २९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९४</summary>
@@ -184,10 +183,10 @@ Conscience will scorch and make him sigh.        293
 
 <details><summary>NVK Ashraf choice (en) - २९४</summary>
 
-०२९४
-He who lives truly in his own heart,
-Truly lives in the hearts of all people.
-(Satguru Subramuniyaswami)
+०२९४  
+He who lives truly in his own heart,  
+Truly lives in the hearts of all people.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९४</summary>
@@ -222,14 +221,14 @@ Who serves the Truth serene in soul.        294
 
 <details><summary>मूलम् - २९४</summary>
 
-उळ्ळत्ताऱ् पॊय्या तॊऴुगिऩ् उलगत्तार्
-उळ्ळत्तु ळॆल्लाम् उळऩ्। २९४
+उळ्ळत्ताऱ् पॊय्या तॊऴुगिऩ् उलगत्तार्  
+उळ्ळत्तु ळॆल्लाम् उळऩ्। २९४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९५</summary>
 
-मऩत्तॊडु वाय्मै मॊऴियिऩ् तवत्तॊडु
-ताऩञ्जॆय् वारिऩ् तलै। २९५
+मऩत्तॊडु वाय्मै मॊऴियिऩ् तवत्तॊडु  
+ताऩञ्जॆय् वारिऩ् तलै। २९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९५</summary>
@@ -240,10 +239,10 @@ Who serves the Truth serene in soul.        294
 
 <details><summary>NVK Ashraf choice (en) - २९५</summary>
 
-०२९५
+०२९५  
 Truthfulness in thought and word 
-Outweighs penance and charity.
-(P.S. Sundaram)
+Outweighs penance and charity.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९५</summary>
@@ -278,14 +277,14 @@ Is more than giving and living austere.        295
 
 <details><summary>मूलम् - २९५</summary>
 
-मऩत्तॊडु वाय्मै मॊऴियिऩ् तवत्तॊडु
-ताऩञ्जॆय् वारिऩ् तलै। २९५
+मऩत्तॊडु वाय्मै मॊऴियिऩ् तवत्तॊडु  
+ताऩञ्जॆय् वारिऩ् तलै। २९५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९६</summary>
 
-पॊय्यामै अऩ्ऩ पुगऴिल्लै ऎय्यामै
-ऎल्ला अऱमुन् दरुम्। २९६
+पॊय्यामै अऩ्ऩ पुगऴिल्लै ऎय्यामै  
+ऎल्ला अऱमुन् दरुम्। २९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९६</summary>
@@ -296,10 +295,10 @@ Is more than giving and living austere.        295
 
 <details><summary>NVK Ashraf choice (en) - २९६</summary>
 
-०२९६
-Nothing but the fame of truthfulness
-Can give all other virtues effortlessly. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०२९६  
+Nothing but the fame of truthfulness  
+Can give all other virtues effortlessly. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९६</summary>
@@ -334,14 +333,14 @@ All virtues from Truth arise.        296
 
 <details><summary>मूलम् - २९६</summary>
 
-पॊय्यामै अऩ्ऩ पुगऴिल्लै ऎय्यामै
-ऎल्ला अऱमुन् दरुम्। २९६
+पॊय्यामै अऩ्ऩ पुगऴिल्लै ऎय्यामै  
+ऎल्ला अऱमुन् दरुम्। २९६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९७</summary>
 
-पॊय्यामै पॊय्यामै आऱ्ऱिऩ् अऱम्बिऱ
-सॆय्यामै सॆय्यामै नऩ्ऱु। २९७
+पॊय्यामै पॊय्यामै आऱ्ऱिऩ् अऱम्बिऱ  
+सॆय्यामै सॆय्यामै नऩ्ऱु। २९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९७</summary>
@@ -352,10 +351,10 @@ All virtues from Truth arise.        296
 
 <details><summary>NVK Ashraf choice (en) - २९७</summary>
 
-०२९७
-If one speaks the truth and only truth,
-He need not seek other virtues.
-(S.M. Diaz)
+०२९७  
+If one speaks the truth and only truth,  
+He need not seek other virtues.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २९७</summary>
@@ -394,14 +393,14 @@ All virtues are in Truth indeed.        297
 
 <details><summary>मूलम् - २९७</summary>
 
-पॊय्यामै पॊय्यामै आऱ्ऱिऩ् अऱम्बिऱ
-सॆय्यामै सॆय्यामै नऩ्ऱु। २९७
+पॊय्यामै पॊय्यामै आऱ्ऱिऩ् अऱम्बिऱ  
+सॆय्यामै सॆय्यामै नऩ्ऱु। २९७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९८</summary>
 
-पुऱळ्दूय्मै नीराऩ् अमैयुम् अगन्दूय्मै
-वाय्मैयाल् काणप् पडुम्। २९८
+पुऱळ्दूय्मै नीराऩ् अमैयुम् अगन्दूय्मै  
+वाय्मैयाल् काणप् पडुम्। २९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९८</summary>
@@ -412,10 +411,10 @@ All virtues are in Truth indeed.        297
 
 <details><summary>NVK Ashraf choice (en) - २९८</summary>
 
-०२९८
-Water ensures external purity
-And truthfulness shows the internal.
-(P.S. Sundaram)
+०२९८  
+Water ensures external purity  
+And truthfulness shows the internal.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९८</summary>
@@ -449,14 +448,14 @@ Truth renders you pure inward.        298
 
 <details><summary>मूलम् - २९८</summary>
 
-पुऱळ्दूय्मै नीराऩ् अमैयुम् अगन्दूय्मै
-वाय्मैयाल् काणप् पडुम्। २९८
+पुऱळ्दूय्मै नीराऩ् अमैयुम् अगन्दूय्मै  
+वाय्मैयाल् काणप् पडुम्। २९८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९९</summary>
 
-ऎल्ला विळक्कुम् विळक्कल्ल साऩ्ऱोर्क्कुप्
-पॊय्या विळक्के विळक्कु। २९९
+ऎल्ला विळक्कुम् विळक्कल्ल साऩ्ऱोर्क्कुप्  
+पॊय्या विळक्के विळक्कु। २९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९९</summary>
@@ -467,10 +466,10 @@ Truth renders you pure inward.        298
 
 <details><summary>NVK Ashraf choice (en) - २९९</summary>
 
-०२९९
-Not all lights cause illumination; For the wise,
-Only the light of truth is illuminant.
-(N.V.K. Ashraf)
+०२९९  
+Not all lights cause illumination; For the wise,  
+Only the light of truth is illuminant.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९९</summary>
@@ -504,14 +503,14 @@ Truth light is light bright like sun-light        299
 
 <details><summary>मूलम् - २९९</summary>
 
-ऎल्ला विळक्कुम् विळक्कल्ल साऩ्ऱोर्क्कुप्
-पॊय्या विळक्के विळक्कु। २९९
+ऎल्ला विळक्कुम् विळक्कल्ल साऩ्ऱोर्क्कुप्  
+पॊय्या विळक्के विळक्कु। २९९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३००</summary>
 
-यामॆय्याक् कण्डवऱ्ऱुळ् इल्लै ऎऩैत्तॊऩ्ऱुम्
-वाय्मैयिऩ् नल्ल पिऱ। ३००
+यामॆय्याक् कण्डवऱ्ऱुळ् इल्लै ऎऩैत्तॊऩ्ऱुम्  
+वाय्मैयिऩ् नल्ल पिऱ। ३००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३००</summary>
@@ -522,10 +521,10 @@ Truth light is light bright like sun-light        299
 
 <details><summary>NVK Ashraf choice (en) - ३००</summary>
 
-०३००
-Amidst all that we have seen as real,
-There is nothing as good as truthfulness.
-(W.H. Drew and J. Lazarus)
+०३००  
+Amidst all that we have seen as real,  
+There is nothing as good as truthfulness.  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३००</summary>
@@ -559,7 +558,7 @@ Nothing surpasses Truth serene !        300
 
 <details><summary>मूलम् - ३००</summary>
 
-यामॆय्याक् कण्डवऱ्ऱुळ् इल्लै ऎऩैत्तॊऩ्ऱुम्
-वाय्मैयिऩ् नल्ल पिऱ। ३००
+यामॆय्याक् कण्डवऱ्ऱुळ् इल्लै ऎऩैत्तॊऩ्ऱुम्  
+वाय्मैयिऩ् नल्ल पिऱ। ३००  
 </details>
 

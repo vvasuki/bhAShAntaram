@@ -3,11 +3,10 @@ title = "०२ सॊल्वन्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६४१</summary>
 
-नानलम् ऎऩ्ऩुम् नलऩुडैमै अन्नलम्
-यानलत्तु उळ्ळदूउम् अऩ्ऱु। ६४१
+नानलम् ऎऩ्ऩुम् नलऩुडैमै अन्नलम्  
+यानलत्तु उळ्ळदूउम् अऩ्ऱु। ६४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४१</summary>
@@ -19,10 +18,10 @@ title = "०२ सॊल्वन्मै"
 
 <details><summary>NVK Ashraf choice (en) - ६४१</summary>
 
-०६४१
-Real asset is the gift of speech.
-That gift is a class apart from all other gifts.
-(N.V.K. Ashraf)
+०६४१  
+Real asset is the gift of speech.  
+That gift is a class apart from all other gifts.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४१</summary>
@@ -56,14 +55,14 @@ Is goodness which nothing can reach.        641
 
 <details><summary>मूलम् - ६४१</summary>
 
-नानलम् ऎऩ्ऩुम् नलऩुडैमै अन्नलम्
-यानलत्तु उळ्ळदूउम् अऩ्ऱु। ६४१
+नानलम् ऎऩ्ऩुम् नलऩुडैमै अन्नलम्  
+यानलत्तु उळ्ळदूउम् अऩ्ऱु। ६४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४२</summary>
 
-आक्कमुङ् गेडुम् अदऩाल् वरुदलाल्
-कात्तोम्बल् सॊल्लिऩ्कट् चोर्वु। ६४२
+आक्कमुङ् गेडुम् अदऩाल् वरुदलाल्  
+कात्तोम्बल् सॊल्लिऩ्कट् चोर्वु। ६४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४२</summary>
@@ -74,10 +73,10 @@ Is goodness which nothing can reach.        641
 
 <details><summary>NVK Ashraf choice (en) - ६४२</summary>
 
-०६४२
-Speech can both make and mar,
-And hence guard it from negligence. *
-(P.S. Sundaram)
+०६४२  
+Speech can both make and mar,  
+And hence guard it from negligence. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४२</summary>
@@ -112,14 +111,14 @@ Guard against the slips of tongue.        642
 
 <details><summary>मूलम् - ६४२</summary>
 
-आक्कमुङ् गेडुम् अदऩाल् वरुदलाल्
-कात्तोम्बल् सॊल्लिऩ्कट् चोर्वु। ६४२
+आक्कमुङ् गेडुम् अदऩाल् वरुदलाल्  
+कात्तोम्बल् सॊल्लिऩ्कट् चोर्वु। ६४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४३</summary>
 
-केट्टार्प् पिणिक्कुम् तगैयवाय्क् केळारुम्
-वेट्प मॊऴिवदाम् सॊल्। ६४३
+केट्टार्प् पिणिक्कुम् तगैयवाय्क् केळारुम्  
+वेट्प मॊऴिवदाम् सॊल्। ६४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४३</summary>
@@ -130,10 +129,10 @@ Guard against the slips of tongue.        642
 
 <details><summary>NVK Ashraf choice (en) - ६४३</summary>
 
-०६४३
-A speech should hold fast the convinced
-And be pleasing even to the unconvinced.
-(C. Rajagopalachari)
+०६४३  
+A speech should hold fast the convinced  
+And be pleasing even to the unconvinced.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४३</summary>
@@ -168,14 +167,14 @@ And attracts ev'n those that are averse.        643
 
 <details><summary>मूलम् - ६४३</summary>
 
-केट्टार्प् पिणिक्कुम् तगैयवाय्क् केळारुम्
-वेट्प मॊऴिवदाम् सॊल्। ६४३
+केट्टार्प् पिणिक्कुम् तगैयवाय्क् केळारुम्  
+वेट्प मॊऴिवदाम् सॊल्। ६४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४४</summary>
 
-तिऱऩऱिन्दु सॊल्लुग सॊल्लै अऱऩुम्
-पॊरुळुम् अदऩिऩूउङ्गु इल्। ६४४
+तिऱऩऱिन्दु सॊल्लुग सॊल्लै अऱऩुम्  
+पॊरुळुम् अदऩिऩूउङ्गु इल्। ६४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४४</summary>
@@ -186,10 +185,10 @@ And attracts ev'n those that are averse.        643
 
 <details><summary>NVK Ashraf choice (en) - ६४४</summary>
 
-०६४४
-Speak to the capacity of the audience.
-Nothing more virtuous or valuable than this. *
-(Satguru Subramuniyaswami), (C. Rajagopalachari)
+०६४४  
+Speak to the capacity of the audience.  
+Nothing more virtuous or valuable than this. *  
+(Satguru Subramuniyaswami), (C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४४</summary>
@@ -223,14 +222,14 @@ No wealth or virtue words surpass.        644
 
 <details><summary>मूलम् - ६४४</summary>
 
-तिऱऩऱिन्दु सॊल्लुग सॊल्लै अऱऩुम्
-पॊरुळुम् अदऩिऩूउङ्गु इल्। ६४४
+तिऱऩऱिन्दु सॊल्लुग सॊल्लै अऱऩुम्  
+पॊरुळुम् अदऩिऩूउङ्गु इल्। ६४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४५</summary>
 
-सॊल्लुग सॊल्लैप् पिऱिदोर्सॊल् अच्चॊल्लै
-वॆल्लुञ्जॊल् इऩ्मै अऱिन्दु। ६४५
+सॊल्लुग सॊल्लैप् पिऱिदोर्सॊल् अच्चॊल्लै  
+वॆल्लुञ्जॊल् इऩ्मै अऱिन्दु। ६४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४५</summary>
@@ -241,10 +240,10 @@ No wealth or virtue words surpass.        644
 
 <details><summary>NVK Ashraf choice (en) - ६४५</summary>
 
-०६४५
-Utter not a word without making sure
-There is no other word to beat it.
-(S. Maharajan)
+०६४५  
+Utter not a word without making sure  
+There is no other word to beat it.  
+(S. Maharajan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६४५</summary>
@@ -283,14 +282,14 @@ Can win it and say untoward.        645
 
 <details><summary>मूलम् - ६४५</summary>
 
-सॊल्लुग सॊल्लैप् पिऱिदोर्सॊल् अच्चॊल्लै
-वॆल्लुञ्जॊल् इऩ्मै अऱिन्दु। ६४५
+सॊल्लुग सॊल्लैप् पिऱिदोर्सॊल् अच्चॊल्लै  
+वॆल्लुञ्जॊल् इऩ्मै अऱिन्दु। ६४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४६</summary>
 
-वेट्पत्ताञ् जॊल्लिप् पिऱर्सॊल् पयऩ्कोडल्
-माट्चियिऩ् मासऱ्ऱार् कोळ्। ६४६
+वेट्पत्ताञ् जॊल्लिप् पिऱर्सॊल् पयऩ्कोडल्  
+माट्चियिऩ् मासऱ्ऱार् कोळ्। ६४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४६</summary>
@@ -301,10 +300,10 @@ Can win it and say untoward.        645
 
 <details><summary>NVK Ashraf choice (en) - ६४६</summary>
 
-०६४६
-To speak as desired and gain from what others say
-Is the hallmark of spotless men. *
-(P.S. Sundaram), (N.V.K. Ashraf)
+०६४६  
+To speak as desired and gain from what others say  
+Is the hallmark of spotless men. *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४६</summary>
@@ -339,14 +338,14 @@ And grasp in others what is meet.        646
 
 <details><summary>मूलम् - ६४६</summary>
 
-वेट्पत्ताञ् जॊल्लिप् पिऱर्सॊल् पयऩ्कोडल्
-माट्चियिऩ् मासऱ्ऱार् कोळ्। ६४६
+वेट्पत्ताञ् जॊल्लिप् पिऱर्सॊल् पयऩ्कोडल्  
+माट्चियिऩ् मासऱ्ऱार् कोळ्। ६४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४७</summary>
 
-सॊलल्वल्लऩ् सोर्विलऩ् अञ्जाऩ् अवऩै
-इगल्वॆल्लल् यार्क्कुम् अरिदु। ६४७
+सॊलल्वल्लऩ् सोर्विलऩ् अञ्जाऩ् अवऩै  
+इगल्वॆल्लल् यार्क्कुम् अरिदु। ६४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४७</summary>
@@ -357,10 +356,10 @@ And grasp in others what is meet.        646
 
 <details><summary>NVK Ashraf choice (en) - ६४७</summary>
 
-०६४७
-An eloquent, tireless and fearless speaker
-Can rarely be prevailed upon by any one.
-(N.V.K. Ashraf)
+०६४७  
+An eloquent, tireless and fearless speaker  
+Can rarely be prevailed upon by any one.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४७</summary>
@@ -394,14 +393,14 @@ Flawless, puissant, and free from fear.        647
 
 <details><summary>मूलम् - ६४७</summary>
 
-सॊलल्वल्लऩ् सोर्विलऩ् अञ्जाऩ् अवऩै
-इगल्वॆल्लल् यार्क्कुम् अरिदु। ६४७
+सॊलल्वल्लऩ् सोर्विलऩ् अञ्जाऩ् अवऩै  
+इगल्वॆल्लल् यार्क्कुम् अरिदु। ६४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४८</summary>
 
-विरैन्दु तॊऴिल्गेट्कुम् ञालम् निरन्दिऩिदु
-सॊल्लुदल् वल्लार्प् पॆऱिऩ्। ६४८
+विरैन्दु तॊऴिल्गेट्कुम् ञालम् निरन्दिऩिदु  
+सॊल्लुदल् वल्लार्प् पॆऱिऩ्। ६४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४८</summary>
@@ -412,10 +411,10 @@ Flawless, puissant, and free from fear.        647
 
 <details><summary>NVK Ashraf choice (en) - ६४८</summary>
 
-०६४८
-The world will rush and listen to those
-Who can to speak orderly and pleasingly.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०६४८  
+The world will rush and listen to those  
+Who can to speak orderly and pleasingly.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६४८</summary>
@@ -455,14 +454,14 @@ The words of counsellors astute.        648
 
 <details><summary>मूलम् - ६४८</summary>
 
-विरैन्दु तॊऴिल्गेट्कुम् ञालम् निरन्दिऩिदु
-सॊल्लुदल् वल्लार्प् पॆऱिऩ्। ६४८
+विरैन्दु तॊऴिल्गेट्कुम् ञालम् निरन्दिऩिदु  
+सॊल्लुदल् वल्लार्प् पॆऱिऩ्। ६४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४९</summary>
 
-पलसॊल्लक् कामुऱुवर् मऩ्ऱमा सऱ्ऱ
-सिलसॊल्लल् तेऱ्ऱा तवर्। ६४९
+पलसॊल्लक् कामुऱुवर् मऩ्ऱमा सऱ्ऱ  
+सिलसॊल्लल् तेऱ्ऱा तवर्। ६४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४९</summary>
@@ -473,10 +472,10 @@ The words of counsellors astute.        648
 
 <details><summary>NVK Ashraf choice (en) - ६४९</summary>
 
-०६४९
-Those fond of talking much
-Cannot be brief and faultless.
-(P.S. Sundaram)
+०६४९  
+Those fond of talking much  
+Cannot be brief and faultless.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४९</summary>
@@ -511,14 +510,14 @@ A few and flawless words to speak.        649
 
 <details><summary>मूलम् - ६४९</summary>
 
-पलसॊल्लक् कामुऱुवर् मऩ्ऱमा सऱ्ऱ
-सिलसॊल्लल् तेऱ्ऱा तवर्। ६४९
+पलसॊल्लक् कामुऱुवर् मऩ्ऱमा सऱ्ऱ  
+सिलसॊल्लल् तेऱ्ऱा तवर्। ६४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५०</summary>
 
-इण्रुऴ्त्तुम् नाऱा मलरऩैयर् कऱ्ऱतु
-उणर विरित्तुरैया तार्। ६५०
+इण्रुऴ्त्तुम् नाऱा मलरऩैयर् कऱ्ऱतु  
+उणर विरित्तुरैया तार्। ६५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५०</summary>
@@ -529,10 +528,10 @@ A few and flawless words to speak.        649
 
 <details><summary>NVK Ashraf choice (en) - ६५०</summary>
 
-०६५०
-Those who can't express what they have learnt
-Are a bunch of flowers without scent. *
-( Shuddhananda Bharatiar)
+०६५०  
+Those who can't express what they have learnt  
+Are a bunch of flowers without scent. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५०</summary>
@@ -566,7 +565,7 @@ Are bunch of flowers not fragrant.        650
 
 <details><summary>मूलम् - ६५०</summary>
 
-इण्रुऴ्त्तुम् नाऱा मलरऩैयर् कऱ्ऱतु
-उणर विरित्तुरैया तार्। ६५०
+इण्रुऴ्त्तुम् नाऱा मलरऩैयर् कऱ्ऱतु  
+उणर विरित्तुरैया तार्। ६५०  
 </details>
 

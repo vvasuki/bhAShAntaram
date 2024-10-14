@@ -3,11 +3,10 @@ title = "०४ पसप्पुऱुबरुवरल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११८१</summary>
 
-नयन्दवर्क्कु नल्गामै नेर्न्देऩ् पसन्दवॆऩ्
-पण्बियार्क्कु उरैक्को पिऱ। ११८१
+नयन्दवर्क्कु नल्गामै नेर्न्देऩ् पसन्दवॆऩ्  
+पण्बियार्क्कु उरैक्को पिऱ। ११८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८१</summary>
@@ -18,10 +17,10 @@ title = "०४ पसप्पुऱुबरुवरल्"
 
 <details><summary>NVK Ashraf choice (en) - ११८१</summary>
 
-११८१
-Having agreed to part my love,
-How can I complain of my pallor to others? *
-( Shuddhananda Bharatiar), (K.R. Srinivasa Iyengar)
+११८१  
+Having agreed to part my love,  
+How can I complain of my pallor to others? *  
+( Shuddhananda Bharatiar), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११८१</summary>
@@ -61,14 +60,14 @@ Whom to complain my hue pallid?        1181
 
 <details><summary>मूलम् - ११८१</summary>
 
-नयन्दवर्क्कु नल्गामै नेर्न्देऩ् पसन्दवॆऩ्
-पण्बियार्क्कु उरैक्को पिऱ। ११८१
+नयन्दवर्क्कु नल्गामै नेर्न्देऩ् पसन्दवॆऩ्  
+पण्बियार्क्कु उरैक्को पिऱ। ११८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८२</summary>
 
-अवर्दन्दार् ऎऩ्ऩुम् तगैयाल् इवर्दन्दॆऩ्
-मेऩिमेल् ऊरुम् पसप्पु। ११८२
+अवर्दन्दार् ऎऩ्ऩुम् तगैयाल् इवर्दन्दॆऩ्  
+मेऩिमेल् ऊरुम् पसप्पु। ११८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८२</summary>
@@ -79,10 +78,10 @@ Whom to complain my hue pallid?        1181
 
 <details><summary>NVK Ashraf choice (en) - ११८२</summary>
 
-११८२
-Claiming that it begot through him,
-Pallor creeps over my body with pride. *
-( Shuddhananda Bharatiar)
+११८२  
+Claiming that it begot through him,  
+Pallor creeps over my body with pride. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८२</summary>
@@ -116,14 +115,14 @@ Pallor creeps and rides over my frame.        1182
 
 <details><summary>मूलम् - ११८२</summary>
 
-अवर्दन्दार् ऎऩ्ऩुम् तगैयाल् इवर्दन्दॆऩ्
-मेऩिमेल् ऊरुम् पसप्पु। ११८२
+अवर्दन्दार् ऎऩ्ऩुम् तगैयाल् इवर्दन्दॆऩ्  
+मेऩिमेल् ऊरुम् पसप्पु। ११८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८३</summary>
 
-सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा
-नोयुम् पसलैयुम् तन्दु। ११८३
+सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा  
+नोयुम् पसलैयुम् तन्दु। ११८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८३</summary>
@@ -134,10 +133,10 @@ Pallor creeps and rides over my frame.        1182
 
 <details><summary>NVK Ashraf choice (en) - ११८३</summary>
 
-११८३
-He robbed me first of my beauty and shame,
-And gave in exchange sickness and pallor.
-(P.S. Sundaram)
+११८३  
+He robbed me first of my beauty and shame,  
+And gave in exchange sickness and pallor.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८३</summary>
@@ -172,14 +171,14 @@ Leaving pangs and Pallor to me.        1183
 
 <details><summary>मूलम् - ११८३</summary>
 
-सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा
-नोयुम् पसलैयुम् तन्दु। ११८३
+सायलुम् नाणुम् अवर्गॊण्डार् कैम्माऱा  
+नोयुम् पसलैयुम् तन्दु। ११८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८४</summary>
 
-उळ्ळुवऩ् मऩ्याऩ् उरैप्पदु अवर्दिऱमाल्
-कळ्ळम् पिऱवो पसप्पु। ११८४
+उळ्ळुवऩ् मऩ्याऩ् उरैप्पदु अवर्दिऱमाल्  
+कळ्ळम् पिऱवो पसप्पु। ११८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८४</summary>
@@ -190,10 +189,10 @@ Leaving pangs and Pallor to me.        1183
 
 <details><summary>NVK Ashraf choice (en) - ११८४</summary>
 
-११८४
-His words I recollect and prowess I chant.
-Yet, how does pallor sneak in?
-(S.M. Diaz), (P.S. Sundaram)
+११८४  
+His words I recollect and prowess I chant.  
+Yet, how does pallor sneak in?  
+(S.M. Diaz), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८४</summary>
@@ -228,14 +227,14 @@ Yet this pallor steals over my frame.        1184
 
 <details><summary>मूलम् - ११८४</summary>
 
-उळ्ळुवऩ् मऩ्याऩ् उरैप्पदु अवर्दिऱमाल्
-कळ्ळम् पिऱवो पसप्पु। ११८४
+उळ्ळुवऩ् मऩ्याऩ् उरैप्पदु अवर्दिऱमाल्  
+कळ्ळम् पिऱवो पसप्पु। ११८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८५</summary>
 
-उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎऩ्
-मेऩि पसप्पूर् वदु। ११८५
+उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎऩ्  
+मेऩि पसप्पूर् वदु। ११८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८५</summary>
@@ -246,10 +245,10 @@ Yet this pallor steals over my frame.        1184
 
 <details><summary>NVK Ashraf choice (en) - ११८५</summary>
 
-११८५
-There goes my lover and here comes the pallor
-To creep over my body. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+११८५  
+There goes my lover and here comes the pallor  
+To creep over my body. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८५</summary>
@@ -283,14 +282,14 @@ And pallor usurped my body here.        1185
 
 <details><summary>मूलम् - ११८५</summary>
 
-उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎऩ्
-मेऩि पसप्पूर् वदु। ११८५
+उवक्काण्ऎम् कादलर् सॆल्वार् इवक्काण्ऎऩ्  
+मेऩि पसप्पूर् वदु। ११८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८६</summary>
 
-विळक्कऱ्ऱम् पार्क्कुम् इरुळेबोल् कॊण्गऩ्
-मुयक्कऱ्ऱम् पार्क्कुम् पसप्पु। ११८६
+विळक्कऱ्ऱम् पार्क्कुम् इरुळेबोल् कॊण्गऩ्  
+मुयक्कऱ्ऱम् पार्क्कुम् पसप्पु। ११८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८६</summary>
@@ -301,10 +300,10 @@ And pallor usurped my body here.        1185
 
 <details><summary>NVK Ashraf choice (en) - ११८६</summary>
 
-११८६
-Darkness lies in wait for the lamp to go out,
-And pallor for the embrace to break.
-(P.S. Sundaram)
+११८६  
+Darkness lies in wait for the lamp to go out,  
+And pallor for the embrace to break.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८६</summary>
@@ -338,14 +337,14 @@ Pallor looks for lover's arms-off.        1186
 
 <details><summary>मूलम् - ११८६</summary>
 
-विळक्कऱ्ऱम् पार्क्कुम् इरुळेबोल् कॊण्गऩ्
-मुयक्कऱ्ऱम् पार्क्कुम् पसप्पु। ११८६
+विळक्कऱ्ऱम् पार्क्कुम् इरुळेबोल् कॊण्गऩ्  
+मुयक्कऱ्ऱम् पार्क्कुम् पसप्पु। ११८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८७</summary>
 
-पुल्लिक् किडन्देऩ् पुडैबॆयर्न्देऩ् अव्वळविल्
-अळ्ळिक्कॊळ् वऱ्ऱे पसप्पु। ११८७
+पुल्लिक् किडन्देऩ् पुडैबॆयर्न्देऩ् अव्वळविल्  
+अळ्ळिक्कॊळ् वऱ्ऱे पसप्पु। ११८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८७</summary>
@@ -356,10 +355,10 @@ Pallor looks for lover's arms-off.        1186
 
 <details><summary>NVK Ashraf choice (en) - ११८७</summary>
 
-११८७
-Locked in embrace, I turned a little.
-Seizing that moment, pallor seized me in full. *
-(P.S. Sundaram), (J. Narayanaswamy)
+११८७  
+Locked in embrace, I turned a little.  
+Seizing that moment, pallor seized me in full. *  
+(P.S. Sundaram), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८७</summary>
@@ -394,14 +393,14 @@ This pallor swallowed me at once.        1187
 
 <details><summary>मूलम् - ११८७</summary>
 
-पुल्लिक् किडन्देऩ् पुडैबॆयर्न्देऩ् अव्वळविल्
-अळ्ळिक्कॊळ् वऱ्ऱे पसप्पु। ११८७
+पुल्लिक् किडन्देऩ् पुडैबॆयर्न्देऩ् अव्वळविल्  
+अळ्ळिक्कॊळ् वऱ्ऱे पसप्पु। ११८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८८</summary>
 
-पसन्दाळ् इवळ्ऎऩ्पदु अल्लाल् इवळैत्
-तुऱन्दार् अवर्ऎऩ्पार् इल्। ११८८
+पसन्दाळ् इवळ्ऎऩ्पदु अल्लाल् इवळैत्  
+तुऱन्दार् अवर्ऎऩ्पार् इल्। ११८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८८</summary>
@@ -412,10 +411,10 @@ This pallor swallowed me at once.        1187
 
 <details><summary>NVK Ashraf choice (en) - ११८८</summary>
 
-११८८
-"Pallid has she become” blame everyone,
-But none say “He parted her”.
-(N.V.K. Ashraf)
+११८८  
+"Pallid has she become” blame everyone,  
+But none say “He parted her”.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८८</summary>
@@ -450,14 +449,14 @@ But none says "lo he parted her".        1188
 
 <details><summary>मूलम् - ११८८</summary>
 
-पसन्दाळ् इवळ्ऎऩ्पदु अल्लाल् इवळैत्
-तुऱन्दार् अवर्ऎऩ्पार् इल्। ११८८
+पसन्दाळ् इवळ्ऎऩ्पदु अल्लाल् इवळैत्  
+तुऱन्दार् अवर्ऎऩ्पार् इल्। ११८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८९</summary>
 
-पसक्कमऩ् पट्टाङ्गॆऩ् मेऩि नयप्पित्तार्
-नऩ्ऩिलैयर् आवर् ऎऩिऩ्। ११८९
+पसक्कमऩ् पट्टाङ्गॆऩ् मेऩि नयप्पित्तार्  
+नऩ्ऩिलैयर् आवर् ऎऩिऩ्। ११८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८९</summary>
@@ -468,10 +467,10 @@ But none says "lo he parted her".        1188
 
 <details><summary>NVK Ashraf choice (en) - ११८९</summary>
 
-११८९
-If my lord who left me remains free of guilt,
-My pallor is worth all the grief. *
-(W.H. Drew and J. Lazarus), (S.M. Diaz)
+११८९  
+If my lord who left me remains free of guilt,  
+My pallor is worth all the grief. *  
+(W.H. Drew and J. Lazarus), (S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८९</summary>
@@ -505,14 +504,14 @@ If he who took my leave fares well.        1189
 
 <details><summary>मूलम् - ११८९</summary>
 
-पसक्कमऩ् पट्टाङ्गॆऩ् मेऩि नयप्पित्तार्
-नऩ्ऩिलैयर् आवर् ऎऩिऩ्। ११८९
+पसक्कमऩ् पट्टाङ्गॆऩ् मेऩि नयप्पित्तार्  
+नऩ्ऩिलैयर् आवर् ऎऩिऩ्। ११८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९०</summary>
 
-पसप्पॆऩप् पेर्बॆऱुदल् नऩ्ऱे नयप्पित्तार्
-नल्गामै तूऱ्ऱार् ऎऩिऩ्। ११९०
+पसप्पॆऩप् पेर्बॆऱुदल् नऩ्ऱे नयप्पित्तार्  
+नल्गामै तूऱ्ऱार् ऎऩिऩ्। ११९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९०</summary>
@@ -523,10 +522,10 @@ If he who took my leave fares well.        1189
 
 <details><summary>NVK Ashraf choice (en) - ११९०</summary>
 
-११९०
-I don’t mind being called pallid, so long as
-They don’t blame him for causing it. *
-(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
+११९०  
+I don’t mind being called pallid, so long as  
+They don’t blame him for causing it. *  
+(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९०</summary>
@@ -560,7 +559,7 @@ But my lover let them not deride.        1190
 
 <details><summary>मूलम् - ११९०</summary>
 
-पसप्पॆऩप् पेर्बॆऱुदल् नऩ्ऱे नयप्पित्तार्
-नल्गामै तूऱ्ऱार् ऎऩिऩ्। ११९०
+पसप्पॆऩप् पेर्बॆऱुदल् नऩ्ऱे नयप्पित्तार्  
+नल्गामै तूऱ्ऱार् ऎऩिऩ्। ११९०  
 </details>
 

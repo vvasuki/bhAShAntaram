@@ -3,11 +3,10 @@ title = "०६ निनैन्दवर्बुलम्बल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १२०१</summary>
 
-उळ्ळिऩुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्
-कळ्ळिऩुम् कामम् इऩिदु। १२०१
+उळ्ळिऩुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्  
+कळ्ळिऩुम् कामम् इऩिदु। १२०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०१</summary>
@@ -18,10 +17,10 @@ title = "०६ निनैन्दवर्बुलम्बल्"
 
 <details><summary>NVK Ashraf choice (en) - १२०१</summary>
 
-१२०१
-Love is sweeter than wine;
-Its mere thought intoxicates.
-(P.S. Sundaram)
+१२०१  
+Love is sweeter than wine;  
+Its mere thought intoxicates.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२०१</summary>
@@ -61,14 +60,14 @@ Is its delight at very thought.        1201
 
 <details><summary>मूलम् - १२०१</summary>
 
-उळ्ळिऩुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्
-कळ्ळिऩुम् कामम् इऩिदु। १२०१
+उळ्ळिऩुम् तीराप् पॆरुमगिऴ् सॆय्दलाल्  
+कळ्ळिऩुम् कामम् इऩिदु। १२०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०२</summary>
 
-ऎऩैत्तॊऩऱु एऩिदेगाण् कामम्दाम् वीऴ्वार्
-निऩैप्प वरुवदॊऩ्ऱु एल्। १२०२
+ऎऩैत्तॊऩऱु एऩिदेगाण् कामम्दाम् वीऴ्वार्  
+निऩैप्प वरुवदॊऩ्ऱु एल्। १२०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०२</summary>
@@ -79,10 +78,10 @@ Is its delight at very thought.        1201
 
 <details><summary>NVK Ashraf choice (en) - १२०२</summary>
 
-१२०२
-Nothing better than sweet memories of love
-To overcome the pain of loneliness! *
-(K. Krishnaswamy & Vijaya Ramkumar)
+१२०२  
+Nothing better than sweet memories of love  
+To overcome the pain of loneliness! *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०२</summary>
@@ -117,14 +116,14 @@ In all aspects this love is sweet.        1202
 
 <details><summary>मूलम् - १२०२</summary>
 
-ऎऩैत्तॊऩऱु एऩिदेगाण् कामम्दाम् वीऴ्वार्
-निऩैप्प वरुवदॊऩ्ऱु एल्। १२०२
+ऎऩैत्तॊऩऱु एऩिदेगाण् कामम्दाम् वीऴ्वार्  
+निऩैप्प वरुवदॊऩ्ऱु एल्। १२०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०३</summary>
 
-निऩैप्पवर् पोऩ्ऱु निऩैयार्गॊल् तुम्मल्
-सिऩैप्पदु पोऩ्ऱु कॆडुम्। १२०३
+निऩैप्पवर् पोऩ्ऱु निऩैयार्गॊल् तुम्मल्  
+सिऩैप्पदु पोऩ्ऱु कॆडुम्। १२०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०३</summary>
@@ -135,10 +134,10 @@ In all aspects this love is sweet.        1202
 
 <details><summary>NVK Ashraf choice (en) - १२०३</summary>
 
-१२०३
-Is it because of my lover’s incomplete thoughts
-That my sneeze passes off incomplete?
-(N.V.K. Ashraf)
+१२०३  
+Is it because of my lover’s incomplete thoughts  
+That my sneeze passes off incomplete?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०३</summary>
@@ -173,14 +172,14 @@ Me he tried to think but did not.        1203
 
 <details><summary>मूलम् - १२०३</summary>
 
-निऩैप्पवर् पोऩ्ऱु निऩैयार्गॊल् तुम्मल्
-सिऩैप्पदु पोऩ्ऱु कॆडुम्। १२०३
+निऩैप्पवर् पोऩ्ऱु निऩैयार्गॊल् तुम्मल्  
+सिऩैप्पदु पोऩ्ऱु कॆडुम्। १२०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०४</summary>
 
-यामुम् उळेङ्गॊल् अवर्नॆञ्जत्तु ऎन्नॆञ्जत्तु
-ओऒ उळरे अवर्। १२०४
+यामुम् उळेङ्गॊल् अवर्नॆञ्जत्तु ऎन्नॆञ्जत्तु  
+ओऒ उळरे अवर्। १२०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०४</summary>
@@ -191,10 +190,10 @@ Me he tried to think but did not.        1203
 
 <details><summary>NVK Ashraf choice (en) - १२०४</summary>
 
-१२०४
-No doubt my lord abides in my heart.
-Do I also likewise abide in his?
-(N.V.K. Ashraf)
+१२०४  
+No doubt my lord abides in my heart.  
+Do I also likewise abide in his?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०४</summary>
@@ -228,14 +227,14 @@ Ah from mine he will never depart.        1204
 
 <details><summary>मूलम् - १२०४</summary>
 
-यामुम् उळेङ्गॊल् अवर्नॆञ्जत्तु ऎन्नॆञ्जत्तु
-ओऒ उळरे अवर्। १२०४
+यामुम् उळेङ्गॊल् अवर्नॆञ्जत्तु ऎन्नॆञ्जत्तु  
+ओऒ उळरे अवर्। १२०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०५</summary>
 
-तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्
-ऎम्नॆञ्जत्तु ओवा वरल्। १२०५
+तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्  
+ऎम्नॆञ्जत्तु ओवा वरल्। १२०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०५</summary>
@@ -246,10 +245,10 @@ Ah from mine he will never depart.        1204
 
 <details><summary>NVK Ashraf choice (en) - १२०५</summary>
 
-१२०५
-Having kept me out of his heart,
-Is he not ashamed to enter mine?
-(K.R. Srinivasa Iyengar), (K. Krishnaswamy & Vijaya Ramkumar)
+१२०५  
+Having kept me out of his heart,  
+Is he not ashamed to enter mine?  
+(K.R. Srinivasa Iyengar), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०५</summary>
@@ -284,14 +283,14 @@ Banning me entry into his.        1205
 
 <details><summary>मूलम् - १२०५</summary>
 
-तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्
-ऎम्नॆञ्जत्तु ओवा वरल्। १२०५
+तम्नॆञ्जत्तु ऎम्मैक् कडिगॊण्डार् नाणार्गॊल्  
+ऎम्नॆञ्जत्तु ओवा वरल्। १२०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०६</summary>
 
-मऱ्ऱियाऩ् ऎऩ्ऩुळेऩ् मऩ्ऩो अवरॊडि याऩ्
-उऱ्ऱनाळ् उळ्ळ उळेऩ्। १२०६
+मऱ्ऱियाऩ् ऎऩ्ऩुळेऩ् मऩ्ऩो अवरॊडि याऩ्  
+उऱ्ऱनाळ् उळ्ळ उळेऩ्। १२०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०६</summary>
@@ -302,10 +301,10 @@ Banning me entry into his.        1205
 
 <details><summary>NVK Ashraf choice (en) - १२०६</summary>
 
-१२०६
-You know why I live? To live in remembrance of the days
-I lived in union with him.
-(S. Maharajan)
+१२०६  
+You know why I live? To live in remembrance of the days  
+I lived in union with him.  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०६</summary>
@@ -340,14 +339,14 @@ What else of life can I presume?        1206
 
 <details><summary>मूलम् - १२०६</summary>
 
-मऱ्ऱियाऩ् ऎऩ्ऩुळेऩ् मऩ्ऩो अवरॊडि याऩ्
-उऱ्ऱनाळ् उळ्ळ उळेऩ्। १२०६
+मऱ्ऱियाऩ् ऎऩ्ऩुळेऩ् मऩ्ऩो अवरॊडि याऩ्  
+उऱ्ऱनाळ् उळ्ळ उळेऩ्। १२०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०७</summary>
 
-मऱप्पिऩ् ऎवऩावऩ् मऱ्कॊल् मऱप्पऱियेऩ्
-उळ्ळिऩुम् उळ्ळम् सुडुम्। १२०७
+मऱप्पिऩ् ऎवऩावऩ् मऱ्कॊल् मऱप्पऱियेऩ्  
+उळ्ळिऩुम् उळ्ळम् सुडुम्। १२०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०७</summary>
@@ -358,10 +357,10 @@ What else of life can I presume?        1206
 
 <details><summary>NVK Ashraf choice (en) - १२०७</summary>
 
-१२०७
-What will happen if I forget him,
-When his memory itself burns my heart? *
-( Shuddhananda Bharatiar)
+१२०७  
+What will happen if I forget him,  
+When his memory itself burns my heart? *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२०७</summary>
@@ -401,14 +400,14 @@ When his memory burns my heart?        1207
 
 <details><summary>मूलम् - १२०७</summary>
 
-मऱप्पिऩ् ऎवऩावऩ् मऱ्कॊल् मऱप्पऱियेऩ्
-उळ्ळिऩुम् उळ्ळम् सुडुम्। १२०७
+मऱप्पिऩ् ऎवऩावऩ् मऱ्कॊल् मऱप्पऱियेऩ्  
+उळ्ळिऩुम् उळ्ळम् सुडुम्। १२०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०८</summary>
 
-ऎऩैत्तु निऩैप्पिऩुम् कायार् अऩैत्तऩ्ऱो
-कादलर् सॆय्युम् सिऱप्पु। १२०८
+ऎऩैत्तु निऩैप्पिऩुम् कायार् अऩैत्तऩ्ऱो  
+कादलर् सॆय्युम् सिऱप्पु। १२०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०८</summary>
@@ -419,10 +418,10 @@ When his memory burns my heart?        1207
 
 <details><summary>NVK Ashraf choice (en) - १२०८</summary>
 
-१२०८
-He never resents, however much I think of him.
-Isn’t it an honor from my lover? *
-(M.S. Poornalingam Pillai)
+१२०८  
+He never resents, however much I think of him.  
+Isn’t it an honor from my lover? *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२०८</summary>
@@ -461,14 +460,14 @@ He chides not; and thus honours me.        1208
 
 <details><summary>मूलम् - १२०८</summary>
 
-ऎऩैत्तु निऩैप्पिऩुम् कायार् अऩैत्तऩ्ऱो
-कादलर् सॆय्युम् सिऱप्पु। १२०८
+ऎऩैत्तु निऩैप्पिऩुम् कायार् अऩैत्तऩ्ऱो  
+कादलर् सॆय्युम् सिऱप्पु। १२०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२०९</summary>
 
-विळियुमॆऩ् इऩ्ऩुयिर् वेऱल्लम् ऎऩ्पार्
-अळियिऩ्मै आऱ्ऱ निऩैन्दु। १२०९
+विळियुमॆऩ् इऩ्ऩुयिर् वेऱल्लम् ऎऩ्पार्  
+अळियिऩ्मै आऱ्ऱ निऩैन्दु। १२०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०९</summary>
@@ -479,10 +478,10 @@ He chides not; and thus honours me.        1208
 
 <details><summary>NVK Ashraf choice (en) - १२०९</summary>
 
-१२०९
-My dear life wastes thinking of his cruelty;
-For once he said we are not different. *
-(W.H. Drew and J. Lazarus)
+१२०९  
+My dear life wastes thinking of his cruelty;  
+For once he said we are not different. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०९</summary>
@@ -517,14 +516,14 @@ Of him who said we are one heart.        1209
 
 <details><summary>मूलम् - १२०९</summary>
 
-विळियुमॆऩ् इऩ्ऩुयिर् वेऱल्लम् ऎऩ्पार्
-अळियिऩ्मै आऱ्ऱ निऩैन्दु। १२०९
+विळियुमॆऩ् इऩ्ऩुयिर् वेऱल्लम् ऎऩ्पार्  
+अळियिऩ्मै आऱ्ऱ निऩैन्दु। १२०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१०</summary>
 
-विडाअदु सॆऩ्ऱारैक् कण्णिऩाल् काणप्
-पडाअदि वाऴि मदि। १२१०
+विडाअदु सॆऩ्ऱारैक् कण्णिऩाल् काणप्  
+पडाअदि वाऴि मदि। १२१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१०</summary>
@@ -535,10 +534,10 @@ Of him who said we are one heart.        1209
 
 <details><summary>NVK Ashraf choice (en) - १२१०</summary>
 
-१२१०
-Hail Moon! Set not till I set my eyes on him
-Who left me but not from my heart.
-( Shuddhananda Bharatiar), (K. Krishnaswamy & Vijaya Ramkumar)
+१२१०  
+Hail Moon! Set not till I set my eyes on him  
+Who left me but not from my heart.  
+( Shuddhananda Bharatiar), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१०</summary>
@@ -572,7 +571,7 @@ Him who left me but not my mind.        1210
 
 <details><summary>मूलम् - १२१०</summary>
 
-विडाअदु सॆऩ्ऱारैक् कण्णिऩाल् काणप्
-पडाअदि वाऴि मदि। १२१०
+विडाअदु सॆऩ्ऱारैक् कण्णिऩाल् काणप्  
+पडाअदि वाऴि मदि। १२१०  
 </details>
 

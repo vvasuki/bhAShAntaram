@@ -3,11 +3,10 @@ title = "२१ सूदु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९३१</summary>
 
-वेण्डऱ्क वॆऩ्ऱिडिऩुम् सूदिऩै वॆऩ्ऱतूउम्
-तूण्डिऱ्पॊऩ् मीऩ्विऴुङ्गि अऱ्ऱु। ९३१
+वेण्डऱ्क वॆऩ्ऱिडिऩुम् सूदिऩै वॆऩ्ऱतूउम्  
+तूण्डिऱ्पॊऩ् मीऩ्विऴुङ्गि अऱ्ऱु। ९३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३१</summary>
@@ -19,10 +18,10 @@ title = "२१ सूदु"
 
 <details><summary>NVK Ashraf choice (en) - ९३१</summary>
 
-०९३१
-Don’t gamble even if you win for it draws you in
-Like fishes drawn to shining baits.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०९३१  
+Don’t gamble even if you win for it draws you in  
+Like fishes drawn to shining baits.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९३१</summary>
@@ -62,14 +61,14 @@ Gulping bait-hook what does fish gain?        931
 
 <details><summary>मूलम् - ९३१</summary>
 
-वेण्डऱ्क वॆऩ्ऱिडिऩुम् सूदिऩै वॆऩ्ऱतूउम्
-तूण्डिऱ्पॊऩ् मीऩ्विऴुङ्गि अऱ्ऱु। ९३१
+वेण्डऱ्क वॆऩ्ऱिडिऩुम् सूदिऩै वॆऩ्ऱतूउम्  
+तूण्डिऱ्पॊऩ् मीऩ्विऴुङ्गि अऱ्ऱु। ९३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३२</summary>
 
-ऒऩ्ऱॆय्दि नूऱिऴक्कुम् सूदर्क्कुम् उण्डाङ्गॊल्
-नऩ्ऱॆय्दि वाऴ्वदोर् आऱु। ९३२
+ऒऩ्ऱॆय्दि नूऱिऴक्कुम् सूदर्क्कुम् उण्डाङ्गॊल्  
+नऩ्ऱॆय्दि वाऴ्वदोर् आऱु। ९३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३२</summary>
@@ -80,10 +79,10 @@ Gulping bait-hook what does fish gain?        931
 
 <details><summary>NVK Ashraf choice (en) - ९३२</summary>
 
-०९३२
-Can gamblers gain anything good in life
-Who gain one and lose a hundred? *
-(P.S. Sundaram)
+०९३२  
+Can gamblers gain anything good in life  
+Who gain one and lose a hundred? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३२</summary>
@@ -117,14 +116,14 @@ Who lose a hundred one to gain?        932
 
 <details><summary>मूलम् - ९३२</summary>
 
-ऒऩ्ऱॆय्दि नूऱिऴक्कुम् सूदर्क्कुम् उण्डाङ्गॊल्
-नऩ्ऱॆय्दि वाऴ्वदोर् आऱु। ९३२
+ऒऩ्ऱॆय्दि नूऱिऴक्कुम् सूदर्क्कुम् उण्डाङ्गॊल्  
+नऩ्ऱॆय्दि वाऴ्वदोर् आऱु। ९३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३३</summary>
 
-उरुळायम् ओवादु कूऱिऩ् पॊरुळायम्
-पोऒय्प् पुऱमे पडुम्। ९३३
+उरुळायम् ओवादु कूऱिऩ् पॊरुळायम्  
+पोऒय्प् पुऱमे पडुम्। ९३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३३</summary>
@@ -135,10 +134,10 @@ Who lose a hundred one to gain?        932
 
 <details><summary>NVK Ashraf choice (en) - ९३३</summary>
 
-०९३३
-To be lost all the time in the rolling dice
-Is to lose your hoarded wealth to others.
-(P.S. Sundaram)
+०९३३  
+To be lost all the time in the rolling dice  
+Is to lose your hoarded wealth to others.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३३</summary>
@@ -173,14 +172,14 @@ All their fortune will flow to foes.        933
 
 <details><summary>मूलम् - ९३३</summary>
 
-उरुळायम् ओवादु कूऱिऩ् पॊरुळायम्
-पोऒय्प् पुऱमे पडुम्। ९३३
+उरुळायम् ओवादु कूऱिऩ् पॊरुळायम्  
+पोऒय्प् पुऱमे पडुम्। ९३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३४</summary>
 
-सिऱुमै पलसॆय्दु सीरऴिक्कुम् सूदिऩ्
-वऱुमै तरुवदॊऩ्ऱु इल्। ९३४
+सिऱुमै पलसॆय्दु सीरऴिक्कुम् सूदिऩ्  
+वऱुमै तरुवदॊऩ्ऱु इल्। ९३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३४</summary>
@@ -191,10 +190,10 @@ All their fortune will flow to foes.        933
 
 <details><summary>NVK Ashraf choice (en) - ९३४</summary>
 
-०९३४
-There is nothing like gambling to bring
-Poverty, sorrow and disgrace.
-(P.S. Sundaram)
+०९३४  
+There is nothing like gambling to bring  
+Poverty, sorrow and disgrace.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३४</summary>
@@ -228,14 +227,14 @@ Which adds to woes and ruins fame.        934
 
 <details><summary>मूलम् - ९३४</summary>
 
-सिऱुमै पलसॆय्दु सीरऴिक्कुम् सूदिऩ्
-वऱुमै तरुवदॊऩ्ऱु इल्। ९३४
+सिऱुमै पलसॆय्दु सीरऴिक्कुम् सूदिऩ्  
+वऱुमै तरुवदॊऩ्ऱु इल्। ९३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३५</summary>
 
-कवऱुम् कऴगमुम् कैयुम् तरुक्कि
-इवऱियार् इल्लागि यार्। ९३५
+कवऱुम् कऴगमुम् कैयुम् तरुक्कि  
+इवऱियार् इल्लागि यार्। ९३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३५</summary>
@@ -246,10 +245,10 @@ Which adds to woes and ruins fame.        934
 
 <details><summary>NVK Ashraf choice (en) - ९३५</summary>
 
-०९३५
-They lose all who will not give up the dice,
-The board and the throw.
-(P.S. Sundaram)
+०९३५  
+They lose all who will not give up the dice,  
+The board and the throw.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३५</summary>
@@ -284,14 +283,14 @@ Who sought with glee have come to nought.        935
 
 <details><summary>मूलम् - ९३५</summary>
 
-कवऱुम् कऴगमुम् कैयुम् तरुक्कि
-इवऱियार् इल्लागि यार्। ९३५
+कवऱुम् कऴगमुम् कैयुम् तरुक्कि  
+इवऱियार् इल्लागि यार्। ९३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३६</summary>
 
-अगडारार् अल्लल् उऴप्पर्सू तॆऩ्ऩुम्
-मुगडियाऩ् मूडप्पट् टार्। ९३६
+अगडारार् अल्लल् उऴप्पर्सू तॆऩ्ऩुम्  
+मुगडियाऩ् मूडप्पट् टार्। ९३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३६</summary>
@@ -302,10 +301,10 @@ Who sought with glee have come to nought.        935
 
 <details><summary>NVK Ashraf choice (en) - ९३६</summary>
 
-०९३६
-Those blindfolded by the dark ogress called dice
-Will starve and suffer in distress. *
-(N.V.K. Ashraf), (S.M. Diaz)
+०९३६  
+Those blindfolded by the dark ogress called dice  
+Will starve and suffer in distress. *  
+(N.V.K. Ashraf), (S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३६</summary>
@@ -340,14 +339,14 @@ Suffer grief and want by that vice.        936
 
 <details><summary>मूलम् - ९३६</summary>
 
-अगडारार् अल्लल् उऴप्पर्सू तॆऩ्ऩुम्
-मुगडियाऩ् मूडप्पट् टार्। ९३६
+अगडारार् अल्लल् उऴप्पर्सू तॆऩ्ऩुम्  
+मुगडियाऩ् मूडप्पट् टार्। ९३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३७</summary>
 
-पऴगिय सॆल्वमुम् पण्बुम् कॆडुक्कुम्
-कऴगत्तुक् कालै पुगिऩ्। ९३७
+पऴगिय सॆल्वमुम् पण्बुम् कॆडुक्कुम्  
+कऴगत्तुक् कालै पुगिऩ्। ९३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३७</summary>
@@ -358,10 +357,10 @@ Suffer grief and want by that vice.        936
 
 <details><summary>NVK Ashraf choice (en) - ९३७</summary>
 
-०९३७
-Time wasted in a gambling house
-Will end one’s ancestral wealth and worth. *
-(P.S. Sundaram)
+०९३७  
+Time wasted in a gambling house  
+Will end one’s ancestral wealth and worth. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३७</summary>
@@ -396,14 +395,14 @@ Ancestral wealth and virtues end.        937
 
 <details><summary>मूलम् - ९३७</summary>
 
-पऴगिय सॆल्वमुम् पण्बुम् कॆडुक्कुम्
-कऴगत्तुक् कालै पुगिऩ्। ९३७
+पऴगिय सॆल्वमुम् पण्बुम् कॆडुक्कुम्  
+कऴगत्तुक् कालै पुगिऩ्। ९३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३८</summary>
 
-पॊरुळ् कॆडुत्तुप् पॊय्मेऱ् कॊळीइ अरुळ्गॆडुत्तु
-अल्लल् उऴप्पिक्कुम् सूदु। ९३८
+पॊरुळ् कॆडुत्तुप् पॊय्मेऱ् कॊळीइ अरुळ्गॆडुत्तु  
+अल्लल् उऴप्पिक्कुम् सूदु। ९३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३८</summary>
@@ -414,10 +413,10 @@ Ancestral wealth and virtues end.        937
 
 <details><summary>NVK Ashraf choice (en) - ९३८</summary>
 
-०९३८
-Dicing loses wealth, imposes lies,
-Kills grace and causes sorrow.
-(P.S. Sundaram)
+०९३८  
+Dicing loses wealth, imposes lies,  
+Kills grace and causes sorrow.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३८</summary>
@@ -452,14 +451,14 @@ Leads to lies and wretched woes.        938
 
 <details><summary>मूलम् - ९३८</summary>
 
-पॊरुळ् कॆडुत्तुप् पॊय्मेऱ् कॊळीइ अरुळ्गॆडुत्तु
-अल्लल् उऴप्पिक्कुम् सूदु। ९३८
+पॊरुळ् कॆडुत्तुप् पॊय्मेऱ् कॊळीइ अरुळ्गॆडुत्तु  
+अल्लल् उऴप्पिक्कुम् सूदु। ९३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३९</summary>
 
-उडैसॆल्वम् ऊण्ऒळि कल्विऎऩ्ऱु ऐन्दुम्
-अडैयावाम् आयङ् गॊळिऩ्। ९३९
+उडैसॆल्वम् ऊण्ऒळि कल्विऎऩ्ऱु ऐन्दुम्  
+अडैयावाम् आयङ् गॊळिऩ्। ९३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३९</summary>
@@ -470,10 +469,10 @@ Leads to lies and wretched woes.        938
 
 <details><summary>NVK Ashraf choice (en) - ९३९</summary>
 
-०९३९
-Gambling will make one lose these five:
-Riches, food, fame, learning and clothes.
-(N.V.K. Ashraf)
+०९३९  
+Gambling will make one lose these five:  
+Riches, food, fame, learning and clothes.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९३९</summary>
@@ -507,14 +506,14 @@ In gambler's hand will never thrive.        939
 
 <details><summary>मूलम् - ९३९</summary>
 
-उडैसॆल्वम् ऊण्ऒळि कल्विऎऩ्ऱु ऐन्दुम्
-अडैयावाम् आयङ् गॊळिऩ्। ९३९
+उडैसॆल्वम् ऊण्ऒळि कल्विऎऩ्ऱु ऐन्दुम्  
+अडैयावाम् आयङ् गॊळिऩ्। ९३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४०</summary>
 
-इऴत्तॊऱूउम् कादलिक्कुम् सूदेबोल् तुऩ्पम्
-उऴत्तॊऱूउम् कादऱ्ऱु उयिर्। ९४०
+इऴत्तॊऱूउम् कादलिक्कुम् सूदेबोल् तुऩ्पम्  
+उऴत्तॊऱूउम् कादऱ्ऱु उयिर्। ९४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४०</summary>
@@ -525,10 +524,10 @@ In gambler's hand will never thrive.        939
 
 <details><summary>NVK Ashraf choice (en) - ९४०</summary>
 
-०९४०
-Like the attachment to life despite sufferings
-Is the love for gambling despite loss. *
-(K. Kannan)
+०९४०  
+Like the attachment to life despite sufferings  
+Is the love for gambling despite loss. *  
+(K. Kannan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९४०</summary>
@@ -567,7 +566,7 @@ As love for life with sorrows grows.        940
 
 <details><summary>मूलम् - ९४०</summary>
 
-इऴत्तॊऱूउम् कादलिक्कुम् सूदेबोल् तुऩ्पम्
-उऴत्तॊऱूउम् कादऱ्ऱु उयिर्। ९४०
+इऴत्तॊऱूउम् कादलिक्कुम् सूदेबोल् तुऩ्पम्  
+उऴत्तॊऱूउम् कादऱ्ऱु उयिर्। ९४०  
 </details>
 

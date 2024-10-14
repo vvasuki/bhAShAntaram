@@ -3,11 +3,10 @@ title = "१० नल्गुरवु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०४१</summary>
 
-इऩ्मैयिऩ् इऩ्ऩाददु यादॆऩिऩ् इऩ्मैयिऩ्
-इऩ्मैये इऩ्ऩा तदु। १०४१
+इऩ्मैयिऩ् इऩ्ऩाददु यादॆऩिऩ् इऩ्मैयिऩ्  
+इऩ्मैये इऩ्ऩा तदु। १०४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४१</summary>
@@ -19,10 +18,10 @@ title = "१० नल्गुरवु"
 
 <details><summary>NVK Ashraf choice (en) - १०४१</summary>
 
-१०४१
-What is more painful than poverty?
-The pain of poverty itself!
-(N.V.K. Ashraf)
+१०४१  
+What is more painful than poverty?  
+The pain of poverty itself!  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४१</summary>
@@ -56,14 +55,14 @@ No pain pinches like poverty.        1041
 
 <details><summary>मूलम् - १०४१</summary>
 
-इऩ्मैयिऩ् इऩ्ऩाददु यादॆऩिऩ् इऩ्मैयिऩ्
-इऩ्मैये इऩ्ऩा तदु। १०४१
+इऩ्मैयिऩ् इऩ्ऩाददु यादॆऩिऩ् इऩ्मैयिऩ्  
+इऩ्मैये इऩ्ऩा तदु। १०४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४२</summary>
 
-इऩ्मै ऎऩवॊरु पावि मऱुमैयुम्
-इम्मैयुम् इऩ्ऱि वरुम्। १०४२
+इऩ्मै ऎऩवॊरु पावि मऱुमैयुम्  
+इम्मैयुम् इऩ्ऱि वरुम्। १०४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४२</summary>
@@ -74,10 +73,10 @@ No pain pinches like poverty.        1041
 
 <details><summary>NVK Ashraf choice (en) - १०४२</summary>
 
-१०४२
-The demon of poverty takes away
-The joys of this life and the next.
-(K. Krishnaswamy & Vijaya Ramkumar), (S.M. Diaz)
+१०४२  
+The demon of poverty takes away  
+The joys of this life and the next.  
+(K. Krishnaswamy & Vijaya Ramkumar), (S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४२</summary>
@@ -112,14 +111,14 @@ Of joys of earth and heaven there.        1042
 
 <details><summary>मूलम् - १०४२</summary>
 
-इऩ्मै ऎऩवॊरु पावि मऱुमैयुम्
-इम्मैयुम् इऩ्ऱि वरुम्। १०४२
+इऩ्मै ऎऩवॊरु पावि मऱुमैयुम्  
+इम्मैयुम् इऩ्ऱि वरुम्। १०४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४३</summary>
 
-तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग
-नल्गुरवु ऎऩ्ऩुम् नसै। १०४३
+तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग  
+नल्गुरवु ऎऩ्ऩुम् नसै। १०४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४३</summary>
@@ -130,10 +129,10 @@ Of joys of earth and heaven there.        1042
 
 <details><summary>NVK Ashraf choice (en) - १०४३</summary>
 
-१०४३
-That cancer called poverty destroys at once
-The honor of ancient descent and clout.
-(K.R. Srinivasa Iyengar), (Satguru Subramuniyaswami)
+१०४३  
+That cancer called poverty destroys at once  
+The honor of ancient descent and clout.  
+(K.R. Srinivasa Iyengar), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४३</summary>
@@ -168,14 +167,14 @@ Kills graceful words and ancestry.        1043
 
 <details><summary>मूलम् - १०४३</summary>
 
-तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग
-नल्गुरवु ऎऩ्ऩुम् नसै। १०४३
+तॊल्वरवुम् तोलुम् कॆडुक्कुम् तॊगैयाग  
+नल्गुरवु ऎऩ्ऩुम् नसै। १०४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४४</summary>
 
-इऱ्पिऱन्दार् कण्णेयुम् इऩ्मै इळिवन्द
-सॊऱ्पिऱक्कुम् सोर्वु तरुम्। १०४४
+इऱ्पिऱन्दार् कण्णेयुम् इऩ्मै इळिवन्द  
+सॊऱ्पिऱक्कुम् सोर्वु तरुम्। १०४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४४</summary>
@@ -186,10 +185,10 @@ Kills graceful words and ancestry.        1043
 
 <details><summary>NVK Ashraf choice (en) - १०४४</summary>
 
-१०४४
-Even in those of high birth, poverty will produce
-The fault of uttering mean words.
-(W.H. Drew and J. Lazarus)
+१०४४  
+Even in those of high birth, poverty will produce  
+The fault of uttering mean words.  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४४</summary>
@@ -223,14 +222,14 @@ Utter words that are low and mean.        1044
 
 <details><summary>मूलम् - १०४४</summary>
 
-इऱ्पिऱन्दार् कण्णेयुम् इऩ्मै इळिवन्द
-सॊऱ्पिऱक्कुम् सोर्वु तरुम्। १०४४
+इऱ्पिऱन्दार् कण्णेयुम् इऩ्मै इळिवन्द  
+सॊऱ्पिऱक्कुम् सोर्वु तरुम्। १०४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४५</summary>
 
-नल्गुरवु ऎऩ्ऩुम् इडुम्बैयुळ् पल्गुरैत्
-तुऩ्पङ्गळ् सॆऩ्ऱु पडुम्। १०४५
+नल्गुरवु ऎऩ्ऩुम् इडुम्बैयुळ् पल्गुरैत्  
+तुऩ्पङ्गळ् सॆऩ्ऱु पडुम्। १०४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४५</summary>
@@ -241,10 +240,10 @@ Utter words that are low and mean.        1044
 
 <details><summary>NVK Ashraf choice (en) - १०४५</summary>
 
-१०४५
-That misery called poverty brings with it
-A diversity of sufferings.
-(N.V.K. Ashraf)
+१०४५  
+That misery called poverty brings with it  
+A diversity of sufferings.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४५</summary>
@@ -278,14 +277,14 @@ Brings a train of misery.        1045
 
 <details><summary>मूलम् - १०४५</summary>
 
-नल्गुरवु ऎऩ्ऩुम् इडुम्बैयुळ् पल्गुरैत्
-तुऩ्पङ्गळ् सॆऩ्ऱु पडुम्। १०४५
+नल्गुरवु ऎऩ्ऩुम् इडुम्बैयुळ् पल्गुरैत्  
+तुऩ्पङ्गळ् सॆऩ्ऱु पडुम्। १०४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४६</summary>
 
-नऱ्पॊरुळ् नऩ्कुणर्न्दु सॊल्लिऩुम् नल्गूर्न्दार्
-सॊऱ्पॊरुळ् सोर्वु पडुम्। १०४६
+नऱ्पॊरुळ् नऩ्कुणर्न्दु सॊल्लिऩुम् नल्गूर्न्दार्  
+सॊऱ्पॊरुळ् सोर्वु पडुम्। १०४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४६</summary>
@@ -296,10 +295,10 @@ Brings a train of misery.        1045
 
 <details><summary>NVK Ashraf choice (en) - १०४६</summary>
 
-१०४६
-A poor man's words carry no weight,
-However meaningful and profound. *
-(P.S. Sundaram)
+१०४६  
+A poor man's words carry no weight,  
+However meaningful and profound. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४६</summary>
@@ -334,14 +333,14 @@ Though from heart good things they say.        1046
 
 <details><summary>मूलम् - १०४६</summary>
 
-नऱ्पॊरुळ् नऩ्कुणर्न्दु सॊल्लिऩुम् नल्गूर्न्दार्
-सॊऱ्पॊरुळ् सोर्वु पडुम्। १०४६
+नऱ्पॊरुळ् नऩ्कुणर्न्दु सॊल्लिऩुम् नल्गूर्न्दार्  
+सॊऱ्पॊरुळ् सोर्वु पडुम्। १०४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४७</summary>
 
-अऱञ्जारा नल्गुरवु ईऩ्ऱता याऩुम्
-पिऱऩ्पोल नोक्कप् पडुम्। १०४७
+अऱञ्जारा नल्गुरवु ईऩ्ऱता याऩुम्  
+पिऱऩ्पोल नोक्कप् पडुम्। १०४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४७</summary>
@@ -352,10 +351,10 @@ Though from heart good things they say.        1046
 
 <details><summary>NVK Ashraf choice (en) - १०४७</summary>
 
-१०४७
-Poverty, destitute of all virtues, alienates a man
-Even from the mother who bore him.
-(Satguru Subramuniyaswami)
+१०४७  
+Poverty, destitute of all virtues, alienates a man  
+Even from the mother who bore him.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४७</summary>
@@ -389,14 +388,14 @@ The poor devoid of character.        1047
 
 <details><summary>मूलम् - १०४७</summary>
 
-अऱञ्जारा नल्गुरवु ईऩ्ऱता याऩुम्
-पिऱऩ्पोल नोक्कप् पडुम्। १०४७
+अऱञ्जारा नल्गुरवु ईऩ्ऱता याऩुम्  
+पिऱऩ्पोल नोक्कप् पडुम्। १०४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४८</summary>
 
-इऩ्ऱुम् वरुवदु कॊल्लो नॆरुनलुम्
-कॊऩ्ऱतु पोलुम् निरप्पु। १०४८
+इऩ्ऱुम् वरुवदु कॊल्लो नॆरुनलुम्  
+कॊऩ्ऱतु पोलुम् निरप्पु। १०४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४८</summary>
@@ -407,10 +406,10 @@ The poor devoid of character.        1047
 
 <details><summary>NVK Ashraf choice (en) - १०४८</summary>
 
-१०४८
-Will that hunger which almost killed me yesterday,
-Pester me even today? *
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+१०४८  
+Will that hunger which almost killed me yesterday,  
+Pester me even today? *  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०४८</summary>
@@ -445,14 +444,14 @@ Will it pester me even to-day?        1048
 
 <details><summary>मूलम् - १०४८</summary>
 
-इऩ्ऱुम् वरुवदु कॊल्लो नॆरुनलुम्
-कॊऩ्ऱतु पोलुम् निरप्पु। १०४८
+इऩ्ऱुम् वरुवदु कॊल्लो नॆरुनलुम्  
+कॊऩ्ऱतु पोलुम् निरप्पु। १०४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०४९</summary>
 
-नॆरुप्पिऩुळ् तुञ्जलुम् आगुम् निरप्पिऩुळ्
-यादॊऩ्ऱुम् कण्बाडु अरिदु। १०४९
+नॆरुप्पिऩुळ् तुञ्जलुम् आगुम् निरप्पिऩुळ्  
+यादॊऩ्ऱुम् कण्बाडु अरिदु। १०४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४९</summary>
@@ -463,10 +462,10 @@ Will it pester me even to-day?        1048
 
 <details><summary>NVK Ashraf choice (en) - १०४९</summary>
 
-१०४९
-One may sleep even in the midst of fire,
-But by no means in the midst of poverty. *
-(W.H. Drew and J. Lazarus)
+१०४९  
+One may sleep even in the midst of fire,  
+But by no means in the midst of poverty. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०४९</summary>
@@ -505,14 +504,14 @@ In want a wink of sleep is rare.        1049
 
 <details><summary>मूलम् - १०४९</summary>
 
-नॆरुप्पिऩुळ् तुञ्जलुम् आगुम् निरप्पिऩुळ्
-यादॊऩ्ऱुम् कण्बाडु अरिदु। १०४९
+नॆरुप्पिऩुळ् तुञ्जलुम् आगुम् निरप्पिऩुळ्  
+यादॊऩ्ऱुम् कण्बाडु अरिदु। १०४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५०</summary>
 
-तुप्पुर विल्लार् तुवरत् तुऱवामै
-उप्पिऱ्कुम् काडिक्कुम् कूऱ्ऱु। १०५०
+तुप्पुर विल्लार् तुवरत् तुऱवामै  
+उप्पिऱ्कुम् काडिक्कुम् कूऱ्ऱु। १०५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५०</summary>
@@ -523,10 +522,10 @@ In want a wink of sleep is rare.        1049
 
 <details><summary>NVK Ashraf choice (en) - १०५०</summary>
 
-१०५०
-The poverty stricken has a chance to renounce,
-Lest he hang around for salt and gruel. *
-(K. Kannan)
+१०५०  
+The poverty stricken has a chance to renounce,  
+Lest he hang around for salt and gruel. *  
+(K. Kannan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०५०</summary>
@@ -564,7 +563,7 @@ Or salt and gruel go to waste.        1050
 
 <details><summary>मूलम् - १०५०</summary>
 
-तुप्पुर विल्लार् तुवरत् तुऱवामै
-उप्पिऱ्कुम् काडिक्कुम् कूऱ्ऱु। १०५०
+तुप्पुर विल्लार् तुवरत् तुऱवामै  
+उप्पिऱ्कुम् काडिक्कुम् कूऱ्ऱु। १०५०  
 </details>
 

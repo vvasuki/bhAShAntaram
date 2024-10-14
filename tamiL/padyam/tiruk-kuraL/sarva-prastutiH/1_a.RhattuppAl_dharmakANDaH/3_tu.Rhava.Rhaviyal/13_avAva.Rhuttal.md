@@ -3,11 +3,10 @@ title = "१३ अवावऱुत्तल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ३६१</summary>
 
-अवाऎऩ्प ऎल्ला उयिर्क्कुम् ऎञ् ञाऩ्ऱुम्
-तवाअप् पिऱप्पीऩुम् वित्तु। ३६१
+अवाऎऩ्प ऎल्ला उयिर्क्कुम् ऎञ् ञाऩ्ऱुम्  
+तवाअप् पिऱप्पीऩुम् वित्तु। ३६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६१</summary>
@@ -18,10 +17,10 @@ title = "१३ अवावऱुत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - ३६१</summary>
 
-०३६१
-Desire, they say, is the seed of ceaseless birth
-For all things living at all times.
-(P.S. Sundaram)
+०३६१  
+Desire, they say, is the seed of ceaseless birth  
+For all things living at all times.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६१</summary>
@@ -56,14 +55,14 @@ From which ceaseless births proceed.        361
 
 <details><summary>मूलम् - ३६१</summary>
 
-अवाऎऩ्प ऎल्ला उयिर्क्कुम् ऎञ् ञाऩ्ऱुम्
-तवाअप् पिऱप्पीऩुम् वित्तु। ३६१
+अवाऎऩ्प ऎल्ला उयिर्क्कुम् ऎञ् ञाऩ्ऱुम्  
+तवाअप् पिऱप्पीऩुम् वित्तु। ३६१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६२</summary>
 
-वेण्डुङ्गाल् वेण्डुम् पिऱवामै मऱ्ऱतु
-वेण्डामै वेण्ड वरुम्। ३६२
+वेण्डुङ्गाल् वेण्डुम् पिऱवामै मऱ्ऱतु  
+वेण्डामै वेण्ड वरुम्। ३६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६२</summary>
@@ -74,10 +73,10 @@ From which ceaseless births proceed.        361
 
 <details><summary>NVK Ashraf choice (en) - ३६२</summary>
 
-०३६२
-Must you desire, desire freedom from birth.
-That comes only by desiring desirelessness.
-(Satguru Subramuniyaswami)
+०३६२  
+Must you desire, desire freedom from birth.  
+That comes only by desiring desirelessness.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६२</summary>
@@ -111,14 +110,14 @@ It comes by longing no more for earth.        362
 
 <details><summary>मूलम् - ३६२</summary>
 
-वेण्डुङ्गाल् वेण्डुम् पिऱवामै मऱ्ऱतु
-वेण्डामै वेण्ड वरुम्। ३६२
+वेण्डुङ्गाल् वेण्डुम् पिऱवामै मऱ्ऱतु  
+वेण्डामै वेण्ड वरुम्। ३६२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६३</summary>
 
-वेण्डामै अऩ्ऩ विऴुच्चॆल्वम् ईण्डिल्लै
-आण्डुम् अह्दॊप्पदु इल्। ३६३
+वेण्डामै अऩ्ऩ विऴुच्चॆल्वम् ईण्डिल्लै  
+आण्डुम् अह्दॊप्पदु इल्। ३६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६३</summary>
@@ -129,10 +128,10 @@ It comes by longing no more for earth.        362
 
 <details><summary>NVK Ashraf choice (en) - ३६३</summary>
 
-०३६३
+०३६३  
 No greater fortune here than not to yearn, 
-And none to excel it hereafter too!
-(P.S. Sundaram)
+And none to excel it hereafter too!  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६३</summary>
@@ -167,14 +166,14 @@ As peerless wealth of non-desire.        363
 
 <details><summary>मूलम् - ३६३</summary>
 
-वेण्डामै अऩ्ऩ विऴुच्चॆल्वम् ईण्डिल्लै
-आण्डुम् अह्दॊप्पदु इल्। ३६३
+वेण्डामै अऩ्ऩ विऴुच्चॆल्वम् ईण्डिल्लै  
+आण्डुम् अह्दॊप्पदु इल्। ३६३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६४</summary>
 
-तूउय्मै ऎऩ्पदु अवाविऩ्मै मऱ्ऱतु
-वाअय्मै वेण्ड वरुम्। ३६४
+तूउय्मै ऎऩ्पदु अवाविऩ्मै मऱ्ऱतु  
+वाअय्मै वेण्ड वरुम्। ३६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६४</summary>
@@ -185,10 +184,10 @@ As peerless wealth of non-desire.        363
 
 <details><summary>NVK Ashraf choice (en) - ३६४</summary>
 
-०३६४
-Purity is freedom from yearning
-And that comes of seeking Truth. *
-(P.S. Sundaram)
+०३६४  
+Purity is freedom from yearning  
+And that comes of seeking Truth. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६४</summary>
@@ -223,14 +222,14 @@ That is the fruit of verity.        364
 
 <details><summary>मूलम् - ३६४</summary>
 
-तूउय्मै ऎऩ्पदु अवाविऩ्मै मऱ्ऱतु
-वाअय्मै वेण्ड वरुम्। ३६४
+तूउय्मै ऎऩ्पदु अवाविऩ्मै मऱ्ऱतु  
+वाअय्मै वेण्ड वरुम्। ३६४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६५</summary>
 
-अऱ्ऱवर् ऎऩ्पार् अवाअऱ्ऱार् मऱ्ऱैयार्
-अऱ्ऱाग अऱ्ऱतु इलर्। ३६५
+अऱ्ऱवर् ऎऩ्पार् अवाअऱ्ऱार् मऱ्ऱैयार्  
+अऱ्ऱाग अऱ्ऱतु इलर्। ३६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६५</summary>
@@ -241,10 +240,10 @@ That is the fruit of verity.        364
 
 <details><summary>NVK Ashraf choice (en) - ३६५</summary>
 
-०३६५
-Those are free who are free of yearning.
-Others, of all else free, remain un-free. *
-(P.S. Sundaram)
+०३६५  
+Those are free who are free of yearning.  
+Others, of all else free, remain un-free. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६५</summary>
@@ -278,14 +277,14 @@ The rest not free in bonds are caught.        365
 
 <details><summary>मूलम् - ३६५</summary>
 
-अऱ्ऱवर् ऎऩ्पार् अवाअऱ्ऱार् मऱ्ऱैयार्
-अऱ्ऱाग अऱ्ऱतु इलर्। ३६५
+अऱ्ऱवर् ऎऩ्पार् अवाअऱ्ऱार् मऱ्ऱैयार्  
+अऱ्ऱाग अऱ्ऱतु इलर्। ३६५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६६</summary>
 
-अञ्जुव तोरुम् अऱऩे ऒरुवऩै
-वञ्जिप्प तोरुम् अवा। ३६६
+अञ्जुव तोरुम् अऱऩे ऒरुवऩै  
+वञ्जिप्प तोरुम् अवा। ३६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६६</summary>
@@ -296,10 +295,10 @@ The rest not free in bonds are caught.        365
 
 <details><summary>NVK Ashraf choice (en) - ३६६</summary>
 
-०३६६
-If you love virtue, flee from desire;
-For desire is a great betrayer.
-(V.V.S. Aiyar), (P.S. Sundaram)
+०३६६  
+If you love virtue, flee from desire;  
+For desire is a great betrayer.  
+(V.V.S. Aiyar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६६</summary>
@@ -333,14 +332,14 @@ To every soul desire is snare!        366
 
 <details><summary>मूलम् - ३६६</summary>
 
-अञ्जुव तोरुम् अऱऩे ऒरुवऩै
-वञ्जिप्प तोरुम् अवा। ३६६
+अञ्जुव तोरुम् अऱऩे ऒरुवऩै  
+वञ्जिप्प तोरुम् अवा। ३६६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६७</summary>
 
-अवाविऩै आऱ्ऱ अऱुप्पिऩ् तवाविऩै
-ताऩ्वेण्डु माऱ्ऱाऩ् वरुम्। ३६७
+अवाविऩै आऱ्ऱ अऱुप्पिऩ् तवाविऩै  
+ताऩ्वेण्डु माऱ्ऱाऩ् वरुम्। ३६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६७</summary>
@@ -351,10 +350,10 @@ To every soul desire is snare!        366
 
 <details><summary>NVK Ashraf choice (en) - ३६७</summary>
 
-०३६७
-When all deeds of desire are uprooted,
-Liberation comes as and when desired.
-(N.V.K. Ashraf)
+०३६७  
+When all deeds of desire are uprooted,  
+Liberation comes as and when desired.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६७</summary>
@@ -389,14 +388,14 @@ Comes as much as you aspire hence.        367
 
 <details><summary>मूलम् - ३६७</summary>
 
-अवाविऩै आऱ्ऱ अऱुप्पिऩ् तवाविऩै
-ताऩ्वेण्डु माऱ्ऱाऩ् वरुम्। ३६७
+अवाविऩै आऱ्ऱ अऱुप्पिऩ् तवाविऩै  
+ताऩ्वेण्डु माऱ्ऱाऩ् वरुम्। ३६७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६८</summary>
 
-अवाइल्लार्क् किल्लागुन् दुऩ्पम् अह्दुण्डेल्
-तवाअदु मेऩ्मेल् वरुम्। ३६८
+अवाइल्लार्क् किल्लागुन् दुऩ्पम् अह्दुण्डेल्  
+तवाअदु मेऩ्मेल् वरुम्। ३६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६८</summary>
@@ -407,10 +406,10 @@ Comes as much as you aspire hence.        367
 
 <details><summary>NVK Ashraf choice (en) - ३६८</summary>
 
-०३६८
-Where there is no desire, there is no sorrow.
-Where there is, it comes over and above.
-(N.V.K. Ashraf)
+०३६८  
+Where there is no desire, there is no sorrow.  
+Where there is, it comes over and above.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६८</summary>
@@ -444,14 +443,14 @@ Grief comes on grief where it pretends.        368
 
 <details><summary>मूलम् - ३६८</summary>
 
-अवाइल्लार्क् किल्लागुन् दुऩ्पम् अह्दुण्डेल्
-तवाअदु मेऩ्मेल् वरुम्। ३६८
+अवाइल्लार्क् किल्लागुन् दुऩ्पम् अह्दुण्डेल्  
+तवाअदु मेऩ्मेल् वरुम्। ३६८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६९</summary>
 
-इऩ्पम् इडैयऱा तीण्डुम् अवावॆऩ्ऩुम्
-तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ३६९
+इऩ्पम् इडैयऱा तीण्डुम् अवावॆऩ्ऩुम्  
+तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ३६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६९</summary>
@@ -462,10 +461,10 @@ Grief comes on grief where it pretends.        368
 
 <details><summary>NVK Ashraf choice (en) - ३६९</summary>
 
-०३६९
-When the misery of miseries called desire ends,
-The result is never-ending joy.
-(N.V.K. Ashraf)
+०३६९  
+When the misery of miseries called desire ends,  
+The result is never-ending joy.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६९</summary>
@@ -499,14 +498,14 @@ Joy of joys here you enjoy.        369
 
 <details><summary>मूलम् - ३६९</summary>
 
-इऩ्पम् इडैयऱा तीण्डुम् अवावॆऩ्ऩुम्
-तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ३६९
+इऩ्पम् इडैयऱा तीण्डुम् अवावॆऩ्ऩुम्  
+तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ३६९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३७०</summary>
 
-आरा इयऱ्कै अवानीप्पिऩ् अन्निलैये
-पेरा इयऱ्कै तरुम्। ३७०
+आरा इयऱ्कै अवानीप्पिऩ् अन्निलैये  
+पेरा इयऱ्कै तरुम्। ३७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३७०</summary>
@@ -517,10 +516,10 @@ Joy of joys here you enjoy.        369
 
 <details><summary>NVK Ashraf choice (en) - ३७०</summary>
 
-०३७०
-The state of eternal bliss will result
-When desire that is insatiable is conquered.
-(K. Krishnaswamy & Vijaya Ramkumar)
+०३७०  
+The state of eternal bliss will result  
+When desire that is insatiable is conquered.  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३७०</summary>
@@ -553,6 +552,7 @@ You gain the native blissful state.        370
 
 <details><summary>मूलम् - ३७०</summary>
 
-आरा इयऱ्कै अवानीप्पिऩ् अन्निलैये
-पेरा इयऱ्कै तरुम्। ३७०
+आरा इयऱ्कै अवानीप्पिऩ् अन्निलैये  
+पेरा इयऱ्कै तरुम्। ३७०  
 </details>
+

@@ -3,11 +3,10 @@ title = "१६ पुलवि"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १३०१</summary>
 
-पुल्ला तिराअप् पुलत्तै अवर् उऱुम्
-अल्लल्नोय् काण्गम् सिऱिदु। १३०१
+पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
+अल्लल्नोय् काण्गम् सिऱिदु। १३०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०१</summary>
@@ -18,10 +17,10 @@ title = "१६ पुलवि"
 
 <details><summary>NVK Ashraf choice (en) - १३०१</summary>
 
-१३०१
-Let me feign to be angry
-And see his pain of suffering for a while.
-(N.V.K. Ashraf)
+१३०१  
+Let me feign to be angry  
+And see his pain of suffering for a while.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १३०१</summary>
@@ -61,14 +60,14 @@ We can see his distress a bit.        1301
 
 <details><summary>मूलम् - १३०१</summary>
 
-पुल्ला तिराअप् पुलत्तै अवर् उऱुम्
-अल्लल्नोय् काण्गम् सिऱिदु। १३०१
+पुल्ला तिराअप् पुलत्तै अवर् उऱुम्  
+अल्लल्नोय् काण्गम् सिऱिदु। १३०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०२</summary>
 
-उप्पमैन् दऱ्ऱाल् पुलवि अदुसिऱिदु
-मिक्कऱ्ऱाल् नीळ विडल्। १३०२
+उप्पमैन् दऱ्ऱाल् पुलवि अदुसिऱिदु  
+मिक्कऱ्ऱाल् नीळ विडल्। १३०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०२</summary>
@@ -79,10 +78,10 @@ We can see his distress a bit.        1301
 
 <details><summary>NVK Ashraf choice (en) - १३०२</summary>
 
-१३०२
-Sulking is the salt of love. To prolong it
-Is like salt a little too much. *
-( Shuddhananda Bharatiar), (W.H. Drew and J. Lazarus)
+१३०२  
+Sulking is the salt of love. To prolong it  
+Is like salt a little too much. *  
+( Shuddhananda Bharatiar), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १३०२</summary>
@@ -122,14 +121,14 @@ Too much of it spoils the taste.        1302
 
 <details><summary>मूलम् - १३०२</summary>
 
-उप्पमैन् दऱ्ऱाल् पुलवि अदुसिऱिदु
-मिक्कऱ्ऱाल् नीळ विडल्। १३०२
+उप्पमैन् दऱ्ऱाल् पुलवि अदुसिऱिदु  
+मिक्कऱ्ऱाल् नीळ विडल्। १३०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०३</summary>
 
-अलन्दारै अल्लल्नोय् सॆय्दऱ्ऱाल् तम्मैप्
-पुलन्दारैप् पुल्ला विडल्। १३०३
+अलन्दारै अल्लल्नोय् सॆय्दऱ्ऱाल् तम्मैप्  
+पुलन्दारैप् पुल्ला विडल्। १३०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०३</summary>
@@ -140,10 +139,10 @@ Too much of it spoils the taste.        1302
 
 <details><summary>NVK Ashraf choice (en) - १३०३</summary>
 
-१३०३
-To leave a sulky woman alone
-Is to cause more pain to the suffering.
-(P.S. Sundaram), (N.V.K. Ashraf)
+१३०३  
+To leave a sulky woman alone  
+Is to cause more pain to the suffering.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०३</summary>
@@ -178,14 +177,14 @@ Is to grieve the one sorely grieved.        1303
 
 <details><summary>मूलम् - १३०३</summary>
 
-अलन्दारै अल्लल्नोय् सॆय्दऱ्ऱाल् तम्मैप्
-पुलन्दारैप् पुल्ला विडल्। १३०३
+अलन्दारै अल्लल्नोय् सॆय्दऱ्ऱाल् तम्मैप्  
+पुलन्दारैप् पुल्ला विडल्। १३०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०४</summary>
 
-ऊडि यवरै उणरामै वाडिय
-वळ्ळि मुदलरिन् दऱ्ऱु। १३०४
+ऊडि यवरै उणरामै वाडिय  
+वळ्ळि मुदलरिन् दऱ्ऱु। १३०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०४</summary>
@@ -196,10 +195,10 @@ Is to grieve the one sorely grieved.        1303
 
 <details><summary>NVK Ashraf choice (en) - १३०४</summary>
 
-१३०४
-To ignore a lady in pout is to cut
-An already withering climber at its root. *
-( Shuddhananda Bharatiar)
+१३०४  
+To ignore a lady in pout is to cut  
+An already withering climber at its root. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०४</summary>
@@ -234,14 +233,14 @@ Is to cut the fading plant at root.        1304
 
 <details><summary>मूलम् - १३०४</summary>
 
-ऊडि यवरै उणरामै वाडिय
-वळ्ळि मुदलरिन् दऱ्ऱु। १३०४
+ऊडि यवरै उणरामै वाडिय  
+वळ्ळि मुदलरिन् दऱ्ऱु। १३०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०५</summary>
 
-नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै
-पूअऩ्ऩ कण्णार् अगत्तु। १३०५
+नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै  
+पूअऩ्ऩ कण्णार् अगत्तु। १३०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०५</summary>
@@ -252,10 +251,10 @@ Is to cut the fading plant at root.        1304
 
 <details><summary>NVK Ashraf choice (en) - १३०५</summary>
 
-१३०५
-The beauty of her feigned anger has an attraction
-Even for the spotlessly pure men.
-(N.V.K. Ashraf), (V.V.S. Aiyar)
+१३०५  
+The beauty of her feigned anger has an attraction  
+Even for the spotlessly pure men.  
+(N.V.K. Ashraf), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०५</summary>
@@ -290,14 +289,14 @@ To pure good mates a lovely grace.        1305
 
 <details><summary>मूलम् - १३०५</summary>
 
-नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै
-पूअऩ्ऩ कण्णार् अगत्तु। १३०५
+नलत्तगै नल्लवर्क्कु एऎर् पुलत्तगै  
+पूअऩ्ऩ कण्णार् अगत्तु। १३०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०६</summary>
 
-तुऩियुम् पुलवियुम् इल्लायिऩ् कामम्
-कऩियुम् करुक्कायुम् अऱ्ऱु। १३०६
+तुऩियुम् पुलवियुम् इल्लायिऩ् कामम्  
+कऩियुम् करुक्कायुम् अऱ्ऱु। १३०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०६</summary>
@@ -308,10 +307,10 @@ To pure good mates a lovely grace.        1305
 
 <details><summary>NVK Ashraf choice (en) - १३०६</summary>
 
-१३०६
-Without frowns and sulking,
-Love is like a fruit unripe or overripe. *
-(K. Kannan), (J. Narayanaswamy)
+१३०६  
+Without frowns and sulking,  
+Love is like a fruit unripe or overripe. *  
+(K. Kannan), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०६</summary>
@@ -346,14 +345,14 @@ Misses its ripe and unripe fruits.        1306
 
 <details><summary>मूलम् - १३०६</summary>
 
-तुऩियुम् पुलवियुम् इल्लायिऩ् कामम्
-कऩियुम् करुक्कायुम् अऱ्ऱु। १३०६
+तुऩियुम् पुलवियुम् इल्लायिऩ् कामम्  
+कऩियुम् करुक्कायुम् अऱ्ऱु। १३०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०७</summary>
 
-ऊडलिऩ् उण्डाङ्गोर् तुऩ्पम् पुणर्वदु
-नीडुव तऩ्ऱु कॊल् ऎऩ्ऱु। १३०७
+ऊडलिऩ् उण्डाङ्गोर् तुऩ्पम् पुणर्वदु  
+नीडुव तऩ्ऱु कॊल् ऎऩ्ऱु। १३०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०७</summary>
@@ -364,10 +363,10 @@ Misses its ripe and unripe fruits.        1306
 
 <details><summary>NVK Ashraf choice (en) - १३०७</summary>
 
-१३०७
-Coyness has this one drawback.
-That is the worry of delayed union. *
-(P.S. Sundaram), (N.V.K. Ashraf)
+१३०७  
+Coyness has this one drawback.  
+That is the worry of delayed union. *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०७</summary>
@@ -402,14 +401,14 @@ In lover's pout this leaves a doubt.        1307
 
 <details><summary>मूलम् - १३०७</summary>
 
-ऊडलिऩ् उण्डाङ्गोर् तुऩ्पम् पुणर्वदु
-नीडुव तऩ्ऱु कॊल् ऎऩ्ऱु। १३०७
+ऊडलिऩ् उण्डाङ्गोर् तुऩ्पम् पुणर्वदु  
+नीडुव तऩ्ऱु कॊल् ऎऩ्ऱु। १३०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०८</summary>
 
-नोदल् ऎवऩ्मऱ्ऱु नॊन्दारॆऩ्ऱु अह्दऱियुम्
-कादलर् इल्ला वऴि। १३०८
+नोदल् ऎवऩ्मऱ्ऱु नॊन्दारॆऩ्ऱु अह्दऱियुम्  
+कादलर् इल्ला वऴि। १३०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०८</summary>
@@ -420,10 +419,10 @@ In lover's pout this leaves a doubt.        1307
 
 <details><summary>NVK Ashraf choice (en) - १३०८</summary>
 
-१३०८
-Why grieve when the lover is not there
-To know whether you are grieving? *
-(P.S. Sundaram)
+१३०८  
+Why grieve when the lover is not there  
+To know whether you are grieving? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०८</summary>
@@ -457,14 +456,14 @@ When concious lover is not present?        1308
 
 <details><summary>मूलम् - १३०८</summary>
 
-नोदल् ऎवऩ्मऱ्ऱु नॊन्दारॆऩ्ऱु अह्दऱियुम्
-कादलर् इल्ला वऴि। १३०८
+नोदल् ऎवऩ्मऱ्ऱु नॊन्दारॆऩ्ऱु अह्दऱियुम्  
+कादलर् इल्ला वऴि। १३०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३०९</summary>
 
-नीरुम् निऴलदु इऩिदे पुलवियुम्
-वीऴुनर् कण्णे इऩिदु। १३०९
+नीरुम् निऴलदु इऩिदे पुलवियुम्  
+वीऴुनर् कण्णे इऩिदु। १३०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०९</summary>
@@ -475,10 +474,10 @@ When concious lover is not present?        1308
 
 <details><summary>NVK Ashraf choice (en) - १३०९</summary>
 
-१३०९
-Just as the refreshing water in the shade,
-Pouting has its charms only between lovers. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+१३०९  
+Just as the refreshing water in the shade,  
+Pouting has its charms only between lovers. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०९</summary>
@@ -512,14 +511,14 @@ And sulking in souls of psychic love.        1309
 
 <details><summary>मूलम् - १३०९</summary>
 
-नीरुम् निऴलदु इऩिदे पुलवियुम्
-वीऴुनर् कण्णे इऩिदु। १३०९
+नीरुम् निऴलदु इऩिदे पुलवियुम्  
+वीऴुनर् कण्णे इऩिदु। १३०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१०</summary>
 
-ऊडल् उणङ्ग विडुवारोडु ऎऩ्नॆञ्जम्
-कूडुवेम् ऎऩ्पदु अवा। १३१०
+ऊडल् उणङ्ग विडुवारोडु ऎऩ्नॆञ्जम्  
+कूडुवेम् ऎऩ्पदु अवा। १३१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१०</summary>
@@ -530,10 +529,10 @@ And sulking in souls of psychic love.        1309
 
 <details><summary>NVK Ashraf choice (en) - १३१०</summary>
 
-१३१०
-Only my desire makes my heart pine for union
-With one who keeps on sulking.
-(P.S. Sundaram)
+१३१०  
+Only my desire makes my heart pine for union  
+With one who keeps on sulking.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१०</summary>
@@ -567,7 +566,7 @@ With her who me in sulking left!        1310
 
 <details><summary>मूलम् - १३१०</summary>
 
-ऊडल् उणङ्ग विडुवारोडु ऎऩ्नॆञ्जम्
-कूडुवेम् ऎऩ्पदु अवा। १३१०
+ऊडल् उणङ्ग विडुवारोडु ऎऩ्नॆञ्जम्  
+कूडुवेम् ऎऩ्पदु अवा। १३१०  
 </details>
 

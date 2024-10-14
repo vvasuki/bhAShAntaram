@@ -3,11 +3,10 @@ title = "२५ इडुक्कणऴियामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६२१</summary>
 
-इडुक्कण् वरुङ्गाल् नगुग अदऩै
-अडुत्तूर्वदु अह्दॊप्प तिल्। ६२१
+इडुक्कण् वरुङ्गाल् नगुग अदऩै  
+अडुत्तूर्वदु अह्दॊप्प तिल्। ६२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२१</summary>
@@ -19,10 +18,10 @@ title = "२५ इडुक्कणऴियामै"
 
 <details><summary>NVK Ashraf choice (en) - ६२१</summary>
 
-०६२१
-Laugh at misfortune. There is nothing so able,
-To triumph over it. *
-(P.S. Sundaram)
+०६२१  
+Laugh at misfortune. There is nothing so able,  
+To triumph over it. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२१</summary>
@@ -56,14 +55,14 @@ No other way to conquer woes.        621
 
 <details><summary>मूलम् - ६२१</summary>
 
-इडुक्कण् वरुङ्गाल् नगुग अदऩै
-अडुत्तूर्वदु अह्दॊप्प तिल्। ६२१
+इडुक्कण् वरुङ्गाल् नगुग अदऩै  
+अडुत्तूर्वदु अह्दॊप्प तिल्। ६२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२२</summary>
 
-वॆळ्ळत् तऩैय इडुम्बै अऱिवुडैयाऩ्
-उळ्ळत्तिऩ् उळ्ळक् कॆडुम्। ६२२
+वॆळ्ळत् तऩैय इडुम्बै अऱिवुडैयाऩ्  
+उळ्ळत्तिऩ् उळ्ळक् कॆडुम्। ६२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२२</summary>
@@ -74,10 +73,10 @@ No other way to conquer woes.        621
 
 <details><summary>NVK Ashraf choice (en) - ६२२</summary>
 
-०६२२
-Misfortune may rise like a flood,
-But the wise counter it by firm thoughts.*
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+०६२२  
+Misfortune may rise like a flood,  
+But the wise counter it by firm thoughts.*  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२२</summary>
@@ -112,14 +111,14 @@ When wise men face them with firm thought.        622
 
 <details><summary>मूलम् - ६२२</summary>
 
-वॆळ्ळत् तऩैय इडुम्बै अऱिवुडैयाऩ्
-उळ्ळत्तिऩ् उळ्ळक् कॆडुम्। ६२२
+वॆळ्ळत् तऩैय इडुम्बै अऱिवुडैयाऩ्  
+उळ्ळत्तिऩ् उळ्ळक् कॆडुम्। ६२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२३</summary>
 
-इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु
-इडुम्बै पडाअ तवर्। ६२३
+इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु  
+इडुम्बै पडाअ तवर्। ६२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२३</summary>
@@ -130,10 +129,10 @@ When wise men face them with firm thought.        622
 
 <details><summary>NVK Ashraf choice (en) - ६२३</summary>
 
-०६२३
-Those whom grief cannot grieve
-Can grieve grief itself. *
-(P.S. Sundaram)
+०६२३  
+Those whom grief cannot grieve  
+Can grieve grief itself. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२३</summary>
@@ -167,14 +166,14 @@ Who grieve not grief by mind's relief.        623
 
 <details><summary>मूलम् - ६२३</summary>
 
-इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु
-इडुम्बै पडाअ तवर्। ६२३
+इडुम्बैक्कु इडुम्बै पडुप्पर् इडुम्बैक्कु  
+इडुम्बै पडाअ तवर्। ६२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२४</summary>
 
-मडुत्तवा यॆल्लाम् पगडऩ्ऩाऩ् उऱ्ऱ
-इडुक्कण् इडर्प्पाडु उडैत्तु। ६२४
+मडुत्तवा यॆल्लाम् पगडऩ्ऩाऩ् उऱ्ऱ  
+इडुक्कण् इडर्प्पाडु उडैत्तु। ६२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२४</summary>
@@ -185,10 +184,10 @@ Who grieve not grief by mind's relief.        623
 
 <details><summary>NVK Ashraf choice (en) - ६२४</summary>
 
-०६२४
-Trouble is troubled by him who like a bull
-Drags his cart through every hurdle.
-(P.S. Sundaram)
+०६२४  
+Trouble is troubled by him who like a bull  
+Drags his cart through every hurdle.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२४</summary>
@@ -223,14 +222,14 @@ Causes grief to grieve anon.        624
 
 <details><summary>मूलम् - ६२४</summary>
 
-मडुत्तवा यॆल्लाम् पगडऩ्ऩाऩ् उऱ्ऱ
-इडुक्कण् इडर्प्पाडु उडैत्तु। ६२४
+मडुत्तवा यॆल्लाम् पगडऩ्ऩाऩ् उऱ्ऱ  
+इडुक्कण् इडर्प्पाडु उडैत्तु। ६२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२५</summary>
 
-अडुक्कि वरिऩुम् अऴिविलाऩ् उऱ्ऱ
-इडुक्कण् इडुक्कट् पडुम्। ६२५
+अडुक्कि वरिऩुम् अऴिविलाऩ् उऱ्ऱ  
+इडुक्कण् इडुक्कट् पडुम्। ६२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२५</summary>
@@ -241,10 +240,10 @@ Causes grief to grieve anon.        624
 
 <details><summary>NVK Ashraf choice (en) - ६२५</summary>
 
-०६२५
-The resolute can put their troubles to trouble
-Even if it comes relentlessly.
-(N.V.K. Ashraf)
+०६२५  
+The resolute can put their troubles to trouble  
+Even if it comes relentlessly.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२५</summary>
@@ -279,14 +278,14 @@ Who dare a host of pressing woes.        625
 
 <details><summary>मूलम् - ६२५</summary>
 
-अडुक्कि वरिऩुम् अऴिविलाऩ् उऱ्ऱ
-इडुक्कण् इडुक्कट् पडुम्। ६२५
+अडुक्कि वरिऩुम् अऴिविलाऩ् उऱ्ऱ  
+इडुक्कण् इडुक्कट् पडुम्। ६२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२६</summary>
 
-अऱ्ऱेमॆऩ्ऱु अल्लऱ् पडुबवो पॆऱ्ऱेमॆऩ्ऱु
-ओम्बुदल् तेऱ्ऱा तवर्। ६२६
+अऱ्ऱेमॆऩ्ऱु अल्लऱ् पडुबवो पॆऱ्ऱेमॆऩ्ऱु  
+ओम्बुदल् तेऱ्ऱा तवर्। ६२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२६</summary>
@@ -297,10 +296,10 @@ Who dare a host of pressing woes.        625
 
 <details><summary>NVK Ashraf choice (en) - ६२६</summary>
 
-०६२६
-Will they whine "We have nothing",
-Who never crowed "We have much?"
-(P.S. Sundaram)
+०६२६  
+Will they whine "We have nothing",  
+Who never crowed "We have much?"  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६२६</summary>
@@ -340,14 +339,14 @@ Do not fret in fateful ruin.        626
 
 <details><summary>मूलम् - ६२६</summary>
 
-अऱ्ऱेमॆऩ्ऱु अल्लऱ् पडुबवो पॆऱ्ऱेमॆऩ्ऱु
-ओम्बुदल् तेऱ्ऱा तवर्। ६२६
+अऱ्ऱेमॆऩ्ऱु अल्लऱ् पडुबवो पॆऱ्ऱेमॆऩ्ऱु  
+ओम्बुदल् तेऱ्ऱा तवर्। ६२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२७</summary>
 
-इलक्कम् उडम्बिडुम्बैक् कॆऩ्ऱु कलक्कत्तैक्
-कैयाऱाक् कॊळ्ळादाम् मेल्। ६२७
+इलक्कम् उडम्बिडुम्बैक् कॆऩ्ऱु कलक्कत्तैक्  
+कैयाऱाक् कॊळ्ळादाम् मेल्। ६२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२७</summary>
@@ -358,10 +357,10 @@ Do not fret in fateful ruin.        626
 
 <details><summary>NVK Ashraf choice (en) - ६२७</summary>
 
-०६२७
-Knowing body a target of miseries,
-The great are not troubled in calamities. *
-(Satguru Subramuniyaswami), (V.V.S. Aiyar)
+०६२७  
+Knowing body a target of miseries,  
+The great are not troubled in calamities. *  
+(Satguru Subramuniyaswami), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२७</summary>
@@ -395,14 +394,14 @@ Knowing body's butt of sorrows.        627
 
 <details><summary>मूलम् - ६२७</summary>
 
-इलक्कम् उडम्बिडुम्बैक् कॆऩ्ऱु कलक्कत्तैक्
-कैयाऱाक् कॊळ्ळादाम् मेल्। ६२७
+इलक्कम् उडम्बिडुम्बैक् कॆऩ्ऱु कलक्कत्तैक्  
+कैयाऱाक् कॊळ्ळादाम् मेल्। ६२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२८</summary>
 
-इऩ्पम् विऴैयाऩ् इडुम्बै इयल्बॆऩ्पाऩ्
-तुऩ्पम् उऱुदल् इलऩ्। ६२८
+इऩ्पम् विऴैयाऩ् इडुम्बै इयल्बॆऩ्पाऩ्  
+तुऩ्पम् उऱुदल् इलऩ्। ६२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२८</summary>
@@ -413,10 +412,10 @@ Knowing body's butt of sorrows.        627
 
 <details><summary>NVK Ashraf choice (en) - ६२८</summary>
 
-०६२८
-He will never be sad who scorns delight
-And takes sorrow in his stride.
-(P.S. Sundaram)
+०६२८  
+He will never be sad who scorns delight  
+And takes sorrow in his stride.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२८</summary>
@@ -451,14 +450,14 @@ By sorrows do not come to harm.        628
 
 <details><summary>मूलम् - ६२८</summary>
 
-इऩ्पम् विऴैयाऩ् इडुम्बै इयल्बॆऩ्पाऩ्
-तुऩ्पम् उऱुदल् इलऩ्। ६२८
+इऩ्पम् विऴैयाऩ् इडुम्बै इयल्बॆऩ्पाऩ्  
+तुऩ्पम् उऱुदल् इलऩ्। ६२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२९</summary>
 
-इऩ्पत्तुळ् इऩ्पम् विऴैयादाऩ् तुऩ्पत्तुळ्
-तुऩ्पम् उऱुदल् इलऩ्। ६२९
+इऩ्पत्तुळ् इऩ्पम् विऴैयादाऩ् तुऩ्पत्तुळ्  
+तुऩ्पम् उऱुदल् इलऩ्। ६२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२९</summary>
@@ -469,10 +468,10 @@ By sorrows do not come to harm.        628
 
 <details><summary>NVK Ashraf choice (en) - ६२९</summary>
 
-०६२९
-He who never exulted in joy
-Will not be depressed by sorrow.
-(P.S. Sundaram)
+०६२९  
+He who never exulted in joy  
+Will not be depressed by sorrow.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२९</summary>
@@ -506,14 +505,14 @@ In grief he grieves not dual round!        629
 
 <details><summary>मूलम् - ६२९</summary>
 
-इऩ्पत्तुळ् इऩ्पम् विऴैयादाऩ् तुऩ्पत्तुळ्
-तुऩ्पम् उऱुदल् इलऩ्। ६२९
+इऩ्पत्तुळ् इऩ्पम् विऴैयादाऩ् तुऩ्पत्तुळ्  
+तुऩ्पम् उऱुदल् इलऩ्। ६२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३०</summary>
 
-इऩ्ऩामै इऩ्पम् ऎऩक्कॊळिऩ् आगुन्दऩ्
-ऒऩ्ऩार् विऴैयुञ् जिऱप्पु। ६३०
+इऩ्ऩामै इऩ्पम् ऎऩक्कॊळिऩ् आगुन्दऩ्  
+ऒऩ्ऩार् विऴैयुञ् जिऱप्पु। ६३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३०</summary>
@@ -524,10 +523,10 @@ In grief he grieves not dual round!        629
 
 <details><summary>NVK Ashraf choice (en) - ६३०</summary>
 
-०६३०
-To take pain as pleasure
-Is to gain your foe's esteem.
-(P.S. Sundaram)
+०६३०  
+To take pain as pleasure  
+Is to gain your foe's esteem.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३०</summary>
@@ -561,8 +560,11 @@ Who sees weal in wanton woes!        630
 
 <details><summary>मूलम् - ६३०</summary>
 
-इऩ्ऩामै इऩ्पम् ऎऩक्कॊळिऩ् आगुन्दऩ्
-ऒऩ्ऩार् विऴैयुञ् जिऱप्पु। ६३०
+इऩ्ऩामै इऩ्पम् ऎऩक्कॊळिऩ् आगुन्दऩ्  
+ऒऩ्ऩार् विऴैयुञ् जिऱप्पु। ६३०  
 </details>
+
+
+
 
 अरसियल् मुऱ्ऱिऱ्ऱु  

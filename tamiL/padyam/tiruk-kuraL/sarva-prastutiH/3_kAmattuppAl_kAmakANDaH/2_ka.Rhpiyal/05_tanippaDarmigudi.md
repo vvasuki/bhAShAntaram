@@ -3,11 +3,10 @@ title = "०५ तनिप्पडर्मिगुदि"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११९१</summary>
 
-तांवीऴ्वार् तंवीऴप् पॆऱ्ऱवर् पॆऱ्ऱारे
-कामत्तुक् काऴिल् कऩि। ११९१
+तांवीऴ्वार् तंवीऴप् पॆऱ्ऱवर् पॆऱ्ऱारे  
+कामत्तुक् काऴिल् कऩि। ११९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९१</summary>
@@ -18,10 +17,10 @@ title = "०५ तनिप्पडर्मिगुदि"
 
 <details><summary>NVK Ashraf choice (en) - ११९१</summary>
 
-११९१
-Only those blessed with the love of being loved
-Are blessed with the seedless fruit of love. *
-(J. Narayanaswamy), (K.R. Srinivasa Iyengar)
+११९१  
+Only those blessed with the love of being loved  
+Are blessed with the seedless fruit of love. *  
+(J. Narayanaswamy), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९१</summary>
@@ -56,14 +55,14 @@ Who are beloved by those they love.        1191
 
 <details><summary>मूलम् - ११९१</summary>
 
-तांवीऴ्वार् तंवीऴप् पॆऱ्ऱवर् पॆऱ्ऱारे
-कामत्तुक् काऴिल् कऩि। ११९१
+तांवीऴ्वार् तंवीऴप् पॆऱ्ऱवर् पॆऱ्ऱारे  
+कामत्तुक् काऴिल् कऩि। ११९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९२</summary>
 
-वाऴ्वार्क्कु वाऩम् पयन्दऱ्ऱाल् वीऴ्वार्क्कु
-वीऴ्वार् अळिक्कुम् अळि। ११९२
+वाऴ्वार्क्कु वाऩम् पयन्दऱ्ऱाल् वीऴ्वार्क्कु  
+वीऴ्वार् अळिक्कुम् अळि। ११९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९२</summary>
@@ -74,10 +73,10 @@ Who are beloved by those they love.        1191
 
 <details><summary>NVK Ashraf choice (en) - ११९२</summary>
 
-११९२
-Like the heavenly showers to living men
-Is the blessing of grace by lovers to their beloved. *
-(G.U. Pope)
+११९२  
+Like the heavenly showers to living men  
+Is the blessing of grace by lovers to their beloved. *  
+(G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९२</summary>
@@ -112,14 +111,14 @@ Are like rains to living beings.        1192
 
 <details><summary>मूलम् - ११९२</summary>
 
-वाऴ्वार्क्कु वाऩम् पयन्दऱ्ऱाल् वीऴ्वार्क्कु
-वीऴ्वार् अळिक्कुम् अळि। ११९२
+वाऴ्वार्क्कु वाऩम् पयन्दऱ्ऱाल् वीऴ्वार्क्कु  
+वीऴ्वार् अळिक्कुम् अळि। ११९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९३</summary>
 
-वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे
-वाऴुनम् ऎऩ्ऩुम् सॆरुक्कु। ११९३
+वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे  
+वाऴुनम् ऎऩ्ऩुम् सॆरुक्कु। ११९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९३</summary>
@@ -130,10 +129,10 @@ Are like rains to living beings.        1192
 
 <details><summary>NVK Ashraf choice (en) - ११९३</summary>
 
-११९३
-They alone can have the pride of living together
-Who are loved by their beloved. *
-(V.V.S. Aiyar)
+११९३  
+They alone can have the pride of living together  
+Who are loved by their beloved. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९३</summary>
@@ -168,14 +167,14 @@ Whose love is returned by love so close.        1193
 
 <details><summary>मूलम् - ११९३</summary>
 
-वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे
-वाऴुनम् ऎऩ्ऩुम् सॆरुक्कु। ११९३
+वीऴुनर् वीऴप् पडुवार्क्कु अमैयुमे  
+वाऴुनम् ऎऩ्ऩुम् सॆरुक्कु। ११९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९४</summary>
 
-वीऴप् पडुवार् कॆऴीइयिलर् तांवीऴ्वार्
-वीऴप् पडाअर् ऎऩिऩ्। ११९४
+वीऴप् पडुवार् कॆऴीइयिलर् तांवीऴ्वार्  
+वीऴप् पडाअर् ऎऩिऩ्। ११९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९४</summary>
@@ -186,10 +185,10 @@ Whose love is returned by love so close.        1193
 
 <details><summary>NVK Ashraf choice (en) - ११९४</summary>
 
-११९४
-Even if loved by others, they are luckless
-Unless loved by those they love. *
-(P.S. Sundaram)
+११९४  
+Even if loved by others, they are luckless  
+Unless loved by those they love. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९४</summary>
@@ -223,14 +222,14 @@ Are luckless with all esteems they earn.        1194
 
 <details><summary>मूलम् - ११९४</summary>
 
-वीऴप् पडुवार् कॆऴीइयिलर् तांवीऴ्वार्
-वीऴप् पडाअर् ऎऩिऩ्। ११९४
+वीऴप् पडुवार् कॆऴीइयिलर् तांवीऴ्वार्  
+वीऴप् पडाअर् ऎऩिऩ्। ११९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९५</summary>
 
-नाम्गादल् कॊण्डार् नमक्कॆवऩ् सॆय्बवो
-ताम्गादल् कॊळ्ळाक् कडै। ११९५
+नाम्गादल् कॊण्डार् नमक्कॆवऩ् सॆय्बवो  
+ताम्गादल् कॊळ्ळाक् कडै। ११९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९५</summary>
@@ -241,10 +240,10 @@ Are luckless with all esteems they earn.        1194
 
 <details><summary>NVK Ashraf choice (en) - ११९५</summary>
 
-११९५
-What more can I expect of my lord
-If he does not love me as much as I love him?
-(K. Krishnaswamy & Vijaya Ramkumar)
+११९५  
+What more can I expect of my lord  
+If he does not love me as much as I love him?  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९५</summary>
@@ -278,14 +277,14 @@ If he does not requite our love?        1195
 
 <details><summary>मूलम् - ११९५</summary>
 
-नाम्गादल् कॊण्डार् नमक्कॆवऩ् सॆय्बवो
-ताम्गादल् कॊळ्ळाक् कडै। ११९५
+नाम्गादल् कॊण्डार् नमक्कॆवऩ् सॆय्बवो  
+ताम्गादल् कॊळ्ळाक् कडै। ११९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९६</summary>
 
-ऒरुदलैयाऩ् इऩ्ऩादु कामम्गाप् पोल
-इरुदलै याऩुम् इऩिदु। ११९६
+ऒरुदलैयाऩ् इऩ्ऩादु कामम्गाप् पोल  
+इरुदलै याऩुम् इऩिदु। ११९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९६</summary>
@@ -296,10 +295,10 @@ If he does not requite our love?        1195
 
 <details><summary>NVK Ashraf choice (en) - ११९६</summary>
 
-११९६
-One-sided love pains like lopsided kavadi.
-It is sweet only when shared by both sides.
-(N.V.K. Ashraf)
+११९६  
+One-sided love pains like lopsided kavadi.  
+It is sweet only when shared by both sides.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११९६</summary>
@@ -339,14 +338,14 @@ Poises well like shoulder poles.        1196
 
 <details><summary>मूलम् - ११९६</summary>
 
-ऒरुदलैयाऩ् इऩ्ऩादु कामम्गाप् पोल
-इरुदलै याऩुम् इऩिदु। ११९६
+ऒरुदलैयाऩ् इऩ्ऩादु कामम्गाप् पोल  
+इरुदलै याऩुम् इऩिदु। ११९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९७</summary>
 
-परुवरलुम् पैदलुम् काणाऩ्कॊल् कामऩ्
-ऒरुवर्गण् निऩ्ऱॊऴुगु वाऩ्। ११९७
+परुवरलुम् पैदलुम् काणाऩ्कॊल् कामऩ्  
+ऒरुवर्गण् निऩ्ऱॊऴुगु वाऩ्। ११९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९७</summary>
@@ -357,10 +356,10 @@ Poises well like shoulder poles.        1196
 
 <details><summary>NVK Ashraf choice (en) - ११९७</summary>
 
-११९७
-Can't the god of Love, lodged in me alone
-Causing distress, see my pallor and pain? *
-(P.S. Sundaram)
+११९७  
+Can't the god of Love, lodged in me alone  
+Causing distress, see my pallor and pain? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९७</summary>
@@ -395,14 +394,14 @@ Knows he not my pallor and pain?        1197
 
 <details><summary>मूलम् - ११९७</summary>
 
-परुवरलुम् पैदलुम् काणाऩ्कॊल् कामऩ्
-ऒरुवर्गण् निऩ्ऱॊऴुगु वाऩ्। ११९७
+परुवरलुम् पैदलुम् काणाऩ्कॊल् कामऩ्  
+ऒरुवर्गण् निऩ्ऱॊऴुगु वाऩ्। ११९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९८</summary>
 
-वीऴ्वारिऩ् इऩ्सॊल् पॆऱाअदु उलगत्तु
-वाऴ्वारिऩ् वऩ्कणार् इल्। ११९८
+वीऴ्वारिऩ् इऩ्सॊल् पॆऱाअदु उलगत्तु  
+वाऴ्वारिऩ् वऩ्कणार् इल्। ११९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९८</summary>
@@ -413,10 +412,10 @@ Knows he not my pallor and pain?        1197
 
 <details><summary>NVK Ashraf choice (en) - ११९८</summary>
 
-११९८
-Hard is the heart that can survive this world
-Without a word of love from the beloved. *
-(P.S. Sundaram)
+११९८  
+Hard is the heart that can survive this world  
+Without a word of love from the beloved. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९८</summary>
@@ -450,14 +449,14 @@ Without kind words from whom she dotes.        1198
 
 <details><summary>मूलम् - ११९८</summary>
 
-वीऴ्वारिऩ् इऩ्सॊल् पॆऱाअदु उलगत्तु
-वाऴ्वारिऩ् वऩ्कणार् इल्। ११९८
+वीऴ्वारिऩ् इऩ्सॊल् पॆऱाअदु उलगत्तु  
+वाऴ्वारिऩ् वऩ्कणार् इल्। ११९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११९९</summary>
 
-नसैइयार् नल्गार् ऎऩिऩुम् अवर्माट्टु
-इसैयुम् इऩिय सॆविक्कु। ११९९
+नसैइयार् नल्गार् ऎऩिऩुम् अवर्माट्टु  
+इसैयुम् इऩिय सॆविक्कु। ११९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९९</summary>
@@ -468,10 +467,10 @@ Without kind words from whom she dotes.        1198
 
 <details><summary>NVK Ashraf choice (en) - ११९९</summary>
 
-११९९
-Though my beloved bestows nothing,
-Still any news about him is sweet to my ears. *
-(W.H. Drew and J. Lazarus)
+११९९  
+Though my beloved bestows nothing,  
+Still any news about him is sweet to my ears. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९९</summary>
@@ -505,14 +504,14 @@ And yet his words sweeten my ears.        1199
 
 <details><summary>मूलम् - ११९९</summary>
 
-नसैइयार् नल्गार् ऎऩिऩुम् अवर्माट्टु
-इसैयुम् इऩिय सॆविक्कु। ११९९
+नसैइयार् नल्गार् ऎऩिऩुम् अवर्माट्टु  
+इसैयुम् इऩिय सॆविक्कु। ११९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२००</summary>
 
-उऱाअर्क्कु उऱुनोय् उरैप्पाय् कडलैच्
-चॆऱाअअय् वाऴिय नॆञ्जु। १२००
+उऱाअर्क्कु उऱुनोय् उरैप्पाय् कडलैच्  
+चॆऱाअअय् वाऴिय नॆञ्जु। १२००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२००</summary>
@@ -523,10 +522,10 @@ And yet his words sweeten my ears.        1199
 
 <details><summary>NVK Ashraf choice (en) - १२००</summary>
 
-१२००
-O heart, why pour your concerns to the unconcerned?
-As well dump into the sea! *
-(K.R. Srinivasa Iyengar), (N.V.K. Ashraf)
+१२००  
+O heart, why pour your concerns to the unconcerned?  
+As well dump into the sea! *  
+(K.R. Srinivasa Iyengar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२००</summary>
@@ -565,7 +564,7 @@ Bless my heart! rather fill up sea!        1200
 
 <details><summary>मूलम् - १२००</summary>
 
-उऱाअर्क्कु उऱुनोय् उरैप्पाय् कडलैच्
-चॆऱाअअय् वाऴिय नॆञ्जु। १२००
+उऱाअर्क्कु उऱुनोय् उरैप्पाय् कडलैच्  
+चॆऱाअअय् वाऴिय नॆञ्जु। १२००  
 </details>
 

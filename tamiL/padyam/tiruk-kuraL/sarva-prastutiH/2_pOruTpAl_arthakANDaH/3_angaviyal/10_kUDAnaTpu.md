@@ -3,11 +3,10 @@ title = "१० कूडानट्पु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८२१</summary>
 
-सीरिडम् काणिऩ् ऎऱिदऱ्कुप् पट् टडै
-नेरा निरन्दवर् नट्पु। ८२१
+सीरिडम् काणिऩ् ऎऱिदऱ्कुप् पट् टडै  
+नेरा निरन्दवर् नट्पु। ८२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२१</summary>
@@ -19,10 +18,10 @@ title = "१० कूडानट्पु"
 
 <details><summary>NVK Ashraf choice (en) - ८२१</summary>
 
-०८२१
-Posing friends treat you like an anvil
-To strike you at the opportune time. *
-(S.M. Diaz), (K. Krishnaswamy & Vijaya Ramkumar)
+०८२१  
+Posing friends treat you like an anvil  
+To strike you at the opportune time. *  
+(S.M. Diaz), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२१</summary>
@@ -56,14 +55,14 @@ Is anvil in time, to strike you down.        821
 
 <details><summary>मूलम् - ८२१</summary>
 
-सीरिडम् काणिऩ् ऎऱिदऱ्कुप् पट् टडै
-नेरा निरन्दवर् नट्पु। ८२१
+सीरिडम् काणिऩ् ऎऱिदऱ्कुप् पट् टडै  
+नेरा निरन्दवर् नट्पु। ८२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२२</summary>
 
-इऩम्बोऩ्ऱु इऩमल्लार् केण्मै मगळिर्
-मऩम्बोल वेऱु पडुम्। ८२२
+इऩम्बोऩ्ऱु इऩमल्लार् केण्मै मगळिर्  
+मऩम्बोल वेऱु पडुम्। ८२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२२</summary>
@@ -74,10 +73,10 @@ Is anvil in time, to strike you down.        821
 
 <details><summary>NVK Ashraf choice (en) - ८२२</summary>
 
-०८२२
-Fickle as a woman's heart is the friendship of those
-Who act like friends.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०८२२  
+Fickle as a woman's heart is the friendship of those  
+Who act like friends.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२२</summary>
@@ -111,14 +110,14 @@ Their friendship's fickle like woman's heart.        822
 
 <details><summary>मूलम् - ८२२</summary>
 
-इऩम्बोऩ्ऱु इऩमल्लार् केण्मै मगळिर्
-मऩम्बोल वेऱु पडुम्। ८२२
+इऩम्बोऩ्ऱु इऩमल्लार् केण्मै मगळिर्  
+मऩम्बोल वेऱु पडुम्। ८२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२३</summary>
 
-पलनल्ल कऱ्ऱक् कडैत्तु मऩनल्लर्
-आगुदल् माणार्क् करिदु। ८२३
+पलनल्ल कऱ्ऱक् कडैत्तु मऩनल्लर्  
+आगुदल् माणार्क् करिदु। ८२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२३</summary>
@@ -129,10 +128,10 @@ Their friendship's fickle like woman's heart.        822
 
 <details><summary>NVK Ashraf choice (en) - ८२३</summary>
 
-०८२३
-Hard for the ignoble to be good-hearted,
-No matter how well educated they are. *
-(M.S. Poornalingam Pillai)
+०८२३  
+Hard for the ignoble to be good-hearted,  
+No matter how well educated they are. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२३</summary>
@@ -166,14 +165,14 @@ But heartfelt-love is hard for foes.        823
 
 <details><summary>मूलम् - ८२३</summary>
 
-पलनल्ल कऱ्ऱक् कडैत्तु मऩनल्लर्
-आगुदल् माणार्क् करिदु। ८२३
+पलनल्ल कऱ्ऱक् कडैत्तु मऩनल्लर्  
+आगुदल् माणार्क् करिदु। ८२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२४</summary>
 
-मुगत्तिऩ् इऩिय नगाअ अगत्तिऩ्ऩा
-वञ्जरै अञ्जप् पडुम्। ८२४
+मुगत्तिऩ् इऩिय नगाअ अगत्तिऩ्ऩा  
+वञ्जरै अञ्जप् पडुम्। ८२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२४</summary>
@@ -184,10 +183,10 @@ But heartfelt-love is hard for foes.        823
 
 <details><summary>NVK Ashraf choice (en) - ८२४</summary>
 
-०८२४
-Beware of those deceits who, with a smiling face,
-Conceal bitterness in their hearts.
-(N.V.K. Ashraf)
+०८२४  
+Beware of those deceits who, with a smiling face,  
+Conceal bitterness in their hearts.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८२४</summary>
@@ -226,14 +225,14 @@ Whose heart is full of cunning guiles.        824
 
 <details><summary>मूलम् - ८२४</summary>
 
-मुगत्तिऩ् इऩिय नगाअ अगत्तिऩ्ऩा
-वञ्जरै अञ्जप् पडुम्। ८२४
+मुगत्तिऩ् इऩिय नगाअ अगत्तिऩ्ऩा  
+वञ्जरै अञ्जप् पडुम्। ८२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२५</summary>
 
-मऩत्तिऩ् अमैया तवरै ऎऩैत्तॊऩ्ऱुम्
-सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५
+मऩत्तिऩ् अमैया तवरै ऎऩैत्तॊऩ्ऱुम्  
+सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२५</summary>
@@ -244,10 +243,10 @@ Whose heart is full of cunning guiles.        824
 
 <details><summary>NVK Ashraf choice (en) - ८२५</summary>
 
-०८२५
-Trust not the mere words of those
-Whose minds don't agree with us. *
-(P.S. Sundaram)
+०८२५  
+Trust not the mere words of those  
+Whose minds don't agree with us. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८२५</summary>
@@ -286,14 +285,14 @@ Whose mind with your mind goes ill.        825
 
 <details><summary>मूलम् - ८२५</summary>
 
-मऩत्तिऩ् अमैया तवरै ऎऩैत्तॊऩ्ऱुम्
-सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५
+मऩत्तिऩ् अमैया तवरै ऎऩैत्तॊऩ्ऱुम्  
+सॊल्लिऩाल् तेऱऱ्पाऱ्ऱु अऩ्ऱु। ८२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२६</summary>
 
-नट्टार्बोल् नल्लवै सॊल्लिऩुम् ऒट्टार्सॊल्
-ऒल्लै उणरप् पडुम्। ८२६
+नट्टार्बोल् नल्लवै सॊल्लिऩुम् ऒट्टार्सॊल्  
+ऒल्लै उणरप् पडुम्। ८२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२६</summary>
@@ -304,10 +303,10 @@ Whose mind with your mind goes ill.        825
 
 <details><summary>NVK Ashraf choice (en) - ८२६</summary>
 
-०८२६
-A foe's words though seem friendly and good
-Can be read at once. *
-(P.S. Sundaram)
+०८२६  
+A foe's words though seem friendly and good  
+Can be read at once. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२६</summary>
@@ -341,14 +340,14 @@ Though they speak like friends in fine.        826
 
 <details><summary>मूलम् - ८२६</summary>
 
-नट्टार्बोल् नल्लवै सॊल्लिऩुम् ऒट्टार्सॊल्
-ऒल्लै उणरप् पडुम्। ८२६
+नट्टार्बोल् नल्लवै सॊल्लिऩुम् ऒट्टार्सॊल्  
+ऒल्लै उणरप् पडुम्। ८२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२७</summary>
 
-सॊल्वणक्कम् ऒऩ्ऩार्गण् कॊळ्ळऱ्क विल्वणक्कम्
-तीङ्गु कुऱित्तमै याऩ्। ८२७
+सॊल्वणक्कम् ऒऩ्ऩार्गण् कॊळ्ळऱ्क विल्वणक्कम्  
+तीङ्गु कुऱित्तमै याऩ्। ८२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२७</summary>
@@ -359,10 +358,10 @@ Though they speak like friends in fine.        826
 
 <details><summary>NVK Ashraf choice (en) - ८२७</summary>
 
-०८२७
-Trust not the bowing speech of your foe.
-A bending bow is a sign of imminent danger.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०८२७  
+Trust not the bowing speech of your foe.  
+A bending bow is a sign of imminent danger.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२७</summary>
@@ -396,14 +395,14 @@ Danger darts from bending bows.        827
 
 <details><summary>मूलम् - ८२७</summary>
 
-सॊल्वणक्कम् ऒऩ्ऩार्गण् कॊळ्ळऱ्क विल्वणक्कम्
-तीङ्गु कुऱित्तमै याऩ्। ८२७
+सॊल्वणक्कम् ऒऩ्ऩार्गण् कॊळ्ळऱ्क विल्वणक्कम्  
+तीङ्गु कुऱित्तमै याऩ्। ८२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२८</summary>
 
-तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒऩ्ऩार्
-अऴुदगण् णीरुम् अऩैत्तु। ८२८
+तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒऩ्ऩार्  
+अऴुदगण् णीरुम् अऩैत्तु। ८२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२८</summary>
@@ -414,10 +413,10 @@ Danger darts from bending bows.        827
 
 <details><summary>NVK Ashraf choice (en) - ८२८</summary>
 
-०८२८
-Like a dagger concealed in folded hands
-Is the mourning tears of foes. *
-(P.S. Sundaram), (N.V.K. Ashraf)
+०८२८  
+Like a dagger concealed in folded hands  
+Is the mourning tears of foes. *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२८</summary>
@@ -451,14 +450,14 @@ Their sobbing tears have lurking harms.        828
 
 <details><summary>मूलम् - ८२८</summary>
 
-तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒऩ्ऩार्
-अऴुदगण् णीरुम् अऩैत्तु। ८२८
+तॊऴुदगै युळ्ळुम् पडैयॊडुङ्गुम् ऒऩ्ऩार्  
+अऴुदगण् णीरुम् अऩैत्तु। ८२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२९</summary>
 
-मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु
-नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९
+मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
+नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२९</summary>
@@ -469,10 +468,10 @@ Their sobbing tears have lurking harms.        828
 
 <details><summary>NVK Ashraf choice (en) - ८२९</summary>
 
-०८२९
-Cajole and crush with friendly guise
-Those who flatter you but despise within. *
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+०८२९  
+Cajole and crush with friendly guise  
+Those who flatter you but despise within. *  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२९</summary>
@@ -506,14 +505,14 @@ Cajole and crush them in friendly guise.        829
 
 <details><summary>मूलम् - ८२९</summary>
 
-मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु
-नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९
+मिगच्चॆय्दु तम्मॆळ्ळु वारै नगच्चॆय्दु  
+नट्पिऩुळ् साप्पुल्लऱ् पाऱ्ऱु। ८२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३०</summary>
 
-पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु
-अगनट्पु ऒरीइ विडल्। ८३०
+पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु  
+अगनट्पु ऒरीइ विडल्। ८३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३०</summary>
@@ -524,10 +523,10 @@ Cajole and crush them in friendly guise.        829
 
 <details><summary>NVK Ashraf choice (en) - ८३०</summary>
 
-०८३०
-While playing a friend to foes, keep a friendly face
-But banish them from thy heart.
-(J. Narayanaswamy), (Satguru Subramuniyaswami)
+०८३०  
+While playing a friend to foes, keep a friendly face  
+But banish them from thy heart.  
+(J. Narayanaswamy), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३०</summary>
@@ -560,7 +559,7 @@ Feign love on face but not in heart.        830
 
 <details><summary>मूलम् - ८३०</summary>
 
-पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु
-अगनट्पु ऒरीइ विडल्। ८३०
+पगैनट्पाम् कालम् वरुङ्गाल् मुगनट्टु  
+अगनट्पु ऒरीइ विडल्। ८३०  
 </details>
 

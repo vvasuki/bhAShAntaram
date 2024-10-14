@@ -3,11 +3,10 @@ title = "०३ नीत्तार् पॆरुमै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २१</summary>
 
-ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु
-वेण्डुम् पऩुवल् तुणिवु। २१
+ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
+वेण्डुम् पऩुवल् तुणिवु। २१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१</summary>
@@ -18,10 +17,10 @@ title = "०३ नीत्तार् पॆरुमै"
 
 <details><summary>NVK Ashraf choice (en) - २१</summary>
 
-००२१
-Scriptures ought to exalt with firmness
-The greatness of disciplined ascetics. *
-(Satguru Subramuniyaswami)
+००२१  
+Scriptures ought to exalt with firmness  
+The greatness of disciplined ascetics. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २१</summary>
@@ -60,14 +59,14 @@ As theirs who sense and self deny.         21
 
 <details><summary>मूलम् - २१</summary>
 
-ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु
-वेण्डुम् पऩुवल् तुणिवु। २१
+ऒऴुक्कत्तु नीत्तार् पॆरुमै विऴुप्पत्तु  
+वेण्डुम् पऩुवल् तुणिवु। २१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२</summary>
 
-तुऱन्दार् पॆरुमै तुणैक्कूऱिऩ् वैयत्तु
-इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु। २२
+तुऱन्दार् पॆरुमै तुणैक्कूऱिऩ् वैयत्तु  
+इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु। २२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२</summary>
@@ -78,10 +77,10 @@ As theirs who sense and self deny.         21
 
 <details><summary>NVK Ashraf choice (en) - २२</summary>
 
-००२२
-To recount an ascetic's greatness
-Is to count the world's dead. *
-(P.S. Sundaram)
+००२२  
+To recount an ascetic's greatness  
+Is to count the world's dead. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२</summary>
@@ -115,14 +114,14 @@ Is to count the dead upon the sphere.         22
 
 <details><summary>मूलम् - २२</summary>
 
-तुऱन्दार् पॆरुमै तुणैक्कूऱिऩ् वैयत्तु
-इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु। २२
+तुऱन्दार् पॆरुमै तुणैक्कूऱिऩ् वैयत्तु  
+इऱन्दारै ऎण्णिक्कॊण् डऱ्ऱु। २२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३</summary>
 
-इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्
-पॆरुमै पिऱङ्गिऱ्ऱु उलगु। २३
+इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
+पॆरुमै पिऱङ्गिऱ्ऱु उलगु। २३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३</summary>
@@ -133,10 +132,10 @@ Is to count the dead upon the sphere.         22
 
 <details><summary>NVK Ashraf choice (en) - २३</summary>
 
-००२३
-The world shines on the greatness of those who,
-Knowing both, choose renunciation. *
-(P.S. Sundaram)
+००२३  
+The world shines on the greatness of those who,  
+Knowing both, choose renunciation. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २३</summary>
@@ -175,14 +174,14 @@ Who know the right and virtue wear.         23
 
 <details><summary>मूलम् - २३</summary>
 
-इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्
-पॆरुमै पिऱङ्गिऱ्ऱु उलगु। २३
+इरुमै वगैदॆरिन्दु ईण्डुअऱम् पूण्डार्  
+पॆरुमै पिऱङ्गिऱ्ऱु उलगु। २३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४</summary>
 
-उरऩॆऩ्ऩुम् तोट्टियाऩ् ओरैन्दुम् काप्पाऩ्
-वरऩॆऩ्ऩुम् वैप्पिऱ्कोर् वित्तु। २४
+उरऩॆऩ्ऩुम् तोट्टियाऩ् ओरैन्दुम् काप्पाऩ्  
+वरऩॆऩ्ऩुम् वैप्पिऱ्कोर् वित्तु। २४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४</summary>
@@ -193,10 +192,10 @@ Who know the right and virtue wear.         23
 
 <details><summary>NVK Ashraf choice (en) - २४</summary>
 
-००२४
-The restraint of senses five by the ankush of firmness
-Is the seed for the bliss of heaven.
-(N.V.K. Ashraf)
+००२४  
+The restraint of senses five by the ankush of firmness  
+Is the seed for the bliss of heaven.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २४</summary>
@@ -236,14 +235,14 @@ The senses five, is heaven to gain.         24
 
 <details><summary>मूलम् - २४</summary>
 
-उरऩॆऩ्ऩुम् तोट्टियाऩ् ओरैन्दुम् काप्पाऩ्
-वरऩॆऩ्ऩुम् वैप्पिऱ्कोर् वित्तु। २४
+उरऩॆऩ्ऩुम् तोट्टियाऩ् ओरैन्दुम् काप्पाऩ्  
+वरऩॆऩ्ऩुम् वैप्पिऱ्कोर् वित्तु। २४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५</summary>
 
-ऐन्दवित्ताऩ् आऱ्ऱल् अगल्विसुम्बु ळार्गोमाऩ्
-इन्दिरऩे सालुङ् गरि। २५
+ऐन्दवित्ताऩ् आऱ्ऱल् अगल्विसुम्बु ळार्गोमाऩ्  
+इन्दिरऩे सालुङ् गरि। २५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५</summary>
@@ -254,10 +253,10 @@ The senses five, is heaven to gain.         24
 
 <details><summary>NVK Ashraf choice (en) - २५</summary>
 
-००२५
-Even the celestial king Indra will vouch the strength
-Of one who rules his senses five. *
-(K. Kannan), (P.S. Sundaram)
+००२५  
+Even the celestial king Indra will vouch the strength  
+Of one who rules his senses five. *  
+(K. Kannan), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २५</summary>
@@ -296,14 +295,14 @@ How great the power ascetics' sway.         25
 
 <details><summary>मूलम् - २५</summary>
 
-ऐन्दवित्ताऩ् आऱ्ऱल् अगल्विसुम्बु ळार्गोमाऩ्
-इन्दिरऩे सालुङ् गरि। २५
+ऐन्दवित्ताऩ् आऱ्ऱल् अगल्विसुम्बु ळार्गोमाऩ्  
+इन्दिरऩे सालुङ् गरि। २५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६</summary>
 
-सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्
-सॆयऱ्करिय सॆय्गला तार्। २६
+सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्  
+सॆयऱ्करिय सॆय्गला तार्। २६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६</summary>
@@ -314,10 +313,10 @@ How great the power ascetics' sway.         25
 
 <details><summary>NVK Ashraf choice (en) - २६</summary>
 
-००२६
-Great people take on difficult tasks;
-Small people avoid them.
-(Norman Cutler)
+००२६  
+Great people take on difficult tasks;  
+Small people avoid them.  
+(Norman Cutler)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६</summary>
@@ -351,14 +350,14 @@ The great achieve things rare to do.         26
 
 <details><summary>मूलम् - २६</summary>
 
-सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्
-सॆयऱ्करिय सॆय्गला तार्। २६
+सॆयऱ्करिय सॆय्वार् पॆरियर् सिऱियर्  
+सॆयऱ्करिय सॆय्गला तार्। २६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७</summary>
 
-सुवैऒळि ऊऱुओसै नाऱ्ऱमॆऩ ऐन्दिऩ्
-वगैदॆरिवाऩ् कट्टे उलगु। २७
+सुवैऒळि ऊऱुओसै नाऱ्ऱमॆऩ ऐन्दिऩ्  
+वगैदॆरिवाऩ् कट्टे उलगु। २७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७</summary>
@@ -369,10 +368,10 @@ The great achieve things rare to do.         26
 
 <details><summary>NVK Ashraf choice (en) - २७</summary>
 
-००२७
-This world is his who knows for what these five are:
-Taste, sight, touch, sound and smell. *
-(P.S. Sundaram)
+००२७  
+This world is his who knows for what these five are:  
+Taste, sight, touch, sound and smell. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७</summary>
@@ -406,14 +405,14 @@ Of taste, sight, hearing, touch and smell.         27
 
 <details><summary>मूलम् - २७</summary>
 
-सुवैऒळि ऊऱुओसै नाऱ्ऱमॆऩ ऐन्दिऩ्
-वगैदॆरिवाऩ् कट्टे उलगु। २७
+सुवैऒळि ऊऱुओसै नाऱ्ऱमॆऩ ऐन्दिऩ्  
+वगैदॆरिवाऩ् कट्टे उलगु। २७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८</summary>
 
-निऱैमॊऴि मान्दर् पॆरुमै निलत्तु
-मऱैमॊऴि काट्टि विडुम्। २८
+निऱैमॊऴि मान्दर् पॆरुमै निलत्तु  
+मऱैमॊऴि काट्टि विडुम्। २८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८</summary>
@@ -424,10 +423,10 @@ Of taste, sight, hearing, touch and smell.         27
 
 <details><summary>NVK Ashraf choice (en) - २८</summary>
 
-००२८
-The scriptures of the world proclaim
-The potent utterance of the great.
-(P.S. Sundaram)
+००२८  
+The scriptures of the world proclaim  
+The potent utterance of the great.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८</summary>
@@ -461,14 +460,14 @@ Their greatness to the world display.         28
 
 <details><summary>मूलम् - २८</summary>
 
-निऱैमॊऴि मान्दर् पॆरुमै निलत्तु
-मऱैमॊऴि काट्टि विडुम्। २८
+निऱैमॊऴि मान्दर् पॆरुमै निलत्तु  
+मऱैमॊऴि काट्टि विडुम्। २८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९</summary>
 
-कुणमॆऩ्ऩुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि
-कणमेयुम् कात्तल् अरिदु। २९
+कुणमॆऩ्ऩुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि  
+कणमेयुम् कात्तल् अरिदु। २९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९</summary>
@@ -479,10 +478,10 @@ Their greatness to the world display.         28
 
 <details><summary>NVK Ashraf choice (en) - २९</summary>
 
-००२९
-The wrath of those who have scaled the heights of character
-Can't be endured even for a moment. *
-(K. Kannan), (J. Narayanaswamy)
+००२९  
+The wrath of those who have scaled the heights of character  
+Can't be endured even for a moment. *  
+(K. Kannan), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९</summary>
@@ -516,14 +515,14 @@ Though transient, cannot be withstood.         29
 
 <details><summary>मूलम् - २९</summary>
 
-कुणमॆऩ्ऩुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि
-कणमेयुम् कात्तल् अरिदु। २९
+कुणमॆऩ्ऩुम् कुऩ्ऱेऱि निऩ्ऱार् वॆगुळि  
+कणमेयुम् कात्तल् अरिदु। २९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०</summary>
 
-अन्दणर् ऎऩ्पोर् अऱवोर्मऱ् ऱॆव्वुयिर् क्कुम्
-सॆन्दण्मै पूण्डॊऴुग लाऩ्। ३०
+अन्दणर् ऎऩ्पोर् अऱवोर्मऱ् ऱॆव्वुयिर् क्कुम्  
+सॆन्दण्मै पूण्डॊऴुग लाऩ्। ३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०</summary>
@@ -534,10 +533,10 @@ Though transient, cannot be withstood.         29
 
 <details><summary>NVK Ashraf choice (en) - ३०</summary>
 
-००३०
-Ascetics are called men of virtue
-For they assume the role of mercy for all that live.
-(N.V.K. Ashraf)
+००३०  
+Ascetics are called men of virtue  
+For they assume the role of mercy for all that live.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०</summary>
@@ -570,7 +569,7 @@ The sage fulfils the vitue's call.         30
 
 <details><summary>मूलम् - ३०</summary>
 
-अन्दणर् ऎऩ्पोर् अऱवोर्मऱ् ऱॆव्वुयिर् क्कुम्
-सॆन्दण्मै पूण्डॊऴुग लाऩ्। ३०
+अन्दणर् ऎऩ्पोर् अऱवोर्मऱ् ऱॆव्वुयिर् क्कुम्  
+सॆन्दण्मै पूण्डॊऴुग लाऩ्। ३०  
 </details>
 

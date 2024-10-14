@@ -3,11 +3,10 @@ title = "०४ विनैत्तिट्पम्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६६१</summary>
 
-विऩैत्तिट्पम् ऎऩ्पदु ऒरुवऩ् मऩत्तिट्पम्
-मऱ्ऱैय ऎल्लाम् पिऱ। ६६१
+विऩैत्तिट्पम् ऎऩ्पदु ऒरुवऩ् मऩत्तिट्पम्  
+मऱ्ऱैय ऎल्लाम् पिऱ। ६६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६१</summary>
@@ -19,10 +18,10 @@ title = "०४ विनैत्तिट्पम्"
 
 <details><summary>NVK Ashraf choice (en) - ६६१</summary>
 
-०६६१
-Efficiency consists in a resolute mind.
-Other things come thereafter.
-(C. Rajagopalachari)
+०६६१  
+Efficiency consists in a resolute mind.  
+Other things come thereafter.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६१</summary>
@@ -56,14 +55,14 @@ And all the rest are imperfect.        661
 
 <details><summary>मूलम् - ६६१</summary>
 
-विऩैत्तिट्पम् ऎऩ्पदु ऒरुवऩ् मऩत्तिट्पम्
-मऱ्ऱैय ऎल्लाम् पिऱ। ६६१
+विऩैत्तिट्पम् ऎऩ्पदु ऒरुवऩ् मऩत्तिट्पम्  
+मऱ्ऱैय ऎल्लाम् पिऱ। ६६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६२</summary>
 
-ऊऱॊराल् उऱ्ऱपिऩ् ऒल्गामै इव्विरण्डिऩ्
-आऱॆऩ्पर् आय्न्दवर् कोळ्। ६६२
+ऊऱॊराल् उऱ्ऱपिऩ् ऒल्गामै इव्विरण्डिऩ्  
+आऱॆऩ्पर् आय्न्दवर् कोळ्। ६६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६२</summary>
@@ -74,10 +73,10 @@ And all the rest are imperfect.        661
 
 <details><summary>NVK Ashraf choice (en) - ६६२</summary>
 
-०६६२
-To avoid failures and not to give up despite failures
-Are the two traits scholars emphasize.
-(N.V.K. Ashraf)
+०६६२  
+To avoid failures and not to give up despite failures  
+Are the two traits scholars emphasize.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६२</summary>
@@ -112,14 +111,14 @@ These two are maxims of the wise.        662
 
 <details><summary>मूलम् - ६६२</summary>
 
-ऊऱॊराल् उऱ्ऱपिऩ् ऒल्गामै इव्विरण्डिऩ्
-आऱॆऩ्पर् आय्न्दवर् कोळ्। ६६२
+ऊऱॊराल् उऱ्ऱपिऩ् ऒल्गामै इव्विरण्डिऩ्  
+आऱॆऩ्पर् आय्न्दवर् कोळ्। ६६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६३</summary>
 
-कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किऩ्
-ऎऱ्ऱा विऴुमन् दरुम्। ६६३
+कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किऩ्  
+ऎऱ्ऱा विऴुमन् दरुम्। ६६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६३</summary>
@@ -130,10 +129,10 @@ These two are maxims of the wise.        662
 
 <details><summary>NVK Ashraf choice (en) - ६६३</summary>
 
-०६६३
-Reveal thy means in the end. Premature disclosure
-Can cause irrevocable damage.
-(N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)
+०६६३  
+Reveal thy means in the end. Premature disclosure  
+Can cause irrevocable damage.  
+(N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६३</summary>
@@ -168,14 +167,14 @@ Woe unto work displayed midway.        663
 
 <details><summary>मूलम् - ६६३</summary>
 
-कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किऩ्
-ऎऱ्ऱा विऴुमन् दरुम्। ६६३
+कडैक्कॊट्कच् चॆय्दक्क ताण्मै इडैक्कॊट्किऩ्  
+ऎऱ्ऱा विऴुमन् दरुम्। ६६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६४</summary>
 
-सॊल्लुदल् यार्क्कुम् ऎळिय अरियवाम्
-सॊल्लिय वण्णम् सॆयल्। ६६४
+सॊल्लुदल् यार्क्कुम् ऎळिय अरियवाम्  
+सॊल्लिय वण्णम् सॆयल्। ६६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६४</summary>
@@ -186,10 +185,10 @@ Woe unto work displayed midway.        663
 
 <details><summary>NVK Ashraf choice (en) - ६६४</summary>
 
-०६६४
-It is easy for anyone to speak,
-But difficult to execute what has been spoken. *
-(Satguru Subramuniyaswami)
+०६६४  
+It is easy for anyone to speak,  
+But difficult to execute what has been spoken. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६४</summary>
@@ -223,14 +222,14 @@ But hard it is to know and act.        664
 
 <details><summary>मूलम् - ६६४</summary>
 
-सॊल्लुदल् यार्क्कुम् ऎळिय अरियवाम्
-सॊल्लिय वण्णम् सॆयल्। ६६४
+सॊल्लुदल् यार्क्कुम् ऎळिय अरियवाम्  
+सॊल्लिय वण्णम् सॆयल्। ६६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६५</summary>
 
-वीऱॆय्दि माण्डार् विऩैत्तिट्पम् वेन्दऩ्कण्
-ऊऱॆय्दि उळ्ळप् पडुम्। ६६५
+वीऱॆय्दि माण्डार् विऩैत्तिट्पम् वेन्दऩ्कण्  
+ऊऱॆय्दि उळ्ळप् पडुम्। ६६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६५</summary>
@@ -241,10 +240,10 @@ But hard it is to know and act.        664
 
 <details><summary>NVK Ashraf choice (en) - ६६५</summary>
 
-०६६५
-Dynamic deeds of brave souls
-Will reach the king to win his praise.
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+०६६५  
+Dynamic deeds of brave souls  
+Will reach the king to win his praise.  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६५</summary>
@@ -279,14 +278,14 @@ Shall win the praise of king and all.        665
 
 <details><summary>मूलम् - ६६५</summary>
 
-वीऱॆय्दि माण्डार् विऩैत्तिट्पम् वेन्दऩ्कण्
-ऊऱॆय्दि उळ्ळप् पडुम्। ६६५
+वीऱॆय्दि माण्डार् विऩैत्तिट्पम् वेन्दऩ्कण्  
+ऊऱॆय्दि उळ्ळप् पडुम्। ६६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६६</summary>
 
-ऎण्णिय ऎण्णियाङ्गु ऎय्दु ऎण्णियार्
-तिण्णियर् आगप् पॆऱिऩ्। ६६६
+ऎण्णिय ऎण्णियाङ्गु ऎय्दु ऎण्णियार्  
+तिण्णियर् आगप् पॆऱिऩ्। ६६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६६</summary>
@@ -297,10 +296,10 @@ Shall win the praise of king and all.        665
 
 <details><summary>NVK Ashraf choice (en) - ६६६</summary>
 
-०६६६
-What is sought will be got as desired
-If only the seeker is determined.
-(N.V.K. Ashraf)
+०६६६  
+What is sought will be got as desired  
+If only the seeker is determined.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६६६</summary>
@@ -340,14 +339,14 @@ When mind that wills is strong indeed.        666
 
 <details><summary>मूलम् - ६६६</summary>
 
-ऎण्णिय ऎण्णियाङ्गु ऎय्दु ऎण्णियार्
-तिण्णियर् आगप् पॆऱिऩ्। ६६६
+ऎण्णिय ऎण्णियाङ्गु ऎय्दु ऎण्णियार्  
+तिण्णियर् आगप् पॆऱिऩ्। ६६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६७</summary>
 
-उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु
-अच्चाणि अऩ्ऩार् उडैत्तु। ६६७
+उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु  
+अच्चाणि अऩ्ऩार् उडैत्तु। ६६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६७</summary>
@@ -358,10 +357,10 @@ When mind that wills is strong indeed.        666
 
 <details><summary>NVK Ashraf choice (en) - ६६७</summary>
 
-०६६७
-Despise not by looks! Even linchpins hold in place
-The wheels of mighty chariots! *
-(P.S. Sundaram), (N.V.K. Ashraf)
+०६६७  
+Despise not by looks! Even linchpins hold in place  
+The wheels of mighty chariots! *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६६७</summary>
@@ -401,14 +400,14 @@ Like linchpin of big rolling car.        667
 
 <details><summary>मूलम् - ६६७</summary>
 
-उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु
-अच्चाणि अऩ्ऩार् उडैत्तु। ६६७
+उरुवुगण्डु ऎळ्ळामै वेण्डुम् उरुळ्बॆरुन्देर्क्कु  
+अच्चाणि अऩ्ऩार् उडैत्तु। ६६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६८</summary>
 
-कलङ्गादु कण्ड विऩैक्कण् तुळङ्गादु
-तूक्कङ् गडिन्दु सॆयल्। ६६८
+कलङ्गादु कण्ड विऩैक्कण् तुळङ्गादु  
+तूक्कङ् गडिन्दु सॆयल्। ६६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६८</summary>
@@ -419,10 +418,10 @@ Like linchpin of big rolling car.        667
 
 <details><summary>NVK Ashraf choice (en) - ६६८</summary>
 
-०६६८
-Acts resolved without ambiguity
-Should be unwaveringly carried out without delay.
-(N.V.K. Ashraf)
+०६६८  
+Acts resolved without ambiguity  
+Should be unwaveringly carried out without delay.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६८</summary>
@@ -456,14 +455,14 @@ The deed resolved purposefully.        668
 
 <details><summary>मूलम् - ६६८</summary>
 
-कलङ्गादु कण्ड विऩैक्कण् तुळङ्गादु
-तूक्कङ् गडिन्दु सॆयल्। ६६८
+कलङ्गादु कण्ड विऩैक्कण् तुळङ्गादु  
+तूक्कङ् गडिन्दु सॆयल्। ६६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६९</summary>
 
-तुऩ्पम् उऱवरिऩुम् सॆय्ग तुणिवाऱ्ऱि
-इऩ्पम् पयक्कुम् विऩै। ६६९
+तुऩ्पम् उऱवरिऩुम् सॆय्ग तुणिवाऱ्ऱि  
+इऩ्पम् पयक्कुम् विऩै। ६६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६९</summary>
@@ -474,10 +473,10 @@ The deed resolved purposefully.        668
 
 <details><summary>NVK Ashraf choice (en) - ६६९</summary>
 
-०६६९
-However great the hardship,
-Pursue with firmness the act that yields bliss.
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०६६९  
+However great the hardship,  
+Pursue with firmness the act that yields bliss.  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६९</summary>
@@ -512,14 +511,14 @@ The deed that brings delight at last.        669
 
 <details><summary>मूलम् - ६६९</summary>
 
-तुऩ्पम् उऱवरिऩुम् सॆय्ग तुणिवाऱ्ऱि
-इऩ्पम् पयक्कुम् विऩै। ६६९
+तुऩ्पम् उऱवरिऩुम् सॆय्ग तुणिवाऱ्ऱि  
+इऩ्पम् पयक्कुम् विऩै। ६६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७०</summary>
 
-ऎऩैत्तिट्पम् ऎय् तियक् कण्णुम् विऩैत्तिट्पम्
-वेण्डारै वेण्डादु उलगु। ६७०
+ऎऩैत्तिट्पम् ऎय् तियक् कण्णुम् विऩैत्तिट्पम्  
+वेण्डारै वेण्डादु उलगु। ६७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७०</summary>
@@ -530,10 +529,10 @@ The deed that brings delight at last.        669
 
 <details><summary>NVK Ashraf choice (en) - ६७०</summary>
 
-०६७०
-The world has no place for those who,
-Despite other strengths, have no strength of firmness.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०६७०  
+The world has no place for those who,  
+Despite other strengths, have no strength of firmness.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७०</summary>
@@ -566,7 +565,7 @@ But strength of will-to-do at length.        670
 
 <details><summary>मूलम् - ६७०</summary>
 
-ऎऩैत्तिट्पम् ऎय् तियक् कण्णुम् विऩैत्तिट्पम्
-वेण्डारै वेण्डादु उलगु। ६७०
+ऎऩैत्तिट्पम् ऎय् तियक् कण्णुम् विऩैत्तिट्पम्  
+वेण्डारै वेण्डादु उलगु। ६७०  
 </details>
 

@@ -3,11 +3,10 @@ title = "१६ उट्पगै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८८१</summary>
 
-निऴल्नीरुम् इऩ्ऩाद इऩ्ऩा तमर्नीरुम्
-इऩ्ऩावाम् इऩ्ऩा सॆयिऩ्। ८८१
+निऴल्नीरुम् इऩ्ऩाद इऩ्ऩा तमर्नीरुम्  
+इऩ्ऩावाम् इऩ्ऩा सॆयिऩ्। ८८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८१</summary>
@@ -19,10 +18,10 @@ title = "१६ उट्पगै"
 
 <details><summary>NVK Ashraf choice (en) - ८८१</summary>
 
-०८८१
-Even shade and water unwholesome can harm
-Likewise one’s kinsmen if they hurt. * ((P.S. Sundaram))
-(P.S. Sundaram)
+०८८१  
+Even shade and water unwholesome can harm  
+Likewise one’s kinsmen if they hurt. * ((P.S. Sundaram))  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८१</summary>
@@ -57,14 +56,14 @@ As water and shade do harm when bad.        881
 
 <details><summary>मूलम् - ८८१</summary>
 
-निऴल्नीरुम् इऩ्ऩाद इऩ्ऩा तमर्नीरुम्
-इऩ्ऩावाम् इऩ्ऩा सॆयिऩ्। ८८१
+निऴल्नीरुम् इऩ्ऩाद इऩ्ऩा तमर्नीरुम्  
+इऩ्ऩावाम् इऩ्ऩा सॆयिऩ्। ८८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८२</summary>
 
-वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग
-केळ्बोल् पगैवर् तॊडर्बु। ८८२
+वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग  
+केळ्बोल् पगैवर् तॊडर्बु। ८८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८२</summary>
@@ -75,10 +74,10 @@ As water and shade do harm when bad.        881
 
 <details><summary>NVK Ashraf choice (en) - ८८२</summary>
 
-०८८२
-No need to fear an enemy wielding a sword.
-Beware of enemies posing as friends. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+०८८२  
+No need to fear an enemy wielding a sword.  
+Beware of enemies posing as friends. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८२</summary>
@@ -113,14 +112,14 @@ Fear foes who feign as kinsmen dear.        882
 
 <details><summary>मूलम् - ८८२</summary>
 
-वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग
-केळ्बोल् पगैवर् तॊडर्बु। ८८२
+वाळ्बोल पगैवरै अञ्जऱ्क अञ्जुग  
+केळ्बोल् पगैवर् तॊडर्बु। ८८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८३</summary>
 
-उट्पगै अञ्जित्तऱ् काक्क उलैविडत्तु
-मट्पगैयिऩ् माणत् तॆऱुम्। ८८३
+उट्पगै अञ्जित्तऱ् काक्क उलैविडत्तु  
+मट्पगैयिऩ् माणत् तॆऱुम्। ८८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८३</summary>
@@ -131,10 +130,10 @@ Fear foes who feign as kinsmen dear.        882
 
 <details><summary>NVK Ashraf choice (en) - ८८३</summary>
 
-०८८३
-Guard against the foe within, lest he strike you
-In times of peril like the potter's knife. *
-(K. Kannan), (P.S. Sundaram)
+०८८३  
+Guard against the foe within, lest he strike you  
+In times of peril like the potter's knife. *  
+(K. Kannan), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८३</summary>
@@ -169,14 +168,14 @@ Will cut you, beware, like potters' steel.        883
 
 <details><summary>मूलम् - ८८३</summary>
 
-उट्पगै अञ्जित्तऱ् काक्क उलैविडत्तु
-मट्पगैयिऩ् माणत् तॆऱुम्। ८८३
+उट्पगै अञ्जित्तऱ् काक्क उलैविडत्तु  
+मट्पगैयिऩ् माणत् तॆऱुम्। ८८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८४</summary>
 
-मऩमाणा उट्पगै तोऩ्ऱिऩ् इऩमाणा
-एदम् पलवुम् तरुम्। ८८४
+मऩमाणा उट्पगै तोऩ्ऱिऩ् इऩमाणा  
+एदम् पलवुम् तरुम्। ८८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८४</summary>
@@ -187,10 +186,10 @@ Will cut you, beware, like potters' steel.        883
 
 <details><summary>NVK Ashraf choice (en) - ८८४</summary>
 
-०८८४
-When hidden hatreds lurk in the mind,
-Myriad miseries manifest among kin. *
-(Satguru Subramuniyaswami)
+०८८४  
+When hidden hatreds lurk in the mind,  
+Myriad miseries manifest among kin. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८४</summary>
@@ -225,14 +224,14 @@ Foments trouble, spoils kinsmen!        884
 
 <details><summary>मूलम् - ८८४</summary>
 
-मऩमाणा उट्पगै तोऩ्ऱिऩ् इऩमाणा
-एदम् पलवुम् तरुम्। ८८४
+मऩमाणा उट्पगै तोऩ्ऱिऩ् इऩमाणा  
+एदम् पलवुम् तरुम्। ८८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८५</summary>
 
-उऱल्मुऱैयाऩ् उट्पगै तोऩ्ऱिऩ् इऱल्मुऱैयाऩ्
-एदम् पलवुम् तरुम्। ८८५
+उऱल्मुऱैयाऩ् उट्पगै तोऩ्ऱिऩ् इऱल्मुऱैयाऩ्  
+एदम् पलवुम् तरुम्। ८८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८५</summary>
@@ -243,10 +242,10 @@ Foments trouble, spoils kinsmen!        884
 
 <details><summary>NVK Ashraf choice (en) - ८८५</summary>
 
-०८८५
-Hidden hatred amongst kinsman
-Can cause all sorts of deadly sorrows. *
-(Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)
+०८८५  
+Hidden hatred amongst kinsman  
+Can cause all sorts of deadly sorrows. *  
+(Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८५</summary>
@@ -281,14 +280,14 @@ Bring life-endangering evil.        885
 
 <details><summary>मूलम् - ८८५</summary>
 
-उऱल्मुऱैयाऩ् उट्पगै तोऩ्ऱिऩ् इऱल्मुऱैयाऩ्
-एदम् पलवुम् तरुम्। ८८५
+उऱल्मुऱैयाऩ् उट्पगै तोऩ्ऱिऩ् इऱल्मुऱैयाऩ्  
+एदम् पलवुम् तरुम्। ८८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८६</summary>
 
-ऒऩ्ऱामै ऒऩ्ऱियार् कट्पडिऩ् ऎञ्ञाऩ्ऱुम्
-पॊऩ्ऱामै ऒऩ्ऱल् अरिदु। ८८६
+ऒऩ्ऱामै ऒऩ्ऱियार् कट्पडिऩ् ऎञ्ञाऩ्ऱुम्  
+पॊऩ्ऱामै ऒऩ्ऱल् अरिदु। ८८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८६</summary>
@@ -299,10 +298,10 @@ Bring life-endangering evil.        885
 
 <details><summary>NVK Ashraf choice (en) - ८८६</summary>
 
-०८८६
-Unanimity will disappear for ever
-Once disunity arises within a union.
-(N.V.K. Ashraf)
+०८८६  
+Unanimity will disappear for ever  
+Once disunity arises within a union.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८६</summary>
@@ -336,14 +335,14 @@ Life-destroying deadly evils.        886
 
 <details><summary>मूलम् - ८८६</summary>
 
-ऒऩ्ऱामै ऒऩ्ऱियार् कट्पडिऩ् ऎञ्ञाऩ्ऱुम्
-पॊऩ्ऱामै ऒऩ्ऱल् अरिदु। ८८६
+ऒऩ्ऱामै ऒऩ्ऱियार् कट्पडिऩ् ऎञ्ञाऩ्ऱुम्  
+पॊऩ्ऱामै ऒऩ्ऱल् अरिदु। ८८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८७</summary>
 
-सॆप्पिऩ् पुणर्चिबोल् कूडिऩुम् कूडादे
-उट्पगै उऱ्ऱ कुडि। ८८७
+सॆप्पिऩ् पुणर्चिबोल् कूडिऩुम् कूडादे  
+उट्पगै उऱ्ऱ कुडि। ८८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८७</summary>
@@ -354,10 +353,10 @@ Life-destroying deadly evils.        886
 
 <details><summary>NVK Ashraf choice (en) - ८८७</summary>
 
-०८८७
-A house that harbours hatred, like a vial and its lid,
-Seems one but comes apart. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०८८७  
+A house that harbours hatred, like a vial and its lid,  
+Seems one but comes apart. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८७</summary>
@@ -392,14 +391,14 @@ Just seems on like the lid in jar.        887
 
 <details><summary>मूलम् - ८८७</summary>
 
-सॆप्पिऩ् पुणर्चिबोल् कूडिऩुम् कूडादे
-उट्पगै उऱ्ऱ कुडि। ८८७
+सॆप्पिऩ् पुणर्चिबोल् कूडिऩुम् कूडादे  
+उट्पगै उऱ्ऱ कुडि। ८८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८८</summary>
 
-अरम्बॊरुद पॊऩ्पोलत् तेयुम् उरम्बॊरुदु
-उट्पगै उऱ्ऱ कुडि। ८८८
+अरम्बॊरुद पॊऩ्पोलत् तेयुम् उरम्बॊरुदु  
+उट्पगै उऱ्ऱ कुडि। ८८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८८</summary>
@@ -410,10 +409,10 @@ Just seems on like the lid in jar.        887
 
 <details><summary>NVK Ashraf choice (en) - ८८८</summary>
 
-०८८८
-A family with internal frictions wears out
-And loses its strength like gold being filed. *
-(W.H. Drew and J. Lazarus)
+०८८८  
+A family with internal frictions wears out  
+And loses its strength like gold being filed. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८८</summary>
@@ -447,14 +446,14 @@ Like gold crumbling by file's contact.        888
 
 <details><summary>मूलम् - ८८८</summary>
 
-अरम्बॊरुद पॊऩ्पोलत् तेयुम् उरम्बॊरुदु
-उट्पगै उऱ्ऱ कुडि। ८८८
+अरम्बॊरुद पॊऩ्पोलत् तेयुम् उरम्बॊरुदु  
+उट्पगै उऱ्ऱ कुडि। ८८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८९</summary>
 
-ऎट्पग वऩ्ऩ सिऱुमैत्ते आयिऩुम्
-उट्पगै उळ्ळदाङ् गेडु। ८८९
+ऎट्पग वऩ्ऩ सिऱुमैत्ते आयिऩुम्  
+उट्पगै उळ्ळदाङ् गेडु। ८८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८९</summary>
@@ -465,10 +464,10 @@ Like gold crumbling by file's contact.        888
 
 <details><summary>NVK Ashraf choice (en) - ८८९</summary>
 
-०८८९
-Even a dissent as small as a seed,
-Can trigger that destructive internal hatred.
-(N.V.K. Ashraf)
+०८८९  
+Even a dissent as small as a seed,  
+Can trigger that destructive internal hatred.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८९</summary>
@@ -502,14 +501,14 @@ As slit in sesame though it be.        889
 
 <details><summary>मूलम् - ८८९</summary>
 
-ऎट्पग वऩ्ऩ सिऱुमैत्ते आयिऩुम्
-उट्पगै उळ्ळदाङ् गेडु। ८८९
+ऎट्पग वऩ्ऩ सिऱुमैत्ते आयिऩुम्  
+उट्पगै उळ्ळदाङ् गेडु। ८८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९०</summary>
 
-उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्
-पाम्बोडु उडऩुऱैन् दऱ्ऱु। ८९०
+उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्  
+पाम्बोडु उडऩुऱैन् दऱ्ऱु। ८९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९०</summary>
@@ -520,10 +519,10 @@ As slit in sesame though it be.        889
 
 <details><summary>NVK Ashraf choice (en) - ८९०</summary>
 
-०८९०
-To partner one with a hidden hate
-Is to share a hut with a cobra.
-(P.S. Sundaram)
+०८९०  
+To partner one with a hidden hate  
+Is to share a hut with a cobra.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९०</summary>
@@ -556,7 +555,7 @@ Is dwelling with snake in selfsame hut.        890
 
 <details><summary>मूलम् - ८९०</summary>
 
-उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्
-पाम्बोडु उडऩुऱैन् दऱ्ऱु। ८९०
+उडम्बाडु इलादवर् वाऴ्क्कै कुडङ्गरुळ्  
+पाम्बोडु उडऩुऱैन् दऱ्ऱु। ८९०  
 </details>
 

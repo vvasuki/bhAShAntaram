@@ -3,11 +3,10 @@ title = "०७ पॆरियारैत् तुणैक्कोडल्
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४४१</summary>
 
-अऱऩऱिन्दु मूत्त अऱिवुडैयार् केण्मै
-तिऱऩऱिन्दु तेर्न्दु कॊळल्। ४४१
+अऱऩऱिन्दु मूत्त अऱिवुडैयार् केण्मै  
+तिऱऩऱिन्दु तेर्न्दु कॊळल्। ४४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४१</summary>
@@ -18,10 +17,10 @@ title = "०७ पॆरियारैत् तुणैक्कोडल्
 
 <details><summary>NVK Ashraf choice (en) - ४४१</summary>
 
-०४४१
-Value and secure the friendship
-Of the virtuous, mature and wise.
-(P.S. Sundaram)
+०४४१  
+Value and secure the friendship  
+Of the virtuous, mature and wise.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४१</summary>
@@ -52,14 +51,14 @@ Of men of virtue and mature brain.        441
 
 <details><summary>मूलम् - ४४१</summary>
 
-अऱऩऱिन्दु मूत्त अऱिवुडैयार् केण्मै
-तिऱऩऱिन्दु तेर्न्दु कॊळल्। ४४१
+अऱऩऱिन्दु मूत्त अऱिवुडैयार् केण्मै  
+तिऱऩऱिन्दु तेर्न्दु कॊळल्। ४४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४२</summary>
 
-उऱ्ऱनोय् नीक्कि उऱाअमै मुऱ्काक्कुम्
-पॆऱ्ऱियार्प् पेणिक् कॊळल्। ४४२
+उऱ्ऱनोय् नीक्कि उऱाअमै मुऱ्काक्कुम्  
+पॆऱ्ऱियार्प् पेणिक् कॊळल्। ४४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४२</summary>
@@ -70,10 +69,10 @@ Of men of virtue and mature brain.        441
 
 <details><summary>NVK Ashraf choice (en) - ४४२</summary>
 
-०४४२
-Ally with them who can allay your present ills
-And avert those to come. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०४४२  
+Ally with them who can allay your present ills  
+And avert those to come. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४२</summary>
@@ -104,14 +103,14 @@ Who ward and safe-guard you from ill.        442
 
 <details><summary>मूलम् - ४४२</summary>
 
-उऱ्ऱनोय् नीक्कि उऱाअमै मुऱ्काक्कुम्
-पॆऱ्ऱियार्प् पेणिक् कॊळल्। ४४२
+उऱ्ऱनोय् नीक्कि उऱाअमै मुऱ्काक्कुम्  
+पॆऱ्ऱियार्प् पेणिक् कॊळल्। ४४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४३</summary>
 
-अरियवऱ्ऱु ळॆल्लाम् अरिदे पॆरियारैप्
-पेणित् तमराक् कॊळल्। ४४३
+अरियवऱ्ऱु ळॆल्लाम् अरिदे पॆरियारैप्  
+पेणित् तमराक् कॊळल्। ४४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४३</summary>
@@ -122,10 +121,10 @@ Who ward and safe-guard you from ill.        442
 
 <details><summary>NVK Ashraf choice (en) - ४४३</summary>
 
-०४४३
-The rarest of rare things is to seek and secure
-The friendship of the great.
-(P.S. Sundaram)
+०४४३  
+The rarest of rare things is to seek and secure  
+The friendship of the great.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४३</summary>
@@ -156,14 +155,14 @@ Is rarest of the rare things known.        443
 
 <details><summary>मूलम् - ४४३</summary>
 
-अरियवऱ्ऱु ळॆल्लाम् अरिदे पॆरियारैप्
-पेणित् तमराक् कॊळल्। ४४३
+अरियवऱ्ऱु ळॆल्लाम् अरिदे पॆरियारैप्  
+पेणित् तमराक् कॊळल्। ४४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४४</summary>
 
-तम्मिऱ् पॆरियार् तमरा ऒऴुगुदल्
-वऩ्मैयु ळॆल्लान् दलै। ४४४
+तम्मिऱ् पॆरियार् तमरा ऒऴुगुदल्  
+वऩ्मैयु ळॆल्लान् दलै। ४४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४४</summary>
@@ -174,10 +173,10 @@ Is rarest of the rare things known.        443
 
 <details><summary>NVK Ashraf choice (en) - ४४४</summary>
 
-०४४४
-The greatest of all strengths come from
-Associating with one greater than oneself. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+०४४४  
+The greatest of all strengths come from  
+Associating with one greater than oneself. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४४</summary>
@@ -208,14 +207,14 @@ Power of all powers promotes.        444
 
 <details><summary>मूलम् - ४४४</summary>
 
-तम्मिऱ् पॆरियार् तमरा ऒऴुगुदल्
-वऩ्मैयु ळॆल्लान् दलै। ४४४
+तम्मिऱ् पॆरियार् तमरा ऒऴुगुदल्  
+वऩ्मैयु ळॆल्लान् दलै। ४४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४५</summary>
 
-सूऴ्वार्गण् णाग ऒऴुगलाऩ् मऩ्ऩवऩ्
-सूऴ्वारैक् सूऴ्न्दु कॊळल्। ४४५
+सूऴ्वार्गण् णाग ऒऴुगलाऩ् मऩ्ऩवऩ्  
+सूऴ्वारैक् सूऴ्न्दु कॊळल्। ४४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४५</summary>
@@ -226,10 +225,10 @@ Power of all powers promotes.        444
 
 <details><summary>NVK Ashraf choice (en) - ४४५</summary>
 
-०४४५
-A king's counselors are his eyes
-To be chosen with careful counseling.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०४४५  
+A king's counselors are his eyes  
+To be chosen with careful counseling.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४५</summary>
@@ -260,14 +259,14 @@ Round him should be the right and wise.        445
 
 <details><summary>मूलम् - ४४५</summary>
 
-सूऴ्वार्गण् णाग ऒऴुगलाऩ् मऩ्ऩवऩ्
-सूऴ्वारैक् सूऴ्न्दु कॊळल्। ४४५
+सूऴ्वार्गण् णाग ऒऴुगलाऩ् मऩ्ऩवऩ्  
+सूऴ्वारैक् सूऴ्न्दु कॊळल्। ४४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४६</summary>
 
-तक्का रिऩत्तऩाय्त् ताऩॊऴुग वल्लाऩैच्
-चॆऱ्ऱार् सॆयक्किडन्द तिल्। ४४६
+तक्का रिऩत्तऩाय्त् ताऩॊऴुग वल्लाऩैच्  
+चॆऱ्ऱार् सॆयक्किडन्द तिल्। ४४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४६</summary>
@@ -278,10 +277,10 @@ Round him should be the right and wise.        445
 
 <details><summary>NVK Ashraf choice (en) - ४४६</summary>
 
-०४४६
-Foes are rendered ineffective by one
-Who lives in fellowship with the worthy. *
-(Satguru Subramuniyaswami)
+०४४६  
+Foes are rendered ineffective by one  
+Who lives in fellowship with the worthy. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४६</summary>
@@ -312,14 +311,14 @@ Has none to fear from frightful foes.        446
 
 <details><summary>मूलम् - ४४६</summary>
 
-तक्का रिऩत्तऩाय्त् ताऩॊऴुग वल्लाऩैच्
-चॆऱ्ऱार् सॆयक्किडन्द तिल्। ४४६
+तक्का रिऩत्तऩाय्त् ताऩॊऴुग वल्लाऩैच्  
+चॆऱ्ऱार् सॆयक्किडन्द तिल्। ४४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४७</summary>
 
-इडिक्कुन् दुणैयारै याळ्वरै यारे
-कॆडुक्कुन् दगैमै यवर्। ४४७
+इडिक्कुन् दुणैयारै याळ्वरै यारे  
+कॆडुक्कुन् दगैमै यवर्। ४४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४७</summary>
@@ -330,10 +329,10 @@ Has none to fear from frightful foes.        446
 
 <details><summary>NVK Ashraf choice (en) - ४४७</summary>
 
-०४४७
-Who can ruin the man who commands
-The friendship of those who can reprove him?
-(V.V.S. Aiyar)
+०४४७  
+Who can ruin the man who commands  
+The friendship of those who can reprove him?  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४४७</summary>
@@ -369,14 +368,14 @@ whose friends reprove him when he errs.        447
 
 <details><summary>मूलम् - ४४७</summary>
 
-इडिक्कुन् दुणैयारै याळ्वरै यारे
-कॆडुक्कुन् दगैमै यवर्। ४४७
+इडिक्कुन् दुणैयारै याळ्वरै यारे  
+कॆडुक्कुन् दगैमै यवर्। ४४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४८</summary>
 
-इडिप्पारै इल्लाद एमरा मऩ्ऩऩ्
-कॆडुप्पा रिलाऩुङ् गॆडुम्। ४४८
+इडिप्पारै इल्लाद एमरा मऩ्ऩऩ्  
+कॆडुप्पा रिलाऩुङ् गॆडुम्। ४४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४८</summary>
@@ -387,10 +386,10 @@ whose friends reprove him when he errs.        447
 
 <details><summary>NVK Ashraf choice (en) - ४४८</summary>
 
-०४४८
-A king unguarded with reproving counsel
-Needs no foes to come to grief. *
-(P.S. Sundaram)
+०४४८  
+A king unguarded with reproving counsel  
+Needs no foes to come to grief. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४८</summary>
@@ -421,14 +420,14 @@ Ruins himself sans harmful foes.        448
 
 <details><summary>मूलम् - ४४८</summary>
 
-इडिप्पारै इल्लाद एमरा मऩ्ऩऩ्
-कॆडुप्पा रिलाऩुङ् गॆडुम्। ४४८
+इडिप्पारै इल्लाद एमरा मऩ्ऩऩ्  
+कॆडुप्पा रिलाऩुङ् गॆडुम्। ४४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४९</summary>
 
-मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्
-जार्बिलार्क् किल्लै निलै। ४४९
+मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्  
+जार्बिलार्क् किल्लै निलै। ४४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४९</summary>
@@ -439,10 +438,10 @@ Ruins himself sans harmful foes.        448
 
 <details><summary>NVK Ashraf choice (en) - ४४९</summary>
 
-०४४९
-There can be no gain without capital,
-And no stability unpropped by wise counsel.
-(P.S. Sundaram)
+०४४९  
+There can be no gain without capital,  
+And no stability unpropped by wise counsel.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४९</summary>
@@ -473,14 +472,14 @@ No prop secure sans good comrade.        449
 
 <details><summary>मूलम् - ४४९</summary>
 
-मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्
-जार्बिलार्क् किल्लै निलै। ४४९
+मुदलिलार्ग ऊदिय मिल्लै मदलैयाञ्  
+जार्बिलार्क् किल्लै निलै। ४४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५०</summary>
 
-पल्लार् पगै कॊळलिऱ् पत्तडुत्त तीमैत्ते
-नल्लार् तॊडर्गै विडल्। ४५०
+पल्लार् पगै कॊळलिऱ् पत्तडुत्त तीमैत्ते  
+नल्लार् तॊडर्गै विडल्। ४५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५०</summary>
@@ -491,10 +490,10 @@ No prop secure sans good comrade.        449
 
 <details><summary>NVK Ashraf choice (en) - ४५०</summary>
 
-०४५०
-To give up good friends is ten times worse than
-Being hated by countless foes.
-( Shuddhananda Bharatiar)
+०४५०  
+To give up good friends is ten times worse than  
+Being hated by countless foes.  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५०</summary>
@@ -524,7 +523,7 @@ Than being hated by countless foes.        450
 
 <details><summary>मूलम् - ४५०</summary>
 
-पल्लार् पगै कॊळलिऱ् पत्तडुत्त तीमैत्ते
-नल्लार् तॊडर्गै विडल्। ४५०
+पल्लार् पगै कॊळलिऱ् पत्तडुत्त तीमैत्ते  
+नल्लार् तॊडर्गै विडल्। ४५०  
 </details>
 

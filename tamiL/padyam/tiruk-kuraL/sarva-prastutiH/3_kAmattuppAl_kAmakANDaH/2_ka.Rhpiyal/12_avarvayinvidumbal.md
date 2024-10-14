@@ -3,11 +3,10 @@ title = "१२ अवर्वयिन्विदुम्बल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १२६१</summary>
 
-वाळऱ्ऱुप् पुऱ्कॆऩ्ऱ कण्णुम् अवर्सॆऩ्ऱ
-नाळॊऱ्ऱित् तेय्न्द विरल्। १२६१
+वाळऱ्ऱुप् पुऱ्कॆऩ्ऱ कण्णुम् अवर्सॆऩ्ऱ  
+नाळॊऱ्ऱित् तेय्न्द विरल्। १२६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६१</summary>
@@ -18,10 +17,10 @@ title = "१२ अवर्वयिन्विदुम्बल्"
 
 <details><summary>NVK Ashraf choice (en) - १२६१</summary>
 
-१२६१
-My eyes have lost their glow and my fingers worn out
-Marking the days of his absence. *
-(K. Kannan)
+१२६१  
+My eyes have lost their glow and my fingers worn out  
+Marking the days of his absence. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२६१</summary>
@@ -56,14 +55,14 @@ Worn fingers count days since he left.        1261
 
 <details><summary>मूलम् - १२६१</summary>
 
-वाळऱ्ऱुप् पुऱ्कॆऩ्ऱ कण्णुम् अवर्सॆऩ्ऱ
-नाळॊऱ्ऱित् तेय्न्द विरल्। १२६१
+वाळऱ्ऱुप् पुऱ्कॆऩ्ऱ कण्णुम् अवर्सॆऩ्ऱ  
+नाळॊऱ्ऱित् तेय्न्द विरल्। १२६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६२</summary>
 
-इलङ्गिऴाय् इऩ्ऱु मऱप्पिऩ्ऎऩ् तोळ्मेल्
-कलङ्गऴियुम् कारिगै नीत्तु। १२६२
+इलङ्गिऴाय् इऩ्ऱु मऱप्पिऩ्ऎऩ् तोळ्मेल्  
+कलङ्गऴियुम् कारिगै नीत्तु। १२६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६२</summary>
@@ -74,10 +73,10 @@ Worn fingers count days since he left.        1261
 
 <details><summary>NVK Ashraf choice (en) - १२६२</summary>
 
-१२६२
-What if I forget him now, my bright jewel?
-For it costs my beauty and armlets! *
-(K.R. Srinivasa Iyengar), (S.M. Diaz)
+१२६२  
+What if I forget him now, my bright jewel?  
+For it costs my beauty and armlets! *  
+(K.R. Srinivasa Iyengar), (S.M. Diaz)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२६२</summary>
@@ -117,14 +116,14 @@ Why not forget him now, bright maid?        1262
 
 <details><summary>मूलम् - १२६२</summary>
 
-इलङ्गिऴाय् इऩ्ऱु मऱप्पिऩ्ऎऩ् तोळ्मेल्
-कलङ्गऴियुम् कारिगै नीत्तु। १२६२
+इलङ्गिऴाय् इऩ्ऱु मऱप्पिऩ्ऎऩ् तोळ्मेल्  
+कलङ्गऴियुम् कारिगै नीत्तु। १२६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६३</summary>
 
-उरऩ्नसैइ उळ्ळम् तुणैयागच् चॆऩ्ऱार्
-वरल्नसैइ इऩ्ऩुम् उळेऩ्। १२६३
+उरऩ्नसैइ उळ्ळम् तुणैयागच् चॆऩ्ऱार्  
+वरल्नसैइ इऩ्ऩुम् उळेऩ्। १२६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६३</summary>
@@ -135,10 +134,10 @@ Why not forget him now, bright maid?        1262
 
 <details><summary>NVK Ashraf choice (en) - १२६३</summary>
 
-१२६३
-He parted from me longing for conquests;
-And if I live yet, it is longing for his return. *
-(V.V.S. Aiyar)
+१२६३  
+He parted from me longing for conquests;  
+And if I live yet, it is longing for his return. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२६३</summary>
@@ -178,14 +177,14 @@ Yet I live-to see him again.        1263
 
 <details><summary>मूलम् - १२६३</summary>
 
-उरऩ्नसैइ उळ्ळम् तुणैयागच् चॆऩ्ऱार्
-वरल्नसैइ इऩ्ऩुम् उळेऩ्। १२६३
+उरऩ्नसैइ उळ्ळम् तुणैयागच् चॆऩ्ऱार्  
+वरल्नसैइ इऩ्ऩुम् उळेऩ्। १२६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६४</summary>
 
-कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्
-कोडुगॊ टेऱुमॆऩ् नॆञ्जु। १२६४
+कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्  
+कोडुगॊ टेऱुमॆऩ् नॆञ्जु। १२६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६४</summary>
@@ -196,10 +195,10 @@ Yet I live-to see him again.        1263
 
 <details><summary>NVK Ashraf choice (en) - १२६४</summary>
 
-१२६४
-The thought of reunion when my love returns
-Makes my heart burgeon higher and higher.
-(P.S. Sundaram)
+१२६४  
+The thought of reunion when my love returns  
+Makes my heart burgeon higher and higher.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२६४</summary>
@@ -239,14 +238,14 @@ His retun with love to embrace me.        1264
 
 <details><summary>मूलम् - १२६४</summary>
 
-कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्
-कोडुगॊ टेऱुमॆऩ् नॆञ्जु। १२६४
+कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्  
+कोडुगॊ टेऱुमॆऩ् नॆञ्जु। १२६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६५</summary>
 
-काण्गमऩ् कॊण्गऩैक् कण्णारक् कण्डबिऩ्
-नीङ्गुम्ऎऩ् मॆऩ्तोळ् पसप्पु। १२६५
+काण्गमऩ् कॊण्गऩैक् कण्णारक् कण्डबिऩ्  
+नीङ्गुम्ऎऩ् मॆऩ्तोळ् पसप्पु। १२६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६५</summary>
@@ -257,10 +256,10 @@ His retun with love to embrace me.        1264
 
 <details><summary>NVK Ashraf choice (en) - १२६५</summary>
 
-१२६५
-Pallor will soon disappear from my slim shoulders,
-Once my eyes feast seeing him.
-(N.V.K. Ashraf)
+१२६५  
+Pallor will soon disappear from my slim shoulders,  
+Once my eyes feast seeing him.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२६५</summary>
@@ -295,14 +294,14 @@ sallow on my soft shoulders flies.        1265
 
 <details><summary>मूलम् - १२६५</summary>
 
-काण्गमऩ् कॊण्गऩैक् कण्णारक् कण्डबिऩ्
-नीङ्गुम्ऎऩ् मॆऩ्तोळ् पसप्पु। १२६५
+काण्गमऩ् कॊण्गऩैक् कण्णारक् कण्डबिऩ्  
+नीङ्गुम्ऎऩ् मॆऩ्तोळ् पसप्पु। १२६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६६</summary>
 
-वरुगमऩ् कॊण्गऩ् ऒरुनाळ् परुगुवऩ्
-पैदल्नोय् ऎल्लाम् कॆड। १२६६
+वरुगमऩ् कॊण्गऩ् ऒरुनाळ् परुगुवऩ्  
+पैदल्नोय् ऎल्लाम् कॆड। १२६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६६</summary>
@@ -313,10 +312,10 @@ sallow on my soft shoulders flies.        1265
 
 <details><summary>NVK Ashraf choice (en) - १२६६</summary>
 
-१२६६
-Enough if he returns for a day,
-I will gorge him till all my ills vanish.
-(N.V.K. Ashraf)
+१२६६  
+Enough if he returns for a day,  
+I will gorge him till all my ills vanish.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२६६</summary>
@@ -351,14 +350,14 @@ Joy-drink shall drive my pain away.        1266
 
 <details><summary>मूलम् - १२६६</summary>
 
-वरुगमऩ् कॊण्गऩ् ऒरुनाळ् परुगुवऩ्
-पैदल्नोय् ऎल्लाम् कॆड। १२६६
+वरुगमऩ् कॊण्गऩ् ऒरुनाळ् परुगुवऩ्  
+पैदल्नोय् ऎल्लाम् कॆड। १२६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६७</summary>
 
-पुलप्पेऩ्कॊल् पुल्लुवेऩ् कॊल्लो कलप्पेऩ्कॊल्
-कण्अऩ्ऩ केळिर् विरऩ्। १२६७
+पुलप्पेऩ्कॊल् पुल्लुवेऩ् कॊल्लो कलप्पेऩ्कॊल्  
+कण्अऩ्ऩ केळिर् विरऩ्। १२६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६७</summary>
@@ -369,10 +368,10 @@ Joy-drink shall drive my pain away.        1266
 
 <details><summary>NVK Ashraf choice (en) - १२६७</summary>
 
-१२६७
-When he, dear as my eyes, returns,
-Should I frown or embrace him or do both? *
-(K.R. Srinivasa Iyengar)
+१२६७  
+When he, dear as my eyes, returns,  
+Should I frown or embrace him or do both? *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२६७</summary>
@@ -407,14 +406,14 @@ Shall I sulk or clasp or do both?        1267
 
 <details><summary>मूलम् - १२६७</summary>
 
-पुलप्पेऩ्कॊल् पुल्लुवेऩ् कॊल्लो कलप्पेऩ्कॊल्
-कण्अऩ्ऩ केळिर् विरऩ्। १२६७
+पुलप्पेऩ्कॊल् पुल्लुवेऩ् कॊल्लो कलप्पेऩ्कॊल्  
+कण्अऩ्ऩ केळिर् विरऩ्। १२६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६८</summary>
 
-विऩैगलन्दु वॆऩ्ऱीग वेन्दऩ् मऩैगलन्दु
-मालै अयर्गम् विरुन्दु। १२६८
+विऩैगलन्दु वॆऩ्ऱीग वेन्दऩ् मऩैगलन्दु  
+मालै अयर्गम् विरुन्दु। १२६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६८</summary>
@@ -425,10 +424,10 @@ Shall I sulk or clasp or do both?        1267
 
 <details><summary>NVK Ashraf choice (en) - १२६८</summary>
 
-१२६८
-May the king succeed in his efforts!
-I can then join my wife and party in the evenings.
-(N.V.K. Ashraf)
+१२६८  
+May the king succeed in his efforts!  
+I can then join my wife and party in the evenings.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२६८</summary>
@@ -463,14 +462,14 @@ And with my wife I will feast this eve!        1268
 
 <details><summary>मूलम् - १२६८</summary>
 
-विऩैगलन्दु वॆऩ्ऱीग वेन्दऩ् मऩैगलन्दु
-मालै अयर्गम् विरुन्दु। १२६८
+विऩैगलन्दु वॆऩ्ऱीग वेन्दऩ् मऩैगलन्दु  
+मालै अयर्गम् विरुन्दु। १२६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२६९</summary>
 
-ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुंसेण् सॆऩ्ऱार्
-वरुनाळ्वैत्तु एङ्गु पवर्क्कु। १२६९
+ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुंसेण् सॆऩ्ऱार्  
+वरुनाळ्वैत्तु एङ्गु पवर्क्कु। १२६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६९</summary>
@@ -481,10 +480,10 @@ And with my wife I will feast this eve!        1268
 
 <details><summary>NVK Ashraf choice (en) - १२६९</summary>
 
-१२६९
-Even a day will seem seven to those
-Who long for the day of their mate’s return.
-(N.V.K. Ashraf)
+१२६९  
+Even a day will seem seven to those  
+Who long for the day of their mate’s return.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२६९</summary>
@@ -519,14 +518,14 @@ Who yearn return of distant spouse.        1269
 
 <details><summary>मूलम् - १२६९</summary>
 
-ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुंसेण् सॆऩ्ऱार्
-वरुनाळ्वैत्तु एङ्गु पवर्क्कु। १२६९
+ऒरुनाळ् ऎऴुनाळ्बोल् सॆल्लुंसेण् सॆऩ्ऱार्  
+वरुनाळ्वैत्तु एङ्गु पवर्क्कु। १२६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२७०</summary>
 
-पॆऱिऩ्ऎऩ्ऩाम् पॆऱ्ऱक्काल् ऎऩ्ऩाम् उऱिऩॆऩ्ऩाम्
-उळ्ळम् उडैन्दुक्कक् काल्। १२७०
+पॆऱिऩ्ऎऩ्ऩाम् पॆऱ्ऱक्काल् ऎऩ्ऩाम् उऱिऩॆऩ्ऩाम्  
+उळ्ळम् उडैन्दुक्कक् काल्। १२७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२७०</summary>
@@ -537,10 +536,10 @@ Who yearn return of distant spouse.        1269
 
 <details><summary>NVK Ashraf choice (en) - १२७०</summary>
 
-१२७०
-To one dead of a broken heart, what avails my return,
-Meeting or even embrace?
-(V.V.S. Aiyar), (P.S. Sundaram)
+१२७०  
+To one dead of a broken heart, what avails my return,  
+Meeting or even embrace?  
+(V.V.S. Aiyar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२७०</summary>
@@ -574,7 +573,7 @@ The good of meeting and love-embrace?        1270
 
 <details><summary>मूलम् - १२७०</summary>
 
-पॆऱिऩ्ऎऩ्ऩाम् पॆऱ्ऱक्काल् ऎऩ्ऩाम् उऱिऩॆऩ्ऩाम्
-उळ्ळम् उडैन्दुक्कक् काल्। १२७०
+पॆऱिऩ्ऎऩ्ऩाम् पॆऱ्ऱक्काल् ऎऩ्ऩाम् उऱिऩॆऩ्ऩाम्  
+उळ्ळम् उडैन्दुक्कक् काल्। १२७०  
 </details>
 

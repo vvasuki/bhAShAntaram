@@ -3,11 +3,10 @@ title = "१८ ऊडलुवगै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १३२१</summary>
 
-इल्लै तवऱवर्क्कु आयिऩुम् ऊडुदल्
-वल्लदु अवर्अळिक्कु माऱु। १३२१
+इल्लै तवऱवर्क्कु आयिऩुम् ऊडुदल्  
+वल्लदु अवर्अळिक्कु माऱु। १३२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२१</summary>
@@ -18,10 +17,10 @@ title = "१८ ऊडलुवगै"
 
 <details><summary>NVK Ashraf choice (en) - १३२१</summary>
 
-१३२१
-Though he is not to blame, I feign sulking
-To bring out the best in him.
-(N.V.K. Ashraf)
+१३२१  
+Though he is not to blame, I feign sulking  
+To bring out the best in him.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १३२१</summary>
@@ -61,14 +60,14 @@ So that his loving ways show out.        1321
 
 <details><summary>मूलम् - १३२१</summary>
 
-इल्लै तवऱवर्क्कु आयिऩुम् ऊडुदल्
-वल्लदु अवर्अळिक्कु माऱु। १३२१
+इल्लै तवऱवर्क्कु आयिऩुम् ऊडुदल्  
+वल्लदु अवर्अळिक्कु माऱु। १३२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२२</summary>
 
-ऊडलिऩ् तोऩ्ऱुम् सिऱुदुऩि नल्लळि
-वाडिऩुम् पाडु पॆऱुम्। १३२२
+ऊडलिऩ् तोऩ्ऱुम् सिऱुदुऩि नल्लळि  
+वाडिऩुम् पाडु पॆऱुम्। १३२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२२</summary>
@@ -79,10 +78,10 @@ So that his loving ways show out.        1321
 
 <details><summary>NVK Ashraf choice (en) - १३२२</summary>
 
-१३२२
-The pinpricks of sulking do not discourage
-But strengthen love.
-(P.S. Sundaram)
+१३२२  
+The pinpricks of sulking do not discourage  
+But strengthen love.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२२</summary>
@@ -117,14 +116,14 @@ The petty pricks that pouting gives.        1322
 
 <details><summary>मूलम् - १३२२</summary>
 
-ऊडलिऩ् तोऩ्ऱुम् सिऱुदुऩि नल्लळि
-वाडिऩुम् पाडु पॆऱुम्। १३२२
+ऊडलिऩ् तोऩ्ऱुम् सिऱुदुऩि नल्लळि  
+वाडिऩुम् पाडु पॆऱुम्। १३२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२३</summary>
 
-पुलत्तलिऩ् पुत्तेळ्नाडु उण्डो निलत्तॊडु
-नीरियैन् दऩ्ऩार् अगत्तु। १३२३
+पुलत्तलिऩ् पुत्तेळ्नाडु उण्डो निलत्तॊडु  
+नीरियैन् दऩ्ऩार् अगत्तु। १३२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२३</summary>
@@ -135,10 +134,10 @@ The petty pricks that pouting gives.        1322
 
 <details><summary>NVK Ashraf choice (en) - १३२३</summary>
 
-१३२३
-Is there a heaven higher than love’s sulk
-With hearts that join like earth and water?
-( Shuddhananda Bharatiar), (V.V.S. Aiyar)
+१३२३  
+Is there a heaven higher than love’s sulk  
+With hearts that join like earth and water?  
+( Shuddhananda Bharatiar), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२३</summary>
@@ -173,14 +172,14 @@ Of hearts that join like water and earth?        1323
 
 <details><summary>मूलम् - १३२३</summary>
 
-पुलत्तलिऩ् पुत्तेळ्नाडु उण्डो निलत्तॊडु
-नीरियैन् दऩ्ऩार् अगत्तु। १३२३
+पुलत्तलिऩ् पुत्तेळ्नाडु उण्डो निलत्तॊडु  
+नीरियैन् दऩ्ऩार् अगत्तु। १३२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२४</summary>
 
-पुल्लि विडाअप् पुलवियुळ् तोऩ्ऱुमॆऩ्
-उळ्ळम् उडैक्कुम् पडै। १३२४
+पुल्लि विडाअप् पुलवियुळ् तोऩ्ऱुमॆऩ्  
+उळ्ळम् उडैक्कुम् पडै। १३२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२४</summary>
@@ -191,10 +190,10 @@ Of hearts that join like water and earth?        1323
 
 <details><summary>NVK Ashraf choice (en) - १३२४</summary>
 
-१३२४
-From this prolonged pout arises the weapon
-To break the defence of my heart.
-(J. Narayanaswamy), (N.V.K. Ashraf)
+१३२४  
+From this prolonged pout arises the weapon  
+To break the defence of my heart.  
+(J. Narayanaswamy), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२४</summary>
@@ -229,14 +228,14 @@ A weapon is up to break my heart.        1324
 
 <details><summary>मूलम् - १३२४</summary>
 
-पुल्लि विडाअप् पुलवियुळ् तोऩ्ऱुमॆऩ्
-उळ्ळम् उडैक्कुम् पडै। १३२४
+पुल्लि विडाअप् पुलवियुळ् तोऩ्ऱुमॆऩ्  
+उळ्ळम् उडैक्कुम् पडै। १३२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२५</summary>
 
-तवऱिलर् आयिऩुम् तांवीऴ्वार् मॆऩ्ऱोळ्
-अगऱलिऩ् आङ्गॊऩ् ऱुडैत्तु। १३२५
+तवऱिलर् आयिऩुम् तांवीऴ्वार् मॆऩ्ऱोळ्  
+अगऱलिऩ् आङ्गॊऩ् ऱुडैत्तु। १३२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२५</summary>
@@ -247,10 +246,10 @@ A weapon is up to break my heart.        1324
 
 <details><summary>NVK Ashraf choice (en) - १३२५</summary>
 
-१३२५
-Even for the guiltless it is a joy to forgo briefly
-The shoulders from one’s clasp. *
-(P.S. Sundaram)
+१३२५  
+Even for the guiltless it is a joy to forgo briefly  
+The shoulders from one’s clasp. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२५</summary>
@@ -285,14 +284,14 @@ Of feigned release from lover's arms.        1325
 
 <details><summary>मूलम् - १३२५</summary>
 
-तवऱिलर् आयिऩुम् तांवीऴ्वार् मॆऩ्ऱोळ्
-अगऱलिऩ् आङ्गॊऩ् ऱुडैत्तु। १३२५
+तवऱिलर् आयिऩुम् तांवीऴ्वार् मॆऩ्ऱोळ्  
+अगऱलिऩ् आङ्गॊऩ् ऱुडैत्तु। १३२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२६</summary>
 
-उणलिऩुम् उण्डदु अऱल्इऩिदु कामम्
-पुणर्दलिऩ् ऊडल् इऩिदु। १३२६
+उणलिऩुम् उण्डदु अऱल्इऩिदु कामम्  
+पुणर्दलिऩ् ऊडल् इऩिदु। १३२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२६</summary>
@@ -303,10 +302,10 @@ Of feigned release from lover's arms.        1325
 
 <details><summary>NVK Ashraf choice (en) - १३२६</summary>
 
-१३२६
-More joyous than the meal is its digestion.
-So is sulking more joyous than union.
-(N.V.K. Ashraf), (V.V.S. Aiyar)
+१३२६  
+More joyous than the meal is its digestion.  
+So is sulking more joyous than union.  
+(N.V.K. Ashraf), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२६</summary>
@@ -341,14 +340,14 @@ And sulk in love than union.        1326
 
 <details><summary>मूलम् - १३२६</summary>
 
-उणलिऩुम् उण्डदु अऱल्इऩिदु कामम्
-पुणर्दलिऩ् ऊडल् इऩिदु। १३२६
+उणलिऩुम् उण्डदु अऱल्इऩिदु कामम्  
+पुणर्दलिऩ् ऊडल् इऩिदु। १३२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२७</summary>
 
-ऊडलिल् तोऱ्ऱवर् वॆऩ्ऱार् अदुमऩ्ऩुम्
-कूडलिऱ् काणप् पडुम्। १३२७
+ऊडलिल् तोऱ्ऱवर् वॆऩ्ऱार् अदुमऩ्ऩुम्  
+कूडलिऱ् काणप् पडुम्। १३२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२७</summary>
@@ -359,10 +358,10 @@ And sulk in love than union.        1326
 
 <details><summary>NVK Ashraf choice (en) - १३२७</summary>
 
-१३२७
-In lovers' quarrels the loser wins,
-As shown when they make up.
-(P.S. Sundaram)
+१३२७  
+In lovers' quarrels the loser wins,  
+As shown when they make up.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२७</summary>
@@ -397,14 +396,14 @@ Reunited joy brings it out.        1327
 
 <details><summary>मूलम् - १३२७</summary>
 
-ऊडलिल् तोऱ्ऱवर् वॆऩ्ऱार् अदुमऩ्ऩुम्
-कूडलिऱ् काणप् पडुम्। १३२७
+ऊडलिल् तोऱ्ऱवर् वॆऩ्ऱार् अदुमऩ्ऩुम्  
+कूडलिऱ् काणप् पडुम्। १३२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२८</summary>
 
-ऊडिप् पॆऱुगुवम् कॊल्लो नुदल्वॆयर्प्पक्
-कूडलिल् तोऩ्ऱिय उप्पु। १३२८
+ऊडिप् पॆऱुगुवम् कॊल्लो नुदल्वॆयर्प्पक्  
+कूडलिल् तोऩ्ऱिय उप्पु। १३२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२८</summary>
@@ -415,10 +414,10 @@ Reunited joy brings it out.        1327
 
 <details><summary>NVK Ashraf choice (en) - १३२८</summary>
 
-१३२८
-Will she sulk again to bring back the pleasure
-Of that union drenched in sweat? *
-(K. Kannan)
+१३२८  
+Will she sulk again to bring back the pleasure  
+Of that union drenched in sweat? *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२८</summary>
@@ -453,14 +452,14 @@ The dew-browed joy of joint love?        1328
 
 <details><summary>मूलम् - १३२८</summary>
 
-ऊडिप् पॆऱुगुवम् कॊल्लो नुदल्वॆयर्प्पक्
-कूडलिल् तोऩ्ऱिय उप्पु। १३२८
+ऊडिप् पॆऱुगुवम् कॊल्लो नुदल्वॆयर्प्पक्  
+कूडलिल् तोऩ्ऱिय उप्पु। १३२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२९</summary>
 
-ऊडुग मऩ्ऩो ऒळियिऴै यामिरप्प
-नीडुग मऩ्ऩो इरा। १३२९
+ऊडुग मऩ्ऩो ऒळियिऴै यामिरप्प  
+नीडुग मऩ्ऩो इरा। १३२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२९</summary>
@@ -471,10 +470,10 @@ The dew-browed joy of joint love?        1328
 
 <details><summary>NVK Ashraf choice (en) - १३२९</summary>
 
-१३२९
-May the bright-jewel sulk,
-And may the night be prolonged for me to implore her! *
-(W.H. Drew and J. Lazarus)
+१३२९  
+May the bright-jewel sulk,  
+And may the night be prolonged for me to implore her! *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२९</summary>
@@ -509,14 +508,14 @@ Prolong O night! our delight swells!        1329
 
 <details><summary>मूलम् - १३२९</summary>
 
-ऊडुग मऩ्ऩो ऒळियिऴै यामिरप्प
-नीडुग मऩ्ऩो इरा। १३२९
+ऊडुग मऩ्ऩो ऒळियिऴै यामिरप्प  
+नीडुग मऩ्ऩो इरा। १३२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३३०</summary>
 
-ऊडुदल् कामत्तिऱ्कु इऩ्पम् अदऱ्किऩ्पम्
-कूडि मुयङ्गप् पॆऱिऩ्। १३३०
+ऊडुदल् कामत्तिऱ्कु इऩ्पम् अदऱ्किऩ्पम्  
+कूडि मुयङ्गप् पॆऱिऩ्। १३३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३३०</summary>
@@ -527,10 +526,10 @@ Prolong O night! our delight swells!        1329
 
 <details><summary>NVK Ashraf choice (en) - १३३०</summary>
 
-१३३०
-The joy of love lies in sulking, for that joy is realized
-While embracing in union.
-(N.V.K. Ashraf)
+१३३०  
+The joy of love lies in sulking, for that joy is realized  
+While embracing in union.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३३०</summary>
@@ -563,9 +562,12 @@ Its delight grows when they unite        1330
 
 <details><summary>मूलम् - १३३०</summary>
 
-ऊडुदल् कामत्तिऱ्कु इऩ्पम् अदऱ्किऩ्पम्
-कूडि मुयङ्गप् पॆऱिऩ्। १३३०
+ऊडुदल् कामत्तिऱ्कु इऩ्पम् अदऱ्किऩ्पम्  
+कूडि मुयङ्गप् पॆऱिऩ्। १३३०  
 </details>
+
+
+
 
 कऱ्पियल् मुऱ्ऱिऱ्ऱु  
 कामत्तुप्पाल् मुऱ्ऱिऱ्ऱु  

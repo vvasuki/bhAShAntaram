@@ -3,11 +3,10 @@ title = "०७ वॆगुळामै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ३०१</summary>
 
-सॆल्लिडत्तुक् काप्पाऩ् सिऩङ्गाप्पाऩ् अल्लिडत्तुक्
-काक्किऩ्ऎऩ् कावाक्काल् ऎऩ्? ३०१
+सॆल्लिडत्तुक् काप्पाऩ् सिऩङ्गाप्पाऩ् अल्लिडत्तुक्  
+काक्किऩ्ऎऩ् कावाक्काल् ऎऩ्? ३०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०१</summary>
@@ -18,10 +17,10 @@ title = "०७ वॆगुळामै"
 
 <details><summary>NVK Ashraf choice (en) - ३०१</summary>
 
-०३०१
-Curb wrath in places where it matters. In other places,
-What matters if curbed or uncurbed? *
-(N.V.K. Ashraf), (P.S. Sundaram)
+०३०१  
+Curb wrath in places where it matters. In other places,  
+What matters if curbed or uncurbed? *  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०१</summary>
@@ -56,14 +55,14 @@ It is futile against the strong.        301
 
 <details><summary>मूलम् - ३०१</summary>
 
-सॆल्लिडत्तुक् काप्पाऩ् सिऩङ्गाप्पाऩ् अल्लिडत्तुक्
-काक्किऩ्ऎऩ् कावाक्काल् ऎऩ्? ३०१
+सॆल्लिडत्तुक् काप्पाऩ् सिऩङ्गाप्पाऩ् अल्लिडत्तुक्  
+काक्किऩ्ऎऩ् कावाक्काल् ऎऩ्? ३०१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०२</summary>
 
-सॆल्ला इडत्तुच् चिऩन्दीदु सॆल्लिडत्तुम्
-इल्अदऩिऩ् तीय पिऱ। ३०२
+सॆल्ला इडत्तुच् चिऩन्दीदु सॆल्लिडत्तुम्  
+इल्अदऩिऩ् तीय पिऱ। ३०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०२</summary>
@@ -74,10 +73,10 @@ It is futile against the strong.        301
 
 <details><summary>NVK Ashraf choice (en) - ३०२</summary>
 
-०३०२
-Even where it cannot hurt others, anger is bad;
-But where it does, there is nothing worse.
-(S.M. Diaz)
+०३०२  
+Even where it cannot hurt others, anger is bad;  
+But where it does, there is nothing worse.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०२</summary>
@@ -112,14 +111,14 @@ Against the meek it is still worse.        302
 
 <details><summary>मूलम् - ३०२</summary>
 
-सॆल्ला इडत्तुच् चिऩन्दीदु सॆल्लिडत्तुम्
-इल्अदऩिऩ् तीय पिऱ। ३०२
+सॆल्ला इडत्तुच् चिऩन्दीदु सॆल्लिडत्तुम्  
+इल्अदऩिऩ् तीय पिऱ। ३०२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०३</summary>
 
-मऱत्तल् वॆगुळियै यार्माट्टुम् तीय
-पिऱत्तल् अदऩाऩ् वरुम्। ३०३
+मऱत्तल् वॆगुळियै यार्माट्टुम् तीय  
+पिऱत्तल् अदऩाऩ् वरुम्। ३०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०३</summary>
@@ -130,10 +129,10 @@ Against the meek it is still worse.        302
 
 <details><summary>NVK Ashraf choice (en) - ३०३</summary>
 
-०३०३
-From anger is born all evil.
-Forget provocation given by anyone. *
-(C. Rajagopalachari)
+०३०३  
+From anger is born all evil.  
+Forget provocation given by anyone. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०३</summary>
@@ -167,14 +166,14 @@ It is the source of sin and pain.        303
 
 <details><summary>मूलम् - ३०३</summary>
 
-मऱत्तल् वॆगुळियै यार्माट्टुम् तीय
-पिऱत्तल् अदऩाऩ् वरुम्। ३०३
+मऱत्तल् वॆगुळियै यार्माट्टुम् तीय  
+पिऱत्तल् अदऩाऩ् वरुम्। ३०३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०४</summary>
 
-नगैयुम् उवगैयुम् कॊल्लुम् सिऩत्तिऩ्
-पगैयुम् उळवो पिऱ। ३०४
+नगैयुम् उवगैयुम् कॊल्लुम् सिऩत्तिऩ्  
+पगैयुम् उळवो पिऱ। ३०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०४</summary>
@@ -185,10 +184,10 @@ It is the source of sin and pain.        303
 
 <details><summary>NVK Ashraf choice (en) - ३०४</summary>
 
-०३०४
-Can there be a greater foe than anger
-Which kills laughter and joy? *
-(C. Rajagopalachari)
+०३०४  
+Can there be a greater foe than anger  
+Which kills laughter and joy? *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०४</summary>
@@ -222,14 +221,14 @@ Which kills the smile and joyful cheer?        304
 
 <details><summary>मूलम् - ३०४</summary>
 
-नगैयुम् उवगैयुम् कॊल्लुम् सिऩत्तिऩ्
-पगैयुम् उळवो पिऱ। ३०४
+नगैयुम् उवगैयुम् कॊल्लुम् सिऩत्तिऩ्  
+पगैयुम् उळवो पिऱ। ३०४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०५</summary>
 
-तऩ्ऩैत्ताऩ् काक्किऩ् सिऩङ्गाक्क कावाक्काल्
-तऩ्ऩैये कॊल्लुञ् जिऩम्। ३०५
+तऩ्ऩैत्ताऩ् काक्किऩ् सिऩङ्गाक्क कावाक्काल्  
+तऩ्ऩैये कॊल्लुञ् जिऩम्। ३०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०५</summary>
@@ -240,10 +239,10 @@ Which kills the smile and joyful cheer?        304
 
 <details><summary>NVK Ashraf choice (en) - ३०५</summary>
 
-०३०५
-If you want to guard yourself, guard against anger;
-If unguarded, anger will kill you. *
-(S.M. Diaz)
+०३०५  
+If you want to guard yourself, guard against anger;  
+If unguarded, anger will kill you. *  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०५</summary>
@@ -278,14 +277,14 @@ If not thyself the wrath will slay.        305
 
 <details><summary>मूलम् - ३०५</summary>
 
-तऩ्ऩैत्ताऩ् काक्किऩ् सिऩङ्गाक्क कावाक्काल्
-तऩ्ऩैये कॊल्लुञ् जिऩम्। ३०५
+तऩ्ऩैत्ताऩ् काक्किऩ् सिऩङ्गाक्क कावाक्काल्  
+तऩ्ऩैये कॊल्लुञ् जिऩम्। ३०५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०६</summary>
 
-सिऩमॆऩ्ऩुम् सेर्न्दारैक् कॊल्लि इऩमॆऩ्ऩुम्
-एमप् पुणैयैच् चुडुम्। ३०६
+सिऩमॆऩ्ऩुम् सेर्न्दारैक् कॊल्लि इऩमॆऩ्ऩुम्  
+एमप् पुणैयैच् चुडुम्। ३०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०६</summary>
@@ -296,10 +295,10 @@ If not thyself the wrath will slay.        305
 
 <details><summary>NVK Ashraf choice (en) - ३०६</summary>
 
-०३०६
-The fire of anger which kills kinsmen
-Burns the life-saving boat of kith and kin.
-(N.V.K. Ashraf), (J. Narayanaswamy)
+०३०६  
+The fire of anger which kills kinsmen  
+Burns the life-saving boat of kith and kin.  
+(N.V.K. Ashraf), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०६</summary>
@@ -334,14 +333,14 @@ It burns the helpful kinship-barge.        306
 
 <details><summary>मूलम् - ३०६</summary>
 
-सिऩमॆऩ्ऩुम् सेर्न्दारैक् कॊल्लि इऩमॆऩ्ऩुम्
-एमप् पुणैयैच् चुडुम्। ३०६
+सिऩमॆऩ्ऩुम् सेर्न्दारैक् कॊल्लि इऩमॆऩ्ऩुम्  
+एमप् पुणैयैच् चुडुम्। ३०६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०७</summary>
 
-सिऩत्तैप् पॊरुळॆऩ्ऱु कॊण्डवऩ् केडु
-निलत्तऱैन्दाऩ् कैबिऴैया तऱ्ऱु। ३०७
+सिऩत्तैप् पॊरुळॆऩ्ऱु कॊण्डवऩ् केडु  
+निलत्तऱैन्दाऩ् कैबिऴैया तऱ्ऱु। ३०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०७</summary>
@@ -352,10 +351,10 @@ It burns the helpful kinship-barge.        306
 
 <details><summary>NVK Ashraf choice (en) - ३०७</summary>
 
-०३०७
-He who holds anger worthy will be hurt
-Like the hands that smash the earth. *
-(C. Rajagopalachari), (K. Kannan)
+०३०७  
+He who holds anger worthy will be hurt  
+Like the hands that smash the earth. *  
+(C. Rajagopalachari), (K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०७</summary>
@@ -390,14 +389,14 @@ Like failless-hand that strikes the ground.        307
 
 <details><summary>मूलम् - ३०७</summary>
 
-सिऩत्तैप् पॊरुळॆऩ्ऱु कॊण्डवऩ् केडु
-निलत्तऱैन्दाऩ् कैबिऴैया तऱ्ऱु। ३०७
+सिऩत्तैप् पॊरुळॆऩ्ऱु कॊण्डवऩ् केडु  
+निलत्तऱैन्दाऩ् कैबिऴैया तऱ्ऱु। ३०७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०८</summary>
 
-इणर्ऎरि तोय्वऩ्ऩ इऩ्ऩा सॆयिऩुम्
-पुणरिऩ् वॆगुळामै नऩ्ऱु। ३०८
+इणर्ऎरि तोय्वऩ्ऩ इऩ्ऩा सॆयिऩुम्  
+पुणरिऩ् वॆगुळामै नऩ्ऱु। ३०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०८</summary>
@@ -408,10 +407,10 @@ Like failless-hand that strikes the ground.        307
 
 <details><summary>NVK Ashraf choice (en) - ३०८</summary>
 
-०३०८
-Better curb one's wrath even if tortured
-Like being forced into blazing fire.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०३०८  
+Better curb one's wrath even if tortured  
+Like being forced into blazing fire.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३०८</summary>
@@ -446,14 +445,14 @@ Though tortured like the touch of fire.        308
 
 <details><summary>मूलम् - ३०८</summary>
 
-इणर्ऎरि तोय्वऩ्ऩ इऩ्ऩा सॆयिऩुम्
-पुणरिऩ् वॆगुळामै नऩ्ऱु। ३०८
+इणर्ऎरि तोय्वऩ्ऩ इऩ्ऩा सॆयिऩुम्  
+पुणरिऩ् वॆगुळामै नऩ्ऱु। ३०८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३०९</summary>
 
-उळ्ळिय तॆल्लाम् उडऩॆय्दुम् उळ्ळत्ताल्
-उळ्ळाऩ् वॆगुळि ऎऩिऩ्। ३०९
+उळ्ळिय तॆल्लाम् उडऩॆय्दुम् उळ्ळत्ताल्  
+उळ्ळाऩ् वॆगुळि ऎऩिऩ्। ३०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३०९</summary>
@@ -464,10 +463,10 @@ Though tortured like the touch of fire.        308
 
 <details><summary>NVK Ashraf choice (en) - ३०९</summary>
 
-०३०९
-All wishes are realized at once
-If they keep away wrath from their mind.
-(N.V.K. Ashraf)
+०३०९  
+All wishes are realized at once  
+If they keep away wrath from their mind.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३०९</summary>
@@ -506,14 +505,14 @@ If man refrains from rage vicious!        309
 
 <details><summary>मूलम् - ३०९</summary>
 
-उळ्ळिय तॆल्लाम् उडऩॆय्दुम् उळ्ळत्ताल्
-उळ्ळाऩ् वॆगुळि ऎऩिऩ्। ३०९
+उळ्ळिय तॆल्लाम् उडऩॆय्दुम् उळ्ळत्ताल्  
+उळ्ळाऩ् वॆगुळि ऎऩिऩ्। ३०९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१०</summary>
 
-इऱन्दार् इऱन्दार् अऩैयर् सिऩत्तैत्
-तुऱन्दार् तुऱन्दार् तुणै। ३१०
+इऱन्दार् इऱन्दार् अऩैयर् सिऩत्तैत्  
+तुऱन्दार् तुऱन्दार् तुणै। ३१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१०</summary>
@@ -524,10 +523,10 @@ If man refrains from rage vicious!        309
 
 <details><summary>NVK Ashraf choice (en) - ३१०</summary>
 
-०३१०
-Deem those given to anger dead
-And those renounced it on par with saints.
-(N.V.K. Ashraf)
+०३१०  
+Deem those given to anger dead  
+And those renounced it on par with saints.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३१०</summary>
@@ -567,7 +566,7 @@ Saints are they from whom wrath has fled.        310
 
 <details><summary>मूलम् - ३१०</summary>
 
-इऱन्दार् इऱन्दार् अऩैयर् सिऩत्तैत्
-तुऱन्दार् तुऱन्दार् तुणै। ३१०
+इऱन्दार् इऱन्दार् अऩैयर् सिऩत्तैत्  
+तुऱन्दार् तुऱन्दार् तुणै। ३१०  
 </details>
 

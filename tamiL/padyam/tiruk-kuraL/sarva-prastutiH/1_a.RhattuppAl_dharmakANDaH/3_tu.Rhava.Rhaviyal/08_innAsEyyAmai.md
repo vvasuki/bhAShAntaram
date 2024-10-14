@@ -3,11 +3,10 @@ title = "०८ इन्नासॆय्यामै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ३११</summary>
 
-सिऱप्पीऩुम् सॆल्वम् पॆऱिऩुम् पिऱर्क्कु इऩ्ऩा
-सॆय्यामै मासऱ्ऱार् कोळ्। ३११
+सिऱप्पीऩुम् सॆल्वम् पॆऱिऩुम् पिऱर्क्कु इऩ्ऩा  
+सॆय्यामै मासऱ्ऱार् कोळ्। ३११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३११</summary>
@@ -18,10 +17,10 @@ title = "०८ इन्नासॆय्यामै"
 
 <details><summary>NVK Ashraf choice (en) - ३११</summary>
 
-०३११
-The pure in heart will never hurt others
-Even for wealth that confers renown. *
-(P.S. Sundaram)
+०३११  
+The pure in heart will never hurt others  
+Even for wealth that confers renown. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३११</summary>
@@ -56,14 +55,14 @@ Though princely wealth by that is won.        311
 
 <details><summary>मूलम् - ३११</summary>
 
-सिऱप्पीऩुम् सॆल्वम् पॆऱिऩुम् पिऱर्क्कु इऩ्ऩा
-सॆय्यामै मासऱ्ऱार् कोळ्। ३११
+सिऱप्पीऩुम् सॆल्वम् पॆऱिऩुम् पिऱर्क्कु इऩ्ऩा  
+सॆय्यामै मासऱ्ऱार् कोळ्। ३११  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१२</summary>
 
-कऱुत्तुइऩ्ऩा सॆय्दवक् कण्णुम् मऱुत्तिऩ्ऩा
-सॆय्यामै मासऱ्ऱार् कोळ्। ३१२
+कऱुत्तुइऩ्ऩा सॆय्दवक् कण्णुम् मऱुत्तिऩ्ऩा  
+सॆय्यामै मासऱ्ऱार् कोळ्। ३१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१२</summary>
@@ -74,10 +73,10 @@ Though princely wealth by that is won.        311
 
 <details><summary>NVK Ashraf choice (en) - ३१२</summary>
 
-०३१२
-The code of the pure in heart
-Is not to hurt in return any hurt caused in hate. *
-(P.S. Sundaram)
+०३१२  
+The code of the pure in heart  
+Is not to hurt in return any hurt caused in hate. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३१२</summary>
@@ -116,14 +115,14 @@ Though Malice does the worst in rage.        312
 
 <details><summary>मूलम् - ३१२</summary>
 
-कऱुत्तुइऩ्ऩा सॆय्दवक् कण्णुम् मऱुत्तिऩ्ऩा
-सॆय्यामै मासऱ्ऱार् कोळ्। ३१२
+कऱुत्तुइऩ्ऩा सॆय्दवक् कण्णुम् मऱुत्तिऩ्ऩा  
+सॆय्यामै मासऱ्ऱार् कोळ्। ३१२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१३</summary>
 
-सॆय्यामल् सॆऱ्ऱार्क्कुम् इऩ्ऩाद सॆय्दबिऩ्
-उय्या विऴुमन् दरुम्। ३१३
+सॆय्यामल् सॆऱ्ऱार्क्कुम् इऩ्ऩाद सॆय्दबिऩ्  
+उय्या विऴुमन् दरुम्। ३१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१३</summary>
@@ -134,10 +133,10 @@ Though Malice does the worst in rage.        312
 
 <details><summary>NVK Ashraf choice (en) - ३१३</summary>
 
-०३१३
-Vengeance even against a wanton insult
-Brings unbearable woes. *
-(P.S. Sundaram)
+०३१३  
+Vengeance even against a wanton insult  
+Brings unbearable woes. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३१३</summary>
@@ -172,14 +171,14 @@ Bad-blood breeds and baneful heat.        313
 
 <details><summary>मूलम् - ३१३</summary>
 
-सॆय्यामल् सॆऱ्ऱार्क्कुम् इऩ्ऩाद सॆय्दबिऩ्
-उय्या विऴुमन् दरुम्। ३१३
+सॆय्यामल् सॆऱ्ऱार्क्कुम् इऩ्ऩाद सॆय्दबिऩ्  
+उय्या विऴुमन् दरुम्। ३१३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१४</summary>
 
-इऩ्ऩासॆय् तारै ऒऱुत्तल् अवर्नाण
-नऩ्ऩयञ् जॆय्दु विडल्। ३१४
+इऩ्ऩासॆय् तारै ऒऱुत्तल् अवर्नाण  
+नऩ्ऩयञ् जॆय्दु विडल्। ३१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१४</summary>
@@ -190,10 +189,10 @@ Bad-blood breeds and baneful heat.        313
 
 <details><summary>NVK Ashraf choice (en) - ३१४</summary>
 
-०३१४
-Punish an evil-doer
-By shaming him with a good deed.*
-(P.S. Sundaram)
+०३१४  
+Punish an evil-doer  
+By shaming him with a good deed.*  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३१४</summary>
@@ -233,14 +232,14 @@ Thus chide the evil who do harm.        314
 
 <details><summary>मूलम् - ३१४</summary>
 
-इऩ्ऩासॆय् तारै ऒऱुत्तल् अवर्नाण
-नऩ्ऩयञ् जॆय्दु विडल्। ३१४
+इऩ्ऩासॆय् तारै ऒऱुत्तल् अवर्नाण  
+नऩ्ऩयञ् जॆय्दु विडल्। ३१४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१५</summary>
 
-अऱिविऩाऩ् आगुव तुण्डो पिऱिदिऩ्नोय्
-तन्नोय्बोल् पोऱ्ऱाक् कडै। ३१५
+अऱिविऩाऩ् आगुव तुण्डो पिऱिदिऩ्नोय्  
+तन्नोय्बोल् पोऱ्ऱाक् कडै। ३१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१५</summary>
@@ -251,10 +250,10 @@ Thus chide the evil who do harm.        314
 
 <details><summary>NVK Ashraf choice (en) - ३१५</summary>
 
-०३१५
-What does a man gain from his wisdom
-If he pines not at others' pain as his own? *
-( Shuddhananda Bharatiar)
+०३१५  
+What does a man gain from his wisdom  
+If he pines not at others' pain as his own? *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३१५</summary>
@@ -288,14 +287,14 @@ If he pines not at other's pain?        315
 
 <details><summary>मूलम् - ३१५</summary>
 
-अऱिविऩाऩ् आगुव तुण्डो पिऱिदिऩ्नोय्
-तन्नोय्बोल् पोऱ्ऱाक् कडै। ३१५
+अऱिविऩाऩ् आगुव तुण्डो पिऱिदिऩ्नोय्  
+तन्नोय्बोल् पोऱ्ऱाक् कडै। ३१५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१६</summary>
 
-इऩ्ऩा ऎऩत्ताऩ् उणर्न्दवै तुऩ्ऩामै
-वेण्डुम् पिऱऩ्कण् सॆयल्। ३१६
+इऩ्ऩा ऎऩत्ताऩ् उणर्न्दवै तुऩ्ऩामै  
+वेण्डुम् पिऱऩ्कण् सॆयल्। ३१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१६</summary>
@@ -306,10 +305,10 @@ If he pines not at other's pain?        315
 
 <details><summary>NVK Ashraf choice (en) - ३१६</summary>
 
-०३१६
-Do not do to others what you know
-Has hurt yourself.
-(P.S. Sundaram)
+०३१६  
+Do not do to others what you know  
+Has hurt yourself.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३१६</summary>
@@ -343,14 +342,14 @@ Do it not to the other-self        316
 
 <details><summary>मूलम् - ३१६</summary>
 
-इऩ्ऩा ऎऩत्ताऩ् उणर्न्दवै तुऩ्ऩामै
-वेण्डुम् पिऱऩ्कण् सॆयल्। ३१६
+इऩ्ऩा ऎऩत्ताऩ् उणर्न्दवै तुऩ्ऩामै  
+वेण्डुम् पिऱऩ्कण् सॆयल्। ३१६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१७</summary>
 
-ऎऩैत्ताऩुम् ऎञ्ञाऩ्ऱुम् यार्क्कुम् मऩत्ताऩाम्
-माणासॆय् यामै तलै। ३१७
+ऎऩैत्ताऩुम् ऎञ्ञाऩ्ऱुम् यार्क्कुम् मऩत्ताऩाम्  
+माणासॆय् यामै तलै। ३१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१७</summary>
@@ -361,10 +360,10 @@ Do it not to the other-self        316
 
 <details><summary>NVK Ashraf choice (en) - ३१७</summary>
 
-०३१७
-It is best to refrain from willfully hurting
-Anyone, anytime, anyway.
-(P.S. Sundaram)
+०३१७  
+It is best to refrain from willfully hurting  
+Anyone, anytime, anyway.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३१७</summary>
@@ -399,14 +398,14 @@ At any time even in thought.        317
 
 <details><summary>मूलम् - ३१७</summary>
 
-ऎऩैत्ताऩुम् ऎञ्ञाऩ्ऱुम् यार्क्कुम् मऩत्ताऩाम्
-माणासॆय् यामै तलै। ३१७
+ऎऩैत्ताऩुम् ऎञ्ञाऩ्ऱुम् यार्क्कुम् मऩत्ताऩाम्  
+माणासॆय् यामै तलै। ३१७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१८</summary>
 
-तऩ्ऩुयिर्गगु एऩ्ऩामै ताऩऱिवाऩ् ऎऩ्कॊलो
-मऩ्ऩुयिर्क्कु इऩ्ऩा सॆयल्। ३१८
+तऩ्ऩुयिर्गगु एऩ्ऩामै ताऩऱिवाऩ् ऎऩ्कॊलो  
+मऩ्ऩुयिर्क्कु इऩ्ऩा सॆयल्। ३१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१८</summary>
@@ -417,10 +416,10 @@ At any time even in thought.        317
 
 <details><summary>NVK Ashraf choice (en) - ३१८</summary>
 
-०३१८
-Why does one hurt others
-Knowing what it is to be hurt?
-(P.S. Sundaram)
+०३१८  
+Why does one hurt others  
+Knowing what it is to be hurt?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३१८</summary>
@@ -459,14 +458,14 @@ Who in his life injury feels.        318
 
 <details><summary>मूलम् - ३१८</summary>
 
-तऩ्ऩुयिर्गगु एऩ्ऩामै ताऩऱिवाऩ् ऎऩ्कॊलो
-मऩ्ऩुयिर्क्कु इऩ्ऩा सॆयल्। ३१८
+तऩ्ऩुयिर्गगु एऩ्ऩामै ताऩऱिवाऩ् ऎऩ्कॊलो  
+मऩ्ऩुयिर्क्कु इऩ्ऩा सॆयल्। ३१८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३१९</summary>
 
-पिऱर्क्किऩ्ऩा मुऱ्पगल् सॆय्यिऩ् तमक्कु इऩ्ऩा
-पिऱ्पगल् तामे वरुम्। ३१९
+पिऱर्क्किऩ्ऩा मुऱ्पगल् सॆय्यिऩ् तमक्कु इऩ्ऩा  
+पिऱ्पगल् तामे वरुम्। ३१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३१९</summary>
@@ -477,10 +476,10 @@ Who in his life injury feels.        318
 
 <details><summary>NVK Ashraf choice (en) - ३१९</summary>
 
-०३१९
-The pain you inflict on others in the morn,
-Will come back at you on its own by eve.
-(N.V.K. Ashraf)
+०३१९  
+The pain you inflict on others in the morn,  
+Will come back at you on its own by eve.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३१९</summary>
@@ -514,14 +513,14 @@ Harm seeks thee in afternoon.        319
 
 <details><summary>मूलम् - ३१९</summary>
 
-पिऱर्क्किऩ्ऩा मुऱ्पगल् सॆय्यिऩ् तमक्कु इऩ्ऩा
-पिऱ्पगल् तामे वरुम्। ३१९
+पिऱर्क्किऩ्ऩा मुऱ्पगल् सॆय्यिऩ् तमक्कु इऩ्ऩा  
+पिऱ्पगल् तामे वरुम्। ३१९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२०</summary>
 
-नोयॆल्लाम् नोय्सॆय्दार् मेलवाम् नोय्सॆय्यार्
-नोयिऩ्मै वेण्डु पवर्। ३२०
+नोयॆल्लाम् नोय्सॆय्दार् मेलवाम् नोय्सॆय्यार्  
+नोयिऩ्मै वेण्डु पवर्। ३२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२०</summary>
@@ -532,10 +531,10 @@ Harm seeks thee in afternoon.        319
 
 <details><summary>NVK Ashraf choice (en) - ३२०</summary>
 
-०३२०
-Hurt comes to the hurtful; hence it is those
-Who don't want to be hurt cause no hurt. *
-(P.S. Sundaram)
+०३२०  
+Hurt comes to the hurtful; hence it is those  
+Who don't want to be hurt cause no hurt. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२०</summary>
@@ -569,7 +568,7 @@ For pains rebound on pain-givers.        320
 
 <details><summary>मूलम् - ३२०</summary>
 
-नोयॆल्लाम् नोय्सॆय्दार् मेलवाम् नोय्सॆय्यार्
-नोयिऩ्मै वेण्डु पवर्। ३२०
+नोयॆल्लाम् नोय्सॆय्दार् मेलवाम् नोय्सॆय्यार्  
+नोयिऩ्मै वेण्डु पवर्। ३२०  
 </details>
 

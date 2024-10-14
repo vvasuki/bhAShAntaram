@@ -3,11 +3,10 @@ title = "०३ कल्लामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४०१</summary>
 
-अरङ्गिऩ्ऱि वट्टाडि यऱ्ऱे निरम्बिय
-नूलिऩ्ऱिक् कोट्टि कॊळल्। ४०१
+अरङ्गिऩ्ऱि वट्टाडि यऱ्ऱे निरम्बिय  
+नूलिऩ्ऱिक् कोट्टि कॊळल्। ४०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०१</summary>
@@ -18,10 +17,10 @@ title = "०३ कल्लामै"
 
 <details><summary>NVK Ashraf choice (en) - ४०१</summary>
 
-०४०१
-Addressing a gathering with poor scholarship
-Is like playing dice without a board.
-(N.V.K. Ashraf)
+०४०१  
+Addressing a gathering with poor scholarship  
+Is like playing dice without a board.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०१</summary>
@@ -55,14 +54,14 @@ Vain is imperfect loreless word.        401
 
 <details><summary>मूलम् - ४०१</summary>
 
-अरङ्गिऩ्ऱि वट्टाडि यऱ्ऱे निरम्बिय
-नूलिऩ्ऱिक् कोट्टि कॊळल्। ४०१
+अरङ्गिऩ्ऱि वट्टाडि यऱ्ऱे निरम्बिय  
+नूलिऩ्ऱिक् कोट्टि कॊळल्। ४०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०२</summary>
 
-कल्लादाऩ् सॊऱ्का मुऱुदल् मुलैयिरण्डुम्
-इल्लादाळ् पॆण्गामुऱ् ऱऱ्ऱु। ४०२
+कल्लादाऩ् सॊऱ्का मुऱुदल् मुलैयिरण्डुम्  
+इल्लादाळ् पॆण्गामुऱ् ऱऱ्ऱु। ४०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०२</summary>
@@ -73,10 +72,10 @@ Vain is imperfect loreless word.        401
 
 <details><summary>NVK Ashraf choice (en) - ४०२</summary>
 
-०४०२
-An illiterate's lust for words is like the lust of a woman
-Who has neither of her breasts.
-(S. Maharajan)
+०४०२  
+An illiterate's lust for words is like the lust of a woman  
+Who has neither of her breasts.  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०२</summary>
@@ -110,14 +109,14 @@ Is breastless lady's love-approach.        402
 
 <details><summary>मूलम् - ४०२</summary>
 
-कल्लादाऩ् सॊऱ्का मुऱुदल् मुलैयिरण्डुम्
-इल्लादाळ् पॆण्गामुऱ् ऱऱ्ऱु। ४०२
+कल्लादाऩ् सॊऱ्का मुऱुदल् मुलैयिरण्डुम्  
+इल्लादाळ् पॆण्गामुऱ् ऱऱ्ऱु। ४०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०३</summary>
 
-कल्ला तवरुम् नऩिनल्लर् कऱ्ऱार्मुऩ्
-सॊल्ला तिरुक्कप् पॆऱिऩ्। ४०३
+कल्ला तवरुम् नऩिनल्लर् कऱ्ऱार्मुऩ्  
+सॊल्ला तिरुक्कप् पॆऱिऩ्। ४०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०३</summary>
@@ -128,10 +127,10 @@ Is breastless lady's love-approach.        402
 
 <details><summary>NVK Ashraf choice (en) - ४०३</summary>
 
-०४०३
-Even a fool is fine
-If he can hold his tongue before the wise! *
-(P.S. Sundaram)
+०४०३  
+Even a fool is fine  
+If he can hold his tongue before the wise! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०३</summary>
@@ -165,14 +164,14 @@ If before the wise, they hold their peace.        403
 
 <details><summary>मूलम् - ४०३</summary>
 
-कल्ला तवरुम् नऩिनल्लर् कऱ्ऱार्मुऩ्
-सॊल्ला तिरुक्कप् पॆऱिऩ्। ४०३
+कल्ला तवरुम् नऩिनल्लर् कऱ्ऱार्मुऩ्  
+सॊल्ला तिरुक्कप् पॆऱिऩ्। ४०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०४</summary>
 
-कल्लादाऩ् ऒट्पम् कऴियनऩ् ऱायिऩुम्
-कॊळ्ळार् अऱिवुडै यार्। ४०४
+कल्लादाऩ् ऒट्पम् कऴियनऩ् ऱायिऩुम्  
+कॊळ्ळार् अऱिवुडै यार्। ४०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०४</summary>
@@ -183,10 +182,10 @@ If before the wise, they hold their peace.        403
 
 <details><summary>NVK Ashraf choice (en) - ४०४</summary>
 
-०४०४
-The learned will not acknowledge
-An ignoramus' occasional knowledge.
-(P.S. Sundaram)
+०४०४  
+The learned will not acknowledge  
+An ignoramus' occasional knowledge.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०४</summary>
@@ -220,14 +219,14 @@ Is not valued by the savant.        404
 
 <details><summary>मूलम् - ४०४</summary>
 
-कल्लादाऩ् ऒट्पम् कऴियनऩ् ऱायिऩुम्
-कॊळ्ळार् अऱिवुडै यार्। ४०४
+कल्लादाऩ् ऒट्पम् कऴियनऩ् ऱायिऩुम्  
+कॊळ्ळार् अऱिवुडै यार्। ४०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०५</summary>
 
-कल्ला ऒरुवऩ् तगैमै तलैप्पॆय्दु
-सॊल्लाडच् चोर्वु पडुम्। ४०५
+कल्ला ऒरुवऩ् तगैमै तलैप्पॆय्दु  
+सॊल्लाडच् चोर्वु पडुम्। ४०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०५</summary>
@@ -238,10 +237,10 @@ Is not valued by the savant.        404
 
 <details><summary>NVK Ashraf choice (en) - ४०५</summary>
 
-०४०५
-An unlettered man's conceit will find its end
-When the occasion for speech arrives.
-(C. Rajagopalachari)
+०४०५  
+An unlettered man's conceit will find its end  
+When the occasion for speech arrives.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०५</summary>
@@ -275,14 +274,14 @@ Sadly fails before savants.        405
 
 <details><summary>मूलम् - ४०५</summary>
 
-कल्ला ऒरुवऩ् तगैमै तलैप्पॆय्दु
-सॊल्लाडच् चोर्वु पडुम्। ४०५
+कल्ला ऒरुवऩ् तगैमै तलैप्पॆय्दु  
+सॊल्लाडच् चोर्वु पडुम्। ४०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०६</summary>
 
-उळरॆऩ्ऩुम् मात्तिरैयर् अल्लाल् पयवाक्
-कळरऩैयर् कल्ला तवर्। ४०६
+उळरॆऩ्ऩुम् मात्तिरैयर् अल्लाल् पयवाक्  
+कळरऩैयर् कल्ला तवर्। ४०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०६</summary>
@@ -293,10 +292,10 @@ Sadly fails before savants.        405
 
 <details><summary>NVK Ashraf choice (en) - ४०६</summary>
 
-०४०६
-The ignorant are like barren land:
-They are there, but useless. *
-(P.S. Sundaram)
+०४०६  
+The ignorant are like barren land:  
+They are there, but useless. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०६</summary>
@@ -330,14 +329,14 @@ People speak of untaught minds
 
 <details><summary>मूलम् - ४०६</summary>
 
-उळरॆऩ्ऩुम् मात्तिरैयर् अल्लाल् पयवाक्
-कळरऩैयर् कल्ला तवर्। ४०६
+उळरॆऩ्ऩुम् मात्तिरैयर् अल्लाल् पयवाक्  
+कळरऩैयर् कल्ला तवर्। ४०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०७</summary>
 
-नुण्माण् नुऴैबुलम् इल्लाऩ् ऎऴिल्नलम्
-मण्माण् पुऩैबावै यऱ्ऱु। ४०७
+नुण्माण् नुऴैबुलम् इल्लाऩ् ऎऴिल्नलम्  
+मण्माण् पुऩैबावै यऱ्ऱु। ४०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०७</summary>
@@ -348,10 +347,10 @@ People speak of untaught minds
 
 <details><summary>NVK Ashraf choice (en) - ४०७</summary>
 
-०४०७
-A handsome man without subtle and sharp intellect
-Has the beauty of a mud-doll. *
-(P.S. Sundaram)
+०४०७  
+A handsome man without subtle and sharp intellect  
+Has the beauty of a mud-doll. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०७</summary>
@@ -385,14 +384,14 @@ Grand subtle lore who fails to know.        407
 
 <details><summary>मूलम् - ४०७</summary>
 
-नुण्माण् नुऴैबुलम् इल्लाऩ् ऎऴिल्नलम्
-मण्माण् पुऩैबावै यऱ्ऱु। ४०७
+नुण्माण् नुऴैबुलम् इल्लाऩ् ऎऴिल्नलम्  
+मण्माण् पुऩैबावै यऱ्ऱु। ४०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०८</summary>
 
-नल्लार्गण् पट्ट वऱुमैयिऩ् इऩ्ऩादे
-कल्लार्गण् पट् ट तिरु। ४०८
+नल्लार्गण् पट्ट वऱुमैयिऩ् इऩ्ऩादे  
+कल्लार्गण् पट् ट तिरु। ४०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०८</summary>
@@ -403,10 +402,10 @@ Grand subtle lore who fails to know.        407
 
 <details><summary>NVK Ashraf choice (en) - ४०८</summary>
 
-०४०८
-The wealth of the ignorant does more harm
-Than the want of the learned. *
-(P.S. Sundaram)
+०४०८  
+The wealth of the ignorant does more harm  
+Than the want of the learned. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०८</summary>
@@ -440,14 +439,14 @@ Than a learned man's empty purse.        408
 
 <details><summary>मूलम् - ४०८</summary>
 
-नल्लार्गण् पट्ट वऱुमैयिऩ् इऩ्ऩादे
-कल्लार्गण् पट् ट तिरु। ४०८
+नल्लार्गण् पट्ट वऱुमैयिऩ् इऩ्ऩादे  
+कल्लार्गण् पट् ट तिरु। ४०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४०९</summary>
 
-मेऱ्पिऱन्दा रायिऩुम् कल्लादार् कीऴ्प्पिऱन्दुम्
-कऱ्ऱार् अऩैत्तिलर् पाडु। ४०९
+मेऱ्पिऱन्दा रायिऩुम् कल्लादार् कीऴ्प्पिऱन्दुम्  
+कऱ्ऱार् अऩैत्तिलर् पाडु। ४०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४०९</summary>
@@ -458,10 +457,10 @@ Than a learned man's empty purse.        408
 
 <details><summary>NVK Ashraf choice (en) - ४०९</summary>
 
-०४०९
-The ignorant, however high-born,
-Is lower than the low-born learned.
-(P.S. Sundaram)
+०४०९  
+The ignorant, however high-born,  
+Is lower than the low-born learned.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४०९</summary>
@@ -495,14 +494,14 @@ Than low-born men of learning's worth.        409
 
 <details><summary>मूलम् - ४०९</summary>
 
-मेऱ्पिऱन्दा रायिऩुम् कल्लादार् कीऴ्प्पिऱन्दुम्
-कऱ्ऱार् अऩैत्तिलर् पाडु। ४०९
+मेऱ्पिऱन्दा रायिऩुम् कल्लादार् कीऴ्प्पिऱन्दुम्  
+कऱ्ऱार् अऩैत्तिलर् पाडु। ४०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१०</summary>
 
-विलङ्गॊडु मक्कळ् अऩैयर् इलङ्गुनूल्
-कऱ्ऱारोडु एऩै यवर्। ४१०
+विलङ्गॊडु मक्कळ् अऩैयर् इलङ्गुनूल्  
+कऱ्ऱारोडु एऩै यवर्। ४१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१०</summary>
@@ -513,10 +512,10 @@ Than low-born men of learning's worth.        409
 
 <details><summary>NVK Ashraf choice (en) - ४१०</summary>
 
-०४१०
-Amid scholars of celebrated works,
-Are others like beasts among men.
-(N.V.K. Ashraf), (W.H. Drew and J. Lazarus)
+०४१०  
+Amid scholars of celebrated works,  
+Are others like beasts among men.  
+(N.V.K. Ashraf), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१०</summary>
@@ -549,7 +548,7 @@ Before scholars of shining lore.        410
 
 <details><summary>मूलम् - ४१०</summary>
 
-विलङ्गॊडु मक्कळ् अऩैयर् इलङ्गुनूल्
-कऱ्ऱारोडु एऩै यवर्। ४१०
+विलङ्गॊडु मक्कळ् अऩैयर् इलङ्गुनूल्  
+कऱ्ऱारोडु एऩै यवर्। ४१०  
 </details>
 

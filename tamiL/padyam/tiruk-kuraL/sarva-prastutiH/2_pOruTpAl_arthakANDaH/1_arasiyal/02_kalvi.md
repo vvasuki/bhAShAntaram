@@ -3,11 +3,10 @@ title = "०२ कल्वि"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ३९१</summary>
 
-कऱ्क कसडऱक् कऱ्पवै कऱ्ऱपिऩ्
-निऱ्क अदऱ्कुत् तग। ३९१
+कऱ्क कसडऱक् कऱ्पवै कऱ्ऱपिऩ्  
+निऱ्क अदऱ्कुत् तग। ३९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९१</summary>
@@ -18,10 +17,10 @@ title = "०२ कल्वि"
 
 <details><summary>NVK Ashraf choice (en) - ३९१</summary>
 
-०३९१
-Learn thoroughly what should be learnt.
-And having learnt, stand according to that.
-(N.V.K. Ashraf)
+०३९१  
+Learn thoroughly what should be learnt.  
+And having learnt, stand according to that.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९१</summary>
@@ -55,14 +54,14 @@ Live by that learning thoroughly.        391
 
 <details><summary>मूलम् - ३९१</summary>
 
-कऱ्क कसडऱक् कऱ्पवै कऱ्ऱपिऩ्
-निऱ्क अदऱ्कुत् तग। ३९१
+कऱ्क कसडऱक् कऱ्पवै कऱ्ऱपिऩ्  
+निऱ्क अदऱ्कुत् तग। ३९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९२</summary>
 
-ऎण्णॆऩ्प एऩै ऎऴुत्तॆऩ्प इव्विरण् डुम्
-कण्णॆऩ्प वाऴुम् उयिर्क्कु। ३९२
+ऎण्णॆऩ्प एऩै ऎऴुत्तॆऩ्प इव्विरण् डुम्  
+कण्णॆऩ्प वाऴुम् उयिर्क्कु। ३९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९२</summary>
@@ -73,10 +72,10 @@ Live by that learning thoroughly.        391
 
 <details><summary>NVK Ashraf choice (en) - ३९२</summary>
 
-०३९२
-They say: Numbers and other one called Letters
-Are the two eyes to live with. *
-(V.C. Kulandai Swamy), (P.S. Sundaram)
+०३९२  
+They say: Numbers and other one called Letters  
+Are the two eyes to live with. *  
+(V.C. Kulandai Swamy), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९२</summary>
@@ -110,14 +109,14 @@ Of living kind both are the eyes.        392
 
 <details><summary>मूलम् - ३९२</summary>
 
-ऎण्णॆऩ्प एऩै ऎऴुत्तॆऩ्प इव्विरण् डुम्
-कण्णॆऩ्प वाऴुम् उयिर्क्कु। ३९२
+ऎण्णॆऩ्प एऩै ऎऴुत्तॆऩ्प इव्विरण् डुम्  
+कण्णॆऩ्प वाऴुम् उयिर्क्कु। ३९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९३</summary>
 
-कण्णुडैयर् ऎऩ्पवर् कऱ्ऱोर् मुगत्तिरण्डु
-पुण्णुडैयर् कल्ला तवर्। ३९३
+कण्णुडैयर् ऎऩ्पवर् कऱ्ऱोर् मुगत्तिरण्डु  
+पुण्णुडैयर् कल्ला तवर्। ३९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९३</summary>
@@ -128,10 +127,10 @@ Of living kind both are the eyes.        392
 
 <details><summary>NVK Ashraf choice (en) - ३९३</summary>
 
-०३९३
-Only the learned have eyes.
-The unlearned have two sores on their face! *
-(P.S. Sundaram)
+०३९३  
+Only the learned have eyes.  
+The unlearned have two sores on their face! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३९३</summary>
@@ -170,14 +169,14 @@ The ignorant two sores of disgrace.        393
 
 <details><summary>मूलम् - ३९३</summary>
 
-कण्णुडैयर् ऎऩ्पवर् कऱ्ऱोर् मुगत्तिरण्डु
-पुण्णुडैयर् कल्ला तवर्। ३९३
+कण्णुडैयर् ऎऩ्पवर् कऱ्ऱोर् मुगत्तिरण्डु  
+पुण्णुडैयर् कल्ला तवर्। ३९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९४</summary>
 
-उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्
-अऩैत्ते पुलवर् तॊऴिल्। ३९४
+उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्  
+अऩैत्ते पुलवर् तॊऴिल्। ३९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९४</summary>
@@ -188,10 +187,10 @@ The ignorant two sores of disgrace.        393
 
 <details><summary>NVK Ashraf choice (en) - ३९४</summary>
 
-०३९४
-It is the prowess of scholars that meetings bring delight
-And departures leave memories. *
-(Satguru Subramuniyaswami)
+०३९४  
+It is the prowess of scholars that meetings bring delight  
+And departures leave memories. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९४</summary>
@@ -225,14 +224,14 @@ Of learned men this is the art.        394
 
 <details><summary>मूलम् - ३९४</summary>
 
-उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्
-अऩैत्ते पुलवर् तॊऴिल्। ३९४
+उवप्पत् तलैक्कूडि उळ्ळप् पिरिदल्  
+अऩैत्ते पुलवर् तॊऴिल्। ३९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९५</summary>
 
-उडैयार्मुऩ् इल्लार्बोल् एक्कऱ्ऱुङ् गऱ्ऱार्
-कडैयरे कल्ला तवर्। ३९५
+उडैयार्मुऩ् इल्लार्बोल् एक्कऱ्ऱुङ् गऱ्ऱार्  
+कडैयरे कल्ला तवर्। ३९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९५</summary>
@@ -243,10 +242,10 @@ Of learned men this is the art.        394
 
 <details><summary>NVK Ashraf choice (en) - ३९५</summary>
 
-०३९५
-The learned learn to humble, like destitute before the rich;
-Only the low never learn.
-(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+०३९५  
+The learned learn to humble, like destitute before the rich;  
+Only the low never learn.  
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९५</summary>
@@ -280,14 +279,14 @@ For knowledge: the low never learn.        395
 
 <details><summary>मूलम् - ३९५</summary>
 
-उडैयार्मुऩ् इल्लार्बोल् एक्कऱ्ऱुङ् गऱ्ऱार्
-कडैयरे कल्ला तवर्। ३९५
+उडैयार्मुऩ् इल्लार्बोल् एक्कऱ्ऱुङ् गऱ्ऱार्  
+कडैयरे कल्ला तवर्। ३९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९६</summary>
 
-तॊट्टऩैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्
-कऱ्ऱऩैत् तूऱुम् अऱिवु। ३९६
+तॊट्टऩैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्  
+कऱ्ऱऩैत् तूऱुम् अऱिवु। ३९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९६</summary>
@@ -298,10 +297,10 @@ For knowledge: the low never learn.        395
 
 <details><summary>NVK Ashraf choice (en) - ३९६</summary>
 
-०३९६
-The more you dig a sand-spring, more the flow.
-The more you learn more the wisdom.
-(N.V.K. Ashraf)
+०३९६  
+The more you dig a sand-spring, more the flow.  
+The more you learn more the wisdom.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९६</summary>
@@ -335,14 +334,14 @@ As deep you learn the knowledge grows.        396
 
 <details><summary>मूलम् - ३९६</summary>
 
-तॊट्टऩैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्
-कऱ्ऱऩैत् तूऱुम् अऱिवु। ३९६
+तॊट्टऩैत् तूऱुम् मणऱ्केणि मान्दर्क्कुक्  
+कऱ्ऱऩैत् तूऱुम् अऱिवु। ३९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९७</summary>
 
-यादाऩुम् नाडामाल् ऊरामाल् ऎऩ्ऩॊरुवऩ्
-सान्दुणैयुङ् गल्लाद वाऱु। ३९७
+यादाऩुम् नाडामाल् ऊरामाल् ऎऩ्ऩॊरुवऩ्  
+सान्दुणैयुङ् गल्लाद वाऱु। ३९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९७</summary>
@@ -353,10 +352,10 @@ As deep you learn the knowledge grows.        396
 
 <details><summary>NVK Ashraf choice (en) - ३९७</summary>
 
-०३९७
-Why does one stop learning till he dies
-When it makes all lands and place his?
-(P.S. Sundaram)
+०३९७  
+Why does one stop learning till he dies  
+When it makes all lands and place his?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३९७</summary>
@@ -395,14 +394,14 @@ Why not till death learning go on!        397
 
 <details><summary>मूलम् - ३९७</summary>
 
-यादाऩुम् नाडामाल् ऊरामाल् ऎऩ्ऩॊरुवऩ्
-सान्दुणैयुङ् गल्लाद वाऱु। ३९७
+यादाऩुम् नाडामाल् ऊरामाल् ऎऩ्ऩॊरुवऩ्  
+सान्दुणैयुङ् गल्लाद वाऱु। ३९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९८</summary>
 
-ऒरुमैक्कण् ताऩ् कऱ्ऱ कल्वि ऒरुवऱ्कु
-ऎऴुमैयुम् एमाप् पुडैत्तु। ३९८
+ऒरुमैक्कण् ताऩ् कऱ्ऱ कल्वि ऒरुवऱ्कु  
+ऎऴुमैयुम् एमाप् पुडैत्तु। ३९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९८</summary>
@@ -413,10 +412,10 @@ Why not till death learning go on!        397
 
 <details><summary>NVK Ashraf choice (en) - ३९८</summary>
 
-०३९८
-The learning acquired in one birth
-Protects a man in the next seven. *
-(P.S. Sundaram)
+०३९८  
+The learning acquired in one birth  
+Protects a man in the next seven. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९८</summary>
@@ -450,14 +449,14 @@ Exalts man upto his seventh.        398
 
 <details><summary>मूलम् - ३९८</summary>
 
-ऒरुमैक्कण् ताऩ् कऱ्ऱ कल्वि ऒरुवऱ्कु
-ऎऴुमैयुम् एमाप् पुडैत्तु। ३९८
+ऒरुमैक्कण् ताऩ् कऱ्ऱ कल्वि ऒरुवऱ्कु  
+ऎऴुमैयुम् एमाप् पुडैत्तु। ३९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ३९९</summary>
 
-तामिऩ् पुऱुवदु उलगिऩ् पुऱक् कण्डु
-कामुऱुवर् कऱ्ऱऱिन् दार्। ३९९
+तामिऩ् पुऱुवदु उलगिऩ् पुऱक् कण्डु  
+कामुऱुवर् कऱ्ऱऱिन् दार्। ३९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३९९</summary>
@@ -468,10 +467,10 @@ Exalts man upto his seventh.        398
 
 <details><summary>NVK Ashraf choice (en) - ३९९</summary>
 
-०३९९
-Seeing that what delights him delights the world,
-Gets a scholar also delighted. *
-(P.S. Sundaram)
+०३९९  
+Seeing that what delights him delights the world,  
+Gets a scholar also delighted. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३९९</summary>
@@ -505,14 +504,14 @@ On seeing the world enjoy their lore.        399
 
 <details><summary>मूलम् - ३९९</summary>
 
-तामिऩ् पुऱुवदु उलगिऩ् पुऱक् कण्डु
-कामुऱुवर् कऱ्ऱऱिन् दार्। ३९९
+तामिऩ् पुऱुवदु उलगिऩ् पुऱक् कण्डु  
+कामुऱुवर् कऱ्ऱऱिन् दार्। ३९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४००</summary>
 
-केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु
-माडल्ल मऱ्ऱै यवै। ४००
+केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु  
+माडल्ल मऱ्ऱै यवै। ४००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४००</summary>
@@ -523,10 +522,10 @@ On seeing the world enjoy their lore.        399
 
 <details><summary>NVK Ashraf choice (en) - ४००</summary>
 
-०४००
-The wealth that never declines is learning.
-All others are not riches.
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०४००  
+The wealth that never declines is learning.  
+All others are not riches.  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४००</summary>
@@ -559,7 +558,7 @@ Nothing else gives genuine joy.        400
 
 <details><summary>मूलम् - ४००</summary>
 
-केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु
-माडल्ल मऱ्ऱै यवै। ४००
+केडिल् विऴुच्चॆल्वम् कल्वि यॊरुवऱ्कु  
+माडल्ल मऱ्ऱै यवै। ४००  
 </details>
 

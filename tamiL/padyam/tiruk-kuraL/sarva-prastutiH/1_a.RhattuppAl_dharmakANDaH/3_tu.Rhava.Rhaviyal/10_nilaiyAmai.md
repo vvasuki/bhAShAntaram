@@ -3,11 +3,10 @@ title = "१० निलैयामै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ३३१</summary>
 
-निल्लाद वऱ्ऱै निलैयिऩ ऎऩ्ऱुणरुम्
-पुल्लऱि वाण्मै कडै। ३३१
+निल्लाद वऱ्ऱै निलैयिऩ ऎऩ्ऱुणरुम्  
+पुल्लऱि वाण्मै कडै। ३३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३१</summary>
@@ -18,10 +17,10 @@ title = "१० निलैयामै"
 
 <details><summary>NVK Ashraf choice (en) - ३३१</summary>
 
-०३३१
-No baser folly than the infatuation
-That takes the fleeting for the permanent.
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०३३१  
+No baser folly than the infatuation  
+That takes the fleeting for the permanent.  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३१</summary>
@@ -55,14 +54,14 @@ The fleeting as lasting to hold.        331
 
 <details><summary>मूलम् - ३३१</summary>
 
-निल्लाद वऱ्ऱै निलैयिऩ ऎऩ्ऱुणरुम्
-पुल्लऱि वाण्मै कडै। ३३१
+निल्लाद वऱ्ऱै निलैयिऩ ऎऩ्ऱुणरुम्  
+पुल्लऱि वाण्मै कडै। ३३१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३२</summary>
 
-कूत्ताट्टु अवैक् कुऴात् तऱ्ऱे पॆरुञ्जॆल्वम्
-पोक्कुम् अदुविळिन् दऱ्ऱु। ३३२
+कूत्ताट्टु अवैक् कुऴात् तऱ्ऱे पॆरुञ्जॆल्वम्  
+पोक्कुम् अदुविळिन् दऱ्ऱु। ३३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३२</summary>
@@ -73,10 +72,10 @@ The fleeting as lasting to hold.        331
 
 <details><summary>NVK Ashraf choice (en) - ३३२</summary>
 
-०३३२
-Great wealth, like a crowd at a concert,
-Gathers and melts.
-(P.S. Sundaram)
+०३३२  
+Great wealth, like a crowd at a concert,  
+Gathers and melts.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३२</summary>
@@ -111,14 +110,14 @@ Like passing show its pride too goes.        332
 
 <details><summary>मूलम् - ३३२</summary>
 
-कूत्ताट्टु अवैक् कुऴात् तऱ्ऱे पॆरुञ्जॆल्वम्
-पोक्कुम् अदुविळिन् दऱ्ऱु। ३३२
+कूत्ताट्टु अवैक् कुऴात् तऱ्ऱे पॆरुञ्जॆल्वम्  
+पोक्कुम् अदुविळिन् दऱ्ऱु। ३३२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३३</summary>
 
-अऱ्का इयल्बिऱ्ऱुच् चॆल्वम् अदुबॆऱ्ऱाल्
-अऱ्कुब आङ्गे सॆयल्। ३३३
+अऱ्का इयल्बिऱ्ऱुच् चॆल्वम् अदुबॆऱ्ऱाल्  
+अऱ्कुब आङ्गे सॆयल्। ३३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३३</summary>
@@ -129,10 +128,10 @@ Like passing show its pride too goes.        332
 
 <details><summary>NVK Ashraf choice (en) - ३३३</summary>
 
-०३३३
-Perishable is the nature of wealth; if you obtain it,
-Forthwith do something not perishable.*
-(S. Maharajan)
+०३३३  
+Perishable is the nature of wealth; if you obtain it,  
+Forthwith do something not perishable.*  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३३</summary>
@@ -166,14 +165,14 @@ Take care to do enduring things.        333
 
 <details><summary>मूलम् - ३३३</summary>
 
-अऱ्का इयल्बिऱ्ऱुच् चॆल्वम् अदुबॆऱ्ऱाल्
-अऱ्कुब आङ्गे सॆयल्। ३३३
+अऱ्का इयल्बिऱ्ऱुच् चॆल्वम् अदुबॆऱ्ऱाल्  
+अऱ्कुब आङ्गे सॆयल्। ३३३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३४</summary>
 
-नाळॆऩ ऒऩ्ऱुबोऱ् काट्टि उयिर् ईरुम्
-वाळदु उणर्वार्प् पॆऱिऩ्। ३३४
+नाळॆऩ ऒऩ्ऱुबोऱ् काट्टि उयिर् ईरुम्  
+वाळदु उणर्वार्प् पॆऱिऩ्। ३३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३४</summary>
@@ -184,10 +183,10 @@ Take care to do enduring things.        333
 
 <details><summary>NVK Ashraf choice (en) - ३३४</summary>
 
-०३३४
-A day in reality is nothing but
-A relentless slicing of a saw through one's life. *
-(S.M. Diaz)
+०३३४  
+A day in reality is nothing but  
+A relentless slicing of a saw through one's life. *  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३४</summary>
@@ -222,14 +221,14 @@ Your life, know that, to file and gnaw.        334
 
 <details><summary>मूलम् - ३३४</summary>
 
-नाळॆऩ ऒऩ्ऱुबोऱ् काट्टि उयिर् ईरुम्
-वाळदु उणर्वार्प् पॆऱिऩ्। ३३४
+नाळॆऩ ऒऩ्ऱुबोऱ् काट्टि उयिर् ईरुम्  
+वाळदु उणर्वार्प् पॆऱिऩ्। ३३४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३५</summary>
 
-नाच्चॆऱ्ऱु विक्कुळ्मेल् वारामुऩ् नल्विऩै
-मेऱ्सॆऩ्ऱु सॆय्यप् पडुम् ३३५
+नाच्चॆऱ्ऱु विक्कुळ्मेल् वारामुऩ् नल्विऩै  
+मेऱ्सॆऩ्ऱु सॆय्यप् पडुम् ३३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३५</summary>
@@ -240,10 +239,10 @@ Your life, know that, to file and gnaw.        334
 
 <details><summary>NVK Ashraf choice (en) - ३३५</summary>
 
-०३३५
-Better commit some good acts before the tongue
-Benumbs and deadly hiccup descends. *
-(K. Kannan), ( Shuddhananda Bharatiar)
+०३३५  
+Better commit some good acts before the tongue  
+Benumbs and deadly hiccup descends. *  
+(K. Kannan), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३५</summary>
@@ -278,14 +277,14 @@ Rise up to do good deeds betimes.        335
 
 <details><summary>मूलम् - ३३५</summary>
 
-नाच्चॆऱ्ऱु विक्कुळ्मेल् वारामुऩ् नल्विऩै
-मेऱ्सॆऩ्ऱु सॆय्यप् पडुम् ३३५
+नाच्चॆऱ्ऱु विक्कुळ्मेल् वारामुऩ् नल्विऩै  
+मेऱ्सॆऩ्ऱु सॆय्यप् पडुम् ३३५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३६</summary>
 
-नॆरुनल् उळऩॊरुवऩ् इऩ्ऱिल्लै ऎऩ्ऩुम्
-पॆरुमै उडैत्तुइव् वुलगु। ३३६
+नॆरुनल् उळऩॊरुवऩ् इऩ्ऱिल्लै ऎऩ्ऩुम्  
+पॆरुमै उडैत्तुइव् वुलगु। ३३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३६</summary>
@@ -296,10 +295,10 @@ Rise up to do good deeds betimes.        335
 
 <details><summary>NVK Ashraf choice (en) - ३३६</summary>
 
-०३३६
-The one who existed yesterday is no more today.
-That is the glory of earthly life.
-(S. Maharajan)
+०३३६  
+The one who existed yesterday is no more today.  
+That is the glory of earthly life.  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३६</summary>
@@ -333,14 +332,14 @@ The wonder of the world's way!        336
 
 <details><summary>मूलम् - ३३६</summary>
 
-नॆरुनल् उळऩॊरुवऩ् इऩ्ऱिल्लै ऎऩ्ऩुम्
-पॆरुमै उडैत्तुइव् वुलगु। ३३६
+नॆरुनल् उळऩॊरुवऩ् इऩ्ऱिल्लै ऎऩ्ऩुम्  
+पॆरुमै उडैत्तुइव् वुलगु। ३३६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३७</summary>
 
-ऒरुबॊऴुदुम् वाऴ्वदु अऱियार् करुदुब
-कोडियुम् अल्ल पल। ३३७
+ऒरुबॊऴुदुम् वाऴ्वदु अऱियार् करुदुब  
+कोडियुम् अल्ल पल। ३३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३७</summary>
@@ -351,10 +350,10 @@ The wonder of the world's way!        336
 
 <details><summary>NVK Ashraf choice (en) - ३३७</summary>
 
-०३३७
-Men unsure of living the next moment,
-Make more than a million plans. *
-(P.S. Sundaram)
+०३३७  
+Men unsure of living the next moment,  
+Make more than a million plans. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३७</summary>
@@ -389,14 +388,14 @@ On crores of things he is intent.        337
 
 <details><summary>मूलम् - ३३७</summary>
 
-ऒरुबॊऴुदुम् वाऴ्वदु अऱियार् करुदुब
-कोडियुम् अल्ल पल। ३३७
+ऒरुबॊऴुदुम् वाऴ्वदु अऱियार् करुदुब  
+कोडियुम् अल्ल पल। ३३७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३८</summary>
 
-कुडम्बै तऩित्तु ऒऴियप् पुळ्बऱन् दऱ्ऱे
-उडम्बॊडु उयिरिडै नट्पु। ३३८
+कुडम्बै तऩित्तु ऒऴियप् पुळ्बऱन् दऱ्ऱे  
+उडम्बॊडु उयिरिडै नट्पु। ३३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३८</summary>
@@ -407,10 +406,10 @@ On crores of things he is intent.        337
 
 <details><summary>NVK Ashraf choice (en) - ३३८</summary>
 
-०३३८
-The soul's link to the body
-Is like the bird that flies away from the nest.
-(K. Kannan), (P.S. Sundaram)
+०३३८  
+The soul's link to the body  
+Is like the bird that flies away from the nest.  
+(K. Kannan), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३३८</summary>
@@ -449,14 +448,14 @@ Like bird from egg-shell flies away.        338
 
 <details><summary>मूलम् - ३३८</summary>
 
-कुडम्बै तऩित्तु ऒऴियप् पुळ्बऱन् दऱ्ऱे
-उडम्बॊडु उयिरिडै नट्पु। ३३८
+कुडम्बै तऩित्तु ऒऴियप् पुळ्बऱन् दऱ्ऱे  
+उडम्बॊडु उयिरिडै नट्पु। ३३८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३९</summary>
 
-उऱङ्गु वदुबोलुञ् जाक्काडु उऱङ्गि
-विऴिप्पदु पोलुम् पिऱप्पु। ३३९
+उऱङ्गु वदुबोलुञ् जाक्काडु उऱङ्गि  
+विऴिप्पदु पोलुम् पिऱप्पु। ३३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३९</summary>
@@ -467,10 +466,10 @@ Like bird from egg-shell flies away.        338
 
 <details><summary>NVK Ashraf choice (en) - ३३९</summary>
 
-०३३९
-Death is like sleep,
-And birth an awakening from it.
-(S.M. Diaz)
+०३३९  
+Death is like sleep,  
+And birth an awakening from it.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३९</summary>
@@ -504,14 +503,14 @@ And birth like waking from that sleep.        339
 
 <details><summary>मूलम् - ३३९</summary>
 
-उऱङ्गु वदुबोलुञ् जाक्काडु उऱङ्गि
-विऴिप्पदु पोलुम् पिऱप्पु। ३३९
+उऱङ्गु वदुबोलुञ् जाक्काडु उऱङ्गि  
+विऴिप्पदु पोलुम् पिऱप्पु। ३३९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३४०</summary>
 
-पुक्किल् अमैन्दिऩ्ऱु कॊल्लो उडम्बिऩुळ्
-तुच्चिल् इरुन्द उयिर्क्कु। ३४०
+पुक्किल् अमैन्दिऩ्ऱु कॊल्लो उडम्बिऩुळ्  
+तुच्चिल् इरुन्द उयिर्क्कु। ३४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३४०</summary>
@@ -522,10 +521,10 @@ And birth like waking from that sleep.        339
 
 <details><summary>NVK Ashraf choice (en) - ३४०</summary>
 
-०३४०
-Is there no permanent refuge for the soul,
-Which takes a temporary shelter in the body?
-(S. Maharajan)
+०३४०  
+Is there no permanent refuge for the soul,  
+Which takes a temporary shelter in the body?  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३४०</summary>
@@ -559,7 +558,7 @@ A fixed home it never knows.        340
 
 <details><summary>मूलम् - ३४०</summary>
 
-पुक्किल् अमैन्दिऩ्ऱु कॊल्लो उडम्बिऩुळ्
-तुच्चिल् इरुन्द उयिर्क्कु। ३४०
+पुक्किल् अमैन्दिऩ्ऱु कॊल्लो उडम्बिऩुळ्  
+तुच्चिल् इरुन्द उयिर्क्कु। ३४०  
 </details>
 

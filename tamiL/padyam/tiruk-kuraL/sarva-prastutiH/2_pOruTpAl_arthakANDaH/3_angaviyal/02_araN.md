@@ -3,11 +3,10 @@ title = "०२ अरण्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७४१</summary>
 
-आऱ्ऱु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्
-पोऱ्ऱु पवर्क्कुम् पॊरुळ्। ७४१
+आऱ्ऱु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्  
+पोऱ्ऱु पवर्क्कुम् पॊरुळ्। ७४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४१</summary>
@@ -19,10 +18,10 @@ title = "०२ अरण्"
 
 <details><summary>NVK Ashraf choice (en) - ७४१</summary>
 
-०७४१
-A fortress is an asset to the offender
-As well as to those who seek refuge in defence.
-(N.V.K. Ashraf)
+०७४१  
+A fortress is an asset to the offender  
+As well as to those who seek refuge in defence.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४१</summary>
@@ -57,14 +56,14 @@ Who fear the foes has its defence.        741
 
 <details><summary>मूलम् - ७४१</summary>
 
-आऱ्ऱु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्
-पोऱ्ऱु पवर्क्कुम् पॊरुळ्। ७४१
+आऱ्ऱु पवर्क्कुम् अरण्बॊरुळ् अञ्जित्तऱ्  
+पोऱ्ऱु पवर्क्कुम् पॊरुळ्। ७४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४२</summary>
 
-मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्
-काडुम् उडैय तरण्। ७४२
+मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्  
+काडुम् उडैय तरण्। ७४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४२</summary>
@@ -75,10 +74,10 @@ Who fear the foes has its defence.        741
 
 <details><summary>NVK Ashraf choice (en) - ७४२</summary>
 
-०७४२
-Blue water, open space, hills and thick forests
-Constitute a fortress.
-(P.S. Sundaram)
+०७४२  
+Blue water, open space, hills and thick forests  
+Constitute a fortress.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७४२</summary>
@@ -118,14 +117,14 @@ Thick woods form a fort paramount.        742
 
 <details><summary>मूलम् - ७४२</summary>
 
-मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्
-काडुम् उडैय तरण्। ७४२
+मणिनीरुम् मण्णुम् मलैयुम् अणिनिऴऱ्  
+काडुम् उडैय तरण्। ७४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४३</summary>
 
-उयर्वगलम् तिण्मै अरुमैइन् नाऩ्किऩ्
-अमैवरण् ऎऩ्ऱुरैक्कुम् नूल्। ७४३
+उयर्वगलम् तिण्मै अरुमैइन् नाऩ्किऩ्  
+अमैवरण् ऎऩ्ऱुरैक्कुम् नूल्। ७४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४३</summary>
@@ -136,10 +135,10 @@ Thick woods form a fort paramount.        742
 
 <details><summary>NVK Ashraf choice (en) - ७४३</summary>
 
-०७४३
-Books declare that a fort should have these four:
-Height, breadth, strength and difficult access. *
-(G.U. Pope)
+०७४३  
+Books declare that a fort should have these four:  
+Height, breadth, strength and difficult access. *  
+(G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४३</summary>
@@ -174,14 +173,14 @@ High, broad, strong and hard for access.        743
 
 <details><summary>मूलम् - ७४३</summary>
 
-उयर्वगलम् तिण्मै अरुमैइन् नाऩ्किऩ्
-अमैवरण् ऎऩ्ऱुरैक्कुम् नूल्। ७४३
+उयर्वगलम् तिण्मै अरुमैइन् नाऩ्किऩ्  
+अमैवरण् ऎऩ्ऱुरैक्कुम् नूल्। ७४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४४</summary>
 
-सिऱुगाप्पिऱ् पेरिडत्त तागि उऱुबगै
-ऊक्कम् अऴिप्प तरण्। ७४४
+सिऱुगाप्पिऱ् पेरिडत्त तागि उऱुबगै  
+ऊक्कम् अऴिप्प तरण्। ७४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४४</summary>
@@ -192,10 +191,10 @@ High, broad, strong and hard for access.        743
 
 <details><summary>NVK Ashraf choice (en) - ७४४</summary>
 
-०७४४
-A fortress, ample in space and easy to defend,
-Spoils the might of the foe. *
-(J. Narayanaswamy)
+०७४४  
+A fortress, ample in space and easy to defend,  
+Spoils the might of the foe. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४४</summary>
@@ -230,14 +229,14 @@ The fort foils enemies bold.        744
 
 <details><summary>मूलम् - ७४४</summary>
 
-सिऱुगाप्पिऱ् पेरिडत्त तागि उऱुबगै
-ऊक्कम् अऴिप्प तरण्। ७४४
+सिऱुगाप्पिऱ् पेरिडत्त तागि उऱुबगै  
+ऊक्कम् अऴिप्प तरण्। ७४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४५</summary>
 
-कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्
-निलैक्कॆळिदाम् नीरदु अरण्। ७४५
+कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्  
+निलैक्कॆळिदाम् नीरदु अरण्। ७४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४५</summary>
@@ -248,10 +247,10 @@ The fort foils enemies bold.        744
 
 <details><summary>NVK Ashraf choice (en) - ७४५</summary>
 
-०७४५
-A good fortress is hard to seize, well-supplied
-And suited to those within.
-(P.S. Sundaram)
+०७४५  
+A good fortress is hard to seize, well-supplied  
+And suited to those within.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४५</summary>
@@ -286,14 +285,14 @@ Cosy to live-That fort is good.        745
 
 <details><summary>मूलम् - ७४५</summary>
 
-कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्
-निलैक्कॆळिदाम् नीरदु अरण्। ७४५
+कॊळऱ्करिदाय्क् कॊण्डगूऴ्त् तागि अगत्तार्  
+निलैक्कॆळिदाम् नीरदु अरण्। ७४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४६</summary>
 
-ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्
-नल्लाळ् उडैयदु अरण्। ७४६
+ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्  
+नल्लाळ् उडैयदु अरण्। ७४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४६</summary>
@@ -304,10 +303,10 @@ Cosy to live-That fort is good.        745
 
 <details><summary>NVK Ashraf choice (en) - ७४६</summary>
 
-०७४६
-With all materials stocked inside,
-A fort should have brave soldiers as well. *
-(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+०७४६  
+With all materials stocked inside,  
+A fort should have brave soldiers as well. *  
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४६</summary>
@@ -342,14 +341,14 @@ And brave heroes to meet alarms.        746
 
 <details><summary>मूलम् - ७४६</summary>
 
-ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्
-नल्लाळ् उडैयदु अरण्। ७४६
+ऎल्लाप् पॊरुळुम् उडैत्ताय् इडत्तुदवुम्  
+नल्लाळ् उडैयदु अरण्। ७४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४७</summary>
 
-मुऱ्ऱियुम् मुऱ्ऱा तॆऱिन्दुम् अऱैप्पडुत्तुम्
-पऱ्ऱऱ् करियदु अरण्। ७४७
+मुऱ्ऱियुम् मुऱ्ऱा तॆऱिन्दुम् अऱैप्पडुत्तुम्  
+पऱ्ऱऱ् करियदु अरण्। ७४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४७</summary>
@@ -360,10 +359,10 @@ And brave heroes to meet alarms.        746
 
 <details><summary>NVK Ashraf choice (en) - ७४७</summary>
 
-०७४७
-Hard to capture a fort that withstands
-Besieging, artillery and treachery.
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+०७४७  
+Hard to capture a fort that withstands  
+Besieging, artillery and treachery.  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४७</summary>
@@ -398,14 +397,14 @@ Darts and mines of treacherous hands.        747
 
 <details><summary>मूलम् - ७४७</summary>
 
-मुऱ्ऱियुम् मुऱ्ऱा तॆऱिन्दुम् अऱैप्पडुत्तुम्
-पऱ्ऱऱ् करियदु अरण्। ७४७
+मुऱ्ऱियुम् मुऱ्ऱा तॆऱिन्दुम् अऱैप्पडुत्तुम्  
+पऱ्ऱऱ् करियदु अरण्। ७४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४८</summary>
 
-मुऱ्ऱाऱ्ऱि मुऱ्ऱि यवरैयुम् पऱ्ऱाऱ्ऱिप्
-पऱ्ऱियार् वॆल्वदु अरण्। ७४८
+मुऱ्ऱाऱ्ऱि मुऱ्ऱि यवरैयुम् पऱ्ऱाऱ्ऱिप्  
+पऱ्ऱियार् वॆल्वदु अरण्। ७४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४८</summary>
@@ -416,10 +415,10 @@ Darts and mines of treacherous hands.        747
 
 <details><summary>NVK Ashraf choice (en) - ७४८</summary>
 
-०७४८
-Even if encircled by besieging foes,
-A fortress enables the besieged to win.
-(N.V.K. Ashraf)
+०७४८  
+Even if encircled by besieging foes,  
+A fortress enables the besieged to win.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४८</summary>
@@ -454,14 +453,14 @@ The attacks of encircling foes.        748
 
 <details><summary>मूलम् - ७४८</summary>
 
-मुऱ्ऱाऱ्ऱि मुऱ्ऱि यवरैयुम् पऱ्ऱाऱ्ऱिप्
-पऱ्ऱियार् वॆल्वदु अरण्। ७४८
+मुऱ्ऱाऱ्ऱि मुऱ्ऱि यवरैयुम् पऱ्ऱाऱ्ऱिप्  
+पऱ्ऱियार् वॆल्वदु अरण्। ७४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४९</summary>
 
-मुऩैमुगत्तु माऱ्ऱलर् साय विऩैमुगत्तु
-वीऱॆय्दि माण्ड तरण्। ७४९
+मुऩैमुगत्तु माऱ्ऱलर् साय विऩैमुगत्तु  
+वीऱॆय्दि माण्ड तरण्। ७४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४९</summary>
@@ -472,10 +471,10 @@ The attacks of encircling foes.        748
 
 <details><summary>NVK Ashraf choice (en) - ७४९</summary>
 
-०७४९
-A good fort gains fame frustrating its siege
-At the outset of the battle. *
-(P.S. Sundaram)
+०७४९  
+A good fort gains fame frustrating its siege  
+At the outset of the battle. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४९</summary>
@@ -510,14 +509,14 @@ And gains by deeds a name glorious.        749
 
 <details><summary>मूलम् - ७४९</summary>
 
-मुऩैमुगत्तु माऱ्ऱलर् साय विऩैमुगत्तु
-वीऱॆय्दि माण्ड तरण्। ७४९
+मुऩैमुगत्तु माऱ्ऱलर् साय विऩैमुगत्तु  
+वीऱॆय्दि माण्ड तरण्। ७४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५०</summary>
 
-ऎऩैमाट्चित् तागियक् कण्णुम् विऩैमाट्चि
-इल्लार्गण् इल्लदु अरण्। ७५०
+ऎऩैमाट्चित् तागियक् कण्णुम् विऩैमाट्चि  
+इल्लार्गण् इल्लदु अरण्। ७५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५०</summary>
@@ -528,10 +527,10 @@ And gains by deeds a name glorious.        749
 
 <details><summary>NVK Ashraf choice (en) - ७५०</summary>
 
-०७५०
-A fortress, however grand, amounts to nothing
-If its defenders are meek.
-(N.V.K. Ashraf)
+०७५०  
+A fortress, however grand, amounts to nothing  
+If its defenders are meek.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५०</summary>
@@ -564,7 +563,7 @@ Is nil if heroes do not stand.        750
 
 <details><summary>मूलम् - ७५०</summary>
 
-ऎऩैमाट्चित् तागियक् कण्णुम् विऩैमाट्चि
-इल्लार्गण् इल्लदु अरण्। ७५०
+ऎऩैमाट्चित् तागियक् कण्णुम् विऩैमाट्चि  
+इल्लार्गण् इल्लदु अरण्। ७५०  
 </details>
 

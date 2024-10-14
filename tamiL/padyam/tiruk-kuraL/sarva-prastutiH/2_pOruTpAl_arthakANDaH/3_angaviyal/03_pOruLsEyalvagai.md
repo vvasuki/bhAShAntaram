@@ -3,11 +3,10 @@ title = "०३ पॊरुळ्सॆयल्वगै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७५१</summary>
 
-पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्
-पॊरुळल्लदु इल्लै पॊरुळ्। ७५१
+पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्  
+पॊरुळल्लदु इल्लै पॊरुळ्। ७५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५१</summary>
@@ -19,10 +18,10 @@ title = "०३ पॊरुळ्सॆयल्वगै"
 
 <details><summary>NVK Ashraf choice (en) - ७५१</summary>
 
-०७५१
-There is nothing like wealth
-To make the worthless worthy.
-(P.S. Sundaram)
+०७५१  
+There is nothing like wealth  
+To make the worthless worthy.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५१</summary>
@@ -56,14 +55,14 @@ Make the worthless as men of worth.        751
 
 <details><summary>मूलम् - ७५१</summary>
 
-पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्
-पॊरुळल्लदु इल्लै पॊरुळ्। ७५१
+पॊरुळल् लवरैप् पॊरुळागच् चॆय्युम्  
+पॊरुळल्लदु इल्लै पॊरुळ्। ७५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५२</summary>
 
-इल्लारै ऎल्लारुम् ऎळ्ळुवर् सॆल्वरै
-ऎल्लारुम् सॆय्वर् सिऱप्पु। ७५२
+इल्लारै ऎल्लारुम् ऎळ्ळुवर् सॆल्वरै  
+ऎल्लारुम् सॆय्वर् सिऱप्पु। ७५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५२</summary>
@@ -74,10 +73,10 @@ Make the worthless as men of worth.        751
 
 <details><summary>NVK Ashraf choice (en) - ७५२</summary>
 
-०७५२
-Everyone despises the poor
-While the rich are exalted by all.
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०७५२  
+Everyone despises the poor  
+While the rich are exalted by all.  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५२</summary>
@@ -112,14 +111,14 @@ The men of wealth all raise and praise.        752
 
 <details><summary>मूलम् - ७५२</summary>
 
-इल्लारै ऎल्लारुम् ऎळ्ळुवर् सॆल्वरै
-ऎल्लारुम् सॆय्वर् सिऱप्पु। ७५२
+इल्लारै ऎल्लारुम् ऎळ्ळुवर् सॆल्वरै  
+ऎल्लारुम् सॆय्वर् सिऱप्पु। ७५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५३</summary>
 
-पॊरुळॆऩ्ऩुम् पॊय्या विळक्कम् इरुळऱुक्कुम्
-ऎण्णिय तेयत्तुच् चॆऩ्ऱु। ७५३
+पॊरुळॆऩ्ऩुम् पॊय्या विळक्कम् इरुळऱुक्कुम्  
+ऎण्णिय तेयत्तुच् चॆऩ्ऱु। ७५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५३</summary>
@@ -130,10 +129,10 @@ The men of wealth all raise and praise.        752
 
 <details><summary>NVK Ashraf choice (en) - ७५३</summary>
 
-०७५३
-The unfailing light called wealth can dispel darkness
-Even in far reaching lands.
-(N.V.K. Ashraf)
+०७५३  
+The unfailing light called wealth can dispel darkness  
+Even in far reaching lands.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५३</summary>
@@ -168,14 +167,14 @@ To every land and gloom removes.        753
 
 <details><summary>मूलम् - ७५३</summary>
 
-पॊरुळॆऩ्ऩुम् पॊय्या विळक्कम् इरुळऱुक्कुम्
-ऎण्णिय तेयत्तुच् चॆऩ्ऱु। ७५३
+पॊरुळॆऩ्ऩुम् पॊय्या विळक्कम् इरुळऱुक्कुम्  
+ऎण्णिय तेयत्तुच् चॆऩ्ऱु। ७५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५४</summary>
 
-अऱऩ्ईऩुम् इऩ्पमुम् ईऩुम् तिऱऩऱिन्दु
-तीदिऩ्ऱि वन्द पॊरुळ्। ७५४
+अऱऩ्ईऩुम् इऩ्पमुम् ईऩुम् तिऱऩऱिन्दु  
+तीदिऩ्ऱि वन्द पॊरुळ्। ७५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५४</summary>
@@ -186,10 +185,10 @@ To every land and gloom removes.        753
 
 <details><summary>NVK Ashraf choice (en) - ७५४</summary>
 
-०७५४
-Wealth acquired sinless and well,
-Yields both virtue and happiness.
-(P.S. Sundaram)
+०७५४  
+Wealth acquired sinless and well,  
+Yields both virtue and happiness.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५४</summary>
@@ -224,14 +223,14 @@ Brings good virtue and also bliss.        754
 
 <details><summary>मूलम् - ७५४</summary>
 
-अऱऩ्ईऩुम् इऩ्पमुम् ईऩुम् तिऱऩऱिन्दु
-तीदिऩ्ऱि वन्द पॊरुळ्। ७५४
+अऱऩ्ईऩुम् इऩ्पमुम् ईऩुम् तिऱऩऱिन्दु  
+तीदिऩ्ऱि वन्द पॊरुळ्। ७५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५५</summary>
 
-अरुळॊडुम् अऩ्पॊडुम् वाराप् पॊरुळाक्कम्
-पुल्लार् पुरळ विडल्। ७५५
+अरुळॊडुम् अऩ्पॊडुम् वाराप् पॊरुळाक्कम्  
+पुल्लार् पुरळ विडल्। ७५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५५</summary>
@@ -242,10 +241,10 @@ Brings good virtue and also bliss.        754
 
 <details><summary>NVK Ashraf choice (en) - ७५५</summary>
 
-०७५५
-Discard and let go the wealth
-Obtained without love and grace.
-(N.V.K. Ashraf)
+०७५५  
+Discard and let go the wealth  
+Obtained without love and grace.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७५५</summary>
@@ -284,14 +283,14 @@ Off with it; it is disgrace!        755
 
 <details><summary>मूलम् - ७५५</summary>
 
-अरुळॊडुम् अऩ्पॊडुम् वाराप् पॊरुळाक्कम्
-पुल्लार् पुरळ विडल्। ७५५
+अरुळॊडुम् अऩ्पॊडुम् वाराप् पॊरुळाक्कम्  
+पुल्लार् पुरळ विडल्। ७५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५६</summary>
 
-उऱुबॊरुळुम् उल्गु पॊरुळुम्दऩ् ऒऩ्ऩार्त्
-तॆऱुबॊरुळुम् वेन्दऩ् पॊरुळ्। ७५६
+उऱुबॊरुळुम् उल्गु पॊरुळुम्दऩ् ऒऩ्ऩार्त्  
+तॆऱुबॊरुळुम् वेन्दऩ् पॊरुळ्। ७५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५६</summary>
@@ -302,10 +301,10 @@ Off with it; it is disgrace!        755
 
 <details><summary>NVK Ashraf choice (en) - ७५६</summary>
 
-०७५६
-Unclaimed wealth, spoils of war and wealth from taxes
-Are all rulers' wealth. *
-(W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)
+०७५६  
+Unclaimed wealth, spoils of war and wealth from taxes  
+Are all rulers' wealth. *  
+(W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५६</summary>
@@ -340,14 +339,14 @@ Taxes duties are king's treasure.        756
 
 <details><summary>मूलम् - ७५६</summary>
 
-उऱुबॊरुळुम् उल्गु पॊरुळुम्दऩ् ऒऩ्ऩार्त्
-तॆऱुबॊरुळुम् वेन्दऩ् पॊरुळ्। ७५६
+उऱुबॊरुळुम् उल्गु पॊरुळुम्दऩ् ऒऩ्ऩार्त्  
+तॆऱुबॊरुळुम् वेन्दऩ् पॊरुळ्। ७५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५७</summary>
 
-अरुळॆऩ्ऩुम् अऩ्पीऩ् कुऴवि पॊरुळॆऩ्ऩुम्
-सॆल्वच् चॆविलियाल् उण्डु। ७५७
+अरुळॆऩ्ऩुम् अऩ्पीऩ् कुऴवि पॊरुळॆऩ्ऩुम्  
+सॆल्वच् चॆविलियाल् उण्डु। ७५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५७</summary>
@@ -358,10 +357,10 @@ Taxes duties are king's treasure.        756
 
 <details><summary>NVK Ashraf choice (en) - ७५७</summary>
 
-०७५७
-The offspring of love 'graciousness' is nursed
-By that generous foster-mother 'wealth'.
-(J. Narayanaswamy), (N.V.K. Ashraf)
+०७५७  
+The offspring of love 'graciousness' is nursed  
+By that generous foster-mother 'wealth'.  
+(J. Narayanaswamy), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५७</summary>
@@ -395,14 +394,14 @@ By the wet-nurse of wealth cherished.        757
 
 <details><summary>मूलम् - ७५७</summary>
 
-अरुळॆऩ्ऩुम् अऩ्पीऩ् कुऴवि पॊरुळॆऩ्ऩुम्
-सॆल्वच् चॆविलियाल् उण्डु। ७५७
+अरुळॆऩ्ऩुम् अऩ्पीऩ् कुऴवि पॊरुळॆऩ्ऩुम्  
+सॆल्वच् चॆविलियाल् उण्डु। ७५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५८</summary>
 
-कुऩ्ऱेऱि याऩैप् पोर् कण्डऱ्ऱाल् तऩ्कैत्तॊऩ्ऱु
-उण्डागच् चॆय्वाऩ् विऩै। ७५८
+कुऩ्ऱेऱि याऩैप् पोर् कण्डऱ्ऱाल् तऩ्कैत्तॊऩ्ऱु  
+उण्डागच् चॆय्वाऩ् विऩै। ७५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५८</summary>
@@ -413,10 +412,10 @@ By the wet-nurse of wealth cherished.        757
 
 <details><summary>NVK Ashraf choice (en) - ७५८</summary>
 
-०७५८
-A wealthy man's undertakings
-Are like elephant-fights witnessed from a hill.
-(P.S. Sundaram)
+०७५८  
+A wealthy man's undertakings  
+Are like elephant-fights witnessed from a hill.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५८</summary>
@@ -451,14 +450,14 @@ Like hill-tuskers the wars of kings.        758
 
 <details><summary>मूलम् - ७५८</summary>
 
-कुऩ्ऱेऱि याऩैप् पोर् कण्डऱ्ऱाल् तऩ्कैत्तॊऩ्ऱु
-उण्डागच् चॆय्वाऩ् विऩै। ७५८
+कुऩ्ऱेऱि याऩैप् पोर् कण्डऱ्ऱाल् तऩ्कैत्तॊऩ्ऱु  
+उण्डागच् चॆय्वाऩ् विऩै। ७५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७५९</summary>
 
-सॆय्ग पॊरुळैच् चॆऱुनर् सॆरुक्कऱुक्कुम्
-ऎह्ह³दऩिऱ् कूरिय तिल्। ७५९
+सॆय्ग पॊरुळैच् चॆऱुनर् सॆरुक्कऱुक्कुम्  
+ऎह्ह³दऩिऱ् कूरिय तिल्। ७५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५९</summary>
@@ -469,10 +468,10 @@ Like hill-tuskers the wars of kings.        758
 
 <details><summary>NVK Ashraf choice (en) - ७५९</summary>
 
-०७५९
-Stock wealth: no steel sharper than that
-To cut down your foe's pride.
-(P.S. Sundaram)
+०७५९  
+Stock wealth: no steel sharper than that  
+To cut down your foe's pride.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५९</summary>
@@ -507,14 +506,14 @@ The insolence of foes to quell.        759
 
 <details><summary>मूलम् - ७५९</summary>
 
-सॆय्ग पॊरुळैच् चॆऱुनर् सॆरुक्कऱुक्कुम्
-ऎह्ह³दऩिऱ् कूरिय तिल्। ७५९
+सॆय्ग पॊरुळैच् चॆऱुनर् सॆरुक्कऱुक्कुम्  
+ऎह्ह³दऩिऱ् कूरिय तिल्। ७५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६०</summary>
 
-ऒण्बॊरुळ् काऴ्प्प इयऱ्ऱियार्क्कु ऎण्बॊरुळ्
-एऩै इरण्डुम् ऒरुङ्गु। ७६०
+ऒण्बॊरुळ् काऴ्प्प इयऱ्ऱियार्क्कु ऎण्बॊरुळ्  
+एऩै इरण्डुम् ऒरुङ्गु। ७६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६०</summary>
@@ -525,10 +524,10 @@ The insolence of foes to quell.        759
 
 <details><summary>NVK Ashraf choice (en) - ७६०</summary>
 
-०७६०
-He who makes glorious wealth in plenty,
-Gains the other two treasures together. *
-(M.S. Poornalingam Pillai)
+०७६०  
+He who makes glorious wealth in plenty,  
+Gains the other two treasures together. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७६०</summary>
@@ -567,7 +566,7 @@ Who acquire treasures abundant.        760
 
 <details><summary>मूलम् - ७६०</summary>
 
-ऒण्बॊरुळ् काऴ्प्प इयऱ्ऱियार्क्कु ऎण्बॊरुळ्
-एऩै इरण्डुम् ऒरुङ्गु। ७६०
+ऒण्बॊरुळ् काऴ्प्प इयऱ्ऱियार्क्कु ऎण्बॊरुळ्  
+एऩै इरण्डुम् ऒरुङ्गु। ७६०  
 </details>
 

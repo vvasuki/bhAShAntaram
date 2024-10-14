@@ -3,11 +3,10 @@ title = "०४ पडैमाट्चि"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७६१</summary>
 
-उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दऩ्
-वॆऱुक्कैयुळ् ऎल्लाम् तलै। ७६१
+उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दऩ्  
+वॆऱुक्कैयुळ् ऎल्लाम् तलै। ७६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६१</summary>
@@ -19,10 +18,10 @@ title = "०४ पडैमाट्चि"
 
 <details><summary>NVK Ashraf choice (en) - ७६१</summary>
 
-०७६१
-A well organized army unafraid of obstacles
-Is a ruler's greatest of all possessions.
-(N.V.K. Ashraf)
+०७६१  
+A well organized army unafraid of obstacles  
+Is a ruler's greatest of all possessions.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६१</summary>
@@ -57,14 +56,14 @@ Is king's treasure and main resource.        761
 
 <details><summary>मूलम् - ७६१</summary>
 
-उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दऩ्
-वॆऱुक्कैयुळ् ऎल्लाम् तलै। ७६१
+उऱुप्पमैन्दु ऊऱञ्जा वॆल्बडै वेन्दऩ्  
+वॆऱुक्कैयुळ् ऎल्लाम् तलै। ७६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६२</summary>
 
-उलैविडत्तु ऊऱञ्जा वऩ्कण् तॊलैविडत्तुत्
-तॊल्बडैक् कल्लाल् अरिदु। ७६२
+उलैविडत्तु ऊऱञ्जा वऩ्कण् तॊलैविडत्तुत्  
+तॊल्बडैक् कल्लाल् अरिदु। ७६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६२</summary>
@@ -75,10 +74,10 @@ Is king's treasure and main resource.        761
 
 <details><summary>NVK Ashraf choice (en) - ७६२</summary>
 
-०७६२
-Only seasoned armies show courage in dire straits,
-To stand fearless despite decimation.
-(P.S. Sundaram), (K. Kannan)
+०७६२  
+Only seasoned armies show courage in dire straits,  
+To stand fearless despite decimation.  
+(P.S. Sundaram), (K. Kannan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७६२</summary>
@@ -118,14 +117,14 @@ Quailing not in fall, the field.        762
 
 <details><summary>मूलम् - ७६२</summary>
 
-उलैविडत्तु ऊऱञ्जा वऩ्कण् तॊलैविडत्तुत्
-तॊल्बडैक् कल्लाल् अरिदु। ७६२
+उलैविडत्तु ऊऱञ्जा वऩ्कण् तॊलैविडत्तुत्  
+तॊल्बडैक् कल्लाल् अरिदु। ७६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६३</summary>
 
-ऒलित्तक्काल् ऎऩ्ऩाम् उवरि ऎलिप्पगै
-नागम् उयिर्प्पक् कॆडुम्। ७६३
+ऒलित्तक्काल् ऎऩ्ऩाम् उवरि ऎलिप्पगै  
+नागम् उयिर्प्पक् कॆडुम्। ७६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६३</summary>
@@ -136,10 +135,10 @@ Quailing not in fall, the field.        762
 
 <details><summary>NVK Ashraf choice (en) - ७६३</summary>
 
-०७६३
-So what if an army of rats roar like the sea?
-The hiss of a cobra will silence it.
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०७६३  
+So what if an army of rats roar like the sea?  
+The hiss of a cobra will silence it.  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६३</summary>
@@ -174,14 +173,14 @@ They perish at a cobra's whiff.        763
 
 <details><summary>मूलम् - ७६३</summary>
 
-ऒलित्तक्काल् ऎऩ्ऩाम् उवरि ऎलिप्पगै
-नागम् उयिर्प्पक् कॆडुम्। ७६३
+ऒलित्तक्काल् ऎऩ्ऩाम् उवरि ऎलिप्पगै  
+नागम् उयिर्प्पक् कॆडुम्। ७६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६४</summary>
 
-अऴिविऩ्ऱि अऱैबोगा तागि वऴिवन्द
-वऩ्क णदुवे पडै। ७६४
+अऴिविऩ्ऱि अऱैबोगा तागि वऴिवन्द  
+वऩ्क णदुवे पडै। ७६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६४</summary>
@@ -192,10 +191,10 @@ They perish at a cobra's whiff.        763
 
 <details><summary>NVK Ashraf choice (en) - ७६४</summary>
 
-०७६४
-A true army has a long tradition of valour
-And knows neither defeat nor desertion. *
-(Satguru Subramuniyaswami)
+०७६४  
+A true army has a long tradition of valour  
+And knows neither defeat nor desertion. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६४</summary>
@@ -230,14 +229,14 @@ Not crushed, routed nor marred in name.        764
 
 <details><summary>मूलम् - ७६४</summary>
 
-अऴिविऩ्ऱि अऱैबोगा तागि वऴिवन्द
-वऩ्क णदुवे पडै। ७६४
+अऴिविऩ्ऱि अऱैबोगा तागि वऴिवन्द  
+वऩ्क णदुवे पडै। ७६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६५</summary>
 
-कूऱ्ऱुडऩ्ऱु मेल्वरिऩुम् कूडि ऎदिर्निऱ्कुम्
-आऱ्ऱ लदुवे पडै। ७६५
+कूऱ्ऱुडऩ्ऱु मेल्वरिऩुम् कूडि ऎदिर्निऱ्कुम्  
+आऱ्ऱ लदुवे पडै। ७६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६५</summary>
@@ -248,10 +247,10 @@ Not crushed, routed nor marred in name.        764
 
 <details><summary>NVK Ashraf choice (en) - ७६५</summary>
 
-०७६५
-A capable army stands together and defies
-Even if yama attacks in fury. *
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०७६५  
+A capable army stands together and defies  
+Even if yama attacks in fury. *  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६५</summary>
@@ -285,14 +284,14 @@ Resists even Death-God fierce.        765
 
 <details><summary>मूलम् - ७६५</summary>
 
-कूऱ्ऱुडऩ्ऱु मेल्वरिऩुम् कूडि ऎदिर्निऱ्कुम्
-आऱ्ऱ लदुवे पडै। ७६५
+कूऱ्ऱुडऩ्ऱु मेल्वरिऩुम् कूडि ऎदिर्निऱ्कुम्  
+आऱ्ऱ लदुवे पडै। ७६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६६</summary>
 
-मऱमाऩम् माण्ड वऴिच्चॆलवु तेऱ्ऱम्
-ऎऩनाऩ्के एमम् पडैक्कु। ७६६
+मऱमाऩम् माण्ड वऴिच्चॆलवु तेऱ्ऱम्  
+ऎऩनाऩ्के एमम् पडैक्कु। ७६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६६</summary>
@@ -303,10 +302,10 @@ Resists even Death-God fierce.        765
 
 <details><summary>NVK Ashraf choice (en) - ७६६</summary>
 
-०७६६
-Valour, honour, tradition of chivalry and credibility;
-These four alone are an army's safeguards. *
-(W.H. Drew and J. Lazarus)
+०७६६  
+Valour, honour, tradition of chivalry and credibility;  
+These four alone are an army's safeguards. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६६</summary>
@@ -341,14 +340,14 @@ Stately-march, faith, honour, valour.        766
 
 <details><summary>मूलम् - ७६६</summary>
 
-मऱमाऩम् माण्ड वऴिच्चॆलवु तेऱ्ऱम्
-ऎऩनाऩ्के एमम् पडैक्कु। ७६६
+मऱमाऩम् माण्ड वऴिच्चॆलवु तेऱ्ऱम्  
+ऎऩनाऩ्के एमम् पडैक्कु। ७६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६७</summary>
 
-तार्दाङ्गिच् चॆल्वदु ताऩै तलैवन्द
-पोर्दाङ्गुम् तऩ्मै अऱिन्दु। ७६७
+तार्दाङ्गिच् चॆल्वदु ताऩै तलैवन्द  
+पोर्दाङ्गुम् तऩ्मै अऱिन्दु। ७६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६७</summary>
@@ -359,10 +358,10 @@ Stately-march, faith, honour, valour.        766
 
 <details><summary>NVK Ashraf choice (en) - ७६७</summary>
 
-०७६७
-An army should withstand and confound
-The foe's tactics, and advance.
-(P.S. Sundaram)
+०७६७  
+An army should withstand and confound  
+The foe's tactics, and advance.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६७</summary>
@@ -397,14 +396,14 @@ Knowing how the trend of war goes.        767
 
 <details><summary>मूलम् - ७६७</summary>
 
-तार्दाङ्गिच् चॆल्वदु ताऩै तलैवन्द
-पोर्दाङ्गुम् तऩ्मै अऱिन्दु। ७६७
+तार्दाङ्गिच् चॆल्वदु ताऩै तलैवन्द  
+पोर्दाङ्गुम् तऩ्मै अऱिन्दु। ७६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६८</summary>
 
-अडल्दगैयुम् आऱ्ऱलुम् इल्लॆऩिऩुम् ताऩै
-पडैत्तगैयाल् पाडु पॆऱुम्। ७६८
+अडल्दगैयुम् आऱ्ऱलुम् इल्लॆऩिऩुम् ताऩै  
+पडैत्तगैयाल् पाडु पॆऱुम्। ७६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६८</summary>
@@ -415,10 +414,10 @@ Knowing how the trend of war goes.        767
 
 <details><summary>NVK Ashraf choice (en) - ७६८</summary>
 
-०७६८
-Even if lacking in virtue of offence and defence,
-An army can gain fame by virtue of its size
-(N.V.K. Ashraf)
+०७६८  
+Even if lacking in virtue of offence and defence,  
+An army can gain fame by virtue of its size  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६८</summary>
@@ -453,14 +452,14 @@ Lacking in stay or dash in fray.        768
 
 <details><summary>मूलम् - ७६८</summary>
 
-अडल्दगैयुम् आऱ्ऱलुम् इल्लॆऩिऩुम् ताऩै
-पडैत्तगैयाल् पाडु पॆऱुम्। ७६८
+अडल्दगैयुम् आऱ्ऱलुम् इल्लॆऩिऩुम् ताऩै  
+पडैत्तगैयाल् पाडु पॆऱुम्। ७६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७६९</summary>
 
-सिऱुमैयुम् सॆल्लात् तुऩियुम् वऱुमैयुम्
-इल्लायिऩ् वॆल्लुम् पडै। ७६९
+सिऱुमैयुम् सॆल्लात् तुऩियुम् वऱुमैयुम्  
+इल्लायिऩ् वॆल्लुम् पडै। ७६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६९</summary>
@@ -471,10 +470,10 @@ Lacking in stay or dash in fray.        768
 
 <details><summary>NVK Ashraf choice (en) - ७६९</summary>
 
-०७६९
-An army can triumph if it is free from diminution,
-Irrevocable aversion and poverty. *
-(W.H. Drew and J. Lazarus)
+०७६९  
+An army can triumph if it is free from diminution,  
+Irrevocable aversion and poverty. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७६९</summary>
@@ -508,14 +507,14 @@ From weakness, aversion, poverty.        769
 
 <details><summary>मूलम् - ७६९</summary>
 
-सिऱुमैयुम् सॆल्लात् तुऩियुम् वऱुमैयुम्
-इल्लायिऩ् वॆल्लुम् पडै। ७६९
+सिऱुमैयुम् सॆल्लात् तुऩियुम् वऱुमैयुम्  
+इल्लायिऩ् वॆल्लुम् पडै। ७६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७०</summary>
 
-निलैमक्कळ् साल उडैत्तॆऩिऩुम् ताऩै
-तलैमक्कळ् इल्वऴि इल्। ७७०
+निलैमक्कळ् साल उडैत्तॆऩिऩुम् ताऩै  
+तलैमक्कळ् इल्वऴि इल्। ७७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७०</summary>
@@ -526,10 +525,10 @@ From weakness, aversion, poverty.        769
 
 <details><summary>NVK Ashraf choice (en) - ७७०</summary>
 
-०७७०
-However many and solid the soldiers,
-An army without a chief will lose its way. *
-(P.S. Sundaram)
+०७७०  
+However many and solid the soldiers,  
+An army without a chief will lose its way. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७०</summary>
@@ -562,7 +561,7 @@ Army can't march missing gen'rals.        770
 
 <details><summary>मूलम् - ७७०</summary>
 
-निलैमक्कळ् साल उडैत्तॆऩिऩुम् ताऩै
-तलैमक्कळ् इल्वऴि इल्। ७७०
+निलैमक्कळ् साल उडैत्तॆऩिऩुम् ताऩै  
+तलैमक्कळ् इल्वऴि इल्। ७७०  
 </details>
 

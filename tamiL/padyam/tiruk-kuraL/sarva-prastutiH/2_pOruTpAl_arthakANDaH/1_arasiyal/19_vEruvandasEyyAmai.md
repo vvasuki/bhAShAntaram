@@ -3,11 +3,10 @@ title = "१९ वॆरुवन्दसॆय्यामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५६१</summary>
 
-तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्
-ऒत्ताङ्गु ऒऱुप्पदु वेन्दु। ५६१
+तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्  
+ऒत्ताङ्गु ऒऱुप्पदु वेन्दु। ५६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६१</summary>
@@ -18,10 +17,10 @@ title = "१९ वॆरुवन्दसॆय्यामै"
 
 <details><summary>NVK Ashraf choice (en) - ५६१</summary>
 
-०५६१
-Call him king who probes and whose punishment
-Is deterrent and proportionate.
-(P.S. Sundaram)
+०५६१  
+Call him king who probes and whose punishment  
+Is deterrent and proportionate.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६१</summary>
@@ -55,14 +54,14 @@ Just to prevent future offence.        561
 
 <details><summary>मूलम् - ५६१</summary>
 
-तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्
-ऒत्ताङ्गु ऒऱुप्पदु वेन्दु। ५६१
+तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ताल्  
+ऒत्ताङ्गु ऒऱुप्पदु वेन्दु। ५६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६२</summary>
 
-कडिदोच्चि मॆल्ल ऎऱिग नॆडिदाक्कम्
-नीङ्गामै वेण्डु पवर्। ५६२
+कडिदोच्चि मॆल्ल ऎऱिग नॆडिदाक्कम्  
+नीङ्गामै वेण्डु पवर्। ५६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६२</summary>
@@ -73,10 +72,10 @@ Just to prevent future offence.        561
 
 <details><summary>NVK Ashraf choice (en) - ५६२</summary>
 
-०५६२
-Raise your hand forcibly but bring it lightly
-To have a lasting effect.
-SDR
+०५६२  
+Raise your hand forcibly but bring it lightly  
+To have a lasting effect.  
+SDR  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५६२</summary>
@@ -115,14 +114,14 @@ This strict mildness prolongs the sway.        562
 
 <details><summary>मूलम् - ५६२</summary>
 
-कडिदोच्चि मॆल्ल ऎऱिग नॆडिदाक्कम्
-नीङ्गामै वेण्डु पवर्। ५६२
+कडिदोच्चि मॆल्ल ऎऱिग नॆडिदाक्कम्  
+नीङ्गामै वेण्डु पवर्। ५६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६३</summary>
 
-वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्गोल ऩायिऩ्
-ऒरुवन्दम् ऒल्लैक् कॆडुम्। ५६३
+वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्गोल ऩायिऩ्  
+ऒरुवन्दम् ऒल्लैक् कॆडुम्। ५६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६३</summary>
@@ -133,10 +132,10 @@ This strict mildness prolongs the sway.        562
 
 <details><summary>NVK Ashraf choice (en) - ५६३</summary>
 
-०५६३
-A dictator causing oppression
-Will have a speedy and certain end.
-(N.V.K. Ashraf)
+०५६३  
+A dictator causing oppression  
+Will have a speedy and certain end.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६३</summary>
@@ -170,14 +169,14 @@ Brings king's ruin quick indeed.        563
 
 <details><summary>मूलम् - ५६३</summary>
 
-वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्गोल ऩायिऩ्
-ऒरुवन्दम् ऒल्लैक् कॆडुम्। ५६३
+वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्गोल ऩायिऩ्  
+ऒरुवन्दम् ऒल्लैक् कॆडुम्। ५६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६४</summary>
 
-इऱैगडियऩ् ऎऩ्ऱुरैक्कुम् इऩ्ऩाच्चॊल् वेन्दऩ्
-उऱैगडुगि ऒल्लैक् कॆडुम्। ५६४
+इऱैगडियऩ् ऎऩ्ऱुरैक्कुम् इऩ्ऩाच्चॊल् वेन्दऩ्  
+उऱैगडुगि ऒल्लैक् कॆडुम्। ५६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६४</summary>
@@ -188,10 +187,10 @@ Brings king's ruin quick indeed.        563
 
 <details><summary>NVK Ashraf choice (en) - ५६४</summary>
 
-०५६४
-When a king is decried a tyrant,
-His life is shortened and end becomes imminent.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०५६४  
+When a king is decried a tyrant,  
+His life is shortened and end becomes imminent.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६४</summary>
@@ -225,14 +224,14 @@ His days dwindled, hasten his fall.        564
 
 <details><summary>मूलम् - ५६४</summary>
 
-इऱैगडियऩ् ऎऩ्ऱुरैक्कुम् इऩ्ऩाच्चॊल् वेन्दऩ्
-उऱैगडुगि ऒल्लैक् कॆडुम्। ५६४
+इऱैगडियऩ् ऎऩ्ऱुरैक्कुम् इऩ्ऩाच्चॊल् वेन्दऩ्  
+उऱैगडुगि ऒल्लैक् कॆडुम्। ५६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६५</summary>
 
-अरुञ्जॆव्वि इऩ्ऩा मुगत्ताऩ् पॆरुञ्जॆल्वम्
-पेऎय्गण् डऩ्ऩतु उडैत्तु। ५६५
+अरुञ्जॆव्वि इऩ्ऩा मुगत्ताऩ् पॆरुञ्जॆल्वम्  
+पेऎय्गण् डऩ्ऩतु उडैत्तु। ५६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६५</summary>
@@ -243,10 +242,10 @@ His days dwindled, hasten his fall.        564
 
 <details><summary>NVK Ashraf choice (en) - ५६५</summary>
 
-०५६५
-The great wealth of one inaccessible and sour-faced
-Is no better than a demon's. *
-(P.S. Sundaram)
+०५६५  
+The great wealth of one inaccessible and sour-faced  
+Is no better than a demon's. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६५</summary>
@@ -280,14 +279,14 @@ His wealth seems watched by a ghoul.        565
 
 <details><summary>मूलम् - ५६५</summary>
 
-अरुञ्जॆव्वि इऩ्ऩा मुगत्ताऩ् पॆरुञ्जॆल्वम्
-पेऎय्गण् डऩ्ऩतु उडैत्तु। ५६५
+अरुञ्जॆव्वि इऩ्ऩा मुगत्ताऩ् पॆरुञ्जॆल्वम्  
+पेऎय्गण् डऩ्ऩतु उडैत्तु। ५६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६६</summary>
 
-कडुञ्जॊल्लऩ् कण्णिलऩ् आयिऩ् नॆडुञ्जॆल्वम्
-नीडिऩ्ऱि आङ्गे कॆडुम्। ५६६
+कडुञ्जॊल्लऩ् कण्णिलऩ् आयिऩ् नॆडुञ्जॆल्वम्  
+नीडिऩ्ऱि आङ्गे कॆडुम्। ५६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६६</summary>
@@ -298,10 +297,10 @@ His wealth seems watched by a ghoul.        565
 
 <details><summary>NVK Ashraf choice (en) - ५६६</summary>
 
-०५६६
-If he is unkind and speaks harsh,
-His lofty wealth ends there without lasting long. *
-(Satguru Subramuniyaswami)
+०५६६  
+If he is unkind and speaks harsh,  
+His lofty wealth ends there without lasting long. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६६</summary>
@@ -335,14 +334,14 @@ His wealth and power quickly fade.        566
 
 <details><summary>मूलम् - ५६६</summary>
 
-कडुञ्जॊल्लऩ् कण्णिलऩ् आयिऩ् नॆडुञ्जॆल्वम्
-नीडिऩ्ऱि आङ्गे कॆडुम्। ५६६
+कडुञ्जॊल्लऩ् कण्णिलऩ् आयिऩ् नॆडुञ्जॆल्वम्  
+नीडिऩ्ऱि आङ्गे कॆडुम्। ५६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६७</summary>
 
-कडुमॊऴियुम् कैयिगन्द तण्डमुम् वेन्दऩ्
-अडुमुरण् तेय्क्कुम् अरम्। ५६७
+कडुमॊऴियुम् कैयिगन्द तण्डमुम् वेन्दऩ्  
+अडुमुरण् तेय्क्कुम् अरम्। ५६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६७</summary>
@@ -353,10 +352,10 @@ His wealth and power quickly fade.        566
 
 <details><summary>NVK Ashraf choice (en) - ५६७</summary>
 
-०५६७
-Harsh words and excessive punishments
-Are files that grind down a king's might. *
-(P.S. Sundaram)
+०५६७  
+Harsh words and excessive punishments  
+Are files that grind down a king's might. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६७</summary>
@@ -390,14 +389,14 @@ Like files conquering power corrode.        567
 
 <details><summary>मूलम् - ५६७</summary>
 
-कडुमॊऴियुम् कैयिगन्द तण्डमुम् वेन्दऩ्
-अडुमुरण् तेय्क्कुम् अरम्। ५६७
+कडुमॊऴियुम् कैयिगन्द तण्डमुम् वेन्दऩ्  
+अडुमुरण् तेय्क्कुम् अरम्। ५६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६८</summary>
 
-इऩत्ताऱ्ऱि ऎण्णाद वेन्दऩ् सिऩत्ताऱ्ऱिच्
-चीऱिऱ् सिऱुगुम् तिरु। ५६८
+इऩत्ताऱ्ऱि ऎण्णाद वेन्दऩ् सिऩत्ताऱ्ऱिच्  
+चीऱिऱ् सिऱुगुम् तिरु। ५६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६८</summary>
@@ -408,10 +407,10 @@ Like files conquering power corrode.        567
 
 <details><summary>NVK Ashraf choice (en) - ५६८</summary>
 
-०५६८
-The king who rages but not reflect on his counsel,
-Will soon see his wealth shrink. *
-(K. Kannan)
+०५६८  
+The king who rages but not reflect on his counsel,  
+Will soon see his wealth shrink. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६८</summary>
@@ -445,14 +444,14 @@ Rages with wrath-his fortune fails.        568
 
 <details><summary>मूलम् - ५६८</summary>
 
-इऩत्ताऱ्ऱि ऎण्णाद वेन्दऩ् सिऩत्ताऱ्ऱिच्
-चीऱिऱ् सिऱुगुम् तिरु। ५६८
+इऩत्ताऱ्ऱि ऎण्णाद वेन्दऩ् सिऩत्ताऱ्ऱिच्  
+चीऱिऱ् सिऱुगुम् तिरु। ५६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६९</summary>
 
-सॆरुवन्द पोऴ्दिऱ् सिऱैसॆय्या वेन्दऩ्
-वॆरुवन्दु वॆय्दु कॆडुम्। ५६९
+सॆरुवन्द पोऴ्दिऱ् सिऱैसॆय्या वेन्दऩ्  
+वॆरुवन्दु वॆय्दु कॆडुम्। ५६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६९</summary>
@@ -463,10 +462,10 @@ Rages with wrath-his fortune fails.        568
 
 <details><summary>NVK Ashraf choice (en) - ५६९</summary>
 
-०५६९
-A king who neglects his defences,
-Will die of fright at the time of war. *
-(P.S. Sundaram)
+०५६९  
+A king who neglects his defences,  
+Will die of fright at the time of war. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५६९</summary>
@@ -500,14 +499,14 @@ Fears his foes in wars and dies.        569
 
 <details><summary>मूलम् - ५६९</summary>
 
-सॆरुवन्द पोऴ्दिऱ् सिऱैसॆय्या वेन्दऩ्
-वॆरुवन्दु वॆय्दु कॆडुम्। ५६९
+सॆरुवन्द पोऴ्दिऱ् सिऱैसॆय्या वेन्दऩ्  
+वॆरुवन्दु वॆय्दु कॆडुम्। ५६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५७०</summary>
 
-कल्लार्प् पिणिक्कुम् कडुङ्गोल् अदुवल्लदु
-इल्लै निलक्कुप् पॊऱै। ५७०
+कल्लार्प् पिणिक्कुम् कडुङ्गोल् अदुवल्लदु  
+इल्लै निलक्कुप् पॊऱै। ५७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५७०</summary>
@@ -518,10 +517,10 @@ Fears his foes in wars and dies.        569
 
 <details><summary>NVK Ashraf choice (en) - ५७०</summary>
 
-०५७०
-The earth bears no heavier burden
-Than a tyrant surrounded by ignorant men. *
-(P.S. Sundaram)
+०५७०  
+The earth bears no heavier burden  
+Than a tyrant surrounded by ignorant men. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५७०</summary>
@@ -554,7 +553,7 @@ Is tyrants bound to fools uncouth.        570
 
 <details><summary>मूलम् - ५७०</summary>
 
-कल्लार्प् पिणिक्कुम् कडुङ्गोल् अदुवल्लदु
-इल्लै निलक्कुप् पॊऱै। ५७०
+कल्लार्प् पिणिक्कुम् कडुङ्गोल् अदुवल्लदु  
+इल्लै निलक्कुप् पॊऱै। ५७०  
 </details>
 

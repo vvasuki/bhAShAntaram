@@ -3,11 +3,10 @@ title = "१८ कॊडुङ्गोन्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५५१</summary>
 
-कॊलैमेऱ्कॊण् डारिऱ् कॊडिदे अलैमेऱ्कॊण्डु
-अल्लवै सॆय्दॊऴुगुम् वेन्दु। ५५१
+कॊलैमेऱ्कॊण् डारिऱ् कॊडिदे अलैमेऱ्कॊण्डु  
+अल्लवै सॆय्दॊऴुगुम् वेन्दु। ५५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५१</summary>
@@ -18,10 +17,10 @@ title = "१८ कॊडुङ्गोन्मै"
 
 <details><summary>NVK Ashraf choice (en) - ५५१</summary>
 
-०५५१
-More malicious than a murderer is the king
-Who rules with injustice and oppression.*
-(Satguru Subramuniyaswami)
+०५५१  
+More malicious than a murderer is the king  
+Who rules with injustice and oppression.*  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५१</summary>
@@ -55,14 +54,14 @@ Is worse than cruel murderer.        551
 
 <details><summary>मूलम् - ५५१</summary>
 
-कॊलैमेऱ्कॊण् डारिऱ् कॊडिदे अलैमेऱ्कॊण्डु
-अल्लवै सॆय्दॊऴुगुम् वेन्दु। ५५१
+कॊलैमेऱ्कॊण् डारिऱ् कॊडिदे अलैमेऱ्कॊण्डु  
+अल्लवै सॆय्दॊऴुगुम् वेन्दु। ५५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५२</summary>
 
-वेलॊडु निऩ्ऱाऩ् इडुवॆऩ् ऱतुबोलुम्
-कोलॊडु निऩ्ऱाऩ् इरवु। ५५२
+वेलॊडु निऩ्ऱाऩ् इडुवॆऩ् ऱतुबोलुम्  
+कोलॊडु निऩ्ऱाऩ् इरवु। ५५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५२</summary>
@@ -73,10 +72,10 @@ Is worse than cruel murderer.        551
 
 <details><summary>NVK Ashraf choice (en) - ५५२</summary>
 
-०५५२
-A tyrant taxing his subjects
-Is like an armed dacoit extorting money. *
-(K. Kannan)
+०५५२  
+A tyrant taxing his subjects  
+Is like an armed dacoit extorting money. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५२</summary>
@@ -110,14 +109,14 @@ Is "give" of lanced robber bold.        552
 
 <details><summary>मूलम् - ५५२</summary>
 
-वेलॊडु निऩ्ऱाऩ् इडुवॆऩ् ऱतुबोलुम्
-कोलॊडु निऩ्ऱाऩ् इरवु। ५५२
+वेलॊडु निऩ्ऱाऩ् इडुवॆऩ् ऱतुबोलुम्  
+कोलॊडु निऩ्ऱाऩ् इरवु। ५५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५३</summary>
 
-नाडॊऱुम् नाडि मुऱैसॆय्या मऩ्ऩवऩ्
-नाडॊऱुम् नाडु कॆडुम्। ५५३
+नाडॊऱुम् नाडि मुऱैसॆय्या मऩ्ऩवऩ्  
+नाडॊऱुम् नाडु कॆडुम्। ५५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५३</summary>
@@ -128,10 +127,10 @@ Is "give" of lanced robber bold.        552
 
 <details><summary>NVK Ashraf choice (en) - ५५३</summary>
 
-०५५३
-A king who fails in his day today affairs
-Loses his kingdom day by day.
-(K. Kannan)
+०५५३  
+A king who fails in his day today affairs  
+Loses his kingdom day by day.  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५३</summary>
@@ -165,14 +164,14 @@ Or day by day the realm decays.        553
 
 <details><summary>मूलम् - ५५३</summary>
 
-नाडॊऱुम् नाडि मुऱैसॆय्या मऩ्ऩवऩ्
-नाडॊऱुम् नाडु कॆडुम्। ५५३
+नाडॊऱुम् नाडि मुऱैसॆय्या मऩ्ऩवऩ्  
+नाडॊऱुम् नाडु कॆडुम्। ५५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५४</summary>
 
-कूऴुङ् गुडियुम् ऒरुङ्गिऴक्कुम् कोल्गोडिच्
-चूऴादु सॆय्युम् अरसु। ५५४
+कूऴुङ् गुडियुम् ऒरुङ्गिऴक्कुम् कोल्गोडिच्  
+चूऴादु सॆय्युम् अरसु। ५५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५४</summary>
@@ -183,10 +182,10 @@ Or day by day the realm decays.        553
 
 <details><summary>NVK Ashraf choice (en) - ५५४</summary>
 
-०५५४
-A thoughtless king who abuses his scepter
-Will lose at once his wealth and subjects.
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+०५५४  
+A thoughtless king who abuses his scepter  
+Will lose at once his wealth and subjects.  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५४</summary>
@@ -220,14 +219,14 @@ If his sceptre he dares abuse.        554
 
 <details><summary>मूलम् - ५५४</summary>
 
-कूऴुङ् गुडियुम् ऒरुङ्गिऴक्कुम् कोल्गोडिच्
-चूऴादु सॆय्युम् अरसु। ५५४
+कूऴुङ् गुडियुम् ऒरुङ्गिऴक्कुम् कोल्गोडिच्  
+चूऴादु सॆय्युम् अरसु। ५५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५५</summary>
 
-अल्लऱ्पट्टु आऱ्ऱादु अऴुदगण् णीरऩ्ऱे
-सॆल्वत्तैत् तेय्क्कुम् पडै ५५५
+अल्लऱ्पट्टु आऱ्ऱादु अऴुदगण् णीरऩ्ऱे  
+सॆल्वत्तैत् तेय्क्कुम् पडै ५५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५५</summary>
@@ -238,10 +237,10 @@ If his sceptre he dares abuse.        554
 
 <details><summary>NVK Ashraf choice (en) - ५५५</summary>
 
-०५५५
-It is the tears of those groaning under oppression
-That wear out the prosperity of the king.
-(V.V.S. Aiyar)
+०५५५  
+It is the tears of those groaning under oppression  
+That wear out the prosperity of the king.  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५५५</summary>
@@ -280,14 +279,14 @@ File the royal wealth away.        555
 
 <details><summary>मूलम् - ५५५</summary>
 
-अल्लऱ्पट्टु आऱ्ऱादु अऴुदगण् णीरऩ्ऱे
-सॆल्वत्तैत् तेय्क्कुम् पडै ५५५
+अल्लऱ्पट्टु आऱ्ऱादु अऴुदगण् णीरऩ्ऱे  
+सॆल्वत्तैत् तेय्क्कुम् पडै ५५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५६</summary>
 
-मऩ्ऩर्क्कु मऩ्ऩुदल् सॆङ्गोऩ्मै अह्दिऩ्ऱेल्
-मऩ्ऩावाम् मऩ्ऩर्क् कॊळि। ५५६
+मऩ्ऩर्क्कु मऩ्ऩुदल् सॆङ्गोऩ्मै अह्दिऩ्ऱेल्  
+मऩ्ऩावाम् मऩ्ऩर्क् कॊळि। ५५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५६</summary>
@@ -298,10 +297,10 @@ File the royal wealth away.        555
 
 <details><summary>NVK Ashraf choice (en) - ५५६</summary>
 
-०५५६
-Just rule stabilizes a king.
-Lacking it his glory fades.
-(P.S. Sundaram)
+०५५६  
+Just rule stabilizes a king.  
+Lacking it his glory fades.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५६</summary>
@@ -335,14 +334,14 @@ Without it wanes the royal light.        556
 
 <details><summary>मूलम् - ५५६</summary>
 
-मऩ्ऩर्क्कु मऩ्ऩुदल् सॆङ्गोऩ्मै अह्दिऩ्ऱेल्
-मऩ्ऩावाम् मऩ्ऩर्क् कॊळि। ५५६
+मऩ्ऩर्क्कु मऩ्ऩुदल् सॆङ्गोऩ्मै अह्दिऩ्ऱेल्  
+मऩ्ऩावाम् मऩ्ऩर्क् कॊळि। ५५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५७</summary>
 
-तुळियिऩ्मै ञालत्तिऱ्कु ऎऱ्ऱऱ्ऱे वेन्दऩ्
-अळियिऩ्मै वाऴुम् उयिर्क्कु। ५५७
+तुळियिऩ्मै ञालत्तिऱ्कु ऎऱ्ऱऱ्ऱे वेन्दऩ्  
+अळियिऩ्मै वाऴुम् उयिर्क्कु। ५५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५७</summary>
@@ -353,10 +352,10 @@ Without it wanes the royal light.        556
 
 <details><summary>NVK Ashraf choice (en) - ५५७</summary>
 
-०५५७
-How fares the earth without rain?
-So fares life under a ruthless king.
-(P.S. Sundaram)
+०५५७  
+How fares the earth without rain?  
+So fares life under a ruthless king.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५५७</summary>
@@ -395,14 +394,14 @@ Is graceless king to creatures all.        557
 
 <details><summary>मूलम् - ५५७</summary>
 
-तुळियिऩ्मै ञालत्तिऱ्कु ऎऱ्ऱऱ्ऱे वेन्दऩ्
-अळियिऩ्मै वाऴुम् उयिर्क्कु। ५५७
+तुळियिऩ्मै ञालत्तिऱ्कु ऎऱ्ऱऱ्ऱे वेन्दऩ्  
+अळियिऩ्मै वाऴुम् उयिर्क्कु। ५५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५८</summary>
 
-इऩ्मैयिऩ् इऩ्ऩादु उडैमै मुऱैसॆय्या
-मऩ्ऩवऩ् कोऱ्कीऴ्प् पडिऩ्। ५५८
+इऩ्मैयिऩ् इऩ्ऩादु उडैमै मुऱैसॆय्या  
+मऩ्ऩवऩ् कोऱ्कीऴ्प् पडिऩ्। ५५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५८</summary>
@@ -413,10 +412,10 @@ Is graceless king to creatures all.        557
 
 <details><summary>NVK Ashraf choice (en) - ५५८</summary>
 
-०५५८
-Possessions are worse than poverty
-Under the scepter of an unjust king.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०५५८  
+Possessions are worse than poverty  
+Under the scepter of an unjust king.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५८</summary>
@@ -450,14 +449,14 @@ If ruler is unjust despot.        558
 
 <details><summary>मूलम् - ५५८</summary>
 
-इऩ्मैयिऩ् इऩ्ऩादु उडैमै मुऱैसॆय्या
-मऩ्ऩवऩ् कोऱ्कीऴ्प् पडिऩ्। ५५८
+इऩ्मैयिऩ् इऩ्ऩादु उडैमै मुऱैसॆय्या  
+मऩ्ऩवऩ् कोऱ्कीऴ्प् पडिऩ्। ५५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५९</summary>
 
-मुऱैगोडि मऩ्ऩवऩ् सॆय्यिऩ् उऱैगोडि
-ऒल्लादु वाऩम् पॆयल्। ५५९
+मुऱैगोडि मऩ्ऩवऩ् सॆय्यिऩ् उऱैगोडि  
+ऒल्लादु वाऩम् पॆयल्। ५५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५९</summary>
@@ -468,10 +467,10 @@ If ruler is unjust despot.        558
 
 <details><summary>NVK Ashraf choice (en) - ५५९</summary>
 
-०५५९
-If a king acts contrary to justice,
-Monsoons fail and clouds shed no rain.
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+०५५९  
+If a king acts contrary to justice,  
+Monsoons fail and clouds shed no rain.  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५९</summary>
@@ -505,14 +504,14 @@ If the king misuses his power.        559
 
 <details><summary>मूलम् - ५५९</summary>
 
-मुऱैगोडि मऩ्ऩवऩ् सॆय्यिऩ् उऱैगोडि
-ऒल्लादु वाऩम् पॆयल्। ५५९
+मुऱैगोडि मऩ्ऩवऩ् सॆय्यिऩ् उऱैगोडि  
+ऒल्लादु वाऩम् पॆयल्। ५५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५६०</summary>
 
-आबयऩ् कुऩ्ऱुम् अऱुदॊऴिलोर् नूल्मऱप्पर्
-कावलऩ् कावाऩ् ऎऩिऩ्। ५६०
+आबयऩ् कुऩ्ऱुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
+कावलऩ् कावाऩ् ऎऩिऩ्। ५६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५६०</summary>
@@ -523,10 +522,10 @@ If the king misuses his power.        559
 
 <details><summary>NVK Ashraf choice (en) - ५६०</summary>
 
-०५६०
-Cows yield less and priests forget their hymns
-If the protector fails to protect. *
-(P.S. Sundaram)
+०५६०  
+Cows yield less and priests forget their hymns  
+If the protector fails to protect. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५६०</summary>
@@ -564,7 +563,7 @@ Cows give less if kings guard no more.         560
 
 <details><summary>मूलम् - ५६०</summary>
 
-आबयऩ् कुऩ्ऱुम् अऱुदॊऴिलोर् नूल्मऱप्पर्
-कावलऩ् कावाऩ् ऎऩिऩ्। ५६०
+आबयऩ् कुऩ्ऱुम् अऱुदॊऴिलोर् नूल्मऱप्पर्  
+कावलऩ् कावाऩ् ऎऩिऩ्। ५६०  
 </details>
 

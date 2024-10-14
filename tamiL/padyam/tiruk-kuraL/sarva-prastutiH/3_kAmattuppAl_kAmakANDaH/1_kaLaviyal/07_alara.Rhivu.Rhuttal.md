@@ -3,11 +3,10 @@ title = "०७ अलरऱिवुऱुत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११४१</summary>
 
-अलरॆऴ आरुयिर् निऱ्कुम् अदऩैप्
-पलरऱियार् पाक्कियत् ताल्। ११४१
+अलरॆऴ आरुयिर् निऱ्कुम् अदऩैप्  
+पलरऱियार् पाक्कियत् ताल्। ११४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४१</summary>
@@ -18,10 +17,10 @@ title = "०७ अलरऱिवुऱुत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - ११४१</summary>
 
-११४१
-Rumours revive hope; Those that spread them
-Luckily don't know this.
-(P.S. Sundaram)
+११४१  
+Rumours revive hope; Those that spread them  
+Luckily don't know this.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४१</summary>
@@ -55,14 +54,14 @@ Good luck! many know not its sense.        1141
 
 <details><summary>मूलम् - ११४१</summary>
 
-अलरॆऴ आरुयिर् निऱ्कुम् अदऩैप्
-पलरऱियार् पाक्कियत् ताल्। ११४१
+अलरॆऴ आरुयिर् निऱ्कुम् अदऩैप्  
+पलरऱियार् पाक्कियत् ताल्। ११४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४२</summary>
 
-मलरऩ्ऩ कण्णाळ् अरुमै अऱियादु
-अलरॆमक्कु ईन्ददिव् वूर्। ११४२
+मलरऩ्ऩ कण्णाळ् अरुमै अऱियादु  
+अलरॆमक्कु ईन्ददिव् वूर्। ११४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४२</summary>
@@ -73,10 +72,10 @@ Good luck! many know not its sense.        1141
 
 <details><summary>NVK Ashraf choice (en) - ११४२</summary>
 
-११४२
-Rumours have gifted me this flowery-eyed belle;
-The public know not her preciousness. *
-(J. Narayanaswamy)
+११४२  
+Rumours have gifted me this flowery-eyed belle;  
+The public know not her preciousness. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४२</summary>
@@ -110,14 +109,14 @@ People know not what rare angel.        1142
 
 <details><summary>मूलम् - ११४२</summary>
 
-मलरऩ्ऩ कण्णाळ् अरुमै अऱियादु
-अलरॆमक्कु ईन्ददिव् वूर्। ११४२
+मलरऩ्ऩ कण्णाळ् अरुमै अऱियादु  
+अलरॆमक्कु ईन्ददिव् वूर्। ११४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४३</summary>
 
-उऱाअदो ऊरऱिन्द कॆळवै अदऩैप्
-पॆऱाअदु पॆऱ्ऱऩ्ऩ नीर्त्तु। ११४३
+उऱाअदो ऊरऱिन्द कॆळवै अदऩैप्  
+पॆऱाअदु पॆऱ्ऱऩ्ऩ नीर्त्तु। ११४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४३</summary>
@@ -128,10 +127,10 @@ People know not what rare angel.        1142
 
 <details><summary>NVK Ashraf choice (en) - ११४३</summary>
 
-११४३
-Should I not welcome their rumours
-Which give that feel of owning whom I own not?
-(P.S. Sundaram), (N.V.K. Ashraf)
+११४३  
+Should I not welcome their rumours  
+Which give that feel of owning whom I own not?  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४३</summary>
@@ -165,14 +164,14 @@ Having not, I feel, I have her.        1143
 
 <details><summary>मूलम् - ११४३</summary>
 
-उऱाअदो ऊरऱिन्द कॆळवै अदऩैप्
-पॆऱाअदु पॆऱ्ऱऩ्ऩ नीर्त्तु। ११४३
+उऱाअदो ऊरऱिन्द कॆळवै अदऩैप्  
+पॆऱाअदु पॆऱ्ऱऩ्ऩ नीर्त्तु। ११४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४४</summary>
 
-कव्वैयाल् कव्विदु कामम् अदुविऩ्ऱेल्
-तव्वॆऩ्ऩुम् तऩ्मै इऴन्दु। ११४४
+कव्वैयाल् कव्विदु कामम् अदुविऩ्ऱेल्  
+तव्वॆऩ्ऩुम् तऩ्मै इऴन्दु। ११४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४४</summary>
@@ -183,10 +182,10 @@ Having not, I feel, I have her.        1143
 
 <details><summary>NVK Ashraf choice (en) - ११४४</summary>
 
-११४४
-Rumours enhance my love which might have
-Otherwise waned losing its power. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+११४४  
+Rumours enhance my love which might have  
+Otherwise waned losing its power. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४४</summary>
@@ -220,14 +219,14 @@ Or else it becomes bleak and weak.        1144
 
 <details><summary>मूलम् - ११४४</summary>
 
-कव्वैयाल् कव्विदु कामम् अदुविऩ्ऱेल्
-तव्वॆऩ्ऩुम् तऩ्मै इऴन्दु। ११४४
+कव्वैयाल् कव्विदु कामम् अदुविऩ्ऱेल्  
+तव्वॆऩ्ऩुम् तऩ्मै इऴन्दु। ११४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४५</summary>
 
-कळित्तॊऱुम् कळ्ळुण्डल् वेट्टऱ्ऱाल् कामम्
-वॆळिप्पडुन् दोऱुम् इऩिदु। ११४५
+कळित्तॊऱुम् कळ्ळुण्डल् वेट्टऱ्ऱाल् कामम्  
+वॆळिप्पडुन् दोऱुम् इऩिदु। ११४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४५</summary>
@@ -238,10 +237,10 @@ Or else it becomes bleak and weak.        1144
 
 <details><summary>NVK Ashraf choice (en) - ११४५</summary>
 
-११४५
-Wine delights with every sip.
-So does love with every disclosure.
-(N.V.K. Ashraf)
+११४५  
+Wine delights with every sip.  
+So does love with every disclosure.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४५</summary>
@@ -275,14 +274,14 @@ Love delights as rumour grows.        1145
 
 <details><summary>मूलम् - ११४५</summary>
 
-कळित्तॊऱुम् कळ्ळुण्डल् वेट्टऱ्ऱाल् कामम्
-वॆळिप्पडुन् दोऱुम् इऩिदु। ११४५
+कळित्तॊऱुम् कळ्ळुण्डल् वेट्टऱ्ऱाल् कामम्  
+वॆळिप्पडुन् दोऱुम् इऩिदु। ११४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४६</summary>
 
-कण्डदु मऩ्ऩुम् ऒरुनाळ् अलर्मऩ्ऩुम्
-तिङ्गळैप् पाम्बुगॊण् डऱ्ऱु। ११४६
+कण्डदु मऩ्ऩुम् ऒरुनाळ् अलर्मऩ्ऩुम्  
+तिङ्गळैप् पाम्बुगॊण् डऱ्ऱु। ११४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४६</summary>
@@ -293,10 +292,10 @@ Love delights as rumour grows.        1145
 
 <details><summary>NVK Ashraf choice (en) - ११४६</summary>
 
-११४६
-Our meeting was but for a day, but the outcry is
-As if a serpent has swallowed the moon. *
-(V.V.S. Aiyar)
+११४६  
+Our meeting was but for a day, but the outcry is  
+As if a serpent has swallowed the moon. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११४६</summary>
@@ -335,14 +334,14 @@ Lasting rumours eclipse our moon.        1146
 
 <details><summary>मूलम् - ११४६</summary>
 
-कण्डदु मऩ्ऩुम् ऒरुनाळ् अलर्मऩ्ऩुम्
-तिङ्गळैप् पाम्बुगॊण् डऱ्ऱु। ११४६
+कण्डदु मऩ्ऩुम् ऒरुनाळ् अलर्मऩ्ऩुम्  
+तिङ्गळैप् पाम्बुगॊण् डऱ्ऱु। ११४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४७</summary>
 
-ऊरवर् कॆळवै ऎरुवाग अऩ्ऩैसॊल्
-नीराग नीळुम्इन् नोय्। ११४७
+ऊरवर् कॆळवै ऎरुवाग अऩ्ऩैसॊल्  
+नीराग नीळुम्इन् नोय्। ११४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४७</summary>
@@ -353,10 +352,10 @@ Lasting rumours eclipse our moon.        1146
 
 <details><summary>NVK Ashraf choice (en) - ११४७</summary>
 
-११४७
-The village gossip manures my love,
-And my mother's reproaches water it.
-(P.S. Sundaram)
+११४७  
+The village gossip manures my love,  
+And my mother's reproaches water it.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४७</summary>
@@ -390,14 +389,14 @@ Waters the growth of this love-pain.        1147
 
 <details><summary>मूलम् - ११४७</summary>
 
-ऊरवर् कॆळवै ऎरुवाग अऩ्ऩैसॊल्
-नीराग नीळुम्इन् नोय्। ११४७
+ऊरवर् कॆळवै ऎरुवाग अऩ्ऩैसॊल्  
+नीराग नीळुम्इन् नोय्। ११४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४८</summary>
 
-नॆय्याल् ऎरिनुदुप्पेम् ऎऩ्ऱऱ्ऱाल् कॆळवैयाल्
-कामम् नुदुप्पेम् ऎऩल्। ११४८
+नॆय्याल् ऎरिनुदुप्पेम् ऎऩ्ऱऱ्ऱाल् कॆळवैयाल्  
+कामम् नुदुप्पेम् ऎऩल्। ११४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४८</summary>
@@ -408,10 +407,10 @@ Waters the growth of this love-pain.        1147
 
 <details><summary>NVK Ashraf choice (en) - ११४८</summary>
 
-११४८
-To suppress love with scandal
-Is to put fire out with ghee!
-(P.S. Sundaram)
+११४८  
+To suppress love with scandal  
+Is to put fire out with ghee!  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४८</summary>
@@ -445,14 +444,14 @@ Is to quench fire by pouring ghee.        1148
 
 <details><summary>मूलम् - ११४८</summary>
 
-नॆय्याल् ऎरिनुदुप्पेम् ऎऩ्ऱऱ्ऱाल् कॆळवैयाल्
-कामम् नुदुप्पेम् ऎऩल्। ११४८
+नॆय्याल् ऎरिनुदुप्पेम् ऎऩ्ऱऱ्ऱाल् कॆळवैयाल्  
+कामम् नुदुप्पेम् ऎऩल्। ११४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४९</summary>
 
-अलर्नाण ऒल्वदो अञ्जलोम्बु ऎऩ्ऱार्
-पलर्नाण नीत्तक् कडै। ११४९
+अलर्नाण ऒल्वदो अञ्जलोम्बु ऎऩ्ऱार्  
+पलर्नाण नीत्तक् कडै। ११४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४९</summary>
@@ -463,10 +462,10 @@ Is to quench fire by pouring ghee.        1148
 
 <details><summary>NVK Ashraf choice (en) - ११४९</summary>
 
-११४९
-He who said “fear not” has flared up rumour.
-Why then should I blush for this outcry? *
-( Shuddhananda Bharatiar)
+११४९  
+He who said “fear not” has flared up rumour.  
+Why then should I blush for this outcry? *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४९</summary>
@@ -500,14 +499,14 @@ Why then should I blush this clamour?        1149
 
 <details><summary>मूलम् - ११४९</summary>
 
-अलर्नाण ऒल्वदो अञ्जलोम्बु ऎऩ्ऱार्
-पलर्नाण नीत्तक् कडै। ११४९
+अलर्नाण ऒल्वदो अञ्जलोम्बु ऎऩ्ऱार्  
+पलर्नाण नीत्तक् कडै। ११४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५०</summary>
 
-तांवेण्डिऩ् नल्गुवर् कादलर् यांवेण्डुम्
-कॆळवै ऎडुक्कुम्इव् वूर्। ११५०
+तांवेण्डिऩ् नल्गुवर् कादलर् यांवेण्डुम्  
+कॆळवै ऎडुक्कुम्इव् वूर्। ११५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५०</summary>
@@ -518,10 +517,10 @@ Why then should I blush this clamour?        1149
 
 <details><summary>NVK Ashraf choice (en) - ११५०</summary>
 
-११५०
-This village gossip is what we desire,
-For it serves the desire of my lover. *
-(N.V.K. Ashraf), (P.S. Sundaram)
+११५०  
+This village gossip is what we desire,  
+For it serves the desire of my lover. *  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५०</summary>
@@ -554,8 +553,11 @@ Consent is easy from my sire.        1150
 
 <details><summary>मूलम् - ११५०</summary>
 
-तांवेण्डिऩ् नल्गुवर् कादलर् यांवेण्डुम्
-कॆळवै ऎडुक्कुम्इव् वूर्। ११५०
+तांवेण्डिऩ् नल्गुवर् कादलर् यांवेण्डुम्  
+कॆळवै ऎडुक्कुम्इव् वूर्। ११५०  
 </details>
+
+
+
 
 कळवियल् मुऱ्ऱिऱ्ऱु  

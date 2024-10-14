@@ -3,11 +3,10 @@ title = "१६ पॊच्चावामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५३१</summary>
 
-इऱन्द वॆगुळियिऩ् तीदे सिऱन्द
-उवगै मगिऴ्च्चियिऱ् सोर्वु। ५३१
+इऱन्द वॆगुळियिऩ् तीदे सिऱन्द  
+उवगै मगिऴ्च्चियिऱ् सोर्वु। ५३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३१</summary>
@@ -18,10 +17,10 @@ title = "१६ पॊच्चावामै"
 
 <details><summary>NVK Ashraf choice (en) - ५३१</summary>
 
-०५३१
-Worse than too much wrath is the laxity
-Due to too much exultation.
-(P.S. Sundaram)
+०५३१  
+Worse than too much wrath is the laxity  
+Due to too much exultation.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३१</summary>
@@ -55,14 +54,14 @@ Forgetfulness in joy-excess.        531
 
 <details><summary>मूलम् - ५३१</summary>
 
-इऱन्द वॆगुळियिऩ् तीदे सिऱन्द
-उवगै मगिऴ्च्चियिऱ् सोर्वु। ५३१
+इऱन्द वॆगुळियिऩ् तीदे सिऱन्द  
+उवगै मगिऴ्च्चियिऱ् सोर्वु। ५३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३२</summary>
 
-पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविऩै
-निच्च निरप्पुक् कॊऩ् ऱाङ्गु। ५३२
+पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविऩै  
+निच्च निरप्पुक् कॊऩ् ऱाङ्गु। ५३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३२</summary>
@@ -73,10 +72,10 @@ Forgetfulness in joy-excess.        531
 
 <details><summary>NVK Ashraf choice (en) - ५३२</summary>
 
-०५३२
-Just as constant want crushes the intellect,
-Negligence kills repute. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+०५३२  
+Just as constant want crushes the intellect,  
+Negligence kills repute. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३२</summary>
@@ -110,14 +109,14 @@ Ceaseless want wisdom destroys.        532
 
 <details><summary>मूलम् - ५३२</summary>
 
-पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविऩै
-निच्च निरप्पुक् कॊऩ् ऱाङ्गु। ५३२
+पॊच्चाप्पुक् कॊल्लुम् पुगऴै अऱिविऩै  
+निच्च निरप्पुक् कॊऩ् ऱाङ्गु। ५३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३३</summary>
 
-पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु
-ऎप्पाल्नू लोर्क्कुम् तुणिवु। ५३३
+पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
+ऎप्पाल्नू लोर्क्कुम् तुणिवु। ५३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३३</summary>
@@ -128,10 +127,10 @@ Ceaseless want wisdom destroys.        532
 
 <details><summary>NVK Ashraf choice (en) - ५३३</summary>
 
-०५३३
-All writings of the world conclude the same
-That fame is not for the lax. *
-(P.S. Sundaram)
+०५३३  
+All writings of the world conclude the same  
+That fame is not for the lax. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३३</summary>
@@ -165,14 +164,14 @@ All schools of thinkers say the same.        533
 
 <details><summary>मूलम् - ५३३</summary>
 
-पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु
-ऎप्पाल्नू लोर्क्कुम् तुणिवु। ५३३
+पॊच्चाप्पार्क् किल्लै पुगऴ्मै अदुउलगत्तु  
+ऎप्पाल्नू लोर्क्कुम् तुणिवु। ५३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३४</summary>
 
-अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै
-पॊच्चाप् पुडैयार्क्कु नऩ्कु। ५३४
+अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै  
+पॊच्चाप् पुडैयार्क्कु नऩ्कु। ५३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३४</summary>
@@ -183,10 +182,10 @@ All schools of thinkers say the same.        533
 
 <details><summary>NVK Ashraf choice (en) - ५३४</summary>
 
-०५३४
-There is no refuge for the coward,
-Nor is there anything good for the lax.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०५३४  
+There is no refuge for the coward,  
+Nor is there anything good for the lax.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३४</summary>
@@ -220,14 +219,14 @@ The forgetful find good never.        534
 
 <details><summary>मूलम् - ५३४</summary>
 
-अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै
-पॊच्चाप् पुडैयार्क्कु नऩ्कु। ५३४
+अच्च मुडैयार्क्कु अरणिल्लै आङ्गिल्लै  
+पॊच्चाप् पुडैयार्क्कु नऩ्कु। ५३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३५</summary>
 
-मुऩ्ऩुऱक् कावादु इऴुक्कियाऩ् तऩ्पिऴै
-पिऩ्ऩूऱु इरङ्गि विडुम्। ५३५
+मुऩ्ऩुऱक् कावादु इऴुक्कियाऩ् तऩ्पिऴै  
+पिऩ्ऩूऱु इरङ्गि विडुम्। ५३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३५</summary>
@@ -238,10 +237,10 @@ The forgetful find good never.        534
 
 <details><summary>NVK Ashraf choice (en) - ५३५</summary>
 
-०५३५
-The negligent unmindful of threats beforehand
-Will repent for the mistakes later on.
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+०५३५  
+The negligent unmindful of threats beforehand  
+Will repent for the mistakes later on.  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३५</summary>
@@ -275,14 +274,14 @@ Shall rue his folly later on.        535
 
 <details><summary>मूलम् - ५३५</summary>
 
-मुऩ्ऩुऱक् कावादु इऴुक्कियाऩ् तऩ्पिऴै
-पिऩ्ऩूऱु इरङ्गि विडुम्। ५३५
+मुऩ्ऩुऱक् कावादु इऴुक्कियाऩ् तऩ्पिऴै  
+पिऩ्ऩूऱु इरङ्गि विडुम्। ५३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३६</summary>
 
-इऴुक्कामै यार्माट्टुम् ऎऩ्ऱुम् वऴुक्कामै
-वायिऩ् अदुवॊप्पदु इल्। ५३६
+इऴुक्कामै यार्माट्टुम् ऎऩ्ऱुम् वऴुक्कामै  
+वायिऩ् अदुवॊप्पदु इल्। ५३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३६</summary>
@@ -293,10 +292,10 @@ Shall rue his folly later on.        535
 
 <details><summary>NVK Ashraf choice (en) - ५३६</summary>
 
-०५३६
-Nothing can equal never being lax
-With anyone at any time without fail. *
-(P.S. Sundaram)
+०५३६  
+Nothing can equal never being lax  
+With anyone at any time without fail. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३६</summary>
@@ -330,14 +329,14 @@ Miss none; the gain is sans compare.        536
 
 <details><summary>मूलम् - ५३६</summary>
 
-इऴुक्कामै यार्माट्टुम् ऎऩ्ऱुम् वऴुक्कामै
-वायिऩ् अदुवॊप्पदु इल्। ५३६
+इऴुक्कामै यार्माट्टुम् ऎऩ्ऱुम् वऴुक्कामै  
+वायिऩ् अदुवॊप्पदु इल्। ५३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३७</summary>
 
-अरियऎऩ्ऱु आगाद इल्लैबॊच् चावाक्
-करुवियाल् पोऱ्ऱिच् चॆयिऩ्। ५३७
+अरियऎऩ्ऱु आगाद इल्लैबॊच् चावाक्  
+करुवियाल् पोऱ्ऱिच् चॆयिऩ्। ५३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३७</summary>
@@ -348,10 +347,10 @@ Miss none; the gain is sans compare.        536
 
 <details><summary>NVK Ashraf choice (en) - ५३७</summary>
 
-०५३७
-There is nothing too difficult for a man
-Armed with vigilance.
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०५३७  
+There is nothing too difficult for a man  
+Armed with vigilance.  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३७</summary>
@@ -385,14 +384,14 @@ Impossible there is nothing.        537
 
 <details><summary>मूलम् - ५३७</summary>
 
-अरियऎऩ्ऱु आगाद इल्लैबॊच् चावाक्
-करुवियाल् पोऱ्ऱिच् चॆयिऩ्। ५३७
+अरियऎऩ्ऱु आगाद इल्लैबॊच् चावाक्  
+करुवियाल् पोऱ्ऱिच् चॆयिऩ्। ५३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३८</summary>
 
-पुगऴ्न्दवै पोऱ्ऱिच् चॆयल्वेण्डुम् सॆय्यादु
-इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्। ५३८
+पुगऴ्न्दवै पोऱ्ऱिच् चॆयल्वेण्डुम् सॆय्यादु  
+इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्। ५३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३८</summary>
@@ -403,10 +402,10 @@ Impossible there is nothing.        537
 
 <details><summary>NVK Ashraf choice (en) - ५३८</summary>
 
-०५३८
-Cherish and perform praiseworthy acts.
-To neglect and put off deprives one in seven births. *
-(Satguru Subramuniyaswami), (M.S. Poornalingam Pillai)
+०५३८  
+Cherish and perform praiseworthy acts.  
+To neglect and put off deprives one in seven births. *  
+(Satguru Subramuniyaswami), (M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३८</summary>
@@ -440,14 +439,14 @@ If not, for seven births no mirth.        538
 
 <details><summary>मूलम् - ५३८</summary>
 
-पुगऴ्न्दवै पोऱ्ऱिच् चॆयल्वेण्डुम् सॆय्यादु
-इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्। ५३८
+पुगऴ्न्दवै पोऱ्ऱिच् चॆयल्वेण्डुम् सॆय्यादु  
+इगऴ्न्दार्क्कु ऎऴुमैयुम् इल्। ५३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३९</summary>
 
-इगऴ्च्चियिऩ् कॆट्टारै उळ्ळुग तान्दम्
-मगिऴ्च्चियिऩ् मैन्दुऱुम् पोऴ्दु। ५३९
+इगऴ्च्चियिऩ् कॆट्टारै उळ्ळुग तान्दम्  
+मगिऴ्च्चियिऩ् मैन्दुऱुम् पोऴ्दु। ५३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३९</summary>
@@ -458,10 +457,10 @@ If not, for seven births no mirth.        538
 
 <details><summary>NVK Ashraf choice (en) - ५३९</summary>
 
-०५३९
-When the mind is elated with joy,
-Think of those who were ruined by neglect. *
-(W.H. Drew and J. Lazarus)
+०५३९  
+When the mind is elated with joy,  
+Think of those who were ruined by neglect. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३९</summary>
@@ -495,14 +494,14 @@ Whom negligence has made to fall.        539
 
 <details><summary>मूलम् - ५३९</summary>
 
-इगऴ्च्चियिऩ् कॆट्टारै उळ्ळुग तान्दम्
-मगिऴ्च्चियिऩ् मैन्दुऱुम् पोऴ्दु। ५३९
+इगऴ्च्चियिऩ् कॆट्टारै उळ्ळुग तान्दम्  
+मगिऴ्च्चियिऩ् मैन्दुऱुम् पोऴ्दु। ५३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४०</summary>
 
-उळ्ळियदु ऎय्दल् ऎळिदुमऩ् मऱ्ऱुन्दाऩ्
-उळ्ळियदु उळ्ळप् पॆऱिऩ्। ५४०
+उळ्ळियदु ऎय्दल् ऎळिदुमऩ् मऱ्ऱुन्दाऩ्  
+उळ्ळियदु उळ्ळप् पॆऱिऩ्। ५४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४०</summary>
@@ -513,10 +512,10 @@ Whom negligence has made to fall.        539
 
 <details><summary>NVK Ashraf choice (en) - ५४०</summary>
 
-०५४०
-What is aimed is easy to achieve,
-If only the mind is set on what is aimed.
-(N.V.K. Ashraf)
+०५४०  
+What is aimed is easy to achieve,  
+If only the mind is set on what is aimed.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५४०</summary>
@@ -554,7 +553,7 @@ When the mind on it is set.        540
 
 <details><summary>मूलम् - ५४०</summary>
 
-उळ्ळियदु ऎय्दल् ऎळिदुमऩ् मऱ्ऱुन्दाऩ्
-उळ्ळियदु उळ्ळप् पॆऱिऩ्। ५४०
+उळ्ळियदु ऎय्दल् ऎळिदुमऩ् मऱ्ऱुन्दाऩ्  
+उळ्ळियदु उळ्ळप् पॆऱिऩ्। ५४०  
 </details>
 

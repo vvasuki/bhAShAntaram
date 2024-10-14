@@ -3,11 +3,10 @@ title = "०३ पॆरुमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९७१</summary>
 
-ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु
-अह्दिऱन्दु वाऴ्दुम् ऎऩल्। ९७१
+ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु  
+अह्दिऱन्दु वाऴ्दुम् ऎऩल्। ९७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७१</summary>
@@ -19,10 +18,10 @@ title = "०३ पॆरुमै"
 
 <details><summary>NVK Ashraf choice (en) - ९७१</summary>
 
-०९७१
-Honour is to crave for excellence.
-Dishonor is to say: “I shall live without it”.
-(N.V.K. Ashraf)
+०९७१  
+Honour is to crave for excellence.  
+Dishonor is to say: “I shall live without it”.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७१</summary>
@@ -57,14 +56,14 @@ Devoid of that one's life is night.        971
 
 <details><summary>मूलम् - ९७१</summary>
 
-ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु
-अह्दिऱन्दु वाऴ्दुम् ऎऩल्। ९७१
+ऒळिऒरुवऱ्कु उळ्ळ वॆऱुक्कै इळिऒरुवऱ्कु  
+अह्दिऱन्दु वाऴ्दुम् ऎऩल्। ९७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७२</summary>
 
-पिऱप्पॊक्कुम् ऎल्ला उयिर्क्कुम् सिऱप्पॊव्वा
-सॆय्दॊऴिल् वेऱ्ऱुमै याऩ्। ९७२
+पिऱप्पॊक्कुम् ऎल्ला उयिर्क्कुम् सिऱप्पॊव्वा  
+सॆय्दॊऴिल् वेऱ्ऱुमै याऩ्। ९७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७२</summary>
@@ -75,10 +74,10 @@ Devoid of that one's life is night.        971
 
 <details><summary>NVK Ashraf choice (en) - ९७२</summary>
 
-०९७२
-By birth all men are equal. Differences in their action
-Render their worth unequal.
-(S. Maharajan)
+०९७२  
+By birth all men are equal. Differences in their action  
+Render their worth unequal.  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७२</summary>
@@ -113,14 +112,14 @@ But work decides their varied worth.        972
 
 <details><summary>मूलम् - ९७२</summary>
 
-पिऱप्पॊक्कुम् ऎल्ला उयिर्क्कुम् सिऱप्पॊव्वा
-सॆय्दॊऴिल् वेऱ्ऱुमै याऩ्। ९७२
+पिऱप्पॊक्कुम् ऎल्ला उयिर्क्कुम् सिऱप्पॊव्वा  
+सॆय्दॊऴिल् वेऱ्ऱुमै याऩ्। ९७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७३</summary>
 
-मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्
-कीऴल्लार् कीऴल् लवर्। ९७३
+मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्  
+कीऴल्लार् कीऴल् लवर्। ९७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७३</summary>
@@ -131,10 +130,10 @@ But work decides their varied worth.        972
 
 <details><summary>NVK Ashraf choice (en) - ९७३</summary>
 
-०९७३
-Neither the high-born who act low are high,
-Nor the low-born who act high, low. *
-(P.S. Sundaram)
+०९७३  
+Neither the high-born who act low are high,  
+Nor the low-born who act high, low. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७३</summary>
@@ -169,14 +168,14 @@ The noble low not low they fare.        973
 
 <details><summary>मूलम् - ९७३</summary>
 
-मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्
-कीऴल्लार् कीऴल् लवर्। ९७३
+मेलिरुन्दुम् मेलल्लार् मेलल्लर् कीऴिरुन्दुम्  
+कीऴल्लार् कीऴल् लवर्। ९७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७४</summary>
 
-ऒरुमै मगळिरे पोलप् पॆरुमैयुम्
-तऩ्ऩैत्ताऩ् कॊण्डॊऴुगिऩ् उण्डु। ९७४
+ऒरुमै मगळिरे पोलप् पॆरुमैयुम्  
+तऩ्ऩैत्ताऩ् कॊण्डॊऴुगिऩ् उण्डु। ९७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७४</summary>
@@ -187,10 +186,10 @@ The noble low not low they fare.        973
 
 <details><summary>NVK Ashraf choice (en) - ९७४</summary>
 
-०९७४
-Even greatness, like a woman’s chastity,
-Belongs only to him who guards himself.
-(W.H. Drew and J. Lazarus)
+०९७४  
+Even greatness, like a woman’s chastity,  
+Belongs only to him who guards himself.  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७४</summary>
@@ -224,14 +223,14 @@ Is guarded by self-varacity.        974
 
 <details><summary>मूलम् - ९७४</summary>
 
-ऒरुमै मगळिरे पोलप् पॆरुमैयुम्
-तऩ्ऩैत्ताऩ् कॊण्डॊऴुगिऩ् उण्डु। ९७४
+ऒरुमै मगळिरे पोलप् पॆरुमैयुम्  
+तऩ्ऩैत्ताऩ् कॊण्डॊऴुगिऩ् उण्डु। ९७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७५</summary>
 
-पॆरुमै युडैयवर् आऱ्ऱुवार् आऱ्ऱिऩ्
-अरुमै उडैय सॆयल्। ९७५
+पॆरुमै युडैयवर् आऱ्ऱुवार् आऱ्ऱिऩ्  
+अरुमै उडैय सॆयल्। ९७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७५</summary>
@@ -242,10 +241,10 @@ Is guarded by self-varacity.        974
 
 <details><summary>NVK Ashraf choice (en) - ९७५</summary>
 
-०९७५
-If the great achieve anything,
-It will be deeds rare in achievement. *
-(P.S. Sundaram)
+०९७५  
+If the great achieve anything,  
+It will be deeds rare in achievement. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७५</summary>
@@ -280,14 +279,14 @@ Do mighty deeds rare to achieve.        975
 
 <details><summary>मूलम् - ९७५</summary>
 
-पॆरुमै युडैयवर् आऱ्ऱुवार् आऱ्ऱिऩ्
-अरुमै उडैय सॆयल्। ९७५
+पॆरुमै युडैयवर् आऱ्ऱुवार् आऱ्ऱिऩ्  
+अरुमै उडैय सॆयल्। ९७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७६</summary>
 
-सिऱियार् उणर्चियुळ् इल्लै पॆरियारैप्
-पेणिक् कॊळ् वेम् ऎऩ्ऩुम् नोक्कु। ९७६
+सिऱियार् उणर्चियुळ् इल्लै पॆरियारैप्  
+पेणिक् कॊळ् वेम् ऎऩ्ऩुम् नोक्कु। ९७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७६</summary>
@@ -298,10 +297,10 @@ Do mighty deeds rare to achieve.        975
 
 <details><summary>NVK Ashraf choice (en) - ९७६</summary>
 
-०९७६
-It is not in the nature of the small to have
-That outlook of emulating the great. *
-(S.M. Diaz)
+०९७६  
+It is not in the nature of the small to have  
+That outlook of emulating the great. *  
+(S.M. Diaz)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९७६</summary>
@@ -340,14 +339,14 @@ The mind to seek and befriend the great.        976
 
 <details><summary>मूलम् - ९७६</summary>
 
-सिऱियार् उणर्चियुळ् इल्लै पॆरियारैप्
-पेणिक् कॊळ् वेम् ऎऩ्ऩुम् नोक्कु। ९७६
+सिऱियार् उणर्चियुळ् इल्लै पॆरियारैप्  
+पेणिक् कॊळ् वेम् ऎऩ्ऩुम् नोक्कु। ९७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७७</summary>
 
-इऱप्पे पुरिन्द तॊऴिऱ्ऱाम् सिऱप्पुन्दाऩ्
-सीरल् लवर्गण् पडिऩ्। ९७७
+इऱप्पे पुरिन्द तॊऴिऱ्ऱाम् सिऱप्पुन्दाऩ्  
+सीरल् लवर्गण् पडिऩ्। ९७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७७</summary>
@@ -358,10 +357,10 @@ The mind to seek and befriend the great.        976
 
 <details><summary>NVK Ashraf choice (en) - ९७७</summary>
 
-०९७७
-If any distinction falls on the little minded,
-Their insolence will know no bounds. *
-(V.V.S. Aiyar)
+०९७७  
+If any distinction falls on the little minded,  
+Their insolence will know no bounds. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७७</summary>
@@ -395,14 +394,14 @@ Wax with deeds of insolence.        977
 
 <details><summary>मूलम् - ९७७</summary>
 
-इऱप्पे पुरिन्द तॊऴिऱ्ऱाम् सिऱप्पुन्दाऩ्
-सीरल् लवर्गण् पडिऩ्। ९७७
+इऱप्पे पुरिन्द तॊऴिऱ्ऱाम् सिऱप्पुन्दाऩ्  
+सीरल् लवर्गण् पडिऩ्। ९७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७८</summary>
 
-पणियुमाम् ऎऩ्ऱुम् पॆरुमै सिऱुमै
-अणियुमाम् तऩ्ऩै वियन्दु। ९७८
+पणियुमाम् ऎऩ्ऱुम् पॆरुमै सिऱुमै  
+अणियुमाम् तऩ्ऩै वियन्दु। ९७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७८</summary>
@@ -413,10 +412,10 @@ Wax with deeds of insolence.        977
 
 <details><summary>NVK Ashraf choice (en) - ९७८</summary>
 
-०९७८
-The great are always humble,
-And the small lost in self-admiration.
-(P.S. Sundaram)
+०९७८  
+The great are always humble,  
+And the small lost in self-admiration.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७८</summary>
@@ -450,14 +449,14 @@ Meanness vaunts with vanity        978
 
 <details><summary>मूलम् - ९७८</summary>
 
-पणियुमाम् ऎऩ्ऱुम् पॆरुमै सिऱुमै
-अणियुमाम् तऩ्ऩै वियन्दु। ९७८
+पणियुमाम् ऎऩ्ऱुम् पॆरुमै सिऱुमै  
+अणियुमाम् तऩ्ऩै वियन्दु। ९७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७९</summary>
 
-पॆरुमै पॆरुमिदम् इऩ्मै सिऱुमै
-पॆरुमिदम् ऊर्न्दु विडल्। ९७९
+पॆरुमै पॆरुमिदम् इऩ्मै सिऱुमै  
+पॆरुमिदम् ऊर्न्दु विडल्। ९७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७९</summary>
@@ -468,10 +467,10 @@ Meanness vaunts with vanity        978
 
 <details><summary>NVK Ashraf choice (en) - ९७९</summary>
 
-०९७९
-The great are never puffed up,
-While the small are inordinately proud. *
-(P.S. Sundaram)
+०९७९  
+The great are never puffed up,  
+While the small are inordinately proud. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७९</summary>
@@ -505,14 +504,14 @@ Littleness swells with that offence.        979
 
 <details><summary>मूलम् - ९७९</summary>
 
-पॆरुमै पॆरुमिदम् इऩ्मै सिऱुमै
-पॆरुमिदम् ऊर्न्दु विडल्। ९७९
+पॆरुमै पॆरुमिदम् इऩ्मै सिऱुमै  
+पॆरुमिदम् ऊर्न्दु विडल्। ९७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८०</summary>
 
-अऱ्ऱम् मऱैक्कुम् पॆरुमै सिऱुमैदाऩ्
-कुऱ्ऱमे कूऱि विडुम्। ९८०
+अऱ्ऱम् मऱैक्कुम् पॆरुमै सिऱुमैदाऩ्  
+कुऱ्ऱमे कूऱि विडुम्। ९८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८०</summary>
@@ -523,10 +522,10 @@ Littleness swells with that offence.        979
 
 <details><summary>NVK Ashraf choice (en) - ९८०</summary>
 
-०९८०
-The great hide others' faults.
-Only the small talk of nothing else.
-(P.S. Sundaram)
+०९८०  
+The great hide others' faults.  
+Only the small talk of nothing else.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८०</summary>
@@ -560,7 +559,7 @@ Smallness defects alone proclaims.        980
 
 <details><summary>मूलम् - ९८०</summary>
 
-अऱ्ऱम् मऱैक्कुम् पॆरुमै सिऱुमैदाऩ्
-कुऱ्ऱमे कूऱि विडुम्। ९८०
+अऱ्ऱम् मऱैक्कुम् पॆरुमै सिऱुमैदाऩ्  
+कुऱ्ऱमे कूऱि विडुम्। ९८०  
 </details>
 

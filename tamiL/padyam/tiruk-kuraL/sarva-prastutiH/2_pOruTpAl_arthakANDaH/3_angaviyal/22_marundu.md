@@ -3,11 +3,10 @@ title = "२२ मरुन्दु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९४१</summary>
 
-मिगिऩुम् कुऱैयिऩुम् नोय्सॆय्युम् नूलोर्
-वळिमुदला ऎण्णिय मूऩ्ऱु। ९४१
+मिगिऩुम् कुऱैयिऩुम् नोय्सॆय्युम् नूलोर्  
+वळिमुदला ऎण्णिय मूऩ्ऱु। ९४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४१</summary>
@@ -19,10 +18,10 @@ title = "२२ मरुन्दु"
 
 <details><summary>NVK Ashraf choice (en) - ९४१</summary>
 
-०९४१
-Three things beginning with wind, say the experts,
-In excess or lacking cause disease.
-(P.S. Sundaram)
+०९४१  
+Three things beginning with wind, say the experts,  
+In excess or lacking cause disease.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९४१</summary>
@@ -62,14 +61,14 @@ So doctors deem it more or less.        941
 
 <details><summary>मूलम् - ९४१</summary>
 
-मिगिऩुम् कुऱैयिऩुम् नोय्सॆय्युम् नूलोर्
-वळिमुदला ऎण्णिय मूऩ्ऱु। ९४१
+मिगिऩुम् कुऱैयिऩुम् नोय्सॆय्युम् नूलोर्  
+वळिमुदला ऎण्णिय मूऩ्ऱु। ९४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४२</summary>
 
-मरुन्दॆऩ वेण्डावाम् याक्कैक्कु अरुन्दियदु
-अऱ्ऱतु पोऱ्ऱि उणिऩ्। ९४२
+मरुन्दॆऩ वेण्डावाम् याक्कैक्कु अरुन्दियदु  
+अऱ्ऱतु पोऱ्ऱि उणिऩ्। ९४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४२</summary>
@@ -80,10 +79,10 @@ So doctors deem it more or less.        941
 
 <details><summary>NVK Ashraf choice (en) - ९४२</summary>
 
-०९४२
-The body needs no drugs if what is eaten
-Is digested before the next meal.
-(N.V.K. Ashraf)
+०९४२  
+The body needs no drugs if what is eaten  
+Is digested before the next meal.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४२</summary>
@@ -117,14 +116,14 @@ His body no medicine needs.        942
 
 <details><summary>मूलम् - ९४२</summary>
 
-मरुन्दॆऩ वेण्डावाम् याक्कैक्कु अरुन्दियदु
-अऱ्ऱतु पोऱ्ऱि उणिऩ्। ९४२
+मरुन्दॆऩ वेण्डावाम् याक्कैक्कु अरुन्दियदु  
+अऱ्ऱतु पोऱ्ऱि उणिऩ्। ९४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४३</summary>
 
-अऱ्ऱाल् अऱवऱिन्दु उण्ग अह्दुडम्बु
-पॆऱ्ऱाऩ् नॆडिदुय्क्कुम् आऱु। ९४३
+अऱ्ऱाल् अऱवऱिन्दु उण्ग अह्दुडम्बु  
+पॆऱ्ऱाऩ् नॆडिदुय्क्कुम् आऱु। ९४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४३</summary>
@@ -135,10 +134,10 @@ His body no medicine needs.        942
 
 <details><summary>NVK Ashraf choice (en) - ९४३</summary>
 
-०९४३
-Once digested, eat with moderation.
-That prolongs the life of one embodied. *
-(W.H. Drew and J. Lazarus)
+०९४३  
+Once digested, eat with moderation.  
+That prolongs the life of one embodied. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४३</summary>
@@ -173,14 +172,14 @@ Life in body lasts with pleasure.        943
 
 <details><summary>मूलम् - ९४३</summary>
 
-अऱ्ऱाल् अऱवऱिन्दु उण्ग अह्दुडम्बु
-पॆऱ्ऱाऩ् नॆडिदुय्क्कुम् आऱु। ९४३
+अऱ्ऱाल् अऱवऱिन्दु उण्ग अह्दुडम्बु  
+पॆऱ्ऱाऩ् नॆडिदुय्क्कुम् आऱु। ९४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४४</summary>
 
-अऱ्ऱतु अऱिन्दु कडैप्पिडित्तु माऱल्ल
-तुय्क्क तुवरप् पचित्तु। ९४४
+अऱ्ऱतु अऱिन्दु कडैप्पिडित्तु माऱल्ल  
+तुय्क्क तुवरप् पचित्तु। ९४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४४</summary>
@@ -191,10 +190,10 @@ Life in body lasts with pleasure.        943
 
 <details><summary>NVK Ashraf choice (en) - ९४४</summary>
 
-०९४४
-Assured of digestion and real hunger,
-Eat with care what is agreeable. *
-(P.S. Sundaram)
+०९४४  
+Assured of digestion and real hunger,  
+Eat with care what is agreeable. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४४</summary>
@@ -229,14 +228,14 @@ Eat what is suitable and right.        944
 
 <details><summary>मूलम् - ९४४</summary>
 
-अऱ्ऱतु अऱिन्दु कडैप्पिडित्तु माऱल्ल
-तुय्क्क तुवरप् पचित्तु। ९४४
+अऱ्ऱतु अऱिन्दु कडैप्पिडित्तु माऱल्ल  
+तुय्क्क तुवरप् पचित्तु। ९४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४५</summary>
 
-माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिऩ्
-ऊऱुबाडु इल्लै उयिर्क्कु। ९४५
+माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिऩ्  
+ऊऱुबाडु इल्लै उयिर्क्कु। ९४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४५</summary>
@@ -247,10 +246,10 @@ Eat what is suitable and right.        944
 
 <details><summary>NVK Ashraf choice (en) - ९४५</summary>
 
-०९४५
-No harm to life if what is eaten
-Does not include disagreeable food.
-(N.V.K. Ashraf)
+०९४५  
+No harm to life if what is eaten  
+Does not include disagreeable food.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४५</summary>
@@ -284,14 +283,14 @@ Cures ills of life and makes you bright        945
 
 <details><summary>मूलम् - ९४५</summary>
 
-माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिऩ्
-ऊऱुबाडु इल्लै उयिर्क्कु। ९४५
+माऱुबाडु इल्लाद उण्डि मऱुत्तुण्णिऩ्  
+ऊऱुबाडु इल्लै उयिर्क्कु। ९४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४६</summary>
 
-इऴिवऱिन्दु उण्बाऩ्कण् इऩ्पम्बोल् निऱ्कुम्
-कऴिबेर् इरैयाऩ्कण् नोय्। ९४६
+इऴिवऱिन्दु उण्बाऩ्कण् इऩ्पम्बोल् निऱ्कुम्  
+कऴिबेर् इरैयाऩ्कण् नोय्। ९४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४६</summary>
@@ -302,10 +301,10 @@ Cures ills of life and makes you bright        945
 
 <details><summary>NVK Ashraf choice (en) - ९४६</summary>
 
-०९४६
-As pleasure dwells with a moderate eater,
-So is disease with a voracious glutton. *
-(W.H. Drew and J. Lazarus)
+०९४६  
+As pleasure dwells with a moderate eater,  
+So is disease with a voracious glutton. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४६</summary>
@@ -340,14 +339,14 @@ With greedy glutton abides ill-health.        946
 
 <details><summary>मूलम् - ९४६</summary>
 
-इऴिवऱिन्दु उण्बाऩ्कण् इऩ्पम्बोल् निऱ्कुम्
-कऴिबेर् इरैयाऩ्कण् नोय्। ९४६
+इऴिवऱिन्दु उण्बाऩ्कण् इऩ्पम्बोल् निऱ्कुम्  
+कऴिबेर् इरैयाऩ्कण् नोय्। ९४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४७</summary>
 
-तीयळ वऩ्ऱित् तॆरियाऩ् पॆरिदुण्णिऩ्
-नोयळ विऩ्ऱिप् पडुम्। ९४७
+तीयळ वऩ्ऱित् तॆरियाऩ् पॆरिदुण्णिऩ्  
+नोयळ विऩ्ऱिप् पडुम्। ९४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४७</summary>
@@ -358,10 +357,10 @@ With greedy glutton abides ill-health.        946
 
 <details><summary>NVK Ashraf choice (en) - ९४७</summary>
 
-०९४७
-Unlimited eating beyond one’s measure
-Leads to unlimited number of ills.
-(N.V.K. Ashraf)
+०९४७  
+Unlimited eating beyond one’s measure  
+Leads to unlimited number of ills.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४७</summary>
@@ -395,14 +394,14 @@ Suffer from untold diseases here.        947
 
 <details><summary>मूलम् - ९४७</summary>
 
-तीयळ वऩ्ऱित् तॆरियाऩ् पॆरिदुण्णिऩ्
-नोयळ विऩ्ऱिप् पडुम्। ९४७
+तीयळ वऩ्ऱित् तॆरियाऩ् पॆरिदुण्णिऩ्  
+नोयळ विऩ्ऱिप् पडुम्। ९४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४८</summary>
 
-नोय्नाडि नोय्मुदल् नाडि अदुदणिक्कुम्
-वाय्नाडि वाय्प्पच् चॆयल्। ९४८
+नोय्नाडि नोय्मुदल् नाडि अदुदणिक्कुम्  
+वाय्नाडि वाय्प्पच् चॆयल्। ९४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४८</summary>
@@ -413,10 +412,10 @@ Suffer from untold diseases here.        947
 
 <details><summary>NVK Ashraf choice (en) - ९४८</summary>
 
-०९४८
-Diagnose the illness, trace its cause,
-Seek the proper remedy and apply it with skill.
-(Satguru Subramuniyaswami)
+०९४८  
+Diagnose the illness, trace its cause,  
+Seek the proper remedy and apply it with skill.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४८</summary>
@@ -451,14 +450,14 @@ And apply remedy that is sure.        948
 
 <details><summary>मूलम् - ९४८</summary>
 
-नोय्नाडि नोय्मुदल् नाडि अदुदणिक्कुम्
-वाय्नाडि वाय्प्पच् चॆयल्। ९४८
+नोय्नाडि नोय्मुदल् नाडि अदुदणिक्कुम्  
+वाय्नाडि वाय्प्पच् चॆयल्। ९४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९४९</summary>
 
-उऱ्ऱाऩ् अळवुम् पिणियळवुम् कालमुम्
-कऱ्ऱाऩ् करुदिच् चॆयल्। ९४९
+उऱ्ऱाऩ् अळवुम् पिणियळवुम् कालमुम्  
+कऱ्ऱाऩ् करुदिच् चॆयल्। ९४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४९</summary>
@@ -469,10 +468,10 @@ And apply remedy that is sure.        948
 
 <details><summary>NVK Ashraf choice (en) - ९४९</summary>
 
-०९४९
-A doctor should have the measure of the patient,
-Disease and its stage, and treat.
-(N.V.K. Ashraf)
+०९४९  
+A doctor should have the measure of the patient,  
+Disease and its stage, and treat.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९४९</summary>
@@ -512,14 +511,14 @@ The sickmen, sickness, season and treat.        949
 
 <details><summary>मूलम् - ९४९</summary>
 
-उऱ्ऱाऩ् अळवुम् पिणियळवुम् कालमुम्
-कऱ्ऱाऩ् करुदिच् चॆयल्। ९४९
+उऱ्ऱाऩ् अळवुम् पिणियळवुम् कालमुम्  
+कऱ्ऱाऩ् करुदिच् चॆयल्। ९४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५०</summary>
 
-उऱ्ऱवऩ् तीर्प्पाऩ् मरुन्दुऴैच् चॆल्वाऩॆऩ्ऱु
-अप्पाल् नाऱ् कूऱ्ऱे मरुन्दु। ९५०
+उऱ्ऱवऩ् तीर्प्पाऩ् मरुन्दुऴैच् चॆल्वाऩॆऩ्ऱु  
+अप्पाल् नाऱ् कूऱ्ऱे मरुन्दु। ९५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५०</summary>
@@ -530,10 +529,10 @@ The sickmen, sickness, season and treat.        949
 
 <details><summary>NVK Ashraf choice (en) - ९५०</summary>
 
-०९५०
-Any treatment involves these four orders:
-The patient, doctor, medicine and the nurse.
-(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+०९५०  
+Any treatment involves these four orders:  
+The patient, doctor, medicine and the nurse.  
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५०</summary>
@@ -567,6 +566,7 @@ Are four-fold codes of treating course.        950
 
 <details><summary>मूलम् - ९५०</summary>
 
-उऱ्ऱवऩ् तीर्प्पाऩ् मरुन्दुऴैच् चॆल्वाऩॆऩ्ऱु
-अप्पाल् नाऱ् कूऱ्ऱे मरुन्दु। ९५०
+उऱ्ऱवऩ् तीर्प्पाऩ् मरुन्दुऴैच् चॆल्वाऩॆऩ्ऱु  
+अप्पाल् नाऱ् कूऱ्ऱे मरुन्दु। ९५०  
 </details>
+

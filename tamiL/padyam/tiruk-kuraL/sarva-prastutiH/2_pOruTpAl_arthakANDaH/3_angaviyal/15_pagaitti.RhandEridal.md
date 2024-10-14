@@ -3,11 +3,10 @@ title = "१५ पगैत्तिऱन्दॆरिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८७१</summary>
 
-पगैऎऩ्ऩुम् पण्बि लदऩै ऒरुवऩ्
-नगैयेयुम् वेण्डऱ्पाऱ्ऱु अऩ्ऱु। ८७१
+पगैऎऩ्ऩुम् पण्बि लदऩै ऒरुवऩ्  
+नगैयेयुम् वेण्डऱ्पाऱ्ऱु अऩ्ऱु। ८७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७१</summary>
@@ -19,10 +18,10 @@ title = "१५ पगैत्तिऱन्दॆरिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ८७१</summary>
 
-०८७१
-One should never wish for the accursed thing
-Called enmity, even in jest.
-(Satguru Subramuniyaswami)
+०८७१  
+One should never wish for the accursed thing  
+Called enmity, even in jest.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८७१</summary>
@@ -61,14 +60,14 @@ The ill-natured enmity court.        871
 
 <details><summary>मूलम् - ८७१</summary>
 
-पगैऎऩ्ऩुम् पण्बि लदऩै ऒरुवऩ्
-नगैयेयुम् वेण्डऱ्पाऱ्ऱु अऩ्ऱु। ८७१
+पगैऎऩ्ऩुम् पण्बि लदऩै ऒरुवऩ्  
+नगैयेयुम् वेण्डऱ्पाऱ्ऱु अऩ्ऱु। ८७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७२</summary>
 
-विल्लेर् उऴवर् पगैगॊळिऩुम् कॊळ्ळऱ्क
-सॊल्लेर् उऴवर् पगै। ८७२
+विल्लेर् उऴवर् पगैगॊळिऩुम् कॊळ्ळऱ्क  
+सॊल्लेर् उऴवर् पगै। ८७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७२</summary>
@@ -79,10 +78,10 @@ The ill-natured enmity court.        871
 
 <details><summary>NVK Ashraf choice (en) - ८७२</summary>
 
-०८७२
-Make foes, if you must, with bowmen
-And never of men whose weapon is their tongue. *
-(P.S. Sundaram), (V.V.S. Aiyar)
+०८७२  
+Make foes, if you must, with bowmen  
+And never of men whose weapon is their tongue. *  
+(P.S. Sundaram), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७२</summary>
@@ -116,14 +115,14 @@ But not the hate of word-ploughers.        872
 
 <details><summary>मूलम् - ८७२</summary>
 
-विल्लेर् उऴवर् पगैगॊळिऩुम् कॊळ्ळऱ्क
-सॊल्लेर् उऴवर् पगै। ८७२
+विल्लेर् उऴवर् पगैगॊळिऩुम् कॊळ्ळऱ्क  
+सॊल्लेर् उऴवर् पगै। ८७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७३</summary>
 
-एमुऱ् ऱवरिऩुम् एऴै तमियऩाय्प्
-पल्लार् पगैगॊळ् पवऩ्। ८७३
+एमुऱ् ऱवरिऩुम् एऴै तमियऩाय्प्  
+पल्लार् पगैगॊळ् पवऩ्। ८७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७३</summary>
@@ -134,10 +133,10 @@ But not the hate of word-ploughers.        872
 
 <details><summary>NVK Ashraf choice (en) - ८७३</summary>
 
-०८७३
-It is worse than madness for one who has no allies,
-To make numerous enemies.
-(C. Rajagopalachari)
+०८७३  
+It is worse than madness for one who has no allies,  
+To make numerous enemies.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७३</summary>
@@ -171,14 +170,14 @@ The worst insanity betrays.        873
 
 <details><summary>मूलम् - ८७३</summary>
 
-एमुऱ् ऱवरिऩुम् एऴै तमियऩाय्प्
-पल्लार् पगैगॊळ् पवऩ्। ८७३
+एमुऱ् ऱवरिऩुम् एऴै तमियऩाय्प्  
+पल्लार् पगैगॊळ् पवऩ्। ८७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७४</summary>
 
-पगैनट्पाक् कॊण्डॊऴुगुम् पण्बुडै याळऩ्
-तगैमैक्कण् तङ्गिऱ्ऱु उलगु। ८७४
+पगैनट्पाक् कॊण्डॊऴुगुम् पण्बुडै याळऩ्  
+तगैमैक्कण् तङ्गिऱ्ऱु उलगु। ८७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७४</summary>
@@ -189,10 +188,10 @@ The worst insanity betrays.        873
 
 <details><summary>NVK Ashraf choice (en) - ८७४</summary>
 
-०८७४
-The world is secure under one
-Whose nature can make friends of foes.
-(P.S. Sundaram)
+०८७४  
+The world is secure under one  
+Whose nature can make friends of foes.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७४</summary>
@@ -226,14 +225,14 @@ Whose heart makes friends even of foes.        874
 
 <details><summary>मूलम् - ८७४</summary>
 
-पगैनट्पाक् कॊण्डॊऴुगुम् पण्बुडै याळऩ्
-तगैमैक्कण् तङ्गिऱ्ऱु उलगु। ८७४
+पगैनट्पाक् कॊण्डॊऴुगुम् पण्बुडै याळऩ्  
+तगैमैक्कण् तङ्गिऱ्ऱु उलगु। ८७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७५</summary>
 
-तऩ्तुणै इऩ्ऱाल् पगैयिरण्डाल् ताऩ्ऒरुवऩ्
-इऩ्तुणैयाक् कॊळ्गवऱ्ऱिऩ् ऒऩ्ऱु। ८७५
+तऩ्तुणै इऩ्ऱाल् पगैयिरण्डाल् ताऩ्ऒरुवऩ्  
+इऩ्तुणैयाक् कॊळ्गवऱ्ऱिऩ् ऒऩ्ऱु। ८७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७५</summary>
@@ -244,10 +243,10 @@ Whose heart makes friends even of foes.        874
 
 <details><summary>NVK Ashraf choice (en) - ८७५</summary>
 
-०८७५
-While facing two foes, unaided and alone,
-Make one your friend. *
-(P.S. Sundaram)
+०८७५  
+While facing two foes, unaided and alone,  
+Make one your friend. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७५</summary>
@@ -281,14 +280,14 @@ Make one of them your ally close.        875
 
 <details><summary>मूलम् - ८७५</summary>
 
-तऩ्तुणै इऩ्ऱाल् पगैयिरण्डाल् ताऩ्ऒरुवऩ्
-इऩ्तुणैयाक् कॊळ्गवऱ्ऱिऩ् ऒऩ्ऱु। ८७५
+तऩ्तुणै इऩ्ऱाल् पगैयिरण्डाल् ताऩ्ऒरुवऩ्  
+इऩ्तुणैयाक् कॊळ्गवऱ्ऱिऩ् ऒऩ्ऱु। ८७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७६</summary>
 
-तेऱिऩुम् तेऱा विडिऩुम् अऴिविऩ्कण्
-तेऱाऩ् पगाअऩ् विडल्। ८७६
+तेऱिऩुम् तेऱा विडिऩुम् अऴिविऩ्कण्  
+तेऱाऩ् पगाअऩ् विडल्। ८७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७६</summary>
@@ -299,10 +298,10 @@ Make one of them your ally close.        875
 
 <details><summary>NVK Ashraf choice (en) - ८७६</summary>
 
-०८७६
-In times of crisis, be wary of joining or opposing any,
-Whether tested or untested. *
-(K. Krishnaswamy & Vijaya Ramkumar), (N.V.K. Ashraf)
+०८७६  
+In times of crisis, be wary of joining or opposing any,  
+Whether tested or untested. *  
+(K. Krishnaswamy & Vijaya Ramkumar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७६</summary>
@@ -336,14 +335,14 @@ Keep aloof; don't mix with foes.        876
 
 <details><summary>मूलम् - ८७६</summary>
 
-तेऱिऩुम् तेऱा विडिऩुम् अऴिविऩ्कण्
-तेऱाऩ् पगाअऩ् विडल्। ८७६
+तेऱिऩुम् तेऱा विडिऩुम् अऴिविऩ्कण्  
+तेऱाऩ् पगाअऩ् विडल्। ८७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७७</summary>
 
-नोवऱ्क नॊन्ददु अऱियार्क्कु मेवऱ्क
-मॆऩ्मै पगैवर् अगत्तु। ८७७
+नोवऱ्क नॊन्ददु अऱियार्क्कु मेवऱ्क  
+मॆऩ्मै पगैवर् अगत्तु। ८७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७७</summary>
@@ -354,10 +353,10 @@ Keep aloof; don't mix with foes.        876
 
 <details><summary>NVK Ashraf choice (en) - ८७७</summary>
 
-०८७७
-Keep your sorrows from strangers
-And your weakness from foes. *
-(P.S. Sundaram)
+०८७७  
+Keep your sorrows from strangers  
+And your weakness from foes. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७७</summary>
@@ -391,14 +390,14 @@ Nor your weakness to foes explain.        877
 
 <details><summary>मूलम् - ८७७</summary>
 
-नोवऱ्क नॊन्ददु अऱियार्क्कु मेवऱ्क
-मॆऩ्मै पगैवर् अगत्तु। ८७७
+नोवऱ्क नॊन्ददु अऱियार्क्कु मेवऱ्क  
+मॆऩ्मै पगैवर् अगत्तु। ८७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७८</summary>
 
-वगैयऱिन्दु तऱ्सॆय्दु तऱ्काप्प मायुम्
-पगैवर्गण् पट्ट सॆरुक्कु। ८७८
+वगैयऱिन्दु तऱ्सॆय्दु तऱ्काप्प मायुम्  
+पगैवर्गण् पट्ट सॆरुक्कु। ८७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७८</summary>
@@ -409,10 +408,10 @@ Nor your weakness to foes explain.        877
 
 <details><summary>NVK Ashraf choice (en) - ८७८</summary>
 
-०८७८
-Engineer, execute and defend.
-Thus keep the pride of your foes at bay.
-(Satguru Subramuniyaswami), (J. Narayanaswamy)
+०८७८  
+Engineer, execute and defend.  
+Thus keep the pride of your foes at bay.  
+(Satguru Subramuniyaswami), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७८</summary>
@@ -446,14 +445,14 @@ The pride of enemies shall fall.        878
 
 <details><summary>मूलम् - ८७८</summary>
 
-वगैयऱिन्दु तऱ्सॆय्दु तऱ्काप्प मायुम्
-पगैवर्गण् पट्ट सॆरुक्कु। ८७८
+वगैयऱिन्दु तऱ्सॆय्दु तऱ्काप्प मायुम्  
+पगैवर्गण् पट्ट सॆरुक्कु। ८७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७९</summary>
 
-इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्
-कैगॊल्लुम् काऴ्त्त इडत्तु। ८७९
+इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्  
+कैगॊल्लुम् काऴ्त्त इडत्तु। ८७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७९</summary>
@@ -464,10 +463,10 @@ The pride of enemies shall fall.        878
 
 <details><summary>NVK Ashraf choice (en) - ८७९</summary>
 
-०८७९
-Cut a thorny shrub when young.
-Allowed to grow, it injures the hand that cuts.
-(N.V.K. Ashraf)
+०८७९  
+Cut a thorny shrub when young.  
+Allowed to grow, it injures the hand that cuts.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८७९</summary>
@@ -501,14 +500,14 @@ Grown hard, they cut your hands beware.        879
 
 <details><summary>मूलम् - ८७९</summary>
 
-इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्
-कैगॊल्लुम् काऴ्त्त इडत्तु। ८७९
+इळैदाग मुळ्मरम् कॊल्ग कळैयुनर्  
+कैगॊल्लुम् काऴ्त्त इडत्तु। ८७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८८०</summary>
 
-उयिर्प्प उळरल्लर् मऩ्ऱ सॆयिर्प्पवर्
-सॆम्मल् सिदैक्कला तार्। ८८०
+उयिर्प्प उळरल्लर् मऩ्ऱ सॆयिर्प्पवर्  
+सॆम्मल् सिदैक्कला तार्। ८८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८०</summary>
@@ -519,10 +518,10 @@ Grown hard, they cut your hands beware.        879
 
 <details><summary>NVK Ashraf choice (en) - ८८०</summary>
 
-०८८०
-Those who can't crush the pride of defying foes
-Will cease to breathe long. *
-(V.V.S. Aiyar)
+०८८०  
+Those who can't crush the pride of defying foes  
+Will cease to breathe long. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८८०</summary>
@@ -556,7 +555,7 @@ Defying foes who don't defeat.        880
 
 <details><summary>मूलम् - ८८०</summary>
 
-उयिर्प्प उळरल्लर् मऩ्ऱ सॆयिर्प्पवर्
-सॆम्मल् सिदैक्कला तार्। ८८०
+उयिर्प्प उळरल्लर् मऩ्ऱ सॆयिर्प्पवर्  
+सॆम्मल् सिदैक्कला तार्। ८८०  
 </details>
 

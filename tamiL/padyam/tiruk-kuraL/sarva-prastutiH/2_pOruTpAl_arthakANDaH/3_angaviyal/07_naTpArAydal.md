@@ -3,11 +3,10 @@ title = "०७ नट्पाराय्दल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७९१</summary>
 
-नाडादु नट् टलिऱ् केडिल्लै नट्टबिऩ्
-वीडिल्लै नट्पाळ् पवर्क्कु। ७९१
+नाडादु नट् टलिऱ् केडिल्लै नट्टबिऩ्  
+वीडिल्लै नट्पाळ् पवर्क्कु। ७९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९१</summary>
@@ -19,10 +18,10 @@ title = "०७ नट्पाराय्दल्"
 
 <details><summary>NVK Ashraf choice (en) - ७९१</summary>
 
-०७९१
-Nothing worse than befriending one untried,
-For friends once made should last forever.
-(N.V.K. Ashraf), (Kasthuri Sreenivasan)
+०७९१  
+Nothing worse than befriending one untried,  
+For friends once made should last forever.  
+(N.V.K. Ashraf), (Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९१</summary>
@@ -56,14 +55,14 @@ For contacts formed will scarcely cease.        791
 
 <details><summary>मूलम् - ७९१</summary>
 
-नाडादु नट् टलिऱ् केडिल्लै नट्टबिऩ्
-वीडिल्लै नट्पाळ् पवर्क्कु। ७९१
+नाडादु नट् टलिऱ् केडिल्लै नट्टबिऩ्  
+वीडिल्लै नट्पाळ् पवर्क्कु। ७९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९२</summary>
 
-आय्न्दाय्न्दु कॊळ्ळादाऩ् केण्मै कडैमुऱै
-ताऩ्साम् तुयरम् तरुम्। ७९२
+आय्न्दाय्न्दु कॊळ्ळादाऩ् केण्मै कडैमुऱै  
+ताऩ्साम् तुयरम् तरुम्। ७९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९२</summary>
@@ -74,10 +73,10 @@ For contacts formed will scarcely cease.        791
 
 <details><summary>NVK Ashraf choice (en) - ७९२</summary>
 
-०७९२
-Friendship made without enquiries
-Can cause lifetime trouble. *
-(K.R. Srinivasa Iyengar)
+०७९२  
+Friendship made without enquiries  
+Can cause lifetime trouble. *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७९२</summary>
@@ -116,14 +115,14 @@ Shall end in grief and death at last.        792
 
 <details><summary>मूलम् - ७९२</summary>
 
-आय्न्दाय्न्दु कॊळ्ळादाऩ् केण्मै कडैमुऱै
-ताऩ्साम् तुयरम् तरुम्। ७९२
+आय्न्दाय्न्दु कॊळ्ळादाऩ् केण्मै कडैमुऱै  
+ताऩ्साम् तुयरम् तरुम्। ७९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९३</summary>
 
-कुणमुम् कुडिमैयुम् कुऱ्ऱमुम् कुऩ्ऱा
-इऩऩुम् अऱिन्दियाक्क नट्पु। ७९३
+कुणमुम् कुडिमैयुम् कुऱ्ऱमुम् कुऩ्ऱा  
+इऩऩुम् अऱिन्दियाक्क नट्पु। ७९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९३</summary>
@@ -134,10 +133,10 @@ Shall end in grief and death at last.        792
 
 <details><summary>NVK Ashraf choice (en) - ७९३</summary>
 
-०७९३
-Make one a friend after knowing his nature,
-Family, fellows and flaws.
-(P.S. Sundaram)
+०७९३  
+Make one a friend after knowing his nature,  
+Family, fellows and flaws.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९३</summary>
@@ -171,14 +170,14 @@ Trace well and take companions.        793
 
 <details><summary>मूलम् - ७९३</summary>
 
-कुणमुम् कुडिमैयुम् कुऱ्ऱमुम् कुऩ्ऱा
-इऩऩुम् अऱिन्दियाक्क नट्पु। ७९३
+कुणमुम् कुडिमैयुम् कुऱ्ऱमुम् कुऩ्ऱा  
+इऩऩुम् अऱिन्दियाक्क नट्पु। ७९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९४</summary>
 
-कुडिप्पिऱन्दु तऩ्कण् पऴिनाणु वाऩैक्
-कॊडुत्तुम् कॊळल्वेण्डुम् नट्पु। ७९४
+कुडिप्पिऱन्दु तऩ्कण् पऴिनाणु वाऩैक्  
+कॊडुत्तुम् कॊळल्वेण्डुम् नट्पु। ७९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९४</summary>
@@ -189,10 +188,10 @@ Trace well and take companions.        793
 
 <details><summary>NVK Ashraf choice (en) - ७९४</summary>
 
-०७९४
-A man of birth and scrupulous honour
-Is worth seeking even at a price.
-(P.S. Sundaram)
+०७९४  
+A man of birth and scrupulous honour  
+Is worth seeking even at a price.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९४</summary>
@@ -226,14 +225,14 @@ The nobly born who shun disgrace.        794
 
 <details><summary>मूलम् - ७९४</summary>
 
-कुडिप्पिऱन्दु तऩ्कण् पऴिनाणु वाऩैक्
-कॊडुत्तुम् कॊळल्वेण्डुम् नट्पु। ७९४
+कुडिप्पिऱन्दु तऩ्कण् पऴिनाणु वाऩैक्  
+कॊडुत्तुम् कॊळल्वेण्डुम् नट्पु। ७९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९५</summary>
 
-अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय
-वल्लार्नडबु आय्न्दु कॊळल्। ७९५
+अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय  
+वल्लार्नडबु आय्न्दु कॊळल्। ७९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९५</summary>
@@ -244,10 +243,10 @@ The nobly born who shun disgrace.        794
 
 <details><summary>NVK Ashraf choice (en) - ७९५</summary>
 
-०७९५
-Seek a friend who will make you cry,
-Rail and rate when you go astray.
-(P.S. Sundaram)
+०७९५  
+Seek a friend who will make you cry,  
+Rail and rate when you go astray.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७९५</summary>
@@ -286,14 +285,14 @@ And lead you right are worthy friends.        795
 
 <details><summary>मूलम् - ७९५</summary>
 
-अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय
-वल्लार्नडबु आय्न्दु कॊळल्। ७९५
+अऴच्चॊल्लि अल्लदु इडित्तु वऴक्कऱिय  
+वल्लार्नडबु आय्न्दु कॊळल्। ७९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९६</summary>
 
-केट्टिऩुम् उण्डो र् उऱुदि किळैञरै
-नीट्टि अळप्पदोर् कोल्। ७९६
+केट्टिऩुम् उण्डो र् उऱुदि किळैञरै  
+नीट्टि अळप्पदोर् कोल्। ७९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९६</summary>
@@ -304,10 +303,10 @@ And lead you right are worthy friends.        795
 
 <details><summary>NVK Ashraf choice (en) - ७९६</summary>
 
-०७९६
-Is there any yardstick better than adversity,
-To spread out and measure friends? *
-(P.S. Sundaram)
+०७९६  
+Is there any yardstick better than adversity,  
+To spread out and measure friends? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९६</summary>
@@ -341,14 +340,14 @@ A rod to measure out kinsmen?        796
 
 <details><summary>मूलम् - ७९६</summary>
 
-केट्टिऩुम् उण्डो र् उऱुदि किळैञरै
-नीट्टि अळप्पदोर् कोल्। ७९६
+केट्टिऩुम् उण्डो र् उऱुदि किळैञरै  
+नीट्टि अळप्पदोर् कोल्। ७९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९७</summary>
 
-ऊदियम् ऎऩ्पदु ऒरुवऱ्कुप् पेदैयार्
-केण्मै ऒरीइ विडल्। ७९७
+ऊदियम् ऎऩ्पदु ऒरुवऱ्कुप् पेदैयार्  
+केण्मै ऒरीइ विडल्। ७९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९७</summary>
@@ -359,10 +358,10 @@ A rod to measure out kinsmen?        796
 
 <details><summary>NVK Ashraf choice (en) - ७९७</summary>
 
-०७९७
-It is a gain by itself if one gets away
-From the friendship of fools.
-(C. Rajagopalachari)
+०७९७  
+It is a gain by itself if one gets away  
+From the friendship of fools.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९७</summary>
@@ -396,14 +395,14 @@ The greatest gain so say the wise.        797
 
 <details><summary>मूलम् - ७९७</summary>
 
-ऊदियम् ऎऩ्पदु ऒरुवऱ्कुप् पेदैयार्
-केण्मै ऒरीइ विडल्। ७९७
+ऊदियम् ऎऩ्पदु ऒरुवऱ्कुप् पेदैयार्  
+केण्मै ऒरीइ विडल्। ७९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९८</summary>
 
-उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क
-अल्लऱ्कण् आऱ्ऱऱुप्पार् नट्पु। ७९८
+उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क  
+अल्लऱ्कण् आऱ्ऱऱुप्पार् नट्पु। ७९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९८</summary>
@@ -414,10 +413,10 @@ The greatest gain so say the wise.        797
 
 <details><summary>NVK Ashraf choice (en) - ७९८</summary>
 
-०७९८
-Dwell not in thoughts that dim your spirit
-And befriend not those who desert in affliction. *
-(Satguru Subramuniyaswami)
+०७९८  
+Dwell not in thoughts that dim your spirit  
+And befriend not those who desert in affliction. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९८</summary>
@@ -451,14 +450,14 @@ Off with friends that in woe depart.        798
 
 <details><summary>मूलम् - ७९८</summary>
 
-उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क
-अल्लऱ्कण् आऱ्ऱऱुप्पार् नट्पु। ७९८
+उळ्ळऱ्क उळ्ळम् सिऱुगुव कॊळ्ळऱ्क  
+अल्लऱ्कण् आऱ्ऱऱुप्पार् नट्पु। ७९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९९</summary>
 
-कॆडुङ्गालैक् कैविडुवार् केण्मै अडुङ्गालै
-उळ्ळिऩुम् उळ्ळञ् जुडुम्। ७९९
+कॆडुङ्गालैक् कैविडुवार् केण्मै अडुङ्गालै  
+उळ्ळिऩुम् उळ्ळञ् जुडुम्। ७९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९९</summary>
@@ -469,10 +468,10 @@ Off with friends that in woe depart.        798
 
 <details><summary>NVK Ashraf choice (en) - ७९९</summary>
 
-०७९९
-The thought of friend's betrayal in need
-Rankles even on the deathbed. *
-(P.S. Sundaram)
+०७९९  
+The thought of friend's betrayal in need  
+Rankles even on the deathbed. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९९</summary>
@@ -506,14 +505,14 @@ Burn our mind ev'n at death to think.        799
 
 <details><summary>मूलम् - ७९९</summary>
 
-कॆडुङ्गालैक् कैविडुवार् केण्मै अडुङ्गालै
-उळ्ळिऩुम् उळ्ळञ् जुडुम्। ७९९
+कॆडुङ्गालैक् कैविडुवार् केण्मै अडुङ्गालै  
+उळ्ळिऩुम् उळ्ळञ् जुडुम्। ७९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८००</summary>
 
-मरुवुग मासऱ्ऱार् केण्मैऒऩ् ऱीत्तुम्
-ऒरुवुग ऒप्पिलार् नट्पु। ८००
+मरुवुग मासऱ्ऱार् केण्मैऒऩ् ऱीत्तुम्  
+ऒरुवुग ऒप्पिलार् नट्पु। ८००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८००</summary>
@@ -524,10 +523,10 @@ Burn our mind ev'n at death to think.        799
 
 <details><summary>NVK Ashraf choice (en) - ८००</summary>
 
-०८००
-Seek the friendship of the pure, and shake off
-The worthless even at a price.
-(P.S. Sundaram)
+०८००  
+Seek the friendship of the pure, and shake off  
+The worthless even at a price.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८००</summary>
@@ -565,7 +564,7 @@ Give something and give up the base.        800
 
 <details><summary>मूलम् - ८००</summary>
 
-मरुवुग मासऱ्ऱार् केण्मैऒऩ् ऱीत्तुम्
-ऒरुवुग ऒप्पिलार् नट्पु। ८००
+मरुवुग मासऱ्ऱार् केण्मैऒऩ् ऱीत्तुम्  
+ऒरुवुग ऒप्पिलार् नट्पु। ८००  
 </details>
 

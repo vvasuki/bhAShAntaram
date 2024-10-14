@@ -3,11 +3,10 @@ title = "१७ पुलवि नुणुक्कम्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १३११</summary>
 
-पॆण्णियलार् ऎल्लारुम् कण्णिऩ् पॊदुउण्बर्
-नण्णेऩ् परत्तनिऩ् मार्बु। १३११
+पॆण्णियलार् ऎल्लारुम् कण्णिऩ् पॊदुउण्बर्  
+नण्णेऩ् परत्तनिऩ् मार्बु। १३११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३११</summary>
@@ -18,10 +17,10 @@ title = "१७ पुलवि नुणुक्कम्"
 
 <details><summary>NVK Ashraf choice (en) - १३११</summary>
 
-१३११
-I won't clasp your broad chest,
-A common dish for all women's eyes to gorge! *
-(P.S. Sundaram)
+१३११  
+I won't clasp your broad chest,  
+A common dish for all women's eyes to gorge! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १३११</summary>
@@ -61,14 +60,14 @@ To the gaze of all ladies exposed.        1311
 
 <details><summary>मूलम् - १३११</summary>
 
-पॆण्णियलार् ऎल्लारुम् कण्णिऩ् पॊदुउण्बर्
-नण्णेऩ् परत्तनिऩ् मार्बु। १३११
+पॆण्णियलार् ऎल्लारुम् कण्णिऩ् पॊदुउण्बर्  
+नण्णेऩ् परत्तनिऩ् मार्बु। १३११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१२</summary>
 
-ऊडि इरुन्देमात् तुम्मिऩार् याम्दम्मै
-नीडुवाऴ् कॆऩ्पाक् कऱिन्दु। १३१२
+ऊडि इरुन्देमात् तुम्मिऩार् याम्दम्मै  
+नीडुवाऴ् कॆऩ्पाक् कऱिन्दु। १३१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१२</summary>
@@ -79,10 +78,10 @@ To the gaze of all ladies exposed.        1311
 
 <details><summary>NVK Ashraf choice (en) - १३१२</summary>
 
-१३१२
-When I sulked, he sneezed: hoping
-I would forget and say "Bless you".
-(P.S. Sundaram)
+१३१२  
+When I sulked, he sneezed: hoping  
+I would forget and say "Bless you".  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१२</summary>
@@ -117,14 +116,14 @@ Expecting me to say "live long".        1312
 
 <details><summary>मूलम् - १३१२</summary>
 
-ऊडि इरुन्देमात् तुम्मिऩार् याम्दम्मै
-नीडुवाऴ् कॆऩ्पाक् कऱिन्दु। १३१२
+ऊडि इरुन्देमात् तुम्मिऩार् याम्दम्मै  
+नीडुवाऴ् कॆऩ्पाक् कऱिन्दु। १३१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१३</summary>
 
-कोट्टुप् पूच् चूडिऩुम् कायुम् ऒरुत्तियैक्
-काट्टिय सूडिऩीर् ऎऩ्ऱु। १३१३
+कोट्टुप् पूच् चूडिऩुम् कायुम् ऒरुत्तियैक्  
+काट्टिय सूडिऩीर् ऎऩ्ऱु। १३१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१३</summary>
@@ -135,10 +134,10 @@ Expecting me to say "live long".        1312
 
 <details><summary>NVK Ashraf choice (en) - १३१३</summary>
 
-१३१३
-If I wear a wreath, she cries enraged:
-"For which woman's sake is this?" *
-(P.S. Sundaram)
+१३१३  
+If I wear a wreath, she cries enraged:  
+"For which woman's sake is this?" *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१३</summary>
@@ -173,14 +172,14 @@ While I adorn myself with flowers.        1313
 
 <details><summary>मूलम् - १३१३</summary>
 
-कोट्टुप् पूच् चूडिऩुम् कायुम् ऒरुत्तियैक्
-काट्टिय सूडिऩीर् ऎऩ्ऱु। १३१३
+कोट्टुप् पूच् चूडिऩुम् कायुम् ऒरुत्तियैक्  
+काट्टिय सूडिऩीर् ऎऩ्ऱु। १३१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१४</summary>
 
-यारिऩुम् कादलम् ऎऩ्ऱेऩा ऊडिऩाळ्
-यारिऩुम् यारिऩुम् ऎऩ्ऱु। १३१४
+यारिऩुम् कादलम् ऎऩ्ऱेऩा ऊडिऩाळ्  
+यारिऩुम् यारिऩुम् ऎऩ्ऱु। १३१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१४</summary>
@@ -191,10 +190,10 @@ While I adorn myself with flowers.        1313
 
 <details><summary>NVK Ashraf choice (en) - १३१४</summary>
 
-१३१४
-If I say "I love you more than any one",
-She frowned asking, "Than whom, than whom?" *
-(K. Krishnaswamy & Vijaya Ramkumar)
+१३१४  
+If I say "I love you more than any one",  
+She frowned asking, "Than whom, than whom?" *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१४</summary>
@@ -229,14 +228,14 @@ yāriṉum yāriṉum eṉṟu.
 
 <details><summary>मूलम् - १३१४</summary>
 
-यारिऩुम् कादलम् ऎऩ्ऱेऩा ऊडिऩाळ्
-यारिऩुम् यारिऩुम् ऎऩ्ऱु। १३१४
+यारिऩुम् कादलम् ऎऩ्ऱेऩा ऊडिऩाळ्  
+यारिऩुम् यारिऩुम् ऎऩ्ऱु। १३१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१५</summary>
 
-इम्मैप् पिऱप्पिल् पिरियलम् ऎऩ्ऱेऩाक्
-कण्निऱै नीर्गॊण् डऩळ्। १३१५
+इम्मैप् पिऱप्पिल् पिरियलम् ऎऩ्ऱेऩाक्  
+कण्निऱै नीर्गॊण् डऩळ्। १३१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१५</summary>
@@ -247,10 +246,10 @@ yāriṉum yāriṉum eṉṟu.
 
 <details><summary>NVK Ashraf choice (en) - १३१५</summary>
 
-१३१५
-The moment I said we won’t part in this life,
-Her eyes were filled with tears.
-(S.M. Diaz)
+१३१५  
+The moment I said we won’t part in this life,  
+Her eyes were filled with tears.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १३१५</summary>
@@ -290,14 +289,14 @@ Her eyes at once with tears were filled.        1315
 
 <details><summary>मूलम् - १३१५</summary>
 
-इम्मैप् पिऱप्पिल् पिरियलम् ऎऩ्ऱेऩाक्
-कण्निऱै नीर्गॊण् डऩळ्। १३१५
+इम्मैप् पिऱप्पिल् पिरियलम् ऎऩ्ऱेऩाक्  
+कण्निऱै नीर्गॊण् डऩळ्। १३१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१६</summary>
 
-उळ्ळिऩेऩ् ऎऩ्ऱेऩ्मऱ् ऱॆऩ्मऱन्दीर् ऎऩ्ऱॆऩ्ऩैप्
-पुल्लाळ् पुलत्तक् कऩळ्। १३१६
+उळ्ळिऩेऩ् ऎऩ्ऱेऩ्मऱ् ऱॆऩ्मऱन्दीर् ऎऩ्ऱॆऩ्ऩैप्  
+पुल्लाळ् पुलत्तक् कऩळ्। १३१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१६</summary>
@@ -308,10 +307,10 @@ Her eyes at once with tears were filled.        1315
 
 <details><summary>NVK Ashraf choice (en) - १३१६</summary>
 
-१३१६
-"I remembered you", I said;
-"After forgetting?" said she withdrawing herself! *
-(P.S. Sundaram)
+१३१६  
+"I remembered you", I said;  
+"After forgetting?" said she withdrawing herself! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१६</summary>
@@ -346,14 +345,14 @@ Her embrace crying "Oft you forget".        1316
 
 <details><summary>मूलम् - १३१६</summary>
 
-उळ्ळिऩेऩ् ऎऩ्ऱेऩ्मऱ् ऱॆऩ्मऱन्दीर् ऎऩ्ऱॆऩ्ऩैप्
-पुल्लाळ् पुलत्तक् कऩळ्। १३१६
+उळ्ळिऩेऩ् ऎऩ्ऱेऩ्मऱ् ऱॆऩ्मऱन्दीर् ऎऩ्ऱॆऩ्ऩैप्  
+पुल्लाळ् पुलत्तक् कऩळ्। १३१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१७</summary>
 
-वऴुत्तिऩाळ् तुम्मिऩेऩ् आग अऴित्तऴुदाळ्
-यारुळ्ळित् तुम्मिऩीर् ऎऩ्ऱु। १३१७
+वऴुत्तिऩाळ् तुम्मिऩेऩ् आग अऴित्तऴुदाळ्  
+यारुळ्ळित् तुम्मिऩीर् ऎऩ्ऱु। १३१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१७</summary>
@@ -364,10 +363,10 @@ Her embrace crying "Oft you forget".        1316
 
 <details><summary>NVK Ashraf choice (en) - १३१७</summary>
 
-१३१७
-She blessed as I sneezed, but soon recalled it crying:
-"Thinking whom did you sneeze?" *
-(V.V.S. Aiyar)
+१३१७  
+She blessed as I sneezed, but soon recalled it crying:  
+"Thinking whom did you sneeze?" *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१७</summary>
@@ -402,14 +401,14 @@ I sneezed; she blessed; then changed and wept
 
 <details><summary>मूलम् - १३१७</summary>
 
-वऴुत्तिऩाळ् तुम्मिऩेऩ् आग अऴित्तऴुदाळ्
-यारुळ्ळित् तुम्मिऩीर् ऎऩ्ऱु। १३१७
+वऴुत्तिऩाळ् तुम्मिऩेऩ् आग अऴित्तऴुदाळ्  
+यारुळ्ळित् तुम्मिऩीर् ऎऩ्ऱु। १३१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१८</summary>
 
-तुम्मुच् चॆऱुप्प अऴुदाळ् नुमर्उळ्ळल्
-ऎम्मै मऱैत्तिरो ऎऩ्ऱु। १३१८
+तुम्मुच् चॆऱुप्प अऴुदाळ् नुमर्उळ्ळल्  
+ऎम्मै मऱैत्तिरो ऎऩ्ऱु। १३१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१८</summary>
@@ -420,10 +419,10 @@ I sneezed; she blessed; then changed and wept
 
 <details><summary>NVK Ashraf choice (en) - १३१८</summary>
 
-१३१८
-When I suppressed my sneeze, she wept saying,
-"Whom are you hiding from me?"
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+१३१८  
+When I suppressed my sneeze, she wept saying,  
+"Whom are you hiding from me?"  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१८</summary>
@@ -458,14 +457,14 @@ I repressed sneeze; she wept crying
 
 <details><summary>मूलम् - १३१८</summary>
 
-तुम्मुच् चॆऱुप्प अऴुदाळ् नुमर्उळ्ळल्
-ऎम्मै मऱैत्तिरो ऎऩ्ऱु। १३१८
+तुम्मुच् चॆऱुप्प अऴुदाळ् नुमर्उळ्ळल्  
+ऎम्मै मऱैत्तिरो ऎऩ्ऱु। १३१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३१९</summary>
 
-तऩ्ऩै उणर्त्तिऩुम् कायुम् पिऱर्क्कुम्नीर्
-इन्नीरर् आगुदिर् ऎऩ्ऱु। १३१९
+तऩ्ऩै उणर्त्तिऩुम् कायुम् पिऱर्क्कुम्नीर्  
+इन्नीरर् आगुदिर् ऎऩ्ऱु। १३१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३१९</summary>
@@ -476,10 +475,10 @@ I repressed sneeze; she wept crying
 
 <details><summary>NVK Ashraf choice (en) - १३१९</summary>
 
-१३१९
-If I try making up with her, she would ask enraged,
-"Is this how you coax others as well?" *
-(P.S. Sundaram), (J. Narayanaswamy)
+१३१९  
+If I try making up with her, she would ask enraged,  
+"Is this how you coax others as well?" *  
+(P.S. Sundaram), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३१९</summary>
@@ -514,14 +513,14 @@ I try to coax her and she remarks
 
 <details><summary>मूलम् - १३१९</summary>
 
-तऩ्ऩै उणर्त्तिऩुम् कायुम् पिऱर्क्कुम्नीर्
-इन्नीरर् आगुदिर् ऎऩ्ऱु। १३१९
+तऩ्ऩै उणर्त्तिऩुम् कायुम् पिऱर्क्कुम्नीर्  
+इन्नीरर् आगुदिर् ऎऩ्ऱु। १३१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३२०</summary>
 
-निऩैत्तिरुन्दु नोक्किऩुम् कायुम् अऩैत्तुनीर्
-यारुळ्ळि नोक्किऩीर् ऎऩ्ऱु। १३२०
+निऩैत्तिरुन्दु नोक्किऩुम् कायुम् अऩैत्तुनीर्  
+यारुळ्ळि नोक्किऩीर् ऎऩ्ऱु। १३२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३२०</summary>
@@ -532,10 +531,10 @@ I try to coax her and she remarks
 
 <details><summary>NVK Ashraf choice (en) - १३२०</summary>
 
-१३२०
-If I gaze at her in silence, she would fume and ask,
-"Thinking of whom this comparison?" *
-(K.R. Srinivasa Iyengar), (P.S. Sundaram)
+१३२०  
+If I gaze at her in silence, she would fume and ask,  
+"Thinking of whom this comparison?" *  
+(K.R. Srinivasa Iyengar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३२०</summary>
@@ -570,7 +569,7 @@ I think and gaze at her; she chides:
 
 <details><summary>मूलम् - १३२०</summary>
 
-निऩैत्तिरुन्दु नोक्किऩुम् कायुम् अऩैत्तुनीर्
-यारुळ्ळि नोक्किऩीर् ऎऩ्ऱु। १३२०
+निऩैत्तिरुन्दु नोक्किऩुम् कायुम् अऩैत्तुनीर्  
+यारुळ्ळि नोक्किऩीर् ऎऩ्ऱु। १३२०  
 </details>
 

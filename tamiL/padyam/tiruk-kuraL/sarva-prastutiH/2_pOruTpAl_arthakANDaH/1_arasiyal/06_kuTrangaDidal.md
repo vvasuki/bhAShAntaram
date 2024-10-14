@@ -3,11 +3,10 @@ title = "०६ कुऱ्ऱङ्गडिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४३१</summary>
 
-सॆरुक्कुञ् जिऩमुम् सिऱुमैयुम् इल्लार्
-पॆरुक्कम् पॆरुमिद नीर्त्तु। ४३१
+सॆरुक्कुञ् जिऩमुम् सिऱुमैयुम् इल्लार्  
+पॆरुक्कम् पॆरुमिद नीर्त्तु। ४३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३१</summary>
@@ -18,10 +17,10 @@ title = "०६ कुऱ्ऱङ्गडिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ४३१</summary>
 
-०४३१
-Freedom from arrogance, anger and meanness
-Spells dignity in greatness.
-(S.M. Diaz)
+०४३१  
+Freedom from arrogance, anger and meanness  
+Spells dignity in greatness.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३१</summary>
@@ -52,14 +51,14 @@ Who're free from wrath pride lust petty.        431
 
 <details><summary>मूलम् - ४३१</summary>
 
-सॆरुक्कुञ् जिऩमुम् सिऱुमैयुम् इल्लार्
-पॆरुक्कम् पॆरुमिद नीर्त्तु। ४३१
+सॆरुक्कुञ् जिऩमुम् सिऱुमैयुम् इल्लार्  
+पॆरुक्कम् पॆरुमिद नीर्त्तु। ४३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३२</summary>
 
-इवऱलुम् माण्बिऱन्द माऩमुम् माणा
-उवगैयुम् एदम् इऱैक्कु। ४३२
+इवऱलुम् माण्बिऱन्द माऩमुम् माणा  
+उवगैयुम् एदम् इऱैक्कु। ४३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३२</summary>
@@ -70,10 +69,10 @@ Who're free from wrath pride lust petty.        431
 
 <details><summary>NVK Ashraf choice (en) - ४३२</summary>
 
-०४३२
-Miserliness, undignified pride and fraudulent indulgence
-Are flaws in a king.
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+०४३२  
+Miserliness, undignified pride and fraudulent indulgence  
+Are flaws in a king.  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३२</summary>
@@ -104,14 +103,14 @@ These add blemishes to a prince.        432
 
 <details><summary>मूलम् - ४३२</summary>
 
-इवऱलुम् माण्बिऱन्द माऩमुम् माणा
-उवगैयुम् एदम् इऱैक्कु। ४३२
+इवऱलुम् माण्बिऱन्द माऩमुम् माणा  
+उवगैयुम् एदम् इऱैक्कु। ४३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३३</summary>
 
-तिऩैत्तुणैयाङ् गुऱ्ऱम् वरिऩुम् पऩैत्तुणैयाक्
-कॊळ्वर् पऴिनाणु वार्। ४३३
+तिऩैत्तुणैयाङ् गुऱ्ऱम् वरिऩुम् पऩैत्तुणैयाक्  
+कॊळ्वर् पऴिनाणु वार्। ४३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३३</summary>
@@ -122,10 +121,10 @@ These add blemishes to a prince.        432
 
 <details><summary>NVK Ashraf choice (en) - ४३३</summary>
 
-०४३३
-To those ashamed of wrong doings,
-Even millet of fault is as big as a palm-tree. *
-(V. Ramasamy), (P.S. Sundaram)
+०४३३  
+To those ashamed of wrong doings,  
+Even millet of fault is as big as a palm-tree. *  
+(V. Ramasamy), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४३३</summary>
@@ -161,14 +160,14 @@ Men fearing disgrace, Palm-tall deem.        433
 
 <details><summary>मूलम् - ४३३</summary>
 
-तिऩैत्तुणैयाङ् गुऱ्ऱम् वरिऩुम् पऩैत्तुणैयाक्
-कॊळ्वर् पऴिनाणु वार्। ४३३
+तिऩैत्तुणैयाङ् गुऱ्ऱम् वरिऩुम् पऩैत्तुणैयाक्  
+कॊळ्वर् पऴिनाणु वार्। ४३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३४</summary>
 
-कुऱ्ऱमे काक्क पॊरुळागक् कुऱ्ऱमे
-अऱ्ऱन् द्रूउम् पगै। ४३४
+कुऱ्ऱमे काक्क पॊरुळागक् कुऱ्ऱमे  
+अऱ्ऱन् द्रूउम् पगै। ४३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३४</summary>
@@ -179,10 +178,10 @@ Men fearing disgrace, Palm-tall deem.        433
 
 <details><summary>NVK Ashraf choice (en) - ४३४</summary>
 
-०४३४
-Guard against error as you would guard wealth,
-For error is a foe that kills.
-(P.S. Sundaram)
+०४३४  
+Guard against error as you would guard wealth,  
+For error is a foe that kills.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३४</summary>
@@ -213,14 +212,14 @@ Our fatal foe is that default.        434
 
 <details><summary>मूलम् - ४३४</summary>
 
-कुऱ्ऱमे काक्क पॊरुळागक् कुऱ्ऱमे
-अऱ्ऱन् द्रूउम् पगै। ४३४
+कुऱ्ऱमे काक्क पॊरुळागक् कुऱ्ऱमे  
+अऱ्ऱन् द्रूउम् पगै। ४३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३५</summary>
 
-वरुमुऩ्ऩर्क् कावादाऩ् वाऴ्क्कै ऎरिमुऩ्ऩर्
-वैत्तूऱु पोलक् कॆडुम्। ४३५
+वरुमुऩ्ऩर्क् कावादाऩ् वाऴ्क्कै ऎरिमुऩ्ऩर्  
+वैत्तूऱु पोलक् कॆडुम्। ४३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३५</summary>
@@ -231,10 +230,10 @@ Our fatal foe is that default.        434
 
 <details><summary>NVK Ashraf choice (en) - ४३५</summary>
 
-०४३५
-A life that does not guard against faults
-Would vanish like a heap of straw before fire. *
-(P.S. Sundaram)
+०४३५  
+A life that does not guard against faults  
+Would vanish like a heap of straw before fire. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३५</summary>
@@ -265,14 +264,14 @@ Loses his life like flame-lit straw.        435
 
 <details><summary>मूलम् - ४३५</summary>
 
-वरुमुऩ्ऩर्क् कावादाऩ् वाऴ्क्कै ऎरिमुऩ्ऩर्
-वैत्तूऱु पोलक् कॆडुम्। ४३५
+वरुमुऩ्ऩर्क् कावादाऩ् वाऴ्क्कै ऎरिमुऩ्ऩर्  
+वैत्तूऱु पोलक् कॆडुम्। ४३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३६</summary>
 
-तऩ्कुऱ्ऱम् नीक्किप् पिऱर्गुऱ्ऱङ् गाण्गिऱ्पिऩ्
-ऎऩ्कुऱ्ऱ मागुम् इऱैक्कु? ४३६
+तऩ्कुऱ्ऱम् नीक्किप् पिऱर्गुऱ्ऱङ् गाण्गिऱ्पिऩ्  
+ऎऩ्कुऱ्ऱ मागुम् इऱैक्कु? ४३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३६</summary>
@@ -283,10 +282,10 @@ Loses his life like flame-lit straw.        435
 
 <details><summary>NVK Ashraf choice (en) - ४३६</summary>
 
-०४३६
-How can a king be faulted who removes his own fault
-Before seeing that of others? *
-(P.S. Sundaram)
+०४३६  
+How can a king be faulted who removes his own fault  
+Before seeing that of others? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३६</summary>
@@ -317,14 +316,14 @@ First his faults, then scans others.        436
 
 <details><summary>मूलम् - ४३६</summary>
 
-तऩ्कुऱ्ऱम् नीक्किप् पिऱर्गुऱ्ऱङ् गाण्गिऱ्पिऩ्
-ऎऩ्कुऱ्ऱ मागुम् इऱैक्कु? ४३६
+तऩ्कुऱ्ऱम् नीक्किप् पिऱर्गुऱ्ऱङ् गाण्गिऱ्पिऩ्  
+ऎऩ्कुऱ्ऱ मागुम् इऱैक्कु? ४३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३७</summary>
 
-सॆयऱ्पाल सॆय्या तिवऱियाऩ् सॆल्वम्
-उयऱ्पाल तऩ्ऱिक् कॆडुम्। ४३७
+सॆयऱ्पाल सॆय्या तिवऱियाऩ् सॆल्वम्  
+उयऱ्पाल तऩ्ऱिक् कॆडुम्। ४३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३७</summary>
@@ -335,10 +334,10 @@ First his faults, then scans others.        436
 
 <details><summary>NVK Ashraf choice (en) - ४३७</summary>
 
-०४३७
-The miser's wealth, unspent on what should be spent,
-Does not increase but cease. *
-(P.S. Sundaram), (N.V.K. Ashraf)
+०४३७  
+The miser's wealth, unspent on what should be spent,  
+Does not increase but cease. *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३७</summary>
@@ -369,14 +368,14 @@ Who would not for a good cause spend.        437
 
 <details><summary>मूलम् - ४३७</summary>
 
-सॆयऱ्पाल सॆय्या तिवऱियाऩ् सॆल्वम्
-उयऱ्पाल तऩ्ऱिक् कॆडुम्। ४३७
+सॆयऱ्पाल सॆय्या तिवऱियाऩ् सॆल्वम्  
+उयऱ्पाल तऩ्ऱिक् कॆडुम्। ४३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३८</summary>
 
-पऱ्ऱुळ्ळम् ऎऩ्ऩुम् इवऱऩ्मै ऎऱ्ऱुळ्ळुम्
-ऎण्णप् पडुवदॊऩ् ऱऩ्ऱु। ४३८
+पऱ्ऱुळ्ळम् ऎऩ्ऩुम् इवऱऩ्मै ऎऱ्ऱुळ्ळुम्  
+ऎण्णप् पडुवदॊऩ् ऱऩ्ऱु। ४३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३८</summary>
@@ -387,10 +386,10 @@ Who would not for a good cause spend.        437
 
 <details><summary>NVK Ashraf choice (en) - ४३८</summary>
 
-०४३८
-That miserliness which clings to men
-Is one thing that stands out among all sins.
-(N.V.K. Ashraf)
+०४३८  
+That miserliness which clings to men  
+Is one thing that stands out among all sins.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३८</summary>
@@ -421,14 +420,14 @@ Is more than fault the worst apart.        438
 
 <details><summary>मूलम् - ४३८</summary>
 
-पऱ्ऱुळ्ळम् ऎऩ्ऩुम् इवऱऩ्मै ऎऱ्ऱुळ्ळुम्
-ऎण्णप् पडुवदॊऩ् ऱऩ्ऱु। ४३८
+पऱ्ऱुळ्ळम् ऎऩ्ऩुम् इवऱऩ्मै ऎऱ्ऱुळ्ळुम्  
+ऎण्णप् पडुवदॊऩ् ऱऩ्ऱु। ४३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४३९</summary>
 
-वियवऱ्क ऎञ्ञाऩ्ऱुम् तऩ्ऩै नयवऱ्क
-नऩ्ऱि पयवा विऩै। ४३९
+वियवऱ्क ऎञ्ञाऩ्ऱुम् तऩ्ऩै नयवऱ्क  
+नऩ्ऱि पयवा विऩै। ४३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३९</summary>
@@ -439,10 +438,10 @@ Is more than fault the worst apart.        438
 
 <details><summary>NVK Ashraf choice (en) - ४३९</summary>
 
-०४३९
-Never flatter yourself,
-Nor delight in deeds that bring no good. *
-(P.S. Sundaram)
+०४३९  
+Never flatter yourself,  
+Nor delight in deeds that bring no good. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३९</summary>
@@ -473,14 +472,14 @@ Nor do a deed that does no good.        439
 
 <details><summary>मूलम् - ४३९</summary>
 
-वियवऱ्क ऎञ्ञाऩ्ऱुम् तऩ्ऩै नयवऱ्क
-नऩ्ऱि पयवा विऩै। ४३९
+वियवऱ्क ऎञ्ञाऩ्ऱुम् तऩ्ऩै नयवऱ्क  
+नऩ्ऱि पयवा विऩै। ४३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४४०</summary>
 
-कादल कादल् अऱियामै उय्क्किऱ्पिऩ्
-एदिल एदिलार् नूल्। ४४०
+कादल कादल् अऱियामै उय्क्किऱ्पिऩ्  
+एदिल एदिलार् नूल्। ४४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४०</summary>
@@ -491,10 +490,10 @@ Nor do a deed that does no good.        439
 
 <details><summary>NVK Ashraf choice (en) - ४४०</summary>
 
-०४४०
-Keep your delights in pleasures unknown
-To keep the designs of your foes at bay.
-(N.V.K. Ashraf)
+०४४०  
+Keep your delights in pleasures unknown  
+To keep the designs of your foes at bay.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४०</summary>
@@ -524,7 +523,7 @@ If one his wishes guards in veil.        440
 
 <details><summary>मूलम् - ४४०</summary>
 
-कादल कादल् अऱियामै उय्क्किऱ्पिऩ्
-एदिल एदिलार् नूल्। ४४०
+कादल कादल् अऱियामै उय्क्किऱ्पिऩ्  
+एदिल एदिलार् नूल्। ४४०  
 </details>
 

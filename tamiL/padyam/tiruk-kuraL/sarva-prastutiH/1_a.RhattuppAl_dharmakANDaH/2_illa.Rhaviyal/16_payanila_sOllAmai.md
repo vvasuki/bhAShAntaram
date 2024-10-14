@@ -3,11 +3,10 @@ title = "१६ पयनिल सॊल्लामै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - १९१</summary>
 
-पल्लार् मुऩियप् पयऩिल सॊल्लुवाऩ्
-ऎल्लारुम् ऎळ्ळप् पडुम्। १९१
+पल्लार् मुऩियप् पयऩिल सॊल्लुवाऩ्  
+ऎल्लारुम् ऎळ्ळप् पडुम्। १९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९१</summary>
@@ -18,10 +17,10 @@ title = "१६ पयनिल सॊल्लामै"
 
 <details><summary>NVK Ashraf choice (en) - १९१</summary>
 
-०१९१
+०१९१  
 To disgust people with empty words 
-Is to be despised by all.
-(P.S. Sundaram)
+Is to be despised by all.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९१</summary>
@@ -55,14 +54,14 @@ Is held in contempt as banal.         191
 
 <details><summary>मूलम् - १९१</summary>
 
-पल्लार् मुऩियप् पयऩिल सॊल्लुवाऩ्
-ऎल्लारुम् ऎळ्ळप् पडुम्। १९१
+पल्लार् मुऩियप् पयऩिल सॊल्लुवाऩ्  
+ऎल्लारुम् ऎळ्ळप् पडुम्। १९१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९२</summary>
 
-पयऩिल पल्लार्मुऩ् सॊल्लल् नयऩिल
-नट्टार्गण् सॆय्दलिऱ् ऱीदु। १९२
+पयऩिल पल्लार्मुऩ् सॊल्लल् नयऩिल  
+नट्टार्गण् सॆय्दलिऱ् ऱीदु। १९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९२</summary>
@@ -73,10 +72,10 @@ Is held in contempt as banal.         191
 
 <details><summary>NVK Ashraf choice (en) - १९२</summary>
 
-०१९२
-Vain speech in public is worse
-Than a wrong done to a friend.
-(P.S. Sundaram)
+०१९२  
+Vain speech in public is worse  
+Than a wrong done to a friend.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९२</summary>
@@ -110,14 +109,14 @@ Than doing to friends deeds adverse.         192
 
 <details><summary>मूलम् - १९२</summary>
 
-पयऩिल पल्लार्मुऩ् सॊल्लल् नयऩिल
-नट्टार्गण् सॆय्दलिऱ् ऱीदु। १९२
+पयऩिल पल्लार्मुऩ् सॊल्लल् नयऩिल  
+नट्टार्गण् सॆय्दलिऱ् ऱीदु। १९२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९३</summary>
 
-नयऩिलऩ् ऎऩ्पदु सॊल्लुम् पयऩिल
-पारित् तुरैक्कुम् उरै। १९३
+नयऩिलऩ् ऎऩ्पदु सॊल्लुम् पयऩिल  
+पारित् तुरैक्कुम् उरै। १९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९३</summary>
@@ -128,10 +127,10 @@ Than doing to friends deeds adverse.         192
 
 <details><summary>NVK Ashraf choice (en) - १९३</summary>
 
-०१९३
-He that multiplies empty words
-Declares loud his want of worth.
-(V.V.S. Aiyar)
+०१९३  
+He that multiplies empty words  
+Declares loud his want of worth.  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९३</summary>
@@ -165,14 +164,14 @@ That "good-for-nothing" is his name.         193
 
 <details><summary>मूलम् - १९३</summary>
 
-नयऩिलऩ् ऎऩ्पदु सॊल्लुम् पयऩिल
-पारित् तुरैक्कुम् उरै। १९३
+नयऩिलऩ् ऎऩ्पदु सॊल्लुम् पयऩिल  
+पारित् तुरैक्कुम् उरै। १९३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९४</summary>
 
-नयऩ्सारा नऩ्मैयिऩ् नीक्कुम् पयऩ्साराप्
-पण्बिल्सॊल् पल्ला रगत्तु। १९४
+नयऩ्सारा नऩ्मैयिऩ् नीक्कुम् पयऩ्साराप्  
+पण्बिल्सॊल् पल्ला रगत्तु। १९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९४</summary>
@@ -183,10 +182,10 @@ That "good-for-nothing" is his name.         193
 
 <details><summary>NVK Ashraf choice (en) - १९४</summary>
 
-०१९४
-Vain words of inconsequence in an assembly
-Rob one of any gain or goodness.
-(J. Narayanaswamy)
+०१९४  
+Vain words of inconsequence in an assembly  
+Rob one of any gain or goodness.  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९४</summary>
@@ -220,14 +219,14 @@ Will make all gains and goodness flee.         194
 
 <details><summary>मूलम् - १९४</summary>
 
-नयऩ्सारा नऩ्मैयिऩ् नीक्कुम् पयऩ्साराप्
-पण्बिल्सॊल् पल्ला रगत्तु। १९४
+नयऩ्सारा नऩ्मैयिऩ् नीक्कुम् पयऩ्साराप्  
+पण्बिल्सॊल् पल्ला रगत्तु। १९४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९५</summary>
 
-सीर्मै सिऱप्पॊडु नीङ्गुम् पयऩिल
-नीर्मै युडैयार् सॊलिऩ्। १९५
+सीर्मै सिऱप्पॊडु नीङ्गुम् पयऩिल  
+नीर्मै युडैयार् सॊलिऩ्। १९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९५</summary>
@@ -238,10 +237,10 @@ Will make all gains and goodness flee.         194
 
 <details><summary>NVK Ashraf choice (en) - १९५</summary>
 
-०१९५
-Men of worth, speaking nonsense,
-Will lose greatness and esteem.
-(P.S. Sundaram)
+०१९५  
+Men of worth, speaking nonsense,  
+Will lose greatness and esteem.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९५</summary>
@@ -275,14 +274,14 @@ When savants silly nonsense say.         195
 
 <details><summary>मूलम् - १९५</summary>
 
-सीर्मै सिऱप्पॊडु नीङ्गुम् पयऩिल
-नीर्मै युडैयार् सॊलिऩ्। १९५
+सीर्मै सिऱप्पॊडु नीङ्गुम् पयऩिल  
+नीर्मै युडैयार् सॊलिऩ्। १९५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९६</summary>
 
-पयऩिल् सॊल् पराट्टु वाऩै मगऩ्ऎऩल्
-मक्कट् पदडि यॆऩल्। १९६
+पयऩिल् सॊल् पराट्टु वाऩै मगऩ्ऎऩल्  
+मक्कट् पदडि यॆऩल्। १९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९६</summary>
@@ -293,10 +292,10 @@ When savants silly nonsense say.         195
 
 <details><summary>NVK Ashraf choice (en) - १९६</summary>
 
-०१९६
-Call him not a man who loves idle words.
-Call him rather chaff among men.
-(V.V.S. Aiyar)
+०१९६  
+Call him not a man who loves idle words.  
+Call him rather chaff among men.  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९६</summary>
@@ -330,14 +329,14 @@ Himself in weightless idle words.         196
 
 <details><summary>मूलम् - १९६</summary>
 
-पयऩिल् सॊल् पराट्टु वाऩै मगऩ्ऎऩल्
-मक्कट् पदडि यॆऩल्। १९६
+पयऩिल् सॊल् पराट्टु वाऩै मगऩ्ऎऩल्  
+मक्कट् पदडि यॆऩल्। १९६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९७</summary>
 
-नयऩिल सॊल्लिऩुञ् जॊल्लुग साऩ्ऱोर्
-पयऩिल सॊल्लामै नऩ्ऱु। १९७
+नयऩिल सॊल्लिऩुञ् जॊल्लुग साऩ्ऱोर्  
+पयऩिल सॊल्लामै नऩ्ऱु। १९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९७</summary>
@@ -348,10 +347,10 @@ Himself in weightless idle words.         196
 
 <details><summary>NVK Ashraf choice (en) - १९७</summary>
 
-०१९७
-Even unpleasant words may be spoken,
-But the wise should avoid idle speech. *
-(P.S. Sundaram)
+०१९७  
+Even unpleasant words may be spoken,  
+But the wise should avoid idle speech. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९७</summary>
@@ -385,14 +384,14 @@ Even if they would roughly speak.         197
 
 <details><summary>मूलम् - १९७</summary>
 
-नयऩिल सॊल्लिऩुञ् जॊल्लुग साऩ्ऱोर्
-पयऩिल सॊल्लामै नऩ्ऱु। १९७
+नयऩिल सॊल्लिऩुञ् जॊल्लुग साऩ्ऱोर्  
+पयऩिल सॊल्लामै नऩ्ऱु। १९७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९८</summary>
 
-अरुम्बयऩ् आयुम् अऱिविऩार् सॊल्लार्
-पॆरुम्बयऩ् इल्लाद सॊल्। १९८
+अरुम्बयऩ् आयुम् अऱिविऩार् सॊल्लार्  
+पॆरुम्बयऩ् इल्लाद सॊल्। १९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९८</summary>
@@ -403,10 +402,10 @@ Even if they would roughly speak.         197
 
 <details><summary>NVK Ashraf choice (en) - १९८</summary>
 
-०१९८
-The wise who weigh their worth
-Refrain from words that have no grain of worth. *
-( Shuddhananda Bharatiar)
+०१९८  
+The wise who weigh their worth  
+Refrain from words that have no grain of worth. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९८</summary>
@@ -440,14 +439,14 @@ From words that have no grain and brain.         198
 
 <details><summary>मूलम् - १९८</summary>
 
-अरुम्बयऩ् आयुम् अऱिविऩार् सॊल्लार्
-पॆरुम्बयऩ् इल्लाद सॊल्। १९८
+अरुम्बयऩ् आयुम् अऱिविऩार् सॊल्लार्  
+पॆरुम्बयऩ् इल्लाद सॊल्। १९८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १९९</summary>
 
-पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द
-मासऱु काट्चि यवर्। १९९
+पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द  
+मासऱु काट्चि यवर्। १९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १९९</summary>
@@ -458,10 +457,10 @@ From words that have no grain and brain.         198
 
 <details><summary>NVK Ashraf choice (en) - १९९</summary>
 
-०१९९
-The clear-eyed and spotless never even forgetfully
-Say things that are meaningless. *
-(P.S. Sundaram)
+०१९९  
+The clear-eyed and spotless never even forgetfully  
+Say things that are meaningless. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १९९</summary>
@@ -495,14 +494,14 @@ Slip not to silly words-mention.         199
 
 <details><summary>मूलम् - १९९</summary>
 
-पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द
-मासऱु काट्चि यवर्। १९९
+पॊरुळ्दीर्न्द पॊच्चान्दुञ् जॊल्लार् मरुळ्दीर्न्द  
+मासऱु काट्चि यवर्। १९९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २००</summary>
 
-सॊल्लुग सॊल्लिऱ् पयऩुडैय सॊल्लऱ्क
-सॊल्लिऱ् पयऩिलाच् चॊल्। २००
+सॊल्लुग सॊल्लिऱ् पयऩुडैय सॊल्लऱ्क  
+सॊल्लिऱ् पयऩिलाच् चॊल्। २००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २००</summary>
@@ -513,10 +512,10 @@ Slip not to silly words-mention.         199
 
 <details><summary>NVK Ashraf choice (en) - २००</summary>
 
-०२००
-Should you speak, speak useful words.
-Never indulge in vain speech.
-(N.V.K. Ashraf)
+०२००  
+Should you speak, speak useful words.  
+Never indulge in vain speech.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २००</summary>
@@ -549,7 +548,7 @@ And never indulge in useless load.         200
 
 <details><summary>मूलम् - २००</summary>
 
-सॊल्लुग सॊल्लिऱ् पयऩुडैय सॊल्लऱ्क
-सॊल्लिऱ् पयऩिलाच् चॊल्। २००
+सॊल्लुग सॊल्लिऱ् पयऩुडैय सॊल्लऱ्क  
+सॊल्लिऱ् पयऩिलाच् चॊल्। २००  
 </details>
 

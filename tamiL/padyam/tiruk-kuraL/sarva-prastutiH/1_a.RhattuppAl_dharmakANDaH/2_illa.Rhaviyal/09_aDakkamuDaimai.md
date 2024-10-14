@@ -3,11 +3,10 @@ title = "०९ अडक्कमुडैमै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - १२१</summary>
 
-अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै
-आरिरुळ् उय्त्तु विडुम्। १२१
+अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै  
+आरिरुळ् उय्त्तु विडुम्। १२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१</summary>
@@ -18,10 +17,10 @@ title = "०९ अडक्कमुडैमै"
 
 <details><summary>NVK Ashraf choice (en) - १२१</summary>
 
-०१२१
-Self-control takes one to the gods;
-Want of it will push one into utter darkness.
-(C. Rajagopalachari)
+०१२१  
+Self-control takes one to the gods;  
+Want of it will push one into utter darkness.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१</summary>
@@ -54,14 +53,14 @@ Indulgence leads to gloomy hades.         121
 
 <details><summary>मूलम् - १२१</summary>
 
-अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै
-आरिरुळ् उय्त्तु विडुम्। १२१
+अडक्कम् अमररुळ् उय्क्कुम् अडङ्गामै  
+आरिरुळ् उय्त्तु विडुम्। १२१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२२</summary>
 
-काक्क पॊरुळा अडक्कत्तै आक्कम्
-अदऩिऩूउङ् गिल्लै उयिर्क्कु। १२२
+काक्क पॊरुळा अडक्कत्तै आक्कम्  
+अदऩिऩूउङ् गिल्लै उयिर्क्कु। १२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२२</summary>
@@ -72,10 +71,10 @@ Indulgence leads to gloomy hades.         121
 
 <details><summary>NVK Ashraf choice (en) - १२२</summary>
 
-०१२२
-Guard self-control as a treasure;
-There is nothing more precious in life.
-(P.S. Sundaram)
+०१२२  
+Guard self-control as a treasure;  
+There is nothing more precious in life.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२२</summary>
@@ -109,14 +108,14 @@ Guard with care this great treasure.         122
 
 <details><summary>मूलम् - १२२</summary>
 
-काक्क पॊरुळा अडक्कत्तै आक्कम्
-अदऩिऩूउङ् गिल्लै उयिर्क्कु। १२२
+काक्क पॊरुळा अडक्कत्तै आक्कम्  
+अदऩिऩूउङ् गिल्लै उयिर्क्कु। १२२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२३</summary>
 
-सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु
-आऱ्ऱिऩ् अडङ्गप् पॆऱिऩ्। १२३
+सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु  
+आऱ्ऱिऩ् अडङ्गप् पॆऱिऩ्। १२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२३</summary>
@@ -127,10 +126,10 @@ Guard with care this great treasure.         122
 
 <details><summary>NVK Ashraf choice (en) - १२३</summary>
 
-०१२३
-Those who follow the wise path of self-restraint
-Are conferred with virtuous fame.
-(N.V.K. Ashraf)
+०१२३  
+Those who follow the wise path of self-restraint  
+Are conferred with virtuous fame.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२३</summary>
@@ -164,14 +163,14 @@ Name and fame seek him untold.         123
 
 <details><summary>मूलम् - १२३</summary>
 
-सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु
-आऱ्ऱिऩ् अडङ्गप् पॆऱिऩ्। १२३
+सॆऱिवऱिन्दु सीर्मै पयक्कुम् अऱिवऱिन्दु  
+आऱ्ऱिऩ् अडङ्गप् पॆऱिऩ्। १२३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२४</summary>
 
-निलैयिऩ् तिरियादु अडङ्गियाऩ् तोऱ्ऱम्
-मलैयिऩुम् माणप् पॆरिदु। १२४
+निलैयिऩ् तिरियादु अडङ्गियाऩ् तोऱ्ऱम्  
+मलैयिऩुम् माणप् पॆरिदु। १२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४</summary>
@@ -182,10 +181,10 @@ Name and fame seek him untold.         123
 
 <details><summary>NVK Ashraf choice (en) - १२४</summary>
 
-०१२४
-More imposing than a mountain
-Is the stature of the steadfast and self-controlled. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०१२४  
+More imposing than a mountain  
+Is the stature of the steadfast and self-controlled. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४</summary>
@@ -219,14 +218,14 @@ The sage looks grander than mountain.         124
 
 <details><summary>मूलम् - १२४</summary>
 
-निलैयिऩ् तिरियादु अडङ्गियाऩ् तोऱ्ऱम्
-मलैयिऩुम् माणप् पॆरिदु। १२४
+निलैयिऩ् तिरियादु अडङ्गियाऩ् तोऱ्ऱम्  
+मलैयिऩुम् माणप् पॆरिदु। १२४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२५</summary>
 
-ऎल्लार्क्कुम् नऩ्ऱाम् पणिदल् अवरुळ्ळुम्
-सॆल्वर्क्के सॆल्वम् तगैत्तु। १२५
+ऎल्लार्क्कुम् नऩ्ऱाम् पणिदल् अवरुळ्ळुम्  
+सॆल्वर्क्के सॆल्वम् तगैत्तु। १२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२५</summary>
@@ -237,10 +236,10 @@ The sage looks grander than mountain.         124
 
 <details><summary>NVK Ashraf choice (en) - १२५</summary>
 
-०१२५
-Humility is good for all
-But is an added richness to the rich.
-(P.S. Sundaram)
+०१२५  
+Humility is good for all  
+But is an added richness to the rich.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२५</summary>
@@ -274,14 +273,14 @@ To the rich it adds a wealth special.         125
 
 <details><summary>मूलम् - १२५</summary>
 
-ऎल्लार्क्कुम् नऩ्ऱाम् पणिदल् अवरुळ्ळुम्
-सॆल्वर्क्के सॆल्वम् तगैत्तु। १२५
+ऎल्लार्क्कुम् नऩ्ऱाम् पणिदल् अवरुळ्ळुम्  
+सॆल्वर्क्के सॆल्वम् तगैत्तु। १२५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२६</summary>
 
-ऒरुमैयुळ् आमैबोल् ऐन्दडक्कल् आऱ्ऱिऩ्
-ऎऴुमैयुम् एमाप् पुडैत्तु। १२६
+ऒरुमैयुळ् आमैबोल् ऐन्दडक्कल् आऱ्ऱिऩ्  
+ऎऴुमैयुम् एमाप् पुडैत्तु। १२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२६</summary>
@@ -292,9 +291,9 @@ To the rich it adds a wealth special.         125
 
 <details><summary>NVK Ashraf choice (en) - १२६</summary>
 
-०१२६
-Like a tortoise, withdraw your five senses in one birth,
-To protect you in the next seven.
+०१२६  
+Like a tortoise, withdraw your five senses in one birth,  
+To protect you in the next seven.  
 (N.V.K. Ashraf)  
 </details>
 
@@ -329,14 +328,14 @@ Their joy prolongs to births sevenfold.         126
 
 <details><summary>मूलम् - १२६</summary>
 
-ऒरुमैयुळ् आमैबोल् ऐन्दडक्कल् आऱ्ऱिऩ्
-ऎऴुमैयुम् एमाप् पुडैत्तु। १२६
+ऒरुमैयुळ् आमैबोल् ऐन्दडक्कल् आऱ्ऱिऩ्  
+ऎऴुमैयुम् एमाप् पुडैत्तु। १२६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२७</summary>
 
-यागावा रायिऩुम् नागाक्क कावाक्काल्
-सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु। १२७
+यागावा रायिऩुम् नागाक्क कावाक्काल्  
+सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु। १२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२७</summary>
@@ -347,10 +346,10 @@ Their joy prolongs to births sevenfold.         126
 
 <details><summary>NVK Ashraf choice (en) - १२७</summary>
 
-०१२७
-Guard your tongue if nothing else;
-For words unguarded cause distress.
-(P.S. Sundaram)
+०१२७  
+Guard your tongue if nothing else;  
+For words unguarded cause distress.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२७</summary>
@@ -384,14 +383,14 @@ Or slips of tongue bring all the woes.         127
 
 <details><summary>मूलम् - १२७</summary>
 
-यागावा रायिऩुम् नागाक्क कावाक्काल्
-सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु। १२७
+यागावा रायिऩुम् नागाक्क कावाक्काल्  
+सोगाप्पर् सॊल्लिऴुक्कुप् पट्टु। १२७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२८</summary>
 
-ऒऩ्ऱाऩुन् दीच्चॊल् पॊरुट्पयऩ् उण्डायिऩ्
-नऩ्ऱागा तागि विडुम्। १२८
+ऒऩ्ऱाऩुन् दीच्चॊल् पॊरुट्पयऩ् उण्डायिऩ्  
+नऩ्ऱागा तागि विडुम्। १२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८</summary>
@@ -402,10 +401,10 @@ Or slips of tongue bring all the woes.         127
 
 <details><summary>NVK Ashraf choice (en) - १२८</summary>
 
-०१२८
-A bitter word, even if said once,
-Can undo all the good intended.
-(N.V.K. Ashraf)
+०१२८  
+A bitter word, even if said once,  
+Can undo all the good intended.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२८</summary>
@@ -439,14 +438,14 @@ Will turn all good results to bad.         128
 
 <details><summary>मूलम् - १२८</summary>
 
-ऒऩ्ऱाऩुन् दीच्चॊल् पॊरुट्पयऩ् उण्डायिऩ्
-नऩ्ऱागा तागि विडुम्। १२८
+ऒऩ्ऱाऩुन् दीच्चॊल् पॊरुट्पयऩ् उण्डायिऩ्  
+नऩ्ऱागा तागि विडुम्। १२८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२९</summary>
 
-तीयिऩाऱ् सुट्टबुण् उळ्ळाऱुम् आऱादे
-नाविऩाऱ् सुट्ट वडु। १२९
+तीयिऩाऱ् सुट्टबुण् उळ्ळाऱुम् आऱादे  
+नाविऩाऱ् सुट्ट वडु। १२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९</summary>
@@ -457,10 +456,10 @@ Will turn all good results to bad.         128
 
 <details><summary>NVK Ashraf choice (en) - १२९</summary>
 
-०१२९
-The wound caused by fire will heal within,
-But not the scar left by the tongue.
-(P.S. Sundaram)
+०१२९  
+The wound caused by fire will heal within,  
+But not the scar left by the tongue.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९</summary>
@@ -494,14 +493,14 @@ Tongue-burnt wound rests a running sore.         129
 
 <details><summary>मूलम् - १२९</summary>
 
-तीयिऩाऱ् सुट्टबुण् उळ्ळाऱुम् आऱादे
-नाविऩाऱ् सुट्ट वडु। १२९
+तीयिऩाऱ् सुट्टबुण् उळ्ळाऱुम् आऱादे  
+नाविऩाऱ् सुट्ट वडु। १२९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १३०</summary>
 
-कदङ्गात्तुक् कऱ्ऱटङ्गल् आऱ्ऱुवाऩ् सॆव्वि
-अऱम्बार्क्कुम् आऱ्ऱिऩ् नुऴैन्दु। १३०
+कदङ्गात्तुक् कऱ्ऱटङ्गल् आऱ्ऱुवाऩ् सॆव्वि  
+अऱम्बार्क्कुम् आऱ्ऱिऩ् नुऴैन्दु। १३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३०</summary>
@@ -512,10 +511,10 @@ Tongue-burnt wound rests a running sore.         129
 
 <details><summary>NVK Ashraf choice (en) - १३०</summary>
 
-०१३०
-Virtue waits for a timely entry on the path of one
-Who curbs wrath and learns self restraint.
-(N.V.K. Ashraf)
+०१३०  
+Virtue waits for a timely entry on the path of one  
+Who curbs wrath and learns self restraint.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३०</summary>
@@ -548,7 +547,7 @@ Self-controlled savant anger free.         130
 
 <details><summary>मूलम् - १३०</summary>
 
-कदङ्गात्तुक् कऱ्ऱटङ्गल् आऱ्ऱुवाऩ् सॆव्वि
-अऱम्बार्क्कुम् आऱ्ऱिऩ् नुऴैन्दु। १३०
+कदङ्गात्तुक् कऱ्ऱटङ्गल् आऱ्ऱुवाऩ् सॆव्वि  
+अऱम्बार्क्कुम् आऱ्ऱिऩ् नुऴैन्दु। १३०  
 </details>
 

@@ -3,11 +3,10 @@ title = "०६ नाणुत्तुऱवुरैत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११३१</summary>
 
-कामम् उऴन्दु वरुन्दिऩार्क्कु एमम्
-मडलल्लदु इल्लै वलि। ११३१
+कामम् उऴन्दु वरुन्दिऩार्क्कु एमम्  
+मडलल्लदु इल्लै वलि। ११३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३१</summary>
@@ -18,10 +17,10 @@ title = "०६ नाणुत्तुऱवुरैत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - ११३१</summary>
 
-११३१
-Those that enjoyed love and now mourn in affliction
-Have nothing but the madal for strength.
-(G.U. Pope), (P.S. Sundaram)
+११३१  
+Those that enjoyed love and now mourn in affliction  
+Have nothing but the madal for strength.  
+(G.U. Pope), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११३१</summary>
@@ -62,14 +61,14 @@ Except riding *'palmyra horse'.        1131
 
 <details><summary>मूलम् - ११३१</summary>
 
-कामम् उऴन्दु वरुन्दिऩार्क्कु एमम्
-मडलल्लदु इल्लै वलि। ११३१
+कामम् उऴन्दु वरुन्दिऩार्क्कु एमम्  
+मडलल्लदु इल्लै वलि। ११३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३२</summary>
 
-नोऩा उडम्बुम् उयिरुम् मडलेऱुम्
-नाणिऩै नीक्कि निऱुत्तु। ११३२
+नोऩा उडम्बुम् उयिरुम् मडलेऱुम्  
+नाणिऩै नीक्कि निऱुत्तु। ११३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३२</summary>
@@ -80,10 +79,10 @@ Except riding *'palmyra horse'.        1131
 
 <details><summary>NVK Ashraf choice (en) - ११३२</summary>
 
-११३२
-Away with shame! Soul and body can bear no more,
-And will mount the madal.
-(P.S. Sundaram)
+११३२  
+Away with shame! Soul and body can bear no more,  
+And will mount the madal.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३२</summary>
@@ -117,14 +116,14 @@ And take to riding of the palm.        1132
 
 <details><summary>मूलम् - ११३२</summary>
 
-नोऩा उडम्बुम् उयिरुम् मडलेऱुम्
-नाणिऩै नीक्कि निऱुत्तु। ११३२
+नोऩा उडम्बुम् उयिरुम् मडलेऱुम्  
+नाणिऩै नीक्कि निऱुत्तु। ११३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३३</summary>
 
-नाणॊडु नल्लाण्मै पण्डुडैयेऩ् इऩ्ऱुडैयेऩ्
-कामुऱ्ऱार् एऱुम् मडल्। ११३३
+नाणॊडु नल्लाण्मै पण्डुडैयेऩ् इऩ्ऱुडैयेऩ्  
+कामुऱ्ऱार् एऱुम् मडल्। ११३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३३</summary>
@@ -135,10 +134,10 @@ And take to riding of the palm.        1132
 
 <details><summary>NVK Ashraf choice (en) - ११३३</summary>
 
-११३३
-Modesty and manliness once I owned,
-But now only the madal ridden by the lustful. *
-(W.H. Drew and J. Lazarus)
+११३३  
+Modesty and manliness once I owned,  
+But now only the madal ridden by the lustful. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३३</summary>
@@ -172,14 +171,14 @@ My love has now Madal only.        1133
 
 <details><summary>मूलम् - ११३३</summary>
 
-नाणॊडु नल्लाण्मै पण्डुडैयेऩ् इऩ्ऱुडैयेऩ्
-कामुऱ्ऱार् एऱुम् मडल्। ११३३
+नाणॊडु नल्लाण्मै पण्डुडैयेऩ् इऩ्ऱुडैयेऩ्  
+कामुऱ्ऱार् एऱुम् मडल्। ११३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३४</summary>
 
-कामक् कडुम्बुऩल् उय्क्कुम् नाणॊडु
-नल्लाण्मै ऎऩ्ऩुम् पुणै। ११३४
+कामक् कडुम्बुऩल् उय्क्कुम् नाणॊडु  
+नल्लाण्मै ऎऩ्ऩुम् पुणै। ११३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३४</summary>
@@ -190,10 +189,10 @@ My love has now Madal only.        1133
 
 <details><summary>NVK Ashraf choice (en) - ११३४</summary>
 
-११३४
-Alas, the raft of modesty and manliness is swept away
-By the rushing tide of lust!
-(W.H. Drew and J. Lazarus), (G.U. Pope)
+११३४  
+Alas, the raft of modesty and manliness is swept away  
+By the rushing tide of lust!  
+(W.H. Drew and J. Lazarus), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३४</summary>
@@ -227,14 +226,14 @@ The raft of shame and firmness, aye!        1134
 
 <details><summary>मूलम् - ११३४</summary>
 
-कामक् कडुम्बुऩल् उय्क्कुम् नाणॊडु
-नल्लाण्मै ऎऩ्ऩुम् पुणै। ११३४
+कामक् कडुम्बुऩल् उय्क्कुम् नाणॊडु  
+नल्लाण्मै ऎऩ्ऩुम् पुणै। ११३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३५</summary>
 
-तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु
-मालै उऴक्कुम् तुयर्। ११३५
+तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु  
+मालै उऴक्कुम् तुयर्। ११३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३५</summary>
@@ -245,10 +244,10 @@ The raft of shame and firmness, aye!        1134
 
 <details><summary>NVK Ashraf choice (en) - ११३५</summary>
 
-११३५
-The maiden with her armlets of garland
-Gave me the madal and the pangs of eventide. *
-(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
+११३५  
+The maiden with her armlets of garland  
+Gave me the madal and the pangs of eventide. *  
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३५</summary>
@@ -283,14 +282,14 @@ Are gifts of wreath-like bracelet maid.        1135
 
 <details><summary>मूलम् - ११३५</summary>
 
-तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु
-मालै उऴक्कुम् तुयर्। ११३५
+तॊडलैक् कुऱुन्दॊडि तन्दाळ् मडलॊडु  
+मालै उऴक्कुम् तुयर्। ११३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३६</summary>
 
-मडलूर्दल् यामत्तुम् उळ्ळुवेऩ् मऩ्ऱ
-पडल्ऒल्ला पेदैक्कॆऩ् कण्। ११३६
+मडलूर्दल् यामत्तुम् उळ्ळुवेऩ् मऩ्ऱ  
+पडल्ऒल्ला पेदैक्कॆऩ् कण्। ११३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३६</summary>
@@ -301,10 +300,10 @@ Are gifts of wreath-like bracelet maid.        1135
 
 <details><summary>NVK Ashraf choice (en) - ११३६</summary>
 
-११३६
-Even at midnight I think of riding the madal,
-Unable to close my eyes because of her. *
-(P.S. Sundaram), (N.V.K. Ashraf)
+११३६  
+Even at midnight I think of riding the madal,  
+Unable to close my eyes because of her. *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३६</summary>
@@ -338,14 +337,14 @@ My eyes sleep not seeing this fair.        1136
 
 <details><summary>मूलम् - ११३६</summary>
 
-मडलूर्दल् यामत्तुम् उळ्ळुवेऩ् मऩ्ऱ
-पडल्ऒल्ला पेदैक्कॆऩ् कण्। ११३६
+मडलूर्दल् यामत्तुम् उळ्ळुवेऩ् मऩ्ऱ  
+पडल्ऒल्ला पेदैक्कॆऩ् कण्। ११३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३७</summary>
 
-कडलऩ्ऩ कामम् उऴन्दुम् मडलेऱाप्
-पॆण्णिऩ् पॆरुन्दक्क तिल्। ११३७
+कडलऩ्ऩ कामम् उऴन्दुम् मडलेऱाप्  
+पॆण्णिऩ् पॆरुन्दक्क तिल्। ११३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३७</summary>
@@ -356,10 +355,10 @@ My eyes sleep not seeing this fair.        1136
 
 <details><summary>NVK Ashraf choice (en) - ११३७</summary>
 
-११३७
-Nothing grandeur than women! Their love may rage like sea,
-Yet don’t mount the madal!
-(N.V.K. Ashraf)
+११३७  
+Nothing grandeur than women! Their love may rage like sea,  
+Yet don’t mount the madal!  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३७</summary>
@@ -393,14 +392,14 @@ Serene is woman's self control.        1137
 
 <details><summary>मूलम् - ११३७</summary>
 
-कडलऩ्ऩ कामम् उऴन्दुम् मडलेऱाप्
-पॆण्णिऩ् पॆरुन्दक्क तिल्। ११३७
+कडलऩ्ऩ कामम् उऴन्दुम् मडलेऱाप्  
+पॆण्णिऩ् पॆरुन्दक्क तिल्। ११३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३८</summary>
 
-निऱैयरियर् मऩ्अळियर् ऎऩ्ऩादु कामम्
-मऱैयिऱन्दु मऩ्ऱु पडुम्। ११३८
+निऱैयरियर् मऩ्अळियर् ऎऩ्ऩादु कामम्  
+मऱैयिऱन्दु मऩ्ऱु पडुम्। ११३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३८</summary>
@@ -411,10 +410,10 @@ Serene is woman's self control.        1137
 
 <details><summary>NVK Ashraf choice (en) - ११३८</summary>
 
-११३८
-Pitiless love with no regard for modesty,
-Betrays itself to reveal the secrets public. *
-(S. Maharajan), (P.S. Sundaram)
+११३८  
+Pitiless love with no regard for modesty,  
+Betrays itself to reveal the secrets public. *  
+(S. Maharajan), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३८</summary>
@@ -448,14 +447,14 @@ Though women are highly soft and chaste.        1138
 
 <details><summary>मूलम् - ११३८</summary>
 
-निऱैयरियर् मऩ्अळियर् ऎऩ्ऩादु कामम्
-मऱैयिऱन्दु मऩ्ऱु पडुम्। ११३८
+निऱैयरियर् मऩ्अळियर् ऎऩ्ऩादु कामम्  
+मऱैयिऱन्दु मऩ्ऱु पडुम्। ११३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३९</summary>
 
-अऱिगिलार् ऎल्लारुम् ऎऩ्ऱेऎऩ् कामम्
-मऱुगिऩ् मऱुगुम् मरुण्डु। ११३९
+अऱिगिलार् ऎल्लारुम् ऎऩ्ऱेऎऩ् कामम्  
+मऱुगिऩ् मऱुगुम् मरुण्डु। ११३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३९</summary>
@@ -466,10 +465,10 @@ Though women are highly soft and chaste.        1138
 
 <details><summary>NVK Ashraf choice (en) - ११३९</summary>
 
-११३९
-Perplexed is my passion that it roves in public
-With complaints of being unnoticed. *
-(J. Narayanaswamy), (N.V.K. Ashraf)
+११३९  
+Perplexed is my passion that it roves in public  
+With complaints of being unnoticed. *  
+(J. Narayanaswamy), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३९</summary>
@@ -503,14 +502,14 @@ Believing that none knows its secret.        1139
 
 <details><summary>मूलम् - ११३९</summary>
 
-अऱिगिलार् ऎल्लारुम् ऎऩ्ऱेऎऩ् कामम्
-मऱुगिऩ् मऱुगुम् मरुण्डु। ११३९
+अऱिगिलार् ऎल्लारुम् ऎऩ्ऱेऎऩ् कामम्  
+मऱुगिऩ् मऱुगुम् मरुण्डु। ११३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११४०</summary>
 
-याम्गण्णिऩ् काण नगुब अऱिविल्लार्
-याम्बट्ट ताम्बडा आऱु। ११४०
+याम्गण्णिऩ् काण नगुब अऱिविल्लार्  
+याम्बट्ट ताम्बडा आऱु। ११४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४०</summary>
@@ -521,10 +520,10 @@ Believing that none knows its secret.        1139
 
 <details><summary>NVK Ashraf choice (en) - ११४०</summary>
 
-११४०
-Fools laugh so as to be seen by us,
-Not having endured what we have.
-(W.H. Drew and J. Lazarus), (P.S. Sundaram)
+११४०  
+Fools laugh so as to be seen by us,  
+Not having endured what we have.  
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४०</summary>
@@ -557,7 +556,7 @@ For they feel not my pangs and sighs.        1140
 
 <details><summary>मूलम् - ११४०</summary>
 
-याम्गण्णिऩ् काण नगुब अऱिविल्लार्
-याम्बट्ट ताम्बडा आऱु। ११४०
+याम्गण्णिऩ् काण नगुब अऱिविल्लार्  
+याम्बट्ट ताम्बडा आऱु। ११४०  
 </details>
 

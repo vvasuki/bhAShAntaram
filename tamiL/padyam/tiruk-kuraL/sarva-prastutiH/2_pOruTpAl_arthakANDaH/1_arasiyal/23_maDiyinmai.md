@@ -3,11 +3,10 @@ title = "२३ मडियिन्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६०१</summary>
 
-कुडियॆऩ्ऩुम् कुऩ्ऱा विळक्कम् मडियॆऩ्ऩुम्
-मासूर माय्न्दु कॆडुम्। ६०१
+कुडियॆऩ्ऩुम् कुऩ्ऱा विळक्कम् मडियॆऩ्ऩुम्  
+मासूर माय्न्दु कॆडुम्। ६०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०१</summary>
@@ -19,10 +18,10 @@ title = "२३ मडियिन्मै"
 
 <details><summary>NVK Ashraf choice (en) - ६०१</summary>
 
-०६०१
-The eternal flame of a family vanishes
-When eclipsed by that dark cloud called laziness.
-(Satguru Subramuniyaswami)
+०६०१  
+The eternal flame of a family vanishes  
+When eclipsed by that dark cloud called laziness.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०१</summary>
@@ -56,14 +55,14 @@ When foul idleness encloses.        601
 
 <details><summary>मूलम् - ६०१</summary>
 
-कुडियॆऩ्ऩुम् कुऩ्ऱा विळक्कम् मडियॆऩ्ऩुम्
-मासूर माय्न्दु कॆडुम्। ६०१
+कुडियॆऩ्ऩुम् कुऩ्ऱा विळक्कम् मडियॆऩ्ऩुम्  
+मासूर माय्न्दु कॆडुम्। ६०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०२</summary>
 
-मडियै मडिया ऒऴुगल् कुडियैक्
-कुडियाग वेण्डु पवर्। ६०२
+मडियै मडिया ऒऴुगल् कुडियैक्  
+कुडियाग वेण्डु पवर्। ६०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०२</summary>
@@ -74,10 +73,10 @@ When foul idleness encloses.        601
 
 <details><summary>NVK Ashraf choice (en) - ६०२</summary>
 
-०६०२
-Sloth is dismissed as sloth by those
-Who wish to retain their family repute.
-(N.V.K. Ashraf)
+०६०२  
+Sloth is dismissed as sloth by those  
+Who wish to retain their family repute.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०२</summary>
@@ -111,14 +110,14 @@ Loath sloth as sloth; refuse it room.        602
 
 <details><summary>मूलम् - ६०२</summary>
 
-मडियै मडिया ऒऴुगल् कुडियैक्
-कुडियाग वेण्डु पवर्। ६०२
+मडियै मडिया ऒऴुगल् कुडियैक्  
+कुडियाग वेण्डु पवर्। ६०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०३</summary>
 
-मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द
-कुडिमडियुम् तऩ्ऩिऩुम् मुन्दु। ६०३
+मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द  
+कुडिमडियुम् तऩ्ऩिऩुम् मुन्दु। ६०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०३</summary>
@@ -129,10 +128,10 @@ Loath sloth as sloth; refuse it room.        602
 
 <details><summary>NVK Ashraf choice (en) - ६०३</summary>
 
-०६०३
-A fool, who holds on to sloth,
-Will ruin his household before he gets ruined.
-(N.V.K. Ashraf)
+०६०३  
+A fool, who holds on to sloth,  
+Will ruin his household before he gets ruined.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०३</summary>
@@ -166,14 +165,14 @@ Before he dies ruins his house.        603
 
 <details><summary>मूलम् - ६०३</summary>
 
-मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द
-कुडिमडियुम् तऩ्ऩिऩुम् मुन्दु। ६०३
+मडिमडिक् कॊण्डॊऴुगुम् पेदै पिऱन्द  
+कुडिमडियुम् तऩ्ऩिऩुम् मुन्दु। ६०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०४</summary>
 
-कुडिमडिन्दु कुऱ्ऱम् पॆरुगुम् मडिमडिन्दु
-माण्ड उञऱ्ऱि लवर्क्कु। ६०४
+कुडिमडिन्दु कुऱ्ऱम् पॆरुगुम् मडिमडिन्दु  
+माण्ड उञऱ्ऱि लवर्क्कु। ६०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०४</summary>
@@ -184,10 +183,10 @@ Before he dies ruins his house.        603
 
 <details><summary>NVK Ashraf choice (en) - ६०४</summary>
 
-०६०४
-The society that broods in sloth without striving,
-Decays and steeps in crime. *
-(J. Narayanaswamy)
+०६०४  
+The society that broods in sloth without striving,  
+Decays and steeps in crime. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०४</summary>
@@ -221,14 +220,14 @@ Ruin their house by evil growth.        604
 
 <details><summary>मूलम् - ६०४</summary>
 
-कुडिमडिन्दु कुऱ्ऱम् पॆरुगुम् मडिमडिन्दु
-माण्ड उञऱ्ऱि लवर्क्कु। ६०४
+कुडिमडिन्दु कुऱ्ऱम् पॆरुगुम् मडिमडिन्दु  
+माण्ड उञऱ्ऱि लवर्क्कु। ६०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०५</summary>
 
-नॆडुनीर् मऱवि मडिदुयिल् नाऩ्कुम्
-कॆडुनीरार् कामक् कलऩ्। ६०५
+नॆडुनीर् मऱवि मडिदुयिल् नाऩ्कुम्  
+कॆडुनीरार् कामक् कलऩ्। ६०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०५</summary>
@@ -239,10 +238,10 @@ Ruin their house by evil growth.        604
 
 <details><summary>NVK Ashraf choice (en) - ६०५</summary>
 
-०६०५
-The pleasure-junks of destruction are four:
-Procrastination, forgetfulness, sloth and sleep.
-(P.S. Sundaram)
+०६०५  
+The pleasure-junks of destruction are four:  
+Procrastination, forgetfulness, sloth and sleep.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०५</summary>
@@ -277,14 +276,14 @@ These four are pleasure boats of loss.        605
 
 <details><summary>मूलम् - ६०५</summary>
 
-नॆडुनीर् मऱवि मडिदुयिल् नाऩ्कुम्
-कॆडुनीरार् कामक् कलऩ्। ६०५
+नॆडुनीर् मऱवि मडिदुयिल् नाऩ्कुम्  
+कॆडुनीरार् कामक् कलऩ्। ६०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०६</summary>
 
-पडियुडैयार् पऱ्ऱमैन्दक् कण्णुम् मडियुडैयार्
-माण्बयऩ् ऎय्दल् अरिदु। ६०६
+पडियुडैयार् पऱ्ऱमैन्दक् कण्णुम् मडियुडैयार्  
+माण्बयऩ् ऎय्दल् अरिदु। ६०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०६</summary>
@@ -295,10 +294,10 @@ These four are pleasure boats of loss.        605
 
 <details><summary>NVK Ashraf choice (en) - ६०६</summary>
 
-०६०६
-Seldom do men possessed by sloth achieve anything great
-Even if they possess worldly wealth. *
-(Satguru Subramuniyaswami)
+०६०६  
+Seldom do men possessed by sloth achieve anything great  
+Even if they possess worldly wealth. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०६</summary>
@@ -332,14 +331,14 @@ The slothful gain nothing of worth.        606
 
 <details><summary>मूलम् - ६०६</summary>
 
-पडियुडैयार् पऱ्ऱमैन्दक् कण्णुम् मडियुडैयार्
-माण्बयऩ् ऎय्दल् अरिदु। ६०६
+पडियुडैयार् पऱ्ऱमैन्दक् कण्णुम् मडियुडैयार्  
+माण्बयऩ् ऎय्दल् अरिदु। ६०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०७</summary>
 
-इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु
-माण्ड उञऱ्ऱि लवर्। ६०७
+इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु  
+माण्ड उञऱ्ऱि लवर्। ६०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०७</summary>
@@ -350,10 +349,10 @@ The slothful gain nothing of worth.        606
 
 <details><summary>NVK Ashraf choice (en) - ६०७</summary>
 
-०६०७
-The lazy ones, inept in noble exertion,
-Must endure scolding and scorn. *
-(Satguru Subramuniyaswami)
+०६०७  
+The lazy ones, inept in noble exertion,  
+Must endure scolding and scorn. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०७</summary>
@@ -387,14 +386,14 @@ Subject themselves to scornful words.        607
 
 <details><summary>मूलम् - ६०७</summary>
 
-इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु
-माण्ड उञऱ्ऱि लवर्। ६०७
+इडिबुरिन्दु ऎळ्ळुञ् जॊल् केट्पर् मडिबुरिन्दु  
+माण्ड उञऱ्ऱि लवर्। ६०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०८</summary>
 
-मडिमै कुडिमैक्कण् तङ्गिऩ्तऩ् ऒऩ्ऩार्क्कु
-अडिमै पुगुत्ति विडुम्। ६०८
+मडिमै कुडिमैक्कण् तङ्गिऩ्तऩ् ऒऩ्ऩार्क्कु  
+अडिमै पुगुत्ति विडुम्। ६०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०८</summary>
@@ -405,10 +404,10 @@ Subject themselves to scornful words.        607
 
 <details><summary>NVK Ashraf choice (en) - ६०८</summary>
 
-०६०८
-If sloth inhabits a family,
-The family will soon be enslaved to its foes. *
-(V.V.S. Aiyar)
+०६०८  
+If sloth inhabits a family,  
+The family will soon be enslaved to its foes. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६०८</summary>
@@ -447,14 +446,14 @@ It will become a slave of foes.        608
 
 <details><summary>मूलम् - ६०८</summary>
 
-मडिमै कुडिमैक्कण् तङ्गिऩ्तऩ् ऒऩ्ऩार्क्कु
-अडिमै पुगुत्ति विडुम्। ६०८
+मडिमै कुडिमैक्कण् तङ्गिऩ्तऩ् ऒऩ्ऩार्क्कु  
+अडिमै पुगुत्ति विडुम्। ६०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६०९</summary>
 
-कुडियाण्मै युळ्वन्द कुऱ्ऱम् ऒरुवऩ्
-मडियाण्मै माऱ्ऱक् कॆडुम्। ६०९
+कुडियाण्मै युळ्वन्द कुऱ्ऱम् ऒरुवऩ्  
+मडियाण्मै माऱ्ऱक् कॆडुम्। ६०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६०९</summary>
@@ -465,10 +464,10 @@ It will become a slave of foes.        608
 
 <details><summary>NVK Ashraf choice (en) - ६०९</summary>
 
-०६०९
-Even inherent flaws in a family can be overcome
-By getting rid of indolence.
-(N.V.K. Ashraf)
+०६०९  
+Even inherent flaws in a family can be overcome  
+By getting rid of indolence.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६०९</summary>
@@ -502,14 +501,14 @@ When one from sloth gets his release.        609
 
 <details><summary>मूलम् - ६०९</summary>
 
-कुडियाण्मै युळ्वन्द कुऱ्ऱम् ऒरुवऩ्
-मडियाण्मै माऱ्ऱक् कॆडुम्। ६०९
+कुडियाण्मै युळ्वन्द कुऱ्ऱम् ऒरुवऩ्  
+मडियाण्मै माऱ्ऱक् कॆडुम्। ६०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१०</summary>
 
-मडियिला मऩ्ऩवऩ् ऎय्दुम् अडियळन्दाऩ्
-ताअय तॆल्लाम् ऒरुङ्गु। ६१०
+मडियिला मऩ्ऩवऩ् ऎय्दुम् अडियळन्दाऩ्  
+ताअय तॆल्लाम् ऒरुङ्गु। ६१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१०</summary>
@@ -520,10 +519,10 @@ When one from sloth gets his release.        609
 
 <details><summary>NVK Ashraf choice (en) - ६१०</summary>
 
-०६१०
-A king freed of sloth can get at once
-All that the Lord had measured by his feet. *
-(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
+०६१०  
+A king freed of sloth can get at once  
+All that the Lord had measured by his feet. *  
+(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६१०</summary>
@@ -562,7 +561,7 @@ The slothless king shall gain en masse
 
 <details><summary>मूलम् - ६१०</summary>
 
-मडियिला मऩ्ऩवऩ् ऎय्दुम् अडियळन्दाऩ्
-ताअय तॆल्लाम् ऒरुङ्गु। ६१०
+मडियिला मऩ्ऩवऩ् ऎय्दुम् अडियळन्दाऩ्  
+ताअय तॆल्लाम् ऒरुङ्गु। ६१०  
 </details>
 

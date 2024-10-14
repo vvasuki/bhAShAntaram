@@ -3,11 +3,10 @@ title = "१२ मॆय्युणर्दल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ३५१</summary>
 
-पॊरुळल्ल वऱ्ऱैप् पॊरुळॆऩ्ऱु उणरुम्
-मरुळाऩाम् माणाप् पिऱप्पु। ३५१
+पॊरुळल्ल वऱ्ऱैप् पॊरुळॆऩ्ऱु उणरुम्  
+मरुळाऩाम् माणाप् पिऱप्पु। ३५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५१</summary>
@@ -18,10 +17,10 @@ title = "१२ मॆय्युणर्दल्"
 
 <details><summary>NVK Ashraf choice (en) - ३५१</summary>
 
-०३५१
-The misery of birth arises out of the delusion
-Which takes the unreal for the Real. *
-(P.S. Sundaram)
+०३५१  
+The misery of birth arises out of the delusion  
+Which takes the unreal for the Real. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५१</summary>
@@ -55,14 +54,14 @@ Which deems vain things as things of worth.        351
 
 <details><summary>मूलम् - ३५१</summary>
 
-पॊरुळल्ल वऱ्ऱैप् पॊरुळॆऩ्ऱु उणरुम्
-मरुळाऩाम् माणाप् पिऱप्पु। ३५१
+पॊरुळल्ल वऱ्ऱैप् पॊरुळॆऩ्ऱु उणरुम्  
+मरुळाऩाम् माणाप् पिऱप्पु। ३५१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५२</summary>
 
-इरुळ्नीङ्गि इऩ्पम् पयक्कुम् मरुळ्नीङ्गि
-मासऱु काट्चि यवर्क्कु। ३५२
+इरुळ्नीङ्गि इऩ्पम् पयक्कुम् मरुळ्नीङ्गि  
+मासऱु काट्चि यवर्क्कु। ३५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५२</summary>
@@ -73,10 +72,10 @@ Which deems vain things as things of worth.        351
 
 <details><summary>NVK Ashraf choice (en) - ३५२</summary>
 
-०३५२
-Darkness disappears and bliss descends
-Upon men of clear vision and free of delusion. *
-(S. Maharajan)
+०३५२  
+Darkness disappears and bliss descends  
+Upon men of clear vision and free of delusion. *  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५२</summary>
@@ -111,14 +110,14 @@ Enjoy delight devoid of night.        352
 
 <details><summary>मूलम् - ३५२</summary>
 
-इरुळ्नीङ्गि इऩ्पम् पयक्कुम् मरुळ्नीङ्गि
-मासऱु काट्चि यवर्क्कु। ३५२
+इरुळ्नीङ्गि इऩ्पम् पयक्कुम् मरुळ्नीङ्गि  
+मासऱु काट्चि यवर्क्कु। ३५२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५३</summary>
 
-ऐयत्तिऩ् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिऩ्
-वाऩम् नणिय तुडैत्तु। ३५३
+ऐयत्तिऩ् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिऩ्  
+वाऩम् नणिय तुडैत्तु। ३५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५३</summary>
@@ -129,10 +128,10 @@ Enjoy delight devoid of night.        352
 
 <details><summary>NVK Ashraf choice (en) - ३५३</summary>
 
-०३५३
-To those enlightened souls freed of doubt,
-More than earth is heaven near.
-(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+०३५३  
+To those enlightened souls freed of doubt,  
+More than earth is heaven near.  
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५३</summary>
@@ -167,14 +166,14 @@ More than earth heaven is near.        353
 
 <details><summary>मूलम् - ३५३</summary>
 
-ऐयत्तिऩ् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिऩ्
-वाऩम् नणिय तुडैत्तु। ३५३
+ऐयत्तिऩ् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिऩ्  
+वाऩम् नणिय तुडैत्तु। ३५३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५४</summary>
 
-ऐयुणर्वु ऎय्दियक् कण्णुम् पयमिऩ्ऱे
-मॆय्युणर्वु इल्ला तवर्क्कु। ३५४
+ऐयुणर्वु ऎय्दियक् कण्णुम् पयमिऩ्ऱे  
+मॆय्युणर्वु इल्ला तवर्क्कु। ३५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५४</summary>
@@ -185,10 +184,10 @@ More than earth heaven is near.        353
 
 <details><summary>NVK Ashraf choice (en) - ३५४</summary>
 
-०३५४
-Where a sense of the Real is lacking,
-The other five senses are useless.
-(P.S. Sundaram)
+०३५४  
+Where a sense of the Real is lacking,  
+The other five senses are useless.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५४</summary>
@@ -223,14 +222,14 @@ Without knowing the Truth within.        354
 
 <details><summary>मूलम् - ३५४</summary>
 
-ऐयुणर्वु ऎय्दियक् कण्णुम् पयमिऩ्ऱे
-मॆय्युणर्वु इल्ला तवर्क्कु। ३५४
+ऐयुणर्वु ऎय्दियक् कण्णुम् पयमिऩ्ऱे  
+मॆय्युणर्वु इल्ला तवर्क्कु। ३५४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५५</summary>
 
-ऎप्पॊरुळ् ऎत्तऩ्मैत् तायिऩुम् अप्पॊरुळ्
-मॆय्प्पॊरुळ् काण्बदु अऱिवु। ३५५
+ऎप्पॊरुळ् ऎत्तऩ्मैत् तायिऩुम् अप्पॊरुळ्  
+मॆय्प्पॊरुळ् काण्बदु अऱिवु। ३५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५५</summary>
@@ -241,10 +240,10 @@ Without knowing the Truth within.        354
 
 <details><summary>NVK Ashraf choice (en) - ३५५</summary>
 
-०३५५
-Wisdom is to ascertain the reality
-In whatever way things are presented.
-(K. Kannan)
+०३५५  
+Wisdom is to ascertain the reality  
+In whatever way things are presented.  
+(K. Kannan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३५५</summary>
@@ -284,14 +283,14 @@ In every case of every kind.        355
 
 <details><summary>मूलम् - ३५५</summary>
 
-ऎप्पॊरुळ् ऎत्तऩ्मैत् तायिऩुम् अप्पॊरुळ्
-मॆय्प्पॊरुळ् काण्बदु अऱिवु। ३५५
+ऎप्पॊरुळ् ऎत्तऩ्मैत् तायिऩुम् अप्पॊरुळ्  
+मॆय्प्पॊरुळ् काण्बदु अऱिवु। ३५५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५६</summary>
 
-कऱ्ऱीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्
-मऱ्ऱीण्डु वारा नॆऱि। ३५६
+कऱ्ऱीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्  
+मऱ्ऱीण्डु वारा नॆऱि। ३५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५६</summary>
@@ -302,10 +301,10 @@ In every case of every kind.        355
 
 <details><summary>NVK Ashraf choice (en) - ३५६</summary>
 
-०३५६
-Those who have learnt to see the reality here
-Will have learnt not to come back here.
-(P.S. Sundaram)
+०३५६  
+Those who have learnt to see the reality here  
+Will have learnt not to come back here.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५६</summary>
@@ -340,14 +339,14 @@ Enter the path of non-return.        356
 
 <details><summary>मूलम् - ३५६</summary>
 
-कऱ्ऱीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्
-मऱ्ऱीण्डु वारा नॆऱि। ३५६
+कऱ्ऱीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्  
+मऱ्ऱीण्डु वारा नॆऱि। ३५६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५७</summary>
 
-ओर्त्तुळ्ळम् उळ्ळदु उणराऩ् ऒरुदलैयाप्
-पेर्त्तुळ्ळ वेण्डा पिऱप्पु। ३५७
+ओर्त्तुळ्ळम् उळ्ळदु उणराऩ् ऒरुदलैयाप्  
+पेर्त्तुळ्ळ वेण्डा पिऱप्पु। ३५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५७</summary>
@@ -358,10 +357,10 @@ Enter the path of non-return.        356
 
 <details><summary>NVK Ashraf choice (en) - ३५७</summary>
 
-०३५७
-Reality once searched and seized,
-No need to think of rebirth.
-(P.S. Sundaram)
+०३५७  
+Reality once searched and seized,  
+No need to think of rebirth.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५७</summary>
@@ -396,14 +395,14 @@ He is free from thoughts of rebirth.        357
 
 <details><summary>मूलम् - ३५७</summary>
 
-ओर्त्तुळ्ळम् उळ्ळदु उणराऩ् ऒरुदलैयाप्
-पेर्त्तुळ्ळ वेण्डा पिऱप्पु। ३५७
+ओर्त्तुळ्ळम् उळ्ळदु उणराऩ् ऒरुदलैयाप्  
+पेर्त्तुळ्ळ वेण्डा पिऱप्पु। ३५७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५८</summary>
 
-पिऱप्पॆऩ्ऩुम् पेदैमै नीङ्गच् चिऱप्पॆऩ्ऩुम्
-सॆम्बॊरुळ् काण्बदु अऱिवु। ३५८
+पिऱप्पॆऩ्ऩुम् पेदैमै नीङ्गच् चिऱप्पॆऩ्ऩुम्  
+सॆम्बॊरुळ् काण्बदु अऱिवु। ३५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५८</summary>
@@ -414,10 +413,10 @@ He is free from thoughts of rebirth.        357
 
 <details><summary>NVK Ashraf choice (en) - ३५८</summary>
 
-०३५८
-Wisdom lies in realizing that unique Reality
-To remove the folly of rebirth.
-(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+०३५८  
+Wisdom lies in realizing that unique Reality  
+To remove the folly of rebirth.  
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३५८</summary>
@@ -452,14 +451,14 @@ And remove the folly of birth.        358
 
 <details><summary>मूलम् - ३५८</summary>
 
-पिऱप्पॆऩ्ऩुम् पेदैमै नीङ्गच् चिऱप्पॆऩ्ऩुम्
-सॆम्बॊरुळ् काण्बदु अऱिवु। ३५८
+पिऱप्पॆऩ्ऩुम् पेदैमै नीङ्गच् चिऱप्पॆऩ्ऩुम्  
+सॆम्बॊरुळ् काण्बदु अऱिवु। ३५८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३५९</summary>
 
-सार्बुणर्न्दु सार्बु कॆडऒऴुगिऩ् मऱ्ऱऴित्तुच्
-चार्दरा सार्दरु नोय्। ३५९
+सार्बुणर्न्दु सार्बु कॆडऒऴुगिऩ् मऱ्ऱऴित्तुच्  
+चार्दरा सार्दरु नोय्। ३५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३५९</summary>
@@ -470,10 +469,10 @@ And remove the folly of birth.        358
 
 <details><summary>NVK Ashraf choice (en) - ३५९</summary>
 
-०३५९
-To one who does not cling, realizing what to cling,
-Clinging ills will not cling. *
-(P.S. Sundaram)
+०३५९  
+To one who does not cling, realizing what to cling,  
+Clinging ills will not cling. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ३५९</summary>
@@ -513,14 +512,14 @@ Be free from ills of thraldom, O sage.        359
 
 <details><summary>मूलम् - ३५९</summary>
 
-सार्बुणर्न्दु सार्बु कॆडऒऴुगिऩ् मऱ्ऱऴित्तुच्
-चार्दरा सार्दरु नोय्। ३५९
+सार्बुणर्न्दु सार्बु कॆडऒऴुगिऩ् मऱ्ऱऴित्तुच्  
+चार्दरा सार्दरु नोय्। ३५९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३६०</summary>
 
-कामम् वॆगुळि मयक्कम् इनव्मुऩ्ऱऩ्
-नामम् कॆडक्कॆडुम् नोय्। ३६०
+कामम् वॆगुळि मयक्कम् इनव्मुऩ्ऱऩ्  
+नामम् कॆडक्कॆडुम् नोय्। ३६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३६०</summary>
@@ -531,10 +530,10 @@ Be free from ills of thraldom, O sage.        359
 
 <details><summary>NVK Ashraf choice (en) - ३६०</summary>
 
-०३६०
-Lust, wrath and delusion: Where these three are unknown,
-Sorrows shall not be. *
-(P.S. Sundaram)
+०३६०  
+Lust, wrath and delusion: Where these three are unknown,  
+Sorrows shall not be. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३६०</summary>
@@ -568,7 +567,7 @@ Expire even to name, fully.        360
 
 <details><summary>मूलम् - ३६०</summary>
 
-कामम् वॆगुळि मयक्कम् इनव्मुऩ्ऱऩ्
-नामम् कॆडक्कॆडुम् नोय्। ३६०
+कामम् वॆगुळि मयक्कम् इनव्मुऩ्ऱऩ्  
+नामम् कॆडक्कॆडुम् नोय्। ३६०  
 </details>
 

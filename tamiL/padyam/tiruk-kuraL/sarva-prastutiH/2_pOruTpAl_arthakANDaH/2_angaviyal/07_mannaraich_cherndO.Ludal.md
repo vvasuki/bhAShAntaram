@@ -3,11 +3,10 @@ title = "०७ मन्नरैच् चेर्न्दॊऴुदल्
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६९१</summary>
 
-अगलादु अणुगादु तीक्काय्वार् पोल्ग
-इगल्वेन्दर्च् चेर्न्दॊऴुगु वार्। ६९१
+अगलादु अणुगादु तीक्काय्वार् पोल्ग  
+इगल्वेन्दर्च् चेर्न्दॊऴुगु वार्। ६९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९१</summary>
@@ -19,10 +18,10 @@ title = "०७ मन्नरैच् चेर्न्दॊऴुदल्
 
 <details><summary>NVK Ashraf choice (en) - ६९१</summary>
 
-०६९१
-Courtiers round a king, like men before a fire,
-Should be neither too far nor too near.
-(P.S. Sundaram)
+०६९१  
+Courtiers round a king, like men before a fire,  
+Should be neither too far nor too near.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९१</summary>
@@ -56,14 +55,14 @@ Not coming close nor going far.        691
 
 <details><summary>मूलम् - ६९१</summary>
 
-अगलादु अणुगादु तीक्काय्वार् पोल्ग
-इगल्वेन्दर्च् चेर्न्दॊऴुगु वार्। ६९१
+अगलादु अणुगादु तीक्काय्वार् पोल्ग  
+इगल्वेन्दर्च् चेर्न्दॊऴुगु वार्। ६९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९२</summary>
 
-मऩ्ऩर् विऴैब विऴैयामै मऩ्ऩराल्
-मऩ्ऩिय आक्कन् दरुम्। ६९२
+मऩ्ऩर् विऴैब विऴैयामै मऩ्ऩराल्  
+मऩ्ऩिय आक्कन् दरुम्। ६९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९२</summary>
@@ -74,10 +73,10 @@ Not coming close nor going far.        691
 
 <details><summary>NVK Ashraf choice (en) - ६९२</summary>
 
-०६९२
-The way to gain gifts from a king
-Is not to covet what he covets.
-(P.S. Sundaram)
+०६९२  
+The way to gain gifts from a king  
+Is not to covet what he covets.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९२</summary>
@@ -112,14 +111,14 @@ This brings thee their fruitful favour.        692
 
 <details><summary>मूलम् - ६९२</summary>
 
-मऩ्ऩर् विऴैब विऴैयामै मऩ्ऩराल्
-मऩ्ऩिय आक्कन् दरुम्। ६९२
+मऩ्ऩर् विऴैब विऴैयामै मऩ्ऩराल्  
+मऩ्ऩिय आक्कन् दरुम्। ६९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९३</summary>
 
-पोऱ्ऱिऩ् अरियवै पोऱ्ऱल् कडुत्तबिऩ्
-तेऱ्ऱुदल् यार्क्कुम् अरिदु। ६९३
+पोऱ्ऱिऩ् अरियवै पोऱ्ऱल् कडुत्तबिऩ्  
+तेऱ्ऱुदल् यार्क्कुम् अरिदु। ६९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९३</summary>
@@ -130,10 +129,10 @@ This brings thee their fruitful favour.        692
 
 <details><summary>NVK Ashraf choice (en) - ६९३</summary>
 
-०६९३
-Beware and ward off faults.
-Suspicion once aroused is hard to clear. *
-(P.S. Sundaram)
+०६९३  
+Beware and ward off faults.  
+Suspicion once aroused is hard to clear. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९३</summary>
@@ -168,14 +167,14 @@ Suspected least, there's no redress.        693
 
 <details><summary>मूलम् - ६९३</summary>
 
-पोऱ्ऱिऩ् अरियवै पोऱ्ऱल् कडुत्तबिऩ्
-तेऱ्ऱुदल् यार्क्कुम् अरिदु। ६९३
+पोऱ्ऱिऩ् अरियवै पोऱ्ऱल् कडुत्तबिऩ्  
+तेऱ्ऱुदल् यार्क्कुम् अरिदु। ६९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९४</summary>
 
-सॆविच्चॊल्लुम् सेर्न्द नगैयुम् अवित्तॊऴुगल्
-आऩ्ऱ पॆरिया रगत्तु। ६९४
+सॆविच्चॊल्लुम् सेर्न्द नगैयुम् अवित्तॊऴुगल्  
+आऩ्ऱ पॆरिया रगत्तु। ६९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९४</summary>
@@ -186,10 +185,10 @@ Suspected least, there's no redress.        693
 
 <details><summary>NVK Ashraf choice (en) - ६९४</summary>
 
-०६९४
-Whisper not, nor exchange smiles,
-Amidst illustrious august men. *
-( Shuddhananda Bharatiar)
+०६९४  
+Whisper not, nor exchange smiles,  
+Amidst illustrious august men. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९४</summary>
@@ -224,14 +223,14 @@ Amidst august men's assemblage.        694
 
 <details><summary>मूलम् - ६९४</summary>
 
-सॆविच्चॊल्लुम् सेर्न्द नगैयुम् अवित्तॊऴुगल्
-आऩ्ऱ पॆरिया रगत्तु। ६९४
+सॆविच्चॊल्लुम् सेर्न्द नगैयुम् अवित्तॊऴुगल्  
+आऩ्ऱ पॆरिया रगत्तु। ६९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९५</summary>
 
-ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ् ऱप्पॊरुळै
-विट्टक्काल् केट्क मऱै। ६९५
+ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ् ऱप्पॊरुळै  
+विट्टक्काल् केट्क मऱै। ६९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९५</summary>
@@ -242,10 +241,10 @@ Amidst august men's assemblage.        694
 
 <details><summary>NVK Ashraf choice (en) - ६९५</summary>
 
-०६९५
-Don't eavesdrop or pursue a king's secret.
-Rather listen when secrets are revealed. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०६९५  
+Don't eavesdrop or pursue a king's secret.  
+Rather listen when secrets are revealed. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९५</summary>
@@ -280,14 +279,14 @@ Hear only when he lets it out.        695
 
 <details><summary>मूलम् - ६९५</summary>
 
-ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ् ऱप्पॊरुळै
-विट्टक्काल् केट्क मऱै। ६९५
+ऎप्पॊरुळुम् ओरार् तॊडरार्मऱ् ऱप्पॊरुळै  
+विट्टक्काल् केट्क मऱै। ६९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९६</summary>
 
-कुऱिप्पऱिन्दु कालङ् गरुदि वॆऱुप्पिल
-वेण्डुब वेट्पच् चॊलल्। ६९६
+कुऱिप्पऱिन्दु कालङ् गरुदि वॆऱुप्पिल  
+वेण्डुब वेट्पच् चॊलल्। ६९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९६</summary>
@@ -298,10 +297,10 @@ Hear only when he lets it out.        695
 
 <details><summary>NVK Ashraf choice (en) - ६९६</summary>
 
-०६९६
-Know his mood, consider the moment,
-Avoid the unpleasant and speak the needful.
-(N.V.K. Ashraf)
+०६९६  
+Know his mood, consider the moment,  
+Avoid the unpleasant and speak the needful.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९६</summary>
@@ -336,14 +335,14 @@ No dislikes but what king likes well.        696
 
 <details><summary>मूलम् - ६९६</summary>
 
-कुऱिप्पऱिन्दु कालङ् गरुदि वॆऱुप्पिल
-वेण्डुब वेट्पच् चॊलल्। ६९६
+कुऱिप्पऱिन्दु कालङ् गरुदि वॆऱुप्पिल  
+वेण्डुब वेट्पच् चॊलल्। ६९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९७</summary>
 
-वेट्पऩ सॊल्लि विऩैयिल ऎञ्ञाऩ्ऱुम्
-केट्पिऩुम् सॊल्ला विडल्। ६९७
+वेट्पऩ सॊल्लि विऩैयिल ऎञ्ञाऩ्ऱुम्  
+केट्पिऩुम् सॊल्ला विडल्। ६९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९७</summary>
@@ -354,10 +353,10 @@ No dislikes but what king likes well.        696
 
 <details><summary>NVK Ashraf choice (en) - ६९७</summary>
 
-०६९७
-Tell the useful and even when asked
-Avoid always the useless.
-(P.S. Sundaram)
+०६९७  
+Tell the useful and even when asked  
+Avoid always the useless.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९७</summary>
@@ -392,14 +391,14 @@ Even if pressed what is futile.        697
 
 <details><summary>मूलम् - ६९७</summary>
 
-वेट्पऩ सॊल्लि विऩैयिल ऎञ्ञाऩ्ऱुम्
-केट्पिऩुम् सॊल्ला विडल्। ६९७
+वेट्पऩ सॊल्लि विऩैयिल ऎञ्ञाऩ्ऱुम्  
+केट्पिऩुम् सॊल्ला विडल्। ६९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९८</summary>
 
-इळैयर् इऩमुऱैयर् ऎऩ्ऱिगऴार् निऩ्ऱ
-ऒळियोडु ऒऴुगप् पडुम्। ६९८
+इळैयर् इऩमुऱैयर् ऎऩ्ऱिगऴार् निऩ्ऱ  
+ऒळियोडु ऒऴुगप् पडुम्। ६९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९८</summary>
@@ -410,10 +409,10 @@ Even if pressed what is futile.        697
 
 <details><summary>NVK Ashraf choice (en) - ६९८</summary>
 
-०६९८
-Don't treat him lightly as young or kin
-But act as befits his splendour.
-(P.S. Sundaram)
+०६९८  
+Don't treat him lightly as young or kin  
+But act as befits his splendour.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९८</summary>
@@ -448,14 +447,14 @@ Look with awe king's light and might.        698
 
 <details><summary>मूलम् - ६९८</summary>
 
-इळैयर् इऩमुऱैयर् ऎऩ्ऱिगऴार् निऩ्ऱ
-ऒळियोडु ऒऴुगप् पडुम्। ६९८
+इळैयर् इऩमुऱैयर् ऎऩ्ऱिगऴार् निऩ्ऱ  
+ऒळियोडु ऒऴुगप् पडुम्। ६९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९९</summary>
 
-कॊळप्पट्टेम् ऎऩ्ऱॆण्णिक् कॊळ्ळाद सॆय्यार्
-तुळक्कऱ्ऱ काट्चि यवर्। ६९९
+कॊळप्पट्टेम् ऎऩ्ऱॆण्णिक् कॊळ्ळाद सॆय्यार्  
+तुळक्कऱ्ऱ काट्चि यवर्। ६९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९९</summary>
@@ -466,10 +465,10 @@ Look with awe king's light and might.        698
 
 <details><summary>NVK Ashraf choice (en) - ६९९</summary>
 
-०६९९
-Those with unwavering vision
-Do not misuse their privileges and do wrong.
-(N.V.K. Ashraf), (J. Narayanaswamy)
+०६९९  
+Those with unwavering vision  
+Do not misuse their privileges and do wrong.  
+(N.V.K. Ashraf), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९९</summary>
@@ -503,14 +502,14 @@ Deeming they have the monarch's grace.        699
 
 <details><summary>मूलम् - ६९९</summary>
 
-कॊळप्पट्टेम् ऎऩ्ऱॆण्णिक् कॊळ्ळाद सॆय्यार्
-तुळक्कऱ्ऱ काट्चि यवर्। ६९९
+कॊळप्पट्टेम् ऎऩ्ऱॆण्णिक् कॊळ्ळाद सॆय्यार्  
+तुळक्कऱ्ऱ काट्चि यवर्। ६९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७००</summary>
 
-पऴैयम् ऎऩक्करुदिप् पण्बल्ल सॆय्युम्
-कॆऴुदगैमै केडु तरुम्। ७००
+पऴैयम् ऎऩक्करुदिप् पण्बल्ल सॆय्युम्  
+कॆऴुदगैमै केडु तरुम्। ७००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७००</summary>
@@ -521,10 +520,10 @@ Deeming they have the monarch's grace.        699
 
 <details><summary>NVK Ashraf choice (en) - ७००</summary>
 
-०७००
-Unworthy acts under the trust of old friendship
-Lead to ruinous woes.
-(J. Narayanaswamy)
+०७००  
+Unworthy acts under the trust of old friendship  
+Lead to ruinous woes.  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७००</summary>
@@ -563,7 +562,7 @@ Shall spell ruin and woe untold.        700
 
 <details><summary>मूलम् - ७००</summary>
 
-पऴैयम् ऎऩक्करुदिप् पण्बल्ल सॆय्युम्
-कॆऴुदगैमै केडु तरुम्। ७००
+पऴैयम् ऎऩक्करुदिप् पण्बल्ल सॆय्युम्  
+कॆऴुदगैमै केडु तरुम्। ७००  
 </details>
 

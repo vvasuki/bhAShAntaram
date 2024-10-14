@@ -3,11 +3,10 @@ title = "०४ नलम्बुनैन्दुरैत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११११</summary>
 
-नऩ्ऩीरै वाऴि अऩिच्चमे निऩ्ऩिऩुम्
-मॆऩ्ऩीरळ् यांवीऴ् पवळ्। ११११
+नऩ्ऩीरै वाऴि अऩिच्चमे निऩ्ऩिऩुम्  
+मॆऩ्ऩीरळ् यांवीऴ् पवळ्। ११११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११११</summary>
@@ -18,10 +17,10 @@ title = "०४ नलम्बुनैन्दुरैत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - ११११</summary>
 
-११११
-Hail thee, aniccham, the soft flower!
-The damsel I dote is softer than thee! *
-(J. Narayanaswamy)
+११११  
+Hail thee, aniccham, the soft flower!  
+The damsel I dote is softer than thee! *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११११</summary>
@@ -55,14 +54,14 @@ On whom I dote is softer still.        1111
 
 <details><summary>मूलम् - ११११</summary>
 
-नऩ्ऩीरै वाऴि अऩिच्चमे निऩ्ऩिऩुम्
-मॆऩ्ऩीरळ् यांवीऴ् पवळ्। ११११
+नऩ्ऩीरै वाऴि अऩिच्चमे निऩ्ऩिऩुम्  
+मॆऩ्ऩीरळ् यांवीऴ् पवळ्। ११११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११२</summary>
 
-मलर्गाणिऩ् मैयात्ति नॆञ्जे इवळ्गण्
-पलर्गाणुम् पूवॊक्कुम् ऎऩ्ऱु। १११२
+मलर्गाणिऩ् मैयात्ति नॆञ्जे इवळ्गण्  
+पलर्गाणुम् पूवॊक्कुम् ऎऩ्ऱु। १११२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११२</summary>
@@ -73,10 +72,10 @@ On whom I dote is softer still.        1111
 
 <details><summary>NVK Ashraf choice (en) - १११२</summary>
 
-१११२
-O heart, why get distracted seeing common flowers
-And match them with her eyes! *
-(P.S. Sundaram), (V.V.S. Aiyar)
+१११२  
+O heart, why get distracted seeing common flowers  
+And match them with her eyes! *  
+(P.S. Sundaram), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११२</summary>
@@ -110,14 +109,14 @@ To her bright eyes, O mind dismayed.        1112
 
 <details><summary>मूलम् - १११२</summary>
 
-मलर्गाणिऩ् मैयात्ति नॆञ्जे इवळ्गण्
-पलर्गाणुम् पूवॊक्कुम् ऎऩ्ऱु। १११२
+मलर्गाणिऩ् मैयात्ति नॆञ्जे इवळ्गण्  
+पलर्गाणुम् पूवॊक्कुम् ऎऩ्ऱु। १११२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११३</summary>
 
-मुऱिमेऩि मुत्तम् मुऱुवल् वॆऱिनाऱ्ऱम्
-वेलुण्गण् वेय्त्तो ळवट्कु। १११३
+मुऱिमेऩि मुत्तम् मुऱुवल् वॆऱिनाऱ्ऱम्  
+वेलुण्गण् वेय्त्तो ळवट्कु। १११३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११३</summary>
@@ -128,10 +127,10 @@ To her bright eyes, O mind dismayed.        1112
 
 <details><summary>NVK Ashraf choice (en) - १११३</summary>
 
-१११३
-She has a slender frame, pearly smile, fragrant breath,
-Lancet eyes and bamboo shoulders. *
-(K. Kannan), (J. Narayanaswamy)
+१११३  
+She has a slender frame, pearly smile, fragrant breath,  
+Lancet eyes and bamboo shoulders. *  
+(K. Kannan), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११३</summary>
@@ -165,14 +164,14 @@ Fragrant breath and lance-like eyes.        1113
 
 <details><summary>मूलम् - १११३</summary>
 
-मुऱिमेऩि मुत्तम् मुऱुवल् वॆऱिनाऱ्ऱम्
-वेलुण्गण् वेय्त्तो ळवट्कु। १११३
+मुऱिमेऩि मुत्तम् मुऱुवल् वॆऱिनाऱ्ऱम्  
+वेलुण्गण् वेय्त्तो ळवट्कु। १११३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११४</summary>
 
-काणिऩ् कुवळै कविऴ्न्दु निलऩ्नोक्कुम्
-माणिऴै कण्णॊव्वेम् ऎऩ्ऱु। १११४
+काणिऩ् कुवळै कविऴ्न्दु निलऩ्नोक्कुम्  
+माणिऴै कण्णॊव्वेम् ऎऩ्ऱु। १११४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११४</summary>
@@ -183,10 +182,10 @@ Fragrant breath and lance-like eyes.        1113
 
 <details><summary>NVK Ashraf choice (en) - १११४</summary>
 
-१११४
-Unable to match the eyes of this jewel,
-Lilies droop down earthwards in shame.
-(K. Kannan), (K. Krishnaswamy & Vijaya Ramkumar)
+१११४  
+Unable to match the eyes of this jewel,  
+Lilies droop down earthwards in shame.  
+(K. Kannan), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११४</summary>
@@ -220,14 +219,14 @@ I can't equal the jewelled-one's eyes.        1114
 
 <details><summary>मूलम् - १११४</summary>
 
-काणिऩ् कुवळै कविऴ्न्दु निलऩ्नोक्कुम्
-माणिऴै कण्णॊव्वेम् ऎऩ्ऱु। १११४
+काणिऩ् कुवळै कविऴ्न्दु निलऩ्नोक्कुम्  
+माणिऴै कण्णॊव्वेम् ऎऩ्ऱु। १११४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११५</summary>
 
-अऩिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्कु
-नल्ल पडाअ पऱै। १११५
+अऩिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्कु  
+नल्ल पडाअ पऱै। १११५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११५</summary>
@@ -238,10 +237,10 @@ I can't equal the jewelled-one's eyes.        1114
 
 <details><summary>NVK Ashraf choice (en) - १११५</summary>
 
-१११५
-The solemn drums will blare if her waist is crushed
-By the aniccham she wore with its stalk. *
-(J. Narayanaswamy)
+१११५  
+The solemn drums will blare if her waist is crushed  
+By the aniccham she wore with its stalk. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १११५</summary>
@@ -280,14 +279,14 @@ To her breaking waist sad-drum-blares!        1115
 
 <details><summary>मूलम् - १११५</summary>
 
-अऩिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्कु
-नल्ल पडाअ पऱै। १११५
+अऩिच्चप्पूक् काल्गळैयाळ् पॆय्दाळ् नुगप्पिऱ्कु  
+नल्ल पडाअ पऱै। १११५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११६</summary>
 
-मदियुम् मडन्दै मुगऩुम् अऱिया
-पदियिऩ् कलङ्गिय मीऩ्। १११६
+मदियुम् मडन्दै मुगऩुम् अऱिया  
+पदियिऩ् कलङ्गिय मीऩ्। १११६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११६</summary>
@@ -298,10 +297,10 @@ To her breaking waist sad-drum-blares!        1115
 
 <details><summary>NVK Ashraf choice (en) - १११६</summary>
 
-१११६
-The perplexed stars are all over the place,
-Unable to tell the moon from her face.
-(N.V.K. Ashraf), (P.S. Sundaram)
+१११६  
+The perplexed stars are all over the place,  
+Unable to tell the moon from her face.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११६</summary>
@@ -335,14 +334,14 @@ The moon and which is woman's face.        1116
 
 <details><summary>मूलम् - १११६</summary>
 
-मदियुम् मडन्दै मुगऩुम् अऱिया
-पदियिऩ् कलङ्गिय मीऩ्। १११६
+मदियुम् मडन्दै मुगऩुम् अऱिया  
+पदियिऩ् कलङ्गिय मीऩ्। १११६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११७</summary>
 
-अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल
-मऱुवुण्डो मादर् मुगत्तु। १११७
+अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल  
+मऱुवुण्डो मादर् मुगत्तु। १११७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११७</summary>
@@ -353,10 +352,10 @@ The moon and which is woman's face.        1116
 
 <details><summary>NVK Ashraf choice (en) - १११७</summary>
 
-१११७
-Are there spots on my love’s face
-Like the spots on the shining moon?
-(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+१११७  
+Are there spots on my love’s face  
+Like the spots on the shining moon?  
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १११७</summary>
@@ -395,14 +394,14 @@ Just as in moon that changes phase?        1117
 
 <details><summary>मूलम् - १११७</summary>
 
-अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल
-मऱुवुण्डो मादर् मुगत्तु। १११७
+अऱुवाय् निऱैन्द अविर्मदिक्कुप् पोल  
+मऱुवुण्डो मादर् मुगत्तु। १११७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११८</summary>
 
-मादर् मुगम्बोल् ऒळिविड वल्लैयेल्
-कादलै वाऴि मदि। १११८
+मादर् मुगम्बोल् ऒळिविड वल्लैयेल्  
+कादलै वाऴि मदि। १११८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११८</summary>
@@ -413,10 +412,10 @@ Just as in moon that changes phase?        1117
 
 <details><summary>NVK Ashraf choice (en) - १११८</summary>
 
-१११८
-Hail O moon! If you could also shine as my love’s face,
-You too I shall love. *
-(P.S. Sundaram)
+१११८  
+Hail O moon! If you could also shine as my love’s face,  
+You too I shall love. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११८</summary>
@@ -450,14 +449,14 @@ All my love to you; hail O moon!        1118
 
 <details><summary>मूलम् - १११८</summary>
 
-मादर् मुगम्बोल् ऒळिविड वल्लैयेल्
-कादलै वाऴि मदि। १११८
+मादर् मुगम्बोल् ऒळिविड वल्लैयेल्  
+कादलै वाऴि मदि। १११८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११९</summary>
 
-मलरऩ्ऩ कण्णाळ् मुगमॊत्ति यायिऩ्
-पलर्गाणत् तोऩ्ऱल् मदि। १११९
+मलरऩ्ऩ कण्णाळ् मुगमॊत्ति यायिऩ्  
+पलर्गाणत् तोऩ्ऱल् मदि। १११९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११९</summary>
@@ -468,10 +467,10 @@ All my love to you; hail O moon!        1118
 
 <details><summary>NVK Ashraf choice (en) - १११९</summary>
 
-१११९
-O moon, if you imitate my flower-eyed jewel’s face,
-Stop revealing thyself to all.
-(N.V.K. Ashraf)
+१११९  
+O moon, if you imitate my flower-eyed jewel’s face,  
+Stop revealing thyself to all.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११९</summary>
@@ -505,14 +504,14 @@ If you look, then shine alone O moon!        1119
 
 <details><summary>मूलम् - १११९</summary>
 
-मलरऩ्ऩ कण्णाळ् मुगमॊत्ति यायिऩ्
-पलर्गाणत् तोऩ्ऱल् मदि। १११९
+मलरऩ्ऩ कण्णाळ् मुगमॊत्ति यायिऩ्  
+पलर्गाणत् तोऩ्ऱल् मदि। १११९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२०</summary>
 
-अऩिच्चमुम् अऩ्ऩत्तिऩ् तूवियुम् मादर्
-अडिक्कु नॆरुञ्जिप् पऴम्। ११२०
+अऩिच्चमुम् अऩ्ऩत्तिऩ् तूवियुम् मादर्  
+अडिक्कु नॆरुञ्जिप् पऴम्। ११२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२०</summary>
@@ -523,10 +522,10 @@ If you look, then shine alone O moon!        1119
 
 <details><summary>NVK Ashraf choice (en) - ११२०</summary>
 
-११२०
-Even aniccham flower and swan's down
-Are as nerunji fruit to my maidens’ feet. *
-(V.V.S. Aiyar)
+११२०  
+Even aniccham flower and swan's down  
+Are as nerunji fruit to my maidens’ feet. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११२०</summary>
@@ -564,7 +563,7 @@ Like nettles to the feet of the fair.        1120
 
 <details><summary>मूलम् - ११२०</summary>
 
-अऩिच्चमुम् अऩ्ऩत्तिऩ् तूवियुम् मादर्
-अडिक्कु नॆरुञ्जिप् पऴम्। ११२०
+अऩिच्चमुम् अऩ्ऩत्तिऩ् तूवियुम् मादर्  
+अडिक्कु नॆरुञ्जिप् पऴम्। ११२०  
 </details>
 

@@ -3,11 +3,10 @@ title = "०९ कॊल्लामै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ३२१</summary>
 
-अऱविऩै यादॆऩिऩ् कॊल्लामै कोऱल्
-पिऱविऩै ऎल्लान् दरुम्। ३२१
+अऱविऩै यादॆऩिऩ् कॊल्लामै कोऱल्  
+पिऱविऩै ऎल्लान् दरुम्। ३२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२१</summary>
@@ -18,10 +17,10 @@ title = "०९ कॊल्लामै"
 
 <details><summary>NVK Ashraf choice (en) - ३२१</summary>
 
-०३२१
-What is virtue? It is not to kill,
-For killing causes every ill.
-( Shuddhananda Bharatiar)
+०३२१  
+What is virtue? It is not to kill,  
+For killing causes every ill.  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२१</summary>
@@ -55,14 +54,14 @@ For killing causes every ill.        321
 
 <details><summary>मूलम् - ३२१</summary>
 
-अऱविऩै यादॆऩिऩ् कॊल्लामै कोऱल्
-पिऱविऩै ऎल्लान् दरुम्। ३२१
+अऱविऩै यादॆऩिऩ् कॊल्लामै कोऱल्  
+पिऱविऩै ऎल्लान् दरुम्। ३२१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२२</summary>
 
-पगुत्तुण्डु पल्लुयिर् ओम्बुदल् नूलोर्
-तॊगुत्तवऱ्ऱुळ् ऎल्लान् दलै। ३२२
+पगुत्तुण्डु पल्लुयिर् ओम्बुदल् नूलोर्  
+तॊगुत्तवऱ्ऱुळ् ऎल्लान् दलै। ३२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२२</summary>
@@ -73,10 +72,10 @@ For killing causes every ill.        321
 
 <details><summary>NVK Ashraf choice (en) - ३२२</summary>
 
-०३२२
-The chief of all codes ever written
-Is to share your food and protect all life.
-(N.V.K. Ashraf)
+०३२२  
+The chief of all codes ever written  
+Is to share your food and protect all life.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२२</summary>
@@ -110,14 +109,14 @@ This is the law of all the laws.        322
 
 <details><summary>मूलम् - ३२२</summary>
 
-पगुत्तुण्डु पल्लुयिर् ओम्बुदल् नूलोर्
-तॊगुत्तवऱ्ऱुळ् ऎल्लान् दलै। ३२२
+पगुत्तुण्डु पल्लुयिर् ओम्बुदल् नूलोर्  
+तॊगुत्तवऱ्ऱुळ् ऎल्लान् दलै। ३२२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२३</summary>
 
-ऒऩ्ऱाग नल्लदु कॊल्लामै मऱ्ऱतऩ्
-पिऩ्सारप् पॊय्यामै नऩ्ऱु। ३२३
+ऒऩ्ऱाग नल्लदु कॊल्लामै मऱ्ऱतऩ्  
+पिऩ्सारप् पॊय्यामै नऩ्ऱु। ३२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२३</summary>
@@ -128,10 +127,10 @@ This is the law of all the laws.        322
 
 <details><summary>NVK Ashraf choice (en) - ३२३</summary>
 
-०३२३
-The first and foremost good is 'Non killing'.
-Next to it in rank comes 'Not lying'.
-(N.V.K. Ashraf)
+०३२३  
+The first and foremost good is 'Non killing'.  
+Next to it in rank comes 'Not lying'.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२३</summary>
@@ -165,14 +164,14 @@ The next, not to utter falsehood.        323
 
 <details><summary>मूलम् - ३२३</summary>
 
-ऒऩ्ऱाग नल्लदु कॊल्लामै मऱ्ऱतऩ्
-पिऩ्सारप् पॊय्यामै नऩ्ऱु। ३२३
+ऒऩ्ऱाग नल्लदु कॊल्लामै मऱ्ऱतऩ्  
+पिऩ्सारप् पॊय्यामै नऩ्ऱु। ३२३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२४</summary>
 
-नल्लाऱु ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्
-कॊल्लामै सूऴुम् नॆऱि। ३२४
+नल्लाऱु ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्  
+कॊल्लामै सूऴुम् नॆऱि। ३२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२४</summary>
@@ -183,10 +182,10 @@ The next, not to utter falsehood.        323
 
 <details><summary>NVK Ashraf choice (en) - ३२४</summary>
 
-०३२४
-What is the perfect path?
-It is the path of avoiding killing anything.
-(N.V.K. Ashraf)
+०३२४  
+What is the perfect path?  
+It is the path of avoiding killing anything.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२४</summary>
@@ -220,14 +219,14 @@ The way away from heat to slay.        324
 
 <details><summary>मूलम् - ३२४</summary>
 
-नल्लाऱु ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्
-कॊल्लामै सूऴुम् नॆऱि। ३२४
+नल्लाऱु ऎऩप्पडुवदु यादॆऩिऩ् यादॊऩ्ऱुम्  
+कॊल्लामै सूऴुम् नॆऱि। ३२४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२५</summary>
 
-निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्
-कॊल्लामै सूऴ्वाऩ् तलै। ३२५
+निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्  
+कॊल्लामै सूऴ्वाऩ् तलै। ३२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२५</summary>
@@ -238,10 +237,10 @@ The way away from heat to slay.        324
 
 <details><summary>NVK Ashraf choice (en) - ३२५</summary>
 
-०३२५
-Of all who renounce fearing instability, the foremost is he
-Who avoids killing fearing murder. *
-(M.S. Poornalingam Pillai)
+०३२५  
+Of all who renounce fearing instability, the foremost is he  
+Who avoids killing fearing murder. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२५</summary>
@@ -276,14 +275,14 @@ The head is he who dreads killing.        325
 
 <details><summary>मूलम् - ३२५</summary>
 
-निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्
-कॊल्लामै सूऴ्वाऩ् तलै। ३२५
+निलैअञ्जि नीत्तारुळ् ऎल्लाम् कॊलैअञ्जिक्  
+कॊल्लामै सूऴ्वाऩ् तलै। ३२५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२६</summary>
 
-कॊल्लामै मेऱ्कॊण् डॊऴुगुवाऩ् वाऴ्नाळ्मेल्
-सॆल्लादु उयिरुण्णुङ् गूऱ्ऱु। ३२६
+कॊल्लामै मेऱ्कॊण् डॊऴुगुवाऩ् वाऴ्नाळ्मेल्  
+सॆल्लादु उयिरुण्णुङ् गूऱ्ऱु। ३२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२६</summary>
@@ -294,10 +293,10 @@ The head is he who dreads killing.        325
 
 <details><summary>NVK Ashraf choice (en) - ३२६</summary>
 
-०३२६
-Death that eats up life spares the breath of him
-Who puts no life to death.
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+०३२६  
+Death that eats up life spares the breath of him  
+Who puts no life to death.  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२६</summary>
@@ -332,14 +331,14 @@ Of him who no life puts to death.        326
 
 <details><summary>मूलम् - ३२६</summary>
 
-कॊल्लामै मेऱ्कॊण् डॊऴुगुवाऩ् वाऴ्नाळ्मेल्
-सॆल्लादु उयिरुण्णुङ् गूऱ्ऱु। ३२६
+कॊल्लामै मेऱ्कॊण् डॊऴुगुवाऩ् वाऴ्नाळ्मेल्  
+सॆल्लादु उयिरुण्णुङ् गूऱ्ऱु। ३२६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२७</summary>
 
-तऩ्ऩुयिर् नीप्पिऩुम् सॆय्यऱ्क ताऩ्पिऱिदु
-इऩ्ऩुयिर् नीक्कुम् विऩै। ३२७
+तऩ्ऩुयिर् नीप्पिऩुम् सॆय्यऱ्क ताऩ्पिऱिदु  
+इऩ्ऩुयिर् नीक्कुम् विऩै। ३२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२७</summary>
@@ -350,10 +349,10 @@ Of him who no life puts to death.        326
 
 <details><summary>NVK Ashraf choice (en) - ३२७</summary>
 
-०३२७
-Avoid removing the dear life of another
-Even when your own life is under threat.
-(N.V.K. Ashraf)
+०३२७  
+Avoid removing the dear life of another  
+Even when your own life is under threat.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२७</summary>
@@ -387,14 +386,14 @@ Even when your life must perish.        327
 
 <details><summary>मूलम् - ३२७</summary>
 
-तऩ्ऩुयिर् नीप्पिऩुम् सॆय्यऱ्क ताऩ्पिऱिदु
-इऩ्ऩुयिर् नीक्कुम् विऩै। ३२७
+तऩ्ऩुयिर् नीप्पिऩुम् सॆय्यऱ्क ताऩ्पिऱिदु  
+इऩ्ऩुयिर् नीक्कुम् विऩै। ३२७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२८</summary>
 
-नऩ्ऱागुम् आक्कम् पॆरिदॆऩिऩुम् साऩ्ऱोर्क् कुक्
-कॊऩ्ऱागुम् आक्कङ् गडै। ३२८
+नऩ्ऱागुम् आक्कम् पॆरिदॆऩिऩुम् साऩ्ऱोर्क् कुक्  
+कॊऩ्ऱागुम् आक्कङ् गडै। ३२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२८</summary>
@@ -405,10 +404,10 @@ Even when your life must perish.        327
 
 <details><summary>NVK Ashraf choice (en) - ३२८</summary>
 
-०३२८
-However great its gains,
-The wise despise the profits of slaughter.
-(P.S. Sundaram)
+०३२८  
+However great its gains,  
+The wise despise the profits of slaughter.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२८</summary>
@@ -443,14 +442,14 @@ Though deemed good in sacrifice.        328
 
 <details><summary>मूलम् - ३२८</summary>
 
-नऩ्ऱागुम् आक्कम् पॆरिदॆऩिऩुम् साऩ्ऱोर्क् कुक्
-कॊऩ्ऱागुम् आक्कङ् गडै। ३२८
+नऩ्ऱागुम् आक्कम् पॆरिदॆऩिऩुम् साऩ्ऱोर्क् कुक्  
+कॊऩ्ऱागुम् आक्कङ् गडै। ३२८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३२९</summary>
 
-कॊलैविऩैय रागिय माक्कळ् पुलैविऩैयर्
-पुऩ्मै तॆरिवा रगत्तु। ३२९
+कॊलैविऩैय रागिय माक्कळ् पुलैविऩैयर्  
+पुऩ्मै तॆरिवा रगत्तु। ३२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३२९</summary>
@@ -461,10 +460,10 @@ Though deemed good in sacrifice.        328
 
 <details><summary>NVK Ashraf choice (en) - ३२९</summary>
 
-०३२९
-Men who practice slaughter as a profession
-Are placed amongst men of disgrace. *
-(S.M. Diaz)
+०३२९  
+Men who practice slaughter as a profession  
+Are placed amongst men of disgrace. *  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३२९</summary>
@@ -498,14 +497,14 @@ Eaters of carrion bizarre!        329
 
 <details><summary>मूलम् - ३२९</summary>
 
-कॊलैविऩैय रागिय माक्कळ् पुलैविऩैयर्
-पुऩ्मै तॆरिवा रगत्तु। ३२९
+कॊलैविऩैय रागिय माक्कळ् पुलैविऩैयर्  
+पुऩ्मै तॆरिवा रगत्तु। ३२९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३३०</summary>
 
-उयिर् उडम्बिऩ् नीक्कियार् ऎऩ्प सॆयिर् उडम्बिऩ्
-सॆल्लात्ती वाऴ्क्कै यवर्। ३३०
+उयिर् उडम्बिऩ् नीक्कियार् ऎऩ्प सॆयिर् उडम्बिऩ्  
+सॆल्लात्ती वाऴ्क्कै यवर्। ३३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ३३०</summary>
@@ -516,10 +515,10 @@ Eaters of carrion bizarre!        329
 
 <details><summary>NVK Ashraf choice (en) - ३३०</summary>
 
-०३३०
-A deprived life of diseased bodies, they say,
-Comes from depriving the life of another. *
-(Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)
+०३३०  
+A deprived life of diseased bodies, they say,  
+Comes from depriving the life of another. *  
+(Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ३३०</summary>
@@ -553,7 +552,7 @@ Are killers stained by blood before        330
 
 <details><summary>मूलम् - ३३०</summary>
 
-उयिर् उडम्बिऩ् नीक्कियार् ऎऩ्प सॆयिर् उडम्बिऩ्
-सॆल्लात्ती वाऴ्क्कै यवर्। ३३०
+उयिर् उडम्बिऩ् नीक्कियार् ऎऩ्प सॆयिर् उडम्बिऩ्  
+सॆल्लात्ती वाऴ्क्कै यवर्। ३३०  
 </details>
 

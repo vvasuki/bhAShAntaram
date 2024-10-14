@@ -3,11 +3,10 @@ title = "०५ विनैसॆयल्वगै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६७१</summary>
 
-सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु
-ताऴ्च्चियुळ् तङ्गुदल् तीदु। ६७१
+सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु  
+ताऴ्च्चियुळ् तङ्गुदल् तीदु। ६७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७१</summary>
@@ -19,10 +18,10 @@ title = "०५ विनैसॆयल्वगै"
 
 <details><summary>NVK Ashraf choice (en) - ६७१</summary>
 
-०६७१
-The end of deliberation is decision.
-To decide and dawdle is bad.
-(P.S. Sundaram)
+०६७१  
+The end of deliberation is decision.  
+To decide and dawdle is bad.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६७१</summary>
@@ -62,14 +61,14 @@ Weak delay of action is wrong.        671
 
 <details><summary>मूलम् - ६७१</summary>
 
-सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु
-ताऴ्च्चियुळ् तङ्गुदल् तीदु। ६७१
+सूऴ्च्चि मुडिवु तुणिवॆय्दल् अत्तुणिवु  
+ताऴ्च्चियुळ् तङ्गुदल् तीदु। ६७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७२</summary>
 
-तूङ्गुग तूङ्गिच् चॆयऱ्पाल तूङ्गऱ्क
-तूङ्गादु सॆय्युम् विऩै। ६७२
+तूङ्गुग तूङ्गिच् चॆयऱ्पाल तूङ्गऱ्क  
+तूङ्गादु सॆय्युम् विऩै। ६७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७२</summary>
@@ -80,10 +79,10 @@ Weak delay of action is wrong.        671
 
 <details><summary>NVK Ashraf choice (en) - ६७२</summary>
 
-०६७२
-Delay where delay is needed,
-But do not delay when you must act.
-(P.S. Sundaram)
+०६७२  
+Delay where delay is needed,  
+But do not delay when you must act.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७२</summary>
@@ -118,14 +117,14 @@ Delay not acts that need display.        672
 
 <details><summary>मूलम् - ६७२</summary>
 
-तूङ्गुग तूङ्गिच् चॆयऱ्पाल तूङ्गऱ्क
-तूङ्गादु सॆय्युम् विऩै। ६७२
+तूङ्गुग तूङ्गिच् चॆयऱ्पाल तूङ्गऱ्क  
+तूङ्गादु सॆय्युम् विऩै। ६७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७३</summary>
 
-ङल्लुंवा यॆल्लाम् विऩैनऩ्ऱे ऒल्लाक्काल्
-सॆल्लुंवाय् नोक्किच् चॆयल्। ६७३
+ङल्लुंवा यॆल्लाम् विऩैनऩ्ऱे ऒल्लाक्काल्  
+सॆल्लुंवाय् नोक्किच् चॆयल्। ६७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७३</summary>
@@ -136,10 +135,10 @@ Delay not acts that need display.        672
 
 <details><summary>NVK Ashraf choice (en) - ६७३</summary>
 
-०६७३
-Better strike wherever possible;
-Elsewhere, consider other feasible means. *
-(P.S. Sundaram)
+०६७३  
+Better strike wherever possible;  
+Elsewhere, consider other feasible means. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७३</summary>
@@ -174,14 +173,14 @@ If not see what is possible.        673
 
 <details><summary>मूलम् - ६७३</summary>
 
-ङल्लुंवा यॆल्लाम् विऩैनऩ्ऱे ऒल्लाक्काल्
-सॆल्लुंवाय् नोक्किच् चॆयल्। ६७३
+ङल्लुंवा यॆल्लाम् विऩैनऩ्ऱे ऒल्लाक्काल्  
+सॆल्लुंवाय् नोक्किच् चॆयल्। ६७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७४</summary>
 
-विऩैबगै ऎऩ्ऱिरण्डिऩ् ऎच्चम् निऩैयुङ्गाल्
-तीयॆच्चम् पोलत् तॆऱुम्। ६७४
+विऩैबगै ऎऩ्ऱिरण्डिऩ् ऎच्चम् निऩैयुङ्गाल्  
+तीयॆच्चम् पोलत् तॆऱुम्। ६७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७४</summary>
@@ -192,10 +191,10 @@ If not see what is possible.        673
 
 <details><summary>NVK Ashraf choice (en) - ६७४</summary>
 
-०६७४
-Both tasks and foes, if left unfinished,
-Will destroy like fire left un-extinguished. *
-(Satguru Subramuniyaswami), ( Shuddhananda Bharatiar)
+०६७४  
+Both tasks and foes, if left unfinished,  
+Will destroy like fire left un-extinguished. *  
+(Satguru Subramuniyaswami), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७४</summary>
@@ -230,14 +229,14 @@ Flare up like fire unextinguished.        674
 
 <details><summary>मूलम् - ६७४</summary>
 
-विऩैबगै ऎऩ्ऱिरण्डिऩ् ऎच्चम् निऩैयुङ्गाल्
-तीयॆच्चम् पोलत् तॆऱुम्। ६७४
+विऩैबगै ऎऩ्ऱिरण्डिऩ् ऎच्चम् निऩैयुङ्गाल्  
+तीयॆच्चम् पोलत् तॆऱुम्। ६७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७५</summary>
 
-पॊरुळ्गरुवि कालम् विऩैयिडऩॊडु ऐन्दुम्
-इरुळ्दीर ऎण्णिच् चॆयल्। ६७५
+पॊरुळ्गरुवि कालम् विऩैयिडऩॊडु ऐन्दुम्  
+इरुळ्दीर ऎण्णिच् चॆयल्। ६७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७५</summary>
@@ -248,10 +247,10 @@ Flare up like fire unextinguished.        674
 
 <details><summary>NVK Ashraf choice (en) - ६७५</summary>
 
-०६७५
-Five things should be pondered before you act:
-Resources, weapons, time, place and deed.
-(P.S. Sundaram)
+०६७५  
+Five things should be pondered before you act:  
+Resources, weapons, time, place and deed.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७५</summary>
@@ -285,14 +284,14 @@ Decide these five and then proceed.        675
 
 <details><summary>मूलम् - ६७५</summary>
 
-पॊरुळ्गरुवि कालम् विऩैयिडऩॊडु ऐन्दुम्
-इरुळ्दीर ऎण्णिच् चॆयल्। ६७५
+पॊरुळ्गरुवि कालम् विऩैयिडऩॊडु ऐन्दुम्  
+इरुळ्दीर ऎण्णिच् चॆयल्। ६७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७६</summary>
 
-मुडिवुम् इडैयूऱुम् मुऱ्ऱियाङ्गु ऎय्दुम्
-पडुबयऩुम् पार्त्तुच् चॆयल्। ६७६
+मुडिवुम् इडैयूऱुम् मुऱ्ऱियाङ्गु ऎय्दुम्  
+पडुबयऩुम् पार्त्तुच् चॆयल्। ६७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७६</summary>
@@ -303,10 +302,10 @@ Decide these five and then proceed.        675
 
 <details><summary>NVK Ashraf choice (en) - ६७६</summary>
 
-०६७६
-Weigh well before you plunge:
-The inputs, impediments and gain.
-(P.S. Sundaram)
+०६७६  
+Weigh well before you plunge:  
+The inputs, impediments and gain.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६७६</summary>
@@ -346,14 +345,14 @@ And then pursue a fitting act.        676
 
 <details><summary>मूलम् - ६७६</summary>
 
-मुडिवुम् इडैयूऱुम् मुऱ्ऱियाङ्गु ऎय्दुम्
-पडुबयऩुम् पार्त्तुच् चॆयल्। ६७६
+मुडिवुम् इडैयूऱुम् मुऱ्ऱियाङ्गु ऎय्दुम्  
+पडुबयऩुम् पार्त्तुच् चॆयल्। ६७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७७</summary>
 
-सॆय्विऩै सॆय्वाऩ् सॆयऩ्मुऱै अव्विऩै
-उळ्ळऱिवाऩ् उळ्ळम् कॊळल्। ६७७
+सॆय्विऩै सॆय्वाऩ् सॆयऩ्मुऱै अव्विऩै  
+उळ्ळऱिवाऩ् उळ्ळम् कॊळल्। ६७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७७</summary>
@@ -364,10 +363,10 @@ And then pursue a fitting act.        676
 
 <details><summary>NVK Ashraf choice (en) - ६७७</summary>
 
-०६७७
-Experts have the expertise.
-Get that expertise by knowing him inside out.
-(S.M. Diaz), (N.V.K. Ashraf)
+०६७७  
+Experts have the expertise.  
+Get that expertise by knowing him inside out.  
+(S.M. Diaz), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६७७</summary>
@@ -407,14 +406,14 @@ That is the way of fruitful acts.        677
 
 <details><summary>मूलम् - ६७७</summary>
 
-सॆय्विऩै सॆय्वाऩ् सॆयऩ्मुऱै अव्विऩै
-उळ्ळऱिवाऩ् उळ्ळम् कॊळल्। ६७७
+सॆय्विऩै सॆय्वाऩ् सॆयऩ्मुऱै अव्विऩै  
+उळ्ळऱिवाऩ् उळ्ळम् कॊळल्। ६७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७८</summary>
 
-विऩैयाऩ् विऩैयाक्किक् कोडल् नऩैगवुळ्
-याऩैयाल् याऩैयात् तऱ्ऱु। ६७८
+विऩैयाऩ् विऩैयाक्किक् कोडल् नऩैगवुळ्  
+याऩैयाल् याऩैयात् तऱ्ऱु। ६७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७८</summary>
@@ -425,10 +424,10 @@ That is the way of fruitful acts.        677
 
 <details><summary>NVK Ashraf choice (en) - ६७८</summary>
 
-०६७८
-Let one target be achieved through one's action,
-Like an elephant through another. *
-SDR
+०६७८  
+Let one target be achieved through one's action,  
+Like an elephant through another. *  
+SDR  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७८</summary>
@@ -463,14 +462,14 @@ Achieve a deed by deed better.        678
 
 <details><summary>मूलम् - ६७८</summary>
 
-विऩैयाऩ् विऩैयाक्किक् कोडल् नऩैगवुळ्
-याऩैयाल् याऩैयात् तऱ्ऱु। ६७८
+विऩैयाऩ् विऩैयाक्किक् कोडल् नऩैगवुळ्  
+याऩैयाल् याऩैयात् तऱ्ऱु। ६७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६७९</summary>
 
-नट्टार्क्कु नल्ल सॆयलिऩ् विरैन्ददे
-ऒट्टारै ऒट्टिक् कॊळल्। ६७९
+नट्टार्क्कु नल्ल सॆयलिऩ् विरैन्ददे  
+ऒट्टारै ऒट्टिक् कॊळल्। ६७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७९</summary>
@@ -481,10 +480,10 @@ Achieve a deed by deed better.        678
 
 <details><summary>NVK Ashraf choice (en) - ६७९</summary>
 
-०६७९
-More urgent than rewarding friends,
-Is to befriend enemies. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+०६७९  
+More urgent than rewarding friends,  
+Is to befriend enemies. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७९</summary>
@@ -519,14 +518,14 @@ More urgent to befriend the foes.        679
 
 <details><summary>मूलम् - ६७९</summary>
 
-नट्टार्क्कु नल्ल सॆयलिऩ् विरैन्ददे
-ऒट्टारै ऒट्टिक् कॊळल्। ६७९
+नट्टार्क्कु नल्ल सॆयलिऩ् विरैन्ददे  
+ऒट्टारै ऒट्टिक् कॊळल्। ६७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८०</summary>
 
-उऱैसिऱियार् उळ्नडुङ्गल् अञ्जिक् कुऱैबॆऱिऩ्
-कॊळ्वर् पॆरियार्प् पणिन्दु। ६८०
+उऱैसिऱियार् उळ्नडुङ्गल् अञ्जिक् कुऱैबॆऱिऩ्  
+कॊळ्वर् पॆरियार्प् पणिन्दु। ६८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८०</summary>
@@ -537,10 +536,10 @@ More urgent to befriend the foes.        679
 
 <details><summary>NVK Ashraf choice (en) - ६८०</summary>
 
-०६८०
-If you are weak and fear internal trouble,
-Seize conciliation with the strong. *
-(P.S. Sundaram)
+०६८०  
+If you are weak and fear internal trouble,  
+Seize conciliation with the strong. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८०</summary>
@@ -575,7 +574,7 @@ Submit to foes superior.        680
 
 <details><summary>मूलम् - ६८०</summary>
 
-उऱैसिऱियार् उळ्नडुङ्गल् अञ्जिक् कुऱैबॆऱिऩ्
-कॊळ्वर् पॆरियार्प् पणिन्दु। ६८०
+उऱैसिऱियार् उळ्नडुङ्गल् अञ्जिक् कुऱैबॆऱिऩ्  
+कॊळ्वर् पॆरियार्प् पणिन्दु। ६८०  
 </details>
 

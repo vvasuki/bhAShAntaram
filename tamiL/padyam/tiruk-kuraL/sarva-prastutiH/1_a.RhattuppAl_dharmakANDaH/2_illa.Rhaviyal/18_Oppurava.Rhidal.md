@@ -3,11 +3,10 @@ title = "१८ ऒप्पुरवऱिदल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २११</summary>
 
-कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु
-ऎऩ् आऱ्ऱुङ् गॊल्लो उलगु। २११
+कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु  
+ऎऩ् आऱ्ऱुङ् गॊल्लो उलगु। २११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २११</summary>
@@ -18,10 +17,10 @@ title = "१८ ऒप्पुरवऱिदल्"
 
 <details><summary>NVK Ashraf choice (en) - २११</summary>
 
-०२११
-Duty is not for reward.
-Does the world recompense the rain-cloud?
-(P.S. Sundaram)
+०२११  
+Duty is not for reward.  
+Does the world recompense the rain-cloud?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २११</summary>
@@ -61,14 +60,14 @@ How can the world recompense rain?        211
 
 <details><summary>मूलम् - २११</summary>
 
-कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु
-ऎऩ् आऱ्ऱुङ् गॊल्लो उलगु। २११
+कैम्माऱु वेण्डा कडप्पाडु मारिमाट्टु  
+ऎऩ् आऱ्ऱुङ् गॊल्लो उलगु। २११  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१२</summary>
 
-ताळाऱ्ऱित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु
-वेळाण्मै सॆय्दऱ् पॊरुट्टु। २१२
+ताळाऱ्ऱित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु  
+वेळाण्मै सॆय्दऱ् पॊरुट्टु। २१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१२</summary>
@@ -79,10 +78,10 @@ How can the world recompense rain?        211
 
 <details><summary>NVK Ashraf choice (en) - २१२</summary>
 
-०२१२
-All the wealth earned by toils
-Is meant to serve those who deserve. *
-( Shuddhananda Bharatiar)
+०२१२  
+All the wealth earned by toils  
+Is meant to serve those who deserve. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २१२</summary>
@@ -121,14 +120,14 @@ Is meant to serve those who deserve.        212
 
 <details><summary>मूलम् - २१२</summary>
 
-ताळाऱ्ऱित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु
-वेळाण्मै सॆय्दऱ् पॊरुट्टु। २१२
+ताळाऱ्ऱित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु  
+वेळाण्मै सॆय्दऱ् पॊरुट्टु। २१२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१३</summary>
 
-पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे
-ऒप्पुरविऩ् नल्ल पिऱ। २१३
+पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे  
+ऒप्पुरविऩ् नल्ल पिऱ। २१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१३</summary>
@@ -139,10 +138,10 @@ Is meant to serve those who deserve.        212
 
 <details><summary>NVK Ashraf choice (en) - २१३</summary>
 
-०२१३
-Rare it is to find another good equal to benevolence,
-Either here or in the heaven. *
-(W.H. Drew and J. Lazarus)
+०२१३  
+Rare it is to find another good equal to benevolence,  
+Either here or in the heaven. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २१३</summary>
@@ -176,14 +175,14 @@ A greater good than being kind.        213
 
 <details><summary>मूलम् - २१३</summary>
 
-पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे
-ऒप्पुरविऩ् नल्ल पिऱ। २१३
+पुत्ते ळुलगत्तुम् ईण्डुम् पॆऱलरिदे  
+ऒप्पुरविऩ् नल्ल पिऱ। २१३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१४</summary>
 
-ऒत्त तऱवोऩ् उयिर्वाऴ्वाऩ् मऱ्ऱैयाऩ्
-सॆत्तारुळ् वैक्कप् पडुम्। २१४
+ऒत्त तऱवोऩ् उयिर्वाऴ्वाऩ् मऱ्ऱैयाऩ्  
+सॆत्तारुळ् वैक्कप् पडुम्। २१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१४</summary>
@@ -194,10 +193,10 @@ A greater good than being kind.        213
 
 <details><summary>NVK Ashraf choice (en) - २१४</summary>
 
-०२१४
-He who realizes what is oneness, lives;
-The rest will be placed among the dead.
-(G. Vanmikanathan)
+०२१४  
+He who realizes what is oneness, lives;  
+The rest will be placed among the dead.  
+(G. Vanmikanathan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २१४</summary>
@@ -232,14 +231,14 @@ Others are deemed as dead in fact.        214
 
 <details><summary>मूलम् - २१४</summary>
 
-ऒत्त तऱवोऩ् उयिर्वाऴ्वाऩ् मऱ्ऱैयाऩ्
-सॆत्तारुळ् वैक्कप् पडुम्। २१४
+ऒत्त तऱवोऩ् उयिर्वाऴ्वाऩ् मऱ्ऱैयाऩ्  
+सॆत्तारुळ् वैक्कप् पडुम्। २१४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१५</summary>
 
-ऊरुणि नीर्निऱैन् दऱ्ऱे उलगवाम्
-पेरऱि वाळऩ् तिरु। २१५
+ऊरुणि नीर्निऱैन् दऱ्ऱे उलगवाम्  
+पेरऱि वाळऩ् तिरु। २१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१५</summary>
@@ -250,10 +249,10 @@ Others are deemed as dead in fact.        214
 
 <details><summary>NVK Ashraf choice (en) - २१५</summary>
 
-०२१५
-The wealth of a wise philanthropist
-Is a village pool ever full.
-(P.S. Sundaram)
+०२१५  
+The wealth of a wise philanthropist  
+Is a village pool ever full.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २१५</summary>
@@ -293,14 +292,14 @@ Is like water that fills a lake.        215
 
 <details><summary>मूलम् - २१५</summary>
 
-ऊरुणि नीर्निऱैन् दऱ्ऱे उलगवाम्
-पेरऱि वाळऩ् तिरु। २१५
+ऊरुणि नीर्निऱैन् दऱ्ऱे उलगवाम्  
+पेरऱि वाळऩ् तिरु। २१५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१६</summary>
 
-पयऩ्मरम् उळ्ळूर्प् पऴुत्तऱ्ऱाल् सॆल्वम्
-नयऩुडै याऩ्कण् पडिऩ्। २१६
+पयऩ्मरम् उळ्ळूर्प् पऴुत्तऱ्ऱाल् सॆल्वम्  
+नयऩुडै याऩ्कण् पडिऩ्। २१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१६</summary>
@@ -311,10 +310,10 @@ Is like water that fills a lake.        215
 
 <details><summary>NVK Ashraf choice (en) - २१६</summary>
 
-०२१६
-When wealth comes to the generous,
-It is like the village tree coming to fruit. *
-(C. Rajagopalachari)
+०२१६  
+When wealth comes to the generous,  
+It is like the village tree coming to fruit. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २१६</summary>
@@ -348,14 +347,14 @@ Is like town-tree teeming with fruits.        216
 
 <details><summary>मूलम् - २१६</summary>
 
-पयऩ्मरम् उळ्ळूर्प् पऴुत्तऱ्ऱाल् सॆल्वम्
-नयऩुडै याऩ्कण् पडिऩ्। २१६
+पयऩ्मरम् उळ्ळूर्प् पऴुत्तऱ्ऱाल् सॆल्वम्  
+नयऩुडै याऩ्कण् पडिऩ्। २१६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१७</summary>
 
-मरुन्दागित् तप्पा मरत्तऱ्ऱाल् सॆल्वम्
-पॆरुन्दगै याऩ्कण् पडिऩ्। २१७
+मरुन्दागित् तप्पा मरत्तऱ्ऱाल् सॆल्वम्  
+पॆरुन्दगै याऩ्कण् पडिऩ्। २१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१७</summary>
@@ -366,10 +365,10 @@ Is like town-tree teeming with fruits.        216
 
 <details><summary>NVK Ashraf choice (en) - २१७</summary>
 
-०२१७
-When wealth comes to the large-hearted,
-It is like an unfailing medicine tree. *
-(P.S. Sundaram)
+०२१७  
+When wealth comes to the large-hearted,  
+It is like an unfailing medicine tree. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २१७</summary>
@@ -404,14 +403,14 @@ Is a herbal tree that healeth all.        217
 
 <details><summary>मूलम् - २१७</summary>
 
-मरुन्दागित् तप्पा मरत्तऱ्ऱाल् सॆल्वम्
-पॆरुन्दगै याऩ्कण् पडिऩ्। २१७
+मरुन्दागित् तप्पा मरत्तऱ्ऱाल् सॆल्वम्  
+पॆरुन्दगै याऩ्कण् पडिऩ्। २१७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१८</summary>
 
-इडऩिल् परुवत्तुम् ऒप्पुरविऱ्कु ऒल्गार्
-कडऩऱि काट्चि यवर्। २१८
+इडऩिल् परुवत्तुम् ऒप्पुरविऱ्कु ऒल्गार्  
+कडऩऱि काट्चि यवर्। २१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१८</summary>
@@ -422,10 +421,10 @@ Is a herbal tree that healeth all.        217
 
 <details><summary>NVK Ashraf choice (en) - २१८</summary>
 
-०२१८
-Those known for their duty will not slacken to help
-Even during times of poverty.
-(N.V.K. Ashraf)
+०२१८  
+Those known for their duty will not slacken to help  
+Even during times of poverty.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २१८</summary>
@@ -459,14 +458,14 @@ Their sense of duty never strays.        218
 
 <details><summary>मूलम् - २१८</summary>
 
-इडऩिल् परुवत्तुम् ऒप्पुरविऱ्कु ऒल्गार्
-कडऩऱि काट्चि यवर्। २१८
+इडऩिल् परुवत्तुम् ऒप्पुरविऱ्कु ऒल्गार्  
+कडऩऱि काट्चि यवर्। २१८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१९</summary>
 
-नयऩुडैयाऩ् नल्गूर्न्दा ऩादल् सॆयुम्नीर
-सॆय्यादु अमैगला वाऱु। २१९
+नयऩुडैयाऩ् नल्गूर्न्दा ऩादल् सॆयुम्नीर  
+सॆय्यादु अमैगला वाऱु। २१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१९</summary>
@@ -477,10 +476,10 @@ Their sense of duty never strays.        218
 
 <details><summary>NVK Ashraf choice (en) - २१९</summary>
 
-०२१९
-The poverty of a generous man is nothing but
-His inability to exercise his generosity. *
-(W.H. Drew and J. Lazarus)
+०२१९  
+The poverty of a generous man is nothing but  
+His inability to exercise his generosity. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २१९</summary>
@@ -520,14 +519,14 @@ Is want of means to give relief.        219
 
 <details><summary>मूलम् - २१९</summary>
 
-नयऩुडैयाऩ् नल्गूर्न्दा ऩादल् सॆयुम्नीर
-सॆय्यादु अमैगला वाऱु। २१९
+नयऩुडैयाऩ् नल्गूर्न्दा ऩादल् सॆयुम्नीर  
+सॆय्यादु अमैगला वाऱु। २१९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२०</summary>
 
-ऒप्पुरवि ऩाल्वरुम् केडॆऩिऩ् अह्दॊरुवऩ्
-विऱ्ऱुक्कोळ् तक्क तुडैत्तु। २२०
+ऒप्पुरवि ऩाल्वरुम् केडॆऩिऩ् अह्दॊरुवऩ्  
+विऱ्ऱुक्कोळ् तक्क तुडैत्तु। २२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२०</summary>
@@ -538,10 +537,10 @@ Is want of means to give relief.        219
 
 <details><summary>NVK Ashraf choice (en) - २२०</summary>
 
-०२२०
-If poverty comes of doing good,
-One's self may be sold to do it.
-(P.S. Sundaram)
+०२२०  
+If poverty comes of doing good,  
+One's self may be sold to do it.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२०</summary>
@@ -575,7 +574,7 @@ Sell yourself to save that loss.        220
 
 <details><summary>मूलम् - २२०</summary>
 
-ऒप्पुरवि ऩाल्वरुम् केडॆऩिऩ् अह्दॊरुवऩ्
-विऱ्ऱुक्कोळ् तक्क तुडैत्तु। २२०
+ऒप्पुरवि ऩाल्वरुम् केडॆऩिऩ् अह्दॊरुवऩ्  
+विऱ्ऱुक्कोळ् तक्क तुडैत्तु। २२०  
 </details>
 

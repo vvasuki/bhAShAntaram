@@ -3,11 +3,10 @@ title = "१० वलियऱिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४७१</summary>
 
-विऩैवलियुम् तऩ्वलियुम् माऱ्ऱाऩ् वलियुम्
-तुणैवलियुम् तूक्किच् चॆयल्। ४७१
+विऩैवलियुम् तऩ्वलियुम् माऱ्ऱाऩ् वलियुम्  
+तुणैवलियुम् तूक्किच् चॆयल्। ४७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७१</summary>
@@ -18,10 +17,10 @@ title = "१० वलियऱिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ४७१</summary>
 
-०४७१
-Weigh the strengths of the task, yourselves,
-Opponents, and allies before acting. *
-(K. Kannan)
+०४७१  
+Weigh the strengths of the task, yourselves,  
+Opponents, and allies before acting. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७१</summary>
@@ -55,14 +54,14 @@ The allies' strength and go at length.        471
 
 <details><summary>मूलम् - ४७१</summary>
 
-विऩैवलियुम् तऩ्वलियुम् माऱ्ऱाऩ् वलियुम्
-तुणैवलियुम् तूक्किच् चॆयल्। ४७१
+विऩैवलियुम् तऩ्वलियुम् माऱ्ऱाऩ् वलियुम्  
+तुणैवलियुम् तूक्किच् चॆयल्। ४७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७२</summary>
 
-ऒल्व तऱिवदु अऱिन्ददऩ् कण्दङ्गिच्
-चॆल्वार्क्कुच् चॆल्लाददु इल्। ४७२
+ऒल्व तऱिवदु अऱिन्ददऩ् कण्दङ्गिच्  
+चॆल्वार्क्कुच् चॆल्लाददु इल्। ४७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७२</summary>
@@ -73,10 +72,10 @@ The allies' strength and go at length.        471
 
 <details><summary>NVK Ashraf choice (en) - ४७२</summary>
 
-०४७२
-Nothing is impossible for him
-Who knows his task and strength, and is well set.
-(P.S. Sundaram)
+०४७२  
+Nothing is impossible for him  
+Who knows his task and strength, and is well set.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७२</summary>
@@ -110,14 +109,14 @@ What they can and how to go.        472
 
 <details><summary>मूलम् - ४७२</summary>
 
-ऒल्व तऱिवदु अऱिन्ददऩ् कण्दङ्गिच्
-चॆल्वार्क्कुच् चॆल्लाददु इल्। ४७२
+ऒल्व तऱिवदु अऱिन्ददऩ् कण्दङ्गिच्  
+चॆल्वार्क्कुच् चॆल्लाददु इल्। ४७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७३</summary>
 
-उडैत्तम् वलियऱियार् ऊक्कत्तिऩ् ऊक्कि
-इडैक्कण् मुरिन्दार् पलर्। ४७३
+उडैत्तम् वलियऱियार् ऊक्कत्तिऩ् ऊक्कि  
+इडैक्कण् मुरिन्दार् पलर्। ४७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७३</summary>
@@ -128,10 +127,10 @@ What they can and how to go.        472
 
 <details><summary>NVK Ashraf choice (en) - ४७३</summary>
 
-०४७३
-Ignorant of their strengths,
-Many in their zeal have perished midway.
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०४७३  
+Ignorant of their strengths,  
+Many in their zeal have perished midway.  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७३</summary>
@@ -165,14 +164,14 @@ Their pride breaks up in boastful fight.        473
 
 <details><summary>मूलम् - ४७३</summary>
 
-उडैत्तम् वलियऱियार् ऊक्कत्तिऩ् ऊक्कि
-इडैक्कण् मुरिन्दार् पलर्। ४७३
+उडैत्तम् वलियऱियार् ऊक्कत्तिऩ् ऊक्कि  
+इडैक्कण् मुरिन्दार् पलर्। ४७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७४</summary>
 
-अमैन्दाङ् गॊऴुगाऩ् अळवऱियाऩ् तऩ्ऩै
-वियन्दाऩ् विरैन्दु कॆडुम्। ४७४
+अमैन्दाङ् गॊऴुगाऩ् अळवऱियाऩ् तऩ्ऩै  
+वियन्दाऩ् विरैन्दु कॆडुम्। ४७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७४</summary>
@@ -183,10 +182,10 @@ Their pride breaks up in boastful fight.        473
 
 <details><summary>NVK Ashraf choice (en) - ४७४</summary>
 
-०४७४
-The inadaptable have speedy end
-Who boast unconcerned of their real strengths.
-(N.V.K. Ashraf)
+०४७४  
+The inadaptable have speedy end  
+Who boast unconcerned of their real strengths.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७४</summary>
@@ -220,14 +219,14 @@ And brags himself-his fall is sure.        474
 
 <details><summary>मूलम् - ४७४</summary>
 
-अमैन्दाङ् गॊऴुगाऩ् अळवऱियाऩ् तऩ्ऩै
-वियन्दाऩ् विरैन्दु कॆडुम्। ४७४
+अमैन्दाङ् गॊऴुगाऩ् अळवऱियाऩ् तऩ्ऩै  
+वियन्दाऩ् विरैन्दु कॆडुम्। ४७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७५</summary>
 
-पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्
-जाल मिगुत्तुप् पॆयिऩ्। ४७५
+पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्  
+जाल मिगुत्तुप् पॆयिऩ्। ४७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७५</summary>
@@ -238,10 +237,10 @@ And brags himself-his fall is sure.        474
 
 <details><summary>NVK Ashraf choice (en) - ४७५</summary>
 
-०४७५
-Too great a load of even peacock-feathers
-Will break the axle-tree of the cart.
-(C. Rajagopalachari)
+०४७५  
+Too great a load of even peacock-feathers  
+Will break the axle-tree of the cart.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७५</summary>
@@ -275,14 +274,14 @@ Cart's axle breaks by gross volume.        475
 
 <details><summary>मूलम् - ४७५</summary>
 
-पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्
-जाल मिगुत्तुप् पॆयिऩ्। ४७५
+पीलिबॆय् सागाडुम् अच्चिऱुम् अप्पण्डञ्  
+जाल मिगुत्तुप् पॆयिऩ्। ४७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७६</summary>
 
-नुऩिक्कॊम्बर् एऱिऩार् अह्दिऱन् दूक्किऩ्
-उयिर्क्किऱुदि आगि विडुम्। ४७६
+नुऩिक्कॊम्बर् एऱिऩार् अह्दिऱन् दूक्किऩ्  
+उयिर्क्किऱुदि आगि विडुम्। ४७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७६</summary>
@@ -293,10 +292,10 @@ Cart's axle breaks by gross volume.        475
 
 <details><summary>NVK Ashraf choice (en) - ४७६</summary>
 
-०४७६
-Persisting to climb beyond the terminal branches of a tree
-Will forfeit one's life.
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+०४७६  
+Persisting to climb beyond the terminal branches of a tree  
+Will forfeit one's life.  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७६</summary>
@@ -330,14 +329,14 @@ Ends the life as his body rips.        476
 
 <details><summary>मूलम् - ४७६</summary>
 
-नुऩिक्कॊम्बर् एऱिऩार् अह्दिऱन् दूक्किऩ्
-उयिर्क्किऱुदि आगि विडुम्। ४७६
+नुऩिक्कॊम्बर् एऱिऩार् अह्दिऱन् दूक्किऩ्  
+उयिर्क्किऱुदि आगि विडुम्। ४७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७७</summary>
 
-आऱ्ऱिऩ् अऱवऱिन्दु ईग अदुबॊरुळ्
-पोऱ्ऱि वऴङ्गु नॆऱि। ४७७
+आऱ्ऱिऩ् अऱवऱिन्दु ईग अदुबॊरुळ्  
+पोऱ्ऱि वऴङ्गु नॆऱि। ४७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७७</summary>
@@ -348,10 +347,10 @@ Ends the life as his body rips.        476
 
 <details><summary>NVK Ashraf choice (en) - ४७७</summary>
 
-०४७७
-Know the limit and grant with measure.
-This is the way to guard your treasure. *
-( Shuddhananda Bharatiar)
+०४७७  
+Know the limit and grant with measure.  
+This is the way to guard your treasure. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७७</summary>
@@ -385,14 +384,14 @@ This way give and guard your treasure.        477
 
 <details><summary>मूलम् - ४७७</summary>
 
-आऱ्ऱिऩ् अऱवऱिन्दु ईग अदुबॊरुळ्
-पोऱ्ऱि वऴङ्गु नॆऱि। ४७७
+आऱ्ऱिऩ् अऱवऱिन्दु ईग अदुबॊरुळ्  
+पोऱ्ऱि वऴङ्गु नॆऱि। ४७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७८</summary>
 
-आगाऱु अळविट्टि तायिऩुङ् गेडिल्लै
-पोगाऱु अगलाक् कडै। ४७८
+आगाऱु अळविट्टि तायिऩुङ् गेडिल्लै  
+पोगाऱु अगलाक् कडै। ४७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७८</summary>
@@ -403,10 +402,10 @@ This way give and guard your treasure.        477
 
 <details><summary>NVK Ashraf choice (en) - ४७८</summary>
 
-०४७८
-No harm if income is narrow
-If outgoings are not broad.
-(P.S. Sundaram)
+०४७८  
+No harm if income is narrow  
+If outgoings are not broad.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७८</summary>
@@ -440,14 +439,14 @@ No matter how small income is.        478
 
 <details><summary>मूलम् - ४७८</summary>
 
-आगाऱु अळविट्टि तायिऩुङ् गेडिल्लै
-पोगाऱु अगलाक् कडै। ४७८
+आगाऱु अळविट्टि तायिऩुङ् गेडिल्लै  
+पोगाऱु अगलाक् कडै। ४७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४७९</summary>
 
-अळवऱ஧न्दु वाऴादाऩ् वाऴ्क्कै उळबोल
-इल्लागित् तोऩ्ऱाक् कॆडुम्। ४७९
+अळवऱ஧न्दु वाऴादाऩ् वाऴ्क्कै उळबोल  
+इल्लागित् तोऩ्ऱाक् कॆडुम्। ४७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७९</summary>
@@ -458,10 +457,10 @@ No matter how small income is.        478
 
 <details><summary>NVK Ashraf choice (en) - ४७९</summary>
 
-०४७९
-A life lived without adjustment to the means
-May seem to prosper but will perish.
-(N.V.K. Ashraf)
+०४७९  
+A life lived without adjustment to the means  
+May seem to prosper but will perish.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४७९</summary>
@@ -500,14 +499,14 @@ His life seems rich but thins and ends.        479
 
 <details><summary>मूलम् - ४७९</summary>
 
-अळवऱ஧न्दु वाऴादाऩ् वाऴ्क्कै उळबोल
-इल्लागित् तोऩ्ऱाक् कॆडुम्। ४७९
+अळवऱ஧न्दु वाऴादाऩ् वाऴ्क्कै उळबोल  
+इल्लागित् तोऩ्ऱाक् कॆडुम्। ४७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८०</summary>
 
-उळवरै तूक्काद ऒप्पुर वाण्मै
-वळवरै वल्लैक् कॆडुम्। ४८०
+उळवरै तूक्काद ऒप्पुर वाण्मै  
+वळवरै वल्लैक् कॆडुम्। ४८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८०</summary>
@@ -518,10 +517,10 @@ His life seems rich but thins and ends.        479
 
 <details><summary>NVK Ashraf choice (en) - ४८०</summary>
 
-०४८०
-He who is generous beyond his means
-Will quickly lose the measure of his wealth.
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०४८०  
+He who is generous beyond his means  
+Will quickly lose the measure of his wealth.  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४८०</summary>
@@ -559,7 +558,7 @@ Sans level if one lavishes.        480
 
 <details><summary>मूलम् - ४८०</summary>
 
-उळवरै तूक्काद ऒप्पुर वाण्मै
-वळवरै वल्लैक् कॆडुम्। ४८०
+उळवरै तूक्काद ऒप्पुर वाण्मै  
+वळवरै वल्लैक् कॆडुम्। ४८०  
 </details>
 

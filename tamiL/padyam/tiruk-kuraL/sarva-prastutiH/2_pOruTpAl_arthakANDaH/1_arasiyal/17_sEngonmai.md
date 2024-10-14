@@ -3,11 +3,10 @@ title = "१७ सॆङ्गोन्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५४१</summary>
 
-ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्
-तेर्न्दुसॆय् वह्दे मुऱै। ५४१
+ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्  
+तेर्न्दुसॆय् वह्दे मुऱै। ५४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४१</summary>
@@ -18,10 +17,10 @@ title = "१७ सॆङ्गोन्मै"
 
 <details><summary>NVK Ashraf choice (en) - ५४१</summary>
 
-०५४१
-The way is to launch an enquiry, investigate with impartiality,
-And dispense as per norms.
-(N.V.K. Ashraf)
+०५४१  
+The way is to launch an enquiry, investigate with impartiality,  
+And dispense as per norms.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४१</summary>
@@ -55,14 +54,14 @@ Consult and act the laws justly.        541
 
 <details><summary>मूलम् - ५४१</summary>
 
-ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्
-तेर्न्दुसॆय् वह्दे मुऱै। ५४१
+ओर्न्दुगण् णोडादु इऱैबुरिन्दु यार्माट्टुम्  
+तेर्न्दुसॆय् वह्दे मुऱै। ५४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४२</summary>
 
-वाऩोक्कि वाऴुम् उलगॆल्लाम् मऩ्ऩवऩ्
-कोल् नोक्कि वाऴुङ् गुडि। ५४२
+वाऩोक्कि वाऴुम् उलगॆल्लाम् मऩ्ऩवऩ्  
+कोल् नोक्कि वाऴुङ् गुडि। ५४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४२</summary>
@@ -73,10 +72,10 @@ Consult and act the laws justly.        541
 
 <details><summary>NVK Ashraf choice (en) - ५४२</summary>
 
-०५४२
-All the world looks up to heaven for rain
-And the subjects to their king for justice. *
-(P.S. Sundaram)
+०५४२  
+All the world looks up to heaven for rain  
+And the subjects to their king for justice. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४२</summary>
@@ -110,14 +109,14 @@ And mankind to king's rod of justice.        542
 
 <details><summary>मूलम् - ५४२</summary>
 
-वाऩोक्कि वाऴुम् उलगॆल्लाम् मऩ्ऩवऩ्
-कोल् नोक्कि वाऴुङ् गुडि। ५४२
+वाऩोक्कि वाऴुम् उलगॆल्लाम् मऩ्ऩवऩ्  
+कोल् नोक्कि वाऴुङ् गुडि। ५४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४३</summary>
 
-अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्
-निऩ्ऱतु मऩ्ऩवऩ् कोल्। ५४३
+अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्  
+निऩ्ऱतु मऩ्ऩवऩ् कोल्। ५४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४३</summary>
@@ -128,10 +127,10 @@ And mankind to king's rod of justice.        542
 
 <details><summary>NVK Ashraf choice (en) - ५४३</summary>
 
-०५४३
-The scepter of the king furnishes the basic support
-To virtue and scriptures.
-(S. Maharajan)
+०५४३  
+The scepter of the king furnishes the basic support  
+To virtue and scriptures.  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४३</summary>
@@ -165,14 +164,14 @@ From the sceptre of a stately king.        543
 
 <details><summary>मूलम् - ५४३</summary>
 
-अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्
-निऩ्ऱतु मऩ्ऩवऩ् कोल्। ५४३
+अन्दणर् नूऱ्कुम् अऱत्तिऱ्कुम् आदियाय्  
+निऩ्ऱतु मऩ्ऩवऩ् कोल्। ५४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४४</summary>
 
-कुडिदऴीइक् कोलोच्चुम् मानिल मऩ्ऩऩ्
-अडिदऴीइ निऱ्कुम् उलगु। ५४४
+कुडिदऴीइक् कोलोच्चुम् मानिल मऩ्ऩऩ्  
+अडिदऴीइ निऱ्कुम् उलगु। ५४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४४</summary>
@@ -183,10 +182,10 @@ From the sceptre of a stately king.        543
 
 <details><summary>NVK Ashraf choice (en) - ५४४</summary>
 
-०५४४
-A great kingdom's monarch who rules embracing his subjects
-Has the world embrace his feet. *
-(Satguru Subramuniyaswami)
+०५४४  
+A great kingdom's monarch who rules embracing his subjects  
+Has the world embrace his feet. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४४</summary>
@@ -220,14 +219,14 @@ Whose sceptre clasps the people's heart.        544
 
 <details><summary>मूलम् - ५४४</summary>
 
-कुडिदऴीइक् कोलोच्चुम् मानिल मऩ्ऩऩ्
-अडिदऴीइ निऱ्कुम् उलगु। ५४४
+कुडिदऴीइक् कोलोच्चुम् मानिल मऩ्ऩऩ्  
+अडिदऴीइ निऱ्कुम् उलगु। ५४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४५</summary>
 
-इयल्बुळिक् कोलोच्चुम् मऩ्ऩवऩ् नाट्ट
-पॆयलुम् विळैयुळुम् तॊक्कु। ५४५
+इयल्बुळिक् कोलोच्चुम् मऩ्ऩवऩ् नाट्ट  
+पॆयलुम् विळैयुळुम् तॊक्कु। ५४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४५</summary>
@@ -238,10 +237,10 @@ Whose sceptre clasps the people's heart.        544
 
 <details><summary>NVK Ashraf choice (en) - ५४५</summary>
 
-०५४५
-The king who rules according to the law
-Never lacks rain and corn.
-(P.S. Sundaram)
+०५४५  
+The king who rules according to the law  
+Never lacks rain and corn.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५४५</summary>
@@ -280,14 +279,14 @@ Which is ruled by a righteous hand.        545
 
 <details><summary>मूलम् - ५४५</summary>
 
-इयल्बुळिक् कोलोच्चुम् मऩ्ऩवऩ् नाट्ट
-पॆयलुम् विळैयुळुम् तॊक्कु। ५४५
+इयल्बुळिक् कोलोच्चुम् मऩ्ऩवऩ् नाट्ट  
+पॆयलुम् विळैयुळुम् तॊक्कु। ५४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४६</summary>
 
-वेलऩ्ऱु वॆऩ्ऱि तरुवदु मऩ्ऩवऩ्
-कोलदूउङ् गोडा तॆऩिऩ्। ५४६
+वेलऩ्ऱु वॆऩ्ऱि तरुवदु मऩ्ऩवऩ्  
+कोलदूउङ् गोडा तॆऩिऩ्। ५४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४६</summary>
@@ -298,10 +297,10 @@ Which is ruled by a righteous hand.        545
 
 <details><summary>NVK Ashraf choice (en) - ५४६</summary>
 
-०५४६
-Not his spear but a straight scepter
-Is what gives a monarch his triumph.
-(P.S. Sundaram)
+०५४६  
+Not his spear but a straight scepter  
+Is what gives a monarch his triumph.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४६</summary>
@@ -335,14 +334,14 @@ That brings success to monarch's might.        546
 
 <details><summary>मूलम् - ५४६</summary>
 
-वेलऩ्ऱु वॆऩ्ऱि तरुवदु मऩ्ऩवऩ्
-कोलदूउङ् गोडा तॆऩिऩ्। ५४६
+वेलऩ्ऱु वॆऩ्ऱि तरुवदु मऩ्ऩवऩ्  
+कोलदूउङ् गोडा तॆऩिऩ्। ५४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४७</summary>
 
-इऱैगाक्कुम् वैयगम् ऎल्लाम् अवऩै
-मुऱैगाक्कुम् मुट्टाच् चॆयिऩ्। ५४७
+इऱैगाक्कुम् वैयगम् ऎल्लाम् अवऩै  
+मुऱैगाक्कुम् मुट्टाच् चॆयिऩ्। ५४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४७</summary>
@@ -353,10 +352,10 @@ That brings success to monarch's might.        546
 
 <details><summary>NVK Ashraf choice (en) - ५४७</summary>
 
-०५४७
-The king guards all the land, and his own rule
-Will guard him if he is straight.
-(P.S. Sundaram)
+०५४७  
+The king guards all the land, and his own rule  
+Will guard him if he is straight.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४७</summary>
@@ -390,14 +389,14 @@ And justice protects his royal worth.        547
 
 <details><summary>मूलम् - ५४७</summary>
 
-इऱैगाक्कुम् वैयगम् ऎल्लाम् अवऩै
-मुऱैगाक्कुम् मुट्टाच् चॆयिऩ्। ५४७
+इऱैगाक्कुम् वैयगम् ऎल्लाम् अवऩै  
+मुऱैगाक्कुम् मुट्टाच् चॆयिऩ्। ५४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४८</summary>
 
-ऎण्बदत्ताऩ् ओरा मुऱैसॆय्या मऩ्ऩवऩ्
-तण्बदत्ताऩ् ताऩे कॆडुम्। ५४८
+ऎण्बदत्ताऩ् ओरा मुऱैसॆय्या मऩ्ऩवऩ्  
+तण्बदत्ताऩ् ताऩे कॆडुम्। ५४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४८</summary>
@@ -408,10 +407,10 @@ And justice protects his royal worth.        547
 
 <details><summary>NVK Ashraf choice (en) - ५४८</summary>
 
-०५४८
-An indifferent unjust king beyond the reach of his subjects
-Will sink beyond and perish.
-(N.V.K. Ashraf)
+०५४८  
+An indifferent unjust king beyond the reach of his subjects  
+Will sink beyond and perish.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४८</summary>
@@ -445,14 +444,14 @@ He shall himself his ruin bring.        548
 
 <details><summary>मूलम् - ५४८</summary>
 
-ऎण्बदत्ताऩ् ओरा मुऱैसॆय्या मऩ्ऩवऩ्
-तण्बदत्ताऩ् ताऩे कॆडुम्। ५४८
+ऎण्बदत्ताऩ् ओरा मुऱैसॆय्या मऩ्ऩवऩ्  
+तण्बदत्ताऩ् ताऩे कॆडुम्। ५४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५४९</summary>
 
-कुडिबुऱङ् गात्तोम्बिक् कुऱ्ऱम् कडिदल्
-वडुवऩ्ऱु वेन्दऩ् तॊऴिल्। ५४९
+कुडिबुऱङ् गात्तोम्बिक् कुऱ्ऱम् कडिदल्  
+वडुवऩ्ऱु वेन्दऩ् तॊऴिल्। ५४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५४९</summary>
@@ -463,10 +462,10 @@ He shall himself his ruin bring.        548
 
 <details><summary>NVK Ashraf choice (en) - ५४९</summary>
 
-०५४९
-For a king who would guard and cherish his people,
-To punish crimes is a duty, not defect.
-(P.S. Sundaram)
+०५४९  
+For a king who would guard and cherish his people,  
+To punish crimes is a duty, not defect.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५४९</summary>
@@ -500,14 +499,14 @@ Is flawless duty of a king.        549
 
 <details><summary>मूलम् - ५४९</summary>
 
-कुडिबुऱङ् गात्तोम्बिक् कुऱ्ऱम् कडिदल्
-वडुवऩ्ऱु वेन्दऩ् तॊऴिल्। ५४९
+कुडिबुऱङ् गात्तोम्बिक् कुऱ्ऱम् कडिदल्  
+वडुवऩ्ऱु वेन्दऩ् तॊऴिल्। ५४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५५०</summary>
 
-कॊलैयिऱ् कॊडियारै वेन्दॊऱुत्तल् पैङ्गूऴ्
-कळैगट् टदऩॊडु नेर्। ५५०
+कॊलैयिऱ् कॊडियारै वेन्दॊऱुत्तल् पैङ्गूऴ्  
+कळैगट् टदऩॊडु नेर्। ५५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५५०</summary>
@@ -518,10 +517,10 @@ Is flawless duty of a king.        549
 
 <details><summary>NVK Ashraf choice (en) - ५५०</summary>
 
-०५५०
-A king punishing criminals by execution
-Is like a farmer removing weeds from his fields.*
-(Satguru Subramuniyaswami)
+०५५०  
+A king punishing criminals by execution  
+Is like a farmer removing weeds from his fields.*  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५५०</summary>
@@ -554,7 +553,7 @@ Weeds removes from cropful field.        550
 
 <details><summary>मूलम् - ५५०</summary>
 
-कॊलैयिऱ् कॊडियारै वेन्दॊऱुत्तल् पैङ्गूऴ्
-कळैगट् टदऩॊडु नेर्। ५५०
+कॊलैयिऱ् कॊडियारै वेन्दॊऱुत्तल् पैङ्गूऴ्  
+कळैगट् टदऩॊडु नेर्। ५५०  
 </details>
 

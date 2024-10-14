@@ -3,11 +3,10 @@ title = "०७ नाणुडैमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०११</summary>
 
-करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्
-नल्लवर् नाणुप् पिऱ। १०११
+करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्  
+नल्लवर् नाणुप् पिऱ। १०११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०११</summary>
@@ -19,10 +18,10 @@ title = "०७ नाणुडैमै"
 
 <details><summary>NVK Ashraf choice (en) - १०११</summary>
 
-१०११
-Real shyness is to shy away from shameful acts.
-The rest are like shyness of pretty women.
-(N.V.K. Ashraf)
+१०११  
+Real shyness is to shy away from shameful acts.  
+The rest are like shyness of pretty women.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०११</summary>
@@ -62,14 +61,14 @@ The rest is blush of fair-faced dame.        1011
 
 <details><summary>मूलम् - १०११</summary>
 
-करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्
-नल्लवर् नाणुप् पिऱ। १०११
+करुमत्ताल् नाणुदल् नाणुन् दिरुनुदल्  
+नल्लवर् नाणुप् पिऱ। १०११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१२</summary>
 
-ऊणुडै ऎच्चम् उयिर्क्कॆल्लाम् वेऱल्ल
-नाणुडैमै मान्दर् सिऱप्पु। १०१२
+ऊणुडै ऎच्चम् उयिर्क्कॆल्लाम् वेऱल्ल  
+नाणुडैमै मान्दर् सिऱप्पु। १०१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१२</summary>
@@ -80,10 +79,10 @@ The rest is blush of fair-faced dame.        1011
 
 <details><summary>NVK Ashraf choice (en) - १०१२</summary>
 
-१०१२
-Food, clothing and the rest are common to all.
-Distinction comes from sensitivity to shame. *
-(P.S. Sundaram)
+१०१२  
+Food, clothing and the rest are common to all.  
+Distinction comes from sensitivity to shame. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१२</summary>
@@ -118,14 +117,14 @@ Modesty marks the higher soul.        1012
 
 <details><summary>मूलम् - १०१२</summary>
 
-ऊणुडै ऎच्चम् उयिर्क्कॆल्लाम् वेऱल्ल
-नाणुडैमै मान्दर् सिऱप्पु। १०१२
+ऊणुडै ऎच्चम् उयिर्क्कॆल्लाम् वेऱल्ल  
+नाणुडैमै मान्दर् सिऱप्पु। १०१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१३</summary>
 
-ऊऩैक् कुऱित्त उयिरॆल्लाम् नाण्ऎऩ्ऩुम्
-नऩ्मै कुऱित्तदु साल्बु। १०१३
+ऊऩैक् कुऱित्त उयिरॆल्लाम् नाण्ऎऩ्ऩुम्  
+नऩ्मै कुऱित्तदु साल्बु। १०१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१३</summary>
@@ -136,10 +135,10 @@ Modesty marks the higher soul.        1012
 
 <details><summary>NVK Ashraf choice (en) - १०१३</summary>
 
-१०१३
-All souls abide in the body
-And the goodness called modesty in perfection.
-(N.V.K. Ashraf)
+१०१३  
+All souls abide in the body  
+And the goodness called modesty in perfection.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१३</summary>
@@ -174,14 +173,14 @@ Perfection has its home in blush.        1013
 
 <details><summary>मूलम् - १०१३</summary>
 
-ऊऩैक् कुऱित्त उयिरॆल्लाम् नाण्ऎऩ्ऩुम्
-नऩ्मै कुऱित्तदु साल्बु। १०१३
+ऊऩैक् कुऱित्त उयिरॆल्लाम् नाण्ऎऩ्ऩुम्  
+नऩ्मै कुऱित्तदु साल्बु। १०१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१४</summary>
 
-अणिअऩ्ऱो नाणुडैमै साऩ्ऱोर्क्कु अह्दिऩ्ऱेल्
-पिणिअऩ्ऱो पीडु नडै। १०१४
+अणिअऩ्ऱो नाणुडैमै साऩ्ऱोर्क्कु अह्दिऩ्ऱेल्  
+पिणिअऩ्ऱो पीडु नडै। १०१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१४</summary>
@@ -192,10 +191,10 @@ Perfection has its home in blush.        1013
 
 <details><summary>NVK Ashraf choice (en) - १०१४</summary>
 
-१०१४
-Is not modesty the jewel of the great,
-And without it a curse for their pride and demeanor? *
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+१०१४  
+Is not modesty the jewel of the great,  
+And without it a curse for their pride and demeanor? *  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१४</summary>
@@ -230,14 +229,14 @@ Shameless swagger is vanity.        1014
 
 <details><summary>मूलम् - १०१४</summary>
 
-अणिअऩ्ऱो नाणुडैमै साऩ्ऱोर्क्कु अह्दिऩ्ऱेल्
-पिणिअऩ्ऱो पीडु नडै। १०१४
+अणिअऩ्ऱो नाणुडैमै साऩ्ऱोर्क्कु अह्दिऩ्ऱेल्  
+पिणिअऩ्ऱो पीडु नडै। १०१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१५</summary>
 
-पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु
-उऱैबदि ऎऩ्ऩुम् उलगु। १०१५
+पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु  
+उऱैबदि ऎऩ्ऩुम् उलगु। १०१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१५</summary>
@@ -248,10 +247,10 @@ Shameless swagger is vanity.        1014
 
 <details><summary>NVK Ashraf choice (en) - १०१५</summary>
 
-१०१५
-To the world, the sense of shame resides in them
-Who blush for their and others’ blame. *
-( Shuddhananda Bharatiar)
+१०१५  
+To the world, the sense of shame resides in them  
+Who blush for their and others’ blame. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१५</summary>
@@ -286,14 +285,14 @@ Who blush for their and other's blame.        1015
 
 <details><summary>मूलम् - १०१५</summary>
 
-पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु
-उऱैबदि ऎऩ्ऩुम् उलगु। १०१५
+पिऱर्बऴियुम् तम्बऴियुम् नाणुवार् नाणुक्कु  
+उऱैबदि ऎऩ्ऩुम् उलगु। १०१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१६</summary>
 
-नाण्वेलि कॊळ्ळादु मऩ्ऩो वियऩ्ञालम्
-पेणलर् मेला यवर्। १०१६
+नाण्वेलि कॊळ्ळादु मऩ्ऩो वियऩ्ञालम्  
+पेणलर् मेला यवर्। १०१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१६</summary>
@@ -304,10 +303,10 @@ Who blush for their and other's blame.        1015
 
 <details><summary>NVK Ashraf choice (en) - १०१६</summary>
 
-१०१६
-The great would rather defend with modesty's barricade
-Than breach it to acquire the vast world. *
-(Satguru Subramuniyaswami)
+१०१६  
+The great would rather defend with modesty's barricade  
+Than breach it to acquire the vast world. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१६</summary>
@@ -342,14 +341,14 @@ Without modesty's hedge and shield.        1016
 
 <details><summary>मूलम् - १०१६</summary>
 
-नाण्वेलि कॊळ्ळादु मऩ्ऩो वियऩ्ञालम्
-पेणलर् मेला यवर्। १०१६
+नाण्वेलि कॊळ्ळादु मऩ्ऩो वियऩ्ञालम्  
+पेणलर् मेला यवर्। १०१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१७</summary>
 
-नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्
-नाण्दुऱवार् नाणाळ् पवर्। १०१७
+नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्  
+नाण्दुऱवार् नाणाळ् पवर्। १०१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१७</summary>
@@ -360,10 +359,10 @@ Without modesty's hedge and shield.        1016
 
 <details><summary>NVK Ashraf choice (en) - १०१७</summary>
 
-१०१७
-Men of honour give up life for honour’s sake,
-But never abandon honour to save life. *
-(C. Rajagopalachari)
+१०१७  
+Men of honour give up life for honour’s sake,  
+But never abandon honour to save life. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०१७</summary>
@@ -403,14 +402,14 @@ Loss of shame they won't outlive.        1017
 
 <details><summary>मूलम् - १०१७</summary>
 
-नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्
-नाण्दुऱवार् नाणाळ् पवर्। १०१७
+नाणाल् उयिरैत् तुऱप्पर् उयिर्प्पॊरुट्टाल्  
+नाण्दुऱवार् नाणाळ् पवर्। १०१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१८</summary>
 
-पिऱर्नाणत् तक्कदु ताऩ्नाणा ऩायिऩ्
-अऱम्नाणत् तक्कदु उडैत्तु। १०१८
+पिऱर्नाणत् तक्कदु ताऩ्नाणा ऩायिऩ्  
+अऱम्नाणत् तक्कदु उडैत्तु। १०१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१८</summary>
@@ -421,10 +420,10 @@ Loss of shame they won't outlive.        1017
 
 <details><summary>NVK Ashraf choice (en) - १०१८</summary>
 
-१०१८
-Virtue will shy away from one who does not shy away
-From what others shy from. *
-(P.S. Sundaram)
+१०१८  
+Virtue will shy away from one who does not shy away  
+From what others shy from. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१८</summary>
@@ -458,14 +457,14 @@ Who shameless does what others shame.        1018
 
 <details><summary>मूलम् - १०१८</summary>
 
-पिऱर्नाणत् तक्कदु ताऩ्नाणा ऩायिऩ्
-अऱम्नाणत् तक्कदु उडैत्तु। १०१८
+पिऱर्नाणत् तक्कदु ताऩ्नाणा ऩायिऩ्  
+अऱम्नाणत् तक्कदु उडैत्तु। १०१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१९</summary>
 
-कुलञ्जुडुम् कॊळ्गै पिऴैप्पिऩ् नलञ्जुडुम्
-नाणिऩ्मै निऩ्ऱक् कडै। १०१९
+कुलञ्जुडुम् कॊळ्गै पिऴैप्पिऩ् नलञ्जुडुम्  
+नाणिऩ्मै निऩ्ऱक् कडै। १०१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१९</summary>
@@ -476,10 +475,10 @@ Who shameless does what others shame.        1018
 
 <details><summary>NVK Ashraf choice (en) - १०१९</summary>
 
-१०१९
-Lapse in manners injures the family,
-But every good is lost by lack of shame. *
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+१०१९  
+Lapse in manners injures the family,  
+But every good is lost by lack of shame. *  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१९</summary>
@@ -514,14 +513,14 @@ Want of shame harms every good grace.        1019
 
 <details><summary>मूलम् - १०१९</summary>
 
-कुलञ्जुडुम् कॊळ्गै पिऴैप्पिऩ् नलञ्जुडुम्
-नाणिऩ्मै निऩ्ऱक् कडै। १०१९
+कुलञ्जुडुम् कॊळ्गै पिऴैप्पिऩ् नलञ्जुडुम्  
+नाणिऩ्मै निऩ्ऱक् कडै। १०१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२०</summary>
 
-नाण्अगत् तिल्लार् इयक्कम् मरप्पावै
-नाणाल् उयिर्मरुट्टि अऱ्ऱु। १०२०
+नाण्अगत् तिल्लार् इयक्कम् मरप्पावै  
+नाणाल् उयिर्मरुट्टि अऱ्ऱु। १०२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२०</summary>
@@ -532,10 +531,10 @@ Want of shame harms every good grace.        1019
 
 <details><summary>NVK Ashraf choice (en) - १०२०</summary>
 
-१०२०
-The moves of those devoid of conscience
-Are like those of puppets moved by a string. *
-(K. Kannan)
+१०२०  
+The moves of those devoid of conscience  
+Are like those of puppets moved by a string. *  
+(K. Kannan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०२०</summary>
@@ -574,7 +573,7 @@ Are string-led puppet show in fact.        1020
 
 <details><summary>मूलम् - १०२०</summary>
 
-नाण्अगत् तिल्लार् इयक्कम् मरप्पावै
-नाणाल् उयिर्मरुट्टि अऱ्ऱु। १०२०
+नाण्अगत् तिल्लार् इयक्कम् मरप्पावै  
+नाणाल् उयिर्मरुट्टि अऱ्ऱु। १०२०  
 </details>
 

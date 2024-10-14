@@ -3,11 +3,10 @@ title = "०५ कादऱ्\u200cचिऱप्पुरैत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११२१</summary>
 
-पालॊडु तेऩ्कलन् दऱ्ऱे पणिमॊऴि
-वालॆयिऱु ऊऱिय नीर्। ११२१
+पालॊडु तेऩ्कलन् दऱ्ऱे पणिमॊऴि  
+वालॆयिऱु ऊऱिय नीर्। ११२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२१</summary>
@@ -18,10 +17,10 @@ title = "०५ कादऱ्\u200cचिऱप्पुरैत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - ११२१</summary>
 
-११२१
-Like a mixture of milk and honey,
-Is the drool that drips through her pearly teeth.
-(N.V.K. Ashraf)
+११२१  
+Like a mixture of milk and honey,  
+Is the drool that drips through her pearly teeth.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२१</summary>
@@ -54,14 +53,14 @@ From her white teeth whose word is soft.        1121
 
 <details><summary>मूलम् - ११२१</summary>
 
-पालॊडु तेऩ्कलन् दऱ्ऱे पणिमॊऴि
-वालॆयिऱु ऊऱिय नीर्। ११२१
+पालॊडु तेऩ्कलन् दऱ्ऱे पणिमॊऴि  
+वालॆयिऱु ऊऱिय नीर्। ११२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२२</summary>
 
-उडम्बॊडु उयिरिडै ऎऩ्ऩमऱ् ऱऩ्ऩ
-मडन्दैयॊडु ऎम्मिडै नट्पु। ११२२
+उडम्बॊडु उयिरिडै ऎऩ्ऩमऱ् ऱऩ्ऩ  
+मडन्दैयॊडु ऎम्मिडै नट्पु। ११२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२२</summary>
@@ -72,10 +71,10 @@ From her white teeth whose word is soft.        1121
 
 <details><summary>NVK Ashraf choice (en) - ११२२</summary>
 
-११२२
-The bond between me and this damsel
-Is like the union of body and soul. *
-(W.H. Drew and J. Lazarus)
+११२२  
+The bond between me and this damsel  
+Is like the union of body and soul. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२२</summary>
@@ -109,14 +108,14 @@ Is like bond between soul and body.        1122
 
 <details><summary>मूलम् - ११२२</summary>
 
-उडम्बॊडु उयिरिडै ऎऩ्ऩमऱ् ऱऩ्ऩ
-मडन्दैयॊडु ऎम्मिडै नट्पु। ११२२
+उडम्बॊडु उयिरिडै ऎऩ्ऩमऱ् ऱऩ्ऩ  
+मडन्दैयॊडु ऎम्मिडै नट्पु। ११२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२३</summary>
 
-करुमणियिऱ् पावाय्नी पोदायाम् वीऴुम्
-तिरुनुदऱ्कु इल्लै इडम्। ११२३
+करुमणियिऱ् पावाय्नी पोदायाम् वीऴुम्  
+तिरुनुदऱ्कु इल्लै इडम्। ११२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२३</summary>
@@ -127,10 +126,10 @@ Is like bond between soul and body.        1122
 
 <details><summary>NVK Ashraf choice (en) - ११२३</summary>
 
-११२३
-O pupil of my eye! Be gone,
-For there is no place for the maiden I love. *
-(M.S. Poornalingam Pillai)
+११२३  
+O pupil of my eye! Be gone,  
+For there is no place for the maiden I love. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२३</summary>
@@ -164,14 +163,14 @@ Giving room to my fair-browed belle!        1123
 
 <details><summary>मूलम् - ११२३</summary>
 
-करुमणियिऱ् पावाय्नी पोदायाम् वीऴुम्
-तिरुनुदऱ्कु इल्लै इडम्। ११२३
+करुमणियिऱ् पावाय्नी पोदायाम् वीऴुम्  
+तिरुनुदऱ्कु इल्लै इडम्। ११२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२४</summary>
 
-वाऴ्दल् उयिर्क्कऩ्ऩळ् आयिऴै सादल्
-अदऱ्कऩ्ऩळ् नीङ्गुम् इडत्तु। ११२४
+वाऴ्दल् उयिर्क्कऩ्ऩळ् आयिऴै सादल्  
+अदऱ्कऩ्ऩळ् नीङ्गुम् इडत्तु। ११२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२४</summary>
@@ -182,10 +181,10 @@ Giving room to my fair-browed belle!        1123
 
 <details><summary>NVK Ashraf choice (en) - ११२४</summary>
 
-११२४
-Life is lively when she is around,
-But dreadful when she leaves.
-(N.V.K. Ashraf)
+११२४  
+Life is lively when she is around,  
+But dreadful when she leaves.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११२४</summary>
@@ -224,14 +223,14 @@ Death it is her severance.        1124
 
 <details><summary>मूलम् - ११२४</summary>
 
-वाऴ्दल् उयिर्क्कऩ्ऩळ् आयिऴै सादल्
-अदऱ्कऩ्ऩळ् नीङ्गुम् इडत्तु। ११२४
+वाऴ्दल् उयिर्क्कऩ्ऩळ् आयिऴै सादल्  
+अदऱ्कऩ्ऩळ् नीङ्गुम् इडत्तु। ११२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२५</summary>
 
-उळ्ळुवऩ् मऩ्याऩ् मऱप्पिऩ् मऱप्पऱियेऩ्
-ऒळ्ळमर्क् कण्णाळ् कुणम्। ११२५
+उळ्ळुवऩ् मऩ्याऩ् मऱप्पिऩ् मऱप्पऱियेऩ्  
+ऒळ्ळमर्क् कण्णाळ् कुणम्। ११२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२५</summary>
@@ -242,10 +241,10 @@ Death it is her severance.        1124
 
 <details><summary>NVK Ashraf choice (en) - ११२५</summary>
 
-११२५
-Recollection is needed if only I forget.
-How can I forget her dazzling warring eyes!
-(N.V.K. Ashraf)
+११२५  
+Recollection is needed if only I forget.  
+How can I forget her dazzling warring eyes!  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२५</summary>
@@ -279,14 +278,14 @@ The charms of her bright battling eyes.        1125
 
 <details><summary>मूलम् - ११२५</summary>
 
-उळ्ळुवऩ् मऩ्याऩ् मऱप्पिऩ् मऱप्पऱियेऩ्
-ऒळ्ळमर्क् कण्णाळ् कुणम्। ११२५
+उळ्ळुवऩ् मऩ्याऩ् मऱप्पिऩ् मऱप्पऱियेऩ्  
+ऒळ्ळमर्क् कण्णाळ् कुणम्। ११२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२६</summary>
 
-कण्णुळ्ळिऩ् पोगार् इमैप्पिऩ् परुगुवरा
-नुण्णियर्ऎम् काद लवर्। ११२६
+कण्णुळ्ळिऩ् पोगार् इमैप्पिऩ् परुगुवरा  
+नुण्णियर्ऎम् काद लवर्। ११२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२६</summary>
@@ -297,10 +296,10 @@ The charms of her bright battling eyes.        1125
 
 <details><summary>NVK Ashraf choice (en) - ११२६</summary>
 
-११२६
-So subtle is my lover’s form that he neither leaves my eyes
-Nor is he hurt when I wink. *
-( Shuddhananda Bharatiar), (V.V.S. Aiyar)
+११२६  
+So subtle is my lover’s form that he neither leaves my eyes  
+Nor is he hurt when I wink. *  
+( Shuddhananda Bharatiar), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२६</summary>
@@ -334,14 +333,14 @@ Ever in my eyes winking, no harm.        1126
 
 <details><summary>मूलम् - ११२६</summary>
 
-कण्णुळ्ळिऩ् पोगार् इमैप्पिऩ् परुगुवरा
-नुण्णियर्ऎम् काद लवर्। ११२६
+कण्णुळ्ळिऩ् पोगार् इमैप्पिऩ् परुगुवरा  
+नुण्णियर्ऎम् काद लवर्। ११२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२७</summary>
 
-कण्णुळ्ळार् काद लवरागक् कण्णुम्
-ऎऴुदेम् करप्पाक्कु अऱिन्दु। ११२७
+कण्णुळ्ळार् काद लवरागक् कण्णुम्  
+ऎऴुदेम् करप्पाक्कु अऱिन्दु। ११२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२७</summary>
@@ -352,10 +351,10 @@ Ever in my eyes winking, no harm.        1126
 
 <details><summary>NVK Ashraf choice (en) - ११२७</summary>
 
-११२७
-I will not paint my eyes and so lose
-Even for a trice the sight of my love.
-(P.S. Sundaram)
+११२७  
+I will not paint my eyes and so lose  
+Even for a trice the sight of my love.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२७</summary>
@@ -389,14 +388,14 @@ I paint them not lest he hides.        1127
 
 <details><summary>मूलम् - ११२७</summary>
 
-कण्णुळ्ळार् काद लवरागक् कण्णुम्
-ऎऴुदेम् करप्पाक्कु अऱिन्दु। ११२७
+कण्णुळ्ळार् काद लवरागक् कण्णुम्  
+ऎऴुदेम् करप्पाक्कु अऱिन्दु। ११२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२८</summary>
 
-नॆञ्जत्तार् काद लवराग वॆय्दुण्डल्
-अञ्जुदुम् वेबाक् कऱिन्दु। ११२८
+नॆञ्जत्तार् काद लवराग वॆय्दुण्डल्  
+अञ्जुदुम् वेबाक् कऱिन्दु। ११२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२८</summary>
@@ -407,10 +406,10 @@ I paint them not lest he hides.        1127
 
 <details><summary>NVK Ashraf choice (en) - ११२८</summary>
 
-११२८
-I dare not swallow anything hot
-Lest it hurt my lover within me!
-(P.S. Sundaram)
+११२८  
+I dare not swallow anything hot  
+Lest it hurt my lover within me!  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२८</summary>
@@ -444,14 +443,14 @@ I fear hot food lest he feels hot.        1128
 
 <details><summary>मूलम् - ११२८</summary>
 
-नॆञ्जत्तार् काद लवराग वॆय्दुण्डल्
-अञ्जुदुम् वेबाक् कऱिन्दु। ११२८
+नॆञ्जत्तार् काद लवराग वॆय्दुण्डल्  
+अञ्जुदुम् वेबाक् कऱिन्दु। ११२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११२९</summary>
 
-इमैप्पिऩ् करप्पाक्कु अऱिवल् अऩैत्तिऱ्के
-एदिलर् ऎऩ्ऩुम् इव् वूर्। ११२९
+इमैप्पिऩ् करप्पाक्कु अऱिवल् अऩैत्तिऱ्के  
+एदिलर् ऎऩ्ऩुम् इव् वूर्। ११२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२९</summary>
@@ -462,10 +461,10 @@ I fear hot food lest he feels hot.        1128
 
 <details><summary>NVK Ashraf choice (en) - ११२९</summary>
 
-११२९
-My eyes don’t close for fear of losing him.
-Seeing this, folks blame him for desertion.
-(N.V.K. Ashraf)
+११२९  
+My eyes don’t close for fear of losing him.  
+Seeing this, folks blame him for desertion.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२९</summary>
@@ -499,14 +498,14 @@ And him as cruel the townsmen chide.        1129
 
 <details><summary>मूलम् - ११२९</summary>
 
-इमैप्पिऩ् करप्पाक्कु अऱिवल् अऩैत्तिऱ्के
-एदिलर् ऎऩ्ऩुम् इव् वूर्। ११२९
+इमैप्पिऩ् करप्पाक्कु अऱिवल् अऩैत्तिऱ्के  
+एदिलर् ऎऩ्ऩुम् इव् वूर्। ११२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११३०</summary>
 
-उवन्दुऱैवर् उळ्ळत्तुळ् ऎऩ्ऱुम् इगन्दुऱैवर्
-एदिलर् ऎऩ्ऩुम् इव् वूर्। ११३०
+उवन्दुऱैवर् उळ्ळत्तुळ् ऎऩ्ऱुम् इगन्दुऱैवर्  
+एदिलर् ऎऩ्ऩुम् इव् वूर्। ११३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३०</summary>
@@ -517,10 +516,10 @@ And him as cruel the townsmen chide.        1129
 
 <details><summary>NVK Ashraf choice (en) - ११३०</summary>
 
-११३०
-He dwells gladly forever in my heart.
-And the folks say he is loveless and has left me. *
-(P.S. Sundaram)
+११३०  
+He dwells gladly forever in my heart.  
+And the folks say he is loveless and has left me. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३०</summary>
@@ -553,7 +552,7 @@ But people mistake he is apart.        1130
 
 <details><summary>मूलम् - ११३०</summary>
 
-उवन्दुऱैवर् उळ्ळत्तुळ् ऎऩ्ऱुम् इगन्दुऱैवर्
-एदिलर् ऎऩ्ऩुम् इव् वूर्। ११३०
+उवन्दुऱैवर् उळ्ळत्तुळ् ऎऩ्ऱुम् इगन्दुऱैवर्  
+एदिलर् ऎऩ्ऩुम् इव् वूर्। ११३०  
 </details>
 

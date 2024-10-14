@@ -3,11 +3,10 @@ title = "०४ कूडावॊऴुक्कम्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २७१</summary>
 
-वञ्ज मऩत्ताऩ् पडिऱ्ऱॊऴुक्कम् पूदङ्गळ्
-ऐन्दुम् अगत्ते नगुम्। २७१
+वञ्ज मऩत्ताऩ् पडिऱ्ऱॊऴुक्कम् पूदङ्गळ्  
+ऐन्दुम् अगत्ते नगुम्। २७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७१</summary>
@@ -18,10 +17,10 @@ title = "०४ कूडावॊऴुक्कम्"
 
 <details><summary>NVK Ashraf choice (en) - २७१</summary>
 
-०२७१
-The five elements will laugh within
-At a hypocrite's lying conduct.
-(P.S. Sundaram)
+०२७१  
+The five elements will laugh within  
+At a hypocrite's lying conduct.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७१</summary>
@@ -55,14 +54,14 @@ Of a sly hypocrite within laugh.        271
 
 <details><summary>मूलम् - २७१</summary>
 
-वञ्ज मऩत्ताऩ् पडिऱ्ऱॊऴुक्कम् पूदङ्गळ्
-ऐन्दुम् अगत्ते नगुम्। २७१
+वञ्ज मऩत्ताऩ् पडिऱ्ऱॊऴुक्कम् पूदङ्गळ्  
+ऐन्दुम् अगत्ते नगुम्। २७१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७२</summary>
 
-वाऩुयर् तोऱ्ऱम् ऎवऩ्सॆय्युम् तऩ्ऩॆञ्जम्
-ताऩ्अऱि कुऱ्ऱप् पडिऩ्। २७२
+वाऩुयर् तोऱ्ऱम् ऎवऩ्सॆय्युम् तऩ्ऩॆञ्जम्  
+ताऩ्अऱि कुऱ्ऱप् पडिऩ्। २७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७२</summary>
@@ -73,10 +72,10 @@ Of a sly hypocrite within laugh.        271
 
 <details><summary>NVK Ashraf choice (en) - २७२</summary>
 
-०२७२
+०२७२  
 What use is a sky-high pose to one 
-Who knowingly does wrong?
-(P.S. Sundaram)
+Who knowingly does wrong?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७२</summary>
@@ -111,14 +110,14 @@ When guild the conscience gnaws and knows.        272
 
 <details><summary>मूलम् - २७२</summary>
 
-वाऩुयर् तोऱ्ऱम् ऎवऩ्सॆय्युम् तऩ्ऩॆञ्जम्
-ताऩ्अऱि कुऱ्ऱप् पडिऩ्। २७२
+वाऩुयर् तोऱ्ऱम् ऎवऩ्सॆय्युम् तऩ्ऩॆञ्जम्  
+ताऩ्अऱि कुऱ्ऱप् पडिऩ्। २७२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७३</summary>
 
-वलियिल् निलैमैयाऩ् वल्लुरुवम् पॆऱ्ऱम्
-पुलियिऩ्तोल् पोर्त्तुमेय्न् दऱ्ऱु। २७३
+वलियिल् निलैमैयाऩ् वल्लुरुवम् पॆऱ्ऱम्  
+पुलियिऩ्तोल् पोर्त्तुमेय्न् दऱ्ऱु। २७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७३</summary>
@@ -129,10 +128,10 @@ When guild the conscience gnaws and knows.        272
 
 <details><summary>NVK Ashraf choice (en) - २७३</summary>
 
-०२७३
-A weakling posing a giant form
-Is an ox grazing in a tiger's skin. *
-(P.S. Sundaram)
+०२७३  
+A weakling posing a giant form  
+Is an ox grazing in a tiger's skin. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७३</summary>
@@ -167,14 +166,14 @@ Seems a grazer with tiger skin.        273
 
 <details><summary>मूलम् - २७३</summary>
 
-वलियिल् निलैमैयाऩ् वल्लुरुवम् पॆऱ्ऱम्
-पुलियिऩ्तोल् पोर्त्तुमेय्न् दऱ्ऱु। २७३
+वलियिल् निलैमैयाऩ् वल्लुरुवम् पॆऱ्ऱम्  
+पुलियिऩ्तोल् पोर्त्तुमेय्न् दऱ्ऱु। २७३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७४</summary>
 
-तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु
-वेट्टुवऩ् पुळ्सिमिऴ्त् तऱ्ऱु। २७४
+तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु  
+वेट्टुवऩ् पुळ्सिमिऴ्त् तऱ्ऱु। २७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७४</summary>
@@ -185,10 +184,10 @@ Seems a grazer with tiger skin.        273
 
 <details><summary>NVK Ashraf choice (en) - २७४</summary>
 
-०२७४
-A posing ascetic who sins secretly
-Is like a fowler hiding in bush to trap birds. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+०२७४  
+A posing ascetic who sins secretly  
+Is like a fowler hiding in bush to trap birds. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७४</summary>
@@ -223,14 +222,14 @@ Fowlers in ambush birds to strike.        274
 
 <details><summary>मूलम् - २७४</summary>
 
-तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु
-वेट्टुवऩ् पुळ्सिमिऴ्त् तऱ्ऱु। २७४
+तवमऱैन्दु अल्लवै सॆय्दल् पुदल्मऱैन्दु  
+वेट्टुवऩ् पुळ्सिमिऴ्त् तऱ्ऱु। २७४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७५</summary>
 
-पऱ्ऱऱ्ऱेम् ऎऩ्पार् पडिऱ्ऱॊऴुक्कम् ऎऱ्ऱॆऱ्ऱॆऩ्ऱु
-एदम् पलवुन् दरुम्। २७५
+पऱ्ऱऱ्ऱेम् ऎऩ्पार् पडिऱ्ऱॊऴुक्कम् ऎऱ्ऱॆऱ्ऱॆऩ्ऱु  
+एदम् पलवुन् दरुम्। २७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७५</summary>
@@ -241,10 +240,10 @@ Fowlers in ambush birds to strike.        274
 
 <details><summary>NVK Ashraf choice (en) - २७५</summary>
 
-०२७५
-The deceitful acts of those claiming dispassion
-Will make them exclaim in pain, "Alas! Alas!" *
-(Satguru Subramuniyaswami)
+०२७५  
+The deceitful acts of those claiming dispassion  
+Will make them exclaim in pain, "Alas! Alas!" *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७५</summary>
@@ -279,14 +278,14 @@ Shall moan "What have we done" with pain.        275
 
 <details><summary>मूलम् - २७५</summary>
 
-पऱ्ऱऱ्ऱेम् ऎऩ्पार् पडिऱ्ऱॊऴुक्कम् ऎऱ्ऱॆऱ्ऱॆऩ्ऱु
-एदम् पलवुन् दरुम्। २७५
+पऱ्ऱऱ्ऱेम् ऎऩ्पार् पडिऱ्ऱॊऴुक्कम् ऎऱ्ऱॆऱ्ऱॆऩ्ऱु  
+एदम् पलवुन् दरुम्। २७५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७६</summary>
 
-नॆञ्जिऩ् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु
-वाऴ्वारिऩ् वऩ्कणार् इल्। २७६
+नॆञ्जिऩ् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु  
+वाऴ्वारिऩ् वऩ्कणार् इल्। २७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७६</summary>
@@ -297,10 +296,10 @@ Shall moan "What have we done" with pain.        275
 
 <details><summary>NVK Ashraf choice (en) - २७६</summary>
 
-०२७६
-None so cruel as the posing ascetic
-Who lives by deceit without renouncing by heart. *
-(N.V.K. Ashraf), (P.S. Sundaram)
+०२७६  
+None so cruel as the posing ascetic  
+Who lives by deceit without renouncing by heart. *  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७६</summary>
@@ -334,14 +333,14 @@ Cheating the world without restraint.        276
 
 <details><summary>मूलम् - २७६</summary>
 
-नॆञ्जिऩ् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु
-वाऴ्वारिऩ् वऩ्कणार् इल्। २७६
+नॆञ्जिऩ् तुऱवार् तुऱन्दार्बोल् वञ्जित्तु  
+वाऴ्वारिऩ् वऩ्कणार् इल्। २७६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७७</summary>
 
-पुऱङ्गुऩ्ऱि कण्डऩैय रेऩुम् अगङ्गुऩ्ऱि
-मुक्किऱ् करियार् उडैत्तु। २७७
+पुऱङ्गुऩ्ऱि कण्डऩैय रेऩुम् अगङ्गुऩ्ऱि  
+मुक्किऱ् करियार् उडैत्तु। २७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७७</summary>
@@ -352,10 +351,10 @@ Cheating the world without restraint.        276
 
 <details><summary>NVK Ashraf choice (en) - २७७</summary>
 
-०२७७
-Like the kunri - red to view but black on top
-Are many, ochre-robed but black within.
-(P.S. Sundaram)
+०२७७  
+Like the kunri - red to view but black on top  
+Are many, ochre-robed but black within.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २७७</summary>
@@ -395,14 +394,14 @@ Black like its nose his inward hue.        277
 
 <details><summary>मूलम् - २७७</summary>
 
-पुऱङ्गुऩ्ऱि कण्डऩैय रेऩुम् अगङ्गुऩ्ऱि
-मुक्किऱ् करियार् उडैत्तु। २७७
+पुऱङ्गुऩ्ऱि कण्डऩैय रेऩुम् अगङ्गुऩ्ऱि  
+मुक्किऱ् करियार् उडैत्तु। २७७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७८</summary>
 
-मऩत्तदु मासाग माण्डार् नीराडि
-मऱैन्दॊऴुगु मान्दर् पलर्। २७८
+मऩत्तदु मासाग माण्डार् नीराडि  
+मऱैन्दॊऴुगु मान्दर् पलर्। २७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७८</summary>
@@ -413,10 +412,10 @@ Black like its nose his inward hue.        277
 
 <details><summary>NVK Ashraf choice (en) - २७८</summary>
 
-०२७८
-Many spotted minds bathe in holy streams
-And lead a double life.
-(P.S. Sundaram)
+०२७८  
+Many spotted minds bathe in holy streams  
+And lead a double life.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७८</summary>
@@ -451,14 +450,14 @@ Hiding sins in showy extremes.        278
 
 <details><summary>मूलम् - २७८</summary>
 
-मऩत्तदु मासाग माण्डार् नीराडि
-मऱैन्दॊऴुगु मान्दर् पलर्। २७८
+मऩत्तदु मासाग माण्डार् नीराडि  
+मऱैन्दॊऴुगु मान्दर् पलर्। २७८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७९</summary>
 
-कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गऩ्ऩ
-विऩैबडु पालाल् कॊळल्। २७९
+कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गऩ्ऩ  
+विऩैबडु पालाल् कॊळल्। २७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७९</summary>
@@ -469,10 +468,10 @@ Hiding sins in showy extremes.        278
 
 <details><summary>NVK Ashraf choice (en) - २७९</summary>
 
-०२७९
-The lute is bent, the arrow straight:
-Judge men not by their looks but acts.
-(P.S. Sundaram)
+०२७९  
+The lute is bent, the arrow straight:  
+Judge men not by their looks but acts.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २७९</summary>
@@ -512,14 +511,14 @@ Strait arrow kills, bent lute but charms.        279
 
 <details><summary>मूलम् - २७९</summary>
 
-कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गऩ्ऩ
-विऩैबडु पालाल् कॊळल्। २७९
+कणैगॊडिदु याऴ्गोडु सॆव्विदुआङ् गऩ्ऩ  
+विऩैबडु पालाल् कॊळल्। २७९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८०</summary>
 
-मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्
-पऴित्तदु ऒऴित्तु विडिऩ्। २८०
+मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्  
+पऴित्तदु ऒऴित्तु विडिऩ्। २८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८०</summary>
@@ -530,10 +529,10 @@ Strait arrow kills, bent lute but charms.        279
 
 <details><summary>NVK Ashraf choice (en) - २८०</summary>
 
-०२८०
-No need of tonsure or long hair,
-If one avoids what the world condemns.
-(P.S. Sundaram)
+०२८०  
+No need of tonsure or long hair,  
+If one avoids what the world condemns.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८०</summary>
@@ -567,7 +566,7 @@ Abstain from condemned acts with care.        280
 
 <details><summary>मूलम् - २८०</summary>
 
-मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्
-पऴित्तदु ऒऴित्तु विडिऩ्। २८०
+मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्  
+पऴित्तदु ऒऴित्तु विडिऩ्। २८०  
 </details>
 

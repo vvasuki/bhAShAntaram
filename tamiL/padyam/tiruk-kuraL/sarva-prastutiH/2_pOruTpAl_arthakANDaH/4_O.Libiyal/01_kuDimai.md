@@ -3,11 +3,10 @@ title = "०१ कुडिमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९५१</summary>
 
-इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्
-चॆप्पमुम् नाणुम् ऒरुङ्गु। ९५१
+इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्  
+चॆप्पमुम् नाणुम् ऒरुङ्गु। ९५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५१</summary>
@@ -19,10 +18,10 @@ title = "०१ कुडिमै"
 
 <details><summary>NVK Ashraf choice (en) - ९५१</summary>
 
-०९५१
-None except the well-born
-Have that natural sense of integrity and shame. *
-(P.S. Sundaram)
+०९५१  
+None except the well-born  
+Have that natural sense of integrity and shame. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५१</summary>
@@ -56,14 +55,14 @@ By nature only the noble-born.        951
 
 <details><summary>मूलम् - ९५१</summary>
 
-इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्
-चॆप्पमुम् नाणुम् ऒरुङ्गु। ९५१
+इऱ्पिऱन्दार् कण्अल्लदु इल्लै इयल्बागच्  
+चॆप्पमुम् नाणुम् ऒरुङ्गु। ९५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५२</summary>
 
-ऒऴुक्कमुम् वाय्मैयुम् नाणुम् इम् मूऩ्ऱुम्
-इऴुक्कार् कुडिप्पिऱन् दार्। ९५२
+ऒऴुक्कमुम् वाय्मैयुम् नाणुम् इम् मूऩ्ऱुम्  
+इऴुक्कार् कुडिप्पिऱन् दार्। ९५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५२</summary>
@@ -74,10 +73,10 @@ By nature only the noble-born.        951
 
 <details><summary>NVK Ashraf choice (en) - ९५२</summary>
 
-०९५२
-Men of birth will never deviate from these three:
-Good manners, truthfulness and modesty. *
-(W.H. Drew and J. Lazarus)
+०९५२  
+Men of birth will never deviate from these three:  
+Good manners, truthfulness and modesty. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५२</summary>
@@ -111,14 +110,14 @@ Good conduct, truth and modesty.        952
 
 <details><summary>मूलम् - ९५२</summary>
 
-ऒऴुक्कमुम् वाय्मैयुम् नाणुम् इम् मूऩ्ऱुम्
-इऴुक्कार् कुडिप्पिऱन् दार्। ९५२
+ऒऴुक्कमुम् वाय्मैयुम् नाणुम् इम् मूऩ्ऱुम्  
+इऴुक्कार् कुडिप्पिऱन् दार्। ९५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५३</summary>
 
-नगैईगै इऩ्सॊल् इगऴामै नाऩ्कुम्
-वगैयॆऩ्प वाय्मैक् कुडिक्कु। ९५३
+नगैईगै इऩ्सॊल् इगऴामै नाऩ्कुम्  
+वगैयॆऩ्प वाय्मैक् कुडिक्कु। ९५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५३</summary>
@@ -129,10 +128,10 @@ Good conduct, truth and modesty.        952
 
 <details><summary>NVK Ashraf choice (en) - ९५३</summary>
 
-०९५३
-A smiling face, a generous heart, sweet words and no scorn;
-These four are said to mark the well-born. *
-(P.S. Sundaram)
+०९५३  
+A smiling face, a generous heart, sweet words and no scorn;  
+These four are said to mark the well-born. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५३</summary>
@@ -167,14 +166,14 @@ These four mark true nobility.        953
 
 <details><summary>मूलम् - ९५३</summary>
 
-नगैईगै इऩ्सॊल् इगऴामै नाऩ्कुम्
-वगैयॆऩ्प वाय्मैक् कुडिक्कु। ९५३
+नगैईगै इऩ्सॊल् इगऴामै नाऩ्कुम्  
+वगैयॆऩ्प वाय्मैक् कुडिक्कु। ९५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५४</summary>
 
-अडुक्किय कोडि पॆऱिऩुम् कुडिप्पिऱन्दार्
-कुऩ्ऱुव सॆय्दल् इलर्। ९५४
+अडुक्किय कोडि पॆऱिऩुम् कुडिप्पिऱन्दार्  
+कुऩ्ऱुव सॆय्दल् इलर्। ९५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५४</summary>
@@ -185,10 +184,10 @@ These four mark true nobility.        953
 
 <details><summary>NVK Ashraf choice (en) - ९५४</summary>
 
-०९५४
-Men of birth will not indulge in mean acts
-Even if offered millions manifold.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०९५४  
+Men of birth will not indulge in mean acts  
+Even if offered millions manifold.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५४</summary>
@@ -223,14 +222,14 @@ Cannot bend to degrading deed.        954
 
 <details><summary>मूलम् - ९५४</summary>
 
-अडुक्किय कोडि पॆऱिऩुम् कुडिप्पिऱन्दार्
-कुऩ्ऱुव सॆय्दल् इलर्। ९५४
+अडुक्किय कोडि पॆऱिऩुम् कुडिप्पिऱन्दार्  
+कुऩ्ऱुव सॆय्दल् इलर्। ९५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५५</summary>
 
-वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि
-पण्बिल् तलैप्पिरिदल् इऩ्ऱु। ९५५
+वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि  
+पण्बिल् तलैप्पिरिदल् इऩ्ऱु। ९५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५५</summary>
@@ -241,10 +240,10 @@ Cannot bend to degrading deed.        954
 
 <details><summary>NVK Ashraf choice (en) - ९५५</summary>
 
-०९५५
-An ancient family may default in charity,
-But never in their conduct. *
-(P.S. Sundaram)
+०९५५  
+An ancient family may default in charity,  
+But never in their conduct. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५५</summary>
@@ -279,14 +278,14 @@ Ancient homes guard their noble trait.        955
 
 <details><summary>मूलम् - ९५५</summary>
 
-वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि
-पण्बिल् तलैप्पिरिदल् इऩ्ऱु। ९५५
+वऴङ्गुव तुळ्वीऴ्न्दक् कण्णुम् पऴङ्गुडि  
+पण्बिल् तलैप्पिरिदल् इऩ्ऱु। ९५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५६</summary>
 
-सलम्बऱ्ऱिच् चाल्बिल सॆय्यार्मा सऱ्ऱ
-कुलम्बऱ्ऱि वाऴ्दुम् ऎऩ् पार्। ९५६
+सलम्बऱ्ऱिच् चाल्बिल सॆय्यार्मा सऱ्ऱ  
+कुलम्बऱ्ऱि वाऴ्दुम् ऎऩ् पार्। ९५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५६</summary>
@@ -297,10 +296,10 @@ Ancient homes guard their noble trait.        955
 
 <details><summary>NVK Ashraf choice (en) - ९५६</summary>
 
-०९५६
-Those wedded to their spotless heritage
-Will do nothing deceitful and ignoble. *
-(P.S. Sundaram)
+०९५६  
+Those wedded to their spotless heritage  
+Will do nothing deceitful and ignoble. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५६</summary>
@@ -334,14 +333,14 @@ Stoop not to acts of cunning lure.        956
 
 <details><summary>मूलम् - ९५६</summary>
 
-सलम्बऱ्ऱिच् चाल्बिल सॆय्यार्मा सऱ्ऱ
-कुलम्बऱ्ऱि वाऴ्दुम् ऎऩ् पार्। ९५६
+सलम्बऱ्ऱिच् चाल्बिल सॆय्यार्मा सऱ्ऱ  
+कुलम्बऱ्ऱि वाऴ्दुम् ऎऩ् पार्। ९५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५७</summary>
 
-कुडिप्पिऱन्दार् कण्विळङ्गुम् कुऱ्ऱम् विसुम्बिऩ्
-मदिक्कण् मऱुप्पोल् उयर्न्दु। ९५७
+कुडिप्पिऱन्दार् कण्विळङ्गुम् कुऱ्ऱम् विसुम्बिऩ्  
+मदिक्कण् मऱुप्पोल् उयर्न्दु। ९५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५७</summary>
@@ -352,10 +351,10 @@ Stoop not to acts of cunning lure.        956
 
 <details><summary>NVK Ashraf choice (en) - ९५७</summary>
 
-०९५७
-Defects in people of noble descent
-Appear prominently as spots on the moon.
-(J. Narayanaswamy)
+०९५७  
+Defects in people of noble descent  
+Appear prominently as spots on the moon.  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९५७</summary>
@@ -395,14 +394,14 @@ Like on the sky the spots of moon.        957
 
 <details><summary>मूलम् - ९५७</summary>
 
-कुडिप्पिऱन्दार् कण्विळङ्गुम् कुऱ्ऱम् विसुम्बिऩ्
-मदिक्कण् मऱुप्पोल् उयर्न्दु। ९५७
+कुडिप्पिऱन्दार् कण्विळङ्गुम् कुऱ्ऱम् विसुम्बिऩ्  
+मदिक्कण् मऱुप्पोल् उयर्न्दु। ९५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५८</summary>
 
-नलत्तिऩ्कण् नारिऩ्मै तोऩ्ऱिऩ् अवऩैक्
-कुलत्तिऩ्कण् ऐयप् पडुम्। ९५८
+नलत्तिऩ्कण् नारिऩ्मै तोऩ्ऱिऩ् अवऩैक्  
+कुलत्तिऩ्कण् ऐयप् पडुम्। ९५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५८</summary>
@@ -413,10 +412,10 @@ Like on the sky the spots of moon.        957
 
 <details><summary>NVK Ashraf choice (en) - ९५८</summary>
 
-०९५८
-Want of affection from one of good family
-Calls in question his descent from it. *
-(W.H. Drew and J. Lazarus)
+०९५८  
+Want of affection from one of good family  
+Calls in question his descent from it. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५८</summary>
@@ -451,14 +450,14 @@ People deem their pedigree crude.        958
 
 <details><summary>मूलम् - ९५८</summary>
 
-नलत्तिऩ्कण् नारिऩ्मै तोऩ्ऱिऩ् अवऩैक्
-कुलत्तिऩ्कण् ऐयप् पडुम्। ९५८
+नलत्तिऩ्कण् नारिऩ्मै तोऩ्ऱिऩ् अवऩैक्  
+कुलत्तिऩ्कण् ऐयप् पडुम्। ९५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९५९</summary>
 
-निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्
-कुलत्तिल् पिऱन्दार्वाय्च् चॊल्। ९५९
+निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्  
+कुलत्तिल् पिऱन्दार्वाय्च् चॊल्। ९५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५९</summary>
@@ -469,10 +468,10 @@ People deem their pedigree crude.        958
 
 <details><summary>NVK Ashraf choice (en) - ९५९</summary>
 
-०९५९
-Nature of sprout indicates the quality of soil;
-So does the quality of speech one’s descent.
-(N.V.K. Ashraf)
+०९५९  
+Nature of sprout indicates the quality of soil;  
+So does the quality of speech one’s descent.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९५९</summary>
@@ -511,14 +510,14 @@ The worth of birth from words flow out.        959
 
 <details><summary>मूलम् - ९५९</summary>
 
-निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्
-कुलत्तिल् पिऱन्दार्वाय्च् चॊल्। ९५९
+निलत्तिल् किडन्दमै काल्गाट्टुम् काट्टुम्  
+कुलत्तिल् पिऱन्दार्वाय्च् चॊल्। ९५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६०</summary>
 
-नलंवेण्डिऩ् नाणुडैमै वेण्डुम् कुलम् वेण्डिऩ्
-वेण्डुग यार्क्कुम् पणिवु। ९६०
+नलंवेण्डिऩ् नाणुडैमै वेण्डुम् कुलम् वेण्डिऩ्  
+वेण्डुग यार्क्कुम् पणिवु। ९६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६०</summary>
@@ -529,10 +528,10 @@ The worth of birth from words flow out.        959
 
 <details><summary>NVK Ashraf choice (en) - ९६०</summary>
 
-०९६०
-There is no good without a sense of shame,
-Nor high birth without politeness.
-(P.S. Sundaram)
+०९६०  
+There is no good without a sense of shame,  
+Nor high birth without politeness.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६०</summary>
@@ -566,7 +565,7 @@ Nobility by humility.        960
 
 <details><summary>मूलम् - ९६०</summary>
 
-नलंवेण्डिऩ् नाणुडैमै वेण्डुम् कुलम् वेण्डिऩ्
-वेण्डुग यार्क्कुम् पणिवु। ९६०
+नलंवेण्डिऩ् नाणुडैमै वेण्डुम् कुलम् वेण्डिऩ्  
+वेण्डुग यार्क्कुम् पणिवु। ९६०  
 </details>
 

@@ -3,11 +3,10 @@ title = "०१ अरुळुडैमै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २४१</summary>
 
-अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्
-पूरियार् कण्णुम् उळ। २४१
+अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्  
+पूरियार् कण्णुम् उळ। २४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४१</summary>
@@ -18,10 +17,10 @@ title = "०१ अरुळुडैमै"
 
 <details><summary>NVK Ashraf choice (en) - २४१</summary>
 
-०२४१
-The wealth of wealth is the wealth of grace.
-Material wealth, even the mean possess. *
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+०२४१  
+The wealth of wealth is the wealth of grace.  
+Material wealth, even the mean possess. *  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४१</summary>
@@ -57,14 +56,14 @@ Earthly wealth e'en the basest has.        241
 
 <details><summary>मूलम् - २४१</summary>
 
-अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्
-पूरियार् कण्णुम् उळ। २४१
+अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्  
+पूरियार् कण्णुम् उळ। २४१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४२</summary>
 
-नल्लाऱ्ऱाळ् नाडि अरुळाळ्ग पल्लाऱ्ऱाल्
-तेरिऩुम् अह्दे तुणै। २४२
+नल्लाऱ्ऱाळ् नाडि अरुळाळ्ग पल्लाऱ्ऱाल्  
+तेरिऩुम् अह्दे तुणै। २४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४२</summary>
@@ -75,10 +74,10 @@ Earthly wealth e'en the basest has.        241
 
 <details><summary>NVK Ashraf choice (en) - २४२</summary>
 
-०२४२
-Obtain grace by seeking the path of goodness.
-That is the aid cited in all paths.
-(N.V.K. Ashraf)
+०२४२  
+Obtain grace by seeking the path of goodness.  
+That is the aid cited in all paths.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४२</summary>
@@ -113,14 +112,14 @@ All faiths mark that for-salvation.        242
 
 <details><summary>मूलम् - २४२</summary>
 
-नल्लाऱ्ऱाळ् नाडि अरुळाळ्ग पल्लाऱ्ऱाल्
-तेरिऩुम् अह्दे तुणै। २४२
+नल्लाऱ्ऱाळ् नाडि अरुळाळ्ग पल्लाऱ्ऱाल्  
+तेरिऩुम् अह्दे तुणै। २४२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४३</summary>
 
-अरुळ्सेर्न्द नॆञ्जिऩार्क् किल्लै इरुळ्सेर्न्द
-इऩ्ऩा उलगम् पुगल्। २४३
+अरुळ्सेर्न्द नॆञ्जिऩार्क् किल्लै इरुळ्सेर्न्द  
+इऩ्ऩा उलगम् पुगल्। २४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४३</summary>
@@ -131,10 +130,10 @@ All faiths mark that for-salvation.        242
 
 <details><summary>NVK Ashraf choice (en) - २४३</summary>
 
-०२४३
-Those who are kind-hearted enter not
-Into the terrible world of darkness.
-(N.V.K. Ashraf)
+०२४३  
+Those who are kind-hearted enter not  
+Into the terrible world of darkness.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४३</summary>
@@ -168,14 +167,14 @@ Into dark worlds of gruesome woe.        243
 
 <details><summary>मूलम् - २४३</summary>
 
-अरुळ्सेर्न्द नॆञ्जिऩार्क् किल्लै इरुळ्सेर्न्द
-इऩ्ऩा उलगम् पुगल्। २४३
+अरुळ्सेर्न्द नॆञ्जिऩार्क् किल्लै इरुळ्सेर्न्द  
+इऩ्ऩा उलगम् पुगल्। २४३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४४</summary>
 
-मऩ्ऩुयिर् ओम्बि अरुळाळ्वार्क् कु इल्लॆऩ्प
-तऩ्ऩुयिर् अञ्जुम् विऩै। २४४
+मऩ्ऩुयिर् ओम्बि अरुळाळ्वार्क् कु इल्लॆऩ्प  
+तऩ्ऩुयिर् अञ्जुम् विऩै। २४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४४</summary>
@@ -186,10 +185,10 @@ Into dark worlds of gruesome woe.        243
 
 <details><summary>NVK Ashraf choice (en) - २४४</summary>
 
-०२४४
-Those who protect other life with kindness
-Need not fear for their own lives.
-(N.V.K. Ashraf)
+०२४४  
+Those who protect other life with kindness  
+Need not fear for their own lives.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४४</summary>
@@ -224,14 +223,14 @@ Whose mercy serveth all beings.        244
 
 <details><summary>मूलम् - २४४</summary>
 
-मऩ्ऩुयिर् ओम्बि अरुळाळ्वार्क् कु इल्लॆऩ्प
-तऩ्ऩुयिर् अञ्जुम् विऩै। २४४
+मऩ्ऩुयिर् ओम्बि अरुळाळ्वार्क् कु इल्लॆऩ्प  
+तऩ्ऩुयिर् अञ्जुम् विऩै। २४४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४५</summary>
 
-अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्
-मल्लऩ्मा ञालङ् गरि। २४५
+अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्  
+मल्लऩ्मा ञालङ् गरि। २४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४५</summary>
@@ -242,10 +241,10 @@ Whose mercy serveth all beings.        244
 
 <details><summary>NVK Ashraf choice (en) - २४५</summary>
 
-०२४५
-This great earth and its biosphere declare
-That sorrows are not for the merciful.
-(N.V.K. Ashraf)
+०२४५  
+This great earth and its biosphere declare  
+That sorrows are not for the merciful.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४५</summary>
@@ -280,14 +279,14 @@ Men of mercy meet not sorrows.        245
 
 <details><summary>मूलम् - २४५</summary>
 
-अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्
-मल्लऩ्मा ञालङ् गरि। २४५
+अल्लल् अरुळाळ्वार्क्कु इल्लै वळिवऴङ्गुम्  
+मल्लऩ्मा ञालङ् गरि। २४५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४६</summary>
 
-पॊरुळ्नीङ्गिप् पॊच्चान्दार् ऎऩ्पर् अरुळ्नीङ्गि
-अल्लवै सॆय्दॊऴुगु वार्। २४६
+पॊरुळ्नीङ्गिप् पॊच्चान्दार् ऎऩ्पर् अरुळ्नीङ्गि  
+अल्लवै सॆय्दॊऴुगु वार्। २४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४६</summary>
@@ -298,10 +297,10 @@ Men of mercy meet not sorrows.        245
 
 <details><summary>NVK Ashraf choice (en) - २४६</summary>
 
-०२४६
-Those who do ill forsaking kindness, they say,
-Must be oblivious of forsaking morality.
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०२४६  
+Those who do ill forsaking kindness, they say,  
+Must be oblivious of forsaking morality.  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४६</summary>
@@ -336,14 +335,14 @@ The former loss and woes forget.        246
 
 <details><summary>मूलम् - २४६</summary>
 
-पॊरुळ्नीङ्गिप् पॊच्चान्दार् ऎऩ्पर् अरुळ्नीङ्गि
-अल्लवै सॆय्दॊऴुगु वार्। २४६
+पॊरुळ्नीङ्गिप् पॊच्चान्दार् ऎऩ्पर् अरुळ्नीङ्गि  
+अल्लवै सॆय्दॊऴुगु वार्। २४६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४७</summary>
 
-अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु
-इव्वुलगम् इल्लागि याङ्गु। २४७
+अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु  
+इव्वुलगम् इल्लागि याङ्गु। २४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४७</summary>
@@ -354,10 +353,10 @@ The former loss and woes forget.        246
 
 <details><summary>NVK Ashraf choice (en) - २४७</summary>
 
-०२४७
-This world is not for the poor,
-Nor the next for the unkind.
-(P.S. Sundaram)
+०२४७  
+This world is not for the poor,  
+Nor the next for the unkind.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४७</summary>
@@ -392,14 +391,14 @@ That world is not for graceless swines.        247
 
 <details><summary>मूलम् - २४७</summary>
 
-अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु
-इव्वुलगम् इल्लागि याङ्गु। २४७
+अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु  
+इव्वुलगम् इल्लागि याङ्गु। २४७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४८</summary>
 
-पॊरुळऱ्ऱार् पूप्पर् ऒरुगाल् अरुळऱ्ऱार्
-अऱ्ऱार्मऱ् ऱादल् अरिदु। २४८
+पॊरुळऱ्ऱार् पूप्पर् ऒरुगाल् अरुळऱ्ऱार्  
+अऱ्ऱार्मऱ् ऱादल् अरिदु। २४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४८</summary>
@@ -410,10 +409,10 @@ That world is not for graceless swines.        247
 
 <details><summary>NVK Ashraf choice (en) - २४८</summary>
 
-०२४८
-The poor may be rich one day,
-But the graceless will always lack grace.
-(P.S. Sundaram)
+०२४८  
+The poor may be rich one day,  
+But the graceless will always lack grace.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २४८</summary>
@@ -448,14 +447,14 @@ The graceless never bloom agay.        248
 
 <details><summary>मूलम् - २४८</summary>
 
-पॊरुळऱ्ऱार् पूप्पर् ऒरुगाल् अरुळऱ्ऱार्
-अऱ्ऱार्मऱ् ऱादल् अरिदु। २४८
+पॊरुळऱ्ऱार् पूप्पर् ऒरुगाल् अरुळऱ्ऱार्  
+अऱ्ऱार्मऱ् ऱादल् अरिदु। २४८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४९</summary>
 
-तॆरुळादाऩ् मॆय्प्पॊरुळ् कण्डऱ्ऱाल् तेरिऩ्
-अरुळादाऩ् सॆय्युम् अऱम्। २४९
+तॆरुळादाऩ् मॆय्प्पॊरुळ् कण्डऱ्ऱाल् तेरिऩ्  
+अरुळादाऩ् सॆय्युम् अऱम्। २४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४९</summary>
@@ -466,10 +465,10 @@ The graceless never bloom agay.        248
 
 <details><summary>NVK Ashraf choice (en) - २४९</summary>
 
-०२४९
-The good acts of the graceless, if examined,
-Resemble the muddled head seeing Truth.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०२४९  
+The good acts of the graceless, if examined,  
+Resemble the muddled head seeing Truth.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २४९</summary>
@@ -509,14 +508,14 @@ Wisdom is vain in hearts unkind.        249
 
 <details><summary>मूलम् - २४९</summary>
 
-तॆरुळादाऩ् मॆय्प्पॊरुळ् कण्डऱ्ऱाल् तेरिऩ्
-अरुळादाऩ् सॆय्युम् अऱम्। २४९
+तॆरुळादाऩ् मॆय्प्पॊरुळ् कण्डऱ्ऱाल् तेरिऩ्  
+अरुळादाऩ् सॆय्युम् अऱम्। २४९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५०</summary>
 
-वलियार्मुऩ् तऩ्ऩै निऩैक्क ताऩ् तऩ्ऩिऩ्
-मॆलियार्मेल् सॆल्लु मिडत्तु। २५०
+वलियार्मुऩ् तऩ्ऩै निऩैक्क ताऩ् तऩ्ऩिऩ्  
+मॆलियार्मेल् सॆल्लु मिडत्तु। २५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५०</summary>
@@ -527,10 +526,10 @@ Wisdom is vain in hearts unkind.        249
 
 <details><summary>NVK Ashraf choice (en) - २५०</summary>
 
-०२५०
-When you threaten one weaker than yourself,
-Think of yourself before a bully.
-(P.S. Sundaram)
+०२५०  
+When you threaten one weaker than yourself,  
+Think of yourself before a bully.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २५०</summary>
@@ -569,7 +568,7 @@ When to the feeble you do wrong.        250
 
 <details><summary>मूलम् - २५०</summary>
 
-वलियार्मुऩ् तऩ्ऩै निऩैक्क ताऩ् तऩ्ऩिऩ्
-मॆलियार्मेल् सॆल्लु मिडत्तु। २५०
+वलियार्मुऩ् तऩ्ऩै निऩैक्क ताऩ् तऩ्ऩिऩ्  
+मॆलियार्मेल् सॆल्लु मिडत्तु। २५०  
 </details>
 

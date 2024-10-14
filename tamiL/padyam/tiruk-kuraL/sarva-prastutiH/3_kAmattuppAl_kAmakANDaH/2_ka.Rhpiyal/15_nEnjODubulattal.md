@@ -3,11 +3,10 @@ title = "१५ नॆञ्जॊडुबुलत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १२९१</summary>
 
-अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवऩ्नॆञ्जे
-नीऎमक्कु आगा तदु। १२९१
+अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवऩ्नॆञ्जे  
+नीऎमक्कु आगा तदु। १२९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९१</summary>
@@ -18,10 +17,10 @@ title = "१५ नॆञ्जॊडुबुलत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - १२९१</summary>
 
-१२९१
-My heart! You see his heart and stand by him,
-But why don’t you stand by me? *
-(W.H. Drew and J. Lazarus)
+१२९१  
+My heart! You see his heart and stand by him,  
+But why don’t you stand by me? *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९१</summary>
@@ -56,14 +55,14 @@ Why not my heart be all my own?        1291
 
 <details><summary>मूलम् - १२९१</summary>
 
-अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवऩ्नॆञ्जे
-नीऎमक्कु आगा तदु। १२९१
+अवर्नॆञ्जु अवर्क्कादल् कण्डुम् ऎवऩ्नॆञ्जे  
+नीऎमक्कु आगा तदु। १२९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९२</summary>
 
-उऱाअ तवर्क्कण्ड कण्णुम् अवरैच्
-चॆऱाअरॆऩच् चेऱियॆऩ् नॆञ्जु। १२९२
+उऱाअ तवर्क्कण्ड कण्णुम् अवरैच्  
+चॆऱाअरॆऩच् चेऱियॆऩ् नॆञ्जु। १२९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९२</summary>
@@ -74,10 +73,10 @@ Why not my heart be all my own?        1291
 
 <details><summary>NVK Ashraf choice (en) - १२९२</summary>
 
-१२९२
-My heart! Having seen his indifference,
-Why do you go after him in hope? *
-(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
+१२९२  
+My heart! Having seen his indifference,  
+Why do you go after him in hope? *  
+(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९२</summary>
@@ -112,14 +111,14 @@ Yet you clasp him as if friendly.        1292
 
 <details><summary>मूलम् - १२९२</summary>
 
-उऱाअ तवर्क्कण्ड कण्णुम् अवरैच्
-चॆऱाअरॆऩच् चेऱियॆऩ् नॆञ्जु। १२९२
+उऱाअ तवर्क्कण्ड कण्णुम् अवरैच्  
+चॆऱाअरॆऩच् चेऱियॆऩ् नॆञ्जु। १२९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९३</summary>
 
-कॆट्टार्क्कु नट्टार्इल् ऎऩ्पदो नॆञ्जेनी
-पॆट्टाङ्गु अवर्बिऩ् सॆलल्। १२९३
+कॆट्टार्क्कु नट्टार्इल् ऎऩ्पदो नॆञ्जेनी  
+पॆट्टाङ्गु अवर्बिऩ् सॆलल्। १२९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९३</summary>
@@ -130,10 +129,10 @@ Yet you clasp him as if friendly.        1292
 
 <details><summary>NVK Ashraf choice (en) - १२९३</summary>
 
-१२९३
-O my heart! Is it because the fallen have no friends
-That you madly run after him?
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+१२९३  
+O my heart! Is it because the fallen have no friends  
+That you madly run after him?  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९३</summary>
@@ -168,14 +167,14 @@ You follow him at will. Is it
 
 <details><summary>मूलम् - १२९३</summary>
 
-कॆट्टार्क्कु नट्टार्इल् ऎऩ्पदो नॆञ्जेनी
-पॆट्टाङ्गु अवर्बिऩ् सॆलल्। १२९३
+कॆट्टार्क्कु नट्टार्इल् ऎऩ्पदो नॆञ्जेनी  
+पॆट्टाङ्गु अवर्बिऩ् सॆलल्। १२९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९४</summary>
 
-इऩिअऩ्ऩ निऩ्ऩॊडु सूऴ्वार्यार् नॆञ्जे
-तुऩिसॆय्दु तुव्वाय्गाण् मऱ्ऱु। १२९४
+इऩिअऩ्ऩ निऩ्ऩॊडु सूऴ्वार्यार् नॆञ्जे  
+तुऩिसॆय्दु तुव्वाय्गाण् मऱ्ऱु। १२९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९४</summary>
@@ -186,10 +185,10 @@ You follow him at will. Is it
 
 <details><summary>NVK Ashraf choice (en) - १२९४</summary>
 
-१२९४
-Who will consult you hereafter, my heart,
-Having failed to sulk before yielding? *
-(M.S. Poornalingam Pillai), (P.S. Sundaram)
+१२९४  
+Who will consult you hereafter, my heart,  
+Having failed to sulk before yielding? *  
+(M.S. Poornalingam Pillai), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२९४</summary>
@@ -229,14 +228,14 @@ Who will then consult you, my heart?        1294
 
 <details><summary>मूलम् - १२९४</summary>
 
-इऩिअऩ्ऩ निऩ्ऩॊडु सूऴ्वार्यार् नॆञ्जे
-तुऩिसॆय्दु तुव्वाय्गाण् मऱ्ऱु। १२९४
+इऩिअऩ्ऩ निऩ्ऩॊडु सूऴ्वार्यार् नॆञ्जे  
+तुऩिसॆय्दु तुव्वाय्गाण् मऱ्ऱु। १२९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९५</summary>
 
-पॆऱाअमै अञ्जुम् पॆऱिऩ्पिरिवु अञ्जुम्
-अऱाअ इडुम्बैत्तॆऩ् नॆञ्जु। १२९५
+पॆऱाअमै अञ्जुम् पॆऱिऩ्पिरिवु अञ्जुम्  
+अऱाअ इडुम्बैत्तॆऩ् नॆञ्जु। १२९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९५</summary>
@@ -247,10 +246,10 @@ Who will then consult you, my heart?        1294
 
 <details><summary>NVK Ashraf choice (en) - १२९५</summary>
 
-१२९५
-Anxious of not getting, and of losing when got,
-Either way my heart is always anxious.
-(N.V.K. Ashraf), (P.S. Sundaram)
+१२९५  
+Anxious of not getting, and of losing when got,  
+Either way my heart is always anxious.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२९५</summary>
@@ -290,14 +289,14 @@ O my heart suffers ceaseless pain.        1295
 
 <details><summary>मूलम् - १२९५</summary>
 
-पॆऱाअमै अञ्जुम् पॆऱिऩ्पिरिवु अञ्जुम्
-अऱाअ इडुम्बैत्तॆऩ् नॆञ्जु। १२९५
+पॆऱाअमै अञ्जुम् पॆऱिऩ्पिरिवु अञ्जुम्  
+अऱाअ इडुम्बैत्तॆऩ् नॆञ्जु। १२९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९६</summary>
 
-तऩिये इरुन्दु निऩैत्तक्काल् ऎऩ्ऩैत्
-तिऩिय इरुन्ददॆऩ् नॆञ्जु। १२९६
+तऩिये इरुन्दु निऩैत्तक्काल् ऎऩ्ऩैत्  
+तिऩिय इरुन्ददॆऩ् नॆञ्जु। १२९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९६</summary>
@@ -308,10 +307,10 @@ O my heart suffers ceaseless pain.        1295
 
 <details><summary>NVK Ashraf choice (en) - १२९६</summary>
 
-१२९६
-If my heart stays with me here,
-It is to devour me when I am musing alone. *
-(P.S. Sundaram), (V.V.S. Aiyar)
+१२९६  
+If my heart stays with me here,  
+It is to devour me when I am musing alone. *  
+(P.S. Sundaram), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९६</summary>
@@ -346,14 +345,14 @@ As I muse on him all alone.        1296
 
 <details><summary>मूलम् - १२९६</summary>
 
-तऩिये इरुन्दु निऩैत्तक्काल् ऎऩ्ऩैत्
-तिऩिय इरुन्ददॆऩ् नॆञ्जु। १२९६
+तऩिये इरुन्दु निऩैत्तक्काल् ऎऩ्ऩैत्  
+तिऩिय इरुन्ददॆऩ् नॆञ्जु। १२९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९७</summary>
 
-नाणुम् मऱन्देऩ् अवर्मऱक् कल्लाऎऩ्
-माणा मडनॆञ्जिऱ् पट्टु। १२९७
+नाणुम् मऱन्देऩ् अवर्मऱक् कल्लाऎऩ्  
+माणा मडनॆञ्जिऱ् पट्टु। १२९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९७</summary>
@@ -364,10 +363,10 @@ As I muse on him all alone.        1296
 
 <details><summary>NVK Ashraf choice (en) - १२९७</summary>
 
-१२९७
-Even modesty I have forgotten,
-Due to my meek and foolish heart unable to forget him. *
-(W.H. Drew and J. Lazarus), (P.S. Sundaram)
+१२९७  
+Even modesty I have forgotten,  
+Due to my meek and foolish heart unable to forget him. *  
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९७</summary>
@@ -401,14 +400,14 @@ In mean foolish mind I'm caught.        1297
 
 <details><summary>मूलम् - १२९७</summary>
 
-नाणुम् मऱन्देऩ् अवर्मऱक् कल्लाऎऩ्
-माणा मडनॆञ्जिऱ् पट्टु। १२९७
+नाणुम् मऱन्देऩ् अवर्मऱक् कल्लाऎऩ्  
+माणा मडनॆञ्जिऱ् पट्टु। १२९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९८</summary>
 
-ऎळ्ळिऩ् इळिवाम्ऎऩ्ऱु ऎण्णि अवर्दिऱम्
-उळ्ळुम् उयिर्क्कादल् नॆञ्जु। १२९८
+ऎळ्ळिऩ् इळिवाम्ऎऩ्ऱु ऎण्णि अवर्दिऱम्  
+उळ्ळुम् उयिर्क्कादल् नॆञ्जु। १२९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९८</summary>
@@ -419,10 +418,10 @@ In mean foolish mind I'm caught.        1297
 
 <details><summary>NVK Ashraf choice (en) - १२९८</summary>
 
-१२९८
-My dear loving heart decrees, my lord is not to be shamed
-And thus hails only his glory. *
-(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)
+१२९८  
+My dear loving heart decrees, my lord is not to be shamed  
+And thus hails only his glory. *  
+(K.R. Srinivasa Iyengar), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९८</summary>
@@ -457,14 +456,14 @@ Hails his glory ignoring blame.        1298
 
 <details><summary>मूलम् - १२९८</summary>
 
-ऎळ्ळिऩ् इळिवाम्ऎऩ्ऱु ऎण्णि अवर्दिऱम्
-उळ्ळुम् उयिर्क्कादल् नॆञ्जु। १२९८
+ऎळ्ळिऩ् इळिवाम्ऎऩ्ऱु ऎण्णि अवर्दिऱम्  
+उळ्ळुम् उयिर्क्कादल् नॆञ्जु। १२९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९९</summary>
 
-तुऩ्पत्तिऱ्कु यारे तुणैयावार् तामुडैय
-नॆञ्जन् दुणैयल् वऴि। १२९९
+तुऩ्पत्तिऱ्कु यारे तुणैयावार् तामुडैय  
+नॆञ्जन् दुणैयल् वऴि। १२९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९९</summary>
@@ -475,10 +474,10 @@ Hails his glory ignoring blame.        1298
 
 <details><summary>NVK Ashraf choice (en) - १२९९</summary>
 
-१२९९
-Who will help one in distress,
-When one’s own heart refuses to help? *
-(W.H. Drew and J. Lazarus)
+१२९९  
+Who will help one in distress,  
+When one’s own heart refuses to help? *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९९</summary>
@@ -512,14 +511,14 @@ If lover's heart denies relief?        1299
 
 <details><summary>मूलम् - १२९९</summary>
 
-तुऩ्पत्तिऱ्कु यारे तुणैयावार् तामुडैय
-नॆञ्जन् दुणैयल् वऴि। १२९९
+तुऩ्पत्तिऱ्कु यारे तुणैयावार् तामुडैय  
+नॆञ्जन् दुणैयल् वऴि। १२९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १३००</summary>
 
-तञ्जम् तमरल्लर् एदिलार् तामुडैय
-नॆञ्जम् तमरल् वऴि। १३००
+तञ्जम् तमरल्लर् एदिलार् तामुडैय  
+नॆञ्जम् तमरल् वऴि। १३००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १३००</summary>
@@ -530,10 +529,10 @@ If lover's heart denies relief?        1299
 
 <details><summary>NVK Ashraf choice (en) - १३००</summary>
 
-१३००
-When one's own heart behaves like a stranger,
-Why talk of strangers?
-(P.S. Sundaram)
+१३००  
+When one's own heart behaves like a stranger,  
+Why talk of strangers?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १३००</summary>
@@ -566,7 +565,7 @@ When one's own heart is not his own?        1300
 
 <details><summary>मूलम् - १३००</summary>
 
-तञ्जम् तमरल्लर् एदिलार् तामुडैय
-नॆञ्जम् तमरल् वऴि। १३००
+तञ्जम् तमरल्लर् एदिलार् तामुडैय  
+नॆञ्जम् तमरल् वऴि। १३००  
 </details>
 

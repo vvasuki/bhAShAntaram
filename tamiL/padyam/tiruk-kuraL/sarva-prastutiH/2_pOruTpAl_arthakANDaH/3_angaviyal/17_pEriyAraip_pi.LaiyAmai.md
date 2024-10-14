@@ -3,11 +3,10 @@ title = "१७ पॆरियारैप् पिऴैयामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८९१</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् इगऴामै पोऱ्ऱुवार्
-पोऱ्ऱलुळ् ऎल्लाम् तलै। ८९१
+आऱ्ऱुवार् आऱ्ऱल् इगऴामै पोऱ्ऱुवार्  
+पोऱ्ऱलुळ् ऎल्लाम् तलै। ८९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९१</summary>
@@ -19,10 +18,10 @@ title = "१७ पॆरियारैप् पिऴैयामै"
 
 <details><summary>NVK Ashraf choice (en) - ८९१</summary>
 
-०८९१
-The best way to guard oneself is to not spite
-The powers of the prowess. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०८९१  
+The best way to guard oneself is to not spite  
+The powers of the prowess. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९१</summary>
@@ -56,14 +55,14 @@ Safest safeguard to living brings.        891
 
 <details><summary>मूलम् - ८९१</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् इगऴामै पोऱ्ऱुवार्
-पोऱ्ऱलुळ् ऎल्लाम् तलै। ८९१
+आऱ्ऱुवार् आऱ्ऱल् इगऴामै पोऱ्ऱुवार्  
+पोऱ्ऱलुळ् ऎल्लाम् तलै। ८९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९२</summary>
 
-पॆरियारैप् पेणादु ऒऴुगिऱ् पॆरियाराल्
-पेरा इडुम्बै तरुम्। ८९२
+पॆरियारैप् पेणादु ऒऴुगिऱ् पॆरियाराल्  
+पेरा इडुम्बै तरुम्। ८९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९२</summary>
@@ -74,10 +73,10 @@ Safest safeguard to living brings.        891
 
 <details><summary>NVK Ashraf choice (en) - ८९२</summary>
 
-०८९२
-Irreverence to the great will lead
-To endless trouble through them.
-(P.S. Sundaram)
+०८९२  
+Irreverence to the great will lead  
+To endless trouble through them.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९२</summary>
@@ -111,14 +110,14 @@ Shall great troubles ceaseless create.        892
 
 <details><summary>मूलम् - ८९२</summary>
 
-पॆरियारैप् पेणादु ऒऴुगिऱ् पॆरियाराल्
-पेरा इडुम्बै तरुम्। ८९२
+पॆरियारैप् पेणादु ऒऴुगिऱ् पॆरियाराल्  
+पेरा इडुम्बै तरुम्। ८९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९३</summary>
 
-कॆडल्वेण्डिऩ् केळादु सॆय्ग अडल्वेण्डिऩ्
-आऱ्ऱु पवर्गण् इऴुक्कु। ८९३
+कॆडल्वेण्डिऩ् केळादु सॆय्ग अडल्वेण्डिऩ्  
+आऱ्ऱु पवर्गण् इऴुक्कु। ८९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९३</summary>
@@ -129,10 +128,10 @@ Shall great troubles ceaseless create.        892
 
 <details><summary>NVK Ashraf choice (en) - ८९३</summary>
 
-०८९३
-If destruction you desire, provoke those
-Who in turn can destroy as they desire. *
-(Satguru Subramuniyaswami)
+०८९३  
+If destruction you desire, provoke those  
+Who in turn can destroy as they desire. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८९३</summary>
@@ -172,14 +171,14 @@ Offence against the mighty great.        893
 
 <details><summary>मूलम् - ८९३</summary>
 
-कॆडल्वेण्डिऩ् केळादु सॆय्ग अडल्वेण्डिऩ्
-आऱ्ऱु पवर्गण् इऴुक्कु। ८९३
+कॆडल्वेण्डिऩ् केळादु सॆय्ग अडल्वेण्डिऩ्  
+आऱ्ऱु पवर्गण् इऴुक्कु। ८९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९४</summary>
 
-कूऱ्ऱत्तैक् कैयाल् विळित्तऱ्ऱाल् आऱ्ऱुवार्क्कु
-आऱ्ऱादार् इऩ्ऩा सॆयल्। ८९४
+कूऱ्ऱत्तैक् कैयाल् विळित्तऱ्ऱाल् आऱ्ऱुवार्क्कु  
+आऱ्ऱादार् इऩ्ऩा सॆयल्। ८९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९४</summary>
@@ -190,10 +189,10 @@ Offence against the mighty great.        893
 
 <details><summary>NVK Ashraf choice (en) - ८९४</summary>
 
-०८९४
-For the weak to challenge the mighty
-Is to summon yama with the hand.
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०८९४  
+For the weak to challenge the mighty  
+Is to summon yama with the hand.  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८९४</summary>
@@ -232,14 +231,14 @@ Death with their own hands invite.        894
 
 <details><summary>मूलम् - ८९४</summary>
 
-कूऱ्ऱत्तैक् कैयाल् विळित्तऱ्ऱाल् आऱ्ऱुवार्क्कु
-आऱ्ऱादार् इऩ्ऩा सॆयल्। ८९४
+कूऱ्ऱत्तैक् कैयाल् विळित्तऱ्ऱाल् आऱ्ऱुवार्क्कु  
+आऱ्ऱादार् इऩ्ऩा सॆयल्। ८९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९५</summary>
 
-याण्डुच्चॆऩ् ऱियाण्डु मुळरागार् वॆन्दुप्पिऩ्
-वेन्दु सॆऱप्पट् टवर्। ८९५
+याण्डुच्चॆऩ् ऱियाण्डु मुळरागार् वॆन्दुप्पिऩ्  
+वेन्दु सॆऱप्पट् टवर्। ८९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९५</summary>
@@ -250,10 +249,10 @@ Death with their own hands invite.        894
 
 <details><summary>NVK Ashraf choice (en) - ८९५</summary>
 
-०८९५
-Where can he go and how can he thrive,
-Who falls foul of a powerful king?
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+०८९५  
+Where can he go and how can he thrive,  
+Who falls foul of a powerful king?  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९५</summary>
@@ -287,14 +286,14 @@ Pursued by powerful monarch's ire?        895
 
 <details><summary>मूलम् - ८९५</summary>
 
-याण्डुच्चॆऩ् ऱियाण्डु मुळरागार् वॆन्दुप्पिऩ्
-वेन्दु सॆऱप्पट् टवर्। ८९५
+याण्डुच्चॆऩ् ऱियाण्डु मुळरागार् वॆन्दुप्पिऩ्  
+वेन्दु सॆऱप्पट् टवर्। ८९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९६</summary>
 
-ऎरियाल् सुडप्पडिऩुम् उय्वुण्डाम् उय्यार्
-पॆरियार्प् पिऴैत्तॊऴुगु वार्। ८९६
+ऎरियाल् सुडप्पडिऩुम् उय्वुण्डाम् उय्यार्  
+पॆरियार्प् पिऴैत्तॊऴुगु वार्। ८९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९६</summary>
@@ -305,10 +304,10 @@ Pursued by powerful monarch's ire?        895
 
 <details><summary>NVK Ashraf choice (en) - ८९६</summary>
 
-०८९६
-One may survive even if burnt in fire
-But no survival for those who offend the great. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०८९६  
+One may survive even if burnt in fire  
+But no survival for those who offend the great. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८९६</summary>
@@ -348,14 +347,14 @@ The great who offends escapes not.        896
 
 <details><summary>मूलम् - ८९६</summary>
 
-ऎरियाल् सुडप्पडिऩुम् उय्वुण्डाम् उय्यार्
-पॆरियार्प् पिऴैत्तॊऴुगु वार्। ८९६
+ऎरियाल् सुडप्पडिऩुम् उय्वुण्डाम् उय्यार्  
+पॆरियार्प् पिऴैत्तॊऴुगु वार्। ८९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९७</summary>
 
-वगैमाण्ड वाऴ्क्कैयुम् वाऩ्पॊरुळुम् ऎऩ्ऩाम्
-तगैमाण्ड तक्कार् सॆऱिऩ्। ८९७
+वगैमाण्ड वाऴ्क्कैयुम् वाऩ्पॊरुळुम् ऎऩ्ऩाम्  
+तगैमाण्ड तक्कार् सॆऱिऩ्। ८९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९७</summary>
@@ -366,10 +365,10 @@ The great who offends escapes not.        896
 
 <details><summary>NVK Ashraf choice (en) - ८९७</summary>
 
-०८९७
-What avails glorious life and great wealth
-If one incurs the wrath of the virtuous great? *
-(Satguru Subramuniyaswami)
+०८९७  
+What avails glorious life and great wealth  
+If one incurs the wrath of the virtuous great? *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९७</summary>
@@ -404,14 +403,14 @@ Stately gifts and stores who can own?        897
 
 <details><summary>मूलम् - ८९७</summary>
 
-वगैमाण्ड वाऴ्क्कैयुम् वाऩ्पॊरुळुम् ऎऩ्ऩाम्
-तगैमाण्ड तक्कार् सॆऱिऩ्। ८९७
+वगैमाण्ड वाऴ्क्कैयुम् वाऩ्पॊरुळुम् ऎऩ्ऩाम्  
+तगैमाण्ड तक्कार् सॆऱिऩ्। ८९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९८</summary>
 
-कुऩ्ऱऩ्ऩार् कुऩ्ऱ मदिप्पिऩ् कुडियॊडु
-निऩ्ऱऩ्ऩार् माय्वर् निलत्तु। ८९८
+कुऩ्ऱऩ्ऩार् कुऩ्ऱ मदिप्पिऩ् कुडियॊडु  
+निऩ्ऱऩ्ऩार् माय्वर् निलत्तु। ८९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९८</summary>
@@ -422,10 +421,10 @@ Stately gifts and stores who can own?        897
 
 <details><summary>NVK Ashraf choice (en) - ८९८</summary>
 
-०८९८
-If you underestimate the eminent,
-You will be shaken off the earth of all your ties. *
-(M.S. Poornalingam Pillai), (J. Narayanaswamy)
+०८९८  
+If you underestimate the eminent,  
+You will be shaken off the earth of all your ties. *  
+(M.S. Poornalingam Pillai), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९८</summary>
@@ -460,14 +459,14 @@ The firm on earth lose home and all.        898
 
 <details><summary>मूलम् - ८९८</summary>
 
-कुऩ्ऱऩ्ऩार् कुऩ्ऱ मदिप्पिऩ् कुडियॊडु
-निऩ्ऱऩ्ऩार् माय्वर् निलत्तु। ८९८
+कुऩ्ऱऩ्ऩार् कुऩ्ऱ मदिप्पिऩ् कुडियॊडु  
+निऩ्ऱऩ्ऩार् माय्वर् निलत्तु। ८९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८९९</summary>
 
-एन्दिय कॊळ्गैयार् सीऱिऩ् इडैमुरिन्दु
-वेन्दऩुम् वेन्दु कॆडुम्। ८९९
+एन्दिय कॊळ्गैयार् सीऱिऩ् इडैमुरिन्दु  
+वेन्दऩुम् वेन्दु कॆडुम्। ८९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९९</summary>
@@ -478,10 +477,10 @@ The firm on earth lose home and all.        898
 
 <details><summary>NVK Ashraf choice (en) - ८९९</summary>
 
-०८९९
-Even the mightiest of kings can perish midway
-If men of high repute burst in rage. *
-(W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)
+०८९९  
+Even the mightiest of kings can perish midway  
+If men of high repute burst in rage. *  
+(W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९९</summary>
@@ -516,14 +515,14 @@ Ev'n Indra's empire meets damage.        899
 
 <details><summary>मूलम् - ८९९</summary>
 
-एन्दिय कॊळ्गैयार् सीऱिऩ् इडैमुरिन्दु
-वेन्दऩुम् वेन्दु कॆडुम्। ८९९
+एन्दिय कॊळ्गैयार् सीऱिऩ् इडैमुरिन्दु  
+वेन्दऩुम् वेन्दु कॆडुम्। ८९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९००</summary>
 
-इऱन्दमैन्द सार्बुडैयर् आयिऩुम् उय्यार्
-सिऱन्दमैन्द सीरार् सॆऱिऩ्। ९००
+इऱन्दमैन्द सार्बुडैयर् आयिऩुम् उय्यार्  
+सिऱन्दमैन्द सीरार् सॆऱिऩ्। ९००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९००</summary>
@@ -534,10 +533,10 @@ Ev'n Indra's empire meets damage.        899
 
 <details><summary>NVK Ashraf choice (en) - ९००</summary>
 
-०९००
-Even men with all their might and aid
-Cannot be saved if great sages frown. *
-(N.V.K. Ashraf), (V.V.S. Aiyar)
+०९००  
+Even men with all their might and aid  
+Cannot be saved if great sages frown. *  
+(N.V.K. Ashraf), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९००</summary>
@@ -571,7 +570,7 @@ If the enraged holy seers will.        900
 
 <details><summary>मूलम् - ९००</summary>
 
-इऱन्दमैन्द सार्बुडैयर् आयिऩुम् उय्यार्
-सिऱन्दमैन्द सीरार् सॆऱिऩ्। ९००
+इऱन्दमैन्द सार्बुडैयर् आयिऩुम् उय्यार्  
+सिऱन्दमैन्द सीरार् सॆऱिऩ्। ९००  
 </details>
 

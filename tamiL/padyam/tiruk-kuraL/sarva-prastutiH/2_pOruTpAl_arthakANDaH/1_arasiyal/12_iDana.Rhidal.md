@@ -3,11 +3,10 @@ title = "१२ इडनऱिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४९१</summary>
 
-तॊडङ्गऱ्क ऎव्विऩैयुम् ऎळ्ळऱ्क मुऱ्ऱुम्
-इडङ्गण्ड पिऩ्अल् लदु। ४९१
+तॊडङ्गऱ्क ऎव्विऩैयुम् ऎळ्ळऱ्क मुऱ्ऱुम्  
+इडङ्गण्ड पिऩ्अल् लदु। ४९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९१</summary>
@@ -18,10 +17,10 @@ title = "१२ इडनऱिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ४९१</summary>
 
-०४९१
-Don't despise your foe, nor start any action
-Till you find a place to besiege him. *
-(P.S. Sundaram)
+०४९१  
+Don't despise your foe, nor start any action  
+Till you find a place to besiege him. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९१</summary>
@@ -55,14 +54,14 @@ Until you have surveyed the place.        491
 
 <details><summary>मूलम् - ४९१</summary>
 
-तॊडङ्गऱ्क ऎव्विऩैयुम् ऎळ्ळऱ्क मुऱ्ऱुम्
-इडङ्गण्ड पिऩ्अल् लदु। ४९१
+तॊडङ्गऱ्क ऎव्विऩैयुम् ऎळ्ळऱ्क मुऱ्ऱुम्  
+इडङ्गण्ड पिऩ्अल् लदु। ४९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९२</summary>
 
-मुरण्सेर्न्द मॊय्म्बि ऩवर्क्कुम् अरण्सेर्न्दाम्
-आक्कम् पलवुन् दरुम्। ४९२
+मुरण्सेर्न्द मॊय्म्बि ऩवर्क्कुम् अरण्सेर्न्दाम्  
+आक्कम् पलवुन् दरुम्। ४९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९२</summary>
@@ -73,10 +72,10 @@ Until you have surveyed the place.        491
 
 <details><summary>NVK Ashraf choice (en) - ४९२</summary>
 
-०४९२
-A fortress gives numerous advantages
-Even to men of strength and valour. *
-(P.S. Sundaram)
+०४९२  
+A fortress gives numerous advantages  
+Even to men of strength and valour. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९२</summary>
@@ -110,14 +109,14 @@ Ev'n to kings of power and prowess.        492
 
 <details><summary>मूलम् - ४९२</summary>
 
-मुरण्सेर्न्द मॊय्म्बि ऩवर्क्कुम् अरण्सेर्न्दाम्
-आक्कम् पलवुन् दरुम्। ४९२
+मुरण्सेर्न्द मॊय्म्बि ऩवर्क्कुम् अरण्सेर्न्दाम्  
+आक्कम् पलवुन् दरुम्। ४९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९३</summary>
 
-आऱ्ऱारुम् आऱ्ऱि अडुब इडऩऱिन्दु
-पोऱ्ऱार्गण् पोऱ्ऱिच् चॆयिऩ्। ४९३
+आऱ्ऱारुम् आऱ्ऱि अडुब इडऩऱिन्दु  
+पोऱ्ऱार्गण् पोऱ्ऱिच् चॆयिऩ्। ४९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९३</summary>
@@ -128,10 +127,10 @@ Ev'n to kings of power and prowess.        492
 
 <details><summary>NVK Ashraf choice (en) - ४९३</summary>
 
-०४९३
-Even the weak can fight enemies with determination
-If they choose the right place.
-(N.V.K. Ashraf)
+०४९३  
+Even the weak can fight enemies with determination  
+If they choose the right place.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९३</summary>
@@ -165,14 +164,14 @@ In proper fields of strong defence.        493
 
 <details><summary>मूलम् - ४९३</summary>
 
-आऱ्ऱारुम् आऱ्ऱि अडुब इडऩऱिन्दु
-पोऱ्ऱार्गण् पोऱ्ऱिच् चॆयिऩ्। ४९३
+आऱ्ऱारुम् आऱ्ऱि अडुब इडऩऱिन्दु  
+पोऱ्ऱार्गण् पोऱ्ऱिच् चॆयिऩ्। ४९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९४</summary>
 
-ऎण्णियार् ऎण्णम् इऴप्पर् इडऩऱिन्दु
-तुऩ्ऩियार् तुऩ्ऩिच् चॆयिऩ्। ४९४
+ऎण्णियार् ऎण्णम् इऴप्पर् इडऩऱिन्दु  
+तुऩ्ऩियार् तुऩ्ऩिच् चॆयिऩ्। ४९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९४</summary>
@@ -183,10 +182,10 @@ In proper fields of strong defence.        493
 
 <details><summary>NVK Ashraf choice (en) - ४९४</summary>
 
-०४९४
-When fighters fight from strategic locations,
-Enemies lose their strategic plans.
-(N.V.K. Ashraf)
+०४९४  
+When fighters fight from strategic locations,  
+Enemies lose their strategic plans.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९४</summary>
@@ -220,14 +219,14 @@ The plans of foes shall be baffled.        494
 
 <details><summary>मूलम् - ४९४</summary>
 
-ऎण्णियार् ऎण्णम् इऴप्पर् इडऩऱिन्दु
-तुऩ्ऩियार् तुऩ्ऩिच् चॆयिऩ्। ४९४
+ऎण्णियार् ऎण्णम् इऴप्पर् इडऩऱिन्दु  
+तुऩ्ऩियार् तुऩ्ऩिच् चॆयिऩ्। ४९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९५</summary>
 
-नॆडुम्बुऩलुळ् वॆल्लुम् मुदलै अडुम्बुऩलिऩ्
-नीङ्गिऩ् अदऩैप् पिऱ। ४९५
+नॆडुम्बुऩलुळ् वॆल्लुम् मुदलै अडुम्बुऩलिऩ्  
+नीङ्गिऩ् अदऩैप् पिऱ। ४९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९५</summary>
@@ -238,10 +237,10 @@ The plans of foes shall be baffled.        494
 
 <details><summary>NVK Ashraf choice (en) - ४९५</summary>
 
-०४९५
-A crocodile prevails in deep waters;
-But when out of water, others prevail over it.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०४९५  
+A crocodile prevails in deep waters;  
+But when out of water, others prevail over it.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९५</summary>
@@ -275,14 +274,14 @@ In land before others it fails.        495
 
 <details><summary>मूलम् - ४९५</summary>
 
-नॆडुम्बुऩलुळ् वॆल्लुम् मुदलै अडुम्बुऩलिऩ्
-नीङ्गिऩ् अदऩैप् पिऱ। ४९५
+नॆडुम्बुऩलुळ् वॆल्लुम् मुदलै अडुम्बुऩलिऩ्  
+नीङ्गिऩ् अदऩैप् पिऱ। ४९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९६</summary>
 
-कडलोडा काल्वल् नॆडुन्देर् कडलोडुम्
-नावायुम् ओडा निलत्तु। ४९६
+कडलोडा काल्वल् नॆडुन्देर् कडलोडुम्  
+नावायुम् ओडा निलत्तु। ४९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९६</summary>
@@ -293,10 +292,10 @@ In land before others it fails.        495
 
 <details><summary>NVK Ashraf choice (en) - ४९६</summary>
 
-०४९६
-A mighty chariot cannot run in the sea,
-Nor a boat navigate land.
-(P.S. Sundaram)
+०४९६  
+A mighty chariot cannot run in the sea,  
+Nor a boat navigate land.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९६</summary>
@@ -330,14 +329,14 @@ Nor on sea the strong-wheeled car.        496
 
 <details><summary>मूलम् - ४९६</summary>
 
-कडलोडा काल्वल् नॆडुन्देर् कडलोडुम्
-नावायुम् ओडा निलत्तु। ४९६
+कडलोडा काल्वल् नॆडुन्देर् कडलोडुम्  
+नावायुम् ओडा निलत्तु। ४९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९७</summary>
 
-अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै
-ऎण्णि इडत्ताल् सॆयिऩ्। ४९७
+अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै  
+ऎण्णि इडत्ताल् सॆयिऩ्। ४९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९७</summary>
@@ -348,10 +347,10 @@ Nor on sea the strong-wheeled car.        496
 
 <details><summary>NVK Ashraf choice (en) - ४९७</summary>
 
-०४९७
-No other aid than courage is needed
-If one ponders from which place to pounce.
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+०४९७  
+No other aid than courage is needed  
+If one ponders from which place to pounce.  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९७</summary>
@@ -385,14 +384,14 @@ When field is chosen right for deed.        497
 
 <details><summary>मूलम् - ४९७</summary>
 
-अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै
-ऎण्णि इडत्ताल् सॆयिऩ्। ४९७
+अञ्जामै अल्लाल् तुणैवेण्डा ऎञ्जामै  
+ऎण्णि इडत्ताल् सॆयिऩ्। ४९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९८</summary>
 
-सिऱुबडैयाऩ् सॆल्लिडम् सेरिऩ् उऱुबडैयाऩ्
-ऊक्कम् अऴिन्दु विडुम्। ४९८
+सिऱुबडैयाऩ् सॆल्लिडम् सेरिऩ् उऱुबडैयाऩ्  
+ऊक्कम् अऴिन्दु विडुम्। ४९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९८</summary>
@@ -403,10 +402,10 @@ When field is chosen right for deed.        497
 
 <details><summary>NVK Ashraf choice (en) - ४९८</summary>
 
-०४९८
-A large army will lose its morale
-If driven to a place meant for a small one.
-(N.V.K. Ashraf)
+०४९८  
+A large army will lose its morale  
+If driven to a place meant for a small one.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९८</summary>
@@ -440,14 +439,14 @@ One quells a foe of well-armed might.        498
 
 <details><summary>मूलम् - ४९८</summary>
 
-सिऱुबडैयाऩ् सॆल्लिडम् सेरिऩ् उऱुबडैयाऩ्
-ऊक्कम् अऴिन्दु विडुम्। ४९८
+सिऱुबडैयाऩ् सॆल्लिडम् सेरिऩ् उऱुबडैयाऩ्  
+ऊक्कम् अऴिन्दु विडुम्। ४९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९९</summary>
 
-सिऱैनलऩुम् सीरुम् इलरॆऩिऩुम् मान्दर्
-उऱैनिलत्तोडु ऒट्टल् अरिदु। ४९९
+सिऱैनलऩुम् सीरुम् इलरॆऩिऩुम् मान्दर्  
+उऱैनिलत्तोडु ऒट्टल् अरिदु। ४९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९९</summary>
@@ -458,10 +457,10 @@ One quells a foe of well-armed might.        498
 
 <details><summary>NVK Ashraf choice (en) - ४९९</summary>
 
-०४९९
-Men on their own ground are hard to tackle
-Even when they lack fortress and strength.
-(P.S. Sundaram)
+०४९९  
+Men on their own ground are hard to tackle  
+Even when they lack fortress and strength.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९९</summary>
@@ -495,14 +494,14 @@ Though fort and status are not fine.        499
 
 <details><summary>मूलम् - ४९९</summary>
 
-सिऱैनलऩुम् सीरुम् इलरॆऩिऩुम् मान्दर्
-उऱैनिलत्तोडु ऒट्टल् अरिदु। ४९९
+सिऱैनलऩुम् सीरुम् इलरॆऩिऩुम् मान्दर्  
+उऱैनिलत्तोडु ऒट्टल् अरिदु। ४९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५००</summary>
 
-कालाऴ् कळरिल् नरियडुम् कण्णञ्जा
-वेलाळ् मुगत्त कळिऱु। ५००
+कालाऴ् कळरिल् नरियडुम् कण्णञ्जा  
+वेलाळ् मुगत्त कळिऱु। ५००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५००</summary>
@@ -513,10 +512,10 @@ Though fort and status are not fine.        499
 
 <details><summary>NVK Ashraf choice (en) - ५००</summary>
 
-०५००
-A fearless tusker that defies spearman, if caught in a bog,
-Will be overcome by jackals. *
-(J. Narayanaswamy), (P.S. Sundaram)
+०५००  
+A fearless tusker that defies spearman, if caught in a bog,  
+Will be overcome by jackals. *  
+(J. Narayanaswamy), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५००</summary>
@@ -549,7 +548,7 @@ Fearless with feet in deep quagmire.        500
 
 <details><summary>मूलम् - ५००</summary>
 
-कालाऴ् कळरिल् नरियडुम् कण्णञ्जा
-वेलाळ् मुगत्त कळिऱु। ५००
+कालाऴ् कळरिल् नरियडुम् कण्णञ्जा  
+वेलाळ् मुगत्त कळिऱु। ५००  
 </details>
 

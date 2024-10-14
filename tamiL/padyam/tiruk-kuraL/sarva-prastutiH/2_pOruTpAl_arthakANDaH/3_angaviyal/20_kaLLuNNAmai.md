@@ -3,11 +3,10 @@ title = "२० कळ्ळुण्णामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९२१</summary>
 
-उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाऩ्ऱुम्
-कट्कादल् कॊण्डॊऴुगु वार्। ९२१
+उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाऩ्ऱुम्  
+कट्कादल् कॊण्डॊऴुगु वार्। ९२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२१</summary>
@@ -19,10 +18,10 @@ title = "२० कळ्ळुण्णामै"
 
 <details><summary>NVK Ashraf choice (en) - ९२१</summary>
 
-०९२१
-Those who always love wine
-Will neither inspire fear in others nor retain their fame. *
-(W.H. Drew and J. Lazarus)
+०९२१  
+Those who always love wine  
+Will neither inspire fear in others nor retain their fame. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२१</summary>
@@ -57,14 +56,14 @@ The addicts daily their glory lose.        921
 
 <details><summary>मूलम् - ९२१</summary>
 
-उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाऩ्ऱुम्
-कट्कादल् कॊण्डॊऴुगु वार्। ९२१
+उट्कप् पडाअर् ऒळियिऴप्पर् ऎञ्ञाऩ्ऱुम्  
+कट्कादल् कॊण्डॊऴुगु वार्। ९२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२२</summary>
 
-उण्णऱ्क कळ्ळै उणिल्उण्ग साऩ्ऱोराऩ्
-ऎण्णप् पडवेण्डा तार्। ९२२
+उण्णऱ्क कळ्ळै उणिल्उण्ग साऩ्ऱोराऩ्  
+ऎण्णप् पडवेण्डा तार्। ९२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२२</summary>
@@ -75,10 +74,10 @@ The addicts daily their glory lose.        921
 
 <details><summary>NVK Ashraf choice (en) - ९२२</summary>
 
-०९२२
-Drink no wine, or let them drink
-Who do not care what wise men think.
-(P.S. Sundaram)
+०९२२  
+Drink no wine, or let them drink  
+Who do not care what wise men think.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२२</summary>
@@ -112,14 +111,14 @@ Whom with esteem the wise won't think.        922
 
 <details><summary>मूलम् - ९२२</summary>
 
-उण्णऱ्क कळ्ळै उणिल्उण्ग साऩ्ऱोराऩ्
-ऎण्णप् पडवेण्डा तार्। ९२२
+उण्णऱ्क कळ्ळै उणिल्उण्ग साऩ्ऱोराऩ्  
+ऎण्णप् पडवेण्डा तार्। ९२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२३</summary>
 
-ईऩ्ऱाळ् मुगत्तेयुम् इऩ्ऩादाल् ऎऩ्मऱ्ऱुच्
-चाऩ्ऱोर् मुगत्तुक् कळि। ९२३
+ईऩ्ऱाळ् मुगत्तेयुम् इऩ्ऩादाल् ऎऩ्मऱ्ऱुच्  
+चाऩ्ऱोर् मुगत्तुक् कळि। ९२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२३</summary>
@@ -130,10 +129,10 @@ Whom with esteem the wise won't think.        922
 
 <details><summary>NVK Ashraf choice (en) - ९२३</summary>
 
-०९२३
-When a drunkard's glee hurts his own mother,
-Why speak of the wise?
-(P.S. Sundaram)
+०९२३  
+When a drunkard's glee hurts his own mother,  
+Why speak of the wise?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२३</summary>
@@ -168,14 +167,14 @@ How vile must it look for the wise?        923
 
 <details><summary>मूलम् - ९२३</summary>
 
-ईऩ्ऱाळ् मुगत्तेयुम् इऩ्ऩादाल् ऎऩ्मऱ्ऱुच्
-चाऩ्ऱोर् मुगत्तुक् कळि। ९२३
+ईऩ्ऱाळ् मुगत्तेयुम् इऩ्ऩादाल् ऎऩ्मऱ्ऱुच्  
+चाऩ्ऱोर् मुगत्तुक् कळि। ९२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२४</summary>
 
-नाण्ऎऩ्ऩुम् नल्लाळ् पुऱङ्गॊडुक्कुम् कळ्ळॆऩ्ऩुम्
-पेणाप् पॆरुङ्गुऱ्ऱत् तार्क्कु। ९२४
+नाण्ऎऩ्ऩुम् नल्लाळ् पुऱङ्गॊडुक्कुम् कळ्ळॆऩ्ऩुम्  
+पेणाप् पॆरुङ्गुऱ्ऱत् तार्क्कु। ९२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२४</summary>
@@ -186,10 +185,10 @@ How vile must it look for the wise?        923
 
 <details><summary>NVK Ashraf choice (en) - ९२४</summary>
 
-०९२४
-The good lady Shame turns her back to men
-Addicted to the grave vice drunkenness. *
-(P.S. Sundaram), (S.M. Diaz)
+०९२४  
+The good lady Shame turns her back to men  
+Addicted to the grave vice drunkenness. *  
+(P.S. Sundaram), (S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२४</summary>
@@ -224,14 +223,14 @@ Who is guilty of wine condemned.        924
 
 <details><summary>मूलम् - ९२४</summary>
 
-नाण्ऎऩ्ऩुम् नल्लाळ् पुऱङ्गॊडुक्कुम् कळ्ळॆऩ्ऩुम्
-पेणाप् पॆरुङ्गुऱ्ऱत् तार्क्कु। ९२४
+नाण्ऎऩ्ऩुम् नल्लाळ् पुऱङ्गॊडुक्कुम् कळ्ळॆऩ्ऩुम्  
+पेणाप् पॆरुङ्गुऱ्ऱत् तार्क्कु। ९२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२५</summary>
 
-कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु
-मॆय्यऱि यामै कॊळल्। ९२५
+कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु  
+मॆय्यऱि यामै कॊळल्। ९२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२५</summary>
@@ -242,10 +241,10 @@ Who is guilty of wine condemned.        924
 
 <details><summary>NVK Ashraf choice (en) - ९२५</summary>
 
-०९२५
-It is sheer ignorance to spend one’s substance
-And obtain in return only insensibility. *
-(V.V.S. Aiyar)
+०९२५  
+It is sheer ignorance to spend one’s substance  
+And obtain in return only insensibility. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२५</summary>
@@ -280,14 +279,14 @@ Is nothing but rank ignorance.        925
 
 <details><summary>मूलम् - ९२५</summary>
 
-कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु
-मॆय्यऱि यामै कॊळल्। ९२५
+कैयऱि यामै उडैत्ते पॊरुळ्गॊडुत्तु  
+मॆय्यऱि यामै कॊळल्। ९२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२६</summary>
 
-तुञ्जिऩार् सॆत्तारिऩ् वेऱल्लर् ऎञ्ञाऩ्ऱुम्
-नञ्जुण्बार् कळ्ळुण् पवर्। ९२६
+तुञ्जिऩार् सॆत्तारिऩ् वेऱल्लर् ऎञ्ञाऩ्ऱुम्  
+नञ्जुण्बार् कळ्ळुण् पवर्। ९२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२६</summary>
@@ -298,10 +297,10 @@ Is nothing but rank ignorance.        925
 
 <details><summary>NVK Ashraf choice (en) - ९२६</summary>
 
-०९२६
-Slumbers are no different from the dead.
-Nor alcoholics from consumers of poison.
-(N.V.K. Ashraf)
+०९२६  
+Slumbers are no different from the dead.  
+Nor alcoholics from consumers of poison.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२६</summary>
@@ -335,14 +334,14 @@ And doze ev'n like a dead body.        926
 
 <details><summary>मूलम् - ९२६</summary>
 
-तुञ्जिऩार् सॆत्तारिऩ् वेऱल्लर् ऎञ्ञाऩ्ऱुम्
-नञ्जुण्बार् कळ्ळुण् पवर्। ९२६
+तुञ्जिऩार् सॆत्तारिऩ् वेऱल्लर् ऎञ्ञाऩ्ऱुम्  
+नञ्जुण्बार् कळ्ळुण् पवर्। ९२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२७</summary>
 
-उळ्ळॊऱ्ऱि उळ्ळूर् नगप्पडुवर् ऎञ्ञाऩ्ऱुम्
-कळ्ळॊऱ्ऱिक् कण्साय् पवर्३ ९२७
+उळ्ळॊऱ्ऱि उळ्ळूर् नगप्पडुवर् ऎञ्ञाऩ्ऱुम्  
+कळ्ळॊऱ्ऱिक् कण्साय् पवर्३ ९२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२७</summary>
@@ -353,10 +352,10 @@ And doze ev'n like a dead body.        926
 
 <details><summary>NVK Ashraf choice (en) - ९२७</summary>
 
-०९२७
-Those who often get drunk in private
-Will soon become a laughing stock in public.
-(K. Krishnaswamy & Vijaya Ramkumar)
+०९२७  
+Those who often get drunk in private  
+Will soon become a laughing stock in public.  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२७</summary>
@@ -391,14 +390,14 @@ Make the prying public laugh.        927
 
 <details><summary>मूलम् - ९२७</summary>
 
-उळ्ळॊऱ्ऱि उळ्ळूर् नगप्पडुवर् ऎञ्ञाऩ्ऱुम्
-कळ्ळॊऱ्ऱिक् कण्साय् पवर्३ ९२७
+उळ्ळॊऱ्ऱि उळ्ळूर् नगप्पडुवर् ऎञ्ञाऩ्ऱुम्  
+कळ्ळॊऱ्ऱिक् कण्साय् पवर्३ ९२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२८</summary>
 
-कळित्तऱियेऩ् ऎऩ्पदु कैविडुग नॆञ्जत्तु
-ऒळित्तदूउम् आङ्गे मिगुम्। ९२८
+कळित्तऱियेऩ् ऎऩ्पदु कैविडुग नॆञ्जत्तु  
+ऒळित्तदूउम् आङ्गे मिगुम्। ९२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२८</summary>
@@ -409,10 +408,10 @@ Make the prying public laugh.        927
 
 <details><summary>NVK Ashraf choice (en) - ९२८</summary>
 
-०९२८
-Drop saying, "I never drank":
-Hidden secrets will be out when drunk. *
-(P.S. Sundaram)
+०९२८  
+Drop saying, "I never drank":  
+Hidden secrets will be out when drunk. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२८</summary>
@@ -447,14 +446,14 @@ The hidden fraud is known abroad.        928
 
 <details><summary>मूलम् - ९२८</summary>
 
-कळित्तऱियेऩ् ऎऩ्पदु कैविडुग नॆञ्जत्तु
-ऒळित्तदूउम् आङ्गे मिगुम्। ९२८
+कळित्तऱियेऩ् ऎऩ्पदु कैविडुग नॆञ्जत्तु  
+ऒळित्तदूउम् आङ्गे मिगुम्। ९२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२९</summary>
 
-कळित्ताऩैक् कारणम् काट्टुदल् कीऴ्नीर्क्
-कुळित्ताऩैत् तीत्तुरीइ अऱ्ऱु। ९२९
+कळित्ताऩैक् कारणम् काट्टुदल् कीऴ्नीर्क्  
+कुळित्ताऩैत् तीत्तुरीइ अऱ्ऱु। ९२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२९</summary>
@@ -465,10 +464,10 @@ The hidden fraud is known abroad.        928
 
 <details><summary>NVK Ashraf choice (en) - ९२९</summary>
 
-०९२९
-To reason with one drowned in drink is like
-Searching with a candle for a man drowned in water. *
-(P.S. Sundaram)
+०९२९  
+To reason with one drowned in drink is like  
+Searching with a candle for a man drowned in water. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२९</summary>
@@ -503,14 +502,14 @@ Can reason reach the raving drunk?        929
 
 <details><summary>मूलम् - ९२९</summary>
 
-कळित्ताऩैक् कारणम् काट्टुदल् कीऴ्नीर्क्
-कुळित्ताऩैत् तीत्तुरीइ अऱ्ऱु। ९२९
+कळित्ताऩैक् कारणम् काट्टुदल् कीऴ्नीर्क्  
+कुळित्ताऩैत् तीत्तुरीइ अऱ्ऱु। ९२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९३०</summary>
 
-कळ्ळुण्णाप् पोऴ्दिऱ् कळित्ताऩैक् काणुङ्गाल्
-उळ्ळाऩ्कॊल् उण्डदऩ् सोर्वु। ९३०
+कळ्ळुण्णाप् पोऴ्दिऱ् कळित्ताऩैक् काणुङ्गाल्  
+उळ्ळाऩ्कॊल् उण्डदऩ् सोर्वु। ९३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३०</summary>
@@ -521,10 +520,10 @@ Can reason reach the raving drunk?        929
 
 <details><summary>NVK Ashraf choice (en) - ९३०</summary>
 
-०९३०
-When a drunkard sober sees another drunk,
-Why does he not note his own damage?
-(P.S. Sundaram)
+०९३०  
+When a drunkard sober sees another drunk,  
+Why does he not note his own damage?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९३०</summary>
@@ -563,7 +562,7 @@ On selves can't they feel same effect?        930
 
 <details><summary>मूलम् - ९३०</summary>
 
-कळ्ळुण्णाप् पोऴ्दिऱ् कळित्ताऩैक् काणुङ्गाल्
-उळ्ळाऩ्कॊल् उण्डदऩ् सोर्वु। ९३०
+कळ्ळुण्णाप् पोऴ्दिऱ् कळित्ताऩैक् काणुङ्गाल्  
+उळ्ळाऩ्कॊल् उण्डदऩ् सोर्वु। ९३०  
 </details>
 

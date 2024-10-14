@@ -3,11 +3,10 @@ title = "०६ तूदु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६८१</summary>
 
-अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् वेन्दवाम्
-पण्बुडैमै तूदुरैप्पाऩ् पण्बु। ६८१
+अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् वेन्दवाम्  
+पण्बुडैमै तूदुरैप्पाऩ् पण्बु। ६८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८१</summary>
@@ -19,10 +18,10 @@ title = "०६ तूदु"
 
 <details><summary>NVK Ashraf choice (en) - ६८१</summary>
 
-०६८१
-Kindliness, high birth, and a nature pleasing to kings
-Are the qualities of an envoy. *
-(Satguru Subramuniyaswami)
+०६८१  
+Kindliness, high birth, and a nature pleasing to kings  
+Are the qualities of an envoy. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८१</summary>
@@ -57,14 +56,14 @@ Pleasing kings mark true embassy.        681
 
 <details><summary>मूलम् - ६८१</summary>
 
-अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् वेन्दवाम्
-पण्बुडैमै तूदुरैप्पाऩ् पण्बु। ६८१
+अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् वेन्दवाम्  
+पण्बुडैमै तूदुरैप्पाऩ् पण्बु। ६८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८२</summary>
 
-अऩ्पऱिवु आराय्न्द सॊल्वऩ्मै तूदुरैप्पार्क्कु
-इऩ्ऱि यमैयाद मूऩ्ऱु। ६८२
+अऩ्पऱिवु आराय्न्द सॊल्वऩ्मै तूदुरैप्पार्क्कु  
+इऩ्ऱि यमैयाद मूऩ्ऱु। ६८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८२</summary>
@@ -75,10 +74,10 @@ Pleasing kings mark true embassy.        681
 
 <details><summary>NVK Ashraf choice (en) - ६८२</summary>
 
-०६८२
-An envoy's three essentials
-Are loyalty, intelligence and sagacious speech.
-(P.S. Sundaram)
+०६८२  
+An envoy's three essentials  
+Are loyalty, intelligence and sagacious speech.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८२</summary>
@@ -112,14 +111,14 @@ Knowledge and learned eloquence.        682
 
 <details><summary>मूलम् - ६८२</summary>
 
-अऩ्पऱिवु आराय्न्द सॊल्वऩ्मै तूदुरैप्पार्क्कु
-इऩ्ऱि यमैयाद मूऩ्ऱु। ६८२
+अऩ्पऱिवु आराय्न्द सॊल्वऩ्मै तूदुरैप्पार्क्कु  
+इऩ्ऱि यमैयाद मूऩ्ऱु। ६८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८३</summary>
 
-नूलारुळ् नूल्वल्लऩ् आगुदल् वेलारुळ्
-वॆऩ्ऱि विऩैयुरैप्पाऩ् पण्बु। ६८३
+नूलारुळ् नूल्वल्लऩ् आगुदल् वेलारुळ्  
+वॆऩ्ऱि विऩैयुरैप्पाऩ् पण्बु। ६८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८३</summary>
@@ -130,10 +129,10 @@ Knowledge and learned eloquence.        682
 
 <details><summary>NVK Ashraf choice (en) - ६८३</summary>
 
-०६८३
-An envoy should be a scholar among the learned
-To succeed among the powerful.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०६८३  
+An envoy should be a scholar among the learned  
+To succeed among the powerful.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८३</summary>
@@ -168,14 +167,14 @@ Before lanced king, triumphant words.        683
 
 <details><summary>मूलम् - ६८३</summary>
 
-नूलारुळ् नूल्वल्लऩ् आगुदल् वेलारुळ्
-वॆऩ्ऱि विऩैयुरैप्पाऩ् पण्बु। ६८३
+नूलारुळ् नूल्वल्लऩ् आगुदल् वेलारुळ्  
+वॆऩ्ऱि विऩैयुरैप्पाऩ् पण्बु। ६८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८४</summary>
 
-अऱिवुरु वाराय्न्द कल्विइम् मूऩ्ऱऩ्
-सॆऱिवुडैयाऩ् सॆल्ग विऩैक्कु। ६८४
+अऱिवुरु वाराय्न्द कल्विइम् मूऩ्ऱऩ्  
+सॆऱिवुडैयाऩ् सॆल्ग विऩैक्कु। ६८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८४</summary>
@@ -186,10 +185,10 @@ Before lanced king, triumphant words.        683
 
 <details><summary>NVK Ashraf choice (en) - ६८४</summary>
 
-०६८४
-Let him go on a mission who has these three:
-Wisdom, personality and scholarship. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०६८४  
+Let him go on a mission who has these three:  
+Wisdom, personality and scholarship. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८४</summary>
@@ -224,14 +223,14 @@ Can act as bold ambassador.        684
 
 <details><summary>मूलम् - ६८४</summary>
 
-अऱिवुरु वाराय्न्द कल्विइम् मूऩ्ऱऩ्
-सॆऱिवुडैयाऩ् सॆल्ग विऩैक्कु। ६८४
+अऱिवुरु वाराय्न्द कल्विइम् मूऩ्ऱऩ्  
+सॆऱिवुडैयाऩ् सॆल्ग विऩैक्कु। ६८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८५</summary>
 
-तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि
-नऩ्ऱि पयप्पदान् दूदु। ६८५
+तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि  
+नऩ्ऱि पयप्पदान् दूदु। ६८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८५</summary>
@@ -242,10 +241,10 @@ Can act as bold ambassador.        684
 
 <details><summary>NVK Ashraf choice (en) - ६८५</summary>
 
-०६८५
-An envoy's words should be compact,
-Unoffending, pleasant and useful.
-(P.S. Sundaram)
+०६८५  
+An envoy's words should be compact,  
+Unoffending, pleasant and useful.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८५</summary>
@@ -280,14 +279,14 @@ Does good by pleasant words concise.        685
 
 <details><summary>मूलम् - ६८५</summary>
 
-तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि
-नऩ्ऱि पयप्पदान् दूदु। ६८५
+तॊगच् चॊल्लित् तूवाद नीक्कि नगच्चॊल्लि  
+नऩ्ऱि पयप्पदान् दूदु। ६८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८६</summary>
 
-कऱ्ऱुक्कण् अञ्जाऩ् सॆलच्चॊल्लिक् कालत्ताल्
-तक्कदु अऱिवदाम् तूदु। ६८६
+कऱ्ऱुक्कण् अञ्जाऩ् सॆलच्चॊल्लिक् कालत्ताल्  
+तक्कदु अऱिवदाम् तूदु। ६८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८६</summary>
@@ -298,10 +297,10 @@ Does good by pleasant words concise.        685
 
 <details><summary>NVK Ashraf choice (en) - ६८६</summary>
 
-०६८६
-An envoy should be well-read, fearless, persuasive,
-And know what fits the occasion. *
-(P.S. Sundaram), (M.S. Poornalingam Pillai)
+०६८६  
+An envoy should be well-read, fearless, persuasive,  
+And know what fits the occasion. *  
+(P.S. Sundaram), (M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८६</summary>
@@ -336,14 +335,14 @@ Convincing words which time demands.        686
 
 <details><summary>मूलम् - ६८६</summary>
 
-कऱ्ऱुक्कण् अञ्जाऩ् सॆलच्चॊल्लिक् कालत्ताल्
-तक्कदु अऱिवदाम् तूदु। ६८६
+कऱ्ऱुक्कण् अञ्जाऩ् सॆलच्चॊल्लिक् कालत्ताल्  
+तक्कदु अऱिवदाम् तूदु। ६८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८७</summary>
 
-कडऩऱिन्दु कालङ् गरुदि इडऩऱिन्दु
-ऎण्णि उरैप्पाऩ् तलै। ६८७
+कडऩऱिन्दु कालङ् गरुदि इडऩऱिन्दु  
+ऎण्णि उरैप्पाऩ् तलै। ६८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८७</summary>
@@ -354,10 +353,10 @@ Convincing words which time demands.        686
 
 <details><summary>NVK Ashraf choice (en) - ६८७</summary>
 
-०६८७
-The best know their mission, bide their time,
-Wait for the occasion and think before speaking.
-(N.V.K. Ashraf)
+०६८७  
+The best know their mission, bide their time,  
+Wait for the occasion and think before speaking.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८७</summary>
@@ -392,14 +391,14 @@ The envoy employs mature phrase.        687
 
 <details><summary>मूलम् - ६८७</summary>
 
-कडऩऱिन्दु कालङ् गरुदि इडऩऱिन्दु
-ऎण्णि उरैप्पाऩ् तलै। ६८७
+कडऩऱिन्दु कालङ् गरुदि इडऩऱिन्दु  
+ऎण्णि उरैप्पाऩ् तलै। ६८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८८</summary>
 
-तूय्मै तुणैमै तुणिवुडैमै इम्मूऩ्ऱिऩ्
-वाय्मै वऴियुरैप्पाऩ् पण्बु। ६८८
+तूय्मै तुणैमै तुणिवुडैमै इम्मूऩ्ऱिऩ्  
+वाय्मै वऴियुरैप्पाऩ् पण्बु। ६८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८८</summary>
@@ -410,10 +409,10 @@ The envoy employs mature phrase.        687
 
 <details><summary>NVK Ashraf choice (en) - ६८८</summary>
 
-०६८८
-A truthful messenger should have these three qualities:
-Goodness, friendliness and boldness.
-(N.V.K. Ashraf)
+०६८८  
+A truthful messenger should have these three qualities:  
+Goodness, friendliness and boldness.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८८</summary>
@@ -448,14 +447,14 @@ Is pure helpful and bold in views.        688
 
 <details><summary>मूलम् - ६८८</summary>
 
-तूय्मै तुणैमै तुणिवुडैमै इम्मूऩ्ऱिऩ्
-वाय्मै वऴियुरैप्पाऩ् पण्बु। ६८८
+तूय्मै तुणैमै तुणिवुडैमै इम्मूऩ्ऱिऩ्  
+वाय्मै वऴियुरैप्पाऩ् पण्बु। ६८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६८९</summary>
 
-विडुमाऱ्ऱम् वेन्दर्क्कु उरैप्पाऩ् वडुमाऱ्ऱम्
-वाय्सेरा वऩ्क णवऩ्। ६८९
+विडुमाऱ्ऱम् वेन्दर्क्कु उरैप्पाऩ् वडुमाऱ्ऱम्  
+वाय्सेरा वऩ्क णवऩ्। ६८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८९</summary>
@@ -466,10 +465,10 @@ Is pure helpful and bold in views.        688
 
 <details><summary>NVK Ashraf choice (en) - ६८९</summary>
 
-०६८९
-A king's herald will not even negligently
-Utter words that leave a stain.
-(P.S. Sundaram)
+०६८९  
+A king's herald will not even negligently  
+Utter words that leave a stain.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८९</summary>
@@ -504,14 +503,14 @@ Has flawless words and heart's courage.        689
 
 <details><summary>मूलम् - ६८९</summary>
 
-विडुमाऱ्ऱम् वेन्दर्क्कु उरैप्पाऩ् वडुमाऱ्ऱम्
-वाय्सेरा वऩ्क णवऩ्। ६८९
+विडुमाऱ्ऱम् वेन्दर्क्कु उरैप्पाऩ् वडुमाऱ्ऱम्  
+वाय्सेरा वऩ्क णवऩ्। ६८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६९०</summary>
 
-इऱुदि पयप्पिऩुम् ऎञ्जादु इऱैवऱ् कु
-उऱुदि पयप्पदाम् तूदु। ६९०
+इऱुदि पयप्पिऩुम् ऎञ्जादु इऱैवऱ् कु  
+उऱुदि पयप्पदाम् तूदु। ६९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९०</summary>
@@ -522,10 +521,10 @@ Has flawless words and heart's courage.        689
 
 <details><summary>NVK Ashraf choice (en) - ६९०</summary>
 
-०६९०
-A brave envoy braves his life to safeguard
-The ruler's interests at any cost. *
-(J. Narayanaswamy)
+०६९०  
+A brave envoy braves his life to safeguard  
+The ruler's interests at any cost. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९०</summary>
@@ -559,7 +558,7 @@ Assures his king's safety and joy.        690
 
 <details><summary>मूलम् - ६९०</summary>
 
-इऱुदि पयप्पिऩुम् ऎञ्जादु इऱैवऱ् कु
-उऱुदि पयप्पदाम् तूदु। ६९०
+इऱुदि पयप्पिऩुम् ऎञ्जादु इऱैवऱ् कु  
+उऱुदि पयप्पदाम् तूदु। ६९०  
 </details>
 

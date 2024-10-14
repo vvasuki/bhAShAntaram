@@ -3,11 +3,10 @@ title = "१८ पॆण्वऴिच्चेऱल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९०१</summary>
 
-मऩैविऴैवार् माण्बयऩ् ऎय्दार् विऩैविऴैयार्
-वेण्डाप् पॊरुळुम् अदु। ९०१
+मऩैविऴैवार् माण्बयऩ् ऎय्दार् विऩैविऴैयार्  
+वेण्डाप् पॊरुळुम् अदु। ९०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०१</summary>
@@ -19,10 +18,10 @@ title = "१८ पॆण्वऴिच्चेऱल्"
 
 <details><summary>NVK Ashraf choice (en) - ९०१</summary>
 
-०९०१
-Wives unduly exalted impede greatness.
-Ambitious men avoid that very thing. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०९०१  
+Wives unduly exalted impede greatness.  
+Ambitious men avoid that very thing. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०१</summary>
@@ -57,14 +56,14 @@ That lust, dynamic men disdain.        901
 
 <details><summary>मूलम् - ९०१</summary>
 
-मऩैविऴैवार् माण्बयऩ् ऎय्दार् विऩैविऴैयार्
-वेण्डाप् पॊरुळुम् अदु। ९०१
+मऩैविऴैवार् माण्बयऩ् ऎय्दार् विऩैविऴैयार्  
+वेण्डाप् पॊरुळुम् अदु। ९०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०२</summary>
 
-पेणादु पॆण्विऴैवाऩ् आक्कम् पॆरियदोर्
-नाणाग नाणुत् तरुम्। ९०२
+पेणादु पॆण्विऴैवाऩ् आक्कम् पॆरियदोर्  
+नाणाग नाणुत् तरुम्। ९०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०२</summary>
@@ -75,10 +74,10 @@ That lust, dynamic men disdain.        901
 
 <details><summary>NVK Ashraf choice (en) - ९०२</summary>
 
-०९०२
-The affluence of a careless uxorious man
-Will buy him only shameful shame. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०९०२  
+The affluence of a careless uxorious man  
+Will buy him only shameful shame. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०२</summary>
@@ -112,14 +111,14 @@ His wealth to him and all is shame.        902
 
 <details><summary>मूलम् - ९०२</summary>
 
-पेणादु पॆण्विऴैवाऩ् आक्कम् पॆरियदोर्
-नाणाग नाणुत् तरुम्। ९०२
+पेणादु पॆण्विऴैवाऩ् आक्कम् पॆरियदोर्  
+नाणाग नाणुत् तरुम्। ९०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०३</summary>
 
-इल्लाळ्गण् ताऴ्न्द इयल्बिऩ्मै ऎञ्ञाऩ्ऱुम्
-नल्लारुळ् नाणुत् तरुम्। ९०३
+इल्लाळ्गण् ताऴ्न्द इयल्बिऩ्मै ऎञ्ञाऩ्ऱुम्  
+नल्लारुळ् नाणुत् तरुम्। ९०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०३</summary>
@@ -130,10 +129,10 @@ His wealth to him and all is shame.        902
 
 <details><summary>NVK Ashraf choice (en) - ९०३</summary>
 
-०९०३
-Habitual submission to one’s wife
-Will always bring disrepute among the good.
-(N.V.K. Ashraf)
+०९०३  
+Habitual submission to one’s wife  
+Will always bring disrepute among the good.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०३</summary>
@@ -167,14 +166,14 @@ Shy he feels before the wise.        903
 
 <details><summary>मूलम् - ९०३</summary>
 
-इल्लाळ्गण् ताऴ्न्द इयल्बिऩ्मै ऎञ्ञाऩ्ऱुम्
-नल्लारुळ् नाणुत् तरुम्। ९०३
+इल्लाळ्गण् ताऴ्न्द इयल्बिऩ्मै ऎञ्ञाऩ्ऱुम्  
+नल्लारुळ् नाणुत् तरुम्। ९०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०४</summary>
 
-मऩैयाळै अञ्जुम् मऱुमैयि लाळऩ्
-विऩैयाण्मै वीऱॆय्द लिऩ्ऱु। ९०४
+मऩैयाळै अञ्जुम् मऱुमैयि लाळऩ्  
+विऩैयाण्मै वीऱॆय्द लिऩ्ऱु। ९०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०४</summary>
@@ -185,10 +184,10 @@ Shy he feels before the wise.        903
 
 <details><summary>NVK Ashraf choice (en) - ९०४</summary>
 
-०९०४
-The deeds of one who dreads his wife
-Merits little in this life or the next. *
-(Satguru Subramuniyaswami), (G.U. Pope)
+०९०४  
+The deeds of one who dreads his wife  
+Merits little in this life or the next. *  
+(Satguru Subramuniyaswami), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०४</summary>
@@ -223,14 +222,14 @@ The weaklings' action has no grace.        904
 
 <details><summary>मूलम् - ९०४</summary>
 
-मऩैयाळै अञ्जुम् मऱुमैयि लाळऩ्
-विऩैयाण्मै वीऱॆय्द लिऩ्ऱु। ९०४
+मऩैयाळै अञ्जुम् मऱुमैयि लाळऩ्  
+विऩैयाण्मै वीऱॆय्द लिऩ्ऱु। ९०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०५</summary>
 
-इल्लाळै अञ्जुवाऩ् अञ्जुमऱ् ऱॆञ्ञाऩ्ऱुम्
-नल्लार्क्कु नल्ल सॆयल्। ९०५
+इल्लाळै अञ्जुवाऩ् अञ्जुमऱ् ऱॆञ्ञाऩ्ऱुम्  
+नल्लार्क्कु नल्ल सॆयल्। ९०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०५</summary>
@@ -241,10 +240,10 @@ The weaklings' action has no grace.        904
 
 <details><summary>NVK Ashraf choice (en) - ९०५</summary>
 
-०९०५
-A man who fears his wife will always fear
-To do good things to good people. *
-(G. Vanmikanathan)
+०९०५  
+A man who fears his wife will always fear  
+To do good things to good people. *  
+(G. Vanmikanathan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०५</summary>
@@ -278,14 +277,14 @@ Good to do to the good and wise.        905
 
 <details><summary>मूलम् - ९०५</summary>
 
-इल्लाळै अञ्जुवाऩ् अञ्जुमऱ् ऱॆञ्ञाऩ्ऱुम्
-नल्लार्क्कु नल्ल सॆयल्। ९०५
+इल्लाळै अञ्जुवाऩ् अञ्जुमऱ् ऱॆञ्ञाऩ्ऱुम्  
+नल्लार्क्कु नल्ल सॆयल्। ९०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०६</summary>
 
-इमैयारिऩ् वाऴिऩुम् पाडिलरे इल्लाळ्
-अमैयार्दोळ् अञ्जु पवर्। ९०६
+इमैयारिऩ् वाऴिऩुम् पाडिलरे इल्लाळ्  
+अमैयार्दोळ् अञ्जु पवर्। ९०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०६</summary>
@@ -296,10 +295,10 @@ Good to do to the good and wise.        905
 
 <details><summary>NVK Ashraf choice (en) - ९०६</summary>
 
-०९०६
-Those who fear their wives' slender shoulders
-May live like gods but are not men.
-(P.S. Sundaram)
+०९०६  
+Those who fear their wives' slender shoulders  
+May live like gods but are not men.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०६</summary>
@@ -334,14 +333,14 @@ Look petty even with god-like lives.        906
 
 <details><summary>मूलम् - ९०६</summary>
 
-इमैयारिऩ् वाऴिऩुम् पाडिलरे इल्लाळ्
-अमैयार्दोळ् अञ्जु पवर्। ९०६
+इमैयारिऩ् वाऴिऩुम् पाडिलरे इल्लाळ्  
+अमैयार्दोळ् अञ्जु पवर्। ९०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०७</summary>
 
-पॆण्णेवल् सॆय्दॊऴुगुम् आण्मैयिऩ् नाणुडैप्
-पॆण्णे पॆरुमै उडैत्तु। ९०७
+पॆण्णेवल् सॆय्दॊऴुगुम् आण्मैयिऩ् नाणुडैप्  
+पॆण्णे पॆरुमै उडैत्तु। ९०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०७</summary>
@@ -352,10 +351,10 @@ Look petty even with god-like lives.        906
 
 <details><summary>NVK Ashraf choice (en) - ९०७</summary>
 
-०९०७
-Modest womanhood is greater than the manhood
-Which thrives on obeisance to wife. *
-(S.M. Diaz)
+०९०७  
+Modest womanhood is greater than the manhood  
+Which thrives on obeisance to wife. *  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०७</summary>
@@ -389,14 +388,14 @@ Than man servile unto her will.        907
 
 <details><summary>मूलम् - ९०७</summary>
 
-पॆण्णेवल् सॆय्दॊऴुगुम् आण्मैयिऩ् नाणुडैप्
-पॆण्णे पॆरुमै उडैत्तु। ९०७
+पॆण्णेवल् सॆय्दॊऴुगुम् आण्मैयिऩ् नाणुडैप्  
+पॆण्णे पॆरुमै उडैत्तु। ९०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०८</summary>
 
-नट्टार् कुऱैमुडियार् नऩ्ऱाऱ्ऱार् नऩ्ऩुदलाळ्
-पॆट् टाङ्गु ऒऴुगु पवर्। ९०८
+नट्टार् कुऱैमुडियार् नऩ्ऱाऱ्ऱार् नऩ्ऩुदलाळ्  
+पॆट् टाङ्गु ऒऴुगु पवर्। ९०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०८</summary>
@@ -407,10 +406,10 @@ Than man servile unto her will.        907
 
 <details><summary>NVK Ashraf choice (en) - ९०८</summary>
 
-०९०८
-Men governed by their fair ladies cannot address
-The needs of friends nor do any good.
-(V.V.S. Aiyar), (N.V.K. Ashraf)
+०९०८  
+Men governed by their fair ladies cannot address  
+The needs of friends nor do any good.  
+(V.V.S. Aiyar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९०८</summary>
@@ -450,14 +449,14 @@ Help no friends nor goodness tend.        908
 
 <details><summary>मूलम् - ९०८</summary>
 
-नट्टार् कुऱैमुडियार् नऩ्ऱाऱ्ऱार् नऩ्ऩुदलाळ्
-पॆट् टाङ्गु ऒऴुगु पवर्। ९०८
+नट्टार् कुऱैमुडियार् नऩ्ऱाऱ्ऱार् नऩ्ऩुदलाळ्  
+पॆट् टाङ्गु ऒऴुगु पवर्। ९०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९०९</summary>
 
-अऱविऩैयुम् आऩ्ऱ पॊरुळुम् पिऱविऩैयुम्
-पॆण्एवल् सॆय्वार्गण् इल्। ९०९
+अऱविऩैयुम् आऩ्ऱ पॊरुळुम् पिऱविऩैयुम्  
+पॆण्एवल् सॆय्वार्गण् इल्। ९०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०९</summary>
@@ -468,10 +467,10 @@ Help no friends nor goodness tend.        908
 
 <details><summary>NVK Ashraf choice (en) - ९०९</summary>
 
-०९०९
-Virtuous deeds, exalted wealth and other deeds
-Are not for the henpecked. *
-(P.S. Sundaram)
+०९०९  
+Virtuous deeds, exalted wealth and other deeds  
+Are not for the henpecked. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९०९</summary>
@@ -506,14 +505,14 @@ In those who submit to women        909
 
 <details><summary>मूलम् - ९०९</summary>
 
-अऱविऩैयुम् आऩ्ऱ पॊरुळुम् पिऱविऩैयुम्
-पॆण्एवल् सॆय्वार्गण् इल्। ९०९
+अऱविऩैयुम् आऩ्ऱ पॊरुळुम् पिऱविऩैयुम्  
+पॆण्एवल् सॆय्वार्गण् इल्। ९०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१०</summary>
 
-ऎण्सेर्न्द नॆञ्जत् तिडऩुडैयार्क्कु ऎञ्ञाऩ्ऱुम्
-पॆण्सेर्न्दाम् पेदैमै इल्। ९१०
+ऎण्सेर्न्द नॆञ्जत् तिडऩुडैयार्क्कु ऎञ्ञाऩ्ऱुम्  
+पॆण्सेर्न्दाम् पेदैमै इल्। ९१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१०</summary>
@@ -524,10 +523,10 @@ In those who submit to women        909
 
 <details><summary>NVK Ashraf choice (en) - ९१०</summary>
 
-०९१०
-The thoughtful and firm-willed never indulge
-In the folly of doting on their wives. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०९१०  
+The thoughtful and firm-willed never indulge  
+In the folly of doting on their wives. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१०</summary>
@@ -561,7 +560,7 @@ By folly on fair sex do not dote.        910
 
 <details><summary>मूलम् - ९१०</summary>
 
-ऎण्सेर्न्द नॆञ्जत् तिडऩुडैयार्क्कु ऎञ्ञाऩ्ऱुम्
-पॆण्सेर्न्दाम् पेदैमै इल्। ९१०
+ऎण्सेर्न्द नॆञ्जत् तिडऩुडैयार्क्कु ऎञ्ञाऩ्ऱुम्  
+पॆण्सेर्न्दाम् पेदैमै इल्। ९१०  
 </details>
 

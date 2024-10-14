@@ -3,11 +3,10 @@ title = "०५ पण्बुडैमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९९१</summary>
 
-ऎण्बदत्ताल् ऎय्दल् ऎळिदॆऩ्प यार्माट्टुम्
-पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९१
+ऎण्बदत्ताल् ऎय्दल् ऎळिदॆऩ्प यार्माट्टुम्  
+पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९१</summary>
@@ -19,10 +18,10 @@ title = "०५ पण्बुडैमै"
 
 <details><summary>NVK Ashraf choice (en) - ९९१</summary>
 
-०९९१
-The demeanor called courtesy, they say,
-Comes easily to those easily accessible to all.
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+०९९१  
+The demeanor called courtesy, they say,  
+Comes easily to those easily accessible to all.  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९१</summary>
@@ -57,14 +56,14 @@ Easily comes courteousness.        991
 
 <details><summary>मूलम् - ९९१</summary>
 
-ऎण्बदत्ताल् ऎय्दल् ऎळिदॆऩ्प यार्माट्टुम्
-पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९१
+ऎण्बदत्ताल् ऎय्दल् ऎळिदॆऩ्प यार्माट्टुम्  
+पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९२</summary>
 
-अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् इव्विरण्डुम्
-पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९२
+अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् इव्विरण्डुम्  
+पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९२</summary>
@@ -75,10 +74,10 @@ Easily comes courteousness.        991
 
 <details><summary>NVK Ashraf choice (en) - ९९२</summary>
 
-०९९२
-Kindness and exalted birth: these two
-Constitute the demeanor called courtesy.
-(N.V.K. Ashraf)
+०९९२  
+Kindness and exalted birth: these two  
+Constitute the demeanor called courtesy.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९२</summary>
@@ -113,14 +112,14 @@ Develop courtesy and moral worth.        992
 
 <details><summary>मूलम् - ९९२</summary>
 
-अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् इव्विरण्डुम्
-पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९२
+अऩ्पुडैमै आऩ्ऱ कुडिप्पिऱत्तल् इव्विरण्डुम्  
+पण्बुडैमै ऎऩ्ऩुम् वऴक्कु। ९९२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९३</summary>
 
-उऱुप्पॊत्तल् मक्कळॊप्पु अऩ्ऱाल् वॆऱुत्तक्क
-पण्बॊत्तल् ऒप्पदाम् ऒप्पु। ९९३
+उऱुप्पॊत्तल् मक्कळॊप्पु अऩ्ऱाल् वॆऱुत्तक्क  
+पण्बॊत्तल् ऒप्पदाम् ऒप्पु। ९९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९३</summary>
@@ -131,10 +130,10 @@ Develop courtesy and moral worth.        992
 
 <details><summary>NVK Ashraf choice (en) - ९९३</summary>
 
-०९९३
-What binds humanity together is not physical proximity,
-But that binding of courteousness.
-(N.V.K. Ashraf)
+०९९३  
+What binds humanity together is not physical proximity,  
+But that binding of courteousness.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९३</summary>
@@ -169,14 +168,14 @@ It's likeness in kind courteousness.        993
 
 <details><summary>मूलम् - ९९३</summary>
 
-उऱुप्पॊत्तल् मक्कळॊप्पु अऩ्ऱाल् वॆऱुत्तक्क
-पण्बॊत्तल् ऒप्पदाम् ऒप्पु। ९९३
+उऱुप्पॊत्तल् मक्कळॊप्पु अऩ्ऱाल् वॆऱुत्तक्क  
+पण्बॊत्तल् ऒप्पदाम् ऒप्पु। ९९३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९४</summary>
 
-यऩॊडु नऩ्ऱि पुरिन्द पयऩुडैयार्
-पण्बुबा राट्टुम् उलगु। ९९४
+यऩॊडु नऩ्ऱि पुरिन्द पयऩुडैयार्  
+पण्बुबा राट्टुम् उलगु। ९९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९४</summary>
@@ -187,10 +186,10 @@ It's likeness in kind courteousness.        993
 
 <details><summary>NVK Ashraf choice (en) - ९९४</summary>
 
-०९९४
-The world applauds the conduct of those
-Who help with impartiality and generosity. *
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+०९९४  
+The world applauds the conduct of those  
+Who help with impartiality and generosity. *  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९४</summary>
@@ -225,14 +224,14 @@ Whose actions are just and benign.        994
 
 <details><summary>मूलम् - ९९४</summary>
 
-यऩॊडु नऩ्ऱि पुरिन्द पयऩुडैयार्
-पण्बुबा राट्टुम् उलगु। ९९४
+यऩॊडु नऩ्ऱि पुरिन्द पयऩुडैयार्  
+पण्बुबा राट्टुम् उलगु। ९९४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९५</summary>
 
-नगैयुळ्ळुम् इऩ्ऩा तिगऴ्च्चि पगैयुळ्ळुम्
-पण्बुळ पाडऱिवार् माट्टु। ९९५
+नगैयुळ्ळुम् इऩ्ऩा तिगऴ्च्चि पगैयुळ्ळुम्  
+पण्बुळ पाडऱिवार् माट्टु। ९९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९५</summary>
@@ -243,10 +242,10 @@ Whose actions are just and benign.        994
 
 <details><summary>NVK Ashraf choice (en) - ९९५</summary>
 
-०९९५
-Mockery hurts even in jest, and hence the considerate
-Are courteous even to their foes. *
-(P.S. Sundaram)
+०९९५  
+Mockery hurts even in jest, and hence the considerate  
+Are courteous even to their foes. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९९५</summary>
@@ -286,14 +285,14 @@ For contempt offends even in jest.        995
 
 <details><summary>मूलम् - ९९५</summary>
 
-नगैयुळ्ळुम् इऩ्ऩा तिगऴ्च्चि पगैयुळ्ळुम्
-पण्बुळ पाडऱिवार् माट्टु। ९९५
+नगैयुळ्ळुम् इऩ्ऩा तिगऴ्च्चि पगैयुळ्ळुम्  
+पण्बुळ पाडऱिवार् माट्टु। ९९५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९६</summary>
 
-पण्बुडैयार्प् पट्टुण्डु उलगम् अदुइऩ्ऱेल्
-मण्बुक्कु माय्वदु मऩ्। ९९६
+पण्बुडैयार्प् पट्टुण्डु उलगम् अदुइऩ्ऱेल्  
+मण्बुक्कु माय्वदु मऩ्। ९९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९६</summary>
@@ -304,10 +303,10 @@ For contempt offends even in jest.        995
 
 <details><summary>NVK Ashraf choice (en) - ९९६</summary>
 
-०९९६
-The world goes on because of civilized men.
-Without them it would collapse into dust. *
-(Satguru Subramuniyaswami)
+०९९६  
+The world goes on because of civilized men.  
+Without them it would collapse into dust. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९६</summary>
@@ -342,14 +341,14 @@ Or it crumbles and falls to dust.        996
 
 <details><summary>मूलम् - ९९६</summary>
 
-पण्बुडैयार्प् पट्टुण्डु उलगम् अदुइऩ्ऱेल्
-मण्बुक्कु माय्वदु मऩ्। ९९६
+पण्बुडैयार्प् पट्टुण्डु उलगम् अदुइऩ्ऱेल्  
+मण्बुक्कु माय्वदु मऩ्। ९९६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९७</summary>
 
-अरम्बोलुम् कूर्मैय रेऩुम् मरम्बोल्वर्
-मक्कट्पण्बु इल्ला तवर्। ९९७
+अरम्बोलुम् कूर्मैय रेऩुम् मरम्बोल्वर्  
+मक्कट्पण्बु इल्ला तवर्। ९९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९७</summary>
@@ -360,10 +359,10 @@ Or it crumbles and falls to dust.        996
 
 <details><summary>NVK Ashraf choice (en) - ९९७</summary>
 
-०९९७
-Men without character, despite their sharp minds,
-Are no better than blocks of wood.
-(N.V.K. Ashraf), (S.M. Diaz)
+०९९७  
+Men without character, despite their sharp minds,  
+Are no better than blocks of wood.  
+(N.V.K. Ashraf), (S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९७</summary>
@@ -398,14 +397,14 @@ Are like wooden blocks indocile.        997
 
 <details><summary>मूलम् - ९९७</summary>
 
-अरम्बोलुम् कूर्मैय रेऩुम् मरम्बोल्वर्
-मक्कट्पण्बु इल्ला तवर्। ९९७
+अरम्बोलुम् कूर्मैय रेऩुम् मरम्बोल्वर्  
+मक्कट्पण्बु इल्ला तवर्। ९९७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९८</summary>
 
-नण्बाऱ्ऱार् आगि नयमिल सॆय्वार्क्कुम्
-पण्बाऱ्ऱार् आदल् कडै। ९९८
+नण्बाऱ्ऱार् आगि नयमिल सॆय्वार्क्कुम्  
+पण्बाऱ्ऱार् आदल् कडै। ९९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९८</summary>
@@ -416,10 +415,10 @@ Are like wooden blocks indocile.        997
 
 <details><summary>NVK Ashraf choice (en) - ९९८</summary>
 
-०९९८
-It is disgraceful to be discourteous,
-Even towards the unfriendly who treat you unjustly.
-(Satguru Subramuniyaswami)
+०९९८  
+It is disgraceful to be discourteous,  
+Even towards the unfriendly who treat you unjustly.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९८</summary>
@@ -453,14 +452,14 @@ E'en to a base unfriendly breed.        998
 
 <details><summary>मूलम् - ९९८</summary>
 
-नण्बाऱ्ऱार् आगि नयमिल सॆय्वार्क्कुम्
-पण्बाऱ्ऱार् आदल् कडै। ९९८
+नण्बाऱ्ऱार् आगि नयमिल सॆय्वार्क्कुम्  
+पण्बाऱ्ऱार् आदल् कडै। ९९८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९९</summary>
 
-नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्
-पगलुम्बाऱ् पट्टऩ्ऱु इरुळ्। ९९९
+नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्  
+पगलुम्बाऱ् पट्टऩ्ऱु इरुळ्। ९९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९९</summary>
@@ -471,10 +470,10 @@ E'en to a base unfriendly breed.        998
 
 <details><summary>NVK Ashraf choice (en) - ९९९</summary>
 
-०९९९
-To those who cannot laugh,
-This big world is all darkness even during the day.
-(C. Rajagopalachari)
+०९९९  
+To those who cannot laugh,  
+This big world is all darkness even during the day.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९९</summary>
@@ -508,14 +507,14 @@ Even in day the earth is night.        999
 
 <details><summary>मूलम् - ९९९</summary>
 
-नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्
-पगलुम्बाऱ् पट्टऩ्ऱु इरुळ्। ९९९
+नगल्वल्लर् अल्लार्क्कु मायिरु ञालम्  
+पगलुम्बाऱ् पट्टऩ्ऱु इरुळ्। ९९९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०००</summary>
 
-पण्बिलाऩ् पॆऱ्ऱ पॆरुञ्जॆल्वम् नऩ्पाल्
-कलन्दीमै याल्दिरिन् दऱ्ऱु। १०००
+पण्बिलाऩ् पॆऱ्ऱ पॆरुञ्जॆल्वम् नऩ्पाल्  
+कलन्दीमै याल्दिरिन् दऱ्ऱु। १०००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०००</summary>
@@ -526,10 +525,10 @@ Even in day the earth is night.        999
 
 <details><summary>NVK Ashraf choice (en) - १०००</summary>
 
-१०००
-The great wealth kept by the uncultured
-Is clean milk gone sour in a can unclean.
-(N.V.K. Ashraf)
+१०००  
+The great wealth kept by the uncultured  
+Is clean milk gone sour in a can unclean.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०००</summary>
@@ -562,7 +561,7 @@ Is pure milk soured by impure vase.        1000
 
 <details><summary>मूलम् - १०००</summary>
 
-पण्बिलाऩ् पॆऱ्ऱ पॆरुञ्जॆल्वम् नऩ्पाल्
-कलन्दीमै याल्दिरिन् दऱ्ऱु। १०००
+पण्बिलाऩ् पॆऱ्ऱ पॆरुञ्जॆल्वम् नऩ्पाल्  
+कलन्दीमै याल्दिरिन् दऱ्ऱु। १०००  
 </details>
 

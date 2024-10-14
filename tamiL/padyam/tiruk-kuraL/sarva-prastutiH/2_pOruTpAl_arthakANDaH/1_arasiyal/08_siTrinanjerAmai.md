@@ -3,11 +3,10 @@ title = "०८ सिऱ्ऱिनञ्जेरामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४५१</summary>
 
-सिऱ्ऱिऩम् अञ्जुम् पॆरुमै सिऱुमैदाऩ्
-सुऱ्ऱमाच् चूऴ्न्दु विडुम्। ४५१
+सिऱ्ऱिऩम् अञ्जुम् पॆरुमै सिऱुमैदाऩ्  
+सुऱ्ऱमाच् चूऴ्न्दु विडुम्। ४५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५१</summary>
@@ -18,10 +17,10 @@ title = "०८ सिऱ्ऱिनञ्जेरामै"
 
 <details><summary>NVK Ashraf choice (en) - ४५१</summary>
 
-०४५१
-The great fear the company of the base.
-Only the mean take them as kinsmen.
-(N.V.K. Ashraf)
+०४५१  
+The great fear the company of the base.  
+Only the mean take them as kinsmen.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५१</summary>
@@ -55,14 +54,14 @@ The mean hold them as kinsmen dear.        451
 
 <details><summary>मूलम् - ४५१</summary>
 
-सिऱ्ऱिऩम् अञ्जुम् पॆरुमै सिऱुमैदाऩ्
-सुऱ्ऱमाच् चूऴ्न्दु विडुम्। ४५१
+सिऱ्ऱिऩम् अञ्जुम् पॆरुमै सिऱुमैदाऩ्  
+सुऱ्ऱमाच् चूऴ्न्दु विडुम्। ४५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५२</summary>
 
-निलत्तियल्बाल् नीर्दिरिन् दऱ्ऱागुम् मान्दर्क्कु
-इऩत्तियल्ब तागुम् अऱिवु। ४५२
+निलत्तियल्बाल् नीर्दिरिन् दऱ्ऱागुम् मान्दर्क्कु  
+इऩत्तियल्ब तागुम् अऱिवु। ४५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५२</summary>
@@ -73,10 +72,10 @@ The mean hold them as kinsmen dear.        451
 
 <details><summary>NVK Ashraf choice (en) - ४५२</summary>
 
-०४५२
-Nature of soil governs the quality of water.
-One's wisdom by the nature of company.
-(N.V.K. Ashraf)
+०४५२  
+Nature of soil governs the quality of water.  
+One's wisdom by the nature of company.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४५२</summary>
@@ -115,14 +114,14 @@ With mates changes the mental state.        452
 
 <details><summary>मूलम् - ४५२</summary>
 
-निलत्तियल्बाल् नीर्दिरिन् दऱ्ऱागुम् मान्दर्क्कु
-इऩत्तियल्ब तागुम् अऱिवु। ४५२
+निलत्तियल्बाल् नीर्दिरिन् दऱ्ऱागुम् मान्दर्क्कु  
+इऩत्तियल्ब तागुम् अऱिवु। ४५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५३</summary>
 
-मऩत्ताऩाम् मान्दर्क् कुणर्चि इऩत्ताऩाम्
-इऩ्ऩाऩ् ऎऩप्पडुञ् जॊल्। ४५३
+मऩत्ताऩाम् मान्दर्क् कुणर्चि इऩत्ताऩाम्  
+इऩ्ऩाऩ् ऎऩप्पडुञ् जॊल्। ४५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५३</summary>
@@ -133,10 +132,10 @@ With mates changes the mental state.        452
 
 <details><summary>NVK Ashraf choice (en) - ४५३</summary>
 
-०४५३
-Perceptions spring from nature
-And character from company.
-(P.S. Sundaram)
+०४५३  
+Perceptions spring from nature  
+And character from company.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५३</summary>
@@ -170,14 +169,14 @@ The worth of man upon his friend.        453
 
 <details><summary>मूलम् - ४५३</summary>
 
-मऩत्ताऩाम् मान्दर्क् कुणर्चि इऩत्ताऩाम्
-इऩ्ऩाऩ् ऎऩप्पडुञ् जॊल्। ४५३
+मऩत्ताऩाम् मान्दर्क् कुणर्चि इऩत्ताऩाम्  
+इऩ्ऩाऩ् ऎऩप्पडुञ् जॊल्। ४५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५४</summary>
 
-मऩत्तु ळदुबोलक् काट्टि ऒरुवऱ्कु
-इऩत्तुळ तागुम् अऱिवु। ४५४
+मऩत्तु ळदुबोलक् काट्टि ऒरुवऱ्कु  
+इऩत्तुळ तागुम् अऱिवु। ४५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५४</summary>
@@ -188,10 +187,10 @@ The worth of man upon his friend.        453
 
 <details><summary>NVK Ashraf choice (en) - ४५४</summary>
 
-०४५४
-Wisdom which seems to come from the mind
-Comes really from one's company.
-(P.S. Sundaram)
+०४५४  
+Wisdom which seems to come from the mind  
+Comes really from one's company.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५४</summary>
@@ -225,14 +224,14 @@ But it truly flows from the kind.        454
 
 <details><summary>मूलम् - ४५४</summary>
 
-मऩत्तु ळदुबोलक् काट्टि ऒरुवऱ्कु
-इऩत्तुळ तागुम् अऱिवु। ४५४
+मऩत्तु ळदुबोलक् काट्टि ऒरुवऱ्कु  
+इऩत्तुळ तागुम् अऱिवु। ४५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५५</summary>
 
-मऩन्दूय्मै सॆय्विऩै तूय्मै इरण्डुम्
-इऩन्दूय्मै तूवा वरुम्। ४५५
+मऩन्दूय्मै सॆय्विऩै तूय्मै इरण्डुम्  
+इऩन्दूय्मै तूवा वरुम्। ४५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५५</summary>
@@ -243,10 +242,10 @@ But it truly flows from the kind.        454
 
 <details><summary>NVK Ashraf choice (en) - ४५५</summary>
 
-०४५५
-The pure thought and the pure deed, these two,
-Come from pure company. *
-(P.S. Sundaram)
+०४५५  
+The pure thought and the pure deed, these two,  
+Come from pure company. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५५</summary>
@@ -280,14 +279,14 @@ Comes from good company indeed.        455
 
 <details><summary>मूलम् - ४५५</summary>
 
-मऩन्दूय्मै सॆय्विऩै तूय्मै इरण्डुम्
-इऩन्दूय्मै तूवा वरुम्। ४५५
+मऩन्दूय्मै सॆय्विऩै तूय्मै इरण्डुम्  
+इऩन्दूय्मै तूवा वरुम्। ४५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५६</summary>
 
-मऩन्दूयार्क् कॆच्चम्नऩ् ऱागुम् इऩन्दूयार्क्कु
-इल्लैनऩ् ऱागा विऩै। ४५६
+मऩन्दूयार्क् कॆच्चम्नऩ् ऱागुम् इऩन्दूयार्क्कु  
+इल्लैनऩ् ऱागा विऩै। ४५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५६</summary>
@@ -298,10 +297,10 @@ Comes from good company indeed.        455
 
 <details><summary>NVK Ashraf choice (en) - ४५६</summary>
 
-०४५६
-Good legacy is for the pure-minded.
-No evil deeds befall men of pure company.
-(N.V.K. Ashraf)
+०४५६  
+Good legacy is for the pure-minded.  
+No evil deeds befall men of pure company.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५६</summary>
@@ -335,14 +334,14 @@ Pure friendship acts with victory.        456
 
 <details><summary>मूलम् - ४५६</summary>
 
-मऩन्दूयार्क् कॆच्चम्नऩ् ऱागुम् इऩन्दूयार्क्कु
-इल्लैनऩ् ऱागा विऩै। ४५६
+मऩन्दूयार्क् कॆच्चम्नऩ् ऱागुम् इऩन्दूयार्क्कु  
+इल्लैनऩ् ऱागा विऩै। ४५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५७</summary>
 
-मऩनलम् मऩ्ऩुयिर्क् काक्कम् इऩनलम्
-ऎल्लाप् पुगऴुम् तरुम्। ४५७
+मऩनलम् मऩ्ऩुयिर्क् काक्कम् इऩनलम्  
+ऎल्लाप् पुगऴुम् तरुम्। ४५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५७</summary>
@@ -353,10 +352,10 @@ Pure friendship acts with victory.        456
 
 <details><summary>NVK Ashraf choice (en) - ४५७</summary>
 
-०४५७
-A good mind is an asset to everyone
-While good company contributes to glory.
-(P.S. Sundaram)
+०४५७  
+A good mind is an asset to everyone  
+While good company contributes to glory.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५७</summary>
@@ -390,14 +389,14 @@ Good friendship fosters fame again.        457
 
 <details><summary>मूलम् - ४५७</summary>
 
-मऩनलम् मऩ्ऩुयिर्क् काक्कम् इऩनलम्
-ऎल्लाप् पुगऴुम् तरुम्। ४५७
+मऩनलम् मऩ्ऩुयिर्क् काक्कम् इऩनलम्  
+ऎल्लाप् पुगऴुम् तरुम्। ४५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५८</summary>
 
-मऩनलम् नऩ्कुडैय रायिऩुम् साऩ्ऱोर्क्कु
-इऩनलम् एमाप् पुडैत्तु। ४५८
+मऩनलम् नऩ्कुडैय रायिऩुम् साऩ्ऱोर्क्कु  
+इऩनलम् एमाप् पुडैत्तु। ४५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५८</summary>
@@ -408,10 +407,10 @@ Good friendship fosters fame again.        457
 
 <details><summary>NVK Ashraf choice (en) - ४५८</summary>
 
-०४५८
-Even though the wise have a good mind,
-They strengthen it by good company. *
-(N.V.K. Ashraf), (P.S. Sundaram)
+०४५८  
+Even though the wise have a good mind,  
+They strengthen it by good company. *  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५८</summary>
@@ -445,14 +444,14 @@ In friends of worth a new strength find.        458
 
 <details><summary>मूलम् - ४५८</summary>
 
-मऩनलम् नऩ्कुडैय रायिऩुम् साऩ्ऱोर्क्कु
-इऩनलम् एमाप् पुडैत्तु। ४५८
+मऩनलम् नऩ्कुडैय रायिऩुम् साऩ्ऱोर्क्कु  
+इऩनलम् एमाप् पुडैत्तु। ४५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४५९</summary>
 
-मऩनलत्तिऩ् आगुम् मऱुमैमऱ् ऱह्दुम्
-इऩनलत्तिऩ् एमाप् पुडैत्तु। ४५९
+मऩनलत्तिऩ् आगुम् मऱुमैमऱ् ऱह्दुम्  
+इऩनलत्तिऩ् एमाप् पुडैत्तु। ४५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५९</summary>
@@ -463,10 +462,10 @@ In friends of worth a new strength find.        458
 
 <details><summary>NVK Ashraf choice (en) - ४५९</summary>
 
-०४५९
-Purity of mind leads to heaven,
-But even that is secured by good company.
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०४५९  
+Purity of mind leads to heaven,  
+But even that is secured by good company.  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५९</summary>
@@ -500,14 +499,14 @@ Good company gains strength to this.        459
 
 <details><summary>मूलम् - ४५९</summary>
 
-मऩनलत्तिऩ् आगुम् मऱुमैमऱ् ऱह्दुम्
-इऩनलत्तिऩ् एमाप् पुडैत्तु। ४५९
+मऩनलत्तिऩ् आगुम् मऱुमैमऱ् ऱह्दुम्  
+इऩनलत्तिऩ् एमाप् पुडैत्तु। ४५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४६०</summary>
 
-नल्लिऩत्ति ऩूङ्गुन् दुणैयिल्लै तीयिऩत्तिऩ्
-अल्लऱ् पडुप्पदूउम् इल्। ४६०
+नल्लिऩत्ति ऩूङ्गुन् दुणैयिल्लै तीयिऩत्तिऩ्  
+अल्लऱ् पडुप्पदूउम् इल्। ४६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४६०</summary>
@@ -518,10 +517,10 @@ Good company gains strength to this.        459
 
 <details><summary>NVK Ashraf choice (en) - ४६०</summary>
 
-०४६०
-There is no greater aid than good company,
-Nor worse affliction than bad.
-(P.S. Sundaram)
+०४६०  
+There is no greater aid than good company,  
+Nor worse affliction than bad.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४६०</summary>
@@ -554,7 +553,7 @@ The bad to untold anguish leads.        460
 
 <details><summary>मूलम् - ४६०</summary>
 
-नल्लिऩत्ति ऩूङ्गुन् दुणैयिल्लै तीयिऩत्तिऩ्
-अल्लऱ् पडुप्पदूउम् इल्। ४६०
+नल्लिऩत्ति ऩूङ्गुन् दुणैयिल्लै तीयिऩत्तिऩ्  
+अल्लऱ् पडुप्पदूउम् इल्। ४६०  
 </details>
 

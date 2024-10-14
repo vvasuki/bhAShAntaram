@@ -3,11 +3,10 @@ title = "११ इरवु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०५१</summary>
 
-इरक्क इरत्तक्कार्क् काणिऩ् करप्पिऩ्
-अवर्बऴि तम्बऴि अऩ्ऱु। १०५१
+इरक्क इरत्तक्कार्क् काणिऩ् करप्पिऩ्  
+अवर्बऴि तम्बऴि अऩ्ऱु। १०५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५१</summary>
@@ -19,10 +18,10 @@ title = "११ इरवु"
 
 <details><summary>NVK Ashraf choice (en) - १०५१</summary>
 
-१०५१
-Beg if you meet men of means.
-If they refuse, the fault is theirs, not yours. *
-(Satguru Subramuniyaswami)
+१०५१  
+Beg if you meet men of means.  
+If they refuse, the fault is theirs, not yours. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५१</summary>
@@ -57,14 +56,14 @@ Default is theirs when they deny.        1051
 
 <details><summary>मूलम् - १०५१</summary>
 
-इरक्क इरत्तक्कार्क् काणिऩ् करप्पिऩ्
-अवर्बऴि तम्बऴि अऩ्ऱु। १०५१
+इरक्क इरत्तक्कार्क् काणिऩ् करप्पिऩ्  
+अवर्बऴि तम्बऴि अऩ्ऱु। १०५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५२</summary>
 
-इऩ्पम् ऒरुवऱ्कु इरत्तल् इरन्दवै
-तुऩ्पम् उऱाअ वरिऩ्। १०५२
+इऩ्पम् ऒरुवऱ्कु इरत्तल् इरन्दवै  
+तुऩ्पम् उऱाअ वरिऩ्। १०५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५२</summary>
@@ -75,10 +74,10 @@ Default is theirs when they deny.        1051
 
 <details><summary>NVK Ashraf choice (en) - १०५२</summary>
 
-१०५२
-Begging is a pleasure if what is asked
-Comes without pain.
-(P.S. Sundaram)
+१०५२  
+Begging is a pleasure if what is asked  
+Comes without pain.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५२</summary>
@@ -112,14 +111,14 @@ When the things comes without annoy.        1052
 
 <details><summary>मूलम् - १०५२</summary>
 
-इऩ्पम् ऒरुवऱ्कु इरत्तल् इरन्दवै
-तुऩ्पम् उऱाअ वरिऩ्। १०५२
+इऩ्पम् ऒरुवऱ्कु इरत्तल् इरन्दवै  
+तुऩ्पम् उऱाअ वरिऩ्। १०५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५३</summary>
 
-करप्पिला नॆञ्जिऩ् कडऩऱिवार् मुऩ्निऩ्ऱु
-इरप्पुमो रेऎर् उडैत्तु। १०५३
+करप्पिला नॆञ्जिऩ् कडऩऱिवार् मुऩ्निऩ्ऱु  
+इरप्पुमो रेऎर् उडैत्तु। १०५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५३</summary>
@@ -130,10 +129,10 @@ When the things comes without annoy.        1052
 
 <details><summary>NVK Ashraf choice (en) - १०५३</summary>
 
-१०५३
-There is beauty even in begging
-If it is before dutiful men with generous heart. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+१०५३  
+There is beauty even in begging  
+If it is before dutiful men with generous heart. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५३</summary>
@@ -168,14 +167,14 @@ Who know the duty on their part.        1053
 
 <details><summary>मूलम् - १०५३</summary>
 
-करप्पिला नॆञ्जिऩ् कडऩऱिवार् मुऩ्निऩ्ऱु
-इरप्पुमो रेऎर् उडैत्तु। १०५३
+करप्पिला नॆञ्जिऩ् कडऩऱिवार् मुऩ्निऩ्ऱु  
+इरप्पुमो रेऎर् उडैत्तु। १०५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५४</summary>
 
-इरत्तलुम् ईदले पोलुम् करत्तल्
-कऩविलुम् तेऱ्ऱादार् माट्टु। १०५४
+इरत्तलुम् ईदले पोलुम् करत्तल्  
+कऩविलुम् तेऱ्ऱादार् माट्टु। १०५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५४</summary>
@@ -186,10 +185,10 @@ Who know the duty on their part.        1053
 
 <details><summary>NVK Ashraf choice (en) - १०५४</summary>
 
-१०५४
-Begging from men who do not refuse even in their dreams
-Is as honorable as bestowing.
-(N.V.K. Ashraf), (V.V.S. Aiyar)
+१०५४  
+Begging from men who do not refuse even in their dreams  
+Is as honorable as bestowing.  
+(N.V.K. Ashraf), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५४</summary>
@@ -223,14 +222,14 @@ From those who hide not even in dreams.        1054
 
 <details><summary>मूलम् - १०५४</summary>
 
-इरत्तलुम् ईदले पोलुम् करत्तल्
-कऩविलुम् तेऱ्ऱादार् माट्टु। १०५४
+इरत्तलुम् ईदले पोलुम् करत्तल्  
+कऩविलुम् तेऱ्ऱादार् माट्टु। १०५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५५</summary>
 
-करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिऩ्ऱु
-इरप्पवर् मेऱ्कॊळ् वदु। १०५५
+करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिऩ्ऱु  
+इरप्पवर् मेऱ्कॊळ् वदु। १०५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५५</summary>
@@ -241,10 +240,10 @@ From those who hide not even in dreams.        1054
 
 <details><summary>NVK Ashraf choice (en) - १०५५</summary>
 
-१०५५
-Men stand expectant only because
-The world has a few who won't refuse.
-(P.S. Sundaram)
+१०५५  
+Men stand expectant only because  
+The world has a few who won't refuse.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५५</summary>
@@ -279,14 +278,14 @@ The world has men who don't refuse.        1055
 
 <details><summary>मूलम् - १०५५</summary>
 
-करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिऩ्ऱु
-इरप्पवर् मेऱ्कॊळ् वदु। १०५५
+करप्पिलार् वैयगत्तु उण्मैयाल् कण्णिऩ्ऱु  
+इरप्पवर् मेऱ्कॊळ् वदु। १०५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५६</summary>
 
-करप्पिडुम्बै यिल्लारैक् काणिऩ् निरप्पिडुम्बै
-ऎल्लाम् ऒरुङ्गु कॆडुम्। १०५६
+करप्पिडुम्बै यिल्लारैक् काणिऩ् निरप्पिडुम्बै  
+ऎल्लाम् ऒरुङ्गु कॆडुम्। १०५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५६</summary>
@@ -297,10 +296,10 @@ The world has men who don't refuse.        1055
 
 <details><summary>NVK Ashraf choice (en) - १०५६</summary>
 
-१०५६
-All ills of begging will flee at the sight of those
-Who are free from the ills of refusal. *
-(Satguru Subramuniyaswami)
+१०५६  
+All ills of begging will flee at the sight of those  
+Who are free from the ills of refusal. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५६</summary>
@@ -334,14 +333,14 @@ Before the free who don't deny.        1056
 
 <details><summary>मूलम् - १०५६</summary>
 
-करप्पिडुम्बै यिल्लारैक् काणिऩ् निरप्पिडुम्बै
-ऎल्लाम् ऒरुङ्गु कॆडुम्। १०५६
+करप्पिडुम्बै यिल्लारैक् काणिऩ् निरप्पिडुम्बै  
+ऎल्लाम् ऒरुङ्गु कॆडुम्। १०५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५७</summary>
 
-इगऴ्न्दॆळ्ळादु ईवारैक् काणिऩ् मगिऴ्न्दुळ्ळम्
-उळ्ळुळ् उवप्पदु उडैत्तु। १०५७
+इगऴ्न्दॆळ्ळादु ईवारैक् काणिऩ् मगिऴ्न्दुळ्ळम्  
+उळ्ळुळ् उवप्पदु उडैत्तु। १०५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५७</summary>
@@ -352,10 +351,10 @@ Before the free who don't deny.        1056
 
 <details><summary>NVK Ashraf choice (en) - १०५७</summary>
 
-१०५७
-The glad heart rejoices within
-When it sees one who gives without scorn.
-(P.S. Sundaram)
+१०५७  
+The glad heart rejoices within  
+When it sees one who gives without scorn.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५७</summary>
@@ -390,14 +389,14 @@ A thrill of delight fills the heart.        1057
 
 <details><summary>मूलम् - १०५७</summary>
 
-इगऴ्न्दॆळ्ळादु ईवारैक् काणिऩ् मगिऴ्न्दुळ्ळम्
-उळ्ळुळ् उवप्पदु उडैत्तु। १०५७
+इगऴ्न्दॆळ्ळादु ईवारैक् काणिऩ् मगिऴ्न्दुळ्ळम्  
+उळ्ळुळ् उवप्पदु उडैत्तु। १०५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५८</summary>
 
-इरप्पारै इल्लायिऩ् ईर्ङ्गण्मा ञालम्
-मरप्पावै सॆऩ्ऱुवन् दऱ्ऱु। १०५८
+इरप्पारै इल्लायिऩ् ईर्ङ्गण्मा ञालम्  
+मरप्पावै सॆऩ्ऱुवन् दऱ्ऱु। १०५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५८</summary>
@@ -408,10 +407,10 @@ A thrill of delight fills the heart.        1057
 
 <details><summary>NVK Ashraf choice (en) - १०५८</summary>
 
-१०५८
-Without beggars this vast scenic world
-Would be a stage of puppets that come and go.
-(N.V.K. Ashraf)
+१०५८  
+Without beggars this vast scenic world  
+Would be a stage of puppets that come and go.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५८</summary>
@@ -446,14 +445,14 @@ Sans Askers like a puppet show.        1058
 
 <details><summary>मूलम् - १०५८</summary>
 
-इरप्पारै इल्लायिऩ् ईर्ङ्गण्मा ञालम्
-मरप्पावै सॆऩ्ऱुवन् दऱ्ऱु। १०५८
+इरप्पारै इल्लायिऩ् ईर्ङ्गण्मा ञालम्  
+मरप्पावै सॆऩ्ऱुवन् दऱ्ऱु। १०५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०५९</summary>
 
-ईवार्गण् ऎऩ्ऩुण्डाम् तोऱ्ऱम् इरन्दुगोळ्
-मेवार् इलाअक् कडै। १०५९
+ईवार्गण् ऎऩ्ऩुण्डाम् तोऱ्ऱम् इरन्दुगोळ्  
+मेवार् इलाअक् कडै। १०५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५९</summary>
@@ -464,10 +463,10 @@ Sans Askers like a puppet show.        1058
 
 <details><summary>NVK Ashraf choice (en) - १०५९</summary>
 
-१०५९
-What fame can givers achieve
-If there is none to beg and receive?
-(P.S. Sundaram), (N.V.K. Ashraf)
+१०५९  
+What fame can givers achieve  
+If there is none to beg and receive?  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०५९</summary>
@@ -501,14 +500,14 @@ Without obligation seekers?        1059
 
 <details><summary>मूलम् - १०५९</summary>
 
-ईवार्गण् ऎऩ्ऩुण्डाम् तोऱ्ऱम् इरन्दुगोळ्
-मेवार् इलाअक् कडै। १०५९
+ईवार्गण् ऎऩ्ऩुण्डाम् तोऱ्ऱम् इरन्दुगोळ्  
+मेवार् इलाअक् कडै। १०५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६०</summary>
 
-इरप्पाऩ् वॆगुळामै वेण्डुम् निरप्पिडुम्बै
-ताऩेयुम् सालुम् करि। १०६०
+इरप्पाऩ् वॆगुळामै वेण्डुम् निरप्पिडुम्बै  
+ताऩेयुम् सालुम् करि। १०६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६०</summary>
@@ -519,10 +518,10 @@ Without obligation seekers?        1059
 
 <details><summary>NVK Ashraf choice (en) - १०६०</summary>
 
-१०६०
-The denied suppliant should not chafe.
-His own want is proof enough. *
-(P.S. Sundaram)
+१०६०  
+The denied suppliant should not chafe.  
+His own want is proof enough. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०६०</summary>
@@ -561,7 +560,7 @@ His need anothers' need must show.        1060
 
 <details><summary>मूलम् - १०६०</summary>
 
-इरप्पाऩ् वॆगुळामै वेण्डुम् निरप्पिडुम्बै
-ताऩेयुम् सालुम् करि। १०६०
+इरप्पाऩ् वॆगुळामै वेण्डुम् निरप्पिडुम्बै  
+ताऩेयुम् सालुम् करि। १०६०  
 </details>
 

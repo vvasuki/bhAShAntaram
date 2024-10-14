@@ -3,11 +3,10 @@ title = "०१ पिरिवु आऱ्\u200cऱामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११५१</summary>
 
-सॆल्लामै उण्डेल् ऎऩक्कुरै मऱ्ऱुनिऩ्
-वल्वरवु वाऴ्वार्क् कुरै। ११५१
+सॆल्लामै उण्डेल् ऎऩक्कुरै मऱ्ऱुनिऩ्  
+वल्वरवु वाऴ्वार्क् कुरै। ११५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५१</summary>
@@ -18,10 +17,10 @@ title = "०१ पिरिवु आऱ्\u200cऱामै"
 
 <details><summary>NVK Ashraf choice (en) - ११५१</summary>
 
-११५१
-Tell me if you are not leaving. Bid farewell to those
-Who can survive to see your return.
-(N.V.K. Ashraf)
+११५१  
+Tell me if you are not leaving. Bid farewell to those  
+Who can survive to see your return.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११५१</summary>
@@ -60,14 +59,14 @@ Your quick return to those who live.        1151
 
 <details><summary>मूलम् - ११५१</summary>
 
-सॆल्लामै उण्डेल् ऎऩक्कुरै मऱ्ऱुनिऩ्
-वल्वरवु वाऴ्वार्क् कुरै। ११५१
+सॆल्लामै उण्डेल् ऎऩक्कुरै मऱ्ऱुनिऩ्  
+वल्वरवु वाऴ्वार्क् कुरै। ११५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५२</summary>
 
-इऩ्कण् उडैत्तवर् पार्वल् पिरिवञ्जुम्
-पुऩ्कण् उडैत्ताल् पुणर्वु। ११५२
+इऩ्कण् उडैत्तवर् पार्वल् पिरिवञ्जुम्  
+पुऩ्कण् उडैत्ताल् पुणर्वु। ११५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५२</summary>
@@ -78,10 +77,10 @@ Your quick return to those who live.        1151
 
 <details><summary>NVK Ashraf choice (en) - ११५२</summary>
 
-११५२
-His mere look was once a delight; but now
+११५२  
+His mere look was once a delight; but now  
 Even his embrace saddens, fearing separation. *	
-(V.V.S. Aiyar)
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५२</summary>
@@ -115,14 +114,14 @@ Embrace pains now by partings fear.        1152
 
 <details><summary>मूलम् - ११५२</summary>
 
-इऩ्कण् उडैत्तवर् पार्वल् पिरिवञ्जुम्
-पुऩ्कण् उडैत्ताल् पुणर्वु। ११५२
+इऩ्कण् उडैत्तवर् पार्वल् पिरिवञ्जुम्  
+पुऩ्कण् उडैत्ताल् पुणर्वु। ११५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५३</summary>
 
-अरिदरो तेऱ्ऱम् अऱिवुडैयार् कण्णुम्
-पिरिवो रिडत्तुण्मै याऩ्। ११५३
+अरिदरो तेऱ्ऱम् अऱिवुडैयार् कण्णुम्  
+पिरिवो रिडत्तुण्मै याऩ्। ११५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५३</summary>
@@ -133,10 +132,10 @@ Embrace pains now by partings fear.        1152
 
 <details><summary>NVK Ashraf choice (en) - ११५३</summary>
 
-११५३
-How hard it is to trust when even he who knows
-Breaks his word and goes!
-(P.S. Sundaram)
+११५३  
+How hard it is to trust when even he who knows  
+Breaks his word and goes!  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५३</summary>
@@ -170,14 +169,14 @@ While parting lurks in knowing ones?        1153
 
 <details><summary>मूलम् - ११५३</summary>
 
-अरिदरो तेऱ्ऱम् अऱिवुडैयार् कण्णुम्
-पिरिवो रिडत्तुण्मै याऩ्। ११५३
+अरिदरो तेऱ्ऱम् अऱिवुडैयार् कण्णुम्  
+पिरिवो रिडत्तुण्मै याऩ्। ११५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५४</summary>
 
-अळित्तञ्जल् ऎऩ्ऱवर् नीप्पिऩ् तॆळित्तसॊल्
-तेऱियार्क्कु उण्डो तवऱु। ११५४
+अळित्तञ्जल् ऎऩ्ऱवर् नीप्पिऩ् तॆळित्तसॊल्  
+तेऱियार्क्कु उण्डो तवऱु। ११५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५४</summary>
@@ -188,10 +187,10 @@ While parting lurks in knowing ones?        1153
 
 <details><summary>NVK Ashraf choice (en) - ११५४</summary>
 
-११५४
-How can I be blamed for trusting one
-Who left me after assuring “fear not”? *
-(K. Kannan)
+११५४  
+How can I be blamed for trusting one  
+Who left me after assuring “fear not”? *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५४</summary>
@@ -225,14 +224,14 @@ Is my trust in him at default?        1154
 
 <details><summary>मूलम् - ११५४</summary>
 
-अळित्तञ्जल् ऎऩ्ऱवर् नीप्पिऩ् तॆळित्तसॊल्
-तेऱियार्क्कु उण्डो तवऱु। ११५४
+अळित्तञ्जल् ऎऩ्ऱवर् नीप्पिऩ् तॆळित्तसॊल्  
+तेऱियार्क्कु उण्डो तवऱु। ११५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५५</summary>
 
-ओम्बिऩ् अमैन्दार् पिरिवोम्बल् मऱ्ऱवर्
-नीङ्गिऩ् अरिदाल् पुणर्वु। ११५५
+ओम्बिऩ् अमैन्दार् पिरिवोम्बल् मऱ्ऱवर्  
+नीङ्गिऩ् अरिदाल् पुणर्वु। ११५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५५</summary>
@@ -243,10 +242,10 @@ Is my trust in him at default?        1154
 
 <details><summary>NVK Ashraf choice (en) - ११५५</summary>
 
-११५५
-If you would serve me, stop him going.
-Gone we shall not meet again.
-(P.S. Sundaram)
+११५५  
+If you would serve me, stop him going.  
+Gone we shall not meet again.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५५</summary>
@@ -280,14 +279,14 @@ Meeting is rare if he would leave.        1155
 
 <details><summary>मूलम् - ११५५</summary>
 
-ओम्बिऩ् अमैन्दार् पिरिवोम्बल् मऱ्ऱवर्
-नीङ्गिऩ् अरिदाल् पुणर्वु। ११५५
+ओम्बिऩ् अमैन्दार् पिरिवोम्बल् मऱ्ऱवर्  
+नीङ्गिऩ् अरिदाल् पुणर्वु। ११५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५६</summary>
 
-पिरिवुरैक्कुम् वऩ्कण्णर् आयिऩ् अरिदवर्
-नल्गुवर् ऎऩ्ऩुम् नसै। ११५६
+पिरिवुरैक्कुम् वऩ्कण्णर् आयिऩ् अरिदवर्  
+नल्गुवर् ऎऩ्ऩुम् नसै। ११५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५६</summary>
@@ -298,10 +297,10 @@ Meeting is rare if he would leave.        1155
 
 <details><summary>NVK Ashraf choice (en) - ११५६</summary>
 
-११५६
-When he is stubborn to announce separation,
-It is futile to hope for reunion. *
-(J. Narayanaswamy)
+११५६  
+When he is stubborn to announce separation,  
+It is futile to hope for reunion. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५६</summary>
@@ -335,14 +334,14 @@ Is there hope of his renewed love?        1156
 
 <details><summary>मूलम् - ११५६</summary>
 
-पिरिवुरैक्कुम् वऩ्कण्णर् आयिऩ् अरिदवर्
-नल्गुवर् ऎऩ्ऩुम् नसै। ११५६
+पिरिवुरैक्कुम् वऩ्कण्णर् आयिऩ् अरिदवर्  
+नल्गुवर् ऎऩ्ऩुम् नसै। ११५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५७</summary>
 
-तुऱैवऩ् तुऱन्दमै तूऱ्ऱागॊल् मुऩ्कै
-इऱैइऱवा निऩ्ऱ वळै। ११५७
+तुऱैवऩ् तुऱन्दमै तूऱ्ऱागॊल् मुऩ्कै  
+इऱैइऱवा निऩ्ऱ वळै। ११५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५७</summary>
@@ -353,10 +352,10 @@ Is there hope of his renewed love?        1156
 
 <details><summary>NVK Ashraf choice (en) - ११५७</summary>
 
-११५७
-Do not the bangles sliding down my arms
-Forebode the departure of my lord? *
-(W.H. Drew and J. Lazarus)
+११५७  
+Do not the bangles sliding down my arms  
+Forebode the departure of my lord? *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११५७</summary>
@@ -395,14 +394,14 @@ The parting of my lord betray?        1157
 
 <details><summary>मूलम् - ११५७</summary>
 
-तुऱैवऩ् तुऱन्दमै तूऱ्ऱागॊल् मुऩ्कै
-इऱैइऱवा निऩ्ऱ वळै। ११५७
+तुऱैवऩ् तुऱन्दमै तूऱ्ऱागॊल् मुऩ्कै  
+इऱैइऱवा निऩ्ऱ वळै। ११५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५८</summary>
 
-इऩ्ऩादु इऩऩ्इल्ऊर् वाऴ्दल् अदऩिऩुम्
-इऩ्ऩादु इऩियार्प् पिरिवु। ११५८
+इऩ्ऩादु इऩऩ्इल्ऊर् वाऴ्दल् अदऩिऩुम्  
+इऩ्ऩादु इऩियार्प् पिरिवु। ११५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५८</summary>
@@ -413,10 +412,10 @@ The parting of my lord betray?        1157
 
 <details><summary>NVK Ashraf choice (en) - ११५८</summary>
 
-११५८
-It is bitter to live among strangers.
-Bitter still is to part with one's love. *
-(P.S. Sundaram)
+११५८  
+It is bitter to live among strangers.  
+Bitter still is to part with one's love. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५८</summary>
@@ -450,14 +449,14 @@ Worse is parting love's embrace!        1158
 
 <details><summary>मूलम् - ११५८</summary>
 
-इऩ्ऩादु इऩऩ्इल्ऊर् वाऴ्दल् अदऩिऩुम्
-इऩ्ऩादु इऩियार्प् पिरिवु। ११५८
+इऩ्ऩादु इऩऩ्इल्ऊर् वाऴ्दल् अदऩिऩुम्  
+इऩ्ऩादु इऩियार्प् पिरिवु। ११५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११५९</summary>
 
-तॊडिऱ्सुडिऩ् अल्लदु कामनोय् पोल
-विडिऱ्सुडल् आऱ्ऱुमो ती। ११५९
+तॊडिऱ्सुडिऩ् अल्लदु कामनोय् पोल  
+विडिऱ्सुडल् आऱ्ऱुमो ती। ११५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५९</summary>
@@ -468,10 +467,10 @@ Worse is parting love's embrace!        1158
 
 <details><summary>NVK Ashraf choice (en) - ११५९</summary>
 
-११५९
-Can fire, which hurts when touched,
-Hurt like the passion of love even untouched?
-(N.V.K. Ashraf)
+११५९  
+Can fire, which hurts when touched,  
+Hurt like the passion of love even untouched?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११५९</summary>
@@ -510,14 +509,14 @@ Parting of the hearts love-sick?        1159
 
 <details><summary>मूलम् - ११५९</summary>
 
-तॊडिऱ्सुडिऩ् अल्लदु कामनोय् पोल
-विडिऱ्सुडल् आऱ्ऱुमो ती। ११५९
+तॊडिऱ्सुडिऩ् अल्लदु कामनोय् पोल  
+विडिऱ्सुडल् आऱ्ऱुमो ती। ११५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६०</summary>
 
-अरिदाऱ्ऱि अल्लल्नोय् नीक्किप् पिरिवाऱ्ऱिप्
-पिऩ्इरुन्दु वाऴ्वार् पलर्। ११६०
+अरिदाऱ्ऱि अल्लल्नोय् नीक्किप् पिरिवाऱ्ऱिप्  
+पिऩ्इरुन्दु वाऴ्वार् पलर्। ११६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६०</summary>
@@ -528,10 +527,10 @@ Parting of the hearts love-sick?        1159
 
 <details><summary>NVK Ashraf choice (en) - ११६०</summary>
 
-११६०
-Strange how many can bear separation,
-Survive sorrow, and live!
-(P.S. Sundaram)
+११६०  
+Strange how many can bear separation,  
+Survive sorrow, and live!  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६०</summary>
@@ -563,7 +562,7 @@ Not I this sore so distressing.        1160
 
 <details><summary>मूलम् - ११६०</summary>
 
-अरिदाऱ्ऱि अल्लल्नोय् नीक्किप् पिरिवाऱ्ऱिप्
-पिऩ्इरुन्दु वाऴ्वार् पलर्। ११६०
+अरिदाऱ्ऱि अल्लल्नोय् नीक्किप् पिरिवाऱ्ऱिप्  
+पिऩ्इरुन्दु वाऴ्वार् पलर्। ११६०  
 </details>
 

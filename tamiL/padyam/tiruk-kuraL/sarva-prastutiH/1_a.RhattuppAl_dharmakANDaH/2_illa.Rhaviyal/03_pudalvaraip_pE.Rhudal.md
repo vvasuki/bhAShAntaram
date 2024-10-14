@@ -3,11 +3,10 @@ title = "०३ पुदल्वरैप् पॆऱुदल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ६१</summary>
 
-पॆऱुमवऱ्ऱुळ् यामऱिवदु इल्लै अऱिवऱिन्द
-मक्कट्पेऱु अल्ल पिऱ। ६१
+पॆऱुमवऱ्ऱुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
+मक्कट्पेऱु अल्ल पिऱ। ६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१</summary>
@@ -18,10 +17,10 @@ title = "०३ पुदल्वरैप् पॆऱुदल्"
 
 <details><summary>NVK Ashraf choice (en) - ६१</summary>
 
-००६१
-Of all blessings we know,
-Nothing worth than begetting intelligent children.
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+००६१  
+Of all blessings we know,  
+Nothing worth than begetting intelligent children.  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६१</summary>
@@ -55,14 +54,14 @@ Than children virtuous and wise.         61
 
 <details><summary>मूलम् - ६१</summary>
 
-पॆऱुमवऱ्ऱुळ् यामऱिवदु इल्लै अऱिवऱिन्द
-मक्कट्पेऱु अल्ल पिऱ। ६१
+पॆऱुमवऱ्ऱुळ् यामऱिवदु इल्लै अऱिवऱिन्द  
+मक्कट्पेऱु अल्ल पिऱ। ६१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६२</summary>
 
-ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्
-पण्बुडै मक्कट् पॆऱिऩ्। ६२
+ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्  
+पण्बुडै मक्कट् पॆऱिऩ्। ६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२</summary>
@@ -73,10 +72,10 @@ Than children virtuous and wise.         61
 
 <details><summary>NVK Ashraf choice (en) - ६२</summary>
 
-००६२
-No harm will befall in all seven births
-If one begets blameless children.
-(P.S. Sundaram)
+००६२  
+No harm will befall in all seven births  
+If one begets blameless children.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६२</summary>
@@ -110,14 +109,14 @@ Noble sons bring all we wish.         62
 
 <details><summary>मूलम् - ६२</summary>
 
-ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्
-पण्बुडै मक्कट् पॆऱिऩ्। ६२
+ऎऴुबिऱप्पुम् तीयवै तीण्डा पऴिबिऱङ्गाप्  
+पण्बुडै मक्कट् पॆऱिऩ्। ६२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६३</summary>
 
-तम्बॊरुळ् ऎऩ्पदम् मक्कळ् अवर्बॊरुळ्
-तम्दम् विऩैयाऩ् वरुम्। ६३
+तम्बॊरुळ् ऎऩ्पदम् मक्कळ् अवर्बॊरुळ्  
+तम्दम् विऩैयाऩ् वरुम्। ६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३</summary>
@@ -128,10 +127,10 @@ Noble sons bring all we wish.         62
 
 <details><summary>NVK Ashraf choice (en) - ६३</summary>
 
-००६३
-Children are called one's fortune;
-And their fortune the result of their own deeds. *
-(S. Thandapani Desikar)
+००६३  
+Children are called one's fortune;  
+And their fortune the result of their own deeds. *  
+(S. Thandapani Desikar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३</summary>
@@ -165,14 +164,14 @@ Their wealth is measured by their deed.         63
 
 <details><summary>मूलम् - ६३</summary>
 
-तम्बॊरुळ् ऎऩ्पदम् मक्कळ् अवर्बॊरुळ्
-तम्दम् विऩैयाऩ् वरुम्। ६३
+तम्बॊरुळ् ऎऩ्पदम् मक्कळ् अवर्बॊरुळ्  
+तम्दम् विऩैयाऩ् वरुम्। ६३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६४</summary>
 
-अमिऴ्दिऩुम् आऱ्ऱ इऩिदेदम् मक्कळ्
-सिऱुगै अळाविय कूऴ्। ६४
+अमिऴ्दिऩुम् आऱ्ऱ इऩिदेदम् मक्कळ्  
+सिऱुगै अळाविय कूऴ्। ६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४</summary>
@@ -183,10 +182,10 @@ Their wealth is measured by their deed.         63
 
 <details><summary>NVK Ashraf choice (en) - ६४</summary>
 
-००६४
-Sweeter than nectar is the porridge messed up
-By the tiny hands of one’s children. *
-(G. Vanmikanathan)
+००६४  
+Sweeter than nectar is the porridge messed up  
+By the tiny hands of one’s children. *  
+(G. Vanmikanathan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४</summary>
@@ -220,14 +219,14 @@ In which one's children hands insert.         64
 
 <details><summary>मूलम् - ६४</summary>
 
-अमिऴ्दिऩुम् आऱ्ऱ इऩिदेदम् मक्कळ्
-सिऱुगै अळाविय कूऴ्। ६४
+अमिऴ्दिऩुम् आऱ्ऱ इऩिदेदम् मक्कळ्  
+सिऱुगै अळाविय कूऴ्। ६४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६५</summary>
 
-मक्कळ्मॆय् तीण्डल् उडऱ्किऩ्पम् मऱ्ऱु अवर्
-सॊऱ्केट्टल् इऩ्पम् सॆविक्कु। ६५
+मक्कळ्मॆय् तीण्डल् उडऱ्किऩ्पम् मऱ्ऱु अवर्  
+सॊऱ्केट्टल् इऩ्पम् सॆविक्कु। ६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५</summary>
@@ -238,10 +237,10 @@ In which one's children hands insert.         64
 
 <details><summary>NVK Ashraf choice (en) - ६५</summary>
 
-००६५
-To be touched by children is a delight to the body,
-And to hear their speech a joy to the ear.
-(N.V.K. Ashraf)
+००६५  
+To be touched by children is a delight to the body,  
+And to hear their speech a joy to the ear.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५</summary>
@@ -275,14 +274,14 @@ Sweet to ears are their words lovely.         65
 
 <details><summary>मूलम् - ६५</summary>
 
-मक्कळ्मॆय् तीण्डल् उडऱ्किऩ्पम् मऱ्ऱु अवर्
-सॊऱ्केट्टल् इऩ्पम् सॆविक्कु। ६५
+मक्कळ्मॆय् तीण्डल् उडऱ्किऩ्पम् मऱ्ऱु अवर्  
+सॊऱ्केट्टल् इऩ्पम् सॆविक्कु। ६५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६६</summary>
 
-कुऴल् इऩिदु याऴ्इऩिदु ऎऩ्पदम् मक्कळ्
-मऴलैच्चॊल् केळा तवर्। ६६
+कुऴल् इऩिदु याऴ्इऩिदु ऎऩ्पदम् मक्कळ्  
+मऴलैच्चॊल् केळा तवर्। ६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६</summary>
@@ -293,10 +292,10 @@ Sweet to ears are their words lovely.         65
 
 <details><summary>NVK Ashraf choice (en) - ६६</summary>
 
-००६६
-"The flute is sweet", "The lute is sweet",
-Say those who never heard their children lisp.
-(P.S. Sundaram)
+००६६  
+"The flute is sweet", "The lute is sweet",  
+Say those who never heard their children lisp.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६</summary>
@@ -330,14 +329,14 @@ Deaf to baby's babble's lay!         66
 
 <details><summary>मूलम् - ६६</summary>
 
-कुऴल् इऩिदु याऴ्इऩिदु ऎऩ्पदम् मक्कळ्
-मऴलैच्चॊल् केळा तवर्। ६६
+कुऴल् इऩिदु याऴ्इऩिदु ऎऩ्पदम् मक्कळ्  
+मऴलैच्चॊल् केळा तवर्। ६६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६७</summary>
 
-तन्दै मगऱ्काऱ्ऱु नऩ्ऱि अवैयत्तु
-मुन्दि इरुप्पच् चॆयल्। ६७
+तन्दै मगऱ्काऱ्ऱु नऩ्ऱि अवैयत्तु  
+मुन्दि इरुप्पच् चॆयल्। ६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६७</summary>
@@ -348,10 +347,10 @@ Deaf to baby's babble's lay!         66
 
 <details><summary>NVK Ashraf choice (en) - ६७</summary>
 
-००६७
-The good a father can do to his child
-Is to make him excel in the midst of the learned. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+००६७  
+The good a father can do to his child  
+Is to make him excel in the midst of the learned. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६७</summary>
@@ -385,14 +384,14 @@ To seat him in front of the wise.         67
 
 <details><summary>मूलम् - ६७</summary>
 
-तन्दै मगऱ्काऱ्ऱु नऩ्ऱि अवैयत्तु
-मुन्दि इरुप्पच् चॆयल्। ६७
+तन्दै मगऱ्काऱ्ऱु नऩ्ऱि अवैयत्तु  
+मुन्दि इरुप्पच् चॆयल्। ६७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६८</summary>
 
-तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु
-मऩ्ऩुयिर्क् कॆल्लाम् इऩिदु। ६८
+तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु  
+मऩ्ऩुयिर्क् कॆल्लाम् इऩिदु। ६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६८</summary>
@@ -403,10 +402,10 @@ To seat him in front of the wise.         67
 
 <details><summary>NVK Ashraf choice (en) - ६८</summary>
 
-००६८
-The wisdom of one's own children
-Brings joy to all life on the earth.
-(N.V.K. Ashraf)
+००६८  
+The wisdom of one's own children  
+Brings joy to all life on the earth.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६८</summary>
@@ -440,14 +439,14 @@ To see their children themselves excel.         68
 
 <details><summary>मूलम् - ६८</summary>
 
-तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु
-मऩ्ऩुयिर्क् कॆल्लाम् इऩिदु। ६८
+तम्मिऩ्तम् मक्कळ् अऱिवुडैमै मानिलत्तु  
+मऩ्ऩुयिर्क् कॆल्लाम् इऩिदु। ६८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६९</summary>
 
-ईऩ्ऱ पॊऴुदिऩ् पॆरिदुवक्कुम् तऩ्मगऩैच्
-चाऩ्ऱोऩ् ऎऩक्केट्ट ताय्। ६९
+ईऩ्ऱ पॊऴुदिऩ् पॆरिदुवक्कुम् तऩ्मगऩैच्  
+चाऩ्ऱोऩ् ऎऩक्केट्ट ताय्। ६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६९</summary>
@@ -458,10 +457,10 @@ To see their children themselves excel.         68
 
 <details><summary>NVK Ashraf choice (en) - ६९</summary>
 
-००६९
-A woman rejoices at the birth of a son,
-But even more when he is praised.
-(P.S. Sundaram)
+००६९  
+A woman rejoices at the birth of a son,  
+But even more when he is praised.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६९</summary>
@@ -495,14 +494,14 @@ Delights more than when she begot.         69
 
 <details><summary>मूलम् - ६९</summary>
 
-ईऩ्ऱ पॊऴुदिऩ् पॆरिदुवक्कुम् तऩ्मगऩैच्
-चाऩ्ऱोऩ् ऎऩक्केट्ट ताय्। ६९
+ईऩ्ऱ पॊऴुदिऩ् पॆरिदुवक्कुम् तऩ्मगऩैच्  
+चाऩ्ऱोऩ् ऎऩक्केट्ट ताय्। ६९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७०</summary>
 
-मगऩ्तन्दैक्कु आऱ्ऱुम् उदवि इवऩ्तन्दै
-ऎऩ्नोऱ्ऱाऩ् कॊल् ऎऩुम् सॊल्। ७०
+मगऩ्तन्दैक्कु आऱ्ऱुम् उदवि इवऩ्तन्दै  
+ऎऩ्नोऱ्ऱाऩ् कॊल् ऎऩुम् सॊल्। ७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७०</summary>
@@ -513,10 +512,10 @@ Delights more than when she begot.         69
 
 <details><summary>NVK Ashraf choice (en) - ७०</summary>
 
-००७०
-The son's duty to his father is to make world ask,
-"By what austerities did he merit such a son! *
-(Satguru Subramuniyaswami)
+००७०  
+The son's duty to his father is to make world ask,  
+"By what austerities did he merit such a son! *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७०</summary>
@@ -549,7 +548,7 @@ The son to sire this word is debt
 
 <details><summary>मूलम् - ७०</summary>
 
-मगऩ्तन्दैक्कु आऱ्ऱुम् उदवि इवऩ्तन्दै
-ऎऩ्नोऱ्ऱाऩ् कॊल् ऎऩुम् सॊल्। ७०
+मगऩ्तन्दैक्कु आऱ्ऱुम् उदवि इवऩ्तन्दै  
+ऎऩ्नोऱ्ऱाऩ् कॊल् ऎऩुम् सॊल्। ७०  
 </details>
 

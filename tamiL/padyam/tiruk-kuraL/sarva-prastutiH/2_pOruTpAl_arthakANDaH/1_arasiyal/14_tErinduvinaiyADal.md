@@ -3,11 +3,10 @@ title = "१४ तॆरिन्दुविनैयाडल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५११</summary>
 
-नऩ्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द
-तऩ्मैयाऩ् आळप् पडुम्। ५११
+नऩ्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द  
+तऩ्मैयाऩ् आळप् पडुम्। ५११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५११</summary>
@@ -18,10 +17,10 @@ title = "१४ तॆरिन्दुविनैयाडल्"
 
 <details><summary>NVK Ashraf choice (en) - ५११</summary>
 
-०५११
-Employ those who prefer to do the good
-After scanning both good and bad.
-(N.V.K. Ashraf)
+०५११  
+Employ those who prefer to do the good  
+After scanning both good and bad.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५११</summary>
@@ -55,14 +54,14 @@ The good and bad and do good turn.        511
 
 <details><summary>मूलम् - ५११</summary>
 
-नऩ्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द
-तऩ्मैयाऩ् आळप् पडुम्। ५११
+नऩ्मैयुम् तीमैयुम् नाडि नलम्बुरिन्द  
+तऩ्मैयाऩ् आळप् पडुम्। ५११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१२</summary>
 
-वारि पॆरुक्कि वळम्बडुत्तु उऱ्ऱवै
-आराय्वाऩ् सॆय्ग विऩै। ५१२
+वारि पॆरुक्कि वळम्बडुत्तु उऱ्ऱवै  
+आराय्वाऩ् सॆय्ग विऩै। ५१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१२</summary>
@@ -73,10 +72,10 @@ The good and bad and do good turn.        511
 
 <details><summary>NVK Ashraf choice (en) - ५१२</summary>
 
-०५१२
-Entrust the job to one who can augment revenue,
-Foster wealth and find out hurdles. *
-(J. Narayanaswamy)
+०५१२  
+Entrust the job to one who can augment revenue,  
+Foster wealth and find out hurdles. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१२</summary>
@@ -110,14 +109,14 @@ Fosters wealth and prevents ills.        512
 
 <details><summary>मूलम् - ५१२</summary>
 
-वारि पॆरुक्कि वळम्बडुत्तु उऱ्ऱवै
-आराय्वाऩ् सॆय्ग विऩै। ५१२
+वारि पॆरुक्कि वळम्बडुत्तु उऱ्ऱवै  
+आराय्वाऩ् सॆय्ग विऩै। ५१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१३</summary>
 
-अऩ्पऱिवु तेऱ्ऱम् अवाविऩ्मै इन्नाऩ्कुम्
-नऩ्कुडैयाऩ् कट्टे तॆळिवु। ५१३
+अऩ्पऱिवु तेऱ्ऱम् अवाविऩ्मै इन्नाऩ्कुम्  
+नऩ्कुडैयाऩ् कट्टे तॆळिवु। ५१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१३</summary>
@@ -128,10 +127,10 @@ Fosters wealth and prevents ills.        512
 
 <details><summary>NVK Ashraf choice (en) - ५१३</summary>
 
-०५१३
-The qualified possess these four:
-Affection, wisdom, clarity and contentment.
-(N.V.K. Ashraf)
+०५१३  
+The qualified possess these four:  
+Affection, wisdom, clarity and contentment.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१३</summary>
@@ -165,14 +164,14 @@ Love, wit, non-craving, clarity.        513
 
 <details><summary>मूलम् - ५१३</summary>
 
-अऩ्पऱिवु तेऱ्ऱम् अवाविऩ्मै इन्नाऩ्कुम्
-नऩ्कुडैयाऩ् कट्टे तॆळिवु। ५१३
+अऩ्पऱिवु तेऱ्ऱम् अवाविऩ्मै इन्नाऩ्कुम्  
+नऩ्कुडैयाऩ् कट्टे तॆळिवु। ५१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१४</summary>
 
-ऎऩैवगैयाऩ् तेऱियक् कण्णुम् विऩैवगैयाऩ्
-वेऱागुम् मान्दर् पलर्। ५१४
+ऎऩैवगैयाऩ् तेऱियक् कण्णुम् विऩैवगैयाऩ्  
+वेऱागुम् मान्दर् पलर्। ५१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१४</summary>
@@ -183,10 +182,10 @@ Love, wit, non-craving, clarity.        513
 
 <details><summary>NVK Ashraf choice (en) - ५१४</summary>
 
-०५१४
-Put into many tests, they pass.
-Yet when subjected to different tasks, many fail.
-(N.V.K. Ashraf)
+०५१४  
+Put into many tests, they pass.  
+Yet when subjected to different tasks, many fail.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१४</summary>
@@ -220,14 +219,14 @@ Many differ before duty.        514
 
 <details><summary>मूलम् - ५१४</summary>
 
-ऎऩैवगैयाऩ् तेऱियक् कण्णुम् विऩैवगैयाऩ्
-वेऱागुम् मान्दर् पलर्। ५१४
+ऎऩैवगैयाऩ् तेऱियक् कण्णुम् विऩैवगैयाऩ्  
+वेऱागुम् मान्दर् पलर्। ५१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१५</summary>
 
-अऱिन्दाऱ्ऱिच् चॆय्गिऱ्पाऱ्कु अल्लाल् विऩैदाऩ्
-सिऱन्दाऩॆऩ्ऱु एवऱ्पाऱ् ऱऩ्ऱु। ५१५
+अऱिन्दाऱ्ऱिच् चॆय्गिऱ्पाऱ्कु अल्लाल् विऩैदाऩ्  
+सिऱन्दाऩॆऩ्ऱु एवऱ्पाऱ् ऱऩ्ऱु। ५१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१५</summary>
@@ -238,10 +237,10 @@ Many differ before duty.        514
 
 <details><summary>NVK Ashraf choice (en) - ५१५</summary>
 
-०५१५
-Where knowledge and diligence are required,
-Don't entrust tasks on personal loyalty.
-(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+०५१५  
+Where knowledge and diligence are required,  
+Don't entrust tasks on personal loyalty.  
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१५</summary>
@@ -275,14 +274,14 @@ Not by fondness but by hard test.        515
 
 <details><summary>मूलम् - ५१५</summary>
 
-अऱिन्दाऱ्ऱिच् चॆय्गिऱ्पाऱ्कु अल्लाल् विऩैदाऩ्
-सिऱन्दाऩॆऩ्ऱु एवऱ्पाऱ् ऱऩ्ऱु। ५१५
+अऱिन्दाऱ्ऱिच् चॆय्गिऱ्पाऱ्कु अल्लाल् विऩैदाऩ्  
+सिऱन्दाऩॆऩ्ऱु एवऱ्पाऱ् ऱऩ्ऱु। ५१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१६</summary>
 
-सॆय्वाऩै नाडि विऩैनाडिक् कालत्तोडु
-ऎय्द उणर्न्दु सॆयल्। ५१६
+सॆय्वाऩै नाडि विऩैनाडिक् कालत्तोडु  
+ऎय्द उणर्न्दु सॆयल्। ५१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१६</summary>
@@ -293,10 +292,10 @@ Not by fondness but by hard test.        515
 
 <details><summary>NVK Ashraf choice (en) - ५१६</summary>
 
-०५१६
-Weigh well the agent, the task
-And the time before you act.
-(P.S. Sundaram)
+०५१६  
+Weigh well the agent, the task  
+And the time before you act.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१६</summary>
@@ -330,14 +329,14 @@ And just in proper time proceed.        516
 
 <details><summary>मूलम् - ५१६</summary>
 
-सॆय्वाऩै नाडि विऩैनाडिक् कालत्तोडु
-ऎय्द उणर्न्दु सॆयल्। ५१६
+सॆय्वाऩै नाडि विऩैनाडिक् कालत्तोडु  
+ऎय्द उणर्न्दु सॆयल्। ५१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१७</summary>
 
-इदऩै इदऩाल् इवऩ्मुडिक्कुम् ऎऩ्ऱाय्न्दु
-अदऩै अवऩ्कण् विडल्। ५१७
+इदऩै इदऩाल् इवऩ्मुडिक्कुम् ऎऩ्ऱाय्न्दु  
+अदऩै अवऩ्कण् विडल्। ५१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१७</summary>
@@ -348,10 +347,10 @@ And just in proper time proceed.        516
 
 <details><summary>NVK Ashraf choice (en) - ५१७</summary>
 
-०५१७
-Assured this man will do this task this way,
-Leave it to him.
-(P.S. Sundaram)
+०५१७  
+Assured this man will do this task this way,  
+Leave it to him.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५१७</summary>
@@ -390,14 +389,14 @@ Like this entrust the duty due.        517
 
 <details><summary>मूलम् - ५१७</summary>
 
-इदऩै इदऩाल् इवऩ्मुडिक्कुम् ऎऩ्ऱाय्न्दु
-अदऩै अवऩ्कण् विडल्। ५१७
+इदऩै इदऩाल् इवऩ्मुडिक्कुम् ऎऩ्ऱाय्न्दु  
+अदऩै अवऩ्कण् विडल्। ५१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१८</summary>
 
-विऩैक् कुरिमै नाडिय पिऩ्ऱै अवऩै
-अदऱ्कुरिय ऩागच् चॆयल्। ५१८
+विऩैक् कुरिमै नाडिय पिऩ्ऱै अवऩै  
+अदऱ्कुरिय ऩागच् चॆयल्। ५१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१८</summary>
@@ -408,10 +407,10 @@ Like this entrust the duty due.        517
 
 <details><summary>NVK Ashraf choice (en) - ५१८</summary>
 
-०५१८
-After ascertaining what work befits a man,
-Assign him the responsibility. *
-(Satguru Subramuniyaswami)
+०५१८  
+After ascertaining what work befits a man,  
+Assign him the responsibility. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१८</summary>
@@ -445,14 +444,14 @@ Leave him to do the best he can.        518
 
 <details><summary>मूलम् - ५१८</summary>
 
-विऩैक् कुरिमै नाडिय पिऩ्ऱै अवऩै
-अदऱ्कुरिय ऩागच् चॆयल्। ५१८
+विऩैक् कुरिमै नाडिय पिऩ्ऱै अवऩै  
+अदऱ्कुरिय ऩागच् चॆयल्। ५१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१९</summary>
 
-विऩैक्कण् विऩैयुडैयाऩ् केण्मैवे ऱाग
-निऩैप्पाऩै नीङ्गुम् तिरु। ५१९
+विऩैक्कण् विऩैयुडैयाऩ् केण्मैवे ऱाग  
+निऩैप्पाऩै नीङ्गुम् तिरु। ५१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१९</summary>
@@ -463,10 +462,10 @@ Leave him to do the best he can.        518
 
 <details><summary>NVK Ashraf choice (en) - ५१९</summary>
 
-०५१९
-Fortune deserts him who doubts
-The liberties taken by a devout worker. *
-(P.S. Sundaram), VSS
+०५१९  
+Fortune deserts him who doubts  
+The liberties taken by a devout worker. *  
+(P.S. Sundaram), VSS  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५१९</summary>
@@ -500,14 +499,14 @@ Doubt them; and fortune departs quick.        519
 
 <details><summary>मूलम् - ५१९</summary>
 
-विऩैक्कण् विऩैयुडैयाऩ् केण्मैवे ऱाग
-निऩैप्पाऩै नीङ्गुम् तिरु। ५१९
+विऩैक्कण् विऩैयुडैयाऩ् केण्मैवे ऱाग  
+निऩैप्पाऩै नीङ्गुम् तिरु। ५१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२०</summary>
 
-नाडो ऱुम् नाडुग मऩ्ऩऩ् विऩैसॆय्वाऩ्
-कोडामै कोडा तुलगु। ५२०
+नाडो ऱुम् नाडुग मऩ्ऩऩ् विऩैसॆय्वाऩ्  
+कोडामै कोडा तुलगु। ५२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२०</summary>
@@ -518,10 +517,10 @@ Doubt them; and fortune departs quick.        519
 
 <details><summary>NVK Ashraf choice (en) - ५२०</summary>
 
-०५२०
-Nothing goes wrong in the state of a king
-Who often checks his officials for any wrong.
-(N.V.K. Ashraf)
+०५२०  
+Nothing goes wrong in the state of a king  
+Who often checks his officials for any wrong.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२०</summary>
@@ -554,7 +553,7 @@ The king must look to this aright.        520
 
 <details><summary>मूलम् - ५२०</summary>
 
-नाडो ऱुम् नाडुग मऩ्ऩऩ् विऩैसॆय्वाऩ्
-कोडामै कोडा तुलगु। ५२०
+नाडो ऱुम् नाडुग मऩ्ऩऩ् विऩैसॆय्वाऩ्  
+कोडामै कोडा तुलगु। ५२०  
 </details>
 

@@ -3,11 +3,10 @@ title = "२० पुगऴ्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २३१</summary>
 
-ईदल् इसैबड वाऴ्दल् अदुवल्लदु
-ऊदियम् इल्लै उयिर्क्कु। २३१
+ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
+ऊदियम् इल्लै उयिर्क्कु। २३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३१</summary>
@@ -18,10 +17,10 @@ title = "२० पुगऴ्"
 
 <details><summary>NVK Ashraf choice (en) - २३१</summary>
 
-०२३१
-No greater income in life than to live with fame
-That comes out of charity.
-(N.V.K. Ashraf)
+०२३१  
+No greater income in life than to live with fame  
+That comes out of charity.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३१</summary>
@@ -55,14 +54,14 @@ The greatest gain for all that live.        231
 
 <details><summary>मूलम् - २३१</summary>
 
-ईदल् इसैबड वाऴ्दल् अदुवल्लदु
-ऊदियम् इल्लै उयिर्क्कु। २३१
+ईदल् इसैबड वाऴ्दल् अदुवल्लदु  
+ऊदियम् इल्लै उयिर्क्कु। २३१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३२</summary>
 
-उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊऩ्ऱु
-ईवार्मेल् निऱ्कुम् पुगऴ्। २३२
+उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊऩ्ऱु  
+ईवार्मेल् निऱ्कुम् पुगऴ्। २३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३२</summary>
@@ -73,10 +72,10 @@ The greatest gain for all that live.        231
 
 <details><summary>NVK Ashraf choice (en) - २३२</summary>
 
-०२३२
-The fame of men who give to those in need
-Will live for ever in the words of all. *
-(Kasthuri Sreenivasan)
+०२३२  
+The fame of men who give to those in need  
+Will live for ever in the words of all. *  
+(Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३२</summary>
@@ -110,14 +109,14 @@ Is praised aloud as popular.        232
 
 <details><summary>मूलम् - २३२</summary>
 
-उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊऩ्ऱु
-ईवार्मेल् निऱ्कुम् पुगऴ्। २३२
+उरैप्पार् उरैप्पवै ऎल्लाम् इरप्पार्क्कॊऩ्ऱु  
+ईवार्मेल् निऱ्कुम् पुगऴ्। २३२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३३</summary>
 
-ऒऩ्ऱा उलगत्तु उयर्न्द पुगऴल्लाल्
-पॊऩ्ऱादु निऱ्पदॊऩ् ऱिल्। २३३
+ऒऩ्ऱा उलगत्तु उयर्न्द पुगऴल्लाल्  
+पॊऩ्ऱादु निऱ्पदॊऩ् ऱिल्। २३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३३</summary>
@@ -128,10 +127,10 @@ Is praised aloud as popular.        232
 
 <details><summary>NVK Ashraf choice (en) - २३३</summary>
 
-०२३३
-Nothing imperishable lasts long in this world
-Than glorious fame beyond compare.
-(N.V.K. Ashraf)
+०२३३  
+Nothing imperishable lasts long in this world  
+Than glorious fame beyond compare.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३३</summary>
@@ -165,14 +164,14 @@ Saving high fame of the giver!        233
 
 <details><summary>मूलम् - २३३</summary>
 
-ऒऩ्ऱा उलगत्तु उयर्न्द पुगऴल्लाल्
-पॊऩ्ऱादु निऱ्पदॊऩ् ऱिल्। २३३
+ऒऩ्ऱा उलगत्तु उयर्न्द पुगऴल्लाल्  
+पॊऩ्ऱादु निऱ्पदॊऩ् ऱिल्। २३३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३४</summary>
 
-निलवरै नीळ्बुगऴ् आऱ्ऱिऩ् पुलवरैप्
-पोऱ्ऱादु पुत्तेळ् उलगु। २३४
+निलवरै नीळ्बुगऴ् आऱ्ऱिऩ् पुलवरैप्  
+पोऱ्ऱादु पुत्तेळ् उलगु। २३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३४</summary>
@@ -183,10 +182,10 @@ Saving high fame of the giver!        233
 
 <details><summary>NVK Ashraf choice (en) - २३४</summary>
 
-०२३४
-Even celestials will cease praising saints
-When you gain world-wide lasting fame. *
-(Satguru Subramuniyaswami), (V.V.S. Aiyar)
+०२३४  
+Even celestials will cease praising saints  
+When you gain world-wide lasting fame. *  
+(Satguru Subramuniyaswami), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३४</summary>
@@ -220,14 +219,14 @@ To hail the men of lasting praise        234
 
 <details><summary>मूलम् - २३४</summary>
 
-निलवरै नीळ्बुगऴ् आऱ्ऱिऩ् पुलवरैप्
-पोऱ्ऱादु पुत्तेळ् उलगु। २३४
+निलवरै नीळ्बुगऴ् आऱ्ऱिऩ् पुलवरैप्  
+पोऱ्ऱादु पुत्तेळ् उलगु। २३४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३५</summary>
 
-नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्
-वित्तगर्क् कल्लाल् अरिदु। २३५
+नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
+वित्तगर्क् कल्लाल् अरिदु। २३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३५</summary>
@@ -238,10 +237,10 @@ To hail the men of lasting praise        234
 
 <details><summary>NVK Ashraf choice (en) - २३५</summary>
 
-०२३५
-None other than the wise can have
-Some gain in loss and fame in death.
-(N.V.K. Ashraf)
+०२३५  
+None other than the wise can have  
+Some gain in loss and fame in death.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३५</summary>
@@ -275,14 +274,14 @@ Are rare but for the soulful worth.        235
 
 <details><summary>मूलम् - २३५</summary>
 
-नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्
-वित्तगर्क् कल्लाल् अरिदु। २३५
+नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्  
+वित्तगर्क् कल्लाल् अरिदु। २३५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३६</summary>
 
-तोऩ्ऱिऩ् पुगऴॊडु तोऩ्ऱुग अह्दिलार्
-तोऩ्ऱलिऩ् तोऩ्ऱामै नऩ्ऱु। २३६
+तोऩ्ऱिऩ् पुगऴॊडु तोऩ्ऱुग अह्दिलार्  
+तोऩ्ऱलिऩ् तोऩ्ऱामै नऩ्ऱु। २३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३६</summary>
@@ -293,10 +292,10 @@ Are rare but for the soulful worth.        235
 
 <details><summary>NVK Ashraf choice (en) - २३६</summary>
 
-०२३६
-Be born, if you must, for fame;
-Or else better not to be born at all.
-(P.S. Sundaram)
+०२३६  
+Be born, if you must, for fame;  
+Or else better not to be born at all.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३६</summary>
@@ -330,14 +329,14 @@ If not of birth you must not vaunt.        236
 
 <details><summary>मूलम् - २३६</summary>
 
-तोऩ्ऱिऩ् पुगऴॊडु तोऩ्ऱुग अह्दिलार्
-तोऩ्ऱलिऩ् तोऩ्ऱामै नऩ्ऱु। २३६
+तोऩ्ऱिऩ् पुगऴॊडु तोऩ्ऱुग अह्दिलार्  
+तोऩ्ऱलिऩ् तोऩ्ऱामै नऩ्ऱु। २३६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३७</summary>
 
-पुगऴ्बड वाऴादार् तन्नोवार् तम्मै
-इगऴ्वारै नोवदु ऎवऩ्? २३७
+पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
+इगऴ्वारै नोवदु ऎवऩ्? २३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३७</summary>
@@ -348,10 +347,10 @@ If not of birth you must not vaunt.        236
 
 <details><summary>NVK Ashraf choice (en) - २३७</summary>
 
-०२३७
-Why blame those who blame the shame of those
-Who cannot live in fame? *
-( Shuddhananda Bharatiar)
+०२३७  
+Why blame those who blame the shame of those  
+Who cannot live in fame? *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३७</summary>
@@ -386,14 +385,14 @@ Of those who cannot live in fame?        237
 
 <details><summary>मूलम् - २३७</summary>
 
-पुगऴ्बड वाऴादार् तन्नोवार् तम्मै
-इगऴ्वारै नोवदु ऎवऩ्? २३७
+पुगऴ्बड वाऴादार् तन्नोवार् तम्मै  
+इगऴ्वारै नोवदु ऎवऩ्? २३७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३८</summary>
 
-वसैयॆऩ्प वैयत्तार्क् कॆल्लाम् इसैयॆऩ्ऩुम्
-ऎच्चम् पॆऱाअ विडिऩ्। २३८
+वसैयॆऩ्प वैयत्तार्क् कॆल्लाम् इसैयॆऩ्ऩुम्  
+ऎच्चम् पॆऱाअ विडिऩ्। २३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३८</summary>
@@ -404,10 +403,10 @@ Of those who cannot live in fame?        237
 
 <details><summary>NVK Ashraf choice (en) - २३८</summary>
 
-०२३८
-The whole world will blame, they say,
-If you fail to earn that renown called fame.
-(N.V.K. Ashraf)
+०२३८  
+The whole world will blame, they say,  
+If you fail to earn that renown called fame.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३८</summary>
@@ -442,14 +441,14 @@ Not to beget the child of fame.        238
 
 <details><summary>मूलम् - २३८</summary>
 
-वसैयॆऩ्प वैयत्तार्क् कॆल्लाम् इसैयॆऩ्ऩुम्
-ऎच्चम् पॆऱाअ विडिऩ्। २३८
+वसैयॆऩ्प वैयत्तार्क् कॆल्लाम् इसैयॆऩ्ऩुम्  
+ऎच्चम् पॆऱाअ विडिऩ्। २३८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३९</summary>
 
-वसैयिला वण्बयऩ् कुऩ्ऱुम् इसैयिला
-याक्कै पॊऱुत्त निलम्। २३९
+वसैयिला वण्बयऩ् कुऩ्ऱुम् इसैयिला  
+याक्कै पॊऱुत्त निलम्। २३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३९</summary>
@@ -460,10 +459,10 @@ Not to beget the child of fame.        238
 
 <details><summary>NVK Ashraf choice (en) - २३९</summary>
 
-०२३९
-The land that bears inglorious bodies
-Will shrink in its glory of yield.
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+०२३९  
+The land that bears inglorious bodies  
+Will shrink in its glory of yield.  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३९</summary>
@@ -497,14 +496,14 @@ O'erburden it without renown.        239
 
 <details><summary>मूलम् - २३९</summary>
 
-वसैयिला वण्बयऩ् कुऩ्ऱुम् इसैयिला
-याक्कै पॊऱुत्त निलम्। २३९
+वसैयिला वण्बयऩ् कुऩ्ऱुम् इसैयिला  
+याक्कै पॊऱुत्त निलम्। २३९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २४०</summary>
 
-वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय
-वाऴ्वारे वाऴा तवर्। २४०
+वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय  
+वाऴ्वारे वाऴा तवर्। २४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २४०</summary>
@@ -515,10 +514,10 @@ O'erburden it without renown.        239
 
 <details><summary>NVK Ashraf choice (en) - २४०</summary>
 
-०२४०
-Life without blame alone blooms.
-The one without fame fades.
-(N.V.K. Ashraf)
+०२४०  
+Life without blame alone blooms.  
+The one without fame fades.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २४०</summary>
@@ -563,8 +562,11 @@ The blameful ones do not flourish.        240
 
 <details><summary>मूलम् - २४०</summary>
 
-वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय
-वाऴ्वारे वाऴा तवर्। २४०
+वसैयॊऴिय वाऴ्वारे वाऴ्वार् इसैयॊऴिय  
+वाऴ्वारे वाऴा तवर्। २४०  
 </details>
+
+
+
 
 इल्लऱवियल् मुऱ्ऱिऱ्ऱु  

@@ -3,11 +3,10 @@ title = "०६ नण्ड्रियिल्सॆल्वम्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १००१</summary>
 
-वैत्ताऩ्वाय् साऩ्ऱ पॆरुम्बॊरुळ् अह्दुण्णाऩ्
-सॆत्ताऩ् सॆयक्किडन्ददु इल्। १००१
+वैत्ताऩ्वाय् साऩ्ऱ पॆरुम्बॊरुळ् अह्दुण्णाऩ्  
+सॆत्ताऩ् सॆयक्किडन्ददु इल्। १००१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००१</summary>
@@ -19,10 +18,10 @@ title = "०६ नण्ड्रियिल्सॆल्वम्"
 
 <details><summary>NVK Ashraf choice (en) - १००१</summary>
 
-१००१
-A miser makes of his pile of vast wealth,
-No more use than a corpse. *
-(P.S. Sundaram)
+१००१  
+A miser makes of his pile of vast wealth,  
+No more use than a corpse. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००१</summary>
@@ -57,14 +56,14 @@ Unenjoyed, it is futile.        1001
 
 <details><summary>मूलम् - १००१</summary>
 
-वैत्ताऩ्वाय् साऩ्ऱ पॆरुम्बॊरुळ् अह्दुण्णाऩ्
-सॆत्ताऩ् सॆयक्किडन्ददु इल्। १००१
+वैत्ताऩ्वाय् साऩ्ऱ पॆरुम्बॊरुळ् अह्दुण्णाऩ्  
+सॆत्ताऩ् सॆयक्किडन्ददु इल्। १००१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००२</summary>
 
-पॊरुळाऩाम् ऎल्लामॆऩ्ऱु ईयादु इवऱुम्
-मरुळाऩाम् माणाप् पिऱप्पु १००२
+पॊरुळाऩाम् ऎल्लामॆऩ्ऱु ईयादु इवऱुम्  
+मरुळाऩाम् माणाप् पिऱप्पु १००२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००२</summary>
@@ -75,10 +74,10 @@ Unenjoyed, it is futile.        1001
 
 <details><summary>NVK Ashraf choice (en) - १००२</summary>
 
-१००२
-Believing wealth is everything, yet giving nothing,
-The miser is ensnared in the misery of birth. *
-(Satguru Subramuniyaswami)
+१००२  
+Believing wealth is everything, yet giving nothing,  
+The miser is ensnared in the misery of birth. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००२</summary>
@@ -113,14 +112,14 @@ He hoards, gives not is born devil.        1002
 
 <details><summary>मूलम् - १००२</summary>
 
-पॊरुळाऩाम् ऎल्लामॆऩ्ऱु ईयादु इवऱुम्
-मरुळाऩाम् माणाप् पिऱप्पु १००२
+पॊरुळाऩाम् ऎल्लामॆऩ्ऱु ईयादु इवऱुम्  
+मरुळाऩाम् माणाप् पिऱप्पु १००२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००३</summary>
 
-ईट्टम् इवऱि इसैवेण्डा आडवर्
-तोऱ्ऱम् निलक्कुप् पॊऱै। १००३
+ईट्टम् इवऱि इसैवेण्डा आडवर्  
+तोऱ्ऱम् निलक्कुप् पॊऱै। १००३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००३</summary>
@@ -131,10 +130,10 @@ He hoards, gives not is born devil.        1002
 
 <details><summary>NVK Ashraf choice (en) - १००३</summary>
 
-१००३
-Their very sight is a burden to earth
-Who hoard wealth and not renown. *
-(Satguru Subramuniyaswami)
+१००३  
+Their very sight is a burden to earth  
+Who hoard wealth and not renown. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००३</summary>
@@ -168,14 +167,14 @@ Who hoards without a worthy deed.        1003
 
 <details><summary>मूलम् - १००३</summary>
 
-ईट्टम् इवऱि इसैवेण्डा आडवर्
-तोऱ्ऱम् निलक्कुप् पॊऱै। १००३
+ईट्टम् इवऱि इसैवेण्डा आडवर्  
+तोऱ्ऱम् निलक्कुप् पॊऱै। १००३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००४</summary>
 
-ऎच्चमॆऩ्ऱु ऎऩ्ऎण्णुङ् गॊल्लो ऒरुवराल्
-नच्चप् पडाअ तवऩ्। १००४
+ऎच्चमॆऩ्ऱु ऎऩ्ऎण्णुङ् गॊल्लो ऒरुवराल्  
+नच्चप् पडाअ तवऩ्। १००४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००४</summary>
@@ -186,10 +185,10 @@ Who hoards without a worthy deed.        1003
 
 <details><summary>NVK Ashraf choice (en) - १००४</summary>
 
-१००४
-What legacy can one, who is loved by none,
-Think of leaving behind?
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+१००४  
+What legacy can one, who is loved by none,  
+Think of leaving behind?  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००४</summary>
@@ -224,14 +223,14 @@ Who is for approach too unkind.        1004
 
 <details><summary>मूलम् - १००४</summary>
 
-ऎच्चमॆऩ्ऱु ऎऩ्ऎण्णुङ् गॊल्लो ऒरुवराल्
-नच्चप् पडाअ तवऩ्। १००४
+ऎच्चमॆऩ्ऱु ऎऩ्ऎण्णुङ् गॊल्लो ऒरुवराल्  
+नच्चप् पडाअ तवऩ्। १००४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००५</summary>
 
-कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय
-कोडियुण् डायिऩुम् इल्। १००५
+कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय  
+कोडियुण् डायिऩुम् इल्। १००५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००५</summary>
@@ -242,10 +241,10 @@ Who is for approach too unkind.        1004
 
 <details><summary>NVK Ashraf choice (en) - १००५</summary>
 
-१००५
-Wealth, though millions manifold, amounts to nothing
-If one neither gives nor enjoys it.
-(N.V.K. Ashraf)
+१००५  
+Wealth, though millions manifold, amounts to nothing  
+If one neither gives nor enjoys it.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००५</summary>
@@ -280,14 +279,14 @@ To give and enjoy whose heart is hard.        1005
 
 <details><summary>मूलम् - १००५</summary>
 
-कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय
-कोडियुण् डायिऩुम् इल्। १००५
+कॊडुप्पदूउम् तुय्प्पदूउम् इल्लार्क्कु अडुक्किय  
+कोडियुण् डायिऩुम् इल्। १००५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००६</summary>
 
-एदम् पॆरुञ्जॆल्वम् ताऩ्तुव्वाऩ् तक्कार्क्कॊऩ्ऱु
-ईदल् इयल्बिला ताऩ्। १००६
+एदम् पॆरुञ्जॆल्वम् ताऩ्तुव्वाऩ् तक्कार्क्कॊऩ्ऱु  
+ईदल् इयल्बिला ताऩ्। १००६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००६</summary>
@@ -298,10 +297,10 @@ To give and enjoy whose heart is hard.        1005
 
 <details><summary>NVK Ashraf choice (en) - १००६</summary>
 
-१००६
-Riches are a curse when neither enjoyed,
-Nor given to the worthy.
-(P.S. Sundaram)
+१००६  
+Riches are a curse when neither enjoyed,  
+Nor given to the worthy.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००६</summary>
@@ -336,14 +335,14 @@ To worthy men is but a slur.        1006
 
 <details><summary>मूलम् - १००६</summary>
 
-एदम् पॆरुञ्जॆल्वम् ताऩ्तुव्वाऩ् तक्कार्क्कॊऩ्ऱु
-ईदल् इयल्बिला ताऩ्। १००६
+एदम् पॆरुञ्जॆल्वम् ताऩ्तुव्वाऩ् तक्कार्क्कॊऩ्ऱु  
+ईदल् इयल्बिला ताऩ्। १००६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००७</summary>
 
-अऱ्ऱार्क्कॊऩ्ऱु आऱ्ऱादाऩ् सॆल्वम् मिगनलम्
-पॆऱ्ऱाळ् तमियळ्मूत् तऱ्ऱु। १००७
+अऱ्ऱार्क्कॊऩ्ऱु आऱ्ऱादाऩ् सॆल्वम् मिगनलम्  
+पॆऱ्ऱाळ् तमियळ्मूत् तऱ्ऱु। १००७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००७</summary>
@@ -354,10 +353,10 @@ To worthy men is but a slur.        1006
 
 <details><summary>NVK Ashraf choice (en) - १००७</summary>
 
-१००७
-Wealth not given to the needy goes waste
-Like a lovely spinster growing old. *
-(P.S. Sundaram)
+१००७  
+Wealth not given to the needy goes waste  
+Like a lovely spinster growing old. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००७</summary>
@@ -392,14 +391,14 @@ Is like a spinster-belle grown old.        1007
 
 <details><summary>मूलम् - १००७</summary>
 
-अऱ्ऱार्क्कॊऩ्ऱु आऱ्ऱादाऩ् सॆल्वम् मिगनलम्
-पॆऱ्ऱाळ् तमियळ्मूत् तऱ्ऱु। १००७
+अऱ्ऱार्क्कॊऩ्ऱु आऱ्ऱादाऩ् सॆल्वम् मिगनलम्  
+पॆऱ्ऱाळ् तमियळ्मूत् तऱ्ऱु। १००७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००८</summary>
 
-नच्चप् पडादवऩ् सॆल्वम् नडुवूरुळ्
-नच्चु मरम्बऴुत् तऱ्ऱु। १००८
+नच्चप् पडादवऩ् सॆल्वम् नडुवूरुळ्  
+नच्चु मरम्बऴुत् तऱ्ऱु। १००८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००८</summary>
@@ -410,10 +409,10 @@ Is like a spinster-belle grown old.        1007
 
 <details><summary>NVK Ashraf choice (en) - १००८</summary>
 
-१००८
-The wealth of the unloved is like a poisonous tree
-That ripens in the heart of a village.*
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+१००८  
+The wealth of the unloved is like a poisonous tree  
+That ripens in the heart of a village.*  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १००८</summary>
@@ -453,14 +452,14 @@ Is poison-fruit-tree amidst a town.        1008
 
 <details><summary>मूलम् - १००८</summary>
 
-नच्चप् पडादवऩ् सॆल्वम् नडुवूरुळ्
-नच्चु मरम्बऴुत् तऱ्ऱु। १००८
+नच्चप् पडादवऩ् सॆल्वम् नडुवूरुळ्  
+नच्चु मरम्बऴुत् तऱ्ऱु। १००८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १००९</summary>
 
-अऩ्पॊरीइत् तऱ्सॆऱ्ऱु अऱनोक्कादु ईट्टिय
-ऒण्बॊरुळ् कॊळ्वार् पिऱर्। १००९
+अऩ्पॊरीइत् तऱ्सॆऱ्ऱु अऱनोक्कादु ईट्टिय  
+ऒण्बॊरुळ् कॊळ्वार् पिऱर्। १००९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००९</summary>
@@ -471,10 +470,10 @@ Is poison-fruit-tree amidst a town.        1008
 
 <details><summary>NVK Ashraf choice (en) - १००९</summary>
 
-१००९
-Strangers shall possess that wealth
-Amassed without love, comfort or scruples.
-(P.S. Sundaram)
+१००९  
+Strangers shall possess that wealth  
+Amassed without love, comfort or scruples.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००९</summary>
@@ -509,14 +508,14 @@ In loveless, stingy, vicious hold.        1009
 
 <details><summary>मूलम् - १००९</summary>
 
-अऩ्पॊरीइत् तऱ्सॆऱ्ऱु अऱनोक्कादु ईट्टिय
-ऒण्बॊरुळ् कॊळ्वार् पिऱर्। १००९
+अऩ्पॊरीइत् तऱ्सॆऱ्ऱु अऱनोक्कादु ईट्टिय  
+ऒण्बॊरुळ् कॊळ्वार् पिऱर्। १००९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०१०</summary>
 
-सीरुडैच् चॆल्वर् सिऱुदुऩि मारि
-वऱङ्गूर्न् दऩैयदु उडैत्तु। १०१०
+सीरुडैच् चॆल्वर् सिऱुदुऩि मारि  
+वऱङ्गूर्न् दऩैयदु उडैत्तु। १०१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१०</summary>
@@ -527,10 +526,10 @@ In loveless, stingy, vicious hold.        1009
 
 <details><summary>NVK Ashraf choice (en) - १०१०</summary>
 
-१०१०
-The brief want of the benign rich
-Is like the monsoon clouds just shed its moisture.
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+१०१०  
+The brief want of the benign rich  
+Is like the monsoon clouds just shed its moisture.  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०१०</summary>
@@ -569,7 +568,7 @@ Is like rainclouds growing thin.        1010
 
 <details><summary>मूलम् - १०१०</summary>
 
-सीरुडैच् चॆल्वर् सिऱुदुऩि मारि
-वऱङ्गूर्न् दऩैयदु उडैत्तु। १०१०
+सीरुडैच् चॆल्वर् सिऱुदुऩि मारि  
+वऱङ्गूर्न् दऩैयदु उडैत्तु। १०१०  
 </details>
 

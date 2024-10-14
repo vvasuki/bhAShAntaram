@@ -3,11 +3,10 @@ title = "०१ तगैयणङ्गुऱुत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०८१</summary>
 
-अणङ्गुगॊल् आय्मयिल् कॊल्लो कऩङ्गुऴै
-मादर्गॊल् मालुम् ऎऩ् नॆञ्जु। १०८१
+अणङ्गुगॊल् आय्मयिल् कॊल्लो कऩङ्गुऴै  
+मादर्गॊल् मालुम् ऎऩ् नॆञ्जु। १०८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८१</summary>
@@ -18,10 +17,10 @@ title = "०१ तगैयणङ्गुऱुत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - १०८१</summary>
 
-१०८१
-"A goddess, a rare peahen or a woman
-Decked with jewels?" My heart is amazed! *
-(P.S. Sundaram)
+१०८१  
+"A goddess, a rare peahen or a woman  
+Decked with jewels?" My heart is amazed! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८१</summary>
@@ -55,14 +54,14 @@ Or jewelled belle? To my mind a shock!        1081
 
 <details><summary>मूलम् - १०८१</summary>
 
-अणङ्गुगॊल् आय्मयिल् कॊल्लो कऩङ्गुऴै
-मादर्गॊल् मालुम् ऎऩ् नॆञ्जु। १०८१
+अणङ्गुगॊल् आय्मयिल् कॊल्लो कऩङ्गुऴै  
+मादर्गॊल् मालुम् ऎऩ् नॆञ्जु। १०८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८२</summary>
 
-नोक्किऩाळ् नोक्कॆदिर् नोक्कुदल् ताक्कणङ्गु
-ताऩैक्कॊण् डऩ्ऩ तुडैत्तु। १०८२
+नोक्किऩाळ् नोक्कॆदिर् नोक्कुदल् ताक्कणङ्गु  
+ताऩैक्कॊण् डऩ्ऩ तुडैत्तु। १०८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८२</summary>
@@ -73,10 +72,10 @@ Or jewelled belle? To my mind a shock!        1081
 
 <details><summary>NVK Ashraf choice (en) - १०८२</summary>
 
-१०८२
-She returns my look with looks that strike
-Like darts of an armed angel.
-(N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)
+१०८२  
+She returns my look with looks that strike  
+Like darts of an armed angel.  
+(N.V.K. Ashraf), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८२</summary>
@@ -110,14 +109,14 @@ Are armied dart of the Love-Angel.        1082
 
 <details><summary>मूलम् - १०८२</summary>
 
-नोक्किऩाळ् नोक्कॆदिर् नोक्कुदल् ताक्कणङ्गु
-ताऩैक्कॊण् डऩ्ऩ तुडैत्तु। १०८२
+नोक्किऩाळ् नोक्कॆदिर् नोक्कुदल् ताक्कणङ्गु  
+ताऩैक्कॊण् डऩ्ऩ तुडैत्तु। १०८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८३</summary>
 
-पण्डऱियेऩ् कूऱ्ऱॆऩ् पदऩै इऩियऱिन्देऩ्
-पॆण्डगैयाल् पेरमर्क् कट्टु। १०८३
+पण्डऱियेऩ् कूऱ्ऱॆऩ् पदऩै इऩियऱिन्देऩ्  
+पॆण्डगैयाल् पेरमर्क् कट्टु। १०८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८३</summary>
@@ -128,10 +127,10 @@ Are armied dart of the Love-Angel.        1082
 
 <details><summary>NVK Ashraf choice (en) - १०८३</summary>
 
-१०८३
-I never knew yama before, but now I realize
-That it is feminine and has warring eyes. *
-(K. Kannan)
+१०८३  
+I never knew yama before, but now I realize  
+That it is feminine and has warring eyes. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८३</summary>
@@ -165,14 +164,14 @@ In woman's guise with battling eyes.        1083
 
 <details><summary>मूलम् - १०८३</summary>
 
-पण्डऱियेऩ् कूऱ्ऱॆऩ् पदऩै इऩियऱिन्देऩ्
-पॆण्डगैयाल् पेरमर्क् कट्टु। १०८३
+पण्डऱियेऩ् कूऱ्ऱॆऩ् पदऩै इऩियऱिन्देऩ्  
+पॆण्डगैयाल् पेरमर्क् कट्टु। १०८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८४</summary>
 
-कण्डार् उयिरुण्णुम् तोऱ्ऱत्ताल् पॆण्डगैप्
-पेदैक्कु अमर्त्तऩ कण्। १०८४
+कण्डार् उयिरुण्णुम् तोऱ्ऱत्ताल् पॆण्डगैप्  
+पेदैक्कु अमर्त्तऩ कण्। १०८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८४</summary>
@@ -183,10 +182,10 @@ In woman's guise with battling eyes.        1083
 
 <details><summary>NVK Ashraf choice (en) - १०८४</summary>
 
-१०८४
-She may have that feminine grace
-But her look sucks life out of men who gaze. *
-(N.V.K. Ashraf), ( Shuddhananda Bharatiar)
+१०८४  
+She may have that feminine grace  
+But her look sucks life out of men who gaze. *  
+(N.V.K. Ashraf), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८४</summary>
@@ -220,14 +219,14 @@ That drink the life of men who gaze.        1084
 
 <details><summary>मूलम् - १०८४</summary>
 
-कण्डार् उयिरुण्णुम् तोऱ्ऱत्ताल् पॆण्डगैप्
-पेदैक्कु अमर्त्तऩ कण्। १०८४
+कण्डार् उयिरुण्णुम् तोऱ्ऱत्ताल् पॆण्डगैप्  
+पेदैक्कु अमर्त्तऩ कण्। १०८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८५</summary>
 
-कूऱ्ऱमो कण्णो पिणैयो मडवरल्
-नोक्कमिम् मूऩ्ऱुम् उडैत्तु। १०८५
+कूऱ्ऱमो कण्णो पिणैयो मडवरल्  
+नोक्कमिम् मूऩ्ऱुम् उडैत्तु। १०८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८५</summary>
@@ -238,10 +237,10 @@ That drink the life of men who gaze.        1084
 
 <details><summary>NVK Ashraf choice (en) - १०८५</summary>
 
-१०८५
-Is it death's dart, or eye's beams, or fawn's glance?
-Her look has all these three. *
-(G.U. Pope)
+१०८५  
+Is it death's dart, or eye's beams, or fawn's glance?  
+Her look has all these three. *  
+(G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८५</summary>
@@ -275,14 +274,14 @@ In winsome woman's look I see.        1085
 
 <details><summary>मूलम् - १०८५</summary>
 
-कूऱ्ऱमो कण्णो पिणैयो मडवरल्
-नोक्कमिम् मूऩ्ऱुम् उडैत्तु। १०८५
+कूऱ्ऱमो कण्णो पिणैयो मडवरल्  
+नोक्कमिम् मूऩ्ऱुम् उडैत्तु। १०८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८६</summary>
 
-कॊडुम्बुरुवम् कोडा मऱैप्पिऩ् नडुङ्गञर्
-सॆय्यल मऩ्इवळ् कण्। १०८६
+कॊडुम्बुरुवम् कोडा मऱैप्पिऩ् नडुङ्गञर्  
+सॆय्यल मऩ्इवळ् कण्। १०८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८६</summary>
@@ -293,10 +292,10 @@ In winsome woman's look I see.        1085
 
 <details><summary>NVK Ashraf choice (en) - १०८६</summary>
 
-१०८६
-It’s only when her callous eyebrows bend and veil her eyes
-That my heart’s flutters cease. *
-(K.R. Srinivasa Iyengar)
+१०८६  
+It’s only when her callous eyebrows bend and veil her eyes  
+That my heart’s flutters cease. *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८६</summary>
@@ -330,14 +329,14 @@ Her eyes won't cause me trembling pain.        1086
 
 <details><summary>मूलम् - १०८६</summary>
 
-कॊडुम्बुरुवम् कोडा मऱैप्पिऩ् नडुङ्गञर्
-सॆय्यल मऩ्इवळ् कण्। १०८६
+कॊडुम्बुरुवम् कोडा मऱैप्पिऩ् नडुङ्गञर्  
+सॆय्यल मऩ्इवळ् कण्। १०८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८७</summary>
 
-कडाअक् कळिऱ्ऱिऩ्मेऱ् कट्पडाम् मादर्
-पडाअ मुलैमेल् तुगिल्। १०८७
+कडाअक् कळिऱ्ऱिऩ्मेऱ् कट्पडाम् मादर्  
+पडाअ मुलैमेल् तुगिल्। १०८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८७</summary>
@@ -348,10 +347,10 @@ Her eyes won't cause me trembling pain.        1086
 
 <details><summary>NVK Ashraf choice (en) - १०८७</summary>
 
-१०८७
-Like the veil over the face of a rutting elephant
-Is the vest that veils her buxom breasts.
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+१०८७  
+Like the veil over the face of a rutting elephant  
+Is the vest that veils her buxom breasts.  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८७</summary>
@@ -385,14 +384,14 @@ Looks like rutting tusker's eye-cover.        1087
 
 <details><summary>मूलम् - १०८७</summary>
 
-कडाअक् कळिऱ्ऱिऩ्मेऱ् कट्पडाम् मादर्
-पडाअ मुलैमेल् तुगिल्। १०८७
+कडाअक् कळिऱ्ऱिऩ्मेऱ् कट्पडाम् मादर्  
+पडाअ मुलैमेल् तुगिल्। १०८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८८</summary>
 
-ऒण्णुदऱ् कोऒ उडैन्ददे ञाट्पिऩुळ्
-नण्णारुम् उट्कुमॆऩ् पीडु। १०८८
+ऒण्णुदऱ् कोऒ उडैन्ददे ञाट्पिऩुळ्  
+नण्णारुम् उट्कुमॆऩ् पीडु। १०८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८८</summary>
@@ -403,10 +402,10 @@ Looks like rutting tusker's eye-cover.        1087
 
 <details><summary>NVK Ashraf choice (en) - १०८८</summary>
 
-१०८८
-Ah, there goes all my might which foes dread in fight,
-When I face her brows beaming bright!
-(K. Krishnaswamy & Vijaya Ramkumar), (G.U. Pope)
+१०८८  
+Ah, there goes all my might which foes dread in fight,  
+When I face her brows beaming bright!  
+(K. Krishnaswamy & Vijaya Ramkumar), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८८</summary>
@@ -440,14 +439,14 @@ Feared by foemen yet to meet.        1088
 
 <details><summary>मूलम् - १०८८</summary>
 
-ऒण्णुदऱ् कोऒ उडैन्ददे ञाट्पिऩुळ्
-नण्णारुम् उट्कुमॆऩ् पीडु। १०८८
+ऒण्णुदऱ् कोऒ उडैन्ददे ञाट्पिऩुळ्  
+नण्णारुम् उट्कुमॆऩ् पीडु। १०८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८९</summary>
 
-पिणैयेर् मडनोक्कुम् नाणुम् उडैयाट्कु
-अणियॆवऩो एदिल तन्दु। १०८९
+पिणैयेर् मडनोक्कुम् नाणुम् उडैयाट्कु  
+अणियॆवऩो एदिल तन्दु। १०८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८९</summary>
@@ -458,10 +457,10 @@ Feared by foemen yet to meet.        1088
 
 <details><summary>NVK Ashraf choice (en) - १०८९</summary>
 
-१०८९
-What use are jewels to a damsel
-Adorned with modesty and meek looks of a hind? *
-(W.H. Drew and J. Lazarus)
+१०८९  
+What use are jewels to a damsel  
+Adorned with modesty and meek looks of a hind? *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८९</summary>
@@ -495,14 +494,14 @@ With fawn-like looks and modesty?        1089
 
 <details><summary>मूलम् - १०८९</summary>
 
-पिणैयेर् मडनोक्कुम् नाणुम् उडैयाट्कु
-अणियॆवऩो एदिल तन्दु। १०८९
+पिणैयेर् मडनोक्कुम् नाणुम् उडैयाट्कु  
+अणियॆवऩो एदिल तन्दु। १०८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०९०</summary>
 
-उण्डार्गण् अल्लदु अडुनऱाक् कामम्बोल्
-कण्डार् मगिऴ्सॆय्दल् इऩ्ऱु। १०९०
+उण्डार्गण् अल्लदु अडुनऱाक् कामम्बोल्  
+कण्डार् मगिऴ्सॆय्दल् इऩ्ऱु। १०९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०९०</summary>
@@ -513,10 +512,10 @@ With fawn-like looks and modesty?        1089
 
 <details><summary>NVK Ashraf choice (en) - १०९०</summary>
 
-१०९०
-Wine delights only when imbibed,
-But never at mere look like love! *
-(V.V.S. Aiyar), (P.S. Sundaram)
+१०९०  
+Wine delights only when imbibed,  
+But never at mere look like love! *  
+(V.V.S. Aiyar), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०९०</summary>
@@ -554,7 +553,7 @@ Nothing delights like love at sight.        1090
 
 <details><summary>मूलम् - १०९०</summary>
 
-उण्डार्गण् अल्लदु अडुनऱाक् कामम्बोल्
-कण्डार् मगिऴ्सॆय्दल् इऩ्ऱु। १०९०
+उण्डार्गण् अल्लदु अडुनऱाक् कामम्बोल्  
+कण्डार् मगिऴ्सॆय्दल् इऩ्ऱु। १०९०  
 </details>
 

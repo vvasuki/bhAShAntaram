@@ -3,11 +3,10 @@ title = "०१ इल्वाऴ्क्कै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ४१</summary>
 
-इल्वाऴ्वाऩ् ऎऩ्पाऩ् इयल्बुडैय मूवर्क्कुम्
-नल्लाऱ्ऱिऩ् निऩ्ऱ तुणै। ४१
+इल्वाऴ्वाऩ् ऎऩ्पाऩ् इयल्बुडैय मूवर्क्कुम्  
+नल्लाऱ्ऱिऩ् निऩ्ऱ तुणै। ४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१</summary>
@@ -18,10 +17,10 @@ title = "०१ इल्वाऴ्क्कै"
 
 <details><summary>NVK Ashraf choice (en) - ४१</summary>
 
-००४१
-A householder is a steadfast friend
-To the other three orders in their virtuous paths.
-(P.S. Sundaram)
+००४१  
+A householder is a steadfast friend  
+To the other three orders in their virtuous paths.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४१</summary>
@@ -59,14 +58,14 @@ Who aids the natural orders there.         41
 
 <details><summary>मूलम् - ४१</summary>
 
-इल्वाऴ्वाऩ् ऎऩ्पाऩ् इयल्बुडैय मूवर्क्कुम्
-नल्लाऱ्ऱिऩ् निऩ्ऱ तुणै। ४१
+इल्वाऴ्वाऩ् ऎऩ्पाऩ् इयल्बुडैय मूवर्क्कुम्  
+नल्लाऱ्ऱिऩ् निऩ्ऱ तुणै। ४१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४२</summary>
 
-तुऱन्दार्क्कुम् तुव्वादवर्क्कुम् इऱन्दार्क्कुम्
-इल्वाऴ्वाऩ् ऎऩ्पाऩ् तुणै। ४२
+तुऱन्दार्क्कुम् तुव्वादवर्क्कुम् इऱन्दार्क्कुम्  
+इल्वाऴ्वाऩ् ऎऩ्पाऩ् तुणै। ४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४२</summary>
@@ -77,10 +76,10 @@ Who aids the natural orders there.         41
 
 <details><summary>NVK Ashraf choice (en) - ४२</summary>
 
-००४२
-The householder supports the needs of
-Renunciates, ancestors and the poor.
-(Satguru Subramuniyaswami)
+००४२  
+The householder supports the needs of  
+Renunciates, ancestors and the poor.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४२</summary>
@@ -111,14 +110,14 @@ And celebrate students are his care.         42
 
 <details><summary>मूलम् - ४२</summary>
 
-तुऱन्दार्क्कुम् तुव्वादवर्क्कुम् इऱन्दार्क्कुम्
-इल्वाऴ्वाऩ् ऎऩ्पाऩ् तुणै। ४२
+तुऱन्दार्क्कुम् तुव्वादवर्क्कुम् इऱन्दार्क्कुम्  
+इल्वाऴ्वाऩ् ऎऩ्पाऩ् तुणै। ४२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४३</summary>
 
-तॆऩ्पुलत्तार् तॆय्वम् विरुन्दॊक्कल् ताऩॆऩ्ऱाङ्गु
-ऐम्बुलत्ताऱु ओम्बल् तलै। ४३
+तॆऩ्पुलत्तार् तॆय्वम् विरुन्दॊक्कल् ताऩॆऩ्ऱाङ्गु  
+ऐम्बुलत्ताऱु ओम्बल् तलै। ४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४३</summary>
@@ -129,10 +128,10 @@ And celebrate students are his care.         42
 
 <details><summary>NVK Ashraf choice (en) - ४३</summary>
 
-००४३
-A householder's main duty is to serve these five:
-God, guests, kindred, ancestors and himself. *
-(Satguru Subramuniyaswami)
+००४३  
+A householder's main duty is to serve these five:  
+God, guests, kindred, ancestors and himself. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४३</summary>
@@ -163,14 +162,14 @@ God, manes, kin, self and guests are served.         43
 
 <details><summary>मूलम् - ४३</summary>
 
-तॆऩ्पुलत्तार् तॆय्वम् विरुन्दॊक्कल् ताऩॆऩ्ऱाङ्गु
-ऐम्बुलत्ताऱु ओम्बल् तलै। ४३
+तॆऩ्पुलत्तार् तॆय्वम् विरुन्दॊक्कल् ताऩॆऩ्ऱाङ्गु  
+ऐम्बुलत्ताऱु ओम्बल् तलै। ४३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४४</summary>
 
-पऴियञ्जिप् पात्तूण् उडैत्तायिऩ् वाऴ्क्कै
-वऴियॆञ्जल् ऎञ्ञाऩ्ऱुम् इल्। ४४
+पऴियञ्जिप् पात्तूण् उडैत्तायिऩ् वाऴ्क्कै  
+वऴियॆञ्जल् ऎञ्ञाऩ्ऱुम् इल्। ४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४४</summary>
@@ -181,10 +180,10 @@ God, manes, kin, self and guests are served.         43
 
 <details><summary>NVK Ashraf choice (en) - ४४</summary>
 
-००४४
-His life and lineage will never end
-who shuns blame and shares his food.
-(N.V.K. Ashraf), (P.S. Sundaram)
+००४४  
+His life and lineage will never end  
+who shuns blame and shares his food.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४४</summary>
@@ -215,14 +214,14 @@ His home is bright and brighter fares.         44
 
 <details><summary>मूलम् - ४४</summary>
 
-पऴियञ्जिप् पात्तूण् उडैत्तायिऩ् वाऴ्क्कै
-वऴियॆञ्जल् ऎञ्ञाऩ्ऱुम् इल्। ४४
+पऴियञ्जिप् पात्तूण् उडैत्तायिऩ् वाऴ्क्कै  
+वऴियॆञ्जल् ऎञ्ञाऩ्ऱुम् इल्। ४४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४५</summary>
 
-अऩ्पुम् अऱऩुम् उडैत्तायिऩ् इल्वाऴ्क्कै
-पण्बुम् पयऩुम् अदु। ४५
+अऩ्पुम् अऱऩुम् उडैत्तायिऩ् इल्वाऴ्क्कै  
+पण्बुम् पयऩुम् अदु। ४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४५</summary>
@@ -233,10 +232,10 @@ His home is bright and brighter fares.         44
 
 <details><summary>NVK Ashraf choice (en) - ४५</summary>
 
-००४५
-Family life actuated by love and virtue,
-Endows it with character and happiness
-(S.M. Diaz)
+००४५  
+Family life actuated by love and virtue,  
+Endows it with character and happiness  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५</summary>
@@ -267,14 +266,14 @@ Where love with virtue sweetly dwells.         45
 
 <details><summary>मूलम् - ४५</summary>
 
-अऩ्पुम् अऱऩुम् उडैत्तायिऩ् इल्वाऴ्क्कै
-पण्बुम् पयऩुम् अदु। ४५
+अऩ्पुम् अऱऩुम् उडैत्तायिऩ् इल्वाऴ्क्कै  
+पण्बुम् पयऩुम् अदु। ४५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४६</summary>
 
-अऱत्ताऱ्ऱिऩ् इल्वाऴ्क्कै आऱ्ऱिऩ् पुऱत्ताऱ्ऱिल्
-पोऒय्प् पॆऱुव तॆवऩ्? ४६
+अऱत्ताऱ्ऱिऩ् इल्वाऴ्क्कै आऱ्ऱिऩ् पुऱत्ताऱ्ऱिल्  
+पोऒय्प् पॆऱुव तॆवऩ्? ४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४६</summary>
@@ -285,10 +284,10 @@ Where love with virtue sweetly dwells.         45
 
 <details><summary>NVK Ashraf choice (en) - ४६</summary>
 
-००४६
-What gains are there in other paths
-When one leads the virtuous path of householder?
-(N.V.K. Ashraf)
+००४६  
+What gains are there in other paths  
+When one leads the virtuous path of householder?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४६</summary>
@@ -319,14 +318,14 @@ To be a monk, what profits he?         46
 
 <details><summary>मूलम् - ४६</summary>
 
-अऱत्ताऱ्ऱिऩ् इल्वाऴ्क्कै आऱ्ऱिऩ् पुऱत्ताऱ्ऱिल्
-पोऒय्प् पॆऱुव तॆवऩ्? ४६
+अऱत्ताऱ्ऱिऩ् इल्वाऴ्क्कै आऱ्ऱिऩ् पुऱत्ताऱ्ऱिल्  
+पोऒय्प् पॆऱुव तॆवऩ्? ४६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४७</summary>
 
-इयल्बिऩाऩ् इल्वाऴ्क्कै वाऴ्बवऩ् ऎऩ्पाऩ्
-मुयल्वारुळ् ऎल्लाम् तलै। ४७
+इयल्बिऩाऩ् इल्वाऴ्क्कै वाऴ्बवऩ् ऎऩ्पाऩ्  
+मुयल्वारुळ् ऎल्लाम् तलै। ४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४७</summary>
@@ -337,10 +336,10 @@ To be a monk, what profits he?         46
 
 <details><summary>NVK Ashraf choice (en) - ४७</summary>
 
-००४७
-Foremost among those who strive for release,
-Are the householders leading a righteous life. *
-(Satguru Subramuniyaswami)
+००४७  
+Foremost among those who strive for release,  
+Are the householders leading a righteous life. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४७</summary>
@@ -371,14 +370,14 @@ Is he who leads the married state.         47
 
 <details><summary>मूलम् - ४७</summary>
 
-इयल्बिऩाऩ् इल्वाऴ्क्कै वाऴ्बवऩ् ऎऩ्पाऩ्
-मुयल्वारुळ् ऎल्लाम् तलै। ४७
+इयल्बिऩाऩ् इल्वाऴ्क्कै वाऴ्बवऩ् ऎऩ्पाऩ्  
+मुयल्वारुळ् ऎल्लाम् तलै। ४७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४८</summary>
 
-आऱ्ऱिऩ् ऒऴुक् कि अऱऩिऴुक्का इल्वाऴ् क्कै
-नोऱ्पारिऩ् नोऩ्मै उडैत्तु। ४८
+आऱ्ऱिऩ् ऒऴुक् कि अऱऩिऴुक्का इल्वाऴ् क्कै  
+नोऱ्पारिऩ् नोऩ्मै उडैत्तु। ४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८</summary>
@@ -389,10 +388,10 @@ Is he who leads the married state.         47
 
 <details><summary>NVK Ashraf choice (en) - ४८</summary>
 
-००४८
-A virtuous householder endures
-More than the penance of the penance doer. *
-(S.M. Diaz), (W.H. Drew and J. Lazarus)
+००४८  
+A virtuous householder endures  
+More than the penance of the penance doer. *  
+(S.M. Diaz), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८</summary>
@@ -423,14 +422,14 @@ Make men brighter than monks praying.         48
 
 <details><summary>मूलम् - ४८</summary>
 
-आऱ्ऱिऩ् ऒऴुक् कि अऱऩिऴुक्का इल्वाऴ् क्कै
-नोऱ्पारिऩ् नोऩ्मै उडैत्तु। ४८
+आऱ्ऱिऩ् ऒऴुक् कि अऱऩिऴुक्का इल्वाऴ् क्कै  
+नोऱ्पारिऩ् नोऩ्मै उडैत्तु। ४८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४९</summary>
 
-अऱऩ् ऎऩप् पट्टदे इल्वाऴ्क्कै अह्दुम्
-पिऱऩ्पऴिप्प तिल्लायिऩ् नऩ्ऱु। ४९
+अऱऩ् ऎऩप् पट्टदे इल्वाऴ्क्कै अह्दुम्  
+पिऱऩ्पऴिप्प तिल्लायिऩ् नऩ्ऱु। ४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९</summary>
@@ -441,10 +440,10 @@ Make men brighter than monks praying.         48
 
 <details><summary>NVK Ashraf choice (en) - ४९</summary>
 
-००४९
-Domestic life is proclaimed virtuous
-And it is praiseworthy if free from blame. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+००४९  
+Domestic life is proclaimed virtuous  
+And it is praiseworthy if free from blame. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४९</summary>
@@ -480,14 +479,14 @@ Which spotless monkhood too can claim.         49
 
 <details><summary>मूलम् - ४९</summary>
 
-अऱऩ् ऎऩप् पट्टदे इल्वाऴ्क्कै अह्दुम्
-पिऱऩ्पऴिप्प तिल्लायिऩ् नऩ्ऱु। ४९
+अऱऩ् ऎऩप् पट्टदे इल्वाऴ्क्कै अह्दुम्  
+पिऱऩ्पऴिप्प तिल्लायिऩ् नऩ्ऱु। ४९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ५०</summary>
 
-वैयत्तुळ् वाऴ्वाङ्गु वाऴ्बवऩ् वाऩ्उनऱ्युम्
-तॆय्वत्तुळ् वैक्कप् पडुम्। ५०
+वैयत्तुळ् वाऴ्वाङ्गु वाऴ्बवऩ् वाऩ्उनऱ्युम्  
+तॆय्वत्तुळ् वैक्कप् पडुम्। ५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०</summary>
@@ -498,10 +497,10 @@ Which spotless monkhood too can claim.         49
 
 <details><summary>NVK Ashraf choice (en) - ५०</summary>
 
-००५०
-He who lives his life in this world as he should,
-Ranks with the gods in the heaven.
-(C. Rajagopalachari)
+००५०  
+He who lives his life in this world as he should,  
+Ranks with the gods in the heaven.  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०</summary>
@@ -534,7 +533,7 @@ Who lives in ideal home on earth.         50
 
 <details><summary>मूलम् - ५०</summary>
 
-वैयत्तुळ् वाऴ्वाङ्गु वाऴ्बवऩ् वाऩ्उनऱ्युम्
-तॆय्वत्तुळ् वैक्कप् पडुम्। ५०
+वैयत्तुळ् वाऴ्वाङ्गु वाऴ्बवऩ् वाऩ्उनऱ्युम्  
+तॆय्वत्तुळ् वैक्कप् पडुम्। ५०  
 </details>
 

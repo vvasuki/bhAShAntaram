@@ -3,11 +3,10 @@ title = "१९ ईगै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २२१</summary>
 
-वऱियार्क्कॊऩ्ऱु ईवदे ईगैमऱ् ऱॆल्लाम्
-कुऱियॆदिर्प्पै नीर तुडैत्तु। २२१
+वऱियार्क्कॊऩ्ऱु ईवदे ईगैमऱ् ऱॆल्लाम्  
+कुऱियॆदिर्प्पै नीर तुडैत्तु। २२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२१</summary>
@@ -18,10 +17,10 @@ title = "१९ ईगै"
 
 <details><summary>NVK Ashraf choice (en) - २२१</summary>
 
-०२२१
-To give to the needy alone is charity;
-All the rest is investment for a return.
-(S.M. Diaz)
+०२२१  
+To give to the needy alone is charity;  
+All the rest is investment for a return.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२१</summary>
@@ -56,14 +55,14 @@ The rest is loan and vanity.        221
 
 <details><summary>मूलम् - २२१</summary>
 
-वऱियार्क्कॊऩ्ऱु ईवदे ईगैमऱ् ऱॆल्लाम्
-कुऱियॆदिर्प्पै नीर तुडैत्तु। २२१
+वऱियार्क्कॊऩ्ऱु ईवदे ईगैमऱ् ऱॆल्लाम्  
+कुऱियॆदिर्प्पै नीर तुडैत्तु। २२१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२२</summary>
 
-नल्लाऱु ऎऩिऩुम् कॊळल्दीदु मेलुलगम्
-इल्लॆऩिऩुम् ईदले नऩ्ऱु। २२२
+नल्लाऱु ऎऩिऩुम् कॊळल्दीदु मेलुलगम्  
+इल्लॆऩिऩुम् ईदले नऩ्ऱु। २२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२२</summary>
@@ -74,10 +73,10 @@ The rest is loan and vanity.        221
 
 <details><summary>NVK Ashraf choice (en) - २२२</summary>
 
-०२२२
-To receive is bad, even for good cause;
-And to give is good even if there is no heaven.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०२२२  
+To receive is bad, even for good cause;  
+And to give is good even if there is no heaven.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२२</summary>
@@ -112,14 +111,14 @@ To give is good, were heaven forbid.        222
 
 <details><summary>मूलम् - २२२</summary>
 
-नल्लाऱु ऎऩिऩुम् कॊळल्दीदु मेलुलगम्
-इल्लॆऩिऩुम् ईदले नऩ्ऱु। २२२
+नल्लाऱु ऎऩिऩुम् कॊळल्दीदु मेलुलगम्  
+इल्लॆऩिऩुम् ईदले नऩ्ऱु। २२२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२३</summary>
 
-इलऩॆऩ्ऩुम् ऎव्वम् उरैयामै ईदल्
-कुलऩुडैयाऩ् कण्णे युळ। २२३
+इलऩॆऩ्ऩुम् ऎव्वम् उरैयामै ईदल्  
+कुलऩुडैयाऩ् कण्णे युळ। २२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२३</summary>
@@ -130,10 +129,10 @@ To give is good, were heaven forbid.        222
 
 <details><summary>NVK Ashraf choice (en) - २२३</summary>
 
-०२२३
-The mark of the well-born is to give
-Without uttering the wretched excuse, "I have nothing."
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०२२३  
+The mark of the well-born is to give  
+Without uttering the wretched excuse, "I have nothing."  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२३</summary>
@@ -168,14 +167,14 @@ But giving marks a noble birth.        223
 
 <details><summary>मूलम् - २२३</summary>
 
-इलऩॆऩ्ऩुम् ऎव्वम् उरैयामै ईदल्
-कुलऩुडैयाऩ् कण्णे युळ। २२३
+इलऩॆऩ्ऩुम् ऎव्वम् उरैयामै ईदल्  
+कुलऩुडैयाऩ् कण्णे युळ। २२३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२४</summary>
 
-इऩ्ऩादु इरक्कप् पडुदल् इरन्दवर्
-इऩ्मुगङ् गाणुम् अळवु। २२४
+इऩ्ऩादु इरक्कप् पडुदल् इरन्दवर्  
+इऩ्मुगङ् गाणुम् अळवु। २२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२४</summary>
@@ -186,10 +185,10 @@ But giving marks a noble birth.        223
 
 <details><summary>NVK Ashraf choice (en) - २२४</summary>
 
-०२२४
-To be begged is agonizing, till you give
-And see the smiling face of the beggar. *
-(S. Maharajan)
+०२२४  
+To be begged is agonizing, till you give  
+And see the smiling face of the beggar. *  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२४</summary>
@@ -224,14 +223,14 @@ Until the giver sees him bright.        224
 
 <details><summary>मूलम् - २२४</summary>
 
-इऩ्ऩादु इरक्कप् पडुदल् इरन्दवर्
-इऩ्मुगङ् गाणुम् अळवु। २२४
+इऩ्ऩादु इरक्कप् पडुदल् इरन्दवर्  
+इऩ्मुगङ् गाणुम् अळवु। २२४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२५</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् पसिआऱ्ऱल् अप्पसियै
-माऱ्ऱुवार् आऱ्ऱलिऩ् पिऩ्। २२५
+आऱ्ऱुवार् आऱ्ऱल् पसिआऱ्ऱल् अप्पसियै  
+माऱ्ऱुवार् आऱ्ऱलिऩ् पिऩ्। २२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२५</summary>
@@ -242,10 +241,10 @@ Until the giver sees him bright.        224
 
 <details><summary>NVK Ashraf choice (en) - २२५</summary>
 
-०२२५
-Strong is the strength of enduring hunger,
-But stronger still is the strength of relieving it.
-(N.V.K. Ashraf)
+०२२५  
+Strong is the strength of enduring hunger,  
+But stronger still is the strength of relieving it.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२५</summary>
@@ -280,14 +279,14 @@ Than that of penance which endures.        225
 
 <details><summary>मूलम् - २२५</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् पसिआऱ्ऱल् अप्पसियै
-माऱ्ऱुवार् आऱ्ऱलिऩ् पिऩ्। २२५
+आऱ्ऱुवार् आऱ्ऱल् पसिआऱ्ऱल् अप्पसियै  
+माऱ्ऱुवार् आऱ्ऱलिऩ् पिऩ्। २२५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२६</summary>
 
-अऱ्ऱार् अऴिबसि तीर्त्तल् अह्दॊरुवऩ्
-पॆऱ्ऱाऩ् पॊरुळ्वैप् पुऴि। २२६
+अऱ्ऱार् अऴिबसि तीर्त्तल् अह्दॊरुवऩ्  
+पॆऱ्ऱाऩ् पॊरुळ्वैप् पुऴि। २२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२६</summary>
@@ -298,10 +297,10 @@ Than that of penance which endures.        225
 
 <details><summary>NVK Ashraf choice (en) - २२६</summary>
 
-०२२६
-Wiping out the hunger of the have-nots,
-Is the treasury the haves have deposited their wealth. *
-(S. Maharajan)
+०२२६  
+Wiping out the hunger of the have-nots,  
+Is the treasury the haves have deposited their wealth. *  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२६</summary>
@@ -335,14 +334,14 @@ If room you seek to store your gains.        226
 
 <details><summary>मूलम् - २२६</summary>
 
-अऱ्ऱार् अऴिबसि तीर्त्तल् अह्दॊरुवऩ्
-पॆऱ्ऱाऩ् पॊरुळ्वैप् पुऴि। २२६
+अऱ्ऱार् अऴिबसि तीर्त्तल् अह्दॊरुवऩ्  
+पॆऱ्ऱाऩ् पॊरुळ्वैप् पुऴि। २२६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२७</summary>
 
-पात्तूण् मरीइ यवऩैप् पसियॆऩ्ऩुम्
-तीप्पिणि तीण्डल् अरिदु। २२७
+पात्तूण् मरीइ यवऩैप् पसियॆऩ्ऩुम्  
+तीप्पिणि तीण्डल् अरिदु। २२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२७</summary>
@@ -353,10 +352,10 @@ If room you seek to store your gains.        226
 
 <details><summary>NVK Ashraf choice (en) - २२७</summary>
 
-०२२७
-That dreaded disease called hunger touches not the one
-Who shares his food by habit.
-(N.V.K. Ashraf)
+०२२७  
+That dreaded disease called hunger touches not the one  
+Who shares his food by habit.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२७</summary>
@@ -390,14 +389,14 @@ Hunger shall not harm his creed.        227
 
 <details><summary>मूलम् - २२७</summary>
 
-पात्तूण् मरीइ यवऩैप् पसियॆऩ्ऩुम्
-तीप्पिणि तीण्डल् अरिदु। २२७
+पात्तूण् मरीइ यवऩैप् पसियॆऩ्ऩुम्  
+तीप्पिणि तीण्डल् अरिदु। २२७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२८</summary>
 
-ईत्तुवक्कुम् इऩ्पम् अऱियार्गॊल् तामुडैमै
-वैत्तिऴक्कुम् वऩ्क णवर्। २२८
+ईत्तुवक्कुम् इऩ्पम् अऱियार्गॊल् तामुडैमै  
+वैत्तिऴक्कुम् वऩ्क णवर्। २२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२८</summary>
@@ -408,10 +407,10 @@ Hunger shall not harm his creed.        227
 
 <details><summary>NVK Ashraf choice (en) - २२८</summary>
 
-०२२८
-Unaware of the joys of giving,
-The hard-hearted waste their wealth hoarding it. *
-(Satguru Subramuniyaswami)
+०२२८  
+Unaware of the joys of giving,  
+The hard-hearted waste their wealth hoarding it. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२८</summary>
@@ -445,14 +444,14 @@ Hard-hearted rich whose hoarding fails.        228
 
 <details><summary>मूलम् - २२८</summary>
 
-ईत्तुवक्कुम् इऩ्पम् अऱियार्गॊल् तामुडैमै
-वैत्तिऴक्कुम् वऩ्क णवर्। २२८
+ईत्तुवक्कुम् इऩ्पम् अऱियार्गॊल् तामुडैमै  
+वैत्तिऴक्कुम् वऩ्क णवर्। २२८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २२९</summary>
 
-इरत्तलिऩ् इऩ्ऩादु मऩ्ऱ निरप्पिय
-तामे तमियर् उणल्। २२९
+इरत्तलिऩ् इऩ्ऩादु मऩ्ऱ निरप्पिय  
+तामे तमियर् उणल्। २२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २२९</summary>
@@ -463,10 +462,10 @@ Hard-hearted rich whose hoarding fails.        228
 
 <details><summary>NVK Ashraf choice (en) - २२९</summary>
 
-०२२९
-To eat alone what one has hoarded
-Is worse than begging.
-(P.S. Sundaram)
+०२२९  
+To eat alone what one has hoarded  
+Is worse than begging.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २२९</summary>
@@ -500,14 +499,14 @@ Alone what one's greed is hoarding.        229
 
 <details><summary>मूलम् - २२९</summary>
 
-इरत्तलिऩ् इऩ्ऩादु मऩ्ऱ निरप्पिय
-तामे तमियर् उणल्। २२९
+इरत्तलिऩ् इऩ्ऩादु मऩ्ऱ निरप्पिय  
+तामे तमियर् उणल्। २२९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २३०</summary>
 
-सादलिऩ् इऩ्ऩाद तिल्लै इऩिददूउम्
-ईदल् इयैयाक् कडै। २३०
+सादलिऩ् इऩ्ऩाद तिल्लै इऩिददूउम्  
+ईदल् इयैयाक् कडै। २३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २३०</summary>
@@ -518,10 +517,10 @@ Alone what one's greed is hoarding.        229
 
 <details><summary>NVK Ashraf choice (en) - २३०</summary>
 
-०२३०
-Nothing is worse than death; but even death is sweet
-If one can't help the poor. *
-(P.S. Sundaram)
+०२३०  
+Nothing is worse than death; but even death is sweet  
+If one can't help the poor. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २३०</summary>
@@ -554,7 +553,7 @@ Yet more is pain of giftless dearth.        230
 
 <details><summary>मूलम् - २३०</summary>
 
-सादलिऩ् इऩ्ऩाद तिल्लै इऩिददूउम्
-ईदल् इयैयाक् कडै। २३०
+सादलिऩ् इऩ्ऩाद तिल्लै इऩिददूउम्  
+ईदल् इयैयाक् कडै। २३०  
 </details>
 

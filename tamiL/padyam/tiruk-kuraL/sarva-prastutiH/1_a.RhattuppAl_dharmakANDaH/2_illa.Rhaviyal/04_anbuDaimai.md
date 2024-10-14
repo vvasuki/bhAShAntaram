@@ -3,11 +3,10 @@ title = "०४ अन्बुडैमै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ७१</summary>
 
-अऩ्पिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्
-पुऩ्कणीर् पूसल् तरुम्। ७१
+अऩ्पिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
+पुऩ्कणीर् पूसल् तरुम्। ७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१</summary>
@@ -18,10 +17,10 @@ title = "०४ अन्बुडैमै"
 
 <details><summary>NVK Ashraf choice (en) - ७१</summary>
 
-००७१
-Can love be latched and hidden?
-A trickling tear will proclaim it loud.
-(P.S. Sundaram)
+००७१  
+Can love be latched and hidden?  
+A trickling tear will proclaim it loud.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७१</summary>
@@ -60,14 +59,14 @@ The trickling tears reveal the heart.         71
 
 <details><summary>मूलम् - ७१</summary>
 
-अऩ्पिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्
-पुऩ्कणीर् पूसल् तरुम्। ७१
+अऩ्पिऱ्कुम् उण्डो अडैक्कुन्दाऴ् आर्वलर्  
+पुऩ्कणीर् पूसल् तरुम्। ७१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७२</summary>
 
-अऩ्पिलार् ऎल्लाम् तमक्कुरियर् अऩ्पुडैयार्
-ऎऩ्पुम् उरियर् पिऱर्क्कु। ७२
+अऩ्पिलार् ऎल्लाम् तमक्कुरियर् अऩ्पुडैयार्  
+ऎऩ्पुम् उरियर् पिऱर्क्कु। ७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२</summary>
@@ -78,10 +77,10 @@ The trickling tears reveal the heart.         71
 
 <details><summary>NVK Ashraf choice (en) - ७२</summary>
 
-००७२
-The unloving belong only to themselves,
-But the loving belong to others to their very bones.
-(Satguru Subramuniyaswami)
+००७२  
+The unloving belong only to themselves,  
+But the loving belong to others to their very bones.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२</summary>
@@ -115,14 +114,14 @@ To oth'rs the loving e'en to bones.         72
 
 <details><summary>मूलम् - ७२</summary>
 
-अऩ्पिलार् ऎल्लाम् तमक्कुरियर् अऩ्पुडैयार्
-ऎऩ्पुम् उरियर् पिऱर्क्कु। ७२
+अऩ्पिलार् ऎल्लाम् तमक्कुरियर् अऩ्पुडैयार्  
+ऎऩ्पुम् उरियर् पिऱर्क्कु। ७२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७३</summary>
 
-अऩ्पोडु इयैन्द वऴक्कॆऩ्प आरुयिर्क्कु
-ऎऩ्पोडु इयैन्द तॊडर्बु। ७३
+अऩ्पोडु इयैन्द वऴक्कॆऩ्प आरुयिर्क्कु  
+ऎऩ्पोडु इयैन्द तॊडर्बु। ७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३</summary>
@@ -133,10 +132,10 @@ To oth'rs the loving e'en to bones.         72
 
 <details><summary>NVK Ashraf choice (en) - ७३</summary>
 
-००७३
-They say it is to know the union with love
-That the soul takes union with the body.
-(Satguru Subramuniyaswami)
+००७३  
+They say it is to know the union with love  
+That the soul takes union with the body.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३</summary>
@@ -170,14 +169,14 @@ To taste the life of love alone.         73
 
 <details><summary>मूलम् - ७३</summary>
 
-अऩ्पोडु इयैन्द वऴक्कॆऩ्प आरुयिर्क्कु
-ऎऩ्पोडु इयैन्द तॊडर्बु। ७३
+अऩ्पोडु इयैन्द वऴक्कॆऩ्प आरुयिर्क्कु  
+ऎऩ्पोडु इयैन्द तॊडर्बु। ७३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७४</summary>
 
-अऩ्पु ईऩुम् आर्वम् उडैमै अदुईऩुम्
-नण्बु ऎऩ्ऩुम् नाडाच् चिऱप्पु। ७४
+अऩ्पु ईऩुम् आर्वम् उडैमै अदुईऩुम्  
+नण्बु ऎऩ्ऩुम् नाडाच् चिऱप्पु। ७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४</summary>
@@ -188,10 +187,10 @@ To taste the life of love alone.         73
 
 <details><summary>NVK Ashraf choice (en) - ७४</summary>
 
-००७४
-Love begets desire: and that begets
-The priceless excellence called friendship. *
-(W.H. Drew and J. Lazarus)
+००७४  
+Love begets desire: and that begets  
+The priceless excellence called friendship. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४</summary>
@@ -225,14 +224,14 @@ Friendship springs up in excellence.         74
 
 <details><summary>मूलम् - ७४</summary>
 
-अऩ्पु ईऩुम् आर्वम् उडैमै अदुईऩुम्
-नण्बु ऎऩ्ऩुम् नाडाच् चिऱप्पु। ७४
+अऩ्पु ईऩुम् आर्वम् उडैमै अदुईऩुम्  
+नण्बु ऎऩ्ऩुम् नाडाच् चिऱप्पु। ७४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७५</summary>
 
-अऩ्पुऱ्ऱु अमर्न्द वऴक्कॆऩ्प वैयगत्तु
-इऩ्पुऱ्ऱार् ऎय्दुम् सिऱप्पु। ७५
+अऩ्पुऱ्ऱु अमर्न्द वऴक्कॆऩ्प वैयगत्तु  
+इऩ्पुऱ्ऱार् ऎय्दुम् सिऱप्पु। ७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७५</summary>
@@ -243,10 +242,10 @@ Friendship springs up in excellence.         74
 
 <details><summary>NVK Ashraf choice (en) - ७५</summary>
 
-००७५
-The excellence of worldly happiness, they say,
-Is attained by those leading a loving life. *
-(M.S. Poornalingam Pillai)
+००७५  
+The excellence of worldly happiness, they say,  
+Is attained by those leading a loving life. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७५</summary>
@@ -280,14 +279,14 @@ From peaceful psychic love always.         75
 
 <details><summary>मूलम् - ७५</summary>
 
-अऩ्पुऱ्ऱु अमर्न्द वऴक्कॆऩ्प वैयगत्तु
-इऩ्पुऱ्ऱार् ऎय्दुम् सिऱप्पु। ७५
+अऩ्पुऱ्ऱु अमर्न्द वऴक्कॆऩ्प वैयगत्तु  
+इऩ्पुऱ्ऱार् ऎय्दुम् सिऱप्पु। ७५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७६</summary>
 
-अऱत्तिऱ्के अऩ्पुसार् पॆऩ्प अऱियार्
-मऱत्तिऱ्कुम् अह्दे तुणै। ७६
+अऱत्तिऱ्के अऩ्पुसार् पॆऩ्प अऱियार्  
+मऱत्तिऱ्कुम् अह्दे तुणै। ७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७६</summary>
@@ -298,10 +297,10 @@ From peaceful psychic love always.         75
 
 <details><summary>NVK Ashraf choice (en) - ७६</summary>
 
-००७६
-"Love supports virtue alone", say the fools.
-It supports vice as well.
-(T.K. Chidambaranatha Mudaliar)
+००७६  
+"Love supports virtue alone", say the fools.  
+It supports vice as well.  
+(T.K. Chidambaranatha Mudaliar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७६</summary>
@@ -340,14 +339,14 @@ It helps us against evil plots.         76
 
 <details><summary>मूलम् - ७६</summary>
 
-अऱत्तिऱ्के अऩ्पुसार् पॆऩ्प अऱियार्
-मऱत्तिऱ्कुम् अह्दे तुणै। ७६
+अऱत्तिऱ्के अऩ्पुसार् पॆऩ्प अऱियार्  
+मऱत्तिऱ्कुम् अह्दे तुणै। ७६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७७</summary>
 
-ऎऩ्पि लदऩै वॆयिल्बोलक् कायुमे
-अऩ्पि लदऩै अऱम्। ७७
+ऎऩ्पि लदऩै वॆयिल्बोलक् कायुमे  
+अऩ्पि लदऩै अऱम्। ७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७</summary>
@@ -358,10 +357,10 @@ It helps us against evil plots.         76
 
 <details><summary>NVK Ashraf choice (en) - ७७</summary>
 
-००७७
-As the blazing sun dries up a boneless worm,
-So does virtue scorch a loveless being.
-(Satguru Subramuniyaswami)
+००७७  
+As the blazing sun dries up a boneless worm,  
+So does virtue scorch a loveless being.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७</summary>
@@ -395,14 +394,14 @@ Like solar blaze the boneless worm.         77
 
 <details><summary>मूलम् - ७७</summary>
 
-ऎऩ्पि लदऩै वॆयिल्बोलक् कायुमे
-अऩ्पि लदऩै अऱम्। ७७
+ऎऩ्पि लदऩै वॆयिल्बोलक् कायुमे  
+अऩ्पि लदऩै अऱम्। ७७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७८</summary>
 
-अऩ्पगत् तिल्ला उयिर्वाऴ्क्कै वऩ्पाऱ्कण्
-वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु। ७८
+अऩ्पगत् तिल्ला उयिर्वाऴ्क्कै वऩ्पाऱ्कण्  
+वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु। ७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८</summary>
@@ -413,10 +412,10 @@ Like solar blaze the boneless worm.         77
 
 <details><summary>NVK Ashraf choice (en) - ७८</summary>
 
-००७८
-The life of a loveless soul is a sapless tree
-In a barren desert failing to shoot.
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+००७८  
+The life of a loveless soul is a sapless tree  
+In a barren desert failing to shoot.  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८</summary>
@@ -450,14 +449,14 @@ Can sapless tree in desert bloom?         78
 
 <details><summary>मूलम् - ७८</summary>
 
-अऩ्पगत् तिल्ला उयिर्वाऴ्क्कै वऩ्पाऱ्कण्
-वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु। ७८
+अऩ्पगत् तिल्ला उयिर्वाऴ्क्कै वऩ्पाऱ्कण्  
+वऱ्ऱल् मरन्दळिर्त् तऱ्ऱु। ७८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७९</summary>
 
-पुऱत्तुऱुप् पॆल्लाम् ऎवऩ्सॆय्बु म् याक्कै
-अगत्तुऱुप्पु अऩ्पि लवर्क्कु। ७९
+पुऱत्तुऱुप् पॆल्लाम् ऎवऩ्सॆय्बु म् याक्कै  
+अगत्तुऱुप्पु अऩ्पि लवर्क्कु। ७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९</summary>
@@ -468,10 +467,10 @@ Can sapless tree in desert bloom?         78
 
 <details><summary>NVK Ashraf choice (en) - ७९</summary>
 
-००७९
-Of what avail is body frame - the external,
-To those who lack love - the internal?
-(N.V.K. Ashraf)
+००७९  
+Of what avail is body frame - the external,  
+To those who lack love - the internal?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७९</summary>
@@ -505,14 +504,14 @@ Or vain the outer parts will prove.         79
 
 <details><summary>मूलम् - ७९</summary>
 
-पुऱत्तुऱुप् पॆल्लाम् ऎवऩ्सॆय्बु म् याक्कै
-अगत्तुऱुप्पु अऩ्पि लवर्क्कु। ७९
+पुऱत्तुऱुप् पॆल्लाम् ऎवऩ्सॆय्बु म् याक्कै  
+अगत्तुऱुप्पु अऩ्पि लवर्क्कु। ७९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८०</summary>
 
-अऩ्पिऩ् वऴियदु उयिर्निलै अह्दिलार्क्कु
-ऎऩ्पुदोल् पोर्त्त उडम्बु। ८०
+अऩ्पिऩ् वऴियदु उयिर्निलै अह्दिलार्क्कु  
+ऎऩ्पुदोल् पोर्त्त उडम्बु। ८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८०</summary>
@@ -523,10 +522,10 @@ Or vain the outer parts will prove.         79
 
 <details><summary>NVK Ashraf choice (en) - ८०</summary>
 
-००८०
-The throb of life is love. Without it,
-Humans are bodies of bones clad with skin. *
-(J. Narayanaswamy), (P.S. Sundaram)
+००८०  
+The throb of life is love. Without it,  
+Humans are bodies of bones clad with skin. *  
+(J. Narayanaswamy), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८०</summary>
@@ -559,7 +558,7 @@ Or beings are but skin and bone!         80
 
 <details><summary>मूलम् - ८०</summary>
 
-अऩ्पिऩ् वऴियदु उयिर्निलै अह्दिलार्क्कु
-ऎऩ्पुदोल् पोर्त्त उडम्बु। ८०
+अऩ्पिऩ् वऴियदु उयिर्निलै अह्दिलार्क्कु  
+ऎऩ्पुदोल् पोर्त्त उडम्बु। ८०  
 </details>
 

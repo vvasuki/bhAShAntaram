@@ -3,11 +3,10 @@ title = "११ कालमऱिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४८१</summary>
 
-पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्
-वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१
+पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
+वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८१</summary>
@@ -18,10 +17,10 @@ title = "११ कालमऱिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ४८१</summary>
 
-०४८१
-A crow can defeat an owl by day.
-Kings need the right time to win.
-(P.S. Sundaram)
+०४८१  
+A crow can defeat an owl by day.  
+Kings need the right time to win.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८१</summary>
@@ -55,14 +54,14 @@ Kings need right time their foes to quell.        481
 
 <details><summary>मूलम् - ४८१</summary>
 
-पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्
-वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१
+पगल्वॆल्लुम् कूगैयैक् काक्कै इगल्वॆल्लुम्  
+वेन्दर्क्कु वेण्डुम् पॊऴुदु। ४८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८२</summary>
 
-परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविऩैत्
-तीरामै आर्क्कुङ् गयिऱु। ४८२
+परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविऩैत्  
+तीरामै आर्क्कुङ् गयिऱु। ४८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८२</summary>
@@ -73,10 +72,10 @@ Kings need right time their foes to quell.        481
 
 <details><summary>NVK Ashraf choice (en) - ४८२</summary>
 
-०४८२
-The rope that binds Fortune
-Is deeds done at the right time.
-(P.S. Sundaram)
+०४८२  
+The rope that binds Fortune  
+Is deeds done at the right time.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८२</summary>
@@ -110,14 +109,14 @@ That fortune binds in bon accord.        482
 
 <details><summary>मूलम् - ४८२</summary>
 
-परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविऩैत्
-तीरामै आर्क्कुङ् गयिऱु। ४८२
+परुवत्तोडु ऒट्ट ऒऴुगल् तिरुविऩैत्  
+तीरामै आर्क्कुङ् गयिऱु। ४८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८३</summary>
 
-अरुविऩै यॆऩ्प उळवो करुवियाऩ्
-कालम् अऱिन्दु सॆयिऩ्। ४८३
+अरुविऩै यॆऩ्प उळवो करुवियाऩ्  
+कालम् अऱिन्दु सॆयिऩ्। ४८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८३</summary>
@@ -128,10 +127,10 @@ That fortune binds in bon accord.        482
 
 <details><summary>NVK Ashraf choice (en) - ४८३</summary>
 
-०४८३
-What is impossible
-If right means are adopted at the right time? *
-(P.S. Sundaram)
+०४८३  
+What is impossible  
+If right means are adopted at the right time? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८३</summary>
@@ -165,14 +164,14 @@ With proper means and time and tacts?        483
 
 <details><summary>मूलम् - ४८३</summary>
 
-अरुविऩै यॆऩ्प उळवो करुवियाऩ्
-कालम् अऱिन्दु सॆयिऩ्। ४८३
+अरुविऩै यॆऩ्प उळवो करुवियाऩ्  
+कालम् अऱिन्दु सॆयिऩ्। ४८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८४</summary>
 
-ञालम् करुदिऩुङ् गैगूडुङ् गालम्
-करुदि इडत्ताऱ् सॆयिऩ्। ४८४
+ञालम् करुदिऩुङ् गैगूडुङ् गालम्  
+करुदि इडत्ताऱ् सॆयिऩ्। ४८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८४</summary>
@@ -183,10 +182,10 @@ With proper means and time and tacts?        483
 
 <details><summary>NVK Ashraf choice (en) - ४८४</summary>
 
-०४८४
-Even the world will be yours,
-If you act choosing the right time and place.
-(N.V.K. Ashraf)
+०४८४  
+Even the world will be yours,  
+If you act choosing the right time and place.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८४</summary>
@@ -220,14 +219,14 @@ Even the world you win with ease.        484
 
 <details><summary>मूलम् - ४८४</summary>
 
-ञालम् करुदिऩुङ् गैगूडुङ् गालम्
-करुदि इडत्ताऱ् सॆयिऩ्। ४८४
+ञालम् करुदिऩुङ् गैगूडुङ् गालम्  
+करुदि इडत्ताऱ् सॆयिऩ्। ४८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८५</summary>
 
-कालम् करुदि इरुप्पर् कलङ्गादु
-ञालम् करुदु पवर्। ४८५
+कालम् करुदि इरुप्पर् कलङ्गादु  
+ञालम् करुदु पवर्। ४८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८५</summary>
@@ -238,10 +237,10 @@ Even the world you win with ease.        484
 
 <details><summary>NVK Ashraf choice (en) - ४८५</summary>
 
-०४८५
-Those who hope for the world wait unperturbed
-Hoping for the right moment. *
-(K. Kannan)
+०४८५  
+Those who hope for the world wait unperturbed  
+Hoping for the right moment. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८५</summary>
@@ -275,14 +274,14 @@ Wait unruffled biding their time.        485
 
 <details><summary>मूलम् - ४८५</summary>
 
-कालम् करुदि इरुप्पर् कलङ्गादु
-ञालम् करुदु पवर्। ४८५
+कालम् करुदि इरुप्पर् कलङ्गादु  
+ञालम् करुदु पवर्। ४८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८६</summary>
 
-ऊक्क मुडैयाऩ् ऒडुक्कम् पॊरुदगर्
-ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६
+ऊक्क मुडैयाऩ् ऒडुक्कम् पॊरुदगर्  
+ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८६</summary>
@@ -293,10 +292,10 @@ Wait unruffled biding their time.        485
 
 <details><summary>NVK Ashraf choice (en) - ४८६</summary>
 
-०४८६
-The restraint of an active person
-Is akin to the retreat of a butting ram.
-(N.V.K. Ashraf)
+०४८६  
+The restraint of an active person  
+Is akin to the retreat of a butting ram.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८६</summary>
@@ -330,14 +329,14 @@ Like rams retreating but to butt.        486
 
 <details><summary>मूलम् - ४८६</summary>
 
-ऊक्क मुडैयाऩ् ऒडुक्कम् पॊरुदगर्
-ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६
+ऊक्क मुडैयाऩ् ऒडुक्कम् पॊरुदगर्  
+ताक्कऱ्कुप् पेरुन् दगैत्तु। ४८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८७</summary>
 
-पॊळ्ळॆऩ आङ्गे पुऱंवेरार् कालम्बार्त्तु
-उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७
+पॊळ्ळॆऩ आङ्गे पुऱंवेरार् कालम्बार्त्तु  
+उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८७</summary>
@@ -348,10 +347,10 @@ Like rams retreating but to butt.        486
 
 <details><summary>NVK Ashraf choice (en) - ४८७</summary>
 
-०४८७
-The wise do not burst with rage.
-They hold it for the right time.
-(P.S. Sundaram)
+०४८७  
+The wise do not burst with rage.  
+They hold it for the right time.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४८७</summary>
@@ -385,14 +384,14 @@ They watch their time with hidden ire.        487
 
 <details><summary>मूलम् - ४८७</summary>
 
-पॊळ्ळॆऩ आङ्गे पुऱंवेरार् कालम्बार्त्तु
-उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७
+पॊळ्ळॆऩ आङ्गे पुऱंवेरार् कालम्बार्त्तु  
+उळ्वेर्प्पर् ऒळ्ळि यवर्। ४८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८८</summary>
 
-सॆऱुनरैक् काणिऩ् सुमक्क इऱुवरै
-काणिऩ् किऴक्काम् तलै। ४८८
+सॆऱुनरैक् काणिऩ् सुमक्क इऱुवरै  
+काणिऩ् किऴक्काम् तलै। ४८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८८</summary>
@@ -403,10 +402,10 @@ They watch their time with hidden ire.        487
 
 <details><summary>NVK Ashraf choice (en) - ४८८</summary>
 
-०४८८
-The best is to bear with your enemy
-Till the time comes to topple him. *
-(P.S. Sundaram)
+०४८८  
+The best is to bear with your enemy  
+Till the time comes to topple him. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४८८</summary>
@@ -445,14 +444,14 @@ Fell down their head in fateful time.        488
 
 <details><summary>मूलम् - ४८८</summary>
 
-सॆऱुनरैक् काणिऩ् सुमक्क इऱुवरै
-काणिऩ् किऴक्काम् तलै। ४८८
+सॆऱुनरैक् काणिऩ् सुमक्क इऱुवरै  
+काणिऩ् किऴक्काम् तलै। ४८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४८९</summary>
 
-ऎय्दऱ् करियदु इयैन्दक्काल् अन्निलैये
-सॆय्दऱ् करिय सॆयल्। ४८९
+ऎय्दऱ् करियदु इयैन्दक्काल् अन्निलैये  
+सॆय्दऱ् करिय सॆयल्। ४८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४८९</summary>
@@ -463,10 +462,10 @@ Fell down their head in fateful time.        488
 
 <details><summary>NVK Ashraf choice (en) - ४८९</summary>
 
-०४८९
-Hesitate not to seize opportunities rare,
-And achieve tasks otherwise hard. *
-(Satguru Subramuniyaswami)
+०४८९  
+Hesitate not to seize opportunities rare,  
+And achieve tasks otherwise hard. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४८९</summary>
@@ -505,14 +504,14 @@ Dare and do hard things then and there.        489
 
 <details><summary>मूलम् - ४८९</summary>
 
-ऎय्दऱ् करियदु इयैन्दक्काल् अन्निलैये
-सॆय्दऱ् करिय सॆयल्। ४८९
+ऎय्दऱ् करियदु इयैन्दक्काल् अन्निलैये  
+सॆय्दऱ् करिय सॆयल्। ४८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४९०</summary>
 
-कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱतऩ्
-कुत्तॊक्क सीर्त्त इडत्तु। ४९०
+कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱतऩ्  
+कुत्तॊक्क सीर्त्त इडत्तु। ४९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४९०</summary>
@@ -523,10 +522,10 @@ Dare and do hard things then and there.        489
 
 <details><summary>NVK Ashraf choice (en) - ४९०</summary>
 
-०४९०
-Bide your time like the stork, and like it
-Strike at the opportune moment.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०४९०  
+Bide your time like the stork, and like it  
+Strike at the opportune moment.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४९०</summary>
@@ -559,7 +558,7 @@ In fighting time strike like its peck.        490
 
 <details><summary>मूलम् - ४९०</summary>
 
-कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱतऩ्
-कुत्तॊक्क सीर्त्त इडत्तु। ४९०
+कॊक्कॊक्क कूम्बुम् परुवत्तु मऱ्ऱतऩ्  
+कुत्तॊक्क सीर्त्त इडत्तु। ४९०  
 </details>
 

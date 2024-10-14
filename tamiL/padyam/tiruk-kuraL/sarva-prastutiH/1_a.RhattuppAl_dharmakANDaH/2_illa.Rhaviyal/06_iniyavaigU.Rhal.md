@@ -3,11 +3,10 @@ title = "०६ इनियवैगूऱल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ९१</summary>
 
-इऩ्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्
-सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्। ९१
+इऩ्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
+सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्। ९१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१</summary>
@@ -18,10 +17,10 @@ title = "०६ इनियवैगूऱल्"
 
 <details><summary>NVK Ashraf choice (en) - ९१</summary>
 
-००९१
-The speech of the enlightened is sweet words
-Soaked in love, free from pretence.
-(J. Narayanaswamy), (N.V.K. Ashraf)
+००९१  
+The speech of the enlightened is sweet words  
+Soaked in love, free from pretence.  
+(J. Narayanaswamy), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१</summary>
@@ -55,14 +54,14 @@ Merciful and free from deceit.         91
 
 <details><summary>मूलम् - ९१</summary>
 
-इऩ्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्
-सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्। ९१
+इऩ्सॊलाल् ईरम् अळैइप् पडिऱुइलवाम्  
+सॆम्बॊरुळ् कण्डार्वाय्च् चॊल्। ९१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९२</summary>
 
-अगऩ्अमर्न्दु ईदलिऩ् नऩ्ऱे मुगऩमर्न्दु
-इऩ्सॊलऩ् आगप् पॆऱिऩ्। ९२
+अगऩ्अमर्न्दु ईदलिऩ् नऩ्ऱे मुगऩमर्न्दु  
+इऩ्सॊलऩ् आगप् पॆऱिऩ्। ९२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२</summary>
@@ -73,10 +72,10 @@ Merciful and free from deceit.         91
 
 <details><summary>NVK Ashraf choice (en) - ९२</summary>
 
-००९२
-More pleasing than a gracious gift
-Are sweet words with a smiling face.
-(P.S. Sundaram)
+००९२  
+More pleasing than a gracious gift  
+Are sweet words with a smiling face.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२</summary>
@@ -110,14 +109,14 @@ More joys than heart's beneficence.         92
 
 <details><summary>मूलम् - ९२</summary>
 
-अगऩ्अमर्न्दु ईदलिऩ् नऩ्ऱे मुगऩमर्न्दु
-इऩ्सॊलऩ् आगप् पॆऱिऩ्। ९२
+अगऩ्अमर्न्दु ईदलिऩ् नऩ्ऱे मुगऩमर्न्दु  
+इऩ्सॊलऩ् आगप् पॆऱिऩ्। ९२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९३</summary>
 
-मुगत्ताऩ् अमर्न् दुइऩिदु नोक्कि अगत्ताऩाम्
-इऩ्सॊ लिऩते अऱम्। ९३
+मुगत्ताऩ् अमर्न् दुइऩिदु नोक्कि अगत्ताऩाम्  
+इऩ्सॊ लिऩते अऱम्। ९३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९३</summary>
@@ -128,10 +127,10 @@ More joys than heart's beneficence.         92
 
 <details><summary>NVK Ashraf choice (en) - ९३</summary>
 
-००९३
-This is virtue: A welcome face, smiling look,
-And sweet words from the heart.
-(N.V.K. Ashraf)
+००९३  
+This is virtue: A welcome face, smiling look,  
+And sweet words from the heart.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९३</summary>
@@ -170,14 +169,14 @@ Such is the gracious virtue's part.         93
 
 <details><summary>मूलम् - ९३</summary>
 
-मुगत्ताऩ् अमर्न् दुइऩिदु नोक्कि अगत्ताऩाम्
-इऩ्सॊ लिऩते अऱम्। ९३
+मुगत्ताऩ् अमर्न् दुइऩिदु नोक्कि अगत्ताऩाम्  
+इऩ्सॊ लिऩते अऱम्। ९३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९४</summary>
 
-तुऩ्पुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्
-इऩ्पुऱूउम् इऩ्सॊ लवर्क्कु। ९४
+तुऩ्पुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्  
+इऩ्पुऱूउम् इऩ्सॊ लवर्क्कु। ९४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९४</summary>
@@ -188,10 +187,10 @@ Such is the gracious virtue's part.         93
 
 <details><summary>NVK Ashraf choice (en) - ९४</summary>
 
-००९४
-Want and sorrow shall never be theirs
-Who have a pleasant word for all.
-(P.S. Sundaram)
+००९४  
+Want and sorrow shall never be theirs  
+Who have a pleasant word for all.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९४</summary>
@@ -225,14 +224,14 @@ The woe of want from them is gone.         94
 
 <details><summary>मूलम् - ९४</summary>
 
-तुऩ्पुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्
-इऩ्पुऱूउम् इऩ्सॊ लवर्क्कु। ९४
+तुऩ्पुऱूउम् तुव्वामै इल्लागुम् यार्माट्टुम्  
+इऩ्पुऱूउम् इऩ्सॊ लवर्क्कु। ९४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९५</summary>
 
-पणिवुडैयऩ् इऩ्सॊलऩ् आदल् ऒरुवऱ्कु
-अणियल्ल मऱ्ऱुप् पिऱ। ९५
+पणिवुडैयऩ् इऩ्सॊलऩ् आदल् ऒरुवऱ्कु  
+अणियल्ल मऱ्ऱुप् पिऱ। ९५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९५</summary>
@@ -243,10 +242,10 @@ The woe of want from them is gone.         94
 
 <details><summary>NVK Ashraf choice (en) - ९५</summary>
 
-००९५
-Humility and pleasant speech constitute one's ornaments.
-Other things do not count.
-(S.M. Diaz)
+००९५  
+Humility and pleasant speech constitute one's ornaments.  
+Other things do not count.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९५</summary>
@@ -280,14 +279,14 @@ No other jewel do wise men seek.         95
 
 <details><summary>मूलम् - ९५</summary>
 
-पणिवुडैयऩ् इऩ्सॊलऩ् आदल् ऒरुवऱ्कु
-अणियल्ल मऱ्ऱुप् पिऱ। ९५
+पणिवुडैयऩ् इऩ्सॊलऩ् आदल् ऒरुवऱ्कु  
+अणियल्ल मऱ्ऱुप् पिऱ। ९५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९६</summary>
 
-अल्लवै तेय अऱम्बॆरुगुम् नल्लवै
-नाडि इऩिय सॊलिऩ्। ९६
+अल्लवै तेय अऱम्बॆरुगुम् नल्लवै  
+नाडि इऩिय सॊलिऩ्। ९६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६</summary>
@@ -298,10 +297,10 @@ No other jewel do wise men seek.         95
 
 <details><summary>NVK Ashraf choice (en) - ९६</summary>
 
-००९६
-Virtues will wax and vices wane
-If one seeks the good and speaks sweet. *
-(Satguru Subramuniyaswami)
+००९६  
+Virtues will wax and vices wane  
+If one seeks the good and speaks sweet. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६</summary>
@@ -335,14 +334,14 @@ Whose fruitful words with sweetness flow.         96
 
 <details><summary>मूलम् - ९६</summary>
 
-अल्लवै तेय अऱम्बॆरुगुम् नल्लवै
-नाडि इऩिय सॊलिऩ्। ९६
+अल्लवै तेय अऱम्बॆरुगुम् नल्लवै  
+नाडि इऩिय सॊलिऩ्। ९६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९७</summary>
 
-नयऩ् ईऩ्ऱु नऩ्ऱि पयक्कुम् पयऩ्ईऩ्ऱु
-पण्बिऩ् तलैप्पिरियाच् चॊल्। ९७
+नयऩ् ईऩ्ऱु नऩ्ऱि पयक्कुम् पयऩ्ईऩ्ऱु  
+पण्बिऩ् तलैप्पिरियाच् चॊल्। ९७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७</summary>
@@ -353,10 +352,10 @@ Whose fruitful words with sweetness flow.         96
 
 <details><summary>NVK Ashraf choice (en) - ९७</summary>
 
-००९७
-Helpful words yoked with courtesy
-Breed justice and strengthen virtue.
-(P.S. Sundaram)
+००९७  
+Helpful words yoked with courtesy  
+Breed justice and strengthen virtue.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७</summary>
@@ -390,14 +389,14 @@ Lead to goodness and graceful deeds.         97
 
 <details><summary>मूलम् - ९७</summary>
 
-नयऩ् ईऩ्ऱु नऩ्ऱि पयक्कुम् पयऩ्ईऩ्ऱु
-पण्बिऩ् तलैप्पिरियाच् चॊल्। ९७
+नयऩ् ईऩ्ऱु नऩ्ऱि पयक्कुम् पयऩ्ईऩ्ऱु  
+पण्बिऩ् तलैप्पिरियाच् चॊल्। ९७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९८</summary>
 
-सिऱुमैयुवु नीङ्गिय इऩ्सॊल् मऱुमैयुम्
-इम्मैयुम् इऩ्पम् तरुम्। ९८
+सिऱुमैयुवु नीङ्गिय इऩ्सॊल् मऱुमैयुम्  
+इम्मैयुम् इऩ्पम् तरुम्। ९८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८</summary>
@@ -408,10 +407,10 @@ Lead to goodness and graceful deeds.         97
 
 <details><summary>NVK Ashraf choice (en) - ९८</summary>
 
-००९८
-Sweet words free of meanness yield joy,
-Both here and hereafter.
-(P.S. Sundaram)
+००९८  
+Sweet words free of meanness yield joy,  
+Both here and hereafter.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८</summary>
@@ -445,14 +444,14 @@ This life on earth and life the next.         98
 
 <details><summary>मूलम् - ९८</summary>
 
-सिऱुमैयुवु नीङ्गिय इऩ्सॊल् मऱुमैयुम्
-इम्मैयुम् इऩ्पम् तरुम्। ९८
+सिऱुमैयुवु नीङ्गिय इऩ्सॊल् मऱुमैयुम्  
+इम्मैयुम् इऩ्पम् तरुम्। ९८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९९</summary>
 
-इऩ्सॊल् इऩिदीऩ्ऱल् काण्बाऩ् ऎवऩ्कॊलो
-वऩ्सॊल् वऴङ्गु वदु? ९९
+इऩ्सॊल् इऩिदीऩ्ऱल् काण्बाऩ् ऎवऩ्कॊलो  
+वऩ्सॊल् वऴङ्गु वदु? ९९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९</summary>
@@ -463,10 +462,10 @@ This life on earth and life the next.         98
 
 <details><summary>NVK Ashraf choice (en) - ९९</summary>
 
-००९९
-How can anyone speak harsh words,
-Having seen what kind words do?
-(N.V.K. Ashraf)
+००९९  
+How can anyone speak harsh words,  
+Having seen what kind words do?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९९</summary>
@@ -505,14 +504,14 @@ To use harsh words how can he dare?         99
 
 <details><summary>मूलम् - ९९</summary>
 
-इऩ्सॊल् इऩिदीऩ्ऱल् काण्बाऩ् ऎवऩ्कॊलो
-वऩ्सॊल् वऴङ्गु वदु? ९९
+इऩ्सॊल् इऩिदीऩ्ऱल् काण्बाऩ् ऎवऩ्कॊलो  
+वऩ्सॊल् वऴङ्गु वदु? ९९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १००</summary>
 
-इऩिय उळवाग इऩ्ऩाद कूऱल्
-कऩिइरुप्पक् काय्गवर्न् दऱ्ऱु। १००
+इऩिय उळवाग इऩ्ऩाद कूऱल्  
+कऩिइरुप्पक् काय्गवर्न् दऱ्ऱु। १००  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १००</summary>
@@ -523,10 +522,10 @@ To use harsh words how can he dare?         99
 
 <details><summary>NVK Ashraf choice (en) - १००</summary>
 
-०१००
-To use harsh words, when sweet ones are at hand,
-Is to prefer raw fruit to ripe.
-(P.S. Sundaram)
+०१००  
+To use harsh words, when sweet ones are at hand,  
+Is to prefer raw fruit to ripe.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १००</summary>
@@ -559,7 +558,7 @@ Who speaks harsh words when sweet word suits.         100
 
 <details><summary>मूलम् - १००</summary>
 
-इऩिय उळवाग इऩ्ऩाद कूऱल्
-कऩिइरुप्पक् काय्गवर्न् दऱ्ऱु। १००
+इऩिय उळवाग इऩ्ऩाद कूऱल्  
+कऩिइरुप्पक् काय्गवर्न् दऱ्ऱु। १००  
 </details>
 

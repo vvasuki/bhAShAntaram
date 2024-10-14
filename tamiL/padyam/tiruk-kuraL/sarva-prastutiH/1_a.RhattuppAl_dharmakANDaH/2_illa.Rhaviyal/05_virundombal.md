@@ -3,11 +3,10 @@ title = "०५ विरुन्दोम्बल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - ८१</summary>
 
-इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि
-वेळाण्मै सॆय्दऱ् पॊरुट्टु। ८१
+इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि  
+वेळाण्मै सॆय्दऱ् पॊरुट्टु। ८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१</summary>
@@ -18,10 +17,10 @@ title = "०५ विरुन्दोम्बल्"
 
 <details><summary>NVK Ashraf choice (en) - ८१</summary>
 
-००८१
-It is to exercise the benevolence of hospitality
-That people earn a living and establish homes.
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+००८१  
+It is to exercise the benevolence of hospitality  
+That people earn a living and establish homes.  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८१</summary>
@@ -60,14 +59,14 @@ To tend the guests and do good turn.         81
 
 <details><summary>मूलम् - ८१</summary>
 
-इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि
-वेळाण्मै सॆय्दऱ् पॊरुट्टु। ८१
+इरुन्दोम्बि इल्वाऴ्व तॆल्लाम् विरुन्दोम्बि  
+वेळाण्मै सॆय्दऱ् पॊरुट्टु। ८१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८२</summary>
 
-विरुन्दु पुऱत्तदात् ताऩुण्डल् सावा
-मरुन्दॆऩिऩुम् वेण् डऱ्पाऱ् ऱऩ्ऱु। ८२
+विरुन्दु पुऱत्तदात् ताऩुण्डल् सावा  
+मरुन्दॆऩिऩुम् वेण् डऱ्पाऱ् ऱऩ्ऱु। ८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२</summary>
@@ -78,10 +77,10 @@ To tend the guests and do good turn.         81
 
 <details><summary>NVK Ashraf choice (en) - ८२</summary>
 
-००८२
-With a guest outside, it is wrong to eat alone,
-Even the nectar of immortality. *
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+००८२  
+With a guest outside, it is wrong to eat alone,  
+Even the nectar of immortality. *  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२</summary>
@@ -115,14 +114,14 @@ Albeit you eat nectar-like food.         82
 
 <details><summary>मूलम् - ८२</summary>
 
-विरुन्दु पुऱत्तदात् ताऩुण्डल् सावा
-मरुन्दॆऩिऩुम् वेण् डऱ्पाऱ् ऱऩ्ऱु। ८२
+विरुन्दु पुऱत्तदात् ताऩुण्डल् सावा  
+मरुन्दॆऩिऩुम् वेण् डऱ्पाऱ् ऱऩ्ऱु। ८२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८३</summary>
 
-वरुविरुन्दु वैगलुम् ओम्बुवाऩ् वाऴ्क्कै
-परुवन्दु पाऴ्बडुदल् इऩ्ऱु। ८३
+वरुविरुन्दु वैगलुम् ओम्बुवाऩ् वाऴ्क्कै  
+परुवन्दु पाऴ्बडुदल् इऩ्ऱु। ८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३</summary>
@@ -133,10 +132,10 @@ Albeit you eat nectar-like food.         82
 
 <details><summary>NVK Ashraf choice (en) - ८३</summary>
 
-००८३
-His life won’t suffer from want,
-Who always cherishes his flowing guests.
-MR, (N.V.K. Ashraf)
+००८३  
+His life won’t suffer from want,  
+Who always cherishes his flowing guests.  
+MR, (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३</summary>
@@ -170,14 +169,14 @@ His life in want never wears out.         83
 
 <details><summary>मूलम् - ८३</summary>
 
-वरुविरुन्दु वैगलुम् ओम्बुवाऩ् वाऴ्क्कै
-परुवन्दु पाऴ्बडुदल् इऩ्ऱु। ८३
+वरुविरुन्दु वैगलुम् ओम्बुवाऩ् वाऴ्क्कै  
+परुवन्दु पाऴ्बडुदल् इऩ्ऱु। ८३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८४</summary>
 
-अगऩमर्न्दु सॆय्याळ् उऱैयुम् मुगऩमर्न्दु
-नल्विरुन्दु ओम्बुवाऩ् इल्। ८४
+अगऩमर्न्दु सॆय्याळ् उऱैयुम् मुगऩमर्न्दु  
+नल्विरुन्दु ओम्बुवाऩ् इल्। ८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४</summary>
@@ -188,10 +187,10 @@ His life in want never wears out.         83
 
 <details><summary>NVK Ashraf choice (en) - ८४</summary>
 
-००८४
-The goddess of fortune will dwell in the house of one
-Who plays host with a smile. *
-(N.V.K. Ashraf), (P.S. Sundaram)
+००८४  
+The goddess of fortune will dwell in the house of one  
+Who plays host with a smile. *  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४</summary>
@@ -225,14 +224,14 @@ Where smiles welcome the worthy guest.         84
 
 <details><summary>मूलम् - ८४</summary>
 
-अगऩमर्न्दु सॆय्याळ् उऱैयुम् मुगऩमर्न्दु
-नल्विरुन्दु ओम्बुवाऩ् इल्। ८४
+अगऩमर्न्दु सॆय्याळ् उऱैयुम् मुगऩमर्न्दु  
+नल्विरुन्दु ओम्बुवाऩ् इल्। ८४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८५</summary>
 
-वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि
-मिच्चिल् मिसैवाऩ् पुलम्। ८५
+वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि  
+मिच्चिल् मिसैवाऩ् पुलम्। ८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५</summary>
@@ -243,10 +242,10 @@ Where smiles welcome the worthy guest.         84
 
 <details><summary>NVK Ashraf choice (en) - ८५</summary>
 
-००८५
-Should his field be sown,
-Who first feeds the guests and eats the rest?
-( Shuddhananda Bharatiar)
+००८५  
+Should his field be sown,  
+Who first feeds the guests and eats the rest?  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५</summary>
@@ -280,14 +279,14 @@ Feeds the guests and eats the rest?         85
 
 <details><summary>मूलम् - ८५</summary>
 
-वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि
-मिच्चिल् मिसैवाऩ् पुलम्। ८५
+वित्तुम् इडल्वेण्डुम् कॊल्लो विरुन्दोम्बि  
+मिच्चिल् मिसैवाऩ् पुलम्। ८५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८६</summary>
 
-सॆल्विरुन्दु ओम्बि वरुविरुन्दु पार्त्तिरुप्पाऩ्
-नल्वरुन्दु वाऩत् तवर्क्कु। ८६
+सॆल्विरुन्दु ओम्बि वरुविरुन्दु पार्त्तिरुप्पाऩ्  
+नल्वरुन्दु वाऩत् तवर्क्कु। ८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६</summary>
@@ -298,10 +297,10 @@ Feeds the guests and eats the rest?         85
 
 <details><summary>NVK Ashraf choice (en) - ८६</summary>
 
-००८६
-Who hosts the passing guests and waits for hosting more
-Will be hosted by the gods. *
-(P.S. Sundaram)
+००८६  
+Who hosts the passing guests and waits for hosting more  
+Will be hosted by the gods. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६</summary>
@@ -335,14 +334,14 @@ Is a welcome guest in heaven's feast.         86
 
 <details><summary>मूलम् - ८६</summary>
 
-सॆल्विरुन्दु ओम्बि वरुविरुन्दु पार्त्तिरुप्पाऩ्
-नल्वरुन्दु वाऩत् तवर्क्कु। ८६
+सॆल्विरुन्दु ओम्बि वरुविरुन्दु पार्त्तिरुप्पाऩ्  
+नल्वरुन्दु वाऩत् तवर्क्कु। ८६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८७</summary>
 
-इऩैत्तुणैत् तॆऩ्पदॊऩ् ऱिल्लै विरुन्दिऩ्
-तुणैत्तुणै वेळ्विप् पयऩ्। ८७
+इऩैत्तुणैत् तॆऩ्पदॊऩ् ऱिल्लै विरुन्दिऩ्  
+तुणैत्तुणै वेळ्विप् पयऩ्। ८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७</summary>
@@ -353,10 +352,10 @@ Is a welcome guest in heaven's feast.         86
 
 <details><summary>NVK Ashraf choice (en) - ८७</summary>
 
-००८७
-The gains of hospitality cannot be reckoned.
-Their worth depends on the guest.
-(P.S. Sundaram)
+००८७  
+The gains of hospitality cannot be reckoned.  
+Their worth depends on the guest.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८७</summary>
@@ -395,14 +394,14 @@ Is worth of hospitality.         87
 
 <details><summary>मूलम् - ८७</summary>
 
-इऩैत्तुणैत् तॆऩ्पदॊऩ् ऱिल्लै विरुन्दिऩ्
-तुणैत्तुणै वेळ्विप् पयऩ्। ८७
+इऩैत्तुणैत् तॆऩ्पदॊऩ् ऱिल्लै विरुन्दिऩ्  
+तुणैत्तुणै वेळ्विप् पयऩ्। ८७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८८</summary>
 
-परिन्दोम्बिप् पऱ्ऱऱ्ऱेम् ऎऩ्पर् विरुन्दोम्बि
-वेळ्वि तलैप्पडा तार्। ८८
+परिन्दोम्बिप् पऱ्ऱऱ्ऱेम् ऎऩ्पर् विरुन्दोम्बि  
+वेळ्वि तलैप्पडा तार्। ८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८८</summary>
@@ -413,10 +412,10 @@ Is worth of hospitality.         87
 
 <details><summary>NVK Ashraf choice (en) - ८८</summary>
 
-००८८
-"We toiled, stored and lost", lament those
-Who never sacrificed for hospitality.
-(N.V.K. Ashraf)
+००८८  
+"We toiled, stored and lost", lament those  
+Who never sacrificed for hospitality.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८८</summary>
@@ -455,14 +454,14 @@ Who loathe guest-service one day cry:
 
 <details><summary>मूलम् - ८८</summary>
 
-परिन्दोम्बिप् पऱ्ऱऱ्ऱेम् ऎऩ्पर् विरुन्दोम्बि
-वेळ्वि तलैप्पडा तार्। ८८
+परिन्दोम्बिप् पऱ्ऱऱ्ऱेम् ऎऩ्पर् विरुन्दोम्बि  
+वेळ्वि तलैप्पडा तार्। ८८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ८९</summary>
 
-उडैमैयुळ् इऩ्मै विरुन्दोम्बल् ओम्बा
-मडमै मडवार्गण् उण्डु। ८९
+उडैमैयुळ् इऩ्मै विरुन्दोम्बल् ओम्बा  
+मडमै मडवार्गण् उण्डु। ८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८९</summary>
@@ -473,10 +472,10 @@ Who loathe guest-service one day cry:
 
 <details><summary>NVK Ashraf choice (en) - ८९</summary>
 
-००८९
-To have no guests is to want amidst plenty:
-Such poverty belongs to fools.
-(P.S. Sundaram)
+००८९  
+To have no guests is to want amidst plenty:  
+Such poverty belongs to fools.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८९</summary>
@@ -510,14 +509,14 @@ Whose folly fails the guest to feed.         89
 
 <details><summary>मूलम् - ८९</summary>
 
-उडैमैयुळ् इऩ्मै विरुन्दोम्बल् ओम्बा
-मडमै मडवार्गण् उण्डु। ८९
+उडैमैयुळ् इऩ्मै विरुन्दोम्बल् ओम्बा  
+मडमै मडवार्गण् उण्डु। ८९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ९०</summary>
 
-मोप्पक् कुऴैयुम् अऩिच्चम् मुगन्दिरिन्दु
-नोक्कक् कुनऴ्युम् विरुन्दु। ९०
+मोप्पक् कुऴैयुम् अऩिच्चम् मुगन्दिरिन्दु  
+नोक्कक् कुनऴ्युम् विरुन्दु। ९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९०</summary>
@@ -528,10 +527,10 @@ Whose folly fails the guest to feed.         89
 
 <details><summary>NVK Ashraf choice (en) - ९०</summary>
 
-००९०
-Flower aniccham withers when merely smelt.
-An unwelcome look is enough to wither a guest. *
-(Satguru Subramuniyaswami)
+००९०  
+Flower aniccham withers when merely smelt.  
+An unwelcome look is enough to wither a guest. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९०</summary>
@@ -569,7 +568,7 @@ A wry-faced look withers the guest.         90
 
 <details><summary>मूलम् - ९०</summary>
 
-मोप्पक् कुऴैयुम् अऩिच्चम् मुगन्दिरिन्दु
-नोक्कक् कुनऴ्युम् विरुन्दु। ९०
+मोप्पक् कुऴैयुम् अऩिच्चम् मुगन्दिरिन्दु  
+नोक्कक् कुनऴ्युम् विरुन्दु। ९०  
 </details>
 

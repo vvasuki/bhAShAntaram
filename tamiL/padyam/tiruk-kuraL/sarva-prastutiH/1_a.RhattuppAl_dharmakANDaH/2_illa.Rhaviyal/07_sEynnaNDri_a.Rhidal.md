@@ -3,11 +3,10 @@ title = "०७ सॆय्न्नण्ड्रि अऱिदल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - १०१</summary>
 
-सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्
-वाऩकमुम् आऱ्ऱल् अरिदु। १०१
+सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्  
+वाऩकमुम् आऱ्ऱल् अरिदु। १०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०१</summary>
@@ -18,10 +17,10 @@ title = "०७ सॆय्न्नण्ड्रि अऱिदल्"
 
 <details><summary>NVK Ashraf choice (en) - १०१</summary>
 
-०१०१
-Neither earth nor heaven can truly repay
-Spontaneous aid.
-(P.S. Sundaram)
+०१०१  
+Neither earth nor heaven can truly repay  
+Spontaneous aid.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०१</summary>
@@ -55,14 +54,14 @@ Exceeds in worth earth and heaven.         101
 
 <details><summary>मूलम् - १०१</summary>
 
-सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्
-वाऩकमुम् आऱ्ऱल् अरिदु। १०१
+सॆय्यामल् सॆय्द उदविक्कु वैयगमुम्  
+वाऩकमुम् आऱ्ऱल् अरिदु। १०१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०२</summary>
 
-कालत्ति ऩाऱ्सॆय्द नऩ्ऱि सिऱिदॆऩिऩुम्
-ञालत्तिऩ् माणप् पॆरिदु। १०२
+कालत्ति ऩाऱ्सॆय्द नऩ्ऱि सिऱिदॆऩिऩुम्  
+ञालत्तिऩ् माणप् पॆरिदु। १०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२</summary>
@@ -73,10 +72,10 @@ Exceeds in worth earth and heaven.         101
 
 <details><summary>NVK Ashraf choice (en) - १०२</summary>
 
-०१०२
-A timely help, though small,
-Is of greater value than all the earth.
-(S.M. Diaz)
+०१०२  
+A timely help, though small,  
+Is of greater value than all the earth.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२</summary>
@@ -110,14 +109,14 @@ Though small is greater than the world.         102
 
 <details><summary>मूलम् - १०२</summary>
 
-कालत्ति ऩाऱ्सॆय्द नऩ्ऱि सिऱिदॆऩिऩुम्
-ञालत्तिऩ् माणप् पॆरिदु। १०२
+कालत्ति ऩाऱ्सॆय्द नऩ्ऱि सिऱिदॆऩिऩुम्  
+ञालत्तिऩ् माणप् पॆरिदु। १०२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०३</summary>
 
-पयऩ्तूक्कार् सॆय्द उदवि नयऩ्तूक्किऩ्
-नऩ्मै कडलिऩ् पॆरिदु। १०३
+पयऩ्तूक्कार् सॆय्द उदवि नयऩ्तूक्किऩ्  
+नऩ्मै कडलिऩ् पॆरिदु। १०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०३</summary>
@@ -128,10 +127,10 @@ Though small is greater than the world.         102
 
 <details><summary>NVK Ashraf choice (en) - १०३</summary>
 
-०१०३
-The help given without weighing the return,
-When weighed, outweighs the sea.
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+०१०३  
+The help given without weighing the return,  
+When weighed, outweighs the sea.  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०३</summary>
@@ -165,14 +164,14 @@ Outweighs the sea in grand effects.         103
 
 <details><summary>मूलम् - १०३</summary>
 
-पयऩ्तूक्कार् सॆय्द उदवि नयऩ्तूक्किऩ्
-नऩ्मै कडलिऩ् पॆरिदु। १०३
+पयऩ्तूक्कार् सॆय्द उदवि नयऩ्तूक्किऩ्  
+नऩ्मै कडलिऩ् पॆरिदु। १०३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०४</summary>
 
-तिऩैत्तुणै नऩ्ऱि सॆयिऩुम् पऩैत्तुणैयाक्
-कॊळ्वर् पयऩ्तॆरि वार्। १०४
+तिऩैत्तुणै नऩ्ऱि सॆयिऩुम् पऩैत्तुणैयाक्  
+कॊळ्वर् पयऩ्तॆरि वार्। १०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०४</summary>
@@ -183,10 +182,10 @@ Outweighs the sea in grand effects.         103
 
 <details><summary>NVK Ashraf choice (en) - १०४</summary>
 
-०१०४
-To the discerning even millet of aid
-Is as big as a palm tree. *
-(P.S. Sundaram)
+०१०४  
+To the discerning even millet of aid  
+Is as big as a palm tree. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०४</summary>
@@ -225,14 +224,14 @@ Knowers count its good palm- tree tall.         104
 
 <details><summary>मूलम् - १०४</summary>
 
-तिऩैत्तुणै नऩ्ऱि सॆयिऩुम् पऩैत्तुणैयाक्
-कॊळ्वर् पयऩ्तॆरि वार्। १०४
+तिऩैत्तुणै नऩ्ऱि सॆयिऩुम् पऩैत्तुणैयाक्  
+कॊळ्वर् पयऩ्तॆरि वार्। १०४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०५</summary>
 
-उदवि वरैत्तऩ्ऱु उदवि उदवि
-सॆयप्पट्टार् साल्बिऩ् वरैत्तु। १०५
+उदवि वरैत्तऩ्ऱु उदवि उदवि  
+सॆयप्पट्टार् साल्बिऩ् वरैत्तु। १०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०५</summary>
@@ -243,10 +242,10 @@ Knowers count its good palm- tree tall.         104
 
 <details><summary>NVK Ashraf choice (en) - १०५</summary>
 
-०१०५
-Not according to the aid but its receiver
-Is its recompense determined.
-(P.S. Sundaram)
+०१०५  
+Not according to the aid but its receiver  
+Is its recompense determined.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०५</summary>
@@ -285,14 +284,14 @@ It is gainer's worth and pleasure.         105
 
 <details><summary>मूलम् - १०५</summary>
 
-उदवि वरैत्तऩ्ऱु उदवि उदवि
-सॆयप्पट्टार् साल्बिऩ् वरैत्तु। १०५
+उदवि वरैत्तऩ्ऱु उदवि उदवि  
+सॆयप्पट्टार् साल्बिऩ् वरैत्तु। १०५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०६</summary>
 
-मऱवऱ्क मासऱ्ऱार् केण्मै तुऱवऱ्क
-तुऩ्पत्तुळ् तुप्पायार् नट्पु। १०६
+मऱवऱ्क मासऱ्ऱार् केण्मै तुऱवऱ्क  
+तुऩ्पत्तुळ् तुप्पायार् नट्पु। १०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६</summary>
@@ -303,10 +302,10 @@ It is gainer's worth and pleasure.         105
 
 <details><summary>NVK Ashraf choice (en) - १०६</summary>
 
-०१०६
-Forget not the friendship of the pure,
-Nor forsake friends who supported in trouble. *
-(V.V.S. Aiyar)
+०१०६  
+Forget not the friendship of the pure,  
+Nor forsake friends who supported in trouble. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६</summary>
@@ -340,14 +339,14 @@ Forsake not timely helpers sure.         106
 
 <details><summary>मूलम् - १०६</summary>
 
-मऱवऱ्क मासऱ्ऱार् केण्मै तुऱवऱ्क
-तुऩ्पत्तुळ् तुप्पायार् नट्पु। १०६
+मऱवऱ्क मासऱ्ऱार् केण्मै तुऱवऱ्क  
+तुऩ्पत्तुळ् तुप्पायार् नट्पु। १०६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०७</summary>
 
-ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्
-विऴुमन् दुडैत्तवर् नट्पु। १०७
+ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्  
+विऴुमन् दुडैत्तवर् नट्पु। १०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७</summary>
@@ -358,10 +357,10 @@ Forsake not timely helpers sure.         106
 
 <details><summary>NVK Ashraf choice (en) - १०७</summary>
 
-०१०७
-The good remember through all seven births
-The friends who wiped their tears.
-(P.S. Sundaram)
+०१०७  
+The good remember through all seven births  
+The friends who wiped their tears.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७</summary>
@@ -395,14 +394,14 @@ The willing friend who wiped one's tears.         107
 
 <details><summary>मूलम् - १०७</summary>
 
-ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्
-विऴुमन् दुडैत्तवर् नट्पु। १०७
+ऎऴुमै ऎऴुबिऱप्पुम् उळ्ळुवर् तङ्गण्  
+विऴुमन् दुडैत्तवर् नट्पु। १०७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०८</summary>
 
-नऩ्ऱि मऱप्पदु नऩ्ऱऩ्ऱु नऩ्ऱल्लदु
-अऩ्ऱे मऱप्पदु नऩ्ऱु। १०८
+नऩ्ऱि मऱप्पदु नऩ्ऱऩ्ऱु नऩ्ऱल्लदु  
+अऩ्ऱे मऱप्पदु नऩ्ऱु। १०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८</summary>
@@ -413,10 +412,10 @@ The willing friend who wiped one's tears.         107
 
 <details><summary>NVK Ashraf choice (en) - १०८</summary>
 
-०१०८
-To forget a good turn is not good, and good it is
-To forget at once what isn't good.
-(P.S. Sundaram)
+०१०८  
+To forget a good turn is not good, and good it is  
+To forget at once what isn't good.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८</summary>
@@ -450,14 +449,14 @@ Good it is over wrong not to brood.         108
 
 <details><summary>मूलम् - १०८</summary>
 
-नऩ्ऱि मऱप्पदु नऩ्ऱऩ्ऱु नऩ्ऱल्लदु
-अऩ्ऱे मऱप्पदु नऩ्ऱु। १०८
+नऩ्ऱि मऱप्पदु नऩ्ऱऩ्ऱु नऩ्ऱल्लदु  
+अऩ्ऱे मऱप्पदु नऩ्ऱु। १०८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १०९</summary>
 
-कॊऩ्ऱऩ्ऩ इऩ्ऩा सॆयिऩुम् अवर्सॆय्द
-ऒऩ्ऱुनऩ्ऱु उळ्ळक् कॆडुम्। १०९
+कॊऩ्ऱऩ्ऩ इऩ्ऩा सॆयिऩुम् अवर्सॆय्द  
+ऒऩ्ऱुनऩ्ऱु उळ्ळक् कॆडुम्। १०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०९</summary>
@@ -468,10 +467,10 @@ Good it is over wrong not to brood.         108
 
 <details><summary>NVK Ashraf choice (en) - १०९</summary>
 
-०१०९
-Even a deadly hurt is soon effaced,
-If one recollects a past good turn.
-(S.M. Diaz)
+०१०९  
+Even a deadly hurt is soon effaced,  
+If one recollects a past good turn.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०९</summary>
@@ -505,14 +504,14 @@ While remembering one good-turn.         109
 
 <details><summary>मूलम् - १०९</summary>
 
-कॊऩ्ऱऩ्ऩ इऩ्ऩा सॆयिऩुम् अवर्सॆय्द
-ऒऩ्ऱुनऩ्ऱु उळ्ळक् कॆडुम्। १०९
+कॊऩ्ऱऩ्ऩ इऩ्ऩा सॆयिऩुम् अवर्सॆय्द  
+ऒऩ्ऱुनऩ्ऱु उळ्ळक् कॆडुम्। १०९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११०</summary>
 
-ऎन्नऩ्ऱि कॊऩ्ऱार्क्कुम् उय्वुण्डाम् उय्विल्लै
-सॆय्न्नऩ्ऱि कॊऩ्ऱ मगऱ्कु। ११०
+ऎन्नऩ्ऱि कॊऩ्ऱार्क्कुम् उय्वुण्डाम् उय्विल्लै  
+सॆय्न्नऩ्ऱि कॊऩ्ऱ मगऱ्कु। ११०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०</summary>
@@ -523,10 +522,10 @@ While remembering one good-turn.         109
 
 <details><summary>NVK Ashraf choice (en) - ११०</summary>
 
-०११०
-One may slain every goodness and yet escape,
-But no escape for one who slain gratitude.
-(Satguru Subramuniyaswami)
+०११०  
+One may slain every goodness and yet escape,  
+But no escape for one who slain gratitude.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११०</summary>
@@ -564,7 +563,7 @@ Not benefit-killer who is damned.         110
 
 <details><summary>मूलम् - ११०</summary>
 
-ऎन्नऩ्ऱि कॊऩ्ऱार्क्कुम् उय्वुण्डाम् उय्विल्लै
-सॆय्न्नऩ्ऱि कॊऩ्ऱ मगऱ्कु। ११०
+ऎन्नऩ्ऱि कॊऩ्ऱार्क्कुम् उय्वुण्डाम् उय्विल्लै  
+सॆय्न्नऩ्ऱि कॊऩ्ऱ मगऱ्कु। ११०  
 </details>
 

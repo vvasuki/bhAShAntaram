@@ -3,11 +3,10 @@ title = "१३ कयमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०७१</summary>
 
-मक्कळे पोल्वर् कयवर् अवरऩ्ऩ
-ऒप्पारि याङ्गण्ड तिल्। १०७१
+मक्कळे पोल्वर् कयवर् अवरऩ्ऩ  
+ऒप्पारि याङ्गण्ड तिल्। १०७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७१</summary>
@@ -19,10 +18,10 @@ title = "१३ कयमै"
 
 <details><summary>NVK Ashraf choice (en) - १०७१</summary>
 
-१०७१
-The wicked look utterly like men!
-Such close mimics we have never seen! *
-(S. Maharajan)
+१०७१  
+The wicked look utterly like men!  
+Such close mimics we have never seen! *  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७१</summary>
@@ -57,14 +56,14 @@ We have never seen such a sham.        1071
 
 <details><summary>मूलम् - १०७१</summary>
 
-मक्कळे पोल्वर् कयवर् अवरऩ्ऩ
-ऒप्पारि याङ्गण्ड तिल्। १०७१
+मक्कळे पोल्वर् कयवर् अवरऩ्ऩ  
+ऒप्पारि याङ्गण्ड तिल्। १०७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७२</summary>
 
-नऩ्ऱऱि वारिऱ् कयवर् तिरुवुडैयर्
-नॆञ्जत्तु अवलम् इलर्। १०७२
+नऩ्ऱऱि वारिऱ् कयवर् तिरुवुडैयर्  
+नॆञ्जत्तु अवलम् इलर्। १०७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७२</summary>
@@ -75,10 +74,10 @@ We have never seen such a sham.        1071
 
 <details><summary>NVK Ashraf choice (en) - १०७२</summary>
 
-१०७२
-More blessed than the good are the base,
-For they have no scruples.
-(P.S. Sundaram)
+१०७२  
+More blessed than the good are the base,  
+For they have no scruples.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७२</summary>
@@ -113,14 +112,14 @@ For no care enters their heart or head.        1072
 
 <details><summary>मूलम् - १०७२</summary>
 
-नऩ्ऱऱि वारिऱ् कयवर् तिरुवुडैयर्
-नॆञ्जत्तु अवलम् इलर्। १०७२
+नऩ्ऱऱि वारिऱ् कयवर् तिरुवुडैयर्  
+नॆञ्जत्तु अवलम् इलर्। १०७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७३</summary>
 
-तेवर् अऩैयर् कयवर् अवरुन्दाम्
-मेवऩ सॆय्दॊऴुग लाऩ्। १०७३
+तेवर् अऩैयर् कयवर् अवरुन्दाम्  
+मेवऩ सॆय्दॊऴुग लाऩ्। १०७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७३</summary>
@@ -131,10 +130,10 @@ For no care enters their heart or head.        1072
 
 <details><summary>NVK Ashraf choice (en) - १०७३</summary>
 
-१०७३
-The base are like the gods.
-They also do whatever they like.
-(P.S. Sundaram)
+१०७३  
+The base are like the gods.  
+They also do whatever they like.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७३</summary>
@@ -168,14 +167,14 @@ As prompted by their desire do.        1073
 
 <details><summary>मूलम् - १०७३</summary>
 
-तेवर् अऩैयर् कयवर् अवरुन्दाम्
-मेवऩ सॆय्दॊऴुग लाऩ्। १०७३
+तेवर् अऩैयर् कयवर् अवरुन्दाम्  
+मेवऩ सॆय्दॊऴुग लाऩ्। १०७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७४</summary>
 
-अगप्पट्टि आवारैक् काणिऩ् अवरिऩ्
-मिगप्पट्टुच् चॆम्माक्कुम् कीऴ्। १०७४
+अगप्पट्टि आवारैक् काणिऩ् अवरिऩ्  
+मिगप्पट्टुच् चॆम्माक्कुम् कीऴ्। १०७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७४</summary>
@@ -186,10 +185,10 @@ As prompted by their desire do.        1073
 
 <details><summary>NVK Ashraf choice (en) - १०७४</summary>
 
-१०७४
-The base are proud when they find men
-Meaner than themselves.
-(P.S. Sundaram)
+१०७४  
+The base are proud when they find men  
+Meaner than themselves.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७४</summary>
@@ -223,14 +222,14 @@ Him he will exceed, exult and smile.        1074
 
 <details><summary>मूलम् - १०७४</summary>
 
-अगप्पट्टि आवारैक् काणिऩ् अवरिऩ्
-मिगप्पट्टुच् चॆम्माक्कुम् कीऴ्। १०७४
+अगप्पट्टि आवारैक् काणिऩ् अवरिऩ्  
+मिगप्पट्टुच् चॆम्माक्कुम् कीऴ्। १०७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७५</summary>
 
-अच्चमे कीऴ्गळदु आचारम् ऎच्चम्
-अवावुण्डेल् उण्डाम् सिऱिदु। १०७५
+अच्चमे कीऴ्गळदु आचारम् ऎच्चम्  
+अवावुण्डेल् उण्डाम् सिऱिदु। १०७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७५</summary>
@@ -241,10 +240,10 @@ Him he will exceed, exult and smile.        1074
 
 <details><summary>NVK Ashraf choice (en) - १०७५</summary>
 
-१०७५
-Fear is the base man's only code;
-Sometimes, greed a little. *
-(P.S. Sundaram), (G.U. Pope)
+१०७५  
+Fear is the base man's only code;  
+Sometimes, greed a little. *  
+(P.S. Sundaram), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७५</summary>
@@ -279,14 +278,14 @@ Craving avails a bit below.        1075
 
 <details><summary>मूलम् - १०७५</summary>
 
-अच्चमे कीऴ्गळदु आचारम् ऎच्चम्
-अवावुण्डेल् उण्डाम् सिऱिदु। १०७५
+अच्चमे कीऴ्गळदु आचारम् ऎच्चम्  
+अवावुण्डेल् उण्डाम् सिऱिदु। १०७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७६</summary>
 
-अऱैबऱै अऩ्ऩर् कयवर्दाम् केट्ट
-मऱैबिऱर्क्कु उय्त्तुरैक्क लाऩ्। १०७६
+अऱैबऱै अऩ्ऩर् कयवर्दाम् केट्ट  
+मऱैबिऱर्क्कु उय्त्तुरैक्क लाऩ्। १०७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७६</summary>
@@ -297,10 +296,10 @@ Craving avails a bit below.        1075
 
 <details><summary>NVK Ashraf choice (en) - १०७६</summary>
 
-१०७६
-The base are like drum, for they sound off to others
-Every secret they hear. *
-(Satguru Subramuniyaswami)
+१०७६  
+The base are like drum, for they sound off to others  
+Every secret they hear. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७६</summary>
@@ -335,14 +334,14 @@ Since other's secrets they proclaim.        1076
 
 <details><summary>मूलम् - १०७६</summary>
 
-अऱैबऱै अऩ्ऩर् कयवर्दाम् केट्ट
-मऱैबिऱर्क्कु उय्त्तुरैक्क लाऩ्। १०७६
+अऱैबऱै अऩ्ऩर् कयवर्दाम् केट्ट  
+मऱैबिऱर्क्कु उय्त्तुरैक्क लाऩ्। १०७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७७</summary>
 
-ईर्ङ्गै विधिरार् कयवर् कॊडिऱुडैक्कुम्
-कूऩ्कैयर् अल्ला तवर्क्कु। १०७७
+ईर्ङ्गै विधिरार् कयवर् कॊडिऱुडैक्कुम्  
+कूऩ्कैयर् अल्ला तवर्क्कु। १०७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७७</summary>
@@ -353,10 +352,10 @@ Since other's secrets they proclaim.        1076
 
 <details><summary>NVK Ashraf choice (en) - १०७७</summary>
 
-१०७७
-The base won’t even shake their wet hands
-Unless their jaws are shaken with clenched fists. *
-( Shuddhananda Bharatiar), (Satguru Subramuniyaswami)
+१०७७  
+The base won’t even shake their wet hands  
+Unless their jaws are shaken with clenched fists. *  
+( Shuddhananda Bharatiar), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०७७</summary>
@@ -396,14 +395,14 @@ But for fists clenched their jaws to break.        1077
 
 <details><summary>मूलम् - १०७७</summary>
 
-ईर्ङ्गै विधिरार् कयवर् कॊडिऱुडैक्कुम्
-कूऩ्कैयर् अल्ला तवर्क्कु। १०७७
+ईर्ङ्गै विधिरार् कयवर् कॊडिऱुडैक्कुम्  
+कूऩ्कैयर् अल्ला तवर्क्कु। १०७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७८</summary>
 
-सॊल्लप् पयऩ्पडुवर् साऩ्ऱोर् करुम्बुबोल्
-कॊल्लप् पयऩ्पडुम् कीऴ्। १०७८
+सॊल्लप् पयऩ्पडुवर् साऩ्ऱोर् करुम्बुबोल्  
+कॊल्लप् पयऩ्पडुम् कीऴ्। १०७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७८</summary>
@@ -414,10 +413,10 @@ But for fists clenched their jaws to break.        1077
 
 <details><summary>NVK Ashraf choice (en) - १०७८</summary>
 
-१०७८
-A word will move the noble;
-While the base, like sugarcane, must be crushed.
-(P.S. Sundaram)
+१०७८  
+A word will move the noble;  
+While the base, like sugarcane, must be crushed.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७८</summary>
@@ -452,14 +451,14 @@ The cane-like base when crushed and killed.        1078
 
 <details><summary>मूलम् - १०७८</summary>
 
-सॊल्लप् पयऩ्पडुवर् साऩ्ऱोर् करुम्बुबोल्
-कॊल्लप् पयऩ्पडुम् कीऴ्। १०७८
+सॊल्लप् पयऩ्पडुवर् साऩ्ऱोर् करुम्बुबोल्  
+कॊल्लप् पयऩ्पडुम् कीऴ्। १०७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७९</summary>
 
-उडुप्पदूउम् उण्बदूउम् काणिऩ् पिऱर्मेल्
-वडुक्काण वऱ्ऱागुम् कीऴ्। १०७९
+उडुप्पदूउम् उण्बदूउम् काणिऩ् पिऱर्मेल्  
+वडुक्काण वऱ्ऱागुम् कीऴ्। १०७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७९</summary>
@@ -470,10 +469,10 @@ The cane-like base when crushed and killed.        1078
 
 <details><summary>NVK Ashraf choice (en) - १०७९</summary>
 
-१०७९
-The base excel in finding faults of others
-When they see them well clothed and fed.
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+१०७९  
+The base excel in finding faults of others  
+When they see them well clothed and fed.  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७९</summary>
@@ -508,14 +507,14 @@ On seeing how they eat and dress.        1079
 
 <details><summary>मूलम् - १०७९</summary>
 
-उडुप्पदूउम् उण्बदूउम् काणिऩ् पिऱर्मेल्
-वडुक्काण वऱ्ऱागुम् कीऴ्। १०७९
+उडुप्पदूउम् उण्बदूउम् काणिऩ् पिऱर्मेल्  
+वडुक्काण वऱ्ऱागुम् कीऴ्। १०७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०८०</summary>
 
-ऎऱ्ऱिऱ् कुरियर् कयवरॊऩ्ऱु उऱ्ऱक्काल्
-विऱ्ऱऱ्कु उरियर् विरैन्दु। १०८०
+ऎऱ्ऱिऱ् कुरियर् कयवरॊऩ्ऱु उऱ्ऱक्काल्  
+विऱ्ऱऱ्कु उरियर् विरैन्दु। १०८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०८०</summary>
@@ -526,10 +525,10 @@ On seeing how they eat and dress.        1079
 
 <details><summary>NVK Ashraf choice (en) - १०८०</summary>
 
-१०८०
-What use are the base in a crisis,
-Save to rush and sell themselves?
-(P.S. Sundaram)
+१०८०  
+What use are the base in a crisis,  
+Save to rush and sell themselves?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०८०</summary>
@@ -563,9 +562,12 @@ From doom to flit and nothing else.        1080
 
 <details><summary>मूलम् - १०८०</summary>
 
-ऎऱ्ऱिऱ् कुरियर् कयवरॊऩ्ऱु उऱ्ऱक्काल्
-विऱ्ऱऱ्कु उरियर् विरैन्दु। १०८०
+ऎऱ्ऱिऱ् कुरियर् कयवरॊऩ्ऱु उऱ्ऱक्काल्  
+विऱ्ऱऱ्कु उरियर् विरैन्दु। १०८०  
 </details>
+
+
+
 
 ऒऴिबियल् मुऱ्ऱिऱ्ऱु  
 पॊरुट्पाल् मुऱ्ऱिऱ्ऱु  

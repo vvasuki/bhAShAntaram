@@ -3,11 +3,10 @@ title = "१४ वॆह्हा³मै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - १७१</summary>
 
-नडुविऩ्ऱि नऩ्पॊरुळ् वॆह्हि³ऩ् कुडिबॊऩ्ऱिक्
-कुऱ्ऱमुम् आङ्गे तरुम्। १७१
+नडुविऩ्ऱि नऩ्पॊरुळ् वॆह्हि³ऩ् कुडिबॊऩ्ऱिक्  
+कुऱ्ऱमुम् आङ्गे तरुम्। १७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७१</summary>
@@ -18,10 +17,10 @@ title = "१४ वॆह्हा³मै"
 
 <details><summary>NVK Ashraf choice (en) - १७१</summary>
 
-०१७१
-Unjust desire to covet others’ honest wealth
-At once ruins home and begets evil. *
-(G.U. Pope), ( Shuddhananda Bharatiar)
+०१७१  
+Unjust desire to covet others’ honest wealth  
+At once ruins home and begets evil. *  
+(G.U. Pope), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७१</summary>
@@ -55,14 +54,14 @@ That greed ruins his house forthwith.         171
 
 <details><summary>मूलम् - १७१</summary>
 
-नडुविऩ्ऱि नऩ्पॊरुळ् वॆह्हि³ऩ् कुडिबॊऩ्ऱिक्
-कुऱ्ऱमुम् आङ्गे तरुम्। १७१
+नडुविऩ्ऱि नऩ्पॊरुळ् वॆह्हि³ऩ् कुडिबॊऩ्ऱिक्  
+कुऱ्ऱमुम् आङ्गे तरुम्। १७१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७२</summary>
 
-पडुबयऩ् वॆह्हि³प् पऴिप्पडुव सॆय्यार्
-नडुवऩ्मै नाणु पवर्। १७२
+पडुबयऩ् वॆह्हि³प् पऴिप्पडुव सॆय्यार्  
+नडुवऩ्मै नाणु पवर्। १७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७२</summary>
@@ -73,10 +72,10 @@ That greed ruins his house forthwith.         171
 
 <details><summary>NVK Ashraf choice (en) - १७२</summary>
 
-०१७२
-Those who deem injustice a shame,
-Refrain from covetousness that brings blame.
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+०१७२  
+Those who deem injustice a shame,  
+Refrain from covetousness that brings blame.  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७२</summary>
@@ -110,14 +109,14 @@ From coveting which brings ruin.         172
 
 <details><summary>मूलम् - १७२</summary>
 
-पडुबयऩ् वॆह्हि³प् पऴिप्पडुव सॆय्यार्
-नडुवऩ्मै नाणु पवर्। १७२
+पडुबयऩ् वॆह्हि³प् पऴिप्पडुव सॆय्यार्  
+नडुवऩ्मै नाणु पवर्। १७२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७३</summary>
 
-सिऱ्ऱिऩ्पम् वॆह्हि³ अऱऩल्ल सॆय्यारे
-मऱ्ऱिऩ्पम् वेण्डु पवर्। १७३
+सिऱ्ऱिऩ्पम् वॆह्हि³ अऱऩल्ल सॆय्यारे  
+मऱ्ऱिऩ्पम् वेण्डु पवर्। १७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७३</summary>
@@ -128,10 +127,10 @@ From coveting which brings ruin.         172
 
 <details><summary>NVK Ashraf choice (en) - १७३</summary>
 
-०१७३
-They will not sin for fleeting pleasures
-Who seek eternal joy.
-(P.S. Sundaram)
+०१७३  
+They will not sin for fleeting pleasures  
+Who seek eternal joy.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७३</summary>
@@ -165,14 +164,14 @@ For fleeting joy commit no wrong.         173
 
 <details><summary>मूलम् - १७३</summary>
 
-सिऱ्ऱिऩ्पम् वॆह्हि³ अऱऩल्ल सॆय्यारे
-मऱ्ऱिऩ्पम् वेण्डु पवर्। १७३
+सिऱ्ऱिऩ्पम् वॆह्हि³ अऱऩल्ल सॆय्यारे  
+मऱ्ऱिऩ्पम् वेण्डु पवर्। १७३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७४</summary>
 
-इलमॆऩ्ऱु वॆह्हु³दल् सॆय्यार् पुलंवॆऩ्ऱ
-पुऩ्मैयिल् काट्चि यवर्। १७४
+इलमॆऩ्ऱु वॆह्हु³दल् सॆय्यार् पुलंवॆऩ्ऱ  
+पुऩ्मैयिल् काट्चि यवर्। १७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७४</summary>
@@ -183,10 +182,10 @@ For fleeting joy commit no wrong.         173
 
 <details><summary>NVK Ashraf choice (en) - १७४</summary>
 
-०१७४
-Their senses conquered,
-The clear-eyed cite not their poverty to covet. *
-(P.S. Sundaram)
+०१७४  
+Their senses conquered,  
+The clear-eyed cite not their poverty to covet. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १७४</summary>
@@ -225,14 +224,14 @@ Though in want covet not at all.         174
 
 <details><summary>मूलम् - १७४</summary>
 
-इलमॆऩ्ऱु वॆह्हु³दल् सॆय्यार् पुलंवॆऩ्ऱ
-पुऩ्मैयिल् काट्चि यवर्। १७४
+इलमॆऩ्ऱु वॆह्हु³दल् सॆय्यार् पुलंवॆऩ्ऱ  
+पुऩ्मैयिल् काट्चि यवर्। १७४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७५</summary>
 
-अह्हि³ अगऩ्ऱ अऱिवॆऩ्ऩाम् यार्माट्टुम्
-वॆह्हि³ वॆऱिय सॆयिऩ्। १७५
+अह्हि³ अगऩ्ऱ अऱिवॆऩ्ऩाम् यार्माट्टुम्  
+वॆह्हि³ वॆऱिय सॆयिऩ्। १७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७५</summary>
@@ -243,10 +242,10 @@ Though in want covet not at all.         174
 
 <details><summary>NVK Ashraf choice (en) - १७५</summary>
 
-०१७५
-Of what avail is a keen and sharp intellect,
-If greed seizes one to covet? *
-(S.M. Diaz)
+०१७५  
+Of what avail is a keen and sharp intellect,  
+If greed seizes one to covet? *  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७५</summary>
@@ -280,14 +279,14 @@ If it deals ill with all on earth.         175
 
 <details><summary>मूलम् - १७५</summary>
 
-अह्हि³ अगऩ्ऱ अऱिवॆऩ्ऩाम् यार्माट्टुम्
-वॆह्हि³ वॆऱिय सॆयिऩ्। १७५
+अह्हि³ अगऩ्ऱ अऱिवॆऩ्ऩाम् यार्माट्टुम्  
+वॆह्हि³ वॆऱिय सॆयिऩ्। १७५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७६</summary>
 
-अरुळ्वॆह्हि³ आऱ्ऱिऩ्कण् निऩ्ऱाऩ् पॊरुळ्वॆह्हि³प्
-पॊल्लाद सूऴक् कॆडुम्। १७६
+अरुळ्वॆह्हि³ आऱ्ऱिऩ्कण् निऩ्ऱाऩ् पॊरुळ्वॆह्हि³प्  
+पॊल्लाद सूऴक् कॆडुम्। १७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७६</summary>
@@ -298,10 +297,10 @@ If it deals ill with all on earth.         175
 
 <details><summary>NVK Ashraf choice (en) - १७६</summary>
 
-०१७६
-Even he whom grace beckons, if beckoned by greed,
-Will perish beckoned with evil. *
-(P.S. Sundaram)
+०१७६  
+Even he whom grace beckons, if beckoned by greed,  
+Will perish beckoned with evil. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७६</summary>
@@ -335,14 +334,14 @@ Suffers by evil covetous wealth.         176
 
 <details><summary>मूलम् - १७६</summary>
 
-अरुळ्वॆह्हि³ आऱ्ऱिऩ्कण् निऩ्ऱाऩ् पॊरुळ्वॆह्हि³प्
-पॊल्लाद सूऴक् कॆडुम्। १७६
+अरुळ्वॆह्हि³ आऱ्ऱिऩ्कण् निऩ्ऱाऩ् पॊरुळ्वॆह्हि³प्  
+पॊल्लाद सूऴक् कॆडुम्। १७६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७७</summary>
 
-वेण्डऱ्क वॆह्हि³याम् आक्कम् विळैवयिऩ्
-माण्डऱ् करिदाम् पयऩ्। १७७
+वेण्डऱ्क वॆह्हि³याम् आक्कम् विळैवयिऩ्  
+माण्डऱ् करिदाम् पयऩ्। १७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७७</summary>
@@ -353,10 +352,10 @@ Suffers by evil covetous wealth.         176
 
 <details><summary>NVK Ashraf choice (en) - १७७</summary>
 
-०१७७
-Avoid wealth though greed.
-Out of it comes no good.
-(P.S. Sundaram)
+०१७७  
+Avoid wealth though greed.  
+Out of it comes no good.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७७</summary>
@@ -390,14 +389,14 @@ All its yield is inglorious.         177
 
 <details><summary>मूलम् - १७७</summary>
 
-वेण्डऱ्क वॆह्हि³याम् आक्कम् विळैवयिऩ्
-माण्डऱ् करिदाम् पयऩ्। १७७
+वेण्डऱ्क वॆह्हि³याम् आक्कम् विळैवयिऩ्  
+माण्डऱ् करिदाम् पयऩ्। १७७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७८</summary>
 
-अह्हा³मै सॆल्वत्तिऱ्कु यादॆऩिऩ् वॆह्हा³मै
-वेण्डुम् पिऱऩ्कैप् पॊरुळ्। १७८
+अह्हा³मै सॆल्वत्तिऱ्कु यादॆऩिऩ् वॆह्हा³मै  
+वेण्डुम् पिऱऩ्कैप् पॊरुळ्। १७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७८</summary>
@@ -408,10 +407,10 @@ All its yield is inglorious.         177
 
 <details><summary>NVK Ashraf choice (en) - १७८</summary>
 
-०१७८
-Do not covet another's wealth
-If you would keep your own un-shrunk.
-(P.S. Sundaram)
+०१७८  
+Do not covet another's wealth  
+If you would keep your own un-shrunk.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७८</summary>
@@ -445,14 +444,14 @@ By not coveting others' own.         178
 
 <details><summary>मूलम् - १७८</summary>
 
-अह्हा³मै सॆल्वत्तिऱ्कु यादॆऩिऩ् वॆह्हा³मै
-वेण्डुम् पिऱऩ्कैप् पॊरुळ्। १७८
+अह्हा³मै सॆल्वत्तिऱ्कु यादॆऩिऩ् वॆह्हा³मै  
+वेण्डुम् पिऱऩ्कैप् पॊरुळ्। १७८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १७९</summary>
 
-अऱऩऱिन्दु वॆह्हा³ अऱिवुडैयार्च् चेरुम्
-तिऱऩ्अऱिन् दाङ्गे तिरु। १७९
+अऱऩऱिन्दु वॆह्हा³ अऱिवुडैयार्च् चेरुम्  
+तिऱऩ्अऱिन् दाङ्गे तिरु। १७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १७९</summary>
@@ -463,10 +462,10 @@ By not coveting others' own.         178
 
 <details><summary>NVK Ashraf choice (en) - १७९</summary>
 
-०१७९
-Fortune finds the worth and draws near to those
-Who know the worth of non-coveting. *
-(Satguru Subramuniyaswami)
+०१७९  
+Fortune finds the worth and draws near to those  
+Who know the worth of non-coveting. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १७९</summary>
@@ -500,14 +499,14 @@ Who are free from coveting vice.         179
 
 <details><summary>मूलम् - १७९</summary>
 
-अऱऩऱिन्दु वॆह्हा³ अऱिवुडैयार्च् चेरुम्
-तिऱऩ्अऱिन् दाङ्गे तिरु। १७९
+अऱऩऱिन्दु वॆह्हा³ अऱिवुडैयार्च् चेरुम्  
+तिऱऩ्अऱिन् दाङ्गे तिरु। १७९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १८०</summary>
 
-इऱलीऩुम् ऎण्णादु वॆह्हि³ऩ् विऱल्ईऩुम्
-वेण्डामै ऎऩ्ऩुञ् जॆरुक्कु। १८०
+इऱलीऩुम् ऎण्णादु वॆह्हि³ऩ् विऱल्ईऩुम्  
+वेण्डामै ऎऩ्ऩुञ् जॆरुक्कु। १८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १८०</summary>
@@ -518,10 +517,10 @@ Who are free from coveting vice.         179
 
 <details><summary>NVK Ashraf choice (en) - १८०</summary>
 
-०१८०
-Mindless coveting brings ruin.
-The pride of freedom from desire yields success.
-(J. Narayanaswamy)
+०१८०  
+Mindless coveting brings ruin.  
+The pride of freedom from desire yields success.  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १८०</summary>
@@ -554,7 +553,7 @@ Coveting misers ruined fall.         180
 
 <details><summary>मूलम् - १८०</summary>
 
-इऱलीऩुम् ऎण्णादु वॆह्हि³ऩ् विऱल्ईऩुम्
-वेण्डामै ऎऩ्ऩुञ् जॆरुक्कु। १८०
+इऱलीऩुम् ऎण्णादु वॆह्हि³ऩ् विऱल्ईऩुम्  
+वेण्डामै ऎऩ्ऩुञ् जॆरुक्कु। १८०  
 </details>
 

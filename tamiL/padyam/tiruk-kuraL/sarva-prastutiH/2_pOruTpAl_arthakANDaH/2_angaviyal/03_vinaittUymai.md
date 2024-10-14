@@ -3,11 +3,10 @@ title = "०३ विनैत्तूय्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६५१</summary>
 
-तुणैनलम् आक्कम् त्रुउम् विऩैनलम्
-वेण्डिय ऎल्लान् दरुम्। ६५१
+तुणैनलम् आक्कम् त्रुउम् विऩैनलम्  
+वेण्डिय ऎल्लान् दरुम्। ६५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५१</summary>
@@ -19,10 +18,10 @@ title = "०३ विनैत्तूय्मै"
 
 <details><summary>NVK Ashraf choice (en) - ६५१</summary>
 
-०६५१
-Good alliance brings success;
-And good deeds all one needs. *
-(M.S. Poornalingam Pillai), (P.S. Sundaram)
+०६५१  
+Good alliance brings success;  
+And good deeds all one needs. *  
+(M.S. Poornalingam Pillai), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५१</summary>
@@ -56,14 +55,14 @@ Does every good thing we desire.        651
 
 <details><summary>मूलम् - ६५१</summary>
 
-तुणैनलम् आक्कम् त्रुउम् विऩैनलम्
-वेण्डिय ऎल्लान् दरुम्। ६५१
+तुणैनलम् आक्कम् त्रुउम् विऩैनलम्  
+वेण्डिय ऎल्लान् दरुम्। ६५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५२</summary>
 
-ऎऩ्ऱुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु
-नऩ्ऱि पयवा विऩै। ६५२
+ऎऩ्ऱुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु  
+नऩ्ऱि पयवा विऩै। ६५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५२</summary>
@@ -74,10 +73,10 @@ Does every good thing we desire.        651
 
 <details><summary>NVK Ashraf choice (en) - ६५२</summary>
 
-०६५२
-Avoid always deeds that do not lead to
-Lasting good and fame. *
-(P.S. Sundaram)
+०६५२  
+Avoid always deeds that do not lead to  
+Lasting good and fame. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५२</summary>
@@ -111,14 +110,14 @@ Bring good nor glory on their part.        652
 
 <details><summary>मूलम् - ६५२</summary>
 
-ऎऩ्ऱुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु
-नऩ्ऱि पयवा विऩै। ६५२
+ऎऩ्ऱुम् ऒरुवुदल् वेण्डुम् पुगऴॊडु  
+नऩ्ऱि पयवा विऩै। ६५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५३</summary>
 
-ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विऩै
-आअदुम् ऎऩ्ऩु मवर्। ६५३
+ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विऩै  
+आअदुम् ऎऩ्ऩु मवर्। ६५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५३</summary>
@@ -129,10 +128,10 @@ Bring good nor glory on their part.        652
 
 <details><summary>NVK Ashraf choice (en) - ६५३</summary>
 
-०६५३
-Those who seek greatness must avoid
-What will stain their name.
-(P.S. Sundaram)
+०६५३  
+Those who seek greatness must avoid  
+What will stain their name.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५३</summary>
@@ -166,14 +165,14 @@ Should shun the deed that dims their name.        653
 
 <details><summary>मूलम् - ६५३</summary>
 
-ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विऩै
-आअदुम् ऎऩ्ऩु मवर्। ६५३
+ऒओदल् वेण्डुम् ऒळिमाऴ्गुम् सॆय्विऩै  
+आअदुम् ऎऩ्ऩु मवर्। ६५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५४</summary>
 
-इडुक्कण् पडिऩुम् इळिवन्द सॆय्यार्
-नडुक्कऱ्ऱ काट्चि यवर्। ६५४
+इडुक्कण् पडिऩुम् इळिवन्द सॆय्यार्  
+नडुक्कऱ्ऱ काट्चि यवर्। ६५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५४</summary>
@@ -184,10 +183,10 @@ Should shun the deed that dims their name.        653
 
 <details><summary>NVK Ashraf choice (en) - ६५४</summary>
 
-०६५४
-Men of clear understanding
-Will not do mean acts even in distress.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०६५४  
+Men of clear understanding  
+Will not do mean acts even in distress.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५४</summary>
@@ -221,14 +220,14 @@ Shun deeds of mean, shameful device.        654
 
 <details><summary>मूलम् - ६५४</summary>
 
-इडुक्कण् पडिऩुम् इळिवन्द सॆय्यार्
-नडुक्कऱ्ऱ काट्चि यवर्। ६५४
+इडुक्कण् पडिऩुम् इळिवन्द सॆय्यार्  
+नडुक्कऱ्ऱ काट्चि यवर्। ६५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५५</summary>
 
-ऎऱ्ऱॆऩ्ऱु इरङ्गुव सॆय्यऱ्क सॆय्वाऩेल्
-मऱ्ऱऩ्ऩ सॆय्यामै नऩ्ऱु। ६५५
+ऎऱ्ऱॆऩ्ऱु इरङ्गुव सॆय्यऱ्क सॆय्वाऩेल्  
+मऱ्ऱऩ्ऩ सॆय्यामै नऩ्ऱु। ६५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५५</summary>
@@ -239,10 +238,10 @@ Shun deeds of mean, shameful device.        654
 
 <details><summary>NVK Ashraf choice (en) - ६५५</summary>
 
-०६५५
-Do not do what you will regret; and if you do,
-Better not repeat the same.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०६५५  
+Do not do what you will regret; and if you do,  
+Better not repeat the same.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५५</summary>
@@ -277,14 +276,14 @@ If done, do not repeat it twice.        655
 
 <details><summary>मूलम् - ६५५</summary>
 
-ऎऱ्ऱॆऩ्ऱु इरङ्गुव सॆय्यऱ्क सॆय्वाऩेल्
-मऱ्ऱऩ्ऩ सॆय्यामै नऩ्ऱु। ६५५
+ऎऱ्ऱॆऩ्ऱु इरङ्गुव सॆय्यऱ्क सॆय्वाऩेल्  
+मऱ्ऱऩ्ऩ सॆय्यामै नऩ्ऱु। ६५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५६</summary>
 
-ईऩ्ऱाळ् पसिगाण्बाऩ् आयिऩुञ् जॆय्यऱ् क
-साऩ्ऱोर् पऴिक्कुम् विऩै। ६५६
+ईऩ्ऱाळ् पसिगाण्बाऩ् आयिऩुञ् जॆय्यऱ् क  
+साऩ्ऱोर् पऴिक्कुम् विऩै। ६५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५६</summary>
@@ -295,10 +294,10 @@ If done, do not repeat it twice.        655
 
 <details><summary>NVK Ashraf choice (en) - ६५६</summary>
 
-०६५६
-Do not do what the wise condemn
-Even to save your starving mother.
-(P.S. Sundaram)
+०६५६  
+Do not do what the wise condemn  
+Even to save your starving mother.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५६</summary>
@@ -332,14 +331,14 @@ Shun acts denounced by ancient seers.        656
 
 <details><summary>मूलम् - ६५६</summary>
 
-ईऩ्ऱाळ् पसिगाण्बाऩ् आयिऩुञ् जॆय्यऱ् क
-साऩ्ऱोर् पऴिक्कुम् विऩै। ६५६
+ईऩ्ऱाळ् पसिगाण्बाऩ् आयिऩुञ् जॆय्यऱ् क  
+साऩ्ऱोर् पऴिक्कुम् विऩै। ६५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५७</summary>
 
-पऴिमलैन्दु ऎय्दिय आक्कत्तिऩ् साऩ्ऱोर्
-कऴिनल् कुरवे तलै। ६५७
+पऴिमलैन्दु ऎय्दिय आक्कत्तिऩ् साऩ्ऱोर्  
+कऴिनल् कुरवे तलै। ६५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५७</summary>
@@ -350,10 +349,10 @@ Shun acts denounced by ancient seers.        656
 
 <details><summary>NVK Ashraf choice (en) - ६५७</summary>
 
-०६५७
-Better the pinching poverty of the wise
-Than the pile of wealth hoarded by vice.
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+०६५७  
+Better the pinching poverty of the wise  
+Than the pile of wealth hoarded by vice.  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५७</summary>
@@ -387,14 +386,14 @@ Is more than wealth hoarded by Vice.        657
 
 <details><summary>मूलम् - ६५७</summary>
 
-पऴिमलैन्दु ऎय्दिय आक्कत्तिऩ् साऩ्ऱोर्
-कऴिनल् कुरवे तलै। ६५७
+पऴिमलैन्दु ऎय्दिय आक्कत्तिऩ् साऩ्ऱोर्  
+कऴिनल् कुरवे तलै। ६५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५८</summary>
 
-कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्
-मुडिन्दालुम् पीऴै तरुम्। ६५८
+कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्  
+मुडिन्दालुम् पीऴै तरुम्। ६५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५८</summary>
@@ -405,10 +404,10 @@ Is more than wealth hoarded by Vice.        657
 
 <details><summary>NVK Ashraf choice (en) - ६५८</summary>
 
-०६५८
-Ends achieved without any regard to the means
-Will bring grief॥
-(N.V.K. Ashraf)
+०६५८  
+Ends achieved without any regard to the means  
+Will bring grief॥  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५८</summary>
@@ -442,14 +441,14 @@ Suffer troubles though they succeed.        658
 
 <details><summary>मूलम् - ६५८</summary>
 
-कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्
-मुडिन्दालुम् पीऴै तरुम्। ६५८
+कडिन्द कडिन्दॊरार् सॆय्दार्क्कु अवैदाम्  
+मुडिन्दालुम् पीऴै तरुम्। ६५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६५९</summary>
 
-अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिऩुम्
-पिऱ्पयक्कुम् नऱ्पा लवै। ६५९
+अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिऩुम्  
+पिऱ्पयक्कुम् नऱ्पा लवै। ६५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६५९</summary>
@@ -460,10 +459,10 @@ Suffer troubles though they succeed.        658
 
 <details><summary>NVK Ashraf choice (en) - ६५९</summary>
 
-०६५९
-What's gained with other's tears will go in tears;
-What's won fair, though lost, will surge again. *
-(P.S. Sundaram), (K.R. Srinivasa Iyengar)
+०६५९  
+What's gained with other's tears will go in tears;  
+What's won fair, though lost, will surge again. *  
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६५९</summary>
@@ -498,14 +497,14 @@ Though lost, from good deeds blessings flow.        659
 
 <details><summary>मूलम् - ६५९</summary>
 
-अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिऩुम्
-पिऱ्पयक्कुम् नऱ्पा लवै। ६५९
+अऴक् कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिऩुम्  
+पिऱ्पयक्कुम् नऱ्पा लवै। ६५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६६०</summary>
 
-सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्
-कलत्तुळ्नीर् पॆय्दिरीइ यऱ्ऱु। ६६०
+सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्  
+कलत्तुळ्नीर् पॆय्दिरीइ यऱ्ऱु। ६६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६६०</summary>
@@ -516,10 +515,10 @@ Though lost, from good deeds blessings flow.        659
 
 <details><summary>NVK Ashraf choice (en) - ६६०</summary>
 
-०६६०
-Stocking ill-got wealth is like storing
-Water in an unbaked pot. *
-(P.S. Sundaram), (K.R. Srinivasa Iyengar)
+०६६०  
+Stocking ill-got wealth is like storing  
+Water in an unbaked pot. *  
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६६०</summary>
@@ -552,7 +551,7 @@ Is water poured in wet clay vase.        660
 
 <details><summary>मूलम् - ६६०</summary>
 
-सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्
-कलत्तुळ्नीर् पॆय्दिरीइ यऱ्ऱु। ६६०
+सलत्ताल् पॊरुळ्सॆय्दे मार्त्तल् पसुमण्  
+कलत्तुळ्नीर् पॆय्दिरीइ यऱ्ऱु। ६६०  
 </details>
 

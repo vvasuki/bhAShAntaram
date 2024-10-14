@@ -3,11 +3,10 @@ title = "०२ पडर्मॆलिन्दिरङ्गल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११६१</summary>
 
-मऱैप्पेऩ्मऩ् याऩिह्दो नोयै इऱैप्पवर्क्कु
-ऊऱ्ऱुनीर् पोल मिगुम्। ११६१
+मऱैप्पेऩ्मऩ् याऩिह्दो नोयै इऱैप्पवर्क्कु  
+ऊऱ्ऱुनीर् पोल मिगुम्। ११६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६१</summary>
@@ -18,10 +17,10 @@ title = "०२ पडर्मॆलिन्दिरङ्गल्"
 
 <details><summary>NVK Ashraf choice (en) - ११६१</summary>
 
-११६१
-I would hide this sickness, but it wells up
-Like water drawn from a spring. *
-(P.S. Sundaram)
+११६१  
+I would hide this sickness, but it wells up  
+Like water drawn from a spring. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६१</summary>
@@ -55,14 +54,14 @@ How to bear this pain so writhing?        1161
 
 <details><summary>मूलम् - ११६१</summary>
 
-मऱैप्पेऩ्मऩ् याऩिह्दो नोयै इऱैप्पवर्क्कु
-ऊऱ्ऱुनीर् पोल मिगुम्। ११६१
+मऱैप्पेऩ्मऩ् याऩिह्दो नोयै इऱैप्पवर्क्कु  
+ऊऱ्ऱुनीर् पोल मिगुम्। ११६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६२</summary>
 
-करत्तलुम् आऱ्ऱेऩ्इन् नोयैनोय् सॆय्दार्क्कु
-उरैत्तलुम् नाणुत् तरुम्। ११६२
+करत्तलुम् आऱ्ऱेऩ्इन् नोयैनोय् सॆय्दार्क्कु  
+उरैत्तलुम् नाणुत् तरुम्। ११६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६२</summary>
@@ -73,10 +72,10 @@ How to bear this pain so writhing?        1161
 
 <details><summary>NVK Ashraf choice (en) - ११६२</summary>
 
-११६२
-Hide this sickness, I cannot.
-To tell him who caused it, I am ashamed.
-(P.S. Sundaram)
+११६२  
+Hide this sickness, I cannot.  
+To tell him who caused it, I am ashamed.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६२</summary>
@@ -110,14 +109,14 @@ For shame to him who caused this pain.        1162
 
 <details><summary>मूलम् - ११६२</summary>
 
-करत्तलुम् आऱ्ऱेऩ्इन् नोयैनोय् सॆय्दार्क्कु
-उरैत्तलुम् नाणुत् तरुम्। ११६२
+करत्तलुम् आऱ्ऱेऩ्इन् नोयैनोय् सॆय्दार्क्कु  
+उरैत्तलुम् नाणुत् तरुम्। ११६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६३</summary>
 
-काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎऩ्
-नोऩा उडम्बिऩ् अगत्तु। ११६३
+काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎऩ्  
+नोऩा उडम्बिऩ् अगत्तु। ११६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६३</summary>
@@ -128,10 +127,10 @@ For shame to him who caused this pain.        1162
 
 <details><summary>NVK Ashraf choice (en) - ११६३</summary>
 
-११६३
-Love and shame hang poised on my life.
-My body unable to bear them.
-(P.S. Sundaram)
+११६३  
+Love and shame hang poised on my life.  
+My body unable to bear them.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६३</summary>
@@ -165,14 +164,14 @@ Are poised the weights of lust and shame.        1163
 
 <details><summary>मूलम् - ११६३</summary>
 
-काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎऩ्
-नोऩा उडम्बिऩ् अगत्तु। ११६३
+काममुम् नाणुम् उयिर्गावात् तूङ्गुम्ऎऩ्  
+नोऩा उडम्बिऩ् अगत्तु। ११६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६४</summary>
 
-कामक् कडल्मऩ्ऩुम् उण्डे अदुनीन्दुम्
-एमप् पुणैमऩ्ऩुम् इल्। ११६४
+कामक् कडल्मऩ्ऩुम् उण्डे अदुनीन्दुम्  
+एमप् पुणैमऩ्ऩुम् इल्। ११६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६४</summary>
@@ -183,10 +182,10 @@ Are poised the weights of lust and shame.        1163
 
 <details><summary>NVK Ashraf choice (en) - ११६४</summary>
 
-११६४
-There is indeed a flood of lust;
-But no safe raft to swim across it. *
-(W.H. Drew and J. Lazarus)
+११६४  
+There is indeed a flood of lust;  
+But no safe raft to swim across it. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६४</summary>
@@ -220,14 +219,14 @@ A raft to go across safely.        1164
 
 <details><summary>मूलम् - ११६४</summary>
 
-कामक् कडल्मऩ्ऩुम् उण्डे अदुनीन्दुम्
-एमप् पुणैमऩ्ऩुम् इल्। ११६४
+कामक् कडल्मऩ्ऩुम् उण्डे अदुनीन्दुम्  
+एमप् पुणैमऩ्ऩुम् इल्। ११६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६५</summary>
 
-तुप्पिऩ् ऎवऩावर् मऩ्कॊल् तुयर्वरवु
-नट्पिऩुळ् आऱ्ऱु पवर्। ११६५
+तुप्पिऩ् ऎवऩावर् मऩ्कॊल् तुयर्वरवु  
+नट्पिऩुळ् आऱ्ऱु पवर्। ११६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६५</summary>
@@ -238,10 +237,10 @@ A raft to go across safely.        1164
 
 <details><summary>NVK Ashraf choice (en) - ११६५</summary>
 
-११६५
-If his friendship can bring so much misery,
-How will it be in enmity? *
-(G. Vanmikanathan), (P.S. Sundaram)
+११६५  
+If his friendship can bring so much misery,  
+How will it be in enmity? *  
+(G. Vanmikanathan), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११६५</summary>
@@ -280,14 +279,14 @@ Who in friendship bring me woes!        1165
 
 <details><summary>मूलम् - ११६५</summary>
 
-तुप्पिऩ् ऎवऩावर् मऩ्कॊल् तुयर्वरवु
-नट्पिऩुळ् आऱ्ऱु पवर्। ११६५
+तुप्पिऩ् ऎवऩावर् मऩ्कॊल् तुयर्वरवु  
+नट्पिऩुळ् आऱ्ऱु पवर्। ११६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६६</summary>
 
-इऩ्पम् कडल्मऱ्ऱुक् कामम् अह्दडुङ्गाल्
-तुऩ्पम् अदऩिऱ् पॆरिदु। ११६६
+इऩ्पम् कडल्मऱ्ऱुक् कामम् अह्दडुङ्गाल्  
+तुऩ्पम् अदऩिऱ् पॆरिदु। ११६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६६</summary>
@@ -298,10 +297,10 @@ Who in friendship bring me woes!        1165
 
 <details><summary>NVK Ashraf choice (en) - ११६६</summary>
 
-११६६
-The pleasure of love is as vast as the sea.
-Vaster still is the sorrow of its hurt.
-(N.V.K. Ashraf)
+११६६  
+The pleasure of love is as vast as the sea.  
+Vaster still is the sorrow of its hurt.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६६</summary>
@@ -335,14 +334,14 @@ But its pangs are more painful.        1166
 
 <details><summary>मूलम् - ११६६</summary>
 
-इऩ्पम् कडल्मऱ्ऱुक् कामम् अह्दडुङ्गाल्
-तुऩ्पम् अदऩिऱ् पॆरिदु। ११६६
+इऩ्पम् कडल्मऱ्ऱुक् कामम् अह्दडुङ्गाल्  
+तुऩ्पम् अदऩिऱ् पॆरिदु। ११६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६७</summary>
 
-कामक् कडुम्बुऩल् नीन्दिक् करैगाणेऩ्
-यामत्तुम् याऩे उळेऩ्। ११६७
+कामक् कडुम्बुऩल् नीन्दिक् करैगाणेऩ्  
+यामत्तुम् याऩे उळेऩ्। ११६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६७</summary>
@@ -353,10 +352,10 @@ But its pangs are more painful.        1166
 
 <details><summary>NVK Ashraf choice (en) - ११६७</summary>
 
-११६७
-Whirling in the stormy sea of love, I find no shore;
-Even at midnight I am alone.
-(K. Kannan), (P.S. Sundaram)
+११६७  
+Whirling in the stormy sea of love, I find no shore;  
+Even at midnight I am alone.  
+(K. Kannan), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६७</summary>
@@ -390,14 +389,14 @@ Pining alone in midnight hush.        1167
 
 <details><summary>मूलम् - ११६७</summary>
 
-कामक् कडुम्बुऩल् नीन्दिक् करैगाणेऩ्
-यामत्तुम् याऩे उळेऩ्। ११६७
+कामक् कडुम्बुऩल् नीन्दिक् करैगाणेऩ्  
+यामत्तुम् याऩे उळेऩ्। ११६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६८</summary>
 
-मऩ्ऩुयिर् ऎल्लाम् तुयिऱ्ऱि अळित्तिरा
-ऎऩ्ऩल्लदु इल्लै तुणै। ११६८
+मऩ्ऩुयिर् ऎल्लाम् तुयिऱ्ऱि अळित्तिरा  
+ऎऩ्ऩल्लदु इल्लै तुणै। ११६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६८</summary>
@@ -408,10 +407,10 @@ Pining alone in midnight hush.        1167
 
 <details><summary>NVK Ashraf choice (en) - ११६८</summary>
 
-११६८
-Poor night, putting all things to sleep,
-Has only me for company.
-(P.S. Sundaram)
+११६८  
+Poor night, putting all things to sleep,  
+Has only me for company.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६८</summary>
@@ -445,14 +444,14 @@ Keeping but me for companionship.        1168
 
 <details><summary>मूलम् - ११६८</summary>
 
-मऩ्ऩुयिर् ऎल्लाम् तुयिऱ्ऱि अळित्तिरा
-ऎऩ्ऩल्लदु इल्लै तुणै। ११६८
+मऩ्ऩुयिर् ऎल्लाम् तुयिऱ्ऱि अळित्तिरा  
+ऎऩ्ऩल्लदु इल्लै तुणै। ११६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११६९</summary>
 
-> कॊडियार् कॊडुमैयिऩ् ताम्गॊडिय इन्नाळ्
-नॆडिय कऴियुम् इरा। ११६९
+> कॊडियार् कॊडुमैयिऩ् ताम्गॊडिय इन्नाळ्  
+नॆडिय कऴियुम् इरा। ११६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६९</summary>
@@ -463,10 +462,10 @@ Keeping but me for companionship.        1168
 
 <details><summary>NVK Ashraf choice (en) - ११६९</summary>
 
-११६९
-Even crueler than my cruel lord
-Are the long nights of these days. *
-(P.S. Sundaram)
+११६९  
+Even crueler than my cruel lord  
+Are the long nights of these days. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६९</summary>
@@ -500,14 +499,14 @@ Are midnight hours gliding slowly.        1169
 
 <details><summary>मूलम् - ११६९</summary>
 
-> कॊडियार् कॊडुमैयिऩ् ताम्गॊडिय इन्नाळ्
-नॆडिय कऴियुम् इरा। ११६९
+> कॊडियार् कॊडुमैयिऩ् ताम्गॊडिय इन्नाळ्  
+नॆडिय कऴियुम् इरा। ११६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७०</summary>
 
-उळ्ळम्बोऩ्ऱु उळ्वऴिच् चॆल्गिऱ्पिऩ् वॆळ्ळनीर्
-नीन्दल मऩ्ऩोऎऩ् कण्। ११७०
+उळ्ळम्बोऩ्ऱु उळ्वऴिच् चॆल्गिऱ्पिऩ् वॆळ्ळनीर्  
+नीन्दल मऩ्ऩोऎऩ् कण्। ११७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७०</summary>
@@ -518,10 +517,10 @@ Are midnight hours gliding slowly.        1169
 
 <details><summary>NVK Ashraf choice (en) - ११७०</summary>
 
-११७०
-If eyes could also reach him like the heart,
-They won’t be swimming in a flood of tears.
-(N.V.K. Ashraf)
+११७०  
+If eyes could also reach him like the heart,  
+They won’t be swimming in a flood of tears.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११७०</summary>
@@ -559,7 +558,7 @@ It won't in floods of tears swim!        1170
 
 <details><summary>मूलम् - ११७०</summary>
 
-उळ्ळम्बोऩ्ऱु उळ्वऴिच् चॆल्गिऱ्पिऩ् वॆळ्ळनीर्
-नीन्दल मऩ्ऩोऎऩ् कण्। ११७०
+उळ्ळम्बोऩ्ऱु उळ्वऴिच् चॆल्गिऱ्पिऩ् वॆळ्ळनीर्  
+नीन्दल मऩ्ऩोऎऩ् कण्। ११७०  
 </details>
 

@@ -3,11 +3,10 @@ title = "०३ तवम्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २६१</summary>
 
-उऱ्ऱनोय् नोऩ्ऱल् उयिर्क्कुऱुगण् सॆय्यामै
-अऱ्ऱे तवत्तिऱ् गुरु। २६१
+उऱ्ऱनोय् नोऩ्ऱल् उयिर्क्कुऱुगण् सॆय्यामै  
+अऱ्ऱे तवत्तिऱ् गुरु। २६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६१</summary>
@@ -18,10 +17,10 @@ title = "०३ तवम्"
 
 <details><summary>NVK Ashraf choice (en) - २६१</summary>
 
-०२६१
-The characteristic of penance lies in
-Enduring hardships and harming no life.
-(N.V.K. Ashraf)
+०२६१  
+The characteristic of penance lies in  
+Enduring hardships and harming no life.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २६१</summary>
@@ -60,14 +59,14 @@ This is the type of true penance.        261
 
 <details><summary>मूलम् - २६१</summary>
 
-उऱ्ऱनोय् नोऩ्ऱल् उयिर्क्कुऱुगण् सॆय्यामै
-अऱ्ऱे तवत्तिऱ् गुरु। २६१
+उऱ्ऱनोय् नोऩ्ऱल् उयिर्क्कुऱुगण् सॆय्यामै  
+अऱ्ऱे तवत्तिऱ् गुरु। २६१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६२</summary>
 
-तवमुम् तवमुडैयार्क्कु आगुम् अदऩै
-अह्दिलार् मेऱ्कॊळ् वदु। २६२
+तवमुम् तवमुडैयार्क्कु आगुम् अदऩै  
+अह्दिलार् मेऱ्कॊळ् वदु। २६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६२</summary>
@@ -78,10 +77,10 @@ This is the type of true penance.        261
 
 <details><summary>NVK Ashraf choice (en) - २६२</summary>
 
-०२६२
-Penance is for the capable.
-It is futile for others to attempt it.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०२६२  
+Penance is for the capable.  
+It is futile for others to attempt it.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६२</summary>
@@ -116,14 +115,14 @@ Not for him who in vain pretends.        262
 
 <details><summary>मूलम् - २६२</summary>
 
-तवमुम् तवमुडैयार्क्कु आगुम् अदऩै
-अह्दिलार् मेऱ्कॊळ् वदु। २६२
+तवमुम् तवमुडैयार्क्कु आगुम् अदऩै  
+अह्दिलार् मेऱ्कॊळ् वदु। २६२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६३</summary>
 
-तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्
-मऱ्ऱै यवर्गळ् तवम्। २६३
+तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्  
+मऱ्ऱै यवर्गळ् तवम्। २६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६३</summary>
@@ -134,10 +133,10 @@ Not for him who in vain pretends.        262
 
 <details><summary>NVK Ashraf choice (en) - २६३</summary>
 
-०२६३
-Is it to support those who do penance
-That others have forgotten it?
-(N.V.K. Ashraf)
+०२६३  
+Is it to support those who do penance  
+That others have forgotten it?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २६३</summary>
@@ -177,14 +176,14 @@ That others austere path avoid?        263
 
 <details><summary>मूलम् - २६३</summary>
 
-तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्
-मऱ्ऱै यवर्गळ् तवम्। २६३
+तुऱन्दार्क्कुत् तुप्पुरवु वेण्डि मऱन्दार्गॊल्  
+मऱ्ऱै यवर्गळ् तवम्। २६३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६४</summary>
 
-ऒऩ्ऩार्त् तॆऱलुम् उवन्दारै आक्कलुम्
-ऎण्णिऩ् तवत्ताऩ् वरुम्। २६४
+ऒऩ्ऩार्त् तॆऱलुम् उवन्दारै आक्कलुम्  
+ऎण्णिऩ् तवत्ताऩ् वरुम्। २६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६४</summary>
@@ -195,10 +194,10 @@ That others austere path avoid?        263
 
 <details><summary>NVK Ashraf choice (en) - २६४</summary>
 
-०२६४
-In penance lies the power
-To save friends and foil foes. *
-( Shuddhananda Bharatiar)
+०२६४  
+In penance lies the power  
+To save friends and foil foes. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६४</summary>
@@ -232,14 +231,14 @@ The friends and foil the foe and knave.        264
 
 <details><summary>मूलम् - २६४</summary>
 
-ऒऩ्ऩार्त् तॆऱलुम् उवन्दारै आक्कलुम्
-ऎण्णिऩ् तवत्ताऩ् वरुम्। २६४
+ऒऩ्ऩार्त् तॆऱलुम् उवन्दारै आक्कलुम्  
+ऎण्णिऩ् तवत्ताऩ् वरुम्। २६४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६५</summary>
 
-वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्
-ईण्डु मुयलप् पडुम्। २६५
+वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्  
+ईण्डु मुयलप् पडुम्। २६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६५</summary>
@@ -250,10 +249,10 @@ The friends and foil the foe and knave.        264
 
 <details><summary>NVK Ashraf choice (en) - २६५</summary>
 
-०२६५
-Men do penance in this world
-For the fulfillment of their desired desires. *
-(Satguru Subramuniyaswami)
+०२६५  
+Men do penance in this world  
+For the fulfillment of their desired desires. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६५</summary>
@@ -288,14 +287,14 @@ Here hence by men penance is done.        265
 
 <details><summary>मूलम् - २६५</summary>
 
-वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्
-ईण्डु मुयलप् पडुम्। २६५
+वेण्डिय वेण्डियाङ् गॆय्दलाल् सॆय्दवम्  
+ईण्डु मुयलप् पडुम्। २६५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६६</summary>
 
-तवञ् जॆय्वार् तङ्गरुमञ् जॆय्वार्मऱ् ऱल्लार्
-अवञ्जॆय्वार् आसैयुट् पट्टु। २६६
+तवञ् जॆय्वार् तङ्गरुमञ् जॆय्वार्मऱ् ऱल्लार्  
+अवञ्जॆय्वार् आसैयुट् पट्टु। २६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६६</summary>
@@ -306,10 +305,10 @@ Here hence by men penance is done.        265
 
 <details><summary>NVK Ashraf choice (en) - २६६</summary>
 
-०२६६
-While the austere are engaged in their duties,
-Others toil in vain ensnared by desire. *
-(N.V.K. Ashraf), (G.U. Pope)
+०२६६  
+While the austere are engaged in their duties,  
+Others toil in vain ensnared by desire. *  
+(N.V.K. Ashraf), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६६</summary>
@@ -344,14 +343,14 @@ Others desire-rid themselves harm.        266
 
 <details><summary>मूलम् - २६६</summary>
 
-तवञ् जॆय्वार् तङ्गरुमञ् जॆय्वार्मऱ् ऱल्लार्
-अवञ्जॆय्वार् आसैयुट् पट्टु। २६६
+तवञ् जॆय्वार् तङ्गरुमञ् जॆय्वार्मऱ् ऱल्लार्  
+अवञ्जॆय्वार् आसैयुट् पट्टु। २६६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६७</summary>
 
-सुडच्चुडरुम् पॊऩ्पोल् ऒळिविडुम् तुऩ्पञ्
-जुडच्चुड नोऱ्किऱ् पवर्क्कु। २६७
+सुडच्चुडरुम् पॊऩ्पोल् ऒळिविडुम् तुऩ्पञ्  
+जुडच्चुड नोऱ्किऱ् पवर्क्कु। २६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६७</summary>
@@ -362,10 +361,10 @@ Others desire-rid themselves harm.        266
 
 <details><summary>NVK Ashraf choice (en) - २६७</summary>
 
-०२६७
-As the intense fire makes gold shine,
-So does the burning austerities relieve pain.
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+०२६७  
+As the intense fire makes gold shine,  
+So does the burning austerities relieve pain.  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६७</summary>
@@ -399,14 +398,14 @@ and so the life by pain austere.        267
 
 <details><summary>मूलम् - २६७</summary>
 
-सुडच्चुडरुम् पॊऩ्पोल् ऒळिविडुम् तुऩ्पञ्
-जुडच्चुड नोऱ्किऱ् पवर्क्कु। २६७
+सुडच्चुडरुम् पॊऩ्पोल् ऒळिविडुम् तुऩ्पञ्  
+जुडच्चुड नोऱ्किऱ् पवर्क्कु। २६७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६८</summary>
 
-तऩ्ऩुयिर् ताऩ्अऱप् पॆऱ्ऱाऩै एऩैय
-मऩ्ऩुयि रॆल्लान् दॊऴुम्। २६८
+तऩ्ऩुयिर् ताऩ्अऱप् पॆऱ्ऱाऩै एऩैय  
+मऩ्ऩुयि रॆल्लान् दॊऴुम्। २६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६८</summary>
@@ -417,10 +416,10 @@ and so the life by pain austere.        267
 
 <details><summary>NVK Ashraf choice (en) - २६८</summary>
 
-०२६८
-All souls will worship him who, losing his ego,
-Gets control of his own soul.
-(S. Maharajan)
+०२६८  
+All souls will worship him who, losing his ego,  
+Gets control of his own soul.  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६८</summary>
@@ -455,14 +454,14 @@ Who Master is by soul control.        268
 
 <details><summary>मूलम् - २६८</summary>
 
-तऩ्ऩुयिर् ताऩ्अऱप् पॆऱ्ऱाऩै एऩैय
-मऩ्ऩुयि रॆल्लान् दॊऴुम्। २६८
+तऩ्ऩुयिर् ताऩ्अऱप् पॆऱ्ऱाऩै एऩैय  
+मऩ्ऩुयि रॆल्लान् दॊऴुम्। २६८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६९</summary>
 
-कूऱ्ऱम् कुदित्तलुम् कैगूडुम् नोऱ्ऱलिऩ्
-आऱ्ऱल् तलैप्पट् टवर्क्कुल्। २६९
+कूऱ्ऱम् कुदित्तलुम् कैगूडुम् नोऱ्ऱलिऩ्  
+आऱ्ऱल् तलैप्पट् टवर्क्कुल्। २६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६९</summary>
@@ -473,10 +472,10 @@ Who Master is by soul control.        268
 
 <details><summary>NVK Ashraf choice (en) - २६९</summary>
 
-०२६९
-Those who have achieved the strength of penance
-Could defeat even the Lord of Death.
-(S.M. Diaz)
+०२६९  
+Those who have achieved the strength of penance  
+Could defeat even the Lord of Death.  
+(S.M. Diaz)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६९</summary>
@@ -510,14 +509,14 @@ Who get by penance godly strength.        269
 
 <details><summary>मूलम् - २६९</summary>
 
-कूऱ्ऱम् कुदित्तलुम् कैगूडुम् नोऱ्ऱलिऩ्
-आऱ्ऱल् तलैप्पट् टवर्क्कुल्। २६९
+कूऱ्ऱम् कुदित्तलुम् कैगूडुम् नोऱ्ऱलिऩ्  
+आऱ्ऱल् तलैप्पट् टवर्क्कुल्। २६९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २७०</summary>
 
-इलर्बल रागिय कारणम् नोऱ्पार्
-सिलर्बलर् नोला तवर्। २७०
+इलर्बल रागिय कारणम् नोऱ्पार्  
+सिलर्बलर् नोला तवर्। २७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २७०</summary>
@@ -528,10 +527,10 @@ Who get by penance godly strength.        269
 
 <details><summary>NVK Ashraf choice (en) - २७०</summary>
 
-०२७०
-The have-nots outnumber the haves
-Because penance is not for the many.
-(P.S. Sundaram)
+०२७०  
+The have-nots outnumber the haves  
+Because penance is not for the many.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २७०</summary>
@@ -565,7 +564,7 @@ For they care not for penance much.        270
 
 <details><summary>मूलम् - २७०</summary>
 
-इलर्बल रागिय कारणम् नोऱ्पार्
-सिलर्बलर् नोला तवर्। २७०
+इलर्बल रागिय कारणम् नोऱ्पार्  
+सिलर्बलर् नोला तवर्। २७०  
 </details>
 

@@ -3,11 +3,10 @@ title = "१० नॆञ्जॊडुगिळत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १२४१</summary>
 
-निऩैत्तॊऩ्ऱु सॊल्लायो नॆञ्जे ऎऩैत्तॊऩ्ऱुम्
-ऎव्वनोय् तीर्क्कुम् मरुन्दु। १२४१
+निऩैत्तॊऩ्ऱु सॊल्लायो नॆञ्जे ऎऩैत्तॊऩ्ऱुम्  
+ऎव्वनोय् तीर्क्कुम् मरुन्दु। १२४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४१</summary>
@@ -18,10 +17,10 @@ title = "१० नॆञ्जॊडुगिळत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - १२४१</summary>
 
-१२४१
-My heart, can't you suggest any remedy at all
-For this incurable sickness?
-(P.S. Sundaram)
+१२४१  
+My heart, can't you suggest any remedy at all  
+For this incurable sickness?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४१</summary>
@@ -55,14 +54,14 @@ To cure this chronic malady.        1241
 
 <details><summary>मूलम् - १२४१</summary>
 
-निऩैत्तॊऩ्ऱु सॊल्लायो नॆञ्जे ऎऩैत्तॊऩ्ऱुम्
-ऎव्वनोय् तीर्क्कुम् मरुन्दु। १२४१
+निऩैत्तॊऩ्ऱु सॊल्लायो नॆञ्जे ऎऩैत्तॊऩ्ऱुम्  
+ऎव्वनोय् तीर्क्कुम् मरुन्दु। १२४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४२</summary>
 
-कादल् अवरिलर् आगनी नोवदु
-पेदैमै वाऴियॆऩ् नॆञ्जु। १२४२
+कादल् अवरिलर् आगनी नोवदु  
+पेदैमै वाऴियॆऩ् नॆञ्जु। १२४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४२</summary>
@@ -73,10 +72,10 @@ To cure this chronic malady.        1241
 
 <details><summary>NVK Ashraf choice (en) - १२४२</summary>
 
-१२४२
-O my heart! How foolish you are to grieve for him
-Who has no love for me!
-(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+१२४२  
+O my heart! How foolish you are to grieve for him  
+Who has no love for me!  
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४२</summary>
@@ -111,14 +110,14 @@ For me he has no love serene.        1242
 
 <details><summary>मूलम् - १२४२</summary>
 
-कादल् अवरिलर् आगनी नोवदु
-पेदैमै वाऴियॆऩ् नॆञ्जु। १२४२
+कादल् अवरिलर् आगनी नोवदु  
+पेदैमै वाऴियॆऩ् नॆञ्जु। १२४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४३</summary>
 
-इरुन्दुळ्ळि ऎऩ्परिदल् नॆञ्जे परिन्दुळ्ळल्
-पैदल्नोय् सॆय्दार्गण् इल्। १२४३
+इरुन्दुळ्ळि ऎऩ्परिदल् नॆञ्जे परिन्दुळ्ळल्  
+पैदल्नोय् सॆय्दार्गण् इल्। १२४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४३</summary>
@@ -129,10 +128,10 @@ For me he has no love serene.        1242
 
 <details><summary>NVK Ashraf choice (en) - १२४३</summary>
 
-१२४३
-O heart, what use to stay here and pine
-When he who caused this sickness is heartless?
-(P.S. Sundaram)
+१२४३  
+O heart, what use to stay here and pine  
+When he who caused this sickness is heartless?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४३</summary>
@@ -167,14 +166,14 @@ Who made you so pale lacks pity.        1243
 
 <details><summary>मूलम् - १२४३</summary>
 
-इरुन्दुळ्ळि ऎऩ्परिदल् नॆञ्जे परिन्दुळ्ळल्
-पैदल्नोय् सॆय्दार्गण् इल्। १२४३
+इरुन्दुळ्ळि ऎऩ्परिदल् नॆञ्जे परिन्दुळ्ळल्  
+पैदल्नोय् सॆय्दार्गण् इल्। १२४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४४</summary>
 
-कण्णुम् कॊळच्चेऱि नॆञ्जे इवैयॆऩ्ऩैत्
-तिऩ्ऩुम् अवर्क्काणल् उऱ्ऱु। १२४४
+कण्णुम् कॊळच्चेऱि नॆञ्जे इवैयॆऩ्ऩैत्  
+तिऩ्ऩुम् अवर्क्काणल् उऱ्ऱु। १२४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४४</summary>
@@ -185,10 +184,10 @@ Who made you so pale lacks pity.        1243
 
 <details><summary>NVK Ashraf choice (en) - १२४४</summary>
 
-१२४४
-Rid me of these eyes, O my heart! For they,
-Longing to see him, wear my life away.
-(G.U. Pope)
+१२४४  
+Rid me of these eyes, O my heart! For they,  
+Longing to see him, wear my life away.  
+(G.U. Pope)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२४४</summary>
@@ -228,14 +227,14 @@ Or their hunger will eat me out.        1244
 
 <details><summary>मूलम् - १२४४</summary>
 
-कण्णुम् कॊळच्चेऱि नॆञ्जे इवैयॆऩ्ऩैत्
-तिऩ्ऩुम् अवर्क्काणल् उऱ्ऱु। १२४४
+कण्णुम् कॊळच्चेऱि नॆञ्जे इवैयॆऩ्ऩैत्  
+तिऩ्ऩुम् अवर्क्काणल् उऱ्ऱु। १२४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४५</summary>
 
-सॆऱ्ऱार् ऎऩक्कै विडल्उण्डो नॆञ्जेयाम्
-उऱ्ऱाल् उऱाअ तवर्। १२४५
+सॆऱ्ऱार् ऎऩक्कै विडल्उण्डो नॆञ्जेयाम्  
+उऱ्ऱाल् उऱाअ तवर्। १२४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४५</summary>
@@ -246,10 +245,10 @@ Or their hunger will eat me out.        1244
 
 <details><summary>NVK Ashraf choice (en) - १२४५</summary>
 
-१२४५
-O heart, can I call him a foe and dump him
-Who longs not for me though I long for him? *
-(G.U. Pope)
+१२४५  
+O heart, can I call him a foe and dump him  
+Who longs not for me though I long for him? *  
+(G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४५</summary>
@@ -283,14 +282,14 @@ Can we desert him as unkind?        1245
 
 <details><summary>मूलम् - १२४५</summary>
 
-सॆऱ्ऱार् ऎऩक्कै विडल्उण्डो नॆञ्जेयाम्
-उऱ्ऱाल् उऱाअ तवर्। १२४५
+सॆऱ्ऱार् ऎऩक्कै विडल्उण्डो नॆञ्जेयाम्  
+उऱ्ऱाल् उऱाअ तवर्। १२४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४६</summary>
 
-कलन्दुणर्त्तुम् कादलर्क् कण्डाऱ् पुलन्दुणराय्
-पॊय्क्काय्वु काय्दिऎऩ् नॆञ्जु। १२४६
+कलन्दुणर्त्तुम् कादलर्क् कण्डाऱ् पुलन्दुणराय्  
+पॊय्क्काय्वु काय्दिऎऩ् नॆञ्जु। १२४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४६</summary>
@@ -301,10 +300,10 @@ Can we desert him as unkind?        1245
 
 <details><summary>NVK Ashraf choice (en) - १२४६</summary>
 
-१२४६
-My heart that pretends to be angry will at once
-Yield and jell seeing my lover.
-(N.V.K. Ashraf)
+१२४६  
+My heart that pretends to be angry will at once  
+Yield and jell seeing my lover.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४६</summary>
@@ -339,14 +338,14 @@ Sans huff, you rush to his sweet embrace.        1246
 
 <details><summary>मूलम् - १२४६</summary>
 
-कलन्दुणर्त्तुम् कादलर्क् कण्डाऱ् पुलन्दुणराय्
-पॊय्क्काय्वु काय्दिऎऩ् नॆञ्जु। १२४६
+कलन्दुणर्त्तुम् कादलर्क् कण्डाऱ् पुलन्दुणराय्  
+पॊय्क्काय्वु काय्दिऎऩ् नॆञ्जु। १२४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४७</summary>
 
-कामम् विडुऒऩ्ऱो नाण्विडु नऩ्ऩॆञ्जे
-याऩो पॊऱेऩ्इव् विरण्डु। १२४७
+कामम् विडुऒऩ्ऱो नाण्विडु नऩ्ऩॆञ्जे  
+याऩो पॊऱेऩ्इव् विरण्डु। १२४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४७</summary>
@@ -357,10 +356,10 @@ Sans huff, you rush to his sweet embrace.        1246
 
 <details><summary>NVK Ashraf choice (en) - १२४७</summary>
 
-१२४७
-O my good heart! Either shed shame or shed love
-For I cannot bear both. *
-(K. Kannan)
+१२४७  
+O my good heart! Either shed shame or shed love  
+For I cannot bear both. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४७</summary>
@@ -395,14 +394,14 @@ I cannot endure both of them.        1247
 
 <details><summary>मूलम् - १२४७</summary>
 
-कामम् विडुऒऩ्ऱो नाण्विडु नऩ्ऩॆञ्जे
-याऩो पॊऱेऩ्इव् विरण्डु। १२४७
+कामम् विडुऒऩ्ऱो नाण्विडु नऩ्ऩॆञ्जे  
+याऩो पॊऱेऩ्इव् विरण्डु। १२४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४८</summary>
 
-परिन्दवर् नल्गारॆऩ्ऱु एङ्गिप् पिरिन्दवर्
-पिऩ्सॆल्वाय् पेदैऎऩ् नॆञ्जु। १२४८
+परिन्दवर् नल्गारॆऩ्ऱु एङ्गिप् पिरिन्दवर्  
+पिऩ्सॆल्वाय् पेदैऎऩ् नॆञ्जु। १२४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४८</summary>
@@ -413,10 +412,10 @@ I cannot endure both of them.        1247
 
 <details><summary>NVK Ashraf choice (en) - १२४८</summary>
 
-१२४८
-O my poor soul! You persist in pursuit of the departed,
-Longing for his favours! *
-(J. Narayanaswamy)
+१२४८  
+O my poor soul! You persist in pursuit of the departed,  
+Longing for his favours! *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४८</summary>
@@ -451,14 +450,14 @@ You sigh and seek his favour, poor heart!        1248
 
 <details><summary>मूलम् - १२४८</summary>
 
-परिन्दवर् नल्गारॆऩ्ऱु एङ्गिप् पिरिन्दवर्
-पिऩ्सॆल्वाय् पेदैऎऩ् नॆञ्जु। १२४८
+परिन्दवर् नल्गारॆऩ्ऱु एङ्गिप् पिरिन्दवर्  
+पिऩ्सॆल्वाय् पेदैऎऩ् नॆञ्जु। १२४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२४९</summary>
 
-उळ्ळत्तार् काद लवराल् उळ्ळिनी
-यारुऴैच् चेऱियॆऩ् नॆञ्जु। १२४९
+उळ्ळत्तार् काद लवराल् उळ्ळिनी  
+यारुऴैच् चेऱियॆऩ् नॆञ्जु। १२४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२४९</summary>
@@ -469,10 +468,10 @@ You sigh and seek his favour, poor heart!        1248
 
 <details><summary>NVK Ashraf choice (en) - १२४९</summary>
 
-१२४९
-Where are you searching my heart
-While you know my dear one is within? *
-(K. Kannan), (P.S. Sundaram)
+१२४९  
+Where are you searching my heart  
+While you know my dear one is within? *  
+(K. Kannan), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२४९</summary>
@@ -506,14 +505,14 @@ Whom you think, mind to whom you go?        1249
 
 <details><summary>मूलम् - १२४९</summary>
 
-उळ्ळत्तार् काद लवराल् उळ्ळिनी
-यारुऴैच् चेऱियॆऩ् नॆञ्जु। १२४९
+उळ्ळत्तार् काद लवराल् उळ्ळिनी  
+यारुऴैच् चेऱियॆऩ् नॆञ्जु। १२४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२५०</summary>
 
-तुऩ्ऩात् तुऱन्दारै नॆञ्जत्तु उडैयेमा
-इऩ्ऩुम् इऴत्तुम् कविऩ्। १२५०
+तुऩ्ऩात् तुऱन्दारै नॆञ्जत्तु उडैयेमा  
+इऩ्ऩुम् इऴत्तुम् कविऩ्। १२५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२५०</summary>
@@ -524,10 +523,10 @@ Whom you think, mind to whom you go?        1249
 
 <details><summary>NVK Ashraf choice (en) - १२५०</summary>
 
-१२५०
-To retain the deserter still in my heart
-Is to suffer losing more charm. *
-(K. Kannan)
+१२५०  
+To retain the deserter still in my heart  
+Is to suffer losing more charm. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२५०</summary>
@@ -561,7 +560,7 @@ To think of him will make us worse.        1250
 
 <details><summary>मूलम् - १२५०</summary>
 
-तुऩ्ऩात् तुऱन्दारै नॆञ्जत्तु उडैयेमा
-इऩ्ऩुम् इऴत्तुम् कविऩ्। १२५०
+तुऩ्ऩात् तुऱन्दारै नॆञ्जत्तु उडैयेमा  
+इऩ्ऩुम् इऴत्तुम् कविऩ्। १२५०  
 </details>
 

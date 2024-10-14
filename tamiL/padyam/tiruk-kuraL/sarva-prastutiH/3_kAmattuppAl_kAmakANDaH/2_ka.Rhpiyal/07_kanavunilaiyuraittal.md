@@ -3,11 +3,10 @@ title = "०७ कनवुनिलैयुरैत्तल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १२११</summary>
 
-कादलर् तूदॊडु वन्द कऩविऩुक्कु
-यादुसॆय् वेऩ्कॊल् विरुन्दु। १२११
+कादलर् तूदॊडु वन्द कऩविऩुक्कु  
+यादुसॆय् वेऩ्कॊल् विरुन्दु। १२११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२११</summary>
@@ -18,10 +17,10 @@ title = "०७ कनवुनिलैयुरैत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - १२११</summary>
 
-१२११
-How shall I feast this dream which brought
-A message from my lord?
-(P.S. Sundaram)
+१२११  
+How shall I feast this dream which brought  
+A message from my lord?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२११</summary>
@@ -56,14 +55,14 @@ That brings the beloved's love-mission?        1211
 
 <details><summary>मूलम् - १२११</summary>
 
-कादलर् तूदॊडु वन्द कऩविऩुक्कु
-यादुसॆय् वेऩ्कॊल् विरुन्दु। १२११
+कादलर् तूदॊडु वन्द कऩविऩुक्कु  
+यादुसॆय् वेऩ्कॊल् विरुन्दु। १२११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१२</summary>
 
-कयलुण्गण् याऩिरप्पत् तुञ्जिऱ् कलन्दार्क्कु
-उयलुण्मै साऱ्ऱुवेऩ् मऩ्। १२१२
+कयलुण्गण् याऩिरप्पत् तुञ्जिऱ् कलन्दार्क्कु  
+उयलुण्मै साऱ्ऱुवेऩ् मऩ्। १२१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१२</summary>
@@ -74,10 +73,10 @@ That brings the beloved's love-mission?        1211
 
 <details><summary>NVK Ashraf choice (en) - १२१२</summary>
 
-१२१२
-If only my painted eyes could sleep,
-I will tell him in my dream of my true predicament. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+१२१२  
+If only my painted eyes could sleep,  
+I will tell him in my dream of my true predicament. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१२</summary>
@@ -112,14 +111,14 @@ To tell my lover how life I keep.        1212
 
 <details><summary>मूलम् - १२१२</summary>
 
-कयलुण्गण् याऩिरप्पत् तुञ्जिऱ् कलन्दार्क्कु
-उयलुण्मै साऱ्ऱुवेऩ् मऩ्। १२१२
+कयलुण्गण् याऩिरप्पत् तुञ्जिऱ् कलन्दार्क्कु  
+उयलुण्मै साऱ्ऱुवेऩ् मऩ्। १२१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१३</summary>
 
-नऩविऩाल् नल्गा तवरैक् कऩविऩाल्
-काण्डलिऩ् उण्डॆऩ् उयिर्। १२१३
+नऩविऩाल् नल्गा तवरैक् कऩविऩाल्  
+काण्डलिऩ् उण्डॆऩ् उयिर्। १२१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१३</summary>
@@ -130,10 +129,10 @@ To tell my lover how life I keep.        1212
 
 <details><summary>NVK Ashraf choice (en) - १२१३</summary>
 
-१२१३
-Though I miss him when I am awake,
-My life lingers on as I see him in my dreams. *
-(J. Narayanaswamy)
+१२१३  
+Though I miss him when I am awake,  
+My life lingers on as I see him in my dreams. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१३</summary>
@@ -167,14 +166,14 @@ I meet in dreams and linger yet.        1213
 
 <details><summary>मूलम् - १२१३</summary>
 
-नऩविऩाल् नल्गा तवरैक् कऩविऩाल्
-काण्डलिऩ् उण्डॆऩ् उयिर्। १२१३
+नऩविऩाल् नल्गा तवरैक् कऩविऩाल्  
+काण्डलिऩ् उण्डॆऩ् उयिर्। १२१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१४</summary>
 
-कऩविऩाऩ् उण्डागुम् कामम् नऩविऩाऩ्
-नल्गारै नाडित् तरऱ्कु। १२१४
+कऩविऩाऩ् उण्डागुम् कामम् नऩविऩाऩ्  
+नल्गारै नाडित् तरऱ्कु। १२१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१४</summary>
@@ -185,10 +184,10 @@ I meet in dreams and linger yet.        1213
 
 <details><summary>NVK Ashraf choice (en) - १२१४</summary>
 
-१२१४
-Dreams sustain my love for in it I seek him
-Who visits not while I am awake.
-(W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)
+१२१४  
+Dreams sustain my love for in it I seek him  
+Who visits not while I am awake.  
+(W.H. Drew and J. Lazarus), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१४</summary>
@@ -223,14 +222,14 @@ Who in wakeful hours I miss.        1214
 
 <details><summary>मूलम् - १२१४</summary>
 
-कऩविऩाऩ् उण्डागुम् कामम् नऩविऩाऩ्
-नल्गारै नाडित् तरऱ्कु। १२१४
+कऩविऩाऩ् उण्डागुम् कामम् नऩविऩाऩ्  
+नल्गारै नाडित् तरऱ्कु। १२१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१५</summary>
 
-नऩविऩाल् कण्डदूउम् आङ्गे कऩवुन्दाऩ्
-कण्ड पॊऴुदे इऩिदु। १२१५
+नऩविऩाल् कण्डदूउम् आङ्गे कऩवुन्दाऩ्  
+कण्ड पॊऴुदे इऩिदु। १२१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१५</summary>
@@ -241,10 +240,10 @@ Who in wakeful hours I miss.        1214
 
 <details><summary>NVK Ashraf choice (en) - १२१५</summary>
 
-१२१५
-The very sight of him is joyous.
-Be it in dreams or while I am awake.
-(N.V.K. Ashraf)
+१२१५  
+The very sight of him is joyous.  
+Be it in dreams or while I am awake.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१५</summary>
@@ -279,14 +278,14 @@ Awake- What of seeing him -hence.        1215
 
 <details><summary>मूलम् - १२१५</summary>
 
-नऩविऩाल् कण्डदूउम् आङ्गे कऩवुन्दाऩ्
-कण्ड पॊऴुदे इऩिदु। १२१५
+नऩविऩाल् कण्डदूउम् आङ्गे कऩवुन्दाऩ्  
+कण्ड पॊऴुदे इऩिदु। १२१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१६</summary>
 
-नऩवॆऩ ऒऩ्ऱिल्लै आयिऩ् कऩविऩाल्
-कादलर् नीङ्गलर् मऩ्। १२१६
+नऩवॆऩ ऒऩ्ऱिल्लै आयिऩ् कऩविऩाल्  
+कादलर् नीङ्गलर् मऩ्। १२१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१६</summary>
@@ -297,10 +296,10 @@ Awake- What of seeing him -hence.        1215
 
 <details><summary>NVK Ashraf choice (en) - १२१६</summary>
 
-१२१६
-Save for that thing called waking,
-My dream-lover won't leave me indeed.
-(P.S. Sundaram)
+१२१६  
+Save for that thing called waking,  
+My dream-lover won't leave me indeed.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२१६</summary>
@@ -340,14 +339,14 @@ My lov'r in dreams would nev'r depart        1216
 
 <details><summary>मूलम् - १२१६</summary>
 
-नऩवॆऩ ऒऩ्ऱिल्लै आयिऩ् कऩविऩाल्
-कादलर् नीङ्गलर् मऩ्। १२१६
+नऩवॆऩ ऒऩ्ऱिल्लै आयिऩ् कऩविऩाल्  
+कादलर् नीङ्गलर् मऩ्। १२१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१७</summary>
 
-नऩविऩाल् नल्गाक् कॊडियार् कऩवऩाल्
-ऎऩ्ऎम्मैप् पीऴिप् पदु। १२१७
+नऩविऩाल् नल्गाक् कॊडियार् कऩवऩाल्  
+ऎऩ्ऎम्मैप् पीऴिप् पदु। १२१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१७</summary>
@@ -358,10 +357,10 @@ My lov'r in dreams would nev'r depart        1216
 
 <details><summary>NVK Ashraf choice (en) - १२१७</summary>
 
-१२१७
-Why does he haunt me in my dreams
-When he cruelly deserts me when awake? *
-(V.V.S. Aiyar)
+१२१७  
+Why does he haunt me in my dreams  
+When he cruelly deserts me when awake? *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१७</summary>
@@ -395,14 +394,14 @@ Adream, ah cruel! he tortures!        1217
 
 <details><summary>मूलम् - १२१७</summary>
 
-नऩविऩाल् नल्गाक् कॊडियार् कऩवऩाल्
-ऎऩ्ऎम्मैप् पीऴिप् पदु। १२१७
+नऩविऩाल् नल्गाक् कॊडियार् कऩवऩाल्  
+ऎऩ्ऎम्मैप् पीऴिप् पदु। १२१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१८</summary>
 
-तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्
-नॆञ्जत्तर् आवर् विरैन्दु। १२१८
+तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्  
+नॆञ्जत्तर् आवर् विरैन्दु। १२१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१८</summary>
@@ -413,10 +412,10 @@ Adream, ah cruel! he tortures!        1217
 
 <details><summary>NVK Ashraf choice (en) - १२१८</summary>
 
-१२१८
-Asleep he is round my shoulders.
-Awake he hurries back to my heart. *
-(P.S. Sundaram)
+१२१८  
+Asleep he is round my shoulders.  
+Awake he hurries back to my heart. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२१८</summary>
@@ -451,14 +450,14 @@ Awake he enters quick my heart.        1218
 
 <details><summary>मूलम् - १२१८</summary>
 
-तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्
-नॆञ्जत्तर् आवर् विरैन्दु। १२१८
+तुञ्जुङ्गाल् तोळ्मेलर् आगि विऴिक्कुङ्गाल्  
+नॆञ्जत्तर् आवर् विरैन्दु। १२१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२१९</summary>
 
-नऩविऩाल् नल्गारै नोवर् कऩविऩाल्
-कादलर्क् काणा तवर्। १२१९
+नऩविऩाल् नल्गारै नोवर् कऩविऩाल्  
+कादलर्क् काणा तवर्। १२१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२१९</summary>
@@ -469,10 +468,10 @@ Awake he enters quick my heart.        1218
 
 <details><summary>NVK Ashraf choice (en) - १२१९</summary>
 
-१२१९
-Only those starved of love dreams,
-Rue missing their beloved in wakefulness. *
-(J. Narayanaswamy)
+१२१९  
+Only those starved of love dreams,  
+Rue missing their beloved in wakefulness. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२१९</summary>
@@ -512,14 +511,14 @@ Rue their missing in wakeful hours.        1219
 
 <details><summary>मूलम् - १२१९</summary>
 
-नऩविऩाल् नल्गारै नोवर् कऩविऩाल्
-कादलर्क् काणा तवर्। १२१९
+नऩविऩाल् नल्गारै नोवर् कऩविऩाल्  
+कादलर्क् काणा तवर्। १२१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२२०</summary>
 
-नऩविऩाल् नम्नीत्तार् ऎऩ्पर् कऩविऩाल्
-काणार्गॊल् इव्वू रवर्। १२२०
+नऩविऩाल् नम्नीत्तार् ऎऩ्पर् कऩविऩाल्  
+काणार्गॊल् इव्वू रवर्। १२२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२२०</summary>
@@ -530,10 +529,10 @@ Rue their missing in wakeful hours.        1219
 
 <details><summary>NVK Ashraf choice (en) - १२२०</summary>
 
-१२२०
-He is a deserter, people say.
-But how can they see his visits in my dreams?
-(N.V.K. Ashraf), (P.S. Sundaram)
+१२२०  
+He is a deserter, people say.  
+But how can they see his visits in my dreams?  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२२०</summary>
@@ -567,7 +566,7 @@ In dreams failing to see him close.        1220
 
 <details><summary>मूलम् - १२२०</summary>
 
-नऩविऩाल् नम्नीत्तार् ऎऩ्पर् कऩविऩाल्
-काणार्गॊल् इव्वू रवर्। १२२०
+नऩविऩाल् नम्नीत्तार् ऎऩ्पर् कऩविऩाल्  
+काणार्गॊल् इव्वू रवर्। १२२०  
 </details>
 

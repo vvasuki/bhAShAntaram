@@ -3,11 +3,10 @@ title = "०९ ती नट्पु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८११</summary>
 
-परुगुवार् पोलिऩुम् पण्बिलार् केण्मै
-पॆरुगलिऱ् कुऩ्ऱल् इऩिदु। ८११
+परुगुवार् पोलिऩुम् पण्बिलार् केण्मै  
+पॆरुगलिऱ् कुऩ्ऱल् इऩिदु। ८११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८११</summary>
@@ -19,10 +18,10 @@ title = "०९ ती नट्पु"
 
 <details><summary>NVK Ashraf choice (en) - ८११</summary>
 
-०८११
-The hypocrite's flattering friendship pleases more
-As it wanes than as it grows. *
-(K.R. Srinivasa Iyengar)
+०८११  
+The hypocrite's flattering friendship pleases more  
+As it wanes than as it grows. *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८११</summary>
@@ -56,14 +55,14 @@ Had better wane than wax anon.        811
 
 <details><summary>मूलम् - ८११</summary>
 
-परुगुवार् पोलिऩुम् पण्बिलार् केण्मै
-पॆरुगलिऱ् कुऩ्ऱल् इऩिदु। ८११
+परुगुवार् पोलिऩुम् पण्बिलार् केण्मै  
+पॆरुगलिऱ् कुऩ्ऱल् इऩिदु। ८११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१२</summary>
 
-उऱिऩ्नट्टु अऱिऩ्ङरुउम् ऒप्पिलार् केण्मै
-पॆऱिऩुम् इऴप्पिऩुम् ऎऩ्? ८१२
+उऱिऩ्नट्टु अऱिऩ्ङरुउम् ऒप्पिलार् केण्मै  
+पॆऱिऩुम् इऴप्पिऩुम् ऎऩ्? ८१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१२</summary>
@@ -74,10 +73,10 @@ Had better wane than wax anon.        811
 
 <details><summary>NVK Ashraf choice (en) - ८१२</summary>
 
-०८१२
-What matters if one gain or lose that unsettling friendship
-Which sticks and ends at will?
-(N.V.K. Ashraf), (P.S. Sundaram)
+०८१२  
+What matters if one gain or lose that unsettling friendship  
+Which sticks and ends at will?  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८१२</summary>
@@ -116,14 +115,14 @@ Gain or lose; such friends have no worth.        812
 
 <details><summary>मूलम् - ८१२</summary>
 
-उऱिऩ्नट्टु अऱिऩ्ङरुउम् ऒप्पिलार् केण्मै
-पॆऱिऩुम् इऴप्पिऩुम् ऎऩ्? ८१२
+उऱिऩ्नट्टु अऱिऩ्ङरुउम् ऒप्पिलार् केण्मै  
+पॆऱिऩुम् इऴप्पिऩुम् ऎऩ्? ८१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१३</summary>
 
-उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु
-कॊळ्वारुम् कळ्वरुम् नेर्। ८१३
+उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु  
+कॊळ्वारुम् कळ्वरुम् नेर्। ८१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१३</summary>
@@ -134,10 +133,10 @@ Gain or lose; such friends have no worth.        812
 
 <details><summary>NVK Ashraf choice (en) - ८१३</summary>
 
-०८१३
-Those who weigh friendship for gain
-Are no different from whores and frauds.
-(N.V.K. Ashraf)
+०८१३  
+Those who weigh friendship for gain  
+Are no different from whores and frauds.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१३</summary>
@@ -171,14 +170,14 @@ Are like thieves and whores wicked.        813
 
 <details><summary>मूलम् - ८१३</summary>
 
-उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु
-कॊळ्वारुम् कळ्वरुम् नेर्। ८१३
+उऱुवदु सीर्दूक्कुम् नट्पुम् पॆऱुवदु  
+कॊळ्वारुम् कळ्वरुम् नेर्। ८१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१४</summary>
 
-अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अऩ्ऩार्
-तमरिऩ् तऩिमै तलै। ८१४
+अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अऩ्ऩार्  
+तमरिऩ् तऩिमै तलै। ८१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१४</summary>
@@ -189,10 +188,10 @@ Are like thieves and whores wicked.        813
 
 <details><summary>NVK Ashraf choice (en) - ८१४</summary>
 
-०८१४
-Better to be alone than befriend those,
-Who, like a broken horse, throw you down.
-(N.V.K. Ashraf)
+०८१४  
+Better to be alone than befriend those,  
+Who, like a broken horse, throw you down.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१४</summary>
@@ -226,14 +225,14 @@ That throw in field like faithless horse.        814
 
 <details><summary>मूलम् - ८१४</summary>
 
-अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अऩ्ऩार्
-तमरिऩ् तऩिमै तलै। ८१४
+अमरगत्तु आऱ्ऱऱुक्कुम् कल्लामा अऩ्ऩार्  
+तमरिऩ् तऩिमै तलै। ८१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१५</summary>
 
-सॆय्देमञ् जाराच् चिऱियवर् पुऩ्केण्मै
-ऎय्दलिऩ् ऎय्दामै नऩ्ऱु। ८१५
+सॆय्देमञ् जाराच् चिऱियवर् पुऩ्केण्मै  
+ऎय्दलिऩ् ऎय्दामै नऩ्ऱु। ८१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१५</summary>
@@ -244,10 +243,10 @@ That throw in field like faithless horse.        814
 
 <details><summary>NVK Ashraf choice (en) - ८१५</summary>
 
-०८१५
-Better to forfeit than seek the friendship of the base
-Who betray at need. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०८१५  
+Better to forfeit than seek the friendship of the base  
+Who betray at need. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१५</summary>
@@ -281,14 +280,14 @@ Leave them is better than to keep.        815
 
 <details><summary>मूलम् - ८१५</summary>
 
-सॆय्देमञ् जाराच् चिऱियवर् पुऩ्केण्मै
-ऎय्दलिऩ् ऎय्दामै नऩ्ऱु। ८१५
+सॆय्देमञ् जाराच् चिऱियवर् पुऩ्केण्मै  
+ऎय्दलिऩ् ऎय्दामै नऩ्ऱु। ८१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१६</summary>
 
-पेदै पॆरुङ्गॆऴीइ नट्पिऩ् अऱिवुडैयार्
-एदिऩ्मै कोडि उऱुम्। ८१६
+पेदै पॆरुङ्गॆऴीइ नट्पिऩ् अऱिवुडैयार्  
+एदिऩ्मै कोडि उऱुम्। ८१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१६</summary>
@@ -299,10 +298,10 @@ Leave them is better than to keep.        815
 
 <details><summary>NVK Ashraf choice (en) - ८१६</summary>
 
-०८१६
-A wise man's enmity is a million of times better
-Than a fool's fast friendship. *
-(P.S. Sundaram)
+०८१६  
+A wise man's enmity is a million of times better  
+Than a fool's fast friendship. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१६</summary>
@@ -336,14 +335,14 @@ Is better than a fool intimate.        816
 
 <details><summary>मूलम् - ८१६</summary>
 
-पेदै पॆरुङ्गॆऴीइ नट्पिऩ् अऱिवुडैयार्
-एदिऩ्मै कोडि उऱुम्। ८१६
+पेदै पॆरुङ्गॆऴीइ नट्पिऩ् अऱिवुडैयार्  
+एदिऩ्मै कोडि उऱुम्। ८१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१७</summary>
 
-नगैवगैय रागिय नट्पिऩ् पगैवराल्
-पत्तडुत्त कोडि उऱुम्। ८१७
+नगैवगैय रागिय नट्पिऩ् पगैवराल्  
+पत्तडुत्त कोडि उऱुम्। ८१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१७</summary>
@@ -354,10 +353,10 @@ Is better than a fool intimate.        816
 
 <details><summary>NVK Ashraf choice (en) - ८१७</summary>
 
-०८१७
-Ten million times better the enmity of foes
-Than the friendship of jesters and fools. *
-(P.S. Sundaram)
+०८१७  
+Ten million times better the enmity of foes  
+Than the friendship of jesters and fools. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१७</summary>
@@ -391,14 +390,14 @@ Than from friends who are vain laughers.        817
 
 <details><summary>मूलम् - ८१७</summary>
 
-नगैवगैय रागिय नट्पिऩ् पगैवराल्
-पत्तडुत्त कोडि उऱुम्। ८१७
+नगैवगैय रागिय नट्पिऩ् पगैवराल्  
+पत्तडुत्त कोडि उऱुम्। ८१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१८</summary>
 
-ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै
-सॊल्लाडार् सोर विडल्। ८१८
+ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै  
+सॊल्लाडार् सोर विडल्। ८१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१८</summary>
@@ -409,10 +408,10 @@ Than from friends who are vain laughers.        817
 
 <details><summary>NVK Ashraf choice (en) - ८१८</summary>
 
-०८१८
-Drop silently the friends who pose
-And won't help when they can.
-(P.S. Sundaram)
+०८१८  
+Drop silently the friends who pose  
+And won't help when they can.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१८</summary>
@@ -446,14 +445,14 @@ Who spoil deeds which they can do.        818
 
 <details><summary>मूलम् - ८१८</summary>
 
-ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै
-सॊल्लाडार् सोर विडल्। ८१८
+ऒल्लुम् करुमम् उडऱ्ऱु पवर्गेण्मै  
+सॊल्लाडार् सोर विडल्। ८१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८१९</summary>
 
-कऩविऩुम् इऩ्ऩादु मऩ्ऩो विऩैवेऱु
-सॊल्वेऱु पट्टार् तॊडर्बु। ८१९
+कऩविऩुम् इऩ्ऩादु मऩ्ऩो विऩैवेऱु  
+सॊल्वेऱु पट्टार् तॊडर्बु। ८१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८१९</summary>
@@ -464,10 +463,10 @@ Who spoil deeds which they can do.        818
 
 <details><summary>NVK Ashraf choice (en) - ८१९</summary>
 
-०८१९
-Friends whose words differ from their deeds
-Distress even in dreams.
-(P.S. Sundaram)
+०८१९  
+Friends whose words differ from their deeds  
+Distress even in dreams.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८१९</summary>
@@ -501,14 +500,14 @@ With those whose deed is far from word.        819
 
 <details><summary>मूलम् - ८१९</summary>
 
-कऩविऩुम् इऩ्ऩादु मऩ्ऩो विऩैवेऱु
-सॊल्वेऱु पट्टार् तॊडर्बु। ८१९
+कऩविऩुम् इऩ्ऩादु मऩ्ऩो विऩैवेऱु  
+सॊल्वेऱु पट्टार् तॊडर्बु। ८१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८२०</summary>
 
-ऎऩैत्तुम् कुऱुगुदल् ओम्बल् मऩैक्कॆऴीइ
-मऩ्ऱिल् पऴिप्पार् तॊडर्बु। ८२०
+ऎऩैत्तुम् कुऱुगुदल् ओम्बल् मऩैक्कॆऴीइ  
+मऩ्ऱिल् पऴिप्पार् तॊडर्बु। ८२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८२०</summary>
@@ -519,10 +518,10 @@ With those whose deed is far from word.        819
 
 <details><summary>NVK Ashraf choice (en) - ८२०</summary>
 
-०८२०
-Keep them far off who are friends at home
-And foes in public.
-(P.S. Sundaram)
+०८२०  
+Keep them far off who are friends at home  
+And foes in public.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८२०</summary>
@@ -555,7 +554,7 @@ At home and in public revile.        820
 
 <details><summary>मूलम् - ८२०</summary>
 
-ऎऩैत्तुम् कुऱुगुदल् ओम्बल् मऩैक्कॆऴीइ
-मऩ्ऱिल् पऴिप्पार् तॊडर्बु। ८२०
+ऎऩैत्तुम् कुऱुगुदल् ओम्बल् मऩैक्कॆऴीइ  
+मऩ्ऱिल् पऴिप्पार् तॊडर्बु। ८२०  
 </details>
 

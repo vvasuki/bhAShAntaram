@@ -3,11 +3,10 @@ title = "०२ मानम्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९६१</summary>
 
-इऩ्ऱि अमैयाच् चिऱप्पिऩ आयिऩुम्
-कुऩ्ऱ वरुब विडल्। ९६१
+इऩ्ऱि अमैयाच् चिऱप्पिऩ आयिऩुम्  
+कुऩ्ऱ वरुब विडल्। ९६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६१</summary>
@@ -19,10 +18,10 @@ title = "०२ मानम्"
 
 <details><summary>NVK Ashraf choice (en) - ९६१</summary>
 
-०९६१
-Reject base actions even if such rejection
-Makes life impossible.
-(P.S. Sundaram)
+०९६१  
+Reject base actions even if such rejection  
+Makes life impossible.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६१</summary>
@@ -58,14 +57,14 @@ From mean degrading acts refrain.        961
 
 <details><summary>मूलम् - ९६१</summary>
 
-इऩ्ऱि अमैयाच् चिऱप्पिऩ आयिऩुम्
-कुऩ्ऱ वरुब विडल्। ९६१
+इऩ्ऱि अमैयाच् चिऱप्पिऩ आयिऩुम्  
+कुऩ्ऱ वरुब विडल्। ९६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६२</summary>
 
-सीरिऩुम् सीरल्ल सॆय्यारे सीरॊडु
-पेराण्मै वेण्डु पवर्। ९६२
+सीरिऩुम् सीरल्ल सॆय्यारे सीरॊडु  
+पेराण्मै वेण्डु पवर्। ९६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६२</summary>
@@ -76,10 +75,10 @@ From mean degrading acts refrain.        961
 
 <details><summary>NVK Ashraf choice (en) - ९६२</summary>
 
-०९६२
-Those who desire fame with honour
-Will not sacrifice honour for fame.
-(P.S. Sundaram)
+०९६२  
+Those who desire fame with honour  
+Will not sacrifice honour for fame.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९६२</summary>
@@ -119,14 +118,14 @@ Don't do mean deeds even for name.        962
 
 <details><summary>मूलम् - ९६२</summary>
 
-सीरिऩुम् सीरल्ल सॆय्यारे सीरॊडु
-पेराण्मै वेण्डु पवर्। ९६२
+सीरिऩुम् सीरल्ल सॆय्यारे सीरॊडु  
+पेराण्मै वेण्डु पवर्। ९६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६३</summary>
 
-पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय
-सुरुक्कत्तु वेण्डुम् उयर्वु। ९६३
+पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
+सुरुक्कत्तु वेण्डुम् उयर्वु। ९६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६३</summary>
@@ -137,10 +136,10 @@ Don't do mean deeds even for name.        962
 
 <details><summary>NVK Ashraf choice (en) - ९६३</summary>
 
-०९६३
-In prosperity, bend low.
-In adversity, stand straight.
-(P.S. Sundaram)
+०९६३  
+In prosperity, bend low.  
+In adversity, stand straight.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६३</summary>
@@ -174,14 +173,14 @@ In decline uphold dignity.        963
 
 <details><summary>मूलम् - ९६३</summary>
 
-पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय
-सुरुक्कत्तु वेण्डुम् उयर्वु। ९६३
+पॆरुक्कत्तु वेण्डुम् पणिदल् सिऱिय  
+सुरुक्कत्तु वेण्डुम् उयर्वु। ९६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६४</summary>
 
-तलैयिऩ् इऴिन्द मयिरऩैयर् मान्दर्
-निलैयिऩ् इऴिन्दक् कडै। ९६४
+तलैयिऩ् इऴिन्द मयिरऩैयर् मान्दर्  
+निलैयिऩ् इऴिन्दक् कडै। ९६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६४</summary>
@@ -192,10 +191,10 @@ In decline uphold dignity.        963
 
 <details><summary>NVK Ashraf choice (en) - ९६४</summary>
 
-०९६४
-Men fallen from high stature
-Are like hair fallen from the head. *
-(P.S. Sundaram)
+०९६४  
+Men fallen from high stature  
+Are like hair fallen from the head. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६४</summary>
@@ -230,14 +229,14 @@ Who fall down from their high status.        964
 
 <details><summary>मूलम् - ९६४</summary>
 
-तलैयिऩ् इऴिन्द मयिरऩैयर् मान्दर्
-निलैयिऩ् इऴिन्दक् कडै। ९६४
+तलैयिऩ् इऴिन्द मयिरऩैयर् मान्दर्  
+निलैयिऩ् इऴिन्दक् कडै। ९६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६५</summary>
 
-कुऩ्ऱिऩ् अऩैयारुम् कुऩ्ऱुवर् कुऩ्ऱुव
-कुऩ्ऱि अऩैय सॆयिऩ्। ९६५
+कुऩ्ऱिऩ् अऩैयारुम् कुऩ्ऱुवर् कुऩ्ऱुव  
+कुऩ्ऱि अऩैय सॆयिऩ्। ९६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६५</summary>
@@ -248,10 +247,10 @@ Who fall down from their high status.        964
 
 <details><summary>NVK Ashraf choice (en) - ९६५</summary>
 
-०९६५
-Even a hill-like eminence can be brought low
-By deeds as small as a speck. *
-(P.S. Sundaram)
+०९६५  
+Even a hill-like eminence can be brought low  
+By deeds as small as a speck. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९६५</summary>
@@ -290,14 +289,14 @@ With abrus-grain-like small default.        965
 
 <details><summary>मूलम् - ९६५</summary>
 
-कुऩ्ऱिऩ् अऩैयारुम् कुऩ्ऱुवर् कुऩ्ऱुव
-कुऩ्ऱि अऩैय सॆयिऩ्। ९६५
+कुऩ्ऱिऩ् अऩैयारुम् कुऩ्ऱुवर् कुऩ्ऱुव  
+कुऩ्ऱि अऩैय सॆयिऩ्। ९६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६६</summary>
 
-पुगऴ्इऩ्ऱाल् पुत्तेळ्नाट्टु उय्यादाल् ऎऩ्मऱ्ऱु
-इगऴ्वार्बिऩ् सॆऩ्ऱु निलै। ९६६
+पुगऴ्इऩ्ऱाल् पुत्तेळ्नाट्टु उय्यादाल् ऎऩ्मऱ्ऱु  
+इगऴ्वार्बिऩ् सॆऩ्ऱु निलै। ९६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६६</summary>
@@ -308,10 +307,10 @@ With abrus-grain-like small default.        965
 
 <details><summary>NVK Ashraf choice (en) - ९६६</summary>
 
-०९६६
-Why go behind those who scorn when it yields
-Neither fame nor place in heaven? *
-(Kasthuri Sreenivasan)
+०९६६  
+Why go behind those who scorn when it yields  
+Neither fame nor place in heaven? *  
+(Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६६</summary>
@@ -346,14 +345,14 @@ It yields no fame, heaven's bliss neither.        966
 
 <details><summary>मूलम् - ९६६</summary>
 
-पुगऴ्इऩ्ऱाल् पुत्तेळ्नाट्टु उय्यादाल् ऎऩ्मऱ्ऱु
-इगऴ्वार्बिऩ् सॆऩ्ऱु निलै। ९६६
+पुगऴ्इऩ्ऱाल् पुत्तेळ्नाट्टु उय्यादाल् ऎऩ्मऱ्ऱु  
+इगऴ्वार्बिऩ् सॆऩ्ऱु निलै। ९६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६७</summary>
 
-ऒट् टार्बिऩ् सॆऩ्ऱॊरुवऩ् वाऴ्दलिऩ् अन्निलैये
-कॆट्टाऩ् ऎऩप्पडुदल् नऩ्ऱु। ९६७
+ऒट् टार्बिऩ् सॆऩ्ऱॊरुवऩ् वाऴ्दलिऩ् अन्निलैये  
+कॆट्टाऩ् ऎऩप्पडुदल् नऩ्ऱु। ९६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६७</summary>
@@ -364,10 +363,10 @@ It yields no fame, heaven's bliss neither.        966
 
 <details><summary>NVK Ashraf choice (en) - ९६७</summary>
 
-०९६७
-Better said doomed that state of life
-Spent clinging on to those who scorn.
-(N.V.K. Ashraf)
+०९६७  
+Better said doomed that state of life  
+Spent clinging on to those who scorn.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९६७</summary>
@@ -402,14 +401,14 @@ Than live as slaves of those who scorn.        967
 
 <details><summary>मूलम् - ९६७</summary>
 
-ऒट् टार्बिऩ् सॆऩ्ऱॊरुवऩ् वाऴ्दलिऩ् अन्निलैये
-कॆट्टाऩ् ऎऩप्पडुदल् नऩ्ऱु। ९६७
+ऒट् टार्बिऩ् सॆऩ्ऱॊरुवऩ् वाऴ्दलिऩ् अन्निलैये  
+कॆट्टाऩ् ऎऩप्पडुदल् नऩ्ऱु। ९६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६८</summary>
 
-मरुन्दोमऱ्ऱु ऊऩ्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै
-पीडऴिय वन्द इडत्तु। ९६८
+मरुन्दोमऱ्ऱु ऊऩ्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
+पीडऴिय वन्द इडत्तु। ९६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६८</summary>
@@ -420,10 +419,10 @@ Than live as slaves of those who scorn.        967
 
 <details><summary>NVK Ashraf choice (en) - ९६८</summary>
 
-०९६८
-Is body as precious as ambrosia that men desire to save it
-Even at the cost of honour?
-(M.S. Poornalingam Pillai), (V.V.S. Aiyar)
+०९६८  
+Is body as precious as ambrosia that men desire to save it  
+Even at the cost of honour?  
+(M.S. Poornalingam Pillai), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९६८</summary>
@@ -463,14 +462,14 @@ Even when one's honour is lost?        968
 
 <details><summary>मूलम् - ९६८</summary>
 
-मरुन्दोमऱ्ऱु ऊऩ्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै
-पीडऴिय वन्द इडत्तु। ९६८
+मरुन्दोमऱ्ऱु ऊऩ्ओम्बुम् वाऴ्क्कै पॆरुन्दगैमै  
+पीडऴिय वन्द इडत्तु। ९६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९६९</summary>
 
-मयिर्नीप्पिऩ् वाऴाक् कवरिमा अऩ्ऩार्
-उयिर्नीप्पर् माऩम् वरिऩ्। ९६९
+मयिर्नीप्पिऩ् वाऴाक् कवरिमा अऩ्ऩार्  
+उयिर्नीप्पर् माऩम् वरिऩ्। ९६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९६९</summary>
@@ -481,10 +480,10 @@ Even when one's honour is lost?        968
 
 <details><summary>NVK Ashraf choice (en) - ९६९</summary>
 
-०९६९
-The yak, sheared of its hair, does not survive.
-The noble, stripped of their honour, prefer death.
-(N.V.K. Ashraf)
+०९६९  
+The yak, sheared of its hair, does not survive.  
+The noble, stripped of their honour, prefer death.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९६९</summary>
@@ -524,14 +523,14 @@ Like a yak that loses its hair.        969
 
 <details><summary>मूलम् - ९६९</summary>
 
-मयिर्नीप्पिऩ् वाऴाक् कवरिमा अऩ्ऩार्
-उयिर्नीप्पर् माऩम् वरिऩ्। ९६९
+मयिर्नीप्पिऩ् वाऴाक् कवरिमा अऩ्ऩार्  
+उयिर्नीप्पर् माऩम् वरिऩ्। ९६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९७०</summary>
 
-इळिवरिऩ् वाऴाद माऩम् उडैयार्
-ऒळिदॊऴुदु एत्तुम् उलगु। ९७०
+इळिवरिऩ् वाऴाद माऩम् उडैयार्  
+ऒळिदॊऴुदु एत्तुम् उलगु। ९७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९७०</summary>
@@ -542,10 +541,10 @@ Like a yak that loses its hair.        969
 
 <details><summary>NVK Ashraf choice (en) - ९७०</summary>
 
-०९७०
-The world will admire and worship the glory of men
-Who prefer death to dishonour. *
-(C. Rajagopalachari)
+०९७०  
+The world will admire and worship the glory of men  
+Who prefer death to dishonour. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९७०</summary>
@@ -579,7 +578,7 @@ Who will not live when honour fails.        970
 
 <details><summary>मूलम् - ९७०</summary>
 
-इळिवरिऩ् वाऴाद माऩम् उडैयार्
-ऒळिदॊऴुदु एत्तुम् उलगु। ९७०
+इळिवरिऩ् वाऴाद माऩम् उडैयार्  
+ऒळिदॊऴुदु एत्तुम् उलगु। ९७०  
 </details>
 

@@ -3,11 +3,10 @@ title = "१९ वरैविन्मगळिर्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९११</summary>
 
-अऩ्पिऩ् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्
-इऩ्सॊल् इऴुक्कुत् तरुम्। ९११
+अऩ्पिऩ् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्  
+इऩ्सॊल् इऴुक्कुत् तरुम्। ९११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९११</summary>
@@ -19,10 +18,10 @@ title = "१९ वरैविन्मगळिर्"
 
 <details><summary>NVK Ashraf choice (en) - ९११</summary>
 
-०९११
-Fraught with disgrace are the sweet words
-Of jeweled women who desire wealth, not love. *
-(P.S. Sundaram)
+०९११  
+Fraught with disgrace are the sweet words  
+Of jeweled women who desire wealth, not love. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९११</summary>
@@ -57,14 +56,14 @@ Men are ruined by bangled belles.        911
 
 <details><summary>मूलम् - ९११</summary>
 
-अऩ्पिऩ् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्
-इऩ्सॊल् इऴुक्कुत् तरुम्। ९११
+अऩ्पिऩ् विऴैयार् पॊरुळ्विऴैयुम् आय्दॊडियार्  
+इऩ्सॊल् इऴुक्कुत् तरुम्। ९११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१२</summary>
 
-पयऩ्तूक्किप् पण्बुरैक्कुम् पण्बिऩ् मगळिर्
-नयऩ्तूक्कि नळ्ळा विडल्। ९१२
+पयऩ्तूक्किप् पण्बुरैक्कुम् पण्बिऩ् मगळिर्  
+नयऩ्तूक्कि नळ्ळा विडल्। ९१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१२</summary>
@@ -75,10 +74,10 @@ Men are ruined by bangled belles.        911
 
 <details><summary>NVK Ashraf choice (en) - ९१२</summary>
 
-०९१२
-See through and avoid the immoral women
-Who talk of morals with a purpose.
-(P.S. Sundaram)
+०९१२  
+See through and avoid the immoral women  
+Who talk of morals with a purpose.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१२</summary>
@@ -113,14 +112,14 @@ Love only for their selfish gain.        912
 
 <details><summary>मूलम् - ९१२</summary>
 
-पयऩ्तूक्किप् पण्बुरैक्कुम् पण्बिऩ् मगळिर्
-नयऩ्तूक्कि नळ्ळा विडल्। ९१२
+पयऩ्तूक्किप् पण्बुरैक्कुम् पण्बिऩ् मगळिर्  
+नयऩ्तूक्कि नळ्ळा विडल्। ९१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१३</summary>
 
-पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्
-एदिल् पिणन्दऴीइ अऱ्ऱु। ९१३
+पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
+एदिल् पिणन्दऴीइ अऱ्ऱु। ९१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१३</summary>
@@ -131,10 +130,10 @@ Love only for their selfish gain.        912
 
 <details><summary>NVK Ashraf choice (en) - ९१३</summary>
 
-०९१३
-A harlot’s false embrace for money is like one hired
-To clasp an alien corpse in a dark room. *
-(P.S. Sundaram), (G. Vanmikanathan)
+०९१३  
+A harlot’s false embrace for money is like one hired  
+To clasp an alien corpse in a dark room. *  
+(P.S. Sundaram), (G. Vanmikanathan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९१३</summary>
@@ -173,14 +172,14 @@ That of a damned corpse in the dark.        913
 
 <details><summary>मूलम् - ९१३</summary>
 
-पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्
-एदिल् पिणन्दऴीइ अऱ्ऱु। ९१३
+पॊरुट्पॆण्डिर् पॊय्म्मै मुयक्कम् इरुट्टऱैयिल्  
+एदिल् पिणन्दऴीइ अऱ्ऱु। ९१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१४</summary>
 
-पॊरुट्पॊरुळार् पुऩ्ऩलन् दोयार् अरुट्पॊरुळ्
-आयुम् अऱिवि ऩवर्। ९१४
+पॊरुट्पॊरुळार् पुऩ्ऩलन् दोयार् अरुट्पॊरुळ्  
+आयुम् अऱिवि ऩवर्। ९१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१४</summary>
@@ -191,10 +190,10 @@ That of a damned corpse in the dark.        913
 
 <details><summary>NVK Ashraf choice (en) - ९१४</summary>
 
-०९१४
-The wise who treasure grace desire not the false charms
-Of those who treasure wealth. *
-(W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)
+०९१४  
+The wise who treasure grace desire not the false charms  
+Of those who treasure wealth. *  
+(W.H. Drew and J. Lazarus), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१४</summary>
@@ -229,14 +228,14 @@ Look not for harlots' low embrace.        914
 
 <details><summary>मूलम् - ९१४</summary>
 
-पॊरुट्पॊरुळार् पुऩ्ऩलन् दोयार् अरुट्पॊरुळ्
-आयुम् अऱिवि ऩवर्। ९१४
+पॊरुट्पॊरुळार् पुऩ्ऩलन् दोयार् अरुट्पॊरुळ्  
+आयुम् अऱिवि ऩवर्। ९१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१५</summary>
 
-पॊदुनलत्तार् पुऩ्ऩलम् तोयार् मदिनलत्तिऩ्
-माण्ड अऱिवि ऩवर्। ९१५
+पॊदुनलत्तार् पुऩ्ऩलम् तोयार् मदिनलत्तिऩ्  
+माण्ड अऱिवि ऩवर्। ९१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१५</summary>
@@ -247,10 +246,10 @@ Look not for harlots' low embrace.        914
 
 <details><summary>NVK Ashraf choice (en) - ९१५</summary>
 
-०९१५
-Sensible men of lofty wisdom will find no joy
-In the cheap delight of public women. *
-(P.S. Sundaram), (G.U. Pope)
+०९१५  
+Sensible men of lofty wisdom will find no joy  
+In the cheap delight of public women. *  
+(P.S. Sundaram), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१५</summary>
@@ -285,14 +284,14 @@ The open charms of a vile harlot.        915
 
 <details><summary>मूलम् - ९१५</summary>
 
-पॊदुनलत्तार् पुऩ्ऩलम् तोयार् मदिनलत्तिऩ्
-माण्ड अऱिवि ऩवर्। ९१५
+पॊदुनलत्तार् पुऩ्ऩलम् तोयार् मदिनलत्तिऩ्  
+माण्ड अऱिवि ऩवर्। ९१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१६</summary>
 
-तन्नलम् पारिप्पार् तोयार् तगैसॆरुक्किप्
-पुऩ्ऩलम् पारिप्पार् तोळ्। ९१६
+तन्नलम् पारिप्पार् तोयार् तगैसॆरुक्किप्  
+पुऩ्ऩलम् पारिप्पार् तोळ्। ९१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१६</summary>
@@ -303,10 +302,10 @@ The open charms of a vile harlot.        915
 
 <details><summary>NVK Ashraf choice (en) - ९१६</summary>
 
-०९१६
-Those who would spread their own good will not touch
-Others who spread their charms for money. *
-(P.S. Sundaram)
+०९१६  
+Those who would spread their own good will not touch  
+Others who spread their charms for money. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१६</summary>
@@ -341,14 +340,14 @@ Shun the wanton's vaunting charm.        916
 
 <details><summary>मूलम् - ९१६</summary>
 
-तन्नलम् पारिप्पार् तोयार् तगैसॆरुक्किप्
-पुऩ्ऩलम् पारिप्पार् तोळ्। ९१६
+तन्नलम् पारिप्पार् तोयार् तगैसॆरुक्किप्  
+पुऩ्ऩलम् पारिप्पार् तोळ्। ९१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१७</summary>
 
-निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्
-पेणिप् पुणर्बवर् तोळ्। ९१७
+निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्  
+पेणिप् पुणर्बवर् तोळ्। ९१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१७</summary>
@@ -359,10 +358,10 @@ Shun the wanton's vaunting charm.        916
 
 <details><summary>NVK Ashraf choice (en) - ९१७</summary>
 
-०९१७
-The empty-hearted alone will embrace
-The hearts that go not with their bodies.
-(P.S. Sundaram)
+०९१७  
+The empty-hearted alone will embrace  
+The hearts that go not with their bodies.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१७</summary>
@@ -397,14 +396,14 @@ The arms of whores with hearts elsewere.        917
 
 <details><summary>मूलम् - ९१७</summary>
 
-निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्
-पेणिप् पुणर्बवर् तोळ्। ९१७
+निऱैनॆञ्जम् इल्लवर् तोय्वार् पिऱनॆञ्जिऱ्  
+पेणिप् पुणर्बवर् तोळ्। ९१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१८</summary>
 
-आयुम् अऱिविऩर् अल्लार्क्कु अणङ्गॆऩ्प
-माय मगळिर् मुयक्कु। ९१८
+आयुम् अऱिविऩर् अल्लार्क्कु अणङ्गॆऩ्प  
+माय मगळिर् मुयक्कु। ९१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१८</summary>
@@ -415,10 +414,10 @@ The arms of whores with hearts elsewere.        917
 
 <details><summary>NVK Ashraf choice (en) - ९१८</summary>
 
-०९१८
-Only those who can’t see through a false woman’s embrace
-Consider her to be an angel. *
-(N.V.K. Ashraf), (P.S. Sundaram)
+०९१८  
+Only those who can’t see through a false woman’s embrace  
+Consider her to be an angel. *  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१८</summary>
@@ -453,14 +452,14 @@ By arms of sirens who lead astray.        918
 
 <details><summary>मूलम् - ९१८</summary>
 
-आयुम् अऱिविऩर् अल्लार्क्कु अणङ्गॆऩ्प
-माय मगळिर् मुयक्कु। ९१८
+आयुम् अऱिविऩर् अल्लार्क्कु अणङ्गॆऩ्प  
+माय मगळिर् मुयक्कु। ९१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९१९</summary>
 
-वरैविला माणिऴैयार् मॆऩ्तोळ् पुरैयिलाप्
-पूरियर्गळ् आऴुम् अळऱु। ९१९
+वरैविला माणिऴैयार् मॆऩ्तोळ् पुरैयिलाप्  
+पूरियर्गळ् आऴुम् अळऱु। ९१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९१९</summary>
@@ -471,10 +470,10 @@ By arms of sirens who lead astray.        918
 
 <details><summary>NVK Ashraf choice (en) - ९१९</summary>
 
-०९१९
-The soft arms of those who sell their charm
-Are a hell that plunge the base. *
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०९१९  
+The soft arms of those who sell their charm  
+Are a hell that plunge the base. *  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९१९</summary>
@@ -509,14 +508,14 @@ Into which the degraded fall.        919
 
 <details><summary>मूलम् - ९१९</summary>
 
-वरैविला माणिऴैयार् मॆऩ्तोळ् पुरैयिलाप्
-पूरियर्गळ् आऴुम् अळऱु। ९१९
+वरैविला माणिऴैयार् मॆऩ्तोळ् पुरैयिलाप्  
+पूरियर्गळ् आऴुम् अळऱु। ९१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९२०</summary>
 
-इरुमऩप् पॆण्डिरुम् कळ्ळुम् कवऱुम्
-तिरुनीक्कप् पट्टार् तॊडर्बु। ९२०
+इरुमऩप् पॆण्डिरुम् कळ्ळुम् कवऱुम्  
+तिरुनीक्कप् पट्टार् तॊडर्बु। ९२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९२०</summary>
@@ -527,10 +526,10 @@ Into which the degraded fall.        919
 
 <details><summary>NVK Ashraf choice (en) - ९२०</summary>
 
-०९२०
-Fortune leaves those whose associates are
-Treacherous women, wine and dice. *
-(P.S. Sundaram)
+०९२०  
+Fortune leaves those whose associates are  
+Treacherous women, wine and dice. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९२०</summary>
@@ -563,7 +562,7 @@ Are lures of those whom fortune flies.        920
 
 <details><summary>मूलम् - ९२०</summary>
 
-इरुमऩप् पॆण्डिरुम् कळ्ळुम् कवऱुम्
-तिरुनीक्कप् पट्टार् तॊडर्बु। ९२०
+इरुमऩप् पॆण्डिरुम् कळ्ळुम् कवऱुम्  
+तिरुनीक्कप् पट्टार् तॊडर्बु। ९२०  
 </details>
 

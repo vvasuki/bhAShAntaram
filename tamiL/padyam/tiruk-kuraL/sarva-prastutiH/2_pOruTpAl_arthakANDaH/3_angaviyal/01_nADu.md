@@ -3,11 +3,10 @@ title = "०१ नाडु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७३१</summary>
 
-तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्
-चॆल्वरुम् सेर्वदु नाडु। ७३१
+तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
+चॆल्वरुम् सेर्वदु नाडु। ७३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३१</summary>
@@ -19,10 +18,10 @@ title = "०१ नाडु"
 
 <details><summary>NVK Ashraf choice (en) - ७३१</summary>
 
-०७३१
-Unfailing harvests, learned men and honest traders
-Constitute a country. *
-(P.S. Sundaram)
+०७३१  
+Unfailing harvests, learned men and honest traders  
+Constitute a country. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३१</summary>
@@ -59,14 +58,14 @@ Unfailing yields and ample wealth.        731
 
 <details><summary>मूलम् - ७३१</summary>
 
-तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्
-चॆल्वरुम् सेर्वदु नाडु। ७३१
+तळ्ळा विळैयुळुम् तक्कारुम् ताऴ्विलाच्  
+चॆल्वरुम् सेर्वदु नाडु। ७३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३२</summary>
 
-पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्
-आऱ्ऱ विळैवदु नाडु। ७३२
+पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्  
+आऱ्ऱ विळैवदु नाडु। ७३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३२</summary>
@@ -77,10 +76,10 @@ Unfailing yields and ample wealth.        731
 
 <details><summary>NVK Ashraf choice (en) - ७३२</summary>
 
-०७३२
-A land is known for its great wealth
-Of abundant produce that never declines.
-(N.V.K. Ashraf)
+०७३२  
+A land is known for its great wealth  
+Of abundant produce that never declines.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३२</summary>
@@ -114,14 +113,14 @@ Where pests are nil and yields are sure.        732
 
 <details><summary>मूलम् - ७३२</summary>
 
-पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्
-आऱ्ऱ विळैवदु नाडु। ७३२
+पॆरुम्बॊरुळाल् पॆट्टक्क तागि अरुङ्गेट्टाल्  
+आऱ्ऱ विळैवदु नाडु। ७३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३३</summary>
 
-पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु
-इऱैयॊरुङ्गु नेर्वदु नाडु। ७३३
+पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु  
+इऱैयॊरुङ्गु नेर्वदु नाडु। ७३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३३</summary>
@@ -132,10 +131,10 @@ Where pests are nil and yields are sure.        732
 
 <details><summary>NVK Ashraf choice (en) - ७३३</summary>
 
-०७३३
-An ideal land bears all burdens that befall
-And yet pays all taxes to the king. *
-(P.S. Sundaram)
+०७३३  
+An ideal land bears all burdens that befall  
+And yet pays all taxes to the king. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३३</summary>
@@ -170,14 +169,14 @@ And pays its tax which king demands.        733
 
 <details><summary>मूलम् - ७३३</summary>
 
-पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु
-इऱैयॊरुङ्गु नेर्वदु नाडु। ७३३
+पॊऱैयॊरुङ्गु मेल्वरुङ्गाल् ताङ्गि इऱैवऱ्कु  
+इऱैयॊरुङ्गु नेर्वदु नाडु। ७३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३४</summary>
 
-उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्
-सेरा तियल्वदु नाडु। ७३४
+उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्  
+सेरा तियल्वदु नाडु। ७३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३४</summary>
@@ -188,10 +187,10 @@ And pays its tax which king demands.        733
 
 <details><summary>NVK Ashraf choice (en) - ७३४</summary>
 
-०७३४
-That is a land which is free of much hunger,
-Incessant plagues and ravaging enemies.
-(N.V.K. Ashraf)
+०७३४  
+That is a land which is free of much hunger,  
+Incessant plagues and ravaging enemies.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३४</summary>
@@ -226,14 +225,14 @@ Fierce famine, plague and foemen's harm.        734
 
 <details><summary>मूलम् - ७३४</summary>
 
-उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्
-सेरा तियल्वदु नाडु। ७३४
+उऱुबसियुम् ओवाप् पिणियुम् सॆऱुबगैयुम्  
+सेरा तियल्वदु नाडु। ७३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३५</summary>
 
-पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्
-कॊल्गुऱुम्बुम् इल्लदु नाडु। ७३५
+पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्  
+कॊल्गुऱुम्बुम् इल्लदु नाडु। ७३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३५</summary>
@@ -244,10 +243,10 @@ Fierce famine, plague and foemen's harm.        734
 
 <details><summary>NVK Ashraf choice (en) - ७३५</summary>
 
-०७३५
-That is a land free from factions,
-Ruinous traitors and terrorists harassing kings.
-(M.S. Poornalingam Pillai), (J. Narayanaswamy)
+०७३५  
+That is a land free from factions,  
+Ruinous traitors and terrorists harassing kings.  
+(M.S. Poornalingam Pillai), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३५</summary>
@@ -282,14 +281,14 @@ No traitors in a land tranquil.        735
 
 <details><summary>मूलम् - ७३५</summary>
 
-पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्
-कॊल्गुऱुम्बुम् इल्लदु नाडु। ७३५
+पल्गुऴुवुम् पाऴ्सॆय्युम् उट्पगैयुम् वेन्दलैक्कुम्  
+कॊल्गुऱुम्बुम् इल्लदु नाडु। ७३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३६</summary>
 
-केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुऩ्ऱा
-नाडॆऩ्प नाट्टिऩ् तलै। ७३६
+केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुऩ्ऱा  
+नाडॆऩ्प नाट्टिऩ् तलै। ७३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३६</summary>
@@ -300,10 +299,10 @@ No traitors in a land tranquil.        735
 
 <details><summary>NVK Ashraf choice (en) - ७३६</summary>
 
-०७३६
-Call that a leading land that knows no evil days,
-And whose yields don't cease even if they come. *
-(P.S. Sundaram)
+०७३६  
+Call that a leading land that knows no evil days,  
+And whose yields don't cease even if they come. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३६</summary>
@@ -338,14 +337,14 @@ Even in grief its wealth yet grows.        736
 
 <details><summary>मूलम् - ७३६</summary>
 
-केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुऩ्ऱा
-नाडॆऩ्प नाट्टिऩ् तलै। ७३६
+केडऱियाक् कॆट्ट इडत्तुम् वळङ्गुऩ्ऱा  
+नाडॆऩ्प नाट्टिऩ् तलै। ७३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३७</summary>
 
-इरुबुऩलुम् वाय्न्द मलैयुम् वरुबुऩलुम्
-वल्लरणुम् नाट्टिऱ्कु उऱुप्पु। ७३७
+इरुबुऩलुम् वाय्न्द मलैयुम् वरुबुऩलुम्  
+वल्लरणुम् नाट्टिऱ्कु उऱुप्पु। ७३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३७</summary>
@@ -356,10 +355,10 @@ Even in grief its wealth yet grows.        736
 
 <details><summary>NVK Ashraf choice (en) - ७३७</summary>
 
-०७३७
-A land's limbs are waters from rains,
-Springs and well placed hills, and strong fortress. *
-(P.S. Sundaram)
+०७३७  
+A land's limbs are waters from rains,  
+Springs and well placed hills, and strong fortress. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७३७</summary>
@@ -399,14 +398,14 @@ With strong forts as limbs country beams.        737
 
 <details><summary>मूलम् - ७३७</summary>
 
-इरुबुऩलुम् वाय्न्द मलैयुम् वरुबुऩलुम्
-वल्लरणुम् नाट्टिऱ्कु उऱुप्पु। ७३७
+इरुबुऩलुम् वाय्न्द मलैयुम् वरुबुऩलुम्  
+वल्लरणुम् नाट्टिऱ्कु उऱुप्पु। ७३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३८</summary>
 
-पिणियिऩ्मै सॆल्वम् विळैविऩ्पम् एमम्
-अणियॆऩ्प नाट्टिव् वैन्दु। ७३८
+पिणियिऩ्मै सॆल्वम् विळैविऩ्पम् एमम्  
+अणियॆऩ्प नाट्टिव् वैन्दु। ७३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३८</summary>
@@ -417,10 +416,10 @@ With strong forts as limbs country beams.        737
 
 <details><summary>NVK Ashraf choice (en) - ७३८</summary>
 
-०७३८
-A country's jewels are these five: Unfailing health,
-Fertility, joy, security and wealth. *
-(G.U. Pope)
+०७३८  
+A country's jewels are these five: Unfailing health,  
+Fertility, joy, security and wealth. *  
+(G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३८</summary>
@@ -454,14 +453,14 @@ Are jewels of lands with blooming health.        738
 
 <details><summary>मूलम् - ७३८</summary>
 
-पिणियिऩ्मै सॆल्वम् विळैविऩ्पम् एमम्
-अणियॆऩ्प नाट्टिव् वैन्दु। ७३८
+पिणियिऩ्मै सॆल्वम् विळैविऩ्पम् एमम्  
+अणियॆऩ्प नाट्टिव् वैन्दु। ७३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३९</summary>
 
-नाडॆऩ्प नाडा वळत्तऩ नाडल्ल
-नाड वळन्दरु नाडु। ७३९
+नाडॆऩ्प नाडा वळत्तऩ नाडल्ल  
+नाड वळन्दरु नाडु। ७३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३९</summary>
@@ -472,10 +471,10 @@ Are jewels of lands with blooming health.        738
 
 <details><summary>NVK Ashraf choice (en) - ७३९</summary>
 
-०७३९
-Call that a land which yields without toil.
-That is no land where toil precedes yield. *
-(P.S. Sundaram)
+०७३९  
+Call that a land which yields without toil.  
+That is no land where toil precedes yield. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७३९</summary>
@@ -510,14 +509,14 @@ Needing hard work the land is nought.        739
 
 <details><summary>मूलम् - ७३९</summary>
 
-नाडॆऩ्प नाडा वळत्तऩ नाडल्ल
-नाड वळन्दरु नाडु। ७३९
+नाडॆऩ्प नाडा वळत्तऩ नाडल्ल  
+नाड वळन्दरु नाडु। ७३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७४०</summary>
 
-आङ्गमै वॆय्दियक् कण्णुम् पयमिऩ्ऱे
-वेन्दमै विल्लाद नाडु। ७४०
+आङ्गमै वॆय्दियक् कण्णुम् पयमिऩ्ऱे  
+वेन्दमै विल्लाद नाडु। ७४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७४०</summary>
@@ -528,10 +527,10 @@ Needing hard work the land is nought.        739
 
 <details><summary>NVK Ashraf choice (en) - ७४०</summary>
 
-०७४०
-Even if endowed with all blessings, a country is no worth
-If not blessed with a ruler. *
-(V.V.S. Aiyar)
+०७४०  
+Even if endowed with all blessings, a country is no worth  
+If not blessed with a ruler. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७४०</summary>
@@ -565,7 +564,7 @@ It is worthless without a king.        740
 
 <details><summary>मूलम् - ७४०</summary>
 
-आङ्गमै वॆय्दियक् कण्णुम् पयमिऩ्ऱे
-वेन्दमै विल्लाद नाडु। ७४०
+आङ्गमै वॆय्दियक् कण्णुम् पयमिऩ्ऱे  
+वेन्दमै विल्लाद नाडु। ७४०  
 </details>
 

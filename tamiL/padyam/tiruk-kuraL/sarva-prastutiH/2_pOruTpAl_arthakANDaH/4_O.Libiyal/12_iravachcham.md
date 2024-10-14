@@ -3,11 +3,10 @@ title = "१२ इरवच्चम्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०६१</summary>
 
-करवादु उवन्दीयुम् कण्णऩ्ऩार् कण्णुम्
-इरवामै कोडि उऱुम्। १०६१
+करवादु उवन्दीयुम् कण्णऩ्ऩार् कण्णुम्  
+इरवामै कोडि उऱुम्। १०६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६१</summary>
@@ -19,10 +18,10 @@ title = "१२ इरवच्चम्"
 
 <details><summary>NVK Ashraf choice (en) - १०६१</summary>
 
-१०६१
-It is worth millions not to beg
-Even from the precious ones who delight in giving.
-(J. Narayanaswamy), (N.V.K. Ashraf)
+१०६१  
+It is worth millions not to beg  
+Even from the precious ones who delight in giving.  
+(J. Narayanaswamy), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६१</summary>
@@ -57,14 +56,14 @@ E'en from eye-like friends who give with mirth.        1061
 
 <details><summary>मूलम् - १०६१</summary>
 
-करवादु उवन्दीयुम् कण्णऩ्ऩार् कण्णुम्
-इरवामै कोडि उऱुम्। १०६१
+करवादु उवन्दीयुम् कण्णऩ्ऩार् कण्णुम्  
+इरवामै कोडि उऱुम्। १०६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६२</summary>
 
-इरन्दुम् उयिर्वाऴ्दल् वेण्डिऩ् परन्दु
-कॆडुग उलगियऱ्ऱि याऩ्। १०६२
+इरन्दुम् उयिर्वाऴ्दल् वेण्डिऩ् परन्दु  
+कॆडुग उलगियऱ्ऱि याऩ्। १०६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६२</summary>
@@ -75,10 +74,10 @@ E'en from eye-like friends who give with mirth.        1061
 
 <details><summary>NVK Ashraf choice (en) - १०६२</summary>
 
-१०६२
-If some must beg and live, let the Creator of the world
-Himself roam and perish!
-(P.S. Sundaram), (K.R. Srinivasa Iyengar)
+१०६२  
+If some must beg and live, let the Creator of the world  
+Himself roam and perish!  
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६२</summary>
@@ -113,14 +112,14 @@ If "beg and live" be human fate.        1062
 
 <details><summary>मूलम् - १०६२</summary>
 
-इरन्दुम् उयिर्वाऴ्दल् वेण्डिऩ् परन्दु
-कॆडुग उलगियऱ्ऱि याऩ्। १०६२
+इरन्दुम् उयिर्वाऴ्दल् वेण्डिऩ् परन्दु  
+कॆडुग उलगियऱ्ऱि याऩ्। १०६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६३</summary>
 
-इऩ्मै इडुम्बै इरन्दुदीर् वामॆऩ्ऩुम्
-वऩ्मैयिऩ् वऩ्पाट्ट तिल्। १०६३
+इऩ्मै इडुम्बै इरन्दुदीर् वामॆऩ्ऩुम्  
+वऩ्मैयिऩ् वऩ्पाट्ट तिल्। १०६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६३</summary>
@@ -131,10 +130,10 @@ If "beg and live" be human fate.        1062
 
 <details><summary>NVK Ashraf choice (en) - १०६३</summary>
 
-१०६३
-No greater folly than the hope that
-Begging will rid the misery of poverty. *
-(P.S. Sundaram)
+१०६३  
+No greater folly than the hope that  
+Begging will rid the misery of poverty. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६३</summary>
@@ -169,14 +168,14 @@ Nothing is hard like hard saying
 
 <details><summary>मूलम् - १०६३</summary>
 
-इऩ्मै इडुम्बै इरन्दुदीर् वामॆऩ्ऩुम्
-वऩ्मैयिऩ् वऩ्पाट्ट तिल्। १०६३
+इऩ्मै इडुम्बै इरन्दुदीर् वामॆऩ्ऩुम्  
+वऩ्मैयिऩ् वऩ्पाट्ट तिल्। १०६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६४</summary>
 
-इडमॆल्लाम् कॊळ्ळात् तगैत्ते इडमिल्लाक्
-कालुम् इरवॊल्लाच् चाल्बु। १०६४
+इडमॆल्लाम् कॊळ्ळात् तगैत्ते इडमिल्लाक्  
+कालुम् इरवॊल्लाच् चाल्बु। १०६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६४</summary>
@@ -187,10 +186,10 @@ Nothing is hard like hard saying
 
 <details><summary>NVK Ashraf choice (en) - १०६४</summary>
 
-१०६४
-No place can hold the greatness of those
-Who don’t beg even during troubled times.
-(N.V.K. Ashraf)
+१०६४  
+No place can hold the greatness of those  
+Who don’t beg even during troubled times.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६४</summary>
@@ -225,14 +224,14 @@ Who beg not e'en in want acute.        1064
 
 <details><summary>मूलम् - १०६४</summary>
 
-इडमॆल्लाम् कॊळ्ळात् तगैत्ते इडमिल्लाक्
-कालुम् इरवॊल्लाच् चाल्बु। १०६४
+इडमॆल्लाम् कॊळ्ळात् तगैत्ते इडमिल्लाक्  
+कालुम् इरवॊल्लाच् चाल्बु। १०६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६५</summary>
 
-तॆण्णीर् अडुबुऱ्कै आयिऩुम् ताळ्दन्ददु
-उण्णलिऩ् ऊङ्गिऩिय तिल्। १०६५
+तॆण्णीर् अडुबुऱ्कै आयिऩुम् ताळ्दन्ददु  
+उण्णलिऩ् ऊङ्गिऩिय तिल्। १०६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६५</summary>
@@ -243,10 +242,10 @@ Who beg not e'en in want acute.        1064
 
 <details><summary>NVK Ashraf choice (en) - १०६५</summary>
 
-१०६५
-There is nothing sweeter than even the watery gruel
-Earned by one's own labour. *
-(P.S. Sundaram)
+१०६५  
+There is nothing sweeter than even the watery gruel  
+Earned by one's own labour. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६५</summary>
@@ -281,14 +280,14 @@ Like the food earned by labour's sweat.        1065
 
 <details><summary>मूलम् - १०६५</summary>
 
-तॆण्णीर् अडुबुऱ्कै आयिऩुम् ताळ्दन्ददु
-उण्णलिऩ् ऊङ्गिऩिय तिल्। १०६५
+तॆण्णीर् अडुबुऱ्कै आयिऩुम् ताळ्दन्ददु  
+उण्णलिऩ् ऊङ्गिऩिय तिल्। १०६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६६</summary>
 
-आविऱ्कु नीरॆऩ्ऱु इरप्पिऩुम् नाविऱ्कु
-इरविऩ् इळिवन्द तिल्। १०६६
+आविऱ्कु नीरॆऩ्ऱु इरप्पिऩुम् नाविऱ्कु  
+इरविऩ् इळिवन्द तिल्। १०६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६६</summary>
@@ -299,10 +298,10 @@ Like the food earned by labour's sweat.        1065
 
 <details><summary>NVK Ashraf choice (en) - १०६६</summary>
 
-१०६६
-No greater disgrace for the tongue than to beg
-Even if only water for a cow.
-(P.S. Sundaram)
+१०६६  
+No greater disgrace for the tongue than to beg  
+Even if only water for a cow.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६६</summary>
@@ -337,14 +336,14 @@ Begging tongue is mean anyhow.        1066
 
 <details><summary>मूलम् - १०६६</summary>
 
-आविऱ्कु नीरॆऩ्ऱु इरप्पिऩुम् नाविऱ्कु
-इरविऩ् इळिवन्द तिल्। १०६६
+आविऱ्कु नीरॆऩ्ऱु इरप्पिऩुम् नाविऱ्कु  
+इरविऩ् इळिवन्द तिल्। १०६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६७</summary>
 
-इरप्पऩ् इरप्पारै ऎल्लाम् इरप्पिऩ्
-करप्पार् इरवऩ्मिऩ् ऎऩ्ऱु। १०६७
+इरप्पऩ् इरप्पारै ऎल्लाम् इरप्पिऩ्  
+करप्पार् इरवऩ्मिऩ् ऎऩ्ऱु। १०६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६७</summary>
@@ -355,10 +354,10 @@ Begging tongue is mean anyhow.        1066
 
 <details><summary>NVK Ashraf choice (en) - १०६७</summary>
 
-१०६७
-This I beg of all beggars,
-"If beg you must, beg not from misers."
-(Satguru Subramuniyaswami)
+१०६७  
+This I beg of all beggars,  
+"If beg you must, beg not from misers."  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६७</summary>
@@ -392,14 +391,14 @@ Not to beg from shrinking misers.        1067
 
 <details><summary>मूलम् - १०६७</summary>
 
-इरप्पऩ् इरप्पारै ऎल्लाम् इरप्पिऩ्
-करप्पार् इरवऩ्मिऩ् ऎऩ्ऱु। १०६७
+इरप्पऩ् इरप्पारै ऎल्लाम् इरप्पिऩ्  
+करप्पार् इरवऩ्मिऩ् ऎऩ्ऱु। १०६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६८</summary>
 
-इरवॆऩ्ऩुम् एमाप्पिल् तोणि करवॆऩ्ऩुम्
-पार्दाक्कप् पक्कु विडुम्। १०६८
+इरवॆऩ्ऩुम् एमाप्पिल् तोणि करवॆऩ्ऩुम्  
+पार्दाक्कप् पक्कु विडुम्। १०६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६८</summary>
@@ -410,10 +409,10 @@ Not to beg from shrinking misers.        1067
 
 <details><summary>NVK Ashraf choice (en) - १०६८</summary>
 
-१०६८
-The hapless ship of begging will split
-The moment it strikes the rock of refusal. *
-(V.V.S. Aiyar)
+१०६८  
+The hapless ship of begging will split  
+The moment it strikes the rock of refusal. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६८</summary>
@@ -447,14 +446,14 @@ On the rock of refusing hits.        1068
 
 <details><summary>मूलम् - १०६८</summary>
 
-इरवॆऩ्ऩुम् एमाप्पिल् तोणि करवॆऩ्ऩुम्
-पार्दाक्कप् पक्कु विडुम्। १०६८
+इरवॆऩ्ऩुम् एमाप्पिल् तोणि करवॆऩ्ऩुम्  
+पार्दाक्कप् पक्कु विडुम्। १०६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०६९</summary>
 
-इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ
-उळ्ळदूउम् इऩ्ऱिक् कॆडुम्। १०६९
+इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
+उळ्ळदूउम् इऩ्ऱिक् कॆडुम्। १०६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०६९</summary>
@@ -465,10 +464,10 @@ On the rock of refusing hits.        1068
 
 <details><summary>NVK Ashraf choice (en) - १०६९</summary>
 
-१०६९
-The heart melts at the thought of begging
-And dies at the thought of denial.
-(P.S. Sundaram)
+१०६९  
+The heart melts at the thought of begging  
+And dies at the thought of denial.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०६९</summary>
@@ -503,14 +502,14 @@ It dies at repulsing insults.        1069
 
 <details><summary>मूलम् - १०६९</summary>
 
-इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ
-उळ्ळदूउम् इऩ्ऱिक् कॆडुम्। १०६९
+इरवुळ्ळ उळ्ळम् उरुगुम् करवुळ्ळ  
+उळ्ळदूउम् इऩ्ऱिक् कॆडुम्। १०६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०७०</summary>
 
-करप्पवर्क्कु याङ्गॊळिक्कुम् कॊल्लो इरप्पवर्
-सॊल्लाडप् पोऒम् उयिर्। १०७०
+करप्पवर्क्कु याङ्गॊळिक्कुम् कॊल्लो इरप्पवर्  
+सॊल्लाडप् पोऒम् उयिर्। १०७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०७०</summary>
@@ -521,10 +520,10 @@ It dies at repulsing insults.        1069
 
 <details><summary>NVK Ashraf choice (en) - १०७०</summary>
 
-१०७०
-Where will the niggard’s life seek refuge
-When the beggar’s life is taken by refusal?
-(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
+१०७०  
+Where will the niggard’s life seek refuge  
+When the beggar’s life is taken by refusal?  
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०७०</summary>
@@ -558,7 +557,7 @@ Where can the niggard's life be safe?        1070
 
 <details><summary>मूलम् - १०७०</summary>
 
-करप्पवर्क्कु याङ्गॊळिक्कुम् कॊल्लो इरप्पवर्
-सॊल्लाडप् पोऒम् उयिर्। १०७०
+करप्पवर्क्कु याङ्गॊळिक्कुम् कॊल्लो इरप्पवर्  
+सॊल्लाडप् पोऒम् उयिर्। १०७०  
 </details>
 

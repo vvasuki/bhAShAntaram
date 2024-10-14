@@ -3,11 +3,10 @@ title = "१० अवैयञ्जामै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७२१</summary>
 
-वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिऩ्
-तॊगैयऱिन्द तूय्मै यवर्। ७२१
+वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिऩ्  
+तॊगैयऱिन्द तूय्मै यवर्। ७२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२१</summary>
@@ -19,10 +18,10 @@ title = "१० अवैयञ्जामै"
 
 <details><summary>NVK Ashraf choice (en) - ७२१</summary>
 
-०७२१
-The pure skillful orators, knowing the council's strength,
-Never fail in their speech. *
-( Shuddhananda Bharatiar), (N.V.K. Ashraf)
+०७२१  
+The pure skillful orators, knowing the council's strength,  
+Never fail in their speech. *  
+( Shuddhananda Bharatiar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२१</summary>
@@ -57,14 +56,14 @@ Knowing grand council's moods and modes.        721
 
 <details><summary>मूलम् - ७२१</summary>
 
-वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिऩ्
-तॊगैयऱिन्द तूय्मै यवर्। ७२१
+वगैयऱिन्दु वल्लवै वाय्सोरार् सॊल्लिऩ्  
+तॊगैयऱिन्द तूय्मै यवर्। ७२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२२</summary>
 
-कऱ्ऱारुळ् कऱ्ऱार् ऎऩप्पडुवर् कऱ्ऱार्मुऩ्
-कऱ्ऱ सॆलच्चॊल्लु वार्। ७२२
+कऱ्ऱारुळ् कऱ्ऱार् ऎऩप्पडुवर् कऱ्ऱार्मुऩ्  
+कऱ्ऱ सॆलच्चॊल्लु वार्। ७२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२२</summary>
@@ -75,10 +74,10 @@ Knowing grand council's moods and modes.        721
 
 <details><summary>NVK Ashraf choice (en) - ७२२</summary>
 
-०७२२
-Most learned among the learned is he
-Whose learning the learned accept.
-(P.S. Sundaram)
+०७२२  
+Most learned among the learned is he  
+Whose learning the learned accept.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२२</summary>
@@ -113,14 +112,14 @@ Who holds scholars with learned lore.        722
 
 <details><summary>मूलम् - ७२२</summary>
 
-कऱ्ऱारुळ् कऱ्ऱार् ऎऩप्पडुवर् कऱ्ऱार्मुऩ्
-कऱ्ऱ सॆलच्चॊल्लु वार्। ७२२
+कऱ्ऱारुळ् कऱ्ऱार् ऎऩप्पडुवर् कऱ्ऱार्मुऩ्  
+कऱ्ऱ सॆलच्चॊल्लु वार्। ७२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२३</summary>
 
-पगैयगत्तुच् चावार् ऎळियर् अरियर्
-अवैयगत्तु अञ्जा तवर्। ७२३
+पगैयगत्तुच् चावार् ऎळियर् अरियर्  
+अवैयगत्तु अञ्जा तवर्। ७२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२३</summary>
@@ -131,10 +130,10 @@ Who holds scholars with learned lore.        722
 
 <details><summary>NVK Ashraf choice (en) - ७२३</summary>
 
-०७२३
-Many are ready to even die in battle,
-But few can face an assembly without nerves.
-(N.V.K. Ashraf)
+०७२३  
+Many are ready to even die in battle,  
+But few can face an assembly without nerves.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२३</summary>
@@ -169,14 +168,14 @@ The fearless few face wise councils.        723
 
 <details><summary>मूलम् - ७२३</summary>
 
-पगैयगत्तुच् चावार् ऎळियर् अरियर्
-अवैयगत्तु अञ्जा तवर्। ७२३
+पगैयगत्तुच् चावार् ऎळियर् अरियर्  
+अवैयगत्तु अञ्जा तवर्। ७२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२४</summary>
 
-कऱ्ऱार्मुऩ् कऱ्ऱ सॆलच्चॊल्लित् ताम्गऱ्ऱ
-मिक्कारुळ् मिक्क कॊळल्। ७२४
+कऱ्ऱार्मुऩ् कऱ्ऱ सॆलच्चॊल्लित् ताम्गऱ्ऱ  
+मिक्कारुळ् मिक्क कॊळल्। ७२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२४</summary>
@@ -187,10 +186,10 @@ The fearless few face wise councils.        723
 
 <details><summary>NVK Ashraf choice (en) - ७२४</summary>
 
-०७२४
-Let the learned learn from you,
-And you from one more learned.
-(P.S. Sundaram)
+०७२४  
+Let the learned learn from you,  
+And you from one more learned.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२४</summary>
@@ -225,14 +224,14 @@ From greater savants learn still more.        724
 
 <details><summary>मूलम् - ७२४</summary>
 
-कऱ्ऱार्मुऩ् कऱ्ऱ सॆलच्चॊल्लित् ताम्गऱ्ऱ
-मिक्कारुळ् मिक्क कॊळल्। ७२४
+कऱ्ऱार्मुऩ् कऱ्ऱ सॆलच्चॊल्लित् ताम्गऱ्ऱ  
+मिक्कारुळ् मिक्क कॊळल्। ७२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२५</summary>
 
-आऱ्ऱिऩ् अळवऱिन्दु कऱ्क अवैयञ्जा
-माऱ्ऱङ् गॊडुत्तऱ् पॊरुट्टु। ७२५
+आऱ्ऱिऩ् अळवऱिन्दु कऱ्क अवैयञ्जा  
+माऱ्ऱङ् गॊडुत्तऱ् पॊरुट्टु। ७२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२५</summary>
@@ -243,10 +242,10 @@ From greater savants learn still more.        724
 
 <details><summary>NVK Ashraf choice (en) - ७२५</summary>
 
-०७२५
-Study the science of logic so that you may
-Fearlessly reply in any assembly.
-(Satguru Subramuniyaswami)
+०७२५  
+Study the science of logic so that you may  
+Fearlessly reply in any assembly.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२५</summary>
@@ -281,14 +280,14 @@ Foes you can boldly retort.        725
 
 <details><summary>मूलम् - ७२५</summary>
 
-आऱ्ऱिऩ् अळवऱिन्दु कऱ्क अवैयञ्जा
-माऱ्ऱङ् गॊडुत्तऱ् पॊरुट्टु। ७२५
+आऱ्ऱिऩ् अळवऱिन्दु कऱ्क अवैयञ्जा  
+माऱ्ऱङ् गॊडुत्तऱ् पॊरुट्टु। ७२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२६</summary>
 
-वाळॊडॆऩ् वऩ्कण्णर् अल्लार्क्कु नूलॊडॆऩ्
-नुण्णवै अञ्जु पवर्क्कु। ७२६
+वाळॊडॆऩ् वऩ्कण्णर् अल्लार्क्कु नूलॊडॆऩ्  
+नुण्णवै अञ्जु पवर्क्कु। ७२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२६</summary>
@@ -299,10 +298,10 @@ Foes you can boldly retort.        725
 
 <details><summary>NVK Ashraf choice (en) - ७२६</summary>
 
-०७२६
-What use is a sword to cowards
-And books to those who fear assembly? *
-(P.S. Sundaram), (N.V.K. Ashraf)
+०७२६  
+What use is a sword to cowards  
+And books to those who fear assembly? *  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२६</summary>
@@ -337,14 +336,14 @@ And books to those who councils fail?        726
 
 <details><summary>मूलम् - ७२६</summary>
 
-वाळॊडॆऩ् वऩ्कण्णर् अल्लार्क्कु नूलॊडॆऩ्
-नुण्णवै अञ्जु पवर्क्कु। ७२६
+वाळॊडॆऩ् वऩ्कण्णर् अल्लार्क्कु नूलॊडॆऩ्  
+नुण्णवै अञ्जु पवर्क्कु। ७२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२७</summary>
 
-पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु
-अञ्जु मवऩ्कऱ्ऱ नूल्। ७२७
+पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु  
+अञ्जु मवऩ्कऱ्ऱ नूल्। ७२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२७</summary>
@@ -355,10 +354,10 @@ And books to those who councils fail?        726
 
 <details><summary>NVK Ashraf choice (en) - ७२७</summary>
 
-०७२७
-As a sword to a eunuch before his foes,
-Is the learning to one who fears assembly. *
-(G.U. Pope), (V.V.S. Aiyar)
+०७२७  
+As a sword to a eunuch before his foes,  
+Is the learning to one who fears assembly. *  
+(G.U. Pope), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७२७</summary>
@@ -397,14 +396,14 @@ His lore who fears men of brain.        727
 
 <details><summary>मूलम् - ७२७</summary>
 
-पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु
-अञ्जु मवऩ्कऱ्ऱ नूल्। ७२७
+पगैयगत्तुप् पेडिगै ऒळ्वाळ् अवैयगत्तु  
+अञ्जु मवऩ्कऱ्ऱ नूल्। ७२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२८</summary>
 
-पल्लवै कऱ्ऱुम् पयमिलरे नल्लवैयुळ्
-नऩ्कु सॆलच्चॊल्ला तार्। ७२८
+पल्लवै कऱ्ऱुम् पयमिलरे नल्लवैयुळ्  
+नऩ्कु सॆलच्चॊल्ला तार्। ७२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२८</summary>
@@ -415,10 +414,10 @@ His lore who fears men of brain.        727
 
 <details><summary>NVK Ashraf choice (en) - ७२८</summary>
 
-०७२८
-They are useless however learned
-Who cannot impress a learned assembly. *
-(P.S. Sundaram)
+०७२८  
+They are useless however learned  
+Who cannot impress a learned assembly. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२८</summary>
@@ -453,14 +452,14 @@ Who says no good before the good.        728
 
 <details><summary>मूलम् - ७२८</summary>
 
-पल्लवै कऱ्ऱुम् पयमिलरे नल्लवैयुळ्
-नऩ्कु सॆलच्चॊल्ला तार्। ७२८
+पल्लवै कऱ्ऱुम् पयमिलरे नल्लवैयुळ्  
+नऩ्कु सॆलच्चॊल्ला तार्। ७२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२९</summary>
 
-कल्ला तवरिऩ् कडैयॆऩ्प कऱ्ऱऱिन्दुम्
-नल्ला रवैयञ्जु वार्। ७२९
+कल्ला तवरिऩ् कडैयॆऩ्प कऱ्ऱऱिन्दुम्  
+नल्ला रवैयञ्जु वार्। ७२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२९</summary>
@@ -471,10 +470,10 @@ Who says no good before the good.        728
 
 <details><summary>NVK Ashraf choice (en) - ७२९</summary>
 
-०७२९
-Scholars dread of facing an assembly of good men
-Are ranked lower than the ignorant.
-(N.V.K. Ashraf)
+०७२९  
+Scholars dread of facing an assembly of good men  
+Are ranked lower than the ignorant.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२९</summary>
@@ -509,14 +508,14 @@ Are learned idiots, certainly.        729
 
 <details><summary>मूलम् - ७२९</summary>
 
-कल्ला तवरिऩ् कडैयॆऩ्प कऱ्ऱऱिन्दुम्
-नल्ला रवैयञ्जु वार्। ७२९
+कल्ला तवरिऩ् कडैयॆऩ्प कऱ्ऱऱिन्दुम्  
+नल्ला रवैयञ्जु वार्। ७२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७३०</summary>
 
-उळरॆऩिऩुम् इल्लारॊडु ऒप्पर् कळऩ्अञ्जिक्
-कऱ्ऱ सॆलच्चॊल्ला तार्। ७३०
+उळरॆऩिऩुम् इल्लारॊडु ऒप्पर् कळऩ्अञ्जिक्  
+कऱ्ऱ सॆलच्चॊल्ला तार्। ७३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७३०</summary>
@@ -527,9 +526,9 @@ Are learned idiots, certainly.        729
 
 <details><summary>NVK Ashraf choice (en) - ७३०</summary>
 
-०७३०
-Those stage-fearing who keep their learning to themselves,
-Though living, are dead. *
+०७३०  
+Those stage-fearing who keep their learning to themselves,  
+Though living, are dead. *  
 (P.S. Sundaram) 
 </details>
 
@@ -563,8 +562,11 @@ Empress before the wise their art.        730
 
 <details><summary>मूलम् - ७३०</summary>
 
-उळरॆऩिऩुम् इल्लारॊडु ऒप्पर् कळऩ्अञ्जिक्
-कऱ्ऱ सॆलच्चॊल्ला तार्। ७३०
+उळरॆऩिऩुम् इल्लारॊडु ऒप्पर् कळऩ्अञ्जिक्  
+कऱ्ऱ सॆलच्चॊल्ला तार्। ७३०  
 </details>
+
+
+
 
 अमैच्चियल् मुऱ्ऱिऱ्ऱु  

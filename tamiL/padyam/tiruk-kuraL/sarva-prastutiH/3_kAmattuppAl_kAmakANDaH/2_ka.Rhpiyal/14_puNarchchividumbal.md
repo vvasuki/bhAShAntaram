@@ -3,11 +3,10 @@ title = "१४ पुणर्च्चिविदुम्बल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १२८१</summary>
 
-उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्
-कळ्ळुक्किल् कामत्तिऱ् कुण्डु। १२८१
+उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
+कळ्ळुक्किल् कामत्तिऱ् कुण्डु। १२८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८१</summary>
@@ -18,10 +17,10 @@ title = "१४ पुणर्च्चिविदुम्बल्"
 
 <details><summary>NVK Ashraf choice (en) - १२८१</summary>
 
-१२८१
-To please with the thought and delight with the sight,
-Belongs not to liquor but love.
-(P.S. Sundaram)
+१२८१  
+To please with the thought and delight with the sight,  
+Belongs not to liquor but love.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२८१</summary>
@@ -61,14 +60,14 @@ Belong to love and not to wine.        1281
 
 <details><summary>मूलम् - १२८१</summary>
 
-उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्
-कळ्ळुक्किल् कामत्तिऱ् कुण्डु। १२८१
+उळ्ळक् कळित्तलुम् काण मगिऴ्दलुम्  
+कळ्ळुक्किल् कामत्तिऱ् कुण्डु। १२८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८२</summary>
 
-तिऩैत्तुणैयुम् ऊडामै वेण्डुम् पऩैत् तुणैयुम्
-कामम् निऱैय वरिऩ्। १२८२
+तिऩैत्तुणैयुम् ऊडामै वेण्डुम् पऩैत् तुणैयुम्  
+कामम् निऱैय वरिऩ्। १२८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८२</summary>
@@ -79,10 +78,10 @@ Belong to love and not to wine.        1281
 
 <details><summary>NVK Ashraf choice (en) - १२८२</summary>
 
-१२८२
-Where love is as large as a palm tree,
-Even millet of sulk is misplaced. *
-(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)
+१२८२  
+Where love is as large as a palm tree,  
+Even millet of sulk is misplaced. *  
+(K. Krishnaswamy & Vijaya Ramkumar), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२८२</summary>
@@ -122,14 +121,14 @@ Sulking is wrong though millet-small.        1282
 
 <details><summary>मूलम् - १२८२</summary>
 
-तिऩैत्तुणैयुम् ऊडामै वेण्डुम् पऩैत् तुणैयुम्
-कामम् निऱैय वरिऩ्। १२८२
+तिऩैत्तुणैयुम् ऊडामै वेण्डुम् पऩैत् तुणैयुम्  
+कामम् निऱैय वरिऩ्। १२८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८३</summary>
 
-पेणादु पॆट्पवे सॆय्यिऩुम् कॊण्गऩैक्
-काणा तमैयल कण्। १२८३
+पेणादु पॆट्पवे सॆय्यिऩुम् कॊण्गऩैक्  
+काणा तमैयल कण्। १२८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८३</summary>
@@ -140,10 +139,10 @@ Sulking is wrong though millet-small.        1282
 
 <details><summary>NVK Ashraf choice (en) - १२८३</summary>
 
-१२८३
-Let him neglect me and do what he will.
-My eyes will not rest till they see him.
-(P.S. Sundaram)
+१२८३  
+Let him neglect me and do what he will.  
+My eyes will not rest till they see him.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२८३</summary>
@@ -183,14 +182,14 @@ My restless eyes would see him still.        1283
 
 <details><summary>मूलम् - १२८३</summary>
 
-पेणादु पॆट्पवे सॆय्यिऩुम् कॊण्गऩैक्
-काणा तमैयल कण्। १२८३
+पेणादु पॆट्पवे सॆय्यिऩुम् कॊण्गऩैक्  
+काणा तमैयल कण्। १२८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८४</summary>
 
-ऊडऱ्कण् सॆऩ्ऱेऩ्मऩ् तोऴि अदुमऱन्दु
-कूडऱ्कण् सॆऩ्ऱतु ऎऩ् ऩॆञ्जु। १२८४
+ऊडऱ्कण् सॆऩ्ऱेऩ्मऩ् तोऴि अदुमऱन्दु  
+कूडऱ्कण् सॆऩ्ऱतु ऎऩ् ऩॆञ्जु। १२८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८४</summary>
@@ -201,10 +200,10 @@ My restless eyes would see him still.        1283
 
 <details><summary>NVK Ashraf choice (en) - १२८४</summary>
 
-१२८४
-My friend, I went all set to quarrel,
-But my heart forgot and clasped him.
-(P.S. Sundaram)
+१२८४  
+My friend, I went all set to quarrel,  
+But my heart forgot and clasped him.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२८४</summary>
@@ -244,14 +243,14 @@ And leap to embrace him direct.        1284
 
 <details><summary>मूलम् - १२८४</summary>
 
-ऊडऱ्कण् सॆऩ्ऱेऩ्मऩ् तोऴि अदुमऱन्दु
-कूडऱ्कण् सॆऩ्ऱतु ऎऩ् ऩॆञ्जु। १२८४
+ऊडऱ्कण् सॆऩ्ऱेऩ्मऩ् तोऴि अदुमऱन्दु  
+कूडऱ्कण् सॆऩ्ऱतु ऎऩ् ऩॆञ्जु। १२८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८५</summary>
 
-ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गऩ्
-पऴिगाणेऩ् कण्ड इडत्तु। १२८५
+ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गऩ्  
+पऴिगाणेऩ् कण्ड इडत्तु। १२८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८५</summary>
@@ -262,10 +261,10 @@ And leap to embrace him direct.        1284
 
 <details><summary>NVK Ashraf choice (en) - १२८५</summary>
 
-१२८५
-Like eyes that can’t see the painting brush,
-I don’t see his faults when I see him. *
-(M.S. Poornalingam Pillai)
+१२८५  
+Like eyes that can’t see the painting brush,  
+I don’t see his faults when I see him. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२८५</summary>
@@ -300,14 +299,14 @@ Like eyes that see not painter's brush.        1285
 
 <details><summary>मूलम् - १२८५</summary>
 
-ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गऩ्
-पऴिगाणेऩ् कण्ड इडत्तु। १२८५
+ऎऴुदुङ्गाल् कोल्गाणाक् कण्णेबोल् कॊण्गऩ्  
+पऴिगाणेऩ् कण्ड इडत्तु। १२८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८६</summary>
 
-काणुङ्गाल् काणेऩ् तवऱाय काणाक्काल्
-काणेऩ् तवऱल् लवै। १२८६
+काणुङ्गाल् काणेऩ् तवऱाय काणाक्काल्  
+काणेऩ् तवऱल् लवै। १२८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८६</summary>
@@ -318,10 +317,10 @@ Like eyes that see not painter's brush.        1285
 
 <details><summary>NVK Ashraf choice (en) - १२८६</summary>
 
-१२८६
-When I see him I see no faults, and when I don't,
-I see nothing but faults! *
-(P.S. Sundaram)
+१२८६  
+When I see him I see no faults, and when I don't,  
+I see nothing but faults! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२८६</summary>
@@ -356,14 +355,14 @@ And nought but fault when he is not.        1286
 
 <details><summary>मूलम् - १२८६</summary>
 
-काणुङ्गाल् काणेऩ् तवऱाय काणाक्काल्
-काणेऩ् तवऱल् लवै। १२८६
+काणुङ्गाल् काणेऩ् तवऱाय काणाक्काल्  
+काणेऩ् तवऱल् लवै। १२८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८७</summary>
 
-उय्त्तल् अऱिन्दु पुऩल्बाय् पवरेबोल्
-पॊय्त्तल् अऱिन्दॆऩ् पुलन्दु। १२८७
+उय्त्तल् अऱिन्दु पुऩल्बाय् पवरेबोल्  
+पॊय्त्तल् अऱिन्दॆऩ् पुलन्दु। १२८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८७</summary>
@@ -374,10 +373,10 @@ And nought but fault when he is not.        1286
 
 <details><summary>NVK Ashraf choice (en) - १२८७</summary>
 
-१२८७
-It is folly to plunge into a known raging stream.
-Likewise, why sulk and plumb known lies? *
-(P.S. Sundaram)
+१२८७  
+It is folly to plunge into a known raging stream.  
+Likewise, why sulk and plumb known lies? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२८७</summary>
@@ -412,14 +411,14 @@ When lord is close to feign a huff.        1287
 
 <details><summary>मूलम् - १२८७</summary>
 
-उय्त्तल् अऱिन्दु पुऩल्बाय् पवरेबोल्
-पॊय्त्तल् अऱिन्दॆऩ् पुलन्दु। १२८७
+उय्त्तल् अऱिन्दु पुऩल्बाय् पवरेबोल्  
+पॊय्त्तल् अऱिन्दॆऩ् पुलन्दु। १२८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८८</summary>
 
-इळित्तक्क इऩ्ऩा सॆयिऩुम् कळित्तार्क्कुक्
-कळ्ळऱ्ऱे कळ्वनिऩ् मार्बु। १२८८
+इळित्तक्क इऩ्ऩा सॆयिऩुम् कळित्तार्क्कुक्  
+कळ्ळऱ्ऱे कळ्वनिऩ् मार्बु। १२८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८८</summary>
@@ -430,10 +429,10 @@ When lord is close to feign a huff.        1287
 
 <details><summary>NVK Ashraf choice (en) - १२८८</summary>
 
-१२८८
-The drunkard seeks wine knowing well its shame;
-So does your bosom to me, O thief! *
-(K.R. Srinivasa Iyengar)
+१२८८  
+The drunkard seeks wine knowing well its shame;  
+So does your bosom to me, O thief! *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १२८८</summary>
@@ -473,14 +472,14 @@ Your breast, O thief, is for my embrace!        1288
 
 <details><summary>मूलम् - १२८८</summary>
 
-इळित्तक्क इऩ्ऩा सॆयिऩुम् कळित्तार्क्कुक्
-कळ्ळऱ्ऱे कळ्वनिऩ् मार्बु। १२८८
+इळित्तक्क इऩ्ऩा सॆयिऩुम् कळित्तार्क्कुक्  
+कळ्ळऱ्ऱे कळ्वनिऩ् मार्बु। १२८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२८९</summary>
 
-मलरिऩुम् मॆल्लिदु कामम् सिलर्अदऩ्
-सॆव्वि तलैप्पडु वार्। १२८९
+मलरिऩुम् मॆल्लिदु कामम् सिलर्अदऩ्  
+सॆव्वि तलैप्पडु वार्। १२८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२८९</summary>
@@ -491,10 +490,10 @@ Your breast, O thief, is for my embrace!        1288
 
 <details><summary>NVK Ashraf choice (en) - १२८९</summary>
 
-१२८९
-Love is more delicate than flower;
-Not many handle it properly. *
-(J. Narayanaswamy)
+१२८९  
+Love is more delicate than flower;  
+Not many handle it properly. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२८९</summary>
@@ -528,14 +527,14 @@ Know its delicacy so fine.        1289
 
 <details><summary>मूलम् - १२८९</summary>
 
-मलरिऩुम् मॆल्लिदु कामम् सिलर्अदऩ्
-सॆव्वि तलैप्पडु वार्। १२८९
+मलरिऩुम् मॆल्लिदु कामम् सिलर्अदऩ्  
+सॆव्वि तलैप्पडु वार्। १२८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १२९०</summary>
 
-कण्णिऩ् तुऩित्ते कलङ्गिऩाळ् पुल्लुदल्
-ऎऩ्ऩिऩुम् ताऩ्विदुप् पुऱ्ऱु। १२९०
+कण्णिऩ् तुऩित्ते कलङ्गिऩाळ् पुल्लुदल्  
+ऎऩ्ऩिऩुम् ताऩ्विदुप् पुऱ्ऱु। १२९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२९०</summary>
@@ -546,10 +545,10 @@ Know its delicacy so fine.        1289
 
 <details><summary>NVK Ashraf choice (en) - १२९०</summary>
 
-१२९०
-Though hostile in the eyes, she was faster than me
-To break down and unite.
-(K. Kannan)
+१२९०  
+Though hostile in the eyes, she was faster than me  
+To break down and unite.  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२९०</summary>
@@ -583,7 +582,7 @@ Faster for embrace than I do.        1290
 
 <details><summary>मूलम् - १२९०</summary>
 
-कण्णिऩ् तुऩित्ते कलङ्गिऩाळ् पुल्लुदल्
-ऎऩ्ऩिऩुम् ताऩ्विदुप् पुऱ्ऱु। १२९०
+कण्णिऩ् तुऩित्ते कलङ्गिऩाळ् पुल्लुदल्  
+ऎऩ्ऩिऩुम् ताऩ्विदुप् पुऱ्ऱु। १२९०  
 </details>
 

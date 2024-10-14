@@ -3,11 +3,10 @@ title = "०३ पुणर्च्चिमगिऴ्दल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११०१</summary>
 
-कण्डुगेट्टु उण्डुयिर्त्तु उऱ्ऱऱियुम् ऐम्बुलऩुम्
-ऒण्दॊडि कण्णे उळ। ११०१
+कण्डुगेट्टु उण्डुयिर्त्तु उऱ्ऱऱियुम् ऐम्बुलऩुम्  
+ऒण्दॊडि कण्णे उळ। ११०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०१</summary>
@@ -18,10 +17,10 @@ title = "०३ पुणर्च्चिमगिऴ्दल्"
 
 <details><summary>NVK Ashraf choice (en) - ११०१</summary>
 
-११०१
-In her alone, my jewel, can I find the five senses of
-Sight, smell, hearing, taste and touch. *
-(P.S. Sundaram)
+११०१  
+In her alone, my jewel, can I find the five senses of  
+Sight, smell, hearing, taste and touch. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०१</summary>
@@ -55,14 +54,14 @@ The joys of sight sound touch taste smell.        1101
 
 <details><summary>मूलम् - ११०१</summary>
 
-कण्डुगेट्टु उण्डुयिर्त्तु उऱ्ऱऱियुम् ऐम्बुलऩुम्
-ऒण्दॊडि कण्णे उळ। ११०१
+कण्डुगेट्टु उण्डुयिर्त्तु उऱ्ऱऱियुम् ऐम्बुलऩुम्  
+ऒण्दॊडि कण्णे उळ। ११०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०२</summary>
 
-पिणिक्कु मरुन्दु पिऱमऩ् अणियिऴै
-तऩ्नोय्क्कुत् ताऩे मरुन्दु। ११०२
+पिणिक्कु मरुन्दु पिऱमऩ् अणियिऴै  
+तऩ्नोय्क्कुत् ताऩे मरुन्दु। ११०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०२</summary>
@@ -73,10 +72,10 @@ The joys of sight sound touch taste smell.        1101
 
 <details><summary>NVK Ashraf choice (en) - ११०२</summary>
 
-११०२
-The cure for a disease is always different.
-But this jewel is both disease and cure.
-(W.H. Drew and J. Lazarus), (P.S. Sundaram)
+११०२  
+The cure for a disease is always different.  
+But this jewel is both disease and cure.  
+(W.H. Drew and J. Lazarus), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११०२</summary>
@@ -115,14 +114,14 @@ For fair maid's ill she is the cure.        1102
 
 <details><summary>मूलम् - ११०२</summary>
 
-पिणिक्कु मरुन्दु पिऱमऩ् अणियिऴै
-तऩ्नोय्क्कुत् ताऩे मरुन्दु। ११०२
+पिणिक्कु मरुन्दु पिऱमऩ् अणियिऴै  
+तऩ्नोय्क्कुत् ताऩे मरुन्दु। ११०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०३</summary>
 
-तांवीऴ्वार् मॆऩ्ऱोळ् तुयिलिऩ् इऩिदुगॊल्
-तामरैक् कण्णाऩ् उलगु। ११०३
+तांवीऴ्वार् मॆऩ्ऱोळ् तुयिलिऩ् इऩिदुगॊल्  
+तामरैक् कण्णाऩ् उलगु। ११०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०३</summary>
@@ -133,10 +132,10 @@ For fair maid's ill she is the cure.        1102
 
 <details><summary>NVK Ashraf choice (en) - ११०३</summary>
 
-११०३
-Is heaven sweeter than slumbering
-On the soft shoulders of the women you love?
-(S. Maharajan)
+११०३  
+Is heaven sweeter than slumbering  
+On the soft shoulders of the women you love?  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०३</summary>
@@ -170,14 +169,14 @@ As sleep in lover's arms so soft?        1103
 
 <details><summary>मूलम् - ११०३</summary>
 
-तांवीऴ्वार् मॆऩ्ऱोळ् तुयिलिऩ् इऩिदुगॊल्
-तामरैक् कण्णाऩ् उलगु। ११०३
+तांवीऴ्वार् मॆऩ्ऱोळ् तुयिलिऩ् इऩिदुगॊल्  
+तामरैक् कण्णाऩ् उलगु। ११०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०४</summary>
 
-नीङ्गिऩ् तॆऱूउम् कुऱुगुङ्गाल् तण्णॆऩ्ऩुम्
-तीयाण्डुप् पॆऱ्ऱाळ् इवळ्? ११०४
+नीङ्गिऩ् तॆऱूउम् कुऱुगुङ्गाल् तण्णॆऩ्ऩुम्  
+तीयाण्डुप् पॆऱ्ऱाळ् इवळ्? ११०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०४</summary>
@@ -188,10 +187,10 @@ As sleep in lover's arms so soft?        1103
 
 <details><summary>NVK Ashraf choice (en) - ११०४</summary>
 
-११०४
-Whence did she get the fire
-Which burns when far, and cools when near?
-(P.S. Sundaram)
+११०४  
+Whence did she get the fire  
+Which burns when far, and cools when near?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११०४</summary>
@@ -230,14 +229,14 @@ Wherefrom did she get this fire?        1104
 
 <details><summary>मूलम् - ११०४</summary>
 
-नीङ्गिऩ् तॆऱूउम् कुऱुगुङ्गाल् तण्णॆऩ्ऩुम्
-तीयाण्डुप् पॆऱ्ऱाळ् इवळ्? ११०४
+नीङ्गिऩ् तॆऱूउम् कुऱुगुङ्गाल् तण्णॆऩ्ऩुम्  
+तीयाण्डुप् पॆऱ्ऱाळ् इवळ्? ११०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०५</summary>
 
-वेट् ट पॊऴुदिऩ् अवैयवै पोलुमे
-तोट् टार् कदुप्पिऩाळ् तोळ्। ११०५
+वेट् ट पॊऴुदिऩ् अवैयवै पोलुमे  
+तोट् टार् कदुप्पिऩाळ् तोळ्। ११०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०५</summary>
@@ -248,10 +247,10 @@ Wherefrom did she get this fire?        1104
 
 <details><summary>NVK Ashraf choice (en) - ११०५</summary>
 
-११०५
-Her flower-decked shoulders
-Give me whatever I need, then and there.
-(M.S. Poornalingam Pillai), (P.S. Sundaram)
+११०५  
+Her flower-decked shoulders  
+Give me whatever I need, then and there.  
+(M.S. Poornalingam Pillai), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०५</summary>
@@ -285,14 +284,14 @@ Whatever I wish that that accord.        1105
 
 <details><summary>मूलम् - ११०५</summary>
 
-वेट् ट पॊऴुदिऩ् अवैयवै पोलुमे
-तोट् टार् कदुप्पिऩाळ् तोळ्। ११०५
+वेट् ट पॊऴुदिऩ् अवैयवै पोलुमे  
+तोट् टार् कदुप्पिऩाळ् तोळ्। ११०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०६</summary>
 
-उऱुदोऱु उयिर्दळिर्प्पत् तीण्डलाल् पेदैक्कु
-अमिऴ्दिऩ् इयऩ्ऱऩ तोळ्। ११०६
+उऱुदोऱु उयिर्दळिर्प्पत् तीण्डलाल् पेदैक्कु  
+अमिऴ्दिऩ् इयऩ्ऱऩ तोळ्। ११०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०६</summary>
@@ -303,10 +302,10 @@ Whatever I wish that that accord.        1105
 
 <details><summary>NVK Ashraf choice (en) - ११०६</summary>
 
-११०६
-Her shoulders must verily be nectar
-For they refresh my life whenever I touch. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+११०६  
+Her shoulders must verily be nectar  
+For they refresh my life whenever I touch. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०६</summary>
@@ -340,14 +339,14 @@ Each embrace brings life-thrilling charms.        1106
 
 <details><summary>मूलम् - ११०६</summary>
 
-उऱुदोऱु उयिर्दळिर्प्पत् तीण्डलाल् पेदैक्कु
-अमिऴ्दिऩ् इयऩ्ऱऩ तोळ्। ११०६
+उऱुदोऱु उयिर्दळिर्प्पत् तीण्डलाल् पेदैक्कु  
+अमिऴ्दिऩ् इयऩ्ऱऩ तोळ्। ११०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०७</summary>
 
-तम्मिल् इरुन्दु तमदुबात्तु उण्डऱ्ऱाल्
-अम्मा अरिवै मुयक्कु। ११०७
+तम्मिल् इरुन्दु तमदुबात्तु उण्डऱ्ऱाल्  
+अम्मा अरिवै मुयक्कु। ११०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०७</summary>
@@ -358,10 +357,10 @@ Each embrace brings life-thrilling charms.        1106
 
 <details><summary>NVK Ashraf choice (en) - ११०७</summary>
 
-११०७
-Like sharing one’s food at one’s own home
-Is the embrace of this fair maid. *
-(K. Kannan)
+११०७  
+Like sharing one’s food at one’s own home  
+Is the embrace of this fair maid. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०७</summary>
@@ -395,14 +394,14 @@ Is like sharing one's food at home.        1107
 
 <details><summary>मूलम् - ११०७</summary>
 
-तम्मिल् इरुन्दु तमदुबात्तु उण्डऱ्ऱाल्
-अम्मा अरिवै मुयक्कु। ११०७
+तम्मिल् इरुन्दु तमदुबात्तु उण्डऱ्ऱाल्  
+अम्मा अरिवै मुयक्कु। ११०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०८</summary>
 
-वीऴुम् इरुवर्क्कु इऩिदे वळियिडै
-पोऴप् पडाअ मुयक्कु। ११०८
+वीऴुम् इरुवर्क्कु इऩिदे वळियिडै  
+पोऴप् पडाअ मुयक्कु। ११०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०८</summary>
@@ -413,10 +412,10 @@ Is like sharing one's food at home.        1107
 
 <details><summary>NVK Ashraf choice (en) - ११०८</summary>
 
-११०८
-Sweet indeed is that embrace
-Wherein not a breath comes between.
-(P.S. Sundaram)
+११०८  
+Sweet indeed is that embrace  
+Wherein not a breath comes between.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०८</summary>
@@ -450,14 +449,14 @@ Not admit e'en air between both.        1108
 
 <details><summary>मूलम् - ११०८</summary>
 
-वीऴुम् इरुवर्क्कु इऩिदे वळियिडै
-पोऴप् पडाअ मुयक्कु। ११०८
+वीऴुम् इरुवर्क्कु इऩिदे वळियिडै  
+पोऴप् पडाअ मुयक्कु। ११०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११०९</summary>
 
-ऊडल् उणर्दल् पुणर्दल् इवैगामम्
-कूडियार् पॆऱ्ऱ पयऩ्। ११०९
+ऊडल् उणर्दल् पुणर्दल् इवैगामम्  
+कूडियार् पॆऱ्ऱ पयऩ्। ११०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११०९</summary>
@@ -468,10 +467,10 @@ Not admit e'en air between both.        1108
 
 <details><summary>NVK Ashraf choice (en) - ११०९</summary>
 
-११०९
-To fall out, make up, and unite again are the gains
-Reaped by those obsessed with love. *
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+११०९  
+To fall out, make up, and unite again are the gains  
+Reaped by those obsessed with love. *  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११०९</summary>
@@ -505,14 +504,14 @@ These three are sweets of lover's tryst.        1109
 
 <details><summary>मूलम् - ११०९</summary>
 
-ऊडल् उणर्दल् पुणर्दल् इवैगामम्
-कूडियार् पॆऱ्ऱ पयऩ्। ११०९
+ऊडल् उणर्दल् पुणर्दल् इवैगामम्  
+कूडियार् पॆऱ्ऱ पयऩ्। ११०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १११०</summary>
 
-अऱिदोऱु अऱियामै कण्डऱ्ऱाल् कामम्
-सॆऱिदोऱुम् सेयिऴै माट्टु। १११०
+अऱिदोऱु अऱियामै कण्डऱ्ऱाल् कामम्  
+सॆऱिदोऱुम् सेयिऴै माट्टु। १११०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११०</summary>
@@ -523,10 +522,10 @@ These three are sweets of lover's tryst.        1109
 
 <details><summary>NVK Ashraf choice (en) - १११०</summary>
 
-१११०
-The more you indulge, the more you realize your ignorance.
-Be it love or learning.
-(N.V.K. Ashraf)
+१११०  
+The more you indulge, the more you realize your ignorance.  
+Be it love or learning.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १११०</summary>
@@ -559,7 +558,7 @@ So is the belle as love gets close.        1110
 
 <details><summary>मूलम् - १११०</summary>
 
-अऱिदोऱु अऱियामै कण्डऱ्ऱाल् कामम्
-सॆऱिदोऱुम् सेयिऴै माट्टु। १११०
+अऱिदोऱु अऱियामै कण्डऱ्ऱाल् कामम्  
+सॆऱिदोऱुम् सेयिऴै माट्टु। १११०  
 </details>
 

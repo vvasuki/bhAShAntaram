@@ -3,11 +3,10 @@ title = "२१ ऒऱ्ऱाडल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५८१</summary>
 
-ऒऱ्ऱुम् उरैसाऩ्ऱ नूलुम् इवैयिरण्डुम्
-तॆऱ्ऱॆऩ्क मऩ्ऩवऩ् कण्। ५८१
+ऒऱ्ऱुम् उरैसाऩ्ऱ नूलुम् इवैयिरण्डुम्  
+तॆऱ्ऱॆऩ्क मऩ्ऩवऩ् कण्। ५८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८१</summary>
@@ -19,10 +18,10 @@ title = "२१ ऒऱ्ऱाडल्"
 
 <details><summary>NVK Ashraf choice (en) - ५८१</summary>
 
-०५८१
-Spies and classics on statecraft:
-These two are a king's pair of eyes. *
-(P.S. Sundaram)
+०५८१  
+Spies and classics on statecraft:  
+These two are a king's pair of eyes. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८१</summary>
@@ -56,14 +55,14 @@ The code of laws and careful spies.        581
 
 <details><summary>मूलम् - ५८१</summary>
 
-ऒऱ्ऱुम् उरैसाऩ्ऱ नूलुम् इवैयिरण्डुम्
-तॆऱ्ऱॆऩ्क मऩ्ऩवऩ् कण्। ५८१
+ऒऱ्ऱुम् उरैसाऩ्ऱ नूलुम् इवैयिरण्डुम्  
+तॆऱ्ऱॆऩ्क मऩ्ऩवऩ् कण्। ५८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८२</summary>
 
-ऎल्लार्क्कुम् ऎल्लाम् निगऴ्बवै ऎञ्ञाऩ्ऱुम्
-वल्लऱिदल् वेन्दऩ् तॊऴिल्। ५८२
+ऎल्लार्क्कुम् ऎल्लाम् निगऴ्बवै ऎञ्ञाऩ्ऱुम्  
+वल्लऱिदल् वेन्दऩ् तॊऴिल्। ५८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८२</summary>
@@ -74,10 +73,10 @@ The code of laws and careful spies.        581
 
 <details><summary>NVK Ashraf choice (en) - ५८२</summary>
 
-०५८२
-A king's job is to know in time everything
-That happens to everyone every day. *
-(P.S. Sundaram)
+०५८२  
+A king's job is to know in time everything  
+That happens to everyone every day. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८२</summary>
@@ -112,14 +111,14 @@ The king should know in full detail.        582
 
 <details><summary>मूलम् - ५८२</summary>
 
-ऎल्लार्क्कुम् ऎल्लाम् निगऴ्बवै ऎञ्ञाऩ्ऱुम्
-वल्लऱिदल् वेन्दऩ् तॊऴिल्। ५८२
+ऎल्लार्क्कुम् ऎल्लाम् निगऴ्बवै ऎञ्ञाऩ्ऱुम्  
+वल्लऱिदल् वेन्दऩ् तॊऴिल्। ५८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८३</summary>
 
-ऒऱ्ऱिऩाऩ् ऒऱ्ऱिप् पॊरुळ्दॆरिया मऩ्ऩवऩ्
-कॊऱ्ऱङ् गॊळक्किडन्ददु इल्। ५८३
+ऒऱ्ऱिऩाऩ् ऒऱ्ऱिप् पॊरुळ्दॆरिया मऩ्ऩवऩ्  
+कॊऱ्ऱङ् गॊळक्किडन्ददु इल्। ५८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८३</summary>
@@ -130,10 +129,10 @@ The king should know in full detail.        582
 
 <details><summary>NVK Ashraf choice (en) - ५८३</summary>
 
-०५८३
-No king has ever succeeded
-Without considering the news of the spies.
-(N.V.K. Ashraf)
+०५८३  
+No king has ever succeeded  
+Without considering the news of the spies.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८३</summary>
@@ -168,14 +167,14 @@ Who cares not for the Spy's remark.        583
 
 <details><summary>मूलम् - ५८३</summary>
 
-ऒऱ्ऱिऩाऩ् ऒऱ्ऱिप् पॊरुळ्दॆरिया मऩ्ऩवऩ्
-कॊऱ्ऱङ् गॊळक्किडन्ददु इल्। ५८३
+ऒऱ्ऱिऩाऩ् ऒऱ्ऱिप् पॊरुळ्दॆरिया मऩ्ऩवऩ्  
+कॊऱ्ऱङ् गॊळक्किडन्ददु इल्। ५८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८४</summary>
 
-विऩैसॆय्वार् तंसुऱ्ऱम् वेण्डादार् ऎऩ्ऱाङ्गु
-अऩैवरैयुम् आराय्वदु ऒऱ्ऱु। ५८४
+विऩैसॆय्वार् तंसुऱ्ऱम् वेण्डादार् ऎऩ्ऱाङ्गु  
+अऩैवरैयुम् आराय्वदु ऒऱ्ऱु। ५८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८४</summary>
@@ -186,10 +185,10 @@ Who cares not for the Spy's remark.        583
 
 <details><summary>NVK Ashraf choice (en) - ५८४</summary>
 
-०५८४
-Employees, kinsmen and enemies
-Are the people a spy should cover.
-(P.S. Sundaram)
+०५८४  
+Employees, kinsmen and enemies  
+Are the people a spy should cover.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८४</summary>
@@ -224,14 +223,14 @@ Who watch keenly are worthy spies.        584
 
 <details><summary>मूलम् - ५८४</summary>
 
-विऩैसॆय्वार् तंसुऱ्ऱम् वेण्डादार् ऎऩ्ऱाङ्गु
-अऩैवरैयुम् आराय्वदु ऒऱ्ऱु। ५८४
+विऩैसॆय्वार् तंसुऱ्ऱम् वेण्डादार् ऎऩ्ऱाङ्गु  
+अऩैवरैयुम् आराय्वदु ऒऱ्ऱु। ५८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८५</summary>
 
-कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्
-उगाअमै वल्लदे ऒऱ्ऱु। ५८५
+कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्  
+उगाअमै वल्लदे ऒऱ्ऱु। ५८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८५</summary>
@@ -242,10 +241,10 @@ Who watch keenly are worthy spies.        584
 
 <details><summary>NVK Ashraf choice (en) - ५८५</summary>
 
-०५८५
-Able spies are always elusive
-With perfect guise and fearless eyes.
-(N.V.K. Ashraf)
+०५८५  
+Able spies are always elusive  
+With perfect guise and fearless eyes.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८५</summary>
@@ -280,14 +279,14 @@ Guarding secrets mark the spies.        585
 
 <details><summary>मूलम् - ५८५</summary>
 
-कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्
-उगाअमै वल्लदे ऒऱ्ऱु। ५८५
+कडाअ उरुवॊडु कण्णञ्जादु याण्डुम्  
+उगाअमै वल्लदे ऒऱ्ऱु। ५८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८६</summary>
 
-तुऱन्दार् पडिवत्त रागि इऱन्दाराय्न्दु
-ऎऩ्सॆयिऩुम् सोर्विलदु ऒऱ्ऱु। ५८६
+तुऱन्दार् पडिवत्त रागि इऱन्दाराय्न्दु  
+ऎऩ्सॆयिऩुम् सोर्विलदु ऒऱ्ऱु। ५८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८६</summary>
@@ -298,10 +297,10 @@ Guarding secrets mark the spies.        585
 
 <details><summary>NVK Ashraf choice (en) - ५८६</summary>
 
-०५८६
-Disguised as a monk a spy should probe all places
-Unperturbed despite hardships. *
-(N.V.K. Ashraf), (Satguru Subramuniyaswami)
+०५८६  
+Disguised as a monk a spy should probe all places  
+Unperturbed despite hardships. *  
+(N.V.K. Ashraf), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८६</summary>
@@ -336,14 +335,14 @@ They betray them not under threats.        586
 
 <details><summary>मूलम् - ५८६</summary>
 
-तुऱन्दार् पडिवत्त रागि इऱन्दाराय्न्दु
-ऎऩ्सॆयिऩुम् सोर्विलदु ऒऱ्ऱु। ५८६
+तुऱन्दार् पडिवत्त रागि इऱन्दाराय्न्दु  
+ऎऩ्सॆयिऩुम् सोर्विलदु ऒऱ्ऱु। ५८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८७</summary>
 
-मऱैन्दवै केट्कवऱ् ऱागि अऱिन्दवै
-ऐयप्पाडु इल्लदे ऒऱ्ऱु। ५८७
+मऱैन्दवै केट्कवऱ् ऱागि अऱिन्दवै  
+ऐयप्पाडु इल्लदे ऒऱ्ऱु। ५८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८७</summary>
@@ -354,10 +353,10 @@ They betray them not under threats.        586
 
 <details><summary>NVK Ashraf choice (en) - ५८७</summary>
 
-०५८७
-A spy should ferret out hidden facts
-And get them verified beyond doubt.
-(Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)
+०५८७  
+A spy should ferret out hidden facts  
+And get them verified beyond doubt.  
+(Satguru Subramuniyaswami), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८७</summary>
@@ -392,14 +391,14 @@ Beyond a doubt he clears his facts.        587
 
 <details><summary>मूलम् - ५८७</summary>
 
-मऱैन्दवै केट्कवऱ् ऱागि अऱिन्दवै
-ऐयप्पाडु इल्लदे ऒऱ्ऱु। ५८७
+मऱैन्दवै केट्कवऱ् ऱागि अऱिन्दवै  
+ऐयप्पाडु इल्लदे ऒऱ्ऱु। ५८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८८</summary>
 
-ऒऱ्ऱॊऱ्ऱित् तन्द पॊरुळैयुम् मऱ्ऱुमोर्
-ऒऱ्ऱिऩाल् ऒऱ्ऱिक् कॊळल्। ५८८
+ऒऱ्ऱॊऱ्ऱित् तन्द पॊरुळैयुम् मऱ्ऱुमोर्  
+ऒऱ्ऱिऩाल् ऒऱ्ऱिक् कॊळल्। ५८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८८</summary>
@@ -410,10 +409,10 @@ Beyond a doubt he clears his facts.        587
 
 <details><summary>NVK Ashraf choice (en) - ५८८</summary>
 
-०५८८
-Even what one spy has spied
-Must be spied through another. *
-(P.S. Sundaram)
+०५८८  
+Even what one spy has spied  
+Must be spied through another. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८८</summary>
@@ -448,14 +447,14 @@ By another spy verify.        588
 
 <details><summary>मूलम् - ५८८</summary>
 
-ऒऱ्ऱॊऱ्ऱित् तन्द पॊरुळैयुम् मऱ्ऱुमोर्
-ऒऱ्ऱिऩाल् ऒऱ्ऱिक् कॊळल्। ५८८
+ऒऱ्ऱॊऱ्ऱित् तन्द पॊरुळैयुम् मऱ्ऱुमोर्  
+ऒऱ्ऱिऩाल् ऒऱ्ऱिक् कॊळल्। ५८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५८९</summary>
 
-ऒऱ्ऱॆऱ् ऱुणरामै आळ्ग उडऩ्मूवर्
-सॊऱ्ऱॊक्क तेऱप् पडुम्। ५८९
+ऒऱ्ऱॆऱ् ऱुणरामै आळ्ग उडऩ्मूवर्  
+सॊऱ्ऱॊक्क तेऱप् पडुम्। ५८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५८९</summary>
@@ -466,10 +465,10 @@ By another spy verify.        588
 
 <details><summary>NVK Ashraf choice (en) - ५८९</summary>
 
-०५८९
-Let not one spy know another.
-And act when three spies agree.
-(P.S. Sundaram)
+०५८९  
+Let not one spy know another.  
+And act when three spies agree.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५८९</summary>
@@ -504,14 +503,14 @@ When three agree confirm report.        589
 
 <details><summary>मूलम् - ५८९</summary>
 
-ऒऱ्ऱॆऱ् ऱुणरामै आळ्ग उडऩ्मूवर्
-सॊऱ्ऱॊक्क तेऱप् पडुम्। ५८९
+ऒऱ्ऱॆऱ् ऱुणरामै आळ्ग उडऩ्मूवर्  
+सॊऱ्ऱॊक्क तेऱप् पडुम्। ५८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५९०</summary>
 
-सिऱप्पऱिय ऒऱ्ऱिऩ्कण् सॆय्यऱ्क सॆय्यिऩ्
-पुऱप्पडुत्ताऩ् आगुम् मऱै। ५९०
+सिऱप्पऱिय ऒऱ्ऱिऩ्कण् सॆय्यऱ्क सॆय्यिऩ्  
+पुऱप्पडुत्ताऩ् आगुम् मऱै। ५९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५९०</summary>
@@ -522,10 +521,10 @@ When three agree confirm report.        589
 
 <details><summary>NVK Ashraf choice (en) - ५९०</summary>
 
-०५९०
-Never honour a spy in public
-Lest your secret should be out.
-(P.S. Sundaram)
+०५९०  
+Never honour a spy in public  
+Lest your secret should be out.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५९०</summary>
@@ -559,7 +558,7 @@ It would divulge the secret heard!        590
 
 <details><summary>मूलम् - ५९०</summary>
 
-सिऱप्पऱिय ऒऱ्ऱिऩ्कण् सॆय्यऱ्क सॆय्यिऩ्
-पुऱप्पडुत्ताऩ् आगुम् मऱै। ५९०
+सिऱप्पऱिय ऒऱ्ऱिऩ्कण् सॆय्यऱ्क सॆय्यिऩ्  
+पुऱप्पडुत्ताऩ् आगुम् मऱै। ५९०  
 </details>
 

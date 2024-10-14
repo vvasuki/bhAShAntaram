@@ -3,11 +3,10 @@ title = "११ पेदैमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८३१</summary>
 
-पेदैमै ऎऩ्पदॊऩ्ऱु यादॆऩिऩ् एदङ्गॊण्डु
-ऊदियम् पोग विडल्। ८३१
+पेदैमै ऎऩ्पदॊऩ्ऱु यादॆऩिऩ् एदङ्गॊण्डु  
+ऊदियम् पोग विडल्। ८३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३१</summary>
@@ -19,10 +18,10 @@ title = "११ पेदैमै"
 
 <details><summary>NVK Ashraf choice (en) - ८३१</summary>
 
-०८३१
-If there is a thing called folly,
-It is seizing what brings ill and letting the good slip. *
-(P.S. Sundaram)
+०८३१  
+If there is a thing called folly,  
+It is seizing what brings ill and letting the good slip. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३१</summary>
@@ -56,14 +55,14 @@ To favour loss and forego gain.        831
 
 <details><summary>मूलम् - ८३१</summary>
 
-पेदैमै ऎऩ्पदॊऩ्ऱु यादॆऩिऩ् एदङ्गॊण्डु
-ऊदियम् पोग विडल्। ८३१
+पेदैमै ऎऩ्पदॊऩ्ऱु यादॆऩिऩ् एदङ्गॊण्डु  
+ऊदियम् पोग विडल्। ८३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३२</summary>
 
-पेदैमैयुळ् ऎल्लाम् पेदैमै कादऩ्मै
-कैयल्ल तऩ्कट् चॆयल्। ८३२
+पेदैमैयुळ् ऎल्लाम् पेदैमै कादऩ्मै  
+कैयल्ल तऩ्कट् चॆयल्। ८३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३२</summary>
@@ -74,10 +73,10 @@ To favour loss and forego gain.        831
 
 <details><summary>NVK Ashraf choice (en) - ८३२</summary>
 
-०८३२
-Folly among follies is the fondness for doing things
-Beyond one's reach. *
-(J. Narayanaswamy), (C. Rajagopalachari)
+०८३२  
+Folly among follies is the fondness for doing things  
+Beyond one's reach. *  
+(J. Narayanaswamy), (C. Rajagopalachari)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८३२</summary>
@@ -116,14 +115,14 @@ A lewd and lawless life so bad.        832
 
 <details><summary>मूलम् - ८३२</summary>
 
-पेदैमैयुळ् ऎल्लाम् पेदैमै कादऩ्मै
-कैयल्ल तऩ्कट् चॆयल्। ८३२
+पेदैमैयुळ् ऎल्लाम् पेदैमै कादऩ्मै  
+कैयल्ल तऩ्कट् चॆयल्। ८३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३३</summary>
 
-नाणामै नाडामै नारिऩ्मै यादॊऩ्ऱुम्
-पेणामै पेदै तॊऴिल् ८३३
+नाणामै नाडामै नारिऩ्मै यादॊऩ्ऱुम्  
+पेणामै पेदै तॊऴिल् ८३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३३</summary>
@@ -134,10 +133,10 @@ A lewd and lawless life so bad.        832
 
 <details><summary>NVK Ashraf choice (en) - ८३३</summary>
 
-०८३३
-Shamelessness, aimlessness, callousness and listlessness
-Are marks of foolishness. *
-( Shuddhananda Bharatiar)
+०८३३  
+Shamelessness, aimlessness, callousness and listlessness  
+Are marks of foolishness. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३३</summary>
@@ -171,14 +170,14 @@ Such are the marks of foolishness.        833
 
 <details><summary>मूलम् - ८३३</summary>
 
-नाणामै नाडामै नारिऩ्मै यादॊऩ्ऱुम्
-पेणामै पेदै तॊऴिल् ८३३
+नाणामै नाडामै नारिऩ्मै यादॊऩ्ऱुम्  
+पेणामै पेदै तॊऴिल् ८३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३४</summary>
 
-ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् ताऩटङ्गाप्
-पेदैयिऩ् पेदैयार् इल्। ८३४
+ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् ताऩटङ्गाप्  
+पेदैयिऩ् पेदैयार् इल्। ८३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३४</summary>
@@ -189,10 +188,10 @@ Such are the marks of foolishness.        833
 
 <details><summary>NVK Ashraf choice (en) - ८३४</summary>
 
-०८३४
-There is no greater fool than he
-Who has studied and taught, but lacks control.
-(P.S. Sundaram)
+०८३४  
+There is no greater fool than he  
+Who has studied and taught, but lacks control.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३४</summary>
@@ -226,14 +225,14 @@ Knows, teaches, but self-control spurns.        834
 
 <details><summary>मूलम् - ८३४</summary>
 
-ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् ताऩटङ्गाप्
-पेदैयिऩ् पेदैयार् इल्। ८३४
+ओदि उणर्न्दुम् पिऱर् क्कुरैत्तुम् ताऩटङ्गाप्  
+पेदैयिऩ् पेदैयार् इल्। ८३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३५</summary>
 
-ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्
-ताऩ्पुक् कऴुन्दुम् अळऱु। ८३५
+ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्  
+ताऩ्पुक् कऴुन्दुम् अळऱु। ८३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३५</summary>
@@ -244,10 +243,10 @@ Knows, teaches, but self-control spurns.        834
 
 <details><summary>NVK Ashraf choice (en) - ८३५</summary>
 
-०८३५
-A fool does deeds in a single birth
-That will plunge him in hell in the succeeding seven.
-(P.S. Sundaram)
+०८३५  
+A fool does deeds in a single birth  
+That will plunge him in hell in the succeeding seven.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३५</summary>
@@ -281,14 +280,14 @@ In single birth of hellish ills.        835
 
 <details><summary>मूलम् - ८३५</summary>
 
-ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्
-ताऩ्पुक् कऴुन्दुम् अळऱु। ८३५
+ऒरुमैच् चॆयलाऱ्ऱुम् पेदै ऎऴुमैयुम्  
+ताऩ्पुक् कऴुन्दुम् अळऱु। ८३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३६</summary>
 
-पॊय्बडुम् ऒऩ्ऱो पुऩैबूणुम् कैयऱियाप्
-पेदै विऩैमेऱ् कॊळिऩ्। ८३६
+पॊय्बडुम् ऒऩ्ऱो पुऩैबूणुम् कैयऱियाप्  
+पेदै विऩैमेऱ् कॊळिऩ्। ८३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३६</summary>
@@ -299,10 +298,10 @@ In single birth of hellish ills.        835
 
 <details><summary>NVK Ashraf choice (en) - ८३६</summary>
 
-०८३६
-When a half-baked fool takes on a task,
-The task is undone, and so is he! *
-(P.S. Sundaram)
+०८३६  
+When a half-baked fool takes on a task,  
+The task is undone, and so is he! *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३६</summary>
@@ -336,14 +335,14 @@ Not only fails but feels fettered.        836
 
 <details><summary>मूलम् - ८३६</summary>
 
-पॊय्बडुम् ऒऩ्ऱो पुऩैबूणुम् कैयऱियाप्
-पेदै विऩैमेऱ् कॊळिऩ्। ८३६
+पॊय्बडुम् ऒऩ्ऱो पुऩैबूणुम् कैयऱियाप्  
+पेदै विऩैमेऱ् कॊळिऩ्। ८३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३७</summary>
 
-एदिलार् आरत् तमर्बसिप्पर् पेदै
-पॆरुञ्जॆल्वम् उऱ्ऱक् कडै। ८३७
+एदिलार् आरत् तमर्बसिप्पर् पेदै  
+पॆरुञ्जॆल्वम् उऱ्ऱक् कडै। ८३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३७</summary>
@@ -354,10 +353,10 @@ Not only fails but feels fettered.        836
 
 <details><summary>NVK Ashraf choice (en) - ८३७</summary>
 
-०८३७
-Should a fool get hold of a great fortune,
-Strangers will feast while his kindred starve. *
-(V.V.S. Aiyar)
+०८३७  
+Should a fool get hold of a great fortune,  
+Strangers will feast while his kindred starve. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३७</summary>
@@ -391,14 +390,14 @@ When fools mishandle fortunes vast.        837
 
 <details><summary>मूलम् - ८३७</summary>
 
-एदिलार् आरत् तमर्बसिप्पर् पेदै
-पॆरुञ्जॆल्वम् उऱ्ऱक् कडै। ८३७
+एदिलार् आरत् तमर्बसिप्पर् पेदै  
+पॆरुञ्जॆल्वम् उऱ्ऱक् कडै। ८३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३८</summary>
 
-मैयल् ऒरुवऩ् कळित्तऱ्ऱाल् पेदैदऩ्
-कैयॊऩ्ऱु उडैमै पॆऱिऩ्। ८३८
+मैयल् ऒरुवऩ् कळित्तऱ्ऱाल् पेदैदऩ्  
+कैयॊऩ्ऱु उडैमै पॆऱिऩ्। ८३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३८</summary>
@@ -409,10 +408,10 @@ When fools mishandle fortunes vast.        837
 
 <details><summary>NVK Ashraf choice (en) - ८३८</summary>
 
-०८३८
-A fool getting hold of wealth
-Is like a lunatic getting drunk.
-(P.S. Sundaram)
+०८३८  
+A fool getting hold of wealth  
+Is like a lunatic getting drunk.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३८</summary>
@@ -446,14 +445,14 @@ Like dazed and drunken stupids stand.        838
 
 <details><summary>मूलम् - ८३८</summary>
 
-मैयल् ऒरुवऩ् कळित्तऱ्ऱाल् पेदैदऩ्
-कैयॊऩ्ऱु उडैमै पॆऱिऩ्। ८३८
+मैयल् ऒरुवऩ् कळित्तऱ्ऱाल् पेदैदऩ्  
+कैयॊऩ्ऱु उडैमै पॆऱिऩ्। ८३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८३९</summary>
 
-पॆरिदिऩिदु पेदैयार् केण्मै पिरिविऩ्कण्
-पीऴै तरुवदॊऩ् ऱिल्। ८३९
+पॆरिदिऩिदु पेदैयार् केण्मै पिरिविऩ्कण्  
+पीऴै तरुवदॊऩ् ऱिल्। ८३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८३९</summary>
@@ -464,10 +463,10 @@ Like dazed and drunken stupids stand.        838
 
 <details><summary>NVK Ashraf choice (en) - ८३९</summary>
 
-०८३९
-Sweet indeed is a fool's friendship,
-For when it breaks there is no pain.
-(P.S. Sundaram)
+०८३९  
+Sweet indeed is a fool's friendship,  
+For when it breaks there is no pain.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८३९</summary>
@@ -501,14 +500,14 @@ For without a groan we part.        839
 
 <details><summary>मूलम् - ८३९</summary>
 
-पॆरिदिऩिदु पेदैयार् केण्मै पिरिविऩ्कण्
-पीऴै तरुवदॊऩ् ऱिल्। ८३९
+पॆरिदिऩिदु पेदैयार् केण्मै पिरिविऩ्कण्  
+पीऴै तरुवदॊऩ् ऱिल्। ८३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४०</summary>
 
-कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्
-कुऴाअत्तुप् पेदै पुगल्। ८४०
+कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्  
+कुऴाअत्तुप् पेदै पुगल्। ८४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४०</summary>
@@ -519,10 +518,10 @@ For without a groan we part.        839
 
 <details><summary>NVK Ashraf choice (en) - ८४०</summary>
 
-०८४०
-A fool's entry into a learned assembly
-Is like entering a shrine with unclean legs.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०८४०  
+A fool's entry into a learned assembly  
+Is like entering a shrine with unclean legs.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८४०</summary>
@@ -560,7 +559,7 @@ Looks like couch trod by unclean feet.        840
 
 <details><summary>मूलम् - ८४०</summary>
 
-कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्
-कुऴाअत्तुप् पेदै पुगल्। ८४०
+कऴाअक्काल् पळ्ळियुळ् वैत्तऱ्ऱाल् साऩ्ऱोर्  
+कुऴाअत्तुप् पेदै पुगल्। ८४०  
 </details>
 

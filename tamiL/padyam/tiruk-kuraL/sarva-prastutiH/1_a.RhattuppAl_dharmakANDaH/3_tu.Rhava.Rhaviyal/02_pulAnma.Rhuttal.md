@@ -3,11 +3,10 @@ title = "०२ पुलान्मऱुत्तल्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २५१</summary>
 
-तऩ्ऩूऩ् पॆरुक्कऱ्कुत् ताऩ्पिऱिदु ऊऩुण्बाऩ्
-ऎङ्ङऩम् आळुम् अरुळ्? २५१
+तऩ्ऩूऩ् पॆरुक्कऱ्कुत् ताऩ्पिऱिदु ऊऩुण्बाऩ्  
+ऎङ्ङऩम् आळुम् अरुळ्? २५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५१</summary>
@@ -18,10 +17,10 @@ title = "०२ पुलान्मऱुत्तल्"
 
 <details><summary>NVK Ashraf choice (en) - २५१</summary>
 
-०२५१
-How can one command grace
-Who eats the flesh of others to swell his own flesh?
-(N.V.K. Ashraf)
+०२५१  
+How can one command grace  
+Who eats the flesh of others to swell his own flesh?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५१</summary>
@@ -55,14 +54,14 @@ who feeds his flesh by flesh gourmand.        251
 
 <details><summary>मूलम् - २५१</summary>
 
-तऩ्ऩूऩ् पॆरुक्कऱ्कुत् ताऩ्पिऱिदु ऊऩुण्बाऩ्
-ऎङ्ङऩम् आळुम् अरुळ्? २५१
+तऩ्ऩूऩ् पॆरुक्कऱ्कुत् ताऩ्पिऱिदु ऊऩुण्बाऩ्  
+ऎङ्ङऩम् आळुम् अरुळ्? २५१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५२</summary>
 
-पॊरुळाट्चि पोऱ्ऱादार्क्कु इल्लै अरुळाट्चि
-आङ्गिल्लै ऊऩ्तिऩ् पवर्क्कु। २५२
+पॊरुळाट्चि पोऱ्ऱादार्क्कु इल्लै अरुळाट्चि  
+आङ्गिल्लै ऊऩ्तिऩ् पवर्क्कु। २५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५२</summary>
@@ -73,10 +72,10 @@ who feeds his flesh by flesh gourmand.        251
 
 <details><summary>NVK Ashraf choice (en) - २५२</summary>
 
-०२५२
-No scope for wealth with a spendthrift.
-So too compassion with a meat eater.
-(N.V.K. Ashraf)
+०२५२  
+No scope for wealth with a spendthrift.  
+So too compassion with a meat eater.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५२</summary>
@@ -111,14 +110,14 @@ And flesh-eaters have no pity.        252
 
 <details><summary>मूलम् - २५२</summary>
 
-पॊरुळाट्चि पोऱ्ऱादार्क्कु इल्लै अरुळाट्चि
-आङ्गिल्लै ऊऩ्तिऩ् पवर्क्कु। २५२
+पॊरुळाट्चि पोऱ्ऱादार्क्कु इल्लै अरुळाट्चि  
+आङ्गिल्लै ऊऩ्तिऩ् पवर्क्कु। २५२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५३</summary>
 
-पडैगॊण्डार् नॆञ्जम्बोल् नऩ्ऩूक्कादु ऒऩ्ऱऩ्
-उडल्सुवै उण्डार् मऩम्। २५३
+पडैगॊण्डार् नॆञ्जम्बोल् नऩ्ऩूक्कादु ऒऩ्ऱऩ्  
+उडल्सुवै उण्डार् मऩम्। २५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५३</summary>
@@ -129,10 +128,10 @@ And flesh-eaters have no pity.        252
 
 <details><summary>NVK Ashraf choice (en) - २५३</summary>
 
-०२५३
-No mercy in the hearts of those armed to kill
-And those who feast on flesh.
-(N.V.K. Ashraf)
+०२५३  
+No mercy in the hearts of those armed to kill  
+And those who feast on flesh.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २५३</summary>
@@ -172,14 +171,14 @@ Who tastes body is hard-hearted.        253
 
 <details><summary>मूलम् - २५३</summary>
 
-पडैगॊण्डार् नॆञ्जम्बोल् नऩ्ऩूक्कादु ऒऩ्ऱऩ्
-उडल्सुवै उण्डार् मऩम्। २५३
+पडैगॊण्डार् नॆञ्जम्बोल् नऩ्ऩूक्कादु ऒऩ्ऱऩ्  
+उडल्सुवै उण्डार् मऩम्। २५३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५४</summary>
 
-रुळल्लदु यादॆऩिऩ् कॊल्लामै कोऱल्
-पॊरुळल्लदु अव्वूऩ् तिऩल्। २५४
+रुळल्लदु यादॆऩिऩ् कॊल्लामै कोऱल्  
+पॊरुळल्लदु अव्वूऩ् तिऩल्। २५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५४</summary>
@@ -190,10 +189,10 @@ Who tastes body is hard-hearted.        253
 
 <details><summary>NVK Ashraf choice (en) - २५४</summary>
 
-०२५४
-What is grace? It is not killing; To kill, disgrace.
-And senseless to eat that meat. *
-(P.S. Sundaram)
+०२५४  
+What is grace? It is not killing; To kill, disgrace.  
+And senseless to eat that meat. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५४</summary>
@@ -228,14 +227,14 @@ To kill and eat is disgraceful.        254
 
 <details><summary>मूलम् - २५४</summary>
 
-रुळल्लदु यादॆऩिऩ् कॊल्लामै कोऱल्
-पॊरुळल्लदु अव्वूऩ् तिऩल्। २५४
+रुळल्लदु यादॆऩिऩ् कॊल्लामै कोऱल्  
+पॊरुळल्लदु अव्वूऩ् तिऩल्। २५४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५५</summary>
 
-उण्णामै उळ्ळदु उयिर्निलै ऊऩुण्ण
-अण्णात्तल् सॆय्यादु अळऱु। २५५
+उण्णामै उळ्ळदु उयिर्निलै ऊऩुण्ण  
+अण्णात्तल् सॆय्यादु अळऱु। २५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५५</summary>
@@ -246,10 +245,10 @@ To kill and eat is disgraceful.        254
 
 <details><summary>NVK Ashraf choice (en) - २५५</summary>
 
-०२५५
-Abstain from meat to save life.
-The clenched jaws of hell hold those who don't. *
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+०२५५  
+Abstain from meat to save life.  
+The clenched jaws of hell hold those who don't. *  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५५</summary>
@@ -284,14 +283,14 @@ The eater hell's mouth shall not waive!        255
 
 <details><summary>मूलम् - २५५</summary>
 
-उण्णामै उळ्ळदु उयिर्निलै ऊऩुण्ण
-अण्णात्तल् सॆय्यादु अळऱु। २५५
+उण्णामै उळ्ळदु उयिर्निलै ऊऩुण्ण  
+अण्णात्तल् सॆय्यादु अळऱु। २५५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५६</summary>
 
-तिऩऱ्पॊरुट्टाल् कॊल्लादु उलगॆऩिऩ् यारुम्
-विलैप्पॊरुट्टाल् ऊऩ्ऱरुवा रिल्। २५६
+तिऩऱ्पॊरुट्टाल् कॊल्लादु उलगॆऩिऩ् यारुम्  
+विलैप्पॊरुट्टाल् ऊऩ्ऱरुवा रिल्। २५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५६</summary>
@@ -302,10 +301,10 @@ The eater hell's mouth shall not waive!        255
 
 <details><summary>NVK Ashraf choice (en) - २५६</summary>
 
-०२५६
-The world may say: "Meat we eat, but don't kill'.
-But no one will sell if there is none to buy. *
-(Kasthuri Sreenivasan)
+०२५६  
+The world may say: "Meat we eat, but don't kill'.  
+But no one will sell if there is none to buy. *  
+(Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २५६</summary>
@@ -345,14 +344,14 @@ For eating it if they don't wish.        256
 
 <details><summary>मूलम् - २५६</summary>
 
-तिऩऱ्पॊरुट्टाल् कॊल्लादु उलगॆऩिऩ् यारुम्
-विलैप्पॊरुट्टाल् ऊऩ्ऱरुवा रिल्। २५६
+तिऩऱ्पॊरुट्टाल् कॊल्लादु उलगॆऩिऩ् यारुम्  
+विलैप्पॊरुट्टाल् ऊऩ्ऱरुवा रिल्। २५६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५७</summary>
 
-उण्णामै वेण्डुम् पुलाअल् पिऱिदॊऩ्ऱऩ्
-पुण्णदु उणर्वार्प् पॆऱिऩ्। २५७
+उण्णामै वेण्डुम् पुलाअल् पिऱिदॊऩ्ऱऩ्  
+पुण्णदु उणर्वार्प् पॆऱिऩ्। २५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५७</summary>
@@ -363,10 +362,10 @@ For eating it if they don't wish.        256
 
 <details><summary>NVK Ashraf choice (en) - २५७</summary>
 
-०२५७
-Abstain from eating flesh realizing it
-As the wound of another *
-(Kasthuri Sreenivasan)
+०२५७  
+Abstain from eating flesh realizing it  
+As the wound of another *  
+(Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५७</summary>
@@ -400,14 +399,14 @@ If they but feel the being's pain.        257
 
 <details><summary>मूलम् - २५७</summary>
 
-उण्णामै वेण्डुम् पुलाअल् पिऱिदॊऩ्ऱऩ्
-पुण्णदु उणर्वार्प् पॆऱिऩ्। २५७
+उण्णामै वेण्डुम् पुलाअल् पिऱिदॊऩ्ऱऩ्  
+पुण्णदु उणर्वार्प् पॆऱिऩ्। २५७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५८</summary>
 
-सॆयिरिऩ् तलैप्पिरिन्द काट्चियार् उण्णार्
-उयिरिऩ् तलैप्पिरिन्द ऊऩ्। २५८
+सॆयिरिऩ् तलैप्पिरिन्द काट्चियार् उण्णार्  
+उयिरिऩ् तलैप्पिरिन्द ऊऩ्। २५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५८</summary>
@@ -418,10 +417,10 @@ If they but feel the being's pain.        257
 
 <details><summary>NVK Ashraf choice (en) - २५८</summary>
 
-०२५८
-Those visionaries freed of ignorance
-Will not feed on a flesh freed of its life.
-(N.V.K. Ashraf)
+०२५८  
+Those visionaries freed of ignorance  
+Will not feed on a flesh freed of its life.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५८</summary>
@@ -455,14 +454,14 @@ Refuse on lifeless flesh to feed.        258
 
 <details><summary>मूलम् - २५८</summary>
 
-सॆयिरिऩ् तलैप्पिरिन्द काट्चियार् उण्णार्
-उयिरिऩ् तलैप्पिरिन्द ऊऩ्। २५८
+सॆयिरिऩ् तलैप्पिरिन्द काट्चियार् उण्णार्  
+उयिरिऩ् तलैप्पिरिन्द ऊऩ्। २५८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २५९</summary>
 
-अविसॊरिन् दायिरम् वेट्टलिऩ् ऒऩ्ऱऩ्
-उयिर्सॆगुत् तुण्णामै नऩ्ऱु। २५९
+अविसॊरिन् दायिरम् वेट्टलिऩ् ऒऩ्ऱऩ्  
+उयिर्सॆगुत् तुण्णामै नऩ्ऱु। २५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २५९</summary>
@@ -473,10 +472,10 @@ Refuse on lifeless flesh to feed.        258
 
 <details><summary>NVK Ashraf choice (en) - २५९</summary>
 
-०२५९
-Better than a thousand burnt offerings
-Is one life un-killed, un-eaten.
-(P.S. Sundaram)
+०२५९  
+Better than a thousand burnt offerings  
+Is one life un-killed, un-eaten.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २५९</summary>
@@ -511,14 +510,14 @@ Excels thousand pourings of ghee!        259
 
 <details><summary>मूलम् - २५९</summary>
 
-अविसॊरिन् दायिरम् वेट्टलिऩ् ऒऩ्ऱऩ्
-उयिर्सॆगुत् तुण्णामै नऩ्ऱु। २५९
+अविसॊरिन् दायिरम् वेट्टलिऩ् ऒऩ्ऱऩ्  
+उयिर्सॆगुत् तुण्णामै नऩ्ऱु। २५९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २६०</summary>
 
-कॊल्लाऩ् पुलालै मऱुत्ताऩैक् कैगूप्पि
-ऎल्ला उयिरुन् दॊऴुम्। २६०
+कॊल्लाऩ् पुलालै मऱुत्ताऩैक् कैगूप्पि  
+ऎल्ला उयिरुन् दॊऴुम्। २६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २६०</summary>
@@ -529,10 +528,10 @@ Excels thousand pourings of ghee!        259
 
 <details><summary>NVK Ashraf choice (en) - २६०</summary>
 
-०२६०
-All living things will fold their hands
-And bow to one who refuses to kill or eat meat. *
-(P.S. Sundaram)
+०२६०  
+All living things will fold their hands  
+And bow to one who refuses to kill or eat meat. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २६०</summary>
@@ -565,7 +564,7 @@ Who eats not flesh nor kills with whim.        260
 
 <details><summary>मूलम् - २६०</summary>
 
-कॊल्लाऩ् पुलालै मऱुत्ताऩैक् कैगूप्पि
-ऎल्ला उयिरुन् दॊऴुम्। २६०
+कॊल्लाऩ् पुलालै मऱुत्ताऩैक् कैगूप्पि  
+ऎल्ला उयिरुन् दॊऴुम्। २६०  
 </details>
 

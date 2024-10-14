@@ -3,11 +3,10 @@ title = "१३ तॆरिन्दुदॆळिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५०१</summary>
 
-अऱम्बॊरुळ् इऩ्पम् उयिरच्चम् नाऩ्किऩ्
-तिऱन्दॆरिन्दु तेऱप् पडुम्। ५०१
+अऱम्बॊरुळ् इऩ्पम् उयिरच्चम् नाऩ्किऩ्  
+तिऱन्दॆरिन्दु तेऱप् पडुम्। ५०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०१</summary>
@@ -18,10 +17,10 @@ title = "१३ तॆरिन्दुदॆळिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ५०१</summary>
 
-०५०१
-Before you trust, test people's attitude to these four:
-Virtue, wealth, love and survival. *
-(J. Narayanaswamy)
+०५०१  
+Before you trust, test people's attitude to these four:  
+Virtue, wealth, love and survival. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०१</summary>
@@ -55,14 +54,14 @@ Test by these four and trust the true.        501
 
 <details><summary>मूलम् - ५०१</summary>
 
-अऱम्बॊरुळ् इऩ्पम् उयिरच्चम् नाऩ्किऩ्
-तिऱन्दॆरिन्दु तेऱप् पडुम्। ५०१
+अऱम्बॊरुळ् इऩ्पम् उयिरच्चम् नाऩ्किऩ्  
+तिऱन्दॆरिन्दु तेऱप् पडुम्। ५०१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०२</summary>
 
-कुडिप्पिऱन्दु कुऱ्ऱत्तिऩ् नीङ्गि वडुप्परियुम्
-नाणुडैयाऩ् सुट्टे तॆळिवु। ५०२
+कुडिप्पिऱन्दु कुऱ्ऱत्तिऩ् नीङ्गि वडुप्परियुम्  
+नाणुडैयाऩ् सुट्टे तॆळिवु। ५०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०२</summary>
@@ -73,10 +72,10 @@ Test by these four and trust the true.        501
 
 <details><summary>NVK Ashraf choice (en) - ५०२</summary>
 
-०५०२
-Noble heritage, freedom from faults and shame of blame
-Are some norms to choose.
-(J. Narayanaswamy)
+०५०२  
+Noble heritage, freedom from faults and shame of blame  
+Are some norms to choose.  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०२</summary>
@@ -110,14 +109,14 @@ Shamed of stain-that choice is worth.        502
 
 <details><summary>मूलम् - ५०२</summary>
 
-कुडिप्पिऱन्दु कुऱ्ऱत्तिऩ् नीङ्गि वडुप्परियुम्
-नाणुडैयाऩ् सुट्टे तॆळिवु। ५०२
+कुडिप्पिऱन्दु कुऱ्ऱत्तिऩ् नीङ्गि वडुप्परियुम्  
+नाणुडैयाऩ् सुट्टे तॆळिवु। ५०२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०३</summary>
 
-अरियगऱ्ऱु आसऱ्ऱार् कण्णुम् तॆरियुङ्गाल्
-इऩ्मै अरिदे वॆळिऱु। ५०३
+अरियगऱ्ऱु आसऱ्ऱार् कण्णुम् तॆरियुङ्गाल्  
+इऩ्मै अरिदे वॆळिऱु। ५०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०३</summary>
@@ -128,10 +127,10 @@ Shamed of stain-that choice is worth.        502
 
 <details><summary>NVK Ashraf choice (en) - ५०३</summary>
 
-०५०३
-Even the widely-read and faultless, when scrutinized,
-Are rarely found free of ignorance.
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०५०३  
+Even the widely-read and faultless, when scrutinized,  
+Are rarely found free of ignorance.  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०३</summary>
@@ -165,14 +164,14 @@ Rare is freedom from ignorance.        503
 
 <details><summary>मूलम् - ५०३</summary>
 
-अरियगऱ्ऱु आसऱ्ऱार् कण्णुम् तॆरियुङ्गाल्
-इऩ्मै अरिदे वॆळिऱु। ५०३
+अरियगऱ्ऱु आसऱ्ऱार् कण्णुम् तॆरियुङ्गाल्  
+इऩ्मै अरिदे वॆळिऱु। ५०३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०४</summary>
 
-कुणम्नाडिक् कुऱ्ऱमुम् नाडि अवऱ्ऱुळ्
-मिगैनाडि मिक्क कॊळल्। ५०४
+कुणम्नाडिक् कुऱ्ऱमुम् नाडि अवऱ्ऱुळ्  
+मिगैनाडि मिक्क कॊळल्। ५०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०४</summary>
@@ -183,10 +182,10 @@ Rare is freedom from ignorance.        503
 
 <details><summary>NVK Ashraf choice (en) - ५०४</summary>
 
-०५०४
-Weigh a man's merits and also his defects.
-Whichever weighs more is his nature.
-(V.V.S. Aiyar), (P.S. Sundaram)
+०५०४  
+Weigh a man's merits and also his defects.  
+Whichever weighs more is his nature.  
+(V.V.S. Aiyar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०४</summary>
@@ -220,14 +219,14 @@ Judge him by virtues which prevail.        504
 
 <details><summary>मूलम् - ५०४</summary>
 
-कुणम्नाडिक् कुऱ्ऱमुम् नाडि अवऱ्ऱुळ्
-मिगैनाडि मिक्क कॊळल्। ५०४
+कुणम्नाडिक् कुऱ्ऱमुम् नाडि अवऱ्ऱुळ्  
+मिगैनाडि मिक्क कॊळल्। ५०४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०५</summary>
 
-पॆरुमैक्कुम् एऩैच् चिऱुमैक्कुम् तत्तम्
-करुममे कट्टळैक् कल्। ५०५
+पॆरुमैक्कुम् एऩैच् चिऱुमैक्कुम् तत्तम्  
+करुममे कट्टळैक् कल्। ५०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०५</summary>
@@ -238,10 +237,10 @@ Judge him by virtues which prevail.        504
 
 <details><summary>NVK Ashraf choice (en) - ५०५</summary>
 
-०५०५
-A man's deeds are the touchstone of his
-Greatness and littleness.
-(W.H. Drew and J. Lazarus)
+०५०५  
+A man's deeds are the touchstone of his  
+Greatness and littleness.  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०५</summary>
@@ -275,14 +274,14 @@ If any one is great or mean.        505
 
 <details><summary>मूलम् - ५०५</summary>
 
-पॆरुमैक्कुम् एऩैच् चिऱुमैक्कुम् तत्तम्
-करुममे कट्टळैक् कल्। ५०५
+पॆरुमैक्कुम् एऩैच् चिऱुमैक्कुम् तत्तम्  
+करुममे कट्टळैक् कल्। ५०५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०६</summary>
 
-अऱ्ऱारैत् तेऱुदल् ओम्बुग मऱ्ऱवर्
-पऱ्ऱिलर् नाणार् पऴि। ५०६
+अऱ्ऱारैत् तेऱुदल् ओम्बुग मऱ्ऱवर्  
+पऱ्ऱिलर् नाणार् पऴि। ५०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०६</summary>
@@ -293,10 +292,10 @@ If any one is great or mean.        505
 
 <details><summary>NVK Ashraf choice (en) - ५०६</summary>
 
-०५०६
-Choose not men who have no kindred.
-With no bonds to restrain, they dread no shame. *
-(P.S. Sundaram), (G.U. Pope)
+०५०६  
+Choose not men who have no kindred.  
+With no bonds to restrain, they dread no shame. *  
+(P.S. Sundaram), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०६</summary>
@@ -330,14 +329,14 @@ Without affine or shame of sin.        506
 
 <details><summary>मूलम् - ५०६</summary>
 
-अऱ्ऱारैत् तेऱुदल् ओम्बुग मऱ्ऱवर्
-पऱ्ऱिलर् नाणार् पऴि। ५०६
+अऱ्ऱारैत् तेऱुदल् ओम्बुग मऱ्ऱवर्  
+पऱ्ऱिलर् नाणार् पऴि। ५०६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०७</summary>
 
-कादऩ्मै कन्दा अऱिवऱियार्त् तेऱुदल्
-पेदैमै ऎल्लान् दरुम्। ५०७
+कादऩ्मै कन्दा अऱिवऱियार्त् तेऱुदल्  
+पेदैमै ऎल्लान् दरुम्। ५०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०७</summary>
@@ -348,10 +347,10 @@ Without affine or shame of sin.        506
 
 <details><summary>NVK Ashraf choice (en) - ५०७</summary>
 
-०५०७
-To favour and select the incompetent out of love,
-Leads to folly in all forms. *
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+०५०७  
+To favour and select the incompetent out of love,  
+Leads to folly in all forms. *  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०७</summary>
@@ -385,14 +384,14 @@ Folly in all its forms ensues.        507
 
 <details><summary>मूलम् - ५०७</summary>
 
-कादऩ्मै कन्दा अऱिवऱियार्त् तेऱुदल्
-पेदैमै ऎल्लान् दरुम्। ५०७
+कादऩ्मै कन्दा अऱिवऱियार्त् तेऱुदल्  
+पेदैमै ऎल्लान् दरुम्। ५०७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०८</summary>
 
-तेराऩ् पिऱऩैत् तॆळिन्दाऩ् वऴिमुऱै
-तीरा इडुम्बै तरुम्। ५०८
+तेराऩ् पिऱऩैत् तॆळिन्दाऩ् वऴिमुऱै  
+तीरा इडुम्बै तरुम्। ५०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०८</summary>
@@ -403,10 +402,10 @@ Folly in all its forms ensues.        507
 
 <details><summary>NVK Ashraf choice (en) - ५०८</summary>
 
-०५०८
-To choose a stranger untried
-Will trouble one's line without end.
-(P.S. Sundaram)
+०५०८  
+To choose a stranger untried  
+Will trouble one's line without end.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०८</summary>
@@ -440,14 +439,14 @@ Endless troubles on all our kins.        508
 
 <details><summary>मूलम् - ५०८</summary>
 
-तेराऩ् पिऱऩैत् तॆळिन्दाऩ् वऴिमुऱै
-तीरा इडुम्बै तरुम्। ५०८
+तेराऩ् पिऱऩैत् तॆळिन्दाऩ् वऴिमुऱै  
+तीरा इडुम्बै तरुम्। ५०८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५०९</summary>
 
-ते ऱऱ्क यारैयुम् तेरादु तेर्न्दबिऩ्
-तेऱुग तेऱुम् पॊरुळ्। ५०९
+ते ऱऱ्क यारैयुम् तेरादु तेर्न्दबिऩ्  
+तेऱुग तेऱुम् पॊरुळ्। ५०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५०९</summary>
@@ -458,10 +457,10 @@ Endless troubles on all our kins.        508
 
 <details><summary>NVK Ashraf choice (en) - ५०९</summary>
 
-०५०९
-Trust none untried, and after trial
-Entrust him with the trusted job.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०५०९  
+Trust none untried, and after trial  
+Entrust him with the trusted job.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५०९</summary>
@@ -495,14 +494,14 @@ Find proper work for trusted men.        509
 
 <details><summary>मूलम् - ५०९</summary>
 
-ते ऱऱ्क यारैयुम् तेरादु तेर्न्दबिऩ्
-तेऱुग तेऱुम् पॊरुळ्। ५०९
+ते ऱऱ्क यारैयुम् तेरादु तेर्न्दबिऩ्  
+तेऱुग तेऱुम् पॊरुळ्। ५०९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५१०</summary>
 
-तेराऩ् तॆळिवुम् तॆळिन्दाऩ्कण् ऐयुऱवुम्
-तीरा इडुम्बै तरुम्। ५१०
+तेराऩ् तॆळिवुम् तॆळिन्दाऩ्कण् ऐयुऱवुम्  
+तीरा इडुम्बै तरुम्। ५१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५१०</summary>
@@ -513,10 +512,10 @@ Find proper work for trusted men.        509
 
 <details><summary>NVK Ashraf choice (en) - ५१०</summary>
 
-०५१०
-Trusting those untested and suspecting those tested,
-Both lead to endless trouble. *
-(K.R. Srinivasa Iyengar)
+०५१०  
+Trusting those untested and suspecting those tested,  
+Both lead to endless trouble. *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५१०</summary>
@@ -554,7 +553,7 @@ Both entail troubles in and out.        510
 
 <details><summary>मूलम् - ५१०</summary>
 
-तेराऩ् तॆळिवुम् तॆळिन्दाऩ्कण् ऐयुऱवुम्
-तीरा इडुम्बै तरुम्। ५१०
+तेराऩ् तॆळिवुम् तॆळिन्दाऩ्कण् ऐयुऱवुम्  
+तीरा इडुम्बै तरुम्। ५१०  
 </details>
 

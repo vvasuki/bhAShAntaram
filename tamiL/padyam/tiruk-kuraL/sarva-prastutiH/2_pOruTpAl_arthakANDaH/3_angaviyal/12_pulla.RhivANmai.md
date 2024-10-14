@@ -3,11 +3,10 @@ title = "१२ पुल्लऱिवाण्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८४१</summary>
 
-अऱिविऩ्मै इऩ्मैयुळ् इऩ्मै पिऱिदिऩ्मै
-इऩ्मैया वैया तुलगु। ८४१
+अऱिविऩ्मै इऩ्मैयुळ् इऩ्मै पिऱिदिऩ्मै  
+इऩ्मैया वैया तुलगु। ८४१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४१</summary>
@@ -19,10 +18,10 @@ title = "१२ पुल्लऱिवाण्मै"
 
 <details><summary>NVK Ashraf choice (en) - ८४१</summary>
 
-०८४१
-The lack of lacks is the lack of knowledge.
-Other lacks are not deemed such by the world.
-(P.S. Sundaram)
+०८४१  
+The lack of lacks is the lack of knowledge.  
+Other lacks are not deemed such by the world.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४१</summary>
@@ -56,14 +55,14 @@ Want of aught else the world nev'r counts.        841
 
 <details><summary>मूलम् - ८४१</summary>
 
-अऱिविऩ्मै इऩ्मैयुळ् इऩ्मै पिऱिदिऩ्मै
-इऩ्मैया वैया तुलगु। ८४१
+अऱिविऩ्मै इऩ्मैयुळ् इऩ्मै पिऱिदिऩ्मै  
+इऩ्मैया वैया तुलगु। ८४१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४२</summary>
 
-अऱिविलाऩ् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्
-इल्लै पॆऱुवाऩ् तवम्। ८४२
+अऱिविलाऩ् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्  
+इल्लै पॆऱुवाऩ् तवम्। ८४२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४२</summary>
@@ -74,10 +73,10 @@ Want of aught else the world nev'r counts.        841
 
 <details><summary>NVK Ashraf choice (en) - ८४२</summary>
 
-०८४२
-Should a fool gift a thing heartily, it is nothing but
-Due to the penance of the recipient. *
-(S. Maharajan)
+०८४२  
+Should a fool gift a thing heartily, it is nothing but  
+Due to the penance of the recipient. *  
+(S. Maharajan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४२</summary>
@@ -111,14 +110,14 @@ It comes but by getter's merit.        842
 
 <details><summary>मूलम् - ८४२</summary>
 
-अऱिविलाऩ् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्
-इल्लै पॆऱुवाऩ् तवम्। ८४२
+अऱिविलाऩ् नॆञ्जुवन्दु ईदल् पिऱिदियादुम्  
+इल्लै पॆऱुवाऩ् तवम्। ८४२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४३</summary>
 
-अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै
-सॆऱुवार्क्कुम् सॆय्दल् अरिदु। ८४३
+अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै  
+सॆऱुवार्क्कुम् सॆय्दल् अरिदु। ८४३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४३</summary>
@@ -129,10 +128,10 @@ It comes but by getter's merit.        842
 
 <details><summary>NVK Ashraf choice (en) - ८४३</summary>
 
-०८४३
-The harm fools do to themselves
-Is beyond anything their foes do to them.
-(P.S. Sundaram)
+०८४३  
+The harm fools do to themselves  
+Is beyond anything their foes do to them.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४३</summary>
@@ -166,14 +165,14 @@ Ev'n tortures of their foes indeed.        843
 
 <details><summary>मूलम् - ८४३</summary>
 
-अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै
-सॆऱुवार्क्कुम् सॆय्दल् अरिदु। ८४३
+अऱिविलार् तान्दम्मैप् पीऴिक्कुम् पीऴै  
+सॆऱुवार्क्कुम् सॆय्दल् अरिदु। ८४३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४४</summary>
 
-वॆण्मै ऎऩप्पडुव तियादॆऩिऩ् ऒण्मै
-उडैयम्याम् ऎऩ्ऩुम् सॆरुक्कु। ८४४
+वॆण्मै ऎऩप्पडुव तियादॆऩिऩ् ऒण्मै  
+उडैयम्याम् ऎऩ्ऩुम् सॆरुक्कु। ८४४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४४</summary>
@@ -184,10 +183,10 @@ Ev'n tortures of their foes indeed.        843
 
 <details><summary>NVK Ashraf choice (en) - ८४४</summary>
 
-०८४४
-What is stupidity? It is that vanity
-Which dares to declare, "I am wise."
-(Satguru Subramuniyaswami)
+०८४४  
+What is stupidity? It is that vanity  
+Which dares to declare, "I am wise."  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४४</summary>
@@ -221,14 +220,14 @@ That cries "We have sagacity"        844
 
 <details><summary>मूलम् - ८४४</summary>
 
-वॆण्मै ऎऩप्पडुव तियादॆऩिऩ् ऒण्मै
-उडैयम्याम् ऎऩ्ऩुम् सॆरुक्कु। ८४४
+वॆण्मै ऎऩप्पडुव तियादॆऩिऩ् ऒण्मै  
+उडैयम्याम् ऎऩ्ऩुम् सॆरुक्कु। ८४४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४५</summary>
 
-कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ
-वल्लदूउम् ऐयम् तरुम्। ८४५
+कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ  
+वल्लदूउम् ऐयम् तरुम्। ८४५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४५</summary>
@@ -239,10 +238,10 @@ That cries "We have sagacity"        844
 
 <details><summary>NVK Ashraf choice (en) - ८४५</summary>
 
-०८४५
-Pretence to learning not learnt,
-Calls in question the learning learnt.
-(P.S. Sundaram)
+०८४५  
+Pretence to learning not learnt,  
+Calls in question the learning learnt.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४५</summary>
@@ -276,14 +275,14 @@ Leads to doubt ev'n that he has got.        845
 
 <details><summary>मूलम् - ८४५</summary>
 
-कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ
-वल्लदूउम् ऐयम् तरुम्। ८४५
+कल्लाद मेऱ्कॊण् डॊऴुगल् कसडऱ  
+वल्लदूउम् ऐयम् तरुम्। ८४५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४६</summary>
 
-अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिऩ्
-कुऱ्ऱम् मऱैया वऴि। ८४६
+अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिऩ्  
+कुऱ्ऱम् मऱैया वऴि। ८४६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४६</summary>
@@ -294,10 +293,10 @@ Leads to doubt ev'n that he has got.        845
 
 <details><summary>NVK Ashraf choice (en) - ८४६</summary>
 
-०८४६
-Can a fool be said to be clothed
-When his faults lie exposed?
-(P.S. Sundaram)
+०८४६  
+Can a fool be said to be clothed  
+When his faults lie exposed?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४६</summary>
@@ -331,14 +330,14 @@ And yet their glaring faults reveal.        846
 
 <details><summary>मूलम् - ८४६</summary>
 
-अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिऩ्
-कुऱ्ऱम् मऱैया वऴि। ८४६
+अऱ्ऱम् मऱैत्तलो पुल्लऱिवु तंवयिऩ्  
+कुऱ्ऱम् मऱैया वऴि। ८४६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४७</summary>
 
-अरुमऱै सोरुम् अऱिविलाऩ् सॆय्युम्
-पॆरुमिऱै ताऩे तऩक्कु। ८४७
+अरुमऱै सोरुम् अऱिविलाऩ् सॆय्युम्  
+पॆरुमिऱै ताऩे तऩक्कु। ८४७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४७</summary>
@@ -349,10 +348,10 @@ And yet their glaring faults reveal.        846
 
 <details><summary>NVK Ashraf choice (en) - ८४७</summary>
 
-०८४७
-A fool who can't hold on to rare secrets
-Does great harm to himself.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०८४७  
+A fool who can't hold on to rare secrets  
+Does great harm to himself.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४७</summary>
@@ -386,14 +385,14 @@ Upon himself great harm entails.        847
 
 <details><summary>मूलम् - ८४७</summary>
 
-अरुमऱै सोरुम् अऱिविलाऩ् सॆय्युम्
-पॆरुमिऱै ताऩे तऩक्कु। ८४७
+अरुमऱै सोरुम् अऱिविलाऩ् सॆय्युम्  
+पॆरुमिऱै ताऩे तऩक्कु। ८४७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४८</summary>
 
-एववुम् सॆय्गलाऩ् ताऩ्तेऱाऩ् अव्वुयिर्
-पोऒम् अळवुमोर् नोय्। ८४८
+एववुम् सॆय्गलाऩ् ताऩ्तेऱाऩ् अव्वुयिर्  
+पोऒम् अळवुमोर् नोय्। ८४८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४८</summary>
@@ -404,10 +403,10 @@ Upon himself great harm entails.        847
 
 <details><summary>NVK Ashraf choice (en) - ८४८</summary>
 
-०८४८
-Heeds no advice; knows nothing wise;
-His life is an illness till he dies.
-(Kasthuri Sreenivasan)
+०८४८  
+Heeds no advice; knows nothing wise;  
+His life is an illness till he dies.  
+(Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४८</summary>
@@ -441,14 +440,14 @@ Plague is his life until it goes.        848
 
 <details><summary>मूलम् - ८४८</summary>
 
-एववुम् सॆय्गलाऩ् ताऩ्तेऱाऩ् अव्वुयिर्
-पोऒम् अळवुमोर् नोय्। ८४८
+एववुम् सॆय्गलाऩ् ताऩ्तेऱाऩ् अव्वुयिर्  
+पोऒम् अळवुमोर् नोय्। ८४८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८४९</summary>
 
-काणादाऩ् काट्टुवाऩ् ताऩ्काणाऩ् काणादाऩ्
-कण्डाऩाम् ताऩ्कण्ड वाऱु। ८४९
+काणादाऩ् काट्टुवाऩ् ताऩ्काणाऩ् काणादाऩ्  
+कण्डाऩाम् ताऩ्कण्ड वाऱु। ८४९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८४९</summary>
@@ -459,10 +458,10 @@ Plague is his life until it goes.        848
 
 <details><summary>NVK Ashraf choice (en) - ८४९</summary>
 
-०८४९
-He is a fool, who tries to open the eyes of a fool,
-For a fool sees things only his own way. *
-(V.V.S. Aiyar)
+०८४९  
+He is a fool, who tries to open the eyes of a fool,  
+For a fool sees things only his own way. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८४९</summary>
@@ -496,14 +495,14 @@ To the blind who bet their sight as right.        849
 
 <details><summary>मूलम् - ८४९</summary>
 
-काणादाऩ् काट्टुवाऩ् ताऩ्काणाऩ् काणादाऩ्
-कण्डाऩाम् ताऩ्कण्ड वाऱु। ८४९
+काणादाऩ् काट्टुवाऩ् ताऩ्काणाऩ् काणादाऩ्  
+कण्डाऩाम् ताऩ्कण्ड वाऱु। ८४९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५०</summary>
 
-उलगत्तार् उण्डॆऩ्पदु इल्लॆऩ्पाऩ् वैयत्तु
-अलगैया वैक्कप् पडुम्। ८५०
+उलगत्तार् उण्डॆऩ्पदु इल्लॆऩ्पाऩ् वैयत्तु  
+अलगैया वैक्कप् पडुम्। ८५०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५०</summary>
@@ -514,10 +513,10 @@ To the blind who bet their sight as right.        849
 
 <details><summary>NVK Ashraf choice (en) - ८५०</summary>
 
-०८५०
-He who denies what the world affirms
-Will be thought a demon on earth. *
-(P.S. Sundaram)
+०८५०  
+He who denies what the world affirms  
+Will be thought a demon on earth. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५०</summary>
@@ -550,7 +549,7 @@ Deemed as ghouls on earth they go.        850
 
 <details><summary>मूलम् - ८५०</summary>
 
-उलगत्तार् उण्डॆऩ्पदु इल्लॆऩ्पाऩ् वैयत्तु
-अलगैया वैक्कप् पडुम्। ८५०
+उलगत्तार् उण्डॆऩ्पदु इल्लॆऩ्पाऩ् वैयत्तु  
+अलगैया वैक्कप् पडुम्। ८५०  
 </details>
 

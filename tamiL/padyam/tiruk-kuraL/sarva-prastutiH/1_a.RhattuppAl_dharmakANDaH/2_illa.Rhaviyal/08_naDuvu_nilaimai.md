@@ -3,11 +3,10 @@ title = "०८ नडुवु निलैमै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - १११</summary>
 
-तगुदि ऎऩवॊऩ्ऱु नऩ्ऱे पगुदियाल्
-पाऱ्पट्टु ऒऴुगप् पॆऱिऩ्। १११
+तगुदि ऎऩवॊऩ्ऱु नऩ्ऱे पगुदियाल्  
+पाऱ्पट्टु ऒऴुगप् पॆऱिऩ्। १११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १११</summary>
@@ -18,10 +17,10 @@ title = "०८ नडुवु निलैमै"
 
 <details><summary>NVK Ashraf choice (en) - १११</summary>
 
-०१११
-Justice may be called good only when it acts impartially
-Regardless of the class of men. *
-(Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)
+०१११  
+Justice may be called good only when it acts impartially  
+Regardless of the class of men. *  
+(Satguru Subramuniyaswami), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १११</summary>
@@ -60,14 +59,14 @@ It is to give each man his due.         111
 
 <details><summary>मूलम् - १११</summary>
 
-तगुदि ऎऩवॊऩ्ऱु नऩ्ऱे पगुदियाल्
-पाऱ्पट्टु ऒऴुगप् पॆऱिऩ्। १११
+तगुदि ऎऩवॊऩ्ऱु नऩ्ऱे पगुदियाल्  
+पाऱ्पट्टु ऒऴुगप् पॆऱिऩ्। १११  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११२</summary>
 
-सॆप्पम् उडैयवऩ् आक्कञ् जिदैविऩ्ऱि
-ऎच्चत्तिऱ् केमाप्पु उडैत्तु। ११२
+सॆप्पम् उडैयवऩ् आक्कञ् जिदैविऩ्ऱि  
+ऎच्चत्तिऱ् केमाप्पु उडैत्तु। ११२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११२</summary>
@@ -78,10 +77,10 @@ It is to give each man his due.         111
 
 <details><summary>NVK Ashraf choice (en) - ११२</summary>
 
-०११२
-The wealth of a just man, without decline,
-Passes intact to his posterity. *
-(P.S. Sundaram)
+०११२  
+The wealth of a just man, without decline,  
+Passes intact to his posterity. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११२</summary>
@@ -115,14 +114,14 @@ Grows and lasts to posterity.         112
 
 <details><summary>मूलम् - ११२</summary>
 
-सॆप्पम् उडैयवऩ् आक्कञ् जिदैविऩ्ऱि
-ऎच्चत्तिऱ् केमाप्पु उडैत्तु। ११२
+सॆप्पम् उडैयवऩ् आक्कञ् जिदैविऩ्ऱि  
+ऎच्चत्तिऱ् केमाप्पु उडैत्तु। ११२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११३</summary>
 
-नऩ्ऱे तरिऩुम् नडुविगन्दाम् आक्कत्तै
-अऩ्ऱे यॊऴिय विडल्। ११३
+नऩ्ऱे तरिऩुम् नडुविगन्दाम् आक्कत्तै  
+अऩ्ऱे यॊऴिय विडल्। ११३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११३</summary>
@@ -133,10 +132,10 @@ Grows and lasts to posterity.         112
 
 <details><summary>NVK Ashraf choice (en) - ११३</summary>
 
-०११३
-Though profitable, turn away
-From unjust gains without delay.
-( Shuddhananda Bharatiar)
+०११३  
+Though profitable, turn away  
+From unjust gains without delay.  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११३</summary>
@@ -170,14 +169,14 @@ From unjust gains without delay.         113
 
 <details><summary>मूलम् - ११३</summary>
 
-नऩ्ऱे तरिऩुम् नडुविगन्दाम् आक्कत्तै
-अऩ्ऱे यॊऴिय विडल्। ११३
+नऩ्ऱे तरिऩुम् नडुविगन्दाम् आक्कत्तै  
+अऩ्ऱे यॊऴिय विडल्। ११३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११४</summary>
 
-तक्कार् तगविलर् ऎऩ्पदु अवरवर्
-ऎच्चत्ताऱ् काणप्प पडुम्। ११४
+तक्कार् तगविलर् ऎऩ्पदु अवरवर्  
+ऎच्चत्ताऱ् काणप्प पडुम्। ११४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११४</summary>
@@ -188,10 +187,10 @@ From unjust gains without delay.         113
 
 <details><summary>NVK Ashraf choice (en) - ११४</summary>
 
-०११४
-The just and unjust shall be known
-By what they leave behind.
-(P.S. Sundaram)
+०११४  
+The just and unjust shall be known  
+By what they leave behind.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११४</summary>
@@ -225,14 +224,14 @@ Are seen in their posterity.         114
 
 <details><summary>मूलम् - ११४</summary>
 
-तक्कार् तगविलर् ऎऩ्पदु अवरवर्
-ऎच्चत्ताऱ् काणप्प पडुम्। ११४
+तक्कार् तगविलर् ऎऩ्पदु अवरवर्  
+ऎच्चत्ताऱ् काणप्प पडुम्। ११४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११५</summary>
 
-केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्
-कोडामै साऩ्ऱोर्क् कणि। ११५
+केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्  
+कोडामै साऩ्ऱोर्क् कणि। ११५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११५</summary>
@@ -243,10 +242,10 @@ Are seen in their posterity.         114
 
 <details><summary>NVK Ashraf choice (en) - ११५</summary>
 
-०११५
-Adversity and prosperity come and go,
-But an unbiased heart adorns the noble.
-(N.V.K. Ashraf)
+०११५  
+Adversity and prosperity come and go,  
+But an unbiased heart adorns the noble.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११५</summary>
@@ -280,14 +279,14 @@ Equal mind adorns the wise.         115
 
 <details><summary>मूलम् - ११५</summary>
 
-केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्
-कोडामै साऩ्ऱोर्क् कणि। ११५
+केडुम् पॆरुक्कमुम् इल्लल्ल नॆञ्जत्तुक्  
+कोडामै साऩ्ऱोर्क् कणि। ११५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११६</summary>
 
-कॆडुवल्याऩ् ऎऩ्पदु अऱिगदऩ् नॆञ्जम्
-नडुवॊरीइ अल्ल सॆयिऩ्। ११६
+कॆडुवल्याऩ् ऎऩ्पदु अऱिगदऩ् नॆञ्जम्  
+नडुवॊरीइ अल्ल सॆयिऩ्। ११६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११६</summary>
@@ -298,10 +297,10 @@ Equal mind adorns the wise.         115
 
 <details><summary>NVK Ashraf choice (en) - ११६</summary>
 
-०११६
-If your thoughts show signs of doing injustice,
-Know that misfortune awaits you. *
-(C. Rajagopalachari)
+०११६  
+If your thoughts show signs of doing injustice,  
+Know that misfortune awaits you. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११६</summary>
@@ -335,14 +334,14 @@ Who leaves justice to sinful lure.         116
 
 <details><summary>मूलम् - ११६</summary>
 
-कॆडुवल्याऩ् ऎऩ्पदु अऱिगदऩ् नॆञ्जम्
-नडुवॊरीइ अल्ल सॆयिऩ्। ११६
+कॆडुवल्याऩ् ऎऩ्पदु अऱिगदऩ् नॆञ्जम्  
+नडुवॊरीइ अल्ल सॆयिऩ्। ११६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११७</summary>
 
-कॆडुवाग वैयादु उलगम् नडुवाग
-नऩ्ऱिक्कण् तङ्गियाऩ् ताऴ्वु। ११७
+कॆडुवाग वैयादु उलगम् नडुवाग  
+नऩ्ऱिक्कण् तङ्गियाऩ् ताऴ्वु। ११७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७</summary>
@@ -353,10 +352,10 @@ Who leaves justice to sinful lure.         116
 
 <details><summary>NVK Ashraf choice (en) - ११७</summary>
 
-०११७
-The world will not deem as poverty
-The low estate of virtuous men who dwell in equity. *
-(W.H. Drew and J. Lazarus)
+०११७  
+The world will not deem as poverty  
+The low estate of virtuous men who dwell in equity. *  
+(W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७</summary>
@@ -390,14 +389,14 @@ Is not held down by equity.         117
 
 <details><summary>मूलम् - ११७</summary>
 
-कॆडुवाग वैयादु उलगम् नडुवाग
-नऩ्ऱिक्कण् तङ्गियाऩ् ताऴ्वु। ११७
+कॆडुवाग वैयादु उलगम् नडुवाग  
+नऩ्ऱिक्कण् तङ्गियाऩ् ताऴ्वु। ११७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११८</summary>
 
-समऩ्सॆय्दु सीर्दूक्कुङ् गोल्बोल् अमैन्दॊरुबाल्
-कोडामै साऩ्ऱोर्क् कणि। ११८
+समऩ्सॆय्दु सीर्दूक्कुङ् गोल्बोल् अमैन्दॊरुबाल्  
+कोडामै साऩ्ऱोर्क् कणि। ११८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८</summary>
@@ -408,10 +407,10 @@ Is not held down by equity.         117
 
 <details><summary>NVK Ashraf choice (en) - ११८</summary>
 
-०११८
-To be unbiased like an unswerving weighing scale
-Is an ornament for the great. *
-(P.S. Sundaram), (K.R. Srinivasa Iyengar)
+०११८  
+To be unbiased like an unswerving weighing scale  
+Is an ornament for the great. *  
+(P.S. Sundaram), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८</summary>
@@ -445,14 +444,14 @@ A well poised mind is jewel of the wise.         118
 
 <details><summary>मूलम् - ११८</summary>
 
-समऩ्सॆय्दु सीर्दूक्कुङ् गोल्बोल् अमैन्दॊरुबाल्
-कोडामै साऩ्ऱोर्क् कणि। ११८
+समऩ्सॆय्दु सीर्दूक्कुङ् गोल्बोल् अमैन्दॊरुबाल्  
+कोडामै साऩ्ऱोर्क् कणि। ११८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ११९</summary>
 
-सॊऱ्कोट्टम् इल्लदु सॆप्पम् ऒरुदलैया
-उट्कोट्टम् इऩ्मै पॆऱिऩ्। ११९
+सॊऱ्कोट्टम् इल्लदु सॆप्पम् ऒरुदलैया  
+उट्कोट्टम् इऩ्मै पॆऱिऩ्। ११९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११९</summary>
@@ -463,10 +462,10 @@ A well poised mind is jewel of the wise.         118
 
 <details><summary>NVK Ashraf choice (en) - ११९</summary>
 
-०११९
-Equity is words without bias
-And it comes from a firm, unbiased mind. *
-(P.S. Sundaram)
+०११९  
+Equity is words without bias  
+And it comes from a firm, unbiased mind. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११९</summary>
@@ -500,14 +499,14 @@ And free from crooked word-twisting.         119
 
 <details><summary>मूलम् - ११९</summary>
 
-सॊऱ्कोट्टम् इल्लदु सॆप्पम् ऒरुदलैया
-उट्कोट्टम् इऩ्मै पॆऱिऩ्। ११९
+सॊऱ्कोट्टम् इल्लदु सॆप्पम् ऒरुदलैया  
+उट्कोट्टम् इऩ्मै पॆऱिऩ्। ११९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - १२०</summary>
 
-वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्
-पिऱवुम् तमबोल् सॆयिऩ्। १२०
+वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्  
+पिऱवुम् तमबोल् सॆयिऩ्। १२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १२०</summary>
@@ -518,10 +517,10 @@ And free from crooked word-twisting.         119
 
 <details><summary>NVK Ashraf choice (en) - १२०</summary>
 
-०१२०
-A merchant's best merchandise
-Is tending other's goods as his own.
-(P.S. Sundaram)
+०१२०  
+A merchant's best merchandise  
+Is tending other's goods as his own.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १२०</summary>
@@ -554,7 +553,7 @@ When his dealings are neighbourly.         120
 
 <details><summary>मूलम् - १२०</summary>
 
-वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्
-पिऱवुम् तमबोल् सॆयिऩ्। १२०
+वाणिगम् सॆय्वार्क्कु वाणिगम् पेणिप्  
+पिऱवुम् तमबोल् सॆयिऩ्। १२०  
 </details>
 

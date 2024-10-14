@@ -3,11 +3,10 @@ title = "१४ पगैमाट्चि"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८६१</summary>
 
-वलियार्क्कु माऱेऱ्ऱल् ओम्बुग ओम्बा
-मॆलियार्मेल् मेग पगै। ८६१
+वलियार्क्कु माऱेऱ्ऱल् ओम्बुग ओम्बा  
+मॆलियार्मेल् मेग पगै। ८६१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६१</summary>
@@ -19,10 +18,10 @@ title = "१४ पगैमाट्चि"
 
 <details><summary>NVK Ashraf choice (en) - ८६१</summary>
 
-०८६१
-Avoid opposing the strong.
-Cherish your desire of enmity with the weak. *
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+०८६१  
+Avoid opposing the strong.  
+Cherish your desire of enmity with the weak. *  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६१</summary>
@@ -56,14 +55,14 @@ With the feeble for battle long.        861
 
 <details><summary>मूलम् - ८६१</summary>
 
-वलियार्क्कु माऱेऱ्ऱल् ओम्बुग ओम्बा
-मॆलियार्मेल् मेग पगै। ८६१
+वलियार्क्कु माऱेऱ्ऱल् ओम्बुग ओम्बा  
+मॆलियार्मेल् मेग पगै। ८६१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६२</summary>
 
-अऩ्पिलऩ् आऩ्ऱ तुणैयिलऩ् ताऩ्तुव्वाऩ्
-ऎऩ्परियुम् एदिलाऩ् तुप्पु। ८६२
+अऩ्पिलऩ् आऩ्ऱ तुणैयिलऩ् ताऩ्तुव्वाऩ्  
+ऎऩ्परियुम् एदिलाऩ् तुप्पु। ८६२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६२</summary>
@@ -74,10 +73,10 @@ With the feeble for battle long.        861
 
 <details><summary>NVK Ashraf choice (en) - ८६२</summary>
 
-०८६२
-No love, great support, or own strength has he!
-How can he survive a strong enemy? *
-(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)
+०८६२  
+No love, great support, or own strength has he!  
+How can he survive a strong enemy? *  
+(M.S. Poornalingam Pillai), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६२</summary>
@@ -111,14 +110,14 @@ Can he withstand an enemy strong?        862
 
 <details><summary>मूलम् - ८६२</summary>
 
-अऩ्पिलऩ् आऩ्ऱ तुणैयिलऩ् ताऩ्तुव्वाऩ्
-ऎऩ्परियुम् एदिलाऩ् तुप्पु। ८६२
+अऩ्पिलऩ् आऩ्ऱ तुणैयिलऩ् ताऩ्तुव्वाऩ्  
+ऎऩ्परियुम् एदिलाऩ् तुप्पु। ८६२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६३</summary>
 
-अञ्जुम् अऱियाऩ् अमैविलऩ् ईगलाऩ्
-तञ्जम् ऎळियऩ् पगैक्कु। ८६३
+अञ्जुम् अऱियाऩ् अमैविलऩ् ईगलाऩ्  
+तञ्जम् ऎळियऩ् पगैक्कु। ८६३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६३</summary>
@@ -129,10 +128,10 @@ Can he withstand an enemy strong?        862
 
 <details><summary>NVK Ashraf choice (en) - ८६३</summary>
 
-०८६३
-A coward, ignorant, unsocial and mean
-Is an easy prey to his enemy.
-(P.S. Sundaram)
+०८६३  
+A coward, ignorant, unsocial and mean  
+Is an easy prey to his enemy.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६३</summary>
@@ -166,14 +165,14 @@ He is easy for foes to hit.        863
 
 <details><summary>मूलम् - ८६३</summary>
 
-अञ्जुम् अऱियाऩ् अमैविलऩ् ईगलाऩ्
-तञ्जम् ऎळियऩ् पगैक्कु। ८६३
+अञ्जुम् अऱियाऩ् अमैविलऩ् ईगलाऩ्  
+तञ्जम् ऎळियऩ् पगैक्कु। ८६३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६४</summary>
 
-नीङ्गाऩ् वॆगुळि निऱैयिलऩ् ऎञ्ञाऩ्ऱुम्
-याङ्गणुम् यार्क्कुम् ऎळिदु। ८६४
+नीङ्गाऩ् वॆगुळि निऱैयिलऩ् ऎञ्ञाऩ्ऱुम्  
+याङ्गणुम् यार्क्कुम् ऎळिदु। ८६४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६४</summary>
@@ -184,10 +183,10 @@ He is easy for foes to hit.        863
 
 <details><summary>NVK Ashraf choice (en) - ८६४</summary>
 
-०८६४
-The unrestrained and angry are an easy prey
-To anyone, anytime, anywhere.
-(P.S. Sundaram)
+०८६४  
+The unrestrained and angry are an easy prey  
+To anyone, anytime, anywhere.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६४</summary>
@@ -221,14 +220,14 @@ To any, anywhere any day.        864
 
 <details><summary>मूलम् - ८६४</summary>
 
-नीङ्गाऩ् वॆगुळि निऱैयिलऩ् ऎञ्ञाऩ्ऱुम्
-याङ्गणुम् यार्क्कुम् ऎळिदु। ८६४
+नीङ्गाऩ् वॆगुळि निऱैयिलऩ् ऎञ्ञाऩ्ऱुम्  
+याङ्गणुम् यार्क्कुम् ऎळिदु। ८६४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६५</summary>
 
-वऴिनोक्काऩ् वाय्प्पऩ सॆय्याऩ् पऴिनोक्काऩ्
-पण्बिलऩ् पऱ्ऱार्क्कु इऩिदु। ८६५
+वऴिनोक्काऩ् वाय्प्पऩ सॆय्याऩ् पऴिनोक्काऩ्  
+पण्बिलऩ् पऱ्ऱार्क्कु इऩिदु। ८६५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६५</summary>
@@ -239,10 +238,10 @@ To any, anywhere any day.        864
 
 <details><summary>NVK Ashraf choice (en) - ८६५</summary>
 
-०८६५
-Foes prefer the tactless and shameless one
-Who cares not for codes and scorns.
-(N.V.K. Ashraf)
+०८६५  
+Foes prefer the tactless and shameless one  
+Who cares not for codes and scorns.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६५</summary>
@@ -276,14 +275,14 @@ Any foe can fell him with ease.        865
 
 <details><summary>मूलम् - ८६५</summary>
 
-वऴिनोक्काऩ् वाय्प्पऩ सॆय्याऩ् पऴिनोक्काऩ्
-पण्बिलऩ् पऱ्ऱार्क्कु इऩिदु। ८६५
+वऴिनोक्काऩ् वाय्प्पऩ सॆय्याऩ् पऴिनोक्काऩ्  
+पण्बिलऩ् पऱ्ऱार्क्कु इऩिदु। ८६५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६६</summary>
 
-काणाच् चिऩत्ताऩ् कऴिबॆरुङ् गामत्ताऩ्
-पेणामै पेणप् पडुम्। ८६६
+काणाच् चिऩत्ताऩ् कऴिबॆरुङ् गामत्ताऩ्  
+पेणामै पेणप् पडुम्। ८६६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६६</summary>
@@ -294,10 +293,10 @@ Any foe can fell him with ease.        865
 
 <details><summary>NVK Ashraf choice (en) - ८६६</summary>
 
-०८६६
-Those with blind fury and inordinate lust
-Are vulnerable enemies to be nursed with.
-(N.V.K. Ashraf)
+०८६६  
+Those with blind fury and inordinate lust  
+Are vulnerable enemies to be nursed with.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६६</summary>
@@ -331,14 +330,14 @@ To have his hatred is but just.        866
 
 <details><summary>मूलम् - ८६६</summary>
 
-काणाच् चिऩत्ताऩ् कऴिबॆरुङ् गामत्ताऩ्
-पेणामै पेणप् पडुम्। ८६६
+काणाच् चिऩत्ताऩ् कऴिबॆरुङ् गामत्ताऩ्  
+पेणामै पेणप् पडुम्। ८६६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६७</summary>
 
-कॊडुत्तुम् कॊळल्वेण्डुम् मऩ्ऱ अडुत्तिरुन्दु
-माणाद सॆय्वाऩ् पगै। ८६७
+कॊडुत्तुम् कॊळल्वेण्डुम् मऩ्ऱ अडुत्तिरुन्दु  
+माणाद सॆय्वाऩ् पगै। ८६७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६७</summary>
@@ -349,10 +348,10 @@ To have his hatred is but just.        866
 
 <details><summary>NVK Ashraf choice (en) - ८६७</summary>
 
-०८६७
-He is a foe worth purchasing
-Who starts a fight and does all wrong.
-(P.S. Sundaram)
+०८६७  
+He is a foe worth purchasing  
+Who starts a fight and does all wrong.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६७</summary>
@@ -386,14 +385,14 @@ Who muddles chance with oddity.        867
 
 <details><summary>मूलम् - ८६७</summary>
 
-कॊडुत्तुम् कॊळल्वेण्डुम् मऩ्ऱ अडुत्तिरुन्दु
-माणाद सॆय्वाऩ् पगै। ८६७
+कॊडुत्तुम् कॊळल्वेण्डुम् मऩ्ऱ अडुत्तिरुन्दु  
+माणाद सॆय्वाऩ् पगै। ८६७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६८</summary>
 
-कुणऩिलऩाय्क् कुऱ्ऱम् पलवायिऩ् माऱ्ऱार्क्कु
-इऩऩिलऩाम् एमाप् पुडैत्तु। ८६८
+कुणऩिलऩाय्क् कुऱ्ऱम् पलवायिऩ् माऱ्ऱार्क्कु  
+इऩऩिलऩाम् एमाप् पुडैत्तु। ८६८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६८</summary>
@@ -404,10 +403,10 @@ Who muddles chance with oddity.        867
 
 <details><summary>NVK Ashraf choice (en) - ८६८</summary>
 
-०८६८
-Enemies will rejoice the one
-With no virtues, many vices, and no allies. *
-(V.V.S. Aiyar)
+०८६८  
+Enemies will rejoice the one  
+With no virtues, many vices, and no allies. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६८</summary>
@@ -441,14 +440,14 @@ He loses friends and delights foes.        868
 
 <details><summary>मूलम् - ८६८</summary>
 
-कुणऩिलऩाय्क् कुऱ्ऱम् पलवायिऩ् माऱ्ऱार्क्कु
-इऩऩिलऩाम् एमाप् पुडैत्तु। ८६८
+कुणऩिलऩाय्क् कुऱ्ऱम् पलवायिऩ् माऱ्ऱार्क्कु  
+इऩऩिलऩाम् एमाप् पुडैत्तु। ८६८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६९</summary>
 
-सॆऱुवार्क्कुच् चेणिगवा इऩ्पम् अऱिविला
-अञ्जुम् पगैवर्प् पॆऱिऩ्। ८६९
+सॆऱुवार्क्कुच् चेणिगवा इऩ्पम् अऱिविला  
+अञ्जुम् पगैवर्प् पॆऱिऩ्। ८६९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६९</summary>
@@ -459,10 +458,10 @@ He loses friends and delights foes.        868
 
 <details><summary>NVK Ashraf choice (en) - ८६९</summary>
 
-०८६९
-Enemies' joy has no bounds
-When they get a fool and coward as a foe. *
-(P.S. Sundaram), ( Shuddhananda Bharatiar)
+०८६९  
+Enemies' joy has no bounds  
+When they get a fool and coward as a foe. *  
+(P.S. Sundaram), ( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६९</summary>
@@ -496,14 +495,14 @@ When timid fools are opponents.        869
 
 <details><summary>मूलम् - ८६९</summary>
 
-सॆऱुवार्क्कुच् चेणिगवा इऩ्पम् अऱिविला
-अञ्जुम् पगैवर्प् पॆऱिऩ्। ८६९
+सॆऱुवार्क्कुच् चेणिगवा इऩ्पम् अऱिविला  
+अञ्जुम् पगैवर्प् पॆऱिऩ्। ८६९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८७०</summary>
 
-कल्लाऩ् वॆगुळुम् सिऱुबॊरुळ् ऎञ्ञाऩ्ऱुम्
-ऒल्लाऩै ऒल्ला तॊळि। ८७०
+कल्लाऩ् वॆगुळुम् सिऱुबॊरुळ् ऎञ्ञाऩ्ऱुम्  
+ऒल्लाऩै ऒल्ला तॊळि। ८७०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८७०</summary>
@@ -514,10 +513,10 @@ When timid fools are opponents.        869
 
 <details><summary>NVK Ashraf choice (en) - ८७०</summary>
 
-०८७०
-No glory or gain can ever come to one
-Who cannot overcome an ignorant foe. *
-(K. Krishnaswamy & Vijaya Ramkumar)
+०८७०  
+No glory or gain can ever come to one  
+Who cannot overcome an ignorant foe. *  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८७०</summary>
@@ -555,7 +554,7 @@ Who fails to fight a fool and win.        870
 
 <details><summary>मूलम् - ८७०</summary>
 
-कल्लाऩ् वॆगुळुम् सिऱुबॊरुळ् ऎञ्ञाऩ्ऱुम्
-ऒल्लाऩै ऒल्ला तॊळि। ८७०
+कल्लाऩ् वॆगुळुम् सिऱुबॊरुळ् ऎञ्ञाऩ्ऱुम्  
+ऒल्लाऩै ऒल्ला तॊळि। ८७०  
 </details>
 

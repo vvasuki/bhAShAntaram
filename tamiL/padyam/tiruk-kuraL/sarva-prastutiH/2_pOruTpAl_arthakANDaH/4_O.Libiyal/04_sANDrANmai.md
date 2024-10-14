@@ -3,11 +3,10 @@ title = "०४ साण्ड्राण्मै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ९८१</summary>
 
-कडऩ्ऎऩ्प नल्लवै ऎल्लाम् कडऩ्अऱिन्दु
-साऩ्ऱाण्मै मेऱ्कॊळ् पवर्क्कु। ९८१
+कडऩ्ऎऩ्प नल्लवै ऎल्लाम् कडऩ्अऱिन्दु  
+साऩ्ऱाण्मै मेऱ्कॊळ् पवर्क्कु। ९८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८१</summary>
@@ -19,10 +18,10 @@ title = "०४ साण्ड्राण्मै"
 
 <details><summary>NVK Ashraf choice (en) - ९८१</summary>
 
-०९८१
-All virtues are said to be natural to those
-Who acquire character as a duty.
-(P.S. Sundaram)
+०९८१  
+All virtues are said to be natural to those  
+Who acquire character as a duty.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८१</summary>
@@ -57,14 +56,14 @@ Who are dutiful and sublime.        981
 
 <details><summary>मूलम् - ९८१</summary>
 
-कडऩ्ऎऩ्प नल्लवै ऎल्लाम् कडऩ्अऱिन्दु
-साऩ्ऱाण्मै मेऱ्कॊळ् पवर्क्कु। ९८१
+कडऩ्ऎऩ्प नल्लवै ऎल्लाम् कडऩ्अऱिन्दु  
+साऩ्ऱाण्मै मेऱ्कॊळ् पवर्क्कु। ९८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८२</summary>
 
-कुणनलम् साऩ्ऱोर् नलऩे पिऱनलम्
-ऎन्नलत्तु उळ्ळदूउम् अऩ्ऱु। ९८२
+कुणनलम् साऩ्ऱोर् नलऩे पिऱनलम्  
+ऎन्नलत्तु उळ्ळदूउम् अऩ्ऱु। ९८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८२</summary>
@@ -75,10 +74,10 @@ Who are dutiful and sublime.        981
 
 <details><summary>NVK Ashraf choice (en) - ९८२</summary>
 
-०९८२
-No other goodness than good character
-Is deemed good by the noble.
-(N.V.K. Ashraf)
+०९८२  
+No other goodness than good character  
+Is deemed good by the noble.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८२</summary>
@@ -113,14 +112,14 @@ Than that there is nothing better.        982
 
 <details><summary>मूलम् - ९८२</summary>
 
-कुणनलम् साऩ्ऱोर् नलऩे पिऱनलम्
-ऎन्नलत्तु उळ्ळदूउम् अऩ्ऱु। ९८२
+कुणनलम् साऩ्ऱोर् नलऩे पिऱनलम्  
+ऎन्नलत्तु उळ्ळदूउम् अऩ्ऱु। ९८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८३</summary>
 
-अऩ्पुनाण् ऒप्पुरवु कण्णोट्टम् वाय्मैयॊडु
-ऐन्दुसाल् ऊऩ्ऱिय तूण्। ९८३
+अऩ्पुनाण् ऒप्पुरवु कण्णोट्टम् वाय्मैयॊडु  
+ऐन्दुसाल् ऊऩ्ऱिय तूण्। ९८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८३</summary>
@@ -131,10 +130,10 @@ Than that there is nothing better.        982
 
 <details><summary>NVK Ashraf choice (en) - ९८३</summary>
 
-०९८३
-The pillars of excellence are five:
-Love, modesty, altruism, compassion, truthfulness.
-(P.S. Sundaram)
+०९८३  
+The pillars of excellence are five:  
+Love, modesty, altruism, compassion, truthfulness.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८३</summary>
@@ -169,14 +168,14 @@ These five are virtue's resting place.        983
 
 <details><summary>मूलम् - ९८३</summary>
 
-अऩ्पुनाण् ऒप्पुरवु कण्णोट्टम् वाय्मैयॊडु
-ऐन्दुसाल् ऊऩ्ऱिय तूण्। ९८३
+अऩ्पुनाण् ऒप्पुरवु कण्णोट्टम् वाय्मैयॊडु  
+ऐन्दुसाल् ऊऩ्ऱिय तूण्। ९८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८४</summary>
 
-कॊल्ला नलत्तदु नोऩ्मै पिऱर्दीमै
-सॊल्ला नलत्तदु साल्बु। ९८४
+कॊल्ला नलत्तदु नोऩ्मै पिऱर्दीमै  
+सॊल्ला नलत्तदु साल्बु। ९८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८४</summary>
@@ -187,10 +186,10 @@ These five are virtue's resting place.        983
 
 <details><summary>NVK Ashraf choice (en) - ९८४</summary>
 
-०९८४
-The characteristic of penance is non-killing,
-And that of goodness not speaking others’ faults.
-(N.V.K. Ashraf)
+०९८४  
+The characteristic of penance is non-killing,  
+And that of goodness not speaking others’ faults.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९८४</summary>
@@ -229,14 +228,14 @@ Not to slander virtue sure.        984
 
 <details><summary>मूलम् - ९८४</summary>
 
-कॊल्ला नलत्तदु नोऩ्मै पिऱर्दीमै
-सॊल्ला नलत्तदु साल्बु। ९८४
+कॊल्ला नलत्तदु नोऩ्मै पिऱर्दीमै  
+सॊल्ला नलत्तदु साल्बु। ९८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८५</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् पणिदल् अदुसाऩ्ऱोर्
-माऱ्ऱारै माऱ्ऱुम् पडै। ९८५
+आऱ्ऱुवार् आऱ्ऱल् पणिदल् अदुसाऩ्ऱोर्  
+माऱ्ऱारै माऱ्ऱुम् पडै। ९८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८५</summary>
@@ -247,10 +246,10 @@ Not to slander virtue sure.        984
 
 <details><summary>NVK Ashraf choice (en) - ९८५</summary>
 
-०९८५
-Humility is the strength of the strong and the weapon
-The wise use to conquer their foes.
-(Satguru Subramuniyaswami)
+०९८५  
+Humility is the strength of the strong and the weapon  
+The wise use to conquer their foes.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८५</summary>
@@ -285,14 +284,14 @@ A force that averts foes at length.        985
 
 <details><summary>मूलम् - ९८५</summary>
 
-आऱ्ऱुवार् आऱ्ऱल् पणिदल् अदुसाऩ्ऱोर्
-माऱ्ऱारै माऱ्ऱुम् पडै। ९८५
+आऱ्ऱुवार् आऱ्ऱल् पणिदल् अदुसाऩ्ऱोर्  
+माऱ्ऱारै माऱ्ऱुम् पडै। ९८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८६</summary>
 
-साल्बिऱ्कुक् कट्टळै यादॆऩिऩ् तोल्वि
-तुलैयल्लार् कण्णुम् कॊळल्। ९८६
+साल्बिऱ्कुक् कट्टळै यादॆऩिऩ् तोल्वि  
+तुलैयल्लार् कण्णुम् कॊळल्। ९८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८६</summary>
@@ -303,10 +302,10 @@ A force that averts foes at length.        985
 
 <details><summary>NVK Ashraf choice (en) - ९८६</summary>
 
-०९८६
-The touchstone of goodness is to own
-One's defeat even to inferiors.
-(P.S. Sundaram)
+०९८६  
+The touchstone of goodness is to own  
+One's defeat even to inferiors.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८६</summary>
@@ -340,14 +339,14 @@ Is the touch-stone of worthy men.        986
 
 <details><summary>मूलम् - ९८६</summary>
 
-साल्बिऱ्कुक् कट्टळै यादॆऩिऩ् तोल्वि
-तुलैयल्लार् कण्णुम् कॊळल्। ९८६
+साल्बिऱ्कुक् कट्टळै यादॆऩिऩ् तोल्वि  
+तुलैयल्लार् कण्णुम् कॊळल्। ९८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८७</summary>
 
-इऩ्ऩासॆय् तार्क्कुम् इऩियवे सॆय्याक्काल्
-ऎऩ्ऩ पयत्तदो साल्बु। ९८७
+इऩ्ऩासॆय् तार्क्कुम् इऩियवे सॆय्याक्काल्  
+ऎऩ्ऩ पयत्तदो साल्बु। ९८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८७</summary>
@@ -358,10 +357,10 @@ Is the touch-stone of worthy men.        986
 
 <details><summary>NVK Ashraf choice (en) - ९८७</summary>
 
-०९८७
-What good is that goodness if it does not return good
-Even to those who cause evil? *
-(P.S. Sundaram)
+०९८७  
+What good is that goodness if it does not return good  
+Even to those who cause evil? *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९८७</summary>
@@ -400,14 +399,14 @@ If it returns not joy for pain?        987
 
 <details><summary>मूलम् - ९८७</summary>
 
-इऩ्ऩासॆय् तार्क्कुम् इऩियवे सॆय्याक्काल्
-ऎऩ्ऩ पयत्तदो साल्बु। ९८७
+इऩ्ऩासॆय् तार्क्कुम् इऩियवे सॆय्याक्काल्  
+ऎऩ्ऩ पयत्तदो साल्बु। ९८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८८</summary>
 
-इऩ्मै ऒरुवऱ्कु इळिवऩ्ऱु साल्बॆऩ्ऩुम्
-तिण्मै उण् डागप् पॆऱिऩ्। ९८८
+इऩ्मै ऒरुवऱ्कु इळिवऩ्ऱु साल्बॆऩ्ऩुम्  
+तिण्मै उण् डागप् पॆऱिऩ्। ९८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८८</summary>
@@ -418,10 +417,10 @@ If it returns not joy for pain?        987
 
 <details><summary>NVK Ashraf choice (en) - ९८८</summary>
 
-०९८८
-Poverty is no disgrace to one
-Who has the strength called character.
-(P.S. Sundaram), (V.V.S. Aiyar)
+०९८८  
+Poverty is no disgrace to one  
+Who has the strength called character.  
+(P.S. Sundaram), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९८८</summary>
@@ -455,14 +454,14 @@ To one strong in good quality.        988
 
 <details><summary>मूलम् - ९८८</summary>
 
-इऩ्मै ऒरुवऱ्कु इळिवऩ्ऱु साल्बॆऩ्ऩुम्
-तिण्मै उण् डागप् पॆऱिऩ्। ९८८
+इऩ्मै ऒरुवऱ्कु इळिवऩ्ऱु साल्बॆऩ्ऩुम्  
+तिण्मै उण् डागप् पॆऱिऩ्। ९८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९८९</summary>
 
-ऊऴि पॆयरिऩुम् ताम्बॆयरार् साऩ्ऱाण्मैक्कु
-आऴि ऎऩप्पडु वार्। ९८९
+ऊऴि पॆयरिऩुम् ताम्बॆयरार् साऩ्ऱाण्मैक्कु  
+आऴि ऎऩप्पडु वार्। ९८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९८९</summary>
@@ -473,10 +472,10 @@ To one strong in good quality.        988
 
 <details><summary>NVK Ashraf choice (en) - ९८९</summary>
 
-०९८९
-The depth of goodness is said to be the never changing attitude
-In spite of ever changing fortunes.
-(N.V.K. Ashraf)
+०९८९  
+The depth of goodness is said to be the never changing attitude  
+In spite of ever changing fortunes.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ९८९</summary>
@@ -515,14 +514,14 @@ Who is a sea of virtue pure.        989
 
 <details><summary>मूलम् - ९८९</summary>
 
-ऊऴि पॆयरिऩुम् ताम्बॆयरार् साऩ्ऱाण्मैक्कु
-आऴि ऎऩप्पडु वार्। ९८९
+ऊऴि पॆयरिऩुम् ताम्बॆयरार् साऩ्ऱाण्मैक्कु  
+आऴि ऎऩप्पडु वार्। ९८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ९९०</summary>
 
-साऩ्ऱवर् साऩ्ऱाण्मै कुऩ्ऱिऩ् इरुनिलन्दाऩ्
-ताङ्गादु मऩ्ऩो पॊऱै। ९९०
+साऩ्ऱवर् साऩ्ऱाण्मै कुऩ्ऱिऩ् इरुनिलन्दाऩ्  
+ताङ्गादु मऩ्ऩो पॊऱै। ९९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ९९०</summary>
@@ -533,10 +532,10 @@ Who is a sea of virtue pure.        989
 
 <details><summary>NVK Ashraf choice (en) - ९९०</summary>
 
-०९९०
-The earth will cease to bear its burden
-If perfect men fall short of perfection.
-(S. Maharajan), (G. Vanmikanathan)
+०९९०  
+The earth will cease to bear its burden  
+If perfect men fall short of perfection.  
+(S. Maharajan), (G. Vanmikanathan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ९९०</summary>
@@ -569,7 +568,7 @@ If from high virtue fall the great.        990
 
 <details><summary>मूलम् - ९९०</summary>
 
-साऩ्ऱवर् साऩ्ऱाण्मै कुऩ्ऱिऩ् इरुनिलन्दाऩ्
-ताङ्गादु मऩ्ऩो पॊऱै। ९९०
+साऩ्ऱवर् साऩ्ऱाण्मै कुऩ्ऱिऩ् इरुनिलन्दाऩ्  
+ताङ्गादु मऩ्ऩो पॊऱै। ९९०  
 </details>
 

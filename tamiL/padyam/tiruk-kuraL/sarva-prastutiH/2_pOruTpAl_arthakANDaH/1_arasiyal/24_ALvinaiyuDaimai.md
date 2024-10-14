@@ -3,11 +3,10 @@ title = "२४ आळ्विनैयुडैमै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६११</summary>
 
-अरुमै उडैत्तॆऩ्ऱु असावामै वेण्डुम्
-पॆरुमै मुयऱ्सि तरुम्। ६११
+अरुमै उडैत्तॆऩ्ऱु असावामै वेण्डुम्  
+पॆरुमै मुयऱ्सि तरुम्। ६११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६११</summary>
@@ -19,10 +18,10 @@ title = "२४ आळ्विनैयुडैमै"
 
 <details><summary>NVK Ashraf choice (en) - ६११</summary>
 
-०६११
-Do not give up saying "It is impossible".
-Effort will overcome.
-(P.S. Sundaram)
+०६११  
+Do not give up saying "It is impossible".  
+Effort will overcome.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६११</summary>
@@ -56,14 +55,14 @@ Who tries attains striving's reward.        611
 
 <details><summary>मूलम् - ६११</summary>
 
-अरुमै उडैत्तॆऩ्ऱु असावामै वेण्डुम्
-पॆरुमै मुयऱ्सि तरुम्। ६११
+अरुमै उडैत्तॆऩ्ऱु असावामै वेण्डुम्  
+पॆरुमै मुयऱ्सि तरुम्। ६११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१२</summary>
 
-विऩैक्कण् विऩैगॆडल् ओम्बल् विऩैक्कुऱै
-तीर्न्दारिऩ् तीर्न्दऩ्ऱु उलगु। ६१२
+विऩैक्कण् विऩैगॆडल् ओम्बल् विऩैक्कुऱै  
+तीर्न्दारिऩ् तीर्न्दऩ्ऱु उलगु। ६१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१२</summary>
@@ -74,10 +73,10 @@ Who tries attains striving's reward.        611
 
 <details><summary>NVK Ashraf choice (en) - ६१२</summary>
 
-०६१२
-Leave no task incomplete,
-For the world gives up those who give up. *
-(P.S. Sundaram)
+०६१२  
+Leave no task incomplete,  
+For the world gives up those who give up. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६१२</summary>
@@ -112,14 +111,14 @@ The world will quit who quits his work.        612
 
 <details><summary>मूलम् - ६१२</summary>
 
-विऩैक्कण् विऩैगॆडल् ओम्बल् विऩैक्कुऱै
-तीर्न्दारिऩ् तीर्न्दऩ्ऱु उलगु। ६१२
+विऩैक्कण् विऩैगॆडल् ओम्बल् विऩैक्कुऱै  
+तीर्न्दारिऩ् तीर्न्दऩ्ऱु उलगु। ६१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१३</summary>
 
-ताळाण्मै ऎऩ्ऩुम् तगैमैक्कण् तङ्गिऱ्ऱे
-वेळाण्मै ऎऩ्ऩुञ् जॆरुक्कु। ६१३
+ताळाण्मै ऎऩ्ऩुम् तगैमैक्कण् तङ्गिऱ्ऱे  
+वेळाण्मै ऎऩ्ऩुञ् जॆरुक्कु। ६१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१३</summary>
@@ -130,10 +129,10 @@ The world will quit who quits his work.        612
 
 <details><summary>NVK Ashraf choice (en) - ६१३</summary>
 
-०६१३
-The pride of being a philanthropist belongs to those
+०६१३  
+The pride of being a philanthropist belongs to those  
 Who have that quality called perseverance. * 
-(G. Vanmikanathan)
+(G. Vanmikanathan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६१३</summary>
@@ -167,14 +166,14 @@ Depends magnanimous bounty.        613
 
 <details><summary>मूलम् - ६१३</summary>
 
-ताळाण्मै ऎऩ्ऩुम् तगैमैक्कण् तङ्गिऱ्ऱे
-वेळाण्मै ऎऩ्ऩुञ् जॆरुक्कु। ६१३
+ताळाण्मै ऎऩ्ऩुम् तगैमैक्कण् तङ्गिऱ्ऱे  
+वेळाण्मै ऎऩ्ऩुञ् जॆरुक्कु। ६१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१४</summary>
 
-ताळाण्मै इल्लादाऩ् वेळाण्मै पेडिगै
-वाळाण्मै पोलक् कॆडुम्। ६१४
+ताळाण्मै इल्लादाऩ् वेळाण्मै पेडिगै  
+वाळाण्मै पोलक् कॆडुम्। ६१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१४</summary>
@@ -185,10 +184,10 @@ Depends magnanimous bounty.        613
 
 <details><summary>NVK Ashraf choice (en) - ६१४</summary>
 
-०६१४
-The liberality of the indolent man will not endure,
-Like a sword in eunuch's hand.*
-(V.V.S. Aiyar)
+०६१४  
+The liberality of the indolent man will not endure,  
+Like a sword in eunuch's hand.*  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६१४</summary>
@@ -228,14 +227,14 @@ Like sword in eunuch's hand it fails.        614
 
 <details><summary>मूलम् - ६१४</summary>
 
-ताळाण्मै इल्लादाऩ् वेळाण्मै पेडिगै
-वाळाण्मै पोलक् कॆडुम्। ६१४
+ताळाण्मै इल्लादाऩ् वेळाण्मै पेडिगै  
+वाळाण्मै पोलक् कॆडुम्। ६१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१५</summary>
 
-इऩ्पम् विऴैयाऩ् विऩैविऴैवाऩ् तऩ्केळिर्
-तुऩ्पम् तुडैत्तूऩ्ऱुम् तूण्। ६१५
+इऩ्पम् विऴैयाऩ् विऩैविऴैवाऩ् तऩ्केळिर्  
+तुऩ्पम् तुडैत्तूऩ्ऱुम् तूण्। ६१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१५</summary>
@@ -246,10 +245,10 @@ Like sword in eunuch's hand it fails.        614
 
 <details><summary>NVK Ashraf choice (en) - ६१५</summary>
 
-०६१५
-A pillar of comfort to his friends is he
-Who scorns delight and loves labour. *
-(P.S. Sundaram)
+०६१५  
+A pillar of comfort to his friends is he  
+Who scorns delight and loves labour. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६१५</summary>
@@ -284,14 +283,14 @@ Wipes grief of friends, pillar secure.        615
 
 <details><summary>मूलम् - ६१५</summary>
 
-इऩ्पम् विऴैयाऩ् विऩैविऴैवाऩ् तऩ्केळिर्
-तुऩ्पम् तुडैत्तूऩ्ऱुम् तूण्। ६१५
+इऩ्पम् विऴैयाऩ् विऩैविऴैवाऩ् तऩ्केळिर्  
+तुऩ्पम् तुडैत्तूऩ्ऱुम् तूण्। ६१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१६</summary>
 
-मुयऱ्सि तिरुविऩै आक्कुम् मुयऱ्ऱिऩ्मै
-इऩ्मै पुगुत्ति विडुम्। ६१६
+मुयऱ्सि तिरुविऩै आक्कुम् मुयऱ्ऱिऩ्मै  
+इऩ्मै पुगुत्ति विडुम्। ६१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१६</summary>
@@ -302,10 +301,10 @@ Wipes grief of friends, pillar secure.        615
 
 <details><summary>NVK Ashraf choice (en) - ६१६</summary>
 
-०६१६
-Exertion leads to wealth;
-Lack of it brings forth poverty. *
-(P.S. Sundaram)
+०६१६  
+Exertion leads to wealth;  
+Lack of it brings forth poverty. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६१६</summary>
@@ -339,14 +338,14 @@ Indolence brings but poverty.        616
 
 <details><summary>मूलम् - ६१६</summary>
 
-मुयऱ्सि तिरुविऩै आक्कुम् मुयऱ्ऱिऩ्मै
-इऩ्मै पुगुत्ति विडुम्। ६१६
+मुयऱ्सि तिरुविऩै आक्कुम् मुयऱ्ऱिऩ्मै  
+इऩ्मै पुगुत्ति विडुम्। ६१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१७</summary>
 
-मडियुळाळ् मामुगडि ऎऩ्प मडियिलाऩ्
-ताळुळाऩ् तामरैयि ऩाळ्। ६१७
+मडियुळाळ् मामुगडि ऎऩ्प मडियिलाऩ्  
+ताळुळाऩ् तामरैयि ऩाळ्। ६१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१७</summary>
@@ -357,10 +356,10 @@ Indolence brings but poverty.        616
 
 <details><summary>NVK Ashraf choice (en) - ६१७</summary>
 
-०६१७
-The black ogress 'misfortune' lurks in laziness,
-While goddess 'fortune' lingers in active men. *
-(Satguru Subramuniyaswami)
+०६१७  
+The black ogress 'misfortune' lurks in laziness,  
+While goddess 'fortune' lingers in active men. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६१७</summary>
@@ -400,14 +399,14 @@ Illuck abides with sloth they say
 
 <details><summary>मूलम् - ६१७</summary>
 
-मडियुळाळ् मामुगडि ऎऩ्प मडियिलाऩ्
-ताळुळाऩ् तामरैयि ऩाळ्। ६१७
+मडियुळाळ् मामुगडि ऎऩ्प मडियिलाऩ्  
+ताळुळाऩ् तामरैयि ऩाळ्। ६१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१८</summary>
 
-पॊऱियिऩ्मै यार्क्कुम् पऴियऩ्ऱु अऱिवऱिन्दु
-आळ्विऩै इऩ्मै पऴि। ६१८
+पॊऱियिऩ्मै यार्क्कुम् पऴियऩ्ऱु अऱिवऱिन्दु  
+आळ्विऩै इऩ्मै पऴि। ६१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१८</summary>
@@ -418,10 +417,10 @@ Illuck abides with sloth they say
 
 <details><summary>NVK Ashraf choice (en) - ६१८</summary>
 
-०६१८
-Ill-luck is never blamed. What is blamed
-Is knowledge without exertion.
-(P.S. Sundaram)
+०६१८  
+Ill-luck is never blamed. What is blamed  
+Is knowledge without exertion.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६१८</summary>
@@ -455,14 +454,14 @@ The shame is nothing learnt or done.        618
 
 <details><summary>मूलम् - ६१८</summary>
 
-पॊऱियिऩ्मै यार्क्कुम् पऴियऩ्ऱु अऱिवऱिन्दु
-आळ्विऩै इऩ्मै पऴि। ६१८
+पॊऱियिऩ्मै यार्क्कुम् पऴियऩ्ऱु अऱिवऱिन्दु  
+आळ्विऩै इऩ्मै पऴि। ६१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६१९</summary>
 
-तॆय्वत्ताऩ् आगा तॆऩिऩुम् मुयऱ्सिदऩ्
-मॆय्वरुत्तक् कूलि तरुम्। ६१९
+तॆय्वत्ताऩ् आगा तॆऩिऩुम् मुयऱ्सिदऩ्  
+मॆय्वरुत्तक् कूलि तरुम्। ६१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६१९</summary>
@@ -473,10 +472,10 @@ The shame is nothing learnt or done.        618
 
 <details><summary>NVK Ashraf choice (en) - ६१९</summary>
 
-०६१९
-Even though God be against,
-Effort is bound to pay the wages of labour. *
-(V.V.S. Aiyar)
+०६१९  
+Even though God be against,  
+Effort is bound to pay the wages of labour. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६१९</summary>
@@ -515,14 +514,14 @@ Hard labour has ready payment.        619
 
 <details><summary>मूलम् - ६१९</summary>
 
-तॆय्वत्ताऩ् आगा तॆऩिऩुम् मुयऱ्सिदऩ्
-मॆय्वरुत्तक् कूलि तरुम्। ६१९
+तॆय्वत्ताऩ् आगा तॆऩिऩुम् मुयऱ्सिदऩ्  
+मॆय्वरुत्तक् कूलि तरुम्। ६१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६२०</summary>
 
-ऊऴैयुम् उप्पक्कम् काण्बर् उलैविऩ्ऱित्
-ताऴादु उञऱ्ऱु पवर्। ६२०
+ऊऴैयुम् उप्पक्कम् काण्बर् उलैविऩ्ऱित्  
+ताऴादु उञऱ्ऱु पवर्। ६२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६२०</summary>
@@ -533,10 +532,10 @@ Hard labour has ready payment.        619
 
 <details><summary>NVK Ashraf choice (en) - ६२०</summary>
 
-०६२०
-Those who never get tired of striving undauntedly
-Shall leave even Fate behind.
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+०६२०  
+Those who never get tired of striving undauntedly  
+Shall leave even Fate behind.  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६२०</summary>
@@ -575,7 +574,7 @@ Shall leave even the fate behind.        620
 
 <details><summary>मूलम् - ६२०</summary>
 
-ऊऴैयुम् उप्पक्कम् काण्बर् उलैविऩ्ऱित्
-ताऴादु उञऱ्ऱु पवर्। ६२०
+ऊऴैयुम् उप्पक्कम् काण्बर् उलैविऩ्ऱित्  
+ताऴादु उञऱ्ऱु पवर्। ६२०  
 </details>
 

@@ -3,11 +3,10 @@ title = "१५ सुऱ्ऱन्दऴाल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ५२१</summary>
 
-पऱ्ऱऱ्ऱ कण्णुम् पऴैमैबा राट्टुदल्
-सुऱ्ऱत्तार् कण्णे उळ। ५२१
+पऱ्ऱऱ्ऱ कण्णुम् पऴैमैबा राट्टुदल्  
+सुऱ्ऱत्तार् कण्णे उळ। ५२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२१</summary>
@@ -18,10 +17,10 @@ title = "१५ सुऱ्ऱन्दऴाल्"
 
 <details><summary>NVK Ashraf choice (en) - ५२१</summary>
 
-०५२१
-Only the kindred, because of their old contact,
-Show attachment even in adversity.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०५२१  
+Only the kindred, because of their old contact,  
+Show attachment even in adversity.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२१</summary>
@@ -55,14 +54,14 @@ The old accustomed love to show.        521
 
 <details><summary>मूलम् - ५२१</summary>
 
-पऱ्ऱऱ्ऱ कण्णुम् पऴैमैबा राट्टुदल्
-सुऱ्ऱत्तार् कण्णे उळ। ५२१
+पऱ्ऱऱ्ऱ कण्णुम् पऴैमैबा राट्टुदल्  
+सुऱ्ऱत्तार् कण्णे उळ। ५२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२२</summary>
 
-विरुप्पऱाच् चुऱ्ऱम् इयैयिऩ् अरुप्पऱा
-आक्कम् पलवुम् तरुम्। ५२२
+विरुप्पऱाच् चुऱ्ऱम् इयैयिऩ् अरुप्पऱा  
+आक्कम् पलवुम् तरुम्। ५२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२२</summary>
@@ -73,10 +72,10 @@ The old accustomed love to show.        521
 
 <details><summary>NVK Ashraf choice (en) - ५२२</summary>
 
-०५२२
-When kindred show unfailing love,
-Wealth of all kinds never fail to flow. *
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+०५२२  
+When kindred show unfailing love,  
+Wealth of all kinds never fail to flow. *  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२२</summary>
@@ -110,14 +109,14 @@ Fadeless fortune's fresh flowers.        522
 
 <details><summary>मूलम् - ५२२</summary>
 
-विरुप्पऱाच् चुऱ्ऱम् इयैयिऩ् अरुप्पऱा
-आक्कम् पलवुम् तरुम्। ५२२
+विरुप्पऱाच् चुऱ्ऱम् इयैयिऩ् अरुप्पऱा  
+आक्कम् पलवुम् तरुम्। ५२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२३</summary>
 
-अळवळा विल्लादाऩ् वाऴ्क्कै कुळवळाक्
-कोडिऩ्ऱि नीर्निऱैन् दऱ्ऱु। ५२३
+अळवळा विल्लादाऩ् वाऴ्क्कै कुळवळाक्  
+कोडिऩ्ऱि नीर्निऱैन् दऱ्ऱु। ५२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२३</summary>
@@ -128,10 +127,10 @@ Fadeless fortune's fresh flowers.        522
 
 <details><summary>NVK Ashraf choice (en) - ५२३</summary>
 
-०५२३
-The life of an unattached man
-Is like a boundless pond flowing unbound.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०५२३  
+The life of an unattached man  
+Is like a boundless pond flowing unbound.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ५२३</summary>
@@ -170,14 +169,14 @@ Which overflows without a bank.        523
 
 <details><summary>मूलम् - ५२३</summary>
 
-अळवळा विल्लादाऩ् वाऴ्क्कै कुळवळाक्
-कोडिऩ्ऱि नीर्निऱैन् दऱ्ऱु। ५२३
+अळवळा विल्लादाऩ् वाऴ्क्कै कुळवळाक्  
+कोडिऩ्ऱि नीर्निऱैन् दऱ्ऱु। ५२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२४</summary>
 
-सुऱ्ऱत्ताल् सुऱ्ऱप् पडऒऴुगल् सॆल्वन्दाऩ्
-पॆऱ्ऱत्ताल् पॆऱ्ऱ पयऩ्। ५२४
+सुऱ्ऱत्ताल् सुऱ्ऱप् पडऒऴुगल् सॆल्वन्दाऩ्  
+पॆऱ्ऱत्ताल् पॆऱ्ऱ पयऩ्। ५२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२४</summary>
@@ -188,10 +187,10 @@ Which overflows without a bank.        523
 
 <details><summary>NVK Ashraf choice (en) - ५२४</summary>
 
-०५२४
-To be circled by circles of kin is the benefit
-One gains by gaining wealth.
-(N.V.K. Ashraf), (P.S. Sundaram)
+०५२४  
+To be circled by circles of kin is the benefit  
+One gains by gaining wealth.  
+(N.V.K. Ashraf), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२४</summary>
@@ -225,14 +224,14 @@ When kith and kin are happy found.        524
 
 <details><summary>मूलम् - ५२४</summary>
 
-सुऱ्ऱत्ताल् सुऱ्ऱप् पडऒऴुगल् सॆल्वन्दाऩ्
-पॆऱ्ऱत्ताल् पॆऱ्ऱ पयऩ्। ५२४
+सुऱ्ऱत्ताल् सुऱ्ऱप् पडऒऴुगल् सॆल्वन्दाऩ्  
+पॆऱ्ऱत्ताल् पॆऱ्ऱ पयऩ्। ५२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२५</summary>
 
-कॊडुत्तलुम् इऩ्सॊलुम् आऱ्ऱिऩ् अडुक्किय
-सुऱ्ऱत्ताल् सुऱ्ऱप् पडुम्। ५२५
+कॊडुत्तलुम् इऩ्सॊलुम् आऱ्ऱिऩ् अडुक्किय  
+सुऱ्ऱत्ताल् सुऱ्ऱप् पडुम्। ५२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२५</summary>
@@ -243,10 +242,10 @@ When kith and kin are happy found.        524
 
 <details><summary>NVK Ashraf choice (en) - ५२५</summary>
 
-०५२५
-Generosity and sweet words enable a man
-To be circled by circles of kin. *
-(P.S. Sundaram)
+०५२५  
+Generosity and sweet words enable a man  
+To be circled by circles of kin. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२५</summary>
@@ -280,14 +279,14 @@ Encircle kith and kin around.        525
 
 <details><summary>मूलम् - ५२५</summary>
 
-कॊडुत्तलुम् इऩ्सॊलुम् आऱ्ऱिऩ् अडुक्किय
-सुऱ्ऱत्ताल् सुऱ्ऱप् पडुम्। ५२५
+कॊडुत्तलुम् इऩ्सॊलुम् आऱ्ऱिऩ् अडुक्किय  
+सुऱ्ऱत्ताल् सुऱ्ऱप् पडुम्। ५२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२६</summary>
 
-पॆरुङ्गॊडैयाऩ् पेणाऩ् वॆगुळि अवऩिऩ्
-मरुङ्गुडैयार् मानिलत्तु इल्। ५२६
+पॆरुङ्गॊडैयाऩ् पेणाऩ् वॆगुळि अवऩिऩ्  
+मरुङ्गुडैयार् मानिलत्तु इल्। ५२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२६</summary>
@@ -298,10 +297,10 @@ Encircle kith and kin around.        525
 
 <details><summary>NVK Ashraf choice (en) - ५२६</summary>
 
-०५२६
-None in this world has a larger kinship than he
-Who is liberal and curbs his wrath. *
-(P.S. Sundaram)
+०५२६  
+None in this world has a larger kinship than he  
+Who is liberal and curbs his wrath. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२६</summary>
@@ -335,14 +334,14 @@ Commands on earth countless kinsmen.        526
 
 <details><summary>मूलम् - ५२६</summary>
 
-पॆरुङ्गॊडैयाऩ् पेणाऩ् वॆगुळि अवऩिऩ्
-मरुङ्गुडैयार् मानिलत्तु इल्। ५२६
+पॆरुङ्गॊडैयाऩ् पेणाऩ् वॆगुळि अवऩिऩ्  
+मरुङ्गुडैयार् मानिलत्तु इल्। ५२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२७</summary>
 
-काक्कै करवा करैन्दुण्णुम् आक्कमुम्
-अऩ्ऩनी रार्क्के उळ। ५२७
+काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
+अऩ्ऩनी रार्क्के उळ। ५२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२७</summary>
@@ -353,10 +352,10 @@ Commands on earth countless kinsmen.        526
 
 <details><summary>NVK Ashraf choice (en) - ५२७</summary>
 
-०५२७
-Crows trumpet their finds and share them.
-Prosperity also abides with such men.
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०५२७  
+Crows trumpet their finds and share them.  
+Prosperity also abides with such men.  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२७</summary>
@@ -390,14 +389,14 @@ Welfare abides a man of heart.        527
 
 <details><summary>मूलम् - ५२७</summary>
 
-काक्कै करवा करैन्दुण्णुम् आक्कमुम्
-अऩ्ऩनी रार्क्के उळ। ५२७
+काक्कै करवा करैन्दुण्णुम् आक्कमुम्  
+अऩ्ऩनी रार्क्के उळ। ५२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२८</summary>
 
-पॊदुनोक्काऩ् वेन्दऩ् वरिसैया नोक्किऩ्
-अदुनोक्कि वाऴ्वार् पलर्। ५२८
+पॊदुनोक्काऩ् वेन्दऩ् वरिसैया नोक्किऩ्  
+अदुनोक्कि वाऴ्वार् पलर्। ५२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२८</summary>
@@ -408,10 +407,10 @@ Welfare abides a man of heart.        527
 
 <details><summary>NVK Ashraf choice (en) - ५२८</summary>
 
-०५२८
-Many thrive seeing a king who sees case by case,
-Not seeing mere sameness in all.
-(Satguru Subramuniyaswami), (N.V.K. Ashraf)
+०५२८  
+Many thrive seeing a king who sees case by case,  
+Not seeing mere sameness in all.  
+(Satguru Subramuniyaswami), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२८</summary>
@@ -445,14 +444,14 @@ Each one's merits so many thrive.        528
 
 <details><summary>मूलम् - ५२८</summary>
 
-पॊदुनोक्काऩ् वेन्दऩ् वरिसैया नोक्किऩ्
-अदुनोक्कि वाऴ्वार् पलर्। ५२८
+पॊदुनोक्काऩ् वेन्दऩ् वरिसैया नोक्किऩ्  
+अदुनोक्कि वाऴ्वार् पलर्। ५२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५२९</summary>
 
-तमरागिक् तऱ्ऱुऱन्दार् सुऱ्ऱम् अमरामैक्
-कारणम् इऩ्ऱि वरुम्। ५२९
+तमरागिक् तऱ्ऱुऱन्दार् सुऱ्ऱम् अमरामैक्  
+कारणम् इऩ्ऱि वरुम्। ५२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५२९</summary>
@@ -463,10 +462,10 @@ Each one's merits so many thrive.        528
 
 <details><summary>NVK Ashraf choice (en) - ५२९</summary>
 
-०५२९
-Associates who left will return,
-Once the cause of dissociation is removed.
-(N.V.K. Ashraf)
+०५२९  
+Associates who left will return,  
+Once the cause of dissociation is removed.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५२९</summary>
@@ -500,14 +499,14 @@ When cause for discord goes away.        529
 
 <details><summary>मूलम् - ५२९</summary>
 
-तमरागिक् तऱ्ऱुऱन्दार् सुऱ्ऱम् अमरामैक्
-कारणम् इऩ्ऱि वरुम्। ५२९
+तमरागिक् तऱ्ऱुऱन्दार् सुऱ्ऱम् अमरामैक्  
+कारणम् इऩ्ऱि वरुम्। ५२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ५३०</summary>
 
-उऴैप्पिरिन्दु कारणत्तिऩ् वन्दाऩै वेन्दऩ्
-इऴैत् तिरुन्दु ऎण्णिक् कॊळल्। ५३०
+उऴैप्पिरिन्दु कारणत्तिऩ् वन्दाऩै वेन्दऩ्  
+इऴैत् तिरुन्दु ऎण्णिक् कॊळल्। ५३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ५३०</summary>
@@ -518,10 +517,10 @@ When cause for discord goes away.        529
 
 <details><summary>NVK Ashraf choice (en) - ५३०</summary>
 
-०५३०
-The king should ascertain the motive of the deserters
-Who wish to come back.
-(N.V.K. Ashraf)
+०५३०  
+The king should ascertain the motive of the deserters  
+Who wish to come back.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ५३०</summary>
@@ -554,7 +553,7 @@ The king should test him and receive.        530
 
 <details><summary>मूलम् - ५३०</summary>
 
-उऴैप्पिरिन्दु कारणत्तिऩ् वन्दाऩै वेन्दऩ्
-इऴैत् तिरुन्दु ऎण्णिक् कॊळल्। ५३०
+उऴैप्पिरिन्दु कारणत्तिऩ् वन्दाऩै वेन्दऩ्  
+इऴैत् तिरुन्दु ऎण्णिक् कॊळल्। ५३०  
 </details>
 

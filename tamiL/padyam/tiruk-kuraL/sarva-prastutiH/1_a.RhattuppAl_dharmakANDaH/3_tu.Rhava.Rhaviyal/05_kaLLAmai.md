@@ -3,11 +3,10 @@ title = "०५ कळ्ळामै"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २८१</summary>
 
-ऎळ्ळामै वेण्डुवाऩ् ऎऩ्पाऩ् ऎऩैत्तॊऩ्ऱुम्
-कळ्ळामै काक्कदऩ् नॆञ्जु। २८१
+ऎळ्ळामै वेण्डुवाऩ् ऎऩ्पाऩ् ऎऩैत्तॊऩ्ऱुम्  
+कळ्ळामै काक्कदऩ् नॆञ्जु। २८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८१</summary>
@@ -18,10 +17,10 @@ title = "०५ कळ्ळामै"
 
 <details><summary>NVK Ashraf choice (en) - २८१</summary>
 
-०२८१
-Let him guard against every thought of fraud
-If he wishes not to be scorned.
-(V.V.S. Aiyar), (Satguru Subramuniyaswami)
+०२८१  
+Let him guard against every thought of fraud  
+If he wishes not to be scorned.  
+(V.V.S. Aiyar), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८१</summary>
@@ -56,14 +55,14 @@ From all frauds guard his conscience free.        281
 
 <details><summary>मूलम् - २८१</summary>
 
-ऎळ्ळामै वेण्डुवाऩ् ऎऩ्पाऩ् ऎऩैत्तॊऩ्ऱुम्
-कळ्ळामै काक्कदऩ् नॆञ्जु। २८१
+ऎळ्ळामै वेण्डुवाऩ् ऎऩ्पाऩ् ऎऩैत्तॊऩ्ऱुम्  
+कळ्ळामै काक्कदऩ् नॆञ्जु। २८१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८२</summary>
 
-उळ्ळत्ताल् उळ्ळलुम् तीदे पिऱऩ्पॊरुळैक्
-कळ्ळत्ताल् कळ्वेम् ऎऩल्। २८२
+उळ्ळत्ताल् उळ्ळलुम् तीदे पिऱऩ्पॊरुळैक्  
+कळ्ळत्ताल् कळ्वेम् ऎऩल्। २८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८२</summary>
@@ -74,10 +73,10 @@ From all frauds guard his conscience free.        281
 
 <details><summary>NVK Ashraf choice (en) - २८२</summary>
 
-०२८२
-Even to harbour in mind
-The idea of defrauding another's wealth is sin.
-(M.S. Poornalingam Pillai)
+०२८२  
+Even to harbour in mind  
+The idea of defrauding another's wealth is sin.  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८२</summary>
@@ -112,14 +111,14 @@ Even this thought is sin and stealth.        282
 
 <details><summary>मूलम् - २८२</summary>
 
-उळ्ळत्ताल् उळ्ळलुम् तीदे पिऱऩ्पॊरुळैक्
-कळ्ळत्ताल् कळ्वेम् ऎऩल्। २८२
+उळ्ळत्ताल् उळ्ळलुम् तीदे पिऱऩ्पॊरुळैक्  
+कळ्ळत्ताल् कळ्वेम् ऎऩल्। २८२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८३</summary>
 
-कळविऩाल् आगिय आक्कम् अळविऱन्दु
-आवदु पोलक् कॆडुम्। २८३
+कळविऩाल् आगिय आक्कम् अळविऱन्दु  
+आवदु पोलक् कॆडुम्। २८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८३</summary>
@@ -130,10 +129,10 @@ Even this thought is sin and stealth.        282
 
 <details><summary>NVK Ashraf choice (en) - २८३</summary>
 
-०२८३
-Stolen wealth may seem to swell
-But in the end will burst.
-(P.S. Sundaram)
+०२८३  
+Stolen wealth may seem to swell  
+But in the end will burst.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८३</summary>
@@ -167,14 +166,14 @@ But swift to ruin it shall go.        283
 
 <details><summary>मूलम् - २८३</summary>
 
-कळविऩाल् आगिय आक्कम् अळविऱन्दु
-आवदु पोलक् कॆडुम्। २८३
+कळविऩाल् आगिय आक्कम् अळविऱन्दु  
+आवदु पोलक् कॆडुम्। २८३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८४</summary>
 
-कळविऩ्कण् कऩ्ऱिय कादल् विळैविऩ्कण्
-वीया विऴुमम् तरुम्। २८४
+कळविऩ्कण् कऩ्ऱिय कादल् विळैविऩ्कण्  
+वीया विऴुमम् तरुम्। २८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८४</summary>
@@ -185,10 +184,10 @@ But swift to ruin it shall go.        283
 
 <details><summary>NVK Ashraf choice (en) - २८४</summary>
 
-०२८४
-The excessive love for fraudulent gain
-Leads to everlasting pain. *
-(Kasthuri Sreenivasan)
+०२८४  
+The excessive love for fraudulent gain  
+Leads to everlasting pain. *  
+(Kasthuri Sreenivasan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८४</summary>
@@ -222,14 +221,14 @@ Shall end in endless grief and pain.        284
 
 <details><summary>मूलम् - २८४</summary>
 
-कळविऩ्कण् कऩ्ऱिय कादल् विळैविऩ्कण्
-वीया विऴुमम् तरुम्। २८४
+कळविऩ्कण् कऩ्ऱिय कादल् विळैविऩ्कण्  
+वीया विऴुमम् तरुम्। २८४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८५</summary>
 
-अरुळ्गरुदि अऩ्पुडैय रादल् पॊरुळ्गरुदिप्
-पॊच्चाप्पुप् पार्प्पार्गण् इल्। २८५
+अरुळ्गरुदि अऩ्पुडैय रादल् पॊरुळ्गरुदिप्  
+पॊच्चाप्पुप् पार्प्पार्गण् इल्। २८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८५</summary>
@@ -240,10 +239,10 @@ Shall end in endless grief and pain.        284
 
 <details><summary>NVK Ashraf choice (en) - २८५</summary>
 
-०२८५
-Love and grace are alien virtues to one
-Who plots for innocent's wealth. *
-(J. Narayanaswamy)
+०२८५  
+Love and grace are alien virtues to one  
+Who plots for innocent's wealth. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८५</summary>
@@ -278,14 +277,14 @@ Who watch to waylay dozer's wealth.        285
 
 <details><summary>मूलम् - २८५</summary>
 
-अरुळ्गरुदि अऩ्पुडैय रादल् पॊरुळ्गरुदिप्
-पॊच्चाप्पुप् पार्प्पार्गण् इल्। २८५
+अरुळ्गरुदि अऩ्पुडैय रादल् पॊरुळ्गरुदिप्  
+पॊच्चाप्पुप् पार्प्पार्गण् इल्। २८५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८६</summary>
 
-अळविऩ्कण् निऩ्ऱॊऴुगल् आऱ्ऱार् कळविऩ्कण्
-कऩ्ऱिय काद लवर्। २८६
+अळविऩ्कण् निऩ्ऱॊऴुगल् आऱ्ऱार् कळविऩ्कण्  
+कऩ्ऱिय काद लवर्। २८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८६</summary>
@@ -296,10 +295,10 @@ Who watch to waylay dozer's wealth.        285
 
 <details><summary>NVK Ashraf choice (en) - २८६</summary>
 
-०२८६
-Those who love stealing
-Can never be content with what they have.
-(N.V.K. Ashraf)
+०२८६  
+Those who love stealing  
+Can never be content with what they have.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८६</summary>
@@ -333,14 +332,14 @@ who crave and have covetous ends.        286
 
 <details><summary>मूलम् - २८६</summary>
 
-अळविऩ्कण् निऩ्ऱॊऴुगल् आऱ्ऱार् कळविऩ्कण्
-कऩ्ऱिय काद लवर्। २८६
+अळविऩ्कण् निऩ्ऱॊऴुगल् आऱ्ऱार् कळविऩ्कण्  
+कऩ्ऱिय काद लवर्। २८६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८७</summary>
 
-कळवॆऩ्ऩुम् कारऱि वाण्मै अळवॆऩ्ऩुम्
-आऱ्ऱल् पुरिन्दार्गण्ड इल्। २८७
+कळवॆऩ्ऩुम् कारऱि वाण्मै अळवॆऩ्ऩुम्  
+आऱ्ऱल् पुरिन्दार्गण्ड इल्। २८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८७</summary>
@@ -351,10 +350,10 @@ who crave and have covetous ends.        286
 
 <details><summary>NVK Ashraf choice (en) - २८७</summary>
 
-०२८७
-Those gifted with the faculty of contentment
-Never have that shady skill called fraud.
-(N.V.K. Ashraf)
+०२८७  
+Those gifted with the faculty of contentment  
+Never have that shady skill called fraud.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८७</summary>
@@ -388,14 +387,14 @@ Black art of fraud and what it won.        287
 
 <details><summary>मूलम् - २८७</summary>
 
-कळवॆऩ्ऩुम् कारऱि वाण्मै अळवॆऩ्ऩुम्
-आऱ्ऱल् पुरिन्दार्गण्ड इल्। २८७
+कळवॆऩ्ऩुम् कारऱि वाण्मै अळवॆऩ्ऩुम्  
+आऱ्ऱल् पुरिन्दार्गण्ड इल्। २८७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८८</summary>
 
-अळवऱान्दार् नॆञ्जत् तऱम्बोल निऱ्कुम्
-कळवऱिन्दार् नॆञ्जिल् करवु। २८८
+अळवऱान्दार् नॆञ्जत् तऱम्बोल निऱ्कुम्  
+कळवऱिन्दार् नॆञ्जिल् करवु। २८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८८</summary>
@@ -406,10 +405,10 @@ Black art of fraud and what it won.        287
 
 <details><summary>NVK Ashraf choice (en) - २८८</summary>
 
-०२८८
-As virtue in the hearts of the righteous,
-Deceit dwells in the hearts of thieves. *
-(Satguru Subramuniyaswami)
+०२८८  
+As virtue in the hearts of the righteous,  
+Deceit dwells in the hearts of thieves. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८८</summary>
@@ -443,14 +442,14 @@ Into minds of frauds deceit darts.        288
 
 <details><summary>मूलम् - २८८</summary>
 
-अळवऱान्दार् नॆञ्जत् तऱम्बोल निऱ्कुम्
-कळवऱिन्दार् नॆञ्जिल् करवु। २८८
+अळवऱान्दार् नॆञ्जत् तऱम्बोल निऱ्कुम्  
+कळवऱिन्दार् नॆञ्जिल् करवु। २८८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २८९</summary>
 
-अळवल्ल सॆय्दाङ्गे वीवर् कळवल्ल
-मऱ्ऱैय तेऱ्ऱा तवर्। २८९
+अळवल्ल सॆय्दाङ्गे वीवर् कळवल्ल  
+मऱ्ऱैय तेऱ्ऱा तवर्। २८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २८९</summary>
@@ -461,10 +460,10 @@ Into minds of frauds deceit darts.        288
 
 <details><summary>NVK Ashraf choice (en) - २८९</summary>
 
-०२८९
-Discontented men who know nothing but fraud
-Perish as and when they corrupt.
-(N.V.K. Ashraf)
+०२८९  
+Discontented men who know nothing but fraud  
+Perish as and when they corrupt.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २८९</summary>
@@ -499,14 +498,14 @@ Who know nothing but pilfery.        289
 
 <details><summary>मूलम् - २८९</summary>
 
-अळवल्ल सॆय्दाङ्गे वीवर् कळवल्ल
-मऱ्ऱैय तेऱ्ऱा तवर्। २८९
+अळवल्ल सॆय्दाङ्गे वीवर् कळवल्ल  
+मऱ्ऱैय तेऱ्ऱा तवर्। २८९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २९०</summary>
 
-कळ्वार्क्कुत् तळ्ळुम् उयिर्निलै कळ्वार्क्कुत्
-तळ्ळादु पुत्ते ळुळगु। २९०
+कळ्वार्क्कुत् तळ्ळुम् उयिर्निलै कळ्वार्क्कुत्  
+तळ्ळादु पुत्ते ळुळगु। २९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २९०</summary>
@@ -517,10 +516,10 @@ Who know nothing but pilfery.        289
 
 <details><summary>NVK Ashraf choice (en) - २९०</summary>
 
-०२९०
-Even life abandons him who defrauds others,
-But heaven never forsakes the honest. *
-(Satguru Subramuniyaswami)
+०२९०  
+Even life abandons him who defrauds others,  
+But heaven never forsakes the honest. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २९०</summary>
@@ -554,7 +553,7 @@ The honest men, heaven receives.        290
 
 <details><summary>मूलम् - २९०</summary>
 
-कळ्वार्क्कुत् तळ्ळुम् उयिर्निलै कळ्वार्क्कुत्
-तळ्ळादु पुत्ते ळुळगु। २९०
+कळ्वार्क्कुत् तळ्ळुम् उयिर्निलै कळ्वार्क्कुत्  
+तळ्ळादु पुत्ते ळुळगु। २९०  
 </details>
 

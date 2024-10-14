@@ -3,11 +3,10 @@ title = "०३ कण्विदुप्पऴिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ११७१</summary>
 
-कण्दाम् कलुऴ्व तॆवऩ्कॊलो तण्डानोय्
-ताम्गाट्ट याम्गण् डदु। ११७१
+कण्दाम् कलुऴ्व तॆवऩ्कॊलो तण्डानोय्  
+ताम्गाट्ट याम्गण् डदु। ११७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७१</summary>
@@ -18,10 +17,10 @@ title = "०३ कण्विदुप्पऴिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ११७१</summary>
 
-११७१
-Why the same eyes that showed him to me
-And caused this fever, now cry in anguish?
-(N.V.K. Ashraf)
+११७१  
+Why the same eyes that showed him to me  
+And caused this fever, now cry in anguish?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११७१</summary>
@@ -60,14 +59,14 @@ They weep with malady and pine?        1171
 
 <details><summary>मूलम् - ११७१</summary>
 
-कण्दाम् कलुऴ्व तॆवऩ्कॊलो तण्डानोय्
-ताम्गाट्ट याम्गण् डदु। ११७१
+कण्दाम् कलुऴ्व तॆवऩ्कॊलो तण्डानोय्  
+ताम्गाट्ट याम्गण् डदु। ११७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७२</summary>
 
-तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्
-पैदल् उऴप्पदु ऎवऩ्? ११७२
+तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्  
+पैदल् उऴप्पदु ऎवऩ्? ११७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७२</summary>
@@ -78,10 +77,10 @@ They weep with malady and pine?        1171
 
 <details><summary>NVK Ashraf choice (en) - ११७२</summary>
 
-११७२
-Why do these eyes, once thoughtlessly looked at him,
-Now not repent but grieve?
-(P.S. Sundaram), (N.V.K. Ashraf)
+११७२  
+Why do these eyes, once thoughtlessly looked at him,  
+Now not repent but grieve?  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७२</summary>
@@ -115,14 +114,14 @@ Regrets for their thoughtless glance?        1172
 
 <details><summary>मूलम् - ११७२</summary>
 
-तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्
-पैदल् उऴप्पदु ऎवऩ्? ११७२
+तॆरिन्दुणरा नोक्किय उण्गण् परिन्दुणराप्  
+पैदल् उऴप्पदु ऎवऩ्? ११७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७३</summary>
 
-कदुमॆऩत् तानोक्कित् तामे कलुऴुम्
-इदुनगत् तक्क तुडैत्तु। ११७३
+कदुमॆऩत् तानोक्कित् तामे कलुऴुम्  
+इदुनगत् तक्क तुडैत्तु। ११७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७३</summary>
@@ -133,10 +132,10 @@ Regrets for their thoughtless glance?        1172
 
 <details><summary>NVK Ashraf choice (en) - ११७३</summary>
 
-११७३
-Funny the very same eyes that once
-Eagerly looked at him are now in tears!
-(N.V.K. Ashraf)
+११७३  
+Funny the very same eyes that once  
+Eagerly looked at him are now in tears!  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७३</summary>
@@ -170,14 +169,14 @@ It's funny that they weep today.        1173
 
 <details><summary>मूलम् - ११७३</summary>
 
-कदुमॆऩत् तानोक्कित् तामे कलुऴुम्
-इदुनगत् तक्क तुडैत्तु। ११७३
+कदुमॆऩत् तानोक्कित् तामे कलुऴुम्  
+इदुनगत् तक्क तुडैत्तु। ११७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७४</summary>
 
-पॆयलाऱ्ऱा नीरुलन्द उण्गण् उयलाऱ्ऱा
-उय्विल्नोय् ऎऩ्कण् निऱुत्तु। ११७४
+पॆयलाऱ्ऱा नीरुलन्द उण्गण् उयलाऱ्ऱा  
+उय्विल्नोय् ऎऩ्कण् निऱुत्तु। ११७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७४</summary>
@@ -188,10 +187,10 @@ It's funny that they weep today.        1173
 
 <details><summary>NVK Ashraf choice (en) - ११७४</summary>
 
-११७४
-Having driven me to this incurable fever,
-My eyes have dried up, drained of all tears. *
-(K.R. Srinivasa Iyengar)
+११७४  
+Having driven me to this incurable fever,  
+My eyes have dried up, drained of all tears. *  
+(K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७४</summary>
@@ -225,14 +224,14 @@ Crying adry without relief.        1174
 
 <details><summary>मूलम् - ११७४</summary>
 
-पॆयलाऱ्ऱा नीरुलन्द उण्गण् उयलाऱ्ऱा
-उय्विल्नोय् ऎऩ्कण् निऱुत्तु। ११७४
+पॆयलाऱ्ऱा नीरुलन्द उण्गण् उयलाऱ्ऱा  
+उय्विल्नोय् ऎऩ्कण् निऱुत्तु। ११७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७५</summary>
 
-पडलाऱ्ऱा पैदल् उऴक्कुम् कडलाऱ्ऱाक्
-कामनोय् सॆय्दऎऩ् कण्। ११७५
+पडलाऱ्ऱा पैदल् उऴक्कुम् कडलाऱ्ऱाक्  
+कामनोय् सॆय्दऎऩ् कण्। ११७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७५</summary>
@@ -243,10 +242,10 @@ Crying adry without relief.        1174
 
 <details><summary>NVK Ashraf choice (en) - ११७५</summary>
 
-११७५
-My eyes plunged me in a raging sea of love
-And for this must suffer sleepless pain. *
-(P.S. Sundaram)
+११७५  
+My eyes plunged me in a raging sea of love  
+And for this must suffer sleepless pain. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७५</summary>
@@ -280,14 +279,14 @@ Suffer that torture sleeplessly.        1175
 
 <details><summary>मूलम् - ११७५</summary>
 
-पडलाऱ्ऱा पैदल् उऴक्कुम् कडलाऱ्ऱाक्
-कामनोय् सॆय्दऎऩ् कण्। ११७५
+पडलाऱ्ऱा पैदल् उऴक्कुम् कडलाऱ्ऱाक्  
+कामनोय् सॆय्दऎऩ् कण्। ११७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७६</summary>
 
-ओऒ इऩिदे ऎमक्किन्नोय् सॆय्दगण्
-ताअम् इदऱ्पट् टदु। ११७६
+ओऒ इऩिदे ऎमक्किन्नोय् सॆय्दगण्  
+ताअम् इदऱ्पट् टदु। ११७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७६</summary>
@@ -298,10 +297,10 @@ Suffer that torture sleeplessly.        1175
 
 <details><summary>NVK Ashraf choice (en) - ११७६</summary>
 
-११७६
-How nice! The eyes that caused this torment
-Are themselves tormented. *
-(P.S. Sundaram)
+११७६  
+How nice! The eyes that caused this torment  
+Are themselves tormented. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७६</summary>
@@ -335,14 +334,14 @@ Are victims of the same themselves.        1176
 
 <details><summary>मूलम् - ११७६</summary>
 
-ओऒ इऩिदे ऎमक्किन्नोय् सॆय्दगण्
-ताअम् इदऱ्पट् टदु। ११७६
+ओऒ इऩिदे ऎमक्किन्नोय् सॆय्दगण्  
+ताअम् इदऱ्पट् टदु। ११७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७७</summary>
 
-उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु
-वेण्डि अवर्क्कण्ड कण्। ११७७
+उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु  
+वेण्डि अवर्क्कण्ड कण्। ११७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७७</summary>
@@ -353,10 +352,10 @@ Are victims of the same themselves.        1176
 
 <details><summary>NVK Ashraf choice (en) - ११७७</summary>
 
-११७७
-Let tears dry up pining and pining in the eyes
-That eyed him longing and longing.
-( Shuddhananda Bharatiar)
+११७७  
+Let tears dry up pining and pining in the eyes  
+That eyed him longing and longing.  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११७७</summary>
@@ -390,14 +389,14 @@ In eyes that eyed him longing longing.        1177
 
 <details><summary>मूलम् - ११७७</summary>
 
-उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु
-वेण्डि अवर्क्कण्ड कण्। ११७७
+उऴन्दुऴन् दुळ्नीर् अऱुग विऴैन्दिऴैन्दु  
+वेण्डि अवर्क्कण्ड कण्। ११७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७८</summary>
 
-पेणादु पॆट्टार् उळर्मऩ्ऩो मऱ्ऱवर्क्
-काणादु अमैविल कण्। ११७८
+पेणादु पॆट्टार् उळर्मऩ्ऩो मऱ्ऱवर्क्  
+काणादु अमैविल कण्। ११७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७८</summary>
@@ -408,10 +407,10 @@ In eyes that eyed him longing longing.        1177
 
 <details><summary>NVK Ashraf choice (en) - ११७८</summary>
 
-११७८
-He made love with words, not with heart.
-Yet my eyes pine, seeing him not. *
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+११७८  
+He made love with words, not with heart.  
+Yet my eyes pine, seeing him not. *  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११७८</summary>
@@ -450,14 +449,14 @@ Yet my eyes pine seeing him not.        1178
 
 <details><summary>मूलम् - ११७८</summary>
 
-पेणादु पॆट्टार् उळर्मऩ्ऩो मऱ्ऱवर्क्
-काणादु अमैविल कण्। ११७८
+पेणादु पॆट्टार् उळर्मऩ्ऩो मऱ्ऱवर्क्  
+काणादु अमैविल कण्। ११७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११७९</summary>
 
-वाराक्काल् तुञ्जा वरिऩ्तुञ्जा आयिडै
-आरञर् उऱ्ऱऩ कण्। ११७९
+वाराक्काल् तुञ्जा वरिऩ्तुञ्जा आयिडै  
+आरञर् उऱ्ऱऩ कण्। ११७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११७९</summary>
@@ -468,10 +467,10 @@ Yet my eyes pine seeing him not.        1178
 
 <details><summary>NVK Ashraf choice (en) - ११७९</summary>
 
-११७९
-Sleepless when he is not here, sleepless when he is,
-Either way my eyes never rest.
-(P.S. Sundaram)
+११७९  
+Sleepless when he is not here, sleepless when he is,  
+Either way my eyes never rest.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ११७९</summary>
@@ -510,14 +509,14 @@ This is the fate of eyes that weep.        1179
 
 <details><summary>मूलम् - ११७९</summary>
 
-वाराक्काल् तुञ्जा वरिऩ्तुञ्जा आयिडै
-आरञर् उऱ्ऱऩ कण्। ११७९
+वाराक्काल् तुञ्जा वरिऩ्तुञ्जा आयिडै  
+आरञर् उऱ्ऱऩ कण्। ११७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ११८०</summary>
 
-मऱैबॆऱल् ऊरार्क्कु अरिदऩ्ऱाल् ऎम्बोल्
-अऱैबऱै कण्णार् अगत्तु। ११८०
+मऱैबॆऱल् ऊरार्क्कु अरिदऩ्ऱाल् ऎम्बोल्  
+अऱैबऱै कण्णार् अगत्तु। ११८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ११८०</summary>
@@ -528,10 +527,10 @@ This is the fate of eyes that weep.        1179
 
 <details><summary>NVK Ashraf choice (en) - ११८०</summary>
 
-११८०
-With eyes that drum up and declare my grief,
-It is hard to conceal secrets from these folks! *
-(J. Narayanaswamy)
+११८०  
+With eyes that drum up and declare my grief,  
+It is hard to conceal secrets from these folks! *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ११८०</summary>
@@ -564,7 +563,7 @@ From people who could hide his secret?        1180
 
 <details><summary>मूलम् - ११८०</summary>
 
-मऱैबॆऱल् ऊरार्क्कु अरिदऩ्ऱाल् ऎम्बोल्
-अऱैबऱै कण्णार् अगत्तु। ११८०
+मऱैबॆऱल् ऊरार्क्कु अरिदऩ्ऱाल् ऎम्बोल्  
+अऱैबऱै कण्णार् अगत्तु। ११८०  
 </details>
 

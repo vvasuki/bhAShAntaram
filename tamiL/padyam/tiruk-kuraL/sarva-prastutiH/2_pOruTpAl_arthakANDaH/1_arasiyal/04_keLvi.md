@@ -3,11 +3,10 @@ title = "०४ केळ्वि"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ४११</summary>
 
-सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्
-सॆल्वत्तु ळॆल्लान् दलै। ४११
+सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्  
+सॆल्वत्तु ळॆल्लान् दलै। ४११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४११</summary>
@@ -18,10 +17,10 @@ title = "०४ केळ्वि"
 
 <details><summary>NVK Ashraf choice (en) - ४११</summary>
 
-०४११
-The wealth of wealths is the wealth of hearing;
-That wealth out-tops all else. *
-(P.S. Sundaram)
+०४११  
+The wealth of wealths is the wealth of hearing;  
+That wealth out-tops all else. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ४११</summary>
@@ -60,14 +59,14 @@ It is the best of wealths on earth.        411
 
 <details><summary>मूलम् - ४११</summary>
 
-सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्
-सॆल्वत्तु ळॆल्लान् दलै। ४११
+सॆल्वत्तुट् चॆल्वञ् जॆविच्चॆल्वम् अच्चॆल्वम्  
+सॆल्वत्तु ळॆल्लान् दलै। ४११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१२</summary>
 
-सॆवुक्कुण विल्लाद पोऴ्दु सिऱिदु
-वयिऱ्ऱुक्कुम् ईयप् पडुम्। ४१२
+सॆवुक्कुण विल्लाद पोऴ्दु सिऱिदु  
+वयिऱ्ऱुक्कुम् ईयप् पडुम्। ४१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१२</summary>
@@ -78,10 +77,10 @@ It is the best of wealths on earth.        411
 
 <details><summary>NVK Ashraf choice (en) - ४१२</summary>
 
-०४१२
-When there is no food for the ear,
-A little can be given to the stomach as well.
-(G. Vanmikanathan)
+०४१२  
+When there is no food for the ear,  
+A little can be given to the stomach as well.  
+(G. Vanmikanathan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१२</summary>
@@ -115,14 +114,14 @@ When the ear gets no food for thought.        412
 
 <details><summary>मूलम् - ४१२</summary>
 
-सॆवुक्कुण विल्लाद पोऴ्दु सिऱिदु
-वयिऱ्ऱुक्कुम् ईयप् पडुम्। ४१२
+सॆवुक्कुण विल्लाद पोऴ्दु सिऱिदु  
+वयिऱ्ऱुक्कुम् ईयप् पडुम्। ४१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१३</summary>
 
-सॆवियुणविऱ् केळ्वि युडैयार् अवियुणविऩ्
-आऩ्ऱारो टॊप्पर् निलत्तु। ४१३
+सॆवियुणविऱ् केळ्वि युडैयार् अवियुणविऩ्  
+आऩ्ऱारो टॊप्पर् निलत्तु। ४१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१३</summary>
@@ -133,10 +132,10 @@ When the ear gets no food for thought.        412
 
 <details><summary>NVK Ashraf choice (en) - ४१३</summary>
 
-०४१३
-As gods in heaven are fed through fire,
-So men on earth are fed through their ears.
-(P.S. Sundaram)
+०४१३  
+As gods in heaven are fed through fire,  
+So men on earth are fed through their ears.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१३</summary>
@@ -170,14 +169,14 @@ Equal gods on oblations fed.        413
 
 <details><summary>मूलम् - ४१३</summary>
 
-सॆवियुणविऱ् केळ्वि युडैयार् अवियुणविऩ्
-आऩ्ऱारो टॊप्पर् निलत्तु। ४१३
+सॆवियुणविऱ् केळ्वि युडैयार् अवियुणविऩ्  
+आऩ्ऱारो टॊप्पर् निलत्तु। ४१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१४</summary>
 
-कऱ्ऱिल ऩायिऩुङ् गेट्क अह्दॊरुवऱ्कु
-ऒऱ्कत्तिऩ् ऊऱ्ऱान् दुणै। ४१४
+कऱ्ऱिल ऩायिऩुङ् गेट्क अह्दॊरुवऱ्कु  
+ऒऱ्कत्तिऩ् ऊऱ्ऱान् दुणै। ४१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१४</summary>
@@ -188,10 +187,10 @@ Equal gods on oblations fed.        413
 
 <details><summary>NVK Ashraf choice (en) - ४१४</summary>
 
-०४१४
-Though unlettered, listen;
-You will find this a great help in distress.
-(P.S. Sundaram)
+०४१४  
+Though unlettered, listen;  
+You will find this a great help in distress.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१४</summary>
@@ -225,14 +224,14 @@ That serves a staff and stay in need.        414
 
 <details><summary>मूलम् - ४१४</summary>
 
-कऱ्ऱिल ऩायिऩुङ् गेट्क अह्दॊरुवऱ्कु
-ऒऱ्कत्तिऩ् ऊऱ्ऱान् दुणै। ४१४
+कऱ्ऱिल ऩायिऩुङ् गेट्क अह्दॊरुवऱ्कु  
+ऒऱ्कत्तिऩ् ऊऱ्ऱान् दुणै। ४१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१५</summary>
 
-इऴुक्कल् उडैयुऴि ऊऱ्ऱुक्कोल् अऱ्ऱे
-ऒऴुक्क मुडैयार्वाय्च् चॊल्। ४१५
+इऴुक्कल् उडैयुऴि ऊऱ्ऱुक्कोल् अऱ्ऱे  
+ऒऴुक्क मुडैयार्वाय्च् चॊल्। ४१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१५</summary>
@@ -243,10 +242,10 @@ That serves a staff and stay in need.        414
 
 <details><summary>NVK Ashraf choice (en) - ४१५</summary>
 
-०४१५
-Words from the lips of upright men
-Are like a steadying staff in a slippery place.
-(Satguru Subramuniyaswami)
+०४१५  
+Words from the lips of upright men  
+Are like a steadying staff in a slippery place.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१५</summary>
@@ -280,14 +279,14 @@ A strong staff on slippery ground.        415
 
 <details><summary>मूलम् - ४१५</summary>
 
-इऴुक्कल् उडैयुऴि ऊऱ्ऱुक्कोल् अऱ्ऱे
-ऒऴुक्क मुडैयार्वाय्च् चॊल्। ४१५
+इऴुक्कल् उडैयुऴि ऊऱ्ऱुक्कोल् अऱ्ऱे  
+ऒऴुक्क मुडैयार्वाय्च् चॊल्। ४१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१६</summary>
 
-ऎऩैत्ताऩुम् नल्लवै केट्क अऩैत्ताऩुम्
-आऩ्ऱ पॆरुमै तरुम्। ४१६
+ऎऩैत्ताऩुम् नल्लवै केट्क अऩैत्ताऩुम्  
+आऩ्ऱ पॆरुमै तरुम्। ४१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१६</summary>
@@ -298,10 +297,10 @@ A strong staff on slippery ground.        415
 
 <details><summary>NVK Ashraf choice (en) - ४१६</summary>
 
-०४१६
-Listen to the good however little
-And even that much will bring great dignity.
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०४१६  
+Listen to the good however little  
+And even that much will bring great dignity.  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१६</summary>
@@ -335,14 +334,14 @@ That much will highly exalt you.        416
 
 <details><summary>मूलम् - ४१६</summary>
 
-ऎऩैत्ताऩुम् नल्लवै केट्क अऩैत्ताऩुम्
-आऩ्ऱ पॆरुमै तरुम्। ४१६
+ऎऩैत्ताऩुम् नल्लवै केट्क अऩैत्ताऩुम्  
+आऩ्ऱ पॆरुमै तरुम्। ४१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१७</summary>
 
-पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्
-दीण्डिय केळ्वि यवर्। ४१७
+पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्  
+दीण्डिय केळ्वि यवर्। ४१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१७</summary>
@@ -353,10 +352,10 @@ That much will highly exalt you.        416
 
 <details><summary>NVK Ashraf choice (en) - ४१७</summary>
 
-०४१७
-Those who have sought and heard much
-Will not talk nonsense even by mistake.
-(P.S. Sundaram)
+०४१७  
+Those who have sought and heard much  
+Will not talk nonsense even by mistake.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१७</summary>
@@ -390,14 +389,14 @@ Not ev'n by slip speak foolishly.        417
 
 <details><summary>मूलम् - ४१७</summary>
 
-पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्
-दीण्डिय केळ्वि यवर्। ४१७
+पिऴैत् तुणर्न्दुम् पेदैमै सॊल्ला रिऴैत्तुणर्न्  
+दीण्डिय केळ्वि यवर्। ४१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१८</summary>
 
-केट्पिऩुङ् गेळात् तगैयवे केळ्वियाल्
-तोट्कप् पडाद सॆवि। ४१८
+केट्पिऩुङ् गेळात् तगैयवे केळ्वियाल्  
+तोट्कप् पडाद सॆवि। ४१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१८</summary>
@@ -408,10 +407,10 @@ Not ev'n by slip speak foolishly.        417
 
 <details><summary>NVK Ashraf choice (en) - ४१८</summary>
 
-०४१८
-Ears may hear and yet remain deaf,
-If not drilled by words of instruction.
-(Satguru Subramuniyaswami), (V.V.S. Aiyar)
+०४१८  
+Ears may hear and yet remain deaf,  
+If not drilled by words of instruction.  
+(Satguru Subramuniyaswami), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१८</summary>
@@ -445,14 +444,14 @@ Which is not by wisdom drilled.        418
 
 <details><summary>मूलम् - ४१८</summary>
 
-केट्पिऩुङ् गेळात् तगैयवे केळ्वियाल्
-तोट्कप् पडाद सॆवि। ४१८
+केट्पिऩुङ् गेळात् तगैयवे केळ्वियाल्  
+तोट्कप् पडाद सॆवि। ४१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४१९</summary>
 
-नुणङ्गिय केळ्विय रल्लार् वणङ्गिय
-वायिऩ रादल् अरिदु। ४१९
+नुणङ्गिय केळ्विय रल्लार् वणङ्गिय  
+वायिऩ रादल् अरिदु। ४१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४१९</summary>
@@ -463,10 +462,10 @@ Which is not by wisdom drilled.        418
 
 <details><summary>NVK Ashraf choice (en) - ४१९</summary>
 
-०४१९
-A modest mouth is hard for those
-Whose ears lend not to wise counsels.
-( Shuddhananda Bharatiar), (J. Narayanaswamy)
+०४१९  
+A modest mouth is hard for those  
+Whose ears lend not to wise counsels.  
+( Shuddhananda Bharatiar), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४१९</summary>
@@ -500,14 +499,14 @@ Who care little to counsels wise.        419
 
 <details><summary>मूलम् - ४१९</summary>
 
-नुणङ्गिय केळ्विय रल्लार् वणङ्गिय
-वायिऩ रादल् अरिदु। ४१९
+नुणङ्गिय केळ्विय रल्लार् वणङ्गिय  
+वायिऩ रादल् अरिदु। ४१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ४२०</summary>
 
-सॆवियिऱ् सुवैयुणरा वायुणर्विऩ् माक्कळ्
-अवियिऩुम् वाऴिऩुम् ऎऩ्? ४२०
+सॆवियिऱ् सुवैयुणरा वायुणर्विऩ् माक्कळ्  
+अवियिऩुम् वाऴिऩुम् ऎऩ्? ४२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ४२०</summary>
@@ -518,10 +517,10 @@ Who care little to counsels wise.        419
 
 <details><summary>NVK Ashraf choice (en) - ४२०</summary>
 
-०४२०
-What matters if they live or die
-Whose taste is in their tongues, not ears?
-(P.S. Sundaram)
+०४२०  
+What matters if they live or die  
+Whose taste is in their tongues, not ears?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४२०</summary>
@@ -554,7 +553,7 @@ What if they fare ill or well here?        420
 
 <details><summary>मूलम् - ४२०</summary>
 
-सॆवियिऱ् सुवैयुणरा वायुणर्विऩ् माक्कळ्
-अवियिऩुम् वाऴिऩुम् ऎऩ्? ४२०
+सॆवियिऱ् सुवैयुणरा वायुणर्विऩ् माक्कळ्  
+अवियिऩुम् वाऴिऩुम् ऎऩ्? ४२०  
 </details>
 

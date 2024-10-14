@@ -3,11 +3,10 @@ title = "०१ अमैच्चु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ६३१</summary>
 
-करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्
-अरुविऩैयुम् माण्डदु अमैच्चु। ६३१
+करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्  
+अरुविऩैयुम् माण्डदु अमैच्चु। ६३१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३१</summary>
@@ -19,10 +18,10 @@ title = "०१ अमैच्चु"
 
 <details><summary>NVK Ashraf choice (en) - ६३१</summary>
 
-०६३१
-Call him minister who best contrives the means,
-The time, the mode and the deed.
-(P.S. Sundaram)
+०६३१  
+Call him minister who best contrives the means,  
+The time, the mode and the deed.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३१</summary>
@@ -59,14 +58,14 @@ Right means, time, mode and rare ventures.        631
 
 <details><summary>मूलम् - ६३१</summary>
 
-करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्
-अरुविऩैयुम् माण्डदु अमैच्चु। ६३१
+करुवियुम् कालमुम् सॆय्गैयुम् सॆय्युम्  
+अरुविऩैयुम् माण्डदु अमैच्चु। ६३१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३२</summary>
 
-वऩ्कण् कुडिगात्तल् कऱ्ऱऱिदल् आळ्विऩैयोडु
-ऐन्दुडऩ् माण्डदु अमैच्चु। ६३२
+वऩ्कण् कुडिगात्तल् कऱ्ऱऱिदल् आळ्विऩैयोडु  
+ऐन्दुडऩ् माण्डदु अमैच्चु। ६३२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३२</summary>
@@ -77,10 +76,10 @@ Right means, time, mode and rare ventures.        631
 
 <details><summary>NVK Ashraf choice (en) - ६३२</summary>
 
-०६३२
-A minister excels in firmness, protection,
-Learning and perseverance, besides the five tactics. *
-(V. Ramasamy)
+०६३२  
+A minister excels in firmness, protection,  
+Learning and perseverance, besides the five tactics. *  
+(V. Ramasamy)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६३२</summary>
@@ -120,14 +119,14 @@ Knowledge, firmness and manliness.        632
 
 <details><summary>मूलम् - ६३२</summary>
 
-वऩ्कण् कुडिगात्तल् कऱ्ऱऱिदल् आळ्विऩैयोडु
-ऐन्दुडऩ् माण्डदु अमैच्चु। ६३२
+वऩ्कण् कुडिगात्तल् कऱ्ऱऱिदल् आळ्विऩैयोडु  
+ऐन्दुडऩ् माण्डदु अमैच्चु। ६३२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३३</summary>
 
-पिरित्तलुम् पेणिक् कॊळलुम् पिरिन्दार्प्
-पॊरुत्तलुम् वल्ल तमैच्चु। ६३३
+पिरित्तलुम् पेणिक् कॊळलुम् पिरिन्दार्प्  
+पॊरुत्तलुम् वल्ल तमैच्चु। ६३३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३३</summary>
@@ -138,10 +137,10 @@ Knowledge, firmness and manliness.        632
 
 <details><summary>NVK Ashraf choice (en) - ६३३</summary>
 
-०६३३
-An able minister can disunite allies,
-Cherish friends and reunite enemies. *
-(V.V.S. Aiyar)
+०६३३  
+An able minister can disunite allies,  
+Cherish friends and reunite enemies. *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३३</summary>
@@ -176,14 +175,14 @@ Divides foes and the parted blends.        633
 
 <details><summary>मूलम् - ६३३</summary>
 
-पिरित्तलुम् पेणिक् कॊळलुम् पिरिन्दार्प्
-पॊरुत्तलुम् वल्ल तमैच्चु। ६३३
+पिरित्तलुम् पेणिक् कॊळलुम् पिरिन्दार्प्  
+पॊरुत्तलुम् वल्ल तमैच्चु। ६३३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३४</summary>
 
-तॆरिदलुम् तेर्न्दु सॆयलुम् ऒरुदलैयाच्
-चॊल्ललुम् वल्लदु अमैच्चु। ६३४
+तॆरिदलुम् तेर्न्दु सॆयलुम् ऒरुदलैयाच्  
+चॊल्ललुम् वल्लदु अमैच्चु। ६३४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३४</summary>
@@ -194,10 +193,10 @@ Divides foes and the parted blends.        633
 
 <details><summary>NVK Ashraf choice (en) - ६३४</summary>
 
-०६३४
-Call him a minister who comprehends things,
-Executes them and directs others. *
-(Satguru Subramuniyaswami)
+०६३४  
+Call him a minister who comprehends things,  
+Executes them and directs others. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३४</summary>
@@ -232,14 +231,14 @@ Select and say surely one fact.        634
 
 <details><summary>मूलम् - ६३४</summary>
 
-तॆरिदलुम् तेर्न्दु सॆयलुम् ऒरुदलैयाच्
-चॊल्ललुम् वल्लदु अमैच्चु। ६३४
+तॆरिदलुम् तेर्न्दु सॆयलुम् ऒरुदलैयाच्  
+चॊल्ललुम् वल्लदु अमैच्चु। ६३४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३५</summary>
 
-अऱऩऱिन्दु आऩ्ऱमैन्द सॊल्लाऩ्ऎञ् ञाऩ्ऱुन्
-दिऱऩऱिन्दाऩ् तेर्चित् तुणै। ६३५
+अऱऩऱिन्दु आऩ्ऱमैन्द सॊल्लाऩ्ऎञ् ञाऩ्ऱुन्  
+दिऱऩऱिन्दाऩ् तेर्चित् तुणै। ६३५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३५</summary>
@@ -250,10 +249,10 @@ Select and say surely one fact.        634
 
 <details><summary>NVK Ashraf choice (en) - ६३५</summary>
 
-०६३५
-A helpful counsellor knows the codes,
-Is learned in discourse and ever resourceful.
-(P.S. Sundaram)
+०६३५  
+A helpful counsellor knows the codes,  
+Is learned in discourse and ever resourceful.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३५</summary>
@@ -288,14 +287,14 @@ Right wisdom speaks, ever apt in acts.        635
 
 <details><summary>मूलम् - ६३५</summary>
 
-अऱऩऱिन्दु आऩ्ऱमैन्द सॊल्लाऩ्ऎञ् ञाऩ्ऱुन्
-दिऱऩऱिन्दाऩ् तेर्चित् तुणै। ६३५
+अऱऩऱिन्दु आऩ्ऱमैन्द सॊल्लाऩ्ऎञ् ञाऩ्ऱुन्  
+दिऱऩऱिन्दाऩ् तेर्चित् तुणै। ६३५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३६</summary>
 
-मदिनुट्पम् नूलोडु उडैयार्क्कु अदिनुट्पम्
-यावुळ मुऩ्निऱ् पवै। ६३६
+मदिनुट्पम् नूलोडु उडैयार्क्कु अदिनुट्पम्  
+यावुळ मुऩ्निऱ् पवै। ६३६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३६</summary>
@@ -306,10 +305,10 @@ Right wisdom speaks, ever apt in acts.        635
 
 <details><summary>NVK Ashraf choice (en) - ६३६</summary>
 
-०६३६
-What is there too subtle to stand before men
-Who add learning to their intelligence? *
-(V.V.S. Aiyar)
+०६३६  
+What is there too subtle to stand before men  
+Who add learning to their intelligence? *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६३६</summary>
@@ -349,14 +348,14 @@ The keen in brain with learned love?        636
 
 <details><summary>मूलम् - ६३६</summary>
 
-मदिनुट्पम् नूलोडु उडैयार्क्कु अदिनुट्पम्
-यावुळ मुऩ्निऱ् पवै। ६३६
+मदिनुट्पम् नूलोडु उडैयार्क्कु अदिनुट्पम्  
+यावुळ मुऩ्निऱ् पवै। ६३६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३७</summary>
 
-सॆयऱ्कै अऱिन्दक् कडैत्तुम् उलगत्तु
-इयऱ्कै अऱिन्दु सॆयल्। ६३७
+सॆयऱ्कै अऱिन्दक् कडैत्तुम् उलगत्तु  
+इयऱ्कै अऱिन्दु सॆयल्। ६३७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३७</summary>
@@ -367,10 +366,10 @@ The keen in brain with learned love?        636
 
 <details><summary>NVK Ashraf choice (en) - ६३७</summary>
 
-०६३७
-Even if well-versed in theory,
-Act as per the ways of the world. *
-(C. Rajagopalachari)
+०६३७  
+Even if well-versed in theory,  
+Act as per the ways of the world. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ६३७</summary>
@@ -409,14 +408,14 @@ Act after knowing world's outlooks.        637
 
 <details><summary>मूलम् - ६३७</summary>
 
-सॆयऱ्कै अऱिन्दक् कडैत्तुम् उलगत्तु
-इयऱ्कै अऱिन्दु सॆयल्। ६३७
+सॆयऱ्कै अऱिन्दक् कडैत्तुम् उलगत्तु  
+इयऱ्कै अऱिन्दु सॆयल्। ६३७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३८</summary>
 
-अऱिगॊऩ्ऱु अऱियाऩ् ऎऩिऩुम् उऱुदि
-उऴैयिरुन्दाऩ् कूऱल् कडऩ्। ६३८
+अऱिगॊऩ्ऱु अऱियाऩ् ऎऩिऩुम् उऱुदि  
+उऴैयिरुन्दाऩ् कूऱल् कडऩ्। ६३८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३८</summary>
@@ -427,10 +426,10 @@ Act after knowing world's outlooks.        637
 
 <details><summary>NVK Ashraf choice (en) - ६३८</summary>
 
-०६३८
-It is a minister's duty to advise aright
-Though the ruler in ignorance may refute wisdom.
-(P.S. Sundaram), (J. Narayanaswamy)
+०६३८  
+It is a minister's duty to advise aright  
+Though the ruler in ignorance may refute wisdom.  
+(P.S. Sundaram), (J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३८</summary>
@@ -464,14 +463,14 @@ Though the ignorant king refutes.        638
 
 <details><summary>मूलम् - ६३८</summary>
 
-अऱिगॊऩ्ऱु अऱियाऩ् ऎऩिऩुम् उऱुदि
-उऴैयिरुन्दाऩ् कूऱल् कडऩ्। ६३८
+अऱिगॊऩ्ऱु अऱियाऩ् ऎऩिऩुम् उऱुदि  
+उऴैयिरुन्दाऩ् कूऱल् कडऩ्। ६३८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६३९</summary>
 
-पऴुदॆण्णुम् मन्दिरियिऩ् पक्कददुळ् तॆव्वोर्
-ऎऴुबदु कोडि उऱुम्। ६३९
+पऴुदॆण्णुम् मन्दिरियिऩ् पक्कददुळ् तॆव्वोर्  
+ऎऴुबदु कोडि उऱुम्। ६३९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६३९</summary>
@@ -482,10 +481,10 @@ Though the ignorant king refutes.        638
 
 <details><summary>NVK Ashraf choice (en) - ६३९</summary>
 
-०६३९
-Better seventy million open foes
-Than one treacherous minister inside. *
-(P.S. Sundaram)
+०६३९  
+Better seventy million open foes  
+Than one treacherous minister inside. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६३९</summary>
@@ -519,14 +518,14 @@ Than a minister with mind bitter.        639
 
 <details><summary>मूलम् - ६३९</summary>
 
-पऴुदॆण्णुम् मन्दिरियिऩ् पक्कददुळ् तॆव्वोर्
-ऎऴुबदु कोडि उऱुम्। ६३९
+पऴुदॆण्णुम् मन्दिरियिऩ् पक्कददुळ् तॆव्वोर्  
+ऎऴुबदु कोडि उऱुम्। ६३९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ६४०</summary>
 
-मुऱैप्पडच् चूऴ्न्दुम् मुडिविलवे सॆय्वर्
-तिऱप्पाडु इलाअ तवर्। ६४०
+मुऱैप्पडच् चूऴ्न्दुम् मुडिविलवे सॆय्वर्  
+तिऱप्पाडु इलाअ तवर्। ६४०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ६४०</summary>
@@ -537,10 +536,10 @@ Than a minister with mind bitter.        639
 
 <details><summary>NVK Ashraf choice (en) - ६४०</summary>
 
-०६४०
-The inefficient will leave undone
-Even well-planned schemes.
-(P.S. Sundaram)
+०६४०  
+The inefficient will leave undone  
+Even well-planned schemes.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ६४०</summary>
@@ -574,7 +573,7 @@ To fulfil an act they have no mind.        640
 
 <details><summary>मूलम् - ६४०</summary>
 
-मुऱैप्पडच् चूऴ्न्दुम् मुडिविलवे सॆय्वर्
-तिऱप्पाडु इलाअ तवर्। ६४०
+मुऱैप्पडच् चूऴ्न्दुम् मुडिविलवे सॆय्वर्  
+तिऱप्पाडु इलाअ तवर्। ६४०  
 </details>
 

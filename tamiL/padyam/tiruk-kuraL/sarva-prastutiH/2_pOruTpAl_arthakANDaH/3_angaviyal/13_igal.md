@@ -3,11 +3,10 @@ title = "१३ इगल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ८५१</summary>
 
-इगलॆऩ्प ऎल्ला उयिर्क्कुम् पगलॆऩ्ऩुम्
-पण्बिऩ्मै पारिक्कुम् नोय्। ८५१
+इगलॆऩ्प ऎल्ला उयिर्क्कुम् पगलॆऩ्ऩुम्  
+पण्बिऩ्मै पारिक्कुम् नोय्। ८५१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५१</summary>
@@ -19,10 +18,10 @@ title = "१३ इगल्"
 
 <details><summary>NVK Ashraf choice (en) - ८५१</summary>
 
-०८५१
-Hatred, they say, is the disease
-That spreads the plague of discord among all life. *
-(Satguru Subramuniyaswami)
+०८५१  
+Hatred, they say, is the disease  
+That spreads the plague of discord among all life. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५१</summary>
@@ -56,14 +55,14 @@ And rouses illwill on all sides.        851
 
 <details><summary>मूलम् - ८५१</summary>
 
-इगलॆऩ्प ऎल्ला उयिर्क्कुम् पगलॆऩ्ऩुम्
-पण्बिऩ्मै पारिक्कुम् नोय्। ८५१
+इगलॆऩ्प ऎल्ला उयिर्क्कुम् पगलॆऩ्ऩुम्  
+पण्बिऩ्मै पारिक्कुम् नोय्। ८५१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५२</summary>
 
-पगल्गरुदिप् पऱ्ऱा सॆयिऩुम् इगल्गरुदि
-इऩ्ऩासॆय् यामै तलै। ८५२
+पगल्गरुदिप् पऱ्ऱा सॆयिऩुम् इगल्गरुदि  
+इऩ्ऩासॆय् यामै तलै। ८५२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५२</summary>
@@ -74,10 +73,10 @@ And rouses illwill on all sides.        851
 
 <details><summary>NVK Ashraf choice (en) - ८५२</summary>
 
-०८५२
-Even if disagreeable things are done to cause rift,
-Better do nothing painful to avoid conflict. *
-(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)
+०८५२  
+Even if disagreeable things are done to cause rift,  
+Better do nothing painful to avoid conflict. *  
+(W.H. Drew and J. Lazarus), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५२</summary>
@@ -111,14 +110,14 @@ Though foes provoke disunion        852
 
 <details><summary>मूलम् - ८५२</summary>
 
-पगल्गरुदिप् पऱ्ऱा सॆयिऩुम् इगल्गरुदि
-इऩ्ऩासॆय् यामै तलै। ८५२
+पगल्गरुदिप् पऱ्ऱा सॆयिऩुम् इगल्गरुदि  
+इऩ्ऩासॆय् यामै तलै। ८५२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५३</summary>
 
-इगलॆऩ्ऩुम् ऎव्वनोय् नीक्किऩ् तवलिल्लात्
-ताविल् विळक्कम् तरुम्। ८५३
+इगलॆऩ्ऩुम् ऎव्वनोय् नीक्किऩ् तवलिल्लात्  
+ताविल् विळक्कम् तरुम्। ८५३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५३</summary>
@@ -129,10 +128,10 @@ Though foes provoke disunion        852
 
 <details><summary>NVK Ashraf choice (en) - ८५३</summary>
 
-०८५३
-If that dire disease called hostility is discarded,
-What yields is undying everlasting fame. *
-(M.S. Poornalingam Pillai)
+०८५३  
+If that dire disease called hostility is discarded,  
+What yields is undying everlasting fame. *  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५३</summary>
@@ -166,14 +165,14 @@ And win everlasting glory.        853
 
 <details><summary>मूलम् - ८५३</summary>
 
-इगलॆऩ्ऩुम् ऎव्वनोय् नीक्किऩ् तवलिल्लात्
-ताविल् विळक्कम् तरुम्। ८५३
+इगलॆऩ्ऩुम् ऎव्वनोय् नीक्किऩ् तवलिल्लात्  
+ताविल् विळक्कम् तरुम्। ८५३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५४</summary>
 
-इऩ्पत्तुळ् इऩ्पम् पयक्कुम् इगलॆऩ्ऩुम्
-तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ८५४
+इऩ्पत्तुळ् इऩ्पम् पयक्कुम् इगलॆऩ्ऩुम्  
+तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ८५४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५४</summary>
@@ -184,10 +183,10 @@ And win everlasting glory.        853
 
 <details><summary>NVK Ashraf choice (en) - ८५४</summary>
 
-०८५४
-When the misery of miseries called malice ceases,
-There comes the joy of joys. *
-(P.S. Sundaram)
+०८५४  
+When the misery of miseries called malice ceases,  
+There comes the joy of joys. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५४</summary>
@@ -221,14 +220,14 @@ Then joy of joys you can enjoy.        854
 
 <details><summary>मूलम् - ८५४</summary>
 
-इऩ्पत्तुळ् इऩ्पम् पयक्कुम् इगलॆऩ्ऩुम्
-तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ८५४
+इऩ्पत्तुळ् इऩ्पम् पयक्कुम् इगलॆऩ्ऩुम्  
+तुऩ्पत्तुळ् तुऩ्पङ् गॆडिऩ्। ८५४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५५</summary>
 
-इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे
-मिक्लूक्कुम् तऩ्मै यवर्। ८५५
+इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे  
+मिक्लूक्कुम् तऩ्मै यवर्। ८५५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५५</summary>
@@ -239,10 +238,10 @@ Then joy of joys you can enjoy.        854
 
 <details><summary>NVK Ashraf choice (en) - ८५५</summary>
 
-०८५५
-Who can ever overcome the one,
-Who refuses to give in to feelings of hatred?
-(K. Krishnaswamy & Vijaya Ramkumar)
+०८५५  
+Who can ever overcome the one,  
+Who refuses to give in to feelings of hatred?  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५५</summary>
@@ -276,14 +275,14 @@ That are free from enmity?        855
 
 <details><summary>मूलम् - ८५५</summary>
 
-इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे
-मिक्लूक्कुम् तऩ्मै यवर्। ८५५
+इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे  
+मिक्लूक्कुम् तऩ्मै यवर्। ८५५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५६</summary>
 
-इगलिऩ् मिगलिऩिदु ऎऩ्पवऩ् वाऴ्क्कै
-तवलुम् कॆडलुम् नणित्तु। ८५६
+इगलिऩ् मिगलिऩिदु ऎऩ्पवऩ् वाऴ्क्कै  
+तवलुम् कॆडलुम् नणित्तु। ८५६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५६</summary>
@@ -294,10 +293,10 @@ That are free from enmity?        855
 
 <details><summary>NVK Ashraf choice (en) - ८५६</summary>
 
-०८५६
-Want and ruin will soon befall the life of one
-Who delights in excess hostility. *
-(Kasthuri Sreenivasan), (N.V.K. Ashraf)
+०८५६  
+Want and ruin will soon befall the life of one  
+Who delights in excess hostility. *  
+(Kasthuri Sreenivasan), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ८५६</summary>
@@ -336,14 +335,14 @@ Who holds enmity sweet and dear.        856
 
 <details><summary>मूलम् - ८५६</summary>
 
-इगलिऩ् मिगलिऩिदु ऎऩ्पवऩ् वाऴ्क्कै
-तवलुम् कॆडलुम् नणित्तु। ८५६
+इगलिऩ् मिगलिऩिदु ऎऩ्पवऩ् वाऴ्क्कै  
+तवलुम् कॆडलुम् नणित्तु। ८५६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५७</summary>
 
-मिगल्मेवल् मॆय्प्पॊरुळ् काणार् इगल्मेवल्
-इऩ्ऩा अऱिवि ऩवर्। ८५७
+मिगल्मेवल् मॆय्प्पॊरुळ् काणार् इगल्मेवल्  
+इऩ्ऩा अऱिवि ऩवर्। ८५७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५७</summary>
@@ -354,10 +353,10 @@ Who holds enmity sweet and dear.        856
 
 <details><summary>NVK Ashraf choice (en) - ८५७</summary>
 
-०८५७
-Those learned rapt up in destructive hate
-Will never see the triumphant nature of truth. *
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०८५७  
+Those learned rapt up in destructive hate  
+Will never see the triumphant nature of truth. *  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५७</summary>
@@ -391,14 +390,14 @@ Who hate and injure without ruth.        857
 
 <details><summary>मूलम् - ८५७</summary>
 
-मिगल्मेवल् मॆय्प्पॊरुळ् काणार् इगल्मेवल्
-इऩ्ऩा अऱिवि ऩवर्। ८५७
+मिगल्मेवल् मॆय्प्पॊरुळ् काणार् इगल्मेवल्  
+इऩ्ऩा अऱिवि ऩवर्। ८५७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५८</summary>
 
-इगलिऱ्कु ऎदिर्साय्दल् आक्कम् अदऩै
-मिक्लूक्किऩ् ऊक्कुमाम् केडु। ८५८
+इगलिऱ्कु ऎदिर्साय्दल् आक्कम् अदऩै  
+मिक्लूक्किऩ् ऊक्कुमाम् केडु। ८५८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५८</summary>
@@ -409,10 +408,10 @@ Who hate and injure without ruth.        857
 
 <details><summary>NVK Ashraf choice (en) - ८५८</summary>
 
-०८५८
-To resist hatred is a gain.
-Yielding to it, one is overcome by ruin. *
-(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)
+०८५८  
+To resist hatred is a gain.  
+Yielding to it, one is overcome by ruin. *  
+(P.S. Sundaram), (K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५८</summary>
@@ -446,14 +445,14 @@ Fomenting it brings fast ruin.        858
 
 <details><summary>मूलम् - ८५८</summary>
 
-इगलिऱ्कु ऎदिर्साय्दल् आक्कम् अदऩै
-मिक्लूक्किऩ् ऊक्कुमाम् केडु। ८५८
+इगलिऱ्कु ऎदिर्साय्दल् आक्कम् अदऩै  
+मिक्लूक्किऩ् ऊक्कुमाम् केडु। ८५८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८५९</summary>
 
-इगल्गाणाऩ् आक्कम् वरुङ्गाल् अदऩै
-मिगल्गाणुम् केडु तरऱ्कु। ८५९
+इगल्गाणाऩ् आक्कम् वरुङ्गाल् अदऩै  
+मिगल्गाणुम् केडु तरऱ्कु। ८५९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८५९</summary>
@@ -464,10 +463,10 @@ Fomenting it brings fast ruin.        858
 
 <details><summary>NVK Ashraf choice (en) - ८५९</summary>
 
-०८५९
-Destined to prosper one will not look at hatred.
-Destined for ruin, one will see it all the time.
-(P.S. Sundaram)
+०८५९  
+Destined to prosper one will not look at hatred.  
+Destined for ruin, one will see it all the time.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८५९</summary>
@@ -501,14 +500,14 @@ Hatred exceeding ruin breeds.        859
 
 <details><summary>मूलम् - ८५९</summary>
 
-इगल्गाणाऩ् आक्कम् वरुङ्गाल् अदऩै
-मिगल्गाणुम् केडु तरऱ्कु। ८५९
+इगल्गाणाऩ् आक्कम् वरुङ्गाल् अदऩै  
+मिगल्गाणुम् केडु तरऱ्कु। ८५९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ८६०</summary>
 
-इगलाऩाम् इऩ्ऩाद ऎल्लाम् नगलाऩाम्
-नऩ्ऩयम् ऎऩ्ऩुम् सॆरुक्कु। ८६०
+इगलाऩाम् इऩ्ऩाद ऎल्लाम् नगलाऩाम्  
+नऩ्ऩयम् ऎऩ्ऩुम् सॆरुक्कु। ८६०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ८६०</summary>
@@ -519,10 +518,10 @@ Hatred exceeding ruin breeds.        859
 
 <details><summary>NVK Ashraf choice (en) - ८६०</summary>
 
-०८६०
-From hatred comes all evil.
-And from friendship the pride of goodness.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०८६०  
+From hatred comes all evil.  
+And from friendship the pride of goodness.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ८६०</summary>
@@ -555,7 +554,7 @@ All goodness flow from amity.        860
 
 <details><summary>मूलम् - ८६०</summary>
 
-इगलाऩाम् इऩ्ऩाद ऎल्लाम् नगलाऩाम्
-नऩ्ऩयम् ऎऩ्ऩुम् सॆरुक्कु। ८६०
+इगलाऩाम् इऩ्ऩाद ऎल्लाम् नगलाऩाम्  
+नऩ्ऩयम् ऎऩ्ऩुम् सॆरुक्कु। ८६०  
 </details>
 

@@ -3,11 +3,10 @@ title = "०५ पडैच्चॆरुक्कु"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७७१</summary>
 
-ऎऩ्ऩैमुऩ् निल्लऩ्मिऩ् तॆव्विर् पलरॆऩ्ऩै
-मुऩ्निऩ्ऱु कल्निऩ् ऱवर्। ७७१
+ऎऩ्ऩैमुऩ् निल्लऩ्मिऩ् तॆव्विर् पलरॆऩ्ऩै  
+मुऩ्निऩ्ऱु कल्निऩ् ऱवर्। ७७१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७१</summary>
@@ -19,10 +18,10 @@ title = "०५ पडैच्चॆरुक्कु"
 
 <details><summary>NVK Ashraf choice (en) - ७७१</summary>
 
-०७७१
-"Foes! Don't stand before my chief.
-Many who stood now stand as stones!" *
-(P.S. Sundaram)
+०७७१  
+"Foes! Don't stand before my chief.  
+Many who stood now stand as stones!" *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७१</summary>
@@ -56,14 +55,14 @@ Many who stood, in stones repose.        771
 
 <details><summary>मूलम् - ७७१</summary>
 
-ऎऩ्ऩैमुऩ् निल्लऩ्मिऩ् तॆव्विर् पलरॆऩ्ऩै
-मुऩ्निऩ्ऱु कल्निऩ् ऱवर्। ७७१
+ऎऩ्ऩैमुऩ् निल्लऩ्मिऩ् तॆव्विर् पलरॆऩ्ऩै  
+मुऩ्निऩ्ऱु कल्निऩ् ऱवर्। ७७१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७२</summary>
 
-काऩ मुयलॆय्द अम्बिऩिल् याऩै
-पिऴैत्तवेल् एन्दल् इऩिदु। ७७२
+काऩ मुयलॆय्द अम्बिऩिल् याऩै  
+पिऴैत्तवेल् एन्दल् इऩिदु। ७७२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७२</summary>
@@ -74,10 +73,10 @@ Many who stood, in stones repose.        771
 
 <details><summary>NVK Ashraf choice (en) - ७७२</summary>
 
-०७७२
-Better collect the spear that missed an elephant
-Than the arrow that killed a hare. *
-(P.S. Sundaram)
+०७७२  
+Better collect the spear that missed an elephant  
+Than the arrow that killed a hare. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७२</summary>
@@ -112,14 +111,14 @@ Is prouder than shaft that hit a hare.        772
 
 <details><summary>मूलम् - ७७२</summary>
 
-काऩ मुयलॆय्द अम्बिऩिल् याऩै
-पिऴैत्तवेल् एन्दल् इऩिदु। ७७२
+काऩ मुयलॆय्द अम्बिऩिल् याऩै  
+पिऴैत्तवेल् एन्दल् इऩिदु। ७७२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७३</summary>
 
-पेराण्मै ऎऩ्प तऱुगण्ऒऩ् ऱुऱ्ऱक्काल्
-ऊराण्मै मऱ्ऱतऩ् ऎह्हु³। ७७३
+पेराण्मै ऎऩ्प तऱुगण्ऒऩ् ऱुऱ्ऱक्काल्  
+ऊराण्मै मऱ्ऱतऩ् ऎह्हु³। ७७३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७३</summary>
@@ -130,10 +129,10 @@ Is prouder than shaft that hit a hare.        772
 
 <details><summary>NVK Ashraf choice (en) - ७७३</summary>
 
-०७७३
-Fierce courage is what they call valour,
-But to help a foe in distress cuts deeper. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+०७७३  
+Fierce courage is what they call valour,  
+But to help a foe in distress cuts deeper. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७३</summary>
@@ -168,14 +167,14 @@ Mercy to the fallen is its edge.        773
 
 <details><summary>मूलम् - ७७३</summary>
 
-पेराण्मै ऎऩ्प तऱुगण्ऒऩ् ऱुऱ्ऱक्काल्
-ऊराण्मै मऱ्ऱतऩ् ऎह्हु³। ७७३
+पेराण्मै ऎऩ्प तऱुगण्ऒऩ् ऱुऱ्ऱक्काल्  
+ऊराण्मै मऱ्ऱतऩ् ऎह्हु³। ७७३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७४</summary>
 
-कैवेल् कळिऱ्ऱॊडु पोक्कि वरुबवऩ्
-मॆय्वेल् पऱिया नगुम्। ७७४
+कैवेल् कळिऱ्ऱॊडु पोक्कि वरुबवऩ्  
+मॆय्वेल् पऱिया नगुम्। ७७४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७४</summary>
@@ -186,10 +185,10 @@ Mercy to the fallen is its edge.        773
 
 <details><summary>NVK Ashraf choice (en) - ७७४</summary>
 
-०७७४
-Losing his spear hurled at a tusker,
-A hero grabs happily the one that pierced him. *
-(P.S. Sundaram)
+०७७४  
+Losing his spear hurled at a tusker,  
+A hero grabs happily the one that pierced him. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७७४</summary>
@@ -229,14 +228,14 @@ One in body smiles another chance.        774
 
 <details><summary>मूलम् - ७७४</summary>
 
-कैवेल् कळिऱ्ऱॊडु पोक्कि वरुबवऩ्
-मॆय्वेल् पऱिया नगुम्। ७७४
+कैवेल् कळिऱ्ऱॊडु पोक्कि वरुबवऩ्  
+मॆय्वेल् पऱिया नगुम्। ७७४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७५</summary>
 
-विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिऩ्
-ऒट्टऩ्ऱो वऩ्क णवर्क्कु। ७७५
+विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिऩ्  
+ऒट्टऩ्ऱो वऩ्क णवर्क्कु। ७७५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७५</summary>
@@ -247,10 +246,10 @@ One in body smiles another chance.        774
 
 <details><summary>NVK Ashraf choice (en) - ७७५</summary>
 
-०७७५
-Is it not shameful for a hero to even let his
-Watchful eyes wink when a spear is hurled?
-(N.V.K. Ashraf)
+०७७५  
+Is it not shameful for a hero to even let his  
+Watchful eyes wink when a spear is hurled?  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७५</summary>
@@ -285,14 +284,14 @@ When lances dart if heroes wink
 
 <details><summary>मूलम् - ७७५</summary>
 
-विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिऩ्
-ऒट्टऩ्ऱो वऩ्क णवर्क्कु। ७७५
+विऴित्तगण् वेल्गॊण टॆऱिय अऴित्तिमैप्पिऩ्  
+ऒट्टऩ्ऱो वऩ्क णवर्क्कु। ७७५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७६</summary>
 
-विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किऩुळ्
-वैक्कुम्दऩ् नाळै ऎडुत्तु। ७७६
+विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किऩुळ्  
+वैक्कुम्दऩ् नाळै ऎडुत्तु। ७७६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७६</summary>
@@ -303,10 +302,10 @@ When lances dart if heroes wink
 
 <details><summary>NVK Ashraf choice (en) - ७७६</summary>
 
-०७७६
-The brave shall deem all the days devoid of battle wounds
-As days gone waste.
-( Shuddhananda Bharatiar), (P.S. Sundaram)
+०७७६  
+The brave shall deem all the days devoid of battle wounds  
+As days gone waste.  
+( Shuddhananda Bharatiar), (P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७६</summary>
@@ -341,14 +340,14 @@ Which did not battle-wounds sustain.        776
 
 <details><summary>मूलम् - ७७६</summary>
 
-विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किऩुळ्
-वैक्कुम्दऩ् नाळै ऎडुत्तु। ७७६
+विऴुप्पुण् पडादनाळ् ऎल्लाम् वऴुक्किऩुळ्  
+वैक्कुम्दऩ् नाळै ऎडुत्तु। ७७६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७७</summary>
 
-सुऴलुम् इसैवेण्डि वेण्डा उयिरार्
-कऴल्याप्पुक् कारिगै नीर्त्तु। ७७७
+सुऴलुम् इसैवेण्डि वेण्डा उयिरार्  
+कऴल्याप्पुक् कारिगै नीर्त्तु। ७७७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७७</summary>
@@ -359,10 +358,10 @@ Which did not battle-wounds sustain.        776
 
 <details><summary>NVK Ashraf choice (en) - ७७७</summary>
 
-०७७७
-That hero, who gives up his life for fame,
-Is worthy of being adorned with the anklet. *
-(P.S. Sundaram)
+०७७७  
+That hero, who gives up his life for fame,  
+Is worthy of being adorned with the anklet. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७७</summary>
@@ -397,14 +396,14 @@ Who sacrifice their life for fame.        777
 
 <details><summary>मूलम् - ७७७</summary>
 
-सुऴलुम् इसैवेण्डि वेण्डा उयिरार्
-कऴल्याप्पुक् कारिगै नीर्त्तु। ७७७
+सुऴलुम् इसैवेण्डि वेण्डा उयिरार्  
+कऴल्याप्पुक् कारिगै नीर्त्तु। ७७७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७८</summary>
 
-उऱिऩ्उयिर् अञ्जा मऱवर् इऱैवऩ्
-सॆऱिऩुम् सीर्गुऩ्ऱल् इलर्। ७७८
+उऱिऩ्उयिर् अञ्जा मऱवर् इऱैवऩ्  
+सॆऱिऩुम् सीर्गुऩ्ऱल् इलर्। ७७८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७८</summary>
@@ -415,10 +414,10 @@ Who sacrifice their life for fame.        777
 
 <details><summary>NVK Ashraf choice (en) - ७७८</summary>
 
-०७७८
-Even a king's wrath cannot hold back heroes
-Who do not fear their lives in battle. *
-(P.S. Sundaram), (Satguru Subramuniyaswami)
+०७७८  
+Even a king's wrath cannot hold back heroes  
+Who do not fear their lives in battle. *  
+(P.S. Sundaram), (Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७८</summary>
@@ -453,14 +452,14 @@ They fear loss of glory; not life.        778
 
 <details><summary>मूलम् - ७७८</summary>
 
-उऱिऩ्उयिर् अञ्जा मऱवर् इऱैवऩ्
-सॆऱिऩुम् सीर्गुऩ्ऱल् इलर्। ७७८
+उऱिऩ्उयिर् अञ्जा मऱवर् इऱैवऩ्  
+सॆऱिऩुम् सीर्गुऩ्ऱल् इलर्। ७७८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७७९</summary>
 
-इऴैत्तदु इगवामैच् चावारै यारे
-पिऴैत्तदु ऒऱुक्किऱ् पवर्। ७७९
+इऴैत्तदु इगवामैच् चावारै यारे  
+पिऴैत्तदु ऒऱुक्किऱ् पवर्। ७७९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७७९</summary>
@@ -471,10 +470,10 @@ They fear loss of glory; not life.        778
 
 <details><summary>NVK Ashraf choice (en) - ७७९</summary>
 
-०७७९
-Who dares to despise a man for not fulfilling
-A pledge he died to fulfill?
-(P.S. Sundaram)
+०७७९  
+Who dares to despise a man for not fulfilling  
+A pledge he died to fulfill?  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७७९</summary>
@@ -509,14 +508,14 @@ Their lives in war to keep their vows?        779
 
 <details><summary>मूलम् - ७७९</summary>
 
-इऴैत्तदु इगवामैच् चावारै यारे
-पिऴैत्तदु ऒऱुक्किऱ् पवर्। ७७९
+इऴैत्तदु इगवामैच् चावारै यारे  
+पिऴैत्तदु ऒऱुक्किऱ् पवर्। ७७९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८०</summary>
 
-पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिऩ् साक्काडु
-इरन्दुगोळ् तक्कदु उडैत्तु। ७८०
+पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिऩ् साक्काडु  
+इरन्दुगोळ् तक्कदु उडैत्तु। ७८०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८०</summary>
@@ -527,10 +526,10 @@ Their lives in war to keep their vows?        779
 
 <details><summary>NVK Ashraf choice (en) - ७८०</summary>
 
-०७८०
-If death lies in glory that draws tears from the ruler,
-It is worth seeking even in alms. *
-(J. Narayanaswamy)
+०७८०  
+If death lies in glory that draws tears from the ruler,  
+It is worth seeking even in alms. *  
+(J. Narayanaswamy)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८०</summary>
@@ -564,16 +563,19 @@ Which draws the tears of the ruler.        780
 
 <details><summary>मूलम् - ७८०</summary>
 
-पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिऩ् साक्काडु
-इरन्दुगोळ् तक्कदु उडैत्तु। ७८०
+पुरन्दार्गण् नीर्मल्गच् चागिऱ्पिऩ् साक्काडु  
+इरन्दुगोळ् तक्कदु उडैत्तु। ७८०  
 </details>
+
+
+
 
 २,३।६ नट्पु  
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८१</summary>
 
-सॆयऱ्करिय यावुळ नट्पिऩ् अदुबोल्
-विऩैक्करिय यावुळ काप्पु। ७८१
+सॆयऱ्करिय यावुळ नट्पिऩ् अदुबोल्  
+विऩैक्करिय यावुळ काप्पु। ७८१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८१</summary>
@@ -585,10 +587,10 @@ Which draws the tears of the ruler.        780
 
 <details><summary>NVK Ashraf choice (en) - ७८१</summary>
 
-०७८१
-What greater security exists than a secure friendship
-As a protection against foes? *
-(Satguru Subramuniyaswami)
+०७८१  
+What greater security exists than a secure friendship  
+As a protection against foes? *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८१</summary>
@@ -624,14 +626,14 @@ That guards one against acts villain?        781
 
 <details><summary>मूलम् - ७८१</summary>
 
-सॆयऱ्करिय यावुळ नट्पिऩ् अदुबोल्
-विऩैक्करिय यावुळ काप्पु। ७८१
+सॆयऱ्करिय यावुळ नट्पिऩ् अदुबोल्  
+विऩैक्करिय यावुळ काप्पु। ७८१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८२</summary>
 
-निऱैनीर नीरवर् केण्मै पिऱैमदिप्
-पिऩ्ऩीर पेदैयार् नट्पु। ७८२
+निऱैनीर नीरवर् केण्मै पिऱैमदिप्  
+पिऩ्ऩीर पेदैयार् नट्पु। ७८२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८२</summary>
@@ -642,10 +644,10 @@ That guards one against acts villain?        781
 
 <details><summary>NVK Ashraf choice (en) - ७८२</summary>
 
-०७८२
-Wise men's friendship waxes like the crescent
-And fools', like the full moon, wanes.
-(P.S. Sundaram)
+०७८२  
+Wise men's friendship waxes like the crescent  
+And fools', like the full moon, wanes.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८२</summary>
@@ -679,14 +681,14 @@ The bad withers like waning moon.        782
 
 <details><summary>मूलम् - ७८२</summary>
 
-निऱैनीर नीरवर् केण्मै पिऱैमदिप्
-पिऩ्ऩीर पेदैयार् नट्पु। ७८२
+निऱैनीर नीरवर् केण्मै पिऱैमदिप्  
+पिऩ्ऩीर पेदैयार् नट्पु। ७८२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८३</summary>
 
-नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्
-पण्बुडै याळर् तॊडर्बु। ७८३
+नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्  
+पण्बुडै याळर् तॊडर्बु। ७८३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८३</summary>
@@ -697,10 +699,10 @@ The bad withers like waning moon.        782
 
 <details><summary>NVK Ashraf choice (en) - ७८३</summary>
 
-०७८३
-Being with good friends is like reading good books.
-More time you spend, more the delight.
-(N.V.K. Ashraf)
+०७८३  
+Being with good friends is like reading good books.  
+More time you spend, more the delight.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८३</summary>
@@ -734,14 +736,14 @@ The more one moves the more he knows.        783
 
 <details><summary>मूलम् - ७८३</summary>
 
-नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्
-पण्बुडै याळर् तॊडर्बु। ७८३
+नविल्दॊऱुम् नूल्नयम् पोलुम् पयिल्दॊऱुम्  
+पण्बुडै याळर् तॊडर्बु। ७८३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८४</summary>
 
-नगुदऱ् पॊरुट्टऩ्ऱु नट्टल् मिगुदिक्कण्
-मेऱ्सॆऩऱु इडित्तऱ् पॊरुट्टु। ७८४
+नगुदऱ् पॊरुट्टऩ्ऱु नट्टल् मिगुदिक्कण्  
+मेऱ्सॆऩऱु इडित्तऱ् पॊरुट्टु। ७८४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८४</summary>
@@ -752,10 +754,10 @@ The more one moves the more he knows.        783
 
 <details><summary>NVK Ashraf choice (en) - ७८४</summary>
 
-०७८४
-Friendship is not for merriment
-But for stern reproach when friends go astray.
-(N.V.K. Ashraf)
+०७८४  
+Friendship is not for merriment  
+But for stern reproach when friends go astray.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७८४</summary>
@@ -794,14 +796,14 @@ But to hit when faults exceed.        784
 
 <details><summary>मूलम् - ७८४</summary>
 
-नगुदऱ् पॊरुट्टऩ्ऱु नट्टल् मिगुदिक्कण्
-मेऱ्सॆऩऱु इडित्तऱ् पॊरुट्टु। ७८४
+नगुदऱ् पॊरुट्टऩ्ऱु नट्टल् मिगुदिक्कण्  
+मेऱ्सॆऩऱु इडित्तऱ् पॊरुट्टु। ७८४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८५</summary>
 
-पुणर्चि पऴगुदल् वेण्डा उणर्चिदाऩ्
-नट्पाङ् गिऴमै तरुम्। ७८५
+पुणर्चि पऴगुदल् वेण्डा उणर्चिदाऩ्  
+नट्पाङ् गिऴमै तरुम्। ७८५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८५</summary>
@@ -812,10 +814,10 @@ But to hit when faults exceed.        784
 
 <details><summary>NVK Ashraf choice (en) - ७८५</summary>
 
-०७८५
-Identity of feelings makes friendship.
-No need for friends to meet and long together. *
-(C. Rajagopalachari)
+०७८५  
+Identity of feelings makes friendship.  
+No need for friends to meet and long together. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८५</summary>
@@ -849,14 +851,14 @@ Friendship's feeling heart's fellowship.        785
 
 <details><summary>मूलम् - ७८५</summary>
 
-पुणर्चि पऴगुदल् वेण्डा उणर्चिदाऩ्
-नट्पाङ् गिऴमै तरुम्। ७८५
+पुणर्चि पऴगुदल् वेण्डा उणर्चिदाऩ्  
+नट्पाङ् गिऴमै तरुम्। ७८५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८६</summary>
 
-मुगनग नट्पदु नट्पऩ्ऱु नॆञ्जत्तु
-अगनग नट्पदु नट्पु। ७८६
+मुगनग नट्पदु नट्पऩ्ऱु नॆञ्जत्तु  
+अगनग नट्पदु नट्पु। ७८६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८६</summary>
@@ -867,10 +869,10 @@ Friendship's feeling heart's fellowship.        785
 
 <details><summary>NVK Ashraf choice (en) - ७८६</summary>
 
-०७८६
-A smiling face alone makes no friendship,
-But the heart should also smile with the face. *
-(V. Ramasamy)
+०७८६  
+A smiling face alone makes no friendship,  
+But the heart should also smile with the face. *  
+(V. Ramasamy)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७८६</summary>
@@ -909,14 +911,14 @@ It is the smiling heart's embrace.        786
 
 <details><summary>मूलम् - ७८६</summary>
 
-मुगनग नट्पदु नट्पऩ्ऱु नॆञ्जत्तु
-अगनग नट्पदु नट्पु। ७८६
+मुगनग नट्पदु नट्पऩ्ऱु नॆञ्जत्तु  
+अगनग नट्पदु नट्पु। ७८६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८७</summary>
 
-अऴिवि ऩवैनीक्कि आऱुय्त्तु अऴिविऩ्कण्
-अल्लल् उऴप्पदाम् नट्पु। ७८७
+अऴिवि ऩवैनीक्कि आऱुय्त्तु अऴिविऩ्कण्  
+अल्लल् उऴप्पदाम् नट्पु। ७८७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८७</summary>
@@ -927,10 +929,10 @@ It is the smiling heart's embrace.        786
 
 <details><summary>NVK Ashraf choice (en) - ७८७</summary>
 
-०७८७
-Friendship saves from ruin, guides towards right,
-And shares the pain of distress. *
-(P.S. Sundaram), (G.U. Pope)
+०७८७  
+Friendship saves from ruin, guides towards right,  
+And shares the pain of distress. *  
+(P.S. Sundaram), (G.U. Pope)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८७</summary>
@@ -964,14 +966,14 @@ The load of pain and right path shows.        787
 
 <details><summary>मूलम् - ७८७</summary>
 
-अऴिवि ऩवैनीक्कि आऱुय्त्तु अऴिविऩ्कण्
-अल्लल् उऴप्पदाम् नट्पु। ७८७
+अऴिवि ऩवैनीक्कि आऱुय्त्तु अऴिविऩ्कण्  
+अल्लल् उऴप्पदाम् नट्पु। ७८७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८८</summary>
 
-उडुक्कै इऴन्दवऩ् कैबोल आङ्गे
-इडुक्कण् कळैवदाम् नट्पु। ७८८
+उडुक्कै इऴन्दवऩ् कैबोल आङ्गे  
+इडुक्कण् कळैवदाम् नट्पु। ७८८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८८</summary>
@@ -982,10 +984,10 @@ The load of pain and right path shows.        787
 
 <details><summary>NVK Ashraf choice (en) - ७८८</summary>
 
-०७८८
-Swift as the hand seizing a slipping garment,
-Friendship acts to assuage a friend in distress. *
-(Satguru Subramuniyaswami)
+०७८८  
+Swift as the hand seizing a slipping garment,  
+Friendship acts to assuage a friend in distress. *  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८८</summary>
@@ -1019,14 +1021,14 @@ Like hands picking up dress that slips.        788
 
 <details><summary>मूलम् - ७८८</summary>
 
-उडुक्कै इऴन्दवऩ् कैबोल आङ्गे
-इडुक्कण् कळैवदाम् नट्पु। ७८८
+उडुक्कै इऴन्दवऩ् कैबोल आङ्गे  
+इडुक्कण् कळैवदाम् नट्पु। ७८८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७८९</summary>
 
-नट्पिऱ्कु वीऱ्ऱिरुक्कै यादॆऩिऩ् कॊट्पिऩ्ऱि
-ऒल्लुंवाय् ऊऩ्ऱुम् निलै। ७८९
+नट्पिऱ्कु वीऱ्ऱिरुक्कै यादॆऩिऩ् कॊट्पिऩ्ऱि  
+ऒल्लुंवाय् ऊऩ्ऱुम् निलै। ७८९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७८९</summary>
@@ -1037,10 +1039,10 @@ Like hands picking up dress that slips.        788
 
 <details><summary>NVK Ashraf choice (en) - ७८९</summary>
 
-०७८९
-What is the throne of friendship? It is that resolve
-Of unfailing support given at all time.
-(N.V.K. Ashraf)
+०७८९  
+What is the throne of friendship? It is that resolve  
+Of unfailing support given at all time.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७८९</summary>
@@ -1074,14 +1076,14 @@ That always helps with utmost warmth.        789
 
 <details><summary>मूलम् - ७८९</summary>
 
-नट्पिऱ्कु वीऱ्ऱिरुक्कै यादॆऩिऩ् कॊट्पिऩ्ऱि
-ऒल्लुंवाय् ऊऩ्ऱुम् निलै। ७८९
+नट्पिऱ्कु वीऱ्ऱिरुक्कै यादॆऩिऩ् कॊट्पिऩ्ऱि  
+ऒल्लुंवाय् ऊऩ्ऱुम् निलै। ७८९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७९०</summary>
 
-इऩैयर् इवरॆमक्कु इऩ्ऩम्याम् ऎऩ्ऱु
-पुऩैयिऩुम् पुल्लॆऩ्ऩुम् नट्पु। ७९०
+इऩैयर् इवरॆमक्कु इऩ्ऩम्याम् ऎऩ्ऱु  
+पुऩैयिऩुम् पुल्लॆऩ्ऩुम् नट्पु। ७९०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७९०</summary>
@@ -1092,10 +1094,10 @@ That always helps with utmost warmth.        789
 
 <details><summary>NVK Ashraf choice (en) - ७९०</summary>
 
-०७९०
-To boast, "He means so much to me and I to him,"
-Merely demeans a friendship.
-(Satguru Subramuniyaswami)
+०७९०  
+To boast, "He means so much to me and I to him,"  
+Merely demeans a friendship.  
+(Satguru Subramuniyaswami)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७९०</summary>
@@ -1133,7 +1135,7 @@ Ev'n this boast will friendship mar.        790
 
 <details><summary>मूलम् - ७९०</summary>
 
-इऩैयर् इवरॆमक्कु इऩ्ऩम्याम् ऎऩ्ऱु
-पुऩैयिऩुम् पुल्लॆऩ्ऩुम् नट्पु। ७९०
+इऩैयर् इवरॆमक्कु इऩ्ऩम्याम् ऎऩ्ऱु  
+पुऩैयिऩुम् पुल्लॆऩ्ऩुम् नट्पु। ७९०  
 </details>
 

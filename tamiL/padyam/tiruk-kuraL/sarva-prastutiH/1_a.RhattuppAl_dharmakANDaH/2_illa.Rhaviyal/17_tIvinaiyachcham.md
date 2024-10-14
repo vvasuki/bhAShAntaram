@@ -3,11 +3,10 @@ title = "१७ तीविनैयच्चम्"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः - २०१</summary>
 
-तीविऩैयार् अञ्जार् विऴुमियार् अञ्जुवर्
-तीविऩै ऎऩ्ऩुम् सॆरुक्कु। २०१
+तीविऩैयार् अञ्जार् विऴुमियार् अञ्जुवर्  
+तीविऩै ऎऩ्ऩुम् सॆरुक्कु। २०१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०१</summary>
@@ -18,10 +17,10 @@ title = "१७ तीविनैयच्चम्"
 
 <details><summary>NVK Ashraf choice (en) - २०१</summary>
 
-०२०१
-The sinful will not dread; the great will dread
-The wanton pride of sinful action.
-(M.S. Poornalingam Pillai)
+०२०१  
+The sinful will not dread; the great will dread  
+The wanton pride of sinful action.  
+(M.S. Poornalingam Pillai)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २०१</summary>
@@ -60,14 +59,14 @@ The worthy dread the ill within.        201
 
 <details><summary>मूलम् - २०१</summary>
 
-तीविऩैयार् अञ्जार् विऴुमियार् अञ्जुवर्
-तीविऩै ऎऩ्ऩुम् सॆरुक्कु। २०१
+तीविऩैयार् अञ्जार् विऴुमियार् अञ्जुवर्  
+तीविऩै ऎऩ्ऩुम् सॆरुक्कु। २०१  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०२</summary>
 
-तीयवै तीय पयत्तलाल् तीयवै
-तीयिऩुम् अञ्जप् पडुम्। २०२
+तीयवै तीय पयत्तलाल् तीयवै  
+तीयिऩुम् अञ्जप् पडुम्। २०२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०२</summary>
@@ -78,10 +77,10 @@ The worthy dread the ill within.        201
 
 <details><summary>NVK Ashraf choice (en) - २०२</summary>
 
-०२०२
-Evil begets evil and hence
-Fear evil more than fire. *
-(K. Kannan), (K.R. Srinivasa Iyengar)
+०२०२  
+Evil begets evil and hence  
+Fear evil more than fire. *  
+(K. Kannan), (K.R. Srinivasa Iyengar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०२</summary>
@@ -115,14 +114,14 @@ Fear ye evil more than fire.        202
 
 <details><summary>मूलम् - २०२</summary>
 
-तीयवै तीय पयत्तलाल् तीयवै
-तीयिऩुम् अञ्जप् पडुम्। २०२
+तीयवै तीय पयत्तलाल् तीयवै  
+तीयिऩुम् अञ्जप् पडुम्। २०२  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०३</summary>
 
-अऱिविऩुळ् ऎल्लान् दलैयॆऩ्प तीय
-सॆऱुवार्क्कुम् सॆय्या विडल्। २०३
+अऱिविऩुळ् ऎल्लान् दलैयॆऩ्प तीय  
+सॆऱुवार्क्कुम् सॆय्या विडल्। २०३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०३</summary>
@@ -133,10 +132,10 @@ Fear ye evil more than fire.        202
 
 <details><summary>NVK Ashraf choice (en) - २०३</summary>
 
-०२०३
-The height of wisdom, it is said,
-Is not to return ill even to foes. *
-(P.S. Sundaram)
+०२०३  
+The height of wisdom, it is said,  
+Is not to return ill even to foes. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - २०३</summary>
@@ -175,14 +174,14 @@ Who injure not even their foes.        203
 
 <details><summary>मूलम् - २०३</summary>
 
-अऱिविऩुळ् ऎल्लान् दलैयॆऩ्प तीय
-सॆऱुवार्क्कुम् सॆय्या विडल्। २०३
+अऱिविऩुळ् ऎल्लान् दलैयॆऩ्प तीय  
+सॆऱुवार्क्कुम् सॆय्या विडल्। २०३  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०४</summary>
 
-मऱन्दुम् पिऱऩ्केडु सूऴऱ्क सूऴिऩ्
-अऱञ्जूऴम् सूऴ्न्दवऩ् केडु। २०४
+मऱन्दुम् पिऱऩ्केडु सूऴऱ्क सूऴिऩ्  
+अऱञ्जूऴम् सूऴ्न्दवऩ् केडु। २०४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०४</summary>
@@ -193,10 +192,10 @@ Who injure not even their foes.        203
 
 <details><summary>NVK Ashraf choice (en) - २०४</summary>
 
-०२०४
-Plot not thy neighbour's fall, even forgetfully;
-Else, justice will plot the plotter's fall. *
-(G.U. Pope), (N.V.K. Ashraf)
+०२०४  
+Plot not thy neighbour's fall, even forgetfully;  
+Else, justice will plot the plotter's fall. *  
+(G.U. Pope), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०४</summary>
@@ -230,14 +229,14 @@ The ruin of another man's.        204
 
 <details><summary>मूलम् - २०४</summary>
 
-मऱन्दुम् पिऱऩ्केडु सूऴऱ्क सूऴिऩ्
-अऱञ्जूऴम् सूऴ्न्दवऩ् केडु। २०४
+मऱन्दुम् पिऱऩ्केडु सूऴऱ्क सूऴिऩ्  
+अऱञ्जूऴम् सूऴ्न्दवऩ् केडु। २०४  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०५</summary>
 
-इलऩ् ऎऩ्ऱु तीयवै सॆय्यऱ्क सॆय्यिऩ्
-इलऩागुम् मऱ्ऱुम् पॆयर्त्तु। २०५
+इलऩ् ऎऩ्ऱु तीयवै सॆय्यऱ्क सॆय्यिऩ्  
+इलऩागुम् मऱ्ऱुम् पॆयर्त्तु। २०५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०५</summary>
@@ -248,10 +247,10 @@ The ruin of another man's.        204
 
 <details><summary>NVK Ashraf choice (en) - २०५</summary>
 
-०२०५
-Plead not poverty for doing ill,
-Whereby you will become poorer still.
-(P.S. Sundaram)
+०२०५  
+Plead not poverty for doing ill,  
+Whereby you will become poorer still.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०५</summary>
@@ -285,14 +284,14 @@ Shall reduce himself poorer still.        205
 
 <details><summary>मूलम् - २०५</summary>
 
-इलऩ् ऎऩ्ऱु तीयवै सॆय्यऱ्क सॆय्यिऩ्
-इलऩागुम् मऱ्ऱुम् पॆयर्त्तु। २०५
+इलऩ् ऎऩ्ऱु तीयवै सॆय्यऱ्क सॆय्यिऩ्  
+इलऩागुम् मऱ्ऱुम् पॆयर्त्तु। २०५  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०६</summary>
 
-तीप्पाल ताऩ्पिऱर्गण् सॆय्यऱ्क नोय्प्पाल
-तऩ्ऩै अडल्वेण्डा ताऩ्। २०६
+तीप्पाल ताऩ्पिऱर्गण् सॆय्यऱ्क नोय्प्पाल  
+तऩ्ऩै अडल्वेण्डा ताऩ्। २०६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०६</summary>
@@ -303,10 +302,10 @@ Shall reduce himself poorer still.        205
 
 <details><summary>NVK Ashraf choice (en) - २०६</summary>
 
-०२०६
-Let him, who seeks to be free from suffering,
-Not be a cause of suffering to others.
-(K. Krishnaswamy & Vijaya Ramkumar)
+०२०६  
+Let him, who seeks to be free from suffering,  
+Not be a cause of suffering to others.  
+(K. Krishnaswamy & Vijaya Ramkumar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०६</summary>
@@ -341,14 +340,14 @@ Who would from harm himself remain.        206
 
 <details><summary>मूलम् - २०६</summary>
 
-तीप्पाल ताऩ्पिऱर्गण् सॆय्यऱ्क नोय्प्पाल
-तऩ्ऩै अडल्वेण्डा ताऩ्। २०६
+तीप्पाल ताऩ्पिऱर्गण् सॆय्यऱ्क नोय्प्पाल  
+तऩ्ऩै अडल्वेण्डा ताऩ्। २०६  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०७</summary>
 
-ऎऩैप्पगै युऱ्ऱारुम् उय्वर् विऩैप्पगै
-वीयादु पिऩ्सॆऩ्ऱु अडुम्। २०७
+ऎऩैप्पगै युऱ्ऱारुम् उय्वर् विऩैप्पगै  
+वीयादु पिऩ्सॆऩ्ऱु अडुम्। २०७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०७</summary>
@@ -359,10 +358,10 @@ Who would from harm himself remain.        206
 
 <details><summary>NVK Ashraf choice (en) - २०७</summary>
 
-०२०७
-Escape from other enemies is likely,
-But not from the relentless pursuit of evil deeds. *
-(C. Rajagopalachari)
+०२०७  
+Escape from other enemies is likely,  
+But not from the relentless pursuit of evil deeds. *  
+(C. Rajagopalachari)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०७</summary>
@@ -396,14 +395,14 @@ But sin its deadly blow will give.        207
 
 <details><summary>मूलम् - २०७</summary>
 
-ऎऩैप्पगै युऱ्ऱारुम् उय्वर् विऩैप्पगै
-वीयादु पिऩ्सॆऩ्ऱु अडुम्। २०७
+ऎऩैप्पगै युऱ्ऱारुम् उय्वर् विऩैप्पगै  
+वीयादु पिऩ्सॆऩ्ऱु अडुम्। २०७  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०८</summary>
 
-तीयवै सॆय्दार् कॆडुदल् निऴल्दऩ्ऩै
-वीयादु अइउऱैन् दऱ्ऱु। २०८
+तीयवै सॆय्दार् कॆडुदल् निऴल्दऩ्ऩै  
+वीयादु अइउऱैन् दऱ्ऱु। २०८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०८</summary>
@@ -414,10 +413,10 @@ But sin its deadly blow will give.        207
 
 <details><summary>NVK Ashraf choice (en) - २०८</summary>
 
-०२०८
-The consequences of evil deeds leave not
-Like the persistent shadow under the feet.
-(N.V.K. Ashraf)
+०२०८  
+The consequences of evil deeds leave not  
+Like the persistent shadow under the feet.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०८</summary>
@@ -452,14 +451,14 @@ As shadow follows as they go.        208
 
 <details><summary>मूलम् - २०८</summary>
 
-तीयवै सॆय्दार् कॆडुदल् निऴल्दऩ्ऩै
-वीयादु अइउऱैन् दऱ्ऱु। २०८
+तीयवै सॆय्दार् कॆडुदल् निऴल्दऩ्ऩै  
+वीयादु अइउऱैन् दऱ्ऱु। २०८  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २०९</summary>
 
-तऩ्ऩैत्ताऩ् कादल ऩायिऩ् ऎऩैत्तॊऩ्ऱुम्
-तुऩ्ऩऱ्क तीविऩैप् पाल्। २०९
+तऩ्ऩैत्ताऩ् कादल ऩायिऩ् ऎऩैत्तॊऩ्ऱुम्  
+तुऩ्ऩऱ्क तीविऩैप् पाल्। २०९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २०९</summary>
@@ -470,10 +469,10 @@ As shadow follows as they go.        208
 
 <details><summary>NVK Ashraf choice (en) - २०९</summary>
 
-०२०९
-If you love yourself,
-Refrain from causing ill of any degree. *
-(P.S. Sundaram)
+०२०९  
+If you love yourself,  
+Refrain from causing ill of any degree. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २०९</summary>
@@ -507,14 +506,14 @@ Think of evil however small.        209
 
 <details><summary>मूलम् - २०९</summary>
 
-तऩ्ऩैत्ताऩ् कादल ऩायिऩ् ऎऩैत्तॊऩ्ऱुम्
-तुऩ्ऩऱ्क तीविऩैप् पाल्। २०९
+तऩ्ऩैत्ताऩ् कादल ऩायिऩ् ऎऩैत्तॊऩ्ऱुम्  
+तुऩ्ऩऱ्क तीविऩैप् पाल्। २०९  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - २१०</summary>
 
-अरुङ्गेडऩ् ऎऩ्पदु अऱिग मरुङ्गोडित्
-तीविऩै सॆय्याऩ् ऎऩिऩ्। २१०
+अरुङ्गेडऩ् ऎऩ्पदु अऱिग मरुङ्गोडित्  
+तीविऩै सॆय्याऩ् ऎऩिऩ्। २१०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - २१०</summary>
@@ -525,10 +524,10 @@ Think of evil however small.        209
 
 <details><summary>NVK Ashraf choice (en) - २१०</summary>
 
-०२१०
-Know that no harm shall ever befall the one
-Who never strays into evil. *
-(P.S. Sundaram)
+०२१०  
+Know that no harm shall ever befall the one  
+Who never strays into evil. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - २१०</summary>
@@ -561,7 +560,7 @@ Who slips not right path to do evils.        210
 
 <details><summary>मूलम् - २१०</summary>
 
-अरुङ्गेडऩ् ऎऩ्पदु अऱिग मरुङ्गोडित्
-तीविऩै सॆय्याऩ् ऎऩिऩ्। २१०
+अरुङ्गेडऩ् ऎऩ्पदु अऱिग मरुङ्गोडित्  
+तीविऩै सॆय्याऩ् ऎऩिऩ्। २१०  
 </details>
 

@@ -3,11 +3,10 @@ title = "०९ अवैयऱिदल्"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - ७११</summary>
 
-अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिऩ्
-तॊगैयऱिन्द तूय्मै यवर्। ७११
+अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिऩ्  
+तॊगैयऱिन्द तूय्मै यवर्। ७११  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७११</summary>
@@ -19,10 +18,10 @@ title = "०९ अवैयऱिदल्"
 
 <details><summary>NVK Ashraf choice (en) - ७११</summary>
 
-०७११
-Meticulous masters of words
-Must judge the council before they speak.
-(P.S. Sundaram), (N.V.K. Ashraf)
+०७११  
+Meticulous masters of words  
+Must judge the council before they speak.  
+(P.S. Sundaram), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७११</summary>
@@ -56,14 +55,14 @@ Adapt their words to audience.        711
 
 <details><summary>मूलम् - ७११</summary>
 
-अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिऩ्
-तॊगैयऱिन्द तूय्मै यवर्। ७११
+अवैयऱिनदु आराय्न्दु सॊल्लुग सॊल्लिऩ्  
+तॊगैयऱिन्द तूय्मै यवर्। ७११  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१२</summary>
 
-इडैदॆरिन्दु नऩ्कुणर्न्दु सॊल्लुग सॊल्लिऩ्
-नडैदॆरिन्द नऩ्मै यवर्। ७१२
+इडैदॆरिन्दु नऩ्कुणर्न्दु सॊल्लुग सॊल्लिऩ्  
+नडैदॆरिन्द नऩ्मै यवर्। ७१२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१२</summary>
@@ -74,10 +73,10 @@ Adapt their words to audience.        711
 
 <details><summary>NVK Ashraf choice (en) - ७१२</summary>
 
-०७१२
-Should skilled orators wish to speak,
-Let them study the occasion with care. *
-(P.S. Sundaram)
+०७१२  
+Should skilled orators wish to speak,  
+Let them study the occasion with care. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७१२</summary>
@@ -116,14 +115,14 @@ Their chosen words to time in fact.        712
 
 <details><summary>मूलम् - ७१२</summary>
 
-इडैदॆरिन्दु नऩ्कुणर्न्दु सॊल्लुग सॊल्लिऩ्
-नडैदॆरिन्द नऩ्मै यवर्। ७१२
+इडैदॆरिन्दु नऩ्कुणर्न्दु सॊल्लुग सॊल्लिऩ्  
+नडैदॆरिन्द नऩ्मै यवर्। ७१२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१३</summary>
 
-अवैयऱियार् सॊल्लल्मेऱ् कॊळ्बवर् सॊल्लिऩ्
-वगैयऱियार् वल्लदूउम् इल्। ७१३
+अवैयऱियार् सॊल्लल्मेऱ् कॊळ्बवर् सॊल्लिऩ्  
+वगैयऱियार् वल्लदूउम् इल्। ७१३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१३</summary>
@@ -134,10 +133,10 @@ Their chosen words to time in fact.        712
 
 <details><summary>NVK Ashraf choice (en) - ७१३</summary>
 
-०७१३
-Only poor orators, good for nothing, speak at length
-Without knowing the audience. *
-(P.S. Sundaram)
+०७१३  
+Only poor orators, good for nothing, speak at length  
+Without knowing the audience. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७१३</summary>
@@ -172,14 +171,14 @@ Words unversed which ears don't take.        713
 
 <details><summary>मूलम् - ७१३</summary>
 
-अवैयऱियार् सॊल्लल्मेऱ् कॊळ्बवर् सॊल्लिऩ्
-वगैयऱियार् वल्लदूउम् इल्। ७१३
+अवैयऱियार् सॊल्लल्मेऱ् कॊळ्बवर् सॊल्लिऩ्  
+वगैयऱियार् वल्लदूउम् इल्। ७१३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१४</summary>
 
-ऒळियार्मुऩ् ऒळ्ळिय रादल् वॆळियार्मुऩ्
-वाऩ्सुदै वण्णम् कॊळल्। ७१४
+ऒळियार्मुऩ् ऒळ्ळिय रादल् वॆळियार्मुऩ्  
+वाऩ्सुदै वण्णम् कॊळल्। ७१४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१४</summary>
@@ -190,10 +189,10 @@ Words unversed which ears don't take.        713
 
 <details><summary>NVK Ashraf choice (en) - ७१४</summary>
 
-०७१४
-Before the bright, be brilliant light.
-Before the dull, assume mortar white. *
-( Shuddhananda Bharatiar)
+०७१४  
+Before the bright, be brilliant light.  
+Before the dull, assume mortar white. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७१४</summary>
@@ -232,14 +231,14 @@ Before the muff be mortar white.        714
 
 <details><summary>मूलम् - ७१४</summary>
 
-ऒळियार्मुऩ् ऒळ्ळिय रादल् वॆळियार्मुऩ्
-वाऩ्सुदै वण्णम् कॊळल्। ७१४
+ऒळियार्मुऩ् ऒळ्ळिय रादल् वॆळियार्मुऩ्  
+वाऩ्सुदै वण्णम् कॊळल्। ७१४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१५</summary>
 
-नऩ्ऱॆऩ्ऱ वऱ्ऱुळ्ळुम् नऩ्ऱे मुदुवरुळ्
-मुन्दु किळवाच् चॆऱिवु। ७१५
+नऩ्ऱॆऩ्ऱ वऱ्ऱुळ्ळुम् नऩ्ऱे मुदुवरुळ्  
+मुन्दु किळवाच् चॆऱिवु। ७१५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१५</summary>
@@ -250,10 +249,10 @@ Before the muff be mortar white.        714
 
 <details><summary>NVK Ashraf choice (en) - ७१५</summary>
 
-०७१५
-The best amongst all good qualities
-Is the modesty to holdback before elders. *
-(P.S. Sundaram), (W.H. Drew and J. Lazarus)
+०७१५  
+The best amongst all good qualities  
+Is the modesty to holdback before elders. *  
+(P.S. Sundaram), (W.H. Drew and J. Lazarus)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७१५</summary>
@@ -288,14 +287,14 @@ Which argues not before elders.        715
 
 <details><summary>मूलम् - ७१५</summary>
 
-नऩ्ऱॆऩ्ऱ वऱ्ऱुळ्ळुम् नऩ्ऱे मुदुवरुळ्
-मुन्दु किळवाच् चॆऱिवु। ७१५
+नऩ्ऱॆऩ्ऱ वऱ्ऱुळ्ळुम् नऩ्ऱे मुदुवरुळ्  
+मुन्दु किळवाच् चॆऱिवु। ७१५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१६</summary>
 
-आऱ्ऱिऩ् निलैदळर्न् दऱ्ऱे वियऩ्पुलम्
-एऱ्ऱुणर्वार् मुऩ्ऩर् इऴुक्कु। ७१६
+आऱ्ऱिऩ् निलैदळर्न् दऱ्ऱे वियऩ्पुलम्  
+एऱ्ऱुणर्वार् मुऩ्ऩर् इऴुक्कु। ७१६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१६</summary>
@@ -306,10 +305,10 @@ Which argues not before elders.        715
 
 <details><summary>NVK Ashraf choice (en) - ७१६</summary>
 
-०७१६
-To slip before men of wide learning
-Is like slipping from the path of righteousness. *
-( Shuddhananda Bharatiar)
+०७१६  
+To slip before men of wide learning  
+Is like slipping from the path of righteousness. *  
+( Shuddhananda Bharatiar)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - ७१६</summary>
@@ -349,14 +348,14 @@ Is like slipping from righteous ways.        716
 
 <details><summary>मूलम् - ७१६</summary>
 
-आऱ्ऱिऩ् निलैदळर्न् दऱ्ऱे वियऩ्पुलम्
-एऱ्ऱुणर्वार् मुऩ्ऩर् इऴुक्कु। ७१६
+आऱ्ऱिऩ् निलैदळर्न् दऱ्ऱे वियऩ्पुलम्  
+एऱ्ऱुणर्वार् मुऩ्ऩर् इऴुक्कु। ७१६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१७</summary>
 
-कऱ्ऱऱिन्दार् कल्वि विळङ्गुम् कसडऱच्
-चॊल्दॆरिदल् वल्लार् अगत्तु। ७१७
+कऱ्ऱऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
+चॊल्दॆरिदल् वल्लार् अगत्तु। ७१७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१७</summary>
@@ -367,10 +366,10 @@ Is like slipping from righteous ways.        716
 
 <details><summary>NVK Ashraf choice (en) - ७१७</summary>
 
-०७१७
-The scholarship of a scholar shines
-In an assembly of meticulous scholars. *
-(P.S. Sundaram)
+०७१७  
+The scholarship of a scholar shines  
+In an assembly of meticulous scholars. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७१७</summary>
@@ -405,14 +404,14 @@ Valued by flawless scholar-minds.        717
 
 <details><summary>मूलम् - ७१७</summary>
 
-कऱ्ऱऱिन्दार् कल्वि विळङ्गुम् कसडऱच्
-चॊल्दॆरिदल् वल्लार् अगत्तु। ७१७
+कऱ्ऱऱिन्दार् कल्वि विळङ्गुम् कसडऱच्  
+चॊल्दॆरिदल् वल्लार् अगत्तु। ७१७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१८</summary>
 
-उणर्व तुडैयार्मुऩ् सॊल्लल् वळर्वदऩ्
-पात्तियुळ् नीर्सॊरिन् दऱ्ऱु। ७१८
+उणर्व तुडैयार्मुऩ् सॊल्लल् वळर्वदऩ्  
+पात्तियुळ् नीर्सॊरिन् दऱ्ऱु। ७१८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१८</summary>
@@ -423,10 +422,10 @@ Valued by flawless scholar-minds.        717
 
 <details><summary>NVK Ashraf choice (en) - ७१८</summary>
 
-०७१८
-Speaking before a receptive audience
-Is like watering a nursery of growing plants.
-(N.V.K. Ashraf)
+०७१८  
+Speaking before a receptive audience  
+Is like watering a nursery of growing plants.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७१८</summary>
@@ -461,14 +460,14 @@ Is to water beds of growing grains.        718
 
 <details><summary>मूलम् - ७१८</summary>
 
-उणर्व तुडैयार्मुऩ् सॊल्लल् वळर्वदऩ्
-पात्तियुळ् नीर्सॊरिन् दऱ्ऱु। ७१८
+उणर्व तुडैयार्मुऩ् सॊल्लल् वळर्वदऩ्  
+पात्तियुळ् नीर्सॊरिन् दऱ्ऱु। ७१८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७१९</summary>
 
-पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्क नल्लवैयुळ्
-नऩ्कुसलच् चॊल्लु वार्। ७१९
+पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्क नल्लवैयुळ्  
+नऩ्कुसलच् चॊल्लु वार्। ७१९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७१९</summary>
@@ -479,10 +478,10 @@ Is to water beds of growing grains.        718
 
 <details><summary>NVK Ashraf choice (en) - ७१९</summary>
 
-०७१९
-Don't tell an assembly of fools even forgetfully
-Things meant for the wise.
-(P.S. Sundaram)
+०७१९  
+Don't tell an assembly of fools even forgetfully  
+Things meant for the wise.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७१९</summary>
@@ -517,14 +516,14 @@ Forgetful, address not the mean.        719
 
 <details><summary>मूलम् - ७१९</summary>
 
-पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्क नल्लवैयुळ्
-नऩ्कुसलच् चॊल्लु वार्। ७१९
+पुल्लवैयुळ् पॊच्चान्दुम् सॊल्लऱ्क नल्लवैयुळ्  
+नऩ्कुसलच् चॊल्लु वार्। ७१९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - ७२०</summary>
 
-अङ्गणत्तुळ् उक्क अमिऴ्दऱ्ऱाल् तङ्गणत्तार्
-अल्लार्मुऩ् कोट्टि कॊळल्। ७२०
+अङ्गणत्तुळ् उक्क अमिऴ्दऱ्ऱाल् तङ्गणत्तार्  
+अल्लार्मुऩ् कोट्टि कॊळल्। ७२०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - ७२०</summary>
@@ -535,10 +534,10 @@ Forgetful, address not the mean.        719
 
 <details><summary>NVK Ashraf choice (en) - ७२०</summary>
 
-०७२०
-To deliberate with people of dissimilar interests
-Is like spilling nectar in the drain. *
-(K. Kannan)
+०७२०  
+To deliberate with people of dissimilar interests  
+Is like spilling nectar in the drain. *  
+(K. Kannan)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ७२०</summary>
@@ -571,7 +570,7 @@ Pours ambrosia into gutters.        720
 
 <details><summary>मूलम् - ७२०</summary>
 
-अङ्गणत्तुळ् उक्क अमिऴ्दऱ्ऱाल् तङ्गणत्तार्
-अल्लार्मुऩ् कोट्टि कॊळल्। ७२०
+अङ्गणत्तुळ् उक्क अमिऴ्दऱ्ऱाल् तङ्गणत्तार्  
+अल्लार्मुऩ् कोट्टि कॊळल्। ७२०  
 </details>
 

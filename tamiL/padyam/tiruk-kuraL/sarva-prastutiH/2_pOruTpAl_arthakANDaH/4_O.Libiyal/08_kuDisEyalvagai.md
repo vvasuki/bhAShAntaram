@@ -3,11 +3,10 @@ title = "०८ कुडिसॆयल्वगै"
 
 +++
 
-
 <details><summary>विश्वास-प्रस्तुतिः - १०२१</summary>
 
-करुमम् सॆयऒरुवऩ् कैदूवेऩ् ऎऩ्ऩुम्
-पॆरुमैयिऩ् पीडुडैयदु इल्। १०२१
+करुमम् सॆयऒरुवऩ् कैदूवेऩ् ऎऩ्ऩुम्  
+पॆरुमैयिऩ् पीडुडैयदु इल्। १०२१  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२१</summary>
@@ -19,10 +18,10 @@ title = "०८ कुडिसॆयल्वगै"
 
 <details><summary>NVK Ashraf choice (en) - १०२१</summary>
 
-१०२१
-There is nothing more glorious than to persist
-In the advance of the community.
-(P.S. Sundaram)
+१०२१  
+There is nothing more glorious than to persist  
+In the advance of the community.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२१</summary>
@@ -57,14 +56,14 @@ Saying "I shall work without slack".        1021
 
 <details><summary>मूलम् - १०२१</summary>
 
-करुमम् सॆयऒरुवऩ् कैदूवेऩ् ऎऩ्ऩुम्
-पॆरुमैयिऩ् पीडुडैयदु इल्। १०२१
+करुमम् सॆयऒरुवऩ् कैदूवेऩ् ऎऩ्ऩुम्  
+पॆरुमैयिऩ् पीडुडैयदु इल्। १०२१  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२२</summary>
 
-आळ्विऩैयुम् आऩ्ऱ अऱिवुम् ऎऩइरण्डिऩ्
-नीळ्विऩैयाल् नीळुम् कुडि। १०२२
+आळ्विऩैयुम् आऩ्ऱ अऱिवुम् ऎऩइरण्डिऩ्  
+नीळ्विऩैयाल् नीळुम् कुडि। १०२२  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२२</summary>
@@ -75,10 +74,10 @@ Saying "I shall work without slack".        1021
 
 <details><summary>NVK Ashraf choice (en) - १०२२</summary>
 
-१०२२
-Manly exertion and sound knowledge:
-A community progresses with these two. *
-(V.V.S. Aiyar), (N.V.K. Ashraf)
+१०२२  
+Manly exertion and sound knowledge:  
+A community progresses with these two. *  
+(V.V.S. Aiyar), (N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२२</summary>
@@ -112,14 +111,14 @@ Ardent effort and ripe wisdom.        1022
 
 <details><summary>मूलम् - १०२२</summary>
 
-आळ्विऩैयुम् आऩ्ऱ अऱिवुम् ऎऩइरण्डिऩ्
-नीळ्विऩैयाल् नीळुम् कुडि। १०२२
+आळ्विऩैयुम् आऩ्ऱ अऱिवुम् ऎऩइरण्डिऩ्  
+नीळ्विऩैयाल् नीळुम् कुडि। १०२२  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२३</summary>
 
-कुडिसॆय्वल् ऎऩ्ऩुम् ऒरुवऱ्कुत् तॆय्वम्
-मडिदऱ्ऱुत् ताऩ्मुन् दुऱुम्। १०२३
+कुडिसॆय्वल् ऎऩ्ऩुम् ऒरुवऱ्कुत् तॆय्वम्  
+मडिदऱ्ऱुत् ताऩ्मुन् दुऱुम्। १०२३  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२३</summary>
@@ -130,10 +129,10 @@ Ardent effort and ripe wisdom.        1022
 
 <details><summary>NVK Ashraf choice (en) - १०२३</summary>
 
-१०२३
-The Lord himself will wrap his robes
-And lead the one bent on social service. *
-(Satguru Subramuniyaswami), (P.S. Sundaram)
+१०२३  
+The Lord himself will wrap his robes  
+And lead the one bent on social service. *  
+(Satguru Subramuniyaswami), (P.S. Sundaram)  
 </details>
 
 <details><summary>NVK Ashraf notes (en) - १०२३</summary>
@@ -173,14 +172,14 @@ Loin girt up God leads his ways.        1023
 
 <details><summary>मूलम् - १०२३</summary>
 
-कुडिसॆय्वल् ऎऩ्ऩुम् ऒरुवऱ्कुत् तॆय्वम्
-मडिदऱ्ऱुत् ताऩ्मुन् दुऱुम्। १०२३
+कुडिसॆय्वल् ऎऩ्ऩुम् ऒरुवऱ्कुत् तॆय्वम्  
+मडिदऱ्ऱुत् ताऩ्मुन् दुऱुम्। १०२३  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२४</summary>
 
-सूऴामल् ताऩे मुडिवॆय्दुम् तम्गुडियैत्
-ताऴादु उञऱ्ऱु पवर्क्कु। १०२४
+सूऴामल् ताऩे मुडिवॆय्दुम् तम्गुडियैत्  
+ताऴादु उञऱ्ऱु पवर्क्कु। १०२४  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२४</summary>
@@ -191,10 +190,10 @@ Loin girt up God leads his ways.        1023
 
 <details><summary>NVK Ashraf choice (en) - १०२४</summary>
 
-१०२४
-Success will come by itself to the one
-Who tirelessly strives for his society.
-(N.V.K. Ashraf)
+१०२४  
+Success will come by itself to the one  
+Who tirelessly strives for his society.  
+(N.V.K. Ashraf)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२४</summary>
@@ -229,14 +228,14 @@ No need for plan; their ends will gain.        1024
 
 <details><summary>मूलम् - १०२४</summary>
 
-सूऴामल् ताऩे मुडिवॆय्दुम् तम्गुडियैत्
-ताऴादु उञऱ्ऱु पवर्क्कु। १०२४
+सूऴामल् ताऩे मुडिवॆय्दुम् तम्गुडियैत्  
+ताऴादु उञऱ्ऱु पवर्क्कु। १०२४  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२५</summary>
 
-कुऱ्ऱम् इलऩाय्क् कुडिसॆय्दु वाऴ्वाऩैच्
-चुऱ्ऱमाच् चुऱ्ऱुम् उलगु। १०२५
+कुऱ्ऱम् इलऩाय्क् कुडिसॆय्दु वाऴ्वाऩैच्  
+चुऱ्ऱमाच् चुऱ्ऱुम् उलगु। १०२५  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२५</summary>
@@ -247,10 +246,10 @@ No need for plan; their ends will gain.        1024
 
 <details><summary>NVK Ashraf choice (en) - १०२५</summary>
 
-१०२५
-The world will flock round the one
-Leading a blameless life doing social service. *
-(P.S. Sundaram)
+१०२५  
+The world will flock round the one  
+Leading a blameless life doing social service. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२५</summary>
@@ -285,14 +284,14 @@ People around, his kinship claim.        1025
 
 <details><summary>मूलम् - १०२५</summary>
 
-कुऱ्ऱम् इलऩाय्क् कुडिसॆय्दु वाऴ्वाऩैच्
-चुऱ्ऱमाच् चुऱ्ऱुम् उलगु। १०२५
+कुऱ्ऱम् इलऩाय्क् कुडिसॆय्दु वाऴ्वाऩैच्  
+चुऱ्ऱमाच् चुऱ्ऱुम् उलगु। १०२५  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२६</summary>
 
-नल्लाण्मै ऎऩ्पदु ऒरुवऱ्कुत् ताऩ्पिऱन्द
-इल्लाण्मै आक्किक् कॊळल्। १०२६
+नल्लाण्मै ऎऩ्पदु ऒरुवऱ्कुत् ताऩ्पिऱन्द  
+इल्लाण्मै आक्किक् कॊळल्। १०२६  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२६</summary>
@@ -303,10 +302,10 @@ People around, his kinship claim.        1025
 
 <details><summary>NVK Ashraf choice (en) - १०२६</summary>
 
-१०२६
-True valour lies in raising the community
-One is born into. *
-(C. Rajagopalachari), (V.V.S. Aiyar)
+१०२६  
+True valour lies in raising the community  
+One is born into. *  
+(C. Rajagopalachari), (V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२६</summary>
@@ -340,14 +339,14 @@ Are deemed as men of manly worth.        1026
 
 <details><summary>मूलम् - १०२६</summary>
 
-नल्लाण्मै ऎऩ्पदु ऒरुवऱ्कुत् ताऩ्पिऱन्द
-इल्लाण्मै आक्किक् कॊळल्। १०२६
+नल्लाण्मै ऎऩ्पदु ऒरुवऱ्कुत् ताऩ्पिऱन्द  
+इल्लाण्मै आक्किक् कॊळल्। १०२६  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२७</summary>
 
-अमरगत्तु वऩ्कण्णर् पोलत् तमरगत्तुम्
-आऱ्ऱुवार् मेऱ्ऱे पॊऱै। १०२७
+अमरगत्तु वऩ्कण्णर् पोलत् तमरगत्तुम्  
+आऱ्ऱुवार् मेऱ्ऱे पॊऱै। १०२७  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२७</summary>
@@ -358,10 +357,10 @@ Are deemed as men of manly worth.        1026
 
 <details><summary>NVK Ashraf choice (en) - १०२७</summary>
 
-१०२७
-As in the battlefield, the burden of social work
-Also falls on the capable. *
-(P.S. Sundaram)
+१०२७  
+As in the battlefield, the burden of social work  
+Also falls on the capable. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२७</summary>
@@ -396,14 +395,14 @@ The home-burden rests on the bold.        1027
 
 <details><summary>मूलम् - १०२७</summary>
 
-अमरगत्तु वऩ्कण्णर् पोलत् तमरगत्तुम्
-आऱ्ऱुवार् मेऱ्ऱे पॊऱै। १०२७
+अमरगत्तु वऩ्कण्णर् पोलत् तमरगत्तुम्  
+आऱ्ऱुवार् मेऱ्ऱे पॊऱै। १०२७  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२८</summary>
 
-कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु
-माऩङ् गरुदक् कॆडुम्। १०२८
+कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु  
+माऩङ् गरुदक् कॆडुम्। १०२८  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२८</summary>
@@ -414,10 +413,10 @@ The home-burden rests on the bold.        1027
 
 <details><summary>NVK Ashraf choice (en) - १०२८</summary>
 
-१०२८
-There is no set time for social service.
-To put off is to ruin repute. *
-(P.S. Sundaram)
+१०२८  
+There is no set time for social service.  
+To put off is to ruin repute. *  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२८</summary>
@@ -452,14 +451,14 @@ Sloth and pride will honour efface.        1028
 
 <details><summary>मूलम् - १०२८</summary>
 
-कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु
-माऩङ् गरुदक् कॆडुम्। १०२८
+कुडिसॆय्वार्क् किल्लै परुवम् मडिसॆय्दु  
+माऩङ् गरुदक् कॆडुम्। १०२८  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०२९</summary>
 
-इडुम्बैक्के कॊळ्गलम् कॊल्लो कुटुम्बत्तैक्
-कुऱ्ऱ मऱैप्पाऩ् उडम्बु। १०२९
+इडुम्बैक्के कॊळ्गलम् कॊल्लो कुटुम्बत्तैक्  
+कुऱ्ऱ मऱैप्पाऩ् उडम्बु। १०२९  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०२९</summary>
@@ -470,10 +469,10 @@ Sloth and pride will honour efface.        1028
 
 <details><summary>NVK Ashraf choice (en) - १०२९</summary>
 
-१०२९
-Is the body that protects one’s family against hurdles
-A receptacle for hardships alone? *
-(V.V.S. Aiyar)
+१०२९  
+Is the body that protects one’s family against hurdles  
+A receptacle for hardships alone? *  
+(V.V.S. Aiyar)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०२९</summary>
@@ -508,14 +507,14 @@ Who from mishaps shields his house?        1029
 
 <details><summary>मूलम् - १०२९</summary>
 
-इडुम्बैक्के कॊळ्गलम् कॊल्लो कुटुम्बत्तैक्
-कुऱ्ऱ मऱैप्पाऩ् उडम्बु। १०२९
+इडुम्बैक्के कॊळ्गलम् कॊल्लो कुटुम्बत्तैक्  
+कुऱ्ऱ मऱैप्पाऩ् उडम्बु। १०२९  
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - १०३०</summary>
 
-इडुक्कण्गाल् कॊऩ्ऱिड वीऴुम् अडुत्तूऩ्ऱुम्
-नल्लाळ् इलाद कुडि। १०३०
+इडुक्कण्गाल् कॊऩ्ऱिड वीऴुम् अडुत्तूऩ्ऱुम्  
+नल्लाळ् इलाद कुडि। १०३०  
 </details>
 
 <details><summary>श्री-राम-देशिकः - १०३०</summary>
@@ -526,10 +525,10 @@ Who from mishaps shields his house?        1029
 
 <details><summary>NVK Ashraf choice (en) - १०३०</summary>
 
-१०३०
-Society will crash axed by misfortune
-Without good men to support it.
-(P.S. Sundaram)
+१०३०  
+Society will crash axed by misfortune  
+Without good men to support it.  
+(P.S. Sundaram)  
 </details>
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - १०३०</summary>
@@ -563,7 +562,7 @@ With no good man to prop it up.         1030
 
 <details><summary>मूलम् - १०३०</summary>
 
-इडुक्कण्गाल् कॊऩ्ऱिड वीऴुम् अडुत्तूऩ्ऱुम्
-नल्लाळ् इलाद कुडि। १०३०
+इडुक्कण्गाल् कॊऩ्ऱिड वीऴुम् अडुत्तूऩ्ऱुम्  
+नल्लाळ् इलाद कुडि। १०३०  
 </details>
 
