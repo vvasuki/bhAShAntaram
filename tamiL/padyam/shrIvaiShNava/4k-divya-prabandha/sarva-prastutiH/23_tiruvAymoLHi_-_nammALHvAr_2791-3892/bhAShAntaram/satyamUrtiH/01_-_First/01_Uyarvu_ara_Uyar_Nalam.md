@@ -82,7 +82,7 @@ My mind, lift yourself up to the dazzling, *distress-dispelling* feet of the One
 
 [^1]:  Bhakti rūpāpanna Jñāna or intellectual love of God.
 
-\(iv\) *Rid of ignorance*: Clear-cut knowledge, absolutely free from non-apprehensicn (*ajñāna*) or the error of mistaking the body for the soul, wrong apprehension (*anyatha-jñāna*) or the error of owing allegiance to other than the Supreme Lord (minor deities) and ‘*viparita-jñāna*’ (mis-apprehension or inverted apprehension), the error of thinking that the individual soul is the independent master and can enjoy itself (like the *kaivalya* class) whereas it is the sole servitor of the Lord, in whom vests the inviolable right to enjoy the former—such blemishless knowledge was dowered on the saint by the Lord’s free Grace—an act of Grace galore!
+\(iv\) *Rid of ignorance*: Clear-cut knowledge, absolutely free from non-apprehension (*ajñāna*) or the error of mistaking the body for the soul, wrong apprehension (*anyatha-jñāna*) or the error of owing allegiance to other than the Supreme Lord (minor deities) and ‘*viparita-jñāna*’ (mis-apprehension or inverted apprehension), the error of thinking that the individual soul is the independent master and can enjoy itself (like the *kaivalya* class) whereas it is the sole servitor of the Lord, in whom vests the inviolable right to enjoy the former—such blemishless knowledge was dowered on the saint by the Lord’s free Grace—an act of Grace galore!
 
 
 
