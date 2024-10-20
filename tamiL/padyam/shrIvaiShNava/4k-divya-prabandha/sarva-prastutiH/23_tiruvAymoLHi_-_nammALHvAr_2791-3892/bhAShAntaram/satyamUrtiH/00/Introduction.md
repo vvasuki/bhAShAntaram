@@ -20,6 +20,7 @@ The chanting of hymns in Saivite as well as Vaiṣṇava temples was in vogue lo
 
 
 [^3]:  The fact that the hymn of Kulaśekhara-āḻvār beginning tettarundiṟal was recited before the deity during three nights in the course of a festival in Srirangam is mentioned in an inscription of A.D. 1088.—(Page 639, The Colas, K. A. Nilakanta Sastri)
+
 ## Codification of Hymns
 
 It is an interesting feature of the bhakti movement in South India that the codifications of the Saivite hymns by Nampi Āṇṭār Nampi and of the Śrī Vaiṣṇava hymns, Divya Prabandams, by Nāthamuni were effected more or less about the same period and in the same region.[^4] Nāthamuṉi’s period must have been around the end of the ninth and the beginning of the tenth centuries.
