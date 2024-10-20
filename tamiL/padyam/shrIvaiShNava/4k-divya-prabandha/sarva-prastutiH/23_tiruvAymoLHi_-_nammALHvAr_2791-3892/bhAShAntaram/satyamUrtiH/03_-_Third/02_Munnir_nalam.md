@@ -58,7 +58,7 @@ Stray do I, pursuing its (errant) ways; I know not when
 My ills will be rooted out and you I shall attain.
 
 **Notes**  
-  
+
 [*Ālvār to the Lord*:]—
 
 \(i\) “I was like a wingless bird aṇd by giving me the limbs etc., you capacitated me for a career of gainful activity. But alas! the body, so kindly dowered by you, was misused by me and I have got all miseries heaped on my head. Now that I can hardly brook any separation from you, when will my deadly sins, the impediments for my union with you, be rooted out and our union be hastened?
@@ -91,7 +91,7 @@ When will my sins, hoary and violent, be rooted out
 And I remain stable at your lovely feet?
 
 **Note**  
-  
+
 [*Lord to the Āḻvār*:]—
 
 > “Well, if you couldn’t go to me, I came to you, spanned the whole
@@ -226,7 +226,7 @@ You could animate, oh, potent Lord,
 When shall I your feet resplendent attain?
 
 **Note**  
-  
+
 [*Alvar to the Lord*:]—
 
 > “My Lord, I am guilty, both ways, not doing any good that will take me
@@ -289,7 +289,7 @@ To behold you, the all-pervading, I call you out, now and again,
 But you, where and how can I attain?
 
 **Note**  
-  
+
 [*Āḻvār to the Lord*:]—
 
 > “Sire, all along, I have been providing grist for the grinding mill of
@@ -324,7 +324,7 @@ The cows and all the worlds measured,
 Where and how shall I get Him indeed?
 
 **Note**  
-  
+
 [*Āḻvār to the Lord*:]—
 
 > “My Lord, as Śrī Kṛṣṇa, you protected the cows in the pastoral village
