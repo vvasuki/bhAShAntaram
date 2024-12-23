@@ -1,7 +1,13 @@
 +++
-title = "०१ इल्वाऴ्क्कै"
+title = "०१ इल्-वाऴ्क्कै - गृहस्थ-जीवनम्"
 
 +++
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गृहस्थ-जीवनम्
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः - ४१</summary>
 
@@ -11,8 +17,10 @@ title = "०१ इल्वाऴ्क्कै"
 
 <details><summary>श्री-राम-देशिकः - ४१</summary>
 
-त्रयाणामपि वर्णानां स्वधर्ममनुतिष्ठताम् ।  
-गृहस्थो धर्मनिरतो नित्यं साह्यकरो मत्ः ॥ ४१॥
+त्रयाणाम् अपि वर्णानां  
+स्व-धर्मम् **अनुतिष्ठताम्** ।  
+गृहस्थो धर्म-निरतो  
+नित्यं साह्य-करो मतः ॥ ४१॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४१</summary>
@@ -70,8 +78,10 @@ Who aids the natural orders there.         41
 
 <details><summary>श्री-राम-देशिकः - ४२</summary>
 
-यतीन् मृतान् दरिद्रांश्च निर्गतीन् अतिथीनपि ।  
-गृहस्थोऽन्नादिदानेन स्वाश्रितानपि रक्षति ॥ ४२॥
+यतीन् मृतान् दरिद्रांश् च  
+निर्गतीन् अतिथीन् अपि ।  
+गृहस्थो ऽन्नादि-दानेन  
+स्वाश्रितान् अपि **रक्षति** ॥ ४२॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४२</summary>
@@ -122,8 +132,10 @@ And celebrate students are his care.         42
 
 <details><summary>श्री-राम-देशिकः - ४३</summary>
 
-पितृदेवातिथीनां च बन्धूनामात्मनस्तथा ।  
-सत्कृतिर्धर्ममागेण्ण गृहस्थस्य वरा मता ॥ ४३॥
+पितृ-देवातिथीनां च  
+बन्धूनाम् आत्मनस् तथा ।  
+**सत्-कृतिर्** धर्म-मार्गेण  
+गृहस्थस्य वरा **मता** ॥ ४३॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४३</summary>
@@ -174,8 +186,10 @@ God, manes, kin, self and guests are served.         43
 
 <details><summary>श्री-राम-देशिकः - ४४</summary>
 
-अपवादभयाद्वित्तं सम्पाद्य सकलैः सह ।  
-भुञ्जानस्य गृहस्थास्य निर्दुष्टं जीवनं भवेत् ॥ ४४॥
+अपवाद-भयाद् वित्तं  
+**सम्पाद्य** सकलैः सह ।  
+**भुञ्जानस्य** गृहस्थास्य  
+**निर्दुष्टं** जीवनं भवेत् ॥ ४४॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४४</summary>
@@ -226,8 +240,10 @@ His home is bright and brighter fares.         44
 
 <details><summary>श्री-राम-देशिकः - ४५</summary>
 
-गार्हस्थ्यजीवनं यत् स्यात् स्नेहधर्मसमन्वितम् ।  
-तदेव सार्थकं लोके तद्धि गार्हस्थ्यमुच्यते ॥ ४५॥
+गार्हस्थ्य-जीवनं यत् स्यात्  
+**स्नेह**-धर्म-समन्वितम् ।  
+तद् एव सार्थकं लोके  
+तद् +धि गार्हस्थ्यम् **उच्यते** ॥ ४५॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४५</summary>
@@ -240,7 +256,7 @@ Endows it with character and happiness
 
 <details><summary>रामचन्द्र-दीक्षितः (en) - ४५</summary>
 
-45\. Periyārait Tuņaikkõṭal
+45. The life of householder marked by love and rectitude is itself virtue and its fruit.
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - ४५</summary>
@@ -278,8 +294,10 @@ Where love with virtue sweetly dwells.         45
 
 <details><summary>श्री-राम-देशिकः - ४६</summary>
 
-गार्हस्थ्यजीवनं येन धम्यें मागें प्रवर्त्येते ।  
-किं वा प्रयोजनं तस्य वानप्रस्थादिना पथा ॥ ४६॥
+गार्हस्थ्य-जीवनं येन  
+धर्म्ये मार्गे **प्रवर्त्येते** ।  
+किं वा प्रयोजनं तस्य  
+वानप्रस्थादिना पथा ॥ ४६॥ +++(4)+++
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४६</summary>
@@ -330,8 +348,10 @@ To be a monk, what profits he?         46
 
 <details><summary>श्री-राम-देशिकः - ४७</summary>
 
-धर्मेण वर्त्मना यस्तु गार्हस्थ्यमुपसेवते ।  
-मार्गन्तरोपजीविभ्यः स प्रशस्तो निगद्यते ॥ ४७॥
+धर्मेण वर्त्मना यस् तु  
+गार्हस्थ्यम् **उपसेवते** ।  
+मार्गन्तरोपजीविभ्यः  
+स **प्रशस्तो** निगद्यते ॥ ४७॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४७</summary>
@@ -382,8 +402,10 @@ Is he who leads the married state.         47
 
 <details><summary>श्री-राम-देशिकः - ४८</summary>
 
-कारयित्वा परैर्धर्मे धर्ममार्गाबलम्बिनः ।  
-जीवनं च गृगस्थस्य श्लाघ्यते यतिजीवनात् ॥ ४८॥
+**कारयित्वा** परैर् धर्मे  
+धर्म-**मार्गावलम्बिनः** ।  
+जीवनं च गृगस्थस्य  
+**श्लाघ्यते** यतिजीवनात् ॥ ४८॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ४८</summary>
