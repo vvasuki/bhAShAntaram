@@ -1,7 +1,13 @@
 +++
-title = "०४ अन्बुडैमै"
+title = "०४ अन्बुडैमै - प्रेमभावः"
 
 +++
+
+<details><summary>सुन्दर-राजः</summary>
+
+प्रेमभावः
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः - ७१</summary>
 

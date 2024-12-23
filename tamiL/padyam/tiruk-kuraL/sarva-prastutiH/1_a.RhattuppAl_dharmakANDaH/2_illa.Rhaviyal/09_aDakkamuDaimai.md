@@ -46,7 +46,7 @@ Indulgence leads to gloomy hades.         121
 झोंक असंयम नरक में, करता सत्यानास ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रीनिवास (क) - १२१</summary>
 
 121. संयमवु अमरर नडुवॆ ऒय्दु सेरिसुत्तदॆ; संयमराहित्यवु नरकद कारिरुळिनल्लि तळ्ळुत्तदॆ.
 </details>

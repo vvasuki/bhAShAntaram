@@ -3,7 +3,7 @@ title = "+२ इल्लऱवियल् गृहस्थ-धर्म-भ
 
 +++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>सुन्दर-राजः</summary>
 
 गृहस्थ-धर्म-भागः॥
 </details>

@@ -3,7 +3,7 @@ title = "०१ कडवुळ् वाऴ्त्तु - ईशवन्द
 
 +++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>सुन्दर-राजः</summary>
 
 ईशवन्दना
 </details>
