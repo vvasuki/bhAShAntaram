@@ -1,7 +1,13 @@
 +++
-title = "०३ पुदल्वरैप् पॆऱुदल्"
+title = "०३ पुदल्वरैप् पॆऱुदल् - सन्तान-प्राप्तिः"
 
 +++
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सन्तान-प्राप्तिः
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः - ६१</summary>
 
@@ -507,7 +513,7 @@ Delights more than when she begot.         69
 <details><summary>श्री-राम-देशिकः - ७०</summary>
 
 किंवा तपः कृतं पित्रा प्राप्तुमेतादृरां सुतम् ।  
-इति लोकैः स्तुत्ः पुत्रः पितुः स्यादुपकारकः ॥ ७०॥
+इति लोकैः स्तुतः पुत्रः पितुः स्यादुपकारकः ॥ ७०॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७०</summary>

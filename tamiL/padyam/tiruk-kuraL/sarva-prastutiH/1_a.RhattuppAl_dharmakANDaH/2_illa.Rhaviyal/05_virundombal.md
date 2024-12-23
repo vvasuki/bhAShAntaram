@@ -236,7 +236,7 @@ Where smiles welcome the worthy guest.         84
 
 <details><summary>श्री-राम-देशिकः - ८५</summary>
 
-भोजयित्वाऽतिथिं पूर्वे शिष्टं स्वीकृत्य जीवत्ः ।  
+भोजयित्वाऽतिथिं पूर्वे शिष्टं स्वीकृत्य जीवतः ।  
 बीजावापं विना क्षेत्रे जातन्ते सस्यसम्पदः ॥ ८५॥
 </details>
 
@@ -347,7 +347,7 @@ Is a welcome guest in heaven's feast.         86
 <details><summary>श्री-राम-देशिकः - ८७</summary>
 
 सदाराधनयज्ञस्य फलं वाचामगोचरम् ।  
-अतिथेर्योग्यता भेदात् फलमेदोऽपि सम्मत्ः ॥ ८७॥
+अतिथेर्योग्यता भेदात् फलमेदोऽपि सम्मतः ॥ ८७॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ८७</summary>
