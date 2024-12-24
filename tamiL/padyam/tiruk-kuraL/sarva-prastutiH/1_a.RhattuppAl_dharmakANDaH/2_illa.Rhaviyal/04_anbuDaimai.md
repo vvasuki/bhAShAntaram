@@ -17,8 +17,10 @@ title = "०४ अन्बुडैमै - प्रेमभावः"
 
 <details><summary>श्री-राम-देशिकः - ७१</summary>
 
-अर्गलं नास्ति हि प्रीतेः प्रीतानामश्रुबिन्दवः ।  
-प्रकाशयन्ति सर्वेषां प्रीतिमन्तःस्थितामपि ॥ ७१॥
+अर्गलं **नास्ति** हि प्रीतेः  
+प्रीतानाम् अश्रु-बिन्दवः ।  
+**प्रकाशयन्ति** सर्वेषां  
+प्रीतिम् अन्तःस्थिताम् अपि ॥ ७१॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७१</summary>
@@ -77,8 +79,10 @@ The trickling tears reveal the heart.         71
 
 <details><summary>श्री-राम-देशिकः - ७२</summary>
 
-नरः प्रेम्णा विरहितः सर्वमात्मार्थमिच्छति ।  
-प्रेमवान् स्वशरीरं च परार्थमिति मन्यते ॥ ७२॥
+नरः प्रेम्णा **विरहितः**  
+सर्वम् **आत्मार्थम् इच्छति** ।  
+प्रेमवान् स्वशरीरं च  
+**परार्थम्** इति **मन्यते** ॥ ७२॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७२</summary>
@@ -132,8 +136,10 @@ To oth'rs the loving e'en to bones.         72
 
 <details><summary>श्री-राम-देशिकः - ७३</summary>
 
-सर्वत्र प्रियभावेन कुर्वन् जीवनमात्मनः ।  
-जीवस्य देहसम्बन्धफलं पूर्णमिहाश्नुते ॥ ७३॥
+सर्वत्र प्रिय-भावेन  
+**कुर्वन् जीवनम्** आत्मनः ।  
+जीवस्य देह-सम्बन्ध-  
+फलं पूर्णम् **इहाश्नुते** ॥ ७३॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७३</summary>
@@ -187,9 +193,13 @@ To taste the life of love alone.         73
 
 <details><summary>श्री-राम-देशिकः - ७४</summary>
 
-करुते स्वजनप्रेम सव सौहार्दजीवनम् ।  
-तदेव वर्धयेत् स्नेहमधिकं सर्वजन्तुषु ॥ ७४॥
+**करुते** स्व-जन-**प्रेम**  
+सर्व-सौहार्द-जीवनम् ।  
+तद् एव **वर्धयेत् स्नेहम्**  
+अधिकं सर्व-जन्तुषु ॥ ७४॥
 </details>
+
+
 
 <details><summary>NVK Ashraf choice (en) - ७४</summary>
 
@@ -224,7 +234,8 @@ Friendship springs up in excellence.         74
 
 <details><summary>श्रीनिवास (क) - ७४</summary>
 
-74. प्रीति, (इतररॊन्दिगॆ बाळ बयसुव) सहृदयतॆयन्नुण्टुमाडुवुदु. सहृदयतॆयु स्नेहवॆम्ब अळवरियद हिरिमॆयन्नु तरुवुदु.
+74. प्रीति, (इतररॊन्दिगॆ बाळ बयसुव) सहृदयतॆयन्न् उण्टु-माडुवुदु.  
+    सहृदयतॆयु स्नेहव् ऎम्ब अळव् अरियद हिरिमॆयन्नु तरुवुदु.
 
 </details>
 
@@ -242,8 +253,10 @@ Friendship springs up in excellence.         74
 
 <details><summary>श्री-राम-देशिकः - ७५</summary>
 
-प्रेमार्द्रहृदयो यस्तु वर्तसे स्वीयबन्धुषु ।  
-सोऽत्र कीर्ति सुखं चैत्य स्वर्गलोके सुखं वसेत् ॥ ७५॥
+प्रेमार्द्र-हृदयो यस् तु  
+**वर्तते** स्वीय-बन्धुषु ।  
+सोऽत्र कीर्तिं सुखं **चैत्य**  
+स्वर्ग-लोके सुखं **वसेत्** ॥ ७५॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७५</summary>
@@ -297,8 +310,10 @@ From peaceful psychic love always.         75
 
 <details><summary>श्री-राम-देशिकः - ७६</summary>
 
-साधनं धर्ममात्रस्य प्रेमेति कथनं वृथा ।  
-अधर्मवर्जनेऽप्येतत् साधनं वस्तुतत्त्वतः ॥ ७६॥
+**साधनं** धर्म-मात्रस्य  
+प्रेमेति **कथनं वृथा** ।  
+अ-धर्म-वर्जने ऽप्य् एतत्  
+**साधनं** वस्तु-तत्त्वतः ॥ ७६॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७६</summary>
@@ -357,8 +372,10 @@ It helps us against evil plots.         76
 
 <details><summary>श्री-राम-देशिकः - ७७</summary>
 
-निरस्थिकान् कीटगणान् आतपो बाघते यथा ।  
-जीवं प्रेम्णा विरहितं तथा धर्मोऽपि बाघते ॥ ७७॥
+निरस्थिकान् कीट-गणान्  
+आतपो **बाघते** यथा ।  
+जीवं प्रेम्णा **विरहितं**  
+तथा धर्मो ऽपि **बाधते** ॥ ७७॥ +++(5)+++
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७७</summary>
@@ -412,8 +429,10 @@ Like solar blaze the boneless worm.         77
 
 <details><summary>श्री-राम-देशिकः - ७८</summary>
 
-महीरुहस्य शुष्कस्यमरौ पल्लवजन्मवत् ।  
-गृहेषु हृदये प्रें विना जीवन् मुच्यते ॥ ७८॥
+मही-रुहस्य शुष्कस्य  
+मरौ पल्लव-**जन्मवत्** ।  
+गृहेषु हृदये प्रेम  
+विना **जीवनम् उच्यते** ॥ ७८॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७८</summary>
@@ -467,8 +486,10 @@ Can sapless tree in desert bloom?         78
 
 <details><summary>श्री-राम-देशिकः - ७९</summary>
 
-देहान्तरङ्गभूतेन प्रेम्णा र्हितदेहिनाम् ।  
-बाहयाङ्गसामवायेन फलं नैव भवेद् ध्रुवम् ॥ ७९॥
+देहान्तरङ्ग-भूतेन  
+**प्रेम्णा रहित**-देहिनाम् ।  
+बाह्याङ्ग-समवायेन  
+**फलं नैव** भवेद् ध्रुवम् ॥ ७९॥ +++(4)+++
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ७९</summary>
@@ -484,7 +505,8 @@ To those who lack love - the internal?
 79\. puṟattu uṟuppu ellām evaṉ ceyyum-yākkai  
 akattu uṟuppu aṉpu ilavarkku?.
 
-79\. What profits one’s outward feature if one's heart is devoid of love?  
+79\. What profits one’s outward feature  
+if one's heart is devoid of love?  
 </details>
 
 <details><summary>शुद्धानन्द-भारती (en) - ७९</summary>
@@ -498,7 +520,7 @@ Or vain the outer parts will prove.         79
 <details><summary>वेङ्कटकृष्ण (हि) - ७९</summary>
 
 79
-प्रेम देह में यदि नहीं, बन भातर का अंग ।  
+प्रेम देह में यदि नहीं, बन भीतर का अंग ।  
 क्या फल हो यदि पास हों, सब बाहर के अंग ॥
 </details>
 
@@ -522,8 +544,10 @@ Or vain the outer parts will prove.         79
 
 <details><summary>श्री-राम-देशिकः - ८०</summary>
 
-स देहो जीवसहितः यः प्रेमवशमागतः ।  
-चर्मावृतास्थिकृटःस्यात् प्रेम्णा विरहितस्तु यः ॥ ८०॥
+स देहो जीव-**सहितः**  
+यः प्रेम-**वशम् आगतः** ।  
+**चर्मावृतास्थि**-कूटः स्यात्  
+प्रेम्णा **विरहितस्** तु यः ॥ ८०॥
 </details>
 
 <details><summary>NVK Ashraf choice (en) - ८०</summary>
