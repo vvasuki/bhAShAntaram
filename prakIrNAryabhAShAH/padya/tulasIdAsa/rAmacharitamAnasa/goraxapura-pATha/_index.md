@@ -1,4 +1,0 @@
-+++
-title = "+गोरक्षपुर-पाठ"
-unicode_script = "devanagari"
-+++
