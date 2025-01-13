@@ -2,7 +2,7 @@
 title = "क्रिया-पदम्"
 +++
 
-## भूतम्
+## Past
 - yo fui, hube
 - tú fuiste, hubiste
 - él/ella/usted fue, hubo
@@ -11,7 +11,7 @@ title = "क्रिया-पदम्"
 - vosotros fuisteis, hubimos
 - ellos/ellas/ustedes fueron, hubieron
 
-## वर्तमानम्
+## Present
 - yo soy, estoy +++(=temp soy)+++, he
 - tú eres, has
 - él/ella/usted es, esta, ha
@@ -31,7 +31,7 @@ title = "क्रिया-पदम्"
 - vosotros erais
 - ellos/ellas/ustedes eran
 
-## भविष्यत्
+## Future
 - yo seré, habré
 - tú serás, habré
 - él/ella/usted será, habrá
@@ -60,7 +60,7 @@ Affirmative:
 - (ustedes) sean
 
 ## Subjunctive Mood
-### Present:
+### Present Desire
 - quiero yo sea feliz
 - … tú seas
 - … él/ella/usted sea
@@ -69,7 +69,7 @@ Affirmative:
 - … vosotros seáis
 - … ellos/ellas/ustedes sean
 
-### Imperfect:
+### Imperfect सम्भावना
 
 - … yo fuera/fuese
 - … tú fueras/fueses
@@ -81,8 +81,8 @@ Affirmative:
 
 
 ## कृदन्तानि
-- भावे Infinitive: ser
+### भावे
+- Infinitive: ser
 - Present Participle "-ing" (अनुवर्तमान-भावे): Está **siendo** difícil (It is being difficult)
 - Non-present Participle (अवर्तमान-कालक+अनुवर्तमान-भावे): sido
   - He **sido** profesor (I have been a teacher)
-  
