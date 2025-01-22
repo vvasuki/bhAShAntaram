@@ -9,3 +9,4 @@ title = "shixA"
 - h - य्
 - r - ह्
 - o - उ
+- g - ज़्
