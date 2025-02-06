@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on भाषान्तरेषु विश्वासटिप्पन्यः</title>
+    <link>https://vishvAsa.github.io/bhAShAntaram/chinese/articles/</link>
+    <description>Recent content in &#43;Articles on भाषान्तरेषु विश्वासटिप्पन्यः</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/bhAShAntaram/chinese/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classical-chinese</title>
+      <link>https://vishvAsa.github.io/bhAShAntaram/chinese/articles/classical-chinese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/bhAShAntaram/chinese/articles/classical-chinese/</guid>
+      <description>Classical Chinese as a spoken language: an enquiry
+Classical Chinese, as everyone knows, is not currently a spoken language. What fewer people are aware of - even within China - is that it was probably never a spoken language. The language of the classics is, it has been almost universally concluded, simply too terse, abstract and logic-driven to function as a spoken language. It places too big a burden upon the compiler to be used in day-to-day speech.</description>
+    </item>
+    
+  </channel>
+</rss>
